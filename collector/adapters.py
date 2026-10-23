@@ -21,14 +21,18 @@ def civicweb(src, start, end, log):
     base = src["base"].rstrip("/")
     bodies = re.compile(src.get("bodies", "."), re.I)
     page, _ = soup(f"{base}/Portal/MeetingTypeList.aspx")
-    body, types, folders = None, {}, []
+    body, folders, meetings = None, [], {}
     for a in page.find_all("a", href=True):
-        href, text = urljoin(base + "/", a["href"]), a.get_text(" ", strip=True)
+        href, text = urljoin(base + "/Portal/", a["href"]), a.get_text(" ", strip=True)
         if "MeetingInformation.aspx?type=" in href:
             body = text
-            types[body] = href
         elif body and "/filepro/documents/" in href and re.search(r"agenda|minute|summar", text, re.I):
             folders.append((body, href))
+        elif body and "MeetingInformation.aspx?Id=" in href and bodies.search(body):
+            # The list shows each body's three most recent meetings.
+            d = find_date(text)
+            if _in_window(d, start, end):
+                meetings[href] = (body, text, d)
     seen = set()
 
     def emit(body_name, title, url, d):
@@ -40,26 +44,16 @@ def civicweb(src, start, end, log):
         return Doc(src["id"], body_name, d, title, url, kind_of(title + " " + url))
 
     # 1. Each meeting's page links its published agenda (and sometimes minutes).
-    for body_name, type_url in types.items():
-        if not bodies.search(body_name):
-            continue
-        tpage, _ = soup(type_url)
-        meetings = {}
-        for a in tpage.find_all("a", href=True):
-            if "MeetingInformation.aspx?Id=" in a["href"]:
-                d = find_date(a.get_text(" ", strip=True))
-                if _in_window(d, start, end):
-                    meetings[urljoin(base + "/Portal/", a["href"])] = (a.get_text(" ", strip=True), d)
-        log(f"  {body_name}: {len(meetings)} meetings in window")
-        for murl, (mtitle, d) in meetings.items():
-            mpage, _ = soup(murl)
-            for a in mpage.find_all("a", href=True):
-                href = urljoin(base + "/", a["href"])
-                if re.search(r"/document/\d+", href):
-                    title = a.get_text(" ", strip=True) or requests_name(href) or mtitle
-                    doc = emit(body_name, f"{mtitle} - {title}", href, d)
-                    if doc:
-                        yield doc
+    log(f"  {len(meetings)} recent meetings in window")
+    for murl, (body_name, mtitle, d) in meetings.items():
+        mpage, _ = soup(murl)
+        for a in mpage.find_all("a", href=True):
+            href = urljoin(base + "/", a["href"])
+            if re.search(r"/document/\d+", href):
+                title = a.get_text(" ", strip=True) or requests_name(href) or mtitle
+                doc = emit(body_name, f"{mtitle} - {title}", href, d)
+                if doc:
+                    yield doc
 
     # 2. Approved minutes are filed in per-year folders in the document center.
     years = {str(y) for y in range(start.year, end.year + 1)}
@@ -153,6 +147,7 @@ def agendacenter(src, start, end, log):
 def linkscan(src, start, end, log):
     """Fallback for custom city sites: scan listing pages for dated agenda/minutes links."""
     seen = set()
+    follow = re.compile(src["follow"]) if src.get("follow") else None
     for page_url in src["pages"]:
         try:
             page, final = soup(page_url)
@@ -164,7 +159,7 @@ def linkscan(src, start, end, log):
         for a in page.find_all("a", href=True):
             href, text = urljoin(final, a["href"]), a.get_text(" ", strip=True)
             context = text + " " + (a.find_parent(["tr", "li", "article", "div"]).get_text(" ", strip=True)[:200] if a.find_parent(["tr", "li", "article", "div"]) else "")
-            if not (KEYWORDS.search(text) or KEYWORDS.search(href)):
+            if not (KEYWORDS.search(text) or KEYWORDS.search(href) or (follow and follow.search(href))):
                 continue
             d = find_date(text, href, context)
             if _in_window(d, start, end):

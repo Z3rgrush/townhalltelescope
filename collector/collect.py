@@ -73,7 +73,13 @@ def main():
         keep = []
         for group in by_meeting.values():
             minutes = [d for d in group if d.kind == "minutes"]
-            keep.extend(minutes or group)
+            # CivicWeb posts each document as both "- Pdf" and "- Html"/"- Adopted"; keep one copy.
+            variants = {}
+            for d in minutes or group:
+                key = re.sub(r"\s*-\s*(pdf|html|adopted)\b", "", d.title, flags=re.I).strip().lower()
+                if key not in variants or re.search(r"-\s*pdf\b", variants[key].title, re.I):
+                    variants[key] = d
+            keep.extend(variants.values())
 
         stats = defaultdict(int)
         for d in keep:

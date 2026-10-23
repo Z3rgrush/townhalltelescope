@@ -84,31 +84,33 @@
 - id: prairie-village
   name: Prairie Village
   county: Johnson
-  adapter: linkscan
-  pages:
-    - https://pvkansas.com/governing-body/city-council/city-council-meetings-minutes-and-packets
+  adapter: civicclerk
+  tenant: prairievillageks
 
 - id: merriam
   name: Merriam
   county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.merriam.org/Government/City-Council/Agendas-Minutes
-    - https://www.merriam.org/Government/City-Council
+  adapter: civicweb
+  base: https://merriam.civicweb.net
+  bodies: "Council|Planning|Committee"
 
 - id: mission
   name: Mission
   county: Johnson
   adapter: linkscan
   pages:
-    - https://missionks.org/events/category/agenda-minutes/
+    - https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past
+    - https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past&paged=2
+    - https://www.missionks.org/city-government/agendas-minutes/
+  follow: "/event/"
 
 - id: gardner
   name: Gardner
   county: Johnson
   adapter: linkscan
   pages:
-    - https://gardnerkansas.gov/government/city-council-meetings
+    - https://gardnerkansas.gov/government/city_council/agendas_minutes.php
+    - https://gardnerkansas.gov/government/agendas_minutes.php
 
 - id: edgerton
   name: Edgerton
@@ -123,16 +125,15 @@
   county: Johnson
   adapter: linkscan
   pages:
-    - https://fairwaykansas.org/agendas-and-minutes
-    - https://fairwaykansas.org/
+    - https://fairwaykansas.org/minutes
 
 - id: westwood-hills
   name: Westwood Hills
   county: Johnson
   adapter: linkscan
   pages:
-    - https://www.westwoodhillsks.gov/agendas-minutes
-    - https://www.westwoodhillsks.gov/
+    - https://www.westwoodhillsks.gov/agendas/City-Council
+    - https://www.westwoodhillsks.gov/agendas/Planning-Commission
 
 - id: lake-quivira
   name: Lake Quivira

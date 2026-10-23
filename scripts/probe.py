@@ -3,7 +3,7 @@ import csv, re, sys
 from urllib.parse import urljoin
 import requests
 
-UA = {"User-Agent": "townhalltelescope/0.1 (hobby civic project; github.com/Z3rgrush/townhalltelescope)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; townhalltelescope/0.1; +https://github.com/Z3rgrush/townhalltelescope)"}
 KEY = re.compile(r"minute|agenda|packet|meeting|document|viewfile|event|portal|\.pdf", re.I)
 
 # A URL prefixed with "raw:" prints the start of the response body instead of its links.

@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-UA = "townhalltelescope/0.1 (hobby civic map; https://github.com/Z3rgrush/townhalltelescope)"
+UA = "Mozilla/5.0 (compatible; townhalltelescope/0.1 (hobby civic map; https://github.com/Z3rgrush/townhalltelescope)"
 session = requests.Session()
 session.headers["User-Agent"] = UA
 
