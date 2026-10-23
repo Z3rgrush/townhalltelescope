@@ -1,0 +1,2554 @@
+{
+ "bonner-springs#0": {
+  "date": "2026-07-27",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - July 27, 2026 City Council Meeting Minutes",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2152,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/504/files"
+ },
+ "bonner-springs#1": {
+  "date": "2026-08-10",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - August 10, 2026 City Council Meeting Minutes",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2167,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/494/files"
+ },
+ "bonner-springs#2": {
+  "date": "2026-08-18",
+  "body": "Board of Zoning Appeals",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - August 18, 2026 Board of Zoning Appeals Agenda",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2153,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/578/files"
+ },
+ "bonner-springs#3": {
+  "date": "2026-08-24",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - August 24, 2026 City Council Meeting Minutes",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2174,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/505/files"
+ },
+ "bonner-springs#4": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "One Time Event - September 8, 2026 Special City Council Meeting Minutes",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2175,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/577/files"
+ },
+ "bonner-springs#5": {
+  "date": "2026-09-14",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - September 14, 2026 City Council Meeting Minutes",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2182,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/495/files"
+ },
+ "bonner-springs#6": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - September 28, 2026 City Council Meeting Minutes",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2188,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/506/files"
+ },
+ "bonner-springs#7": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - October 12, 2026 City Council Meeting Agenda",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2186,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/511/files"
+ },
+ "bonner-springs#8": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - October 12, 2026 City Council Meeting Agenda Packet",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2187,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/511/files"
+ },
+ "bonner-springs#9": {
+  "date": "2026-10-20",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - October 20, 2026 Bonner Springs Planning Commission Agenda",
+  "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2191,plainText=false)",
+  "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/532/files"
+ },
+ "edgerton#0": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda Packet",
+  "url": "https://edgertonks.org/wp-content/uploads/2026-08-11-PC-Packet.pdf",
+  "public_url": null
+ },
+ "edgerton#1": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://edgertonks.org/wp-content/uploads/PC2026-08-11-Agenda.pdf",
+  "public_url": null
+ },
+ "edgerton#2": {
+  "date": "2026-08-13",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Minutes",
+  "url": "https://edgertonks.org/wp-content/uploads/Minutes-8.13.2026.pdf",
+  "public_url": null
+ },
+ "edgerton#3": {
+  "date": "2026-08-27",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Minutes",
+  "url": "https://edgertonks.org/wp-content/uploads/Minutes-8.27.2026.pdf",
+  "public_url": null
+ },
+ "edgerton#4": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://edgertonks.org/wp-content/uploads/0_PC2026-09-08-Agenda.pdf",
+  "public_url": null
+ },
+ "edgerton#5": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda Packet",
+  "url": "https://edgertonks.org/wp-content/uploads/2026-09-08-PC-Packet.pdf",
+  "public_url": null
+ },
+ "edgerton#6": {
+  "date": "2026-09-10",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Minutes",
+  "url": "https://edgertonks.org/wp-content/uploads/Minutes-9.10.2026.pdf",
+  "public_url": null
+ },
+ "edgerton#7": {
+  "date": "2026-09-24",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Minutes",
+  "url": "https://edgertonks.org/wp-content/uploads/Minutes-9.24.2026.pdf",
+  "public_url": null
+ },
+ "edgerton#8": {
+  "date": "2026-10-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda Packet",
+  "url": "https://edgertonks.org/wp-content/uploads/10.8.26-PACKET-1.pdf",
+  "public_url": null
+ },
+ "edgerton#9": {
+  "date": "2026-10-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://edgertonks.org/wp-content/uploads/Agenda-10.08.26.pdf",
+  "public_url": null
+ },
+ "edgerton#10": {
+  "date": "2026-10-22",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://edgertonks.org/wp-content/uploads/00.Agenda-10.22.2026-AMENDED.pdf",
+  "public_url": null
+ },
+ "edgerton#11": {
+  "date": "2026-10-22",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda Packet",
+  "url": "https://edgertonks.org/wp-content/uploads/City-Council-Packet-10.22.2026-AMENDED.pdf",
+  "public_url": null
+ },
+ "edwardsville#0": {
+  "date": "2026-07-27",
+  "body": "Jul 27, 2026 \u2014\u2009Posted Jul 24, 2026 12:27 PM",
+  "kind": "agenda",
+  "title": "Jul 27, 2026 \u2014\u2009Posted Jul 24, 2026 12:27 PM City Council Agenda Packet for July 27, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_07272026-519",
+  "public_url": null
+ },
+ "edwardsville#1": {
+  "date": "2026-08-10",
+  "body": "Aug 10, 2026 \u2014\u2009Posted Aug 7, 2026 12:11 PM",
+  "kind": "agenda",
+  "title": "Aug 10, 2026 \u2014\u2009Posted Aug 7, 2026 12:11 PM City Council Agenda Packet for August 10, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_08102026-520",
+  "public_url": null
+ },
+ "edwardsville#2": {
+  "date": "2026-08-19",
+  "body": "Aug 19, 2026 \u2014\u2009Posted Aug 14, 2026 3:20 PM",
+  "kind": "agenda",
+  "title": "Aug 19, 2026 \u2014\u2009Posted Aug 14, 2026 3:20 PM PC AGENDA PACKET (08/19/2026) Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_08192026-521",
+  "public_url": null
+ },
+ "edwardsville#3": {
+  "date": "2026-08-24",
+  "body": "Aug 24, 2026 \u2014\u2009Posted Aug 21, 2026 2:50 PM",
+  "kind": "agenda",
+  "title": "Aug 24, 2026 \u2014\u2009Posted Aug 21, 2026 2:50 PM City Council Agenda Packet for August 24, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_08242026-522",
+  "public_url": null
+ },
+ "edwardsville#4": {
+  "date": "2026-09-09",
+  "body": "Sep 9, 2026 \u2014\u2009Posted Sep 4, 2026 10:36 AM",
+  "kind": "agenda",
+  "title": "Sep 9, 2026 \u2014\u2009Posted Sep 4, 2026 10:36 AM 9/9/2026 CPPS Agenda Packet Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_09092026-523",
+  "public_url": null
+ },
+ "edwardsville#5": {
+  "date": "2026-09-14",
+  "body": "Sep 14, 2026 \u2014\u2009Posted Sep 12, 2026 12:39 PM",
+  "kind": "agenda",
+  "title": "Sep 14, 2026 \u2014\u2009Posted Sep 12, 2026 12:39 PM City Council Agenda Packet for September 14, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_09142026-524",
+  "public_url": null
+ },
+ "edwardsville#6": {
+  "date": "2026-09-28",
+  "body": "Sep 28, 2026 \u2014\u2009Posted Sep 25, 2026 11:51 AM",
+  "kind": "agenda",
+  "title": "Sep 28, 2026 \u2014\u2009Posted Sep 25, 2026 11:51 AM City Council Agenda Packet for September 28, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_09282026-526",
+  "public_url": null
+ },
+ "edwardsville#7": {
+  "date": "2026-10-12",
+  "body": "Oct 12, 2026 \u2014\u2009Posted Oct 9, 2026 2:58 PM",
+  "kind": "agenda",
+  "title": "Oct 12, 2026 \u2014\u2009Posted Oct 9, 2026 2:58 PM City Council Agenda Packet for October 12, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.edwardsvilleks.org/AgendaCenter/ViewFile/Agenda/_10122026-527",
+  "public_url": null
+ },
+ "fairway#0": {
+  "date": "2026-08-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "08-26-26 Administration & Finance Committee Meeting Agenda",
+  "url": "https://fairwaykansas.org/vertical/sites/%7B2E9A1127-A5E6-4265-8DEB-66A64969B748%7D/uploads/ADMIN__FI_COMM_AGENDA_78-26-2026.pdf",
+  "public_url": null
+ },
+ "fairway#1": {
+  "date": "2026-08-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "08-26-2026 Special City Council Meeting",
+  "url": "https://fairwaykansas.org/vertical/sites/%7B2E9A1127-A5E6-4265-8DEB-66A64969B748%7D/uploads/CC082626agenda.pdf",
+  "public_url": null
+ },
+ "fairway#2": {
+  "date": "2026-09-14",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "09-14-2026 City Council Packet",
+  "url": "https://fairwaykansas.org/vertical/sites/%7B2E9A1127-A5E6-4265-8DEB-66A64969B748%7D/uploads/Entire_Packet(34).pdf",
+  "public_url": null
+ },
+ "fairway#3": {
+  "date": "2026-09-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "09-26-2026 Planning Commission Agenda",
+  "url": "https://fairwaykansas.org/uploads/dm/10420/09262026_Planning_Commission_Agenda",
+  "public_url": null
+ },
+ "fairway#4": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "10-12-2026 City Council Packet",
+  "url": "https://fairwaykansas.org/vertical/sites/%7B2E9A1127-A5E6-4265-8DEB-66A64969B748%7D/uploads/Entire_Packet(35).pdf",
+  "public_url": null
+ },
+ "gardner#0": {
+  "date": "2026-07-28",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Packet",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda Packet 07282026.pdf?t=202607301626180",
+  "public_url": null
+ },
+ "gardner#1": {
+  "date": "2026-08-03",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Agenda",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda 08032026.pdf?t=202607301626090",
+  "public_url": null
+ },
+ "gardner#2": {
+  "date": "2026-08-03",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Minutes",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/08032026 Minutes.pdf?t=202608181227560",
+  "public_url": null
+ },
+ "gardner#3": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Packet",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda Packet 08112026.pdf?t=202608131652480",
+  "public_url": null
+ },
+ "gardner#4": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Agenda",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda 08172026.pdf?t=202608131652370",
+  "public_url": null
+ },
+ "gardner#5": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Minutes",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/08172026 Minutes.pdf?t=202609091613060",
+  "public_url": null
+ },
+ "gardner#6": {
+  "date": "2026-09-03",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Packet",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda Packet 09032026op.pdf?t=202609031641190",
+  "public_url": null
+ },
+ "gardner#7": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Agenda",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/0 Agenda 09082026.pdf?t=202609031641050",
+  "public_url": null
+ },
+ "gardner#8": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Minutes",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/09082026 Minutes.pdf?t=202609221139120",
+  "public_url": null
+ },
+ "gardner#9": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Packet",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda Packet 09152026op.pdf?t=202609171656530",
+  "public_url": null
+ },
+ "gardner#10": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Agenda",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda 09212026.pdf?t=202609171656420",
+  "public_url": null
+ },
+ "gardner#11": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Minutes",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/09212026 Minutes.pdf?t=202610071219550",
+  "public_url": null
+ },
+ "gardner#12": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Agenda",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda 10052026.pdf?t=202610051431350",
+  "public_url": null
+ },
+ "gardner#13": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Packet",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda Packet 10052026.pdf?t=202610051431450",
+  "public_url": null
+ },
+ "gardner#14": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Minutes",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2024/Minutes/Minutes_citycouncil_202405201285.pdf?t=202507170909460",
+  "public_url": null
+ },
+ "gardner#15": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Agenda",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda 10192026.pdf?t=202610151628250",
+  "public_url": null
+ },
+ "gardner#16": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Packet",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Agenda/Agenda Packet 10152026.pdf?t=202610151628530",
+  "public_url": null
+ },
+ "gardner#17": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "10/19/2026 City Council - Minutes",
+  "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10052026 Minutes.pdf?t=202610201322530",
+  "public_url": null
+ },
+ "lake-quivira#0": {
+  "date": "2026-08-03",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Minutes",
+  "url": "https://cdn.prod.website-files.com/666f1781f886c3f4bcc5a0e0/6ac26c2693c316415485793d_Minutes%20from%20August%203%2C%202026%20CCM.pdf",
+  "public_url": null
+ },
+ "lake-quivira#1": {
+  "date": "2026-09-14",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Minutes",
+  "url": "https://cdn.prod.website-files.com/666f1781f886c3f4bcc5a0e0/6ac55bab4960a0e0da95ec40_Minutes%20from%20Sept%2014%2C%202026%20CCM.pdf",
+  "public_url": null
+ },
+ "lake-quivira#2": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda |",
+  "url": "https://cdn.prod.website-files.com/666f1781f886c3f4bcc5a0e0/6ac26e49feb5cde6c2bf630b_AGENDA%20CCM%20October%205%2C%202026.pdf",
+  "public_url": null
+ },
+ "leawood#0": {
+  "date": "2026-08-10",
+  "body": "Arts in Public Places Initiative [APPI] (Sub-committee of the Leawood Arts Council)",
+  "kind": "agenda",
+  "title": "Arts in Public Places Initiative [APPI] (Sub-committee of the Leawood Arts Council) - Aug 10 2026 - Arts in Public Places Initiative [APPI] (Sub-co.pdf",
+  "url": "https://leawood.civicweb.net/document/233070/Arts%20in%20Public%20Places%20Initiative%20[APPI]%20(Sub-co.pdf?handle=BDCD6FE75161492A98BB148B87E6CA38",
+  "public_url": null
+ },
+ "leawood#1": {
+  "date": "2026-08-25",
+  "body": "Planning Commission-Regular Session",
+  "kind": "agenda",
+  "title": "Planning Commission-Regular Session - Aug 25 2026 - Planning Commission-Regular Session - Aug 25 20.pdf",
+  "url": "https://leawood.civicweb.net/document/233494/Planning%20Commission-Regular%20Session%20-%20Aug%2025%2020.pdf?handle=D249EBAC94694C0B8B6EB1C47E403C3B",
+  "public_url": null
+ },
+ "leawood#2": {
+  "date": "2026-08-26",
+  "body": "Stormwater Management Committee",
+  "kind": "agenda",
+  "title": "Stormwater Management Committee - Aug 26 2026 - Stormwater Management Committee - Aug 26 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/233520/Stormwater%20Management%20Committee%20-%20Aug%2026%202026.pdf?handle=787528050E1F46CEBD55189DC935E037",
+  "public_url": null
+ },
+ "leawood#3": {
+  "date": "2026-08-26",
+  "body": "Board of Zoning Appeals [BZA]",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals [BZA] - Aug 26 2026 - Board of Zoning Appeals [BZA] - Aug 26 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/233526/Board%20of%20Zoning%20Appeals%20[BZA]%20-%20Aug%2026%202026.pdf?handle=0CD901C96B404DA4B507C9E43EC1ABB0",
+  "public_url": null
+ },
+ "leawood#4": {
+  "date": "2026-09-02",
+  "body": "Public Works Committee",
+  "kind": "agenda",
+  "title": "Public Works Committee - Sep 02 2026 - Public Works Committee - Sep 02 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/233762/Public%20Works%20Committee%20-%20Sep%2002%202026.pdf?handle=426C888235544664AEF36E299D254A65",
+  "public_url": null
+ },
+ "leawood#5": {
+  "date": "2026-09-08",
+  "body": "Governing Body-Work Session",
+  "kind": "agenda",
+  "title": "Governing Body-Special Call Work Session - Sep 08 2026 - Governing Body-Special Call Work Session - Sep .pdf",
+  "url": "https://leawood.civicweb.net/document/234016/Governing%20Body-Special%20Call%20Work%20Session%20-%20Sep%20.pdf?handle=50A96601DE344F6D804153A125775E76",
+  "public_url": null
+ },
+ "leawood#6": {
+  "date": "2026-09-08",
+  "body": "Governing Body-Regular Session",
+  "kind": "agenda",
+  "title": "Governing Body-Regular Session - Sep 08 2026 - Governing Body-Regular Session - Sep 08 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/234024/Governing%20Body-Regular%20Session%20-%20Sep%2008%202026.pdf?handle=6B020EBE7FEF4E62AB4C327FA8CE963A",
+  "public_url": null
+ },
+ "leawood#7": {
+  "date": "2026-09-09",
+  "body": "Gezer Region Sister City Committee",
+  "kind": "agenda",
+  "title": "Gezer Region Sister City Committee - Sep 09 2026 - Gezer Region Sister City Committee - Sep 09 202.pdf",
+  "url": "https://leawood.civicweb.net/document/233663/Gezer%20Region%20Sister%20City%20Committee%20-%20Sep%2009%20202.pdf?handle=64512CABCA924F318A5D95F3F9171FAA",
+  "public_url": null
+ },
+ "leawood#8": {
+  "date": "2026-09-21",
+  "body": "Governing Body-Regular Session",
+  "kind": "agenda",
+  "title": "Governing Body-Regular Session - Sep 21 2026 - Governing Body-Regular Session - Sep 21 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/234293/Governing%20Body-Regular%20Session%20-%20Sep%2021%202026.pdf?handle=37CC7BB4FF9644829D02FBA3BE9EACC1",
+  "public_url": null
+ },
+ "leawood#9": {
+  "date": "2026-09-21",
+  "body": "Governing Body-Work Session",
+  "kind": "agenda",
+  "title": "Governing Body-Work Session - Sep 21 2026 - Governing Body-Work Session - Sep 21 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/234299/Governing%20Body-Work%20Session%20-%20Sep%2021%202026.pdf?handle=ECBE470C95824958A623EEBE4D1DB267",
+  "public_url": null
+ },
+ "leawood#10": {
+  "date": "2026-09-23",
+  "body": "Board of Zoning Appeals [BZA]",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals [BZA] - Sep 23 2026 - Board of Zoning Appeals [BZA] - Sep 23 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/234188/Board%20of%20Zoning%20Appeals%20[BZA]%20-%20Sep%2023%202026.pdf?handle=404D910B6EB04C3BA1CBB2A9A0467D35",
+  "public_url": null
+ },
+ "leawood#11": {
+  "date": "2026-09-28",
+  "body": "Governing Body-Work Session",
+  "kind": "agenda",
+  "title": "Governing Body & Planning Commission Joint Work Session - Sep 28 2026 - Governing Body   Planning Commission Joint Work.pdf",
+  "url": "https://leawood.civicweb.net/document/234429/Governing%20Body%20_%20Planning%20Commission%20Joint%20Work.pdf?handle=E4AF08C127414C6EABC7F6BD5BF1C9F3",
+  "public_url": null
+ },
+ "leawood#12": {
+  "date": "2026-09-30",
+  "body": "Stormwater Management Committee",
+  "kind": "agenda",
+  "title": "Stormwater Management Committee - Sep 30 2026 - CANCELED - Stormwater Management Committee - Sep 30 2026 -.pdf",
+  "url": "https://leawood.civicweb.net/document/234333/Stormwater%20Management%20Committee%20-%20Sep%2030%202026%20-.pdf?handle=5E3DF7F3272642ABBCF5A7919A32E17D",
+  "public_url": null
+ },
+ "leawood#13": {
+  "date": "2026-10-07",
+  "body": "Public Works Committee",
+  "kind": "agenda",
+  "title": "Public Works Committee - Oct 07 2026 - CANCELED - Public Works Committee - Oct 07 2026 - CANCELED.pdf",
+  "url": "https://leawood.civicweb.net/document/234336/Public%20Works%20Committee%20-%20Oct%2007%202026%20-%20CANCELED.pdf?handle=52B9A83EC1974A26B324FCEE170D803D",
+  "public_url": null
+ },
+ "leawood#14": {
+  "date": "2026-10-07",
+  "body": "Yilan Sister City Committee",
+  "kind": "agenda",
+  "title": "Yilan Sister City Committee - Oct 07 2026 - Yilan Sister City Committee - Oct 07 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/234654/Yilan%20Sister%20City%20Committee%20-%20Oct%2007%202026.pdf?handle=8F41689D085F4F3F8D38C414E4593C59",
+  "public_url": null
+ },
+ "leawood#15": {
+  "date": "2026-10-13",
+  "body": "Planning Commission-Work Session",
+  "kind": "agenda",
+  "title": "Planning Commission-Work Session - Oct 13 2026 - Planning Commission-Work Session - Oct 13 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/235063/Planning%20Commission-Work%20Session%20-%20Oct%2013%202026.pdf?handle=F9F90BBE0E3A4CACB667D828037FC115",
+  "public_url": null
+ },
+ "leawood#16": {
+  "date": "2026-10-19",
+  "body": "Governing Body-Regular Session",
+  "kind": "agenda",
+  "title": "Governing Body-Regular Session - Oct 19 2026 - Governing Body-Regular Session - Oct 19 2026.pdf",
+  "url": "https://leawood.civicweb.net/document/235168/Governing%20Body-Regular%20Session%20-%20Oct%2019%202026.pdf?handle=2D93E4DDEAD9491396C8546678C5649B",
+  "public_url": null
+ },
+ "lenexa#0": {
+  "date": "2026-09-03",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 03, 2026 Police Community Advisory Board - Download PDF (147KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/police-community-advisory-board/2026/cab-2026-09-03-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#1": {
+  "date": "2026-09-09",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 09, 2026 Parks & Recreation Advisory Board - Download PDF (856KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/parks-recreation-board/2026/pk-2026-09-09-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#2": {
+  "date": "2026-09-09",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 09, 2026 Parks & Recreation Advisory Board - Download PDF (222KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/parks-recreation-board/2026/pk-2026-09-09-minutes.pdf",
+  "public_url": null
+ },
+ "lenexa#3": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 15, 2026 City Council - Download PDF (205KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/city-council/2026/cc-2026-09-15-minutes.pdf",
+  "public_url": null
+ },
+ "lenexa#4": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 15, 2026 Arts Council - Download PDF (83KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/arts-council/2026/ac-2026-09-15-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#5": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 15, 2026 Arts Council - Download PDF (199KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/arts-council/2026/ac-2026-09-15-minutes.pdf",
+  "public_url": null
+ },
+ "lenexa#6": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 15, 2026 City Council - Download PDF (196KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/city-council/2026/cc-2026-09-15-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#7": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 15, 2026 City Council - Download PDF (21MB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/city-council/2026/cc-2026-09-15-packet.pdf",
+  "public_url": null
+ },
+ "lenexa#8": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 05, 2026 Planning Commission - Download PDF (284KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/planning-commission/2026/pc-2026-10-05-actionag.pdf",
+  "public_url": null
+ },
+ "lenexa#9": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 05, 2026 Planning Commission - Download PDF (283KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/planning-commission/2026/pc-2026-10-05-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#10": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 06, 2026 City Council - Download PDF (193KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/city-council/2026/cc-2026-10-06-minutes.pdf",
+  "public_url": null
+ },
+ "lenexa#11": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 06, 2026 City Council - Download PDF (3MB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/city-council/2026/cc-2026-10-06-packet.pdf",
+  "public_url": null
+ },
+ "lenexa#12": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 06, 2026 City Council - Download PDF (187KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/city-council/2026/cc-2026-10-06-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#13": {
+  "date": "2026-10-14",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 14, 2026 Parks & Recreation Advisory Board - Download PDF (178KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/parks-recreation-board/2026/pk-2026-10-14-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#14": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 20, 2026 Arts Council - Download PDF (181KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/1/agendas-minutes/arts-council/2026/ac-2026-10-20-ag.pdf",
+  "public_url": null
+ },
+ "lenexa#15": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "October 20, 2026 City Council - Download PDF (192KB)",
+  "url": "https://www.lenexa.com/files/sharedassets/city/v/2/agendas-minutes/city-council/2026/cc-2026-10-20-ag.pdf",
+  "public_url": null
+ },
+ "merriam#0": {
+  "date": "2026-08-05",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Aug 05 2026 - Planning Commission - Aug 05 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/131746/Planning%20Commission%20-%20Aug%2005%202026.pdf?handle=9763362C1D85424B8BF99B546941FC7C",
+  "public_url": null
+ },
+ "merriam#1": {
+  "date": "2026-08-10",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Aug 10 2026 - City Council Work Session - Aug 10 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/131878/City%20Council%20Work%20Session%20-%20Aug%2010%202026.pdf?handle=16A6FCDA8B004510860D2DC0E694F44B",
+  "public_url": null
+ },
+ "merriam#2": {
+  "date": "2026-08-13",
+  "body": "Public Art Committee",
+  "kind": "agenda",
+  "title": "Public Art Committee - Aug 13 2026 - Public Art Committee - Aug 13 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/131915/Public%20Art%20Committee%20-%20Aug%2013%202026.pdf?handle=CFB35D98C60B4D8EA7663F2AEA60FA61",
+  "public_url": null
+ },
+ "merriam#3": {
+  "date": "2026-08-18",
+  "body": "Downtown Master Plan Steering Committee",
+  "kind": "agenda",
+  "title": "Downtown Master Plan Steering Committee - Aug 18 2026 - Downtown Master Plan Steering Committee - Aug 1.pdf",
+  "url": "https://merriam.civicweb.net/document/131994/Downtown%20Master%20Plan%20Steering%20Committee%20-%20Aug%201.pdf?handle=74751E4617CF46CBB610708725188A55",
+  "public_url": null
+ },
+ "merriam#4": {
+  "date": "2026-09-02",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Sep 02 2026 - Planning Commission - Sep 02 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/132283/Planning%20Commission%20-%20Sep%2002%202026.pdf?handle=0E8C02DC546445EDAC24D91522F9DA8B",
+  "public_url": null
+ },
+ "merriam#5": {
+  "date": "2026-09-14",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Sep 14 2026 - City Council Work Session - Sep 14 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/132399/City%20Council%20Work%20Session%20-%20Sep%2014%202026.pdf?handle=6707D16106CE4AD9AE7B81DF5C31A2F8",
+  "public_url": null
+ },
+ "merriam#6": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council - Sep 28 2026 - City Council - Sep 28 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/132527/City%20Council%20-%20Sep%2028%202026.pdf?handle=4834CEDD92324C1B86C45FF8A303D501",
+  "public_url": null
+ },
+ "merriam#7": {
+  "date": "2026-09-29",
+  "body": "Downtown Master Plan Steering Committee",
+  "kind": "agenda",
+  "title": "Downtown Master Plan Steering Committee - Sep 29 2026 - Downtown Master Plan Steering Committee - Sep 2.pdf",
+  "url": "https://merriam.civicweb.net/document/132549/Downtown%20Master%20Plan%20Steering%20Committee%20-%20Sep%202.pdf?handle=7C0B805F1AD647BEBA8ABF00D38A4962",
+  "public_url": null
+ },
+ "merriam#8": {
+  "date": "2026-10-01",
+  "body": "Public Art Committee",
+  "kind": "agenda",
+  "title": "Public Art Committee - Oct 01 2026 - Public Art Committee - Oct 01 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/132556/Public%20Art%20Committee%20-%20Oct%2001%202026.pdf?handle=A3B074E7BA524A0B9123B9F51EFD783E",
+  "public_url": null
+ },
+ "merriam#9": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council - Oct 12 2026 - City Council - Oct 12 2026.pdf",
+  "url": "https://merriam.civicweb.net/document/132936/City%20Council%20-%20Oct%2012%202026.pdf?handle=2631FF51EF1A4367838EAA7BA5C6BB8C",
+  "public_url": null
+ },
+ "mission#0": {
+  "date": "2026-08-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - https://www.missionks.org/wp-content/uploads/2026/08/08-19-2026-CC-Agenda.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2026/08/08-19-2026-CC-Agenda.pdf",
+  "public_url": null
+ },
+ "mission#1": {
+  "date": "2026-08-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - https://www.missionks.org/wp-content/uploads/2026/08/08-19-2026-CC-Packet.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2026/08/08-19-2026-CC-Packet.pdf",
+  "public_url": null
+ },
+ "mission#2": {
+  "date": "2026-08-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Work Session \u2013 Complete Streets - https://www.missionks.org/wp-content/uploads/2026/08/08-26-26-CC-Work-Session-Agenda.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2026/08/08-26-26-CC-Work-Session-Agenda.pdf",
+  "public_url": null
+ },
+ "mission#3": {
+  "date": "2026-08-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Work Session \u2013 Complete Streets - https://www.missionks.org/wp-content/uploads/2026/08/08-26-26-CC-Work-Session-Packet.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2026/08/08-26-26-CC-Work-Session-Packet.pdf",
+  "public_url": null
+ },
+ "mission#4": {
+  "date": "2026-09-16",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - https://www.missionks.org/wp-content/uploads/2023/04/09-16-2026-CC-Packet-1.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2023/04/09-16-2026-CC-Packet-1.pdf",
+  "public_url": null
+ },
+ "mission#5": {
+  "date": "2026-09-16",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - https://www.missionks.org/wp-content/uploads/2026/09/09-16-2026-CC-Agenda.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2026/09/09-16-2026-CC-Agenda.pdf",
+  "public_url": null
+ },
+ "mission#6": {
+  "date": "2026-10-21",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - https://www.missionks.org/wp-content/uploads/2023/04/10-21-2026-CC-Packet.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2023/04/10-21-2026-CC-Packet.pdf",
+  "public_url": null
+ },
+ "mission#7": {
+  "date": "2026-10-21",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - https://www.missionks.org/wp-content/uploads/2026/10/10-21-2026-CC-Agenda.pdf",
+  "url": "https://www.missionks.org/wp-content/uploads/2026/10/10-21-2026-CC-Agenda.pdf",
+  "public_url": null
+ },
+ "mission-hills#0": {
+  "date": "2026-07-28",
+  "body": "Jul 28, 2026 \u2014\u2009Amended Jul 23, 2026 2:19 PM",
+  "kind": "agenda",
+  "title": "Jul 28, 2026 \u2014\u2009Amended Jul 23, 2026 2:19 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_07282026-642",
+  "public_url": null
+ },
+ "mission-hills#1": {
+  "date": "2026-07-29",
+  "body": "Jul 29, 2026 \u2014\u2009Posted Jul 24, 2026 9:46 AM",
+  "kind": "agenda",
+  "title": "Jul 29, 2026 \u2014\u2009Posted Jul 24, 2026 9:46 AM Board of Zoning Meeting Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_07292026-643",
+  "public_url": null
+ },
+ "mission-hills#2": {
+  "date": "2026-08-10",
+  "body": "Aug 10, 2026 \u2014\u2009Posted Aug 7, 2026 4:35 PM",
+  "kind": "minutes",
+  "title": "Aug 10, 2026 \u2014\u2009Posted Aug 7, 2026 4:35 PM City Council Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Minutes/_08102026-645",
+  "public_url": null
+ },
+ "mission-hills#3": {
+  "date": "2026-08-11",
+  "body": "Aug 11, 2026 \u2014\u2009Amended Aug 5, 2026 2:23 PM",
+  "kind": "agenda",
+  "title": "Aug 11, 2026 \u2014\u2009Amended Aug 5, 2026 2:23 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_08112026-644",
+  "public_url": null
+ },
+ "mission-hills#4": {
+  "date": "2026-08-25",
+  "body": "Aug 25, 2026 \u2014\u2009Posted Aug 12, 2026 1:37 PM",
+  "kind": "agenda",
+  "title": "Aug 25, 2026 \u2014\u2009Posted Aug 12, 2026 1:37 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_08252026-646",
+  "public_url": null
+ },
+ "mission-hills#5": {
+  "date": "2026-08-26",
+  "body": "Aug 26, 2026 \u2014\u2009Posted Aug 25, 2026 3:12 PM",
+  "kind": "agenda",
+  "title": "Aug 26, 2026 \u2014\u2009Posted Aug 25, 2026 3:12 PM Board of Zoning Meeting Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_08262026-647",
+  "public_url": null
+ },
+ "mission-hills#6": {
+  "date": "2026-09-01",
+  "body": "Sep 1, 2026 \u2014\u2009Posted Oct 5, 2026 10:45 AM",
+  "kind": "agenda",
+  "title": "Sep 1, 2026 \u2014\u2009Posted Oct 5, 2026 10:45 AM Park Board Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_09012026-658",
+  "public_url": null
+ },
+ "mission-hills#7": {
+  "date": "2026-09-08",
+  "body": "Sep 8, 2026 \u2014\u2009Amended Aug 27, 2026 12:16 PM",
+  "kind": "agenda",
+  "title": "Sep 8, 2026 \u2014\u2009Amended Aug 27, 2026 12:16 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_09082026-648",
+  "public_url": null
+ },
+ "mission-hills#8": {
+  "date": "2026-09-09",
+  "body": "Sep 9, 2026 \u2014\u2009Posted Aug 31, 2026 9:07 AM",
+  "kind": "agenda",
+  "title": "Sep 9, 2026 \u2014\u2009Posted Aug 31, 2026 9:07 AM Planning Commission Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_09092026-650",
+  "public_url": null
+ },
+ "mission-hills#9": {
+  "date": "2026-09-14",
+  "body": "Sep 14, 2026 \u2014\u2009Posted Sep 11, 2026 10:27 AM",
+  "kind": "minutes",
+  "title": "Sep 14, 2026 \u2014\u2009Posted Sep 11, 2026 10:27 AM City Council Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Minutes/_09142026-651",
+  "public_url": null
+ },
+ "mission-hills#10": {
+  "date": "2026-09-22",
+  "body": "Sep 22, 2026 \u2014\u2009Amended Sep 25, 2026 12:05 PM",
+  "kind": "agenda",
+  "title": "Sep 22, 2026 \u2014\u2009Amended Sep 25, 2026 12:05 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_09222026-652",
+  "public_url": null
+ },
+ "mission-hills#11": {
+  "date": "2026-09-25",
+  "body": "Sep 25, 2026 \u2014\u2009Posted Sep 23, 2026 9:35 AM",
+  "kind": "minutes",
+  "title": "Sep 25, 2026 \u2014\u2009Posted Sep 23, 2026 9:35 AM City Council Special Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Minutes/_09252026-653",
+  "public_url": null
+ },
+ "mission-hills#12": {
+  "date": "2026-09-30",
+  "body": "Sep 30, 2026 \u2014\u2009Posted Sep 24, 2026 9:13 AM",
+  "kind": "agenda",
+  "title": "Sep 30, 2026 \u2014\u2009Posted Sep 24, 2026 9:13 AM Board of Zoning Meeting Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_09302026-655",
+  "public_url": null
+ },
+ "mission-hills#13": {
+  "date": "2026-10-06",
+  "body": "Oct 6, 2026 \u2014\u2009Posted Sep 23, 2026 2:41 PM",
+  "kind": "agenda",
+  "title": "Oct 6, 2026 \u2014\u2009Posted Sep 23, 2026 2:41 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10062026-654",
+  "public_url": null
+ },
+ "mission-hills#14": {
+  "date": "2026-10-06",
+  "body": "Oct 6, 2026 \u2014\u2009Posted Oct 5, 2026 10:44 AM",
+  "kind": "agenda",
+  "title": "Oct 6, 2026 \u2014\u2009Posted Oct 5, 2026 10:44 AM Park Board Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10062026-657",
+  "public_url": null
+ },
+ "mission-hills#15": {
+  "date": "2026-10-12",
+  "body": "Oct 12, 2026 \u2014\u2009Amended Oct 8, 2026 2:02 PM",
+  "kind": "agenda",
+  "title": "Oct 12, 2026 \u2014\u2009Amended Oct 8, 2026 2:02 PM City Council Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10122026-660",
+  "public_url": null
+ },
+ "mission-hills#16": {
+  "date": "2026-10-14",
+  "body": "Oct 14, 2026 \u2014\u2009Posted Oct 5, 2026 1:38 PM",
+  "kind": "agenda",
+  "title": "Oct 14, 2026 \u2014\u2009Posted Oct 5, 2026 1:38 PM Planning Commission Download\u00a0\u25bc Agenda",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10142026-659",
+  "public_url": null
+ },
+ "mission-hills#17": {
+  "date": "2026-10-15",
+  "body": "Oct 15, 2026 \u2014\u2009Posted Oct 15, 2026 3:34 PM",
+  "kind": "agenda",
+  "title": "Oct 15, 2026 \u2014\u2009Posted Oct 15, 2026 3:34 PM Crime Prevention & Safety Committee Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10152026-661",
+  "public_url": null
+ },
+ "mission-hills#18": {
+  "date": "2026-10-20",
+  "body": "Oct 20, 2026 \u2014\u2009Amended Oct 19, 2026 2:55 PM",
+  "kind": "agenda",
+  "title": "Oct 20, 2026 \u2014\u2009Amended Oct 19, 2026 2:55 PM Architectural Review Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10202026-656",
+  "public_url": null
+ },
+ "olathe#0": {
+  "date": "2026-07-27",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1051",
+  "public_url": null
+ },
+ "olathe#1": {
+  "date": "2026-08-04",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Linked Minutes Document",
+  "url": "https://olatheks.granicus.com/MinutesViewer.php?view_id=1&clip_id=1053&doc_id=2c89a7c2-9bc6-11f1-bb61-005056a89546",
+  "public_url": null
+ },
+ "olathe#2": {
+  "date": "2026-08-10",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1055",
+  "public_url": null
+ },
+ "olathe#3": {
+  "date": "2026-08-18",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Linked Minutes Document",
+  "url": "https://olatheks.granicus.com/MinutesViewer.php?view_id=1&clip_id=1056&doc_id=9b3e0c1d-a6c5-11f1-a028-005056a89546",
+  "public_url": null
+ },
+ "olathe#4": {
+  "date": "2026-08-24",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1062",
+  "public_url": null
+ },
+ "olathe#5": {
+  "date": "2026-09-01",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Linked Minutes Document",
+  "url": "https://olatheks.granicus.com/MinutesViewer.php?view_id=1&clip_id=1064&doc_id=8626979d-b1cc-11f1-b3ea-005056a89546",
+  "public_url": null
+ },
+ "olathe#6": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Linked Minutes Document",
+  "url": "https://olatheks.granicus.com/MinutesViewer.php?view_id=1&clip_id=1066&doc_id=a39b8205-b1cc-11f1-b3ea-005056a89546",
+  "public_url": null
+ },
+ "olathe#7": {
+  "date": "2026-09-14",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1069",
+  "public_url": null
+ },
+ "olathe#8": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Linked Minutes Document",
+  "url": "https://olatheks.granicus.com/MinutesViewer.php?view_id=1&clip_id=1070&doc_id=1ec7d679-c24b-11f1-89ef-005056a84798",
+  "public_url": null
+ },
+ "olathe#9": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1073",
+  "public_url": null
+ },
+ "olathe#10": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Linked Minutes Document",
+  "url": "https://olatheks.granicus.com/MinutesViewer.php?view_id=1&clip_id=1074&doc_id=fb6c8ab4-cd5a-11f1-89ef-005056a84798",
+  "public_url": null
+ },
+ "olathe#11": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1077",
+  "public_url": null
+ },
+ "olathe#12": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Agenda",
+  "url": "https://olatheks.granicus.com/AgendaViewer.php?view_id=1&clip_id=1078",
+  "public_url": null
+ },
+ "overland-park#1": {
+  "date": "2026-07-29",
+  "body": "Site Plan Review Committee",
+  "kind": "agenda",
+  "title": "Site Plan Review Committee - July 29, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/399013",
+  "public_url": null
+ },
+ "overland-park#2": {
+  "date": "2026-08-03",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - August 3, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/399285",
+  "public_url": null
+ },
+ "overland-park#3": {
+  "date": "2026-08-03",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "Mayor and Council - August 3, 2026 (Meeting Summary Only)",
+  "url": "https://opkansas.civicweb.net/document/399387",
+  "public_url": null
+ },
+ "overland-park#4": {
+  "date": "2026-08-03",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "2026-08-03 Mayor and Council Meeting Summary - August 3, 2026",
+  "url": "https://opkansas.civicweb.net/document/399428",
+  "public_url": null
+ },
+ "overland-park#5": {
+  "date": "2026-08-03",
+  "body": "Finance, Administration and Economic Development Committee",
+  "kind": "minutes",
+  "title": "Special Meeting of the Finance, Administration and Economic Development Committee - August 3, 2026 - Minutes - Approved",
+  "url": "https://opkansas.civicweb.net/document/401577",
+  "public_url": null
+ },
+ "overland-park#6": {
+  "date": "2026-08-05",
+  "body": "Community Development",
+  "kind": "agenda",
+  "title": "Community Development - August 5, 2026 - Community Development - August 5, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/399314/Community%20Development%20-%20August%205,%202026.pdf?handle=1CBFBE3D1C874111B5BB0CDA3A29E57C",
+  "public_url": null
+ },
+ "overland-park#7": {
+  "date": "2026-08-05",
+  "body": "Community Development",
+  "kind": "agenda",
+  "title": "Community Development - August 5, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/399315",
+  "public_url": null
+ },
+ "overland-park#8": {
+  "date": "2026-08-10",
+  "body": "Ordinance Review Committee",
+  "kind": "agenda",
+  "title": "Ordinance Review Committee - August 10, 2026 - Ordinance Review Committee - August 10, 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/399517/Ordinance%20Review%20Committee%20-%20August%2010,%202026.docx?handle=9B77D539F26C4C3EB39A4F4B2C8DAC65",
+  "public_url": null
+ },
+ "overland-park#9": {
+  "date": "2026-08-10",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - August 10, 2026 - Committee of the Whole - August 10, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/399751/Committee%20of%20the%20Whole%20-%20August%2010,%202026.pdf?handle=27A7316B3240444191E11D92AAEE2549",
+  "public_url": null
+ },
+ "overland-park#10": {
+  "date": "2026-08-10",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - August 10, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/399752",
+  "public_url": null
+ },
+ "overland-park#11": {
+  "date": "2026-08-10",
+  "body": "Planning Commission",
+  "kind": "minutes",
+  "title": "Planning Commission - August 10, 2026 (Excerpt Minutes)",
+  "url": "https://opkansas.civicweb.net/document/399959",
+  "public_url": null
+ },
+ "overland-park#12": {
+  "date": "2026-08-12",
+  "body": "Comprehensive Plan Committee",
+  "kind": "agenda",
+  "title": "Comprehensive Plan Committee - Aug 12 2026 - Comprehensive Plan Committee - Aug 12 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/399493/Comprehensive%20Plan%20Committee%20-%20Aug%2012%202026.docx?handle=08556C1DF7844E738E994359AB74AA98",
+  "public_url": null
+ },
+ "overland-park#13": {
+  "date": "2026-08-12",
+  "body": "Public Safety",
+  "kind": "agenda",
+  "title": "Public Safety - August 12, 2026 - Public Safety - August 12, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/399723/Public%20Safety%20-%20August%2012,%202026.pdf?handle=D65B2FBF87B6420BA240FD25DE902932",
+  "public_url": null
+ },
+ "overland-park#14": {
+  "date": "2026-08-12",
+  "body": "Public Safety",
+  "kind": "agenda",
+  "title": "Public Safety - August 12, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/399724",
+  "public_url": null
+ },
+ "overland-park#15": {
+  "date": "2026-08-13",
+  "body": "Environmental Advisory Council",
+  "kind": "agenda",
+  "title": "Environmental Advisory Council - August 13, 2026 - Environmental Advisory Council - August 13, 202.pdf",
+  "url": "https://opkansas.civicweb.net/document/399714/Environmental%20Advisory%20Council%20-%20August%2013,%20202.pdf?handle=4CC4C816BA3A4064B098EF56BCDE99F3",
+  "public_url": null
+ },
+ "overland-park#16": {
+  "date": "2026-08-17",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "Mayor and Council - August 17, 2026 - (Meeting Summary Only)",
+  "url": "https://opkansas.civicweb.net/document/400157",
+  "public_url": null
+ },
+ "overland-park#17": {
+  "date": "2026-08-17",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "2026-08-17 Mayor and Council Meeting Summary - August 17, 2026",
+  "url": "https://opkansas.civicweb.net/document/400192",
+  "public_url": null
+ },
+ "overland-park#18": {
+  "date": "2026-08-19",
+  "body": "Site Plan Review Committee",
+  "kind": "agenda",
+  "title": "Site Plan Review Committee - August 19, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/400153",
+  "public_url": null
+ },
+ "overland-park#19": {
+  "date": "2026-08-19",
+  "body": "Finance, Administration and Economic Development Committee",
+  "kind": "minutes",
+  "title": "Finance, Administration and Economic Development Committee - August 19, 2026 - Minutes - Approved",
+  "url": "https://opkansas.civicweb.net/document/401591",
+  "public_url": null
+ },
+ "overland-park#20": {
+  "date": "2026-08-20",
+  "body": "Community Development Block Grant Advisory Committee",
+  "kind": "agenda",
+  "title": "Community Development Block Grant Advisory Committee - August 20, 2026 - Community Development Block Grant Advisory Comm.pdf",
+  "url": "https://opkansas.civicweb.net/document/399960/Community%20Development%20Block%20Grant%20Advisory%20Comm.pdf?handle=5684A897A4A9436BBC6516983E07E8EC",
+  "public_url": null
+ },
+ "overland-park#21": {
+  "date": "2026-08-25",
+  "body": "Parks & Recreation Advisory Council",
+  "kind": "agenda",
+  "title": "Parks & Recreation Advisory Council - August 25, 2026 - Parks   Recreation Advisory Council - August 25.pdf",
+  "url": "https://opkansas.civicweb.net/document/400517/Parks%20_%20Recreation%20Advisory%20Council%20-%20August%2025.pdf?handle=8E4559FFBE274EA1BC4A6948576D8EE7",
+  "public_url": null
+ },
+ "overland-park#22": {
+  "date": "2026-08-25",
+  "body": "Parks & Recreation Advisory Council",
+  "kind": "agenda",
+  "title": "Parks &amp; Recreation Advisory Council - August 25, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/400518",
+  "public_url": null
+ },
+ "overland-park#23": {
+  "date": "2026-09-02",
+  "body": "Community Development",
+  "kind": "agenda",
+  "title": "Community Development - September 2, 2026 - Community Development - September 2, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/400781/Community%20Development%20-%20September%202,%202026.pdf?handle=7F6B90DE6BEB4F44A85BC2A71B8DC3B6",
+  "public_url": null
+ },
+ "overland-park#24": {
+  "date": "2026-09-02",
+  "body": "Community Development",
+  "kind": "agenda",
+  "title": "Community Development - September 2, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/400782",
+  "public_url": null
+ },
+ "overland-park#25": {
+  "date": "2026-09-02",
+  "body": "Site Plan Review Committee",
+  "kind": "agenda",
+  "title": "Site Plan Review Committee - September 2, 2026 - Site Plan Review Committee - September 2, 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/400833/Site%20Plan%20Review%20Committee%20-%20September%202,%202026.docx?handle=E06452EE905B4FC2A653D9B485A85B98",
+  "public_url": null
+ },
+ "overland-park#26": {
+  "date": "2026-09-08",
+  "body": "Neighborhood Engagement Committee",
+  "kind": "agenda",
+  "title": "Neighborhood Engagement Committee - September 8, 2026 - Neighborhood Engagement Committee - September 8.pdf",
+  "url": "https://opkansas.civicweb.net/document/400744/Neighborhood%20Engagement%20Committee%20-%20September%208.pdf?handle=9C39EF83EE5C4D1AA2BA0CAD6810C912",
+  "public_url": null
+ },
+ "overland-park#27": {
+  "date": "2026-09-09",
+  "body": "Public Safety",
+  "kind": "agenda",
+  "title": "Public Safety - September 9, 2026 - Public Safety - September 9, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/400917/Public%20Safety%20-%20September%209,%202026.pdf?handle=E5068855CEB34F94BA5B1E0D22B66E2C",
+  "public_url": null
+ },
+ "overland-park#28": {
+  "date": "2026-09-09",
+  "body": "Public Safety",
+  "kind": "agenda",
+  "title": "Public Safety - September 9, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/400918",
+  "public_url": null
+ },
+ "overland-park#29": {
+  "date": "2026-09-10",
+  "body": "Environmental Advisory Council",
+  "kind": "agenda",
+  "title": "Environmental Advisory Council - September 10, 2026 - Environmental Advisory Council - September 10, .pdf",
+  "url": "https://opkansas.civicweb.net/document/401038/Environmental%20Advisory%20Council%20-%20September%2010,%20.pdf?handle=0C8A71DB53104D568347934A23637A14",
+  "public_url": null
+ },
+ "overland-park#30": {
+  "date": "2026-09-14",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - September 14, 2026 - Planning Commission - September 14, 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/400887/Planning%20Commission%20-%20September%2014,%202026.docx?handle=C3C08585AF074F159A2B6F399BA4DE3C",
+  "public_url": null
+ },
+ "overland-park#31": {
+  "date": "2026-09-14",
+  "body": "Ordinance Review Committee",
+  "kind": "agenda",
+  "title": "Ordinance Review Committee - September 14, 2026 - Ordinance Review Committee - September 14, 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/401405/Ordinance%20Review%20Committee%20-%20September%2014,%202026.docx?handle=B92D329AAAC048BFA1025CD47A2ED7DC",
+  "public_url": null
+ },
+ "overland-park#32": {
+  "date": "2026-09-14",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - September 14, 2026",
+  "url": "https://opkansas.civicweb.net/document/401645",
+  "public_url": null
+ },
+ "overland-park#33": {
+  "date": "2026-09-14",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "Mayor and Council - September 14, 2026 (Meeting Summary Only)",
+  "url": "https://opkansas.civicweb.net/document/401649",
+  "public_url": null
+ },
+ "overland-park#34": {
+  "date": "2026-09-14",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "2026-09-14 Mayor and Council Meeting Summary - September 14, 2026",
+  "url": "https://opkansas.civicweb.net/document/401691",
+  "public_url": null
+ },
+ "overland-park#35": {
+  "date": "2026-09-16",
+  "body": "Finance, Administration and Economic Development Committee",
+  "kind": "agenda",
+  "title": "Finance, Administration and Economic Development Committee - September 16, 2026 - Finance, Administration and Economic Developmen.pdf",
+  "url": "https://opkansas.civicweb.net/document/401618/Finance,%20Administration%20and%20Economic%20Developmen.pdf?handle=EFB50EE51BEF494C89B0DDCA3FE124E3",
+  "public_url": null
+ },
+ "overland-park#36": {
+  "date": "2026-09-16",
+  "body": "Finance, Administration and Economic Development Committee",
+  "kind": "agenda",
+  "title": "Finance, Administration and Economic Development Committee - September 16, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/401619",
+  "public_url": null
+ },
+ "overland-park#37": {
+  "date": "2026-09-16",
+  "body": "Site Plan Review Committee",
+  "kind": "agenda",
+  "title": "Site Plan Review Committee - September 16, 2026 - Site Plan Review Committee - September 16, 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/401637/Site%20Plan%20Review%20Committee%20-%20September%2016,%202026.docx?handle=D3230554B3334446BDB32F07CD28DE03",
+  "public_url": null
+ },
+ "overland-park#38": {
+  "date": "2026-09-28",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - September 28, 2026 - Committee of the Whole - September 28, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/402077/Committee%20of%20the%20Whole%20-%20September%2028,%202026.pdf?handle=92BFCBFE1A9E40F1A2C7CF488C1EE522",
+  "public_url": null
+ },
+ "overland-park#39": {
+  "date": "2026-09-28",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - September 28, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/402078",
+  "public_url": null
+ },
+ "overland-park#40": {
+  "date": "2026-09-28",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "Mayor and Council - September 28, 2026 (Meeting Summary Only)",
+  "url": "https://opkansas.civicweb.net/document/402304",
+  "public_url": null
+ },
+ "overland-park#41": {
+  "date": "2026-09-28",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "2026-09-28 Mayor and Council Meeting Summary - September 28, 2026",
+  "url": "https://opkansas.civicweb.net/document/402344",
+  "public_url": null
+ },
+ "overland-park#42": {
+  "date": "2026-10-05",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - October 5, 2026 - Committee of the Whole - October 5, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/402525/Committee%20of%20the%20Whole%20-%20October%205,%202026.pdf?handle=E22279274DC746BA83A4BAE0239E19F2",
+  "public_url": null
+ },
+ "overland-park#43": {
+  "date": "2026-10-05",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole - October 5, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/402526",
+  "public_url": null
+ },
+ "overland-park#44": {
+  "date": "2026-10-05",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "Mayor and Council - October 5, 2026 (Meeting Summary Only)",
+  "url": "https://opkansas.civicweb.net/document/402687",
+  "public_url": null
+ },
+ "overland-park#45": {
+  "date": "2026-10-05",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "2026-10-05 Mayor and Council Meeting Summary- October 5, 2026",
+  "url": "https://opkansas.civicweb.net/document/402725",
+  "public_url": null
+ },
+ "overland-park#46": {
+  "date": "2026-10-07",
+  "body": "Community Development",
+  "kind": "agenda",
+  "title": "Community Development - October 7, 2026 - Community Development - October 7, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/402562/Community%20Development%20-%20October%207,%202026.pdf?handle=E079127D20654DC9A546E15ECCFFA0E7",
+  "public_url": null
+ },
+ "overland-park#47": {
+  "date": "2026-10-07",
+  "body": "Community Development",
+  "kind": "agenda",
+  "title": "Community Development - October 7, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/402563",
+  "public_url": null
+ },
+ "overland-park#48": {
+  "date": "2026-10-08",
+  "body": "Environmental Advisory Council",
+  "kind": "agenda",
+  "title": "Environmental Advisory Council - October 8, 2026 - Environmental Advisory Council - October 8, 202.pdf",
+  "url": "https://opkansas.civicweb.net/document/402684/Environmental%20Advisory%20Council%20-%20October%208,%20202.pdf?handle=B4DB57D37C4E47A49BEBFC28E714F144",
+  "public_url": null
+ },
+ "overland-park#49": {
+  "date": "2026-10-12",
+  "body": "Planning Commission",
+  "kind": "minutes",
+  "title": "Planning Commission - October 12, 2026 (Excerpt Minutes)",
+  "url": "https://opkansas.civicweb.net/document/403294",
+  "public_url": null
+ },
+ "overland-park#50": {
+  "date": "2026-10-14",
+  "body": "Public Safety",
+  "kind": "agenda",
+  "title": "Public Safety - October 14, 2026 - Public Safety - October 14, 2026.pdf",
+  "url": "https://opkansas.civicweb.net/document/402824/Public%20Safety%20-%20October%2014,%202026.pdf?handle=189E9B8D41974281BC6133143BB0FFAB",
+  "public_url": null
+ },
+ "overland-park#51": {
+  "date": "2026-10-14",
+  "body": "Public Safety",
+  "kind": "agenda",
+  "title": "Public Safety - October 14, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/402825",
+  "public_url": null
+ },
+ "overland-park#52": {
+  "date": "2026-10-19",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "Mayor and Council - October 19, 2026 (Meeting Summary Only)",
+  "url": "https://opkansas.civicweb.net/document/403199",
+  "public_url": null
+ },
+ "overland-park#53": {
+  "date": "2026-10-19",
+  "body": "Mayor and Council",
+  "kind": "minutes",
+  "title": "2026-10-19 Mayor and Council Meeting Summary - October 19, 2026",
+  "url": "https://opkansas.civicweb.net/document/403239",
+  "public_url": null
+ },
+ "overland-park#54": {
+  "date": "2026-10-21",
+  "body": "Finance, Administration and Economic Development Committee",
+  "kind": "agenda",
+  "title": "Finance, Administration and Economic Development Committee - October 21, 2026 - Finance, Administration and Economic Developmen.pdf",
+  "url": "https://opkansas.civicweb.net/document/403169/Finance,%20Administration%20and%20Economic%20Developmen.pdf?handle=D2B16785EEBF4140A62C60A6C01ADD1F",
+  "public_url": null
+ },
+ "overland-park#55": {
+  "date": "2026-10-21",
+  "body": "Finance, Administration and Economic Development Committee",
+  "kind": "agenda",
+  "title": "Finance, Administration and Economic Development Committee - October 21, 2026 - Agenda - Html",
+  "url": "https://opkansas.civicweb.net/document/403170",
+  "public_url": null
+ },
+ "overland-park#56": {
+  "date": "2026-10-21",
+  "body": "Site Plan Review Committee",
+  "kind": "agenda",
+  "title": "Site Plan Review Committee - October 21, 2026 - Site Plan Review Committee - October 21, 2026.docx",
+  "url": "https://opkansas.civicweb.net/document/403173/Site%20Plan%20Review%20Committee%20-%20October%2021,%202026.docx?handle=197A5D242AFD44A28492C3F5500A5EEF",
+  "public_url": null
+ },
+ "overland-park#57": {
+  "date": "2026-10-22",
+  "body": "Mental Health Advisory Committee",
+  "kind": "agenda",
+  "title": "Mental Health Advisory Committee - October 22, 2026 - Mental Health Advisory Committee - October 22, .pdf",
+  "url": "https://opkansas.civicweb.net/document/403142/Mental%20Health%20Advisory%20Committee%20-%20October%2022,%20.pdf?handle=912311012B8647E195F6E68737045480",
+  "public_url": null
+ },
+ "prairie-village#0": {
+  "date": "2026-07-28",
+  "body": "JazzFest Committee",
+  "kind": "agenda",
+  "title": "JazzFest Committee Meeting - JazzFest Meeting Agenda 7-28-26",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1701,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/669/files"
+ },
+ "prairie-village#1": {
+  "date": "2026-08-03",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council - August 3, 2026 City Council Meeting Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3718,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/78/files"
+ },
+ "prairie-village#2": {
+  "date": "2026-08-04",
+  "body": "Planning Commission",
+  "kind": "minutes",
+  "title": "Planning Commission Meeting - August 4, 2026 Planning Commission Meeting Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3725,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/658/files"
+ },
+ "prairie-village#3": {
+  "date": "2026-08-05",
+  "body": "Tree Board",
+  "kind": "minutes",
+  "title": "Tree Board Meeting - Tree Board Meeting Minutes 8/5/26",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3760,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/121/files"
+ },
+ "prairie-village#4": {
+  "date": "2026-08-11",
+  "body": "Diversity Committee",
+  "kind": "agenda",
+  "title": "Diversity Committee Meeting - Diversity Committee Meeting August 11, 2026",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2717,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/65/files"
+ },
+ "prairie-village#5": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - August 17, 2026 City Council Meeting Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3735,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/109/files"
+ },
+ "prairie-village#6": {
+  "date": "2026-08-25",
+  "body": "JazzFest Committee",
+  "kind": "agenda",
+  "title": "JazzFest Committee Meeting - JazzFest Meeting Agenda 8-25-26",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2726,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/670/files"
+ },
+ "prairie-village#7": {
+  "date": "2026-08-26",
+  "body": "Environmental Committee",
+  "kind": "agenda",
+  "title": "Environmental Committee Meeting - August 26, 2026 Environmental Committee Agenda",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2729,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/27/files"
+ },
+ "prairie-village#8": {
+  "date": "2026-08-26",
+  "body": "Environmental Committee",
+  "kind": "agenda",
+  "title": "Environmental Committee Meeting - August 26, 2026 Environmental Committee Packet",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2730,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/27/files"
+ },
+ "prairie-village#9": {
+  "date": "2026-09-01",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - September 1, 2026 Planning Commission Agenda",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3723,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/1698/files"
+ },
+ "prairie-village#10": {
+  "date": "2026-09-01",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - September 1, 2026 Planning Commission Agenda Packet",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3724,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/1698/files"
+ },
+ "prairie-village#11": {
+  "date": "2026-09-02",
+  "body": "Tree Board",
+  "kind": "minutes",
+  "title": "Tree Board Meeting - Tree Board Meeting Minutes 9/2/26",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3759,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/1685/files"
+ },
+ "prairie-village#12": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - September 8, 2026 City Council Agenda",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3728,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/684/files"
+ },
+ "prairie-village#13": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - September 8, 2026 City Council Agenda Packet",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3729,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/684/files"
+ },
+ "prairie-village#14": {
+  "date": "2026-09-15",
+  "body": "Diversity Committee",
+  "kind": "agenda",
+  "title": "Diversity Committee Meeting - Diversity Committee Agenda September 15, 2026",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3736,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/66/files"
+ },
+ "prairie-village#15": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council Meeting - September 21, 2026 City Council Meeting Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3751,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/110/files"
+ },
+ "prairie-village#16": {
+  "date": "2026-09-22",
+  "body": "JazzFest Committee",
+  "kind": "minutes",
+  "title": "JazzFest Committee Meeting - September 22, 2026 JazzFest Committee Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3754,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/671/files"
+ },
+ "prairie-village#17": {
+  "date": "2026-09-23",
+  "body": "Environmental Committee",
+  "kind": "agenda",
+  "title": "Environmental Committee Meeting - September 23, 2026 Environmental Committee Agenda",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3742,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/28/files"
+ },
+ "prairie-village#18": {
+  "date": "2026-09-23",
+  "body": "Environmental Committee",
+  "kind": "agenda",
+  "title": "Environmental Committee Meeting - September 23, 2026 Environmental Committee Packet",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3743,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/28/files"
+ },
+ "prairie-village#19": {
+  "date": "2026-09-30",
+  "body": "Arts Council",
+  "kind": "minutes",
+  "title": "Arts Council Meeting - September 30, 2026 Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3750,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/607/files"
+ },
+ "prairie-village#20": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council - October 5, 2026 City Council Meeting Minutes",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3774,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/1715/files"
+ },
+ "prairie-village#21": {
+  "date": "2026-10-13",
+  "body": "Diversity Committee",
+  "kind": "agenda",
+  "title": "Diversity Committee Meeting - Diversity Committee Agenda",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3752,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/67/files"
+ },
+ "prairie-village#22": {
+  "date": "2026-10-14",
+  "body": "Parks and Recreation Committee",
+  "kind": "agenda",
+  "title": "Parks & Recreation Committee - Parks & Recreation Committee Agenda 10-14-26",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3768,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/1714/files"
+ },
+ "prairie-village#23": {
+  "date": "2026-10-14",
+  "body": "Parks and Recreation Committee",
+  "kind": "agenda",
+  "title": "Parks & Recreation Committee - Parks & Recreation Committee Agenda Packet 10-14-26",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3769,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/1714/files"
+ },
+ "prairie-village#24": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - October 19, 2026 City Council Agenda",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3771,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/111/files"
+ },
+ "prairie-village#25": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - October 19, 2026 City Council Agenda Packet",
+  "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3773,plainText=false)",
+  "public_url": "https://prairievillageks.portal.civicclerk.com/event/111/files"
+ },
+ "shawnee#0": {
+  "date": "2026-07-27",
+  "body": "Council Committee",
+  "kind": "minutes",
+  "title": "Council Committee - 27 Jul 2026 - Minutes - Adopted",
+  "url": "https://cityofshawnee.civicweb.net/document/321714",
+  "public_url": null
+ },
+ "shawnee#1": {
+  "date": "2026-07-27",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council - 27 Jul 2026 - Minutes - Adopted",
+  "url": "https://cityofshawnee.civicweb.net/document/321716",
+  "public_url": null
+ },
+ "shawnee#2": {
+  "date": "2026-08-10",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council - 10 Aug 2026 - Minutes - Adopted",
+  "url": "https://cityofshawnee.civicweb.net/document/322061",
+  "public_url": null
+ },
+ "shawnee#3": {
+  "date": "2026-08-24",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council - 24 Aug 2026 - Minutes - Adopted",
+  "url": "https://cityofshawnee.civicweb.net/document/322374",
+  "public_url": null
+ },
+ "shawnee#4": {
+  "date": "2026-09-21",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - 21 Sep 2026 - Planning Commission - 21 Sep 2026.pdf",
+  "url": "https://cityofshawnee.civicweb.net/document/322390/Planning%20Commission%20-%2021%20Sep%202026.pdf?handle=9DEACA4013C54669843BDFD9DDB9ADFA",
+  "public_url": null
+ },
+ "shawnee#5": {
+  "date": "2026-09-28",
+  "body": "Council Committee",
+  "kind": "agenda",
+  "title": "Council Committee - 28 Sep 2026 - Council Committee - 28 Sep 2026.pdf",
+  "url": "https://cityofshawnee.civicweb.net/document/322522/Council%20Committee%20-%2028%20Sep%202026.pdf?handle=177021BEA34A430A84B6FE16C9AE0793",
+  "public_url": null
+ },
+ "shawnee#6": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council - 28 Sep 2026 - City Council - 28 Sep 2026.pdf",
+  "url": "https://cityofshawnee.civicweb.net/document/322525/City%20Council%20-%2028%20Sep%202026.pdf?handle=8F3015069699488287E9640475035F11",
+  "public_url": null
+ },
+ "shawnee#7": {
+  "date": "2026-10-05",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - 05 Oct 2026 - Planning Commission - 05 Oct 2026.pdf",
+  "url": "https://cityofshawnee.civicweb.net/document/322729/Planning%20Commission%20-%2005%20Oct%202026.pdf?handle=287F73891231429EA728266FB3240226",
+  "public_url": null
+ },
+ "shawnee#8": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council - 12 Oct 2026 - City Council - 12 Oct 2026.pdf",
+  "url": "https://cityofshawnee.civicweb.net/document/322894/City%20Council%20-%2012%20Oct%202026.pdf?handle=1F81DA581FF94253B4193EAF9329E7F6",
+  "public_url": null
+ },
+ "shawnee#9": {
+  "date": "2026-10-12",
+  "body": "Council Committee",
+  "kind": "agenda",
+  "title": "Council Committee - 12 Oct 2026 - Council Committee - 12 Oct 2026.pdf",
+  "url": "https://cityofshawnee.civicweb.net/document/322897/Council%20Committee%20-%2012%20Oct%202026.pdf?handle=66BC5A61588D4C3283A11A08B6C3936F",
+  "public_url": null
+ },
+ "spring-hill#0": {
+  "date": "2026-08-04",
+  "body": "Aug 4, 2026 \u2014\u2009Posted Jul 28, 2026 9:22 AM",
+  "kind": "minutes",
+  "title": "Aug 4, 2026 \u2014\u2009Posted Jul 28, 2026 9:22 AM Cemetery Board Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_08042026-1163",
+  "public_url": null
+ },
+ "spring-hill#1": {
+  "date": "2026-08-06",
+  "body": "Aug 6, 2026 \u2014\u2009Posted Aug 4, 2026 8:15 AM",
+  "kind": "minutes",
+  "title": "Aug 6, 2026 \u2014\u2009Posted Aug 4, 2026 8:15 AM Planning Commission Meeting Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_08062026-1164",
+  "public_url": null
+ },
+ "spring-hill#2": {
+  "date": "2026-08-13",
+  "body": "Aug 13, 2026 \u2014\u2009Posted Aug 7, 2026 5:04 PM",
+  "kind": "minutes",
+  "title": "Aug 13, 2026 \u2014\u2009Posted Aug 7, 2026 5:04 PM City Council Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_08132026-1165",
+  "public_url": null
+ },
+ "spring-hill#3": {
+  "date": "2026-08-20",
+  "body": "Aug 20, 2026 \u2014\u2009Posted Aug 11, 2026 11:55 AM",
+  "kind": "agenda",
+  "title": "Aug 20, 2026 \u2014\u2009Posted Aug 11, 2026 11:55 AM The Community Improvement Committee meets quarterly. View the agenda. Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_08202026-1166",
+  "public_url": null
+ },
+ "spring-hill#4": {
+  "date": "2026-08-27",
+  "body": "Aug 27, 2026 \u2014\u2009Posted Aug 21, 2026 5:00 PM",
+  "kind": "minutes",
+  "title": "Aug 27, 2026 \u2014\u2009Posted Aug 21, 2026 5:00 PM City Council Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_08272026-1167",
+  "public_url": null
+ },
+ "spring-hill#5": {
+  "date": "2026-09-01",
+  "body": "Sep 1, 2026 \u2014\u2009Posted Aug 28, 2026 1:19 PM",
+  "kind": "minutes",
+  "title": "Sep 1, 2026 \u2014\u2009Posted Aug 28, 2026 1:19 PM Cemetery Board Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_09012026-1171",
+  "public_url": null
+ },
+ "spring-hill#6": {
+  "date": "2026-09-03",
+  "body": "Sep 3, 2026 \u2014\u2009Posted Aug 27, 2026 4:22 PM",
+  "kind": "agenda",
+  "title": "Sep 3, 2026 \u2014\u2009Posted Aug 27, 2026 4:22 PM NOTICE OF JOINT WORKSESSION WITH GOVERNING BODY AND PLANNING COMMISSION AT 6 P.M. Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_09032026-1168",
+  "public_url": null
+ },
+ "spring-hill#7": {
+  "date": "2026-09-03",
+  "body": "Sep 3, 2026 \u2014\u2009Posted Aug 28, 2026 1:03 PM",
+  "kind": "agenda",
+  "title": "Sep 3, 2026 \u2014\u2009Posted Aug 28, 2026 1:03 PM City Council Worksession with Planning Commission Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_09032026-1170",
+  "public_url": null
+ },
+ "spring-hill#8": {
+  "date": "2026-09-03",
+  "body": "Sep 3, 2026 \u2014\u2009Posted Aug 28, 2026 8:46 AM",
+  "kind": "minutes",
+  "title": "Sep 3, 2026 \u2014\u2009Posted Aug 28, 2026 8:46 AM Planning Commission Meeting Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_09032026-1169",
+  "public_url": null
+ },
+ "spring-hill#9": {
+  "date": "2026-09-10",
+  "body": "Sep 10, 2026 \u2014\u2009Posted Sep 4, 2026 4:57 PM",
+  "kind": "minutes",
+  "title": "Sep 10, 2026 \u2014\u2009Posted Sep 4, 2026 4:57 PM City Council Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_09102026-1172",
+  "public_url": null
+ },
+ "spring-hill#10": {
+  "date": "2026-09-21",
+  "body": "Sep 21, 2026 \u2014\u2009Posted Sep 21, 2026 11:21 AM",
+  "kind": "agenda",
+  "title": "Sep 21, 2026 \u2014\u2009Posted Sep 21, 2026 11:21 AM Parks Advisory Board (Green Board) Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_09212026-1174",
+  "public_url": null
+ },
+ "spring-hill#11": {
+  "date": "2026-09-24",
+  "body": "Sep 24, 2026 \u2014\u2009Posted Sep 18, 2026 5:02 PM",
+  "kind": "minutes",
+  "title": "Sep 24, 2026 \u2014\u2009Posted Sep 18, 2026 5:02 PM City Council Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Minutes/_09242026-1173",
+  "public_url": null
+ },
+ "spring-hill#13": {
+  "date": "2026-09-30",
+  "body": "Sep 30, 2026 \u2014\u2009Posted Sep 29, 2026 1:44 PM",
+  "kind": "agenda",
+  "title": "Sep 30, 2026 \u2014\u2009Posted Sep 29, 2026 1:44 PM Spring Hill Governing Body attending Spring Hill Comprehensive Plan Pop-Up Event.  Potential Quorum Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_09302026-1178",
+  "public_url": null
+ },
+ "spring-hill#14": {
+  "date": "2026-10-01",
+  "body": "Oct 1, 2026 \u2014\u2009Posted Sep 28, 2026 10:13 AM",
+  "kind": "agenda",
+  "title": "Oct 1, 2026 \u2014\u2009Posted Sep 28, 2026 10:13 AM Planning Commission Meeting Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_10012026-1176",
+  "public_url": null
+ },
+ "spring-hill#15": {
+  "date": "2026-10-06",
+  "body": "Oct 6, 2026 \u2014\u2009Posted Oct 5, 2026 2:43 PM",
+  "kind": "agenda",
+  "title": "Oct 6, 2026 \u2014\u2009Posted Oct 5, 2026 2:43 PM Spring Hill Cemetery Board Regular Meeting Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_10062026-1180",
+  "public_url": null
+ },
+ "spring-hill#16": {
+  "date": "2026-10-08",
+  "body": "Oct 8, 2026 \u2014\u2009Posted Oct 2, 2026 2:52 PM",
+  "kind": "agenda",
+  "title": "Oct 8, 2026 \u2014\u2009Posted Oct 2, 2026 2:52 PM City Council Regular Meeting Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_10082026-1179",
+  "public_url": null
+ },
+ "spring-hill#17": {
+  "date": "2026-10-22",
+  "body": "Oct 22, 2026 \u2014\u2009Posted Oct 16, 2026 4:36 PM",
+  "kind": "agenda",
+  "title": "Oct 22, 2026 \u2014\u2009Posted Oct 16, 2026 4:36 PM City Council Regular Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.springhillks.gov/AgendaCenter/ViewFile/Agenda/_10222026-1182",
+  "public_url": null
+ },
+ "unified-government#0": {
+  "date": "2026-07-30",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Economic Redevelopment Advisory Committee - 07.30.26 Economic Redevelopment Advisory Committee",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14821,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3759/files"
+ },
+ "unified-government#1": {
+  "date": "2026-07-30",
+  "body": "Planning & Zoning and Board of Commission",
+  "kind": "minutes",
+  "title": "Planning & Zoning/Board of Commissioners - 07.30.26 PZ BOC MINUTES",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15068,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3550/files"
+ },
+ "unified-government#3": {
+  "date": "2026-08-03",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Advisory Commission on Human Relations and Disability Issues - 08.03.26 Wyandotte County Advisory Commission on Human Relations and Disability Issues",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14828,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3762/files"
+ },
+ "unified-government#4": {
+  "date": "2026-08-03",
+  "body": "Neighborhood & Community Development Standing Committee",
+  "kind": "minutes",
+  "title": "Neighborhood & Community Development - 08.03.26 FINAL",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14965,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3713/files"
+ },
+ "unified-government#5": {
+  "date": "2026-08-03",
+  "body": "Economic Development & Finance Standing Committee",
+  "kind": "minutes",
+  "title": "Economic Development & Finance - 8.03.26 FINAL EDF",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15007,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3708/files"
+ },
+ "unified-government#6": {
+  "date": "2026-08-06",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Self-Supporting Municipal Improvement District - 08.06.26 SSMID agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14832,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3639/files"
+ },
+ "unified-government#7": {
+  "date": "2026-08-06",
+  "body": "Board of Commissioners",
+  "kind": "minutes",
+  "title": "Board of Commissioners - 08.06.26 BOC MINUTES",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15054,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3551/files"
+ },
+ "unified-government#8": {
+  "date": "2026-08-10",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - August 10, 2026 BOZA Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14844,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3753/files"
+ },
+ "unified-government#9": {
+  "date": "2026-08-10",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - August 10, 2026 BOZA Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14845,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3753/files"
+ },
+ "unified-government#10": {
+  "date": "2026-08-10",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "City Planning Commission - 8.10.2026 Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14863,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3754/files"
+ },
+ "unified-government#11": {
+  "date": "2026-08-10",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "City Planning Commission - 8.10.2026 CPC Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14864,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3754/files"
+ },
+ "unified-government#12": {
+  "date": "2026-08-10",
+  "body": "Neighborhood & Community Development Standing Committee",
+  "kind": "agenda",
+  "title": "Neighborhood and Community Development Special Standing Committee - 8.10.26 Special Standing Committee NCD Meeting ",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14866,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3764/files"
+ },
+ "unified-government#13": {
+  "date": "2026-08-11",
+  "body": "Public Works & Safety Standing Committee",
+  "kind": "minutes",
+  "title": "Public Works & Safety Special Standing Committee - 08.11.26 Special Session Final",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15025,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3765/files"
+ },
+ "unified-government#15": {
+  "date": "2026-08-12",
+  "body": "Administration & Human Services Standing Committee",
+  "kind": "minutes",
+  "title": "Administration & Human Services Special Standing Committee - 08.12.26 SPECIAL SESSION MINUTES",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15038,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3766/files"
+ },
+ "unified-government#16": {
+  "date": "2026-08-13",
+  "body": "Economic Development & Finance Standing Committee",
+  "kind": "minutes",
+  "title": "Economic Development & Finance Special Standing Committee - 08.13.26 EDF Special Final",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15109,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3767/files"
+ },
+ "unified-government#17": {
+  "date": "2026-08-17",
+  "body": "Administration & Human Services Standing Committee",
+  "kind": "agenda",
+  "title": "Administration & Human Services - 08.17.26 AHS Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14873,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3703/files"
+ },
+ "unified-government#18": {
+  "date": "2026-08-17",
+  "body": "Public Works & Safety Standing Committee",
+  "kind": "minutes",
+  "title": "Public Works & Safety - 08.17.26 Final",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15024,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3697/files"
+ },
+ "unified-government#19": {
+  "date": "2026-08-18",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Community Benefits Advisory Board - 08.18.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14902,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3770/files"
+ },
+ "unified-government#20": {
+  "date": "2026-08-20",
+  "body": "Planning & Zoning and Board of Commission",
+  "kind": "agenda",
+  "title": "Board of Commissioners - 8.20.26 BOC Agenda Update Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14916,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3552/files"
+ },
+ "unified-government#21": {
+  "date": "2026-08-24",
+  "body": "Full Commission",
+  "kind": "agenda",
+  "title": "Board of Commissioners - 08.24.26 Special Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14928,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3760/files"
+ },
+ "unified-government#22": {
+  "date": "2026-08-25",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Library Board - 08.25.26 Wyandotte County Library Board",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14926,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3771/files"
+ },
+ "unified-government#23": {
+  "date": "2026-08-26",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte/Leavenworth Area Agency on Aging Advisory Council - 08.26.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14949,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3684/files"
+ },
+ "unified-government#24": {
+  "date": "2026-08-27",
+  "body": "Planning & Zoning and Board of Commission",
+  "kind": "minutes",
+  "title": "Planning & Zoning/Board of Commissioners - 08.27.26 PZ BOC MINUTES",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15104,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3553/files"
+ },
+ "unified-government#25": {
+  "date": "2026-08-31",
+  "body": "Neighborhood & Community Development Standing Committee",
+  "kind": "agenda",
+  "title": "Neighborhood & Community Development - 08.31.26 NCD Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14939,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3714/files"
+ },
+ "unified-government#26": {
+  "date": "2026-08-31",
+  "body": "Economic Development & Finance Standing Committee",
+  "kind": "minutes",
+  "title": "Economic Development & Finance - 08.31.26 EDF Final",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15110,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3709/files"
+ },
+ "unified-government#27": {
+  "date": "2026-09-01",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Library Board - 09.01.26 Wyandotte County Library Board",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14961,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3772/files"
+ },
+ "unified-government#28": {
+  "date": "2026-09-03",
+  "body": "Board of Commissioners",
+  "kind": "agenda",
+  "title": "Board of Commissioners - 09.03.26 Second Agenda Update",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14985,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3554/files"
+ },
+ "unified-government#29": {
+  "date": "2026-09-08",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Golf Advisory Board - 09.08.26 Golf Advisory Board",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14967,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3692/files"
+ },
+ "unified-government#30": {
+  "date": "2026-09-08",
+  "body": "Planning & Zoning and Board of Commission",
+  "kind": "agenda",
+  "title": "Landmarks Commission - September 08, 2026 Landmarks Commission Location Update",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14991,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3773/files"
+ },
+ "unified-government#31": {
+  "date": "2026-09-08",
+  "body": "Planning & Zoning and Board of Commission",
+  "kind": "agenda",
+  "title": "Landmarks Commission - September 08, 2026 Landmarks Commission - Location Update",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14992,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3773/files"
+ },
+ "unified-government#33": {
+  "date": "2026-09-09",
+  "body": "Committee/Task Force",
+  "kind": "minutes",
+  "title": "Adult Community Corrections Advisory Board - 09.09.26 Minutes",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15020,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3774/files"
+ },
+ "unified-government#34": {
+  "date": "2026-09-14",
+  "body": "Public Works & Safety Standing Committee",
+  "kind": "agenda",
+  "title": "Public Works & Safety - 09.14.26 PWS Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=14993,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3698/files"
+ },
+ "unified-government#35": {
+  "date": "2026-09-14",
+  "body": "Administration & Human Services Standing Committee",
+  "kind": "agenda",
+  "title": "Administration & Human Services - 09.14.26 AHS Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15003,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3704/files"
+ },
+ "unified-government#36": {
+  "date": "2026-09-14",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - 9.14.2026 Board of Zoning Appeals Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15009,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3769/files"
+ },
+ "unified-government#37": {
+  "date": "2026-09-14",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - 9.14.2026 Board of Zoning Appeals Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15010,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3769/files"
+ },
+ "unified-government#38": {
+  "date": "2026-09-14",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "City Planning Commission - September 14, 2026 City Planning Commission Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15017,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3768/files"
+ },
+ "unified-government#39": {
+  "date": "2026-09-14",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "City Planning Commission - September 14, 2026 City Planning Commission Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15018,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3768/files"
+ },
+ "unified-government#40": {
+  "date": "2026-09-17",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Unified Government Ethics Commission - 09.17.26 Unified Government Ethics Commission",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15022,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3777/files"
+ },
+ "unified-government#41": {
+  "date": "2026-09-17",
+  "body": "Board of Commissioners",
+  "kind": "agenda",
+  "title": "Board of Commissioners - 09.17.26 Updated Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15044,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3555/files"
+ },
+ "unified-government#42": {
+  "date": "2026-09-22",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Library Board - 09.22.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15048,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3648/files"
+ },
+ "unified-government#43": {
+  "date": "2026-09-23",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte/Leavenworth Area Agency on Aging Advisory Council - 09.23.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15046,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3685/files"
+ },
+ "unified-government#45": {
+  "date": "2026-09-24",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Livable Neighborhoods - 09.24.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15049,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3667/files"
+ },
+ "unified-government#46": {
+  "date": "2026-09-28",
+  "body": "Economic Development & Finance Standing Committee",
+  "kind": "agenda",
+  "title": "Economic Development & Finance - 9.28.26 Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15063,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3710/files"
+ },
+ "unified-government#47": {
+  "date": "2026-09-28",
+  "body": "Neighborhood & Community Development Standing Committee",
+  "kind": "agenda",
+  "title": "Neighborhood & Community Development - 09.28.26 Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15067,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3715/files"
+ },
+ "unified-government#48": {
+  "date": "2026-10-01",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Self-Supporting Municipal Improvement District - 10.01.26 Notice",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15082,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3642/files"
+ },
+ "unified-government#49": {
+  "date": "2026-10-01",
+  "body": "Board of Commissioners",
+  "kind": "agenda",
+  "title": "Board of Commissioners - 10.01.26 Updated Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15092,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3557/files"
+ },
+ "unified-government#50": {
+  "date": "2026-10-05",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Landmarks Commission - 10.5.2026 Landmarks Commission Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15085,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3779/files"
+ },
+ "unified-government#51": {
+  "date": "2026-10-05",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Landmarks Commission - 10.5.2026 Landmarks Commission Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15086,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3779/files"
+ },
+ "unified-government#52": {
+  "date": "2026-10-05",
+  "body": "General",
+  "kind": "agenda",
+  "title": "Board of Commissioners Special Meeting - 10.05.26 Board of Commissioners Special Meeting",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15105,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3782/files"
+ },
+ "unified-government#53": {
+  "date": "2026-10-05",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Advisory Commission on Human Relations and Disability Issues - 10.05.26 Wyandotte County Advisory Committee on Human Relations and Disability Issues",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15106,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3778/files"
+ },
+ "unified-government#54": {
+  "date": "2026-10-06",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Community Benefits Advisory Board - 10.06.26 Community Benefits Advisory Board",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15099,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3780/files"
+ },
+ "unified-government#55": {
+  "date": "2026-10-07",
+  "body": "General",
+  "kind": "agenda",
+  "title": "Board of Commissioners BPU Board Special Joint Meeting - 10.07.26 Board of Commissioners BPU Board Special Joint Meeting",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15112,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3783/files"
+ },
+ "unified-government#56": {
+  "date": "2026-10-08",
+  "body": "Full Commission",
+  "kind": "agenda",
+  "title": "Board of Commissioners Special Meeting - 10.08.26 Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15124,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3784/files"
+ },
+ "unified-government#57": {
+  "date": "2026-10-12",
+  "body": "Public Works & Safety Standing Committee",
+  "kind": "agenda",
+  "title": "Public Works & Safety - Agenda Files 12.12.26 PWS Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15107,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3699/files"
+ },
+ "unified-government#58": {
+  "date": "2026-10-12",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - 10.12.2026 Board of Zoning Appeals Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15115,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3775/files"
+ },
+ "unified-government#59": {
+  "date": "2026-10-12",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "Board of Zoning Appeals - 10.12.2026 Board of Zoning Appeals Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15116,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3775/files"
+ },
+ "unified-government#60": {
+  "date": "2026-10-12",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "City Planning Commission - 10.12.2026 City Planning Commission Agenda",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15127,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3776/files"
+ },
+ "unified-government#61": {
+  "date": "2026-10-12",
+  "body": "Planning & Zoning",
+  "kind": "agenda",
+  "title": "City Planning Commission - 10.12.2026 City Planning Commission Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15128,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3776/files"
+ },
+ "unified-government#62": {
+  "date": "2026-10-12",
+  "body": "Administration & Human Services Standing Committee",
+  "kind": "agenda",
+  "title": "Administration & Human Services - 10.12.26 Updated Agenda Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15137,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3705/files"
+ },
+ "unified-government#63": {
+  "date": "2026-10-14",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Law Enforcement Advisory Board - 10.14.26 ",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15132,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3629/files"
+ },
+ "unified-government#64": {
+  "date": "2026-10-14",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Park Board - 10.14.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15133,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3605/files"
+ },
+ "unified-government#65": {
+  "date": "2026-10-15",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Juvenile Corrections Advisory Board - 10.15.26",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15134,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3749/files"
+ },
+ "unified-government#66": {
+  "date": "2026-10-15",
+  "body": "General",
+  "kind": "agenda",
+  "title": "Notice of Event - 10.15.26 Notice of Event",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15140,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3786/files"
+ },
+ "unified-government#67": {
+  "date": "2026-10-15",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Economic Redevelopment Advisory Committee - 10.15.26 Economic Redevelopment Advisory Committee",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15141,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3787/files"
+ },
+ "unified-government#68": {
+  "date": "2026-10-15",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Unified Government Ethics Commission - 10.15.26 Unified Government Ethics Commission",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15143,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3788/files"
+ },
+ "unified-government#69": {
+  "date": "2026-10-15",
+  "body": "Planning & Zoning and Board of Commission",
+  "kind": "agenda",
+  "title": "Board of Commissioners - 10.15.26 BOC Agenda Update Packet",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15145,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3558/files"
+ },
+ "unified-government#70": {
+  "date": "2026-10-20",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Wyandotte County Library Board - 10.20.26 Wyandotte County Library Board",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15146,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3789/files"
+ },
+ "unified-government#71": {
+  "date": "2026-10-22",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Kansas City Kansas Tree Board - 10.22.26 Kansas City Kansas Tree Board",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15147,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3790/files"
+ },
+ "unified-government#72": {
+  "date": "2026-10-22",
+  "body": "Committee/Task Force",
+  "kind": "agenda",
+  "title": "Livable Neighborhoods - Livable Neighborhoods",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15148,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3668/files"
+ },
+ "unified-government#73": {
+  "date": "2026-10-23",
+  "body": "Board of Commissioners Special Meeting ",
+  "kind": "agenda",
+  "title": "Board of Commissioners Special Meeting - 10.23.26 notice",
+  "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15164,plainText=false)",
+  "public_url": "https://wycokck.portal.civicclerk.com/event/3792/files"
+ }
+}

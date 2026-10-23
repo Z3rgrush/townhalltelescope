@@ -1,0 +1,1228 @@
+{
+ "66012": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 0.677,
+    "has_records": true
+   },
+   {
+    "name": "Bonner Springs",
+    "share": 0.299,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.02,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "bonner-springs/6",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "bonner-springs/2",
+   "bonner-springs/3"
+  ]
+ },
+ "66013": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.958,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.042,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66018": {
+  "governments": [
+   {
+    "name": "De Soto",
+    "share": 0.5,
+    "has_records": false
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.5,
+    "has_records": false
+   }
+  ],
+  "issues": []
+ },
+ "66019": {
+  "governments": [
+   {
+    "name": "De Soto",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": []
+ },
+ "66021": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.901,
+    "has_records": false
+   },
+   {
+    "name": "Edgerton",
+    "share": 0.099,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "edgerton/0",
+   "edgerton/2",
+   "edgerton/5",
+   "edgerton/1",
+   "edgerton/3",
+   "edgerton/4",
+   "edgerton/6",
+   "edgerton/7"
+  ]
+ },
+ "66025": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.955,
+    "has_records": false
+   }
+  ],
+  "issues": []
+ },
+ "66030": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.708,
+    "has_records": false
+   },
+   {
+    "name": "Gardner",
+    "share": 0.239,
+    "has_records": true
+   },
+   {
+    "name": "Edgerton",
+    "share": 0.053,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "gardner/4",
+   "edgerton/0",
+   "gardner/6",
+   "gardner/0",
+   "gardner/2",
+   "gardner/5",
+   "gardner/8",
+   "gardner/1"
+  ]
+ },
+ "66031": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.922,
+    "has_records": false
+   },
+   {
+    "name": "Olathe",
+    "share": 0.078,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "olathe/9",
+   "olathe/2",
+   "olathe/3",
+   "olathe/7",
+   "olathe/0",
+   "olathe/4",
+   "olathe/5",
+   "olathe/1"
+  ]
+ },
+ "66061": {
+  "governments": [
+   {
+    "name": "Olathe",
+    "share": 0.576,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.424,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "olathe/9",
+   "olathe/2",
+   "olathe/3",
+   "olathe/7",
+   "olathe/0",
+   "olathe/4",
+   "olathe/5",
+   "olathe/1"
+  ]
+ },
+ "66062": {
+  "governments": [
+   {
+    "name": "Olathe",
+    "share": 0.507,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.339,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.155,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "olathe/9",
+   "olathe/2",
+   "olathe/3",
+   "olathe/7",
+   "olathe/0",
+   "overland-park/0",
+   "overland-park/12",
+   "olathe/4"
+  ]
+ },
+ "66083": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.835,
+    "has_records": false
+   },
+   {
+    "name": "Spring Hill",
+    "share": 0.123,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.042,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "spring-hill/5",
+   "spring-hill/3",
+   "spring-hill/0",
+   "spring-hill/8",
+   "overland-park/0",
+   "overland-park/12",
+   "spring-hill/2",
+   "spring-hill/9"
+  ]
+ },
+ "66085": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 0.629,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.371,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66101": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66102": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66103": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.03,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66104": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66105": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66106": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 0.996,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.15,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66109": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66111": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 0.94,
+    "has_records": true
+   },
+   {
+    "name": "Edwardsville",
+    "share": 0.417,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.06,
+    "has_records": false
+   },
+   {
+    "name": "Bonner Springs",
+    "share": 0.033,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "edwardsville/0",
+   "unified-government/2",
+   "unified-government/9",
+   "edwardsville/2",
+   "unified-government/5"
+  ]
+ },
+ "66112": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66115": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66118": {
+  "governments": [
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9",
+   "unified-government/5",
+   "unified-government/8",
+   "unified-government/11"
+  ]
+ },
+ "66202": {
+  "governments": [
+   {
+    "name": "Mission",
+    "share": 0.439,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.301,
+    "has_records": true
+   },
+   {
+    "name": "Merriam",
+    "share": 0.247,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.012,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "merriam/0",
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14"
+  ]
+ },
+ "66203": {
+  "governments": [
+   {
+    "name": "Shawnee",
+    "share": 0.533,
+    "has_records": true
+   },
+   {
+    "name": "Merriam",
+    "share": 0.411,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.049,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.007,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "merriam/0",
+   "shawnee/4",
+   "shawnee/8",
+   "merriam/1",
+   "shawnee/6",
+   "shawnee/7",
+   "merriam/2",
+   "merriam/3"
+  ]
+ },
+ "66204": {
+  "governments": [
+   {
+    "name": "Overland Park",
+    "share": 0.903,
+    "has_records": true
+   },
+   {
+    "name": "Merriam",
+    "share": 0.088,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.01,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "merriam/0",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14"
+  ]
+ },
+ "66205": {
+  "governments": [
+   {
+    "name": "Roeland Park",
+    "share": 0.421,
+    "has_records": false
+   },
+   {
+    "name": "Fairway",
+    "share": 0.3,
+    "has_records": true
+   },
+   {
+    "name": "Westwood",
+    "share": 0.11,
+    "has_records": false
+   },
+   {
+    "name": "Mission",
+    "share": 0.085,
+    "has_records": true
+   },
+   {
+    "name": "Mission Hills",
+    "share": 0.042,
+    "has_records": true
+   },
+   {
+    "name": "Mission Woods",
+    "share": 0.023,
+    "has_records": false
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.02,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "fairway/3",
+   "fairway/4",
+   "fairway/5",
+   "mission/0",
+   "mission/3",
+   "mission-hills/0",
+   "fairway/0",
+   "fairway/1"
+  ]
+ },
+ "66206": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Leawood",
+    "share": 0.911,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.068,
+    "has_records": true
+   },
+   {
+    "name": "Prairie Village",
+    "share": 0.021,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "leawood/4",
+   "overland-park/0",
+   "overland-park/12",
+   "leawood/5",
+   "leawood/7",
+   "leawood/9",
+   "overland-park/1",
+   "overland-park/2"
+  ]
+ },
+ "66207": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.678,
+    "has_records": true
+   },
+   {
+    "name": "Prairie Village",
+    "share": 0.322,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "prairie-village/3"
+  ]
+ },
+ "66208": {
+  "governments": [
+   {
+    "name": "Prairie Village",
+    "share": 0.7,
+    "has_records": true
+   },
+   {
+    "name": "Mission Hills",
+    "share": 0.289,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.01,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "prairie-village/3",
+   "prairie-village/4",
+   "prairie-village/6",
+   "prairie-village/0",
+   "prairie-village/1",
+   "prairie-village/5",
+   "prairie-village/7",
+   "prairie-village/8"
+  ]
+ },
+ "66209": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Leawood",
+    "share": 0.602,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.398,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "leawood/4",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14"
+  ]
+ },
+ "66210": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.978,
+    "has_records": true
+   },
+   {
+    "name": "Lenexa",
+    "share": 0.022,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66211": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Leawood",
+    "share": 0.628,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.372,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "leawood/4",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14"
+  ]
+ },
+ "66212": {
+  "governments": [
+   {
+    "name": "Overland Park",
+    "share": 1.0,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66213": {
+  "governments": [
+   {
+    "name": "Overland Park",
+    "share": 1.0,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66214": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.635,
+    "has_records": true
+   },
+   {
+    "name": "Lenexa",
+    "share": 0.261,
+    "has_records": true
+   },
+   {
+    "name": "Shawnee",
+    "share": 0.104,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66215": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Lenexa",
+    "share": 0.92,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.053,
+    "has_records": true
+   },
+   {
+    "name": "Olathe",
+    "share": 0.026,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "olathe/9",
+   "lenexa/0",
+   "lenexa/1",
+   "lenexa/7",
+   "overland-park/0",
+   "overland-park/12",
+   "olathe/2",
+   "olathe/3"
+  ]
+ },
+ "66216": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Shawnee",
+    "share": 0.88,
+    "has_records": true
+   },
+   {
+    "name": "Lenexa",
+    "share": 0.119,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "shawnee/4",
+   "shawnee/8",
+   "shawnee/6",
+   "shawnee/7",
+   "shawnee/0",
+   "lenexa/0",
+   "lenexa/1",
+   "lenexa/7"
+  ]
+ },
+ "66217": {
+  "governments": [
+   {
+    "name": "Shawnee",
+    "share": 0.716,
+    "has_records": true
+   },
+   {
+    "name": "Lake Quivira",
+    "share": 0.157,
+    "has_records": true
+   },
+   {
+    "name": "Lenexa",
+    "share": 0.122,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.005,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "shawnee/4",
+   "shawnee/8",
+   "shawnee/6",
+   "shawnee/7",
+   "lake-quivira/3",
+   "shawnee/0",
+   "lenexa/0",
+   "lenexa/1"
+  ]
+ },
+ "66218": {
+  "governments": [
+   {
+    "name": "Shawnee",
+    "share": 1.0,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "shawnee/4",
+   "shawnee/8",
+   "shawnee/6",
+   "shawnee/7",
+   "shawnee/0",
+   "shawnee/1",
+   "shawnee/2",
+   "shawnee/3"
+  ]
+ },
+ "66219": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Lenexa",
+    "share": 0.996,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "lenexa/0",
+   "lenexa/1",
+   "lenexa/7",
+   "lenexa/2",
+   "lenexa/3",
+   "lenexa/4",
+   "lenexa/5",
+   "lenexa/6"
+  ]
+ },
+ "66220": {
+  "governments": [
+   {
+    "name": "Lenexa",
+    "share": 0.995,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.005,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "lenexa/0",
+   "lenexa/1",
+   "lenexa/7",
+   "lenexa/2",
+   "lenexa/3",
+   "lenexa/4",
+   "lenexa/5",
+   "lenexa/6"
+  ]
+ },
+ "66221": {
+  "governments": [
+   {
+    "name": "Johnson County",
+    "share": 1.0,
+    "has_records": false
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.997,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66223": {
+  "governments": [
+   {
+    "name": "Overland Park",
+    "share": 0.99,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.01,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14",
+   "overland-park/3"
+  ]
+ },
+ "66224": {
+  "governments": [
+   {
+    "name": "Leawood",
+    "share": 0.716,
+    "has_records": true
+   },
+   {
+    "name": "Overland Park",
+    "share": 0.261,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.023,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "overland-park/0",
+   "overland-park/12",
+   "leawood/4",
+   "overland-park/1",
+   "overland-park/2",
+   "overland-park/5",
+   "overland-park/10",
+   "overland-park/14"
+  ]
+ },
+ "66226": {
+  "governments": [
+   {
+    "name": "Shawnee",
+    "share": 0.954,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.93,
+    "has_records": false
+   },
+   {
+    "name": "Unified Government (KCK / Wyandotte County)",
+    "share": 0.07,
+    "has_records": true
+   },
+   {
+    "name": "Bonner Springs",
+    "share": 0.046,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "unified-government/0",
+   "unified-government/1",
+   "shawnee/4",
+   "shawnee/8",
+   "bonner-springs/6",
+   "unified-government/4",
+   "unified-government/2",
+   "unified-government/9"
+  ]
+ },
+ "66227": {
+  "governments": [
+   {
+    "name": "Lenexa",
+    "share": 0.663,
+    "has_records": true
+   },
+   {
+    "name": "Shawnee",
+    "share": 0.333,
+    "has_records": true
+   },
+   {
+    "name": "Johnson County",
+    "share": 0.005,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "shawnee/4",
+   "shawnee/8",
+   "lenexa/0",
+   "lenexa/1",
+   "lenexa/7",
+   "shawnee/6",
+   "shawnee/7",
+   "shawnee/0"
+  ]
+ }
+}

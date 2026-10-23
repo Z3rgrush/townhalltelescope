@@ -51,18 +51,20 @@ def main():
             by_source[r["source"]].append(r)
     outdir = ROOT / "data" / "condensed"
     outdir.mkdir(exist_ok=True)
-    total = 0
+    total, index = 0, {}
     for source, rows in by_source.items():
         parts = [f"# {source}\n"]
         for i, r in enumerate(sorted(rows, key=lambda r: r["date"])):
             lines = condense((ROOT / r["text_file"]).read_text(errors="ignore"))
             if not lines:
                 continue
+            index[f"{source}#{i}"] = {k: r.get(k) for k in ("date", "body", "kind", "title", "url", "public_url")}
             parts.append(f"\n## [{source}#{i}] {r['date']} | {r['body']} | {r['kind']}\n")
             parts.extend(f"- {l}\n" for l in lines)
         text = "".join(parts)
         total += len(text)
         (outdir / f"{source}.md").write_text(text)
+    (outdir / "index.json").write_text(json.dumps(index, indent=1))
     print(f"{total:,} characters across {len(by_source)} sources")
 
 
