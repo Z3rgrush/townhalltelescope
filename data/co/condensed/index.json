@@ -3,120 +3,120 @@
   "date": "2026-07-30",
   "body": "City Council Special Meeting",
   "kind": "agenda",
-  "title": "City Council Special Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1326&compileOutputType=3",
+  "title": "City Council Special Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1326&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1326"
  },
  "boulder#1": {
   "date": "2026-08-06",
   "body": "City Council Regular Meeting",
   "kind": "agenda",
-  "title": "City Council Regular Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1002&compileOutputType=3",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1002&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1002"
  },
  "boulder#2": {
   "date": "2026-08-13",
   "body": "City Council Study Session",
   "kind": "agenda",
-  "title": "City Council Study Session - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1008&compileOutputType=3",
+  "title": "City Council Study Session - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1008&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1008"
  },
  "boulder#3": {
   "date": "2026-08-13",
   "body": "City Council Special Meeting",
   "kind": "agenda",
-  "title": "City Council Special Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1386&compileOutputType=3",
+  "title": "City Council Special Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1386&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1386"
  },
  "boulder#4": {
   "date": "2026-08-20",
   "body": "City Council Regular Meeting",
   "kind": "agenda",
-  "title": "City Council Regular Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1014&compileOutputType=3",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1014&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1014"
  },
  "boulder#5": {
   "date": "2026-08-27",
   "body": "City Council Study Session",
   "kind": "agenda",
-  "title": "City Council Study Session - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1020&compileOutputType=3",
+  "title": "City Council Study Session - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1020&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1020"
  },
  "boulder#6": {
   "date": "2026-09-03",
   "body": "City Council Regular Meeting",
   "kind": "agenda",
-  "title": "City Council Regular Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1026&compileOutputType=3",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1026&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1026"
  },
  "boulder#7": {
   "date": "2026-09-03",
   "body": "City Council Special Meeting",
   "kind": "agenda",
-  "title": "City Council Special Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1392&compileOutputType=3",
+  "title": "City Council Special Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1392&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1392"
  },
  "boulder#8": {
   "date": "2026-09-10",
   "body": "City Council Study Session",
   "kind": "agenda",
-  "title": "City Council Study Session - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1032&compileOutputType=3",
+  "title": "City Council Study Session - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1032&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1032"
  },
  "boulder#9": {
   "date": "2026-09-17",
   "body": "City Council Regular Meeting",
   "kind": "agenda",
-  "title": "City Council Regular Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1038&compileOutputType=3",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1038&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1038"
  },
  "boulder#10": {
   "date": "2026-09-24",
   "body": "City Council Study Session",
   "kind": "agenda",
-  "title": "City Council Study Session - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1044&compileOutputType=3",
+  "title": "City Council Study Session - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1044&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1044"
  },
  "boulder#11": {
   "date": "2026-10-01",
   "body": "City Council Regular Meeting",
   "kind": "agenda",
-  "title": "City Council Regular Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1050&compileOutputType=3",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1050&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1050"
  },
  "boulder#12": {
   "date": "2026-10-08",
   "body": "Community and Council Forum",
   "kind": "agenda",
-  "title": "Community and Council Forum - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1056&compileOutputType=3",
+  "title": "Community and Council Forum - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1056&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1056"
  },
  "boulder#13": {
   "date": "2026-10-15",
   "body": "City Council Regular Meeting",
   "kind": "agenda",
-  "title": "City Council Regular Meeting - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1062&compileOutputType=3",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1062&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1062"
  },
  "boulder#14": {
   "date": "2026-10-22",
   "body": "City Council Study Session",
   "kind": "agenda",
-  "title": "City Council Study Session - HTML Agenda",
-  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1068&compileOutputType=3",
+  "title": "City Council Study Session - Agenda",
+  "url": "https://bouldercolorado.primegov.com/Public/CompiledDocument?meetingTemplateId=1068&compileOutputType=1",
   "public_url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1068"
  },
  "denver#0": {
