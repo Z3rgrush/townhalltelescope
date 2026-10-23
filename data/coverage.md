@@ -4,9 +4,9 @@ Window: 2026-07-25 to 2026-10-23
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Overland Park | civicweb | 33 | 53 | 0 | 0 |  |
-| Leawood | civicweb | 0 | 0 | 0 | 0 |  |
-| Shawnee | civicweb | 4 | 8 | 0 | 0 |  |
+| Overland Park | civicweb | 39 | 58 | 0 | 0 |  |
+| Leawood | civicweb | 19 | 19 | 0 | 0 |  |
+| Shawnee | civicweb | 11 | 11 | 0 | 0 |  |
 | Unified Government of Wyandotte County / Kansas City KS | civicclerk | 59 | 74 | 0 | 0 |  |
 | Bonner Springs | civicclerk | 11 | 14 | 0 | 0 |  |
 | De Soto | agendacenter | 12 | 12 | 0 | 0 |  |
@@ -16,10 +16,10 @@ Window: 2026-07-25 to 2026-10-23
 | Roeland Park | agendacenter | 0 | 0 | 0 | 0 |  |
 | Olathe | linkscan | 0 | 0 | 0 | 0 |  |
 | Lenexa | linkscan | 0 | 0 | 0 | 0 |  |
-| Prairie Village | linkscan | 0 | 0 | 0 | 0 |  |
-| Merriam | linkscan | 0 | 0 | 0 | 0 |  |
-| Mission | linkscan | 0 | 0 | 0 | 0 |  |
-| Gardner | linkscan | 0 | 0 | 0 | 0 |  |
+| Prairie Village | civicclerk | 20 | 26 | 0 | 0 |  |
+| Merriam | civicweb | 10 | 10 | 0 | 0 |  |
+| Mission | linkscan | 4 | 8 | 0 | 0 |  |
+| Gardner | linkscan | 1 | 3 | 0 | 0 |  |
 | Edgerton | linkscan | 0 | 0 | 0 | 0 |  |
 | Fairway | linkscan | 0 | 0 | 0 | 0 |  |
 | Westwood Hills | linkscan | 0 | 0 | 0 | 0 |  |
@@ -30,52 +30,17 @@ Window: 2026-07-25 to 2026-10-23
 
 ### Overland Park
 ```
-  Mayor and Council: 0 meetings in window
-  Committee of the Whole: 0 meetings in window
-  Community Development: 0 meetings in window
-  Finance, Administration and Economic Development Committee: 0 meetings in window
-  Planning Commission: 0 meetings in window
-  Public Safety: 0 meetings in window
-  Nominating Committee: 0 meetings in window
-  Community Development Block Grant Advisory Committee: 0 meetings in window
-  Comprehensive Plan Committee: 0 meetings in window
-  Comprehensive Plan Steering Committee: 0 meetings in window
-  Environmental Advisory Council: 0 meetings in window
-  Judicial Screening Committee: 0 meetings in window
-  Mental Health Advisory Committee: 0 meetings in window
-  Neighborhood Engagement Committee: 0 meetings in window
-  Neighborhood Engagement Committee - Bylaws Committee: 0 meetings in window
-  Parks & Recreation Advisory Council: 0 meetings in window
-  Ordinance Review Committee: 0 meetings in window
-  Playbook OP Steering Committee: 0 meetings in window
-  Site Plan Review Committee: 0 meetings in window
-  Executive Committee: 0 meetings in window
-  Council Vacancy Screening Committee: 0 meetings in window
+  32 recent meetings in window
 ```
 
 ### Leawood
 ```
-  Governing Body-Regular Session: 0 meetings in window
-  Governing Body-Work Session: 0 meetings in window
-  Land Bank: 0 meetings in window
-  Budget and Finance Committee: 0 meetings in window
-  Planning Commission-Regular Session: 0 meetings in window
-  Planning Commission-Work Session: 0 meetings in window
-  Board of Zoning Appeals [BZA]: 0 meetings in window
-  Public Works Committee: 0 meetings in window
-  Stormwater Management Committee: 0 meetings in window
-  Arts in Public Places Initiative [APPI] (Sub-committee of the Leawood Arts Council): 0 meetings in window
-  Gezer Region Sister City Committee: 0 meetings in window
-  Yilan Sister City Committee: 0 meetings in window
+  19 recent meetings in window
 ```
 
 ### Shawnee
 ```
-  City Council: 0 meetings in window
-  Council Committee: 0 meetings in window
-  Special City Council: 0 meetings in window
-  Council Planning Session: 0 meetings in window
-  Planning Commission: 0 meetings in window
+  7 recent meetings in window
 ```
 
 ### Unified Government of Wyandotte County / Kansas City KS
@@ -128,23 +93,25 @@ Window: 2026-07-25 to 2026-10-23
 
 ### Prairie Village
 ```
-  https://pvkansas.com/governing-body/city-council/city-council-meetings-minutes-and-packets: 0 dated links in window
+  21 events in window
 ```
 
 ### Merriam
 ```
-  skip https://www.merriam.org/Government/City-Council/Agendas-Minutes: 404 Client Error: Not Found for url: https://www.merriam.org/Government/City-Council/Agendas-Minutes
-  https://www.merriam.org/Government/City-Council: 0 dated links in window
+  10 recent meetings in window
 ```
 
 ### Mission
 ```
-  https://missionks.org/events/category/agenda-minutes/: 0 dated links in window
+  https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past: 5 dated links in window
+  skip https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past&paged=2: 404 Client Error: Not Found for url: https://www.missionks.org/events/category/agenda-minutes/list/page/2/?eventDisplay=past
+  https://www.missionks.org/city-government/agendas-minutes/: 0 dated links in window
 ```
 
 ### Gardner
 ```
-  https://gardnerkansas.gov/government/city-council-meetings: 0 dated links in window
+  https://gardnerkansas.gov/government/city_council/agendas_minutes.php: 23 dated links in window
+  https://gardnerkansas.gov/government/agendas_minutes.php: 0 dated links in window
 ```
 
 ### Edgerton
@@ -155,14 +122,13 @@ Window: 2026-07-25 to 2026-10-23
 
 ### Fairway
 ```
-  skip https://fairwaykansas.org/agendas-and-minutes: 404 Client Error: Not Found for url: https://fairwaykansas.org/agendas-and-minutes
-  https://fairwaykansas.org/: 0 dated links in window
+  https://fairwaykansas.org/minutes: 0 dated links in window
 ```
 
 ### Westwood Hills
 ```
-  skip https://www.westwoodhillsks.gov/agendas-minutes: 404 Client Error: Not Found for url: https://www.westwoodhillsks.gov/agendas-minutes
-  https://www.westwoodhillsks.gov/: 0 dated links in window
+  https://www.westwoodhillsks.gov/agendas/City-Council: 0 dated links in window
+  https://www.westwoodhillsks.gov/agendas/Planning-Commission: 0 dated links in window
 ```
 
 ### Lake Quivira
