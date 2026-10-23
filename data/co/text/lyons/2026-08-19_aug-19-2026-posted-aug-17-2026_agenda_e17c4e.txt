@@ -1,0 +1,1067 @@
+DRAFT AGENDA TOWN OF LYONS 
+UTILITIES AND ENGINEERING BOARD (UEB) 
+HYBRID MEETING 
+LYONS TOWN HALL, 432 5TH AVENUE, LYONS, COLORADO 
+August 19, 2026, 4:30 - 6:00 pm 
+O
+ptional Zoom Meeting - Please contact ueb_chair@townoflyons.com or 
+ACaplan@townoflyons.com for Zoom meeting link. 
+P
+AGE DOWN - Note that detailed content, if available, such as draft minutes and 
+presentations are provided in subsequent pages or through links directly below each 
+agenda item. 
+I. Roll Call
+II. Approve Agenda and Minutes from Past Meetings
+a. Approve Agenda
+b. Approve August 5, 2026 Minutes
+III. Audience Business
+IV. Staff Report
+a. Staff – Aaron Caplan
+b. Liaison – Jen Wingard
+c. UEB Chair – Jimm Vosburgh
+d. Member Updates
+V. Business
+a. UEB 2027 Budget Request
+b. Lyons Comprehensive Plan Update
+VI
+. Summary of Action Items
+VII. Next Meeting and Requested Agenda Items 
+a. September 2, 2026 
+VIII. Adjournment 
+ 
+Persons needing accommodations or special assistance should contact the Town 
+at hr@townoflyons.com as soon as possible, but no later than 72 hours before 
+the scheduled meeting 
+ 
+ 
+DRAFT MINUTES 
+TOWN OF LYONS 
+UTILITIES AND ENGINEERING BOARD (UEB) 
+August 5, 2026, 4:30 - 6:00 pm 
+HYBRID MEETING 
+ 
+ROLL CALL 
+ 
+Chris Cope, Jason Gaines, Ryan Hughes, Mike Karavas, Jim Kerr, Chris Meline, Jimm 
+Vosburgh (chair) 
+Staff: Aaron Caplan 
+BOT: Jen Wingard 
+SFC: Ed Kean 
+Audience: None 
+ 
+ 
+APPROVE AGENDA AND MINUTES FROM PAST MEETINGS 
+ 
+• Approved Agenda and Minutes from Past Meetings. 
+− Agenda approved unanimously (7-0) 
+− July 15 Minutes Approved (7-0) 
+ 
+AUDIENCE BUSINESS 
+ 
+• None. 
+REPORTS  
+ 
+• STAFF 
+▫ Water loss: Staff compared Longmont Water bill to what the town sold. There 
+is an 8% loss, which is better than the 20% loss we’ve seen in the past. 
+▫ A representative from MEAN tested the current transformers (CT) and meters 
+in 4 of the 27 locations.  Visual inspection was performed on 3 newer 
+installations.  1 location failed the testing and the Town should replace the 
+CT, as it is probably losing revenue on that account. 
+▫ Staff met with Precision Engineering, who has been soliciting the town 
+regarding a performance contract for water system evaluation.  They 
+suggested a simpler approach of inventorying the pipes based on date and 
+then adding a criticalness factor to determine where to begin replacing pipe. 
+▫ Justin Doles, town engineer, recently finished an inventory of water assets 
+(type and age) for the town. 
+▫ Bids for the LED lighting upgrades are due back this week. The plan is to 
+submit the contract to BOT on August 17 for approval. 
+ 
+ 
+▫ Ramey Environmental Compliance is visually probing and jetting out sewer 
+lines. They do 1/3 of our network per year. 
+▫ WWTF upgrade design report due for the 60% milestone on September 4. 
+▫ 2nd and 3rd Ave Stormwater projects design will be presented to BOT for 
+review in the upcoming workshop on August 17. 
+▫ During a sewer force main clean-out near the St Vrain Trail at McConnell, a 
+valve cracked. This has been repaired. 
+▫ WWTF decanter needs replacing. This will cost $20k. 
+▫ CDPHE will be visiting August 6 for the 5-year review of WWTF procedures. 
+▫ Electric TOU changeover did not get done by the end of July. Some meters 
+require a lot of unexpected work. Staff is now targeting the end of August, 
+which will show up on the September bills. 
+▫ Jetting and video recording of 1/3 of the Town sewer piping was completed 
+for 2026. 
+▫ A repair was made to a leaking valve on one of the sanitary sewer force 
+mains.  One of the decanter units at the WWTP needed to be replaced and 
+one of the lift stations had a pump replaced. 
+▫ A request was made for the Town’s IT contractor to review IT systems at the 
+WWTP and pump station. 
+ 
+• BOT  
+▫ Jen Wingard attended DRCOG (Denver Regional Counsil of Governments). 
+She was impressed with the activities that they are involved with. 
+▫ Current BOT meetings have spent time on forward-looking budget revisions. 
+▫ BOT/PCDC joint meeting will be held on Monday and will discuss Planet 
+Bluegrass (PB) annexation application. These joint meetings are required by 
+law to occur twice per year. 
+ 
+• UEB CHAIR 
+ 
+▫ PB Annexation delayed until October 5. 
+▫ The annexation site was a hazmat cleanup site in the past, but a letter from 
+the State in 2002 states no more concerns after the clean-up. 
+ 
+• MEMBER BUSINESS 
+ 
+▫ None 
+BUSINESS 
+ 
+• Referral for annexation request for two properties adjacent to and owned by 
+Planet Bluegrass 
+ 
+ 
+• Aaron provided an impact statement: 
+o Force main can handle the increased volume. 
+o Lift station will need an upgrade since it was only designed to handle 
+Eagle Canyon. 
+ This lift station may need an upgrade anyway, so the town might 
+bear some responsibility. 
+ Jim Kerr noted that maintenance and capacity upgrades are very 
+different things and that the town would only be responsible for 
+maintenance. His opinion was that PB should cover any expenses 
+due to capacity upgrades. 
+o Kerr also pointed out that the application references “PUD building 
+codes.” Since a PUD doesn’t have building codes, what will get used? 
+ The PB hotel will consist of modular units similar to shipping 
+containers. Are they considered ADUs, tiny homes, or something 
+else? 
+o There will be a possible power conversion from Longmont Power to 
+Lyons Electric. 
+o New fire hydrant and sidewalk will be required. 
+o UEB seemed agreeable to this impact statement being the referral with 
+the above concerns noted. 
+• Meter Collar Policy 
+• Municipalities with less than 5000 residents don’t have to allow meter collars, so 
+Lyons doesn’t have to allow these by law. 
+• Lyons does, however, need to allow plug-in solar by law. The current LMC does 
+not allow for this and must be modified. 
+• Examples: Enphase meter collar is allowed by many towns. Fort Collins permits 
+the Tesla version. Las Animas does not allow them at all.  
+• Meter collars are getting attention now to ease the use of plug-in solar. However, 
+they can also be used to expand service for older houses that may be limited to 
+50-100 amps. For electrification and EV chargers, a meter collar could be used if 
+the installed panel doesn’t have the capacity. 
+• Expansion of service would require the customer to underground, so a meter 
+collar would be an attractive option to avoid that. 
+• Kerr expressed concern that plug-in solar could impact the town’s bill from 
+MEAN. If customers are not required to install production meters (which are more 
+expensive), then MEAN would be relying on the nameplate rating, which would 
+increase costs to the town. 
+• It is not clear how plug-in solar would work with net-metering. 
+• The consensus of the UEB was to allow meter collars in Lyons, though policy 
+details still need to be worked out. 
+ 
+• Budget Requests – due on September 18 
+ 
+ 
+ 
+• Lyons Comp Plan update – no time to discuss 
+ 
+ 
+SUMMARY OF ACTION ITEMS 
+o Staff to follow up with the state to clarify if the box culvert grant will impact 
+Enterprise Fund status (carried over). 
+o Staff to research the municipal code regarding the process for private streetlights 
+on town poles. (carried over) 
+ 
+DECISIONS MADE 
+ 
+• Agenda approved unanimously. (7-0) 
+• July 15 minutes approved unanimously. (7-0) 
+• Consensus to approve impact statement for PB annexation with notes. 
+• Consensus to allow meter collar policy development to proceed. 
+ 
+ 
+ 
+NEXT MEETING AND REQUESTED AGENDA ITEMS 
+ 
+• August 19 is the next meeting. 
+• Water supply elements needed for comp plan update. Coordinate with PCDC for 
+possible joint meeting. (carried over) 
+• Lyons Comp Plan update 
+• Budget requests 
+ 
+ 
+Town of Lyons Budget Worksheet - MONTHLY ROLLUP for BOT Page:     2
+Periods: 01/26-06/26 Jul 29, 2026  10:29AM
+2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26
+January February March April May June July August September October November December Current year Current year
+Account Number Account Title Actual Actual Actual Actual Act ual Actual Actual Actual Actual Actual Actual Actual Actual Budget
+ELECTRIC FUND
+Total CHARGES FOR SERVCIES: 160,749 147,331 129,921 118,993 119,214 150,674 .00 .00 .00 .00 .00 .00 826,880 1,651,940
+Total INVESTMENT: 3,380 3,106 3,592 3,453 3,588 3,613 .00 .00 .00 .00 .00 .00 20,732 32,000
+Total OTHER INCOME: 4,425 1,990 2,021 1,274 1,230 4,085 .00 .00 .00 .00 .00 .00 15,025 10,000
+Total Revenue: 168,554 152,426 135,534 123,720 124,032 158,372 .00 .00 .00 .00 .00 .00 862,637 1,693,940
+Total ADMINISTRATION: 12,518 14,657 14,110 14,322 20,885 13,907 .00 .00 .00 .00 .00 .00 90,398 189,633
+Total MAINTENANCE: 3,155 112,048 19,637 196,634 106,575 5,723 .00 .00 .00 .00 .00 .00 443,770 1,297,432
+Total CAPITAL: .00 11,769 .00 .00 12,600 .00 .00 .00 .00 .00 .00 .00 24,369 140,000
+Total DEBT: .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 .00 34,191
+Total TRANSFERS: 4,785 4,785 4,785 4,785 4,785 4,785 .00 .00 .00 .00 .00 .00 28,709 57,323
+Total Expenditure: 20,458 143,258 38,531 215,740 144,844 24,415 .00 .00 .00 .00 .00 .00 587,246 1,718,579
+Net Total ELECTRIC FUND: 148,096 9,168 97,003 92, 020- 20,812- 133,957 .00 .00 .00 .00 .00 .00 275,391 24,639-
+A1
+Town of Lyons Budget Worksheet - MONTHLY ROLLUP for BOT Page:     3
+Periods: 01/26-06/26 Jul 29, 2026  10:29AM
+2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26
+January February March April May June July August September October November December Current year Current year
+Account Number Account Title Actual Actual Actual Actual Act ual Actual Actual Actual Actual Actual Actual Actual Actual Budget
+WATER/SEWER FUND
+Total CHARGES FOR SERVICES - WATER: 66,984 59,931 64,158 82,499 88,405 132,919 .00 .00 .00 .00 .00 .00 494,896 1,149,000
+Total INVESTMENT - WATER: 8,691 7,986 9,237 8,879 9,226 9,292 .00 .00 .00 .00 .00 .00 53,311 90,000
+Total OTHER INCOME - WATER: .00 .00 .00 3,000 .00 2,714 .00 .00 .00 .00 .00 .00 5,714 36,500
+Total CHARGES FOR SERVICES-SEWER: 75,581 84,199 68,784 84,968 83,313 83,118 .00 .00 .00 .00 .00 .00 479,963 1,021,402
+Total Revenue: 151,256 152,116 142,180 179,346 180,944 228,043 .00 .00 .00 .00 .00 .00 1,033,885 2,296,902
+Total ADMINISTRATION - WATER: 13,457 16,541 14,773 15,239 21,985 14,908 .00 .00 .00 .00 .00 .00 96,904 217,779
+Total TREATMENT - WATER: .00 18,533 .00 20,462 28,144 1,232 .00 .00 .00 .00 .00 .00 68,370 388,730
+Total DISTRIBUTION - WATER: 29,269 6,773 5,507 15,337 21,613 10,989 .00 .00 .00 .00 .00 .00 89,487 176,714
+Total ADMINISTRATION - SEWER: 13,516 14,764 14,759 14,560 22,142 14,576 .00 .00 .00 .00 .00 .00 94,317 190,576
+Total TREATMENT - SEWER: 6,871 48,127 27,603 60,372 38,129 26,529 .00 .00 .00 .00 .00 .00 207,631 473,200
+Total DISTRIBUTION - SEWER: 3,414 3,264 2,642 5,346 7,957 2,942 .00 .00 .00 .00 .00 .00 25,565 87,311
+Total CAPITAL: .00 20,113 13,273 62,860 21,813 .00 .00 .00 .00 .00 .00 .00 118,058 100,000
+Total DEBT: .00 .00 .00 150,222 .00 .00 .00 .00 .00 .00 .00 .00 150,222 300,446
+Total TRANSFERS: 9,717 9,717 9,717 9,717 9,717 9,717 .00 .00 .00 .00 .00 .00 58,302 118,797
+Total Expenditure: 76,245 137,830 88,274 354,115 171,499 80,893 .00 .00 .00 .00 .00 .00 908,857 2,053,553
+Net Total WATER/SEWER FUND: 75,011 14,285 53,906 174, 769- 9,445 147,150 .00 .00 .00 .00 .00 .00 125,028 243,349
+Town of Lyons Budget Worksheet - MONTHLY ROLLUP for BOT Page:     4
+Periods: 01/26-06/26 Jul 29, 2026  10:29AM
+2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26 2026-26
+January February March April May June July August September October November December Current year Current year
+Account Number Account Title Actual Actual Actual Actual Act ual Actual Actual Actual Actual Actual Actual Actual Actual Budget
+STORM WATER
+Total CHARGES FOR SERVICES: 9,978 10,342 10,210 10,332 10,321 10,320 .00 .00 .00 .00 .00 .00 61,504 121,080
+Total INVESTMENT: 724 665 770 740 769 774 .00 .00 .00 .00 .00 .00 4,443 9,000
+Total Revenue: 10,703 11,008 10,979 11,072 11,090 11,095 .00 .00 .00 .00 .00 .00 65,946 130,080
+Total ADMINISTRATION: 5,187 6,295 6,244 6,068 9,810 6,277 .00 .00 .00 .00 .00 .00 39,882 80,801
+Total TRANSMISSION: 1,066 1,481 1,383 1,323 2,476 1,522 .00 .00 .00 .00 .00 .00 9,251 31,528
+Total TRANSFERS: 2,564 2,564 2,564 2,564 2,564 2,564 .00 .00 .00 .00 .00 .00 15,384 26,552
+Total Expenditure: 8,817 10,340 10,191 9,955 14,850 10,363 .00 .00 .00 .00 .00 .00 64,517 138,881
+Net Total STORM WATER: 1,885 668 788 1,118 3,760- 731 .00 .00 .00 .00 .00 .00 1,430 8,801-
+TOWN OF LYONS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+ELECTRIC FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 8
+CHARGES FOR SERVCIES
+02-13-3300 RESIDENTIAL ELECTRIC SALES 98,623.10 586,069.18 1,169,700.00 583,630.82 50.1
+02-13-3302 NON-TAXABLE ELECTRIC SALES 14,115.18 84,811.63 155,900.00 71,088.37 54.4
+02-13-3303 NON-RESIDENTIAL ELECTRIC SALES 37,682.98 153,696.87 314,600.00 160,903.13 48.9
+02-13-3304 RECONNECTION CHARGES 30.00 30.00 .00 (                  30.00) .0
+02-13-3305 IN VESTMENT FEE .00 .0 0 9,000.00 9,000.00 .0
+02-13-3306 ELECTRIC SURCHARGE 222.50 1,332.58 1,800.00 467.42 74.0
+02-13-3307 POLE ATTACHMENT FEE .00 940.00 940.00 .00 100.0
+TOTAL CHARGES FOR SERVCIES 150,673.76 826,880.26 1,651,940.00 825,059.74 50.1
+INVESTMENT
+02-17-3500 INTEREST INCOME 3,613.47 20,732.20 32,000.00 11,267.80 64.8
+TOTAL INVESTMENT 3,613.47 20,732.20 32,000.00 11,267.80 64.8
+OTHER INCOME
+02-18-3600 OTHER INCOME 4,084.55 15,024.55 10,000.00 (             5,024.55) 150.3
+TOTAL OTHER INCOME 4,084.55 15,024.55 10,000.00 (             5,024.55) 150.3
+TOTAL FUND REVENUE 158,371.78 862,637.01 1,693,940.00 831,302.99 50.9
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+ELECTRIC FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 9
+ADMINISTRATION
+02-50-4000 FULL TIME SALARIES 9,796.86 63,892.61 126,759.00 62,866.39 50.4
+02-50-4002 PAYROLL TAXES - ER 735. 77 4,847.32 9,653.00 4,805.68 50.2
+02-50-4003 EMPLOYEE INS - ER 2,177. 81 12,986.77 28,472.00 15,485.23 45.6
+02-50-4004 RETIREMENT CONTRIBUTION - ER 623.92 4,067.95 7,900.00 3,832.05 51.5
+02-50-4201 PC, SOFTWARE & PRINTERS 570.76 2,853.80 6,849.00 3,995.20 41.7
+02-50-4203 DUES & SUBSCRIPTIONS .00 543.08 2,000.00 1,456.92 27.2
+02-50-4250 MISCELLANEOUS EXPENSE .00 .00 500.00 500.00 .0
+02-50-4501 OUTSIDE PROF SERVICE FEES 23.00 818.00 5,000.00 4,182.00 16.4
+02-50-4503 SEMINARS/MEETINGS .00 .00 1,000.00 1,000.00 .0
+02-50-4504 TRAVEL EXPENSES (                  20.81) 388.91 1,500.00 1,111.09 25.9
+TOTAL ADMINISTRATION 13,907.31 90,398.44 189,633.00 99,234.56 47.7
+MAINTENANCE
+02-65-4000 FULL TIME SALARIES 3,182.74 17,183.65 34,549.00 17,365.35 49.7
+02-65-4002 PAYROLL TAXES - ER 246. 75 1,340.08 2,643.00 1,302.92 50.7
+02-65-4003 EMPLOYEE INS - ER 515. 11 3,025.83 8,953.00 5,927.17 33.8
+02-65-4004 RETIREMENT CONTRIBUTION - ER 103.23 675.63 1,587.00 911.37 42.6
+02-65-4251 MAINTENANCE & SUPPLIES .00 1,886.43 5,000.00 3,113.57 37.7
+02-65-4252 GASOLINE, OIL, ETC. 226.21 1,047.89 1,500.00 452.11 69.9
+02-65-4253 TRANSFORMERS .00 11,354.62 15,000.00 3,645.38 75.7
+02-65-4254 METERS:REPLACMNTS,SOCKETS,TEST .00 .00 1,500.00 1,500.00 .0
+02-65-4300 UTILITIES 3.06 20.02 .00 (                  20.02) .0
+02-65-4501 OUTSIDE PROF SERVICE FEES 1,445.57 30,417.65 97,500.00 67,082.35 31.2
+02-65-4550 ELECTRIC POWER-MEAN & WAPA .00 369,115.13 1,117,200.00 748,084.87 33.0
+02-65-4551 SUBSTATION MAINT & SUPPLIES .00 .00 2,000.00 2,000.00 .0
+02-65-4552 TREE TRIMMING .00 7,703.06 10,000.00 2,296.94 77.0
+TOTAL MAINTENANCE 5,722.67 443,769.99 1,297,432.00 853,662.01 34.2
+CAPITAL
+02-66-6000 CAPITAL PURCHASES .0 0 24,368.72 140,000.00 115,631.28 17.4
+TOTAL CAPITAL .00 24,368.72 140,000.00 115,631.28 17.4
+DEBT
+02-70-7004 2006 BOND PRINCIPAL .00 .00 32,439.00 32,439.00 .0
+02-70-7005 2006 BOND INTEREST .00 .00 1,752.00 1,752.00 .0
+TOTAL DEBT .00 .00 34,191.00 34,191.00 .0
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+ELECTRIC FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 10
+TRANSFERS
+02-80-8001 EF'S SHARE ALLOC EXP'S FROM  GF 4,784.83 28,708.98 57,323.00 28,614.02 50.1
+TOTAL TRANSFERS 4,784.83 28,708.98 57,323.00 28,614.02 50.1
+TOTAL FUND EXPENDITURES 24,414.81 587,246.13 1,718,579.00 1,131,332.87 34.2
+NET REVENUE OVER EXPENDITURES 133,956.97 275,390.88 (           24,639.00) (         300,029.88) 1117.7
+TOWN OF LYONS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+WATER/SEWER FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 11
+CHARGES FOR SERVICES - WATER
+03-16-3300 METERED WATER SALES 120,001.85 455,091.87 1,050,000.00 594,908.13 43.3
+03-16-3302 PIPE WATER SALES RENTAL 11,334.16 30,597.17 47,000.00 16,402.83 65.1
+03-16-3303 WATER METER SALES 1,583.01 9,206.76 17,000.00 7,793.24 54.2
+03-16-3305 TAP CONNECTION FEES .00 .00 35,000.00 35,000.00 .0
+TOTAL CHARGES FOR SERVICES - WATER 132,919.02 494,895.80 1,149,000.00 654,104.20 43.1
+INVESTMENT - WATER
+03-17-3500 INTEREST INCOME 9,291.77 53,311.33 90,000.00 36,688.67 59.2
+TOTAL INVESTMENT - WATER 9, 291.77 53,311.33 90,000.00 36,688.67 59.2
+OTHER INCOME - WATER
+03-18-3600 OTHER INCOME 2,714.06 5,714.06 500.00 (             5,214.06) 1142.8
+03-18-3603 NCWCD REG POOL PRGM LEASING .00 .00 36,000.00 36,000.00 .0
+TOTAL OTHER INCOME - WATER 2,714.06 5,714.06 36,500.00 30,785.94 15.7
+CHARGES FOR SERVICES-SEWER
+03-26-3300 SANITATION USERS' FEE 83,118.49 479,963.46 1,004,402.00 524,438.54 47.8
+03-26-3305 TAP CONNECTION FEES .00 .00 17,000.00 17,000.00 .0
+TOTAL CHARGES FOR SERVICES-SEWER 83,118.49 479,963.46 1,021,402.00 541,438.54 47.0
+TOTAL FUND REVENUE 228,043.34 1,033,884.65 2, 296,902.00 1,263,017.35 45.0
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+WATER/SEWER FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 12
+ADMINISTRATION - WATER
+03-50-4000 FULL TIME SALARIES 10,410.53 67,946.12 134,759.00 66,812.88 50.4
+03-50-4002 PAYROLL TAXES - ER 782. 61 5,159.68 10,265.00 5,105.32 50.3
+03-50-4003 EMPLOYEE INS - ER 2,315. 60 13,810.93 30,286.00 16,475.07 45.6
+03-50-4004 RETIREMENT CONTRIBUTION - ER 654.61 4,267.40 8,194.00 3,926.60 52.1
+03-50-4201 PC, SOFTWARE & PRINTERS 570.75 4,542.07 6,850.00 2,307.93 66.3
+03-50-4203 DUES & SUBSCRIPTIONS .00 443.00 1,800.00 1,357.00 24.6
+03-50-4250 MISCELLANEOUS 174.21 734.39 5,625.00 4,890.61 13.1
+03-50-4501 OUTSIDE PROF SERVICE FEES .00 .00 20,000.00 20,000.00 .0
+TOTAL ADMINISTRATION - WATER 14,908.31 96,903.59 217,779.00 120,875.41 44.5
+TREATMENT - WATER
+03-52-4300 ELECTRIC/WATER/GAS .00 116.79 700.00 583.21 16.7
+03-52-4301 TELEPHONE SERVICE 1,231.89 2,865.75 6,000.00 3,134.25 47.8
+03-52-4550 LONGMONT WATER SERVICES .00 65,387.70 382,030.00 316,642.30 17.1
+TOTAL TREATMENT - WATER 1,231.89 68,370.24 388,730.00 320,359.76 17.6
+DISTRIBUTION - WATER
+03-53-4000 FULL TIME SALARIES 2,733.53 17,392.82 34,229.00 16,836.18 50.8
+03-53-4002 PAYROLL TAXES - ER 211. 49 1,356.18 2,619.00 1,262.82 51.8
+03-53-4003 EMPLOYEE INS - ER 517. 32 3,074.95 10,355.00 7,280.05 29.7
+03-53-4004 RETIREMENT CONTRIBUTION - ER 109.31 718.32 1,711.00 992.68 42.0
+03-53-4250 BUILDING MAINTENANCE .00 .00 1,000.00 1,000.00 .0
+03-53-4251 MAINTENANCE & SUPPLIES 4,334.71 5,734.71 5,000.00 (                734.71) 114.7
+03-53-4252 GASOLINE, OIL, ETC. 113.11 523.95 500.00 (                  23.95) 104.8
+03-53-4253 CHEMICALS, LAB & LAB SUPPLIES 86.40 763.20 3,000.00 2,236.80 25.4
+03-53-4256 WATER METERS & METER PARTS 37.26 5,626.21 5,000.00 (                626.21) 112.5
+03-53-4258 WATER ASSESSMENTS & STORAG E .00 22,166.49 30,000.00 7,833.51 73.9
+03-53-4300 ELECTRIC/WATER/GAS 395.40 14,453.69 50,000.00 35,546.31 28.9
+03-53-4301 TELEPHONE SERVICE .00 .00 800.00 800.00 .0
+03-53-4501 OUTSIDE PROF SERVICE FEES 165.57 1,420.25 5,000.00 3,579.75 28.4
+03-53-4503 SEMINARS/MEETINGS .00 .00 500.00 500.00 .0
+03-53-4550 LINE & VALVE REPAIRS 2,284.86 11,189.18 15,000.00 3,810.82 74.6
+03-53-4551 HIGH SERV PUMP STATION MAINT .00 5,067.35 2,000.00 (             3,067.35) 253.4
+03-53-4552 HYDRANT REPAIRS .00 .00 10,000.00 10,000.00 .0
+TOTAL DISTRIBUTION - WATER 10,988.96 89,487.30 176,714.00 87,226.70 50.6
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+WATER/SEWER FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 13
+ADMINISTRATION - SEWER
+03-60-4000 FULL TIME SALARIES 10,704.55 69,711.05 138,559.00 68,847.95 50.3
+03-60-4002 PAYROLL TAXES - ER 803. 91 5,289.74 10,556.00 5,266.26 50.1
+03-60-4003 EMPLOYEE INS - ER 2,375. 46 14,142.65 31,077.00 16,934.35 45.5
+03-60-4004 RETIREMENT CONTRIBUTION - ER 669.32 4,355.69 8,384.00 4,028.31 52.0
+03-60-4201 PC SOFTWARE & PRINTERS .00 .00 1,000.00 1,000.00 .0
+03-60-4501 OUTSIDE PROF SERVICE FEES 23.00 818.00 1,000.00 182.00 81.8
+TOTAL ADMINISTRATION - SEWER 14,576.24 94,317.13 190,576.00 96,258.87 49.5
+TREATMENT - SEWER
+03-62-4201 PC, SOFTWARE & PRINTERS .00 .00 500.00 500.00 .0
+03-62-4250 MISCELLANEOUS .00 179.99 1,000.00 820.01 18.0
+03-62-4251 MAINTENANCE & SUPPLIES 865.69 3,305.53 15,000.00 11,694.47 22.0
+03-62-4253 CHEMICALS,LAB & LAB SUPPLIES 1,190.30 34,884.22 80,000.00 45,115.78 43.6
+03-62-4300 ELECTRIC/WATER/GAS 7,878.44 50,058.81 95,000.00 44,941.19 52.7
+03-62-4301 TELEPHONE SERVICE 129.00 774.00 1,200.00 426.00 64.5
+03-62-4501 OUTSIDE PROF SERVICE FEES 13,326.58 84,851.47 178,500.00 93,648.53 47.5
+03-62-4550 SLUDGE DISPOSAL 3,139.25 33,576.70 102,000.00 68,423.30 32.9
+TOTAL TREATMENT - SEWER 26,529.26 207,630.72 473,200.00 265,569.28 43.9
+DISTRIBUTION - SEWER
+03-64-4000 FULL TIME SALARIES 2,151.24 13,676.89 26,745.00 13,068.11 51.1
+03-64-4002 PAYROLL TAXES - ER 166. 12 1,065.83 2,046.00 980.17 52.1
+03-64-4003 EMPLOYEE INS - ER 419. 31 2,524.64 7,683.00 5,158.36 32.9
+03-64-4004 RETIREMENT CONTRIBUTION - ER 91.85 595.25 1,337.00 741.75 44.5
+03-64-4250 MISCELLANEOUS .00 .00 1,000.00 1,000.00 .0
+03-64-4252 GASOLINE, OIL, ETC. 113.11 523.95 750.00 226.05 69.9
+03-64-4257 DISCHARGE PERMIT .00 .00 2,750.00 2,750.00 .0
+03-64-4501 OUTSIDE PROF SERVICE FEES .00 .00 5,000.00 5,000.00 .0
+03-64-4550 LINE REPAIRS & CLEANING .00 850.00 20,000.00 19,150.00 4.3
+03-64-4551 LIFT STATION PARTS & MAINT .00 6,328.65 20,000.00 13,671.35 31.6
+TOTAL DISTRIBUTION - SEWER 2,941.63 25,565.21 87,311.00 61,745.79 29.3
+CAPITAL
+03-66-6000 CAPITAL PURCHA SES - WATER .00 .00 100,000.00 100,000.00 .0
+03-66-6001 CAPITAL PURCHA SES - SEWER .00 118,057.66 .00 (         118,057.66) .0
+TOTAL CAPITAL .00 118,057.66 100,000.00 (           18,057.66) 118.1
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+WATER/SEWER FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:31AM       PAGE: 14
+DEBT
+03-70-7005 WWTP 2014 WPCSRF LOAN PRINCIPL .00 133,962.76 268,755.00 134,792.24 49.9
+03-70-7006 WWTP 2014 WPCRF LOAN INTEREST .00 16,259.52 31,691.00 15,431.48 51.3
+TOTAL DEBT .00 150,222.28 300,446.00 150,223.72 50.0
+TRANSFERS
+03-80-8001 WF'S SHARE OF ALLOCATED EXP 9,717.08 58,302.48 118,797.00 60,494.52 49.1
+TOTAL TRANSFERS 9,717.08 58,302.48 118,797.00 60,494.52 49.1
+TOTAL FUND EXPENDITURES 80,893.37 908,856.61 2,053,553.00 1,144,696.39 44.3
+NET REVENUE OVER EXPENDITURES 147,149.97 125,028.04 243,349.00 118,320.96 51.4
+TOWN OF LYONS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+STORM WATER
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:32AM       PAGE: 15
+CHARGES FOR SERVICES
+06-13-3300 STORMWATER DRAINAGE FEES 10,320.30 61,503.76 121,080.00 59,576.24 50.8
+TOTAL CHARGES FOR SERVICES 10,320.30 61,503.76 121,080.00 59,576.24 50.8
+INVESTMENT
+06-17-3500 INTEREST INCOME 774.31 4,442.60 9,000.00 4,557.40 49.4
+TOTAL INVESTMENT 774.31 4,442.60 9,000.00 4,557.40 49.4
+TOTAL FUND REVENUE 11,094.61 65,946.36 130,080.00 64,133.64 50.7
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+STORM WATER
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:32AM       PAGE: 16
+ADMINISTRATION
+06-50-4000 FULL TIME SALARIES 4,775.66 30,466.37 60,847.00 30,380.63 50.1
+06-50-4002 PAYROLL TAXES - ER 360.17 2,318.43 4,642.00 2,323.57 49.9
+06-50-4003 EMPLOYEE INSURANCE 886.04 5,271.55 11,703.00 6,431.45 45.0
+06-50-4004 RETIREMENT CONTRIBUTION 255.44 1,619.77 3,109.00 1,489.23 52.1
+06-50-4250 MISCELLANEOUS .00 205.70 .00 ( 205.70)
+.0
+06-50-4502 OFFICE OPERATIONS .00 .00 500.00 500.00 .0
+TOTAL ADMINISTRATION 6,277.31 39,881.82 80,801.00 40,919.18 49.4
+TRANSMISSION
+06-65-4000 FULL TIME SALARIES 1,113.30 6,818.69 13,871.00 7,052.31 49.2
+06-65-4002 PAYROLL TAXES - ER 85.90 530.15 1,061.00 530.85 50.0
+06-65-4003 EMPLOYEE INSURANCE 274.87 1,597.70 4,402.00 2,804.30 36.3
+06-65-4004 RETIREMENT CONTRIBUTION 48.00 304.30 694.00 389.70 43.9
+06-65-4251 MAINTENANCE & SUPPLIES .00 .00 500.00 500.00 .0
+06-65-4501 OUTSIDE PROFESSIONAL SERVICES .00 .00 10,000.00 10,000.00 .0
+06-65-4503 SEMINARS/MEETINGS .00 .00 500.00 500.00 .0
+06-65-4504 TRAVEL EXPENSES .00 .00 500.00 500.00 .0
+TOTAL TRANSMISSION 1,522.07 9,250.84 31,528.00 22,277.16 29.3
+TRANSFERS
+06-80-8001 STORMWATER SHARE OF ALLOCATED 2,564.00 15,384.00 26,552.00 11,168.00 57.9
+TOTAL TRANSFERS 2,564.00 15,384.00 26,552.00 11,168.00 57.9
+TOTAL FUND EXPENDITURES 10,363.38 64,516.66 138,881.00 74,364.34 46.5
+NET REVENUE OVER EXPENDITURES 731.23 1,429.70 (             8,801.00) (           10,230.70) 16.2
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+GRANT - FLOOD
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:32AM       PAGE: 22
+LAHC
+19-58-4006 LAHC EXPENDITURES .00 2,315.00 11,000.00 8,685.00 21.1
+TOTAL LAHC .00 2,315.00 11,000.00 8,685.00 21.1
+DOLA MARKETING
+19-60-4401 CDOT -ST VRAIN TRAIL EXTENSION .00 54,054.70 .00 (           54,054.70) .0
+19-60-4405 CDOT-SAFE ROUTES TO SCHOOL 19,462.60 27,437.80 .00 (           27,437.80) .0
+19-60-4530 ST. VRAIN LEFT HAND WATER CONS .00 632.50 .00 (                632.50) .0
+19-60-4550 DHSEM-BRIC-3RD AVE STORMWATER 13,099.60 19,228.00 .00 (           19,228.00) .0
+19-60-4801 STATE HISTORIC PRESERVATION .00 700.00 .00 (                700.00) .0
+TOTAL DOLA MARKETING 32,562.20 102,053.00 .00 (         102,053.00) .0
+OTHER GRANT EXPENDITURES
+19-62-4722 BOCO WILDFIRE GRANT .00 17,599.54 .00 (           17,599.54) .0
+19-62-4723 BOCO SUSTAINABILITY GRANT 100.00 15,000.00 .00 (           15,000.00) .0
+TOTAL OTHER GRANT EXPENDIT URES 100.00 32,599.54 .00 (           32,599.54) .0
+LCF/LOCAL GRANTS
+19-63-4000 LCF EXPENDITURES 190. 90 476.88 12,000.00 11,523.12 4.0
+TOTAL LCF/LOCAL GRANTS 190.90 476.88 12,000.00 11,523.12 4.0
+DEPARTMENT 70
+19-70-7000 STATE FLOOD ADVANCE REPAYMENT .00 809,338.39 .00 (         809,338.39) .0
+TOTAL DEPARTMENT 70 .00 809,338.39 .00 (         809,338.39) .0
+TOTAL FUND EXPENDITURES 32,853. 10 946,782.81 23,000.00 (         923,782.81) 4116.5
+NET REVENUE OVER EXPENDITURES 284,615.34 898, 424.79 .00 (         898,424.79) .0
+TOWN OF LYONS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+CAPITAL PROJECTS FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:32AM       PAGE: 23
+SOURCE 10
+20-10-3002 SALES TAX REV - 0.5% 18,633.33 77,766.44 259,000.00 181,233.56 30.0
+TOTAL SOURCE 10 18,633.33 77, 766.44 259,000.00 181,233.56 30.0
+TRANSFERS
+20-35-3901 TRANSFER IN FROM GENERAL FUND 16,666.67 100,000.02 200,000.00 99,999.98 50.0
+TOTAL TRANSFERS 16,666.67 100,000.02 200,000.00 99,999.98 50.0
+TOTAL FUND REVENUE 35,300.00 177,766.46 459,000.00 281,233.54 38.7
+TOWN OF LYONS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 6 MONTHS ENDING JUNE 30, 2026
+CAPITAL PROJECTS FUND
+PERIOD ACTUAL YTD ACTUAL BUDGET UNEXPENDED PCNT
+FOR ADMINISTRATION USE ONLY 50 % OF THE FISCAL YEAR HAS ELAPSED 07/29/2026     10:32AM       PAGE: 24
+CAPITAL
+20-66-6000 CAPITAL PROJECTS .00 .00 269,100.00 269,100.00 .0
+TOTAL CAPITAL .00 .00 269,100.00 269,100.00 .0
+TOTAL FUND EXPENDITURES .00 .00 269,100.00 269,100.00 .0
+NET REVENUE OVER EXPENDITURES 35, 300.00 177,766.46 189,900.00 12,133.54 93.6
+1
+Town of Lyons, Colorado
+Board of Trustees
+PCDC
+Meeting Date: August 10, 2026
+TO: Mayor Browning and the Members of the Board of Trustees
+Members of the Planning and Community Development Commission
+FROM: Lisa Ritchie, AICP, Planning and Building Director
+DATE: August 6, 2026
+ITEM: Strategic Growth Element Update
+______
+____ ORDINANCE
+MOTION / RESOLUTION
+_X INFORMATION
+I. REQUEST OR ISSUE: As discussed with the Board of Trustees on June 1, 2026, and the PCDC
+on June 8, 2026 and July 27, 2026, the development of the Strategic Growth Element in
+Comprehensive Plans is underway.  Discussions with the Boards and Commissions will occur in
+August in September.  See the memos and packets linked above for complete details.
+BACKGROUND:  PCDC reviewed a high-level conceptual map during the June 8 meeting, 
+and as follow up requested a more specific map for further review and consideration.  
+Rather than a static pdf map, staff developed an online map to aid the discussion, which 
+was discussed and refined on the July 27 PCDC meeting.  A screenshot of the map that 
+includes the draft Strategic Growth Overlay is below: 
+B1
+2
+When the map first opens, the following data is visible:
+ Town boundary
+ Parcels
+ Zoning
+ Draft Strategic Growth Overlay (outlined in pink)
+If the user clicks the Map Layers tab on the top right of the screen, additional data is 
+available to make visible by clicking the eye button, including:
+ Floodplain
+ Boulder County Open Space and easements
+ Aerial Imagery
+Finally, the strategic growth element could model hypothetical redevelopment 
+scenarios for a few sites rather than for each specific property.  The following could be used
+to meet the requirements for this analysis:
+ The Stantec area-wide plan was completed for the Town Hall site, provided as an
+attachment.  This planning work illustrates how additional residential development
+could be achieved on the Town Hall site.
+ The recently annexed Tebo property on the eastern corridor.  Portions of this site
+are zoned for high density residential development, and the strategic growth
+element could include high level conceptual designs reflecting possible ranges of
+density.
+ One or more additional sites.  Staff seeks direction on preferred locations for
+analysis.
+CITY OF LONGMONT  |  Assistant City Manager 
+Utilities & Public Works 
+1100 S. SHERMAN STREET  |  LONGMONT, COLORADO 80501  |  303-651-8385  |  longmontcolorado.gov 
+December 3, 2025 
+Tow
+n of Lyons 
+Victoria Simonsen, Town Administrator 
+P.O. Box 49 
+Lyons, CO 80540 
+Re
+: Treated Water Service 
+W
+e have received your letter dated November 3, 2025, regarding the Town of Lyons treated 
+water requirements.  In accordance with the July 21, 2003 Intergovernmental Agreement 
+(Treated Water Service) and the subsequent December 14, 2004 Agreement between the Town 
+of Lyons and the City of Longmont, we have prepared a review of the terms of the treated 
+water service, raw water obligations, and system availability charges. 
+A
+s your letter indicated, Lyons had 23 unused taps (Service Connections) due to demolition of 
+Flood Damaged Properties (FDP).  There is 1 FDP tap remaining that has not been reallocated. 
+Y
+our letter indicates that there were no New Approval Service Connections purchased in WY 
+2025.  As of November 1, 2024, the total Service Connections were 977.1.  Since there were no 
+New Approval Service Connections in 2025, the total Service Connections remain at 977.1.  
+T
+he following is a summary of the Service Connections as defined in paragraph 5.2 of the 2003 
+Agreement and reconciled in the November 30, 2009 letter from Longmont to Lyons: 
+Water 
+Year 
+Pre-Existing 
+Commitments 
+New 
+Approvals 
+Additional 
+Service 
+Connections 
+Corrected 
+Service 
+Connections 
+Purchased 
+Service 
+Connections 
+Total Purchased 
+Water Services 
+Balance 
+2003 1 0 1 706 705 -1
+2004 13 0 13 719 705 -14
+2005 45 0 45 764 42 747 -17
+2006 32.9 19 51.9 815.9 70 817 1.1 
+2007 4.9 45 49.9 865.8 56.7 873.7 7.9 
+2008 6 7 13 878.8 13 886.7 7.9 
+2009 0 3 3 881.8 886.7 4.9 
+2010 0 3 3 884.8 886.7 1.9 
+B2
+Page | 2 
+2011 0 1 1 885.8 
+ 
+886.7 0.9 
+2012 0 5 5 890.8 4.1 890.8 0 
+2013 0 11 11 901.8 11 901.8 0 
+2014 0 4 4 905.8 4 905.8 0 
+2015 0 6 6 911.8 6 911.8 0 
+2016 0 7 7 918.8 7 918.8 0 
+2017 0 6 6 924.8 6 924.8 0 
+2018 0 3 3 927.8 3 927.8 0 
+2019 1 2 3 930.8 4 931.8 1 
+2020 1 1 2 932.8 1 932.8 0 
+2021 0 2 2 934.8 2 934.8 0 
+2022 1 0 1 935.8 1 935.8 0 
+2023 0 39.2 39.2 975.0 39.2 975.0 0 
+2024 0 2.1 2.1 977.1 2.1 977.1 0 
+2025 0 0 0 977.1 0 977.1 0 
+Totals: 105.8 166.3 272.1 
+ 
+272.1 
+  
+ 
+Both the number of new Service Connections added in the prior Water Year and the total 
+number of Service Connections are well within the limits as shown in paragraph 2 of the 2003 
+Agreement and the maximum 1,250 service connections, as revised in the 2019 Third 
+Amendment to the 2003 Agreement. 
+ 
+In accordance with paragraph 6 of the 2003 Agreement, Longmont calculates the additional 
+capacity for new Service Connections and additional capacity if Lyons exceeds the capacity 
+purchased for the prior Water Year.  We have calculated the additional capacity for new Service 
+Connections as shown in Exhibit C of the 2004 Agreement to be equal to 437 and 1,527 gallons 
+per day (gpd) for the average and maximum day demands, respectively. 
+ 
+Based on a cost of $2,885.00 per Service Connection as shown in Exhibit C of the 2004 
+Agreement, the System Availability Charge for the no New Approval Service Connections in 
+Water Year 2025 is $0.00.  Based on the no New Approval Service Connections, the average 
+and maximum daily capacities through the prior Water Year remain at 383,562 gpd and 999,588 
+gpd, respectively.  This includes the System Availability Charges paid by Lyons for the equivalent 
+of 10.4 and 68.9 Service Connections for exceeding the average and maximum daily capacities 
+during the 2006 and 2012 Water Years, respectively. 
+ 
+As indicated in your recent letter, the actual average and maximum daily demands during the 
+2025 Water Year were 281,200 gpd and 726,300 gpd, respectively, which are well within the 
+limits as shown in paragraph 2 of the 2003 Agreement for the average and maximum daily 
+demands that Longmont provides to Lyons. 
+ 
+Paragraph 5 of the 2003 Agreement requires Lyons to dedicate and assign to Longmont an 
+initial fixed amount of water, 479 units of Lyons C-BT Water.  The fixed amount of water now 
+Page | 3 
+equals the base amount of 479 units of the Lyons C-BT Water plus 1 additional unit of Lyons C-
+BT Water for certain Service Connections added within the Lyons Service Area, either as part of 
+a pre-existing commitment or as a new approval. 
+A
+s indicated in your recent letter, Lyons currently holds 731 units of C-BT Water.  There are 669 
+C-BT units under a fixed quota of 70% and 62 units on a variable quota.  In the current WY 2025
+letter, the Town currently holds 68 shares in Lake McIntosh Reservoir Company and is
+dedicating an additional seven (7) shares for five (5) commercial Service Connections and 52.3
+shares for 37.3 affordable housing Service Connections.  Based on the summary of Service
+Connections above and the terms of the 2003 Agreement as amended in the 2010 Agreement
+and the 2019 Agreement, Lyons needs to dedicate a total of 708.8 units of Lyons C-BT Water
+along with 59.3 shares of Lake McIntosh Reservoir Company water to meet the requirements of
+the Agreements.  As such, there are 22.2 units of C-BT water owned by Lyons but not yet
+required for dedication as well as 8.7 shares of Lake McIntosh Reservoir Company stock.
+I
+n accordance with paragraph 6 of the 2003 Agreement, Longmont completed a comprehensive 
+cost of service analysis for the water utility in 2024.  The following rate schedule was adopted 
+by Longmont City Council as a result of that study: 
+Lyons Water Rate per 1,000 gallons 
+2025 2026 2027 
+$3.03 $3.31 $3.61 
+A
+gain, we appreciate having the opportunity to provide water service to you.  Please feel free 
+to call me at 303-651-8385 if you have further questions or concerns. 
+Sin
+cerely, 
+C
+ITY OF LONGMONT 
+Da
+vid Hornbacher 
+Assistant City Manager Utilities and Public Works 
+Cc: C
+hris Huffer, Acting Director of Water and Waste 
+Wes Lowrie, Water Resource Analyst 
+Lance Smith, Director of Business Enablement 
+Joe Michalski, Engineering and Operations Administrator 
+,
+Water Supply Element
+Lyons serves a population of just over 2,100 through its municipal water and 
+wastewater utility. The service area generally follows the Town of Lyons 
+boundaries, except for approximately 40 properties along Apple Valley Road in 
+Boulder County. The Town receives treated water from the City of Longmont under 
+an intergovernmental agreement first established in 2003 and reviewed and 
+updated several times over the past two decades. That agreement helped 
+incorporate water planning into the Town municipal code and long-range growth 
+planning. In fall 2022, Lyons staff attended a WaterSmart workshop and developed 
+an action plan to integrate water efficiency and water supply considerations into 
+planning and development processes. The Town’s comprehensive plan was most 
+recently updated in 2023 and in 2025, the Town reviewed its water supply and 
+demand with Longmont.
+Lyons retains it's own water rights portfolio, which includes native waters from the 
+South St. Vrain, Ralph Price Reservoir and Lake MacIntosh as well as supporting 
+water rights from Northern Water Conservancy District's Colorado Big-Thompson 
+Project. We have maintained a strong water rights portfolio through our initial 
+agreement with Longmont and it's requirement for the dedication of water rights 
+based on actual water service connections and not the amount of land that might be 
+annexed into the water utilities service area.  This water rights dedication policy is 
+also found in our municipal code.  In 2019 we worked with Longmont to amend our 
+IGA so we could accept a more affordable water right for development that included 
+affordable housing.
+Water Conservation Policies
+Lyons currently experiences approximately 8% water loss. In 2027, the Town plans 
+to budget for a capital improvement project to replace about 50 aging water meters. 
+This upgrade will allow the AMI water-reading software to measure usage in gallons
+rather than increments of 1,000 gallons, enabling faster leak notifications for 
+customers.
+The 2026 drought conditions have increased coordination with neighboring 
+jurisdictions on water resource concerns, conservation messaging, and potential 
+drought restrictions.
+In 2026, Lyons developed a Water Shortage Action Plan. For water supply planning, 
+the Town evaluates the system using 3/4-inch service connection equivalents and 
+B3
+,
+estimates 46,000 gallons per 3/4-inch connection. The Town is working to establish 
+a reduction goal for this amount.
+Demand and Supply Estimates
+Lyons provides Longmont with an annual letter estimating projected water demand 
+increases over the next five years, as required under the 2003 agreement. In 2025, 
+Lyons reviewed its water supply and demand with the City of Longmont. The 
+analysis showed a current supply of 438 acre-feet and current demand of 361 acre-
+feet. It also projected a future supply of 534 acre-feet and future demand of 464 
+acre-feet if Lyons reaches the maximum number of 3/4-inch equivalent water 
+connections allowed under the intergovernmental agreement. Lyons currently has 
+115% capacity relative to current demand, and water rights required from 
+development are expected to maintain that capacity through buildout.
+Lyons will incorporate more detail into its comprehensive plan about how it 
+estimates future water demand and monitors its water supply portfolio. As a small 
+town with limited growth expectations and as the sole water provider in town, 
+Lyons will use the Low-Tech pathway.
+Lyons Water Utility staff will review the Water Supply Element of the 
+comprehensive plan with the Lyons Utility and Engineering Board in 2030 and again
+when the comprehensive plan is updated in 2033. After that, the element may be 
+reviewed with each comprehensive plan update and at the midpoint of each 10-year
+update cycle. Staff will then present recommendations for updating the element to 
+the Town Board of Trustees.
+Current Comprehensive Plan Water Element Items
+Goal IS-1: Maintain and improve the Town’s water and
+wastewater resources to ensure safe and sustainable service
+is provided for residents and businesses.
+Policy IS-1.1: Water supply, treatment, and distribution
+Ensure the Town’s water supply, treatment, and distribution system
+is adequate to meet expected future demand, taking into account
+seasonal fluctuations in water use, drought, and climate change scenarios.
+Implement and periodically update the Town’s Stormwater Master Plan,
+Water Capital Improvements Plan, and associated feasibility studies.
+Policy IS-1.4: Efficiency first
+Prioritize the efficient use of resources (e.g., energy, water, materials,
+etc.), reuse, and conservation in Town operations and service delivery.
+,
+Carefully assess investments in new infrastructure for potential
+improved value, effectiveness, durability, and safety for Town residents
+and businesses.
+Integrating with the Colorado Water Plan
+Lyons works with two conservancy districts and is exploring how its water rights could 
+support nearby agriculture and improve environmental stream flows. Town staff serve on 
+boards and participate in working groups for water-focused organizations, including the 
+Watershed Center and Left Hand. The Town has also discussed potential water storage 
+options within its growth area, is participating in the St. Vrain WRAP, and supports 
+efforts to protect and improve riparian and wetland habitat in undeveloped floodplain 
+areas.
+Lyons has evaluated infill and accessory dwelling unit development as a potential water-
+conservation strategy because it may reduce turf-grass irrigation. The Town is also 
+working to add Green Stormwater Infrastructure requirements to development standards 
+and capital project construction requirements. Staff toured Boulder County Green 
+Stormwater Infrastructure projects to learn from and collaborate with regional partners.
+Vital Landscapes & Resources –
+ St. Vrain Creek
+TO: All Boards & Commissions 
+F
+ROM:  Town of Lyons Planning Department 
+DAT
+E: 06/ 18/2025 
+IT
+EM: Comprehensive Plan Review 
+______ 
+____ O
+RDINANCE 
+M OTION / RESOLUTION 
+_X I NFORMATION 
+I
+. REQUEST OR ISSUE: The Town of Lyons comprehensive plan states  that each Board and
+Commission should review their assigned strategies annually. This annual review will help B&Cs
+update priorities and relevance and will allow each to suggest updates and concerns. The review
+may also help B&Cs with budget proposals and will help the Board of Trustees review continuous
+information from each B&C.
+S
+taff reviewed the process with the PCDC after the first year of review and determined that in
+order to compile an easy-to-read version for the Board of Trustees, each B&C should follow the
+same guidelines for review. The strategies in the Comp Plan were assigned to staff, boards,
+commissions, and external partners where one or two entities is considered the lead role and
+others are assigned as partners. B&Cs should make it clear if they believe a strategy is high
+priority or if they should be deleted or edited and share progress on the strategy. Boards and
+Commissions should also review their section in the Lyons Municipal Code at the same time if
+they have not already completed this request. Please review your assigned strategies and
+return feedback to your liaison before September 31, 2025.
+I
+I. PROJECT HISTORY: The Lyons Thrive Comprehensive Plan, adopted in January 2023, was
+not intended to be a static document and the Plan states the need for ongoing monitoring and
+periodic amendments. The plan also states that progress on the strategies should be reviewed
+annually to set priorities to allocate limited resources and that a brief status report regarding near-
+term strategies should be provided by the Town departments and Boards and Commissions in
+the Annual Report.
+A
+t the direction of the Board, Town Staff organized the first review towards the end of 2024 with
+a lot of flexibility in the way each Board and Commission responded. Town Staff compiled all
+information to present to the PCDC who then reviewed feedback as well as the process. In order
+to ensure quicker feedback and a more uniform way of compiling feedback we are asking that
+this year each Board and Commission enters comments into their given spreadsheet following
+the process laid out in the attached document.  If a Board or Commission wants to suggest
+additional feedback (not relevant to any assigned strategy) they can do so on a separate tab in
+the spreadsheet. Please ensure comments on strategies are relevant to that specific strategy
+and if the B&C has a more general request add it to the separate tab.
+P
+lease note that the Board did not officially change or update the plan since the last review but
+will be considering the 2024 feedback along with the 2025 feedback. If the B&C does not have
+any additional comments, you may note that the previous comment is still relevant but we ask
+B4
+that each B&C submit a comment for each strategy. 
+I
+II. RELATIONSHIP WITH OTHER PLANS: Assigned strategies can be found attached to this
+memo but all strategies can be found in the Lyons Thrive Comprehensive Plan starting on page
+129.
+I
+V. RECOMMENDED ACTION / NEXT STEPS:  Staff recommends that each B&C review the
+strategies that were originally assigned to them (either as lead or a partner) and determine
+progress toward the strategy, priority of the strategy, as well as if they believe the strategy is
+relevant to the Town and clearly written. Please respond to each strategy, even if the comment
+is brief such as “Not a priority” “Not relevant to this Board” or “Same as 2024.”
+P
+lease review the assigned strategies and return the updated spreadsheet to your Board
+Liaison prior to September 31, 2025.
+V
+. FISCAL IMPACTS: None.
+V
+I. LEGAL ISSUES: None known.
+V
+II. CONFLICTS OR ENVIRONMENTAL ISSUES: None known.
+Guidelines for Review 
+W
+hy do staff, boards, commissions, and other interested parties need to review their 
+strategies from the comprehensive plan? 
+- The comprehensive plan states that each assigned party should review their assigned
+strategies. This helps determine relevance, priority, and can also help with budgeting
+requests and funding for the year. It can also give boards, commissions, and staff some
+areas to focus on when there is a slow period or help keep everyone focused.
+Reviews can help with budget requests and the annual report 
+- Progress on implementation strategies outlined in Chapter 4 should be reviewed
+annually to set priorities to allocate limited resources. A brief status report regarding
+near-term strategies should be provided by Town departments and boards and
+commissions in the Town’s Annual Report (Page 14).
+Update priorities 
+- This chapter should be reviewed and updated on an annual basis to update the status of
+near-term strategies; review and refine the anticipated timing of mid-term and long-term
+strategies, or make other adjustments as needed. Progress on implementation
+strategies should be communicated by Town departments and boards and commissions
+in the Town’s Annual Report (Page 124).
+Track Progress 
+- Establish a framework for monitoring progress over time. Progress that is made toward
+achieving the community’s goals must be monitored, and the results of that monitoring
+be made available to the community at large (Page 125).
+o Near-Term – these strategies should be completed within one to two years
+o Mid-Term – these strategies should be completed within three to five years
+o Long-Term – these strategies should be considered within six to ten years
+o Ongoing – these strategies will be completed incrementally as opportunities arise
+- Strategies may be implemented sooner if the opportunity arises (funding becomes
+available) or as community priorities change over the planning horizon (Page 127)
+- Only the near-term and ongoing will be populated in the priority/resource required
+column.
+- There will need to be a yearly priority setting exercise by the BoT to set Near-Term
+strategies that reflect current Board priorities, funding constraints and input from other
+Town Boards and Commissions. (Page 127)
+What are the steps for Boards and Commissions? 
+1. Receive a reminder or set a reminder to begin reviewing assigned strategies
+a. At the beginning of July (or sooner), each B&C will receive a reminder to begin
+working on their comprehensive plan review. The reviews must be complete and
+back to staff by September 31 so that it is available prior to budgeting
+2. Add a new column to the spreadsheet for the year
+a. Each Board and Commission will have a spreadsheet they can use each year to
+track progress. The spreadsheet will contain the feedback from previous years.
+Each B&C should add a column with a new year and begin to fill in the sheet. 
+Depending on the amount of goals assigned to the B&C, the review may take a 
+couple of meetings but we hope that this will become easier as strategies are 
+reviewed more often, completed, etc. 
+b. Evaluations can be used by B&C to ask for money during budgeting and can 
+assist with tracking progress and activities for the annual report 
+3. Review the lead/partner 
+a. Each B&C should review every strategy they are assigned either a lead or a 
+partner. Boards can and should make comments if they do not believe the 
+strategy should be assigned to them or if changes should be made to the 
+lead/partner. 
+4. Review strategies for priority 
+a. If a B/C believes a Near-term or Ongoing strategy should NOT be worked on 
+now, they can suggest to remove the priority. If there is a goal the B/C believes 
+should be a priority in the near-term or is actively being worked on the B/C 
+should note this and make it clear such as, “We believe this should be moved to 
+near-term and we anticipate a lot of progress this year…” 
+5.  Make progress updates or general comments 
+a. This can include very thorough reporting about activities, priorities, etc. so that 
+they can update others on their progress, or even what they do not believe is 
+relevant. Comments can be brief or can give details about grants, work being 
+done, discussions, etc. 
+6. Make recommendations for new goals 
+a. B&C’s can give themselves steps to achieve goals, suggest other changes or 
+comments and these will be added into a separate section of the review.  
+7. Make additional comments to the comprehensive plan 
+a. B&C’s may suggest something that may be missing, that needs to be added 
+based on recent events, or that they feel is a priority for the year or hindered 
+progress in the previous year 
+b. These suggestions can be placed on the separate tab of the spreadsheet 
+8. B&Cs may select up to 3 high priority strategies to focus on for the year. 
+a. This can be added to their webpage or become a focus for the B/C 
+b. Not all Boards may wish to do this 
+c. Some Boards may wish to break down the strategy into measurable short-term 
+goals as well which may assist with implementation 
+d. Example from Nederland’s Sustainability Board 
+9. S
+taff liaison should review feedback prior to returning it to the master
+spreadsheet.
+a. This will remove errors and keep feedback on task.
+
+Comp Plan Review
+Comp Plan Strategy Progress, Priority, Relevance, and Clarity
+2024
+HM-2a: Coordinate with fire district(s) to identify areas of 
+concern from a water supply and/or ingress/egress 
+perspective and address concerns. (Lead: LFPD, 
+P
+artners: Staff, UEB) Priority: No
+Staff coordinated with LFPD concerning low pressure on the upper 
+two fire hydrants on Vasquez Court.  It was determined this is an as 
+built issue under previous fire code that is too expensive for the 
+t
+own to fix.  The homeowners are responsible to add cisterns for 
+building permits.  UEB reviewed and agreed with approach on 
+Vasquez fire hydrants.
+HM-2i: Develop strategic plans to improve Town utility 
+infrastructure to improve fire resiliency (e.g., bury 
+electrical lines). (Lead: Staff, Partners: UEB) Priority: No
+No progress strategic plans. Added to 2025 goals. High priority.
+HM-2j: Improve water supply for firefighting (Lead: Staff, 
+Partners: UEB, BOCO) Priority: No
+See HM-2a.  Low priority. Other than low pressure on Vasquez 
+Court upper fire hydrants no need to improve water supply 
+identified.
+HM-2l: Improve defensible space against fire though 
+Town assisted cleanup efforts (Lead: Staff, Partners: 
+UEB, BOCO) Priority: No
+Pursuing through electric undergrounding. See HM-2i.
+LU-4a: Develop a water efficiency and/or water shortage 
+action plan. (Lead: Staff, Partners: UEB, SFC) Priority: 
+Near-term
+Reviewed water sources. Low priority. Water sources more than 
+adequate.
+LU-4b: Perform audits and renovate Town of Lyons 
+buildings and parks to enhance energy and water 
+efficiency and sustainability. (Lead: Staff, Partners: UEB, 
+SFC) Priority: No
+No progress. Low priority. UEB to defer to SFC as primary partner.
+LU-4d: Find ways to reduce community potable irrigation 
+through audit programs; education; enforcement; turf 
+replacement programs; and non-potable solutions. 
+(
+Lead: Staff, Partners: UEB, SFC) Priority: No
+No progress. Low priority. UEB to defer to SFC as primary partner.
+LU-4e: Investigate alternate methods of water reuse for 
+residential properties. (e.g., rainwater and grey water). 
+(Lead: Staff, Partners: UEB, SFC) Priority: No
+No progress. Low priority. UEB to defer to SFC as primary partner.
+UEB Comp Plan Review
+Page 1
+B5
+Comp Plan Review
+LU-4f: Evaluate Town of Lyons water budget and rate 
+structure to identify ways to cost effectively lower 
+consumption of water by residences and businesses 
+(Lead: Staff, Partners: UEB, SFC) Priority: No
+No progress. B20 Low priority.  Water rate structure already 
+incentivizes lower consumption.  UEB to defer to SFC as primary 
+partner to identify other alternatives.
+LU-4k: Evaluate the Town of Lyons’ utility budgets, utility 
+rate structures and energy sources to identify cost-
+effective ways to support less energy useage and use of 
+alternative forms of energy such as wind and solar 
+power(e.g., Net Metering). (Lead: Staff, Partners: UEB, 
+SFC) Priority: No
+The town transitioned to 100% green energy in 2024.  Actively 
+proposed time of use electric rate structure. Pursued town solar 
+farm and battery storage but was found not to be cost effective.  
+H
+igh priority to pursue TOU rates.  Pursuit of other green energy 
+sources considered low priority.  Recommend removing “(e.g., Net 
+Metering)” from goal as it is implies 1 to 1 net metering which is not 
+cost effective compared to other sources of green energy.
+IS-3f: Create or support the establishment of lending 
+libraries for things like tools, yard maintenance 
+equipment, etc. (Lead: Staff, Partners: SFC, UEB) 
+Priority: No
+No progress. The UEB does not believe this to be a town function 
+and recommends no staff time be allocated.
+IS-3g: Create or support the establishment of lending 
+and mutual-aid groups and events (e.g., Buy Nothing 
+groups, rummage sales, etc. (Lead: Staff, Partners: 
+SFC, UEB) Priority: No
+No progress. The UEB does not believe this to be a town function 
+and recommends no staff time be allocated.
+IS-3h: Work with local businesses to assess waste 
+streams (e.g., pallets, food products, etc.) and identify 
+local uses for those products. (Lead: Staff, Partners: 
+SFC, UEB) Priority: No
+No progress. The UEB does not believe this to be a town function 
+and recommends no staff time be allocated.
+IS-3i: Encourage the reuse of existing buildings, 
+mechanical systems, plumbing fixtures, etc. to extend 
+the lifecycle of the building, showcase Lyons’ historic 
+c
+haracter and to reduce energy use in the transport and 
+construction of a new structure (Lead: Staff, Partners: 
+SFC  UEB  HPC) Priority: No
+No progress. Low priority. UEB to defer to SFC as primary partner.
+Page 2
