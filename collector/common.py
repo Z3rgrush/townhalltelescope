@@ -58,6 +58,7 @@ _PATTERNS = [
     (re.compile(r"(20\d\d)[-_.](\d{1,2})[-_.](\d{1,2})"), "ymd"),
     (re.compile(r"(?<!\d)(\d{1,2})[-_./](\d{1,2})[-_./](20\d\d)(?!\d)"), "mdy"),
     (re.compile(r"(?<!\d)(\d{2})(\d{2})(20\d\d)(?!\d)"), "mdy"),
+    (re.compile(r"(?<!\d)(20\d\d)(\d{2})(\d{2})(?!\d)"), "ymd"),
     (re.compile(rf"\b({MONTHS})[a-z]*\.?[\s_-]+(\d{{1,2}})(?:st|nd|rd|th)?,?[\s_-]+(20\d\d)", re.I), "Mdy"),
     (re.compile(rf"\b(\d{{1,2}})[\s_-]+({MONTHS})[a-z]*\.?,?[\s_-]+(20\d\d)", re.I), "dMy"),
     (re.compile(r"(?<!\d)(\d{1,2})[-_.](\d{1,2})[-_.](\d{2})(?!\d)"), "mdyy"),

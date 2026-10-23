@@ -71,8 +71,7 @@
   county: Johnson
   adapter: linkscan
   pages:
-    - https://www.olatheks.gov/government/city-council/city-council-meetings
-    - https://www.olatheks.gov/government/city-council/city-council-agendas-and-minutes
+    - https://olatheks.granicus.com/ViewPublisher.php?view_id=1
 
 - id: lenexa
   name: Lenexa
@@ -128,6 +127,7 @@
   adapter: linkscan
   pages:
     - https://fairwaykansas.org/minutes
+    - https://fairwaykansas.org/?SEC=9F2D6E4F-4BC3-4D37-A801-6A9477AE6E91
 
 - id: westwood-hills
   name: Westwood Hills

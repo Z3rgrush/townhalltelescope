@@ -7,7 +7,7 @@ from .common import Doc, find_date, get, kind_of, soup
 
 KEYWORDS = re.compile(r"minute|agenda|packet|summary|journal", re.I)
 DOCLIKE = re.compile(
-    r"\.pdf|\.docx?|showpublisheddocument|showdocument|DocumentCenter/View|ViewFile|/uploads/|/document/\d+|/files/|mccmeetings",
+    r"\.pdf|\.docx?|AgendaViewer|MinutesViewer|showpublisheddocument|showdocument|DocumentCenter/View|ViewFile|/uploads/|/document/\d+|/files/|mccmeetings",
     re.I,
 )
 
@@ -158,7 +158,8 @@ def linkscan(src, start, end, log):
         candidates = []
         for a in page.find_all("a", href=True):
             href, text = urljoin(final, a["href"]), a.get_text(" ", strip=True)
-            context = text + " " + (a.find_parent(["tr", "li", "article", "div"]).get_text(" ", strip=True)[:200] if a.find_parent(["tr", "li", "article", "div"]) else "")
+            row = a.find_parent(["tr", "li"])
+            context = row.get_text(" ", strip=True)[:200] if row else ""
             if not (KEYWORDS.search(text) or KEYWORDS.search(href) or (follow and follow.search(href))):
                 continue
             d = find_date(text, href, context)
