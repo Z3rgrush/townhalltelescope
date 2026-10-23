@@ -282,6 +282,225 @@
   ],
   "government": "Aurora"
  },
+ "boulder-county/0": {
+  "id": "boulder-county/0",
+  "title": "2027 county budget and budget cuts",
+  "summary": "Commissioners reviewed an efficiencies project and general fund budget reductions, heard department requests for 2027, and held a public hearing on the recommended budget ahead of adoption on December 8.",
+  "where": "Countywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "2027 Boulder County Recommended Budget",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-hearing-2027-boulder-county-recommended-budget/"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "Department and Office Requests 2027 Boulder County Budget",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-department-and-office-requests-2027-boulder-county-budget-2/"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Department and Office Requests 2027 Boulder County Budget",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-department-and-office-requests-2027-boulder-county-budget/"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Public Meeting on the 2027 Recommended Budgets",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-2027-boulder-county-recommended-budget/"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Boulder County Commissioners\u2019\u202fTown Hall (Superior)",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/boulder-county-commissioners-town-hall-superior/"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-hybrid-08-04/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/1": {
+  "id": "boulder-county/1",
+  "title": "Xcel easements across county open space",
+  "summary": "Commissioners held a public hearing on Xcel taking three permanent easements across about 1.38 acres of the Liley, Simi and Tommy Thompson open space properties for the 120th Street shoulder rebuild.",
+  "where": "120th Street open space",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-04",
+    "body": "Xcel Easement Takings",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-hearing-xcel-easement-takings/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/2": {
+  "id": "boulder-county/2",
+  "title": "Affordable housing tax innovation fund and San Lazaro",
+  "summary": "Commissioners discussed the Affordable and Attainable Housing Tax innovation fund and a letter of intent for funding at San Lazaro, and the housing authority held hearings on its 2027 plans.",
+  "where": "San Lazaro mobile home park, countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-17",
+    "body": "Boulder County Housing Authority Moving to Work Supplement to Annual Plan",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-boulder-county-housing-authority-annual-plan-and-moving-to-work-supplement-to-annual-plan/"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Boulder County Housing Authority Plan",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-boulder-county-housing-authority-plan/"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Commissioners\u2019 Work Session \u2013 A.M.",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-a-m-hybrid/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/3": {
+  "id": "boulder-county/3",
+  "title": "Zero waste plan, fees and composting",
+  "summary": "Public Works updated commissioners on the zero waste plan, including possible fees and composting.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/commissioners-work-session-p-m-hybrid-08-18/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/4": {
+  "id": "boulder-county/4",
+  "title": "Tucker Complex interim management",
+  "summary": "Parks and Open Space proposed an interim management plan for the Tucker Complex.",
+  "where": "Tucker Complex",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/commissioners-work-session-p-m-hybrid-08-18/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/5": {
+  "id": "boulder-county/5",
+  "title": "Mental and behavioral health tax advisory committee",
+  "summary": "Commissioners set up the advisory committee and bylaws for the mental and behavioral health tax.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-04",
+    "body": "Commissioners\u2019 Work Session \u2013 A.M.",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-hybrid-08-04-am/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/6": {
+  "id": "boulder-county/6",
+  "title": "Emergency services tax and grants",
+  "summary": "Commissioners heard an update on the emergency services tax and its grant program.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-p-m-emergency-services-sales-tax/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/7": {
+  "id": "boulder-county/7",
+  "title": "Commissioners' town halls on the budget and disaster preparedness",
+  "summary": "Commissioners held town halls in Superior on the 2027 budget and in Lafayette on disaster preparedness, taking residents' questions.",
+  "where": "Superior, Lafayette",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "County Commissioners\u2019 Town Hall (Lafayette/East County)",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/county-commissioners-town-hall-east-county/"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Boulder County Commissioners\u2019\u202fTown Hall (Superior)",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/boulder-county-commissioners-town-hall-superior/"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/8": {
+  "id": "boulder-county/8",
+  "title": "Public improvement district budgets",
+  "summary": "Commissioners reviewed 2027 budgets for the Burgundy Park, Eldorado Springs, Gunbarrel, Homestead and Nederland EcoPass public improvement districts.",
+  "where": "Gunbarrel, Eldorado Springs, Nederland",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "Public Meeting on the 2027 Recommended Budgets",
+    "kind": "agenda",
+    "url": "https://bouldercounty.gov/event/public-meeting-2027-boulder-county-recommended-budget/"
+   }
+  ],
+  "government": "Boulder County"
+ },
  "boulder/0": {
   "id": "boulder/0",
   "title": "November ballot measures",
@@ -672,6 +891,331 @@
  },
  "broomfield/0": {
   "id": "broomfield/0",
+  "title": "Broomfield Town Square revocation hearing",
+  "summary": "Two council members asked council to start a revocation hearing for the Broomfield Town Square site development plan, and council took up a notice to show cause in October.",
+  "where": "Broomfield Town Square",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1180/chapters"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1175/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/1": {
+  "id": "broomfield/1",
+  "title": "2027 operating and capital budgets",
+  "summary": "Council heard economic and fiscal updates, the long-range financial plan and department budget presentations, then held a public hearing on the 2027 operating and capital budgets.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1180/chapters"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1174/chapters"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1172/chapters"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1170/chapters"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1168/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/2": {
+  "id": "broomfield/2",
+  "title": "Lodging tax and Xcel franchise on the November ballot",
+  "summary": "Council referred a lodging tax question to the November 3 ballot and passed resolutions supporting it and the Broomfield-Xcel franchise agreement.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1175/chapters"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1167/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/3": {
+  "id": "broomfield/3",
+  "title": "Affordable housing, Prop 123 and inclusionary housing",
+  "summary": "Council discussed opting into the next Prop 123 cycle with an expedited review for affordable housing, opted in, and heard a housing needs assessment update and the status of an inclusionary housing ordinance.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1175/chapters"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1173/chapters"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1170/chapters"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1145/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/4": {
+  "id": "broomfield/4",
+  "title": "Transit-oriented density rules and Front Range Passenger Rail",
+  "summary": "Council weighed how to comply with the state transit-oriented communities law requiring more density near transit and considered a rail station plan for Front Range Passenger Rail.",
+  "where": "Areas near transit stations",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1167/chapters"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1145/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/5": {
+  "id": "broomfield/5",
+  "title": "Public hearings before cutting outdoor recreation facilities",
+  "summary": "Council passed a code change requiring a public hearing before a site plan amendment can reduce or eliminate outdoor recreation facilities.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1175/chapters"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1169/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/6": {
+  "id": "broomfield/6",
+  "title": "Chipotle at Palisade Park",
+  "summary": "The Land Use Review Commission and then council approved the plat and site plan for a Chipotle at Palisade Park, after a hearing that also touched on new parking ratios.",
+  "where": "Palisade Park Filing No. 1, Lot 1",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1170/chapters"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Jul 27, 2026 \u2014\u2009Amended Sep 15, 2026 9:40 AM",
+    "kind": "minutes",
+    "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_07272026-1921"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/7": {
+  "id": "broomfield/7",
+  "title": "Northlands PUD hospital and medical office heights",
+  "summary": "Council considered a Northlands PUD amendment changing building height and parking rules for hospital and medical office uses.",
+  "where": "Northlands",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1166/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/8": {
+  "id": "broomfield/8",
+  "title": "Fiscal impact review for rezonings",
+  "summary": "Council adopted new criteria requiring a fiscal impact review for rezonings, PUD plans and special use reviews.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1166/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/9": {
+  "id": "broomfield/9",
+  "title": "Electric vehicle charging rules and fees",
+  "summary": "Council set fees for EV charging stations on city property and made EV charging a permitted use in non-residential districts.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1170/chapters"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1167/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/10": {
+  "id": "broomfield/10",
+  "title": "E-bike enforcement",
+  "summary": "Council introduced an ordinance on enforcing rules for electric bikes.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1169/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/11": {
+  "id": "broomfield/11",
+  "title": "Nordstrom Silo landmark nomination",
+  "summary": "Council considered designating the Nordstrom Silo as a local landmark.",
+  "where": "Nordstrom Silo",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1175/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/12": {
+  "id": "broomfield/12",
+  "title": "Enterprise utility ordinance",
+  "summary": "Council introduced an enterprise utility ordinance on first reading.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Regular City Council Meeting",
+    "kind": "agenda",
+    "url": "https://vod.broomfield.org/cablecastapi/v1/vods/1180/chapters"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/13": {
+  "id": "broomfield/13",
   "title": "Comprehensive plan and transportation mobility plan update",
   "summary": "Staff briefed a city board on updating Broomfield's comprehensive plan and its transportation mobility plan, with housing affordability a central focus.",
   "where": "Citywide",
@@ -689,27 +1233,8 @@
   ],
   "government": "Broomfield"
  },
- "broomfield/1": {
-  "id": "broomfield/1",
-  "title": "Chipotle at Palisade Park",
-  "summary": "The Land Use Review Commission approved the plat and site plan for a Chipotle at Palisade Park after a hearing that also touched on new parking ratios.",
-  "where": "Palisade Park Filing No. 1, Lot 1",
-  "public_comment": false,
-  "tags": [],
-  "site_zip": null,
-  "meetings": 1,
-  "sources": [
-   {
-    "date": "2026-07-27",
-    "body": "Jul 27, 2026 \u2014\u2009Amended Sep 15, 2026 9:40 AM",
-    "kind": "minutes",
-    "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_07272026-1921"
-   }
-  ],
-  "government": "Broomfield"
- },
- "broomfield/2": {
-  "id": "broomfield/2",
+ "broomfield/14": {
+  "id": "broomfield/14",
   "title": "Backyard setback variances in Red Leaf and Northmoor Estates",
   "summary": "The Neighborhood Board of Adjustment approved homeowners' requests to shrink rear yard setbacks in Red Leaf and Northmoor Estates.",
   "where": "Red Leaf, Northmoor Estates",
@@ -727,8 +1252,8 @@
   ],
   "government": "Broomfield"
  },
- "broomfield/3": {
-  "id": "broomfield/3",
+ "broomfield/15": {
+  "id": "broomfield/15",
   "title": "Library strategic plan and flat 2027 budget",
   "summary": "The library board reviewed its strategic plan and AI civics work and heard the 2027 library budget will be flat, raising worries about long-term erosion.",
   "where": "Mamie Doud Eisenhower Public Library",
@@ -742,25 +1267,6 @@
     "body": "Sep 3, 2026 \u2014\u2009Posted Aug 31, 2026 12:13 PM",
     "kind": "minutes",
     "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_09032026-1935"
-   }
-  ],
-  "government": "Broomfield"
- },
- "broomfield/4": {
-  "id": "broomfield/4",
-  "title": "Employee health plan rates for 2027",
-  "summary": "Trustees of the city's medical care expense plan set 2027 benefits, rates and stop-loss coverage.",
-  "where": "Citywide",
-  "public_comment": false,
-  "tags": [],
-  "site_zip": null,
-  "meetings": 1,
-  "sources": [
-   {
-    "date": "2026-10-20",
-    "body": "Oct 20, 2026 \u2014\u2009Posted Oct 14, 2026 8:09 AM",
-    "kind": "agenda",
-    "url": "https://broomfield.org/AgendaCenter/ViewFile/Agenda/_10202026-1950"
    }
   ],
   "government": "Broomfield"
