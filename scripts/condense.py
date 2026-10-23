@@ -3,12 +3,16 @@
 Writes data/condensed/<source>.md: one section per meeting with the lines that name business
 (hearings, ordinances, rezonings, contracts, public comment), boilerplate removed.
 """
+import argparse
 import json
 import re
+import sys
 from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+from collector.regions import REGIONS  # noqa: E402
 LIMIT = 2500  # characters kept per document
 
 SKIP = re.compile(
@@ -44,12 +48,15 @@ def condense(text):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--region", default="ks", choices=REGIONS)
+    data = ROOT / REGIONS[ap.parse_args().region]["data"]
     by_source = defaultdict(list)
-    for line in (ROOT / "data" / "meetings.jsonl").open():
+    for line in (data / "meetings.jsonl").open():
         r = json.loads(line)
         if r.get("text_file"):
             by_source[r["source"]].append(r)
-    outdir = ROOT / "data" / "condensed"
+    outdir = data / "condensed"
     outdir.mkdir(exist_ok=True)
     total, index = 0, {}
     for source, rows in by_source.items():

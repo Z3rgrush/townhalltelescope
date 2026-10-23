@@ -1,8 +1,8 @@
 """Collect the last N days of agendas and minutes for every source and save their text.
 
-Usage: python -m collector.collect [--days 90] [--only overland-park,leawood]
+Usage: python -m collector.collect [--region ks] [--days 90] [--only overland-park,leawood]
 
-Writes:
+Writes, under the region's data folder (data/ for Kansas, data/co/ for Colorado):
   data/meetings.jsonl   one row per document (source, body, date, kind, url, text file)
   data/text/<source>/   extracted plain text, one file per document
   data/coverage.md      what worked and what didn't, per source
@@ -20,9 +20,9 @@ import yaml
 
 from .adapters import ADAPTERS
 from .common import extract_text
+from .regions import REGIONS
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
 
 
 def slug(s, n=60):
@@ -31,6 +31,7 @@ def slug(s, n=60):
 
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument("--region", default="ks", choices=REGIONS)
     ap.add_argument("--days", type=int, default=90)
     ap.add_argument("--only", default="")
     ap.add_argument("--no-text", action="store_true", help="list documents without downloading them")
@@ -38,7 +39,9 @@ def main():
 
     end = date.today()
     start = end - timedelta(days=args.days)
-    sources = yaml.safe_load(open(ROOT / "collector" / "sources.yaml"))
+    region = REGIONS[args.region]
+    DATA = ROOT / region["data"]
+    sources = yaml.safe_load(open(ROOT / region["sources"]))
     only = {s for s in args.only.split(",") if s}
 
     old = {}

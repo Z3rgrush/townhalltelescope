@@ -120,3 +120,4 @@ def extract_text(url):
             t.decompose()
         return s.get_text("\n", strip=True), "ok"
     return "", f"unsupported type {ctype}"
+
