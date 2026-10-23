@@ -1,0 +1,438 @@
+# olathe
+
+## [olathe#0] 2026-07-27 | City Council | agenda
+- A. MN26-0713: Approval of the minutes as written from the July 13, 2026 Planning
+- B. PR26-0012: A revised preliminary site development plan for Faith Technologies
+- Incorporated (FTI), containing three (3) lots and four (4) tracts on approximately
+- 126.3 acres, located southwest of W. 167th Street and S. Lone Elm Road
+- C. MP26-0006: A minor plat for Villas at Hilltop Farms, Replat Lot 13, located at
+- D. FP26-0011: A final plat for Stonebridge Manor, Fifth Plat, containing 25 lots and
+- three (3) tracts on approximately 6.76 acres, located southeast of W. 167th Street
+- and S. Mur-Len Road
+- E. FP26-0015: A final plat for Olathe Fire Station No. 4, containing one (1) lot on
+- approximately 1.66 acres, located at 13301 S. Mur-Len Road
+- REGULAR AGENDA-PUBLIC HEARING
+- A. PUBLIC HEARING
+- SU26-0006: A special use permit for Community Food and Personal Support
+- Services, Nonresidential for Starfish Project Foundation, located southwest of W
+- 135th Street and S. Brougham Drive
+- Applicant: Joni Moreland, Starfish Project Foundation
+
+## [olathe#1] 2026-08-04 | City Council | minutes
+- Consideration of motion to recess into an executive session to discuss the following
+- to discuss matters deemed privileged in the attorney-client relationship
+- regarding certain pending quarry special use permit applications
+- session for consultation with the City Attorney to discuss matters
+- pending quarry special use permit applications pursuant to the
+- for consultation with the City Attorney to discuss matters deemed
+- Mayor to execute an agreement to resolve a particular tort claim involving flooding
+- Mayor Bacon said staff had requested Consent Item F to be removed from the
+- agenda to be considered at a later date
+- The items listed below are considered to be routine by the City Council and may be
+- approved in one motion. These may include items that have been reviewed by the
+- City Council in a prior planning session. There will be no separate discussion unless
+- a council member requests that an item be removed from the consent agenda and
+- considered separately
+- Approval of the Consent Agenda
+- A. Consideration of approval of the City Council minutes of the July 21,
+- B. Consideration of Resolution 26-1069 consenting to the assignment of a
+- portion of the benefits of Resolution No. 17-1054 from Holmes 111, LLC
+- C. Request for the acceptance of the dedication of land for public
+- easements and public street right-of-way for a final plat of Olathe Fire
+- acres, located southeast of W. 133rd Street and S. Mur-Len Road
+- Planning Commission approved the plat 8 to 0
+- D. Request for the acceptance of the dedication of land for public
+- easements and public street right-of-way for a final plat of Stonebridge
+- Manor 5th Plat (FP26-0011), containing 25 lots and three (3) tracts on
+- approximately 6.76 acres, located southeast of W. 167th Street and S
+- Mur-Len Road. Planning Commission approved the plat 8 to 0
+- E. Consideration of the Consent Calendar
+- F. Consideration of Approval of Design Contract Amendment 2 for SFS
+- Architecture for design of the Animal Shelter Project, PN 6-C-007-23
+- considered at a later date
+- G. Consideration of renewal of contract to Crafco, Inc., for the purchase of
+- H. Consideration of Amendment No.1 to the Fire Protection Services
+- Agreement between the City of Olathe and Johnson County
+- Consolidated Fire District No. 1
+- A. Consideration of Ordinance No. 26-40 (RZ26-0005), requesting
+- approval of a rezoning from the AG (Agricultural) District to the PD
+- (Planned) District and a preliminary site development plan for 133rd and
+- Street and Black Bob Road. Planning Commission recommends
+- approval 6 to 0
+- Senior Planner, Nathan Jurey, provided a presentation for the
+
+## [olathe#2] 2026-08-10 | City Council | agenda
+- A. MN26-0727: Approval of the minutes as written from the July 27, 2026 Planning
+- Commission meeting and amended minutes from the July 13, 2026 Planning
+- B. FP26-0012: A final plat for Parkside Reserve, Eighth Plat, containing 40 lots and
+- two (2) tracts on approximately 24.27 acres, located southwest of 167th Street and
+- S. Black Bob Road
+- C. FP26-0013: A final plat for Parkside Reserve, Ninth Plat, containing 48 lots and
+- three (3) tracts on approximately 13.75 acres, located southwest of 167th Street
+- and S. Black Bob Road
+- REGULAR AGENDA-PUBLIC HEARING
+- A. PUBLIC HEARING
+- RZ26-0008: A zoning amendment to Ordinance 06-73 for 167th Street Logistics
+- Centre on approximately 51.05 acres, located northeast of W. 167th Street and S
+- Monticello Road
+- Requests continuance to future Planning Commission meeting
+- Owners: Brad Simma, Block Development III FT SPE LLC; 167 Olathe 3 LLC
+- B. PUBLIC HEARING
+- SU26-0005: A special use permit for Motor Vehicle Sales (golf and utility carts) for
+- 151st Street
+
+## [olathe#3] 2026-08-18 | City Council | minutes
+- 3. PUBLIC HEARINGS
+- A. Consideration of Resolution No. 26-1070 on behalf of 167 Olathe 4,
+- LLC and 167 Olathe 5, LLC for an issuance request for a master
+- resolution for industrial revenue bonds and tax phase-in for the
+- construction of manufacturing facilities. The project will entail
+- approximately three buildings totaling 1,500,000 square feet on a total
+- B. Public Hearing and Consideration of Resolution No. 26-1071 on behalf
+- of 167 Olathe 5, LLC (Building 2) and assigns for an issuance request
+- for industrial revenue bonds and tax phase-in for a one or more series
+- application under a master resolution. The project will entail the
+- Street and Lone Elm
+- No public comments were heard
+- C. Public Hearing and Consideration of Resolution No. 26-1072 on behalf
+- of 167 Olathe 4, LLC (Building 1) and assigns for an issuance request
+- Approval of the Consent Agenda
+- A. Consideration of approval of the City Council minutes of the August 4,
+- B. Consideration of new license(s) as recommended by the City Clerk
+- C. Consideration of renewal license(s) as recommended by the City Clerk
+- D. Resolution No. 26-1073 appointing a member to the Persons with
+- E. Request for acceptance of the dedication of land for public easements
+- and public street right-of-way for a final plat of Parkside Reserve, Eighth
+- Plat (FP26-0012), containing 40 lots and two (2) tracts on approximately
+- 24.3 acres, located southwest of S. Black Bob Road and W. 167th
+- Street. Planning Commission approved the plat 6 to 0
+- F. Request for acceptance of the dedication of land for public easements
+- and public street right-of-way for a final plat of Parkside Reserve, Ninth
+- Plat (FP26-0013), containing 48 lots and three (3) tracts on
+- approximately 13.75 acres, located southwest of S. Black Bob Road
+- and W. 167th Street. Planning Commission approved the plat 6 to 0
+- G. Consideration of Consent Calendar
+- H. Consideration of Engineer’s Estimate, acceptance of bids, and award of
+- contract to Royal Construction Services, LLC for construction of the Mill
+- Creek Pool & Splashpad Improvements, PN 4-C-014-25
+- I. Consideration of a GMP (Guaranteed Maximum Price) with Centric
+- Projects, LLC for construction services for Fire Station No. 4
+- Replacement Project, PN 6-C-022-25
+- J. Consideration for the approval of the acceptance of bid and award of
+- contract to JHB Group Inc for the purchase of one (1) Fire Safety
+- K. Consideration of Resolution No. 26-1074 allowing the hunting of deer
+- L. Consideration of 2026-2027 Agreement with USD 233 providing for
+- M. Consideration of renewal of contract with All City Management Services
+
+## [olathe#4] 2026-08-24 | City Council | agenda
+- A. MN26-0727: Approval of the minutes as written from the July 27th and August 10th,
+- B. PLN26-0003: Discussion on the finding that the 2027-2031 Capital Improvements
+- Plan (CIP) is in conformity with the Elevate Olathe Comprehensive Plan
+- C. MP26-0007: A minor plat for Madsen Estates, containing two (2) lots on
+- D. FP26-0014: A final plat for New Century Business Park, Second Plat, containing
+- REGULAR AGENDA-PUBLIC HEARING
+- A. PUBLIC HEARING
+- RZ26-0010: A rezoning from County RUR (County Rural) and BP (Planned
+- Business Park) to R-4 (Medium Density Multifamily) and a preliminary site
+- development plan for Residences at Heritage Park on approximately 25.27 acres,
+- located southwest of 151st Street and Pflumm Road
+- Requests continuance to future Planning Commission meeting
+- B. PUBLIC HEARING
+- RZ26-0011: A rezoning from the County RUR (County Rural) District to the M-2
+- (General Industrial) District and a preliminary site development plan for Frontier
+- Trails on approximately 70.49 acres, located northwest of W. 175th Street and
+- Request continuance to a future Planning Commission meeting
+- C. PUBLIC HEARING
+- RZ26-0013: A rezoning from the CTY A (County Agricultural) and CTY RUR
+- Street and Old 56 Highway/S. Lakeshore Drive
+- Applicant: Amy Grant, Polsinelli PC
+- D. PUBLIC HEARING
+- SU26-0007: A special use permit for Extractive Industries (Quarry/Mine) for
+- located southeast of 151st Street and Old 56 Highway/S. Lakeshore Drive
+- Requests continuance to a future Planning Commission meeting
+- E. PUBLIC HEARING
+- RZ26-0009: A rezoning from the BP (Business Park) District to C-2 (Community
+- Center) District and a conceptual preliminary site development plan for College and
+- Boulevard and Lone Elm Road
+- Developer: Sonny Cardamore, Atwater Group
+- F. PUBLIC HEARING
+- RZ26-0006: A rezoning from the BP (Business Park) District to R-3 (Residential
+- Low-Density Multifamily) District and a conceptual preliminary site development
+- plan for College and Sunnybrook Multifamily on approximately 20 acres, located
+- southwest of College Boulevard and S. Valley Road
+- Developer: Chris Bennish, Platform Multifamily
+
+## [olathe#5] 2026-09-01 | City Council | minutes
+- The items listed below are considered to be routine by the City Council and may be
+- approved in one motion. These may include items that have been reviewed by the
+- City Council in a prior planning session. There will be no separate discussion unless
+- a council member requests that an item be removed from the consent agenda and
+- considered separately
+- Councilmember Felter asked for item F to be removed and considered
+- Councilmember Creighton asked for item G to be removed and considered
+- Councilmember Schoonover asked for item H to be removed and considered
+- Approval of the Consent Agenda
+- A. Consideration of approval of the City Council minutes of the August 18,
+- B. Consideration of renewal license(s) as recommended by the City Clerk
+- C. Consideration of three-year contract renewal with WEX for
+- D. Request for the acceptance of the dedication of land for public
+- easements for a final plat for New Century Business Park, Second Plat
+- 1.91 acres, located southwest of W. 151st Street and W. Old 56
+- Highway. Planning Commission approved the plat 7 to 0
+- E. Consideration of Resolution No. 26-1076, SU26-0005, requesting
+- approval of a special use permit for motor vehicle sales (golf and utility
+- 25149 & 25229 W. 151st Street. Planning Commission recommends
+- approval 6 to 0
+- F. Consideration of the Consent Calendar
+- Councilmember Felter said the water tower looks amazing and was
+- pleased to see it came in under budget. Nate Baldwin, City
+- G. Consideration of Agreement No. 636-25 with the Kansas Department of
+- Project, PN 3-C-096-26
+- Councilmember Creighton asked for a quick overview of this project
+- approve funds or to acknowledge that this project is good. Mr
+- H. Consideration of a Professional Services Agreement with HNTB
+- Corporation for design of the K-10 and Lone Elm Bypass Project, CPN
+- I. Consideration of a Utility Agreement with Evergy Metro, Inc. for the
+- Santa Fe, Ridgeview to Mur-Len Project, PN 3-C-025-18
+- J. Consideration of an Agreement with Infrastructure Solutions LLC for
+- Phase 2 Project, PN 1-C-003-22
+- K. Consideration of Engineer’s Estimate, acceptance of bids and award of
+- contract to TLS Group, Inc, for construction of the Santa Fe &
+- Buchanan Traffic Signal Replacement Construction Project, PN
+- will be accepted as presented. There will be no separate discussion unless a
+- Councilmember requests that a report be removed and considered separately
+- 2. Report regarding proposed amendments to Title 6 of the Olathe
+- B. DISCUSSION ITEMS
+- 1. Discussion on the Santa Fe, Ridgeview to Mur-Len,
+- Improvements Project, PN 3-C-025-18
+- Theresa Vink, Assistant City Engineer, provided a presentation
+
+## [olathe#6] 2026-09-08 | City Council | minutes
+- Special Call - Budget Public Hearings: Intent
+- to Exceed RNR & 2027 Budget
+- 2. PUBLIC HEARINGS
+- A. Public hearing, pursuant to K.S.A. 79-2929 and K.S.A. 79-2988, to hear
+- comments regarding the proposed City of Olathe FY 2027 Budget and
+- exceeding the revenue neutral rate
+- Mayor Bacon opened the public hearing. Budget Analyst, Ashley
+- 2027 budget and the City’s intent to exceed the revenue neutral rate
+- the City maintained the revenue neutral rate. Staff responded that
+- loss in property-tax revenue
+- Individuals who spoke regarding the budget:
+- hearing and acknowledged public concerns regarding taxation,
+- Following public comment, the Council discussed the proposed
+- budget, anticipated service demands associated with growth, and
+- property-tax rebate program. She stated that, while the City has
+- taken steps to control expenses, increasing taxes and inflation
+- his first budget process. He cited rising household costs, including
+- two-family dwelling building permits had been issued between
+- engineering, street maintenance, and emergency-response
+- Councilmember Schoonover asked staff to explain projected
+- General Fund and overall budget increases. Staff explained that the
+- FY 2027 budget is developed using current revenue and
+- expenditure projections rather than only the prior-year adopted
+- budget. Staff further stated revenues are reviewed monthly, sales
+- tax is the City’s largest General Fund revenue source, and
+- stronger-than-projected revenues may support future capital
+- improvement program (CIP) funding
+- Councilmember Felter asked whether the projected 2026 revenue
+- clarified that the amount represented the projected 2026 year-end
+- position and was being considered as part of longer-term structural
+- balance. Staff stated that if sales-tax revenues were flat, future
+- for direct property-tax relief. Dr. Felter thanked staff for identifying
+- resolution in order to preserve the Council’s ability to make final
+- budget decisions at its September 15, 2026 meeting
+- discussed was approximately $102 per homeowner. He also stated
+- stated that the proposed budget reflected more forward-looking
+- planning than in prior years. He requested continued attention to
+- potential structural imbalance in future budgets. He also asked about
+- the property-tax relief program. Staff reported that the FY 2027
+- budget includes $300,000 for the program, compared with
+- the budgeted amount is exhausted. Staff explained that the program
+- includes separate veteran, senior, and income-eligible components,
+- would consider ways to improve public communication and evaluate
+- Mayor Bacon clarified that Resolution No. 26-1077 does not
+
+## [olathe#7] 2026-09-14 | City Council | agenda
+- A. MN26-0824: Approval of the minutes as written from the August 24, 2026 Planning
+- B. FP26-0016: A final plat for FTI Manufacturing, containing three (3) lots and four (4)
+- tracts on approximately 122.08 acres, located southwest of W. 167th Street and S
+- Lone Elm Road
+- REGULAR AGENDA-PUBLIC HEARING
+- A. PUBLIC HEARING
+- SU26-0008: A special use permit renewal for Animal Care with Indoor or Outdoor
+- 151st Street and S. Pflumm Road
+- Requests continuance to a future Planning Commission meeting
+- B. PUBLIC HEARING
+- RZ26-0011: A rezoning from the CTY RUR (County Rural) District to the M-2
+- (General Industrial) District and a preliminary site development plan for Frontier
+- Trails Logistics on approximately 70.62 acres, located northwest of W. 175th Street
+- C. PUBLIC HEARING
+- RZ26-0013: A rezoning from the CTY A (County Agricultural) and CTY RUR
+- Aggregates on approximately 109 acres, located southeast of 151st Street and Old
+- 56 Highway/Clare Road
+- Applicant: Amy Grant, Polsinelli
+- D. PUBLIC HEARING
+- SU26-0009: A special use permit amendment for Extractive Industries (Rock
+- northeast of 159th Street and Old 56 Highway/Clare Road
+- E. PUBLIC HEARING
+- SU26-0007: A special use permit for Extractive Industries (Rock Quarry/Mine) for
+- 151st Street and Old 56 Highway/Clare Road
+
+## [olathe#8] 2026-09-15 | City Council | minutes
+- Consideration of motion to recess into an executive session to discuss the following
+- to discuss matters deemed privileged in the attorney-client relationship
+- regarding a development agreement pursuant to the exception provided
+- session for consultation with the City Attorney to discuss matters
+- development agreement pursuant to the exception provided in K.S.A
+- the Mayor to execute a Second Amendment to Development Agreement with Loretto
+- Commercial Development, LLC. The motion carried by the following vote
+- B. Recess into an executive session for the preliminary discussion of the
+- session for the preliminary discussion of the acquisition of real property
+- finalize and the Mayor or City Manager to execute an agreement and related
+- Approval of the Consent Agenda
+- A. Consideration of approval of the City Council minutes of the September
+- B. Consideration of renewal license(s) as recommended by the City Clerk
+- C. Consideration of a spend authorization for City Manager Susan
+- D. Consideration of Amendment No. 5 with Crossland Heavy Contractors,
+- Inc. for construction of the West Cedar Creek Sewer Interceptor Project,
+- E. Consideration for approval of FY2026 Byrne Justice Assistance Grant
+- F. Consideration of new contract with U.S. Bank for corporate expense
+- A. Consideration of Ordinance No. 26-45 (RZ26-0009), requesting
+- approval of a rezoning from the BP (Business Park) District to the C-2
+- development plan for Sunnybrook Commercial Development on
+- Sunnybrook Road. Planning Commission recommends approval 7 to 0
+- Planning and Development Manager, Kim Hollingsworth, and,
+- Planner II, Taylor Vande Velde presented the request and explained
+- that the commercial and adjacent multifamily proposals were
+- intended to function as a coordinated mixed-use development
+- Council discussed whether the concept adequately advanced the
+- Comprehensive Plan's preference for vertical mixed use. Staff
+- confirmed that the commercial plan included drive-through uses, a
+- and that later site-plan review would ordinarily occur before the
+- approved Dillons development and that construction was expected
+- supported the rezoning but not the conceptual preliminary site
+- development plan
+- B. Consideration of Ordinance No. 26-46 (RZ26-0006), requesting
+- approval of a rezoning from the BP (Business Park) District to the R-3
+- (Low-Density Multifamily) District and a conceptual preliminary site
+- development plan for College & Sunnybrook Multifamily on
+- Valley Road. Planning Commission recommends approval 6 to 1
+- Planner II, Taylor Vande Velde, presented the request for 333 rental
+
+## [olathe#9] 2026-09-28 | City Council | agenda
+- A. MN26-0914: Approval of the minutes as written from the September 14, 2026
+- B. PR26-0013: A revised preliminary site development plan for Great Plains
+- Commerce Center, Buildings B and D, located north of 159th Street and east of
+- Lone Elm Road
+- C. FP26-0018: A final plat for Woodland Hills, Eighth Plat, containing 73 lots and nine
+- and S. Woodland Road
+- REGULAR AGENDA-PUBLIC HEARING
+- A. PUBLIC HEARING
+- SU26-0008: A special use permit renewal for Animal Care with Indoor or Outdoor
+- 151st Street
+- B. PUBLIC HEARING
+- SU26-0011: A special use permit renewal for Indoor Amusement for Centerfire
+- Owners/Applicants: Jean and Bill Basore, Centerfire Shooting Sports, LLC
+- C. PUBLIC HEARING
+- SU26-0013: A special use permit for Recreation, Outdoor and a preliminary site
+- development plan for Nice Digs Volleyball on approximately 1.41 acres, located
+- northwest of W. Southpark Boulevard and S. Flaming Road
+
+## [olathe#10] 2026-10-06 | City Council | minutes
+- Consideration of motion to recess into an executive session to discuss the following
+- regarding the Olathe Housing Authority pursuant to the exception
+- session for consultation with the City Attorney to discuss matters
+- Olathe Housing Authority pursuant to the exception provided in K.S.A
+- the Mayor or City Manager to execute a real estate contract with Overland Property
+- B. Proclamation recognizing October 4-10, 2026 as Fire Prevention Week
+- Mayor Bacon presented the proclamation to Assistant Fire Chief,
+- Justin Ducey. Assistant Chief Ducey discussed Fire Prevention
+- Governing Body and discussed an upcoming October 21 event at
+- Approval of the Consent Agenda
+- Motion by Vakas, second by Felter, to approve the consent agenda as presented
+- A. Consideration of approval of the City Council minutes of the September
+- B. Consideration of new and renewal license(s) as recommended by the
+- C. Request for acceptance of the dedication of land for public easements
+- for a final plat of Woodland Hills 8th Plat (FP26-0018), containing 73
+- of College Boulevard and S. Woodland Road. Planning Commission
+- approved the plat 7 to 0
+- D. Consideration of a Professional Services Agreement with Multistudio
+- Development Ordinance, UDO26-0002
+- Councilmembers Felter and Deneault requested removal of Item D
+- from the consent agenda for further discussion. Planning Manager,
+- Jessica Schuller, discussed the proposed professional services
+- agreement to update the Unified Development Ordinance and its
+- relationship to the Olathe 2040 Strategic Plan
+- internally, the scope and cost of the approximately 18-month project,
+- City's previous UDO work. Staff explained that development of
+- mixed-use regulations and the overall scope of the project required
+- Council discussed housing affordability, development standards and
+- Olathe's current and future needs. Staff clarified that the project is
+- not intended simply to increase apartment development, but to
+- evaluate opportunities for a variety of housing types while
+- E. Consideration of Resolution No. 26-1080 authorizing the purchase of
+- Councilmember Schoonover requested removal of Item E from the
+- consent agenda for further discussion
+- Staff explained that cooperative purchasing agreements are used
+- for vehicle purchases and may provide incentives for purchasing
+- F. Consideration of Resolution No. 26-1081 adopting an expired permit fee
+- Councilmember Felter requested removal of Item F from the
+- Councilmember Felter wanted clarification on the fees for permit
+- renewals.Staff explained that the proposed fee would equal 50
+- percent of the permit renewal fee and is intended to encourage
+
+## [olathe#11] 2026-10-12 | City Council | agenda
+- A. MN26-0928: Approval of the minutes as written from the September 28, 2026
+- B. PLN26-0004: Approval of the 2027 Olathe Planning Commission Meeting Dates
+- C. FP26-0020: A final plat for Reserve at Shadow Lake, Fifth Plat, containing two (2)
+- lots on approximately 4.64 acres, located at 27450 and 27458 W. 108th Street
+- REGULAR AGENDA-PUBLIC HEARING
+- A. PUBLIC HEARING
+- RZ26-0010: A rezoning from BP (Business Park) and County RUR (County Rural)
+- Districts to R-4 (Medium Density Multifamily) District and a preliminary site
+- development plan for Residences at Heritage Park on approximately 25.28 acres,
+- located northwest of 159th Street and Pflumm Road
+- Applicant: Brian Rodrock and Jeff Gifford, Rodrock Development
+
+## [olathe#12] 2026-10-20 | City Council | agenda
+- The items listed below are considered to be routine by the City Council and may be
+- approved in one motion. These may include items that have been reviewed by the
+- City Council in a prior planning session. There will be no separate discussion unless
+- a council member requests that an item be removed from the consent agenda and
+- considered separately
+- A. Consideration of approval of the City Council minutes of the October 6,
+- B. Consideration of new and renewal license(s) as recommended by the
+- C. Consideration of Resolution No. 26-1080 determining the advisability of
+- making certain internal improvements within the City pursuant to K.S.A
+- 167th Street to 171st Terrace, and related public improvements
+- D. Request for the acceptance of the dedication of land for public
+- easements and public street right-of-way for FTI Manufacturing
+- approximately 125.47 acres, located southwest of W. 167th Street and
+- S. Lone Elm Road. Planning Commission approved the plat 8 to 0
+- E. Consideration of Resolution No. 26-1081 (SU26-0011), requesting
+- approval of a special use permit renewal for Indoor Amusement for
+- Centerfire Shooting Sports on approximately 2.93 acres, located at 875
+- N. Jan-Mar Court. Planning Commission recommends approval 7 to 0
+- F. Consideration of Resolution No. 26-1082 (SU26-0008), requesting
+- approval of a special use permit renewal for Animal Care with Indoor or
+- northeast of W. 151st Street and S. Pflumm Road. Planning
+- Commission recommends approval 7 to 0
+- G. Consideration of Resolution No. 26-1083 (SU26-0013), requesting
+- approval of a special use permit for Recreation, Outdoor for Nice Digs
+- Southpark Boulevard and S. Flaming Road. Planning Commission
+- recommends approval 7 to 0
+- H. Consideration of the Consent Calendar
+- I. Consideration of Amendment No. 2 with Q4 Industries for janitorial
+- J. Consideration of Amendment No. 1 with Insco Industries, Inc., for pool
+- K. Consideration of Resolution No. 26-1084 authorizing the Fire Station
+- No.1 Critical Remediation project, PN 6-C-044-26
+- L. Consideration of Resolution No. 26-1085 authorizing the 1432
+- Ironwood/Garden Level City Hall Build-out Project, PN 6-C-042-26
+- M. Consideration of renewal of contract with Tyler Technologies to provide
+- Permitting Software for the City
+- N. Consideration of Resolution No. 26-1086 amending the City’s
+- O. Consideration of renewal of agreement with Unified School District #233
+- P. Consideration of the 2026 Subrecipient Agreements for Olathe’s
+- Community Development Block Grant (CDBG) Projects
+- A. Consideration of Resolution No. 26-1087 and Ordinance No. 26-49

@@ -1,0 +1,576 @@
+# gardner
+
+## [gardner#0] 2026-07-28 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on July 20, 2026
+- 2. Standing approval of City expenditures prepared July 16, 2026 in the amount of $1,219,615.66 and
+- 3. Consider authorizing the City Administrator to negotiate and execute an agreement with ADP for a
+- payroll, timekeeping, and human resources platform
+- 4. Consider accepting an Airport Improvement Program (AIP) grant from the Federal Aviation
+- 5. Consider approving a budget amendment to include mandatory overseas import tariffs for the
+- Substation 4 Transformer purchase
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider accepting the dedication of right-of-way and easements on the revised final plat for Magnolia
+- Fields Final Plat
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters presiding
+- staff present were Deputy City Administrator Amy Nasta; Finance Director Matt Wolff; Police Chief Kelly Herron;
+- Parks Director Jason Bruce; Community Development Director David Knopick ; Public Works Director Kellen
+- PUBLIC COMMENT
+- Ty Bingaman discusses fireworks. He said fireworks were extremely loud in his neighborhood and people were not
+- adhering to the times and locations allowed or the types of fireworks allowed. Would like the city to move to zero
+- fireworks or at least cut it down to one day and not allow them so late at night
+- Kevin Wright from New Life Community Church is requesting signage on 188 th st at Vivian St letting semis know
+- that it is not a thru street. Over the last two and a half years of being at that location there are semis weekly that
+- come through the parking lot and turn around. There have been eight to ten instances where it has caused
+- 1. Standing approval of the minutes as written for the regular meeting on July 6, 2026
+- 2. Standing approval of City expenditures prepared June 29, 2026 in the amount of $132,114.89; July 1,
+- 3. Consider authorizing an addendum with HDR Engineering, Inc. for on-call traffic design services
+- 4. Consider authorizing the City Administrator to execute individual purchase agreements and make
+- payments for the acquisition of real property necessary to construct the planned Grand Street
+- Improvements Project
+- Councilmember Mcneer removes items 3 & 4 items. Requests item 3 to be discussed after item 2 under
+
+## [gardner#1] 2026-08-03 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on July 20, 2026
+- 2. Standing approval of City expenditures prepared July 16, 2026 in the amount of $1,219,615.66 and
+- 3. Consider authorizing the City Administrator to negotiate and execute an agreement with ADP for a
+- payroll, timekeeping, and human resources platform
+- 4. Consider accepting an Airport Improvement Program (AIP) grant from the Federal Aviation
+- 5. Consider approving a budget amendment to include mandatory overseas import tariffs for the
+- Substation 4 Transformer purchase
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider accepting the dedication of right-of-way and easements on the revised final plat for Magnolia
+- Fields Final Plat
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+
+## [gardner#2] 2026-08-03 | City Council | minutes
+- Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters presiding. Present
+- Police Chief Kelly Herron; Parks Director Jason Bruce; Community Development Director David Knopick; Public
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENT
+- Eric Arnold discusses the Flock system the City has a contract with. Asks the city to not allow the contract to renew
+- Allan Flesberg provides follow up of his report from last year of fireworks being discharged on the property of the
+- Andy Akright recently moved to Gardner. Said there were a lot of fireworks here, but they just stopped at the right
+- time following the rules. Thanks Parks & Rec for another great soccer season in the spring. Thank you for funding
+- 1. Standing approval of the minutes as written for the regular meeting on July 20, 2026
+- 2. Standing approval of City expenditures prepared July 16, 2026 in the amount of $1,219,615.66 and July
+- 3. Consider authorizing the City Administrator to negotiate and execute an agreement with ADP for a
+- payroll, timekeeping, and human resources platform
+- 4. Consider accepting an Airport Improvement Program (AIP) grant from the Federal Aviation
+- 5. Consider approving a budget amendment to include mandatory overseas import tariffs for the
+- Substation 4 Transformer purchase
+- Councilmember Baldwin made a motion to approve Items 1 through 4 of the Consent Agenda
+- Discussion of item 5:
+- Consider approving a budget amendment to include mandatory overseas import tariffs for the Substation 4
+- Transformer purchase
+- Councilmember Baldwin made a motion to approve item 4 on the Consent Agenda
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider accepting the dedication of right-of-way and easements on the revised final plat for Magnolia
+- Fields Final Plat
+- Councilmember Baldwin made a motion to approve the Consent Agenda
+- Chief Herron discusses the one stationary Flock camera deployed. PD is going through accreditation, so all policies
+- Finance Director Wolff reported the draft budget book is on the website right now which is earlier than usual
+- City Administrator Pruetting said he had a request for a supplemental budget report for all expenses over $50k
+- phenomenal. Would like to look at spending and feels we need to watch budgets fairly close
+- Councilmember Wiehn speaks about fireworks comments. Said the school district appreciated the signs and said
+- There are other non-flock cameras owned by the county. Glad the signs helped with the fireworks this year
+
+## [gardner#3] 2026-08-11 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on August 3, 2026
+- 2. Standing approval of City expenditures prepared July 30, 2026 in the amount of $574 ,077.72; August
+- 3. Consider authorizing the City Administrator to enter into an agreement with Fry & Associates, Inc. for
+- the design and construction of a new shelter at Meadowbrook Park and Brookside Park
+- 4. Consider appointments of City of Gardner representatives to the Kansas Municipal Energy Agency
+- 5. Consider authoriz ing the City Administrator to execute a contract with Bellante LLC for structure
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider a resolution of the City approving the execution and delivery of a Non- Binding Memorandum
+- of Understanding in connection with a development project within the City (Project Velocity)
+- 2. Consider adopting a formal resolution declaring it necessary to acquire property through eminent
+- domain action to construct the planned 167th Street Improvements Project
+- 3. Consider adopting a formal resolution declaring it necessary to acquire property through eminent
+- domain action to construct the planned 175th Street Improvements Project
+- 4. Consider adopting a formal resolution declaring it necessary to acquire property through eminent
+- domain action to construct the planned Grand Street Roadway Improvements Project, from Pine to
+- Center Street
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters presiding. Present
+- Police Chief Kelly Herron ; Parks Director Jason Bruce; Community Development Director David Knopick ; Public
+- PUBLIC COMMENT
+- Eric Arnold discusses the Flock system the City has a contract with. Asks the city to not allow the contract to renew
+- Allan Flesberg provides follow up of his report from last year of fireworks being discharged on the property of the
+- Andy Akright recently moved to Gardner. Said there were a lot of fireworks here, but they just stopped at the right
+- time following the rules. Thanks Parks & Rec for an other great soccer season in the spring. Thank you for funding
+- 1. Standing approval of the minutes as written for the regular meeting on July 20, 2026
+- 2. Standing approval of City expenditures prepared July 16, 2026 in the amount of $1,219,615.66 and July
+
+## [gardner#4] 2026-08-17 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on August 3, 2026
+- 2. Standing approval of City expenditures prepared July 30, 2026 in the amount of $574 ,077.72; August
+- 3. Consider authorizing the City Administrator to enter into an agreement with Fry & Associates, Inc. for
+- the design and construction of a new shelter at Meadowbrook Park and Brookside Park
+- 4. Consider appointments of City of Gardner representatives to the Kansas Municipal Energy Agency
+- 5. Consider authoriz ing the City Administrator to execute a contract with Bellante LLC for structure
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider a resolution of the City approving the execution and delivery of a Non- Binding Memorandum
+- of Understanding in connection with a development project within the City (Project Velocity)
+- 2. Consider adopting a formal resolution declaring it necessary to acquire property through eminent
+- domain action to construct the planned 167th Street Improvements Project
+- 3. Consider adopting a formal resolution declaring it necessary to acquire property through eminent
+- domain action to construct the planned 175th Street Improvements Project
+- 4. Consider adopting a formal resolution declaring it necessary to acquire property through eminent
+- domain action to construct the planned Grand Street Roadway Improvements Project, from Pine to
+- Center Street
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+
+## [gardner#5] 2026-08-17 | City Council | minutes
+- Council Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters presiding
+- Wolff; Police Chief Kelly Herron; Parks Director Jason Bruce; Community Development Director David Knopick;
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENT
+- Eric Arnold came to continue the discussion on Flock cameras. He had an opportunity to meet with the Chief and
+- to the system. He said the contract does allow the city to end the contract and would like the contract to be brought
+- Carrie Schmidt is concerned about what Flock and Axon cameras can do. Feels that with Home Rule authority, the
+- Bradley Steinmetz also discusses Flock cameras. Supports law enforcement but does not support the cameras that
+- are tracking movements of people. Discusses cases across the US of officers misusing Flock camera information
+- 1. Standing approval of the minutes as written for the regular meeting on August 3, 2026
+- 2. Standing approval of City expenditures prepared July 30, 2026 in the amount of $574,077.72; August 4,
+- 3. Consider authorizing the City Administrator to enter into an agreement with Fry & Associates, Inc. for
+- the design and construction of a new shelter at Meadowbrook Park and Brookside Park
+- 4. Consider appointments of City of Gardner representatives to the Kansas Municipal Energy Agency
+- 5. Consider authorizing the City Administrator to execute a contract with Bellante LLC for structure
+- Councilmember Wiehn made a motion to approve Items 1 through 4 of the Consent Agenda
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider a resolution of the City approving the execution and delivery of a Non-Binding Memorandum
+- of Understanding in connection with a development project within the City (Project Velocity)
+- organization building to promote performing arts and education in the greater Kansas City area. The plan includes
+- Administrator Pruetting said the developer is requesting a mix of incentives to support the project. The decision to
+- grant incentives will be based on the project providing significant public benefits that justify the use of incentives
+- Additional information is necessary to formulate an effective financing plan for the project and determine the public
+- infrastructure needs it will generate. Confirmation to a question that other funding options still may be available even
+- Councilmember Deaton made a motion to adopt Resolution No. 2200, a resolution of the City of Gardner, Kansas,
+- approving the execution and delivery to a Non-Binding Memorandum of Understanding in connection with a
+- development project within the City (Project Velocity)
+
+## [gardner#6] 2026-09-03 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- 1. Consider holding a public hearing to receive public input regarding the City’s intent to exceed the
+- revenue neutral rate
+- 1. Consider adopting a resolution of the City of Gardner, Kansas, to exceed the revenue neutral rate for
+- the fiscal year 2027 budget
+- 2. Consider holding a public hearing to receive public input regarding the proposed FY 2027 Budget
+- 2. Consider adopting an ordinance adopting the Fiscal Year 2027 Budget
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on August 17, 2026
+- 2. Standing approval of City expenditures prepared August 13, 2026 in the amount of $1,621 ,135.41;
+- 3. Consider an appointment to the Planning Commission
+- 4. Consider authorizing the renewal and upgrade of Microsoft Office GCC G5 Licensing
+- 5. Consider authorizing the City Administrator to execute a contract with Price Construction Management
+- to construct the Alleyway Improvements project
+- PLANNING & ZONING CONSENT AGENDA
+- 3. Consider adopting an ordinance to condemn property through eminent domain action to construct the
+- planned 167th Street Improvements Project
+- 4. Consider adopting an ordinance to condemn property through eminent domain action to construct the
+- planned 175th Street Improvements Project
+- 5. Consider adopting an ordinance to condemn property through eminent domain action to construct the
+- planned Grand Street Roadway Improvements Project, from Pine to Center Street
+- 6. Consider accepting voluntary annexations with landowner consent
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- 1. Consider entering into executive session to discuss matters of attorney-client privilege
+- COUNCIL ACTION FORM PUBLIC HEARING ITEM NO. 1
+- Agenda Item: Consider holding a public hearing to receive public input regarding
+- the City’s intent to exceed the revenue neutral rate
+- Strategic Priority: Fiscal Stewardship
+- Staff recommends the Governing Body hold a public hearing to receive public input
+- regarding the City’s intent to exceed the revenue neutral rate as required by Senate Bill
+- Senate Bill 13 established new notification and public hearing requirements if the
+- proposed budget exceeds the revenue neutral property tax rate. The revenue neutral
+- rate is the mill levy required to raise the same amount of property tax as the prior year
+- Gardner’s revenue neutral rate as 16.933. The City’s proposed FY 2027 budget is based
+
+## [gardner#7] 2026-09-08 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- 1. Consider holding a public hearing to receive public input regarding the City’s intent to exceed the
+- revenue neutral rate
+- 1. Consider adopting a resolution of the City of Gardner, Kansas, to exceed the revenue neutr al rate for
+- the fiscal year 2027 budget
+- 2. Consider holding a public hearing to receive public input regarding the proposed FY 2027 Budget
+- 2. Consider adopting an ordinance adopting the Fiscal Year 2027 Budget
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on August 17, 2026
+- 2. Standing approval of City expenditures prepared August 13, 2026 in the amount of $1,621 ,135.41;
+- 3. Consider an appointment to the Planning Commission
+- 4. Consider authorizing the renewal and upgrade of Microsoft Office GCC G5 Licensing
+- 5. Consider authorizing the City Administrator to execute a contract with Price Construction Management
+- to construct the Alleyway Improvements project
+- PLANNING & ZONING CONSENT AGENDA
+- 3. Consider adopting an ordinance to condemn property through eminent domain action to construct the
+- planned 167th Street Improvements Project
+- 4. Consider adopting an ordinance to condemn property through eminent domain action to construct the
+- planned 175th Street Improvements Project
+- 5. Consider adopting an ordinance to condemn property through eminent domain action to construct the
+- planned Grand Street Roadway Improvements Project, from Pine to Center Street
+- 6. Consider accepting voluntary annexations with landowner consent
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- 1. Consider entering into executive session to discuss matters of attorney-client privilege
+
+## [gardner#8] 2026-09-08 | City Council | minutes
+- Council Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters
+- Director Matt Wolff; Police Chief Kelly Herron; Parks Director Jason Bruce; Community Development Director David
+- PRESENTATIONS
+- PUBLIC HEARING
+- 1. Consider holding a public hearing to receive public input regarding the City’s intent to exceed the
+- revenue neutral rate
+- Councilmember McNeer made a motion to open a public hearing to receive public input regarding the City’s intent
+- to exceed the revenue neutral rate
+- Bradley Steinmetz is concerned about the increases in budget costs. Discusses information from the budget book
+- detailing some of the operational increases and utilities cost increases. The revenue neutral rate is already
+- insurance, and merit increases as well as a new phone system. Asks council to vote the resolution down
+- Lynn Stewart said his utilities have increased every year he has lived here. He likes the golf course but feels the
+- Bill Bonine would like the council to think about the people they are serving and take the burden off of the taxpayers
+- Ty Bingaman is concerned about the increase in the revenue neutral rate. Questions where the numbers come
+- that is discussed
+- Councilmember McNeer made a motion to close the public hearing
+- 1. Consider adopting a resolution of the City of Gardner, Kansas, to exceed the revenue neutral rate for
+- the fiscal year 2027 budget
+- Finance Director Wolff said the city’s 2027 Budget is based on the mill rate of 17.814 which exceeds the revenue
+- neutral rate calculated by the county as 16.933
+- Baldwin explained how the RNR calculation is determined and the mill rate the city has control over. McNeer said
+- RNR is a tax increase and suggested everyone look at their tax bill to understand who is getting the most from the
+- taxes. Johnson asked the dollar value between revenue neutral and keeping the mill levy the same. Wolff confirmed
+- Councilmember Johnson made a motion to adopt Resolution No. 2204, a resolution levying a property tax rate
+- exceeding the Revenue Neutral Rate for the City of Gardner, Kansas
+- favor of the motion, the Resolution passed and
+- 2. Consider holding a public hearing to receive public input regarding the proposed FY 2027 Budget
+- Councilmember Johnson made a motion to open a public hearing to receive public input regarding the proposed
+- FY 2027 Budget
+- Ty Bingaman said he feels like the costs for doing roadwork on Center seems a bit steep. Also concerned about
+- Lynn Stewart thanks Johnson & McNeer for voting against the revenue neutral rate. Believes the city does not care
+
+## [gardner#9] 2026-09-15 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on September 8, 2026
+- 2. Standing approval of City expenditures prepared September 3, 2026 in the amount of $ 1,054,922.29;
+- 3. Consider authorizing the City Administrator to execute an addendum with HDR for the Elm and Main
+- Traffic Signal Replacement Project
+- 4. Consider authorizing the City Administrator to enter into an agreement with Cahills Const. Inc. for the
+- design and installation of a new restroom facility at Veterans Park
+- 5. Consider authorizing the City Administrator to amend current contract with ACMS (All City Management
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider adopting an ordinance approving a rezoning from A (Agriculture) and RUR (County Rural /
+- and associated preliminary development plan for a mixed-use development on approximately 215 acres
+- 2. Consider adopting an ordinance approving a rezoning from RP-2 (Planned Two-Family Residential) to
+- RP-3 (Planned Garden Apartment) and associated preliminary development plan for 5 row house lots
+- on 2.01 acres located at the intersection of Kill Creek Road and 174th Street
+- 3. Consider authorizing the City Administrator to execute an amendment for the Progressive Design Build
+- Phase II construction services contract to Crossland Heavy Contractors, Inc. for the Kill Creek Water
+- Resource Recovery Facility Expansion, CIP Project No WW8012
+- 4. Consider authorizing the City Administrator to execute contracts with Schweitzer Engineering
+- Laboratories, Inc. (SEL) for the SCADA & RTU Replacement Project
+- 1. Consider adopting a resolution amending a prior resolution of the City authorizing the construction of
+- certain sewerage system improvements and authorizing general obligation bonds to be issued to pay
+- the cost of such improvements, all pursuant to K.S.A. 12-617 and 12-618
+- 2. Consider adopting an ordinance amending a prior ordinance of the City of authorizing the issuance of
+- general obligation bonds to pay the cost of certain water system improvements, all pursuant to Charter
+- Ordinance No. 28 of the City
+- 3. Consider passing an ordinance amending a prior ordinance of the City authorizing the construction of
+- certain electric system improvements and authorizing the issuance of general obligation bonds to pay
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+
+## [gardner#10] 2026-09-21 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on September 8, 2026
+- 2. Standing approval of City expenditures prepared September 3, 2026 in the amount of $ 1,054,922.29;
+- 3. Consider authorizing the City Administrator to execute an addendum with HDR for the Elm and Main
+- Traffic Signal Replacement Project
+- 4. Consider authorizing the City Administrator to enter into an agreement with Cahills Const. Inc. for the
+- design and installation of a new restroom facility at Veterans Park
+- 5. Consider authorizing the City Administrator to amend current contract with ACMS (All City Management
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider adopting an ordinance approving a rezoning from A (Agriculture) and RUR (County Rural /
+- and associated preliminary development plan for a mixed-use development on approximately 215 acres
+- 2. Consider adopting an ordinance approving a rezoning from RP-2 (Planned Two-Family Residential) to
+- RP-3 (Planned Garden Apartment) and associated preliminary development plan for 5 row house lots
+- on 2.01 acres located at the intersection of Kill Creek Road and 174th Street
+- 3. Consider authorizing the City Administrator to execute an amendment for the Progressive Design Build
+- Phase II construction services contract to Crossland Heavy Contractors, Inc. for the Kill Creek Water
+- Resource Recovery Facility Expansion, CIP Project No WW8012
+- 4. Consider authorizing the City Administrator to execute contracts with Schweitzer Engineering
+- Laboratories, Inc. (SEL) for the SCADA & RTU Replacement Project
+- 1. Consider adopting a resolution amending a prior resolution of the City authorizing the construction of
+- certain sewerage system improvements and authorizing general obligation bonds to be issued to pay
+- the cost of such improvements, all pursuant to K.S.A. 12-617 and 12-618
+- 2. Consider adopting an ordinance amending a prior ordinance of the City of authorizing the issuance of
+- general obligation bonds to pay the cost of certain water system improvements, all pursuant to Charter
+- Ordinance No. 28 of the City
+- 3. Consider passing an ordinance amending a prior ordinance of the City authorizing the construction of
+- certain electric system improvements and authorizing the issuance of general obligation bonds to pay
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+
+## [gardner#11] 2026-09-21 | City Council | minutes
+- Council Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters
+- Director Matt Wolff; Deputy Police Chief Brittanie Pruitt; Parks Director Jason Bruce; Community Development
+- PRESENTATIONS
+- PUBLIC HEARING
+- PUBLIC COMMENT
+- Someone came to discuss the address of 633 Colleen as it is being used as an Airbnb and does not have a permit
+- Ty Bingaman discusses Velocity Arts. Said the traffic near Walmart has been congested due to the construction at
+- Also concerned about the tax incentives. Asks council to think about whether this is something the city needs or
+- 1. Standing approval of the minutes as written for the regular meeting on September 8, 2026
+- 2. Standing approval of City expenditures prepared September 3, 2026 in the amount of $1,054,922.29;
+- 3. Consider authorizing the City Administrator to execute an addendum with HDR for the Elm and Main
+- Traffic Signal Replacement Project
+- 4. Consider authorizing the City Administrator to enter into an agreement with Cahills Const. Inc. for the
+- design and installation of a new restroom facility at Veterans Park
+- 5. Consider authorizing the City Administrator to amend current contract with ACMS (All City Management
+- Councilmember McNeer made a motion to approve the Consent Agenda
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider adopting an ordinance approving a rezoning from A (Agriculture) and RUR (County Rural /
+- associated preliminary development plan for a mixed-use development on approximately 215 acres
+- site is right off I35 and 175 th Street between the railroad tracks and the interstate. Working to ensure there is
+- adequate utility infrastructure. Continuing to work with KDOT to integrate the district into the plans for the 175 th
+- Street Interchange. Offering to work with city to build any police and fire facilities that would serve the area. Are
+- here to integrate into the community and enhance programs that are already here
+- Community Development Deputy Director Brewster this is to rezone the approximately 215 acres. This is the first
+- step in the development of the project. They will come back for the final development plan. The developer does
+- plan to develop this as a single phase. Proposed approximately 2.5M square feet of building area. Projects of this
+- scale will often go through a series of changes as development plans are refined. Review by the Airport Commission
+- Andrea Brammel lives at 167th and Clare as well. Spoke at Planning Commission meeting a few weeks ago. Feels
+- the residential population has grown, but commercial development has not grown at the rate residential has. Not a
+
+## [gardner#12] 2026-10-05 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- 1. Presentation of a Citizen Award
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on September 21, 2026
+- 2. Standing approval of City expenditures prepared September 17, 2026 in the amount of $906,2 61.80
+- 3. Consider authorizing the execution of a contract with USD 231 for three (3) School Resource Officers
+- 4. Consider authorizing the execution of the KDOT Airport Modernization Supplemental Grant Agreement
+- for CIP project AP3012, Replace Fuel Facility
+- 5. Approval of the Aviation Facilities and/or Equipment Grant Agreement with KDOT for CIP project
+- 6. Consider authorizing the execution of an agreement with Lochner to perform design services for the
+- Gardner Municipal Airport Fuel System Replacement Project
+- 7. Consider authorizing the execution of the 2026 Community Development Block Grant (CDBG)
+- 8. Consider authorizing the City Administrator to approve additional expenses related to Substation 1
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider authorizing the City Administrator to execute Change Order No. 1 related to the Unit #1
+- 2. Consider adopting a resolution authorizing the offer for public sale of certain general obligation of the
+- 3. Consider accepting the Voluntary Consent Annexation Agreement and Consent for Annexation
+- submitted by the property owner and adopt Ordinance 2897, an ordinance annexing approximately 70
+- acres of land generally located at the southeast corner of 167 th Street and Clare Road into the City of
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- 1. Consider entering into executive session to discuss personnel matters of non- elected personnel
+- 2. Consider entering into executive session to discuss personnel matters of non- elected personnel
+
+## [gardner#13] 2026-10-05 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- 1. Presentation of a Citizen Award
+- PUBLIC HEARING
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on September 21, 202 6
+- 2. Standing approval of City expenditures prepared September 17, 2026 in the amount of $906,2 61.80
+- 3. Consider authorizing the execution of a contract with USD 231 for three (3) School Resource Officers
+- 4. Consider authorizing the execution of the KDOT Airport Modernization Supplemental Grant Agreement
+- for CIP project AP3012, Replace Fuel Facility
+- 5. Approval of the Aviation Facilities and/or Equipment Grant Agreement with KDOT for CIP project
+- 6. Consider authorizing the execution of an agreement with Lochner to perform design services for th e
+- ardner Municipal Airport Fuel System Replacement Project
+- 7. Consider authorizing the execution of the 2026 Community Development Block Grant (CDBG)
+- 8. Consider authorizing the City Administrator to approve additional expenses related to Substation 1
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider authorizing the City Administrator to execute Change Order No. 1 related to the Unit #1
+- 2. Consider adopting a resolution authorizing the offer for public sale of certain general obligation of t he
+- 3. Consider accepting the Voluntary Consent Annexation Agreement and Consent for Annexation
+- submitted by the property owner and adopt Ordinance 2897, an ordinance annexing approximately 70
+- res of land generally located at the southeast corner of 167 th Street and Clare Road into the City of
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- 1. Consider entering into executive session to discuss personnel matters of non- elected personnel
+- 2. Consider entering into executive session to discuss personnel matters of non- elected personnel
+- Gardner Police Department
+- 16540 Moonlight Road | Gardner, Kansas 66030
+- Chief of Police
+- 16540 Moonlight Road | Gardner, Kansas 66030 | 913-856-7312
+- WHEREAS, every person in the City of Gardner deserves to feel safe in their own
+- in mortality rates, yet continued awareness, education and support are essential to further reduce
+- Council Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters
+- Director Matt Wolff; Deputy Police Chief Brittanie Pruitt ; Parks Director Jason Bruce; Community Development
+- PUBLIC COMMENT
+- Someone came to discuss the address of 633 Colleen as it is being used as an Airbnb and does not have a permit
+
+## [gardner#14] 2026-10-19 | City Council | minutes
+- Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters presiding
+- City Administrator Jim Pruetting; Finance Director Matt Wolff; Police Chief Pam Waldeck; Utilities Director Gonz
+- Garcia; Parks Director Jason Bruce; Community Development Director Dave Knopick; Public Works Director Kellen
+- PRESENTATIONS
+- 1. Electric Master Plan
+- Kiewit presented the 2024 Master Plan including Long Term Planning and operation of the City’s electric system
+- PUBLIC HEARING
+- 1. Hold a public hearing for the purpose of receiving comments to a request for a Waiver of the Distance
+- feet of a school, church or library during the Abdallah Shriners event weekend at the Johnson County
+- Councilmember Shute made a motion to open a public hearing for the purpose of receiving comments to a request
+- consumption within 200 feet of a school, church or library during the Abdallah Shriners event weekend at the
+- Councilmember McNeer made a motion to close the public hearing
+- PUBLIC COMMENTS
+- be deciding on the issues for the 2025 session. We select the issues we feel will best help the people of Kansas
+- meetings to testify. We do some fundraising at our session in October by silent auction and offer a nursing
+- issues to present. If anyone has issues they would like us to consider, please let us know. As a reminder, these
+- 1. Standing approval of the minutes as written for the regular meeting on May 6, 2024
+- 2. Standing approval of City expenditures prepared May 3, 2024 in the amount of $410,797.22; and
+- 3. Consider appointments to the vacancies on Boards and Commissions
+- 4. Consider authorizing the execution of an agreement for professional services with Revize for the
+- development of the City of Gardner’s website
+- 5. Consider authorizing the purchase of a Street Sweeper through the Sourcewell Cooperative
+- 6. Consider authorizing the purchase and training of a dual-purpose K-9 and a 12-week course for K
+- 7. Consider authorizing an agreement with KDOT for the Gardner Traffic Signal Interconnect Project
+- Councilmember Shute made a motion to approve the Consent Agenda
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider a petition for the formation of a special benefit district for the Lone Star Prairie development
+- Finance Director Matt Wolff advised the owner and developer of the Lone Star Prairie Development has petitioned
+- the city for the creation of a special benefit district for the construction of a lift station and offsite sanitary sewer
+- improvements. This is a multi-phase residential development. They will have approximately 188 single family homes
+
+## [gardner#15] 2026-10-19 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- 1. Hold a public hearing for the purpose of receiving comments to a request for a Waiver of the Distance
+- Limitation to allow for the sale of alcoholic liquor within 200 feet of a school, church or library during the
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on Octo ber 5, 2026
+- 2. Standing approval of City expenditures prepared September 30, 2026 in the amount of $9,641,148.99;
+- 3. Consider authorizing the City Administrator to sign a contract with Cornerstone Construction Solutions
+- for the Hillsdale Water Treatment Plant Roof Replacement
+- 4. Consider authorizing the City Administrator to execute a contract for complete SCADA and automation
+- 5. Consider approving a renewal agreement with Remodel Health for third- party administration of the
+- 6. Consider approving the Separation Agreement between the City of Gardner and James Pruetting
+- 7. Consider appointing Amy Nasta as Interim City Administrator
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider adopting an ordinance approving a conditional use permit for a short -term rental at 633 E
+- 2. Consider adopting an ordinance re-approving the rezoning of certain land within the City of Gardner to
+- RP-3 (Planned Garden Apartment), RP -5 (Planned Apartment), and CP -3 (Planned Heavy
+- Commercial) Districts and re- approving the associated preliminary deve lopment plan for the Clare
+- Crossing development
+- 1. Consider a request for a Waiver of the Distance Limitation to allow for the sale of alcoholic liquor within
+- 200 feet of a school, church, or library during the Johnson County Bulls, Barrels & Beer event at the
+- 2. Consider approving the City’s contribution strategy for employee benefit programs
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+
+## [gardner#16] 2026-10-19 | City Council | minutes
+- City Hall – 120 East Main Street -- Gardner, Kansas
+- If you wish to provide written public comment regarding any items below by email (please limit comment
+- PRESENTATIONS
+- PUBLIC HEARING
+- 1. Hold a public hearing for the purpose of receiving comments to a request for a Waiver of the Distance
+- Limitation to allow for the sale of alcoholic liquor within 200 feet of a school, church or library during the
+- PUBLIC COMMENTS
+- agenda that are not part of a public hearing
+- 1. Standing approval of the minutes as written for the regular meeting on Octo ber 5, 2026
+- 2. Standing approval of City expenditures prepared September 30, 2026 in the amount of $9,641,148.99;
+- 3. Consider authorizing the City Administrator to sign a contract with Cornerstone Construction Solutions
+- for the Hillsdale Water Treatment Plant Roof Replacement
+- 4. Consider authorizing the City Administrator to execute a contract for complete SCADA and automation
+- 5. Consider approving a renewal agreement with Remodel Health for third- party administration of the
+- 6. Consider approving the Separation Agreement between the City of Gardner and James Pruetting
+- 7. Consider appointing Amy Nasta as Interim City Administrator
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider adopting an ordinance approving a conditional use permit for a short -term rental at 633 E
+- 2. Consider adopting an ordinance re-approving the rezoning of certain land within the City of Gardner to
+- RP-3 (Planned Garden Apartment), RP -5 (Planned Apartment), and CP -3 (Planned Heavy
+- Commercial) Districts and re- approving the associated preliminary deve lopment plan for the Clare
+- Crossing development
+- 1. Consider a request for a Waiver of the Distance Limitation to allow for the sale of alcoholic liquor within
+- 200 feet of a school, church, or library during the Johnson County Bulls, Barrels & Beer event at the
+- 2. Consider approving the City’s contribution strategy for employee benefit programs
+- COUNCIL UPDATES – Oral presentation unless otherwise noted
+- WHEREAS, the Gardner Chamber of Commerce was incorporated in 1975 and supports and
+- WHEREAS, there are 48 members of the Rotary Club of Gardner who sponsor service projects to address such critical
+- issues as poverty, disease, hunger, illiteracy, and the environment in our local community and abroad, and
+- COUNCIL ACTION FORM PUBLIC HEARING ITEM NO. 1
+- Agenda Item: Hold a public hearing for the purpose of receiving comments to a request
+- liquor within 200 feet of a school, church or library during the Johnson
+- Strategic Priority: Quality of Life
+- The Abdallah Shriners organization has requested a Waiver of the Distance Limitation for an
+
+## [gardner#17] 2026-10-19 | City Council | minutes
+- Council Chambers at Gardner City Hall, 120 East Main Street, Gardner, Kansas, with Mayor Todd Winters
+- Johnson. City staff present were Deputy City Administrator Amy Nasta; Finance Director Matt Wolff; Police Chief
+- Kelly Herron; Parks Director Jason Bruce; Community Development Director David Knopick; Public Works Director
+- PRESENTATIONS
+- 1. Presentation of a Citizen Award
+- PUBLIC HEARING
+- PUBLIC COMMENT
+- Ryan Miller spoke about Gardner Lake. He feels the lake should remain a city asset and not be sold. A lot of money
+- 1. Standing approval of the minutes as written for the regular meeting on September 21, 2026
+- 2. Standing approval of City expenditures prepared September 17, 2026 in the amount of $906,261.80 and
+- 3. Consider authorizing the execution of a contract with USD 231 for three (3) School Resource Officers
+- 4. Consider authorizing the execution of the KDOT Airport Modernization Supplemental Grant Agreement
+- for CIP project AP3012, Replace Fuel Facility
+- 5. Approval of the Aviation Facilities and/or Equipment Grant Agreement with KDOT for CIP project
+- 6. Consider authorizing the execution of an agreement with Lochner to perform design services for the
+- Gardner Municipal Airport Fuel System Replacement Project
+- 7. Consider authorizing the execution of the 2026 Community Development Block Grant (CDBG)
+- 8. Consider authorizing the City Administrator to approve additional expenses related to Substation 1
+- Councilmember Deaton made a motion to approve the Consent Agenda
+- PLANNING & ZONING CONSENT AGENDA
+- 1. Consider authorizing the City Administrator to execute Change Order No. 1 related to the Unit #1
+- Utility Director Hunter said the increased costs are due to unexpected repairs during teardown. The contractor
+- generators sit for long periods of time, deterioration accelerates. The problems are only visible when the unit is
+- total amount of $2,751,942, and to incorporate the associated project costs into the final bonding package upon
+- 2. Consider adopting a resolution authorizing the offer for public sale of certain general obligations of the
+- Finance Director Wolff said the city is scheduled to sell approximately $10.225M principal amount of taxable general
+- obligation bonds series 2026D and approximately $46.25M of tax-exempt general obligation bonds series 2026E
+- bonds on November 2 nd, at 10 am. Series 2026D is to reimburse or pay the cost of certain electrical system
+- improvements including substation 4 and represents the first series of bonds planed for these improvements. Series
+- 2026E is for the reimbursement or to pay the costs of two different projects. Hillsdale Lake water intake structure

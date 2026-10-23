@@ -1,0 +1,241 @@
+# mission
+
+## [mission#0] 2026-08-19 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. PUBLIC HEARINGS
+- 2. SPECIAL PRESENTATIONS
+- 3. ISSUANCE OF NOTES AND BONDS
+- however, this does not preclude discussion. If a councilmember or member of the
+- public requests, an item may be removed from the consent agenda for further
+- consideration and separate motion
+- 4b. Warners’ Stellian Appliance Company Picnic – Mohawk Park
+- CONSENT AGENDA - Community Development Committee
+- Community Development Committee Meeting Packet August 5, 2026
+- Community Development Committee Meeting Video August 5, 2026
+- 4d. Agreement with Evergy for Rock Creek Project Utility Relocation
+- 4e. Localized Stormwater Design Scope Change
+- 5. PUBLIC COMMENTS
+- 7a. Resolution Establishing the 2027 Solid Waste and Stormwater Utility Rates
+- Community Development, Cheryl Carpenter-Davis
+- Community Development Committee Meeting Minutes August 5, 2026
+- Parks, Recreation + Tree Commission (Komosa/Carpenter-Davis)
+
+## [mission#1] 2026-08-19 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. PUBLIC HEARINGS
+- 2. SPECIAL PRESENTATIONS
+- 3. ISSUANCE OF NOTES AND BONDS
+- however, this does not preclude discussion. If a councilmember or member of the
+- public requests, an item may be removed from the consent agenda for further
+- consideration and separate motion
+- 4b. Warners’ Stellian Appliance Company Picnic – Mohawk Park
+- CONSENT AGENDA - Community Development Committee
+- Community Development Committee Meeting Packet August 5, 2026
+- Community Development Committee Meeting Video August 5, 2026
+- 4d. Agreement with Evergy for Rock Creek Project Utility Relocation
+- 4e. Localized Stormwater Design Scope Change
+- 5. PUBLIC COMMENTS
+- 7a. Resolution Establishing the 2027 Solid Waste and Stormwater Utility Rates
+- Community Development, Cheryl Carpenter-Davis
+- Community Development Committee Meeting Minutes August 5, 2026
+- Parks, Recreation + Tree Commission (Komosa/Carpenter-Davis)
+- Related Statute/City Ordinance: N/A
+- Available Budget: N/A
+- RE: Resolution Establishing the 2027 Solid Waste and Stormwater Utility Rates
+- RECOMMENDATION: Adopt the Resolution establishing the 2027 Solid Waste Utility
+- and Stormwater Utility rates for the City of Mission for certification to Johnson County
+- DETAILS: Johnson County requires all utility rates to be certified no later than August
+- 25 each year so they can be incorporated into the annual property tax and special
+- assessment/utility billing process. This certification deadline occurs in advance of the
+- City's overall budget adoption deadline of October 1, requiring the Governing Body to
+- formally establish these rates before the remainder of the 2027 Budget is adopted
+- The proposed rates were reviewed as part of the Council's 2027 July 29 Budget Work
+- Session, during which the Governing Body discussed the assumptions supporting both
+- utilities and expressed general consensus with the proposed rates. Adoption of this
+- Resolution formalizes those rates for the 2027 Budget and authorizes staff to certify
+- The proposed 2027 utility rates are:
+- Stormwater Utility: $28.00 per Equivalent Residential Unit (ERU) per month
+- Approval of this Resolution satisfies the County's certification requirement while
+- allowing the remainder of the City's 2027 Budget to continue through the normal
+- budget adoption process, culminating with final budget approval later this fall
+- CFAA CONSIDERATIONS/IMPACTS: Establishing utility rates provides sustainable,
+- RESOLUTION NO. ______
+- A RESOLUTION ESTABLISHING RATES FOR THE SOLID WASTE AND STORMWATER
+
+## [mission#2] 2026-08-26 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. Review of a Draft Complete Streets Policy for the City of Mission - Taylor
+- The Tomorrow Together 2040 Mission Comprehensive Plan includes several
+- recommendations that support the adoption of a Complete Streets ordinance for the City
+- of Mission. The Complete Streets concept is a way of planning, designing, and building
+- streets so they are safe and accessible for all users, including pedestrians, bicyclists,
+- motorists, and transit riders of all ages and abilities. Complete Streets is a tool for ensuring
+- developing a Complete Streets policy. Staff will present a draft Complete Streets policy at
+
+## [mission#3] 2026-08-26 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. Review of a Draft Complete Streets Policy for the City of Mission - Taylor
+- The Tomorrow Together 2040 Mission Comprehensive Plan includes several
+- recommendations that support the adoption of a Complete Streets ordinance for the City
+- of Mission. The Complete Streets concept is a way of planning, designing, and building
+- streets so they are safe and accessible for all users, including pedestrians, bicyclists,
+- motorists, and transit riders of all ages and abilities. Complete Streets is a tool for ensuring
+- developing a Complete Streets policy. Staff will present a draft Complete Streets policy at
+- DISCUSSION ITEM SUMMARY Date: August 26, 2026
+- Community Development From: Taylor Cunningham/
+- Discussion items allow the committee the opportunity to freely discuss the issue at hand
+- Related Statute/City Ordinance: N/A
+- Available Budget: N/A
+- RE: Review of a Draft Complete Streets Policy for the City of Mission
+- DETAILS: The Tomorrow Together 2040 Mission Comprehensive Plan includes three
+- recommendations related to the adoption of a Complete Streets ordinance and
+- comprehensive plan, our 2021 DirectionFinder Survey shows residents want more
+- transportation options and safer, more connected streets
+- Staff presented an overview of the Complete Streets concept to the City Council at a
+- work session in September of last year. A link to that presentation can be found here. At the
+- work session staff explained that Complete Streets is a way of planning, designing, and
+- building streets so they are safe and accessible for all users, including pedestrians,
+- about a single design standard or an immediate overhaul of our streets. Instead, it is a
+- Streets is a tool for ensuring our transportation network reflects our community’s values
+- Adopting a Complete Streets policy will:
+- After a thorough and thoughtful discussion, the City Council directed staff to move
+- forward with developing a draft Complete Streets policy for the Council to consider at a
+- Public Works, Police, and Community Development to develop a Complete Streets
+- planning, designing and construction of streets and other transportation infrastructure
+- improvements for the City that best incorporate Complete Streets concepts. Staff would
+- like to present this draft Complete Streets Policy to the City Council at tonight’s work
+- session to garner feedback and answer any questions. The draft policy is included for
+- Based on feedback at tonight’s work session staff intends to take the next steps to
+
+## [mission#4] 2026-09-16 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. SPECIAL PRESENTATIONS
+- 2a. Consideration of PC Case #26 -15, a Preliminary Development Plan for the
+- Foxridge/Broadmoor Development at 5665 Foxridge and 5700 Broadmoor
+- 3. PUBLIC HEARINGS & RESOLUTIONS
+- 3a. Public Hearing 2027 Budgets (City of Mission, Rock Creek Drainage District No
+- 3b. Resolution Levying a Property Tax Rate Exceeding the Revenue Neutral Rate
+- City of Mission 2027 Budget
+- 3c. Resolution Levying a Property Tax Rate Exceeding the Revenue Neutral Rate
+- 4. ISSUANCE OF NOTES AND BONDS
+- however, this does not preclude discussion. If a councilmember or member of the
+- public requests, an item may be removed from the consent agenda for further
+- consideration and separate motion
+- CONSENT AGENDA - Community Development Committee
+- Community Development Committee Meeting Packet September 2, 2026
+- Community Development Committee Meeting Video September 2, 2026
+- 6. PUBLIC COMMENTS
+- 7a. Resolution Adopting the 2026 Revised and 2027 Recommended Budgets - City
+- 7b. Resolution Adopting the 2027 Rock Creek Drainage District #1 Budget
+- 7c. Resolution Adopting the 2027 Rock Creek Drainage District #2 Budget
+- Community Development, Cheryl Carpenter-Davis
+- 7d. Task Order for 2027 Stormwater and Street Project Design
+- Parks, Recreation + Tree Commission (Komosa/Carpenter-Davis)
+- Community Development From: Brian Scott
+- Related Statute/City Ordinance: Chapter 440 of the Mission Municipal Code
+- Available Budget: N/A
+- RE: Consideration of PC Case #26-15, a Preliminary Development Plan for the
+- RECOMMENDATION: Approve PC Case #26-15 for a preliminary development plan
+- for three separate apartment buildings totaling 647 units to be located at property
+- addressed as 5665 Foxridge and 5700 Broadmoor with stipulations 1-17 as indicated in
+- the Ordinance
+- DETAILS: Block Real Estate Services (BRES) received approval in 2022 for a
+- preliminary development plan to construct a five-story, 307-unit apartment building at
+- BRES submitted an application in May 2026 for a new preliminary development plan
+- (PDP) that includes revisions to the initial apartment building approved in 2022, a
+- repurposing of the current office building at 5700 Broadmoor to an apartment building,
+- and construction of a new apartment building at the corner of 58th Street and
+- Broadmoor. The entire development plan totals 647 apartment units between the three
+- Development Plan Summary
+- 307-unit apartment building that would encompass the entire site at 5665 Foxridge. The
+
+## [mission#5] 2026-09-16 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. SPECIAL PRESENTATIONS
+- 2a. Consideration of PC Case #26 -15, a Preliminary Development Plan for the
+- Foxridge/Broadmoor Development at 5665 Foxridge and 5700 Broadmoor
+- 3. PUBLIC HEARINGS & RESOLUTIONS
+- 3a. Public Hearing 2027 Budgets (City of Mission, Rock Creek Drainage District No
+- 3b. Resolution Levying a Property Tax Rate Exceeding the Revenue Neutral Rate
+- City of Mission 2027 Budget
+- 3c. Resolution Levying a Property Tax Rate Exceeding the Revenue Neutral Rate
+- 4. ISSUANCE OF NOTES AND BONDS
+- however, this does not preclude discussion. If a councilmember or member of the
+- public requests, an item may be removed from the consent agenda for further
+- consideration and separate motion
+- CONSENT AGENDA - Community Development Committee
+- Community Development Committee Meeting Packet September 2, 2026
+- Community Development Committee Meeting Video September 2, 2026
+- 6. PUBLIC COMMENTS
+- 7a. Resolution Adopting the 2026 Revised and 2027 Recommended Budgets - City
+- 7b. Resolution Adopting the 2027 Rock Creek Drainage District #1 Budget
+- 7c. Resolution Adopting the 2027 Rock Creek Drainage District #2 Budget
+- Community Development, Cheryl Carpenter-Davis
+- 7d. Task Order for 2027 Stormwater and Street Project Design
+- Parks, Recreation + Tree Commission (Komosa/Carpenter-Davis)
+
+## [mission#6] 2026-10-21 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. SPECIAL PRESENTATIONS
+- 2. PUBLIC HEARINGS
+- 3. ISSUANCE OF NOTES AND BONDS
+- however, this does not preclude discussion. If a councilmember or member of the
+- public requests, an item may be removed from the consent agenda for further
+- consideration and separate motion
+- CONSENT AGENDA - Community Development Committee
+- Community Development Committee Meeting Packet October 7, 2026
+- Community Development Committee Meeting Video October 7, 2026
+- 5. PUBLIC COMMENTS
+- 6b. Remand of PC Case 26-15 Preliminary Development Plan for Mission
+- Foxridge Multi-Family Development at 5665 Foxridge and 5700 Broadmoor
+- Community Development, Cheryl Carpenter-Davis
+- Parks, Recreation + Tree Commission (Komosa/Carpenter-Davis)
+- Community Development From: Brian Scott
+- Related Statute/City Ordinance: Chapter 440 of the Mission Municipal Code
+- Available Budget: N/A
+- RE: Reconsideration of PC Case #26-15, a Preliminary Development Plan for the
+- Foxridge/Broadmoor Development at 5665 Foxridge and 5700 Broadmoor
+- RECOMMENDATION: Approve PC Case #26-15 for a preliminary development plan
+- for three separate apartment buildings totaling 647 units to be located at property
+- addressed as 5665 Foxridge and 5700 Broadmoor with stipulations 1-17 as indicated in
+- the Ordinance
+- DETAILS: The City Council considered PC Case #26-15 at their September 16, 2026
+- legislative meeting. After due consideration, the Council voted 9-0 to remand the case
+- 2. Determine whether the proposed development is likely to materially increase
+- 3. Reconsider the requested EIFS deviation in light of the newly submitted mineral
+- 4. Give greater consideration to current economic conditions affecting the feasibility
+- 5. Reconsider the Preliminary Development Plan as a whole and return updated
+- Similar to the September Committee meeting, the Council will not deliberate on the
+- returned case during the Committee meeting, nor will there be public comment. The
+- presented to the Planning Commission and ask any remaining questions or identify any
+- was revised and why KDOT took the position that an Access Permit was not needed at
+- intersection Metcalf and 56th Street is 0.17, which is less than the average rate of 0.4
+- development will result in an average daily traffic count of 1,640 with 1.5 injury crashes
+- per year. So, the increase in traffic generated from the development is not expected to
+- operating below the statewide average crash rate. We have also reviewed
+- therefore does not presently exhibit crash experience that would be considered
+
+## [mission#7] 2026-10-21 | City Council | agenda
+- 6090 Woodson Street
+- to attend this meeting, please notify the Administrative Office at 913-676-8350 no later than 24 hours prior
+- 1. SPECIAL PRESENTATIONS
+- 2. PUBLIC HEARINGS
+- 3. ISSUANCE OF NOTES AND BONDS
+- however, this does not preclude discussion. If a councilmember or member of the
+- public requests, an item may be removed from the consent agenda for further
+- consideration and separate motion
+- CONSENT AGENDA - Community Development Committee
+- Community Development Committee Meeting Packet October 7, 2026
+- Community Development Committee Meeting Video October 7, 2026
+- 5. PUBLIC COMMENTS
+- 6b. Remand of PC Case 26-15 Preliminary Development Plan for Mission
+- Foxridge Multi-Family Development at 5665 Foxridge and 5700 Broadmoor
+- Community Development, Cheryl Carpenter-Davis
+- Parks, Recreation + Tree Commission (Komosa/Carpenter-Davis)

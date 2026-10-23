@@ -1,0 +1,119 @@
+# fairway
+
+## [fairway#0] 2026-08-26 | City Council | agenda
+- 5240 Belinder Road
+- 1. Federico//Duerst Contract
+- a. Revenue Neutral Rate Hearing
+- i. Resolution to exceed the Revenue Neutral Rate
+- b. Budget Public Hearing
+- c. 2025 Audit Presentation
+- d. Agreement with Federico//Duerst
+- 1. Sales Tax & Cash Flow Review
+- 2. Final discussion on 2027 DRAFT Budget
+
+## [fairway#1] 2026-08-26 | City Council | agenda
+- 5240 Belinder Road
+- A. Consider approval of Cereal Malt Beverage License for The Golf House
+- located at 6136 Mission Road, Fairway, KS
+- please notify the Administrative Office at 913-262-0350 no later than 48 hours
+
+## [fairway#2] 2026-09-14 | City Council | agenda
+- 5240 Belinder Road
+- A. Consolidated Fire District #2
+- E. Parks & Recreation
+- 6. Public Comment* for Consent Agenda items only
+- however, this does not preclude discussion. If a council member requests, an item
+- may be removed from the consent agenda for further consideration and separate
+- A. Approve minutes of previous regular City Council meeting
+- B. Approve Claims and Appropriations – Ordinance #1856 – August 2026
+- C. Approve agreement with Tessa Pearce for class instruction
+- D. Approve agreement with Federico//Duerst for legislative affairs
+- Public Comment* - The Mayor may open the meeting for a period of public
+- comment at the completion of any presentation and/or Governing Body discussion
+- regarding a specific agenda item. Public comment should be limited to the current
+- agenda item before the Governing Body. Additional public comment on non
+- A. Public Hearing to exceed the Revenue Neutral Rate
+- a. Resolution to exceed the Revenue Neutral Rate
+- B. Public Hearing on the 2027 Budget
+- a. Consider adoption of the 2027 Draft Budget
+- C. 2025 Audit Presentation
+- D. Consider request for a Feature Tree removal at 5501 Falmouth Road
+- 10. Public Comment* for items not listed on the agenda
+- please notify the Administrative Office at 913-262-0350 no later than 48 hours
+- *Public comment will be limited to 4 minutes per speaker unless otherwise stated
+- at the beginning of a public comment period. Speakers are permitted one
+- opportunity per public comment period, along with a one-minute follow up
+- Fire Activity Report - FAIRWAY Q2 2026
+- Johnson County Consolidated Fire District No. 2
+- Fire Chief Chick
+- 3921 W 63rd Street, Prairie Village, KS 66208
+- 2026 FIRE Calls
+- 2025 FIRE Calls
+- Emergent Fire 1:00 0:50
+- Emergent Fire 3:06 4:11
+- Federico//Duerst Contract City Administrator Nogelmeier informed the Committee that the
+- existing contract with Federico//Duerst had expired and that the new agreement would provide
+- for a stair step of their fees over the next two year cycle. For the 2027 session the fee will be
+- CONTRACTS SIGNED BY CITY ADMINISTRATOR
+- KORA REQUESTS
+- The Administration Department keeps a log of all Kansas Open Records Requests received
+- There were eight requests in August
+- are made available to the public. The City is authorized to charge staff time and copy fees in
+- connection with record requests
+- BOARD OF ZONING APPEALS AND PLANNING COMMISSION MEETINGS
+- Board of Zoning Appeals (BZA) – No applications did not meet
+- Planning Commission (PC) met on August 31, 2026, to review 4 applications and have a
+- discussion regarding solar regulations and maintenance of stormwater basins in the R-1 district
+
+## [fairway#3] 2026-09-26 | City Council | agenda
+- Approval of minutes from meeting held August 31, 2026
+- a. Site Plan Review – 3517 Eastvale Dr, request exception to the greenspace
+- b. Site Plan Review - 6001 Alhambra St, Fairway, KS, request exception for
+- fence on a corner lot to project in front of the building line of an adjacent
+- dwelling unit and encroach within the 12-foot setback from the street side
+- c. Site Plan Review –5501 Falmouth Rd, Fairway, KS, request for a new
+- d. Site Plan Review –5929 El Monte St, Fairway, KS, request for a new
+- e. Discussion Fairway Municipal Code - Chapter 15 regarding retention
+- Prior to the meeting, members of the public may request to review any
+- application and plans at Fairway City Hall, 5240 Belinder Rd, Fairway KS
+
+## [fairway#4] 2026-10-12 | City Council | agenda
+- 5240 Belinder Road
+- A. Consolidated Fire District #2
+- E. Parks & Recreation
+- 6. Public Comment* for Consent Agenda items only
+- however, this does not preclude discussion. If a council member requests, an item
+- may be removed from the consent agenda for further consideration and separate
+- A. Approve minutes of previous regular City Council meeting
+- B. Approve Claims and Appropriations – Ordinance #1857 – September
+- Public Comment* - The Mayor may open the meeting for a period of public
+- comment at the completion of any presentation and/or Governing Body discussion
+- regarding a specific agenda item. Public comment should be limited to the current
+- agenda item before the Governing Body. Additional public comment on non
+- A. Consider Ordinance #1858 -An Ordinance relating to the regulation of
+- traffic within the corporate limits of the City of Fairway, Kansas;
+- incorporating by reference the Standard Traffic Ordinance for Kansas
+- cities, 53rd edition, with certain additions; amending and repealing
+- existing Section 10-19 of the code of Ordinances, City of Fairway,
+- Kansas; repealing Section 1 of Ordinance No. 1814; adding Sections 10
+- 67 and 10-68 of the Code of Ordinances, City of Fairway, Kansas
+- B. Consider Ordinance #1859 - An Ordinance relating to the regulation of
+- public offenses within the corporate limits of the City of Fairway,
+- Kansas cities, 42nd edition, with certain changes; amending and repealing
+- existing Section 8-25 of the Code of ordinances, City of Fairway,
+- Kansas; readopting section 8-26 of the code of Ordinances, City of
+- Fairway, Kansas; and repealing Section 1 of Ordinance No. 1815
+- C. Consider Agreement with Water Resource Solutions for Preliminary
+- Project Study of flooding on Brookridge Drive in an amount not to
+- County Stormwater Management Advisory Council (SMAC)
+- 10. Public Comment* for items not listed on the agenda
+- please notify the Administrative Office at 913-262-0350 no later than 48 hours
+- *Public comment will be limited to 4 minutes per speaker unless otherwise stated
+- at the beginning of a public comment period. Speakers are permitted one
+- opportunity per public comment period, along with a one-minute follow up
+- Improvement/Benefit Districts. City Administrator Nogelmeier detailed the purpose and
+- process for creating Improvement/Benefit Districts in the State of Kansas. The Committee is
+- currently discussing the possibility of establishing an Improvement District for a sidewalk
+- project along 53rd street. Nogelmeier will return in October with additional information for
+- further consideration
+- Mission Road. In recent weeks, the City has received complaints about speeding on Mission

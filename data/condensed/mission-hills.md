@@ -1,0 +1,461 @@
+# mission-hills
+
+## [mission-hills#0] 2026-07-28 | Jul 28, 2026 — Amended Jul 23, 2026 2:19 PM | agenda
+- 5910 Oakwood Road
+- Changes to previously approved project
+- 6455 Overbrook Road
+- 5820 Oakwood Road
+- fire pit, outdoor kitchen
+- 6629 Overhill Road
+- The Mission Hills Board of Zoning Appeals (BZA) provides that the BZA shall determine whether or not an ARB decision was
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+- A. Merrie & David Costello 5910 Oakwood Road
+- The Costellos are returning to the ARB with changes to their previously approved project
+- Summary of Project:
+- At the July 15, 2025, ARB meeting, the ARB approved an addition at the rear of the Costello’s home. The
+- original approval had a fireplace centered on the rear gable with windows flanking each side. They are now
+- proposing to place the fireplace off-center with smaller flanking windows
+- Ordinance Compliance:
+- A variance for the project was previously granted. The proposed changes do not affect it
+- There are no conflicts between the proposed project and the City of Mission Hills Design Guidelines
+- #2 R&B Restore LLC 6455 Overbrook Road
+- The owners are returning to the ARB with changes to their previously approved project. The changes
+- The original approval was primarily for window replacements
+- #3 James & Lauren Sotos 5820 Oakwood Road
+- The owners are proposing a new back patio with a fire pit and outdoor kitchen
+- A new gas fire pit is proposed near the center of the patio and a new outdoor kitchen with bar seating is
+- proposed at the eastern end. The fire pit and kitchen are proposed as brick with cast stone caps
+- As part of the project, a new stone retaining wall is proposed near the rear of the property where a second
+- 65% of the lot area. This recommendation has not been met; however, the project increases the
+- Zoning: R-1(30)/LS-4
+- Ordinance Allowable/Required by Ord Proposed
+- Zoning: R-1(10)/ LS-1
+- Ordinance/Design Guideline Allowable/Required Provided
+- Is the project adding 1,000 sq. ft. or more of impervious surface? No
+- Will the project cause the greenspace to be less than recommended by the Design Guidelines? No
+- 2) project will not decrease existing greenspace on site Yes
+- proposed project
+- #5 C S Leroy Trust* 6629 Overhill Road
+- landscaping along that side of the house, they propose to locate the generator several feet away from the
+- The project is in violation of a platted setback. There is a 25-foot platted setback along 67th street. The
+- proposed generator will be entirely within the setback area. A variance of approximately 10 feet is required
+- The Design Guidelines recommend all projects adhere to all zoning regulations
+
+## [mission-hills#1] 2026-07-29 | Jul 29, 2026 — Posted Jul 24, 2026 9:46 AM | agenda
+- BOARD OF ZONING APPEALS AGENDA
+- 1 Approval of Minutes from June 24, 2026 Meeting
+- Resolution Approving Variance – New Replacement
+- The owners were granted a 19-foot variance for their patio
+- The owners were granted a 10-foot variance for their patio
+- Resolution Approving Variance - New Replacement
+- The owners were granted a 3.9-foot variance for their garage. The
+- owners were granted a 0.3-foot variance for their rear wing
+- The owners were granted a 10-foot variance for the fence, subject
+- The owners were granted a 1-foot variance for their fence height
+- Application for Variance – New Patio
+- 2120 Brookwood Road
+- The project violates City Code Section 5-120.D that requires LS-1
+- patios. A variance of 4.9 feet is required
+- Application for Variance – New Replacement Patio
+- requires patios on LS-3, 4, and 5 lots to have a minimum of 20 feet
+- from the side yard property line. A variance of 3.9 feet is
+- Application for Variance – New Generator
+- 6629 Overhill Road
+- The project is in violation of a platted setback. There is a 25-foot
+- platted setback along 67th street. The proposed generator will be
+- feet is required
+- According to the Mission Hills Board of Zoning Appeals (BZA) By-Laws, the BZA shall determine whether or not an Architectural Review Board
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+
+## [mission-hills#2] 2026-08-10 | Aug 10, 2026 — Posted Aug 7, 2026 4:35 PM | minutes
+- Attorney; Joel Porter, Prairie Village Police Department (PVPD)
+- APPROVAL OF MINUTES OF COUNCIL MEETINGS July 13, 2026
+- Councilperson Bruning moves to approve the minutes of the July 13, 2026 City Council meeting
+- A. Police Report
+- was taken from a vehicle parked on the street that was also left unlocked and officers were able
+- to track the headphones to the general location of an apartment complex but are not able to
+- Country Club attempted to break into a tractor without success, discharged a fire extinguisher,
+- with occasional field trips, and that applications remain open through the police's website. He
+- replacement project and may not be passable, which would require the ride to select a different
+- route and to avoid additional road closures for the Diner A Verona event that same day. Ms. Lee
+- neighbor's report of a driver estimated at 70 miles per hour on 67th Street just west of Belinder
+- Avenue heading toward Tomahawk Road, shortly after dinner with several children out playing
+- never clear which street will see the activity next and asks what more can be done. Captain
+- Porter advises that residents who are able to read a license plate on a speeding vehicle should
+- report it so officers can follow up directly with the driver to discuss speed and safety concerns
+- enforcement details and has already conducted one on 67th Street, though hours logged were not
+- available at the meeting. Mayor Weed indicates he will follow up separately with Chief
+- to drive on City streets, observing that interest has shifted away from e-bikes toward golf carts,
+- some of which residents describe as street-legal without necessarily meeting that standard. He
+- low-powered, street-legal golf carts do exist, requiring items such as a license plate, turn signals,
+- conversations and residents with concerns are directed to call the police department's non
+- question. Ms. Krstulic notes that golf carts are addressed within the current traffic ordinance and
+- Councilperson Thorne moves to approve the Consent Agenda. Councilperson Bruning seconds
+- A. Claims Ordinance No. 1713
+- Ms. Lee reports that Mr. Nickles sold a significant number of building permits in July, with the
+- report showing $75,000 in building permit revenue for the month. She recalls that they had
+- lamented how low permit activity was the previous month, and states updated figures now show
+- almost $10.5 million in building permits sold in July, driven largely by a new house and a
+- community. Ms. Lee also reports that the City has made its final payment on the 2019 bond
+- issuance, leaving the City with just $3.2 million in outstanding bonds
+
+## [mission-hills#3] 2026-08-11 | Aug 11, 2026 — Amended Aug 5, 2026 2:23 PM | agenda
+- 2101 W 70th Street
+- 6451 Sagamore Road
+- Changes to previously approved project
+- The Mission Hills Board of Zoning Appeals (BZA) provides that the BZA shall determine whether or not an ARB decision was
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+- #1 Debra Nye & Mary Lyon 2101 W 70th Street
+- Summary of Project:
+- Ordinance Compliance:
+- There are no conflicts between the proposed project and the City of Mission Hills Code of Ordinances
+- 24 feet. This recommendation has been met
+- #3 Dan Deckert 6451 Sagamore Road
+- #4 Merrie & David Costello* 5910 Oakwood Road
+- The Costellos’ ARB approval for a rear addition expired on July 15, 2026. They are returning to the
+- ARB for a new approval and with a change to the location of the chimney
+- At the July 15, 2025, ARB meeting, the ARB approved an addition at the rear of the Costello’s home
+- The original approval had a fireplace centered on the rear gable with windows flanking each side. They
+- are now proposing to place the fireplace off-center with smaller flanking windows
+- The variance granted by the Board of Zoning Appeals expired on July 29, 2026. The Costellos will
+- The Lamberts are proposing changes to their new house project
+- the front landing and walkway. They are also proposing to replace the approved 6 ft. wall along the
+- stone on the home. A previously approved masonry return wall (south side) will now be a 6 ft. pre
+- approved iron fence instead
+- There are no conflicts between the proposed changes and the Code of Ordinances
+- along the north property line. At the March 10th meeting, the ARB requested that the Crockers
+- The project also includes new fence returns on both sides of the house. It will be a pre-approved
+- Zoning: R-1(20)/LS-3
+- Ordinance/Design Guideline Allowable/Required Provided
+- courtyard patio. A projecting planter separates the first-floor doors from the second-floor windows. The
+- out further are only 7 feet above the garage floor. With the change in topography, sections of the side
+- eaves are only 2 feet or less above grade. The garage is sided entirely with brick and has a slate roof
+- stone fireplace at the rear. The second part of the building is a more contemporary structure with large
+- should not exceed 40 ft. With the modifications, the main mass is approximately 30 feet wide and 30
+- feet deep. The main mass height should be no more than 2 ½ stories and 35 ft. At 39’-5” tall this
+- original greenspace design. Section 2 discourages retaining walls within the streetside yards. It
+- Facilities. This section recommends that these elements follow the zoning regulations to help mitigate
+
+## [mission-hills#4] 2026-08-25 | Aug 25, 2026 — Posted Aug 12, 2026 1:37 PM | agenda
+- 6520 Overhill Road
+- Changes to previously approved project
+- 6335 Wenonga Road
+- 1900 West 69th Street
+- 2909 West 66th Street
+- The Mission Hills Board of Zoning Appeals (BZA) provides that the BZA shall determine whether or not an ARB decision was
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+- Summary of Project:
+- permit) in approximately the same location. The Slosses propose to inset the fence 3 inches
+- The side fence that currently runs along Tomahawk Road was installed in a location not approved by the
+- ARB or the Board of Zoning Appeals
+- Ordinance Compliance:
+- The new fences are/will be in violation of a platted setback. A variance of 30 feet is required. The fences
+- the principal building than 30% of the distance from the street (back of curb) to the point of the principal
+- building that is closest to the street, and be no taller than 5 ft. A variance of 18 ft. is required for the
+- setbacks in conformance with the Mission Hills Zoning ordinances. This recommendation has not been
+- * Variances are required from the Board of Zoning Appeals
+- #2 William & Patricia Willhite 6520 Overhill Road
+- The Willhites are returning to the ARB with changes to their previously approved covered patio, outdoor
+- fireplace, and outdoor kitchen project. They are now proposing new walkways and material changes
+- The fireplace will remain brick
+- There are no conflicts between the proposed project and the City of Mission Hills Code of Ordinances
+- The proposed project results in an increase in greenspace for the property
+- #3 Andy & Megan Pence 6335 Wenonga Road
+- The Pences are returning to the ARB with changes to their previously approved project. They are proposing
+- The original approval had the generator located behind the pool house where it was blocked from view by a
+- high side of the retaining wall next to the existing perimeter fence. The generator stands approximately 4 feet
+- tall, and the distribution frame stands approximately 5 feet tall on a pad approximately 1 foot higher than the
+- generator pad. According to the plan, both sit 10 feet from the side property line. From the photos provided, it
+- appears that the pads for the proposed equipment only sit 4 feet from the fence line. The owners have
+- There are no conflicts between the proposed changes and the City of Mission Hills Code of Ordinances
+- #4 Marina Ganter 1900 West 69th Street
+- At the rear of the house the new second floor wall is set back 6 feet from the existing rear wall. They
+- restricted to 2 stories and 30 feet. This recommendation has been met
+
+## [mission-hills#5] 2026-08-26 | Aug 26, 2026 — Posted Aug 25, 2026 3:12 PM | agenda
+- BOARD OF ZONING APPEALS AGENDA
+- 1 Approval of Minutes from July 29, 2026 Meeting
+- Resolution Approving Variance – New Patio
+- 2120 Brookwood Road
+- Resolution Approving Variance – New Replacement
+- The owner was approved a 3.9-foot variance for their new
+- Continued Application for Variance – New Generator
+- 6629 Overhill Road
+- The project was continued at the July 29th, 2026 BZA meeting
+- The project is in violation of a platted setback. There is a 25-foot
+- platted setback along 67th street. The proposed generator will be
+- feet is required
+- Compliance Discussion – New Replacement Fence
+- Update on Board of Zoning Appeals Resolution Compliance
+- Application for Variance – Rear Addition
+- 5910 Oakwood Road
+- The variance granted by the Board of Zoning Appeals at the July
+- point. A variance of 7 feet is required
+- According to the Mission Hills Board of Zoning Appeals (BZA) By-Laws, the BZA shall determine whether or not an Architectural Review Board
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+
+## [mission-hills#6] 2026-09-01 | Sep 1, 2026 — Posted Oct 5, 2026 10:45 AM | agenda
+- I. Approval of Minutes from June 3, 2026 meeting
+- III. Team and Special Project Reports
+- *Be thinking about what projects you want to pursue. Bring proposals and cost
+- estimates for what you have in mind. Create 2-3 year plan to share with homes
+- B. Tomahawk Road Homes Association (TRHA)
+- 1. Update on Eisenhower Pond Dredging project
+- A. City’s 2026 Capital Improvement Projects – Updates
+- C. Discuss November meeting – Current location conflict with
+
+## [mission-hills#7] 2026-09-08 | Sep 8, 2026 — Amended Aug 27, 2026 12:16 PM | agenda
+- 6335 Wenonga Road site visit to begin at 1:30pm
+- A. Alex Kopulos - 2701 W 69th Street
+- B. William & Erin Rock – 3100 W 68th Street
+- Changes to previously approved project
+- 2401 W 70th Street
+- Exterior work added to previously approved project
+- 2415 W 67th Street
+- 6847 Tomahawk Road
+- 6629 Overhill Road
+- 6335 Wenonga Road
+- 1900 West 69th Street
+- 2909 West 66th Street
+- The Mission Hills Board of Zoning Appeals (BZA) provides that the BZA shall determine whether or not an ARB decision was
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+- A. Alex Kopulos 2701 W 69th Street
+- The owners are returning to the ARB with changes to their previously approved project
+- Summary of Project:
+- The owners are proposing several changes to their approved plans
+- Changes to #38637 – Phase I Permit
+- Changes/Additions to #39479 – Phase II Permit
+- 4. Submitted landscape plan
+- Ordinance Compliance:
+- There are no conflicts between the proposed project and the City of Mission Hills Code of Ordinances
+- B. William & Erin Rock 3100 West 68th Street
+- The proposed project does not affect greenspace
+- D. Alexander & Kimberly Schoofs 2301 West 69th Street
+- #2 Richard & Karen Luchinsky 2401 West 70th Street
+- The proposed patterns differ from the existing conditions. Discussion is recommended
+- The Smiths are proposing changes to a previously approved project to include an exterior remodel
+- #4 Vince Hodes 2415 West 67th Street
+- Zoning: R-1(16)/LS-5
+- Ordinance/Design Guideline Allowable/Required Provided
+- The new covered porch extends from the rear of the house with a low slope gable. An outdoor fireplace is
+- An existing rear door is being replaced as part of the project. The proposed door matches existing doors in
+- Discussion is recommended
+- Zoning: R-1(16)/LS-1
+- #6 Indian Hills Country Club 6847 Tomahawk Road
+- The Indian Hills Country Club is proposing a protective net fence along the 69th Street side of their driving
+- the south of the existing tree line along the driving range facility. The project anticipates seventeen 10.75"
+- will be installed +/- 50 feet from back of curb and +/-40 feet from right of way to the south of existing tree line
+- It is anticipated the poles will be installed in line with larger existing trees to shield the view f rom street and
+- There are no specific ordinances related to fences at country clubs. Per Code Section 5- 138.I, any height or
+- #7 C.S. Leroy Trust* 6629 Overhill Road
+- remove existing landscaping and place the generator close to the house. The pad will sit on the platted
+- setback and extend 4.5 feet into the platted side yard
+
+## [mission-hills#8] 2026-09-09 | Sep 9, 2026 — Posted Aug 31, 2026 9:07 AM | agenda
+- Commission meetings and approved minutes of the meetings are available on the City’s
+- PUBLIC HEARINGS
+- Approve Planning Commission Minutes – July 8, 2026
+
+## [mission-hills#9] 2026-09-14 | Sep 14, 2026 — Posted Sep 11, 2026 10:27 AM | minutes
+- City Attorney; Captain Josh Putthoff, Prairie Village Police Department
+- (PVPD); Captain Kelly Clark, Prairie Village Police Department (PVPD)
+- OPEN 2027 REVENUE NEUTRAL RATE PUBLIC HEARING
+- Mayor Weed opens the public hearing on Resolution No. 2026-EE: Exceed the Revenue Neutral
+- a great job but is concerned that his property taxes have risen more than 6% per year since 2020,
+- compared to approximately 3% annual growth in the City’s budget, and asks whether other
+- budgetary growth and explains that the County Appraiser determines home values and that the
+- City has no authority over that process and the City’s budget is based on the values assigned by
+- a discounted sale at a home on 67th Terrace and State Line Road is missing from his comparable
+- Regarding the City’s mill levy, Ms. Lee explains that the City has kept its levy flat and
+- that a tax bill has several components and some of the other taxing entities could be changing
+- their rates, and the City’s portion increases only because home values have risen. Mayor Weed
+- He cites rising costs for asphalt, health care, and police protection, and tells Mr. Blackman that
+- Exceed the Revenue Neutral Rate
+- OPEN 2027 BUDGET PUBLIC HEARING
+- Mayor Weed calls opens the 2027 Budget Public Hearing and asks the audience for comments
+- There are no questions or comments from the audience and Mayor Weed closes the 2027 Budget
+- Public Hearing
+- APPROVAL OF MINUTES OF COUNCIL MEETINGS August 13, 2026
+- Councilperson Thorne moves to approve the minutes of the August 13, 2026 City Council
+- A. Police Report
+- constituents that the department has fielded questions since License Plate Readers (LPRs)
+- became a common practice among police departments, and that the topic has recently become a
+- Police Department’s website and encourages residents to look there. Captain Putthoff states that
+- only way to obtain data on a specific plate is through a written request, and those requests are
+- that access is limited to police officers and dispatchers, who attend training. Captain Putthoff
+- acknowledges that this caused discussion among staff about whether 90 days is enough for a big
+- that the answer is potentially yes. However, the department feels 90 days captures as much data
+- and that he conducted a couple audits a month ago, showing which officer searched for a plate,
+- broken into or a car is stolen or burglarized and officers get a suspect plate; they can search
+- where that plate has been in Mission Hills and Prairie Village over the past 90 days. The second
+- plate registers as stolen, and every officer and dispatcher is alerted, whether in the office or in a
+
+## [mission-hills#10] 2026-09-22 | Sep 22, 2026 — Amended Sep 25, 2026 12:05 PM | agenda
+- 2221 W 63rd Street
+- Landscape plan
+- 2921 W 69th Street
+- Changes to previously approved project
+- James & Allison Waters
+- 3030 W 69th Street
+- The Mission Hills Board of Zoning Appeals (BZA) provides that the BZA shall determine whether or not an ARB decision was
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+- #1 Jeff & Joey Slutskiy 2221 W 63rd Street
+- The Slutskiys are returning to the ARB to present their landscape plan
+- Summary of Project:
+- All hardscape elements were approved at the April 8, 2025 ARB meeting. Subsequent changes were
+- approved at the November 18, 2025 and December 2, 2025 meetings. This proposal relocates the spa to
+- Ordinance Compliance:
+- The project is in violation of City Code Section 5-119.C which forbids structures in the front yard. Please
+- walls. A variance is required. This variance was granted at the March 26, 2025, BZA meeting
+- There are no conflicts between the proposed project and the City of Mission Hills Design Guidelines
+- #2 Todd & Sara Morgan 2921 W 69th Street
+- The Morgans are returning to the ARB to present changes to their previously approved remodel project
+- The original project was approved at the February 10th meeting
+- Zoning: R-1(20)/LS-5
+- Ordinance/Design Guideline Allowable/Required Provided
+- #3 James & Allison Waters 3030 W 69th Street
+- The Waters are returning the ARB to propose changes to their previously approved project
+- The original project was approved at the May 5, 2026, meeting
+- The owners are proposing to scale back the scope of the original project
+- They propose to extend the existing porch 7.8 feet into the rear yard while keeping it outside of the rear yard
+- Zoning: R-1(25)/LS-2
+- There appears to be a water feature or similar structure just behind the patio. The structure is not indicated
+- on the plan. Clarification is required
+- The project violates City Code Section 5-121.D, which requires decks to be a minimum of 20 feet from the
+- rear or side property line. A variance of 12 feet is required
+- Facilities. This section recommends that these elements follow the zoning regulations to help mitigate water
+- Zoning: R-1(16)/LS-3
+- * A variance is required from the Board of Zoning Appeals
+- Continued from the September 8, 2026 ARB meeting so an updated site plan can be provided
+- The project violates City Code Section 5-121.D. that requires Pool Decks and Patios to have a minimum rear
+- and side yard setback of 20 feet. The existing and proposed patio is located 6.6 feet from the side property
+- line. A variance of 13.4 feet is required. The proposed pool deck is located 5.9 feet from the rear property
+
+## [mission-hills#11] 2026-09-25 | Sep 25, 2026 — Posted Sep 23, 2026 9:35 AM | minutes
+- A. Updates re: Cell Tower Leases at 6400 State Line Road
+- Mayor Weed reports that the City received a certified letter from T-Mobile cancelling its lease in
+- Mayor Weed shares that a few days later the regional T-Mobile office requested a
+- would be willing to construct a monopole of 130 to 150 feet with approximately 3,600 square
+- feet at its base for equipment and stated that a new structure would allow them to offer a
+- that the City must notify AT&T six months prior, by February 14, 2027, whether it will extend,
+- in the location, that the structure was not discussed with AT&T, and that with only about five
+- Council meetings before the deadline she would like Council to begin the discussion now
+- Councilperson Thorne asks how T-Mobile operates nationally versus regionally and how
+- a national decision canceled the contract. Ms. Lee responds that the regional representative was
+- surprised the letter had been sent and that her supervisor has notified the national office of the
+- agreement. Mayor Weed adds that any contract would clearly state its duration and termination
+- rate could be renegotiated, retain approximately $3,500 per month from AT&T, while the $4,100
+- require FCC, FAA, and City ARB and BZA approvals. Ms. Lee states that ground lease sizes
+- typically range from 2,500 to 3,600 square feet
+- side. Ms. Lee responds that both carriers consider this an essential location. Mayor Weed reports
+- hearing that Verizon is unhappy with its site at 333 W Meyer, that Verizon has an installation
+- atop the new apartment complex at 76th Street and State Line Road, and that the State Line
+- repeatedly cite the City's topography and trees as the reason the tower on 63rd Street and
+- Mission Road does not serve the lower part of Mission Hills
+- Mayor Weed states that he favors Option 2, that the requested 130 to 150 feet may be an
+- City works hard to keep the community beautiful and that it should be up to the carriers to find a
+- solution. Mayor Weed estimates the existing bell tower at about 80 feet
+- Ms. Lee states that City Hall's first floor is about 2,600 square feet. She explains that City
+- code requires a tower to be 200 feet from residential property, which rules out the church
+- applying the more restrictive rule. She identifies a potential site in the grove of trees on the City
+- Hall property along Tomahawk Road, between the speed limit sign and the first pedestrian
+- crossing sign. The City’s arborist, Mr. Carmack, estimated the surrounding trees at about 75 feet
+- to the high 80s, with a group of four at about 90 feet, and the trees are in good condition, though
+
+## [mission-hills#12] 2026-09-30 | Sep 30, 2026 — Posted Sep 24, 2026 9:13 AM | agenda
+- BOARD OF ZONING APPEALS AGENDA
+- 1 Approval of Minutes from August 26, 2026 Meeting
+- Resolution Approving Variance – New Generator
+- 6629 Overhill Road
+- The owner was approved for a variance to allow a new
+- dimensions no greater than 3 feet by 5 feet. The generator
+- and pad may encroach no more than 2 feet beyond the
+- platted setback and are intended to be located as close to
+- Resolution Approving Variance – Rear Addition
+- 5910 Oakwood Road
+- The owners were approved a 7-foot variance for their rear
+- Resolution Approving Variance – Revised
+- The previously approved resolution was approved for
+- revision to grant the property owners an extension until
+- fence located within the platted setback that extends beyond
+- Continued Application for Variance – Patio & sport
+- Requesting a variance for decorative walls in the front yard
+- Requesting 13.1- foot variance for patio replacement
+- Requesting 3.75-foot variance for sport court replacement
+- Zoning meeting to the September 30th Board of Zoning
+- Application for Variance – New Rear Patio
+- The project violates City Code Section 5-121.D, which
+- requires decks to be a minimum of 20 feet from the
+- rear or side property line. A variance of 12 feet is required
+- Appeal of the ARB's decision on July 28, 2026 to approve
+- According to the Mission Hills Board of Zoning Appeals (BZA) By-Laws, the BZA shall determine whether or not an Architectural Review Board
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered
+
+## [mission-hills#13] 2026-10-06 | Oct 6, 2026 — Posted Sep 23, 2026 2:41 PM | agenda
+- 2221 W 63 rd Street site visit to begin at 2:15pm
+- 2309 W 69 th Street
+- 2221 W 63 rd Street
+- Landscape plan
+- The Mission Hills Board of Zoning Appeals (BZA) pro vides that the BZA shall determine whether or not a n ARB decision was
+- hearing will be limited to a discussion of the evid ence presented to the ARB. No new evidence will be considered
+- Summary of Project:
+- single color faux roofs are not a pre-approved roofing style and require ARB review
+- Ordinance Compliance:
+- There are no conflicts between the proposed project and the City of Mission Hills Code of Ordinances
+- #2 David & Carol Freirich 2309 W 69th Street
+- the lot width. Circle driveways should have an interior green with a width no less than 80 feet wide,
+- measured at the front property line, and depth of 40 feet measured from the curb. These
+- recommendations have not been met. The interior green of the proposed circle drive is 89 feet wide and
+- approximately 26 feet deep
+- Zoning: R-1(16)/LS-3
+- Ordinance/Design Guideline Allowable/Required Provided
+- Zoning: R-1(30)/LS-5
+- #4 Jeff & Joey Slutskiy 2221 W 63rd Street
+- The Slutskiys are returning to the ARB to present their landscape plan
+- All hardscape elements were approved at the April 8, 2025 ARB meeting. Subsequent changes were
+- approved at the November 18, 2025 and December 2, 2025 meetings. This proposal relocates the spa to
+- The project is in violation of City Code Section 5-119.C which forbids structures in the front yard. Please
+- walls. A variance is required. This variance was granted at the March 26, 2025, BZA meeting
+
+## [mission-hills#14] 2026-10-06 | Oct 6, 2026 — Posted Oct 5, 2026 10:44 AM | agenda
+- I. Approval of Minutes from September 1, 2026 meeting
+- III. Team and Special Project Reports
+- *Be thinking about what projects you want to pursue. Bring proposals and cost
+- estimates for what you have in mind. Create 2-3 year plan to share with homes
+- B. Tomahawk Road Homes Association (TRHA)
+- 1. Review Eisenhower Pond wetland bench planting plan for
+- final approval
+- A. City’s 2026 Capital Improvement Projects – Updates
+- C. Discuss November meeting – Current location conflict with
+
+## [mission-hills#15] 2026-10-12 | Oct 12, 2026 — Amended Oct 8, 2026 2:02 PM | agenda
+- *The following item(s) of business have been previously discussed by the Council in sufficient detail, or are of such a routine and recurring nature that further discussion is usually not anticipated before approval. If such is the
+- case, the entire Consent Agenda can be approved with a single motion and vote. If, however, any member of the governing body or any member of the audience wishes further discussion on any item, the Council may remove
+- the item from the Consent Agenda and place it for discussion under New Business
+- 1 APPROVAL OF MINUTES OF COUNCIL MEETING – September 14 & September 25, 2026
+- A. Police Report
+- B. Fire Report
+- A. Claims Ordinance No. 1716
+- B. Adopt 2027-2031 Capital Improvement Plan
+- B. Cell Tower Discussion
+- C. Update on Capital Projects
+- a. Belinder (south of 69th Street) and 70th Terrace
+- c. 2027 & 2028 Street and Stormwater – Concept Study for Eisenhower Pond Watershed
+- A. Discuss Potential Changes to Pet License Ordinance and Tagging/License Process B. Executive Session – Legal Advice Regarding Signs
+
+## [mission-hills#16] 2026-10-14 | Oct 14, 2026 — Posted Oct 5, 2026 1:38 PM | agenda
+- Commission meetings and approved minutes of the meetings are available on the City’s
+- Approve Planning Commission Minutes – September 9, 2026
+
+## [mission-hills#17] 2026-10-15 | Oct 15, 2026 — Posted Oct 15, 2026 3:34 PM | agenda
+- II. Approval of Minutes of March 12, 2026 meeting
+- B. Firework Ordinance
+
+## [mission-hills#18] 2026-10-20 | Oct 20, 2026 — Amended Oct 19, 2026 2:55 PM | agenda
+- B. Bryce & Jane Jones – 3516 W 64th Streetⴕ
+- Changes to previously approved project
+- 2602 W 70th Street
+- Changes to previously approved project;
+- Resolution Certifying Certain Exterior Work for Routine Approval
+- The Mission Hills Board of Zoning Appeals (BZA) provides that the BZA shall determine whether or not an ARB decision was
+- hearing will be limited to a discussion of the evidence presented to the ARB. No new evidence will be considered

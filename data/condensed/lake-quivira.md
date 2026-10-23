@@ -1,0 +1,88 @@
+# lake-quivira
+
+## [lake-quivira#0] 2026-08-03 | City Council | minutes
+- about the proposed zoning regulation updates following her attendance at the July 6th joint
+- work session. During public comments, a memorandum prepared by Carol Dengel and Jim Elder
+- Mayor McCullagh recognized newly appointed Chief of Police, Roy Owens, in the audience and
+- Approval of Minutes:
+- Approval of Meeting Minutes from the regular Council Meeting held on July 6, 2026
+- Motion: Council President McCauley moved to approve the minutes as presented from July 6,
+- Approval of Meeting Minutes from the special Council Meeting held on July 16, 2026. Motion:
+- Approval of the July 2026 Financial Report:
+- included in the agenda packet prior to the meeting. With no questions or discussion from the
+- governing body, the mayor entertained a motion to approve the financial reports. Motion:
+- Councilmember Zimmer made a motion to approve the July Financial Reports as presented
+- Building Official McAllister provided the council with a copy of the open building permits report,
+- noting 31 active building permits. Four of those being new home construction, eight being
+- remodels or additions and the remainder for various other permits
+- Charles also presented an example memo of an enforcement letter for consideration to
+- construction workers who continue to park and impede traffic flow on roadways at their job
+- roadway where regular traffic and/or more importantly emergency vehicles cannot get
+- through. Fines could be taken from their performance bond as one way of collection. The
+- council will take this into consideration
+- Police Department Report:
+- Police Department initiatives, activities, and goals
+- obstructing roadways, noting that the Standard Traffic Ordinance contains provisions that allow
+- generator has been installed. The company is currently awaiting approval to connect the
+- utilities to the generator, which will complete the project
+- to cost sharing the project with the city 50/50. The total cost of the project is $5000.00
+- Councilmember Pasley proposed using the unused portion of the police garage bay as an
+- After discussion, the Council concluded that the garage bay was likely not a suitable location for
+- such a project. As an alternative, it was suggested that guard house staff provide delivery
+- 2027 inspection and notify McClure Engineering of its decision
+- Motion: Councilmember Vedock made a motion that the council award the Dam Inspection
+- Contract to the State of Kansas in an amount not to exceed $3000.00 and authorize the mayor
+- and/or City Administrator to execute all necessary contract documents, subject to legal review
+
+## [lake-quivira#1] 2026-09-14 | City Council | minutes
+- Revenue Neutral Rate Hearing: The mayor closed the Regular Council Meeting and opened the
+- Revenue Neutral Rate Hearing
+- Consider a Resolution to Levy a Property Tax Rate Exceeding the Revenue Neutral
+- Rate. After asking for discussion and hearing none, Mayor McCullagh entertained a
+- motion. Motion: Councilmember Kurland made a motion that the council approve a
+- Resolution levying a property tax that exceeds the Revenue Neutral Rate. Second:
+- Budget Hearing: The mayor closed the Revenue Neutral Rate Hearing and opened the Budget
+- Consider a Resolution adopting the 2027 annual Budget for the City of Lake Quivira,
+- Kansas. After asking for discussion and hearing none, Mayor McCullagh entertained a
+- motion. Motion: Council President McCauley made a motion that the council approve a
+- Resolution adopting the 2027 annual budget for the City of Lake Quivira, Kansas
+- Approval of Minutes:
+- Approval of Meeting Minutes from the regular Council Meeting held on August 3, 2026
+- Motion: Councilmember Zimmer moved to approve the minutes as presented from August 3,
+- Approval of the August 2026 Financial Report:
+- Reports which were included in the agenda packet. With no questions or discussion from the
+- governing body, the mayor entertained a motion to approve the financial reports. Motion:
+- Council President McCauley made a motion to approve the August Financial Reports as
+- i. Consider the purchase of a 2024 Durango police vehicle through Kansas Highway
+- be delivered largely equipped, though some additional items will need to be purchased to
+- expected to remain within the requested budget of $45,000. This vehicle will replace the 2023
+- Motion: Councilmember Kurland made a motion that the council authorize the purchase of a
+- 2024 Durango police vehicle from the Kansas Highway Patrol according to the discussed
+- and authorize the Chief of Police to execute all necessary documents to finalize such purchase
+- ii. Consider a Professional Services Agreement with the League of Kansas
+- Motion: Councilmember Zimmer made a motion to approve a Professional Services Agreement,
+- iii. Consider an Ordinance Amending Title VI of the Code of the City of Lake Quivira,
+- Kansas Regulating Public Offenses Within the Corporate Limits of the City of Lake
+- **This is a routine ordinance adoption each year to adopt the latest edition provided by the
+- Motion: Council President McCauley made a motion to adopt an ordinance incorporating,
+- by reference, the 2026 Uniform Public Offense Code for Kansas Cities, with amendments
+- iv. Consider an Ordinance Amending Title VII of the Code of the City of Lake Quivira,
+
+## [lake-quivira#2] 2026-10-05 | City Council | agenda
+- 3) Public Comment:
+- relating to City business not listed on this Agenda. If you would like your discussion
+- 4) Approval of Minutes:
+- o Consider approval of a Fifth Amendment to the Residential Solid Waste Management and
+- Recycling Service Agreement with Waste Management, extending the agreement through
+- o Holliday Drive / Renner Road Right-of-Way & Perimeter Cleanup
+- o September Q Inc. Invoice (Road Impact Fee Charge)
+- 9) Police Department Report:
+- o September Traffic Enforcement Stats and Police Department Activity Report
+- o Open Building Permit Report - YTD
+- o Update to Contact List for Water Level Detection System
+- Mayor: Quivira Inc.; Q, Inc. Board; Lake Quivira Foundation; and Police, Newsletter
+- Julie Kurland: Ordinances, Land Committee, Website, Tree City
+- Mike Pasley: Road Maintenance, Gas Station, Perimeter Aesthetics and Upkeep, Employee
+- Dan McCauley: Building Requirements/Zoning, City Hall (Upkeep and Improvements), Waste
+- Management, Railroad
+- Tray Vedock: Budget/Finance, Independence Day Fireworks, Youth volunteering, Spillway/Dam,

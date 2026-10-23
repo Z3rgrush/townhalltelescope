@@ -1,0 +1,631 @@
+# prairie-village
+
+## [prairie-village#0] 2026-07-28 | JazzFest Committee | agenda
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#1] 2026-08-03 | City Council | minutes
+- McCullough, Chief of Police; Keith Bredehoeft, Public Works Director; City Attorney Alex
+- APPROVAL OF AGENDA
+- Ms. Bartelt made a motion to approve the agenda as presented. The motion was seconded
+- PRESENTATIONS
+- Corinth Library, and parking areas
+- Pam Justus, Ward 6, expressed her disapproval of information published in the
+- for discussion:
+- 1. Consider approval of regular city council meeting minutes – July 20, 2026
+- 2. Consider approval of claims ordinance #3064
+- 3. Consider school crossing guard contract renewal with All City Management
+- 4. Adopt Ordinance 2518 amending certain sections of the 2018 building code
+- 5. Consider agreement with Black and McDonald for streetlight maintenance services
+- 6. Consider appointment to the arts council
+- 7. Consider and ordinance approving the Prairie Village Jazz Festival as a special
+- 8. Consider request for alcoholic beverage waiver for Harmon Park for the Prairie
+- Clementine’s in the Village Shops on August 5. He added that the police
+- Mr. Jordan provided background on the purchasing policy that would be discussed
+- making expenditure ordinances more descriptive, would be considered at a future
+- Consider appointment of city engineer
+- Mayor Mikkelson requested that the city council ratify the appointment of Cliff Speegle to
+- positions within the city are appointive positions with four-year terms: city clerk, city
+- works, city architect and chief of police
+- Mr. Nelson made a motion to appoint Cliff Speegle to serve as the city engineer. The
+- After approval, Mayor Mikkelson swore in Mr. Speegle as city engineer for a four-year term
+- Consider amendments to Council Policy CP061 – Purchasing
+- Mr. Jordan stated that during its 2026 work session, the council discussed strategies to make
+- presented for items that had already been approved in the budget. The council agreed that
+- of Shawnee, Spring Hill, and Olathe. Cities such as Overland Park, Fairway, and Lawrence
+- allow budget authority up to $100,000. Mr. Jordan shared the following proposed updates to
+- Purchase amount requiring a phone bid: increase from $2,500 to $5,000
+- Purchase amount requiring an informal written price quote: increase range from
+- Purchase amount requiring published notice or through metro/state bid: increase from
+- Capital improvement amount requiring published notice or through metro/state bid:
+- did not align with Charter Ordinance 19, which stated the amount was $50,000)
+- Federal grant funds would need to follow federal procurement guidelines if different
+- Change orders requiring council approval: increase from 5% to 10% (or unbudgeted)
+
+## [prairie-village#2] 2026-08-04 | Planning Commission | minutes
+- August 4 at 6:00 p.m. in the council chambers at 7700 Mission Road. Chair Greg Wolf
+- APPROVAL OF MINUTES
+- Mr. Birkel made a motion to approve the minutes of the July 7, 2026, regular planning
+- PUBLIC HEARINGS
+- NON-PUBLIC HEARINGS
+- Presentation of the 2027 capital improvement plan
+- Mr. Bredehoeft gave a presentation on the 2027-2031 capital improvement plan (CIP). He
+- noted that the city council approved the CIP on an annual basis as part of the budget
+- process. The presentation included information about active and completed 2026 projects
+- as well as those approved for 2027 in categories such as street repair, drainage repair,
+- park improvements, and the municipal complex project. Information about funding for
+- planned projects from 2028 – 2031 was also shared
+- Mr. Wolf asked for information about how projects are bid out. Mr. Bredehoeft said that
+- generally a set of project plans would be created by public works staff with the assistance
+- of consultants, and then published through a bid notice on both the city’s website and
+- legal publications. Some projects, such as street repair, were bid over multiple years with
+- a single contractor
+- Mr. Bredehoeft also discussed the 83rd Street from Mission Road to Nall Avenue project,
+- which had recently been approved by the city council. He noted that Village Vision 2.0
+- identified this section of 83 rd Street as a “village connector” and suggested several
+- concepts for the area, such as more green space, on-street parking, pedestrian lighting,
+- After reviewing options, the team generally agreed that on-street parking was not
+- pedestrian level lighting along the north side of 83rd Street and at the pedestrian crossing
+- Mr. Valentino expressed disappointment about the outcome of the 83 rd Street project,
+- incorporated. In particular, he shared concern about excessive vehicle speeds on major
+- Discussion of Senate Bill 418
+- Ms. Lee stated that the Kansas Legislature passed Senate Bill 418, the “by right housing
+- development act”, in March 2026, and it became effective on July 1, 2026. The bill impacts
+- how Kansas municipalities regulate and review specific types of housing and affects both
+- building codes and zoning authority. She added that city staff had been reviewing how the
+- bill impacts Prairie Village zoning regulations, and how other local municipalities are
+- reacting to the bill and considering what changes (if any) may be necessary
+- Village zoning standards, review, and permitting are impacted. However, the bill also
+- how the city currently approaches planning and zoning for specific types of housing
+
+## [prairie-village#3] 2026-08-05 | Tree Board | minutes
+- II. Review and Approve Minutes
+- approved. Lindsay seconded. June minutes approved unanimously
+- A. Fall Tree Seminar – Weds. October 7th at Meadowbrook Park Clubhouse – Rosewood A
+- Topic: All agreed that 4 components of Improve Tree Canopy; Right Tree Right Place; Tree Ordinance;
+- Format: Powerpoint visuals on projector screen and Q&A from audience. Tree Board members to bring
+- to September meeting some visuals and a list of questions to discuss and provide to two speakers. Will
+- Tree Raffle: Discussed options. The two featured native plant sales in area are before our Fall Seminar:
+- Tomahawk Ridge Community Center in Overland Park. We may be able to source from Rosehill Gardens
+- or buy a couple of small trees at aforementioned native plant sales. Discuss and finalize, if decide to do,
+- Budget: Have $358.36 left for year and Fall Seminar. Colin offered to bring chestnuts from family farm
+- Tree Board tabled further discussion on paying for refreshments (snacks, coffee, etc.) and a tree raffle
+- until September meeting. Action Item: Bridget will explore if have option to increase budget for the Fall
+- B. Arbnet & PV Public Park Tree Map
+- Bridget reported that Prairie Village Parks and Arboreta application had been submitted for Level 1
+- includes having a arboretum with 25+ tree species; at least 1 public event annually on trees). Application
+- well as a chest pocket logo. Discussed possibly having PV star of Kansas embedded in Design. Will
+- discuss further at either November 2026 or February 2027 Tree Board meeting. Plan on having shirts
+- D. City Hall Landscape Plan
+- Bridget reviewed the plan. Original plan was to have more Honey Locust trees, which were advised not
+- chinkapin oak; Princeton American Elm (more resistant to Dutch Elm disease); etc. Plan is subject to
+- Landscape Plan to Tree Board
+- contractor; and Fall Tree Seminar date/time/location
+- F. July 2026 Active Tree Plan Permit Records for Major Construction Projects
+- Bridget reviewed this report as of July 28, 2026 with 117 permits dating back 3 years to July, 2023. 44 of
+- these active permits are just from the beginning of 2026. Report includes following …
+- covered the ~18 months since the Tree Ordinance went into effect on June 1, 2001
+- G. Tree Protection Ordinance Summary and Sample Tree Protection Plan
+- Discussed at June meeting and detail is in packet for this meeting
+
+## [prairie-village#4] 2026-08-11 | Diversity Committee | agenda
+- II. Approval of the Agenda
+- V. Approval of Meeting Minutes
+- VI. Presentations
+- VIII. Committee Discussion
+- IX. Project/Event Updates
+- Hispanic Heritage Celebration – September 19, 2026 / Harmon Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#5] 2026-08-17 | City Council | minutes
+- APPROVAL OF AGENDA
+- Mr. Reddell made a motion to approve the agenda as presented . The motion was
+- PRESENTATIONS
+- Rob Kohl, Ward 2, expressed concern about first amendment rights being violated
+- for discussion:
+- 1. Consider approval of regular city council meeting minutes – August 3, 2026
+- 2. Consider approval of amendments to Council Policy CP061 - Purchasing
+- 3. Consider approval of the 2027 Mission Hills contract and the 2027 Mission Hills
+- 4. Consider an Ordinance approving the Hispanic Heritage Celebration as a special
+- Mr. Vallette stated that the application period for the Teen Council had opened on
+- o A meeting with Consolidated Fire District #2 Chief Steve Chick along with
+- fire district board members and county commissioners to discuss the
+- department’s budget process
+- and benefits. A $30,000 consultant fee was included in the 2027 budget for the
+- study, and recommendations would be incorporated into the 202 8 budget. She
+- Captain Porter stated that police department’s annual National Night Out event
+- Mr. Bredehoeft provided an update on the municipal complex project. He s aid that
+- Updates to the police department dispatch area and the basement of the police
+- Discuss Johnson County Wastewater Brush Creek pump station improvements at Porter
+- Mr. Bredehoeft said that s taff had been in discussion with Johnson County Wastewater
+- (JCW) related to the proposed project for several years. He noted that JCW would need to
+- acquire a small section of right -of-way at Porter Park and easements from the city to
+- complete the improvements
+- Patrick Denning, Assistant Chief Engineer with Johnson County Wastewater , shared a
+- presentation with details about the project. He stated that the existing pump station at
+- Porter Park had been built in the 1950s, and that during periods of rain, defects caused
+- water to leak into the system. The Environmental Protection Agency h ad tasked the
+- installation of a 4.5 million gallon wet-weather underground storage tank at Porter Park to
+- address the issue , but after discussion with city staff, opted to proceed with the
+- replacement of the pump station to reduce impact to the park and surrounding residences
+- capacity, allow JCW to make future wet -weather improvements, and meet all current
+- need to acquire approximately 854 square feet of city property, along with a sewer
+- easement of 3,224 square feet and a sanitary sewer pump easement of 2,175 square feet
+- the park during construction. After construction completed, JCW would restore the field
+- Ms. Selders noted that her house across the street from the park occasionally experienced
+
+## [prairie-village#6] 2026-08-25 | JazzFest Committee | agenda
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#7] 2026-08-26 | Environmental Committee | agenda
+- II. Approval of the Agenda
+- III. Approval of Minutes
+- IV. Presentations
+- A. Community gardens update and budget request
+- A. 2026-2027 Sustainability Grant for Educational Institutions program updates (Melinda)
+- October 10 - 75th Anniversary Party with Drone Show at Meadowbrook Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#8] 2026-08-26 | Environmental Committee | agenda
+- II. Approval of the Agenda
+- III. Approval of Minutes
+- IV. Presentations
+- A. Community gardens update and budget request
+- A. 2026-2027 Sustainability Grant for Educational Institutions program updates (Melinda)
+- October 10 - 75th Anniversary Party with Drone Show at Meadowbrook Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+- Approval of the Agenda
+- Approval of Minutes
+- Presentations
+- Consider sponsorship of the 2026 Go Green Environmental Fair
+- stating she would be available to participate in planning discussions as scheduled for the first Friday of each month. After
+- discussion, Ms. MCMahon made a motion to sponsor the 2026 event at $200, as consistent with past events. Mr
+- VillageFest will be held July 4 on the municipal campus in Harmon Park. Ms. Comes and Mr. Wohlfarth shared details of
+- about next steps for a Monarch Waystation at Bennet Park. An area in the park has been identified for this purpose, and
+- Grant programs (Garry)
+- the city's sustainability grant and other grant programs offered through the Community Development Department in hopes
+- Mr. Sellers provided an update on the status of the city's solid waste contract. The City Council has voted to continue
+- discussions with GFL for a contract to begin in 2027. Mr. Sellers said a contract with GFL would keep the cost down
+- Climate Action Project prioritization (Ashley)
+- cost of $4,500. Task 2 is the development and implementation of item-specific implementation roadmaps at a cost of
+- $6,000 per road map
+- Ms. Freburg noted that funds to cover an in-person workshop exist in the 2026 Environmental Committee budget. These
+- funds are available because of unused dollars in the line items for event composting and the sustainability grant for
+- educational institutions. More research needs to be done to determine if funds are available to begin any of the roadmaps
+- The committee discussed what a half-day workshop might look like, with Ms. Freburg suggesting a meeting that would
+- The committee also discussed the pros and cons of in-person vs. virtual noting there may be the opportunity for a more
+- The general consensus of the committee was they would discuss potential implementation roadmaps after the initial
+- Mr. Sellers opened the discussion for any new business items
+- city council, much the same way as the fiscal note that is currently part of the discussion. The goal of this exercise would
+
+## [prairie-village#9] 2026-09-01 | Planning Commission | agenda
+- 7700 Mission Road
+- II. Approval of Planning Commission Minutes
+- A. Approval of planning commission minutes - August 4, 2026
+- III. Public Hearings
+- IV. Non-Public Hearings
+- A. PC-26-18 Site plan for playground including a fence exception
+- Zoning: R-1B
+- the hearing of an application, shall not participate in the hearing or discussion, shall not vote on
+- the issue and shall vacate their position at the table until the conclusion of the hearing
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#10] 2026-09-01 | Planning Commission | agenda
+- 7700 Mission Road
+- II. Approval of Planning Commission Minutes
+- A. Approval of planning commission minutes - August 4, 2026
+- III. Public Hearings
+- IV. Non-Public Hearings
+- A. PC-26-18 Site plan for playground including a fence exception
+- Zoning: R-1B
+- the hearing of an application, shall not participate in the hearing or discussion, shall not vote on
+- the issue and shall vacate their position at the table until the conclusion of the hearing
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+- August 4 at 6:00 p.m. in the council chambers at 7700 Mission Road. Chair Greg Wolf
+- APPROVAL OF MINUTES
+- Mr. Birkel made a motion to approve the minutes of the July 7, 2026, regular planning
+- PUBLIC HEARINGS
+- NON-PUBLIC HEARINGS
+- Presentation of the 2027 capital improvement plan
+- Mr. Bredehoeft gave a presentation on the 2027-2031 capital improvement plan (CIP). He
+- noted that the city council approved the CIP on an annual basis as part of the budget
+- process. The presentation included information about active and completed 2026 projects
+- as well as those approved for 2027 in categories such as street repair, drainage repair,
+- park improvements, and the municipal complex project. Information about funding for
+- planned projects from 2028 – 2031 was also shared
+- Mr. Wolf asked for information about how projects are bid out. Mr. Bredehoeft said that
+- generally a set of project plans would be created by public works staff with the assistance
+- of consultants, and then published through a bid notice on both the city’s website and
+- legal publications. Some projects, such as street repair, were bid over multiple years with
+- a single contractor
+- Mr. Bredehoeft also discussed the 83rd Street from Mission Road to Nall Avenue project,
+- which had recently been approved by the city council. He noted that Village Vision 2.0
+- identified this section of 83 rd Street as a “village connector” and suggested several
+- concepts for the area, such as more green space, on-street parking, pedestrian lighting,
+- After reviewing options, the team generally agreed that on-street parking was not
+- pedestrian level lighting along the north side of 83rd Street and at the pedestrian crossing
+- Mr. Valentino expressed disappointment about the outcome of the 83 rd Street project,
+- incorporated. In particular, he shared concern about excessive vehicle speeds on major
+- Discussion of Senate Bill 418
+- Ms. Lee stated that the Kansas Legislature passed Senate Bill 418, the “by right housing
+- development act”, in March 2026, and it became effective on July 1, 2026. The bill impacts
+
+## [prairie-village#11] 2026-09-02 | Tree Board | minutes
+- Mike Konovalske moved to approve the prior meeting minutes. Mark Morgan seconded the motion. The vote
+- vacate the facility by 9:00 p.m
+- The Tree Board budget was expanded. In addition, the previously unforeseen Arbor Day tree expense was
+- removed from the Tree Board budget, allowing the Board to budget appropriately for seminar expenses
+- Both speakers confirmed their attendance. Kevin Dunn offered to moderate again this year, and the Board
+- Bring cookies, water, and a bowl for the raffle; add Kevin Dunn to the
+- and discussion questions
+- website that can be linked by QR code so purchases can occur online
+- Mark Morgan Bring regular and decaffeinated coffee; print signage for the raffle trees. Seminar day
+- Bring a package of small water bottles; print allergen signage for the
+- chestnuts; contact speakers regarding any presentation materials they
+- As of September 2, 2026, Prairie Village was approved as a Level I accredited arboretum through ArbNet. The
+- accreditation is effective through 2031, when reapplication will be required
+- C. Public Park Tree Map
+- The public park tree map is now available on the City website. Testing during the meeting showed that website
+- The Board discussed conducting a tree survey to gather tree-value data for entry into the enterprise asset
+- E. AI Subcommittee and Data Roadmap
+- Mike Konovalske proposed a roadmap discussion during the break between the November and February
+- A Tree Board Data Analysis Meeting is scheduled for December 10, 2026, at 2:00 p.m. to develop the roadmap
+- A. Fall Street and Park Tree Plantings
+- The Board discussed the planned species and the importance of maintaining a diverse planting mix
+- A bid opening will be held for winter pruning work in the City’s northern neighborhoods
+- Winter scheduling supports healthy tree maintenance and may produce more cost-effective contractor bids
+- Bennett Park will receive pruning this season. Hotspot pruning will also occur in other parks as needed
+
+## [prairie-village#12] 2026-09-08 | City Council | agenda
+- IV. Approval of the Agenda
+- VI. Presentations
+- All items listed below are considered to be routine by the Governing Body and will be enacted by
+- member so requests, in which event the item will be removed from the Consent Agenda and
+- considered in its normal sequence on the regular agenda
+- A. Consider approval of regular city council meeting minutes - August 17, 2026
+- B. Consider approval of claims ordinance #3065
+- C. Consider appointment to the environmental committee
+- D. Consider approval of addendum 1 to Trekk Design Group LLC agreement regarding 83rd
+- Street project (83ST0003)
+- E. Consider approval of Franklin Park playground surfacing (BG250004)
+- A. Hold a public hearing to receive comments regarding the city exceeding the revenue neutral
+- Consider Resolution 2026-03 approving a tax rate or mill levy rate in excess of the revenue
+- neutral rate for the 2027 budget year
+- B. Hold a public hearing for the adoption of the 2027 budget, then;
+- Consider 2027 budget adoption
+- C. Consider amendments to Chapter XI, Article 2 — Conversion Therapy of Minors Prohibited
+- A. Discuss Municipal Code Ordinance 1-208 – How Council Vacancies are Filled
+- B. September plan of action
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#13] 2026-09-08 | City Council | agenda
+- IV. Approval of the Agenda
+- VI. Presentations
+- All items listed below are considered to be routine by the Governing Body and will be enacted by
+- member so requests, in which event the item will be removed from the Consent Agenda and
+- considered in its normal sequence on the regular agenda
+- A. Consider approval of regular city council meeting minutes - August 17, 2026
+- B. Consider approval of claims ordinance #3065
+- C. Consider appointment to the environmental committee
+- D. Consider approval of addendum 1 to Trekk Design Group LLC agreement regarding 83rd
+- Street project (83ST0003)
+- E. Consider approval of Franklin Park playground surfacing (BG250004)
+- A. Hold a public hearing to receive comments regarding the city exceeding the revenue neutral
+- Consider Resolution 2026-03 approving a tax rate or mill levy rate in excess of the revenue
+- neutral rate for the 2027 budget year
+- B. Hold a public hearing for the adoption of the 2027 budget, then;
+- Consider 2027 budget adoption
+- C. Consider amendments to Chapter XI, Article 2 — Conversion Therapy of Minors Prohibited
+- A. Discuss Municipal Code Ordinance 1-208 – How Council Vacancies are Filled
+- B. September plan of action
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+- resources for individuals experiencing mental health crises and identified
+- co-responders and police department training on crisis intervention, as an
+- Police Department;
+- through October 15 every year as a time to recognize and celebrate the
+- how much strength we draw as a nation from our immigrant roots and our
+- values as a nation of immigrants; and
+- our diverse community and celebrate and build a culture of inclusiveness
+- APPROVAL OF AGENDA
+- Mr. Reddell made a motion to approve the agenda as presented. The motion was
+- PRESENTATIONS
+- Rob Kohl, Ward 2, expressed concern about first amendment rights being violated
+- for discussion:
+- 1. Consider approval of regular city council meeting minutes – August 3, 2026
+- 2. Consider approval of amendments to Council Policy CP061 - Purchasing
+- 3. Consider approval of the 2027 Mission Hills contract and the 2027 Mission Hills
+- 4. Consider an Ordinance approving the Hispanic Heritage Celebration as a special
+- Mr. Vallette stated that the application period for the Teen Council had opened on
+- o A meeting with Consolidated Fire District #2 Chief Steve Chick along with
+- fire district board members and county commissioners to discuss the
+- department’s budget process
+- and benefits. A $30,000 consultant fee was included in the 2027 budget for the
+
+## [prairie-village#14] 2026-09-15 | Diversity Committee | agenda
+- II. Approval of the Agenda
+- V. Approval of Meeting Minutes
+- VI. Presentations
+- VIII. Committee Discussion
+- IX. Project/Event Updates
+- A. Committee goals, priorities, and strategies discussion – David
+- Hispanic Heritage Celebration – September 19, 2026 / Harmon Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#15] 2026-09-21 | City Council | minutes
+- McCullough, Chief of Police; Keith Bredehoeft, Public Works Director; City Attorney Alex
+- APPROVAL OF AGENDA
+- Mr. Reddell made a motion to approve the agenda as presented. The motion was
+- PRESENTATIONS
+- Robert Bloodwhite, Ward 6, stated that he had mixed feelings about the proposed
+- for discussion:
+- 1. Consider approval of regular city council meeting minutes – September 8, 2026
+- 2. Consider approval of claims ordinance #3066
+- 3. Consider appointments to the diversity committee
+- that was held on September 19 at Harmon Park
+- Mr. Vallette shared information about Teen Council applications, noting that 10
+- o A police academy graduation on September 29
+- Consolidated Fire District #2 Chief Steve Chick gave a presentation featuring
+- receiving the Trombold Award from the Kansas Society for Human Resource
+- Consider amendments to Chapter XI, Article 2 – Conversion Therapy of Minors Prohibited
+- regulated speech, and that it violated her First Amendment rights by restricting certain
+- under tests related to first amendment free speech rights, as the Supreme Court
+- forced or predetermined therapy outcome, while appearing to permit neutral, client
+- directed counseling. Mr. Aggen said that the amended language included in the city’s
+- proposed ordinance was also viewpoint neutral, but there could still be further challenges
+- The council committee of the whole previously voted to recommend approval of the draft
+- ordinance at its September 8 meeting by a vote of 7-4
+- Mr. Nelson made a motion to approve Ordinance 2523, an ordinance amending Chapter
+- Consider approval of agreement and easements related to the Johnson County
+- Wastewater improvement project at Porter Park
+- Mr. Bredehoeft stated that on August 17, 2026, Johnson County Wastewater (JCW)
+- representatives presented to city council their future improvement needs at Porter Park
+- Given future demands for the wastewater system, JCW will need to rebuild the pump
+- station currently located near the southwest part of the park. The new building will require
+- Patrick Denning, Assistant Chief Engineer with Johnson County Wastewater, shared a
+- presentation with details about the project. He stated that the existing pump station at
+- Porter Park had been built in the 1950s, and that during periods of rain, defects caused
+- water to leak into the system
+- capacity, allow JCW to make future wet-weather improvements, and meet all current
+- need to acquire approximately 854 square feet of city property, along with a sewer
+- easement of 3,224 square feet and a sanitary sewer pump easement of 2,175 square feet
+
+## [prairie-village#16] 2026-09-22 | JazzFest Committee | minutes
+- Food and beverage vendors were disappointed by the rain-shortened event. The lineup of food trucks
+- Wild Spirits, selling Big Grove Brewery products and other offerings reported sales net of tips and taxes
+- for purposes of remitting a sales-based percentage fee to the Committee
+- The Committee had requested that Wild Spirits redeem drink tickets issued by the Committee to invited
+- equal to the sales based percentage fee. The Committee called it even and thanked Wild Spirits for their
+- the form of beverage tickets would have been higher than budgeted
+- We need to restrict the riding of bicycles and scooters in the park once the entrance gates open
+- Signed Mission Road Banner awarded to raffle winner
+
+## [prairie-village#17] 2026-09-23 | Environmental Committee | agenda
+- Community Center, 7720 Mission Road
+- II. Approval of the Agenda
+- III. Approval of Minutes
+- IV. Presentations
+- B. Bennett Park native plants update
+- October 10 - 75th Anniversary Party with Drone Show at Meadowbrook Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#18] 2026-09-23 | Environmental Committee | agenda
+- Community Center, 7720 Mission Road
+- II. Approval of the Agenda
+- III. Approval of Minutes
+- IV. Presentations
+- B. Bennett Park native plants update
+- October 10 - 75th Anniversary Party with Drone Show at Meadowbrook Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+- Committee Focus Budget Annual Plan Decision Package
+- Climate Plan-- Council RecommendationsEvent Planning and SupportMonarch Pledge
+- Project Sponsor(s) Description Strategy Project Size Duration Staff Assistance Council? Proposed Scored Approved Scheduled
+- Monarch Waystation Piper Butterfly friendly native plant plot in Bennett park Biodiversity Med ongoing High Yes Yes Ongoing
+- Bennett Park hedgerow
+- Bennet Park monarch
+- Bennett Park pesticide
+- free signage improvement Piper Update from PW Biodiversity Med one time High Yes Ongoing
+- Develop Wassmer Park
+- pesticide free plan
+- Plan to expand native beds
+- Discuss possibilities with
+- budget for non-capital
+- All parks chemical free Biodiversity Large ongoing
+- input on landscaping plan
+- Grant program Melinda Grant program for pre-K/elementary schools Community Med annual Yes
+- Greenhouse gas inventory support Race to Zero / Climate Plan commitment Race to Zero Large annual High Yes
+- presentation
+- contract quiet
+- Multi-family glass grant
+- consulted for the development
+- the project to ensure a quality and
+- their feedback through the
+- experiencing more heat waves or heavy rains, longer dry spells, and stronger storms. These conditions
+- stormwater systems, and increased erosion of roads and bridges. These impacts make it harder for
+- Action Plan, published
+- the Park and Recreation
+- This guide identifies four key
+- working to reduce its own footprint through the Municipal Climate Action Plan
+- water clean, among others
+- The following sections will give improvement suggestions for residents, broken down by different
+- Start by identifying which action areas matter the most to you, like
+- Plan for Electrification
+- Climate + Energy Project
+- operate efficiently and move
+- eco mode may lower water
+- water can save a lot of energy
+- because water does not need
+- washing in cold water is just
+- water. There may be times
+- requires warm or hot water for
+- cold-water wash can effectively
+- laundry. Using cold water can
+- required to heat water and can
+- help preserve pre-heated water
+- reduce roadway congestion
+- releases heat, water, and trace
+- water bottles, tableware and
+- purchases for disposable items
+- to purchase used, returned,
+- development. Every month,
+- for available incentives,
+- operate only when needed, rather than using a simplistic on-or-off mode, thereby reducing energy use
+
+## [prairie-village#19] 2026-09-30 | Arts Council | minutes
+- The agenda was approved unanimously. Bonnie moved, Nickie seconded
+- The Consent Agenda was approved unanimously- Bonnie moved, no second required
+- The council approved the budget for 2026-2027 year
+- Library development agreement discussed. Once MOU approves, moves forward with plan
+- We added more awards for SOA to make up the difference
+- SOA applications fee generated $5000
+- Public Art Master Plan
+- Steering committee completed their work & are taking the plan to the City Council on
+- November 16th, the Council will vote to approve plan
+- Several ideas have been discussed with the steering committee and team regarding
+- Katelyn explained there is a need for public teen ‘hangout’ space, noting the small park
+- 2027 calendar discussion
+- Jan-April we discussed displaying a SOA ‘winner showcase gallery’
+- April-July is currently open. We discussed potentially shelving this show due
+- Approve Art Funds allocation
+- Coucil unanimously approved the allocation of half (or $25,000) of Public Art Fund to be
+- There was discussion regarding private funding. Questions were raised: What does this look
+- Discuss updates on City Hall meeting on Nov 2nd. Nickie will present the council with an update
+- regarding the Public Art Masterplan. Art Council members are encouraged to attend
+
+## [prairie-village#20] 2026-10-05 | City Council | minutes
+- McCullough, Chief of Police; Keith Bredehoeft, Public Works Director; City Attorney Alex
+- APPROVAL OF AGENDA
+- Mr. Agniel made a motion to approve the agenda as presented. The motion was seconded
+- PRESENTATIONS
+- Anne Melia, Ward 6, and Renee Duvall, Ward 1, asked that the discussion on the
+- postponed until councilmembers had additional time to review and consider it
+- Leon Patton, Ward 5, expressed concern about inaccurate language used in official
+- for discussion:
+- 1. Consider approval of regular city council meeting minutes – September 21, 2026
+- 2. Consider bid award for 2026 tree trimming program
+- 3. Consider approval of MOU with the Johnson County Library
+- representation of the Johnson County Library
+- Mr. Graves made a motion to approve item #3 on the consent agenda. The motion was
+- a Cop” and “Back to School with a Firefighter”
+- that at its recent meeting, the council discussed its 2027 calendar, and considered
+- October 7. Additionally, the environmental committee would hold a project
+- prioritization session moderated by KERAMIDA on October 26
+- closures, boundary changes, and a bond issuance that would be on the
+- property tax changes by the state
+- o The presentation of the public arts master plan at a November council
+- o An interview with Kansas City Magazine discussing Prairie Village
+- o The city’s 75th anniversary celebration on October 10 at Meadowbrook Park
+- by the police department
+- Mr. Jordan stated that he and Mr. Bredehoeft had met with an appraiser to discuss
+- Recommendations for amendments to the E-bike and E-scooter ordinance with adoption
+- of the 2026 Standard Traffic Ordinance (STO) and Uniform Public Offense Code (UPOC)
+- Mr. Robinson stated that after discussion with residents, councilmembers, and Chief
+- McCullough, he did not believe the council committee of the whole was prepared to discuss
+- discussion until the next council meeting on October 19
+- Mr. Graves made a motion to postpone the discussion of the “halo law” to the October 19
+- Mr. Jordan requested that staff have an opportunity to present information about the halo
+- law and provide time for discussion at the current meeting. He added that approval of the
+- to discuss and work through any potential recommended changes
+- After discussion, Mr. Graves withdrew his motion
+- Chief McCullough presented proposed amendments to the e-bike and e-scooter ordinance
+- first, stating that its July 21, 2025, meeting, the council passed an ordinance regulating the
+- use of e-bikes and e-scooters. The ordinance was created to address concerns received
+- from the community and police department regarding safe use of e-devices for both riders
+
+## [prairie-village#21] 2026-10-13 | Diversity Committee | agenda
+- II. Approval of the Agenda
+- V. Approval of Meeting Minutes
+- VI. Presentations
+- VIII. Committee Discussion
+- IX. Project/Event Updates
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#22] 2026-10-14 | Parks and Recreation Committee | agenda
+- Parks and Recreation Committee Meeting Agenda
+- A. Approve May meeting minutes
+- B. Johnson County Wastewater Brush Creek pump station improvements near Porter Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#23] 2026-10-14 | Parks and Recreation Committee | agenda
+- Parks and Recreation Committee Meeting Agenda
+- A. Approve May meeting minutes
+- B. Johnson County Wastewater Brush Creek pump station improvements near Porter Park
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+- Parks and Recreation Committee
+- The Parks and Recreation Committee of Prairie Village, Kansas, met in regular session on Wednesday, May 13, 2026, at
+- Public Comment: Constance Carlyle was present to discuss the impact the St. Ann fence has had on the park, and
+- meetings. More than $800,000 is tentatively budgeted for parks capital improvements in 2027, including reserves, tennis
+- court improvements, and shade structures for the pool. At the meeting, the committee will visit several parks to discuss
+- recent and upcoming capital improvements. Mr. Agniel shared that Melissa Prenger, the City engineer who worked
+- closely on park projects, has retired
+- James Carney provided a brief report on spring clean up in the parks and traffic islands
+- Andrew Mohn moved to approve the January meeting minutes. Diane Mares seconded the motion and it passed
+- Parks Tour and Capital Improvement Program Review
+- Windsor Park
+- Bennett Park
+- Franklin Park
+- The committee walked the park trail and reviewed upcoming improvements to ADA accessibility including the widening of
+- the path and improved connectivity to the north-west by the senior living facility. The project will be awarded at an
+- and Public Works is in the process of making improvements to the sandbox and nature play area. The committee
+- discussed the recent placement of a fence by the adjacent property owner, St. Ann Church. Ms. Buum stated that the city
+- neighborhood and park users, the fence is on private property
+- The committee reviewed recent improvements made to Bennett Park, including a new accessible spinner, pour-in-place
+- rubber surfacing, a new shelter, and new drinking fountain/bottle filler. There are funds budgeted for 2030 for additional
+- Bennett Park is currently a chemical free park, and the monarch butterfly way station previously located in this park is in
+- the process of being re-established. Ms. Buum asked the committee for feedback on expanding the number of chemical
+- free parks in the community, which is a priority of the environmental committee. The response was generally positive, but
+- committee was amenable to a "baby steps" approach, with the possible addition of one more chemical-free park to
+- The committee reviewed upcoming projects at Franklin Park, including pour-in-place rubber surfacing. This park
+
+## [prairie-village#24] 2026-10-19 | City Council | agenda
+- IV. Approval of the Agenda
+- VI. Presentations
+- All items listed below are considered to be routine by the Governing Body and will be enacted by
+- member so requests, in which event the item will be removed from the Consent Agenda and
+- considered in its normal sequence on the regular agenda
+- A. Consider approval of regular city council meeting minutes - October 5, 2026
+- B. Consider approval of claims ordinance #3067
+- A. Insurance Committee - Consideration of 2027 City health, dental, vision, life/AD&D, short-term
+- A. Consider adoption of the 2026 Standard Traffic Ordinance for Kansas Cities and the 2026
+- B. Recommend adoption of amendments to the E-bike and E-scooter ordinance
+- A. Discuss Unlawful Approach of a First Responder or "halo law" addition to the 2026 Uniform
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+
+## [prairie-village#25] 2026-10-19 | City Council | agenda
+- IV. Approval of the Agenda
+- VI. Presentations
+- All items listed below are considered to be routine by the Governing Body and will be enacted by
+- member so requests, in which event the item will be removed from the Consent Agenda and
+- considered in its normal sequence on the regular agenda
+- A. Consider approval of regular city council meeting minutes - October 5, 2026
+- B. Consider approval of claims ordinance #3067
+- A. Insurance Committee - Consideration of 2027 City health, dental, vision, life/AD&D, short-term
+- A. Consider adoption of the 2026 Standard Traffic Ordinance for Kansas Cities and the 2026
+- B. Recommend adoption of amendments to the E-bike and E-scooter ordinance
+- A. Discuss Unlawful Approach of a First Responder or "halo law" addition to the 2026 Uniform
+- reader, hearing assistance – in order to attend the meeting, please notify the City Clerk at 913-385
+- McCullough, Chief of Police; Keith Bredehoeft, Public Works Director; City Attorney Alex
+- APPROVAL OF AGENDA
+- Mr. Agniel made a motion to approve the agenda as presented. The motion was seconded
+- PRESENTATIONS
+- Anne Melia, Ward 6, and Renee Duvall, Ward 1, asked that the discussion on the
+- postponed until councilmembers had additional time to review and consider it
+- Leon Patton, Ward 5, expressed concern about inaccurate language used in official
+- for discussion:
+- 1. Consider approval of regular city council meeting minutes – September 21, 2026
+- 2. Consider bid award for 2026 tree trimming program
+- 3. Consider approval of MOU with the Johnson County Library
+- representation of the Johnson County Library
+- Mr. Graves made a motion to approve item #3 on the consent agenda. The motion was
+- a Cop” and “Back to School with a Firefighter”
+- that at its recent meeting, the council discussed its 2027 calendar, and considered
+- October 7. Additionally, the environmental committee would hold a project
+- prioritization session moderated by KERAMIDA on October 26
+- closures, boundary changes, and a bond issuance that would be on the
+- property tax changes by the state
+- o The presentation of the public arts master plan at a November council
+- o An interview with Kansas City Magazine discussing Prairie Village
+- o The city’s 75th anniversary celebration on October 10 at Meadowbrook Park
+- by the police department
+- Mr. Jordan stated that he and Mr. Bredehoeft had met with an appraiser to discuss
+- Recommendations for amendments to the E-bike and E-scooter ordinance with adoption
+- of the 2026 Standard Traffic Ordinance (STO) and Uniform Public Offense Code (UPOC)
+- Mr. Robinson stated that after discussion with residents, councilmembers, and Chief

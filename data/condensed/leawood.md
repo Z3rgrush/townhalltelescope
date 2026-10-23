@@ -1,0 +1,506 @@
+# leawood
+
+## [leawood#0] 2026-08-10 | Arts in Public Places Initiative [APPI] (Sub-committee of the Leawood Arts Council) | agenda
+- 2. APPROVAL OF MINUTES
+- 3. BUDGET REPORT
+- A. Consideration of the purchase of Art On Loan, Whimsy
+- B. Public Art Master Plan - Site Additions/Revisions
+-  96th & Lee, Fire Station 1
+- qualified interpreter, hearing assistance, etc.) in order to attend this meeting, please notify this office
+- APPROVAL OF MINUTES
+- Anne Blessing made a motion to approve the APPI minutes of June 20, 2024. Julia Steinberg
+- seconded the motion. The minutes were approved unanimously, by a vote of 6-0
+- Ms. Girard made a motion to approve the APPI minutes of December 2, 2025. Ms. Steinberg
+- dedicated to procuring new acquisitions into the city’s art collection. The Public Art Impact Fee
+- Fund is currently around $10,000 with projected growth from upcoming projects, including the
+- Hallbrook North development
+- Tomahawk Creek Parkway. It is appropriate to consider using some of the maintenance funds to
+- Ms. Hinkle clarified that if the 17/18 site addition gets approved into the Public Art Master Plan,
+- consideration would be an opportunity to collaborate with Parks and Recreation Advisory Board
+- consideration can be made
+- Naming Tomahawk Creek Parkway Public Art Collection
+- along Tomahawk Creek Parkway corridor. Stann Tate is familiar with strategic marketing and
+- The group brainstormed various ideas and discussed several before narrowing down the options
+- The group reached consensus that Art Line Leawood reflected the fluid nature of the parkway,
+- the inclusion of the road, trails and sidewalks as places to view the art and the inclusive acronym
+- entryway to Tomahawk Creek Parkway in the future. Temporary signage could be created and
+- Ms. Blessing made a motion to approve the new name proposal, Art Line Leawood, to be
+- designated for the public art collection along Tomahawk Creek Parkway and the corresponding
+- trail system. Julia Steinberg seconded the motion. The name recommendation was approved
+
+## [leawood#1] 2026-08-25 | Planning Commission-Regular Session | agenda
+- Dinner Session - 5:30 P.M. - No Discussion of Items
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES
+- A. ORDINANCE DEVELOPMENT LEAWOOD CASE PC-154-2026
+- AMENDMENT TO SECTION 16-4-6.15 - TEMPORARY SIGNS AND
+- SECTION approval an of for 16-9-257 - DEFINITIONS - Request
+- amendment to the Leawood Development Ordinance pertaining to
+- Temporary Signs. PUBLIC HEARING
+- REVISED FINAL DEVELOPMENT PLAN - Request for approval of a
+- Revised Final Development Plan, located north of 135th Street and east
+- of Mission Road
+- EYECARE & BOUTIQUE TOWER SIGN - Request for approval of a
+- Revised Final Development Plan for signage, located north of Town
+- Center Drive and east of Ash Street
+- A. CASE PC-155-2026 - LEAWOOD DEVELOPMENT ORDINANCE
+- DURING SIGNS - AMENDMENT SECTION TO 16-4-6
+- CONSTRUCTION ACTIVITIES - Request for approval of an amendment
+- to the Leawood Development Ordinance pertaining to Construction
+- Signs. PUBLIC HEARING
+-  Case PC-117-2026 - Hallbrook Office Center - FNBO Signage - Revised Final Development
+- o Approved with Resolution No. 6578 (8-0)
+-  Case PC-122-2026 - French Corner Sign Criteria - Revised Final Development Plan
+- o Approved with Resolution No. 6579 (8-0)
+-  Case PC-128-2026 - Church of the Nativity - Site Security Improvements - Revised Final
+- Development Plan
+- o Approved with Resolution No. 6580 (8-0)
+-  Case PC-130-2026 - Bi-State Business Park - Foundry Luxury Condominium Garages - Final
+- Development Plan and Final Plat
+-  Case PC-133-2026 - Parkway Plaza - FNBO Signage - Revised Final Development Plan
+- o Approved with Resolution No. 6582 (8-0)
+-  Case PC-123-2026 - Regent's Park - One35 - Revised Final Development Plan
+- o Approved with Resolution No. 6585 (5-2)
+-  Case PC-126-2026 - The Shul Chabad of Leawood - Preliminary Development Plan and
+- Special Use Permit
+- o Approved with Ordinance No. 3220 (7-0)
+- o Approved with Ordinance No. 3221 (7-0)
+- appointed by the Mayor and confirmed by the Governing Body
+- The Planning Commission prepares the Comprehensive Plan that is used as a general guide for the
+- development of the community. The Comprehensive Plan is reviewed and updated annually as part
+- reviews all zoning, special use permit, and site plan and plat applications prior to making
+- REZONING AND SPECIAL USE PERMIT PROCEDURES FOR LEAWOOD, KANSAS
+- Newspaper publications: The city will be responsible for publishing the notice of public hearing in the
+- official City newspaper not less than 20 days prior to the end of the public hearing
+- Posting of the sign: Upon submission of the application, the City will supply the applicant with a sign
+
+## [leawood#2] 2026-08-26 | Stormwater Management Committee | agenda
+- Stormwater Management Committee Meeting
+- Brian Corcoran, Sr. Project Engineer
+- Tom Kimes, Sr. Project Engineer
+- Leslie Walton, Contract & Admin Supervisor
+- Approve meeting minutes for July 29, 2026
+- Leawood South / Waterford Preliminary Project Submittal (PPS) Update
+- Municipal Separate Storm Sewer System (MS4) Update
+- To recommend to the Governing Body how to enhance the stormwater policy; and to provide a forum
+- for citizens, staff, and Council to discuss and study stormwater concerns and issues
+- Stormwater Management Committee Meeting – August 26, 2026
+- assistance, etc.) in order to attend this meeting, please notify this office at (913) 339-6700 or email at
+- Stormwater Management Committee
+- Meeting: Stormwater Management Committee - Aug 26 2026
+- Meeting Minutes_Stormwater_Committee_July_29_2026
+- Meeting Minutes of Stormwater Management Committee
+- Marisa Shartzer, Asst. Director – Parks, Arts
+- FIRST ITEM OF BUSINESS: Review/approve the old business: Approve minutes from the
+- ACTION: Debra Filla Motion to approve the minutes. Steven Kaster Seconded. Approved
+- SECOND ITEM OF BUSINESS: Indian Creek Floodplain Master Plan Update – Olsson
+- model and develop the Indian Creek Master Plan for the corridor between Mission Road
+- and State Line Road. The study scope includes evaluating watershed improvement
+- stakeholders, conducting public engagement, and delivering a final sub-watershed study
+- Staff noted this is a planning study only. Alternatives identified may include property
+- buyouts, drainage improvements, and other watershed management strategies with
+- conceptual costs. No funding is currently programmed in the City’s Capital Improvement
+- Program (CIP) to implement any recommended improvements
+- approved by FEMA, though it is not set to replace the effective model at this time. The
+- around Leawood City Park and advise design alternatives
+- Site 1 – Berm West of Mission Road and I-435
+- The effective Zone AE floodplain crosses Mission Road north of Lee Boulevard. The
+- proposed berm is mostly located within the City of Overland Park and will require
+- Proposed design: Install a berm parallel to Mission Road to fully block 100-year flow
+- Primary purpose is to protect emergency access to and from the wastewater treatment
+- plant up to the 100-year storm. Will require compensatory storage on the south side of
+- Sculpture and cell tower) by 1 to 3 feet of fill to remove it from the 100-year floodplain
+- Water surface elevation would drop nearly 1.5 feet across the park area
+- This outcome depends on whether the Mission Road berm (Site 1) is also constructed;
+
+## [leawood#3] 2026-08-26 | Board of Zoning Appeals [BZA] | agenda
+- Board of Zoning Appeals [BZA] Meeting
+- 3. APPROVAL OF MINUTES
+- Case 58-2026 2101 W. 120th Ter. - Request for a fence height
+- Case 59-2026 9301 Lee Blvd. - Request for a Variance to the placement
+- Case 60-2026 9301 Lee Blvd. - Request for a Variance to the side
+- Case 61-2026 8319 Meadow Ln. - Request for a Variance to the
+- Case 62-2026 3309 W. 92nd St. - Request for a fence height Exception 111 - 124
+- Board of Zoning Appeals [BZA] Meeting – August 26, 2026
+- Case 63-2026 2819 W. 89th St. - Request for an Exception to the
+- Case 64-2026 8614 Meadow Ln. - Request for a Variance to the side
+- Case 65-2026: 8614 Meadow Ln. - Request for a Variance to the
+- I. Case 66-2026 8025 High Dr. - CONTINUED - Request for an Exception
+- assistance, etc.) to attend this meeting, please notify Ron Jones at (913) 663-9169 or email at
+
+## [leawood#4] 2026-09-02 | Public Works Committee | agenda
+- Leslie Walton, Contract & Admin Supervisor
+- A. Approve meeting minutes for May 13, 2026
+- B. Approve meeting minutes for August 5, 2026
+- Reconstruction Project
+- assistance, etc.) in order to attend this meeting, please notify this office at (913) 339-6700 or email at
+- Approve meeting minutes for May 13, 2026
+- Ryan Boyer, 2008 W. 86th Street
+- Steve Henson, 2007 W. 86th Street
+- FIRST ITEM OF BUSINESS: Review/approve the old business: Approve minutes from
+- ACTION: Mary Larson Motion to approve the minutes. Abbas Haideri Seconded
+- Approved. Motion passed
+- SECOND ITEM OF BUSINESS: State Line Road Access Study and Proposed
+- Improvements – 85th Terrace to 86th Terrace
+- Staff provided background on the State Line Road project scope: a mill and overlay from
+- the north city limits to 89th Street, narrowing of 89th Street for a 10-foot trail, signal
+- replacement at 85th Terrace, and geometric improvements. The focus area for this study
+- was 85th Terrace, 86th Street, and 86th Terrace between Lee Boulevard and State Line
+- Road, encompassing 93 residential properties
+- Street/Ward Parkway
+- (2022–2024), traffic volumes, and level of service analysis. Crash rates at 85th Terrace
+- and 85th Street fell below the elevated threshold of 1.0, though safety remains a concern
+- Eight of nine crashes at 85th Street involved the westbound-to-southbound movement
+- identified as cut-through traffic
+- A third option (traffic signal at 85th Street) was reviewed and determined not feasible
+- 86th Street median closure included. Reduces crash risk at the signal but may increase
+- A resident survey was conducted (93 households notified; 52 responded). Results from
+- benefits, and best alignment with project goals
+- Survey results broken down by street: Households on 85th Terrace and High Drive
+- preferred Option 2 (representing 33 of 52 respondents). Households on 86th Street
+- of very few instances in the city — and that this history was considered in evaluating the
+- Key Questions & Feedback – Committee
+- ◦TREKK clarified that Option 2 is intended to divert cut-through traffic to 83rd Street,
+- through via 86th Street or 86th Terrace
+- ◦TREKK confirmed that under Option 2, the southbound left turn from 85th Street
+- Terrace to access 86th Street, 86th Terrace, Sagamore, and High Drive
+- would be restricted at 85th Terrace. Residents accessing those streets from the south
+- would be expected to use 95th Street to Lee Boulevard instead. The goal is to reduce
+- Abbas Haideri — Asked whether survey results were broken out by street, and whether streets
+- ◦Staff confirmed that results were available per street and shared them with the
+
+## [leawood#5] 2026-09-08 | Governing Body-Work Session | agenda
+- eight and mayor elected a with government, separately form Council/Mayor a under operates Leawood of
+- The public is invited to attend, however no public comments will be entertained during this Work Session
+- 2. ITEMS FOR DISCUSSION
+- A. Safe Streets for All (SS4A) Presentation
+- Safe Streets for All (SS4A) Presentation
+- The consultant team will begin the work session with a short introduction to Safe Streets Leawood,
+- the Safe Streets for All (SS4A) Program, and the project goals. The presentation will explain how the
+- project is focused on Leawood through data collection, policy reviews, community input, and
+- identifying safety projects
+- (HRN), along with feedback gathered through online and in-person community engagement. The
+- team a lead then recommendations and project safety introduce then will countermeasures
+- discussion with the group. The work session will end with a review of the next steps and the project
+- Safe Streets
+- more dangerous than it feels behind the wheel
+- Welcome and Project Scope Overview
+- Community Feedback
+- Governing Body Discussion and Next Steps
+- Project Scope
+- City Project Management Team
+- LEAWOOD SAFE STREETS
+- FOR ALL GRANT
+- Grant Application Submitted: June 2023
+- Grant Award: December 2023
+- Grant Agreement: January 2026
+- Project Start: April 2026
+- Total Project Cost: $565,000
+- Federal Grant: $452,000
+- PROJECT OUTCOMES
+- Develop and Adopt a Vision Zero Action Plan
+- (Safe Streets Leawood)
+- Priority Projects
+- Update the Self-Propelled Leawood Plan
+- Strategy & Project Selections
+- LEAWOOD SS4A GRANT
+- Awarded in December 2023
+- Develop a Vision Zero Action Plan
+- TAILORING THE PLAN FOR
+- Complete Streets Policy
+- Self-Propelled Leawood (Bike/Pedestrian Plan)
+- Project identification & toolbox
+- Quick improvements
+- Short- & long-term projects
+- Toolbox of safety improvements (countermeasures)
+- Update to 2014 plan:
+- Prioritized pedestrian improvements
+- Includes all crashes on city border roads
+- and vulnerable road users
+- V ulnerable Road U ser
+- Identifying the street segments and intersections
+- capital improvements, short-term
+- Project Engagement
+- Project Advisory Group Meetings (8 meetings)
+- Project webpage, online survey, mapping activity, community pop-up events (3),
+- requests for physical traffic calming and targeted speed
+- parks, and trails
+- Project Advisory Group meetings
+- To review draft Safe Streets Leawood plan
+- Intersection Safety Improvements
+- Dedicated Left-Turn Lanes / Signal Separate space for vehicles waiting to turn left and protected left turn signal
+- Curb Extensions Narrowing of street width at intersections or the midblock
+- Speed Feedback Signs Permanent or portable sign to capture and display vehicle speed
+
+## [leawood#6] 2026-09-08 | Governing Body-Regular Session | agenda
+- 3. APPROVAL OF AGENDA
+- Governing Body. The Governing Body will not discuss or debate these items,
+- time. Speakers are requested to keep their comments to 3 to 5 minutes. A total
+- 6. PRESENTATIONS/RECOGNITIONS
+- Introduction of New Fire Chief Andrew Grove
+- A. Conduct a public hearing and consider a Resolution approving the levy
+- of a property tax rate exceeding the Revenue Neutral Rate for the City
+- 1. Open the public hearing and accept comments on the Revenue
+- Neutral Rate;
+- 2. Close the public hearing; and
+- 3. Consider a Resolution approving the levy of a property tax rate
+- B. Conduct a public hearing and consider an Ordinance adopting the Fiscal
+- Year and Kansas of Leawood, the for Budget Annual 2027 City
+- appropriating the amounts in each fund in the budget for Fiscal Year
+- accounts provided for therein; and approving and ratifying the payment
+- 1. Open the public hearing and accept public comments on the
+- proposed 2027 budget,
+- 2. Close the public hearing, and
+- 3. Consider an Ordinance adopting the Fiscal Year 2027 Annual
+- Budget for the City of Leawood, Kansas, and appropriating the
+- amounts Fiscal 2027, Year for each the in fund budget in
+- accounts provided for therein; and approving and ratifying the
+- C. Conduct a public hearing and consider a Resolution approving the 2027
+- 2031 Capital Improvement Program [CIP] for the City of Leawood,
+- 1. Open the public hearing and accept comments on the 2027-2031
+- Capital Improvement Program;
+- 3. Consider a Resolution approving the 2027-2031 Capital
+- Improvement Program
+- D. Consider Revisions to Salary and Expense Allowance for Governing
+- 1. Ordinance amending Section 1-208 of the Code of the City of
+- 2. Resolution approving and authorizing the salary and expense
+- E. Ordinance calling for a mail ballot election to be held on March 2, 2027,
+- eighth of one percent [0.125%] city retailers’ sales tax, and to adopt a
+- tax to commence on October 1, 2027, and expire ten [10] years
+- thereafter on September 30, 2037, such sales tax to be in addition to the
+- one percent [1.0%] city sales tax currently levied within the City of
+- tax infrastructure construction and for funding provide to street
+- improvements, stormwater improvements, public safety expenditures
+- Councilmember requests a separate discussion on an item, the item can be
+- removed from the Consent Agenda for further consideration
+- C. Appointment of Mayor Marc Elkins as the voting delegate and City
+- D. Resolution adopting the 2027 Fee Schedule for fees not specifically
+- Resolution No. 6456 (FN)
+- E. Resolution authorizing the use of Transient Guest Tax, in accordance
+
+## [leawood#7] 2026-09-09 | Gezer Region Sister City Committee | agenda
+- A. Approve minutes from the June 4, 2026, Gezer Region Sister City
+- assistance, etc.) in order to attend this meeting, please notify this office at (913) 339-6700 or email at
+- A. Approve minutes from the April 21, 2025, Gezer Region Sister City
+- A. Discuss the Maccabi Games and visit from the Gezer delegation
+- Taly gave a presentation on the Maccabi Games and the Gezer delegation trip
+- ceremony on August 3, athletic competitions, volunteer projects, teen and host
+- The Gezer Committee is planning a brunch at Gezer Park with Mayor Yadlin,
+- event will include an abbreviated tour of the park
+- Committee to request that the Governing Body reschedule this meeting so that the
+- Taly's presentation is attached for reference
+- JCC Cares (volunteer projects)
+- Show off Gezer Park
+- Housing (if applicable)
+
+## [leawood#8] 2026-09-21 | Governing Body-Regular Session | agenda
+- 3. APPROVAL OF AGENDA
+- Governing Body. The Governing Body will not discuss or debate these items,
+- time. Speakers are requested to keep their comments to 3 to 5 minutes. A total
+- 6. PRESENTATIONS/RECOGNITIONS
+- Councilmember requests a separate discussion on an item, the item can be
+- removed from the Consent Agenda for further consideration
+- D. Approve the 2027 Planning Commission calendar (PL)
+- E. Resolution designating holidays for the year 2027 in accordance with
+- F. Resolution approving and authorizing the Mayor to execute a letter of
+- G. Resolution amending Resolution No. 6348 previously adopted by the
+- to issue its industrial revenue bonds in the amount not to exceed
+- MXD LLC and its successors and assigns (sales tax exemption only)
+- H. execute to Mayor an authorizing and approving the Resolution
+- Agreement between the City and Viridity, LLC, in an amount not to
+- Irrigation Replacement Project 2026 (PRA)
+- I. Resolution and authorizing the Mayor to execute an approving
+- Agreement between the City and Foley Equipment Company, in an
+- J. Resolution approving a Revised Final Development Plan for Market
+- Square - Revised Design Criteria, located north of 135th Street and east
+- of Mission Road (PC-141-2026)
+- K. Resolution approving a Revised Final Development Plan for Leawood
+- Ash Street (PC-146-2026)
+- L. Approve the purchase of two (2) Yanmar Compact Track Loaders from
+- N. Police Department Monthly Report
+- O. Fire Department Monthly Report
+- A. Ordinance adding Section 16-4-6.16 to the Leawood
+- Development Ordinance entitled "Signs During Construction
+- B. Presentation of Construction of Sidewalks as part of the 2027
+- Residential Reconstruction Project
+- eight and mayor elected separately a with government, of form Council/Mayor a under operates Leawood
+- This icon [ ] indicates that an agenda item has been amended or added since the publication of the original agenda
+-  Non-zoning Ordinances: Majority of the members-elect of the City Council [5]
+-  Charter Ordinances: 2/3 of members-elect of Governing Body [6]
+-  Zoning Ordinances and other Planning Commission Recommendations:
+- o Passage of Ordinances Subject to Protest Petition: 3/4 majority of members of Governing Body [7]
+- o Approving Planning Commission Recommendation: Majority of the members-elect of the City Council
+- o Approving, Overriding, Amending or Revising Recommendation after Remand: Majority of the
+- o Overriding, Amending or Revising Recommendation: 2/3 majority of membership of Governing Body
+- Plant native milkweed and nectar-rich flowering plants in gardens, parks, and public
+
+## [leawood#9] 2026-09-21 | Governing Body-Work Session | agenda
+- eight and mayor elected a with government, separately form Council/Mayor a under operates Leawood of
+- The public is invited to attend, however no public comments will be entertained during this Work Session
+- 2. ITEMS FOR DISCUSSION
+- A. Receive presentation from Federal Realty, owners of Leawood Town
+- improve the center and Community Improvement District request to
+- assist with the improvements
+- Receive presentation from Federal Realty, owners of Leawood Town Center Plaza and Town Center
+- Crossing, regarding upcoming plans to improve the center and Community Improvement District
+- request to assist with the improvements
+- As a backdrop to the discussion, it is important to note that Leawood Town Center Plaza and
+- of the City of Leawood's entire sales tax base
+- In total, Federal Realty plans to undertake an approximately $59.8 million redevelopment project to
+- improve Leawood Town Center Plaza. This would include utility upgrades, parking lot resurfacing
+- and sidewalks, roof replacement, tenant improvements, common area signage improvements,
+- exterior building improvements, artwork, site furnishings, a development of a new pad site on the
+- north side of the property, the development of an outdoor plaza, and LED lighting improvements
+- In order to assist the project, they are requesting the establishment of a Community Improvement
+- District (CID), which would place an extra one cent sales tax upon sales within the shopping centers
+- to help fund the improvements. The CID would last up to 22 years, or until such time the agreed
+- upon revenue has been generated. In this case, Federal is requesting approximately $35.6 million
+- from CID-generated revenue over 22 years. The ratio of private funding to CID funding would be
+- Federal Realty estimates that the redevelopment investments will yield an additional $19.1 million in
+- new incremental sales tax revenue to the City over the 22-year term
+- Town Center Leawood CID Presentation
+- Project Scope
+-  Final Development Plan Submission – October 2026
+-  Bid and Permits – 1 Q 2027
+- Budget I tem Total Costs CID Elig ib le CID Use s Capi tal Depl oyed (T hrough 1 2/ 26)
+- Projected Sales (Town Center Plaza) $ 1 50, 000, 000
+- Projected S ales (Town Center Crossing) $ 1 50, 000, 000
+- Projected Growth in Annual S ales 3. 00%
+- discussing a Town Center Community Improvement District (“CID”) for the redevelopment and
+- revitalization of the Town Center properties located respectively at 5000 W. 119th Street and
+- 4555 W. 119th Street in Leawood, KS (collectively, the “Property” or “Project”). This letter is
+
+## [leawood#10] 2026-09-23 | Board of Zoning Appeals [BZA] | agenda
+- Board of Zoning Appeals [BZA] Meeting
+- 3. APPROVAL OF MINUTES
+- the to Exception an for High - Dr. 8025 66-2026 Case Request
+- Case 67-2026 10300 Howe Dr. - Request for an Exception for the
+- Case 68-2026 10300 Howe Dr. - Request for a fence height Exception
+- Case 69-2026 2000 W. 85th Ter. - Request for an Exception for the
+- Case 70-2026 2000 W. 85th Ter. - Request for a fence height Exception
+- Case 71-2026 8304 Meadow Ln. - Request for an Exception for the
+- Board of Zoning Appeals [BZA] Meeting – September 23, 2026
+- Case 72-2026 10322 Lee Blvd. - Request for a Variance to the front
+- Case 73-2026 8637 Overhill Rd. - Request for a Variance to the
+- Case 74-2026 8120 Sagamore Rd. - Request for a Variance to the side
+- assistance, etc.) to attend this meeting, please notify Ron Jones at (913) 663-9169 or email at
+- mayhegee-:2 She;ewer?Ft?eeefee :me?eg are» rsee -" eeejee1mm eh“
+
+## [leawood#11] 2026-09-28 | Governing Body-Work Session | agenda
+- eight and elected separately a with government, mayor form Council/Mayor a under of operates Leawood
+- The public is invited to attend, however no public comments will be entertained during this Work Session
+- 3. ITEMS FOR DISCUSSION
+- A. Discuss and identify shared priorities and policy direction for the Rooted
+- and Reaching Comprehensive Plan
+- Discuss and identify shared priorities and policy direction for the Rooted and Reaching
+- Comprehensive Plan
+- This will be a continuation of the discussion held during the August 17, 2026 Joint Work Session
+- The project team with Olsson will return to facilitate further discussion amongst Governing Body and
+-  An agenda for the session that identifies the 6 topic areas for discussion along with an
+-  A Discussion Guide with an in-depth explanation of each topic area, along with more detailed
+- questions to consider for each
+- Olsson staff will facilitate the discussion focusing on the main questions identified for each area on
+- the agenda. Please utilize the detailed questions found in the Discussion Guide in considering each
+- Discussion Guide
+- Presentation
+- LEAWOOD ROOTED & REACHING COMPREHENSIVE PLAN
+- Meeting purpose, discussion format, and desired outcomes
+- 5:40 PM | Policy Discussion
+- 1. Redevelopment, Economic Vitality & Fiscal Sustainability
+- community character and encouraging redevelopment that supports long-term fiscal
+- 3. Housing Choice & Residential Growth
+- What mix of housing types and residential development should Leawood support over the next
+- 4. The Future of 135th Street
+- What is the long-term vision for 135th Street, and how should transportation, land use, housing,
+- commercial development, and placemaking work together to achieve it?
+- shaping Leawood's future growth and redevelopment decisions?
+- Identify areas of consensus
+- Discuss next steps for plan revisions and adoption
+- Leawood Leadership Work Session | Leawood: Rooted and Reaching Comprehensive Plan
+- Purpose of This Discussion
+- Olsson prepared the draft Leawood: Rooted & Reaching Comprehensive Plan, which was distributed to the
+- Governing Body and Planning Commission for review and comment in June 2026. Since its release, the project
+- Those comments are currently being reviewed and will help inform the next round of revisions to the plan to
+- understanding of several key policy issues that emerged repeatedly throughout the planning process and plan
+- review. These issues represent areas where additional discussion, clarification, and direction from leadership
+- would strengthen the final plan and provide a clearer foundation for future policy decisions
+
+## [leawood#12] 2026-09-30 | Stormwater Management Committee | agenda
+- Stormwater Management Committee Meeting
+- Tom Kimes, Sr. Project Engineer
+- Leslie Walton, Contract & Admin Supervisor
+- To recommend to the Governing Body how to enhance the stormwater policy; and to provide a forum
+- for citizens, staff, and Council to discuss and study stormwater concerns and issues
+- assistance, etc.) in order to attend this meeting, please notify this office at (913) 339-6700 or email at
+
+## [leawood#13] 2026-10-07 | Public Works Committee | agenda
+- Leslie Walton, Contract & Admin Supervisor
+- assistance, etc.) in order to attend this meeting, please notify this office at (913) 339-6700 or email at
+
+## [leawood#14] 2026-10-07 | Yilan Sister City Committee | agenda
+- A. Approval of minutes from the June 17, 2026 meeting
+-  Confirmation of acceptance of Standard Agreement and Contracts
+- assistance, etc.) in order to attend this meeting, please notify this office at (913) 339-6700 or email at
+- Minutes from the March 4 meeting were approved. Updated committee contact list and timeline were
+- July 4 – parade along Tomahawk Creek Parkway beginning at 10:00
+- July 4 – bigger & better ﬁreworks that evening at Leawood City Park
+- City Committee budget
+- aspect for the Year of the Fire Goat. Discussion was held before a vote for the selected Save the Date
+- go out in early January. Bobbi will purchase stamps and envelopes
+- Agreement to Geri, Kathy and Jana to be used with the Dance Team, restaurant, and AAA
+
+## [leawood#15] 2026-10-13 | Planning Commission-Work Session | agenda
+- The public is invited to attend, however no public comments will be entertained during this Work Session
+- Dinner Session - 5:30 P.M. - No Discussion of Items
+- A. Discussion of MXD and MXD-4 Required Use Ratios (Section 16-2-6.4)
+- Discussion of MXD and MXD-4 Required Use Ratios (Section 16-2-6.4)
+- Discuss potential revision to the required use ratios in the MXD and MXD-4 zoning districts
+- MXD (Mixed-Use Development District) and MXD-4 (Mixed-Use Development
+- Not less than 15% of the total floor area within the development shall be designated for
+- Infill Development: Not less than 5% of the total floor area within the development shall
+- including office and/or retail uses. Infill development is defined as either vacant or
+- underdeveloped land that is 15 acres or less, not within an existing development, but
+- fully constructed developments
+
+## [leawood#16] 2026-10-19 | Governing Body-Regular Session | agenda
+- 3. APPROVAL OF AGENDA
+- Governing Body. The Governing Body will not discuss or debate these items,
+- time. Speakers are requested to keep their comments to 3 to 5 minutes. A total
+- A. Fire Prevention Month [October]
+- 6. PRESENTATIONS/RECOGNITIONS
+- Councilmember requests a separate discussion on an item, the item can be
+- removed from the Consent Agenda for further consideration
+- F. Approve renewal of a Cereal Malt Beverage (CMB) License for Trader
+- G. for License (CMB) Beverage Cereal a of renewal Approve Malt
+- 95th Street (CC)
+- J. Resolution approving and authorizing the Mayor to execute documents
+- K. Resolution approving and authorizing the Mayor to execute the 2027
+- Employee Benefit Plan documents (HR)
+- L. Resolution approving and authorizing the Mayor to execute a Public
+- Lands Use Agreement between the City of Leawood and Everfast Fiber
+- M. Resolution accepting new developments and City improvement projects
+- N. Resolution accepting a Permanent Utility Easement from Grantor, Ellen
+- Lane pertaining to the 103rd Street Improvements Project (PW)
+- O. F. Grantor, Ellen from accepting Sidewalk Easement Resolution a
+- pertaining to the 103rd Street Improvements Project (PW)
+- P. Resolution approving and authorizing the Mayor to execute Amendment
+- No. 1 to the Professional Services Agreement between the City and
+- Memorial Design & City Hall Parking Lot (PW)
+- Q. Resolution approving a Revised Final Landscape Plan for Plaza Pointe
+- Busey Bank, located south of 135th Street and west of Roe Avenue
+- R. Resolution approving a Revised Final Development Plan for French
+- Corner - Flower Child (Restaurant), located north of 119th Street and
+- S. Resolution approving a Final Development Plan and Revised Final Plat
+- for Leawood Market Center Townhomes, located south of 135th Street
+- and east of Kenneth Road (PC-169-2026)
+- T. Brownstones, - Village East a Plat Final approving for Resolution
+- located south of 133rd Street and east of Pawnee Lane (PC-179-2026)
+- U. Approve the purchase of (7) 2027 Ford Police Interceptor Utility
+- Explorers and (1) F-150 from the City's local co-op bid dealer, Shawnee
+- V. Stormwater Committee Referral – Tomahawk Creek Parkway Phase II
+- X. Police Department monthly report
+- Y. Fire Department Monthly Report
+- eight and mayor elected separately with government, a form Council/Mayor a under operates Leawood of
+- This icon [ ] indicates that an agenda item has been amended or added since the publication of the original agenda
+-  Non-zoning Ordinances: Majority of the members-elect of the City Council [5]
+-  Charter Ordinances: 2/3 of members-elect of Governing Body [6]

@@ -1,0 +1,434 @@
+# merriam
+
+## [merriam#0] 2026-08-05 | Planning Commission | agenda
+- City Hall, 9001 W. 62nd Street
+- hearing assistance) in order to attend this meeting, please notify the
+- III. APPROVAL OF MINUTES
+- Approval of Minutes of June 3, 2026 Planning Commission Meeting
+- 1. PA26-000003: Request for approval of a final plat for Hardman's Resurvey
+- PA26-000003 Plat
+- PA26-000003 Parking Exhibit
+- Community Development Director
+- 9001 W. 62nd Street
+- Also Present: Bryan Dyer, Community Development Director, Yalanda Jackson, Recording
+- APPROVAL OF MINUTES OF MARCH 4, 2026 III
+- SHAWN MCCONNELL MOVED THAT THE PLANNING COMMISSION APPROVE THE
+- WAS UNANIMOUSLY APPROVED
+- 1. PA26-000002-GARNER’S 53 RD STREET ADDITION FINAL PLAT
+- Community Development Director, Bryan Dyer, introduced Planner, Andrea Morgan, to
+- present to the commissioners the Garner’s 53rd Street Addition Final Plat
+- Ms. Morgan presented to the commission the request for a final plat for Garner’s addition
+- located at the northeast corner of W. 53rd Street and Garner Street
+- Street near the corner of W. 53rd Street and Garner Lane
+- lot will be off W. 53rd Street
+- Mr. Dyer stated that the new driveway must be at least three feet away from the property
+- Chairperson Bill Bailey asked the applicant present would they like to make a presentation
+- SHAWN MCCONNELL MOVED THAT THE PLANNING COMMISSION APPROVE PA26
+- 000002 GARNER’S 53 RD STREET ADDITION FINAL PLAT AND FORWARD TO THE CITY
+- FOWLER SECONDED THE MOTION. THE MOTION WAS UNANIMOUSLY APPROVED
+- 2. PUD26-000001-IKEA PARKING DECK REMOVAL FINAL DEVELOPMENT PLAN
+- Community Development Director, Bryan Dyer, presented the request for a revised final
+- development plan for IKEA’s Parking Structure, located at 6000 IKEA Way. Mr. Dyer stated
+- that the request is to remove the parking structure which is approximately 65,000 square
+- feet. The structure is at the end of its lifespan and a maintenance concern. The structure is
+- amount of parking spaces that will remain and are confident there will be enough parking for
+- Commissioner Nida Dillion asked about the timeline on how long the project will take
+- Commissioner Sarah Limbocker asked will there be a reduction in accessible parking with
+- the removal of the parking structure
+- Mr. Dyer stated that he does not believe there is any accessible parking on the upper level
+- Commissioner Kelsey Miller asked when the parking structure was constructed
+- Mr. Dyer stated the parking structure was constructed with the building which was
+- Ms. Miller asked if that is the typical length of a parking structure because if doesn’t seem
+- Mr. Dyer stated there were concerns when the parking structure when it was originally built
+
+## [merriam#1] 2026-08-10 | City Council Work Session | agenda
+- City Hall, 9001 W. 62nd Street
+- hearing assistance) in order to attend this meeting, please notify the
+- Anna Slocum, Parks and Recreation Director
+- City Council Strategic Priority IV - Support a public art program throughout the City - Key
+- Measure B: Advance Council consideration of a long-term public art funding framework,
+- public art ordinances and programs implemented by several regional municipalities. The initial
+- proposal recommended that commercial and multifamily development projects valued at of $1
+- million be required to participate. The projects would install a publicly accessible work of art
+- on-site or contribute to a Public Art Fund to support future community public art projects
+- During the discussion, City Council expressed support for continuing development of the
+- program and provided initial policy direction, including exempting affordable housing
+- developments from the ordinance. That has been addressed in the current draft
+- As staff has worked to finalize the proposed ordinance, several policy questions remain that
+- require City Council direction before the ordinance can be completed and presented for
+- 1. Development Threshold to develop fee schedule: What is the appropriate development
+- graduated percentage based on project valuation?
+- Commissions recognized are Planning Commission, Parks and Recreation Advisory Board,
+- Board of Zoning Appeals and Board of Structure Appeals. Boards and Commissions members
+- are appointed by the Mayor with consent of City Council. Terms of service are defined in
+- Merriam Code of Ordinances for each board or commission
+- City Council 4.3 defines Ad-Hoc Committees and the structure. Members are appointed by the
+- City Administrator to appoint a staff liaison to assist the committee in coordinating its efforts
+- The Mayor appoints the committee chair. Meetings are scheduled as needed. Action of the
+- Staff led volunteer committees. This type of committee is used for planning. Staff is appointed
+- DRAFT ORDINANCE - 1% for Art
+- ORDINANCE NO. ________
+- AN ORDINANCE AMENDING CHAPTER 14 OF THE CODE OF ORDINANCES OF
+- allocated funds for art installations through the Capital Improvement Program Budget; AND
+- through alternative means including by way of private sector development occurring in Merriam;
+- SECTION 1. That Chapter 14 of the Merriam Code is hereby amended to add a new article that
+- permanent, temporary, or functional, shall stand alone or be integrated into the architecture
+- or expression, media and of broadest range the landscaping and should encompass
+- b) Commercial Development. The construction, erection, or remodeling of any principal
+
+## [merriam#2] 2026-08-13 | Public Art Committee | agenda
+- hearing notify please meeting, this the to order in assistance) attend
+- 1. Consider approval of the July 23, 2026 Public Art Committee minutes
+- IV. PROJECT UPDATES
+- 2. Master Plan Review - Possible Future Site Discussions
+- Anna Slocum, Parks and Recreation Director
+- 1. Consider approval of the June 18, 2026 Public Art Committee minutes
+- Committee Member Gomez made a motion to approve the June 18, 2026 minutes
+- 1. Discussion of Round 2 scoring
+- The committee discussed whether there was a need to consider any additional artists,
+- discussion; eight of Seven nominated. the artists additional no were however,
+- General Discussion
+- Committee members discussed several overarching themes they hope to see reflected
+- Discussion of Finalists
+-  The committee discussed Scott Trimble's use of wood as a primary material and
+- demonstrates creativity and thoughtful design. Members expressed interest in
+- seeing how he might interpret the project site and expand possibilities for the
+-  The committee also discussed concerns regarding the number of large-scale
+- projects completed in recent years and whether a predominantly metal
+- installation would best complement the character of the project site. Some
+- members expressed interest in seeing materials incorporated that would soften
+- The committee discussed the process and timeline for the next phase of the selection
+- Questions and discussion included:
+-  Project Location: The general project area has been identified. Artists will be
+- to the existing landscape discussed during the design review process
+-  Site Information: While artists will be encouraged to visit the project site, staff will
+- coordinate with the Police Department to obtain drone footage of the Butterfly
+-  Artist Notification: Semi-finalists will be notified through the CaFE system and
+- notified until the selected artists have formally accepted their invitations. Staff
+- will coordinate with the former committee liaison to ensure the notification
+- process is consistent with the procedures used during the 2025 project
+- August Committee Meeting Discussion
+- The committee discussed whether to cancel the August meeting while waiting for artist
+- Potential discussion topics include:
+-  Identifying future public art locations throughout the community
+-  Exploring opportunities within the South Park/Brown Park area following the
+- the church to participate in future discussions
+-  Requesting assistance from the City's Economic Development staff in
+-  Revisiting the Public Art Master Plan to evaluate priority locations in light of
+- changes to the community since the plan's adoption
+
+## [merriam#3] 2026-08-18 | Downtown Master Plan Steering Committee | agenda
+- Downtown Master Plan Steering Committee
+- hearing notify please meeting, this the to order in assistance) attend
+- Review community feedback, discuss the draft vision, guiding principles, and
+- strategies, and weigh in on three visions for the scale of Downtown Merriam
+- as part of the Downtown Master Plan. Final survey results are attached and will
+- be presented and discussed at the August 18 Steering Committee meeting
+- 1. 2026 Merriam Downtown Master Plan Survey Results
+- III. DISCUSS DRAFT VISION AND GUIDING PRINCIPLES
+- IV. DISCUSS DRAFT STRATEGIES
+- Strategies drawn from the market analysis and everything heard through
+- 1. Downtown Master Plan Market Analysis
+- Q2. How many years have you lived and/or owned/operated a business in Merriam? (residents)
+- owned/operated a business in Merriam Number Percent
+- Q4. The vision defined by the community in the 2040 Comprehensive Plan describes a Downtown that is
+- noticeably different from today-more dining and local shops, more walkable streets, new public spaces, and
+- some added housing. Please rate your level of support for the City of Merriam moving in this direction for
+- Q5-2. Keeping stormwater
+- stormwater from carrying
+- Keeping stormwater from carrying pollution into the
+- More housing options 17 3.9 %
+- Parks & family amenities 25 5.7 %
+- More parking options 7 1.6 %
+- Parks & family amenities 51 11.6 %
+- More parking options 12 2.7 %
+- More housing options 15 3.4 %
+- Parks & family amenities 46 10.4 %
+- More parking options 31 7.0 %
+- More housing options 49 11.1 %
+- Parks & family amenities 122 27.7 %
+- More parking options 50 11.3 %
+- Q8. Adding homes Downtown, such as apartments, townhomes, or housing above shops, is one way to
+- bring more activity and support to local businesses. Please rate your level of support for adding housing in
+- Q8. Your level of support for adding housing in
+- Q9. Building heights can affect the character of downtown, the amount of housing and business space
+- available, and how development fits into surrounding neighborhoods. As Downtown Merriam evolves, what
+- building scale feels most appropriate?
+- Q9. What building scale feels most appropriate Number Percent
+- building scale feels most appropriate? (without "not sure")
+- which limits expansion and redevelopment?
+- floodplain which limits expansion & redevelopment Number Percent
+- which limits expansion and redevelopment? (without "not sure")
+- City should invest in major flood improvements that keep
+- Q14. Some Downtown improvements could happen on land that is already outside the floodplain. Large
+- flood-control projects, by contrast, would take many years and major public funding. Which comes closest
+
+## [merriam#4] 2026-09-02 | Planning Commission | agenda
+- City Hall, 9001 W. 62nd Street
+- hearing assistance) in order to attend this meeting, please notify the
+- III. APPROVAL OF MINUTES
+- Approval of August 5, 2026 Planning Commission Meeting Minutes
+- 1. SDP26-000001: Request for approval of a site development plan for
+- Site Plan and Elevations - Concrete Materials
+- 2. Consider finding the City of Merriam 2026-2031 Capital Improvement
+- Program to be in conformance with the Merriam Comprehensive Plan
+- Staff Memo - 2026-2031 Capital Improvement Program
+- 2026-2031 Capital Improvement Program
+- 3. Approval of the 2027 Planning Commission Calendar
+- Community Development Director
+- 9001 W. 62nd Street
+- Also Present: Bryan Dyer, Community Development Director, Yalanda Jackson, Recording
+- APPROVAL OF MINUTES OF JUNE 3, 2026 III
+- SHAWN MCCONNELL MOVED THAT THE PLANNING COMMISSION APPROVE THE
+- WAS UNANIMOUSLY APPROVED
+- 1. PA26-000003-HARDMAN’S RESURVEY OF JOHNSON’S FINAL PLAT
+- Johnson’s Subdivision Final Plat
+- Mr. Bryan Dyer showed the separation of both lots on the power-point presentation
+- Vice Chairperson Cole Stephans asked if the applicant would like to make a presentation
+- not have a presentation to make; however, Mr. Smith had questions for the commissioners
+- mitigation project for the area at this time
+- KELSEY MILLER MOVED THAT THE PLANNING COMMISSION APPROVE PA26-000003
+- HARDMAN’S RESURVEY OF JOHNSON’S SUBDIVISION FINAL PLAT AND FORWARD TO
+- SECONDED THE MOTION. THE MOTION WAS UNANIMOUSLY APPROVED
+- Mr. Dyer stated that the Downtown Master Plan project continues to be ongoing at this time
+- Mr. Dyer provided updates on the development projects: Trader Joe’s is close to completion,
+- the Serano apartments are under way, Genesis automobile dealership is near completion
+- numerous remodeling projects going on currently
+- Mr. Dyer asked the Commission if they had any further questions about the development
+- the utility poles on Antioch Road next to Trader Joe’s
+- pedestrian walkway across Shawnee Mission Parkway connecting Grand Station and Grand
+- Mr. Dyer stated that he will bring the CIP plan to the Commission for their annual review and
+- Mission Parkway
+- With no further business for discussion, Vice Chairperson Cole Stephens asked for a motion for
+- Community Development Staff Report
+- SDP26-000001 – Concrete Materials Site Development Plan
+- Application: SDP26-000001 – Concrete Materials Site Development Plan
+- Request: Approval of a site development plan for an additional building
+- Property Address: 9900 W. 75th Street
+- Current Zoning and Land Use I – 1 (Light Industrial) District; developed
+- Surrounding Zoning and Land Use I – 1 (Light Industrial ) District to the
+
+## [merriam#5] 2026-09-14 | City Council Work Session | agenda
+- City Hall, 9001 W. 62nd Street
+- hearing the notify meeting, this please to order in assistance) attend
+- DOWNTOWN MASTER PLAN UPDATE
+- work completed since the July 13 Council update. The presentation covers five
+- which drew 471 responses from residents and business owners; feedback from
+- five potential funding sources for downtown improvements; the three vision
+- All three scales of change are presented for discussion. No selection is
+- requested at this meeting. The Steering Committee records a vision preference
+- Planning Commission and City Council each receive the final draft plan in
+- Comprehensive Plan 2040 amendment in 2027
+- No action is requested. Discussion and questions only
+- 1. Merriam Downtown Master Plan Work Session Presentation 9.14.26
+- Downtown Master Plan SurveyResultsToDate 9.14.2026
+- MOVING MERRIAM FORWARD · DOWNTOWN MASTER PLAN
+- 3 Funding tools identified
+- Prior briefing: City Council presentation, July 13, 2026 — existing conditions and work plan
+- Scale selected for Comprehensive Plan
+- and work plan
+- The formal Comprehensive Plan 2040 amendment is scheduled for 2027
+- Source: 2026 City of Merriam Downtown Master Plan Survey Findings Report, ETC Institute, September 2026
+- Partnerships or incentives
+- A quarter-cent sales tax
+- Adding housing
+- 49% support adding housing downtown; 28% oppose
+- quarter-cent sales tax to
+- incentives to attract
+- Source: ETC Institute, 2026 Downtown Master Plan Survey. Percentages exclude “not sure” responses
+- More housing options
+- More parking options
+- Parks and family features
+- Parking and housing rank lower as wishes
+- Source: ETC Institute, 2026 Downtown Master Plan Survey. Sum of respondents' top three choices
+- 72% Reliable parking for customers and employees
+- 1. Streetscape and public realm
+- improvements that bring more
+- are considering closing or selling ·
+- 9% are considering relocating
+- Source: ETC Institute, 2026 Downtown Master Plan Survey. Business owners and operators were 14% of respondents
+- improvements
+- Mostly sales tax A balanced mix
+- dedicating sales tax to downtown
+- Why sales tax polls the way it does
+- Residents who chose sales tax cited that much
+- Source: ETC Institute, 2026 Downtown Master Plan Survey
+- This is an overview of the tools. No funding strategy is recommended, and no source is attached to Vision A, B or C. That
+- 1 County stormwater cost share (SMAC) The largest single outside contribution available. Pays only for flood risk reduction — not land, buildings or streetscape. Percentage and schedule are
+- 2 County road cost share (CARS) Pays 50% of construction and inspection on eligible arterial and collector projects; the City pays design and right of way. Merriam Drive from 55th Street to Antioch is already funded at $7.58 million, with $5.2 million from
+
+## [merriam#6] 2026-09-28 | City Council | agenda
+- City Hall, 9001 W. 62nd Street
+- hearing notify please meeting, this the to order in assistance) attend
+- Public Hearing should be provided during the scheduled Public Hearing and
+- not during the Public Comment Period. Please note: individuals making
+- Public Comments will be limited to 3 minutes. The City reserves the right to
+- refuse Public Comments which are inconsistent with the parameters
+- All items listed under the heading are considered to be routine by the City
+- Council and may be enacted by one motion. There will be no separate
+- discussion of these items unless a Councilmember so requests, in which case
+- that item will be removed from the Consent Agenda and considered separate
+- 1. Consider approval of the minutes of the City Council meeting held
+- 2. Consider Approval of Facility Usage Agreement with Johnson County
+- Item Information Form - Facility Usage Agreement with JoCoNutrition
+- 1. Proclamation - Fire Prevention Week
+- 1. Consider Council Policy 15.0 Emergency Operations and Accept the City
+- 2. Consider approval of an Ordinance Amending Chapter 14, Article IV of the
+- Merriam Code of Ordinances related to Massage Therapy (first reading)
+- Item Information Form - Massage Therapy Amendment
+- 1. Downtown Master Plan Update
+- Memo - Downtown Master Plan Update
+- 3. Community Development Update
+- Monday, September 14, 2026 7:00 PM City Hall, 9001 W. 62nd Street
+- Anna Slocum, Parks and Recreation Director
+- Darren McLaughlin, Police Chief
+- the City Council Agenda that is the subject of a Public Hearing should be provided during the
+- scheduled Public Hearing and not during the Public Comment Period. Please note:
+- individuals making Public Comments will be limited to 3 minutes. The City reserves the
+- right to refuse Public Comments which are inconsistent with the parameters established
+- Downtown Master Plan. At that meeting it appears that the costs shown at the Open House
+- of the Johnson Dr. Bridge, and every utility network in historic Downtown. He feels this could
+- further commented that he feels the creek ownership is a big oversight by the City. The City
+- to work in the creek. He feels this is a major problem
+- 1. Consider approval of the minutes of the City Council meeting held August 24, 2026
+- 2. Consider bid award to Total Electric, Inc. for the 2026 Streetlight Conduit Project
+- Councilmember Chivetta made a motion to approve consent agenda items 1-2
+- Councilmember Hands seconded and the motion was unanimously APPROVED
+- Ms. Melby provided some statistics for 2025. There were 877 Police report referrals to
+- co-responders; there were 318 cases where the co-responder was on scene to a police
+
+## [merriam#7] 2026-09-29 | Downtown Master Plan Steering Committee | agenda
+- Downtown Master Plan Steering Committee
+- hearing the notify meeting, this please to order in assistance) attend
+- Review the draft plan and the three vision frameworks for downtown, then ask each
+- considered stakeholder community and all the vision online alongside survey,
+- prepares the final draft plan
+- Where the plan stands, what we heard at the September 1 public workshop
+- A 15-minute presentation on the District’s role along Turkey Creek
+- housing and commercial targets, and timing
+- 1. Steering Committee #4 Presentation
+- community survey. The final draft plan goes to the Planning Commission on
+- 03 Guiding principles and strategies
+- 06 Development targets by vision
+- 12 Discussion and ballot
+- DOWNTOWN MERRIAM MASTER PLAN // STEERING COMMITTEE #4 // SEPT. 29, 2026 CITY OF MERRIAM, KANSAS
+- Housing units 1 0 1
+- Sources: Civitas Strategies (May 19, 2026); CoStar; City of Merriam. North of Turkey Creek is out of the regulatory floodplai n on the most
+- Downtown Merriam is a place that feels like
+- FAVOR A MODERATE
+- CENT SALES TAX FOR
+- IMPROVEMENTS
+- *Flood control and roadway projects requiring acquisition of private property
+- *New buildings don’t feel authentic to Merriam
+- *Apartments being located in Downtown
+- Turkey Creek, stormwater and open space
+- road, rail and creek
+- Around the clock. The right housing in the right
+- Taxpayer return on investment
+- EIGHT STRATEGIES, EVERY SCALE
+- 1 Concentrate housing within a half mile of the
+- 7 Make Downtown feel comfortable: light, shade,
+- housing, whether a flood control project is pursued, and what it costs
+- They are numbered here so the plan can come back to them: each vision section shows how it addresses each one
+- 1 THE FLOODWAY LIMITS ACCESS, NOT JUST DEVELOPMENT 2 TURKEY CREEK IS A DRAW AND A COST
+- 5 TRUCKS AND BUSES ON STREETS MEANT FOR PEOPLE 6 THE BNSF RAILROAD: MANY TRAINS, NO SPUR; CANNOT MOVE
+- 11 THE CITY OWNS THE MOST LAND, BUT THE PARCELS ARE SMALL 12 EVENTS GENERATE ACTIVITY THAT COULD SUPPORT ADDITIONAL BUSINESSES
+- Street right-of-way 7.1 ac
+- Private street / road 5.9 ac
+- General recreation park 4.5 ac
+- Warehouse-office combination 1.8 ac
+- Warehouse distribution / storage facility 1.4 ac
+- Warehouse-office strip / complex 1.3 ac
+- Building / development / general contracting 1.1 ac
+- Warehouse-retail combination 0.4 ac
+- Mini-storage warehouse / self -storage 0.2 ac
+- a Main Street pattern
+- Warehouse-type functions cover
+- Improvements over half a building’s value
+- Flood protection projects reduce risk. They
+- Industrial and warehouse · 6 buildings 31,256 SF
+- BUILDING VALUE ON THE PRIVATELY OWNED FLOODPLAIN PARCELS AND THE 50% THRESHOLD, USING COUNTY IMPROVEMENT VALUE AS THE PROXY
+
+## [merriam#8] 2026-10-01 | Public Art Committee | agenda
+- hearing assistance) in order to attend this meeting, please notify the
+- 1. Consider approval of the August 13, 2026 Public Art Committee minutes
+- IV. PROJECT UPDATES
+- 1. Matthew Mazzotta Presentation
+- 2. Asheer Akram Presentation
+- 3. W. Scott Trimble Presentation
+- Anna Slocum, Parks and Recreation Director
+- 1. Consider approval of the July 23, 2026 Public Art Committee minutes
+- Committee Member Schoonover made a motion to approve the July 23, 2026
+- questions related to the project and the site. Those in attendance were: Asheer
+- Chairperson McConnell provided a brief recap of the project, site and expectations of
+- the committee for this project. Committee members took a few minutes to introduce
+- Questions / requests asked by the artists / representatives that require follow-up by
+- 2. Provide a site plan with utilities, radio lines of where not to interact based on
+- 3. Access plan for heavy equipment
+-  The City of Merriam has an art maintenance budget. Facilities staff contract with
+- maintenance plan provided by the artist at time of installation. One artist uses
+- Additional discussion after the artists were done included:
+-  Revamp of the butterfly garden to incorporate the art
+-  Maintenance of parkland is managed by Public Works
+-  There was discussion regarding the initial area. It was not intended to exclude
+- 2. Master Plan Review - Possible Future Site Discussions
+- interest to collaborate as their project does have an outdoor plaza but at this time the
+- group is focused on bringing their project to fruition. There was discussion about adding
+- something to Brown Park. The park is an linear park, and the large green space across
+- Committee members would like to be more efficient with preparing for projects. When
+- working on one project, if the timeline creates a gap waiting for the completion of an
+- item, use that time to prepare for future projects
+- Future items mentioned included downtown, bus stops, crosswalk to Antioch Park and
+- a walking bridge over Shawnee Mission Parkway. Downtown is off the table until a
+- solution for the creek project is known. In conversations regarding bus stops, these
+- route / stop based on need with little notice. There is a discussion about a countywide
+- Master Plan of Transportation. There is discussion to add a "hawk" signal at the
+- crosswalk at Antioch Park. This requires a traffic study along with improvements to
+- Antioch. First mentioned in 2004, the walking bridge over Shawnee Mission Parkway is
+- evaluating the flow of traffic at I35 and Shawnee Mission Parkway with elements to
+- the proposed 1% for Art Ordinance for review. The goal is to seek approval of this
+
+## [merriam#9] 2026-10-12 | City Council | agenda
+- City Hall, 9001 W. 62nd Street
+- hearing the please meeting, this notify to order in assistance) attend
+- Public Hearing should be provided during the scheduled Public Hearing and
+- not during the Public Comment Period. Please note: individuals making
+- Public Comments will be limited to 3 minutes. The City reserves the right to
+- refuse Public Comments which are inconsistent with the parameters
+- All items listed under the heading are considered to be routine by the City
+- Council and may be enacted by one motion. There will be no separate
+- discussion of these items unless a Councilmember so requests, in which case
+- that item will be removed from the Consent Agenda and considered separate
+- 1. Consider approval of the minutes of the City Council meeting held
+- 2. Consider approval of FY27 funding recommendations for the Human
+- 3. Consider the 2027 Flag Display Calendar
+- 4. Consider approval of an Agreement with Olsson for design services for the
+- Shawnee Creek Channel project
+- 1. Presentation of Kansas Law Enforcement Accreditation Program
+- Memo - Presentation of KLEAP Certificate
+- 2. Savvy Awards Presentation
+- 3. Employee Service Awards 3rd Quarter 2026
+- Memo - Employee Service Awards 3rd Quarter 2026
+- 1. Consider approval of an Ordinance Amending Chapter 14, Article IV of the
+- Merriam Code of Ordinances related to Massage Therapy
+- Item Information Form - Massage Therapy Amendment
+- 2. Consider approval of a ordinances adopting the 2024 Fire and Building
+- Item Information Form - 2024 Fire and Building Codes adoption
+- 1. Downtown Master Plan Update
+- a. Potential Downtown Sales Tax Ballot Initiative
+- Memo - Downtown Sales Tax
+- 1. Parks & Recreation Advisory Board Sep 22 2026 Minutes
+- Executive Session for preliminary discussion regarding property acquisition
+- Monday, September 28, 2026 7:00 PM City Hall, 9001 W. 62nd Street
+- Bryan P. Dyer, Community Development Director
+- Darren McLaughlin, Police Chief
+- Jack Sparks,
+- the City Council Agenda that is the subject of a Public Hearing should be provided during the
+- scheduled Public Hearing and not during the Public Comment Period. Please note:
+- individuals making Public Comments will be limited to 3 minutes. The City reserves the
+- right to refuse Public Comments which are inconsistent with the parameters established
+- 1. Consider approval of the minutes of the City Council meeting held September 14, 2026
+- 2. Consider Approval of Facility Usage Agreement with Johnson County Nutrition
+- Councilmember Silvers made a motion that the council approve consent agenda
+- 1. Proclamation - Fire Prevention Week
+- Mayor Pape read the Proclamation declaring October 4-10 as Fire Prevention Week
