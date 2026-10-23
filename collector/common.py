@@ -65,7 +65,7 @@ _PATTERNS = [
 
 
 def _month(name):
-    return MONTHS.split("|").index(name[:3].lower()) + 1
+    return ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"].index(name[:3].lower()) + 1
 
 
 def find_date(*texts):
