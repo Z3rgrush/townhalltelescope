@@ -128,6 +128,15 @@
     - https://fairwaykansas.org/minutes
     - https://fairwaykansas.org/?SEC=9F2D6E4F-4BC3-4D37-A801-6A9477AE6E91
 
+- id: westwood
+  name: Westwood
+  county: Johnson
+  # Municode Meetings. Its robots.txt asks bots to stay out; Andy chose (2026-10-23) to collect
+  # these public records anyway, gently: weekly, with the polite delay and project user agent.
+  adapter: linkscan
+  pages:
+    - https://westwoodks.municodemeetings.com/
+
 - id: westwood-hills
   name: Westwood Hills
   county: Johnson
@@ -135,6 +144,13 @@
   pages:
     - https://www.westwoodhillsks.gov/agendas/City-Council
     - https://www.westwoodhillsks.gov/agendas/Planning-Commission
+
+- id: mission-woods
+  name: Mission Woods
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://www.missionwoods-ks.org/2026-council-meetings
 
 - id: lake-quivira
   name: Lake Quivira
