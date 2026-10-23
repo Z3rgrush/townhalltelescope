@@ -182,7 +182,10 @@ def linkscan(src, start, end, log):
                     h2, t2 = urljoin(sub_final, a["href"]), a.get_text(" ", strip=True)
                     if DOCLIKE.search(h2) and (KEYWORDS.search(t2) or KEYWORDS.search(h2)) and h2 not in seen:
                         seen.add(h2)
-                        yield Doc(src["id"], "City Council", d, f"{text} - {t2}", h2, kind_of(t2 + " " + h2))
+                        # Detail pages often list other meetings' files too, so trust a date in the file itself.
+                        d2 = find_date(t2, h2) or d
+                        if _in_window(d2, start, end):
+                            yield Doc(src["id"], "City Council", d2, f"{text} - {t2}", h2, kind_of(t2 + " " + h2))
 
 
 ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan)}

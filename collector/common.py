@@ -13,7 +13,7 @@ UA = "Mozilla/5.0 (compatible; townhalltelescope/0.1; +https://github.com/Z3rgru
 session = requests.Session()
 session.headers["User-Agent"] = UA
 
-MAX_BYTES = 40_000_000
+MAX_BYTES = 150_000_000
 MAX_PAGES = 60  # agenda packets can run to hundreds of pages; the first ones carry the agenda itself
 
 
