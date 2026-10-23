@@ -1,0 +1,854 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+City Council 
+ 
+ 
+October 20, 2026 
+Packet Addendum # 1 
+ 
+ 
+ 
+
+From: Diana Langley
+To: Christopher Leh; Barbara Hamlington; Judi Kern; Caleb Dickinson; Deb Fahey; Josh Cooperman; Dietrich Hoefner
+Cc: Executive Leadership Team; Kathleen Kelly (Email)
+Subject: Council Questions
+Date: Tuesday, October 20, 2026 9:42:35 AM
+Attachments: Infleqtion Enhanced BAP Agreement October 2026.docx
+image001.png
+image002.png
+image003.png
+RAB Meeting 2026.09.21 - Rec Center 2027 Admission Fees.pdf
+Good morning Council,
+ 
+Below are responses to Council Questions.
+ 
+October 20th Agenda
+ 
+Question – Item 5D – Business Assistance Agreement with Infleqtion Quantum, LLC - Section 4 provides
+for consumer-use-tax rebates (with a cap of $189,900 in Section 5(b)), but the § 11 termination provision
+does not appear to include the consumer-use-tax category in the event the Company ceases business
+operations. Is that the intent?
+Answer (Vanessa Zarate): That was not the intent. The edit has been made in the attached revised
+agreement. Also, from a practice standpoint, the City does not clawback if the business totally
+ceases operations – just if they move to a different jurisdiction.
+ 
+Question – Item 5H – Conditional Assignment of Preservation and Restoration Grant for the Grain
+Elevator at 540 County Road – Section 19 appears to have placeholders for the completion deadline.
+Should this reference the 60-month deadline from § 4? And, if so, § 4 may also need clarification since
+the property was landmarked in 2015.
+Answer (Rob Zuccaro): Thank you for pointing out these discrepancies. Staff will update the
+agreement with the owner to include the following edits:
+ 
+ 
+ 
+Questions – Item 8A – City Manager’s Final 2027-2028 Budget Presentation
+Golf Fund – The presentation shows approximately $3.1 million and $3.3 million in revenue for
+2027 and 2028, while the fund summary shows approximately $2.896 million and $2.937 million.
+Which figures reflect the proposed fee changes?
+Answer (Ryder Bailey): The $3.1M and $3.3M is accurate. The Budget by Fund summary has
+been updated, and will reflect the correct amounts for the November 2nd
+presentation/adoption.
+Northeast water loop - The CIP summary includes $780,000, while the project sheet estimates
+$1,005,550. Which is correct?
+Answer (Kurt Kowar): The project sheet estimate is correct. However, after some 2027/2028
+rate conversations, it has been decided to pull the northeast water loop out of the budget.
+ 
+November 2nd Meeting
+ 
+Question – 2027 City Manager Fees – Recreation Fees – How did staff and RAB develop the proposed
+increases for 2027?
+Answer (Diana Langley): At the September 21st RAB meeting, staff presented rate increase options
+and benchmark information for surrounding municipalities (report attached). Yesterday, Ryder
+also reached out to Kathy Martin requesting a brief summary of why the Daily Admission Non
+Resident Premiums (%s) vary between Daily, Punch, Monthly, and Annual. Ryder noted that at a
+high level, the Non Resident premiums (to Residents) are approximately the following:
+Punch Passes - ~100% premium
+Daily - ~70% premium
+Monthly - ~67% premium
+Annually - ~75% premium
+ 
+More information will be provided in the 2027 City Manager Fee Council Communication
+report. The intent is to keep this item on the Consent agenda.
+ 
+Questions – 2027-2032 Capital Improvement Program
+Golf Course Work Carts – The purchase of two work carts are programmed in 2028 and 2029 for
+$34,000 each. The project descriptions states, “If we add gas powered carts we would add them in
+2028 and electric carts are more expensive so we would add them in 2029 if directed to do so.”
+What is the cost of electric carts as compared to gas carts?
+Answer (Diana Langley): Staff will get that information and provide to Council prior to the
+November 2nd City Council meeting.
+Police and Municipal Parking Lot Expansion – The project proposes to install a 5,400 sf secure
+parking area for staff parking to the south of the existing parking lot. $20,000 is programmed in
+2027 for design and $100,000 is programmed in 2028 for construction. Is it possible to provide a
+secure parking area for staff without expanding the parking lot?
+Answer (Diana Langley): Potentially. This would require evaluating public parking needs,
+particularly when the municipal court is in session, and determining if a portion of the
+existing parking lot can be reconfigured to create a secure location for staff parking.
+ 
+Other Questions
+Question: For the State of the City event on November 9th, is there a registration fee to attend?
+Answer (Vanessa Zarate): No, there is no cost to attend the event.
+ 
+Please let me know if you have any additional questions.
+ 
+Diana Langley (she/her)
+City Manager
+303.335.4530 (office)
+720.762.7488 (cell)
+dlangley@LouisvilleCO.gov
+LouisvilleCO.gov
+ 
+ 
+1 
+ 
+ENHANCED BUSINESS ASSISTANCE AGREEMENT FOR 
+INFLEQTION QUANTUM, LLC IN THE CITY OF LOUISVILLE 
+ 
+THIS AGREEMENT (“Agreement”) is made and entered into as of the 
+_______ day of ______________________, 2026 (the “Effective Date”), between 
+the CITY OF LOUISVILLE, a Colorado home rule municipal corporation (the 
+"City"), and INFLEQTION QUANTUM, LLC (the “Company”), a Delaware limited 
+liability company. 
+ 
+ WHEREAS, the City  wishes to provide certain business assistance in 
+connection with the Company’s desire to expand its quantum technology business 
+in Louisville (the “Project”); and  
+ 
+WHEREAS, the Company currently occupies the space at 1315 W. Century 
+Drive in the City and plans to either expand within its existing space or relocate to 
+a new space within the City; and  
+ 
+WHEREAS, the Company’s expansion will bring new high-paying jobs to 
+the City, as well as generate new fee and tax revenues; and  
+ 
+ WHEREAS, the execution of this Agreement will provide a benefit and 
+advance the public interest and welfare of the City and its residents  by securing 
+this economic development project within the City; and 
+ 
+ WHEREAS, for the reasons set forth above, the City desires to provide 
+certain other rebates to Company as further described, and subject to the 
+exceptions, restrictions, and limitations as set forth, in this Agreement. 
+ 
+ NOW THEREFORE, in consideration of the mutual promises set forth 
+below, the City and Company agree as follows: 
+ 
+1. Building Permit Fee Rebates. The City shall rebate to the Company 50% of 
+the building related permit fees for the Project, required under section 
+15.04.050 of the Louisville Municipal Code (the “City Code”) and section 
+108.2 of the International Building Code as adopted by the City, for the 
+period from execution of this Agreement and ending December 31, 2027. 
+ 
+2. Use Tax Rebate-Construction. The City shall rebate to the Company 50% 
+of the Construction Use Tax on the construction materials for the Project, 
+required under section 3.20.300 of the City Code, excluding all revenues 
+from the Open Space Tax, Historic Preservation Tax, and Recreatio n 
+Center Tax for the Project, for the period from execution of this Agreement 
+and ending December 31, 2027. 
+ 
+3. Sign Permit Fee Rebates. The City shall rebate to the Company 50% of the 
+sign related permit fees for the Project, required under the City of Louisville 
+Sign Code, adopted by Ordinance 1779, Series 2019, and codified as 
+2 
+ 
+Appendix B to Chapter 17 of the City Code, and as may be amended from 
+time to time , for the period from execution of this agreement and ending 
+December 31, 2027. For purposes of this Section, “sign related permit fees” 
+include sign permit fees, in- house sign plan review, and the use tax 
+assessed on the valuation of signs installed as part of the Project. 
+ 
+4. Use Tax Rebate-Consumer.   
+ 
+a. T he City shall rebate to the Company the following: (i) 9 0% of the 
+Consumer Use Tax  paid and collected on  machinery; machinery 
+tools; software; and property used in space flight  purchased solely 
+for the Project ; and (ii) 50% of the Consumer Use Tax paid and 
+collected on fixtures and equipment.   
+ 
+b. In certain circumstances, Sales Tax may be included in this  rebate, 
+when the purchases were from companies with nexus with the City, 
+therefore allowing those companies to remit sales tax to the City. 
+Absent such nexus, Company would have remitted use tax to the 
+City. Amounts rebated hereunder shall exclude the City’s .5% Open 
+Space Tax, the .125% Historic Preservation Tax, the .15% 
+Recreation Center Tax, and any new use taxes. 
+ 
+c. The rebate shall apply only to items  purchased for the Company’s 
+expansion of operations and for use at the Project Location.  For 
+purposes of this Agreement, “Project Location” means either 1315 
+W. Century Drive or such other location within the City purchased or 
+leased by the Company for the Project. 
+ 
+d. The Consumer Use Tax rebated hereunder shall be rebated for a five 
+(5) year period commencing on the day the Company obtains a 
+certificate of completion/occupancy  for the Project (“the 
+Commencement Date”). The five-year rebate period shall commence 
+upon and run continuously from the Commencement Date.  No 
+rebate shall be issued for goods purchased prior to the 
+Commencement Date.  
+  
+5. Payment of Rebates; Cap; Inspection.   
+ 
+a. The maximum amount of the rebates payable pursuant to Sections 
+1, 2  and 3 above shall in no event exceed the lesser of (i) the 
+calculation of 50% of the fees or taxes described in Sections 1, 2 and 
+3 paid to the City , or (ii) ninety -one thousand two hundred and 
+fourteen dollars and twenty-five cents ($91,214.25).  
+ 
+b. The maximum amount of the rebates payable pursuant to Section 4 
+above shall in no event exceed the calculation of the percentages 
+described in Section 4 above; provided, further that the total 
+maximum amount of rebates payable pursuant to Section 4 shall in 
+3 
+ 
+no event exceed one hundred and eighty -nine thousand nine 
+hundred dollars ($189,900.00). Consumer Use Tax rebates pursuant 
+to Section 4 shall terminate when (a) the Company has received from 
+the City the last rebate payment under this Agreement for the five -
+year rebate period, or (b) the Company has received one hundred 
+and eighty -nine thousand nine hundred dollars  ($ 189,900.00) in 
+rebate payments, whichever occurs first.  
+ 
+c. The building permit fee, sign permit fee  and Construction Use Tax 
+rebates in Sections 1, 2 and 3 pertaining to the Project shall be paid 
+by the City to Company within 120 days following issuance of the 
+certificate of occupancy or final inspection for the Project work, as 
+reasonably determined by the City, subject to Sections 6 , 7 and 8 
+below.   
+ 
+d. The Consumer Use Tax rebate provided for in Section 4 above shall 
+be paid by the City to Company in annual installments, on or before 
+March 31 of the following year, subject to Sections 6, 7 and 8 below. 
+All rebate payments will be remitted by the City to the Company at 
+the address set forth in Section 9. At the end of each month, on or 
+before the 20th of the following month, the Company shall submit the 
+appropriate Sales/Use Tax return form and remit to the City its total 
+monthly Sales/Use Tax payment due for the previous month.   
+ 
+6. No Interest; Inspection and Disclosure of Records.  No interest shall be paid 
+on any amounts subject to rebate under this Agreement. Each party and its 
+agents shall have the right to inspect and audit the applicable records of the 
+other party, on reasonable notice during normal business hours,  to verify 
+the amount of any payment under this Agreement, and each party shall 
+cooperate and take such actions as may be necessary to allow such 
+inspections and audits. The Company acknowledges that implementation 
+of this Agreement requires calculations based on the amount of taxes 
+collected and paid by the Company with respect to the term of this 
+Agreement and issuance of rebate payment checks in amounts determined 
+pursuant to this Agreement, and that the amounts of the rebate payment 
+checks will be public information.  The Company, for itself, its successors, 
+assigns, and affiliated entities, hereby releases and agrees to hold harmless 
+the City and its officers and employees from any and all liability, claims, 
+demands, and expenses in any manner connected with any dissemination 
+of information necessary for or generated in connection with the 
+implementation of rebate provisions of this Agreement.  
+ 
+7. Use of Funds; Future Fees.  Funds rebated to the Company pursuant to this 
+Agreement shall be used by the Company solely for obligations and/or 
+improvements permitted under Louisville Municipal Code sections 3.24.060 
+and 3.25.040 , which includes, but is not limited to, creation of new tax 
+revenue and new jobs in the City  and for machinery; machinery tools; 
+software; and property used in space flight . The Building Permit Fee, Sign 
+4 
+ 
+Permit Fee and Construction Use Tax rebates provided for under this 
+Agreement are solely for construction activities and purchases for this 
+Project during the periods stated in Sections 1- 3, above. Any previous or 
+subsequent purchases and construction activities shall be subject to 
+payment without rebate of all applicable building permit fees , sign permit 
+fees and construction use taxes. 
+ 
+8. Effect of Change in Tax Rate.  Any increase or decrease in the City General 
+Sales, Construction Use, or Use Tax- Tangible Goods rate above or below 
+the applicable tax rate on the date of execution of this Agreement shall not 
+affect the rebate payments to be made pursuant to this Agreement; rather, 
+the amount of the rebate payments will continue to be based upon the 
+General Sales, Construction Use, or Consumer Use Tax rates applicable 
+on the date of execution of this Agreement (excluding the City’s 0. 5% Open 
+Space Tax , 0.125% Historic Preservation Tax , and 0.150 % Recreation 
+Center Tax). Any decrease in the City General Sales, Construction Use, or 
+Consumer Use Tax rates shall cause the amount of the rebate payments 
+made pursuant to this Agreement to be based on the applicable percentage 
+of revenues actually received by the City from application of the tax rate 
+affected (excluding said Open Space, Historic Preservation, Recreation 
+Center, or future special Sales or Use taxes). 
+ 
+9. Entire Agreement ; Notices .  This instrument shall constitute the entire 
+agreement between the City and the Company and supersedes any prior 
+agreements between the parties and their agents or representatives, all of 
+which are merged into and revoked by this Agreement with respect to its 
+subject matter.  Contact information is as follows: 
+ 
+If to Company: 
+Infleqtion Quantum LLC 
+Julie McFee 
+1315 W Century Dr Ste 100 
+Louisville, CO 80027 
+503-830-3306 
+Julie.McGee@Infleqtion.com 
+ 
+If to City: 
+Louisville City Hall 
+Attn: Economic Vitality 
+749 Main Street 
+Louisville, CO 80027 
+303-335-4531 
+EconomicVitality@LouisvilleCO.gov 
+ 
+10. Termination.  This Agreement shall terminate and become void and of no 
+force or effect upon the City if, by December 31, 2027, the Company has 
+not completed the Project as described in the Company’s application for 
+5 
+ 
+business assistance (as evidenced by a successful final inspection for the 
+Project); or should the Project fail to comply with any City code. 
+ 
+11. Business Termination.  In the event the Company, and/or its successors 
+and assigns, ceases business operations in the City within ten (10)  years 
+after the Certificate of Occupancy has been received for the Project, then in 
+such event the Company shall pay to the City a portion of the total amount 
+of Building Permit Fees,  Sign Permit Fees,  Construction Use Taxes, 
+Consumer Use Taxes, and Sales Taxes which were due and payable by 
+the Company to the City but were rebated by the City . For each full year 
+that the Company, and/or its successors and assigns, cease operations at 
+the Project Location, the City shall receive back 10% of the foregoing 
+amounts. 
+ 
+12. Subordination.  Notwithstanding anything in this Agreement to the contrary, 
+the City's obligations pursuant to this Agreement are subordinate to the 
+City's obligations for the repayment of any current or future bonded 
+indebtedness and are contingent upon the existence of a surplus in sales 
+and use tax revenues in excess of the sales and use tax revenues 
+necessary to meet such existing or future bond indebtedness.  The City 
+shall meet its obligations under this Agreement only after the City has 
+satisfied all other obligations with respect to the use of sales tax revenues 
+for bond repaym ent purposes.  For the purposes of this Agreement, the 
+terms "bonded indebtedness," "bonds," and similar terms describing the 
+possible forms of indebtedness include all forms of indebtedness that may 
+be incurred by the City, including, but not limited to, general obligation 
+bonds, revenue bonds, revenue anticipation notes, tax increment notes, tax 
+increment bonds, and all other forms of contractual indebtedness of 
+whatsoever nature that is in any way secured or collateralized by sales and 
+use tax revenues of the City. 
+ 
+13. Annual Appropriation.  Nothing in this Agreement shall be deemed or 
+construed as creating a multiple fiscal year obligation on the part of the City 
+within the meaning of Colorado Constitution Article X, Section 20 or any 
+other constitutional or statutory provision, and the Ci ty's obligations 
+hereunder are expressly conditional upon annual appropriation by the City 
+Council, in its sole discretion.  Company understands and agrees that any 
+decision of City Council to not appropriate funds for payment shall be 
+without penalty or liability to the City and, further, shall not affect, impair, or 
+invalidate any of the remaining terms or provisions of this Agreement. 
+ 
+14. Governing Law: Venue; Dispute Resolution . This Agreement shall be 
+governed and construed in accordance with the laws of the State of 
+Colorado.  This Agreement shall be subject to, and construed in strict 
+accordance with, the Louisville City Charter and the Louisville Municipal 
+Code.  Any action arising out of, in connection with, or relating to this 
+Agreement shall be filed in the District Court of Boulder County of the State 
+of Colorado and in no other court or jurisdiction.  In the event of a dispute 
+6 
+ 
+concerning any provision of this Agreement, the parties agree that prior to 
+commencing any litigation, they shall first engage in good faith the services 
+of a mutually acceptable, qualified, and experienced  mediator, or panel of 
+mediators for the purpose of resolving such dispute; except that, either party 
+may seek injunctive or other equitable relief in the District Court of Boulder 
+County without first submitting the dispute to mediation. The costs of any 
+mediation shall be split equally between the parties. The prevailing party in 
+any proceeding in District Court (or appeals thereof) shall be entitled to 
+reimbursement of its attorney fees related to such proceeding.  
+ 
+15. Legal Challenge; Escrow . The City shall have no obligation to make any 
+rebate payment hereunder during the pendency of any legal challenge to 
+this Agreement.  The parties covenant that neither will initiate any legal 
+challenge to the validity or enforceability of this Agreement, and the parties 
+will cooperate in defending the validity or enforceability of this Agreement 
+against any challenge by any third party.  Any funds appropriated for 
+payment under this Agreement shall be escrowed in a separate City 
+account in the event there is a legal challenge to this Agreement. 
+ 
+16. Personal Agreement; Assignment.  This Agreement is personal to the 
+Company and does not attach to or run with the Property. Neither party shall 
+record this Agreement in the property records of the Boulder County Clerk 
+and Recorder. The Company may not assign any of the obligations, benefits 
+or provisions of the Agreement in whole or in any part without the express 
+written authorization of the City. Any purported assignment, transfer, 
+pledge, or encumbrance made without such prior written authorization shall 
+be void. 
+ 
+17. No Joint Venture.  Nothing in  this Agreement is intended or shall be 
+construed to create a joint venture between the City and the Company and 
+the City shall never be liable or responsible for any debt or obligation of 
+Company. 
+ 
+18. No Third-Party Beneficiaries. The terms and conditions of this Agreement, 
+and all rights of action relating to such enforcement, shall be strictly 
+reserved to City and Company, and nothing contained in this Agreement 
+shall give or allow any such claim or right of action by any other third party 
+on such Agreement. It is the express intention of the parties that any person 
+other than City or Company receiving services or benefits under this 
+Agreement shall be deemed to be an incidental beneficiary only. 
+ 
+This Agreement is enacted this _____ day of ________________, 2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+INFLEQTION QUANTUM, LLC CITY OF LOUISVILLE 
+A Colorado Limited Liability Company 
+ 
+By: _______________________ _________________________ 
+Julie McGee Christopher M. Leh  
+Chief Administrative Officer Mayor 
+ 
+ ATTEST:    
+   
+ 
+ _________________________ 
+ Genny Kline, City Clerk 
+      
+ 
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Ann
+To: City Council; Christopher Leh
+Cc: Diana Langley; Kirin Riddell
+Subject: support for BWC Contract on Consent
+Date: Sunday, October 18, 2026 1:49:36 PM
+Attachments: Fire Smart Louisville Coal Creek Ranch Mitigation Event.png
+[EXTERNAL EMAIL] From outside of City of Louisville DO NOT CLICK links or
+attachments unless you validate the sender and know the content is safe.
+Dear Mayor Leh and Council Members--
+I appreciate the support of Council, City Manager Langley, and key City staff for including
+the $100,000 contract for the Boulder Watershed Collective to develop and implement the
+next phase of the Fire Smart Louisville initiative on the 10/20 Consent Agenda. We've had a
+successful first 9 months, and have exceeded my initial goal to engage with 2-4 neighborhoods
+and hold 2 or more events. My main objective was to demonstrate what is possible and to start
+to build strong local partnerships for tangible wildfire risk reduction. It's time to let the
+professionals take it from here!
+Our last event of the year will be in Ward 3, in partnership with the Coal Creek Ranch HOA
+and Wildfire Partners on Saturday, 10/24, 11 am-3 pm at the CCR Clubhouse on Spyglass
+Circle. Wildfire Partners is providing two large roll off dumpsters (with maybe 2 more if the
+first 2 fill fast) for a defensible space clean up event. See the attached flyer for more info. City
+Parks, OS, and Golf Course staff will be present, along with Fire Marshall Jennifer Henderson.
+You're all welcome to participate or even volunteer!
+Thanks in advance for your support of the Consent item.
+Ann Brennan
+
+From: Lisa Norgard
+To: City Council
+Cc: Diana Langley; Adam Blackmore
+Subject: Board Discussion
+Date: Tuesday, October 20, 2026 3:30:17 PM
+[EXTERNAL EMAIL] From outside of City of Louisville DO NOT CLICK links or
+attachments unless you validate the sender and know the content is safe.
+Dear Mayor and City Council Members, 
+I have been following the recent discussions regarding our City's Boards and Commissions
+and cannot make the meeting tonight.  I see that there is consideration of merging the RAB
+with PPLAB.  I wanted to provide some feedback on the possibility of these boards merging.  
+I support exploring this combination, as the Parks and Recreation boards overlap in several
+areas. The benefits of combining these two boards could be improved collaboration, reduced
+duplication of topics on each board, and a more coordinated approach to addressing the City's
+parks, recreation, and community needs. If this is a direction you may be considering,  I would
+recommend considering a board of nine members to ensure diverse representation from Parks,
+Recreation/Golf, and Senior Services. 
+I also want to reiterate that Senior Services are included on our yearly work plan with agenda
+items several times throughout the year. If these boards were combined, it would be important
+to ensure that Senior Services continues to receive the attention and representation it deserves,
+as it is a significant part of our Recreation Center and the services it provides to our
+community. 
+I understand that combining these two boards may not be the direction the Council chooses to
+pursue.  I simply wanted to provide my perspective and input as you consider both options,
+whether to maintain the boards separately or explore the possibility of combining them.  
+We are extremely fortunate to have dedicated and knowledgeable residents serving on both
+boards who bring valuable insight, perspectives, and a strong commitment to our community. 
+Regardless of the direction you choose, the continued involvement in the issues from each
+board is an asset to the City. 
+Lisa Norgard
+RAB, Chair
+From: Diana Langley
+To: Cathern Smith; City Council
+Cc: Adam Blackmore; Ember Brignull
+Subject: RE: re Potential Consolidation of Boards and Committees
+Date: Tuesday, October 20, 2026 3:19:38 PM
+Attachments: image001.png
+Good afternoon Cathern,
+ 
+Thank you for your email. The City Council is not considering consolidating OSAB into any other
+board or commission. They have had discussions about the potential of merging PPLAB and RAB.
+Please let me know if you have any additional questions.
+ 
+Diana Langley (she/her)
+City Manager
+303.335.4530 (office)
+720.762.7488 (cell)
+dlangley@LouisvilleCO.gov
+LouisvilleCO.gov
+ 
+ 
+From: Cathern Smith <cathernsmith@gmail.com> 
+Sent: Tuesday, October 20, 2026 2:51 PM
+To: City Council <Council@louisvilleco.gov>
+Cc: Diana Langley <dlangley@louisvilleco.gov>; Adam Blackmore <ablackmore@louisvilleco.gov>;
+Ember Brignull <Ebrignull@louisvilleco.gov>
+Subject: re Potential Consolidation of Boards and Committees
+ 
+[EXTERNAL EMAIL] From outside of City of Louisville DO NOT CLICK links or
+attachments unless you validate the sender and know the content is safe.
+Dear Mayor Leh and Members of City Council:
+ 
+With the deadline for comment approaching, Louisville Open Space Advocates (LOSA) is still
+not sure whether City Council is considering consolidating OSAB into the recreation focused
+boards or not.  Rather than lose the opportunity to make our views known, LOSA is submitting
+this comment opposing the consolidation of OSAB into any other board or commission and
+takes no position on the merger of the various recreational bodies.
+ 
+The reasons for our opposition include:
+ 
+1.  The fundamental goal of open space is to protect habitat, viewsheds,and wildlife. In
+contrast, the fundamental goal of parks and the golf course is to develop for human
+recreation.
+2.  Different specialized knowledge and expertise is needed for open space than for
+recreational programs.  Only the best qualified people should make decisions on open
+space (and recreational programs).
+3.  One of the stated rationales of the consolidation under consideration is to make the
+recommendations consistent across this group of boards and commissions. OSAB,
+however, is bound by the City Charter and specified ordinances, they cannot apply other
+processes and standards to open space. In addition, unelected individuals should not be
+delegated the authority to resolve competing programmatic needs and values. This is the
+work of City Council which can be held accountable for their decisions at elections.
+5.  Given the heavy workload that OSAB already handles and that their meetings already
+routinely last 2-3 hours, it is unreasonable to ask volunteers to commit even more time. 
+It would also be unreasonable for OSAB to shorten the amount of time they spend
+discussing complex and important issues in order to handle issues currently handled by
+other boards and commissions.
+6.  A consolidation would create a board with so much breadth of scope that it would not
+be able to serve the needs of City Council, residents, and the City.  It is hard to imagine
+OSAB could meet their duties under the city charter if the time devoted to their issues
+was shortened.  
+7.  Consolidation of OSAB with other boards and commissions is inconsistent with the
+spirit of the City Charter.  See section 10-1.
+ 
+Thank you for reading this comment letter.
+Best,
+ 
+/s Cathern Smith for Louisville Open Space Advocates (LOSA)
+ 
+From: Cathern Smith
+To: City Council
+Cc: Diana Langley; Adam Blackmore; Ember Brignull
+Subject: re Potential Consolidation of Boards and Committees
+Date: Tuesday, October 20, 2026 2:51:14 PM
+[EXTERNAL EMAIL] From outside of City of Louisville DO NOT CLICK links or
+attachments unless you validate the sender and know the content is safe.
+Dear Mayor Leh and Members of City Council:
+With the deadline for comment approaching, Louisville Open Space Advocates (LOSA) is still
+not sure whether City Council is considering consolidating OSAB into the recreation focused
+boards or not.  Rather than lose the opportunity to make our views known, LOSA is
+submitting this comment opposing the consolidation of OSAB into any other board or
+commission and takes no position on the merger of the various recreational bodies.
+The reasons for our opposition include:
+1.  The fundamental goal of open space is to protect habitat, viewsheds,and wildlife. In
+contrast, the fundamental goal of parks and the golf course is to develop for human
+recreation.
+2.  Different specialized knowledge and expertise is needed for open space than for
+recreational programs.  Only the best qualified people should make decisions on open
+space (and recreational programs).
+3.  One of the stated rationales of the consolidation under consideration is to make the
+recommendations consistent across this group of boards and commissions. OSAB,
+however, is bound by the City Charter and specified ordinances, they cannot apply other
+processes and standards to open space. In addition, unelected individuals should not be
+delegated the authority to resolve competing programmatic needs and values. This is the
+work of City Council which can be held accountable for their decisions at elections.
+5.  Given the heavy workload that OSAB already handles and that their meetings
+already routinely last 2-3 hours, it is unreasonable to ask volunteers to commit even
+more time.  It would also be unreasonable for OSAB to shorten the amount of time they
+spend discussing complex and important issues in order to handle issues currently
+handled by other boards and commissions.
+6.  A consolidation would create a board with so much breadth of scope that it would
+not be able to serve the needs of City Council, residents, and the City.  It is hard to
+imagine OSAB could meet their duties under the city charter if the time devoted to their
+issues was shortened.  
+7.  Consolidation of OSAB with other boards and commissions is inconsistent with the
+spirit of the City Charter.  See section 10-1.
+Thank you for reading this comment letter.
+Best,
+/s Cathern Smith for Louisville Open Space Advocates (LOSA)
+From: Diana Langley
+To: Christopher Leh; Barbara Hamlington; Judi Kern; Caleb Dickinson; Deb Fahey; Josh Cooperman; Dietrich Hoefner
+Cc: Executive Leadership Team; Kathleen Kelly (Email)
+Subject: RE: Council Questions
+Date: Tuesday, October 20, 2026 3:36:50 PM
+Attachments: image001.png
+image002.png
+image003.png
+2026 07 22 - Transportation - Illuminated Street Name Signs- CF.xlsx
+Good afternoon,
+ 
+Below are additional questions and responses for items on tonight’s agenda.
+ 
+Question – Item Gi – Proposition 123 Commitment – Expedited Review Policies for Affordable Housing
+Projects – The staff report on expedited review of affordable housing developments notes that
+subdivision reviews do not qualify for such review. Why is this the case? Are there places in the City
+where an affordable housing development would require a subdivision review?
+Answer (Jeff Hirt): The state’s Fast Track requirements do not include subdivision approvals, so our
+resolution follows that approach. Yes, affordable housing projects in Louisville could require
+subdivision approval when creating new lots or reconfiguring existing ones. If a project requires
+both subdivision approval and an otherwise qualifying application, such as a PUD, we would
+evaluate Fast Track applicability on a case-by-case basis.
+ 
+Questions – Item 8A – City Manager’s Final 2027-2028 Budget Presentation
+Sid Copeland Administration Building - What has changed in the reduced scope compared to the
+prior scope? The project sheet continues to include $400k for design in 2028, while stating that
+final design is anticipated through the remainder of 2026 (p. 666). Is this correct? Is there
+additional design work as part of the re-scope?
+Answer (Diana Langley): Staff will update the project sheet to reflect the scope change.
+Essentially, the reduced scope is based on expanding the main floor of the administration
+building rather than adding a second floor. The timing of design will also be addressed in the
+revised sheet. I should have the revision later today, but in the interest of time, wanted to
+get responses out for the rest of Council’s questions.
+ 
+Technology Management Fund - The fund summary (p. 444) shows $966,800 and $1,046,800 in
+capital expense for 2027 and 2028, respectively. But the CIPs listed for those years are only $191k
+for each year (p. 506). Is this correct? If so, what are the additional capital expenses shown on the
+fund summary?
+Answer (Ryder Bailey): Originally the Capitalizable SBITA Software was Capital Fund request.
+However, later in budget development staff shifted this to the Internal Service Fund to best
+account for and allocate charges. The Capital Fund is still sourcing certain Software,
+however, so are the General Fund and other Utility (Enterprise Funds). This Project Page will
+be shifted to the ISF Fund (602) so that the Fund Summary and CIP Summary tie out for the
+11/2 presentation. Within that form Staff will identify the sources of the funding.
+ 
+Illuminated Street Signs – The project narrative describes 14 intersections at approximately $22k
+each, or $308k, but the budget is $638k (pp. 503, 604). What accounts for the significant
+difference
+Answer (Cameron Fowlkes): Please find attached a revised project sheet. The narrative did
+not get updated on the previous sheet to reflect updated estimates from the City’s traffic
+signal contractor, which are currently $10k per sign or $40k per intersection plus a modest
+contingency. The previous numbers were from 2020.
+ 
+Parks Fund - The presentation says there are no capital expenses beyond 2027 (p. 417), but the
+Parks Fund schedule shows $968,595 in capital expense in 2028 (p. 435). Is this correct? If so, what
+are the capital expenses shown on the fund summary?
+Answer (Ryder Bailey): Expense columns were misaligned. There are no Capital Expenses,
+this will be corrected by the 11/2 presentation.
+ 
+General Fund – What items are being considered one-time expenses for 27 and 28?
+Answer (Ryder Bailey): Page 404, Slide 8 of ppt has the one time expenses broken out. (Page
+406 and Slide 10 for the Variables)
+ 
+2027 - $268K
+Sundance Set Aside $100K
+Cost Allocation Analysis $50K
+Compensation Policy Analysis $50K
+Special Event Inflation and 0.5 FTE increase - $68K ($28K + $40K)
+ 
+2028 - $108K
+Community Survey - $40K
+Special Event Inflation and 0.5 FTE increase - $68K ($28K + $40K)
+ 
+ 
+ 
+Diana Langley (she/her)
+City Manager
+303.335.4530 (office)
+720.762.7488 (cell)
+dlangley@LouisvilleCO.gov
+LouisvilleCO.gov
+ 
+ 
+From: Diana Langley <dlangley@louisvilleco.gov> 
+Sent: Tuesday, October 20, 2026 9:42 AM
+To: Christopher Leh <leh@louisvilleco.gov>; Barbara Hamlington <BHamlington@louisvilleco.gov>; Judi Kern
+<jkern@louisvilleco.gov>; Caleb Dickinson <cdickinson@louisvilleco.gov>; Deb Fahey
+<dfahey@louisvilleco.gov>; Josh Cooperman <jcooperman@louisvilleco.gov>; Dietrich Hoefner
+<DHoefner@louisvilleco.gov>
+Cc: Executive Leadership Team <ExecutiveLeadershipTeam@louisvilleco.gov>; Kathleen Kelly (Email)
+<kathleen@kellypc.com>
+Subject: Council Questions
+ 
+Good morning Council,
+ 
+Below are responses to Council Questions.
+ 
+October 20th Agenda
+ 
+Question – Item 5D – Business Assistance Agreement with Infleqtion Quantum, LLC - Section 4 provides
+for consumer-use-tax rebates (with a cap of $189,900 in Section 5(b)), but the § 11 termination provision
+does not appear to include the consumer-use-tax category in the event the Company ceases business
+operations. Is that the intent?
+Answer (Vanessa Zarate): That was not the intent. The edit has been made in the attached revised
+agreement. Also, from a practice standpoint, the City does not clawback if the business totally
+ceases operations – just if they move to a different jurisdiction.
+ 
+Question – Item 5H – Conditional Assignment of Preservation and Restoration Grant for the Grain
+Elevator at 540 County Road – Section 19 appears to have placeholders for the completion deadline.
+Should this reference the 60-month deadline from § 4? And, if so, § 4 may also need clarification since
+the property was landmarked in 2015.
+Answer (Rob Zuccaro): Thank you for pointing out these discrepancies. Staff will update the
+agreement with the owner to include the following edits:
+ 
+ 
+ 
+Questions – Item 8A – City Manager’s Final 2027-2028 Budget Presentation
+Golf Fund – The presentation shows approximately $3.1 million and $3.3 million in revenue for
+2027 and 2028, while the fund summary shows approximately $2.896 million and $2.937 million.
+Which figures reflect the proposed fee changes?
+Answer (Ryder Bailey): The $3.1M and $3.3M is accurate. The Budget by Fund summary has
+been updated, and will reflect the correct amounts for the November 2nd
+presentation/adoption.
+Northeast water loop - The CIP summary includes $780,000, while the project sheet estimates
+$1,005,550. Which is correct?
+Answer (Kurt Kowar): The project sheet estimate is correct. However, after some 2027/2028
+rate conversations, it has been decided to pull the northeast water loop out of the budget.
+ 
+November 2nd Meeting
+ 
+Question – 2027 City Manager Fees – Recreation Fees – How did staff and RAB develop the proposed
+increases for 2027?
+Answer (Diana Langley): At the September 21st RAB meeting, staff presented rate increase options
+and benchmark information for surrounding municipalities (report attached). Yesterday, Ryder
+also reached out to Kathy Martin requesting a brief summary of why the Daily Admission Non
+Resident Premiums (%s) vary between Daily, Punch, Monthly, and Annual. Ryder noted that at a
+high level, the Non Resident premiums (to Residents) are approximately the following:
+Punch Passes - ~100% premium
+Daily - ~70% premium
+Monthly - ~67% premium
+Annually - ~75% premium
+ 
+More information will be provided in the 2027 City Manager Fee Council Communication
+report. The intent is to keep this item on the Consent agenda.
+ 
+Questions – 2027-2032 Capital Improvement Program
+Golf Course Work Carts – The purchase of two work carts are programmed in 2028 and 2029 for
+$34,000 each. The project descriptions states, “If we add gas powered carts we would add them in
+2028 and electric carts are more expensive so we would add them in 2029 if directed to do so.”
+What is the cost of electric carts as compared to gas carts?
+Answer (Diana Langley): Staff will get that information and provide to Council prior to the
+November 2nd City Council meeting.
+Police and Municipal Parking Lot Expansion – The project proposes to install a 5,400 sf secure
+parking area for staff parking to the south of the existing parking lot. $20,000 is programmed in
+2027 for design and $100,000 is programmed in 2028 for construction. Is it possible to provide a
+secure parking area for staff without expanding the parking lot?
+Answer (Diana Langley): Potentially. This would require evaluating public parking needs,
+particularly when the municipal court is in session, and determining if a portion of the
+existing parking lot can be reconfigured to create a secure location for staff parking.
+ 
+Other Questions
+Question: For the State of the City event on November 9th, is there a registration fee to attend?
+Answer (Vanessa Zarate): No, there is no cost to attend the event.
+ 
+Please let me know if you have any additional questions.
+ 
+Diana Langley (she/her)
+City Manager
+303.335.4530 (office)
+720.762.7488 (cell)
+dlangley@LouisvilleCO.gov
+LouisvilleCO.gov
+ 
+ 
+Project Name: 7/22/2026
+Submitted By: Public Works Engineering
+Medium
+Name: Cameron Fowlkes
+Classes(s): Percent
+Infrastructure 100%
+100%
+Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Six-Year
+2027 2028 2029 2030 2031 2032 Total
+-                       -                        -                        -                        -                        -                        -                                    
+-                       -                       -                       -                       -                       -                       -                                   
+-                       -                       -                       -                       -                       -                       -                                   
+80,000                 80,000                 120,000               120,000               180,000               -                       580,000                          
+-                       -                       -                       -                       -                       -                       -                                   
+8,000                   8,000                    12,000                  12,000                  18,000                  -                        58,000                             
+-                       -                        -                        -                        -                        -                        -                                    
+88,000                 88,000                  132,000                132,000                198,000                -                        638,000                          
+-                       -                        -                        -                        -                        -                        -                                    
+-                       -                        -                        -                        -                        -                        -                                    
+-                       -                        -                        -                        -                        -                        -                                    
+-                       -                        -                        -                        -                        -                        -                                    
+Prof. Services
+Construction
+Illuminated street name signs are used as a measure to improve night road safety, appearance and convenience. McCaslin Blvd 
+currently has illuminated signs. This project would add illuminated signs to our other major arterials. The cost per intersection is 
+approx. $40K. The proposed 5 year program would add/replace illuminated signs at 14 intersections.
+Transportation
+Grants
+Impact Fees
+Project Description:
+Acquisition
+Contingency
+Division(s):
+Material Operational Expense ($10K+)? 
+Traffic Signal Illuminated Street Name Signs
+Capital_Projects_Fund_301 Transportation Capital
+Yearly CIP to complete signal signs shown below
+The lights will need to be replaced every 10-15 years 
+Operating Cost Impact:
+Illuminated street name signs improve sign visibility at intersections. Project will improve driver safety and the overall transportation system.
+Additional Information/Background
+Safety
+How it aligns to Council Priorities:
+Image
+Equipment
+Impact to Annual
+Off-Setting Revenue:
+Total
+Other 
+  Maint/Operating Costs
+  
+Capital Improvement Project / Material Operational Request ($10K+)
+2027-2032 CIP Budget Request Form
+Project Detail and Funding Source
+N/A
+Funding Source(s):
+Date Submitted:
+Dept. Project Priority Ranking:New asset, Maintenance, or Replacement? 
+Is this a New or Existing CIP?
+New
+New CIP
+Project Timeline:
+Total Costs (Gross)
+Project Costs
+Council Priority Alignment
+Project Costs
+Equipment or
+Design
+Project Funding Source:
