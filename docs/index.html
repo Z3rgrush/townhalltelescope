@@ -11,18 +11,21 @@
   --bg: #f7f6f3; --panel: #ffffff; --ink: #1d232a; --muted: #5d6670; --line: #e2e0da;
   --accent: #1f6f8b; --accent-soft: #e3f0f4; --chip: #f1efe9; --warn: #8a5a00; --warn-soft: #fbf1dc;
   --z0: #eef3f5; --z1: #cfe2ea; --z2: #9fc6d6; --z3: #5f9fb9; --z4: #1f6f8b;
+  --hl: #d9480f; --hl-soft: #f8c9a8; --hl-ink: #b03a0a; --hl-bg: #fdeee4; --off: #e4e2dd;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #14181c; --panel: #1c2227; --ink: #e8eaec; --muted: #9aa4ad; --line: #2e363d;
     --accent: #6fb6d0; --accent-soft: #1f3540; --chip: #262d33; --warn: #e2b55c; --warn-soft: #3a2f1a;
     --z0: #24313a; --z1: #2b4a5a; --z2: #33647a; --z3: #4a87a3; --z4: #6fb6d0;
+    --hl: #ff7a3d; --hl-soft: #7a3d22; --hl-ink: #ff9a66; --hl-bg: #3a2418; --off: #20262b;
   }
 }
 :root[data-theme="dark"] {
   --bg: #14181c; --panel: #1c2227; --ink: #e8eaec; --muted: #9aa4ad; --line: #2e363d;
   --accent: #6fb6d0; --accent-soft: #1f3540; --chip: #262d33; --warn: #e2b55c; --warn-soft: #3a2f1a;
   --z0: #24313a; --z1: #2b4a5a; --z2: #33647a; --z3: #4a87a3; --z4: #6fb6d0;
+    --hl: #ff7a3d; --hl-soft: #7a3d22; --hl-ink: #ff9a66; --hl-bg: #3a2418; --off: #20262b;
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; height: 100%; }
@@ -58,6 +61,15 @@ details a { color: var(--accent); }
 .legend { background: var(--panel); color: var(--ink); padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line); font-size: 12px; line-height: 1.6; }
 .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -2px; }
 .leaflet-tooltip { font-weight: 600; }
+.toggle { display: inline-flex; align-items: center; gap: 8px; margin: -6px 0 18px; padding: 7px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); color: var(--ink); font-weight: 600; font-size: 14px; }
+.toggle::before { content: ""; width: 10px; height: 10px; border-radius: 50%; background: var(--hl); }
+.toggle[aria-pressed="true"] { background: var(--hl); border-color: var(--hl); color: #fff; }
+.toggle[aria-pressed="true"]::before { background: #fff; }
+.tag.dc { background: var(--hl-bg); color: var(--hl-ink); }
+.callout { background: var(--hl-bg); border-radius: 12px; padding: 12px 12px 2px; margin-bottom: 16px; }
+.callout h4 { margin: 0 0 4px; font-size: 14px; color: var(--hl-ink); }
+.callout > p { margin: 0 0 10px; font-size: 13px; color: var(--muted); }
+.callout .issue { background: var(--panel); }
 @media (max-width: 800px) {
   .app { grid-template-columns: 1fr; grid-template-rows: 48vh auto; height: auto; }
   #map { height: 48vh; }
@@ -72,6 +84,7 @@ details a { color: var(--accent); }
     <h1>Town Hall Telescope</h1>
     <p class="lede">What city councils and county commissions in Johnson and Wyandotte counties, Kansas, have been talking about. Tap a zip code, or type one.</p>
     <form id="find"><input id="zip" inputmode="numeric" maxlength="5" placeholder="Zip code, e.g. 66205" aria-label="Zip code"><button>Show</button></form>
+    <button type="button" class="toggle" id="dc" aria-pressed="false">Highlight data center talk</button>
     <div id="detail"><p class="empty">Darker zips had more of their local issues come up at more meetings.</p></div>
     <p class="note" id="about"></p>
   </aside>
@@ -98,11 +111,13 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
     maxZoom: 16, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
-  let selected = null;
+  let selected = null, highlight = false;
+  const dc = z => zips[z]?.tagged?.["data-center"];
+  const fill = z => !highlight ? color(heat(z)) : dc(z) ? css(dc(z).site ? "--hl" : "--hl-soft") : css("--off");
   const style = f => ({
     color: f.properties.zip === selected ? css("--ink") : css("--panel"),
     weight: f.properties.zip === selected ? 3 : 1,
-    fillColor: color(heat(f.properties.zip)), fillOpacity: 0.72
+    fillColor: fill(f.properties.zip), fillOpacity: highlight && !dc(f.properties.zip) ? 0.45 : 0.72
   });
   const layers = {};
   const layer = L.geoJSON(geo, {
@@ -116,13 +131,15 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
   map.fitBounds(layer.getBounds(), {padding: [10, 10]});
 
   const legend = L.control({position: "bottomleft"});
-  legend.onAdd = () => {
-    const d = L.DomUtil.create("div", "legend");
-    d.innerHTML = "<b>Meetings covering top issues</b><br>" +
-      [["--z0", "no records yet"], ["--z1", "1–19"], ["--z2", "20–25"], ["--z3", "26–30"], ["--z4", "31+"]]
-        .map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>");
-    return d;
+  let legendBox;
+  const drawLegend = () => {
+    legendBox.innerHTML = highlight
+      ? "<b>Data center discussions</b><br>" + [["--hl", "site is in this zip"], ["--hl-soft", "a local government here discussed one"], ["--off", "none found"]]
+          .map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>")
+      : "<b>Meetings covering top issues</b><br>" + [["--z0", "no records yet"], ["--z1", "1–19"], ["--z2", "20–25"], ["--z3", "26–30"], ["--z4", "31+"]]
+          .map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>");
   };
+  legend.onAdd = () => { legendBox = L.DomUtil.create("div", "legend"); drawLegend(); return legendBox; };
   legend.addTo(map);
 
   function show(z, pan) {
@@ -133,10 +150,10 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
     layer.setStyle(style);
     layers[z].bringToFront();
     if (pan) map.fitBounds(layers[z].getBounds(), {maxZoom: 13});
-    history.replaceState(null, "", "#" + z);
+    history.replaceState(null, "", "#" + z + (highlight ? "&datacenters" : ""));
     const govs = info.governments.map(g =>
       `<li class="${g.has_records ? "" : "none"}" title="${Math.round(g.share * 100)}% of the zip's area${g.has_records ? "" : " · no records collected yet"}">${esc(g.name)}</li>`).join("");
-    const cards = info.issues.map(id => {
+    const card = id => {
       const it = issues[id];
       const src = it.sources.map(s =>
         `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${fmtDate(s.date)} · ${esc(s.body)} ${esc(s.kind)}</a></li>`).join("");
@@ -144,22 +161,41 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
         <h3>${esc(it.title)}</h3>
         <div class="meta"><span>${esc(it.government)}</span>
           <span class="tag">${it.meetings} meeting${it.meetings === 1 ? "" : "s"}</span>
-          ${it.public_comment ? '<span class="tag voice">Residents spoke</span>' : ""}</div>
+          ${it.public_comment ? '<span class="tag voice">Residents spoke</span>' : ""}
+          ${it.tags.includes("data-center") ? '<span class="tag dc">Data center</span>' : ""}</div>
         ${it.where ? `<p class="where">📍 ${esc(it.where)}</p>` : ""}
         <p>${esc(it.summary)}</p>
         <details><summary>Source documents (${it.sources.length})</summary><ul>${src}</ul></details>
       </article>`;
-    }).join("");
+    };
+    const dcIds = dc(z)?.ids || [];
+    const callout = highlight && dcIds.length ? `<section class="callout"><h4>Data center discussions</h4>
+      <p>${dc(z).site ? "A data center site discussed in public meetings is in this zip." : "The site is in a nearby zip, but a local government that covers this zip discussed it."}</p>
+      ${dcIds.map(card).join("")}</section>` : "";
+    const cards = callout + info.issues.filter(id => !(callout && dcIds.includes(id))).map(card).join("");
     box.innerHTML = `<div class="zip-head"><h2>${esc(z)}</h2></div>
       <ul class="govs" aria-label="Governments covering this zip">${govs}</ul>
       ${cards || '<p class="empty">No issues found yet for the governments covering this zip.</p>'}`;
   }
 
+  const toggle = document.getElementById("dc");
+  const setHighlight = on => {
+    highlight = on;
+    toggle.setAttribute("aria-pressed", on);
+    layer.setStyle(style);
+    drawLegend();
+    if (selected) show(selected);
+    else if (on) document.getElementById("detail").innerHTML =
+      `<p class="empty">${Object.values(zips).filter(v => v.tagged?.["data-center"]?.site).length} zips hold a data center site that came up in public meetings, and ${Object.values(zips).filter(v => v.tagged?.["data-center"]).length} zips in all are covered by a local government that discussed one. Tap an orange zip for details.</p>`;
+  };
+  toggle.addEventListener("click", () => setHighlight(!highlight));
+
   document.getElementById("find").addEventListener("submit", e => {
     e.preventDefault();
     show(document.getElementById("zip").value.trim(), true);
   });
-  const fromHash = location.hash.slice(1);
+  const [fromHash, flag] = location.hash.slice(1).split("&");
+  if (flag === "datacenters" || fromHash === "datacenters") setHighlight(true);
   if (zips[fromHash]) show(fromHash, true);
 })
 .catch(() => { document.getElementById("detail").innerHTML = '<p class="empty">The map data could not be loaded. Try refreshing.</p>'; });

@@ -3,10 +3,14 @@
   where: Logistics Park Kansas City (31800 W 196th St area)
   refs: [0, 3, 5, 7, 8, 11]
   public_comment: true
-- title: Edgerton Project plat and rock crushing at 196th Street
-  summary: The planning commission and council handled a final plat with land dedication for the "Edgerton Project" at 31800 W 196th Street and a temporary rock crushing permit for construction, after a revised site plan was withdrawn.
+  tags: [data-center]
+  site_zip: "66021"
+- title: DAMAC data center plat and rock crushing at 196th Street
+  summary: The planning commission and council handled a final plat with land dedication for DAMAC Digital's "Edgerton Project" data center at 31800 W 196th Street and a temporary rock crushing permit for its construction, after a revised site plan was withdrawn.
   where: 31800 W 196th St
   refs: [0, 1, 4, 5, 7]
+  tags: [data-center]
+  site_zip: "66021"
 - title: Public comment rules, microphones and a lawsuit
   summary: Residents criticized limits on public comment time, asked for microphones so people can hear meetings, and questioned the mayor's role and attorney fees in litigation.
   refs: [2, 6, 11]

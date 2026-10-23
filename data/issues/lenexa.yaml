@@ -45,3 +45,9 @@
   summary: Lenexa awarded a $484,000 contract for new streetlights and stormwater work on Strang Line Road south of College Boulevard.
   where: Strang Line Rd south of College Blvd
   refs: [3, 6, 7]
+- title: Meritex underground data center expansion at 99th and Britton
+  summary: The council approved a 30-acre Meritex business park whose first building will hold chillers and standby generators for Lightedge, a colocation data center in the Meritex underground; councilmembers asked about noise, generator emissions and whether it counts as a data center.
+  where: 99th St & Britton St
+  refs: [3, 10]
+  tags: [data-center]
+  site_zip: "66219"

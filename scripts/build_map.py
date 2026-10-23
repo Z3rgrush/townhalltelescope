@@ -74,6 +74,8 @@ def load_issues(index):
                 "summary": it["summary"],
                 "where": it.get("where"),
                 "public_comment": bool(it.get("public_comment")),
+                "tags": it.get("tags", []),
+                "site_zip": it.get("site_zip"),
                 "meetings": len({d["date"] for d in docs}),
                 "sources": sources,
             })
@@ -104,6 +106,18 @@ def zip_governments():
     return {z: sorted(g.items(), key=lambda kv: -kv[1]) for z, g in govs.items()}
 
 
+def tagged(z, ranked):
+    """tag -> every issue with that tag in the zip (not just the top ones), and whether the
+    zip holds the site itself or only shares a government with it."""
+    out = {}
+    for _, it in ranked:
+        for t in it["tags"]:
+            entry = out.setdefault(t, {"ids": [], "site": False})
+            entry["ids"].append(it["id"])
+            entry["site"] |= it["site_zip"] == z
+    return out
+
+
 def main():
     load_names()
     index = json.loads((ROOT / "data" / "condensed" / "index.json").read_text())
@@ -115,12 +129,13 @@ def main():
             weight = min(1.0, 0.4 + share * 1.5)
             for it in issues.get(source, []):
                 score = it["meetings"] * weight * (1.25 if it["public_comment"] else 1)
-                ranked.append((score, it["id"]))
+                ranked.append((score, it))
         ranked.sort(key=lambda t: -t[0])
         out[z] = {
             "governments": [{"name": NAMES.get(s, s), "share": round(sh, 3),
                              "has_records": s in issues} for s, sh in govs],
-            "issues": [i for _, i in ranked[:TOP]],
+            "issues": [it["id"] for _, it in ranked[:TOP]],
+            "tagged": tagged(z, ranked),
         }
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "zips.json").write_text(json.dumps(out, indent=1))
