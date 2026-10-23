@@ -1,0 +1,1261 @@
+{
+ "80020": {
+  "governments": [
+   {
+    "name": "Broomfield",
+    "share": 0.604,
+    "has_records": false
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.209,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80023": {
+  "governments": [
+   {
+    "name": "Broomfield",
+    "share": 0.605,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80025": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.916,
+    "has_records": false
+   },
+   {
+    "name": "Boulder",
+    "share": 0.084,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80026": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.521,
+    "has_records": false
+   },
+   {
+    "name": "Lafayette",
+    "share": 0.404,
+    "has_records": false
+   },
+   {
+    "name": "Erie",
+    "share": 0.075,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "erie/2",
+   "erie/7",
+   "erie/5",
+   "erie/3",
+   "erie/4",
+   "erie/1",
+   "erie/6",
+   "erie/0"
+  ],
+  "tagged": {}
+ },
+ "80027": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.425,
+    "has_records": false
+   },
+   {
+    "name": "Louisville",
+    "share": 0.383,
+    "has_records": true
+   },
+   {
+    "name": "Superior",
+    "share": 0.192,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "louisville/2",
+   "louisville/6",
+   "louisville/3",
+   "louisville/12",
+   "louisville/7",
+   "louisville/0",
+   "louisville/1",
+   "louisville/19"
+  ],
+  "tagged": {}
+ },
+ "80202": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80203": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80204": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80205": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80206": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80207": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80209": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80210": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.999,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80211": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80212": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.747,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80216": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.667,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80218": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80219": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80220": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.998,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80222": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.854,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80223": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.999,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80224": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.974,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80230": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80231": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.566,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80236": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.958,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80237": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.997,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80238": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80239": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.958,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80246": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.67,
+    "has_records": true
+   },
+   {
+    "name": "Glendale",
+    "share": 0.33,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80247": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.573,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80249": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.986,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80264": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80290": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80293": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80294": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80301": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.759,
+    "has_records": false
+   },
+   {
+    "name": "Boulder",
+    "share": 0.241,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80302": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.956,
+    "has_records": false
+   },
+   {
+    "name": "Boulder",
+    "share": 0.044,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80303": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.829,
+    "has_records": false
+   },
+   {
+    "name": "Boulder",
+    "share": 0.171,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80304": {
+  "governments": [
+   {
+    "name": "Boulder",
+    "share": 0.631,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.369,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80305": {
+  "governments": [
+   {
+    "name": "Boulder",
+    "share": 0.58,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.42,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80310": {
+  "governments": [
+   {
+    "name": "Boulder",
+    "share": 1.0,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder/6",
+   "boulder/11",
+   "boulder/13"
+  ],
+  "tagged": {}
+ },
+ "80455": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80466": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80471": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80481": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80501": {
+  "governments": [
+   {
+    "name": "Longmont",
+    "share": 0.841,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.159,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "longmont/5",
+   "longmont/8",
+   "longmont/0",
+   "longmont/1",
+   "longmont/2",
+   "longmont/3",
+   "longmont/4",
+   "longmont/6"
+  ],
+  "tagged": {}
+ },
+ "80503": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.915,
+    "has_records": false
+   },
+   {
+    "name": "Longmont",
+    "share": 0.085,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "longmont/5",
+   "longmont/8",
+   "longmont/0",
+   "longmont/1",
+   "longmont/2",
+   "longmont/3",
+   "longmont/4",
+   "longmont/6"
+  ],
+  "tagged": {}
+ },
+ "80504": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.64,
+    "has_records": false
+   },
+   {
+    "name": "Longmont",
+    "share": 0.115,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "longmont/5",
+   "longmont/8",
+   "longmont/0",
+   "longmont/1",
+   "longmont/2",
+   "longmont/3",
+   "longmont/4",
+   "longmont/6"
+  ],
+  "tagged": {}
+ },
+ "80510": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80516": {
+  "governments": [
+   {
+    "name": "Erie",
+    "share": 0.445,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.338,
+    "has_records": false
+   },
+   {
+    "name": "Broomfield",
+    "share": 0.117,
+    "has_records": false
+   }
+  ],
+  "issues": [
+   "erie/2",
+   "erie/7",
+   "erie/5",
+   "erie/3",
+   "erie/4",
+   "erie/1",
+   "erie/6",
+   "erie/0"
+  ],
+  "tagged": {}
+ },
+ "80540": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ },
+ "80544": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": false
+   }
+  ],
+  "issues": [],
+  "tagged": {}
+ }
+}

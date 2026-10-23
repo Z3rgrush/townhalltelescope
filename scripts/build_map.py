@@ -1,11 +1,14 @@
-"""Rank each zip's issues from data/issues/*.yaml and write the map's data files into docs/.
+"""Rank each zip's issues from <data>/issues/*.yaml and write the map's data files into <docs>/data/.
 
 An issue's weight is the number of distinct meeting dates where it came up. A zip gets issues
 from every government that covers part of it, scaled down when that government covers only a
 small share of the zip. Writes docs/data/issues.json (every issue, by id), docs/data/zips.json
 (each zip's governments and ranked issue ids) and docs/data/zips.geojson.
+Run with --region ks (default) or --region co; paths come from collector/regions.py.
 """
+import argparse
 import csv
+import sys
 import json
 from collections import defaultdict
 from pathlib import Path
@@ -13,11 +16,13 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "docs" / "data"
+sys.path.insert(0, str(ROOT / "collector"))
+from regions import REGIONS  # noqa: E402
+
 TOP = 8
 
-# Census place name -> source id in collector/sources.yaml
-PLACE_SOURCE = {
+# Census place name -> source id in the region's sources file
+KS_PLACES = {
     "Kansas City": "unified-government",
     "Bonner Springs": "bonner-springs",
     "Edwardsville": "edwardsville",
@@ -41,6 +46,26 @@ PLACE_SOURCE = {
     "Westwood": "westwood",
     "Westwood Hills": "westwood-hills",
 }
+CO_PLACES = {
+    "Denver": "denver",
+    "Boulder": "boulder",
+    "Longmont": "longmont",
+    "Broomfield": "broomfield",
+    "Erie": "erie",
+    "Lafayette": "lafayette",
+    "Louisville": "louisville",
+    "Superior": "superior",
+    "Glendale": "glendale",
+}
+# Per region: place map, the county columns in zips.csv, and which source stands for each
+# county's government. A county source of None means the county is also a city (Denver,
+# Broomfield), so its city share already covers it.
+SETUP = {
+    "ks": {"places": KS_PLACES,
+           "counties": {"share_in_johnson": "johnson-county", "share_in_wyandotte": "unified-government"}},
+    "co": {"places": CO_PLACES,
+           "counties": {"share_in_denver": None, "share_in_boulder": "boulder-county", "share_in_broomfield": None}},
+}
 NAMES = {
     "unified-government": "Unified Government (KCK / Wyandotte County)",
     "johnson-county": "Johnson County",
@@ -49,14 +74,14 @@ NAMES = {
 }
 
 
-def load_names():
-    for s in yaml.safe_load((ROOT / "collector" / "sources.yaml").open()):
+def load_names(region):
+    for s in yaml.safe_load((ROOT / region["sources"]).open()):
         NAMES.setdefault(s["id"], s["name"])
 
 
-def load_issues(index):
+def load_issues(data, index):
     issues = defaultdict(list)
-    for f in sorted((ROOT / "data" / "issues").glob("*.yaml")):
+    for f in sorted((data / "issues").glob("*.yaml")):
         source = f.stem
         for it in yaml.safe_load(f.open()):
             docs = [index[f"{source}#{r}"] for r in it["refs"]]
@@ -82,27 +107,34 @@ def load_issues(index):
     return issues
 
 
-def zip_governments():
+def zip_governments(data, setup):
     """zip -> list of (source id, share of zip area), largest first."""
+    counties = setup["counties"]
     county = {}
-    for r in csv.DictReader((ROOT / "data" / "zips.csv").open()):
-        county[r["zip"]] = (float(r["share_in_johnson"]), float(r["share_in_wyandotte"]))
+    for r in csv.DictReader((data / "zips.csv").open()):
+        county[r["zip"]] = {col: float(r[col]) for col in counties}
     govs = defaultdict(dict)
-    for r in csv.DictReader((ROOT / "data" / "zip_places.csv").open()):
+    for r in csv.DictReader((data / "zip_places.csv").open()):
         share = float(r["share_of_zip_area"])
         if r["city"] == "(unincorporated)":
-            jo, wy = county.get(r["zip"], (0, 0))
-            source = "unified-government" if wy > jo else "johnson-county"
+            shares = county.get(r["zip"], {})
+            col = max(shares, key=shares.get) if shares else None
+            source = counties[col] if col and shares[col] > 0 else None
         else:
-            source = PLACE_SOURCE.get(r["city"])
+            source = setup["places"].get(r["city"])
         if source and share >= 0.005:
             govs[r["zip"]][source] = govs[r["zip"]].get(source, 0) + share
-    # The Unified Government is also the county government for all of Wyandotte.
-    for z, (jo, wy) in county.items():
-        if wy > 0:
-            govs[z]["unified-government"] = max(govs[z].get("unified-government", 0), wy)
-        if jo > 0 and "johnson-county" not in govs[z]:
-            govs[z]["johnson-county"] = jo
+    # The Unified Government is also the county government for all of Wyandotte. Other
+    # county governments are listed with their county share when no unincorporated land
+    # already put them there.
+    for z, shares in county.items():
+        for col, source in counties.items():
+            if not source or shares[col] <= 0:
+                continue
+            if source == "unified-government":
+                govs[z][source] = max(govs[z].get(source, 0), shares[col])
+            elif source not in govs[z]:
+                govs[z][source] = shares[col]
     return {z: sorted(g.items(), key=lambda kv: -kv[1]) for z, g in govs.items()}
 
 
@@ -119,11 +151,16 @@ def tagged(z, ranked):
 
 
 def main():
-    load_names()
-    index = json.loads((ROOT / "data" / "condensed" / "index.json").read_text())
-    issues = load_issues(index)
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--region", default="ks", choices=sorted(REGIONS))
+    args = ap.parse_args()
+    region = REGIONS[args.region]
+    data, out_dir = ROOT / region["data"], ROOT / region["docs"] / "data"
+    load_names(region)
+    index = json.loads((data / "condensed" / "index.json").read_text())
+    issues = load_issues(data, index)
     out = {}
-    for z, govs in sorted(zip_governments().items()):
+    for z, govs in sorted(zip_governments(data, SETUP[args.region]).items()):
         ranked = []
         for source, share in govs:
             weight = min(1.0, 0.4 + share * 1.5)
@@ -137,14 +174,14 @@ def main():
             "issues": [it["id"] for _, it in ranked[:TOP]],
             "tagged": tagged(z, ranked),
         }
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "zips.json").write_text(json.dumps(out, indent=1))
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "zips.json").write_text(json.dumps(out, indent=1))
     table = {it["id"]: {**it, "government": NAMES.get(s, s)} for s, its in issues.items() for it in its}
-    (OUT / "issues.json").write_text(json.dumps(table, indent=1))
-    geo = json.loads((ROOT / "data" / "pilot_zips.geojson").read_text())
+    (out_dir / "issues.json").write_text(json.dumps(table, indent=1))
+    geo = json.loads((data / "pilot_zips.geojson").read_text())
     for f in geo["features"]:
         f["properties"] = {"zip": f["properties"]["ZCTA5CE10"]}
-    (OUT / "zips.geojson").write_text(json.dumps(geo, separators=(",", ":")))
+    (out_dir / "zips.geojson").write_text(json.dumps(geo, separators=(",", ":")))
     total = sum(len(v) for v in issues.values())
     print(f"{len(out)} zips, {total} issues from {len(issues)} governments")
 

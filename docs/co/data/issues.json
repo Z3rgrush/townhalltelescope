@@ -1,0 +1,3189 @@
+{
+ "boulder/0": {
+  "id": "boulder/0",
+  "title": "November ballot measures",
+  "summary": "Council put several questions on the November 3 ballot, including general obligation bonds for recreation and safety projects, a vacancy excise tax on homes occupied 183 days a year or less, a charter right for firefighters to bargain collectively, and a wildfire resilience measure for open space.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-03",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1026"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1002"
+   },
+   {
+    "date": "2026-07-30",
+    "body": "City Council Special Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1326"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/1": {
+  "id": "boulder/1",
+  "title": "Boulder Downtown Development Authority",
+  "summary": "Council moved to ask downtown voters whether to form a Downtown Development Authority that could use tax increment financing for downtown projects.",
+  "where": "Downtown Boulder",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-06",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1002"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/2": {
+  "id": "boulder/2",
+  "title": "Wildfire resilience and home hardening",
+  "summary": "Council worked on a wildfire home hardening hub and a review of every city wildfire program as a council priority project, alongside the open space wildfire ballot measure.",
+  "where": "Citywide, wildland-urban edge",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1068"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1050"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1020"
+   },
+   {
+    "date": "2026-07-30",
+    "body": "City Council Special Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1326"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/3": {
+  "id": "boulder/3",
+  "title": "Local minimum wage increase",
+  "summary": "Council held the second reading of an ordinance setting Boulder's local minimum wage.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-30",
+    "body": "City Council Special Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1326"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/4": {
+  "id": "boulder/4",
+  "title": "2027 budget",
+  "summary": "Council held a study session on the 2027 recommended budget and then adopted budgets and mill levies for the downtown, University Hill and Boulder Junction improvement districts.",
+  "where": "Citywide, Downtown, University Hill, Boulder Junction",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1062"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1050"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1032"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/5": {
+  "id": "boulder/5",
+  "title": "Eminent domain for the 30th Street projects",
+  "summary": "Council introduced ordinances allowing the city to buy or condemn land for the North 30th Street project and the South 30th Street multimodal improvements.",
+  "where": "30th Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-06",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1002"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/6": {
+  "id": "boulder/6",
+  "title": "Annexation of Cherryvale Road and McSorley Lane properties",
+  "summary": "Council took up a petition to annex about 5.4 acres at 1275 Cherryvale Rd. and 5995 McSorley Ln. with rural residential zoning, setting a public hearing for November 12.",
+  "where": "1275 Cherryvale Rd, 5995 McSorley Ln",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1050"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1014"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/7": {
+  "id": "boulder/7",
+  "title": "Affordable housing bonds for Boulder Housing Partners and Harvest34",
+  "summary": "Council assigned $7.3 million in private activity bonds to Boulder Housing Partners for permanently affordable rentals and cleared housing revenue bonds for the Harvest34 project.",
+  "where": "Harvest34",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1014"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/8": {
+  "id": "boulder/8",
+  "title": "Arapahoe Avenue rezoning and Naropa campus redevelopment",
+  "summary": "Council introduced a rezoning of 3.7 acres at 2106 and 2130 Arapahoe Avenue to high-density residential, vacated part of Marine Street, and reviewed a site plan to redevelop the Naropa campus.",
+  "where": "2106-2130 Arapahoe Ave, Naropa campus",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1050"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/9": {
+  "id": "boulder/9",
+  "title": "Boulder Valley Comprehensive Plan update",
+  "summary": "Council introduced the ordinance adopting the 2025 major ten-year update to the Boulder Valley Comprehensive Plan.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1050"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/10": {
+  "id": "boulder/10",
+  "title": "Power reliability and resilience forum",
+  "summary": "Council held a community forum on power reliability and resilience, a council priority project, and reviewed a concept plan to expand Xcel Energy's service center at 2655 N. 63rd Street.",
+  "where": "2655 N 63rd St",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-08",
+    "body": "Community and Council Forum",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1056"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1026"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/11": {
+  "id": "boulder/11",
+  "title": "Civic Area East Bookend redevelopment",
+  "summary": "Council discussed a request for proposals for a development partner on the east end of the Civic Area.",
+  "where": "Civic Area",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-17",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1038"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1008"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/12": {
+  "id": "boulder/12",
+  "title": "Marijuana and liquor licensing changes",
+  "summary": "Council updated the medical and recreational marijuana code and created expanded permits and a tax for spirits manufacturers.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-17",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1038"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1026"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1014"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/13": {
+  "id": "boulder/13",
+  "title": "Pedicab licenses",
+  "summary": "Council created licenses and fees for pedicab companies and drivers.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-03",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1026"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1014"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/14": {
+  "id": "boulder/14",
+  "title": "Frasier senior campus expansion",
+  "summary": "Council reviewed a site review amendment for Frasier to build a 55-foot, four-story, 96-unit independent living building with underground parking.",
+  "where": "Frasier campus",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-03",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1026"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "boulder/15": {
+  "id": "boulder/15",
+  "title": "Landmark designations at 1004 Lincoln Place and 844-850 12th Street",
+  "summary": "Council designated two properties as individual landmarks.",
+  "where": "1004 Lincoln Pl, 844-850 12th St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-17",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1038"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://bouldercolorado.primegov.com/Portal/Meeting?meetingTemplateId=1014"
+   }
+  ],
+  "government": "Boulder"
+ },
+ "denver/0": {
+  "id": "denver/0",
+  "title": "Data center moratorium",
+  "summary": "City staff updated the Community Planning and Housing committee on Denver's moratorium on new data centers while the city works out rules for where they can go and how much power and water they can use.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12872&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/1": {
+  "id": "denver/1",
+  "title": "NWSL stadium at Santa Fe Yards and the Broadway Station bridge",
+  "summary": "Council amended the agreement with the Broadway Station metro district for the women's pro soccer stadium site and took a state grant for a pedestrian bridge over the rail lines linking the Broadway RTD station to the stadium and Santa Fe Yards.",
+  "where": "Broadway Station / Santa Fe Yards",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "South Platte River Committee",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13004&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12877&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "South Platte River Committee",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12857&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/2": {
+  "id": "denver/2",
+  "title": "Mayor's proposed 2027 budget",
+  "summary": "The Finance Department walked council through the budget book, council worked through proposed changes to sales tax initiatives, and the mayor's 2027 budget was set for a public hearing on October 26.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13009&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Operations Meeting of the City Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12983&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12890&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Budget and Policy Committee",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12886&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/3": {
+  "id": "denver/3",
+  "title": "Denver Health sales tax spending",
+  "summary": "Council reviewed how the 0.34% Denver Health sales tax approved in 2024 is being spent and moved a string of new and amended contracts with Denver Health, including the behavioral health services at 777 Bannock Street.",
+  "where": "777 Bannock St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13002&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12977&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12887&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12892&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12871&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/4": {
+  "id": "denver/4",
+  "title": "Homeless shelters and rapid rehousing contracts",
+  "summary": "Council approved a run of contracts for rapid resolution and rehousing, new emergency shelter at the Sand & Sage/Westerner Motel on East Colfax, a safe outdoor space at 3815 N Steele Street and a micro-community shelter site.",
+  "where": "Sand & Sage Motel (East Colfax), 3815 N Steele St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12988&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "South Platte River Committee",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12978&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12969&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12930&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12909&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12898&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12881&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/5": {
+  "id": "denver/5",
+  "title": "Downtown Development Authority boundaries and projects",
+  "summary": "Council repeatedly expanded the Denver Downtown Development Authority's boundaries and approved DDA funding for the Midland Condominiums, the University Building on 16th Street and 101 W Colfax, where the city is also leasing space.",
+  "where": "Downtown, 16th Street, 101 W Colfax Ave",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Governance and Intergovernmental Relations",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13003&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12976&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Governance and Intergovernmental Relations",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12918&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12892&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12870&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/6": {
+  "id": "denver/6",
+  "title": "Council votes down Citibot and Slalom tech contracts",
+  "summary": "After being called out for debate, resolutions adding $3.9 million to the Citibot chatbot contract and $5 million to the Slalom consulting contract both failed on the council floor.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12987&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12975&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Governance and Intergovernmental Relations",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12934&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/7": {
+  "id": "denver/7",
+  "title": "Sunny Side Up city video contract",
+  "summary": "A contract for city marketing and recruiting videos drew pushback; an added $600,000 failed on the floor in August before a smaller $250,000 amendment came back in the fall.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12975&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Governance and Intergovernmental Relations",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12934&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12859&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Governance and Intergovernmental Relations",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12845&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/8": {
+  "id": "denver/8",
+  "title": "Affordable housing bonds and loans",
+  "summary": "Council approved housing revenue bonds for the Green Valley Vistas and Link and Pin apartments, a loan for 1600 Pearl, a loan for a 118-unit income-restricted building, and state money for middle-income row homes at Loretto Heights.",
+  "where": "Green Valley Ranch, North Capitol Hill, Loretto Heights",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12969&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12930&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12879&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12826&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/9": {
+  "id": "denver/9",
+  "title": "Universal Recycling and Composting Ordinance rollout",
+  "summary": "Council heard an update on putting the recycling and composting ordinance into effect, which phases in recycling and compost service requirements for apartments and businesses.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-05",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12825&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12837&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/10": {
+  "id": "denver/10",
+  "title": "Flood control at the Globeville Levee, Sanderson Gulch and Harvard Gulch",
+  "summary": "Council moved agreements with the Mile High Flood District and federal grants for drainage and flood control work on the Globeville Levee from 31st Street to East 50th Avenue, along Sanderson Gulch and at Harvard Gulch.",
+  "where": "Globeville Levee, Sanderson Gulch, Harvard Gulch",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13005&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "South Platte River Committee",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12896&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12903&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "South Platte River Committee",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12882&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12861&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-07-29",
+    "body": "South Platte River Committee",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12831&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/11": {
+  "id": "denver/11",
+  "title": "Airport expansion and airline leases at DIA",
+  "summary": "Council approved a $135 million project management contract for the North Terminal expansion, taxiway and gate apron construction, and new use-and-lease agreements with ten airlines.",
+  "where": "Denver International Airport",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12979&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12963&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12920&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12883&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12825&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/12": {
+  "id": "denver/12",
+  "title": "Rewrite of the city's minority and women-owned business contracting rules",
+  "summary": "Council passed a rewrite of the city code's minority-owned, women-owned and small business enterprise contracting program.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12929&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12905&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12890&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/13": {
+  "id": "denver/13",
+  "title": "Housing Stability's one-year plan for 2027",
+  "summary": "Council changed the code so the Department of Housing Stability can run on a one-year continuation plan for 2027 and bring a new long-range strategic plan in September 2027.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12929&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12905&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12900&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/14": {
+  "id": "denver/14",
+  "title": "Missing middle housing and zoning reform",
+  "summary": "Council toured missing middle housing as part of Unlocking Housing Choices and heard about regulatory reform and a federal PRO Housing grant meant to make more kinds of homes legal to build.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12921&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-07-29",
+    "body": "Workshops and Presentations",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12835&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/15": {
+  "id": "denver/15",
+  "title": "West Colfax and Hazel Court rezonings",
+  "summary": "Council moved rezonings at 3418 W 14th Avenue and 1371 N Julian Street in West Colfax and held a public hearing on rezoning 76 N Hazel Court and nearby lots.",
+  "where": "3418 W 14th Ave, 1371 N Julian St, 76 N Hazel Ct",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12987&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12900&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12892&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Community Planning and Housing",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12872&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/16": {
+  "id": "denver/16",
+  "title": "Traffic camera ordinance (AVIS)",
+  "summary": "Council worked on changes to the ordinance for the automated vehicle identification system, the city's photo traffic enforcement cameras.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13012&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12992&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12977&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/17": {
+  "id": "denver/17",
+  "title": "Council positions on Amendments 81 and 82",
+  "summary": "Council took up a proclamation opposing state ballot Amendment 81 on law enforcement and discussed Amendment 82 on a constitutional right to buy and sell natural gas.",
+  "where": "Statewide ballot",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Transportation and Infrastructure",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13005&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=13009&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12992&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/18": {
+  "id": "denver/18",
+  "title": "Limits on spending dedicated taxes on alcohol and perks",
+  "summary": "Council advanced bills barring Caring for Denver, Denver Preschool Program and college affordability tax money from being spent on alcohol, staff wellness programs and similar administrative costs.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Governance and Intergovernmental Relations",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12918&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/19": {
+  "id": "denver/19",
+  "title": "East Colfax sidewalk land acquisition",
+  "summary": "Council moved an ordinance letting the city buy or condemn land to add sidewalks where none exist along East Colfax in District 8.",
+  "where": "East Colfax, Council District 8",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Mayor-Council",
+    "kind": "agenda",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12999&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Finance and Business",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12976&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/20": {
+  "id": "denver/20",
+  "title": "Entertainment license overhaul",
+  "summary": "Council updated the city code for entertainment licenses, including application and license fees.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-03",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12842&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/21": {
+  "id": "denver/21",
+  "title": "Filling an at-large council seat",
+  "summary": "A special meeting declared a vacancy in one of the two at-large council seats.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-05",
+    "body": "Special Meeting Of The City Council",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12849&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "denver/22": {
+  "id": "denver/22",
+  "title": "ShotSpotter contract cut",
+  "summary": "Council cut about $147,000 from the SoundThinking (ShotSpotter) gunshot detection contract.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-02",
+    "body": "Health and Safety",
+    "kind": "minutes",
+    "url": "https://denver.legistar.com/MeetingDetail.aspx?LEGID=12899&GID=655&G=928A1C29-26D7-4A5D-8DD4-947A533B1CC6"
+   }
+  ],
+  "government": "Denver"
+ },
+ "erie/0": {
+  "id": "erie/0",
+  "title": "Town mineral rights and the Draco oil and gas pad",
+  "summary": "After SM Energy backed out of buying town-owned mineral rights for its Draco drilling project, council repealed the sale ordinance and discussed whether to lease the minerals instead and what role the town should play in the state drilling permit process.",
+  "where": "Draco Pad",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1328/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/59/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/1": {
+  "id": "erie/1",
+  "title": "New oil and gas rules and fees",
+  "summary": "The planning commission reviewed a rewrite of the town's oil and gas regulations covering per-well fees, legacy wells, noise, air quality, inspections and notification, with a resident urging higher inspection fees.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1111/files"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1098/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/2": {
+  "id": "erie/2",
+  "title": "2027 budget cuts amid falling revenue",
+  "summary": "With sales tax growth under 2% and use tax and building permits down more than 40%, staff built a leaner 2027 budget with few new positions; advisory boards were told to cut their budgets, and hearings were set for October 27 and November 10.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1301/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Tree Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1209/files"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Sustainability Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1183/files"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1312/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Tree Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1208/files"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Sustainability Advisory Board",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1182/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/3": {
+  "id": "erie/3",
+  "title": "Page property open space rezoning",
+  "summary": "The open space board recommended rezoning land on the Page property west of the Cottonwood Extension Ditch as Reserved Open Space, which needs voter approval to ever sell or rezone, ahead of a council discussion set for November 10.",
+  "where": "Page property, near Reliance Park and CR 1.5",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1112/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Open Space and Trails Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1313/files"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Open Space and Trails Advisory Board",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1195/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/4": {
+  "id": "erie/4",
+  "title": "Protecting open space through zoning",
+  "summary": "The planning commission and open space board held a joint session on how open space is zoned, the Reserved Open Space district, the land acquisition strategy and how the open space board reviews development.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1112/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Open Space and Trails Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1313/files"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Open Space and Trails Advisory Board",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1195/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/5": {
+  "id": "erie/5",
+  "title": "Vista Ridge golf course and Vista Reserve development",
+  "summary": "The planning commission and council took up two amendments to the Vista Ridge planned development, including changes for the golf course and the Vista Reserve preliminary plat.",
+  "where": "Vista Ridge",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1289/files"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/47/files"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1110/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/6": {
+  "id": "erie/6",
+  "title": "Short-term rental rules",
+  "summary": "The planning commission and council held hearings on adding a short-term rental chapter to the town's development code.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1289/files"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1099/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/7": {
+  "id": "erie/7",
+  "title": "Erie Municipal Airport noise, hangars and fees",
+  "summary": "Residents complained about early-morning touch-and-go flights, while the airport board worked on hangar development, through-the-fence fees and a possible charter change to allow longer land leases, and council got a hangar development update.",
+  "where": "Erie Municipal Airport",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Airport Economic Development Advisory Board",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1223/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1289/files"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Airport Economic Development Advisory Board",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1222/files"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Airport Economic Development Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1221/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/8": {
+  "id": "erie/8",
+  "title": "Hiring a new town manager",
+  "summary": "After 60 applications and interviews, council appointed Kelli Johnson as town manager starting January 4, 2027.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1332/files"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1331/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/9": {
+  "id": "erie/9",
+  "title": "Colliers Hill urban renewal tax increment",
+  "summary": "The urban renewal authority and council approved tax increment agreements for the Colliers Hill area, including a Weld County amendment that drops a requirement to spend some revenue on Weld County Road 5 and allows parks and recreation projects.",
+  "where": "Colliers Hill",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1315/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1247/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/59/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/10": {
+  "id": "erie/10",
+  "title": "Downtown Briggs Street redevelopment",
+  "summary": "The urban renewal authority paid for downtown infrastructure and design work and took up a development agreement for 150 Briggs Street, while council approved sidewalk patio licenses for businesses on Briggs Street.",
+  "where": "Briggs Street, downtown Erie",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1315/files"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/60/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1247/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/11": {
+  "id": "erie/11",
+  "title": "Erie Lake Dam seepage repairs",
+  "summary": "Council amended the design and construction contracts for the project to fix seepage at the Erie Lake dam.",
+  "where": "Erie Lake",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/47/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/12": {
+  "id": "erie/12",
+  "title": "Proposition 123 affordable housing commitment",
+  "summary": "The town is asking the state to cut its Proposition 123 affordable housing requirement to 30 units, and planners discussed how the commitment will shape the development code update.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1099/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/13": {
+  "id": "erie/13",
+  "title": "Lodging tax and sales tax ballot measures",
+  "summary": "Two ballot measures are coming, a proposed 3.5% lodging tax tied to the Sundance Film Festival and a proposed sales tax increase.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-17",
+    "body": "Open Space and Trails Advisory Board",
+    "kind": "minutes",
+    "url": "https://erieco.portal.civicclerk.com/event/1313/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/14": {
+  "id": "erie/14",
+  "title": "Coal Creek rezoning and stream restoration",
+  "summary": "The planning commission heard a rezoning of the Coal Creek property, and council authorized buying land for the County Line Road and Coal Creek stream restoration project.",
+  "where": "Coal Creek, County Line Road",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1099/files"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/47/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/15": {
+  "id": "erie/15",
+  "title": "Water purchases and conservation",
+  "summary": "Council approved buying Colorado-Big Thompson water units, a home water audit program with Boulder County, and heard a presentation on Northern Water's NISP reservoir project.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/60/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/59/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "erie/16": {
+  "id": "erie/16",
+  "title": "Flock cameras and security",
+  "summary": "Council met in executive session on security arrangements and Flock Safety license plate camera technology.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://erieco.portal.civicclerk.com/event/1329/files"
+   }
+  ],
+  "government": "Erie"
+ },
+ "glendale/0": {
+  "id": "glendale/0",
+  "title": "Xcel franchise ballot question",
+  "summary": "Council took up a resolution on ballot question 2B, which would grant Xcel Energy a new franchise in Glendale.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Oct 6, 2026 \u2014\u2009Posted Oct 2, 2026 2:26 PM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_10062026-308"
+   }
+  ],
+  "government": "Glendale"
+ },
+ "glendale/1": {
+  "id": "glendale/1",
+  "title": "2027 budget and tax levy",
+  "summary": "Council introduced ordinances adopting the 2027 budget and setting the property tax levy, followed by a budget update.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Oct 19, 2026 \u2014\u2009Posted Oct 9, 2026 8:14 AM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_10192026-309"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Oct 6, 2026 \u2014\u2009Posted Oct 2, 2026 2:26 PM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_10062026-308"
+   }
+  ],
+  "government": "Glendale"
+ },
+ "glendale/2": {
+  "id": "glendale/2",
+  "title": "Four Mile project",
+  "summary": "Council met in executive session for legal advice on the Four Mile project.",
+  "where": "Four Mile",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Oct 6, 2026 \u2014\u2009Posted Oct 2, 2026 2:26 PM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_10062026-308"
+   }
+  ],
+  "government": "Glendale"
+ },
+ "glendale/3": {
+  "id": "glendale/3",
+  "title": "Clubhouse entertainment liquor license",
+  "summary": "Council held a public hearing on a new entertainment facility liquor license for a clubhouse on South Colorado Boulevard.",
+  "where": "720 S Colorado Blvd",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Oct 6, 2026 \u2014\u2009Posted Oct 2, 2026 2:26 PM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_10062026-308"
+   }
+  ],
+  "government": "Glendale"
+ },
+ "glendale/4": {
+  "id": "glendale/4",
+  "title": "Community events planning",
+  "summary": "Volunteer teams reported on the car show, Music on the Plaza and Get to Know Glendale events.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Posted Sep 18, 2026 11:58 AM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_09212026-307"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Sep 14, 2026 \u2014\u2009Posted Sep 11, 2026 6:09 AM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_09142026-306"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Aug 10, 2026 \u2014\u2009Posted Aug 6, 2026 2:30 PM",
+    "kind": "agenda",
+    "url": "https://www.glendale.co.us/AgendaCenter/ViewFile/Agenda/_08102026-304"
+   }
+  ],
+  "government": "Glendale"
+ },
+ "longmont/0": {
+  "id": "longmont/0",
+  "title": "Vance Brand Airport noise and future",
+  "summary": "The city held a town hall on what it can and cannot legally do about airport noise, and council held a vision session on the airport's future, governance and rebuilding trust with neighbors.",
+  "where": "Vance Brand Municipal Airport, 229 Airport Rd",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-26",
+    "body": "City Council Airport Vision Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17051"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "REMOTE Sustainability Advisory Board",
+    "kind": "minutes",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15835"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Town Hall: What the City Can and Cannot Do About Airport Noise",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16955"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/1": {
+  "id": "longmont/1",
+  "title": "First and Main urban renewal and downtown tax increment deals",
+  "summary": "The urban renewal authority approved tax increment revenue agreements with the city, Boulder County, Northern Water, St. Vrain Valley Schools and the Downtown Development Authority for the 1st and Main redevelopment area, which also came up at a joint meeting with county commissioners.",
+  "where": "1st Avenue and Main Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council Joint Meeting with Boulder County Commissioners",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17247"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Longmont Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16783"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Special Meeting",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16990"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/2": {
+  "id": "longmont/2",
+  "title": "Trash, compost and sanitation rates",
+  "summary": "Council discussed lining up waste and compost rates with city policy goals and asked the Sustainability Advisory Board for feedback on the sanitation rate structure.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "REMOTE Sustainability Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15839"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "REMOTE Sustainability Advisory Board",
+    "kind": "minutes",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15835"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Pre-Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16721"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/3": {
+  "id": "longmont/3",
+  "title": "Water supply, drought and Ralph Price Reservoir",
+  "summary": "The Water Board weighed a one-year water exchange with the St. Vrain and Left Hand Water Conservancy District, whose supply could run out by 2028 in continued drought, reviewed how Ralph Price Reservoir is managed, and heard about the Dry Creek Fire near Button Rock.",
+  "where": "Button Rock Preserve / Ralph Price Reservoir",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Water Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17415"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Water Board",
+    "kind": "minutes",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17306"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Water Board",
+    "kind": "minutes",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17153"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/4": {
+  "id": "longmont/4",
+  "title": "Affordable housing and the inclusionary housing fee",
+  "summary": "The housing board reviewed the inclusionary housing ordinance, which requires 12% affordable units or a fee instead, as part of a housing needs update, and housing funding and demand for for-sale homes came up with county commissioners and the school board.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "City Council Joint Meeting with the Board of Education",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17084"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "City Council Joint Meeting with Boulder County Commissioners",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17247"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17065"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/5": {
+  "id": "longmont/5",
+  "title": "Human services funding hearings",
+  "summary": "The Housing and Human Service Advisory Board set a scoring threshold and held weekly hearings with nonprofits applying for city human services funding.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 9,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17366"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17361"
+   },
+   {
+    "date": "2026-10-08",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17300"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17290"
+   },
+   {
+    "date": "2026-09-26",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17233"
+   },
+   {
+    "date": "2026-09-23",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17228"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17223"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17218"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Housing and Human Service Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17065"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/6": {
+  "id": "longmont/6",
+  "title": "Show cause hearing for 333 Main Street liquor license",
+  "summary": "The licensing authority scheduled a show cause hearing on a bar at 333 Main Street over rowdiness, noise, disturbances and open container violations.",
+  "where": "333 Main St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-02",
+    "body": "Local Licensing Authority Hearing",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17347"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Local Licensing Authority- CONTINUED TO DATE TBD",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17060"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/7": {
+  "id": "longmont/7",
+  "title": "Platte River Power and clean energy goals",
+  "summary": "Platte River Power Authority told the Sustainability Advisory Board it cannot reach 100% noncarbon power by 2030 and is starting a new resource plan, and the board began work on the 2027 sustainability tax.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "IN PERSON Sustainability Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15844"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "REMOTE Sustainability Advisory Board",
+    "kind": "minutes",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15835"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/8": {
+  "id": "longmont/8",
+  "title": "City flag redesign",
+  "summary": "A selection panel and the Art in Public Places Commission worked through submissions for a new official Longmont flag.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Art in Public Places Commission",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15619"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Art in Public Places Commission",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15614"
+   },
+   {
+    "date": "2026-08-22",
+    "body": "City of Longmont Official City Flag Redesign Selection Panel Meeting",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17166"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Art in Public Places Commission",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15609"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/9": {
+  "id": "longmont/9",
+  "title": "Automated checkout workforce impact fee",
+  "summary": "Council members discussed a possible fee on stores that replace cashiers with automated checkout.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "City Council Pre-Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16810"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/10": {
+  "id": "longmont/10",
+  "title": "New homes at 10930 Airport Road",
+  "summary": "A neighborhood meeting covered a proposal for new single-family homes at 10930 Airport Road that would need a comprehensive plan amendment, rezoning and subdivision.",
+  "where": "10930 Airport Rd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "VIRTUAL",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17338"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/11": {
+  "id": "longmont/11",
+  "title": "Front Range Passenger Rail",
+  "summary": "The urban renewal authority considered a letter of support for Front Range Passenger Rail.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Longmont Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16783"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/12": {
+  "id": "longmont/12",
+  "title": "Property tax burden",
+  "summary": "At its legislative dinner, council raised the gap between the property taxes residents pay and what cities receive.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "City Council Legislative Dinner",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17243"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "louisville/0": {
+  "id": "louisville/0",
+  "title": "Inclusionary housing ordinance update",
+  "summary": "Council rewrote the inclusionary housing rules that require affordable units in new development, drawing letters from Strong Towns Louisville and residents asking for small-project exemptions and by-right incentives, before a final hearing in September.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/39/files"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/35/files"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/33/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/32/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/1": {
+  "id": "louisville/1",
+  "title": "Golf course fees and the Coal Creek Golf Fund deficit",
+  "summary": "With the golf fund's costs projected to outrun green fees, the recreation board modeled fee increases, heard golfers worried about losing the course's community culture, and sent 2027 fee and pass recommendations to council.",
+  "where": "Coal Creek Golf Course",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1341/files"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1340/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1426/files"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1339/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/2": {
+  "id": "louisville/2",
+  "title": "2027-2028 budget and operating deficit",
+  "summary": "Council worked through a \"transitionary\" budget with costs growing faster than revenue, an operating deficit, service level cuts such as cancelled event sponsorships, a refined six-year capital plan, and a final budget hearing on October 20.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 10,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/137/files"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/40/files"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/136/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1311/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/37/files"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/135/files"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Cultural Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1266/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1310/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/34/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/3": {
+  "id": "louisville/3",
+  "title": "Centennial Valley residential development plan",
+  "summary": "Council and its boards held hearings on amending the Centennial Valley general development plan to allow housing that could grow Louisville's housing by 12%, with residents arguing the parks, trails and open space in the plan are too small.",
+  "where": "Centennial Valley Business Park",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1312/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1311/files"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Parks & Public Landscaping Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1326/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1310/files"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/33/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/32/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/4": {
+  "id": "louisville/4",
+  "title": "AdventHealth hospital and helipad at Redtail Ridge",
+  "summary": "Council took up the planned development and a special review use for a helicopter pad at the AdventHealth (Avista) hospital at Redtail Ridge, with questions about exemptions from LEED and solar requirements.",
+  "where": "Redtail Ridge",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/33/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/32/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/5": {
+  "id": "louisville/5",
+  "title": "Delo Boom 135-unit development",
+  "summary": "The planning commission reviewed the final plans for 135 homes and a small commercial space at 1390 Cannon Street and 1301 Courtesy Road, with supporters citing the need for attainable housing and a Delo resident warning of a parking shortfall.",
+  "where": "1390 Cannon St / 1301 Courtesy Rd",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-30",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1409/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/6": {
+  "id": "louisville/6",
+  "title": "Open space, parks and trails long-range plan",
+  "summary": "Boards and council reviewed the draft PROS guidebook and trails plan, with the open space group LOSA objecting to land classifications and trails it says conflict with the city charter's open space protections.",
+  "where": "Citywide open space",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1312/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/43/files"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1341/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1311/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/36/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1310/files"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Parks & Public Landscaping Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1390/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/7": {
+  "id": "louisville/7",
+  "title": "Sustainability funding, bag tax and electrification rebates",
+  "summary": "The sustainability board and council discussed a sustainability tax, renegotiating the Xcel franchise, using bag tax money, water conservation in a snowmelt-dependent system and new home electrification and heat pump rebates.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/40/files"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Sustainability Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1367/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/37/files"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1223/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/34/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/8": {
+  "id": "louisville/8",
+  "title": "Marshall Fire five-year remembrance",
+  "summary": "Council reviewed survey results on a Marshall Fire five-year remembrance, with remembrance funds going toward Superior's memorial project.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Cultural Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1268/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/39/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/37/files"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Cultural Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1266/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/9": {
+  "id": "louisville/9",
+  "title": "Fire Smart Louisville wildfire program",
+  "summary": "Council funded Fire Smart Louisville, a volunteer effort with the Boulder Watershed Collective to help neighborhoods reduce wildfire risk, and approved a $100,000 agreement with the collective.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/33/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/32/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/10": {
+  "id": "louisville/10",
+  "title": "Comprehensive plan and development code update",
+  "summary": "The planning commission reviewed the new comprehensive plan's growth projections and the city launched a development code rewrite with state grant money, as residents raised concerns about growth, traffic, water, wildfire evacuation and community character.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-08",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1412/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/42/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/11": {
+  "id": "louisville/11",
+  "title": "Affordable housing strategy and Prop 123",
+  "summary": "Council heard a housing strategic framework from Trestle Strategy Group, reviewed a concept for affordable senior housing on Centennial Drive, and set expedited review for affordable projects and a state Prop 123 commitment.",
+  "where": "Centennial Drive, citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/42/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/39/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/37/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/12": {
+  "id": "louisville/12",
+  "title": "Historic preservation tax ballot measure and landmarks",
+  "summary": "Council took a position on the November historic preservation tax measure and designated landmarks including the Caranci House at 1101 Main and the Giorzelli House, with grants for the James House, Mudrock House and the grain elevator at 540 County Road.",
+  "where": "1101 Main St, 700 Pine St, 613 Grant Ave, 741 Jefferson Ave",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Historic Preservation Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1283/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/42/files"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/40/files"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/35/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Historic Preservation Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1281/files"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/33/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/13": {
+  "id": "louisville/13",
+  "title": "Grain Elevator and Grain Yard redevelopment",
+  "summary": "The Revitalization Commission worked on a tax increment financing agreement for the Grain Elevator and facade and property improvement grants for the Grain Yard.",
+  "where": "Grain Elevator, 540 County Road",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Revitalization Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1356/files"
+   },
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Revitalization Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1355/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/14": {
+  "id": "louisville/14",
+  "title": "Front and Center construction impacts downtown",
+  "summary": "Business owners raised worries that the Front and Center construction project will hurt Street Fair and Front Street businesses, and commissioners discussed construction impact support grants.",
+  "where": "Front Street, downtown",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-09",
+    "body": "Revitalization Commission",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1355/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/15": {
+  "id": "louisville/15",
+  "title": "Trash, recycling and compost rate increases",
+  "summary": "Council set new refuse, recycling and compost collection fees effective September 1, with questions about why recycling and compost rates rose.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/37/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/16": {
+  "id": "louisville/16",
+  "title": "Utility rates for 2027",
+  "summary": "A revised 2027 water and sewer rate presentation was delayed and then discussed, and the northeast water loop project was pulled from the budget after rate talks.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/137/files"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/136/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/17": {
+  "id": "louisville/17",
+  "title": "Business incentives for Infleqtion and Arsenal Health",
+  "summary": "Council approved business assistance agreements worth $281,114 for Infleqtion Quantum and $208,400 for Arsenal Health.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/44/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/18": {
+  "id": "louisville/18",
+  "title": "City land deals at Empire Road, 1155 Pine Street and Gateway open space",
+  "summary": "Council approved buying land at 1501 Empire Road, extended a lease-purchase at 1155 Pine Street, and approved buying the Gateway open space property.",
+  "where": "1501 Empire Rd, 1155 Pine St, Gateway open space",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/42/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/39/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/37/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/19": {
+  "id": "louisville/19",
+  "title": "Bocce court and Community Park upkeep",
+  "summary": "Residents asked for better upkeep of the bocce courts at Memory Square and Community Park, and boards pushed for shade structures and flower bed improvements at Community Park.",
+  "where": "Community Park, Memory Square",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Parks & Public Landscaping Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1327/files"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1341/files"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1340/files"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Parks & Public Landscaping Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1325/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "louisville/20": {
+  "id": "louisville/20",
+  "title": "Prairie dogs on open space",
+  "summary": "Residents asked the open space board to deal with prairie dogs moving into neighborhoods near open space.",
+  "where": "City open space",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://louisvilleco.portal.civicclerk.com/event/1311/files"
+   }
+  ],
+  "government": "Louisville"
+ },
+ "superior/0": {
+  "id": "superior/0",
+  "title": "Marshall Fire Remembrance and five-year anniversary",
+  "summary": "The town is designing a Marshall Fire Remembrance with a gathering place and pet memorial, setting up fundraising through Colorado Gives with $25,000 committed by Louisville, and planning a five-year anniversary resilience celebration on December 18.",
+  "where": "Superior Community Center",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-16",
+    "body": "Superior Historical Commission (SHC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/229/files"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Superior Youth Leadership Council (SYLC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/314/files"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "Cultural Arts and Public Spaces Advisory Committee (CAPS)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/277/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/289/files"
+   },
+   {
+    "date": "2026-08-31",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/49/files"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "Cultural Arts and Public Spaces Advisory Committee (CAPS)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/276/files"
+   },
+   {
+    "date": "2026-08-21",
+    "body": "Superior Historical Commission (SHC)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/227/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/1": {
+  "id": "superior/1",
+  "title": "2027 budget and property tax levy",
+  "summary": "Council held a series of budget review sessions on the 2027 budget and five-year plan, with sales tax flat and vehicle use tax down, then set a public hearing to adopt the budget, fees and property tax levy along with the metro district and urban renewal budgets.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/31/files"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/669/files"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/668/files"
+   },
+   {
+    "date": "2026-08-31",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/662/files"
+   },
+   {
+    "date": "2026-08-14",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/658/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/2": {
+  "id": "superior/2",
+  "title": "Zaharias property development at 7500 S 88th Street",
+  "summary": "Garrett Companies sought a 25th amendment to the Rock Creek Ranch planned development for the Zaharias property, with residents speaking at the planning commission hearing before it went to council.",
+  "where": "7500 S 88th St",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/30/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/289/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Planning Commission",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/595/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/3": {
+  "id": "superior/3",
+  "title": "Pirate Park playground renovation",
+  "summary": "Council approved a design-build contract with Altitude Recreation to rebuild the Pirate Park playground, and the parks committee and council got regular progress updates.",
+  "where": "Pirate Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/31/files"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Parks and Recreation Advisory Committee (PARC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/301/files"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Parks and Recreation Advisory Committee (PARC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/300/files"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/29/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/4": {
+  "id": "superior/4",
+  "title": "Water conservation and turf reduction",
+  "summary": "The town drafted a waterwise landscape roadmap and a tool for ranking non-functional turf to remove, gathered resident input on Shape Superior, and amended its Northern Water supply allotment.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/31/files"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Advisory Committee for Environmental Sustainability (ACES)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/264/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/5": {
+  "id": "superior/5",
+  "title": "Prairie dog and wildlife management plans",
+  "summary": "The open space committee worked on a prairie dog management plan covering relocation and conflicts, a broader town wildlife plan, and balancing wildfire mitigation with habitat.",
+  "where": "Town open space",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/290/files"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/289/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/288/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/6": {
+  "id": "superior/6",
+  "title": "Coyote Ridge trail recommendations",
+  "summary": "A consultant presented recommended trail projects for Coyote Ridge open space, to be priced and scheduled once staff sign off.",
+  "where": "Coyote Ridge",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/290/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Open Space Advisory Committee (OSAC)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/288/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/7": {
+  "id": "superior/7",
+  "title": "Adopting the 2024 International Fire Code",
+  "summary": "Council adopted the 2024 International Fire Code after a hearing continued from August, with the Mountain View Fire Protection District presenting.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/42/files"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/29/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/8": {
+  "id": "superior/8",
+  "title": "Boulder County early childhood mill levy",
+  "summary": "Council passed a resolution supporting the Boulder County ballot measure to raise the property tax for early childhood care and education, after discussing the county's child care investment initiative.",
+  "where": "Boulder County",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/30/files"
+   },
+   {
+    "date": "2026-08-31",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/49/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/9": {
+  "id": "superior/9",
+  "title": "88th Street bike and pedestrian improvements",
+  "summary": "Council approved an agreement with CDOT for bicycle and pedestrian improvements along 88th Street.",
+  "where": "88th Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/41/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/10": {
+  "id": "superior/10",
+  "title": "Trash, recycling and electric garbage trucks",
+  "summary": "Republic Services briefed council on contamination, blocked containers and its electric collection trucks, as the town looks at a future single-hauler contract and apartment recycling and composting.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/31/files"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Advisory Committee for Environmental Sustainability (ACES)",
+    "kind": "minutes",
+    "url": "https://superiorco.portal.civicclerk.com/event/264/files"
+   }
+  ],
+  "government": "Superior"
+ },
+ "superior/11": {
+  "id": "superior/11",
+  "title": "Rock Creek Parkway, Community Center and pool construction",
+  "summary": "Council received construction updates on Rock Creek Parkway, the community center and the north and south pools.",
+  "where": "Rock Creek Parkway, Superior Community Center",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Parks and Recreation Advisory Committee (PARC)",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/302/files"
+   },
+   {
+    "date": "2026-10-12",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://superiorco.portal.civicclerk.com/event/31/files"
+   }
+  ],
+  "government": "Superior"
+ }
+}

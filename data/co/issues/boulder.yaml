@@ -1,0 +1,68 @@
+- title: November ballot measures
+  summary: Council put several questions on the November 3 ballot, including general obligation bonds for recreation and safety projects, a vacancy excise tax on homes occupied 183 days a year or less, a charter right for firefighters to bargain collectively, and a wildfire resilience measure for open space.
+  where: Citywide
+  refs: [0, 1, 6]
+  public_comment: true
+- title: Boulder Downtown Development Authority
+  summary: Council moved to ask downtown voters whether to form a Downtown Development Authority that could use tax increment financing for downtown projects.
+  where: Downtown Boulder
+  refs: [1]
+  public_comment: true
+- title: Wildfire resilience and home hardening
+  summary: Council worked on a wildfire home hardening hub and a review of every city wildfire program as a council priority project, alongside the open space wildfire ballot measure.
+  where: Citywide, wildland-urban edge
+  refs: [0, 5, 11, 14]
+- title: Local minimum wage increase
+  summary: Council held the second reading of an ordinance setting Boulder's local minimum wage.
+  where: Citywide
+  refs: [0]
+  public_comment: true
+- title: 2027 budget
+  summary: Council held a study session on the 2027 recommended budget and then adopted budgets and mill levies for the downtown, University Hill and Boulder Junction improvement districts.
+  where: Citywide, Downtown, University Hill, Boulder Junction
+  refs: [8, 11, 13]
+- title: Eminent domain for the 30th Street projects
+  summary: Council introduced ordinances allowing the city to buy or condemn land for the North 30th Street project and the South 30th Street multimodal improvements.
+  where: 30th Street
+  refs: [1]
+- title: Annexation of Cherryvale Road and McSorley Lane properties
+  summary: Council took up a petition to annex about 5.4 acres at 1275 Cherryvale Rd. and 5995 McSorley Ln. with rural residential zoning, setting a public hearing for November 12.
+  where: 1275 Cherryvale Rd, 5995 McSorley Ln
+  refs: [4, 11]
+- title: Affordable housing bonds for Boulder Housing Partners and Harvest34
+  summary: Council assigned $7.3 million in private activity bonds to Boulder Housing Partners for permanently affordable rentals and cleared housing revenue bonds for the Harvest34 project.
+  where: Harvest34
+  refs: [4]
+- title: Arapahoe Avenue rezoning and Naropa campus redevelopment
+  summary: Council introduced a rezoning of 3.7 acres at 2106 and 2130 Arapahoe Avenue to high-density residential, vacated part of Marine Street, and reviewed a site plan to redevelop the Naropa campus.
+  where: 2106-2130 Arapahoe Ave, Naropa campus
+  refs: [11]
+- title: Boulder Valley Comprehensive Plan update
+  summary: Council introduced the ordinance adopting the 2025 major ten-year update to the Boulder Valley Comprehensive Plan.
+  where: Citywide
+  refs: [11]
+- title: Power reliability and resilience forum
+  summary: Council held a community forum on power reliability and resilience, a council priority project, and reviewed a concept plan to expand Xcel Energy's service center at 2655 N. 63rd Street.
+  where: 2655 N 63rd St
+  refs: [6, 12]
+  public_comment: true
+- title: Civic Area East Bookend redevelopment
+  summary: Council discussed a request for proposals for a development partner on the east end of the Civic Area.
+  where: Civic Area
+  refs: [2, 9]
+- title: Marijuana and liquor licensing changes
+  summary: Council updated the medical and recreational marijuana code and created expanded permits and a tax for spirits manufacturers.
+  where: Citywide
+  refs: [4, 6, 9]
+- title: Pedicab licenses
+  summary: Council created licenses and fees for pedicab companies and drivers.
+  where: Citywide
+  refs: [4, 6]
+- title: Frasier senior campus expansion
+  summary: Council reviewed a site review amendment for Frasier to build a 55-foot, four-story, 96-unit independent living building with underground parking.
+  where: Frasier campus
+  refs: [6]
+- title: Landmark designations at 1004 Lincoln Place and 844-850 12th Street
+  summary: Council designated two properties as individual landmarks.
+  where: 1004 Lincoln Pl, 844-850 12th St
+  refs: [4, 9]
