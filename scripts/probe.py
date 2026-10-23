@@ -6,16 +6,21 @@ import requests
 UA = {"User-Agent": "townhalltelescope/0.1 (hobby civic project; github.com/Z3rgrush/townhalltelescope)"}
 KEY = re.compile(r"minute|agenda|packet|meeting|document|viewfile|event|portal|\.pdf", re.I)
 
+# A URL prefixed with "raw:" prints the start of the response body instead of its links.
 urls = sys.argv[1:]
 if not urls:
     urls = [r["minutes_url"] for r in csv.DictReader(open("data/sources.csv")) if r["minutes_url"]]
 for url in urls:
+    raw = url.startswith("raw:")
+    url = url.removeprefix("raw:")
     print(f"\n===== {url}")
     try:
         r = requests.get(url, headers=UA, timeout=30)
     except Exception as e:
         print("ERROR", e); continue
     print("status", r.status_code, "type", r.headers.get("content-type"), "len", len(r.text))
+    if raw:
+        print(r.text[:6000]); continue
     links = re.findall(r'href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', r.text, re.S | re.I)
     seen = set()
     for href, text in links:
@@ -25,5 +30,5 @@ for url in urls:
             continue
         seen.add(full)
         print(f"  {text!r:60} {full}")
-        if len(seen) >= 60:
+        if len(seen) >= 150:
             print("  ..."); break
