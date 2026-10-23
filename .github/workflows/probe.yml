@@ -1,0 +1,16 @@
+name: probe
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Space-separated URLs (blank = every source)"
+        required: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - run: python scripts/probe.py ${{ github.event.inputs.urls }}

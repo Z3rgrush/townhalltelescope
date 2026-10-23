@@ -1,0 +1,24 @@
+government,county,type,platform,minutes_url,notes
+Overland Park,Johnson,city,CivicWeb (iCompass),https://opkansas.civicweb.net/Portal/MeetingTypeList.aspx,"Council, committees, Planning Commission since Dec 2019; HTML + PDF minutes"
+Leawood,Johnson,city,CivicWeb (iCompass),https://leawood.civicweb.net/Portal/MeetingTypeList.aspx,"Governing Body + Planning Commission; older items in leawood.org/AgendaCenter"
+Shawnee,Johnson,city,CivicWeb (iCompass),https://cityofshawnee.civicweb.net/Portal/MeetingTypeList.aspx,2026 council minutes confirmed online
+Olathe,Johnson,city,Custom (ord_res),https://ord_res.olatheks.org/Home/Minutes/3967,Minutes viewer on ord_res.olatheks.org; archive index URL still to confirm
+Lenexa,Johnson,city,City website PDFs,https://www.lenexa.com/Government/Mayor-City-Council/Upcoming-Council-Meetings,PDFs under lenexa.com/files/sharedassets/city/v/1/agendas-minutes/
+Prairie Village,Johnson,city,City website,https://pvkansas.com/governing-body/city-council/city-council-meetings-minutes-and-packets,"Site also at prairievillageks.gov; PDFs via showpublisheddocument"
+Merriam,Johnson,city,City website PDFs,https://www.merriam.org/,Packets under merriam.org/files/sharedassets/public/city-council/agenda-packets/<year>/
+Mission,Johnson,city,WordPress PDFs,https://missionks.org/events/category/agenda-minutes/,PDFs under missionks.org/wp-content/uploads/<yyyy>/<mm>/
+Roeland Park,Johnson,city,CivicPlus DocumentCenter,https://www.roelandpark.net/DocumentCenter,2026 draft minutes confirmed
+Gardner,Johnson,city,Revize PDFs,https://gardnerkansas.gov/government/city-council-meetings,PDFs on cms2.revize.com/revize/gardnerks/
+De Soto,Johnson,city,CivicPlus AgendaCenter,https://www.desotoks.us/AgendaCenter/City-Council-3,
+Spring Hill,Johnson (part Miami),city,CivicPlus AgendaCenter,https://www.springhillks.gov/AgendaCenter,2026 minutes confirmed
+Edgerton,Johnson,city,WordPress PDFs,https://edgertonks.org/,Agendas/packets under edgertonks.org/wp-content/uploads/; minutes mostly inside packets
+Fairway,Johnson,city,City website,https://fairwaykansas.org/,Minutes as fairwaykansas.org/uploads/dm/<id>/<date>_City_Council_Minutes
+Westwood,Johnson,city,Municode Meetings,https://meetings.municode.com/,Client code WESTWOODKS; PDFs on mccmeetings blob storage
+Westwood Hills,Johnson,city,City website PDFs,https://www.westwoodhillsks.gov/,Monthly minutes under /media/Agendas/<yyyy Month>/
+Mission Hills,Johnson,city,CivicPlus AgendaCenter,https://www.missionhillsks.gov/AgendaCenter,
+Lake Quivira,Johnson/Wyandotte,city,City website,https://www.cityoflakequivira.org/government-subpages/council-meetings,Format not checked yet
+Mission Woods,Johnson,city,Not found,,Tiny city (~200 people); may not post minutes online
+Johnson County BOCC,Johnson,county,OnBase Agenda Online,https://boccmeetings.jocogov.org/OnBaseAgendaOnline/,County commission; also county Planning Commission on jocogov.org
+Unified Government (KCK + Wyandotte Co.),Wyandotte,city-county,CivicClerk,https://wycokck.portal.civicclerk.com/,"Full Commission, standing committees, City Planning Commission; CivicClerk has a public JSON API"
+Bonner Springs,Wyandotte (part Leavenworth/Johnson),city,CivicClerk + AgendaCenter,https://bonnerspringsks.portal.civicclerk.com/,Older items at bonnersprings.org/AgendaCenter
+Edwardsville,Wyandotte,city,CivicPlus AgendaCenter,https://www.edwardsvilleks.org/AgendaCenter/City-Council-2,Agendas confirmed; minutes to check
