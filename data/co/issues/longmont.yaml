@@ -1,36 +1,52 @@
 - title: Vance Brand Airport noise and future
-  summary: The city held a town hall on what it can and cannot legally do about airport noise, and council held a vision session on the airport's future, governance and rebuilding trust with neighbors.
+  summary: The city held a town hall on what it can legally do about airport noise, council heard a baseline report on voluntary noise abatement and options for airport noise monitoring, and held a vision session on the airport's future, governance and rebuilding trust with neighbors.
   where: Vance Brand Municipal Airport, 229 Airport Rd
-  refs: [0, 14, 43]
+  refs: [0, 1, 14, 21, 43, 45]
   public_comment: true
-- title: First and Main urban renewal and downtown tax increment deals
-  summary: The urban renewal authority approved tax increment revenue agreements with the city, Boulder County, Northern Water, St. Vrain Valley Schools and the Downtown Development Authority for the 1st and Main redevelopment area, which also came up at a joint meeting with county commissioners.
-  where: 1st Avenue and Main Street
-  refs: [12, 28, 36]
-- title: Trash, compost and sanitation rates
-  summary: Council discussed lining up waste and compost rates with city policy goals and asked the Sustainability Advisory Board for feedback on the sanitation rate structure.
+- title: Public safety tax increase on the November ballot
+  summary: Council chose between several versions of a sales and property tax increase to hire more police officers, dispatchers and firefighters, referred it to the November 3 ballot and urged voters to approve it.
   where: Citywide
-  refs: [6, 14, 30]
+  refs: [5, 18, 20]
+- title: Charter amendments on ranked choice voting and open space sales
+  summary: Council referred charter amendments to the November ballot to adopt ranked choice voting, change how council members are elected, and require voter approval to sell or convey open space.
+  where: Citywide
+  refs: [1, 5, 18, 20]
+- title: 1st and Main urban renewal, transit center and parking garage
+  summary: Council approved the 1st and Main urban renewal plan and parking garage financing, a development agreement for the 1st and Main transit center and transit-oriented project, and the urban renewal authority signed tax increment agreements with the county, Northern Water, the school district and the DDA.
+  where: 1st Avenue and Main Street
+  refs: [5, 12, 18, 21, 28, 36, 38, 51, 68]
+- title: 2027 budget and 2027-2031 capital program
+  summary: Staff presented the 2027 proposed budget and five-year capital improvement program, and council held two public hearings before giving final direction and setting the property tax levy.
+  where: Citywide
+  refs: [20, 29, 45, 51]
+- title: Dry Creek, 8513 St. Vrain Road and Gateway Northwest annexations
+  summary: Council moved forward annexations and residential zoning for Dry Creek along Airport Road and Clover Basin Drive and 8513 St. Vrain Road, and the Longmont Gateway Northwest annexation at U.S. 287 and Park Ridge Avenue.
+  where: Airport Rd and Clover Basin Dr, 8513 St. Vrain Rd, US 287 and Park Ridge Ave
+  refs: [18, 21, 39, 51, 68]
+- title: Trash, compost and sanitation rates
+  summary: Council discussed lining up waste rates with city policy goals and a possible subsidy for composting, and asked the Sustainability Advisory Board for feedback on the sanitation rate structure.
+  where: Citywide
+  refs: [5, 6, 14, 30]
 - title: Water supply, drought and Ralph Price Reservoir
   summary: The Water Board weighed a one-year water exchange with the St. Vrain and Left Hand Water Conservancy District, whose supply could run out by 2028 in continued drought, reviewed how Ralph Price Reservoir is managed, and heard about the Dry Creek Fire near Button Rock.
   where: Button Rock Preserve / Ralph Price Reservoir
   refs: [11, 38, 67]
-- title: Affordable housing and the inclusionary housing fee
-  summary: The housing board reviewed the inclusionary housing ordinance, which requires 12% affordable units or a fee instead, as part of a housing needs update, and housing funding and demand for for-sale homes came up with county commissioners and the school board.
+- title: Affordable housing, inclusionary fee and expedited review
+  summary: Council set an expedited review process for affordable housing and adjusted the 2027 inclusionary housing fee-in-lieu, the housing board reviewed the 12% inclusionary requirement, and the housing authority reviewed the countywide affordable housing tax after two years.
   where: Citywide
-  refs: [9, 36, 71]
+  refs: [1, 9, 36, 59, 60, 71]
 - title: Human services funding hearings
   summary: The Housing and Human Service Advisory Board set a scoring threshold and held weekly hearings with nonprofits applying for city human services funding.
   where: Citywide
   refs: [9, 25, 33, 41, 44, 48, 54, 64, 74]
 - title: Show cause hearing for 333 Main Street liquor license
-  summary: The licensing authority scheduled a show cause hearing on a bar at 333 Main Street over rowdiness, noise, disturbances and open container violations.
+  summary: The licensing authority held a show cause hearing on a bar at 333 Main Street over rowdiness, noise, disturbances and open container violations.
   where: 333 Main St
   refs: [16, 49]
 - title: Platte River Power and clean energy goals
-  summary: Platte River Power Authority told the Sustainability Advisory Board it cannot reach 100% noncarbon power by 2030 and is starting a new resource plan, and the board began work on the 2027 sustainability tax.
+  summary: Platte River Power Authority told council and the Sustainability Advisory Board it cannot reach 100% noncarbon power by 2030 and is starting a new resource plan, and the board began work on the 2027 sustainability tax.
   where: Citywide
-  refs: [14, 69]
+  refs: [1, 14, 69]
 - title: City flag redesign
   summary: A selection panel and the Art in Public Places Commission worked through submissions for a new official Longmont flag.
   where: Citywide
@@ -39,10 +55,26 @@
   summary: Council members discussed a possible fee on stores that replace cashiers with automated checkout.
   where: Citywide
   refs: [22]
+- title: Copper Peak development at 2704 Main Street
+  summary: Council considered a concept plan amendment for the Copper Peak development on part of the Wal-Mart retail center at 2704 Main Street.
+  where: 2704 Main St
+  refs: [51]
+- title: Contractor's shops in mixed-use employment zones
+  summary: The planning commission took up a resident-initiated code change to allow contractor's shops in the MU-E zone district, with the hearing continued to November 18.
+  where: MU-E zone districts
+  refs: [69]
 - title: New homes at 10930 Airport Road
   summary: A neighborhood meeting covered a proposal for new single-family homes at 10930 Airport Road that would need a comprehensive plan amendment, rezoning and subdivision.
   where: 10930 Airport Rd
   refs: [63]
+- title: Avis car rental at 206 S. Main Street
+  summary: A neighborhood meeting covered Avis's plan to open a rental office at 206 S. Main Street and store cars behind it, a conditional use next to a greenway that council must decide.
+  where: 206 S. Main St
+  refs: [19]
+- title: School safety, housing and growth with St. Vrain Valley Schools
+  summary: At a joint meeting with the Board of Education, council discussed safe street crossings for students, shared housing efforts and how much say the city has over single-family versus apartment development.
+  where: Citywide
+  refs: [71]
 - title: Front Range Passenger Rail
   summary: The urban renewal authority considered a letter of support for Front Range Passenger Rail.
   where: Citywide

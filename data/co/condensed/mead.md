@@ -1,0 +1,376 @@
+# mead
+
+## [mead#0] 2026-08-04 | General | agenda
+- 401 3rd Street, Mead
+- This informational meeting will be held at the Mead Community Center, 401 Third Street, Mead,
+
+## [mead#1] 2026-08-10 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+
+## [mead#2] 2026-09-16 | Planning Commission | agenda
+- 441 3rd Street, Mead
+- Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- 5. Approval of Minutes
+- a. Approval of Minutes - Regular Meeting July 15, 2026
+- 6. Public Hearing
+- a. Waterfront Preliminary Plat No. 2
+- i. Resolution No. 07-PC-2026 - A Resolution of the Planning Commission of the
+- Town of Mead, Colorado, Recommending Conditional Approval of the Waterfront
+- Filing No. 2 Preliminary Plat
+- 7. Community Development Update
+
+## [mead#3] 2026-09-16 | Planning Commission | agenda
+- 441 3rd Street, Mead
+- Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- 5. Approval of Minutes
+- a. Approval of Minutes - Regular Meeting July 15, 2026
+- 6. Public Hearing
+- a. Waterfront Preliminary Plat No. 2
+- i. Resolution No. 07-PC-2026 - A Resolution of the Planning Commission of the
+- Town of Mead, Colorado, Recommending Conditional Approval of the Waterfront
+- Filing No. 2 Preliminary Plat
+- 7. Community Development Update
+- Community Development Director Todd Bjerkaas; Town Planners Alex Ailey & Lauren Rice,
+- Commissioner Rademacher motioned to approve the agenda as written. Commissioner
+- There were no public comments
+- a. Approval of Minutes - Regular Meeting June 17, 2026
+- Commissioner Rademacher motioned to approval of the Minutes. Commissioner Bratcher
+- a. Valdez Annexation Initial Zoning
+- Chair Peterson opened the public hearing at 6:04 p.m
+- Town Planner Lauren Rice started her presentation
+- Chair Peterson opened public comment
+- Chair Peterson closed the public hearing at 6:11 p.m
+- i. Resolution No. 05-PC-2026 - A Resolution of the Planning Commission of the
+- Town of Mead, Colorado, Recommending Approval of an Initial Zoning
+- Valdez Annexation
+- Commissioner Corliss motioned to approve Resolution No. 05-PC-2026 - A Resolution of the
+- Planning Commission of the Town of Mead, Colorado, Recommending Approval of an Initial
+- Zoning Designation of Public Facilities (PF) for the Town Owned Property Known as the Valdez
+- Annexation. Commissioner Rademacher seconded the motion
+- b. 1785 Weld County Road 32 Annexation Initial Zoning
+- Chair Peterson opened the public hearing at 6:12 p.m
+- Chair Peterson closed the public hearing at 6:16 p.m
+- Commissioners discussed and asked questions
+- i. Resolution No. 06-PC-2026 - A Resolution of the Planning Commission of the
+- 1785 Weld County Road 32 Annexation
+- Commissioner Rademacher motioned to approve Resolution No. 06-PC-2026 - A Resolution of
+- the Planning Commission of the Town of Mead, Colorado, Recommending Approval of an Initial
+- Weld County Road 32 Annexation. Commissioner Corliss seconded the motion
+- Director Bjerkaas recognized Town Planner Rice for presenting her first projects to the Planning
+- Mr. Bjerkaas provided an update on the successful adoption of the Parks, Recreation, Open Space,
+- and Trails Master Plan by the Board of Trustees, and addressed questions about potential data
+- center development, noting the town has not yet received proposals, and mentioned an upcoming
+- Subject: Resolution No. 07-PC-2026 - A Resolution of the Planning
+
+## [mead#4] 2026-09-28 | Urban Renewal Authority | agenda
+- 441 3rd Street, Mead
+- June 12, 2023, by Resolution No. 01-URA-2023, remote participation will be allowed. The
+- 3. Review and Approve Agenda
+- a. MURA Increment Incentive Policy
+- b. 2027 Draft Budget Presentation
+- 5. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting July 13, 2026
+
+## [mead#5] 2026-09-28 | Urban Renewal Authority | agenda
+- 441 3rd Street, Mead
+- June 12, 2023, by Resolution No. 01-URA-2023, remote participation will be allowed. The
+- 3. Review and Approve Agenda
+- a. MURA Increment Incentive Policy
+- b. 2027 Draft Budget Presentation
+- 5. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting July 13, 2026
+- Subject: MURA Increment Incentive Policy
+- Presented by: Robert Rogers, MURA Contract Counsel
+- The Mead Urban Renewal Authority (“MURA” or the “Authority”) regularly receives requests
+- reimbursement of tax increment revenue (“TIF”) to defray the cost of public improvements
+- associated with a development or redevelopment project. To date the Authority has evaluated
+- those requests case by case under three informal criteria: demonstrated need, the tax revenue
+- the project is projected to generate, and a showing that the project bears an extraordinary cost
+- gives it structure, so that similar requests are evaluated similarly and the record more fully
+- powers under the Colorado Urban Renewal Law, and would not amend or subordinate any
+- agreements with the Town, Weld County, the St. Vrain Valley School District, the Mountain
+- View Fire Protection District and the Mead Place Metropolitan Districts. Available increment for
+- any new request would be measured net of those obligations. The Board would retain full
+- discretion to approve, deny, condition or modify any request, and may depart from the Policy in
+- Threshold eligibility (Section 5) — location within a plan area, consistency with the urban
+- renewal plan and the Town’s regulations, eligible costs only, good standing, site control and
+- demonstrated capacity. Construction of the improvements may not have commenced when the
+- application is submitted, so that the “but for” showing is not made after the fact
+- Three evaluation criteria (Section 6) — demonstrated financial need, supported by a
+- projections for each overlapping taxing entity together with payback and coverage metrics; and
+- eligible costs actually incurred and certified, and (3) project increment capacity over the
+- approved term
+- reimbursement term; and an abbreviated Small Project Track scales the submittal to a more
+
+## [mead#6] 2026-09-28 | General | agenda
+- Mead Hwy 66 and I-25 General Improvement District
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting October 27, 2025
+- d. Resolution No. 01-H66-2026 - A Resolution of the Town of Mead Highway 66 and I
+- 25 General Improvement District Approving an Intergovernmental Agreement
+- General Improvement District
+- 6. 2027 Budget Presentation
+
+## [mead#7] 2026-09-28 | General | agenda
+- Mead Hwy 66 and I-25 General Improvement District
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting October 27, 2025
+- d. Resolution No. 01-H66-2026 - A Resolution of the Town of Mead Highway 66 and I
+- 25 General Improvement District Approving an Intergovernmental Agreement
+- General Improvement District
+- 6. 2027 Budget Presentation
+- March 13, 2023 by Resolution No. 21-R-2023, remote participation was enabled for the
+- A special meeting of the Mead Hwy 66 and I-25 General Improvement District of the Town of
+- Administrative Services Director Mary Strutt; Police Chief Brent Newbanks; Community
+- Development Director Todd Bjerkaas; Communications Director Lorelei Nelson; and Town
+- Director Cartwright motioned to Approve the Agenda. Director Adams seconded the motion
+- There was no public comment at this time
+- a. Approval of Minutes - Regular Meeting September 29, 2025
+- Director Adams motioned to Approve the Consent Agenda. Director Hagen seconded the
+- 6. Public Hearing
+- a. Public Hearing: 2026 Budget
+- Chair Whitlow opened the Public Hearing: 2026 Budget at 5:37 p.m
+- Town Treasurer Mary Strutt presented the 2026 draft budget
+- i. Resolution No. 02-H66-2025 - A Resolution of the Town of Mead Highway 66
+- and I-25 General Improvement District (GID) Board of Directors Summarizing
+- Expenditures and Revenues, Adopting a Budget, Setting the Mill Levy, and
+- Director Schranz motioned to Approve Resolution No. 02-H66-2025 - A Resolution of the Town
+- of Mead Highway 66 and I-25 General Improvement District (GID) Board of Directors
+- Summarizing Expenditures and Revenues, Adopting a Budget, Setting the Mill Levy, and
+- Chair Whitlow closed the public hearing at 5:40 p.m
+- The Special Meeting of the Town of Mead Mead Hwy 66 and I-25 General Improvement District
+- 31-01-1250 PROPERTY TAXES RECEIVABLE 15,595.23
+- 31-02-2700 DEFERRED INFLOWS- PROPERTY TAX 15,595.23
+- REVENUES WITH COMPARISON TO BUDGET
+- PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+- 31-10-4000 PROPERTY TAX .00 15,596.36 15,554.00 ( 42.36) 100.3
+
+## [mead#8] 2026-09-28 | Mead Elevation 25 General Improvement District | agenda
+- Mead Elevation 25 General Improvement District
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Special Meeting October 27, 2025
+- d. Resolution No. 01-E25-2026 - A Resolution of the Elevation 25 General
+- Improvement District Approving an Intergovernmental Agreement Between the Town
+- of Mead, Colorado and the Elevation 25 General Improvement District
+- 6. 2027 Budget Presentation
+
+## [mead#9] 2026-09-28 | Mead Elevation 25 General Improvement District | agenda
+- Mead Elevation 25 General Improvement District
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Special Meeting October 27, 2025
+- d. Resolution No. 01-E25-2026 - A Resolution of the Elevation 25 General
+- Improvement District Approving an Intergovernmental Agreement Between the Town
+- of Mead, Colorado and the Elevation 25 General Improvement District
+- 6. 2027 Budget Presentation
+- March 13, 2023 by Resolution No. 21-R-2023, remote participation was enabled for the
+- A special meeting of the Mead Elevation 25 General Improvement District of the Town of Mead,
+- Administrative Services Director Mary Strutt; Police Chief Brent Newbanks; Community
+- Development Director Todd Bjerkaas; Communications Director Lorelei Nelson; and Town
+- Director Hagen motioned to Approve the Agenda. Director Cartwright seconded the motion
+- There was no public comment at this time
+- a. Approval of Minutes - Regular Meeting September 29, 2025
+- Director Hagen motioned to Approve the Consent Agenda. Director Adams seconded the
+- 6. Public Hearing
+- a. Public Hearing: 2026 Draft Budget
+- Chair Whitlow opened the Public Hearing: 2026 Draft Budget at 5:31 p.m
+- Town Treasurer Mary Strutt presented the 2026 draft budget
+- i. Resolution No. 01-E25-2025 - A Resolution of the Town of Mead Elevation 25
+- General Improvement District (GID) Board of Directors Summarizing
+- Expenditures and Revenues, Adopting a Budget, Setting the Mill Levy and
+- Trustee Schranz motioned to Approve Resolution No. 01-E25-2025 - A Resolution of the Town
+- of Mead Elevation 25 General Improvement District (GID) Board of Directors Summarizing
+- Expenditures and Revenues, Adopting a Budget, Setting the Mill Levy and Appropriating Funds
+- Chair Whitlow closed the public hearing at 5:34 p.m
+- The Special Meeting of the Town of Mead Elevation 25 General Improvement District was
+- 30-01-1250 PROPERTY TAXES RECEIVABLE 46,463.05
+- 30-02-2700 DEFERRED INFLOWS- PROPERTY TAX 46,463.05
+- REVENUES WITH COMPARISON TO BUDGET
+- PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+
+## [mead#10] 2026-10-03 | Board of Trustees | agenda
+- 13815 Chaparral Street, Mead
+- Come celebrate, explore the new library, and help welcome this exciting addition to our
+
+## [mead#11] 2026-10-12 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 4. Review and Approve Agenda
+- a. CML's Muniversity Program Award
+- 7. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting September 28, 2026
+- d. Resolution No. 63-R-2026 – A Resolution of the Town of Mead, Colorado, Amending
+- e. Resolution No. 64-R-2026 – A Resolution of the Town of Mead, Colorado, Awarding
+- A Bid and Approving a Construction Agreement between the Town of Mead and SMH
+- West LLC for the I-25 Sewer Relocation Project (Project No. 2026-011)
+- f. Resolution No. 65-R-2026 – A Resolution of the Town of Mead, Colorado, Awarding
+- the Bid and Approving a Construction Agreement between the Town of Mead and
+- Colorado Paving Inc. for the Mead Safe Routes to School Project (Project No. 2026
+- g. Resolution No. 66-R-2026 – A Resolution of the Town of Mead, Colorado, Granting
+- Conditional Acceptance of the Public Improvements Associated with the High Plains
+- Library District Mead Library (Liberty Ranch Filing No. 2, 3rd Amendment)
+- 9. Public Comment:
+- set for public hearing
+- 10. Budget Questions and Clarifications
+
+## [mead#12] 2026-10-12 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 4. Review and Approve Agenda
+- a. CML's Muniversity Program Award
+- 7. Public Comment:
+- Consent Agenda items are considered to be routine and will be enacted by one motion and
+- vote. There will be no separate discussion of Consent Agenda items unless a Board
+- member so requests, in which case the item may be removed from the Consent Agenda
+- and considered at the end of the Consent Agenda. Because the Consent Agenda includes
+- Town payables (bills list/check register) and routinely includes contracts and other items
+- a. Approval of Minutes - Regular Meeting September 28, 2026
+- d. Resolution No. 63-R-2026 – A Resolution of the Town of Mead, Colorado, Amending
+- e. Resolution No. 64-R-2026 – A Resolution of the Town of Mead, Colorado, Awarding
+- A Bid and Approving a Construction Agreement between the Town of Mead and SMH
+- West LLC for the I-25 Sewer Relocation Project (Project No. 2026-011)
+- f. Resolution No. 65-R-2026 – A Resolution of the Town of Mead, Colorado, Awarding
+- the Bid and Approving a Construction Agreement between the Town of Mead and
+- Colorado Paving Inc. for the Mead Safe Routes to School Project (Project No. 2026
+- g. Resolution No. 66-R-2026 – A Resolution of the Town of Mead, Colorado, Granting
+- Conditional Acceptance of the Public Improvements Associated with the High Plains
+- Library District Mead Library (Liberty Ranch Filing No. 2, 3rd Amendment)
+- 9. Public Comment:
+- set for public hearing
+- 10. Budget Questions and Clarifications
+- The Mead Area Chamber of Commerce will host its annual Trick-or-Treat Street on October 31st along
+- Main Street in Mead from 1:00 – 3:00 p.m. Local businesses and community booths will participate,
+- The 2027 Proposed Budget was presented to the Board of Trustees on September 28 th. The budget
+- represents a plan to effectively manage the financial resources of the Town while providing municipal
+- services. The proposed budget is posted to the Town’s public records portal
+- were documented and destruction was certified by Shred Monster. Please see attached Records
+- The Town Board adopted a twelve-month moratorium on Data Centers at the August 31 st Board of
+- for the Board to consider
+- The Town has officially wrapped up the Built for Mead business promotional video project in
+- The High Plains Blvd (HPB) road construction project is almost completed. The construction of two
+- miles of this road between WCR 32 and WCR 36 includes two travel lanes, bike lanes, two
+- roundabouts located at CR 32 and CR 34, and a ten-foot-wide detached sidewalk. The project is a
+
+## [mead#13] 2026-10-14 | General | agenda
+- High Plains Boulevard Coalition, and project developers to celebrate this achievement of
+- expanding Weld County Road (WCR) 9.5 from WCR 32 to WCR 36
+
+## [mead#14] 2026-10-19 | General | agenda
+- Mead Police Facility Ground Breaking
+- Chaparral Street, Mead, 80542
+- Mead Police Facility Groundbreaking Ceremony
+- Please join us as we celebrate an exciting milestone for the Mead Police Department with the
+- groundbreaking of our new Police Facility
+- Liberty Ranch Subdivision, Chaparral Street
+- This project represents a significant investment in the future of public safety in Mead and in
+
+## [mead#15] 2026-10-21 | Planning Commission | agenda
+- 441 3rd Street, Mead
+- Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- 5. Approval of Minutes
+- a. Approval of Minutes - Regular Meeting September 16, 2026
+- 6. Public Hearing
+- a. Public Facilities Rezoning
+- i. Resolution No. 08-PC-2026 — A Resolution of the Planning Commission of the
+- Town of Mead, Colorado, Recommending Approval of a Zoning Map Amendment
+- Establishing Public Facilities (PF) Zoning for Certain Town-Owned Properties
+- b. Ariet's Grove Preliminary Plat
+- i. Resolution No. 09-PC-2026 - A Resolution of the Planning Commission of the
+- Town of Mead, Colorado Recommending Conditional Approval of the Ariet's
+- Grove Filing No. 1 Preliminary Plat
+- 7. Community Development Update
+
+## [mead#16] 2026-10-21 | Planning Commission | agenda
+- 441 3rd Street, Mead
+- Resolution No. 21-R-2023, the meeting link will be provided on the Town’s website/designated
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- 5. Approval of Minutes
+- a. Approval of Minutes - Regular Meeting September 16, 2026
+- 6. Public Hearing
+- a. Public Facilities Rezoning
+- i. Resolution No. 08-PC-2026 — A Resolution of the Planning Commission of the
+- Town of Mead, Colorado, Recommending Approval of a Zoning Map Amendment
+- Establishing Public Facilities (PF) Zoning for Certain Town-Owned Properties
+- b. Ariet's Grove Preliminary Plat
+- i. Resolution No. 09-PC-2026 - A Resolution of the Planning Commission of the
+- Town of Mead, Colorado Recommending Conditional Approval of the Ariet's
+- Grove Filing No. 1 Preliminary Plat
+- 7. Community Development Update
+- Community Development Director Todd Bjerkaas, Town Planners Alex Ailey & Lauren Rice,
+- Commissioner Gehringer motioned to approve the agenda as written. Commissioner Jorgensen
+- There were no public comments
+- a. Approval of Minutes - Regular Meeting July 15, 2026
+- Commissioner Gehringer motioned to approval of the Minutes. Commissioner Corliss seconded
+- a. Waterfront Preliminary Plat No. 2
+- Chair Peterson opened the public hearing at 6:04 p.m
+- Town Planner Alex Ailey started his presentation to consider the approval of the Waterfront Filing
+- No. 2 preliminary plat for a proposed mixed-use development
+- Following the staff presentation, Rob Fitch with Rick Engineering provided his presentation
+- Chair Peterson opened public comment
+- Chair Peterson closed the public hearing at 6:31 p.m
+- The Commissioners mainly discussed traffic capacity, road improvements, trail connections and
+- The Commission also discussed the need for a broader discussion about coordinating transportation
+- improvements across multiple developments in the area
+- i. Resolution No. 07-PC-2026 — A Resolution of the Planning Commission of the
+- Town of Mead, Colorado, Recommending Conditional Approval of the Waterfront
+- Filing No. 2 Preliminary Plat
+- Commissioner Corliss motioned to approve Resolution No. 07-PC-2026 — A Resolution of the
+- Planning Commission of the Town of Mead, Colorado, Recommending Conditional Approval of
+- the Waterfront Filing No. 2 Preliminary Plat. Commissioner Gehringer seconded the motion
+- Director Bjerkaas provided updates on upcoming public hearings. He also provided an update on the
+- RFP for new Community Development and Public Works software, including an online application
+- portal and project management system. He mentioned Town Planner Ailey has been instrumental in
+- Subject: Resolution No. 08-PC-2026 — A Resolution of the

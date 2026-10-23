@@ -1007,6 +1007,30 @@
   "url": "https://www.missionhillsks.gov/AgendaCenter/ViewFile/Agenda/_10202026-656",
   "public_url": null
  },
+ "mission-woods#0": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "August 11, 2026 - City Council Meeting Minutes",
+  "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.08.11_Mission_Woods_City_Council_Mtg_minutes.pdf",
+  "public_url": null
+ },
+ "mission-woods#1": {
+  "date": "2026-09-01",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "September 1, 2026 - City Council Meeting Minutes",
+  "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.09.01_Mission_Woods_City_Council_Mtg_minutes.pdf",
+  "public_url": null
+ },
+ "mission-woods#2": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "October 6, 2026 - City Council Meeting Agenda",
+  "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/AGENDA_10-6-26.pdf",
+  "public_url": null
+ },
  "olathe#0": {
   "date": "2026-07-27",
   "body": "City Council",
@@ -1774,6 +1798,174 @@
   "title": "City Council Meeting - October 19, 2026 City Council Agenda Packet",
   "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3773,plainText=false)",
   "public_url": "https://prairievillageks.portal.civicclerk.com/event/111/files"
+ },
+ "roeland-park#0": {
+  "date": "2026-08-03",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda August 3, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2043,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/594/files"
+ },
+ "roeland-park#1": {
+  "date": "2026-08-03",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda Packet August 3, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2044,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/594/files"
+ },
+ "roeland-park#2": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda August 17, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2047,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/673/files"
+ },
+ "roeland-park#3": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda Packet August 17, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2048,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/673/files"
+ },
+ "roeland-park#4": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda August 17, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2052,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/649/files"
+ },
+ "roeland-park#5": {
+  "date": "2026-08-17",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda Packet August 17, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2053,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/649/files"
+ },
+ "roeland-park#6": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda September 8, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2056,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/674/files"
+ },
+ "roeland-park#7": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda Packet September 8, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2057,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/674/files"
+ },
+ "roeland-park#8": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda September 8, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2058,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/579/files"
+ },
+ "roeland-park#9": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda Packet September 8, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2062,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/579/files"
+ },
+ "roeland-park#10": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda September 21, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2065,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/626/files"
+ },
+ "roeland-park#11": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - overning Body Workshop Meeting Agenda September 21, 2026 - 2",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2070,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/638/files"
+ },
+ "roeland-park#12": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda Packet September 21, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2073,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/626/files"
+ },
+ "roeland-park#13": {
+  "date": "2026-09-21",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda Packet September 21, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2074,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/638/files"
+ },
+ "roeland-park#14": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda October 5, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2075,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/675/files"
+ },
+ "roeland-park#15": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda Packet October 5, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2076,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/675/files"
+ },
+ "roeland-park#16": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda October 5, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2077,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/580/files"
+ },
+ "roeland-park#17": {
+  "date": "2026-10-05",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda Packet October 5, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2080,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/580/files"
+ },
+ "roeland-park#18": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda October 19, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2083,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/676/files"
+ },
+ "roeland-park#19": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Governing Body Workshop - Governing Body Workshop Meeting Agenda Packet October 19, 2026",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2084,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/676/files"
+ },
+ "roeland-park#20": {
+  "date": "2026-10-19",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - City Council Meeting Agenda October 19, 2026 -2",
+  "url": "https://roelandparkks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2088,plainText=false)",
+  "public_url": "https://roelandparkks.portal.civicclerk.com/event/652/files"
  },
  "shawnee#0": {
   "date": "2026-07-27",

@@ -1,0 +1,549 @@
+# lafayette
+
+## [lafayette#0] 2026-07-28 | City Council | agenda
+- 5:31pm in the Council Chambers at Lafayette City Hall, 1290 S. Public Road, Lafayette,
+- Capital Projects Division Manager Leslie Ewy, Community Services Director Melissa Hisel,
+- asset management, construction and planning projects, regional collaboration,
+- Council asked about the timeline for infrastructure construction projects, influencing
+- RTD route evaluations, current construction and rehabilitation projects, maintenance
+- responsibility for state roads, HAWK signals, PCI (Pavement Condition Index) rating
+- cycles, messaging to the public about construction projects, increased neighborhood
+- traffic resulting from intersection improvements, Waneka Lake Trail modifications,
+- photo radar enforcement, the Safe Routes to School Action Plan, and timing for
+- Steven Williams, Phil Kleisler, and Mary Lynn Macsalka presented the project goals
+- and steps, code amendment approval process and schedule, Planning Commission
+- Council asked about advanced air mobility, regulation of data centers, a joint
+- the effective date, moratoriums, new zone districts, and notice for the public hearing
+- Council wanted to discuss rezoning in areas that could potentially result in special
+- use and nonconforming use scenarios. Proposals for this discussion will be advanced
+- Council was in agreement about the new scope for the Human Rights Board and
+- discussed new recruitment schedules for all boards and commissions and potentially
+- Councilor Jensen requested a workshop regarding plugging abandoned wells. Council
+- was in agreement. The Mayor and City Manager will discuss a format for the
+- Approved the 18th day of August 2026
+
+## [lafayette#1] 2026-08-04 | City Council | agenda
+- 1290 S. Public Road
+- D. Resolution No. 2026-20 / Approving the Second Amendment to Real Estate
+- Purchase Agreement for the Sale of a Portion of City-Owned Real Property Legally
+- Described as Lot 18, Vista Business Park, in the City of Lafayette, to Extend the
+- Closing Date and Approve the Updated Legal Description of the Property
+- Contract Amount of $170,000 / D2C Architects / Fire Station #1 Design Contract
+- VII. Presentations
+- 1. First Reading / Ordinance No. 14, Series 2026 / Amending Section 5-40 of
+- the Code of Ordinances to Revise the Name, Scope, and Duties and
+- I. Resolution No. 2026-19 / Submitting to the Electorate of the City of Lafayette at
+- Extension of an Expiring Property Tax for LaMont Does Park Purposes; Specifying
+- Public Road Request for Proposals
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- number. To request to speak, press *9 during Public Input to raise your hand. When it is
+- To request interpreter services, please submit a request at least two (2) days prior the
+- meeting at LafayetteCo.gov/InterpreterRequestForm
+- Applications currently under review
+- Los comentarios recibidos antes de la 1 p.m. el día de la reunión se agregarán al paquete de la reunión de
+- Subject: Request for Council Direction on Flex Industrial Uses in the AMX-2 District Dear Mayor and Council
+- Members, As you prepare for tonight's work session on the Land Development Code update, I respectfully
+- ask that you discuss the proposed land use framework for the AMX-2 District and provide direction to staff to
+- evaluate adding Flex Industrial as a Permitted Use before the draft code returns for public hearings. Over the
+- designed to accommodate a variety of office, research, light industrial, contractor, artisan, production,
+- assembly, warehouse, showroom, and commercial support activities within enclosed buildings. Flex Industrial
+- uses typically combine office space with warehousing, storage, assembly, fabrication, research, product
+- development, light food processing, packaging, wholesale and retail distribution, makerspaces, light craft
+- products manufactured, assembled, packaged, or distributed on-site are permitted. This definition supports a
+- broad range of modern employment uses, including: • Medical device manufacturing and research
+- Engineering, technology, and product development • Specialty manufacturing and fabrication • Food
+- production and packaging • Makerspaces and artisan workshops • Contractor offices and building suppliers
+- Warehousing, assembly, and fulfillment operations • Showrooms with limited accessory retail sales These are
+
+## [lafayette#2] 2026-08-04 | City Council | agenda
+- 4:34pm in the Council Chambers at Lafayette City Hall, 1290 S. Public Road, Lafayette, Colorado
+- Clerk Lynnette Beck, Police Chief Brian Rosipajla, Bilingual Communications Coordinator Sebastian
+- Acevedo, Chief Financial Officer Heather Balser, Fire Chief Pete Bradshaw, Community Services
+- Director Melissa Hisel, Economic Development Director Brigid Keating, Deputy Director of
+- Manager Alex Nelson, Police Chief Brian Rosipajla, and City Clerk Lynnette Beck
+- discussion of any matters not included in the motion to go into the executive session, or any
+- 1. Frank Archuleta recommended the 701 Pocket Park be named Rosabelle Lueras Park and
+- 2. Roy Johnson spoke against the LaMont Does Park tax measure and encouraged the use of
+- 4. Brad Edwards expressed concerns about the proposed zoning regulations impacting churches
+- 5. Tim Twinem spoke about economic development opportunities with the Sundance Film Festival
+- and expressed concerns about proposed zoning regulations impacting churches
+- 6. Bailey Dumea expressed concerns about proposed zoning regulations impacting churches
+- 7. Elizabeth Gillespie expressed concerns about proposed zoning regulations impacting churches
+- 9. Dave Dvorak thanked Council for the Lafayette Cemetery plan and spoke about inclusionary
+- housing and the proposed Land Use Code’s fidelity to the Comprehensive Plan
+- 13. Ally Johnson called in and spoke in favor of the LaMont Does and Great Outdoors Water Park
+- tax extension
+- D. Resolution No. 2026-20 / Approving the Second Amendment to Real Estate Purchase
+- Agreement for the Sale of a Portion of City-Owned Real Property Legally Described as Lot 18,
+- Vista Business Park, in the City of Lafayette, to Extend the Closing Date and Approve the
+- E. Motion / Authorizing the City Manager to Execute Change Orders up to a Total Contract Amount
+- of $170,000 / D2C Architects / Fire Station #1 Design Contract
+- VII. Presentations
+- 2024 evaluation, responses from the request for qualifications for restoration and conservation
+- substrate, restoration locations and considerations around moving the mural, and timing of next
+- Council discussed the two options, the significance and historical value of the advertisement
+- 1. First Reading / Ordinance No. 14, Series 2026 / Amending Section 5-40 of the Code of
+- Ordinances to Revise the Name, Scope, and Duties and Responsibilities of the Human
+- first reading Ordinance No. 14, Series 2026, amending Section 5-40 of the Code of Ordinances
+- I. Resolution No. 2026-19 / Submitting to the Electorate of the City of Lafayette at the November
+
+## [lafayette#3] 2026-08-18 | City Council | agenda
+- 1290 S. Public Road
+- C. Second Reading / Ordinance No. 14, Series 2026 / Amending Section 5 -40 of the
+- Code of Ordinances to Revise the Name, Scope, and Duties and Responsibilities
+- D. Resolution No. 2026-21 / Authorizing Assignment to the Housing Authority of the
+- County of Boulder, Colorado, of the City’s Private Activity Bond Allocation for 2026
+- Pursuant to the Colorado Private Activity Bond Ceiling Allocation Act, and
+- E. Contract / A to Z Recreation, LLC / Yarrow Park Playground Equipment
+- This contract was updated 8/18/2026 at 1:45pm
+- IV. Council Appointments
+- F. Appointments to the Lafayette Youth Advisory Board
+- G. Public Hearing / First Reading / Ordinance No. 15, Series 2026 / Repealing and
+- Replacing Chapter 26 of the Code of Ordinances with a New Chapter 26 Titled
+- “Land Use Code,” Repealing the Existing Zoning Map and Replacing it With a New
+- Zoning Map, and Rezoning Properties Within the City Thereby; and Setting an
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- number. To request to speak, press *9 during Public Input to raise your hand. When it is
+- To request interpreter services, please submit a request at least two (2) days prior the
+- meeting at LafayetteCo.gov/InterpreterRequestForm
+- Applications currently under review
+- Los comentarios recibidos antes de la 1 p.m. el día de la reunión se agregarán al paquete de la reunión de
+- Dear City Council, I was really taken aback that this OTX3 zone suddenly appeared in our new zoning code,
+- the new zoning code was handled very well. The new code represents an improvement for the city. But there
+- is very limited desire among Lafayette citizens for massive, tall, dense developments in Old Town. I was part
+- second, it really feels like a breach of confidence. It was refreshing to see Planning Commission recommend
+- para Participación Pública no se leerán en voz alta durante la reunión. Los comentarios recibidos después de
+- Hello I am a resident of A alon Flatirons and m apartment faces s p blic road across from B catino I
+- Hello. I am a resident of Avalon Flatirons and my apartment faces s. public road across from Bucatino. I
+- am, the flatirons church parking lot gets filled up with street racers. They come in from 287 speed down s
+- Public and go into the church parking lot. The noises from the engines are incredibly loud and they can be
+- seen tearing out of the parking lot speeding and revving their engines. So many cars show up that it fills the
+- church parking lot. I saw a cop car drive by and ignore it. My main concern is the speed at which these cars
+
+## [lafayette#4] 2026-08-18 | City Council | agenda
+- 5:32pm in the Council Chambers at Lafayette City Hall, 1290 S. Public Road, Lafayette, Colorado
+- Recreation Supervisor Jordan Walker, Deputy Director of Parks, Open Space, and Golf Dennis
+- 1. Frank Archuleta requested that the pocket park at 701 S. Public Road be named “Rosebelle
+- 2. Toni Munoz requested that the pocket park at 701 S. Public Road be named “Rosebelle Park.”
+- 6. Tamara Gruenewald expressed concern about the use of Flock license plate readers in
+- C. Second Reading / Ordinance No. 14, Series 2026 / Amending Section 5-40 of the Code of
+- Ordinances to Revise the Name, Scope, and Duties and Responsibilities of the Human Rights
+- D. Resolution No. 2026-21 / Authorizing Assignment to the Housing Authority of the County of
+- Boulder, Colorado, of the City’s Private Activity Bond Allocation for 2026 Pursuant to the
+- Colorado Private Activity Bond Ceiling Allocation Act, and Providing Other Details in Connection
+- E. Contract / A to Z Recreation, LLC / Yarrow Park Playground Equipment Replacement
+- IV. Council Appointments
+- F. Appointments to the Lafayette Youth Advisory Board
+- G. Public Hearing / First Reading / Ordinance No. 15, Series 2026 / Repealing and Replacing
+- Chapter 26 of the Code of Ordinances with a New Chapter 26 Titled “Land Use Code,”
+- Repealing the Existing Zoning Map and Replacing it With a New Zoning Map, and Rezoning
+- Staff Presentation
+- Phil Kleisler and Elizabeth Garvin presented the project timeline, project goals and steps,
+- amendment process, provisions of the draft Land Use Code, Planning Commission
+- Zoning Districts – Council asked about the housing point system, values of the Comprehensive
+- Plan, energy efficiency data, building heights in Old Town, parking requirements, alignment with
+- the Old Town Tomorrow Action Plan, and form-based neighborhoods
+- Zoning Updates – Council asked about the land dedication process, private civic and amenity
+- unit developments), evaluation of wildlife corridor connections, parking requirements, definition
+- Zoning Map – Council asked about supporting small businesses through special use reviews
+- The Mayor opened the public hearing at 8:34pm
+- Public Hearing Testimony
+- Public hearing testimony was also accepted via email. Comments received prior to 1pm on the
+- 1. Caroline Leland spoke in support of the proposed zoning changes
+- 4. Jack Bestall spoke about promoting housing diversity and expressed concern about the
+- administrative processes to annex and zone property
+- sustainability features and against OTX-3 zoning
+- 9. Mike Cooper spoke about housing diversity and requested written processes
+
+## [lafayette#5] 2026-08-25 | City Council | agenda
+- 1290 S. Public Road
+- I. 2027 Budget Introduction
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- 2027 Budget Introduction
+- Laurie Horesta, Senior Budget Analyst
+- annual spending plan to City Council to fund municipal services for Lafayette residents. In
+- the 2027 Recommended Budget, revenue is projected at $128 million with anticipated
+- the planned use of fund balance, largely in the Capital Project Fund and utility funds
+- result, this budget does not include the use of fund balance in the General Fund
+- During this workshop, staff will provide an overview of the 2027 Recommended Budget,
+- including revenue and expenditure projections, fee updates, and a review of the Utility
+- City Council Strategic Outcome (most applicable): Fiscally Responsible
+- The 2027 Recommended Budget represents a balanced approach to investing in City
+- levels and advancing City Council’s priorities. The 2027 Recommended Budget was
+- Throughout the 2027 budget process, the City relied on stability, adaptability, and
+- and use taxes, property taxes, service fees, and utility charges. Other revenue categories
+- moderated after a prolonged period of strong expansion. Indicators reflect slower increases
+- Figure 1 – 2027 Projected Revenue by Fund ($128M)
+- Sales and Use Tax
+- Sales and use tax flows directly into the General Fund; Legacy Open Space Fund; Parks,
+- Fund. Sales and use taxes in 2026 are currently up 6.3% over 2025 actuals and are
+- projected to end the year 6% over the 2026 original budget forecast. This increase is mostly
+- agreement as 2026 is the first full year that this revenue will have been received
+- compliance with tax reporting and remittance, thus leading to increased collections in 2026
+- budgeting an increase of 3% in sales tax for the 2027 budget, or a total of $26.2 million,
+- which includes expected distributions from the Nine Mile revenue sharing agreement
+- While the City primarily relies on sales tax, use tax is also a key revenue source. Use tax
+- includes motor vehicle use tax, business use tax, and construction use tax, all of which are
+- commercial development and vehicle purchases. Motor vehicle use tax is down 15% year-to
+- due to robust electric vehicle incentives. Construction use tax is projected to decline in 2026
+- Capital Projects
+- Stormwater Fund
+- use tax saw double digit growth the past three years (2023-2025) and is on track to
+- trends, the combined use tax (construction, motor vehicle, and business) is forecasted at
+- $6.2 million in the 2027 Recommended Budget, reflecting an increase of 10.9% compared
+
+## [lafayette#6] 2026-08-25 | City Council | agenda
+- 5:30pm in the Council Chambers at Lafayette City Hall, 1290 S. Public Road, Lafayette,
+- Director Elizabeth Bocon, Fire Chief Pete Bradshaw, Chief Information Officer Ernesto
+- Hanson, Community Services Director Melissa Hisel, Senior Budget Analyst Laurie Horesta,
+- Economic Development Director Brigid Keating, Human Resources Director Sarab Khalsa,
+- Police Chief Brian Rosipajla, Revenue Manager Christopher Spotts, Deputy Finance Director
+- I. 2027 Budget Introduction
+- Kady Doelling, Heather Balser, and Sarab Khalsa presented the City’s budget
+- budget process
+- Council asked about audit revenue, utility rates and fee studies, the City’s philosophy
+- costs, property tax revenues, and special revenue funds
+- Department heads highlighted their 2027 budgets and priorities, core functions,
+- outreach to small businesses, cloud hosting, regional housing compliance, tree
+- canopy inventory, the upcoming online service portal and City permitting, facility
+- maintenance plan and library generator, the Open Space Ranger position, impacts of
+- sunsetting the Lafayette Urban Renewal Authority financing, the water reuse pipeline,
+- the municipal fiber network, the delay between ordering and receiving new fire trucks
+- and heavy equipment, budgeting for facility maintenance, turf maintenance along
+- Highway 287, prioritization of the Waneka Landing project, interconnectivity for the
+- Council discussed removing certain service providers from the Mental Health and
+- Human Services competitive grant process to pursue ongoing funding. Staff will
+- return with options for Council’s consideration
+- Mayor Pro Tem Barnes requested Council input on ballot measure positions and will
+- Council’s consideration
+- Approved the 15th day of September 2026
+
+## [lafayette#7] 2026-09-01 | City Council | agenda
+- 1290 S. Public Road
+- A. Resolution No. 2026-22 / Appointing Butler Snow, LLP, as Special Legal Counsel
+- to Provide Legal Representation and Advice to the City with Respect to Public
+- Finance Matters and Setting the Rate of Compensation Therefor
+- B. Resolution No. 2026-23 / Appointing Director for SoLa Metropolitan District
+- C. Contract / Dayforce Services US, LLC / Payroll and Human Resources System
+- D. Motion / Approving an Intergovernmental Agreement Between Colorado
+- and Maintenance of a Portion of the SH7 Corridor Improvements – 95th Street
+- Intersection Project
+- VI. Presentations
+- I. First Reading / Ordinance No. 16, Series 2026 / Authorizing the Issuance of City
+- of Lafayette, Colorado General Obligation Bonds, Series 2026
+- J. First Reading / Ordinance No. 17, Series 2026 / Amending Article III, “Purchasing
+- City Manager Authority to Negotiate and Execute Certain Contracts; and
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- number. To request to speak, press *9 during Public Input to raise your hand. When it is
+- To request interpreter services, please submit a request at least two (2) days prior the
+- meeting at LafayetteCo.gov/InterpreterRequestForm
+- Applications currently under review
+- Los comentarios recibidos antes de la 1 p.m. el día de la reunión se agregarán al paquete de la reunión de
+- To all concerned, As a 32-year resident of Lafayette at 8558 Baseline Road [ 3620 W. Baseline Rd – Plat
+- address ], I am very concerned that the city of Lafayette would even consider such an ill-conceived high
+- density project as the Boulder Ranch in an area which is semi-rural and has no high, or even medium, density
+- housing anywhere in the vicinity. Even Nyland Co-housing has density of one unit per acre. The whole
+- surrounding area is low-density or open space and to put an urban high-density project in the middle wouldn’t
+- putting a high-density development bordering the ditch easements and along the open space would severely
+- not annex between the cities. This project would violate the spirit of that agreement and tempt Lafayette and
+- line, Baseline Road is a two-lane, low speed corridor with bike paths on both sides. It has become more
+- crowded over time and adding another 300 to 500 car trips per day, which this development would generate,
+- would greatly increase congestion and cause safety issues for the numerous bike riders that use the road
+- 2000 individuals have already signed petitions opposing this development and there are sure to be more
+- Such a ground swell of opposition demonstrates that common sense, along with political sense, should rule
+
+## [lafayette#8] 2026-09-01 | City Council | agenda
+- 5:30pm in the Council Chambers at Lafayette City Hall, 1290 S. Public Road, Lafayette, Colorado
+- Clerk Lynnette Beck, Police Chief Brian Rosipajla, Public Works Director Jeff Arthur, Chief Financial
+- 1. Frank Archuleta spoke in support of naming the new pocket park after Rosebelle Lueras
+- 3. Charles Silva spoke in support of naming the new pocket park after Rosebelle Lueras
+- 4. Toni Munoz spoke in support of naming the new pocket park after Rosebelle Lueras
+- 6. Roy Johnson spoke in support of naming the new pocket park after Rosebelle Lueras
+- 7. Casey Klein announced the closing of Embrey’s purchase of the Sundar property and thanked
+- 8. Peter Salas spoke in support of naming the new pocket park after Rosebelle Lueras
+- 9. Michael Watson spoke in support of naming the new pocket park after Rosebelle Lueras and
+- encouraged the City to make it a park worthy of her name
+- 11. Gail Elias spoke about the WWI memorial at the corner of Highway 287 and Arapahoe Road and
+- invited Council to the “Road of Remembrance” dedication
+- 12. Emanuel Robertson expressed concern about the use of automatic license plate readers in
+- 13. Haruka Watson spoke in support of naming the new pocket park after Rosebelle Lueras
+- A. Resolution No. 2026-22 / Appointing Butler Snow, LLP, as Special Legal Counsel to Provide
+- Legal Representation and Advice to the City with Respect to Public Finance Matters and Setting
+- the Rate of Compensation Therefor
+- B. Resolution No. 2026-23 / Appointing Director for SoLa Metropolitan District – Institutional and
+- C. Contract / Dayforce Services US, LLC / Payroll and Human Resources System Licensing
+- D. Motion / Approving an Intergovernmental Agreement Between Colorado Department of
+- of the SH7 Corridor Improvements – 95th Street Intersection Project
+- VI. Presentations
+- In September, the City will release a new online service portal where permits, licenses, reported
+- several disparate systems to provide a more collaborative, transparent, and foundational
+- Ernesto Chavez presented background information and objectives for the project, key features
+- Council asked about the relationship with the Continuity of Operations (COOP) Plan, user profile
+- and account requirements, ease of use for business owners and contractors, efficiency metrics,
+- I. First Reading / Ordinance No. 16, Series 2026 / Authorizing the Issuance of City of Lafayette,
+- Colorado General Obligation Bonds, Series 2026
+- information regarding the bond issuance, timing and issuance considerations, project status
+- and next steps, ordinance parameters and accompanying documents, a market update,
+
+## [lafayette#9] 2026-09-09 | City Council | agenda
+- 1290 S. Public Road
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- an opportunity to discuss three topics related to the Land Use Code update: Old Town Mixed
+- Use (“OTX”) zoning districts, potential amendments to sustainable design requirements, and
+- This memo primarily focuses on the OTX district discussion and includes requested spatial
+- draft OTX-3 district located south of Emma Street
+- The Land Use Code Working group met on Sept. 2, 2026. Feedback from that meeting will
+- be provided during the joint workshop presentation
+- City Council Strategic Outcome (most applicable): Sense of Place
+- At its July 8, 2026, meeting, the Planning Commission voted to recommend approval of the
+- draft Land Use Code, with 17 recommended conditions of approval. One of the seventeen
+- conditions was to hold a joint Planning Commission/City Council meeting to discuss OTX
+- zoning, with specific concerns regarding the OTX-3 zoning. Planning Commission also
+- requested additional graphic analysis on Public Road to better understand the existing
+- conditions, including lot sizes, alleys, curb cuts, building heights, building uses, and parking
+- recommendation for a joint meeting to discuss OTX zoning and concerns with OTX-3, which
+- is proposed to govern Public Road, south of Emma Street
+- The City received feedback from the community regarding the maximum building footprint
+- permissible in OTX-3 zoning, which is drafted to limit buildings to 25,000 sq. ft. OTX-1 and
+- zoning district that governs Old Town’s commercial areas
+- In addition to the existing conditions maps and analysis Planning Commission requested,
+- staff has included additional context as to why multiple OTX zoning districts are proposed
+- and the various guiding documents and objectives that were considered. Decisions on the
+- Although Legacy Lafayette prescribed a unique zoning district for Old Town, it did so to
+- other zoning updates supported in Legacy Lafayette, where zoning updates are intended to
+- Old Town Mixed-Use Zoning (“OTX”)
+- The Legacy Lafayette Comprehensive Plan envisions the Old Town Mixed-Use land use as
+- maintaining the area's eclectic, small-town character while integrating new development into
+- the existing urban fabric. The plan promotes maintaining the historic orthogonal grid, block
+- Legacy Lafayette promotes mixed-use zoning in both commercial and residential areas. As
+- residential developments have also increased and will be required for developments that
+- exceed 40 acres. Because OTX zones are classified as commercial zoning districts, new
+
+## [lafayette#10] 2026-09-09 | City Council | agenda
+- Lafayette City Hall, 1290 S. Public Road, Lafayette, Colorado
+- Phil Kleisler presented the Land Use Code project goals and steps, the Working
+- Group recommendations related to Old Town Mixed-Use (“OTX”) zoning districts,
+- Councilors and Commissioners discussed the following Working Group
+- recommendations related to the Old Town Mixed-Use (OTX) district (Ordinance #1
+- refers to Ordinance No. 15, Series 2026 that passed first reading on August 18,
+- 2026; Ordinance #2 refers to a second set of code amendments to be considered
+- after passage of Ordinance No. 15, Series 2026):
+- 1. Public Road Character: Update the draft Land Use Code to ensure that
+- development along Public Road (specifically in OTX‑3 south of Emma Street)
+- reflects the same general character as the OTX‑1 portion of Public Road
+- (Ordinance #2)
+- There was general agreement to move forward with this in a second ordinance
+- (Ordinance #1)
+- There was general agreement to move forward with this on second reading of
+- Ordinance No. 15, Series 2026
+- 25,000 sq. ft. to 10,000 sq. ft. (Ordinance #1)
+- 4. Rezoning 700 Block: Rezone the 700 block of Public Road to OTX‑1 (Ordinance
+- creation of a future alley network (Ordinance #2)
+- 6. Building Height in OTX‑3: Limit buildings to two stories (Ordinance #1) and adjust
+- the maximum height (in feet) accordingly (Ordinance #2). The Working Group
+- requested that staff prepare materials on this topic for a future working group
+- There was general agreement to not limit buildings to two stories in second
+- reading of Ordinance No. 15, Series 2026. Height and stories will be addressed
+- 7. Additional Meeting: Request that another Working Group meeting be held before
+- adoption of Ordinance #2
+- There was general agreement for this proposal. The anticipated effective date of
+- Ordinance No. 15, series 2026, was amended on second reading from December
+- House from 1,200 sq. ft. to 1,500 sq. ft. (Ordinance #1)
+- There was general agreement to move forward with this in second reading of
+- Ordinance. No. 15, Series 2026
+- setbacks, with consideration for public safety (e.g., fire access) (Ordinance #2)
+- 10. Rear Setbacks for Alley-Loaded Lots: Consider creating separate rear setback
+- standards for properties with alley-loaded garages (Ordinance #1)
+- 11. Building Height Definition: Amend the definition of “Building Height” to account
+- for building code requirements that ensure adequate site drainage (Ordinance
+- Council and the Commission considered the following sustainable design features:
+- enhanced bicycle amenities, like repair stations, covered parking, e‑bike charging, or
+
+## [lafayette#11] 2026-09-15 | City Council | agenda
+- 1290 S. Public Road
+- D. Second Reading / Ordinance No. 16, Series 2026 / Authorizing the Issuance of
+- City of Lafayette, Colorado General Obligation Bonds, Series 2026
+- E. Second Reading / Ordinance No. 17, Series 2026 / Amending Article III,
+- Contracts; and Renumbering Chapter 5, “Administration,” of the Code
+- H. Second Reading / Ordinance No. 15, Series 2026 / Repealing and Replacing
+- 26 of the Code of Ordinances with a New Chapter 26 Titled “Land Use
+- Repealing the Existing Zoning Map and Replacing it With a New Zoning
+- d Rezoning Properties Within the City Thereby; and Setting an Effective
+- Date / With Proposed Amendments
+- J. Potential Moratoria on Data Centers and Advanced Air Mobility Land Uses
+- M. Appointment to the Lafayette Youth Advisory Board
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- number. To request to speak, press *9 during Public Input to raise your hand. When it is
+- To request interpreter services, please submit a request at least two (2) days prior the
+- meeting at LafayetteCo.gov/InterpreterRequestForm
+- Applications currently under review
+- Los comentarios recibidos antes de la 1 p.m. el día de la reunión se agregarán al paquete de la reunión de
+- Zaphira here! I am once again reaching to beg y’all to vote NO on the proposed new development off
+- Burlington between Emma and Baseline road. Not only would it destroy 78 acres of gorgeous open land it will
+- eastern views. I understand there is need for housing along the front range but we have got to be smarter
+- about what we would be giving up if we allow this development. We would be giving up beauty. We would be
+- and sound pollution. Increase of allergens due to planners only planting male trees. Increase of water usage
+- towards decreasing urban heat and increasing air quality. I know feeding trees and any other plants need
+- water but it will be far less than what a 78 acre neighborhood would need. Plus rain water could be utilized
+- (hopefully we start getting rain again). It is so beautiful over there, please don’t destroy that with buildings
+- There are pockets of empty retail spaces all over Old Town, re-zone those for housing. I’ve read that there will
+- is enough? Make permits easier to obtain for people who want to build ADU’s, allow for bigger ones, expand
+- the area that already has access to less permitting issues. There are so many alternatives to this proposed
+- ugliness that is Erie developments and the delightful beauty that is Old Town. I am begging y’all to do the right
+- para Participación Pública no se leerán en voz alta durante la reunión. Los comentarios recibidos después de
+
+## [lafayette#12] 2026-09-15 | City Council | agenda
+- 5:30pm in the Council Chambers at Lafayette City Hall, 1290 S. Public Road, Lafayette, Colorado
+- 1. Frank Archuleta spoke in support of naming the new pocket park after Rosebelle Lueras
+- 2. Roy Johnson spoke in support of naming the new pocket park after Rosebelle Lueras and
+- recommended budget reallocations
+- 3. Karen Norback spoke about the comprehensive plan development process as it related to the
+- Land Use Code and requested that the community survey process begin again
+- 4. Toni Munoz spoke in support of naming the new pocket park after Rosebelle Lueras and urged
+- Council to wait on church rezoning
+- 5. Chao Chen spoke against the use of Flock cameras and requested that City Council not
+- appropriate funds for the Flock contract and that contracts for surveillance services always
+- 7. Brad Edwards spoke in support of church rezoning and proposed an amendment to the August
+- 12. Michael Watson spoke in support of naming the new pocket park after Rosebelle Lueras and
+- against OTX3 zoning and the use of Flock cameras
+- 14. Vicky Uhland expressed concern about Mobile Home Community (MHC) zoning in the proposed
+- 15. John Mercke expressed concern about the proposed zoning for his property
+- naming the new pocket park after Rosebelle Lueras
+- 22. Haruka Watson spoke in support of naming the new pocket park after Rosebelle Lueras, against
+- the use of Flock cameras, and requested that Council reconsider the height limit in Old Town
+- 24. Lucas Ingmire called in and spoke against the use of Flock cameras and requested that City
+- Council exempt surveillance and data collection contracts from administrative contract
+- Council discussed the Douglass Elementary School topic and gave direction for staff to work with
+- Councilor Jensen to draft a letter asking BVSD to consider whether it had a sufficient record of
+- D. Second Reading / Ordinance No. 16, Series 2026 / Authorizing the Issuance of City of
+- Lafayette, Colorado General Obligation Bonds, Series 2026
+- E. Second Reading / Ordinance No. 17, Series 2026 / Amending Article III, “Purchasing
+- Negotiate and Execute Certain Contracts; and Renumbering Chapter 5, “Administration,” of the
+- August 18, 2026, City Council Meeting Minutes to replace “(2) accept the proposed zoning map,
+- with a request to evaluate consistent zoning for churches along Highway 287” with “(2) accept the
+- proposed zoning map, with direction that the church parcels at Highway 287 and South Boulder
+- Road be zoned consistently with Immaculate Conception (NC), and that staff bring a
+- Regarding Item E, Council discussed having a formal policy that ALPR (automatic license plate
+
+## [lafayette#13] 2026-09-22 | City Council | agenda
+- 1290 S. Public Road
+- Bus Tour of City Capital Improvement Projects
+- leave promptly at 5:30pm from City Hall, 1290 S. Public Road
+- Capital Improvement Projects Tour
+- LaMont Does Park and Great Outdoors Water Park ............................................................................................ 2
+- Water Treatment Plant, Distribution, and Storage .............................................................................................. 4
+- West Baseline Road Multimodal Safety Improvements ...................................................................................... 5
+- LaMont Does Park and Great Outdoors Water Park
+- LaMont Does Park is a community park that provides space for many leisure activities and organized
+- sports and is home to the Great Outdoors Water Park. The park underwent major improvements following
+- voter approval of a $5.52 million bond in 2014, largely to construct the Great Outdoors Water Park which
+- The aquatics portion of LaMont Does Park includes 3.34 acres on the northwest corner of the 13.36-acre
+- property. The existing LaMont Does pool is a six-lane lap pool which opened in 1975. No improvements
+- Project Expenses
+- 2026 Revised Budget $207,350 (including a fence installation and shade structure)
+- 2027 Recommended Budget $115,000 (bathhouse flooring and concrete assessment and repair)
+- identified, including but not limited to:
+- Park irrigation replacement ($250K)
+- In November of 2025, Lafayette voters approved general obligation debt to fund the renovation and
+- The design development package is anticipated to be complete late fall/early winter, and construction is
+- 2026 Revised Budget $1M (design and project management services, reimbursable with bond proceeds)
+- 2027 Recommended Budget $6M (maximum combined debt service payment with the Recreation Center project)*
+- Total Project Cost $10M ($6M of bond proceeds and $4M of service expansion fees)
+- *The City anticipates issuing $74 million in bonds related to the capital bond package for design and construction of the three new or
+- improved facilities at Bob L. Burger Recreation Center, Service Center, and Civic Center. This capital bond package and bond issuance was
+- approved by voters at the November 4, 2025, coordinated election, and the first debt service payment is anticipated to occur in 2027. The
+- City is anticipating issuing the bonds in two tranches; first tranche of bonds is anticipated to occur in October 2026 in the amount of $40
+- capital bond projects are not included above or in the current fund financials but will be included once the issuances are final
+
+## [lafayette#14] 2026-09-22 | City Council | agenda
+- Lafayette City Hall, 1290 S. Public Road
+- Bus Tour of City Capital Improvement Projects
+- City Council’s September workshop was a bus tour of capital improvement projects. Transportation
+- Acevedo, Public Works Director Jeff Arthur, Water Resources Senior Engineer Melanie Asquith,
+- Callie Hayden, Community Services Director Melissa Hisel, Water Treatment Manager Scott Pavlik,
+- Interim Deputy Recreation Director Morgan Skalla, and Deputy Parks, Recreation, and Golf Director
+- The tour provided an opportunity to learn more about Lafayette’s capital projects:
+- Lamont Does Park and Great Outdoors Water Park
+- Water Treatment Plan, Distribution, and Storage
+- West Baseline Road Multimodal Safety Improvements
+- Approved the 6th day of October 2026
+
+## [lafayette#15] 2026-10-06 | City Council | agenda
+- 1290 S. Public Road
+- F. Fire Prevention Week / October 4–10, 2026
+- I. Public Hearing / Items Pertaining to the City of Lafayette 2027 Budget
+- 1. Adopting the 2027 Budget and Establishing the Mill Levy
+- a. Resolution No. 2026-24A / Adopting the 2027 Budget and Establishing
+- the Mill Levy [Public Hearing Noticed in the Daily Camera on September
+- b. Resolution No. 2026-24B / Adopting the 2027 Budget and Establishing
+- the Mill Levy, with No Funding for the Flock Safety Contract [Public Hearing
+- a. First Reading / Ordinance No, 18A, Series 2026 / Appropriating Funds for
+- b. First Reading / Ordinance No. 18B, Series 2026 / Appropriating Funds for
+- 2027, with No Appropriation for the Flock Safety Contract
+- 3. First Reading / Ordinance No. 19, Series 2026 / Amending Chapter 4, “Fees,”
+- of the Code of Ordinances
+- J. First Reading / Ordinance No. 21, Series 2026 / Imposing an 18-Month
+- Moratorium on the Acceptance, Processing, and Approval of any Land Use
+- Application or Building Permit for the Development or Construction of Data
+- K. First and Final Reading / Emergency Ordinance No. 22, Series 2026 / An
+- Emergency Ordinance Imposing an 18-Month Moratorium on the Acceptance,
+- Processing, and Approval of any Land Use Application or Building Permit for the
+- Development or Construction of Advanced Air Mobility Facilities and Related Land
+- L. Resolution No. 2026-25 / Establishing a Temporary Pilot Program for a
+- M. Contract / Buildings by Design / Service Center Renovation Design-Build
+- Amendment with Guaranteed Maximum Price
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- number. To request to speak, press *9 during Public Input to raise your hand. When it is
+- To request interpreter services, please submit a request at least two (2) days prior the
+- meeting at LafayetteCo.gov/InterpreterRequestForm
+- Applications currently under review
+- Los comentarios recibidos antes de la 1 p.m. el día de la reunión se agregarán al paquete de la reunión de
+- Height for Public Road buildings
+- 35 feet is not tall enough for a three story building and the utility space to support the building. It may be
+- para Participación Pública no se leerán en voz alta durante la reunión. Los comentarios recibidos después de
+- Dear Lafayette Council Members, I'm a Lafayette resident in unincorporated Boulder County and a Douglass Elementary
+- Douglass's future. Lafayette families got no focus groups, no standing in the engagement process and no representation
+- schools were never up for consideration because they aren't currently in decline. Our request is to evaluate adjusting
+
+## [lafayette#16] 2026-10-20 | City Council | agenda
+- 1290 S. Public Road
+- B. Second Reading / Ordinance No. 21, Series 2026 / Imposing an 18-Month
+- Moratorium on the Acceptance, Processing, and Approval of any Land Use
+- Application or Building Permit for the Development or Construction of Data
+- C. Resolution No. 2026-28 / Appointing Collins, Cole, Winn, & Ulmer, PLLC, as
+- Special Legal Counsel to Provide Legal Representation to the City With Respect to
+- Metro Districts Formation, Operation, and Related Matters, and Setting the Rates
+- H. Items Pertaining to the City of Lafayette 2027 Budget
+- 1. Second Reading / Ordinance No. 18B, Series 2026 / Appropriating Funds for
+- the Flock Safety Contract
+- 2. Second Reading / Ordinance No. 19, Series 2026 / Amending Chapter 4,
+- “Fees,” of the Code of Ordinance
+- 3. Adopting the 2027 Pay Plan
+- I. Resolution No. 2026-27 / Adopting a Budget and Making Appropriations for the
+- Fiscal Year 2027 for the Lafayette Downtown Development Authority
+- J. Resolution No. 2026-26 / Supporting an Expedited Review Policy for Affordable
+- Housing Projects
+- K. Motion / 701 Pocket Park Naming
+- L. Motion / Consideration of State and Local Ballot Measures
+- Tech Center, and Lafayette Corporate Campus General Improvement Districts and
+- M. Lafayette City Center General Improvement District
+- 2. Approval of October 28, 2025, Meeting Minutes
+- 3. Public Hearing / Resolution No. 2026-01 / Adopting a Budget, Making
+- Appropriations for the Budget Year 2027 and Approving a Mill Levy [Noticed in
+- N. Exempla General Improvement District
+- O. Lafayette Tech Center General Improvement District
+- 4. First Reading / Ordinance No. 01, Series 2026 / To Utilize Excess Funds in
+- the District’s Bond Redemption Fund to Defease Certain of its Outstanding
+- General Obligation Refunding Bonds, Series 2006
+- P. Lafayette Corporate Campus General Improvement District
+- General Obligation Refunding Bonds, Series 2002
+- Attend the meeting in person at City Hall Council Chambers, 1290 S. Public Road
+- number. To request to speak, press *9 during Public Input to raise your hand. When it is
+- To request interpreter services, please submit a request at least two (2) days prior the
+- meeting at LafayetteCo.gov/InterpreterRequestForm
+- Applications currently under review
+- Los comentarios recibidos antes de la 1 p.m. el día de la reunión se agregarán al paquete de la reunión de
+- Resolution 2026-24B
+- Pass the Resolution 2026-24B budget without funding for Flock Cameras
+- para Participación Pública no se leerán en voz alta durante la reunión. Los comentarios recibidos después de
+- I am deeply upset by Lafayette's use of Flock cameras and ask the council to end the contract and remove all

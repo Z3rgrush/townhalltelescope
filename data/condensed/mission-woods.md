@@ -1,0 +1,80 @@
+# mission-woods
+
+## [mission-woods#0] 2026-08-11 | City Council | minutes
+- Review and Approval of Minutes
+- Mayor Hartley asked for a Motion to approve the Minutes of July 7, 2026 regular meeting. Motion
+- had, and the motion was approved, 5-0
+- Review and Approval of Warrants
+- Mayor Hartley asked if there were any questions regarding the warrants. A Motion to approve the
+- vote was had, and the motion was approved, 5-0
+- Review of Police Report
+- Council reviewed and discussed the report distributed
+- Request from resident at 5314 Mission Woods Terr (Brockmeier) for reimbursement
+- attendance to discuss reimbursement of payment made regarding a large tree limb which
+- The Council responded to her reciting the new tree ordinance, and that they were in the
+- that the City did not have a tree ordinance and last year the City had significant cost
+- involving tree situations. She stated that the ordinance the City adopted was the same as
+- the Council to discuss these matters
+- budget and how it is allocated in any given year
+- Discussions by the Council regarding reviewing certain tree situations and how they would
+- The Council stated it will continue to discuss protocols for tree removals, reimbursement
+- A Motion to approve reimbursing Ms. Brockmeier $300 for the cost of the tree disposal
+- vote was had, and the motion was approved, 4-0. Councilmember Carto was absent
+- Proposed Amendments to 2025 Standard Traffic Ordinance and Uniform Public
+- Mr. Deane went over the amendments to the 2025 Standard Traffic Ordinance and Uniform
+- Ordinance 263
+- An ordinance regulating traffic within the corporate limits of the city of mission woods,
+- Kansas; incorporating by reference the “standard traffic ordinance for Kansas cities”
+- edition of 2026, amending Chapter 11, Article 1, of the city of Mission Woods Municipal
+- Mayor Hartley asked for a Motion to approve Ordinance 263. A Motion to approve was
+- voice vote was had, and the motion was approved, 4-0. Councilmember Carto was absent
+- Ordinance 264
+- An ordinance regulating public offenses within the corporate limits of the City of Mission
+- Cities" 42nd edition of 2026, amending existing section 10 -101 of the code of the city of
+- Mayor Hartley asked for a Motion to approve Ordinance 26. A Motion to approve was
+- Review/Approval of city contracts: All City Management Services (Crossing Guard)
+- discuss these contracts with the Council. She stated there were small rate increases. She
+- Open to discussion from mayor, council members, and guests
+- Mayor Hartley asked if anyone had anything to discuss. Councilmember Hartley asked if it would
+- Mayor Hartley stated there was a resident that emailed about security cameras and license plate
+
+## [mission-woods#1] 2026-09-01 | City Council | minutes
+- Budget Meeting
+- Mayor Hartley opened the budget hearing meeting to the public at 6:01 p.m. John Martin, City
+- Treasurer, shared this year’s budget changes/additions, City’s Revenue Neutral Rate (12.962) and
+- Mill Levy ra te, with the City NOT opting to exceed the RNR. Mr. Martin stated this was
+- Councilmember Hartley. A voice vote was had, and the motion was approved, 4-0,
+- and what it does. She stated that Ms. Sherry founded the organization and discussed the history
+- Review and Approval of Minutes
+- minutes and there were none. Mayor Hartley asked for a Motion to approve the Minutes of August
+- Councilmember Sweeney. A voice vote was had, and the motion was approved, 4-0,
+- Review and Approval of Warrants
+- Mayor Hartley asked if there were any questions regarding the warrants. After discussion of the
+- Warrants, Mayor Hartley asked for a m otion to approve the warrants . Motion was made by
+- motion was approved, 4-0, Councilmember Mohsen was absent
+- Review of Police Report
+- Council reviewed and discussed the report distributed
+- Consider formally appointing City Council to act as Tree Board
+- establishing budgets/funding, and resident outreach
+- Mayor Hartley shared after the discussion at the last meeting regarding the Tree Board, she
+- wanted to formally appoint City Council as the acting Tree Board. She asked Mr. Deane
+- what needs to happen to officially appoint the City Council as the Tree Board
+- Tree Board. He discussed this with the Council on creating the ordinance and their ability
+- to amend in the future if needed. There was additional discussion. It was decided to create
+- an ordinance to organize a Tree Board and have a work session. Mr. Deane stated that
+- Approval of 2027 Budget
+- Mayor Hartley stated that the Council needed to approve the 2027 budget. At the hearing,
+- there were no questions so she asked for a m otion to approve the 2027 budget. Motion to
+- voted in the affirmative and the motion was approved, 4-0. Councilmembers Mohsen were
+- Consideration for city-wide curbside compost pick up (Paul Hartley)
+- presenting it to the residents. After Council discussion, it was decided to educate and do a
+- Open to discussion from mayor, council members, and guests
+- Councilmember Carto. A voice vote was had, and the motion was approved, 4-0, Councilmember
+
+## [mission-woods#2] 2026-10-06 | City Council | agenda
+- Approval of the September Council Meeting Minutes
+- Approval of October Warrants
+- Review of Police Report
+- Conﬁrm budget for Holiday Party on November 7
+- Discuss proposals for city-wide leaf pickup
+- Open to discussion from mayor, council members, and guests

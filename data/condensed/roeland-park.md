@@ -1,0 +1,719 @@
+# roeland-park
+
+## [roeland-park#0] 2026-08-03 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1095
+- B. Arts and Parks - Wildflower Bench RFP
+- A. Discuss 2026-27 Leaf Collection Schedule Options
+- XII. Ordinances and Resolutions
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+- the matter under consideration by the Council
+- permitted unless mandated by state or local law. No speaker will be allowed to yield part or all of his/her
+- time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Council Members seeking to clarify testimony or gain additional
+
+## [roeland-park#1] 2026-08-03 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1095
+- B. Arts and Parks - Wildflower Bench RFP
+- A. Discuss 2026-27 Leaf Collection Schedule Options
+- XII. Ordinances and Resolutions
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+- the matter under consideration by the Council
+- permitted unless mandated by state or local law. No speaker will be allowed to yield part or all of his/her
+- time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Council Members seeking to clarify testimony or gain additional
+
+## [roeland-park#2] 2026-08-17 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- A. Pawnee Complete Streets Analysis and Sidewalk Location Options (20 min)
+- B. Review Results of On Street Parking Survey - Get Direction on Next Steps
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+
+## [roeland-park#3] 2026-08-17 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- A. Pawnee Complete Streets Analysis and Sidewalk Location Options (20 min)
+- B. Review Results of On Street Parking Survey - Get Direction on Next Steps
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+- Item Number: II. Discussion
+- City of Roeland Park
+- Title: Pawnee Complete Streets Analysis and Sidewalk Location Options (20 min)
+- Item Type: Presentation
+- Staff recommends placing the sidewalk along the east side of the street along the back
+- Attached is the Pawnee Complete Streets Analysis and presentation of design
+- considerations for the 2027 Residential Street Reconstruction (RSR) project. The
+- project will reconstruct Pawnee Drive and add a medium-priority sidewalk identified in
+- the City’s Bike and Pedestrian Infrastructure Plan
+- the recommended design and gather feedback before proceeding with final design
+- WaterOne is expected to replace the water main along Pawnee Drive between
+- permanent sidewalk/utility easements are necessary on this project. Because sidewalk
+- We will employ Orrick LLP to assist with easement acquisition on this project due to the
+- Amount of Request:
+- Budgeted item? Budgeted Amount:
+- 1. Pawnee Dr Complete Streets Report- Final
+- 2. Pawnee Drive Reconstruction Project Presentation- Final
+- 3. 2026-08-05_STREETLIGHT EXHIBIT
+- 4. City's Complete Streets Design Checklist
+
+## [roeland-park#4] 2026-08-17 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1096
+- C. Update and Demonstration on Permitting Software (10 min)
+- A. Request to Remove Protected Tree from Front Yard Located at 5346 Briar
+- B. Reappoint Elizabeth Baddeley to the Aquatics Committee (5 min)
+- C. Approve Sidewalk Panel Replacement Additions to Contract (5 min)
+- D. Approve Change Order for Roe Parkway Construction Contract (5 min)
+- XII. Ordinances and Resolutions
+- A. Ordinance Amending the City Zoning Code including Modifications Resulting
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+
+## [roeland-park#5] 2026-08-17 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1096
+- C. Update and Demonstration on Permitting Software (10 min)
+- A. Request to Remove Protected Tree from Front Yard Located at 5346 Briar
+- B. Reappoint Elizabeth Baddeley to the Aquatics Committee (5 min)
+- C. Approve Sidewalk Panel Replacement Additions to Contract (5 min)
+- D. Approve Change Order for Roe Parkway Construction Contract (5 min)
+- XII. Ordinances and Resolutions
+- A. Ordinance Amending the City Zoning Code including Modifications Resulting
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+
+## [roeland-park#6] 2026-09-08 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+
+## [roeland-park#7] 2026-09-08 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+- Item Number: I. Approval of
+- City of Roeland Park
+- Amount of Request:
+- Budgeted item? Budgeted Amount:
+- Item Number: II. Discussion
+- Item Type: Presentation
+- Approve Recommended Enhanced Visibility Sign and Pavement Marking Improvements
+- Clayton, prepared the Enhanced Traffic Sign and Marking Policy, which was approved
+- Staff is seeking Council feedback and direction on the stop sign visibility assessment
+- Amount of Request: 3,000
+- Budgeted item? Yes Budgeted Amount: $40,000
+- 4600 W. 51st Street
+- Roeland Park, KS 66205
+- Project / Location: W 52nd Ter. & Roe Boulevard
+- Requested By: Nick Ward-Bopp
+- 2. Crash Data & Police Citations (Past 5 Years)
+- Are there upcoming street projects that could aﬀect this intersection?
+- improvements detailed in the schematic below
+- and the Police Department, and a review of the intersection by the City Traﬃc Engineer
+- SECTION 3 – COST CONSIDERATION (STAFF)
+- Estimated Cost of Improvements: <$3,000
+- ☐ Additional Study Requested
+
+## [roeland-park#8] 2026-09-08 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- A. Public Hearing: Exceeding Revenue Neutral Rate (RNR) & Adoption of the
+- 2027 Budget (15 min)
+- B. Resolution Exceeding the Revenue Neutral Rate for the 2027 Budget (5 min)
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1097
+- A. Board of Zoning Appeals Report (5 min)
+- XI. Ordinances and Resolutions
+- A. Adopt the 2027 Annual Budget Including Objectives and Capital
+- Improvement Plan (10 min)
+- B. Bishop Miege Public Fireworks Permit Application (5 min)
+- C. Council Direction on Providing Interpreters at Roeland Park Poling
+- D. Appoint Lora Andrews and Bill Nulsen to the Diversity, Equity and Inclusion
+- E. Approve Task Order for CARS 2027 Johnson Dr & Ash Dr - Traffic Signal
+- F. Review Small Business Grant Policy Changes (5 min)
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+
+## [roeland-park#9] 2026-09-08 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- A. Public Hearing: Exceeding Revenue Neutral Rate (RNR) & Adoption of the
+- 2027 Budget (15 min)
+- B. Resolution Exceeding the Revenue Neutral Rate for the 2027 Budget (5 min)
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1097
+- A. Board of Zoning Appeals Report (5 min)
+- XI. Ordinances and Resolutions
+- A. Adopt the 2027 Annual Budget Including Objectives and Capital
+- Improvement Plan (10 min)
+- B. Bishop Miege Public Fireworks Permit Application (5 min)
+- C. Council Direction on Providing Interpreters at Roeland Park Poling
+- D. Appoint Lora Andrews and Bill Nulsen to the Diversity, Equity and Inclusion
+- E. Approve Task Order for CARS 2027 Johnson Dr & Ash Dr - Traffic Signal
+- F. Review Small Business Grant Policy Changes (5 min)
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+
+## [roeland-park#10] 2026-09-21 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1098
+- C. Ordinance Updating Governing Body Monthly Stipend
+- D. Ordinance Amending Conversion Therapy Policy
+- A. Approve Interpretive Historical Signs (5 min)
+- A. Request to Remove Protected Tree from Front Yard Located at 5617 Birch
+- XII. Ordinances and Resolutions
+- A. Ordinance Amending the Tree Preservation Policy (5 min)
+- B. Ordinance Amending School Zone Language in the City Code (5 min)
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+- the matter under consideration by the Council
+- permitted unless mandated by state or local law. No speaker will be allowed to yield part or all of his/her
+
+## [roeland-park#11] 2026-09-21 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- A. Direction on Buena Vista Traffic Calming Plan Design (5 min)
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+
+## [roeland-park#12] 2026-09-21 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1098
+- C. Ordinance Updating Governing Body Monthly Stipend
+- D. Ordinance Amending Conversion Therapy Policy
+- A. Approve Interpretive Historical Signs (5 min)
+- A. Request to Remove Protected Tree from Front Yard Located at 5617 Birch
+- XII. Ordinances and Resolutions
+- A. Ordinance Amending the Tree Preservation Policy (5 min)
+- B. Ordinance Amending School Zone Language in the City Code (5 min)
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+- the matter under consideration by the Council
+- permitted unless mandated by state or local law. No speaker will be allowed to yield part or all of his/her
+
+## [roeland-park#13] 2026-09-21 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- A. Direction on Buena Vista Traffic Calming Plan Design (5 min)
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+- Item Number: I. Approval of
+- City of Roeland Park
+- Amount of Request:
+- Budgeted item? Budgeted Amount:
+- P a g e | 1 Roeland Park Governing Body Workshop Minutes – August 17, 2026
+- ROELAND PARK CITY HALL
+- 4600 WEST 51st STREET, ROELAND PARK, KS 66205
+- (Roeland Park Governing Body Workshop Meeting Called to Order at 7:08 p.m.)
+- There were no minutes to approve
+- 1. Pawnee Complete Street Analysis and Sidewalk Location Options
+- Janelle Clayton from Lamp Rynearson reviewed the results of her study and what the Pawnee Street
+- project would encompass
+- Greg Van Patten, also from Lamp Rynearson, reviewed the design considerations for Pawnee Drive for
+- Mayor Poppa asked for a reminder as to what is driving this project. City Manager Moody said the
+- pavement condition index for this street is a failed condition. It is not a good candidate for either UBAS
+- Patten said they did look at both sides of the street for curb placement or leaving that portion of the
+- sidewalk, so people do not have to walk in the street
+- CMBR Lero said he has received e-mail complaints about the condition of the street and curbs, but
+- P a g e | 2 Roeland Park Governing Body Workshop Minutes – August 17, 2026
+
+## [roeland-park#14] 2026-10-05 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- Body recess into executive session to discuss the City Administrator
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+
+## [roeland-park#15] 2026-10-05 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- Body recess into executive session to discuss the City Administrator
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+- Item Number: I. Approval of
+- City of Roeland Park
+- Amount of Request:
+- Budgeted item? Budgeted Amount:
+- P a g e | 1 Roeland Park Governing Body Workshop Minutes – September 21, 2026
+- ROELAND PARK CITY HALL
+- 4600 WEST 51st STREET, ROELAND PARK, KS 66205
+- (Roeland Park Governing Body Workshop Meeting Called to Order at 6:43 p.m.)
+- The minutes were approved as submitted
+- 1. Direction on Buena Vista Traffic Calming Plan Design
+- implemented along the Buena Vista corridor. They noticed the raised crosswalk at 50 street had a
+- Street intersection and to have a cushion just south of there. This is one of the original options
+- P a g e | 2 Roeland Park Governing Body Workshop Minutes – September 21, 2026
+- Following the presentation, the Governing Body supported removal of the speed table and
+- Item Number: II. Discussion
+- recess into executive session to discuss the City Administrator Evaluation pursuant to
+- Item Type: Presentation
+
+## [roeland-park#16] 2026-10-05 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1099
+- C. Committee Reappointments for 2027
+- A. Update on Sustainability Action Plan - Rachel Meier with Lotus Engineering
+- A. Approve Leaf Collection Backup Service Agreement (5 min)
+- B. Approve Call Back Policy for Public Works (10 min)
+- C. Approve Agreement with Gather Media for City Communications Services (5
+- D. Approve Lock Replacement Agreement for City Hall (10 min)
+- XII. Ordinances and Resolutions
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+- the matter under consideration by the Council
+- permitted unless mandated by state or local law. No speaker will be allowed to yield part or all of his/her
+
+## [roeland-park#17] 2026-10-05 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1099
+- C. Committee Reappointments for 2027
+- A. Update on Sustainability Action Plan - Rachel Meier with Lotus Engineering
+- A. Approve Leaf Collection Backup Service Agreement (5 min)
+- B. Approve Call Back Policy for Public Works (10 min)
+- C. Approve Agreement with Gather Media for City Communications Services (5
+- D. Approve Lock Replacement Agreement for City Hall (10 min)
+- XII. Ordinances and Resolutions
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A
+- Agenda, must fill out a Request to Speak form and submit it to the City Clerk before the Mayor (Chair)
+- the matter under consideration by the Council
+- permitted unless mandated by state or local law. No speaker will be allowed to yield part or all of his/her
+
+## [roeland-park#18] 2026-10-19 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- B. Review and Discuss Proposed Building Permit Fee Changes (10 min)
+- C. Review and Discuss Proposed Aquatic Center and Park Rental Fees (10
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+
+## [roeland-park#19] 2026-10-19 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- I. Approval of Minutes
+- II. Discussion Items
+- B. Review and Discuss Proposed Building Permit Fee Changes (10 min)
+- C. Review and Discuss Proposed Aquatic Center and Park Rental Fees (10
+- Welcome to this meeting of the Governing Body Workshop of Roeland Park
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the Committee of the Whole during Public Comments
+- and/or before consideration of any agenda item; however, no person shall address the Committee of the
+- the beginning of an agenda topic, shall first complete a Request to Speak form and submit this form to
+- the City Clerk before discussion begins on that topic
+- will not be permitted unless mandated by state or local law. No speaker will be allowed to yield part or all
+- of his/her time to another, and no speaker will be credited with time requested but not used by another
+- the seated audience is not permitted. Only one speaker shall have the floor at one time. Before
+- Bienvenidos a esta reunión pública del Cuerpo de Gobierno de Roeland Park
+- F. Hablar solo una vez. No se permitirán segundas oportunidades para que el público hable sobre el
+- mismo tema, a menos que lo exija la ley estatal o local. No se permitirá a ningún orador ceder parte o la
+- debidamente registrada, todos los comentarios desde el podio deben dirigirse al Presidente. Los
+- Item Number: I. Approval of
+- City of Roeland Park
+- Amount of Request:
+- Budgeted item? Budgeted Amount:
+- Item Number: II. Discussion
+- Item Type: Presentation
+- Please see the attached presentation which provides an assessment of Cooper Creek
+- subject as well as links to meetings where prior discussion has occurred
+- Below are links to the meetings where Cooper Creek related bank stabilization and vegetative maintenance have been discussed and action taken over the past 7+ years
+- Action Item: Discussion on Tree Removal at Cooper Creek
+- Action Item: Discuss Use of Herbicides at Cooper Creek Park
+- Presentation by Addison Banks on Herbicide Use at Cooper Creek
+- Workshop October 17, 2022 Dan Miller Presentation
+- Action Item: Discuss Cooper Creek Natural Erosion Prevention Plan
+- Attached is the Stream Restoration Preliminary Engineering Study completed by Water Resources Solutions for Habitat Architects and the City on 10/3/23. Also attached are the
+- presentations made by Dan Miller to the Council in 2022 as options were being considered. Also attached is the executed services agreement with Habitat Architects, who completed the
+
+## [roeland-park#20] 2026-10-19 | City Council | agenda
+- City of Roeland Park, Kansas
+- City Hall, 4600 W 51st Street
+- Cory Honas, Police Chief
+- III. Public Hearing
+- V. Public Comments
+- not appear on the agenda, or about items that will be considered as part of the consent agenda
+- Comments about items that appear on the agenda will be taken as each item is considered
+- Citizens Are Requested To Keep Their Comments Under 5 Minutes. If a large number of people
+- motion. If a Council member requests a separate discussion on an item, it can be removed from
+- the consent agenda and placed on new business for further consideration
+- A. Appropriations Ordinance #1100
+- C. Appoint Marion Heck to the Aquatics Advisory Committee
+- D. Committee Reappointments
+- A. Review Nall Park Preliminary Master Plan Improvement Design (20 min)
+- B. Approve Nall Park Playground Equipment Purchase (15 min)
+- C. Approve Bullet Proof Glass Installation for City Hall Reception Area (10 min)
+- D. Approve 3rd Floor Shared Office Concept and Improvement Plan (10 min)
+- E. Approve 2027 Land Lease Agreement for Sports Dome (5 min)
+- XII. Ordinances and Resolutions
+- A. 3rd Quarter Parks and Recreation Progress Update (10 min)
+- B. 3rd Quarter Strategic Plan Report (5 min)
+- C. 3rd Quarter Police Report (5 min)
+- ROELAND PARK LAND ACKNOWLEDGMENT
+- With respect and gratitude, we acknowledge Roeland Park as the ancestral homelands of the Kanza
+- a tool in the forced acculturation of Indigenous people, operated on this land. Its students represented
+- As stewards of this place, we honor and celebrate these continuous relationships and commit to
+- Welcome to this meeting of the City Council of Roeland Park. Below are the Procedural Rules of
+- B. Public Comment Request to Speak Form. The request form's purpose is to have a record for the
+- City Clerk. Members of the public may address the City Council during Public Comments and/or before
+- consideration of any agenda item; however, no person shall address the Council without first being
+- recognized by the Mayor (Chair). Any person wishing to speak, whether during Public Comments or on
+- an agenda item, shall first complete a Public Comment or Request to Speak form and submit this form to
+- the City Clerk before the Mayor (Chair) calls for Public Comments or calls the particular agenda item
+- 1. Public Comment on Non-Agenda Items. The Agenda shall provide for public comment about
+- member of the public who wishes to speak under Public Comments must fill out a Public Comment
+- Request to Speak form and submit it to the City Clerk before the Mayor (Chair) calls for Public
+- 2. Public Comment on Agenda Items. Public comment will be accepted on Agenda items. A

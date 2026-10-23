@@ -2207,6 +2207,113 @@
   ],
   "government": "Mission Hills"
  },
+ "mission-woods/0": {
+  "id": "mission-woods/0",
+  "title": "Tree ordinance, tree removal costs and a city Tree Board",
+  "summary": "A resident asked to be reimbursed for removing a large tree limb, leading the council to pay her $300, debate how the new tree ordinance and budget handle tree problems, and move to make the council the city's Tree Board.",
+  "where": "5314 Mission Woods Terr, citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.09.01_Mission_Woods_City_Council_Mtg_minutes.pdf"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.08.11_Mission_Woods_City_Council_Mtg_minutes.pdf"
+   }
+  ],
+  "government": "Mission Woods"
+ },
+ "mission-woods/1": {
+  "id": "mission-woods/1",
+  "title": "2027 budget held to the revenue neutral rate",
+  "summary": "After a public hearing, the council adopted the 2027 budget without exceeding the revenue neutral property tax rate.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.09.01_Mission_Woods_City_Council_Mtg_minutes.pdf"
+   }
+  ],
+  "government": "Mission Woods"
+ },
+ "mission-woods/2": {
+  "id": "mission-woods/2",
+  "title": "Curbside compost and leaf pickup",
+  "summary": "The council considered citywide curbside compost pickup, deciding to educate residents first, and took up proposals for citywide leaf pickup.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/AGENDA_10-6-26.pdf"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.09.01_Mission_Woods_City_Council_Mtg_minutes.pdf"
+   }
+  ],
+  "government": "Mission Woods"
+ },
+ "mission-woods/3": {
+  "id": "mission-woods/3",
+  "title": "Security and license plate cameras",
+  "summary": "A resident emailed the council about adding security cameras and license plate readers.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.08.11_Mission_Woods_City_Council_Mtg_minutes.pdf"
+   }
+  ],
+  "government": "Mission Woods"
+ },
+ "mission-woods/4": {
+  "id": "mission-woods/4",
+  "title": "Updated traffic and public offense codes",
+  "summary": "The council adopted the 2026 standard traffic and public offense ordinances for Kansas cities with local amendments.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://www.missionwoods-ks.org/vertical/sites/%7B092D0D56-F186-4633-8964-476FD4CB5ABC%7D/uploads/2026.08.11_Mission_Woods_City_Council_Mtg_minutes.pdf"
+   }
+  ],
+  "government": "Mission Woods"
+ },
  "mission/0": {
   "id": "mission/0",
   "title": "647 apartments at Foxridge and Broadmoor",
@@ -3359,6 +3466,270 @@
    }
   ],
   "government": "Prairie Village"
+ },
+ "roeland-park/0": {
+  "id": "roeland-park/0",
+  "title": "Pawnee Drive reconstruction and new sidewalk",
+  "summary": "Engineers presented the Pawnee Drive complete streets study for the 2027 street rebuild, recommending a new sidewalk on the east side that will need easements from homeowners, with council members citing resident complaints about the failing street.",
+  "where": "Pawnee Drive",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/638/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/673/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/1": {
+  "id": "roeland-park/1",
+  "title": "2027 budget exceeding the revenue neutral rate",
+  "summary": "The council held a public hearing on exceeding the revenue neutral property tax rate and adopted the 2027 budget and capital plan.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/579/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/2": {
+  "id": "roeland-park/2",
+  "title": "Buena Vista traffic calming and stop sign visibility",
+  "summary": "The council gave direction on traffic calming along Buena Vista, backing removal of a speed table, and approved visibility fixes at W 52nd Terrace and Roe Boulevard.",
+  "where": "Buena Vista, W 52nd Ter & Roe Blvd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/675/files"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/638/files"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/674/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/3": {
+  "id": "roeland-park/3",
+  "title": "Cooper Creek erosion, tree removal and herbicides",
+  "summary": "The council reviewed seven years of debate over Cooper Creek bank stabilization, tree removal and herbicide use alongside a stream restoration study.",
+  "where": "Cooper Creek Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/676/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/4": {
+  "id": "roeland-park/4",
+  "title": "Nall Park master plan and new playground",
+  "summary": "The council reviewed the preliminary Nall Park master plan and approved new playground equipment.",
+  "where": "Nall Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/652/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/5": {
+  "id": "roeland-park/5",
+  "title": "Tree preservation rules and protected tree removals",
+  "summary": "The council took up requests to remove protected front-yard trees on Briar and Birch and amended the tree preservation ordinance.",
+  "where": "5346 Briar, 5617 Birch",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/626/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/649/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/6": {
+  "id": "roeland-park/6",
+  "title": "Leaf collection schedule",
+  "summary": "The council discussed 2026-27 leaf collection options and approved a backup leaf collection contract.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/580/files"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/594/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/7": {
+  "id": "roeland-park/7",
+  "title": "On-street parking survey",
+  "summary": "The council reviewed results of an on-street parking survey and gave direction on next steps.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/673/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/8": {
+  "id": "roeland-park/8",
+  "title": "Fee changes for permits, pool and park rentals",
+  "summary": "The council reviewed proposed building permit fees and aquatic center and park rental fees.",
+  "where": "Roeland Park Aquatic Center",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/676/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/9": {
+  "id": "roeland-park/9",
+  "title": "Zoning code update",
+  "summary": "The council took up an ordinance amending the city zoning code.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/649/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/10": {
+  "id": "roeland-park/10",
+  "title": "City Hall security upgrades",
+  "summary": "The council approved bullet-resistant glass for the City Hall reception area and new locks.",
+  "where": "4600 W 51st St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/652/files"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/580/files"
+   }
+  ],
+  "government": "Roeland Park"
+ },
+ "roeland-park/11": {
+  "id": "roeland-park/11",
+  "title": "Conversion therapy ordinance and council stipend",
+  "summary": "The council amended its conversion therapy policy ordinance and updated the governing body's monthly stipend.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://roelandparkks.portal.civicclerk.com/event/626/files"
+   }
+  ],
+  "government": "Roeland Park"
  },
  "shawnee/0": {
   "id": "shawnee/0",

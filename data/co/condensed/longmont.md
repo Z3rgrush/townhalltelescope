@@ -11,10 +11,40 @@
 - Colorado Highway 119 and Airport Road. Airport services are available 24 hours a day, 365
 
 ## [longmont#1] 2026-07-28 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- Platte River Power Authority Energy Supply Mix Update
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- A Bill For An Ordinance Amending An Economic Incentive Agreement
+- Ordinances To Refer Two Questions To The November 3, 2026 Ballot: Ranked
+- A Bill For An Ordinance Submitting To The Registered Electors Of
+- November 3, 2026, Amendments To The City Of Longmont Home Rule Charter
+- November 3, 2026, An Amendment To The City Of Longmont Home Rule
+- A Bill For An Ordinance Submitting To The Registered Electors Of The
+- City Of Longmont, Colorado, An Amendment To The City Of Longmont Home Rule
+- Charter To Add Open Space To The Lands That Require Voter Approval For Sale Or
+- , ​A Resolution Of The Longmont City Council Establishing An Expedited
+- Development Review Process And Policies For Affordable Housing Projects
+- A Resolution Of The Longmont City Council Approving The
+- Intergovernmental Agreement Between The City And The Larimer Emergency
+- Approve One Capital Improvement Program Amendment – TRP012
+- Approve One Capital Improvement Program Amendment – TRP141
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- A Bill For An Ordinance Making Additional Appropriations For
+- , A Bill For An Ordinance Making Additional Appropriations For
+- 2027 Inclusionary Housing Fee-In-Lieu Adjustment
+- Presentation Of Voluntary Noise Abatement Procedures (VNAP) Baseline
+- Presentation Of Rates And Charges Study Findings By Bolton & Menk, Inc. For
+- Planning & Development Services June 2026 Month In Review Report
+- May 2026 Sales And Use Tax Report, Includes: Lodger And Marijuana Tax Data
 
 ## [longmont#2] 2026-08-04 | City Council Study Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- SPECIAL REPORTS AND PRESENTATIONS
+- Front Range Community College Summer Internship Presentations
+- Public, Educational And Government Video Services Contract
 
 ## [longmont#3] 2026-08-05 | Senior Citizens Advisory Board | agenda
 - II. Approval of Agenda
@@ -43,7 +73,44 @@
 - Cammie Edson suggested that the 2027 TAB work plan be slated for the December TAB meeting
 
 ## [longmont#5] 2026-08-11 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- Senior Citizens Advisory Board Presentation
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- , A Bill For An Ordinance Making Additional Appropriations For
+- , A Bill For An Ordinance Repealing And Reenacting Section
+- Public Safety Fund Tax Increase Ballot Language Optional Ordinances
+- , A Bill For An Ordinance Concerning Funding For Public Safety And In
+- Connection Therewith Amending Chapter 4.04 Of The Municipal Code For The
+- City Of Longmont, Colorado, Increasing The City Sales And Use Tax Rate From
+- Increase In the City Property Tax Of Not More Than 4.06 Mills Beginning With
+- Tax Collection Year 2027, And Referring Said Tax Increase To A Vote Of The
+- A Bill For An Ordinance Concerning Funding For Public Safety And In
+- Increase In The City Property Tax Of Not More Than 3.25 Mills Beginning With
+- Tax Collection Year 2027, And Referring Said Tax Increases To A Vote Of The
+- Increase In The City Property Tax Of Not More Than 2.44 Mills Beginning With
+- , A Resolution Of The Longmont City Council Approving The
+- Intergovernmental Agreement Between The City And Boulder County For The
+- Intergovernmental Agreement Between The City And Weld County For The
+- , A Resolution Of The Longmont City Council Expressing The Intent Of
+- Acquisition, Construction, Installation, And Equipping Of A Parking Garage With
+- Associated Supporting Public Improvements, And Other Capital Improvements Of
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- A Bill For An Ordinance Amending An Economic Incentive Agreement
+- , A Bill For An Ordinance Submitting To The Registered Electors Of The
+- November 3, 2026, Amendments To The City Of Longmont Home Rule Charter
+- Mayors And Councilmembers (Amended at first reading)
+- November 3, 2026, An Amendment To The City Of Longmont Home Rule Charter
+- Elected From The City At Large (Amended at first reading)
+- A Bill For An Ordinance Submitting To The Registered Electors Of The
+- City Of Longmont, Colorado, An Amendment To The City Of Longmont Home Rule
+- Charter To Add Open Space To The Lands That Require Voter Approval For Sale Or
+- Policy Discussion On Potential Subsidy For Composting Services
+- Appeal Of Denial Of A Variance Application By The Planning And Zoning
+- Commission Regarding A Setback Variance At 1820 Juniper Street, And
 
 ## [longmont#6] 2026-08-11 | City Council Pre-Session | agenda
 - The topics on this agenda are proposed by council members and approved by the Mayor for
@@ -55,7 +122,11 @@
 - Discuss prioritizing the Spring Gulch #2 CIP-045 designed in 2028 and pushed to
 
 ## [longmont#7] 2026-08-11 | Longmont Housing Authority Advisory Board | agenda
-- The requested meeting document is no longer available. Please return to the
+- Longmont Housing Authority Advisory Board
+- Approve minutes from July 14, 2026 meeting
+- Development and Project Updates
+- Briarwood Apartments Discussion
+- Longmont Housing Authority Advisory Board, August 11, 2026
 
 ## [longmont#8] 2026-08-12 | Callahan House Advisory Board Meeting | minutes
 - Callahan House — 312 Terry Street, Longmont, CO
@@ -203,7 +274,14 @@
 - b. Updates on Recent Projects (if any)
 
 ## [longmont#13] 2026-08-18 | Longmont Housing Authority Board of Commissioners | agenda
-- The requested meeting document is no longer available. Please return to the
+- Longmont Housing Authority Board of Commissioners
+- REVIEW AND APPROVAL OF JUNE 16, 2026 MINUTES AND JULY 21, 2026 SPECIAL
+- Resolution LHA-2026-16 – Declaring the Intent to Issue Multifamily Housing
+- Revenue Bonds and Authorizing Carryforward Allocation
+- Resignation as Contracted Property Manager at Zinnia
+- Briarwood Apartments Discussion
+- LHA Visioning Session Discussion
+- Development Updates
 
 ## [longmont#14] 2026-08-19 | REMOTE Sustainability Advisory Board | minutes
 - 6. APPROVAL OF MINUTES – July 15, 2026
@@ -258,7 +336,44 @@
 - panel on the topic of the Longmont flag redesign project
 
 ## [longmont#18] 2026-08-25 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- And Main Transit Project
+- , A Bill For An Ordinance Approving The 1st And Main Urban
+- Renewal Plan, Finding That The 1st And Main Urban Renewal Area Is A Blighted
+- Area, Designating Such Area As Appropriate For An Urban Renewal Plan, And
+- Finding That The Clearance, Rehabilitation, Conservation, Development,
+- Redevelopment, Or A Combination Thereof Of Such Area Is Necessary In The
+- , A Bill For An Ordinance Authorizing The Financing Of The
+- Construction Of A Parking Garage With Associated Improvements And Other
+- Capital Improvements Of The City Through The Execution Of One Or More
+- Lease Purchase Agreements And The Execution And Delivery Of Certificates Of
+- , A Bill For An Ordinance Conditionally Approving The Vacation Of
+- Public Sewer Easements Generally Located At 11 South Main Street
+- , A Resolution Of The Council Of The City Of Longmont, Colorado,
+- Finding That The Petition For Annexation Of A Parcel Of Land Located In The
+- County Of Boulder, State Of Colorado Known As The Dry Creek Annexation
+- (Generally Located Along Airport Road Between Quail Road And Clover Basin
+- Finding That The Petition For Annexation Of A Parcel Of Land Located In Boulder
+- County, State Of Colorado Known As The 8513 St. Vrain Road Annexation
+- (Generally Located East Of Airport Road And North Of 9th Avenue Within The
+- , A Resolution Of The City Of Longmont, Colorado Authorizing The
+- Assignment Of The City’s Private Activity Bond Allocation For 2026 To The
+- Longmont Housing Authority; Providing Other Details In Connection Therewith;
+- , A Resolution Of The Longmont City Council Urging Longmont Electors
+- To Vote “Yes” On The Ballot Issue Increasing Boulder County Property Taxes By
+- To Vote “Yes” On The Ballot Issue Increasing The City’s Public Safety Tax For The
+- Including Hiring Additional Police Officers, Dispatchers, Firefighters, Emergency
+- To Vote “Yes” On Ballot Question Amending The City Of Longmont Home Rule
+- Charter To Add Open Space To The Lands That Require Voter Approval For Sale Or
+- Approve Four Capital Improvement Program Amendments
+- Accept Eight Capital Improvement Program Amendments Approved By The City
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- , A Bill For An Ordinance Making Additional Appropriations For
 
 ## [longmont#19] 2026-08-27 | VIRTUAL | agenda
 - 385 KIMBARK STREET | LONGMONT, COLORADO 80501 | T 303-651-8330 | longmontcolorado.gov
@@ -280,17 +395,71 @@
 - Project Vicinity Map
 
 ## [longmont#20] 2026-09-01 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- , A Resolution Of The Longmont City Council Calling A Special
+- Increase In City Sales Tax And Property Tax For Public Safety, As Well As
+- Amendments To The City Of Longmont Home Rule Charter To Require Voter
+- Approval To Sell Or Convey Open Space Lands, Provide For Ranked Choice Voting,
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- Presentation of the 2027 Proposed Budget and the 2027-2031 Capital
+- Improvement Program
 
 ## [longmont#21] 2026-09-08 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- , A Bill For An Ordinance Making Additional Appropriations For
+- , A Bill For An Ordinance Amending Title 2 Of The Longmont Municipal
+- , A Bill For An Ordinance Directing City Staff To Process An Application
+- For An Increase In Tap Size For An Extraterritorial Water Service For Hygiene Fire
+- Protection District’s Fire House
+- For An Additional Extraterritorial Water Service For Hygiene Fire Protection
+- District For Fire Suppression System
+- , A Bill For An Ordinance Authorizing The Consent To Vance Brand
+- , A Resolution Of The Council Of The City Of Longmont, Colorado,
+- Finding That The Petition For Annexation Of A Parcel Of Land Known As The
+- Longmont Gateway Northwest Annexation (Generally Located At The Northwest
+- Corner Of U.S. Highway 287 And Park Ridge Avenue Within The Southwest
+- , A Resolution Of The Longmont City Council To Approve A
+- , A Resolution Of The City Of Longmont, Colorado Approving The First
+- Amendment To The Tax Increment Revenue Agreement With The Longmont
+- Urban Renewal Authority For The 1st And Main Urban Renewal Plan Area
+- Four Resolutions Concerning the Exclusion of Certain Properties Within the City of
+- Longmont, Colorado from the Mountain View Fire Protection District
+- , A Resolution Concerning Exclusion Of Village Cooperative Properties
+- Within The City Of Longmont, Colorado From The Mountain View Fire
+- , A Resolution Concerning Exclusion Of Meadow View Estates
+- Properties Within The City Of Longmont, Colorado From The Mountain View Fire
+- , A Resolution Concerning Exclusion Of The Enclave Annexation 27
+- , A Resolution Concerning Exclusion Of The Enclave Annexation 26
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- And Main Transit Project
+- , A Bill For An Ordinance Approving The 1st And Main Urban
+- Renewal Plan, Finding That The 1st And Main Urban Renewal Area Is A Blighted
+- Area, Designating Such Area As Appropriate For An Urban Renewal Plan, And
+- Finding That The Clearance, Rehabilitation, Conservation, Development,
+- Redevelopment, Or A Combination Thereof Of Such Area Is Necessary In The
+- , A Bill For An Ordinance Authorizing The Financing Of The
+- Construction Of A Parking Garage With Associated Improvements And Other
+- Capital Improvements Of The City Through The Execution Of One Or More
 
 ## [longmont#22] 2026-09-08 | City Council Pre-Session | agenda
 - Meeting Topics To be Discussed
 - Automated Checkout Workforce Impact Fee
 
 ## [longmont#23] 2026-09-08 | Longmont Housing Authority Advisory Board | agenda
-- The requested meeting document is no longer available. Please return to the
+- Longmont Housing Authority Advisory Board
+- Approve minutes from August 11, 2026 meeting
+- Development and Project Updates
+- 2026 Housing Choice Voucher Program Administrative Plan
+- Longmont Housing Authority Advisory Board, September 08, 2026
 
 ## [longmont#24] 2026-09-09 | Callahan House Advisory Board Meeting | minutes
 - Callahan House - 312 Terry Street, Longmont, CO
@@ -332,7 +501,8 @@
 - Project Angel Heart – 8:05 p.m
 
 ## [longmont#26] 2026-09-14 | Transportation Advisory Board | agenda
-- The requested meeting document is no longer available. Please return to the
+- City Council Chambers, 350 Kimbark Street
+- Transportation Engineering Project Updates - Quiet Zones, County Line Road (TE)
 
 ## [longmont#27] 2026-09-14 | Parks and Recreation Advisory Board | agenda
 - Parks and Recreation Advisory Board Meeting
@@ -368,7 +538,8 @@
 - River District Area Wide Plan & Revitalization Strategies, November 2025
 
 ## [longmont#29] 2026-09-15 | City Council Study Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- SPECIAL REPORTS AND PRESENTATIONS
+- 2027 Proposed Budget Presentation
 
 ## [longmont#30] 2026-09-16 | REMOTE Sustainability Advisory Board | agenda
 - and the public. To create an inclusive space where everyone feels welcome to share
@@ -462,7 +633,43 @@
 - typically used for potable water treatment in winter months, storage during runoff season, and
 
 ## [longmont#39] 2026-09-22 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- A Bill For An Ordinance Conditionally Approving The Dry Creek
+- Annexation And Concept Plan (Generally Located Along Clover Basin Drive And
+- Airport Road), And Zoning The Property Residential Mixed Neighborhood (R-MN)
+- A Bill For An Ordinance Amending Chapter 14.20 Of The Longmont
+- Improvements
+- A Bill For An Ordinance Authorizing A Lease Agreement Between The
+- City Of Longmont And Growing Gardens For 950 Lashley Street
+- A Resolution Of The Longmont City Council Authorizing An
+- Agreement Between The City Of Longmont And Young Men's Christian
+- Purchase Of Real Property
+- A Resolution Of The Longmont City Council Approving The Lease Of
+- Certain Areas Of The Building Located At 950 Lashley Street For The Purposes Of
+- A Resolution Of The Longmont City Council Approving The 2026
+- Intergovernmental Agreement Between The City And Regional Transportation
+- A Resolution Of The Longmont City Council Approving A Cooperative
+- Agreement Between The City And The Longmont Fraternal Order Of Police Lodge
+- Agreement Between The City And The Longmont Professional Firefighters
+- Association International Association Of Firefighters Local 1806 For January 1,
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- , A Bill For An Ordinance Making Additional Appropriations For
+- A Bill For An Ordinance Amending Title 2 Of The Longmont Municipal
+- , A Bill For An Ordinance Directing City Staff To Process An Application
+- For An Increase In Tap Size For An Extraterritorial Water Service For Hygiene Fire
+- Protection District’s Fire House
+- For An Additional Extraterritorial Water Service For Hygiene Fire Protection
+- District For Fire Suppression System
+- , A Bill For An Ordinance Authorizing The Consent To Vance Brand
+- Prioritized Council Action Plan And Boards And Commissions Alignment
+- 2027 Proposed Budget Presentation
+- Planning & Development Services August 2026 Month in Review Report
+- Sales Tax Report July 2026 - Includes: Lodger and Marijuana Tax Data
 
 ## [longmont#40] 2026-09-22 | City Council Executive Session | agenda
 - Topics To Be Discussed In Executive Session
@@ -506,13 +713,22 @@
 - Housing and Human Service Advisory Board - Agency Hearings, September 26, 2026
 
 ## [longmont#45] 2026-09-29 | City Council Study Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- SPECIAL REPORTS AND PRESENTATIONS
+- Presentation Of Options To Implement The Airport Monitoring Systems (AMS)
+- 2027 Proposed Budget Presentation
+- First Public Hearing On The 2027 Proposed Budget And The Proposed 2027-2031
+- Capital Improvement Program
 
 ## [longmont#46] 2026-09-29 | City Council Executive Session | agenda
 - Topics To Be Discussed In Executive Session
 
 ## [longmont#47] 2026-10-01 | Historic Preservation Commission | agenda
-- The requested meeting document is no longer available. Please return to the
+- City Council Chambers, 350 Kimbark Street
+- Approval of September 3, 2026, Regular Meeting Minutes
+- Public Invited to be Heard – for topics other than public hearings
+- Public Hearing
+- Certificate of Appropriateness: 346 Main Street
+- DEVELOPMENT SERVICES AT 303-651-8330 IN ADVANCE OF THE MEETING TO MAKE
 
 ## [longmont#48] 2026-10-01 | Housing and Human Service Advisory Board | agenda
 - Housing and Human Services Advisory Board
@@ -530,7 +746,46 @@
 - Meeting Topics To Be Discussed
 
 ## [longmont#51] 2026-10-06 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- , A Bill For An Ordinance Fixing And Levying Taxes Upon The Real And
+- Budgeted City Expenses For The 2027 Fiscal Year
+- Personal Property Within The Longmont Downtown Development District For The
+- Year 2026 To Pay Budgeted Expenses Of The Longmont Downtown Development
+- , A Bill For An Ordinance Making Additional Appropriations For
+- , A Bill For An Ordinance Conditionally Approving The 8513 St. Vrain
+- Road Annexation And Concept Plan (Generally Located East Of Airport Road And
+- North, Range 69 West), And Zoning The Property Residential Mixed
+- , A Bill For An Ordinance Approving A Development Agreement With
+- Main Street Tebo, LLC To Coordinate Construction Of The 1st And Main Transit
+- Center And A Transit-Oriented Design Project
+- , A Bill For An Ordinance Amending Section 2.04 Of The Longmont
+- A Bill For An Ordinance Amending Chapter 2.44 Of The Longmont
+- A Bill For An Ordinance Approving The Concept Plan Amendment For
+- A Portion Of The Wal-Mart Retail Center Annexation/Phase II Known As The
+- Copper Peak Development, Generally Located At 2704 Main Street, Northeast Of
+- A Resolution Of The Longmont City Council Designating The 2027
+- Approve Appointment Of Darrell Hahn, Director Of Electric Services, To The Platte
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- , A Bill For An Ordinance Amending Chapter 14.20 Of The Longmont
+- Improvements (Amended on First Reading)
+- A Bill For An Ordinance Authorizing A Lease Agreement Between The
+- City Of Longmont And Growing Gardens For 950 Lashley Street
+- Public Hearing Regarding
+- A Resolution Finding A Parcel Of Land
+- Known As The Dry Creek Annexation (Generally Located Along Airport Road
+- Between Quail Road And Clover Basin Drive) Eligible For Annexation
+- A Bill For An Ordinance Conditionally Approving The Dry Creek
+- Annexation And Concept Plan (Generally Located Along Clover Basin Drive And
+- Airport Road), And Zoning The Property Residential Mixed Neighborhood (R-MN)
+- (Amended at First Reading)
+- Second Public Hearing On The Proposed 2027 Budget And The 2027-2031
+- Proposed Capital Improvement Program, And Final Council Direction
+- Prioritized Council Action Plan And Boards And Commissions Alignment
 
 ## [longmont#52] 2026-10-07 | City Council Legislative Dinner | agenda
 - Longmont Museum, 400 Quail Road, Longmont, CO
@@ -539,7 +794,9 @@
 - what cities receive plus rising tax burdens on residents and businesses - SB24
 
 ## [longmont#53] 2026-10-07 | Master Board of Appeals | agenda
-- The requested meeting document is no longer available. Please return to the
+- Development Services Center, Twin Sisters Conference Room, 385 Kimbark Street
+- ) Approval of October 17, 2025, meeting minutes were completed
+- ) Review the 2026 edition of NFPA 70, National Electrical Code (NEC) and consider
 
 ## [longmont#54] 2026-10-08 | Housing and Human Service Advisory Board | agenda
 - Housing and Human Services Advisory Board
@@ -559,7 +816,7 @@
 - Project Vicinity Map
 
 ## [longmont#56] 2026-10-12 | Study Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- City Council Chambers, 350 Kimbark Street
 
 ## [longmont#57] 2026-10-12 | Parks and Recreation Advisory Board | agenda
 - Parks and Recreation Advisory Board
@@ -576,10 +833,35 @@
 - Zoning Commission, please visit the Agenda Management Portal
 
 ## [longmont#59] 2026-10-13 | Longmont Housing Authority Advisory Board | agenda
-- The requested meeting document is no longer available. Please return to the
+- Longmont Housing Authority Advisory Board - 10/13/2026 3:00:00 PM
+- Longmont Housing Authority Advisory Board
+- Approve minutes from September 8, 2026 meeting
+- Development and Project Updates
+- 2026 Property and Agency Budgets & Payment Standards for Housing Choice Voucher Program
+- 6b1 - 2027 LHA Budget Presentation
+- 6b2 - 2027 LHA Detailed Budget - Other
+- 6b3 - 2027 LHA Property Budgets Detailed
+- Affordable-Attainable Housing Tax 2-Year Review
+- 6c2 - Affordable Housing Grant Program Terms (5.28.2025)
 
 ## [longmont#60] 2026-10-13 | Longmont Housing Authority Board of Commissioners Meeting | agenda
-- The requested meeting document is no longer available. Please return to the
+- Longmont Housing Authority Board of Commissioners Meeting - 10/13/2026 11:30:00 PM
+- Longmont Housing Authority Board of Commissioners
+- REVIEW AND APPROVAL OF AUGUST 18, 2026 MINUTES
+- Resolution LHA-2026-17 – Adopt 2026 Housing Choice Voucher Program Administrative Plan
+- 5b1 Memo HCV Plan
+- 5b2 - Resolution LHA-2026-17 - Approving Housing Choice Voucher Admin Plan FINAL
+- 5b3 - Summary of Proposed HCV Administrative Plan Changes
+- Approve and Adopt 2026 Property and Agency Budgets
+- Budget Presentation
+- 5ci1 - 2027 LHA Budget Presentation
+- 5ci2 - 2027 LHA Detailed Budget - Other
+- 5ci3 - 2027 LHA Property Budgets Detailed
+- Resolution LHA-2026-18 – Approve 2026 Payment Standards for Housing Choice Voucher Program
+- 5cii - Resolution LHA-2026-18 - Approving Adoption of Revised 2027 Payment Standards for Voucher Program FINAL
+- Countywide Affordable-Attainable Housing Tax 2-Year Review Discussion
+- 5d2 - Affordable Housing Grant Program Terms (5.28.2025)
+- Development Updates
 
 ## [longmont#61] 2026-10-14 | Callahan House Advisory Board Meeting | agenda
 - Callahan House, 312 Terry Street, Longmont, CO 80501
@@ -650,7 +932,47 @@
 - Discuss Future Water Board Agenda(s)
 
 ## [longmont#68] 2026-10-20 | City Council Regular Session | agenda
-- The requested meeting document is no longer available. Please return to the
+- participation, may restrict cumulative or redundant presentations, and may
+- require that each speaker’s comments pertain to the subject under discussion
+- Persons wishing to speak on a specific Second Reading or Public Hearing
+- APPROVAL OF MINUTES
+- SPECIAL REPORTS AND PRESENTATIONS
+- The Second Reading and Public Hearing for all ordinances introduced on this consent
+- , A Bill For An Ordinance Conditionally Approving The Vacation Of
+- Public Utility Easements Generally Located At 11 South Main Street
+- , A Bill For An Ordinance Conditionally Approving The Longmont
+- 287 And Park Ridge Avenue Within The Southwest Quarter Of Section 22,
+- Township 3 North, Range 68 West) Comprehensive Land Use Plan Amendment
+- Gateway Northwest Annexation And Concept Plan (Generally Located At The
+- Northwest Corner Of U.S. Highway 287 And Park Ridge Avenue Within The
+- Southwest Quarter Of Section 22, Township 3 North, Range 68 West), And Zoning
+- , A Resolution Of The Longmont City Council Approving The Longmont
+- Tourism Improvement District’s 2027 Operating Plan And Budget
+- , A Resolution Of The Longmont City Council Conditionally Approving
+- The Harvest Moon Business Improvement District’s 2027 Operating Plan And
+- Draft Budget
+- The LFM Business Improvement District’s 2027 Operating Plan And Draft Budget
+- , A Resolution Of The Longmont City Council Approving The
+- Amendment To The 2026 Intergovernmental Agreement Between The City And
+- The Longmont Downtown Development Authority For Support And Services
+- Approve Re-Appointment Of Longmont Tourism Improvement District (LTID)
+- Approve One Capital Improvement Program Amendment
+- Accept seven Capital Improvement Program Amendments approved by the City
+- ORDINANCES ON SECOND READING AND PUBLIC HEARINGS ON ANY MATTER
+- , A Bill For An Ordinance Fixing And Levying Taxes Upon The Real And
+- Budgeted City Expenses For The 2027 Fiscal Year
+- Personal Property Within The Longmont Downtown Development District For The
+- Year 2026 To Pay Budgeted Expenses Of The Longmont Downtown Development
+- , A Bill For An Ordinance Making Additional Appropriations For
+- 8513 St. Vrain Road Annexation
+- , A Resolution Finding A Parcel Of Land Known As The 8513 St. Vrain
+- Road Annexation (Generally Located East Of Airport Road And North Of 9th
+- West) Eligible For Annexation
+- , A Bill For An Ordinance Conditionally Approving The 8513 St. Vrain
+- Road Annexation And Concept Plan (Generally Located East Of Airport Road And
+- North, Range 69 West), And Zoning The Property Residential Mixed
+- , A Bill For An Ordinance Approving A Development Agreement With
+- Main Street Tebo, LLC To Coordinate Construction Of The 1st And Main Transit
 
 ## [longmont#69] 2026-10-21 | IN PERSON Sustainability Advisory Board | agenda
 - Study Session Room (Civic Center, 350 Kimbark Street, Longmont, CO 80501)
@@ -659,7 +981,51 @@
 - 2027 Sustainability Tax Process – Francie KirkJaffe, City of Longmont
 
 ## [longmont#70] 2026-10-21 | Planning and Zoning Commission (livestreamed) | agenda
-- The requested meeting document is no longer available. Please return to the
+- Planning and Zoning Commission
+- City Council Chambers, 350 Kimbark Street
+- Public Comment
+- Approval of the Minutes
+- Public Hearings
+- The following are public hearing items:
+- Citizen Initiated Request- Update to Table 15.04.020 in the Land Development
+- Code to allow Contractor's Shops as a Permitted (P) use in the MU-E zone district
+- Project Name: Citizen Initiated Request- Update to Table 15.04.020
+- in the Land Development Code to allow Contractor's
+- Shops as a Permitted (P) use in the MU-E zone
+- Project Summary
+- This project originated from a citizen-initiated request to amend the Land Development Code
+- (LDC) to allow Contractor’s Shops within the Mixed Use-Employment (MU-E) and
+- Nonresidential-Primary Employment (N-PE) zoning districts. Per LDC procedures, the request
+- was referred to the City Council for consideration. During the Regular Session on February
+- and compatibility concerns associated with expanding where Contractor’s Shops may operate
+- This analysis is ongoing and is intended to help determine whether the requested use
+- This item is being presented to the Planning and Zoning Commission for review, comment and
+- Staff recommends the Planning and Zoning Commission recommend
+- approval with conditions of the Citizen Initiated Land Development
+- Code Text Amendment to allow Contractor’s Shops as a Permitted (P)
+- Approve The application is forwarded to City Council for review
+- Approve with
+- The application is forwarded to City Council for review
+- Deny The application is forwarded to City Council for review
+- The hearing will be continued to November 18, 2026. If applicable,
+- needed for consideration
+- Move to recommend approval of the Citizen Initiated Land Development
+- Approval with
+- Move to recommend approval with conditions of the Citizen Initiated
+- Land Development Code Text Amendment to allow Contractor’s Shops
+- as a Permitted (P) use in the MU-E zone district and a Conditional
+- specified in Section 9 of the Planning and Zoning Commission
+- and Zoning Commission. Condition 1. That the applicant…
+- Move to recommend denial of the Citizen Initiated Land Development
+- application does not comply with the review criteria and standards of the
+- Land Development Code as follows. The commission finds that the
+- application fails to meet… (The commission should state which review
+- criteria have not been met and any development standards not met and
+- record of the public hearing.)
+- Move to continue the hearing to November 18, 2026
+- I. Project Contacts
+- II. Project Description
+- The applicant has requested amendments to Section 15.04.020, Table of Allowed Uses, to
 
 ## [longmont#71] 2026-10-21 | City Council Joint Meeting with the Board of Education | agenda
 - TOPICS TO BE DISCUSSED

@@ -1,4 +1,287 @@
 {
+ "aurora/0": {
+  "id": "aurora/0",
+  "title": "Data center moratorium and new data center rules",
+  "summary": "Council adopted a moratorium on development applications that include a data center, directed staff to write data center regulations, and worked through development standards and a zoning use table change for data centers, ending in a public hearing in October.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=fb1GAcRD"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_1881137/File/City%20Hall/Mayor%20&%20City%20Council/Council%20Meetings/Agendas/AuroraCouncilAgenda.pdf"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=jj1GATfD"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=ExJGAars"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/1": {
+  "id": "aurora/1",
+  "title": "Water rules on evaporative cooling, turf and water features",
+  "summary": "Council passed Aurora Water ordinances on evaporative cooling and limits on new turf and ornamental water features, and set 2027 water rates and fees.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=f71GAcZD"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=OptGAYNl"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=jj1GATfD"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/2": {
+  "id": "aurora/2",
+  "title": "2027 budget deliberations",
+  "summary": "Council spent a day going department by department through the 2027 budget, service fees, pay tables and improvement district budgets.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=f71GAcZD"
+   },
+   {
+    "date": "2026-10-03",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=p69GAR5R"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/3": {
+  "id": "aurora/3",
+  "title": "Homeless services funding and the Regional Navigation Campus",
+  "summary": "Council funded outdoor renovations at the Aurora Regional Navigation Campus and reviewed a slate of homeless services grant recommendations for emergency shelter, rapid rehousing and rental help.",
+  "where": "Aurora Regional Navigation Campus",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=f71GAcZD"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=DxJGAbbs"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/4": {
+  "id": "aurora/4",
+  "title": "Nine Mile Station redevelopment",
+  "summary": "The Aurora Urban Renewal Authority amended the Point Crossing agreement and approved a redevelopment agreement for the Tempo at Nine Mile Station apartments.",
+  "where": "Nine Mile Station",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_1881137/File/City%20Hall/Mayor%20&%20City%20Council/Council%20Meetings/Agendas/AuroraCouncilAgenda.pdf"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/5": {
+  "id": "aurora/5",
+  "title": "Affordable housing ground lease with Mercy Housing",
+  "summary": "Council approved a ground lease with Mercy Housing for an affordable housing project and assigned the city's private activity bonds to the Aurora Housing Authority.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=OptGAYNl"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=jj1GATfD"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/6": {
+  "id": "aurora/6",
+  "title": "Socioeconomic sales and services impact permit",
+  "summary": "Council introduced an ordinance requiring an impact permit for certain sales and services businesses.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=kj1GASvD"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=DxJGAbbs"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/7": {
+  "id": "aurora/7",
+  "title": "Support for Proposition 308",
+  "summary": "Council took up a resolution supporting state ballot Proposition 308.",
+  "where": "Statewide ballot",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=kj1GASvD"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=DxJGAbbs"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/8": {
+  "id": "aurora/8",
+  "title": "Oil and gas lease and advisory board",
+  "summary": "Council considered an oil and gas lease and filled seats on the Oil and Gas Advisory Committee.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_1881137/File/City%20Hall/Mayor%20&%20City%20Council/Council%20Meetings/Agendas/AuroraCouncilAgenda.pdf"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=kj1GASvD"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=DxJGAbbs"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/9": {
+  "id": "aurora/9",
+  "title": "Police and fire union contracts",
+  "summary": "Council approved 2027-2028 collective bargaining agreements with the firefighters' and police unions.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=kj1GASvD"
+   }
+  ],
+  "government": "Aurora"
+ },
+ "aurora/10": {
+  "id": "aurora/10",
+  "title": "Regis Jesuit High comprehensive plan change",
+  "summary": "Council held a public hearing on changing the comprehensive plan map for land near Regis Jesuit High north of East Arapahoe Road.",
+  "where": "E Arapahoe Rd & S Olathe St",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=kj1GASvD"
+   }
+  ],
+  "government": "Aurora"
+ },
  "boulder/0": {
   "id": "boulder/0",
   "title": "November ballot measures",
@@ -386,6 +669,623 @@
    }
   ],
   "government": "Boulder"
+ },
+ "broomfield/0": {
+  "id": "broomfield/0",
+  "title": "Comprehensive plan and transportation mobility plan update",
+  "summary": "Staff briefed a city board on updating Broomfield's comprehensive plan and its transportation mobility plan, with housing affordability a central focus.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-06",
+    "body": "Aug 6, 2026 \u2014\u2009Posted Aug 6, 2026 4:48 PM",
+    "kind": "minutes",
+    "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_08062026-1925"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/1": {
+  "id": "broomfield/1",
+  "title": "Chipotle at Palisade Park",
+  "summary": "The Land Use Review Commission approved the plat and site plan for a Chipotle at Palisade Park after a hearing that also touched on new parking ratios.",
+  "where": "Palisade Park Filing No. 1, Lot 1",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-27",
+    "body": "Jul 27, 2026 \u2014\u2009Amended Sep 15, 2026 9:40 AM",
+    "kind": "minutes",
+    "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_07272026-1921"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/2": {
+  "id": "broomfield/2",
+  "title": "Backyard setback variances in Red Leaf and Northmoor Estates",
+  "summary": "The Neighborhood Board of Adjustment approved homeowners' requests to shrink rear yard setbacks in Red Leaf and Northmoor Estates.",
+  "where": "Red Leaf, Northmoor Estates",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Aug 19, 2026 \u2014\u2009Amended Sep 21, 2026 10:25 AM",
+    "kind": "minutes",
+    "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_08192026-1929"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/3": {
+  "id": "broomfield/3",
+  "title": "Library strategic plan and flat 2027 budget",
+  "summary": "The library board reviewed its strategic plan and AI civics work and heard the 2027 library budget will be flat, raising worries about long-term erosion.",
+  "where": "Mamie Doud Eisenhower Public Library",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-03",
+    "body": "Sep 3, 2026 \u2014\u2009Posted Aug 31, 2026 12:13 PM",
+    "kind": "minutes",
+    "url": "https://broomfield.org/AgendaCenter/ViewFile/Minutes/_09032026-1935"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "broomfield/4": {
+  "id": "broomfield/4",
+  "title": "Employee health plan rates for 2027",
+  "summary": "Trustees of the city's medical care expense plan set 2027 benefits, rates and stop-loss coverage.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Oct 20, 2026 \u2014\u2009Posted Oct 14, 2026 8:09 AM",
+    "kind": "agenda",
+    "url": "https://broomfield.org/AgendaCenter/ViewFile/Agenda/_10202026-1950"
+   }
+  ],
+  "government": "Broomfield"
+ },
+ "commerce-city/0": {
+  "id": "commerce-city/0",
+  "title": "Data center moratorium and study session",
+  "summary": "A council member asked for an ordinance placing a moratorium on data centers and council moved to schedule a study session, while the environmental policy commission researched data centers and drafted a recommendation for council.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "Environmental Policy and Innovation Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5050&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "Environmental Policy and Innovation Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5006&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "Environmental Policy and Innovation Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4974&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Parks, Recreation, and Golf Commission",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4771&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4647&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/1": {
+  "id": "commerce-city/1",
+  "title": "Citywide legislative rezoning under the new land development code",
+  "summary": "Council and the planning commission reviewed the legislative rezoning project that applies the 2025 land development code to the zoning map, then held a joint study session on Tier 2 code amendments to land uses and approval criteria.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4713&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5018&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4651&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4712&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4649&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4977&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4711&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/2": {
+  "id": "commerce-city/2",
+  "title": "Shamrock Foods heavy industrial rezoning at 52nd and Ivy",
+  "summary": "Shamrock Foods asked to rezone its plant at 5199 Ivy Street from medium to heavy industrial and for a conditional use permit for food oil storage; the planning commission heard it and council's final hearing is set for November 16.",
+  "where": "5199 Ivy St, E 52nd Ave and Ivy St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4655&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4711&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/3": {
+  "id": "commerce-city/3",
+  "title": "Reunion Filing 39 subdivision near Chambers Road",
+  "summary": "Oakwood Homes sought approval of an 84-lot final plat in the Reunion development near Chambers Road and Heartland Drive, drawing written public comment that the applicant responded to.",
+  "where": "Reunion, Chambers Rd and Heartland Dr",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4656&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4712&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/4": {
+  "id": "commerce-city/4",
+  "title": "Hogan property PUD amendment",
+  "summary": "Council adopted a PUD amendment expanding the boundary and consolidating standards for 16.82 acres of the Hogan property near E 101st Way after a public hearing with written comment.",
+  "where": "15955 E 101st Way",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4651&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/5": {
+  "id": "commerce-city/5",
+  "title": "Annexations including Moreno Salas, Third Creek East and South Platte Crossing",
+  "summary": "Council moved several annexations forward, including Moreno Salas at E 81st and Quebec, Third Creek East and South Platte Crossing Phase 2, and discussed annexing surrounded unincorporated enclaves.",
+  "where": "E 81st Ave and Quebec St, Tower Rd, South Platte",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4656&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4653&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4651&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4646&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/6": {
+  "id": "commerce-city/6",
+  "title": "2027 city budget and improvement district budgets",
+  "summary": "Council held preliminary budget sessions and a workshop and adopted the 2027 budget and tax levy, along with budgets and mill levies for the E-470 and Northern Infrastructure improvement districts and the urban renewal authority.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4656&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "E-470 Commercial Area General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5027&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "E-470 Residential Area General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5028&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Northern Infrastructure General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5029&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5030&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "Northern Infrastructure General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5007&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4652&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4648&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4949&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "E-470 Commercial Area General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4951&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "E-470 Residential Area General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4952&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Northern Infrastructure General Improvement District",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4953&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/7": {
+  "id": "commerce-city/7",
+  "title": "Chambers Road widening",
+  "summary": "Council awarded construction for Chambers Road improvements near Heartland Drive and heard a project update on the Chambers Road widening.",
+  "where": "Chambers Rd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4657&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4647&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4646&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/8": {
+  "id": "commerce-city/8",
+  "title": "Oil and gas development north of the city",
+  "summary": "Council members were invited to community open houses on the Cord oil and gas development plan and a Chevron proposal for wells north of the city.",
+  "where": "Northern Commerce City",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Parks, Recreation, and Golf Commission",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4771&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Notice of Potential Quorum",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4941&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/9": {
+  "id": "commerce-city/9",
+  "title": "Recreation and golf fee increases for 2027",
+  "summary": "The parks commission supported proposed 2027 recreation and golf fee increases, which then went to council along with a fall review of the city's fees and charges.",
+  "where": "Recreation centers, Buffalo Run golf course",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4655&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4652&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Parks, Recreation, and Golf Commission",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4771&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/10": {
+  "id": "commerce-city/10",
+  "title": "Municipal noise ordinance",
+  "summary": "Council discussed options and staff recommendations for updating the city's noise ordinance.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4653&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/11": {
+  "id": "commerce-city/11",
+  "title": "Municipal court jury trials and code enforcement changes",
+  "summary": "Court staff presented code changes on jury trials and compliance and enforcement, which council then took up as ordinances.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4656&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4653&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4647&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/12": {
+  "id": "commerce-city/12",
+  "title": "Housing authority and affordable housing projects",
+  "summary": "Council discussed the Commerce City Housing Authority and its list of current and completed affordable housing projects.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4657&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/13": {
+  "id": "commerce-city/13",
+  "title": "Public art for 96th Avenue, Second Creek Farm Park and police substation",
+  "summary": "The arts commission chose artwork for 96th Avenue, Second Creek Farm Park and the golf course and discussed art for the police substation.",
+  "where": "96th Ave, Second Creek Farm Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Arts & Culture Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5037&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Arts & Culture Commission",
+    "kind": "agenda",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5005&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Arts & Culture Commission",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4967&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/14": {
+  "id": "commerce-city/14",
+  "title": "Trails and the Prairieways Action Plan",
+  "summary": "The parks commission reviewed the city's trail system, future trails under the Prairieways Action Plan and how new development pays impact fees and dedicates parkland.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Parks, Recreation, and Golf Commission",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4771&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
+ },
+ "commerce-city/15": {
+  "id": "commerce-city/15",
+  "title": "Police mobile command unit purchase",
+  "summary": "Council approved budget changes to buy a mobile command unit for the police department from the fire district.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4651&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "Citizens Public Safety Advisory Board",
+    "kind": "minutes",
+    "url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=4674&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+   }
+  ],
+  "government": "Commerce City"
  },
  "denver/0": {
   "id": "denver/0",
@@ -1593,6 +2493,314 @@
   ],
   "government": "Erie"
  },
+ "firestone/0": {
+  "id": "firestone/0",
+  "title": "Comprehensive plan update",
+  "summary": "The Planning and Zoning Commission held a public hearing on approving an update to Firestone's comprehensive plan.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "Planning & Zoning Commission",
+    "kind": "agenda",
+    "url": "https://firestoneco.portal.civicclerk.com/event/1314/files"
+   }
+  ],
+  "government": "Firestone"
+ },
+ "firestone/1": {
+  "id": "firestone/1",
+  "title": "Barefoot Lakes Filing 5 subdivision changes",
+  "summary": "The planning commission recommended an amended preliminary plat for Barefoot Lakes Filing 5, with a neighbor raising concerns about views and buffering.",
+  "where": "Barefoot Lakes",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "Planning & Zoning Commission",
+    "kind": "agenda",
+    "url": "https://firestoneco.portal.civicclerk.com/event/1314/files"
+   }
+  ],
+  "government": "Firestone"
+ },
+ "firestone/2": {
+  "id": "firestone/2",
+  "title": "Parks and trails projects and 2027 budget requests",
+  "summary": "The parks commission ranked trail fixes and new connections, including links toward St. Vrain State Park, rotted bridge boards south of Gateway Park and possible pickleball courts, as budget recommendations.",
+  "where": "Gateway Park, Legacy trail",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Parks, Trails, Recreation and Open Space Commission",
+    "kind": "agenda",
+    "url": "https://firestoneco.portal.civicclerk.com/event/1417/files"
+   }
+  ],
+  "government": "Firestone"
+ },
+ "firestone/3": {
+  "id": "firestone/3",
+  "title": "Town hall summer hours pilot",
+  "summary": "Trustees discussed a pilot program for summer office hours.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://firestoneco.portal.civicclerk.com/event/1346/files"
+   }
+  ],
+  "government": "Firestone"
+ },
+ "frederick/0": {
+  "id": "frederick/0",
+  "title": "Roads and Routes transportation sales tax ballot measure",
+  "summary": "Trustees put a 1% transportation sales tax and related debt question on the November ballot to fund the Roads and Routes program, and discussed it at several meetings.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/778/files"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/736/files"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/777/files"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/735/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/1": {
+  "id": "frederick/1",
+  "title": "Land use code amendments and retail marijuana ban",
+  "summary": "The planning commission and trustees worked through land use code amendments, including a ban on retail marijuana businesses.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/737/files"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/907/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/2": {
+  "id": "frederick/2",
+  "title": "Water resources and the Firestone water case",
+  "summary": "Trustees discussed water supply issues, including opposing Firestone's water court case and treating a reservoir for phosphorus.",
+  "where": "Town reservoirs",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/737/files"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/735/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/3": {
+  "id": "frederick/3",
+  "title": "Public Works and Parks campus",
+  "summary": "Trustees discussed plans for a new combined Public Works and Parks campus.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/735/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/4": {
+  "id": "frederick/4",
+  "title": "Historic preservation plan",
+  "summary": "The town took up a historic preservation plan for its older buildings and downtown.",
+  "where": "Historic downtown",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Historic Preservation Committee",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/889/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/5": {
+  "id": "frederick/5",
+  "title": "Public art murals and carvings",
+  "summary": "The arts commission reviewed new murals and carvings for public spaces.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Frederick Arts Committee",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/804/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Frederick Arts Committee",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/803/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/6": {
+  "id": "frederick/6",
+  "title": "Youth commission work on mental health and bullying",
+  "summary": "The youth commission focused on student mental health and bullying prevention.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-10",
+    "body": "Youth Commission",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/861/files"
+   },
+   {
+    "date": "2026-08-08",
+    "body": "Youth Commission",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/859/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/7": {
+  "id": "frederick/7",
+  "title": "Parks, open space and trails design standards",
+  "summary": "The town reviewed new design standards for parks, open space and trails.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-20",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/917/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/8": {
+  "id": "frederick/8",
+  "title": "Wheatlands plat expiration and KO Industrial land",
+  "summary": "Trustees dealt with the expiration of the Wheatlands plat and a land conveyance for the KO Industrial site.",
+  "where": "Wheatlands, KO Industrial",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-02",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/777/files"
+   }
+  ],
+  "government": "Frederick"
+ },
+ "frederick/9": {
+  "id": "frederick/9",
+  "title": "2027 budget",
+  "summary": "The 2027 town budget was introduced to trustees.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://frederickco.portal.civicclerk.com/event/735/files"
+   }
+  ],
+  "government": "Frederick"
+ },
  "glendale/0": {
   "id": "glendale/0",
   "title": "Xcel franchise ballot question",
@@ -1706,16 +2914,458 @@
   ],
   "government": "Glendale"
  },
- "longmont/0": {
-  "id": "longmont/0",
-  "title": "Vance Brand Airport noise and future",
-  "summary": "The city held a town hall on what it can and cannot legally do about airport noise, and council held a vision session on the airport's future, governance and rebuilding trust with neighbors.",
-  "where": "Vance Brand Municipal Airport, 229 Airport Rd",
+ "lafayette/0": {
+  "id": "lafayette/0",
+  "title": "New Land Use Code and citywide rezoning",
+  "summary": "Council passed the new Land Use Code and zoning map on first reading in August after a public hearing, then adopted it on second reading in September with amendments, after heavy testimony about housing diversity, parking, wildlife corridors and how the code follows the comprehensive plan.",
+  "where": "Citywide",
   "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8109"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8060"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8045"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8083"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/1": {
+  "id": "lafayette/1",
+  "title": "Old Town OTX-3 zoning and building heights on Public Road",
+  "summary": "Residents objected to the new OTX-3 zone allowing larger, taller buildings along Public Road south of Emma Street; a joint council and planning commission workshop agreed to shrink the maximum building footprint from 25,000 to 10,000 square feet and revisit height in a second ordinance.",
+  "where": "Public Road south of Emma St, Old Town",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8122"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8163"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8103"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8060"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/2": {
+  "id": "lafayette/2",
+  "title": "Data center and advanced air mobility moratoriums",
+  "summary": "After council asked how the new code regulates data centers, it adopted an 18-month moratorium on land use applications and building permits for data centers in October, alongside an emergency 18-month moratorium on advanced air mobility facilities.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8165"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8122"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8109"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8083"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/3": {
+  "id": "lafayette/3",
+  "title": "Flock license plate reader cameras",
+  "summary": "Many residents urged council to end the Flock Safety license plate camera contract, and council weighed two versions of the 2027 budget, one with no Flock funding, and discussed a formal policy for automatic license plate readers.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8165"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8122"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8163"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8161"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8159"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/4": {
+  "id": "lafayette/4",
+  "title": "Naming the 701 S. Public Road pocket park for Rosebelle Lueras",
+  "summary": "Residents spoke at meeting after meeting asking that the new pocket park at 701 S. Public Road be named for Rosebelle Lueras, and council took up the naming in October.",
+  "where": "701 S. Public Road",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8165"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8163"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8161"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8159"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8082"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/5": {
+  "id": "lafayette/5",
+  "title": "Zoning for churches along Highway 287",
+  "summary": "Church members raised concerns about how the new code zones churches, and council directed that the church parcels at Highway 287 and South Boulder Road be zoned like Immaculate Conception.",
+  "where": "Highway 287 and South Boulder Rd",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8163"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8082"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/6": {
+  "id": "lafayette/6",
+  "title": "Boulder Ranch development off Baseline and Burlington",
+  "summary": "Residents wrote in opposing the proposed high-density Boulder Ranch development on 78 acres near Baseline Road and Burlington, citing traffic, open space and the buffer agreement with Boulder, with over 2,000 petition signatures.",
+  "where": "Baseline Rd and Burlington Ave",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8109"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8087"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/7": {
+  "id": "lafayette/7",
+  "title": "LaMont Does Park and water park tax extension",
+  "summary": "Council put the extension of an expiring property tax for LaMont Does Park and the Great Outdoors Water Park on the November ballot, with residents speaking for and against.",
+  "where": "LaMont Does Park",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8113"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8045"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/8": {
+  "id": "lafayette/8",
+  "title": "2027 budget, fees and pay plan",
+  "summary": "Staff introduced a $128 million 2027 recommended budget, and council held a public hearing, adopted the budget and mill levy, amended fees and adopted the pay plan.",
+  "where": "Citywide",
+  "public_comment": false,
   "tags": [],
   "site_zip": null,
   "meetings": 3,
   "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8165"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8122"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8079"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/9": {
+  "id": "lafayette/9",
+  "title": "Capital bond projects and general obligation bonds",
+  "summary": "Council authorized general obligation bonds for the voter-approved recreation center, service center and civic center projects and toured capital projects including the water treatment plant and West Baseline Road safety improvements.",
+  "where": "Bob L. Burger Recreation Center, Service Center, West Baseline Rd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8122"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8113"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8109"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8087"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/10": {
+  "id": "lafayette/10",
+  "title": "Douglass Elementary School closure concerns",
+  "summary": "Council directed staff to draft a letter asking the Boulder Valley School District to reconsider its process on Douglass Elementary's future after Lafayette families said they had no voice.",
+  "where": "Douglass Elementary",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8122"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8163"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/11": {
+  "id": "lafayette/11",
+  "title": "Human Rights Board renamed and rescoped",
+  "summary": "Council adopted an ordinance changing the name, scope and duties of the Human Rights Board.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8060"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8045"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8083"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/12": {
+  "id": "lafayette/12",
+  "title": "Expedited review for affordable housing",
+  "summary": "Council considered a resolution supporting an expedited review policy for affordable housing projects.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8165"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "lafayette/13": {
+  "id": "lafayette/13",
+  "title": "Street racing on South Public Road",
+  "summary": "An Avalon Flatirons resident complained about street racers gathering in a church parking lot off South Public Road.",
+  "where": "S. Public Road",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://www.lafayetteco.gov/Archive.aspx?ADID=8060"
+   }
+  ],
+  "government": "Lafayette"
+ },
+ "longmont/0": {
+  "id": "longmont/0",
+  "title": "Vance Brand Airport noise and future",
+  "summary": "The city held a town hall on what it can legally do about airport noise, council heard a baseline report on voluntary noise abatement and options for airport noise monitoring, and held a vision session on the airport's future, governance and rebuilding trust with neighbors.",
+  "where": "Vance Brand Municipal Airport, 229 Airport Rd",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16826"
+   },
    {
     "date": "2026-09-26",
     "body": "City Council Airport Vision Session",
@@ -1723,10 +3373,22 @@
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17051"
    },
    {
+    "date": "2026-09-08",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16805"
+   },
+   {
     "date": "2026-08-19",
     "body": "REMOTE Sustainability Advisory Board",
     "kind": "minutes",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15835"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16358"
    },
    {
     "date": "2026-07-27",
@@ -1739,19 +3401,105 @@
  },
  "longmont/1": {
   "id": "longmont/1",
-  "title": "First and Main urban renewal and downtown tax increment deals",
-  "summary": "The urban renewal authority approved tax increment revenue agreements with the city, Boulder County, Northern Water, St. Vrain Valley Schools and the Downtown Development Authority for the 1st and Main redevelopment area, which also came up at a joint meeting with county commissioners.",
-  "where": "1st Avenue and Main Street",
+  "title": "Public safety tax increase on the November ballot",
+  "summary": "Council chose between several versions of a sales and property tax increase to hire more police officers, dispatchers and firefighters, referred it to the November 3 ballot and urged voters to approve it.",
+  "where": "Citywide",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
   "meetings": 3,
   "sources": [
    {
+    "date": "2026-09-01",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17191"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16373"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16368"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/2": {
+  "id": "longmont/2",
+  "title": "Charter amendments on ranked choice voting and open space sales",
+  "summary": "Council referred charter amendments to the November ballot to adopt ranked choice voting, change how council members are elected, and require voter approval to sell or convey open space.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17191"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16373"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16368"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16358"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/3": {
+  "id": "longmont/3",
+  "title": "1st and Main urban renewal, transit center and parking garage",
+  "summary": "Council approved the 1st and Main urban renewal plan and parking garage financing, a development agreement for the 1st and Main transit center and transit-oriented project, and the urban renewal authority signed tax increment agreements with the county, Northern Water, the school district and the DDA.",
+  "where": "1st Avenue and Main Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 8,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16842"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16837"
+   },
+   {
     "date": "2026-09-21",
     "body": "City Council Joint Meeting with Boulder County Commissioners",
     "kind": "agenda",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17247"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Water Board",
+    "kind": "minutes",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17306"
    },
    {
     "date": "2026-09-15",
@@ -1760,18 +3508,116 @@
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16783"
    },
    {
+    "date": "2026-09-08",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16805"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16373"
+   },
+   {
     "date": "2026-08-18",
     "body": "Special Meeting",
     "kind": "agenda",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16990"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16368"
    }
   ],
   "government": "Longmont"
  },
- "longmont/2": {
-  "id": "longmont/2",
+ "longmont/4": {
+  "id": "longmont/4",
+  "title": "2027 budget and 2027-2031 capital program",
+  "summary": "Staff presented the 2027 proposed budget and five-year capital improvement program, and council held two public hearings before giving final direction and setting the property tax levy.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16837"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16826"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council Study Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16816"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17191"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/5": {
+  "id": "longmont/5",
+  "title": "Dry Creek, 8513 St. Vrain Road and Gateway Northwest annexations",
+  "summary": "Council moved forward annexations and residential zoning for Dry Creek along Airport Road and Clover Basin Drive and 8513 St. Vrain Road, and the Longmont Gateway Northwest annexation at U.S. 287 and Park Ridge Avenue.",
+  "where": "Airport Rd and Clover Basin Dr, 8513 St. Vrain Rd, US 287 and Park Ridge Ave",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16842"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16837"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16821"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16805"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16373"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/6": {
+  "id": "longmont/6",
   "title": "Trash, compost and sanitation rates",
-  "summary": "Council discussed lining up waste and compost rates with city policy goals and asked the Sustainability Advisory Board for feedback on the sanitation rate structure.",
+  "summary": "Council discussed lining up waste rates with city policy goals and a possible subsidy for composting, and asked the Sustainability Advisory Board for feedback on the sanitation rate structure.",
   "where": "Citywide",
   "public_comment": false,
   "tags": [],
@@ -1792,6 +3638,12 @@
    },
    {
     "date": "2026-08-11",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16368"
+   },
+   {
+    "date": "2026-08-11",
     "body": "City Council Pre-Session",
     "kind": "agenda",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16721"
@@ -1799,8 +3651,8 @@
   ],
   "government": "Longmont"
  },
- "longmont/3": {
-  "id": "longmont/3",
+ "longmont/7": {
+  "id": "longmont/7",
   "title": "Water supply, drought and Ralph Price Reservoir",
   "summary": "The Water Board weighed a one-year water exchange with the St. Vrain and Left Hand Water Conservancy District, whose supply could run out by 2028 in continued drought, reviewed how Ralph Price Reservoir is managed, and heard about the Dry Creek Fire near Button Rock.",
   "where": "Button Rock Preserve / Ralph Price Reservoir",
@@ -1830,21 +3682,33 @@
   ],
   "government": "Longmont"
  },
- "longmont/4": {
-  "id": "longmont/4",
-  "title": "Affordable housing and the inclusionary housing fee",
-  "summary": "The housing board reviewed the inclusionary housing ordinance, which requires 12% affordable units or a fee instead, as part of a housing needs update, and housing funding and demand for for-sale homes came up with county commissioners and the school board.",
+ "longmont/8": {
+  "id": "longmont/8",
+  "title": "Affordable housing, inclusionary fee and expedited review",
+  "summary": "Council set an expedited review process for affordable housing and adjusted the 2027 inclusionary housing fee-in-lieu, the housing board reviewed the 12% inclusionary requirement, and the housing authority reviewed the countywide affordable housing tax after two years.",
   "where": "Citywide",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
-  "meetings": 3,
+  "meetings": 5,
   "sources": [
    {
     "date": "2026-10-21",
     "body": "City Council Joint Meeting with the Board of Education",
     "kind": "agenda",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17084"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Longmont Housing Authority Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17389"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Longmont Housing Authority Board of Commissioners Meeting",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17394"
    },
    {
     "date": "2026-09-21",
@@ -1857,12 +3721,18 @@
     "body": "Housing and Human Service Advisory Board",
     "kind": "agenda",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17065"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16358"
    }
   ],
   "government": "Longmont"
  },
- "longmont/5": {
-  "id": "longmont/5",
+ "longmont/9": {
+  "id": "longmont/9",
   "title": "Human services funding hearings",
   "summary": "The Housing and Human Service Advisory Board set a scoring threshold and held weekly hearings with nonprofits applying for city human services funding.",
   "where": "Citywide",
@@ -1928,10 +3798,10 @@
   ],
   "government": "Longmont"
  },
- "longmont/6": {
-  "id": "longmont/6",
+ "longmont/10": {
+  "id": "longmont/10",
   "title": "Show cause hearing for 333 Main Street liquor license",
-  "summary": "The licensing authority scheduled a show cause hearing on a bar at 333 Main Street over rowdiness, noise, disturbances and open container violations.",
+  "summary": "The licensing authority held a show cause hearing on a bar at 333 Main Street over rowdiness, noise, disturbances and open container violations.",
   "where": "333 Main St",
   "public_comment": false,
   "tags": [],
@@ -1953,15 +3823,15 @@
   ],
   "government": "Longmont"
  },
- "longmont/7": {
-  "id": "longmont/7",
+ "longmont/11": {
+  "id": "longmont/11",
   "title": "Platte River Power and clean energy goals",
-  "summary": "Platte River Power Authority told the Sustainability Advisory Board it cannot reach 100% noncarbon power by 2030 and is starting a new resource plan, and the board began work on the 2027 sustainability tax.",
+  "summary": "Platte River Power Authority told council and the Sustainability Advisory Board it cannot reach 100% noncarbon power by 2030 and is starting a new resource plan, and the board began work on the 2027 sustainability tax.",
   "where": "Citywide",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
-  "meetings": 2,
+  "meetings": 3,
   "sources": [
    {
     "date": "2026-10-21",
@@ -1974,12 +3844,18 @@
     "body": "REMOTE Sustainability Advisory Board",
     "kind": "minutes",
     "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15835"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16358"
    }
   ],
   "government": "Longmont"
  },
- "longmont/8": {
-  "id": "longmont/8",
+ "longmont/12": {
+  "id": "longmont/12",
   "title": "City flag redesign",
   "summary": "A selection panel and the Art in Public Places Commission worked through submissions for a new official Longmont flag.",
   "where": "Citywide",
@@ -2015,8 +3891,8 @@
   ],
   "government": "Longmont"
  },
- "longmont/9": {
-  "id": "longmont/9",
+ "longmont/13": {
+  "id": "longmont/13",
   "title": "Automated checkout workforce impact fee",
   "summary": "Council members discussed a possible fee on stores that replace cashiers with automated checkout.",
   "where": "Citywide",
@@ -2034,8 +3910,46 @@
   ],
   "government": "Longmont"
  },
- "longmont/10": {
-  "id": "longmont/10",
+ "longmont/14": {
+  "id": "longmont/14",
+  "title": "Copper Peak development at 2704 Main Street",
+  "summary": "Council considered a concept plan amendment for the Copper Peak development on part of the Wal-Mart retail center at 2704 Main Street.",
+  "where": "2704 Main St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council Regular Session",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=16837"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/15": {
+  "id": "longmont/15",
+  "title": "Contractor's shops in mixed-use employment zones",
+  "summary": "The planning commission took up a resident-initiated code change to allow contractor's shops in the MU-E zone district, with the hearing continued to November 18.",
+  "where": "MU-E zone districts",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "IN PERSON Sustainability Advisory Board",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=15844"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/16": {
+  "id": "longmont/16",
   "title": "New homes at 10930 Airport Road",
   "summary": "A neighborhood meeting covered a proposal for new single-family homes at 10930 Airport Road that would need a comprehensive plan amendment, rezoning and subdivision.",
   "where": "10930 Airport Rd",
@@ -2053,8 +3967,46 @@
   ],
   "government": "Longmont"
  },
- "longmont/11": {
-  "id": "longmont/11",
+ "longmont/17": {
+  "id": "longmont/17",
+  "title": "Avis car rental at 206 S. Main Street",
+  "summary": "A neighborhood meeting covered Avis's plan to open a rental office at 206 S. Main Street and store cars behind it, a conditional use next to a greenway that council must decide.",
+  "where": "206 S. Main St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-27",
+    "body": "VIRTUAL",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17162"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/18": {
+  "id": "longmont/18",
+  "title": "School safety, housing and growth with St. Vrain Valley Schools",
+  "summary": "At a joint meeting with the Board of Education, council discussed safe street crossings for students, shared housing efforts and how much say the city has over single-family versus apartment development.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "City Council Joint Meeting with the Board of Education",
+    "kind": "agenda",
+    "url": "https://longmont.primegov.com/Portal/Meeting?meetingTemplateId=17084"
+   }
+  ],
+  "government": "Longmont"
+ },
+ "longmont/19": {
+  "id": "longmont/19",
   "title": "Front Range Passenger Rail",
   "summary": "The urban renewal authority considered a letter of support for Front Range Passenger Rail.",
   "where": "Citywide",
@@ -2072,8 +4024,8 @@
   ],
   "government": "Longmont"
  },
- "longmont/12": {
-  "id": "longmont/12",
+ "longmont/20": {
+  "id": "longmont/20",
   "title": "Property tax burden",
   "summary": "At its legislative dinner, council raised the gap between the property taxes residents pay and what cities receive.",
   "where": "Citywide",
@@ -2820,6 +4772,1052 @@
   ],
   "government": "Louisville"
  },
+ "lyons/0": {
+  "id": "lyons/0",
+  "title": "Planet Bluegrass annexation on North St. Vrain Drive",
+  "summary": "Planet Bluegrass asked the town to annex and give PUD zoning to two parcels at 19617 and 19661 North St. Vrain Drive near Eagle Canyon, and the utilities, economic vitality, parks and trustee boards reviewed the referral ahead of a trustee hearing.",
+  "where": "19617 and 19661 N St. Vrain Dr",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 8,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Oct 12, 2026 \u2014\u2009Posted Oct 8, 2026 8:06 AM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_10122026-2855"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Oct 5, 2026 \u2014\u2009Amended Oct 3, 2026 4:25 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10052026-2851"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Sep 9, 2026 \u2014\u2009Posted Sep 4, 2026 8:01 AM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_09092026-2836"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Aug 19, 2026 \u2014\u2009Posted Aug 17, 2026 3:55 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08192026-2823"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Aug 13, 2026 \u2014\u2009Posted Aug 12, 2026 2:03 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08132026-2817"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Aug 12, 2026 \u2014\u2009Posted Aug 5, 2026 1:04 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08122026-2812"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Aug 5, 2026 \u2014\u2009Posted Aug 3, 2026 4:07 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08052026-2811"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Aug 3, 2026 \u2014\u2009Amended Aug 3, 2026 2:11 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08032026-2810"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/1": {
+  "id": "lyons/1",
+  "title": "2nd and 3rd Avenue stormwater and sidewalk projects",
+  "summary": "After a federal BRIC grant was denied, trustees weighed a $3.8 million loan or bond for the 2nd and 3rd Avenue stormwater and sidewalk work, learned a public vote is needed, and moved ahead with a Safe Routes to School sidewalk grant.",
+  "where": "2nd Ave and 3rd Ave",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Oct 19, 2026 \u2014\u2009Posted Oct 15, 2026 3:13 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10192026-2860"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Oct 19, 2026 \u2014\u2009Posted Oct 15, 2026 4:21 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10192026-2861"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Oct 7, 2026 \u2014\u2009Posted Oct 6, 2026 2:46 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10072026-2852"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Sep 16, 2026 \u2014\u2009Posted Sep 14, 2026 7:11 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09162026-2840"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Sep 8, 2026 \u2014\u2009Amended Sep 4, 2026 4:32 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09082026-2835"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Sep 2, 2026 \u2014\u2009Posted Aug 31, 2026 3:20 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09022026-2832"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Aug 18, 2026 \u2014\u2009Posted Aug 14, 2026 10:53 AM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08182026-2822"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Aug 17, 2026 \u2014\u2009Amended Aug 14, 2026 2:35 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08172026-2820"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Aug 17, 2026 \u2014\u2009Amended Aug 14, 2026 10:51 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08172026-2821"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/2": {
+  "id": "lyons/2",
+  "title": "Wildfire mitigation and new fire-resistant roof rules",
+  "summary": "Trustees discussed wildfire mitigation strategies and costs, held a town hall on fire risk, and set mid-roof inspection fees as the town moved to the state fire code requiring fire-resistant roofs after a hailstorm.",
+  "where": "Townwide, Bohn Park, Synchrony Trail",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 18, 2026 12:09 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2847"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Sep 3, 2026 \u2014\u2009Posted Aug 26, 2026 3:14 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09032026-2829"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Sep 1, 2026 \u2014\u2009Amended Aug 25, 2026 12:28 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_09012026-2827"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Aug 18, 2026 \u2014\u2009Posted Aug 14, 2026 10:53 AM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08182026-2822"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Aug 3, 2026 \u2014\u2009Amended Aug 3, 2026 2:11 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08032026-2810"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/3": {
+  "id": "lyons/3",
+  "title": "Electric rate increase and time-of-use rates",
+  "summary": "The utilities board worked out a roughly 9% electric rate increase for 2027 after transmission costs jumped, while local businesses raised concerns that the new time-of-use electricity rates were rolled out without consulting them.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Oct 21, 2026 \u2014\u2009Posted Oct 20, 2026 9:03 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10212026-2863"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Oct 7, 2026 \u2014\u2009Posted Oct 6, 2026 2:46 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10072026-2852"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Sep 16, 2026 \u2014\u2009Posted Sep 14, 2026 7:11 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09162026-2840"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Sep 2, 2026 \u2014\u2009Posted Aug 31, 2026 3:20 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09022026-2832"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Aug 12, 2026 \u2014\u2009Posted Aug 5, 2026 1:04 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08122026-2812"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Aug 5, 2026 \u2014\u2009Posted Aug 3, 2026 4:07 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08052026-2811"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/4": {
+  "id": "lyons/4",
+  "title": "Strategic growth and water supply element of the comprehensive plan",
+  "summary": "Boards and trustees reviewed a new strategic growth and water supply element required by state law SB24-174, which found the town has enough water for the 87 housing units the regional needs assessment suggests.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 8,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Oct 20, 2026 \u2014\u2009Posted Oct 19, 2026 8:21 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10202026-2862"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Oct 19, 2026 \u2014\u2009Posted Oct 15, 2026 3:13 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10192026-2860"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Oct 19, 2026 \u2014\u2009Posted Oct 15, 2026 4:21 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10192026-2861"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Sep 22, 2026 \u2014\u2009Posted Sep 17, 2026 1:47 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09222026-2845"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Sep 16, 2026 \u2014\u2009Posted Sep 14, 2026 7:11 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09162026-2840"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Sep 15, 2026 \u2014\u2009Posted Sep 14, 2026 4:33 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09152026-2841"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Sep 2, 2026 \u2014\u2009Posted Aug 31, 2026 3:20 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09022026-2832"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Aug 10, 2026 \u2014\u2009Amended Aug 7, 2026 1:13 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08102026-2813"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Aug 10, 2026 \u2014\u2009Amended Aug 7, 2026 11:23 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08102026-2814"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Jul 27, 2026 \u2014\u2009Posted Jul 23, 2026 12:45 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_07272026-2807"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/5": {
+  "id": "lyons/5",
+  "title": "Wastewater treatment plant upgrades",
+  "summary": "Trustees heard the 60% design update for wastewater treatment plant improvements, a separate $5.8 million need with a federal grant pending, and the utilities board reviewed proposed equipment changes awaiting state approval.",
+  "where": "Lyons wastewater treatment plant",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Oct 7, 2026 \u2014\u2009Posted Oct 6, 2026 2:46 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10072026-2852"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 21, 2026 10:43 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2846"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 18, 2026 12:09 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2847"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Sep 2, 2026 \u2014\u2009Posted Aug 31, 2026 3:20 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09022026-2832"
+   },
+   {
+    "date": "2026-08-31",
+    "body": "Aug 31, 2026 \u2014\u2009Posted Aug 30, 2026 10:40 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08312026-2831"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Aug 18, 2026 \u2014\u2009Posted Aug 14, 2026 10:53 AM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08182026-2822"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/6": {
+  "id": "lyons/6",
+  "title": "2027 budget and supplemental 2026 spending",
+  "summary": "Trustees held budget workshops on 2026 supplemental items and the 2027 budget and five-year capital plan, informed by a resident budget survey, with infrastructure as the top priority.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Oct 21, 2026 \u2014\u2009Posted Oct 20, 2026 9:03 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10212026-2863"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Oct 5, 2026 \u2014\u2009Amended Oct 3, 2026 4:25 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10052026-2851"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Sep 10, 2026 \u2014\u2009Posted Sep 9, 2026 3:25 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_09102026-2838"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Sep 8, 2026 \u2014\u2009Posted Sep 3, 2026 4:38 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09082026-2834"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Sep 8, 2026 \u2014\u2009Amended Sep 4, 2026 4:32 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09082026-2835"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Aug 3, 2026 \u2014\u2009Amended Aug 3, 2026 2:11 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08032026-2810"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/7": {
+  "id": "lyons/7",
+  "title": "Automatic license plate readers",
+  "summary": "Trustees discussed automatic license plate reader programs and a proposed Flock Safety agreement.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 18, 2026 12:09 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2847"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Sep 8, 2026 \u2014\u2009Amended Sep 4, 2026 4:32 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09082026-2835"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/8": {
+  "id": "lyons/8",
+  "title": "Special event and park use fee waivers",
+  "summary": "Trustees and the parks and economic vitality commissions worked on a policy for waiving special event and park use fees for local versus outside groups.",
+  "where": "Bohn Park, town parks",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "Sep 1, 2026 \u2014\u2009Amended Aug 25, 2026 12:28 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_09012026-2827"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Aug 17, 2026 \u2014\u2009Amended Aug 14, 2026 10:51 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08172026-2821"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Aug 12, 2026 \u2014\u2009Posted Aug 5, 2026 1:04 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08122026-2812"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/9": {
+  "id": "lyons/9",
+  "title": "Special event lodging for the Sundance Film Festival",
+  "summary": "A task force followed up on the new special event lodging ordinance letting RVs and temporary lodging serve festival visitors, and shifted its Sundance plans toward private events and curated outdoor experiences.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-09",
+    "body": "Oct 9, 2026 \u2014\u2009Amended Oct 7, 2026 5:07 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10092026-2849"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Sep 3, 2026 \u2014\u2009Posted Aug 26, 2026 4:29 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09032026-2830"
+   },
+   {
+    "date": "2026-08-21",
+    "body": "Aug 21, 2026 \u2014\u2009Posted Aug 20, 2026 2:41 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08212026-2824"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Aug 12, 2026 \u2014\u2009Posted Aug 5, 2026 1:04 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08122026-2812"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/10": {
+  "id": "lyons/10",
+  "title": "Downtown Vacant to Vibrant incentive program",
+  "summary": "The economic vitality commission designed a sliding-scale incentive program to fill vacant downtown storefronts.",
+  "where": "Main Street, downtown Lyons",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Oct 14, 2026 \u2014\u2009Posted Oct 12, 2026 10:35 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10142026-2859"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Sep 9, 2026 \u2014\u2009Posted Sep 4, 2026 8:01 AM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_09092026-2836"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Aug 12, 2026 \u2014\u2009Posted Aug 5, 2026 1:04 PM",
+    "kind": "minutes",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Minutes/_08122026-2812"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/11": {
+  "id": "lyons/11",
+  "title": "Water rights cash in lieu for 402 Main Street",
+  "summary": "Roots to Revival asked to use a Lake McIntosh water share and pay cash in lieu for the rest of its water rights dedication at 402 Main Street, which trustees ratified, alongside a broader look at the cash-in-lieu policy.",
+  "where": "402 Main Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Oct 21, 2026 \u2014\u2009Posted Oct 20, 2026 9:03 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10212026-2863"
+   },
+   {
+    "date": "2026-10-19",
+    "body": "Oct 19, 2026 \u2014\u2009Posted Oct 15, 2026 4:21 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10192026-2861"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Oct 7, 2026 \u2014\u2009Posted Oct 6, 2026 2:46 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10072026-2852"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Oct 5, 2026 \u2014\u2009Amended Oct 3, 2026 4:25 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10052026-2851"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Sep 17, 2026 \u2014\u2009Posted Sep 15, 2026 4:30 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09172026-2843"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Sep 16, 2026 \u2014\u2009Posted Sep 14, 2026 7:11 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09162026-2840"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/12": {
+  "id": "lyons/12",
+  "title": "Streetlight LED upgrades",
+  "summary": "Trustees awarded a contract to convert streetlights to LEDs after the utilities board trimmed the project to lights outside CDOT's Main Street right-of-way to cut the bid roughly in half.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Oct 7, 2026 \u2014\u2009Posted Oct 6, 2026 2:46 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10072026-2852"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 18, 2026 12:09 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2847"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Sep 16, 2026 \u2014\u2009Posted Sep 14, 2026 7:11 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09162026-2840"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Sep 2, 2026 \u2014\u2009Posted Aug 31, 2026 3:20 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09022026-2832"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Aug 19, 2026 \u2014\u2009Posted Aug 17, 2026 3:55 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08192026-2823"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Aug 5, 2026 \u2014\u2009Posted Aug 3, 2026 4:07 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_08052026-2811"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/13": {
+  "id": "lyons/13",
+  "title": "Moss Rock hotel and Main Street redevelopment",
+  "summary": "The urban renewal authority reviewed the Moss Rock hotel project at 343-347 Main Street and a reimbursement agreement for Roots to Revival at 402 Main Street, and adopted its 2027 budget.",
+  "where": "343-347 and 402 Main Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Oct 15, 2026 \u2014\u2009Posted Oct 9, 2026 12:12 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10152026-2858"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Sep 17, 2026 \u2014\u2009Posted Sep 15, 2026 4:30 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09172026-2843"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/14": {
+  "id": "lyons/14",
+  "title": "Affordable housing at Carter Court and Seward Street",
+  "summary": "The Boulder County Housing Authority updated trustees on affordable housing projects at Carter Court and Seward Street, and the town opted into Prop 123.",
+  "where": "Carter Court, Seward Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "Oct 5, 2026 \u2014\u2009Amended Oct 3, 2026 4:25 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_10052026-2851"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 21, 2026 10:43 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2846"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Sep 21, 2026 \u2014\u2009Amended Sep 18, 2026 12:09 PM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_09212026-2847"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "lyons/15": {
+  "id": "lyons/15",
+  "title": "Variance at 441 Stickney Street",
+  "summary": "The board of adjustment held a hearing on a corner side setback variance at 441 Stickney Street that drew public comment.",
+  "where": "441 Stickney Street",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Jul 28, 2026 \u2014\u2009Amended Jul 27, 2026 10:10 AM",
+    "kind": "agenda",
+    "url": "https://townoflyons.com/AgendaCenter/ViewFile/Agenda/_07282026-2808"
+   }
+  ],
+  "government": "Lyons"
+ },
+ "mead/0": {
+  "id": "mead/0",
+  "title": "Twelve-month moratorium on data centers",
+  "summary": "The Board of Trustees adopted a twelve-month moratorium on data centers on August 31, and staff told the planning commission the town has not yet received any data center proposals.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/1704/files"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/2793/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "mead/1": {
+  "id": "mead/1",
+  "title": "Waterfront Filing No. 2 mixed-use development",
+  "summary": "The planning commission recommended conditional approval of the Waterfront Filing No. 2 preliminary plat, focusing on traffic capacity, road improvements and trail connections, and called for coordinating transportation across nearby developments.",
+  "where": "Waterfront development",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/2794/files"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/2793/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "mead/2": {
+  "id": "mead/2",
+  "title": "2027 budget and improvement district budgets",
+  "summary": "The 2027 proposed budget was presented to trustees, along with budgets and mill levies for the Highway 66 and I-25 and Elevation 25 improvement districts and the urban renewal authority.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/1704/files"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/4807/files"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/4803/files"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "Mead Elevation 25 General Improvement District",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/4805/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "mead/3": {
+  "id": "mead/3",
+  "title": "Urban renewal tax increment incentive policy",
+  "summary": "The Mead Urban Renewal Authority took up a formal policy for judging developer requests for tax increment reimbursement, based on financial need, projected tax revenue and extraordinary costs.",
+  "where": "Urban renewal plan areas",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "Urban Renewal Authority",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/4807/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "mead/4": {
+  "id": "mead/4",
+  "title": "Annexations and public facilities zoning",
+  "summary": "The planning commission recommended zoning for the town-owned Valdez annexation and 1785 Weld County Road 32, public facilities zoning for other town land, and the Ariet's Grove Filing No. 1 preliminary plat.",
+  "where": "Valdez property, 1785 WCR 32, Ariet's Grove",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/2794/files"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/2793/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "mead/5": {
+  "id": "mead/5",
+  "title": "I-25 sewer relocation and Safe Routes to School",
+  "summary": "Trustees awarded construction contracts for the I-25 sewer relocation and the Mead Safe Routes to School project.",
+  "where": "I-25, Mead schools",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/1704/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "mead/6": {
+  "id": "mead/6",
+  "title": "High Plains Boulevard, new library and police facility",
+  "summary": "The town marked the near-finished High Plains Boulevard expansion between WCR 32 and 36, accepted improvements for the new High Plains Library District branch, and broke ground on a new police facility in Liberty Ranch.",
+  "where": "High Plains Blvd, Liberty Ranch, Chaparral St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/5808/files"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "General",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/5811/files"
+   },
+   {
+    "date": "2026-10-12",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/1704/files"
+   },
+   {
+    "date": "2026-10-03",
+    "body": "Board of Trustees",
+    "kind": "agenda",
+    "url": "https://meadco.portal.civicclerk.com/event/5810/files"
+   }
+  ],
+  "government": "Mead"
+ },
+ "nederland/0": {
+  "id": "nederland/0",
+  "title": "Rezoning 242 and 252 E 5th Street for A-frame homes",
+  "summary": "The planning commission recommended rezoning two steep commercial lots on East 5th Street to medium density residential for two A-frame homes, after a neighbor worried about losing commercial zoning flexibility and another resident spoke in support.",
+  "where": "242 & 252 E 5th St",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132796/PLANNING%20COMMISSION%20-%2021%20Oct%202026.pdf?handle=EC6C6F53B1574DF195F9DF303380B2DB"
+   },
+   {
+    "date": "2026-09-23",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132130/PLANNING%20COMMISSION%20-%2023%20Sep%202026.pdf?handle=0D78089969A04BAF84557A324F2EB2AC"
+   }
+  ],
+  "government": "Nederland"
+ },
+ "nederland/1": {
+  "id": "nederland/1",
+  "title": "Outdoor dining and sales rules",
+  "summary": "The town moved to allow outdoor sales, eating and drinking in its zoning use table, with safety standards near roadways.",
+  "where": "Downtown Nederland",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132796/PLANNING%20COMMISSION%20-%2021%20Oct%202026.pdf?handle=EC6C6F53B1574DF195F9DF303380B2DB"
+   },
+   {
+    "date": "2026-09-23",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132130/PLANNING%20COMMISSION%20-%2023%20Sep%202026.pdf?handle=0D78089969A04BAF84557A324F2EB2AC"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/131435/PLANNING%20COMMISSION%20-%2026%20Aug%202026.pdf?handle=08A6A35ADAD2431FAA7E2E10771B06AC"
+   }
+  ],
+  "government": "Nederland"
+ },
+ "nederland/2": {
+  "id": "nederland/2",
+  "title": "Temporary use permits",
+  "summary": "The planning commission and trustees worked on Ordinance 893 for staff-approved temporary use permits of up to 90 days that staff can revoke over safety problems.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "BOARD OF TRUSTEES",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132364/BOARD%20OF%20TRUSTEES%20-%2006%20Oct%202026.pdf?handle=C465D835284D4B529D51FF55EE766EAC"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/131435/PLANNING%20COMMISSION%20-%2026%20Aug%202026.pdf?handle=08A6A35ADAD2431FAA7E2E10771B06AC"
+   }
+  ],
+  "government": "Nederland"
+ },
+ "nederland/3": {
+  "id": "nederland/3",
+  "title": "Flex zoning for housing and redevelopment",
+  "summary": "The planning commission began discussing flex zoning to allow more housing types and mixed uses, including in the Wolf Tongue industrial area and near East Street Garage.",
+  "where": "Wolf Tongue area, East Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-26",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/131435/PLANNING%20COMMISSION%20-%2026%20Aug%202026.pdf?handle=08A6A35ADAD2431FAA7E2E10771B06AC"
+   }
+  ],
+  "government": "Nederland"
+ },
+ "nederland/4": {
+  "id": "nederland/4",
+  "title": "Parks, open space and trails master plan",
+  "summary": "The parks board finished revisions to the parks, recreation, open space and trails plan for trustees to review, and kept planning a replacement for the Chipeta Park playground.",
+  "where": "Chipeta Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "BOARD OF TRUSTEES",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132364/BOARD%20OF%20TRUSTEES%20-%2006%20Oct%202026.pdf?handle=C465D835284D4B529D51FF55EE766EAC"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "PROSAB - Nederland Parks, Recreation, and Open Space Advisory Board",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/131422/PROSAB%20-%20Nederland%20Parks,%20Recreation,%20and%20Open%20.pdf?handle=611454E93A99420AB324503DE8DB5D33"
+   }
+  ],
+  "government": "Nederland"
+ },
+ "nederland/5": {
+  "id": "nederland/5",
+  "title": "Merging the zoning adjustment board into the planning commission",
+  "summary": "The town moved an ordinance to dissolve its Board of Zoning Adjustment and hand its variance work to the planning commission, citing few applications and trouble filling the volunteer board.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132796/PLANNING%20COMMISSION%20-%2021%20Oct%202026.pdf?handle=EC6C6F53B1574DF195F9DF303380B2DB"
+   },
+   {
+    "date": "2026-09-23",
+    "body": "PLANNING COMMISSION",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132130/PLANNING%20COMMISSION%20-%2023%20Sep%202026.pdf?handle=0D78089969A04BAF84557A324F2EB2AC"
+   }
+  ],
+  "government": "Nederland"
+ },
+ "nederland/6": {
+  "id": "nederland/6",
+  "title": "Safer Main Streets crosswalk and sidewalk project",
+  "summary": "Trustees approved an engineering agreement for crosswalk and sidewalk improvements under the Safer Main Streets program, and backed the fire district's wildfire mitigation grant.",
+  "where": "Main Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "BOARD OF TRUSTEES",
+    "kind": "agenda",
+    "url": "https://nederlandco.civicweb.net/document/132364/BOARD%20OF%20TRUSTEES%20-%2006%20Oct%202026.pdf?handle=C465D835284D4B529D51FF55EE766EAC"
+   }
+  ],
+  "government": "Nederland"
+ },
  "superior/0": {
   "id": "superior/0",
   "title": "Marshall Fire Remembrance and five-year anniversary",
@@ -3185,5 +6183,321 @@
    }
   ],
   "government": "Superior"
+ },
+ "thornton/0": {
+  "id": "thornton/0",
+  "title": "Data center moratorium",
+  "summary": "Council held two discussions in late August and early September on whether to adopt a moratorium on data centers, with a staff presentation on data center impacts.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "9/1/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4709"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "8/25/26 Council Update",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4817"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/1": {
+  "id": "thornton/1",
+  "title": "2027 budget recommendation",
+  "summary": "Council worked through the city manager's recommended 2027 budget over several planning sessions and meetings this fall.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "9/29/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5681"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "9/15/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5645"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "9/1/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4709"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/2": {
+  "id": "thornton/2",
+  "title": "2027 utility rates",
+  "summary": "Council reviewed proposed water, sewer and other utility rate changes for 2027.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "8/18/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4703"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/3": {
+  "id": "thornton/3",
+  "title": "Creekside Gardens annexation at 140th and Washington",
+  "summary": "Council considered annexing and zoning the Creekside Gardens property near 140th Avenue and Washington Street.",
+  "where": "140th Ave and Washington St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "9/8/26 Council Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5035"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "8/25/26 Council Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5028"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/4": {
+  "id": "thornton/4",
+  "title": "Welby Station rezoning at 88th and Welby",
+  "summary": "Council took up zoning for the Welby Station development near 88th Avenue and Welby Road.",
+  "where": "88th Ave and Welby Rd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "10/13/26 Council Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5049"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Planning Commission Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5608"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/5": {
+  "id": "thornton/5",
+  "title": "Bellflower annexation at 140th and Holly",
+  "summary": "Council considered the Bellflower annexation and zoning near 140th Avenue and Holly Street.",
+  "where": "140th Ave and Holly St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Planning Commission Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5693"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/6": {
+  "id": "thornton/6",
+  "title": "Parks and arts master plans",
+  "summary": "Council reviewed updates to the parks master plan and the arts and culture master plan.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "9/22/26 Council Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5042"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "9/8/26 Council Update",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4823"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "8/10/26 TASHCO Monthly Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5239"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/7": {
+  "id": "thornton/7",
+  "title": "Station area plans for York at 144th and North Thornton",
+  "summary": "Council looked at station area plans around future transit stops at York Street and 144th Avenue and at North Thornton near State Highway 7.",
+  "where": "York St and 144th Ave, CO 7",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "10/6/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4715"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/8": {
+  "id": "thornton/8",
+  "title": "Thornton Parkway multimodal path",
+  "summary": "Council took up a multimodal path project along Thornton Parkway.",
+  "where": "Thornton Parkway",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "8/11/26 Special TDA Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5578"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/9": {
+  "id": "thornton/9",
+  "title": "Municipal fine and fee schedule",
+  "summary": "Council reviewed a new municipal fine and fee schedule, including results of a fee survey and staff recommendations.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "7/28/26 Council Update",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4805"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/10": {
+  "id": "thornton/10",
+  "title": "City code changes after a Supreme Court ruling",
+  "summary": "Council considered amending city code to bring it in line with a recent U.S. Supreme Court ruling.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "8/11/26 Council Update",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4811"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "8/11/26 Council Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5021"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/11": {
+  "id": "thornton/11",
+  "title": "Liquor license hearings at First Street Plaza",
+  "summary": "Council held liquor license hearings, including one at First Street Plaza where neighbors filed opposition.",
+  "where": "First Street Plaza",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "08/19/26 Local Licensing Authority Meeting",
+    "kind": "minutes",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5597"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/12": {
+  "id": "thornton/12",
+  "title": "Water revenue bonds",
+  "summary": "Council considered issuing water revenue bonds to fund water system projects.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "8/11/26 Council Meeting",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=5021"
+   }
+  ],
+  "government": "Thornton"
+ },
+ "thornton/13": {
+  "id": "thornton/13",
+  "title": "Residential housing design standards",
+  "summary": "Council reviewed changes to design standards for new residential housing.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "10/20/26 Planning Session",
+    "kind": "agenda",
+    "url": "https://thorntonco.primegov.com/Portal/Meeting?meetingTemplateId=4721"
+   }
+  ],
+  "government": "Thornton"
  }
 }

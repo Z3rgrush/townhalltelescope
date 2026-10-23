@@ -653,7 +653,7 @@
    {
     "name": "Roeland Park",
     "share": 0.421,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fairway",
@@ -678,7 +678,7 @@
    {
     "name": "Mission Woods",
     "share": 0.023,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Johnson County",
@@ -687,14 +687,14 @@
    }
   ],
   "issues": [
+   "roeland-park/2",
+   "roeland-park/0",
+   "roeland-park/5",
+   "roeland-park/6",
+   "roeland-park/10",
    "fairway/3",
    "fairway/4",
-   "fairway/5",
-   "mission/0",
-   "mission/3",
-   "mission-hills/0",
-   "fairway/0",
-   "fairway/1"
+   "fairway/5"
   ],
   "tagged": {}
  },

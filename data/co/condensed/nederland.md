@@ -1,0 +1,214 @@
+# nederland
+
+## [nederland#0] 2026-08-20 | PROSAB - Nederland Parks, Recreation, and Open Space Advisory Board | agenda
+- Nederland Parks, Recreation, and Open Space Advisory Board
+- Parks, Recreation, and Open Space Advisory Board
+- III. May 2026 Minutes Approval
+- IV. Public Comment on Non-Agenda Items (3-minute limit)
+- ● Parks Staff Report – Nicki Koch, Parks Manager (10 minutes)
+- VI. Discussion Items
+- discuss a timeline for returning the revised PROST document to the Board
+- ● Chipeta Park Playground Replacement (Electa Chronis & Nicki Koch) (5-10
+- o Continued discussion of playground vision, grant opportunities, and
+- project priorities
+- ● A PROSAB review of the strategic goals for BOT
+- ● Consider and, if appropriate, approve any final revisions to the PROST Update
+
+## [nederland#1] 2026-08-26 | PLANNING COMMISSION | agenda
+- 3. APPROVAL OF MINUTES
+- 4. PUBLIC COMMENT ON NON-AGENDA ITEMS
+- 5.1. Temporary Use Permit
+- 5.1 Ordinance 893 Temporary Use Permits
+- 5.1 Annabelle Nelson - Public Comment
+- 6. DISCUSSION ITEMS
+- 6.1. Strategic Planning Goals
+- 6.1 AIM - Stragetic Planning Goals Discussion
+- 6.1 Strategic Goals 2026 - 2027
+- 6.2. Outdoor Commercial Activities – Use Group Table Discussion
+- 6.2 AIM - Outdoor Use Amendments
+- Chair Mahowald made a motion to approve the meeting minutes
+- 4.2 Amendments to ADU code
+- Britt DeMinck, Community Planner introduced the AIM for amending section
+- Chair Mahowald made a motion to recommend approval of draft ordinance
+- 892, an ordinance of the Board of Trustees of the Town of Nederland,
+- Colorado, amending section 16-33 of Chapter 16 of the Nederland Municipal
+- 5. DISCUSSION ITEMS
+- 5.1 Temporary Use Permits Draft Ordinance 893
+- Permits Draft Ordinance 893
+- The Planning Commission reviewed the proposed temporary -use permit
+- Key points discussed included:
+- Temporary-use permits would be reviewed administratively by staff,
+- Permits would generally be limited to 90 days
+- Staff could suspend or revoke a permit if the use creates health, safety,
+- Continuing an activity after permit revocation would constitute a civil
+- A permit -processing fee should be established by resolution and
+- added to the Town’s fee schedule
+- Neighbor notification would not be automatically required for every
+- temporary use. However, staff may be authorized to require notification
+- as a condition of approval when a use could significantly affect
+- The regulations would apply broadly rather than limiting temporary
+- uses to particular zoning districts
+- applications to be processed without waiting for Planning Commission
+- 5.2 Flex Zoning
+- Britt DeMinck, Community Planner introduced the AIM for Flex Zoning
+- The Planning Commission held an initial discussion about “flex zoning, ” a term
+- referenced in the Comprehensive Plan and Downtown Subarea Plan but not
+- concept is intended to provide greater flexibility for housing, redevelopment,
+- Possible approaches include expanding permitted housing types,
+- allowing a broader mix of residential and commercial uses, creating
+- affordable-housing incentives, establishing an overlay or new zoning
+- The industrial district, particularly the Wolf Tongue area, was identified
+- adding more permitted uses or creating a light-industrial category
+- General Commercial properties near East Street Garage and Mountain
+- Auto were also discussed because limited infrastructure and existing
+- zoning may make development difficult
+- The Commission emphasized balancing housing needs with
+
+## [nederland#3] 2026-09-17 | PROSAB - Nederland Parks, Recreation, and Open Space Advisory Board | agenda
+- Nederland Parks, Recreation, and Open Space Advisory Board
+
+## [nederland#4] 2026-09-23 | PLANNING COMMISSION | agenda
+- 3. APPROVAL OF MINUTES
+- 4. PUBLIC COMMENT ON NON-AGENDA ITEMS
+- 5.1. Rezone Application 242 & 252 E 5th St
+- 6.1 AIM rezone 242 252 E 5th St
+- 6.1 Land Use Application
+- 6.1 Ord 895 Rezone to MDR
+- 6.1 Karen Fletcher - Public Comment
+- 5.2. Amendment to Use Group Table - Outdoors Sales, Eating and Drinking
+- 6.2 - AIM Outdoor Use Amendments
+- 6.2 Ordinance 894 Use Group Table Outdoor eating
+- 6. DISCUSSION ITEMS
+- 7.1 AIM BZA Ordinance
+- 7.1 Ordinance 896 Move BZA function to PC
+- Planning & Zoning
+- Consent ☐ Information ☐ Action ☒ Discussion ☐
+- Rezone 242 E 5th St (Legal Description: LOT 12 NEDERLAND HEIGHTS) & 252 E 5th St (Legal
+- The applicant, LandShark Investments LLC, is seeking to rezone 242 E. 5th Street and 252 E
+- 5th Street from General Commercial (GC) to Medium Density Residential (MDR). The stated
+- purpose of the request is to allow construction of two single-family A-frame residences, one on
+- each lot. The applicant proposes homes of approximately 2,100 square feet each, designed in a
+- and significant slope, reduce the viability of commercial development and make residential use a
+- It is important to note the zoning differences between the GC zone district and MDR zone district,
+- Parks Yes Yes
+- 242 E 5th St Street View
+- 252 E 5th St Street View
+- GENERAL COMMERICAL ZONING:
+- The applicant contends that continued General Commercial zoning is impractical because the
+- The narrative states that commercial development would likely require parking, loading, circulation,
+- accessibility improvements, grading, signage, lighting, and customer activity that would be difficult
+- MEDIUM RESIDENTIAL ZONING APPLICANT’S PROPOSAL:
+- The requested Medium Density Residential designation would allow the applicant to pursue one
+- feet each and designed in a mountain-style A-frame form intended to complement Nederland’s
+- mountain town character. The applicant states that residential development can be integrated
+- commercial development
+- COMPREHENSIVE PLAN REVIEW:
+- The applicant’s narrative references the Town of Nederland Comprehensive Plan adopted in March
+- 2025 and identifies several areas of consistency with the requested rezoning:
+- Housing: The proposal would convert two vacant parcels into two residential housing opportunities
+- within Town limits. The applicant states this supports the Comprehensive Plan’s goals related to
+- sufficient housing and increased housing opportunities
+- Infill Development: The parcels are within existing Town boundaries, and the applicant states they
+- are already served by municipal infrastructure. The proposal is characterized as infill development
+
+## [nederland#6] 2026-10-06 | BOARD OF TRUSTEES | agenda
+- 3.1. Approval of October 6, 2026 Warrants
+- 3.2. Approval of September 15, 2026 BOT Special Meeting Minutes
+- 3.3. Approval of September 15, 2026 BOT Meeting Minutes
+- 3.5. Nederland Fire Protection District Wildfire Mitigation Grant Letter of Support
+- 3.6. PROSAB Appointment
+- 3.6 AIM - PROSAB Appointment
+- Public comment may be given for each "Action Item" when called for by the Mayor. Public comment is
+- 4.1. Second Amendment to the Ground Lease between the Town of Nederland and
+- 4.1 AIM - Second Amendment to the Ground Lease
+- 4.1 Resolution 2026-28 - Second Amendment Ground Lease
+- 4.1 Second Amendment to Ground Lease (FINAL)
+- 4.2. Atlas Technical Consultants Agreement for the Safer Main Streets Crosswalk 41 - 61
+- Improvement Project
+- 4.2 AIM - Atlas Technical Consultants Agreement for the Safer Main Streets
+- 4.2 Atlas Technical Consultants Agreement for the Safer Main Streets
+- 4.2 Atlas - Proposal - Nederland Sidewalk Improvement
+- 4.3. Ordinance 893 Amendment to Temporary Use Provisions – Administrative
+- Approval of Similar Temporary Uses
+- 4.3 AIM - Ordinance 893 Amendment to Temporary Use Provisions
+- 4.3 Ordinance 893 Amendment to Temporary Use Provisions
+- 5. DISCUSSION ITEMS
+- Public comment may be given for each "Discussion Item" when called for by the Mayor. Public
+- 5.1. Parks, Recreation, Open Space, and Trails Master Plan Update Review
+- 5.1 AIM -PROST Master Plan Update Review
+- 5.1 Draft Parks, Recreation, Open Space, and Trails Master Plan Update
+- 5.2. BOT Liaison Appointments
+- 5.2 AIM - Board of Trustee Liaison Appointments
+- 5.3. 2026–2028 Strategic Plan – Goal 5 Review
+- 5.3 AIM - 2026–2028 Strategic Plan – Goal 5 Review
+- 6. PUBLIC COMMENT ON NON-AGENDA ITEMS
+- Public comment is limited to 3 minutes per person. Prior to providing comment, the speaker must state
+- assistance with an interpreter or hearing devices, please contact the Town
+- regardless of the heading under which such item appears. Discussion items
+- Trustee members, eliminating lengthy discussions to gain basic
+- understanding. Short discussion on agenda items does not reflect lack of
+- InvoiceNumber Approved Amt Budgeted $Date YTD Balance
+- Council Approval Report
+- (Council Approval Report)
+- 4525604 $2,099.18 $75,000.0008/31/26 $54,574.62Permitting and Plan Reviews 09/30/26 10-15-5121$2,099.18 Permitting and Plan Revi
+- 993225110 $665.92 $9,500.0009/01/26 $4,202.34Street Lights 10/01/26 10-20-5235$665.92 Street Lights
+- 76 General Air Service & Supply, 1105 Zuni Street, Denver, CO, 80204-3338
+- 468 Overhead Door Company of Denver, Inc., 3291 Peoria Street, Aurora, CO, 80010
+- Comm Trainings Grant: Consultant
+
+## [nederland#7] 2026-10-15 | PROSAB - Nederland Parks, Recreation, and Open Space Advisory Board | agenda
+- Nederland Parks, Recreation, and Open Space Advisory Board
+- Presentation
+
+## [nederland#8] 2026-10-20 | BOARD OF TRUSTEES | agenda
+- Executive Session pursuant to C.R.S. section 24-6-402(4)(a), (4)(b), and (4)(e)(I) for consideration of
+- and discussion of the Town’s purchase of property and operations for recreational activities and other
+- assistance with an interpreter or hearing devices, please contact the Town
+- regardless of the heading under which such item appears. Discussion items
+- Trustee members, eliminating lengthy discussions to gain basic
+- understanding. Short discussion on agenda items does not reflect lack of
+
+## [nederland#9] 2026-10-21 | PLANNING COMMISSION | agenda
+- 3. APPROVAL OF MINUTES
+- 4. PUBLIC COMMENT ON NON-AGENDA ITEMS
+- 6.1. Dissolving BZA Ordinance 896
+- 6.1 AIM Board of Zoning Adjustment (BZA) Consolidation
+- 6.1 Ordinance 896 Move BZA function to PC
+- 3.1 Rezone Application 242 & 252 E 5th St
+- Britt DeMinck, Community Planner introduced the AIM vote for Rezone
+- Application 242 & 252 E 5th St
+- The Commission discussed the history and pattern of GC zoning in the area,
+- differences between LDR and MDR lot standards, and whether the rezoning
+- existing mix of residential and commercial uses, changing development
+- pattern, housing needs, and consistency with Comprehensive Plan housing
+- square feet, accessed from E. 5th Street, and that the homes are intended for
+- Public Comment: Scott Rainey, 236 E. 5th Street, expressed concern about
+- potentially losing the flexibility of GC zoning in the broader area and about
+- Staff clarified that the application would not change the zoning of Mr. Rainey’s
+- property and that home -based businesses may be permitted in residential
+- Ron Mitchell supported the rezoning and commented on the history of zoning
+- in Nederland and the need for zoning to adapt as community conditions
+- zoning and potential spot zoning; staff and the Town Attorney addressed the
+- lot-size and variance implications of LDR and noted nearby MDR zoning
+- *end of public comment*
+- The public hearing was closed. Following deliberation, the Commission
+- agreed that the application satisfied §16-255(2) and §16-255(3)
+- Chair Mahowald made the motion to recommend approval of Ordinance 895,
+- an ordinance amending the zoning classification for properties known as 242
+- East Fifth Street and 252 East Fifth Street to Medium Density Residential and
+- Amending The Official Zoning Map of The Town to Reflect Such Action
+- 3.2 Amendment to Use Group Table - Outdoors Sales, Eating and Drinking
+- Britt DeMinck, Community Planner introduced the AIM for Amendment to Use
+- Staff clarified that the broader phrase “other outdoor commercial activities or
+- direction. The ordinance also included safety standards for outdoor
+- commercial activities near roadways
+- discussion and improved clarity
+- Public Comment: Ron Mitchell spoke in support, noting the benefit of outdoor
+- Commissioner Penziner moved to recommend approval of Ordinance No
+- 894, amending the Nederland Municipal Code to allow outdoor sales, eating,
+- Attorney to draft the ordinance and that Colorado law permits a statutory town
+- The Commission discussed the low number of variance applications,
+- difficulty maintaining a separate volunteer board, the similarity between
+
+## [nederland#10] 2026-10-22 | SAB - Nederland Sustainability Advisory Board | agenda
+- Presentation

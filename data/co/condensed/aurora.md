@@ -1,0 +1,379 @@
+# aurora
+
+## [aurora#0] 2026-08-10 | City Council | agenda
+- 15151 E. Alameda Parkway
+- 2.a Consideration to Appoint One (1) Member to the Oil and Gas Advisory
+- 2.b Aurora Regional Navigation Campus Outdoor Renovation Funding (Resolution) 25
+- Stephanie Keiper, Manager of Homelessness and Behavioral Health, Housing
+- 2.c Wild Horse Reservoir Administrative (Resolution) 58
+- Water / Ian Best, Assistant City Attorney
+- 2.d Request for Support of Proposition 308 (Resolution) 63
+- 3.a Notice and Appeals Unified Development Ordinance (UDO) Updates 75
+- Sarah Wile, Senior Planner III, Planning and Business Development / Lena
+- 3.b Socioeconomic Sales and Services Impact Permit (Ordinance) 87
+- 3.c Authorizing 2026 Lease-Purchase Financing for Heavy Fleet Vehicles
+- 4. ITEMS FROM THE COUNCIL APPOINTEES
+- 5.a Rules of Order and Procedure: Amendments to Various Sections (Resolution) 150
+- 5.b Current Vacancy on Fitzsimons Redevelopment Authority Board 166
+
+## [aurora#1] 2026-08-10 | City Council | agenda
+- 15151 E Alameda Parkway
+- 6. APPROVAL OF MINUTES
+- Any member of Council may request an item be removed from Consent Calendar and
+- considered separately. Removed items are considered immediately following the
+- 10.c Appointments to Boards and Commissions
+- 10.c.1 Consideration to Appoint Two (2) Members and Reappoint One (1)
+- 10.c.2 Consideration to Reappoint One (1) Member to the Board of
+- 10.c.3 Consideration to Appoint One (1) Member to the Parks, Recreation,
+- 11. CONSENT CALENDAR - RESOLUTIONS AND ORDINANCES
+- 11.a Resolutions
+- R2026-93 A RESOLUTION OF THE CITY COUNCIL OF THE
+- Housing and Community Services / Andrea Wood, Assistant City
+- 11.a.2 Naming Recommendation for the Community Park Surrounding
+- R2026-94 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY COUNCIL’S APPROVAL OF NAMING A COMMUNITY
+- PARK SURROUNDING THE CENTRAL RECREATION CENTER
+- AS “SASQUATCH PARK.”
+- Scott Hammons, Planner, Parks, Recreation and Open Space / Britt
+- 11.a.3 Intergovernmental Agreement (IGA) with Arapahoe County for
+- Inspiration Trail Connection Grant Project
+- R2026- 95 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY COUNCIL’S APPROVAL OF THE
+- INTERGOVERNMENTAL AGREEMENT BETWEEN THE CITY
+- THE INSPIRATION TRAIL CONNECTION GRANT PROJECT
+- Waiver of consideration is requested because Arapahoe County wants
+- the Intergovernmental Agreement (IGA) executed within 60 days of
+- the notice of award
+- Parks, Recreation and Open Space / Britt Wirth, Assistant City
+- 11.a.4 Amendment to the Strontia Springs Refurbishment Intergovernmental
+- Agreement (IGA)
+- R2026-96 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY COUNCIL’S SUPPORT OF THE FIRST AMENDMENT TO
+- AN INTERGOVERNMENTAL AGREEMENT BETWEEN THE
+- DENVER, ACTING BY AND THROUGH ITS BOARD OF WATER
+- DAM OUTLET WORKS REFURBISHMENT PROJECT
+- Mathew Allsopp, Source of Supply Superintendent, Aurora Water /
+- 11.a.5 Data Center Moratorium 184
+- R2026-97 A RESOLUTION OF THE CITY COUNCIL OF THE
+- MANAGER TO IMPLEMENT DATA CENTER REGULATIONS
+- 11.a.6 Data Center Development Standards 191
+- R2026-98 A RESOLUTION OF THE CITY COUNCIL OF THE
+- 11.b Finalizing of Ordinances
+- Ordinances approved unanimously at first reading
+- 2026-32 AN ORDINANCE OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, AMENDING CHAPTER 106
+- Planning and Business Development / David Scott, Senior Assistant
+- 11.b.2 Amendment to Chapter 134 of the City Code 211
+- 2026-42 AN ORDINANCE OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, AMENDING CHAPTER 134,
+- AUTOMATED VEHICLE IDENTIFICATION SYSTEMS
+- Jason Pray, Lieutenant, Police / Mandy MacDonald, Senior Assistant
+- 12. PUBLIC HEARINGS
+- Public hearings with or without related ordinances
+
+## [aurora#2] 2026-08-24 | City Council | agenda
+- 15151 E. Alameda Parkway
+- 2.a Intergovernmental Agreement (IGA) for Automatic and Mutual Aid between
+- Aurora Fire Rescue and Sable-Altura Fire Protection District (Resolution)
+- Alec Oughton, Fire Chief, Fire / Angela Garcia, Senior Assistant City Attorney
+- 2.b Authorizing the Assignment of the City’s Private Activity Bond Allocation for
+- 2026 to the Aurora Housing Authority (Resolution)
+- Sarah Pulliam, Manager of Housing and Community Development, Housing and
+- 3.a Consideration for a Text Amendment to the Food Truck Standards and
+- Definition (Ordinance)
+- Erik Gates, Planner III, Planning and Business Development / Lena McClelland,
+- Miscellaneous Provisions (Ordinance)
+- 4. ITEMS FROM THE COUNCIL APPOINTEES
+- (Resolution)
+- 5.b Evaporative Cooling (Ordinance) 105
+- Marshall Brown, General Manager, Aurora Water / Ian Best, Senior Assistant
+- 5.c Text Amendment to Update the Permitted Use Table Regarding Data Centers
+- Brandon Cammarata, Planning Manager, Planning and Business Development /
+- 5.d Data Center Standards Discussion 120
+
+## [aurora#3] 2026-08-24 | City Council | agenda
+- 15151 E Alameda Parkway
+- 6. APPROVAL OF MINUTES
+- Any member of Council may request an item be removed from Consent Calendar and
+- considered separately. Removed items are considered immediately following the
+- 10.a.1 2027-2028 Collective Bargaining Agreement between the City of
+- Aurora and International Association of Fire Fighters (IAFF) Local
+- 10.a.2 2027-2028 Collective Bargaining Agreement between the City of
+- Aurora and Fraternal Order of Police, Lodge #49
+- 10.c Appointments to Boards and Commissions
+- 10.c.1 Consideration to Appoint One (1) Member to the Oil and Gas
+- 11. CONSENT CALENDAR - RESOLUTIONS AND ORDINANCES
+- 11.a Resolutions
+- R2026-99 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPROVING AN
+- INTERGOVERNMENTAL AGREEMENT BY AND AMONG THE
+- COMMUNITY DEVELOPMENT BLOCK GRANT FUNDS
+- Housing and Community Services / Andrea Wood, Assistant City
+- R2026-100 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY COUNCIL’S APPROVAL AND DELEGATION OF
+- WATER TO ADMINISTRATIVELY APPROVE CERTAIN,
+- LIMITED, INTERGOVERNMENTAL AGREEMENTS RELATED
+- Engineering, Aurora Water / Ian Best, Senior Assistant City Attorney
+- 11.a.3 Request for Support of Proposition 308 123
+- R2026-101 A RESOLUTION OF THE CITY COUNCIL OF THE
+- Aurora Water / Ian Best, Senior Assistant City Attorney
+- 11.a.4 Rules of Order and Procedure: Amendments to Various Sections 135
+- R2026-102 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, TO AMEND VARIOUS
+- 11.b Finalizing of Ordinances
+- Ordinances approved unanimously at first reading
+- 12. PUBLIC HEARINGS
+- Public hearings with or without related ordinances
+- 12.a Amendment to the Comprehensive Plan Placetype Map - Regis Jesuit High 151
+- 2026-44 A PUBLIC HEARING AND INTRODUCTION OF AN
+- ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AURORA,
+- COLORADO, AMENDING THE 2018 COMPREHENSIVE PLAN TO
+- NORTH OF EAST ARAPAHOE ROAD, AND WEST OF S OLATHE
+- STREET (REGIS JESUIT HIGH COMPREHENSIVE PLAN AMENDMENT)
+- Development / Lena McClelland, Senior Assistant City Attorney
+- 13. INTRODUCTION OF ORDINANCES
+- 13.a Socioeconomic Sales and Services Impact Permit 158
+- 2026-45 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
+- AURORA, COLORADO, AMENDING THE AURORA CITY CODE BY
+- AMENDING DIVISION 4 OF ARTICLE VI OF CHAPTER 86
+- 13.b Authorizing 2026 Lease-Purchase Financing for Heavy Fleet Vehicles 221
+- 2026-46 AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
+- PURCHASE FINANCING TO ACQUIRE CERTAIN EQUIPMENT
+- PURSUANT TO THE TERMS OF AN EQUIPMENT LEASE-PURCHASE
+- AGREEMENT BY AND BETWEEN THE AURORA CAPITAL LEASING
+- TRANSACTIONS CONTEMPLATED HEREBY; AND OTHER RELATED
+
+## [aurora#4] 2026-09-14 | City Council | agenda
+- 15151 E Alameda Parkway
+- 4. RECONSIDERATION AND CALL UPS
+- 5.a Data Center Moratorium 2026 2
+- R2026-111 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- ACCEPTANCE OR PROCESSING OF DEVELOPMENT APPLICATIONS
+- WHERE A DATA CENTER IS INCLUDED AS A PROPOSED PRIMARY
+- A waiver of reconsideration is requested due to this being a time sensitive issue
+- 15151 E. Alameda Parkway
+- 2.a Consideration to Reappoint Two (2) Members to the Public Defender
+- 2.b Consideration to Appoint Two (2) Members to the Arts and Culture Commission 33
+- 2.c Comprehensive Safety Action Plan (Resolution) 54
+- 2.d First Amendment to 38th Avenue Interchange Maintenance and Operation
+- Intergovernmental Agreement (IGA) (Resolution)
+- Haley Johansen, City Engineer, Development Services / Michelle Gardner,
+- 3.a First Amendment to Aurora Fire Rescue and South Metro Fire Rescue Mutual
+- Aid Agreement (Resolution)
+- Hunter Hackbarth, Assistant Fire Chief, Fire / Angela Garcia, Senior Assistant
+- and Code Reform (Resolution)
+- Jason Batchelor, City Manager / Megan Platt, Deputy City Attorney
+- 4. ITEMS FROM THE COUNCIL APPOINTEES
+- 5.a Data Center Standards Discussion 3 225
+- Brandon Cammarata, Planning Manager, Planning and Business Development /
+- 3. Approval of Minutes
+- 5.a The First Amendment to Redevelopment Agreement for the Point Crossing at
+- Nine Mile Station Project within the Plaza 3 Urban Renewal Area
+- AURA R2026-06 A RESOLUTION OF THE BOARD OF
+- APPROVING THE FIRST AMENDMENT TO THE REDEVELOPMENT
+- AGREEMENT FOR THE POINT CROSSING AT NINE MILE STATION
+- PROJECT WITHIN THE PLAZA 3 URBAN RENEWAL AREA BETWEEN
+- Chad Argentar, Senior Redevelopment Project Manager, Planning and Business
+- Development / Rachel Allen, Deputy City Attorney
+- 5.b Redevelopment Agreement for the Tempo at Nine Mile Station Apartments
+- AURA R2026-07 A RESOLUTION OF THE BOARD OF
+- APPROVING A REDEVELOPMENT AGREEMENT FOR TEMPO AT NINE
+- MILE STATION APARTMENTS WITHIN THE PLAZA 3 URBAN
+- AUTHORITY AND NINE MILE APARTMENTS LLC REGARDING
+- REDEVELOPMENT WITHIN THE PLAZA 3 URBAN RENEWAL AREA
+- 5.c Second Amended and Restated Public Finance and Redevelopment Agreement
+- AURA R2026-08 A RESOLUTION OF THE BOARD OF
+- APPROVING THE SECOND AMENDED AND RESTATED PUBLIC
+- FINANCE AND REDEVELOPMENT AGREEMENT FOR PLAZA 1 URBAN
+- 5.d Intergovernmental Agreement (IGA) between the Aurora Urban Renewal
+- AURA R2026-09 A RESOLUTION OF THE BOARD OF
+- APPROVING AN INTERGOVERNMENTAL AGREEMENT BETWEEN
+- 4. ITEMS FOR DISCUSSION
+- 4.a Consideration for an Oil and Gas Lease 2
+- 6. APPROVAL OF MINUTES
+- Any member of Council may request an item be removed from Consent Calendar and
+
+## [aurora#5] 2026-09-28 | City Council | agenda
+- 15151 E. Alameda Parkway
+- 2.a Consideration to Appoint Six (6) Members to the Citizens’ Advisory Committee
+- on Housing and Community Development
+- 2.b Consideration to Appoint Four (4) Youth Members to the Aurora Youth
+- 2.c Consideration to Appoint Three (3) Members to the Historic Preservation
+- 2.d Consideration to Appoint Three (3) Members to the Library Board 95
+- 2.e Cornerstar Metropolitan District Board of Directors Appointment (Resolution) 175
+- Michael Kerrigan, Special District Administrator, Development Services / Brian
+- 2.f Aurora Police Department (APD) Grant Application to the State of Colorado
+- and Community Partnerships (POMH) Program (Resolution)
+- Todd Chamberlain, Chief, Police / Mandy MacDonald, Assistant City Attorney
+- 2.g Grant Application to the U.S. Department of Justice Office on Violence Against
+- Women (OVW) FY 2026 Local Law Enforcement Grants for Enforcement of
+- Cybercrimes Program (Resolution)
+- 4. ITEMS FROM THE COUNCIL APPOINTEES
+- 5.a Rules of Order and Procedure: Amendment to the Council Rules Regarding
+- Agendas (Resolution)
+- 7.a Proposed Interview and Appointment Schedule for the Planning and Zoning
+
+## [aurora#6] 2026-09-28 | City Council | agenda
+- 15151 E Alameda Parkway
+- 6. APPROVAL OF MINUTES
+- Any member of Council may request an item be removed from Consent Calendar and
+- considered separately. Removed items are considered immediately following the
+- 11.c Appointments to Boards and Commissions
+- 11.c.1 Consideration to Remove Two (2) Members from the Aurora
+- Immigrant and Refugee Commission
+- 11.c.2 Consideration to Appoint One (1) Youth Member to the Aurora Youth
+- 11.c.3 Consideration to Appoint Three (3) Members to the Human Relations
+- 11.c.4 Consideration to Reappoint One (1) Member to the Library Board 51
+- 11.c.5 Consideration to Reappoint Two (2) Members to the Building Code
+- and Contractors Appeals and Standard Board
+- 12. CONSENT CALENDAR - RESOLUTIONS AND ORDINANCES
+- 12.a Resolutions
+- 12.a.1 Amendment to the Colorado Universal Preschool (UPK) Program
+- Intergovernmental Agreement (IGA) for 2026-2030
+- R2026-105 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY COUNCIL’S APPROVAL OF THE AMENDMENT TO THE
+- INTERGOVERNMENTAL AGREEMENT BETWEEN THE CITY
+- RECREATION DIVISION IN THE PARKS, RECREATION AND
+- Donna Hunt, Recreation Superintendent, Parks, Recreation and Open
+- R2026-106 A RESOLUTION OF THE CITY COUNCIL OF THE
+- 12.a.3 Affordable Housing Lease with Mercy Housing 189
+- R2026-107 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPROVING THE GROUND
+- GLOBAL, LLLP (MERCY HOUSING MOUNTAIN PLAINS) FOR
+- AN AFFORDABLE HOUSING PROJECT
+- Outside Speaker: Austin Pierce Flanagan, Hoffmann, Parker, Wilson
+- 12.b Finalizing of Ordinances
+- Ordinances, including annexation ordinances, approved unanimously at first
+- 2026-47 AN ORDINANCE OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, AMENDING SECTIONS 94-74,
+- 2026-48 AN ORDINANCE OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, PROHIBITING PERMITS FOR
+- Marshall Brown, General Manager, Aurora Water / Ian Best, Senior
+- 12.b.3 Installation of New Turf and Ornamental Water Features 274
+- 2026-49 AN ORDINANCE OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, AMENDING SECTION 138-191
+- ORNAMENTAL WATER FEATURES
+- 13. PUBLIC HEARINGS
+- Public hearings with or without related ordinances
+- 14. INTRODUCTION OF ORDINANCES
+- 14.a Authorizing the Refunding of the City’s 2017 Certificates of Participation
+- 2026-50 AN ORDINANCE AUTHORIZING THE USE OF LEASE
+- PURCHASE FINANCING FOR THE REFUNDING OF THE CITY’S
+- OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2017
+- PURSUANT TO THE TERMS OF A LEASE-PURCHASE AGREEMENT
+- NECESSARY TO CARRY OUT THE TRANSACTIONS CONTEMPLATED
+- 15. FINALIZING OF ORDINANCES
+- Ordinances, including annexation ordinances, not approved unanimously at first reading
+
+## [aurora#7] 2026-10-03 | City Council | agenda
+- 15151 E. Alameda Parkway
+- 1. DISCUSSION OF BUDGET RULES FOR THE DAY
+- 2. BUDGET DELIBERATIONS
+- Budgets by Deputy City Manager Group
+- 2.a Council / Commission Appointees
+- c) Housing and Community Services (F-91)
+- a) Development Services (F-52)
+- c) Parks, Recreation and Open Space (F-150)
+- d) Planning and Business Development (F-169)
+- c) Fire (F-72)
+- d) Police (F-178)
+- Relations, International and Immigrant Affairs)
+- 2.e Marshall Brown - General Manager of Water
+- a) Aurora Water (F-3)
+- 2.f Greg Hays - Budget Officer
+- 3. CAPITAL PROJECTS FUND AND ANY OTHER FUND REVIEW (if not discussed previously)
+- 4. MISCELLANEOUS (Proposed Pay Schedules, Proposed GID Ordinances, Proposed Service Fees)
+- 4.a Proposed 2027 Service Fees
+- Richard Goggins, Budget Analyst III, Finance / Hanosky Hernandez, Senior Assistant City
+- 4.b General Improvement District 2-2011 (Aurora Conference Center) 2027 Operating Budget
+- 4.c General Improvement District 1-2007 (Cherry Creek Racquet Club) 2027 Operating
+- Budget (Ordinance)
+- 4.d General Improvement District 1-2016 (Cobblewood) 2027 Operating Budget (Ordinance)
+- 4.e General Improvement District 3-2008 (Meadow Hills Country Club) 2027 Operating
+- 4.f General Improvement District 1-2008 (Peoria Park) 2027 Operating Budget (Ordinance)
+- 4.g General Improvement District 2-2009 (Pier Point 7) 2027 Operating Budget (Ordinance)
+- 4.h 2026 – 2027 City Pay Table and Classification (Resolution)
+
+## [aurora#8] 2026-10-12 | City Council | agenda
+- 15151 E. Alameda Parkway
+- 2.a Consideration to Appoint Three (3) Members to the Library Board 4
+- 2.b Akron Storm Sewer and Outfall to Westerly Creek Intergovernmental
+- Agreement (IGA) (Resolution)
+- Andrea Long, Principal Engineer, Aurora Water / Ian Best, Senior Assistant City
+- 2.c Lake County Intergovernmental Agreement (IGA) (Resolution) 95
+- Richard Kienitz, Water Resources Manager, Aurora Water / Ian Best, Senior
+- 2.d Homeless Services Notice of Funding Opportunity Application
+- Stephanie Keiper, Manager of Homelessness and Behavioral Health, Housing
+- 2.e Homeless Services Notice of Funding Opportunity Application
+- 2.f Homeless Services Notice of Funding Opportunity Application
+- 2.g Homeless Services Notice of Funding Opportunity Application
+- Recommendations: Advance Pathways Emergency Solutions Grant
+- 2.h Homeless Services Notice of Funding Opportunity Application
+- Recommendations: Aurora Housing Authority Emergency Solutions Grant
+- 2.i Homeless Services Notice of Funding Opportunity Application
+- Recommendations: Aurora Housing Authority HOME Tenant Based Rental
+- 2.j Homeless Services Notice of Funding Opportunity Application
+- Recommendations: Aurora Housing Authority Marijuana Funds
+- 2.k Homeless Services Notice of Funding Opportunity Application
+- 3.a New Fund for the Self-funding of United Healthcare (Ordinance) 544
+- 3.b 2027 Proposed Rates and Fees (Ordinance) 549
+- Cat Olukotun, Deputy Director of Financial Administration, Aurora Water / Ian
+- Brian Green, Director, Parks, Recreation and Open Space / Britt Wirth, Assistant
+- 4. ITEMS FROM THE COUNCIL APPOINTEES
+- 5.a Rules of Order and Procedure: Amendment to the Council Rules Regarding
+- Agendas (Resolution)
+- 5.b Unified Development Ordinance (UDO) Amendment for Industrial Zone
+- Districts (Ordinance)
+- Kelly Bish, Senior Planner III, Planning and Business Development / Lena
+
+## [aurora#9] 2026-10-12 | City Council | agenda
+- 15151 E Alameda Parkway
+- 6. APPROVAL OF MINUTES
+- Any member of Council may request an item be removed from Consent Calendar and
+- considered separately. Removed items are considered immediately following the
+- 11.c Appointments to Boards and Commissions
+- 11.c.1 Consideration to Appoint Six (6) Members to the Citizens’ Advisory
+- Committee on Housing and Community Development
+- 11.c.2 Consideration to Appoint Four (4) Youth Members to the Aurora
+- 11.c.3 Consideration to Appoint Three (3) Members to the Historic
+- 11.c.4 Consideration to Appoint Three (3) Members to the Library Board 126
+- 12. CONSENT CALENDAR - RESOLUTIONS AND ORDINANCES
+- 12.a Resolutions
+- 12.a.1 Cornerstar Metropolitan District Board of Directors Appointment 206
+- R2026-108 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPOINTING A DIRECTOR
+- Michael Kerrigan, Special District Administrator, Development
+- 12.a.2 Aurora Police Department (APD) Grant Application to the State of
+- R2026-109 A RESOLUTION OF THE CITY COUNCIL OF THE
+- CITY OF AURORA, COLORADO, APPROVING THE CITY OF
+- AURORA’S APPLICATION FOR THE 2026-2027 PEACE
+- COMMUNITY PARTNERSHIPS GRANT APPLICATION
+- Todd Chamberlain, Chief, Police / Mandy MacDonald, Assistant City
+- 12.a.3 Grant Application to the U.S. Department of Justice Office on
+- Grants for Enforcement of Cybercrimes Program
+- R2026-110 A RESOLUTION OF THE CITY COUNCIL OF THE
+- AURORA’S APPLICATION TO THE FY 2026 LOCAL LAW
+- ENFORCEMENT GRANTS FOR ENFORCEMENT OF
+- 12.b Finalizing of Ordinances
+- Ordinances, including annexation ordinances, approved unanimously at first
+- 12.b.1 Authorizing the Refunding of the City’s 2017 Certificates of
+- 2026-50 AN ORDINANCE AUTHORIZING THE USE OF
+- LEASE-PURCHASE FINANCING FOR THE REFUNDING OF
+- THE CITY’S OUTSTANDING CERTIFICATES OF
+- A LEASE-PURCHASE AGREEMENT BY AND BETWEEN
+- CONTEMPLATED HEREBY; AND RELATED MATTERS
+- 13. PUBLIC HEARINGS
+- Public hearings with or without related ordinances
+- 13.a Text Amendment to Update the Permitted Use Table Regarding Data Centers 232
+- 2026-51 A PUBLIC HEARING AND CONSIDERATION OF AN
+- ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AURORA,
+- COLORADO, AMENDING SECTION 146-3.2 OF THE UNIFIED
+- DEVELOPMENT ORDINANCE PERTAINING TO DATA CENTERS
+- Stacy Wasinger, Senior Planner, Planning and Business Development / Lena
+- 2026-52 A PUBLIC HEARING AND CONSIDERATION OF AN
+- APPROVAL OF DESIGNATING THE BETHEL LUTHERAN CHURCH AS
+- 14. INTRODUCTION OF ORDINANCES
+- 15. FINALIZING OF ORDINANCES
+- Ordinances, including annexation ordinances, not approved unanimously at first reading
+- 16. ANNEXATIONS
+- Public Hearings and Introduction of Annexation Ordinances
