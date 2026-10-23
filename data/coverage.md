@@ -4,27 +4,27 @@ Window: 2026-07-25 to 2026-10-23
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Overland Park | civicweb | 39 | 58 | 0 | 0 |  |
-| Leawood | civicweb | 19 | 19 | 0 | 0 |  |
-| Shawnee | civicweb | 11 | 11 | 0 | 0 |  |
-| Unified Government of Wyandotte County / Kansas City KS | civicclerk | 59 | 74 | 0 | 0 |  |
-| Bonner Springs | civicclerk | 11 | 14 | 0 | 0 |  |
-| De Soto | agendacenter | 12 | 12 | 0 | 0 |  |
-| Spring Hill | agendacenter | 20 | 20 | 0 | 0 |  |
-| Mission Hills | agendacenter | 19 | 19 | 0 | 0 |  |
-| Edwardsville | agendacenter | 9 | 9 | 0 | 0 |  |
-| Roeland Park | agendacenter | 0 | 0 | 0 | 0 |  |
-| Olathe | linkscan | 0 | 0 | 0 | 0 |  |
-| Lenexa | linkscan | 0 | 0 | 0 | 0 |  |
-| Prairie Village | civicclerk | 20 | 26 | 0 | 0 |  |
-| Merriam | civicweb | 10 | 10 | 0 | 0 |  |
-| Mission | linkscan | 4 | 8 | 0 | 0 |  |
-| Gardner | linkscan | 1 | 3 | 0 | 0 |  |
-| Edgerton | linkscan | 0 | 0 | 0 | 0 |  |
-| Fairway | linkscan | 0 | 0 | 0 | 0 |  |
+| Overland Park | civicweb | 39 | 58 | 55 | 3 |  |
+| Leawood | civicweb | 19 | 19 | 12 | 7 |  |
+| Shawnee | civicweb | 11 | 11 | 10 | 1 |  |
+| Unified Government of Wyandotte County / Kansas City KS | civicclerk | 59 | 74 | 69 | 5 |  |
+| Bonner Springs | civicclerk | 11 | 14 | 10 | 4 |  |
+| De Soto | agendacenter | 12 | 12 | 9 | 3 |  |
+| Spring Hill | agendacenter | 20 | 20 | 16 | 4 |  |
+| Mission Hills | agendacenter | 19 | 19 | 19 | 0 |  |
+| Edwardsville | agendacenter | 9 | 9 | 8 | 1 |  |
+| Roeland Park | linkscan | 0 | 0 | 0 | 0 |  |
+| Olathe | linkscan | 13 | 13 | 13 | 0 |  |
+| Lenexa | linkscan | 7 | 18 | 16 | 2 |  |
+| Prairie Village | civicclerk | 20 | 26 | 26 | 0 |  |
+| Merriam | civicweb | 10 | 10 | 10 | 0 |  |
+| Mission | linkscan | 4 | 8 | 8 | 0 |  |
+| Gardner | linkscan | 1 | 3 | 3 | 0 |  |
+| Edgerton | linkscan | 8 | 12 | 12 | 0 |  |
+| Fairway | linkscan | 7 | 8 | 5 | 3 |  |
 | Westwood Hills | linkscan | 0 | 0 | 0 | 0 |  |
-| Lake Quivira | linkscan | 3 | 3 | 0 | 0 |  |
-| Johnson County Board of County Commissioners | linkscan | 2 | 3 | 0 | 0 |  |
+| Lake Quivira | linkscan | 3 | 3 | 3 | 0 |  |
+| Johnson County Board of County Commissioners | linkscan | 2 | 3 | 3 | 0 |  |
 
 ## Logs
 
@@ -75,19 +75,17 @@ Window: 2026-07-25 to 2026-10-23
 
 ### Roeland Park
 ```
-  https://www.roelandpark.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/25/2026&endDate=10/23/2026&dateRange=&dateSelector=: 0 files in window
-  https://www.roelandpark.net/AgendaCenter: 0 files in window
+  https://www.roelandpark.net/129/Agendas-Minutes: 0 dated links in window
 ```
 
 ### Olathe
 ```
-  skip https://www.olatheks.gov/government/city-council/city-council-meetings: 403 Client Error: Forbidden for url: https://www.olatheks.gov/government/city-council/city-council-meetings
-  skip https://www.olatheks.gov/government/city-council/city-council-agendas-and-minutes: 403 Client Error: Forbidden for url: https://www.olatheks.gov/government/city-council/city-council-agendas-and-minutes
+  https://olatheks.granicus.com/ViewPublisher.php?view_id=1: 19 dated links in window
 ```
 
 ### Lenexa
 ```
-  skip https://www.lenexa.com/Government/Mayor-City-Council/Agendas-Minutes: 404 Client Error: Not Found for url: https://www.lenexa.com/Government/Mayor-City-Council/Agendas-Minutes
+  https://www.lenexa.com/Government/Meeting-Agendas-Minutes-Videos: 9 dated links in window
   https://www.lenexa.com/Government/Mayor-City-Council/Upcoming-Council-Meetings: 0 dated links in window
 ```
 
@@ -103,7 +101,7 @@ Window: 2026-07-25 to 2026-10-23
 
 ### Mission
 ```
-  https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past: 5 dated links in window
+  https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past: 4 dated links in window
   skip https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past&paged=2: 404 Client Error: Not Found for url: https://www.missionks.org/events/category/agenda-minutes/list/page/2/?eventDisplay=past
   https://www.missionks.org/city-government/agendas-minutes/: 0 dated links in window
 ```
@@ -116,13 +114,14 @@ Window: 2026-07-25 to 2026-10-23
 
 ### Edgerton
 ```
-  https://edgertonks.org/city-council/: 0 dated links in window
-  https://edgertonks.org/: 0 dated links in window
+  https://edgertonks.org/city-council-docs/: 17 dated links in window
+  https://edgertonks.org/planning-and-zoning-profiles-and-agendas-and-minutes/: 4 dated links in window
 ```
 
 ### Fairway
 ```
   https://fairwaykansas.org/minutes: 0 dated links in window
+  https://fairwaykansas.org/?SEC=9F2D6E4F-4BC3-4D37-A801-6A9477AE6E91: 11 dated links in window
 ```
 
 ### Westwood Hills
