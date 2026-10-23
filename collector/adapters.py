@@ -237,8 +237,12 @@ def primegov(src, start, end, log):
         docs = [x for x in m.get("documentList") or [] if re.search(r"minute|agenda", x.get("templateName", ""), re.I)
                 and not re.search(r"packet", x.get("templateName", ""), re.I)]
         minutes = [x for x in docs if re.search(r"minute", x["templateName"], re.I)]
-        for x in (minutes or docs)[:1]:
-            url = f"{base}/Public/CompiledDocument?meetingTemplateId={x['templateId']}&compileOutputType={x['compileOutputType']}"
+        # compileOutputType 1 is a PDF; 3 is an HTML agenda, which only renders on the portal page.
+        for x in sorted(minutes or docs, key=lambda x: x.get("compileOutputType") != 1)[:1]:
+            if x.get("compileOutputType") == 3:
+                url = f"{base}/Portal/Meeting?meetingTemplateId={x['templateId']}"
+            else:
+                url = f"{base}/Public/CompiledDocument?meetingTemplateId={x['templateId']}&compileOutputType={x['compileOutputType']}"
             yield Doc(src["id"], body, d, f"{m.get('title')} - {x['templateName']}", url, kind_of(x["templateName"]),
                       {"public_url": f"{base}/Portal/Meeting?meetingTemplateId={x['templateId']}"})
     log(f"  {n} meetings in window")

@@ -1,0 +1,2823 @@
+# louisville
+
+## [louisville#0] 2026-07-27 | Recreation Advisory Board | agenda
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Golf Fees Sub-Committee Update — Lisa Norgard
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#1] 2026-07-27 | Recreation Advisory Board | agenda
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Golf Fees Sub-Committee Update — Lisa Norgard
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Parks & Recreation Department 749 Main Street Louisville CO 80027
+- Approval of Agenda – The agenda was approved unanimously
+- Public Comments on non-Agenda Items and Consent Agenda Items
+- Approval of Minutes - The minutes from the April 27, 2026 meeting were
+- approved unanimously
+- Golf Fund Presentation and 2027 Preliminary Fee Discussion – Ryder Bailey
+- Golf Fund Presentation (via web link)
+- See slide deck for Ryder’s and Adam’s presentations
+- business like an Enterprise fund (similar to City’s water/wastewater funding). The
+- 2026 adopted budget projects expenses exceeding revenues. The largest source
+- of revenues is green fees. Long term expenses will continue to exceed revenue
+- projections thereby reducing the working capital funds to below zero over time. A
+- City Manager, Diana Langley: we received a lot of public comments telling us
+- Meeting was then opened to public commenters: Scott Hudson, Mitch Silver,
+- Adam: City Council is requesting the RAB’s input tonight on annual passes,
+- green fees, and resident preferences. He offered prompts for input to inform what
+- the 2027 annual pass program, green fees, and residential preference should
+- interim to ensure his staff is responsive to RAB’s requests. RAB appointed
+- CCGC was re-rated and the scorecard design has been updated. Bo provided an
+- PROS Long Range Plan: we are waiting on revisions that will be reviewed by
+- Michele has compiled feedback from a number of golfers. A main concern is the
+- loss of community culture at the CCGC as demonstrated from recent letters
+- shared with the RAB. Diana reminded us that this feedback is for Adam and
+
+## [louisville#2] 2026-07-27 | Local Licensing Authority | agenda
+- Public comment will be accommodated during the meeting. Comments may also be
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Renewal Application
+- 1303 Empire Road
+- C. Renewal Application
+- 585 E South Boulder Road, Suites A & B
+- D. Renewal Application
+- 935 Pine Street
+- i. Renewal Application - Hotel & Restaurant Liquor License
+- G. Renewal Application
+- H. Renewal Application
+- 1148-6 W Dillon Road
+- I. Renewal Application
+- Vibe at Infinite LLC d/b/a Vibe Coffee & Wine
+- 6. Police Department Report
+- A 2 business day notice is requested
+
+## [louisville#3] 2026-07-27 | Local Licensing Authority | agenda
+- Public comment will be accommodated during the meeting. Comments may also be
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Renewal Application
+- 1303 Empire Road
+- C. Renewal Application
+- 585 E South Boulder Road, Suites A & B
+- D. Renewal Application
+- 935 Pine Street
+- i. Renewal Application - Hotel & Restaurant Liquor License
+- G. Renewal Application
+- H. Renewal Application
+- 1148-6 W Dillon Road
+- I. Renewal Application
+- Vibe at Infinite LLC d/b/a Vibe Coffee & Wine
+- 6. Police Department Report
+- A 2 business day notice is requested
+- Local Licensing Authority 749 Main Street Louisville, CO 80027
+- Kaufman called for any changes to the agenda. Cole moved to approve the agenda;
+- No public comments
+- 637 Front Street
+- Karp Holdings, LLC d/b/a The Waterloo
+- 817 Main Street
+- 700 Main Street
+- E. Renewal Application
+- 1387 East South Boulder Road, Unit G
+- F. Renewal Application
+- 740 Main Street
+- 1849 Cherry Street, #3
+- I. Report of Changes - Retail Warehouse Storage
+- 947 Pine Street
+- A. Renewal Application
+- sales / use taxes
+- nothing for the police report
+- Subject: Renewal Application
+- X Incidents over the past year that required the filing of a police report
+- X Sales Tax account with the City of Louisville is current
+- Background / Prior Discussions:
+- Staff recommends approval of the renewal application
+- Staff recommends approval of the renewal application and the new manager application
+- (TIPS certificate provided for the new manager)
+- Staff recommends approval of the renewal application and the change in manager
+- (TIPS certificate provided for new manager)
+
+## [louisville#4] 2026-07-27 | Recreation Advisory Board | agenda
+- Per the Chair’s request I’m attaching the latest YTD revenue dashboard. Thanks to Bo for
+- “Club Repair, Food & Beverage, and Handicap Fees
+- Handicap Fees: $4520
+- Parks, Recreation, Open Space & Golf
+- REVENUE 2026 JUN 2025 JUN YOY $ Budget % Budget YTD 2026 YTD 2025 YOY $ Budget % Budget
+- Green Fees 234,738$ 200,958$ 17% 255,000 -8% 725,836$ 579,421$ 25% 714,000 2%
+- Driving Range Fees 40,873$ 34,716$ 18% 39,000 5% 139,865$ 125,584$ 11% 109,200 28%
+- Golf Lesson Fees 33,146$ 59,641$ -44% 41,400 -20% 71,213$ 104,282$ -32% 115,920 -39%
+- KEY: GFPR - Green Fees Per Round
+- REVENUE 2026 MAY 2025 MAY YOY $ Budget % Budget YTD 2026 YTD 2025 YOY $ Budget % Budget
+- Green Fees 201,123$ 183,285$ 10% 204,000 -1% 491,098$ 378,464$ 30% 459,000 7%
+- Driving Range Fees 33,840$ 31,861$ 6% 31,200 8% 98,992$ 90,868$ 9% 70,200 41%
+- Golf Lesson Fees 23,237$ 27,117$ -14% 33,120 -30% 38,067$ 44,641$ -15% 74,520 -49%
+- REVENUE 2026 APR 2025 APR YOY $ Budget % Budget YTD 2026 YTD 2025 YOY $ Budget % Budget
+- Green Fees 119,527$ 103,896$ 15% 136,000 -12% 289,975$ 195,179$ 49% 255,000 14%
+- Driving Range Fees 25,113$ 28,617$ -12% 20,800 21% 65,152$ 59,007$ 10% 39,000 67%
+- Golf Lesson Fees 10,675$ 15,024$ -29% 22,080 -52% 14,830$ 17,524$ -15% 41,400 -64%
+- REVENUE 2026 MAR 2025 MAR YOY $ Budget % Budget YTD 2026 YTD 2025 YOY $ Budget % Budget
+- Green Fees 76,556$ 76,954$ -1% 85,000 -10% 170,449$ 91,283$ 87% 119,000 43%
+- Driving Range Fees 21,652$ 21,301$ 2% 13,000 67% 40,039$ 30,390$ 32% 18,200 120%
+- Golf Lesson Fees 2,185$ 560$ 290% 13,800 -84% 4,155$ 2,500$ 66% 19,320 -78%
+- REVENUE 2026 FEB 2025 FEB YOY $ Budget % Budget YTD 2026 YTD 2025 YOY $ Budget % Budget
+- Green Fees 66,223$ 12,412$ 434% 17,000 290% 93,893$ 14,329$ 555% 34,000 176%
+- Driving Range Fees 12,601$ 7,594$ 66% 2,600 385% 18,387$ 9,089$ 102% 5,200 254%
+- Golf Lesson Fees 1,305$ 1,280$ 2% 2,760 -53% 1,970$ 1,940$ 2% 5,520 -64%
+- REVENUE 2026 JAN 2025 JAN YOY $ Budget % Budget YTD 2026 YTD 2025 YOY $ Budget % Budget
+- Green Fees 27,670$ 1,917$ 1343% 17,000 63% 27,670$ 1,917$ 1343% 17,000 63%
+- Driving Range Fees 5,786$ 1,495$ 287% 2,600 123% 5,786$ 1,495$ 287% 2,600 123%
+- Golf Lesson Fees 665$ 660$ 1% 2,760 -76% 665$ 660$ 1% 2,760 -76%
+
+## [louisville#5] 2026-07-28 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 67, Series 2026 — A Resolution Approving a Construction
+- Contract with Zoulek LLC for the 2026 Water Main Replacement Project
+- C. Resolution No. 68, Series 2026 — A Resolution Approving a Construction
+- Contract with Loenbro, LLC for a new Library Lighting Building Automation
+- A. Ordinance No. 1936, Series 2026 — An Ordinance Amending Title 17 of the
+- Lousiville Municipal Code Regarding Inclusionary Housing - 1st Reading, Set
+- Public Hearing
+- 1st Reading includes the Staff Presentation and questions from Council. There is no opportunity for
+- public comment. The Public Hearing (2nd Reading) will be set on this item for a later date. The Public
+- Hearing will allow 2 rounds of public comment
+- Performance Review of Officials Appointed by the City Council — Louisville Charter, Section 5-2(b)
+- and C.R.S. 24-6-402(4)(f) - The Mayor is Requesting the City Council Convene an Executive
+- Session for the Purpose of Discussion of the Annual Performance Evaluations of the City Manager
+- Request for Executive Session
+- 10. Executive Session Report - Discussion / Direction / Action
+- 12. Upcoming Agenda Items and Identification of Future Agenda Items
+- Centennial Valley General Development Plan Amendment — 2nd Reading
+- 1006-1008 Plat
+- Landmark Designation - 1101 Main Street
+- Historic Preservation Grant Request — 700 Pine Street
+- Advent Health Planned Unit Development and Special Review Use — continued from July 21
+- Trestle Strategy Presentation on Housing Strategic Framework
+- Private Activity Bonds Carryforward
+- Energov Permitting Report Conversion
+- VMWare 5-year Software Agreement
+- Toro DXi Agreement for Irrigation Controllers
+- Fire Smart Louisville Funding
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+
+## [louisville#6] 2026-07-28 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 67, Series 2026 — A Resolution Approving a Construction
+- Contract with Zoulek LLC for the 2026 Water Main Replacement Project
+- C. Resolution No. 68, Series 2026 — A Resolution Approving a Construction
+- Contract with Loenbro, LLC for a new Library Lighting Building Automation
+- A. Ordinance No. 1936, Series 2026 — An Ordinance Amending Title 17 of the
+- Lousiville Municipal Code Regarding Inclusionary Housing - 1st Reading, Set
+- Public Hearing
+- 1st Reading includes the Staff Presentation and questions from Council. There is no opportunity for
+- public comment. The Public Hearing (2nd Reading) will be set on this item for a later date. The Public
+- Hearing will allow 2 rounds of public comment
+- Performance Review of Officials Appointed by the City Council — Louisville Charter, Section 5-2(b)
+- and C.R.S. 24-6-402(4)(f) - The Mayor is Requesting the City Council Convene an Executive
+- Session for the Purpose of Discussion of the Annual Performance Evaluations of the City Manager
+- Request for Executive Session
+- 10. Executive Session Report - Discussion / Direction / Action
+- 12. Upcoming Agenda Items and Identification of Future Agenda Items
+- Centennial Valley General Development Plan Amendment — 2nd Reading
+- 1006-1008 Plat
+- Landmark Designation - 1101 Main Street
+- Historic Preservation Grant Request — 700 Pine Street
+- Advent Health Planned Unit Development and Special Review Use — continued from July 21
+- Trestle Strategy Presentation on Housing Strategic Framework
+- Private Activity Bonds Carryforward
+- Energov Permitting Report Conversion
+- VMWare 5-year Software Agreement
+- Toro DXi Agreement for Irrigation Controllers
+- Fire Smart Louisville Funding
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+
+## [louisville#7] 2026-07-30 | Planning Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comment on Items Not on the Board Agenda and Items on the
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak to the
+- same position on a given item, the board requests they select a spokesperson to state that position
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Resolution 10, Series 2026 Recommending Approval of a
+- Final Planned Unit Development (PUD), a Final Plat, and a Special Review
+- Use (SRU) to allow a 135-unit mixed-use development on 4.38 acres
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A two-business day notice is requested
+
+## [louisville#8] 2026-07-30 | Planning Commission | agenda
+- our support for the Delo Boom development at 1390 Cannon Street and 1301 Courtesy Road
+- This project has been working through the city’s entitlement process for about three years, and
+- we believe it should be approved as it moves to the PUD review
+- The project proposal includes 135 various residential units along with a small commercial space
+- on the 4.39-acre site between Cannon Street and Highway 42. The design is consistent with the
+- rezoning approved by City Council in October 2023, and the overall massing, scale, and
+- character of the project have remained the same throughout the process
+- and the surrounding area. Louisville is in need of more accessible and attainable housing, and
+- this site is one of the few remaining areas to add more housing within walking distance of
+- and the project’s housing will give employees at Louisville’s restaurants, shops, and offices the
+- difficult, if not impossible, given housing costs in our area
+- The project also includes sustainability features, improved pedestrian and vehicle connectivity
+- through the Caledonia Street extension providing direct access from the property to Highway
+- approve the PUD for Delo Boom. It will be a welcome, and vital asset to the downtown area, and
+- the project has earned the support of neighbors, local businesses, and the broader community
+- Thank you for your time and consideration,
+- Rob Zuccaro, Community Development Director
+- Subject: Feedback for 7/30 Planning commission – Delo Boom
+- For the city Planning Commission Agenda July 30, 2026 - considering the Delo Boom PUD
+- This is my feedback as a resident of Louisville and of the Delo neighborhood
+- community. The use of townhomes along Cannon Street does transition well to the Delo
+- end of the development from Hwy42 to Cannon, and the elevations look visually pleasing
+- A. Parking Math is Ignored
+- Current Planned Spots (Parking Supply) == 161 + 30(?)
+- The proposal states 191 total, but there are only approximately 161 parking spots in the plans
+- (There is no number of on-property parking spots in the PUD. Shouldn't that be required in a
+- The plan talks about "on street parking" - perhaps on Griffith and Cannon streets for the extra
+- Griffith - 20 cars would park up Griffith St all the way to the train tracks
+- Cannon Street - 20 (new) cars would park Cannon totally up from Griffith to Delo
+- Current Needed Spots (Parking Demand) = 270 spots
+- 36 townhomes (2/3/4 bedrooms) + 99 apartments (mostly 1 bdr or studio, ~ 15 3BR)
+- 1. Where will the extra 79 cars be parked? At the ballfields across HWY 42? In Little Italy?
+
+## [louisville#9] 2026-08-04 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Resolution No. 69, Series 2026 — A Resolution Approving an Agreement with
+- B. Resolution No. 70, Series 2026 — A Resolution Authorizing the Purchase of
+- C. Resolution No. 71, Series 2026 — A Resolution Declaring the Intent of the City
+- Council of the City of Louisville, Colorado to Issue Multifamily Housing
+- Revenue Bonds and Authorizing Carryforward Allocation
+- D. Fire Smart Louisville Proposal
+- A. Resolution No. 66, Series 2026 — A Resolution Approving a Final Planned
+- Unit Development (PUD), A Special Review Use (SRU) to Allow a Helicopter
+- Pad, and An Associated Development Agreement for the Development of a
+- public comment
+- B. Ordinance No. 1935, Series 2026 — An Ordinance Approving a Centennial
+- Valley General Development Plan Amendment for Lot A of the Centennial
+- Valley Business Park Filing No. 8 Final Plat — 2nd Reading, Public Hearing
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- C. Resolution No. 72, Series 2026 - A Resolution Approving the Centennial 8
+- Replat B to Facilitate a Minor Subdivision to Combine 1006 Honeysuckle Lane
+- D. Resolution No. 73, Series 2026 — A Resolution Designating the Residence
+- Located at 1101 Main Street a Historic Landmark to be Named the Caranci
+- House and Awarding a Landmark Grant Incentive
+- E. Resolution No. 74, Series 2026 — A Resolution Approving a Focused
+- Preservation and Restoration Grant and an Extraordinary Circumstances
+- Grant for the James House Located at 700 Pine Street
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+- Inclusionary Housing Ordinance Update - 2nd Reading
+- Landmark and Grant Request — 1013 LaFarge Avenue
+- Award Development Code Update Contract
+- BAP Agreement with Louisville Cyclery
+
+## [louisville#10] 2026-08-04 | City Council | agenda
+- Attachments: FSL presentation to LFPD 08_03_26.pdf
+- Fire Smart Louisville project in the Consent Agenda. I've spoken with most of of you about
+- the project and what our plans are going forward if funding is available. We really appreciate
+- City Manager Langley's efforts to identify available funding for this effort and Council's
+- And FYI, I presented on Fire Smart Louisville to the LFPD Board last night and asked them to
+- support going forward. I've attached a PDF of my presentation for your reference
+- Fire Smart Louisville
+- Wildfire Risk
+- What is Fire Smart Louisville?
+- neighborhoods voluntarily reduce risk of wildfire
+- ➢ Designed to help implement the LFPD’s Wildfire
+- ➢ Led by volunteers and Boulder Watershed
+- ➢ Boulder Watershed Collective: designated by
+- Council–only areas of new development
+- Wildfire Partners & ODM
+- ➢ Identified BWC as NGO leader
+- What is Fire Smart Louisville trying to do?
+- ➢ Raise awareness and identify
+- ➢ $10,000 NFPA grant for direct costs (not labor)
+- ➢ National Wildfire Community Preparedness Day May 2 at the
+- Louisville Rec Center with LFPD & Wildfire Partners
+- ➢ Matching 20+ Wildfire Partners Rebates for Louisville residents
+- Reduction, City IGA & Parks/OS staff, and
+- Wildfire Partners resources
+- ➢ Boulder Watershed Collective
+- ➢ City Parks, OS & Public Landscapes
+- ➢ BoCo Wildfire Partners & ODM
+- ➢ NFPA, Fire Adapted Colorado, United
+- Notifications - Lucky Pie Race.docx
+- Question: Item 8B - Regarding resolution No 70, Series 2026 Camera and Video Management
+- repercussions if we delay this project?
+- Delaying the project increases risk. The cost of comparable servers has risen from
+- the cost of the project. We expect to know soon whether this option is viable. If we
+- the 3rd GDP amendment, but the staff report from 2 June 2026 makes no mention of
+- that the helipad was added as an SRU with the 3rd amendment. The
+- 3rd amendment is simply the current and controlling version of the GDP that’s in
+- amendments. It was not introduced as part of the 3rd amendment
+- The GDP for Redtail Ridge required LEED certified buildings, but the hospital does not
+- Improvements and Development Agreement exempts Avista Hospital and its
+- Further, the agreement reduces the the overall solar generation obligation
+- based on the amount of development rights acquired by Avista. As such, the
+- total solar requirement for the overall redtail development area is reduced in
+- Questions: Item 8B – Centennial Valley GDP Amendment
+- I have again been unable to find the note on the GDP amendment that addresses
+- affordable housing on this lot counting towards the inclusionary housing ordinance
+
+## [louisville#11] 2026-08-05 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Bee City
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from June 3, 2026
+- A. Update Item — Status of Bee City Supplemental Budget Proposal to City
+- A. Discussion Item — Board Member Recruiting Actions
+- B. Discussion Item — Education Programs for the Rest of the Year
+- C. Discussion Item — Pollinator Stickers this Year?
+- D. Discussion Item — Participation in Labor Day Parade
+- E. Discussion Item for Next Meeting — Review of Plan Accomplishment
+- speak in the appropriate public comments section
+- A forty-eight-hour notice is requested
+
+## [louisville#12] 2026-08-05 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Bee City
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from June 3, 2026
+- A. Update Item — Status of Bee City Supplemental Budget Proposal to City
+- A. Discussion Item — Board Member Recruiting Actions
+- B. Discussion Item — Education Programs for the Rest of the Year
+- C. Discussion Item — Pollinator Stickers this Year?
+- D. Discussion Item — Participation in Labor Day Parade
+- E. Discussion Item for Next Meeting — Review of Plan Accomplishment
+- speak in the appropriate public comments section
+- A forty-eight-hour notice is requested
+- Parks Division 749 Main Street Louisville CO 80027
+- Parks & Public Landscaping
+- The Board will accommodate public comments during the meeting. Anyone may
+- Parks & Public Landscaping Advisory Board
+- Adam Blackmore, Director Parks and Open Space
+- III. Approval of Agenda
+- Agenda Approved unanimously
+- IV. Approval of Minutes
+- V. Public Comments on Items Not on the Agenda
+- Helen submitted sample print of the Art Contest Award Certificate
+- requesting Chris Davis and John Webb to sign when Parks is able t
+- complete printing. Award ceremony at the Library to happen June
+- to collect their artwork, certificates and gift cards at the official
+- Budget request is approved
+- Committee discussion about moving the Art Contest to the Fall next
+- VIII. Request that Bee City and PPLAB take July off, to coincide with City
+- After brief discussion among committee members, committee
+- meeting with City Council. In addition to what we discussed earlier
+- tasks beyond the minimum required by the Bee City Resolution
+- Council noted that the budget for Parks was still in flux, and
+- continued discussion with the Finance Committee and at Council
+- Council to consider. John Suggested that the flower beds at
+- Community Park are neglected and could become a huge asset for
+- Appia near South Boulder Road and along South Boulder Road
+
+## [louisville#13] 2026-08-05 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Advisory Board
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from June 3, 2026
+- A. Update Item — Update Work Plan Accomplishments
+- B. Update Item — Check in on Community Park Flower Bed Upgrades and
+- C. Discussion Item — Support Addition of Shade Structures for Community Park
+- D. Discussion Item — Memo to Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- E. Discussion Item — Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan and Request Input on Selection of
+- F. Discussion Item — Items for Next Meeting
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#14] 2026-08-05 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Advisory Board
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from June 3, 2026
+- A. Update Item — Update Work Plan Accomplishments
+- B. Update Item — Check in on Community Park Flower Bed Upgrades and
+- C. Discussion Item — Support Addition of Shade Structures for Community Park
+- D. Discussion Item — Memo to Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- E. Discussion Item — Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan and Request Input on Selection of
+- F. Discussion Item — Items for Next Meeting
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Parks Division 749 Main Street Louisville CO 80027
+- Parks & Public Landscaping
+- Chris David, Parks Superintendent
+- Adam Blackmore, Director of Parks, Recreation, & Open Space
+- III. Approval of Agenda – The agenda was approved by all members
+- IV. Approval of Meeting Minutes – The minutes from the May 6th, 2026,
+- meeting were approved as written
+- parcel of land that Louisville owns. Contract mowing does some
+- to the public commenter to have the HOA engage the city
+- Adam Blackmore – playground updates. Contracts on two
+- PROS plan – first draft from consultant has been received. Staff
+- have given feedback to the consultant. Timeline now is to take the
+- parks? E-bikes seem to be accelerating erosion issues or
+- development of social trails in parks. Response: According to
+- enforcement of e-bike users with more cycling police officers
+- VI. Public comments on Items Not on the Agenda
+- more than one city cooperates, there could be bulk marketing and
+- Louisville has a Drought Management Plan – The document drafted by
+- useful to review alongside the existing Management Plan
+
+## [louisville#15] 2026-08-11 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- B. Budget Retreat Follow-Up Capital Improvement Plan and Service Level
+- There will be no public comment section for this item
+- C. Upcoming Agenda Items & Identification of New Ones — August 12, 2026 to
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#16] 2026-08-11 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- B. Budget Retreat Follow-Up Capital Improvement Plan and Service Level
+- There will be no public comment section for this item
+- C. Upcoming Agenda Items & Identification of New Ones — August 12, 2026 to
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- is intended to create an open, collaborative discussion about the future of sustainability
+- in Louisville. LSAB will share ideas related to climate action, funding, water
+- have the opportunity to provide feedback, share priorities, and discuss implementation
+- challenges. The goal is to exchange perspectives, identify areas of alignment, and
+- Background / Prior Discussions:
+- meeting each year to discuss the City's sustainability priorities and strengthen
+- collaboration. This year's discussion builds on recent work, including the City's updated
+- Following those discussions, City Council approved reallocating the remaining
+- Sustainability Action Plan funding from additional planning to implementation-focused
+- discuss future priorities, implementation opportunities, and the City's long-term
+- Tiffany Boyd
+- Development Proposal:
+- Council Work Plan:
+- Examples: Fire-proofing homes, emergency preparedness,
+- heat impacts and water scarcity, flood mitigation, paint roofs
+- Our parks, open space,
+- limited grant and state funds
+- NEAR-TERM STRATEGY IDEAS
+- SUPPORT GRANT MATCHING OPPORTUNITIES FOR
+- Ensure new development pays its fair share to support sustainability
+- LONG-TERM FUNDING STRATEGY IDEAS
+- RENEGOTIATE THE FRANCHISE AGREEMENT
+- Ensure the agreement reflects community priorities
+- GENERATE NEW, STABLE REVENUE STREAMS
+- EXPAND THE SUCCESS OF THE BAG TAX
+- ESTABLISH A TARGETED TAX OR FEE TO CREATE A DEDICATED
+- Strategic investments
+- Strategic, reliable funding turns our climate commitments into
+- Fund the projects and programs that reduce emissions
+- Important Water Data
+- water supply is nearly 100% dependent on
+- snowmelt-driven surface water
+- Where water is used:
+- Top water-saving opportunities
+- HOA + business park irrigation: ~94 million
+- Snow Water Equivalent for Colorado
+- This year (black line) is a wakeup call for action for water conservation programming to
+- Water Conservation Programming Considerations
+
+## [louisville#17] 2026-08-11 | City Council | agenda
+- Subject: Fw: Thankyou and Please Discuss Impact fees and Development Code Update
+- Subject: Thankyou and Please Discuss Impact fees and Development Code Update
+- I support all of your near term and long term strategy ideas, but this comment pertains to
+- the the near term goal, "Ensure new development pays its fair share to support
+- development impact fees. Do you support a climate impact fee? Also, I hope to learn how
+- sustainability staff and LSAB will be providing input into the development code update and
+- revised design guidelines. What climate mitigation strategies will be included?
+- I have reviewed the slide presentation prepared by LSAB for tomorrow's meeting
+- and would like to provide some resident feedback
+- First, I am disappointed that the topic of the urban heat island effect was not
+- reduce these "grey" features. Additionally, will the requested meeting with the
+- Grey to Green Fund (boco.org/grey-to-green), which provides a $100,000 grant
+- program to replace grey features with green landscaping. I request that the city
+- explore this funding source and consider offering matching funds
+- Second, regarding the Board's recommendation to continue the city bag tax, the
+- presentation lacks details on the current balance of funds and how they are
+- of these funds? Greater transparency is needed regarding the bag tax
+- The Board's list of questions for the Council includes feedback on what residents
+- are asking about the city's sustainability efforts. Please consider this email as part of
+- that resident feedback and include these points in your discussion tomorrow night
+- Thank you for considering my input
+- Subject: Sustainability (Bag) Tax request for consideration:
+- As discussions continue around collection and use of our Bag Tax and sustainability I wish
+- you to consider the following:
+- That said I would request of both Staff and Council to consider the following concept plans:
+- First provide grants to homeowners to upgrade their electrical panel/systems in order to
+- for that EV, water heater, electric stove etc. This takes money and could be split 50/50
+- between homeowner and grant with a cap on dollar value. Private sector investment from
+- Second: There is a huge opportunity to design a solar structure -Hot water or electric at the
+- years at least. Not a prediction given climate change but worth considering
+- take years. There are the early adopters in technology but given the current inflation rates that
+- Please consider these big picture concepts/ideas
+
+## [louisville#18] 2026-08-12 | Recreation Advisory Board | agenda
+- 749 Main Street
+- A. Members of the Recreation Board and staff will meet to review 2027 fee
+- A two-business day notice is requested
+
+## [louisville#19] 2026-08-12 | Open Space Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- A. 7:00 pm Discussion Item-Introduction of Amanda Accamando, Open Space
+- B. 7:10 pm Discussion Item-Budget Update. Presented by Adam Blackmore,
+- Director of Parks, Recreation and Open Space. (30 Minutes)
+- Link to City Council July 22, 2026 Budget Retreat Materials:
+- i. Budget Calendar Pg 8-9
+- iv. Capital Improvement Projects
+- C. 7:40 pm-Action Item: Develop PROS Guidebook (Long Range Plan & Trails
+- System Plan) Recommendations. Presented by Susan McEachern, OSAB
+- D. 8:40 pm Discussion Item-Preparation for Property Acquisition Review in
+- Identify New Opportunities for Property Review in September
+- E. 8:50 pm Discussion Items for Next Meeting
+- Centennial Valley General Development Plan Amendment for
+- Residential Development
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business notice is requested
+
+## [louisville#20] 2026-08-12 | Open Space Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- A. 7:00 pm Discussion Item-Introduction of Amanda Accamando, Open Space
+- B. 7:10 pm Discussion Item-Budget Update. Presented by Adam Blackmore,
+- Director of Parks, Recreation and Open Space. (30 Minutes)
+- Link to City Council July 22, 2026 Budget Retreat Materials:
+- i. Budget Calendar Pg 8-9
+- iv. Capital Improvement Projects
+- C. 7:40 pm-Action Item: Develop PROS Guidebook (Long Range Plan & Trails
+- System Plan) Recommendations. Presented by Susan McEachern, OSAB
+- D. 8:40 pm Discussion Item-Preparation for Property Acquisition Review in
+- Identify New Opportunities for Property Review in September
+- E. 8:50 pm Discussion Items for Next Meeting
+- Centennial Valley General Development Plan Amendment for
+- Residential Development
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business notice is requested
+- Open Space Division 749 Main Street Louisville CO 80027
+- Approval of Agenda – The agenda was approved by all members
+- Approval of Meeting Minutes – The minutes from the May 13 meeting were approved
+- Public Comments: No Comments
+- how the drought is creating challenges in getting water into Hecla Lake and then
+- proposal is for 186 units. It is in preliminary stages of discussion at the Lafayette
+- discussion about how OSAB can respond
+- ● Ember will send out the past documents from board discussions about OO
+- ● Andy noted that Lafayette appears to be using its Wildlife Plan, which was
+- approved by Lafayette City Council, as the basis for closing social trails in areas
+- ● Susan noted that she meets with Adam Blackmore (Parks, Recreation, and Open
+- Adam noted that the city has an operating deficit. There is a budget retreat
+- budget. The deficit means that the finance director has not approved including
+
+## [louisville#21] 2026-08-13 | City Council | agenda
+- 749 Main Street
+- The Council will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Sustainability Presentation
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A 2 business day notice is requested
+
+## [louisville#22] 2026-08-13 | City Council | agenda
+- 749 Main Street
+- The Council will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Sustainability Presentation
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A 2 business day notice is requested
+- City Council 749 Main Street Louisville CO 80027
+- Rob Zuccaro, Community Development Director
+- Vanessa Zarate, Economic Vitality Manager
+- APPROVAL OF AGENDA
+- APPROVAL OF May 14, 2026 MEETING MINUTES
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- Manager Zarate presented on the prospect of adjusting the EVC meeting date and time
+- Cultural Services Presentation
+- Brandi Cummings, Director of Cultural Services presented on current initiatives, projects,
+- outside of downtown such as activations in nearby parks and utilizing parking lots on
+- Business Retention Discussion
+- Manager Zarate presented on business retention visits that staff conducts throughout the
+- recommendations and feedback that Economic Vitality provides to the city as a whole
+- Manager Zarate provided a summary of feedback received during retention visits so far
+- Councilmember Kern asked about the parking issues highlighted within the Colorado
+- Tech Center and how these issues have come about. Manager Zarate responded that
+- some of the issue has to do with zoning code that was implemented many years ago,
+- some streets in the tech center do not allow parking and some businesses have a larger
+- employment than the amount of parking spaces they have in their lot
+- Manager Zarate shared staff updates and asked for any questions
+- Manager Zarate shared business happenings and asked for any questions
+- Prepared By: Vanessa Zarate, Economic Vitality Manager
+- Presented By: Vanessa Zarate, Economic Vitality Manager
+- discussion of feedback that staff has received through its Business Attraction efforts
+- Staff is presenting this information for discussion and questions. No action is being
+
+## [louisville#23] 2026-08-13 | General | agenda
+- 951 Spruce Street
+- A. Discussion: Library Board of Trustees and City Council Joint Meeting
+- A forty-eight-hour notice is requested
+
+## [louisville#24] 2026-08-17 | Historic Preservation Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. 613 Grant Avenue Alteration Certificate and Historic Preservation Fund Grant
+- B. Bungalow Architectural Type — Informational Presentation By Andy Johnson,
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+
+## [louisville#25] 2026-08-17 | Historic Preservation Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. 613 Grant Avenue Alteration Certificate and Historic Preservation Fund Grant
+- B. Bungalow Architectural Type — Informational Presentation By Andy Johnson,
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+- Subject: 613 Grant Avenue Alteration Certificate and Historic Preservation
+- Fund Grant Request
+- not apply for any additional grant funding at that time. As per the current Historic
+- Preservation Funding resolution, owners are eligible to request grant funds subject to
+- the funding resolution in place at the time of landmark designation, which in this case is
+- Resolution No. 2, Series 2012. This resolution allows a Focused Preservation and
+- Restoration Grant of up to $15,000 that does not have a funding time limit
+- The current application requests the following:
+- A Focused Preservation and Restoration Grant of up to $15,000.00
+- Approval of a Focused Preservation and Restoration Grant of up to $15,000.00
+- Under the applicable funding resolution, the subject property is still eligible for a
+- “Focused” grant up to $15,000, which is limited to sustaining the existing form, integrity,
+- and materials of a historic property (not broader rehabilitation work). Eligibility for this
+- grant does not have an expiration date. Staff finds that there are eligible expenses in the
+- grant request that qualify for the “Focused” grant category to support a maximum grant
+- Background / Prior Discussions:
+- The parcel to the north, 625 Grant (Lots 4 & 5, Block 11), was also part of their
+- A tax bill on the property for 1910 was donated to the Historical Museum by Tom
+- the property to be $130.00 and the property taxes to be $6.89
+- John Mudrock (1910-1993), who also grew up at 613 Grant, had a son, Phil Mudrock,
+
+## [louisville#26] 2026-08-18 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Resolution No. 75, Series 2026 — A Resolution Approving a First Amendment
+- to the Business Assistance Agreement with Louisville Cyclery, LLC
+- B. Resolution No. 76, Series 2026 — A Resolution Approving a First Extension
+- and Amendment to Ice Rink Management and License Agreement with the
+- Main Street Louisville Business Improvement District
+- A. Resolution No. 77, Series 2026 — A Resolution Designating the Residence
+- Giorzelli House and Approving a Historic Preservation Fund Grant
+- There will be one round of public comment
+- B. Ordinance No. 1936, Series 2026 — An Ordinance Amending Title 17 of the
+- Lousiville Municipal Code Regarding Inclusionary Housing — 2nd Reading,
+- Public Hearing (advertised City of Louisville website 07/31/2026)
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- C. Appointment of Two Council Members to Conduct Annual Evaluations of the
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#27] 2026-08-18 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Resolution No. 75, Series 2026 — A Resolution Approving a First Amendment
+- to the Business Assistance Agreement with Louisville Cyclery, LLC
+- B. Resolution No. 76, Series 2026 — A Resolution Approving a First Extension
+- and Amendment to Ice Rink Management and License Agreement with the
+- Main Street Louisville Business Improvement District
+- A. Resolution No. 77, Series 2026 — A Resolution Designating the Residence
+- Giorzelli House and Approving a Historic Preservation Fund Grant
+- There will be one round of public comment
+- B. Ordinance No. 1936, Series 2026 — An Ordinance Amending Title 17 of the
+- Lousiville Municipal Code Regarding Inclusionary Housing — 2nd Reading,
+- Public Hearing (advertised City of Louisville website 07/31/2026)
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- C. Appointment of Two Council Members to Conduct Annual Evaluations of the
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Subject: Resolution No. 75, Series 2026 — A Resolution Approving a First
+- Amendment to the Business Assistance Agreement with Louisville
+- Prepared By: Vanessa Zarate, Economic Vitality Manager
+- Presented By: Vanessa Zarate, Economic Vitality Manager
+- A Business Assistance Program incentive was approved for Louisville Cyclery in April
+- 2021 for a 50% sales tax rebate for five years with a maximum rebate of $58,000. At the
+- time of the incentive approval, Louisville Cyclery was moving locations within Louisville
+- and existing sales tax was used to set a baseline to determine the incremental increase
+
+## [louisville#28] 2026-08-18 | City Council | agenda
+- Subject: Letter from Strong Towns Louisville: Inclusionary Housing Ordinance Suggestions
+- Attachments: IHO Amendment_Letter from Strong Towns Louisville.pdf
+- the proposed Inclusionary Housing Ordinance amendments coming before you. This
+- local architects, a planning professional, a local affordable and market-rate developer,
+- We all share the deep desire to see more affordable housing across the board, and
+- Zoning Reform First: Engaging local builders during our upcoming 2026
+- zoning reform before locking in new mandates or fee hikes
+- By-Right Certainty & Small-Project Exemptions: Providing predictable, by
+- right incentives and exempting small projects (10 to 12 units) to protect local
+- Community Development Corporation (CDC) and stacking historic preservation
+- capital to turn existing market-rate homes into permanent affordable housing
+- development,
+- developments
+- demonstrated
+- uncalibrated
+- below-market-rate
+- demonstrates
+- Small-Project
+- fee-in-lieu,
+- project-size
+- market-rate,
+- Subject: Quick Reminder: Anchoring Louisville’s Inclusionary Housing Updates in Economic Reality
+- Louisville ahead of Tuesday’s discussion
+- the Inclusionary Housing Ordinance altogether. Rather, we are asking Council to take
+- A recent analysis by Housing Forward Colorado titled "Beyond the Debate: How
+- Colorado Can Make Inclusionary Zoning Actually Work" captures this exact dynamic
+- zoning to succeed in Colorado communities, the code must be anchored in
+- development reality:
+- Incentives must equal the actual cost gap. Density bonuses, height
+- adjustments, and fee waivers aren't just perks, they have to mathematically
+- Offsets have to be granted by-right. If an incentive requires a separate Council
+- financing. That uncertainty wipes out the incentive's value
+- Mandates need broad zoning reform to work. Inclusionary policies can't carry
+- the whole weight of our housing goals on their own; they need a flexible
+- underlying zoning code to give projects room to succeed
+- If Louisville stays on the path of updating its IHO, we should ensure the incentives are
+- predictable, granted by-right, and genuinely offset the cost of constructing affordable
+- Council to exempt small infill projects of 10 to 12 units, swap rigid "like-for-like"
+- program using existing housing funds
+- Subject: Comment on the IHO update for your discussion tonight
+- Thanks for your efforts to increase the number of affordable housing units in Louisville. And
+- I have a few concerns about this ordinance
+- This revision to the ordinance will increase the number of affordable units. But with
+- new-build market rate units could drive up average prices in Louisville
+
+## [louisville#29] 2026-08-19 | Cultural Advisory Board | agenda
+- Cultural Services 951 Spruce Street Louisville CO 80027
+- The Board will accommodate public comments during the meeting. Anyone may
+- 3. Approval of the August 2026 Agenda
+- 4. Approval of May 2026 Minutes
+- 5. Public Comments
+- d. Marshall Fire Commemoration Update
+- 9. Board Discussion
+- presentation
+- o This is an Arts Grant funded event and the last of this series. I highly
+- o This is an Arts Grant funded event by an important Arts & Events partner. I
+- a. Community Event Sponsorship Program has been cancelled for budgetary
+- b. Council approved our submitted service level reduction – removal of Block
+- c. Marshall Fire Remembrance Survey is open until August 31 – please take the
+- aside Remembrance funds to the Superior project
+- d. Cultural Services Strategic Plan Survey is still open – please take it if you have
+- iii. FEEDBACK NEEDED: we would like to complete the project with an
+- i. Opening Reception for this project is coming up on September 4. This
+- project is turning out beautifully – please spread the word to your
+- i. We will complete the Public Art Committee Meeting for this project
+- before Iris goes on vacation in September. This meeting will ﬁnalize
+- ii. Staff plans to open up applications in October for artists who want to
+- c. Fire Station Block Party
+- company knocked it out of the park
+- Anecdotally, a lot of positive feedback about the nature and
+- ii. We plan on hosting the event again in 2027, but it is on a ‘performance
+- improvement plan,’ to see if we can get the kind of engagement that
+- IV. Arts Grants
+- a. Several arts grants programs have been completed – please see the attached
+- i. Nosilla Dance project completed
+- ii. Sans Souci project completed
+- July 2027! Please feel free to explore their website and follow them on
+- City of Louisville Art Program Grant Evaluation
+- Congratulations on receiving a Louisville Art Grant! We appreciate your efforts in advocating for and supporting
+- Amount of Art Grant Award: $_____2,000_____
+- Much like a book club, our program forms bonds between individuals who attend regularly together,
+- getting to know one another through the dialogue created around the film discussions. This helps aging
+- 3. Work toward ending Ageism: The films we show with older dancers are about representation, to
+- What sensations do I feel in my body while dancing? Do they bring me joy?
+- What movements feel great, keep me moving, and help me age well?
+- Did the activity generate any unexpected outcomes or impacts?
+- Was your organization able to achieve your program goals? If yes, how? If not, what improvements can be
+- The biggest improvement we can make would be to figure out how to have this program continue in an ongoing
+
+## [louisville#30] 2026-08-20 | City Council | agenda
+- The Council will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- same position on a given item, Council requests they select a spokesperson to state that position
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Budget Update
+- B. Q2 Revenue, Sales, and Bag Tax Report - June 2026
+- 7. 2026 Work Plan
+- A. 2026 Work Plan
+- Monthly Revenue and Tax Reports
+- Non-Profit Grant Award Recommendations, 2027-2028 Grant Cycle
+- Budget Update, if necessary
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#31] 2026-08-20 | City Council | agenda
+- The Council will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- same position on a given item, Council requests they select a spokesperson to state that position
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Budget Update
+- B. Q2 Revenue, Sales, and Bag Tax Report - June 2026
+- 7. 2026 Work Plan
+- A. 2026 Work Plan
+- Monthly Revenue and Tax Reports
+- Non-Profit Grant Award Recommendations, 2027-2028 Grant Cycle
+- Budget Update, if necessary
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Bryon Weber, Parks Project Manager
+- Rafael Gutierrez, Chief of Police
+- Travis Anderson, Revenue/Sales Tax Mgr
+- 2026 Budget Retreat Preview
+- Director Bailey presented the 2026 Budget Retreat Preview
+- Chair Hoefner encouraged the group consider that the cost of providing services is growing
+- and that, in review of this transitionary budget, if we continue to do what we've been doing we
+- will eventually hit a point where cost growth essentially eats up the entire budget, and we
+- won't have much flexibility to take on new projects or important projects, capital projects, and
+- presentation related to the Xcel franchise fee, Engineering review fee, this year’s sales tax
+- revenue reviews and future projection, General Fund gap, Parks General Fund usage per
+- year to cover expenses along with a request for added visuals that depict the delta, impact to
+- service levels, Capital Fund gap, Golf Course fees and discounts relevant to the Golf Fund,
+- Police Department market and merit adjustments, Utilities’ staff market adjustments, health
+- insurance provider cost increase, organizational strategic alignment, personnel
+- recommendations, requests and adjustments, Planning and Public Works permitting
+- timelines, acquisition reserve percentage, request for comprehensive 1-page CIP requests,
+- Chair invited any public comment and there was no public comment
+
+## [louisville#32] 2026-08-24 | Recreation Advisory Board | agenda
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of July meeting minutes
+- A. Bocce Court Update-Adam Blackmore, Director of Parks and Recreation
+- A. Golf Fees Update-James Franks, Deputy Finance Director
+- B. Director Updates-Adam Blackmore, Director of Parks & Recreation
+- 2. Long Range Plan Update
+- A. Golf Fees Sub Committee Report
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#33] 2026-08-24 | Recreation Advisory Board | agenda
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of July meeting minutes
+- A. Bocce Court Update-Adam Blackmore, Director of Parks and Recreation
+- A. Golf Fees Update-James Franks, Deputy Finance Director
+- B. Director Updates-Adam Blackmore, Director of Parks & Recreation
+- 2. Long Range Plan Update
+- A. Golf Fees Sub Committee Report
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Parks & Recreation Department 749 Main Street Louisville CO 80027
+- Approval of Agenda – The agenda was approved unanimously
+- Public Comments on non-Agenda Items and Consent Agenda Items
+- Approval of Minutes - The minutes from the June 22, 2026 meeting were
+- approved unanimously
+- Golf RAB Presentation - July 27
+- James asked the RAB to review golf round rate modeling results included in his
+- presentation. Increasing green fees (as the largest source of revenue) can’t
+- address funding issues alone, so City Council will need to consider cuts as well
+- He then led us through his presentation (see link above) that included various fee
+- increase modeling scenarios. These included a 0% annual green fee increase
+- fees would be required to cover projected expenses and generate a surplus; and
+- 2) a hypothetical 21% increase would not be enough to cover projected expenses
+- Adam asked that the RAB consider additional modeling scenarios they would like
+- recommendations for how best to address projected funding deficits over time
+- including an appropriate % increase in annual green fees
+- Michele suggested that we consider only Models 2 and 3 and some other RAB
+- flat fee model (#3). Otherwise, certain golfers (e.g., seniors) could be impacted
+- disproportionately. Lisa suggested we recommend a 5% annual green fee rate
+- the % increase the RAB recommends. She also suggested we consider other
+
+## [louisville#34] 2026-08-24 | Local Licensing Authority | agenda
+- Public comment will be accommodated during the meeting. Comments may also be
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Renewal Application
+- 1360 South 96th Street
+- C. Renewal Application
+- 641 Main Street
+- D. Renewal Application
+- 910 Cherry Street
+- E. Renewal Application
+- 1160 South Boulder Road
+- F. Renewal Application
+- G. Report of Changes - Retail Warehouse Storage Permit
+- 947 Pine Street
+- H. Renewal Application
+- A. Discussion Direction
+- Liquor Service - No Special Event Permit pulled
+- 525 Main Street
+- B. Discussion Direction
+- 1140 Pine Street Suite 1
+- 6. Police Department Report
+- A 2 business day notice is requested
+
+## [louisville#35] 2026-08-24 | Local Licensing Authority | agenda
+- Public comment will be accommodated during the meeting. Comments may also be
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Renewal Application
+- 1360 South 96th Street
+- C. Renewal Application
+- 641 Main Street
+- D. Renewal Application
+- 910 Cherry Street
+- E. Renewal Application
+- 1160 South Boulder Road
+- F. Renewal Application
+- G. Report of Changes - Retail Warehouse Storage Permit
+- 947 Pine Street
+- H. Renewal Application
+- A. Discussion Direction
+- Liquor Service - No Special Event Permit pulled
+- 525 Main Street
+- B. Discussion Direction
+- 1140 Pine Street Suite 1
+- 6. Police Department Report
+- A 2 business day notice is requested
+- Local Licensing Authority 749 Main Street Louisville, CO 80027
+- Robb Murphey, Police Sergeant
+- No public comments
+- Carpenter moved to approve the minutes; Machado seconded
+- 1303 Empire Road
+- 585 E South Boulder Road, Suites A & B
+- 935 Pine Street
+- i. Renewal Application - Hotel & Restaurant Liquor License
+- G. Renewal Application
+- 1148-6 W Dillon Road
+- I. Renewal Application
+- Vibe at Infinite LLC d/b/a Vibe Coffee & Wine
+- Clerk Kline updated the Authority on an incomplete application for a new liquor license
+- Subject: Renewal Application
+- X Incidents over the past year that required the filing of a police report
+- X Sales Tax account with the City of Louisville is current
+- Background / Prior Discussions:
+- Approve Renewal
+- Staff recommends approval of the renewal application
+- Subject: Report of Changes - Retail Warehouse Storage Permit
+- Approve the Change
+- Staff recommends approval of renewal
+
+## [louisville#36] 2026-08-25 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- B. Discussion & Direction: Draft PROS Guidebook
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- C. Appointment of Council Committee for Potential Amendments to City Manager
+- Employment Agreement
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#37] 2026-09-01 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 78, Series 2026 — A Resolution Adopting an Updated Policy
+- Sewer Backups or Water Meter Failures
+- C. Resolution No. 79, Series 2026 — Resolution Establishing Refuse,
+- Recyclables and Compostables Collection and Disposal Fees Effective
+- D. Resolution No. 80, Series 2026 — A Resolution Approving Three Quotes from
+- E. Resolution No. 81, Series 2026 — A Resolution Approving a Five-Year Quote
+- F. Resolution No. 82, Series 2026 — A Resolution Approving a Purchase
+- Contract to Buy and Sell Real Estate at 1501 Empire Road and the easterly
+- portion of 1303 Empire Road
+- A. City Manager's Initial Budget Presentation
+- One round of public comment will be taken for this item
+- B. 2026 Council Work Plan Update and 2027 Work Plan Discussion
+- C. Resolution No. 72, Series 2026 - A Resolution Approving the Centennial 8
+- Replat B to Facilitate a Minor Subdivision to Combine 1006 Honeysuckle Lane
+- public comment
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+- Award Development Code Update Contract
+- Housing Strategic Framework
+- Results from Marshall Fire Remembrance Survey
+- ChargeAhead Grant
+- Microsoft Renewal Agreement
+- City Manager's Contract
+- A 2 business day notice is requested
+
+## [louisville#38] 2026-09-01 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 78, Series 2026 — A Resolution Adopting an Updated Policy
+- Sewer Backups or Water Meter Failures
+- C. Resolution No. 79, Series 2026 — Resolution Establishing Refuse,
+- Recyclables and Compostables Collection and Disposal Fees Effective
+- D. Resolution No. 80, Series 2026 — A Resolution Approving Three Quotes from
+- E. Resolution No. 81, Series 2026 — A Resolution Approving a Five-Year Quote
+- F. Resolution No. 82, Series 2026 — A Resolution Approving a Purchase
+- Contract to Buy and Sell Real Estate at 1501 Empire Road and the easterly
+- portion of 1303 Empire Road
+- A. City Manager's Initial Budget Presentation
+- One round of public comment will be taken for this item
+- B. 2026 Council Work Plan Update and 2027 Work Plan Discussion
+- C. Resolution No. 72, Series 2026 - A Resolution Approving the Centennial 8
+- Replat B to Facilitate a Minor Subdivision to Combine 1006 Honeysuckle Lane
+- public comment
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+- Award Development Code Update Contract
+- Housing Strategic Framework
+- Results from Marshall Fire Remembrance Survey
+- ChargeAhead Grant
+- Microsoft Renewal Agreement
+- City Manager's Contract
+- A 2 business day notice is requested
+- City Council 749 Main Street Louisville, CO 80027
+- Rob Zuccaro, Community Development Director
+- Adam Blackmore, Parks, Open Space and Recreation Director
+- Rafael Gutierrez, Louisville Police Chief
+- Tiffany Boyd
+- The board gave a presentation on sustainability definitions, public views on
+- climate change, funding opportunities, water, building codes, and questions for
+- Council and the Sustainability Advisory Board discussed mitigation impacts; a
+- sustainability tax; collaboration between advisory boards; the importance of
+- fees; renewable energy; learning what other municipalities are doing to make
+
+## [louisville#39] 2026-09-01 | City Council | agenda
+- RE Question on agenda item 5.F. Sell Real Estate at 1501 Empire Road and the easterly portion of 1303 Empire Road..msg
+- Item 5B: Resolution No. 78, Series 2026 — A Resolution Adopting an Updated Policy Regarding Payments for Cleanup and/or Restoration ​Expenses Resulting
+- from Sewer Backups or ​Water Meter Failures
+- Answer (Mindy Olkjer): A sewer backup event occurred in November 2025 impacting a Louisville business. Although the City had no legal
+- should also be eligible since there is potential in the future that businesses may also experience impacts from sewer backups
+- Item 5C: Resolution No. 79, Series 2026 — Resolution Establishing Refuse, Recyclables and Compostables Collection and Disposal Fees Effective September 1,
+- Question: Why are the composting and recycling rates increasing? Historically, isn’t it just the Base Trash Collection Charge that has increased as a
+- Item 5F: Resolution No. 82, Series 2026 — A Resolution Approving a Purchase Contract to Buy and Sell Real Estate at 1501 Empire Road and the easterly
+- portion of 1303 Empire Road
+- Answer (Diana Langley): Below is a conceptual map showing 1501 Empire Road and the easterly portion of 1303 Empire Road
+- Question: Would the subdivision change the property’s zoning in any way?
+- Answer (Rob Zuccaro): The properties are currently zoned Industrial (I). Attached is a Zoning Verification letter for the property. The subdivision
+- would not change the zoning
+- plan will be developed by the City Manager to replenish the reserves as quickly as reasonably possible and will be presented as part of a long
+- term financial plan." Should we fall below, we'd need to act urgently; obviously, modeling below the 15% reserve is problematic and indicative of
+- Item 8C: Resolution No. 72, Series 2026 - A Resolution Approving the Centennial 8 Replat B to Facilitate a Minor Subdivision to Combine 1006 Honeysuckle
+- what structures would hypothetically be permitted to be constructed post consolidation?
+- In 2023, the City approved a replat to consolidate two lots in the Enclave Subdivision on West Pine Court. These two lots were also
+- Marshall Fire impacted properties
+- If the Honeysuckle Lane lot consolidation replat is approved, under current zoning, one single-family home and one accessory dwelling
+- maximum if an ADU is built. Therefore, the zoning would allow a new home to be built or an expansion to the existing home up to the
+- the largest lot in the PUD, but the PUD does not have maximum lot sizes, so it is difficult to say it is out of compliance with the zoning
+
+## [louisville#40] 2026-09-02 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Advisory Board
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from August 5, 2026
+- Parks and Open Space. Draft version attached, but also available at
+- A. Public Hearing — Centennial Valley General Development Plan for Future
+- Residential Development and Parks
+- B. Update Work Plan Accomplishments
+- C. Discussion Item — Memo to City Council to Consider Louisville Bee City USA
+- Committee Budget Proposal for Inclusion in 2027 Budget
+- D. Discussion Item — Memo to City Council to Prioritize Update to the Louisville
+- Integrated Weed Management Plan in the Coming Year and Request Input on
+- E. Discussion Item — Memo to Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- F. Discussion Item — Information on Mural for Railroad Cars at City East
+- G. Discussion Item — Items for Next Meeting
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#41] 2026-09-02 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Bee City
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes from August 5, 2026
+- Parks and Open Space. Draft is attached, but also available for viewing at
+- A. Discussion Item — Establish Louisville Bee City Work Plan
+- B. Discussion Item — Memo to City Council to Consider Louisville Bee City USA
+- Committee Budget Proposal for Inclusion in 2027 Budget
+- C. Discussion Item — Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan in the Coming Year and Request Input on
+- D. Discussion Item — Memo to Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- E. Discussion Item — Items for Next Meeting
+- speak in the appropriate public comments section
+- A forty-eight-hour notice is requested
+
+## [louisville#42] 2026-09-08 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- Informational only. While Council may ask questions and have discussion, no action will be taken by
+- Council. There will be no public comment section
+- C. Discussion / Direction: Upcoming Agenda Items & Identification of New Ones
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#43] 2026-09-08 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- Informational only. While Council may ask questions and have discussion, no action will be taken by
+- Council. There will be no public comment section
+- C. Discussion / Direction: Upcoming Agenda Items & Identification of New Ones
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- intended to create an open, collaborative discussion about the role of arts, culture,
+- administers the City’s annual Art Grant program, which provides direct support to artists
+- have an opportunity to share its priorities and perspectives and discuss how the City
+- The goal of the conversation is to exchange perspectives, identify areas of alignment,
+- Background / Prior Discussions:
+- City Council and the Cultural Advisory Board meet jointly each year to discuss priorities
+- Summer Concerts in the Park, the World Music Series, Transgender Day of
+- collection and administration of annual Art Grants, the CAB helps expand access to the
+- This year’s joint meeting provides an opportunity for Council and the CAB to consider
+- community participation and representation, and how arts and culture can contribute to
+- Louisville’s broader goals for community connection, vibrancy, and quality of life
+- Development Proposal:
+- Council Work Plan:
+- ARTS GRANTS4
+- EDI & REPRESENTATION
+- Accessibility Inclusion Diversity Representation
+- The impact of Arts & Events goes beyond the momentary engagement that participants feel during an event
+- Our programming creates the lasting feeling of connection needed to forge community and belonging
+- generates income for small businesses like
+- Keep it going!!!”“I really love the concerts in the park! Good
+- be taken by Council. There will be no public comment section
+- elected and appointed officials, volunteers, residents, and others who interact with the
+- In 2023, Colorado significantly amended its workplace harassment laws through the
+- other City-appointed commissions, boards, and committees. The policy prohibits
+- interact with employees, residents, volunteers, contractors, and one another. A shared
+- Although this is considered a City responsibility, each of us must take an active
+- the Human Resources Office immediately if they feel there is a violation of this
+
+## [louisville#44] 2026-09-09 | Open Space Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. 7:00pm Discussion Item:
+- B. 7:05pm PUBLIC HEARING / Action Item:
+- Centennial Valley General Development Plan Amendment-Future Trail
+- Range Plan & Trails System Plan. Presented by Susan McEachern, OSAB
+- E. 8:15pm Discussion Item:
+- Finalize Presentation for Upcoming Joint Meeting with City Council on October
+- F. 8:35pm Discussion Item:
+- G. Discussion Items for Next Meeting
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business notice is requested
+
+## [louisville#45] 2026-09-09 | Open Space Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. 7:00pm Discussion Item:
+- B. 7:05pm PUBLIC HEARING / Action Item:
+- Centennial Valley General Development Plan Amendment-Future Trail
+- Range Plan & Trails System Plan. Presented by Susan McEachern, OSAB
+- E. 8:15pm Discussion Item:
+- Finalize Presentation for Upcoming Joint Meeting with City Council on October
+- F. 8:35pm Discussion Item:
+- G. Discussion Items for Next Meeting
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business notice is requested
+- Open Space Division 749 Main Street Louisville CO 80027
+- Approval of Agenda – The agenda was modified to remove the introduction of Amanda
+- Accomando, as she was unable to attend. The modified agenda was approved by all
+- Approval of Meeting Minutes – The minutes from the July 8, 2026 meeting were
+- approved as written
+- Public Comments – Two residents expressed concerns about prairie dogs entering the
+- negative appearance of the area and requested that OSAB discuss appropriate prairie
+- posted. Update on 101 Cherry St. property – the city has purchased it. Two acres of the
+- reflected in the social trails evaluation matrix in the draft Trails Master Plan that is
+- 1. Discussion Item-Budget Update. Presented by Adam Blackmore, Director of
+- Parks, Recreation and Open Space
+- (Link to City Council July 22, 2026 Budget Retreat Materials:
+- Adam reviewed the city budget calendar. Last night was the Capital
+- Improvement Plan review process by council. Sept. 1 council meeting will be
+- the first formal budget presentation to council by the city manager. There
+- will be several more budget-focused council meetings before a likely 11/2
+- budget adoption. Individual budget line items could certainly change in that
+- time. Council is required to adopt a two-year balanced budget, but Adam
+
+## [louisville#46] 2026-09-09 | Revitalization Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- B. Grain Elevator Tax Increment Financing Agreement
+- B. Grain Yard Facade and Property Improvement Program Funding
+- C. Budget Carry Forward Discussion and Direction
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A forty-eight-hour notice is requested
+
+## [louisville#47] 2026-09-09 | Revitalization Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- B. Grain Elevator Tax Increment Financing Agreement
+- B. Grain Yard Facade and Property Improvement Program Funding
+- C. Budget Carry Forward Discussion and Direction
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A forty-eight-hour notice is requested
+- City Council 749 Main Street Louisville CO 80027
+- Staff Present: Vanessa Zarate, Economic Vitality Manager
+- Rob Zuccaro, Director of Community Development
+- APPROVAL OF CONSENT AGENDA
+- Vice Chair Harald called for approval of the consent agenda and there were no calls for
+- changes. Motion: Commissioner Tofte moved to approve the agenda. The motion was
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- there are concerns about how the Front and Center construction will impact Street Fair
+- CULTURAL SERVICES PRESENTATION
+- Brandi Cummings, Director of Cultural Services, shared a presentation on current
+- initiatives and projects that the cultural services team is working on and how they
+- BUDGET AMENDMENT DISCUSSION
+- Manager Zarate shared an update on the LRC budget and the potential of re-allocating
+- upsent funds from the 2025 Property Improvement Program totaling $344,400. Manager
+- Zarate shared options for reallocation and asked commissioners for their feedback
+- funds and let they stay in the fund balance. Manager Zarate responded yes that is an
+- program. Manager Zarate shared that the Economic Vitality Committee declined to
+- Facade Improvement Program and the Property Improvement Program. Manager
+- Zarate responded that staff is aware of 4 potential applicants
+- Commissioner Adler asked how many businesses on Front Street would be eligible for a
+- construction impact support grant. Manager Zarate responded that around 12
+- front and center project and how much is currently budgeted. Manager Zarate
+
+## [louisville#48] 2026-09-09 | Open Space Advisory Board | agenda
+- Agenda Item 7.C: 燩lease Further Refine the PROST Plan
+- Note that the City Charter is not referenced in the Implementation Plan, and should
+- be. At a minimum, references to the City Charter should be added to Strategies 0S
+- Reconsider proposed land classifications, particularly the 6% designated as
+- ecology protection practices, including buffers; and identify another 19% of the land
+- "balance. " Additionally, we ask OSAB to reconsider and make up for all the years that
+- and recreational access? " Summary of OSAB PROS and Trails Plan Comments It is
+- then consider everything else
+- this strategy strays from the City Charter by setting up an explicit, but unauthorized
+- With regard to the implementation plan, LOSA disagrees with the timeframe and priority of
+- for new projects and impacts AND is given a low priority and 6-10 year
+- Criteria of “characterized by a moderate to high level of relative ecological
+- importance.” For Preserve lands, the Charter directs that a “sufficient buffer area to permit
+- Remove Trail 18 (p. 54 of the trails plan) and other ecologically damaging trail
+- Dillon Road. If a connection in this area is necessary, connectivity should be routed along 96th Street
+- Correct Figure 10's graphic on fragmentation . The representation that fragmentation is
+- permitted for each of the 4 categories is highly misleading. Section 15-4 of Charter does not grant
+- attributes as "permitted management outcomes " misleads the public and undermines Article 15
+- Thanks for reading through this lengthy comment letter and considering our input
+- establish Louisville's Open Space Advisory Board. With this resolution, a
+- action summary from that meeting that could be included for OSAB's consideration?
+- parks, and I think that their discussion would be relevant to yours I emailed their staff
+- Dear Staff Liaison and Parks and Public Landscaping Advisory Board,
+- I see that “Staff recommends that PPLAB recommend approval of the public park components
+- of the proposed Centennial Valley GDP amendment, finding that they are consistent with
+- lands prior to giving your approval
+- The park, trail, and non-existent open space components of this GDP are inadequate. Since the
+- city is under no obligation to rezone these areas to residential, the city has leverage, and should
+- I hope you will disagree that these small proposed parks in the context of this large
+- development (that will grow the number of housing units in Louisville by 12%) are not consistent
+- “Neighborhood Center” development considerations include “Integrate housing,
+- commercial uses, and parks, trails, and plazas to create walkable neighborhoods that
+
+## [louisville#49] 2026-09-10 | Library Board of Trustees | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Discussion: Strategic Plan Findings - Preliminary Discussion
+- B. Discussion: Priorities and Goals for 2027 and 2028
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#50] 2026-09-15 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- (Louisville Charter Section 5-2(c) and C.R.S. 24-6-402(4)(a)). The City Manager is requesting the
+- City Council convene an Executive Session for the purpose of discussing real property acquisitions
+- estimates and strategy
+- Request for Executive Session
+- 4. Executive Session Report - Discussion / Direction / Action
+- 5. Approval of Agenda
+- 6. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 83, Series 2026 — A Resolution Approving a Quote from
+- C. Resolution No. 84, Series 2026 — A Resolution Approving an Agreement with Jason
+- A. Presentation: Housing Strategic Framework — Trestle Strategy Group
+- Presentations are informational only. While Council may ask questions and have discussion, no
+- action will be taken by Council. There will be one round of public comment
+- B. Ordinance No. 1936, Series 2026 — An Ordinance Amending Title 17 of the
+- Lousiville Municipal Code Regarding Inclusionary Housing — Public Hearing
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- C. Discussion / Direction: Survey Results — Marshall Fire Five Year
+- Remembrance Project
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- D. Ordinance No. 1937, Series 2026 — An Ordinance Extending and Amending a
+- Contract for the Lease and Purchase of Real Estate at 1155 Pine Street — 1st
+- Reading, Set Public Hearing
+- 1st Reading includes the Staff Presentation and questions from Council. There is no opportunity for
+- public comment. The Public Hearing (2nd Reading) will be set on this item for a later date. The Public
+- Hearing will allow 2 rounds of public comment
+- 12. Upcoming Agenda Items and Identification of Future Agenda Items
+
+## [louisville#51] 2026-09-15 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- (Louisville Charter Section 5-2(c) and C.R.S. 24-6-402(4)(a)). The City Manager is requesting the
+- City Council convene an Executive Session for the purpose of discussing real property acquisitions
+- estimates and strategy
+- Request for Executive Session
+- 4. Executive Session Report - Discussion / Direction / Action
+- 5. Approval of Agenda
+- 6. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 83, Series 2026 — A Resolution Approving a Quote from
+- C. Resolution No. 84, Series 2026 — A Resolution Approving an Agreement with Jason
+- A. Presentation: Housing Strategic Framework — Trestle Strategy Group
+- Presentations are informational only. While Council may ask questions and have discussion, no
+- action will be taken by Council. There will be one round of public comment
+- B. Ordinance No. 1936, Series 2026 — An Ordinance Amending Title 17 of the
+- Lousiville Municipal Code Regarding Inclusionary Housing — Public Hearing
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- C. Discussion / Direction: Survey Results — Marshall Fire Five Year
+- Remembrance Project
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- D. Ordinance No. 1937, Series 2026 — An Ordinance Extending and Amending a
+- Contract for the Lease and Purchase of Real Estate at 1155 Pine Street — 1st
+- Reading, Set Public Hearing
+- 1st Reading includes the Staff Presentation and questions from Council. There is no opportunity for
+- public comment. The Public Hearing (2nd Reading) will be set on this item for a later date. The Public
+- Hearing will allow 2 rounds of public comment
+- 12. Upcoming Agenda Items and Identification of Future Agenda Items
+
+## [louisville#52] 2026-09-15 | City Council | agenda
+- Ordinance No. 1936, Series 2026
+- Second Reading Amendments
+- Ordinance No. 1936, Series 2026 is revised to read as follows (second reading
+- amendments are shown in bold underline and bold strikeout):
+- ORDINANCE NO. 1936
+- AN ORDINANCE AMENDING TITLE 17 OF THE LOUISVILLE MUNICIPAL CODE
+- REGARDING INCLUSIONARY HOUSING
+- and quantity of affordable housing throughout the state; and
+- comprehensive plans provisions that will promote affordable housing; and
+- WHEREAS, the City Council finds the provisions of this ordinance address the
+- following housing policies of the City’s Comprehensive Plan:
+- Goal LU 1 . Increase Residential Development Opportunities
+- Strategy LU 1.5. Support housing types and locations that advance social
+- Goal LU 2 . Expand and Maintain Access to Affordable Housing
+- Strategy LU 2.3. Review and update the City’s inclusionary housing
+- requirements to continue to meet community housing goals and reflect
+- Strategy LU 2.4. Identify and pursue funding and incentive opportunities,
+- including grants, fee reductions, or density bonuses to encourage
+- affordable housing development and preservation
+- Strategy LU 2.5. Evaluate potential impacts of new and existing City rules
+- or policies (such as building codes, development standards, and fee
+- structures) on housing affordability before adoption to avoid unintended
+- Strategy LU 2.6. Continue to support the Boulder County Regional Housing
+- Strategy LU 2.7. Apply and strengthen requirements or incentives for
+- developments
+- Goal LU 3 . Diversify Louisville’s Housing Stock
+- Strategy LU 3.3. Require or encourage a mix of housing types, sizes, and
+- price points within larger residential or mixed- use projects to foster
+- WHEREAS, by Resolution No. 58, Series 2017, adopted on November 6, 2018,
+- the City endorsed the Boulder County Regional Housing Partnership, which recommends
+- a goal of ensuring twelve percent (12%) of the housing inventory will be permanently
+- affordable to low-, moderate-, and middle-income households by 2035; and
+- WHEREAS, the City Council finds a diverse housing stock within the City is
+- WHEREAS, based upon its review and consideration of housing studies, reports
+- and analysis, the City Council on June 15, 2021 adopted Ordinance No. 1809, Series
+- inclusionary housing requirements; and
+- WHEREAS, the City Council adopted the Louisville Housing Plan in May 2024,
+- which identifies strategies to expand access to affordable housing and includes
+- recommendations to evaluate and update the City’s inclusionary housing requirements to
+- better align with current market conditions and community housing goals; and
+
+## [louisville#53] 2026-09-16 | Historical Museum Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes from July 15, 2026 meeting
+- C. Approval of Deeds of Gift
+- A. HMAB Council session meeting presentation review
+- remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+
+## [louisville#54] 2026-09-16 | Historical Museum Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes from July 15, 2026 meeting
+- C. Approval of Deeds of Gift
+- A. HMAB Council session meeting presentation review
+- remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+- Cultural Services 951 Spruce Street Louisville CO 80027
+- III. Approval of agenda – agenda approved 4:0
+- IV. Approval of minutes for the May 20, 2026 regular meeting – see attached
+- draft - Agenda approved 4:0
+- V. Public comments on Items Not on the Agenda – no public comments
+- VII. Updates on City Projects - Brandi Cummings, Director of Cultural Services
+- A. Cultural Services and City project updates
+- C. Updates on Museum operations & projects
+- D. Approval of Deeds of Gifts from donors – Approved 4:0
+- ticket template for printing
+- Property tax receipts 1966, handwritten recipe for white paint
+- E. Advice sought on donations of other artifacts being offered - none
+- IX. HMAB Work Plan for 2026
+- HMAB budget request. Board members reviewed the slide
+- presentation for the upcoming Council session
+- i. HMAB budget request for 2027 – see attached memo
+- XI. Commission comments & discussion items for next meeting (Sept 22, 2026)
+- meeting times were discussed for September in regard to adding the
+- B. Only essential business and approval of deeds for Sept 22
+- Governed” and the bumpy road to Colorado statehood and suffrage. Please stop by to
+- Support for Museum initiatives – strategic planning, STEPS (Standards and Excellence Program
+- Pioneer Award – Review and select community member with Louisville History Foundation
+- Arts & Events/ Cultural Advisory Board – SCFD grant support and shared initiatives
+- 23,000 Historic artifacts
+- SCFD (Scientific Cultural Facilities District)
+- 97% rated overall Museum services
+- 98% rated Museum customer services
+
+## [louisville#55] 2026-09-16 | Sustainability Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Presentation/Discussion: Power Ahead Colorado (PACO) and Heat Pumps
+- B. Discussion: City Council_LSAB Debrief
+- C. Discussion/Direction: 2027 Legislative Agenda
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#56] 2026-09-16 | Sustainability Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Presentation/Discussion: Power Ahead Colorado (PACO) and Heat Pumps
+- B. Discussion: City Council_LSAB Debrief
+- C. Discussion/Direction: 2027 Legislative Agenda
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Tiffany Boyd
+- APPROVAL OF AGENDA
+- APPROVAL OF MINUTES
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- Tiffany Boyd: Consider tweaking August 11th City Council/LSAB slides to ask for Sustainabilty
+- and Building Code taskforce, or other potential funding mechanisms. Also consider aligning
+- DISCUSSION AND DIRECTION ITEM: Reallocation Proposal
+- Hannah provided a presentation on the proposed electrification rebate programs
+- an IGA with PACO, whereas Louisville has existing contracts with PACE and Boulder
+- part of the Discussion. Advisory Board Members also shared their feedback and comments
+- All members of LSAB voted to approve
+- Public Comment
+- Kevin Lombardo: Wants LSAB to consider the impacts of decarbonization homes vs commercial
+- to make the most meaningful impact on our decarbonization plan
+- The Deputy City Manager recently presented to City Council on the development of a Boards and
+- Commissions Handbook. Council directed staff to further explore this initiative. Key considerations
+- Reminder to schedule your water meter replacement! Click here to learn more
+- Seven businesses applied for the Commercial Sustainability Rebate and were preliminarily awarded
+- Staff are working through the award process with businesses so that they can begin projects. Boulder
+- County PACE’s helping businesses submit applications was crucial this year. After 2026 projects are
+- awarded, staff will meet to determine how to improve upon the program, help businesses implement
+
+## [louisville#57] 2026-09-17 | City Council | agenda
+- AMENDED AGENDA
+- The Council will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- same position on a given item, Council requests they select a spokesperson to state that position
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Recommended Non-Profit Grant Awards for 2027 / 2028 Award Cycle
+- B. Revised 2027 Utility Rate Presentation and Discussion — This Item Will Not
+- Be Discussed and Will Be Heard at a Future Meeting
+- C. Monthly Revenue & Sales Tax Report
+- D. Budget Update - General Fund Update
+- 7. 2026 Work Plan
+- A. Work Plan
+- Budget Update, if necessary
+- Utility Rate structure/setting process Update
+- 2027 City Manager Fee Update Annual Review
+- Chandler Investment Presentation – Economic Outlook & Investments Update
+- Monthly Revenue & Sales Tax Reports
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#58] 2026-09-21 | Recreation Advisory Board | agenda
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approve August Meeting Minutes
+- A. 2027 Recreation & Senior Center Proposed Fees — Kathy Martin and Jesse
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#59] 2026-09-21 | Recreation Advisory Board | agenda
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approve August Meeting Minutes
+- A. 2027 Recreation & Senior Center Proposed Fees — Kathy Martin and Jesse
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Parks & Recreation Department 749 Main Street Louisville CO 80027
+- Approval of Agenda – The agenda was approved unanimously
+- Public Comments on non-Agenda Items and Consent Agenda Items
+- Approval of Minutes
+- requesting better maintenance of and capital improvements to the bocce facilities
+- at Memory Square and Community Parks. Adam stressed that there is no interest
+- from City Council or City staff to add improvements to the Capital Improvements
+- Plan (CIP). RAB members emphasized the importance of maintaining the courts to
+- Golf Fees and Passes for 2027: RAB reviewed the financial models presented by
+- as rates for the 2027 season passes. See the RAB Memorandum for a detailed
+- explanation of the measure presented for approval
+- All approved
+- result in some savings. The current plan is for concrete and walls to be
+- constructed this fall, weather dependent, and project completion by Spring 2027
+- Tennis courts – Centennial 2 east courts – project is going out to bid for rebuild of
+- Shade structure outside the turf gym is going to contractors for bids
+- The PROS Long Range Plan is currently out for review; the public engagement
+- shape, especially considering the drought conditions
+- Rec Center fee recommendations
+- Marketing plan
+- Re: 2027 Golf Course Fees, Annual Passes & Residents
+- recommendations to City Council for incorporation in the 2027 budget. The RAB has
+- 2027 Golf Fee Recommendation
+- manner. This includes balancing fees charged to the public with an awareness of the
+- competitiveness of the local golf scene. While fee revenue should be maximized, this
+
+## [louisville#60] 2026-09-22 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- B. Discussion / Direction: Budget Update — Special Events & Capital Refinement
+- C. Resolution No. 86, Series 2026 — A Resolution Approving an Ice Rink
+- Management and License Agreement with the Downtown Business Authority
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#61] 2026-09-22 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- B. Discussion / Direction: Budget Update — Special Events & Capital Refinement
+- C. Resolution No. 86, Series 2026 — A Resolution Approving an Ice Rink
+- Management and License Agreement with the Downtown Business Authority
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- (HMAB) is intended to create an open, collaborative discussion about the role of local
+- to broaden our understanding of the community—reflecting the people, experiences,
+- share its priorities and perspectives and discuss how the City can continue fostering a
+- Background / Prior Discussions:
+- discuss priorities for history, preservation, and education and to maintain strong
+- This year’s joint meeting provides an opportunity for Council and the HMAB to consider
+- community participation and representation, and how local history can contribute to
+- Louisville’s broader goals for community connection, vibrancy, and quality of life
+- Development Proposal:
+- Council Work Plan:
+- Support for Museum initiatives – strategic planning, STEPS (Standards and Excellence Program
+- Pioneer Award – Review and select community member with Louisville History Foundation
+- Arts & Events/ Cultural Advisory Board – SCFD grant support and shared initiatives
+- 23,000 Historic artifacts
+- Historic Preservation Tax
+- SCFD (Scientific Cultural Facilities District)
+- 97% rated overall Museum services
+- 98% rated Museum customer services
+- town and the people who created it. – 2017 Museum Plan
+- DEI & Representation
+- support DEI and diverse representation
+- Recognition and Representation
+- Research – telling accurate stories
+- Professional development – historical trends,
+- representation, budget
+- Consultation fees – DEI and cultural
+- artifacts, provenance, authenticity
+- Disaster / heritage response plan
+- Historic artifacts
+- Exhibit spaces and artifacts
+- Conservation projects
+- City Council Input/ Feedback
+- Museum growth and future – update 2017 museum plan to new priorities
+- Priority capital projects – Trott-Downer cabins
+- Funding strategies for Museum – HMAB and Foundation
+- How can HMAB support the Historic Preservation Tax measure?
+- Subject: Discussion / Direction: Budget Update — Special Events & Capital
+- Following multiple Budget Development Discussions, Staff is focusing today on the
+- latest, refined Six-Year 2027-2032 Capital Improvement Plan (Plan). Most recently, at
+- 28 Budget and the 2027-2032 Capital Improvement Plan. As of today, Staff has a
+
+## [louisville#62] 2026-09-22 | City Council | agenda
+- Directing Louisville's budget to address carbon emissions is one of the most beneficial
+- applications, good electrical options exist and the City should be electrifying with all possible
+- additional carbon emissions and that you will task Staff with drawing up a budget and timeline
+
+## [louisville#63] 2026-09-28 | Local Licensing Authority | agenda
+- Public comment will be accommodated during the meeting. Comments may also be
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Renewal Application
+- C. Renewal Application
+- 1132 West Dillon Road Unit 1
+- D. Renewal Application
+- 836 Main Street
+- E. Renewal Application
+- F. Renewal Application
+- G. Renewal Application
+- 701 Main Street
+- H. Renewal Application
+- I. Renewal Application
+- 640 Main Street Suite A
+- J. Renewal Application
+- K. Renewal Application
+- L. Renewal Application
+- 1355 East South Boulder Road
+- M. Report of Changes — Change in Corporate Structure Application
+- 1140 Pine Street Suite 1
+- A. New Liquor License Application
+- 912 West Dillon Road
+- 525 Main Street
+- 6. Police Department Report
+- 1700 Dogwood Street
+- A 2 business day notice is requested
+
+## [louisville#64] 2026-09-28 | Local Licensing Authority | agenda
+- Public comment will be accommodated during the meeting. Comments may also be
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes
+- B. Renewal Application
+- C. Renewal Application
+- 1132 West Dillon Road Unit 1
+- D. Renewal Application
+- 836 Main Street
+- E. Renewal Application
+- F. Renewal Application
+- G. Renewal Application
+- 701 Main Street
+- H. Renewal Application
+- I. Renewal Application
+- 640 Main Street Suite A
+- J. Renewal Application
+- K. Renewal Application
+- L. Renewal Application
+- 1355 East South Boulder Road
+- M. Report of Changes — Change in Corporate Structure Application
+- 1140 Pine Street Suite 1
+- A. New Liquor License Application
+- 912 West Dillon Road
+- 525 Main Street
+- 6. Police Department Report
+- 1700 Dogwood Street
+- A 2 business day notice is requested
+- Local Licensing Authority 749 Main Street Louisville, CO 80027
+- Robb Murphey, Police Sergeant
+- No public comments
+- 1360 South 96th Street
+- 641 Main Street
+- 910 Cherry Street
+- 1160 South Boulder Road
+- G. Report of Changes - Retail Warehouse Storage Permit
+- 947 Pine Street
+- A. Discussion Direction
+- Liquor Service - No Special Event Permit pulled
+- The Local Licensing Authority discussed Tri City Elks Lodge 2541. The LLA gave
+- B. Discussion Direction
+- Subject: Renewal Application
+- X Incidents over the past year that required the filing of a police report
+- X Sales Tax account with the City of Louisville is current
+- Background / Prior Discussions:
+- Approve the Renewal Application
+- Subject: Report of Changes — Change in Corporate Structure Application
+- Approve the Change in Corporate Structure
+- Approve the Change of Manager
+- Subject: New Liquor License Application
+- Approve the application with conditions. The City of Louisville has conducted the
+- background investigations, there must be a new manager listed on the application, and
+- background check along with their application
+
+## [louisville#65] 2026-10-01 | Youth Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine and shall be approved, adopted,
+- accepted, etc., by motion of the Board and voice vote unless a Board member specifically requests
+- an item be considered under “Regular Business.” In such an event the item shall be removed from
+- the “Consent Agenda” and action taken separately on said item in the order appearing on the
+- Agenda. Those items so approved under the heading “Consent Agenda” will appear in the minutes
+- remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+
+## [louisville#66] 2026-10-01 | Youth Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine and shall be approved, adopted,
+- accepted, etc., by motion of the Board and voice vote unless a Board member specifically requests
+- an item be considered under “Regular Business.” In such an event the item shall be removed from
+- the “Consent Agenda” and action taken separately on said item in the order appearing on the
+- Agenda. Those items so approved under the heading “Consent Agenda” will appear in the minutes
+- remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+
+## [louisville#67] 2026-10-06 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 85, Series 2026 — A Resolution of the Louisville City Council
+- 2026 Election Concerning the City's Historic Preservation Tax
+- C. Resolution No. 87, Series 2026 — A Resolution Approving an Agreement for
+- i. Resolution No. 88, Series 2026 - A Resolution Approving an Intergovernmental
+- Agreement Concerning the Purchase of the Gateway Open Space Property
+- ii. Resolution No. 89, Series 2026 - A Resolution Approving a Deed of
+- E. Development Code Update
+- i. Resolution 91, Series 2026 - A Resolution Accepting Grant Funds from
+- the Colorado Department of Local Affairs for Development Code Update
+- ii. Resolution No. 92, Series 2026 - A Resolution Approving an Agreement
+- F. City Manager Employment Agreement
+- A. Ordinance No. 1938, Series 2026 — An Ordinance Adopting by Reference the
+- 1st Reading includes the Staff Presentation and questions from Council. There is no opportunity for
+- public comment. The Public Hearing (2nd Reading) will be set on this item for a later date. The Public
+- Hearing will allow 2 rounds of public comment
+- B. Concept Plan: Centennial Drive Affordable Senior Housing
+- C. Ordinance No. 1937, Series 2026 — An Ordinance Extending and Amending a
+- Contract for the Lease and Purchase of Real Estate at 1155 Pine Street —
+- 2nd Reading, Public Hearing (advertised City of Louisville website 09/22/2026)
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- D. Discussion / Direction: Board and Commission Handbook Update
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+
+## [louisville#68] 2026-10-06 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 85, Series 2026 — A Resolution of the Louisville City Council
+- 2026 Election Concerning the City's Historic Preservation Tax
+- C. Resolution No. 87, Series 2026 — A Resolution Approving an Agreement for
+- i. Resolution No. 88, Series 2026 - A Resolution Approving an Intergovernmental
+- Agreement Concerning the Purchase of the Gateway Open Space Property
+- ii. Resolution No. 89, Series 2026 - A Resolution Approving a Deed of
+- E. Development Code Update
+- i. Resolution 91, Series 2026 - A Resolution Accepting Grant Funds from
+- the Colorado Department of Local Affairs for Development Code Update
+- ii. Resolution No. 92, Series 2026 - A Resolution Approving an Agreement
+- F. City Manager Employment Agreement
+- A. Ordinance No. 1938, Series 2026 — An Ordinance Adopting by Reference the
+- 1st Reading includes the Staff Presentation and questions from Council. There is no opportunity for
+- public comment. The Public Hearing (2nd Reading) will be set on this item for a later date. The Public
+- Hearing will allow 2 rounds of public comment
+- B. Concept Plan: Centennial Drive Affordable Senior Housing
+- C. Ordinance No. 1937, Series 2026 — An Ordinance Extending and Amending a
+- Contract for the Lease and Purchase of Real Estate at 1155 Pine Street —
+- 2nd Reading, Public Hearing (advertised City of Louisville website 09/22/2026)
+- The Public Hearing will be held and 2 rounds of public comment will be taken, along with Council
+- questions and discussion. Final action may be taken on this item
+- D. Discussion / Direction: Board and Commission Handbook Update
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- 10. Upcoming Agenda Items and Identification of Future Agenda Items
+
+## [louisville#69] 2026-10-06 | City Council | agenda
+- Resolution No. 93, Series 2026
+- RESOLUTION NO. 93
+- A RESOLUTION APPROVING A FIRST AMENDED EMPLOYMENT AGREEMENT
+- WHEREAS, by that Employment Agreement for City Manager dated February 11,
+- employment related thereto, as set forth in the First Amended Employment Agreement
+- that accompanies this resolution; and
+- WHEREAS, by this Resolution the City Council desires to approve the Amended
+- Section 1. The City Council hereby approves the First Amended Employment
+- Agreement for City Manager by and between the City of Louisville and Diana Langley (the
+- “Amended Agreement”) in substantially the same form as the copy of such Amended
+- Agreement accompanying this Resolution
+- Section 2. The Mayor is hereby authorized to execute the Amended Agreement
+- on behalf of the City, and the Mayor is hereby further authorized to negotiate and approve
+- such revisions to the Amended Agreement as the Mayor determines are necessary or
+- the Amended Agreement are not altered
+- Discussion & Direction
+- Handbook Project
+- Project Purpose
+- To provide an update on the project and obtain Council direction
+- on critical components of the project
+- Background & Prior Discussions
+-  Board & Commission related items discussed periodically, in
+-  Parks & Public
+- B/C Work Plan Process
+- hearing and decisions are based on the application of current standards and
+- policies to the facts at the hearing. Quasi-judicial matters have specific
+-  Grants – HPC, CAB
+-  Project – YAB
+-  LLA to Administration, with hearing officer
+-  If yes, staff will note this in the application process
+-  Staff recommends further discussion on 10/20
+-  If yes – Staff will incorporate into B/C applications
+- is considering in the application and recommends Council discuss
+- discuss further, or provide a
+-  Applications will go out this week
+- appointments in case Council wants to consider re-appointing those impacted
+-  10/20 Continue Council Discussion/Direction
+- Agenda Item 8A – Model Traffic Code Ordinance
+- Question: The local amendment to Section 1101(1) replaces the model code’s
+- Answer (Melinda Culley): I reviewed the City’s prior ordinances adopting the
+- not posted, so this may not affect that many streets
+- the speed limit, but it may be helpful to discuss this further with Public Works
+- Question: I understand that the ordinance adopts the published 2024 edition of the
+- model code, subject to our local amendments. It looks like some subsequent state-law
+- updates were considered as part of our amendments (e.g., HB25-1112). I am curious as
+- to whether other updates to state law were also considered, especially the following
+
+## [louisville#70] 2026-10-07 | Bee City Subcommittee  | agenda
+- Parks & Public Landscaping Bee City
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes from prior Bee City Subcommittee Meetings-August 5,
+- A. Announcement-The City of Louisville Parks Department is pleased to
+- A. Discussion Item-Memo to City Council to Consider Louisville Bee City USA
+- Committee Budget Proposal for Inclusion in 2027 Budget
+- B. Discussion Item-Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan in the Coming Year and Request Input on
+- C. Discussion Item-Memo to City Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- D. Discussion Item-Memo to Council Requesting Clarification of Bee City
+- E. Discussion Item-Establish Louisville Bee City Work Plan
+- F. Discussion Item-Items for Next Meeting
+- speak in the appropriate public comments section
+- A forty-eight-hour notice is requested
+
+## [louisville#71] 2026-10-07 | Bee City Subcommittee  | agenda
+- Parks & Public Landscaping Bee City
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes from prior Bee City Subcommittee Meetings-August 5,
+- A. Announcement-The City of Louisville Parks Department is pleased to
+- A. Discussion Item-Memo to City Council to Consider Louisville Bee City USA
+- Committee Budget Proposal for Inclusion in 2027 Budget
+- B. Discussion Item-Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan in the Coming Year and Request Input on
+- C. Discussion Item-Memo to City Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- D. Discussion Item-Memo to Council Requesting Clarification of Bee City
+- E. Discussion Item-Establish Louisville Bee City Work Plan
+- F. Discussion Item-Items for Next Meeting
+- speak in the appropriate public comments section
+- A forty-eight-hour notice is requested
+- Parks Division 749 Main Street Louisville CO 80027
+- Parks & Public Landscaping
+- Louisville Public Library 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may
+- Staff Liaison, Chris Davis, Parks Superintendent
+- Parks & Public Landscaping Advisory Board
+- 4. Approval of Agenda
+- 5. Approval of Minutes
+- 6. Public Comments on Items Not on the Agenda and Items on the
+- Public comments are limited to 3 minutes per speaker. When several people
+- The following items on the Consent Agenda are considered routine, and
+- shall be approved, adopted, accepted, etc. by a motion of the Board unless
+- a board member specifically requests an item be considered under "Regular
+- Agenda" and action taken separately on said item in the order appearing on
+- the agenda. Those items so approved under the heading "Consent Agenda"
+- Staff Liaison: Chris Davis, Parks Superintendent
+- 3. Approval of Agenda
+- Moved: Susan McEachern, Seconded: John Webb, Agenda Approved
+
+## [louisville#72] 2026-10-07 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Advisory Board
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from September 2, 2026
+- A. Announcement-The City of Louisville Parks Department is pleased to
+- B. PPLAB Work Plan
+- A. Discussion Item-Community Park Improvements, including shade structures
+- B. Discussion Item-City Response to community member's comments from
+- C. Discussion Item-Memo to City Council to Consider Louisville Bee City USA
+- Committee Budget Proposal for Inclusion in 2027 Budget
+- D. Discussion Item-Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan in the Coming Year and Request Input on
+- E. Discussion Item-Memo to Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- F. Discussion Item-Information on Mural for Railroad Cars at City East Entrance
+- G. Discussion Item-Volunteer Program for Parks and Native Plantings
+- H. Discussion Item-Pursuit of grants for landscaping and to add/improve gardens
+- at Community Park and Arboretum
+- I. Discussion Item-Items for Next Meeting
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#73] 2026-10-07 | Parks & Public Landscaping Advisory Board | agenda
+- Parks & Public Landscaping Advisory Board
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Meeting Minutes from September 2, 2026
+- A. Announcement-The City of Louisville Parks Department is pleased to
+- B. PPLAB Work Plan
+- A. Discussion Item-Community Park Improvements, including shade structures
+- B. Discussion Item-City Response to community member's comments from
+- C. Discussion Item-Memo to City Council to Consider Louisville Bee City USA
+- Committee Budget Proposal for Inclusion in 2027 Budget
+- D. Discussion Item-Memo to City Council to Prioritize Update to Louisville
+- Integrated Weed Management Plan in the Coming Year and Request Input on
+- E. Discussion Item-Memo to Council to Support Efforts to Purchase Pesticide
+- Free Plants for Parks Landscaping
+- F. Discussion Item-Information on Mural for Railroad Cars at City East Entrance
+- G. Discussion Item-Volunteer Program for Parks and Native Plantings
+- H. Discussion Item-Pursuit of grants for landscaping and to add/improve gardens
+- at Community Park and Arboretum
+- I. Discussion Item-Items for Next Meeting
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Parks Division 749 Main Street Louisville CO 80027
+- Parks & Public Landscaping
+- Chris David, Parks Superintendent
+- Rob Zuccaro, Community Development Director
+- 2. Approval of Agenda – There was a motion to move the Staff Report to
+- item 6, after the Centennial Valley report. Motion approved
+- 3. Public Comments on Items Not on the Agenda and Items on the
+- a. George Colbert – This comment is relevant to the future of Parks in
+- in the PROS plan, but there is time to amend this. There should be
+- a long-term plan for bocce: preservation and repair, enhancement
+- are not good, it is time to improve them. Courts at Community Park
+
+## [louisville#74] 2026-10-08 | Planning Commission | agenda
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comment on Items Not on the Board Agenda and Items on the
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak to the
+- same position on a given item, the board requests they select a spokesperson to state that position
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of 2026 Minutes - January, February (2 meetings), March, May, July
+- B. Development Code Update
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#75] 2026-10-08 | Planning Commission | agenda
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comment on Items Not on the Board Agenda and Items on the
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak to the
+- same position on a given item, the board requests they select a spokesperson to state that position
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of 2026 Minutes - January, February (2 meetings), March, May, July
+- B. Development Code Update
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Community Development 749 Main Street Louisville CO 80027
+- 749 Main Street
+- Rob Zuccaro, Director of Community Development
+- APPROVAL OF AGENDA
+- APPROVAL OF MINUTES
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PUBLIC HEARING ITEMS – NEW BUSINESS
+- ii. Approval of Posting Locations for Agendas and Expected 2026 Planning
+- A motion to approve posting locations and meeting dates for 2026 was
+- b. Louisville Comprehensive Plan Discussion
+- Staff Presentation:
+- Staff reviewed the structure of the plan, including the vision statement, core
+- values, policy elements, and action plan. Staff highlighted the future land use
+- framework, opportunity areas for redevelopment, and estimated potential growth
+- projections were not targets or requirements, but estimates used for planning
+- Staff also outlined implementation steps anticipated following plan adoption,
+- including updates to the development code, development impact fees, park and
+- Water supply and utility capacity
+- Energy and water efficiency strategies
+- The relationship between proposed place types and existing zoning districts
+- Public Comment:
+- Public comments included:
+- Support for incremental housing options and updated downtown design
+- Concerns regarding the projected level of population and housing growth
+- Questions about impacts to traffic, water supply, and infrastructure
+- Concerns regarding evacuation routes, wildfire risk, and community character
+- Requests for additional financial analysis of residential growth impacts
+
+## [louisville#76] 2026-10-13 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- There will be one round of public comment. There will be no final decisions made on this item
+- B. Discussion / Direction: Special Events Follow-up
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- C. Upcoming Agenda Items & Identification of New Ones — October 14, 2026 to
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#77] 2026-10-13 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- There will be one round of public comment. There will be no final decisions made on this item
+- B. Discussion / Direction: Special Events Follow-up
+- Discussion / Direction provides Council with the opportunity to learn about an item, ask questions,
+- and provide feedback to staff. There will be one round of public comment. There will be no final
+- C. Upcoming Agenda Items & Identification of New Ones — October 14, 2026 to
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Background / Prior Discussions:
+- discuss Council's Work Plan, the board's work plan, and alignment of the two, provide
+- direction, and discuss matters of mutual interest. Current OSAB members are:
+- Development Proposal:
+- OSAB has prepared a presentation for Council and is seeking guidance on the
+- Is there anything else that OSAB should consider related to the Council Work
+- Council guidance on any non-work plan items?
+- Council Work Plan:
+- OSAB supports many items on Council's Work Plan
+- Not applicable. There is no fiscal / budget impact for this item
+- Receive a presentation from OSAB
+- 1. 2026 City Council & OSAB Joint Meeting Powerpoint Presentation
+- § 2026 City Council Priorities and Work Plan
+- § Discussion/Direction from City Council
+- § There shall be a Louisville Citizens Open Space Advisory Board composed of seven Louisville residents appointed by the city council . . . In addition to the regular members of the
+- board, the city council may appoint one alternate member of the board
+- B. The board shall, from time to time, review the open space master plan and make recommendations for changes to such plan based on new information and or circumstances
+- D. The board shall provide recommendations to the Council and/ or Planning Commission on development applications as provided in Section 4. 02. 050. The City Manager or
+- designee may also refer any development applications found to materially impact open space lands to the board for recommendation to the Council and/or Planning Commission
+- F. Provide input to the planning commission and city council on revisions of the plan
+- I. Provide recommendations as to how the city can manage park and other land adjacent to open space lands in a manner that best promotes the continued integrity of open
+- 2026 Council Work Plan
+- Affordable Housing
+- § Reviewed and provided feedback to staff:
+- § Annual wildfire operational mitigation plans
+
+## [louisville#78] 2026-10-14 | Open Space Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes-OSAB meeting September 9, 2026
+- A. 7:00pm Discussion Item: Debrief from Joint meeting with City Council on
+- C. 7:45pm Discussion: Develop OSAB Recommendation Regarding City Council
+- D. 8:05pm Discussion Items for Next Meeting
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business notice is requested
+
+## [louisville#79] 2026-10-14 | Open Space Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of Minutes-OSAB meeting September 9, 2026
+- A. 7:00pm Discussion Item: Debrief from Joint meeting with City Council on
+- C. 7:45pm Discussion: Develop OSAB Recommendation Regarding City Council
+- D. 8:05pm Discussion Items for Next Meeting
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business notice is requested
+- Open Space Division 749 Main Street Louisville CO 80027
+- Approval of Agenda – The agenda was approved by all members
+- Approval of Meeting Minutes – The minutes from the August 6, 2026, meeting were
+- approved as written
+- Public Comments – No comments on items not on the agenda
+- 2. Public Hearing: Centennial Valley General Development Plan Amendment:
+- requirement for this project but that OSAB does have the statutory ability to
+- recommend further open space as part of the development process
+- There was general agreement among board members to support a trail
+- Decision: The draft resolution was approved unanimously with the addition of
+- Plan and Trails System Plan
+- Bryon (PROS project manager) clarified that comments from OSAB need to get to
+- the staff to make final revisions in the plan before presenting the plans to council
+- for approval. The timeline for council approval has not yet been determined
+- There was some discussion of including support for dark skies regulations in the
+- consider later how it could support dark skies initiatives
+- items to retain in the PROS plan
+- development proposal and will forward to council. OSAB supported
+- 5. Finalize Presentation for Upcoming Joint Meeting with City Council
+- ● Approved as written. OSAB agreed to include an oral discussion of its
+- Baseline and in the Centennial Parkway GDP
+- 2. Discuss Possible OSAB recommendation regarding City Council consideration of a
+
+## [louisville#80] 2026-10-15 | City Council | agenda
+- The Council will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- same position on a given item, Council requests they select a spokesperson to state that position
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Chandler Investment Presentation - Economic Outlook & Investments Update
+- B. 2027 City Manager Fee Update Annual Review
+- C. Monthly Revenue and Sales Tax Reports
+- D. Budget Progress Update
+- 7. 2026 Work Plan
+- A. 2026 Work Plan
+- Preliminary 2027 Finance Committee Work Plan Discussion
+- Final Citywide Budget Amendment Review
+- Q3 Revenue, Sales and Bag Tax Report
+- Utility Rate structure/setting process Update
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+
+## [louisville#81] 2026-10-15 | City Council | agenda
+- The Council will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- same position on a given item, Council requests they select a spokesperson to state that position
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- A. Chandler Investment Presentation - Economic Outlook & Investments Update
+- B. 2027 City Manager Fee Update Annual Review
+- C. Monthly Revenue and Sales Tax Reports
+- D. Budget Progress Update
+- 7. 2026 Work Plan
+- A. 2026 Work Plan
+- Preliminary 2027 Finance Committee Work Plan Discussion
+- Final Citywide Budget Amendment Review
+- Q3 Revenue, Sales and Bag Tax Report
+- Utility Rate structure/setting process Update
+- meeting. If you are attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments
+- A forty-eight-hour notice is requested
+- Bryon Weber, Parks Project Manager
+- Travis Anderson, Revenue/Sales Tax Mgr
+- Melissa Lundgren, Tax Auditor II
+- Hope Wheelock, Sales Tax Technician
+- Kelsey Parker
+- APPROVAL OF AGENDA
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA AND ITEMS ON THE
+- Chair invited any public comment. No public comment
+- A. Approval of FiCom Aug 20 Meeting Minutes
+- A. Recommended Non-Profit Grant Awards for 2027 / 2028 Award Cycle
+- require any reporting metrics from award recipients and what process is used to
+- determine which applicants receive awards
+- B. Revised 2027 Utility Rate Presentation and Discussion
+- C. Monthly Revenue & Sales Tax Report
+- to continue through December, and about the sales tax update for a new large business
+- D. Budget Update – General Fund Update
+- about whether the changes in ongoing expenses and revenues reflect audit, sales tax,
+- or use tax revenue
+- 2026 WORK PLAN
+- A. Work Plan
+- Subject: Chandler Investment Presentation - Economic Outlook &
+- The City of Louisville contracts with Chandler Asset Management (Chandler) for
+- discuss current economic conditions and investment strategies
+- an increase of $0.8 million since the beginning of the year. The average rate of return
+
+## [louisville#82] 2026-10-19 | Historic Preservation Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. 741 Jefferson Avenue Landmark Designation Request
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+
+## [louisville#83] 2026-10-19 | Historic Preservation Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. 741 Jefferson Avenue Landmark Designation Request
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+- Subject: 741 Jefferson Avenue Landmark Designation Request
+- The applicant requests landmark designation for the Louisville Methodist Church
+- Background / Prior Discussions:
+- that he made a map of the Louisville parish that shows the location of not only streets
+- The Jefferson Place Survey identifies the Louisville United Methodist Church at 741
+- neighborhood. The survey identifies the building historically as the Methodist Episcopal
+- The survey discusses the church within the broader historic context of religious and
+- community institutions in Louisville. It identifies three early religious congregations
+- Church, and the Pillar of Fire congregation. Regarding 741 Jefferson, the survey states
+- Association with Jefferson Place's Immigrant Community
+- The survey also discusses the church in the context of the ethnic and social history of
+- were formed through schools, churches, and fraternal organizations. Within this
+- discussion, the survey states that the Methodist Episcopal Church at 741 Jefferson
+- This discussion occurs within the survey's broader treatment of English and other
+- European immigrants who settled in Jefferson Place, including immigrants associated
+- the social and cultural development of the historic neighborhood rather than treating it
+- Criterion C for Architecture, identifying the building as a Gothic Revival style church
+- In its discussion of individually eligible resources, the survey states that five resources
+- within Jefferson Place were considered eligible for the State Register. The Methodist
+- The survey also illustrates the property in its discussion of non-residential architecture,
+
+## [louisville#84] 2026-10-20 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 90, Series 2026 — A Resolution Approving a Construction
+- Contract for the 2026 Crack Seal Project
+- C. Resolution No. 95, Series 2026 — A Resolution Approving a Business
+- Assistance Agreement with Arsenal Health LLC in the Amount of $208,400 for
+- an Economic Development Project in the City of Louisville
+- D. Resolution No. 96, Series 2026 — A Resolution Approving an Enhanced
+- Business Assistance Agreement with Infleqtion Quantum, LLC in the Amount
+- of $281,114 for an Economic Development Project in the City of Louisville
+- E. Resolution No. 97, Series 2026 — A Resolution Approving an Agreement with
+- the Boulder Watershed Collective in the Amount of $100,000 (for Wildfire
+- F. Resolution No. 98, Series 2026 — A Resolution Approving a Proposed 2026
+- Amended and 2027 Operating Plan and Budget of the Main Street Louisville
+- Business Improvement District
+- i. Resolution No. 99, Series 2026 — A Resolution Establishing Expedited
+- Review Policies for Affordable Housing Projects
+- ii. Resolution No. 100, Series 2026 — A Resolution in Support of the City
+- Filing an Affordable Housing Commitment with the State of Colorado to be
+- H. Resolution No. 102, Series 2026 — A Resolution Approving a Conditional
+- Assignment of Preservation and Restoration Grant for the Grain Elevator at
+- 540 County Road
+- I. Resolution No. 103, Series 2026 – A Resolution Approving Xcel Energy EV
+- Infrastructure Rebates for the City's EV Charging Station Project
+- A. Public Hearing: City Manager's Final 2027-2028 Budget Presentation
+- The public hearing will be held for this item. There will be one round of public comment. Adoption of
+- the 2027-2028 Budget will occur at a future meeting
+- B. Resolution No. 101, Series 2026 — A Resolution Approving a Focused
+- Preservation and Restoration Grant for the Mudrock House Located at 613
+
+## [louisville#85] 2026-10-20 | City Council | agenda
+- 749 Main Street
+- City Council considers written and oral comments equally. Email comments to the
+- 3. Approval of Agenda
+- 4. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the City Council Agenda are considered routine by the City Manager and
+- shall be approved, adopted, accepted, etc., by motion of the City Council and voice vote unless the
+- Mayor or a City Council person specifically requests an item be considered under “Regular
+- action taken separately on said item in the order appearing on the Agenda. Those items so
+- approved under the heading “Consent Agenda” will appear in the Council Minutes in their proper
+- A. Approval of Minutes
+- B. Resolution No. 90, Series 2026 — A Resolution Approving a Construction
+- Contract for the 2026 Crack Seal Project
+- C. Resolution No. 95, Series 2026 — A Resolution Approving a Business
+- Assistance Agreement with Arsenal Health LLC in the Amount of $208,400 for
+- an Economic Development Project in the City of Louisville
+- D. Resolution No. 96, Series 2026 — A Resolution Approving an Enhanced
+- Business Assistance Agreement with Infleqtion Quantum, LLC in the Amount
+- of $281,114 for an Economic Development Project in the City of Louisville
+- E. Resolution No. 97, Series 2026 — A Resolution Approving an Agreement with
+- the Boulder Watershed Collective in the Amount of $100,000 (for Wildfire
+- F. Resolution No. 98, Series 2026 — A Resolution Approving a Proposed 2026
+- Amended and 2027 Operating Plan and Budget of the Main Street Louisville
+- Business Improvement District
+- i. Resolution No. 99, Series 2026 — A Resolution Establishing Expedited
+- Review Policies for Affordable Housing Projects
+- ii. Resolution No. 100, Series 2026 — A Resolution in Support of the City
+- Filing an Affordable Housing Commitment with the State of Colorado to be
+- H. Resolution No. 102, Series 2026 — A Resolution Approving a Conditional
+- Assignment of Preservation and Restoration Grant for the Grain Elevator at
+- 540 County Road
+- I. Resolution No. 103, Series 2026 – A Resolution Approving Xcel Energy EV
+- Infrastructure Rebates for the City's EV Charging Station Project
+- A. Public Hearing: City Manager's Final 2027-2028 Budget Presentation
+- The public hearing will be held for this item. There will be one round of public comment. Adoption of
+- the 2027-2028 Budget will occur at a future meeting
+- B. Resolution No. 101, Series 2026 — A Resolution Approving a Focused
+- Preservation and Restoration Grant for the Mudrock House Located at 613
+
+## [louisville#86] 2026-10-20 | City Council | agenda
+- Attachments: Infleqtion Enhanced BAP Agreement October 2026.docx
+- RAB Meeting 2026.09.21 - Rec Center 2027 Admission Fees.pdf
+- Question – Item 5D – Business Assistance Agreement with Infleqtion Quantum, LLC - Section 4 provides
+- for consumer-use-tax rebates (with a cap of $189,900 in Section 5(b)), but the § 11 termination provision
+- does not appear to include the consumer-use-tax category in the event the Company ceases business
+- Answer (Vanessa Zarate): That was not the intent. The edit has been made in the attached revised
+- agreement. Also, from a practice standpoint, the City does not clawback if the business totally
+- Question – Item 5H – Conditional Assignment of Preservation and Restoration Grant for the Grain
+- Elevator at 540 County Road – Section 19 appears to have placeholders for the completion deadline
+- agreement with the owner to include the following edits:
+- Questions – Item 8A – City Manager’s Final 2027-2028 Budget Presentation
+- Golf Fund – The presentation shows approximately $3.1 million and $3.3 million in revenue for
+- Which figures reflect the proposed fee changes?
+- Answer (Ryder Bailey): The $3.1M and $3.3M is accurate. The Budget by Fund summary has
+- presentation/adoption
+- Northeast water loop - The CIP summary includes $780,000, while the project sheet estimates
+- Answer (Kurt Kowar): The project sheet estimate is correct. However, after some 2027/2028
+- rate conversations, it has been decided to pull the northeast water loop out of the budget
+- Question – 2027 City Manager Fees – Recreation Fees – How did staff and RAB develop the proposed
+- Answer (Diana Langley): At the September 21st RAB meeting, staff presented rate increase options
+- also reached out to Kathy Martin requesting a brief summary of why the Daily Admission Non
+- More information will be provided in the 2027 City Manager Fee Council Communication
+- Questions – 2027-2032 Capital Improvement Program
+- Golf Course Work Carts – The purchase of two work carts are programmed in 2028 and 2029 for
+- $34,000 each. The project descriptions states, “If we add gas powered carts we would add them in
+- Police and Municipal Parking Lot Expansion – The project proposes to install a 5,400 sf secure
+- parking area for staff parking to the south of the existing parking lot. $20,000 is programmed in
+- secure parking area for staff without expanding the parking lot?
+- Answer (Diana Langley): Potentially. This would require evaluating public parking needs,
+- existing parking lot can be reconfigured to create a secure location for staff parking
+- Question: For the State of the City event on November 9th, is there a registration fee to attend?
+
+## [louisville#87] 2026-10-21 | Cultural Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of August 2026 Meeting Minutes
+- iii. Marshall Fire 5 Year Remembrance
+- i. Mural Location Discussion
+- ii. Funding for Cultural Programming Discussion
+- C. 2027 World Music Series & Summer Concerts in the Park – CAB
+- i. 2027 Art Grants
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+
+## [louisville#88] 2026-10-21 | Cultural Advisory Board | agenda
+- 951 Spruce Street
+- The Board will accommodate public comments during the meeting. Anyone may also
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- A. Approval of August 2026 Meeting Minutes
+- iii. Marshall Fire 5 Year Remembrance
+- i. Mural Location Discussion
+- ii. Funding for Cultural Programming Discussion
+- C. 2027 World Music Series & Summer Concerts in the Park – CAB
+- i. 2027 Art Grants
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A 2 business day notice is requested
+- presentation
+
+## [louisville#89] 2026-10-21 | Revitalization Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- B. Approving Consent and Acknowledgment for a Conditional Assignment of the
+- LRC Grant Awards for the Grain Elevator
+- A. Public Hearing: Revitalization Commission Resolution 3, Series 2026 — A
+- Resolution Approving Amendments to the Annual Budget for Fiscal Year 2026
+- public comment
+- B. Discussion and Direction: 2027 Budget / Inital Approval
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A forty-eight-hour notice is requested
+
+## [louisville#90] 2026-10-21 | Revitalization Commission | agenda
+- 749 Main Street
+- The Commission will accommodate public comments during the meeting. Anyone may
+- 2. Approval of Agenda
+- 3. Public Comments on Items Not on the Agenda and Items on the Consent
+- Public comments are limited to 3 minutes per speaker. When several people wish to speak on the
+- The following items on the Consent Agenda are considered routine, and shall be approved,
+- adopted, accepted, etc. by a motion of the Board unless a board member specifically requests an
+- item be considered under "Regular Business". In such an event, the item shall be removed from the
+- "Consent Agenda" and action taken separately on said item in the order appearing on the agenda
+- Those items so approved under the heading "Consent Agenda" will appear in the Board Minutes in
+- B. Approving Consent and Acknowledgment for a Conditional Assignment of the
+- LRC Grant Awards for the Grain Elevator
+- A. Public Hearing: Revitalization Commission Resolution 3, Series 2026 — A
+- Resolution Approving Amendments to the Annual Budget for Fiscal Year 2026
+- public comment
+- B. Discussion and Direction: 2027 Budget / Inital Approval
+- attending remotely, please use the “raise hand” icon to show you wish to speak in appropriate public comments section
+- A forty-eight-hour notice is requested
+- City Council 749 Main Street Louisville CO 80027
+- Staff Present: Vanessa Zarate, Economic Vitality Manager
+- Rob Zuccaro, Director of Community Development
+- APPROVAL OF CONSENT AGENDA
+- Chair Williams called for approval of the consent agenda and there were no calls for
+- changes. Motion: Commissioner Tofte moved to approve the agenda. The motion was
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- No public comment taken
+- GRAIN YARD FACADE AND PROPERTY IMPROVEMENT PROGRAM FUNDING
+- Manager Zarate presented on the facade improvement program application and
+- property improvement program application submitted by the Grain Yard
+- Commissioner Lipton asked about contingency allocations for the project. Manager
+- Zarate responded that the applicant is responsible for covering the difference if the
+- contingency grows and that if something comes in either under budget or under
+- Commissioner Harald asked if there was a tenant improvement allowance that the
+- owner is providing to the tenant. Manager Zarate responded that the commission does
+- improvement allowances are being issued at this time
+- this application was to be approved. Manager Zarate responded that the LRC would
+- have $73,467 left in the facade improvement program for the year and $87,705 in
+- property improvement program for the year
+- Commissioner Lipton asked what additional approval is needed from the city for the
