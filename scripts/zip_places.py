@@ -47,7 +47,7 @@ for f in zips:
         if not g.intersects(pg):
             continue
         share = g.intersection(pg).area / g.area
-        if share >= 0.02:
+        if share >= 0.005:  # low enough to keep small mountain towns in their huge zips
             rows.append([zc, name, round(share, 3)])
             covered += share
     rows.append([zc, "(unincorporated)", round(max(0.0, 1 - covered), 3)])

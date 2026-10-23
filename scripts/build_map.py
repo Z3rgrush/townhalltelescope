@@ -56,6 +56,14 @@ CO_PLACES = {
     "Louisville": "louisville",
     "Superior": "superior",
     "Glendale": "glendale",
+    "Aurora": "aurora",
+    "Thornton": "thornton",
+    "Frederick": "frederick",
+    "Firestone": "firestone",
+    "Mead": "mead",
+    "Commerce City": "commerce-city",
+    "Lyons": "lyons",
+    "Nederland": "nederland",
 }
 # Per region: place map, the county columns in zips.csv, and which source stands for each
 # county's government. A county source of None means the county is also a city (Denver,

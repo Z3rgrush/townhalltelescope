@@ -17,9 +17,10 @@
 - id: broomfield
   name: Broomfield
   county: Broomfield
-  adapter: linkscan
-  pages:
-    - http://broomfield.granicus.com/ViewPublisher.php?view_id=6
+  # Boards only: the council's AgendaLink portal is JavaScript-only, and the old Granicus
+  # archive stopped in January 2024.
+  adapter: agendacenter
+  base: https://broomfield.org
 - id: boulder-county
   name: Boulder County
   county: Boulder
@@ -44,11 +45,59 @@
   name: Lafayette
   county: Boulder
   adapter: linkscan
+  # Archive.aspx builds its module links with JavaScript, but each module page is plain HTML.
   pages:
-    - https://www.lafayetteco.gov/Archive.aspx
-  follow: "Archive\\.aspx\\?AMID="
+    - https://www.lafayetteco.gov/Archive.aspx?AMID=37
+    - https://www.lafayetteco.gov/Archive.aspx?AMID=38
+  follow: "Archive\\.aspx\\?ADID="
 - id: glendale
   name: Glendale
   county: Arapahoe
   adapter: agendacenter
   base: https://www.glendale.co.us
+
+# Neighbors that cover part of a pilot zip.
+- id: aurora
+  name: Aurora
+  county: Arapahoe
+  # AuroraTV's meeting video pages link each council agenda.
+  adapter: linkscan
+  pages:
+    - https://www.auroratv.org/series/city-council-meetings
+  follow: "/video/.*city-council"
+- id: thornton
+  name: Thornton
+  county: Adams
+  adapter: primegov
+  tenant: thorntonco
+- id: frederick
+  name: Frederick
+  county: Weld
+  adapter: civicclerk
+  tenant: frederickco
+- id: firestone
+  name: Firestone
+  county: Weld
+  adapter: civicclerk
+  tenant: firestoneco
+- id: mead
+  name: Mead
+  county: Weld
+  adapter: civicclerk
+  tenant: meadco
+- id: commerce-city
+  name: Commerce City
+  county: Adams
+  adapter: legistar
+  client: commerce
+- id: lyons
+  name: Lyons
+  county: Boulder
+  adapter: agendacenter
+  base: https://townoflyons.com
+- id: nederland
+  name: Nederland
+  county: Boulder
+  adapter: civicweb
+  base: https://nederlandco.civicweb.net
+  bodies: "Board|Trustee|Planning|Commission"

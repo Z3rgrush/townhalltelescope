@@ -62,9 +62,8 @@
 - id: roeland-park
   name: Roeland Park
   county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.roelandpark.net/129/Agendas-Minutes
+  adapter: civicclerk
+  tenant: roelandparkks
 
 - id: olathe
   name: Olathe

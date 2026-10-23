@@ -8,7 +8,7 @@ from .common import Doc, find_date, get, kind_of, session, soup
 
 KEYWORDS = re.compile(r"minute|agenda|packet|summary|journal", re.I)
 DOCLIKE = re.compile(
-    r"\.pdf|\.docx?|AgendaViewer|MinutesViewer|showpublisheddocument|showdocument|DocumentCenter/View|ViewFile|/uploads/|/document/\d+|/files/|mccmeetings|Archive\.aspx\?ADID=",
+    r"\.pdf|\.docx?|AgendaViewer|MinutesViewer|showpublisheddocument|showdocument|DocumentCenter/View|ViewFile|/uploads/|/document/\d+|/files/|mccmeetings|Archive\.aspx\?ADID=|GetFile\.ashx",
     re.I,
 )
 
