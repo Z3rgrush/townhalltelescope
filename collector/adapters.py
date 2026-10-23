@@ -253,18 +253,22 @@ def escribe(src, start, end, log):
     r.raise_for_status()
     meetings = r.json().get("d") or []
     if meetings:
-        log(f"  first: {json.dumps(meetings[0])[:1500]}")
+        log(f"  document types: {sorted({x.get('Type') for m in meetings for x in m.get('MeetingDocumentLink') or []})}")
     n = 0
     for m in meetings:
         body = m.get("MeetingName") or m.get("MeetingType") or "Meeting"
         if bodies and not bodies.search(body):
             continue
-        d = find_date(str(m.get("StartDate") or m.get("FormattedStart") or ""))
+        try:
+            d = date.fromisoformat(str(m.get("StartDate", ""))[:10].replace("/", "-"))
+        except ValueError:
+            d = find_date(m.get("FormattedStart"))
         if not _in_window(d, start, end):
             continue
         n += 1
         links = m.get("MeetingDocumentLink") or []
-        pdfs = [x for x in links if "pdf" in str(x.get("Format", "")).lower() and KEYWORDS.search(str(x.get("Type", "")) + str(x.get("Title", "")))]
+        pdfs = [x for x in links if "pdf" in str(x.get("Format", "")).lower() and KEYWORDS.search(str(x.get("Type", "")))
+                and not re.search(r"cover", str(x.get("Type", "")), re.I)]
         minutes = [x for x in pdfs if re.search(r"minute", str(x.get("Type", "")) + str(x.get("Title", "")), re.I)]
         for x in (minutes or pdfs)[:1]:
             yield Doc(src["id"], body, d, f"{body} - {x.get('Title') or x.get('Type')}", urljoin(base + "/", x["Url"]),

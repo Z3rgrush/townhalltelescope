@@ -20,7 +20,10 @@ for url in urls:
         print("ERROR", e); continue
     print("status", r.status_code, "type", r.headers.get("content-type"), "len", len(r.text))
     if raw:
-        print(r.text[:6000]); print("...TAIL:", r.text[-4000:]); continue
+        print(r.text[:3000])
+        hits = re.findall(r".{0,120}(?:AMID|ADID|ViewFile|api/|apiUrl|baseUrl).{0,160}", r.text)
+        print("...MATCHES:", *hits[:60], sep="\n")
+        continue
     links = re.findall(r'href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', r.text, re.S | re.I)
     seen = set()
     for href, text in links:
