@@ -1,0 +1,149 @@
+# Where each government posts agendas and minutes, and which scraper reads it.
+# adapters: civicweb, civicclerk, agendacenter, linkscan (see collector/adapters.py)
+# bodies: optional regex; only meetings whose body name matches are kept.
+
+- id: overland-park
+  name: Overland Park
+  county: Johnson
+  adapter: civicweb
+  base: https://opkansas.civicweb.net
+  bodies: "Council|Committee|Planning|Public Safety|Community Development|Finance"
+
+- id: leawood
+  name: Leawood
+  county: Johnson
+  adapter: civicweb
+  base: https://leawood.civicweb.net
+  bodies: "Governing Body|Planning|Committee|Zoning|Land Bank"
+
+- id: shawnee
+  name: Shawnee
+  county: Johnson
+  adapter: civicweb
+  base: https://cityofshawnee.civicweb.net
+  bodies: "Council|Planning"
+
+- id: unified-government
+  name: Unified Government of Wyandotte County / Kansas City KS
+  county: Wyandotte
+  adapter: civicclerk
+  tenant: wycokck
+
+- id: bonner-springs
+  name: Bonner Springs
+  county: Wyandotte
+  adapter: civicclerk
+  tenant: bonnerspringsks
+
+- id: de-soto
+  name: De Soto
+  county: Johnson
+  adapter: agendacenter
+  base: https://www.desotoks.us
+
+- id: spring-hill
+  name: Spring Hill
+  county: Johnson
+  adapter: agendacenter
+  base: https://www.springhillks.gov
+
+- id: mission-hills
+  name: Mission Hills
+  county: Johnson
+  adapter: agendacenter
+  base: https://www.missionhillsks.gov
+
+- id: edwardsville
+  name: Edwardsville
+  county: Wyandotte
+  adapter: agendacenter
+  base: https://www.edwardsvilleks.org
+
+- id: roeland-park
+  name: Roeland Park
+  county: Johnson
+  adapter: agendacenter
+  base: https://www.roelandpark.net
+
+- id: olathe
+  name: Olathe
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://www.olatheks.gov/government/city-council/city-council-meetings
+    - https://www.olatheks.gov/government/city-council/city-council-agendas-and-minutes
+
+- id: lenexa
+  name: Lenexa
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://www.lenexa.com/Government/Mayor-City-Council/Agendas-Minutes
+    - https://www.lenexa.com/Government/Mayor-City-Council/Upcoming-Council-Meetings
+
+- id: prairie-village
+  name: Prairie Village
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://pvkansas.com/governing-body/city-council/city-council-meetings-minutes-and-packets
+
+- id: merriam
+  name: Merriam
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://www.merriam.org/Government/City-Council/Agendas-Minutes
+    - https://www.merriam.org/Government/City-Council
+
+- id: mission
+  name: Mission
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://missionks.org/events/category/agenda-minutes/
+
+- id: gardner
+  name: Gardner
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://gardnerkansas.gov/government/city-council-meetings
+
+- id: edgerton
+  name: Edgerton
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://edgertonks.org/city-council/
+    - https://edgertonks.org/
+
+- id: fairway
+  name: Fairway
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://fairwaykansas.org/agendas-and-minutes
+    - https://fairwaykansas.org/
+
+- id: westwood-hills
+  name: Westwood Hills
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://www.westwoodhillsks.gov/agendas-minutes
+    - https://www.westwoodhillsks.gov/
+
+- id: lake-quivira
+  name: Lake Quivira
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://www.cityoflakequivira.org/government-subpages/council-meetings
+
+- id: johnson-county
+  name: Johnson County Board of County Commissioners
+  county: Johnson
+  adapter: linkscan
+  pages:
+    - https://boccmeetings.jocogov.org/OnBaseAgendaOnline/
