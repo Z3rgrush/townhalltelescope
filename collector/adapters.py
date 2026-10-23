@@ -4,6 +4,8 @@ import re
 from datetime import date, datetime, timedelta
 from urllib.parse import urljoin, urlparse
 
+from bs4 import BeautifulSoup
+
 from .common import Doc, find_date, get, kind_of, session, soup
 
 KEYWORDS = re.compile(r"minute|agenda|packet|summary|journal", re.I)
@@ -280,4 +282,72 @@ def escribe(src, start, end, log):
     log(f"  {len(meetings)} meetings returned, {n} kept")
 
 
-ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe)}
+def cablecast(src, start, end, log):
+    """Cablecast video archives (Broomfield council): each meeting video's chapters are its agenda item titles."""
+    api = src["base"].rstrip("/") + "/cablecastapi/v1"
+    titles = re.compile(src.get("titles", "."), re.I)
+    offset, n, older = 0, 0, 0
+    # Shows come newest event first; stop after a full page that is entirely before the window.
+    while older < 20 and offset < 600:
+        r = get(f"{api}/shows", params={"search": src.get("search", ""), "page_size": 20, "offset": offset})
+        r.raise_for_status()
+        shows = r.json().get("shows") or []
+        if not shows:
+            break
+        offset += len(shows)
+        for sh in shows:
+            d = date.fromisoformat(sh["eventDate"][:10])
+            if d < start:
+                older += 1
+                continue
+            older = 0
+            if d > end or not sh.get("vods") or not titles.search(sh["title"]):
+                continue
+            vtt = get(f"{api}/vods/{sh['vods'][0]}/chapters")
+            if not vtt.ok:
+                continue
+            items = [ln.strip() for ln in vtt.text.splitlines()
+                     if ln.strip() and not re.fullmatch(r"\d+|WEBVTT|[\d:.]+ --> [\d:.]+", ln.strip())]
+            if not items:
+                continue
+            n += 1
+            body = re.split(r"\s+-\s+", sh["title"])[0].strip()
+            url = f"{api}/vods/{sh['vods'][0]}/chapters"
+            text = f"{sh['title']}\nAgenda items (from the meeting video's chapters):\n" + "\n".join(items)
+            yield Doc(src["id"], body, d, sh["title"], url, "agenda", {"text": text})
+    log(f"  {n} meeting videos with chapters in window")
+
+
+def wp_events(src, start, end, log):
+    """WordPress "The Events Calendar" JSON (Boulder County): public meeting and hearing descriptions."""
+    api = src["base"].rstrip("/") + "/wp-json/tribe/events/v1/events"
+    titles = re.compile(src.get("titles", "."), re.I)
+    cut = re.compile(r"Attend (?:In-Person|Virtually|or Participate|the Public Hearing)|More Information|Accessibility Access", re.I)
+    page, n = 1, 0
+    while True:
+        r = get(api, params={"categories": src["categories"], "start_date": start.isoformat(),
+                             "end_date": end.isoformat(), "per_page": 50, "page": page})
+        if r.status_code == 400 or not r.ok:  # past the last page
+            break
+        data = r.json()
+        for ev in data.get("events") or []:
+            title = BeautifulSoup(ev["title"], "html.parser").get_text()
+            if not titles.search(title):
+                continue
+            d = date.fromisoformat(ev["start_date"][:10])
+            desc = BeautifulSoup(ev.get("description") or "", "html.parser").get_text("\n", strip=True)
+            desc = cut.split(desc)[0].strip()
+            if len(desc) < 200:
+                continue
+            n += 1
+            body = re.sub(r"\s*\((?:Hybrid|Virtual)\)|^Public (?:Meeting|Hearing):\s*", "", title).strip()
+            yield Doc(src["id"], body, d, title, ev["url"], "agenda",
+                      {"text": f"{title}\n{desc}"})
+        if page >= int(data.get("total_pages") or 1):
+            break
+        page += 1
+    log(f"  {n} events with descriptions in window")
+
+
+ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
+                                    cablecast, wp_events)}

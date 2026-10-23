@@ -64,7 +64,9 @@ def main():
 
         docs, error = [], None
         try:
-            docs = list(ADAPTERS[src["adapter"]](src, start, end, log))
+            # "also" lists extra platforms for the same government (Broomfield's boards and council videos).
+            for cfg in [src] + [{**src, **x} for x in src.get("also", [])]:
+                docs += ADAPTERS[cfg["adapter"]](cfg, start, end, log)
         except Exception as e:
             error = f"{type(e).__name__}: {e}"
             traceback.print_exc()
@@ -86,6 +88,7 @@ def main():
 
         stats = defaultdict(int)
         for d in keep:
+            inline = d.extra.pop("text", None)  # adapters that read text from an API hand it over directly
             row = {
                 "source": d.source, "body": d.body, "date": d.date.isoformat(), "kind": d.kind,
                 "title": d.title[:200], "url": d.url, **d.extra,
@@ -100,7 +103,7 @@ def main():
                 stats["ok"] += 1
                 continue
             try:
-                text, status = extract_text(d.url)
+                text, status = (inline, "ok") if inline else extract_text(d.url)
             except Exception as e:
                 text, status = "", f"download error: {e}"
             row["status"] = status

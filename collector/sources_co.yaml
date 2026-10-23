@@ -17,15 +17,24 @@
 - id: broomfield
   name: Broomfield
   county: Broomfield
-  # Boards only: the council's AgendaLink portal is JavaScript-only, and the old Granicus
-  # archive stopped in January 2024.
+  # Boards come from AgendaCenter. The council's AgendaLink portal is JavaScript-only, so council
+  # meetings come from the city's Cablecast video archive, whose chapters list the agenda items.
   adapter: agendacenter
   base: https://broomfield.org
+  also:
+    - adapter: cablecast
+      base: https://vod.broomfield.org
+      search: council
+      titles: City Council
 - id: boulder-county
   name: Boulder County
   county: Boulder
-  adapter: escribe
-  base: https://pub-bouldercounty.escribemeetings.com
+  # eScribe files sit behind a bot check, which we leave alone. The county's events calendar
+  # describes each commissioners' public meeting and hearing, which is what we read instead.
+  adapter: wp_events
+  base: https://www.bouldercounty.gov
+  categories: county-commissioners
+  titles: "^Public (Meeting|Hearing)|Town Hall|Work Session"
 - id: louisville
   name: Louisville
   county: Boulder
