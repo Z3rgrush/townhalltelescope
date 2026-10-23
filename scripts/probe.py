@@ -20,7 +20,7 @@ for url in urls:
         print("ERROR", e); continue
     print("status", r.status_code, "type", r.headers.get("content-type"), "len", len(r.text))
     if raw:
-        print(r.text[:6000]); continue
+        print(r.text[:6000]); print("...TAIL:", r.text[-4000:]); continue
     links = re.findall(r'href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', r.text, re.S | re.I)
     seen = set()
     for href, text in links:

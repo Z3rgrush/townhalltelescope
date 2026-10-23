@@ -1,4 +1,5 @@
 """One function per meeting platform. Each yields Doc records for meetings between start and end."""
+import json
 import re
 from datetime import date, datetime, timedelta
 from urllib.parse import urljoin, urlparse
@@ -252,7 +253,7 @@ def escribe(src, start, end, log):
     r.raise_for_status()
     meetings = r.json().get("d") or []
     if meetings:
-        log(f"  fields: {sorted(meetings[0])[:30]}")
+        log(f"  first: {json.dumps(meetings[0])[:1500]}")
     n = 0
     for m in meetings:
         body = m.get("MeetingName") or m.get("MeetingType") or "Meeting"
