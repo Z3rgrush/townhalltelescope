@@ -4,13 +4,13 @@ Window: 2026-07-25 to 2026-10-23
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Overland Park | civicweb | 39 | 58 | 55 | 3 |  |
-| Leawood | civicweb | 19 | 19 | 12 | 7 |  |
+| Overland Park | civicweb | 39 | 58 | 58 | 0 |  |
+| Leawood | civicweb | 19 | 19 | 17 | 2 |  |
 | Shawnee | civicweb | 11 | 11 | 10 | 1 |  |
-| Unified Government of Wyandotte County / Kansas City KS | civicclerk | 59 | 74 | 69 | 5 |  |
+| Unified Government of Wyandotte County / Kansas City KS | civicclerk | 59 | 74 | 73 | 1 |  |
 | Bonner Springs | civicclerk | 11 | 14 | 10 | 4 |  |
 | De Soto | agendacenter | 12 | 12 | 9 | 3 |  |
-| Spring Hill | agendacenter | 20 | 20 | 16 | 4 |  |
+| Spring Hill | agendacenter | 20 | 20 | 18 | 2 |  |
 | Mission Hills | agendacenter | 19 | 19 | 19 | 0 |  |
 | Edwardsville | agendacenter | 9 | 9 | 8 | 1 |  |
 | Roeland Park | linkscan | 0 | 0 | 0 | 0 |  |
@@ -19,7 +19,7 @@ Window: 2026-07-25 to 2026-10-23
 | Prairie Village | civicclerk | 20 | 26 | 26 | 0 |  |
 | Merriam | civicweb | 10 | 10 | 10 | 0 |  |
 | Mission | linkscan | 4 | 8 | 8 | 0 |  |
-| Gardner | linkscan | 1 | 3 | 3 | 0 |  |
+| Gardner | linkscan | 11 | 18 | 18 | 0 |  |
 | Edgerton | linkscan | 8 | 12 | 12 | 0 |  |
 | Fairway | linkscan | 7 | 8 | 5 | 3 |  |
 | Westwood Hills | linkscan | 0 | 0 | 0 | 0 |  |
