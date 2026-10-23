@@ -1,0 +1,54 @@
+# Boulder/Denver region: Denver, Boulder and Broomfield counties (see data/co/zips.csv).
+- id: denver
+  name: Denver
+  county: Denver
+  adapter: legistar
+  client: denver
+- id: boulder
+  name: Boulder
+  county: Boulder
+  adapter: primegov
+  tenant: bouldercolorado
+- id: longmont
+  name: Longmont
+  county: Boulder
+  adapter: primegov
+  tenant: longmont
+- id: broomfield
+  name: Broomfield
+  county: Broomfield
+  adapter: linkscan
+  pages:
+    - http://broomfield.granicus.com/ViewPublisher.php?view_id=6
+- id: boulder-county
+  name: Boulder County
+  county: Boulder
+  adapter: escribe
+  base: https://pub-bouldercounty.escribemeetings.com
+- id: louisville
+  name: Louisville
+  county: Boulder
+  adapter: civicclerk
+  tenant: louisvilleco
+- id: superior
+  name: Superior
+  county: Boulder
+  adapter: civicclerk
+  tenant: superiorco
+- id: erie
+  name: Erie
+  county: Boulder
+  adapter: civicclerk
+  tenant: erieco
+- id: lafayette
+  name: Lafayette
+  county: Boulder
+  adapter: linkscan
+  pages:
+    - https://www.lafayetteco.gov/Archive.aspx
+  follow: "Archive\\.aspx\\?AMID="
+- id: glendale
+  name: Glendale
+  county: Arapahoe
+  adapter: agendacenter
+  base: https://www.glendale.co.us

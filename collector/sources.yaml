@@ -1,5 +1,5 @@
 # Where each government posts agendas and minutes, and which scraper reads it.
-# adapters: civicweb, civicclerk, agendacenter, linkscan (see collector/adapters.py)
+# adapters: civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe (see collector/adapters.py)
 # bodies: optional regex; only meetings whose body name matches are kept.
 
 - id: overland-park

@@ -3,11 +3,11 @@ import re
 from datetime import date, datetime, timedelta
 from urllib.parse import urljoin, urlparse
 
-from .common import Doc, find_date, get, kind_of, soup
+from .common import Doc, find_date, get, kind_of, session, soup
 
 KEYWORDS = re.compile(r"minute|agenda|packet|summary|journal", re.I)
 DOCLIKE = re.compile(
-    r"\.pdf|\.docx?|AgendaViewer|MinutesViewer|showpublisheddocument|showdocument|DocumentCenter/View|ViewFile|/uploads/|/document/\d+|/files/|mccmeetings",
+    r"\.pdf|\.docx?|AgendaViewer|MinutesViewer|showpublisheddocument|showdocument|DocumentCenter/View|ViewFile|/uploads/|/document/\d+|/files/|mccmeetings|Archive\.aspx\?ADID=",
     re.I,
 )
 
@@ -188,4 +188,87 @@ def linkscan(src, start, end, log):
                             yield Doc(src["id"], "City Council", d2, f"{text} - {t2}", h2, kind_of(t2 + " " + h2))
 
 
-ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan)}
+def legistar(src, start, end, log):
+    """Legistar's public Web API (Denver). Each event links one agenda and, once approved, minutes."""
+    api = f"https://webapi.legistar.com/v1/{src['client']}/events"
+    bodies = re.compile(src["bodies"], re.I) if src.get("bodies") else None
+    flt = f"EventDate ge datetime'{start.isoformat()}' and EventDate le datetime'{end.isoformat()}'"
+    skip, n = 0, 0
+    while True:
+        r = get(api, params={"$filter": flt, "$orderby": "EventDate", "$top": 500, "$skip": skip})
+        r.raise_for_status()
+        events = r.json()
+        for ev in events:
+            n += 1
+            body = ev.get("EventBodyName") or "Meeting"
+            if bodies and not bodies.search(body):
+                continue
+            url = ev.get("EventMinutesFile") or ev.get("EventAgendaFile")
+            if not url:
+                continue
+            kind = "minutes" if ev.get("EventMinutesFile") else "agenda"
+            d = date.fromisoformat(ev["EventDate"][:10])
+            yield Doc(src["id"], body, d, f"{body} {kind}", url, kind, {"public_url": ev.get("EventInSiteURL")})
+        if len(events) < 500:
+            break
+        skip += 500
+    log(f"  {n} events in window")
+
+
+def primegov(src, start, end, log):
+    """PrimeGov public portals (Boulder, Longmont) list meetings and their compiled documents as JSON."""
+    base = f"https://{src['tenant']}.primegov.com"
+    bodies = re.compile(src["bodies"], re.I) if src.get("bodies") else None
+    meetings = []
+    for year in range(start.year, end.year + 1):
+        r = get(f"{base}/api/v2/PublicPortal/ListArchivedMeetings", params={"year": year})
+        r.raise_for_status()
+        meetings += r.json()
+    n = 0
+    for m in meetings:
+        d = date.fromisoformat(m["dateTime"][:10])
+        if not start <= d <= end or re.search(r"cancel", m.get("title", ""), re.I):
+            continue
+        body = re.split(r"\s+[-–]\s+", m.get("title") or "Meeting")[0].strip()
+        if bodies and not bodies.search(body):
+            continue
+        n += 1
+        docs = [x for x in m.get("documentList") or [] if re.search(r"minute|agenda", x.get("templateName", ""), re.I)
+                and not re.search(r"packet", x.get("templateName", ""), re.I)]
+        minutes = [x for x in docs if re.search(r"minute", x["templateName"], re.I)]
+        for x in (minutes or docs)[:1]:
+            url = f"{base}/Public/CompiledDocument?meetingTemplateId={x['templateId']}&compileOutputType={x['compileOutputType']}"
+            yield Doc(src["id"], body, d, f"{m.get('title')} - {x['templateName']}", url, kind_of(x["templateName"]),
+                      {"public_url": f"{base}/Portal/Meeting?meetingTemplateId={x['templateId']}"})
+    log(f"  {n} meetings in window")
+
+
+def escribe(src, start, end, log):
+    """eScribe portals (Boulder County) answer a calendar query with each meeting's documents."""
+    base = src["base"].rstrip("/")
+    bodies = re.compile(src["bodies"], re.I) if src.get("bodies") else None
+    r = session.post(f"{base}/MeetingsCalendarView.aspx/GetCalendarMeetings", timeout=60,
+                     json={"calendarStartDate": start.isoformat(), "calendarEndDate": end.isoformat()})
+    r.raise_for_status()
+    meetings = r.json().get("d") or []
+    if meetings:
+        log(f"  fields: {sorted(meetings[0])[:30]}")
+    n = 0
+    for m in meetings:
+        body = m.get("MeetingName") or m.get("MeetingType") or "Meeting"
+        if bodies and not bodies.search(body):
+            continue
+        d = find_date(str(m.get("StartDate") or m.get("FormattedStart") or ""))
+        if not _in_window(d, start, end):
+            continue
+        n += 1
+        links = m.get("MeetingDocumentLink") or []
+        pdfs = [x for x in links if "pdf" in str(x.get("Format", "")).lower() and KEYWORDS.search(str(x.get("Type", "")) + str(x.get("Title", "")))]
+        minutes = [x for x in pdfs if re.search(r"minute", str(x.get("Type", "")) + str(x.get("Title", "")), re.I)]
+        for x in (minutes or pdfs)[:1]:
+            yield Doc(src["id"], body, d, f"{body} - {x.get('Title') or x.get('Type')}", urljoin(base + "/", x["Url"]),
+                      "minutes" if minutes else "agenda", {"public_url": f"{base}/Meeting.aspx?Id={m.get('ID')}&Agenda=Agenda&lang=English"})
+    log(f"  {len(meetings)} meetings returned, {n} kept")
+
+
+ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe)}
