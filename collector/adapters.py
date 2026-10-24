@@ -359,41 +359,24 @@ def wp_events(src, start, end, log):
     log(f"  {n} events with descriptions in window")
 
 
-def novus(src, start, end, log):
-    """NovusAGENDA public sites (Topeka): an ASP.NET search form posts back a date range of meetings."""
-    base = src["base"].rstrip("/") + "/"
-    url = base + "MeetingsResponsive.aspx"
-    page, _ = soup(url)
-    form = {i["name"]: i.get("value", "") for i in page.find_all("input") if i.get("name") and i.get("type") != "submit"}
-    for sel in page.find_all("select"):
-        opt = sel.find("option", selected=True) or sel.find("option")
-        form[sel["name"]] = opt.get("value", "") if opt else ""
-    pre = "ctl00$ContentPlaceHolder1$"
-    # "Last 6 months" covers the lookback; the window filter below trims it.
-    form.update({pre + "ddlDateRange": "l6n", pre + "btnSearch": "Search"})
-    r = session.post(url, data=form, timeout=60)
-    r.raise_for_status()
-    result = soup_text(r.text)
-    rows = result.find_all("tr")
-    log(f"  {len(rows)} rows; links: {sorted({a['href'][:60] for a in result.find_all('a', href=True)})[:15]}")
+def granicus(src, start, end, log):
+    """Granicus ViewPublisher pages (Topeka): one table row per meeting with agenda and minutes links."""
+    base = src["base"].rstrip("/")
+    page, _ = soup(f"{base}/ViewPublisher.php?view_id={src.get('view_id', 1)}")
     n = 0
-    for row in result.find_all("tr"):
-        links = [a for a in row.find_all("a", href=True) if re.search(r"MeetingID=\d+", a["href"], re.I)]
-        if not links:
-            continue
-        cells = [td.get_text(" ", strip=True) for td in row.find_all("td")]
+    for row in page.find_all("tr"):
+        cells = [re.sub(r"\s*/\s*", "/", td.get_text(" ", strip=True).replace("\xa0", " ")) for td in row.find_all("td")]
         d = find_date(" ".join(cells))
-        if not _in_window(d, start, end):
+        if not cells or not _in_window(d, start, end) or re.search(r"cancel", cells[0], re.I):
             continue
-        n += 1
-        body = next((c for c in cells[1:] if c and not find_date(c)), "City Council")
-        hrefs = [urljoin(base, a["href"]) for a in links]
-        minutes = [h for h in hrefs if re.search(r"minute", h, re.I)]
-        agenda = [h for h in hrefs if re.search(r"PDF|agenda", h, re.I) and h not in minutes]
-        for h in (minutes or agenda or hrefs)[:1]:
-            yield Doc(src["id"], body, d, f"{body} {d}", h, "minutes" if minutes else "agenda")
-    log(f"  {n} meetings in window")
+        hrefs = [urljoin(base + "/", a["href"]) for a in row.find_all("a", href=True)]
+        minutes = [h for h in hrefs if "/minutes/" in h or "MinutesViewer" in h]
+        agenda = [h for h in hrefs if "AgendaViewer" in h]
+        for h, kind in ([(minutes[0], "minutes")] if minutes else []) + ([(agenda[0], "agenda")] if agenda else []):
+            n += 1
+            yield Doc(src["id"], cells[0], d, f"{cells[0]} {d}", h, kind)
+    log(f"  {n} documents in window")
 
 
 ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
-                                    cablecast, wp_events, novus)}
+                                    cablecast, wp_events, granicus)}

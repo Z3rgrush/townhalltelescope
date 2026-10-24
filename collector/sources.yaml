@@ -183,8 +183,9 @@
 - id: topeka
   name: Topeka
   county: Shawnee
-  adapter: novus
-  base: https://topeka.novusagenda.com/agendapublic
+  adapter: granicus
+  base: https://topeka.granicus.com
+  view_id: 1
 
 - id: salina
   name: Salina
