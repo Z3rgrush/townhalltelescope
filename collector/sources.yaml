@@ -205,3 +205,33 @@
   base: https://wichitaks.granicus.com
   view_id: 42
   keep_agendas: true
+
+# County commissions for the statewide cities (added 2026-10-24).
+- id: sedgwick-county
+  name: Sedgwick County Commission
+  county: Sedgwick
+  adapter: granicus
+  base: https://sedgwick.granicus.com
+  view_id: 34
+  keep_agendas: true
+
+- id: shawnee-county
+  name: Shawnee County Commission
+  county: Shawnee
+  adapter: civicclerk
+  tenant: shawneecoks
+
+- id: riley-county
+  name: Riley County Commission
+  county: Riley
+  adapter: agendacenter
+  base: https://www.rileycountyks.gov
+
+- id: saline-county
+  name: Saline County Commission
+  county: Saline
+  adapter: cablecast
+  base: https://salina-tv.com
+  search: Saline County Commission
+  titles: "^Saline County Commission"
+  agenda_file: publicfiles/4
