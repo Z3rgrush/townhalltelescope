@@ -196,3 +196,12 @@
   search: Salina City Commission
   titles: "Salina City Commission"
   agenda_file: publicfiles/4
+
+# wichita.gov is behind a Cloudflare bot check; the council's Granicus archive is a separate public host.
+- id: wichita
+  name: Wichita
+  county: Sedgwick
+  adapter: granicus
+  base: https://wichitaks.granicus.com
+  view_id: 42
+  keep_agendas: true
