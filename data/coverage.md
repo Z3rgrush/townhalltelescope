@@ -4,12 +4,11 @@ Window: 2026-07-26 to 2026-10-24
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Johnson County Board of County Commissioners | onbase | 20 | 20 | 15 | 5 |  |
+| Sedgwick County Commission | granicus | 18 | 33 | 33 | 0 |  |
 
 ## Logs
 
-### Johnson County Board of County Commissioners
+### Sedgwick County Commission
 ```
-  search: 170 links, 32 meeting pages
-  32 documents in window from 34 page(s)
+  33 documents in window
 ```
