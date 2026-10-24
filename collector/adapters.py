@@ -141,7 +141,9 @@ def agendacenter(src, start, end, log):
             if not _in_window(d, start, end):
                 continue
             found += 1
-            heading = a.find_previous(["h2", "h3"])
+            # Some sites (Manhattan) put a dated "Posted ..." heading on each row; the body is the
+            # nearest heading without a date.
+            heading = next((h for h in a.find_all_previous(["h2", "h3"]) if not find_date(h.get_text(" ", strip=True))), None)
             body = heading.get_text(" ", strip=True) if heading else "City Council"
             row = a.find_parent("tr")
             title = row.get_text(" ", strip=True)[:160] if row else a.get_text(" ", strip=True)
