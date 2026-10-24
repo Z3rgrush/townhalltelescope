@@ -84,6 +84,7 @@ NAMES = {
     "johnson-county": "Johnson County",
     "mission-woods": "Mission Woods",
     "westwood": "Westwood",
+    "wichita": "Wichita",
 }
 
 

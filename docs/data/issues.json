@@ -1325,6 +1325,525 @@
   ],
   "government": "Lake Quivira"
  },
+ "lawrence/0": {
+  "id": "lawrence/0",
+  "title": "Requiring a special use permit for data centers",
+  "summary": "The Planning Commission took up a text amendment (AMDT-26-0015) that would make data centers get a special use permit in Lawrence's light industrial, general industrial and industrial business park districts. A resident had raised data centers during City Commission public comment in August.",
+  "where": null,
+  "public_comment": true,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472817/Planning%20Commission%20-%20Sep%2021%202026.pdf?handle=FF99F3FA85E84EC5AC57B6409E7C2C2A"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/471473"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/1": {
+  "id": "lawrence/1",
+  "title": "2026 Lawrence Bikes Plan",
+  "summary": "A new bike plan aiming for a low-stress bikeway network that is safe for all riders moved through the parks, Connected City and MPO boards to replace the 2019 plan, alongside a five-year plan for $4.3 million in sidewalk, bike and pedestrian projects.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474566/Connected%20City%20Advisory%20Board%20-%20Oct%2019%202026.pdf?handle=F349C606FCFF4EDE8783B2B2791D9CBE"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "Lawrence-Douglas County Metropolitan Planning Organization Policy Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474229/Lawrence-Douglas%20County%20Metropolitan%20Planning%20O.pdf?handle=161E15D38BFE4C2CA2090A45D48C3AB3"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472910/Connected%20City%20Advisory%20Board%20-%20Sep%2021%202026.pdf?handle=AE02A856E8EF45768A366666B6E24D35"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472558/Parks%20and%20Recreation%20Advisory%20Board%20-%20Sep%2014%2020.pdf?handle=D3904D4632D54FB9B6C731A7D1EF73DF"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Lawrence-Douglas County Metropolitan Planning Organization Policy Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/471106/Lawrence-Douglas%20County%20Metropolitan%20Planning%20O.pdf?handle=547AC964B26A432C9C4493E0B0C4EF02"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/470841/Connected%20City%20Advisory%20Board%20-%20Aug%2017%202026.pdf?handle=93A0B9EEED734681AC306355FC520F43"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/470508/Parks%20and%20Recreation%20Advisory%20Board%20-%20Aug%2010%2020.pdf?handle=444D14E3832843DABF17D4946DCFB1FA"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/2": {
+  "id": "lawrence/2",
+  "title": "2027 Affordable Housing Trust Fund awards",
+  "summary": "The Affordable Housing Advisory Board set aside $760,000 for 2027 grants and heard pitches from housing stabilization, home repair and new development applicants, including East Heights, Hope Project 2 and New Hampshire St. Lofts II, ahead of recommendations in November.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-08",
+    "body": "Affordable Housing Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/473145/Affordable%20Housing%20Advisory%20Board%20-%20Oct%2008%202026.pdf?handle=AADB0C141EFB46ADBBFD0216B8A48DFB"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Affordable Housing Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/471959/Affordable%20Housing%20Advisory%20Board%20-%20Sep%2010%202026.pdf?handle=2C9F108C8B954710B5A5EE176CBCE60E"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/3": {
+  "id": "lawrence/3",
+  "title": "Redeveloping the city lot at 711 New Hampshire",
+  "summary": "Cohen-Esrey Development Group applied for housing trust funds for 711 New Hampshire, and the City Commission considered a fourth extension of its exclusivity agreement to redevelop the city-owned property.",
+  "where": "711 New Hampshire St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474801/City%20Commission%20-%20Oct%2020%202026.pdf?handle=A6DCFC58547E4A76A2FCB133F41B6EB2"
+   },
+   {
+    "date": "2026-10-08",
+    "body": "Affordable Housing Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/473145/Affordable%20Housing%20Advisory%20Board%20-%20Oct%2008%202026.pdf?handle=AADB0C141EFB46ADBBFD0216B8A48DFB"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/4": {
+  "id": "lawrence/4",
+  "title": "Taller, denser affordable housing at 8th and Pennsylvania",
+  "summary": "The commission adopted a code change loosening height and density limits in the 8th and Penn redevelopment zone's design guidelines to make room for an affordable housing project.",
+  "where": "8th St & Pennsylvania St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472345"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472045"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/5": {
+  "id": "lawrence/5",
+  "title": "Homeless camps and park cleanup",
+  "summary": "Residents raised chronic homelessness, overdoses and unsanctioned camps during City Commission public comment, and a parks board member asked for more staff to clean up parks dealing with illegal camping and trash.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474003/Parks%20and%20Recreation%20Advisory%20Board%20-%20Oct%2012%2020.pdf?handle=99AA4C74C52643F7974512C96CAC9B6A"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/471473"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/6": {
+  "id": "lawrence/6",
+  "title": "Annexing and rezoning land along K-10 at Bob Billings and 6th Street",
+  "summary": "The Planning Commission considered annexing about 137 acres for KU Endowment at 1593 N 1900 Road and annexing and rezoning more than 100 acres near K-10's interchanges with W. 6th Street and Bob Billings Parkway, while the Bob Billings extension went through a complete streets review.",
+  "where": "K-10 at W 6th St and Bob Billings Pkwy",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472910/Connected%20City%20Advisory%20Board%20-%20Sep%2021%202026.pdf?handle=AE02A856E8EF45768A366666B6E24D35"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/471297/Planning%20Commission%20-%20Aug%2024%202026.pdf?handle=3BD4784DB88A4F219AA8B6AE4271B20C"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/470841/Connected%20City%20Advisory%20Board%20-%20Aug%2017%202026.pdf?handle=93A0B9EEED734681AC306355FC520F43"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/7": {
+  "id": "lawrence/7",
+  "title": "Fire Medical Station No. 6",
+  "summary": "The commission weighed a $951,502 contract with SFS Architecture to design an expanded Fire Medical Station No. 6 (pulled from consent for a separate vote) and a construction manager agreement with McCownGordon.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472345"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/470872"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/8": {
+  "id": "lawrence/8",
+  "title": "Eminent domain for Safe Routes to School and K-10 utility work",
+  "summary": "The commission authorized condemning property for the 2025 Safe Routes to School project and, on first reading, for utility relocation on the K-10 West Leg expansion.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/474491"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472345"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472045"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/9": {
+  "id": "lawrence/9",
+  "title": "Speed cushions near KU on Harvard Road and George Williams Way",
+  "summary": "Staff shared plans for speed cushions and humps on Harvard Road, George Williams Way, Kanza Drive and other streets near campus through the KU Gateway project and asked residents for feedback.",
+  "where": "Harvard Rd & George Williams Way",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474566/Connected%20City%20Advisory%20Board%20-%20Oct%2019%202026.pdf?handle=F349C606FCFF4EDE8783B2B2791D9CBE"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472910/Connected%20City%20Advisory%20Board%20-%20Sep%2021%202026.pdf?handle=AE02A856E8EF45768A366666B6E24D35"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/10": {
+  "id": "lawrence/10",
+  "title": "Demolition moratorium in University Place",
+  "summary": "The commission held a hearing on whether to exempt 1827 Indiana Street from the demolition permit moratorium in the University Place neighborhood, and residents later asked for a pause on historic landmark nominations.",
+  "where": "University Place neighborhood",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/474934"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/470872"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/11": {
+  "id": "lawrence/11",
+  "title": "Attorney General's push to repeal the conversion therapy ban",
+  "summary": "The Human Relations Commission discussed a request from the Kansas Attorney General to repeal Lawrence's conversion therapy ban, along with next steps on a Housing Bill of Rights.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-17",
+    "body": "Human Relations Commission",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/470978/Human%20Relations%20Commission%20-%20Aug%2017%202026.pdf?handle=3D87FC9D7A354F3B8A6A394B958E4A90"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/12": {
+  "id": "lawrence/12",
+  "title": "Battery storage rules for rural Douglas County",
+  "summary": "The Planning Commission discussed how Douglas County should regulate battery energy storage systems in the unincorporated area, including permit tiers, fire risk, setbacks and a 60-decibel noise limit.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-09",
+    "body": "Planning Commission Mid-Month",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472016/Planning%20Commission%20Mid-Month%20-%20Sep%2009%202026.pdf?handle=E30199061B0A481DA2B0562ABF3A927B"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/13": {
+  "id": "lawrence/13",
+  "title": "Tax-exempt bonds for senior housing and DCCCA",
+  "summary": "The commission approved up to $10.4 million in industrial revenue bonds for The Peaks of Lawrence mixed-income senior housing and started bonds of up to $4.2 million for DCCCA's project at 3015 W. 31st Street.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/474491"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472345"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/14": {
+  "id": "lawrence/14",
+  "title": "Water and wastewater plant upgrades",
+  "summary": "Contracts covered roadwork at the Kansas River wastewater plant, a pump station repair, a $503,130 pipe gallery replacement at the Kaw water plant, biosolids hauling and a master plan for the Kaw and Clinton water plants.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474801/City%20Commission%20-%20Oct%2020%202026.pdf?handle=A6DCFC58547E4A76A2FCB133F41B6EB2"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/474934"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472345"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/472045"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/471473"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/15": {
+  "id": "lawrence/15",
+  "title": "Street maintenance contracts",
+  "summary": "Lawrence awarded a $2 million 2026 Phase 4 street maintenance contract, added $175,000 to 2025 Phase 1 and hired engineers for 2027 street work.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/474934"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/474491"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://lawrenceks.civicweb.net/document/470872"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/16": {
+  "id": "lawrence/16",
+  "title": "Solid Waste Master Plan",
+  "summary": "Staff updated the Connected City board on the Solid Waste Master Plan's goals, including multifamily and commercial recycling, contamination rates and fees for trash left outside containers.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Connected City Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472910/Connected%20City%20Advisory%20Board%20-%20Sep%2021%202026.pdf?handle=AE02A856E8EF45768A366666B6E24D35"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/17": {
+  "id": "lawrence/17",
+  "title": "City Band stage in South Park",
+  "summary": "The parks board backed a City Band proposal to build a small, accessible concrete stage by the South Park gazebo with donated money, while noting drainage problems in the area.",
+  "where": "South Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/474003/Parks%20and%20Recreation%20Advisory%20Board%20-%20Oct%2012%2020.pdf?handle=99AA4C74C52643F7974512C96CAC9B6A"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/472558/Parks%20and%20Recreation%20Advisory%20Board%20-%20Sep%2014%2020.pdf?handle=D3904D4632D54FB9B6C731A7D1EF73DF"
+   }
+  ],
+  "government": "Lawrence"
+ },
+ "lawrence/18": {
+  "id": "lawrence/18",
+  "title": "Airport fees for rideshare, taxis and rental cars",
+  "summary": "The Aviation Advisory Board reviewed new permit rules and 2027 rates for ground transportation at Lawrence Regional Airport, including a share of rental car revenue and a $3 daily customer facility charge.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Aviation Advisory Board",
+    "kind": "agenda",
+    "url": "https://lawrenceks.civicweb.net/document/473938/Aviation%20Advisory%20Board%20-%20Oct%2007%202026.pdf?handle=DA1DA9C27B264705B52AC88AA84A9D4C"
+   }
+  ],
+  "government": "Lawrence"
+ },
  "leawood/0": {
   "id": "leawood/0",
   "title": "Town Center Plaza redevelopment and a 1-cent shopping district sales tax",
@@ -1836,6 +2355,442 @@
    }
   ],
   "government": "Lenexa"
+ },
+ "manhattan/0": {
+  "id": "manhattan/0",
+  "title": "Half-cent street maintenance sales tax on the November ballot",
+  "summary": "Manhattan put a half-cent, streets-only sales tax before voters, to be spent pay-as-you-go on street work without bonding. Talk of renewing the quarter-cent quality of life sales tax, which expires at the end of 2027, was pushed until after the election.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_10062026-291"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_09282026-289"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09142026-284"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08112026-272"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_08102026-273"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/1": {
+  "id": "manhattan/1",
+  "title": "Edge District 3.0 TIF, STAR bonds and campus sales tax",
+  "summary": "The commission discussed TIF, a community improvement district and STAR bonds for K-State's Edge District 3.0, the planning board reviewed whether the plans fit the comprehensive plan, and hearings were set on an extra 1% sales tax on campus retail.",
+  "where": "Kansas State University campus",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_10062026-291"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_10052026-290"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_09222026-287"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/2": {
+  "id": "manhattan/2",
+  "title": "Housing incentive policies and bonds",
+  "summary": "Commissioners discussed housing policies and then rewrote the rules for workforce housing sales tax, multifamily housing revenue bonds and reinvestment housing incentive districts, and issued housing bonds for a multifamily project at 1000 Moro Street.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09152026-283"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09012026-280"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08112026-272"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/3": {
+  "id": "manhattan/3",
+  "title": "Rebuilding Taxiway Alpha at the airport",
+  "summary": "The commission accepted about $14.9 million in grants and awarded a $12.9 million contract to Clarkson Construction to reconstruct Taxiway Alpha at Manhattan Regional Airport.",
+  "where": "Manhattan Regional Airport",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09012026-280"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Airport Advisory Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08102026-270"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/4": {
+  "id": "manhattan/4",
+  "title": "Yuma Street Cultural Center and the Mt. Zion rezoning",
+  "summary": "The city backed bonds and a sales tax exemption for Black Entrepreneurs of the Flint Hills' Yuma Street Cultural Center, which also won a $100,000 state heritage grant, while a rezoning of 813\u2013821 Yuma Street for the Mt. Zion Resource Center was pushed to November.",
+  "where": "Yuma St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_10192026-297"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_10062026-291"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09152026-283"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/5": {
+  "id": "manhattan/5",
+  "title": "Sunset Zoo lemur and Americas exhibits",
+  "summary": "Manhattan hired a construction manager and designers for new lemur and Americas exhibits at Sunset Zoo, paid for by the zoo's trust, and backed a state tourism grant application for the project.",
+  "where": "Sunset Zoo",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09152026-283"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09142026-284"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_08042026-268"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/6": {
+  "id": "manhattan/6",
+  "title": "Historic designation for Sunset Cemetery",
+  "summary": "Parks staff and the City Commission reviewed whether to seek historic designation for Sunset Cemetery.",
+  "where": "Sunset Cemetery",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_09222026-287"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09142026-284"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/7": {
+  "id": "manhattan/7",
+  "title": "Development code changes after Senate Bill 418",
+  "summary": "The planning board worked through changes to the Manhattan Development Code required by the state's Senate Bill 418, including a streamlined planned unit development process.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-08-31",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08312026-279"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08172026-274"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08032026-267"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/8": {
+  "id": "manhattan/8",
+  "title": "Seven Dolors Parish project at 624 Pierre Street",
+  "summary": "The zoning appeals board heard an exception request for Seven Dolors Parish at 624 Pierre Street, and the Historic Resources Board reviewed the project against federal rehabilitation standards.",
+  "where": "624 Pierre St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "Historic Resources Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08242026-277"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Board of Zoning Appeals",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08122026-269"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/9": {
+  "id": "manhattan/9",
+  "title": "Driveway and land use rules in rural Riley County",
+  "summary": "The planning board held hearings on Riley County amendments to driveway standards and use-specific standards in the unincorporated area.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_10052026-290"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Manhattan Urban Area Planning Board",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_08032026-267"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/10": {
+  "id": "manhattan/10",
+  "title": "Funding for social service and alcohol programs",
+  "summary": "The Community Support Funds Advisory Board reviewed social service and special alcohol fund requests from groups like Pawnee Mental Health, the Boys and Girls Club and the emergency shelter, heard about rising youth substance use and asked the city for more money to keep up with inflation.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "Community Support Funds Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09162026-285"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Community Support Funds Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09022026-281"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Community Support Funds Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_08192026-276"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/11": {
+  "id": "manhattan/11",
+  "title": "New playgrounds and courts in city parks",
+  "summary": "The city bought new playgrounds for Douglass, Goodnow and Long's parks, opened the CiCo Park tennis courts and planned a discussion of outdoor pickleball courts in City Park.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Parks and Recreation Advisory Board",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09142026-284"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09012026-280"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_08042026-268"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/12": {
+  "id": "manhattan/12",
+  "title": "Pedestrian improvements at 5th and Leavenworth",
+  "summary": "Manhattan awarded a $1.5 million contract to Ebert Construction for pedestrian and utility improvements at 5th and Leavenworth Streets.",
+  "where": "5th St & Leavenworth St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_09152026-283"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/13": {
+  "id": "manhattan/13",
+  "title": "Gas and electric franchise agreements",
+  "summary": "Pulled from consent for discussion, new franchise agreements with Kansas Gas Service and Evergy were approved.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "City Commission",
+    "kind": "minutes",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Minutes/_08182026-275"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/14": {
+  "id": "manhattan/14",
+  "title": "Annexing land on Excel Road in Pottawatomie County",
+  "summary": "The commission considered asking Pottawatomie County to approve annexing a 4.4-acre tract at 3830 Excel Road and a second tract.",
+  "where": "3830 Excel Rd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_10202026-300"
+   }
+  ],
+  "government": "Manhattan"
+ },
+ "manhattan/15": {
+  "id": "manhattan/15",
+  "title": "Road salt storage and lane closure rules",
+  "summary": "Commissioners discussed a bulk road salt agreement and storage, a right-of-way lane closure policy and an on-call engineering program.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Commission",
+    "kind": "agenda",
+    "url": "https://www.manhattanks.gov/AgendaCenter/ViewFile/Agenda/_10132026-295"
+   }
+  ],
+  "government": "Manhattan"
  },
  "merriam/0": {
   "id": "merriam/0",
@@ -3731,6 +4686,282 @@
   ],
   "government": "Roeland Park"
  },
+ "salina/0": {
+  "id": "salina/0",
+  "title": "Filling a vacant City Commission seat",
+  "summary": "After Commissioner Ivey resigned, the commission discussed how to fill the seat, then took up the appointment of Gary Norris to the vacancy.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26971/publicfiles/4"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26956/publicfiles/4"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26930/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/1": {
+  "id": "salina/1",
+  "title": "2027 budget above the revenue-neutral rate",
+  "summary": "Salina reviewed its 2027 capital plans in a study session, published notice of intent to exceed the revenue-neutral property tax rate, held the budget hearing in September and took up a 2027\u20132031 capital improvement program.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26993/publicfiles/4"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26971/publicfiles/4"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26956/publicfiles/4"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Salina City Commission Study Session",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26939/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/2": {
+  "id": "salina/2",
+  "title": "Water main replacements and water rates",
+  "summary": "The commission considered awarding 2026 water main replacements and held a study session on the pace of water line replacement and what it means for water rates.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "Salina City Commission Study Session",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26987/publicfiles/4"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26956/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/3": {
+  "id": "salina/3",
+  "title": "Theatre Salina expansion and downtown development deals",
+  "summary": "The commission took up an amendment to the downtown master development agreement to help fund a Theatre Salina expansion, and later an amendment to the Salina Destination Development Phase 2 agreement.",
+  "where": "Downtown Salina",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26971/publicfiles/4"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26956/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/4": {
+  "id": "salina/4",
+  "title": "Hotel and new lots at 3135 S. 9th Street",
+  "summary": "The commission considered rezoning and a site plan for a hotel at 3135 S. 9th Street and a six-lot replat of the Auburndale District Addition on the 9-acre site north of Avenue A.",
+  "where": "3135 S 9th St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26993/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/5": {
+  "id": "salina/5",
+  "title": "Allowing townhomes in multifamily zones",
+  "summary": "An ordinance would add single-family attached homes as a permitted use in the R-2.5 and R-3 multifamily districts, with new lot width and side-yard rules.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26993/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/6": {
+  "id": "salina/6",
+  "title": "Housing tax credits and moderate-income housing grant",
+  "summary": "Salina considered supporting a developer's application for Kansas Housing Investor Tax Credits and amending its moderate-income housing grant from federal pandemic funds with the state housing agency.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-27",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26930/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/7": {
+  "id": "salina/7",
+  "title": "Annexing land at North Street and Marymount Road",
+  "summary": "The commission considered annexing 27 acres at the northwest corner of East North Street and Marymount Road.",
+  "where": "E North St & Marymount Rd",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26971/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/8": {
+  "id": "salina/8",
+  "title": "Cleanup work plan contracts",
+  "summary": "Salina considered agreements with environmental consultants and labs for a remedial design and remedial action work plan.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-10",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26940/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/9": {
+  "id": "salina/9",
+  "title": "Landfill land purchase and county solid waste plan",
+  "summary": "The city considered buying property next to the municipal landfill and reaffirming the Saline County Solid Waste Management Plan with updated goals.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26971/publicfiles/4"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26956/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/10": {
+  "id": "salina/10",
+  "title": "Animal shelter management and public participation rules",
+  "summary": "The commission considered a proposal for animal shelter management services and reviewed its public participation policy for open meetings.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26985/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
+ "salina/11": {
+  "id": "salina/11",
+  "title": "Medical clinic rezoning at 605 S. Ohio Street",
+  "summary": "A rezoning and site plan with five Planning Commission conditions would allow an ophthalmology clinic at 605 S. Ohio Street.",
+  "where": "605 S Ohio St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Salina City Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26993/publicfiles/4"
+   }
+  ],
+  "government": "Salina"
+ },
  "shawnee/0": {
   "id": "shawnee/0",
   "title": "Fireworks rules after the Fourth of July",
@@ -4279,6 +5510,300 @@
    }
   ],
   "government": "Spring Hill"
+ },
+ "topeka/0": {
+  "id": "topeka/0",
+  "title": "Restricting city utility hookups for data centers",
+  "summary": "The Governing Body waived its four-month wait rule to take up an ordinance restricting city utility connections for data centers both inside and outside city limits, closing a path for staff to extend service to a data center by administrative exception.",
+  "where": null,
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Governing Body",
+    "kind": "minutes",
+    "url": "https://topeka.granicus.com/services/minutes/reports/2d2d16c1-4708-4685-be3a-c32928614203/attachment"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/1": {
+  "id": "topeka/1",
+  "title": "Compass Datacenters campus south of Topeka",
+  "summary": "Compass Datacenters and Evergy answered questions at a work session about a proposed hyperscale data center in Shawnee County just south of the city, covering water use and cooling, tax abatements, utility rate impacts and the need for public input sessions. No public comment was taken.",
+  "where": "Shawnee County, south of Topeka city limits",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/990fde29e3e67426c483a7b4bc1efc7f0.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/2": {
+  "id": "topeka/2",
+  "title": "Airport authority's planned data center",
+  "summary": "The Metropolitan Topeka Airport Authority briefed the Governing Body on a data center it is planning, at the same meeting as an overview of island annexation.",
+  "where": null,
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/7e7de91331bdaf7ca4fac1d9422939540.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/3": {
+  "id": "topeka/3",
+  "title": "2027 budget and exceeding the revenue-neutral tax rate",
+  "summary": "Topeka held hearings on a 2027 budget with a 37.126 mill levy, above its revenue-neutral rate, and on keeping the Topeka Metro transit levy at 4.2 mills. Residents spoke against raising taxes, and council members questioned the transit authority about electric buses, ridership and fares.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/6b830c0ea60569a2927c71280d3c31c20.html"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/bd8ed3980b3e439370a742ec46eae8a30.html"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/d5d77178b49222076f7f63953aa514780.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/4": {
+  "id": "topeka/4",
+  "title": "Utility rate increases for 2027 to 2030",
+  "summary": "After months of discussion the council took up an ordinance setting utility rates for 2027 through 2030 to fund operations and capital work. Residents objected, including one who asked that households and industrial customers pay the same rate.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/bd8ed3980b3e439370a742ec46eae8a30.html"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Governing Body",
+    "kind": "minutes",
+    "url": "https://topeka.granicus.com/services/minutes/reports/eb5e757d-964e-4845-bbcd-4ef3d8028b68/attachment"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/5": {
+  "id": "topeka/5",
+  "title": "March 2027 vote on a sales tax for affordable housing and homelessness",
+  "summary": "After a housing study update and talks on future sales taxes, the council considered calling a March 2, 2027 special election on a 0.1% sales tax for an affordable housing trust fund and evidence-based homeless programs.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/d15b6b3d83ceafd6fa56b1671a7b36b60.html"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/7e7de91331bdaf7ca4fac1d9422939540.html"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/6b830c0ea60569a2927c71280d3c31c20.html"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/bd8ed3980b3e439370a742ec46eae8a30.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/6": {
+  "id": "topeka/6",
+  "title": "Letting a city auditor report to the Governing Body",
+  "summary": "The council discussed a charter amendment, and a March 2027 mail ballot on it, that would let a city auditor report directly to the Governing Body instead of through the mayor and city manager.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/d15b6b3d83ceafd6fa56b1671a7b36b60.html"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/7e7de91331bdaf7ca4fac1d9422939540.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/7": {
+  "id": "topeka/7",
+  "title": "Fire station relocation plan",
+  "summary": "The fire department presented a 2026 plan to relocate fire stations to cut response times and expand four-minute coverage across the city.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/bd8ed3980b3e439370a742ec46eae8a30.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/8": {
+  "id": "topeka/8",
+  "title": "Strings attached to economic development incentives",
+  "summary": "The economic development director presented community impact measures for city incentives, and council members asked to add local hiring and contractors, utility fee waivers for tax-credit housing and developers' track records.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/556dfa0b678237425fb74c04cf960ec60.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/9": {
+  "id": "topeka/9",
+  "title": "Street and sidewalk projects",
+  "summary": "Topeka approved a Lyman Road sidewalk from Vail to Lane and 2027 pavement work on 6th/Fairlawn and Cypress/Sycamore/Rice, and took up design contracts for S. Kansas Avenue from 10th to 17th, SW 37th Street storm sewers and the Menninger Road realignment at Topeka Boulevard.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/d19f85a481b2a8670b3d774811e0d6ad0.html"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/3e5f51a15838a5c96175e04188cf949f0.html"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/26fc97df48211dde114883a92ddf8e240.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/10": {
+  "id": "topeka/10",
+  "title": "2027 social service and alcohol program grants",
+  "summary": "The council approved about $492,000 in 2027 social service grants after a senior center questioned its score, and took up $865,924 in special alcohol and drug program funding.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/7e7de91331bdaf7ca4fac1d9422939540.html"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/3e5f51a15838a5c96175e04188cf949f0.html"
+   }
+  ],
+  "government": "Topeka"
+ },
+ "topeka/11": {
+  "id": "topeka/11",
+  "title": "Bonds for capital projects",
+  "summary": "Topeka issued $8.2 million in general obligation bonds and $5.3 million in temporary notes for capital and improvement district projects while keeping the debt service levy flat.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Governing Body",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/topeka/556dfa0b678237425fb74c04cf960ec60.html"
+   }
+  ],
+  "government": "Topeka"
  },
  "unified-government/0": {
   "id": "unified-government/0",

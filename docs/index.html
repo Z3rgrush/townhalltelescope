@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Town Hall Telescope</title>
-<meta name="description" content="What local governments in Johnson and Wyandotte counties, Kansas, have been discussing, by zip code.">
+<meta name="description" content="What local governments in Johnson and Wyandotte counties and Kansas's largest cities have been discussing, by zip code.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap" rel="stylesheet">
@@ -97,7 +97,7 @@ a { color: var(--accent); }
   <aside>
     <h1>Town Hall Telescope</h1>
     <nav class="regions" aria-label="Regions"><a href="./" aria-current="page">Kansas City area</a><a href="co/">Boulder / Denver area</a></nav>
-    <p class="lede">What city councils and county commissions in Johnson and Wyandotte counties, Kansas, have been talking about. Tap a zip code, or type one.</p>
+    <p class="lede">What city councils and county commissions in Johnson and Wyandotte counties, plus Wichita, Topeka, Lawrence, Manhattan and Salina, have been talking about. Tap a zip code, or type one.</p>
     <form id="find"><input id="zip" inputmode="numeric" maxlength="5" placeholder="Zip code, e.g. 66205" aria-label="Zip code"><button>Show</button></form>
     <button type="button" class="toggle" id="dc" aria-pressed="false">Highlight data center talk</button>
     <div id="detail"><p class="empty">Darker zips had more of their local issues come up at more meetings.</p></div>
@@ -107,7 +107,7 @@ a { color: var(--accent); }
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 // What differs between the region pages. The rest of this file is shared: keep co/index.html in step.
-const PAGE = {area: "Johnson and Wyandotte counties", bins: [20, 26, 31]};
+const PAGE = {area: "Johnson and Wyandotte counties and in Wichita, Topeka, Lawrence, Manhattan and Salina", bins: [20, 26, 31]};
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString("en-US", {month: "short", day: "numeric", year: "numeric"});
 

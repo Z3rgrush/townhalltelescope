@@ -2,7 +2,7 @@
 
 An interactive map of what local governments are discussing, by zip code. There are two regions: the Kansas side of the Kansas City area (`docs/`) and the Boulder / Denver area (`docs/co/`). Click a zip code to see the specific issues most discussed in its city council, county commission and planning meetings over the last three months.
 
-Pilot scope: 47 zip codes and 23 local governments in Johnson and Wyandotte counties.
+Kansas scope: 96 zip codes in Johnson and Wyandotte counties plus the state's other largest cities (Wichita, Topeka, Lawrence, Manhattan, Salina). Wichita blocks automated requests, so its zips show no records yet, and the county governments outside Johnson and Wyandotte are not collected.
 
 - `data/sources.csv` lists where each government posts agendas and minutes.
 - `data/zips.csv` maps each zip to the governments that cover it.
