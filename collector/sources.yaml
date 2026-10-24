@@ -165,3 +165,17 @@
   adapter: linkscan
   pages:
     - https://boccmeetings.jocogov.org/OnBaseAgendaOnline/
+
+# Largest Kansas cities outside the KC area (added 2026-10-24).
+- id: lawrence
+  name: Lawrence
+  county: Douglas
+  adapter: civicweb
+  base: https://lawrenceks.civicweb.net
+  bodies: "Commission|Planning|Board"
+
+- id: manhattan
+  name: Manhattan
+  county: Riley
+  adapter: agendacenter
+  base: https://www.manhattanks.gov

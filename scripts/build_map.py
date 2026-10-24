@@ -45,6 +45,11 @@ KS_PLACES = {
     "Spring Hill": "spring-hill",
     "Westwood": "westwood",
     "Westwood Hills": "westwood-hills",
+    "Wichita": "wichita",
+    "Topeka": "topeka",
+    "Lawrence": "lawrence",
+    "Manhattan": "manhattan",
+    "Salina": "salina",
 }
 CO_PLACES = {
     "Denver": "denver",
