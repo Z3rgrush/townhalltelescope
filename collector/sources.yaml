@@ -162,9 +162,10 @@
 - id: johnson-county
   name: Johnson County Board of County Commissioners
   county: Johnson
-  adapter: linkscan
-  pages:
-    - https://boccmeetings.jocogov.org/OnBaseAgendaOnline/
+  adapter: onbase
+  base: https://boccmeetings.jocogov.org/OnBaseAgendaOnline
+  # Board of County Commissioners, Business Session, Committee of the Whole, Special BOCC, Study Session
+  meeting_types: ["102", "104", "106", "115", "120"]
 
 # Largest Kansas cities outside the KC area (added 2026-10-24).
 - id: lawrence

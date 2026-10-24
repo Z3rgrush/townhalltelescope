@@ -391,5 +391,40 @@ def granicus(src, start, end, log):
     log(f"  {n} documents in window")
 
 
+def onbase(src, start, end, log):
+    """Hyland OnBase Agenda Online (Johnson County). DownloadFile serves a script page that redirects to
+    DownloadFileBytes, so we link the bytes URL directly. "Summary" files are agendas annotated with actions."""
+    base = src["base"].rstrip("/")
+    page, _ = soup(f"{base}/")
+    pages = [page]
+    tok = page.find("input", attrs={"name": "__RequestVerificationToken"})
+    if tok:
+        fmt = lambda d: f"{d.month}/{d.day}/{d.year}"
+        data = [("__RequestVerificationToken", tok.get("value", "")), ("Keywords", ""), ("DateRangeOptionID", "11"),
+                ("DateRangeCustomStartDate", fmt(start)), ("DateRangeCustomEndDate", fmt(end))]
+        data += [("MeetingTypeIDs", t) for t in src.get("meeting_types", [])]
+        r = session.post(f"{base}/Meetings", data=data, timeout=60)
+        if r.ok:
+            pages.append(soup_text(r.text))
+        else:
+            log(f"  search returned HTTP {r.status_code}; using the home page list only")
+    seen, n = set(), 0
+    for pg in pages:
+        for a in pg.find_all("a", href=True):
+            m = re.search(r"DownloadFile/((.+?)_\d+_(Agenda|Summary)_(\d{1,2})_(\d{1,2})_(20\d\d)_[^?]*)\?(.*)", a["href"])
+            if not m:
+                continue
+            name, body, doctype, mo, dy, yr, qs = m.groups()
+            d = date(int(yr), int(mo), int(dy))
+            if name in seen or not _in_window(d, start, end):
+                continue
+            seen.add(name)
+            n += 1
+            body = body.replace("_", " ")
+            url = f"{base}/Documents/DownloadFileBytes/{name}?{qs}"
+            yield Doc(src["id"], body, d, f"{body} {doctype} {d}", url, "minutes" if doctype == "Summary" else "agenda")
+    log(f"  {n} documents in window from {len(pages)} page(s)")
+
+
 ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
-                                    cablecast, wp_events, granicus)}
+                                    cablecast, wp_events, granicus, onbase)}
