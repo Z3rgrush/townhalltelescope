@@ -369,7 +369,15 @@ def _granicus_s3(url):
     r = session.get(url, allow_redirects=False, timeout=60)
     loc = r.headers.get("Location", "")
     m = re.match(r"https?://([\w-]+)\.s3\.amazonaws\.com/(.*)", loc)
-    return f"https://s3.amazonaws.com/{m.group(1)}/{m.group(2)}" if m else (loc or url)
+    if m:
+        return f"https://s3.amazonaws.com/{m.group(1)}/{m.group(2)}"
+    # Sedgwick County's viewers forward to an OnBase meeting page that loads its text by script;
+    # ask OnBase for that text directly.
+    m = re.match(r"(.*/OnBaseAgendaOnline)/Meetings/ViewMeeting\?id=(\d+)&doctype=(\d)", loc)
+    if m:
+        kind = {"1": "agenda", "2": "minutes", "3": "summary"}[m.group(3)]
+        return f"{m.group(1)}/Documents/ViewAgenda?meetingId={m.group(2)}&type={kind}&doctype={m.group(3)}"
+    return loc or url
 
 
 def granicus(src, start, end, log):
@@ -384,6 +392,8 @@ def granicus(src, start, end, log):
             continue
         hrefs = [urljoin(base + "/", a["href"]) for a in row.find_all("a", href=True)]
         minutes = [h for h in hrefs if "/minutes/" in h or "MinutesViewer" in h]
+        if src.get("resolve_minutes"):
+            minutes = [_granicus_s3(h) for h in minutes]
         agenda = [_granicus_s3(h) for h in hrefs if "AgendaViewer" in h]
         for h, kind in ([(minutes[0], "minutes")] if minutes else []) + ([(agenda[0], "agenda")] if agenda else []):
             n += 1

@@ -215,6 +215,7 @@
   base: https://sedgwick.granicus.com
   view_id: 34
   keep_agendas: true
+  resolve_minutes: true  # minutes links forward to OnBase too
 
 - id: shawnee-county
   name: Shawnee County Commission
