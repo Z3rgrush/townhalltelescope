@@ -4,11 +4,11 @@ Window: 2026-07-26 to 2026-10-24
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Topeka | novus | 0 | 0 | 0 | 0 |  |
+| Salina | cablecast | 4 | 4 | 4 | 0 |  |
 
 ## Logs
 
-### Topeka
+### Salina
 ```
-  0 meetings in window
+  4 meeting videos with chapters in window
 ```
