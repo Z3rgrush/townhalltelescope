@@ -359,6 +359,15 @@ def wp_events(src, start, end, log):
     log(f"  {n} events with descriptions in window")
 
 
+def _granicus_s3(url):
+    """AgendaViewer redirects to an S3 bucket whose name has underscores, which fails TLS checks on the
+    virtual-host address; the same file is served from the path-style address."""
+    r = session.get(url, allow_redirects=False, timeout=60)
+    loc = r.headers.get("Location", "")
+    m = re.match(r"https?://([\w-]+)\.s3\.amazonaws\.com/(.*)", loc)
+    return f"https://s3.amazonaws.com/{m.group(1)}/{m.group(2)}" if m else (loc or url)
+
+
 def granicus(src, start, end, log):
     """Granicus ViewPublisher pages (Topeka): one table row per meeting with agenda and minutes links."""
     base = src["base"].rstrip("/")
@@ -371,7 +380,7 @@ def granicus(src, start, end, log):
             continue
         hrefs = [urljoin(base + "/", a["href"]) for a in row.find_all("a", href=True)]
         minutes = [h for h in hrefs if "/minutes/" in h or "MinutesViewer" in h]
-        agenda = [h for h in hrefs if "AgendaViewer" in h]
+        agenda = [_granicus_s3(h) for h in hrefs if "AgendaViewer" in h]
         for h, kind in ([(minutes[0], "minutes")] if minutes else []) + ([(agenda[0], "agenda")] if agenda else []):
             n += 1
             yield Doc(src["id"], cells[0], d, f"{cells[0]} {d}", h, kind)
