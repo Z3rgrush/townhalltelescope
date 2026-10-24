@@ -1,0 +1,314 @@
+ 
+AGENDA 
+Planning Commission Mid-
+Month Meeting 
+Wednesday, September 9, 2026 @ 
+8:00 AM 
+City Hall, 6 E 6th St, ground floor, 
+Lawrence, KS 66044  
+ 
+ 
+This meeting will be held in hybrid format. Members of the public are invited to view the meeting in-
+person or virtually using the Zoom link provided below. 
+  
+The primary format for accessing this meeting is in person at City Hall, 6 E 6th Street. Virtual 
+access to view the meeting cannot be guaranteed due to potential technology issues. 
+  
+To access the meeting virtually: Virtual Meeting Registration via Zoom 
+  
+ 
+  
+Page 
+ 
+A. AGENDA  
+  1.  Regulatory Considerations for Battery Energy Storage Systems in the 
+Unincorporated Area 
+Staff Memo 
+ 
+2 - 8 
+ 
+Page 1 of 8
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+DOUGLAS COUNTY ZONING & CODES 
+3755 E 25th Street 
+Lawrence, KS 66047 
+(785) 331-1343 
+zoning@dgcoks.gov 
+Tonya Voigt 
+ Director 
+ 
+ 
+MEMORANDUM 
+ 
+ 
+To: Lawrence-Douglas County Planning Commission 
+ 
+From: Karl Bauer, AICP , Planner II  
+ 
+Date: September 9, 2026  
+ 
+Re: Regulatory Considerations for Battery Energy Storage Systems 
+INTRODUCTION 
+On July 31, 2024, the Board of County Commissioners initiated a text amendment to 
+address emerging land uses, including Battery Energy Storage Systems (BESS), in the 
+Unincorporated Area. The County’s zoning code currently permits BESS only when 
+accessory to a utility-scale solar installation and has limited regulations. Since the text 
+amendment has been initiated, County staff has been actively engaged in researching 
+BESS to ensure the most well-informed regulations possible are presented to the 
+Planning Commission and the Board of County Commissioners.  Specifically, staff have 
+used resources from the American Planning Association, conferred with planners in 
+peer communities, studied regulations, reviewed packet materials for submitted projects 
+elsewhere, been monitoring relevant technological developments, and met with industry 
+experts.    
+ 
+The purpose of this document is to serve as an outline for discussion among Planning 
+Commissioners. The background is informed by staff research, the layout of the 
+County’s zoning code, and safety standards. 
+ 
+What is a BESS? 
+Battery Energy Storage Systems are arrays of batteries used to store electricity for later 
+use. They can range in scale from small in-home/office systems to utility-scale projects 
+that can be used to power entire cities. Utility-scale systems are typically housed in 
+shipping container-like structures and are often associated with substations, wind/solar 
+installations, other power generation facilities, and industrial land uses. The batteries 
+can take energy from the power generation source or the electrical grid and supply the 
+energy later when needed, such as during a peak time.  
+Page 2 of 8
+REGULATORY FRAMEWORK 
+DEFINITIONS, APPLICABILITY, AND INTENT 
+This section would divide BESS into at least two tiers. Based on the framework of 
+existing regulations on wind and solar installations, these tiers would likely be based on 
+a “small and large” scale like in the wind regulations or a “personal, limited, and 
+commercial/utility” scale like in the solar regulations. The threshold of the tier would be 
+based on energy capacity in kilowatt-hours. The lower tier would require minimal 
+permitting and would likely not require a public hearing, while the larger tier may require 
+a conditional use permit, rezoning, or both. These are also referred to as “BTM” 
+systems, or “behind the meter.” The regulations would only apply to larger-scale “FTM” 
+or “in front-of-the-meter” utility/commercial-scale systems. 
+ 
+Existing regulatory framework: 
+In the wind regulations, small-scale wind energy conversion systems are defined as 
+producing up to 50 kW. Both wind and solar regulations emphasize that the smaller tier 
+is for on-site or personal use. For smaller scale, in-home BESS, a building permit is 
+required, but there is no additional zoning permission necessary. 
+ 
+Thresholds from peer communities: 
+- Allen County, Kansas and Pratt County, Kansas have three tiers that separate at 
+80 kWh and 600 kWh.1 
+- American Clean Power’s model ordinance: 4,000 kWh2  
+- Saline County, Kansas: 1,000 kW3 
+- Solano County, California: 1,000 kWh4 
+ 
+KEY DISCUSSION QUESTION: 
+1. What should be the threshold for dividing between a smaller and larger scale 
+BESS? 
+ 
+SITING CONDITIONS AND CRITERIA 
+This section lists any criteria or issues in addition to those in Section 12-307-2.08 
+(Decision-making Criteria) that would be considered by the Planning Commission and 
+Board of County Commissioners upon consideration of an application. There are 
+important impacts to consider when siting a BESS, including visual impact, fire hazard, 
+existing infrastructure capacity (can the road handle construction traffic), environmental 
+ 
+1 Allen County, Kansas, p. 1 and Pratt County, Kansas, p. 2 
+2 American Clean Power, p. 4 
+3 Saline County, Kansas, p. 1 
+4 Solano County, California, p. 799 
+Page 3 of 8
+impact, and sound generated by the inverters, ventilation systems, and transformers, 
+among others. 
+ 
+Existing Regulatory Framework: 
+In the wind and solar regulations, these considerations include visual impact, noise 
+impact, maintenance of rural character, environmental concerns, impacts to 
+cultural/archaeological sites, infrastructure capacity, company experience and 
+reputation, emergency services training, and decommissioning.  
+ 
+Douglas County has an existing requirement that limits sound generated to 60 dBA. Per 
+Section 12-306-49.04(n)(1) of the Zoning Code, “The operational noise generated from 
+… battery energy storage systems, components, and associated ancillary equipment 
+shall not exceed a noise level of 60 decibels (60 dBA) as measured at the property line 
+or 500 feet from an existing residence.” 60 dBA is comparable to a normal conversation 
+or office environment.5 
+ 
+Additional examples from peer communities: 
+- Johnson County, Kansas has locational criteria that apply to BESS:  
+ “Due to their potentially combustible nature and possible large footprint, the 
+siting of Battery Energy Storage Facilities (BESF) shall endeavor to: 1) locate the 
+BESF in nonresidential areas, 2) avoid locating the BESF in areas used by the 
+public (e.g. parkland), 3) buffer the BESF from the surrounding areas by siting 
+toward the interior of the parcel and through the use of greater parcel sizes and 
+setbacks, 4) take advantage of existing topography, structures and vegetation to 
+provide extra screening, 5) locate and design the BESF so that it mitigates the 
+potential detrimental impacts to the general health, safety and welfare of the 
+community, 6) locate the BESF in areas where the potential adverse impact on 
+the community is minimal, and 7) design and configure the BESF in a way that 
+minimizes adverse impacts such as views, noise, vibration and the like.”6 
+- Saline County, Kansas has a requirement that the project be sited to ensure the 
+viability of agriculture in the immediate vicinity, minimize impacts to neighboring 
+properties and the environment, and allow for decommissioning.7 Saline County 
+also requires projects to be sited to accommodate the growth of cities, limit 
+developing on slopes, and make use of brownfield sites.8 Saline County has a 
+permitted noise range of 60-80 dB within 100 feet and 60 dB at neighboring 
+properties.9 
+ 
+5 Yale University Environmental Health and Safety 
+6 Johnson County, Kansas, p. 30 
+7 Saline County, Kansas, p. 4 
+8 Saline County, Kansas, p. 6 
+9 Saline County, Kansas, p. 9 
+Page 4 of 8
+- Solano County, California prohibits BESS within zones designated as “high fire 
+hazard severity zones” by the State.10 The equivalent agency in Kansas is the 
+Kansas Forest Service, which produces a “Kansas Wildfire Risk Explorer” map.  
+ 
+KEY DISCUSSION QUESTIONS: 
+1. Is the existing 60 dBA sound limit appropriate?  
+2. Should additional standards be included for noise generated by construction? 
+ 
+DEVELOPMENT STANDARDS 
+This section lists specific standards that would need to be satisfied. This can include 
+limits on size, location, height, land disturbance, setbacks, screening, lighting, noise, 
+and other requirements. 
+ 
+Existing Regulatory Framework: 
+The existing BESS regulations within the solar regulations require: 
+- Compliance with NFPA 855 and all other local, state, and federal regulations; 
+- Enclosure by a fence with a self-locking gate; 
+- The area within 10 feet of the BESS cleared of vegetation and covered by non-
+combustible surfacing; 
+- Posting warning signage, and; 
+- A setback of 500 feet from an existing residence. 
+In the solar regulations, there is a provision for “participating” and “non-participating” 
+landowners. It allows for participating landowners to waive certain buffer and screening 
+requirements.  
+ 
+Additional examples from peer communities: 
+- American Clean Power’s model ordinance requires the system to comply with 
+NFPA standards. It also allows for reduced setbacks if an engineered solution is 
+presented.11  
+- Johnson County, Kansas requires battery energy storage systems and other 
+components of a solar facility to “be screened when visible from any road, 
+Residential District, Planned Residential District, Planned Rural District, and any 
+dwelling located outside of the Project Area.”12 Johnson County also requires a 
+150-foot setback from the project boundary or street line.13 
+- Solano County, California requires a 300-foot setback from schools, hospitals, 
+and those with increased sensitivity to air pollution. Solano County also requires 
+a 30-foot-wide fire rated access road around the entire system inside a security 
+ 
+10 Solano County, California Code Page 1032. 4b  
+11 American Clean Power, p. 6 
+12 Johnson County, Kansas, p. 23 
+13 Johnson County, Kansas, p. 18 
+Page 5 of 8
+perimeter fence, a 100-foot setback from the front property line, and a 50-foot 
+setback from the side property lines. Property owners and residents residing on 
+the same parcel as a BESS facility can exempt occupied buildings from distance 
+requirement.14 
+- Saline County has a size limitation of ten acres, which the Planning Commission 
+can increase by an additional 10 acres.15 Setback requirements are based on 
+NFPA requirements and buffering is required based on “specific location 
+conditions.” The regulation allows for reduced setbacks if an engineered solution 
+is presented.16 
+ 
+KEY DISCUSSION QUESTIONS: 
+1. What thoughts do you have about the existing 500 feet setback from a 
+residence?  
+2. Should there be a waiver process for participating landowners?  
+3. Should there be a waiver process if an engineered solution is presented? 
+ 
+APPLICATION REQUIREMENTS 
+This section will outline the specific materials that will need to be submitted with a 
+development application. This can include specific additional plans or maps beyond 
+those generally required to be submitted with a Conditional Use Permit, Site Plan, or 
+Building Permit application. This may include public outreach plans, landscaping or 
+screening plans, construction impact assessments, stormwater management plans, 
+traffic and road maintenance plans, emergency response plans, decommissioning and 
+restoration plans, and bond requirements. Most importantly, this section would require 
+the application to include documentation that any proposed project comply with 
+applicable safety standards established by the National Fire Protection Association, UL, 
+Fire Code, and Building Code. 
+ 
+Staff have noted that in other communities, there may be a requirement that certain 
+technical aspects of the application and required materials be reviewed by third-party 
+qualified professionals at the applicant’s expense.17 Douglas County’s existing 
+regulations for solar facilities, for example, require certain reviews be conducted by a 
+County-selected third-party at the applicant’s expense. 
+ 
+Existing regulatory framework: 
+Existing regulations for wind and solar require one-mile notification, exceeding the 
+requirement of ½ mile for typical Conditional Use Permits. Existing BESS regulations 
+require compliance with NFPA 855. 
+ 
+14 Solano County, California Code Page 1032. 4c 
+15 Saline County, Kansas, p. 6 
+16 Saline County, Kansas, p. 8 
+17 Solano County, California Code Page 1032. 4k 
+Page 6 of 8
+Additional examples from peer communities: 
+- Saline County, Kansas, requires mailed notice of a proposed project to property 
+owners within two miles of the proposed project.18 
+- Solano County, California, requires submittal of a technical report prepared by a 
+qualified third-party fire protection engineer analyzing the spread of the plume 
+and potential “toxic gas dispersion” caused by thermal runaway.19 
+ 
+KEY DISCUSSION QUESTION: 
+1. Should an application for a BESS require greater notification requirements than a 
+typical conditional use permit application? 
+2. Battery energy storage systems tend to have a smaller footprint than a wind or 
+solar facility. Should the environmental and cultural studies currently required for 
+wind and solar facilities be required for a BESS? 
+ 
+PERMITTED USE TABLE 
+The Permitted Use Table is located toward the beginning of the County’s zoning code 
+and it lists the uses allowed in the unincorporated area and in which zoning districts 
+they are considered as permitted, conditional, accessory, or not permitted uses. 
+ 
+Existing regulatory framework: 
+Battery Energy Storage Systems are currently not listed in the Permitted Use Table, 
+though they are de facto considered as an accessory use to solar energy conversion 
+systems, as standards are listed for them there. Battery Energy Storage Systems are 
+often associated with solar and wind installations, substations, other generation 
+infrastructure, and industrial land uses. These uses are currently permitted in the 
+following districts: 
+ AG-
+1 
+AG-
+2 
+CP LS LB RT GB LI GI V BSC 
+Limited 
+Solar 
+C C C C C C C C C C C 
+Comm. 
+Solar 
+C C C - - - - C C C - 
+Acc./Res. 
+Wind 
+A A A A A A A A A A A 
+Comm. 
+Wind 
+C - - - - - C C C - C 
+Major 
+Utility 
+C C C - - - - P P C - 
+Minor 
+Utility 
+P P P P P P P P P P P 
+ 
+18 Saline County, Kansas, p. 12 
+19 Solano County, California Code Page 1032. 4i 
+Page 7 of 8
+KEY DISCUSSION QUESTIONS: 
+1. Which districts should a BESS be permitted in?  
+2. When and where should a CUP be required?  
+3. Which uses should they be allowed to be considered accessory to? 
+ 
+ 
+Page 8 of 8

@@ -1,20 +1,20 @@
 # Collection coverage
 
-Window: 2026-07-25 to 2026-10-23
+Window: 2026-07-26 to 2026-10-24
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Westwood | linkscan | 0 | 0 | 0 | 0 |  |
-| Mission Woods | linkscan | 3 | 3 | 3 | 0 |  |
+| Lawrence | civicweb | 38 | 54 | 53 | 1 |  |
+| Manhattan | agendacenter | 36 | 36 | 36 | 0 |  |
 
 ## Logs
 
-### Westwood
+### Lawrence
 ```
-  skip https://westwoodks.municodemeetings.com/: https://westwoodks.municodemeetings.com/: HTTPSConnectionPool(host='westwoodks.municodemeetings.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'westwoodks.municodemeetings.com'. (_ssl.c:1010)")))
+  32 recent meetings in window
 ```
 
-### Mission Woods
+### Manhattan
 ```
-  https://www.missionwoods-ks.org/2026-council-meetings: 5 dated links in window
+  https://www.manhattanks.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/26/2026&endDate=10/24/2026&dateRange=&dateSelector=: 47 files in window
 ```
