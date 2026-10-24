@@ -224,8 +224,8 @@
 - id: riley-county
   name: Riley County Commission
   county: Riley
-  adapter: agendacenter
-  base: https://www.rileycountyks.gov
+  adapter: civicclerk
+  tenant: rileycoks
 
 - id: saline-county
   name: Saline County Commission
