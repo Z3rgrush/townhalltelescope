@@ -6,6 +6,8 @@ from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
+soup_text = lambda html: BeautifulSoup(html, "html.parser")
+
 from .common import Doc, find_date, get, kind_of, session, soup
 
 KEYWORDS = re.compile(r"minute|agenda|packet|summary|journal", re.I)
@@ -349,5 +351,40 @@ def wp_events(src, start, end, log):
     log(f"  {n} events with descriptions in window")
 
 
+def novus(src, start, end, log):
+    """NovusAGENDA public sites (Topeka): an ASP.NET search form posts back a date range of meetings."""
+    base = src["base"].rstrip("/") + "/"
+    url = base + "MeetingsResponsive.aspx"
+    page, _ = soup(url)
+    form = {i["name"]: i.get("value", "") for i in page.find_all("input") if i.get("name") and i.get("type") != "submit"}
+    for sel in page.find_all("select"):
+        opt = sel.find("option", selected=True) or sel.find("option")
+        form[sel["name"]] = opt.get("value", "") if opt else ""
+    pre = "ctl00$ContentPlaceHolder1$"
+    form.update({pre + "ddlDateRange": "cus", pre + "hfFromDate": f"{start:%m/%d/%Y}", pre + "hfToDate": f"{end:%m/%d/%Y}",
+                 pre + "txtCalendarFrom": f"{start:%m/%d/%Y}", pre + "txtCalendarTo": f"{end:%m/%d/%Y}",
+                 pre + "btnSearch": "Search"})
+    r = session.post(url, data=form, timeout=60)
+    r.raise_for_status()
+    result = soup_text(r.text)
+    n = 0
+    for row in result.find_all("tr"):
+        links = [a for a in row.find_all("a", href=True) if re.search(r"MeetingID=\d+", a["href"], re.I)]
+        if not links:
+            continue
+        cells = [td.get_text(" ", strip=True) for td in row.find_all("td")]
+        d = find_date(" ".join(cells))
+        if not _in_window(d, start, end):
+            continue
+        n += 1
+        body = next((c for c in cells[1:] if c and not find_date(c)), "City Council")
+        hrefs = [urljoin(base, a["href"]) for a in links]
+        minutes = [h for h in hrefs if re.search(r"minute", h, re.I)]
+        agenda = [h for h in hrefs if re.search(r"PDF|agenda", h, re.I) and h not in minutes]
+        for h in (minutes or agenda or hrefs)[:1]:
+            yield Doc(src["id"], body, d, f"{body} {d}", h, "minutes" if minutes else "agenda")
+    log(f"  {n} meetings in window")
+
+
 ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
-                                    cablecast, wp_events)}
+                                    cablecast, wp_events, novus)}

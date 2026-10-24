@@ -179,3 +179,9 @@
   county: Riley
   adapter: agendacenter
   base: https://www.manhattanks.gov
+
+- id: topeka
+  name: Topeka
+  county: Shawnee
+  adapter: novus
+  base: https://topeka.novusagenda.com/agendapublic
