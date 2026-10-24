@@ -82,7 +82,7 @@ def main():
             variants = {}
             # keep_agendas: some cities scan their minutes as images, so the agenda is the readable copy.
             for d in (group if src.get("keep_agendas") else minutes or group):
-                key = re.sub(r"\s*-\s*(pdf|html|adopted)\b", "", d.title, flags=re.I).strip().lower()
+                key = re.sub(r"\s*-\s*(pdf|html|adopted)\b", "", d.title, flags=re.I).strip().lower() + d.kind
                 if key not in variants or re.search(r"-\s*pdf\b", variants[key].title, re.I):
                     variants[key] = d
             keep.extend(variants.values())
