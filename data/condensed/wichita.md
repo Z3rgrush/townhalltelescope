@@ -1,0 +1,646 @@
+# wichita
+
+## [wichita#0] 2026-07-28 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting July 21, 2026
+- Presentation of the Key to the City to Chief Snow
+- Board of Bids and Contracts dated July 27, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Approve that pursuant to Section 2.04.090 Council Member Becky Tuttle's travel
+- with A.R. 3.1, be approved. Upon return from travel, actual expenses shall be
+- RECOMMENDED ACTION: Approve the travel
+- COUNCIL MEMBER APPOINTMENTS AND COMMENTS
+- Applications for Licenses to Retail Cereal Malt Beverages:
+- Applications for Licenses to Retail Cereal Malt Beverages
+- RECOMMENDED ACTION: Approve licenses subject to staff review and
+- Preliminary Estimates for paving improvements to serve Brookfield South
+- 07-27-2026 Board of Bids.pdf
+- Preliminary Estimates for sewer improvements to serve Mies 2nd Addition,
+- Agreements/Contracts:
+- Connecting Link Agreement for State and Federal Highways
+- RECOMMENDED ACTION: Approve the agreement and authorize the
+- Service Employees International Union (SEIU) Third Amendment to
+- RECOMMENDED ACTION: Approve the Third Amendment to MOU and
+- Design Services Agreements:
+- Supplemental Design Agreement No. 2 for Harry from 127th Street East to
+- 143rd Street East (District II)
+- RECOMMENDED ACTION: Approve Supplemental Design Agreement No. 2
+- Partial Acquisition of 13927 West Maple for the Maple Street from 135th to
+- 167th Streets Improvement Project and Maple Water Pump Station Project
+- RECOMMENDED ACTION: Approve the acquisition and approve the budget
+- Partial Acquisition of 2919 North Hoover for the Hoover Road: 21st to 29th
+- Street Road Improvement Project (District VI)
+- RECOMMENDED ACTION: Approve the acquisition, approve the budget, and
+- SEIU 3rd amendment signed by EF-GJ-MF.pdf
+- Overestimate Bid for Paving Improvement to Serve Gossard's Addition (District
+- RECOMMENDED ACTION: Approve the revised petition, approve the
+
+## [wichita#1] 2026-07-28 | City Council | minutes
+- Approve the minutes of regular meeting July 21, 2026
+- Dalton Glasscock moved to Approve the minutes of regular meeting July 21, 2026
+- Presentation of the Key to the City to Chief Snow
+- Lily Wu moved to approve Consent Agenda items 1 through 9
+- Mayor Wu stated Consent Agenda item number ten is the Wichita Airport Authority's public exigency ratification for purchase of replacement equipment for the airfield electrical vault at Wichita Dwight D. Eisenhower National Airport. City Manager, can you just let us know any information regarding th
+- City Manager Dennis Marstall stated yes, thank you, Mayor, for bringing attention to that. Actually, we have Nate Hinkel from the airport, the audience will ask him to come forward first and give a quick update. We did have a fire issue, water issue. I'm sorry, water issue for him to outline. And I 
+- , the same night that affected much of the City with high water at ICT. We received about 10.3 inches of rain overnight and with the low levels of the airfield, there was some flooding in our underground regulator vault. That vault is controlled with some sump pumps and has some elevated equipment i
+- Mayor Wu stated thank you very much, Nate, and your entire team. I just wanted to highlight that there have been some misinformation regarding what has happened. And we are resting assured right now that regular operations are still as is, and you guys are doing everything even until the parts come 
+- Lily Wu moved to approve and ratify the public exigency for the ratification for purchase for Consent Agenda item number 10
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated July 27, 2026
+- 07-27-2026 Board of Bids.pdf
+- Mayor Wu stated thank you Josh. Questions for staff? I'll begin. Can you go to slide number three, please? I wanted to know how wide the sidewalk improvements will be for Twenty First Street
+- Street is pretty much solid pavement from building front to building front. So I should actually know the answer to this and I apologize that I don't. So it's not a traditional street design where we have six foot sidewalk, a grass strip and then curb. It's pretty much going to be sidewalk pavement,
+- Mayor Wu stated thank you very much. I know that that is in front of Empower North End, So I just wanted to make sure that, that was wide enough as many people do walk around there when they do close down the street for Open Streets, as well as several of the events that Empower has created in that 
+- Josh Lauber, Finance Department, stated absolutely, thank you for the question. So for the sixteen thousand gross vehicle weight, cab and chassis, there was three bids. The bid of one hundred twenty four thousand is an incomplete bid. Meaning, the bidder did not bid option three, which option three 
+
+## [wichita#2] 2026-08-04 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- Cynthia Fitz - Wichita Police accountability
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting July 28, 2026
+- AWARDS AND PROCLAMATIONS
+- Daycia Hill - Wichita Police use of force
+- Sybil Strum - Home and Exploration Park
+- Helen Reicher - Housing is a Human Right
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated August 3, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Amending Charter Ordinance 228 of the Code of the City of Wichita
+- RECOMMENDED ACTION: Approve the charter ordinance amendment, place
+- the ordinance on first reading, and authorize the necessary signatures
+- 2027 Annual Operating Budget and 2027-2036 Capital Improvement Program
+- RECOMMENDED ACTION: Receive public comment on the 2027 Proposed
+- Budget and the 2027-2036 Proposed Capital Improvement Program
+- Public Hearing and Request of a Letter of Intent (LOI) to Issue Industrial
+- Revenue Bonds (IRB) (Wesley Medical Center, LLC) (District I)
+- RECOMMENDED ACTION: Close the public hearing, adopt the resolution, and
+- 08-03-2026 Board of Bids.pdf
+- Charter Ordinance 245 Amending Charter Ordinance 228
+- Resolution Authorizing the Continued Possession and Consumption of Alcoholic
+- RECOMMENDED ACTION: Close the public hearing and adopt the resolution
+- authorizing the renewal of a Common Consumption Area Permit
+- Pulled by City Manager 7/30/2026 - An Ordinance Amending Section 2.56.030
+- Request for Proposal 260121 Veterinary Consulting Services
+- RECOMMENDED ACTION: Approve the agreement with KHS and authorize
+- ZON2026-00022 Zone Change Request in the City from SF-5 Single-Family
+- requested zone change
+- findings, and approve the zone change request (requires five of seven votes),
+- ordinance after approval; or 2) Return the case to MAPC for additional
+- consideration (requires four of seven votes)
+- 08-04-2026 Resolution No. 26-282 Issuing Bonds for Financing Improvements to
+
+## [wichita#3] 2026-08-04 | City Council | minutes
+- Approve the minutes of regular meeting July 28, 2026
+- Lily Wu moved to approve the minutes of regular meeting July 28, 2026
+- AWARDS AND PROCLAMATIONS
+- Cynthia Fitz - Wichita Police accountability
+- Cynthia Fitz stated first of all, my name is Cynthia Fitz. And I'm here for, Wichita Police Accountability. This is a very tender area for me and I hate that I have to be here like this today. First, I want to give honor to the most high Jah who I'm always in his presence. Okay. My name is Cynthia F
+- Daycia Hill - Wichita Police use of force
+- Daycia Hill stated good morning. My name is Daycia Hill. And I'm here today not just as a citizen but as a sister of Deaundre Hill. I'm also here because I'm very tired. I'm tired of watching families here in Wichita, Kansas, bury their loved ones. I'm tired of hearing about another officer involved
+- Sybil Strum - Home and Exploration Park
+- My name is Sybil Strum. My name is Sybil Strum. I reside at 326 North Walnut. I am here to address that behind closed doors they illegally seized my old house. It was a 1910 home. It was built by Mr. (Spears). Behind closed doors. I was at 2909 North Richmond they seized my house. My house was a saf
+- Helen Reicher - Housing is a Human Right
+- Helen Reicher stated hello. Helen Reicher, currently District 3. I'm actually here today to talk about our homeless community because I am part of it. I may not live in a tent but I am homeless. For the past couple of years I have been a guest in other people's homes, a friend's unfinished basement,
+- Bryan Frye stated good morning. Some passionate people here this morning. Bryan Frye, 3109 Ridgeport, Wichita. So, originally, my comments were going to be about transparency and openness in campaign finance contributions and why no one on Council was taking responsibility for the proposed ordinance
+- Council Member Shepard stated Okay. You have my commitment that I'll be there. I want to say that when you came up, I see in you, my mother, I see my sister. I'm sorry for the pain that you are feeling right now. I hear the pain in your voice. I want you to know that I don't look at you as another n
+- Lily Wu moved to approve Consent Agenda items 1 through 15
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated August 3, 2026
+- 08-03-2026 Board of Bids.pdf
+- Lily Wu moved to receive and file report, approve the contracts and authorize the necessary signatures
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Amending Charter Ordinance 228 of the Code of the City of Wichita
+- Charter Ordinance 245 Amending Charter Ordinance 228
+
+## [wichita#4] 2026-08-11 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of the regular meeting August 4, 2026
+- AWARDS AND PROCLAMATIONS
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated July 20, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Ordinance Reestablishing the Access Advisory Board (AAB)
+- RECOMMENDED ACTION: Place the ordinance on first reading and authorize
+- 2026 School Violence Prevention Program Grant
+- RECOMMENDED ACTION: Approve the grant application
+- 08-10-2026 Board of Bids.pdf
+- Access Advisory Board Ordinance - DELINEATED.docx
+- 08-18-2026 Ordinance No. 53-093 Creating the Access Advisory Board as an
+- Appointive Board and Amending Sec 2.12.020.docx
+- NOTICE: Public hearing on planning items is conducted by the MAPC under provisions of
+- State law and City Council policy is to not accept applicant or public comments at the Council
+- meeting. The adopted Council Policy #9 is that additional hearing on zoning applications will
+- not be conducted by the City Council unless a statement alleging (1) unfair hearing before the
+- whether to return the matter to the MAPC for rehearing
+- NON-CONSENT HOUSING AGENDA - NONE
+- COUNCIL MEMBER APPOINTMENTS AND COMMENTS
+- Applications for Licenses for Cereal Malt Beverages:
+- Applications for Licenses to Retail Cereal Malt Beverages
+- RECOMMENDED ACTION: Approve licenses subject to staff review and
+- Preliminary Estimates for water improvements to serve First Furlong Addition
+- HOUSING AGENDA
+- NOTICE: The City Council is meeting as the governing body of the Housing Authority for
+- consideration and action on the items on this Agenda, pursuant to State law, HUD, and City
+- ordinance. The meeting of the Authority is deemed called to order at the start of this Agenda
+- consideration and action on items on this Agenda, pursuant to State law and City ordinance
+- Preliminary Estimates for sewer improvements to serve First Furlong Addition
+
+## [wichita#5] 2026-08-11 | City Council | minutes
+- Approve the minutes of the regular meeting August 4, 2026
+- Lily Wu moved to approve the minutes of the regular meeting August 4, 2026
+- AWARDS AND PROCLAMATIONS
+- Council Member Tuttle stated thank you. Thank you very much. I would just like to take a point of privilege since we're talking about honors. One of our very own team members for the City of Wichita, Sharon Dickgrafe in legal. She's been with the City for 34 years I believe. I'm proud to announce th
+- Darcy Smith stated good morning my name is Darcy Smith. I actually live in Park City, Kansas. I am the founder of Hope on the Street Love and Action ICT. Good morning Mayor, City Council Members and City Manager as well as citizens of Wichita, Kansas and Sedgwick County. I'm standing before you toda
+- Tanya Webb appeared late. Tanya Webb stated I’ve never spoken before Council before. My name is Tanya Webb. I'm coming to speak to you about the issue of criminalizing camping. I sent almost every single one of you an email and also you an email. And tagged you in my Facebook post because it was ver
+- Dennis Marstall, City Manager, stated in my reply back, we highlighted that the voucher actually we can check into what she highlighted, but the process and this is new. Our overall objective is to help those who need some relief from the heat who may not have a place to go. What we've done is I thi
+- Dennis Marstall, City Manager, Stated as of now, we feel when we did yesterday track the program, didn't have as many takers as we thought, so we want to track it today with the vouchers. But I do want to still try the voucher so that we know for future how this has been utilized. It should be anyon
+- Council Member Shepard stated a follow-up for you: Given that we know that the cooling stations will probably be utilized by folks who need additional services, how are you directing staff to ensure that they are present at those cooling centers to make contact with those individuals? Should they ne
+- Council Member Shepard stated I would like to see a concerted effort to, at least within reason, placing supports at these cooling stations. I think this is a unique opportunity. If someone walks into a cooling station to get reprieve from the heat, and they are also interested in learning how to st
+- Council Member Hoheisel stated Thank you, Mayor. Thank you, Vice Mayor Glasscock for that. I fully agree. I think we're building airplanes as fly right now with temperatures one hundred and five hundred and six degrees. That's dangerous. So I do appreciate that. I would like to at least for the time
+
+## [wichita#6] 2026-08-18 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting August 11, 2026
+- RECOMMENDED ACTION: Approve the minutes of the regular meeting August 11, 2026
+- AWARDS AND PROCLAMATIONS
+- National Breastfeeding Month
+- IPei Chung - Fairness & Equity in the City's Event Permitting Process
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated August 17, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- requested building permit. Alternatives: 1. Override the decision of the DDRC,
+- adopt alternative findings, and approve the Delano Neighborhood Overlay
+- District design review application for this project
+- 08-17-2026 Board of Bids.pdf
+- DER2025-00007 Downtown Wichita Action Plan 2035
+- RECOMMENDED ACTION: approve an ordinance adopting the Downtown
+- Wichita Action Plan 2035 as an element of the Wichita-Sedgwick County
+- Comprehensive Plan. (requires four of seven votes), authorize the necessary
+- signatures, and authorize the ordinance to be published
+- Override the MAPC and make modifications to the plan text (requires a two
+- and do not adopt the plan (requires a two-thirds majority, or five of 7 votes); or
+- 3. Return the recommendations to the MAPC for reconsideration and indicate
+- the reason for the MAPC to reconsider the item (requires four of seven votes)
+- 2027 Annual Operating Budget and 2027-2036 Capital Improvement Program
+- ELEVATION - (Jackson Plan).pdf
+- HPC2026-00262 UHR demolition permit letter 8-10-2026.pdf
+- 08-18-2026 Resolution No. 26-306 Crown Uptown Extending Interim Controls.docx
+- DowntownWichitaActionPlan - Final Draft_Pending.pdf
+- 08-25-2026 Ordinance No. 53-095 Adopting the Downtown Wichita Acition Plan
+- 2026-07-23_MAPC_Downtown Wichita Action Plan_Resolution_FINAL_Signed.pdf
+- 2026 Q2 Wichita ARPA Recovery Plan.pdf
+- RECOMMENDED ACTION: Receive public comment on the 2027 Proposed
+- Budget and the 2027-2036 Proposed Capital Improvement Program
+
+## [wichita#7] 2026-08-18 | City Council | minutes
+- Approve the minutes of regular meeting August 11, 2026
+- Lily Wu moved to approve the minutes of the regular meeting August 11, 2026
+- AWARDS AND PROCLAMATIONS
+- National Breastfeeding Month
+- Mayor Wu stated Thank you again, City Manager, for featuring these awards videos from around our community. The next round of videos will be from the Kansas African American Museum and their Trailblazer videos. So again, thank you for that
+- Council Member Tuttle stated thank you. I always appreciate the opportunity to provide recognition and I come to you yet again today with another recognition from one of our very own City of Wichita team members, Jennifer Magana, our Director of Law, recently received an award from the Wichita Bar A
+- IPei Chung - Fairness & Equity in the City’s Event Permitting Process
+- Ipei Chung stated good morning, Mayor and City Council Members. My name is Ipei Chung. I own the Fung Menu at 221 North St. Francis. I'm here today alongside the Wichita Chinese Association to protect our meet often, Asian cultural event and our downtown merchants from severe business interruption. 
+- Raffaele Fazio stated thank you, Mayor Wu, Councilmembers. My name is Raffaele, I'm here on behalf of Movement Musick, which hosts Somewhere Fest. Just a few points to talk to you about what Somewhere Fest is. It's being held September twenty fifth and twenty sixth. It's our third year, brings in ap
+- Freddy Hutt stated he is present. Appreciate everybody's time today. I am actually here, most people are familiar with me and my promotion regionally in the community for workforce development work. I am here as a stakeholder of the community and a community member who is incredibly passionate about
+- Andrew Cranmer stated good morning, Council Members. My name is Drew Cranmer and I reside within District Five at 3626 North Ridgeport Street, Wichita Kansas 67205. I am with the Sunflower Privacy, Alliance and I want to talk about something simple. You cannot oversee what you cannot see. On April 3
+- Sarah Cowling stated good morning. My name is Sarah Cowling, and once again, I am part of all of your guys' districts. I lost my apartment last week, and I am here to speak with you as an example, how homelessness is a. I can't even read my writing. Anyway, it's not exclusive. It doesn't. It happens
+- Council Member Shepard stated thank you, Mayor. I am curious if there are any resources within our tool box to help people like Sarah. Sarah, thank you so much for the courage and I don't know where you went, but the courage and strength that you continue to provide every single day, The vulnerabili
+
+## [wichita#8] 2026-08-25 | City Council Evening Meeting | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- William Glander - Storm Drains
+- Barbara Myers - Waiver of Permit Fee for 25 Military Veteran Cemetery Markers
+- David Braddock - Wichita Non-Discrimination Ordinance
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of the regular meeting of August 18, 2026
+- AWARDS AND PROCLAMATIONS
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated August 24, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS
+- Petition for Public Improvements
+- RECOMMENDED ACTION: Approve the revised petition and budget, adopt the
+- amending resolution and authorize the necessary signatures
+- Zone Change Request in the City from LC Limited Commercial District to GC
+- Southwest Corner of East Kellogg Drive and South Mission Road (6801 East
+- Kellogg Street). (District II)
+- RECOMMENDED ACTION: Adopt the findings of the MAPC and approve the
+- requested zone change, authorize the necessary signatures, and instruct the
+- City Clerk to publish the ordinance after approval (requires four of seven votes)
+- requested zone change (requires five of seven votes); or 2) Return the case to
+- MAPC for additional consideration (requires four of seven votes)
+- 08-24-2026 Board of Bids.pdf
+- 08-25-2026 Resolution No. 26-308 Stormwater Drain No. 533 Baalmann 5th Addition
+- 09-01-2026 Ordinance No. 53-099 ZON2026-00031.docx
+- Revenue Neutral Rate: Self Supported Municipal Improvement District 2027
+- RECOMMENDED ACTION: Close the public hearing record, approve the
+- resolution to exceed the revenue neutral rate for the Self Supported Municipal
+- Improvement District (SSMID), conclude the public hearing, and authorize the
+- Revenue Neutral Rate: City of Wichita 2027 Proposed Budget
+- resolution to exceed the revenue neutral rate for the City of Wichita, and
+- conclude the public hearing, and authorize the necessary signatures
+- 2027 Annual Operating Budget and 2027-2036 Capital Improvement Program
+- RECOMMENDED ACTION: Close the public hearing and:
+
+## [wichita#9] 2026-08-25 | City Council Evening Meeting | minutes
+- Mayor Wu stated before we continue, I just want to recognize that we have a new Wichita Fire Chief. Chief Michael Mire is in attendance. I also want to give a quick shout out to Building Services and Public Works for cleaning. There was a little bit of a safety issue and we got that all cleaned. So 
+- Approve the minutes of the regular meeting of August 18, 2026
+- Lily Wu moved to approve the minutes of the regular meeting of August 18, 2026
+- AWARDS AND PROCLAMATIONS
+- William Glander - Storm Drains
+- William Glander stated good evening Council Members. I'm William Glander. I live at 235 North Elizabeth. I'm speaking to you tonight because our city's infrastructure is failing to keep up with... and it is directly causing the flooding that we are seeing in our streets. I have over 15 years hands-o
+- Barbara Myers - Waiver of Permit Fee for 25 Military Veteran Cemetery Markers
+- Barbara Myers stated hello. I came to you tonight originally to ask for a waiver of permit fees. However, I was informed last night at four forty five that those had been waived. First of all, I want to thank Reggie for doing that. We appreciate you very much. We appreciate the City for paying atten
+- Kurt Oswald stated good evening Mayor, Council Members. My name is Kurt Oswald and I'm the Vice President of the Wichita Public Library Board of Directors, Chairperson of the Library Advocacy Committee and District Three Advisory Board Member. Concerned citizen and I appreciate the opportunity to sp
+- David Braddock - Wichita Non-Discrimination Ordinance
+- David Braddock stated good evening, Mayor Wu, Council Members. If you don't know my name is David Bradock. I'm a resident of Riverside in Maggie's district, District Four. I've addressed you multiple times on this, but tonight I just want to remind people who don't know. I was the first person ever 
+- Mayor Wu stated thank you, Max District Number Two Council Member Tuttle. I am going to address those, Five comments really quickly. City Manager, regarding the stormwater, I'm looking right now at the stormwater advisory board. It looks like all the appointments are expired. So, if maybe Public Wor
+- City Manager Dennis Marstall stated we will pull it up here and I'll have that during our budget presentation
+- Mayor Wu stated Thank you. To Mr. David, again Council Member Ballard has taken a private meeting with David. We provided that information now on the transparency portal. It is located at Wichita.gov/transparency, all the data regarding the number of cases filed, et cetera, are on the transparency p
+
+## [wichita#10] 2026-09-01 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting August 25, 2026
+- Oath of Office - Fire Chief Michael Mire
+- AWARDS AND PROCLAMATIONS
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated August 31, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Design Review Application
+- Alternatives: 1. Approve the Delano Neighborhood
+- Overlay District Design Review Application
+- Acceptance and Administration of ACF Street Outreach Program (SOP) Grant
+- Wichita Youth Street Outreach and Housing Navigation Project
+- RECOMMENDED ACTION: Approve submission and acceptance of the
+- Administration for Children and Families (ACF) (SOP) grant for the Wichita
+- Youth Street Outreach & Housing Navigation Project, authorize the necessary
+- signatures, and acknowledge that the grant application was submitted pursuant
+- Kansas Gas Service (KGS) Upsizing Agreement for Biological Nutrient Removal
+- 08-31-2026 Board of Bids.pdf
+- 08-31-2026 Board of Bids WAA.pdf
+- 6-2 Elevation Plan.pdf
+- 6-2 Site Plan_1.pdf
+- 8-3 Elevation Plan.pdf
+- 8-3 Landscape Plan.pdf
+- RECOMMENDED ACTION: Approve the agreements and authorize the
+- Contract and Vendor Selection for Intelligent Transportation System (ITS)
+- Improvements along 21st Street North from 119th Street West to Main Street
+- RECOMMENDED ACTION: Approve the selection of BHC, approve the contract
+- Funding for 2027 Water and Sewer Main Improvements
+- RECOMMENDED ACTION: Approve the projects, adopt the resolutions, and
+- RECOMMENDED ACTION: Approve the design as presented
+- O.J. Watson Park Murals 30% Design Concept (District III)
+- RECOMMENDED ACTION: Approve the 30% design concepts
+- Contract for Emergency Veterinary Medical Services
+- BNR KS Gas Service Upsizing Agreement (signed to form).pdf
+- BNR KS Gas Upsizing Agreement (signed to form).pdf
+- 260072_Project G_BHC_Law Signed_signed.pdf
+- 26-313 2027 Arterial Water Mains.docx
+- 26-313 2027 Arterial Water Mains NOI.docx
+
+## [wichita#11] 2026-09-01 | City Council | minutes
+- Approve the minutes of regular meeting August 25, 2026
+- Lily Wu moved to approve the minutes of regular meeting August 25, 2026
+- Oath of Office - Fire Chief Michael Mire
+- AWARDS AND PROCLAMATIONS
+- Beverly Clagg stated good morning. My name is Beverly Clagg. I reside in District Six. I live in Wichita and have for eighty years. After reading the news last night, I had to come and speak. Wichita plans to build a spend a total of twelve million on a bike bridge, but our very own Wichita City emp
+- Christina Jackson stated I'm Christina Jackson and I live in district two, yes,21st and Rock. And I've been here talking to you guys at least four times in a meeting like this, emailing personally. So I'm kind of got to talk to Mr. Shepard and the people at home and here instead now. This bridge, a 
+- Council Member Tuttle stated Thank you, thank you, Miss Jackson, for being here. I just wanted to make that comment to your mother. Also, thank you for being here. We didn't cut employee benefits. All of our City employees, actually, our non-union employees, received a three percent merit increase a
+- Council Member Hoheisel stated Thank you, Mayor. Thank you guys for coming. I think Council Member Tuttle was right. I think there's some. There was a $300, 000 tuition reimbursement fund. I don't know if that's what you're talking about. Okay, we we did keep some money in that fund. The rest of it 
+- Sybil Strum stated my name is Sybil Strum, and I live at 362, no, 326 North Walnut. I am outraged. My house was not. I did not get the homeowner did not get any information. So I called Dave Unruh, Dave Unruh, and he told me to call the police, which I did. I would like you all to know, you had no r
+- Tanya Webb stated my name is Tanya Webb. I'm actually with District 6. So I wasn't planning on speaking today. I was just coming in to give some information and. I've been paying attention to the budget and things like that. If you don't remember, I was here August 11th, and I was speaking about the
+- Darcy Smith stated Good morning, Mayor City Council. My name is Darcy Smith, and I am from Park City, Kansas. I’ve met quite a few of you, getting better at this, standing in front of you guys, and thank you for Tanya for coming up here. Tanya has been amazing. She's been helping me navigate some th
+- Vice Mayor Glasscock stated Thank you, Mayor. To Tanya, specifically, I've had at the front desk in the last week. We met about your application. If you go to the Council front desk, Brandi will have a document for you to let you know how to check on the application
+
+## [wichita#12] 2026-09-08 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting September 1, 2026
+- AWARDS AND PROCLAMATIONS
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS - CANCELLED
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Termination of Lease Agreement at 515 South Wichita (District I)
+- RECOMMENDED ACTION: Approve the termination of the lease agreement,
+- Agreements and Funding for Redbud Trail from Woodlawn to K-96 Phase 2
+- RECOMMENDED ACTION: Accept the donation, revised budget, approve the
+- agreements, and adopt the amending resolution
+- Acceptance and Administration of the Affordable Housing and Supportive
+- Services Demonstration (AHSSD) Grant - Park Landing Supportive Services
+- RECOMMENDED ACTION: Approve submission and acceptance of the
+- Affordable Housing and Supportive Services Demonstration (AHSSD) grant for
+- Park Landing, authorize the necessary signatures, and acknowledge that the
+- application was prepared in accordance with federal requirements and
+- 26-319 Public Improvements Involving Redbud Bike Path from Woodlawn to K
+- NON-CONSENT HOUSING AGENDA -NONE
+- Veoci Inc. Information Technology Agreement - Supplemental Agreement No. 5
+- RECOMMENDED ACTION: Approve the supplemental agreement an authorize
+- HPC2026-00262 Informal Hearing Planning Director Follow Up Letter.pdf
+- NOTICE: Public hearing on planning items is conducted by the MAPC under provisions of
+- State law and City Council policy is to not accept applicant or public comments at the Council
+- meeting. The adopted Council Policy #9 is that additional hearing on zoning applications will
+- not be conducted by the City Council unless a statement alleging (1) unfair hearing before the
+- whether to return the matter to the MAPC for rehearing
+- HOUSING AGENDA
+- NOTICE: The City Council is meeting as the governing body of the Housing Authority for
+- consideration and action on the items on this Agenda, pursuant to State law, HUD, and City
+- ordinance. The meeting of the Authority is deemed called to order at the start of this Agenda
+
+## [wichita#13] 2026-09-08 | City Council | minutes
+- Approve the minutes of regular meeting September 1, 2026
+- Lily Wu moved to approve the minutes of regular meeting September 1, 2026
+- AWARDS AND PROCLAMATIONS
+- Jason Chaithonh stated good morning, everyone. My name is Jason. I am here to represent our family’s small business, the Fun Venue LLC, at 221 North Saint Francis Street. I am speaking today to report a shocking abuse of authority by the Park and Recreation Department under the City code section 3.1
+- City Manager Dennis Marstall stated so, there, knowing there's an appeal underway, some of the limited information is that we have a street closure process and we have an event process as well. So, there are kind of two different processes. So, make sure we understand that. With the road closure, pa
+- City Manager Dennis Marstall stated and correct. We also had. That's what we're verifying as part of the question. Because even then, some of the employees of the businesses who may not even be connected to the property ownership is part of the question. I don't have that detailed ordinance in front
+- Sarah Cowling stated good morning, I am Sarah Cowling. I am in all districts right now. I am a homeless citizen. I am here. I guess I decided just every week I was going to check in with you guys. I think it’s important for you guys to know the voices that are out there. I've even thought about if I
+- Valerie Haney stated good morning. My name is Valerie Haney, and I'm not sure if I count because I'm currently living with my mother in Augusta, Kansas. But I just wanted to say thank you, Madam Mayor. Thank you for all you people who are working towards expanding access, the pedestrian and bike acc
+- Lily Wu moved to approve Consent Agenda items 1 through 9
+- BOARD OF BIDS AND CONTRACTS - CANCELLED
+- PETITIONS FOR PUBLIC IMPROVEMENTS - NONE
+- Termination of Lease Agreement at 515 South Wichita (District I)
+- Gerri Ford, Real Estate Services, stated yes, we did. One of the challenges that the Kansas Sports Hall of Fame is their income, their revenue. Before having moved to this location, or at the early stages of having moved to this location, Sports Hall of Fame did receive money from the State Board of
+- Council Member Hoheisel stated okay, now they had two events; they wanted later this year for us to maybe help out with. Would that require us to terminate the lease agreement so we can run the museum, or can that be done if the lease agreement is still in place?
+- Gerri Ford, Real Estate Services, stated the museum would not continue to operate there, but the the events that are currently scheduled could still occur. And if we entered into a contractual agreement with the operator of those events, the City could allow those events to enter to continue
+
+## [wichita#14] 2026-09-15 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- 455 N. Main Street, Wichita, KS 67202
+- AWARDS AND PROCLAMATIONS
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated September 14, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS
+- RECOMMENDED ACTION: Approve the new and revised petitions and
+- budgets, adopt the new and amending resolutions and authorize the necessary
+- Public Hearing and Request of a Letter of Intent (LOI) to Issue Industrial
+- Revenue Bonds (IRB) (MTW Properties, LLC) (District VI)
+- RECOMMENDED ACTION: Close the public hearing, adopt the resolution, and
+- 09-14-2026 Board of Bids.pdf
+- Elm Street.pdf
+- 26-331 Water Improvements - Elm Street Addition WDS 024390.docx
+- 26-332 Water Improvements harbor Isle North Addition WDS 024386.docx
+- 26-333 Sanitary Sewer Improvements Harbor Isle North Addition SS 024387.docx
+- 26-334 Phase 2 Sanitary Sewer Improvements Harbor Isle North Addition SS
+- 26-335 Left Turn Lane Paving Improvements Harbor Isle North Addition PV
+- 26-336 Water Improvements Eastside Community Church 3rd Addition WDS
+- 26-337 Sanitary Sewer Improvements Eastside Community Church 3rd Addition SS
+- 26-338 Collector Water Improvements Young 2nd Addition WDS 022298.docx
+- 26-339 Stormwater Drain No 553 Young 2nd Addition SWD 553 085626.docx
+- 26-340 Collector Paving Improvements Young 2nd Addition PV 086179.docx
+- RECOMMENDED ACTION: Approve the recommended premium equivalents
+- for the 2027 group health and dental plans and approve the inclusion of Tria
+- RECOMMENDED ACTION: Approve the contracts with Foreign Language
+- necessary signatures and approve any necessary budget adjustment
+- Bond and Note Sale
+- RECOMMENDED ACTION: Ratify the award of the bids by the City Manager for
+- each series of bonds and notes, adopt the Bond Ordinance on a Declaration of
+- Emergency basis, adopt the Bond and Note Resolutions, and authorize the
+- RECOMMENDED ACTION: Approve the MOU and authorize the necessary
+- Contracts for Command Vehicles
+
+## [wichita#15] 2026-10-06 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting September 22, 2026
+- AWARDS AND PROCLAMATIONS
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated October 5, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS
+- RECOMMENDED ACTION: Approve the new petitions and budgets, adopt the
+- new resolutions and authorize the necessary signatures
+- 10-05-2026 Board of Bids.pdf
+- 10-06-2026 26-353 Water Distribution System Phase 1 - Rivington Addition WDS
+- 10-06-2026 26-354 Water Distribution System Phase 2- Rivington Addition WDS
+- 10-06-2026 26-355 Water Distribution System Phase 3 - Rivington Addition WDS
+- 10-06-2026 26-356 Water Main - Rivington Addition WDS 026509.docx
+- 10-06-2026 26-357 Storm Water Drainage No. 564 Rivington Addition SWD 564
+- 10-06-2026 26-358 Storm Water Sewer No. 840 Phase 1 Rivington Addition SWS 840
+- 10-06-2026 26-359 Storm Water Sewer No. 841 Phase 2 - Rivington Addition SWS 841
+- 10-06-2026 26-360 Sanitary Sewer Phase 1 Rivington Addition SS 026510.docx
+- 10-06-2026 26-361 Sanitary Sewer Phase 2 Rivington Addition SS 026511.docx
+- Ordinance Reestablishing the Access Advisory Board (AAB)
+- RECOMMENDED ACTION: Place the ordinance on first reading and authorize
+- Public Hearing and Request for Economic Development Exemption (EDX) (Lee
+- RECOMMENDED ACTION: Close the public hearing, place the ordinance on
+- Public Hearing and Request for Economic Development Exemption (EDX)
+- Supplemental Agreement No. 3 Prestressed Concrete Cylinder Water Pipe
+- RECOMMENDED ACTION: Approve Supplemental Agreement No. 3, adopt the
+- amending resolution, and authorize the necessary signatures
+- Contract and Vendor Selection for Multiple Capital Improvement Program
+- Projects (CIP) (Districts II and V)
+- 10-06-2026 26-362 Sanitary Sewer Phase 3 Rivington Addition SS 026512.docx
+- Access Advisory Board Ordinance - DELINEATED.docx
+- 10-13-2026 53-108 Pertaining to the Access Advisory Board Amending Sec 2.12.020
+
+## [wichita#16] 2026-10-06 | City Council | minutes
+- Approve the minutes of regular meeting September 22, 2026
+- Lily Wu moved to approve the minutes of regular meeting September 22, 2026
+- AWARDS AND PROCLAMATIONS
+- Mayor Wu stated I want to thank City Manager Marshall for having the Council give recommendations for when awards will be shared amongst the Council meetings, and the Kansas African American Museum has these videos during the award ceremony. So thank you for helping us share these awardees with the 
+- Donney Patton stated Mayor, Council. My name is Donney Patton. I’m here to speak about the unlawful conditions of the sober living house, and to request that a referral be brought to the City Manager for resolution of the issue. Earlier this month, the last month, I spoke with my representative abou
+- Helen Reicher stated Helen Reicher. Unfortunately, my address is still fluid. It is scary. I get it is. I'm here as a board member of the Wichita Area Housing Coalition. I have not come to make another plea for the Chapin Park community that would fall under deaf ears, nor did I come to discredit An
+- Sarah Cowling stated my name is Sarah Cowling, and I am still unhoused. I'm contacting you guys today because October 12th is approaching, and I'm going to try and read from this. So, two seconds. I submitted something. I tried to submit to you guys yesterday, but it's kicked it back. But I submitte
+- Margaret Shabazz stated Good morning Mayor and Council, my name is Margaret Shabazz, and I am a resident of District Six, and that is actually why I'm here to talk, what I'm here to talk about today. When members of the public come before City Council, we are routinely asked to state our name and ou
+- City Attorney, Jennifer Magana, stated if I may. Council Member, the City ordinance does not require it. I'm not familiar with the process if there is a form that is filled out that asks for it. The City ordinance does not require a public speaker to state an address
+- Council Member Hoheisel stated okay, so maybe we can just change how we how we pronounce it. I guess communicate it. Yeah. Yes, I appreciate that. Helen, you're absolutely right about the animals, specifically dogs. We are looking at options with that. I don't think we are able to necessarily say ri
+- Council Member Hoheisel stated okay, so we'll look at that. We're I'll do everything we can to make sure we give as much time and resources as possible. Steve maybe can come up here and talk about it. We've been down there for five or six months trying to get people signed up, and it seems like it's
+
+## [wichita#17] 2026-10-13 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of regular meeting October 6, 2026
+- AWARDS AND PROCLAMATIONS
+- PRESENTATIONS
+- USD 259 Presentation
+- Walt Chappell - USD259 School Bond Proposal
+- Ben Seymore - USD259 School Bond Proposal
+- Robert Fletcher - Not being allowed in my residence during Prairie Fire Run and
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated October 12, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS
+- RECOMMENDED ACTION: Approve the new and revised petitions and
+- budgets, adopt the new and amending resolutions, and authorize the necessary
+- 10-12-2026 Board of Bids.pdf
+- 10-12-2026 Board of Bids WAA.pdf
+- 10-13-2026 26-365 Phase 1 Water Improvements - Greenwich Heights Addition WDS
+- 10-13-2026 26-366 Phase 2 Water Improvements - Greenwich Heights Addition WDS
+- 10-13-2026 26-367 Phase 1 Stormwater Drain No. 567 - Greenwich Heights Addition
+- 10-13-2026 26-368 Phase 2 Stormwater Drain No. 568 - Greenwich Heights Addition
+- 10-13-2026 26-369 Phase 1 Stormwater Sewer No. 843 - Greenwich heights Addition
+- 10-13-2026 26-370 Phase 2 Stormwater Sewer No. 844 - Greenwich Heights Addition
+- 10-13-2026 26-371 Phase 1 Sanitary Sewer Improvements - Greenwich Heights
+- 10-13-2026 26-372 Phase 2 Sanitary Sewer Improvements - Greenwich Heights
+- Request to Set a Public Hearing for a Tax Increment Financing (TIF) District
+- and Adoption of a Redevelopment Plan for a Business Park (Wichita Kellogg,
+- RECOMMENDED ACTION: Adopt the Resolution setting the Public Hearing for
+- December 1, 2026, for the consideration of the establishment of a TIF District
+- and adoption of the District Plan, and authorize the necessary signatures
+- Public Hearing and Request for Approval of a Letter of Intent (LOI) to Issue
+- Industrial Revenue Bonds (IRB) for The Kansas African American Museum, Inc
+- RECOMMENDED ACTION: Close the public hearing, adopt the resolution and
+- Lambe Park Due Diligence (District I)
+
+## [wichita#18] 2026-10-13 | City Council | minutes
+- Approve the minutes of regular meeting October 6, 2026
+- Lily Wu moved to approve the minutes of regular meeting October 6, 2026
+- AWARDS AND PROCLAMATIONS
+- PRESENTATIONS
+- USD 259 Presentation
+- Council Member Shepard stated thank you, Mayor, and thank you for being here and all the support that you are providing to our public schools. You mentioned potentially the law enforcement pathway, which I'm really excited about. I know that you all have a pathway in fire at South High. My nephew at
+- Kelly Bielefeld, USD 259, stated yeah, great question. And part of part of the challenge we've had with with fire science, with the EMT program at the Future Ready Center, is getting those kids to kind of get the certifications while being at South High and all of that. So I think we've got we've wo
+- Council Member Shepard stated Mayor, with the follow - up. So I've been hearing some folks might be torn on this. I'm a yes, yes. It's it's a no - brainer for me. I think we need to be supporting our public schools, and I know how important it is to invest in our public schools. What would you tell;
+- Kelly Bielefeld, USD 259, stated yeah, I think there's a couple things. I think. I think the reality is we are like if if you look at the data since I became superintendent, we're trending in the right direction on outcomes. Graduation rate is up. We've we've hit a record graduation rate every year 
+- Council Member Shepard stated thank you, Mayor. This will be my last comment on this and I've had the opportunity to listen to this discussion all along the Board of Education meetings. Really inspired by Diane Albert, who has been a real, voice of reason in this conversation. Thank you for your sup
+- Mayor Wu stated Kelly, I'll just. With a question I have for you, as you know, you mentioned that this failed in February of 2025, and a City sales tax also failed in March of this year. What learnings have you had since that failure last year? And you mentioned this: the yes was 13,889 people, the 
+- Kelly Bielefeld, USD259, stated well, we've learned a lot. I appreciate the question because we've learned a lot internally, but I think more than anything, we learned to slow down and engage the community in a way that weren't doing before, were so close that it was very tempting to just run it rig
+- Kelly Bielefeld, USD259, stated sure. We are, as a tax, you know, taxpayer - funded entity, we can educate our community on the bond issue, we're really. I think our community expects us to educate them on the bond issue. They want to know what it is they're voting on. They want to know what the tax
+
+## [wichita#19] 2026-10-20 | City Council | agenda
+- the City Manager for information. Requests to appear will be placed on the agenda on
+- and shall be subject to a limitation of five minutes for each presentation with no
+- extension of time permitted
+- desiring to present matters to the Council on the public agenda must submit a request
+- not permitted unless the twenty-five minute limit is not reached. Item requests may be
+- 455 N. Main Street, Wichita, KS 67202
+- Approve the minutes of the regular meeting October 13, 2026
+- AWARDS AND PROCLAMATIONS
+- Daycia Hill - Police Accountability
+- no separate discussion. If discussion on an item is desired, the item will be removed
+- from the "Consent Agendas" and considered separately (The Council will be
+- considering the City Council Consent Agenda as well as the Planning, Housing, and
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated October 19, 2026
+- RECOMMENDED ACTION: Receive and file report, approve the contracts and
+- PETITIONS FOR PUBLIC IMPROVEMENTS
+- RECOMMENDED ACTION: Approve the new petitions and budgets, adopt the
+- new resolutions and authorize the necessary signatures
+- 10-19-2026 Board of Bids.pdf
+- 10-20-2026 26-384 Phase 1 Water Improvements - Kabbaz Addition WDS 026590.docx
+- 10-20-2026 26-385 Phase 2 Water Improvements - Kabbaz Addition WDS 026591.docx
+- 10-20-2026 26-386 Phase 3 Water Improvements - Kabbaz Addition WDS 026592.docx
+- 10-20-2026 26-387 Phase 4 Water Improvements - Kabbaz Addition WDS 026593.docx
+- 10-20-2026 26-388 Phase 1 Stormwater Drain No. 569 - Kabbaz Addition SWD
+- 10-20-2026 26-389 Phase 2 Stormwater Drain No. 570 - Kabbaz Addition SWD 570
+- 10-20-2026 26-390 Phase 1 Sanitary Sewer Improvements - Kabbaz Addition SS
+- 10-20-2026 26-391 Phase 2 Sanitary Sewer Improvements - Kabbaz Addition SS
+- 10-20-2026 26-394 Phase 1 Paving Improvements - Kabbaz Addition PV 086324.docx
+- 10-20-2026 26-395 Phase 2 paving Improvements - Kabbaz Addition PV 086325.docx
+- 10-20-2026 26-396 Phase 3 Paving Improvements - Kabbaz Addition PV 086326.docx
+- 10-20-2026 26-397 Phase 4 Paving IMprovements - Kabbaz Addition PV 086327.docx
+- 10-20-2026 26-398 Left Turn Lane Improvements - Kabbaz Addition PV 086329.docx
+- 10-20-2026 26-392 Lift Station Upgrade Improvements - Betzen Addition and Kabbaz
+- 10-20-2026 Resolution No. 26-393 Entrance Paving Improvements - Kabbaz
+- 2026 Cultural Funding Operational Grant Recommendations
+- RECOMMENDED ACTION: Approve the funding allocations recommended for
+- Affordable Housing Fund Program Plan Updates and Expenditures
+- RECOMMENDED ACTION: Approve the updated Affordable Housing Fund
+- Program Plan and the expenditure of $1.619 million of Affordable Housing
+
+## [wichita#20] 2026-10-20 | City Council | minutes
+- Approve the minutes of the regular meeting October 13, 2026
+- Lily Wu moved to approve approve the minutes of the regular meeting October 13, 2026
+- AWARDS AND PROCLAMATIONS
+- Daycia Hill - Police Accountability
+- Daycia Hill stated hello again. Good morning. My name is Daycia Hill now Saunders, I just got married, but I am the big sister of DeAndre Hill. My brother DeAndre is was killed by Wichita police on January twentieth, twenty twenty-six, and I stood here with my mother in front of you guys in August. 
+- Cynthia Fitz stated honor to the most high, I am Cynthia Fitz. #justiceforDeAndre on every facet. Also, edge of the artist on all music facets. You can keep up with events on our Justice for DeAndre page on Facebook. We protest on the twentieth of every month, twenty-first and Hillside, also Central
+- City Attorney Jennifer Magana stated Council Member Shepard, that case is pending litigation. We received a notice of claim from a plaintiff involved in that case, so the City is responding as we would normally
+- Lily Wu moved to approve Consent Agenda items 1 through 13, except 10
+- Council Member Johnston stated thank you, Mayor. The applicant has requested that we pull this item, so I would like to pull this item from the agenda from consent. Pull it, and not vote
+- Mayor Wu stated So we have consent agenda item number ten, which is a zoning case, and it is located near Central Maize Road. Because we pulled this item from consent, do you have any questions for staff?
+- Mayor Wu stated No questions for staff. With that, we will open it up for public comment on this specific item. I see no one from the public who would like to speak on this item. Bring it back to the bench
+- BOARD OF BIDS AND CONTRACTS
+- Board of Bids and Contracts dated October 19, 2026
+- 10-19-2026 Board of Bids.pdf
+- Lily Wu moved to receive and file report, approve the contracts and authorize the necessary signatures
+- PETITIONS FOR PUBLIC IMPROVEMENTS
+- 10-20-2026 26-384 Phase 1 Water Improvements - Kabbaz Addition WDS 026590.docx
+- 10-20-2026 26-385 Phase 2 Water Improvements - Kabbaz Addition WDS 026591.docx
+- 10-20-2026 26-386 Phase 3 Water Improvements - Kabbaz Addition WDS 026592.docx
+- 10-20-2026 26-387 Phase 4 Water Improvements - Kabbaz Addition WDS 026593.docx
+- 10-20-2026 26-388 Phase 1 Stormwater Drain No. 569 - Kabbaz Addition SWD _569.docx
+- 10-20-2026 26-389 Phase 2 Stormwater Drain No. 570 - Kabbaz Addition SWD 570 085666.docx
+- 10-20-2026 26-390 Phase 1 Sanitary Sewer Improvements - Kabbaz Addition SS 026594.docx
+- 10-20-2026 26-391 Phase 2 Sanitary Sewer Improvements - Kabbaz Addition SS 026595.docx

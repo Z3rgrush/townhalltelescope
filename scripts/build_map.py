@@ -75,7 +75,10 @@ CO_PLACES = {
 # Broomfield), so its city share already covers it.
 SETUP = {
     "ks": {"places": KS_PLACES,
-           "counties": {"share_in_johnson": "johnson-county", "share_in_wyandotte": "unified-government"}},
+           "counties": {"share_in_johnson": "johnson-county", "share_in_wyandotte": "unified-government",
+                        "share_in_sedgwick": "sedgwick-county", "share_in_shawnee": "shawnee-county",
+                        "share_in_douglas": "douglas-county", "share_in_riley": "riley-county",
+                        "share_in_saline": "saline-county"}},
     "co": {"places": CO_PLACES,
            "counties": {"share_in_denver": None, "share_in_boulder": "boulder-county", "share_in_broomfield": None}},
 }

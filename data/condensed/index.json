@@ -79,6 +79,94 @@
   "url": "https://bonnerspringsks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2191,plainText=false)",
   "public_url": "https://bonnerspringsks.portal.civicclerk.com/event/532/files"
  },
+ "douglas-county#0": {
+  "date": "2026-08-12",
+  "body": "County Commission",
+  "kind": "minutes",
+  "title": "Commission Board Meeting - 12 Aug 2026 - Minutes - Pdf",
+  "url": "https://douglascountyks.civicweb.net/document/144560",
+  "public_url": null
+ },
+ "douglas-county#1": {
+  "date": "2026-08-19",
+  "body": "County Commission",
+  "kind": "minutes",
+  "title": "Commission Board Meeting - 19 Aug 2026 - Minutes - Pdf",
+  "url": "https://douglascountyks.civicweb.net/document/144563",
+  "public_url": null
+ },
+ "douglas-county#2": {
+  "date": "2026-08-26",
+  "body": "County Commission",
+  "kind": "minutes",
+  "title": "Commission Board Meeting - 26 Aug 2026 - Minutes - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144941",
+  "public_url": null
+ },
+ "douglas-county#3": {
+  "date": "2026-09-09",
+  "body": "County Commission",
+  "kind": "minutes",
+  "title": "Commission Board Meeting - 09 Sep 2026 - Minutes - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144878",
+  "public_url": null
+ },
+ "douglas-county#4": {
+  "date": "2026-09-16",
+  "body": "County Commission",
+  "kind": "minutes",
+  "title": "Commission Board Meeting - 16 Sep 2026 - Minutes - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144880",
+  "public_url": null
+ },
+ "douglas-county#5": {
+  "date": "2026-09-30",
+  "body": "County Commission",
+  "kind": "agenda",
+  "title": "Commission Board Meeting - 30 Sep 2026 - Agenda - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144622",
+  "public_url": null
+ },
+ "douglas-county#6": {
+  "date": "2026-10-07",
+  "body": "County Commission",
+  "kind": "agenda",
+  "title": "Commission Board Meeting - 07 Oct 2026 - Agenda - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144753",
+  "public_url": null
+ },
+ "douglas-county#7": {
+  "date": "2026-10-14",
+  "body": "Commission Board Meeting",
+  "kind": "agenda",
+  "title": "Commission Board Meeting - 14 Oct 2026 - Commission Board Meeting - 14 Oct 2026.pdf",
+  "url": "https://douglascountyks.civicweb.net/document/144865/Commission%20Board%20Meeting%20-%2014%20Oct%202026.pdf?handle=8E0CC605695C4B3BA12563A9AEB25BA7",
+  "public_url": null
+ },
+ "douglas-county#8": {
+  "date": "2026-10-14",
+  "body": "County Commission",
+  "kind": "agenda",
+  "title": "Commission Board Meeting - 14 Oct 2026 - Agenda - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144866",
+  "public_url": null
+ },
+ "douglas-county#9": {
+  "date": "2026-10-21",
+  "body": "Commission Board Meeting",
+  "kind": "agenda",
+  "title": "Commission Board Meeting - 21 Oct 2026 - Commission Board Meeting - 21 Oct 2026.pdf",
+  "url": "https://douglascountyks.civicweb.net/document/144944/Commission%20Board%20Meeting%20-%2021%20Oct%202026.pdf?handle=53568958B6E34531933A2784E07B458E",
+  "public_url": null
+ },
+ "douglas-county#10": {
+  "date": "2026-10-21",
+  "body": "County Commission",
+  "kind": "agenda",
+  "title": "Commission Board Meeting - 21 Oct 2026 - Agenda - Html",
+  "url": "https://douglascountyks.civicweb.net/document/144945",
+  "public_url": null
+ },
  "edgerton#0": {
   "date": "2026-08-11",
   "body": "City Council",
@@ -421,6 +509,142 @@
   "kind": "minutes",
   "title": "10/19/2026 City Council - Minutes",
   "url": "https://gardnerkansas.gov/Documents/Government/City Council/Agendas and Minutes/2026/Minutes/10052026 Minutes.pdf?t=202610201322530",
+  "public_url": null
+ },
+ "johnson-county#0": {
+  "date": "2026-07-30",
+  "body": "Board of County Commission-General Business",
+  "kind": "minutes",
+  "title": "Board of County Commission-General Business Summary 2026-07-30",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commission-General_Business_7160_Summary_7_30_2026_9_30_00_AM.pdf?documentType=3&meetingId=7160",
+  "public_url": null
+ },
+ "johnson-county#1": {
+  "date": "2026-08-06",
+  "body": "Board of County Commissioner-Administrative Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-Administrative Business Summary 2026-08-06",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7198_Summary_8_6_2026_9_30_00_AM.pdf?documentType=3&meetingId=7198",
+  "public_url": null
+ },
+ "johnson-county#2": {
+  "date": "2026-08-13",
+  "body": "Board of County Commissioner-General Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-General Business Summary 2026-08-13",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7222_Summary_8_13_2026_9_30_00_AM.pdf?documentType=3&meetingId=7222",
+  "public_url": null
+ },
+ "johnson-county#3": {
+  "date": "2026-08-13",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole Agenda 2026-08-13",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Committee_of_the_Whole_7236_Agenda_8_13_2026_11_00_00_AM.pdf?documentType=1&meetingId=7236",
+  "public_url": null
+ },
+ "johnson-county#4": {
+  "date": "2026-08-20",
+  "body": "Board of County Commissioner-Administrative Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-Administrative Business Summary 2026-08-20",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7200_Summary_8_20_2026_9_30_00_AM.pdf?documentType=3&meetingId=7200",
+  "public_url": null
+ },
+ "johnson-county#6": {
+  "date": "2026-08-20",
+  "body": "Public Hearing",
+  "kind": "minutes",
+  "title": "Public Hearing Summary 2026-08-20",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Public_Hearing_7238_Summary_8_20_2026_1_00_00_PM.pdf?documentType=3&meetingId=7238",
+  "public_url": null
+ },
+ "johnson-county#7": {
+  "date": "2026-08-27",
+  "body": "Board of County Commissioner-General Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-General Business Summary 2026-08-27",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7228_Summary_8_27_2026_9_30_00_AM.pdf?documentType=3&meetingId=7228",
+  "public_url": null
+ },
+ "johnson-county#8": {
+  "date": "2026-09-03",
+  "body": "Board of County Commissioner-Administrative Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-Administrative Business Summary 2026-09-03",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7202_Summary_9_3_2026_9_30_00_AM.pdf?documentType=3&meetingId=7202",
+  "public_url": null
+ },
+ "johnson-county#10": {
+  "date": "2026-09-10",
+  "body": "Board of County Commissioner-General Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-General Business Summary 2026-09-10",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7229_Summary_9_10_2026_9_30_00_AM.pdf?documentType=3&meetingId=7229",
+  "public_url": null
+ },
+ "johnson-county#11": {
+  "date": "2026-09-24",
+  "body": "Board of County Commissioner-General Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-General Business Summary 2026-09-24",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7224_Summary_9_24_2026_9_30_00_AM.pdf?documentType=3&meetingId=7224",
+  "public_url": null
+ },
+ "johnson-county#12": {
+  "date": "2026-10-01",
+  "body": "Board of County Commissioner-Administrative Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-Administrative Business Summary 2026-10-01",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7206_Summary_10_1_2026_9_30_00_AM.pdf?documentType=3&meetingId=7206",
+  "public_url": null
+ },
+ "johnson-county#14": {
+  "date": "2026-10-01",
+  "body": "Study Session",
+  "kind": "agenda",
+  "title": "Study Session Agenda 2026-10-01",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Study_Session_7244_Agenda_10_1_2026_11_00_00_AM.pdf?documentType=1&meetingId=7244",
+  "public_url": null
+ },
+ "johnson-county#15": {
+  "date": "2026-10-08",
+  "body": "Board of County Commissioner-General Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-General Business Summary 2026-10-08",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7230_Summary_10_8_2026_9_30_00_AM.pdf?documentType=3&meetingId=7230",
+  "public_url": null
+ },
+ "johnson-county#16": {
+  "date": "2026-10-15",
+  "body": "Board of County Commissioner-Administrative Business",
+  "kind": "minutes",
+  "title": "Board of County Commissioner-Administrative Business Summary 2026-10-15",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7208_Summary_10_15_2026_9_30_00_AM.pdf?documentType=3&meetingId=7208",
+  "public_url": null
+ },
+ "johnson-county#17": {
+  "date": "2026-10-15",
+  "body": "Committee of the Whole",
+  "kind": "agenda",
+  "title": "Committee of the Whole Agenda 2026-10-15",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Committee_of_the_Whole_7245_Agenda_10_15_2026_10_00_00_AM.pdf?documentType=1&meetingId=7245",
+  "public_url": null
+ },
+ "johnson-county#18": {
+  "date": "2026-10-15",
+  "body": "Study Session",
+  "kind": "agenda",
+  "title": "Study Session Agenda 2026-10-15",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Study_Session_7246_Agenda_10_15_2026_1_00_00_PM.pdf?documentType=1&meetingId=7246",
+  "public_url": null
+ },
+ "johnson-county#19": {
+  "date": "2026-10-22",
+  "body": "Board of County Commissioner-General Business",
+  "kind": "agenda",
+  "title": "Board of County Commissioner-General Business Agenda 2026-10-22",
+  "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7225_Agenda_10_22_2026_9_30_00_AM.pdf?documentType=1&meetingId=7225",
   "public_url": null
  },
  "lake-quivira#0": {
@@ -2495,6 +2719,206 @@
   "url": "https://prairievillageks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3773,plainText=false)",
   "public_url": "https://prairievillageks.portal.civicclerk.com/event/111/files"
  },
+ "riley-county#0": {
+  "date": "2026-07-27",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 July 27th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8780,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/714/files"
+ },
+ "riley-county#1": {
+  "date": "2026-07-30",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes - July 30th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8778,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/715/files"
+ },
+ "riley-county#2": {
+  "date": "2026-08-03",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 3rd",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8788,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/716/files"
+ },
+ "riley-county#3": {
+  "date": "2026-08-06",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes - August 6th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8793,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/717/files"
+ },
+ "riley-county#4": {
+  "date": "2026-08-10",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 6th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8802,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/718/files"
+ },
+ "riley-county#5": {
+  "date": "2026-08-13",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 13th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9802,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/719/files"
+ },
+ "riley-county#6": {
+  "date": "2026-08-17",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 17th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9811,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/720/files"
+ },
+ "riley-county#7": {
+  "date": "2026-08-20",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 20th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9822,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/721/files"
+ },
+ "riley-county#8": {
+  "date": "2026-08-24",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 24th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9837,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/722/files"
+ },
+ "riley-county#9": {
+  "date": "2026-08-27",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 27th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9826,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/723/files"
+ },
+ "riley-county#10": {
+  "date": "2026-08-31",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 August 31st",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9829,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/724/files"
+ },
+ "riley-county#11": {
+  "date": "2026-09-03",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 3rd",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9849,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/725/files"
+ },
+ "riley-county#12": {
+  "date": "2026-09-10",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 10th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9844,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/727/files"
+ },
+ "riley-county#13": {
+  "date": "2026-09-14",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 14th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9856,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/728/files"
+ },
+ "riley-county#14": {
+  "date": "2026-09-17",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 17th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9860,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/729/files"
+ },
+ "riley-county#15": {
+  "date": "2026-09-21",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 21st",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9870,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/730/files"
+ },
+ "riley-county#16": {
+  "date": "2026-09-24",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 24, 2026",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9869,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/731/files"
+ },
+ "riley-county#17": {
+  "date": "2026-09-28",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 September 28th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9894,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/732/files"
+ },
+ "riley-county#18": {
+  "date": "2026-10-01",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 October 1, 2026",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9901,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/733/files"
+ },
+ "riley-county#19": {
+  "date": "2026-10-05",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 October 5th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9905,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/734/files"
+ },
+ "riley-county#20": {
+  "date": "2026-10-08",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 October 8th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9909,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/735/files"
+ },
+ "riley-county#21": {
+  "date": "2026-10-15",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 October 15th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9911,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/737/files"
+ },
+ "riley-county#22": {
+  "date": "2026-10-19",
+  "body": "Board of County Commissioners",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Minutes \u2013 October 19th",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9919,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/738/files"
+ },
+ "riley-county#23": {
+  "date": "2026-10-22",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Agenda \u2013 October 22nd",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9912,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/739/files"
+ },
+ "riley-county#24": {
+  "date": "2026-10-22",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners Agenda Packet \u2013 October 22nd",
+  "url": "https://rileycoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9914,plainText=false)",
+  "public_url": "https://rileycoks.portal.civicclerk.com/event/739/files"
+ },
  "roeland-park#0": {
   "date": "2026-08-03",
   "body": "City Council",
@@ -2727,6 +3151,334 @@
   "url": "https://salina-tv.com/cablecastapi/shows/26993/publicfiles/4",
   "public_url": null
  },
+ "saline-county#0": {
+  "date": "2026-07-28",
+  "body": "Saline County Commission Study Session",
+  "kind": "agenda",
+  "title": "Saline County Commission Study Session July 28, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26931/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#1": {
+  "date": "2026-08-11",
+  "body": "Saline County Commission",
+  "kind": "agenda",
+  "title": "Saline County Commission August 11, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26941/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#2": {
+  "date": "2026-08-13",
+  "body": "Saline County Commission Vote Canvass",
+  "kind": "agenda",
+  "title": "Saline County Commission Vote Canvass August 13, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26947/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#3": {
+  "date": "2026-08-18",
+  "body": "Saline County Commission",
+  "kind": "agenda",
+  "title": "Saline County Commission August 18, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26949/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#4": {
+  "date": "2026-09-01",
+  "body": "Saline County Commission",
+  "kind": "agenda",
+  "title": "Saline County Commission September 1, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26963/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#5": {
+  "date": "2026-09-15",
+  "body": "Saline County Commission",
+  "kind": "agenda",
+  "title": "Saline County Commission September 15, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26972/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#6": {
+  "date": "2026-10-06",
+  "body": "Saline County Commission",
+  "kind": "agenda",
+  "title": "Saline County Commission October 6, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/26990/publicfiles/4",
+  "public_url": null
+ },
+ "saline-county#7": {
+  "date": "2026-10-20",
+  "body": "Saline County Commission",
+  "kind": "agenda",
+  "title": "Saline County Commission October 20, 2026",
+  "url": "https://salina-tv.com/cablecastapi/shows/27001/publicfiles/4",
+  "public_url": null
+ },
+ "sedgwick-county#0": {
+  "date": "2026-07-29",
+  "body": "Board of Sedgwick County Commissioners Budget Hearing",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners Budget Hearing 2026-07-29",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1420&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#1": {
+  "date": "2026-07-29",
+  "body": "Governing Body of Fire District 1 Budget Hearing 07 29 2026",
+  "kind": "minutes",
+  "title": "Governing Body of Fire District 1 Budget Hearing 07 29 2026 2026-07-29",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1421&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#2": {
+  "date": "2026-07-29",
+  "body": "Board of Sedgwick County Commissioners Budget Hearing",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners Budget Hearing 2026-07-29",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1420&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#3": {
+  "date": "2026-07-29",
+  "body": "Governing Body of Fire District 1 Budget Hearing 07 29 2026",
+  "kind": "agenda",
+  "title": "Governing Body of Fire District 1 Budget Hearing 07 29 2026 2026-07-29",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1421&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#4": {
+  "date": "2026-08-05",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-08-05",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1425&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#5": {
+  "date": "2026-08-05",
+  "body": "Governing Body of Fire District 1 08 05 2026",
+  "kind": "minutes",
+  "title": "Governing Body of Fire District 1 08 05 2026 2026-08-05",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1434&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#6": {
+  "date": "2026-08-05",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-08-05",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1425&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#7": {
+  "date": "2026-08-05",
+  "body": "Governing Body of Fire District 1 08 05 2026",
+  "kind": "agenda",
+  "title": "Governing Body of Fire District 1 08 05 2026 2026-08-05",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1434&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#8": {
+  "date": "2026-08-12",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-08-12",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1426&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#9": {
+  "date": "2026-08-12",
+  "body": "Governing Body of Fire District 1 08 12 2026",
+  "kind": "minutes",
+  "title": "Governing Body of Fire District 1 08 12 2026 2026-08-12",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1435&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#10": {
+  "date": "2026-08-12",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-08-12",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1426&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#11": {
+  "date": "2026-08-12",
+  "body": "Governing Body of Fire District 1 08 12 2026",
+  "kind": "agenda",
+  "title": "Governing Body of Fire District 1 08 12 2026 2026-08-12",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1435&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#12": {
+  "date": "2026-08-19",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-08-19",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1427&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#13": {
+  "date": "2026-08-19",
+  "body": "Governing Body of Fire District 1 08 19 2026",
+  "kind": "minutes",
+  "title": "Governing Body of Fire District 1 08 19 2026 2026-08-19",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1439&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#14": {
+  "date": "2026-08-19",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-08-19",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1427&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#15": {
+  "date": "2026-08-19",
+  "body": "Governing Body of Fire District 1 08 19 2026",
+  "kind": "agenda",
+  "title": "Governing Body of Fire District 1 08 19 2026 2026-08-19",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1439&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#16": {
+  "date": "2026-08-26",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-08-26",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1422&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#17": {
+  "date": "2026-08-26",
+  "body": "Governing Body of Fire District 1 08 26 2026",
+  "kind": "minutes",
+  "title": "Governing Body of Fire District 1 08 26 2026 2026-08-26",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1423&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#18": {
+  "date": "2026-08-26",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-08-26",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1422&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#19": {
+  "date": "2026-08-26",
+  "body": "Governing Body of Fire District 1 08 26 2026",
+  "kind": "agenda",
+  "title": "Governing Body of Fire District 1 08 26 2026 2026-08-26",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1423&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#20": {
+  "date": "2026-09-02",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-09-02",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1429&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#21": {
+  "date": "2026-09-02",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-09-02",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1429&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#22": {
+  "date": "2026-09-09",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-09-09",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1430&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#23": {
+  "date": "2026-09-09",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-09-09",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1430&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#24": {
+  "date": "2026-09-16",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-09-16",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#25": {
+  "date": "2026-09-16",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-09-16",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#26": {
+  "date": "2026-09-23",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "minutes",
+  "title": "Board of Sedgwick County Commissioners 2026-09-23",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1432&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#27": {
+  "date": "2026-09-23",
+  "body": "Governing Body of Fire District 1 09 23 2026",
+  "kind": "minutes",
+  "title": "Governing Body of Fire District 1 09 23 2026 2026-09-23",
+  "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1447&type=minutes&doctype=2",
+  "public_url": null
+ },
+ "sedgwick-county#28": {
+  "date": "2026-09-23",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-09-23",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1432&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#29": {
+  "date": "2026-09-23",
+  "body": "Governing Body of Fire District 1 09 23 2026",
+  "kind": "agenda",
+  "title": "Governing Body of Fire District 1 09 23 2026 2026-09-23",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1447&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#30": {
+  "date": "2026-10-07",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-10-07",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1436&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#31": {
+  "date": "2026-10-14",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-10-14",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1437&type=agenda&doctype=1",
+  "public_url": null
+ },
+ "sedgwick-county#32": {
+  "date": "2026-10-21",
+  "body": "Board of Sedgwick County Commissioners",
+  "kind": "agenda",
+  "title": "Board of Sedgwick County Commissioners 2026-10-21",
+  "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1438&type=agenda&doctype=1",
+  "public_url": null
+ },
  "shawnee#0": {
   "date": "2026-07-27",
   "body": "Council Committee",
@@ -2806,6 +3558,310 @@
   "title": "Council Committee - 12 Oct 2026 - Council Committee - 12 Oct 2026.pdf",
   "url": "https://cityofshawnee.civicweb.net/document/322897/Council%20Committee%20-%2012%20Oct%202026.pdf?handle=66BC5A61588D4C3283A11A08B6C3936F",
   "public_url": null
+ },
+ "shawnee-county#0": {
+  "date": "2026-07-27",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 07-27-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1515,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1339/files"
+ },
+ "shawnee-county#1": {
+  "date": "2026-07-30",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 07-30-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1520,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1340/files"
+ },
+ "shawnee-county#2": {
+  "date": "2026-07-30",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 07-30-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1521,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1340/files"
+ },
+ "shawnee-county#3": {
+  "date": "2026-08-03",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 08-03-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1522,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1341/files"
+ },
+ "shawnee-county#4": {
+  "date": "2026-08-03",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 08-03-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1523,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1341/files"
+ },
+ "shawnee-county#5": {
+  "date": "2026-08-06",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - August 6, 2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1526,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1342/files"
+ },
+ "shawnee-county#6": {
+  "date": "2026-08-06",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-06-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1527,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1342/files"
+ },
+ "shawnee-county#7": {
+  "date": "2026-08-10",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 08-10-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1528,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1343/files"
+ },
+ "shawnee-county#8": {
+  "date": "2026-08-13",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-13-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1529,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1344/files"
+ },
+ "shawnee-county#9": {
+  "date": "2026-08-13",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-13-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1530,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1344/files"
+ },
+ "shawnee-county#10": {
+  "date": "2026-08-17",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY CANVASSERS - 8-17-2026 Election Canvassing",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1531,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1345/files"
+ },
+ "shawnee-county#11": {
+  "date": "2026-08-20",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-20-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1532,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1346/files"
+ },
+ "shawnee-county#12": {
+  "date": "2026-08-20",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-20-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1533,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1346/files"
+ },
+ "shawnee-county#13": {
+  "date": "2026-08-24",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "OFF-SITE WORK SESSION - 08-24-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1534,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1347/files"
+ },
+ "shawnee-county#14": {
+  "date": "2026-08-27",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-27-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1539,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1348/files"
+ },
+ "shawnee-county#15": {
+  "date": "2026-08-27",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 08-27-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1540,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1348/files"
+ },
+ "shawnee-county#16": {
+  "date": "2026-08-31",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 08-31-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1537,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1349/files"
+ },
+ "shawnee-county#17": {
+  "date": "2026-08-31",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 08-31-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1538,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1349/files"
+ },
+ "shawnee-county#18": {
+  "date": "2026-09-03",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-03-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1544,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1350/files"
+ },
+ "shawnee-county#19": {
+  "date": "2026-09-03",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-03-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1545,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1350/files"
+ },
+ "shawnee-county#21": {
+  "date": "2026-09-10",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-10-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1547,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+ },
+ "shawnee-county#22": {
+  "date": "2026-09-10",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-10-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1548,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+ },
+ "shawnee-county#24": {
+  "date": "2026-09-17",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - September 17, 2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1550,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1354/files"
+ },
+ "shawnee-county#25": {
+  "date": "2026-09-17",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-17-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1551,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1354/files"
+ },
+ "shawnee-county#26": {
+  "date": "2026-09-21",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - Work Session 9-21-2026",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1552,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1355/files"
+ },
+ "shawnee-county#27": {
+  "date": "2026-09-24",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-24-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1553,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1356/files"
+ },
+ "shawnee-county#28": {
+  "date": "2026-09-24",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 09-24-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1554,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1356/files"
+ },
+ "shawnee-county#29": {
+  "date": "2026-09-28",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - Work Session 09-28-2026",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1555,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1357/files"
+ },
+ "shawnee-county#30": {
+  "date": "2026-10-01",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-01-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1558,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1358/files"
+ },
+ "shawnee-county#31": {
+  "date": "2026-10-01",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-01-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1559,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1358/files"
+ },
+ "shawnee-county#33": {
+  "date": "2026-10-08",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-08-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1563,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1360/files"
+ },
+ "shawnee-county#34": {
+  "date": "2026-10-08",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-08-2026 Packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1564,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1360/files"
+ },
+ "shawnee-county#35": {
+  "date": "2026-10-12",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 10-12-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1565,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1361/files"
+ },
+ "shawnee-county#36": {
+  "date": "2026-10-15",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-15-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1568,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1362/files"
+ },
+ "shawnee-county#37": {
+  "date": "2026-10-15",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-15-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1569,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1362/files"
+ },
+ "shawnee-county#38": {
+  "date": "2026-10-19",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "WORK SESSION - 10-19-2026 Work Session",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1571,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1363/files"
+ },
+ "shawnee-county#39": {
+  "date": "2026-10-22",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-22-2026 Agenda",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1574,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1364/files"
+ },
+ "shawnee-county#40": {
+  "date": "2026-10-22",
+  "body": "BOARD OF COUNTY COMMISSIONERS",
+  "kind": "agenda",
+  "title": "BOARD OF COUNTY COMMISSIONERS - 10-22-2026 packet",
+  "url": "https://shawneecoks.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1575,plainText=false)",
+  "public_url": "https://shawneecoks.portal.civicclerk.com/event/1364/files"
  },
  "spring-hill#0": {
   "date": "2026-08-04",
@@ -3638,5 +4694,173 @@
   "title": "Board of Commissioners Special Meeting - 10.23.26 notice",
   "url": "https://wycokck.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=15164,plainText=false)",
   "public_url": "https://wycokck.portal.civicclerk.com/event/3792/files"
+ },
+ "wichita#0": {
+  "date": "2026-07-28",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-07-28",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/1778a53c9846694165c27b82ff71b80d0.pdf",
+  "public_url": null
+ },
+ "wichita#1": {
+  "date": "2026-07-28",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-07-28",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4820&doc_id=7b5bcbab-8abc-11f1-bb61-005056a89546",
+  "public_url": null
+ },
+ "wichita#2": {
+  "date": "2026-08-04",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-08-04",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/9fa65b5a7fc5331838a84a74e7a253b30.pdf",
+  "public_url": null
+ },
+ "wichita#3": {
+  "date": "2026-08-04",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-08-04",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4824&doc_id=1f939ebb-9411-11f1-bb61-005056a89546",
+  "public_url": null
+ },
+ "wichita#4": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-08-11",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/2f90a05ffc89bb22696b7c958bee2b9a0.pdf",
+  "public_url": null
+ },
+ "wichita#5": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-08-11",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4825&doc_id=ee56b8b9-9827-11f1-bb61-005056a89546",
+  "public_url": null
+ },
+ "wichita#6": {
+  "date": "2026-08-18",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-08-18",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/08cb41c0f541875d9b9c098baebf3dbe0.pdf",
+  "public_url": null
+ },
+ "wichita#7": {
+  "date": "2026-08-18",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-08-18",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4831&doc_id=01d793b1-9e86-11f1-a028-005056a89546",
+  "public_url": null
+ },
+ "wichita#8": {
+  "date": "2026-08-25",
+  "body": "City Council Evening Meeting",
+  "kind": "agenda",
+  "title": "City Council Evening Meeting 2026-08-25",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/af64a13963a475137a584980218cf8e60.pdf",
+  "public_url": null
+ },
+ "wichita#9": {
+  "date": "2026-08-25",
+  "body": "City Council Evening Meeting",
+  "kind": "minutes",
+  "title": "City Council Evening Meeting 2026-08-25",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4834&doc_id=0336361a-a194-11f1-a028-005056a89546",
+  "public_url": null
+ },
+ "wichita#10": {
+  "date": "2026-09-01",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-09-01",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/38fb556e1cc68b7dbaa8a497a0a8659a0.pdf",
+  "public_url": null
+ },
+ "wichita#11": {
+  "date": "2026-09-01",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-09-01",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4837&doc_id=ca7ee3fb-a70f-11f1-a028-005056a89546",
+  "public_url": null
+ },
+ "wichita#12": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-09-08",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/caff72a46ebf1e2b1e77ab258676303c0.pdf",
+  "public_url": null
+ },
+ "wichita#13": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-09-08",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4838&doc_id=353a9299-b145-11f1-b3ea-005056a89546",
+  "public_url": null
+ },
+ "wichita#14": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-09-15",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/5d840f51a86f6713ee5fe19501fb40f90.pdf",
+  "public_url": null
+ },
+ "wichita#15": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-10-06",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/532d2470fb98536ce8c13290a6d08a380.pdf",
+  "public_url": null
+ },
+ "wichita#16": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-10-06",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4849&doc_id=2ebc1db2-c34f-11f1-89ef-005056a84798",
+  "public_url": null
+ },
+ "wichita#17": {
+  "date": "2026-10-13",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-10-13",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8bef275f6c889fe8d3a7941097c2ff5f0.pdf",
+  "public_url": null
+ },
+ "wichita#18": {
+  "date": "2026-10-13",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-10-13",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4851&doc_id=14eeb403-c8d8-11f1-89ef-005056a84798",
+  "public_url": null
+ },
+ "wichita#19": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council 2026-10-20",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8445785b5147dfbaf3e06dc8e2924c130.pdf",
+  "public_url": null
+ },
+ "wichita#20": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "City Council 2026-10-20",
+  "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4858&doc_id=951669d2-cd98-11f1-89ef-005056a84798",
+  "public_url": null
  }
 }

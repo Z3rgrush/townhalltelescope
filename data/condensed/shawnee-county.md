@@ -1,0 +1,1117 @@
+# shawnee-county
+
+## [shawnee-county#0] 2026-07-27 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATION
+- II. PUBLIC COMMENT
+
+## [shawnee-county#1] 2026-07-30 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Request approval to permanently increase the credit card limit for the Clinical Services
+- B. Request approval to permanently increase the credit card limit for the Support Services
+- C. Consider approval of Contract C2026260 to allow the assignment of the 2026 Let's Help
+- social service contract (Contract C488-2025) from Let's Help - Emergency Services to
+- D. Consider Resolution R2026063, establishing the placement of a NO ENGINE BRAKING
+- sign on the northbound SE Shawnee Heights Road approach to SE 45th Street. — Public
+- E. Consider Resolution R2026064, establishing the placement of ENGINE BRAKING
+- F. Consider a request to hire a Road Supervisor at an annual salary, including benefits, of
+- G. Acknowledge receipt and approval of Mission Township Treasurer's Bond. — County Clerk
+- H. Acknowledge receipt and approval of Board of County Commission meeting minutes
+- I. Consider approval of Contract C2026261, a budget amendment sheet for the Juvenile
+- Detention Center KDOC Behavioral Health Grant for State Fiscal Year 2026. The
+- amendment ensures that our grant budget reflects a zero negative balance and aligns
+- request technical assistance from the Council of State Governments Justice Center. —
+- K. Consider approval of the State Fiscal Year 2026 End of Year Reports for Shawnee County
+- requires the reports to be approved, and signed annually, by the Community Corrections
+- L. Consider approval of the amendment sheets for Shawnee County Adult
+- (Contract C2026262) and Juvenile Community Corrections (Contract C2026263) for State
+- Fiscal Year 2026. The amendments ensure the Community Corrections grant budgets
+- purchase totaling $89,940.00 from REKOR Systems, Inc., Contract C2026264, to be
+- paid out of budgeted funds
+- N. Consider approval to fill the vacant Office Manager 1 position at Range 13, Step 3, with
+- a candidate of demonstrated expertise and experience. — Parks + Recreation
+- O. Consider approval to pay invoices utilizing Gage Park Sales Tax Funds, $1,065.63 to Next
+- Landex for excavating around tower 5 for surfacing. — Parks + Recreation
+- P. Consider approval of the attached Local Funding Statement which allows Shawnee County
+- Parks + Recreation (SCP+R) to submit a Land and Water Conservation Fund (LWCF)
+- grant application for the replacement of Shelter #5 located at Lake Shawnee’s Tinman
+- Circle. — Parks & Recreation
+- Q. Consider approval to issue a Request for Proposal (RFP) for construction services to build
+- an open-air shelter at Gage Play Land. — Parks + Recreation
+- R. Consider approval to pay Dondlinger Construction for work performed outside the
+
+## [shawnee-county#2] 2026-07-30 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Request approval to permanently increase the credit card limit for the Clinical Services
+- B. Request approval to permanently increase the credit card limit for the Support Services
+- C. Consider approval of Contract C2026260 to allow the assignment of the 2026 Let's Help
+- social service contract (Contract C488-2025) from Let's Help - Emergency Services to
+- D. Consider Resolution R2026063, establishing the placement of a NO ENGINE BRAKING
+- sign on the northbound SE Shawnee Heights Road approach to SE 45th Street. — Public
+- E. Consider Resolution R2026064, establishing the placement of ENGINE BRAKING
+- F. Consider a request to hire a Road Supervisor at an annual salary, including benefits, of
+- G. Acknowledge receipt and approval of Mission Township Treasurer's Bond. — County Clerk
+- H. Acknowledge receipt and approval of Board of County Commission meeting minutes
+- I. Consider approval of Contract C2026261, a budget amendment sheet for the Juvenile
+- Detention Center KDOC Behavioral Health Grant for State Fiscal Year 2026. The
+- amendment ensures that our grant budget reflects a zero negative balance and aligns
+- request technical assistance from the Council of State Governments Justice Center. —
+- K. Consider approval of the State Fiscal Year 2026 End of Year Reports for Shawnee County
+- requires the reports to be approved, and signed annually, by the Community Corrections
+- L. Consider approval of the amendment sheets for Shawnee County Adult
+- (Contract C2026262) and Juvenile Community Corrections (Contract C2026263) for State
+- Fiscal Year 2026. The amendments ensure the Community Corrections grant budgets
+- purchase totaling $89,940.00 from REKOR Systems, Inc., Contract C2026264, to be
+- paid out of budgeted funds
+- N. Consider approval to fill the vacant Office Manager 1 position at Range 13, Step 3, with
+- a candidate of demonstrated expertise and experience. — Parks + Recreation
+- O. Consider approval to pay invoices utilizing Gage Park Sales Tax Funds, $1,065.63 to Next
+- Landex for excavating around tower 5 for surfacing. — Parks + Recreation
+- P. Consider approval of the attached Local Funding Statement which allows Shawnee County
+- Parks + Recreation (SCP+R) to submit a Land and Water Conservation Fund (LWCF)
+- grant application for the replacement of Shelter #5 located at Lake Shawnee’s Tinman
+- Circle. — Parks & Recreation
+- Q. Consider approval to issue a Request for Proposal (RFP) for construction services to build
+- an open-air shelter at Gage Play Land. — Parks + Recreation
+- R. Consider approval to pay Dondlinger Construction for work performed outside the
+
+## [shawnee-county#3] 2026-08-03 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATION
+- Capital Improvement Projects Discussion – Audit Finance
+- II. PUBLIC COMMENT
+
+## [shawnee-county#4] 2026-08-03 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATION
+- Capital Improvement Projects Discussion – Audit Finance
+- II. PUBLIC COMMENT
+- CIP REQUESTS BY DEPARTMENT
+- STORMONT VAIL EVENTS CENTER
+- TOTAL CIP REQUESTS $192,492,850
+- TOTAL CIP REQUESTS $ 192,892,850
+- GAGE PARK SALES TAX,
+- GENERAL FUND BUDGET,
+- CIP REQUESTS BY FUND
+- Proj # Project Name Request Fund 2027 2028 2029 2030 2031
+- 351 North Annex Office Renovation 750,000 SW 750,000
+- SPECIAL HIGHWAY, BRIDGES & MACHINERY FUND INFRASTRUCTURE FUND COUNTY SALES TAX
+- # Project Name Request Fund 2027 2028 2029 2030 2031 2027 2028 2029 2030 2031 2027 2028 2029 2030 2031
+- 31 Road-SE 45th, SE California to SE Berryton 400,000 Spec Highway 400,000
+- 31 Road-SE 45th, SE California to SE Berryton 4,803,000 Various Fed 215,000 4,588,000
+- 32 Road-SE 45th, SE East Edge Rd to SE Croco Rd 115,000 Spec Highway 115,000
+- 32 Road-SE 45th, SE East Edge Rd to SE Croco Rd 3,450,500 Various Fed 3,450,500
+- 136 Bridge - NW 78th over Halfday Creek 1,674,000 Sales Tax 1,674,000
+- 199 NW Rochester Rd-Shunga Crk Bridge to NW 50th 26,200,000 Sales Tax 1,300,000 800,000 7,300,000 7,100,000 9,700,000
+- 256 Bridge - NW Maple Hill over KS River 4,650,000 Sales Tax 175,000 2,875,000 1,600,000
+- 316 Bridge - SW 97th over Trib to Wakarusa River 1,168,000 Sales Tax 98,000 1,070,000
+- 336 Bridge - SW 89th over Trib to Wakarusa 1,000,000 Sales Tax 85,000 915,000
+- 337 Bridge - NW Carlson Road over Peanez 780,400 Sales Tax 67,400 713,000
+- 338 Bridge - NW Landon Road over Little Soldier 1,900,000 Sales Tax 122,000 1,778,000
+- 339 Bridge - NW 86th over Cross Creek 1,668,000 Sales Tax 131,000 1,537,000
+- 340 Bridge - NW 35th over trib to Halfday Creek 1,245,000 Sales Tax 103,000 1,142,000
+- 341 Bridge - SW 13th over Vassar Cr 1,245,000 Sales Tax 105,000 1,140,000
+- 342 Bridge - SW Crawford Rd over Wakarusa 1,215,000 Sales Tax 103,000 1,112,000
+- 343 Bridge - SE 37th over Tecumseh Cr 975,000 Sales Tax 87,000 888,000
+- 344 PW - Repair Deck Patch- 5 bridges 1,985,000 Sales Tax 1,985,000
+- 345 Bridge - Remove BSN 437 and Replace OSN 311 1,475,000 Sales Tax 111,000 1,364,000
+- 348 Road - SE 45th and SE Adams Intersecion Improvements 2,830,000 Various Fed 2,830,000
+- DEPT Project # Project Name Request 2027 2028 2029 2030 2031
+- none requested
+- PARKS + RECREATION FUNDING SOURCES
+- PARKS + RECREATION BUILDING MAINTENANCE
+- PARKS & REC FUND
+- PARKS + RECREATION REVOLVING FUND
+- GAGE PARK SALES TAX
+- 231 Snyder Cabin Replacement at Gage Park 425,000 Gage Park Sales Tax 425,000
+- 234 Reinisch Rose Garden Refresh 750,000 Gage Park Sales Tax 750,000
+- 308 Carousel Building Renovation and Addition 4,600,000 Gage Park Sales Tax 4,600,000
+
+## [shawnee-county#5] 2026-08-06 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Contract C2026276, a Facility Management Agreement with YBR
+- A. Acknowledge receipt and approval of Board of County Commission meeting minutes for
+- D. Acknowledge that Sheriff Hill has approved for representatives to attend the FBINAA 2026
+- will be paid out of budgeted funds
+- E. Consider approval of Resolutions R2026068 and R2026069 authorizing the issuance of
+- G. Consider authorization and execution of Contract C2026278, an agreement with the City
+- completed pump station project at Lake Sherwood. — Public Works
+- H. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- I. Consider approval of a quitclaim deed for reversion of Doran Park properties back to the
+- City of Topeka. — Parks + Recreation
+- J. Consider approval of Contract C2026282, Amendment #4 to Contract C361-2023 with
+- Greencare Lawn & Landscape, to remove Doran Park from package “F”. — Parks +
+- K. Consider approval of Contract C2026283 with Topeka Food Truck Festival LLC to provide
+- a food truck event on August 30, 2026, at Gage Park. — Parks + Recreation
+- L. Consider approval of Contract C2026125A3, Change Order #3 to Contract C447-2025
+- no increase to the total contracted amount and extend the expiration date to account for
+- changes. — Parks + Recreation
+- M. Consider approval of Contract C2026284, an amendment to Contract C475-2025 with
+- N. Consider approval of Contract C2026281, an Independent Contractor Agreement for
+- O. Consider approval of Contract C2026285 (Addendum to C302-2024 and C53-2025) with
+- P. Consider approval of Contract C2026286 (Addendum to C302-2024 and C53-2025) with
+- Century Business Technologies for two additional machines for the Parks + Rec
+- Q. Consider approval of Contract C2026287 (Addendum to C302-2024 and C53-2025) with
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval of Contract C2026279, a renewal agreement between Kansas
+- 1. Consider approval to issue Request for Proposals for Occupational Health Services
+- 1. Consider approval of Contract C2026280 with P1 Service for an Emergency
+- 1. Consider issuing an RFQ for professional design and CE services relating to a
+- pavement replacement project on SE Croco Road immediately north of the KTA's
+- 1. Consider approval of Resolution R2026066 establishing the 2027 holidays
+- 2. 2027 Budget Discussions
+- V. PUBLIC COMMENT
+
+## [shawnee-county#6] 2026-08-06 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Contract C2026276, a Facility Management Agreement with YBR
+- A. Acknowledge receipt and approval of Board of County Commission meeting minutes for
+- D. Acknowledge that Sheriff Hill has approved for representatives to attend the FBINAA 2026
+- will be paid out of budgeted funds
+- E. Consider approval of Resolutions R2026068 and R2026069 authorizing the issuance of
+- G. Consider authorization and execution of Contract C2026278, an agreement with the City
+- completed pump station project at Lake Sherwood. — Public Works
+- H. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- I. Consider approval of a quitclaim deed for reversion of Doran Park properties back to the
+- City of Topeka. — Parks + Recreation
+- J. Consider approval of Contract C2026282, Amendment #4 to Contract C361-2023 with
+- Greencare Lawn & Landscape, to remove Doran Park from package “F”. — Parks +
+- K. Consider approval of Contract C2026283 with Topeka Food Truck Festival LLC to provide
+- a food truck event on August 30, 2026, at Gage Park. — Parks + Recreation
+- L. Consider approval of Contract C2026125A3, Change Order #3 to Contract C447-2025
+- no increase to the total contracted amount and extend the expiration date to account for
+- changes. — Parks + Recreation
+- M. Consider approval of Contract C2026284, an amendment to Contract C475-2025 with
+- N. Consider approval of Contract C2026281, an Independent Contractor Agreement for
+- O. Consider approval of Contract C2026285 (Addendum to C302-2024 and C53-2025) with
+- P. Consider approval of Contract C2026286 (Addendum to C302-2024 and C53-2025) with
+- Century Business Technologies for two additional machines for the Parks + Rec
+- Q. Consider approval of Contract C2026287 (Addendum to C302-2024 and C53-2025) with
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval of Contract C2026279, a renewal agreement between Kansas
+- 1. Consider approval to issue Request for Proposals for Occupational Health Services
+- 1. Consider approval of Contract C2026280 with P1 Service for an Emergency
+- 1. Consider issuing an RFQ for professional design and CE services relating to a
+- pavement replacement project on SE Croco Road immediately north of the KTA's
+- 1. Consider approval of Resolution R2026066 establishing the 2027 holidays
+- 2. 2027 Budget Discussions
+- V. PUBLIC COMMENT
+- Facility Management Agreement Page | 1
+- SHAWNEE COUNTY CONTRACT NO. C2026
+- FACILITY MANAGEMENT AGREEMENT
+- This Facility Management Agreement is between the Board of County Commissioners
+
+## [shawnee-county#7] 2026-08-10 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- II. PUBLIC COMMENT
+
+## [shawnee-county#8] 2026-08-13 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Resolution R2026070 authorizing the issuance of a Shawnee
+- Director of Marketing at the SVEC. — Stormont Vail Events Center
+- B. Consider approval of Contract C2026288, an Independent Contractor Agreement for
+- Parks + Recreation
+- C. Consider approval to increase credit limits of credit cards for Parks + Recreation
+- employees to accommodate typical departmental spending needs. — Parks + Recreation
+- D. Consider approval of Contract C2026289, an Independent Contractor Agreement for
+- Services with instructor Nicole Markey, to teach wellness and fitness programs. — Parks +
+- E. Consider approval to pay invoices for improvements to the Gage Park accessible field
+- restrooms ($3,850.00 estimated) with Gage Park Sales Tax Funds. — Parks + Recreation
+- F. Consider approval of Contract C2026290, a Memorandum of Understanding between
+- Summit in Oklahoma City, OK. All expenses to be paid from budgeted funds
+- H. Request approval for out-of-state travel for two Health Department staff to attend the 2026
+- $5,731.30 funded by the Early Childhood Block Grant and the Outreach, Prevention and
+- Early Intervention Grant. — Health Department
+- I. Consider acceptance of the July 2026 Bank Reconciliation Report. — Treasurer
+- J. Consider approval of Contract C2026294 with Logicalis for a 1-year renewal of Meraki
+- phones, at a cost of $18,772.17 using the Cisco NASPO contract for Kansas. —
+- K. Consider approval of Contract C2026295 with Logicalis for the renewal of Cisco SmartNet
+- support for wireless access points utilizing State of Kansas contract pricing at a cost of
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. LAND USE & DEVELOPMENT - Joni Thadani
+- 1. Public Hearing and consider approval of Resolution R2026071 for a Major
+- Amendment to an existing Conditional Use Permit (CUP) to expand the boundaries
+- and to allow construction of a warehouse, office, and additional gravel storage yard on
+- property located at 1100 SW Auburn Road in Mission Township
+- 1. Consider approval of Contract C2026291 with Mirror Inc. to establish a Community
+- 1. Consider approval of Contract C2026292 with Jackson County Rural Water District
+- #1 for the relocation of an 8" waterline in conflict with a bridge replacement project on
+- NW 78th Street over Halfday Creek
+- 2. Consider approval of a project budget and a request to solicit construction bids for a
+- bridge replacement project on NW 78th street over Halfday Creek. The project's
+- 2031 Countywide Retailers' Sales Tax Program
+- 3. Consider approval of Contract C2026293 with Jackson County covering the shared
+
+## [shawnee-county#9] 2026-08-13 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Resolution R2026070 authorizing the issuance of a Shawnee
+- Director of Marketing at the SVEC. — Stormont Vail Events Center
+- B. Consider approval of Contract C2026288, an Independent Contractor Agreement for
+- Parks + Recreation
+- C. Consider approval to increase credit limits of credit cards for Parks + Recreation
+- employees to accommodate typical departmental spending needs. — Parks + Recreation
+- D. Consider approval of Contract C2026289, an Independent Contractor Agreement for
+- Services with instructor Nicole Markey, to teach wellness and fitness programs. — Parks +
+- E. Consider approval to pay invoices for improvements to the Gage Park accessible field
+- restrooms ($3,850.00 estimated) with Gage Park Sales Tax Funds. — Parks + Recreation
+- F. Consider approval of Contract C2026290, a Memorandum of Understanding between
+- Summit in Oklahoma City, OK. All expenses to be paid from budgeted funds
+- H. Request approval for out-of-state travel for two Health Department staff to attend the 2026
+- $5,731.30 funded by the Early Childhood Block Grant and the Outreach, Prevention and
+- Early Intervention Grant. — Health Department
+- I. Consider acceptance of the July 2026 Bank Reconciliation Report. — Treasurer
+- J. Consider approval of Contract C2026294 with Logicalis for a 1-year renewal of Meraki
+- phones, at a cost of $18,772.17 using the Cisco NASPO contract for Kansas. —
+- K. Consider approval of Contract C2026295 with Logicalis for the renewal of Cisco SmartNet
+- support for wireless access points utilizing State of Kansas contract pricing at a cost of
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. LAND USE & DEVELOPMENT - Joni Thadani
+- 1. Public Hearing and consider approval of Resolution R2026071 for a Major
+- Amendment to an existing Conditional Use Permit (CUP) to expand the boundaries
+- and to allow construction of a warehouse, office, and additional gravel storage yard on
+- property located at 1100 SW Auburn Road in Mission Township
+- 1. Consider approval of Contract C2026291 with Mirror Inc. to establish a Community
+- 1. Consider approval of Contract C2026292 with Jackson County Rural Water District
+- #1 for the relocation of an 8" waterline in conflict with a bridge replacement project on
+- NW 78th Street over Halfday Creek
+- 2. Consider approval of a project budget and a request to solicit construction bids for a
+- bridge replacement project on NW 78th street over Halfday Creek. The project's
+- 2031 Countywide Retailers' Sales Tax Program
+- 3. Consider approval of Contract C2026293 with Jackson County covering the shared
+
+## [shawnee-county#10] 2026-08-17 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 3420 SW Van Buren Street
+
+## [shawnee-county#11] 2026-08-20 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Resolution R2026073 authorizing the issuance of a Shawnee
+- County credit card with a limit of $1,000.00 for official business purchases to Priscilla
+- B. Consider a request to fill a vacant Park Police Officer position at Range 14, Step 2, with a
+- candidate of demonstrated expertise and experience. — Parks + Recreation
+- C. Consider approval of an additional $1,787.50 in Gage Park Sales Tax Funds for the Rose
+- Garden Shed Roof Replacement project previously approved at $6,021.00. Total project is
+- $7,808.50. — Parks + Recreation
+- D. Consider the request for granting a Temporary and Permanent Public Improvement
+- Easement proposed by the City of Topeka for sidewalk improvements near Meadow Wood
+- Park at NW Lyman Road. — Parks + Recreation
+- E. Consider approval of Contract C2026297, Amendment #3 to Contract C212-2023 with It
+- Takes A Village, to extend the current term an additional year as allowed in the contract. —
+- Parks + Recreation
+- F. Consider approval to award bid for grass seed RFP #026-26 and execute Contract
+- C2026298 with SiteOne Landscape Supply. — Parks + Recreation
+- G. Consider approval to reclassify a current Recreation Leader position to a Sports
+- position within the sports division. — Parks + Recreation
+- H. Consider approval of Resolution R2026001A2 amending Resolution R2026001 by
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of Contract C2026299, an advertising / sponsorship agreement
+- with J.M. Smuckers to adopt the Lake Shawnee Dog Park and advertise at Parks +
+- Recreation events and centers. Parks + Recreation requests permission to execute
+- the agreement via Docusign
+- 1. Consider approval of Contract C2026296 for the renewal of hardware maintenance
+- 1. Consider approval to issue a Request for Proposal (RFP) for architectural and design
+- Operational Fund, which is 100% fee-funded and not taxpayer supported
+- 1. Consider approval of Contract C2026300, a renewal with the Kansas Department of
+- Shawnee County for the contract period of July 1, 2026 through June 30, 2027
+- 1. Consider approval of Contract C2026301 with Premier Employment Solutions to
+- V. PUBLIC COMMENT
+
+## [shawnee-county#12] 2026-08-20 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Resolution R2026073 authorizing the issuance of a Shawnee
+- County credit card with a limit of $1,000.00 for official business purchases to Priscilla
+- B. Consider a request to fill a vacant Park Police Officer position at Range 14, Step 2, with a
+- candidate of demonstrated expertise and experience. — Parks + Recreation
+- C. Consider approval of an additional $1,787.50 in Gage Park Sales Tax Funds for the Rose
+- Garden Shed Roof Replacement project previously approved at $6,021.00. Total project is
+- $7,808.50. — Parks + Recreation
+- D. Consider the request for granting a Temporary and Permanent Public Improvement
+- Easement proposed by the City of Topeka for sidewalk improvements near Meadow Wood
+- Park at NW Lyman Road. — Parks + Recreation
+- E. Consider approval of Contract C2026297, Amendment #3 to Contract C212-2023 with It
+- Takes A Village, to extend the current term an additional year as allowed in the contract. —
+- Parks + Recreation
+- F. Consider approval to award bid for grass seed RFP #026-26 and execute Contract
+- C2026298 with SiteOne Landscape Supply. — Parks + Recreation
+- G. Consider approval to reclassify a current Recreation Leader position to a Sports
+- position within the sports division. — Parks + Recreation
+- H. Consider approval of Resolution R2026001A2 amending Resolution R2026001 by
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of Contract C2026299, an advertising / sponsorship agreement
+- with J.M. Smuckers to adopt the Lake Shawnee Dog Park and advertise at Parks +
+- Recreation events and centers. Parks + Recreation requests permission to execute
+- the agreement via Docusign
+- 1. Consider approval of Contract C2026296 for the renewal of hardware maintenance
+- 1. Consider approval to issue a Request for Proposal (RFP) for architectural and design
+- Operational Fund, which is 100% fee-funded and not taxpayer supported
+- 1. Consider approval of Contract C2026300, a renewal with the Kansas Department of
+- Shawnee County for the contract period of July 1, 2026 through June 30, 2027
+- 1. Consider approval of Contract C2026301 with Premier Employment Solutions to
+- V. PUBLIC COMMENT
+- Fr: Tim Laurent, Director, Shawnee County Parks+Recreation
+- Re: Recommendation to Fill Position No. PR1170A Park Police Officer
+- Purpose: Approval is requested to fill a vacant Park Police Officer position at Range 14, Step 2,
+- with a candidate of demonstrated expertise and experience
+- Justification: Position No. PR1170A is a position within the 2026 Budget approved by the Board
+
+## [shawnee-county#13] 2026-08-24 | BOARD OF COUNTY COMMISSIONERS | agenda
+- Behavioral Health Housing Units
+- 501 SE 8th Street – Begins 9:00 a.m
+
+## [shawnee-county#14] 2026-08-27 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- Community Supporting Breastfeeding PLUS designation as established by the Kansas
+- Breastfeeding Coalition. — Health Department
+- A. Consider approval of Resolution R2026074 providing property tax relief for Olawaseun
+- B. Consider approval of Resolution R2026075 providing property tax relief for Juana Larico
+- C. Consider approval of Contract C2026302 with ConvergeOne for the renewal of a CISCO
+- a cost of $10,743.12 with funding from the 2026 Court Administration budget. — Court
+- D. Consider approval of Contract C2026303 with SHI for the annual renewal of VMWare for
+- with funding through the 2026 Court Administration budget. — Court Administration
+- E. Consider approval of Contract C2026304 for the annual Adobe subscription renewal
+- F. Consider approval of Resolution R2026001A2 amending Resolution R2026001 by
+- G. Consider approval for out-of-state travel for the County Clerk to attend the 2026
+- I. Consider approval to authorize a payment of $350.00 for the final expenses of Richard
+- J. Consider approval to use Gage Park Sales Tax Funds for the Tennis Court Removal
+- project, budgeted at $18,630.00. — Parks + Recreation
+- K. Consider approval of Contract C2026309 with trade vendor, Falk Architects, to use Gage
+- Park Sales Tax Funds for the design phase of the Snyder’s Cabin Replacement project
+- with a budget of $4,761.00. — Parks + Recreation
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval of Contract C2026305, the 1st Amendment to the Smart
+- Communications Services Agreement C279-2024 for the Shawnee County
+- Department of Corrections. The amendment extends the agreement for five years and
+- 1. Consider awarding a bid to Central Salt, LLC of Lyons, KS, Contract C2026310, for
+- 2. Consider authorization and execution of Contract C2026306 for design and
+- replacement project at the Adult Detention Center
+- 3. Acknowledge Contract C2026257A1, covering Change Order #1 (FINAL) with South
+- Wind Contracting, LLC of Kansas City, KS. This change order reflects "As Bid" versus
+- "As Constructed" quantities for a repair project to the North Annex's east parking lot
+- 4. Acknowledge Contract C2026113A1 covering Change Order #1 (FINAL) with WCI,
+- Inc., reflecting "as bid" versus "as constructed" quantities for a bridge replacement
+- project on NE Calhoun Bluff Road over a tributary to the Kansas River
+- 1. Consider approval to issue a Request for Proposal (RFP) for services to replace
+- flooring at J.P. Lewis Health Department funded from project funds
+- 2. Consider approval of Contract C2026307 with KEY Staffing for Temp / Temp to hire
+
+## [shawnee-county#15] 2026-08-27 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- Community Supporting Breastfeeding PLUS designation as established by the Kansas
+- Breastfeeding Coalition. — Health Department
+- A. Consider approval of Resolution R2026074 providing property tax relief for Olawaseun
+- B. Consider approval of Resolution R2026075 providing property tax relief for Juana Larico
+- C. Consider approval of Contract C2026302 with ConvergeOne for the renewal of a CISCO
+- a cost of $10,743.12 with funding from the 2026 Court Administration budget. — Court
+- D. Consider approval of Contract C2026303 with SHI for the annual renewal of VMWare for
+- with funding through the 2026 Court Administration budget. — Court Administration
+- E. Consider approval of Contract C2026304 for the annual Adobe subscription renewal
+- F. Consider approval of Resolution R2026001A2 amending Resolution R2026001 by
+- G. Consider approval for out-of-state travel for the County Clerk to attend the 2026
+- I. Consider approval to authorize a payment of $350.00 for the final expenses of Richard
+- J. Consider approval to use Gage Park Sales Tax Funds for the Tennis Court Removal
+- project, budgeted at $18,630.00. — Parks + Recreation
+- K. Consider approval of Contract C2026309 with trade vendor, Falk Architects, to use Gage
+- Park Sales Tax Funds for the design phase of the Snyder’s Cabin Replacement project
+- with a budget of $4,761.00. — Parks + Recreation
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval of Contract C2026305, the 1st Amendment to the Smart
+- Communications Services Agreement C279-2024 for the Shawnee County
+- Department of Corrections. The amendment extends the agreement for five years and
+- 1. Consider awarding a bid to Central Salt, LLC of Lyons, KS, Contract C2026310, for
+- 2. Consider authorization and execution of Contract C2026306 for design and
+- replacement project at the Adult Detention Center
+- 3. Acknowledge Contract C2026257A1, covering Change Order #1 (FINAL) with South
+- Wind Contracting, LLC of Kansas City, KS. This change order reflects "As Bid" versus
+- "As Constructed" quantities for a repair project to the North Annex's east parking lot
+- 4. Acknowledge Contract C2026113A1 covering Change Order #1 (FINAL) with WCI,
+- Inc., reflecting "as bid" versus "as constructed" quantities for a bridge replacement
+- project on NE Calhoun Bluff Road over a tributary to the Kansas River
+- 1. Consider approval to issue a Request for Proposal (RFP) for services to replace
+- flooring at J.P. Lewis Health Department funded from project funds
+- 2. Consider approval of Contract C2026307 with KEY Staffing for Temp / Temp to hire
+
+## [shawnee-county#16] 2026-08-31 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- II. PUBLIC COMMENT
+
+## [shawnee-county#17] 2026-08-31 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- II. PUBLIC COMMENT
+- INDUSTRIAL REVENUE BONDS &
+- PROPERTY TAX EXEMPTIONS
+- An Analysis and Summary of Local Economic Development
+- Incentive Policies Across Thirteen Kansas Cities and Counties
+- This presentation was prepared for the Board of County Commissioners of
+- Shawnee County, Kansas, for consideration and evaluation of the
+- County’s Industrial Revenue Bond (IRB) policy. It presents Shawnee
+- twelve peer Kansas cities and counties, so the Board can identify
+- provisions it may wish to retain, amend, adopt, or incorporate from
+- industries, some extend eligibility to multi-family/affordable housing, while
+- 2. How much base exemption, and what qualifies a project for more? Nearly all
+- development in targeted areas. However, the mechanics (published
+- 3. What is required in return? PILOT (payment in lieu of taxes) requirements,
+- 4. What is the application and approval procedure and fee structure? Application
+- fees, cost benefit analysis requirements, annual renewal fees, and committee
+- 1. Industry eligibility: a defined list of targeted uses with explicitly exclusions, versus a broad/open
+- development areas) that might earn additional exemption above the base, and how are those
+- 4. PILOT Requirements: whether PILOT are required as a matter of policy or considered case by
+- case, and how the PILOT amount is calculated relative to the exempted tax liability
+- mechanism — who certifies continued compliance, what triggers a reduction or rescission of the
+- exemption, and what the annual renewal fee/process costs both the applicant and the
+- 6. Fee structure: application fees, service fees, cost benefit analysis costs, and annual review fees
+- Shawnee County Home Rule Resolutions 81-4, 84-16, and HR2026002
+- All applications must contain the 15 items stated in the Resolution. However, there are no express criteria requiring
+- The project should result in economic growth for the County and the State. The project should add to the
+- To finance projects which will promote, stimulate, and develop the general economic welfare and prosperity of
+- by the issuance of revenue bonds to be paid solely from the revenues to be derived from the project
+- Fee Structure
+- Application Fee: $4,000
+- Annual Maintenance Fee: $1,000
+- Payment in Lieu of Taxes
+- Source: Resolution Number 7563, adopted and approved by the City Council on
+- policy considerations the governing body weighs before issuing IRBs
+- None identified in resolution
+- percentage. PILOT is presumed to be 100% of the ad valorem taxes otherwise due unless a
+- 2. Job Quality Reduction – the company’s average wage rate for newly created jobs divided
+
+## [shawnee-county#18] 2026-09-03 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. REVENUE NEUTRAL RATE PUBLIC HEARING
+- A. Public Hearing and consideration of Shawnee County Resolution R2026076 authorizing a
+- levy of property taxes in support of the 2027 budget year for Shawnee County that
+- exceeds the revenue neutral rate of 46.861 mills
+- II. 2027 BUDGET PUBLIC HEARING
+- A. Public Hearing and consideration of Shawnee County's 2027 Proposed Budget
+- associated costs will be paid with 2026 budgeted funds
+- B. Consider approval of Contract C2026312 with Alliant Insurance Services, Inc. for
+- C. Consider approval of Contract C2026313, an agreement between the Shawnee County
+- D. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- E. Consider approval to utilize Gage Park Sales Tax funds for payment of temporary safety
+- fencing placed in Gage Park for the playland reconstruction project through its conclusion
+- Parks + Recreation
+- F. Consider approval to pay Trak Roofing and Construction for work performed outside the
+- Building in the amount of $12,350.96. - Parks + Recreation
+- G. Consider approval to issue a Request for Proposal (RFP) for qualified vendors to provide
+- and install a sports field irrigation system at Felker Soccer. - Parks + Recreation
+- H. Consider approval of Contract C2026314 with GameTime for the purchase and installation
+- of a swing frame and seat for Gage Park utilizing the Omnia Cooperative. The $8,218.64
+- cost is requested to be funded with Gage Park Sales Tax Funds. — Parks + Recreation
+- I. Consider approval to issue a Request for Proposal (RFP) for services to restore the
+- waterslide features at the Blaisdell Pool. — Parks + Recreation
+- J. Consider approval of Contract C2026315, a Memorandum of Understanding with
+- in experiential learning and community engagement opportunities at the Central Park
+- Community Center. — Parks + Recreation
+- K. Consider approval of Contract C2026207A3 with Schurle Signs, Amendment #3, to extend
+- the completion date for the new entrance sign construction at Gage Park. — Parks +
+- L. Consider approval of Contract C2026316, an Independent Contractor Agreement for
+- dance programs. — Parks + Recreation
+- N. Consider request to REJECT the single bid received for sand. - Public Works
+- O. Consider approval of Resolution R2026077 authorizing the issuance of a Shawnee
+- County credit card with a limit of $5,000.00 for official business purchases to Briana Haga
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval of Contract C2026311 with Wabaunsee County covering
+- the shared cost of a "county line" bridge project
+
+## [shawnee-county#19] 2026-09-03 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. REVENUE NEUTRAL RATE PUBLIC HEARING
+- A. Public Hearing and consideration of Shawnee County Resolution R2026076 authorizing a
+- levy of property taxes in support of the 2027 budget year for Shawnee County that
+- exceeds the revenue neutral rate of 46.861 mills
+- II. 2027 BUDGET PUBLIC HEARING
+- A. Public Hearing and consideration of Shawnee County's 2027 Proposed Budget
+- associated costs will be paid with 2026 budgeted funds
+- B. Consider approval of Contract C2026312 with Alliant Insurance Services, Inc. for
+- C. Consider approval of Contract C2026313, an agreement between the Shawnee County
+- D. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- E. Consider approval to utilize Gage Park Sales Tax funds for payment of temporary safety
+- fencing placed in Gage Park for the playland reconstruction project through its conclusion
+- Parks + Recreation
+- F. Consider approval to pay Trak Roofing and Construction for work performed outside the
+- Building in the amount of $12,350.96. - Parks + Recreation
+- G. Consider approval to issue a Request for Proposal (RFP) for qualified vendors to provide
+- and install a sports field irrigation system at Felker Soccer. - Parks + Recreation
+- H. Consider approval of Contract C2026314 with GameTime for the purchase and installation
+- of a swing frame and seat for Gage Park utilizing the Omnia Cooperative. The $8,218.64
+- cost is requested to be funded with Gage Park Sales Tax Funds. — Parks + Recreation
+- I. Consider approval to issue a Request for Proposal (RFP) for services to restore the
+- waterslide features at the Blaisdell Pool. — Parks + Recreation
+- J. Consider approval of Contract C2026315, a Memorandum of Understanding with
+- in experiential learning and community engagement opportunities at the Central Park
+- Community Center. — Parks + Recreation
+- K. Consider approval of Contract C2026207A3 with Schurle Signs, Amendment #3, to extend
+- the completion date for the new entrance sign construction at Gage Park. — Parks +
+- L. Consider approval of Contract C2026316, an Independent Contractor Agreement for
+- dance programs. — Parks + Recreation
+- N. Consider request to REJECT the single bid received for sand. - Public Works
+- O. Consider approval of Resolution R2026077 authorizing the issuance of a Shawnee
+- County credit card with a limit of $5,000.00 for official business purchases to Briana Haga
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval of Contract C2026311 with Wabaunsee County covering
+- the shared cost of a "county line" bridge project
+
+## [shawnee-county#21] 2026-09-10 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- B. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- C. Consider approval of Contract C2026318, Amendment no. 2 to Contract C485-2020, to
+- D. Consider approval of Resolution R2026078 authorizing the approval of changes to the
+- E. Consider approval of Resolution R2026079 authorizing the issuance of a Shawnee
+- F. Consider approval to reclassify the Motor Vehicle Quality Assurance Manager to an Office
+- G. Consider approval to dispose of technology hardware that is no longer of valuable use
+- H. Consider approval to donate several hard drives and laptops to PCs for People. These
+- I. Consider approval of Contract C2026319 with DL Smith Electrical Construction, an
+- advertising/sponsorship agreement, to sponsor the Smoke on the Water barbeque event at
+- Lake Shawnee October 9-10, 2026. — Parks + Recreation
+- J. Consider approval of Contract C2026320, Amendment #1 to Contract C284-2023
+- between the Boys and Girls Club Topeka and Shawnee County Parks + Recreation, for a
+- three-year extension of the Abbott Community Center management agreement. — Parks +
+- K. Request approval to apply for BJA FY2026 Comprehensive Opioid Stimulant, and
+- Substance Use Site-Based Program (COSSUP) grant in the amount of $1,300,000.00 over
+- L. Consider approval of Contract C2026323 with Culligan of Topeka, to be funded by the
+- individual department utilizing the agreement. — Facilities Maintenance
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. LAND USE & DEVELOPMENT - Joni Thadani
+- 1. Public Hearing and consider approval of Resolution R2026080, a major amendment
+- to an existing Conditional Use Permit (SP80/7E) to remove Condition No. 2 from
+- Resolution No. 80-123 on property zoned "RR-1" (Residential Reserve District) and
+- located at 4144 SE 45th Street in Tecumseh Township
+- 1. Consider approval of Contract C2026321, a Memorandum of Understanding with the
+- Grant (ECBG) with an award of $255,384.95 for the Health Department. The ECBG
+- 1. Consider approval to award bid and approve Contract C2026322 with CFS Engineers
+- for RFQ #028-26 Engineering Services for Proposed Data Centers
+- 1. Consider approval of Shawnee County 2027 Budget and CIP
+- V. PUBLIC COMMENT
+
+## [shawnee-county#22] 2026-09-10 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- B. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- C. Consider approval of Contract C2026318, Amendment no. 2 to Contract C485-2020, to
+- D. Consider approval of Resolution R2026078 authorizing the approval of changes to the
+- E. Consider approval of Resolution R2026079 authorizing the issuance of a Shawnee
+- F. Consider approval to reclassify the Motor Vehicle Quality Assurance Manager to an Office
+- G. Consider approval to dispose of technology hardware that is no longer of valuable use
+- H. Consider approval to donate several hard drives and laptops to PCs for People. These
+- I. Consider approval of Contract C2026319 with DL Smith Electrical Construction, an
+- advertising/sponsorship agreement, to sponsor the Smoke on the Water barbeque event at
+- Lake Shawnee October 9-10, 2026. — Parks + Recreation
+- J. Consider approval of Contract C2026320, Amendment #1 to Contract C284-2023
+- between the Boys and Girls Club Topeka and Shawnee County Parks + Recreation, for a
+- three-year extension of the Abbott Community Center management agreement. — Parks +
+- K. Request approval to apply for BJA FY2026 Comprehensive Opioid Stimulant, and
+- Substance Use Site-Based Program (COSSUP) grant in the amount of $1,300,000.00 over
+- L. Consider approval of Contract C2026323 with Culligan of Topeka, to be funded by the
+- individual department utilizing the agreement. — Facilities Maintenance
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. LAND USE & DEVELOPMENT - Joni Thadani
+- 1. Public Hearing and consider approval of Resolution R2026080, a major amendment
+- to an existing Conditional Use Permit (SP80/7E) to remove Condition No. 2 from
+- Resolution No. 80-123 on property zoned "RR-1" (Residential Reserve District) and
+- located at 4144 SE 45th Street in Tecumseh Township
+- 1. Consider approval of Contract C2026321, a Memorandum of Understanding with the
+- Grant (ECBG) with an award of $255,384.95 for the Health Department. The ECBG
+- 1. Consider approval to award bid and approve Contract C2026322 with CFS Engineers
+- for RFQ #028-26 Engineering Services for Proposed Data Centers
+- 1. Consider approval of Shawnee County 2027 Budget and CIP
+- V. PUBLIC COMMENT
+- RE: Request to Authorize Payment of Final Expenses for DANIEL J. GREEN (SN26
+- This request for final expenses is for the full $350.00 cost
+- APPROVAL OF THIS CONSENT ITEM WOULD DO THE FOLLOWING:
+- RE: Request to Authorize Payment of Final Expenses for HERALD DEINES (SN26
+
+## [shawnee-county#24] 2026-09-17 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- Outstanding Facility Awards program. — Parks + Recreation
+- A. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- B. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- C. Consider approval of Contract C2026324, a subscription renewal for Tiny Professional, a
+- D. Consider approval to fill the vacant Recreation Programmer, position PR1202, at Step 3,
+- department's operating fund budget. — Parks + Recreation
+- E. Consider approval to utilize Gage Park Sales Tax funds for payment on the attached DL
+- Smith Electric invoices for work performed in Gage Park. — Parks + Recreation
+- F. Consider approval of Resolution R2026085 authorizing the issuance of a business credit
+- purchases for the operation of detention centers. — Department of Corrections
+- G. Consider approval to hire a candidate for the Health Services Liaison for the Department of
+- cost for salary and benefits of $119,811.56, to be paid from the department budget. —
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. BOND COUNSEL - Bob Perry
+- 1. Consider approval of Resolution R2026081 authorizing the issuance of an estimated
+- $7,000,000.00 aggregate principal amount of Shawnee County, Kansas, taxable
+- hospitality revenue bonds (YBR Properties WG Topeka LLC Project generally located
+- 2. Public Hearing and considering approval of Resolution R2026082 levying and
+- such special assessments to pay the costs of certain street improvements in the
+- Timber Ridge Subdivision, Shawnee County, Kansas Street Benefit District as
+- authorized by County Resolution 2023-8; and providing for the collection of such
+- 3. Public Hearing and considering approval of Resolution R2026083 levying and
+- authorized by County Resolution 2025-52; and providing for the collection of such
+- 4. Public Hearing and considering approval of Resolution R2026084 levying and
+- Sterling Chase Subdivision No. 5, Shawnee County, Kansas Street Benefit District as
+- authorized by County Resolution 2024-22; and providing for the collection of such
+- 1. Consider approval to enter into the Kansas Office of Early Childhood (KOEC)
+- Sub-Recipient Agreement for SFY2027, Contract C2026325, that will provide
+- 1. Consider approval of the Shawnee County 2027 Budget and CIP
+- V. PUBLIC COMMENT
+
+## [shawnee-county#25] 2026-09-17 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- Outstanding Facility Awards program. — Parks + Recreation
+- A. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- B. Consider approval of a request to authorize a payment of $350.00 for the final expenses of
+- C. Consider approval of Contract C2026324, a subscription renewal for Tiny Professional, a
+- D. Consider approval to fill the vacant Recreation Programmer, position PR1202, at Step 3,
+- department's operating fund budget. — Parks + Recreation
+- E. Consider approval to utilize Gage Park Sales Tax funds for payment on the attached DL
+- Smith Electric invoices for work performed in Gage Park. — Parks + Recreation
+- F. Consider approval of Resolution R2026085 authorizing the issuance of a business credit
+- purchases for the operation of detention centers. — Department of Corrections
+- G. Consider approval to hire a candidate for the Health Services Liaison for the Department of
+- cost for salary and benefits of $119,811.56, to be paid from the department budget. —
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. BOND COUNSEL - Bob Perry
+- 1. Consider approval of Resolution R2026081 authorizing the issuance of an estimated
+- $7,000,000.00 aggregate principal amount of Shawnee County, Kansas, taxable
+- hospitality revenue bonds (YBR Properties WG Topeka LLC Project generally located
+- 2. Public Hearing and considering approval of Resolution R2026082 levying and
+- such special assessments to pay the costs of certain street improvements in the
+- Timber Ridge Subdivision, Shawnee County, Kansas Street Benefit District as
+- authorized by County Resolution 2023-8; and providing for the collection of such
+- 3. Public Hearing and considering approval of Resolution R2026083 levying and
+- authorized by County Resolution 2025-52; and providing for the collection of such
+- 4. Public Hearing and considering approval of Resolution R2026084 levying and
+- Sterling Chase Subdivision No. 5, Shawnee County, Kansas Street Benefit District as
+- authorized by County Resolution 2024-22; and providing for the collection of such
+- 1. Consider approval to enter into the Kansas Office of Early Childhood (KOEC)
+- Sub-Recipient Agreement for SFY2027, Contract C2026325, that will provide
+- 1. Consider approval of the Shawnee County 2027 Budget and CIP
+- V. PUBLIC COMMENT
+- Parks + Recreation
+- RE: Presentation – Kossover Tennis Center
+- Outstanding Facility Awards program
+- Justification: Kossover Tennis Center was recognized for an award for Large Tennis Center/Public
+- Courts by USTA’s Outstanding Facility Awards program due to the highly effective public-private
+
+## [shawnee-county#26] 2026-09-21 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- A. History of Parks + Recreation, Bill Riphahn, Commissioner
+- II. PUBLIC COMMENT
+
+## [shawnee-county#27] 2026-09-24 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- budgeted funds
+- McKnight. The Sheriff's Office is grateful to K9 "Zeus" for his years of loyal service to
+- C. Acknowledge receipt and approval of Board of County Commission meeting minutes for
+- D. Consider approval of Contract C2026327, the Regional Public Health Emergency
+- Preparedness (PHEP) contract renewal with the Kansas Department of Health and
+- Environment for grant funding in the amount of $38,280.00 to be received by the Northeast
+- E. Consider approval of Contract C2026328 with the City of Topeka for use of the city's
+- fitness center, which includes a $20.00 enrollment fee and a minimum quarterly fee of
+- F. Consider approval of Contract C2026329 with CDW-G for the renewal of Splunk
+- 2027, at a cost of $9,895.00 with funding from the 2026 Court Administration budget. —
+- G. Consider approving the request of the University of Kansas Mock Trial Team to host the
+- H. Consider approval of Contract C2026330, an amendment between Community
+- Corrections and SCRAM GPS Monitoring. The amendment extends the agreement from
+- I. Acknowledge receipt and approval of Tri County Drainage District No. 1 Treasurer's Bond
+- K. Acknowledge receipt of letter to approve the replacement of the hotel sign located at the
+- SW Topeka Blvd entrance to the Stormont Vail Events Center. — County Counselor
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval to issue Requests for Quotations for the purchase of various pieces
+- of motorized equipment as part of the department's fleet refresh plan
+- 1. Acknowledgment of Contract C2026326 for a new vehicle lease utilizing the existing
+- Enterprise Fleet Management agreement. No additional County funding is requested
+- D. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval to award bid #032-26 and execution of Contract C2026331 with
+- Cunningham Recreation for shelter construction at the Playland area of Gage Park
+- at a cost of $13,890.00 to be paid with Gage Park Sales Tax Funds
+- 2. Consider approval for three change orders (C2026109A1, C2026109A2,
+- 3. Consider approval of expenses for Gage Park using Gage Park Sales Tax Funds:
+- the Gage Park path lights at Playland $20,000.00
+- b) MaryCo Asphalt for road and parking repairs at Gage Park at an estimated cost of
+- c) Most Dependable Fountains, Inc. for a new drinking fountain at Gage Park’s
+- d) Mark's Overhead Door, an improvement project to the Gage Maintenance
+- Compound overhead doors ($12,374.46 budgeted)
+- 1. Consider approval of Contract C2026332 with EyeMed for vision care benefits to
+
+## [shawnee-county#28] 2026-09-24 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- budgeted funds
+- McKnight. The Sheriff's Office is grateful to K9 "Zeus" for his years of loyal service to
+- C. Acknowledge receipt and approval of Board of County Commission meeting minutes for
+- D. Consider approval of Contract C2026327, the Regional Public Health Emergency
+- Preparedness (PHEP) contract renewal with the Kansas Department of Health and
+- Environment for grant funding in the amount of $38,280.00 to be received by the Northeast
+- E. Consider approval of Contract C2026328 with the City of Topeka for use of the city's
+- fitness center, which includes a $20.00 enrollment fee and a minimum quarterly fee of
+- F. Consider approval of Contract C2026329 with CDW-G for the renewal of Splunk
+- 2027, at a cost of $9,895.00 with funding from the 2026 Court Administration budget. —
+- G. Consider approving the request of the University of Kansas Mock Trial Team to host the
+- H. Consider approval of Contract C2026330, an amendment between Community
+- Corrections and SCRAM GPS Monitoring. The amendment extends the agreement from
+- I. Acknowledge receipt and approval of Tri County Drainage District No. 1 Treasurer's Bond
+- K. Acknowledge receipt of letter to approve the replacement of the hotel sign located at the
+- SW Topeka Blvd entrance to the Stormont Vail Events Center. — County Counselor
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider approval to issue Requests for Quotations for the purchase of various pieces
+- of motorized equipment as part of the department's fleet refresh plan
+- 1. Acknowledgment of Contract C2026326 for a new vehicle lease utilizing the existing
+- Enterprise Fleet Management agreement. No additional County funding is requested
+- D. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval to award bid #032-26 and execution of Contract C2026331 with
+- Cunningham Recreation for shelter construction at the Playland area of Gage Park
+- at a cost of $13,890.00 to be paid with Gage Park Sales Tax Funds
+- 2. Consider approval for three change orders (C2026109A1, C2026109A2,
+- 3. Consider approval of expenses for Gage Park using Gage Park Sales Tax Funds:
+- the Gage Park path lights at Playland $20,000.00
+- b) MaryCo Asphalt for road and parking repairs at Gage Park at an estimated cost of
+- c) Most Dependable Fountains, Inc. for a new drinking fountain at Gage Park’s
+- d) Mark's Overhead Door, an improvement project to the Gage Maintenance
+- Compound overhead doors ($12,374.46 budgeted)
+- 1. Consider approval of Contract C2026332 with EyeMed for vision care benefits to
+
+## [shawnee-county#29] 2026-09-28 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- II. PUBLIC COMMENT
+
+## [shawnee-county#30] 2026-10-01 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Contract C2026337 with Choice Solutions for the purchase of six
+- B. Consider approval of Contract C2026338 for 14 Otter Enterprise licenses and support at
+- C. Consider approval of Contract C2026339 with Choice Solutions for the purchase of one
+- WiFi access point and license subscription for Parks + Rec to be used at the Kansas
+- D. Acknowledge receipt and approval of Shawnee County Fire District #3 Treasurer's Bond
+- E. Consider approval of Resolution No. R2026091 assessing annual delinquent sewer fees
+- G. Consider approval of the following regarding the Smoke on the Water Event to be held at
+- the Lake Shawnee Campgrounds on October 9, 2026. — Parks + Recreation
+- a) Contract C2026340 with 785 Beer Company LLC to provide and sell alcoholic
+- and cereal malt beverages, and Resolution R2026092 temporarily exempting
+- b) Contract C2026341, a Memorandum of Understanding with Tarwater Farm and
+- c) Contract C2026342, a Memorandum of Understanding with 785 Beer Company to
+- H. Consider acceptance of the August 2026 bank reconciliation report. — Treasurer
+- I. Consider approving two Community Corrections Division Managers to travel to Pittsburgh,
+- Conference. No Shawnee County funds or Community Corrections state grant funds will be
+- J. Consider approving Community Corrections changing one Office Assistant I (OA I) position
+- funded through the existing Juvenile Grant (33%), Adult Grant (34%), and County (33%)
+- L. Consider approval to authorize payment of $5,120.00 per agreement with the United
+- the Emergency Management 2026 budget. — Emergency Management
+- M. Consider approval for Emergency Management to apply for the Emergency Management
+- Performance Grant (EMPG) for 2026. — Emergency Management
+- N. Consider approval to utilize contingency funds in the amount of $41,645.70 for the Outdoor
+- O. Consider approval of Contract C2026343 with Imperva for the annual renewal of
+- $20,313.75, with funding from the 2026 Court Administration budget. — Court
+- P. Consider approval of Contract C2026323 with Culligan of Topeka, to be funded by the
+- individual department utilizing the agreement. (Previously pulled from the 9/10/2026
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider a request to solicit bids for, or to waive bidding procedures and direct
+- purchase, various road and culvert maintenance materials for 2027 and the winter of
+- often from the 2027 and 2028 Public Works Operating Budget
+- 2. Consider awarding to Martin Marietta of Overland Park, KS, Contract C2026346 for a
+
+## [shawnee-county#31] 2026-10-01 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Consider approval of Contract C2026337 with Choice Solutions for the purchase of six
+- B. Consider approval of Contract C2026338 for 14 Otter Enterprise licenses and support at
+- C. Consider approval of Contract C2026339 with Choice Solutions for the purchase of one
+- WiFi access point and license subscription for Parks + Rec to be used at the Kansas
+- D. Acknowledge receipt and approval of Shawnee County Fire District #3 Treasurer's Bond
+- E. Consider approval of Resolution No. R2026091 assessing annual delinquent sewer fees
+- G. Consider approval of the following regarding the Smoke on the Water Event to be held at
+- the Lake Shawnee Campgrounds on October 9, 2026. — Parks + Recreation
+- a) Contract C2026340 with 785 Beer Company LLC to provide and sell alcoholic
+- and cereal malt beverages, and Resolution R2026092 temporarily exempting
+- b) Contract C2026341, a Memorandum of Understanding with Tarwater Farm and
+- c) Contract C2026342, a Memorandum of Understanding with 785 Beer Company to
+- H. Consider acceptance of the August 2026 bank reconciliation report. — Treasurer
+- I. Consider approving two Community Corrections Division Managers to travel to Pittsburgh,
+- Conference. No Shawnee County funds or Community Corrections state grant funds will be
+- J. Consider approving Community Corrections changing one Office Assistant I (OA I) position
+- funded through the existing Juvenile Grant (33%), Adult Grant (34%), and County (33%)
+- L. Consider approval to authorize payment of $5,120.00 per agreement with the United
+- the Emergency Management 2026 budget. — Emergency Management
+- M. Consider approval for Emergency Management to apply for the Emergency Management
+- Performance Grant (EMPG) for 2026. — Emergency Management
+- N. Consider approval to utilize contingency funds in the amount of $41,645.70 for the Outdoor
+- O. Consider approval of Contract C2026343 with Imperva for the annual renewal of
+- $20,313.75, with funding from the 2026 Court Administration budget. — Court
+- P. Consider approval of Contract C2026323 with Culligan of Topeka, to be funded by the
+- individual department utilizing the agreement. (Previously pulled from the 9/10/2026
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider a request to solicit bids for, or to waive bidding procedures and direct
+- purchase, various road and culvert maintenance materials for 2027 and the winter of
+- often from the 2027 and 2028 Public Works Operating Budget
+- 2. Consider awarding to Martin Marietta of Overland Park, KS, Contract C2026346 for a
+
+## [shawnee-county#33] 2026-10-08 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Requesting approval for Community Corrections to send three staff members to the ALICE
+- Certified Instructor Course being held October 22–23, 2026, in Leavenworth, Kansas, at
+- Corrections grant dollars and 33% ($741.51) out of county funds. — Department of
+- B. Acknowledge CDL Training Program Reimbursement Agreement (Contract C2026347) for
+- C. Consider approval of Contract C2026356, renewal with Thomson Reuters for continued
+- D. Acknowledge the Sheriff's Office request for approval of Resolution R2026093 authorizing
+- E. Consider acceptance of the Treasurer's idle funds investment quarterly report ending
+- F. Consider approval of Contract C2026348, a Memorandum of Understanding with El
+- on the Water barbeque competition to be held at Lake Shawnee on October 9. — Parks +
+- G. Consider approval of Contract C2026349, a Memorandum of Understanding with KC Meat
+- the Water barbeque competition to be held at Lake Shawnee on October 9. — Parks +
+- H. Consider approval of Contract C2026350 with The Matchsellers to perform music for
+- the Smoke on the Water Event to be held at the Lake Shawnee Campgrounds on
+- October 9. — Parks + Recreation
+- I. Consider approval of Contract C2026352, a Memorandum of Understanding with
+- J. Consider approval of Contract C2026351 and a temporary permit, Resolution R2026094
+- between Envy Events LLC and Parks + Recreation for the Tails & Ales Event to be held at
+- the Lake Shawnee Off-Leash Dog Park on October 10. — Parks + Recreation
+- K. Consider approval of Contract C2026199A1, Change Order No. 1 from Safe Slides for
+- $1,808.00 is to be paid by the Parks for All Foundation. — Parks + Recreation
+- L. Consider approval of Contract C2026353, a Memorandum of Understanding with Osage
+- County Health Department. The contract covers the period of time from October 1, 2026
+- M. Consider approval of Contract C2026354, a Memorandum of Understanding with
+- Shawnee County Health Department. The contract covers the period of time from October
+- N. Request to hire a candidate for the vacant Election Manager-Election Systems position at
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider out-of-state travel for three employees to attend the CentralSquare Engage
+- 1. Consider approval of Contract C2026355, the RxSaveCard Service Agreement for
+- D. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of expenses utilizing Gage Park Sales Tax Funds:
+- d) Central Mechanical for a water line leak and to extend water service to a new
+- 1. Request authorization to select HTK Architects for architectural and design services at
+
+## [shawnee-county#34] 2026-10-08 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Requesting approval for Community Corrections to send three staff members to the ALICE
+- Certified Instructor Course being held October 22–23, 2026, in Leavenworth, Kansas, at
+- Corrections grant dollars and 33% ($741.51) out of county funds. — Department of
+- B. Acknowledge CDL Training Program Reimbursement Agreement (Contract C2026347) for
+- C. Consider approval of Contract C2026356, renewal with Thomson Reuters for continued
+- D. Acknowledge the Sheriff's Office request for approval of Resolution R2026093 authorizing
+- E. Consider acceptance of the Treasurer's idle funds investment quarterly report ending
+- F. Consider approval of Contract C2026348, a Memorandum of Understanding with El
+- on the Water barbeque competition to be held at Lake Shawnee on October 9. — Parks +
+- G. Consider approval of Contract C2026349, a Memorandum of Understanding with KC Meat
+- the Water barbeque competition to be held at Lake Shawnee on October 9. — Parks +
+- H. Consider approval of Contract C2026350 with The Matchsellers to perform music for
+- the Smoke on the Water Event to be held at the Lake Shawnee Campgrounds on
+- October 9. — Parks + Recreation
+- I. Consider approval of Contract C2026352, a Memorandum of Understanding with
+- J. Consider approval of Contract C2026351 and a temporary permit, Resolution R2026094
+- between Envy Events LLC and Parks + Recreation for the Tails & Ales Event to be held at
+- the Lake Shawnee Off-Leash Dog Park on October 10. — Parks + Recreation
+- K. Consider approval of Contract C2026199A1, Change Order No. 1 from Safe Slides for
+- $1,808.00 is to be paid by the Parks for All Foundation. — Parks + Recreation
+- L. Consider approval of Contract C2026353, a Memorandum of Understanding with Osage
+- County Health Department. The contract covers the period of time from October 1, 2026
+- M. Consider approval of Contract C2026354, a Memorandum of Understanding with
+- Shawnee County Health Department. The contract covers the period of time from October
+- N. Request to hire a candidate for the vacant Election Manager-Election Systems position at
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 1. Consider out-of-state travel for three employees to attend the CentralSquare Engage
+- 1. Consider approval of Contract C2026355, the RxSaveCard Service Agreement for
+- D. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of expenses utilizing Gage Park Sales Tax Funds:
+- d) Central Mechanical for a water line leak and to extend water service to a new
+- 1. Request authorization to select HTK Architects for architectural and design services at
+
+## [shawnee-county#35] 2026-10-12 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- II. PUBLIC COMMENT
+
+## [shawnee-county#36] 2026-10-15 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Acknowledge receipt and approval of Board of County Commission meeting minutes for
+- September 10, 17, 24 and the revenue neutral rate public hearing/budget hearing for
+- B. Acknowledge the Sheriff's Office request to apply for the 2026 Byrne JAG Grant. The total
+- estimated award would be $133,654.00, and there is no matching funds provision for this
+- C. Request by the Register of Deeds for disposal and donation of seven obsolete Epson
+- D. Consider approval of the Memorandums of Understanding establishing the details of the
+- Barbeque Bucks program at the 2026 Smoke on the Water barbeque competition held at
+- a. Contract C2026357 Smoke This!
+- b. Contract C2026358 Smokin’ H Meats
+- c. Contract C2026359 Mongo Q
+- d. Contract C2026360 Smokin’ Beaver BBQ
+- e. Contract C2026361 Chris Dotson DBA Slow Sarge
+- F. Consider approval of request to update the Department of Corrections UMB accounts'
+- G. Consider approval of Contract C2026363 with HTK Architects for architectural and design
+- services at the Shawnee County North Annex utilizing funds from the Shawnee County
+- Solid Waste operational budget. — Solid Waste
+- H. Consider the request to fill the Chief Network Engineer position at Range 71, Step 13,
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. BOND COUNSEL - Bob Perry
+- 1. Consider Resolution R2026095 authorizing the issuance of an estimated
+- $15,000,000.00 aggregate principal amount of Shawnee County, Kansas multifamily
+- Housing Revenue Bonds (Topeka SV, LLC Project)
+- 1. Consider approval of Contract C2026364 with Rush Truck Center of KC, MO for
+- the 2027 purchase of a tandem axle dump truck and plow using Sourcewell, a
+- 2. Consider approval of Contract C2026365 with Shawnee Mission Ford of Shawnee,
+- KS for the 2027 purchase of a 3/4-ton pickup and two 1-ton cab and chassis (all with
+- 3. Consider approval of Contract C2026366 with KanEquip, Inc. of Ottawa, KS for the
+- 2027 purchase of three zero-turn radius mowers using a State of Kansas contract
+- 4. Consider approval of Contract C2026367 with SBB Engineering, LLC to provide
+- replacement project on SE Croco Road immediately north of KTA's I-70 bridge,
+- 1. Request approval to accept the FY2026 BJA Invited to Apply - Byrne Discretionary
+- Community Project Grant award of $750,000.00 for Behavioral Health Unit
+- 2. Consider approval of Contract C2026368 with Astra Mental Health & Recovery, Inc
+- paid from the detention budget and inmate wellness funds
+- E. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of Contract C2026369 with Associated Insulation, Inc. for asbestos
+
+## [shawnee-county#37] 2026-10-15 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Acknowledge receipt and approval of Board of County Commission meeting minutes for
+- September 10, 17, 24 and the revenue neutral rate public hearing/budget hearing for
+- B. Acknowledge the Sheriff's Office request to apply for the 2026 Byrne JAG Grant. The total
+- estimated award would be $133,654.00, and there is no matching funds provision for this
+- C. Request by the Register of Deeds for disposal and donation of seven obsolete Epson
+- D. Consider approval of the Memorandums of Understanding establishing the details of the
+- Barbeque Bucks program at the 2026 Smoke on the Water barbeque competition held at
+- a. Contract C2026357 Smoke This!
+- b. Contract C2026358 Smokin’ H Meats
+- c. Contract C2026359 Mongo Q
+- d. Contract C2026360 Smokin’ Beaver BBQ
+- e. Contract C2026361 Chris Dotson DBA Slow Sarge
+- F. Consider approval of request to update the Department of Corrections UMB accounts'
+- G. Consider approval of Contract C2026363 with HTK Architects for architectural and design
+- services at the Shawnee County North Annex utilizing funds from the Shawnee County
+- Solid Waste operational budget. — Solid Waste
+- H. Consider the request to fill the Chief Network Engineer position at Range 71, Step 13,
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- B. BOND COUNSEL - Bob Perry
+- 1. Consider Resolution R2026095 authorizing the issuance of an estimated
+- $15,000,000.00 aggregate principal amount of Shawnee County, Kansas multifamily
+- Housing Revenue Bonds (Topeka SV, LLC Project)
+- 1. Consider approval of Contract C2026364 with Rush Truck Center of KC, MO for
+- the 2027 purchase of a tandem axle dump truck and plow using Sourcewell, a
+- 2. Consider approval of Contract C2026365 with Shawnee Mission Ford of Shawnee,
+- KS for the 2027 purchase of a 3/4-ton pickup and two 1-ton cab and chassis (all with
+- 3. Consider approval of Contract C2026366 with KanEquip, Inc. of Ottawa, KS for the
+- 2027 purchase of three zero-turn radius mowers using a State of Kansas contract
+- 4. Consider approval of Contract C2026367 with SBB Engineering, LLC to provide
+- replacement project on SE Croco Road immediately north of KTA's I-70 bridge,
+- 1. Request approval to accept the FY2026 BJA Invited to Apply - Byrne Discretionary
+- Community Project Grant award of $750,000.00 for Behavioral Health Unit
+- 2. Consider approval of Contract C2026368 with Astra Mental Health & Recovery, Inc
+- paid from the detention budget and inmate wellness funds
+- E. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of Contract C2026369 with Associated Insulation, Inc. for asbestos
+
+## [shawnee-county#38] 2026-10-19 | BOARD OF COUNTY COMMISSIONERS | agenda
+- I. PRESENTATIONS
+- II. PUBLIC COMMENT
+
+## [shawnee-county#39] 2026-10-22 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Acknowledgment of payment to Project2Restore for sponsorship of the 2026 Vision Dinner,
+- be paid with budgeted funds
+- C. Consider the Sheriff's Office request to dispose of obsolete and unusable furniture
+- maintenance agreement with Turn-Key Mobile, Contract C2026370, for the NetMotion
+- $18.420.00 to be paid for utilizing budgeted funds
+- E. Consider request of an allocation of $163,981.00 from Shawnee County to subsidize the
+- net operating budget overage experienced by the Stormont Vail Events Center during the
+- F. Consider acceptance of the September 2026 bank reconciliation report. — Treasurer
+- G. Consider approval of Contract C2026375, an Independent Contractor Agreement for
+- and classes through Shawnee County Parks + Recreation. — Parks + Recreation
+- H. Acknowledge the disposal of several water damaged items due to a basement flood. —
+- I. Consider approval of Contract C2026376 with Advantage Software for annual EclipseVox
+- budget. — Court Administration
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 3. Consider approval of Resolution R2026097 authorizing a 2027 Cereal Malt Beverage
+- License to Dillons Store #37 located at 6829 SW 29th Street, Topeka, Kansas, and
+- Resolution R2026098 authorizing a 2027 Cereal Malt Beverage License to Forbes
+- Golf Course located at 700 SW Capehart Road, Topeka, Kansas
+- B. BOND COUNSEL - Bob Perry
+- 1. Deferred from October 15, 2026. Consider Resolution R2026095 authorizing the
+- County, Kansas multifamily Housing Revenue Bonds (Topeka SV, LLC Project)
+- C. STORMONT VAIL EVENTS CENTER - Kasey Hanney
+- 1. Consider approval of Contract C2026377, a revised license agreement with Pro
+- 1. Consider approval of a project budget and a request to solicit construction bids for a
+- pavement replacement project on SE Croco Road immediately north of the KTA's I-70
+- 2. Consider Amendment No. 1, Contract C2026371A1 to Contract C319-2023 with J
+- 3. Consider awarding to Martin Marietta of Overland Park, KS, Contract C2026373 for
+- 4. Consider approval of a project budget and a request to solicit construction bids relating
+- to a rehabilitation project on the NW Maple Hill Road bridge over the Kansas River
+- 1. Consider approval of Contract C2026372 for the renewal of the annual maintenance
+- and licensing fee agreement of $38,562.23 with Tyler Technologies for Advanced
+- F. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of Contract C2026374 with Topeka Landscape Inc. for the
+- 1. Consider approval to award bid to Truck Component Services for the purchase of
+
+## [shawnee-county#40] 2026-10-22 | BOARD OF COUNTY COMMISSIONERS | agenda
+- 707 SE Quincy Street
+- I. PRESENTATIONS
+- A. Acknowledgment of payment to Project2Restore for sponsorship of the 2026 Vision Dinner,
+- be paid with budgeted funds
+- C. Consider the Sheriff's Office request to dispose of obsolete and unusable furniture
+- maintenance agreement with Turn-Key Mobile, Contract C2026370, for the NetMotion
+- $18.420.00 to be paid for utilizing budgeted funds
+- E. Consider request of an allocation of $163,981.00 from Shawnee County to subsidize the
+- net operating budget overage experienced by the Stormont Vail Events Center during the
+- F. Consider acceptance of the September 2026 bank reconciliation report. — Treasurer
+- G. Consider approval of Contract C2026375, an Independent Contractor Agreement for
+- and classes through Shawnee County Parks + Recreation. — Parks + Recreation
+- H. Acknowledge the disposal of several water damaged items due to a basement flood. —
+- I. Consider approval of Contract C2026376 with Advantage Software for annual EclipseVox
+- budget. — Court Administration
+- 1. Consider all voucher payments
+- 2. Consider correction orders
+- 3. Consider approval of Resolution R2026097 authorizing a 2027 Cereal Malt Beverage
+- License to Dillons Store #37 located at 6829 SW 29th Street, Topeka, Kansas, and
+- Resolution R2026098 authorizing a 2027 Cereal Malt Beverage License to Forbes
+- Golf Course located at 700 SW Capehart Road, Topeka, Kansas
+- B. BOND COUNSEL - Bob Perry
+- 1. Deferred from October 15, 2026. Consider Resolution R2026095 authorizing the
+- County, Kansas multifamily Housing Revenue Bonds (Topeka SV, LLC Project)
+- C. STORMONT VAIL EVENTS CENTER - Kasey Hanney
+- 1. Consider approval of Contract C2026377, a revised license agreement with Pro
+- 1. Consider approval of a project budget and a request to solicit construction bids for a
+- pavement replacement project on SE Croco Road immediately north of the KTA's I-70
+- 2. Consider Amendment No. 1, Contract C2026371A1 to Contract C319-2023 with J
+- 3. Consider awarding to Martin Marietta of Overland Park, KS, Contract C2026373 for
+- 4. Consider approval of a project budget and a request to solicit construction bids relating
+- to a rehabilitation project on the NW Maple Hill Road bridge over the Kansas River
+- 1. Consider approval of Contract C2026372 for the renewal of the annual maintenance
+- and licensing fee agreement of $38,562.23 with Tyler Technologies for Advanced
+- F. PARKS + RECREATION - Tim Laurent
+- 1. Consider approval of Contract C2026374 with Topeka Landscape Inc. for the
+- 1. Consider approval to award bid to Truck Component Services for the purchase of

@@ -1,0 +1,926 @@
+# riley-county
+
+## [riley-county#0] 2026-07-27 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Kirk Crabtree Rural Economic Development Advisory Board Chair Present 8:30 AM
+- Amanda Webb Planning/Special Projects Director Present 8:54 AM
+- Liz Holle Big Lakes Developmental Center Director Present 9:00 AM
+- Public Comment
+- Phillips asked the Board to remove the Budget Work Session from today's agenda at 10:55
+- Thursday post BOCC meeting I met with Riley County Treasurer Shilo Heger. We discussed
+- some ongoing efforts in her department, some ideas for future budgets, and the new motor
+- vehicle fee structure just to name a few. Appreciated the dialog and the conversation surely
+- sparked some thoughts and ideas
+- Friday morning, I was at Stormont Vail for an echocardiogram. The process took about an
+- well as the personnel budget, and the budget moving forward. Lots of moving pieces but the
+- Celebration. I along with Tiffany Oppelt from TheraPie did the judging and we had nine
+- others in terms of taste as well as presentation. Thanks to all who came out for the event and
+- Foster (BG Consultants) met to discuss a ribbon cutting for the Keats wastewater project. It
+- will be on August 13th at 6:00 p.m. in the lagoon area west of the Keats Park. We discussed
+- the best location for the ribbon cutting. Also discussed was the contractor’s request for a
+- staging area in the park, which we didn’t approve, as it would take too much space from the
+- usable park area for residents. The contractor will be advised to find a location in the area and
+- with Vanessa Gray on the Keats flyer. I also had a physical therapy appointment and stopped
+- 1. CIP Amendment
+- Move to approve the Riley County Employee Action Forms
+- Move to approve the minutes of July 23, 2026 as presented
+- 9:00 AM Amanda Webb, Planning/Special Projects Director
+- 5. Home in the Heartland Grant Application Round 2
+- Webb presented the Home in the Heartland Grant Application Round 2
+- The Board discussed the program
+- 9:15 AM Liz Holle, Big Lakes Developmental Center Director
+- 6. Big Lakes Developmental Center update
+- Holle presented the Big Lakes Developmental Center update
+- 7. Presentation of Ruralprenuer Recognition Award - Ron Wilson (5 minutes)
+- Isaac presented the Sutton Estates Addition plat request
+- Move to approve "Resolution No. 072726-33, A Resolution approving the Sutton
+- Estates Addition plat and accepting the street rights of way, easements and licenses as
+- shown to be dedicated on said plat" the requirements of the Riley County Land
+- Development Regulations and Sanitary Code have been met
+- Isaac presented the J&M Addition Unit 1 plat request
+- Move to approve "Resolution No. 072726-34, A Resolution approving the J & M
+
+## [riley-county#1] 2026-07-30 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Amanda Webb Planning/Special Projects Director Present 10:00 AM
+- Public Comment
+- Spent Monday at home not feeling overly well so I did some work from home and stayed out
+- Workforce Development Committee meeting recap at the Annual Conference and Exposition
+- in New Orleans. The CEWD Policy Steering Committee hosted presentations focused on
+- housing, workforce development, community revitalization, and rural economic development
+- Speakers shared practical strategies for addressing housing challenges, leveraging technology
+- Health. As usual we started with a Finance Oversight Committee to discuss the financials,
+- minutes, new introductions followed by a program presentation by Colleen O’Connell on
+- Market and Development report, and discussed other business including sign-up sheets for city
+- the Heartland grant. I know we will be discussing that a bit later in the meeting so I will leave
+- Extremely grateful of the cooler temperature and the couple of rounds of rain we have enjoyed
+- Monday afternoon I met with Jacob Hansen to go over some things discussed at the meeting
+- earlier. I then went to Health Department to see how things are going and get some feedback
+- on the reorganization. I had good discussions with Jan Scheideman, Shanika Rose, and AJ
+- presentation by Jim Gandt from the Manhattan Area Technical College. It was a good update
+- for the RCPD grant application; however, I don’t have a copy of the application and will pick
+- Wednesday, I came into the office to try and organize all the papers from our budget
+- discussions but finally gave up and made some return phone calls and e-mails. I also got the
+- Move to approve the audit consent letter as presented
+- 2. Contract Agreement with BHS Construction for the Riley County IT/GIS Office
+- Move to approve the Contract Agreement with BHS Construction for the IT and GIS
+- 3. Appoint Michael Crimaldi to the Big Lakes Developmental Center Advisory Board
+- Move to sign the appointment letter and approve "Resolution No. 073026-37, A
+- Resolution appointing a representative to the Big Lakes Developmental Center
+- Move to approve Riley County Employee Action Forms
+- Douglas Russell, for a status change, position change, as a Division Fire
+- Chief, in the Fire District #1 Department, effective August 1, 2026
+- Jake Konrardy, for a status change, title change, as a Deputy Fire Chief, in the
+- Fire District #1 Department, effective August 1, 2026
+- Move to approve the minutes of July 27, 2026 as presented
+- Hansen discussed the Court's decision on the Kilner Nuisance Abatement Case, of
+
+## [riley-county#2] 2026-08-03 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Amanda Webb Planning/Special Projects Director Present 9:30 AM
+- Public Comment
+- Register of Deeds to discuss everything going on in their departments and discuss some
+- Also on Thursday I had a little afternoon monthly appointment with the bariatrics team. Not a
+- 1. Riley County Extension of Contract -Trash Services—Howie's Enterprises, Inc. dba
+- Move to approve the Extension of Contract with Howie's Enterprises, Inc. dba
+- Move to approve the minutes of July 30, 2026 as presented
+- Hawthorne discussed the tax foreclosure sale
+- 6. Temporary Right of Entry and Access Agreement
+- Hansen presented the temporary right of entry and access agreement
+- Move to approve the Temporary Right of Entry and Access Agreement for sewer
+- lagoon access for Deep Creek Sewer Benefit District
+- 7. Resolution for reducing the speed limit on Roever Road, Ady Drive, and Daniel
+- McMillan presented a resolution for reducing the speed limit on Roever Road, Ady
+- Move to approve "Resolution No. 080326-38, A Resolution declaring reasonable and
+- safe maximum speed limits on Roever Road, Ady Drive, and Daniel Avenue, in Riley
+- Webb announced the Keats Wastewater System Groundbreaking will be Thursday,
+- 9:45 AM Major Daryl Ascher, Riley County Police Department
+- 14. Approve Resolution Submitting to Voters Ballot Question on a .20% Countywide
+- Retailers' Sales Tax Funding Road and Bridge Improvements
+- Hawthorne presented the .20% Countywide Retailers' Sales Tax Funding Road and
+- Bridge Improvements Resolution to consider submitting the question to the voters in
+- The Board discussed the proposal
+- The Board agreed by consensus to wait and consider it for November of 2027
+- 10:15 AM Amanda Webb, Planning/Special Projects Director
+- 15. Data Centers work session
+- Webb presented the Data Center work session
+- Focke asked to have someone speak on the noise generated in the facilities
+- 10:45 AM Brittany Phillips, Budget and Finance Officer
+- 16. 2027 Budget Work Session
+- Phillips presented the 2027 Budget Development Work Session
+- Phillips presented the opioid funding discussion
+- Move to approve the opioid funding for Community Corrections at 75% and the
+- Health Department at 50% of the requests for 2027
+
+## [riley-county#3] 2026-08-06 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Amanda Webb Planning/Special Projects Director Present 9:40 AM
+- Public Comment
+- Tremblay asked the Board to consider attending the City/County Meeting on September 17,
+- Projects Director to discuss how things are happening in her department including the Data
+- Center conversation, Home in The Heartland Grant, the Comprehensive and Strategic Plans
+- and several other items in regard to planning and zoning
+- Public Health and How it Strengthens Your Community”. It was a discussion to help clarify
+- Wednesday afternoon I met with Kam Hutton SFC with the USARMY 1ID to discuss some
+- discussion and dialog and it really gave me some things to consider moving forward on several
+- September schedule for services and went over our budget for 2027. After the meeting, I came
+- discussed the various deployments and re-deployments at the Fort. It’s been a real busy time
+- 1. Tax Roll Correction
+- Move to approve the Tax Roll Correction
+- Move to approve the Riley County Employee Action Forms
+- Malik Johnson, a new hire, as a Volunteer Firefighter, in the Fire District #1
+- 3. Approve payroll/accounts payables (when completed)
+- Move to approve the payroll vouchers in the amount of $774,525.23 and the
+- Capital Improvements Fund 177,354.72
+- Economic Development 7,500.00
+- Road & Bridge Cap Project 4,612.80
+- RCPD Levy/Op 2,157.26
+- Riley Co Fire Dist #1 16,624.38
+- 2023 R&B Project Sales Tx 3,507.62
+- University Park W&S 4,427.02
+- Hunters Island Water Dist 3,290.46
+- Carson Sewer Benefit Dist 19.39
+- Deep Creek Sewer 284.19
+- Terra Heights Sewer 302.29
+- Konza Water Operations 8,798.53
+- Lakeside Heights Sewer 9.69
+- Move to approve the minutes of August 3, 2026 as presented
+- Lentz presented the agenda and budget for the 2026 Riley County Employee Day
+- Move to approve the agenda and budget for the 2026 Riley County Employee Day
+- 10:00 AM Amanda Webb, Planning/Special Projects Director
+- 10. Planning & Development Staff Update
+- Webb presented the Planning & Development staff update
+- 10:35 AM Amanda Webb, Planning/Special Projects Director
+- 13. 2027 Community Support Funds Advisory Board Funding Application — Juvenile
+- Application-Juvenile Services
+- Move to approve the 2027 Juvenile Services CSFAB Special Alcohol Grant for
+- submission to the City of Manhattan for funding consideration
+- 14. 2027 Community Support Funds Advisory Board Funding Application - Adult
+- Application-Adult Services
+- Move to approve the 2026 Adult Services CSFAB Special Alcohol Grant for
+- 11:00 AM Amanda Webb, Planning/Special Projects Director
+- 15. MakeMyMove contract
+- Webb presented the MakeMyMove contract
+
+## [riley-county#4] 2026-08-10 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Public Comment
+- Thursday afternoon post meeting I met with Brittany Phillips, Budget and Finance Officer to
+- discuss both the 2027 and 2028 budgets and many other items pertaining to budget and finance
+- Taphouse to discuss the Riley County Road and Bridge Advisory Board and a lot of other
+- related items about it and upcoming projects we are all working on. Been a while since we had
+- reviewed all the discussed June action items, continued dialog on community snapshots and
+- what we are currently seeing, a rather in-depth dialog on system barriers and strategic
+- feeling overly well to go with it
+- Friday I had a physical therapy appointment and then spent some time in the office organizing
+- 1. Riley County Purchasing Card Request
+- Move to approve Riley County Purchasing Card Request Form
+- Move to approve the minutes of August 6, 2026 as presented
+- 4. Year to Date Budget and Expenditures
+- Vargo presented the year to date budget and expenditure reports
+- Hansen discussed the Riley County Legislative Luncheon
+- impact property taxes
+- Eyestone discussed the following Back to Gardening programs:
+- Hawthorne presented the resolution ordering the abatement of public nuisance located
+- Move to approve "Resolution No. 081026-39 , A Resolution ordering the abatement
+- of a public nuisance located at 2820 Nelson's Landing, unincorporated Riley County,
+- 8. Grant Application with Memorial Hospital Association
+- Adams presented the request to apply for grant funds from the Memorial Hospital
+- Feldkamp discussed the areas reduced
+- Move to approve the request to apply for grant funds, totaling $27,500 from the
+- 9. Executive Session to discuss confidential legal advice regarding personnel matters
+- employee(s), to discuss the work conduct of specific employee(s), and the open
+- The Riley County Planning Board/Board of Zoning Appeals meeting will be held
+- 115 N. 4th Street
+
+## [riley-county#5] 2026-08-13 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Amanda Webb Planning/Special Projects Director Present 8:30 AM
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Public Comment
+- Webb announced the Keats Wastewater System Groundbreaking is tonight at 6:00 p.m. at
+- Monday pre-meeting I met with Riley County Counselor Jacob Hansen to discuss some things
+- related to his department dealing with projects they are working on as well as some other legal
+- insight. Also, on Monday I met with Cory Meyer, Riley County IT/GIS Director to discuss
+- discussion on some other county department changes and what that could look like, and maybe
+- All necessary and needed items to discuss for sure
+- Radina’s here downtown to discuss some things related to his organization. Some specific
+- possibilities on grants that may come up with USDA, SBA, and HUD potentially, and how we
+- could either collaborate or what the counties best approach would be. Got some thoughts on
+- Center to discuss services and the program they are working on and expanding services as well
+- that we may be able to collaborate and work together on along with assistance at the Riley
+- possible ideas for both entities moving forward. We also discussed changing trends and
+- Tuesday was the monthly meeting of the Flint Hills Veterans. Sending out parade notifications
+- to past participants. Long discussion on traffic control. The barricades that Manhattan City lets
+- Tuesday morning, I met with Amanda Webb and Vanessa Gray at Keats Park to determine a
+- decided on a spot directly west of the parking lot. We also made a list of items to be done for
+- Wednesday I did some work in my home office, did some watering in the yard and reviewed
+- 1. Tax Roll Corrections
+- Move to approve the Tax Roll Corrections
+- Move to approve the Riley County Employee Action Forms
+- 3. Discuss Intergovernmental Luncheon at Rockin K's at 12:00 (noon) Monday, August
+- Move to approve the minutes of August 10, 2026 as presented
+- Hansen said they have been working on projects and he has contacted legislators and
+- 7. EZ EMR Contract Extension for Health Department - Michael Hawthorne
+- Hawthorne presented the EZ EMR Contract Extension for the Health Department
+- Move to approve the Amendment to the Agreement with Custom Data Processing,
+- Inc. to extend the agreement for software for electronic health records management
+- Heger discussed Riley County hosting the Northeast Kansas County Officials
+- The Board discussed the proposal
+- 10. Economic Development Update
+- Soldan presented an economic development update
+- Bishop discussed Fort Riley activities
+
+## [riley-county#6] 2026-08-17 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Public Comment
+- Thursday evening, I attended the long-awaited groundbreaking for the Keats Sanitary Sewer
+- Project. Had a great turnout considering how incredibly hot it was. After well over a decade’s
+- worth of discussion and planning this project finally is getting built. Huge thanks to all the
+- where the status of things are and how to keep moving forward with the plan in place
+- Saturday morning, I attended the Riley County Republican Coffee talk over at Hy-Vee. Had
+- Saturday I had some friends come into town and we had lunch at Texas Roadhouse, judging by
+- Thursday evening was the groundbreaking for the Keats Sanitary Sewer Project. A nice crowd
+- to see this long lasting project
+- Sanitary Sewer Project. It was well attended, but pretty hot, so we had an informal gathering in
+- the shelter’s meeting room, where project managers were present to answer questions from
+- great start to the year-long project
+- proposed grant for the building remodel. I have received a number of calls about the grant and
+- 1. EM/Fire Remodel Substantial Completion
+- Move to approve the Chair sign the Certificate of Substantial Completion of the Riley
+- County Emergency Management Remodel Project
+- 2. CIP Project Activations
+- Move to approve the CIP Project Activation Form for the AV equipment replacement
+- Move to approve the Riley County Employee Action Forms
+- Move to approve the minutes of August 13, 2026 as presented
+- 6. Project Update
+- Ellermann presented a Public Works project update
+- Ellermann said Riley County will begin chip seal projects on Tuesday, August 25,
+- 2026 and should be completed by Friday, August 28, 2026. Welsch Road, McDowell
+- Creek Road, and West 32nd Avenue will be chip sealed. Traffic will be allowed
+- through these projects, but drivers should expect delays of up to 15 minutes. Take
+- Ellermann said a culvert replacement project on W. 62nd Avenue is scheduled to
+- begin Monday, August 24, 2026. The project is located 4/10 mile south of Anderson
+- Avenue and Wildcat Park will be closed to the public during construction of the
+- project. The project is expected to be completed Wednesday, September 16, 2026
+- weather permitting
+
+## [riley-county#7] 2026-08-20 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Amanda Webb Planning/Special Projects Director Present 11:00 AM
+- Public Comment
+- Monday afternoon I met with Jeff Wick, President/CEO of WTC to discuss a few items
+- relevant to county board appointments, economic development interests here in the Flint Hills
+- Tuesday morning, I took part in a policy workshop titled “Governance and Taxation” over at
+- Trent Armbrust from the Foundation, approval on the Nominating Committee appointments,
+- discussion on federal priorities for 2026-2027 for the trip in September to Washington, D.C.,
+- discussion on support for the Manhattan City Sales Tax for roads, and lastly consideration of
+- discuss some pertinent real time issues. Flock cameras, area road construction, and
+- Monday was the Law Board meeting. Mostly just standard stuff discussed. RCPD is working
+- and rain storm. That afternoon, I started reviewing the documents for the Riley County
+- friend’s pool doing some water aerobics. Later I continued to review the Riley County
+- 1. Approve payroll/accounts payables (when completed)
+- Move to approve the payroll vouchers in the amount of $784,235.02 and the
+- LEPP Grant 14,946.06
+- Capital Improvements Fund 133,403.40
+- Economic Development 6,320.36
+- RCPD Levy/Op 52,133.24
+- Riley Co Fire Dist #1 38,199.68
+- 2023 R&B Project Sales Tx 17,671.00
+- University Park W&S 8,566.53
+- Hunters Island Water Dist 196.21
+- Carson Sewer Benefit Dist 790.38
+- Deep Creek Sewer 276.53
+- Terra Heights Sewer 2,670.21
+- Konza Water Operations 997.68
+- University Park Lagoon 141,885.66
+- Caroline Peine Grant 150.00
+- GMCF Grant 59.95
+- Move to approve the minutes of August 17, 2026 as presented
+- Meetings Act, regarding confidential legal advice on employment contracts, the open
+- The Board discussed the benefits package
+- Ward said she would bring more specific benefits package for the Board to consider
+- 9:50 AM Brittany Phillips, Budget and Finance Officer
+- 8. Request to Publish Notice of Hearing
+- Phillips presented the request to publish the notice of hearing
+- Move to approve publishing the 2027 Notice of Budget Hearing in the Manhattan
+- commission, with Rich Vargo, County Clerk; Brittany Phillips, Budget and Finance
+- Kansas Open Meetings Act, regarding confidential legal advice on contract
+- Ward discussed the County Administrator First-Year Goals and Evaluation
+- The Board discussed the goals and evaluation framework
+- discuss further
+- 13. 2005 Personal Property Tax Judgments
+- Hawthorne presented the 2005 Personal Property Tax Abatement
+- Move to approve "Resolution No. 082026-40, A Resolution determining that certain
+
+## [riley-county#8] 2026-08-24 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Russel Stukey Emergency Management/Fire Director Present 9:11 AM
+- Brittany Phillips Budget and Finance Officer Present 9:24 AM
+- David Russell Division Fire Chief Present 9:24 AM
+- Jacob Konardy Deputy Fire Chief Present 9:24 AM
+- Mackenzie McGinnis Fire Administrative Assistant II Present 9:24 AM
+- Amanda Webb Planning/Special Projects Director Present 9:49 AM
+- Public Comment
+- Community Corrections to discuss things and challenges pertinent to her department in more
+- We took some time to discuss the grant process, personnel, and space needs for the
+- Republican District “Road the Victory” tour that took place at the Manhattan Country Club. It
+- Gordon. We discussed some of the construction projects they will be working on locally
+- moving forward and some potential candidates for the County Road and Bridge Advisory
+- I later met with Corey Meyer to discuss the county in general
+- On Friday, I had a long appointment with my dentist in the morning. After lunch, I had an
+- appointment with my Neurosurgeon’s P.A. to go over some back issues
+- 1. Plaza Reservation Request for The Makers Guild, Inc. for October 12, 2026
+- Move to approve the Plaza Reservation Request for The Makers Guild, Inc. for
+- Move to approve the minutes of August 20, 2026 as presented
+- 6. Presentation of retirement plaque to Russel Stukey - Kathryn Focke (3-5 minutes)
+- Focke presented a retirement plaque to Russel Stukey, EM/Fire District #1 Director
+- multifamily/commercial/industrial properties and respectfully requests your
+- appraisal practice. The information will be used to calibrate our valuation models,
+- multifamily, etc.). We value your time. If it’s easier to print out an income and
+- expense report, Rent roll, or IRS tax statement please provide that information to
+- Ellermann presented the Federal Fund Exchange Agreement
+- Move to approve the Chair to sign the Request to Exchange Federal Funds with the
+- related project
+- 9. Amend the Riley County Land Development Regulations
+- Focke opened the public hearing
+- Isaac presented the Riley County Land Development Regulations resolution
+- No public comment
+- Focke closed the public hearing
+- Move to approve "Resolution No. 082426-41, Resolution amending the Riley County
+- Land Development Regulations in Riley County, Kansas" (Section 5.2.A; Section
+- Hansen said the Indigent Defense contracts are due to be renewed this year
+
+## [riley-county#9] 2026-08-27 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Public Comment
+- Project Manager and he discussed their roles in providing flood control for the area and what
+- Growth Committee Stronger Together Presentation. Both answered some questions on their
+- and we also discussed some legislative topics of interest and future agendas as well. Also, on
+- Monday I did have an appointment with the cardiologist, and all went well; we seem to be in
+- boards to function and operate as well as some useful resources and guides to be of assistance
+- Behavioral Health Building Coordinated Call Handling Systems. This call discussed and
+- prepared for this morning’s discussion on a new county administrator
+- about growth in the area and how great it is to give property tax breaks to businesses
+- This week has been pretty quiet as far as meetings, but a lot of phone calls and discussions, a
+- PT session, hiring a new lawn/landscape person, and some water aerobics. On Wednesday
+- the construction that is starting on the lagoon. I have been taking my dog to Keats Park most
+- evenings this week and have kept up on the project. A lot of trees and other foliage have been
+- cleared, and the access road is being done – they are using part of the walking trail from the
+- south park entrance to the lagoon site
+- 1. Riley County Purchasing Card Request
+- Move to approve the Purchasing Card Request Form
+- Move to approve the Riley County Employee Action Forms
+- Liam Shill, Parks Seasonal, in the Parks Department, for Separation from
+- Alan Reynolds, Volunteer Firefighter, in the Fire Department, for Separation
+- Alex Pena, a new hire, as a Volunteer Firefighter, in the Fire Department, at a
+- Move to approve the minutes of August 24, 2026 as presented
+- The Board discussed the package
+- The Board agreed by consensus to purchase a county vehicle with a county logo for
+- Ward presented the discussion on the County Administrator First-Year Goals
+- The Board discussed the goals
+- 1. County Budget: Work with Department Heads to develop and present a
+- structurally balanced 2028 Riley County budget that aligns revenues with
+- strategically aligned with statutory responsibilities, service priorities,
+- 4. Operational Efficiency & Modernization — Identify processes that can be
+- prioritization of multi-year plan for facilities, equipment, technology,
+- roads/infrastructure, and other major assets so future costs are anticipated
+- 7. Out of State Travel Request
+- Boller presented the out of state travel request
+- Move to approve Out of State Travel Request
+- 9:45 AM Executive Session to discuss department head evaluation
+
+## [riley-county#10] 2026-08-31 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Amanda Webb Planning/Special Projects Director Present 8:57 AM
+- Public Comment
+- Emergency Operations Center just off of Charles Little Road where the old EMS Station used
+- appointment and we are supplementing some changes that will line up better with the changes
+- Division Chief Josh Gering to discuss a handful of items including the Health Department and
+- some possible changes on the horizon. We also discussed the overall transition for the
+- and programming they continue to do there at the museum and abroad throughout the county
+- Friday morning, I did some water aerobics. That afternoon, I met with a constituent who I
+- Saturday I attended the Riley County Democrat’s event at the Wefald Pavilion in City Park
+- Most of the candidates for state offices were there to meet and listen to their presentations. It
+- Move to approve the minutes of August 27, 2026 as presented
+- 9:00 AM Amanda Webb, Planning/Special Projects Director
+- 3. Data Centers / Battery Energy Storage Systems Work Session
+- Webb presented a work session on data centers/battery energy storage systems
+- The Board discussed data centers/battery energy storage systems
+- Perez said a culvert replacement project on Kitten Creek Road is scheduled to begin
+- Wednesday, September 2, 2026 for Wildcat Township. The project is located on
+- Kitten Creek Road 1/10 mile north of 52nd Avenue. Kitten Creek Road will be closed
+- Road. This project is expected to be completed by end of day Wednesday,
+- September 2, 2026 weather permitting
+- Hansen discussed a potential referendum on a data center where there would need to
+- 9:55 AM Brittany Phillips, Budget and Finance Officer
+- 7. Bond Placement and Resolution
+- Phillips presented the resolution authorizing placement of the County's General
+- Obligation Bond and the bond purchase agreement
+- Move to approve Resolution No. 083126-42, authorizing placement of the County's
+- General Obligation Bond and the bond purchase agreement as presented
+
+## [riley-county#11] 2026-09-03 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:50 AM
+- Amanda Webb Planning/Special Projects Director Present 9:32 AM
+- Public Comment
+- Olds reminded the Board of the RNR and budget hearings on September 10, 2026. He
+- discussed the mill of 38.012. He discussed those in the middle class who struggle to pay their
+- Hansen asked the Board to strike the marketing discussion of the county administrator or
+- The Board agreed by consensus to reschedule the marketing discussion of the county
+- Monday afternoon, after the BOCC meeting, I got lunch and then went to do some water
+- have been taking my dog to Keats Park for walks and to follow progress on the lagoon. Work
+- It’s been interesting to watch progress. The park always has something going on, with
+- attend the Westloop Business Association meeting afterwards, but wasn’t feeling well, so went
+- 1. Discuss County Officials Luncheon topics and meal options for Monday, September
+- 2. Approve payroll/accounts payables (when completed)
+- Move to approve the payroll vouchers in the amount of $758,638.80 and the
+- Capital Improvements Fund 56,878.45
+- Economic Development 5,000.00
+- Road & Bridge Cap Project 29,338.05
+- RCPD Levy/Op 48,593.17
+- Riley Co Fire Dist #1 9,548.01
+- University Park W&S 5,335.11
+- Hunters Island Water Dist 4,923.72
+- Carson Sewer Benefit Dist 1,923.64
+- Deep Creek Sewer 447.88
+- Terra Heights Sewer 1,509.97
+- Konza Water Operations 7,125.02
+- Lakeside Heights Sewer 9.69
+- Move to approve the minutes of August 31, 2026 as presented
+- Hansen discussed the letter from the Kansas Water Office. He stated the State is
+- required to notify Riley County on those matters. He said staff does not have any
+- Hansen discussed the Flint Hills Event Complex MOU/MOA
+- 9:45 AM Amanda Webb, Planning/Special Projects Director
+- 8. Planning & Development Fee Schedule Work Session
+- Webb presented the proposed fee schedule for the planning department
+- The Board discussed the proposed revisions to the fee schedule
+- Webb stated she will bring back additional information to be considered
+- 9. Planning & Development Staff Update
+- Webb presented the Planning & Development staff update
+- 10. Health Department Professional Development Day
+- Adams presented the request for the Health Department Professional Development
+- Phillips stated they are going to provide food for the Professional Development Day
+- which has not been approved by the Board yet
+- Phillips said the renovation project of the Health Department has not been approved
+- by the Board or funding identified
+- Move to approve closure of the Riley County Health Department to the public on
+
+## [riley-county#12] 2026-09-10 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Russel Stukey Emergency Management Director/Fire Chief Present 9:00 AM
+- Public Comment
+- Hansen presented the Riley County rules for public comment
+- Starling said they oppose the RCPD grant and accepting of the funds. Starling discussed the
+- specifics of the grant
+- community and opposes accepting this grant
+- Watt discussed the 287 agreement and CORE Civic. Watt said he opposes the grant
+- Terwelp, organizer of DeFlock Riley County, said they oppose the grant. He presented five
+- A citizen said he is against the grant and surveillance cameras
+- Nel discussed three things: trust, cost, and control regarding the grant. Nel said he opposes the
+- Call, Unitarian Universalist Fellowship opposes the grant. Call said ICE has earned their
+- McGhee a priest in town urged if the grant is awarded to not accept it
+- reviewing the second-round applications and that the good news is there were only 1.48
+- million in request with the 1.5 million allocated so were basically a shoe in at this point and we
+- Saturday I attended a Town Hall discussion at the VFW in Randolph. Had a handful of citizens
+- there from the north county to discuss some of the issue and challenges facing us here in Riley
+- County including the budget, the county administrator position, personnel concerns, property
+- taxes and taxes in general, fairgrounds, and emergency services to name a few. Have to say it
+- was a spirted conversation but well worth the hour and half to listen to everyone, discuss and
+- Tuesday afternoon I listened to another National Association of Counties webinar discussing
+- the 21st Century ROAD to Housing Act that is a major bipartisan federal enacted in July to
+- help address the nation’s housing shortages and try and address the affordability issue. This
+- webinar also discussed two specific counties, Orange County, Florida and Fairfax County,
+- Tuesday, September 8th I had several doctor appointments and later went to the monthly
+- and later went to hand bell practice at my church. I also did some water exercise and
+- 1. 2025 Audit Representation Letter
+- Move to approve the 2025 Management Representation Letter with James Gordon &
+- 2. Planning & Development Fee Schedule Resolution
+- Move to approve "Resolution No. 091026-43, A Resolution establishing Planning and
+- Development fees for Riley County, Kansas" adding fees for private well water
+- 3. Certification of Unpaid Fees
+- Move to approve the Certification of Unpaid Fees and/or Charges for Utility Services
+- located in Terra Heights Sewer Benefit District, a special assessment shall be placed
+
+## [riley-county#13] 2026-09-14 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Public Comment
+- Lewis asked the commission to turn down the RCPD grant. Lewis said she is concerned with
+- Crabtree discussed the mandatory motor vehicle fee
+- Nel discussed how to know and not know regarding the RCPD grant
+- earlier was the closing down of Moro Street on Saturday night at 11:00 p.m. My understanding
+- was the street would only be closed if problems happened. RCPD thought it was to be at all
+- discussed at our meeting this afternoon
+- Aggieville Business Association. We had a long discussion about Aggieville
+- seemed to be under control and the streets were not blocked
+- 1. Riley County Purchasing Card Request
+- Move to approve the Purchasing Card Request Form
+- 2. Riley County District Court Annual Budget
+- Move to approve the Riley County District Court 2027 Annual Budget to be
+- Move to approve the minutes of September 10, 2026 as presented
+- 9:00 AM Brittany Phillips, Budget and Finance Officer
+- 5. YTD Budget Expenditure Reports
+- Phillips presented the year to date budget and expenditure reports
+- 7. 2027 Motor Vehicle Transaction Fees
+- Heger discussed the history of the motor vehicle fees over the years
+- Move to approve "Resolution No. 091426-46, Resolution increasing motor vehicle
+- transaction fee pursuant to K.S.A. 8-145d."
+- Crubel said a culvert replacement project for Bala Township on Crooked Creek Road
+- is scheduled to begin on Tuesday, September 15, 2026. The project is located 1/10
+- mile south of Sherman Road. Crooked Creek Road will be closed to through traffic
+- from the intersection of Sherman Road south to Fairview Church Road. Crooked
+- Creek Road will be closed to the public during construction of the project
+- The Board agreed to limit the amount of time for public comment per meeting when
+- Hawthorne discussed a public nuisance abatement resolution
+- Move to approve “Resolution No. 091426-47, A Resolution ordering the abatement
+- 12. Monthly Project Update
+- Ellermann presented a Public Works projects update
+- p.m. in the County Commission Chambers, 115 N. 4th Street
+- The Riley County Planning Board/Board of Zoning Appeals meeting will be held
+- 115 N. 4th Street
+
+## [riley-county#14] 2026-09-17 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Amanda Webb Planning/Special Projects Director Present 8:33 AM
+- Public Comment
+- Starling discussed how RCPD's request could be funded through a half-cent sales tax to
+- maintain the independence of our law enforcement. She discussed disappointment with the
+- Worthington discussed how the Board has heard from community members who do not
+- support the grant application
+- Board will approve gift cards to given as door prizes
+- update from their representative followed by several action items which included approval of
+- session for a director's evaluation, and then several discussion items which included future
+- Also, on Wednesday afternoon there was an Edge 3.0 Project Open House at the ground floor
+- event space at 1960 Kimball Avenue. It was an opportunity to learn about the overall project
+- and meet and listen to the current developer. A short presentation took place and was followed
+- evening I had a call with someone about the road maintenance in Grant Township
+- good discussion about how the search will proceed
+- Wednesday was the monthly meeting at the Juvenile Detention Facility. Had a good discussion
+- County is way over our budgeted days and will be receiving a large bill at the end of the year
+- like device to the facility. Staff knew what it was and Junction City Police were called and the
+- Monday, after our meeting, I had several medical-related appointments to determine the next
+- Move to approve the Letter of Support for the City of Manhattan Innovative
+- Technology Program application for the US-24/Tuttle Creek Boulevard Corridor
+- Move to approve the requested Riley County Employee Action Forms
+- Tiffine Sizemore, an On Call Juvenile Intake Officer, in the Community
+- Samuel Foster, a Volunteer Firefighter, in the Fire District #1 Department, for
+- Stetson Countryman, a new hire, as a Volunteer Firefighter, in the Fire
+- 3. Discuss Intergovernmental Luncheon at 12:00 (noon) at Rockin K's
+- 4. Approve payroll/accounts payables (when completed)
+- Move to approve the payroll vouchers in the amount of $770,955.39 and the
+- Capital Improvements Fund 145,510.34
+- RCPD Levy/Op 20,734.56
+- Riley Co Fire Dist #1 13,304.87
+- 2023 R&B Project Sales Tx 7,730.00
+- University Park W&S 5,748.42
+- Carson Sewer Benefit Dist 243.27
+- Deep Creek Sewer 134.28
+- Terra Heights Sewer 2,097.05
+- Konza Water Operations 225.21
+- University Park Lagoon 230,658.07
+- GMCF Grant 50.60
+- Move to approve the minutes of September 14, 2026 as presented
+- 9:00 AM Brittany Phillips, Budget & Finance Officer
+- 7. SFY2027 CCL ATL Agreement
+
+## [riley-county#15] 2026-09-21 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Public Comment
+- Sexton asked the Board to refuse the $31.1 M grant since crime is down and the grant ties to
+- ICE. She asked to consider a local sales tax if new facilities are needed
+- First day of fall finally and it actually sort of feels like fall as well. Glad to get some rain over
+- the weekend too it will really feel seasonal once the humidity and dewpoint comes down
+- Thursday afternoon I had my monthly appointment with my nutritionist, and all is well, our
+- new schedule is going to plan, and we are going to stick with it and see where it goes. We may
+- Hall to get an update on the Highway 24 Corridor Plan that both the City of Manhattan,
+- officials from both counties and the city on hand for this presentation as well
+- Friday morning, I spent of the morning at the Riley County Police Department. Took a full
+- After feeling bad on Saturday, I had a “quiet day” on Sunday. In the afternoon, I did some
+- 1. 2026 Emergency Management Performance Grant (EMPG) application
+- Move to approve the 2026 EMPG Application
+- 2. Advisory Board appointment letters and resolution
+- Move to approve and sign appointment letters and "Resolution No. 092126-48, A
+- Resolution appointing Riley County representatives to advisory boards."
+- Move to approve the minutes of September 17, 2026 as presented
+- Adams and Rose discussed not proceeding with the Riley County Health Department
+- The Board discussed the request
+- Move to approve not to continue the reaccreditation process
+- Hansen stated Riley County has received an application to allow the sale of alcohol at
+- an event in CiCo Park Fairgrounds
+- Hansen stated there was a sentencing hearing last week on a criminal Nuisance
+- October 27th is the last day to request an advance mail ballot, and November 2nd
+- 9. Presentation of KPA Medallion
+- Hensler presented the request to accept the KPA medallion award and collaborate
+- The Board discussed the placement of the medallion
+
+## [riley-county#16] 2026-09-24 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Amanda Webb Planning/Special Projects Director Present 8:30 AM
+- Public Comment
+- Johnson, Topeka, discussed her concern with the application for the 287 G Agreement for
+- Hansen requested to add an executive session for pending litigation to today's agenda at 9:35
+- Monday post BOCC I met with Riley County Extension Director Daniel Skucius to discuss
+- several items including the recent Riley County Fair in July, current discussions on CiCo Park
+- approved the minutes from the July 28th meeting had a couple of new introductions, and then
+- we heard from Will Baldwin and a new IT roadmap for the organization, followed by a Chief
+- from Mike Rezkalla and then a marketing and development report and the meeting ended with
+- several executive sessions on personnel matters of non-elected personnel. We plan on meeting
+- going on it was important we all tried to meet together as a group. Heard a presentation from a
+- grant and funding group McAlister & Quinn out of Washington, DC and got caught up on all
+- Monday was the Law Board meeting. There was a group there to ask that we not approve the
+- BIDEN Grant. Director Peete was not there because he had car trouble and was stuck at home
+- in Topeka. Discussions included some new IT equipment, Aggieville street closing, and
+- Community National Night Out on September 29th. There was also a discussion clarifying
+- Tuesday evening I attended the City of Manhattan work session. There was a long discussion
+- on the latest presentation on the latest Edge District project. They are wanting a 20 year tax
+- abatement. I am not for it and pointed out that they will not pay property tax but still will
+- receive city and county services. There will be a public hearing in October or November
+- who wanted to speak about the BIDEN grant proposal. The board agreed to allocate 30
+- minutes for hearing the issues, with each person to have 3 minutes. After that we had the
+- Move to approve the Notice to Township Board for Britt's Farm for a license to sell
+- Move to approve Change Order No. 1 with BG Consultants and Bayer Construction
+- Company for Keats Sanitary Sewer Benefit District Improvements in the amount of
+- Move to approve the requested Riley County Employee Action Forms
+- Mason Camera, a new hire, as a Volunteer Firefighter, in the Fire District #1
+- Luke Sorrels, a new hire, as a Volunteer Firefighter, in the Fire District #1
+- Move to approve the minutes of September 21, 2026 as presented
+- Hansen discussed the KAC Legislative Policy meeting
+- 1. Sales Tax Authority Administrative Fix: Board agreed by consensus
+
+## [riley-county#17] 2026-09-28 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Liz Holle Big Lakes Developmental Center Director Present 8:58 AM
+- Amanda Webb Planning/Special Projects Director Present 9:20 AM
+- Doug Parker Present 9:40 AM
+- Doug Russell Division Fire Chief Present 10:34 AM
+- Public Comment
+- Easterday presented the Employee of the Month Award to Andrea Rose, Public Works
+- Thursday afternoon I met with a resident who has concerns over the BIDEN Grant. We
+- discussed that and several other things she is concerned about
+- Friday was the Northeast Kansas County Officials meeting. We had some good discussions
+- Friday I attended the Northeast Kansas County Officials meeting. After several presentations
+- attendance toured both the new EMS building and the recently remodeled EOC and the Fire
+- Sunday I was in the Keats Fall Festival parade, which ended at the park’s shelter for music by
+- commenting on the lagoon under construction west of the park. Everyone is excited to see it
+- Move to approve the requested Riley County Employee Action Forms
+- Molly Mathis, an Administrative Assistant I, in the Planning & Development
+- Tucker Callhan, a new hire, as a Volunteer Firefighter, in the Fire District #1
+- Eric Callhan, a new hire, as a Volunteer Firefighter, in the Fire District #1
+- Move to approve the minutes of September 24, 2026 as presented
+- 6. 2026 Edward Byrne Memorial Justice Assistance Grant
+- French presented the 2026 Edward Byrne Memorial Justice Assistance Grant
+- Move to approve the Application of the 2026 Edward Byrne Memorial Justice
+- Assistance Grant and Certifications and Assurances by the Chief Executive of the
+- 9:15 AM Liz Holle, Big Lakes Developmental Center Director
+- 7. Big Lakes Developmental Center update
+- Holle presented the Big Lakes Developmental Center update
+- Crubel said a culvert replacement project on Swede Creek Road is scheduled to begin
+- Monday, October 5, 2026. Project is located approximately 1 mile east of Halls
+- Ravine Road. Swede Creek Road will be closed to through traffic from Halls Ravine
+- Road to Rose Hill Road during the project. The project is expected to be completed
+- Wednesday, October 7, 2026, weather permitting
+- 9. Presentation of the Recovery Month Proclamation - Kathryn Focke and Michael
+- Rezkalla discussed the importance of Recovery Month
+- 10. Presentation of the National Community Planning Month Proclamation - Kathryn
+- October 27th is the last day to request an advance mail ballot, and November 2nd
+- Hawthorne discussed the public sale of the vacant Riley County-owned Tatarrax Lot
+- Buell clarified there was a water/sewer treatment plant on the lot which was owned
+
+## [riley-county#18] 2026-10-01 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Pretz discussed the value of a county administrator
+- 9:00 AM Public Comment
+- Adams said last evening Blue River Hills Road was closed last night due to flooding. He stated
+- Olds discussed observations of Riley County's trifold on the budget and finances. He said
+- Olds discussed the proposed salary of the county administrator position at $160,000
+- opportunities upcoming, also had a short open discussion as we typically do to end the
+- Thursday afternoon I had my monthly appointment with my bariatrics doctor. Nothing new to
+- update on the Wareham Hall project from Blade Mages we followed up with breakout session
+- Tuesday and Wednesday I spent at work once again. Certainly, feeling a lot like fall these days
+- Tuesday evening, I attended the Annual National Night Out over at CiCo Park. Kudos to
+- RCPD, Riley County Rural Fire, Riley County EMS, and others for quickly being able to
+- transition to a Plan B which put everything indoors due to the rain and weather. Still turned out
+- working on here at the county currently and some plans being discussed as well. Had a lot of
+- grant as we have not heard anything on it as of yet. I’m told we should be hearing back from
+- the State Treasurer’s office here in the next week or so. The total for all applications came in
+- below the 1.5 million dollars available so we should be a lock for our requested amount when
+- Monday was the Intergovernmental Luncheon. We heard a presentation on Manhattan's
+- proposed half cent sales tax for streets
+- Phillips, Budget and Finance Officer, about the audit
+- Wednesday, I had another call about the township roads in Grant Township. I then called John
+- Move to approve the Temporary Construction Easement with University Park
+- Improvement District for the University Park Lagoon Facility
+- 3. Conservation District Budget Certification
+- Move to approve the County Budget Certification to the Riley County Conservation
+- 4. Big Lakes Agreement 2027
+- Move to approve the Agreement for Services with Big Lakes Developmental Center,
+- Move to approve a Letter of Support for Big Lakes Developmental Center, Inc. for a
+- KDOT Application for a grant for transportation assistance for July 1, 2027 - June 30,
+- 7. Approve payroll/accounts payables (when completed)
+- Move to approve the payroll vouchers in the amount of $758,494.45 and the
+- Capital Improvements Fund $ 15,884.58
+- Road & Bridge Cap Project 16,109.40
+- RCPD Levy/Op 33,945.20
+- Riley Co Fire Dist #1 40,198.42
+- University Park W&S 5,610.49
+- Hunters Island Water Dist 3,253.90
+
+## [riley-county#19] 2026-10-05 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Amanda Webb Planning/Special Projects Director Present 9:30 AM
+- Public Comment
+- Schotte asked the Riley County Commission to allow the Tatarrax Association time to plan on
+- It’s been a mess the last part of the week and weekend. The entire back half of my apartment
+- Technology and National Security at CFR. She discussed the current cybersecurity landscape,
+- including recent attack on water utilities and ways cyber threats link national security to the
+- Services, and he spoke to state and local realities of cybersecurity strategies, drawing on
+- Minnesota’s whole of the state approach and their recent attacks on community water systems
+- appoint a new individual for the position of Riley County Clerk. I am happy to say our very
+- own Budget and Finance Officer was elected by a wide majority to fill the role being replaced
+- Library. Pleasantly surprised of the turnout considering how nice it was on Saturday. They
+- Sunday I spent watching a little football as my Jaguars won once again on the road against
+- Saturday, we attended the Alzheimer's Walk in Manhattan City Park. There was a ceremony
+- discuss Lot 70. They had some plans for the property with them. After the meeting, I spent
+- Sunday I went to church and then went to a friend’s house for a discussion with some others
+- about the “Central Kansas Justice Ministry”. They are doing community gatherings to discuss
+- the dog for a walk at Keats Park
+- Move to approve the National 4-H Week Proclamation for October 4-10th
+- 2. Plaza Reservation Request for The Makers Guild, Inc. for October 10, 2026
+- Move to approve the Plaza Reservation Request for The Makers Guild, Inc. for
+- 3. Plaza Reservation Request for The Makers Guild, Inc. for October 11, 2026
+- 4. Change Order 2-University Park Wastewater Lagoon
+- Move to approve Change Order No. 2 with Bayer Construction for the University
+- Park Wastewater Lagoon Facility for a materials change for installation of a 6" pipe
+- 5. Discuss County Officials Luncheon topics and meal options for Thursday, October
+- Move to approve the minutes of October 1, 2026 as presented
+- Hansen discussed the Riley County Legislative meeting. He said the focus will be on
+- taxes. He asked if there are other items the Board would like to discuss
+- Hansen suggested the following topics to be considered:
+- 1. Sales Tax Authority - yes
+- 4. RHID tax incentive program, opt-in rather than opt-out - yes
+- Hajek discussed the Riley County Police Department activity
+- Snyder discussed Downtown Manhattan activities
+
+## [riley-county#20] 2026-10-08 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Public Comment
+- Hawthorne asked the Board to remove the last item from the agenda on the Budget and
+- Move to remove the last item from the agenda on the Budget and Finance Officer and replace
+- Monday and Tuesday were spent working on cleaning up and drying out my apartment after
+- Manhattan and the City of Ogden to discuss some of the challenges they are having with
+- for the CSG and I discussed the issues and challenges facing Community Corrections and the
+- WTC and their completion of the ADOPT Grant they received from the State of Kansas
+- Wednesday evening, I once again met with a local citizen group for Chinese food to discuss
+- and answer all of them and discuss some other activities going on here in Riley County
+- items discussed was the signing of Amendment #2 for the Kansas Water Office Grant, and
+- approval of a contract for an Employee Maintenance Uniform program with Cintas. There
+- were also various discussions and questions from members of the council to finish out the
+- discussions and meetings up on Capitol Hill while there
+- Monday I had a meeting with Brittany Phillips and David Adams to discuss the Health
+- Tuesday I had several doctor appointments and a meeting at my church
+- as an enlisted combat medic. He had a good presentation on the different services offered at
+- 1. Change Order 2026 Chip Seal Project
+- Move to approve Change Order No. 1 with Vance Brothers, LLC for the 2026
+- Bituminous Chip Seal Project for a decrease of $67,775.59
+- 2. Highway Use Permit 2026-010 S 20th St
+- Move to approve the Highway Use Permit granting Daryl Parker permission to install
+- a 1 1/2" water line under the culvert at 3965 S 20th Street
+- Move to approve the requested Riley County Employee Action Forms
+- Nelson Medina, a new hire, as a Volunteer Firefighter, in the Fire District #1
+- Sabri Ciftci, Linda Gibbs, Karen Grater, Elizabeth Archer, Christopher
+- Move to approve the minutes of October 5, 2026 as presented
+- Hawthorne discussed work on the tax sale
+- 9:20 AM Budget and Planning Committee - Brittany Phillips, Budget and Finance Officer
+- 9. Economic Development Update
+- Soldan presented the economic development update
+- Bishop discussed Fort Riley activities
+- Ellermann said he does not have a set of plans developed for the project
+- Discussion followed on the health department reorganization and remodel
+- Move to approve the remodel of the Riley County Health Department area in question
+- Move to approve the proposed Riley County Administrator Recruitment and
+- 13. Request to Fill Open Position Public Works Operator I-II
+
+## [riley-county#21] 2026-10-15 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 9:15 AM
+- Amanda Webb Planning/Special Projects Director Present 9:41 AM
+- Doug Russell Division Fire Chief Present 11:12 AM
+- Jake Konrardy Deputy Fire Chief Present 11:12 AM
+- Public Comment
+- town. What an ugly and disappointing game throughout with the Wildcats losing to Houston
+- communication, and went through some new training and development plan in the works as
+- personal, family, and nationwide chapter awards, and got an update from the Army Ten-Miler
+- and introduced the guest speaker Command Sargent Major Rickey G Jackson and discussed
+- General Monté L. Rone and discussed his time over the last two years at Fort Riley as he will
+- through a presentation updating us on the fiscal, logistical, infrastructural, and political, that
+- the current environment will be playing on Fort Riley and discussed the same impacts going
+- Tuesday morning the Chapter headed up to Capitol Hill for the annual discussion on priorities
+- for Fort Riley. This meeting took place in the Armed Services hearing room at the Dirksen
+- Schmidt as well. We had a great discussion and went through everything point by point and
+- Trooper Ben. They were both great. It was good to see the years of service awards for long
+- Tuesday evening was the Fire Department Advisory Board meeting. A good meal with hot
+- disappointing game
+- Theaters. The first presentation was by Sandra Wiley - “Customer Service – Internal Focus,”
+- which was very good. After that, we had “years of service” awards and the REACH Employee
+- of the Year Award. The second presentation was by “Trooper Ben”, entitled “Go & Grow”
+- department information tables and games. I left a little early, as I wasn’t feeling too well
+- 1. KDOT Cost-Share Program Award - Spring 2026
+- Move to approve the Contract with KDOT for the Cost Share Program for Winkler
+- Mills Road bridge replacement
+- 2. Mobile Device Reimbursement Request Form
+- Move to approve the Mobile Device Reimbursement Request Forms
+- 3. CIP Project Activation
+- Move to approve CIP Project Activation for the Health Department remodel in the
+- Move to approve the requested Position Action Form
+- Move to approve the requested Riley County Employee Action Forms
+- Brittany Phillips, a Budget and Finance Officer, in the Clerk/Election
+- 6. Discuss Intergovernmental Luncheon at Rockin K's at 12:00 (noon) Monday, October
+- 7. Approve payroll/accounts payables (when completed)
+- Move to approve the payroll vouchers in the amount of $741,827.97 and the
+- LEPP Grant 1,266.03
+- Capital Improvements Fund 311,254.78
+
+## [riley-county#22] 2026-10-19 | Board of County Commissioners | minutes
+- 115 N 4th Street
+- Brittany Phillips Budget and Finance Officer Present 8:30 AM
+- Amanda Webb Planning/Special Projects Director Present 8:30 AM
+- Public Comment
+- discussion was held by the various county officials
+- Sunday I had a quiet day at home, working on some overdue projects, reviewing the Law
+- 1. Keats Evergy invoice payment approval
+- Move to approve the payment of Evergy's invoice dated October 2, 2026 in the
+- 2. Advisory Board appointments
+- Move to approve and sign the appointment letter and "Resolution No. 101926-51, A
+- Resolution appointing a representative to the Manhattan Urban Area Planning Board"
+- Move to approve the requested Riley County Employee Action Forms
+- Move to approve the minutes of October 15, 2026 as presented
+- Vargo stated the last day to request a ballot by mail is October 27, 2026
+- Hansen discussed the Legislative Luncheon on Monday, November 9, 2026
+- Hansen discussed the negotiation of the Indigent Defense Attorneys
+- 10. Executive session to discuss a performance matter involving non-elected personnel
+- Kansas Open Meetings Act, in order to discuss a performance matter of non-elected
+- The Riley County Planning Board/Board of Zoning Appeals meeting will be held
+- 115 N. 4th Street
+
+## [riley-county#23] 2026-10-22 | Board of County Commissioners | agenda
+- 115 N 4th Street
+- Public Comment
+- 1. Mobile Device Reimbursement Request Form
+- 2. Riley County Purchasing Card Request
+- 7. Request to Fill Assistant County Attorney position
+- 13. Request to Fill Open Position—Senior Analyst
+
+## [riley-county#24] 2026-10-22 | Board of County Commissioners | agenda
+- 115 N 4th Street
+- Public Comment
+- 1. Mobile Device Reimbursement Request Form
+- 2. Riley County Purchasing Card Request
+- 7. Request to Fill Assistant County Attorney position
+- 13. Request to Fill Open Position—Senior Analyst
+- SUBJECT: Mobile Device Reimbursement Request Form
+- Riley County Mobile Device Reimbursement Request
+- Included in current year’s approved personnel budget
+- To approve request for Mobile Device Reimbursement
+- Move to approve request for Mobile Device Reimbursement
+- Mobile Device Reimbursement Request Form
+- Reimbursement Amount: D $25 D $40 I ✓ I $65 Data Enabled (BOCC approval needed)
+- Employee Certification and Signature : I certify my posit ion will require the use of my portable
+- changes in the level of those business use expenses to my Supervisor . I further certify that I have read,
+- Supervisory Certification and Signature : I certify the requested reimbursement is needed for this
+- BOCC Designation : D Approved DDenied
+- FROM: Brittany Phillips, Budget and Finance Officer
+- SUBJECT: Riley County Purchasing Card Request
+- PRESENTER: Brittany Phillips, Budget and Finance Officer
+- Riley County P-Card Policy requires all new purchase card requests be approved and signed by Commission
+- need to use a purchase card for an emergency repair
+- Move to approve Riley County P-Card request as presented
+- Move to approve Riley County P-Card Request
+- FROM: Carley Harris, Administrative Analyst - Levy
+- Move to approve and sign the Township Notice for Stagg Hills Golf Club CMB License
+- desires to locate, written notice by registered mail, of the ﬁling of such application
+- This is to notify the member of your Township Board that an application has been ﬁled with the County Commissioners by Chad
+- The Township Board may within ten (10) days ﬁle advisory recommendations as to the granting of such license and such advisory
+- recommendations shall be considered by said Board of County Commissioners before such license is Issued – K.S.A. 41-2702
+- 4. Presentation of retirement plaque to Mary Graham - Kathryn Focke (3-5 minutes)
+- 1. Approve payroll/accounts payables (when completed)
+- 9:20 AM Executive Session to discuss department head evaluation
+- 9:50 AM Amanda Webb, Planning/Special Projects Director
+- 6. Amend certain language of the Driveway Standards for the Unincorporated Area of
+- 10:20 AM Amanda Webb, Planning/Special Projects Director
+- 7. Evergy - Data Centers
+- SUBJECT: Request to Fill Assistant County Attorney position
+- enforce KOMA, KORA and certain limited County Resolutions
+- The current position is being vacated by David Lowden, who resigned from the position after being elected to

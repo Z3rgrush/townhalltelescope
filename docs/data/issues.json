@@ -285,6 +285,261 @@
   ],
   "government": "Bonner Springs"
  },
+ "douglas-county/0": {
+  "id": "douglas-county/0",
+  "title": "Eudora TIF district for a 133-acre business park",
+  "summary": "Eudora's city manager briefed the county on a proposed tax increment financing district for Main Street Development Group's 133-acre mixed commercial and industrial project at K-10 and E 2300 Road, with about $31 million in infrastructure costs. Commissioners asked about industrial outdoor storage and why the developer wants 100% TIF.",
+  "where": "K-10 & E 2300 Rd, Eudora",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-12",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144560"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/1": {
+  "id": "douglas-county/1",
+  "title": "Property taxes and the county's cash reserves",
+  "summary": "Residents urged the commission to give back some of its reserves, citing reports that the county ended 2025 with uncommitted cash equal to 52% of spending against a 25% guideline, and seniors described rising property taxes. The board also moved $421,621 in reserves to the general fund to back a future $500,000 Baldwin child care center request.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-26",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144941"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144563"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/2": {
+  "id": "douglas-county/2",
+  "title": "Mental health care, overdoses and supportive housing",
+  "summary": "Heartland and county behavioral health staff reported rising demand for psychiatric care funded by the mental health sales tax, while a resident repeatedly pressed the county on fentanyl overdoses, homelessness and federal housing funding changes. The county marked Supportive Housing Week.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-09",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144878"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144941"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144560"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/3": {
+  "id": "douglas-county/3",
+  "title": "Wakarusa River Valley plan and open space",
+  "summary": "A resident asked for a firm date on the Wakarusa open space plan and for county money to buy environmentally sensitive land, and the commission later received a presentation on the Wakarusa River Valley Vision Plan.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144753"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144560"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/4": {
+  "id": "douglas-county/4",
+  "title": "Overhauling county zoning rules",
+  "summary": "After a diagnostic review by Clarion Associates, commissioners backed staff-led fixes to the zoning code now and a second phase that could restructure zoning districts, add adequate public facilities rules and create a countywide future land use map.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144880"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/5": {
+  "id": "douglas-county/5",
+  "title": "Sheriff's five-year Axon camera and Taser contract",
+  "summary": "The commission considered waiving its finance policy for a sole-source contract with Axon for body cameras, software, cloud storage and Tasers from 2027 through 2031.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Commission Board Meeting",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144944/Commission%20Board%20Meeting%20-%2021%20Oct%202026.pdf?handle=53568958B6E34531933A2784E07B458E"
+   },
+   {
+    "date": "2026-10-21",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144945"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "Commission Board Meeting",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144865/Commission%20Board%20Meeting%20-%2014%20Oct%202026.pdf?handle=8E0CC605695C4B3BA12563A9AEB25BA7"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144866"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/6": {
+  "id": "douglas-county/6",
+  "title": "Rural land use permits",
+  "summary": "The county handled a temporary permit for a landscaping business at \"Kasold Curve\" ahead of a planned affordable housing annexation into Lawrence, brush burning on E 1750 Road, renewal of Midnight Farm's permit, a commercial dog kennel, an electrical substation expansion at 1645 E 400 Road and a contractor yard on US-40.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Commission Board Meeting",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144944/Commission%20Board%20Meeting%20-%2021%20Oct%202026.pdf?handle=53568958B6E34531933A2784E07B458E"
+   },
+   {
+    "date": "2026-10-21",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144945"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "Commission Board Meeting",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144865/Commission%20Board%20Meeting%20-%2014%20Oct%202026.pdf?handle=8E0CC605695C4B3BA12563A9AEB25BA7"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144866"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144753"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144880"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144878"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/7": {
+  "id": "douglas-county/7",
+  "title": "Douglas and Jefferson County solid waste plan",
+  "summary": "The commission set a September 9 public hearing on the 2026 Douglas and Jefferson County solid waste management plan.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-12",
+    "body": "County Commission",
+    "kind": "minutes",
+    "url": "https://douglascountyks.civicweb.net/document/144560"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
+ "douglas-county/8": {
+  "id": "douglas-county/8",
+  "title": "2027 community partner funding",
+  "summary": "The county took up its 2027 community partner and service agreements, which set the terms for county money given to outside agencies.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Commission Board Meeting",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144865/Commission%20Board%20Meeting%20-%2014%20Oct%202026.pdf?handle=8E0CC605695C4B3BA12563A9AEB25BA7"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "County Commission",
+    "kind": "agenda",
+    "url": "https://douglascountyks.civicweb.net/document/144866"
+   }
+  ],
+  "government": "Douglas County Commission"
+ },
  "edgerton/0": {
   "id": "edgerton/0",
   "title": "Data center at Logistics Park Kansas City",
@@ -1223,6 +1478,329 @@
    }
   ],
   "government": "Gardner"
+ },
+ "johnson-county/0": {
+  "id": "johnson-county/0",
+  "title": "Whether to block De Soto's TIF for a senior care project",
+  "summary": "A commissioner asked the board to declare De Soto's proposed TIF district for an assisted living and memory care project harmful to the county and block it, citing ambulance service costs. Competing motions failed, and the board asked for county-wide incentive guidance to come back to a committee of the whole.",
+  "where": "De Soto",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-13",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7222_Summary_8_13_2026_9_30_00_AM.pdf?documentType=3&meetingId=7222"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/1": {
+  "id": "johnson-county/1",
+  "title": "2027 county, park and library budgets",
+  "summary": "Johnson County adopted its 2027 budget with about $1.13 billion in spending and $309 million in property tax, along with a $549 million wastewater budget, park and library district budgets and a 2027\u20132031 capital plan. Consolidated Fire District No. 1 held a hearing on exceeding its revenue-neutral rate, and the three fire districts' budgets were approved.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-03",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7202_Summary_9_3_2026_9_30_00_AM.pdf?documentType=3&meetingId=7202"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Public Hearing",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Public_Hearing_7238_Summary_8_20_2026_1_00_00_PM.pdf?documentType=3&meetingId=7238"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Committee of the Whole",
+    "kind": "agenda",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Committee_of_the_Whole_7236_Agenda_8_13_2026_11_00_00_AM.pdf?documentType=1&meetingId=7236"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/2": {
+  "id": "johnson-county/2",
+  "title": "Wastewater plant upgrades",
+  "summary": "The county approved about $20.5 million for treatment upgrades at the New Century Air Center plant, $9.9 million for Tomahawk Creek plant improvements, bonds for wastewater work and a bigger sludge hauling contract, and held a hearing on using construction manager at risk for future wastewater projects.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-08",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7230_Summary_10_8_2026_9_30_00_AM.pdf?documentType=3&meetingId=7230"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7228_Summary_8_27_2026_9_30_00_AM.pdf?documentType=3&meetingId=7228"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7198_Summary_8_6_2026_9_30_00_AM.pdf?documentType=3&meetingId=7198"
+   },
+   {
+    "date": "2026-07-30",
+    "body": "Board of County Commission-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commission-General_Business_7160_Summary_7_30_2026_9_30_00_AM.pdf?documentType=3&meetingId=7160"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/3": {
+  "id": "johnson-county/3",
+  "title": "Stormwater and green infrastructure money for cities",
+  "summary": "Johnson County awarded nearly $1.2 million in green infrastructure grants to Bridging the Gap, Ducks Unlimited and the park district, funded stormwater studies and repairs with Olathe, Merriam, Spring Hill and Lenexa, and discussed a community-based partnership model for watershed work.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Committee of the Whole",
+    "kind": "agenda",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Committee_of_the_Whole_7245_Agenda_10_15_2026_10_00_00_AM.pdf?documentType=1&meetingId=7245"
+   },
+   {
+    "date": "2026-10-08",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7230_Summary_10_8_2026_9_30_00_AM.pdf?documentType=3&meetingId=7230"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7202_Summary_9_3_2026_9_30_00_AM.pdf?documentType=3&meetingId=7202"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7200_Summary_8_20_2026_9_30_00_AM.pdf?documentType=3&meetingId=7200"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7222_Summary_8_13_2026_9_30_00_AM.pdf?documentType=3&meetingId=7222"
+   },
+   {
+    "date": "2026-07-30",
+    "body": "Board of County Commission-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commission-General_Business_7160_Summary_7_30_2026_9_30_00_AM.pdf?documentType=3&meetingId=7160"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/4": {
+  "id": "johnson-county/4",
+  "title": "Bipartisan appointments to county boards",
+  "summary": "The board adopted a process where the chair nominates and the board appoints a bipartisan slate to county boards and commissions, then worked through appointments to zoning, housing and fire district boards.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7208_Summary_10_15_2026_9_30_00_AM.pdf?documentType=3&meetingId=7208"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7206_Summary_10_1_2026_9_30_00_AM.pdf?documentType=3&meetingId=7206"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7229_Summary_9_10_2026_9_30_00_AM.pdf?documentType=3&meetingId=7229"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7200_Summary_8_20_2026_9_30_00_AM.pdf?documentType=3&meetingId=7200"
+   },
+   {
+    "date": "2026-07-30",
+    "body": "Board of County Commission-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commission-General_Business_7160_Summary_7_30_2026_9_30_00_AM.pdf?documentType=3&meetingId=7160"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/5": {
+  "id": "johnson-county/5",
+  "title": "Rewriting county zoning and subdivision rules",
+  "summary": "Commissioners held a study session on the second module of the county's zoning and subdivision regulations update, while approving rural permits such as an accessory dwelling near Mission Road and a subdivision at 127th Street and Moonlight Road.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-08",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7230_Summary_10_8_2026_9_30_00_AM.pdf?documentType=3&meetingId=7230"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Study Session",
+    "kind": "agenda",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Study_Session_7244_Agenda_10_1_2026_11_00_00_AM.pdf?documentType=1&meetingId=7244"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7229_Summary_9_10_2026_9_30_00_AM.pdf?documentType=3&meetingId=7229"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/6": {
+  "id": "johnson-county/6",
+  "title": "Ambulance coordination and De Soto police costs",
+  "summary": "The county moved to full cost recovery on its police services contract with De Soto and took up a coordinated emergency medical services agreement with Overland Park, Shawnee and the three consolidated fire districts.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "agenda",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7225_Agenda_10_22_2026_9_30_00_AM.pdf?documentType=1&meetingId=7225"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7224_Summary_9_24_2026_9_30_00_AM.pdf?documentType=3&meetingId=7224"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/7": {
+  "id": "johnson-county/7",
+  "title": "Sheriff parking structure and facility projects",
+  "summary": "The board hired Icon Structures for a sheriff's parking structure and site security project at New Century, replaced the administration building's underground fuel tanks and financed Health Services Building work through Public Building Commission bonds.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-10",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7229_Summary_9_10_2026_9_30_00_AM.pdf?documentType=3&meetingId=7229"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7228_Summary_8_27_2026_9_30_00_AM.pdf?documentType=3&meetingId=7228"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7198_Summary_8_6_2026_9_30_00_AM.pdf?documentType=3&meetingId=7198"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/8": {
+  "id": "johnson-county/8",
+  "title": "Roads, bridges and transit vehicles",
+  "summary": "The county joined KDOT and Gardner on replacing the Moonlight Road bridge over I-35, added design money for Mission Road reconstruction, partnered with Leawood on Roe Avenue and moved $400,000 into transit vehicle replacement.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-24",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7224_Summary_9_24_2026_9_30_00_AM.pdf?documentType=3&meetingId=7224"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/9": {
+  "id": "johnson-county/9",
+  "title": "Habitat for Humanity homes at Heritage Park",
+  "summary": "The county amended Habitat for Humanity Kansas City's federal HOME funding contracts for the Pathway at Heritage Park project.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-24",
+    "body": "Board of County Commissioner-General Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-General_Business_7224_Summary_9_24_2026_9_30_00_AM.pdf?documentType=3&meetingId=7224"
+   }
+  ],
+  "government": "Johnson County"
+ },
+ "johnson-county/10": {
+  "id": "johnson-county/10",
+  "title": "Closed-door talks on an economic development project",
+  "summary": "Commissioners went into executive session to discuss confidential financial information for an unnamed economic development project, \"County Project 1.\"",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Board of County Commissioner-Administrative Business",
+    "kind": "minutes",
+    "url": "https://boccmeetings.jocogov.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Board_of_County_Commissioner-Administrative_Business_7208_Summary_10_15_2026_9_30_00_AM.pdf?documentType=3&meetingId=7208"
+   }
+  ],
+  "government": "Johnson County"
  },
  "lake-quivira/0": {
   "id": "lake-quivira/0",
@@ -4422,6 +5000,409 @@
   ],
   "government": "Prairie Village"
  },
+ "riley-county/0": {
+  "id": "riley-county/0",
+  "title": "Rules for data centers and battery storage",
+  "summary": "Riley County's planning director led work sessions on data centers and battery energy storage systems, with commissioners asking about facility noise and the county counselor discussing a possible referendum on a data center. Evergy was scheduled to talk with the commission about data centers in late October.",
+  "where": null,
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://rileycoks.portal.civicclerk.com/event/739/files"
+   },
+   {
+    "date": "2026-08-31",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/724/files"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/717/files"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/716/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/1": {
+  "id": "riley-county/1",
+  "title": "Opposition to the police department's $31 million federal grant",
+  "summary": "Residents, including DeFlock Riley County, a Unitarian Universalist fellowship and a local priest, packed public comment for weeks urging the county not to accept a $31.1 million federal grant sought by the Riley County Police Department, citing surveillance cameras, cost and ties to ICE and a 287(g) agreement. Some suggested a local sales tax instead, and the board set time limits on public comment.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/732/files"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/731/files"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/730/files"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/729/files"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/728/files"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/727/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/2": {
+  "id": "riley-county/2",
+  "title": "2027 budget and the 38-mill levy",
+  "summary": "The commission held budget work sessions, published notice of its September 10 revenue-neutral rate and budget hearings and heard a resident question the 38.012-mill levy's burden on middle-class households. It also split opioid settlement money between Community Corrections and the Health Department.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/733/files"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/725/files"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/721/files"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/718/files"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/716/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/3": {
+  "id": "riley-county/3",
+  "title": "Hiring the first county administrator",
+  "summary": "Commissioners set first-year goals for a new county administrator, including a structurally balanced 2028 budget, discussed a benefits package and a $160,000 salary that a resident questioned, and approved a recruitment plan.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-08",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/735/files"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/733/files"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/723/files"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/721/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/4": {
+  "id": "riley-county/4",
+  "title": "Road and bridge sales tax vote put off to 2027",
+  "summary": "The board considered asking voters for a 0.20% countywide sales tax for roads and bridges and agreed to wait until November 2027.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-03",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/716/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/5": {
+  "id": "riley-county/5",
+  "title": "Keats and University Park sewer projects",
+  "summary": "After more than a decade of planning, the county broke ground on the Keats sanitary sewer and lagoon west of Keats Park, approved change orders there and on the University Park wastewater lagoon, and paid Evergy for Keats work.",
+  "where": "Keats Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/738/files"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/734/files"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/731/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/720/files"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/719/files"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/714/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/6": {
+  "id": "riley-county/6",
+  "title": "Health department reorganization and remodel",
+  "summary": "The health department stopped pursuing reaccreditation, and after questions about funding the board approved a remodel of part of the department and activated the project.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/737/files"
+   },
+   {
+    "date": "2026-10-08",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/735/files"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/730/files"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/725/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/7": {
+  "id": "riley-county/7",
+  "title": "Planning fees, land rules and housing grants",
+  "summary": "The county adopted a new planning fee schedule including private well fees, amended its land development regulations and driveway standards, approved rural plats and applied for Home in the Heartland housing grants.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://rileycoks.portal.civicclerk.com/event/739/files"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/727/files"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/725/files"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/722/files"
+   },
+   {
+    "date": "2026-07-27",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/714/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/8": {
+  "id": "riley-county/8",
+  "title": "County motor vehicle fee increase",
+  "summary": "The treasurer reviewed the history of motor vehicle transaction fees and the board raised the fee for 2027 after a resident objected.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/728/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/9": {
+  "id": "riley-county/9",
+  "title": "Selling the county's Tatarrax lot",
+  "summary": "The county discussed a public sale of a vacant county-owned lot at Tatarrax, and the Tatarrax Association asked for time to plan for it.",
+  "where": "Tatarrax",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/734/files"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/732/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
+ "riley-county/10": {
+  "id": "riley-county/10",
+  "title": "Culvert and bridge work on rural roads",
+  "summary": "Public Works closed rural roads for culvert replacements on W. 62nd Avenue, Kitten Creek, Crooked Creek and Swede Creek roads, chip sealed several roads and won KDOT cost-share money to replace the Winkler Mills Road bridge.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/737/files"
+   },
+   {
+    "date": "2026-09-28",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/732/files"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/728/files"
+   },
+   {
+    "date": "2026-08-31",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/724/files"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Board of County Commissioners",
+    "kind": "minutes",
+    "url": "https://rileycoks.portal.civicclerk.com/event/720/files"
+   }
+  ],
+  "government": "Riley County Commission"
+ },
  "roeland-park/0": {
   "id": "roeland-park/0",
   "title": "Pawnee Drive reconstruction and new sidewalk",
@@ -4961,6 +5942,764 @@
    }
   ],
   "government": "Salina"
+ },
+ "saline-county/0": {
+  "id": "saline-county/0",
+  "title": "2027 county budget and the revenue-neutral rate",
+  "summary": "Saline County worked through its 2027 budget in a study session, including outside agency funding requests, then held revenue-neutral rate hearings for the county and five rural fire districts and took up adoption of the county and special district budgets.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26963/publicfiles/4"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26949/publicfiles/4"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26941/publicfiles/4"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Saline County Commission Study Session",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26931/publicfiles/4"
+   }
+  ],
+  "government": "Saline County Commission"
+ },
+ "saline-county/1": {
+  "id": "saline-county/1",
+  "title": "Expo Center management",
+  "summary": "During budget talks, commissioners met with Oak View Group representatives about the county Expo Center.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Saline County Commission Study Session",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26931/publicfiles/4"
+   }
+  ],
+  "government": "Saline County Commission"
+ },
+ "saline-county/2": {
+  "id": "saline-county/2",
+  "title": "New health department building and the future of home health",
+  "summary": "The commission discussed the future of the county's home health service and considered hiring a construction manager at risk for a Saline County Health Department building project.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26949/publicfiles/4"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26941/publicfiles/4"
+   }
+  ],
+  "government": "Saline County Commission"
+ },
+ "saline-county/3": {
+  "id": "saline-county/3",
+  "title": "Kipp Road and road and bridge work",
+  "summary": "The county took up a KDOT agreement for the Kipp Road improvement project, roof replacements and a new truck barn for Road and Bridge.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26972/publicfiles/4"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26963/publicfiles/4"
+   }
+  ],
+  "government": "Saline County Commission"
+ },
+ "saline-county/4": {
+  "id": "saline-county/4",
+  "title": "Sundowner improvement district hearing",
+  "summary": "A public hearing was set on the Sundowner improvement district.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26990/publicfiles/4"
+   }
+  ],
+  "government": "Saline County Commission"
+ },
+ "saline-county/5": {
+  "id": "saline-county/5",
+  "title": "Renaming a road in Hedville",
+  "summary": "A petition to change a road name in Hedville came before the commission.",
+  "where": "Hedville",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26949/publicfiles/4"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Saline County Commission",
+    "kind": "agenda",
+    "url": "https://salina-tv.com/cablecastapi/shows/26941/publicfiles/4"
+   }
+  ],
+  "government": "Saline County Commission"
+ },
+ "sedgwick-county/0": {
+  "id": "sedgwick-county/0",
+  "title": "Extending the pause on data center development",
+  "summary": "The county commission considered a third extension of its interim development controls on data centers while planners work on rules. A resident thanked commissioners for taking time to \"get this data center thing right\" and asked how the planning commission's suggested categories and regulations would work.",
+  "where": null,
+  "public_comment": true,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-02",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1429&type=minutes&doctype=2"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/1": {
+  "id": "sedgwick-county/1",
+  "title": "Solar farms southwest of Wichita",
+  "summary": "Two conditional use requests for major solar energy systems on rural land, one near South 119th Street West and West 47th Street and one between West 71st and 87th streets South, drew TED Renewables, Clearwater's mayor and a council member, the Climate + Energy Project and nearby residents to the commission.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-05",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1425&type=minutes&doctype=2"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/2": {
+  "id": "sedgwick-county/2",
+  "title": "2027 budget above the revenue-neutral rate",
+  "summary": "Sedgwick County's recommended 2027 operating budget is about $624 million with a $218 million property tax levy, roughly 26.8 mills. At the first hearing a resident questioned undefined \"core services,\" poll worker pay and appraisal practices, and the county mailed more than 242,000 revenue-neutral rate notices before hearings on exceeding that rate and adopting the budget. Fire District 1 held its own hearings on exceeding its 15.576-mill revenue-neutral rate.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-08-26",
+    "body": "Governing Body of Fire District 1 08 26 2026",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1423&type=minutes&doctype=2"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1422&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1426&type=minutes&doctype=2"
+   },
+   {
+    "date": "2026-07-29",
+    "body": "Board of Sedgwick County Commissioners Budget Hearing",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1420&type=minutes&doctype=2"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/3": {
+  "id": "sedgwick-county/3",
+  "title": "Kellogg and 119th power center rezoning",
+  "summary": "The commission took up a planned unit development to rezone land at the southwest corner of Kellogg and 119th Street West for future residential, commercial or industrial use as the Kellogg 119th Power Center.",
+  "where": "W Kellogg & S 119th St W",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-02",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1429&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/4": {
+  "id": "sedgwick-county/4",
+  "title": "Tag office wait times and new satellite offices",
+  "summary": "The county treasurer described efforts to shorten tag office waits with more satellite workstations, appointment changes and a parking lot purchase at the Douglas tag office, and the board set a $9.50 transaction fee.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1430&type=minutes&doctype=2"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1429&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1425&type=minutes&doctype=2"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/5": {
+  "id": "sedgwick-county/5",
+  "title": "Accessory apartments in the zoning code",
+  "summary": "The county considered amending the Wichita\u2013Sedgwick County unified zoning code's rules on accessory apartments.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/6": {
+  "id": "sedgwick-county/6",
+  "title": "Leaving the joint Access Advisory Board",
+  "summary": "The commission took up a resolution ending the county's role in the Wichita/Sedgwick County Access Advisory Board, while Wichita separately took up an ordinance to reestablish the board.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1437&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/7": {
+  "id": "sedgwick-county/7",
+  "title": "Juvenile corrections funding cuts",
+  "summary": "Commissioners discussed state juvenile corrections funding reductions and a letter to the Juvenile Justice Oversight Committee, after moving three corrections jobs to general funding when state grant money fell short.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1438&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/8": {
+  "id": "sedgwick-county/8",
+  "title": "Mental health and behavioral health services",
+  "summary": "The county renewed its state community mental health center agreement, applied for a behavioral health clinic improvement grant and added positions at COMCARE.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-09",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1430&type=minutes&doctype=2"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1425&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/9": {
+  "id": "sedgwick-county/9",
+  "title": "Drought and burn ban",
+  "summary": "Fire District 1 and several cities put an indefinite burn ban in place because of drought, and the county pointed residents to federal drought disaster loans.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-09",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1430&type=minutes&doctype=2"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "minutes",
+    "url": "http://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1429&type=minutes&doctype=2"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/10": {
+  "id": "sedgwick-county/10",
+  "title": "Roads, bridges and the 63rd Street pathway",
+  "summary": "The county acquired easements and KDOT agreements for 135th Street West reconstruction, a MacArthur Road bridge replacement, East Kellogg construction, a 63rd Street South pathway to the Butler County line and the North Junction interchange.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1438&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1437&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1436&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-09-16",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-08-05",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1425&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "sedgwick-county/11": {
+  "id": "sedgwick-county/11",
+  "title": "Zoning in rural areas",
+  "summary": "The board handled a rural rezoning to general commercial at West 55th Street South and 375th Street West, outdoor recreation and church permits and a review of Goddard's unilateral annexation plan.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-16",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1431&type=agenda&doctype=1"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Board of Sedgwick County Commissioners",
+    "kind": "agenda",
+    "url": "https://imaging.sedgwickcounty.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=1426&type=agenda&doctype=1"
+   }
+  ],
+  "government": "Sedgwick County Commission"
+ },
+ "shawnee-county/0": {
+  "id": "shawnee-county/0",
+  "title": "Engineering help to review proposed data centers",
+  "summary": "The county commission considered awarding a contract to CFS Engineers for engineering services on proposed data centers, as a hyperscale campus was being pitched just south of Topeka.",
+  "where": null,
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-10",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/1": {
+  "id": "shawnee-county/1",
+  "title": "2027 budget above the revenue-neutral rate",
+  "summary": "Shawnee County held hearings on a 2027 property tax levy above its revenue-neutral rate of 46.861 mills and on the proposed budget, after weeks of budget talks and a review of $192 million in capital project requests. Adoption of the budget and capital plan was then taken up in September.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-09-17",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1354/files"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1350/files"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1342/files"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1341/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/2": {
+  "id": "shawnee-county/2",
+  "title": "Rewriting the industrial revenue bond policy",
+  "summary": "Commissioners studied how 12 other Kansas cities and counties handle industrial revenue bonds and property tax exemptions, including which industries qualify, payments in lieu of taxes and clawbacks, as they weigh changes to the county's own policy.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-31",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1349/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/3": {
+  "id": "shawnee-county/3",
+  "title": "Bonds for a hotel and a Topeka apartment project",
+  "summary": "The county considered about $7 million in taxable hospitality revenue bonds for a YBR Properties hotel project and $15 million in multifamily housing revenue bonds for the Topeka SV project, which was deferred a week.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1364/files"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1362/files"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1354/files"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1342/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/4": {
+  "id": "shawnee-county/4",
+  "title": "Behavioral health unit and jail mental health care",
+  "summary": "The commission toured behavioral health housing units, sought a $1.3 million federal opioid and substance use grant, accepted a $750,000 grant for a behavioral health unit and considered a mental health contract with Astra for the detention center.",
+  "where": "501 SE 8th St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1362/files"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1347/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/5": {
+  "id": "shawnee-county/5",
+  "title": "Subsidizing the Stormont Vail Events Center",
+  "summary": "The county considered a $163,981 allocation to cover an operating budget overage at the Stormont Vail Events Center, along with a revised license agreement there.",
+  "where": "Stormont Vail Events Center",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1364/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/6": {
+  "id": "shawnee-county/6",
+  "title": "Gage Park and Lake Shawnee projects",
+  "summary": "Gage Park sales tax money went to a new Playland shelter, path lights, road repairs, Rose Garden and Snyder Cabin work, while the county sought a federal grant to replace a shelter at Lake Shawnee and signed a sponsor for the Lake Shawnee dog park.",
+  "where": "Gage Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-09-24",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1356/files"
+   },
+   {
+    "date": "2026-08-27",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1348/files"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1346/files"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1341/files"
+   },
+   {
+    "date": "2026-07-30",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1340/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/7": {
+  "id": "shawnee-county/7",
+  "title": "Bridge and road projects",
+  "summary": "The county moved ahead on bridge replacements on NW 78th Street over Halfday Creek and NW Maple Hill Road over the Kansas River, and on SE Croco Road pavement replacement north of the I-70 turnpike bridge.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1364/files"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1362/files"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1344/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/8": {
+  "id": "shawnee-county/8",
+  "title": "Conditional use permits in Mission and Tecumseh townships",
+  "summary": "Hearings were held on expanding a conditional use permit for a warehouse, office and gravel storage yard at 1100 SW Auburn Road and on changing an older permit at 4144 SE 45th Street.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-10",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1352/files"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1344/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
+ },
+ "shawnee-county/9": {
+  "id": "shawnee-county/9",
+  "title": "Street assessments in rural subdivisions",
+  "summary": "Hearings were held on special assessments to pay for street improvements in the Timber Ridge, Sterling Chase and another county subdivision benefit district.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-17",
+    "body": "BOARD OF COUNTY COMMISSIONERS",
+    "kind": "agenda",
+    "url": "https://shawneecoks.portal.civicclerk.com/event/1354/files"
+   }
+  ],
+  "government": "Shawnee County Commission"
  },
  "shawnee/0": {
   "id": "shawnee/0",
@@ -6318,5 +8057,421 @@
    }
   ],
   "government": "Unified Government (KCK / Wyandotte County)"
+ },
+ "wichita/0": {
+  "id": "wichita/0",
+  "title": "Calls for police accountability after DeAndre Hill's death",
+  "summary": "Family members and supporters of DeAndre Hill, who was killed by Wichita police in January, returned to the council in August and October asking for accountability and changes to police use of force. The city attorney said a claim over the case is pending.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8445785b5147dfbaf3e06dc8e2924c130.pdf"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/9fa65b5a7fc5331838a84a74e7a253b30.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/1": {
+  "id": "wichita/1",
+  "title": "Homelessness, camping rules and cooling centers",
+  "summary": "Unhoused residents and advocates spoke week after week about criminalizing camping, housing and the Chapin Park encampment. During a heat wave the council pressed staff to put outreach workers at cooling stations, and the city later took up a federal grant for youth street outreach and housing navigation and $1.6 million from its Affordable Housing Fund.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8445785b5147dfbaf3e06dc8e2924c130.pdf"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4849&doc_id=2ebc1db2-c34f-11f1-89ef-005056a84798"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4838&doc_id=353a9299-b145-11f1-b3ea-005056a89546"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/38fb556e1cc68b7dbaa8a497a0a8659a0.pdf"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4831&doc_id=01d793b1-9e86-11f1-a028-005056a89546"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4825&doc_id=ee56b8b9-9827-11f1-bb61-005056a89546"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4824&doc_id=1f939ebb-9411-11f1-bb61-005056a89546"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/2": {
+  "id": "wichita/2",
+  "title": "2027 budget above the revenue-neutral rate",
+  "summary": "Wichita took public comment on its proposed 2027 budget and 2027\u20132036 capital plan through August, then held hearings on exceeding the revenue-neutral property tax rate for the city and the downtown improvement district. Residents objected to spending such as a $12 million bike bridge while employee benefits were trimmed.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4837&doc_id=ca7ee3fb-a70f-11f1-a028-005056a89546"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Evening Meeting",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/af64a13963a475137a584980218cf8e60.pdf"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/08cb41c0f541875d9b9c098baebf3dbe0.pdf"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/9fa65b5a7fc5331838a84a74e7a253b30.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/3": {
+  "id": "wichita/3",
+  "title": "Downtown Wichita Action Plan 2035",
+  "summary": "The council considered adopting the Downtown Wichita Action Plan 2035 as part of the Wichita\u2013Sedgwick County comprehensive plan, along with extending interim controls for Crown Uptown.",
+  "where": "Downtown Wichita",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/08cb41c0f541875d9b9c098baebf3dbe0.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/4": {
+  "id": "wichita/4",
+  "title": "Event permits and street closures downtown",
+  "summary": "Owners of businesses on North St. Francis and the Wichita Chinese Association objected to how the city permits festivals and street closures, saying events like Somewhere Fest hurt their businesses. The city manager said an appeal was underway.",
+  "where": "221 N St Francis St",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4838&doc_id=353a9299-b145-11f1-b3ea-005056a89546"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4831&doc_id=01d793b1-9e86-11f1-a028-005056a89546"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/5": {
+  "id": "wichita/5",
+  "title": "USD 259 school bond proposal",
+  "summary": "Wichita Public Schools' superintendent briefed the council on a new school bond proposal after the February 2025 bond and a March city sales tax both failed, and residents spoke for and against it.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8bef275f6c889fe8d3a7941097c2ff5f0.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/6": {
+  "id": "wichita/6",
+  "title": "Ending the Kansas Sports Hall of Fame lease",
+  "summary": "The council considered terminating the lease at 515 S. Wichita, where the Kansas Sports Hall of Fame struggled with revenue, while letting already scheduled events go on.",
+  "where": "515 S Wichita St",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/caff72a46ebf1e2b1e77ab258676303c0.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/7": {
+  "id": "wichita/7",
+  "title": "Business park TIF district on Kellogg",
+  "summary": "The council took up setting a December 1 hearing on a tax increment financing district and redevelopment plan for a business park on Kellogg.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8bef275f6c889fe8d3a7941097c2ff5f0.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/8": {
+  "id": "wichita/8",
+  "title": "Bonds for Wesley Medical Center, the African American Museum and others",
+  "summary": "Wichita held hearings on letters of intent for industrial revenue bonds for Wesley Medical Center, MTW Properties and the Kansas African American Museum, and on economic development tax exemptions.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8bef275f6c889fe8d3a7941097c2ff5f0.pdf"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/532d2470fb98536ce8c13290a6d08a380.pdf"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/5d840f51a86f6713ee5fe19501fb40f90.pdf"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/9fa65b5a7fc5331838a84a74e7a253b30.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/9": {
+  "id": "wichita/9",
+  "title": "Rebuilding the Access Advisory Board",
+  "summary": "An ordinance to reestablish the Access Advisory Board on disability access came before the council in August and again in October.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/532d2470fb98536ce8c13290a6d08a380.pdf"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/2f90a05ffc89bb22696b7c958bee2b9a0.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/10": {
+  "id": "wichita/10",
+  "title": "Airport flooding after record rain",
+  "summary": "After about 10 inches of overnight rain flooded an underground electrical vault at Eisenhower National Airport, the council ratified an emergency purchase of replacement airfield equipment.",
+  "where": "Wichita Dwight D. Eisenhower National Airport",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4820&doc_id=7b5bcbab-8abc-11f1-bb61-005056a89546"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/11": {
+  "id": "wichita/11",
+  "title": "Stormwater, water mains and new subdivision improvements",
+  "summary": "A resident warned that aging storm drains are causing street flooding, and the council took up funding for 2027 water and sewer main work, a concrete water pipe agreement and many petitions for water, sewer, drainage and paving in new additions such as Rivington, Greenwich Heights and Kabbaz.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 6,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8445785b5147dfbaf3e06dc8e2924c130.pdf"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/8bef275f6c889fe8d3a7941097c2ff5f0.pdf"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/532d2470fb98536ce8c13290a6d08a380.pdf"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/5d840f51a86f6713ee5fe19501fb40f90.pdf"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/38fb556e1cc68b7dbaa8a497a0a8659a0.pdf"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Evening Meeting",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4834&doc_id=0336361a-a194-11f1-a028-005056a89546"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/12": {
+  "id": "wichita/12",
+  "title": "Redbud Trail and 21st Street projects",
+  "summary": "Wichita considered funding and a donation for phase 2 of the Redbud Trail from Woodlawn to K-96 and traffic signal technology along 21st Street North.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/caff72a46ebf1e2b1e77ab258676303c0.pdf"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/38fb556e1cc68b7dbaa8a497a0a8659a0.pdf"
+   }
+  ],
+  "government": "Wichita"
+ },
+ "wichita/13": {
+  "id": "wichita/13",
+  "title": "Rezonings and Delano design reviews",
+  "summary": "The council handled rezonings including 6801 E. Kellogg and appeals of Delano Neighborhood Overlay design review decisions.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://wichitaks.granicus.com/MinutesViewer.php?view_id=42&clip_id=4858&doc_id=951669d2-cd98-11f1-89ef-005056a84798"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/38fb556e1cc68b7dbaa8a497a0a8659a0.pdf"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Evening Meeting",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/af64a13963a475137a584980218cf8e60.pdf"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/08cb41c0f541875d9b9c098baebf3dbe0.pdf"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "City Council",
+    "kind": "agenda",
+    "url": "https://s3.amazonaws.com/granicus_production_attachments/wichitaks/9fa65b5a7fc5331838a84a74e7a253b30.pdf"
+   }
+  ],
+  "government": "Wichita"
  }
 }
