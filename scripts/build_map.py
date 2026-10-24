@@ -82,6 +82,12 @@ SETUP = {
     "co": {"places": CO_PLACES,
            "counties": {"share_in_denver": None, "share_in_boulder": "boulder-county", "share_in_broomfield": None}},
 }
+# Census county name -> source id for its county government. Denver and Broomfield are
+# consolidated city-counties, so the city source is the county government.
+SETUP["ks"]["county_govs"] = {"Johnson": "johnson-county", "Wyandotte": "unified-government",
+                              "Sedgwick": "sedgwick-county", "Shawnee": "shawnee-county",
+                              "Douglas": "douglas-county", "Riley": "riley-county", "Saline": "saline-county"}
+SETUP["co"]["county_govs"] = {"Denver": "denver", "Boulder": "boulder-county", "Broomfield": "broomfield"}
 NAMES = {
     "unified-government": "Unified Government (KCK / Wyandotte County)",
     "johnson-county": "Johnson County",
