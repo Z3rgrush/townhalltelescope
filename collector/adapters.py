@@ -369,12 +369,13 @@ def novus(src, start, end, log):
         opt = sel.find("option", selected=True) or sel.find("option")
         form[sel["name"]] = opt.get("value", "") if opt else ""
     pre = "ctl00$ContentPlaceHolder1$"
-    form.update({pre + "ddlDateRange": "cus", pre + "hfFromDate": f"{start:%m/%d/%Y}", pre + "hfToDate": f"{end:%m/%d/%Y}",
-                 pre + "txtCalendarFrom": f"{start:%m/%d/%Y}", pre + "txtCalendarTo": f"{end:%m/%d/%Y}",
-                 pre + "btnSearch": "Search"})
+    # "Last 6 months" covers the lookback; the window filter below trims it.
+    form.update({pre + "ddlDateRange": "l6n", pre + "btnSearch": "Search"})
     r = session.post(url, data=form, timeout=60)
     r.raise_for_status()
     result = soup_text(r.text)
+    rows = result.find_all("tr")
+    log(f"  {len(rows)} rows; links: {sorted({a['href'][:60] for a in result.find_all('a', href=True)})[:15]}")
     n = 0
     for row in result.find_all("tr"):
         links = [a for a in row.find_all("a", href=True) if re.search(r"MeetingID=\d+", a["href"], re.I)]
