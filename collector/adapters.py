@@ -395,17 +395,25 @@ def onbase(src, start, end, log):
     """Hyland OnBase Agenda Online (Johnson County). DownloadFile serves a script page that redirects to
     DownloadFileBytes, so we link the bytes URL directly. "Summary" files are agendas annotated with actions."""
     base = src["base"].rstrip("/")
-    page, _ = soup(f"{base}/")
-    pages = [page]
-    tok = page.find("input", attrs={"name": "__RequestVerificationToken"})
+    home, _ = soup(f"{base}/")
+    pages = [home]
+    form, _ = soup(f"{base}/Meetings")
+    tok = form.find("input", attrs={"name": "__RequestVerificationToken"})
     if tok:
         fmt = lambda d: f"{d.month}/{d.day}/{d.year}"
-        data = [("__RequestVerificationToken", tok.get("value", "")), ("Keywords", ""), ("DateRangeOptionID", "11"),
-                ("DateRangeCustomStartDate", fmt(start)), ("DateRangeCustomEndDate", fmt(end))]
-        data += [("MeetingTypeIDs", t) for t in src.get("meeting_types", [])]
-        r = session.post(f"{base}/Meetings", data=data, timeout=60)
+        r = session.post(f"{base}/Meetings", timeout=60, data={
+            "__RequestVerificationToken": tok.get("value", ""), "Keywords": "",
+            "MeetingTypeIDs": ",".join(src.get("meeting_types", [])), "DateRangeOptionID": "11",
+            "DateRangeCustomStartDate": fmt(start), "DateRangeCustomEndDate": fmt(end)})
         if r.ok:
-            pages.append(soup_text(r.text))
+            found = soup_text(r.text)
+            pages.append(found)
+            # Results may list meetings rather than files; open each meeting page for its documents.
+            views = {urljoin(r.url, a["href"]) for a in found.find_all("a", href=True)
+                     if re.search(r"ViewMeeting|MeetingDetail", a["href"], re.I)}
+            log(f"  search: {len(found.find_all('a', href=True))} links, {len(views)} meeting pages")
+            for v in sorted(views):
+                pages.append(soup(v)[0])
         else:
             log(f"  search returned HTTP {r.status_code}; using the home page list only")
     seen, n = set(), 0
