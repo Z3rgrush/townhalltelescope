@@ -186,6 +186,7 @@
   adapter: granicus
   base: https://topeka.granicus.com
   view_id: 1
+  keep_agendas: true
 
 - id: salina
   name: Salina
