@@ -100,7 +100,7 @@ def main():
                 continue
             prev = old.get(d.url)
             if prev and prev.get("status") == "ok" and (ROOT / prev["text_file"]).exists():
-                rows.append(prev)
+                rows.append({**prev, **row, "status": "ok"})  # reuse the saved text but refresh the listing fields
                 stats["ok"] += 1
                 continue
             try:
