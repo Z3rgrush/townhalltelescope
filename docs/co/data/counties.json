@@ -1,0 +1,329 @@
+{
+ "counties": {
+  "Adams": {
+   "governments": [
+    {
+     "name": "Adams County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Aurora",
+     "share": 0.378,
+     "has_records": true
+    },
+    {
+     "name": "Commerce City",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Thornton",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "commerce-city/1",
+    "commerce-city/0",
+    "aurora/0",
+    "commerce-city/5",
+    "commerce-city/6",
+    "commerce-city/7",
+    "commerce-city/9",
+    "commerce-city/11",
+    "commerce-city/13",
+    "thornton/1",
+    "thornton/6",
+    "aurora/1"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "commerce-city/0",
+      "aurora/0",
+      "thornton/0"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Arapahoe": {
+   "governments": [
+    {
+     "name": "Arapahoe County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Aurora",
+     "share": 0.608,
+     "has_records": true
+    },
+    {
+     "name": "Glendale",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "aurora/0",
+    "aurora/1",
+    "aurora/8",
+    "glendale/4",
+    "aurora/2",
+    "aurora/3",
+    "aurora/5",
+    "aurora/6",
+    "aurora/7",
+    "glendale/1",
+    "aurora/10",
+    "glendale/3"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "aurora/0"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Boulder": {
+   "governments": [
+    {
+     "name": "Boulder County",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Boulder",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Erie",
+     "share": 0.286,
+     "has_records": true
+    },
+    {
+     "name": "Lafayette",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Longmont",
+     "share": 0.816,
+     "has_records": true
+    },
+    {
+     "name": "Louisville",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Lyons",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Nederland",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Superior",
+     "share": 0.949,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "louisville/2",
+    "lyons/0",
+    "longmont/9",
+    "louisville/6",
+    "longmont/3",
+    "lyons/4",
+    "boulder-county/0",
+    "longmont/0",
+    "louisville/3",
+    "louisville/12",
+    "lyons/1",
+    "superior/0"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "lafayette/2"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Broomfield": {
+   "governments": [
+    {
+     "name": "Broomfield",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "broomfield/1",
+    "broomfield/3",
+    "broomfield/0",
+    "broomfield/2",
+    "broomfield/4",
+    "broomfield/5",
+    "broomfield/6",
+    "broomfield/9",
+    "broomfield/7",
+    "broomfield/8",
+    "broomfield/10",
+    "broomfield/11"
+   ],
+   "tagged": {}
+  },
+  "Denver": {
+   "governments": [
+    {
+     "name": "Denver",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "denver/4",
+    "denver/10",
+    "denver/2",
+    "denver/3",
+    "denver/5",
+    "denver/11",
+    "denver/15",
+    "denver/7",
+    "denver/8",
+    "denver/1",
+    "denver/6",
+    "denver/12"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "denver/0"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Weld": {
+   "governments": [
+    {
+     "name": "Weld County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Erie",
+     "share": 0.714,
+     "has_records": true
+    },
+    {
+     "name": "Firestone",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Frederick",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Longmont",
+     "share": 0.184,
+     "has_records": true
+    },
+    {
+     "name": "Mead",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "longmont/9",
+    "erie/2",
+    "longmont/3",
+    "longmont/0",
+    "erie/7",
+    "frederick/0",
+    "mead/6",
+    "erie/5",
+    "longmont/5",
+    "longmont/8",
+    "erie/3",
+    "erie/4"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "mead/0"
+     ],
+     "site": false
+    }
+   }
+  }
+ },
+ "zips": {
+  "80023": "Broomfield",
+  "80301": "Boulder",
+  "80503": "Boulder",
+  "80204": "Denver",
+  "80249": "Denver",
+  "80219": "Denver",
+  "80202": "Denver",
+  "80305": "Boulder",
+  "80544": "Boulder",
+  "80293": "Denver",
+  "80302": "Boulder",
+  "80516": "Weld",
+  "80027": "Boulder",
+  "80206": "Denver",
+  "80020": "Broomfield",
+  "80246": "Denver",
+  "80237": "Denver",
+  "80220": "Denver",
+  "80303": "Boulder",
+  "80025": "Boulder",
+  "80207": "Denver",
+  "80290": "Denver",
+  "80216": "Denver",
+  "80239": "Denver",
+  "80501": "Boulder",
+  "80205": "Denver",
+  "80212": "Denver",
+  "80236": "Denver",
+  "80466": "Boulder",
+  "80510": "Boulder",
+  "80223": "Denver",
+  "80238": "Denver",
+  "80211": "Denver",
+  "80304": "Boulder",
+  "80026": "Boulder",
+  "80540": "Boulder",
+  "80504": "Weld",
+  "80471": "Boulder",
+  "80310": "Boulder",
+  "80203": "Denver",
+  "80230": "Denver",
+  "80294": "Denver",
+  "80247": "Denver",
+  "80231": "Denver",
+  "80224": "Denver",
+  "80222": "Denver",
+  "80481": "Boulder",
+  "80455": "Boulder",
+  "80209": "Denver",
+  "80210": "Denver",
+  "80218": "Denver",
+  "80264": "Denver"
+ }
+}

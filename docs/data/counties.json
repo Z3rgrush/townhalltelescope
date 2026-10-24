@@ -1,0 +1,472 @@
+{
+ "counties": {
+  "Douglas": {
+   "governments": [
+    {
+     "name": "Douglas County Commission",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Lawrence",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "lawrence/1",
+    "douglas-county/6",
+    "lawrence/14",
+    "douglas-county/2",
+    "lawrence/6",
+    "lawrence/8",
+    "lawrence/15",
+    "douglas-county/1",
+    "douglas-county/3",
+    "lawrence/0",
+    "lawrence/5",
+    "lawrence/10"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "lawrence/0"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Johnson": {
+   "governments": [
+    {
+     "name": "Johnson County",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "De Soto",
+     "share": 0.989,
+     "has_records": false
+    },
+    {
+     "name": "Edgerton",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Fairway",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Gardner",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Lake Quivira",
+     "share": 0.732,
+     "has_records": true
+    },
+    {
+     "name": "Leawood",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Lenexa",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Merriam",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Mission",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Mission Hills",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Mission Woods",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Olathe",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Overland Park",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Prairie Village",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Roeland Park",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Shawnee",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Spring Hill",
+     "share": 0.793,
+     "has_records": true
+    },
+    {
+     "name": "Westwood",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Westwood Hills",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [
+    "edgerton/0",
+    "merriam/0",
+    "spring-hill/5",
+    "johnson-county/3",
+    "olathe/9",
+    "johnson-county/4",
+    "gardner/4",
+    "spring-hill/3",
+    "johnson-county/2",
+    "gardner/6",
+    "olathe/2",
+    "olathe/3"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "edgerton/0",
+      "edgerton/1",
+      "lenexa/12"
+     ],
+     "site": true
+    }
+   }
+  },
+  "Miami": {
+   "governments": [
+    {
+     "name": "Miami County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Spring Hill",
+     "share": 0.207,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "spring-hill/5",
+    "spring-hill/3",
+    "spring-hill/0",
+    "spring-hill/8",
+    "spring-hill/2",
+    "spring-hill/9",
+    "spring-hill/7",
+    "spring-hill/6",
+    "spring-hill/10",
+    "spring-hill/1",
+    "spring-hill/4"
+   ],
+   "tagged": {}
+  },
+  "Riley": {
+   "governments": [
+    {
+     "name": "Riley County Commission",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Manhattan",
+     "share": 0.94,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "riley-county/1",
+    "riley-county/2",
+    "riley-county/5",
+    "riley-county/3",
+    "riley-county/7",
+    "riley-county/10",
+    "manhattan/0",
+    "riley-county/0",
+    "riley-county/6",
+    "manhattan/1",
+    "manhattan/2",
+    "manhattan/4"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "riley-county/0"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Saline": {
+   "governments": [
+    {
+     "name": "Saline County Commission",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Salina",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "saline-county/0",
+    "salina/1",
+    "salina/0",
+    "saline-county/2",
+    "saline-county/3",
+    "saline-county/5",
+    "salina/2",
+    "salina/3",
+    "salina/9",
+    "saline-county/1",
+    "saline-county/4",
+    "salina/4"
+   ],
+   "tagged": {}
+  },
+  "Sedgwick": {
+   "governments": [
+    {
+     "name": "Sedgwick County Commission",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Wichita",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "wichita/1",
+    "wichita/11",
+    "sedgwick-county/10",
+    "wichita/2",
+    "wichita/13",
+    "sedgwick-county/4",
+    "wichita/8",
+    "sedgwick-county/2",
+    "wichita/0",
+    "wichita/4",
+    "sedgwick-county/7",
+    "sedgwick-county/8"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "sedgwick-county/0"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Shawnee": {
+   "governments": [
+    {
+     "name": "Shawnee County Commission",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Topeka",
+     "share": 1.0,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "shawnee-county/1",
+    "shawnee-county/6",
+    "shawnee-county/3",
+    "shawnee-county/7",
+    "topeka/5",
+    "topeka/3",
+    "shawnee-county/4",
+    "topeka/9",
+    "topeka/4",
+    "shawnee-county/8",
+    "topeka/6",
+    "topeka/10"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "shawnee-county/0",
+      "topeka/0",
+      "topeka/1",
+      "topeka/2"
+     ],
+     "site": false
+    }
+   }
+  },
+  "Wyandotte": {
+   "governments": [
+    {
+     "name": "Unified Government (KCK / Wyandotte County)",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Bonner Springs",
+     "share": 0.957,
+     "has_records": true
+    },
+    {
+     "name": "Edwardsville",
+     "share": 1.0,
+     "has_records": true
+    },
+    {
+     "name": "Lake Quivira",
+     "share": 0.268,
+     "has_records": true
+    }
+   ],
+   "issues": [
+    "unified-government/0",
+    "unified-government/1",
+    "bonner-springs/6",
+    "unified-government/4",
+    "edwardsville/0",
+    "unified-government/2",
+    "unified-government/9",
+    "bonner-springs/2",
+    "bonner-springs/3",
+    "edwardsville/2",
+    "unified-government/5",
+    "unified-government/8"
+   ],
+   "tagged": {}
+  }
+ },
+ "zips": {
+  "66013": "Miami",
+  "66018": "Johnson",
+  "66019": "Johnson",
+  "66021": "Johnson",
+  "66025": "Douglas",
+  "66030": "Johnson",
+  "66031": "Johnson",
+  "66044": "Douglas",
+  "66045": "Douglas",
+  "66046": "Douglas",
+  "66047": "Douglas",
+  "66049": "Douglas",
+  "66061": "Johnson",
+  "66062": "Johnson",
+  "66083": "Miami",
+  "66085": "Johnson",
+  "66101": "Wyandotte",
+  "66102": "Wyandotte",
+  "66103": "Wyandotte",
+  "66104": "Wyandotte",
+  "66105": "Wyandotte",
+  "66106": "Wyandotte",
+  "66109": "Wyandotte",
+  "66111": "Wyandotte",
+  "66112": "Wyandotte",
+  "66115": "Wyandotte",
+  "66118": "Wyandotte",
+  "66202": "Johnson",
+  "66203": "Johnson",
+  "66204": "Johnson",
+  "66205": "Johnson",
+  "66206": "Johnson",
+  "66207": "Johnson",
+  "66208": "Johnson",
+  "66209": "Johnson",
+  "66210": "Johnson",
+  "66211": "Johnson",
+  "66212": "Johnson",
+  "66213": "Johnson",
+  "66214": "Johnson",
+  "66215": "Johnson",
+  "66216": "Johnson",
+  "66217": "Johnson",
+  "66218": "Johnson",
+  "66219": "Johnson",
+  "66220": "Johnson",
+  "66221": "Johnson",
+  "66223": "Johnson",
+  "66224": "Johnson",
+  "66226": "Johnson",
+  "66227": "Johnson",
+  "66502": "Riley",
+  "66503": "Riley",
+  "66506": "Riley",
+  "66603": "Shawnee",
+  "66604": "Shawnee",
+  "66605": "Shawnee",
+  "66606": "Shawnee",
+  "66607": "Shawnee",
+  "66608": "Shawnee",
+  "66609": "Shawnee",
+  "66610": "Shawnee",
+  "66611": "Shawnee",
+  "66612": "Shawnee",
+  "66614": "Shawnee",
+  "66615": "Shawnee",
+  "66616": "Shawnee",
+  "66618": "Shawnee",
+  "66621": "Shawnee",
+  "66622": "Shawnee",
+  "67202": "Sedgwick",
+  "67203": "Sedgwick",
+  "67204": "Sedgwick",
+  "67205": "Sedgwick",
+  "67206": "Sedgwick",
+  "67207": "Sedgwick",
+  "67208": "Sedgwick",
+  "67209": "Sedgwick",
+  "67210": "Sedgwick",
+  "67211": "Sedgwick",
+  "67212": "Sedgwick",
+  "67213": "Sedgwick",
+  "67214": "Sedgwick",
+  "67215": "Sedgwick",
+  "67216": "Sedgwick",
+  "67217": "Sedgwick",
+  "67218": "Sedgwick",
+  "67219": "Sedgwick",
+  "67220": "Sedgwick",
+  "67223": "Sedgwick",
+  "67226": "Sedgwick",
+  "67230": "Sedgwick",
+  "67235": "Sedgwick",
+  "67260": "Sedgwick",
+  "67401": "Saline"
+ }
+}

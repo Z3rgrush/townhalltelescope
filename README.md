@@ -1,6 +1,8 @@
 # Town Hall Telescope
 
-An interactive map of what local governments are discussing, by zip code. There are two regions: the Kansas side of the Kansas City area (`docs/`) and the Boulder / Denver area (`docs/co/`). Click a zip code to see the specific issues most discussed in its city council, county commission and planning meetings over the last three months.
+An interactive map of what local governments are discussing, by county. There are two pages: Kansas (`docs/`) and Colorado (`docs/co/`). Click a county, or search for one by name or zip code, to see the specific issues most discussed by its county commission and the city councils inside it over the last three months.
+
+Each county shows its county government plus every tracked city with at least 10% of its land in the county. `scripts/county_places.py` (the county-places workflow) picks the mapped counties and writes `county_places.csv`, `zip_counties.csv` and `counties.geojson`. Zips are still collected and used for search; `build_map.py` also still writes the older per-zip files.
 
 Kansas scope: 96 zip codes in Johnson and Wyandotte counties plus the state's other largest cities (Wichita, Topeka, Lawrence, Manhattan, Salina). Each city's county commission is collected too (Sedgwick, Shawnee, Douglas, Riley, Saline). Wichita's own site blocks automated requests, so its records come from its public Granicus archive instead; `scripts/county_shares.py` (the county-shares workflow) fills in how much of each zip lies in each county.
 

@@ -2,8 +2,10 @@
 
 An issue's weight is the number of distinct meeting dates where it came up. A zip gets issues
 from every government that covers part of it, scaled down when that government covers only a
-small share of the zip. Writes docs/data/issues.json (every issue, by id), docs/data/zips.json
-(each zip's governments and ranked issue ids) and docs/data/zips.geojson.
+small share of the zip. Counties work the same way, from each county government and the tracked
+cities with land in the county. Writes docs/data/issues.json (every issue, by id),
+docs/data/counties.json (each county's governments and ranked issue ids, plus zip -> county for
+search), docs/data/counties.geojson, and the older per-zip zips.json and zips.geojson.
 Run with --region ks (default) or --region co; paths come from collector/regions.py.
 """
 import argparse
@@ -20,6 +22,7 @@ sys.path.insert(0, str(ROOT / "collector"))
 from regions import REGIONS  # noqa: E402
 
 TOP = 8
+TOP_COUNTY = 12
 
 # Census place name -> source id in the region's sources file
 KS_PLACES = {
@@ -172,6 +175,55 @@ def tagged(z, ranked):
     return out
 
 
+def county_governments(data, setup):
+    """county -> list of (source id or None, display name, share of the city's land in the county).
+    The county government comes first, then the tracked cities with land in the county."""
+    out = defaultdict(dict)
+    for county, source in setup["county_govs"].items():
+        out[county][source] = (NAMES.get(source, source), 1.0)
+    for r in csv.DictReader((data / "county_places.csv").open()):
+        out.setdefault(r["county"], {})
+        source = setup["places"].get(r["city"])
+        # A city that barely crosses the line (Bonner Springs into Johnson) stays with its main county.
+        if source and source not in out[r["county"]] and float(r["share_of_city_area"]) >= 0.1:
+            out[r["county"]][source] = (NAMES.get(source, source), float(r["share_of_city_area"]))
+    result = {}
+    for county, govs in out.items():
+        lead = [] if county in setup["county_govs"] else [(None, f"{county} County", 1.0)]
+        result[county] = lead + [(s, n, sh) for s, (n, sh) in govs.items()]
+    return result
+
+
+def rank(govs, issues):
+    ranked = []
+    for source, share in govs:
+        weight = min(1.0, 0.4 + share * 1.5)
+        for it in issues.get(source, []):
+            score = it["meetings"] * weight * (1.25 if it["public_comment"] else 1)
+            ranked.append((score, it))
+    ranked.sort(key=lambda t: -t[0])
+    return ranked
+
+
+def build_counties(data, setup, issues):
+    zip_county = {r["zip"]: r["county"] for r in csv.DictReader((data / "zip_counties.csv").open())}
+    out = {}
+    for county, govs in sorted(county_governments(data, setup).items()):
+        ranked = rank([(s, sh) for s, _, sh in govs if s], issues)
+        tags = {}
+        for _, it in ranked:
+            for t in it["tags"]:
+                entry = tags.setdefault(t, {"ids": [], "site": False})
+                entry["ids"].append(it["id"])
+                entry["site"] |= zip_county.get(it["site_zip"]) == county
+        out[county] = {
+            "governments": [{"name": n, "share": round(sh, 3), "has_records": s in issues} for s, n, sh in govs],
+            "issues": [it["id"] for _, it in ranked[:TOP_COUNTY]],
+            "tagged": tags,
+        }
+    return {"counties": out, "zips": {z: c for z, c in zip_county.items() if c in out}}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--region", default="ks", choices=sorted(REGIONS))
@@ -183,13 +235,7 @@ def main():
     issues = load_issues(data, index)
     out = {}
     for z, govs in sorted(zip_governments(data, SETUP[args.region]).items()):
-        ranked = []
-        for source, share in govs:
-            weight = min(1.0, 0.4 + share * 1.5)
-            for it in issues.get(source, []):
-                score = it["meetings"] * weight * (1.25 if it["public_comment"] else 1)
-                ranked.append((score, it))
-        ranked.sort(key=lambda t: -t[0])
+        ranked = rank(govs, issues)
         out[z] = {
             "governments": [{"name": NAMES.get(s, s), "share": round(sh, 3),
                              "has_records": s in issues} for s, sh in govs],
@@ -204,8 +250,11 @@ def main():
     for f in geo["features"]:
         f["properties"] = {"zip": f["properties"]["ZCTA5CE10"]}
     (out_dir / "zips.geojson").write_text(json.dumps(geo, separators=(",", ":")))
+    counties = build_counties(data, SETUP[args.region], issues)
+    (out_dir / "counties.json").write_text(json.dumps(counties, indent=1))
+    (out_dir / "counties.geojson").write_text((data / "counties.geojson").read_text())
     total = sum(len(v) for v in issues.values())
-    print(f"{len(out)} zips, {total} issues from {len(issues)} governments")
+    print(f"{len(counties['counties'])} counties, {len(out)} zips, {total} issues from {len(issues)} governments")
 
 
 if __name__ == "__main__":

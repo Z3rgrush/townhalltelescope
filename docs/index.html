@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Town Hall Telescope</title>
-<meta name="description" content="What local governments in Johnson and Wyandotte counties and Kansas's largest cities have been discussing, by zip code.">
+<meta name="description" content="What local governments in the Kansas City area and Kansas's largest cities have been discussing, by county.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap" rel="stylesheet">
@@ -93,33 +93,35 @@ a { color: var(--accent); }
 </head>
 <body>
 <div class="app">
-  <div id="map" role="application" aria-label="Map of zip codes"></div>
+  <div id="map" role="application" aria-label="Map of counties"></div>
   <aside>
     <h1>Town Hall Telescope</h1>
-    <nav class="regions" aria-label="Regions"><a href="./" aria-current="page">Kansas City area</a><a href="co/">Boulder / Denver area</a></nav>
-    <p class="lede">What city councils and county commissions in Johnson and Wyandotte counties, plus Wichita, Topeka, Lawrence, Manhattan and Salina and their counties, have been talking about. Tap a zip code, or type one.</p>
-    <form id="find"><input id="zip" inputmode="numeric" maxlength="5" placeholder="Zip code, e.g. 66205" aria-label="Zip code"><button>Show</button></form>
+    <nav class="regions" aria-label="Regions"><a href="./" aria-current="page">Kansas</a><a href="co/">Colorado</a></nav>
+    <p class="lede">What city councils and county commissions in the Kansas City area and in Wichita, Topeka, Lawrence, Manhattan and Salina have been talking about, by county. Tap a county, or type its name or a zip code.</p>
+    <form id="find"><input id="zip" placeholder="County or zip, e.g. Johnson or 66205" aria-label="County name or zip code"><button>Show</button></form>
     <button type="button" class="toggle" id="dc" aria-pressed="false">Highlight data center talk</button>
-    <div id="detail"><p class="empty">Darker zips had more of their local issues come up at more meetings.</p></div>
+    <div id="detail"><p class="empty">Darker counties had more of their local issues come up at more meetings.</p></div>
     <p class="note" id="about"></p>
   </aside>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 // What differs between the region pages. The rest of this file is shared: keep co/index.html in step.
-const PAGE = {area: "Johnson and Wyandotte counties and in Wichita, Topeka, Lawrence, Manhattan and Salina", bins: [20, 26, 31]};
+const PAGE = {area: "Johnson, Wyandotte, Miami, Sedgwick, Shawnee, Douglas, Riley and Saline counties", bins: [30, 40, 50]};
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString("en-US", {month: "short", day: "numeric", year: "numeric"});
+const slug = s => s.toLowerCase().replace(/[^a-z]+/g, "-");
 
-Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u => fetch(u).then(r => r.json())))
-.then(([geo, zips, issues]) => {
+Promise.all(["data/counties.geojson", "data/counties.json", "data/issues.json"].map(u => fetch(u).then(r => r.json())))
+.then(([geo, data, issues]) => {
+  const counties = data.counties;
   const dates = Object.values(issues).flatMap(i => i.sources.map(s => s.date)).sort();
   document.getElementById("about").innerHTML =
     `Built from public agendas and minutes dated ${fmtDate(dates[0])} to ${fmtDate(dates[dates.length - 1])}. ` +
     `Issue summaries were written by AI from those documents and can contain mistakes, so follow the source links before relying on one. ` +
     `Governments shown crossed out have no records collected yet. <a href="https://github.com/Z3rgrush/townhalltelescope">Source and data</a>.`;
 
-  const heat = z => (zips[z]?.issues || []).reduce((n, id) => n + issues[id].meetings, 0);
+  const heat = c => (counties[c]?.issues || []).reduce((n, id) => n + issues[id].meetings, 0);
   const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
   const [b2, b3, b4] = PAGE.bins;
   const color = h => css(h >= b4 ? "--z4" : h >= b3 ? "--z3" : h >= b2 ? "--z2" : h >= 1 ? "--z1" : "--z0");
@@ -130,21 +132,21 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
   }).addTo(map);
 
   let selected = null, highlight = false;
-  const dc = z => zips[z]?.tagged?.["data-center"];
-  const siteZips = Object.values(zips).filter(v => v.tagged?.["data-center"]?.site).length;
-  const fill = z => !highlight ? color(heat(z)) : dc(z) ? css(dc(z).site ? "--hl" : "--hl-soft") : css("--off");
+  const dc = c => counties[c]?.tagged?.["data-center"];
+  const siteCounties = Object.values(counties).filter(v => v.tagged?.["data-center"]?.site).length;
+  const fill = c => !highlight ? color(heat(c)) : dc(c) ? css(dc(c).site ? "--hl" : "--hl-soft") : css("--off");
   const style = f => ({
-    color: f.properties.zip === selected ? css("--ink") : css("--panel"),
-    weight: f.properties.zip === selected ? 3 : 1,
-    fillColor: fill(f.properties.zip), fillOpacity: highlight && !dc(f.properties.zip) ? 0.45 : 0.72
+    color: f.properties.county === selected ? css("--ink") : css("--panel"),
+    weight: f.properties.county === selected ? 3 : 1.5,
+    fillColor: fill(f.properties.county), fillOpacity: highlight && !dc(f.properties.county) ? 0.45 : 0.62
   });
   const layers = {};
   const layer = L.geoJSON(geo, {
     style,
     onEachFeature: (f, l) => {
-      layers[f.properties.zip] = l;
-      l.bindTooltip(f.properties.zip, {sticky: true});
-      l.on("click", () => show(f.properties.zip));
+      layers[f.properties.county] = l;
+      l.bindTooltip(f.properties.county + " County", {sticky: true});
+      l.on("click", () => show(f.properties.county));
     }
   }).addTo(map);
   map.fitBounds(layer.getBounds(), {padding: [10, 10]});
@@ -153,25 +155,33 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
   let legendBox;
   const drawLegend = () => {
     legendBox.innerHTML = highlight
-      ? "<b>Data center discussions</b><br>" + [["--hl", "site is in this zip"], ["--hl-soft", "a local government here discussed one"], ["--off", "none found"]]
-          .filter(([v]) => v !== "--hl" || siteZips).map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>")
+      ? "<b>Data center discussions</b><br>" + [["--hl", "site is in this county"], ["--hl-soft", "a local government here discussed one"], ["--off", "none found"]]
+          .filter(([v]) => v !== "--hl" || siteCounties).map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>")
       : "<b>Meetings covering top issues</b><br>" + [["--z0", "no records yet"], ["--z1", `1–${b2 - 1}`], ["--z2", `${b2}–${b3 - 1}`], ["--z3", `${b3}–${b4 - 1}`], ["--z4", `${b4}+`]]
           .map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>");
   };
   legend.onAdd = () => { legendBox = L.DomUtil.create("div", "legend"); drawLegend(); return legendBox; };
   legend.addTo(map);
 
-  function show(z, pan) {
-    const info = zips[z];
+  // A search can be a county name ("Johnson", "Johnson County") or a zip code inside one.
+  const find = q => {
+    q = q.trim();
+    if (data.zips[q]) return data.zips[q];
+    const name = q.replace(/\s+county$/i, "").toLowerCase();
+    return Object.keys(counties).find(c => c.toLowerCase() === name || slug(c) === name);
+  };
+
+  function show(c, pan) {
+    const info = counties[c];
     const box = document.getElementById("detail");
-    if (!info) { box.innerHTML = `<p class="empty">${esc(z)} isn't in this pilot yet. It covers zip codes in ${PAGE.area}.</p>`; return; }
-    selected = z;
+    if (!info) { box.innerHTML = `<p class="empty">That isn't in this pilot yet. It covers ${PAGE.area}.</p>`; return; }
+    selected = c;
     layer.setStyle(style);
-    layers[z].bringToFront();
-    if (pan) map.fitBounds(layers[z].getBounds(), {maxZoom: 13});
-    history.replaceState(null, "", "#" + z + (highlight ? "&datacenters" : ""));
+    layers[c].bringToFront();
+    if (pan) map.fitBounds(layers[c].getBounds(), {maxZoom: 11});
+    history.replaceState(null, "", "#" + slug(c) + (highlight ? "&datacenters" : ""));
     const govs = info.governments.map(g =>
-      `<li class="${g.has_records ? "" : "none"}" title="${Math.round(g.share * 100)}% of the zip's area${g.has_records ? "" : " · no records collected yet"}">${esc(g.name)}</li>`).join("");
+      `<li class="${g.has_records ? "" : "none"}"${g.share < 1 ? ` title="${Math.round(g.share * 100)}% of the city is in this county"` : ""}${g.has_records ? "" : ' title="no records collected yet"'}>${esc(g.name)}</li>`).join("");
     const card = id => {
       const it = issues[id];
       const src = it.sources.map(s =>
@@ -187,14 +197,14 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
         <details><summary>Source documents (${it.sources.length})</summary><ul>${src}</ul></details>
       </article>`;
     };
-    const dcIds = dc(z)?.ids || [];
+    const dcIds = dc(c)?.ids || [];
     const callout = highlight && dcIds.length ? `<section class="callout"><h4>Data center discussions</h4>
-      <p>${dc(z).site ? "A data center site discussed in public meetings is in this zip." : siteZips ? "The site is in a nearby zip, but a local government that covers this zip discussed it." : "A local government that covers this zip discussed data centers, though not a specific site."}</p>
+      <p>${dc(c).site ? "A data center site discussed in public meetings is in this county." : siteCounties ? "The site is in another county, but a local government here discussed data centers." : "A local government here discussed data centers, though not a specific site."}</p>
       ${dcIds.map(card).join("")}</section>` : "";
     const cards = callout + info.issues.filter(id => !(callout && dcIds.includes(id))).map(card).join("");
-    box.innerHTML = `<div class="zip-head"><h2>${esc(z)}</h2></div>
-      <ul class="govs" aria-label="Governments covering this zip">${govs}</ul>
-      ${cards || '<p class="empty">No issues found yet for the governments covering this zip.</p>'}`;
+    box.innerHTML = `<div class="zip-head"><h2>${esc(c)} County</h2></div>
+      <ul class="govs" aria-label="Governments in this county">${govs}</ul>
+      ${cards || '<p class="empty">No issues found yet for the governments in this county.</p>'}`;
   }
 
   const toggle = document.getElementById("dc");
@@ -205,17 +215,18 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/issues.json"].map(u =>
     drawLegend();
     if (selected) show(selected);
     else if (on) document.getElementById("detail").innerHTML =
-      `<p class="empty">${siteZips ? `${siteZips} zips hold a data center site that came up in public meetings, and ` : "No specific data center site came up, but "}${Object.values(zips).filter(v => v.tagged?.["data-center"]).length} zips ${siteZips ? "in all " : ""}are covered by a local government that discussed ${siteZips ? "one" : "data centers"}. Tap an orange zip for details.</p>`;
+      `<p class="empty">${siteCounties ? `${siteCounties} counties hold a data center site that came up in public meetings, and ` : "No specific data center site came up, but "}${Object.values(counties).filter(v => v.tagged?.["data-center"]).length} counties ${siteCounties ? "in all " : ""}have a local government that discussed ${siteCounties ? "one" : "data centers"}. Tap an orange county for details.</p>`;
   };
   toggle.addEventListener("click", () => setHighlight(!highlight));
 
   document.getElementById("find").addEventListener("submit", e => {
     e.preventDefault();
-    show(document.getElementById("zip").value.trim(), true);
+    const q = document.getElementById("zip").value;
+    show(find(q) || q, true);
   });
   const [fromHash, flag] = location.hash.slice(1).split("&");
   if (flag === "datacenters" || fromHash === "datacenters") setHighlight(true);
-  if (zips[fromHash]) show(fromHash, true);
+  if (find(fromHash || "")) show(find(fromHash), true);
 })
 .catch(() => { document.getElementById("detail").innerHTML = '<p class="empty">The map data could not be loaded. Try refreshing.</p>'; });
 </script>
