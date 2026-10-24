@@ -4,13 +4,15 @@ from urllib.parse import urljoin
 import requests
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; townhalltelescope/0.1; +https://github.com/Z3rgrush/townhalltelescope)"}
-KEY = re.compile(r"minute|agenda|packet|meeting|document|viewfile|event|portal|\.pdf", re.I)
+KEY = re.compile(r"minute|agenda|packet|meeting|document|viewfile|getfile|event|portal|\.pdf", re.I)
 
 # A URL prefixed with "raw:" prints the start of the response body instead of its links; "full:" prints up to 60 KB.
 urls = sys.argv[1:]
 if not urls:
     urls = [r["minutes_url"] for r in csv.DictReader(open("data/sources.csv")) if r["minutes_url"]]
 for url in urls:
+    text = url.startswith("text:")
+    url = url.removeprefix("text:")
     full = url.startswith("full:")
     raw = full or url.startswith("raw:")
     url = url.removeprefix("raw:").removeprefix("full:")
@@ -20,6 +22,12 @@ for url in urls:
     except Exception as e:
         print("ERROR", e); continue
     print("status", r.status_code, "type", r.headers.get("content-type"), "len", len(r.text))
+    if text:
+        body = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", r.text)
+        body = re.sub(r"(?s)<[^>]+>", "\n", body)
+        print(re.sub(r"\s*\n\s*", "\n", body)[:6000])
+        print("...ALL LINKS:", *re.findall(r'href=["\']([^"\'#]+)', r.text)[:80], sep="\n")
+        continue
     if raw:
         print(r.text[:60000 if full else 3000])
         hits = re.findall(r".{0,120}(?:AMID|ADID|ViewFile|api/|apiUrl|baseUrl|MeetingID|meeting/).{0,160}", r.text)
