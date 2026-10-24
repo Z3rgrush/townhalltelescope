@@ -4,11 +4,12 @@ Window: 2026-07-26 to 2026-10-24
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Johnson County Board of County Commissioners | onbase | 4 | 4 | 3 | 1 |  |
+| Johnson County Board of County Commissioners | onbase | 20 | 20 | 15 | 5 |  |
 
 ## Logs
 
 ### Johnson County Board of County Commissioners
 ```
-  5 documents in window from 1 page(s)
+  search: 170 links, 32 meeting pages
+  32 documents in window from 34 page(s)
 ```
