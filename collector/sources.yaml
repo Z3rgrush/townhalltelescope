@@ -185,3 +185,12 @@
   county: Shawnee
   adapter: novus
   base: https://topeka.novusagenda.com/agendapublic
+
+- id: salina
+  name: Salina
+  county: Saline
+  adapter: cablecast
+  base: https://salina-tv.com
+  search: commission
+  titles: "Salina City Commission"
+  agenda_file: publicfiles/4

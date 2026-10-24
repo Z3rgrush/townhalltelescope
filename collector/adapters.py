@@ -303,7 +303,16 @@ def cablecast(src, start, end, log):
                 older += 1
                 continue
             older = 0
-            if d > end or not sh.get("vods") or not titles.search(sh["title"]):
+            if d > end or not titles.search(sh["title"]):
+                continue
+            body = re.split(r"\s+-\s+", sh["title"])[0].strip()
+            if src.get("agenda_file"):
+                # Some stations (Salina) attach the agenda PDF to each show instead of chaptering it.
+                n += 1
+                url = f"{src['base'].rstrip('/')}/cablecastapi/shows/{sh['id']}/{src['agenda_file']}"
+                yield Doc(src["id"], re.sub(r"\s+\w+ \d{1,2}, \d{4}$", "", body), d, sh["title"], url, "agenda")
+                continue
+            if not sh.get("vods"):
                 continue
             vtt = get(f"{api}/vods/{sh['vods'][0]}/chapters")
             if not vtt.ok:
@@ -313,7 +322,6 @@ def cablecast(src, start, end, log):
             if not items:
                 continue
             n += 1
-            body = re.split(r"\s+-\s+", sh["title"])[0].strip()
             url = f"{api}/vods/{sh['vods'][0]}/chapters"
             text = f"{sh['title']}\nAgenda items (from the meeting video's chapters):\n" + "\n".join(items)
             yield Doc(src["id"], body, d, sh["title"], url, "agenda", {"text": text})
