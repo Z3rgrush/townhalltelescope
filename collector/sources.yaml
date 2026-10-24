@@ -242,3 +242,4 @@
   adapter: civicweb
   base: https://douglascountyks.civicweb.net
   bodies: "Commission"
+  folders: [/filepro/documents/5666, /filepro/documents/1009]

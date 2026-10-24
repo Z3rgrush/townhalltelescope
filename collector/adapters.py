@@ -38,6 +38,8 @@ def civicweb(src, start, end, log):
             d = find_date(text)
             if _in_window(d, start, end):
                 meetings[href] = (body, text, d)
+    # Some portals (Douglas County) file agendas and minutes in top-level folders not tied to a body.
+    folders += [("County Commission", urljoin(base + "/", f)) for f in src.get("folders", [])]
     seen = set()
 
     def emit(body_name, title, url, d):
