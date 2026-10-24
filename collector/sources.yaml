@@ -235,3 +235,10 @@
   search: Saline County Commission
   titles: "^Saline County Commission"
   agenda_file: publicfiles/4
+
+- id: douglas-county
+  name: Douglas County Commission
+  county: Douglas
+  adapter: civicweb
+  base: https://douglascountyks.civicweb.net
+  bodies: "Commission"
