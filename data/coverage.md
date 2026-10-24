@@ -4,11 +4,11 @@ Window: 2026-07-26 to 2026-10-24
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Topeka | granicus | 11 | 11 | 6 | 5 |  |
+| Salina | cablecast | 8 | 8 | 8 | 0 |  |
 
 ## Logs
 
-### Topeka
+### Salina
 ```
-  19 documents in window
+  8 meeting videos with chapters in window
 ```
