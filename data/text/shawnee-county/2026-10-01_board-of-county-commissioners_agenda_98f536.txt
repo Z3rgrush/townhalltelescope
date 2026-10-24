@@ -1,0 +1,1554 @@
+BOARD OF COUNTY 
+COMMISSIONERS 
+ 
+ 
+ 
+ 
+Commission Chambers 
+707 SE Quincy Street 
+ 
+ 
+ 
+ 
+ 
+AGENDA 
+October 1, 2026 9:00 AM 
+Watch LIVE meetings at 
+https://www.youtube.com/user/ShawneeCountyKS 
+Members 
+Commissioner Bill Riphahn 
+Commissioner Kevin Cook 
+Commissioner Aaron Mays 
+ 
+I. PRESENTATIONS 
+II. UNFINISHED BUSINESS 
+III. CONSENT AGENDA 
+A. Consider approval of Contract C2026337 with Choice Solutions for the purchase of six 
+additional WiFi access points and license subscriptions for the DOC at a cost of $7,069.56. 
+– Information Technology 
+B. Consider approval of Contract C2026338 for 14 Otter Enterprise licenses and support at  
+a cost of $6,776.00, which will be paid for by the departments that use the software. — 
+Information Technology 
+C. Consider approval of Contract C2026339 with Choice Solutions for the purchase of one 
+WiFi access point and license subscription for Parks + Rec to be used at the Kansas 
+Complex at a cost of $1,178.26. – Information Technology 
+D. Acknowledge receipt and approval of Shawnee County Fire District #3 Treasurer's Bond. 
+— County Clerk 
+E. Consider approval of Resolution No. R2026091 assessing annual delinquent sewer fees 
+for the period from October 1, 2025, through September 30, 2026. — Public Works 
+F. Acknowledgment of $250.00 payment for sponsorship of Woolly Farms Foundation Golf 
+Invitational from the Diversion Fund. — District Attorney 
+G. Consider approval of the following regarding the Smoke on the Water Event to be held at 
+the Lake Shawnee Campgrounds on October 9, 2026. — Parks + Recreation 
+a) Contract C2026340 with 785 Beer Company LLC to provide and sell alcoholic 
+and cereal malt beverages, and Resolution R2026092 temporarily exempting 
+certain County property from restrictions on selling, serving, possessing or 
+consuming alcoholic liquor and/or cereal malt beverages. 
+b) Contract C2026341, a Memorandum of Understanding with Tarwater Farm and 
+Home Supply to establish the Barbeque Bucks terms and conditions under which 
+the vendor will participate as a food vendor in the competition. 
+c) Contract C2026342, a Memorandum of Understanding with 785 Beer Company to 
+establish the Barbeque Bucks terms and conditions under which the vendor will 
+participate as a food vendor in the competition. 
+Page 1 of 137
+H. Consider acceptance of the August 2026 bank reconciliation report. — Treasurer 
+I. Consider approving two Community Corrections Division Managers to travel to Pittsburgh, 
+Pennsylvania, October 13–15, 2026, to attend the 2026 Youth Justice in Action 
+Conference. No Shawnee County funds or Community Corrections state grant funds will  be 
+used for this travel. — Department of Corrections 
+J. Consider approving Community Corrections changing one Office Assistant I (OA I) position 
+to an Office Assistant II (OA II) position to align the position's classification and 
+responsibilities with the current needs of the department. The position will continue to be 
+funded through the existing Juvenile Grant (33%), Adult Grant (34%), and County (33%) 
+funding sources. — Department of Corrections 
+K. Acknowledge the Shawnee County Ambulance Compliance Report that American Medical 
+Response is in compliance for July 2026 and AMR will be charged $3,580.00. — 
+Emergency Management 
+L. Consider approval to authorize payment of $5,120.00 per agreement with the United 
+States Geological Survey for the Wakarusa Streamgage operating costs with funding from 
+the Emergency Management 2026 budget. — Emergency Management 
+M. Consider approval for Emergency Management to apply for the Emergency Management 
+Performance Grant (EMPG) for 2026. — Emergency Management 
+N. Consider approval to utilize contingency funds in the amount of $41,645.70 for the Outdoor 
+Warning Sirens. — Emergency Management 
+O. Consider approval of Contract C2026343 with Imperva for the annual renewal of 
+subscription software to protect the court from various cyber incidents. Subscription will run 
+for a period of 12 months from October 16, 2026, through October 15, 2027, at a cost of 
+$20,313.75, with funding from the 2026 Court Administration budget. — Court 
+Administration 
+P. Consider approval of Contract C2026323 with Culligan of Topeka, to be funded by the 
+individual department utilizing the agreement. (Previously pulled from the 9/10/2026 
+Commission agenda). — Facilities Maintenance 
+IV. NEW BUSINESS 
+A. COUNTY CLERK – Lisa Schmitt 
+1. Consider all voucher payments. 
+2. Consider correction orders. 
+B. PUBLIC WORKS - Curt Niehaus 
+1. Consider a request to solicit bids for, or to waive bidding procedures and direct 
+purchase, various road and culvert maintenance materials for 2027 and the winter of 
+2027/2028. Funding for these materials will come from various sources, but most 
+often from the 2027 and 2028 Public Works Operating Budget. 
+2. Consider awarding to Martin Marietta of Overland Park, KS, Contract C2026346 for a 
+bid of 3,500 cu. yds. of lightweight aggregate for use in 2027. 
+Page 2 of 137
+3. Consider approval to issue a "Request for Qualifications" for design and construction 
+engineering services related to a bridge replacement project on NW 86th Street over 
+Cross Creek (OSN-013). 
+C. DEPARTMENT OF CORRECTIONS - Brian Cole 
+1. Consider approval of Contract C2026344 to provide polygraph services for employee 
+candidates within detention centers, at $170.00 per exam, to be paid from the 
+detention budget. 
+D. HEALTH DEPARTMENT - Teresa Fisher 
+1. Consider approval of Contract C2026345 with Custom Data Processing (CDP for 
+ezEMRx) Electronic Health Record (EHR) Software in the estimated amount of 
+$49,047.00 to be paid by program revenue, grants and the departmental budget. 
+E. PARKS + RECREATION - Tim Laurent 
+1. Consider approval of expenses for Gage Park using Gage Park Sales Tax Funds: 
+ 
+a) To pay invoices for an improvement project for tree removal work, budgeted at 
+     $17,595.00 with Heartland Tree Service. 
+ 
+b) To pay Signs To Go for eight “Welcome to Playland” signs at a cost of $600.00. 
+2. Consider approval to allow the department to solicit bids and/or proposals for the 
+purchase of supplies and equipment necessary for the operation of Parks + 
+Recreation programs and facilities in 2027. 
+V. PUBLIC COMMENT 
+VI. ADMINISTRATIVE COMMUNICATIONS 
+VII. EXECUTIVE SESSIONS 
+Page 3 of 137
+ 
+Information Technology 
+Marc Price 
+707 SE Quincy Street, Suite 200 
+Topeka, Kansas  66603 
+Ph. 785.251.4030 
+Email: Marc.Price@snco.gov 
+Website: www.snco.gov 
+Memorandum 
+Date: September 22, 2026 
+To: Board of County Commissioners 
+From: Marc Price, Information Technology Director 
+RE: Ruckus Wireless Access Points and Licenses 
+ 
+The Information Technology D epartment is requesting approval to purchase six additional WiFi 
+access points and six additional subscription license s for the Department of Corrections .  The 
+subscription licenses are for a three (3) year term through Choice Solutions.  
+ 
+The Department of Corrections will be responsible for the expense, which is $ 7,069.56.  The 
+County Counselor’s Office has approved this request as to form and legality. 
+ 
+I am happy to answer any questions you may have about this request. 
+ 
+MP:bmb 
+Page 4 of 137
+This Proposal Prepared Exclusively For
+Shawnee County IT Department
+Ruckus R670 AP + Ruckus One Essentials - 3 Yr. Term - Qty.
+6
+Proposal #032243
+Version 1
+Shawnee County Contract C2026337
+Page 5 of 137
+Prepared For
+Shawnee County IT Department
+Marc Price
+200 SE 7th St Suite 205
+Topeka, KS  66603
+marc.price@snco.us
+(785) 251-4103
+Prepared By
+Abbey Smith
+Phone: (913) 275-6949
+Email: asmith@choicesolutions.com
+EXTENDEDQTYPRICEHARDWARE
+Ruckus R670 Wi-Fi 7 Tri-Band Concurrent Wireless Access Point With
+2x2 (2.4GHZ) + 4x4 (5GHZ) + 2x2 (6GHZ) RF Configs. Wi-Fi 7 Support
+In All 3 Frequency Bands. 6ghz Band Supports LPI Mode And SP Mode
+With AFC. Fully Backward Compatible With Wi-Fi 6e
+$1,020.23 6 $6,121.38
+HARDWARE SUBTOTAL $6,121.38
+EXTENDEDQTYPRICESOFTWARE
+Ruckus One Essentials - Subscription License - 1 Access Point/Switch
+Device - 3 Year Term
+$158.03 6 $948.18
+SOFTWARE SUBTOTAL $948.18
+Page 6 of 137
+RECAP AMOUNT
+HARDWARE $6,121.38
+SOFTWARE $948.18
+TOTAL $7,069.56
+Proposal #032243, Version: 1
+This Proposal is valid for 30 days.
+Payment Terms: Net 30 Days from invoice date. Payment to be made with check, ACH, or wire or as otherwise agreed to 
+in writing. Credit card payments are subject to a 3% processing fee. 
+Shipping, handling, sales tax, tariffs and other applicable charges will be determined and added at invoicing.  We reserve 
+the right to cancel orders arising from pricing or other errors.
+This Proposal (the "Proposal") and the following or accompanying Statement of Work (as applicable) (the "Statement of 
+Work" or "SOW") is subject to and will be performed in accordance with that certain Master Services Agreement between 
+Choice Solutions, L.L.C. and the undersigned Customer dated 02/01/2023. Third-party products may be subject to 
+additional terms from the products’ vendors as provided at https://choicesolutions.com/vendorterms/, which is 
+incorporated herein by reference.
+IN WITNESS WHEREOF, the parties hereto have caused this Proposal and the following or accompanying Statement of 
+Work to be executed by their duly authorized representatives as of the date written below. This Proposal and the following 
+or accompanying Statement of Work may be executed in two or more counterparts each of which shall be deemed an 
+original, and all of which together shall constitute one and the same instrument. An electronic, facsimile or copy of a 
+signature shall be treated as an original.
+SHAWNEE COUNTY IT DEPARTMENT CHOICE SOLUTIONS, L.L.C.
+By: By:
+Name: Name:
+Title: Title:
+Date: Date:
+Page 7 of 137
+Rev. 01/2026 
+ATTACHMENT TO 
+SHAWNEE COUNTY CONTRACT C_________ 
+ 
+CONTRACTUAL PROVISIONS ATTACHMENT 
+The undersigned parties agree that the following provisions are hereby 
+incorporated into the contract to which it is attached and made a part thereof, 
+said contract being d ated the _______ day of ___________________, 
+20____. 
+ 
+1. TERMS HEREIN CONTROLLING PROVISIONS.  It is expressly agreed 
+that the terms of each and every provision in this attachment shall 
+prevail and control over the terms of any other conflicting provision in 
+any other document relating to and a part of the contract in which this 
+attachment is incorporated. 
+ 
+2.    AGREEMENT WITH KANSAS LAW. It is agreed by and between the 
+undersigned that all disputes and matters whatsoever arising under, in 
+connection with or incident to this contract shall be litigated, if at all, in 
+and before a Court located in the State of Kansas, U.S.A., to the 
+exclusion of the Courts of any other states or country.  All contractual 
+agreements shall be subject to, governed by, and construe d according to 
+the laws of the State of Kansas. 
+ 
+3. TERMINATION DUE TO LACK OF FUNDING 
+APPROPRIATION.  Shawnee County is subject to the Kansas Cash 
+Basis Law, K.S.A. 10 -1101 et seq.  If, in the judgment of the Financial 
+Administrator, Audit- Finance Office, sufficient funds are not 
+appropriated to continue the function performed in this agreement and 
+for the payment of the charges hereunder, County may terminate this 
+agreement at the end of its current fiscal year.  County agrees to give 
+written notice of termination to contractor at least thirty (30) days prior 
+to the end of its current fiscal year.  In the event this agreement is 
+terminated pursuant to this paragraph, County will pay to the contractor 
+all regular contractual payments incurred through the en d of such fiscal 
+year.  The termination of the contract pursuant to this paragraph shall 
+not cause any penalty to be charged to the County or the contractor.   
+ 
+4. DISCLAIMER OF LIABILITY.  Neither the County of Shawnee nor any 
+department thereof shall hol d harmless or indemnify any contractor for 
+any liability whatsoever. 
+ 
+5. ANTI-DISCRIMINATION CLAUSE.  The contractor agrees:  (a) to comply 
+with the Kansas Act Against Discrimination (K.S.A. 44 -1001 et seq .) 
+and the Kansas Age Discrimination in Employment Act, (K.S.A. 44 -
+1111 et seq .) and the applicable provisions of the Americans With 
+Disabilities Act (42 U.S.C. 12101 et seq.)  [ADA] and to not 
+discriminate against any person because of race, religion, color, sex, 
+disability, national origin or ancestry, o r age in the admission of access 
+to or treatment or employment in, its programs or activities; (b) to 
+include in all solicitations or advertisements for employees, the phrase 
+“equal opportunity employer”; (c) to comply with the reporting 
+requirements set o ut in K.S.A. 44 -1031 and K.S.A. 44 -1116; (d) to 
+include those provisions in every subcontract or purchase order so that 
+they are binding upon such subcontractor or vendor; (e) that a failure to 
+comply with the reporting requirements of (c) above or if the contractor 
+is found guilty of any violation of such acts by the Kansas Human 
+Rights Commission, such violation shall constitute a breach of contract; 
+(f) if the contracting agency determines that the contractor has violated 
+applicable provisions of ADA, that violation shall constitute a breach of 
+contract; (g) if (e) or (f) occurs, the contract may be cancelled, 
+terminated or suspended in whole or in part by the County. 
+ Parties to this contract understand that subsections (b) through (e) of 
+this paragraph number 5 are not applicable to a contractor who employs 
+fewer than four employees or whose contract with the County totals 
+$5,000 or less during this fiscal year. 
+6. ACCEPTANCE OF CONTRACT.  This contract shall not be considered 
+accepted, approved or otherwise effective until the required approvals 
+and certifications have been given and this is signed by the Board of 
+County Commissioners of the County of Shawnee, Kansas. 
+ 
+7. ARBITRATION, DAMAGES, WARRANTIES.  Notwithstanding any 
+language to the contrary, n o interpretation shall be allowed to find the 
+County has agreed to binding arbitration, or the payment of damages or 
+penalties upon the occurrence of a contingency.  Further, the County 
+shall not agree to pay attorney fees and late payment charges; and no 
+provisions will be given effect which attempts to exclude, modify, 
+disclaim or otherwise attempt to limit implied warranties of 
+merchantability and fitness for a particular purpose. 
+ 
+8. REPRESENTATIVE’S AUTHORITY TO CONTRACT.  By signing this 
+document, the  representative of the contractor thereby represents that 
+such person is duly authorized by the contractor to execute this 
+document on behalf of the contractor and that the contractor agrees to be 
+bound by the provisions thereof. 
+ 
+9. RESPONSIBILITY FOR TAXES.  To the extent that the County is exempt 
+from any federal, state or local taxes, the contractor will not invoice for 
+such expenses.  Any taxes which may be imposed or levied upon the 
+subject matter of this contract will be invoiced by the contr actor an d 
+payable by the county. 
+ 
+10. INSURANCE.  The County shall not be required to purchase, any 
+insurance against loss or damage to any personal property to which this 
+contract relates, nor shall this contract require the County to establish a 
+“self-insurance” fund to protect against any such loss or damage.  
+Subject to the provisions of the Kansas Tort Claims Act (K.S.A. 75 -
+6101 et seq .), the vendor or lessor shall bear the risk of any loss or 
+damage to any personal property to which vendor or lessor holds title. 
+ 
+11.  AUTOMATED CLEARING HOUSE (ACH). Shawnee County prefers to 
+pay its vendor invoices via electronic funds transfers through the 
+automated clearing house (ACH) network. Shawnee County may require 
+vendors to accept payments via ACH. To initiate paymen t of invoices, 
+vendors shall execute the County's standard ACH Vendor Payment 
+Authorization Agreement. Upon verification of the data provided, the 
+Payment Authorization Agreement will authorize the County to deposit 
+payment for services rendered or goods p rovided directly into vendor 
+accounts with financial institutions. All payments shall be made in 
+United States currency. 
+ 
+ 
+VENDOR/CONTRACTOR: 
+ 
+__________________________________________  
+By: 
+ 
+__________________________________________   
+Title: 
+ 
+__________________________________________  
+Date: 
+ 
+BOARD OF COUNTY COMMISSIONERS 
+         SHAWNEE COUNTY, KANSAS 
+ 
+_________________________________________   
+William D. Riphahn, Chair 
+ 
+_________________________________________  
+Date:  
+ 
+ATTEST: 
+ 
+_________________________________________  
+Lisa Schmitt, Shawnee County Clerk 
+Partner, Chief Operations Officer
+1/26/2026
+2026337
+Page 8 of 137
+From: Brzon, Jonathan
+To: Biltoft, Brandy
+Cc: Eckert, Rich
+Subject: RE: Wireless access points
+Date: Tuesday, September 22, 2026 12:20:31 PM
+Attachments: image001.png
+ 
+ 
+Approved as to form and legality.
+ 
+Jonathan Brzon
+Deputy Shawnee County Counselor
+707 SE Quincy, Room 310
+Topeka, Kansas  66603
+ 
+785.251.4202 (direct)
+785.251.4042 (office)
+www.snco.us/counselor/
+ 
+ 
+ 
+ 
+From: Biltoft, Brandy <Brandy.Biltoft@snco.us> 
+Sent: Tuesday, September 22, 2026 12:09 PM
+To: Brzon, Jonathan <Jonathan.Brzon@snco.us>
+Cc: Eckert, Rich <Rich.Eckert@snco.us>
+Subject: Wireless access points
+ 
+Good afternoon,
+Attached is a request for the purchase of additional wireless access points and licenses for use by
+the DOC.  Please review and let me know if there are any questions/concerns.
+Thank you.
+Brandy
+ 
+Brandy Biltoft
+Deputy Director
+Shawnee County Information Technology
+707 SE Quincy, RM 209
+Topeka, KS 66603
+Office: 785.251.4855
+ 
+Page 9 of 137
+ 
+Information Technology 
+Marc Price 
+707 SE Quincy Street, Suite 200 
+Topeka, Kansas  66603 
+Ph. 785.251.4030 
+Email: Marc.Price@snco.us 
+Website: www.snco.us 
+Memorandum 
+Date: September 25, 2026 
+To: Board of County Commissioners 
+From: Marc Price, Information Technology Director 
+RE: Otter.ai Enterprise Licenses and Support 
+ 
+The Information Technology D epartment is requesting approval for fourteen (14) Otter.ai 
+Enterprise licenses and support.  Otter.ai is a meeting transcription software.   
+ 
+Funding for the cost of each license will be provided by the departments that they serve.  Funding 
+for the Premier support will be covered by the Information Technology Department.  This request 
+has been approved by the County Counselor’s Office as to form and legality. 
+ 
+I will be happy to answer any questions you may have about this request. 
+ 
+MP:bmb 
+Page 10 of 137
+SERVICE ORDER
+Quote Number: Q009691
+Total Contract Value USD $6,776.00
+Otter.ai:
+Otter.ai, Inc.
+800 W El Camino Real, Ste 170
+Mountain View, CA 94040
+USA
+Customer Bill To:
+Shawnee County
+200 SE 7th St Ste SB10
+Topeka, KS
+66603
+United States
+Customer Ship To:
+Shawnee County
+200 SE 7th St Ste SB10
+Topeka, KS
+66603
+United States
+ jan@otter.aiEmail:
+ Jan van der KooijProposed By:
+ ********Workspace ID:
+Contact:
+Brandy Biltoft
+brandy.biltoft@snco.us
+Contact:
+Brandy Biltoft
+brandy.biltoft@snco.us
+SUBSCRIPTION DETAILS
+Service Term: 12 Months
+Billing Frequency: Annual
+Payment Term: Net 30
+Service Start Date: 10/1/2026
+Service End Date: 9/30/2027
+All rates are in USD
+Renewal rates are subject to change
+Quote Expires: Sep 30, 2026
+ORDER DETAILS
+Service Service Start Date* Service End Date* Unit Price Quantity Annual Price
+Otter Enterprise 10/1/2026 9/30/2027 USD $440.00 14 USD $6,160.00
+Premier support 10/1/2026 9/30/2027 10% 1 USD $616.00
+*If this Service Order is executed and/or returned to Otter.ai by Customer after the Service Start Date above, Otter.ai may adjust
+the Order Service Date and Service End Date, without increasing the Total Price, based on the date Otter.ai activates the
+service(s) and provided that the total term length does not change.
+The Customer is allowed up to 14 licenses (the 'Base Licenses") during the Subscription Term. If the Customer exceeds the
+number of Base Licenses during the Subscription Term, then the additional licenses in excess of the Base Licenses (the 'Overage
+Licenses") will be invoiced at USD $484.00 each (the 'Overage Subscription Price', which is equal to the sum of the contracted
+unit price and 10% premier support fee). The Overage Licenses will be invoiced at the Overage Subscription Price on a pro-rated
+basis for the remaining period of the Subscription Term.
+Shawnee County Contract C2026338
+Page 11 of 137
+Quote Number: Q009691
+Otter.ai, Inc.: Shawnee County:
+By: \s1\ By: \s2\
+Name: \n1\ Name: \n2\
+Title: \t1\ Title: \t2\
+Date: \d1\ Date: \d2\
+The total shown does not include any taxes that may apply. Any such taxes are the responsibility of the Customer. This is not an
+invoice.
+TERMS AND CONDITIONS
+This Service Order (Agreement) is made by and between Otter.ai, Inc. (Otter.ai) and Customer, named above and effective as of
+the Effective Date. This Agreement is effective as of the date last signed by Customer and Otter.ai below (Effective Date).
+This Order Form includes and incorporates the Otter.ai Software Services Agreement (https://otter.ai/software-
+) by this reference into, and made part of, this Order Form. In the event of a conflict between the Order Formservices-agreement
+and the Otter.ai Software Services Agreement ( ), the terms in this Order Form willhttps://otter.ai/software-services-agreement
+control.
+ The terms of this Order Form and the agreement incorporated herein are the sole terms governingCustomer Purchase Orders.
+Customer's purchase and use of the Services. Any additional or conflicting terms contained in any Customer purchase order,
+procurement portal, vendor document, or other purchasing document are expressly rejected, are void, and will not apply,
+regardless of whether Otter accepts, acknowledges, or references such document. Any such document is for administrative
+purposes only and will not modify or supplement the parties' agreement.
+Subscription fees are subject to Otter.ai's right to increase fees up to 9% annually after the contract start date. 
+Otter.ai will not use data submitted by Customer to train or improve its models, unless Customer explicitly decides to share such
+data with Otter.ai for this purpose.
+Purchase Order Information
+Is a Purchase Order (PO) required for the purchase or payment of the services in this Order Form? (customer to complete)
+NO\PORadio_2_\
+YES - Please complete below\PORadio_2_\
+PO Number:\PON_2_2\
+PO Amount:\POA_2_2\
+Page 12 of 137
+Software Services
+Agreement
+Effective
+September 19, 2025
+This Software Services Agreement (the “Agreement”) is entered into between Otter.ai, Inc. (“Otter”) and
+Customer, and governs Customer’s access to and use of Otter offerings provided under enterprise plans.
+Capitalized terms used but not defined herein are defined in Exhibit A.
+By accepting this Agreement as part of an Order, you agree to this Agreement on behalf of the entity for which you
+are acting (such as an employer) (“Customer”). You represent and warrant that you have full legal authority to bind
+Customer to this Agreement, and confirm Customer’s agreement to be party to this binding contract. If you do not
+have the authority to bind Customer or do not agree with the terms of this Agreement, you (and Customer) are not
+authorized to access or use the Otter Platform.
+Schedule
+demo Log inEnterprise Pricing
+ Start for
+freeUse Cases Resources Download
+Page 13 of 137
+This Agreement governs use of the Otter Platform by enterprise customers. Use of the Otter Platform for
+individuals and non-enterprise customers is governed by the Terms of Service  at https://otter.ai/terms-of-service.
+1. Otter Obligations.
+1.1. Access to the Otter Platform. Subject to the terms and conditions of this Agreement, Otter hereby grants
+Customer a limited, non-exclusive, non-transferable (subject to Section 9.6), non-sublicensable right, during the
+Order Term, for Authorized Users to access and use the Otter Platform in connection with Customer’s own
+business purposes.
+1.2. Data Processing Addendum. The data processing addendum set forth as Appendix 1 through 6 of the Otter
+Terms of Service at https://otter.ai/terms-of-service is hereby incorporated by reference.
+2. Service Terms.
+2.1. Use Restrictions. Except as otherwise expressly authorized in this Agreement, Customer will not, and will not
+encourage or assist third parties to: (i) reverse engineer, decompile, disassemble, or otherwise attempt to discover
+the source code, object code, or underlying structure, ideas, know-how, or algorithms relevant to the Otter
+Platform (except to the extent such a restriction is impermissible under applicable law); (ii) copy, modify, create
+derivative works of, or remove proprietary notices from the Otter Platform; (iii) use the Otter Platform for personal
+or other non-commercial purposes; or (iv) publish any benchmarks regarding use of the Services.
+2.2. Account Management.
+(a) As part of the registration process, Customer will appoint one or more administrative users for Customer’s
+Otter account. Each administrative user has the authority to manage Customer’s Otter account, add or remove
+Authorized Users, approve purchases, and otherwise act on behalf of Customer for purposes relating to the Otter
+Platform and this Agreement.
+Page 14 of 137
+(b) Customer may enable Authorized Users to access and use the Otter Platform in accordance with the
+Documentation and any limitations in Customer’s Order Form. Each Authorized User’s account is personal to the
+Authorized User to which it is issued. Account credentials may not be shared or used by anyone other than the
+individual to whom they were provisioned. Customer is responsible for its Authorized Users’ compliance with this
+Agreement, and all activities of its Authorized Users.
+(c) Customer is responsible for providing accurate and complete account information (including the list of domains
+and/or Otter accounts owned or controlled by Customer for purposes of domain capture or migrations, if
+applicable) and maintaining the accuracy and completeness of such information. Customer is responsible for
+maintaining control over its Authorized Users’ accounts, including the confidentiality of usernames and passwords.
+Otter supports login using two-factor authentication (“2FA”), which is known to reduce the risk of unauthorized
+use of or access to the Otter Platform. Otter will not be responsible for any damages, losses, or liability to
+Customer, Authorized Users, or anyone else if any event leading to such damages, losses, or liability would have
+been prevented by the use of 2FA.
+2.3 Customer Content. Customer authorizes Otter and its service providers to use Customer Content for the sole
+purpose of providing the Otter Platform and performing the activities contemplated by this Agreement (such as
+maintaining, securing, debugging, and otherwise performing quality control for the Otter Platform).
+2.4. Feedback. Customer may voluntarily provide Otter feedback, comments, or suggestions concerning the Otter
+Platform or other services provided by Otter (collectively, “Feedback”). To the extent Customer provides
+Feedback, Customer hereby grants Otter the right to use such Feedback to maintain, improve, and enhance
+Otter’s products and services.
+2.5. Usage Data. Otter will have the right to collect and analyze data and other information relating to the access,
+use, and performance of the Otter Platform (“Usage Data”) and Otter will be free (during and after the Order Term)
+to use Usage Data in de-identified and aggregated form to maintain, improve, and enhance Otter’s products or
+services. Examples of Usage Data include technical logs, metadata, telemetry data, and usage information about
+Customer Content, such as how many times it is accessed. For clarity, Usage Data excludes Customer Content
+itself.
+Page 15 of 137
+2.6. Reservation of Rights. As between the parties, Otter owns all right, title, and interest in the Otter Platform,
+and Customer owns all right, title, and interest in the Customer Content. Except as expressly set forth in this
+Agreement, each party retains all right, title, and interest in and to its intellectual property rights. All rights not
+expressly granted are reserved, and no license, covenant, immunity, transfer, authorization, or other right will be
+implied, by reason of statute, estoppel, or otherwise, under this Agreement.
+2.7. Recording Consent Laws. The Otter Platform may provide a feature that allows Customer to record individual
+conversations and/or upload recorded conversations. The laws regarding the notice and notification requirements
+of such recorded conversations vary by location. Customer acknowledges and agrees that it is solely responsible
+for providing any notices to, and obtaining consent from, individuals in connection with any recordings as required
+under applicable law.
+2.8. Security Program. Otter will maintain an information security program (including the adoption and
+enforcement of internal policies and procedures) designed to (a) protect the Otter services and Customer Data
+against accidental or unlawful loss, access, or disclosure, (b) identify reasonably foreseeable and internal risks to
+security and unauthorized access, and (c) minimize security risks, including through regular risk assessments and
+testing. As part of the Otter information security program, Otter will: (i) implement and enforce policies related to
+electronic, network, and physical monitoring and data storage, transfer, and access; (ii) deploy production
+infrastructure behind VPNs where possible; (iii) require multi-factor authentication for employees; (iv) configure
+network security, firewalls, accounts, and resources for least-privilege access; (v) maintain a logging and incident
+response process; (vi) maintain corrective action plans to respond to potential security threats; and (vi) conduct
+periodic reviews of Otter security and the adequacy of its information security program as aligned to industry best
+practices and Otter’s own policies and procedures.
+3. Charges and Payment.
+3.1. Fees. Customer will pay Otter all fees described in an Order in accordance with the terms therein. Unless
+otherwise specified herein or in an Order, (a) all fees are stated and solely payable in U.S. Dollars, (b) payment
+Page 16 of 137
+obligations are non-cancelable and not subject to setoff, (c) fees paid are non-refundable, and (d) quantities
+purchased cannot be decreased during the relevant Order Term. Customer is solely responsible for any bank fees,
+interest charges, finance charges, overdraft charges, and any other fees Customer incurs as a result of the charges
+billed by Otter. If the Order automatically renews, Otter may change the fees applicable to a renewal by providing
+Customer at least 45 days’ written notice of the new fees before the end of the then-current Order Term. For
+clarity, any change in fees will not apply to the then-current Order Term.
+3.2. Payment. Unless otherwise specified in an Order or this Section, Customer will be invoiced annually in
+advance, with full payment due 30 days from the date of the applicable invoice. Unpaid amounts are subject to a
+finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is
+lower. In the event that Customer fails to pay the full amount owed under an Order, Otter may limit Customer’s
+access to the Otter Platform, in addition to any other rights or remedies Otter may have.
+3.3. Taxes. Fees do not include taxes. Each party is responsible for the payment of all taxes (including any interest
+and penalties) in connection with this Agreement that are imposed on that party by law. For Customer, such taxes
+may include sales/use, gross receipts, value-added, GST, personal property, excise, consumption, and other similar
+taxes or duties. Each party will be responsible for its own income taxes, employment taxes, and real property
+taxes.
+3.4. Withholding. All payments made by Customer to Otter under this Agreement will exclude any deduction or
+withholding. If any such deduction or withholding (including cross-border withholding taxes) is required by law,
+Customer will pay such additional amounts as are necessary so that the net amount received by Otter after such
+deduction or withholding will be equal to the full amount that Otter would have received if no deduction or
+withholding had been required. Each party will use commercially reasonable efforts to work with the other party
+to help obtain, reduce, or eliminate any necessary withholding, deduction, or royalty tax exemptions where
+applicable.
+3.5. Additional Subscriptions. The services may be configured to allow Administrators or Authorized Users to
+purchase additional subscriptions or quantities of Otter services. Customer is responsible for understanding the
+settings and controls of the Otter services for purchasing additional Otter services. Otter will charge Customer the
+Page 17 of 137
+applicable pro-rated amount for additional Otter services for the remainder of the then-current Order Term based
+on Customer’s then-current price unless otherwise set forth on the Order Form.
+4. Confidentiality.
+4.1. Confidential Information. Each party (the “Discloser”) has disclosed or may disclose proprietary or non-public
+business, technical, financial, or other information in anticipation of this Agreement or during the term of this
+Agreement (“Confidential Information”) to the other party (the “Recipient”). Confidential Information of Otter
+expressly includes non-public information regarding features, functionality, and performance of the Otter
+Platform, and Confidential Information of the Customer expressly includes Customer Content. However,
+Confidential Information excludes any information that: (a) is or becomes generally available to the public without
+action or omission by Recipient; (b) was in the Recipient’s possession or known by it prior to receipt from the
+Discloser; (c) was rightfully disclosed to the Recipient without restriction by a third party; or (d) was independently
+developed by Recipient without use of or reference to any Confidential Information of the Discloser.
+4.2. Obligations. The Recipient will use the Discloser’s Confidential Information only to exercise its rights and
+fulfill its obligations under this Agreement, including, in Otter’s case, to provide the Otter Platform to Customer.
+The Recipient may disclose information to its employees, contractors, Affiliates, agents, or professional advisors
+(“Representatives”) who need to know it and who have a legal obligation to keep it confidential. The Recipient will
+ensure that its Representatives are subject to confidentiality obligations that are no less restrictive than those
+herein. Notwithstanding the foregoing, the Recipient may disclose the Discloser’s Confidential Information: (a) if
+directed by Discloser; or (b) to the extent required by applicable legal process, provided that the Recipient uses
+commercially reasonable efforts to (i) promptly notify the Discloser in advance, to the extent permitted by law and
+(ii) comply with the Discloser’s reasonable requests regarding its efforts to oppose the disclosure. With respect to
+each Order, the obligations set forth herein will survive for the duration of the Order Term and five years following
+the expiration or termination of such Order.
+Page 18 of 137
+5. Warranties.
+5.1. Mutual Warranties. Each party represents and warrants to the other that: (a) this Agreement has been duly
+executed and delivered and constitutes a valid and binding agreement enforceable against the executing party in
+accordance with its terms; (b) the execution, delivery, and performance of this Agreement by the executing party
+does not violate the terms or conditions of any other agreement to which it is a party or by which it is otherwise
+bound or require authorization or approval from any third party; and (c) it will perform its rights and obligations
+under this Agreement in accordance with applicable law.
+5.2. Otter Warranties. Otter represents and warrants to Customer during the applicable Order Term that: (a) Otter
+will provide access to the Otter Platform and any applicable support services in substantive conformity with the
+Documentation; and (b) Otter will employ applicable industry standard measures to protect the Otter Platform, in
+the form provided to Customer by Otter, against software viruses, Trojan horses, worms, or other similar malicious
+programs or code.
+5.3. Remedy.  As Customer’s sole remedy and Otter’s sole liability for failure to conform to the Warranties in
+Section 5.1 and 5.2, Otter shall reperform such services or Customer may receive a pro-rata refund of amounts
+paid for such non-conforming services.
+5.4. DISCLAIMER. EXCEPT FOR THE EXPRESS REPRESENTATIONS AND WARRANTIES STATED IN THIS
+SECTION 5, THE PARTIES MAKE NO REPRESENTATION OR WARRANTY OF ANY KIND WHETHER EXPRESS,
+IMPLIED (EITHER IN FACT OR BY OPERATION OF LAW), OR STATUTORY, AS TO ANY MATTER WHATSOEVER
+RELATING TO THIS AGREEMENT. OTTER EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUALITY, ACCURACY, TITLE, AND NON-
+INFRINGEMENT. NON-OTTER RESOURCES ARE PROVIDED BY THIRD PARTIES, NOT OTTER, AND ANY USE OF
+NON-OTTER RESOURCES IS SOLELY BETWEEN CUSTOMER AND THE APPLICABLE THIRD PARTY PROVIDER.
+OTTER DOES NOT WARRANT OR SUPPORT, AND WILL NOT HAVE ANY RESPONSIBILITY OR LIABILITY OF ANY
+KIND FOR, NON-OTTER RESOURCES. WITH RESPECT TO AI FEATURES, CUSTOMER ACKNOWLEDGES AND
+AGREES THAT: (I) CUSTOMER IS RESPONSIBLE FOR ALL INPUTS SUBMITTED TO THE OTTER PLATFORM, AND
+Page 19 of 137
+BY SUBMITTING INPUTS TO THE OTTER PLATFORM, CUSTOMER REPRESENTS AND WARRANTS THAT IT HAS
+ALL RIGHTS, LICENSES, AND PERMISSIONS THAT ARE NECESSARY FOR OTTER TO PROCESS THE INPUTS
+AND TO PROVIDE THE SERVICE TO CUSTOMER; AND (II) OUTPUTS MAY BE INACCURATE, INAPPROPRIATE,
+FALSE, INCOMPLETE, OR BIASED, AND MAY NOT REFLECT OTTER’S VIEWS. CUSTOMER IS RESPONSIBLE FOR
+IMPLEMENTING REASONABLE PRACTICES, INCLUDING HUMAN OVERSIGHT, TO ENSURE THAT OUTPUTS
+ARE CORRECT AND COMPLETE AND TO GUARD AGAINST THE OUTPUTS BEING USED IN AN UNSUITABLE OR
+UNLAWFUL WAY, OR IN VIOLATION OF THE RIGHTS OF OTHERS. CUSTOMER SHOULD NOT RELY ON AI
+OUTPUTS WITHOUT INDEPENDENTLY CONFIRMING THEIR ACCURACY.
+6. Indemnity.
+6.1. Indemnification by Otter.
+(a) Otter will defend Customer from any third party claim, action, suit, or demand (a “Claim”) based on an
+allegation that the Otter Platform violates, infringes, or misappropriates any third-party copyright, patent, trade
+secret, or trademark, and will indemnify Customer for any costs, liabilities, damages, or other amounts (including
+reasonable attorneys’ fees) actually paid or payable to unaffiliated third parties (“Losses”) resulting from such
+Claim.
+(b) Otter will have no obligation to defend or indemnify Customer for any Claim under Section 6.1(a) to the extent
+it is based on: (i) Customer’s failure to use updates or modifications to the Otter Platform that Otter makes
+available to Customer that would have helped avoid or mitigate the Claim had they been used; (ii) the
+combination, operation, or use of the Otter Platform with third-party equipment, devices, software, application,
+systems, or data, including Non-Otter Resources, where the infringement would not have occurred but for such
+combination, (iii) use of the Otter Platform by Customer or Customer’s Authorized Users in violation of this
+Agreement, or (iv) Customer Content.
+(c) If Customer’s use of the Otter Platform is, or in Otter’s reasonable discretion is likely to be, subject to a Claim
+that may give rise to a defense or indemnity obligation under Section 6.1(a), Otter may, at its sole discretion and at
+Page 20 of 137
+no charge to Customer (and in addition to Otter’s obligations to Customer under Section 6.1(a)): (i) procure for
+Customer the right to continue using the Otter Platform in accordance with this Agreement; (ii) replace or modify
+the Otter Platform so that it is non-infringing and includes substantially similar functionality as the original Otter
+Platform; or (iii) if options (i) and (ii) above are not commercially practicable in Otter’s reasonable discretion, Otter
+may terminate Customer’s right to use the impacted portion of the Otter Platform (in which case, Customer will
+immediately stop using the impacted portion of the Otter Platform) and provide a pro-rata refund of any pre-paid
+fees for the impacted service that remain unused as of the date of termination.
+(d) THIS SECTION 6.1 SETS FORTH OTTER’S SOLE AND EXCLUSIVE OBLIGATIONS, AND CUSTOMER’S SOLE
+AND EXCLUSIVE REMEDIES, WITH RESPECT TO ANY ACTUAL OR ALLEGED INFRINGEMENT OR
+MISAPPROPRIATION OF ANY THIRD PARTY INTELLECTUAL PROPERTY RIGHT BY THE OTTER PLATFORM AND
+ANY OTHER TYPE OF CLAIM SPECIFICALLY COVERED UNDER OTTER’S INDEMNITY OBLIGATION (IF ANY). NO
+PARTY TO THIS AGREEMENT WILL BE ENTITLED TO ANY FORM OF IMPLIED OR EQUITABLE
+INDEMNIFICATION AT ANY TIME, WHETHER BASED ON A THEORY OF CONTRACT, TORT (INCLUDING
+NEGLIGENCE), STRICT LIABILITY, WARRANTY, OR ANY OTHER THEORY OF LIABILITY, AND ANY RIGHT
+THERETO IS HEREBY IRREVOCABLY WAIVED AND DISCLAIMED BY EACH OF THE PARTIES.
+6.2. Indemnification by Customer. Customer will defend Otter from any Claim based on Customer Content or use
+of the Otter Platform by Customer (or Customer’s Authorized Users) in violation of this Agreement, and Customer
+will indemnify Otter from any Losses resulting from any such Claim.
+6.3. Process. If a party entitled to indemnification (the “Indemnified Party”) becomes aware of any indemnifiable
+Claim, such party will give the other party (the “Indemnifying Party”) written notice of the Claim as soon as
+reasonably practicable. The Indemnified Party will cooperate, at the expense of the Indemnifying Party, with the
+Indemnifying Party and its counsel in the defense or settlement of the Claim, and will allow the Indemnifying Party
+to have sole control of the defense or settlement. Subject to the prior sentence, the Indemnified Party will have the
+right to participate fully, at its own expense, in the defense of such Claim. To take advantage of the indemnity, the
+Indemnified Party must use all commercially reasonable efforts to mitigate its Losses. The Indemnified Party is not
+required to admit liability, except as required by applicable law, and any compromise or settlement of a Claim
+Page 21 of 137
+requiring the Indemnified Party to admit liability or to pay any money will require the prior written consent of both
+parties, such consent not to be unreasonably withheld or delayed. The indemnity obligations of the Indemnifying
+Party will be contingent on the Indemnified Party’s compliance with this process.
+7. Limitations of Liability.
+7.1. Limitation on Indirect Liability. EXCEPT FOR EXCLUDED CLAIMS, UNDER NO CIRCUMSTANCES, AND
+UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY,
+WARRANTY, OR ANY OTHER THEORY OF LIABILITY), WILL EITHER PARTY, ITS AFFILIATES AND ITS OR THEIR
+CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS
+(COLLECTIVELY, ITS “PARTY REPRESENTATIVES”), BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL,
+CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING LOSS OF PROFITS, DATA, OR USE OR COST OF
+COVER) ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE USE OF OR THE INABILITY TO USE THE
+OTTER PLATFORM, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+7.2. Limitation on Amount of Liability. EXCEPT FOR EXCLUDED CLAIMS, UNDER NO CIRCUMSTANCES, AND
+UNDER NO LEGAL THEORY (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY,
+WARRANTY, OR ANY OTHER THEORY OF LIABILITY), WILL THE TOTAL LIABILITY OF EITHER PARTY, ITS
+AFFILIATES, AND ITS OR THEIR PARTY REPRESENTATIVES FOR ANY AND ALL DAMAGES AND CAUSES OF
+ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE USE OF OR THE INABILITY TO USE THE
+OTTER PLATFORM, EXCEED, IN THE MAXIMUM AGGREGATE, THE FEES PAID AND PAYABLE TO OTTER UNDER
+THE CUSTOMER’S APPLICABLE ORDER IN THE TWELVE-MONTH PERIOD PRIOR TO THE DATE ON WHICH THE
+DAMAGE OCCURRED.
+7.3. In General. EACH PROVISION OF THIS AGREEMENT THAT PROVIDES FOR A LIMITATION OF LIABILITY,
+DISCLAIMER OF WARRANTIES, OR EXCLUSION OF DAMAGES IS TO ALLOCATE THE RISKS OF THIS
+AGREEMENT BETWEEN THE PARTIES. THIS ALLOCATION IS REFLECTED IN THE PRICING OFFERED BY OTTER
+TO CUSTOMER AND IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN THE PARTIES.
+Page 22 of 137
+EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THIS
+AGREEMENT. THE LIMITATIONS IN THIS SECTION 7 WILL APPLY TO THE MAXIMUM EXTENT NOT
+PROHIBITED BY LAW AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED
+REMEDY IN THIS AGREEMENT.
+8. Term and Termination.
+8.1. Term. The term of this Agreement will commence on the Subscription Start Date of the first Order entered into
+between the parties and will continue until all Orders hereunder expire or until terminated in accordance with this
+Section 8, whichever happens first. If you purchase a subscription to the Otter services, the subscription term will
+automatically renew for successive periods unless either party gives the other party notice of its intent not to
+renew. That notice must be given at least thirty days before the start of the next renewal period.
+8.2 Termination. Either party may terminate an individual Order or this Agreement upon written notice to the
+other party, if the other party materially breaches this Agreement and such breach is incapable of cure, or with
+respect to a breach capable of cure, the breaching party does not cure such breach within 30 days of receiving
+notice of it. Either party may terminate or suspend an individual Order or this Agreement upon written notice to
+the other party without a cure period if (a) the other party breaches any of the terms relating to such party’s
+intellectual property rights or Confidential Information, or (b) if the other party becomes the subject of a petition
+in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation, or assignment for the
+benefit of creditors.
+8.3. Effect of Termination. Termination of this Agreement will result in termination of all ongoing Orders; however,
+termination of a single Order will not result in termination of this Agreement or any other ongoing Orders. If
+Customer terminates under Section 8.2, Otter will provide Customer a pro rata refund of prepaid unused fees
+applicable to the remainder of the Order Term for any terminated Order. If this Agreement or any Order is
+terminated for any other reason, Customer will not receive a refund and will pay all fees as if the Order had not
+been terminated. Upon any termination, to the extent permitted by applicable law, Otter will make all Customer
+Page 23 of 137
+Content then held by Otter pursuant to the applicable Order available to Customer for electronic retrieval for a
+period of 30 days, but thereafter Otter will delete or retain any stored Customer Content as directed by Customer.
+The following sections of this Agreement will survive any expiration or termination of this Agreement: 2, 4, 5.3,
+and 7-9.
+9. Miscellaneous.
+9.1. Affiliates. A Customer Affiliate may enter into an Order under this Agreement and, in such case, by entering
+into the Order, the Affiliate agrees to be bound by the terms and conditions of this Agreement with respect to such
+Order and such Affiliate will be considered to be Customer, as such term is used herein, with respect to such
+Order. This Agreement is intended for the benefit of the parties who have entered into an Order under this
+Agreement and their respective permitted successors and assigns, and is not for the benefit of, nor may any
+provision hereof be enforced by, any other person.
+9.2. Force Majeure. Except for the obligation to make payment, neither party will have any liability for failures or
+delays resulting from that party experiencing a Force Majeure Event. If a party experiences a Force Majeure Event,
+such party will: (a) promptly notify the other party of occurrence of the Force Majeure Event; and (b) use
+reasonable efforts to limit damages to the other party and to resume its performance under this Agreement. If a
+Force Majeure Event causes a party to fail to comply with its obligations under this Agreement for 30 or more
+consecutive days, either party may terminate this Agreement upon written notice, without liability. “Force Majeure
+Event” means any event or circumstance (other than a party’s inability to satisfy payment obligations) that is
+outside a party’s reasonable control, whether or not foreseeable.
+9.3. Notices. All notices, requests, consents, claims, demands, waivers, and other communications under this
+Agreement (each, a “Notice”) must be in writing (electronic mail sufficient) and sent to:
+Otter: Contact identified in the Order
+Customer: Contact identified in the Order
+Page 24 of 137
+9.4. Severability; No Waiver. The invalidity or unenforceability of any provision of this Agreement will not affect
+the validity or enforceability of any other provision hereof and it is the intent and agreement of the parties that this
+Agreement will be deemed amended by modifying such provision to the extent necessary to render it valid, legal,
+and enforceable while preserving its intent or, if such modification is not possible, by substituting another
+provision that is legal and enforceable and achieves the same objective. No failure or delay by either party in
+exercising any right under this Agreement will constitute a waiver of that right.
+9.5. Assignment. This Agreement is not assignable or transferable by either party without the other party’s prior
+written consent, except that either party may (without the other party’s prior written consent) assign this
+Agreement, in whole, in connection with a merger, acquisition, corporate reorganization, or sale of all or
+substantially all of such party’s assets. Any purported assignment in violation of this section is null and void.
+9.6. Service Providers. For the avoidance of doubt, Otter may engage third party service providers to support its
+performance of this Agreement (including the subprocessors listed at https://otter.ai/subprocessors).
+Nevertheless, Otter will remain responsible for compliance with this Agreement.
+9.7. No Partnership. No agency, partnership, joint venture, or employment is created as a result of this Agreement,
+and neither party has any authority of any kind to bind the other party.
+9.8. Governing Law and Dispute Resolution. This Agreement is governed by the laws of the State of California
+without regard to conflict of law principles. Customer and Otter submit to the personal and exclusive jurisdiction
+of the state courts and federal courts located within Santa Clara County, California for resolution of any lawsuit or
+court proceeding permitted under this Agreement.
+9.9. Export Control. The Otter Platform and Customer’s use thereof is subject to export control and economic
+sanctions laws and regulations (collectively, “Export Controls”), including the U.S. Export Administration
+Regulations, the laws, statutes, regulations, rules, and executive orders administered by the Office of Foreign
+Assets Control of the U.S. Department of the Treasury (“OFAC”). Otter and Customer each represents that it is not
+on (or owned or controlled by any person identified on) the OFAC Specially Designated Nationals and Blocked
+Persons List or any other list of prohibited or restricted parties promulgated under Export Controls. Customer
+Page 25 of 137
+must comply with all applicable Export Controls in its access to and use of the Otter Platform and Customer
+Content. Customer will not access or use the Otter Platform, export, re-export, distribute, assign, or otherwise
+engage in any transaction relating to the Otter Platform or any Customer Content in violation of Export Controls.
+For the avoidance of doubt, Otter may take measures required by law or governmental authority to comply with its
+obligations under Export Controls and OFAC (such as suspending access to the Otter Platform, terminating this
+Agreement, or blocking the relevant Customer Content).
+9.10. Anti-Corruption. Neither party has received or been offered any illegal or improper bribe, kickback,
+payment, gift, or thing of value from an employee or agent of the other party in connection with this Agreement.
+Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above
+restriction.
+9.11. Government Use. This Section 9.11 only applies if Customer is a government or public sector entity. Customer
+represents and warrants to Otter that it is entering into this Agreement in compliance with any applicable public
+procurement laws and regulations. If Customer is a U.S. government or U.S. public sector entity (or use of the
+Otter Platform is for the U.S. government), the Otter Platform and Documentation are “commercial products” (as
+defined at 48 C.F.R. §2.101), consisting of “commercial computer software” and “commercial computer software
+documentation” (as used in 48 C.F.R. §12.212 and 48 C.F.R. §227.7202, as applicable). In accordance with 48 C.F.R.
+§12.212 and 48 C.F.R. §227.7202-1, as applicable, the rights of the U.S. Government to use, modify, reproduce,
+release, perform, display, or disclose commercial computer software and commercial computer software
+documentation associated with the Otter Platform will be as provided in this Agreement. If a U.S. Government
+agency or end user has a need for rights not conveyed under these terms, it must negotiate with Otter to
+determine if there are acceptable terms for transferring such rights, and a mutually acceptable addendum to this
+Agreement will be required in any applicable contract or agreement. The sections in this Agreement titled
+“Governing Law and Dispute Resolution,” “Indemnification by Customer,” any auto-renewal terms, and any other
+terms inconsistent with applicable law are hereby waived to the extent necessary to conform to applicable law.
+9.12. Interpretation. Whenever the words “including,” “include,” “includes,” or “such as” are used herein, they will
+be deemed to be followed by the phrase “without limitation.”
+Page 26 of 137
+9.13. Entire Agreement. This Agreement supersedes all other agreements between the parties relating to its
+subject matter. In the event of any conflict among any Orders and the terms of this Agreement, the order of
+precedence will be: (a) the Orders (from newest to oldest); and (b) terms of this Agreement. The parties agree that
+any terms and conditions stated in a Customer purchase order or other Customer ordering documentation
+(including any vendor management portal) are void.
+9.14. Promotion. Otter may use Customer’s name and logo to publicly identify Customer as a customer of the
+Otter services. Customer will consider in good faith any request by Otter to (1) provide a quote from a Customer
+executive regarding Customer’s motivation for using the Otter services that Otter may use publicly and (2)
+participate in a public co-marketing activity.
+Exhibit A
+Definitions
+The following capitalized terms will have the meanings set forth below:
+“Affiliate” means, with respect to any entity, any other entity that, directly or indirectly through one or more
+intermediaries, controls, is controlled by, or under common control with such entity. As used in this definition,
+“control” (including, with correlative meanings, “controlled by” or “under common control with”) means the
+possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of
+such entity, whether through ownership of voting securities, by contract or otherwise.
+“Agreement” means this Software Services Agreement (together with its exhibits and addenda).
+“Authorized Users” means employees, contractors, and other persons associated with the Customer or its
+Affiliates who access or use the Otter Platform through the Customer’s account.
+“Customer Content” means applications and materials that are developed by Customer or its Authorized Users on
+the Otter Platform or uploaded to the Otter Platform by Customer or its Authorized Users.
+Page 27 of 137
+“Documentation” means Otter-provided documentation available at https://help.otter.ai/hc/en-us or such
+successor link identified by Otter.
+“Excluded Claims” means damages resulting from (1) either party’s willful misconduct or gross negligence, or (2)
+infringement by a party of the other party’s intellectual property rights.
+“Non-Otter Resources” means applications and materials that are developed or otherwise provided by a party
+other than Otter, including files, plugins, component libraries, services, products, platforms, integrations, and
+code components.
+“Order” means an ordering document or online order that is entered into between Customer and Otter and
+specifies, among other things, details relating to the number of Authorized Users.
+“Order Term” means the subscription term length set forth in the applicable Order or, with respect to early access
+features, the evaluation period set forth by Otter.
+“Otter” means Otter, Inc., a Delaware corporation.
+“Otter Platform” means the Otter offerings identified in an Order, including any related mobile and desktop
+applications, early access features, integrations and resources developed by Otter for use with the Otter offerings
+identified in an Order, and Documentation. For the avoidance of doubt, the “Otter Platform” excludes Non-Otter
+Resources.
+Page 28 of 137
+Use cases Resources Download Social
+Sales
+Education
+Media
+SDR Agent
+Recruiting Agent
+Help Center
+Careers
+Press
+Blog
+Desktop App
+iOS app
+Android app
+Chrome extension
+LinkedIn
+YouTube
+X
+©
+2026 Otter.ai Inc
+Privacy
+policy
+Terms of
+service
+Software service
+agreement
+JP Your Privacy
+Choices
+Status
+Page 29 of 137
+From: Brzon, Jonathan
+To: Biltoft, Brandy
+Cc: Eckert, Rich
+Subject: RE: Enterprise accounts - Otter.ai
+Date: Friday, September 25, 2026 12:00:15 PM
+Attachments: image001.png
+ 
+ 
+Approved as to form and legality.
+ 
+Jonathan Brzon
+Deputy Shawnee County Counselor
+707 SE Quincy, Room 310
+Topeka, Kansas  66603
+ 
+785.251.4202 (direct)
+785.251.4042 (office)
+www.snco.us/counselor/
+ 
+ 
+ 
+ 
+From: Biltoft, Brandy <Brandy.Biltoft@snco.us> 
+Sent: Friday, September 25, 2026 9:15 AM
+To: Brzon, Jonathan <Jonathan.Brzon@snco.us>
+Cc: Eckert, Rich <Rich.Eckert@snco.us>
+Subject: Enterprise accounts - Otter.ai
+ 
+Good morning,
+The IT Department is transitioning departments to the Enterprise version of Otter.ai, which is a
+meeting transcription software.  These accounts will be treated like the Adobe accounts where each
+department will be responsible for covering the cost of the licenses they have assigned to them.  The
+IT Department will cover the cost of the support. 
+ 
+I have provided the company with our CPA and asked for it be signed and returned.
+Please review this request and let me know if there are any issues or concerns.
+Thank you.
+Brandy
+ 
+Brandy Biltoft
+Deputy Director
+Shawnee County Information Technology
+707 SE Quincy, RM 209
+Topeka, KS 66603
+Page 30 of 137
+Office: 785.251.4855
+ 
+Page 31 of 137
+ 
+Information Technology 
+Marc Price 
+707 SE Quincy Street, Suite 200 
+Topeka, Kansas  66603 
+Ph. 785.251.4030 
+Email: Marc.Price@snco.gov 
+Website: www.snco.gov 
+Memorandum 
+Date: September 28, 2026 
+To: Board of County Commissioners 
+From: Marc Price, Information Technology Director 
+RE: Ruckus Wireless Access Points and Licenses 
+ 
+The Information Technology D epartment is requesting approval to purchase one WiFi access 
+point and one subscription license for Parks and Rec to be used at the Kansas Complex.   The 
+subscription license is for a three (3) year term through Choice Solutions.  
+ 
+Parks and Rec will be responsible for the expense, which is $ 1,178.26.  The County Counselor’s 
+Office has approved this request as to form and legality. 
+ 
+I am happy to answer any questions you may have about this request. 
+ 
+MP:bmb 
+Page 32 of 137
+This Proposal Prepared Exclusively For
+Shawnee County IT Department
+Ruckus R670 AP + Ruckus One Essentials - 3 Yr. Term - Qty.
+1
+Proposal #032190
+Version 1
+Shawnee County Contract C2026339
+Page 33 of 137
+Prepared For
+Shawnee County IT Department
+Marc Price
+200 SE 7th St Suite 205
+Topeka, KS  66603
+marc.price@snco.us
+(785) 251-4103
+Prepared By
+Abbey Smith
+Phone: (913) 275-6949
+Email: asmith@choicesolutions.com
+EXTENDEDQTYPRICEHARDWARE
+Ruckus R670 Wi-Fi 7 Tri-Band Concurrent Wireless Access Point With
+2x2 (2.4GHZ) + 4x4 (5GHZ) + 2x2 (6GHZ) RF Configs. Wi-Fi 7 Support
+In All 3 Frequency Bands. 6ghz Band Supports LPI Mode And SP Mode
+With AFC. Fully Backward Compatible With Wi-Fi 6e
+$1,020.23 1 $1,020.23
+HARDWARE SUBTOTAL $1,020.23
+EXTENDEDQTYPRICESOFTWARE
+Ruckus One Essentials - Subscription License - 1 Access Point/Switch
+Device - 3 Year Term
+$158.03 1 $158.03
+SOFTWARE SUBTOTAL $158.03
+Page 34 of 137
+RECAP AMOUNT
+HARDWARE $1,020.23
+SOFTWARE $158.03
+TOTAL $1,178.26
+Proposal #032190, Version: 1
+This Proposal is valid for 30 days.
+Payment Terms: Net 30 Days from invoice date. Payment to be made with check, ACH, or wire or as otherwise agreed to 
+in writing. Credit card payments are subject to a 3% processing fee. 
+Shipping, handling, sales tax, tariffs and other applicable charges will be determined and added at invoicing.  We reserve 
+the right to cancel orders arising from pricing or other errors.
+This Proposal (the "Proposal") and the following or accompanying Statement of Work (as applicable) (the "Statement of 
+Work" or "SOW") is subject to and will be performed in accordance with that certain Master Services Agreement between 
+Choice Solutions, L.L.C. and the undersigned Customer dated 02/01/2023. Third-party products may be subject to 
+additional terms from the products’ vendors as provided at https://choicesolutions.com/vendorterms/, which is 
+incorporated herein by reference.
+IN WITNESS WHEREOF, the parties hereto have caused this Proposal and the following or accompanying Statement of 
+Work to be executed by their duly authorized representatives as of the date written below. This Proposal and the following 
+or accompanying Statement of Work may be executed in two or more counterparts each of which shall be deemed an 
+original, and all of which together shall constitute one and the same instrument. An electronic, facsimile or copy of a 
+signature shall be treated as an original.
+SHAWNEE COUNTY IT DEPARTMENT CHOICE SOLUTIONS, L.L.C.
+By: By:
+Name: Name:
+Title: Title:
+Date: Date:
+Page 35 of 137
+From: Brzon, Jonathan
+To: Biltoft, Brandy
+Cc: Eckert, Rich
+Subject: Re: Wireless access point for Kansas Complex
+Date: Monday, September 28, 2026 10:10:01 AM
+Approved as to form and legality 
+JCB
+On Sep 28, 2026, at 10:06 AM, Biltoft, Brandy <Brandy.Biltoft@snco.us> wrote:
+﻿
+Good morning,
+Attached is a proposal for a wireless access point for Parks + Rec at the Kansas
+Complex.  Please review and let me know if there are any questions.
+Thank you.
+Brandy
+ 
+Brandy Biltoft
+Deputy Director
+Shawnee County Information Technology
+707 SE Quincy, RM 209
+Topeka, KS 66603
+Office: 785.251.4855
+ 
+<Shawnee County Ruckus R670 AP + Ruckus One Essentials - 3 Yr. Term - Qty.
+1 Proposal 032190.v1[35].pdf>
+Page 36 of 137
+Page 37 of 137
+Page 38 of 137
+Page 39 of 137
+Page 40 of 137
+091
+Page 41 of 137
+Page 42 of 137
+Attachment to Resolution No.  R2026_______ 
+ 
+ 
+ 
+DEERBROOK SUBDIVISION 
+ 
+ 
+D000054 1552200001007030 Elmore Ackley Jr.    $398.40 
+     SW Deer Trail Street 
+     Block A, Lot 23, Deerbrook Subdivision 
+ 
+D000055 1552200001007040 Elmore Ackley Jr.    $398.40 
+     SW Deer Trail Street 
+     Block A, Lot 22, Deerbrook Subdivision 
+ 
+D000059 1552200001007360 Daniel Furness     $398.40 
+     SW Deer Trail Street 
+     Block B, Lot 12, Deerbrook Subdivision  
+ 
+ 
+D000112 1552200001007180 ABC Exteriors Inc.    $398.40 
+     SW Deer Run Street 
+     Block A, Lot 8, Deerbrook Subdivision 
+ 
+ 
+D000060             1552200001007110 Robert Desruisseaux    $398.40  
+    SW Deer Trail St   
+    Block A, Lot 15, Deerbrook Subdivision 
+ 
+ 
+D000145  1552200001007260        Adam Cook     $403.20 
+                                                                          SE Deer Run St 
+                                                                          Block B, Lot 2, Deerbrook Subdivision  
+ 
+ 
+                                                   
+                                                                            
+091
+Page 43 of 137
+Page 44 of 137
+Page 45 of 137
+ 
+September 16, 2026 
+ 
+TO:  Board of Commissioners 
+  Shawnee County 
+ 
+FROM: Tim L. Laurent, Director 
+  Parks + Recreation 
+ 
+RE:  785 Beer  Company – Smoke on the Water Agreement 
+ 
+ 
+Purpose: Consider approval of the attached agreement and Temporary Permit Resolution with 785 
+Beer Company LLC for the Smoke on the Water Event to be held at the Lake Shawnee 
+Campgrounds on October 9, 2026.      
+ 
+Justification: Shawnee County Parks + Recreation is hosting this annual event at Lake Shawnee. 
+Any in-kind expenses are provided through the Parks + Recreation Operating Budget. The 
+resolution allows for temporary exemption of the fenced in area on the map during the event times 
+for alcohol and commercial malt beverages. Unique events inspire people to want to live, work, 
+and play in Shawnee County.   
+ 
+TLL/dlt 
+Attachments 
+ 
+Page 46 of 137
+1 
+ 
+ 
+SHAWNEE CO UNTY CONTRACT NO. C2026______   _ 
+ 
+INDEPENDENT CONTRACTOR AGREEMENT FOR GOODS AND SERVICES 
+ 
+THIS AGREEMENT is between THE BOARD OF COUNTY COMMISSIONERS OF THE 
+COUNTY OF SHAWNEE, KANSAS (County) and 785 BEER COMPANY LLC (Contractor). 
+ 
+1. G OODS AND SERVICES TO BE PERFORMED  
+ 
+Contractor agrees to provide the following goods and services to the County: 
+As a selected vendor, Contractor shall provide and sell alcoholic and cereal malt beverages 
+to event participants during requested hours. 
+ 
+2. P AYMENT  
+ 
+In consideration of the goods and services to be provided by Contractor, County agrees to 
+pay Contractor as follows:  
+ 
+Task Duties Compensation 
+   Be a selected vendor for 
+the Smoke on the Water 
+Event on Friday, October 
+9, 2026 to be held at Lake 
+Shawnee Campgrounds, 
+3435 SE East Edge Rd. 
+Vendor shall sell and serve alcoholic 
+beverages to event participants age 21+ 
+only between 4:00 p.m. – 10:00 p.m. 
+ 
+Vendor must provide setup and takedown. 
+ 
+N/A 
+ 
+Unless otherwise provided herein, Contractor shall be responsible for all expenses incurred 
+while performing services under this Agreement.  This includes equipment; supplies ; 
+telephone expenses; automobile and other travel expenses; meals and entertainment; 
+insurance premiums; and all salary, expenses and other  compensation paid to Contractor 's 
+employees or contract personnel Contractor hires to complete the work under this 
+Agreement. 
+ 
+ 3.  I NDEPENDENT CONTRACTOR STATUS AND CERTIFICATION 
+ 
+Contractor is an independent Contractor , not a County employee.  Contractor 's employees 
+or contract personnel are not County employees. Contractor and County agree to the 
+following rights consistent with an independent Contractor relationship: 
+a. Contractor has the right to perform services for others during the term of this 
+Agreement. 
+b. Contractor has the sole right to control and direct the means, manner and 
+method by which the services required by this Agreement will be performed. 
+c. Contractor will furnish all equipment and materials used to provide the services 
+required by this Agreement. 
+340
+Page 47 of 137
+2 
+ 
+d. Contractor has the right to hire assistants as subcontractor s, or to use 
+Contractor's employees to provide the services required by this Agreement. 
+e. Contractor or Contractor's employees or contract personnel shall perform the 
+services required by this Agreement and Contractor agrees to the faithful 
+performance and delivery of described services in accordance with the 
+timeframes contained herein; County shall not hire, supervise or pay any 
+assistants to help Contractor. 
+f. Neither Contractor nor Contractor's employees or contract personnel shall 
+receive any training from County in the skills necessary to perform the services 
+required by this Agreement. 
+g. County shall not require Contractor or Contractor's employees or contact 
+personnel to devote full time to performing the services required by this 
+Agreement. 
+Further, Contractor hereby certifies: 
+h. That Contractor is not an employee of County and thereby Contractor waives 
+any and all claims to benefits otherwise provided to employees of the County, 
+including, but not limited to:  medical, dental, or other personal insurance, 
+retirement benefits, unemployment benefits, and liability or worker's 
+compensation insurance.   
+i. Contractor must provide Federal Tax or Social Security Number on required 
+Form W-9.  
+j. That Contractor understands that he/she is solely  responsible, individually for 
+all taxes and social security payments applicable to money received for services 
+herein provided.  Contractor understands that an IRS Form 1099 will be filed by 
+the County for all payments received. 
+ 
+ 6. INDEMNIFICATION AND HOLD HARMLESS 
+ 
+Contractor shall save, hold harmless, and indemnify County, its officers, agents and 
+employees, from and against all claims, causes of action, liabilities, expenses and costs, 
+including reasonable attorneys' fees, for injury of any person or damage to property arising 
+out of, or connected with, work per formed under this Agreement which is the result of any 
+acts or omissions, whether negligent or otherwise, of Contractor , its officers, agents, 
+subcontractors or employees. 
+ 
+7. INSURANCE 
+ 
+The County shall not be required to purchase any insurance against loss or damage to any 
+personal property to which this contract relates, nor shall this contract require the County to 
+establish a “self-insurance” fund to protect against any such loss or damage.  Subject to the 
+provisions of the Kansas Tort Claims Act (K.S.A. 75- 6101 et seq.), the Contractor shall 
+bear the risk of any loss or damage to any personal property to which Contractor holds title. 
+ 
+8. OWNERSHIP OF PRODUCTS/DOCUMENTS 
+ 
+Page 48 of 137
+3 
+ 
+Unless otherwise agreed to in writing, signed by the County, Contractor hereby assigns to 
+County all rights to all products, reports, documents, photographs, videos, data, and 
+drawings produced by Contractor as a result of its services  to County during the term of 
+this Agreement.   
+ 
+9.     TERMINATION DUE TO LACK OF FUNDING APPROPRIATION.   
+ 
+Shawnee County is subject to the Kansas Cash Basis Law, K.S.A. 10-1101 et seq.  If, in the 
+judgment of the Financial Administrator, Audit -Finance O ffice, sufficient funds are not 
+appropriated to continue the function performed in this agreement and for the payment of 
+the charges hereunder, County may terminate this agreement at the end of its current fiscal 
+year.  County agrees to give written notice  of termination to Contractor  at least thirty (30) 
+days prior to the end of its current fiscal year . The termination of the contract pursuant to 
+this paragraph shall not cause any penalty to be charged to the County or the Contractor.   
+ 
+10. ANTI-DISCRIMINATION CLAUSE.   
+ 
+The Contractor agrees: (a) to comply with the Kansas Act Against Discrimination (K.S.A. 
+44-1001 et seq.) and the Kansas Age Discrimination in Employment Act, (K.S.A. 44-1111 
+et seq.) and the applicable provisions of the Americans With Disa bilities Act (42 U.S.C. 
+12101 et seq.)  [ADA] and to not discriminate against any person because of race, religion, 
+color, sex, disability, national origin or ancestry, or age in the admission of access to or 
+treatment or employment in, its programs or activities; (b) to include in all solicitations or 
+advertisements for employees, the phrase “equal opportunity employer”; (c) to comply with 
+the reporting requirements set out in K.S.A. 44 1031 and K.S.A. 44- 1116; (d) to include 
+those provisions in every subcontract or purchase order so that they are binding upon such 
+subcontractor or vendor; (e) that a failure to comply with the reporting requirements of (c) 
+above or if the Contractor is found guilty of any violation of such acts by the Kansas 
+Human Rights Commission, such violation shall constitute a breach of contract; (f) if the 
+contracting agency determines that the Contractor has violated applicable provisions of 
+ADA, that violation shall constitute a breach of contract; (g) if (e) or (f) occurs, the contract 
+may be cancelled, terminated or suspended in whole or in part by the County. Parties to this 
+contract understand that subsections (b) through (e) of this paragraph are not applicable to a 
+Contractor who employs fewer than four employees or whose contract with the County 
+totals $5,000 or less during this fiscal year. 
+ 
+11.  ACCEPTANCE OF CONTRACT.   
+ 
+This contract shall not be considered accepted, approved or otherwise effective until the 
+required approvals and certifications have been given and this is signed by the Board of 
+County Commissioners of the County of Shawnee, Kansas. 
+ 
+12.  ARBITRATION, DAMAGES, WARRANTIES.   
+ 
+Notwithstanding any language to the contrary, no interpretation shall be allowed to find the 
+County has agreed to binding arbitration, or the payment of damages or penalties upon the 
+occurrence of a contingency.  Further, the County shall not agree to pay attorney fees and 
+late payment charges; and no provisions will be given effect which attempts to exclude, 
+Page 49 of 137
+4 
+ 
+modify, disclaim or otherwise  attempt to limit implied warranties of merchantability and 
+fitness for a particular purpose. 
+ 
+13. REPRESENTATIVE’S AUTHORITY TO CONTRACT.   
+ 
+By signing this document, the representative of the Contractor thereby represents that such 
+person is duly authorized by the Contractor  to execute this document on behalf of the 
+Contractor and that the Contractor agrees to be bound by the provisions thereof. 
+ 
+14. SPECIAL PERMISSIONS 
+ 
+By signing below, the Director of Parks + Recreation gives written approval for alcohol 
+sales, service, and consumption at the facility or premises pursuant to Shawnee County 
+Home Rule Resolution 2019 - 1. Contractor agrees to be responsible for compliance with 
+all alcoholic liquor and/or cereal malt beverage laws of the State of Kansas.  
+ 
+ 
+14. TERMINATION OF AGREEMENT 
+ 
+This Agreement may be terminated by either party by giving the other party written notice 
+of the intent to terminate.  The notice must specify a date upon which the termination will 
+be effective, which date may not be less t han 7 calendar days from the date of mailing the 
+notice.  Only services satisfactorily performed up to the date of receipt of notice shall be 
+compensated by County and such compensation shall be pursuant to the terms of this 
+Agreement.  Notice to the Contractor pursuant to this paragraph shall be deemed received if 
+sent by certified mail addressed to the Contractor at the address written below the 
+Contractor’s signature on this Agreement. Notice to the County pursuant to this paragraph 
+must be sent by certified mail addressed as follows: 
+ 
+ Shawnee County Counselor’s Office 
+ 707 SE Quincy Street, Room 310 
+ Topeka, KS 66603 
+ 
+15.  AUTOMATED CLEARING HOUSE (ACH) 
+ 
+Shawnee County prefers to pay its vendor invoices via electronic funds transfers through 
+the automated clearing house (ACH) network. Shawnee County may require vendors to 
+accept payments via ACH. To initiate payment of invoices, vendors shall execute the 
+County's standard ACH Vendor Payment Authorization Agreement. Upon verification of 
+the data provided, the Payment Authorization Agreement will authorize the County to 
+deposit payment for services rendered or goods provided directly into vendor accounts with 
+financial institutions. All payments shall be made in United States currency. 
+ 
+ 
+16.  MISCELLANEOUS PROVISIONS 
+ 
+a. This Agreement shall be entered into in Shawnee  County, Kansas, and shall be 
+construed and interpreted according to the law of the State of Kansas. 
+Page 50 of 137
+5 
+ 
+b. Except for notice of termination, a ll other notices and other communications in 
+connection with this Agreement shall be in writing and shall be considered 
+given 3 days after mailing in the United States mail, using certified  mail, to the 
+recipient's address as stated in this Agreement. 
+c. Contractor shall comply with all federal, state and local laws r equiring business 
+permits, certificates and licenses required to carry out the services to be 
+performed under this Agreement. 
+d. Contractor may not assign any rights or obligations under this Agreement 
+without County's prior written approval. 
+e. This Agreement constitutes the entire agreement between the parties and may 
+only be modified or extended by a writte n amendment signed by the parties 
+hereto. 
+f. The invalidity, illegality, or unenforceability of any provision of this Agreement 
+or the occurrence of any event rendering any portion or provision of this 
+Agreement void shall in no way affect the validity or enforceability of any other 
+portion or provision of this Agreement.  Any void provision shall be deemed 
+severed from this Agreement, and the balance of this Agreement shall be 
+construed and enforced as if this Agreement did not contain the particular 
+portion or provision held to be void. 
+g. Nothing in this Agreement shall be construed to give any rights or benefits to 
+anyone other than County and Contractor. 
+h. The obligations of the parties under this Agreement that by their nature would 
+continue beyond expiration, termination or cancellation of this Agreement 
+(including, without limitation, any warranties, indemnification obligations, anti-
+discrimination requirements and ownership and property rights) shall survive 
+any such expiration, termination or cancellation. 
+ 
+IN WITNESS WHEREOF,  County  and Contractor  have executed this Agreement.  
+ 
+(Signatu re Page Follows)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COUNTY 
+Page 51 of 137
+SHAWNEE COUNTY 
+PARKS+ RECREATION 
+Tim L. Laurent, Director 
+BOARD OF COUNTY COMMISSIONERS 
+SHAWNEE COUNTY, KANSAS 
+William D. Riphahn, Chair 
+ATTEST: 
+Lisa Schmitt, Shawnee County Clerk 
+CONTRACTOR - 785 Beer Company 
+�kSi-¼ �' 6nature 
+Printed Name: P\sY) \.<lh L:uewe.-1) I 
+Address: 301 SE 45th Street, Topeka, KS 66609 
+Date: 9 \a�\ ?_Jo 
+6 
+Page 52 of 137
+Page 53 of 137
+Attachment B 
+TEMPORARY PERMIT FOR ALCOHOLIC LIQUOR AND/OR CEREAL MALT BEV ERAGES
+ON SHAWNEE COUNTY PROPERTY 
+RESOLUTION NO. R2026 
+A RES OLUTION T E MPORARIL Y EXEMPTING CERTAIN COUNTY PROPERTY
+FROM RESTRICTIONS ON SELLING, SERVING, POSSESSING OR CONSUMING
+ALCOHOLIC LIQUOR AND/OR CEREAL MALT BEVERAGES 
+SPONSORED BY COMMISSIONER RIPHAHN 
+WHEREAS, in Home Rule Resolution No. HR - 2023-1 the Board of County 
+C
+ommissioners of the County of Shawnee, Kansas established regulations for the selling, 
+serving, possessing  or consuming alcoholic liquor and/or cereal malt beverages on Shawnee 
+County Property; and 
+WHEREAS, in accordance with Home Rule Resolution No. HR-2023-1 any Shawnee 
+C
+ounty Parks + Recreation parks, building , or  facility hosting an authorized special or regular 
+event must obtain written permission from the Shawnee County Parks + Recreation Director and 
+a
+ resolution approved by the Board of County Commissioners in order to allow patrons of the 
+e
+vent to consume alcoholic liquor and/or cereal malt beverages; and 
+WHEREAS, K.S.A. 41-719 prohibits the drinking or consumption of alcoholic liquor on 
+public property unless permitted by the Board of County Commissioners in accordance with 
+K.S.A. 41-719(f); and 
+NOW, THEREFORE, The Board of County Commissioners of the County of Shawnee, 
+Kansas, meeting in regular session on this ___ day of __________, 2026, does hereby resolve as 
+follows: 
+1. The Board of County Commissioners hereby  temporarily permits the selling, 
+serving, possessing, or consuming alcoholic liquor and/or cereal malt beverages on the following 
+property owned by the County as set forth below: 
+Na
+me of Event: Smoke on the Water  
+Du
+ration of this Temporary Permit:  
+Fro
+m 10/9/2026 at 4:00 (PM) to 10/9/2026 at 10:00 (PM) 
+Pe
+rmitted Locations: Inside fenced area of the Shawnee Lake Campgrounds located 
+at 3435 SE East Edge Road 
+Ad
+ditional Restrictions on this Permit: No glass allowed; alcohol sales from 4:00 
+p.m. to 10:00 p.m. only.
+2. An
+y Vendor(s) selling or serving alcoholic liquor and/or cereal malt b everages
+pursuant to this permit shall be responsible for complying with all alcoholic liquor and/or cereal 
+092
+Page 54 of 137
+ 2 
+malt bevera ge laws of the State of Kansas, Shawnee County Clerk or City Clerk when 
+applicable.  
+ 
+Event organizer agrees to be responsible for insuri ng that any sales/serving of alcohol or cereal 
+malt beverages are conducted by a properly licensed person or entity.  
+ 
+3. This temporary permit shall be conspicuously posted within the Permitted 
+Location(s) during the entire time this permit is in effect. 
+ 
+          
+BOARD OF COUNTY COMMISSIONERS 
+           SHAWNEE COUNTY, KANSAS 
+         
+        
+ _____________________________________ 
+    William D. Riphahn, Chair 
+         
+ _____________________________________ 
+    Kevin J. Cook, Vice-Chair 
+  
+ _____________________________________ 
+    Aaron D. Mays, Member 
+ 
+ATTEST: 
+ 
+_________________________________ 
+Lisa Schmitt, Shawnee County Clerk 
+Page 55 of 137
+From: Brzon, Jonathan
+To: Tripe, Darrick
+Subject: RE: 785 Beer Co - Smoke on the Water vendor
+Date: Wednesday, September 16, 2026 1:30:16 PM
+Attachments: image001.png
+image002.png
+ 
+ 
+Approved as to form and legality.
+ 
+Jonathan Brzon
+Deputy Shawnee County Counselor
+707 SE Quincy, Room 310
+Topeka, Kansas  66603
+ 
+785.251.4202 (direct)
+785.251.4042 (office)
+www.snco.us/counselor/
+ 
+ 
+ 
+ 
+From: Tripe, Darrick <Darrick.Tripe@snco.us> 
+Sent: Wednesday, September 16, 2026 1:26 PM
+To: Brzon, Jonathan <Jonathan.Brzon@snco.us>
+Subject: 785 Beer Co - Smoke on the Water vendor
+ 
+Good afternoon Jonathan,
+Attached for your review is an ICAS & resolution to allow 785 Beer Co. to provide alcoholic
+bererages/cmb’s for this year’s Smoke on the Water BBQ event to be held at Lake Shawnee.
+Thank you,
+darrick
+ 
+Darrick Tripe
+Management Support Specialist
+Shawnee County Parks + Recreation
+Topeka, KS 66605
+785.251.6806 | www.parks.snco.us
+ 
+ 
+ 
+Page 56 of 137
+ 
+September 25, 2026 
+ 
+TO:  Board of Commissioners 
+  Shawnee County 
+  
+FROM:  Tim L. Laurent, Director 
+  Parks + Recreation 
+ 
+RE: Tarwater Farm and Home Supply – Smoke on the Water Event MOU 
+ Recreation Division  
+ 
+Purpose:  Consider approval of the attached Memorandum of Understanding (MOU) C2026xxx 
+with Tarwater Farm and Home Supply which establishes details of the Barbeque Bucks program 
+at the 2026 Smoke on the Water barbeque competition to be held at Lake Shawnee October 9.  
+ 
+Justification: The establishment of the Barbeque (BBQ) Bucks program allows patrons to 
+purchase and use BBQ Bucks within the event to purchase eligible food and event items from 
+participating vendors instead of cash . The program allows for c ashless exchange for purchases, 
+provides greater tracking of services utilized, and provides a basis for revenue sharing between 
+vendors and the department. Participating vendors will turn in  the accepted BBQ Bucks for 
+reconciliation by Parks + Recreation at the conclusion of the event and will be reimbursed by ACH 
+for the cash equivalent of the BBQ Bucks turned in minus any shared revenue . The BBQ Bucks 
+program is popular and common for barbeque competitions. 
+ 
+TLL/dlt 
+Attachments 
+ 
+Page 57 of 137
+Shawnee County Contract C2026341
+Page 58 of 137
+Page 59 of 137
+Page 60 of 137
