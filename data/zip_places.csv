@@ -6,7 +6,8 @@ zip,city,share_of_zip_area
 66013,(unincorporated),0.958
 66013,Overland Park,0.042
 66018,De Soto,0.5
-66018,(unincorporated),0.5
+66018,(unincorporated),0.492
+66018,Olathe,0.007
 66019,De Soto,1.0
 66019,(unincorporated),0.0
 66021,(unincorporated),0.901
@@ -18,11 +19,23 @@ zip,city,share_of_zip_area
 66030,Edgerton,0.053
 66031,(unincorporated),0.922
 66031,Olathe,0.078
+66044,(unincorporated),0.863
+66044,Lawrence,0.137
+66045,Lawrence,1.0
+66045,(unincorporated),0.0
+66046,(unincorporated),0.803
+66046,Lawrence,0.197
+66047,(unincorporated),0.892
+66047,Lawrence,0.108
+66049,(unincorporated),0.782
+66049,Lawrence,0.218
 66061,Olathe,0.576
-66061,(unincorporated),0.424
+66061,(unincorporated),0.415
+66061,Lenexa,0.009
 66062,Olathe,0.507
-66062,(unincorporated),0.339
+66062,(unincorporated),0.325
 66062,Overland Park,0.155
+66062,Spring Hill,0.013
 66083,(unincorporated),0.835
 66083,Spring Hill,0.123
 66083,Overland Park,0.042
@@ -55,21 +68,25 @@ zip,city,share_of_zip_area
 66202,Mission,0.439
 66202,Overland Park,0.301
 66202,Merriam,0.247
-66202,(unincorporated),0.012
+66202,Roeland Park,0.008
+66202,(unincorporated),0.004
 66203,Shawnee,0.533
 66203,Merriam,0.411
 66203,Overland Park,0.049
-66203,(unincorporated),0.007
+66203,Mission,0.007
+66203,(unincorporated),0.0
 66204,Overland Park,0.903
 66204,Merriam,0.088
-66204,(unincorporated),0.01
+66204,Prairie Village,0.009
+66204,(unincorporated),0.0
 66205,Roeland Park,0.421
 66205,Fairway,0.3
 66205,Westwood,0.11
 66205,Mission,0.085
 66205,Mission Hills,0.042
 66205,Mission Woods,0.023
-66205,(unincorporated),0.02
+66205,Westwood Hills,0.017
+66205,(unincorporated),0.003
 66206,Leawood,0.911
 66206,Overland Park,0.068
 66206,Prairie Village,0.021
@@ -79,7 +96,8 @@ zip,city,share_of_zip_area
 66207,(unincorporated),0.0
 66208,Prairie Village,0.7
 66208,Mission Hills,0.289
-66208,(unincorporated),0.01
+66208,Leawood,0.01
+66208,(unincorporated),0.001
 66209,Leawood,0.602
 66209,Overland Park,0.398
 66209,(unincorporated),0.0
@@ -127,3 +145,103 @@ zip,city,share_of_zip_area
 66227,Lenexa,0.663
 66227,Shawnee,0.333
 66227,(unincorporated),0.005
+66502,(unincorporated),0.953
+66502,Manhattan,0.047
+66503,(unincorporated),0.906
+66503,Manhattan,0.094
+66506,Manhattan,1.0
+66506,(unincorporated),0.0
+66603,Topeka,1.0
+66603,(unincorporated),0.0
+66604,Topeka,1.0
+66604,(unincorporated),0.0
+66605,Topeka,0.555
+66605,(unincorporated),0.445
+66606,Topeka,0.993
+66606,(unincorporated),0.007
+66607,Topeka,0.769
+66607,(unincorporated),0.231
+66608,Topeka,0.989
+66608,(unincorporated),0.011
+66609,(unincorporated),0.559
+66609,Topeka,0.441
+66610,(unincorporated),0.93
+66610,Topeka,0.07
+66611,Topeka,1.0
+66611,(unincorporated),0.0
+66612,Topeka,1.0
+66612,(unincorporated),0.0
+66614,(unincorporated),0.755
+66614,Topeka,0.245
+66615,(unincorporated),0.966
+66615,Topeka,0.034
+66616,Topeka,0.615
+66616,(unincorporated),0.385
+66618,(unincorporated),0.942
+66618,Topeka,0.058
+66621,Topeka,1.0
+66621,(unincorporated),0.0
+66622,Topeka,1.0
+66622,(unincorporated),0.0
+67202,Wichita,1.0
+67202,(unincorporated),0.0
+67203,Wichita,1.0
+67203,(unincorporated),0.0
+67204,Wichita,0.674
+67204,(unincorporated),0.235
+67204,Park City,0.05
+67204,Valley Center,0.04
+67205,Wichita,0.624
+67205,(unincorporated),0.345
+67205,Maize,0.031
+67206,Wichita,0.79
+67206,(unincorporated),0.198
+67206,Eastborough,0.013
+67207,Wichita,0.76
+67207,(unincorporated),0.221
+67207,Eastborough,0.019
+67208,Wichita,0.987
+67208,Eastborough,0.013
+67208,(unincorporated),0.0
+67209,Wichita,0.991
+67209,(unincorporated),0.009
+67210,(unincorporated),0.813
+67210,Wichita,0.187
+67211,Wichita,1.0
+67211,(unincorporated),0.0
+67212,Wichita,0.927
+67212,(unincorporated),0.073
+67213,Wichita,1.0
+67213,(unincorporated),0.0
+67214,Wichita,1.0
+67214,(unincorporated),0.0
+67215,(unincorporated),0.675
+67215,Wichita,0.325
+67216,Wichita,0.788
+67216,(unincorporated),0.212
+67217,Wichita,0.776
+67217,(unincorporated),0.187
+67217,Haysville,0.037
+67218,Wichita,0.996
+67218,(unincorporated),0.004
+67219,Wichita,0.408
+67219,Park City,0.38
+67219,(unincorporated),0.202
+67219,Kechi,0.009
+67220,Wichita,0.717
+67220,Bel Aire,0.269
+67220,(unincorporated),0.014
+67223,(unincorporated),0.754
+67223,Wichita,0.136
+67223,Maize,0.109
+67226,(unincorporated),0.484
+67226,Wichita,0.348
+67226,Bel Aire,0.168
+67230,Wichita,0.564
+67230,(unincorporated),0.436
+67235,Wichita,0.577
+67235,(unincorporated),0.423
+67260,Wichita,1.0
+67260,(unincorporated),0.0
+67401,(unincorporated),0.893
+67401,Salina,0.107
