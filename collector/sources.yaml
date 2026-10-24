@@ -242,4 +242,5 @@
   adapter: civicweb
   base: https://douglascountyks.civicweb.net
   bodies: "Commission"
-  folders: [/filepro/documents/5666, /filepro/documents/1009]
+  # Commission Board Meeting folders under Minutes (6367) and Agendas (1021); each holds per-year folders.
+  folders: [/filepro/documents/6367, /filepro/documents/1021]
