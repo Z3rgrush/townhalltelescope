@@ -192,6 +192,6 @@
   county: Saline
   adapter: cablecast
   base: https://salina-tv.com
-  search: commission
+  search: Salina City Commission
   titles: "Salina City Commission"
   agenda_file: publicfiles/4
