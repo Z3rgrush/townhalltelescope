@@ -4,11 +4,11 @@ Window: 2026-07-26 to 2026-10-24
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
 |---|---|---|---|---|---|---|
-| Douglas County Commission | civicweb | 2 | 2 | 2 | 0 |  |
+| Riley County Commission | civicclerk | 24 | 25 | 25 | 0 |  |
 
 ## Logs
 
-### Douglas County Commission
+### Riley County Commission
 ```
-  2 recent meetings in window
+  24 events in window
 ```
