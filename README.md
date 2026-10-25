@@ -6,7 +6,7 @@ The map covers every zip code and county in Colorado; areas without collected re
 
 A zip lists every government serving its residents: each town at the share of the zip's residents living in it, and each county government at its unincorporated share (zips nobody lives in use land area instead). In the county view, each county shows its county government plus every town with at least 10% of its residents in the county. A government's source id is its name as a slug (`commerce-city`, `boulder-county`); Denver and Broomfield are both city and county. `build_map.py` writes `zips.json` (top 8 issues) and `counties.json` (top 12).
 
-Records so far cover 18 governments in the Denver and Boulder area. `data/sources.csv` lists where each posts agendas and minutes; `collector/sources.yaml` configures the collector.
+Records so far cover 18 governments in the Denver and Boulder area. `collector/sources.yaml` configures the collector. `data/governments.csv` (from `scripts/master_list.py`, the master-list workflow) lists all 334 Colorado counties, cities and towns with each one's website, where it posts meeting records, the platform, and whether the collector already reads that platform; `data/governments.md` sums it up.
 
 Scripts take `--region co` (the default and only region); paths are in `collector/regions.py`. The project covered parts of Kansas until October 2026; that work is in git history. The old `/co/` address redirects to the main page.
 
