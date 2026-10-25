@@ -1,0 +1,2116 @@
+AGENDA 
+STUDY SESSION MEETING OF THE CITY COUNCIL 
+VIRTUAL MEETING 
+CITY OF LAKEWOOD, COLORADO 
+VIRTUAL MEETING 
+SEPTEMBER 21, 2026 
+7:00 PM  
+To watch the Council meeting live, please use either one of the following links: 
+City of Lakewood Website: Lakewood.org/CouncilVideos 
+Lakewood Speaks: Lakewoodspeaks.org 
+ 
+The City of Lakewood does not discriminate on the basis of race, age, national origin, 
+color, creed, religion, sex, sexual orientation or disability in the provision of services. 
+People needing reasonable accommodation to attend or participate in a City service 
+program can call 303-987-7080 or TDD 303-987-7057. Please give notice as far in 
+advance as possible so we can accommodate your request. 
+ 
+How to Connect to Provide Public Comment: Online participants may post written 
+comments of any length to LakewoodSpeaks.org, an online forum for public comments.   
+ITEM 1 – CALL TO ORDER 
+ITEM 2 – ROLL CALL 
+ITEM 3 – Presentation Regarding Automated License Plate Readers 
+ 
+ITEM 4 – COMMITTEE REPORTS 
+ITEM 5 – ADJOURNMENT 
+ 
+Page 1 of 68
+STAFF MEMO 
+ 
+DATE OF MEETING: SEPTEMBER 21, 2026 / AGENDA ITEM NO. 3 
+ 
+To: Mayor and City Council 
+From: Phillip Smith, Chief of Police 
+Subject: Automated License Plate Readers 
+ 
+SUMMARY STATEMENT: The Lakewood Police Department has used Automated License Plate 
+Recognition (ALPR) technology in various forms since 2010 and currently operates 17 fixed ALPR 
+cameras provided by Flock Safety. ALPR technology has assisted Department personnel in serious 
+criminal investigations, the recovery of stolen property, the identification of offenders, and the location 
+of missing and endangered people. The technology also creates legitimate privacy concerns because 
+it collects and temporarily retains searchable vehicle-location information, including observations of 
+vehicles not suspected of involvement in criminal activity. 
+ 
+  The use of ALPR in Lakewood has always been of a more limited scope than has been described in 
+other jurisdictions.  Additionally, in response to public concerns about the use of ALPR, the Lakewood 
+PD has revised PP-9126 to reduce routine data retention, limit information sharing, establish recurring 
+audits, strengthen restrictions on access, and updated the LPD Transparency Portal with information 
+on ALPR technology. In this presentation, staff will provide approaches to the use of ALPR cameras 
+within Lakewood that seek to retain the public-safety value of ALPR while preserving meaningful 
+privacy protections, but the primary purpose of this study session is to provide an opportunity for the 
+City Council to review Lakewood’s current use of ALPR technology, consider whether additional 
+safeguards are appropriate, and allow them to discuss the relationship between the City’s proposed 
+Automated Vehicle Identification System (AVIS) and the existing ALPR. 
+ 
+BACKGROUND INFORMATION: The Department has used ALPR technology since 2010 and 
+currently operates 17 fixed Flock Safety cameras that capture still images of vehicles. None of these 
+17 fixed cameras capture faces, use facial recognition, record continuous video, provide pan-tilt-zoom 
+surveillance, or operate as mobile units. The system records license plates and general vehicle 
+characteristics for authorized law-enforcement purposes, with routine observations retained for 30 
+days. 
+ 
+Initial implementation of the current ALPR system and the first year of the agreement were funded 
+through a federal Edward Byrne Memorial Justice Assistance Grant (JAG). Subsequent annual costs 
+have been paid from the Police Department budget. The City’s current subscription agreement for the 
+17-camera Flock ALPR system costs approximately $58,000 annually and automatically renews in 
+January 2027 but can be terminated at any time. The agreement was executed administratively under 
+the City’s purchasing policy regulations. 
+ 
+Lakewood’s Current ALPR System 
+   Lakewood’s ALPR cameras capture still images of passing vehicles and record the observed 
+license plate, date, time, camera location, and general vehicle characteristics such as make, model, 
+color, body type, and distinguishing features. The cameras do not capture or identify faces, employ 
+Page 2 of 68
+facial-recognition technology, continuously record video, or use pan-tilt-zoom capabilities. 
+   The system compares observed plates against authorized law-enforcement information, including 
+CCIC and NCIC hot lists, and may generate an alert for authorized personnel. Authorized users may 
+also search for stored observations using a license plate or general vehicle characteristics as part of 
+a criminal investigation or other legitimate public-safety matter. 
+   ALPR information is an investigative lead. It does not identify the driver, establish guilt, or 
+independently justify enforcement action. PP-9126 prohibits a traffic stop based solely on an ALPR 
+alert and requires personnel to confirm the plate and underlying CCIC or NCIC information before 
+taking enforcement action. 
+ 
+Data Retention, Access, and Sharing 
+    Routine ALPR observations are retained for 30 days and then automatically deleted by the vendor 
+unless affirmatively preserved by the Lakewood PD for an authorized investigative, evidentiary, civil, 
+internal-affairs, personnel, or administrative purpose. Lakewood PD requires that preserved 
+information must be transferred to Evidence.com and maintained in accordance with the 
+requirements applicable to the associated matter and C.R.S. § 24-72-113. 
+     Access to information received through the ALPR is limited to sworn law enforcement and 
+approved non-sworn employees of Lakewood whose assignments require use of the system. Each 
+user has an individual account, and access is deactivated when no longer required. Every search 
+must have a legitimate law-enforcement basis, and the reason for the search must be documented. 
+Personal or other unauthorized use violates Department policy and will result in corrective or 
+disciplinary action. 
+   Lakewood affirmatively selects the agencies permitted to search for information generated by its 
+cameras. Continuing access is limited to Colorado state and local law-enforcement agencies that 
+reciprocally share ALPR information with Lakewood. Lakewood users do not receive results from 
+unapproved agencies, out-of-state or federal agencies, or the nationwide Flock network through this 
+arrangement. Lakewood does not allow access to data by private Flock customers. Lakewood has 
+not authorized any federal agency to directly access its information. Flock can not independently 
+access Lakewood’s data unless they obtain permission from Lakewood personnel for an approved 
+purpose, such as IT assistance.  
+  Access, use, and disclosure are also subject to Colorado law and Department policy, including 
+restrictions concerning federal immigration enforcement and legally protected health-care activity. 
+These restrictions apply regardless of the ALPR vendor used by the City. 
+Privacy Safeguards and Revisions to PP-9126 
+   The principal privacy concern presented by ALPR is the collection of searchable vehicle-location 
+information about all passing vehicles, including those having no known connection to criminal 
+activity. The ability to combine and retrospectively search observations makes appropriate limits on 
+retention, access, use, and sharing particularly important. 
+     In response to concerns raised by community members, the Department revised PP-9126. The 
+adopted and implemented revisions seek to impose the following limitations on Lakewood's use of 
+ALPR data: 
+• Reduce routine retention from one year to 30 days and strengthen documentation 
+requirements for searches; 
+• Limit ongoing information sharing to reciprocal Colorado state and local law-enforcement 
+agencies; 
+Page 3 of 68
+• Establish recurring internal audits and periodic audits of outside-agency searches; 
+• Permit Lakewood to restrict, suspend, or terminate outside-agency access and require an 
+annual administrative review of the program; 
+• Expressly prohibit unauthorized or discriminatory use of data received through ALPR; and  
+• Incorporate Colorado statutory restrictions concerning federal immigration enforcement and 
+legally protected health-care activity into the local regulations to serve as a constant reminder 
+to users of ALPR data of the requirements of those laws. 
+      
+    These safeguards govern the Department’s use of ALPR technology and are not dependent on a 
+particular vendor. If any vendor were to be selected to provide this service within Lakewood, such 
+vendor would be evaluated for its ability to comply with Lakewood’s requirements concerning privacy, 
+security, retention, sharing, auditing, and administrative control. 
+   While any safeguard is developed after review for legal concerns, operational effect, technological 
+feasibility, cost, and staff workload, staff is aware that there may be additional safeguards the City 
+should adopt to assure that the ALPR within Lakewood best meets Lakewood's desires for crime 
+control and privacy protections.  Some areas of review could include shorter retention, further sharing 
+limitations, different audit or reporting requirements, additional training and access reviews, or further 
+technical and contractual controls.  
+Community and Victim Benefit 
+   Lakewood has recently used ALPR information as an important component to help identify a 
+suspect in an ongoing sexual-assault and kidnapping series, advance homicide investigations, 
+recover stolen vehicles and property, connect related crimes, identify a driver following a fatal hit-and-
+run, and safely locate vulnerable missing people. It must be acknowledged, though, that in each 
+instance ALPR was only one component of a broader investigation and did not replace interviews, 
+evidence collection, legal process, or professional judgment. It provided vehicle-related information 
+that helped investigators identify leads, direct resources, and reduce the time required for manual 
+review of video, records, and other evidence. 
+   Lakewood contracted with Flock Safety in 2023 when the City’s previous ALPR technology became 
+too cumbersome for continued use. In 2022, Colorado had the highest auto-theft rate in the nation, 
+and more than 3,000 hit-and-run crashes were reported in Lakewood alone between 2021 and 2023. 
+Lakewood PD recognized the community's frustration with how common this crime had become and 
+did not want to forgo use of a technology that was valuable for addressing these types of crimes.  
+Comparison to AVIS 
+  ALPR and the City’s proposed Automated Vehicle Identification System (AVIS) both use fixed 
+roadway cameras and automated license-plate recognition, but they serve different purposes. AVIS 
+uses continuous video monitoring of the roadway to capture evidence of a suspected red-light or 
+speeding violation for civil traffic enforcement and may include images used to identify the driver. 
+ALPR collects information about a broader population of passing vehicles but uses that information 
+only as an investigative lead. It does not identify the driver, establish a violation, or independently 
+support enforcement action. 
+   The City previously solicited proposals from AVIS vendors, identified a preferred vendor, and began 
+contract negotiations. Contracting difficulties prevented completion of an agreement in time for 
+implementation in 2025. Continuing contracting issues and administrative and policy considerations 
+subsequently led the City to remove AVIS from consideration during development of the 2026 budget. 
+     AVIS has not been implemented, and the procurement process is currently on hold. Resuming the 
+project would require evaluation of available technology, procurement requirements, program costs, 
+implementation timing, and City policy direction on the issues arising with use of any camera system 
+Page 4 of 68
+for law enforcement purposes. 
+ 
+BUDGETARY IMPACTS: No additional budget impact is associated with this study session.  
+ 
+STAFF RECOMMENDATIONS:    Lakewood's ALPR program provides established public-safety 
+value, and staff believes that value can be preserved alongside meaningful privacy protections rather 
+than by choosing between them. The current deployment is limited in scope to: 17 fixed cameras, no 
+facial recognition, no continuous video or mobile units. The revisions to PP-9126 respond directly to 
+community concerns by shortening retention of any data collected to 30 days, limiting data sharing to 
+reciprocal Colorado agencies, adding recurring internal and external audits, and incorporating the 
+statutory restrictions on immigration enforcement and health-care-related searches. 
+ 
+  Whether these safeguards go far enough is a policy judgment for the City Council. Staff is prepared 
+to research, draft, or implement any additional safeguards the City Council would like to consider. 
+ 
+ALTERNATIVES:    The City Council may request that staff evaluate additional policy safeguards, 
+operational limitations, or data-sharing restrictions. The City Council may also request additional 
+information or analysis regarding the program or pursue formal action concerning modification or 
+discontinuation of the program. 
+ 
+PUBLIC OUTREACH:    This study session was scheduled in response to concerns raised by 
+community members regarding ALPR technology and Lakewood’s use of the Flock Safety platform. 
+Information regarding the Department’s ALPR program is available through the Police Department’s 
+transparency portal. This item has also been promoted through the regular communication channels 
+to be considered by the Lakewood City Council, and members of the public may provide comment 
+through the City’s regular public-comment process. 
+ 
+NEXT STEPS:   Following the study session, the Department will evaluate any additional safeguards 
+or policy considerations identified by City Council.  
+ 
+ATTACHMENTS: 1.   Lakewood Police Department ALPR Program Strategic Assessment 
+2.   24-05043 Flock Group ALPR v2 
+3.   Executed Agr. 6295 Ext. 1 Flock Group Inc 
+ 
+REVIEWED BY: Benjamin B. Goldstein, Interim City Manager  
+Alison McKenney Brown, City Attorney 
+ 
+Page 5 of 68
+LAKEWOOD POLICE DEPARTMENT 
+ 
+Automated License Plate Reader (ALPR) Program 
+Strategic Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared for 
+Chief of Police 
+City Manager 
+Lakewood City Council 
+ 
+Prepared by 
+Ben Barefoot 
+Commander - Patrol Division 
+ 
+August 2026 
+Page 6 of 68
+ 2 
+Contents 
+I. Community Beneﬁt: Why This Program Matters ......................................................... 3 
+II. Victim Justice, Accountability, and Community Safety ............................................... 8 
+III. Department-Wide Operations Impact ...................................................................... 9  
+IV . Strategic Investment, Operations Readiness, and Future Vision ............................... 11 
+V . Governance, Transparency, and Accountability ....................................................... 16 
+VI. Conclusion and Recommendations ....................................................................... 19  
+VII. Final Statement .................................................................................................... 20  
+ 
+  
+Page 7 of 68
+ 3 
+I. Community Beneﬁt: Why This Program Matters 
+Every criminal investigation represents more than a case number. Behind each report is a 
+victim seeking justice, a family waiting for answers, a business recovering from loss, or a 
+community expecting accountability. The primary purpose of law enforcement is to protect 
+people from harm, investigate criminal activity, and hold oƯenders accountable. As 
+criminal methods evolve and oƯenders become increasingly mobile, law enforcement 
+agencies must appropriately employ modern investigative techniques that improve their 
+abilities to protect the public while respecting constitutional rights and individual privacy. 
+The Lakewood Police Department’s Automated License Plate Reader (ALPR) program is one 
+such capability. Although often described in terms of cameras and software, its true value 
+is measured by what timely investigative vehicle data can mean for the people aƯected by 
+crime: identifying an oƯender before another person is victimized, providing answers to the 
+family of a homicide victim, recovering stolen property, identifying a driver who ﬂed a fatal 
+crash, or helping locate a vulnerable missing person safely. 
+For victims and their families, time matters. Delays can prolong uncertainty, allow critical 
+evidence to disappear, reduce opportunities to recover stolen property, and provide 
+oƯenders additional opportunities to cause harm. ALPR does not replace Police Agents, 
+investigators, traditional investigative techniques, or professional judgment. Rather, it 
+provides objective investigative vehicle data that can help personnel develop leads, focus 
+investigative resources, and advance time-sensitive investigations more eƯiciently. 
+Responsible Use and Existing Accountability Measures 
+The community beneﬁt provided by ALPR carries a corresponding responsibility to ensure 
+the technology is used lawfully, appropriately, and with meaningful safeguards. The 
+Lakewood Police Department’s program operates within an established framework of 
+Department policy, Colorado law, Criminal Justice Information Services (CJIS) security 
+requirements, administrative oversight, and contractual protections with the ALPR vendor 
+designed to ensure investigative vehicle data are used only for legitimate law enforcement 
+purposes. 
+Existing safeguards include restricted access for authorized personnel, documented law 
+enforcement purposes for system use, supervisory and administrative oversight, and 
+auditing capabilities that provide accountability for access and use. ALPR alerts are treated 
+as investigative information, not independent justiﬁcation for enforcement action and must 
+be veriﬁed against applicable law enforcement databases before action is taken. 
+Department policy also establishes requirements governing data retention, preservation, 
+access, and sharing consistent with Colorado law.  
+Page 8 of 68
+ 4 
+The Department has implemented additional safeguards beyond basic system access. 
+Routine investigative vehicle data are subject to deﬁned retention requirements; 
+information preserved beyond established periods must meet authorized investigative, 
+evidentiary, administrative, or legal purposes. Information sharing is limited to legitimate 
+criminal justice purposes, and the Department has further restricted ongoing access to 
+vetted Colorado law enforcement agencies operating within the same statutory and CJIS 
+framework. The City retains ownership of data generated through its ALPR cameras, and 
+the City’s agreement was reviewed through established procurement and legal processes, 
+including review of privacy, security, and operational safeguards. 
+The technology itself is also intentionally limited in scope. Lakewood’s ﬁxed ALPR cameras 
+capture still images of license plates and limited vehicle descriptors. They are not used for 
+facial recognition or continuous video surveillance. These operational limitations, 
+combined with Department policy, legal requirements, administrative controls, and data-
+governance practices, are intended to ensure the program remains a focused investigative 
+capability rather than a system of generalized surveillance. 
+These safeguards are addressed in greater detail in Section V – Governance, 
+Transparency, and Accountability later in the assessment. They are presented here at the 
+outset because responsible governance is integral to the community beneﬁt described 
+throughout this assessment. 
+Community Impact in Practice 
+The Department’s experience demonstrates how that capability has supported meaningful 
+outcomes for victims, families, and the broader community. 
+Protecting Victims from an Ongoing Sexual Assault and Kidnapping Series 
+Multiple women in Lakewood and JeƯerson County reported being picked up by an 
+unknown male, driven in his truck to the Chief Hosa area near Evergreen, sexually 
+assaulted, and left in an isolated location. Investigators were confronted with an ongoing 
+series involving multiple victims and an unidentiﬁed oƯender who remained a threat to 
+other women in the community. 
+A Lakewood detective used City camera footage to track the suspect vehicle during one of 
+the kidnapping investigations and obtained multiple still images. A Lakewood crime analyst 
+then compared those images against thousands of license plate reads and vehicle images 
+captured through the Department’s legacy ALPR system. That analysis produced a 
+potential vehicle match, which investigators used with additional investigative techniques 
+to identify the registered owner as the suspect in the series of sexual assaults and 
+kidnappings. The suspect was subsequently arrested. 
+Page 9 of 68
+ 5 
+Community Beneﬁt: ALPR provided an investigative connection that helped 
+personnel move from an unidentiﬁed vehicle to an identiﬁed suspect in a series 
+involving multiple victims. The resulting investigation and arrest ended an ongoing 
+threat and reduced the opportunity for additional women to be victimized. 
+Advancing Homicide Investigations and Providing Answers to Families 
+Few investigations carry greater consequences for victims’ families or the community than 
+homicide. In several Lakewood homicide investigations, ALPR information has helped 
+investigators identify previously unknown suspect vehicles, develop leads, reconstruct 
+movements, and identify individuals requiring further investigation. 
+In one homicide, investigators reviewing witness information and surveillance video 
+identiﬁed potential suspect vehicles but initially lacked suƯicient information to identify 
+them. A Lakewood crime analyst narrowed the timeframe in which the vehicles arrived at 
+the scene and identiﬁed a nearby Flock ALPR camera. ALPR images matching the vehicles 
+observed in surveillance footage also provided license plate information, allowing 
+investigators to identify registered owners, develop potential connections to vehicle 
+occupants, and pursue additional investigative leads. Further investigation ultimately 
+resulted in the identiﬁcation of multiple suspects and arrests. 
+In another homicide, investigators initially had only images and a general description of a 
+potential suspect vehicle. City cameras allowed personnel to track the vehicle until it left 
+Lakewood, while ALPR search capabilities allowed investigators to compare vehicles with 
+similar make, model, and color characteristics against the available image. A potential 
+match was identiﬁed, and additional investigation conﬁrmed the vehicle, and assisted 
+detectives in identifying its driver and passenger. The suspect was subsequently arrested. 
+The Department has seen similar value in other homicide investigations. In one case, 
+analysts combined an ALPR vehicle image, image-enhancement techniques, and 
+additional ALPR reads. They were able to overcome an initially unreadable temporary 
+registration and identify the suspect vehicle and registered owner. Additional investigation 
+conﬁrmed the vehicle’s involvement and led to a prompt arrest. In the homicide of a 14-
+year-old victim, ALPR information was combined with City camera footage and lawfully 
+obtained call-detail records to reconstruct the movements of suspect vehicles before and 
+after the shooting and provide detectives with a detailed investigative timeline. 
+Community Beneﬁt: In these investigations, ALPR did not replace the extensive 
+work required to investigate a homicide. It helped investigators answer critical 
+questions sooner: what vehicle was involved, where it traveled, and who may have 
+been associated with it. For grieving families and a concerned community, 
+Page 10 of 68
+ 6 
+accelerating those investigative steps can mean earlier answers, stronger 
+investigative direction, and more timely accountability. 
+Recovering Property and Reducing Repeat Victimization 
+The impact of crime is not limited to violent oƯenses. Motor vehicle theft and organized 
+property crime create ﬁnancial loss, disrupt victims’ lives, aƯect local businesses, and 
+frequently involve oƯenders responsible for multiple crimes. 
+During one investigation involving a habitual motor vehicle theft oƯender, investigators 
+observed several vehicles and a trailer at a Lakewood residence that could not initially be 
+identiﬁed. ALPR information identiﬁed a heavy-duty pickup truck and trailer as having been 
+stolen earlier that day. That information helped advance the investigation and supported 
+execution of a search warrant, resulting in the recovery of three stolen vehicles, a stolen 
+trailer, and additional evidence. The oƯender, who had seven prior motor vehicle theft 
+convictions, ultimately pleaded guilty and received a minimum eight-year prison sentence. 
+In a separate metro-area commercial burglary series involving stolen vehicles and armed 
+suspects, ALPR information helped investigators identify a stolen vehicle traveling with 
+another vehicle associated with the crimes. Coordination with partner agencies resulted in 
+the vehicle being located later that night and contributed to arrests and development of a 
+multi-agency case involving approximately 80 oƯenses committed by multiple suspects. 
+Community Beneﬁt: These investigations demonstrate that identifying a vehicle 
+can have consequences well beyond recovering property from a single oƯense. 
+Timely investigative information can help connect related crimes, identify additional 
+victims, recover stolen property, interrupt continuing criminal activity, and reduce 
+opportunities for repeat victimization. 
+Providing Accountability After a Fatal Hit-and-Run 
+For the family of a person killed in a hit-and-run crash, identifying the responsible driver is 
+an essential ﬁrst step toward answers, accountability and mourning. In one Lakewood fatal 
+crash investigation, investigators reviewing traƯic and ALPR camera information identiﬁed 
+license plate information associated with the involved vehicle. That information allowed 
+law enforcement to issue a regional alert, and the suspect was located and taken into 
+custody before the end of the same day. 
+Community Beneﬁt: Timely vehicle identiﬁcation accelerated a serious 
+investigation when investigative time mattered. It preserved momentum, supported 
+prompt apprehension, and provided the victim’s family meaningful progress toward 
+accountability on the same day as the fatal event. 
+Page 11 of 68
+ 7 
+Helping Bring Vulnerable Missing People Home 
+Not every ALPR success results in an arrest or prosecution. Some of the program’s most 
+direct community beneﬁts occur when Department personnel are searching for vulnerable 
+people whose safety may depend upon locating them quickly. 
+Department personnel reported multiple investigations involving at-risk missing adults in 
+which ALPR information provided recent vehicle sightings and travel patterns that 
+signiﬁcantly narrowed search areas. In several cases, the information directly contributed 
+to locating missing individuals safely. Personnel reported that without timely access to 
+ALPR information, the searches likely would have required substantially more time and 
+resources and, in some cases, may not have achieved the same successful outcome as 
+quickly. 
+Community Beneﬁt: For the missing individual, the beneﬁt is safety. For a family 
+waiting for information, it is the return of a loved one. For Police Agents and 
+investigators, timely investigative vehicle data allows limited resources to be 
+concentrated where they are most likely to locate the person quickly. 
+The Broader Community Beneﬁt 
+These cases involve very diƯerent circumstances, but they demonstrate a consistent 
+beneﬁt: the value of ALPR is found in the outcomes it helps Department personnel achieve 
+for people. 
+The same technique that helps investigators identify a vehicle associated with a homicide 
+can help locate an at-risk missing person, recover a victim’s stolen property, identify a 
+driver who ﬂed a fatal crash, or connect crimes that initially appear unrelated. In each 
+circumstance, ALPR served as one component of a broader investigative process guided by 
+trained personnel, traditional investigative techniques, professional judgment, Department 
+policy, and applicable laws. 
+The beneﬁts also extend beyond the individual investigations. When investigative leads are 
+developed more eƯiciently, investigators can devote additional time to other victims 
+awaiting assistance. Police Agents spend less time conducting manual vehicle searches 
+and more time providing visible patrol, proactive enforcement, and community 
+engagement. Investigators can focus additional time on interviews, evidence collection, 
+victim support, and comprehensive case development. Collectively, these eƯiciencies 
+strengthen the Department’s ability to serve the community while improving the 
+stewardship of limited public resources. 
+Page 12 of 68
+ 8 
+Ultimately, ALPR should not be evaluated solely by the number of cameras deployed, alerts 
+generated, searches conducted, or investigative hours returned to the Department. Its 
+greatest value lies in the people it serves: victims who receive answers, families who see 
+investigations move forward, vulnerable people who are located safely, property that is 
+returned to its owners, oƯenders who are held accountable, and future victims who may 
+never experience the harm that timely intervention helped prevent. 
+II. Victim Justice, Accountability, and Community Safety 
+The investigations highlighted in Section I demonstrate that the value of the Automated 
+License Plate Reader (ALPR) extends beyond the identiﬁcation of a vehicle or development 
+of an investigative lead. For victims and their families, timely investigative progress can 
+mean earlier answers, recovery of stolen property, identiﬁcation of those responsible, or 
+the safe return of a missing loved one. For the broader community, eƯective investigations 
+can reduce opportunities for additional victimization and strengthen accountability 
+through the criminal justice system. 
+The ALPR program supports these outcomes by providing objective investigative vehicle 
+data that assists Police Agents and investigators in developing leads, corroborating 
+evidence, establishing timelines, identifying connections between incidents, and focusing 
+investigative resources. The program does not replace traditional investigative techniques 
+or professional judgment. Rather, it complements witness interviews, forensic evidence, 
+surveillance, and other investigative methods by providing an additional source of timely, 
+independently veriﬁable investigative information. 
+This distinction is important. ALPR information is generally one component of a larger 
+investigation, and investigative conclusions are reached through the totality of available 
+evidence. The program’s value is therefore not measured by whether ALPR independently 
+“solves” a case, but by whether it helps Department personnel make better-informed 
+decisions, advance investigations more eƯiciently, and devote limited investigative 
+resources where they can provide the greatest beneﬁt. 
+Timely investigative information also contributes to prevention. While every investigation 
+must be evaluated objectively based upon its individual facts, Department personnel 
+regularly encounter oƯenders whose criminal activity involves multiple incidents or 
+victims. As demonstrated by the sexual assault and kidnapping series, habitual motor 
+vehicle theft investigation, and multi-jurisdictional burglary series described in Section I, 
+identifying a vehicle or connecting related incidents can help investigators recognize 
+broader patterns of criminal activity and intervene before additional victimization occurs. 
+Page 13 of 68
+ 9 
+Ultimately, victim justice, oƯender accountability, and community safety are 
+interconnected. The value of ALPR lies not in the technology itself, but in its ability to 
+support Police Agents and investigators as they pursue those outcomes through 
+professional judgment, objective investigation, and responsible use of Department 
+resources. 
+When used responsibly and within established legal, policy, and operational 
+safeguards, the ALPR program strengthens the Department's ability to pursue justice 
+for victims, support objective criminal investigations, and protect the community from 
+future harm. 
+III. Department-Wide Operations Impact 
+The Lakewood Police Department’s Automated License Plate Reader program serves as a 
+department-wide operations capability that enhances the Department’s ability to protect 
+the community through both proactive patrol operations and reactive criminal 
+investigations. Unlike tools designed for a single assignment or specialized function, ALPR 
+supports personnel across nearly every operations component of the Department. Police 
+Agents, investigators, supervisors, traƯic personnel, and specialized units use the program 
+diƯerently based upon their responsibilities, yet all rely upon the same objective: 
+protecting the community through timely investigative information, informed decision-
+making, and eƯective criminal investigations. 
+Proactive Patrol Operations 
+For patrol personnel, ALPR functions as a proactive public safety capability operating 
+continuously throughout each shift. While Police Agents perform their normal patrol 
+responsibilities, the system automatically compares observed license plates against 
+authorized law enforcement databases and generates notiﬁcations when vehicles 
+associated with criminal investigations or public safety alerts are identiﬁed. 
+Police Agents evaluate each notiﬁcation within the totality of the circumstances and 
+determine the appropriate response based upon their training, experience, Department 
+policy, and applicable law. ALPR alerts serve as investigative information and are 
+independently veriﬁed before enforcement action is taken. Many of these encounters result 
+in the recovery of stolen vehicles, identiﬁcation of wanted persons, or the initiation of 
+investigations that may not otherwise have occurred until much later. 
+Although each individual contact may represent only a small portion of a larger 
+investigation, collectively these proactive interactions create investigative opportunities 
+while allowing Police Agents to continue their broader patrol responsibilities. 
+Page 14 of 68
+ 10 
+Reactive Investigative Support 
+Investigators use ALPR diƯerently, but with equally important operational value. Following 
+the commission of a crime, historical investigative vehicle data can assist investigators in 
+identifying suspect vehicles, corroborating witness statements, reconstructing vehicle 
+movements, establishing timelines, connecting related incidents, and developing objective 
+information. 
+The victim-focused investigations described in Section I demonstrate how this information 
+can contribute to serious and time-sensitive cases. In each instance, ALPR served as one 
+component of a broader investigative process that included traditional investigative 
+techniques, professional judgment, and other available evidence. 
+By reducing the time required to identify and analyze vehicle-related information, 
+investigators can devote additional attention to interviewing witnesses, supporting victims, 
+collecting evidence, coordinating with partner agencies, and developing comprehensive, 
+evidence-based criminal cases. 
+A Connected Operations Capability 
+The combination of proactive patrol use and reactive investigative application makes ALPR 
+a particularly valuable department-wide capability. Information identiﬁed during patrol 
+operations may later become important to a criminal investigation, while investigative 
+ﬁndings can support future patrol operations. The same underlying capability therefore 
+provides value at multiple stages of the public safety response. 
+Rather than serving a single unit or investigative specialty, ALPR strengthens collaboration 
+throughout the Department by providing authorized personnel with timely access to 
+objective investigative vehicle data appropriate to their operational responsibilities. This 
+creates continuity between initial response, proactive enforcement, investigative follow-
+up, and case development. 
+Department-Wide Operational Perspective 
+The value of ALPR is reﬂected not only in the investigations described earlier in this 
+assessment, but also in the daily experience of Department personnel who rely on it to 
+support public safety operations. Discussions with Police Agents, investigators, 
+supervisors, traƯic personnel, and specialized units consistently demonstrated that the 
+program has become an integrated component of operations across the Department. 
+Patrol personnel emphasized the program’s proactive value during routine operations. 
+Because the capability operates in the background while Police Agents perform their 
+normal responsibilities, it can identify investigative opportunities without requiring 
+Page 15 of 68
+ 11 
+personnel to continuously conduct manual vehicle searches. The information provided by 
+the system enhances situational awareness while leaving operational decisions with the 
+Police Agent based upon the totality of the circumstances. 
+Investigators assigned to Property Crimes, Crimes Against Persons, TraƯic, and specialized 
+assignments consistently reported that ALPR strengthens investigations by identifying 
+suspect vehicles, corroborating investigative ﬁndings, establishing timelines, connecting 
+related incidents, and developing objective investigative information. Personnel noted that 
+investigative work which previously required hours—or in some cases days—of reviewing 
+surveillance footage or coordinating with outside agencies can often be completed 
+signiﬁcantly more eƯiciently when investigative vehicle data is available as one component 
+of a comprehensive investigation. 
+Collectively, these operational experiences demonstrate that ALPR has become an 
+established department-wide operations technique supporting Patrol, TraƯic, Property 
+Crimes, Crimes Against Persons, and specialized investigative functions alike. Regardless 
+of assignment, personnel consistently identiﬁed the same outcome: ALPR enables them to 
+make better-informed decisions, develop investigations more eƯiciently, and better serve 
+victims and the community. 
+As the program has matured, the focus shifts from demonstrating individual investigative 
+successes to evaluating the broader operational capability those successes represent. This 
+provides the foundation for considering the Department’s continued investment, 
+operational readiness, and responsible future development of ALPR. 
+IV. Strategic Investment, Operations Readiness, and 
+Future Vision 
+Learning from Experience 
+Responsible stewardship requires continual evaluation rather than one-time decisions. 
+Public safety capabilities, operational needs, and community expectations evolve over 
+time, requiring the Department to periodically assess whether existing capabilities 
+continue to provide measurable value. The Lakewood Police Department’s Automated 
+License Plate Reader (ALPR) program reﬂects that philosophy. 
+The Department ﬁrst implemented ALPR technology in 2010, nearly 16 years ago using the 
+PIPS Technology platform, which later became Neology following a corporate acquisition. 
+For more than a decade, the program provided valuable investigative support to Patrol 
+personnel and investigators. However, as vendor support declined and the platform 
+Page 16 of 68
+ 12 
+became increasingly diƯicult to maintain, the Department determined that continuing to 
+invest in aging infrastructure no longer represented responsible stewardship of public 
+resources. 
+Rather than simply replacing equipment, the Department conducted a comprehensive 
+evaluation of the ALPR marketplace to determine whether the program continued to 
+provide suƯicient operational value to justify continued investment. That evaluation 
+ultimately resulted in the selection of the Flock Safety platform under a Software-as-a-
+Service (SaaS) model. The decision reﬂected the Department’s commitment to 
+continually evaluating public safety capabilities based on operational performance, 
+reliability, governance, and measurable community beneﬁt. 
+This progression illustrates an important principle. Responsible stewardship is not 
+demonstrated by maintaining existing systems indeﬁnitely or by adopting new technology 
+simply because it is available. It is demonstrated through disciplined evaluation, thoughtful 
+implementation, and a willingness to adapt when operational experience indicates a better 
+solution exists. 
+Comparative Technology Context 
+ALPR technology can be deployed using diƯerent equipment conﬁgurations and 
+capabilities, even when provided by the same vendor. Systems incorporating video 
+recording and pan-tilt-zoom (PTZ) capabilities are operationally distinct from ﬁxed ALPR 
+cameras designed to capture still images of vehicles and license plates. Lakewood's ALPR 
+Program uses the latter conﬁguration: ﬁxed cameras capturing still images for 
+authorized law enforcement purposes rather than PTZ cameras providing continuous 
+video surveillance. 
+This distinction is important when evaluating Lakewood's program in comparison with 
+technology deployments in other jurisdictions. Decisions involving diƯerent camera 
+capabilities or system conﬁgurations are not necessarily directly applicable to Lakewood's 
+deployment. The Department's program should therefore be evaluated based upon the 
+technology actually deployed, its demonstrated community beneﬁt and operational 
+value, and the legal, policy, and administrative safeguards governing its use. 
+Evaluating Current Operational Value 
+The Lakewood Police Department evaluates the ALPR program as a public safety technique 
+rather than simply as a technology investment. Under the Department’s current Software-
+as-a-Service (SaaS) model, the vendor provides and maintains the hardware, software, and 
+supporting infrastructure, while the City of Lakewood retains ownership and governance of 
+the investigative vehicle data generated through the program. The Department’s investment 
+Page 17 of 68
+ 13 
+is therefore measured not by ownership of equipment, but by the operational capability 
+created through timely, reliable investigative vehicle data. 
+Technology alone does not create public value. Public value is created when well-governed 
+investigative vehicle data enables Police Agents and investigators to make better-informed 
+decisions, develop investigations more eƯiciently, allocate personnel more eƯectively, and 
+improve service to victims and the community. Accordingly, the Department evaluates 
+ALPR using measurable operational outcomes rather than technology speciﬁcations or 
+vendor claims. 
+The Department’s current deployment also reﬂects a deliberate and measured 
+implementation strategy. Rather than pursuing maximum deployment at the outset, the 
+Department intentionally implemented a limited network that allowed operational 
+performance, investigative outcomes, and community beneﬁt to be evaluated before 
+considering future strategic growth. This measured approach reﬂects the Department’s 
+commitment to evidence-based decision-making and responsible stewardship of public 
+resources. 
+Measuring Operational Capacity 
+Personnel costs represent the largest component of the Department’s operating budget. As 
+a result, technologies that allow existing Police Agents and investigators to spend more 
+time performing work requiring professional judgment create measurable organizational 
+value. The Department’s operational analysis therefore focuses on the investigative and 
+operational capacity created through timely access to investigative vehicle data. 
+Using conservative workload assumptions based upon actionable ALPR notiﬁcations and 
+the investigative eƯort that would otherwise be required through traditional investigative 
+methods, the Department determined that each strategically deployed ALPR camera 
+returns approximately 180 personnel hours annually, representing approximately $10,661 
+in annual personnel value per camera. 
+These calculations are intentionally conservative and are designed to estimate operational 
+capacity—not budgetary savings. The Department did not reduce staƯing because of ALPR. 
+Instead, the program increased the eƯectiveness of existing Police Agents and 
+investigators by returning investigative and operational capacity to mission-critical public 
+safety activities. 
+The Department’s current deployment of 17 ALPR cameras generates approximately: 
+ 3,060 personnel hours of operational capacity annually 
+Page 18 of 68
+ 14 
+ Approximately 1.47 full-time employee equivalents in investigative capacity 
+ Estimated annual personnel value: approximately $181,244 
+ Annual program investment: approximately $58,000 
+More importantly, these returned hours allow Police Agents and investigators to devote 
+additional time to proactive patrol, victim follow-up, investigative case development, 
+evidence collection, community policing, and other responsibilities requiring professional 
+judgment that cannot be automated. 
+These calculations intentionally measure operational capacity rather than the full 
+public safety value of the ALPR Program. They do not assign a ﬁnancial value to many 
+of the outcomes demonstrated earlier in this assessment, including locating 
+vulnerable missing persons, recovering stolen property, accelerating serious criminal 
+investigations, identifying oƯenders, reducing opportunities for repeat victimization, 
+or providing victims and families with more timely investigative progress. 
+Although these outcomes should not be meaningfully reduced to a ﬁnancial 
+calculation, they represent substantial community beneﬁt and are central to the 
+Department’s evaluation of the program. 
+Future Vision 
+The purpose of this section is not to recommend technology for technology’s sake, nor to 
+advocate for the maximum number of ALPR cameras. Rather, it presents a strategic vision 
+for how the Lakewood Police Department’s ALPR program could responsibly evolve over 
+time based upon demonstrated operational performance, measurable community beneﬁt, 
+and continued responsible stewardship of public resources. 
+The Department’s vision is not deﬁned by the number of cameras deployed. It is deﬁned by 
+its ability to responsibly generate actionable investigative vehicle data that enhances 
+public safety while maintaining the community’s trust. 
+The following roadmap illustrates a scalable planning framework rather than a 
+recommendation for immediate expansion. Future decisions should continue to be 
+guided by demonstrated operational value, community beneﬁt, available resources, 
+and City policy direction. 
+Current Program 
+The current network of 17 cameras has demonstrated that ALPR provides measurable 
+value across Patrol, TraƯic, Property Crimes, Crimes Against Persons, and specialized 
+Page 19 of 68
+ 15 
+investigative functions. The existing deployment has validated the program’s operational 
+eƯectiveness and established a strong foundation for future evaluation. 
+Near-Term Strategic Growth 
+A deployment of approximately 34 cameras would focus on addressing the highest-priority 
+operational gaps identiﬁed through Department experience. This level of investment would 
+increase investigative coverage at key entry and exit corridors from the City while providing 
+broader operational support to Patrol personnel and investigators. 
+Intermediate Operational Capability 
+A network of approximately 75 strategically deployed cameras would signiﬁcantly expand 
+the Department’s ability to generate investigative vehicle data throughout Lakewood. This 
+level of deployment would improve investigative continuity, strengthen proactive policing 
+eƯorts, and provide more comprehensive support for complex criminal investigations while 
+continuing to build upon the Department’s existing governance framework. 
+Long-Term Vision 
+A mature ALPR program consisting of approximately 150 strategically deployed cameras 
+represents a long-term planning goal rather than an immediate procurement objective. 
+Achieving this level of capability would depend upon continued operational success, 
+demonstrated community beneﬁt, responsible ﬁscal stewardship, evolving investigative 
+needs, and future policy direction established by City leadership. 
+Future decisions should continue to be guided by the same principles that shaped the 
+Department’s current program: measurable community beneﬁt, responsible stewardship 
+of public resources, sound governance, transparency, and accountability. The 
+Department’s vision is not to maximize technology deployment, but to responsibly 
+strengthen its ability to protect the residents of Lakewood through the eƯective use of 
+investigative vehicle data while maintaining the public trust. 
+As with the Department’s current deployment, any future expansion should continue 
+to be implemented deliberately, evaluated objectively, and governed through the 
+same principles of accountability, transparency, and responsible stewardship 
+described throughout this assessment. 
+ 
+Page 20 of 68
+ 16 
+V. Governance, Transparency, and Accountability 
+The eƯectiveness of any public safety technique depends not only on its operational value, 
+but also on the policies, oversight, and accountability that govern its use. As introduced 
+earlier in this assessment, the Lakewood Police Department recognizes that maintaining 
+public trust requires more than demonstrating community beneﬁt or compliance with 
+applicable laws. It requires responsible governance, transparency, accountability, and the 
+careful stewardship of investigative vehicle data. 
+The Department’s Automated License Plate Reader (ALPR) program has been developed 
+with these principles in mind. Department policy establishes clear expectations for 
+authorized use, supervisory oversight, data governance, training, accountability, and the 
+responsible management of investigative vehicle data while ensuring the program remains 
+focused on legitimate public safety purposes. These safeguards ensure that ALPR remains 
+a focused investigative technique rather than a system of general surveillance. 
+Governance Through Policy 
+The Lakewood Police Department’s Automated License Plate Reader Policy establishes the 
+framework for the responsible use of ALPR. The policy deﬁnes authorized uses, supervisory 
+responsibilities, documentation requirements, training expectations, data retention and 
+sharing requirements, and administrative oversight. 
+The ALPR program is governed through Department policy, applicable laws, CJIS 
+security requirements, and administrative oversight designed to ensure responsible, 
+consistent, and accountable use. 
+Collectively, these requirements create a governance structure that promotes consistency, 
+accountability, transparency, and responsible stewardship while supporting the 
+Department’s public safety mission. 
+ALPR Governance Framework 
+Governance Principle Department Practice Purpose 
+Authorized Use Access limited to 
+authorized personnel for 
+legitimate law enforcement 
+purposes. 
+Ensures the system is used 
+only to support oƯicial 
+public safety 
+responsibilities. 
+Page 21 of 68
+ 17 
+Governance Principle Department Practice Purpose 
+Privacy Protection Still images only. No facial 
+recognition. No continuous 
+video recording. 
+Limits collection to vehicle-
+related investigative 
+information while reducing 
+unnecessary collection of 
+personal information. 
+Training & Oversight Users receive Department 
+training and are subject to 
+supervisory and 
+administrative oversight. 
+Promotes consistent, 
+lawful, and responsible use. 
+Documented 
+Accountability 
+ALPR use is subject to 
+documented requirements 
+and administrative review. 
+Creates accountability and 
+supports public conﬁdence. 
+Operational Decision-
+Making 
+ALPR information supports 
+investigative decision-
+making but does not 
+replace Police Agent 
+judgment. Alerts are 
+independently veriﬁed 
+before enforcement action 
+is taken. 
+Ensures investigative 
+information is appropriately 
+validated before action. 
+Data Governance The Department governs 
+investigative vehicle data 
+while subscribing to a 
+secure CJIS-compliant 
+Software-as-a-Service 
+(SaaS) platform. 
+Maintains Department 
+control over investigative 
+information while leveraging 
+modern technology. 
+Responsible Data Governance 
+The Lakewood Police Department governs the collection, retention, access, and authorized 
+use of investigative vehicle data while subscribing to a secure Software-as-a-Service 
+(SaaS) platform that supports the program’s operation. 
+The Department’s current Flock conﬁguration provides for automatic removal of routine 
+investigative vehicle data after 30 days unless the information is aƯirmatively preserved for 
+an authorized investigative or evidentiary purpose. Department policy establishes a 
+Page 22 of 68
+ 18 
+broader retention framework consistent with Colorado law, generally limiting ALPR data 
+retention to no more than one year while identifying speciﬁc circumstances under which 
+information may be preserved beyond that period when required for legitimate 
+investigative, evidentiary, administrative, or legal purposes. 
+This approach provides a more restrictive routine operational retention period while 
+preserving the Department’s ability to retain information when necessary to support an 
+authorized investigation or legal proceeding. It balances legitimate investigative needs with 
+responsible data stewardship by limiting routine retention and requiring a deﬁned purpose 
+for longer-term preservation. 
+Governance in Practice 
+Governance extends beyond written policy and is reﬂected in the Department’s daily 
+operational practices. 
+Department personnel receive training before accessing ALPR data and are required to use 
+the system only for authorized law enforcement purposes. Administrative oversight 
+includes documented training, supervisory review, policy compliance, and ongoing 
+evaluation of authorized use to ensure the program continues to operate consistent with 
+Department policy and community expectations. 
+The Department also recognizes that technology should inform—not replace—professional 
+judgment. ALPR alerts serve as investigative leads and are independently veriﬁed before 
+enforcement action is taken. Decisions regarding investigative actions remain the 
+responsibility of Police Agents based upon the totality of the circumstances. 
+Information sharing is similarly governed by established controls. ALPR information is 
+shared only for legitimate criminal justice purposes consistent with Department policy and 
+applicable requirements. The Department’s current sharing practices further restrict 
+ongoing access to vetted Colorado law enforcement agencies, allowing Lakewood to 
+maintain administrative control over which agencies receive access to its investigative 
+vehicle data. 
+Maintaining Public Trust 
+Public trust is maintained through transparency, accountability, responsible governance, 
+and the Department’s continued commitment to evaluating the program based upon 
+measurable public safety outcomes rather than technological capability alone. 
+Strong governance is not an administrative requirement separate from operational 
+success; it is an essential component of it. Through established Department policies, 
+documented accountability, protection of investigative vehicle data, supervisory oversight, 
+Page 23 of 68
+ 19 
+and ongoing evaluation of program performance, the Department ensures that ALPR 
+continues to operate as an eƯective public safety technique while maintaining 
+transparency, accountability, and responsible stewardship that support public conﬁdence. 
+VI. Conclusion and Recommendations 
+Conclusion 
+The Lakewood Police Department’s Automated License Plate Reader (ALPR) program has 
+become an established department-wide public safety technique that enhances 
+investigations, supports operational readiness, and contributes to community safety. As 
+demonstrated throughout this assessment, the program’s value is ultimately reﬂected in 
+the outcomes it supports for victims, families, and the community. 
+The Department’s experience demonstrates that timely investigative vehicle data can help 
+Police Agents and investigators advance serious criminal investigations, locate vulnerable 
+missing persons, recover stolen property, identify oƯenders, connect related criminal 
+activity, and reduce opportunities for additional victimization. These outcomes are 
+achieved not by technology alone, but through the professional judgment of Department 
+personnel using ALPR information as one component of comprehensive, objective criminal 
+investigations. 
+The assessment also demonstrates that operational eƯectiveness and responsible 
+governance are not competing objectives. The ALPR program operates within an 
+established framework of Department policy, applicable laws, administrative oversight, 
+technical safeguards, and responsible data-governance practices. These existing controls 
+provide accountability for the program while allowing personnel to use timely investigative 
+information in support of legitimate public safety purposes. 
+The program also provides measurable organizational value by returning investigative and 
+operational capacity to Police Agents and investigators. While that capacity can be 
+quantiﬁed in personnel hours and estimated personnel value, those calculations represent 
+only one component of the program’s overall beneﬁt. The Department’s evaluation must 
+also consider outcomes that cannot be meaningfully reduced to a ﬁnancial calculation, 
+particularly the impact on victims, families, investigative eƯectiveness, and community 
+safety. 
+As the Department looks toward the future, continued evaluation should remain guided by 
+demonstrated operational need and community beneﬁt rather than technology for its own 
+sake. Future decisions regarding expansion or enhancement should continue to balance 
+measurable public safety outcomes, responsible stewardship of public resources, 
+Page 24 of 68
+ 20 
+community expectations, existing governance safeguards, and the Department’s long-term 
+operational readiness. 
+ 
+Recommendations 
+Recommendation 1 
+Continue supporting the Lakewood Police Department’s ALPR program as an 
+established department-wide public safety capability that enhances investigative 
+eƯectiveness, supports victims, strengthens operational readiness, and contributes 
+to community safety while protecting community privacy 
+Recommendation 2 
+Continue evaluating and strategically developing the ALPR program using measurable 
+operational performance, community beneﬁt, responsible stewardship, transparent 
+governance, and the Strategic Technique Roadmap to guide future operations, policy, 
+and funding decisions. 
+ 
+VII. Final Statement 
+Ultimately, the continued success of the ALPR program should not be measured by the 
+number of cameras deployed throughout the community, but by the people it serves, 
+the measurable public safety outcomes it supports, the responsible stewardship with 
+which it is managed, and the trust it continues to earn from the community. 
+ 
+Page 25 of 68
+CITY OF LAKEWOOD 
+STANDARD CONTRACT COVER SHEET Contract #  
+Renewal/Extension #  Amendment # Task/Change Order # Execution Date 
+Title or Purpose of Contract 
+Amount $ Event (File) No. 
+Supplier  
+Address  
+Authorizing Resolution or Ordinance # Responsible Department 
+Dept. Administrator  Contract Originator 
+Name of Reviewing Attorney   
+Mark the Signatures Needed  Signatures Received (initial & date) 
+ City Attorney  
+ Branch  Manager 
+ Department Head 
+ Division Manager 
+ Outside Party/Parties  
+ Chief Financial Officer ($25,000 & over)  
+ City Clerk 
+ City Manager (  OK to sign) 
+Outside Signatures Last   No   Yes (Requested by  ) 
+Lawful Presence Documentation – Individual Persons (Not needed for LLC’s, Corporations or Partnerships) 
+ID verified by          (Employee Name) 
+Lawf ul Presence Affidavit attached (don’t write personal info on the affidavit) 
+Copy of ID attached 
+Type of Agreement/Contract 
+ BAA  BID  COEV  CONT  COOP  EFA  ENG 
+ GRNT  IGA  LOAN  LSE  MNT  MOU  MSA 
+ NDA  NONE  OTH  PAA  PART  PE  PER 
+ PIA  PIGY  PROF  QTS  R4Q  RENT  REV 
+ RFI  RFP  RFQ  RLA  SAAS  SNGL  SOFT 
+ SOLE  SPON  TCE  TEN  USE  UTIL  ZERO 
+If “Other”, explain: 
+Contract status review by  Next review date 
+Cont ract Reviewer/Administrator 
+Contract Expiration Date , if applicable 
+Cont
+ract Cover Sheet 
+September 2024 
+All Departments: 
+ Yes, record with County Clerk via the COO 
+ No, do not record 
+(For IT, ED, HR, & Fac. Infr. & Maint. only)
+24-05043
+Automatic License Plate Reader Cameras & Management Software
+58,000.00
+6295
+Flock Group Inc
+1170 Howell Mill Rd. NW, Suite 210, Atlanta, GA 30318-8637
+n/a
+PD
+Jennifer Henderson
+Anita Koester
+Patrick Freeman
+Kaitlyn Sullivan
+12/2025
+✔
+✔
+✔
+✔
+✔
+✔
+✔
+Jan 30, 2025
+Page 26 of 68
+ 24-05043 
+ 
+Page 1 of 14 
+ 
+CITY OF LAKEWOOD 
+CONTRACTUAL SERVICES AGREEMENT NO. 6295 
+THIS CONTRACTUAL SERVICES AGREEMENT NO. 6295 (the “Agreement”) is made and 
+entered into by and between the CITY OF LAKEWOOD, a  Colorado home rule municipal 
+corporation whose principal business address is 480 South Allison Parkway, Lakewood, Colorado 
+80226 ( the “City”), and FLOCK GROUP INC, a Delaware corporation, authorized to conduct 
+business in the state of Colorado, whose principal business address is 1170 Howell Mill Rd. NW, 
+Suite 210, Atlanta, GA 30318- 8637 (“Contractor”), effective as of the latest date set forth in the 
+signature blocks below (the “Effective Date”). 
+WHEREAS, the City desires to retain the services of Contractor; and 
+WHEREAS, Contractor desires to provide services to the City. 
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained 
+herein, the sufficiency of which is expressly acknowledged, the parties hereby agree as follows: 
+I. SERVICES 
+A. S COPE OF SERVICES. The City agrees to retain Contractor to provide Automatic 
+License Plate Reader (ALPR) Cameras & Management Software as set forth in 
+Attachment B (the “Services”), attached hereto and incorporated herein by this 
+reference. 
+B. O RDER OF PRECEDENCE.  In the event of any conflict among the provisions of the 
+Contract Documents, the order of precedence shall be as follows: 
+1. This Agreement; 
+2. Master Services Agreement (Attachment A); 
+3. Scope of Services (Attachment B); 
+4. General Provisions (if any); 
+5. Other Contract Documents (if applicable). 
+C. C ITY INFORMATION, DATA AND SYSTEMS. 
+1. The City shall retain all right, title and interest in its information and data shared 
+with or accessed by Contractor, and Contractor is not granted any ownership 
+rights, title or license thereto.  Contractor shall exercise control over City 
+information and data solely to the extent necessary to provide the Services. 
+2. The Services shall not cause or allow within the City’s information systems or 
+networks any self -replicating computer codes, commands, routines or similar 
+entries or data that perform an undesired activity. 
+D. D ELIVERABLES; ELECTRONIC FORMAT.  All deliverables and any other tangible materials 
+produced by Contractor pursuant to this Agreement shall at all times be considered 
+the property of the City.  Contractor shall indemnify and hold harmless the City for any 
+intellectual property infringement claims, including, but not limited to, claims based on 
+trademark or copyright. 
+1. I n the event any deliverables required under this Agreement consist of reports, 
+surveys, maps, plans, drawings, photographs or videos, or any other materials 
+Page 27 of 68
+ 24-05043 
+ 
+Page 2 of 14 
+ 
+that lend themselves to production in electronic format, as determined by the 
+City, Contractor shall provide such deliverables to the City in both hard copy 
+(except videos) and one (1) or more electronic formats acceptable to the City, 
+unless otherwise directed by the City in writing, and Contractor’s failure to do so 
+shall constitute a material breach of this Agreement. 
+2. Acceptable electronic formats may include, but are not necessarily limited to, 
+editable Word document, editable PDF document, AutoCAD, specified GPS/GIS 
+format(s) and specified video format(s).  Contractor shall consult with the City 
+prior to beginning the Services to determine which electronic formats are 
+acceptable. 
+E. A DDITIONAL WORK. Should any work beyond the Services be necessary, the parties 
+must execute, prior to commencement of such additional work, an amendment or 
+separate City contract for the work, and such work will be compensated at cost to be 
+agreed upon in such amendment or contract.  Any such amendment or contract must 
+be executed and approved pursuant to City purchasing policies. 
+II. PERFORMANCE 
+A. R EPRESENTATIONS; PROSECUTION OF SERVICES. 
+1. Contractor warrants and represents that it has the requisite authority, capacity, 
+experience and expertise to perform the Services in compliance with the 
+provisions of this Agreement and all applicable laws and agrees to perform the 
+Services on the terms and conditions set forth herein. 
+2. Contractor shall use its best efforts, skill, judgment and abilities to perform all 
+work on behalf of the City in a professional and workmanlike  manner, free of 
+material error. 
+3. Except as otherwise set forth  herein, Contractor shall, at its own expense, 
+perform all tasks and provide all labor, materials, supplies, tools, machinery, 
+utilities, equipment and any other items that may be necessary for the completion 
+of the Services. 
+B. S UBCONTRACTS.  Contractor hereby agrees that it will not engage subcontractors to 
+perform any part of the Services, other than for the provision of goods, materials or 
+supplies, without the express written consent of the City, which shall not be 
+unreasonably withheld. 
+C. L ICENSES AND PERMITS; OTHER OBLIGATIONS. 
+1. Contractor and each subcontractor shall, at no cost to the City, obtain all licenses 
+and permits required for the Services, including a City contractor’s registration 
+and/or a City of Lakewood sales and use tax license. 
+2. Contractor shall be current on all legal obligations to the City and any other 
+governmental entity, including but not limited to, taxes, fees, reporting and similar 
+obligations. 
+D. T IME OF THE ESSENCE AND RATE OF PROGRESS.  Contractor acknowledges and agrees 
+that time is of the essence for this Agreement and that it is an essential term of this 
+Page 28 of 68
+ 24-05043 
+ 
+Page 3 of 14 
+ 
+Agreement that Contractor maintain a rate of progress in the Services that will result 
+in completion of the Services in accordance herewith.  To that end, Contractor agrees 
+to proceed with all due diligence to complete the Services in a timely manner in 
+accordance with this Agreement, and further agrees that failure to complete any of the 
+Services during the Term of this Agreement, or as may be more specifically set forth 
+in Attachment A, shall be deemed a breach hereof. 
+E. M ONITORING AND EVALUATION.  The City reserves the right to monitor and evaluate the 
+progress and performance of Contractor to ensure the terms of this Agreement are 
+being satisfactorily met in accordance with the City’s and other applicable monitoring 
+and evaluating criteria and standards.  Contractor shall cooperate with the City relating 
+to such monitoring and evaluation. 
+F. S PECIFIC PERFORMANCE.  In the event of a breach of this Agreement by Contractor, 
+the City shall have the right, but not the obligation, to obtain specific performance of 
+the Services in addition to any other remedy available under applicable law. 
+III. CONSIDERATION AND PAYMENT 
+A. A MOUNT.  In full consideration of Contractor’s performance of the Services, the City 
+shall compensate Contractor in an amount not to exceed Fifty-Eight Thousand and 
+00/100 dollars ($58,000.00) (the “Compensation”).  Notwithstanding the foregoing, in 
+the event the total cost of the Services provided is less than the Compensation amount 
+herein set forth, the City shall compensate Contractor only for the cost of the Services 
+provided. 
+B. N O REIMBURSEMENT OF EXPENSES.  In no event shall the City reimburse Contractor for 
+out-of-pocket, travel, meal or any other expenses that are in addition to or in excess 
+of the Compensation agreed to herein. 
+C. P AYMENT.  Contractor shall submit invoices to the City not more frequently than 
+monthly and shall identify therein the specific Services performed for which payment 
+is requested.   Unless otherwise set forth herein or as expressly stated in any 
+attachment or exhibit hereto, the City shall make Compensation payments to 
+Contractor within thirty (30) days after receipt and approval of such invoices.  The City 
+will make payments payable to Contractor’s personal, trade or business name as first 
+stated above.  Any such trade or business name must be registered with the Office of 
+the Colorado Secretary of State 
+D. A PPROPRIATION.  The City is not obligated by this Agreement to make any payments 
+in any fiscal year beyond the fiscal year for which funds are appropriated or to make 
+payments from any funds of the City other than funds appropriated for the payment of 
+current expenditures.  All payment obligations of the City under this Agreement are 
+from year-to-year only and do not constitute a multiple-fiscal-year direct or indirect debt 
+or other financial obligation of the City. 
+E. T AX EXEMPT.  The City, as a Colorado municipal corporation, is exempt from taxation 
+and shall not be charged taxes on any materials, equipment or services used, 
+purchased or consumed in fulfillment of the Services .  Where necessary to comply 
+with this provision, the City's Purchasing Division may issue to Contractor a tax 
+exemption certificate. 
+Page 29 of 68
+ 24-05043 
+ 
+Page 4 of 14 
+ 
+IV. TERM, TERMINATION, EXTENSION 
+A. T ERM.  The initial term of this Agreement shall commence on the Effective Date and 
+shall continue for one (1) year, unless extended by the parties in writing, at which time 
+all Services shall have been completed to the City’s satisfaction. 
+B. T ERMINATION. 
+1. Termination by the City.  The performance of the Services may be terminated at 
+any time, in whole or in part, by the City for its convenience.  Any such 
+termination shall be effected by delivery to Contractor of a written notice 
+specifying the extent to which performance of the Services is terminated and the 
+date upon which termination becomes effective. 
+2. Ter mination by Contractor – Breach/Default by City.  Contractor may terminate 
+this Agreement in the event of a material breach or default by the City; provided, 
+however, that Contractor has first given the City written notice of the nature of 
+the breach or default and the City shall have failed to cure within ten (10) 
+business days after receipt of the notice.   Pending resolution of any material 
+breach or default by the City, Contractor may, in addition to any other remedies 
+provided by law, discontinue performance of the Services without being in breach 
+of this Agreement.  In no event shall the City withhold payment in retaliation for 
+Contractor’s claim of breach or default. 
+3. P ayment upon Termination.  If this Agreement is terminated, the city shall pay 
+Contractor on the basis of the Services satisfactorily completed.  The portion of 
+the Services completed but not yet accepted by the City shall be determined by 
+the City in the exercise of its sole, reasonable discretion.  Furthermore, any costs 
+incurred by the City as a result of Contractor’s breach of this Agreement, 
+including, but not limited to, costs incurred to re -bid the Services or otherwise 
+obtain another contractor to complete the Services, may be charged against any 
+amounts otherwise owed to Contractor.  In the event such costs are greater than 
+the amounts owed to Contractor for work completed hereunder, the City may 
+seek collection of such cost in any legal manner.  Notwithstanding the foregoing, 
+in no event shall the City withhold any payment in retaliation for Contractor’s 
+claim of breach or default against the City. 
+C. E XTENSION.  The parties may extend this Agreement on an annual basis for not more 
+than four (4) additional one-year periods (each, an “Extension Term”).  The expiration 
+hereof or of any Extension Term shall be referred to hereinafter as an “Expiration 
+Date.” 
+1. If the City desires to exercise its option to extend this Agreement, the City shall, 
+not more than one hundred twenty (120) days nor less than ninety (90) days prior 
+to an Expiration Date, give notice to Contractor of the City’s intent to extend this 
+Agreement. 
+2. Contractor shall, not more than ninety (90) days nor less than sixty (60) days 
+prior to an Expiration Date, respond to the City’s notice of intent and submit in 
+such response any request for an increase in the Compensation.  Sufficient 
+justification for any such increase shall accompany the request.  The City may, 
+in its sole and absolute discretion, accept or reject any requested Compensation 
+Page 30 of 68
+ 24-05043 
+ 
+Page 5 of 14 
+ 
+increase and, if a requested Compensation increase is not acceptable, cancel 
+this Agreement with not less than thirty (30) days advance written notice. 
+3. This Agreement shall automatically terminate upon the applicable Expiration 
+Date if the City fails to provide Contractor a notice of the City’s intent to extend 
+this Agreement as set forth herein. 
+D. F ORCE MAJEURE.  In the event Services cannot be performed or are cancelled due to 
+circumstances beyond the reasonable control of either party, including, but not limited 
+to, power or utility outage; earthquake, fire or flood; epidemic or pandemic; emergency 
+declaration or other decree by a government entity; insurrection, riot, war or terrorist 
+attack; disruption in air or rail traffic; or other similar cause (a “Force Majeure”), neither 
+party shall be obligated hereunder for such cancellation or non-performance. 
+V. INDEPENDENT CONTRACTOR 
+Notwithstanding any language in this Agreement or any representation or warranty to the 
+contrary, the relationship between Contractor and the City shall be as independent 
+contractors, and neither the City nor Contractor shall be deemed or constitute an employee, 
+servant, agent, partner or joint venturer of the other. 
+A. C ONTROL.  Contractor has the authority to control and direct the performance and 
+details of the Services.  Notwithstanding the foregoing, the Services must meet the 
+City’s approval and shall be subject to the City’s general right of supervision to secure 
+the satisfactory completion thereof. 
+B. T AXES AND BENEFITS.  Contractor is not an employee of the City, is not entitled to 
+workers' compensation benefits, is not entitled to unemployment insurance 
+benefits, and is obligated to pay federal and state income tax on any moneys 
+earned pursuant to this Agreement .  The City will not withhold or cause to be 
+withheld federal or state taxes or social security payments from Contractor’s 
+compensation.  Further, Contractor is not and shall not be entitled to benefits provided 
+by the City to its employees, including, but no t limited to, health insurance, disability 
+insurance or pension benefits. 
+VI. LIABILITY AND INDEMNIFICATION 
+A. C ONTRACTOR LIABILITY.  Contractor shall be liable and responsible for any and all 
+damages to persons or property caused by or arising out of the actions, obligations or 
+omissions of Contractor or its employees, agents, subcontractors or other persons 
+acting under Contractor’s direction or control in performing or failing to perform the 
+Services under this Agreement. 
+B. C RIMINAL BACKGROUND INVESTIGATIONS; PRIVACY; NON-DISCLOSURE AGREEMENT. 
+1. Background.  Contractor hereby guarantees that  it has  completed criminal 
+background investigations  on all individuals performing the Services on 
+Contractor’s behalf  in compliance with the attached CITY OF LAKEWOOD 
+CRIMINAL BACKGROUND INVESTIGATION REQUIREMENTS .  Failure to 
+strictly comply with the terms of this subsection shall constitute a material breach 
+of this Agreement. 
+Page 31 of 68
+ 24-05043 
+ 
+Page 6 of 14 
+ 
+2. Non-Disclosure.  Contractor, and each employee, agent, representative or 
+subcontractor of Contractor with access to sensitive City information or data 
+(collectively, “Agents”), shall execute a non -disclosure agreement (“NDA”) in 
+favor of the City.  The City shall determine, in its sole and absolute discretion, 
+whether information or data to which Contractor and its Agents will have access 
+is considered “sensitive.”  The NDA shall be on a form provided by the City. 
+C. I NDEMNIFICATION. 
+1. Contractor.  Contractor shall indemnify and hold harmless the City, its elected 
+and appointed officials and its employees, agents and representatives 
+(collectively, the “Indemnified Parties”), from any and all liability, claims, 
+demands, actions, damages, losses, judgments, costs or expenses, including, 
+but not limited to, attorney fees, which may be made or brought or which may 
+result against any of the Indemnified Parties as a result or on account of the 
+actions or omissions of Contractor or its employees, agents or subcontractors , 
+or other persons acting under Contractor’s direction or control, in performance of 
+the Services. 
+2. Cit y .  Regardless of any written or oral statement to the contrary, in no event, 
+instance or circumstance shall the City indemnify Contractor. 
+D. S UBCONTRACTOR CONTRACTS.  If Contractor engages subcontractors to perform any 
+part of the Services other than the furnishing  of goods, materials or supplies, 
+Contractor shall include the provisions of this Section VI in any such subcontracts. 
+E. S URVIVAL; NO LIMITATION.  The provisions set forth in this Section shall survive the 
+completion of the Services and the satisfaction, expiration or termination of this 
+Agreement.  The obligations set forth in this Section shall not be construed to negate, 
+abridge or reduce other rights or obligations of indemnity that would otherwise exist as 
+to a party or person described in this Section. 
+VII. INSURANCE 
+A. R EQUIRED COVERAGES. 
+1. Professional Liability Insurance. Contractor shall procure and keep in force for  
+the duration of this Agreement a policy of errors and omissions professional 
+liability insurance insuring Contractor against any professional liability with 
+minimum limits of not less than One Million Dollars ($1,000,000.00) per claim 
+and annual aggregate.  The limits of said insurance shall not, however, limit the 
+liability of Contractor hereunder. 
+2. C yber Privacy Insurance.  Contractor shall procure and keep in force for the 
+duration of this Agreement Cyber Privacy Insurance for claims and losses with 
+respect to network, internet (cloud) or other data disclosure risks, including but 
+not limited to data breaches, releases of confidential  information, unauthorized 
+access/use of information and identity theft, with minimum limits of not less than 
+One Million Dollars ($1,000,000) per occurrence and Two Million Dollars 
+($2,000,000) aggregate. 
+3. Co mmercial General Liability . Contractor shall procure and keep in force for the 
+duration of this Agreement a policy  or policies of commercial general liability 
+Page 32 of 68
+ 24-05043 
+ 
+Page 7 of 14 
+ 
+insurance insuring Contractor , and naming the City as an additional insured, 
+against any liability for personal injury, bodily injury , death or property damage 
+arising out of the performance of the Services.  Coverage amounts shall be 
+maintained at the levels set forth in such policy/ies, which shall be no less than 
+One Million Dollars ($1,000,000) each occurrence, plus an additional amount 
+sufficient to pay related defense costs and attorney fees .  Such policies shall 
+include coverages for contractual liability and  products/completed operations 
+liability.  The limits of such  insurance shall not limit the liability of Contractor 
+hereunder. 
+4. Au to mobile Liability.  Contractor shall procure and keep in force for the duration 
+of this Agreement a policy or policies of comprehensive automobile liability 
+insurance, include statutory personal injury protection and uninsured motorist 
+coverage, insuring Contractor and naming the City as an additional insured 
+against any liability for personal injury, bodily injury , death or property damage 
+arising out of the use of all motor vehicles used in connection with the 
+performance of the Services, on or off the site, whether the motor vehicles are 
+owned, non-owned or hired.  Coverages amounts shall be maintained at the 
+levels set forth in such policy/ies, which shall be no less than a combined single 
+limit of One Million Dollars ($1,000,000), plus an additional amount sufficient to 
+pay related attorney fees and defense costs.  The limits of such insurance shall 
+not limit the liability of Contractor hereunder. 
+5. W orkers’ Compensation.  Contractor shall provide proof of Workers’ 
+Compensation Insurance; provided, however, should Contractor have no 
+employees performing the Services who are required to be covered by Workers’ 
+Compensation insurance pursuant to Colorado Statute, Contractor shall sign the 
+attached Worker’s Compensation Representation form  and hereby 
+acknowledges that it will not seek Workers’ Compensation benefits from the City 
+for “on-the-job” injuries sustained while performing this Agreement. 
+6. O ther Insurance.  Contractor shall procure and keep in force any other insurance 
+required by applicable law. 
+B. T ERMS OF INSURANCE. 
+1. General.  Insurance required by this Agreement shall be with companies 
+authorized to conduct business in Colorado and acceptable to the City and may 
+provide for deductible amounts as Contractor deems reasonable for the 
+Services, but in no event greater than Tw enty Thousand Dollars ($2 0,000).  
+Jurisdiction and venue for any legal action against, and any other disputes with, 
+insurers providing coverage hereunder shall be in Jefferson County, Colorado, 
+or Denver, Colorado. 
+2. C hanges .  Not less than thirty (30) days prior to the effective date of any 
+cancellation of , or material change in, any insurance policy required herein, 
+Contractor shall provide written notice of such cancellation or change to the City.  
+Contractor shall identify whether the type of coverage is “occurrence” or “claims 
+made.”  If the type of coverage is “claims made,” which at renewal Contractor 
+changes to “occurrence,” Contractor shall carry a twelve (12) month tail.  In the 
+case of any “claims made” policy, the necessary retroactive dates and extended 
+reporting periods shall be procured to maintain continuous coverage as required 
+Page 33 of 68
+ 24-05043 
+ 
+Page 8 of 14 
+ 
+herein.  Contractor shall not do or permit to be done anything that shall invalidate 
+the policies. 
+3. City Loss Recovery; Carrier Waiver of Subrogation.  The policies  described in 
+this Section shall be for the mutual and joint benefit and protection of Contractor 
+and the City.   With the exception of Workers’ Compensation policies , a ll 
+insurance policies required herein shall provide that the City, although named as 
+an additional insured, shall nevertheless be entitled to recovery under such 
+policies for any loss occasioned to the City or its officers, employees or agents 
+by reason of the negligence of Contractor or of Contractor’s officers, employees, 
+agents, subcontractors or business invitees. Contractor hereby waives all rights 
+of recovery, under subrogation or otherwise, related to any claim against the 
+City, and all insurance policies required herein shall include a clause stating that 
+the insurance carrier waives all such rights of recovery. 
+4. P olicies Primary/Non -Contributory.  A ll insurance policies required herein shall 
+be written as primary/noncontributory. 
+C. E VIDENCE OF COVERAGE.  Before commencing the Services, Contractor shall furnish 
+to the City certificates of insurance policies and all necessary endorsements  
+evidencing insurance coverage required by this Agreement.  Contractor understands 
+and agrees that the City shall not be obligated under this Agreement until Contractor 
+furnishes such certificates of insurance and endorsements.  In the event the Term of 
+this Agreement extends beyond the period of coverage for any insurance required 
+herein, Contractor shall, not less than ten (10) days prior to the expiration of any such 
+insurance coverage, provide the City with new certificates of insurance and 
+endorsements evidencing either new or continuing coverage in accordance with the 
+requirements of this Agreement. 
+D. S UBCONTRACTS.  If consent to engage subcontractors is granted pursuant to section 
+II(B) above, Contractor shall include the insurance requirements set forth in this 
+Agreement in all subcontracts.  The City shall hold Contractor responsible in the event 
+any subcontractor fails to procure and maintain, for the duration of this Agreement, 
+insurance meeting the requirements set forth herein.  The City reserves the right to 
+approve variations in the insurance requirements applicable to subcontractors upon 
+joint written request of subcontractor and Contractor if, in the City’s sole discretion, 
+such variations do not substantially affect the City’s interests. 
+VIII. COMPLIANCE WITH LAW 
+Contractor covenants and agrees that in performing the Services hereunder, it shall comply 
+with all applicable federal, state and local laws, regulations and  policies, including, but not 
+limited to, the following: 
+A. D RUGS, ALCOHOL AND WORKPLACE VIOLENCE.  Contractor and its employees, agents 
+and subcontractors, while performing the Services or while on City property for any 
+reason during the term of this Agreement, shall adhere to the City’s policies applicable 
+to City employees regarding drugs, alcohol and workplace violence.  A copy of such 
+policies will be made available to Contractor upon request. 
+B. E QUAL OPPORTUNITY EMPLOYMENT.  Contractor shall not discriminate against any 
+employee or applicant for employment on the basis of race, color, religion, age, sex, 
+disability, military or veteran status, or national origin.  Contractor shall take affirmative 
+Page 34 of 68
+ 24-05043 
+ 
+Page 9 of 14 
+ 
+action to ensure applicants are employed, and employees are treated during 
+employment, without regard to race, color, religion, age, sex, disability, military or 
+veteran status, or national origin.  Such action shall include but not be limited to: (i) 
+employment, upgrading, demotion or transfer; (ii) recruitment or recruitment 
+advertising; (iii) layoff or termination; (iv) rates of pay or other forms of compensation; 
+and (v) selection for training, including apprenticeship.  Contractor shall post in 
+conspicuous places, available to employees and applicants for employment, notice, 
+provided by an agency of the federal government, setting forth the provisions of the 
+Equal Opportunity Laws. 
+C. A MERICANS WITH DISABILITIES ACT.  Contractor shall comply with applicable provisions 
+of the Americans with Disabilities Act of 1990, as amended from time to time (the 
+“ADA”), and any other applicable federal regulation.  The City may request at any 
+time during the term, or any Renewal Term, of this Agreement  a signed, written 
+certificate stating compliance with the ADA. 
+D. C OLORADO ACCESSIBILITY LAW. The City of Lakewood is subject to accessibility 
+requirements of §§24-85-101, et seq., C.R.S. and related regulations, which generally 
+require that any technology procured by a government and used by the public or a 
+government employee must provide reasonable accommodation for use of such 
+technology by disabled persons. Contractor shall comply with §§24- 85-101, et seq., 
+C.R.S. accessibility requirements and the City may request at any time during the 
+term, or any Renewal Term, of this Agreement a signed, written certificate stating 
+compliance with §§24-85-101, et seq., C.R.S. Contractor shall indemnify, save, and 
+hold harmless the City, its employees, agents and assignees (collectively, the 
+“Indemnified Parties”), against any and all costs, expenses, claim s, damages, 
+liabilities, court awards and other amounts (including attorneys’ fees and related 
+costs) incurred by any of the Indemnified Parties in relation to the Contractor’s failure 
+to comply with §§24- 85-101, et seq., C.R.S., or the Accessibility Standards for 
+Individuals with a Disability as established by the Office of Information Technology 
+pursuant to Section §24 -85-103(2.5). To the extent applicable to the Services (or 
+quote, proposal, RFI/RFQ etc.), Contractor agrees that the consideration and 
+payment includes all costs and expenses needed to comply with §§24- 85-101, et 
+seq., C.R.S. and related regulations. Any additional costs to add or modify 
+accessibility features will be the obligation of the Contractor, and any addition or 
+change to the consideration and payment after execution of this Agreement will be 
+disallowed. 
+IX. NOTICE 
+Notices required under this Agreement and all other correspondence between the parties 
+shall be directed to the following and shall be deemed received when hand- delivered or 
+three (3) days after being sent by certified mail, return receipt requested: 
+If to City: If to Contractor: 
+Division Chief Erik Butt 
+City of Lakewood Police Department Flock Group Inc. 
+480 S. Allison Pkwy. 1170 Howell Mill Rd., Suite 210  
+Lakewood, CO 80226 Atlanta, GA 30318 
+anikoe@lakewoodco.org erik.butt@flocksafety.com 
+Page 35 of 68
+ 24-05043 
+ 
+Page 10 of 14 
+ 
+X. GENERAL PROVISIONS 
+A. I NTEGRATED AGREEMENT; BINDING EFFECT.  This Agreement contains the entire 
+agreement of the parties relating to the subject matter hereof and, except as provided 
+herein, may not be modified or amended except by written agreement of the parties.  
+This Agreement shall be binding upon, and shall inure to the benefit of, the parties and 
+their respective heirs, personal representatives, successors and assigns. 
+B. C ONTROLLING TERMS.  In the event of any conflict or inconsistency between the 
+provisions of  this Agreement and those contained in any attachments or exhibits 
+hereto, or any documents references therein, the terms and conditions of this 
+Agreement shall prevail, and as such, shall supersede the conflicting provisions  of 
+such attachments, exhibits or referenced documents. 
+C. N O WAIVER.  The waiver of any breach of a term, provision or requirement of this 
+Agreement shall not be construed or deemed as a waiver of any subsequent breach 
+of such term, provision or requirement or of any other term, provision or requirement. 
+D. N O ASSIGNMENT.  Contractor shall not assign this Agreement without the City’s prior 
+written consent; provided, however, that no consent shall be required for an  
+assignment by Contractor  to a successor entity in the event of a sale of all or 
+substantially all of Contractor’s assets or stock or a reorganization within Contractor’s 
+existing ownership structure. 
+E. N O THIRD-PARTY BENEFICIARIES.  It is expressly understood and agreed that 
+enforcement of the terms and conditions of this Agreement and all rights of action 
+relating to such enforcement shall be strictly reserved to the parties.  It is the express 
+intention of the parties that any person other than the City and Contractor shall be 
+deemed to be only an incidental beneficiary under this Agreement. 
+F. G OVERNING LAW AND VENUE; RECOVERY OF COSTS.  This Agreement shall be governed 
+by the laws of the State of Colorado.  Venue shall be in Jefferson County, Colorado, 
+or in the United States District Court for the District of Colorado, as applicable.  In the 
+event legal action is brought to resolve any dispute among the parties related to this 
+Agreement, the prevailing party in such action shall be entitled to recover from the 
+non-prevailing party reasonable court costs and attorney fees. 
+G. G OVERNMENTAL IMMUNITY.  No term or condition of this Agreement shall be construed 
+or interpreted as a waiver, express or implied, of any of the immunities, rights, benefits, 
+protections or other provisions of the Colorado Governmental Immunity Act, C.R.S. §§ 
+24-10-101, et seq. 
+H. C ONFIDENTIALITY; PUBLIC DOCUMENT.  Contractor hereby acknowledges that the City 
+is a public entity subject to the Colorado Open Records Act, C.R.S. §§ 24-72-201, et 
+seq. (the “Act”) , and as such, this Agreement may be subject to public disclosure 
+thereunder.  In the event the provisions of any exhibit or attachment hereto, or of any 
+other document, including any electronic document, purport to require protection from 
+public disclosure of any so- called “confidential” or “proprietary” information or data, 
+including this Agreement or any exhibit or attachment hereto, such provisions shall be 
+null and void to the extent inconsistent or in conflict with the Act , and the City’s good 
+faith disclosure of any such information or data pursuant to the Act shall not constitute 
+a breach of this Agreement. 
+Page 36 of 68
+ 24-05043 
+ 
+Page 11 of 14 
+ 
+I. N O BINDING DISPUTE RESOLUTION.  Any exhibit or attachment hereto, or of any other 
+document, including any electronic document, governing the provision of the Services 
+that requires binding arbitration, or any other binding extra-judicial dispute resolution 
+process in which the final resolution is not determined by the City, shall be  void and 
+unenforceable. 
+J. P ROTECTION OF PERSONAL I DENTIFYING INFORMATION.  In the event the Services 
+include or require the City to disclose to Contractor any Personal Identifying 
+Information as defined in C.R.S. § 24- 73-101, Contractor shall comply with the 
+applicable requirements of C.R.S. §§ 24- 73-101, et seq. , relating to Third Party 
+Services Providers. 
+K. H EADINGS.  Paragraph headings used in this Agreement are for convenience of 
+reference and shall in no way control or affect the meaning or interpretation of any 
+provision of this Agreement. 
+L. S EVERABILITY.  In the event a court of competent jurisdiction holds any provision of this 
+Agreement invalid or unenforceable, such holding shall not invalidate or render 
+unenforceable any other provision of this Agreement. 
+M. C OUNTERPARTS; ELECTRONIC DISPOSITION.  This Agreement may be executed in any 
+number of counterparts, each of which shall be deemed to be an original and all such 
+counterparts taken together shall be deemed to constitute one and the same 
+instrument.  The parties acknowledge and agree that the original of this Agreement , 
+including the signature page, may be scanned and stored in a computer database or 
+similar device, and that any printout or other output readable by sight, the reproduction 
+of which is shown to accurately reproduce the original of this Agreement, may be used 
+for any purpose as if it were the original, including proof of the content of the original 
+writing. 
+N. A UTHORITY.  The parties represent and warrant that they have taken all actions 
+necessary to legally authorize the undersigned signatories to execute this Agreement 
+on behalf of the parties and to bind the parties to its terms. 
+[Remainder of page intentionally blank – signatures follow.] 
+Page 37 of 68
+ 24-05043 
+ 
+Page 12 of 14 
+ 
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective 
+Date. 
+CITY OF LAKEWOOD 
+____________________________________ 
+Philip A. Smith, Jr., Chief 
+Lakewood Police Department 
+ATTEST: 
+____________________________________       
+Jay Robb, City Clerk Attestation Date 
+Approved as to form: 
+____________________________________ 
+Patrick Freeman, Sr. Asst. City Attorney 
+Recommended and approved as to content: 
+____________________________________ 
+Anita Koester, Division Chief 
+Lakewood Police Department 
+____________________________________ 
+Alina Walters, Chief Information Officer 
+Department of Information Technology 
+ 
+____________________________________ 
+Alexandra Ward, Business Transformation Mgr. 
+Department of Information Technology 
+ 
+Phillip Smith (Jan 30, 2025 09:24 MST)
+BERNADETTE Y. SALAZAR    for: (Jan 30, 2025 12:47 MST)
+BERNADETTE Y. SALAZAR    for:
+Jan 30, 2025
+Page 38 of 68
+Page 39 of 68
+Page 40 of 68
+ 24-05043 
+ 
+Page 14 of 14 
+ 
+CITY OF LAKEWOOD 
+CRIMINAL BACKGROUND INVESTIGATION REQUIREMENTS 
+Contractor shall fulfill these requirements if it: (i) works with vulnerable populations, including minors, the elderly and 
+individuals with disabilities; (ii) is involved in cash handling; or (iii) will work in sensitive areas or with sensitive information. 
+[Individuals and sole proprietors  are required to work directly with the City’s Human Resources Department to complete 
+criminal background investigations.  (Fees will apply.)  Investigations and fees will be arranged by the City.] 
+Contractor shall perform criminal background investigations on all employees, subcontractors and 
+volunteers (collectively referred to hereinafter as “Employee(s)”) providing Services under this Agreement.  
+Criminal background investigations must follow the procedure outlined below.  Upon completion, Contractor 
+shall provide to the City a written certification that the investigations and CBI check outlined below were 
+completed.  Employees for whom the investigation and CBI check is not acceptable to the City shall not be 
+used to provide any of the Services. 
+Contractor shall use a reputable service to perform the investigations.  (The City uses Background 
+Information Services, located in Boulder, Colorado.)  The investigations shall include the following: (i) a 
+search of all in-state and out-of-state locations where the Employee has resided for the last ten (10) years; 
+(ii) criminal information for all names under which the Employee has been known; (iii) a name search on 
+the National Sex Offender Public Registry; and (iv) a social security and name search on a national index. 
+Contractor shall conduct a Colorado Bureau of Investigation (CBI) check and identify any arrest record that 
+would have a negative effect on a position working with vulnerable populations, sensitive information/areas 
+or finances, or which would preclude the Employee from performing the Services.  The following convictions 
+or arrest records shall preclude an Employee from performing the Services in any capacity:  
+1. Drug and Alcohol Convictions 
+• Any marijuana-related conviction within past eighteen (18) months. 
+• Any alcohol-related conviction within the last two (2) years that involved providing alcohol 
+to a minor. 
+2. Other Criminal Activity 
+• Conviction of a felony.  In such event, Contractor shall notify the City’s Human Resources 
+Business Manager at 303-987-7715. 
+• A registered sex offender. 
+• Conviction of a sexual assault or unlawful sexual offense of any kind, against any person, 
+at any time. 
+• Misdemeanor conviction within last five (5) years for unlawful use of physical force 
+including child abuse, domestic violence, resisting arrest, interference with police, etc.  
+• Outstanding criminal warrant. 
+3. Harassment-Related Convictions or Arrests 
+A misdemeanor harassment-related conviction or arrest within the last three (3) years involving 
+physical force, verbal abuse or abusive behavior including, but not limited to:  
+• Harassment, menacing, tampering, stalking or intimidation; 
+• Explosive, raging or threatening behavior; 
+• Comments threatening violence; and 
+• Any similar behavior. 
+4. Driving History 
+Covering the last four (4) years for those who drive for business: 
+• Any Driving Under the Influence conviction within the past three (3) years. 
+• Any Driving While Intoxicated or Driving While Ability Impaired convictions within the past 
+three (3) years. 
+• Any history or pattern of unsafe driving behavior within last four (4) years.  
+• Failure to retain a valid driver’s license. 
+ 
+Page 41 of 68
+Attachment A 
+ 
+Master Services Agreement 
+ 
+This Master Services Agreement (this “Agreement”) is entered into by and between 
+Flock Group, Inc. with a place of business at 1170 Howell Mill Road NW Suite 210, Atlanta, 
+GA 30318 (“Flock”) and the entity identified in the signature block (“Customer”) (each a 
+“Party,” and together, the “Parties”). This Agreement is effective on the date of mutual 
+execution (“Effective Date”). Parties will sign an Order Form (“Order Form”) which will 
+describe the Flock Services to be performed and the period for performance, attached hereto as 
+Exhibit A.  
+ 
+RECITALS 
+ 
+WHEREAS, Flock offers a software and hardware situational awareness solution 
+through Flock’s technology platform that upon detection is capable of capturing audio, video, 
+image, and recording data and provide notifications to Customer (“Notifications”); 
+ 
+WHEREAS, Customer desires access to the Flock Services (defined below) on existing 
+devices, provided by Customer, or Flock provided Flock Hardware (as defined below) in order to 
+create, view, search and archive Footage and receive Notifications, via the Flock Services; 
+ 
+WHEREAS, Customer shall have access to the Footage in Flock Services. Pursuant to 
+Flock’s standard Retention Period (defined below) Flock deletes all Footage on a rolling thirty 
+(30) day basis, except as otherwise stated on the Order Form. Customer shall be responsible for 
+extracting, downloading and archiving Footage from the Flock Services on its own storage 
+devices; and  
+ 
+WHEREAS, Flock desires to provide Customer the Flock Services and any access 
+thereto, subject to the terms and conditions of this Agreement, solely for the awareness, 
+prevention, and prosecution of crime, bona fide investigations and evidence gathering for law 
+enforcement purposes, (“Permitted Purpose”).  
+ 
+Page 42 of 68
+1. DEFINITIONS 
+Certain capitalized terms, not otherwise defined herein, have the meanings set forth or cross-
+referenced in this Section 1. 
+1.1 “Agreement” means the order form (to be provided as Exhibit A, “Order Form”), these terms 
+and conditions, and any document therein incorporated by reference in section 11.4. 
+1.2 “Anonymized Data” means Customer Data permanently stripped of identifying details and 
+any potential personally identifiable information, by commercially available standards which 
+irreversibly alters data in such a way that a data subject (i.e., individual person or entity) can no 
+longer be identified directly or indirectly.  
+1.3 “Authorized End User(s)” means any individual employees, agents, or contractors of 
+Customer accessing or using the Services, under the rights granted to Customer pursuant to this 
+Agreement. 
+1.4 “Customer Data” means the data, media, and content provided by Customer through the 
+Services. For the avoidance of doubt, the Customer Data will include the Footage.  
+1.5. “Customer Hardware” means the third-party camera owned or provided by Customer and 
+any other physical elements that interact with the Embedded Software and the Web Interface to 
+provide the Services. 
+1.6 “Effective Date” means the date this Agreement is mutually executed (valid and enforceable) 
+by both Parties. 
+1.7 “Embedded Software” means the Flock proprietary software and/or firmware integrated with 
+or installed on the Flock Hardware or Customer Hardware.  
+1.8 “Flock Hardware” means the Flock device(s), which may include the pole, clamps, solar 
+panel, installation components, and any other physical elements that interact with the Embedded 
+Software and the Web Interface, to provide the Flock Services as specifically set forth in the 
+applicable Order Form. 
+1.9 “Flock IP” means the Services, the Embedded Software, and any intellectual property or 
+proprietary information therein or otherwise provided to Customer and/or its Authorized End 
+Users. Flock IP does not include Footage (as defined below). 
+1.10 “Flock Services” means the provision of Flock’s software and hardware situational 
+awareness solution, via the Web Interface, for automatic license plate detection, alerts, audio 
+detection, searching image records, video and sharing Footage.  
+Page 43 of 68
+1.11 “Footage” means still images, video, audio, and other data captured by the Flock Hardware 
+or Customer Hardware in the course of and provided via the Flock Services.  
+1.12 “Installation Services” means the services provided by Flock for installation of Flock 
+Services. 
+1.13 “Permitted Purpose” means for legitimate public safety and/or business purpose, including 
+but not limited to the awareness, prevention, and prosecution of crime; investigations; and 
+prevention of commercial harm, to the extent permitted by law. 
+1.14 “Retention Period” means the time period that the Customer Data is stored within the cloud 
+storage, as specified in the applicable Order Form. Flock deletes all Footage on a rolling thirty 
+(30) day basis, except as otherwise stated on the Order Form. Customer shall be responsible for 
+extracting, downloading and archiving Footage from the Flock Services on its own storage 
+devices. 
+1.15 “Term” means the date, unless otherwise stated in the Order Form, upon which the cameras 
+are validated by both Parties as operational. 
+1.16 “Web Interface” means the website(s) or application(s) through which Customer and its 
+Authorized End Users can access the Services. 
+  
+Page 44 of 68
+2. SERVICES AND SUPPORT 
+2.1 Provision of Access. Flock hereby grants to Customer a non-exclusive, non-transferable 
+right to access the features and functions of the Flock Services via the Web Interface during the 
+Term, solely for the Authorized End Users. The Footage will be available for Authorized End 
+Users to access and download via the Web Interface for the Retention Period. Authorized End 
+Users will be required to sign up for an account and select a password and username (“User 
+ID”). Customer shall be responsible for all acts and omissions of Authorized End Users. 
+Customer shall undertake reasonable efforts to make all Authorized End Users aware of all 
+applicable provisions of this Agreement and shall cause Authorized End Users to comply with 
+such provisions. Flock may use the services of one or more third parties to deliver any part of the 
+Flock Services, (such as using a third party to host the Web Interface for cloud storage or a cell 
+phone provider for wireless cellular coverage).  
+2.2 Embedded Software License. Flock grants Customer a limited, non-exclusive, non-
+transferable, non-sublicensable (except to the Authorized End Users), revocable right to use the 
+Embedded Software as it pertains to Flock Services, solely as necessary for Customer to use the 
+Flock Services. 
+2.3 Support Services.  Flock shall monitor the Flock Services, and any applicable device health, 
+in order to improve performance and functionality. Flock will use commercially reasonable 
+efforts to respond to requests for support within seventy-two (72) hours. Flock will provide 
+Customer with reasonable technical and on-site support and maintenance services in-person, via 
+phone or by email at support@flocksafety.com (such services collectively referred to as 
+“Support Services”). 
+2.4 Updates to Platform. Flock may make any updates to system or platform that it deems 
+necessary or useful to (i) maintain or enhance the quality or delivery of Flock’s products or 
+services to its agencies, the competitive strength of, or market for, Flock’s products or services, 
+such platform or system’s cost efficiency or performance, or (ii) to comply with applicable law. 
+Parties understand that such updates are necessary from time to time and will not diminish the 
+quality of the services or materially change any terms or conditions within this Agreement. 
+2.5 Service Interruption. Services may be interrupted in the event that: (a) Flock’s provision of 
+the Services to Customer or any Authorized End User is prohibited by applicable law; (b) any 
+third-party services required for Services are interrupted; (c) if Services are being used for 
+Page 45 of 68
+malicious, unlawful, or otherwise unauthorized use; (d) there is a threat or attack on any of the 
+Flock IP by a third party; or (e) scheduled or emergency maintenance (“Service Interruption”). 
+Flock will make commercially reasonable efforts to provide written notice of any Service 
+Interruption to Customer, to provide updates, and to resume providing access to Flock Services 
+as soon as reasonably possible after the event giving rise to the Service Interruption is cured. 
+Flock will have no liability for any damage, liabilities, losses (including any loss of data or 
+profits), or any other consequences that Customer or any Authorized End User may incur as a 
+result of a Service Interruption. To the extent that the Service Interruption is not caused by 
+Customer’s direct actions or by the actions of parties associated with the Customer, the time will 
+be tolled by the duration of the Service Interruption (for any continuous suspension lasting at 
+least one full day). For example, in the event of a Service Interruption lasting five (5) continuous 
+days, Customer will receive a credit for five (5) free days at the end of the Term. 
+2.6 Service Suspension. Flock may temporarily suspend Customer’s and any Authorized End 
+User’s access to any portion or all of the Flock IP or Flock Service if (a) there is a threat or 
+attack on any of the Flock IP by Customer; (b) Customer’s or any Authorized End User’s use of 
+the Flock IP disrupts or poses a security risk to the Flock IP or any other customer or vendor of 
+Flock; (c) Customer or any Authorized End User is/are using the Flock IP for fraudulent or 
+illegal activities; (d) Customer has violated any term of this provision, including, but not limited 
+to, utilizing Flock Services for anything other than the Permitted Purpose; or (e) any 
+unauthorized access to Flock Services through Customer’s account (“Service Suspension”). 
+Customer shall not be entitled to any remedy for the Service Suspension period, including any 
+reimbursement, tolling, or credit. If the Service Suspension was not caused by Customer, the 
+Term will be tolled by the duration of the Service Suspension. 
+2.7 Hazardous Conditions. Flock Services do not contemplate hazardous materials, or other 
+hazardous conditions, including, without limit, asbestos, lead, or toxic or flammable substances. 
+In the event any such hazardous materials are discovered in the designated locations in which 
+Flock is to perform services under this Agreement, Flock shall have the right to cease work 
+immediately.   
+ 
+ 
+ 
+Page 46 of 68
+3. CUSTOMER OBLIGATIONS 
+3.1 Customer Obligations. Flock will assist Customer Authorized End Users in the creation of a 
+User ID. Authorized End Users agree to provide Flock with accurate, complete, and updated 
+registration information. Authorized End Users may not select as their User ID, a name that they 
+do not have the right to use, or any other name with the intent of impersonation. Customer and 
+Authorized End Users may not transfer their account to anyone else without prior written 
+permission of Flock. Authorized End Users shall not share their account username or password 
+information and must protect the security of the username and password. Unless otherwise stated 
+and defined in this Agreement, Customer shall not designate Authorized End Users for persons 
+who are not officers, employees, or agents of Customer. Authorized End Users shall only use 
+Customer-issued email addresses for the creation of their User ID. Customer is responsible for 
+any Authorized End User activity associated with its account. Customer shall ensure that 
+Customer provides Flock with up-to-date contact information at all times during the Term of this 
+agreement. Customer shall be responsible for obtaining and maintaining any equipment and 
+ancillary services needed to connect to, access or otherwise use the Flock Services (e.g., laptops, 
+internet connection, mobile devices, etc.). Customer shall (at its own expense) provide Flock 
+with reasonable access and use, subject to Customer security requirements, of Customer facilities 
+and Customer personnel in order to enable Flock to perform Services (such obligations of 
+Customer are collectively defined as “Customer Obligations”). 
+3.2 Customer Representations and Warranties. Customer represents, covenants, and warrants 
+that Customer shall use Flock Services only in compliance with this Agreement and all 
+applicable laws and regulations, including but not limited to any laws relating to the recording or 
+sharing of data, video, photo, or audio content.   
+4. DATA USE AND LICENSING  
+4.1 Customer Data. As between Flock and Customer, all right, title and interest in the Customer 
+Data, belong to and are retained solely by Customer. Customer hereby grants to Flock a limited, 
+non-exclusive, royalty-free, irrevocable, worldwide license to use the Customer Data and 
+perform all acts as may be necessary for Flock to provide the Flock Services to Customer. Flock 
+does not own and shall not sell Customer Data. 
+Page 47 of 68
+4.2 Customer Generated Data. Flock may provide Customer with the opportunity to post, 
+upload, display, publish, distribute, transmit, broadcast, or otherwise make available, messages, 
+text, illustrations, files, images, graphics, photos, comments, sounds, music, videos, information, 
+content, ratings, reviews, data, questions, suggestions, or other information or materials produced 
+by Customer (“Customer Generated Data”). Customer shall retain whatever legally cognizable 
+right, title, and interest in Customer Generated Data. Customer understands and acknowledges 
+that Flock has no obligation to monitor or enforce Customer’s intellectual property rights of 
+Customer Generated Data. Customer grants Flock a non-exclusive, irrevocable, worldwide, 
+royalty-free, license to use the Customer Generated Data for the purpose of providing Flock 
+Services. Flock does not own and shall not sell Customer Generated Data.  
+4.3 Anonymized Data. Flock shall have the right to collect, analyze, and anonymize Customer 
+Data and Customer Generated Data to the extent such anonymization renders the data non-
+identifiable to create Anonymized Data to use and perform the Services and related systems and 
+technologies, including the training of machine learning algorithms. Customer hereby grants 
+Flock a non-exclusive, worldwide, perpetual, royalty-free right to use and distribute such 
+Anonymized Data to improve and enhance the Services and for other development, diagnostic 
+and corrective purposes, and other Flock offerings. Parties understand that the aforementioned 
+license is required for continuity of Services. Flock does not own and shall not sell Anonymized 
+Data. 
+5. CONFIDENTIALITY; DISCLOSURES 
+5.1 Confidentiality. To the extent required by any applicable public records requests, each Party 
+(the “Receiving Party”) understands that the other Party (the “Disclosing Party”) has disclosed 
+or may disclose business, technical or financial information relating to the Disclosing Party’s 
+business (hereinafter referred to as “Proprietary Information” of the Disclosing Party). 
+Proprietary Information of Flock includes non-public information regarding features, 
+functionality and performance of the Services. Proprietary Information of Customer includes 
+non-public data provided by Customer to Flock or collected by Flock via Flock Services, which 
+includes but is not limited to geolocation information and environmental data collected by 
+sensors. The Receiving Party agrees: (i) to take the same security precautions to protect against 
+disclosure or unauthorized use of such Proprietary Information that the Party takes with its own 
+Page 48 of 68
+proprietary information, but in no event less than commercially reasonable precautions, and (ii) 
+not to use (except in performance of the Services or as otherwise permitted herein) or divulge to 
+any third person any such Proprietary Information. The Disclosing Party agrees that the 
+foregoing shall not apply with respect to any information that the Receiving Party can document 
+(a) is or becomes generally available to the public; or (b) was in its possession or known by it 
+prior to receipt from the Disclosing Party; or (c) was rightfully disclosed to it without restriction 
+by a third party; or (d) was independently developed without use of any Proprietary Information 
+of the Disclosing Party. Nothing in this Agreement will prevent the Receiving Party from 
+disclosing the Proprietary Information pursuant to any judicial or governmental order, provided 
+that the Receiving Party gives the Disclosing Party reasonable prior notice of such disclosure to 
+contest such order. At the termination of this Agreement, all Proprietary Information will be 
+returned to the Disclosing Party, destroyed or erased (if recorded on an erasable storage 
+medium), together with any copies thereof, when no longer needed for the purposes above, or 
+upon request from the Disclosing Party, and in any case upon termination of the Agreement. 
+Notwithstanding any termination, all confidentiality obligations of Proprietary Information that 
+is trade secret shall continue in perpetuity or until such information is no longer trade secret. 
+5.2 Usage Restrictions on Flock IP. Flock and its licensors retain all right, title and interest in 
+and to the Flock IP and its components, and Customer acknowledges that it neither owns nor 
+acquires any additional rights in and to the foregoing not expressly granted by this Agreement. 
+Customer further acknowledges that Flock retains the right to use the foregoing for any purpose 
+in Flock’s sole discretion. Customer and Authorized End Users shall not: (i) copy or duplicate 
+any of the Flock IP; (ii) decompile, disassemble, reverse engineer, or otherwise attempt to obtain 
+or perceive the source code from which any software component of any of the Flock IP is 
+compiled or interpreted, or apply any other process or procedure to derive the source code of any 
+software included in the Flock IP; (iii) attempt to modify, alter, tamper with or repair any of the 
+Flock IP, or attempt to create any derivative product from any of the foregoing; (iv) interfere or 
+attempt to interfere in any manner with the functionality or proper working of any of the Flock 
+IP; (v) remove, obscure, or alter any notice of any intellectual property or proprietary right 
+appearing on or contained within the Flock Services or Flock IP; (vi) use the Flock Services for 
+anything other than the Permitted Purpose; or (vii) assign, sublicense, sell, resell, lease, rent, or 
+Page 49 of 68
+otherwise transfer, convey, pledge as security, or otherwise encumber, Customer’s rights. There 
+are no implied rights. 
+5.3 Disclosure of Footage. Subject to and during the Retention Period, Flock may access, use, 
+preserve and/or disclose the Footage to law enforcement authorities, government officials, and/or 
+third parties, if legally required to do so or if Flock has a good faith belief that such access, use, 
+preservation or disclosure is reasonably necessary to comply with a legal process, enforce this 
+Agreement, or detect, prevent or otherwise address security, privacy, fraud or technical issues, or 
+emergency situations. 
+6. PAYMENT OF FEES 
+6.1 Billing and Payment of Fees. Customer shall pay the fees set forth in the applicable Order 
+Form based on the billing structure and payment terms as indicated in the Order Form. To the 
+extent the Order Form is silent, Customer shall pay all invoices net thirty (30) days from the date 
+of receipt. If Customer believes that Flock has billed Customer incorrectly, Customer must 
+contact Flock no later than thirty (30) days after the closing date on the first invoice in which the 
+error or problem appeared to receive an adjustment or credit. Customer acknowledges and agrees 
+that a failure to contact Flock within this period will serve as a waiver of any claim. If any 
+undisputed fee is more than thirty (30) days overdue, Flock may, without limiting its other rights 
+and remedies, suspend delivery of its service until such undisputed invoice is paid in full. Flock 
+shall provide at least thirty (30) days’ prior written notice to Customer of the payment 
+delinquency before exercising any suspension right.  
+6.2 Notice of Changes to Fees. In the event of any changes to fees, Flock shall provide 
+Customer with sixty (60) days’ notice (email sufficient) prior to the end of the Initial Term or 
+Renewal Term (as applicable). Any such changes to fees shall only impact subsequent Renewal 
+Terms. 
+6.3 Taxes. To the extent Customer is not a tax exempt entity, Customer is responsible for all 
+taxes, levies, or duties, excluding only taxes based on Flock’s net income, imposed by taxing 
+authorities associated with the order.  If Flock has the legal obligation to pay or collect taxes, 
+including amount subsequently assessed by a taxing authority, for which Customer is 
+responsible, the appropriate amount shall be invoice to and paid by Customer unless Customer 
+provides Flock a legally sufficient tax exemption certificate and Flock shall not charge Customer 
+Page 50 of 68
+any taxes from which it is exempt. If any deduction or withholding is required by law, Customer 
+shall notify Flock and shall pay Flock any additional amounts necessary to ensure that the net 
+amount that Flock receives, after any deduction and withholding, equals the amount Flock would 
+have received if no deduction or withholding had been required.  
+7. TERM AND TERMINATION 
+7.1 Term. The initial term of this Agreement shall be for the period of time set forth on the 
+Order Form (the “Term”). Unless otherwise indicated on the Order Form, the Term shall 
+commence upon first installation of Flock Hardware, as applicable. Following the Term, unless 
+otherwise indicated on the Order Form, this Agreement will automatically renew for successive 
+renewal terms of the greater of one year or the length set forth on the Order Form (each, a 
+“Renewal Term”) unless either Party gives the other Party notice of non-renewal at least thirty 
+(30) days prior to the end of the then-current term. 
+7.2 Termination. Upon termination or expiration of this Agreement, Flock will remove any 
+applicable Flock Hardware at a commercially reasonable time period. In the event of any 
+material breach of this Agreement, the non-breaching Party may terminate this Agreement prior 
+to the end of the Term by giving thirty (30) days prior written notice to the breaching Party; 
+provided, however, that this Agreement will not terminate if the breaching Party has cured the 
+breach prior to the expiration of such thirty (30) day period (“Cure Period”). Either Party may 
+terminate this Agreement (i) upon the institution by or against the other Party of insolvency, 
+receivership or bankruptcy proceedings, (ii) upon the other Party's making an assignment for the 
+benefit of creditors, or (iii) upon the other Party's dissolution or ceasing to do business. In the 
+event of a material breach by Flock, and Flock is unable to cure within the Cure Period, Flock 
+will refund Customer a pro-rata portion of the pre-paid fees for Services not received due to such 
+termination. 
+7.3 Survival. The following Sections will survive termination: 1, 3, 5, 6, 7, 8.3, 8.4, 9, 11.1 and 
+11.6. 
+  
+Page 51 of 68
+8. REMEDY FOR DEFECT; WARRANTY AND DISCLAIMER 
+8.1 Manufacturer Defect. Upon a malfunction or failure of Flock Hardware or Embedded 
+Software (a “Defect”), Customer must notify Flock’s technical support team. In the event of a 
+Defect, Flock shall make a commercially reasonable attempt to repair or replace the defective 
+Flock Hardware at no additional cost to the Customer. Flock reserves the right, in its sole 
+discretion, to repair or replace such Defect, provided that Flock shall conduct inspection or 
+testing within a commercially reasonable time, but no longer than seven (7) business days after 
+Customer gives notice to Flock. If Flock’s repair or replacement of malfunctioning or failing 
+hardware is not reasonably satisfactory to Customer, Customer may terminate the Agreement 
+upon written notice that the repair or replacement was not satisfactory. 
+8.2 Replacements. In the event that Flock Hardware is lost, stolen, or damaged, Customer may 
+request a replacement of Flock Hardware at a fee according to the reinstall fee schedule 
+(https://www.flocksafety.com/reinstall-fee-schedule). In the event that Customer chooses not to 
+replace lost, damaged, or stolen Flock Hardware, Customer understands and agrees that Flock is 
+not liable for any resulting impact to Flock service, nor shall Customer receive a refund for the 
+lost, damaged, or stolen Flock Hardware.  
+8.3 Warranty. Flock shall use reasonable efforts consistent with prevailing industry standards to 
+maintain the Services in a manner which minimizes errors and interruptions in the Services and 
+shall perform the Installation Services in a professional and workmanlike manner. Services may 
+be temporarily unavailable for scheduled maintenance or for unscheduled emergency 
+maintenance, either by Flock or by third-party providers, or because of other causes beyond 
+Flock’s reasonable control, but Flock shall use reasonable efforts to provide advance notice in 
+writing or by e-mail of any scheduled service disruption.   
+8.4 Disclaimer. THE REMEDY DESCRIBED IN SECTION 8.1 ABOVE IS CUSTOMER’S 
+SOLE REMEDY, AND FLOCK’S SOLE LIABILITY, WITH RESPECT TO DEFECTS. 
+FLOCK DOES NOT WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR 
+ERROR FREE; NOR DOES IT MAKE ANY WARRANTY AS TO THE RESULTS THAT 
+MAY BE OBTAINED FROM USE OF THE SERVICES. EXCEPT AS EXPRESSLY SET 
+FORTH IN THIS SECTION, THE SERVICES ARE PROVIDED “AS IS” AND FLOCK 
+DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT 
+Page 52 of 68
+LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE. THIS DISCLAIMER ONLY APPLIES TO THE EXTENT 
+ALLOWED BY THE GOVERNING LAW OF THE STATE MENTIONED IN SECTION 11.6. 
+8.5 Insurance. Flock will maintain commercial general liability policies as stated in Exhibit B. 
+8.6 Force Majeure. Parties are not responsible or liable for any delays or failures in 
+performance from any cause beyond their control, including, but not limited to acts of God, 
+changes to law or regulations, embargoes, war, terrorist acts, pandemics (including the spread of 
+variants), issues of national security, acts or omissions of third-party technology providers, riots, 
+fires, earthquakes, floods, power blackouts, strikes, supply chain shortages of equipment or 
+supplies, financial institution crisis, weather conditions or acts of hackers, internet service 
+providers or any other third party acts or omissions. 
+9. LIMITATION OF LIABILITY; INDEMNITY 
+9.1 Limitation of Liability. TO THE EXTENT ALLOWABLE UNDER COLORADO LAW, 
+FLOCK, ITS OFFICERS, AFFILIATES, REPRESENTATIVES, CONTRACTORS AND 
+EMPLOYEES SHALL NOT BE RESPONSIBLE OR LIABLE WITH RESPECT TO ANY 
+SUBJECT MATTER OF THIS AGREEMENT OR TERMS AND CONDITIONS RELATED 
+THERETO UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY, PRODUCT 
+LIABILITY, OR OTHER THEORY: (A) FOR LOSS OF REVENUE, BUSINESS OR 
+BUSINESS INTERRUPTION; (B) INCOMPLETE, CORRUPT, OR INACCURATE DATA; 
+(C) COST OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES OR 
+TECHNOLOGY; (D) FOR ANY INDIRECT, EXEMPLARY, INCIDENTAL, SPECIAL OR 
+CONSEQUENTIAL DAMAGES; (E) FOR ANY MATTER BEYOND FLOCK’S ACTUAL 
+KNOWLEDGE OR REASONABLE CONTROL INCLUDING REPEAT CRIMINAL 
+ACTIVITY OR INABILITY TO CAPTURE FOOTAGE; OR (F) FOR ANY AMOUNTS 
+THAT, TOGETHER WITH AMOUNTS ASSOCIATED WITH ALL OTHER CLAIMS, 
+EXCEED THE FEES PAID AND/OR PAYABLE BY CUSTOMER TO FLOCK FOR THE 
+SERVICES UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRIOR TO THE 
+ACT OR OMISSION THAT GAVE RISE TO THE LIABILITY, IN EACH CASE, WHETHER 
+OR NOT FLOCK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+THIS LIMITATION OF LIABILITY OF SECTION ONLY APPLIES TO THE EXTENT 
+Page 53 of 68
+ALLOWED BY THE GOVERNING LAW OF THE STATE REFERENCED IN SECTION 
+11.6. NOTWITHSTANDING ANYTHING TO THE CONTRARY, THE FOREGOING 
+LIMITATIONS OF LIABILITY SHALL NOT APPLY (I) IN THE EVENT OF GROSS 
+NEGLIGENCE OR WILLFUL MISCONDUCT, OR (II) INDEMNIFICATION 
+OBLIGATIONS. 
+9.2 Responsibility. Each Party to this Agreement shall assume the responsibility and liability for 
+the acts and omissions of its own employees, officers, or agents, in connection with the 
+performance of their official duties under this Agreement. Each Party to this Agreement shall be 
+liable for the torts of its own officers, agents, or employees.  
+9.3 Flock Indemnity. Flock shall indemnify and hold harmless Customer, its agents and 
+employees, from liability of any kind, including claims, costs (including defense) and expenses, 
+on account of: (i) any copyrighted material, patented or unpatented invention, articles, device or 
+appliance manufactured or used in the performance of this Agreement; or (ii) any damage or 
+injury to property or person directly caused by Flock’s installation of Flock Hardware, except for 
+where such damage or injury was caused solely by the negligence of the Customer or its agents, 
+officers or employees. Flock’s performance of this indemnity obligation shall not exceed the fees 
+paid and/or payable for the services rendered under this Agreement in the preceding twelve (12) 
+months. 
+10. INSTALLATION SERVICES AND OBLIGATIONS 
+10.1  Ownership of Hardware. Flock Hardware is owned and shall remain the exclusive 
+property of Flock. Title to any Flock Hardware shall not pass to Customer upon execution of this 
+Agreement, except as otherwise specifically set forth in this Agreement. Except as otherwise 
+expressly stated in this Agreement, Customer is not permitted to remove, reposition, re-install, 
+tamper with, alter, adjust or otherwise take possession or control of Flock Hardware. Customer 
+agrees and understands that in the event Customer is found to engage in any of the foregoing 
+restricted actions, all warranties herein shall be null and void, and this Agreement shall be 
+subject to immediate termination for material breach by Customer. Customer shall not perform 
+any acts which would interfere with the retention of title of the Flock Hardware by Flock. Should 
+Customer default on any payment of the Flock Services, Flock may remove Flock Hardware at 
+Flock’s discretion. Such removal, if made by Flock, shall not be deemed a waiver of Flock’s 
+Page 54 of 68
+rights to any damages Flock may sustain as a result of Customer’s default and Flock shall have 
+the right to enforce any other legal remedy or right. 
+10.2 Deployment Plan. Flock shall advise Customer on the location and positioning of the Flock 
+Hardware for optimal product functionality, as conditions and locations allow. Flock will 
+collaborate with Customer to design the strategic geographic mapping of the location(s) and 
+implementation of Flock Hardware to create a deployment plan (“Deployment Plan”). In the 
+event that Flock determines that Flock Hardware will not achieve optimal functionality at a 
+designated location, Flock shall have final discretion to veto a specific location, and will provide 
+alternative options to Customer. 
+10.3 Changes to Deployment Plan. After installation of Flock Hardware, any subsequent 
+requested changes to the Deployment Plan, including, but not limited to, relocating, re-
+positioning, adjusting of the mounting, removing foliage, replacement, changes to heights of 
+poles will incur a fee according to the reinstall fee schedule located at 
+(https://www.flocksafety.com/reinstall-fee-schedule). Customer will receive prior notice and 
+confirm approval of any such fees.  
+10.4 Customer Installation Obligations. Customer is responsible for any applicable 
+supplementary cost as described in the Customer Implementation Guide, attached hereto as 
+Exhibit C. Customer represents and warrants that it has, or shall lawfully obtain, all necessary 
+right title and authority and hereby authorizes Flock to install the Flock Hardware at the 
+designated locations and to make any necessary inspections or maintenance in connection with 
+such installation.  
+10.5 Flock’s Obligations. Installation of any Flock Hardware shall be installed in a professional 
+manner within a commercially reasonable time from the Effective Date of this Agreement. Upon 
+removal of Flock Hardware, Flock shall restore the location to its original condition, ordinary 
+wear and tear excepted. Flock will continue to monitor the performance of Flock Hardware for 
+the length of the Term. Flock may use a subcontractor or third party to perform certain 
+obligations under this Agreement, provided that Flock’s use of such subcontractor or third party 
+shall not release Flock from any duty or liability to fulfill Flock’s obligations under this 
+Agreement.  
+ 
+ 
+Page 55 of 68
+11. MISCELLANEOUS 
+11.1 Compliance With Laws. Parties shall comply with all applicable local, state and federal 
+laws, regulations, policies and ordinances and their associated record retention schedules, 
+including responding to any subpoena request(s). 
+11.2 Severability. If any provision of this Agreement is found to be unenforceable or invalid, 
+that provision will be limited or eliminated to the minimum extent necessary so that this 
+Agreement will otherwise remain in full force and effect. 
+11.3 Assignment. This Agreement is not assignable, transferable or sublicensable by either 
+Party, without prior consent. Notwithstanding the foregoing, either Party may assign this 
+Agreement, without the other Party's consent, (i) to any parent, subsidiary, or affiliate entity, or 
+(ii) to any purchaser of all or substantially all of such Party's assets or to any successor by way of 
+merger, consolidation or similar transaction.  
+11.4 Entire Agreement. This Agreement, together with the Order Form(s), the reinstall fee 
+schedule (https://www.flocksafety.com/reinstall-fee-schedule), and any attached exhibits are the 
+complete and exclusive statement of the mutual understanding of the Parties and supersedes and 
+cancels all previous or contemporaneous negotiations, discussions or agreements, whether 
+written and oral, communications and other understandings relating to the subject matter of this 
+Agreement. All waivers and modifications must be in a writing signed by both Parties, except as 
+otherwise provided herein. None of Customer’s purchase orders, authorizations or similar 
+documents will alter the terms of this Agreement, and any such conflicting terms are expressly 
+rejected. Any mutually agreed upon future purchase order is subject to these legal terms and does 
+not alter the rights and obligations under this Agreement, except that future purchase orders may 
+outline additional products, services, quantities and billing terms to be mutually accepted by 
+Parties. In the event of any conflict of terms found in this Agreement or any other terms and 
+conditions, the terms of this Agreement shall prevail. Customer agrees that Customer’s purchase 
+is neither contingent upon the delivery of any future functionality or features nor dependent upon 
+any oral or written comments made by Flock with respect to future functionality or feature. 
+11.5 Relationship. No agency, partnership, joint venture, or employment is created as a result of 
+this Agreement and Parties do not have any authority of any kind to bind each other in any 
+respect whatsoever. Flock shall at all times be and act as an independent contractor to Customer.   
+Page 56 of 68
+11.6 Governing Law; Venue. This Agreement shall be governed by the laws of the state in 
+which the Customer is located. The Parties hereto agree that venue would be proper in the 
+chosen courts of the State of which the Customer is located. The Parties agree that the United 
+Nations Convention for the International Sale of Goods is excluded in its entirety from this 
+Agreement.  
+11.7 Special Terms. Flock may offer certain special terms which are indicated in the Order 
+Form and will become part of this Agreement, upon Customer’s prior written consent and the 
+mutual execution by authorized representatives (“Special Terms”). To the extent that any terms 
+of this Agreement are inconsistent or conflict with the Special Terms, the Special Terms shall 
+control.  
+11.8 Publicity. Upon prior written consent, Flock has the right to reference and use Customer’s 
+name and disclose the nature of the Services in business and development and marketing efforts. 
+Nothing contained in this Agreement shall be construed as conferring on any Party, any right to 
+use the other Party’s name as an endorsement of product/service. 
+11.9 Feedback. If Customer or Authorized End User provides any suggestions, ideas, 
+enhancement requests, feedback, recommendations or other information relating to the subject 
+matter hereunder, Agency or Authorized End User hereby assigns to Flock all right, title and 
+interest (including intellectual property rights) with respect to or resulting from any of the 
+foregoing. 
+11.10 Export. Customer may not remove or export from the United States or allow the export or 
+re-export of the Flock IP or anything related thereto, or any direct product thereof in violation of 
+any restrictions, laws or regulations of the United States Department of Commerce, the United 
+States Department of Treasury Office of Foreign Assets Control, or any other United States or 
+foreign Customer or authority. As defined in Federal Acquisition Regulation (“FAR”), section 
+2.101, the Services, the Flock Hardware and Documentation are “commercial items” and 
+according to the Department of Defense Federal Acquisition Regulation (“DFAR”) section 
+252.2277014(a)(1) and are deemed to be “commercial computer software” and “commercial 
+computer software documentation.” Flock is compliant with FAR Section 889 and does not 
+contract or do business with, use any equipment, system, or service that uses the enumerated 
+banned Chinese telecommunication companies, equipment or services as a substantial or 
+essential component of any system, or as critical technology as part of any Flock system. 
+Page 57 of 68
+Consistent with DFAR section 227.7202 and FAR section 12.212, any use, modification, 
+reproduction, release, performance, display, or disclosure of such commercial software or 
+commercial software documentation by the U.S. Government will be governed solely by the 
+terms of this Agreement and will be prohibited except to the extent expressly permitted by the 
+terms of this Agreement. 
+11.11 Headings. The headings are merely for organization and should not be construed as 
+adding meaning to the Agreement or interpreting the associated sections. 
+11.12 Authority. Each of the below signers of this Agreement represent that they understand this 
+Agreement and have the authority to sign on behalf of and bind the Parties they are representing 
+upon the Effective Date.   
+11.13 Conflict. In the event there is a conflict between this Agreement and any applicable 
+statement of work, or Customer purchase order, this Agreement controls unless explicitly stated 
+otherwise. 
+11.14 Notices. All notices under this Agreement will be in writing and will be deemed to have 
+been duly given when received, if personally delivered; when receipt is electronically confirmed, 
+if transmitted by email; the day after it is sent, if sent for next day delivery by recognized 
+overnight delivery service; and upon receipt to the address listed on the Order Form (or, if 
+different, below), if sent by certified or registered mail, return receipt requested.   
+11.15 Non-Appropriation. Notwithstanding any other provision of this Agreement, all 
+obligations of the Customer under this Agreement which require the expenditure of public funds 
+are conditioned on the availability of said funds appropriated for that purpose. To the extent 
+applicable, Customer shall have the right to terminate this Agreement for non appropriation with 
+thirty (30) days written notice without penalty or other cost. 
+ 
+ 
+  
+Page 58 of 68
+ 
+FLOCK NOTICES ADDRESS: 
+1170 HOWELL MILL ROAD, NW SUITE 210  
+ATLANTA, GA 30318 
+ATTN: LEGAL DEPARTMENT  
+EMAIL: legal@flocksafety.com 
+ 
+Customer NOTICES ADDRESS: 
+ADDRESS:  
+ATTN:  
+EMAIL:  
+  
+Page 59 of 68
+EXHIBIT B  
+INSURANCE  
+ 
+Required Coverage. Flock shall procure and maintain for the duration of this Agreement 
+insurance against claims for injuries to persons or damages to property that may arise from or in 
+connection with the performance of the services under this Agreement and the results of that 
+work by Flock or its agents, representatives, employees or subcontractors. Insurance shall be 
+placed with insurers with a current A. M. Best rating of no less than “A” and “VII”. Flock shall 
+obtain and, during the term of this Agreement, shall maintain policies of professional liability 
+(errors and omissions), automobile liability, and general liability insurance for insurable amounts 
+of not less than the limits listed herein. The insurance policies shall provide that the policies shall 
+remain in full force during the life of the Agreement. Flock shall procure and shall maintain 
+during the life of this Agreement Worker's Compensation insurance as required by applicable 
+State law for all Flock employees. For the avoidance of doubt, (i) all required insurance limits by  
+Customer can be met through a combination of primary and excess/umbrella coverage, and (ii) 
+Flock’s Cyber and Errors and Omissions insurance has a shared limit of Five Million Dollars 
+(5,000,000) per incident and in the aggregate.   
+Types and Amounts Required. Flock shall maintain, at minimum, the following insurance 
+coverage for the duration of this Agreement: 
+(i) Commercial General Liability insurance written on an occurrence basis with minimum 
+limits of One Million Dollars ($1,000,000) per occurrence and Two Million Dollars ($2,000,000) 
+in the aggregate for bodily injury, death, and property damage, including personal injury, 
+contractual liability, independent contractors, broad-form property damage, and product and 
+completed operations coverage;  
+(ii) Workers Compensation insurance in accordance with statutory limits; 
+(iii) Professional Liability/Errors and Omissions insurance with minimum limits of Five 
+Million Dollars ($5,000,000) per occurrence and Five Million Dollars ($5,000,000) in the 
+aggregate;  
+Page 60 of 68

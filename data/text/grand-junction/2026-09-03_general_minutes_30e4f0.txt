@@ -1,0 +1,337 @@
+ 
+1 
+ 
+Housing Affordability Code Task Force – 
+Meeting Summary 
+9.03.26 
+ 
+Agenda 
+• Suggested outline of deliverable  
+• Problem Organization (KE) 
+• Recommendations Section (KB) 
+o Umbrella Recommendation 
+o Review Test 
+o Detailed Recommendation Section 
+• Next Steps 
+ 
+Meeting Focus 
+The Task Force focused primarily on organizing the body of issues identified through previous 
+meetings and developing a framework for the final Task Force deliverable and 
+recommendations. The discussion shifted from identifying individual code and process problems 
+toward creating a systematic method for evaluating existing and future regulations, policies, and 
+development processes through a housing affordability lens.  
+Proposed Structure for the Final Task Force Report 
+The group discussed an initial outline for the Task Force's final report. The proposed report 
+would include suggested outline: 
+• Purpose and Context  
+o Connections to other docs  
+o Scale of the problem  
+o Importance of cost discussions to housing affordability 
+o The compounding nature of the problem  
+o The importance of scale and the need for profitability to drive that scale (The 
+Comp Plan is a blunt instrument and doesn’t provide adequate guidance) 
+o The disproportionate impact of housing costs 
+o The focus on local action 
+o Cost includes – Direct cost + time + Yield + Uncertainty + Risk 
+• Problem Statement  
+o Broad categories – 1 or 2 sentences on each 
+o Subcategories – 1 or 2 sentences each 
+o Matrix of individual problems 
+• Solutions and Recommendations  
+o Central “umbrella” recommendation – The Review – Test – Lens 
+o Matrix of Recommendations 
+• Acknowledgements, Thanks, Citations, etc. 
+ 
+2 
+ 
+The intent is to create a concise, visually understandable report rather than an extensive narrative 
+document. 
+Organization of Identified Problems 
+Keith presented work consolidating the Task Force's sticky-note exercises and prior discussions 
+into four broad categories. 
+A. Process – Application, Review and Approval 
+Issues include: 
+• Process sequencing and whether reviews must occur sequentially or could occur 
+concurrently.  
+• Process requirements including unnecessary or overly burdensome steps.  
+• Issues outside the immediate application that become the applicant's responsibility, such 
+as boundary, survey, or historic property issues.  
+• Internal City factors and staff capacity.  
+• Legal and survey-related issues.  
+• Other uncategorized process barriers.  
+B. Regulation and Code-Making Process 
+Issues include: 
+• Use of local expertise.  
+• Consideration of costs and trade-offs.  
+• Whether regulations actually accomplish their intended purpose.  
+• Whether regulatory mechanisms are practical, enforceable, and effective.  
+C. Culture of the Code / Overreach 
+Issues include: 
+• Why experienced applicants continue to encounter inconsistent or difficult processes.  
+• Situations where private development is required to bear costs associated with broader 
+community benefits.  
+• Whether regulations are written primarily to prevent undesirable outcomes rather than to 
+affirmatively encourage desired outcomes.  
+D. Extra-Jurisdictional Housing Challenges 
+Issues include: 
+• Third-party referral agencies.  
+ 
+3 
+ 
+• Coordination with Mesa County, neighboring jurisdictions, utilities, and other outside 
+entities.  
+• Barriers that affect housing production but may not be entirely within City control.  
+The Task Force generally supported the organizational approach, with additional wordsmithing 
+and refinement anticipated. 
+Problem Matrix 
+A matrix was presented that lists the individual problems identified by the Task Force and 
+connects each issue to one or more categories. 
+Rather than forcing an issue into a single category, the matrix allows an issue to be associated 
+with multiple categories or subcategories. This was viewed as particularly useful because many 
+development barriers involve overlapping process, regulatory, cultural, and outside-agency 
+considerations. 
+The matrix could ultimately be sorted or weighted based on the number of areas affected. This 
+may help identify issues that warrant the greatest attention from the City, Task Force, staff, and 
+consultant. 
+The matrix is also intended to preserve the detailed examples collected by the Task Force while 
+allowing the main report to remain concise. 
+Proposed "Umbrella" Decision-Making Framework 
+A substantial portion of the meeting focused on developing an overarching framework that could 
+be used when: 
+• creating new regulations;  
+• amending existing regulations;  
+• evaluating development processes;  
+• reviewing existing Code provisions; and  
+• making policy decisions.  
+The framework is not intended to automatically produce a particular outcome. Instead, it is 
+intended to require a more disciplined and transparent conversation before a decision is made. 
+The emerging questions include: 
+What problem are we trying to solve? 
+Clearly identify the actual problem before creating a regulatory response. 
+Is it critical for safety? 
+The group discussed distinguishing regulations addressing genuine safety concerns from 
+ 
+4 
+ 
+requirements primarily intended to advance general community welfare, comfort, aesthetics, or 
+aspirational objectives. 
+Why is the regulation/process necessary? 
+If the issue is not clearly safety-related, greater attention should be given to the rationale for 
+intervention. 
+Have we utilized appropriate local expertise? 
+Relevant practitioners and affected stakeholders should help identify practical consequences and 
+alternatives. 
+What are the trade-offs? 
+Consider: 
+• direct cost;  
+• time;  
+• housing yield;  
+• flexibility;  
+• uncertainty and risk;  
+• applicant/developer burden; and  
+• City staffing, administration, and enforcement costs.  
+Will it work? 
+Determine whether the regulation is: 
+• practical;  
+• legally supportable;  
+• enforceable; and  
+• likely to achieve its intended outcome.  
+Is it equitable? 
+Explicitly consider who pays and who benefits. Particular attention should be given where 
+private development bears costs for benefits accruing broadly to the community. 
+Is it scalable/flexible? 
+Requirements should account for differences in project size, context, use, and impact rather than 
+necessarily applying the same standard universally. 
+Are there alternatives? 
+Consider whether the desired result could be achieved through another method, including an 
+incentive rather than a mandate. 
+Regulatory "Stick" vs. Incentive "Carrot" 
+ 
+5 
+ 
+The group discussed a general principle that requirements addressing critical safety concerns are 
+more likely to justify mandatory regulation. 
+Where a requirement primarily addresses general welfare, aesthetics, comfort, or aspirational 
+community objectives, the City should more deliberately consider whether an incentive-based 
+approach may be more appropriate. 
+The Task Force emphasized that this should not become a rigid decision tree. There will be 
+circumstances where the distinction is unclear. The value of the framework is that it forces the 
+underlying rationale and trade-offs to be discussed rather than assumed. 
+Examples discussed included sight-distance requirements, sidewalk widths, parking lot islands, 
+detention pond landscaping, irrigation requirements, and pre-application processes. 
+"Best Practice" Is Not Sufficient by Itself 
+The Task Force discussed concerns with adopting requirements simply because they are 
+described as a "best practice" or because another jurisdiction has adopted them. 
+Practices from other communities may still be useful, but the group suggested they should be 
+evaluated through the proposed framework to determine whether they: 
+• address Grand Junction's specific problem;  
+• make sense under local conditions;  
+• produce the desired result;  
+• create reasonable costs and trade-offs; and  
+• support housing affordability.  
+The framework therefore would not prohibit best practices but would require additional 
+justification before translating them into local regulation. 
+Comprehensive Plan and Code Relationship 
+The Task Force had significant discussion regarding the role of the Comprehensive Plan. 
+There was general recognition that alignment with the Comprehensive Plan should not, by itself, 
+be sufficient justification for a particular regulatory approach. Multiple regulatory alternatives 
+may all advance the same Comprehensive Plan objective while producing very different costs 
+and housing outcomes. 
+Some members characterized the issue as the Comprehensive Plan becoming too regulatory; 
+others suggested the underlying problem is how the Plan has been interpreted and used to justify 
+Code provisions. 
+ 
+6 
+ 
+An emerging concept was that the Comprehensive Plan should remain largely aspirational and 
+provide policy direction, while specific regulations should still be evaluated for: 
+• necessity;  
+• effectiveness;  
+• trade-offs;  
+• equity;  
+• alternatives; and  
+• housing affordability impacts.  
+The Task Force also noted that the upcoming Comprehensive Plan update creates an opportunity 
+to identify policies that are unintentionally contributing to regulatory barriers. 
+Housing Affordability Must Remain Central 
+Members emphasized that the Task Force's specific charge is housing affordability. 
+Accordingly, the proposed framework should explicitly ask: 
+• How does this requirement affect housing affordability?  
+• What does it add to the cost of housing?  
+• What community benefit is received in exchange?  
+• Who bears the cost?  
+• Is the benefit sufficient to justify that cost?  
+• Could the same objective be accomplished through a less costly or more flexible 
+approach?  
+The group noted that the framework could ultimately have broader value for City policymaking, 
+but the Task Force's application of it should remain grounded in its housing affordability 
+mandate. 
+Staff Collaboration and Administrative Culture 
+Members discussed the importance of improving collaboration between applicants and City staff, 
+particularly given current staffing constraints and the introduction of newer employees. 
+Discussion emphasized that many barriers are individually small but collectively contribute to 
+delay, uncertainty, and expense. Examples included plat execution requirements, document 
+revisions, survey issues, and differences in interpretation among staff. 
+The Task Force discussed the need to: 
+• improve consistency;  
+• provide appropriate staff discretion;  
+• establish criteria for exceptions or alternative compliance;  
+ 
+7 
+ 
+• help staff understand the real-world consequences of seemingly minor requirements;  
+• avoid an "us versus them" dynamic; and  
+• ensure that discretion does not simply become permission to disregard Code 
+requirements.  
+The goal is a system that empowers staff to exercise reasonable judgment within defined criteria 
+while maintaining predictability and fairness. 
+Value for Planning Commission and City Council 
+The proposed framework was also viewed as potentially useful for decision makers. 
+Members expressed concern that existing hearing criteria can focus heavily on whether a 
+proposal "aligns" with adopted plans without providing enough structure for evaluating: 
+• effectiveness;  
+• affordability;  
+• competing interests;  
+• costs and benefits;  
+• equity; and  
+• alternatives.  
+A more standardized framework could improve staff reports and policy discussions by giving 
+Planning Commission and City Council a clearer basis for weighing competing considerations. 
+The group acknowledged that the framework will not remove politics or disagreement from 
+policymaking. Instead, its purpose is to make the reasoning and trade-offs more explicit and 
+transparent. 
+Consultant Coordination 
+The consultant kickoff is scheduled for September 11. 
+The Task Force identified an opportunity to provide the consultant with: 
+• the categorized problem list;  
+• the detailed issue matrix;  
+• previous TEDS subcommittee work;  
+• the Code issue spreadsheet maintained by staff;  
+• specific examples of development barriers; and  
+• the emerging decision-making framework.  
+Because the consultant already has familiarity with the City's Code, members believe providing 
+this organized information could reduce time spent identifying known problems and allow the 
+consultant to focus more quickly on potential solutions. 
+ 
+8 
+ 
+The consultant's work may also identify situations where a Code provision cannot readily be 
+changed without addressing an underlying policy issue. 
+Direction / Consensus 
+The Task Force generally supported: 
+1. Continuing with the proposed structure for the final report.  
+2. Using the four broad problem categories and associated subcategories.  
+3. Maintaining the detailed issue matrix as supporting documentation.  
+4. Developing the decision-making "test" or "lens" as a major umbrella recommendation.  
+5. Making housing affordability an explicit component of that framework.  
+6. Refining the framework so it is understandable without requiring someone to explain it 
+verbally.  
+7. Testing the framework against several real-world examples.  
+8. Considering opposing viewpoints/"devil's advocate" testing to ensure the framework does 
+not predetermine outcomes.  
+9. Providing the emerging framework and issue inventory to the consultant.  
+Next Steps 
+• Kevin, Keith, Mike, and Emily will continue developing and refining the decision-
+making framework.  
+• Develop a more polished and self-explanatory version of the framework.  
+• Run several examples through the framework to test how it works in practice.  
+• Consider demonstrating how the analysis could appear in a staff report, internal memo, or 
+Task Force recommendation.  
+• Further develop the Comprehensive Plan discussion, particularly the distinction between 
+policy alignment and sufficient justification for regulation.  
+• Continue drafting the broader final Task Force report and issue matrix.  
+• Kelly and Task Force leadership will begin sharing the framework with the consultant as 
+part of the upcoming work.  
+• Continue compiling known Code and TEDS issues so the consultant receives a 
+comprehensive list.  
+• Bring the refined framework back for further Task Force review at the September 17 
+meeting.  
+ 
+ 
+Regulation/Code 
+Making 
+Process
+S
+Regulated/Stick
+C
+Incentive/Carrot
+Critical 
+for 
+health/safety
+Yes
+No
+Align 
+with 
+Comp 
+Plan
+Utilize 
+Local 
+Expertise
+Trade 
+Off? 
+Cost? 
+Time? 
+Who 
+Benefits? 
+Who 
+pays?
+Flexible
+Will 
+it 
+work? 
+Practical? 
+Legal? 
+Enforceable?
+Scaleable
+Equitable
+Is 
+it 
+fair?
+General 
+Welfare
+Why?
+Is 
+it 
+necessary?
+Umbrella 
+Recommendation

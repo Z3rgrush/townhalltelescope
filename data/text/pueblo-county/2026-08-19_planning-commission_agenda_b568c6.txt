@@ -1,0 +1,588 @@
+  
+Pueblo County Planning Commission 
+Wednesday, August 19, 2026 at 6:00 PM 
+COMMISSIONERS’ CHAMBERS, PUEBLO COUNTY COURTHOUSE 
+215 WEST 10TH STREET 
+ 
+WORK SESSION AGENDA 
+ 
+ 
+NOTICE: The hearing will be streamed live on the County’s Facebook Page 
+https://www.facebook.com/PuebloCounty/; however, public comments will not be accepted from 
+the Facebook page. 
+   
+1. Call to Order and Roll Call    
+(Note: This is a work session for discussion purposes only.) 
+  
+2. Use-Specific Standards for Data Centers   
+   
+The purpose of this work session is to provide draft standards to the Planning 
+Commission and receive feedback on same, with the end goal of adopting suitable 
+use-specific standards into the UDC. 
+3. Future Land Use Map Updates   
+   
+The purpose of this work session is to provide the Planning Commission with draft changes 
+to certain Future Land Use designations, as well as context as to why these standards are 
+being proposed. 
+4. Adjournment.   
+  
+ 
+(This agenda is for informational purposes only and is subject to change. Accommodation for 
+individuals with sight or hearing impairment may be made by contacting Planning and 
+Development at 719-583-6100) 
+ 
+Page 1 of 20
+Carmen Howard, Director 
+Planning and Development 
+201 West 8th Street, Suite 110   719.583.6100 (main) 
+Pueblo, Colorado 81003-3029  planning@pueblocounty.us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM 
+ 
+TO:  Pueblo County Planning Commission, Work Session 
+  (Meeting Date: August 19, 2026)  
+ 
+FROM:  Joe Peoria, Lead Planner  
+ 
+DATE:  August 12, 2026 
+ 
+SUBJECT: Use-Specific Standards for Data Centers 
+ 
+PURPOSE 
+ 
+The Pueblo County Unified Development Code (UDC) provides for Data Centers as a Special Use 
+in the LI, HI, and PP zone districts. However, the UDC does not prescribe use-specific standards 
+for Data Centers, which can be an intensive use. The purpose of this work session is to provide 
+draft standards to the Planning Commission and receive feedback on same, with the end goal of 
+adopting suitable use-specific standards into the UDC. 
+BACKGROUND  
+ 
+Data Center, which the UDC defines as “a use where the primary purpose is the storage, 
+management, processing, and/or transmission of digital data, and where the majority of the space 
+is occupied by computers, servers, telecommunications equipment, and related supporting 
+infrastructure,” is a broad term for a facility which houses IT infrastructure for data storage and 
+management. Data centers started out as on-premises facilities housing traditional IT infrastructure 
+for the exclusive use of one company. However recently they have increasingly become remote 
+facilities or networks of facilities owned by cloud service providers which house virtualized IT 
+infrastructure for the shared use of multiple companies and customers. 
+ 
+The demand for Artificial Intelligence (AI) services have created the need for larger-scale data 
+centers. As these data centers become larger in scale and are developed in closer proximity to 
+residential uses, the externalities created by these facilities have come under close scrutiny by 
+residents, local governments, and environmental agencies. 
+ 
+One critical tool which can be used to mitigate the negative external impacts of data centers is 
+zoning. The Pueblo County UDC already establishes use-specific standards for high-impact uses 
+such as animal feeding operations (feedlots), marijuana cultivation, processing, and retail facilities, 
+and certain industrial uses. Because data centers are a land use which have a high likelihood for 
+external impacts and can be highly controversial, staff recommends adopting use-specific 
+standards for data centers in order to be prepared for such a time when and if a data center is 
+proposed within Pueblo County. 
+ 
+ 
+Planning & Development Department                      
+ PUEBLO COUNTY 
+COLORADO 
+Page 2 of 20
+ 
+ 
+Memo to the Pueblo County Planning Commission 
+RE: Use-Specific Standards for Data Centers  
+August 12, 2026 
+Page 2 
+ 
+RESEARCH 
+ 
+In order to understand the impacts of data centers which are most commonly regulated through 
+zoning, staff reviewed city and county land use and zoning codes from across Colorado, as well as 
+two major data center hubs in the United States: Northern Virginia and the Phoenix, Arizona metro 
+area. From review of these codes, staff determined that regulation of data centers varies widely. 
+Some zoning codes do not contemplate data centers at all, some do list them as a use but contain 
+no or minimal use-specific standards, and others do include standards specific to data center uses. 
+ 
+From the codes that do include use-specific standards, staff compiled the various external impacts 
+which these codes regulate. These impacts, as well as a range of example regulations and 
+analysis, can be found below. Based on this analysis, staff has also drafted proposed use-specific 
+standards for the Planning Commission to review. These are attached as Exhibit 1. 
+ 
+NOISE 
+ 
+Data centers require continuous cooling, generally by means of a closed circulating water-cooling 
+system not unlike a car radiator. This cooling system can generate noise and vibration which is a 
+common concern voiced by those impacted by data center operations. 
+ 
+Many of the codes analyzed imposed a specific decibel limit which data centers could not exceed; 
+these ranged from 55 dbA (Phoenix, AZ) to 70 dbA (Loudoun County, VA). Others (Chandler, AZ) 
+simply prohibited data centers from exceeding the baseline (pre-development) ambient decibel 
+level. 
+ 
+These noise restrictions are often enforced by a two- or three-part noise study requirement. First, 
+the developer is required to measure the baseline noise level prior to the development of the data 
+center. Then, the developer must submit a second measurement taken once the center has been 
+fully built out and is operational. Some jurisdictions require these measurements only onsite, but 
+others (Mesa, AZ) also require measurements at the nearest residential use or zone district. These 
+two measurements are then compared to ensure the operational center is compliant with sound 
+limits, and additional sound-mitigation measures are required if necessary. Some jurisdictions then 
+require ongoing testing and reporting, typically yearly for the first five years of data center operation 
+(Chandler, AZ). 
+ 
+Staff Recommendation: The existing Pueblo County noise ordinance already provides flexibility in 
+allowing for more noise in heavier industrial areas. Staff’s proposal is to ensure data center noise 
+generation remains under the maximums allowed by the noise ordinance. In order to enforce these 
+noise requirements, staff is also proposing the requirement that pre- and post-construction noise 
+studies to be completed. However, staff does not believe there is a need for ongoing noise studies 
+in all cases, but does propose allowing the department to require them if noise complaints are 
+received. 
+ 
+WATER USAGE 
+ 
+Data centers can utilize large amounts of water in the cooling process. Even sophisticated closed-
+loop cooling systems require significant water up front, which is a concern in the arid conditions of 
+the American West. 
+ 
+To ensure that data centers are not depleting water supplies relied on by other water users, many 
+jurisdictions require a water services plan to be submitted with data center application materials. 
+This study, typically prepared by a qualified engineer, will outline both the projected water 
+Page 3 of 20
+ 
+ 
+Memo to the Pueblo County Planning Commission 
+RE: Use-Specific Standards for Data Centers  
+August 12, 2026 
+Page 3 
+ 
+consumption of a proposed data center use as well as the proposed source of water and proof that 
+the developer will obtain sufficient water.  
+ 
+Some jurisdictions have also enacted additional requirements that data centers cannot utilize 
+treated potable water for cooling purposes (Spotsylvania County, VA) or cannot use water from a 
+specific vulnerable waterway or basin (Orange County, VA).  
+ 
+Staff Recommendation: Staff recommends requiring data center developers to provide a detailed 
+water usage plan in order for decision-makers to determine whether a proposed data center will 
+negatively impact existing water users and water quality. 
+ 
+ENERGY USAGE 
+ 
+Another major concern in addition to water usage is power usage. Data centers require a large 
+amount of electricity to operate, and there is often concern that existing power infrastructure will 
+not be sufficient to serve data center uses. 
+ 
+Some jurisdictions require an energy service plan, similar to the water services plan outlined 
+above, to prove that there is a service provider willing and able to provide adequate power to the 
+proposed data center, and how supplemental power will be generated onsite if necessary. For 
+example, Phoenix, AZ requires the following: 
+ 
+“Preliminary site plan approval will not be granted for a data center until such time that a local utility 
+company provides a contractual agreement that affirms its capacity and commitment to serve the 
+energy demand for the proposed data center. The agreement from the utility company shall be 
+submitted to [the planning department] concurrent with the preliminary site plan.” 
+ 
+Staff Recommendation: Staff recommends requiring data center developers to provide a detailed 
+utility usage plan in order for decision-makers to determine whether adequate utility service exists 
+in the area of proposed data center. 
+ 
+BACKUP GENERATORS 
+ 
+Because power outages could cause both data loss and damage to servers, data centers typically 
+include provisions for backup power generation. The most common means of backup power 
+generation is a series of diesel generators. While critical for power maintenance during 
+emergencies, diesel generators are a source of both noise pollution and localized air pollution. As 
+such, the majority of codes staff reviewed included limitations on the operation of backup 
+generators. For example: 
+ 
+“All emergency power generators shall be restricted to backup or emergency use only… Generator 
+testing shall only occur between the hours of 10:00 a.m. and 4:00 p.m.” – Orange County, VA 
+ 
+Some jurisdictions (such as Mesa, AZ) also take the additional step of requiring the operator to 
+notify the jurisdiction 24 hours ahead of any planned generator test. 
+ 
+Staff Recommendation: Staff does recommend limiting generator usage to emergencies and 
+testing purposes only, but does not find it necessary to also require advance notification for testing. 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 20
+ 
+ 
+Memo to the Pueblo County Planning Commission 
+RE: Use-Specific Standards for Data Centers  
+August 12, 2026 
+Page 4 
+ 
+VISUAL IMPACT 
+ 
+The majority of codes staff reviewed include specific design and architectural standards for the 
+data center buildings, since these facilities can be quite large in scale and stand out against either 
+smaller-scale facilities or the natural environment. These standards can include articulation 
+requirements for visual bulk reduction, materials and color standards, and architectural detail 
+requirements to break up otherwise blank windowless walls. 
+ 
+In addition to architectural standards for the building itself, a number of jurisdictions also require 
+screening for onsite accessory equipment such as backup generators. As an example, 
+Fredericksburg, VA requires that “Accessory equipment not screened by a principal building or 
+perimeter buffer shall be screened by a visually solid fence, screen wall or panel, parapet wall, or 
+other visually solid screen that shall be constructed of materials compatible with those used in the 
+exterior construction of the principal building.” 
+ 
+Staff Recommendation: The UDC does not include specific architectural requirements for any 
+other uses, so staff does not believe including architectural requirements for data centers would be 
+consistent with the intent and purpose of the UDC. However, staff does recommend requiring 
+screening for accessory equipment to reduce the visual impact of this equipment, as well as 
+additional setback requirements for accessory equipment. 
+ 
+CONCLUSION 
+ 
+The purpose of this work session is to provide the Planning Commission with draft standards for 
+data center uses, as well as context as to why these standards are being proposed. Staff would 
+like receive direction as to whether these standards should be proposed in a formal Text 
+Amendment for Planning Commission recommendation and Board of County Commissioners 
+approval. 
+ 
+Note: the draft standards below have been modified from the version which was distributed via 
+email on August 7. The changes are indicated by red text.  
+ 
+JP 
+ 
+Attachments: Exhibit 1 …… Draft Use-Specific Standards for Data Centers 
+ 
+Page 5 of 20
+17.03.030 Use-Specific Standards 
+(e) Industrial Uses 
+(3) Data Center 
+(i) Applicability. This Section shall apply to all primary and accessory Data Centers uses with a capacity 
+of at least 10 megawatts,  or expansions of existing Data Centers resulting in a capacity of at least 10 
+megawatts. This shall include all phases of Data Centers built  or permitted in phases if the completed 
+project will have a capacity of at least 10 megawatts. 
+(ii). Data Centers within PUDs. If a Planned Unit Development (PUD) contemplates Data Centers as an 
+allowable use, the PUD shall not include use-specific standards for Data Centers which are less stringent 
+than those contained in this Section. 
+(iii) Noise. Data Centers must be designed and built to incorporate sound mitigation methods sufficient to 
+comply with the Pueblo County Noise Ordinance found in Chapter 10.06 of the Pueblo County Code. The 
+following studies shall be prepared by a licensed Professional Engineer (PE) or other acoustic professional, 
+as approved by the Director. Measurements are to be taken consistent with Section 10.06.060 of the 
+Pueblo County Code; the Director may require additional measurements to be taken at the location of 
+noise-sensitive uses. 
+a. Pre-Construction Study. A noise study shall be conducted prior to development and submitted 
+with the Special Use Permit application  submittal, or Site Development Plan submittal if a 
+Special Use Permit is not required . This study shall document  existing conditions on the 
+property proposed for Data Center development, project the amount of noise to be produced 
+by normal operations and generator testing, and provide noise mitigation strategies including 
+recommended sound reducing materials or systems . For projects being contemplated in 
+phases, the study shall include the projected noise created by each phase individually and 
+cumulatively. 
+b. Post-Construction Study. A noise study shall be conducted and submitted  at least one (1) 
+month but no more than 12 months after the commencement of operations.  If the post -
+construction study determines noise levels to exceed the requirements of Chapter 10.06 of 
+the Pueblo County Code, additional noise mitigation measures shall be installed and a follow-
+up noise study shall be conducted.  Projects constructed in phases shall conduct a post -
+construction study for each phase as it becomes operational. 
+c. Noise Complaints . Should the Department of Planning and Development  receive noise 
+complaints at any time during Data Center operation the Director may, at their sole discretion, 
+require additional noise studies and/or noise mitigation . If noise studies repeatedly show 
+Exhibit 1: Draft Use-Specific Standards for Data Centers
+Page 6 of 20
+noise levels above allowable maximums, this may be used as cause for revocation of Special 
+Use Permit and/or Site Development Plan approval. 
+(iv) Water Usage . A water usage  plan shall be prepared by a licensed Professional Engineer  (PE), 
+hydrologist, or other professional as approved by the Director, and shall be submitted with the Special Use 
+Permit application submittal, or Site Development Plan submittal if a Special Use Permit is not required. 
+The water usage plan shall include the following . For projects being contemplated in phases, the study 
+shall include the following for each phase individually and cumulatively.  
+a. The estimated amount of total water that will be used by the proposed data center for a 
+calendar year, along with a monthly breakdown of projected water demand for each month 
+within that year. 
+b. The proposed source(s) of water for equipment cooling, fire suppression, domestic water 
+requirements (drinking water and sanitary facilities for occupants) , and any other water 
+demands. 
+c. A plan for cooling water capture, storage, recycling, and reuse and a contingency plan for 
+alternative water sources. 
+d. Projected impacts to  the yield and water quality of e xisting wells within 1,320 feet of the 
+property line, the underlying aquifer(s) (if applicable), and any river, stream, or creek within 
+2,640 feet of the property line. 
+e. A plan for disposal of both domestic wastewater and waste cooling water.  
+(v) Utilities. A utility service plan shall  be prepared by a licensed Professional Engineer (PE)  or other 
+professional as approved by the Director, and shall be submitted with the Special Use Permit application 
+submittal, or Site Development Plan submittal if a Special Use Permit is not required. The utility service 
+plan shall include the following. For projects being contemplated in phases, the study shall include the 
+following for each phase individually and cumulatively. 
+a. The estimated amount of total electricity that will be used by the proposed data center for a 
+calendar year, along with a monthly breakdown of projected electricity demand for each 
+month within that year. 
+b. The proposed source(s) of electricity to serve the data center, including a breakdown of 
+electricity to be purchased from an electricity provider(s) and electricity to be generated 
+onsite. If electricity is to be generated onsite, the plan must also specify the means by which 
+the electricity is to be generated and whether excess power generated will be stored onsite 
+or returned to the grid. 
+Page 7 of 20
+c. A will-serve letter from  the applicable electricity provider(s) that affirms its capacity and 
+willingness to serve the energy demand for the proposed data center . If improvements are 
+deemed to be necessary, the plan shall identify the scope of necessary improvements and a 
+plan for financing of said improvements. 
+d. A plan for backup electricity generation, including the number, size, capacity, and location of 
+proposed generators and batteries. 
+(vi) Construction Traffic. A traffic study shall be submitted with the Special Use Permit application submittal, 
+or Site Development Plan submittal if a Special Use Permit is not required. The traffic study shall include 
+the following. For projects being contemplated in phases, the study shall include the following for each 
+phase individually and cumulatively. After reviewing the application’s traffic impact information, the 
+Department of Public Works may require a full traffic study to be prepared and submitted by an engineer 
+approved by the County. 
+a. The time of day that transport will occur; 
+b. A map showing the desired primary and secondary haul routes;  
+c. Characteristics of the loaded vehicles, including length, height, width, curb weight, 
+maximum load capacity, the number of vehicles transporting goods, and the frequency 
+of vehicle arrival at the site. 
+(vii) Emergency Response. An emergency response plan shall be submitted with the Special Use Permit 
+application submittal, or Site Development Plan submittal if a Special Use Permit is not required. The plan 
+shall be referred to the Pueblo County Sheriff’s Office and the applicable fire district(s). The utility service 
+plan shall include the following: 
+a. Onsite fire protection measures. 
+b. Number, size, and location of backup generators and batteries. 
+c. A will-serve letter from the applicable fire district. 
+d. Information regarding site access, including gates and other security measures. 
+e. 24-hour emergency contact information. 
+(viii) Backup Power Generation. Generator usage shall be limited to supplying backup electrical supply 
+during a power outage or similar emergency, or for testing. Generator testing shall only occur between the 
+hours of 9:00 am and 5:00 pm, Monday through Friday, excluding holidays. 
+(ix) Accessory Equipment. Outdoor accessory equipment, including but not limited to battery storage 
+systems and backup generators, shall be considered Outdoor Commercial Storage and subject to the 
+Page 8 of 20
+standards of Sec. 17.03.040(i). Outdoor accessory equipment shall also be subject to principal building 
+setbacks. 
+(x) Residential Adjacency. All Data Center uses, including outdoor accessory equipment, shall be set back 
+at least 1,000 ft. from any residential structure. This distance shall be measured to the nearest wall of the 
+residential structure. 
+(xi) Reporting Requirements.  The operator of the Data Center shall provide yearly reports to the 
+Department of Planning & Development containing the following information: 
+a. Water usage in the previous calendar year, along with a monthly breakdown of water usage 
+for each month within that year. 
+b. Source(s) of water used within the previous calendar year. 
+c. Electricity usage in the previous calendar year, along with a monthly breakdown of electricity 
+usage for each month within that year. 
+d. Source(s) of electricity used within the previous calendar year. 
+(xii) Decommissioning.  
+a. A decommissioning plan shall be submitted with the Special Use Permit application submittal, 
+or Site Development Plan submittal if a Special Use Permit is not required.  
+b. Decommissioning shall commence within six months after the Data Center use has ceased 
+and be completed within 12 months from the start date of the decommissioning/reclamation 
+work, or per the schedule as approved within the Decommissioning Plan. Exceptions may be 
+granted if a force majeure event has occurred requiring repairs; however, the County may 
+require evidentiary support that a longer repair period is necessary. 
+c. The applicant shall notify the Director in writing of the proposed date of discontinued 
+operations and plans for removal prior to commencement of decommissioning. 
+d. Decommissioning shall be conducted in compliance with the approved decommissioning plan. 
+Any amendments to the decommissioning plan shall be approved by the Board of County 
+Commissioners. 
+e. If the building(s) housing the Data Center use are to be reused for another use, all exterior 
+equipment (including but not limited to generators and batteries) related to the Data Center 
+use and not essential for the functionality of the building shall be removed. 
+f.  Hazardous materials shall be removed and disposed of in accordance with federal, state, 
+and local law. 
+ 
+Page 9 of 20
+Carmen Howard, Director 
+Planning and Development 
+201 West 8th Street, Suite 110   719.583.6100 (main) 
+Pueblo, Colorado 81003-3029  planning@pueblocounty.us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM 
+ 
+TO:  Pueblo County Planning Commission, Work Session 
+  (Meeting Date: August 19, 2026)  
+ 
+FROM:  Joe Peoria, Lead Planner  
+ 
+DATE:  August 12, 2026 
+ 
+SUBJECT: Amendments to the Pueblo Regional Comprehensive Plan 
+ 
+PURPOSE 
+ 
+Pueblo County Planning staff refers to the Pueblo Regional Comprehensive Plan (the 
+“Comprehensive Plan”) whenever they made a land-use decision or recommendation to a 
+decision-making body, in order to ensure the decision is aligned with the plan. Over years of 
+working with this document, staff has identified several areas where the Future Land Use (“FLU”)  
+designations of certain areas are inconsistent with land use and development patterns. The 
+purpose of this work session is to provide draft changes to certain FLU designations to the 
+Planning Commission and receive feedback on same, with the end goal of adopting these changes 
+into an amended Comprehensive Plan. 
+BACKGROUND  
+ 
+The Pueblo Regional Comprehensive Plan was adopted September 2022 as a joint effort between 
+the City of Pueblo, Pueblo County, and the Pueblo West Metropolitan District, and serves as the 
+guiding long-range planning document for both the City and County planning departments and their 
+respective board and commissions.  
+ 
+Section 3 of the Comprehensive Plan includes the Future Land Use Plan and a series of Future 
+Land Use maps. Per the Comprehensive Plan, ”the Future Land Use Plan depicts a shared vision 
+for the physical growth of the Pueblo County region.” FLU designations determine the future land 
+uses, density, and availability of public services in any given area and provide guidance for 
+rezonings, special use permits, subdivisions, and other development actions.  
+ 
+However, there are some areas within the jurisdiction of the County where the FLU designation is 
+not necessarily consistent with existing land-use or development patterns. This can have the effect 
+that staff is unable to support a rezoning or other development action which may be consistent with 
+the land uses of neighboring properties and would otherwise be supportable, but is inconsistent 
+with the FLU designation and as such not supportable. An incongruous FLU designation can also 
+negatively affect property owners who may need to rezone in order to bring a noncompliant or 
+nonconforming property into compliance, and the FLU designation prevents them from gaining a 
+recommendation of approval from County staff.  
+ 
+Planning & Development Department                      
+ PUEBLO COUNTY 
+COLORADO 
+Page 10 of 20
+ 
+ 
+Memo to the Pueblo County Planning Commission 
+RE: Amendments to the Pueblo Regional Comprehensive Plan 
+August 12, 2026 
+Page 2 
+ 
+These areas will be outlined in detail below. For each area, the section will include the current FLU 
+designation, staff’s reasoning for why the FLU designation is incorrect, and staff’s recommended 
+new FLU designation. 
+ 
+I-25 Corridor north of Pueblo 
+ 
+The area adjacent to Interstate 25 north of the City of Pueblo, roughly to Exit 106/Porter Draw, is 
+designated Rural Ranch (RR) by the Comprehensive Plan. While some agricultural and residential 
+uses do exist within this corridor, there are also a wide variety of industrial uses which serve the 
+Pueblo area as well as travelers on the interstate, and rely on easy interstate access as a core 
+tenet of their business model. These uses include automotive & heavy truck repair and sales, 
+contractor’s yards, industrial sales and services, self-storage, and waste transfer sites. Zoning in 
+this area also varies, and is a mix of agricultural (A1, A2, and A3), industrial (LI and HI), and 
+commercial (CC).  
+ 
+Staff has received multiple inquiries regarding the establishment or expansion of industrial 
+operations in this corridor, including on vacant land currently zoned agriculturally. Rezonings from 
+agricultural to industrial are not supported by the current RR designation, even when adjacent to 
+existing industrial zoning. As such, staff is proposing changing the designation to Transportation-
+Dependent Industry (TDI). Transportation-dependent industry is intended for areas with highway 
+and/or and rail access, which is the case here, and would allow the predominantly industrial and 
+interstate-based development patterns in this corridor to continue.  
+ 
+A map of the area can be found in Exhibit 1.  
+ 
+Commercial parcels near the I-25/CO-165 interchange 
+ 
+Major highway interchanges often see commercial land-use patterns consisting of business 
+intended to serve highway travelers, and the interstate exit for Colorado City/Rye is a prime 
+example of this. The area is already developed with gas stations, restaurants, and a campground, 
+and there are at least 12 additional vacant lots zoned Community Commercial or Mixed-Use 
+Commercial which would enable a continuation of this development pattern. However, this area is 
+designated a mix of Rural Ranch (RR) and Rural Neighborhoods (RN) which are not consistent 
+with the predominantly commercial growth of this area. As such, staff believes a designation of 
+Commercial Mixed-Use (CMU) would be more appropriate given the existing land use context 
+and projected future growth at this interchange. 
+ 
+A map of the area can be found in Exhibit 2.  
+ 
+North Avondale 
+ 
+The North Avondale area consists of small platted lots, generally 2 acres or less in size, that are 
+generally used and zoned for residential purposes or light commercial. The existing Production 
+Agriculture (PA) designation prescribes a maximum density of 1 dwelling per 35 acres, and does 
+not contemplate the mix of land uses which one typically associates with a denser rural community 
+center, including supporting commercial such as retail and professional services.  
+ 
+In this area, staff believes a designation of Rural Communities (RC) would be more appropriate to 
+reflect the existing land uses and density and better support future growth of a mix of supporting 
+uses. 
+ 
+A map of the area can be found in Exhibit 3.  
+ 
+Page 11 of 20
+ 
+ 
+Memo to the Pueblo County Planning Commission 
+RE: Amendments to the Pueblo Regional Comprehensive Plan 
+August 12, 2026 
+Page 3 
+ 
+Northwestern Salt Creek 
+ 
+Portions of the northwestern Salt Creek area adjacent to the existing rail line are unusual in terms 
+of land use and zoning, as properties zoned for heavy industry directly abut single-family 
+residential. Some properties in this area used for light industry are located on properties 
+designated Urban Neighborhoods, which a designation which only contemplates residential uses 
+and very light, small-scale commercial. Some of these properties are already zoned for industrial 
+purposes, while others are not but are developed with industrial uses which reflect a generally 
+industrial development pattern. 
+ 
+A Light Industrial (LI) designation for these properties will allow them to come into compliance 
+and rezone if necessary, and provide more of a buffer zone between legacy residences and the 
+truly heavy industrial uses west of the railroad. 
+ 
+A map of the area can be found in Exhibit 4.  
+ 
+Federal and state lands 
+ 
+Large portions of far southwestern Pueblo County are owned by federal and state governments, 
+generally as state or national forest or other public lands. The Comprehensive Plan does 
+contemplate public lands as its own FLU designation, State and Federal Lands (SFL). While most 
+of these public lands do reflect the correct designation, staff identified some parcels which reflect a 
+designation more appropriate for land in private ownership. 
+ 
+The SFL designation should be the only designation applied to lands owned and managed by state 
+or federal agencies, so this change would clean up the FLU map and ensure state and federal 
+lands are designated appropriately. 
+ 
+A map of the area can be found in Exhibit 5.  
+ 
+Private land west of Rye 
+ 
+Staff has identified a number of parcels located west of the town of Rye, which are designated as 
+Parks and Open Space (POS). The POS designation is intended for natural areas that have been 
+preserved for active and passive recreational purposes, generally by governmental agencies, but 
+these are developable or developed lots in private ownership and not contemplated for park and 
+recreation use.  
+ 
+Staff believes the Rural Neighborhoods (RN) designation is more appropriate for the smaller 
+parcels between Linger Longer Ln and Zorn Rd, and Rural Ranch (RR) is more appropriate for the 
+larger parcels west of Woodland Acres. 
+ 
+A map of the area can be found in Exhibits 6 and 7.  
+ 
+ 
+CONCLUSION 
+ 
+The purpose of this work session is to provide the Planning Commission with draft changes to 
+certain Future Land Use designations, as well as context as to why these standards are being 
+proposed. Staff would like receive direction as to whether these standards should be proposed in a 
+formal Comprehensive Plan Amendment for Planning Commission approval. 
+ 
+JP 
+Page 12 of 20
+ 
+ 
+Memo to the Pueblo County Planning Commission 
+RE: Amendments to the Pueblo Regional Comprehensive Plan 
+August 12, 2026 
+Page 4 
+ 
+ 
+Attachments: Exhibits 1-7 …… Illustrative Maps 
+ 
+Page 13 of 20
+Page 14 of 20
+Page 15 of 20
+Page 16 of 20
+Page 17 of 20
+Page 18 of 20
+Page 19 of 20
+Page 20 of 20

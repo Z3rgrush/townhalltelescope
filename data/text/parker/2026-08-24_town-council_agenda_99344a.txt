@@ -1,0 +1,903 @@
+ 
+ 
+ 
+TOWN COUNCIL STUDY SESSION AGENDA 
+August 24, 2026 
+5:00 PM 
+   
+ 
+I. Study Session Items 
+    
+ 
+  
+1. Axon Countywide Drone as First Responder (DFR) and License Plate Reader (LPR) 
+Program - Axon Representatives/Schuster/Douglas County Sheriff's Department - 45 
+minutes 
+ 
+  2. Town Risk Management Update - Gallagher/Gentilini/Moreno - 1 hour 
+ 
+  3. Merchant Patrol Ordinance Update - Schuster/Jordan - 30 minutes 
+ 
+  4. Publications & Legal Notices Ordinance Update - Jordan - 15 minutes 
+   
+ 
+II. Staff Updates 
+    
+ 
+III. Town Council Updates/Items 
+    
+ 
+ 
+
+ 
+ 
+MEMORANDUM 
+ 
+TO:  Honorable Mayor and Members of Town Council 
+    
+FROM: Jacob Schuster, Commander 
+    
+DATE: August 24, 2026 
+    
+SUBJECT: Axon Countywide Drone as First Responder (DFR) and License Plate Reader (LPR) 
+Program 
+     
+  
+ITEM OVERVIEW:  
+Informational session regarding ALPR and DFR Technology 
+  
+BACKGROUND AND ANALYSIS:  
+The Police Department has been researching the new Axon Countywide Drone as First 
+Responder (DFR) and License Plate Reader (LPR) programs to be implemented in the Town of 
+Parker. This technology can assist officers with solving crimes and protecting the community. 
+DFR technology can respond within minutes to a call for service and provide critical information 
+and on-scene assessments to responding officers before they arrive. Douglas County recently 
+voted to incorporate the technology, as well. 
+  
+FINANCIAL AND POLICY IMPACTS:  
+DFR technology will increase the Police Department's contract with Axon $175,000 annually 
+over the next 5 years. 
+ 
+A policy will need to be developed regarding use. Skydio and Axon will assist with best 
+practices. 
+ 
+COUNCIL DISCUSSION:  
+Discussion surrounding transparency, accountability, and retention of video. 
+ 
+STRATEGIC GOALS:  
+ 
+ 
+ATTACHMENT:  
+1. DFR PPD 2 
+  
+ 
+ 
+ 
+
+Technology in Law Enforcement
+Overview of how DFR/Real Time Information/Automated License 
+Plate Readers can enhance response times, safety, and situational 
+awareness for officers and the Town of Parker.
+The workforce  is 
+stretched  thin
+Constant threat of injury or 
+death increases  stress, 
+burnout, and attrition
+Risks  to officer 
+safety are rising
+Increased tensions and 
+reduced  cooperation  from 
+strained community relations
+Declining  public  trust 
+in law enforcement
+Lower clearance  rates from 
+increasing call volumes and 
+geographic  coverage  issues
+Emergency  response 
+times are increasing
+Staffing shortages and 
+recruiting difficulties 
+constrain operations
+onfronting a growing public safety crisis
+Confronting  a growing 
+public safety crisis
+© 2025 Skydio,  Inc. Proprietary  & Confidential
+Staffing 
+shortages
+Longer 
+response  times
+More  stressed 
+workforce
+Increased
+Use  of Force  incidents
+Reduced 
+community support
+More  officer 
+injuries
+Challenging  recruiting 
+environment
+© 2025 Skydio,  Inc. Proprietary  & Confidential
+
+Drones  fit as a spoke 
+in a larger  hub
+Drone
+Body 4
+ Fleet 3
+Body  4
+Taser
+TASER
+DFR
+Command
+Dock
+© 2025 Skydio,  Inc. Proprietary  & Confidential
+© 2025 Skydio,  Inc. Proprietary  & Confidential© 2025 Skydio,  Inc. Proprietary  & Confidential
+Respond  faster
+Arrive on scene in less than 
+2 minutes
+© 2025 Skydio,  Inc. Proprietary  & Confidential
+Reduce  use  of force
+More  information, faster, 
+allows for the time & 
+distance  needed  to make 
+better tactical decisions
+Increase  arrests, 
+reduce crime
+Capture crime  in progress, 
+locating subjects and 
+vehicles
+Clear unnecessary 
+calls  for service
+Avoid sending  ground units 
+and clear  calls  with drone 
+and operator
+DFR breaks the cycle…
+DFR breaks  the cycle…
+U.S.
+Born  and 
+manufactured
+2014
+Founded
+3,800
+Customers
+Skydio is the largest U.S. drone manufacturer
+Skydio  is  the largest  U.S.  drone  manufacturer
+60,000
+Drones  shipped
+20
+Industries  served
+$700M
+Investment
+© 2025 Skydio,  Inc. Proprietary  & Confidential© 2025 Skydio,  Inc. Proprietary  & Confidential
+Real results from real deployments
+Real results from real deployments
+42%  reduction  in auto theft 
+500 arrests
+30% drop in overall crime
+SAN FRANCISCO POLICE DEPT
+768 flights  in 15 weeks 
+33% of CFS  received  DFR
+38% of CFS  cleared  without 
+patrol
+LAKEWOOD POLICE DEPT
+88 sec average response  time 
+48%  faster  than officers  on P1 
+25% of CFS  cleared  without 
+patrol
+REDMOND POLICE DEPT
+40%  flights  for fire-related 
+calls
+OKLAHOMA CITY POLICE DEPT
+© 2025 Skydio,  Inc. Proprietary  & Confidential
+OUTPOST ALPR/FLEET 3 ALPR – By Axon
+Axon Outpost combines ALPR, livestreaming, and vehicle attribute recognition in one fixed device —
+going beyond just a hit to provide the full picture in real time
+Axon Fleet 3 is an advanced in-car video system designed to boost safety, transparency, and efficiency 
+with mobile ALPR, real-time awareness features, and deep integrations with connected technologies.
+
+Community Accountability 
+
+FUSUS and Auror
+Fusus gives officers, command and RTCC 
+staff the same live operational picture, 
+collapsing time from signal to response so 
+agencies see more, decide faster and act 
+with confidence through unified visibility, 
+actionable intelligence and rapid response
+Auror gives you full visibility of retail crime in your 
+area, plus access to comprehensive reports and 
+real-world evidence. Delivering the oversight 
+needed to spot organized retail crime (ORC) and 
+take action. Secure by design, with privacy built-in.
+
+Douglas County Deployment 
+
+© 2024 Skydio, Inc. Proprietary & Conﬁdential
+ Real-Time  Info Shared
+DFR Launched
+Captured by ALPR Sensor
+Captured  by 
+ALPR  Sensor
+ Dispatch  Notified
+Call  Resolved
+Event Detected
+Policing  with DFR/ALPR/RTIC
+© 2024 Skydio, Inc. Proprietary & Conﬁdential
+ Real-Time  Info Shared
+DFR Launched
+BWC  Location  Sent
+ Fly to BWC
+Call  Resolved
+Incident Occurred
+Incident Occurred
+Policing  with DFR/ALPR/RTIC
+Advantages
+Lower purchase & maintenance cost 
+vs helicopters
+Small agencies gain aerial capability
+Handling of lower priority calls 
+without officer response
+Aids missing 
+person searches
+Supports 
+de-escalation
+Enhances large 
+event monitoring
+Reduces need for 
+lights-and-siren 
+responses
+Officer Safety
+Handling of 
+lower priority 
+calls without 
+officer reaponse
+Common DFR/ALPR/RTIC Use Cases
+Call for 
+service
+Pursuits & 
+fleeing 
+suspects
+Domestic 
+violence 
+calls
+Traffic 
+collisions
+Fire & 
+hazard 
+assessment
+Event 
+monitoring
+In-Progress 
+crimes
+Town of Parker 
+
+
+
+Since implementing the DFR program in the 
+City of Redmond, weʼve seen the ability to
+cancel our ground response about 25% of the time.
+That gives time back to the officers to do more 
+proactive patrol or to be available for other 
+emergency calls.
+Chief Darrell Lowe
+© 2025 Skydio, Inc. Proprietary & Confidential
+PPD Dock Trial Parker Days 2026
+
+Staff Recommendation
+• Implementation of DFR (Skydio) in conjunction with ALPR/FUSUS/Auror (Axon) 
+Technology will greatly increase the Police Departments ability to 
+detect/deter/investigate/solve crime within the Town of Parker while reducing officer 
+response times, improving officer safety, and providing a higher level of service to the 
+community.
+• One hive (3 docks/3 drones)
+• 10 ALPR’s to combine with current FLOCK ALPR’s
+• FUSUS/AUROR software's
+• AI Translation features on current BWC’s
+• Staff recommends an increased scaled approach over the following years through 
+transparency, consistency, data-driven results, and community trust.
+• Staff recommends exploration of future return on investment (ROI) with other 
+departments within the Town that may benefit from DFR technology
+ 
+ 
+MEMORANDUM 
+ 
+TO:  Honorable Mayor and Members of Town Council 
+    
+FROM: Bryan Gentilini, Risk Manager 
+Amber Moreno, Human Resources Director 
+    
+DATE: August 24, 2026 
+    
+SUBJECT: Town Risk Management Update 
+     
+  
+ITEM OVERVIEW:  
+Staff and the Town's insurance broker, Gallagher, will present a proposed redesign of the 
+Town's property and liability risk management program for the 2027 renewal. The proposed 
+approach would increase the amount of risk retained by the Town while maintaining insurance 
+protection for larger losses. 
+  
+BACKGROUND AND ANALYSIS:  
+For many years, the Town has maintained a largely bundled insurance program for its primary 
+property and liability coverage, transferring much of its risk to commercial carriers. As the Town 
+has grown, its operations, exposures, and coverage needs have become more complex. 
+Combined with recent claims experience and anticipated limitations of the expiring program 
+offerings, staff has engaged Gallagher to evaluate alternative structures that will be most 
+responsive to the Town's evolving needs.  
+ 
+In consideration of this redesign, the proposed approach would:  
+• Establish a $500,000 self-insured retention for primary casualty exposures.  
+• Increase total casualty liability limits from $10 million to $15 million.  
+• Strategically retain certain risks while maintaining commercial insurance for larger or 
+less predictable losses.  
+• Diversify coverage across insurance markets where appropriate.  
+• Balance the Town's total cost of risk with market conditions and coverage levels 
+maintained by comparable public entities.  
+The proposed redesign would allow the Town to assume greater responsibility for losses it has 
+the financial capacity to retain while continuing to transfer significant loss exposure to the 
+insurance market. 
+  
+FINANCIAL AND POLICY IMPACTS:  
+Pending approval as part of the 2027 budget process, the proposed structure anticipates 
+approximately $1.5 million in annual fixed expenses and an initial $2 million reserve or fund 
+balance for retained risk.  
+ 
+ 
+ 
+
+Page 2 
+The reserve would be separate from annual fixed expenses and provide financial capacity to 
+absorb claims within the Town's self-insured retention and other self-insured exposures. 
+ 
+Actual annual costs will vary based on claims experience and final 2027 insurance placement.  
+ 
+COUNCIL DISCUSSION:  
+Staff is seeking Council feedback on the proposed redesign of the Town's property and liability 
+risk management program, including the approach of retaining greater risk, diversifying 
+insurance markets, and maintaining appropriate coverage for significant loss exposures. 
+ 
+Subject to Council feedback and subsequent budget approval, staff would continue working 
+with Gallagher to finalize the program structure for the 2027 renewal.  
+ 
+STRATEGIC GOALS:  
+ 
+ 
+ATTACHMENT:  
+None 
+  
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM 
+ 
+TO:  Honorable Mayor and Members of Town Council 
+    
+FROM: Lindsay Jordan, Deputy Town Attorney 
+Jacob Schuster, Commander 
+    
+DATE: August 24, 2026 
+    
+SUBJECT: Merchant Patrol Ordinance Update 
+     
+  
+ITEM OVERVIEW:  
+Staff proposes a repeal and re-adoption of Chapter 5.06 - Security Guards.  This item is before 
+Town Council for general discussion and direction on the proposed updates.  
+ 
+Below are the main highlights for the proposed changes to the Security Guard (also referred to 
+at times at Merchant Patrol) Code:   
+• Only allowing companies, not individuals, to obtain a security guard license, which 
+requires minor clean up in several provisions;  
+• Requiring the company to conduct and submit a criminal background check for each 
+listed employee who will be working under the license within the town;  
+• Changing various provisions to reference that the Parker Police Department will perform 
+certain activities under the Code, not the Chief of Police;  
+• Revising the application fee to include a license fee, structure fee related to the number 
+of employees who will be working within the town as a security guard;  
+• Updating the investigation process in the application;  
+• Expanding insurance requirements and making companies show proof of Workers' 
+Compensation;  
+• Updating license revocations and having the Special Licensing Authority, rather than 
+Town Council, hold a license revocation hearing.  
+ 
+  
+BACKGROUND AND ANALYSIS:  
+The Town of Parker’s security guard ordinance, Chapter 5.06, was originally adopted in 1994 
+and was last amended in 2004. The current ordinance contains several outdated, unnecessary, 
+and inefficient requirements that no longer reflect current practices or legal standards. 
+ 
+Since the ordinance was last updated, many of the criminal offenses that currently disqualify 
+employees of security guard companies have been downgraded and should no longer prevent 
+an individual from working for a licensed security company. The proposed revisions modernize 
+these requirements while shifting the licensing obligation from individual security guards to the 
+companies that employ them. Requiring companies, rather than individual employees, to obtain 
+and maintain the appropriate license also helps reduce liability and risk to the Town. 
+ 
+
+Page 2 
+The revisions also update the ordinance’s insurance requirements. Currently, the Code 
+requires only general liability insurance. The proposed changes would additionally require proof 
+of workers’ compensation insurance and automobile liability insurance when a vehicle is used 
+for providing security services. 
+ 
+Lastly, the proposed amendments would provide greater flexibility in establishing licensing fees 
+by authorizing the Town Manager or designee to set fees administratively. Maintaining specific 
+fees in the Code requires a formal ordinance amendment each time a minor adjustment is 
+needed. Allowing fees to be established administratively would create a more efficient and 
+responsive process. 
+ 
+A significant benefit of the proposed changes is a more streamlined licensing process that will 
+reduce administrative burdens and free up staff resources. Many requirements in the existing 
+Code are outdated and unnecessarily burdensome. Leaving those requirements in place may 
+also discourage compliance and increase the likelihood that individuals or companies operate 
+outside the Town’s licensing requirements. 
+ 
+The proposed updates do not restrict the ability of companies to provide security guard services 
+within the Town, nor do they change how security guards may be used. Instead, the revisions 
+modernize the licensing framework by requiring the security guard company, rather than each 
+individual guard, to obtain a license. An individual wishing to operate independently could still 
+obtain a license by establishing a qualifying business entity and satisfying the other applicable 
+requirements of the Code. 
+  
+FINANCIAL AND POLICY IMPACTS:  
+Financial impact on the Town is likely minimal.  The Town will collect application and license 
+fees.  These fees are not intended to generate revenue but rather to cover administrative costs, 
+including the investigation of the application. 
+ 
+COUNCIL DISCUSSION:  
+Staff is seeking feedback from Town Council on the proposed amendments to the Code. The 
+proposed changes are intended to modernize and streamline the licensing process, reduce 
+administrative burdens, and limit the Town’s potential liability. 
+ 
+A redline of the proposed revisions is included to facilitate Town Council’s discussion. 
+ 
+STRATEGIC GOALS:  
+ 
+ 
+ATTACHMENT:  
+1. Chapter 5.06 Security Guards with redlines 
+  
+ 
+ 
+ 
+TITLE 5 - Licenses, Permits and Business Regulations 
+CHAPTER 5.06 Security Guards 
+ 
+ 
+ 
+Parker, Colorado, Municipal Code    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 1 of 7 
+CHAPTER 5.06 Security Guards 
+5.06.010 Definitions. 
+When used in this Chapter, the following words and phrases, unless the context indicates a different 
+meaning, shall be interpreted as follows:  
+Business guard or industrial guard means an individual who while uniformed or armed accepts 
+employment from a single employer for the purpose of watching, guarding or otherwise protecting the 
+persons or property of his or her employer only, or to preserve the peace in the conduct of that employer's 
+business, except any individual so employed by any common carrier engaged in interstate commerce, but 
+shall exclude maintenance men and installers, janitors, repairmen or persons engaged in similar occupations.  
+Company means and includes any person, firm, association or corporation engaged in the business or 
+occupation of merchant patrol, as defined by this Section.  
+Merchant patrol means the business or occupation of providing uniformed or armed protection of 
+persons or property of others, or the furnishing of any uniformed or armed guard, patrol or protection 
+service to others for valuable consideration (except a business or industrial guard).  
+Patrolman or merchant patrolman means and includes any person employed by or acting at the 
+direction of a company, except clerical and stenographic employees, to perform merchant patrol services, 
+also referred to as “Security Guards”).  
+Peace officer means a sheriff, undersheriff, deputy sheriff, police officer, State patrol officer, coroner, 
+marshal, any officer, guard or supervisory employee of any institution within the Colorado Department of 
+Institutions, a district attorney or the Attorney General, a probation or parole officer, an officer or member 
+of the National Guard while acting under the call of the Governor in cases of emergency or civil disorder, an 
+agent of the Colorado Bureau of Investigation, a wildlife conservation officer, and security guard employed 
+by the State.  
+5.06.020 License required. 
+It is unlawful for any person:  
+(1) To carry on, engage in or conduct a merchant patrol business in the Town without first having obtained 
+a license as provided in this Chapter; or  
+(2) To act as a merchant patrolman or supervisor of merchant patrolmen in the Town for a company that 
+has not obtained a license as provided in this Chapter.  
+5.06.030 Applicability. 
+The provisions of this Chapter shall not apply to or regulate activities of:  
+(1) Any peace officer while acting or employed in his or her official capacity.  
+(2) Any private detective not engaged in providing merchant patrol or business or industrial guard service.  
+(3) Any person engaged in the direction, escort or protection of a funeral procession.  
+ 
+ 
+ 
+    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 2 of 7 
+(4) Any merchant patrolman or business or industrial guard engaged in the business or providing to others 
+a pick-up and delivery service for the purpose of distributing money or other negotiable securities.  
+5.06.040 Licensing requirements; age; corporate applicants. 
+          Only companies, not individuals, may be licensed in the Town of Parker. If the applicant is a corporation, the 
+corporation shall be organized or authorized to do business in the State.   
+ 
+No company licensed under the provisions of this Chapter, shall allow an employee to have authority to act 
+as a merchant patrolman or supervisor of a merchant patrolmen in the Town of Parker unless: No person shall be 
+licensed under the provisions of this Chapter unless:  
+(1) (1) The applicant is a citizen of the United States of the age of eighteen (18) years or more, except 
+that if the applicant is required to carry a weapon, then of the age of twenty-one (21) years or more.  
+ 
+(2) If the applicant is a corporation, the corporation shall be organized or authorized to do business in the 
+State.  
+ 
+ The company must conduct a criminal background check on each listed employee from the FBI or CBI.  
+The background check must occur within thirty (30) days prior to submitting the application.  Such criminal 
+background check shall be included with the application.  Should the applicant receive approval for a license, the 
+company has an ongoing obligation to keep the list of employees current and provide background checks for 
+employees added to the list within thirty (30) days of the addition. . 
+5.06.050 Licensing requirements. 
+No company person shall be eligible to obtain or hold any license provided by this Chapter if the applicant, or 
+any member, partner, officer, director or the holder of more than ten percent (10%) of the stock of the corporate 
+applicant, has been convicted of:  
+(1) Any crime of murder, rape, aggravated assault, kidnapping, burglary, assault with a deadly weapon or 
+armed robbery within the ten (10) years immediately preceding the date of the application.  
+(2) Any felony sex offense, felony drug offense, any crime involving infliction of violence upon the person 
+of another, within five (5) years immediately preceding the date of application.  
+ 
+ 
+5.06.050 - RESERVED
+5.06.060 Company license, application. 
+Any  companysperson, firm, association or corporation desiring to carry on the merchant patrol business in 
+the Town shall make application in writing to the Parker Police Department Chief of Police for a license, which 
+application shall set forth:  
+(1) A description of the nature and type of business to be conducted.  
+(2) The names and places of residence of the persons making such application; or Tthe names and places 
+of residence of the officers and directors of a corporation making such application, together with the 
+ 
+ 
+ 
+    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 3 of 7 
+names and addresses of any persons holding more than ten percent (10%) of the stock of such 
+corporation.  
+(3) As to each person whose name is required to be furnished by Paragraphs (5) and (6) below, a 
+statement containing all information required by Section 5.06.110 of this Chapter.  
+(4) The address of the principal office or place of business of such person, firm, association or corporation.  
+(5) The name of the individual in charge of such businesscompany.  
+(6) The name of the individual in charge of or responsible for the operations of such business company in 
+the Town.  
+(7) The names and addresses of not less than three (3) persons, as references, of whom inquiry can be 
+made as to the character, standing and reputation of the person, firm, association or corporation 
+making such application.  
+(8) For the corporate applicant, Aa duly certified copy of the articles or certificate of incorporation, and, if 
+a foreign corporation, the qualifications of such corporation to conduct business in the State.  
+(9) A statement of the number of persons to be employed as merchant patrolmen.  
+(10) A statement of the number of vehicles to be used in the conduct of the business company and a 
+description thereof.  
+(11) Written acknowledgment by the licensee of the conditions to be expressed in the license, and that the 
+license may be revoked.  
+(12) Such further and additional information as the Parker Police Department Chief of Police may require 
+for the investigation of the application and the enforcement of this Chapter.  
+5.06.070 Company license; issuance. 
+After the receipt and investigation of such application, and upon being satisfied that the personthe company, 
+firm, association or corporation making the same is in good repute, and intends to carry on an honest and 
+legitimate business, and that all requirements of this Chapter have been met, the Chief of Police shall direct the 
+Parker Police Department Town Clerk to will issue to such applicant a license authorizing the applicant to carry on 
+a merchant patrol business within the Town for the period of two (2) years from and after the date of such license.  
+5.06.080 Company license; list of employees to be submitted with application. 
+The applicant shall submit with the application a list of the names and addresses of the persons who will be 
+employed by the applicant as merchant patrolmen and will provide services in the Town., a copy of the permit 
+defined in Section 18-12-202(6), C.R.S., as amended, fFor any person who will be employed by the applicant as a 
+merchant patrolman and may who be carrying a firearm has been issued such permit and a copy of the current and 
+valid firearm training certificate, as defined by Section 18-12-202(8), C.R.S., as amended, for the firearm that will 
+be carried, used or exhibited by any person who will be employed by the applicant as a merchant patrolman. 
+Copies of the permits and certificates described herein shall be maintained by the applicant at the applicant's place 
+of business and be available for inspection and copying by the Town. The applicant shall provide the Town with an 
+updated list of names and addresses of the persons who are employed as merchant patrolmen, including copies of 
+any new permits and certificates, after the issuance of the company license. The list, permits and certificates 
+described herein shall be updated and provided to the Town on a quarterly basis, commencing on the date that 
+the company license is issued or upon request of the Town.  
+ 
+ 
+ 
+ 
+    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 4 of 7 
+ The applicant shall submit with an application a criminal background check completed by the FBI or CBI 
+for each person that wouldwill work as a merchant patrolmen in the Town.  The background check must have been 
+completed within   thirty (30) days of the application submission.  The applicant is obligated to update the list 
+when/if it decides to have additional and/or new employees work within the boundaries of the Town.  When 
+adding individuals to the list, the Company shall provide Parker Police Department with a background check within 
+thirty (30) days.  The Parker Police Department reserves the right to deny a company  license to a company  if any 
+of the  persons listed have  been convicted of any of the following:  
+ 
+(1) Any crime of murder, rape, aggravated assault, kidnapping, burglary, assault with a deadly weapon or 
+armed robbery within the ten (10) years immediately preceding the date of the application.  
+(2) Any felony sex offense, felony drug offense, any crime involving infliction of violence upon the person 
+of another, within five (5) years immediately preceding the date of application. .  
+5.06.090 Application and license fee. 
+The application shall be accompanied by an application fee and license fee amount will be delegated by the 
+Town Manger or designee. in the amount of one hundred dollars ($100.00) for a company of five (5) or less 
+employees; two hundred fifty dollars ($250.00) for a company of six (6) to ten (10) employees; and five hundred 
+dollars ($500.00) for a company of more than ten (10) employees, which fee is based upon the direct and indirect 
+cost associated with the processing of the application. The application fee shall be nonrefundable and shall be 
+applied to payment of the license fees provided by this Chapter if a license is granted.  
+ 
+5.06.100 Patrolman not employed by licensed company unlawful. 
+It shall be unlawful for any person Any person desiring to engage in the occupation of merchant patrolman in 
+the Town without being employed by a company licensed under the provisions of this Chapter shall make 
+application for and obtain a company license as provided by Sections 5.06.060 through 5.06.090 above.be 
+unlawful.   
+5.06.110 Investigations. 
+(a) Upon receipt, each application shall be referred to the Chief of Police Parker Police Department, who shall 
+immediately institute such investigation of the applicant's business company and moral character as he or 
+she deems necessary for the protection of the public, and shall endorse the application within thirty (30) 
+business days after the date of receipt.  
+(b) If, as a result of such investigation, the character and business responsibilities of the applicant's character or 
+business company responsibility is are found to be unsatisfactory, the Parker Police Department Chief of 
+Police shall endorse on such application his or her disapproval and his or her reasons for the same, and 
+return the application to the Town Clerk, who shall notify the applicant that his or herthe company’s 
+application is disapproved and that no license shall be issued.  
+(c) If, as a result of such investigation, the character and business responsibility of the applicant’s company are 
+found to be satisfactory, the Chief of Police shall endorse on the application his or her approval and return 
+the application to the Town ClerkParker Police Department shall issue a license.  
+(Ord. 5.42.1 §1, 2004; Ord. 5.42 §1, 1994) 
+ 
+ 
+ 
+    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 5 of 7 
+5.06.120 License issuance requirements; insurance; and firearms certificate. 
+(a) An applicant for a company license or a business license shall procure and maintain minimum insurance 
+coverage as set forth herein. The coverage shall be procured and maintained from a company satisfactory to 
+the Town and in a form satisfactory to the Town. All coverage shall be continuously maintained to cover all 
+liability, claims, demands and other obligations assumed by the applicant during the period of the license. In 
+the case of any claims-made policy, the necessary retroactive dates and extended reporting periods shall be 
+procured to maintain such continuous coverage. The amount of general liability insurance coverage shall be 
+minimum combined single limits of one million dollars ($1,000,000.00) each occurrence and two million 
+dollars ($2,000,000.00) aggregate for General Liability, one million dollars ($1,000,000) Auto Liability (if 
+vehicles are utilized) and proof of Worker’s Compensation coverage with limits required by the State of 
+Colorado.. The applicant shall submit a certificate of insurance to the Town with the application. The 
+certificate of insurance shall provide that the coverage will not be terminated without providing thirty (30) 
+days' written notice to the Town.  
+(b) The Town Clerk shall not issue any license without the authority and direction of the Chief of Police as 
+provided in this Chapter.  
+(c) No employee of a company licensed under this Chapter shall carry, use or exhibit any firearm, unless that 
+employee has a current and valid training certificate, as defined by Section 18-12-202(8), C.R.S., as amended, 
+for the firearm that is carried, used or exhibited.  
+(Ord. 5.42.2 §2, 2008; Ord. 5.42.1 §1, 2004; Ord. 5.42 §1, 1994) 
+5.06.130 License renewal. 
+A license, having once been granted under the provisions of this Chapter, may be renewed by filing an 
+application for renewal and payment of the license fee, unless such previous license shall have beenwas revoked 
+or the Chief of PoliceParker Police Department shall otherwise direct. An application for renewal shall be made at 
+least thirty (30) days before the expiration of the term for which the previous license was granted.  
+5.06.140 Licenses not transferable. 
+No license granted under the provisions of this Chapter shall be transferable. This Section shall not be so 
+construed as to prevent or prohibit a change by the licensee in the manager, superintendent or other person in 
+charge of the businesscompany, provided that a certificate setting forth the change is first filed by the licensee 
+with the Chief of Police Parker Police Department.  
+5.06.150 Vehicle marking. 
+The vehicles used in the conduct of the merchant patrol business within the Town by the licensee shall not 
+exhibit  the word “police” and shall clearly state they are security. coloring, marking or equipment so similar to 
+marked police vehicles of the Town that citizens are confused. In addition, the merchant patrol vehicles shall not 
+be equipped with  red and blue any lights or sirens in violation of the traffic code of the Town, or the laws of the 
+State, nor shall any insignia be painted on the sides of the vehicle with the word “police” which are similar to, or 
+which could be confused with, the insignia on police vehicles.  
+5.06.160 License revocation. 
+After a hearing by the Town CouncilSpecial Licensing Authority, any license or permit issued under the 
+provisions of this Chapter may be revoked for any of the following causes:  
+ 
+ 
+ 
+    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 6 of 7 
+(1) (1) Material misrepresentation or concealment in the application for a license.  
+(1)(2) Any employee who knowingly makes false statements on official records, during testimony, or during a 
+criminal investigation. 
+(2) Any employee who commits a Violation violation of any state, county, or municipal law or ordinance 
+relating to use or possession of firearms or weapons.  
+(3) Any employee who impersonates Impersonation of a peace officer.  
+(4) Any employee who is convicted Conviction of any felony offense. under the laws of this State or the 
+United States;  
+(5)  or the c Any employee is convicted who has a conviction of any criminal offense or Town ordinance 
+violation, except traffic violations, committed while acting as a merchant patrolman.  
+(6) Any employee who engages in sexual misconduct, harassment, or abuse while acting as a merchant 
+patrolman. 
+(7) Failing to provide information required in this Chapter. 
+(8) Failing to pay fees required in this Chapter. 
+(59) Any violation of the provisions of this Chapter.  
+ 
+5.06.170 License suspension. 
+Whenever grounds for revocation of a license exist, as provided in Section 5.06.160 above, such license may 
+be suspended by the Parker Police Department for a specified term of not more than two (2) years, in which event:  
+(1) The license shall not be revoked.  
+(2) The applicant shall not act or engage in business in the licensed capacity in the Town during the period 
+of suspension.  
+(3) The suspended license shall not be renewed while the suspension continues in effect.  
+ 
+Any appeal of a suspension of License by the Parker Police Department may be made to the Special Licensing 
+Authority. 
+5.06.180 Hearings. 
+The Town Council Special Licensing Authority  shall hold hearings required by this Chapter pursuant to the 
+procedures set forth in the Town Charter and ordinances of the Town.  
+5.06.190 Unlawful acts. 
+In addition to other acts prohibited by this Chapter, it shall be unlawful:  
+(1) For any licensee to fail to turn over any person arrested by such licensee’s employee pursuant to the 
+laws of the State, immediately to the Police Department or other public law enforcement agency. 
+Nothing contained in this Chapter shall be construed as authorizing any licensee to make an arrest not 
+authorized under the laws of the State to be made by a private citizen.  
+ 
+ 
+ 
+    Created: 2024-08-15 07:45:55 [EST] 
+(Supp. No. 24.2) 
+ 
+Page 7 of 7 
+(2) For any licensee whose employee fires a firearm within the Town to fail to immediately (but not more 
+than six [6] hours) report such incident to the Parker Police Department.  
+(3)   For any licensee’s employee to carry a firearm that was not previously identified to the Parker Police 
+Department while operating in their employment as a security guard within the boundaries of the 
+Townthat was not provided to the Parker Police Department. 
+(43) For any licensee whose employee to hinders or interferes with any investigation under the jurisdiction 
+of the Police Department.  
+(5) For any licensee’s employee to fail to have their identification card displayed and on their person while 
+operating in their employment while in the Town of Parker 
+(4) For any licensee or licensee employee who to fails to report immediately to the Police Department all 
+violations of Town ordinances or to fail to report to the Police Department or other public law 
+enforcement agency all violations of state or federal laws which constitute crimes.  
+(5) For any employee working for a company with a valid licensee, while engaged in his or her course of 
+employment, to wear a uniform or insignia that says “POLICE”.  It is not a violation of this section if the 
+employee’s outfit is clearly marked “SECURITY”.similar to that worn by any peace officer.  
+(6) For any employee working for a company with a valid license For any licensee under this Chapter to 
+represent himself or herself to be an officer of the Police Department.  
+(7) For any person other than a peace officer or member of the armed forces of the United States or 
+Colorado National Guard acting in the lawful discharge of his or her duties or a person who has a valid 
+permit and license pursuant to the Federal Code for such weapon to knowingly possess an illegal 
+weapon. As used in this Subsection, the term illegal weapon means a ballistic knife, blackjack, bomb, 
+firearm silencer, gas gun, machine gun, short shotgun, stun gun, short rifle, metallic knuckles, gravity 
+knife or switchblade knife, as these terms are defined at Section 18-12-101, C.R.S.  
+5.06.200 Penalty. 
+It is unlawful for any person to violate the provisions of this Chapter. Any person who is convicted of such a 
+violation shall be punished by a fine of not more than four hundred ninety-nine dollars ($499.00) for each day of a 
+violation.  
+ 
+ 
+ 
+MEMORANDUM 
+ 
+TO:  Honorable Mayor and Members of Town Council 
+    
+FROM: Lindsay Jordan, Deputy Town Attorney 
+    
+DATE: August 24, 2026 
+    
+SUBJECT: Publications & Legal Notices Ordinance Update 
+     
+  
+ITEM OVERVIEW:  
+Staff has identified revisions that will improve the efficiency of the administration of the Town's 
+publication of legal notices.  The proposed revision allows for the Town's publication of legal 
+notices to reach a widespread audience, as well as allowing for individuals without readily 
+available access to the internet to obtain physical copies of the Town's publication of legal 
+notices. 
+  
+BACKGROUND AND ANALYSIS:  
+Staff identified the following Section that would benefit from updating and minor revisions:   
+ 
+Section 1.04.030 - Publication of legal notices.  Currently, Town's Code states that legal notices 
+shall be published in a newspaper of general circulation.  Updating and revising this 
+requirement to the Town's official website, allows for any legal notice to be found by anyone 
+who visits the page.   
+• Today, most people are getting away from the use of physical newspapers and 
+obtaining information from the internet. 
+• Changing this requirement does not exclude the Town from still publishing legal notices 
+in a newspaper of general circulation within the Town, on a case-by-case basis. 
+• Proposed revisions would require the Town Clerk to determine that legal notices are 
+accurate, timely and reliable upon publication. 
+• The Town Clerk would also attest that the publication was proper. 
+Proposed revision to state:   
+• In general. Except where otherwise provided in this Municipal Code, every legal notice 
+of the Town shall be published on the Town’s official website. Except where otherwise 
+provided, the Clerk shall have primary responsibility for ensuring that the publication of 
+the Town's legal notices substantially complies with the Town Charter, the Town's 
+ordinances and any applicable law of the State. The Clerk shall determine that legal 
+notices are accurate, timely and reliable.   
+Section 1.05.030 - Publication.  Currently, Town Code requires the agenda stating the title of a 
+bill for an ordinance to be introduced at a regular or special meeting of Town Council be posted 
+at least two (2) days before the meeting in a conspicuous place in at least two (2) public places, 
+
+Page 2 
+with one (1) being a public place viewable from directly outside the main entrance of Town Hall 
+and other being the Town of Parker website (www.parkeronline.org).  Updating and revising 
+this requirement allows for the Town's operations to change without having to amend code, 
+digitize its agendas, and eliminate costs by allowing for physical copies upon request.   
+• The Town no longer utilizes the www.parkeronline.org web address (it is now 
+www.parkerco.gov).  Deleting this reference eliminates confusion.  Additionally, 
+generally stating the Town's official website, without providing a site, allows for the 
+Town to change its web address without having to amend code.  
+• Transitioning publication of agendas to the Town's official website provides greater 
+access, i.e. people do not have to physically come to the building, can access the 
+agendas at all hours of the day.  
+• The revision would allow for anyone who cannot access the agendas online to come to 
+Town Hall and obtain copies.   
+Proposed revision to state:  
+A bill for an ordinance may not be introduced, passed or approved at a regular or specially 
+scheduled meeting of the Council unless the entire text of the ordinance is made available to 
+members of the Council at least four (4) days before said meeting. Prior to the regular or 
+special meeting at which the bill is to be introduced, passed or approved, an agenda which 
+gives the title of the bill shall be posted at least two (2) days before said regular or special 
+meeting on the Town’s official website designated in compliance with the Colorado Open 
+Meeting Laws, or a physical copy made available upon request at the Town Clerk’s Office. If 
+the Town of Parker’s website is not operable, then the Town Clerk shall post the agenda at the 
+public entrance of Town Hall for the Town of Parker, where the bulletin board is located or in 
+another public place selected by the Town Clerk in the manner provided herein. Publication of 
+an ordinance, upon approval, shall follow the provisions of Subsection 1.04.030(b) of this Code. 
+  
+FINANCIAL AND POLICY IMPACTS:  
+Proposed revisions may have a minor financial effect on the Town.  Potentially the revisions 
+would eliminate administrative fees associated with posting notices in newspapers, and reduce 
+paper waste from posting physical copies of agendas. 
+ 
+COUNCIL DISCUSSION:  
+Staff requests Council discuss the following points:  
+1.  Updating code from requiring physical publication of legal notices in the newspaper to the 
+Town's official website. 
+2.  Updating code to allow posting of agendas on the Town's official website. 
+ 
+STRATEGIC GOALS:  
+ 
+ 
+ATTACHMENT:  
+1. 1.04.030 & 1.05.030 with redlines 
+  
+ 
+ 
+Page 3 
+ 
+ 
+ 
+ 
+    Created: 2026-05-09 11:22:13 [EST] 
+(Supp. No. 26.1) 
+ 
+Page 1 of 1 
+1.04.030 Publication of legal notices. 
+(a) In general. Except where otherwise provided in this Municipal Code, every legal notice of the Town shall be 
+published on the Town’s official websitein a newspaper of general circulation within the Town. Except where 
+otherwise provided, the Clerk shall have primary responsibility for insuringensuring that the publication of 
+the Town's legal notices substantially complies with the Town Charter, the Town's ordinances and any 
+applicable law of the State. The Clerk shall determine that publications are which newspapers adequately 
+satisfy the Town's needs for accurate, timely and reliable publication at a competitive or reasonable 
+publication cost. The Town Clerk shall complete an affidavit of publication. 
+(b) Ordinances. At least two (2) days prior to any regular or special council meeting at which the Town Council 
+intends to introduce or consider any ordinance, the Clerk shall cause to be published an agenda describing 
+any such ordinance. After final passage of the ordinance by a roll call vote of Council, the Clerk shall publish 
+the ordinance, but publication of the title thereof together with a statement that the full text is available for 
+public inspection and acquisition in the Clerk's office during the Town's regular business hours, shall be 
+sufficient publication. This Subsection (b) shall not apply to emergency ordinances.  
+(c) Emergency ordinances. Emergency ordinances enacted by the Town Council pursuant to Section 7.6 of the 
+Town Charter shall be posted and published in full by the Clerk as soon after passage as is reasonably 
+practicable.  
+(d) Notices by order of court. This Section shall not apply to the publication of legal notices by order of a court. 
+Notices by order of a court shall be made in strict compliance with the terms of such court order.  
+(Ord. 1.53 §1, 1992) 
+ 
+1.05.030 Publication. 
+ 
+A bill for an ordinance may not be introduced, passed or approved at a regular or specially scheduled meeting of the 
+Council unless the entire text of the ordinance is made available to members of the Council at least four (4) days 
+before said meeting. Prior to the regular or special meeting at which the bill is to be introduced, passed or approved, 
+an agenda which gives the title of the bill shall be posted at least two (2) days before said regular or special meeting 
+on the Town’s official website designated in compliance with the Colorado Open Meeting Laws, or a physical copy 
+made available upon request at the Town Clerk’s Office . in a conspicuous place in at least two (2) public places, with 
+one (1) such public place being viewable from directly outside the main entrance of the Town Hall and the other 
+being the Town of Parker Web site (www.parkeronline.org). In the event thatIf the Town of Parker’s Web sitewebsite 
+is not operable, then the Town Clerk shall post the agenda at the public entrance of Town Hall for the Town of Parker, 
+where the bulletin board is located or in another public place selected by the Town Clerk in the manner provided 
+herein. Publication of an ordinance, upon approval, shall follow the provisions of Subsection 1.04.030(b) of this Code.  
+ 
+(Ord. 1.65.1 §1, 2005; Ord. 1.65 §1, 1994) 

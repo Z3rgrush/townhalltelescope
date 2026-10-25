@@ -1,0 +1,1533 @@
+ 
+City of Greenwood Village 
+ 
+Agenda – Final 
+City Council 
+6060 South Quebec Street 
+Greenwood Village, CO 
+80111 
+Please turn off all cellular phones and/or audible pagers. 
+All Council meetings are digitally recorded, and Council members may participate by remote electronic means. 
+Click on the Agenda Packet tab for an Accessible View.   
+Council Chambers is ADA-accessible – Hearing-impaired apparatus available. 
+Handheld amplified receivers and headsets are available upon request.   
+For accessibility information and requests, call 303-804-4113 or email 
+TheVillage@GreenwoodVillage.com at least one business day prior to the meeting. 
+ 
+Monday, October 19, 2026 7:00 PM 
+ 
+Community Room 
+ 
+ 
+City of Greenwood Village Page 1 October 14, 2026 
+ 
+ 
+ 
+  
+Study Session - 7:00 PM 
+ 
+  A. RTD Update (Patrick O'Keefe, Chairman, Regional Transportation District Board and Matt 
+Larsen, RTD Boardmember) (2026-269) 
+ 
+  B. Discussion Regarding Electric Vehicle (EV) Charging Station Regulations (Derek Holcomb, 
+Community Development Director) (2026-303) 
+ 
+ 
+Page 1 
+ 
+   
+ 
+Staff Report 
+ 
+Date:  October 2, 2026 
+To: City Council 
+Through:  John Jackson, City Manager 
+ Shawn Cordsen, Deputy City Manager 
+ Sarah Geiger, City Attorney 
+From:  Derek Holcomb, Community Development Director 
+Subject:  Discussion Regarding Electric Vehicle (EV) Charging Station Regulations 
+ 
+Summary: 
+ 
+At the direction of the City Manager, Staff reviewed the need for regulations governing the 
+placement and screening of commercial electric vehicle (EV) charging stations and equipment in 
+Greenwood Village. This review was prompted by the increasing adoption of EVs statewide and 
+the absence of any specific language in the City’s Land Development Code (LDC) addressing EV 
+charging infrastructure. Staff reviewed best practices and model code language developed by the 
+Colorado Energy Office, as well as recent state legislation (HB24-1173), to inform 
+recommendations for new code provisions. This staff report summarizes the current regulatory 
+landscape, outlines potential options for Greenwood Village, and provides a recommendation 
+for consideration by City Council for all future commercial EV charging facilities. 
+ 
+Background: 
+ 
+The Colorado Legislature passed House Bill 24-1173, requiring municipalities above certain 
+population thresholds to adopt permitting standards for EV charging development by December 
+31, 2025, or to confirm that the municipality would maintain its current processes (Greenwood 
+Village chose this second option). At the same time, the Colorado Energy Office published the 
+Colorado Electric Vehicle Charging Model Land Use Code & Guidance (the “State EV Code”), 
+which provides definitions, standards, and recommended code language for local governments 
+to streamline EV charging permitting and ensure consistent regulation statewide.  
+ 
+Currently, Greenwood Village’s LDC does not contain any language specific to EV charging 
+stations or equipment, and all requests for new chargers are processed through a building 
+permit, with some commercial installations requiring a Site Development Plan (SDP) 
+amendment if overall parking counts are impacted. Applications for EV charging infrastructure 
+are reviewed under general site development and utility screening provisions, which may not 
+adequately address the unique characteristics and impacts of EV charging equipment.  
+ 
+Discussion: 
+ 
+Page 2 
+2 
+ 
+Overview of State EV Code Language: 
+ 
+The State EV Code recommends that jurisdictions adopt clear definitions and standards for 
+commercial EV charging projects, including provisions for screening equipment from view of 
+adjacent properties and public spaces. The State EV Code also recommends that EV charging 
+projects be permitted by right in most zoning districts, with administrative review, but Staff is 
+not recommending that the City’s approval processes be modified at this time.  
+ 
+Regarding potential provisions for screening new commercial EV Charging facilities, the most 
+relevant suggestions from the State EV Code include the following: 
+ 
+• State Suggested Definitions: 
+o EV Charging Station: Equipment providing charging for EVs, located adjacent 
+to dedicated parking spaces. 
+o EV Charging Equipment: All supportive equipment (e.g., transformers, 
+switchgear, distribution lines) necessary for charging.  
+• State Suggested Screening Standards: 
+o Jurisdictions are encouraged not to require screening for accessory use EV 
+charging projects but may require screening for equipment located along 
+property perimeters. 
+o Screening should be objective, allow multiple material options, and not conflict 
+with national electrical safety standards (e.g., NFPA, NESC).  
+o Screening materials must be durable, weather-resistant, and compatible with site 
+design. 
+o Screening must not interfere with equipment ventilation, drainage, utility access, 
+emergency access, or required maintenance areas. 
+ 
+In review of the proposed language from the State EV Code, Staff would suggest that the 
+definitions be slightly expanded to further define an Electric Vehicle itself and differentiate an 
+accessory EV charging use from a primary EV charging use. 
+ 
+Potential Regulations for Greenwood Village: 
+ 
+Should City Council desire to implement requirements for screening EV Chargers in Greenwood 
+Village, language can be inserted into Section 16-1-100, Definitions, and Section 16-21-250, 
+Buffering and Screening, of the LDC to address the following issues: 
+ 
+• Definitions for “EV Charging Equipment”, “EV Charging Station” and “Electric Vehicle 
+(EV)” added to the LDC. 
+• Outdoor EV Charging Equipment (commercial installations) must be screened from view 
+from adjacent residentially zoned property, public streets, sidewalks, trails, parks, and 
+other public open spaces to the extent practicable. Adjacent means a lot sharing a 
+common point with the lot line of the subject lot or a lot that would share such a point 
+were it not for the presence of a street or right-of-way.   
+Page 3 
+3 
+ 
+• Screening may consist of masonry walls, opaque fences, evergreen landscaping, 
+landscape hedges, equipment cabinets, or integrated architectural features. 
+• Screening must be designed to substantially obscure the view of equipment at the time of 
+installation, including sufficiently mature vegetation if landscaping is used. 
+• Screening materials must be durable and compatible with the principal building or site 
+design. 
+• Screening must not interfere with equipment function, access, or safety requirements. 
+ 
+These requirements would provide a good balance between screening the most impactful 
+equipment (the transformers and switchgear) and allowing visibility of the smaller charging 
+stations for the benefit of the traveling public.  The requirements would not apply to private 
+residential EV chargers on single-family residential properties but could apply to multifamily 
+residential properties. 
+ 
+As an example of a screening solution that would meet the requirements of above, the recent EV 
+charger installation at the Harlequin building (7600 E Orchard Road) included a variety of 
+evergreen landscaping and hedge plants that substantially obscure the view of the supporting 
+equipment at the time of installation.  
+ 
+ 
+Page 4 
+4 
+ 
+ 
+ 
+Recommendation: 
+ 
+Staff recommends that City Council direct Staff to update Sections 16-1-100 and 16-21-250 of 
+the LDC to include definition and screening standards for EV chargers, using the potential 
+regulations outlined in this staff report.  
+ 
+ 
+Next Steps: 
+ 
+Should City Council direct Staff to proceed with an update to the LDC, an ordinance will be 
+brought back to City Council for discussion and a decision at a future meeting. 
+ 
+Attachments: 
+ 
+State Model EV Code 
+GV Resolution 30-25 Demonstrating Compliance with House Bill 24-1173 
+Page 5 
+ 
+ 
+ 
+ 
+ 
+Colorado Electric Vehicle 
+Charging Model Land Use 
+Code & Guidance  
+ 
+Prepared by the Colorado Energy Office  
+in compliance with HB24 –1173  
+ 
+ 
+ 
+March 2025 
+ 
+ 
+ 
+Page 6 
+2 
+Table of Contents 
+Chapter 1: Introduction ........................................................................... 3 
+What is the Colorado Electric Vehicle Charging Model Land Use Code & Guidance? . 3 
+What is House Bill 24-1173? .................................................................... 3 
+EV Charging Model Code Requirements ...................................................... 5 
+Background ....................................................................................... 9 
+Chapter 2: HB24-1173 Compliance ............................................................. 13 
+Applicability ..................................................................................... 13 
+Compliance Options ............................................................................ 13 
+Compliance Path Considerations ............................................................. 15 
+Reporting ........................................................................................ 15 
+Chapter 3: Model Code Adoption Guidance ................................................... 16 
+Definitions and Standards Structure ......................................................... 16 
+Opportunities for Customization ............................................................. 17 
+Conflicting Language ........................................................................... 19 
+Interaction with Other Regulations .......................................................... 19 
+Integrating Graphics ........................................................................... 20 
+Other Potential Standards .................................................................... 20 
+Chapter 4: Model Code Definitions and Standards ........................................... 21 
+Base Definitions (Adoption Required) ....................................................... 21 
+Base Standards (Adoption Required) ........................................................ 27 
+Optional Standards ............................................................................. 39 
+Other Potential Standards .................................................................... 43 
+Chapter 5: Model Code Application & Review Process Requirements .................... 44 
+Required Permitting Process Elements ...................................................... 45 
+Recommended (Optional) Permitting Process Elements ................................. 46 
+Templates........................................................................................ 46 
+Appendix A - Subject Jurisdictions ............................................................. 47 
+Appendix B – Example Land Use Context to Zoning District Translation Table .......... 48 
+ 
+Page 7 
+3 
+Chapter 1: Introduction 
+What is the Colorado Electric Vehicle Charging Model Land 
+Use Code & Guidance? 
+This document helps local governments understand the three options available to 
+comply with House Bill 24-1173 (“HB24-1173” or “the law”), and outlines 
+requirements for local governments that choose to comply by adopting the EV 
+Charging Model Land Use Code (“Model Code”). This document provides requirements 
+and recommendations for land use standards and permitting processes, and guidance 
+to implement them. Readers are encouraged to review the entire document to fully 
+understand the compliance options and requirements. The key chapters in this 
+document are:  
+● Chapter 2: outlines the three options for compliance with HB24-1173 
+● Chapters 3 & 4: includes the Model Code land use standard requirements and 
+adoption guidance 
+● Chapter 5: provides the Model Code land use permitting process requirements 
+and recommendations 
+What is House Bill 24-1173? 
+As a strategy for expanding Electric Vehicle (“EV”) use, cost-effectiveness, 
+convenience and viability across the state, and to advance Colorado’s ambitious goals 
+to reduce air pollution and greenhouse gas (“GHG”) emissions, the Colorado 
+Legislature passed House Bill 24-1173 to encourage a more standardized and 
+streamlined local permitting processes for EV charging development. 
+The law applies to counties with 20,000 and more people, and municipalities with 
+10,000 and more people, as of the 2020 Federal Census. Counties and municipalities 
+subject to the law (“subject jurisdictions”) are listed in Appendix A: Subject 
+Page 8 
+4 
+Jurisdictions. By December 31, 2025, subject jurisdictions are required to complete 
+one of three compliance actions: 
+1. EV Charging Model Code Adoption: Adopt the permitting standards and 
+processes from this EV Charging Model Code. Requirements, recommendations, 
+and implementation instructions for this option are found in Chapters 3-5 of 
+this document.   
+2. Statutory Code Adoption: Adopt the EV charging permitting standards directly 
+as written in the law, including adopting objective permit review standards and 
+an administrative review process for EV charging projects.  
+3. Retain Existing Permitting Process and Standards: Adopt an ordinance or 
+resolution to retain existing standards and permitting processes for EV charging 
+projects, opting out of any changes to permitting standards and processes.  
+Only subject jurisdictions that choose the Model Code compliance path must 
+adhere to the Model Code requirements of this document. Jurisdictions that 
+choose one of the other compliance paths are not subject to the Model Code 
+requirements. More detailed information on how to comply with the law is found in 
+Chapter 2. 
+Page 9 
+5 
+EV Charging Model Code Requirements 
+The Model Code requirements are based on established best practices, aiming to 
+reduce barriers for EV charging development and streamline the approval process. 
+The Colorado Energy Office (“CEO”)’s goal in developing the Model Code is to provide 
+an attractive option for the majority of local governments across the state, 
+establishing a relatively consistent set of standards and processes. Although the 
+requirements and recommendations are written to support subject jurisdiction 
+compliance with HB24-1173, they may also serve as a resource for other local 
+governments that wish to streamline their EV charging permitting processes 
+voluntarily. 
+There are two components to the requirements for the Model Code compliance 
+option: 1) definitions and standards and 2) permitting processes. Local governments 
+that plan to comply with the law using a different compliance path are not subject 
+to these requirements.  
+Definitions and Standards 
+Chapter 4 provides definitions and standards for local governments to integrate into 
+their land use codes, and – along with guidance in Chapter 3 – instructions for 
+interpreting and implementing them. The Base Standards and Definitions are required 
+to be adopted. The Optional Standards are not required to be adopted, but represent 
+the most restrictive land use regulations that jurisdictions may adopt (if they choose 
+to) for the topics addressed, which are common topics that jurisdictions may want to 
+regulate for EV Charging.  The standards and definitions are meant to provide 
+predictable parameters to guide the permitting of EV charging projects, including:  
+● Defining EV charging projects as a land use 
+● The land use contexts where EV charging projects are allowed by right, allowed 
+conditionally, or prohibited 
+● The land use permitting processes applicable to proposed EV charging projects 
+● Siting and design considerations like parking, setbacks, screening, landscaping, 
+signage, lighting, and weather protection 
+Page 10 
+6 
+ 
+ 
+Base Definitions & Standards Summary  
+13 Definitions and 12 Standards that jurisdictions must include in their land use codes, 
+either as new code language or by referencing existing code language. 
+● Jurisdictions may only require land use permits for DCFC EV charging 
+(Definitions 5-7 + Standard 1) 
+● Jurisdictions must allow EV charging as a use by-right reviewed through an 
+Administrative Approval process in most zoning districts (Standards 2 + 5) 
+● Jurisdictions may not require conformance updates for existing Primary Uses 
+on a property where Accessory Use EV Charging is proposed (Standard 3) 
+● Jurisdictions may regulate Primary Use EV charging differently from Accessory 
+Use EV charging, and may apply standards from other reasonably similar land 
+uses to Primary Use EV charging (Standard 4)  
+● Jurisdictions must count EV charging parking spaces towards minimum parking 
+requirements and ensure that EV charging projects comply with accessibility 
+guidelines (Standards 6-8) 
+● Jurisdictions may limit Accessory Use EV charging stations and equipment 
+within setbacks, but are encouraged to allow stations and equipment in 
+setbacks when appropriate (Standard 9) 
+● Jurisdictions have some ability to regulate the dimensions, appearance, of 
+materials of EV charging infrastructure (Standard 10) 
+● Jurisdictions may require limited screening for EV charging equipment, but 
+are encouraged to not require any screening (Standard 11) 
+● Jurisdictions may not require screening or landscaping that conflicts with 
+national electrical safety and access standards (Standard 12) 
+ 
+Page 11 
+7 
+ 
+ 
+Optional Standards Summary 
+6 Standards that jurisdictions are not required to adopt but may choose to if they 
+would like to regulate one or more of the specific topics addressed. While not 
+required, these represent the most restrictive standards allowable within each topic.  
+● Jurisdictions may require that EV charging stations be well-lit (Standard 13) 
+● Jurisdictions may apply pavement striping and marking standards to EV 
+charging (Standard 14) 
+● Jurisdictions may apply sight visibility standards to EV charging (Standard 15) 
+● Jurisdictions may require that existing landscaping removed during EV 
+charging installation be replaced (Standard 16) 
+● Jurisdictions may apply signage standards to EV charging, but cannot require 
+or prohibit signage (Standard 17) 
+● Jurisdictions may apply dimensional and design standards for EV charging 
+weather canopies, but cannot require or prohibit them (Standard 18) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 12 
+8 
+ 
+ 
+ 
+Permitting Processes 
+Chapter 5 provides requirements and recommended options for land use application 
+and review processes that build on the Model Code definitions and standards. Local 
+governments can implement these requirements and recommendations through 
+Permitting Processes 
+Chapter 5 provides requirements and recommended options for land use application 
+and review processes that build on the Model Code definitions and standards. Local 
+governments can implement these requirements and recommendations through 
+changes to internal permitting processes and by developing public facing permitting 
+materials. The requirements and recommendations are meant to provide more 
+information about the application and review processes to EV charging developers, 
+and a more transparent and predictable process for both local government staff and 
+developers. Similar to the Definitions and Standards, there are two categories for the 
+Model Code’s permitting process elements: 
+Required Permitting Process Summary 
+4 process requirements that jurisdictions must follow for the permitting of EV 
+charging projects to comply with the Model Code. 
+● Provide accessible, user-friendly, and transparent online information for EV 
+charging permitting, including permit requirements and information, 
+application forms and checklists, applicable land use standards, estimated 
+processing timelines, permit fee schedules, and contact information for 
+reviewing departments. 
+● Allow for digital application submissions (electronic system or via email) 
+● May not require in-person application submissions 
+● May not require applications to use specific types of paper, include wet 
+signatures, or be notarized. 
+Recommended (Optional) Permitting Process Summary 
+7 process recommendations that jurisdictions should follow, if feasible, but are not 
+required to. See page 44 for more details. 
+Page 13 
+9 
+Background 
+Coloradans are choosing to drive electric vehicles in record numbers, with Colorado 
+leading the nation in EV market share in Q3 2024. EV drivers save money on fuel and 
+maintenance, and as more makes and models come to the market, EV purchases will 
+continue to increase. EV drivers also report that access to charging is a key concern 
+when choosing to purchase an EV, and the State of Colorado has made major strides in 
+providing a robust EV charging network through various funding programs and 
+statewide planning efforts. Ensuring adequate access to EV charging can be a boon to 
+local communities by providing critical services to their EV drivers, providing 
+confidence to visitors and tourists that charging is available in a community, 
+facilitating intrastate travel and tourism, and EV charging can provide local businesses 
+or property owners with new revenue streams, access to customers visiting to charge, 
+or a new amenity for tenants purchasing or using EVs. Moreover, in Colorado, 
+transportation is the largest source of GHG emissions and a major contributor to other 
+pollutants that create poor air quality and threaten community health. Vehicle 
+electrification is one of the core strategies to reduce transportation emissions and 
+pollution across the state, as EVs produce zero tailpipe emissions and increasingly 
+fewer emissions from the electricity to power them as the state pursues a goal of 
+100% zero-emission electricity by 2040 and market dynamics deploy more clean 
+electricity on the grid. In 2018, the State developed its first statewide EV Plan, 
+setting ambitious goals for increasing the number of EVs on Colorado’s roads to 
+940,000 by 2030. Subsequently, the EV Plan was updated in 2020 and 2023, with this 
+latest adoption setting new goals to increase EV sales to at least 70% of all vehicle 
+sales by 2030, to drastically increase the overall number of EVs for personal use and 
+in public fleets, and to support these increases in EV use by expanding development 
+of public EV charging infrastructure. 
+Colorado has also continued and expanded its light duty clean vehicle sales standards, 
+through the Colorado Clean Cars Rule, which seeks to provide more access to EVs in 
+the Colorado market to achieve at least 82% market share for EVs by 2032. This sales 
+standard, coupled with local, state, utility, and federal incentives for EVs, all 
+Page 14 
+10 
+contribute to increasing EV sales and more opportunities for businesses and local 
+governments to facilitate access to EV charging through permitting frameworks like 
+those included in this document.   
+2023-2024: EV Charging Permitting Study 
+CEO conducted an EV Charging Permitting Study to investigate the key land use 
+permitting barriers to EV charging infrastructure development and potential solutions 
+for reducing identified barriers, which provided a strong foundation for developing 
+this Model Code. The study was based on input from local governments and charging 
+developers and a review of national best practices. The results of that study indicated 
+that land use standards and permitting processes were a significant barrier for EV 
+charging developers in Colorado. This is largely because many jurisdictions do not yet 
+have specific standards and processes defined for such projects, being a relatively 
+new, albeit quickly expanding, project type. Thus, when most jurisdictions receive an 
+application for EV charging, there are no guidelines to review and approve the 
+project. This can result in the subjective application of existing land use standards for 
+other uses (e.g. gas stations); overly complex permitting processes; unclear 
+standards; and unexpected requirements. Local governments and charging developers 
+have shared that there is a need to define and simplify the standards that apply to EV 
+charging development, for the benefit of both local governments and EV drivers.  
+2024: House Bill 24-1173 
+The Colorado State Legislature passed House Bill 24-1173 and Governor Polis signed 
+the bill into law on May 21, 2024. The law requires subject jurisdictions to take one of 
+three compliance actions, including the Model Code compliance path described in this 
+document. The law directed CEO to develop this Model Code document, to provide 
+no-cost technical assistance to local governments to help them integrate the Model 
+Code into their existing land use codes, and to provide staff training to local 
+governments to help planning review staff interpret and apply land use regulations to 
+EV charging projects. More detailed information on how to comply with the law is 
+found in Chapter 2.  
+Page 15 
+11 
+2024-2025: Development of the Model Code 
+The EV Charging Model Code and Guidance Document were developed over a six-
+month process (October 2024 to March 2025), which built upon the EV Permitting 
+Study and incorporated voices and perspectives from Colorado counties, 
+municipalities, electric utilities, advocates and representatives of disproportionately 
+impacted communities, EV charging providers, and many other stakeholders. In 
+compliance with C.R.S. 30-28-213 (3) and C.R.S. 31-23-316 (3), this process included 
+five meetings with an Advisory Committee (comprised of representatives from local 
+governments, EV charging developers, utility providers, local government membership 
+organizations, and research and advocacy organizations), four focus group discussions 
+with stakeholders and community partners, an online survey, and a public review 
+period. The Model Code was developed by CEO and consultant partner, MIG, Inc., with 
+strong and balanced influence from these stakeholder perspectives. An Engagement 
+Summary document is included as Appendix C. 
+The primary goal of the Model Code is to support more predictable, transparent and 
+streamlined land use permitting for EV charging development at the local level, 
+benefitting: 
+● Local Governments - by providing a straightforward, easily adaptable 
+regulatory tool to streamline permitting for EV charging, which helps to ensure 
+that future EV charging development is consistent with community needs while 
+minimizing staff resources needed to review and approve permit applications. 
+● Charging Developers - by providing more predictable standards, more timely 
+permitting processes, and more consistency statewide. 
+● Colorado Residents - by ensuring that enough charging is built more quickly to 
+support the growing demand from EV drivers to reach all corners of the state. 
+The Model Code is also meant to serve as a long-term resource for local governments, 
+beyond supporting compliance with HB24-1173. CEO may consider updates to the 
+Model Code in the future based on changes to the EV charging market, technology, or 
+Page 16 
+12 
+feedback from local governments and charging developers. CEO does not intend to 
+change the Model Code during the compliance period, but may do so if necessary to 
+address any errors or other issues. However, local governments that adopt it for the 
+purpose of compliance with HB24-1173 will not be expected to adopt any updated 
+versions. 
+  
+Page 17 
+13 
+Chapter 2: HB24-1173 Compliance 
+Applicability 
+The law applies to counties with 20,000 and more people, and municipalities with 
+10,000 and more people, as of the 2020 Federal Census. Counties and municipalities 
+subject to the law (“subject jurisdictions”) are listed in Appendix A. 
+Compliance Options 
+By December 31, 2025, subject jurisdictions are required to complete one of three 
+compliance actions. 
+Compliance Option 1: EV Charging Model Code Adoption  
+Subject jurisdictions may adopt an ordinance or resolution to incorporate the same—
+or “less restrictive”—standards and permitting process as those in the Model Code. 
+The Model Code provides required and recommended standards and processes for 
+regulating EV charging development and essential information for subject jurisdictions 
+to implement them. The Model Code includes a broadly applicable set of objective 
+standards and a transparent and streamlined review process, with reasonable 
+flexibility for subject jurisdictions to adapt the standards to fit their community’s 
+priorities and to integrate with their existing land use regulations.  
+CEO will support subject jurisdictions with adopting and applying the EV Charging 
+Model Code in the following ways. 
+● Code Adoption Support: CEO will provide an on-call consultant to help subject 
+jurisdictions adopt the EV Charging Model Code, including providing: 
+○ Review of existing land use codes to identify appropriate locations to 
+integrate model code standards 
+○ Suggested revised code language 
+○ Guidance on messaging for the general public, local government staff, 
+and elected officials to support Model Code adoption 
+○ Attendance at local government staff and/or elected body meetings 
+Page 18 
+14 
+● Staff Training: CEO will provide a training manual and online training to 
+educate permit review staff on how to interpret and apply the EV Charging 
+Model Code standards. The training materials will cover the following topics: 
+○ Basics of EV charging projects (where are they typically sited, typical 
+dimensions and appearance, typical amount of users per day) 
+○ The types EV charging projects subject to land use permitting under the 
+model code 
+○ The types of standards and processes required by the model code 
+○ How to apply the model code standards and processes to EV charging 
+permit applications 
+○ Common permitting challenges and how to resolve them 
+○ Community context considerations (urban, suburban, rural) 
+Compliance Option 2: Statutory Code Adoption  
+Subject jurisdictions may adopt an ordinance or resolution that establishes a 
+permitting process for “EV Charger Permit” applications, consistent with the 
+permitting standards and process requirements of  C.R.S. 30-28-213 (4) and (5) 
+(counties) and in C.R.S. 31-23-316 (4) and (5) (municipalities).  Subject jurisdictions 
+who choose this compliance path should refer to the statute to ensure they 
+understand its requirements. CEO-provided technical assistance and training is not 
+available for subject jurisdictions pursuing this compliance path. Below is a summary 
+of the law’s requirements: 
+● Jurisdictions must establish objective standards and an administrative review 
+process to be used in the review of EV Charger Permit applications 
+● Jurisdictions may not deny or place conditions on the approval of an EV Charger 
+Permit application unless the application is in violation of the objective 
+standards or for the purposes of reasonably protecting public health and safety 
+● If an application is denied, jurisdictions must notify applicants with a written 
+explanation within three days of making the decision 
+Page 19 
+15 
+● Applicants may appeal denials or conditional approvals to a city council or 
+board of county commissioners 
+● Jurisdictions must provide a checklist for applicants identifying all 
+requirements for EV charging applications 
+● If jurisdictions determine that an application is incomplete (per the checklist), 
+the jurisdiction must provide written notice to the applicant within three days 
+Compliance Option 3: Retain Existing Permitting Process and Standards  
+Subject jurisdictions may adopt an ordinance or resolution stating that they do not 
+wish to revise their land use code through either the EV Charging Model Code or the 
+statutory code adoption compliance paths and instead choose to keep their existing 
+EV charging permitting process and review standards.  
+Compliance Path Considerations 
+CEO has worked to develop the Model Code in a flexible way to appeal to most 
+jurisdictions’ priorities and needs and encourages jurisdictions considering compliance 
+options 2 or 3 to contact CEO to discuss the Model Code option. 
+Reporting 
+Subject jurisdictions, regardless of which compliance path is taken, are required to 
+submit two reports to CEO: 
+● Compliance Report: By March 1, 2026, a report that confirms the compliance 
+action completed (i.e. which of the three compliance options outlined above 
+the jurisdiction has implemented). 
+● Outcomes Report: By January 31, 2027, a report that outlines the permitting 
+durations and final decision for each EV charging development application 
+received between December 31, 2025 and December 31, 2026.  
+Further details to support subject jurisdiction reporting, including the reporting 
+methods to be used, and report templates, will be available on CEO’s website in 
+advance of the reporting deadlines.   
+Page 20 
+16 
+Chapter 3: Model Code Adoption Guidance  
+The Model Code is intended to provide clear and predictable guidelines for local 
+government staff and EV charging developers during the permitting process. Its 
+definitions and standards represent established best practices, aiming to reduce 
+barriers for EV charging development and streamline the approval process.   
+This chapter provides guidance for subject jurisdictions that choose to adopt and 
+implement the Model Code. Subject jurisdictions that plan to comply with the law 
+using a different compliance path are not subject to the requirements outlined in 
+this and subsequent chapters. 
+Definitions and Standards Structure 
+The Model Code includes “base definitions and standards” that must be adopted in 
+land use codes, either as new code language or by referencing existing code language. 
+The standards are presented as recommended code language or a description of the 
+intent of the standard, followed by implementation instructions. 
+For some definitions and standards, the implementation instructions include flexible 
+alternatives that local governments may adopt and still comply with the Model Code. 
+In some cases, these alternatives are “more restrictive options” that are more 
+restrictive to EV charging than the base definitions and standards, and that 
+jurisdictions may adopt if they wish to retain more control over EV charging. In some 
+cases, these alternatives are “less restrictive options” than the base standards that 
+jurisdictions may adopt if they wish to provide greater flexibility for EV charging. 
+These options are provided where a less restrictive approach is clearly applicable.  
+Local governments may choose to adapt any of the Model Code’s definitions and 
+standards to be less restrictive—i.e. place fewer requirements or parameters on EV 
+charging development than what is outlined in the Model Code.  
+Page 21 
+17 
+For all standards, the implementation instructions explain what is the maximum (i.e. 
+most restrictive) regulation that jurisdictions can adopt and still comply with the 
+Model Code path.  
+The Model Code also includes “optional standards” which jurisdictions may adopt if 
+they choose to regulate a specific topic for EV Charging Projects. For each optional 
+standard, jurisdictions may adopt a standard that is as restrictive or less restrictive as 
+the standard provided, or adopt no standard at all. 
+Opportunities for Customization  
+Adopting Less Restrictive Standards 
+HB24-1173 allows subject jurisdictions to adopt “less restrictive” standards and 
+permitting processes than those in the EV Charging Model Code. This means that 
+subject jurisdictions may customize any part of the Model Code definitions and 
+standards in a way that creates greater flexibility or reduces the requirements placed 
+on EV charging development. Subject jurisdictions are encouraged to prioritize less 
+restrictive options or provide other flexibilities to further reduce barriers to EV 
+charging development.  
+Adapting Code Language 
+For definitions and standards with recommended code language, subject jurisdictions 
+may adopt the code language as written. However, jurisdictions are not required to 
+adopt the exact code language, so long as the meaning of the language they adopt 
+is similar. Jurisdictions may develop their own language or may adapt the 
+recommended language to be consistent with their existing land use codes, to use 
+locally relevant terminology, or to cross reference their existing land use code.  
+Terms or phrases where it is most likely that jurisdictions will need to make these 
+refinements are symbolized in the Model Code standards with brackets: “[…].” This 
+symbology is used most frequently around the phrase “in this Code/in Section X,” 
+which serves as a placeholder for references to existing land use code standards. 
+Page 22 
+18 
+Terms in the Model Code’s recommended code language may differ from terms used 
+in existing land use codes. For example, the term ‘use by right’ from the Model Code 
+could be “by-right use,” “permitted by right,” “permitted use,” or “administrative 
+permit” in a jurisdiction’s land use code. Jurisdictions may use terms from their 
+existing code so long as they are similar in meaning to the Model Code terms.  
+Identifying Where to Integrate Definitions and Standards 
+Jurisdictions may determine where in their land use code to incorporate the Model 
+Code definitions and standards, so long as readers can easily understand how they 
+apply to the permitting of EV charging. Jurisdictions may integrate the Model Code 
+standards into existing code sections or create a new standalone EV Charging specific 
+section.  
+The benefit of integrating the Model Code standards within existing code sections is 
+that all ‘like’ regulations are located in the same place (i.e. all parking standards are 
+in one location). A challenge with this approach is that EV charging standards are 
+dispersed and developers must know which sections to reference. Table 1 below 
+includes typical land use code sections where the standards may be integrated. 
+Table 1: Typical Land Use Code Sections for Integrating EV Charging Model Code 
+ EV Charging Model Code Section  Typical Land Use Code Sections 
+Definitions Definitions; Terms  
+Applicability Applicability; Procedures;  
+Administration and Enforcement 
+Permitting by Zoning District Use Standards; Use Regulations; 
+Zoning Districts; Districts and Uses 
+Parking  Development Standards; Parking; 
+Off-Street Parking 
+Siting and Design Standards 
+(Setbacks, Equipment, Screening & 
+Landscaping, Lighting, Signage, 
+Weather Canopies) 
+Development; Design; Site Design; Site 
+Development; Dimensional; Landscaping; 
+Lighting; Sign Standards 
+Page 23 
+19 
+ 
+The benefit of adopting the Model Code standards as a new standalone section is that 
+all regulations pertaining to EV charging are conveniently referenced in one place. A 
+challenge with this approach is that EV charging standards are in a different place 
+than the same type of standards for other uses (i.e. parking standards for EV charging 
+are in a different location than all other parking standards). 
+Conflicting Language 
+While potential conflicts between the Model Code standards and local land use codes 
+were avoided as much as possible, there is a chance that a conflict may arise. If 
+conflicting language is found, the intent is that the Model Code standards shall rule, 
+unless the conflicting (existing) regulation is essential to protect health and safety. 
+Language to this effect could be incorporated into the jurisdiction’s land use code, if 
+desired—most likely in the “Conflicting Provisions” section (or similar). In such 
+instances, it is recommended that subject jurisdictions consult with CEO staff and 
+with their Municipal Attorney to determine the most appropriate path forward.  
+Interaction with Other Regulations 
+While the scope of the Model Code is limited to land use codes, as required by HB24-
+1173, jurisdictions may have other codes, regulations, and requirements that are 
+applicable to EV charging, such as Building, Electrical, and Fire codes. While not 
+required to comply with the Model Code path, jurisdictions wishing to further 
+streamline the permitting process are encouraged to assess if other regulations 
+commonly present barriers to EV charging projects and consider changes to 
+regulations to address any such barriers.  Additional state legislation and rules, such 
+as House Bill 22-1362 and the 2023 Model Solar & Electric Ready Code, should also be 
+considered. Jurisdictions are encouraged to provide accessible, transparent, and user-
+friendly information about all applicable laws, regulations, and requirements 
+applicable to EV charging development.  
+Page 24 
+20 
+Integrating Graphics 
+Example graphics to illustrate key standards and concepts are included as part of the 
+Model Code standards. Subject jurisdictions may choose to, but are not required to, 
+adopt them. Jurisdictions may also choose to develop and adopt their own graphics. 
+Please contact CEO if you would like high-resolution copies of any images in this 
+document. 
+Other Potential Standards 
+CEO has designed the Model Code definitions and standards with the goal of 
+addressing the most common land use regulation topics for EV charging development. 
+However, there may be additional topics that subject jurisdictions wish to regulate, 
+which the CEO is open to considering as part of the Model Code compliance option. 
+See page 43 for additional instructions on how to handle such instances. 
+  
+Page 25 
+21 
+ 
+Chapter 4: Model Code Definitions and Standards 
+This chapter provides required land use code definitions and standards and 
+parameters for optional standards. This chapter also provides guidance for integrating 
+the definitions and standards into existing land use codes. The definitions and 
+standards are written as recommended land use code language with the exception 
+of Standards 1-4 in the Applicability section and Standards 11 and 12 in the 
+Screening and Landscaping Section, which are described generally rather than 
+written as code language. 
+Base Definitions (Adoption Required) 
+Jurisdictions must adopt these definitions to comply with the Model Code. If similar 
+terms are already defined in the jurisdiction’s existing land use code, the existing 
+terms and definitions may be used, so long as they are similar in meaning. If there is a 
+conflict between a recommended definition and an existing definition, jurisdictions 
+must add a new definition or update the existing definition to align with the Model 
+Code definition.  
+ 
+Definition 1 
+Electric Vehicle (EV): A motor vehicle which relies partially or entirely on electrical 
+energy to power its movement, requiring periodic electrical current charging of its 
+battery. 
+  
+Page 26 
+22 
+ 
+Definition 2 
+EV Charging Port: A power supply device that provides electrical current charging 
+for EVs. One EV Charging Port provides power for one vehicle. 
+a. “Direct Current Fast Charging (DCFC)”: High-speed charging that provides 
+about 50-350+ kW of power per hour and uses a 480V three-phase outlet. 
+b. “Level 2 Charging”: Mid-speed charging that provides about 7-19 kW of 
+power per hour and uses a 240V outlet. 
+c. “Level 1 Charging”: Slow charging that provides about 1-2 kW of power per 
+hour and uses a 120V outlet. 
+Definition 3  
+EV Charging Station: Equipment that includes one or more EV Charging Ports to 
+provide charging for EVs, located adjacent to dedicated space(s) for the vehicle(s) 
+while they charge. One EV Charging Station may provide power for one or more 
+vehicles. 
+Definition 4 
+EV Charging Equipment: All equipment necessary to provide electrical current 
+charging for EVs, except for EV Charging Stations. This may include power 
+conversion equipment, electrical distribution equipment such as transformers, 
+switchgear boxes, and distribution lines, and other supportive equipment. 
+Page 27 
+23 
+ 
+ 
+Definition 5 
+“EV Charging Project”: A proposed development of Primary or Accessory Use EV 
+Charging Stations and Equipment, which may include other supporting site 
+improvements like landscaping, lighting, or weather protection. 
+Definition 6  
+“Primary Use EV Charging Project”: Any 
+proposed development of DCFC EV 
+Charging Stations and Equipment that 
+serves as the primary function and land 
+use on the Subject Property. 
+Definition 7  
+“Accessory Use EV Charging Project”: A 
+proposed development of DCFC Charging 
+Stations and Equipment that are 
+incidental and subordinate to the 
+Primary Use on the Subject Property. 
+Definitions 6-7 have a noted Less Restrictive option 
+Implementation Instructions for Definitions 1-7 
+Definitions 1 through 7 are EV charging-specific terms used throughout the Model 
+Code standards and may not already be defined in jurisdictions’ existing land use 
+codes. The definitions for Primary Use and Accessory Use EV Charging Projects work 
+together with Standard 1 to establish the types of EV charging development subject to 
+land use regulations and which require land use permits.  
+ 
+Page 28 
+24 
+ 
+ 
+Less Restrictive Option for Definitions 6-7 
+Definitions 6-7 are the most restrictive definitions that jurisdictions can adopt. 
+However, jurisdictions are encouraged to be more permissive in how they define 
+Primary and Accessory Use EV Charging Projects. For example, jurisdictions may add a 
+quantitative threshold for the number of EV Charging Ports in the definition of 
+Accessory Use EV Charging Project, for example at four DCFC charging ports, or eight 
+DCFC charging ports. Because the applicability of land use permits is based on this 
+definition, this would effectively exempt projects smaller than the threshold from 
+land use permitting. Alternatively, jurisdictions could choose not to require a land use 
+permit for any Accessory Use EV Charging Project by not including any definition for 
+Accessory Use EV Charging Projects (and removing their reference in Definition 5) and 
+by not including them in the land use permitting table (see Standard 5).  
+Definition 8  
+Administrative Review Process: A process in which a land use permit is approved, 
+approved with conditions, or denied by administrative staff of a local government 
+permitting agency based solely on the application’s compliance with objective 
+standards set forth in the jurisdiction’s land use code, and that does not require a 
+public hearing, a recommendation, or a decision by an elected or appointed public 
+body or hearing officer. 
+Definition 9  
+Conditional Review Process: A process in which a land use permit is approved, 
+approved with conditions, or denied by a local government that may require a public 
+hearing, a recommendation, or a decision by an elected or appointed public body or 
+hearing officer. 
+Definition 10  
+Subject Property: The property on which an EV Charging Project is proposed for 
+development. 
+Page 29 
+25 
+ 
+ 
+Definition 11  
+Setbacks: The required distance, as measured from the Subject Property’s lot line, in 
+which no structure or building can be built. 
+Definition 12  
+Horizontal Illuminance: The area on a horizontal surface in which a light fixture 
+provides direct or high intensity illumination. 
+  
+Definition 13  
+Sight Lines/Sight Distance Triangles: 
+A right-triangle area at the corner of 
+an intersection, which must be free 
+from visibility obstructions, designated 
+by a stopped or turning driver’s eye at 
+the edge of an intersection, the 
+middle of the intersection, and 
+another vehicle approaching from 
+either direction.  
+Page 30 
+26 
+Implementation Instructions for Definitions 8-13 
+Definitions 8-13 (or similar definitions) are likely to already be defined in 
+jurisdictions’ existing land use codes, thus jurisdictions are encouraged to use their 
+existing terms and definitions so long as they are comparable in meaning. 
+Jurisdictions are not required to adopt Definitions 12 (Horizontal Illuminance) and 13 
+(Sight Lines/Sight Distance Triangles) if they do not adopt optional Standards 13 
+(Lighting) or 15 (Visibility).  
+  
+Page 31 
+27 
+ 
+Base Standards (Adoption Required) 
+Jurisdictions’ land use codes must align with the intent of the base standards by 
+adopting new code language or referencing existing code language with a similar 
+meaning.  
+Applicability Standards 
+The applicability standards are described generally rather than written as code 
+language because land use codes vary substantially in how they handle the 
+applicability of land use permits. Subject jurisdictions may revise existing language 
+within their land use code or adopt new code language that meets the intent of these 
+requirements. 
+Standard 1: Permit Applicability   
+Jurisdictions may only require land use permits for EV charging development that 
+meets the definition of an “EV Charging Project” (and associated definitions for 
+“Primary Use” and “Accessory Use” EV Charging Projects). Conversely, jurisdictions 
+may not require a land use permit for other types of EV charging development (i.e. all 
+Level 1 and Level 2 charging).  
+Standard 1 Implementation Instructions 
+Jurisdictions must ensure that their land use code explains which types of EV Charging 
+development are subject to land use permitting, in alignment with the parameters 
+outlined above. Jurisdictions are encouraged to consider Standard 1 and Definitions 6 
+and 7 together, as these definitions may be modified to be more permissive to EV 
+Charging development.  
+This Model Code exempts Level 1 and Level 2 charging from land use permitting 
+because they have minimal public impacts. Level 1 charging is typically located in the 
+garage of single family residences, and has no public impacts. Level 2 charging is 
+often for the exclusive use of residents of an apartment or employees of an office, 
+and not by other EV drivers. Because the dwell time for Level 2 charging is lengthy 
+(usually at least 2 hours and up to 10 or more), even public Level 2 generally does not 
+Page 32 
+28 
+ 
+generate additional traffic since drivers are most often using them while doing their 
+usual activities, such as parking at home or office. Additionally, Level 2 charging 
+stations and associated utility infrastructure are significantly smaller and have less of 
+a visual impact than DCFC charging facilities. 
+Although subject jurisdictions may not require land use permits for Level 2 charging, 
+they may apply land use regulations to Level 2 charging by referring building permit 
+applications to their planning departments, who may review proposed projects 
+against applicable land use regulations. Subject jurisdictions that take this approach 
+of applying land use regulations through the building permitting process may not 
+apply more restrictive land use regulations to Level 2 projects than those in this 
+Model Code. For all types of charging (Level 1, Level 2, and DCFC), subject 
+jurisdictions must provide clear information about non- land use permitting 
+requirements (building permits, electrical permits, etc.) that do apply to such 
+projects. See Chapter 5 for more guidance on this topic. 
+Standard 2: Permit Review Process  
+Jurisdictions must review land use permit applications for EV Charging Projects using 
+the applicable permitting processes from the zoning district where projects are 
+proposed (see Standard 5). For EV Charging Projects where the approval process is 
+‘Use by Right’ or similar, the permitting process must be similar to an Administrative 
+Review Process (Definition 8). For EV Charging Projects where the approval process is 
+‘Conditional Use’ or similar, the permitting process must be similar to a Conditional 
+Review Process (Definition 9). 
+Standard 2 Implementation Instructions 
+Jurisdictions must ensure that their land use code explains that EV Charging Projects 
+will be reviewed through the Administrative or Conditional Review Process (or 
+similar), whichever is applicable in the zoning district where the project is located. 
+Standard 2 is related to Definitions 8 and 9 and Standard 5. Jurisdictions are 
+encouraged to consider these standards and definitions together.  
+Page 33 
+29 
+ 
+ 
+It is likely that jurisdictions’ existing land use codes already establish how land use 
+applications are processed. Thus, jurisdictions are encouraged to use existing 
+language but may need to revise and/or reference that language in relation to EV 
+Charging Projects. 
+Standard 3: Existing Primary Use Conformance Updates  
+Jurisdictions may not require existing land uses on the same Subject Property as a 
+proposed Accessory Use EV Charging project to make site improvements or otherwise 
+conform with land use regulations, unless the existing land uses propose simultaneous 
+changes to their use, structures, or site that would otherwise require such 
+conformance. 
+Standard 3 Implementation Instructions 
+Jurisdictions must ensure that their land use code explains that developers and 
+property owners who propose to add Accessory EV Charging to a property with 
+existing uses will not trigger conformance updates to the existing uses. This standard 
+is designed to reduce unnecessary barriers for Accessory Use EV Charging on 
+developed sites. 
+Standard 4: Regulation of Primary Use EV Charging Stations 
+Jurisdictions may apply existing regulations from their land use code (or develop new 
+regulations) for Primary Use EV Charging Projects, so long as the regulations are no 
+more restrictive to Primary Use EV Charging than those that apply to similar land 
+uses, such as parking or commercial uses. Whether jurisdictions apply existing 
+regulations or develop new regulations, they must define Primary Use EV Charging 
+Projects as a land use and clarify which regulations apply to Primary Use EV Charging 
+Projects.  
+Primary Use EV Charging regulations must also align with the Model Code base 
+standards that apply to Primary Use EV Charging, including Standards 6-7 (Parking), 
+Standard 10 (Equipment), and Standard 12 (Electrical Equipment Safety). If 
+jurisdictions regulate any of the topics from Model Code ‘Optional Standards’ for 
+Page 34 
+30 
+Primary Use EV Charging Projects, the regulations can be no more restrictive than the 
+Optional Standards. 
+Standard 4 Implementation Instructions 
+The vast majority of the existing DCFC charging projects (the types of projects 
+regulated by this Model Code) built today are Accessory Use EV Charging Projects, not 
+Primary Use EV Charging Projects. However, more Primary Use Projects may be 
+developed in the future, and CEO recommends that jurisdictions anticipate this by 
+adopting land use regulations applicable to Primary Use EV Charging Projects.  
+Jurisdictions may apply existing standards used for gasoline or fueling stations (“gas 
+stations”) to Primary Use EV Charging Projects, so long as the standards correspond to 
+the likely community impacts of Primary Use EV Charging Projects, and do not 
+regulate impacts specific to the sale of gasoline, diesel, or other fossil fuels. 
+Standards that address traffic access and flow, lighting, visual impacts, parking 
+demand, or the need for weather protection canopies may be applied similarly 
+between Primary Use EV Charging Projects and gas stations. Other impacts that are 
+specific to gas stations and not relevant to EV Charging Stations (e.g. combustion risk 
+and environmental hazards of fossil fuels) may not be applied to Primary Use EV 
+Charging Projects. Examples include minimum distances between gas stations or from 
+sensitive land uses or environmentally sensitive areas.  
+Regardless of their approach to regulation, jurisdictions must ensure that their land 
+use codes explain which regulations apply to Primary Use EV Charging Projects by 
+referring to applicable existing standards or to new standards developed specifically 
+for Primary Use EV Charging Projects. 
+Page 35 
+31 
+ 
+ 
+Permitting by Zoning District 
+Standard 5  
+Primary Use EV Charging Projects and Accessory Use EV Charging projects shall be 
+permitted as a use by right in all land use contexts, except for low-density housing 
+land use contexts where they shall be permitted as a conditional use. 
+Standard 5 has a more restrictive option 
+Implementation Instructions for Standard 5 
+This standard, together with Standard 2, establishes which zoning districts permit EV 
+Charging Projects and how Primary and Accessory Use applications are processed 
+within each district. This standard is designed to streamline the permitting process 
+for EV Charging Projects by allowing them as a use by right in most zoning districts, 
+using an Administrative Review Process that does not require public hearings or 
+commission/council approval.  
+Jurisdictions may integrate this standard into their existing use table or into their 
+zone district specific standards. This standard uses the term “low density housing land 
+use context” because local governments have different zoning district classifications. 
+Jurisdictions have discretion to determine which of their zoning districts they consider 
+to be “low-density housing,” within reason. Examples of zoning districts that may be 
+considered “low-density housing” include R-1 (Residential-1), LDR (Low Density 
+Residential. LLR (Large Lot Residential), ER (Estate Residential), Suburban Context, 
+and other zones that are primarily intended for single family detached homes.  
+Less Restrictive Option for Standard 5 
+Jurisdictions may be more permissive by allowing EV Charging Projects as a use by 
+right in all land use contexts/zoning districts. Alternatively, jurisdictions may consider 
+allowing Accessory Use EV Charging Projects as a use by right within low-density 
+residential contexts when they are accessory to civic and government land uses that 
+are typically integrated into neighborhoods, such as schools or libraries, or when they 
+Page 36 
+32 
+ 
+are primarily used by a private vehicle fleet (e.g., Postal Service vehicles, school 
+buses, or other corporate electric fleet charging). 
+More Restrictive Option for Standard 5 
+As written above, Standard 5 represents the best practice for widespread EV charging 
+development. However, Table 2 below illustrates the most restrictive option that 
+jurisdictions can adopt and still comply with the Model Code. These exceptions are 
+designed to balance the goal of supporting widespread development of EV Charging 
+while allowing jurisdictions to exercise more careful review over or even prohibit 
+Primary Use EV Charging Projects in some contexts.  Jurisdictions may prohibit 
+Primary Use EV Charging Projects in low-density housing contexts, and/or require 
+conditional use permits in the four other land use contexts listed in Table 3. 
+Jurisdictions may not prohibit or require conditional use permits for Primary Use EV 
+Charging Projects in land use contexts not listed in Table 2.  
+Table 2: Permitting by Zoning District More Restrictive Option 
+Land Use Context Primary Use 
+Low-density housing Prohibited 
+Pedestrian-oriented commercial Prohibited 
+Low-density mixed-use Permitted Conditionally 
+Medium-density housing Permitted Conditionally 
+Recreation, open space, agriculture, or forestry Permitted Conditionally 
+Guidance for Translating Land Use Contexts to Local Zoning Districts 
+Table 3 below illustrates an example for how land use contexts may be matched to 
+the local zoning districts relevant to Standard 5. See Appendix B for a table that 
+includes similar information for all major land use contexts. For jurisdictions that do 
+not distinguish between auto-oriented or pedestrian-oriented commercial and 
+hospitality zoning districts, the auto-oriented commercial and hospitality context 
+should be used.  
+ 
+Page 37 
+33 
+ 
+ 
+Table 3: Example Land Use Context to Zoning District Translation 
+Land Use Context Example of Corresponding Zoning Districts 
+Low density housing ● R-1 (Single Family) 
+● LDR (Low Density Residential) 
+Pedestrian-oriented commercial ● C1 (Low Density Commercial) 
+● NC (Neighborhood Commercial) 
+Low density mixed use ● MU-N (Mixed Use Neighborhood) 
+● MU-L (Mixed Use Low Density) 
+Medium density housing ● R-2 (Mid Density Residential) 
+● MDR (Mid Density Residential) 
+Recreation, open space, agriculture, or 
+forestry 
+● POS (Parks & Open Space) 
+● Agriculture (A)/(AG) 
+Parking Standards 
+Standard 6   
+Any parking space served by an EV Charging Port or any parking space used to site EV 
+Charging Stations or Equipment must be counted toward applicable parking minimums 
+(as defined in [this Code/Section X]) as at least one standard automobile parking 
+space. 
+Standard 7  
+Any van-accessible parking space that is designated to accommodate a person in a 
+wheelchair, is served by an EV Charging Port, and is not designated as parking 
+reserved for a person with a disability under C.R.S. 42-4-1208 must be counted as at 
+least two standard automobile parking spaces towards applicable parking minimums. 
+Standard 8  
+The design of parking spaces and parking access for all EV Charging Projects shall 
+comply with the US Access Board Design Recommendations for Accessible Electric 
+Vehicle Charging Stations  or any applicable accessibility regulations issued by the 
+federal Department of Justice or Department of Transportation, or in state statute. 
+Page 38 
+34 
+ 
+Implementation Instructions for Standards 6-8 
+Standards 6-7 are established by state law (C.R.S. 31-23-315 (2) and C.R.S 30-28-140 
+(2)), which require that local governments—when assessing a proposed development’s 
+compliance with minimum off-street parking requirements—count parking spaces 
+supplied with EV charging (or used for EV Charging Stations and Equipment) towards 
+these minimum parking requirements. Furthermore, the law requires that local 
+governments count EV charging spaces designed to accommodate people with 
+disabilities, which are not specifically reserved for people with disabilities, as two 
+vehicle spaces towards the minimum. This last requirement is due to the fact that 
+many EV charging providers do not want to restrict who can access and use the EV 
+charging provided but may design at least some of the EV charging spaces to 
+accommodate people with disabilities in compliance with ADA.  
+If jurisdictions do not have minimum off-street parking requirements that would apply 
+to Accessory Use EV Charging Projects, they do not need to adopt Standards 6 or 7. 
+Standard 8 ensures compliance with federal accessibility standards as well as state 
+law (C.R.S. 30-28-212(4) and C.R.S. 31-23-315(2.5)) 
+Setback Standard 
+Standard 9  
+For Accessory Use EV Charging Projects, EV Charging Stations and Equipment, [and 
+any required screening material], shall be permitted within designated setbacks of 
+the Subject Property.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Standard 9 has a more restrictive option 
+Page 39 
+35 
+ 
+ 
+Implementation Instructions for Standard 9 
+Jurisdictions must ensure that their land use code explains that – for Accessory Use EV 
+Charging Projects only – EV Charging Stations and Equipment (see Definitions 3 and 4) 
+may be located within setbacks. Setback restrictions can be a significant challenge 
+and barrier for some EV Charging Projects, particularly for siting supportive 
+equipment such as transformers. This standard is designed to reduce restrictions for 
+Accessory Use EV Charging Projects, which are frequently an addition to already 
+developed properties where site improvements or space limitations limit the ability to 
+site charging stations and equipment outside of setbacks.  
+Additionally, when EV Charging Stations and Equipment are proposed within existing 
+easements, jurisdictions may require developers to provide evidence of license 
+agreements from easement holders.  
+More Restrictive Option for Standard 9  
+Jurisdictions that want to retain more control over the siting of EV Charging Stations 
+and Equipment may prohibit such equipment within setbacks, unless developers 
+demonstrate in their application that siting such equipment outside of setbacks is 
+infeasible. Jurisdictions that take this more restrictive approach must process such 
+exception requests as part of the typical Administrative or Conditional Review 
+process, or minor administrative exception/waiver process, if applicable, and not as a 
+separate variance process. 
+Equipment Standard 
+Standard 10 
+The appearance, materials, and dimensions 
+of EV Charging Stations and Equipment 
+shall be determined by current EV Charging 
+manufacturing standards and utility design 
+standards. 
+Standard 10 has a more restrictive option 
+Page 40 
+36 
+ 
+ 
+Implementation Instructions for Standard 10 
+Jurisdictions must ensure that their land use code does not require specific 
+dimensions, materials, or appearances for EV Charging Stations and Equipment (see 
+Definitions 3 and 4). 
+EV Charging Stations and Equipment are pre-manufactured and subject to stringent 
+external safety standards, so requiring specific aesthetic, material, or dimensional 
+standards may render a project infeasible if the pre-manufactured equipment does 
+not conform. This standard also allows jurisdictions and developers to accommodate 
+changing trends and standards within the industry. 
+Most Restrictive Option for Standard 10 
+Jurisdictions may regulate the materials and appearance of EV Charging Stations and 
+Equipment for the purpose of mitigating significant impacts to non-EV users from 
+design elements that go beyond the functional needs of EV charging. For example, 
+jurisdictions may prohibit or limit design features such as large digital advertising 
+screens or bright lighting that is stylistic rather than functional and may result in light 
+pollution or nuisances to neighboring properties. 
+Screening and Landscaping Standards 
+Standards 11 and 12 are written as a general description of intent, rather than as 
+code language, and jurisdictions do not need to adopt code language as written to 
+comply with this standard.  
+Standard 11   
+Jurisdictions are encouraged not to require screening for Accessory Use EV Charging 
+Projects. 
+Standard 11 has a more restrictive option 
+Implementation Instructions for Standard 11 
+Jurisdictions are encouraged to ensure that their land use codes do not require 
+screening for EV Charging Stations and Equipment that are part of an Accessory Use 
+Page 41 
+37 
+ 
+EV Charging Project, and must exempt such projects from any other applicable 
+screening requirements that exist within their land use code.  
+Most Restrictive Option for Standard 11 
+As written above, Standard 11 represents the State’s recommended best practice for 
+screening Accessory Use EV Charging Projects. However, some jurisdictions may wish 
+to require screening in certain circumstances. Jurisdictions may require screening for 
+Accessory Use EV Charging Projects, but only in accordance with the following: 
+a. Screening may only be required for EV Charging Equipment, not EV Charging 
+Stations.  
+b. Screening may only be required for EV Charging Equipment located along the 
+perimeter of a Subject Property. 
+c. Screening may only be required along the length of the EV Charging Equipment and 
+parallel to the property line between the EV Charging Equipment and the adjacent 
+property (not wrapped around the entire perimeter of the Equipment). 
+d. The jurisdiction must provide objective standards for the dimensions of screening, 
+and the acceptable screening materials. 
+e. The jurisdiction must allow at least two types of screening materials  
+f. Applicants must be allowed to request an exception to screening requirements by 
+demonstrating in their application that site-specific conditions negate the need for 
+visual separation. Requests for exceptions shall be processed as part of the typical 
+Administrative or Conditional Review process, or minor administrative 
+exception/waiver process, if applicable, and not as a separate variance process.  
+ 
+ 
+ 
+ 
+ 
+Page 42 
+38 
+ 
+This exception to Standard 11 is designed to give local governments some control to 
+mitigate potential conflicts and impacts to neighboring properties when Accessory Use 
+EV Charging Stations are sited near property lines. 
+Standard 12  
+Jurisdictions may not require screening or landscaping to be located within the 
+electrical equipment safety and access distances from national electrical safety 
+standards, including National Fire Protection Association (NFPA) standards, the 
+National Electric Safety Code (NESC), and other relevant national safety standards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation Instructions for Standard 12 
+Jurisdictions must ensure that their land use codes defer to the national electrical 
+safety standards referenced above for the location of screening and landscaping 
+relative to electrical equipment.    
+Electrical equipment is required to conform with national standards that require 
+specific distances between electrical equipment and adjacent landscaping or 
+screening. Landscaping and screening requirements that conflict with these standards 
+may result in permitting delays and variance requests. This standard is designed to 
+mitigate this conflict and ensure that electrical access and safety standards are 
+balanced with landscaping and screening requirements.  
+Page 43 
+39 
+ 
+Optional Standards 
+The optional standards are not required to be adopted, but represent the most 
+restrictive land use regulations that jurisdictions may adopt (if they so choose) for the 
+topics addressed, which are common topics that jurisdictions may want to regulate 
+for EV Charging. These standards are designed to allow jurisdictions to regulate these 
+topics in a way that balances the need to mitigate impacts and provide community 
+benefits, while reasonably limiting the permitting burden placed on EV Charging 
+Projects. 
+For each optional standard, jurisdictions may adopt a similar or less restrictive version 
+of what is provided here, or jurisdictions may adopt no standard at all for any of 
+these topics. Adopted standards should be objective and may not be overly 
+prescriptive or place undue burden on EV Charging Projects. 
+Lighting  
+Standard 13  
+Charging Stations proposed as part of an EV Charging Project must be within the 
+Horizontal Illuminance of on-site lighting, as defined in [this Code/Section X]. Lighting 
+may be provided by existing on-site lighting and/or by new lighting fixtures integrated 
+into EV Charging Stations or Equipment or by new separate light fixtures.  
+Implementation Instructions for Standard 13 
+This standard provides clarity for developers to understand if additional on-site 
+lighting may be required, with the goal of ensuring that EV Charging Stations are well-
+lit for user safety and comfort. EV charging developers may need to submit a 
+photometric plan with land use applications, which is a common requirement for 
+many types of development and is justified by the need to prioritize community 
+safety.  
+Jurisdictions may adopt this—or a less restrictive—standard. Adopted standards may 
+not include additional EV charging specific lighting requirements and must comply 
+with Standard 10 (Equipment Materials and Appearance), a related requirement. 
+Page 44 
+40 
+ 
+ 
+Pavement Marking and Striping 
+Standard 14   
+Existing standards for parking pavement markings and striping established within [this 
+Code/in Section X] apply to EV Charging Projects.  
+Implementation Instructions for Standard 14 
+This standard provides clarity for developers to understand how they are expected to 
+update and/or add specific striping and pavement markings related to parking spaces 
+served by EV charging. Jurisdictions may adopt this—or a less restrictive—standard. 
+Adopted standards may not include specific pavement marking and striping 
+requirements for Accessory Use EV Charging Projects beyond those applicable to 
+similar land uses. Jurisdictions may want to develop new marking and striping 
+standards for Primary Use EV Charging Projects as the needs may be unique from 
+other uses. 
+Visibility 
+Standard 15   
+EV Charging Stations and EV Charging Equipment shall not obstruct [sight lines/sight 
+distance triangles], as defined in [this Code/Section X]. 
+Page 45 
+41 
+ 
+Implementation Instructions for Standard 15 
+This standard provides clarity for developers to understand how they are expected to 
+ensure safe visibility for drivers and pedestrians when EV Charging Stations or 
+Equipment are sited at the perimeter of the Subject Property and adjacent to streets. 
+In particular, this standard is important for when EV Charging Stations or Equipment 
+are proposed within setbacks (see Standard 9) in order to protect health and safety. 
+Jurisdictions may adopt this—or a less restrictive—standard. Adopted standards may 
+not include site distances/triangles for EV Charging Projects that are more restrictive 
+than those applicable to similar land uses. 
+Landscaping  
+Standard 16  
+When existing landscape plants on a Subject Property are removed during the 
+installment of an Accessory Use EV Charging Project, they shall be replaced with 
+similar plants so as to maintain the property’s compliance with landscaping standards 
+for the property’s existing uses. 
+Implementation Instructions for Standard 16 
+This standard provides clarity for developers to understand jurisdictions’ expectations 
+for replacing plants removed during construction. Jurisdictions may adopt this—or a 
+less restrictive—standard. Adopted standards may not require additional replacement 
+plants or different plant species than removed plants. Jurisdictions may not apply 
+other standards that require specific landscaping for Accessory Use EV Charging 
+Projects but may choose to apply existing landscaping standards (or a new set of 
+standards) to Primary Use EV Charging Projects, so long as the application is equally 
+or less restrictive and prescriptive.
+Page 46 
+42 
+ 
+ 
+Signage  
+Standard 17  
+Signage may be provided as part of an EV Charging Project to provide information 
+about charging types, voltages, fees, wayfinding, or other information. Any signage 
+provided is subject to the applicable standards in [this Code/Section X]. 
+Implementation Instructions for Standard 17 
+This standard provides clarity for developers to understand the requirements for 
+signage if it is voluntarily included as part of an EV Charging Project, including 
+dimensions, placement, materials, etc. Jurisdictions may adopt this—or a less 
+restrictive—standard. Adopted standards must allow, but not require, signage for 
+Accessory Use EV Charging Projects. For example, developers or property owners may 
+want to post signage prohibiting the use of charging spaces by non-EV drivers, but this 
+cannot be required by jurisdictions. 
+Weather Canopies 
+Standard 18  
+If weather canopies are included as 
+part of an EV Charging Project, they 
+are subject to the applicable siting, 
+dimensional, setback, appearance, 
+materials, and other standards in [this 
+Code/Section X]. 
+Implementation Instructions for Standard 18 
+This standard provides clarity for developers to understand the requirements for 
+weather canopies if they are voluntarily included as part of an EV Charging Project. 
+Jurisdictions may adopt this—or a less restrictive—standard. Adopted standards must 
+allow, but not require, weather canopies for Accessory Use EV Charging Projects, and 
+may not include requirements for weather canopies beyond those applicable to 
+similar uses. 
+Page 47 
+43 
+Other Potential Standards 
+Jurisdictions may need to revise other sections in their land use code or address 
+topics not addressed in this Model Code that relate to the regulation and efficient 
+development of EV Charging Projects. For example, some jurisdictions may need to 
+provide language to clarify how proposed EV Charging Projects may interact with snow 
+removal and storage requirements. In these instances, jurisdictions are encouraged to 
+contact CEO in advance of code adoption. CEO will provide technical assistance 
+through a land use code writing consultant and has internal staff expertise to assist 
+local governments with code adoption.  
+CEO encourages jurisdictions to include in their Compliance Report any additional 
+language they wish to adopt and/or revise within their land use code related to EV 
+Charging Projects. It will be up to the discretion of CEO to determine if such additions 
+meet the intent of the Model Code.  
+  
+Page 48 
+44 
+Chapter 5: Model Code Application & Review 
+Process Requirements  
+As revealed through the 2023 Colorado Electric Vehicle Charging Permitting Study, 
+and confirmed through the process of developing the EV Charging Model Code, many 
+jurisdictions do not have a clear system for reviewing applications for EV charging, 
+nor do they provide enough information for EV charging developers to predict what 
+the permitting process will be. These factors can lead to extra local government staff 
+time, delays, public hearings and council review for small, lower impact projects, 
+and/or the subjective application of existing land use standards, including the need 
+for variance approvals.  
+This chapter provides guidance for jurisdictions to develop materials and for 
+implementing internal processes to support staff and developer interpretation of the 
+EV Charging Model Code standards and for ensuring a more predictable and 
+transparent permit review processes. It includes: 
+• Four process requirements that jurisdictions must follow for the permitting of 
+EV charging projects to comply with the Model Code option. 
+• Seven process recommendations that jurisdictions should follow, if feasible, 
+but are not required to. 
+Page 49 
+45 
+Permitting Process Requirements 
+To comply with the Model Code, jurisdictions are required to do the following to 
+support the EV Charging Project application and permitting process: 
+1. Provide at least the following information on their website, in a format and 
+location that is easily accessible and user-friendly: 
+a. Identification of required permits - since the Model Code only applies 
+land use permitting to specific types of EV charging development (see 
+Definitions 5-7), this should be clearly explained and jurisdictions should 
+provide sufficient information for prospective developers to understand 
+what permitting is required (e.g. electrical or building permits) if they 
+are pursuing an EV charging development that does not meet the Model 
+Code’s definition of an “EV Charging Project.” 
+b. Application forms for all required permits, including a checklist listing all 
+items that must be submitted with the application form.  
+c. Identification of (and links to) all applicable land use standards  
+d. Estimated timelines for each step in the permitting process, from pre-
+application (if applicable) through to final decision 
+e. Permit fee schedule 
+f. Identification of all departments involved in review, and contact 
+information for the lead department 
+2. Allow for applications to be submitted digitally (via email or through an online 
+submission system) 
+3. May not require applications to be submitted in person, although mailed paper 
+copies may be required in addition to a digital submission. 
+4. May not require that applications use specific paper types, wet signatures, 
+notaries, or other prescriptive requirements that add unnecessary cost and 
+complexity for applicants. 
+Page 50 
+46 
+Permitting Process Recommendations 
+While not required, the following are recommended to make the application process 
+as efficient and easy to navigate as possible for EV charging developers:  
+1. Implement a new application form and land use permit type specific to EV 
+charging development to make the process simple, clear, and easy for 
+prospective applicants. 
+2. Use an all-online application system, if feasible, where application materials 
+can be accessed and submitted, review status can be tracked, and approval can 
+be received. 
+3. Hold pre-application meetings to discuss application requirements, standards, 
+process, etc. 
+4. Assign a single staff point of contact to applications. 
+5. Use parallel department review that includes the consolidation of comments by 
+the assigned staff contact. 
+6. Use parallel review for all permits required for EV Charging projects (e.g. 
+electrical permit, building permit, etc.). 
+7. Conduct internal training for all department staff involved in the review of EV 
+Charging applications to ensure consistent interpretation and review outcomes. 
+Templates 
+CEO has prepared two templates that local governments can download as word 
+documents to support their EV charging permitting process. These documents are 
+meant as starting points for local governments to customize to suit their needs.  
+● An application form with submittal requirements checklist 
+● An EV charging permitting fact sheet with information on required land use, 
+building, and electrical permits, estimated permitting durations, applicable 
+review standards, fees, and contact information 
+ 
+ 
+Page 51 
+47 
+Appendix A - Subject Jurisdictions 
+County1 Population Municipality2 Population Municipality Population 
+Adams 519,572 Arvada 124,402 Grand Junction 65,560 
+Arapahoe 655,070 Aurora 386,261 Greeley 108,795 
+Boulder 330,758 Berthoud 10,332 Greenwood Village 15,691 
+Broomfield 74,112 Boulder 108,250 Johnstown 17,303 
+Delta 31,196 Brighton 40,083 Lafayette 30,411 
+Denver 715,522 Broomfield 74,112 Lakewood 155,984 
+Douglas 357,978 Cañon City 17,141 Littleton 45,652 
+Eagle 55,731 Castle Pines 11,036 Lone Tree 14,253 
+Elbert 26,062 Castle Rock 73,158 Longmont 98,885 
+El Paso 730,395 Centennial 108,418 Louisville 21,226 
+Fremont 48,939 Colorado Springs 478,961 Loveland 76,378 
+Garfield 61,685 Commerce City 62,418 Montrose 20,291 
+Jefferson 582,910 Denver 715,522 Monument 10,399 
+La Plata 55,638 Durango 19,071 Northglenn 38,131 
+Larimer 359,066 Englewood 33,659 Parker  58,512 
+Logan 21,528 Erie 30,038 Pueblo 111,876 
+Mesa 155,703 Evans 22,165 Rifle 10,437 
+Montezuma 25,849 Federal Heights 14,382 Steamboat Springs 13,224 
+Montrose 42,679 Firestone 16,381 Sterling 13,735 
+Morgan 29,111 Fort Collins 169,810 Superior 13,094 
+Pueblo 168,162 Fort Morgan 11,597 Thornton 141,867 
+Routt 24,829 Fountain 29,802 Wellington 11,047 
+Summit 31,055 Frederick 14,513 Westminster 116,317 
+Teller 24,710 Fruita 13,395 Wheat Ridge 32,398 
+Weld 328,981 Golden 20,399 Windsor 32,716 
+ 
+1 United States Census Bureau, 2020 Decennial US Census, County Total Population 
+2 United States Census Bureau, 2020 Decennial US Census, Places Total Population 
+Page 52 
+48 
+Appendix B – Example Land Use Context to 
+Zoning District Translation Table 
+Land Use Context Example of Corresponding Zoning Districts 
+Low density housing • R-1 (Single Family) 
+• LDR (Low Density Residential) 
+• LR (Large Lot Residential) 
+Medium density housing • R-2 (Mid Density Residential) 
+• MDR (Mid Density Residential) 
+High density housing • R-MF (Multifamily Residential) 
+• R-3 (Multifamily Residential) 
+• HDR (High Density Residential) 
+Low density mixed use • MU-N (Mixed Use Neighborhood) 
+• MU-L (Mixed Use Low Density) 
+• Suburban/neighborhood context) 
+High density mixed use • MU-C/MU-U (mixed use core/urban) 
+• CBD (central business) 
+• Urban/TOD context 
+Pedestrian-oriented commercial • C1 (Low Density Commercial) 
+• NC (Neighborhood Commercial) 
+• LC (Limited Commercial) 
+Auto-oriented commercial  • CA (Auto-Oriented Commercial) 
+• CS (Service Commercial) 
+• Suburban context 
+Office • CBD (Commercial Business District) 
+• CS (Service Commercial 
+Civic & Education • CAMP (campus) 
+• CS (service commercial) 
+Recreation, open space, agriculture, or 
+forestry 
+• POS (Parks & Open Space) 
+• R (Reserve/Recreation) 
+• Agriculture (A)/(AG) 
+Industrial • LI (industrial) 
+• IE (industrial employment) 
+• IMU (industrial mixed use) 
+Page 53 
+Resolution No. 30                        Series 0f 2025 
+Introduced By Councilmember Stahl 
+A Resolution Concerning Electric Vehicle Charging Systems 
+Whereas, the City of Greenwood Village , a home rule municipality organized 
+pursuant to Article XX, Section 6 of the Colorado Constitution, regulates the construction, 
+removal, repair, alteration, reconstruction, and use of buildings through its building and 
+zoning ordinances; 
+Whereas, the passage of H.B. 24-1173 established state permitting procedures for 
+electric vehicle (EV) charging systems for certain counties and cities, and required such 
+cities and counties to either adopt the EV Charger Permitting Model Code  or similar or 
+inform the state of its plan to use its own permitting procedures  by December 31, 2025; 
+and  
+Whereas, the City of Greenwood Village desires to inform t he Colorado Energy 
+Office of its intent to follow its existing review process for electric vehicle (“EV”) charging 
+system applications in response to C.R.S. § 31 -23-316(2), without admitting that the 
+requirements of that statute are lawful or mandatory; 
+Now, therefore, be it resolved by the City Council of the City of 
+Greenwood Village, Colorado, that: 
+1. Finding. The ordinances of the City of Greenwood Village  provide sufficient 
+and reasonable standards and processes for the review and permitting EV charging 
+systems. 
+2. Intent to Use Local Processes. The City of Greenwood Village will continue 
+to use its existing land development code processes to review applications for EV charging 
+systems and, as a result, does not intend to adopt the EV Charger Permitting Model Code 
+or other standards and processes provided by C.R.S. § 31-23-316.  
+3. Request for Funding for State Mandates . To the extent that C.R.S. § 31 -
+23-316 requires further specific action or otherwise attempts to direct the behavior of the 
+City of Greenwood Village, including record-keeping or reporting as provided in C.R.S. § 
+31-23-316(2)(c), the City of Greenwood Village  requests that additional money be 
+provided to reimburse the city for the costs of such state mandate.  
+Read, Passed and Approved the 3rd day of November, 2025.  
+ 
+______________________________ 
+George E. Lantz, Mayor 
+Docusign Envelope ID: EA5C8D5A-9E03-434B-B84A-8CF81805DA20
+Page 54 
+Attest:  
+ 
+____________________________ 
+Susan M. Ortiz, MMC, City Clerk 
+Docusign Envelope ID: EA5C8D5A-9E03-434B-B84A-8CF81805DA20
+Page 55 

@@ -1,0 +1,792 @@
+ 
+CITY COUNCIL EXECUTIVE COMMITTEE MEETING 
+CITY COUNCIL CHAMBERS, THIRD FLOOR, CITY HALL, 
+#1 CITY HALL PLACE, PUEBLO, COLORADO 81003. 
+MONDAY, AUGUST 31, 2026 
+5:30 PM 
+ 
+Individuals Requiring Special Accommodations Should Notify the City’s ADA 
+Coordinator at (719) 553-2295 by Noon on the Friday Preceding the Meeting. 
+ 
+Executive Committee meetings are special meetings of the City Council and are 
+informal Council meetings for the purpose of receiving information and 
+discussion among Council Members; no official action is taken at such meetings. 
+The public is invited to attend, but public comment is generally not received 
+unless otherwise noted. 
+ 
+Agenda  
+CALL TO ORDER 
+ 
+PRESENTATIONS 
+   
+A. CITY UPDATES 5:30 PM 
+ Heather Graham, Mayor  
+ 5 minute presentation  
+   
+B. BUDGET PRESENTATION - IT 5:35 PM 
+ Lori Pinz, Director Information Technology  
+ 20 minute presentation  
+   
+C. BUDGET PRESENTATION - LAW 6:05 PM 
+ Carla Sikes, City Attorney  
+ 20 minute presentation  
+   
+D. BUDGET PRESENTATION - FINANCE 6:45 PM 
+ Danny Nunn, Director of Finance  
+ 30 minute presentation  
+   
+E. BUDGET PRESENTATION — PARKS & RECREATION 7:25 PM 
+ Steven Meier, Director of Parks and Recreation  
+ 30 minute presentation  
+   
+F. PUEBLO MOUNTAIN PARK NEXT STEPS 8:05 PM 
+ Andrew Hayes, Public Works Director  
+ 30 minute presentation  
+   G. ECONOMIC DEVELOPMENT PARTNER RFP FOLLOW UP 8:45 PM  Andrew Hayes, Public Works Director  
+Page 1 of 46
+ 30 minute presentation  
+ADJOURNMENT 
+ 
+  
+ 
+ 
+ 
+Page 2 of 46
+1
+2027 INFORMATION 
+TECHNOLOGY BUDGET
+City Council Work Session
+August 17, 2026
+Presenter: Lori Pinz, Director of Information Technology
+This Photo by Unknown Author is licensed under CC BY-SA-NC
+Page 3 of 46
+Current Budget Expenditures
+• Information Technology Department Budget Overview
+• Personnel
+• Information Technology Division (IT) ≈ $1.97M
+• Radio & Network Communications Division (RS) ≈ $334K
+• Operating
+• IT  ≈ $3.7M which includes $3.5M for citywide software and hardware annual licensing costs
+• RS ≈ $375K which includes $227K annual licensing related to the radio communication systems
+• Total Information Technology Operating Budget ≈ $6.4M
+• CIAN12 Capital Budget
+• Estimated $500,000 pending Council approval
+• Replacement computers, laptops, peripherals for General Fund Departments 
+• Networking and data storage equipment, i.e., switches, datacenter equipment and storage, fiber 
+infrastructure, back-up systems, network and cybersecurity infrastructure, etc. 
+• 603 Fund - $182,046
+• Phone system and Lumen circuits 
+• Fiber-optic network projects and repair
+Page 4 of 46
+Council Questions
+• New Asks?
+• ≈  $410K for 2025 and 2026 software and hardware licensing annual costs and increases
+• What opportunities have been explored to mitigate costs?
+• All technology purchases must be approved by IT.  We make the most of cooperative purchasing agreements to 
+help save taxpayer money
+• We continuously work with vendors to lower costs, use multi-year contracts when possible, and review our 
+software and hardware to remove unnecessary or duplicate systems and licenses 
+• Has your department transferred monies from other areas of the budget outside of your approved budget? If so 
+describe?
+• No; while not required, departments may share costs for software and equipment, either by splitting purchases 
+or contributing a portion
+• What are needs goals and challenges for your department?
+• Staffing 
+• In 2025, one IT and one RS position were eliminated from budget; the Assistant Director role was left 
+unfilled and unfunded
+• In 2026, the IT Business Systems Analyst position will remain unfilled and unfunded
+• Budget
+• Increasing technology and Cybersecurity costs with decreasing budget and staff
+Page 5 of 46
+Council Questions
+• What contracts are in place for your department needs?
+• Software Applications - Tyler, Genetec, ProPhoenix, Microsoft, ESRI, Cybersecurity solutions, ADA website 
+accessibility solutions, etc.
+• Hardware Applications - Eaton, Colorado Energy, Cradle point, Extreme, Hewlett Packard, Dell, etc. 
+• Software as a Service Applications - NEOGOV, ImageTrend, JustFOIA, CivicPlus, Granicus, Arctic Wolf, 
+OpenGov, etc.
+• Over 98 technology solutions are managed through multi-year contracts, cooperative purchasing 
+agreements, or annual subscriptions
+• What projects are pending and coming forward for 2027?
+• None identified
+• Continue to explore RTCC integration and partnership opportunities
+• Continue to evaluate new portable and mobile radio equipment as well feasibility of non-public safety radio 
+system
+Page 6 of 46
+Questions 
+And
+Answers
+Page 7 of 46
+LAW DEPARTMENT
+ Budget Presentation – August 31, 2026
+Page 8 of 46
+DEPARTMENT RESPONSIBILITIES
+The Law Department provides legal services to City Council, the 
+Mayor, all city departments, and boards and commissions.  
+It reviews all contracts and provides legal advice on issues that arise 
+from the daily operations of the City.
+It prosecutes violations of the Pueblo Municipal Code in Municipal 
+Court and represents the City in all appeals from Municipal Court.
+It institutes and defends civil litigation on behalf of the City.
+Page 9 of 46
+MUNICIPALITY IS 
+THE CLIENT
+City Attorney’s Office provides legal opinions.  Legal opinions 
+on the same matter should be substantially the same.  There is 
+no conflict of interest when constituent clients take contrary 
+positions of policy on those matters because the legal opinion 
+remains the same.
+Page 10 of 46
+CURRENT 2026 BUDGET
+T otal: 
+$1,813,363
+Wages:  
+$1,584,963
+Operating:  
+$228,400
+Page 11 of 46
+LAW DEPARTMENT STAFFING
+2026 Budget Population Attorneys Support Staff T otal Attorneys per 
+Capita
+Per Capita
+Arvada unknown 124,000 12 6 18 10,333 unknown
+Greeley $4,948,452 115,073 16.75 6.25 23 6,870 $43.01
+Westminster $3,221,063 115,000 13 4 17 8,846 $28.00
+Pueblo $1,813,363 110,404 7 2 9 15,772 $16.43
+Loveland $2,317,196 81,387 8 1.75 9.75 10,173 $28.53
+Grand Junction $1,744,412 73,036 7 1 8.0 10,433 $23.89
+Commerce City $2,497,363 72,345 8 1 9.0 9,043 $34.52
+Page 12 of 46
+OPERATING BUDGET
+ Professional Services
+ 2026: $142,700
+ 2027:  $140,174
+ Professional Services includes all outside counsel.  Prior to 2026, outside counsel was paid from multiple department budgets 
+(i.e. Mayor’ Office, HR, Planning, etc.)  It was difficult to track need and cost.  In 2026, all outside counsel has been hired and 
+tracked through the Law Department. 
+ Software Licensing/Maintenance
+ 2026:  $0
+ 2027: $41,496
+ This is our second largest operating expense and it is for our Westlaw, which is our legal research software.  
+ Training
+ 2026: $8,500
+ 2027: $8,500
+ We have 7 attorneys in the office.  Each is required to obtain 45 continuing legal education credit hours every 3 years.  The 
+average cost per credit hour is $100.  The average cost per year is $10,500.  We mitigate this cost somewhat by doing online 
+webinars, sharing home study materials, and subscribing to bulk CLE programs. 
+  
+Page 13 of 46
+CONCLUSION
+2026 TOTAL BUDGET:  
+$1,813,363
+2027 TOTAL BUDGET:  
+$1,813,363
+Page 14 of 46
+QUESTIONS?
+Page 15 of 46
+CITY OF PUEBLO FINANCE 
+DEPARTMENT BUDGET 
+PRESENTATION FOR 2027
+1
+Presented by
+Danny Nunn, Director of Finance
+Page 16 of 46
+CURRENT EXPENDITURES IN BUDGET
+2
+• Personnel ~ $2.9MM
+• Director of Finance
+• Accounting Manager
+• Tax Audit manager
+• Sr. Tax Auditor
+• Accountant II – X4 
+• (One additional Accountant II assigned to and paid from 
+Economic Development Fund)
+• Tax Auditor II – X2
+• Budget Analyst
+• Accountant I – X2
+• Tax Auditor I – X2
+• Grants Analyst
+• Payroll Coordinator
+• Administrative T echnician
+• Accounting T echnician IV – X4
+• Tax Compliance T echnician
+• Accounting T echnician II – X2
+Page 17 of 46
+CURRENT EXPENDITURES IN BUDGET
+3
+• Operating ~ $190K
+• Professional Services
+• Contract Services
+• Postage
+• Office Supplies
+• Operating Supplies
+• Rentals
+• T elephone
+• Dues & Subscriptions
+• Printing & Binding
+• Travel
+• Training & Education
+• Machinery & Equipment
+• Fleet Repair
+• Fleet Fuel
+• License Permits & Fees
+• Repair & maintenance
+Page 18 of 46
+NEW ASKS FOR 2027
+4
+• No new asks for 2027
+• Maintain 2026 budget
+• 2024 Operating: $244,037
+• 2025 Operating: $224,037 – Cut $20,000
+• 2026 Operating: $190,431 – Cut 15% $33,606
+Page 19 of 46
+COST MITIGATION EFFORTS
+5
+• Frozen Positions
+• Assistant Accounting Manager
+• Tax Auditor I
+• Tax Compliance T echnician
+• Budget Cuts
+• $53,606 Operating in two years
+• $343,697 in Personnel
+Page 20 of 46
+TRANSFERS FROM AREAS OUTSIDE OF APPROVED 
+BUDGET
+6
+• None
+Page 21 of 46
+NEED, GOALS, & CHALLENGES
+7
+• Needs:
+• Maintain current service levels within existing budget
+• Goals:
+• T o continue to seek out new ways to mitigate costs
+• Challenges:
+• Operating within reduced budgets while meeting increasing workload demands.
+Page 22 of 46
+CONTRACTS IN PLACE
+8
+• Contract Service Budget: $29,000
+Page 23 of 46
+PROJECTS
+9
+• Sales Tax Management System – $120,000 returning to the General Fund.
+Page 24 of 46
+10
+Thank Y ou!
+Page 25 of 46
+2027 
+PROPOSED 
+BUDGET
+PARKS & RECREATION 
+DEPARTMENT
+Steven Meier, Director
+August 31, 2026
+Page 26 of 46
+Park Administration 6010:  FTE 7  *(2 Vacant/Frozen)
+• Director, Assistant Director, Administrative Assistant*, Senior Office Assistant, Parks & Recreation Technician, 
+Program Coordinator – Marketing*, Outdoor Recreation Administrator
+Parks Maintenance 6020:   FTE 30  *(4 Vacant/Frozen)
+• Parks Supervisor, Park Area Crew Leader, Senior Mechanic/Welder, Maintenance Mechanic, Park Ranger, Park 
+Caretaker II – Playground Inspector, Program Coordinator – Forestry, Equipment Operator IV, Mason, Park 
+Caretaker II – Irrigation Specialist*, Program Coordinator – Park Rangers*, Park Caretaker II*, Park Caretaker I*
+Horticulture 6030:  FTE 3  *(1 Vacant/Frozen)
+• Gardener, Park Caretaker II – Irrigation Specialist, Horticulture Specialist* 
+Recreation 6040:  FTE 2
+• Recreation Supervisor, Program Coordinator – Sports
+El Centro del Quinto Sol 6050:  FTE 1
+• Program Coordinator – El Centro
+Ice Arena 6060:  FTE 1 
+• Program Coordinator – Ice Arena
+Aquatics 6070:  FTE 2 
+• Program Coordinator – Aquatics, Maintenance Mechanic - Pools
+STAFFING
+TOTAL FTE:  46
+FROZEN FTE: 7
+Page 27 of 46
+WHAT ARE THE CURRENT 
+EXPENDITURES IN YOUR 
+BUDGET?
+QUESTIONS
+Page 28 of 46
+PERSONNEL
+FTE vs. Temp/Seasonal*
+DIVISION
+2024 Actual 2025 Actual 2026 Budget
+FTE TEMP/SEA* FTE TEMP/SEA* FTE TEMP/SEA*
+Park Administration 674,018  50,396 578,352 66,904 757,965 58,927
+Park Maintenance 2,324,807 700,377 2,408,681 783,942 2,699,032 416,565
+Horticulture 230,363 223,058 245,115 213,154 283,612 254,689
+Recreation 183,789 647,913 257,364 938,878 244,899 717,344
+El Centro 62,607 148,719 87,446 113,278 99,461 193,530
+Ice Arena 203,092 0 207,928 0 114,546 0
+Aquatics 172,249 507,251 149,163 520,358 189,000 630,835
+TOTALS 3,850,925 2,277,714 3,934,049 2,638,514 4,388,515 2,271,890
+*Minimum wage increase annually based on the consumer price index inflation metrics. 
+2026 minimum wage is $15.16/hour and is projected to go up approximately 9.4% in 2027. 
+All temp/seasonal employees receive a hourly wage adjustment to prevent “wage compression”, where eventually new, inexperienced hires can end up making as much 
+as experienced staff. 
+Page 29 of 46
+OPERATING
+DIVISION 2024 Actual 2025 Actual 2026 Revised Budget
+Park Administration 63,010 64,852 71,605
+Park Maintenance 1,062,762 1,069,927 908,533
+Horticulture 118,681 119,085 127,850
+Recreation 276,368 297,142 308,522
+El Centro 40,303 41,798 55,699
+Ice Arena 259,023 181,552 125,000
+Aquatics 249,628 231,835 258,862
+TOTALS 2,069,775 2,006,191 1,856,071
+Page 30 of 46
+REVENUE
+PROGRAM / ACTIVITY 2024 Actual 2025 Actual 2026 Budget
+Recreation
+• Facility Rentals
+• Rides at City Park
+• Concessions
+• Youth & Adult Sports
+• Sponsorships
+• El Centro del Quinto Sol
+438,871 468,384 407,100
+Ice Arena 234,701 63,172 106,814
+Aquatics
+• Swim Lessons
+• Public Swim
+• Pool Rentals
+• Lifeguard Training/WSI
+222,342 219,472 213,000
+TOTALS 895,914 751,028 726,914
+Page 31 of 46
+NEW ASKS?
+QUESTIONS
+NONE
+Page 32 of 46
+WHAT OPPORTUNITIES HAVE 
+BEEN EXPLORED TO MITIGATE 
+COSTS?
+QUESTIONS
+Page 33 of 46
+• Vacated FTE Positions Frozen (7)
+• Several Recreation Programs                                          
+not offered in 2026:
+o Tennis and Pickleball Lessons
+o Sun City Band
+o Movies in the Park
+• Reduction in the number of temp/seasonal 
+maintenance employees in 2026:
+o Reduction affected Parks Dept’s                                       
+“Standard of Maintenance” 
+• Focused maintenance on emergency and                          
+safety concerns, high-traffic areas.
+• Concession pricing increased
+• Rides Management conducting real time 
+evaluation of “staff cost vs revenue” and 
+adjusting staff levels when needed
+• Explore Grant Opportunities for Programming 
+and Capital Projects
+• Volunteer opportunities
+o In process of recruiting new Volunteer 
+Coordinator
+• Charge fees for special event                                  
+permits and weddings
+• Charge fees for all outdoor                                         
+shelter rentals
+• Charge facility rental fee for use of the Langoni 
+Sports Complex, Lake Minnequa Fields, Lea 
+Gonzales Field, St. Anne’s Field
+• Develop dedicated Scholarship Fund
+• Invest in energy efficient LED lighting for all 
+existing lighted athletic fields and courts to 
+reduce utility operating costs. 
+o Spend money to save money!
+• Created more efficient workflows for the 
+temp/seasonal hiring process and for 
+recreation staff time reporting
+Page 34 of 46
+HAS YOUR DEPARTMENT 
+TRANSFERRED MONIES FROM 
+OTHER AREAS OF THE BUDGET 
+OUTSIDE OF YOUR APPROVED 
+BUDGET?
+QUESTIONS
+NO
+Page 35 of 46
+WHAT ARE NEEDS, GOALS, AND 
+CHALLENGES FOR YOUR 
+DEPARTMENT?
+QUESTIONS
+Page 36 of 46
+• Funding to maintain staffing levels to 
+maintain:
+o High Level of Maintenance Standards
+o Offer quality and diverse recreation 
+programs
+• Capital Improvement Funds to:
+o Update and renovate existing parks 
+and recreation facilities
+o Invest in new parks and recreation 
+facilities
+Page 37 of 46
+WHAT CONTRACTS ARE IN 
+PLACE FOR YOUR DEPARTMENT 
+NEEDS?
+QUESTIONS
+Page 38 of 46
+• Golf Course Enterprise
+• Pueblo Zoo
+• Honor Farm Enterprise
+• Nature Center
+• Pueblo Mountain Park
+• Mountain View Cemetery
+• Pueblo Ice Arena 
+• Langoni Sports Complex         
+(State of Colorado)
+Contracted Facilities
+Maintenance   Agreement
+• Pueblo School District 60
+• Pueblo Conservancy District
+• South Pointe Maintenance District
+• Bandera Maintenance District
+• Rosemount Museum
+Service Agreement
+• Mosquito Spraying
+• CIX Security
+• Sports Officials Association
+Partnerships
+• Pueblo School District 60
+• Runyon Sports Complex
+• Historic Pioneer Cemetery
+• HARP
+• Pueblo County Parks/Rec
+• Police Athletic League
+• Boys & Girls Club of Pueblo 
+County
+• Pueblo Historical Society
+• City-County Library District
+• Pueblo School District 60
+• Art Guild
+• Municipal Shooters
+Facility User Agreements
+Sponsorship Agreements
+• Colorado Lottery
+Page 39 of 46
+WHAT PROJECTS ARE PENDING 
+AND COMING FORWARD FOR 
+2027?
+QUESTIONS
+Page 40 of 46
+PROJECT ESTIMATED COST SOURCE
+Repave City Park Rides / Zoo Parking Lot
+• Replace fencing on east side of parking lot
+• Add concrete parking stops
+$160,000 - $200,000 Conservation Trust Fund           (Lottery)
+Athletic Field Lighting Replacement (Debt Payment)
+• 2027 and 2028 final two years of payment $143,346 Conservation Trust Fund           (Lottery)
+Resurface City Park Pool with Epoxy
+• Lasts 3 to 5 years
+• No annual painting reduces expenses
+$129,000 - $150,000 Conservation Trust Fund           (Lottery)
+Mineral Palace Park Lake Clara Wall and Iron Repair
+• WPA stone walls are needing repointing and mortar repair $150,000 - $200,000 Conservation Trust Fund           (Lottery)
+New Playground
+• All Inclusive playground needed in community $120,000 - $200,000 Conservation Trust Fund           (Lottery)
+Turf Renovations $25,000 - $50,000 Conservation Trust Fund           (Lottery)
+Trail System Repairs / Renovations $50,000 - $100,000 Conservation Trust Fund           (Lottery)
+Tree Planting - Citywide $10,000 - $20,000 Conservation Trust Fund           (Lottery)
+Page 41 of 46
+PROJECT ESTIMATED COST SOURCE
+Veteran’s Park at Lake Minnequa Improvements
+• ADA accessible walkways, fishing docks,                                     
+park identification signage
+$150,000 - $200,000 Conservation Trust Fund           (Lottery)
+Park Irrigation Renovations $50,000 - $150,000 Conservation Trust Fund           (Lottery)
+Outdoor Basketball Court Repair / Renovation
+• Replace concrete base and resurface numerous courts 
+throughout the community on an annual basis
+$100,000 - $200,000 Conservation Trust Fund           (Lottery)
+Ballfield Repair / Renovation
+• Replace fencing, backstops, dugouts, add shade for 
+spectators, improve infield mix conditions throughout the 
+community on an annual basis
+• Replace field lighting with LED at Santo’s Field, St. Anne’s, 
+and Stauter Fields
+$150,000 - $250,000 Conservation Trust Fund           (Lottery)
+Replace City Park Tennis Complex Fencing (2028) $150,000 - $200,000 Conservation Trust Fund           (Lottery)
+Purchase new Park Maintenance equipment and 
+vehicles on annual basis to replace old deteriorating 
+fleet (2028)
+$150,000 - $200,000 Conservation Trust Fund           (Lottery)
+Page 42 of 46
+OTHER 
+QUESTIONS
+Page 43 of 46
+THANK YOU!
+Page 44 of 46
+PUEBLO PARKS and RECREATION 
+WHAT WE DO! 
+ 
+1 
+• Budgetary Divisions 
+o Park Administration 
+o Park Maintenance 
+o Horticulture/Streetscapes/Gardens/Greenhouse 
+o Recreation/Sports 
+ Rides at City Park 
+ Park Bench Treats Concessions 
+ Tennis / Pickleball 
+ Youth Sports 
+ Adult Sports 
+o El Centro del Quinto Sol Community Recreation Center 
+o Pueblo Ice Arena (contract manager oversees) 
+o Aquatics 
+• Enterprise Funds  
+o Golf Course Enterprise 
+o Honor Farm Enterprise 
+• Personnel/Operational Budget 
+o $8,489,157 
+• Anticipated Revenue 
+o $749,914 
+• Capital Improvement Project Budget 
+o $648,346 Conservation Trust Fund (Lottery) 
+o $200,000 Elmwood GC Enterprise 
+o Numerous Grant Funded Projects  
+• Parks 
+o 80 developed, irrigated sites 
+o 613 acres  
+• Open Space 
+o 3,849 acres, non-irrigated 
+• Full-Time Staff 
+o 46 
+o 7 frozen positions 
+ Administrative Technician 
+ Program Coordinator – Marketing 
+ Program Coordinator – Park Rangers 
+ Horticulture Specialist 
+ Park Caretaker II – Irrigation Specialist 
+ Park Caretaker II 
+ Park Caretaker I 
+• 350+ temporary/part-time/seasonal staff 
+o #1 summer youth employer in the City of Pueblo 
+• Walking and Biking Trails 
+o 30 paved miles, 2 miles of soft surface  
+• Streetscapes/Medians/Highway ROW 
+o 40 acres  
+• Park Irrigation Maintenance 
+o 30,000+ irrigation heads 
+o 175+ irrigation controllers  
+• 12,000+ trees in parks and streetscapes  
+o Named TREE CITY USA community 46 consecutive yrs 
+• 300+ trash receptacles emptied 
+o Seven (7) days per week April through October 
+o Five (5) days a week November through March 
+o 365 days per year 
+• 81+ flower beds, 63+ rose beds 
+o 15,000+ flowers planted annually  
+o Mineral Palace Park Greenhouse  
+• Playgrounds - 41 
+• Skateparks 
+o City Park 
+o El Centro Park 
+o Vinewood Park 
+• City Park Disc Golf Course - Pro/Am (22 acres)  
+• City Park Dog Park (2.5 acres) 
+• Waterworks Park  
+• Whitewater Kayak Course  
+o Arkansas River below 4th Street 
+• Multi-purpose athletic fields (acres) 
+o Langoni Soccer Complex - State Lease (22 acres) 
+o Veteran’s Memorial Park at Lake Minnequa (16 acres) 
+o Lea Gonzales Park (8 acres) 
+o Beckwood Park (8 acres) 
+o Bradford Park (1.32 acres) 
+• City Park Tennis Complex 
+o 17 lighted courts 
+o Pueblo School District #60 Dual & Invitationals 
+o CHSAA 4A Boys State Championships 
+o CHSAA 4A Girls State Championships 
+• Outdoor Basketball Courts  
+o Elizabeth Street “SLAB” (4 lighted courts) 
+o Veteran’s Park at Lake Minnequa (4 lighted courts) 
+o 32 courts around the community (16 lighted) 
+• Mineral Palace Park Pickleball Complex 
+o 8 lighted courts 
+• Softball Fields (lighted) 
+o City Park #3 (1.75 acres) 
+o City Park #4 (1.75 acres) 
+o Santos Field at Ray Aguilera Park (1.75 acres) 
+o St. Anne’s (1.75 acres) 
+• Youth Baseball/Softball Fields 
+o Stauter Field #1 (1.25 acres) 
+o Stauter Field #2 (1.25 acres) 
+• Outdoor Swimming Pools (seasonal) 
+o City Park 
+o Mineral Palace Park 
+o Ray Aguilera Park 
+o Mitchell Park  
+• Splash Pads (seasonal) 
+o Ray Aguilera Park Pool 
+o Mitchell Park Pool 
+• Picnic Shelters and Outdoor Pavilions - 26 
+• Outdoor Park Restroom Facilities - 16 
+• Lakes 
+o Lake Minnequa 
+o Lake Clara (Mineral Palace Park) 
+o Horseshoe Lake (City Park) 
+o Lake Joy (City Park) 
+• Fountains  
+o City Park 
+o Headwaters 
+o Sister Cities 
+• Statues and Monuments – 31 
+• El Centro Community Recreation Center 
+o Drop-in Activities 
+o Open Gym 
+o Youth & Adult Programs 
+o Teaching Kitchen & Classes 
+o Adult Fitness Classes 
+o Special Events 
+• Municipal Golf Courses 
+o Elmwood Golf Course (27 holes) 
+ The Senate Restaurant @ Elmwood  
+o Walking Stick Golf Course (18 holes) 
+ What’s The Dilla Restaurant 
+ 
+ 
+Page 45 of 46
+PUEBLO PARKS and RECREATION 
+WHAT WE DO! 
+ 
+2 
+Pueblo Parks and Recreation Department 
+800 Goodnight Avenue 
+Pueblo, CO 81005 
+(719) 553-2790 
+Email: parks@pueblo.us 
+Website:  pueblo.us/parks 
+• Contracted Facilities and Services that are operated: 
+o Pueblo Ice Arena  
+ Pueblo Peppers Hockey Club 
+o Nature and Wildlife Discovery Center 
+ Mountain Campus – Pueblo Mountain Park 
+ River Campus – Nature Center 
+o Pueblo Zoo  
+ Pueblo Zoological Society 
+o Walking Stick Golf Course 
+ Golf Operations 
+ What’s the Dilla Restaurant 
+o Elmwood Golf Course 
+ Golf Operations 
+ The Senate at Elmwood GC 
+o Mountain View Cemetery 
+ Montgomery-Steward Funeral Directors, Inc. 
+o Historic Pioneer Cemetery 
+ Historic Pioneer Cemetery Association 
+o Pueblo Motorsports Park @ Honor Farm Properties 
+ South Prairie & O’Neil Enterprise 
+o Dirt Oval Track Area @ Honor Farm Properties  
+ Colorado Outlaws Racing Association 
+o Motocross Area @ Honor Farm Properties 
+ Southern Colorado MX Promotions 
+o Sky Corral R/C Park @ Honor Farm Properties 
+ Sky Corral R/C Club 
+o Pueblo Municipal Shooting Range @ City Park 
+ Pueblo Municipal Shooters 
+o Pueblo Art Guild @ Mineral Palace Park 
+ Art Guild Association 
+o Arkansas River Trail and Levee 
+ Pueblo Conservancy District 
+o Historic Rosemont Museum Tree & Irrigation Maintenance 
+ Annual payment from City 
+o City-Wide Mosquito Spraying  
+ Annual payment from City for services 
+o Pueblo School District #60 property and facilities 
+o State of Colorado 
+ Langoni Sports Complex 
+o State of Colorado 
+ Honor Farm Properties Conservation Easement 
+o Joseph H. Edwards Active Adult Center  
+• Citizen Advisory Committees 
+o Golf Course Enterprise Advisory Committee 
+o El Centro del Quinto Sol Advisory Board 
+o Honor Farm Enterprise Advisory Board 
+o Streetscape Advisory Committee 
+• The Rides at City Park (seasonal) 
+o George R. Williams Memorial Carousel 
+o Lake Shore Line Miniature Train 
+o Roller coaster 
+o Kiddie Ferris wheel 
+o Kiddie cars and boats 
+o Kiddie helicopters  
+o Rockets 
+o Frolic 
+o Whip 
+o Caboose with patio, picnic tables, and umbrellas 
+o Purple Pavilion shade structure within ride complex with 
+picnic tables 
+• Volunteer Programs 
+o Adopt-a-Park Program 
+o Adopt-a-Trail Program 
+o Volunteer Cleanup Projects 
+• Ice Arena 
+o Regulation NHL size  
+o Pueblo Peppers Hockey Club operates, maintains, and 
+promotes through a Lease and Management Agreement 
+approved by City Council in September 2022 through 2027 
+• Customer Service 
+o Park / Shelter / Facility Reservations 
+ 2,000+ park-use permits annually 
+ Reserves 200+ different facilities and amenities which 
+includes sports fields, sport courts, and ball fields 
+o Registers 10,000+ annually for programs and services 
+• In-house Concessions 
+o 6 sites – seasonal 
+• Special Events  
+o Sponsorship opportunities for local businesses 
+o Steel City Arkansas River Festival 
+o Rides at City Park 
+ Theme nights at Rides 
+ Haunted Rides event 
+o Free Days at four Swimming Pools 
+• Recreation Programming 
+o Youth Sports  
+ Basketball 
+ Coach Pitch Baseball 
+ T-Ball 
+ Flag Football 
+ SLAB 3-on-3 Summer Basketball 
+ Track and Field 
+o Youth Sports Skills Events 
+ Colorado Association for Recreational Athletics 
+Baseball Skills Challenge 
+ Colorado Association for Recreational Athletics 
+Basketball Skills Challenge 
+o Adult Sports 
+ Co-ed Softball 
+ Men’s Softball 
+ Co-ed Kickball 
+ Co-ed Cornhole 
+ Pickleball Leagues 
+o Aquatics 
+ Public Swim Sessions 
+ Lifeguard Training 
+ Learn-to-Swim 
+o Books in the Park Program 
+ Pueblo City/County Library Partnership 
+o Youth and Adult Tennis Lessons &Tournaments  
+ Not offered in 2026 
+o Youth and Adult Pickleball Lessons & Tournaments 
+ Not offered in 2026 
+o Sun City Band - Summer Middle School Marching Band 
+ Pueblo School District #60 managed program in 2026 
+o Support of Pueblo School District #60 Summer Musical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISED 08.17.2026 MCS 
+Page 46 of 46

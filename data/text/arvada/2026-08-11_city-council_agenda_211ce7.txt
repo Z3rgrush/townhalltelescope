@@ -1,0 +1,261 @@
+ 
+ 
+ 
+City of Arvada 
+City Council Agenda 
+AUGUST 11, 2026 
+ 
+ 
+Councilmembers: 
+Lauren Simpson, Mayor 
+Randy Moorman, Mayor Pro-Tem 
+Shawna Ambrose, District 2 
+Sharon Davis, At large 
+Bob Fifer, District 4 
+Michael P. Griffith, At large 
+Rebecka Lovisone, District 3 
+Staff Members Usually Present: 
+Don Wick, City Manager 
+Linda Haley, Deputy City Manager 
+Allison Scheck, Deputy City Manager 
+Rachel Morris, City Attorney 
+Jacqueline Rhoades, Director of Infrastructure 
+Jessica Garner, Director of Community & Econ. Dev. 
+Bryan Archer, Chief Financial Officer 
+Gabriella Bommer, Director of Human Resources 
+Ryan Stevenson, Director of Vibrant Community & Neighborhoods 
+Rachael Kuroiwa, Director of Communications & Engagement 
+Ed Brady, Chief of Police 
+Kristen Rush, City Clerk 
+Info: 720-898-7550 
+ 
+THIRD FLOOR CONFERENCE ROOM 
+The study session can only be watched via Zoom 
+https://arvadaco-gov.zoom.us/j/89475850775?pwd=84m1LiQXxLFnKPPpF9bJ4fWRKglTxN.1 
+ 
+4:00 PM 
+STUDY SESSION 
+THIRD FLOOR CONFERENCE ROOM 
+4:00 P.M. 
+ 
+    
+1. Call to Order/Roll Call of Councilmembers 
+    
+2. Study Session Topics 
+  A. City Council Discussion on Possible Data Center Moratorium 
+    
+3. Adjournment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT TO CITY COUNCIL  
+STUDY SESSION  
+AGENDA ITEM 
+ 2.A. 
+     
+TO:  THE HONORABLE CITY COUNCIL    DATE:  August 11, 2026 
+       
+SUBJECT:  City Council Discussion on Possible Data Center Moratorium 
+   
+Report in Brief 
+  
+The rapid expansion of Artificial Intelligence (AI) has prompted many jurisdictions to examine how their existing regulatory 
+frameworks guide data center development.  Water availability, energy capacity, and land use are all critical considerations in 
+evaluating the potential impacts of data center development. Several neighboring jurisdictions have recently adopted temporary 
+moratoriums on new data center development while they evaluate the potential impacts on their communities and update their 
+zoning, land-use, and development regulations. The Arvada City Council would like to discuss the possibility of establishing a 
+temporary moratorium in order to provide staff with time to more thoroughly evaluate the resource requirements associated 
+with data center development, including projected water demand, available water supply, energy needs, and land use 
+implications. 
+  
+Background 
+  
+The rapid expansion of Artificial Intelligence (AI) has prompted many jurisdictions to examine how their existing regulatory 
+frameworks guide data center development.  Water availability, energy capacity, and land use are all critical considerations in 
+evaluating the potential impacts of data center development. Several neighboring jurisdictions have recently adopted temporary 
+moratoriums on new data center development while they evaluate the potential impacts on their communities and update their 
+zoning, land-use, and development regulations.  
+ 
+The Arvada City Council would like to discuss the possibility of establishing a temporary moratorium in order to provide staff 
+with time to more thoroughly evaluate the resource requirements associated with data center development, including projected 
+water demand, available water supply, energy needs, and land use implications. 
+ 
+The study session will provide an opportunity to discuss how the city's current Land Development Code (LDC) currently 
+defines data centers, how data centers are currently zoned and what requirements are in place for the development of a data 
+center. City Council will hear a presentation from staff and will consider options regarding a potential moratorium. 
+ 
+For reference, the city's definition of data centers in the LDC is as follows:  A building that is used exclusively for the 
+transmission and exchange of telephone signals; or a facility used by telecommunications carriers, internet access providers, or 
+internet service providers, in which equipment for telecommunications and data processing use (e.g., servers, data storage 
+devices, switches, routers, and other comparable technology infrastructure) is concentrated and physically secured. Equipment 
+in a data center may be owned or operated by more than one entity (Chapter 11, Land Development Code). 
+  
+Strategic Alignment 
+  
+This study session aligns with the Quality of Life and Local Economy strategic priorities in the 2024-2030 City Council 
+Strategic Plan. 
+  
+Next Steps 
+  
+The city team will follow City Council's direction on whether to consider a public vote to establish a moratorium in the future.  
+    
+SUBJECT: City Council Discussion on Possible Data Center Moratorium 
+ 
+PAGE: 2 
+ITEM:  2.A. 
+ 
+ 
+ 
+ 
+  Prepared by: 
+  Linda Haley, Deputy City Manager 
+    
+  Reviewed by: 
+   
+    
+Approved by:    
+  
+Linda Haley, Deputy City Manager 07/28/2026 
+Rachel Morris, City Attorney 07/28/2026 
+Don Wick, City Manager 07/29/2026 
+  
+Enclosure, exhibits & attachments required to support the report 
+ 
+City Council Study Session - 
+Consideration of Temporary 
+Moratorium on Data Center Facilities
+August 11, 2026
+Overview
+● Data centers are expanding rapidly nationwide, as well as locally in Colorado.  
+● Numerous municipalities and counties across Colorado — including Denver, Jefferson County, 
+Longmont, and Larimer County — have adopted data center moratoriums. 
+● A temporary moratorium on land use applications is a valid exercise of local police power.
+● Arvada has valid and well-documented reasons to pursue a moratorium of its own.
+(i.e.  need for comprehensive planning, infrastructure analysis, regulatory development, and a 
+cumulative impact assessment).
+What is a data center?
+Data centers are specialized facilities that house and manage 
+computer systems, servers, networking equipment, and storage. 
+Data center types differ in size, function, and associated 
+resource and land use impacts.
+Edge and Micro Data Center
+Small-scale facilities located close to end 
+users
+○ Building size: 500-5,000 sq. feet
+○ Power demand: .05-1 MW 
+○ Examples: cell towers, hospitals, 
+campuses, industrial facilities
+Image shows an example of standalone, prefabricated data center cabinets.
+Enterprise and Internal Data Centers
+Privately operated facilities used by a 
+single organization to support internal 
+computing, storage, and applications
+○ Building size: 20,000-100,000 
+sq. feet
+○ Power demand: 1-10 MW
+○ Examples: single corporation, 
+university, government agency
+Image shows the Visa USA campus in Highlands Ranch, Colorado.
+● Third-party facilities that provide 
+shared infrastructure and computing 
+space for multiple customers
+○ Building size: 50,000-250,000 
+sq. feet
+○ Power demand: 10-50MW
+○ Examples: multi-tenant 
+facilities, colocation providers
+Regional and Colocation Data Centers
+Image shows a CoreSite data center building in Denver, Colorado.
+Hyperscale Data Centers
+Large-scale facilities designed to support 
+cloud computing, artiﬁcial intelligence, 
+and global internet services
+○ Building size: 100,000-2 million 
+sq. feet
+○ Power demand: 75-700+ MW
+○ Examples: cloud, AI, and global 
+internet platforms
+Image shows a rendering of the new QTS Aurora-Denver Campus currently under construction.
+Data Center Colorado Map
+Denver 47
+Colorado Springs 7
+Fort Collins 2
+Loveland 2
+Walsenburg 1
+Total 60
+Colorado is primarily a market for smaller data centers, however, hyperscale 
+data centers are being built in Aurora and and planned for Weld County.
+Image provided by DataCenterMap.com shows the distribution of data centers across Colorado.
+Image provided by DataCenterMap.com shows the locations of each data center in the Denver Metro region.
+Who has adopted restrictions?
+City Details
+Denver 12 month moratorium, passed in May
+Longmont Prohibited hyperscale data centers, 
+passed in June
+Broomfield 18 month moratorium, 10+ megawatts of 
+power, passed in July
+Woodland Park 18 month moratorium, passed in July
+Town of 
+Lochbuie
+5 year moratorium, passed in July
+County Details
+Jefferson County 10 month moratorium, passed in May
+Boulder County 6 month moratorium, passed in June
+Larimer County 6 month moratorium, passed in 
+January– extended to August 
+Saguache 
+County
+6 month moratorium, passed in May
+Archuleta County 6 month moratorium, passed in June
+Why a temporary moratorium?
+Here's why municipalities and counties across the state have been enacting data center moratoriums in 2026:
+● State legislature failed to act. Cities and counties are moving in part because the state legislature failed to act 
+in 2026, letting two competing regulatory bills die and pushing any statewide framework off to at least the 2027 
+session, leaving local governments to fill the gap on their own. 
+● Existing land-use codes don't address data centers. Staff need time to develop land use regulations that 
+address the specific impacts of these facilities.
+● Electricity costs and grid strain. Research on rising electricity prices tied to data center power demand and 
+concern about electricity rate increases for ratepayers living near data centers.
+● Water consumption for cooling. Cities and counties are wary of the large amount of water needed (and 
+associated infrastructure) to cool large-scale data centers, a concern raised repeatedly in local hearings.
+● Noise, nuisance, and general "impact" concerns. Electrical infrastructure, water consumption, noise and 
+nuisance, environmental impacts, and land-use compatibility.
+
+Data Centers and Existing Code
+Deﬁnition of a Data Center in Land Development Code (LDC):
+“A building that is used exclusively for the transmission and exchange of telephone 
+signals; or a facility used by telecommunications carriers, internet access providers, or 
+internet service providers, in which equipment for telecommunications and data 
+processing use (e.g., servers, data storage devices, switches, routers, and other 
+comparable technology infrastructure) is concentrated and physically secured. 
+Equipment in a data center may be owned or operated by more than one entity.”
+Data Centers and Existing Code
+In Arvada, data centers are classiﬁed differently depending on the zoning district. Data 
+centers are considered conditional uses in the Mixed-Use Suburban (MX-S) and 
+Commercial General (CG) zoning districts. As conditional uses, they require approval by 
+City Council following a public hearing.
+Data centers are currently considered permitted uses in the Industrial, Light (IL) and 
+Industrial, General (IG) zoning districts. In these districts, approval may be granted 
+administratively by the Community and Economic Development (CED) Director without a 
+public hearing.
+Data Centers and Existing Code
+Currently, there are minimal restrictions on data centers.
+● Prohibited within 300 feet of a residential zone district boundary.
+● Noise limitations, dependent on location and time of day (Section 38-91, 
+Arvada City Code).
+Staff Recommendations
+If City Council wants to consider a temporary moratorium:
+Staff recommends the adoption of an 18-month moratorium on the acceptance and 
+processing of all new land use applications for data centers. This temporary pause is 
+needed to provide staff with adequate time to research and complete the following:
+ 
+1. Comprehensive planning 
+2. Infrastructure analysis 
+3. Regulatory development 
+4. Cumulative impact assessment 
+5. LDC revisions
