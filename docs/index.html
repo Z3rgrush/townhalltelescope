@@ -96,7 +96,7 @@ a { color: var(--accent); }
   <div id="map" role="application" aria-label="Map of zip codes"></div>
   <aside>
     <h1>Town Hall Telescope</h1>
-    <p class="lede">What city and town councils and county commissions in the Denver and Boulder area of Colorado have been talking about. Tap the map, or type a zip code or county.</p>
+    <p class="lede">What Colorado's city and town councils and county commissions have been talking about. Records cover the Denver and Boulder area so far, and the rest of the state is being added. Tap the map, or type a zip code or county.</p>
     <form id="find"><input id="zip" placeholder="Zip or county, e.g. 80302 or Boulder" aria-label="Zip code or county name"><button>Show</button></form>
     <div class="unit" id="unit" role="group" aria-label="Show the map by"><button type="button" data-unit="zip" aria-pressed="true">Zip codes</button><button type="button" data-unit="county" aria-pressed="false">Counties</button></div>
     <button type="button" class="toggle" id="dc" aria-pressed="false">Highlight data center talk</button>
@@ -107,7 +107,7 @@ a { color: var(--accent); }
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 // What differs between the region pages. The rest of this file is shared: keep co/index.html in step.
-const PAGE = {area: "the Denver and Boulder area", bins: {zip: [25, 31, 41], county: [30, 45, 60]}};
+const PAGE = {bins: {zip: [25, 31, 41], county: [30, 45, 60]}};
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString("en-US", {month: "short", day: "numeric", year: "numeric"});
 const slug = s => s.toLowerCase().replace(/[^a-z]+/g, "-");
@@ -124,13 +124,13 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
   // The map can be drawn by zip code or by county. Each unit names its records, shapes and wording.
   const UNITS = {
     zip: {records: zips, geo: zipGeo, key: f => f.properties.zip, name: z => z, hash: z => z, plural: "zips",
-          govsLabel: "Governments covering this zip", govTitle: g => `${Math.round(g.share * 100)}% of the zip's area`,
+          govsLabel: "Governments covering this zip", govTitle: g => g.share >= 0.01 ? `${Math.round(g.share * 100)}% of the zip's residents` : "",
           siteHere: "A data center site discussed in public meetings is in this zip.",
           siteElsewhere: "The site is in a nearby zip, but a local government that covers this zip discussed it.",
           noSite: "A local government that covers this zip discussed data centers, though not a specific site.",
           empty: "Darker zips had more of their local issues come up at more meetings.", zoom: 13},
     county: {records: countyData.counties, geo: countyGeo, key: f => f.properties.county, name: c => c + " County", hash: slug, plural: "counties",
-          govsLabel: "Governments in this county", govTitle: g => g.share < 1 ? `${Math.round(g.share * 100)}% of the city is in this county` : "",
+          govsLabel: "Governments in this county", govTitle: g => g.share < 1 ? `${Math.round(g.share * 100)}% of the town's residents live in this county` : "",
           siteHere: "A data center site discussed in public meetings is in this county.",
           siteElsewhere: "The site is in another county, but a local government here discussed data centers.",
           noSite: "A local government here discussed data centers, though not a specific site.",
@@ -196,7 +196,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
   function show(k, pan) {
     const info = U.records[k];
     const box = document.getElementById("detail");
-    if (!info) { box.innerHTML = `<p class="empty">${esc(k)} isn't in this pilot yet. It covers ${PAGE.area}.</p>`; return; }
+    if (!info) { box.innerHTML = `<p class="empty">${esc(k)} isn't a Colorado zip code or county.</p>`; return; }
     selected = k;
     layer.setStyle(style);
     layers[k].bringToFront();

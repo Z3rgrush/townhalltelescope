@@ -1,4 +1,4 @@
-# Boulder/Denver region: Denver, Boulder and Broomfield counties (see data/zips.csv).
+# Colorado sources. Geography for every zip, county and town is in data/zip_areas.csv.
 - id: denver
   name: Denver
   county: Denver

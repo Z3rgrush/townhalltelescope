@@ -9,8 +9,18 @@
     },
     {
      "name": "Aurora",
-     "share": 0.378,
+     "share": 0.124,
      "has_records": true
+    },
+    {
+     "name": "Bennett",
+     "share": 0.854,
+     "has_records": false
+    },
+    {
+     "name": "Brighton",
+     "share": 0.991,
+     "has_records": false
     },
     {
      "name": "Commerce City",
@@ -18,15 +28,29 @@
      "has_records": true
     },
     {
+     "name": "Federal Heights",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Northglenn",
+     "share": 0.999,
+     "has_records": false
+    },
+    {
      "name": "Thornton",
      "share": 1.0,
      "has_records": true
+    },
+    {
+     "name": "Westminster",
+     "share": 0.612,
+     "has_records": false
     }
    ],
    "issues": [
     "commerce-city/1",
     "commerce-city/0",
-    "aurora/0",
     "commerce-city/5",
     "commerce-city/6",
     "commerce-city/7",
@@ -35,7 +59,8 @@
     "commerce-city/13",
     "thornton/1",
     "thornton/6",
-    "aurora/1"
+    "aurora/0",
+    "commerce-city/3"
    ],
    "tagged": {
     "data-center": {
@@ -48,6 +73,27 @@
     }
    }
   },
+  "Alamosa": {
+   "governments": [
+    {
+     "name": "Alamosa County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Alamosa",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hooper",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
   "Arapahoe": {
    "governments": [
     {
@@ -57,13 +103,68 @@
     },
     {
      "name": "Aurora",
-     "share": 0.608,
+     "share": 0.87,
      "has_records": true
+    },
+    {
+     "name": "Bennett",
+     "share": 0.146,
+     "has_records": false
+    },
+    {
+     "name": "Bow Mar",
+     "share": 0.688,
+     "has_records": false
+    },
+    {
+     "name": "Centennial",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cherry Hills Village",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Columbine Valley",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Deer Trail",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Englewood",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Foxfield",
+     "share": 1.0,
+     "has_records": false
     },
     {
      "name": "Glendale",
      "share": 1.0,
      "has_records": true
+    },
+    {
+     "name": "Greenwood Village",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Littleton",
+     "share": 0.935,
+     "has_records": false
+    },
+    {
+     "name": "Sheridan",
+     "share": 1.0,
+     "has_records": false
     }
    ],
    "issues": [
@@ -89,6 +190,79 @@
     }
    }
   },
+  "Archuleta": {
+   "governments": [
+    {
+     "name": "Archuleta County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Pagosa Springs",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Baca": {
+   "governments": [
+    {
+     "name": "Baca County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Campo",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Pritchett",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Springfield",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Two Buttes",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Vilas",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Walsh",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Bent": {
+   "governments": [
+    {
+     "name": "Bent County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Las Animas",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
   "Boulder": {
    "governments": [
     {
@@ -103,8 +277,13 @@
     },
     {
      "name": "Erie",
-     "share": 0.286,
+     "share": 0.421,
      "has_records": true
+    },
+    {
+     "name": "Jamestown",
+     "share": 1.0,
+     "has_records": false
     },
     {
      "name": "Lafayette",
@@ -113,7 +292,7 @@
     },
     {
      "name": "Longmont",
-     "share": 0.816,
+     "share": 0.987,
      "has_records": true
     },
     {
@@ -133,8 +312,13 @@
     },
     {
      "name": "Superior",
-     "share": 0.949,
+     "share": 1.0,
      "has_records": true
+    },
+    {
+     "name": "Ward",
+     "share": 1.0,
+     "has_records": false
     }
    ],
    "issues": [
@@ -184,6 +368,234 @@
    ],
    "tagged": {}
   },
+  "Chaffee": {
+   "governments": [
+    {
+     "name": "Chaffee County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Buena Vista",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Poncha Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Salida",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Cheyenne": {
+   "governments": [
+    {
+     "name": "Cheyenne County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cheyenne Wells",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Kit Carson",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Clear Creek": {
+   "governments": [
+    {
+     "name": "Clear Creek County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Empire",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Georgetown",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Idaho Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Silver Plume",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Conejos": {
+   "governments": [
+    {
+     "name": "Conejos County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Antonito",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "La Jara",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Manassa",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Romeo",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Sanford",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Costilla": {
+   "governments": [
+    {
+     "name": "Costilla County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Blanca",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "San Luis",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Crowley": {
+   "governments": [
+    {
+     "name": "Crowley County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Crowley",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Olney Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ordway",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Sugar City",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Custer": {
+   "governments": [
+    {
+     "name": "Custer County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Silver Cliff",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Westcliffe",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Delta": {
+   "governments": [
+    {
+     "name": "Delta County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cedaredge",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Crawford",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Delta",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hotchkiss",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Orchard City",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Paonia",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
   "Denver": {
    "governments": [
     {
@@ -215,6 +627,1401 @@
     }
    }
   },
+  "Dolores": {
+   "governments": [
+    {
+     "name": "Dolores County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Dove Creek",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Rico",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Douglas": {
+   "governments": [
+    {
+     "name": "Douglas County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Castle Pines",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Castle Rock",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Larkspur",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Lone Tree",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Parker",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Eagle": {
+   "governments": [
+    {
+     "name": "Eagle County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Avon",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Basalt",
+     "share": 0.732,
+     "has_records": false
+    },
+    {
+     "name": "Eagle",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Gypsum",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Minturn",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Red Cliff",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Vail",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "El Paso": {
+   "governments": [
+    {
+     "name": "El Paso County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Calhan",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Colorado Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fountain",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Green Mountain Falls",
+     "share": 0.963,
+     "has_records": false
+    },
+    {
+     "name": "Manitou Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Monument",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Palmer Lake",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ramah",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Elbert": {
+   "governments": [
+    {
+     "name": "Elbert County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Elizabeth",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Kiowa",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Simla",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Fremont": {
+   "governments": [
+    {
+     "name": "Fremont County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Brookside",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ca\u00f1on City",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Coal Creek",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Florence",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Rockvale",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Williamsburg",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Garfield": {
+   "governments": [
+    {
+     "name": "Garfield County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Carbonate",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Carbondale",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Glenwood Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "New Castle",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Parachute",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Rifle",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Silt",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Gilpin": {
+   "governments": [
+    {
+     "name": "Gilpin County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Black Hawk",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Central City",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Grand": {
+   "governments": [
+    {
+     "name": "Grand County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fraser",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Granby",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Grand Lake",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hot Sulphur Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Kremmling",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Winter Park",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Gunnison": {
+   "governments": [
+    {
+     "name": "Gunnison County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Crested Butte",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Gunnison",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Marble",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Mount Crested Butte",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Pitkin",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Hinsdale": {
+   "governments": [
+    {
+     "name": "Hinsdale County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Lake City",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Huerfano": {
+   "governments": [
+    {
+     "name": "Huerfano County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "La Veta",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Walsenburg",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Jackson": {
+   "governments": [
+    {
+     "name": "Jackson County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Walden",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Jefferson": {
+   "governments": [
+    {
+     "name": "Jefferson County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Arvada",
+     "share": 0.977,
+     "has_records": false
+    },
+    {
+     "name": "Bow Mar",
+     "share": 0.312,
+     "has_records": false
+    },
+    {
+     "name": "Edgewater",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Golden",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Lakeside",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Lakewood",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Morrison",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Mountain View",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Westminster",
+     "share": 0.388,
+     "has_records": false
+    },
+    {
+     "name": "Wheat Ridge",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Kiowa": {
+   "governments": [
+    {
+     "name": "Kiowa County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Eads",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Haswell",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Sheridan Lake",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Kit Carson": {
+   "governments": [
+    {
+     "name": "Kit Carson County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Bethune",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Burlington",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Flagler",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Seibert",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Stratton",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Vona",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "La Plata": {
+   "governments": [
+    {
+     "name": "La Plata County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Bayfield",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Durango",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ignacio",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Lake": {
+   "governments": [
+    {
+     "name": "Lake County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Leadville",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Larimer": {
+   "governments": [
+    {
+     "name": "Larimer County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Berthoud",
+     "share": 0.975,
+     "has_records": false
+    },
+    {
+     "name": "Estes Park",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fort Collins",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Johnstown",
+     "share": 0.275,
+     "has_records": false
+    },
+    {
+     "name": "Loveland",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Timnath",
+     "share": 0.999,
+     "has_records": false
+    },
+    {
+     "name": "Wellington",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Windsor",
+     "share": 0.236,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Las Animas": {
+   "governments": [
+    {
+     "name": "Las Animas County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Aguilar",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Branson",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cokedale",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Kim",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Starkville",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Trinidad",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Lincoln": {
+   "governments": [
+    {
+     "name": "Lincoln County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Arriba",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Genoa",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hugo",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Limon",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Logan": {
+   "governments": [
+    {
+     "name": "Logan County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Crook",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fleming",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Iliff",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Merino",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Peetz",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Sterling",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Mesa": {
+   "governments": [
+    {
+     "name": "Mesa County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Collbran",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "De Beque",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fruita",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Grand Junction",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Palisade",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Mineral": {
+   "governments": [
+    {
+     "name": "Mineral County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "City of Creede",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Moffat": {
+   "governments": [
+    {
+     "name": "Moffat County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Craig",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Dinosaur",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Montezuma": {
+   "governments": [
+    {
+     "name": "Montezuma County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cortez",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Dolores",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Mancos",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Montrose": {
+   "governments": [
+    {
+     "name": "Montrose County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Montrose",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Naturita",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Nucla",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Olathe",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Morgan": {
+   "governments": [
+    {
+     "name": "Morgan County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Brush",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fort Morgan",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hillrose",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Log Lane Village",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Wiggins",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Otero": {
+   "governments": [
+    {
+     "name": "Otero County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cheraw",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fowler",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "La Junta",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Manzanola",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Rocky Ford",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Swink",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Ouray": {
+   "governments": [
+    {
+     "name": "Ouray County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ouray",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ridgway",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Park": {
+   "governments": [
+    {
+     "name": "Park County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Alma",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Fairplay",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Phillips": {
+   "governments": [
+    {
+     "name": "Phillips County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Haxtun",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Holyoke",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Paoli",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Pitkin": {
+   "governments": [
+    {
+     "name": "Pitkin County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Aspen",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Basalt",
+     "share": 0.268,
+     "has_records": false
+    },
+    {
+     "name": "Snowmass Village",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Prowers": {
+   "governments": [
+    {
+     "name": "Prowers County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Granada",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hartman",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Holly",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Lamar",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Wiley",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Pueblo": {
+   "governments": [
+    {
+     "name": "Pueblo County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Boone",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Pueblo",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Rye",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Rio Blanco": {
+   "governments": [
+    {
+     "name": "Rio Blanco County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Meeker",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Rangely",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Rio Grande": {
+   "governments": [
+    {
+     "name": "Rio Grande County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Del Norte",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Monte Vista",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "South Fork",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Routt": {
+   "governments": [
+    {
+     "name": "Routt County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hayden",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Oak Creek",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Steamboat Springs",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Yampa",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Saguache": {
+   "governments": [
+    {
+     "name": "Saguache County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Bonanza",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Center",
+     "share": 0.977,
+     "has_records": false
+    },
+    {
+     "name": "Crestone",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Moffat",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Saguache",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "San Juan": {
+   "governments": [
+    {
+     "name": "San Juan County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Silverton",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "San Miguel": {
+   "governments": [
+    {
+     "name": "San Miguel County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Mountain Village",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Norwood",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ophir",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Sawpit",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Telluride",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Sedgwick": {
+   "governments": [
+    {
+     "name": "Sedgwick County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Julesburg",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Ovid",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Sedgwick",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Summit": {
+   "governments": [
+    {
+     "name": "Summit County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Blue River",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Breckenridge",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Dillon",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Frisco",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Montezuma",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Silverthorne",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Teller": {
+   "governments": [
+    {
+     "name": "Teller County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Cripple Creek",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Victor",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Woodland Park",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
+  "Washington": {
+   "governments": [
+    {
+     "name": "Washington County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Akron",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Otis",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
+  },
   "Weld": {
    "governments": [
     {
@@ -223,9 +2030,29 @@
      "has_records": false
     },
     {
+     "name": "Ault",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Dacono",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Eaton",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
      "name": "Erie",
-     "share": 0.714,
+     "share": 0.579,
      "has_records": true
+    },
+    {
+     "name": "Evans",
+     "share": 1.0,
+     "has_records": false
     },
     {
      "name": "Firestone",
@@ -233,34 +2060,119 @@
      "has_records": true
     },
     {
+     "name": "Fort Lupton",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
      "name": "Frederick",
      "share": 1.0,
      "has_records": true
     },
     {
-     "name": "Longmont",
-     "share": 0.184,
-     "has_records": true
+     "name": "Garden City",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Gilcrest",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Greeley",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Grover",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Hudson",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Johnstown",
+     "share": 0.725,
+     "has_records": false
+    },
+    {
+     "name": "Keenesburg",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Kersey",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "La Salle",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Lochbuie",
+     "share": 1.0,
+     "has_records": false
     },
     {
      "name": "Mead",
      "share": 1.0,
      "has_records": true
+    },
+    {
+     "name": "Milliken",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Nunn",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Pierce",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Platteville",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Raymer (New Raymer)",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Severance",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Windsor",
+     "share": 0.764,
+     "has_records": false
     }
    ],
    "issues": [
-    "longmont/9",
     "erie/2",
-    "longmont/3",
-    "longmont/0",
     "erie/7",
     "frederick/0",
     "mead/6",
     "erie/5",
-    "longmont/5",
-    "longmont/8",
     "erie/3",
-    "erie/4"
+    "erie/4",
+    "erie/1",
+    "erie/6",
+    "mead/2",
+    "erie/0",
+    "erie/8"
    ],
    "tagged": {
     "data-center": {
@@ -270,60 +2182,562 @@
      "site": false
     }
    }
+  },
+  "Yuma": {
+   "governments": [
+    {
+     "name": "Yuma County",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Eckley",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Wray",
+     "share": 1.0,
+     "has_records": false
+    },
+    {
+     "name": "Yuma",
+     "share": 1.0,
+     "has_records": false
+    }
+   ],
+   "issues": [],
+   "tagged": {}
   }
  },
  "zips": {
-  "80023": "Broomfield",
-  "80301": "Boulder",
-  "80503": "Boulder",
-  "80204": "Denver",
-  "80249": "Denver",
-  "80219": "Denver",
-  "80202": "Denver",
-  "80305": "Boulder",
-  "80544": "Boulder",
-  "80293": "Denver",
-  "80302": "Boulder",
-  "80516": "Weld",
-  "80027": "Boulder",
-  "80206": "Denver",
+  "80002": "Jefferson",
+  "80003": "Jefferson",
+  "80004": "Jefferson",
+  "80005": "Jefferson",
+  "80007": "Jefferson",
+  "80010": "Arapahoe",
+  "80011": "Arapahoe",
+  "80012": "Arapahoe",
+  "80013": "Arapahoe",
+  "80014": "Arapahoe",
+  "80015": "Arapahoe",
+  "80016": "Arapahoe",
+  "80017": "Arapahoe",
+  "80018": "Arapahoe",
+  "80019": "Adams",
   "80020": "Broomfield",
-  "80246": "Denver",
-  "80237": "Denver",
-  "80220": "Denver",
-  "80303": "Boulder",
+  "80021": "Jefferson",
+  "80022": "Adams",
+  "80023": "Broomfield",
+  "80024": "Adams",
   "80025": "Boulder",
-  "80207": "Denver",
-  "80290": "Denver",
-  "80216": "Denver",
-  "80239": "Denver",
-  "80501": "Boulder",
-  "80205": "Denver",
-  "80212": "Denver",
-  "80236": "Denver",
-  "80466": "Boulder",
-  "80510": "Boulder",
-  "80223": "Denver",
-  "80238": "Denver",
-  "80211": "Denver",
-  "80304": "Boulder",
   "80026": "Boulder",
-  "80540": "Boulder",
-  "80504": "Weld",
-  "80471": "Boulder",
-  "80310": "Boulder",
+  "80027": "Boulder",
+  "80030": "Adams",
+  "80031": "Adams",
+  "80033": "Jefferson",
+  "80045": "Adams",
+  "80101": "Elbert",
+  "80102": "Adams",
+  "80103": "Arapahoe",
+  "80104": "Douglas",
+  "80105": "Arapahoe",
+  "80106": "El Paso",
+  "80107": "Elbert",
+  "80108": "Douglas",
+  "80109": "Douglas",
+  "80110": "Arapahoe",
+  "80111": "Arapahoe",
+  "80112": "Arapahoe",
+  "80113": "Arapahoe",
+  "80116": "Douglas",
+  "80117": "Elbert",
+  "80118": "Douglas",
+  "80120": "Arapahoe",
+  "80121": "Arapahoe",
+  "80122": "Arapahoe",
+  "80123": "Jefferson",
+  "80124": "Douglas",
+  "80125": "Douglas",
+  "80126": "Douglas",
+  "80127": "Jefferson",
+  "80128": "Jefferson",
+  "80129": "Douglas",
+  "80130": "Douglas",
+  "80131": "Douglas",
+  "80132": "El Paso",
+  "80133": "El Paso",
+  "80134": "Douglas",
+  "80135": "Douglas",
+  "80136": "Adams",
+  "80137": "Arapahoe",
+  "80138": "Douglas",
+  "80202": "Denver",
   "80203": "Denver",
-  "80230": "Denver",
-  "80294": "Denver",
-  "80247": "Denver",
-  "80231": "Denver",
-  "80224": "Denver",
-  "80222": "Denver",
-  "80481": "Boulder",
-  "80455": "Boulder",
+  "80204": "Denver",
+  "80205": "Denver",
+  "80206": "Denver",
+  "80207": "Denver",
   "80209": "Denver",
   "80210": "Denver",
+  "80211": "Denver",
+  "80212": "Denver",
+  "80214": "Jefferson",
+  "80215": "Jefferson",
+  "80216": "Denver",
   "80218": "Denver",
-  "80264": "Denver"
+  "80219": "Denver",
+  "80220": "Denver",
+  "80221": "Adams",
+  "80222": "Denver",
+  "80223": "Denver",
+  "80224": "Denver",
+  "80226": "Jefferson",
+  "80227": "Jefferson",
+  "80228": "Jefferson",
+  "80229": "Adams",
+  "80230": "Denver",
+  "80231": "Denver",
+  "80232": "Jefferson",
+  "80233": "Adams",
+  "80234": "Adams",
+  "80235": "Jefferson",
+  "80236": "Denver",
+  "80237": "Denver",
+  "80238": "Denver",
+  "80239": "Denver",
+  "80241": "Adams",
+  "80246": "Denver",
+  "80247": "Arapahoe",
+  "80249": "Denver",
+  "80260": "Adams",
+  "80264": "Denver",
+  "80266": "Denver",
+  "80290": "Denver",
+  "80293": "Denver",
+  "80294": "Denver",
+  "80301": "Boulder",
+  "80302": "Boulder",
+  "80303": "Boulder",
+  "80304": "Boulder",
+  "80305": "Boulder",
+  "80310": "Boulder",
+  "80401": "Jefferson",
+  "80403": "Jefferson",
+  "80419": "Jefferson",
+  "80420": "Park",
+  "80421": "Park",
+  "80422": "Gilpin",
+  "80423": "Eagle",
+  "80424": "Summit",
+  "80425": "Jefferson",
+  "80426": "Eagle",
+  "80427": "Gilpin",
+  "80428": "Routt",
+  "80430": "Jackson",
+  "80432": "Park",
+  "80433": "Jefferson",
+  "80434": "Jackson",
+  "80435": "Summit",
+  "80436": "Clear Creek",
+  "80438": "Clear Creek",
+  "80439": "Jefferson",
+  "80440": "Park",
+  "80442": "Grand",
+  "80443": "Summit",
+  "80444": "Clear Creek",
+  "80446": "Grand",
+  "80447": "Grand",
+  "80448": "Park",
+  "80449": "Park",
+  "80451": "Grand",
+  "80452": "Clear Creek",
+  "80453": "Jefferson",
+  "80454": "Jefferson",
+  "80455": "Boulder",
+  "80456": "Park",
+  "80457": "Jefferson",
+  "80459": "Grand",
+  "80461": "Lake",
+  "80463": "Routt",
+  "80465": "Jefferson",
+  "80466": "Boulder",
+  "80467": "Routt",
+  "80468": "Grand",
+  "80469": "Routt",
+  "80470": "Jefferson",
+  "80471": "Boulder",
+  "80473": "Jackson",
+  "80474": "Gilpin",
+  "80475": "Park",
+  "80476": "Clear Creek",
+  "80478": "Grand",
+  "80479": "Routt",
+  "80480": "Jackson",
+  "80481": "Boulder",
+  "80482": "Grand",
+  "80483": "Routt",
+  "80487": "Routt",
+  "80498": "Summit",
+  "80501": "Boulder",
+  "80503": "Boulder",
+  "80504": "Boulder",
+  "80510": "Boulder",
+  "80512": "Larimer",
+  "80513": "Larimer",
+  "80514": "Weld",
+  "80515": "Larimer",
+  "80516": "Weld",
+  "80517": "Larimer",
+  "80520": "Weld",
+  "80521": "Larimer",
+  "80524": "Larimer",
+  "80525": "Larimer",
+  "80526": "Larimer",
+  "80528": "Larimer",
+  "80530": "Weld",
+  "80532": "Larimer",
+  "80534": "Weld",
+  "80535": "Larimer",
+  "80536": "Larimer",
+  "80537": "Larimer",
+  "80538": "Larimer",
+  "80540": "Boulder",
+  "80542": "Weld",
+  "80543": "Weld",
+  "80544": "Boulder",
+  "80545": "Larimer",
+  "80546": "Weld",
+  "80547": "Larimer",
+  "80549": "Larimer",
+  "80550": "Weld",
+  "80601": "Adams",
+  "80602": "Adams",
+  "80603": "Weld",
+  "80610": "Weld",
+  "80611": "Weld",
+  "80612": "Weld",
+  "80615": "Weld",
+  "80620": "Weld",
+  "80621": "Weld",
+  "80622": "Weld",
+  "80623": "Weld",
+  "80624": "Weld",
+  "80631": "Weld",
+  "80634": "Weld",
+  "80640": "Adams",
+  "80642": "Weld",
+  "80643": "Weld",
+  "80644": "Weld",
+  "80645": "Weld",
+  "80646": "Weld",
+  "80648": "Weld",
+  "80649": "Morgan",
+  "80650": "Weld",
+  "80651": "Weld",
+  "80652": "Weld",
+  "80653": "Morgan",
+  "80654": "Morgan",
+  "80701": "Morgan",
+  "80705": "Morgan",
+  "80720": "Washington",
+  "80721": "Phillips",
+  "80722": "Logan",
+  "80723": "Morgan",
+  "80726": "Logan",
+  "80727": "Yuma",
+  "80728": "Logan",
+  "80729": "Weld",
+  "80731": "Phillips",
+  "80732": "Weld",
+  "80733": "Morgan",
+  "80734": "Phillips",
+  "80735": "Yuma",
+  "80736": "Logan",
+  "80737": "Sedgwick",
+  "80740": "Washington",
+  "80741": "Logan",
+  "80742": "Weld",
+  "80743": "Washington",
+  "80744": "Sedgwick",
+  "80745": "Logan",
+  "80746": "Phillips",
+  "80747": "Logan",
+  "80749": "Sedgwick",
+  "80750": "Morgan",
+  "80751": "Logan",
+  "80754": "Weld",
+  "80755": "Yuma",
+  "80757": "Washington",
+  "80758": "Yuma",
+  "80759": "Yuma",
+  "80801": "Washington",
+  "80802": "Cheyenne",
+  "80804": "Lincoln",
+  "80805": "Kit Carson",
+  "80807": "Kit Carson",
+  "80808": "El Paso",
+  "80809": "El Paso",
+  "80810": "Cheyenne",
+  "80812": "Washington",
+  "80813": "Teller",
+  "80814": "Teller",
+  "80815": "Kit Carson",
+  "80816": "Teller",
+  "80817": "El Paso",
+  "80818": "Lincoln",
+  "80819": "El Paso",
+  "80820": "Park",
+  "80821": "Lincoln",
+  "80822": "Yuma",
+  "80823": "Lincoln",
+  "80824": "Yuma",
+  "80825": "Cheyenne",
+  "80826": "Lincoln",
+  "80827": "Park",
+  "80828": "Lincoln",
+  "80829": "El Paso",
+  "80830": "Elbert",
+  "80831": "El Paso",
+  "80832": "El Paso",
+  "80833": "El Paso",
+  "80834": "Kit Carson",
+  "80835": "Elbert",
+  "80836": "Kit Carson",
+  "80840": "El Paso",
+  "80860": "Teller",
+  "80861": "Kit Carson",
+  "80862": "Cheyenne",
+  "80863": "Teller",
+  "80864": "El Paso",
+  "80902": "El Paso",
+  "80903": "El Paso",
+  "80904": "El Paso",
+  "80905": "El Paso",
+  "80906": "El Paso",
+  "80907": "El Paso",
+  "80908": "El Paso",
+  "80909": "El Paso",
+  "80910": "El Paso",
+  "80911": "El Paso",
+  "80913": "El Paso",
+  "80914": "El Paso",
+  "80915": "El Paso",
+  "80916": "El Paso",
+  "80917": "El Paso",
+  "80918": "El Paso",
+  "80919": "El Paso",
+  "80920": "El Paso",
+  "80921": "El Paso",
+  "80922": "El Paso",
+  "80923": "El Paso",
+  "80924": "El Paso",
+  "80925": "El Paso",
+  "80926": "El Paso",
+  "80927": "El Paso",
+  "80928": "El Paso",
+  "80929": "El Paso",
+  "80930": "El Paso",
+  "80938": "El Paso",
+  "80939": "El Paso",
+  "80951": "El Paso",
+  "81001": "Pueblo",
+  "81003": "Pueblo",
+  "81004": "Pueblo",
+  "81005": "Pueblo",
+  "81006": "Pueblo",
+  "81007": "Pueblo",
+  "81008": "Pueblo",
+  "81019": "Pueblo",
+  "81020": "Las Animas",
+  "81021": "Kiowa",
+  "81022": "Pueblo",
+  "81023": "Pueblo",
+  "81024": "Las Animas",
+  "81025": "Pueblo",
+  "81027": "Las Animas",
+  "81029": "Baca",
+  "81030": "Otero",
+  "81033": "Crowley",
+  "81036": "Kiowa",
+  "81039": "Otero",
+  "81040": "Huerfano",
+  "81041": "Prowers",
+  "81043": "Prowers",
+  "81044": "Bent",
+  "81045": "Kiowa",
+  "81046": "Las Animas",
+  "81047": "Prowers",
+  "81049": "Las Animas",
+  "81050": "Otero",
+  "81052": "Prowers",
+  "81054": "Bent",
+  "81055": "Huerfano",
+  "81057": "Bent",
+  "81058": "Otero",
+  "81059": "Las Animas",
+  "81062": "Crowley",
+  "81063": "Crowley",
+  "81064": "Baca",
+  "81067": "Otero",
+  "81069": "Pueblo",
+  "81071": "Kiowa",
+  "81073": "Baca",
+  "81076": "Crowley",
+  "81077": "Otero",
+  "81081": "Las Animas",
+  "81082": "Las Animas",
+  "81084": "Baca",
+  "81087": "Baca",
+  "81089": "Huerfano",
+  "81090": "Baca",
+  "81091": "Las Animas",
+  "81092": "Prowers",
+  "81101": "Alamosa",
+  "81120": "Conejos",
+  "81121": "Archuleta",
+  "81122": "La Plata",
+  "81123": "Costilla",
+  "81124": "Conejos",
+  "81125": "Saguache",
+  "81126": "Costilla",
+  "81128": "Archuleta",
+  "81129": "Conejos",
+  "81130": "Mineral",
+  "81131": "Saguache",
+  "81132": "Rio Grande",
+  "81133": "Costilla",
+  "81136": "Alamosa",
+  "81137": "La Plata",
+  "81138": "Costilla",
+  "81140": "Conejos",
+  "81141": "Conejos",
+  "81143": "Saguache",
+  "81144": "Rio Grande",
+  "81146": "Alamosa",
+  "81147": "Archuleta",
+  "81148": "Conejos",
+  "81149": "Saguache",
+  "81151": "Conejos",
+  "81152": "Costilla",
+  "81154": "Rio Grande",
+  "81155": "Saguache",
+  "81201": "Chaffee",
+  "81210": "Gunnison",
+  "81211": "Chaffee",
+  "81212": "Fremont",
+  "81220": "Gunnison",
+  "81221": "Fremont",
+  "81222": "Fremont",
+  "81223": "Fremont",
+  "81224": "Gunnison",
+  "81225": "Gunnison",
+  "81226": "Fremont",
+  "81227": "Chaffee",
+  "81228": "Chaffee",
+  "81230": "Gunnison",
+  "81232": "Fremont",
+  "81233": "Fremont",
+  "81235": "Hinsdale",
+  "81236": "Chaffee",
+  "81237": "Gunnison",
+  "81239": "Gunnison",
+  "81240": "Fremont",
+  "81241": "Gunnison",
+  "81242": "Chaffee",
+  "81243": "Gunnison",
+  "81244": "Fremont",
+  "81248": "Saguache",
+  "81251": "Lake",
+  "81252": "Custer",
+  "81253": "Custer",
+  "81301": "La Plata",
+  "81303": "La Plata",
+  "81320": "Dolores",
+  "81321": "Montezuma",
+  "81323": "Montezuma",
+  "81324": "Dolores",
+  "81325": "San Miguel",
+  "81326": "La Plata",
+  "81327": "Montezuma",
+  "81328": "Montezuma",
+  "81330": "Montezuma",
+  "81331": "Montezuma",
+  "81332": "Dolores",
+  "81334": "Montezuma",
+  "81335": "Montezuma",
+  "81401": "Montrose",
+  "81403": "Montrose",
+  "81410": "Delta",
+  "81411": "Montrose",
+  "81413": "Delta",
+  "81415": "Delta",
+  "81416": "Delta",
+  "81418": "Delta",
+  "81419": "Delta",
+  "81422": "Montrose",
+  "81423": "San Miguel",
+  "81424": "Montrose",
+  "81425": "Montrose",
+  "81426": "San Miguel",
+  "81427": "Ouray",
+  "81428": "Delta",
+  "81429": "Montrose",
+  "81430": "San Miguel",
+  "81431": "Montrose",
+  "81432": "Ouray",
+  "81433": "San Juan",
+  "81434": "Gunnison",
+  "81435": "San Miguel",
+  "81501": "Mesa",
+  "81503": "Mesa",
+  "81504": "Mesa",
+  "81505": "Mesa",
+  "81506": "Mesa",
+  "81507": "Mesa",
+  "81520": "Mesa",
+  "81521": "Mesa",
+  "81522": "Mesa",
+  "81523": "Mesa",
+  "81524": "Mesa",
+  "81525": "Mesa",
+  "81526": "Mesa",
+  "81527": "Mesa",
+  "81601": "Garfield",
+  "81610": "Moffat",
+  "81611": "Pitkin",
+  "81612": "Pitkin",
+  "81615": "Pitkin",
+  "81620": "Eagle",
+  "81621": "Eagle",
+  "81623": "Garfield",
+  "81624": "Mesa",
+  "81625": "Moffat",
+  "81630": "Mesa",
+  "81631": "Eagle",
+  "81632": "Eagle",
+  "81633": "Moffat",
+  "81635": "Garfield",
+  "81637": "Eagle",
+  "81638": "Moffat",
+  "81639": "Routt",
+  "81640": "Moffat",
+  "81641": "Rio Blanco",
+  "81642": "Pitkin",
+  "81643": "Mesa",
+  "81645": "Eagle",
+  "81646": "Mesa",
+  "81647": "Garfield",
+  "81648": "Rio Blanco",
+  "81649": "Eagle",
+  "81650": "Garfield",
+  "81652": "Garfield",
+  "81653": "Routt",
+  "81654": "Pitkin",
+  "81655": "Eagle",
+  "81656": "Pitkin",
+  "81657": "Eagle",
+  "82063": "Larimer"
  }
 }
