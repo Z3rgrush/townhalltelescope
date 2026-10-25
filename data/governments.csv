@@ -2,7 +2,7 @@ id,name,kind,county,population,website,meetings_url,platform,collector,config,re
 el-paso-county,El Paso County,county,El Paso,730395,https://www.elpasoco.com,https://www.elpasoco.com/public-meetings/,,,,,no meeting records found
 denver,Denver,city and county,Denver,715522,https://www.denvergov.org,https://denver.legistar.com/Calendar.aspx,legistar,legistar,client=denver,151,collected
 arapahoe-county,Arapahoe County,county,Arapahoe,655070,https://www.arapahoecogov.com,https://arapahoe.legistar.com,legistar,legistar,client=arapahoe,,found
-jefferson-county,Jefferson County,county,Jefferson,582910,http://www.jeffco.us,https://pub-jeffco.escribemeetings.com,escribe,escribe,host=pub-jeffco.escribemeetings.com,,found
+jefferson-county,Jefferson County,county,Jefferson,582910,http://www.jeffco.us,https://pub-jeffco.escribemeetings.com,escribe,,host=pub-jeffco.escribemeetings.com,,files blocked (403)
 adams-county,Adams County,county,Adams,519572,https://www.adcogov.org,https://adamscounty.primegov.com,primegov,primegov,tenant=adamscounty,,found
 colorado-springs,Colorado Springs,city,El Paso,478961,http://www.coloradosprings.gov,https://coloradosprings.legistar.com/Calendar.aspx,legistar,legistar,client=coloradosprings,33,found
 aurora,Aurora,city,Arapahoe,386261,https://www.auroragov.org/,https://www.auroragov.org/city_hall/mayor___city_council/council_meetings,own site (PDF links),linkscan,url=https://www.auroragov.org/city_hall/mayor___city_council/council_meetings,,collected
@@ -27,7 +27,7 @@ broomfield,Broomfield,city and county,Broomfield,74112,http://www.broomfield.org
 castle-rock,Castle Rock,town,Douglas,73158,http://www.crgov.com,,,,,,no meeting records found
 grand-junction,Grand Junction,city,Mesa,65560,http://gjcity.org/,https://grandjunctionco.portal.civicclerk.com,civicclerk,civicclerk,tenant=grandjunctionco,15+,found
 commerce-city,Commerce City,city,Adams,62418,http://www.c3gov.com/,https://commerce.legistar.com,legistar,legistar,client=commerce,,collected
-garfield-county,Garfield County,county,Garfield,61685,https://www.garfield-county.com,https://pub-garfield.escribemeetings.com,escribe,escribe,host=pub-garfield.escribemeetings.com,,found
+garfield-county,Garfield County,county,Garfield,61685,https://www.garfield-county.com,https://pub-garfield.escribemeetings.com,escribe,,host=pub-garfield.escribemeetings.com,,files blocked (403)
 parker,Parker,town,Douglas,58512,http://www.parkeronline.org/,https://parkerco.portal.civicclerk.com,civicclerk,civicclerk,tenant=parkerco,15+,found
 eagle-county,Eagle County,county,Eagle,55731,https://www.eaglecounty.us,http://reflect-vod-eaglecounty.cablecast.tv/CablecastPublicSite/?channel=1,cablecast,cablecast,,,found
 la-plata-county,La Plata County,county,La Plata,55638,http://co.laplata.co.us,https://laplatacountyco.iqm2.com,iqm2,,,,found
@@ -36,7 +36,7 @@ littleton,Littleton,city,Arapahoe,45652,http://www.littletonco.gov/,https://www.
 montrose-county,Montrose County,county,Montrose,42679,http://www.montrosecounty.net,https://montrosecounty.granicus.com/ViewPublisher.php?view_id=2,granicus,granicus,host=montrosecounty.granicus.com view_id=2,,found
 brighton,Brighton,city,Adams,40083,http://www.brightonco.gov/,https://brightonco.legistar.com/Calendar.aspx,legistar,legistar,client=brightonco,12,found
 northglenn,Northglenn,city,Adams,38131,http://www.northglenn.org/,https://webdocs.northglenn.org/,own site (PDF links),linkscan,url=https://webdocs.northglenn.org/,,found
-englewood,Englewood,city,Arapahoe,33659,https://www.englewoodco.gov/,https://www.townofenglewood.com/mayor_board/minutes_agendas/agendas/index.html,own site (PDF links),linkscan,url=https://www.townofenglewood.com/mayor_board/minutes_agendas/agendas/index.html,,found
+englewood,Englewood,city,Arapahoe,33659,https://www.englewoodco.gov/,,,,url=https://www.townofenglewood.com/mayor_board/minutes_agendas/agendas/index.html,,site refused (403)
 windsor,Windsor,town,Weld,32716,http://www.windsorgov.com/,https://windsorco.portal.civicclerk.com,civicclerk,civicclerk,tenant=windsorco,15+,found
 wheat-ridge,Wheat Ridge,city,Jefferson,32398,http://www.ci.wheatridge.co.us/,,,,,,site refused (403)
 delta-county,Delta County,county,Delta,31196,https://www.deltacountyco.com,,,,,,no meeting records found

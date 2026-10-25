@@ -244,6 +244,8 @@ def primegov(src, start, end, log):
         n += 1
         docs = [x for x in m.get("documentList") or [] if re.search(r"minute|agenda", x.get("templateName", ""), re.I)
                 and not re.search(r"packet", x.get("templateName", ""), re.I)]
+        # Some portals (Westminster) publish only packets; a packet then stands in for the agenda.
+        docs = docs or [x for x in m.get("documentList") or [] if re.search(r"packet", x.get("templateName", ""), re.I)]
         minutes = [x for x in docs if re.search(r"minute", x["templateName"], re.I)]
         # compileOutputType 1 is a PDF; 3 is an HTML agenda, which only renders on the portal page.
         for x in sorted(minutes or docs, key=lambda x: x.get("compileOutputType") != 1)[:1]:

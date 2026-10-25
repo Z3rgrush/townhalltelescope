@@ -117,11 +117,6 @@
   county: Arapahoe
   adapter: legistar
   client: arapahoe
-- id: jefferson-county
-  name: Jefferson County
-  county: Jefferson
-  adapter: escribe
-  base: https://pub-jeffco.escribemeetings.com
 - id: adams-county
   name: Adams County
   county: Adams
@@ -187,11 +182,6 @@
   county: Mesa
   adapter: civicclerk
   tenant: grandjunctionco
-- id: garfield-county
-  name: Garfield County
-  county: Garfield
-  adapter: escribe
-  base: https://pub-garfield.escribemeetings.com
 - id: parker
   name: Parker
   county: Douglas
@@ -220,12 +210,6 @@
   adapter: linkscan
   pages:
   - https://webdocs.northglenn.org/
-- id: englewood
-  name: Englewood
-  county: Arapahoe
-  adapter: linkscan
-  pages:
-  - https://www.townofenglewood.com/mayor_board/minutes_agendas/agendas/index.html
 - id: windsor
   name: Windsor
   county: Weld
@@ -234,9 +218,9 @@
 - id: summit-county
   name: Summit County
   county: Summit
-  adapter: linkscan
-  pages:
-  - https://www.summitcountyco.gov/services/community_development/open_space_trails/open_space_advisory_council.php
+  # CivicWeb under its new Diligent name.
+  adapter: civicweb
+  base: https://summitcountyco.community.diligentoneplatform.com
 - id: fountain
   name: Fountain
   county: El Paso
@@ -248,7 +232,7 @@
   county: Morgan
   adapter: linkscan
   pages:
-  - https://morgancounty.colorado.gov/2025-agendas-and-minutes
+  - https://morgancounty.colorado.gov/elected-officials/commissioners/2026-agendas-and-minutes
 - id: montezuma-county
   name: Montezuma County
   county: Montezuma
@@ -268,8 +252,9 @@
 - id: evans
   name: Evans
   county: Weld
-  adapter: primegov
-  tenant: evanscolorado
+  adapter: linkscan
+  pages:
+  - https://www.evanscolorado.gov/your-government/city-council/agendas-and-minutes/
 - id: golden
   name: Golden
   county: Jefferson
