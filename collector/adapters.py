@@ -377,7 +377,7 @@ def _granicus_s3(url):
     if m:
         kind = {"1": "agenda", "2": "minutes", "3": "summary"}[m.group(3)]
         return f"{m.group(1)}/Documents/ViewAgenda?meetingId={m.group(2)}&type={kind}&doctype={m.group(3)}"
-    return loc or url
+    return urljoin(url, loc) if loc else url
 
 
 def granicus(src, start, end, log):
