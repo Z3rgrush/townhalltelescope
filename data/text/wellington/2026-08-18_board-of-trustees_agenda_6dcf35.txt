@@ -1,0 +1,212 @@
+ 
+8225 3rd Street | PO Box 127 | Wellington, CO 80549 | WellingtonColorado.gov 
+ 
+ 
+ BOARD OF TRUSTEES 
+August 18, 2026 
+6:30 PM 
+ 
+Leeper Center, 3800 Wilson Avenue, Wellington, CO 
+ 
+Work Session Agenda 
+  
+The Zoom information below is for online viewing and listening only. 
+ 
+Please click the link below to join the webinar: 
+ https://us06web.zoom.us/j/84871162393?pwd=UkVaaDE4RmhJaERnallEK1hvNHJ5Zz09 
+Or One tap mobile : 
+     US: +17207072699,,84871162393#  or +17193594580,84871162393# 
+ Webinar ID: 848 7116 2393 
+Passcode: 726078 
+ 
+ 
+ 
+A. ITEMS 
+     
+1. Larimer County Sheriff's Office Presentation  
+• Presentation: Sheriff John Feyen 
+      
+ 
+The Town of Wellington will make reasonable accommodations for access to Town services, programs, and activities and special communication arrangements 
+Individuals needing special accommodation may request assistance by contacting at Town Hall or at 970-568-3380 ext. 110 at least 24 hours in advance. 
+Page 1 of 14
+ 
+ 
+Board of Trustees Meeting 
+ 
+    
+Date: August 18, 2026 
+Subject: Larimer County Sheriff's Office Presentation  
+• Presentation: Sheriff John Feyen 
+ 
+BACKGROUND / DISCUSSION 
+A Flock camera is an automated license plate reader system that can be used by law enforcement to track 
+vehicle movements, capture license plates, and log vehicle characteristics. 
+ 
+The motion-activated, pole-mounted cameras take photos of passing vehicles, recording the license plate, make, 
+model, color and unique features like bumper stickers or roof racks. Information captured by flock cameras is 
+uploaded instantly to a centralized cloud network, flagging vehicles linked to active Amber Alerts, warrants, or 
+stolen vehicle databases, and allowing police forces to share and search data across different jurisdictions. 
+ 
+While rules vary at different agencies, Flock cameras are designed to temporarily hold collected data and delete 
+it after a predetermined period of time has passed. 
+ 
+Wellington program 
+The Larimer County Sheriff's Office (LCSO) started using Flock cameras in Wellington in late 2022 at three 
+locations. Since then, the program has expanded to include cameras at 6 locations: 
+• Highway 1/County Road 9 
+• Interstate 25 Frontage Road/Jefferson Avenue 
+• Cleveland Ave/westbound I25 (just past the ramps) 
+• 6th Street/Cleveland Avenue southbound 
+• 6th Street/Cleveland Avenue northbound 
+• County Road 7/County Road 64 
+ 
+Since the start of the Flock camera program in Wellington, members of LCSO have presented to the Wellington 
+Board of Trustees two times regarding the program's impact on the community: 
+o April 18, 2023 BOT work session 
+o May 14, 2024 BOT meeting 
+Cost 
+Until this year (2026), the Flock camera program was in a testing phase meaning there was no cost to the 
+Town.  
+ 
+During the 2026 budget process, LCSO advised Town staff that it had applied for grant funding to partially 
+offset the cost of the Flock camera program in Wellington. LCSO was ultimately not awarded the grant, and the 
+Town's first-quarter 2026 invoice included a $17,000 charge for the program. 
+ 
+To ensure the Town was prepared if grant funding was not received, $17,000 was included as a separate line 
+Page 2 of 14
+ 
+item in the 2026 LCSO budget. 
+ 
+Because the program represents an ongoing cost, its continued use and funding will be evaluated as part of the 
+2027 budget process. 
+  
+STAFF RECOMMENDATION 
+For Board of Trustee discussion. 
+ 
+ATTACHMENTS 
+1. Presentation  
+ 
+Page 3 of 14
+ALPR Technology Briefing
+Automated License Plate Reading in Wellington & Larimer County: Balancing 
+Public Safety, Constitutional Rights & Data Privacy
+Page 4 of 14
+1976
+ALPR technology 
+invented in the UK, 
+evolving globally over 
+decades for crime 
+prevention.
+2022
+LCSO signs first ALPR 
+Contract
+2024
+First ALPR units 
+installed in Wellington 
+area to protect local 
+thoroughfares.
+2026
+Current 2-year 
+contract entering final 
+6 months.
+Deployment 
+Timeline
+Page 5 of 14
+Point-in-Time Snapshot: Records an objective 
+image of a vehicle passing a specific camera point 
+at an exact date and time.
+Vehicle Identification: Captures clear images of 
+the rear vehicle exterior, license plate number, 
+color, and unique features.
+Investigative Lead Tool: Acts as a digital witness 
+for law enforcement after a crime has been 
+reported in the area.
+What ALPR Technology Is
+Page 6 of 14
+No Route Tracking
+The system does NOT track live 
+continuous vehicle movements 
+or map out your driving route 
+across town.
+No Destination Data
+It does NOT capture where a 
+driver started, where they 
+are going, or record 
+origin/destination points.
+No Facial Recognition
+It does NOT take pictures of 
+the driver or passengers 
+inside the vehicle. 
+What ALPR Does Not Do
+Page 7 of 14
+Strict Retention Limit: All data is automatically and permanently purged after 30 days unless flagged 
+for active criminal evidence.
+49
+Countywide Cameras
+6 Deployed in 
+Wellington 
+723K+
+Unique Vehicles
+721
+Official Searches
+Targeted criminal 
+investigations
+7,073
+Hotlist Alerts
+CCIC, NCIC, AMBER & 
+CBI hits
+30-Day Operational Snapshot
+Page 8 of 14
+80+ Colorado Agencies
+Shared with verified state law enforcement partners (e.g. Loveland, Berthoud, CSP) for cross-jurisdictional crime fighting.
+600+ National Agencies
+Connected with out-of-state law enforcement for severe cases like multi-state kidnappings and AMBER Alerts.
+0 Federal Agencies
+LCSO shares ZERO ALPR data with federal law enforcement agencies.
+Agency Data Sharing Network
+Page 9 of 14
+Strictly Prohibited UsesAuthorized Law Enforcement Uses
+Immigration Enforcement: Prohibited under state law 
+and department policy.
+Crime Prevention: Stolen vehicle recovery, active crime 
+deterrence.
+Reproductive Rights: Tracking individuals seeking 
+healthcare is explicitly banned.
+Criminal Investigations: Homicide, burglary, assault, 
+robbery leads.
+Personal / Non-Official Use: Misuse results in 
+immediate termination and prosecution.
+Emergency Alerts: AMBER Alerts, Silver Alerts, CBI 
+Endangered Person hits.
+Public Access / Data Sales: System data is non-public 
+and barred from commercial sale.
+Warranted Arrests:Locating fugitives with active 
+CCIC/NCIC felony warrants.
+Authorized & Prohibited Uses
+Page 10 of 14
+Contractual Ownership (§4.1): LCSO 
+exclusively owns all data. Vendor is legally 
+prohibited from owning or selling customer 
+data.
+Mandatory Human Verification: Officers 
+must visually verify license plates before 
+taking action—preventing errors from 
+misreads.
+Policy & Bi-Weekly Usage Audits: Audits 
+occur every 2 weeks to log officer IDs, case 
+numbers, and search justifications.
+Data Privacy Safeguards
+Page 11 of 14
+US v. Knotts (1983)
+Establishes no expectation of privacy in movements on public thoroughfares observable to the eye.
+Jones & Carpenter
+Barred continuous 24/7 long-term GPS/Cell tracking without a warrant ("Mosaic Theory").
+Chatrie v. US (2026)
+Reinforces key legal distinction between continuous tracking vs. discrete, fixed public road snapshots.
+Constitutional Framework
+Page 12 of 14
+Solving Crimes & Saving Lives
+Page 13 of 14
+Questions & Discussion
+Page 14 of 14

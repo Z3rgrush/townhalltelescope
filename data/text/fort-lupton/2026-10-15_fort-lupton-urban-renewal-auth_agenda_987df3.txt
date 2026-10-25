@@ -1,0 +1,817 @@
+ 
+ 
+ 
+Gary Montoya, Chair                            Kathleen Kvasnicka, Vice-Chair 
+Claud Hanes, Secretary                                Eugene Reynolds, Treasurer 
+Lynette Peppler 
+Dez Packard 
+Mark Grajeda 
+ 
+ 
+ 
+ 
+AGENDA 
+FORT LUPTON URBAN RENEWAL AUTHORITY 
+REGULAR MEETING 
+130 South McKinley Avenue 
+Thursday, October 15, 2026 
+6:00 PM 
+ 
+  
+Call to Order  
+Approval of Agenda  
+Consent Agenda - Consent Agenda items are considered to be routine and will be enacted by one motion and vote. 
+There will be no separate discussion of Consent Agenda items unless a Councilmember so requests, in which case the item 
+may be removed/moved from the Consent Agenda.  
+a. M07162026 FLURA MINUTES 
+Public Comment This portion of the Agenda is provided to allow members of the audience to present comments to the 
+Board. The Board may not respond to your comments this evening, rather they may take your comments and suggestions 
+under advisement or your question may be directed to the appropriate staff member for follow-up. 
+Accounts Payable  
+a. September 2026 FLURA Financials 
+Action Item(s)  
+New Business  
+a. 2027 Draft Budget 
+Old Business  
+a. DCI Read-Out 
+Board Reports  
+Adjourn  
+ 
+  
+Page 1 of 22
+ 
+ 
+ 
+Please join my meeting from your computer, tablet or smartphone. 
+https://meet.goto.com/977393597 
+ 
+You can also dial in using your phone. 
+Access Code: 977-393-597 
+United States: +1 (571) 317-3112 
+ 
+Get the app now and be ready when your first meeting starts: 
+https://meet.goto.com/install 
+ 
+ 
+If you would like to participate remotely, we encourage you to test the phone number and links provided above prior 
+to the start of the meeting, as each device requires initial adjustment. It is also recommended to log into the meeting 
+early, and if you encounter any issues to call 303-990-4270 or email PlanningDept@fortluptonco.gov immediately.  
+ 
+When calling in, please be sure to mute your microphone on your computer, phone or tablet. Planning staff and/or the 
+Chairman will provide instructions on when and how comments can be made by the public virtually.  
+ 
+Page 2 of 22
+RECORD OF PROCEEDINGS 
+FORT LUPTON URBAN RENEWAL AUTHORITY  
+July 16,2026 
+ 
+Call to Order 
+Chairman Gary Montoya called the meeting to order at 6:01 PM  
+Roll Call 
+In attendance were Gary Montoya, Claud Hanes, Kathleen Kvasnicka, Lynette Peppler, 
+Eugene Reynolds, Dez Packard, Chris Cross, Roy Vestal, Michelle Magelssen, and Zachary 
+Mettler; absent was Mark Grajeda.   
+Approval of Agenda 
+The agenda was approved with a motion from Kathy and seconded by Dez; unanimous. 
+Consent Agenda 
+The Minutes were approved by a motion from Dez and seconded by Kathy; unanimous. 
+Accounts Payable 
+Accounts payable include payment to El Rey for $18,000 for progress to date. 
+Action Items 
+1. El Rey Del Taco requested a grant extension for six months to complete the project. 
+A motion from Lynette and seconded by Dez, unanimous. 
+2. Resolution #2026URA002 to fund 50% reimbursement to the City of Fort Lupton for 
+survey and engineering.  The total cost of the project is %86,820 with FLURA paying 
+½.  Motion by Lynette, and seconded by Kathy, unanimous. 
+New Business 
+1. Michelle and Zachary said that the August meeting would be cancelled due to DCI 
+having a workshop at the RE8 administration conference room. They will be doing 
+URA 101 training and touring potential sites in the city including Otteson mill.  Jim 
+Heid will be there who was the broker for the Windsor Mill project.  
+Board Reports 
+1. Lynette said that Friday night Greeley and Weld County was having a “Back to the 
+Future” festival. 
+2. Kathy said the Historic committee was working with the Odd Fellows to do 
+windows. 
+3. Gary will be attending public meetings for Brighton and they are doing xeriscape 
+project on 85 and 7. 
+4. Claud talked about the groundbreaking for Koshio Park. 
+5. Dez said she is doing CDE training for the school and that National Night Out would 
+be done in the school area since Koshio Park is being renovated. 
+Page 3 of 22
+RECORD OF PROCEEDINGS 
+FORT LUPTON URBAN RENEWAL AUTHORITY  
+July 16,2026 
+ 
+ 
+Staff Reports 
+1. Zachary said the comprehensive plan would be to come to FLURA for input. 
+2. Chris Cross indicated that the ribbon cutting for the new City Hall would be in 
+October and that every effort was made to Colorado scape the landscape there. 
+3. Roy said the next transportation meeting will be next Wednesday with a focus on 
+Union Pacific. 
+Adjournment 
+Gary adjourned the meeting at approximately 6:26 
+Submitted by:  
+ 
+        
+Claud Hanes, Secretary 
+Approved by Fort Lupton Urban Renewal Authority 
+ 
+        
+Gary Montoya, Chairperson 
+ 
+Page 4 of 22
+    PRELIMINARY FINANCIAL STATEMENTS
+For the Month 
+Ended 
+September 30, 
+2026
+Page 5 of 22
+10/8/2026 4:58:56 PM Page 1 of 1
+FLURA Balance Sheet
+City of Fort Lupton Account Summary
+As Of 09/30/2026
+Account Name
+Current Year
+Balance
+Prior Year
+Balance
+Variance
+Favorable /
+(Unfavorable)
+Fund: 820 - FLURA
+Assets
+BalCategory: 10 - Current Assets
+BalSubCategory: 100 - Cash And Cash Equivalents
+820-100300 CASH - FLURA 933,929.64401,179.17 532,750.47
+Total BalSubCategory 100 - Cash And Cash Equivalents: 933,929.64401,179.17 532,750.47
+BalSubCategory: 102 - Restricted Cash
+820-103122 INVESTMENTS - COLO TRUST 8022 1,097,240.131,203,113.55 -105,873.42
+Total BalSubCategory 102 - Restricted Cash: 1,097,240.131,203,113.55 -105,873.42
+BalSubCategory: 113 - Property Tax Receivable
+820-110250 PROPERTY TAX RECEIVABLE 452,121.86840,592.48 -388,470.62
+Total BalSubCategory 113 - Property Tax Receivable: 452,121.86840,592.48 -388,470.62
+Total BalCategory 10 - Current Assets: 2,483,291.632,444,885.20 38,406.43
+2,483,291.63Total Assets: 2,444,885.20 38,406.43
+Liability
+BalCategory: 30 - Current Liabilities
+BalSubCategory: 201 - Accounts Payable
+820-201000 ACCOUNTS PAYABLE 33.380.00 -33.38
+Total BalSubCategory 201 - Accounts Payable: 33.380.00 -33.38
+Total BalCategory 30 - Current Liabilities: 33.380.00 -33.38
+BalCategory: 45 - Deferred Inflow of Resources
+BalSubCategory: 240 - Deferred Inflow of Resources
+820-202250 DEFERRED PROPERTY TAX 452,121.86840,592.48 388,470.62
+Total BalSubCategory 240 - Deferred Inflow of Resources: 452,121.86840,592.48 388,470.62
+Total BalCategory 45 - Deferred Inflow of Resources: 452,121.86840,592.48 388,470.62
+452,155.24Total Liability: 840,592.48 388,437.24
+Equity
+BalCategory: 40 - Fund Balance / Equity
+BalSubCategory: 310 - Unrestricted Reserve
+820-310000 FUND BALANCE 1,412,145.94821,407.70 590,738.24
+Total BalSubCategory 310 - Unrestricted Reserve: 1,412,145.94821,407.70 590,738.24
+BalSubCategory: 316 - Emergency Reserves
+820-310210 RESTRICTED - TABOR RESERVE 10,862.6310,862.63 0.00
+Total BalSubCategory 316 - Emergency Reserves: 10,862.6310,862.63 0.00
+Total BalCategory 40 - Fund Balance / Equity: 1,423,008.57832,270.33 590,738.24
+1,423,008.57Total Beginning Equity: 832,270.33 590,738.24
+821,977.58Total Revenue 803,986.92 17,990.66
+213,849.76Total Expense 31,964.53 -181,885.23
+608,127.82Revenues Over/(Under) Expenses 772,022.39 -163,894.57
+Total Liabilities, Equity and Current Surplus (Deficit): 2,483,291.63
+2,031,136.39Total Equity and Current Surplus (Deficit): 1,604,292.72
+2,444,885.20
+426,843.67
+38,406.43
+Page 6 of 22
+10/8/2026 5:10:32 PM Page 1 of 4
+FLURA Detail Report
+City of Fort Lupton Account Detail
+Date Range: 09/01/2026 - 09/30/2026
+Account Name Beginning Balance Ending BalanceTotal Debits Total CreditsTotal Activity
+820-100300 CASH - FLURA 1,099,311.33 -165,381.69 933,929.6423,621.21 189,002.90
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+CITY OF FORT LUPTON09/01/2026 000240 - CITY OF FORT LUPTON10203APPKT07356 2,116.00 1,097,195.33
+Weld County TIF Increment & Treasurer Fees
+Rec'd in September
+09/10/2026 23,441.10JN20146GLPKT42368 1,120,636.43
+AIMS COMMUNITY COLLEGE09/22/2026 002610 - AIMS COMMUNITY COLLEGE10204APPKT07405 26,091.28 1,094,545.15
+CITY OF FORT LUPTON09/22/2026 000240 - CITY OF FORT LUPTON10205APPKT07405 64,020.14 1,030,525.01
+FORT LUPTON FIRE PROTECTION DISTRICT09/22/2026 001879 - FORT LUPTON FIRE PROTECTION DISTRICT10206APPKT07405 13,524.13 1,017,000.88
+VINCENT VILLAGE LLC09/22/2026 002790 - VINCENT VILLAGE LLC10207APPKT07405 16,310.68 1,000,690.20
+WELD COUNTY GOVERNMENT09/22/2026 001880 - WELD COUNTY GOVERNMENT10208APPKT07405 65,945.27 934,744.93
+CITY OF FORT LUPTON09/29/2026 000240 - CITY OF FORT LUPTON10209APPKT07420 995.40 933,749.53
+09/30/26 FLURA Bank of Colorado Interest
+Earned
+09/30/2026 180.11JN20180GLPKT42495 933,929.64
+820-103122 INVESTMENTS - COLO TRUST 8022 1,093,737.24 3,502.89 1,097,240.137,005.74 3,502.85
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+09/2026 ColoTrust FLURA Interest Earned09/30/2026 3,502.85JN20188GLPKT42520 1,097,240.09
+Reclass JN20188 ColoTrust FLURA Interest
+Earned - Wrong Amt
+09/30/2026 JN20189GLPKT42521 3,502.85 1,093,737.24
+09/2026 ColoTrust FLURA Interest Earned09/30/2026 3,502.89JN20190GLPKT42522 1,097,240.13
+820-201000 ACCOUNTS PAYABLE -2,116.00 2,082.62 -33.38189,002.90 186,920.28
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+CITY OF FORT LUPTON PBL09/01/2026 2,116.00000240 - CITY OF FORT LUPTON10203APPKT07356 0.00
+FLURA-09/14/2026 002790 - VINCENT VILLAGE LLC091426APPKT07396 16,310.68 -16,310.68
+Payment Number: 10207
+Page 7 of 22
+FLURA Detail Report Date Range: 09/01/2026 - 09/30/2026
+10/8/2026 5:10:32 PM Page 2 of 4
+Account Name Beginning Balance Ending BalanceTotal Debits Total CreditsTotal Activity
+820-201000 ACCOUNTS PAYABLE  -  Continued -2,116.00 2,082.62 -33.38189,002.90 186,920.28
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+FLURA-REIMBURSE WELD TIF VINCENTS END09/14/2026 002610 - AIMS COMMUNITY COLLEGE091426APPKT07396 26,091.28 -42,401.96
+Payment Number: 10204
+FLURA-REIMBURSE WELD TIF VINCENTS EAST
+ADD
+09/14/2026 001880 - WELD COUNTY GOVERNMENT091426APPKT07396 65,945.27 -108,347.23
+Payment Number: 10208
+FLURA-REIMBURSE REC CENTER TIFF 100%09/14/2026 000240 - CITY OF FORT LUPTON2026 TIFAPPKT07396 64,020.14 -172,367.37
+Payment Number: 10205
+FLURA-REIMBURSE FLFPD TIF 50% VINCENTS
+END
+09/16/2026 001879 - FORT LUPTON FIRE PROTECTION DISTRICT091426APPKT07396 13,524.13 -185,891.50
+Payment Number: 10206
+FLURA-REIMBURSE CITY FOR CORE
+CONSULTANTS
+09/21/2026 000240 - CITY OF FORT LUPTONFIN20261262APPKT07414 995.40 -186,886.90
+Payment Number: 10209
+AIMS COMMUNITY COLLEGE PBL09/22/2026 26,091.28002610 - AIMS COMMUNITY COLLEGE10204APPKT07405 -160,795.62
+CITY OF FORT LUPTON PBL09/22/2026 64,020.14000240 - CITY OF FORT LUPTON10205APPKT07405 -96,775.48
+FORT LUPTON FIRE PROTECTION DISTRIC…09/22/2026 13,524.13001879 - FORT LUPTON FIRE PROTECTION DISTRICT10206APPKT07405 -83,251.35
+VINCENT VILLAGE LLC PBL09/22/2026 16,310.68002790 - VINCENT VILLAGE LLC10207APPKT07405 -66,940.67
+WELD COUNTY GOVERNMENT PBL09/22/2026 65,945.27001880 - WELD COUNTY GOVERNMENT10208APPKT07405 -995.40
+FLURA-FLURA BUDGET NOTICE-09/23/2026 004190 - COLORADO TRUST FOR LOCAL NEWS, LLCSREIUSAC-0012APPKT07427 33.38 -1,028.78
+Payment Number: 10210
+CITY OF FORT LUPTON PBL09/29/2026 995.40000240 - CITY OF FORT LUPTON10209APPKT07420 -33.38
+820-9100-311010 TIF INCREMENT -976,681.42 -23,798.00 -1,000,479.420.00 23,798.00
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+Weld County TIF Increment & Treasurer Fees
+Rec'd in September
+09/10/2026 JN20146GLPKT42368 23,798.00 -1,000,479.42
+820-9100-311011 TIF INCREMENT REFUND 25,147.84 185,891.50 211,039.34185,891.50 0.00
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+FLURA-09/14/2026 16,310.68002790 - VINCENT VILLAGE LLC091426APPKT07396 41,458.52
+Payment Number: 10207
+Page 8 of 22
+FLURA Detail Report Date Range: 09/01/2026 - 09/30/2026
+10/8/2026 5:10:32 PM Page 3 of 4
+Account Name Beginning Balance Ending BalanceTotal Debits Total CreditsTotal Activity
+820-9100-311011 TIF INCREMENT REFUND  -  Continued 25,147.84 185,891.50 211,039.34185,891.50 0.00
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+FLURA-REIMBURSE WELD TIF VINCENTS END09/14/2026 26,091.28002610 - AIMS COMMUNITY COLLEGE091426APPKT07396 67,549.80
+Payment Number: 10204
+FLURA-REIMBURSE WELD TIF VINCENTS EAST
+ADD
+09/14/2026 65,945.27001880 - WELD COUNTY GOVERNMENT091426APPKT07396 133,495.07
+Payment Number: 10208
+FLURA-REIMBURSE REC CENTER TIFF 100%09/14/2026 64,020.14000240 - CITY OF FORT LUPTON2026 TIFAPPKT07396 197,515.21
+Payment Number: 10205
+FLURA-REIMBURSE FLFPD TIF 50% VINCENTS
+END
+09/16/2026 13,524.13001879 - FORT LUPTON FIRE PROTECTION DISTRICT091426APPKT07396 211,039.34
+Payment Number: 10206
+820-9100-361600 INTEREST EARNED -28,854.50 -3,683.00 -32,537.503,502.85 7,185.85
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+09/30/26 FLURA Bank of Colorado Interest
+Earned
+09/30/2026 JN20180GLPKT42495 180.11 -29,034.61
+09/2026 ColoTrust FLURA Interest Earned09/30/2026 JN20188GLPKT42520 3,502.85 -32,537.46
+Reclass JN20188 ColoTrust FLURA Interest
+Earned - Wrong Amt
+09/30/2026 3,502.85JN20189GLPKT42521 -29,034.61
+09/2026 ColoTrust FLURA Interest Earned09/30/2026 JN20190GLPKT42522 3,502.89 -32,537.50
+820-9100-530600 CONTRACTUAL SERVICES 10,133.00 995.40 11,128.40995.40 0.00
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+FLURA-REIMBURSE CITY FOR CORE
+CONSULTANTS
+09/21/2026 995.40000240 - CITY OF FORT LUPTONFIN20261262APPKT07414 11,128.40
+Payment Number: 10209
+820-9100-553500 MISC EXPENDITURES 14,659.41 390.28 15,049.69390.28 0.00
+Post Date Description DebitsVendorSource TransactionPacket Number Credits Running Balance
+Weld County TIF Increment & Treasurer Fees
+Rec'd in September
+09/10/2026 356.90JN20146GLPKT42368 15,016.31
+FLURA-FLURA BUDGET NOTICE-09/23/2026 33.38004190 - COLORADO TRUST FOR LOCAL NEWS, LLCSREIUSAC-0012APPKT07427 15,049.69
+Payment Number: 10210
+Grand Totals: 1,235,336.90 1,235,336.900.00 410,409.88 410,409.88
+Page 9 of 22
+FLURA Detail Report Date Range: 09/01/2026 - 09/30/2026
+10/8/2026 5:10:32 PM Page 4 of 4
+Fund Summary
+Fund Beginning Balance Ending BalanceTotal Debits Total CreditsTotal Activity
+820 - FLURA 1,235,336.90 1,235,336.900.00 410,409.88 410,409.88
+Grand Total: 1,235,336.90 1,235,336.900.00 410,409.88 410,409.88
+Page 10 of 22
+Budget Notes
+Budget Code SubjectDescription
+REQUESTED ItemsClub Prophet - 9000
+Priswing - 4400
+Golf Genius - 4000
+When I work - 2040
+10/8/2026 5:11:41 PM Page 1 of 4
+FLURA Budget Comparison Report
+City of Fort Lupton Account Detail
+2024
+Total Activity
+2025
+Total Activity
+Account Number
+2026
+YTD Activity
+Through Sep
+2026 2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget %
+2027
+APPROVED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget %
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+Revenue
+531,549.77 819,186.47 1,000,479.42 977,957.000.00 977,957.00 0.00% 1,119,093.00 141,136.00 14.43%TIF INCREMENT820-9100-311010
+-171,171.75 -196,826.85 -211,039.34 -250,960.000.00 -250,960.00 0.00% -234,535.00 16,425.00 -6.54%TIF INCREMENT REFUND820-9100-311011
+1,709.65 17,636.97 32,537.50 1,500.000.00 1,500.00 0.00% 36,000.00 34,500.00 2,300.00%INTEREST EARNED820-9100-361600
+0.00 0.00 0.00 24,099.000.00 24,099.00 0.00% 21,855.00 -2,244.00 -9.31%TABOR RESERVE820-9100-390200
+0.00 0.00 0.00 1,866,864.000.00 1,866,864.00 0.00% 1,704,805.00 -162,059.00 -8.68%UNAPPROPRIATED RESERVES820-9100-390400
+Total Revenue: 2,619,460.00821,977.58 0.00 2,619,460.00 0.00% 2,647,218.00 27,758.00 1.06%639,996.59362,087.67
+Expense
+155.13 0.00 0.00 500.000.00 500.00 0.00% 500.00 0.00 0.00%GENERAL SUPPLIES820-9100-520100
+51.12 25,652.26 11,128.40 125,000.000.00 125,000.00 0.00% 150,000.00 25,000.00 20.00%CONTRACTUAL SERVICES820-9100-530600
+2,034.38 1,000.00 0.00 2,000.000.00 2,000.00 0.00% 2,000.00 0.00 0.00%DUES & SUBSCRIPTIONS820-9100-530800
+0.00 0.00 0.00 0.000.00 0.00 0.00% 30,000.00 30,000.00 0.00%EQUIPMENT < $25,000820-9100-531050
+150.00 0.00 0.00 15,000.000.00 15,000.00 0.00% 25,000.00 10,000.00 66.67%LEGAL FEES820-9100-531200
+0.00 0.00 0.00 30,000.000.00 30,000.00 0.00% 30,000.00 0.00 0.00%PLANS & STUDIES820-9100-531600
+2.07 0.00 0.00 800.000.00 800.00 0.00% 1,000.00 200.00 25.00%POSTAGE820-9100-531800
+435.00 0.00 0.00 5,000.000.00 5,000.00 0.00% 5,000.00 0.00 0.00%STAFF DEVELOPMENT820-9100-532800
+3,025.17 0.00 536.00 2,500.000.00 2,500.00 0.00% 5,000.00 2,500.00 100.00%TRAVEL & MEETINGS820-9100-533000
+52,474.49 10,164.07 187,135.67 450,000.000.00 450,000.00 0.00% 450,000.00 0.00 0.00%GRANTS - TIF820-9100-551850
+Budget Notes
+Budget Code Subject Description
+APPROVED $100,000 2026 Grant Fund Carry-over
+APPROVED $300,000 Building Renovation Grant Funds
+APPROVED $50,000 Economic Development Opportunities
+6,180.61 12,442.02 15,049.69 12,000.000.00 12,000.00 0.00% 20,000.00 8,000.00 66.67%MISC EXPENDITURES820-9100-553500
+0.00 0.00 0.00 250,000.000.00 250,000.00 0.00% 650,000.00 400,000.00 160.00%CAPITAL PROJECTS820-9100-575000
+Budget Notes
+Budget Code Subject Description
+APPROVED $250,000 1st Street sidewalk project with CDOT
+APPROVED $350,000 Downtown street improvements
+APPROVED $50,000 Contingency
+20,000.00 0.00 0.00 0.000.00 0.00 0.00% 0.00 0.00 0.00%GENERAL FUND (CITY) LOAN820-9100-580450
+Page 11 of 22
+Budget Notes
+Budget Code SubjectDescription
+FLURA Budget Comparison Report
+10/8/2026 5:11:41 PM Page 2 of 4
+2024
+Total Activity
+2025
+Total Activity
+Account Number
+2026
+YTD Activity
+Through Sep
+2026 2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget %
+2027
+APPROVED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget %
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+0.00 0.00 0.00 21,855.000.00 21,855.00 0.00% 26,537.00 4,682.00 21.42%TABOR RESERVE820-9100-590200
+Total Expense: 914,655.00213,849.76 0.00 914,655.00 0.00% 1,395,037.00 480,382.00 52.52%49,258.3584,507.97
+Report Total: 0.00% -26.55%1,704,805.00608,127.82 0.00 1,704,805.00 1,252,181.00 -452,624.00590,738.24277,579.70
+Page 12 of 22
+FLURA Budget Comparison Report
+10/8/2026 5:11:41 PM Page 3 of 4
+Group Summary
+Account Typ…
+2024
+Total Activity
+2025
+Total Activity
+2026
+YTD Activity
+Through Sep
+2026 2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget
+%
+2027
+APPROVED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget
+%
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+Revenue 2,619,460.000.00 2,619,460.00 0.00% 2,647,218.00 27,758.00 1.06%821,977.58639,996.59362,087.67
+Expense 914,655.000.00 914,655.00 0.00% 1,395,037.00 480,382.00 52.52%213,849.7649,258.3584,507.97
+Report Total: 0.00% -26.55%1,704,805.00608,127.82 0.00 1,704,805.00 1,252,181.00 -452,624.00590,738.24277,579.70
+Page 13 of 22
+FLURA Budget Comparison Report
+10/8/2026 5:11:41 PM Page 4 of 4
+Fund Summary
+Fund
+2024
+Total Activity
+2025
+Total Activity
+2026
+YTD Activity
+Through Sep
+2026 2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget %
+2027
+APPROVED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget %
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+820 - FLURA 1,704,805.00608,127.82 0.00 1,704,805.00 0.00% 1,252,181.00 -452,624.00 -26.55%590,738.24277,579.70
+Report Total: 0.00% -26.55%1,704,805.00608,127.82 0.00 1,704,805.00 1,252,181.00 -452,624.00590,738.24277,579.70
+Page 14 of 22
+10/8/2026 5:12:37 PM Page 1 of 2
+FLURA Check Report
+City of Fort Lupton By Check Number
+Date Range: 09/01/2026 - 09/30/2026
+Vendor Number Vendor Name Payment Amount NumberPayment TypePayment Date Discount Amount
+Payable # Post Date Payable Description Payable AmountPayable Type Discount Amount
+Bank Code: FLURA-FLURA Fund
+000240 CITY OF FORT LUPTON 09/01/2026 102032,116.00Regular 0.00
+FIN20261239 Invoice 08/25/2026 FLURA-REIMBURSE CITY FOR CORE CONSU… 2,116.000.00
+002610 AIMS COMMUNITY COLLEGE 09/22/2026 1020426,091.28Regular 0.00
+091426 Invoice 09/14/2026 FLURA-REIMBURSE WELD TIF VINCENTS E… 26,091.280.00
+000240 CITY OF FORT LUPTON 09/22/2026 1020564,020.14Regular 0.00
+2026 TIF Invoice 09/14/2026 FLURA-REIMBURSE REC CENTER TIFF 100% 64,020.140.00
+001879 FORT LUPTON FIRE PROTECTION DISTRICT 09/22/2026 1020613,524.13Regular 0.00
+091426 Invoice 09/16/2026 FLURA-REIMBURSE FLFPD TIF 50% VINCEN… 13,524.130.00
+002790 VINCENT VILLAGE LLC 09/22/2026 1020716,310.68Regular 0.00
+091426 Invoice 09/14/2026 FLURA-REIMBURSE VINCENT VILLAGE TIF 16,310.680.00
+001880 WELD COUNTY GOVERNMENT 09/22/2026 1020865,945.27Regular 0.00
+091426 Invoice 09/14/2026 FLURA-REIMBURSE WELD TIF VINCENTS E… 65,945.270.00
+000240 CITY OF FORT LUPTON 09/29/2026 10209995.40Regular 0.00
+FIN20261262 Invoice 09/21/2026 FLURA-REIMBURSE CITY FOR CORE CONSU… 995.400.00
+Regular Checks
+Manual Checks
+Voided Checks
+Discount
+Payment
+CountPayment Type
+Bank Code FLURA Summary
+Bank Drafts
+EFT's
+7
+0
+0
+0
+0
+0.00
+0.00
+0.00
+0.00
+0.00
+7 0.00
+Payment
+189,002.90
+0.00
+0.00
+0.00
+0.00
+189,002.90
+Payable
+Count
+7
+0
+0
+0
+0
+7
+Page 15 of 22
+FLURA Check Report Date Range: 09/01/2026 - 09/30/2026
+Page 2 of 210/8/2026 5:12:37 PM
+All Bank Codes Check Summary
+Payment Type Discount
+Payment
+Count Payment
+Payable
+Count
+Regular Checks
+Manual Checks
+Voided Checks
+Bank Drafts
+EFT's
+7
+0
+0
+0
+0
+0.00
+0.00
+0.00
+0.00
+0.00
+7 0.00
+189,002.90
+0.00
+0.00
+0.00
+0.00
+189,002.90
+7
+0
+0
+0
+0
+7
+Fund Name AmountPeriod
+Fund Summary
+820 FLURA 189,002.909/2026
+189,002.90
+Page 16 of 22
+10/8/2026 5:13:12 PM Page 1 of 2
+FLURA Income Statement
+City of Fort Lupton Account Summary
+For Fiscal: 2026 Period Ending: 09/30/2026
+MTD Activity YTD Activity
+Budget
+Remaining
+Current
+Total Budget
+Original
+Total Budget
+Fund: 820 - FLURA
+Revenue
+23,798.00820-9100-311010 TIF INCREMENT 1,000,479.42977,957.00 977,957.00 -22,522.42
+-185,891.50820-9100-311011 TIF INCREMENT REFUND -211,039.34-250,960.00 -250,960.00 -39,920.66
+3,683.00820-9100-361600 INTEREST EARNED 32,537.501,500.00 1,500.00 -31,037.50
+0.00820-9100-380000 MISC REVENUE 0.000.00 0.00 0.00
+0.00820-9100-390100 DEBT SERVICE RESERVE 0.000.00 0.00 0.00
+0.00820-9100-390200 TABOR RESERVE 0.0024,099.00 24,099.00 24,099.00
+0.00820-9100-390400 UNAPPROPRIATED RESERVES 0.001,256,244.00 1,256,244.00 1,256,244.00
+-158,410.50 821,977.582,008,840.00 2,008,840.00 1,186,862.42Revenue Total:
+Expense
+0.00820-9100-520100 GENERAL SUPPLIES 0.00500.00 500.00 500.00
+995.40820-9100-530600 CONTRACTUAL SERVICES 11,128.40125,000.00 125,000.00 113,871.60
+0.00820-9100-530800 DUES & SUBSCRIPTIONS 0.002,000.00 2,000.00 2,000.00
+0.00820-9100-531050 EQUIPMENT < $25,000 0.000.00 0.00 0.00
+0.00820-9100-531200 LEGAL FEES 0.0015,000.00 15,000.00 15,000.00
+0.00820-9100-531600 PLANS & STUDIES 0.0030,000.00 30,000.00 30,000.00
+0.00820-9100-531800 POSTAGE 0.00800.00 800.00 800.00
+0.00820-9100-532800 STAFF DEVELOPMENT 0.005,000.00 5,000.00 5,000.00
+0.00820-9100-533000 TRAVEL & MEETINGS 536.002,500.00 2,500.00 1,964.00
+0.00820-9100-551850 GRANTS - TIF 187,135.67450,000.00 450,000.00 262,864.33
+390.28820-9100-553500 MISC EXPENDITURES 15,049.6912,000.00 12,000.00 -3,049.69
+0.00820-9100-573000 CAPITAL CONTRIBUTIONS 0.000.00 0.00 0.00
+0.00820-9100-575000 CAPITAL PROJECTS 0.00250,000.00 250,000.00 250,000.00
+0.00820-9100-580450 GENERAL FUND (CITY) LOAN 0.000.00 0.00 0.00
+0.00820-9100-590200 TABOR RESERVE 0.0021,855.00 21,855.00 21,855.00
+0.00820-9100-590400 FUND BALANCE RESERVES 0.000.00 0.00 0.00
+1,385.68 213,849.76914,655.00 914,655.00 700,805.24Expense Total:
+-159,796.18 608,127.821,094,185.00 1,094,185.00Fund: 820 - FLURA Surplus (Deficit):
+-159,796.18 608,127.82Total Surplus (Deficit): 1,094,185.001,094,185.00
+Page 17 of 22
+FLURA Income Statement For Fiscal: 2026 Period Ending: 09/30/2026
+10/8/2026 5:13:12 PM Page 2 of 2
+Fund Summary
+MTD Activity YTD Activity
+Budget
+RemainingFund
+Current
+Total Budget
+Original
+Total Budget
+820 - FLURA -159,796.18 608,127.82 486,057.181,094,185.001,094,185.00
+Total Surplus (Deficit): -159,796.18 608,127.821,094,185.001,094,185.00
+Page 18 of 22
+Budget Notes
+Budget Code SubjectDescription
+REQUESTED ItemsClub Prophet - 9000
+Priswing - 4400
+Golf Genius - 4000
+When I work - 2040
+9/9/2026 11:12:10 AM Page 1 of 4
+FLURA Budget Comparison Report
+City of Fort Lupton Account Detail
+2024
+Total Activity
+2025
+Total Activity
+Account Number
+2026
+YTD Activity
+Through Sep
+2026
+APPROVED
+2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget %
+2027
+REQUESTED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget %
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+Fund: 820 - FLURA
+Revenue
+531,549.77 819,186.47 976,681.42 977,957.00977,957.00 0.00 0.00% 1,119,093.00 141,136.00 14.43%TIF INCREMENT820-9100-311010
+-171,171.75 -196,826.85 -25,147.84 -250,960.00-250,960.00 0.00 0.00% -234,535.00 16,425.00 -6.54%TIF INCREMENT REFUND820-9100-311011
+1,709.65 17,636.97 28,854.50 1,500.001,500.00 0.00 0.00% 36,000.00 34,500.00 2,300.00%INTEREST EARNED820-9100-361600
+0.00 0.00 0.00 24,099.0024,099.00 0.00 0.00% 21,855.00 -2,244.00 -9.31%TABOR RESERVE820-9100-390200
+0.00 0.00 0.00 1,866,864.001,256,244.00 610,620.00 48.61% 1,704,805.00 -162,059.00 -8.68%UNAPPROPRIATED RESERVES820-9100-390400
+Total Revenue: 2,619,460.00980,388.08 2,008,840.00 610,620.00 30.40% 2,647,218.00 27,758.00 1.06%639,996.59362,087.67
+Expense
+155.13 0.00 0.00 500.00500.00 0.00 0.00% 500.00 0.00 0.00%GENERAL SUPPLIES820-9100-520100
+51.12 25,652.26 10,133.00 125,000.00125,000.00 0.00 0.00% 150,000.00 25,000.00 20.00%CONTRACTUAL SERVICES820-9100-530600
+2,034.38 1,000.00 0.00 2,000.002,000.00 0.00 0.00% 2,000.00 0.00 0.00%DUES & SUBSCRIPTIONS820-9100-530800
+0.00 0.00 0.00 0.000.00 0.00 0.00% 30,000.00 30,000.00 0.00%EQUIPMENT < $25,000820-9100-531050
+150.00 0.00 0.00 15,000.0015,000.00 0.00 0.00% 25,000.00 10,000.00 66.67%LEGAL FEES820-9100-531200
+0.00 0.00 0.00 30,000.0030,000.00 0.00 0.00% 30,000.00 0.00 0.00%PLANS & STUDIES820-9100-531600
+2.07 0.00 0.00 800.00800.00 0.00 0.00% 1,000.00 200.00 25.00%POSTAGE820-9100-531800
+435.00 0.00 0.00 5,000.005,000.00 0.00 0.00% 5,000.00 0.00 0.00%STAFF DEVELOPMENT820-9100-532800
+3,025.17 0.00 536.00 2,500.002,500.00 0.00 0.00% 5,000.00 2,500.00 100.00%TRAVEL & MEETINGS820-9100-533000
+52,474.49 10,164.07 187,135.67 450,000.00450,000.00 0.00 0.00% 450,000.00 0.00 0.00%GRANTS - TIF820-9100-551850
+Budget Notes
+Budget Code Subject Description
+REQUESTED $100,000 2026 Grant Fund Carry-over
+REQUESTED $300,000 Building Renovation Grant Funds
+REQUESTED $50,000 Economic Development Opportunities
+6,180.61 12,442.02 14,659.41 12,000.0012,000.00 0.00 0.00% 20,000.00 8,000.00 66.67%MISC EXPENDITURES820-9100-553500
+0.00 0.00 0.00 250,000.00250,000.00 0.00 0.00% 650,000.00 400,000.00 160.00%CAPITAL PROJECTS820-9100-575000
+Budget Notes
+Budget Code Subject Description
+REQUESTED $250,000 1st Street sidewalk project with CDOT
+REQUESTED $350,000 Downtown street improvements
+REQUESTED $50,000 Contingency
+20,000.00 0.00 0.00 0.000.00 0.00 0.00% 0.00 0.00 0.00%GENERAL FUND (CITY) LOAN820-9100-580450
+Page 19 of 22
+Budget Notes
+Budget Code SubjectDescription
+FLURA Budget Comparison Report
+9/9/2026 11:12:10 AM Page 2 of 4
+2024
+Total Activity
+2025
+Total Activity
+Account Number
+2026
+YTD Activity
+Through Sep
+2026
+APPROVED
+2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget %
+2027
+REQUESTED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget %
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+0.00 0.00 0.00 21,855.0021,855.00 0.00 0.00% 26,537.00 4,682.00 21.42%TABOR RESERVE820-9100-590200
+Total Expense: 914,655.00212,464.08 914,655.00 0.00 0.00% 1,395,037.00 480,382.00 52.52%49,258.3584,507.97
+Total Fund: 820 - FLURA: 1,704,805.00767,924.00 1,094,185.00 610,620.00 55.81% 1,252,181.00 -452,624.00 -26.55%590,738.24277,579.70
+Report Total: 55.81% -26.55%1,704,805.00767,924.00 1,094,185.00 610,620.00 1,252,181.00 -452,624.00590,738.24277,579.70
+Page 20 of 22
+FLURA Budget Comparison Report
+9/9/2026 11:12:10 AM Page 3 of 4
+Group Summary
+Account Typ…
+2024
+Total Activity
+2025
+Total Activity
+2026
+YTD Activity
+Through Sep
+2026
+APPROVED
+2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget
+%
+2027
+REQUESTED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget
+%
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+Fund: 820 - FLURA
+Revenue 2,619,460.002,008,840.00 610,620.00 30.40% 2,647,218.00 27,758.00 1.06%980,388.08639,996.59362,087.67
+Expense 914,655.00914,655.00 0.00 0.00% 1,395,037.00 480,382.00 52.52%212,464.0849,258.3584,507.97
+Total Fund: 820 - FLURA: 1,704,805.00767,924.00 1,094,185.00 610,620.00 55.81% 1,252,181.00 -452,624.00 -26.55%590,738.24277,579.70
+Report Total: 55.81% -26.55%1,704,805.00767,924.00 1,094,185.00 610,620.00 1,252,181.00 -452,624.00590,738.24277,579.70
+Page 21 of 22
+FLURA Budget Comparison Report
+9/9/2026 11:12:10 AM Page 4 of 4
+Fund Summary
+Fund
+2024
+Total Activity
+2025
+Total Activity
+2026
+YTD Activity
+Through Sep
+2026
+APPROVED
+2026
+PROJECTED
+Parent Budget
+Comparison 1
+Budget
+Comparison 1
+to Parent
+Budget %
+2027
+REQUESTED
+Comparison 2
+Budget
+Comparison 2
+to Comparison 1
+Budget %
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+820 - FLURA 1,704,805.00767,924.00 1,094,185.00 610,620.00 55.81% 1,252,181.00 -452,624.00 -26.55%590,738.24277,579.70
+Report Total: 55.81% -26.55%1,704,805.00767,924.00 1,094,185.00 610,620.00 1,252,181.00 -452,624.00590,738.24277,579.70
+Page 22 of 22

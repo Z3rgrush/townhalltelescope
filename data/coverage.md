@@ -1,264 +1,261 @@
 # Collection coverage
 
-Window: 2026-07-27 to 2026-10-25
+Window: 2026-07-27 to 2026-10-25 (each row shows its own last run)
 
-| Source | Adapter | Meetings | Documents | Text OK | Failed | Error |
-|---|---|---|---|---|---|---|
-| Arapahoe County | legistar | 42 | 42 | 38 | 4 |  |
-| Jefferson County | escribe | 38 | 38 | 0 | 38 |  |
-| Adams County | primegov | 40 | 40 | 40 | 0 |  |
-| Colorado Springs | legistar | 28 | 28 | 28 | 0 |  |
-| Douglas County | legistar | 40 | 40 | 40 | 0 |  |
-| Fort Collins | civicclerk | 18 | 31 | 31 | 0 |  |
-| Pueblo County | civicclerk | 42 | 104 | 104 | 0 |  |
-| Lakewood | civicclerk | 9 | 17 | 16 | 1 |  |
-| Mesa County | onbase | 24 | 24 | 24 | 0 |  |
-| Arvada | civicclerk | 28 | 51 | 47 | 4 |  |
-| Westminster | primegov | 0 | 0 | 0 | 0 |  |
-| Pueblo | civicclerk | 27 | 38 | 35 | 3 |  |
-| Greeley | civicclerk | 77 | 111 | 111 | 0 |  |
-| Centennial | onbase | 22 | 22 | 22 | 0 |  |
-| Grand Junction | civicclerk | 52 | 79 | 70 | 9 |  |
-| Garfield County | escribe | 15 | 15 | 0 | 15 |  |
-| Parker | civicclerk | 30 | 38 | 35 | 3 |  |
-| Fremont County | linkscan | 7 | 7 | 7 | 0 |  |
-| Montrose County | granicus | 22 | 22 | 22 | 0 |  |
-| Brighton | legistar | 12 | 12 | 12 | 0 |  |
-| Northglenn | linkscan | 0 | 0 | 0 | 0 |  |
-| Englewood | linkscan | 0 | 0 | 0 | 0 |  |
-| Windsor | civicclerk | 41 | 60 | 60 | 0 |  |
-| Summit County | linkscan | 0 | 0 | 0 | 0 |  |
-| Fountain | linkscan | 0 | 0 | 0 | 0 |  |
-| Morgan County | linkscan | 0 | 0 | 0 | 0 |  |
-| Montezuma County | linkscan | 1 | 3 | 1 | 2 |  |
-| Routt County | agendacenter | 31 | 31 | 31 | 0 |  |
-| Teller County | civicclerk | 18 | 31 | 30 | 1 |  |
-| Evans | primegov | 0 | 0 | 0 | 0 | RuntimeError: https://evanscolorado.primegov.com/api/v2/PublicPortal/ListArchivedMeetings: HTTPSConnectionPool(host='evanscolorado.primegov.com', port=443): Max retries exceeded with url: /api/v2/PublicPortal/ListArchivedMeetings?year=2026 (Caused by NameResolutionError("HTTPSConnection(host='evanscolorado.primegov.com', port=443): Failed to resolve 'evanscolorado.primegov.com' ([Errno -2] Name or service not known)")) |
-| Golden | granicus | 51 | 51 | 10 | 41 |  |
-| Montrose | civicclerk | 21 | 30 | 30 | 0 |  |
-| Chaffee County | civicclerk | 32 | 52 | 52 | 0 |  |
-| Park County | agendacenter | 48 | 51 | 44 | 7 |  |
-| Johnstown | civicclerk | 13 | 21 | 18 | 3 |  |
-| Cañon City | agendacenter | 63 | 64 | 64 | 0 |  |
-| Gunnison County | agendacenter | 21 | 21 | 21 | 0 |  |
-| Alamosa County | agendacenter | 13 | 13 | 13 | 0 |  |
-| Grand County | agendacenter | 23 | 23 | 7 | 16 |  |
-| Greenwood Village | civicclerk | 24 | 39 | 38 | 1 |  |
-| Federal Heights | linkscan | 1 | 1 | 1 | 0 |  |
-| Lone Tree | civicweb | 0 | 0 | 0 | 0 |  |
+| Source | Adapter | Meetings | Documents | Text OK | Failed | Error | Run |
+|---|---|---|---|---|---|---|---|
+| Archuleta County | linkscan | 9 | 16 | 14 | 2 |  | 2026-10-25 |
+| Aspen | granicus | 34 | 34 | 33 | 1 |  | 2026-10-25 |
+| Berthoud | civicclerk | 27 | 37 | 35 | 2 |  | 2026-10-25 |
+| Breckenridge | civicclerk | 21 | 43 | 40 | 3 |  | 2026-10-25 |
+| Brush | linkscan | 8 | 8 | 0 | 8 |  | 2026-10-25 |
+| Castle Pines | granicus | 12 | 12 | 4 | 8 |  | 2026-10-25 |
+| Cherry Hills Village | agendacenter | 18 | 18 | 15 | 3 |  | 2026-10-25 |
+| Clear Creek County | agendacenter | 20 | 21 | 20 | 1 |  | 2026-10-25 |
+| Craig | civicclerk | 5 | 8 | 7 | 1 |  | 2026-10-25 |
+| Dacono | agendacenter | 20 | 20 | 15 | 5 |  | 2026-10-25 |
+| Delta | agendacenter | 13 | 20 | 20 | 0 |  | 2026-10-25 |
+| Eagle | civicclerk | 28 | 43 | 43 | 0 |  | 2026-10-25 |
+| Eaton | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Edgewater | civicclerk | 3 | 4 | 4 | 0 |  | 2026-10-25 |
+| Fort Lupton | civicclerk | 18 | 23 | 20 | 3 |  | 2026-10-25 |
+| Fort Morgan | agendacenter | 18 | 18 | 16 | 2 |  | 2026-10-25 |
+| Fruita | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Gilpin County | linkscan | 9 | 10 | 10 | 0 |  | 2026-10-25 |
+| Glenwood Springs | civicclerk | 11 | 14 | 14 | 0 |  | 2026-10-25 |
+| Gypsum | granicus | 8 | 8 | 8 | 0 |  | 2026-10-25 |
+| Kit Carson County | granicus | 32 | 32 | 4 | 28 |  | 2026-10-25 |
+| La Junta | civicclerk | 13 | 14 | 14 | 0 |  | 2026-10-25 |
+| Lake County | agendacenter | 43 | 44 | 35 | 9 |  | 2026-10-25 |
+| Lochbuie | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Milliken | civicclerk | 22 | 47 | 47 | 0 |  | 2026-10-25 |
+| Monument | civicclerk | 17 | 24 | 21 | 3 |  | 2026-10-25 |
+| New Castle | civicclerk | 20 | 28 | 28 | 0 |  | 2026-10-25 |
+| Ouray County | agendacenter | 8 | 8 | 6 | 2 |  | 2026-10-25 |
+| Phillips County | linkscan | 9 | 9 | 9 | 0 |  | 2026-10-25 |
+| Rifle | civicclerk | 17 | 28 | 23 | 5 |  | 2026-10-25 |
+| Rio Blanco County | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Salida | civicclerk | 12 | 16 | 16 | 0 |  | 2026-10-25 |
+| San Miguel County | civicclerk | 24 | 35 | 34 | 1 |  | 2026-10-25 |
+| Severance | civicclerk | 15 | 22 | 19 | 3 |  | 2026-10-25 |
+| Sheridan | agendacenter | 22 | 22 | 22 | 0 |  | 2026-10-25 |
+| Steamboat Springs | onbase | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Sterling | linkscan | 9 | 21 | 16 | 5 |  | 2026-10-25 |
+| Timnath | civicweb | 12 | 12 | 12 | 0 |  | 2026-10-25 |
+| Washington County | linkscan | 12 | 12 | 11 | 1 |  | 2026-10-25 |
+| Wellington | civicclerk | 19 | 31 | 29 | 2 |  | 2026-10-25 |
+| Woodland Park | civicclerk | 17 | 22 | 14 | 8 |  | 2026-10-25 |
+| Yuma County | linkscan | 2 | 2 | 2 | 0 |  | 2026-10-25 |
 
 ## Logs
 
-### Arapahoe County
+### Archuleta County
 ```
-  71 events in window
-```
-
-### Jefferson County
-```
-  document types: ['AdditionalDocuments', 'Agenda', 'PostMinutes', 'Video']
-  59 meetings returned, 59 kept
+  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 48 dated links in window
 ```
 
-### Adams County
+### Aspen
 ```
-  40 meetings in window
-```
-
-### Colorado Springs
-```
-  30 events in window
+  38 documents in window
 ```
 
-### Douglas County
+### Berthoud
 ```
-  60 events in window
-```
-
-### Fort Collins
-```
-  19 events in window
+  34 events in window
 ```
 
-### Pueblo County
-```
-  77 events in window
-```
-
-### Lakewood
-```
-  17 events in window
-```
-
-### Mesa County
-```
-  search: 247 links, 40 meeting pages
-  24 documents in window from 42 page(s)
-```
-
-### Arvada
-```
-  52 events in window
-```
-
-### Westminster
-```
-  18 meetings in window
-```
-
-### Pueblo
-```
-  28 events in window
-```
-
-### Greeley
-```
-  87 events in window
-```
-
-### Centennial
-```
-  search: 167 links, 22 meeting pages
-  22 documents in window from 24 page(s)
-```
-
-### Grand Junction
-```
-  59 events in window
-```
-
-### Garfield County
-```
-  document types: ['Agenda', 'AgendaCover', 'PostMinutes', 'Video']
-  19 meetings returned, 19 kept
-```
-
-### Parker
-```
-  39 events in window
-```
-
-### Fremont County
-```
-  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 13 dated links in window
-```
-
-### Montrose County
-```
-  30 documents in window
-```
-
-### Brighton
-```
-  12 events in window
-```
-
-### Northglenn
-```
-  https://webdocs.northglenn.org/: 0 dated links in window
-```
-
-### Englewood
-```
-  https://www.townofenglewood.com/mayor_board/minutes_agendas/agendas/index.html: 0 dated links in window
-```
-
-### Windsor
-```
-  47 events in window
-```
-
-### Summit County
-```
-  https://www.summitcountyco.gov/services/community_development/open_space_trails/open_space_advisory_council.php: 0 dated links in window
-```
-
-### Fountain
-```
-  https://fountain.colorado.gov/government/city-council: 0 dated links in window
-```
-
-### Morgan County
-```
-  https://morgancounty.colorado.gov/2025-agendas-and-minutes: 0 dated links in window
-```
-
-### Montezuma County
-```
-  https://montezumacounty.gov/calendarsminutes/boccminutes/: 26 dated links in window
-```
-
-### Routt County
-```
-  https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 34 files in window
-```
-
-### Teller County
-```
-  19 events in window
-```
-
-### Evans
-```
-
-```
-
-### Golden
-```
-  71 documents in window
-```
-
-### Montrose
+### Breckenridge
 ```
   29 events in window
 ```
 
-### Chaffee County
+### Brush
 ```
-  44 events in window
-```
-
-### Park County
-```
-  https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 65 files in window
+  http://www.brushcolo.com/your_city/agendas_minutes.php: 13 dated links in window
 ```
 
-### Johnstown
+### Castle Pines
+```
+  16 documents in window
+```
+
+### Cherry Hills Village
+```
+  https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 22 files in window
+```
+
+### Clear Creek County
+```
+  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 23 files in window
+```
+
+### Craig
+```
+  5 events in window
+```
+
+### Dacono
+```
+  https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 22 files in window
+```
+
+### Delta
+```
+  https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 20 files in window
+```
+
+### Eagle
+```
+  35 events in window
+```
+
+### Eaton
+```
+  2 events in window
+```
+
+### Edgewater
+```
+  7 events in window
+```
+
+### Fort Lupton
+```
+  29 events in window
+```
+
+### Fort Morgan
+```
+  https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 23 files in window
+```
+
+### Fruita
+```
+  0 events in window
+```
+
+### Gilpin County
+```
+  https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 10 dated links in window
+```
+
+### Glenwood Springs
+```
+  13 events in window
+```
+
+### Gypsum
+```
+  13 documents in window
+```
+
+### Kit Carson County
+```
+  60 documents in window
+```
+
+### La Junta
+```
+  13 events in window
+```
+
+### Lake County
+```
+  https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 51 files in window
+```
+
+### Lochbuie
+```
+  0 events in window
+```
+
+### Milliken
+```
+  32 events in window
+```
+
+### Monument
 ```
   17 events in window
 ```
 
-### Cañon City
+### New Castle
 ```
-  https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 65 files in window
-```
-
-### Gunnison County
-```
-  https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 33 files in window
+  24 events in window
 ```
 
-### Alamosa County
+### Ouray County
 ```
-  https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 18 files in window
-```
-
-### Grand County
-```
-  https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 36 files in window
+  https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 10 files in window
 ```
 
-### Greenwood Village
+### Phillips County
 ```
-  55 events in window
-```
-
-### Federal Heights
-```
-  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 1 dated links in window
+  https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas: 9 dated links in window
 ```
 
-### Lone Tree
+### Rifle
 ```
-  0 recent meetings in window
+  17 events in window
+```
+
+### Rio Blanco County
+```
+  https://www.rbc.us/: 0 dated links in window
+```
+
+### Salida
+```
+  21 events in window
+```
+
+### San Miguel County
+```
+  25 events in window
+```
+
+### Severance
+```
+  15 events in window
+```
+
+### Sheridan
+```
+  https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 24 files in window
+```
+
+### Steamboat Springs
+```
+  search: 0 links, 0 meeting pages
+  0 documents in window from 2 page(s)
+```
+
+### Sterling
+```
+  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 22 dated links in window
+```
+
+### Timnath
+```
+  12 recent meetings in window
+```
+
+### Washington County
+```
+  https://washingtoncounty.colorado.gov/2026-agendas: 12 dated links in window
+```
+
+### Wellington
+```
+  22 events in window
+```
+
+### Woodland Park
+```
+  36 events in window
+```
+
+### Yuma County
+```
+  https://yumacounty.colorado.gov/board-meetings: 2 dated links in window
 ```

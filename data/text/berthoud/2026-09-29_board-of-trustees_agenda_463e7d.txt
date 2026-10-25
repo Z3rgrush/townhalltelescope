@@ -1,0 +1,2768 @@
+ 
+September 29, 2026, Meeting Agenda  
+  
+The order of agenda items listed above is approximate and intended as a guideline for the Town Board. Individuals 
+needing special accommodation may request assistance by contacting the Town Clerk 807 Mountain Avenue, Berthoud, 
+Colorado 80513, 970-532-2643 at least 24 hours in advance. 
+ 
+ 
+Board of Trustees Study Session 
+807 Mountain Avenue 
+Town Board Meeting Room 
+Berthoud, Colorado 80513  
+Tuesday, September 29, 2026, at 6:30 PM 
+This meeting will be streamed live on YouTube. The live stream is accessible by 
+visiting www.berthoud.org/stream. 
+ 
+The Board of Trustees may act on any of the following agenda items as presented or modified prior to or during 
+the meeting and items necessary or convenient to effectuate the agenda items. 
+I.  Call Study Session to Order 
+ 
+II.  Pledge of Allegiance 
+ 
+III.  Roll Call 
+ 
+IV.  Scheduled Items and Estimated Times for Discussion 
+ 
+ 1. Initial Work Session Discussion: Land Use Considerations for Data Centers (30 Min) 
+ 2. Capital Improvements Program Manual (30 Min) 
+ 3. Purchasing Policy: Review and Discussion of Proposed Updates (30 Min) 
+ 4. Meeting Management: Discussion of Board Meeting Procedures and Practices (30 Min) 
+V.  Adjourn 
+ 
+  
+   
+Town Clerk or Deputy Town Clerk  William Karspeck, Mayor 
+ 
+Page 1 of 62
+Page 1 of 2 
+Board of Trustees Information 
+Community Development 
+Department 
+  
+ 
+Meeting Date: September 29, 2026 
+  
+Agenda Title/Subject:  Initial Work Session Discussion: Land Use Considerations for 
+Data Centers 
+  
+Type of Item: 
+ 
+  
+Purpose: Work Session to allow the Town Board a forum to express their 
+concerns regarding Data Centers 
+  
+Presented by: Anne Johnson 
+ 
+Attachments: 
+1. 01 Information Form Data Centers Final for WS (2) 
+2. 02 List of parcels Zoned M2 2026 08 03 
+3. 02 List of parcels Zoned M2 2026 08 03 
+4. 03 Map of parcels Zoned M2 2026 08 03 
+ 
+Background:  
+The purpose of this work session is to provide the Town Board with the opportunity to voice their 
+concerns with the land use, “Data Center” with staff.  The outcome of this work session will 
+result in a Technical Memo and potential Code amendment to guide Data Center development 
+in Berthoud, depending upon the concerns expressed in this work session.   
+ 
+  
+ 
+Update/Next Steps: 
+Once the Board is able to articulate their concerns with the land use, “Data Center,” staff will 
+draft potential Code language and create a Technical Criteria guide.  These documents along 
+with findings from outside experts will be presented to Planning Commission and the Board at a 
+future public hearing date or a work session.   
+ 
+ Staff will also budget for consulting services by a noise specialist in 2027.  The Town Attorney 
+will be consulted throughout this process. 
+ 
+Fiscal Impact and Fund Source: 
+There is no negative fiscal impact to the Town by gathering this background information 
+regarding Data Centers.  If the Trustees are supportive of the development of a Technical 
+Criteria Guide in 2026 and further information regarding noise, staff will request budget in 2027 
+to perform work with our contract attorneys as well as a noise specialist. 
+ 
+Community Touchstones: 
+Page 2 of 62
+Page 2 of 2 
+Understanding Data Centers and potential positive or negative impacts on the Town adhere to 
+the community touchstone of sustainability and resiliency. 
+ 
+Recommended Action(s): 
+Staff would like the Board to confirm the specific concerns they have with Data Centers 
+so that the Technical Criteria Guide can be developed along with any Code amendments 
+to address these concerns.   
+ 
+Initially, staff considered the following action items for the Technical Criteria Guide:  1) 
+Define different sizes of Data Centers; 2) Require all Data Centers to attain LEED 
+certification; 3) Maintain the Town’s standard Special Use Permit process with added 
+requirements to mitigate perceived negative impacts (noise and heat, water 
+consumption, etc.) 
+ 
+Page 3 of 62
+COMMUNITY DEVELOPMENT DEPARTMENTUTILITIES 
+ 
+Page 1 of 6 
+ 
+BOARD OF TRUSTEES INFORMATION
+  
+Meeting Date: September 29, 2026 
+  
+Agenda Title/Subject: Work Session regarding the land use, “Data 
+Center”  
+  
+Type of Item: Work Session 
+  
+Purpose: Work Session to allow the Town Board a forum to 
+express their concerns regarding Data Centers   
+  
+Presented by: Anne Best Johnson, Community Development 
+Director 
+  
+ATTACHMENTS: 
+• Map of properties zoned M2 in Berthoud 
+• List of properties zoned M2 in Berthoud 
+ 
+ 
+PURPOSE: 
+The purpose of this work session is to provide the Town Board with the opportunity to voice their 
+concerns with the land use, “Data Center” with staff.  The outcome of this work session will result in 
+a Technical Memo and potential Code amendment to guide Data Center development in Berthoud, 
+depending upon the concerns expressed in this work session.  The information contained in this 
+memo is a repeat of the August 25, 2026 Town Board packet of information.    
+ 
+ 
+BACKGROUND 
+Data centers include those rooms within buildings such as IT centers at Town Hall, Larimer County, 
+and Colorado State University, for example as well as large 50+ acre campuses for companies like 
+Google or Microsoft.   
+ 
+According to a Google AI search, as of August 2026, there are “4,713 tracked data center facilities, 
+3,567 operational, 307 under construction and 751 planned or approved.  The United States data 
+center industry is the largest in the world… Texas leads with 578 facilities, followed by Virgina with 
+484 and California with 393.”  The same search revealed that Colorado has 90 tracked centers with 
+78 being operational, 8 under construction and 4 in the planning phase. The following graphic was 
+obtained from the website, Colorado Data Center Map: 90 Sites, 1.7 GW  on September 1, 2026.  
+This graphic illustrates the quantity and county name for the greatest number of Data Centers.  
+ 
+Page 4 of 62
+  
+Page 2 of 6 
+ 
+ 
+ 
+In the Town of Berthoud, a Data Center is defined as, “…a use consisting of buildings or structures 
+specifically designed or modified to house networked computers and data and transaction 
+processing equipment and related infrastructure support equipment, including power and cooling 
+equipment. A data center may be used to provide data and transaction processing services, 
+outsource information technology services and/or computer equipment colocation services. A data 
+center may also include buildings or structures that support the operation of the data center 
+including retrofit buildings, warehousing for logistics, independent network buildings, buildings for 
+support staff, and emergency generators. A Data Center shall not include activities which 
+consistently produce noise discernable at the property line. Should a Data Center produce noise 
+discernable at the property line, it shall be classified as an Industrial use.” 
+ 
+The use, “Data Center” for the purposes of this document shall mean an independent center vs. a 
+room in a building that is used for data processing to support a specific business (Town Hall, 
+Schools, etc.). 
+ 
+Data Centers are only allowed in the M-2, Industrial Zone District in Berthoud.  The use is one 
+contemplated through the Special Use Permit process which requires a public hearing before the 
+Planning Commission and the Board of Trustees.  Data centers have few occupants and can 
+consume a lot of power and water, primarily for use in cooling the servers.   
+ 
+Development standards required at the time of an application submittal include how proposed uses 
+will address the following site-specific issues in accordance with Municipal Code Section 30-5-101: 
+• Architectural Guidelines 
+• Landscape Guidelines 
+• Sufficient utilities – water, electrical power, stormwater, traffic, fire protection and 
+emergency response, for example.  
+• Mitigating negative impacts of the development on the surrounding property: 
+o Light 
+o Air quality 
+o Sensitive natural, historic and environmental areas and properties 
+Page 5 of 62
+  
+Page 3 of 6 
+ 
+o Compatibility of uses 
+o The oil and gas regulation section  
+• Evidence there is a need for the proposed use in Berthoud and the contribution a 
+proposed use has on the Town’s envisioned place-making goals, etc. 
+• Evidence all federal, state and local permits have been obtained 
+• And lastly, “Address such other matters and the Town may deem necessary in order to 
+protect the best interest of the public.”   
+ 
+There are 66 parcels zoned M2 in Berthoud and all but 5 are less than 5 acres in size.  The average 
+parcel size in acres is 3.94 inclusive of those greater than 5 acres and 0.72 excluding the parcels 
+greater than 5 acres in size.  The typical data center requires 10 – 40 acres according to a Google 
+AI search and this is consistent with staff’s findings contained within this memo.   
+ 
+The information below is a summary of findings after discussing the subject of Data Centers with 
+Cheyenne, Wyoming; Weld County; Larimer County; and educational sessions with the American 
+Planning Association.  The summary below is arranged by topic. 
+ 
+Land Size 
+• Cheyenne:  Seven (7) acres is the minimum; larger and more common centers used by 
+companies such as Google or Microsoft require more than 100 acres per use 
+• Weld County:  One center is currently being reviewed at the former 438-acre Kodak site.  
+This location is surrounded by the Great Western Industrial Park which is in Windsor 
+• Larimer County:  No comment on acreage 
+ 
+Water Requirements 
+• Cheyenne and Weld County:  Most new centers require water for restrooms in the amount 
+of 2 standard residential structures.  Water is needed for exterior landscaping. 
+• Cheyenne, Weld and Larimer Counties: Close-loop systems are efficient however waste 
+water requires special treatment.  
+• Cheyenne:  If evaporative cooling is not used, there needs to be regulations in place to 
+require the water to be held and disposed of in a certified hazardous waste disposal site.   
+ 
+Traffic 
+• Weld County:  Addresses construction traffic vs. low-volume traffic during operation through 
+the Development Agreement process.   
+ 
+Air Quality from Weld County, Larimer County and Cheyenne 
+• All roads leading to the facility need to be paved 
+• All work is conducted inside a building 
+• A Battery(s) and chiller(s) are sometimes located outside and the concerns can be 
+addressed through noise and visual mitigation requirements 
+ 
+Energy Provision from Weld County, Larimer County and Cheyenne 
+• Noise can be an issue with smaller, less established companies (bitcoin mining). 
+• The process of approval through Xcel Energy is 4 – 6 years. 
+• Poudre Valley REA is limited in their ability to supply power. 
+• Alternative power sources include solid oxide fuel cells.  These are efficient and generate 
+heat with little noise. 
+• Many facilities include back-up generators for emergency uses only. 
+• Noise mitigation is the biggest concern and Weld County will share their contact for a 
+scientist at CU Boulder.   
+ 
+Page 6 of 62
+  
+Page 4 of 6 
+ 
+Decommissioning 
+• Larimer County: Considering requirements for proper disposal of eWaste and site 
+reclamation with surety posting.   
+ 
+Larimer County has a moratorium in place that started in early 2026 and will be continued until early 
+to mid-2027. Larimer County is reviewing the following operational standards: 
+• Noise – d(B)A and d(B)C 
+• Setbacks and reverse setbacks 
+• Energy provision 
+• Water consumption and disposal 
+• Heat 
+• Size thresholds and location specifications 
+ 
+The American Planning Association hosted a continuing education course on Data Centers on 
+August 7, 2026.  Representatives from Louden County, Virginia were present.  According to the 
+presenter, as a County, Louden County has the greatest number of data centers in the country and 
+provided best practices to the attendees.  These are listed below along with commentary by 
+Berthoud Town staff.  
+ 
+Basic Rules 
+• Make sure the Comprehensive Plan and the Development Code list performance standards 
+and are aligned. 
+o Berthoud staff comment:  The Town Development Code has performance standards 
+and bulk standards inclusive of architecture and landscaping control, for example.  
+• Never allow a data center to be a use by right.  Require local jurisdiction approval. 
+o Berthoud staff comment: A data center is a use only allowed in the M-2 Industrial 
+Zone District through the Use by Special Review process.  
+• Never sign a Non-Disclosure Agreement 
+o Berthoud staff comment:  Agreed, would be discussed with legal counsel. 
+ 
+Noise 
+• Conduct a pre- and post-construction noise study (dBA and dBC).  For reference,  dBA is 
+audible noise; dBC is Tonal/Narrow band low-frequency humming.  Of the two, dBC has the 
+worst health effects and usually occurs in a single, narrow band. 
+o Berthoud staff comment: We are proposing to retain a noise expert in 2027 to 
+develop noise standards. 
+• Adopt a noise ordinance limiting dBA and dBC levels to background noise levels. 
+o Berthoud staff comment: We are proposing to retain a noise expert in 2027 to 
+develop noise standards. 
+ 
+Power 
+• Require utilities to specify, in writing, the maximum power requested by the data center; how 
+the utility plans to deliver power (routing, overhead, substations, etc.); and require local 
+approval to exceed the reported maximum. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+• Build data centers near existing power lines and no closer than 2x the right-of-way width. 
+o Berthoud staff comment: This would be a development standard and listed in the 
+Technical Criteria Guide 
+• Require substations to be onsite or adjacent and included in the application; never allow “by 
+right” separate substation development or to call them “accessory use.” 
+o Berthoud staff comment: This is how our Code is currently written and there are no 
+plans to change.  
+Page 7 of 62
+  
+Page 5 of 6 
+ 
+• For energy storage, use long duration storage systems (10 hours of storage minimum), not 
+lithium-ion batteries which are not long duration systems.  
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+ 
+Water 
+• Require the data center and water utility to specify in writing how much water the data center 
+will use annually. 
+o Berthoud staff comment: A hydrozone analysis is a required element of a Special 
+Use Permit today and would be required.  
+• Determine whether the data center will use air cooling, open loop water cooling or closed 
+loop water cooling. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+• Determine whether the data center will use potable or reclaimed water. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+• Determine how the data center will purify its wastewater and whether the local water 
+treatment facility can adequately process the wastewater. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+ 
+Emissions 
+• Require Tier IV backup generators or Tier II generators with Selective Catalytic Conversion 
+(SRC) attached.  If using natural gas turbines, require SCR using ammonia as the catalyst.  
+Require no PM2.5 emissions. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide.   
+• Require strict noise limits. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+ 
+Setback 
+• Minimum 500’ setback from residential; 1000’ preferred 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide as a development standard.  
+ 
+Appearance 
+• Require natural screening, berms, fenestration on principal facades. 
+o Berthoud staff comment: This is already a requirement. 
+• Limit building height, Floor to Area (FAR) ratio to ensure compatibility with surrounding 
+structures. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide. 
+• Encourage microgrid design within the data center campus for future use.  A microgrid 
+includes large power consumer, baseload power source, backup power source, 
+long0duration storage, grid connection. 
+o Berthoud staff comment: This would be an application requirement and listed in the 
+Technical Criteria Guide 
+ 
+The United States Green Building Council (LEED) also provides the following guidance regarding 
+Data Centers.  The goal of these guidelines is to consume less energy, water and other natural 
+resources and reduce negative impacts on the environment. According to the LEED website, as of 
+Page 8 of 62
+  
+Page 6 of 6 
+ 
+June 2026, there are nearly 2,000 LEED-certified and registered data centers globally.  LEED has 
+provided guidance on how data centers can earn the four LEED certification categories listed below.   
+ 
+• New Construction 
+• Core and Shell 
+• Operation and Maintenance 
+• Commercial Interiors 
+ 
+UPDATE/NEXT STEPS: 
+Once the Board is able to articulate their concerns with the land use, “Data Center,” staff will draft 
+potential Code language and create a Technical Criteria guide.  These documents along with 
+findings from outside experts will be presented to Planning Commission and the Board at a future 
+public hearing date or a work session.  
+ 
+Staff will also budget for consulting services by a noise specialist in 2027.  The Town Attorney will 
+be consulted throughout this process. 
+ 
+FISCAL IMPACT AND FUND SOURCE: 
+There is no negative fiscal impact to the Town by gathering this background information regarding 
+Data Centers.  If the Trustees are supportive of the development of a Technical Criteria Guide in 
+2026 and further information regarding noise, staff will request budget in 2027 to perform work with 
+our contract attorneys as well as a noise specialist.   
+ 
+COMMUNITY TOUCHSTONES:  
+Understanding Data Centers and potential positive or negative impacts on the Town adhere to the 
+community touchstone of sustainability and resiliency.   
+ 
+RECOMMENDED ACTION(S): 
+Staff would like the Board to confirm the specific concerns they have with Data Centers so that the 
+Technical Criteria Guide can be developed to address these concerns.  
+ 
+Initially, staff has considered the following action items for the Technical Criteria Guide:  1) Define 
+different sizes of Data Centers; 2) Require all Data Centers to attain LEED certification; 3) Maintain 
+the Town’s standard Special Use Permit process with added requirements to mitigate perceived 
+negative impacts (noise and heat, water consumption, etc.) 
+Page 9 of 62
+Map Reference 
+Number Parcel Number Address Gross Acreage Map Reference Number Parcel Number Address Gross Acreage
+1 9414129003 130 BUNYAN AVE 2C 0.0703 34 9414459002 235 BUNYAN AVE 0.29
+2 9411105002 2221 CLAYTON PL LOT 2 2.84 35 9414459005 265 BUNYAN AVE 0.32
+3 9411115001 2351 1ST ST 1.6352 36 9414459010 214 VERSAW CT 0.08
+4 9414477002 795 2ND ST 0.64 37 9414459011 212 VERSAW CT 0.08
+5 9411411003  1.23 38 9414475003 1005 2ND ST 1.31
+6 9411412001 217 W COUNTY ROAD 10E 1.2 39 9414463002 801 2ND ST 4.7308
+7 9411411002  1.2 40 9414484003 295 BUNYAN AVE 0.13
+8 9414459012 210 VERSAW CT 0.24 41 9414471002 1015 2ND ST 0.33
+9 9414480006 695 2ND ST 0.32 42 9414490001 912 2ND ST 1.3
+10 9411105001 2231 CLAYTON PL 5.37 43 9414460006 207 VERSAW CT 0.1589
+11 9411105003  1.32 44 9414470001 245 BUNYAN AVE 0.21
+12 9414458003 504 2ND ST 0.28 45 9414416780 780 2ND ST 0.3043
+13 9414458002 504 2ND ST 0.21 46 9414416770 770 2ND ST 0.3117
+14 9414458001 550 2ND ST 0.61 47 9414488001  0.290794
+15 9414464003 295 BUNYAN AVE 0.47 48 9414495012 205 TURNER AVE 0.276
+16 9414472002 217 VERSAW CT 0.29 49 9414495011 209 TURNER AVE 0.2423
+17 9414484004  0.07 50 9414485002 985 2ND ST 2.45
+18 9414463001 945 2ND ST 2.6416 51 9414416000  0
+19 9414445002 204 VERSAW CT B 0.0761 52 9414460001 215 VERSAW CT 0.08
+20 9414475020 1005 2ND ST 0.71 53 9414432001 1000 N SECOND ST 0.7767
+21 9414471001 209 VERSAW CT 0.47 54 9414476001 982 2ND ST 1.67
+22 9411105004  18.06 55 9411412002 217 W COUNTY ROAD 10E 1.1746
+23 9414416940 740 2ND ST 0.3363 56 9414472001 219 VERSAW CT 0.76
+24 9414416730 730 2ND ST 0.3379 57 9414432002 1017 1ST ST 1.2497
+25 9414416720 720 2ND ST 0.3363 58 9414490002 953 1ST ST 1.71
+26 9414416760 760 2ND ST 0.1868 59 9411413902 220 WATER AVE 33.15
+27 9414416750 750 2ND ST 0.1794 60 9411115002 2401 1ST ST 1.6352
+28 9414460007 203 VERSAW CT 0.08 61 9414445001 204 VERSAW CT A 0.1321
+29 9414460008 1029 2ND ST 0.08 62 9414445003 204 VERSAW CT C 0.0857
+30 9414460002 211 VERSAW CT 0.16 63 9414445000  0
+31 9414487002 1085 2ND ST 0.11 64 9414477001 210 TURNER AVE 3.0263
+32 9414487001 225 BUNYAN AVE 0.15 65 106127203001 19750 COUNTY ROAD 7 89.93468
+33 9414459008 295 BUNYAN AVE 0.24 66 106127302002 2409 LAKE DR 69.363877
+0.719
+3.9350538
+data obtained 8/3/2026
+Berthoud Zoning - M2 Parcels
+Average Parcel size excluding parcels > 5 acres
+Average Parcel size, all parcels
+Page 10 of 62
+Berthoud Zoning - M2 Parcels
+data obtained 8/3/2026
+Map Reference
+Number Parcel Number Address GrossAcreage
+1 9414129003 130 BUNYAN AVE 2C 0.0703
+2 9411105002 2221 CLAYTON PL LOT 2 2.84
+3 9411115001 2351 1ST ST 1.6352
+4 9414477002 795 2ND ST 0.64
+5 9411411003  1.23
+6 9411412001 217 W COUNTY ROAD 10E 1.2
+7 9411411002  1.2
+8 9414459012 210 VERSAW CT 0.24
+9 9414480006 695 2ND ST 0.32
+10 9411105001 2231 CLAYTON PL 5.37
+11 9411105003  1.32
+12 9414458003 504 2ND ST 0.28
+13 9414458002 504 2ND ST 0.21
+14 9414458001 550 2ND ST 0.61
+15 9414464003 295 BUNYAN AVE 0.47
+16 9414472002 217 VERSAW CT 0.29
+17 9414484004  0.07
+18 9414463001 945 2ND ST 2.6416
+19 9414445002 204 VERSAW CT B 0.0761
+20 9414475020 1005 2ND ST 0.71
+21 9414471001 209 VERSAW CT 0.47
+22 9411105004  18.06
+23 9414416940 740 2ND ST 0.3363
+24 9414416730 730 2ND ST 0.3379
+25 9414416720 720 2ND ST 0.3363
+26 9414416760 760 2ND ST 0.1868
+27 9414416750 750 2ND ST 0.1794
+28 9414460007 203 VERSAW CT 0.08
+29 9414460008 1029 2ND ST 0.08
+30 9414460002 211 VERSAW CT 0.16
+31 9414487002 1085 2ND ST 0.11
+32 9414487001 225 BUNYAN AVE 0.15
+33 9414459008 295 BUNYAN AVE 0.24
+Page 11 of 62
+Map Reference
+Number Parcel Number Address GrossAcreage
+34 9414459002 235 BUNYAN AVE 0.29
+35 9414459005 265 BUNYAN AVE 0.32
+36 9414459010 214 VERSAW CT 0.08
+37 9414459011 212 VERSAW CT 0.08
+38 9414475003 1005 2ND ST 1.31
+39 9414463002 801 2ND ST 4.7308
+40 9414484003 295 BUNYAN AVE 0.13
+41 9414471002 1015 2ND ST 0.33
+42 9414490001 912 2ND ST 1.3
+43 9414460006 207 VERSAW CT 0.1589
+44 9414470001 245 BUNYAN AVE 0.21
+45 9414416780 780 2ND ST 0.3043
+46 9414416770 770 2ND ST 0.3117
+47 9414488001  0.290794
+48 9414495012 205 TURNER AVE 0.276
+49 9414495011 209 TURNER AVE 0.2423
+50 9414485002 985 2ND ST 2.45
+51 9414416000  0
+52 9414460001 215 VERSAW CT 0.08
+53 9414432001 1000 N SECOND ST 0.7767
+54 9414476001 982 2ND ST 1.67
+55 9411412002 217 W COUNTY ROAD 10E 1.1746
+56 9414472001 219 VERSAW CT 0.76
+57 9414432002 1017 1ST ST 1.2497
+58 9414490002 953 1ST ST 1.71
+59 9411413902 220 WATER AVE 33.15
+60 9411115002 2401 1ST ST 1.6352
+61 9414445001 204 VERSAW CT A 0.1321
+62 9414445003 204 VERSAW CT C 0.0857
+63 9414445000  0
+64 9414477001 210 TURNER AVE 3.0263
+65 106127203001 19750 COUNTY ROAD 7 89.93468
+66 106127302002 2409 LAKE DR 69.363877
+Average Parcel size excluding parcels > 5 acres 0.719
+Average Parcel size, all parcels 3.9350538
+Berthoud Zoning - M2 Parcels
+data obtained 8/3/2026
+Page 12 of 62
+Page 13 of 62
+Page 1 of 2 
+Board of Trustees Information 
+Public Works Department 
+ 
+ 
+Meeting Date: September 29, 2026 
+  
+Agenda Title/Subject:  Capital Improvements Program Manual 
+  
+Type of Item: Presentation 
+  
+Purpose: To review the draft Capital Improvement Program Manual and 
+receive Board feedback. 
+  
+Presented by: Daniel Buendia 
+ 
+Attachments: 
+1. DRAFT Capital Improvement Program Manual 
+ 
+Background:  
+Town staff developed the Capital Improvement Program Manual to establish a consistent 
+process for planning and delivering capital improvement projects with an estimated value 
+greater than $2 million. The manual outlines how projects move from initial identification and 
+budget consideration through conceptual design, design development, construction, and 
+closeout. 
+ 
+Update/Next Steps: 
+Following Board discussion, Town staff will revise the manual based on the Board’s feedback 
+and bring it back for approval at a future meeting. 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Fiscal Impact and Fund Source: 
+Page 14 of 62
+Page 2 of 2 
+ 
+ 
+Community Touchstones: 
+ 
+ 
+Recommended Action(s):  
+ 
+Page 15 of 62
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Town of Berthoud 
+Capital Improvement Program Manual 
+ 
+ 
+Adopted                               , 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Board of Trustees  
+William Karspeck, Mayor 
+May Soricelli-Albrecht, Mayor Pro Tem 
+Karen Anderson, Trustee 
+Casey Grace, Trustee 
+Sean Murphy, Trustee 
+Arno Olbricht, Trustee 
+Brett Wing, Trustee   
+Page 16 of 62
+2 
+ 
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS  .................................................. ................................................... .................. 2 
+I. PURPOSE  ..................................................................................................... .............................. 3 
+II. APPROVAL MATRIX  ..................................................................................................... ............... 3 
+III. CAPITAL PROJECT GOVERNANCE STRUCTURE  .................................................. ....................... 4 
+IV. TYPICAL PROJECT SCHEDULE & TIME FRAME  .................................................. ......................... 5 
+V.CAPITAL PROJECT AUTHORIZATION CYCLE  .................................................. .............................. 6 
+VI. CAPITAL PROJECT PROCESS FRAMEWORK  .................................................. ............................ 7 
+VII. GLOSSARY  ..................................................................................................... ....................... 14 
+APPENDIX A: CAPITAL PLANNING FLOW CHART .............................................................. .............. 16 
+APPENDIX B: PROJECT CREATION TEMPLATE ................................................................ ................. 21 
+APPENDIX C: PROJECT CHARTER TEMPLATE.................................................................. ................ 23 
+APPENDIX D: RISK REGISTER TEMPLATE ................................................................... ..................... 27 
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 62
+3 
+ 
+ 
+I. PURPOSE  
+Establish a consistent process for planning, evaluating, designing, approving, bidding, and constructing 
+capital improvement projects of an estimated value greater than $2M that: 
+ 
+• Aligns projects with Town strategic goals, master plans, and improvement plans. 
+• Improves budget accuracy and schedule predictability. 
+• Incorporates value engineering prior to bidding. 
+• Incorporates Advisory Committee recommendations and public input. 
+• Provides Town Board oversight at key decision intervals. 
+• Ensure project scopes are e:ectively developed prior to design development. 
+ 
+ 
+ 
+II. APPROVAL MATRIX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*The Town Administrator and Town Board may agree to modify or consolidate phases when warranted by 
+project size, complexity, funding requirements, emergency conditions, or regulatory deadlines, provided 
+that required Town Board approvals are maintained. 
+ 
+ 
+ 
+ 
+Milestone  Sta3  Committee  Town Board  
+Project Request  Recommend  Review  Inform  
+CIP List  Recommend  Recommend  Approve  
+Conceptual Design  Recommend  Recommend  Approve  
+30% Design  Recommend  Recommend  Review  
+60% Design  Approve  Inform  Review  
+90% Design  Approve  Inform  Inform  
+VE Report  Recommend  Review  Approve  
+Authorization to Bid  Recommend  Inform  Approve  
+Contract Award  Recommend  Inform  Approve  
+Major Change Orders (>5%)  Recommend  Inform  Approve  
+Project Closeout  Approve  Inform  Inform  
+Page 18 of 62
+4 
+ 
+ 
+III. CAPITAL PROJECT GOVERNANCE STRUCTURE 
+ 
+Town Board of Trustees Responsibilities 
+The Town Board serves as the ultimate decision-making authority on all capital projects. 
+• Capital Improvement  Program adoption  
+• Project authorization 
+• Budget approval 
+• Approval of proceeding into Design 
+Development 
+• Approve Conceptual design  
+• Approval of VE recommendations 
+• Authorization to advertise for bids 
+• Contract award approval 
+• Major change orders (>5%) 
+ 
+Sta3 Responsibilities 
+Town Administrator  
+ 
+• Review project prioritization. 
+• Review and evaluate project recommendations. 
+Department Director - Project Sponsor  
+ 
+• Identify project need. 
+• Recommend projects to Town Administrator. 
+• Develop project justiﬁcation, proposed schedule, and 
+cost estimate. 
+• Prepare estimates for operating and sta:ing impacts. 
+Engineering   
+ 
+• Provide technical review. 
+• Manage consultants. 
+• Oversee design and construction. 
+Finance Department  
+ 
+• Verify funding availability. 
+• Evaluate debt, grants, and cash ﬂow impacts. 
+• Update Capital Improvement Program. 
+ 
+Committee Responsibilities 
+Committee recommendations are advisory only and forward ed  to the Town Board for evaluation . 
+Parks, Open Space, Recreation 
+and Trails (PORT) Committee  
+The PORT Committee serves as the 
+initial review body for parks, open 
+space, recreation and trails 
+improvements projects. 
+ 
+• Provide feedback on project 
+requests. 
+• Consider alignment with current 
+parks and trails master plans. 
+• Suggest prioritization for PORT 
+projects. 
+• Provide feedback on major 
+scope changes during design. 
+Historic Preservation Advisory 
+Committee (HPAC) 
+The HPAC serves as the initial 
+review body capital improvements 
+projects that may impact historic 
+or culturally relevant structures. 
+ 
+• Provide feedback on project 
+requests. 
+• Evaluate alignment with 
+preservation ordinances. 
+• Provide feedback on major 
+scope changes during design. 
+Tree Advisory Committee (TAC)  
+ 
+The TAC serves as the initial review 
+body for capital improvements 
+projects that may signiﬁcantly 
+impact the urban canopy. 
+ 
+• Review project requests. 
+• Provide feedback on tree canopy 
+best management practices 
+(BMPs). 
+ 
+Page 19 of 62
+5 
+ 
+ 
+IV. TYPICAL PROJECT SCHEDULE & TIME FRAME 
+Phase  Duration  
+Phase 1 - Project Identiﬁcation  1 Month  
+Phase 2 - Concept ual  Design  4 - 8 Months  
+Phase 3 - Design Development  8 - 12  Months  
+    Construction Documents  6 - 8 Months  
+    Value Engineering  1 - 2 Months  
+    Final Documents  1 Month  
+Phase 4 - Construction  1 - 2 Months  
+     Public Solicitation  1 - 2 Months  
+                    Contract Award  1 Month  
+                    Construction  Project Speciﬁc  
+ 
+ 
+Project Authorization 
+ 
+ 
+ 
+ 
+     Capital Project  
+Process Framework 
+ 
+ 
+ 
+ 
+ 
+Pages 6 – 13 provide detailed guidance on the additional steps required during each phase.  
+Corresponding ﬂowcharts for each phase are included in the appendix on pages 16 – 20. 
+ 
+ 
+ 
+Phase 1 
+Project 
+Identification 
+Phase 2 
+Conceptual 
+Design 
+Phase 3 
+Design 
+Development 
+Phase 4 
+Construction 
+Page 20 of 62
+6 
+ 
+V.CAPITAL PROJECT AUTHORIZATION CYCLE 
+The Capital Project Authorization Cycle guides annual CIP funding including how Town projects are 
+identiﬁed, evaluated, prioritized, funded, and approved. 
+Phase 1 – Project Identiﬁcation 
+Projects are identiﬁed based on needs voiced by the Board, Committees, sta:, and/or public and 
+assessed for conformance with associated strategic goals, master plans, and improvement plans. 
+Step  1 – Project Identiﬁcation  
+ 
+Activities  
+• Departments submit project requests. 
+• Preliminary scope developed. 
+• Rough order of magnitude (ROM) costs prepared. 
+• Funding sources identiﬁed. 
+ 
+Deliverable  
+Project Request Form 
+ 
+Approval  
+Sta: Review 
+Step  2 – Committee Evaluation   
+ 
+Activities  
+• Review project requests. 
+• Score projects against: 
+o Strategic goals 
+o Regulatory requirements 
+o Community beneﬁt 
+Deliverable  
+Committee recommendations to Board 
+ 
+Step  3 – Town Board Review  
+ 
+Activities  
+• Review Committee recommendations. 
+• Discuss priorities. 
+• Establish funding strategy. 
+• Identify projects to advance. 
+• Conﬁrm conformance with CIP 
+ 
+Deliverable  
+Direction to sta: 
+ 
+Approval  
+Town Board 
+Step 4 – Budget Adoption  
+ 
+Activities  
+• Final project budgeting. 
+• Funding allocation. 
+• CIP adoption. 
+ 
+Deliverable  
+Approved Project with tentative Budget 
+ 
+Approval  
+Town Board 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 62
+7 
+ 
+VI. CAPITAL PROJECT PROCESS FRAMEWORK 
+The Capital Project Process Framework provides a consistent approach for guiding projects from initial concept 
+through design, approval, bidding, construction, and closeout. The process establishes clear decision points for 
+sta:, advisory committees, and the Town Board while supporting accurate budgeting, e:ective public input, and 
+well-deﬁned project scopes. 
+Phase 2 – Conceptual Design 
+The Conceptual Design Phase is intended to ensure alignment with Committees, Board, and sta: on the 
+context and goal of the project. 
+Step  1 – Scope  Reﬁnement  (0% ) 
+ 
+Activities  
+• Deﬁne project scope 
+• Conﬁrm funding source 
+• Develop preliminary schedule 
+• Establish project team 
+• Determine proposal review committee (when 
+requested) 
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Project Charter  
+ 
+Approval  
+Town Board 
+ 
+Step 2 – Public  Solicitation  
+ 
+Activities  
+• Create project solicitation documents 
+• Respond to inquiries 
+• Further develop scope 
+• Create proposal grading rubric 
+ 
+Public Touchpoint 
+Publish Request for Proposals on Town website and 
+others 
+ 
+Deliverable  
+Request for Proposals 
+ 
+Approval  
+Town Board 
+ 
+Step 3 – Proposal  Reviews  
+ 
+Activities  
+• Review committee to grade proposals (if 
+needed) 
+• Contact references for veriﬁcation 
+• Present ﬁndings and recommendation to Board  
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Grading rubric 
+ 
+Approval  
+Town Board 
+ 
+ 
+ 
+Step 4  – Conceptual  Design (10%)  
+ 
+Activities  
+• Site investigations 
+• Alternatives analysis 
+• Stakeholder engagement 
+• Preliminary feasibility 
+ 
+Public Touchpoint  
+Sta: Presentations to recommended advisory 
+committee and Board of Trustees 
+ 
+Deliverables  
+• Concept Report 
+• Risk Register 
+ 
+Approval  
+Committee Recommendation to Proceed 
+ 
+ 
+ 
+ 
+Page 22 of 62
+8 
+ 
+Step 5 – Public Outreach (50%)  
+ 
+Activities  
+• Public surveys and presentations 
+• Stakeholder engagement 
+• Sta: review of ﬁnal concept 
+ 
+Public Touchpoint  
+Public survey(s) and outreach events. Board 
+presentation of results 
+ 
+Deliverables  
+• Approved concept 
+• Survey results 
+ 
+Approval  
+Sta: to Proceed 
+ 
+Step 6 – Conceptual Design (100%)  
+ 
+Activities  
+• Stakeholder engagement 
+• Preliminary feasibility 
+• Cost estimate (±30% contingency) 
+ 
+Public Touchpoint  
+Sta: Presentations to recommended advisory 
+committee and Board of Trustees 
+ 
+Deliverables  
+• Initial Schedule 
+• Preliminary Cost Estimate 
+• Reﬁned Risk Register 
+ 
+Approval  
+Committee Recommendation and Town Board 
+Authorization to Proceed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 62
+9 
+ 
+Phase 3 – Design Development (Design-Bid-Build – “Hard Bid” , “DBB”) 
+The approved concept must be developed into construction documents. These steps are included 
+for Design-Bid-Build procurement methods, also known as “Hard Bid” . This may require public 
+solicitation, or the Board may choose to extend contracts to the conceptual design team to 
+complete these. 
+Step 1 – Scope Reﬁnement (0%)  
+ 
+Activities  
+• Present comments from previous phases to 
+Board 
+• Conﬁrm budget 
+• Develop preliminary schedule 
+• Determine proposal review committee (if 
+needed) 
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Board Update 
+ 
+Approval  
+Town Board 
+Step 2 – Public Solicitation  
+ 
+Activities  
+• Create project solicitation documents 
+• Respond to inquiries 
+• Further develop scope 
+• Create proposal grading rubric 
+ 
+Public Touchpoint 
+Publish Request for Proposals on Town website and 
+others 
+ 
+Deliverable  
+Request for Proposals 
+ 
+Approval  
+Town Board 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step 3 – Proposal Reviews  
+ 
+Activities  
+• Review committee to grade proposals (if 
+needed) 
+• Contact references for veriﬁcation 
+• Present ﬁndings and recommendation to Board  
+• Board to Approve Contract 
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Grading rubric 
+ 
+Approval  
+Town Board 
+ 
+Step 4 – Schematic  Design ( 30%)  
+ 
+Activities  
+• Site investigation 
+• Alternatives analysis 
+• Stakeholder engagement 
+• Feasibility 
+ 
+Public Touchpoint  
+Sta: Presentations to recommended advisory 
+committee 
+ 
+Deliverables  
+• Preliminary Drainage Report 
+• Tra:ic Impact Memo 
+• Schematic Design Drawings 
+• Engineering Opinion of Cost 
+ 
+Approval  
+Committee Recommendation to Proceed 
+Page 24 of 62
+10 
+ 
+Step 5 – Value Engineering (VE)  (60%)  – If 90% cost 
+estimate exceeds expected budget by more than 
+10%  
+ 
+Required for: 
+• Projects over $2 million 
+• Projects exceeding budget 
+• Projects with signiﬁcant risk 
+VE Team  
+• Engineering 
+• Operations 
+• Finance 
+• Consultant(s) 
+Review Areas  
+ Materials 
+ Construction methods 
+ Phasing 
+ Lifecycle costs 
+ Scope optimization 
+ Risk mitigation 
+Deliverables  
+• VE Report 
+• Recommended Savings 
+• Revised Cost Estimate 
+ 
+Public Touchpoint  
+Referring Committee to review VE recommendations. 
+Town Board to review any major scope modiﬁcations. 
+ 
+Approval  
+Board Approval of modiﬁcations 
+Step  6 – 100% Construction Documents  
+ 
+Activities  
+• Incorporate VE recommendations 
+• Complete permit review 
+• Finalize bid package 
+• Complete legal review 
+Deliverables  
+• Signed and Sealed Plans 
+• Final Speciﬁcations 
+• Bid Documents 
+• Final Engineer's Estimate 
+ 
+Public Touchpoint 
+Final designs posted on Town website 
+  
+Approval  
+Board Authorization for public bid 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 62
+11 
+ 
+Phase 3* – Design Development (Alternative Delivery Program – “ADP”) 
+The approved concept must be developed into construction documents. These steps are included 
+for alternative delivery procurement methods such as CMAR (construction manager at risk), 
+CM/GC (construction manager/general contractor), P3 (public-private partnership) or Design-
+Build. This may require public solicitation, or the Board may choose to extend contracts to the 
+conceptual design team for completion of the Construction Documents. 
+Step 1 – Scope Reﬁnement (0%)  
+ 
+Activities  
+• Present comments from previous phases to 
+Board 
+• Conﬁrm budget 
+• Develop preliminary schedule 
+• Determine proposal review committee (if 
+needed) 
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Board Update 
+ 
+Approval  
+Town Board 
+Step 2 – Public Solicitation  
+ 
+Activities  
+• Create project solicitation documents 
+• Respond to inquiries 
+• Further develop scope 
+• Create proposal grading rubric 
+ 
+Public Touchpoint 
+Publish Request for Proposals on Town website and 
+others 
+ 
+Deliverable  
+Request for Proposals 
+ 
+Approval  
+Town Board 
+ 
+Step 3 – Proposal Reviews  
+ 
+Activities  
+• Review committee to grade proposals (if 
+needed) 
+• Contact references for veriﬁcation 
+• Present ﬁndings and recommendation to Board  
+• Board to Approve Contract 
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Grading rubric 
+Preconstruction Services Agreement 
+ 
+Approval  
+Town Board 
+ 
+Step 4 – Schematic Design (30%)  
+ 
+Activities  
+• Site investigation 
+• Alternatives analysis 
+• Stakeholder engagement 
+• Feasibility 
+ 
+Public Touchpoint  
+Sta: Presentations to recommended advisory 
+committee 
+ 
+Deliverables  
+• Preliminary Reports as required 
+• Schematic Design Drawings 
+• Engineering Opinion of Cost 
+ 
+Approval  
+Committee Recommendation to Proceed 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 26 of 62
+12 
+ 
+Step 5* - Public Request for Proposals (RFPs)  
+ 
+Activities  
+• Review committee to grade proposals (if 
+needed) 
+• Contact references for veriﬁcation 
+• Present ﬁndings and recommendation to Board  
+• Board to Approve Contract 
+ 
+Public Touchpoint 
+Sta: presentation to Board of Trustees 
+ 
+Deliverable  
+Grading rubric 
+ 
+Approval  
+Town Board 
+ 
+Step 6*  – Value Engineering (VE)  (60%)  – Will be 
+conducted for all ADP projects  
+ 
+VE Team  
+• Engineering 
+• Operations 
+• Finance 
+• Design Consultant 
+• General Contractor 
+ 
+Risk Review  
+ Materials, Construction methods, Phasing, Lifecycle 
+costs, Scope optimization, Risk mitigation 
+  
+Deliverables  
+• VE Report 
+• Recommended Savings 
+• Revised Cost Estimate 
+ 
+Public Touchpoint  
+Referring Committee to review VE recommendations. 
+Town Board to review any major scope modiﬁcations. 
+ 
+Approval  
+Board Approval of modiﬁcations  
+Ste p 7*  – 100% Construction Documents  
+ 
+Activities  
+• Incorporate VE recommendations 
+• Complete permit review 
+• Finalize bid package 
+• Complete legal review 
+ 
+Deliverable  
+• Signed and Sealed Plans 
+• Final Speciﬁcations 
+• Bid Documents 
+• Guaranteed Maximum Price (GMP) Agreement 
+Public Touchpoint 
+Final designs posted on Town website 
+  
+Approval  
+Board Authorization for public bid 
+ 
+*Asterisk denotes steps which may or may not appear in di:erent delivery methods. 
+ 
+ 
+ 
+ 
+ 
+Page 27 of 62
+13 
+ 
+Phase 4 – Construction 
+The 100% Construction Documents are required for ﬁnal lump-sum bids (DBB) or guaranteed 
+maximum price (ADP) contracts to be fully vetted. The Board may choose to award contract to GC 
+selected for preconstruction services in ADP projects or take the completed Construction 
+Documents to Hard Bid process at this juncture. Selected contractor will be responsible for 
+complete construction of this phase of the project.  
+Step 1 * – Public Solicitation  
+ 
+Activities  
+• Publicly advertise project.  All projects will be 
+advertised for a minimum of 3 weeks on the 
+Town’s website.  Other publications and online 
+platforms may be utilized at the Town 
+Administrator’s discretion 
+• Conduct pre-bid conference 
+• Respond to requests for information (RFIs) 
+• Issue addenda as needed 
+ 
+Alternative Delivery Program Activities 
+• Closeout preconstruction services contract 
+with selected GC 
+• Conﬁrm contractor availability for construction 
+ 
+Typical Duration  
+4–6 weeks 
+ 
+Public Touchpoint 
+Advertisements for bid posted publicly 
+ 
+Step 2*  – Bid  Reviews  
+ 
+Activities  
+• Public bid opening 
+• Review responses 
+• Evaluate budget and schedule 
+constraints as provided 
+• Evaluate qualiﬁcations 
+ 
+Alternative Delivery Program Activities 
+• Review complete GMP or lump sum bid 
+ 
+Deliverable  
+Bid Tabulation 
+ 
+Sta3 Recommendation  
+• Verify references and bonding 
+• Conﬁrm budget 
+ 
+Public Touchpoint 
+All received bids posted publicly in advertisement 
+ 
+Approval 
+Board Authorization to contract construction services 
+Step 3 – Construction  
+ 
+Activities  
+• Preconstruction conference 
+• Construction administration 
+• Monthly progress reports 
+• Change order management 
+ 
+Monthly Sta3 Report to Town Administrator and 
+Department Head/Project Sponsor  
+• Budget status 
+• Schedule status 
+• Risks 
+• Change orders 
+ 
+Public Touchpoint  
+Quarterly Board Update with progress summary 
+Step 4 – Project Completion  
+Activities  
+• Final inspection 
+• Punch list completion 
+• Warranty documentation 
+• Financial reconciliation 
+Deliverables  
+• Final Cost Report 
+• As-Built Drawings 
+• Lessons Learned Report 
+• The Town Administrator is authorized to issue 
+notice of completion and closeout contract 
+ 
+*Asterisk denotes steps which may or may not appear in di:erent delivery methods. 
+ 
+Page 28 of 62
+14 
+ 
+VII. GLOSSARY 
+ADP – Alternative Delivery Program. This contracting method o:ers a structured approach in which a 
+project owner uses non-traditional procurement and contracting methods to plan, design, construct, and 
+sometimes operate a project, in contrast to the conventional design-bid-build process.  
+A/E – Architect / Engineer. The team contracted for design of the project. Usually consists of a minimum 
+of an Architectural ﬁrm and an Engineering ﬁrm.  
+As-built Drawings – Drawings of the ﬁnal revised construction documents that show the project exactly 
+as it was actually built, capturing all ﬁeld changes, modiﬁcations, and deviations from the original 
+design.  
+Design-Build – This alternative contracting method integrates design and construction, enabling 
+innovation through proposer-driven solutions. E:ective use requires clearly deﬁned project requirements 
+and performance outcomes. One team is contracted to perform the design and construction phases of 
+the project. 
+DBB – Design-Bid-Build. Also known as “Hard Bid” . A traditional construction project delivery method 
+where design and construction are contracted separately in a sequential process. 
+CMAR – Construction Manager At Risk. Alternate name for CM/GC contracting method. See CM/GC  
+CM/GC – Construction Manager / General Contractor. This alternative contracting method supports 
+collaboration among the Owner, designer, and contractor during preconstruction to address complex 
+technical challenges. Design teams and Construction teams are contracted separately, though these 
+contracts can be executed simultaneously. 
+Contract – Any written agreement, regardless of title, for the acquisition of supplies or equipment, 
+including related incidental services. 
+Construction Drawings – Detailed, scaled technical documents that depict exactly what is to be built, 
+including dimensions, materials, and methods, and serve as o:icial contract documents guiding 
+construction. 
+Design Alternatives – Multiple viable methods of achieving the project goals. Owners typically select 
+desired alternative based on price, performance, or conformance with stated objectives. 
+Feasibility – The likelihood that any alternative or stage of the project can be easily or conveniently 
+completed. 
+GMP – Guaranteed Maximum Price. This contract sets a maximum price for a construction project, 
+beyond which the contractor absorbs additional costs. 
+Hard Bid -  See Design-Bid-Build . 
+P3 – Public-Private Partnership.  This alternative contracting method provides an arrangement where 
+public and private organizations collaborate to design, build, ﬁnance, operate, and maintain 
+infrastructure or deliver public services to reduce the individual cost or liability on parties involved. 
+Page 29 of 62
+15 
+ 
+ Preconstruction Services – These are services o:ered before any actual construction begins. These 
+services are part of the preconstruction planning stages of a construction project including Value 
+Engineering  and Feasibility  exercises.  
+Project Scope – This is a written narrative of the goals and constraints for the project. The scope deﬁnes 
+what is and is not included in the project. 
+Punch list – This is a register of outstanding project tasks that have yet to be satisfactorily completed 
+under the construction contract. These items are typically not substantive in scope. 
+Risk Register – A forward-looking list of risks that could happen with their owners, scores, controls, and 
+actions enumerated and updated throughout the project life. 
+Signiﬁcant Risk – A multitude of potential conditions that have HIGH likelihoods of occurring and can 
+have HIGH impacts on the success of the project.  
+Value Engineering – A systematic analysis of the functions of various project components and materials 
+to lower the cost of materials and services with a tolerable loss of performance or functionality. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 30 of 62
+16 
+ 
+APPENDIX A: CAPITAL PLANNING FLOW CHART 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STEP 1 - PROJECT IDENTIFICATION
+STAFF REVIEW
+STEP 2 - COMMITTEE EVALUATION
+COMMITTEEE RECOMMENDATIONS TO BE
+PROVIDED TO BOARD
+CONTINUE
+STEP 3 - BOARD REVIEW
+BOARD TO SET BUDGET, SCOPE
+CONTINUE?
+YES
+NO
+PROJECT CREATED
+SCOPE MODIFICATION
+RESUBMIT
+PHASE 2 - Conceptual Design
+PHASE 1 - Project Identification
+STEP 4 - BUDGET ADOPTION
+BOARD TO APPROVE FUNDING ALLOCATION,
+CIP UPDATED
+APPROVED?
+YES
+NO
+Page 31 of 62
+17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHASE 2 - Conceptual Design
+RESUBMIT
+ADDITIONAL STUDIES
+REQUESTED
+STEP 1 - SCOPE REFINEMENT
+STAFF TO PRESENT SCOPE OF WORK DOCUMENTS & RFP TO
+BOARD 
+RFP APPROVED FOR PUBLIC SOLICITATION?
+STEP 2 - PUBLIC SOLICITATION
+STAFF POSTS SOLICITATION DOCUMENTS, RESPONDS TO INQUIRIES
+MINIMUM NUMBER OF PROPOSALS RECEIVED?
+YES
+STEP 3 - PROPOSAL REVIEWS
+STAFF OR REVIEW COMMITTEE SELECT TOP PROPOSAL, PRESENT
+TO BOARD, BOARD TO APPROVE AWARD OF CONTRACT
+BOARD APPROVES?
+YES
+NO
+SCOPE REFINED
+RESUBMIT
+NO
+PROJECT MUST BE
+REAUTHORIZED
+STEP 4 - CONCEPTUAL DESIGN 10%
+STAFF AND COMMITTEE TO REVIEW 10% AND PROVIDE
+COMMENTS TO CONSULTANT
+YES
+NO
+STEP 6 - CONCEPTUAL DESIGN 100%
+STAFF AND COMMITTEE REVIEW 100% PROVIDE
+COMMENTS TO BOARD
+BOARD APPROVES?
+YES
+STEP 5 - PUBLIC OUTREACH 50%
+PUBLIC TO REVIEW AND PROVIDE FEEDBACK ON
+50% CONCEPT. RESULTS PROVIDED TO BOARD
+STAFF TO CONTINUE
+YES
+PHASE 3 - Design Development
+Page 32 of 62
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHASE 3 - Design Development (DBB)
+SEND TO BOARD AND
+REFERRING COMMITTEE FOR
+SCOPE MODIFICATION
+PREFERRED DESIGN
+TEAM OFFERED
+CONTRACT
+EXTENSION
+STEP 1 - SCOPE REFINEMENT
+STAFF TO PRESENT RFP TO BOARD. BOARD MAY RECOMMEND
+PROPOSAL REVIEW COMMITTEE
+RFP APPROVED FOR PUBLIC SOLICITATION?
+STEP 2 - PUBLIC SOLICITATION
+STAFF POSTS SOLICITATION DOCUMENTS, RESPONDS TO INQUIRIES
+PROPOSALS RECEIVED?
+YES
+YES
+NO
+SCOPE REFINED
+RESUBMIT
+PREFERRED
+DESIGN TEAM
+STEP 3 - PROPOSAL REVIEWS
+STAFF OR REVIEW COMMITTEE SELECT TOP PROPOSAL, PRESENT
+TO BOARD, BOARD TO APPROVE AWARD OF CONTRACT
+BOARD APPROVES?
+STEP 4 - SCHEMATIC DESIGN (30%)
+STAFF  TO REVIEW AND PROVIDE COMMENTS TO CONSULTANT,
+SUBSTANTIVE CHANGE IN SCOPE SHARED WITH COMMITTEE
+APPROVED?
+YES
+NO
+STEP 5 - VALUE ENGINEERING (60%)
+STAFF  TO WORK WITH CONSULTANT TO MEET BUDGET, ANY
+CHANGE IN SCOPE SHARED WITH COMMITTEE AND BOARD
+90% ESTIMATE MEETS BUDGET?
+YES
+RESUBMIT
+SCOPE REFINED
+RESUBMIT
+YES
+STEP 6 - 100% CONSTRUCTION DOCUMENTS
+STAFF  TO PRESENT FINAL DESIGN DOCUMENTS TO BOARD, BOARD
+TO PROVIDE DIRECTION TO SOLICIT BIDS FOR CONSTRUCTION
+BOARD APPROVAL TO BID?
+YES
+PHASE 4 - Construction Procurement
+NO
+NO
+REQUEST BUDGET
+INCREASE
+APPROVED?
+YES
+NO
+Page 33 of 62
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHASE 3* - Design Development (ADP)
+SEND TO BOARD AND
+REFERRING COMMITTEE
+FOR SCOPE
+MODIFICATION
+INITIAL DESIGN TEAM
+OFFERED CONTRACT
+EXTENSION
+STEP 1 - SCOPE REFINEMENT
+STAFF TO PRESENT RFP TO BOARD. BOARD MAY RECOMMEND
+PROPOSAL REVIEW COMMITTEE
+RFP APPROVED FOR PUBLIC SOLICITATION?
+STEP 2 - PUBLIC SOLICITATION
+STAFF POSTS SOLICITATION DOCUMENTS, RESPONDS TO INQUIRIES
+MINIMUM NUMBER OF PROPOSALS RECEIVED?
+YES
+YES
+NO
+SCOPE REFINED
+RESUBMIT
+NO
+STEP 3 - PROPOSAL REVIEWS
+STAFF OR REVIEW COMMITTEE SELECT TOP PROPOSAL, PRESENT
+TO BOARD, BOARD TO APPROVE AWARD OF CONTRACT
+BOARD APPROVES?
+STEP 4 - SCHEMATIC DESIGN (30%)
+STAFF  TO REVIEW AND PROVIDE COMMENTS TO CONSULTANT,
+ANY CHANGE IN SCOPE SHARED WITH COMMITTEE, STAFF TO
+SOLICIT FOR GC PENDING BOARD APPROVAL
+APPROVED?
+YES
+NO
+STEP 6* - VALUE ENGINEERING (60%)
+STAFF  TO WORK WITH CONSULTANT TO MEET BUDGET, ANY
+CHANGE IN SCOPE SHARED WITH COMMITTEE AND BOARD
+90% ESTIMATE MEETS BUDGET?
+YES
+RESUBMIT
+SCOPE REFINED
+RESUBMIT
+YES
+STEP 7* - 100% CONSTRUCTION DOCUMENTS
+STAFF  TO PRESENT FINAL DESIGN DOCUMENTS TO BOARD,
+BOARD TO PROVIDE DIRECTION TO BEGIN CONSTRUCTION
+YES
+PHASE 4 - Construction Procurement
+NO
+REQUEST BUDGET
+INCREASE
+APPROVED?
+YES
+NO
+*DENOTES ALTERNATE STEP PER DELIVERY METHOD
+STEP 5* - PUBLIC REQUEST FOR PROPOSALS
+STAFF POSTS SOLICITATION DOCUMENTS, RESPONDS TO
+INQUIRIES, ASSESS QUALIFICATIONS, BOARD TO APPROVE
+TEAM APPROVED?
+*DENOTES ALTERNATE STEP PER DELIVERY METHOD
+Page 34 of 62
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PHASE 4 - Construction
+RESPONDENT PROVIDE
+SOLE SOURCE
+JUSTIFICATION?
+STEP 1* - PUBLIC SOLICITATION
+STAFF POSTS SOLICITATION DOCUMENTS, RESPONDS
+TO INQUIRIES
+MULTIPLE BIDS RECEIVED?
+YES
+YES
+STEP 2* - BID REVIEWS
+STAFF OR REVIEW COMMITTEE SELECT TOP PROPOSAL, PRESENT
+TO BOARD, BOARD TO APPROVE AWARD OF CONTRACT
+BOARD APPROVED?
+STEP 3 - CONSTRUCTION
+STAFF  TO MANAGE AND REPORT ON STATUS OF
+CONSTRUCTION TO BOARD AT APPROPRIATE INTERVALS
+CHANGE ORDER?
+NO
+RESUBMIT
+STAFF  TO WORK WITH DESIGN &
+CONTRACTOR TO MEET BUDGET,
+ANY CHANGE IN SCOPE SHARED
+WITH COMMITTEE AND BOARD
+YES
+NO
+RESUBMIT
+REQUEST BUDGET
+INCREASE
+APPROVED?
+NO
+>5% INCREASE TO
+PROJECT BUDGET?
+REQUEST APPROVAL
+FROM BOARD
+CONSULTANT(S) TO
+PROVIDE ALTERNATIVE
+YES
+PROJECT CLOSEOUT
+NO
+APPROVED
+YES
+NOT APPROVED
+RESUBMIT
+LESSONS LEARNED
+COMMUNITY FEEDBACK
+BUDGET REVIEW
+MASTER PLANS UPDATED
+STEP 4 - PROJECT COMPLETION
+STAFF TO ACCEPT CONSTRUCTION
+AND REPORT TO BOARD
+BOARD APPROVAL?
+YES
+*DENOTES ALTERNATE STEP PER DELIVERY METHOD
+NO
+ADP-CONTRACTED GC?*
+NO
+YES
+NO
+NO
+YES
+Page 35 of 62
+21 
+ 
+APPENDIX B: PROJECT CREATION TEMPLATE 
+ 
+TOWN OF BERTHOUD  
+Public Works Department  
+ 
+PROJECT CREATION FORM  
+Complete this form for a new capital project request. Attach any supporting maps, photos, or prior studies.  
+1. Submitter Information  
+Submitted By:    
+Date Submitted:    
+Department:    
+Phone / Email:    
+2. Project Overview  
+Project Name:    
+Project Location/Limits:    
+ 
+Project Type (check all that apply):  
+☐  Roadway / Transportation ☐  Utility / Drainage ☐  Parks / Recreation 
+☐  Facilities / Buildings ☐  Trails / Multimodal ☐  Other:  _______________ 
+Work Type (check all that apply):  
+☐  New Construction ☐  Addition to existing facility ☐  Alteration to existing facility 
+Description of Need / Problem Statement:  
+ 
+Description of Proposal (how will this project address the need in a way that is not currently being addressed?):  
+ 
+Background (prior studies, related projects, known constraints):  
+ 
+Page 36 of 62
+22 
+ 
+3. Project Goals  
+List the primary goals this project should accomplish.  
+ 
+  
+  
+  
+4. Anticipated Scope of Work  
+Anticipated Phases (check all that apply):  
+☐  Conceptual Design  ☐  Final Design / Construction Docs  ☐  Site studies (list below)   
+Additional Scope Notes:  
+  
+5. Budget & Funding  
+Estimated Project Budget:    
+Proposed Funding Source(s):    
+Budget Year / CIP Reference:    
+Grant Opportunity:   
+6. Timeline  
+Desired Start Date:    
+Desired Completion Date:    
+Anticipated Board Meeting Date:    
+7. Stakeholders & Coordination  
+Internal Departments Involved:    
+External Agencies / Utilities:    
+Community / Stakeholder Groups:    
+8. Review & Approval  
+Department Head Approval:  Signature / Date  
+Town Administrator Approval:  Signature / Date  
+ 
+ 
+ 
+ 
+ 
+Page 37 of 62
+23 
+ 
+ 
+APPENDIX C: PROJECT CHARTER TEMPLATE 
+ 
+TOWN OF BERTHOUD  
+Public Works Department  
+PROJECT CHARTER  
+The Project Charter deﬁnes project scope and objectives and identiﬁes the project manager and their authority. Complete this 
+charter following approval of the Project Creation Form  
+1. Project Identiﬁcation  
+Project Name:    
+Project Location / Limits:    
+Date of Project Creation:    
+Project Number:   
+Project Charter Date:   
+ 
+Project Type (check all that apply):  
+☐  Roadway / Transportation  ☐  Utility / Drainage  ☐  Parks / Recreation  
+☐  Facilities / Buildings  ☐  Trails / Multimodal  ☐  Other:  _______________  
+Work Type (check all that apply):  
+☐  New Construction  ☐  Addition to existing facility  ☐  Alteration to existing facility  
+☐  Demolition of existing facility  ☐  Temporary construction  ☐  Other:  _______________  
+2. Purpose and Business Case  
+Describe the need this project addresses and why this is not being addressed currently. Must match project creation form with any 
+revisions explained here.  
+Description of Need / Problem Statement:  
+  
+  
+Description of Proposal (how does this project address the need in a way not currently being addressed?):  
+ 
+ 
+Page 38 of 62
+24 
+ 
+3. Objectives and Success Criteria  
+List measurable objectives. Each should be speciﬁc enough to conﬁrm at project closeout whether it was met.  
+# Objective  How Success Will Be Measured  
+      
+      
+      
+      
+      
+4. Scope  
+In Scope (work this project will deliver):  
+  
+  
+  
+  
+Out of Scope (explicitly excluded work):  
+  
+  
+  
+Key Deliverables:  
+# Deliverable Description  
+    
+    
+    
+    
+    
+5. Milestones and Schedule  
+Milestone / Phase  Target Date  Responsible Party  
+      
+      
+      
+      
+Page 39 of 62
+25 
+ 
+Milestone / Phase  Target Date  Responsible Party  
+      
+      
+      
+ 
+Anticipated Board Meeting Date:    
+Target Substantial Completion Date:    
+6. Budget and Funding  
+Funding Source  Estimated Amount  Phase  
+      
+      
+      
+ 
+Total Estimated Project Cost:    
+Approved Budget Amount:    
+Budget Year(s):    
+7. Internal Project Team, Roles, and Authority  
+Role  Name / Department  Title  
+      
+      
+      
+   
+Suggested roles: Project Sponsor, Project Manager, Town Engineer, Finance Liaison, Consultant/Design Lead, Contract Administrator.  
+8. Stakeholders and Communication  
+Stakeholder / Group  Interest in Project  Communication Method & Frequency  
+      
+      
+      
+   
+Page 40 of 62
+26 
+ 
+9. Assumptions and Constraints  
+Assumptions:  
+  
+Constraints (budget, schedule, regulatory, right-of-way, environmental, operational):  
+ 
+10. Risks  
+Risk  Impact 
+(H/M/L)  
+Likelihood 
+(H/M/L)  
+Mitigation Approach  
+        
+        
+        
+        
+        
+11. Charter Approval  
+Signature below authorizes the project to proceed as described in this charter.  
+Project Sta3 Sponsor:  Signature / Date  
+Department Head:  Signature / Date  
+Town Administrator:  Signature / Date  
+Town Board Approval (if 
+required):  Date / Resolution No.  
+ 
+Retain the signed charter in the project ﬁle. Attach the approved Project Creation Form and any supporting studies, maps, or cost estimates.  
+Page 41 of 62
+27 
+ 
+APPENDIX D: RISK REGISTER TEMPLATE 
+ 
+Risk ID Risk Impact Impact Rating Probability Rating Priority Level Mitigation Notes Status  Owner  Reviewed  Notes 
+Example  
+Long lead 
+time on 
+materials 
+Delay 
+project 
+schedule 
+2 4 8 
+Order items 
+during early 
+procurement 
+Open PM 03/01/26   
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+Page 42 of 62
+  
+ADMINISTRATION DEPARTMENT 
+ 
+Page 1 of 1 
+ 
+TOWN TRUSTEES INFORMATION  
+ 
+  
+Meeting Date: September 29, 2026 
+  
+Agenda Title/Subject: Purchasing Policy 
+  
+Type of Item: Regular Item 
+  
+Purpose: To get the Board’s feedback on the Town’s 
+updated Purchasing Policy 
+  
+Presented by: Chris Kirk, Town Administrator 
+  
+ 
+ATTACHMENTS: 
+Current purchasing policy amended January 2024 
+Proposed purchasing policy 
+ 
+BACKGROUND: 
+The Town’s purchasing policy establishes consistent, transparent, and efficient procedures 
+for the acquisition of supplies and equipment by the Town.  It promotes competition, 
+accountability, and responsible stewardship of public funds. 
+ 
+Originally adopted in 2001, the Town’s purchasing policy has been amended several times, 
+most recently in January 2024.  With ongoing changes to the Town’s operations and the 
+economy, staff believes it is appropriate to revisit and adopt a new purchasing policy. 
+ 
+The proposed policy does cover capital projects, professional services, or the leasing, rental, 
+acquisition or disposition of property.  Capital projects are to be governed by a separate 
+policy, also being presented for consideration at the September 29 study session.  
+Professional services may be obtained using alternative procurement methods as authorized 
+by the Town Administrator.  This policy is intended to primarily cover the procurement of 
+supplies and equipment.  
+ 
+At the Study Session, staff will provide an overview of the proposed policy and receive 
+feedback from the Board before making any appropriate amendments and scheduling the 
+policy for adoption at a future Board meeting. 
+ 
+STAFF RECOMMENDATION: 
+Provide direction to staff regarding the purchasing policy 
+Page 43 of 62
+1 
+ 
+                                                            
+ 
+Town of Berthoud 
+Purchasing and Bidding Procedures 
+Adopted February 13, 2001 
+Amended July 24, 2012 
+Amended September 12, 2017 
+Amended January 9, 2024 
+ 
+ 
+Board of Trustees 
+William Karspeck, Mayor 
+Mike Grace, Mayor Pro Tem 
+May Albrecht, Trustee 
+Karl Ayers, Trustee 
+Tim Hardy, Trustee 
+Sean Murphy, Trustee 
+Chris Kurtz, Trustee 
+ 
+ 
+ 
+ 
+Page 44 of 62
+2 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+ 
+I. BASIC PURCHASING POLICY ………………………………….………….……………………….3 
+II. NORMAL BIDDING POLICY & GUIDELINES……………………………………..…….…….3 
+III. EXCEPTIONS…………………………………………………………………………………..…….……4 
+IV. LOCAL BUSINESS PREFERENCE…………………………………………………………....…….5 
+V. SOLICITATION TIME……………………………………………………………………….….……….5 
+VI. RECEIPT OF BIDS………………………………………………………………………………..……….5 
+VII. EMERGENCY PURCHASING………………………………………………………….…….……….5 
+VIII. CONFLICT OF INTEREST……………………………………………………………….……….…….5 
+IX. GLOSSARY…………………………………………………………………………………..……………..6 
+ 
+APPENDIX A ………………………………………………………………………………………………………….8 
+APPENDIX B ………………………………………………………………………………………………………….9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 45 of 62
+3 
+ 
+I. BASIC PURCHASING POLICY 
+ 
+This policy applies to every department, agency, commission, bureau or other unit of the Town. 
+A purchase order shall be obtained from the Town Administrator or any person(s) designated by the Town 
+Administrator to act on behalf of the Administrator, on all purchases $2,500.00 or greater before making 
+a purchase.  Purchases of produ cts and services of less than $2 ,500.00 shall be pre -approved by the 
+applicable department head.  A detailed receipt of the purchase shall be signed by the employee and 
+department head and filed with the Finance Department within one business day after the purchase. 
+On items over $5,000 but under $50,000.00  a telephone solicitation shall be done to obtain at least three 
+(3) bids.  The bid amounts and bidders shall be listed on a solicitation sheet (see Appendix A) and filed 
+with the purchase order for the item(s) concerned. 
+On items over $50,000.00 at least three (3) written bids shall be obtained.  The written bids, along with 
+the results of the bids shall be filed with the purchase order for the item(s) concerned. 
+Unsuccessful bidders may view information on the outcome of the bid as listed on the solicitation sheet 
+by contacting the applicable Department Head. 
+Purchase Orders are not required if a contract for services, product, or project has been signed by the 
+Town Administrator.  The contract will serve as the Purchase Order. 
+Section IX “Conflict of Interest” provisions shall apply to this section. 
+ 
+II. NORMAL BIDDING POLICY & GUIDELINES 
+The Town of Berthoud requires formal sealed bidding on projec ts and equipment expected to cost  
+$50,000.00 or more.  In these cases, bid packages shall be prepared and posted on the Town’s website as 
+well as other online resources .  In cases where competitive bidding is required by grant or loan terms, 
+those rules shall take priority over these. 
+Each bid package shall contain complete instructions for submission of the bid.  Bidders will be directed 
+to complete the bid in its entirety.  Bidders will also be required to identify any flaws in the bid, to the 
+Town Administrator or Department Head ove rseeing the bidding.  All bids must be clearly identified by 
+bid number and title on the face of the envelope contain ing the bid.  Bid package fees, if applicable, are 
+not refundable unless all bids are rejected; in this case fees may be refunded. 
+Bids shall customarily be publicly opened at the time and date specified in the bid packages.  NO late bids 
+or telephone bids will be accepted.  Openings are generally held at Town Hall located at 807 Mountain 
+Ave in Berthoud Colorado. 
+After bids are opened, there will be an evaluation of the bids.  The successful bidder shall be required to 
+furnish certificates of insurance and Workers Compensation, and may be required to furnish bid bonds 
+and performance-payment bonds, as specified in the bid documents. 
+The bid documents shall state that the Town of Berthoud reserves the right to reject any and all bids.  In 
+the case of rejection of all bids on construction projects, a staff recommendation will be made to the 
+Board of Trustees to reject all bids by motion, which, if rejected, will be made a part of the public record. 
+In normal circumstances, after the bid opening and evaluation of bids, a contract will be issued to the 
+successful bidder.  All bids awarded shall be in the best interest of the Town and the lowest bid may not 
+be selected in all situations.  (See definitions 2 & 11 in the section titled “Glossary”) 
+Page 46 of 62
+4 
+ 
+Progress payments for construction projects shall be set forth in the contract and shall be approved in 
+advance by the Town Administrator, or, in the case of Public Works projects, the Director of Public Works.  
+The average payment period by the Town of Berthoud Finance Department is thirty (30) days after review 
+and approval of the invoice. 
+The Town of Berthoud contract documents shall require a minimum warranty on all work performed  of 
+two (2) years, unless otherwise specified in the bid package documents. 
+Once a contract is awarded, there shall be no changes to that contract without the written authorization 
+of a change order by the Town Project Supervisor and the Town Administ rator.  The contract shall state 
+that no verbal changes or agreements shall be binding upon the Town or its representatives.  The official 
+Town of Berthoud Change Order will be the only acceptable instrument for execution of changes to a 
+contract.  (See Appendix B) 
+The Board of Trustees reserves the right to waive competitive bidding under circumstances that it may 
+find to be in the best interest of the Town. 
+The Board of Trustees will designate, in the resolution approving the annual Town budget, projects and 
+purchases which will require board approval before acceptance of bids.  All other projects and equipment 
+purchases will be approved by the Town Administrator unless otherwise directed by the Board of Trustees 
+during the budget process. 
+ 
+III. EXCEPTIONS 
+The bid policy shall apply to every department, agency, commission, bureau or other unit of the Town 
+except as set forth, all or in part, in this section: 
+a. When a bid project or purchase involves the expenditure of State or Federal assistance or contract 
+funds, the Town shall follow any mandatory requirements of applicable State of Federal law and 
+implementing regulations. 
+b. Nothing in this policy shall prevent the Town from complying with the terms and conditions of 
+any grant, gift bequest or cooperative agreement.  Competitive procedures and public disclosure 
+shall be followed whenever possible. 
+c. Procurement of professional services is excepted from competitive bid regulations.  Requests for 
+competitive proposals may be accepted for such services. 
+d. When supplies or equipment are purchased using the State of Colorado contracts available to 
+local units of government. 
+e. When supplies, equipment or services are so specialized that th ere are a limited number of 
+known, documented sources, or a single source. 
+f. When supplies or equipment are purchased in large quantities that are required for the basic 
+operaton of Town facilities (i.e. chemicals, road sand, and aggregates). 
+g. When advertising for bids constitutes no advantage in quality, price, or service to the Town, or 
+when the “best interest of the Town” is not served by advertising for bids. 
+h. This policy shall not be applicable to the leasing, rental, acquisition or disposition of real property. 
+i. Any exceptions taken under this section shall be documented with a copy provided to the Town 
+Administrator. 
+ 
+ 
+ 
+Page 47 of 62
+5 
+ 
+IV. LOCAL BUSINESS PREFERENCE 
+No provision is made in this policy for preferential consideration of local vendors or contractors.  It is 
+however, the policy of the Town to solicit bids from local suppliers whenever and wherever such 
+competitive local sources exist, and where no sacrifice or loss in price or quality would result. 
+ 
+V. SOLICITATION TIME 
+The minimum time for solicitation of bids shall be 14 calendar days.  When special requirements exist, the 
+Town may lengthen or shorten the bid time, but in no case, shall the time cycle be shortened if it will 
+reduce competition.  Complicated bids may have a time period which is longer than the standard 14 
+calendar days.  Solicitation times of less than 14 days shall be documented by the Town Administrator or 
+appointed representative as to why a reduced bid period was required. 
+ 
+VI. RECEIPT OF BIDS 
+Upon receipt, each bid shall be time-stamped by machine or by hand and shall be stored in a secure place 
+until bid opening time.  Bids shall not be opened upon receipt except for unidentified bids, which may be 
+opened for purposes of identification and resealed in the presence of 2 witnesses. 
+ 
+VII. EMERGENCY PURCHASING – DEFINITION OF SITUATION AND GUIDELINES 
+An emergency situation is one which creates a threat to public health, welfare or safety such as may arise 
+by reason of flooding, utility failures, epidemics, riots, equipment failures or other such reason as may be 
+proclaimed by the Town Administrator or duly appointed representative.  The existence of such condition 
+creates an immediate and serious need for supplies, equipment, materials or services that cannot be met 
+through normal bidding or purchasing methods and the lack of which would threaten, inhibit or impair 
+the function of town government or its programs. 
+Emergency purchase shall be limited to those supplies, equipment materials or services necessary to meet 
+the emergency. 
+Any department may make emergency purchases when an emergency condition arises and the need 
+cannot be met through normal bidding methods.  In the event an emergency arises after normal working 
+hours, the department head shall notify the Town Administrator immediately.  Documentation shall be 
+filed listing the situation and action taken. 
+ 
+VIII. CONFLICT OF INTEREST 
+Any Town Board member desiring to bid on Town of Berthoud projects shall contact the Secretary of 
+State’s Office and submit statements as required by that office.  A copy of these statements shall remain 
+on file at the Town Hall during the board member’s term of office.  Should the board member be a bidder, 
+contractor, sub-contractor, supplier or consultant on a project, he or she shall withdraw from the Board 
+Room, refrain from discussions about the project with any other Trustee or Staff Member, and  shall not 
+vote on the proposed contract. 
+ 
+ 
+Page 48 of 62
+6 
+ 
+IX. GLOSSARY 
+ 
+1. AWARD – The acceptance of a bid or proposal; the presentation of a purchase agreement or 
+contract to a bidder. 
+2. BEST INTEREST OF THE TOWN – A term frequently used in granting a Town official the authority 
+to use discretion to take action felt to be the most advantageous to the public interest, peace, 
+health, or safety. 
+3. BID – An offer, as a price whether for payment or acceptance.  A tender given specifically to a 
+prospective purchaser upon request, usually in competition with other bidders. 
+4. BID BOND – An insurance agreement in which a third part y agrees to be liable to pay a certain 
+amount of money in the event that a bid is accepted and the bidder fails to accept the contract as 
+awarded. 
+5. BIDDER’S LIST – A list maintained by any department of the Town, setting out the names and 
+addresses of suppliers of various goods and services from whom bids, proposals and quotations 
+may be solicited. 
+6. CHANGE ORDER – A fully executed change to an awarded and accepted bid, usually in progress.  
+See Appendix B 
+7. CONTRACT – Any type of Town agreement, regardless of what it may be called, for the 
+procurement or disposal of supplies, equipment, materials or services. 
+8. EMERGENCY PURCHASE – A purchase made without following the normal purchasing procedures 
+in order to obtain goods or services to meet an urgent and unexpected requirement. 
+9. EVALUATION OF BID – The process of examining a bid after opening to determine the bidder’s 
+responsibility, responsiveness to requirements and to ascertain other characteristics of the bid 
+and bidder that relate to selection of the successful bidder. 
+10. LEGAL NOTICE – Notice of a proposed purchase as required by law.  Depending on the legal 
+requirement, notice may be satisfied by posting an announcement of the purchase in a public 
+place, notification of the appropriate bidders from the bidders list, formal advertisement in a 
+newspaper of general circulation, or a combination of these methods. 
+11. LOWEST RESPONSIBLE BIDDER – Originally the bidder submitting the lowest initial price and 
+capable of performing the proposed contract.  Under current purchasing concepts, generally the 
+same as the lowest responsive and responsible bidder, or the bidder who submits the lowest and 
+best bid considered to be in the best interest of the Town. 
+12. PERFORMANCE BOND – A contract of guaranty executed subsequent to award by a successful 
+bidder to protect the Town from loss due to contractor’s inability to complete the contract as 
+agreed. 
+13. PROPOSAL – An offer made by one party to another as a basis for negotiations for entering into a 
+contract. 
+14. PUBLIC WORKS DIRECTOR – The director of Public Works department or any person designated 
+by the Town Administrator to act on behalf of the director. 
+15. RESPONSIBLE BIDDER – That bidder who has the capability in all respects to perform in full the 
+contract requirements, and the integrity and reliability that will assure the complete and timely 
+compliance with the bid specifications and contract. 
+16. SEALED BID – A bid which has been submitted in a sealed envelope, to prevent its contents from 
+being revealed or known before the deadline for the submission of all bids. 
+17. SPECIFICATIONS – Any description of the physical, functional or performance characteristics, or 
+of the nature of a supply, service or construction item.  A specification includes as appropriate, 
+requirements of inspecting, testing or preparing a supply, service or construction item for 
+delivery. 
+Page 49 of 62
+7 
+ 
+18. TOWN – The Town of Berthoud, including any department, agency, commission, bureau or unit 
+of the Town government. 
+19. TOWN ADMINISTRATOR – Chief Administrative Official on all town business appointed to that 
+position by the town board, to see that all business conducted is in the best interest of the Town. 
+20. WAIVER OF BIDS – A process authorized by the Town Administrator to purchase items without 
+competitive bidding procedures, due to unique situations or emergency situations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+Page 50 of 62
+8 
+ 
+          APPENDIX A 
+ 
+Town of Berthoud 
+807 Mountain Ave 
+PO Box 1229 
+Berthoud, CO  80513 
+ 
+BID SHEET (TELEPHONE SOLICITATIONS) 
+ 
+DEPARTMENT____________________________________________DATE_____________________ 
+PURPOSE OF BID___________________________________________________________________ 
+DEPARTMENT HEAD________________________________________________________________ 
+ 
+BID #1 
+NAME OF COMPANY________________________________________________________________ 
+STREET ADDRESS______________________________CITY_____________STATE______ZIP_______ 
+PHONE___________________________________________________________________________ 
+PRICE EACH__________________________________________TOTAL________________________ 
+NOTES____________________________________________________________________________ 
+BID #2 
+NAME OF COMPANY________________________________________________________________ 
+STREET ADDRESS______________________________CITY_____________STATE______ZIP_______ 
+PHONE___________________________________________________________________________ 
+PRICE EACH__________________________________________TOTAL________________________ 
+NOTES____________________________________________________________________________ 
+BID #3 
+NAME OF COMPANY________________________________________________________________ 
+STREET ADDRESS______________________________CITY_____________STATE______ZIP_______ 
+PHONE___________________________________________________________________________ 
+PRICE EACH__________________________________________TOTAL________________________ 
+NOTES____________________________________________________________________________ 
+ 
+COMMENTS_______________________________________________________________________ 
+RESULTS OF BID____________________________________________________________________ 
+Page 51 of 62
+9 
+ 
+          APPENDIX B 
+CHANGE ORDER NUMBER _____ 
+ 
+Project: ___________________________________________________________________________ 
+ 
+Owner:  Town of Berthoud  Contractor: _____________________________ 
+  PO Box 1229     _____________________________ 
+  Berthoud, CO  80513    _____________________________ 
+ 
+Description (Identify the specific contract provisions being changed): __________________________ 
+__________________________________________________________________________________ 
+__________________________________________________________________________________ 
+ 
+Justification: ________________________________________________________________________ 
+___________________________________________________________________________________ 
+___________________________________________________________________________________ 
+ 
+Revision in Contract Amount:  Original Contract Amount $_______________________ 
+     Prior Contract Adjustments $_______________________ 
+     Additional Charges Caused by 
+          this Change Order  $_______________________ 
+     Reductions in Charges Caused 
+          by this Change Order  $_______________________ 
+     Revised Contract Amount $_______________________ 
+ 
+Revision in Contract Time:  Original Completion Date ________________________ 
+     Prior Time Adjustments  ________________________ 
+     Revised Contract Time  ________________________ 
+     Revised Completion Date ________________________ 
+ 
+Approved by Owner____________________________________________Date___________________ 
+ 
+Approved by Contractor________________________________________Date____________________ 
+Page 52 of 62
+1 
+ 
+ 
+ 
+Town of Berthoud 
+Supplies and Equipment Purchasing Policy 
+Adopted October 13, 2026 
+ 
+ 
+Board of Trustees 
+William Karspeck, Mayor 
+May Albrecht, Mayor Pro Tem 
+Karen Anderson, Trustee 
+Casey Grace, Trustee 
+Sean Murphy, Trustee 
+Arno Olbricht, Trustee 
+Brett Wing, Trustee 
+  
+Page 53 of 62
+2 
+Table of Contents 
+I. PURPOSE AND SCOPE....................................................................................... 3 
+II. PURCHASING AUTHORITY AND GENERAL REQUIREMENTS ................................ 3 
+III. PURCHASING THRESHOLDS ............................................................................ 4 
+IV. FORMAL COMPETITIVE PROCUREMENT ........................................................... 5 
+V. EXCEPTIONS AND ALTERNATIVE PROCUREMENT METHODS .............................. 5 
+VI. LOCAL BUSINESSES ........................................................................................ 6 
+VII. EMERGENCY PURCHASING ............................................................................ 6 
+VIII. RECORDS AND ADMINISTRATION .................................................................. 7 
+IX. GLOSSARY ...................................................................................................... 7 
+APPENDIX A. QUOTE SUMMARY AND PROCUREMENT JUSTIFICATION FORM .......... 8 
+  
+Page 54 of 62
+3 
+I. PURPOSE AND SCOPE 
+The purpose of this policy is to establish consistent, transparent, and efficient 
+procedures for the acquisition of supplies and equipment by the Town of Berthoud, while 
+promoting competition, accountability, responsible stewardship of public funds, and the best 
+interest of the Town. 
+This policy applies to every department, agency, commission, and other unit of the 
+Town. It applies to supplies and equipment acquired through purchase, rental, lease, lease-
+purchase, or similar arrangement. It also applies to delivery, installation, warranties, 
+maintenance, training, and other services that are incidental to the acquisition of supplies or 
+equipment. 
+ 
+Excluded Procurements 
+a) Capital projects are outside the scope of this policy. Capital projects include 
+construction, reconstruction, renovation, repair, or improvement of Town-owned or 
+Town-controlled real property or infrastructure, together with contracts and change 
+orders primarily related to that work. Capital projects shall be procured under separate 
+procedures approved by the Town and in accordance with applicable law, funding 
+requirements, and contract documents. 
+b) Professional services are exempt from the competitive requirements of this policy. The 
+Town may use requests for qualifications, requests for proposals, direct negotiation, or 
+another appropriate selection method for professional services, at the discretion of the 
+Town Administrator. 
+c) The leasing, rental, acquisition, or disposition of real property is not governed by this 
+policy. 
+ 
+When a procurement includes both equipment and construction or other services, the 
+Town Administrator shall determine which policy, or procedure applies based on the principal 
+purpose, relative cost, and risk of the procurement. 
+ 
+ 
+II. PURCHASING AUTHORITY AND GENERAL REQUIREMENTS 
+1) Budget and Appropriation. No purchase may be made unless sufficient funds have 
+been budgeted and appropriated, except as otherwise authorized by law and the Board 
+of Trustees. 
+2) Town Administrator Authority. The Town Administrator may approve purchases and 
+execute contracts within the approved annual budget. The Board of Trustees may 
+identify, through the annual budget resolution or other formal action, specific 
+purchases that require Board approval before award or commitment. 
+Page 55 of 62
+4 
+3) Department Responsibility. Department heads are responsible for planning 
+purchases, confirming budget availability, preparing specifications, obtaining required 
+competition, documenting the selection, and ensuring that employees do not commit 
+the Town without proper authorization. 
+4) Purchase Orders. A purchase order shall be obtained from the Town Administrator or 
+designee before committing the Town to a purchase of $2,500 or more. A contract 
+signed by the Town Administrator may serve in place of a purchase order. Purchases 
+below $2,500 require department-head approval and supporting receipts shall be 
+submitted to the Finance Department in accordance with Finance procedures. 
+5) Total Purchase Value. Thresholds shall be based on the reasonably anticipated total 
+value of the purchase, including freight, delivery, installation, accessories, options, 
+renewals, and related charges. Trade-in value, rebates, or credits shall not be used to 
+reduce the purchase below an applicable threshold. 
+6) Best Interest of the Town. Awards shall be made to the responsible and responsive 
+vendor whose offer provides the best value and is in the best interest of the Town. Price 
+is important, but the Town may also consider quality, delivery, operating cost, warranty, 
+service, compatibility, vendor performance, useful life, and other relevant factors, 
+including giving preference to local vendors within the town limits. 
+ 
+ 
+III. PURCHASING THRESHOLDS 
+1) Purchases of $10,000 or Less. Competitive quotations are not required. The 
+department shall use reasonable judgment to confirm that the price and terms are fair 
+and reasonable. The purchase-order requirement in Section II applies to purchases of 
+$2,500 or more. 
+2) Purchases Over $10,000 and Under $50,000. The department shall obtain at least 
+three competitive quotations. Quotations should be written or electronic whenever 
+practicable; telephone quotations may be accepted when documented. Vendor names, 
+quoted amounts, material terms, and the basis for selection shall be recorded on the 
+Quote Summary and Procurement Justification Form in Appendix A. If three quotations 
+cannot reasonably be obtained, the department shall document its good-faith efforts 
+and the reason fewer quotations were available. 
+3) Purchases of $50,000 or More. The Town shall use a formal competitive solicitation 
+unless an exception in Section V applies. The solicitation may be an invitation for bids, 
+request for proposals, or another written competitive process approved by the Town 
+Administrator. 
+ 
+ 
+Page 56 of 62
+5 
+IV. FORMAL COMPETITIVE PROCUREMENT 
+1) Solicitation Method. An invitation for bids is generally appropriate when specifications 
+are clear and award can be based primarily on price. A request for proposals or other 
+best-value process may be used when quality, technical approach, service, operating 
+cost, compatibility, delivery, or other factors are material to the selection. 
+2) Notice and Solicitation Period. Formal solicitations shall be posted on the Town 
+website and may be posted through other electronic procurement resources. The 
+normal solicitation period is at least 14 days. The Town Administrator or designee may 
+approve a shorter period when operational needs require it and competition will not be 
+unreasonably restricted; the reason shall be documented. 
+3) Submission and Security. Each solicitation shall state the submission method, 
+deadline, required information, evaluation criteria, and Town rights. Electronic or sealed 
+submissions may be used. Late submissions shall not be accepted unless the 
+solicitation expressly provides otherwise. Submissions shall be secured and not 
+disclosed before the deadline. 
+4) Opening and Evaluation. Bids may be publicly opened when specified in the 
+solicitation. Proposals and other best-value submissions may be evaluated without a 
+public opening. The Town may seek clarification, verify qualifications and references, 
+inspect equipment, request demonstrations, conduct interviews, or negotiate as 
+permitted by the solicitation and at the discretion of the Town. 
+5) Town Rights. Each solicitation shall reserve the Town's right to reject any or all 
+submissions, waive minor informalities, cancel or reissue the solicitation, request 
+additional information, negotiate, and make the award that serves the best interest of 
+the Town. The lowest price is not required to be selected when another offer provides 
+better overall value. 
+6) Award and Contract. The selected vendor shall provide required insurance, licenses, 
+warranties, and other documentation before award. The award shall be documented 
+through a purchase order, contract, notice of award, or other written instrument 
+approved by the Town Administrator.  
+ 
+ 
+V. EXCEPTIONS AND ALTERNATIVE PROCUREMENT METHODS 
+1) Funding Requirements. When state, federal, grant, loan, gift, bequest, cooperative 
+agreement, or other funding terms impose procurement requirements, those 
+requirements shall control to the extent they are mandatory. 
+2) Cooperative Purchasing. Supplies or equipment may be purchased without a 
+solicitation process when purchased through a competitive contract established by the 
+State of Colorado, another governmental entity, a public procurement cooperative, or 
+another cooperative purchasing program available to the Town.   
+Page 57 of 62
+6 
+ 
+3) Sole Source or Limited Source. The solicitation process may be waived when only one 
+source, or a limited number of sources, can reasonably meet the Town's requirements 
+because of specialized features, compatibility, standardization, warranty restrictions, 
+availability, proprietary technology, or similar documented circumstances. 
+4) Used, Demonstration, or Unique-Opportunity Equipment. The solicitation process 
+may be modified or waived when the Town has an opportunity to acquire used, 
+demonstration, surplus, auction, or otherwise uniquely available equipment and delay 
+would likely cause the opportunity to be lost. The department shall document condition, 
+market comparison, and value. 
+5) Bulk and Market-Priced Operational Supplies. Recurring operational commodities, 
+including chemicals, fuel, road sand, aggregates, and similar supplies, may be 
+purchased through unit-price agreements, cooperative contracts, documented market 
+quotations, or another method approved by the Town Administrator when formal 
+bidding would not provide a practical advantage. 
+All exceptions shall be documented in writing and retained with the purchase record. The 
+Town Administrator may require additional competition, market research, legal review, or 
+Board of Trustees approval when warranted by the size, complexity, risk, or public interest 
+associated with a purchase. 
+ 
+ 
+VI. LOCAL BUSINESSES 
+This policy does not establish a guaranteed price preference for local vendors. The Town 
+should solicit qualified local suppliers whenever competitive local sources exist and doing so 
+will not reduce competition or result in an unreasonable sacrifice in price, quality, availability, 
+or service. 
+ 
+VII. EMERGENCY PURCHASING 
+An emergency is a condition that creates an immediate threat to public health, welfare, 
+safety, property, essential services, or the continuity of Town operations, including without 
+limitation flooding, fire, utility failure, epidemic, pandemic civil disturbance, equipment failure, 
+cybersecurity incident, or a similar urgent and unexpected event. 
+Emergency purchases shall be limited to supplies, equipment, materials, and incidental 
+services reasonably necessary to address the emergency. A department may make an 
+emergency purchase when normal procedures cannot be followed without unacceptable 
+delay.   All filings and documentation will still be required within a reasonable timeframe.  The 
+department head shall notify the Town Administrator as soon as practicable and shall submit 
+written documentation describing the emergency, the purchase, the vendor selection, and the 
+cost. 
+Page 58 of 62
+7 
+VIII. RECORDS AND ADMINISTRATION 
+1) Procurement File. The responsible department shall provide the Finance Department 
+with the purchase order or contract, and other records needed to support the purchase 
+and payment. 
+2) Public Records. Procurement records are Town records and may be subject to 
+inspection and disclosure under applicable law. Confidential or proprietary information 
+shall be handled in accordance with law and the solicitation documents. 
+3) Administrative Procedures. The Town Administrator and Finance Director may issue 
+forms, procedures, and guidance consistent with this policy, including procedures for 
+purchasing cards, purchase orders, electronic solicitations, vendor onboarding, 
+insurance, asset tracking, surplus property, and records retention. 
+4) Interpretation. The Town Administrator is authorized to interpret and administer this 
+policy. Questions involving legal requirements, conflicts of interest, or the classification 
+of a procurement may be referred to the Town Attorney. 
+ 
+ 
+IX. GLOSSARY 
+AWARD - The Town's acceptance of an offer and authorization to proceed through a purchase 
+order, contract, notice of award, or similar written instrument. 
+BEST INTEREST OF THE TOWN - The use of reasonable discretion to select the action or offer 
+that provides the greatest overall public value after considering price, quality, risk, service, 
+timing, and other relevant factors. 
+CONTRACT - Any written agreement, regardless of title, for the acquisition of supplies or 
+equipment, including related incidental services. 
+EQUIPMENT - Tangible personal property of a durable nature, including vehicles, machinery, 
+tools, furnishings, technology, and operational equipment. 
+PROFESSIONAL SERVICES - Services requiring specialized knowledge, judgment, licensure, 
+or expertise, including legal, engineering, architectural, financial, consulting, and similar 
+services. 
+SUPPLIES - Consumable or expendable goods, materials, parts, commodities, and other 
+tangible items used in Town operations. 
+  
+Page 59 of 62
+8 
+APPENDIX A 
+QUOTE SUMMARY AND PROCUREMENT JUSTIFICATION FORM 
+Department   Date   
+Prepared By   Purchase Order No.   
+Description   Estimated Total   
+Budget Account   Required Date   
+QUOTATIONS 
+No. Vendor / Contact Quoted Price Delivery Warranty Notes 
+1           
+2           
+3           
+SELECTION AND JUSTIFICATION 
+Selected Vendor   
+Selected Amount   
+Basis for Selection / Best-Value 
+Factors   
+Reason Fewer Than Three 
+Quotations Were Obtained (if 
+applicable) 
+  
+Exception or Waiver Basis (if 
+applicable)   
+APPROVALS 
+Department Head   Date   
+Finance Review   Date   
+Town Administrator   Date   
+ 
+Page 60 of 62

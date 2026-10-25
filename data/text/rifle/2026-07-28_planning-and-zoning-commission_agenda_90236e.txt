@@ -1,0 +1,859 @@
+PLANNING & ZONING COMMISSION  
+REGULAR MEETING AGENDA 
+ 
+ 
+ 
+ 
+July 28, 2026 
+7:00 PM 
+202 Railroad Avenue, Rifle, CO 81650 
+ 
+ 
+ 
+Meeting Type / Acting Body 
+  
+6:00 PM - Workshop Meeting 
+  
+  a. Discussion regarding Bulk Resource Consumer 
+      
+  Discussion and Review  
+    
+7:00 PM - Regular Meeting 
+  
+1. Call to Order   
+    
+2. Roll Call  
+    
+3. Pledge of Allegiance  
+    
+4. Consent Agenda  
+    
+  4.a. Consider Meeting Minutes of Planning Commission regular meeting of May 26, 2026. 
+      
+5. Action, if any, on Workshop Items   
+    
+6. Presentation  
+    
+7. Public Hearing  
+    
+  7.a. Discussion and possible action regarding CUP - 214 W 16th St 
+      
+  7.b. Discussion and possible action regarding Amendment to the Rifle Municipal Code for 
+ADU's in Commercial and Light Industrial zone districts. 
+      
+8. Regular Agenda  
+    
+9. Administrative Reports  
+    
+10. Comments from Mayor and Council   
+    
+11. Adjournment  
+    
+Page 1 of 24
+Planning & Zoning Commission 
+July 28, 2026 
+Page 2 of 2 
+ 
+ 
+ 
+The order and times of agenda items listed above are approximate and intended as a guideline for the Planning Commissioners 
+ACCESSIBILITY STATEMENT 
+The City of Rifle values full inclusion and access for all of our facilities, programs, activities and services. We are pleased to 
+provide meaningful accommodations to comply with the Americans with Disabilities Act (ADA) and reasonably provide 
+translation, interpretation, modifications, accommodations, alternative formats, auxiliary aids, and services. To request 
+special assistance, call Community Development at 970-665-6490 or email our ADA Team at ADATeam@rifleco.org.  Please 
+allow 48 hours for your requests to be met. 
+La Ciudad de Rifle valora la plena inclusión y acceso para todas nuestras instalaciones, programas, actividades y servicios. 
+Nos complace proporcionar alojamientos significativos para cumplir con la Ley de Estados Unidos con Discapacidades (ADA) 
+y proporcionar razonablemente traducciónes, interpretaciónes, modificaciones, adaptaciones, formatos alternativos, ayudas 
+auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo 
+electrónico a el equipo ADA a ADATeam@rifleco.org. Por favor, permita 48 horas para que se atiendan sus solicitudes. 
+Page 2 of 24
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: July 28, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #a. 
+  
+Agenda Item Name: 
+Discussion regarding Bulk Resource Consumer 
+  
+Presenter: 
+Geir Sverdrup, Senior Planner 
+Zach Higgins, Community Development Director 
+  
+Item Description:  
+  
+Recommended Action: 
+None at this time. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+See Staff Report. 
+  
+Executive Summary: 
+See Staff Report. 
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. Bulk Resource Consumer - Workshop Memo 7-28-2026 
+ 
+Page 3 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490 
+ 
+MEMORANDUM 
+ 
+TO:    City of Rifle Planning Commission 
+FROM:   Zach Higgins, Community Development Director 
+Geir H. Sverdrup, Senior Planner 
+DATE:   July 28, 2026 
+SUBJECT:   Bulk Resource Consumer discussion 
+ADDRESS:  City-Wide 
+APPLICANT: City of Rifle Staff 
+ 
+Background 
+Staff has begun receiving inquiries regarding Data Centers in Rifle. Staff is bringing 
+forward a discussion regarding the land use impacts and possible definition of a “Bulk 
+Resource Consumer” that will help in staff’s ability to address these inquiries. 
+Data Centers consumer large quantities of electric and water resources and can produce 
+large quantities of regulated waste and noise pollution. 
+Staff researched and found the following information regarding Data Centers. 
+  
+Hyper Data Center 
+480-2,400 MWh (Mega Watt hour) daily = 16,500 houses daily 
+1-5 million gallons of water daily 
+  
+Enterprise Data Center 
+24-4800 MWh daily – 800 houses daily 
+100-500,000 gallons of water daily 
+  
+Data Center Waste 
+Data center waste is categorized and regulated in Colorado through strict state 
+frameworks: 
+ E-Waste & Hardware: Because old servers and CPUs contain heavy metals 
+(lead, cadmium, mercury) and sometimes PFAS, non-residential e-waste is 
+legally presumed hazardous in the state. It must be processed by registered 
+Colorado ITAD and Computer Disposal and e-waste handlers. 
+ Batteries & Coolants: Uninterruptible Power Supply (UPS) batteries and engine 
+coolants are heavily regulated by the CDPHE Hazardous Waste Regulations. 
+Large volumes require specific accumulation, tracking, and disposal permitting. 
+ Generator Air Emissions: Hyperscale data centers require numerous diesel 
+back-up generators, regulated by the CDPHE Air Pollution Control Division, 
+making generator waste (such as spent oil) and air emissions a primary 
+compliance target. 
+  
+The Colorado Senate has reviewed SB26-102 Large Load Data Centers, currently 
+postponed indefinitely by the Senate Committee on Transportation & Energy on May 11, 
+2026 
+Page 4 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490 
+ 
+  
+Bill Summary: 
+The bill creates certain requirements for large-load data centers, which are defined in 
+the bill as: 
+ A new data center that has a peak load of more than 30 megawatts or multiple 
+new data centers with a collective peak load of more than 60 megawatts; or 
+ An existing data center that adds a peak load of more than 30 megawatts or 
+multiple existing data centers that add a collective peak load of more than 60 
+megawatts. 
+No later than June 30, 2030, the public utilities commission (commission) is required to 
+make a determination on whether 100% hourly matching by large-load data centers is 
+technically and economically feasible. If the commission determines that 100% hourly 
+matching is not technically and economically feasible, the commission must make a 
+determination of the highest percentage of hourly matching by large-load data centers 
+that is technically and economically feasible (hourly matching requirement), which 
+percentage the commission must update on a regular basis. 
+Beginning January 1, 2031, an operator of a large-load data center (operator) must 
+generate, purchase, or otherwise acquire a quantity of electricity generated from 
+renewable resources necessary to meet 100% of the operator's large-load data center's 
+total annual electricity consumption. An operator must also achieve the hourly matching 
+requirement. An operator must comply with these requirements through a tariff, 
+contract, or program entered into with a utility, one or more power purchase agreements 
+entered into with an independent power producer, or a self-supply of electricity. 
+An operator must enter into contracts of at least 15 years with a utility to pay for certain 
+infrastructure and resource costs. An operator must also contribute to utility demand-
+side management programs and comply with certain operational water management 
+and on-site backup generation requirements. 
+No later than June 30, 2028, and no later than each June 30 thereafter, an operator 
+must report to the department of public health and environment certain information 
+about the large-load data center, including information about the large-load data 
+center's annual electricity and water consumption. The department of public health and 
+environment must compile the information reported and provide a report to the general 
+assembly and commission and make the report publicly available on the department's 
+website. 
+A utility is prohibited from interconnecting or supplying electricity to a large-load data 
+center unless: 
+ The operator has either provided an up-front payment or entered into a contract 
+of at least 15 years with the utility, which up-front payment or contract must 
+require the operator to pay for certain infrastructure and resource costs; 
+ On or after January 1, 2031, the utility has verified that the operator is in 
+compliance with the hourly matching requirement; and 
+ The utility determines and ensures that the addition of the large-load data center 
+to the utility's system does not negatively affect the utility's ability to provide 
+reliable service to customers or meet applicable clean energy targets or increase 
+the utility's greenhouse gas emissions. 
+Page 5 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490 
+ 
+A utility is prohibited from offering economic development rates to large-load data 
+centers and is required to develop and offer demand response programs or flexible 
+connection tariffs to the utility's customers that are operators. A utility is required to 
+solicit and accept voluntary financial contributions from operators to certain utility 
+programs, which contributions must supplement, rather than substitute, the utility's 
+funding of those programs. A utility that is rate-regulated by the commission with 
+customers that are operators is required to describe efforts to comply with the bill in the 
+utility's annual report filed with the commission. 
+On or before June 30, 2027, the department of local affairs must publish model codes 
+for the development of large-load data centers, which model codes must consider 
+certain best practices. In developing the model codes, the department of local affairs 
+must conduct a robust stakeholder and engagement process and evaluate, update, and 
+review the model codes every 5 years. 
+With its development permit application for a large-load data center, the person 
+responsible for the initial development of a large-load data center (developer) must 
+submit a site assessment to the local government reviewing the application. A site 
+assessment must include certain components. 
+If the siting of a large-load data center is proposed in a disproportionately impacted 
+community or if an operator of an existing data center in a disproportionately impacted 
+community plans to expand the data center's peak load such that the data center will 
+become a large-load data center, the developer or operator must undergo a cumulative 
+impacts analysis before the development or expansion begins. The developer or 
+operator is required to contract with a third-party contractor selected by the department 
+of public health and environment to perform the cumulative impacts analysis. 
+In reviewing a development permit application for a large-load data center that is in a 
+disproportionately impacted community or is proposed to be in a disproportionately 
+impacted community, the applicable local government is required to consider the 
+applicant's cumulative impacts analysis and whether the mitigation strategies described 
+by the applicant are sufficient to avoid any negative impacts identified in the cumulative 
+impacts analysis. Prior to applying for a development permit that is in a 
+disproportionately impacted community or is proposed to be in a disproportionately 
+impacted community, a developer or operator must comply with certain public hearing, 
+notice, and community outreach requirements. 
+If the siting of a large-load data center is proposed in a disproportionately impacted 
+community or if an operator of an existing data center in a disproportionately impacted 
+community plans to expand the data center's peak load such that the data center will 
+become a large-load data center, the developer or operator must enter into a 
+community benefit agreement with the disproportionately impacted community before 
+the development or expansion begins. The developer is required to consult with the 
+applicable local government and certain coalition groups and consider certain topics 
+during community benefit agreement negotiations. 
+An operator is required to comply with certain labor standards. 
+ 
+Should the Planning Commission want to move forward regarding adding a definition to 
+address this type of use in Rifle, Staff proposes the definition below. Should this be the 
+Page 6 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490 
+ 
+case, Staff would like to have further discussion regarding the specifics as to where 
+such uses can/should locate within City limits. 
+Proposed Definition 
+Bulk Resource Consumer means a commercial, industrial or institutional entity that 
+consumes more than 24 MWh a day and/or more than 300,000 gallons of water per day 
+and/or produces waste/pollution as regulated by CDPHE. 
+ 
+Page 7 of 24
+ 
+ 
+ 
+Chair Marantino led the Planning Commission and audience in the Pledge of Allegiance.  
+ 
+The meeting starts at 7:00 p.m. 
+ 
+MEMBERS PRESENT AT ROLL CALL  
+Present: Marantino, Caldwell, Carter, Rogers, Stephan, Martinez, Rodas, Edwards 
+Absent: Dow 
+ 
+ 
+OTHERS PRESENT: Community Development Director Zach Higgins, Senior Planner Geir 
+Sverdrup, Community Development Technician Liz Acosta , Assistant City Attorney Wilton 
+Anderson 
+ 
+APPROVAL OF MINUTES 7:02 
+ 
+FIRST: Caldwell 
+ 
+SECOND: Rogers 
+ 
+April 28th, 2026 Regular P&Z Commission minutes approved with amendments to spell Steffen 
+correctly through “Aye” vote.  
+ 
+ 
+ 
+7:03 PM 
+PUBLIC HEARING: 
+ 
+Discussion 1: Item A 
+Variance Request 2026-009 for Front Yard Setback Encroachment 
+Planning and Commission’s Chair excused himself from the conversation and vote. 
+ 
+REGULAR PLANNING COMMISSION MEETING 
+& BOARD OF ADJUSMENT 
+May 26 th , 2026  
+Page 8 of 24
+Commissioner Vice Chair Steffen lead and reconvened the Commission as the Board of 
+Adjustment for consideration of this agenda item. 
+Senior Planner Geir Sverdrup presented the variance request to construct a cover over his 
+existing deck at 755 Whiteriver Ave, which sits in an LDR Low Density Zone District and does 
+not meet current front yard setbacks. Senior Planner Geir recommends denial of Variance 2026-
+009 for a Front Yard Setback Encroachment.  
+ 
+7:09 PM 
+Applicant Harlan Scott is sworn in. 
+Presented testimony regarding the reason for wanting to construct the cover. Wife operates a hair 
+salon from the house and the path to the entrance gets covered with snow during the winter and 
+they’re getting too old to shovel up the snow. Harlan explained the roof would cover existing 
+porch foot print. 
+7:14 PM -Steffen opens up hearing to commissioner comments or questions. 
+Commissioner Rogers asked Harlan what pitch the cover roof would have. Harlan assured 
+the cover would match the house pitch.  
+7:15 PM – Steffen opens public hearing. 
+Public member Jamie is sworn in and speaks on behalf of Harlan’s character and how this 
+variance would not affect their community at all.  
+7:19 PM 
+Commisioner Steffen closes public hearing. Commissioner Rogers references a previous 
+variance that was similar. Commissioner Rodas voices his agreeance with the idea, 
+Commissioner Edwards asks regarding grandfathering in the variance, Community Development 
+Director explains new additions do not count. Commissioner Rodas expresses he doesn’t agree 
+with the implementation of the code in this instance.  
+ 
+7:29 PM 
+Commissioner Rogers motions to approve Variance 2026-009 for a Front Yard Setback 
+Encroachment.  
+ 
+Commissioner Rodas seconded the motion. The motion APPROVES the variance request with 
+the following vote: 
+ 
+ROLL CALL: 
+Page 9 of 24
+ 
+YES: Steffen, Carter, Rogers, Caldwell, Rodas, Martinez, Edwards 
+NO: None 
+ 
+7:31 PM The Board of Adjustment adjourned and reconvened as the Planning and Zoning 
+Commission. 
+ 
+Discussion 2: Item B 
+Discussion and possible action regarding Rifle Municipal Code 
+Amendment for Residential Garage 
+Requirements 
+7:32 PM Public Notice Met 
+Senior Planner Geir Sverdrup presented a recommendation regarding amendment to Chapter 16 
+of the Rifle Municipal Code for Residential Garage Requirements to the City of Rifle Planning 
+and Zoning Commission.   
+Discussion was held between commissioners and staff regarding garage requirements in relation 
+to dimensions and necessity within the City of Rifle. Commissioner Steffen asked if not having a 
+size requirement would affect specific car space. Senior Planner Geir assured we would still have 
+the minimum parking size requirements if house owner decided to build a garage.  Community 
+Development Director specifies letting the market drive its construction.  
+ 
+7:41 PM Marantino opens and closes public hearing 
+Commissioner Carter moved to APPROVE the recommendation for amendment to Chapter 16 
+of the Rifle Municipal Code for Residential Garage Requirements. 
+ 
+Commissioner Rogers seconded the motion. The motion APPROVED with the following vote: 
+ROLL CALL: 
+YES: Marantino, Caldwell, Carter, Rogers, Steffen, Rodas, Martinez 
+NO: 
+ 
+ 
+ 
+ 
+Page 10 of 24
+Discussion 3: Item C 
+Discussion and possible action regarding Rifle Municipal Code 
+Amendment for Auto Repair Shops 
+ 
+7:41 PM Public Notice Met  
+ 
+City of Rifle Senior Planner Geir Sverdrup debriefs proposed action. Consideration of a text 
+amendment to the Rifle Municipal Code, Chapter 16, regarding Auto Repair Shops. 
+This amendment would bring many of the existing auto repair shops into compliance as language 
+on this use has been inadvertently omitted.  
+ 
+7:43 PM Commissioner Marantino opens to commissioners.  
+ 
+Discussion was held between staff and commissioners regarding current code wording, zones 
+where these would be allowed, specify and differentiate Body Shops from Mechanic Shops in the 
+code. Body shops replace some mechanical aspects due to damage but never work on the engine 
+or mechanical aspects.  
+Community Development Director opens option to maybe include autoshops to open up in 
+industrial zones.  
+Commissioner Rogers inquired about mechanics actively fixing non-family vehicles in their 
+LDR homes, Senior Planner Geir advised to report to code enforcement.  
+ 
+7:54 PM 
+Commissioner Caldwell moved to APPROVE the recommendation for amendment to the 
+Rifle Municipal Code regarding Traffic Impact Study criteria with amendment to strike 
+out automotive repair in industrial zones. 
+Commissioner Carter seconded the motion. The motion APPROVED with the following vote: 
+ROLL CALL: 
+YES: Marantino, Caldwell, Carter, Rogers, Steffen, Martinez, Rodas 
+NO: 
+COMMENTS AND ADJOURNMENT – 7:55 PM 
+ 
+Discussion was held regarding a reminder on the Comprehensive Plan process, updates from 
+recent UTE Theatre events, and upcoming performances. Caldwell informed the Commission 
+that he would be unable to attend the joint meeting scheduled for June 10, 2026. 
+MEETING ADJOURNED- 8:00 PM 
+Page 11 of 24
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: July 28, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #7.a. 
+  
+Agenda Item Name: 
+Discussion and possible action regarding CUP - 214 W 16th St 
+  
+Presenter: 
+Geir Sverdrup, Senior Planner 
+  
+Item Description: 
+Conditional Use Permit to allow for residential units in a commercial zone district. 
+  
+Recommended Action: 
+Move to approve Conditional Use Permit for 214 West 16th Street with Staff recommendations. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+See Staff Report 
+  
+Executive Summary: 
+See Staff Report 
+  
+Notification Requirements: 
+Notice has been met. 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. CUP Staff Report 07_28_2026-214W16thSt-ChavezMixedUse 
+ 
+Page 12 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+1 
+ 
+MEMORANDUM 
+ 
+TO:   City of Rifle Planning Commission 
+FROM:  Zach Higgins, Community Development Director 
+Geir Sverdrup, Senior Planner 
+DATE:  July 28, 2026 
+SUBJECT:  Conditional Use Permit to allow multiple dwelling units in conjunction with a  
+  commercial/office building. 
+ADDRESS:    214 W. 16 th Street 
+CASE #:         Conditional Use Permit PLN-2026-017 
+APPLICANT:  Bruce Barth for Mountain Peak Builders LLC 
+ 
+ 
+REQUEST 
+The applicant is requesting approval of a Conditional Use Permit to allow multiple dwelling units, 
+two (2), in conjunction with a commercial/office building. on the subject property. The applicant 
+has provided a site plan showing the proposed development on the subject property.  
+Vicinity Map 
+ 
+ 
+Proposed 
+location 
+N 
+16th Street 
+Howard Avenue 
+Metro 
+Park 
+Railroad Avenue 
+Jean’s 
+Printing 
+e  
+City 
+Market 
+Lamplighter 
+Mobile Home 
+Park 
+Eagle Springs 
+Commercial Center 
+e  
+Vet Clinic 
+Page 13 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+2 
+ 
+ 
+Background, Zoning & Comprehensive Plan 
+ 
+The property is located within the Railroad Avenue Neighborhood and is zoned CS Community 
+Service zone district. All surrounding properties are also zoned CS. The property accesses 16 th 
+Street on the southern property line. Properties to the south, west and east are developed with 
+residential uses that are zoned CS Community Service. 
+ 
+The Comprehensive Plan designates this property for Community Commercial development.  
+ 
+ 
+ 
+Comprehensive Plan Excerpt 
+4.2 Railroad Avenue Area  
+The Railroad Avenue area is north of the downtown and south of Hwy 13. It includes Park 
+Avenue and Whiteriver Avenue. The area is a central artery of the local business 
+community and has historic residential areas as well as significant development 
+opportunities. The Future Land Use Map shows areas of “High Density Residential” and 
+“Moderate Density Residential”, along with “Community Commercial”. It is walkable to 
+destinations like schools, downtown, major parks, City Market, and County services. 
+Encouraging growth in this area is key to the goals of the Comprehensive Plan to build 
+neighborhoods near existing infrastructure and services. The beautification and 
+revitalization of Railroad Avenue is important to present a positive image of the City. 
+ 
+The property is vacant and undeveloped. 
+ 
+ 
+Proposed 
+Construction 
+Page 14 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+3 
+ 
+ 
+PROPOSED SITE PLAN 
+ 
+ 
+ 
+Proposed Dwelling Units 
+Page 15 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+4 
+ 
+ 
+ 
+The plans show the location of the proposed dwelling units in relation to the Site and 16 th Street 
+on the property. The applicant is proposing two (2) dwelling units on the second floor facing 16 th 
+Street for their employees. The applicant is requesting a reduction in the overall parking 
+requirements as their employees will reside on-site and work trucks will be garaged in the 
+warehouse portion of the site after hours. 
+ 
+REFERRAL COMMENTS 
+ 
+The application was referred to City of Rifle Public Works, Engineering, Utilities, as well as 
+Colorado River Fire Rescue. Relevant comments are listed below. 
+Colorado River Fire Rescue 
+Building will require NFPA 13 fire sprinkler system meeting required density for storage, no 
+comments regarding the dwelling units. 
+ 
+City of Rifle Departments 
+All comments provided regarded the construction requirements for the proposed structure, 
+grading and drainage, and installation of infrastructure, and will be addressed at the time of the 
+building permit submittal. Agencies had no comments regarding the proposed dwelling units. 
+ 
+STAFF COMMENTS 
+ 
+This application proposes to build a commercial/office building with two (2) dwelling units for 
+employees. Rifle Municipal Code allows for one (1) ADU with the structure. Any additional 
+allowances require the approval of a Conditional Use Permit. The property is zoned for 
+commercial uses within a mix of commercial and residential uses. On-site parking is addressed 
+with 15 open spaces on the interior and four (4) spaces parallel along 16 th street with eight (8) 
+garage spaces for company vehicles. By code 23 spaces are required for the proposed uses. 
+Due to the design of the site, NFPA requirements will necessitate the entire structure to be 
+sprinklered. The depth of the drive from 16 th street to warehouse two exceeds 150’ thereby 
+requiring a turnaround or sprinklers. The proposed site is maximizing the space available with 
+minimal setbacks, again restricting access around the building, again requiring a sprinkler system. 
+The design of the site will also require that a grading and drainage report and grading permit be 
+provided. On-site grading and detention will be required to ensure no flow onto 16th Street. 
+All of these comments will be requirements of the building permit process. 
+The applicants parking study uses an unconventional mix of garage, on-site, and street parking 
+to meet minimum parking requirements. Due to the nature of the overlap of employee uses and 
+Proposed Dwelling Units 
+Page 16 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+5 
+ 
+that the “street” parking will be on the applicant’s property but parallel to the City’s right-of-way, 
+staff is of the opinion that the proposed parking is adequate. 
+Due to housing shortages, employers are more frequently finding the need to provide housing for 
+their employees as essential to doing business. This has become a trend in today’s market. 
+Recently Big-O Tires provided four (4) apartments in their new building down on Airport Road. 
+Staff does not have issues/concerns with the proposed dwelling units in conjunction with the 
+building. 
+ 
+FINDINGS 
+ 
+Pursuant to Section 16-5-280, the Commission shall consider the following criteria before 
+approving a Conditional Use Permit (staff comments shown in bold italics): 
+ 
+1. Conformance of the proposal with the City of Rifle Municipal Code; 
+The proposal conforms to the Rifle Municipal Code for a Conditional Use Permit.  
+ 
+2. The compatibility of the proposal with the character of the surrounding area, including but not 
+limited to the architectural character of the neighborhood, the average lot and building sizes in 
+the neighborhood, and the relative value of the proposed structure to the value of other structures 
+in the neighborhood; 
+The location of the proposed Commercial/Office building is compatible with the existing 
+mix of uses in the area.  
+ 
+3. The desirability for the proposed use in the specific area of the City; 
+This area is zoned CS Community Service zone district, multiple dwelling units in CS is 
+permitted by Conditional Use Permit. 
+ 
+4. The potential for adverse environmental effects that might result from the proposed use; 
+No adverse environmental effects are anticipated. 
+ 
+5. Compatibility of the proposed use and the site (or subdivision) plan with the City of Rifle 
+Comprehensive Plan; 
+The Comprehensive Plan has no specific designation this area.  
+ 
+6. The potential impact of the proposed use upon the value of property and buildings within the 
+surrounding area; and 
+The location of the residential units within the mixed use building will have no impact on 
+surrounding properties. 
+ 
+7. Conformance of the proposal with the approval requirements concerning water and sewer tap 
+availability for high volume use requests pursuant to 13-4-120 of the Code, if applicable. 
+Not applicable 
+ 
+RECOMMENDATION 
+ 
+Staff recommends Planning Commission APPROVE CUP PLN-2026-017 with the following 
+conditions:  
+Page 17 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+6 
+ 
+1. All representations made by the Applicant in the application and during the public hearing 
+shall be conditions of approval, unless specifically altered by the Planning Commission.  
+2. The applicant shall submit a grading and drainage plan and apply for a grading permit to 
+be approved by the Public Works Department and the City Engineer prior to the issuance 
+of a building permit. 
+3. Building permit shall meet NFPA 13 fire sprinkler requirements prior to issuance of a 
+building permit.  
+ 
+Page 18 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+7 
+ 
+ 
+Page 19 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+8 
+ 
+ 
+Page 20 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+MEMORANDUM 
+ 
+TO:   City of Rifle Planning Commission 
+FROM:  Zach Higgins, Community Development Director 
+Geir Sverdrup, Senior Planner 
+DATE:  July 28, 2026 
+SUBJECT:  Text Amendment to clean up language from TA 2024-021 
+ADDRESS:    City Wide 
+CASE #:         Text Amendment PLN-2026-026 
+APPLICANT:  Staff 
+ 
+ 
+REQUEST 
+Staff is proposing the following text amendment to clean up revisions missed in the TA 2024-012 
+Text Amendment allowing ADU’s in Commercial and Industrial Zone Districts without the 
+requirement for a Conditional Use Permit.  
+Background 
+In 2024 Staff brought a request to the Commission and Council regarding ADU’s as a 
+permitted use in Commercial and Industrial zone district without the need for a Conditional 
+Use Permit. At that time Rifle Municipal Code only permitted an attached ADU in 
+Commercial and Light Industrial zone districts by CUP.  
+The approved text amendment subsequently revised the code to allow attached and 
+detached ADU’s in Commercial and Industrial zone districts without the need for a CUP. 
+In a recent review of code language, staff found that there is code remaining that should 
+have been stricken requiring CUP’s for ADU’s in Commercial and Industrial zone districts 
+in the 2024 action. 
+The following revisions are Staff’s recommended amendments to the Rifle Municipal 
+Code for consideration by the Planning Commission as a Text Amendment.  
+ 
+Proposed Amendment 
+Sec. 16-3-60. Accessory dwelling units. 
+An accessory dwelling unit, when allowed, shall conform to the following 
+requirements, and plans submitted to the City shall address each of these requirements:  
+(1) Zone district requirements. Except as set forth in this Section, an accessory 
+dwelling unit shall be subject to all of the zone district requirements that apply 
+to the lot, including but not limited to uses, setbacks, height, lot coverage, floor 
+area ratio, yards, parking and landscaping requirements.  
+(2) Conditional use permit required. An application for the approval of an 
+accessory dwelling unit within a commercial or industrial zone district shall be 
+processed and reviewed pursuant to the City's conditional use permit process; 
+provided, however, that, notwithstanding Article V, Division 3 of this Chapter, a 
+conditional use permit application for an accessory dwelling unit on lots eight 
+Page 21 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+thousand (8,000) square feet or larger in a commercial zone district where the 
+only use is residential, the permit shall be reviewed and approved at the City 
+staff level, and shall only be reviewed by the Planning Commission if an 
+objection to such application is filed with the City by a resident of the City 
+following notice pursuant to Paragraph (3) below. If the City staff denies a 
+conditional use permit application, the applicant may appeal the staff's decision 
+to the Planning Commission for review and decision on the application 
+pursuant to Article V, Division 3 of this Chapter.  
+(3) Public notice. An applicant for a conditional use permit for an accessory 
+dwelling unit shall comply with the public notice requirements stated in Section 
+16-1-50 of this Chapter. If the application qualifies for a staff decision and staff 
+intends to grant the application, the public notice shall state that City staff 
+intends to make a favorable determination on the conditional use permit and, 
+unless a written objection to the granting of the conditional use permit is 
+received within ten (10) days of the date of the public notice, the public hearing 
+will be cancelled and the Planning Commission will not review the application.  
+(42) Unit size/number. Accessory dwelling units shall be no less than three hundred 
+(300) square feet and no more than eight hundred fifty (850) square feet and 
+shall be limited to no more than two (2) bedrooms.  
+a. Accessory dwelling units in residential zone districts, or on a lot in a 
+commercial zone district where the only use is residential, shall also be 
+limited in size equal to or less than fifty percent (50%) of the total livable 
+area (excluding garage) of the principal dwelling. Only one (1) accessory 
+dwelling unit shall be allowed per residential lot.  
+b. Accessory dwelling units in commercial and light industrial zone districts 
+that have commercial or light industrial uses may be detached. Attached 
+accessory dwelling units shall be limited to only the top floor of the 
+building, and the total area developed with an attached accessory dwelling 
+unit(s) shall not exceed the total interior area of the commercial space in 
+the building.  
+(53) Compatibility/landscaping. Materials and design of the accessory dwelling unit 
+shall be substantially the same as the principal structure, and landscaping for 
+the accessory dwelling unit shall be compatible with the principal dwelling.  
+(64) Parking/access. Each accessory dwelling unit shall provide one (1) dedicated 
+off-street parking space per bedroom which shall be accessed by the same 
+driveway/curb cut as the principal structure; provided, however, that the City 
+staff may grant access to the accessory dwelling unit from an alley adjacent to 
+the lot if such access is sufficient and will not negatively affect the traffic flow in 
+the alley or adversely impact the neighborhood. Accessory dwelling units in 
+commercial and light industrial zone districts may utilize shared parking with 
+the principal commercial use so long as the commercial use allows sufficient 
+parking for the accessory dwelling use.  
+Page 22 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+(75) Water and sewer utilities. Water and sewer utilities for an accessory dwelling 
+unit may be installed and metered independently from the primary dwelling or 
+building, the plans for which shall be reviewed and approved by the Public 
+Works Director. All costs associated with any utility or line extension or 
+upgrade shall be borne by the owner, and a cash deposit or other performance 
+guarantee approved by the City staff may be required to secure the 
+workmanlike installation of said lines and the restoration of public streets and 
+sidewalks after road cuts are made.  
+(86) Condominiumization or subdivision. Accessory dwelling units shall not be 
+condominiumized or subdivided from the principal dwelling in residential zone 
+districts or on a lot in a commercial zone district where the only use is 
+residential; provided, however, that condominiumization or subdivision of 
+accessory dwelling units shall be permitted in the commercial and light 
+industrial zone districts that have commercial or light industrial uses if 
+approved pursuant to this Code.  
+(97) Separate address. An accessory dwelling unit shall be assigned a separate 
+address from the principal dwelling or building.  
+(108) Fees. Accessory dwelling units shall be subject to sixty percent (60%) of 
+all fees of general applicability for new single-family residential dwellings, 
+including parkland dedication fees, water rights dedication fees, water and 
+sewer impact fees and any impact fees associated with a defined area.  
+ 
+By striking paragraphs (2) & (3) this proposed text amendment will revise the code as 
+originally intended. 
+ 
+Findings 
+Pursuant to RMC Section 16-5-280, the Planning and Zoning Commission shall consider 
+the following criteria when determining whether or not to recommend approval of the 
+setback amendment to City Council: 
+1. Conformance of the proposal with the City of Rifle Municipal Code; 
+The proposal is in conformance with the Rifle Municipal Code.  
+2. The compatibility of the proposal with the character of the surrounding area, including 
+but not limited to the architectural character of the neighborhood, the average lot and 
+building sizes in the neighborhood, and the relative value of the proposed structure to the 
+value of other structures in the neighborhood; 
+The proposal will be compatible with the character of Rifle.  
+3. The desirability for the proposed use in the specific area of the City; 
+The zoning code is enforced Citywide by appropriate zone district.  
+4. The potential for adverse environmental effects that might result from the proposed 
+use; 
+Page 23 of 24
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+No major adverse environmental effects are anticipated from the proposal. 
+5. Compatibility of the proposed use and the site (or subdivision) plan with the City of Rifle 
+Comprehensive Plan; 
+No Comprehensive Plan issues were noted as part of the review. 
+6. The potential impact of the proposed use upon the value of property and buildings 
+within the surrounding area; and 
+No negative impacts to property values are anticipated.  
+7. Conformance of the proposal with the approval requirements concerning water and 
+sewer tap availability for high volume use requests pursuant to 13-4-120 of the Code, if 
+applicable. 
+Not applicable. 
+Recommendation 
+Staff recommends that the Planning and Zoning Commission recommend approval of 
+proposed text amendment PLN-2026-026 to the City of Rifle City Council.  
+Page 24 of 24

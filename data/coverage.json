@@ -1,0 +1,549 @@
+{
+ "archuleta-county": {
+  "name": "Archuleta County",
+  "adapter": "linkscan",
+  "meetings": 9,
+  "documents": 16,
+  "ok": 14,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 48 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "aspen": {
+  "name": "Aspen",
+  "adapter": "granicus",
+  "meetings": 34,
+  "documents": 34,
+  "ok": 33,
+  "failed": 1,
+  "error": "",
+  "log": [
+   "  38 documents in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "berthoud": {
+  "name": "Berthoud",
+  "adapter": "civicclerk",
+  "meetings": 27,
+  "documents": 37,
+  "ok": 35,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  34 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "breckenridge": {
+  "name": "Breckenridge",
+  "adapter": "civicclerk",
+  "meetings": 21,
+  "documents": 43,
+  "ok": 40,
+  "failed": 3,
+  "error": "",
+  "log": [
+   "  29 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "brush": {
+  "name": "Brush",
+  "adapter": "linkscan",
+  "meetings": 8,
+  "documents": 8,
+  "ok": 0,
+  "failed": 8,
+  "error": "",
+  "log": [
+   "  http://www.brushcolo.com/your_city/agendas_minutes.php: 13 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "castle-pines": {
+  "name": "Castle Pines",
+  "adapter": "granicus",
+  "meetings": 12,
+  "documents": 12,
+  "ok": 4,
+  "failed": 8,
+  "error": "",
+  "log": [
+   "  16 documents in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "cherry-hills-village": {
+  "name": "Cherry Hills Village",
+  "adapter": "agendacenter",
+  "meetings": 18,
+  "documents": 18,
+  "ok": 15,
+  "failed": 3,
+  "error": "",
+  "log": [
+   "  https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 22 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "clear-creek-county": {
+  "name": "Clear Creek County",
+  "adapter": "agendacenter",
+  "meetings": 20,
+  "documents": 21,
+  "ok": 20,
+  "failed": 1,
+  "error": "",
+  "log": [
+   "  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 23 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "craig": {
+  "name": "Craig",
+  "adapter": "civicclerk",
+  "meetings": 5,
+  "documents": 8,
+  "ok": 7,
+  "failed": 1,
+  "error": "",
+  "log": [
+   "  5 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "dacono": {
+  "name": "Dacono",
+  "adapter": "agendacenter",
+  "meetings": 20,
+  "documents": 20,
+  "ok": 15,
+  "failed": 5,
+  "error": "",
+  "log": [
+   "  https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 22 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "delta": {
+  "name": "Delta",
+  "adapter": "agendacenter",
+  "meetings": 13,
+  "documents": 20,
+  "ok": 20,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 20 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "eagle": {
+  "name": "Eagle",
+  "adapter": "civicclerk",
+  "meetings": 28,
+  "documents": 43,
+  "ok": 43,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  35 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "eaton": {
+  "name": "Eaton",
+  "adapter": "civicclerk",
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  2 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "edgewater": {
+  "name": "Edgewater",
+  "adapter": "civicclerk",
+  "meetings": 3,
+  "documents": 4,
+  "ok": 4,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  7 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "fort-lupton": {
+  "name": "Fort Lupton",
+  "adapter": "civicclerk",
+  "meetings": 18,
+  "documents": 23,
+  "ok": 20,
+  "failed": 3,
+  "error": "",
+  "log": [
+   "  29 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "fort-morgan": {
+  "name": "Fort Morgan",
+  "adapter": "agendacenter",
+  "meetings": 18,
+  "documents": 18,
+  "ok": 16,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 23 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "fruita": {
+  "name": "Fruita",
+  "adapter": "civicclerk",
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  0 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "gilpin-county": {
+  "name": "Gilpin County",
+  "adapter": "linkscan",
+  "meetings": 9,
+  "documents": 10,
+  "ok": 10,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 10 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "glenwood-springs": {
+  "name": "Glenwood Springs",
+  "adapter": "civicclerk",
+  "meetings": 11,
+  "documents": 14,
+  "ok": 14,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  13 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "gypsum": {
+  "name": "Gypsum",
+  "adapter": "granicus",
+  "meetings": 8,
+  "documents": 8,
+  "ok": 8,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  13 documents in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "kit-carson-county": {
+  "name": "Kit Carson County",
+  "adapter": "granicus",
+  "meetings": 32,
+  "documents": 32,
+  "ok": 4,
+  "failed": 28,
+  "error": "",
+  "log": [
+   "  60 documents in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "la-junta": {
+  "name": "La Junta",
+  "adapter": "civicclerk",
+  "meetings": 13,
+  "documents": 14,
+  "ok": 14,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  13 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "lake-county": {
+  "name": "Lake County",
+  "adapter": "agendacenter",
+  "meetings": 43,
+  "documents": 44,
+  "ok": 35,
+  "failed": 9,
+  "error": "",
+  "log": [
+   "  https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 51 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "lochbuie": {
+  "name": "Lochbuie",
+  "adapter": "civicclerk",
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  0 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "milliken": {
+  "name": "Milliken",
+  "adapter": "civicclerk",
+  "meetings": 22,
+  "documents": 47,
+  "ok": 47,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  32 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "monument": {
+  "name": "Monument",
+  "adapter": "civicclerk",
+  "meetings": 17,
+  "documents": 24,
+  "ok": 21,
+  "failed": 3,
+  "error": "",
+  "log": [
+   "  17 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "new-castle": {
+  "name": "New Castle",
+  "adapter": "civicclerk",
+  "meetings": 20,
+  "documents": 28,
+  "ok": 28,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  24 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "ouray-county": {
+  "name": "Ouray County",
+  "adapter": "agendacenter",
+  "meetings": 8,
+  "documents": 8,
+  "ok": 6,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 10 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "phillips-county": {
+  "name": "Phillips County",
+  "adapter": "linkscan",
+  "meetings": 9,
+  "documents": 9,
+  "ok": 9,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas: 9 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "rifle": {
+  "name": "Rifle",
+  "adapter": "civicclerk",
+  "meetings": 17,
+  "documents": 28,
+  "ok": 23,
+  "failed": 5,
+  "error": "",
+  "log": [
+   "  17 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "rio-blanco-county": {
+  "name": "Rio Blanco County",
+  "adapter": "linkscan",
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://www.rbc.us/: 0 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "salida": {
+  "name": "Salida",
+  "adapter": "civicclerk",
+  "meetings": 12,
+  "documents": 16,
+  "ok": 16,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  21 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "san-miguel-county": {
+  "name": "San Miguel County",
+  "adapter": "civicclerk",
+  "meetings": 24,
+  "documents": 35,
+  "ok": 34,
+  "failed": 1,
+  "error": "",
+  "log": [
+   "  25 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "severance": {
+  "name": "Severance",
+  "adapter": "civicclerk",
+  "meetings": 15,
+  "documents": 22,
+  "ok": 19,
+  "failed": 3,
+  "error": "",
+  "log": [
+   "  15 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "sheridan": {
+  "name": "Sheridan",
+  "adapter": "agendacenter",
+  "meetings": 22,
+  "documents": 22,
+  "ok": 22,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 24 files in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "steamboat-springs": {
+  "name": "Steamboat Springs",
+  "adapter": "onbase",
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  search: 0 links, 0 meeting pages",
+   "  0 documents in window from 2 page(s)"
+  ],
+  "run": "2026-10-25"
+ },
+ "sterling": {
+  "name": "Sterling",
+  "adapter": "linkscan",
+  "meetings": 9,
+  "documents": 21,
+  "ok": 16,
+  "failed": 5,
+  "error": "",
+  "log": [
+   "  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 22 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "timnath": {
+  "name": "Timnath",
+  "adapter": "civicweb",
+  "meetings": 12,
+  "documents": 12,
+  "ok": 12,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  12 recent meetings in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "washington-county": {
+  "name": "Washington County",
+  "adapter": "linkscan",
+  "meetings": 12,
+  "documents": 12,
+  "ok": 11,
+  "failed": 1,
+  "error": "",
+  "log": [
+   "  https://washingtoncounty.colorado.gov/2026-agendas: 12 dated links in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "wellington": {
+  "name": "Wellington",
+  "adapter": "civicclerk",
+  "meetings": 19,
+  "documents": 31,
+  "ok": 29,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  22 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "woodland-park": {
+  "name": "Woodland Park",
+  "adapter": "civicclerk",
+  "meetings": 17,
+  "documents": 22,
+  "ok": 14,
+  "failed": 8,
+  "error": "",
+  "log": [
+   "  36 events in window"
+  ],
+  "run": "2026-10-25"
+ },
+ "yuma-county": {
+  "name": "Yuma County",
+  "adapter": "linkscan",
+  "meetings": 2,
+  "documents": 2,
+  "ok": 2,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://yumacounty.colorado.gov/board-meetings: 2 dated links in window"
+  ],
+  "run": "2026-10-25"
+ }
+}

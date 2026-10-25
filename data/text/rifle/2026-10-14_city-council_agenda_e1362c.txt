@@ -1,0 +1,2944 @@
+CITY COUNCIL 
+WORKSHOP MEETING AGENDA 
+ 
+ 
+ 
+ 
+October 14, 2026 
+5:30 PM 
+202 Railroad Avenue, Rifle, CO 81650 
+ 
+ 
+ 
+5:00 PM - Workshop Dinner 
+  
+5:30 PM - Workshop Meeting 
+  
+  Discussion and Review  
+    
+  a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion 
+      
+  b. Water Rights Report 
+      
+  c. CivicClerk Board Portal 
+      
+ 
+ 
+ACCESSIBILITY STATEMENT 
+The City of Rifle values full inclusion and access for all of our facilities, programs, activities and services. We are pleased to 
+provide meaningful accommodations to comply with the Americans with Disabilities Act (ADA) and reasonably provide 
+translation, interpretation, modifications, accommodations, alternative formats, auxiliary aids, and services. To request 
+special assistance, call City Clerk Alexis Ramirez at 970-665-6405 or email our ADA Team at ADATeam@rifleco.org.  Please 
+allow 48 hours for your requests to be met. 
+La Ciudad de Rifle valora la plena inclusión y acceso para todas nuestras instalaciones, programas, actividades y servicios. 
+Nos complace proporcionar alojamientos significativos para cumplir con la Ley de Estados Unidos con Discapacidades (ADA) 
+y proporcionar razonablemente traducciónes, interpretaciónes, modificaciones, adaptaciones, formatos alternativos, ayudas 
+auxiliares y servicios.Para solicitar asistencia especial, llame a la City Clerk Alexis Ramírez al 970-665-6405 o envíe un correo 
+electrónico a el equipo ADA a ADATeam@rifleco.org. Por favor, permita 48 horas para que se atiendan sus solicitudes. 
+Page 1 of 90
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: October 14, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #a. 
+  
+Agenda Item Name: 
+Bulk Resource Consumer Conditional Use Permit Requirements Discussion 
+  
+Presenter: 
+Zach Higgins, Community Development Director 
+  
+Item Description: 
+Discussion regarding possible CUP guidelines and requirements for Bulk Resource Consumers. 
+  
+Recommended Action: 
+No action on Workshop items.  
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+The establishment of the CUP process and definitions associated provide the City with a process to approve or 
+deny a Bulk Resource Consumer application if/when received. 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+N/A 
+  
+Executive Summary: 
+See attached memo. 
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Alexis Ramirez, City Clerk 
+  
+Attachments: 
+1. City_of_Rifle_BRC_CUP_Memo_CC 
+2. Draft BRC Article XX_10_09_2026 
+3. Rifle_City_Council_Data_Center_Scenario_Analysis_09_02_2026 
+ 
+Page 2 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+    
+Workshop Memo 
+Recommended Conditional Use Permit Framework for Data Centers / Bulk Resource 
+Consumers 
+TO: City Council 
+FROM: Community Development Department 
+DATE: September 02, 2026 
+RE: Draft Bulk Resource Consumer / Data Center Conditional 
+Use Permit Standards 
+ 
+Background: 
+Data centers can provide substantial private investment, construction activity, property tax base, franchise 
+revenue potential, and fiber/telecommunications infrastructure. They can also create unusual public impacts 
+because they can require high electric capacity, cooling water, backup power systems, constant mechanical 
+operation, major utility upgrades, intensive security, and specialized emergency response. 
+A dedicated CUP structure gives the City a clearer basis to require studies, impose conditions, protect public 
+infrastructure and nearby land uses, and deny applications that do not demonstrate net public benefit. 
+ 
+Research snapshot of CUP approach: 
+Reference Key provisions / findings Relevance for Rifle 
+Logan County, Colorado 
+Requires a Special Use Permit before construction of 
+data center facilities and requires site plans, water supply 
+information, road-use agreements, emergency 
+operations planning, decommissioning planning, and 
+mitigation for public service/capital facility impacts. 
+Supports a permit-before-construction 
+model and a complete technical 
+submittal package. 
+Hayden, Colorado 
+Requires electric utility capacity verification, an energy 
+supply plan, public water/sewer service, closed-loop or 
+recycled-water cooling unless otherwise approved 
+through the CUP, water demand analysis, applicant-
+funded utility upgrades, noise study, and thermal impact 
+mitigation. 
+Closest small-town Colorado model for 
+a CUP-based data center standard. 
+Weld County, Colorado 
+Requires proof of water, electricity-provider “will serve” 
+letter, compatibility documentation, and a C-scale 65 
+dB(C) property-boundary noise limit for data centers. 
+Supports requiring both utility proof and 
+low-frequency noise regulation. 
+Page 3 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Reference Key provisions / findings Relevance for Rifle 
+Longmont, Colorado 
+Approved a 2026 approach that bans hyperscale 
+facilities of 100 MW or more while creating use-specific 
+standards for smaller light-industrial data centers 
+addressing energy efficiency, water, cooling, noise, and 
+lighting. 
+Supports tiering facilities by load and 
+distinguishing smaller facilities from 
+hyperscale impacts. 
+Albemarle County, Virginia 
+Requires Special Use Permit review for larger data 
+centers, public water and sewer, closed-loop or recycled 
+water cooling if water cooling is used, disclosure of 
+power supply, generator testing limits, and setbacks from 
+lot lines and rural areas. 
+Useful peer model for public utility, 
+cooling, generator, and setback 
+standards. 
+National League of Cities 
+Identifies local concerns around increased water and 
+energy use, greenhouse gas emissions, power-grid 
+strain, ratepayer exposure, noise, and light pollution. 
+Supports a broad municipal impact 
+review rather than a narrow zoning 
+review only. 
+Define the use 
+Create a specific “Data Center” definition and also preserve a broader “Bulk Resource Consumer” category for 
+high-impact users that exceed defined electric, water, waste, or pollution thresholds. A broader umbrella may 
+be helpful because future high-resource uses may not call themselves data centers but may create similar 
+infrastructure, utility, and nuisance issues. 
+Proposed definition: 
+“Bulk Resource Consumer” means a commercial, industrial, or institutional use that, based on projected or 
+contracted demand, is expected to consume more than a defined threshold of electric capacity, water, or other 
+municipal or environmental resources; requires substantial utility or grid interconnection upgrades; or produces 
+waste, heat, air emissions, noise, or discharges requiring state or federal permit review.  
+A Data Center is a subset of Bulk Resource Consumer when the primary use is the housing of information 
+technology or telecommunications equipment used to process, transfer, or store digital information, including 
+associated cooling, mechanical, security, office, backup power, and utility infrastructure.”  
+Require studies and analyses as part of a complete application  
+The following studies are recommended to be required before an application is deemed complete. This ensures 
+the Planning Commission and City Council are not asked to decide a project before the basic operational 
+impacts are understood. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+ 
+Required study Description and expected deliverable Policy basis 
+Electrical / Power Supply Analysis 
+Documents anticipated peak and average electrical demand in 
+MW, interconnection needs, substation/switchgear improvements, 
+backup power, redundancy, and written utility confirmation that 
+service can be provided without reducing service to existing users 
+or shifting system costs to residents and small businesses. 
+Hayden requires electric utility capacity 
+verification and an energy supply plan; 
+Weld requires a utility will-serve letter. 
+Electric and Gas Rate Study 
+Identifies likely rate class, tariff treatment, franchise fee 
+implications, cost-recovery structure, utility upgrades, standby 
+service, early exit penalties, and whether project-related costs 
+could be socialized to other ratepayers. If no gas service is 
+proposed, the study should focus on electric rates and franchise 
+impacts. 
+Supports Council review of fiscal benefit 
+and ratepayer protection. 
+Water Supply & Cooling Plan 
+Identifies source and legal availability of water, initial fill, annual 
+and peak demand, drought-stage limitations, fire suppression 
+needs, cooling technology, blowdown/wastewater, discharge 
+method, and whether closed-loop, dry, recycled, or other low-
+water systems are proposed. 
+Logan and Hayden both require 
+detailed water/cooling documentation; 
+Hayden favors closed-loop or recycled 
+systems. 
+Ldn Noise Study 
+Establishes baseline conditions and evaluates day-night average 
+sound levels, continuous mechanical noise, tonal noise, low-
+frequency noise, backup generator testing, and modeled impacts 
+at property lines and sensitive receptors. Rifle should consider 
+both dBA and dBC metrics. 
+Weld adds a 65 dB(C) property-
+boundary limit for data centers; peer 
+jurisdictions regulate generator testing. 
+Thermal Impact & Mitigation 
+Analysis 
+Identifies sources of waste heat and evaluates potential off-site 
+heat discharge, thermal plumes, localized heat island effects, and 
+mitigation such as equipment orientation, screening, waste heat 
+reuse, or mechanical design changes. 
+Hayden requires a thermal impact 
+mitigation plan for data centers. 
+Fiscal & Municipal Services Impact 
+Analysis 
+Quantifies expected City revenue, one-time versus recurring 
+revenue, property tax distribution, franchise revenue, staff review 
+cost, road maintenance, emergency response, utility impacts, and 
+capital facility impacts. 
+Logan requires applicants to address 
+effects on public services and capital 
+facilities. 
+Economic Impact Analysis 
+Distinguishes direct jobs, construction activity, permanent FTE, 
+taxable investment, local procurement, induced/indirect effects, 
+supplier attraction, and potential displacement or opportunity 
+costs. 
+Needed because data centers often 
+have high capital investment but fewer 
+permanent jobs per dollar than 
+traditional employment uses. 
+Housing Impact Analysis 
+Evaluates construction-phase workforce housing, lodging, 
+RV/campground pressure, rental market effects, long-term 
+employee housing needs, and mitigation for short-term and long-
+term impacts. 
+Important for Rifle given regional 
+housing constraints and a potentially 
+large temporary construction workforce. 
+Page 5 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Required study Description and expected deliverable Policy basis 
+Construction Period Housing 
+Mitigation Plan 
+Analyzes the need for housing created by construction and 
+provides mitigation plan so the brunt of housing demand does not 
+overly impact Rifle residents. Avoids overly impactful rent or 
+ownership price increases in Rifle. 
+Given the identified need from Rifle’s 
+completed Housing Needs Assessment, 
+a large increase in outside workforce 
+could seriously strain a tight market. 
+Emergency Operations Plan 
+Prepared with Colorado River Fire Rescue and other responders. 
+Addresses emergency shutdown, de-energization, fire 
+suppression, hazardous materials, backup power, battery 
+systems, emergency access, alarms, notification protocols, and 
+contact procedures. 
+Logan requires emergency operations 
+planning with fire/emergency 
+management. 
+Decommissioning Plan 
+Identifies dismantlement, site restoration, environmental 
+remediation, equipment removal, financial assurance, ownership 
+transfer, and trigger points for abandonment or non-operation. 
+Logan requires decommissioning 
+planning; staff draft requires a 
+decommissioning bond before building 
+permits. 
+Environmental Waste Study 
+(Planning Commission Proposed) 
+The Environmental Waste Study should identify all solid, liquid, 
+hazardous, universal, special, construction, operational, and 
+decommissioning waste streams that may be generated by a Bulk 
+Resource Consumer. For a data center or similar high-resource 
+facility, this may include electronic waste, batteries, backup power 
+system components, diesel or fuel-related materials, oils, 
+coolants, refrigerants, glycol, water treatment chemicals, cleaning 
+solvents, cooling system blowdown, wastewater discharge, 
+construction waste, contaminated soil, and waste generated 
+during equipment replacement or decommissioning. 
+The purpose of the study is to ensure that waste is properly 
+identified, stored, transported, recycled, treated, discharged, or 
+disposed of without creating risk to public health, City utilities, 
+surrounding properties, stormwater systems, wastewater systems, 
+or emergency responders. 
+ 
+The Environmental Waste Study 
+supports the City’s authority to evaluate 
+whether a proposed Bulk Resource 
+Consumer protects public health, 
+safety, welfare, municipal infrastructure, 
+emergency services, stormwater 
+systems, and wastewater systems. 
+Colorado hazardous waste regulations 
+apply to persons who generate 
+hazardous waste and require 
+compliance with generator 
+requirements based on the type and 
+quantity of waste generated. A local 
+CUP requirement gives the City the 
+ability to verify that state and federal 
+waste obligations have been 
+considered before land use approval is 
+granted and to require local mitigation, 
+reporting, and emergency coordination 
+as conditions of approval. 
+Air Quality Study 
+(Planning Commission Proposed) 
+The Air Quality Study should identify and evaluate all potential air 
+emissions associated with the Bulk Resource Consumer, 
+including normal operations, backup systems, construction 
+activity, emergency operation, generator testing, power 
+generation, fuel use, cooling systems, traffic, and maintenance 
+activities. For a data center or similar facility, the study should 
+specifically address emissions from natural gas generation, 
+backup generators, combustion turbines, stationary engines, 
+boilers, diesel equipment, construction equipment, truck traffic, 
+fugitive dust, refrigerants, and any other stationary or mobile 
+emission sources. 
+The Air Quality Study is justified 
+because data centers and similar 
+facilities may include stationary 
+combustion turbines and stationary 
+engines for primary or backup power. 
+EPA specifically identifies these as 
+common data center-related sources 
+that may be subject to Clean Air Act 
+requirements, including New Source 
+Performance Standards and National 
+Emission Standards for Hazardous Air 
+Page 6 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Required study Description and expected deliverable Policy basis 
+The purpose of the study is to determine whether the project may 
+require state or federal air permits, whether emissions could affect 
+nearby sensitive receptors, and what operational limits, 
+monitoring, or mitigation should be required as CUP conditions. 
+ 
+Pollutants. Colorado law also provides 
+that a person may not construct or 
+substantially alter a facility, install 
+machinery or equipment, or commence 
+operation of a new stationary source 
+without first obtaining a valid 
+construction permit from the appropriate 
+air quality authority when required. 
+Colorado Regulation Number 3 further 
+provides that, unless otherwise 
+authorized, a person may not construct, 
+modify, or operate a stationary source 
+without first obtaining or having a valid 
+construction permit from the Division. 
+A local CUP requirement allows the City 
+to evaluate whether state and federal 
+air permitting issues have been 
+identified early, whether emissions may 
+affect nearby land uses, and whether 
+local conditions are needed to address 
+operating limits, generator testing, 
+emergency response, public notice, 
+monitoring, and enforceable mitigation. 
+ 
+   
+Recommended CUP conditions and performance standards  
+Condition area Recommended approach 
+Utility capacity and cost shifting 
+Require written confirmation from the serving electric utility and, if applicable, gas utility. 
+Any project-specific upgrades, capacity extensions, standby service, or early-exit 
+liabilities should be paid by the project and not shifted to residents, small businesses, or 
+future City budgets. 
+Water and cooling 
+Require closed-loop cooling, dry cooling, recycled water, or another demonstrably 
+water-conservative system unless the applicant proves an equal or lower annual and 
+peak-day demand. Require water-wise landscaping with limited irrigated plantings. 
+Noise 
+Require baseline measurement, predictive modeling, compliance testing, and 
+enforceable limits. Include dBA and dBC or other low-frequency standards because 
+data center mechanical systems may produce continuous or tonal noise not fully 
+captured by dBA alone. 
+Page 7 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Condition area Recommended approach 
+Heat 
+Require a thermal impact mitigation plan and periodic monitoring if modeling shows 
+measurable off-site heat effects. Testing intervals and allowable thresholds should be 
+defined before adoption. 
+Lighting and visual impacts 
+Require fully shielded, downward-directed fixtures; no glare or light trespass; screening 
+of mechanical equipment; and natural berming/landscaping with waterwise trees and 
+vegetation where feasible. 
+Sensitive receptors 
+Evaluate setbacks from housing, educational facilities, roads, campuses, parks, medical 
+facilities, and other sensitive uses. The draft 1,500-foot educational facility setback 
+should be reviewed against actual sites, legal standards, parcel geometry, and 
+mitigation feasibility. 
+Public notification 
+Require enhanced notification at least one-half mile from property boundaries and a 
+public meeting after a complete application is received but before Planning Commission 
+and City Council hearings. 
+Emergency services 
+Require Colorado River Fire Rescue review, emergency pre-plans, access design, 
+funding for specialized training/equipment if needed, and annual updates to emergency 
+contacts and shutoff/de-energization procedures. 
+Decommissioning and ownership changes 
+Require financial assurance before building permits. Any transfer of ownership should 
+require notice to the City and written assumption of CUP obligations by the successor 
+operator. 
+Duration and amendments 
+Allow Council to set CUP duration, review intervals, and expiration conditions. Any 
+material increase in load, water use, backup generation, cooling method, or building 
+area should require an amended CUP. 
+Proposed code structure for staff drafting 
+Staff should prepare a text amendment organized around the following sections. The language below is a code-
+structure recommendation rather than final legal text. 
+ Sec. 16— Definitions: Add Data Center and Bulk Resource Consumer definitions; clarify thresholds; 
+exclude ordinary accessory server rooms below the threshold. Add Sensitive Receptors definition. 
+ New Article — Bulk Resource Consumer / Data Center Standards: Add intent, applicability, CUP 
+requirement, complete-application requirements, required studies, operating standards, monitoring, 
+reporting, enforcement, and decommissioning. 
+ Sec. 16— Schedule of Uses: Allow Bulk Resource Consumer / Data Center only as a conditional use in 
+selected industrial districts and prohibit in incompatible districts. 
+ Sec. 16 — Additional Requirements: Add setbacks, height limits, cooling requirements, noise and heat 
+monitoring, public notification, landscaping/screening, and decommissioning bond requirements. 
+ CUP Procedures: Add explicit authority to require third-party review at applicant expense and to condition, 
+deny, revoke, or require amended CUP review for material operational changes. 
+ 
+Page 8 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Draft considerations: 
+ Data centers and similar high-resource uses can create fiscal and economic benefits but can also create 
+impacts that differ from typical light industrial development. 
+ A specific definition and CUP process is needed to avoid reviewing data centers as ordinary warehouse, 
+office, or light industrial uses. 
+ Mandatory technical studies are appropriate because public impacts may depend on utility capacity, water 
+availability, cooling technology, noise, thermal discharge, emergency response needs, housing impacts, 
+and ratepayer protections. 
+ The City should require applicant-funded third-party review for technical studies that exceed staff expertise 
+or capacity. 
+ The City should require enforceable conditions, monitoring, reporting, decommissioning security, and public 
+notification before considering approval. 
+ 
+Draft code concepts : 
+ Intent: protect public infrastructure, municipal utilities, surrounding land uses, and public health, safety, and 
+welfare through standards for location, development, operation, and decommissioning.  
+ CUP application: require scaled site plan showing boundaries, rights-of-way, physical constraints, utility 
+structures, cooling/mechanical structures, security/administrative structures, drainage, streets, access, 
+pedestrian walkways, utilities, easements, owner/operator, and zoning.  
+ Required studies: electrical/power, rate/franchise, water/cooling, noise, thermal, fiscal/municipal services, 
+economic impact, housing impact, Construction housing mitigation plan, emergency operations, and 
+decommissioning. 
+ Permits and licenses: identify applicable federal, state, and utility approvals, including water rights, air quality, 
+discharge, Clean Water Act, NEPA if applicable, and utility/grid interconnection.  
+ Use table: consider Bulk Resource Consumer as conditional in Light Industrial and Industrial districts only.  
+ Setbacks and height: 
+ 50-foot height limit including rooftop equipment. 
+ 200-foot setback from property line 
+ 200-foot setback from Right-of-Way 
+ 1,500 foot setback from existing residences and/or sensitive receptors  
+ Cooling: require closed-loop or similar water-conservative system. Facility Operator shall provide the City with 
+annual water use reports sighting initial fill, cooling system top off, domestic/employee use, maintenance and 
+cleaning, and fire system testing. 
+ Initial Fill shall use no more than 30 Acre Feet of water  
+ Annual Consumption shall use no more than 1 Acre Feet of water for cooling  
+ Monitoring: require noise/decibel and released-heat testing at defined distances and intervals; allow 
+unannounced compliance testing. 
+ Provide baseline ambient noise study at application. Provide Predictive Noise Model for all cooling, electrical, 
+transformer, generator, and backup systems. dBA and dBC will be measured at property line and all 
+sensitive receptors (see definition). Post-construction verification testing will take place quarterly and before 
+Certificate of Occupancy is issued. Testing may be conducted unannounced if complaints occur. Corrective 
+action is required within 30 days if measured noise exceeds approved limits.  
+Page 9 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+ Approved noise limits: 
+ 45dBA and 60dBC daytime limit at property line of sensitive receptors.  
+ 50dBA and 65dBC daytime limit at Data Center property line  
+ 40dBA and 50dBC nighttime limit at property line of sensitive receptors.  
+ 45dBA and 55dBC nighttime limit at Data Center property line  
+ Provide baseline ambient temperature study at application. Provide predictive temperature model which 
+covers all primary sources of heat generation for the data center project. Temperature will be measured 
+at a designated control point then at property line and all sensitive receptors. Post-construction 
+verification testing will take place quarterly and before Certificate of Occupancy is issued. Testing may 
+be conducted unannounced if complaints occur. Corrective action is required within 30 days if 
+measured heat exceeds approved limits. 
+ Approved heat release restrictions: 
+ +2.0 degree F at data center property line 
+ +less than 1.0 degree F at sensitive receptors 
+ Lighting: All exterior lighting for a Bulk Resource Consumer shall be designed to provide minimum 
+illumination necessary for safety, security, emergency access, and operations while preventing glare, 
+uplight, skyglow, and light trespass onto adjacent parcels, public rights-of-way, sensitive receptors, and 
+open lands. 
+ Exterior fixtures shall be fully shielded, full cutoff, and downward-directed. 
+ No direct uplight shall be permitted, except emergency lighting approved by the City. 
+ Maximum property line light trespass of 0.1 foot-candle at nearby residences or sensitive receptor 
+property lines. 
+ Maximum property line light trespass of 0.2 foot-candle at adjacent industrial or commercial property 
+lines. 
+ All non-essential lighting shall use timers, dimmers, motion sensors, or adaptive controls. 
+ Lighting not required for active operations, emergency access, or security shall be dimmed or turned off 
+during overnight hours from at least 9pm to 4am. 
+ Security lighting shall be motion-activated where feasible and shall not remain continuously at full 
+brightness unless justified by a security plan. 
+ Applicant must submit a photometric plan before approval and provide field verification after installation. 
+ Notification: require standard notice, one-half-mile enhanced notice, and a public meeting after complete 
+application and before formal hearings. Planning Commission proposed 5-mile notice for the public meeting 
+hosted by the applicant and 1-mile notice for the Planning Commission Public Hearing.  
+ CUP duration and security: allow Council to determine CUP term and require decommissioning bond before 
+issuance of building permits. 
+ Screening: encourage berms, waterwise trees, and natural landscape separation to reduce line of sight and 
+reduce noise transmission. Line of sight for all external cooling equipment, generators, or similar loud equipment 
+should be eliminated to all sensitive receptors as defined.  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 90
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT
+DRAFT POLICY MEMORANDUM
+City of Rifle Community Development | Draft Data Center CUP Memo 
+ Research sources and reference notes 
+ Logan County, Colorado: Data Center Facility Regulations, 2026. Used to support Special Use Permit before 
+construction, site plan materials, water source and blowdown requirements, road use agreements, emergency 
+operations plans, public service/capital facility impact mitigation, and decommissioning planning. 
+ Town of Hayden, Colorado: Development Code data center use-specific standards, 2026. Used to support 
+electric capacity verification, energy supply plan, public water/sewer, closed-loop or recycled cooling, water 
+demand analysis, applicant-funded utility upgrades, noise study, thermal impact plan, and third-party review. 
+ Weld County, Colorado: Code Ordinance 2026-01. Used to support proof of water, electricity-provider will-serve 
+letter, compatibility documentation, and C-scale boundary noise limits for data centers. 
+ City of Longmont, Colorado: Development Code Updates: Data Centers, Ordinance O-2026-34. Used to 
+support tiering by electrical demand and use-specific standards for smaller facilities addressing energy efficiency, 
+water, cooling, noise, and lighting. 
+ Albemarle County, Virginia: Data center regulations and special use permit framework. Used to support size 
+thresholds, public water/sewer, closed-loop or recycled cooling, generator-testing limits, setbacks, and power 
+supply disclosure. 
+ National League of Cities: Data Centers and Local Environmental Considerations; Data Centers Are Coming: 
+Are You Prepared? Used to support broader local-government concerns about water, energy, greenhouse gas 
+emissions, grid strain, ratepayer exposure, noise, light, land use, and environmental standards. 
+ 
+Page 11 of 90
+Sec. 16-1-220. - Deﬁnitions. 
+For purposes of this Chapter, certain terms are deﬁned as follows: 
+Bulk petroleum storage means the storage of petroleum products and other materials in 
+aboveground containers for subsequent resale to distributors or retail dealers or outlets. 
+Bulk Resource Consumer means a commercial, industrial, or institutional use that, based 
+on projected or contracted demand, is expected to consume more than a deﬁned 
+threshold of electric capacity, water, or other municipal or environmental resources; 
+requires substantial utility or grid interconnection upgrades; or produces waste, heat, air 
+emissions, noise, or discharges requiring state or federal permit review. 
+Camper park means any area that … 
+Cultivation means the act of growing or raising of plants.  
+Data Center is a subset of Bulk Resource Consumer when the primary use is the housing 
+of information technology or telecommunications equipment used to process, transfer, or 
+store digital information, including associated cooling, mechanical, security, oƯice, 
+backup power, and utility infrastructure. Data Center facilities may include IT Warehouses, 
+IT Factories and IT Housing Facilities. 
+Density means the number of dwelling ... 
+Sensitive Receptor means a property, building, facility, outdoor area, or land use where 
+occupants or users may be more vulnerable to adverse impacts from noise, low-frequency 
+vibration, light trespass, glare, air emissions, released heat, hazardous materials, 
+emergency events, traƯic, or other oƯ-site impacts associated with a Bulk Resource 
+Consumer or Data Center. 
+Sensitive Receptors include, but are not limited to: 
+1. Any residential dwelling or residential zoning district, including single-family, duplex, 
+multifamily, manufactured home, group home, dormitory, or similar residential 
+occupancy; 
+2. Schools, colleges, campuses, preschools, childcare centers, youth-oriented 
+facilities, and outdoor areas customarily used by students, children, or campus 
+users; 
+3. Hospitals, clinics, assisted living facilities, nursing homes, senior housing, 
+rehabilitation facilities, and similar health care or care-giving facilities; 
+Page 12 of 90
+4. Parks, playgrounds, athletic ﬁelds, trails, public gathering spaces, and other 
+recreational areas intended for regular public use; 
+5. Places of worship, community centers, libraries, or civic facilities where people 
+regularly gather; 
+6. Public water sources, wetlands, riparian areas, wildlife areas, or other 
+environmentally sensitive areas identiﬁed by the City; and 
+7. Any other property, facility, or use determined by the City to contain a population, 
+activity, or resource requiring additional protection based on the nature, scale, 
+intensity, or operational characteristics of the proposed Bulk Resource Consumer. 
+For purposes of required setbacks, noise, lighting, thermal, air quality, environmental 
+waste, emergency operations, and other impact studies, measurement shall be taken from 
+the nearest property line or occupied outdoor area of the Sensitive Receptor, unless the 
+City approves an alternate measurement location based on site-speciﬁc conditions. 
+Sensitive Receptors do not include public rights-of-way, airport operations areas, industrial 
+uses, utility infrastructure, agricultural structures, or commercial properties unless such 
+property also contains or is adjacent to one of the sensitive uses listed above. 
+ 
+Sec. 16-3-420. - Schedule of uses for commercial and industrial districts 
+The following is the schedule of uses for the CS, TC, LI and I Zone Districts. For the Central 
+Business District, see Section 16-18-1010 of this Chapter. 
+USES CS1 TC1 LI I 
+Bulk petroleum storage * * C C 
+Bulk Resource Consumer (4) * * C C 
+Camper parks, campgrounds * C * * 
+Cultivation of mushrooms * * P P 
+Data Center (4) * * C C 
+Drive-up banks/savings and loans/drive-in restaurants P P C * 
+(4) See Article XX for BRC Requirements 
+Page 13 of 90
+Division 3 - Planning Commission Review 
+Sec. 16-5-210. - Applicability. 
+ (a) The Planning Commission will review the following land use applications: 
+  (1) Major subdivision sketch plans; 
+  (2) Major subdivision preliminary plans; 
+  (3) Major subdivision combined sketch/preliminary plans; 
+  (4) Major subdivision ﬁnal plats (at the option of the Planning   
+   Commission); 
+  (5) Minor subdivision sketch plans; 
+  (6) Planned unit developments; 
+  (7) Conditional uses; 
+  (8) Rezoning; 
+  (9) Text amendments to the land use regulations; 
+  (10) Site plans for multiple-family dwellings; 
+  (11) Creation of condominiums and common interest communities; 
+  (12) Annexations; 
+  (13) Comprehensive plan amendments;  
+  (14) Bulk Resource Consumers; and 
+  (1 54) At staƯ's discretion, vacation of rights-of-way may be taken to the  
+   Planning Commission for a recommendation to City Council. 
+ARTICLE XX – Bulk Resource Consumer 
+Sec. 16-20-010. - Deﬁnitions. 
+The following words, terms, and phrases, when used in this chapter, shall have the 
+meanings ascribed to them in this section, except where the context clearly indicates a 
+diƯerent meaning: 
+Bulk Resource Consumer means a commercial, industrial, or institutional use that, 
+based on projected or contracted demand, is expected to consume more than a 
+deﬁned threshold of electric capacity, water, or other municipal or environmental 
+resources; requires substantial utility or grid interconnection upgrades; or produces 
+waste, heat, air emissions, noise, or discharges requiring state or federal permit review. 
+Data Center is a subset of Bulk Resource Consumer when the primary use is the 
+housing of information technology or telecommunications equipment used to process, 
+transfer, or store digital information, including associated cooling, mechanical, 
+security, oƯice, backup power, and utility infrastructure. ” 
+Page 14 of 90
+Electrical / Power Supply Analysis Documents anticipated peak and average 
+electrical demand in MW, interconnection needs, substation/switchgear 
+improvements, backup power, redundancy, and written utility conﬁrmation that service 
+can be provided without reducing service to existing users or shifting system costs to 
+residents and small businesses. 
+Electric and Gas Rate Study Identiﬁes likely rate class, tariƯ treatment, franchise fee 
+implications, cost-recovery structure, utility upgrades, standby service, early exit 
+penalties, and whether project-related costs could be socialized to other ratepayers. If 
+no gas service is proposed, the study should focus on electric rates and franchise 
+impacts. 
+Water Supply & Cooling Plan Identiﬁes source and legal availability of water, initial ﬁll, 
+annual and peak demand, drought-stage limitations, ﬁre suppression needs, cooling 
+technology, blowdown/wastewater, discharge method, and whether closed-loop, dry, 
+recycled, or other low-water systems are proposed. 
+Ldn Noise Study Establishes baseline conditions and evaluates day-night average 
+sound levels, continuous mechanical noise, tonal noise, low-frequency noise, backup 
+generator testing, and modeled impacts at property lines and sensitive receptors. Both 
+dBA and dBC metrics are required. 
+Thermal Impact & Mitigation Analysis Identiﬁes sources of waste heat and evaluates 
+potential oƯ-site heat discharge, thermal plumes, localized heat island eƯects, and 
+mitigation such as equipment orientation, screening, waste heat reuse, or mechanical 
+design changes. 
+Fiscal & Municipal Services Impact Analysis Quantiﬁes expected City revenue, one-
+time versus recurring revenue, property tax distribution, franchise revenue, staƯ review 
+cost, road maintenance, emergency response, utility impacts, and capital facility 
+impacts. 
+Economic Impact Analysis Distinguishes direct jobs, construction activity, 
+permanent FTE, taxable investment, local procurement, induced/indirect eƯects, 
+supplier attraction, and potential displacement or opportunity costs 
+Housing Impact Analysis Evaluates construction-phase workforce housing, lodging, 
+RV/campground pressure, rental market eƯects, long-term employee housing needs, 
+and mitigation for short-term and long-term impacts 
+Construction Period Housing Mitigation Plan Analyzes the need for housing created 
+by construction and provides mitigation plan so the brunt of housing demand does not 
+Page 15 of 90
+overly impact Riﬂe residents. Avoids overly impactful rent or ownership price increases 
+in Riﬂe. 
+Emergency Operations Plan Prepared with Colorado River Fire Rescue and other 
+responders. Addresses emergency shutdown, de-energization, ﬁre suppression, 
+hazardous materials, backup power, battery systems, emergency access, alarms, 
+notiﬁcation protocols, and contact procedures. 
+Decommissioning Plan Identiﬁes dismantlement, site restoration, environmental 
+remediation, equipment removal, ﬁnancial assurance, ownership transfer, and trigger 
+points for abandonment or non-operation. 
+Environmental Waste Study Environmental Waste Study should identify all solid, 
+liquid, hazardous, universal, special, construction, operational, and decommissioning 
+waste streams that may be generated by a Bulk Resource Consumer. For a data center 
+or similar high-resource facility, this may include electronic waste, batteries, backup 
+power system components, diesel or fuel-related materials, oils, coolants, refrigerants, 
+glycol, water treatment chemicals, cleaning solvents, cooling system blowdown, 
+wastewater discharge, construction waste, contaminated soil, and waste generated 
+during equipment replacement or decommissioning. The purpose of the study is to 
+ensure that waste is properly identiﬁed, stored, transported, recycled, treated, 
+discharged, or disposed of without creating risk to public health, City utilities, 
+surrounding properties, stormwater systems, wastewater systems, or emergency 
+responders. 
+Air Quality Study Air Quality Study should identify all potential air emissions 
+associated with the Bulk Resource Consumer, including normal operations, backup 
+systems, construction activity, emergency operation, generator testing, power 
+generation, cooling systems, and maintenance activities. The purpose of the study is to 
+determine whether the project may require state or federal air permits, whether 
+emissions could aƯect nearby sensitive receptors, and what operational limits, 
+monitoring, or mitigation should be required as CUP conditions. 
+Concealment Design Techniques means the use of berming and or use of natural 
+features to screen any BRC structure or equipment generating NOISE/db LEVEL from 
+any sensitive receptor. 
+Sec. 16-20-020. - Purpose and goals. 
+The purpose of these provisions is to establish requirements for the siting of Bulk Resource 
+Consumer (BRC) facilities. The goals of these provisions are to: 
+Page 16 of 90
+ (a) Provide for the managed development and installation, maintenance,   
+  modiﬁcation, and removal of BRC facilities in the City without unreasonably  
+  discriminating against BRC providers of functionally equivalent services  
+  including all of those who install, maintain, operate, and decommission  
+  BRCs. 
+ (b) Promote and protect the public health, safety, and welfare by reducing the  
+  impact of BRCs to the fullest extent possible through techniques including,  
+  but not limited to:  
+1) Concealment Design Techniques,  
+2) Electrical/Power Supply Analysis,  
+3) Electric and Gas Rate Study,  
+4) Water Supply and Cooling Plan,  
+5) Ldn Noise Study,  
+6) Fiscal and Municipal Services Impact Analysis,  
+7) Economic Impact Analysis,  
+8) Housing Impact Analysis, 
+9) Construction Period Housing Mitigation Plan,  
+10) Emergency Operations Plan,  
+11) Decommissioning Plan, 
+12) Environmental Waste Study,  
+13) Air Quality Study 
+(c) Required analyses, studies, and reports shall be reviewed and veriﬁed by the 
+City at the applicant’s expense. 
+Sec. 16-20-030. - Applicability 
+The requirements set forth in this section shall apply to all BRC applications. The City shall 
+have the authority to waive any requirement or standard set forth in this section if the City 
+determines that the specific requirement or standard is preempted by federal or state 
+law. The requirements set forth in this section shall not apply to; 
+ (a) Server rooms for government entities, hospitals, schools. 
+ (b) …. 
+Sec. 16-20-040. - Operational standards. 
+All BRCs shall provide proof that the project meets the current applicable standards and 
+regulations from Federal, State and County entities. 
+Sec. 16-20-050. - Design and siting standards. 
+The requirements set forth in this section shall apply to the location and design of all 
+BRCs governed by this section as speciﬁed below; provided, however, that the City may 
+Page 17 of 90
+alter any one or more of these requirements it if determines that the goals of this 
+section are better served thereby. BRCs shall be designed and located to minimize the 
+impact on surrounding properties and residential neighborhoods and to maintain the 
+character and appearance of the City, consistent with other provisions of this Code. 
+(a) Utility capacity and cost shifting 
+(b) Water use and cooling 
+(c) Noise mitigation, day and night 
+(d) Thermal Impact 
+(e) Lighting and visual impact 
+i. Exterior ﬁxtures shall be fully shielded, full cutoƯ, and downward-
+directed. 
+ii. No direct uplight shall be permitted, except emergency lighting approved 
+by the City. 
+iii. Maximum property line light trespass of 0.1 foot-candle at nearby 
+residences or sensitive receptor property lines. 
+iv. Maximum property line light trespass of 0.2 foot-candle at adjacent 
+industrial or commercial property lines. 
+v. All non-essential lighting shall use timers, dimmers, motion sensors, or 
+adaptive controls. 
+vi. Lighting not required for active operations, emergency access, or security 
+shall be dimmed or turned oƯ during overnight hours from at least 9pm to 
+4am. 
+vii. Security lighting shall be motion-activated where feasible and shall not 
+remain continuously at full brightness unless justiﬁed by a security plan. 
+viii. Applicant must submit a photometric plan before approval and provide 
+ﬁeld veriﬁcation after installation 
+(f) Impact on sensitive receptors 
+(g) Enhanced public notiﬁcation 
+(h) Decommissioning and/or change of ownership 
+(i) Duration and amendments 
+SITING REQUIREMENTS LI, I 
+Minimum Setback Requirements: 
+ 
+Setback from property line 200 feet 
+Setback from Right of Way 200 feet 
+Setback from residential or sensitive receptor 1,500 Feet 
+Page 18 of 90
+SITING REQUIREMENTS LI, I 
+Building height 50 feet 
+NOISE REQUIREMENTS  
+@ property line of sensitive receptor 45dBa and 60dBc - Daytime 
+@ BRC property line 50dBa and 65dBc - Daytime 
+@ property line of sensitive receptor 40dBa and 50dBc - Nighttime 
+@ BRC property line 45dBa and 55dBc - Nighttime 
+THERMAL IMPACT REQUIREMENTS  
+@ BRC property line +2.0 degree F 
+@ property line of sensitive receptor +<1.0 
+ 
+Sec. 16-20-060. - Application requirements and review procedures. 
+All new BRC shall be constructed and reviewed and approved by the City in accordance 
+with this section. The applicant should conduct a pre-application conference with the 
+City Planning Staff before applying under this section. All BRCs, shall be reviewed 
+pursuant to the following procedures: 
+(a) Submittal requirements. Each applicant for a BRC shall be required to submit the 
+ following information, as indicated on an application checklist provided by the 
+ City: 
+(1) Land Use Application Form and narrative explaining compliance with 
+Chapter 16 Article 20 of the City's Code. 
+(2) Completed Right-of-Way Permit and/or Conditional Use Permit application 
+as applicable, depending on the type of facility and proposed location. 
+(3) Application fee as listed on the fee schedule in Appendix A to the Rifle 
+Municipal Code. 
+(4) Documentation of legal access to site, as applicable (see Section 
+16.20.040(above). 
+Page 19 of 90
+(5) Site plan. A scaled site plan, scaled elevation view, structural plans, and 
+other supporting drawings, calculations, and other documentation, signed 
+and sealed by appropriate qualified professionals, showing the location 
+and dimension of all improvements, including information concerning 
+topography, facility height, setbacks, access, fencing, landscaping, 
+adjacent uses, and drainage. 
+ i. The site plan must include the location of all existing water, sewer, 
+ power, and other utilities at a minimum of a "Quality Level B" as 
+ defined by ASCE C-1 38-02, Standard Guidelines for the 
+ Collection and Depiction of Existing Subsurface Utility Data. 
+ ii. It is the responsibility of the applicant to ensure that the proposed 
+ installation location is within the right-of-way or within any 
+ applicable easements. 
+(6) Photographs. Visual "before" and "after" photograph simulations specifying 
+the location of BRCs and accessory equipment. 
+(7) Associated permits and approvals. All forms necessary for the City to grant 
+all approvals necessary to authorize the construction of the BRC, including 
+a Right-of-Way Use and Excavation Permit, grading permit, electrical 
+permit, Colorado Department of Transportation approvals (to include 
+Colorado Department of Transportation right-of-way permit where 
+applicable), contractor license documentation, building permit, or any 
+other required permits for concurrent review and processing by the 
+applicable City departments.  
+(8) Any other information deemed necessary by the City to determine 
+compliance with this section or any other City Code section. 
+Sec. 16-20-070. - Standards for approval.  
+No BRC, including all related accessory equipment, shall be approved unless it 
+meets the following approval criteria: 
+(a) The applicant has provided the City complete application materials and 
+any other materials necessary for review under this Article. 
+(b) Visual impacts, impacts to City infrastructure, and impacts to pedestrian 
+and vehicular circulation are minimized to the greatest extent feasible. 
+(c) The BRC meets the applicable design standards for the type of BRC in 
+accordance with Section 16.20.050, Design standards; and 
+(d) The BRC is and will be operated at all times in accordance with Section 
+16.20.040. 
+(e) Public notification. BRC shall require standard notice, one-half-mile 
+enhanced notice, and a public meeting within City Limits at an agreed upon 
+location of the complete application before formal hearings. Developer 
+Page 20 of 90
+held public meeting shall require standard notice enhanced to two and 
+one-half (2.5) mile radius of the subject property. 
+(f) BRC applications require a conditional use permit, the BRC meets the 
+standards listed in Section 16-5-280. 
+(g) Planning Commission will hold a public hearing for the CUP and provide a 
+recommendation of denial, approval, or approval with conditions to City 
+Council. City Council shall be the final City approval body for any 
+conditional use permit for a BRC. 
+Sec. 16-20-080. - Miscellaneous. 
+(a) Severability. If any portion of this chapter is found to be void or ineffective, 
+it shall be deemed severed from this chapter and the remaining provisions 
+shall remain valid and in full force and effect. 
+(b) Codification amendments. The codifier of the City Code is hereby 
+authorized to make such numerical and formatting changes as may be 
+necessary to incorporate the provisions of this chapter within the City 
+Code. 
+Page 21 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+City Council Workshop
+Data Center Scenario Analysis
+Fiscal • Water • Workforce • Municipal Service Impacts
+Three illustrative scenarios: $1B • $10B • $20B
+Assumes true closed-loop data center cooling and appropriately sized dry-cooled natural-gas 
+generation.
+Community Development
+1
+Page 22 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Understand scale
+• Compare $1B, $10B and $20B scenarios
+• Separate construction-phase effects from 
+stabilized operations
+• Distinguish City revenue from regional tax-base 
+benefit
+Evaluate public value
+• Weigh fiscal benefit against utility, road and 
+service costs
+• Understand water and power-generation 
+impacts
+• Consider housing / lodging and workforce 
+pressure during build-out
+Set CUP standards
+• Require applicant-funded technical studies
+• Prevent cost shifting to residents and 
+ratepayers
+• Set measurable noise, water, heat, lighting, air 
+and decommissioning standards
+2
+Page 23 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Three planning scenarios:
+Illustrative scale only. Capital investment, electrical load and employment vary by operator, technology and phasing.
+$1B PROJECT
+Data center load 25–40 MW
+Gas generation 30–50 MW
+Permanent FTE 15–25
+Peak construction workers 150–250
+$10B PROJECT
+Data center load 200–300 MW
+Gas generation 250–350 MW
+Permanent FTE 125–175
+Peak construction workers 1,500–2,000
+$20B PROJECT
+Data center load 400–500 MW
+Gas generation 500–600 MW
+Permanent FTE Up to 300
+Peak construction workers 3,000–4,000
+3
+Page 24 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Water impact under true closed-loop cooling
+Closed-loop data center cooling largely removes recurring cooling withdrawals; dry-cooled power generation becomes the larger ongoing water variable.
+DATA CENTER — TRUE CLOSED LOOP DRY-COOLED NATURAL-GAS GENERATION
+$1B
+One-time initial fill
+1–4 AF
+Ongoing facility water*
+<1 AF/yr
+Power Generation water
+1–5 AF/yr
+Total stabilized annual
+2–6 AF/yr
+$10B
+One-time initial fill
+5–15 AF
+Ongoing facility water*
+2–5 AF/yr
+Power Generation water
+9–36 AF/yr
+Total stabilized annual
+12–41 AF/yr
+$20B
+One-time initial fill
+10–25 AF
+Ongoing facility water*
+4–10 AF/yr
+Power Generation water
+19–61 AF/yr
+Total stabilized annual
+25–70 AF/yr
+*Ongoing facility water includes employee/domestic use, maintenance and minor system losses; cooling top-off is assumed near zero after fill.
+2025 City of Rifle Water Consumption in Acre Feet: 1,915
+Estimated between 0.3% to 3.7% of total City consumption using provided planning scenarios.
+4
+Page 25 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+How the water assumptions were calculated
+A screening methodology for Council discussion. Applicant-specific engineering and water-right analysis would control during CUP review.
+1 acre-foot = 325,851 gallons
+1  Closed-loop data center
+• Real-world anchor: Oracle reports ~10M gallons (30.7 AF) one-time 
+fill for four Project Jupiter data center buildings.
+• Order-of-magnitude scale: 30.7 AF × (scenario MW ÷ 2,450 MW).
+• City planning ranges are then widened roughly 2–4× for building 
+count, redundancy, piping, commissioning and design uncertainty.
+• 660 MW example: direct proportional scale ≈ 8.3 AF → conservative 
+planning band ≈ 15–30 AF initial fill.
+2  Ongoing facility use
+• True closed-loop cooling top-off is assumed near zero after 
+initial fill.
+• Employee water proxy: FTE × 20–30 gal/day × ~250 workdays 
+÷ 325,851.
+• Add modest allowance for maintenance, cleaning, testing and 
+small system losses.
+• This produces roughly <1, 2–5 and 4–10 AF/year across the 
+three scenarios.
+3  Dry-cooled generation
+• Annual AF = MW × 8,760 hours × capacity factor × water factor ÷
+325,851.
+• Screening assumptions: 70–95% capacity factor and ~2–4 
+gal/MWh for dry-cooled NGCC.
+• Example: 600 MW × 8,760 × 95% × 4 gal/MWh ÷ 325,851 ≈ 61 
+AF/year.
+• Wet cooling is not modeled and would be substantially higher.
+Methodology intentionally rounds upward.
+5
+Page 26 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Construction phase: Estimated largest single City revenue event
+Most early fiscal benefit is temporary and tied to taxable construction/equipment plus local spending by the build-out workforce.
+$1B PROJECT
+Potential City construction/use tax
+$6–17M
+Potential worker-spending sales tax
+$0.2–1M
+Peak construction workforce
+150–250
+Illustrative 2–4 year build-out
+$10B PROJECT
+Potential City construction/use tax
+$64–170M
+Potential worker-spending sales tax
+$4–12M
+Peak construction workforce
+1,500–2,000
+Illustrative 6–8 year build-out
+$20B PROJECT
+Potential City construction/use tax
+$128–340M
+Potential worker-spending sales tax
+$10–30M
+Peak construction workforce
+3,000–4,000
+Illustrative 8–10 year build-out
+Use-tax estimates depend heavily on taxable project structure; worker-spending revenue depends on how much of the temporary workforce actually lives and spends in Rifle.
+6
+Page 27 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+How construction-phase fiscal estimates were calculated
+The ranges intentionally show uncertainty in taxability, project phasing and how much construction spending is captured inside Rifle.
+CONSTRUCTION / USE TAX
+Screening formula
+Project investment × 15–40% locally taxable base 
+× 4.25%
+Examples
+$1B × 15–40% × 4.25% = ~$6.4–17.0M
+$10B = ~$63.8–170M   •   $20B = ~$127.5–340M
+City cross-check using permit valuation
+Permit valuation × 50% × 4.25% = 2.125% of permit valuation
+The 15–40% assumption recognizes that total announced investment may include servers, specialized 
+equipment, financing, land or other costs that do not equal building-permit valuation.
+CONSTRUCTION WORKER SPENDING
+Screening formula
+Average active workers × months × taxable spend ×
+local capture × 4.25%
+• Average active workforce: ~50–70% of peak over the build-out.
+• Taxable spend proxy: ~$2,000–$4,000 per active worker per month.
+• Local capture: ~25–60% depending on lodging, commuting and supply leakage.
+$20B midpoint example
+2,100 workers × 108 months × $3,000 × 40% × 4.25% ≈ $11.6M
+These are gross-revenue screening estimates before any incentives, rebates, exemptions, collection timing or project-specific tax structure.
+7
+Page 28 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+What could remain after construction
+Recurring City benefit is driven by taxable value, utility structure and whether eligible Xcel/PSCo retail sales occur within the City franchise and tax base.
+$1B PROJECT
+City property tax
+~$1.4M/yr
+Potential Xcel franchise
+$0.1–0.5M/yr
+Illustrative recurring City revenue*
+~$2–3M/yr
+15–25 FTE
+$10B PROJECT
+City property tax
+~$13.7M/yr
+Potential Xcel franchise
+$1–3M/yr
+Illustrative recurring City revenue*
+~$16–22M/yr
+125–175 FTE
+$20B PROJECT
+City property tax
+~$27.4M/yr
+Potential Xcel franchise
+$2–5M+/yr
+Illustrative recurring City revenue*
+~$33–45M+/yr
+Up to 300 FTE
+*Illustrative recurring totals may include taxable utility purchases and service revenue. Actual taxability and utility structure require legal and Xcel confirmation.
+Recurring revenue can support long-term budgeting; construction revenue should be treated primarily as one-time money.
+8
+Page 29 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Projected annual property tax by taxing entity
+Illustrative gross collections at full stabilized taxable value. The City receives only a portion of the regional property-tax benefit.
+Taxing entity $1B PROJECT $10B PROJECT $20B PROJECT
+City of Rifle $1.4M $13.7M $27.4M
+Garfield County $3.6M $35.5M $71.0M
+Garfield RE-2* $5.4M $54.2M $108.5M
+Colorado River Fire $3.1M $30.8M $61.7M
+Grand River Health $3.7M $37.4M $74.8M
+Colorado Mountain College $1.0M $10.1M $20.3M
+Garfield County Library $0.7M $6.5M $13.0M
+Other / conservation districts $0.1M $1.3M $2.6M
+TOTAL ~$19M ~$190M ~$379M
+*School district gross local collections may not equal equivalent net new operating revenue because Colorado school finance can offset state equalization. Planning assumptions: 26% assessment rate and recent/current mill levies. Exact tax area, classification, depreciation, appeals, exemptions and future mill levies must be verified.
+Regional public-sector benefit is substantially larger than the City-only property-tax share.
+9
+Page 30 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+How recurring fiscal assumptions were calculated
+Property tax is formula-driven; franchise and utility-related revenue depends on the actual service structure.
+PROPERTY TAX
+Actual value × 26% assessment rate × mill levy ÷ 1,000
+$10B City example
+$10B × 26% = $2.6B assessed
+$2.6B × 5.261 mills ÷ 1,000 = ~$13.7M/year
+Illustrative mill assumptions used
+Rifle 5.261  •  County 13.655  •  RE-2 20.856
+Fire 11.858  •  Grand River 14.392  •  CMC ~3.9
+Library 2.5  •  Other ~0.5
+Actual value is not necessarily equal to announced project investment; Assessor valuation, classification and depreciation will 
+control.
+XCEL / UTILITY REVENUE
+Franchise fee
+Eligible Xcel/PSCo gross retail gas + electric revenue 
+inside City × 3%
+Separate electric undergrounding fund
+Eligible gross electric revenue × 1%
+Possible City utility sales/use tax
+Taxable retail gas/electric purchases × 4.25%
+• Self-generation, wholesale service or transportation-only gas may reduce the base.
+• Require written Xcel/tax confirmation before relying on recurring utility revenue.
+For Council budgeting, property tax is the most formula-driven recurring source; utility/franchise revenue should remain scenario-based until service agreements are known.
+10
+Page 31 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Indirect fiscal and community effects grow with project scale
+The construction period may create more visible community impacts than stabilized operations.
+Possible secondary benefits
+• Hotel, restaurant, fuel, grocery and retail activity
+• Contractor / subcontractor demand
+• Fiber, electrical, controls, cooling and security suppliers
+• Workforce partnerships with CMC and trades programs
+• Expanded regional tax base for public services
+• Potential advanced-industry / digital-infrastructure clustering
+Possible secondary costs / risks
+• Housing, lodging and RV-space pressure during build-out
+• Traffic, road wear and construction logistics
+• Competition for skilled trades and contractors
+• Emergency response / inspection workload
+• Utility capacity
+• Long-term dependence on one large taxpayer
+Peak construction scale 150–250  →  1,500–2,000  →  3,000–4,000 workers
+A Housing Impact Analysis and construction-management plan should scale with project size and duration.
+11
+Page 32 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Water comparison: true closed-loop data center vs. detached housing
+A closed-loop facility has a one-time fill event; ongoing facility demand is mainly employees, maintenance and non-cooling uses. Power generation is shown separately.
+TRUE CLOSED-LOOP DATA CENTER
+Cooling process after initial fill
+≈ 0 AF / year
+Illustrative ongoing facility water — excluding generation
+$1B <1 AF/yr ≈ 1–3 homes
+$10B 2–5 AF/yr ≈ 5–12 homes
+$20B 4–10 AF/yr ≈ 9–23 homes
+660 MW reference: ~15–30 AF one-time data-center fill planning band
+TYPICAL RIFLE DETACHED HOME
+Typical lot planning proxy
+~0.20 acre ~8,700–9,000 sq. ft.
+Historical Rifle planning demand
+~388 gal/day
+≈ 0.44 acre-foot / home / year
+Historical City water planning found roughly half of annual potable deliveries were used outdoors. 
+Outdoor irrigation is largely consumptive; indoor water is largely returned through the wastewater 
+system.
+Important: the data-center comparison excludes water used by the separate power-generation facility and construction activity. Those must be analyzed independently.
+12
+Page 33 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Water comparison at neighborhood scale
+Using the historical Rifle planning value of ~0.44 acre-foot per detached home per year and a ~0.20-acre typical lot proxy.
+100 HOMES
+Private lot area only
+~20 acres
+Gross municipal water demand
+~44 AF/yr
+Historic outdoor / mostly consumptive share
+~22 AF/yr
+500 HOMES
+Private lot area only
+~100 acres
+Gross municipal water demand
+~218 AF/yr
+Historic outdoor / mostly consumptive share
+~109 AF/yr
+1,000 HOMES
+Private lot area only
+~200 acres
+Gross municipal water demand
+~435 AF/yr
+Historic outdoor / mostly consumptive share
+~218 AF/yr
+For perspective: the $20B true closed-loop data-center scenario is modeled at roughly 4–10 AF/year of ongoing facility water before power generation — comparable to about 9–23 typical detached homes.
+Housing comparison is gross municipal demand, not a formal consumptive-use or water-rights depletion study. Streets, parks, common landscaping and construction water are excluded.
+13
+Page 34 of 90
+CITY OF RIFLE | CITY COUNCIL WORKSHOP COMMUNITY DEVELOPMENT
+Real World comparisons for Noise and Light
+Noise Light
+14
+Planning interpretationReal-world comparisonSound level
+Very quiet; generally unrealistic 
+as an outdoor industrial property-
+line limit
+Whisper, faint indoor sound20–30 dBA
+Appropriate reference range for 
+nighttime sensitive receptors if 
+Council wants a strict standard
+Quiet bedroom, quiet rural night, 
+library-like quiet35–40 dBA
+EPA identified 45 dB indoor as 
+associated with residential 
+areas, hospitals, and schools; 
+WHO recommends reducing 
+certain night noise below 40–45 
+dB depending on source type. 
+Quiet office / low indoor 
+background45 dBA
+A reasonable upper nighttime 
+limit near sensitive uses if low-
+frequency controls are also 
+included
+Quiet conversation at a distance, 
+suburban background50 dBA
+EPA identified 55 dB outdoor 
+Ldn as protective for outdoor 
+areas where human activity 
+occurs. 
+Moderate outdoor background, 
+noticeable but not loud55 dBA
+Usually too high for continuous 
+nighttime data center noise near 
+homes, schools, campuses, or 
+outdoor gathering areas
+Normal conversation60 dBA
+More appropriate for industrial 
+areas, not sensitive receptors; 
+could cause complaints if 
+continuous
+Busy street / traffic edge65–70 dBA
+Not appropriate at property lines 
+near sensitive uses; NIOSH uses 
+85 dBA over 8 hours as its 
+occupational exposure 
+recommendation. 
+Vacuum cleaner, heavy traffic, 
+loud mechanical equipment75–85 dBA
+Hearing-risk territory for workers 
+over time; not appropriate for 
+community exposure.
+Lawnmower, truck traffic, 
+motorcycle/power saw range90+ dBA
+Planning interpretationReal-world exampleFoot-candles
+Essentially dark; not a practical 
+site-lighting level
+Very dark rural night / faint 
+starlight0.01 fc
+Enough to orient yourself 
+outdoors, but not enough for 
+security or work
+Approximate full moon on a 
+clear night0.03 fc
+Good strict standard for light 
+trespass at residential, 
+campus, park, or sensitive 
+receptor property lines
+Very low light at edge of a site0.1 fc
+Commonly defensible 
+maximum at adjacent 
+nonresidential property lines; 
+also appears in low-activity 
+parking guidance
+Dim walkway or edge of 
+parking area
+0.2 fc
+Noticeable lighting; may be too 
+much at a residential or 
+campus property line
+Low-level outdoor security 
+lighting / lightly used parking 
+edge
+0.5 fc
+Page 35 of 90
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: October 14, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #b. 
+  
+Agenda Item Name: 
+Water Rights Report 
+  
+Presenter: 
+Michael Erion  
+Jim Neu 
+  
+Item Description: 
+Water Rights Report 
+  
+Recommended Action: 
+Information Only. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+N/A 
+  
+Executive Summary: 
+Karp Neu Hanlon will give an update on the City's Water Rights portfolio.  
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Alexis Ramirez, City Clerk 
+  
+Attachments: 
+1. 20261008 Water Rights Report Legal 
+2. Exhibit A - Service Area Map 
+3. Exhibit B CRE Water Rights Review and Analysis 10-13-2026 
+4. Exhibit B 83CW110 Aug Plan and 93CW332 Amendments 
+5. Exhibit C - Aug Supplies 
+6. Exhibit E - Golf Course Water Rights 
+Page 36 of 90
+ 
+ 
+ 
+Page 37 of 90
+www.mountainlawfirm.com 
+  Michael J. Sawyer 
+Partner/Shareholder 
+ 
+mjs@mountainlawfirm.com  
+Direct: 970.928.2118 
+Office: 970.945.2261 
+Fax:     970.945.7336 
+*Direct Mail to Glenwood Springs 
+Glenwood Springs – Main Office 
+201 14th Street, Suite 200 
+P. O. Drawer 2030 
+Glenwood Springs, CO 81602 
+Aspen 
+323 W. Main Street 
+Suite 301 
+Aspen, CO 81611 
+Montrose 
+1544 Oxbow Drive  
+Suite 224 
+Montrose, CO 81402 
+ 
+October 8, 2026 
+ 
+Mayor Clint Hostettler 
+City Council 
+City of Rifle 
+P.O. Box 1908 
+Rifle, CO 81650 
+ 
+ Re: Comprehensive Water Rights Report for City of Rifle 
+ 
+Dear Mayor Hostettler and City Council: 
+ 
+ The City of Rifle is a municipal water service provider with a water service area depicted on 
+Exhibit A. In order to meet the City’s growing water needs and plan for future growth, the City 
+constructed a new water treatment plant in 2017 utilizing an intake on the Colorado River, which 
+today serves as the City’s primary source of potable supply. This allowed the City’s water supply on 
+Beaver Creek and the treatment plant on Taughenbaugh Mesa to be decommissioned.   
+ 
+ This report details the water rights that provide the legal water supply for the City of Rifle and 
+discusses certain items that the City must continue to address in order to maintain a reliable water 
+supply. 
+ 
+This report (including exhibits) and the Water Master Plan prepared by Schmueser Gordon 
+Meyer dated December 2006, as may be updated from time to time (on file with the City), constitutes 
+an update to the Water Supply Plan adopted by the City in conformance with House Bill 08- 1141 
+(C.R.S. § 29-20-304) and C.R.S. § 30-28-133(3)(c) and (d).  
+ 
+Page 38 of 90
+ 
+ 
+Page 2 
+ 
+ 
+SCOPE OF EVALUATION AND REPORT LIMITATIONS 
+ 
+A. This report addresses the legal sufficiency and reliability of the City’s water rights as the same 
+are associated with existing water diversion and supply structures. 
+ 
+B. This report does not constitute an opinion regarding title to the City’s water rights.  However, 
+in the course of our review, we did not discover any facts or circumstances which would give rise to 
+title concerns. An evaluation of the title to water rights  is recommended prior to the transfer of any 
+new water rights to the City. 
+ 
+C. We are familiar with the City’s water diversion facilities, but no recent physical inspection of 
+the facilities was conducted for this report. 
+ 
+D. We met and discussed the City’s diversion facilities and current water rights and related issues 
+discussed in this report with Michael Erion of Colorado River Engineering (the City’s water resource 
+engineer).   
+ 
+E. We have not investigated any issues relating to water quality or the potential impact of water 
+quality laws and regulations. 
+ 
+F. Use of water in the Colorado River in the area of Rifle continues to be subject to potential 
+restrictions due to the Endangered Species Act associated with the native Colorado River endangered 
+fish species.  Colorado River water uses and Endangered Species Act compliance is addressed in a 
+river-wide “Recovery Program” which has both enacted programs to benefit the endangered fish and 
+established limits on future consumptive uses of Colorado River water.  “C ritical habitat” has been 
+designated by the U.S. Fish and Wildlife Service in a reach of the Colorado River which extends from 
+the Utah state line upstream to the Highway 13 bridge over the Colorado River.  The City’s Colorado 
+River Intake diversion structure  (which is used to supply the water treatment plant)  is located 
+upstream from that “critical habitat.”   This report assumes that the Recovery Program’s objectives 
+can be met without any further restrictions on the use of water from the Colorado River. 
+ 
+G. The evaluation of when water rights are expected to be in priority is based upon historical 
+streamflows and water diversion records.  Fluctuations in precipitation experienced within the 
+Colorado River Basin could change the evaluation and modify the concl usions about the amount of 
+growth that can be sustained with the City’s existing water rights and contract augmentation water 
+supplies. 
+ 
+H. This report is intended for use by the City of Rifle only, and not for the use or reliance of any 
+third party. 
+ 
+ 
+ 
+ 
+Page 39 of 90
+ 
+ 
+Page 3 
+ 
+INTRODUCTION TO COLORADO WATER LAW 
+ 
+Pursuant to the Colorado Constitution, the people of the State of Colorado own all of the water 
+in Colorado. With certain exceptions, land ownership does not give a landowner any right to water 
+under or flowing through property.  Instead, the Colorado Constitution provides that water users can 
+acquire a right to divert water for beneficial use.  That right is referred to as a “water right.”  
+ 
+Water use in Colorado is regulated by the “prior appropriation system.” Under this legal 
+doctrine, water rights are created by intent to place water to beneficial use, action to implement that 
+intent (usually the location or construction of water diversion structures or the filing of a Water Court 
+application), and actual beneficial use of water. For a water right to be enforceable against other water 
+rights, the water right must be confirmed by a Water Court.  A Water Court expresses its holdings on 
+water rights claims through a “decree.”  A water right is confirmed with and defined by certain 
+characteristics or limiting factors based upon the original water appropriator’s intent.  Ownership of 
+a water right merely allows the water right owner to divert and use a defined amount of water from a 
+specific body of water for a specific period of time in a specific location and for a specific purpose.   
+ 
+The priority date of a water right is an extremely important aspect of a water right. A water 
+right with an earlier priority date has a higher priority to divert water from a stream or water body 
+than a water right with a later priority date.  In other words, the holder of a senior priority water right 
+has the right to fulfill its water needs before the holder of a junior priority water right can fulfill its 
+water needs.  
+ 
+ Prior to the Water Right Determination and Administration Act of 1969 ("Act"), the state was 
+divided into approximately eighty water districts , and the rights of all parties claiming water rights  
+within a district were jointly adjudicated and recorded in a single decree. The first decree within a 
+district was called the “original adjudication.” All priorities in a subsequent decree or “supplemental 
+adjudication” were junior to those in the original and any previous supplemental decrees. This was 
+true even if a claimant initiated a diversion prior to a party whose rights had already been adjudicated. 
+Thus, priority was determined by the date of the decree. Within a particular decree, priorities were 
+determined on a "first in time, first in right" basis and a priority number was awarded to indicate a 
+water right's seniority in a particular  drainage. The "Priority Number" awarded to a water right 
+adjudicated prior to the Act is now largely meaningless because it referred to a water right's priority 
+within its district and did not reflect the right’s priority within the larger river system. Since 1969, 
+after passage of the Water Rights Determination and Administration Act of 1969, the priority date for 
+a subsequently adjudicated water right is based on the year in which the application for the water right 
+is filed with the Water Court, and within that year, the date when the water for which the right is 
+approved was first “appropriated” or placed to use (the “appropriation date”). When a water right has 
+an earlier priority date than another water right, the earlier priority water right is said  to be “senior” 
+to the later priority water right, and the later priority water right is said to be “junior” to the earlier 
+priority water right.   
+ 
+When there is enough water available to fulfill all water rights holders’ water needs, a water 
+right holder can legally receive the amount of water for which the water right is approved. Most rivers 
+Page 40 of 90
+ 
+ 
+Page 4 
+ 
+and streams in Colorado – including the Colorado River, to which all the Water Rights are tributary 
+– are considered to be “over appropriated.”  Over appropriation results from the Water Court 
+approving water rights on a river or stream in cumulative quantities greater than the amount of water 
+actually available at times. In other words, there is more demand for water in the system than there is 
+supply. The supply –  demand imbalance most often arises in the months of July, August and 
+September when mountain snowpack has melted and agricultural irrigation demands are high.  During 
+times of water shortage, a senior water right holder can “call” junior water rights.  A call results in 
+DWR officials forcing the holders of junior water rights to cease or diminish the amount of water 
+they are diverting so that the amount of water called for by a senior water rights holder can flow 
+downstream to meet the calling senior water rights holder’s unmet water demand. When DWR 
+officials enforce a call, enforcement results in curtailment of water diversions in reverse order of the 
+priority dates (latest to earliest) of the water rights on the river or stream.  
+ 
+Even if a water right is decreed for a certain amount of water, diversion can be limited by the 
+Water Commissioner to prevent “waste.”  The right to divert water in Colorado is limited to beneficial 
+uses.  Wasteful uses are not deemed beneficial.  As such,  a water right owner may only divert such 
+an amount of water as is needed to accomplish the beneficial use (such as irrigating a tract of land) 
+together with such additional water as is reasonable to accomplish the use (i.e. water to cover transit 
+losses in a ditch between the point of diversion and the land to be irrigated). 
+ 
+Colorado adheres to the doctrine of maximum utilization of water with the intent that limited 
+water supplies meet the water needs of the most people. As part of creating flexibility in allocating 
+limited water resources, Colorado law allows water rights ho lders to implement a “plan for 
+augmentation.”  Under such a plan, a water rights holder can continue to divert water during a water 
+shortage by replacing in the river or stream system the water that junior water rights holders deplete 
+through use. There ar e two primary sources of replacement (or augmentation) water supplies: (a) 
+water stored in a reservoir that is released to offset out -of-priority diversions by a junior water right 
+holder, and (b) consumptive use credits that relate to “drying up” historic ally irrigated lands and 
+transferring the consumptive use associated with the irrigation to a new use (such as municipal use).  
+A “consumptive use” of water is a use that permanently removes water from a river or stream system 
+through evaporation, transpiration, or incorporation of the water into products, plant tissue, or animal 
+tissue.  Consumptive uses are distinguishable from uses where the water is returned to the river or 
+stream system after use such as groundwater return flows after was is applied to irrigation.     
+ 
+Water rights are either “absolute” or “conditional.” An absolute water right is a water right 
+that has been applied to beneficial use, and which has been confirmed by the Water Court. Once a 
+water right has been made absolute, no further Water Court action is necessary to keep the water right 
+viable, so long as the water for which the water right is approved continues to be applied to beneficial 
+use consistent with the terms of the decree that awarded the water right. A conditional water right 
+represents the existence of an intent to beneficially use water at some point in the future. The award 
+of a conditional water right by the Water Court preserves the administration priority of the water right 
+while providing the owner of the water right (and its successors) time to develop the water right and 
+use the water.   To maintain a conditional water right, the water right owner must return to the Water 
+Court within six years of the date of the original decree awarding the water right to demonstrate that 
+Page 41 of 90
+ 
+ 
+Page 5 
+ 
+it has been diligent in applying the water right to the beneficial uses approved for the water by the 
+Water Court. If the Water Court finds that the owner of the water right has demonstrated diligence in 
+the development of the water right, the Water Court will maintain the water right and provide the 
+owner another six years in which to develop it.  Thereafter, the owner of a conditional water right 
+must apply to the water court every six years to demonstrate diligence, or to demonstrate that the 
+water right qualifies for an award of absolute status.    
+ 
+Because groundwater in western Colorado typically is hydrologically connected to surface 
+water, many wells cannot be operated without a water right.  However, certain groundwater wells 
+may operate without a water right because they are “exempt” from admini stration.  The exemption, 
+which is granted by statute, is due to the limited amount of water those wells are permitted to withdraw 
+and the limited uses to which the water can be placed.  The most common exempt groundwater uses 
+in western Colorado is associated with a well located on a tract of land 35 acres or larger in size.  35-
+acre exempt wells can be used to supply water in up to three single family residences, irrigate up to 1 
+acre of land, and provide water for livestock. 
+ 
+ 
+RIFLE’S MUNICIPAL WATER RIGHTS 
+ 
+ The City of Rifle owns several water rights that are used to provide water service to the City’s 
+customers.  This report breaks the City’s water rights into three categories.  The first category is those 
+water rights that are diverted from the Colorado River into Rifle’s treatment plant for use in the City’s 
+treated water system.  The second category is those water rights that are used outside of the City’s 
+treated water system – primarily for raw water irrigation purposes.  The third category is additional 
+water rights owned by the City.  
+ 
+I. Water Rights Used in City’s Treated Water System 
+ 
+The City owns several valuable water rights that allow for diversions of water into the Rifle 
+treated water system.  The City’s primary water rights are associated with the Colorado River Intake.   
+ 
+A. Colorado River Intake.   
+ 
+The City’s primary  diversion structure is the Colorado River Intake facility located on the 
+north side of the River east of Highway 13.  The water diverted at the Intake is delivered to and treated 
+at the City’s Water Treatment Plant. This facility was brought online in the early 2000s.  The Intake 
+diverts water directly from the River and into a structure known as the “Rifle Pond Well .” Water is 
+then pumped from the Pond into the City’s water treatment plant. The Intake has a maximum pumping 
+capacity of 8.13 c.f.s., which provides up to 16.1 AF (acre-feet) of raw water per day.1 The maximum 
+physical capacity of the Plant for finished water is 6.0 MGD. Typical maximum finished water output 
+during peak season is approximately 4.4 MGD or 13.1 AF per day.  
+ 
+ 
+1 A fourth pump has since been installed but the new maximum pumping capacity still needs to be determined.  
+Page 42 of 90
+ 
+ 
+Page 6 
+ 
+The City’s water rights tabulated below are currently divertible at the Colorado River Intake, 
+except where specifically noted.
+ 
+ 
+ 
+ 
+Two of these water rights are senior to the Colorado River Compact: the Excelsior Ditch and 
+the senior Starke Ditch right.  The Compact, which was signed in 1922, is an interstate agreement 
+that allocated unappropriated water from the Colorado River system among each of the participating 
+states: the Upper Basin states of Colorado, New Mexico, Utah and Wyoming; and the Lower Bas in 
+states of Arizona, California and Nevada. Under the Compact, both the Upper Basin states and the 
+Lower Basin states have the right of beneficial use of 7.5 million acre feet of water from the Colorado 
+River and its tributaries. The Compact became effective upon approval by the United States Congress 
+in 1929 in the Boulder Canyon Project Act, 43 U.S.C. § 617- l, and has the force and effect of an act 
+Structure Priority Amount  
+Priority 
+Admin 
+No. 
+Senior 
+to 
+Cameo 
+Senior to 
+Compact 
+11/24/1922 
+HUP 
+Beneficiary Notes 
+Excelsior 
+Ditch No. 16 1.6 c.f.s., absolute 12362.0 YES YES n/a 
+Available 
+for diversion 
+at the Rifle 
+Pipeline 
+Rifle 
+Pipeline 
+Domestic 
+15 
+1.0 c.f.s., 
+absolute 32780.0 NO NO YES  
+Rifle 
+Pipeline 
+No. 258 7.5 c.f.s., absolute 36195.0 NO NO YES  
+No. 258 7.5 c.f.s., conditional 36195.0 NO NO NO  
+Starke 
+Ditch No. 18 0.9 c.f.s., absolute 12142.0 YES YES n/a 
+Not yet 
+available 
+for 
+diversion at 
+Rifle 
+Pipeline / 
+Subject to 
+Agreement 
+with Beaver 
+Creek Water 
+Users 
+Rifle 
+Pipeline 
+(a/k/a Starke 
+Ditch 1st 
+Enlargement) 
+No. 241 1.0 c.f.s., absolute 37681.3 NO NO YES 
+Available 
+for diversion 
+at Rifle 
+Pipeline 
+Rifle 
+Pipeline  
+(a/k/a CO 
+River Intake 
+Enlargement) 
+ 23.1 c.f.s., conditional 48197.0 NO NO NO  
+Page 43 of 90
+ 
+ 
+Page 7 
+ 
+of Congress.  The Colorado River Compact places the risk of insufficient water to meet the rights of 
+use on the Upper Basin states.  Thus, in the event that over a rolling 10 year period an average of 7.5 
+million acre feet of water has not been made available to the Lower Basin, the prospect of a “compact 
+call” against the U pper Basin occurs (a situation where water uses in the Upper Basin would be 
+curtailed so that water could flow to the Lower Basin states). The Bureau of Reclamation is 
+forecasting shortages in Colorado River flows to meet Compact requirements into the future. The 
+Compact’s implementing documents exempt from a compact call a state’s water rights that were 
+“perfected” (beneficially used) prior to November 24, 1922, the date that the Colorado River Compact 
+was signed.  Thus, in the event of a compact call, the City’s diversions under the Excelsior Ditch and 
+the senior Starke Ditch rights can continue to occur without augmentation.2 
+ 
+In addition to curtailment of water rights by a Compact call, there are times of the year that 
+portions of the City’s water rights diverted from the Colorado River are junior to other senior 
+Colorado River water rights and therefore subject to being out-of-priority. The Shoshone Power Plant 
+in Glenwood Canyon and the Grand Valley Canal  in DeBeque Canyon known as “Cameo” are the 
+two primary senior Colorado River water rights that place calls on the Colorado River system. The 
+Excelsior Ditch and the senior Starke Ditch rights are senior to the Cameo water rights. Rifle’s water 
+rights are downstream of the Shoshone Power Plant and, as a result, not impacted by Shoshone calls.  
+ 
+All of the City’s Rifle Pipeline water rights are junior to the Cameo water rights, though a  
+portion are protected by what is known as the Historic Users’ Pool or “HUP .”  The “HUP” is a 
+dedicated pool of water that is stored in Green Mountain Reservoir for the benefit of qualifying West 
+Slope water users, which are those irrigation and domestic water rights placed to beneficial use prior 
+to October 15, 1977. Green Mountain Reservoir is located on the Blue River, an upstream tributary 
+of the Colorado River.  Green Mountain Reservoir was constructed by the Federal government as part 
+of the Colorado- Big Thompson Project (which diverts water from the Colorado Ri ver basin to 
+Northeastern Colorado.  The HUP was established in “Senate Document 80” as a means of 
+compensating West Slope water users for Colorado River water supplies diverted to the Front Rage.  
+The HUP operates by releasing water from Green Mountain Reservoir to supply certain West Slope 
+water uses and prevent them from being called out -of-priority.  This augmentation  supply is free to 
+the City. For HUP protected water rights, when the Bureau of Reclamation releases water from Green 
+Mountain (as long as it is available), the Division of Water Resources does not enforce a call against 
+the benefitted water rights.  But for the City’s HUP protection, the Rifle Pipeline water rights would 
+be subject to calls from the Cameo water rights on the Colorado River.  
+ 
+The City should be aware that the augmentation supply under the HUP is not guaranteed. For 
+example, due to record low snowpack and above normal temperatures, Green Mountain Reservoir did 
+not achieve a physical or paper fill in water year 2026. As a result, there was not enough HUP water 
+in storage to cover the demands of HUP beneficiaries through the irrigation season. For the first time 
+since the construction of Green Mountain Reservoir, water rights that historically qualified as HUP 
+ 
+2 The Starke Ditch water right is currently decreed to divert from Beaver Creek. The City’s plans to move this water 
+right to the Colorado River is discussed later in this memo. 
+Page 44 of 90
+ 
+ 
+Page 8 
+ 
+beneficiaries that were junior to the Cameo call and not replaced through another plan were curtailed 
+beginning in mid-August.  
+ 
+The City’s augmentation plan provides a n additional source of replacement through its 
+contract with the Bureau of Reclamation for water stored in Ruedi Reservoir. When the City’s HUP 
+protection was lost, the City was in a position to shift its replacement obligations from Green 
+Mountain Reservoir to Ruedi Reservoir. The City maintains 550 acre-feet of water in Ruedi Reservoir  
+and utilized approximately 65 acre-feet this year . While the Bureau of Reclamation did not reduce 
+supplies to its Ruedi contractees this year, the City must continue to plan for and adapt based on 
+changing hydrologic scenarios.  
+ 
+ The City of Rifle also owns several water rights on the Colorado River that have not yet been 
+placed to beneficial use (therefore they remain conditional) that can facilitate future growth.  These 
+conditional water rights consist of  the Rifle Pipeline (decreed for 7.5 c.f.s., conditional) and the 
+Colorado River Intake Enlargement (decreed for 23.1 c.f.s., conditional).  Between these two 
+conditional water rights the City possesses substantial  additional ability to divert water from the 
+Colorado River for municipal water purposes.  Both of these water rights are junior (not HUP 
+protected) and, under their own priority, would not provide a secure water supply.  Both water rights 
+are augmented under the City’s augmentation plan, as discussed below. 
+ 
+The City also owns water rights associated with facilities that previously diverted water from 
+Beaver Creek and treated water at the Taughenbaugh Mesa treatment plant. The City owns two Starke 
+Ditch water rights. The junior Starke Ditch water right (a/k/a Starke Ditch 1 st Enlargement) was 
+previously approved for diversion at the Rifle Pipeline in Case No. 81CW173 as an alternate point of 
+diversion. Since the decommissioning of the Taughenbaugh Mesa treatment plant, the City 
+exclusively diverts this water right from the Col orado River at the Rifle Pipeline. The senior Starke 
+Ditch water right, which is a pre -Compact water right senior to the Cameo call , has never been 
+changed from Beaver Creek. Given its seniority, the City plans to file an application with the Water 
+Court seeking approval to divert the senior Starke Ditch water right from  the Colorado River at the 
+Rifle Pipeline. This will bolster the City’s senior water supplies at the water treatment plant. 
+   
+Notably, diversions of the senior Starke Ditch water right at the Rifle Pipeline will be limited 
+to the amount of water that would have been legally and physically available at the original point of 
+diversion on Beaver Creek.  The City will continue to maintain the measuring device at the historical 
+point of diversion on Beaver Creek and the measuring station must remain in good working condition 
+to accurately account for the water that would have been available to the City on Beaver Creek . 
+Further, the City must maintain a measuring device at the Buffalo Ditch (the lowest Ditch on Beaver 
+Creek) to measure the flow of water bypassed to the Colorado River.  
+  
+Several agreements with other water users on Beaver Creek govern the water legally available 
+to the City under its senior Starke Ditch water right, with some going as far back as 1905. More 
+recently in 2017, in connection with the cessation of operations at the Taughenbaugh Mesa plant, the 
+City entered into a comprehensive settlement agreement with this group of Beaver Creek water users 
+that had historically been taking raw water from the City ’s pipeline at a rate of approximately 500 
+Page 45 of 90
+ 
+ 
+Page 9 
+ 
+gallons per day.  The settlement agreement allows the Beaver Creek water users to continue to receive 
+water through the  pipeline.  The Beaver Creek water users agreed to form a private entity to own, 
+manage, maintain, repair, and replace the pipeline and manage the delivery of water.  The City 
+contributed a one -time amount of $50,000 towards the operation, maintenance, and repair of the 
+pipeline.  As a part of the settlement, the City agreed to convey the Beaver Creek diversion structure 
+and pipeline, certain easements, and the first 0.1 c.f.s of the senior Starke Ditch ( Priority No. 18 ) 
+water right to the Beaver Creek water users and their  private entity.  The settlement agreement also 
+provided that the City would maintain ownership of the measuring device located at the historical 
+Starke Ditch point of diversion on Beaver Creek to ensure compliance with the agreement.  The City 
+also agreed to lease an additional 15 gallons per minute of water from the senior Starke Ditch right to 
+be used as carriage water (because the pipeline is not pressurized) between November 15 and April 
+14 each year. Thus, after the senior Starke Ditch water right is changed, the amount of water that the 
+City will be able to globally divert at the Colorado River Intake  will be reduced by 0.1 c .f.s. year 
+around, plus an extra 15 g.p.m. during the non-irrigation season from November 15 to April 14.      
+ 
+B. City’s Plan for Augmentation 
+ 
+As discussed above, a junior water right  – or one that would otherwise be out -of-priority –  
+can continue to divert water despite a call from a senior water right by having a plan for augmentation 
+adjudicated by the water court that makes replacement water supplies available to meet senior calls.  
+In the early 1980s, the City adjudicated a water court decree in Case No. 83CW110 that approved a 
+plan for augmentation.    The plan was later amended in Case No. 93CW332 to make minor 
+corrections in the description of the amounts of the City’s ownership in certain water rights.  Copies 
+of both decrees are attached as Exhibit B. The plan contemplates a municipal water supply for a 
+population of approximately 14,100 people.  
+ 
+ The City’s augmentation plan utilizes a combination of “consumptive use credits” and water 
+stored in Ruedi Reservoir on the City’s behalf. “Consumptive use credits” are associated with the dry 
+up of land historically irrigated by ditches on Rifle Creek.  Under the plan, the City maintains 
+discretion to forego diversions and irrigation under  ditches on Rifle Creek in exchange for 
+consumptive use credits.. Water not utilized for irrigation is then allowed to flow down Rifle Creek 
+and into the Colorado River to make up for depletions in the City’s municipal water system attributed 
+to diversions under junior water rights not covered by the HUP. When the City diverts this water for 
+irrigation (such as at the cemetery and golf course) , the corresponding consumptive use credits are 
+unavailable to the plan. The augmentation plan also uses a portion of the City’s contracts for storage 
+in Ruedi Reservoir.  Together, these replacement sources are available to allow the City’s junior water 
+rights to divert water into the municipal water system at times when there is a senior call on the 
+Colorado River. Rifle currently has an estimated population of approximately 11,000.  
+ 
+ In order for the City’s “consumptive use credits” to be available under the plan, the water 
+rights underlying the credits must be in priority. The table attached as Exhibit C describes the senior 
+irrigation rights on Rifle Creek that are owned by the City and incorporated into the plan for 
+augmentation. The plan provides the City with the flexibility to allocate any combination of 
+consumptive use credits and Ruedi reservoir releases to augment the City’s out-of-priority diversions 
+Page 46 of 90
+ 
+ 
+Page 10 
+ 
+under its municipal water rights. To the extent any portion of the senior irrigation rights described 
+above are used for raw water irrigation, the proportionate consumptive use is not available to the 
+augmentation plan. 
+ 
+Colorado River Engineering provided a report analyzing the population that can be served 
+utilizing the City’s water rights and plan for augmentation.  The report is attached as Exhibit D. 
+ 
+The assumption on the population that can be served with the City’s water rights assumes that 
+the City will not acquire any additional water rights as lands are annexed and developed in Rifle.  The 
+Rifle Municipal Code contemplates that new developments must dedicate to the City water rights to 
+offset their use of the City’s water resources. These water rights can then be incorporated into the 
+plan for augmentation. In some situations, the City accepts a “fee in lieu” of water right dedication.  
+These fees can be used to purchase water rights that may come available for purchase.  As the City 
+grows, the City should aggressively require dedication of water rights to a dd to its water rights 
+portfolio.  This will allow the City to serve a growing population. 
+ 
+The City’s augmentation plan should be updated to include (a) the additional 200 acre-feet of 
+contract water in Ruedi Reservoir acquired in 2011, (b) consumptive use credits under the Pioneer 
+Ditch, and (c) the additional shares of the Loesch & Crann Ditch Company (Last Chance Ditch), Rifle 
+Creek Canyon Ditch, and Grand Tunnel Ditch  not included in or obtained after the plan for 
+augmentation. These ditch shares are listed below in Section IV, “Additional Water Rights Owned 
+by the City.”  
+ 
+II. City’s Water Rights Used for Raw Water Irrigation 
+ 
+ The City of Rifle owns several water rights that are (or can be in the future) used for raw water 
+irrigation.  In certain situations, raw water irrigation can be financial ly advantageous to the City as 
+opposed to irrigating from the treated water system.  The City has four  areas that are irrigated with 
+raw water. 
+ 
+A. Deerfield Park Irrigation System.   
+ 
+The City has developed a raw water irrigation system for this park.  The rights associated with 
+that system are listed below. 
+ 
+ 
+Structure 
+ 
+Source 
+ 
+Case 
+Number 
+ 
+Adj. Date 
+ 
+Appro. Date 
+ 
+Amount(s) 
+ 
+Use 
+ 
+Wisdom Ditch 
+Priority No. 73 
+ 
+Rifle 
+Creek 
+ 
+93CW333 
+ 
+05/11/1889 
+ 
+04/01/1883 
+ 
+0.28 c.f.s.  
+(of the City’s 
+1.07 c.f.s. 
+absolute) 
+ 
+ irrigation 
+ 
+ 
+Wisdom Ditch 
+ 
+Rifle 
+ 
+93CW333 
+ 
+05/11/1889 
+ 
+02/26/1887 
+ 
+0.7 c.f.s.  
+ 
+ irrigation 
+Page 47 of 90
+ 
+ 
+Page 11 
+ 
+ 
+Structure 
+ 
+Source 
+ 
+Case 
+Number 
+ 
+Adj. Date 
+ 
+Appro. Date 
+ 
+Amount(s) 
+ 
+Use 
+Priority No. 91 Creek (of the City’s 
+0.50 c.f.s. 
+absolute) 
+ 
+Deerfield Park Irr. 
+Pump 
+ 
+Rifle 
+Creek 
+ 
+83CW146 
+ 
+12/31/1983 
+ 
+11/04/1982 
+ 
+0.46 c.f.s. 
+absolute 
+ 
+ irrigation 
+ 
+ When Deerfield Park was originally developed, it was irrigated using a pump in Rifle Creek 
+(the Deerfield Park Irrigation Pump).  As the park expanded, a pond was constructed in the park into 
+which Wisdom Ditch water is diverted and then pumped into the ir rigation system.  The Wisdom 
+Ditch water rights owned by the City were acquired from various developers , and were included in 
+the City’s plan for augmentation.  As such, to the degree a portion of the Wisdom Ditch water rights 
+are used for raw water irrigation at Deerfield Park, a portion of the consumptive use is not available 
+to the augmentation plan.  It is our understanding that the City currently utilizes a portion of the 
+Wisdom Ditch water rights for irrigation. At the current time, this does not pose a problem to the City. 
+ 
+ The Deerfield Park pond acts as an irrigation regulation structure , which must be emptied at 
+the end of each irrigation season .  Arguably, the evaporative losses from this pond are exempt from 
+administration.  However, at some point in the future additional water features may be developed at 
+Deerfield Park or the area of raw water irrigation may be expanded.  Should that occur, the City can 
+develop an augmentation plan for the park, the pond and associated water uses.   
+ 
+B. Cemetery System.   
+ 
+The City has a separate raw water irrigation system to supply the City’s cemetery.  The rights 
+associated with that system are listed below. 
+ 
+ 
+Structure 
+ 
+Source 
+ 
+Case 
+Number 
+ 
+Adj. Date 
+ 
+Appro. Date 
+ 
+Amount(s) 
+ 
+Use 
+ 
+Rifle Creek Canyon 
+Ditch Pri. 54 
+ 
+Rifle 
+Creek 
+ 
+CA103 
+83CW110 
+ 
+05/11/1889 
+ 
+02/15/1886 
+ 
+0.15 c.f.s.  
+(of the City’s 
+0.15 c.f.s. 
+absolute) 
+ 
+irrigation 
+ 
+Vetter Ditch 
+Pri. 73 (as changed 
+to Rifle Creek 
+Canyon Ditch) 
+ 
+Rifle 
+Creek 
+ 
+CA 103 
+CA 1775 
+83CW110 
+ 
+05/11/1889 
+ 
+05/16/1886 
+ 
+0.15 c.f.s.  
+(of the City’s 
+0.20 c.f.s. 
+absolute) 
+ 
+irrigation 
+ 
+The raw water irrigation system that provides water to the cemetery also irrigates a few acres 
+of nearby park land.  Water is diverted from the Rifle Creek Canyon Ditch and placed in settling tanks 
+located near the Homestead development.  The water is then piped to the cemetery where it is able to 
+Page 48 of 90
+ 
+ 
+Page 12 
+ 
+irrigate lands under gravity pressure.  Further expansion of this raw water irrigation system would 
+require a water court approval.   
+ 
+C. Centennial Park System. 
+ 
+ The City uses raw water from Rifle Creek to irrigate portions of Centennial Park.  This is 
+accomplished, in part, by a pump that has been installed in the headgate structure for the Pioneer 
+Ditch.  Pioneer Ditch water is diverted for irrigation use along R ifle Creek.  The area of Centennial 
+Park irrigated by the Pioneer Ditch is outside of the historical place of use of the Pioneer Ditch. This 
+should be addressed in an amendment to the City’s augmentation plan.  
+ 
+D. Golf Course. 
+ 
+Earlier this year, the City closed on its purchase of the golf course from Rifle Gap Land 
+Company. In conjunction with this purchase, the City received the water rights described on Exhibit 
+E. These water rights continue to be used at the golf course. 
+ 
+E. Rifle Mountain Park.   
+ 
+The City historically provided a domestic water supply at the Mountain Park from an 
+“exempt” ground water well.  The well permitted as No. 174228 was drilled and completed in 1994 
+and can legally supply up to 15 g.p.m. for drinking water purposes up to one -third (1/3) of an acre 
+foot (108,600 gallons) per year.  An exempt well means that diversions from this well are exempt 
+from administration under the priority system.  
+ 
+Originally, the community building in Rifle Mountain Park was served by the Rifle Creek 
+Pipeline No. 2, which was adjudicated for 0.2 c.f.s. for domestic, fire protection and municipal 
+purposes in 1952 in Civil Action No. 404.  However, for health reasons, the City has terminated the 
+use of both the spring and well. 
+   
+III. Additional Water Rights Owned by City 
+ 
+Subsequent to the adjudication of the City’s augmentation plan in the 1980s, the City acquired 
+additional irrigation water rights, which are listed below in order of their seniority.   
+ 
+Page 49 of 90
+ 
+ 
+Page 13 
+ 
+ 
+Structure 
+ 
+Source 
+ 
+Case 
+No. 
+ 
+Adj. Date 
+ 
+Appro. Date 
+ 
+Amount 
+ 
+Use 
+ 
+Rifle Creek 
+Canyon Ditch 2nd 
+Enlarg. Priority 
+No. 80 
+ 
+Rifle Creek 
+ 
+CA103 
+ 
+05/11/1889 
+ 
+11/15/1886 
+ 
+0.35 c.f.s. 
+ 
+Irrigation 
+(at golf 
+course) 
+ 
+Rifle Creek 
+Canyon Ditch 2nd 
+Enlarg. Priority 
+No. 80 
+ 
+Priority No. 80 
+Priority No. 
+54/80 
+ 
+Rifle Creek 
+ 
+ 
+Promontory 
+Homestead 
+Arabian 
+Heights/Past
+ures/North 
+Pastures 
+ 
+CA103 
+ 
+05/11/1889 
+ 
+11/15/1886 
+ 
+0.75 c.f.s. 
+ 
+ 
+.29 c.f.s. 
+.16 c.f.s.* 
+.40 c.f.s. 
+ 
+Irrigation 
+ 
+ 
+ 
+ 
+Grand Tunnel 
+Ditch Priority 
+No. 82 
+ 
+Rifle Creek 
+ 
+CA103 
+ 
+05/11/1889 
+ 
+12/01/1886 
+ 
+.583 
+c.f.s.** 
+ 
+Irrigation 
+ 
+* The City holds a portion of this water right in trust for the HOA to irrigate portions of the Homestead PUD. 
+** Subject to lease with the Forest Service as described below. 
+ 
+The consumptive use associated with portions of these Rifle Creek Canyon Ditch and Grand 
+Tunnel Ditch water rights should be quantified and added to the City’s augmentation plan.   
+ 
+The City also owns water rights associated with the Loesch & Crann Ditch Company.  Water 
+rights in the Last Chance Ditch are represented by shares in this Company.  Some of these rights have 
+already been included in the augmentation plan, as noted below. 
+ 
+Page 50 of 90
+ 
+ 
+Page 14 
+ 
+ 
+ 
+* There is a notation on Stock Certificate 100 that the City owns this amount; however, certificates are generally 
+not issued for less than one share. 
+ 
+As noted in the tables above (and discussed in more detail below), the City has attempted to 
+lease some of its currently unused water rights to third parties.  For the water rights that have not been 
+incorporated into the City’s augmentation plan, it may be in Rifle’s best interest to undertake a water 
+court application in the near future that quantifies the consumptive use and incorporates the water 
+rights into the City’s augmentation plan.  The first step would be to have Colorado River Engineering 
+review historical aerial photos of where the applica ble water rights irrigated and determine 
+approximate historic consumptive use amounts associated with each water right.  
+ 
+IV.  Leases of City Water Rights  
+ 
+The City has  historically leased certain water rights to third  parties for their use at various 
+facilities. This is in the City’s best interest because it keeps the applicable water rights in use and 
+provides the City with minor compensation.  
+ 
+A. Forest Service Lease.  The City and the Department of Agriculture, Forest Service 
+are parties to a letter agreement dated May 14, 1999 providing for lease by the City to the Forest 
+Service of 0.29 c.f.s. of the Grand Tunnel Ditch Priority No. 82 water right. The water is to b e used 
+by the Forest Service for irrigation of approximately five acres of lawn and landscaping at the Rifle 
+ 
+ 
+ 
+Date Acquired 
+ 
+No. of Shares 
+ 
+How They Were Obtained 
+ 
+Stock Certificate No. 
+ 
+THE FOLLOWING SHARES WERE DEDICATED TO THE PLAN FOR AUGMENTATION 
+ 
+1 
+ 
+10/29/78 
+ 
+37 
+ 
+Transferred by Carmack Drilling Co. (they owned 43 shares) 
+ 
+159 
+ 
+2 
+ 
+2/6/80 
+ 
+3 
+ 
+Transferred by Fattor. 
+ 
+203 
+ 
+3 
+ 
+4/3/81 
+ 
+0.85* 
+ 
+Transferred by Manuppella. 
+ 
+100 
+ 
+SUBTOTAL 
+ 
+40.85 
+ 
+See Plan for Augmentation in 83CW110 
+ 
+ 
+ 
+SHARES NOT INCLUDED OR OBTAINED AFTER PLAN FOR AUGMENTATION  
+ 
+4 
+ 
+4/12/82 
+ 
+2 
+ 
+Transferred by Centennial Gardens 
+ 
+196 
+ 
+5 
+ 
+5/22/86 
+ 
+2 
+ 
+Transferred by John Powers 
+ 
+213 
+ 
+6 
+ 
+7/20/88 
+ 
+7 
+ 
+Transferred by RVSMD 
+ 
+226 
+ 
+7 
+ 
+12/22/95 
+ 
+43 
+ 
+Transferred by Billingsley with the Rifle Business Park 
+ 
+272 
+8 9/1/2026 7 Transferred by Roger Berry and Sharon Berry 464 
+ 
+SUBTOTAL 
+ 
+61 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+101.85 
+ 
+ 
+ 
+ 
+Page 51 of 90
+ 
+ 
+Page 15 
+ 
+District Ranger facility.  The agreement is in effect until terminated by either party, and either party 
+may in its sole discretion terminate by giving sixty days notice.  The Forest Service is required to pay 
+the City annually $100.00 plus the amount of t he Company’s annual assessment for the 0.29 c.f.s.  
+The $100.00/year charge is to escalate 5% annually. While we do not have any record of this Lease 
+being terminated, it is unclear whether the Forest Service is actually using this water for irrigation. If 
+not being used by the Forest Service, the City should quantify the consumptive use associated with 
+this water and add it to its augmentation plan. 
+ 
+The City should consider short term leases to  third parties who have the ability to use 
+unquantified portions of the City’s water rights consistent with the underlying decrees.  These rights 
+include the Rifle Creek Canyon Ditch, Grand Tunnel Ditch, and the Loesch and Crann Ditch company 
+shares.   
+ 
+V. Recent and Upcoming Water Court Cases 
+In 2020, the City filed a diligence application for its Rifle Pipe Line water right in Case No. 
+2020CW3125.  As discussed above, diligence must be demonstrated to the water court for conditional 
+water rights every six years.  The water court issued its decree in July 2021 making a finding of 
+reasonable diligence and continuing that conditional right, in the amount of 7.5 c.f.s, for another six 
+years. The next diligence application will need to be filed in July 2027. 
+ 
+In June 2022, the City purchased the “Island Property” from Stefan Fronka Niedzwiedz. The  
+transaction included conditional water rights known as the Paradise Island Ditch No. 1 and Paradise 
+Island Ditch No. 2.  The City obtained a finding of diligence for these rights from the Water Court in 
+Case No. 2022CW3066, and a finding of diligence will be due again in December 2028.  
+ 
+In November 2023, Rifle filed an application for reasonable diligence for the Colorado River 
+Intake Enlargement in Case No. 2023CW3175.  This water right is conditional in the amount of 23.1 
+c.f.s. and was continued for an additional six years. The next finding of diligence will be due in August 
+2030. We recommend that the City develop a plan to increase pumping capacity at the Rifle Pond in 
+order to implement portions of this water rights. 
+ 
+CONCLUSION 
+ 
+ As a general matter, the City of Rifle has a strong, stable water rights portfolio capable of 
+providing water users with a reliable supply.  The City has positioned itself to grow through the 
+acquisition of supplies in Ruedi Reservoir and the adjudication of the City’s augmentation plan.  As 
+additional properties annex and develop within the City, dedication of new water rights is imperative 
+to ensure that the City maintains adequate water rights to meet future demands.  We recommend 
+focusing on the following tasks over the next 1 – 3 years: 
+ 
+1. Initiate a change of water right case to allow the senior Starke Ditch water right to be diverted 
+at the Colorado River Intake. 
+ 
+Page 52 of 90
+ 
+ 
+Page 16 
+ 
+2. Upgrade the measuring device at the Buffalo Ditch to facilitate bypass of water from the 
+Starke Ditch. 
+ 
+3. Amend the Plan for Augmentation to include newly acquired Ruedi Reservoir water and 
+consumptive use credits from the Last Chance Ditch, Grand Tunnel Ditch, and Rifle Creek 
+Canyon Ditch. Michael Erion will need to prepare a consumptive use analysis for each water 
+right. 
+ 
+4. Complete an analysis of dry up under the Pioneer Ditch within City limits. Undertake a change 
+case to quantify dry up, authorize use in Centennial Park, and use additional credits in the 
+City’s plan for augmentation. 
+ 
+5. Assess whether the pond at Deerfield Park should be augmented. 
+ 
+ Very truly yours, 
+ 
+ KARP NEU HANLON, P.C. 
+  
+ Michael J. Sawyer 
+MJS:dts 
+Enclosures:  
+ 
+ 
+ 
+ 
+Page 53 of 90
+City of Rifle
+Service Area
+4
+ Document Name: ExhibitA_ServiceAreaMap.mxd
+Drawn by: MG Approved by: ME Date: 10/9/2026
+PO Box 1301
+Rifle, CO 81650
+Tel 970-625-4933
+2,900
+5,800
+0
+Graphic Scale in Feet
+Client:
+Exhibit:
+City of Rifle
+Service Area Map
+A
+20341
+Page 54 of 90
+ 
+ 
+ 
+ 
+ 
+Rifle Water Rights Engineering Report 10-9-2026 DRAFT                                                                                                                                           
+Page 1 of 4 
+ 
+Colorado River Engineering 
+P.O. Box 1301 
+Rifle, CO 81650 
+(970) 625-4933 
+CONFIDENTIAL AND PRIVILEGED DRAFT 
+October 13, 2026 
+  
+Michael Sawyer, Esq. 
+Danielle Skinner, Esq. 
+KARP NEU HANLON, P.C.  
+201 14th Street, Suite 200 
+P. O. Drawer 2030 
+Glenwood Springs, CO 81602  
+ 
+  
+RE:  City of Rifle – H.B. 1141 Water Rights Review and Analysis 
+ 
+Dear Michael and Danielle: 
+ 
+At your request, Colorado River Engineering, Inc. (“CRE”) has reviewed and updated the City of Rifle  
+water rights portfolio with Karp Neu Hanlon, P.C. (“KNH”) and analyzed the ability to serve the existing 
+and future residents of the City.  The review and analysis are based on the water court decrees for the 
+City's municipal rights, the City's decreed augmentation plans, water rights reports prepared by KNH, 
+water usage data supplied by the City,  and files maintained by CRE.   This report was prepared in 
+support of fulfilling the requirements of Colorado House Bill 08-1141 (CRS § 29-20-304) and CRS § 30-
+28-133(3) (c) and (d). 
+ 
+WATER RIGHTS 
+ 
+The City's water rights portfolio includes direct flow municipal rights, senior irrigation rights used for non-
+potable irrigation, senior irrigation water rights changed to augmentation uses and included in a plan for 
+augmentation of out-of-priority municipal diversions, and storage water in Ruedi Reservoir available by 
+contract with the U.S. Bureau of  Reclamation.  A detailed description of the City's water rights is 
+provided in a letter report prepared by KNH titled “City of Rifle Comprehensive Water Rights Report for 
+City of Rifle” dated October 8, 2026.  The attached Figure 1 shows the original and changed points of 
+diversion for the City's water rights. 
+ 
+The primary direct diversion municipal rights are the Excelsior Ditch and the Rifle Pipeline for the  
+Colorado River diversion and the Starke Ditch for  the prior Beaver Creek system diversion.  The 
+Excelsior Ditch provides 1.6 cfs of senior diversion potential and the Rifle Pipeline provides 7.5 cfs of 
+diversion that, although junior to the downstream Cameo Call, is protected against a call by the Green 
+Mountain Reservoir Historic Users Pool (“HUP”, see KNH report for detailed explanation). Based on the 
+extreme drought year of 2026, the HUP reach about 60  percent fill and was essentially empty by Mid 
+August.  However, the City ’s water rights portfolio is robust and the City operated in 2026 without the 
+need for any HUP water releases from Green Mountain Reservoir.  For planning purposes, this letter 
+assumes 50% fill of the HUP and the HUP storage water being exhausted by mid July. 
+ 
+The Starke Ditch historically provided up to 1.0 cfs of diversion on Beaver Creek.  However, 0.1 cfs was 
+conveyed to the Beaver Creek Raw Water P ipeline Users and the flow of Beaver Creek in the late 
+Page 55 of 90
+ 
+ 
+ 
+ 
+ 
+Rifle Water Rights Engineering Report 10-9-2026 DRAFT                                                                                                                                           
+Page 2 of 4 
+ 
+Colorado River Engineering 
+P.O. Box 1301 
+Rifle, CO 81650 
+(970) 625-4933 
+summer and in dry years limited the actual diversion.  It is proposed that the City will change the point 
+of diversion for the Starke Ditch to the Colorado River diversion in an upcoming water court application 
+(see KNH report).   For this report we have assumed 0.9 cfs diversion from April through June, 0.65 cfs 
+in March and July, and 0.4 cfs from August through February will be available in Beaver Creek for use 
+at the Colorado River diversion. 
+ 
+The augmentation water supply includes senior rights changed for augmentation of out-of-priority junior 
+municipal diversions and Ruedi Reservoir contract water.   A plan for augmentation using the changed 
+senior water rights was decreed in Case No. 83CW110 and amended in Case No. 93CW332.  The plan 
+provides for up to 616.5 acre feet of consumptive use credits available from April through November.  
+There is also an obligation to replace the loss of 33.5 acre feet delayed irrigation return flows in October 
+through March. The City currently has Contract No. 009D6C0042 with the Bureau of Reclamation for 
+350 acre feet of water and Contract No. 119D6C0074  for 200 acre feet for a total of 550 acre feet.  This 
+water is subject to a transit loss (assumed at 5% for this report) administered by the Division of Water 
+Resources.  33.5 acre feet of the Ruedi Reservoir water is needed for the delayed return flows and 26.3 
+acre feet is committed to evaporation losses for the Rifle Intake pond decreed in Case No. 04CW193. 
+The amount of Ruedi Reservoir water available for augmentation of potable diversions is  462.7 acre 
+feet. This is calculated as 550 minus 27.5 (5% transit loss ), minus 33.5 (delayed return flows), and 
+minus 26.3 (evaporation). 
+ 
+A portion of the senior rights identified in Case No. 83CW110 are used for non -potable irrigation in 
+Deerfield Park (Wisdom Ditch), Centennial Park (Pioneer Ditch), the Cemetery (Rifle Creek Canon Ditch 
+and Vetter Ditch), Davidson Park (Rifle Creek Canon Ditch) and Birch Park (Rifle Creek Canon Ditch). 
+ 
+WATER DEMAND 
+ 
+The current water demand for the City is approximately 620 million gallons (1900 acre feet) based on 
+the 2025 Water Year data.  The City currently serves approximately 4,700 EQRs and 11,000 people.  
+The winter demand is approximately 30  million gallons per month and the peak summer monthly 
+demand is approximately 95 million gallons in July. The pattern of use generally follows the pattern for 
+an Equivalent Residential Unit (EQR) as shown on the attached Table 1. Each EQR is estimated to 
+require 0.74 acre feet (242,000 gallons) per year including 350 gallons per day for in- house use (3.5 
+people) for a total of .39 acre feet and 0.35 acre feet (114,000 gallons) for irrigation of 5,000 square feet 
+of lawn and garden area. This equates to an average water use of 190 gallons per capita per day (gpcd) 
+which is close to the 198 gpcd determined by  SGM in the 2008 Water Conservation Plan, bu t higher 
+than the mor e recent water data is showing in the last 5 years.  The 2021 JVA Utility Maintenance, 
+Capital, and Rate Study data indicates a water demand of approximately 135 gpcd and the 2025 Water 
+Year data indic ates approximately 155 gpcd . However, the 2021 JVA study indicated the average 
+annual water demand was approximately 330 gpd per EQR and the peak day was approximately 810 
+gpd per EQR.  This generally indicates more efficient use of water, but more people per EQR than 20 
+years ago.  The traditional engineering values for water demand projections listed in Table 1 are still 
+valid, but may not be as conservative as in the past 
+ 
+ 
+ANALYSIS OF PHYSICAL AND LEGAL SUPPLY 
+ 
+Page 56 of 90
+ 
+ 
+ 
+ 
+ 
+Rifle Water Rights Engineering Report 10-9-2026 DRAFT                                                                                                                                           
+Page 3 of 4 
+ 
+Colorado River Engineering 
+P.O. Box 1301 
+Rifle, CO 81650 
+(970) 625-4933 
+The analysis of physical and legal supply looks at available water from the Colorado River (and Beaver 
+Creek system rights to be changed to the Colorado River, based on a year round water rights call and 
+a 176 day water rights call. In 2002, the prior driest year of record, the call was on for only 141 days. In 
+recent water court proceedings, the Division Engineer has recommended using an extended call 
+scenario that included every day the lower Colorado River call (Cameo Call) has ever been on. This 
+scenario, updated for 2026 includes 16 days in April, 16 days in May, 15 days in June and July through 
+November 7th. 
+ 
+The current augmentation supply available from 83CW110 is shown on the attached Table 2. The 
+irrigated acres associated with the water rights used for augmentation in 83CW110 are shown on the 
+attached Figure 2. The total potential diversion supply from all sources is shown on Table 3.  Based on 
+the 2026 drought year, which exhausted all west slope reservoirs in a joint operating plan to maximize 
+the HUP, CRE assumes a future drought year may have 50 percent  HUP storage that is depleted by 
+July 15th.  
+ 
+Table 4 presents a water rights accounting analysis for future demands using the procedures outlined 
+in the decree in Case No. 83CW110.  The water demands are based on the EQR monthly schedule in 
+Table 2. The senior and HUP protected direct flow water diversions available to meet that demand are 
+utilized from Table 3.  The out-of-priority depletions from the City’s diversion are then calculated based 
+on the methodology outlined in Case No. 83CW110.  The available HCU credits from dry up of lands 
+senior irrigation water rights changed for use in Case No. 83CW110 are applied to the out -of-priority 
+depletions.  Releases from Ruedi Reservoir contract st orage, up to 462.7 AF of depletions, is then 
+applied to the remaining balance of depletions not augmented by HCU credits.   Table 4 was operated 
+increasing the level of future service until use of the Ruedi Reservoir water was maximized.   
+ 
+Based on this approach and adjusting the Ruedi Reservoir water to optimize supply, the current water 
+rights portfolio could serve approximately 6,000 EQRs and 21,000 people. 
+ 
+The City could increase its ability to serve by changing additional senior irrigation water rights that it 
+owns from various water rights dedications since the 83CW110 case.  Most notably this includes 
+Pioneer Ditch water rights, Loesch and Crann Ditch shares (Last Chance Ditch) and some Rifle Creek 
+Canyon Ditch rights.  The Beaver Creek St arke Ditch water right also needs to be changed to the 
+Colorado River diversion, and such action is included in the above analysis in Tables 3 and 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 57 of 90
+ 
+ 
+ 
+ 
+ 
+Rifle Water Rights Engineering Report 10-9-2026 DRAFT                                                                                                                                           
+Page 4 of 4 
+ 
+Colorado River Engineering 
+P.O. Box 1301 
+Rifle, CO 81650 
+(970) 625-4933 
+ 
+ 
+ 
+ 
+ 
+ 
+Please call if you have any questions or need additional information. 
+ 
+ 
+Sincerely, 
+ 
+ 
+Colorado River Engineering, Inc. 
+ 
+ 
+______________________________ 
+Michael Erion, P.E.     
+Principal Water Resources Engineer   
+ 
+Job No. 20341-13.18 
+MJE/mje 
+ 
+CC: Attachments         
+ 
+Page 58 of 90
+# #
+#
+#
+#
+#
+#
+#
+!
+! !
+! !
+!
+!
+!
+#
+Starke Ditch
+First Enlargement
+Structure 15
+Civil Action No. 4954
+Town of Rifle Pipeline
+Structure 109, 163
+Case No. W-3388
+Town of Rifle
+Pump & Pipeline
+Case No. W-3389
+Existing 
+City of Rifle
+Intake
+Starke Ditch
+First Enlargement
+Structure 15
+Case No. 81CW173
+City of Rifle Colorado
+River Intake First Enlargement
+Case No. 81CW437
+#
+Rifle Pipeline
+Structure 163
+Civil Actioin No. 4004
+#
+Town of Rifle Pipeline
+Structure 109
+Civil Action No. 3344
+#
+Pioneer Ditch
+#
+Excelsior Ditch
+Civil Action No. 103
+#
+Squier Ditch
+#
+Rifle Pond River Intake
+Alternate Point of Diversion
+for Excelsior Ditch;
+Starke Ditch First Enlargement;
+Town of Rifle Pipeline
+(Structures 109 & 163);
+Town of Rifle Pump & Pipeline;
+City of Rifle Colorado River
+Intake First Enlargement
+#
+Rifle Pond Well
+Alternate Point of Diversion
+for Excelsior Ditch;
+Starke Ditch First Enlargement;
+Town of Rifle Pipeline
+(Structures 109 & 163);
+Town of Rifle Pump & Pipeline;
+City of Rifle Colorado River
+Intake First Enlargment
+# Rifle Creek Canyon Ditch
+Case No. 103
+#
+#
+Raynard Ditch
+#
+Wisdom Ditch
+Case No. 93CW333
+#
+Last Chance Ditch
+#
+Grand Tunnel Ditch
+#
+Deerfield Park Irrigation Pump
+Case No. 83CW146
+#
+Excelsior Ditch Diversion
+@ Rifle Creek Canyon Ditch
+Case No. 2601
+Date: 10/9/2026 
+File: 20341  
+Drawn by: MJE 
+Approved by: MJE
+Figure 1
+Water Rights Map
+City of Rifle² 1 in = 5,000 ft
+ft
+0 2,500 5,000
+Page 59 of 90
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+W-1
+GT-5
+GT-1
+RC-1
+W-2
+GT-2
+W-3
+GT-7
+LC-1
+GT-3
+S
+LC-4
+P-1
+RC-2
+GT-6
+GT-4
+LC-3
+P-2
+LC-5
+LC-2
+Date: 10/9/2026 
+File: 20341  
+Drawn by: MJE 
+Approved by: MJE
+               Figure 2
+Historically irrigated area 
+dried up and committed to 
+Augmentation Plan in Case 
+No. 83CW110
+² 1 in = 1,500 ft
+ft
+0 500 1,500
+Ditch Name Parcel Rifle's Ownership Total Irrigated Area Area Dried Up When Commited
+(cfs) (acres) (acres)
+Squier S 1.2 8.0 8.0 8/84
+Pioneer P-1 0.875 12.9 6.7 8/84
+P-2 0.02 1.0
+Wisdom W-1 1.0 63.3
+W-2 0.7 30.8
+W-3 0.5 18.0 18.0 8/84
+Rifle Creek Canyon RC-1 0.15a 43.2 38.5 8/84
+RC-1 0.20b
+RC-1 0.15
+RC-2 0.20 12.7 12.7
+Grand Tunnel GT-1 1.37 53.0
+GT-2 0.50 25.8 25.8 8/84
+GT-3 1.0417 30.1 9.4 8/84
+GT-4 0.061 2.0
+GT-5 1.43 52.0
+GT-6 0.052 0.0
+GT-7 0.29 14.3
+Last Chance LC-1 0.647 18.5 18.5 8/84
+LC-2 0.073 1.8
+LC-3 0.073 2.2
+LC-4 0.055 2.2 2.2 8/84
+LC-5 0.015 1.3
+  Notes: a  To be used for cemetery
+b 0.15 cfs to be used for cemetery
+Commitment of Irrigated Area
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! !
+Historically Irrigated Area Dried 
+Up and Committed to Augmentation 
+Plan in Case No. 83CW110
+Page 60 of 90

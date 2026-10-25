@@ -1,0 +1,1986 @@
+AGENDA 
+OURAY COUNTY PLANNING COMMISSION  
+WORK SESSION 
+October 21, 2026 2:00 – 4:00 pm 
+ 
+MEETING IS ONLINE ONLY VIA ZOOM 
+ 
+Zoom Log In Info: 
+ 
+https://us02web.zoom.us/j/82677887674 
+Meeting ID: 826 7788 7674 
+Phone: 1.719.359.4580 
+ 
+A. 2:00pm – Work Session 
+The Planning Commission will conduct a work session to continue their review of possible updates 
+to the Land Use Code Sections 3 and 13. 
+B. 3:45 Open Regular Meeting 
+a. Old Business 
+b. New Business 
+C. 4:00pm – Adjourn  
+ 
+MEMO 
+  
+ TO:              Planning Commission 
+ FROM:        Land Use Dept. / Legal Dept. 
+ DATE:         October 13, 2026 
+ SUBJ:         Land Use Code Updates: Sections 3, 13 
+ ____________________________________________________________________________ 
+As directed by the BOCC, Land Use, Legal, and the Planning Commission have been working on 
+proposed revisions to the Land Use Code as outlined in Resolution No. 2024- 029 (attached). 
+Additionally, edits to code sections were made regarding the on-going discussions on a possible 
+‘bonus adu’ concept (shown in blue text – other changes shown in red text). Staff made every 
+effort to simply cut/paste these changes from previously circulated documents (also in packet) 
+and does not comment in the proposed changes in this memo.  
+The Land Use Department is  also recommending certain revisions to the Land Use Code that 
+were not specifically addressed in the Board’s resolution. Those changes will be explained in this 
+memo and noted as ‘SP ’ - Staff Proposed Change, or ‘LP ’ - Legal Proposed Change. Some 
+changes are driven by gaps in the Code, potential regulatory loopholes, and typos or other errors.  
+Note: Please see the public submitted comments at the end of the packet. 
+Thank you. 
+Att. 
+____________________________________________________________________________ 
+ 
+Note:  
+SP = Land Use staff proposed revision. 
+LP = Revision proposed by Legal. 
+  
+SECTION 3 - ZONING: 
+- Changes in BLUE text are related to the ‘Bonus ADU’ concept. 
+- Changes proposed throughout to allow ‘Guest Lodge’, ‘Event Venue’, and ‘Commercial 
+Outdoor Recreation’ in certain zones, as a discussion starter. 
+- Section 3.2B (LP): Updated to provide references to zoning map also being available on 
+website and upon request (not just in recorded documents and  attached to Code), to 
+increase public transparency and availability of important documents like this. 
+- Section 3.3D (LP): Ordinance reference updated. 
+- Section 3.8.A.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for Alpine Zone. 
+- Section 3.8A.1.e (LP): Potential limit of one yurt per parcel in the Alpine zone, proposed 
+for consideration of BOCC and PC, to limit issues with multiple yurts that could 
+theoretically claim exemptions from building codes or other permitting. Again, the BOCC 
+and/or PC may want to consider limiting yurts to one (1) yurt per parcel in the Alpine zone 
+(or all zones), at their discretion, unless otherwise permitted through the Special Use 
+Permit process or as a campground (would require future revisions to Section 11).  
+- Section 3.8.B (LP): Special Use of “Commercial Storefront” added to Colona Zone be 
+consistent with clarifying definitions. Previously, the Colona Zone allowed SUPs for 
+“Commercial”, which was confusing because there are multiple other types of 
+“Commercial…” Special Use Permits that are not applicable here. The original intent of 
+the Colona Zone has been discussed in detail with Land Use Staff. 
+- Section 3.8.C.1 (SP): Bonus ADU reference included within High Mesa Zone. 
+- Section 3.8.C.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for High Mesa Zone. 
+- Section 3.8.D.1 (SP): Bonus ADU reference included within North Mesa Zone. 
+- Section 3.8.D.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for North Mesa Zone. 
+- Section 3.8.E (LP): Typo with Public Lands Zone fixed. This Zone is publicly-owned land. 
+Please reference the Zoning Map, which is available at 
+https://ouraycountyco.gov/DocumentCenter/View/145 
+- Section 3.9.E.2 (LP): Addition of Commercial Outdoor Recreation proposed for Public 
+Lands Zone, which is located around and north of Ridgway Reservoir. Please note this 
+may require additional federal permitting. 
+- Section 3.8.F (SP): Bonus ADU reference included within South Mesa Zone. 
+- Section 3.8.G (SP): Bonus ADU reference included within South Slope Zone. 
+- Section 3.8.H.1 (SP): Bonus ADU reference included within Valley Zone. 
+- Section 3.8.H.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for Valley Zone. 
+- Section 3.9A.1 (LP): Flexibility added in the event there are changes with the underlying 
+IGAs with the City and Town for Joint Planning, to ensure continued operation of the Land 
+Use Code. Previous changes to the Joint Planning IGA requested by the City in 2022, 
+related to annexation authority, led to legal and planning concerns that Section 3 may 
+need to be amended on the fly, which is a lengthy and difficult process, and left Section 3 
+vulnerable. Flexibility here is necessary, to make sure a static Code is not wholly 
+dependent on IGAs that can be changed at any time by the parties.  
+- Section 3.8.D  (LP): Typo fixed. The Official Zoning Map, which is available here: 
+https://ouraycountyco.gov/DocumentCenter/View/145 , does not contain AOI/UGMA 
+Overlay District designations. Nor should they be included on an official zoning map, since 
+they are subject to change due to the nature of the underlying IGAs with the municipalities, 
+and amending a zoning map is a difficult and lengthy hearing process. It is better to include 
+these in multiple areas (website, unofficial zoning map, etc.) where they are currently 
+hosted, available at: 
+ https://ouraycountyco.gov/DocumentCenter/View/146  
+Also, please note that efforts to modernize the Zoning Map may occur at some point with 
+GIS and Planning assistance. 
+- Section 3.10 (LP): This change is a simple starting point triggered by changes in state 
+law, regarding Tribal consultation for renewable energy projects. We have reached out to 
+both Tribes, and did not hear back, but this change is necessary to comply with state law 
+regardless. If the Tribes do reply, discussions in scope and proposed language for 
+referrals are certainly possible as this progresses. The new law is available at: 
+https://leg.colorado.gov/bills/sb24-212  
+- Section 3.11 (LP): These changes are being driven by top-down “water-wise” landscaping 
+requirements in new state law, which establish a legal nonconforming use for already -
+existing invasive plant species and thirsty non-native, grass species, but prohibit this type 
+of landscaping going forward for new development projects. Please note the definition of 
+invasive plant species is much broader than noxious weeds. Exceptions to the new water-
+wise conservation laws exist for hybridized sod/grass seeds (e.g. buffalo grass hybrids), 
+and artificial turf on “athletic fields of play” (which will need further clarification in our Code 
+to avoid loopholes). ***Special Note: it may be advisable to simply include Sections 3.10 
+and 3.11 in a new Section 25 for “State Mandates”, due to the continual frequency of top-
+down measures from the State, which would avoid continually amending the critically -
+important Section 3 on Zones, as new state mandates keep coming up.***  The new 
+legislation on landscaping requirements is available at: https://leg.colorado.gov/bills/sb24-
+005   
+- Section 3.12 (LP): Changes proposed, intended to clarify what is allowed by a Special 
+Event Permit. These have been informally permitted by the BOCC for many years, and 
+regulations should be on the books (see Section 2- definition of Special Event Permit). 
+Specific regulations would clarify what has previously been an informal/courtesy process 
+(outside the specific context of short-term rentals). The BOCC and PC may want to discuss 
+appropriate thresholds for major events, and other limitations. Examples of previous 
+special event permits have included car commercials, large gatherings of sports/car 
+enthusiasts, and various races and community events. 
+OTHER SECTION 3,  ZONING CONSIDERATIONS: 
+- Need to determine which zones will allow the new proposed uses of: Event Venue, Guest 
+Lodge Tier 1, Guest Lodge Tier 2. 
+- There was discussion while reviewing Section 2 around not allowing the new commercial 
+uses in the High Alpine area of the county. 
+- There was discussion while reviewing Section 2 around the possibility of limiting the size 
+of yurts. There was concern around a possible 2000sf yurt for example. Research 
+conducted by staff shows the largest commonly available yurt to be 707 to 855sf or 30-
+33ft in diameter.  
+ 
+____________________________________________________________________________ 
+ 
+SECTION 13 - ADMINISTRATION AND ENFORCEMENT: 
+- 13.3B Summary (LP): Counties statewide have been struggling with code enforcement for 
+land use and building codes, after the passage of the Misdemeanor Reform Act (Senate 
+Bill 20 -271), which changed many misdemeanors to civil infractions. Previously, a 
+summons and complaint could be issued by the Sheriff or deputies, although most DAs 
+were reluctant to handle code enforcement and viewed it as a civil matter. Now, the 
+issuance of code enforcement citations by law enforcement as a “civil infraction” is virtually 
+impossible/impracticable under the Misdemeanor Reform Act and has led to adverse court 
+rulings, since attorneys are largely prohibited from appearing in a civil infraction “R” docket 
+case under court rules and statute, and county law enforcement officers ar e typically not 
+building inspectors as well (or vice versa).  
+For example, one county attorney was overruled in an appellate decision for attempting to 
+prosecute a civil infraction zoning citation, instead of only using law enforcement for a civil 
+infraction citation without an attorney present, as bizarre as that sounds. This leaves the 
+only feasible option of non-law-enforcement filings into county court as a civil legal action 
+through the normal process that seeks $100 in daily penalties under state statute after an 
+NOV is issued and $500-$1000 in initial fines are sought via civil court order, and then if 
+there is something highly serious or substantial, we can also request a civil 
+injunction/abatement in district court. This new civil process, with its major quirks and 
+inefficiencies, applies for both building code and Land Use code violations under state 
+law, if authorized by the County Attorney, and the Board has also authorized expedited 
+filing under County Resolution 2024-028.  
+Expedited code enforce ment is especially critical for certain types of violations such as 
+OWTS or septic issues that threaten public welfare, which may warrant an immediate 
+restraining order in district court as opposed to an administrative hearing or $100 in daily 
+penalties which may not be adequate deterrence. Some legislative lobbying is underway 
+in this area, to potentially allow building inspectors to issue immediate citations with fines 
+without having to obtain civil court relief through an attorney, service of a complaint , and 
+judge’s order, and without having to ask law enforcement to issue a civil infraction citation 
+(who do not have experience with building and land use code).   
+- 13.6 Summary (LP): The County does not have authority to enforce private covenants or 
+private easements, outside of very special situations specified in Code such as abandoned 
+open space maintenance. Land Use Staff and the County Attorney are continually 
+requested to engage in these kinds of issues, which are typically HOA-related and private 
+civil disputes outside the County’s scope. It would be useful to have this specific language 
+in Code, instead of always sounding like a broken record when we are inevitably asked to 
+enforce private covenants or easement disputes.  
+- 13.10E (SP): Puts the burden of recording a Site Development Permit on the Applicant 
+rather than Staff. 
+- 13.11.A.1.a (SP): Typo correction. 
+- 13.11.A.2.a (SP): Typo correction. 
+- 13.11.H.3 (LP): CDPHE and the State AG’s Office had reached out to Land Use and Legal 
+last year to discuss a p ossible MOU or IGA with the County, to have materials 
+management plans and CDPHE referrals for certain types of excavation/ development in 
+the high country, especially those over 5 cubic yards. This was requested due to the 
+sensitive nature of the high alpine area, CERCLA considerations under at least one 
+consent decree, and the amount of historical mining activity and engineered features to 
+prevent contamination from tailing piles and similar.  
+However, it could be simpler to have this CDPHE referral process hard -wired in Code, 
+instead of in an informal MOU/IGA that could be changed and would need to be drafted 
+(nothing has been drafted yet with an MOU – just preliminary discussions with state and 
+local regulators as brain-storming for presentation to the policy-makers). This draft Code 
+language has also been provided to the State, and CDPHE has now requested to work 
+directly with the County Planner on any proposed changes here, to discuss possible 
+mandatory CDPHE referrals for certain types of high-country development.  
+This Code change, if palatable to the BOCC and/or PC, may also warrant further 
+discussion with other local stakeholders and/or engineers such as Idarado. It would be 
+helpful if the BOCC could authorize Planning and Legal to discuss this further with any 
+local stakeholders such as Idarado, following such extensive discussions with CDPHE. 
+ It is unclear whether other institutional forms of local control for the high alpine area, 
+similar to the Panoramic Heights Excavation Ordinance, could be implemented in the high 
+alpine area, due to the fact that other remedial decisions with state control in the high 
+alpine have pre-dated the enactment of the State Environmental Covenants Law in 2001 
+(that allowed local control ordinances for remedial consent decree areas at CERCLA 
+superfund sites). A mandatory CDPHE referral process in the Land Use Code could be 
+the simplest and cleanest option to protect engineered features and other sensitive areas 
+from development-related disturbance.  
+- 13.11.I.5 (LP): Change  proposed to ensure consultation with Ouray County Historical 
+Society or other historic preservation organization (such as SHPO).  
+- 13.11.I.11 (LP): Changes made for minor clarification with recorded statements.  
+- 13.11.J (LP): Changes made to shift the burden for recording documents to the Permittee; 
+not Land Use Department, which results in a small amount of revenue for filing fees.  
+- 13.12.A (LP): Changes made due to the International Code Council Codes (IBC, IRC, 
+IECC, IEBC, etc.) being use, not the Uniform Building Codes. 
+- 13.12.A.1 (LP): Generally the scope of the IBC/IRC or other building codes applies to both 
+building codes and “structures.” This is intended to close potential sought-after loopholes 
+with structures that may not be defined as “buildings,” such as underground structures 
+and similar. Of course, Land Use does not have time to regulate every single mailbox or 
+tree-house “structure:, but additional regulatory flexibility is needed here.  
+- 13.12.B (LP): This is just a starting point to require expert reports, safety measures, and 
+alternative excavation measures before blasting occurs for residential and commercial 
+development. This is a special concern as development “crawls” up the hills in certain 
+areas with extreme terrain features. Blasting regulations could also be parked in a stand-
+alone blasting/fire ordinance, but that project has been somewhat delayed due to the 
+development of a potential county -wide Fire & EMS Authority with potential fire code 
+authority. It may also be advisable to consider a stand- alone sub-section at the end of 
+Section 13 of the Code, with regulations similar to what Pima County (AZ) has 
+done:https://codelibrary.amlegal.com/codes/pimacounty/latest/pimacounty_az/0-0-0-
+4624   
+- 13.13 (LP): Change made to state the obvious and clarify what has previously been a 
+common-sense item– the building inspector has discretion to determine when to go for an 
+inspection with incomplete construction, instead of just being called for a final.  
+- 13.14 (LP): Changes made to clarify move to electronic permit systems (CloudPermit or 
+others).  
+- 13.15.B (SP): This change is intended to address the on -going difficulty in appointing all 
+7 Planning Commission members. 
+- 13.17.A (SP): This change in intended to reduce the difficulty in maintaining all 5 members 
+of the VIRC.  
+- 13.17.B (SP): Same as above. Just trying to make it easier to maintain a full body of the 
+VIRC. 
+- 13.18.B.1 and 2 (SP): Change intended to reduce the difficulty in establishing a quorum 
+for the JPB. Staff notes that several times in 2024 and 2025 JPB hearings were held when 
+there was not an established quorum. 
+ 
+SECTION 3 - ZONING: 
+- Changes in BLUE text are related to the ‘Bonus ADU’ concept. 
+- Changes proposed throughout to allow ‘Guest Lodge’, ‘Event Venue’, and ‘Commercial 
+Outdoor Recreation’ in certain zones, as a discussion starter. 
+- Section 3.2B (LP): Updated to provide references to zoning map also being available on 
+website and upon request (not just in recorded documents and attached to Code), to 
+increase public transparency and availability of important documents like this. 
+- Section 3.3D (LP): Ordinance reference updated. 
+- Section 3.8.A.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for Alpine Zone. 
+- Section 3.8A.1.e (LP): Potential limit of one yurt per parcel in the Alpine zone, proposed 
+for consideration of BOCC and PC, to limit issues with multiple yurts that could 
+theoretically claim exemptions from building codes or other permitting. Again, the BOCC 
+and/or PC may want to consider limiting yurts to one (1) yurt per parcel in the Alpine zone 
+(or all zones), at their discretion, unless otherwise permitted through the Special Use 
+Permit process or as a campground (would require future revisions to Section 11).  
+- Section 3.8.B (LP): Special Use of “Commercial Storefront” added to Colona Zone be 
+consistent with clarifying definitions. Previously, the Colona Zone allowed SUPs for 
+“Commercial”, which was confusing because there are multiple other types of 
+“Commercial…” Special Use Permits that are not applicable here. The original intent of 
+the Colona Zone has been discussed in detail with Land Use Staff. 
+- Section 3.8.C.1 (SP): Bonus ADU reference included within High Mesa Zone. 
+- Section 3.8.C.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for High Mesa Zone. 
+- Section 3.8.D.1 (SP): Bonus ADU reference included within North Mesa Zone. 
+- Section 3.8.D.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for North Mesa Zone. 
+- Section 3.8.E (LP): Typo with Public Lands Zone fixed. This Zone is publicly-owned land. 
+Please reference the Zoning Map, which is available at 
+https://ouraycountyco.gov/DocumentCenter/View/145 
+- Section 3.9.E.2 (LP): Addition of Commercial Outdoor Recreation proposed for Public 
+Lands Zone, which is located around and north of Ridgway Reservoir. Please note this 
+may require additional federal permitting. 
+- Section 3.8.F (SP): Bonus ADU reference included within South Mesa Zone. 
+- Section 3.8.G (SP): Bonus ADU reference included within South Slope Zone. 
+- Section 3.8.H.1 (SP): Bonus ADU reference included within Valley Zone. 
+- Section 3.8.H.2 (SP): Additions of Guest Lodge, Event Venue, and Commercial Outdoor 
+Recreation proposed for Valley Zone. 
+- Section 3.9A.1 (LP): Flexibility added in the event there are changes with the underlying 
+IGAs with the City and Town for Joint Planning, to ensure continued operation of the Land 
+Use Code. Previous changes to the Joint Planning IGA requested by the City in 2022, 
+related to annexation authority, led to legal and planning concerns that Section 3 may 
+need to be amended on the fly, which is a lengthy and difficult process, and left Section 3 
+vulnerable. Flexibility here is necessary, to make sure a static Code is not wholly 
+dependent on IGAs that can be changed at any time by the parties.  
+- Section 3.8.D  (LP): Typo fixed. The Official Zoning Map, which is available here: 
+https://ouraycountyco.gov/DocumentCenter/View/145 , does not contain AOI/UGMA 
+Overlay District designations. Nor should they be included on an official zoning map, since 
+they are subject to change due to the nature of the underlying IGAs with the municipalities, 
+and amending a zoning map is a difficult and lengthy hearing process. It is better to include 
+these in multiple areas (website, unofficial zoning map, etc.) where they are currently 
+hosted, available at: 
+ https://ouraycountyco.gov/DocumentCenter/View/146  
+Also, please note that efforts to modernize the Zoning Map may occur at some point with 
+GIS and Planning assistance. 
+- Section 3.10 (LP): This change is a simple starting point triggered by changes in state 
+law, regarding Tribal consultation for renewable energy projects. We have reached out to 
+both Tribes, and did not hear back, but this change is necessary to comply with state law 
+regardless. If the Tribes do reply, discussions in scope and proposed language for 
+referrals are certainly possible as this progresses. The new law is available at: 
+https://leg.colorado.gov/bills/sb24-212  
+- Section 3.11 (LP): These changes are being driven by top-down “water-wise” landscaping 
+requirements in new state law, which establish a legal nonconforming use for already -
+existing invasive plant species and thirsty non-native, grass species, but prohibit this type 
+of landscaping going forward for new development projects. Please note the definition of 
+invasive plant species is much broader than noxious weeds. Exceptions to the new water-
+wise conservation laws exist for hybridized sod/grass seeds (e.g. buffalo grass hybrids), 
+and artificial turf on “athletic fields of play” (which will need further clarification in our Code 
+to avoid loopholes). ***Special Note: it may be advisable to simply include Sections 3.10 
+and 3.11 in a new Section 25 for “State Mandates”, due to the continual frequency of top-
+down measures from the State, which would avoid continually amending the critically -
+important Section 3 on Zones, as new state mandates keep coming up.***  The new 
+legislation on landscaping requirements is available at: https://leg.colorado.gov/bills/sb24-
+005   
+- Section 3.12 (LP): Changes proposed, intended to clarify what is allowed by a Special 
+Event Permit. These have been informally permitted by the BOCC for many years, and 
+regulations should be on the books (see Section 2- definition of Special Event Permit).  
+Specific regulations would clarify what has previously been an informal/courtesy process 
+(outside the specific context of short-term rentals). The BOCC and PC may want to discuss 
+appropriate thresholds for major events, and other limitations. Examples of previous 
+special event permits have included car commercials, large gatherings of sports/car 
+enthusiasts, and various races and community events. 
+OTHER SECTION 3,  ZONING CONSIDERATIONS: 
+- Need to determine which zones will allow the new proposed uses of: Event Venue, Guest 
+Lodge Tier 1, Guest Lodge Tier 2. 
+- T here was discussion while reviewing Section 2 around not allowing the new commercial 
+uses in the High Alpine area of the county. 
+- There was discussion while reviewing Section 2 around the possibility of limiting the size 
+of yurts. There was concern around a possible 2000sf yurt for example. Research 
+conducted by staff show s the largest commonly available yurt t o be 707 to 855sf or 30-
+33ft in diameter.  
+ 
+____________________________________________________________________________ 
+ 
+SECTION 13 - ADMINISTRATION AND ENFORCEMENT: 
+- 13.3B Summary (LP): Counties statewide have been struggling with code enforcement for 
+land use and building codes, after the passage of the Misdemeanor Reform Act (Senate 
+Bill 20 -271), which changed many misdemeanors to civil infractions. Previously, a 
+summons and complaint could be issued by the Sheriff or deputies, al though most DAs 
+were reluctant to handle code enforcement and viewed it as a civil matter. Now, the 
+issuance of code enforcement citations by law enforcement as a “civil infraction” is virtually 
+impossible/impracticable under the Misdemeanor Reform Act and has led to adverse court 
+rulings, since attorneys are largely prohibited from appearing in a civil infraction “R” docket 
+case under court rules and statute, and county law enforcement officers are typically not 
+building inspectors as well (or vice versa).  
+For example, one county attorney was overruled in an appellate decision for attempting to 
+prosecute a civil infraction zoning citation, instead of only using law enforcement for a civil 
+infraction citation without an attorney present, as bizarre as that sounds. This leaves the 
+only feasible option of non-law-enforcement filings into county court as a civil legal action 
+through the normal process that seeks $100 in daily penalties under state statute after an 
+NOV is issued and $500-$1000 in initial fines are sought via civil court order, and then if 
+there is something highly serious or substantial, we can also request a civil 
+injunction/abatement in district court. This new civil process, with its major quirks and 
+inefficiencies, applies for both building code and Land Use code violations under state 
+law, if authorized by the County Attorney, and the Board has also authorized expedited 
+filing under County Resolution 2024-028.  
+Expedited code enforcement is especially critical for certain types of violations such as 
+OWTS or septic issues that threaten public welfare, which may warrant an immediate 
+restraining order in district court as opposed to an administrative hearing or $100 in daily 
+penalties which may not be adequate deterrence. Some legislative lobbying is underway 
+in this area, to potentially allow building inspectors to issue immediate citations with fines 
+without having to obtain civil court relief through an attorney, service of a complaint, and 
+judge’s order, and without having to ask law enforcement to issue a civil infraction citation 
+(who do not have experience with building and land use code).   
+- 13.6 Summary (LP): The County does not have authority to enforce private covenants or 
+private easements, outside of very special situations specified in Code such as abandoned 
+open space maintenance. Land Use Staff and the County Attorney are continually 
+requested to engage in these kinds of issues, which are typically HOA-related and private 
+civil disputes outside the County’s scope. It would be useful to have this specific language 
+in Code, instead of always sounding like a broken record when we are inevitably asked to 
+enforce private covenants or easement disputes.  
+- 13.10E (SP): Puts the burden of recording a Site Development Permit on the Applicant 
+rather than Staff. 
+- 13.11.A.1.a (SP): Typo correction. 
+- 13.11.A.2.a (SP): Typo correction. 
+- 13.11.H.3 (LP): CDPHE and the State AG’s Office had reached out to Land Use and Legal 
+last year to discuss a possible MOU or IGA with the County, to have materials 
+management plans and CDPHE referrals for certain types of excavation/ development in 
+the high country, especially those over 5 cubic yards. This was requested due to the 
+sensitive nature of the high alpine area, CERCLA considerations under at least one 
+consent decree, and the amount of historical mining activity and engineered features to 
+prevent contamination from tailing piles and similar.  
+However, it could be simpler to have this CDPHE referral process hard- wired in Code, 
+instead of in an informal MOU/IGA that could be changed and would need to be drafted 
+(nothing has been drafted yet with an MOU – just preliminary discussions with state and 
+local regulators as brain-storming for presentation to the policy-makers). This draft Code 
+language has also been provided to the State, and CDPHE has now requested to work 
+directly with the County Planner on any proposed changes here, to discuss possible 
+mandatory CDPHE referrals for certain types of high-country development.  
+This Code change, if palatable to the BOCC and/or  PC, may also warrant further 
+discussion with other local stakeholders and/or engineers such as Idarado. It would be 
+helpful if the BOCC could authorize Planning and Legal to discuss this further with any 
+local stakeholders such as Idarado, following such extensive discussions with CDPHE. 
+ It is unclear whether other institutional forms of local control for the high alpine area, 
+similar to the Panoramic Heights Excavation Ordinance, could be implemented in the high 
+alpine area, due to the fact that other remedial decisions with state control in the high 
+alpine have pre-dated the enactment of the State Environmental Covenants Law in 2001 
+(that allowed local control ordinances for remedial consent decree areas at CERCLA 
+superfund sites). A mandatory CDPHE referral process in the Land Use Code could be 
+the simplest and cleanest option to protect engineered features and other sensitive areas 
+from development-related disturbance.  
+- 13.11.I.5 (LP): Change proposed to ensure consultation with Ouray County Historical 
+Society or other historic preservation organization (such as SHPO).  
+- 13.11.I.11 (LP): Changes made for minor clarification with recorded statements.  
+- 13.11.J (LP): Changes made to shift the burden for recording documents to the Permittee; 
+not Land Use Department, which results in a small amount of revenue for filing fees.  
+- 13.12.A (LP): Changes made due to the International Code Council Codes (IBC, IRC, 
+IECC, IEBC, etc.) being use, not the Uniform Building Codes. 
+- 13.12.A.1 (LP): Generally the scope of the IBC/IRC or other building codes applies to both 
+building codes and “structures.” This is intended to close potential sought-after loopholes 
+with structures that may not be defined as “buildings,” such as underground structures 
+and similar. Of course, Land Use does not have time to regulate every single mailbox or 
+tree-house “structure:, but additional regulatory flexibility is needed here.  
+- 13.12.B (LP): This is just a starting point to require expert reports, safety measures, and 
+alternative excavation meas ures before blasting occurs for residential and commercial 
+development. This is a special concern as development “crawls” up the hills in certain 
+areas with extreme terrain features. Blasting regulations could also be parked in a stand-
+alone blasting/fire ordinance, but that project has been somewhat delayed due to the 
+development of a potential county -wide Fire & EMS Authority with potential fire code 
+authority. It may also be advisable to consider a stand- alone sub-section at the end of 
+Section 13 of the Code, with regulations similar to what Pima County (AZ) has 
+done:https://codelibrary.amlegal.com/codes/pimacounty/latest/pimacounty_az/0-0-0-
+4624   
+- 13.13 (LP): Change made to state the obvious and clarify what has previously been a 
+common-sense item– the building inspector has discretion to determine when to go for an 
+inspection with incomplete construction, instead of just being called for a final.  
+- 13.14 (LP): Changes made to clarify move to electronic permit systems (CloudPermit or 
+others).  
+- 13.15.B (SP): This change is intended to address the on -going difficulty in appointing all 
+7 Planning Commission members. 
+- 13.17.A (SP): This change in intended to reduce the difficulty in maintaining all 5 members 
+of the VIRC.  
+- 13.17.B (SP): Same as above. Just trying to make it easier to maintain a full body of the 
+VIRC. 
+- 13.18.B.1 and 2 (SP): Change intended to reduce the difficulty in establishing a quorum 
+for the JPB. Staff notes that several times in 2024 and 2025 JPB hearings were held when 
+there was not an established quorum. 
+ 
+237725 
+Page 1 of 2 lllllllllllllllllllllml~!l~m~111 
+Resolution No. 2024-029 Cristy Lynn. Clerk & Recorder 
+Ouray County, CO 
+08-28-2024 08:45 AM Recording Fee $0.00 
+A RESOLUTION OF THE 
+BOARD OF COUNTY COMMISSIONERS OF OURAY COUNTY, COLORADO 
+TO PLAN AND PRIORITIZE LAND USE REGULATIONS AND LAND USE CODE REVISIONS 
+WHEREAS, on September 25, 2012 the Board of County Commissioners of Ouray County, Colorado 
+("Board") adopted Resolution No. 2012-028, the first in a series of succeeding resolutions, containing its list of 
+priorities for modifications and amendments to the Ouray County Land Use Code ("Code"); and 
+WHEREAS, Resolution 2012-028 specifically provided that the priorities set forth in such Resolution 
+would be revisited in six months to "assess progress and reevaluate priorities"; and 
+WHEREAS, additional Code priorities and revisions were further set forth in Resolution No. 2019-007 ; 
+WHEREAS, the Planning Commission is currently immersed in a review and update of the Ouray County 
+Master Plan with an anticipated completion in January or February 2024; and 
+WHEREAS, where applicable and not addressed through an adopted Ordinance, the Planning 
+Commission will, where reasonably practicable, begin working on review and planning for the next priority code 
+update project. 
+NOW THEREFORE , BE IT RESOLVED BY THE BOARD OF COUNTY COMMISSIONERS OF OURAY 
+COUNTY, COLORADO, AS FOLLOWS: 
+1. The Board directs Planning Commission and/or Land Use Staff to begin or continue reviewing the 
+following topics or Code sections in approximate priority order : 
+a. Complete Master Plan Revisions (in progress, Planning Commission+ Staff). May require 
+additional work on Recreational Master Plan (High Priority) . 
+b. Complete revisions for Short-Term Rental Ordinance, 2018-003 (in progress, Staff) (High 
+Priority). 
+c. Blasting Permitting Ordinance, Including Potential Fireworks and Open Fires Ordinance 
+Revisions to Ordinance 2012-011 and Ordinance 2002-001 (Staff) (High Priority). 
+d. Revise Land Use Code Section 2 and 3, including but not limited to (Planning Commission+ 
+Staff) (High Priority) : 
+i. Floor Area 
+ii. Historically Significant Structures 
+iii. Flood Hazard Area 
+iv. Family 
+v. Dwelling-Single Family 
+vi. Bonus ADU Concept & Other Affordable Housing Initiatives 
+vii. Yurts & Huts 
+viii. Commercial Campgrounds & Similar Uses 
+ix. IGAs, UGMA, AOI Cleanup to Section 3 
+x. Definition of Restricted "Sleeping Unit" for B&Bs . 
+xi. Tundra Definition tied to Wildlife Biologist or other Professional ";\ssessment 
+e. Enact "Areas and Activities of State Interest" Le. "1041 Regulations" under C.R.S. § 24-65 .1-
+101, as Possible new Land Use Code section (Plann ing Commission+ Staff (High Priority) . 
+f. Revise Non-Commercial Camping Ordinances , No. 2014-001 and 2015-002 , Including 
+Amended Definitions for Guides & Trespass Fees (Staff) (Medium Priority). 
+g. Grading & Excavation Permitting, which may be addressed through Land Use Code revisions 
+or new Ordinance) (Staff, and Possibly Planning Commission depending on context) 
+(Medium Priority). 
+Resolution 2024-029 • Page 1 of 2 
+Resolution No. 2024-029 
+h. Revise & Strengthen Dark Sky Regulations (Staff+ Planning Commission) (Medium Priority) 
+i. Amend Section 13 of Code (Admin. & Enforcement) (Staff+ Planning Commission) (Low 
+Priority) 
+j. Zoning Map Revisions if Necessary, including Zoning Map and Colona Zone, IGA, UGMA, 
+and AOI (Staff) (Low Priority) 
+2. The Board directs Land Use Staff to revise existing code sections or develop new proposed code 
+section drafts based upon input from Planning Commission and Staff. 
+3. The Board directs the Planning Commission and Staff to conduct public hearing(s) on the proposed 
+sections or revisions, as applicable, and make a formal recommendation to the Board of County 
+Commissioners regarding changes or updates to the Land Use Code. 
+Approved and adopted this 21'~ day of fbt.q,itSt: , 2024. 
+V · f f "' • .. ..en ~ t.. uw , r-n , p A~ e:fl -t- ·N ~ tlx ollng or: vVM.11\A·,5~0 ,,.,,~~ Q ,--..,rrV\.C- 1, - J 
+Voting Against: NO t-->f 
+Cristy Lynn, Clerk and Recorder 
+BOARD OF COUNTY COMMISSIONERS 
+OF OURAY COUNTY, COLORADO 
+')~cl'~ Yla~ 
+Michelle Nauer, Chair 
+Resolution 2024-029 • Page 2 of 2 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 1 of 18 
+SECTION 3  
+ZONING 
+DRAFT ONLY – RED OR BLUE TEXT IS NEW OR MODIFIED! 
+3.1 PURPOSE AND INTENT: 
+A. The zoning provisions that follow have been adopted to achieve the purposes set forth 
+in Section 1. 
+B. To allow gradual, long- term population and economic growth in Ouray County in a 
+manner that does not harm the County’s irreplaceable scenic beauty, wildlife, air and 
+water resources, and other environmental qualities and that does not unduly burden 
+the County’s residents or its governments. 
+C. The intent of the County zones is to achieve across  the zones, the overall goal of the 
+Master Plan.  This goal includes, in alphabetical order, specific goals for agricultural 
+lands, c ounty/municipal relationships, economic development, housing, natural 
+resources, rural character, touris m, transportation, utilities, visually significant areas, 
+and wildlife and plant habitats. 
+D. The specific intent of each of the zones that follow shall be read in conjunction with 
+the combination of the Master Plan’s overall and specific goals, and provide general 
+guidance with regard to specific uses within each zone. 
+ 
+3.2 ZONING DISTRICTS, MAPS AND BOUNDARIES: 
+A. The zones established by the Code are identified on the basis of the physical character 
+of the County combined with the pertinent information about existing land use and 
+ownership patterns and the needs of a stable and growing economy. 
+B. All Zones shall be designated on the “Official Zoning Map of Ouray County” which 
+is on file in the records of the County Clerk and Recorder.  A copy of the map is 
+attached to this Code and, in the event of any conflict between the copy and the map 
+on file in the County records, the latter shall be conclusively deemed to prevail. A 
+courtesy copy of the map is also located on the County website (currently located 
+on the Land Use Department section of the website), and available for inspection 
+upon request to the Land Use Department. 
+ 
+3.3 USES BY RIGHT AND SPECIAL USES: 
+A. In each zone there are uses permitted by right and special uses which may be allowed 
+on a site specific basis though a permitting process.  These uses have been determined 
+in each zone according to the unique characteristics of the zone. 
+B. Uses allowed by right are allowed automatically, although construction of new 
+structures may require a Site Development Permit or High Alpine Site Development 
+Permit and a building permit pursuant to Sections 13 and 24 of this Code. 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 2 of 18 
+C. Permits for special uses may be requested according to the procedures in Section 5.    
+The criteria for approval of a special use are more specifically explained in Section 
+5.2. 
+D. Marijuana-related business uses are regulated by  Ordinance No. 2022-002 (ie. 
+Marijuana Ordinance)  as may be updated or revised by the BOCC. As such, uses 
+permitted and licensed through the Marijuana Ordinance do not require a Special Use 
+Permit. 
+ 
+3.4 USES NOT LISTED: 
+A. Upon application, or by its own initiative, the BOCC may, in accordance with Section 
+14.5, by resolution add to either the uses by right or by special permit listed for a 
+zoning district based on these criteria: 
+(1) Such use is ap propriate to the physiographic and general environmental character 
+of the zone to which the use is added. 
+(2) Such use is compatible with other permitted uses in the zone and does not create 
+any more offensive noise, vibration, dust, heat, smoke, odor, glare, or other 
+objectionable influences, or more traffic, hazards, or alterations to the zone than 
+the minimum amount normally resulting from the other uses permitted in the 
+zone. 
+ 
+3.5 ESTABLISHMENT OF ZONES: 
+ 
+A. The County is hereby divided into eight (8) zones, as follows: 
+(1) Alpine 
+(2) Colona 
+(3) High Mesa 
+(4) North Mesa 
+(5) Public Lands 
+(6) South Mesa 
+(7) South Slope 
+(8) Valley 
+ 
+3.6 RESIDENTIAL DENSITY: 
+ 
+A. Maximum residential densities for each Zone shall be as follows: 
+(1) Alpine Zone    1 Dwelling Unit per 35 Acres* 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 3 of 18 
+(2) Colona Zone    7 Dwelling Units pe r Acre  
+(3) High Mesa Zone   1 Dwelling Unit per 35 Acres 
+(4) North Mesa Zone   1 Dwelling Unit per 6 Acres  
+(5) South Mesa Zone   1 Dwelling Unit per 6 Acres  
+(6) South Slope Zone   1 Dwelling Unit per 6 Acres  
+(7) Valley Zone    1 Dwelling Unit per 35 Acres 
+* Subject to additional restrictions of Section 24 – High Alpine Development Regulations 
+3.7 CONSTRUCTION, MAXIMUM BUILDING AND STRUCTURE HEIGHT: 
+In all zones, the maximum height of a building or other structure shall not exceed thirty-
+five (35) feet, unless a height of l ess than thirty-five (35) feet is required within the High 
+Alpine Development Regulations (See Section 24 of this Code) , an approved PUD, or as 
+otherwise provided in a special use permit. (See Definitions – Section 2 for more 
+information) 
+Construction of structures in all zones may have additional requirements, including 
+setbacks, as provided elsewhere in this Code.  Property owners should consult with Land 
+Use staff concerning applicability of other requirements before commencing design or 
+construction. 
+ 
+3.8      ZONES: 
+A. Alpine Zone: 
+The intent of the Alpine Zone is to preserve the natural beauty, wildlife habitat, and 
+recreational, historic and archeological values of high altitude areas and manage the 
+County’s natural resources in a manner that is both environmentally sound and 
+protects private property rights, while allowing mining, agriculture, forestry, 
+recreation, and limited low density residential and resort/conference center 
+development. 
+ 
+(1) Uses Allowed by Right:  
+(a) Underground mining subject to state and federal permitting 
+(b) Accessory uses and structures to any other use  by right and any permitted 
+use 
+(c) Farming/Ranching 
+(d) Home occupation 
+(e) Non-commercial camping , subject to the limitation that Yurt(s) are 
+limited to a maximum of one (1) Yurt per parc el unless otherw ise 
+approved by the BOCC through the Special Use Permit process, or as 
+a Campground under Section 11 of this Code, as amended. 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 4 of 18 
+(f) Non-commercial logging 
+(g) Single-family dwelling unit (maximum density of one unit per 35 acres) 
+on parcels not previously approved by the County as part of a  Planned 
+Unit Development (PUD) 
+NOTE: (Further requirements for non -mining development on patented 
+mining claims and patented mill sites, at or above 9480’ are located in 
+Sections 13 and 24.  
+(2) Uses Allowed by Special Use Permit 
+(a) Bed and breakfast 
+(b) Cemetery 
+(c) Church 
+(d) Commercial camping 
+(e) Commercial equestrian activity 
+(f) Commercial logging 
+(g) Commercial outdoor recreation 
+(h) Governmental facility 
+(i) Guest ranch 
+(j) Home business 
+(k) Livery or horse rental operation 
+(l) All mineral extraction and processing operati ons except those allowed by 
+right 
+(m) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(n) Public park or wildlife preserve 
+(o) Public utility 
+(p) Public service facility 
+(q) Sand and gravel operation 
+(r) School 
+(s) Temporary use 
+(t) Wildlife Rehabilitation Facility 
+(u) Guest Lodge 
+(v) Event Venue 
+(w) Commercial Outdoor Recreation 
+ 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 5 of 18 
+NOTE: Further requirements for non -mining development on patented 
+mining claims and patented mill sites at or above 9480’ are located in 
+Sections 13 and 24.  
+ 
+(3) Planned Unit Development: 
+(a) Resort/Conference Center PUD 
+(b) Regular PUD – as established by Section 6 of this Code 
+(4) Minimum Lot Size: 
+(a) All uses, except as otherwise provided for in this Code  - thirty-five (35) 
+acres 
+(b) Special uses – as established by Section 5 of this Code 
+(c) See Section 24 of this Code for further restrictions pertaining to 
+development in the High Alpine Area. 
+(5) Required Setbacks:   
+(a) All structures shall be located at least twenty -five (25) feet from any 
+property lines unless approved otherwise in a PUD 
+(b) For lots and parcels that have an are a of two (2) acres or less, the 
+minimum setback for structures shall be t en (10)  feet from the side and 
+back property lines and twenty-five (25) feet from the front property line 
+(c) No structure may be closer than one hundred (100) feet from the centerline 
+of U.S. Highway 550 or Colorado Highway 62, if visible from such 
+highways 
+ 
+B. Colona Zone: 
+The intent of the Colona Zone is to maintain an area of high- density residential and 
+commercial uses. 
+(1) Uses Allowed by Right: 
+(a) Single-family dwelling units or duplex with ADLRU. 
+(b) Accessory uses and structures 
+(c) Accessory dwelling units 
+(d) Home Occupation 
+ 
+(2) Uses Allowed by Special Use Permit: 
+(a) Church 
+(b) Commercial Storefront 
+(c) Government facility 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 6 of 18 
+(d) Home Business 
+(e) Multi-family dwelling 
+(f) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(g) Public service facility 
+(h) Public utility 
+(i) School 
+ 
+(3) Minimum Lot Size:   The minimum buildable lot size for allowed uses shall be 
+6,000sq ft. Typical historically platted lot dimensions in the Colona Zone are 
+twenty-five (25) feet by one -hundred twenty (120) feet with a lot size of 3,000sq. 
+ft. Non- typical smaller dimensioned lots may be used if they are combined to 
+meet the minimum buildable lot size. 
+(4) Floor-to-Lot Ratio:  Maximum floor-to-lot ratio shall not exceed 1:1. 
+(5) Required Setbacks:   
+(a) All structures shall have minimum setbacks of fifteen (15) feet from the 
+front property line; five (5) feet from the side property lines; and five (5) 
+feet from the rear property line. 
+(b) Eaves may extend one (1) foot into the required setbacks. 
+(c) When two or more lots  under one ownership are combined to build a 
+structure and meet the minimum lot size, the interior lot lines shall not be 
+considered when applying zoning or building code setbacks. 
+(d) Garage setback shall be 20 feet when accessed from the front of the 
+property. 
+(6) Design Standards: All roofing and siding materials shall be non-reflective. 
+ 
+C. High Mesa Zone: 
+The intent of the High Mesa Zone is to encourage agricultural production, preserve 
+areas for wildlife migration and habitat, and scenic, historical and archeological 
+values, and to allow low density residential development that does not adversely 
+impact the significant vegetative, wildlife, historic, archeological and scenic values of 
+the Zone. 
+ 
+(1) Uses Allowed By Right: 
+(a) Farming/ranching 
+(b) Single-family dwelling unit or duplex (maximum density of one primary 
+dwelling and one ADU or ADLRU per 35 -acres Single-family dwelling 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 7 of 18 
+units (maximum density one unit per thirty -five (35) acres  (Unless 
+otherwise approved in a County PUD process). 
+(c) Non-commercial logging 
+(d) Accessory uses and structures that are accessory to any other use by right 
+and any permitted use 
+(e) Home occupation 
+(f) Non-commercial camping 
+ 
+(2) Uses Allowed by Special Use Permit:  
+(a) Bed and breakfast 
+(b) Cemetery 
+(c) Church 
+(d) Commercial camping 
+(e) Governmental facility 
+(f) Guest ranch 
+(g) Home Business 
+(h) Mineral Operation 
+(i) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(j) Public park or wildlife preserve 
+(k) Public service facility  
+(l) Public utility 
+(m) Sand and gravel operation 
+(n) School 
+(o) Temporary use 
+(p) Wildlife rehabilitation facility 
+(q) Guest Lodge 
+(r) Event Venue 
+(s) Commercial Outdoor Recreation  
+ 
+(3) Minimum Lot Size: 
+(a) All uses, except as otherwise provided for in this Code – 35- acres, 
+outside of a PUD. Single family dwellings – thirty-five (35) acres 
+(b) Special uses – as established by Section 5 of this Code 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 8 of 18 
+(c) Regular PUD – as established by Section 6 of this Code 
+ 
+(4) Required Setbacks: All structures shall be located at least twenty -five (25) feet 
+from any property lines, unless a greater setback is required within an approved 
+PUD. 
+ 
+D. North Mesa Zone: 
+The i ntent of the North Mesa Zone is to preserve areas for wildlife mitigation and 
+habitat and allow up to six- acre residential density (medium density) that is not 
+impacted by geological hazards. 
+ 
+(1) Uses Allowed by Right: 
+(a) Single-family dwelling unit or duplex (maximum density of one primary 
+dwelling and one ADU or ADLRU per 35 -acres Single-family dwelling 
+units (maximum density one unit per thirty -five (35) acres  (Unless 
+otherwise approved in a County PUD process). 
+(b) Accessory uses and structures that are accessory  to any other use  by right 
+and any permitted use 
+(c) Home occupations 
+(d) Farming/ranching 
+(e) Non-commercial camping 
+ 
+(2) Uses Allowed by Special Use Permit: 
+(a) Bed and breakfast 
+(b) Cemetery 
+(c) Church 
+(d) Governmental facility 
+(e) Guest ranch 
+(f) Home business 
+(g) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(h) Public park or wildlife preserve 
+(i) Public service facility 
+(j) Public utility 
+(k) Sand and gravel operation 
+(l) School 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 9 of 18 
+(m) Temporary use 
+(n) Wildlife rehabilitation facility 
+(o) Guest Lodge 
+(p) Event Venue 
+(q) Commercial Outdoor Recreation 
+ 
+(3) Planned Unit Development: 
+(a) Limited PUD (maximum - one unit per 13 acres) 
+(b) Regular PUD (maximum - one unit per 6 acres) 
+ 
+(4) Minimum Lot Size: 
+(a) All uses, except as otherwise provided for in this Code – 35- acres, 
+outside of a PUD. Single family dwellings – thirty-five (35) acres 
+(b) Planned unit developments – as established by Section 6 of this Code 
+(c) Special uses – as established by Section 5 of this Code 
+(5) Required Setbacks:  All structures shall be located at least twenty -five (25) feet 
+from any property lines unless a great er setback is required within an approved 
+PUD. 
+ 
+E. Public Lands Zone: 
+Only lands that are NOT  owned by Federal or State entities are subject to this Zone 
+and regulations. The intent of the Public Lands Zone is to preserve and protect private 
+lands that  are no t publicly owned and managed by Fe deral or State entities in the 
+Zone from future development, thereby providing visual and recreational enjoyment 
+for the County’s present and future residents as well as for visitors. 
+ 
+(1) Uses Allowed by Right: 
+(a) Farming/ranching 
+(b) Non-commercial camping 
+(c) Underground mining 
+ 
+(2) Uses Allowed by Special Use Permit:  
+(a) Commercial camping  
+(b) Commercial logging 
+(c) Governmental facility. 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 10 of 18 
+(d) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(e) Public park and wildlife preserve 
+(f) Public service facility 
+(g) Public utility 
+(h) Commercial Outdoor Recreation 
+ 
+(3) Minimum Lot Size:  Thirty-five (35) acres 
+ 
+(4) Required Setbacks: All structures shall be located at least twenty -five (25) feet 
+from any property lines. 
+ 
+F. South Mesa Zone:   
+The intent  of the South Mesa Zone is to a llow medium density and, where  
+appropriate, high density (including commercial) development if all appropriate 
+infrastructure is available.  The purpose is to meet the overall Master Plan goal of 
+allowing gradual, long- term p opulation and economic growth without harming the 
+County’s irreplaceable environmental qualities and unduly burdening the County 
+residents or governments. 
+ 
+(1) Uses Allowed by Right: 
+(a) Single-family dwelling unit or duplex (maximum density of one primary 
+dwelling and one ADU or ADLRU per 35 -acres, unless otherwise 
+approved in a County PUD process ) Single-family dwelling units 
+(maximum density one unit per thirty-five (35). 
+(b) Accessory uses and structures that are accessory to any other use by right 
+and any permitted use 
+(c) Home occupations 
+(d) Non-commercial camping 
+ 
+(2) Uses Allowed by Special Use Permit: 
+(a) Bed and breakfast 
+(b) Church 
+(c) Commercial uses (as allowed in approved planned unit developments) 
+(d) Governmental facility 
+(e) Home business 
+(f) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 11 of 18 
+(g) Public park 
+(h) Public service facility 
+(i) Public utility 
+(j) Sand and gravel operation 
+(k) School 
+(l) Temporary use 
+ 
+(3) Planned Unit Development: 
+(a) Limited PUD (maximum - one unit per 13 acres) 
+(b) Regular PUD (maximum - one unit per six acres) 
+(4) Minimum Lot Size: 
+(a) All uses, except as otherwise provided for in this Code – 35- acres, 
+outside of a PUD. Single-family Dwellings (outside a PUD) – thirty-five 
+(35) acres 
+(b) Planned unit developments – as established by Section 6 of this Code 
+(c) Special uses – as established by Section 5 of this Code 
+(d) See Section 24 of this Code for further restrictions pertaining to 
+development in the High Alpine Area. 
+ 
+(5) Required Setbacks:  All structures shall be located at least twenty -five (25) feet 
+from any property line unless otherwise approved in a PUD or subdivision. For 
+lots and parcels that have an area of two (2) acres or less, the minimum setback 
+for structures shall be ten (10) feet from the side and back property lines and 
+twenty-five (25) feet from the front property line. 
+ 
+G. South Slope Zone:  
+The intent of the South Slope Zone is to preserve areas for wildlife migration and 
+allow up to six acre residential development (medium density) that is not impacted by 
+geologic hazards. 
+ 
+(1) Uses Allowed by Right: 
+(a) Single-family dwelling unit or duplex (maximum density of one primary 
+dwelling and one ADU or ADLRU per 35 -acres, unless otherwise 
+approved in a County PUD process). Single-family dwelling units 
+(maximum density one unit per thirty-five (35) acres ( 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 12 of 18 
+(b) Accessory uses and structures that  are accessory to any other use by right 
+and any permitted use 
+(c) Farming/ranching 
+(d) Home occupation 
+(e) Non-commercial camping 
+ 
+(2) Uses Allowed by Special Use Permit: 
+(a) Bed and breakfast 
+(b) Governmental facility 
+(c) Home business 
+(d) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(e) Public park and wildlife preserve 
+(f) Public service facility 
+(g) Public utility 
+(h) Temporary use 
+(3) Planned Unit Development: 
+(a) Limited PUD (maximum - one unit per 13 acres) 
+(b) Regular PUD (maximum - one unit per 6 acres) 
+ 
+(4) Minimum Lot Size: 
+(a) All uses, except as otherwise provided for in this Code – 35- acres, 
+outside of a PUD. Single-family Dwellings (outside a PUD) – thirty-five 
+(35) acres 
+(b) Planned unit developments – as established by Section 6 of this Code 
+(c) Special uses – as established by Section 5 of this Code 
+ 
+(5) Required Setbacks: 
+All structures shall be located at least twenty -five (25) feet from any property 
+lines unless a greater setback us required within an approved PUD. 
+ 
+H. Valley Zone:  
+The intent of the Valley Zone is to protect and preserve visually significant and 
+sensitive areas of the County, maintain its overall rural character, and/or encourage 
+the continued use of the lands for agricultural productivity. 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 13 of 18 
+ 
+(1) Uses Allowed by Right: 
+(a) Farming/ranching 
+(b) Single-family dwelling unit or duplex (maximum density of one primary 
+dwelling and one ADU or ADLRU per 35 -acres, unless otherwise 
+approved in a County PUD process) .Single-family dwelling units 
+(maximum density one unit per thirty-five (35) acres ( 
+(c) Accessory uses and structures that are accessory to any other  use by right 
+and permitted use 
+(d) Home Occupation 
+(e) Non-commercial camping 
+ 
+(2) Uses Allowed by Special Use Permit: 
+(a) Bed and breakfast 
+(b) Cemetery 
+(c) Church 
+(d) Commercial equestrian activity 
+(e) Commercial outdoor recreation  
+(f) Governmental facility 
+(g) Guest ranch 
+(h) Home business 
+(i) Livery or horse rental operation 
+(j) Oil and gas exploration and facilities pursuant to Section 21 of this Code 
+(k) Public service facility 
+(l) Public utility 
+(m) Sand and gravel operation 
+(n) School 
+(o) Temporary use 
+(p) Wildlife rehabilitation facility 
+(q) Historical museum 
+(r) Guest Lodge 
+(s) Event Venue 
+(t) Commercial Outdoor Recreation 
+ 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 14 of 18 
+(3) Minimum Lot Size: 
+(a) Regular PUD – as established by Section 6 of this Code 
+(b) All uses, except as otherwise provided for in this Code – 35- acres, 
+outside of a PUD. Single-family Dwellings (outside a PUD) – thirty-five 
+(35) acres 
+(c) Special uses – as established by Section 5 of this Code 
+ 
+(4) Required Setbacks:  All structures shall be located at least fifty (50) feet from 
+any property lines unless otherwise approved in a PUD.  For lots and parcels that 
+have an area of two (2) acres or less, the minimum setbacks for structures shall be 
+ten (10) feet from the side and back property lines and twenty- five (25) feet from 
+the front property line.  No structure may be closer than one hundred (100) feet 
+from the centerline of U.S. Highway 550 or Colorado Highway 62. 
+ 
+3.9 OVERLAY DISTRICTS: 
+A. Intent and purpose:  Due to continued growth pressures, t here is an increased desire 
+for coordination between the Municipalities and the County to promote the efficient 
+use of services and protection of open lands, agricultural lands, alpine lands and 
+community identities. It is therefore the intent and purpose of the Overlay Districts to 
+establish districts and create a process to jointly review development on 
+unincorporated property surrounding the Town of Ridgway and the City of Ouray. 
+This Section may be further interpreted and administered pursuant to 
+Intergovernmental Agreements with the Municipalities and , shall automatically 
+lapse with respect to any Municipality if an Intergovernmental  Agreement is 
+terminated with regards to the Overlay Districts.   
+B. D efinitions:  
+(1) Area of Influence ( “AOI”).  An area of unincorporated land wherein 
+development or use of land has an impact upon the adjoining municipality. 
+(2) Urban Development.  Development that  conforms to the standards of moderate 
+and high density residential, commercial/industrial or tourist land use categories, 
+which is typical to urbanized areas.   Urban development also includes the types 
+of services that are generally required to support t hat development such as central 
+potable water, storm water systems, central sanitary sewer systems, quick -
+response fire and police protection, urban level street design and maintenance, 
+parks and recreation programs, open space and undeveloped parks, urban level 
+retail and commercial development and other similar services that are typically 
+provided by cities and towns. 
+(3) Urban Growth Management Area (“UGMA”).  An area of unincorporated land 
+adjacent to a municipality in which urban development may be allowed  when 
+annexed by the municipality.  The Urban Growth Management Area includes an 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 15 of 18 
+area sufficient to provide for ten to twenty- five years of anticipated and desirable 
+urban growth and development for the adjacent municipality. 
+ 
+C. Establishment of Overlay Dist ricts. The following Overlay Districts are hereby 
+established: 
+(1) The Ridgway UGMA 
+(2) The Ridgway AOI 
+(3) The Ouray UGMA 
+(4) The Ouray AOI 
+ 
+D. Overlay Districts :  All Overlay Districts shall be designated on the “Official 
+Zoning Map of Ouray County” which is on file in the  records of the County 
+Clerk and Recorder.  A copy of the map is attached to this Code and in the event 
+of any conflict between the copy and the map on file in the County records, the 
+latter shall be conclusively deemed to prevail.  The area of all Overlay Districts 
+are officially designated by Intergovernmental Agreements with the 
+Municipalities, further informally designated on an Unofficial Zoning Map on 
+the County website (currently located on the Land Use Department section of 
+the website), and availabl e for inspection upon request to the Land Use 
+Department. 
+ 
+E. District Uses and Requirements.  
+(1) Within the Ridgway AOI and the Ouray AOI, the following uses are allowed: 
+(a) All uses allowed by right shall be permitted within the underlying Zone(s), 
+as stated under Section 3 of this Code.   
+(b) Uses allowed by special use permit and PUD’s  within the underlying Zone, 
+as stated under Section 3 of this Code, may be permitted, upon review and 
+approval of the B OCC.  Said uses shall follow the process as contained 
+herein. 
+(2) Within the Ridgway U GMA and the Ouray UGMA, the following uses are 
+allowed: 
+(a) All uses allowed by right shall be permitted within the underlying Zone(s), 
+as stated under Section 3 of this Code.   
+(b) Uses allowed by special use permit within the underlying Zone, a s stated 
+under Section 3 of this Code, except Home Businesses, may be permitted, 
+upon review and approval of the B OCC.  Said uses shall follow the process 
+as contained herein. 
+F. Development Review – Urban Growth Management Area.   
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 16 of 18 
+Applications for planned unit developments, special use permits, exemptions from the 
+definition of subdivision, variances and rezoning shall first be considered for 
+annexation by the adjoining municipality prior to submittal of an application to the 
+County Land Use Office. 
+(1) The municipalities will consider all petitions for annexation of lands within the 
+adjoining UGMA and will not decline to annex such property except for good 
+cause.  For the purposes of this Section, good cause includes, without limitation, 
+the following: 
+(a) Extension of one or more municipal services to the area would place an 
+unreasonable economic burden on the existing users of such service or upon 
+the future residents or owners of property in the area itself. 
+(b) The area is not contiguous to the municipality’s existing boundaries. 
+(c) The development proposal fails to meet the criteria for inclusion and 
+annexation in the initial growth boundary outlined within the municipality’s 
+master or comprehensive plan.  
+(2) If the municipality declines an annexation proposal within the UGMA, the 
+Applicant/Developer may then submit a completed application to the County 
+Land Use Office.  Depending upon the request, the application shall include all 
+information and documentation as set forth and outlined under the various 
+sections of this Code.  In addition, the application shall also include a written 
+denial of annexation from the respective municipality. 
+ 
+G. Development Review – Area of Influence.   
+Applications for planned unit developments, special use permits, exemptions from the 
+definition of subdivision, variances and rezoning shall be submitted to the County 
+Land Use Office and shall follow the requirements, standards and processes as set 
+forth and outlined under the various sections of this Code.  
+ 
+H. Joint Planning Boards.  
+Applications for planned unit developments, special use permits, exemptions from the 
+definition of subdivision, variances and rezoning located within an UGMA or an AOI 
+shall be reviewed by a Joint Planning Board, rather than the Ouray County Planning 
+Commission, and the Joint Planning Board shall make a recommendation to the 
+BOCC.   
+(1) When a request is located within the Ridgway UGMA or the Ridgway AOI , the 
+Ridgway Area Joint Planning Board shall review the application.   
+(2) When a request is located within the Ouray UGMA or the Ouray AOI, the Ouray 
+Area Joint Planning Board shall review the application.  
+ 
+3.10 CONSULTATION WITH TRIBES FOR RENEWABLE ENERGY PROJECTS 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 17 of 18 
+ 
+ Prior to County permitting of renewable energy projects, as defined by the 
+Colorado Renewable Energy Projects Act, C.R.S. §§ 29-20-401 et seq. (Colorado House Bill 
+2024-212), Land Use Staff shall consult with the Tribal Governments of the Ute Mountain 
+Tribe and the Southern Ute Indian Tribe, concerning potential impacts to hunting, fishing, 
+and gathering rights of th e Tribes related to construction of the facility, if located within 
+the Brunot Area. 
+ 
+3.11 WATER CONSERVATION LANDSCAPING REQUIREMENTS 
+ 
+A. This Section 13.11 is implemented and administered pursuant to the Prohibition of 
+Nonfunctional Turf, Artificial Turf, a nd Invasive Plant Species Act (“Act”), C.R.S. 
+§§ 37-99-101, et seq. (Colorado House Bill 2024-005), as amended.  
+B. The installation, planting, or placement of nonfunctional turf, artificial turf, or 
+invasive plant species is prohibited within commercial, institutional, or industrial 
+property, common interest community property, or a street right -of-way, parking 
+lot, median, or transportation corridor, as part of any new development project or 
+redevelopment project, within all zones. Such terms (within this Se ction 13.11) are 
+further defined in the Act.  
+C. In accordance with the Act, nothing in this Section 13.11 shall prohibit:  
+(1) Maintenance of nonfunctional turf, artificial turf, or invasive plant 
+species (as defined by C.R.S. § 37-60- 135(2)(e), as amended), if already 
+installed, planted, or placed before January 1, 2026. 
+(2) Installation of grass seed or sod that is a native plant or has been 
+hybridized for arid conditions. 
+(3) Installation of artificial turf on bona fide athletic fields of play, which are 
+available for public or community use for regular sports activities. 
+ 
+3.12  SPECIAL EVENT PERMITS 
+ 
+A. Special Events Generally 
+Any Special Event , within any zone, shall require a Special Event Permit and 
+agreement(s) from the BOCC, including potential waivers . This permitting process 
+requires a lower threshold of permitting than Special Use Permits, which are 
+required under Section 5 of this  Code, as amended. A Special Use Event application 
+may be granted or denied in accordance with the basic purposes and intent of this 
+Code, as well as the spirit and intent of the currently adopted County Master Plan, 
+and other applicable laws and regulations. 
+ 
+Rev. 102126 Draft 
+ 
+Section 3 – Zoning 
+Page 18 of 18 
+B. Special Event Permit Applications 
+A Special Event shall require a permit application, specifying: 
+(1) Name and contact information of the Special Event organizer; 
+(2) The time and date(s) of any Special Event; 
+(3) A detailed description of the Special Event; 
+(4) Any County property and/or County roads, and/or other public 
+infrastructure affected by the Special Event; 
+(5) Whether animals are involved; 
+(6) The number of vehicles; 
+(7) Septic and sanitation measures; 
+(8) Whether food and/or alcohol service is provided; 
+(9) Traffic impacts and traffic control measures; 
+(10) The number of participants; 
+(11) Whether sound amplification will be used; 
+(12) Trash removal measures; 
+(13) Fire control measures; 
+(14) Other safety measures;  
+(15) Whether an EMS standby request is necessary (and if so, whether it has been 
+requested); and  
+(16) Other information requested by the County. 
+ 
+C. Application Process 
+(1) The Special Event Permit Application shall be submitted to the Deputy Clerk 
+of the BOCC, or designee, at least forty -five (45) days before the scheduled 
+event. 
+(2) County inter -departmental referrals, and/or other Special Event Permit 
+terms, may be required by the County on a case-by-case basis.  
+(3) Any use of County buildings like the Ouray County 4H Event Center & 
+Fairgrounds may require separate and/or additional permissions, if 
+available. Other permitting or approval(s) may be required for certain types 
+of events. 
+(4) The Board shall approve or deny any Special Event Permit, or modify the 
+application requirements by requiring additional permitting terms at its 
+discretion. The Board’s decision shall be final, and subject to judicial review. 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 1 of 17 
+ 
+SECTION 13  
+ADMINISTRATION AND ENFORCEMENT 
+DRAFT ONLY – RED/BLUE TEXT IS  NEW OR MODFIED! 
+__________________________________________________________________ 
+ 
+13.1 ENFORCEMENT: 
+A. The Land Use  Department shall be responsible for  administration and enforcement 
+unless otherwise designated by the BOCC. 
+13.2 CONSTRUCTION, ALTERATION, OR DEMOLITION OF BUILDINGS: 
+A. It is unlawful to erect, construct, reconstruct , demolish, or alter any building or 
+structure in violation of this Code, or any amendment hereto adopted or  enacted by 
+the BOCC. 
+B. Any person, firm or corporation violating this Code or any amendment hereto is 
+subject to the penalties of CRS §  30-28-124 and CRS § 30- 28-124.5 as may be 
+amended. 
+C. Each day during which such illegal erection, construction, reconstruct ion or 
+alteration continues shall be deemed a separate offense. 
+13.3 USE OF BUILDINGS, STRUCTURES OR LAND: 
+A. It is unlawful to use any building, structure or land in violation of this Code, or any 
+amendment hereto adopted or enacted by the BOCC.  
+(1) Any person, firm or corporation violating this Code or any amendment hereof is 
+subject to the penalties of CRS § 30- 28-124 and CRS § 30- 28-124.5 as may be 
+amended. 
+(2)  Each day during which such illegal use of any building, structure or land 
+continues shall be deemed a separate offense. 
+B. Whenever Staff (including, but not limited to, the County Planner , Building 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 2 of 17 
+Inspector, or other Staff  Zoning Enforcement Officer or C ounty Attorney) has 
+personal knowledge  (it shall be the practice of Ouray County that “personal 
+knowledge” shall mean formal notification  or other demonstrable facts ) of any 
+violation of this Section , shall give written notice to the violator to correct such 
+violation within thirty (30) days after the date of such notice.  
+(1) If the violator fails to correct the  violation within such 10 day period, the 
+zoning official may request that the sheriff of the County issue a summons 
+and complaint to the violator, stating the nature of the violation with 
+sufficient particularity to give notice of such charge to the violator.   
+(2) The summons and complaint shall require that the violator appear in 
+County Court at a definite time and place stated therein to answer and 
+defend the charge.  
+(3) One copy of the summons and complaint shall be served upon the violator 
+by the sheriff in the manner provided by law for the service of a criminal 
+summons.   
+C. One copy each shall be retained by the sheriff and the County zoning official, 
+and one copy shall be transmitted by the sheriff to the Clerk of the County 
+Court. they may follow the proced ures specified in Title 30, Section 28, of the 
+Colorado Revised Statutes for civil or other code enforcement  for Building 
+Code and/or Land Use Code violations , which shall not prohibit other civil 
+and/or criminal penalties in accordance with applicable law . The Board may 
+further delegate such civil code enforcement authori ty for expedited 
+proceedings according to Resolution 2024-028, as may be amended from time to 
+time, or through other lawful action of the Board  and/or County Attorney or 
+designee(s). 
+13.4 TRANSFER OF INTERESTS: 
+Any person who transfers legal or equitable title or sells any subdivided land before a 
+final plat for such subdivided land has been approved by the BOCC and recorded or filed 
+in the office of the County Clerk and Recorder, is subjec t to the penalties of CRS § 30 -
+28-124 and CRS § 30-28-124.5 as may be amended.   
+A. All fines collected shall be credited to the general fund of the County. 
+B. No person shall be prosecuted, tried or punished under this Section  unless the 
+indictment, information, complaint or action for the same is instituted prior to the 
+expiration of eighteen (18) months after the recordation or filing in the office of the 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 3 of 17 
+County Clerk and Recorder of the instrument transferring or selling such subdivided 
+land.   
+C. In addition to any other penalty specified herein, the County may bring an action to 
+enjoin any person, firm, or corporation from selling developed land before a final 
+plat for such developed land has been approved by the BOCC and may institute an 
+injunction, manda mus, abatement or other appropriate action or proceeding to 
+prevent, enjoin, abate or remove any unlawful erection, construction, reconstruction, 
+alteration of use of any parcel of land. 
+13.5 WITHHOLDING OF PERMIT: 
+In addition to all other penalties specified f or violation of this Code, the County shall 
+withhold building permits, mobile home permits, on- site wastewater treatment system  
+permits and any other permits which may be necessary for the habitation or development 
+of any parcel of land which has been transferred in violation of this Code. 
+ 
+13.6 PRIVATE ACTION: 
+All provisions of the approved and recorded final development plan for a PUD shall run 
+in favor of the residents, occupants and owners of the PUD but only to the extent 
+expressly provided in the plan and in accordance with the terms of the plan and, to that 
+extent, said provisions, whether recorded by plat, covenant, easement or otherwise, may 
+be enforced at law or in equity by residents, occupants or owners acting individually, 
+jointly or through an organization dedicated in the plan to act on their behalf.  The 
+County does not enforce private covenants  and/or private easements , unless 
+otherwise specified in this Code or other applicable regulations or law. 
+13.7 NOTICE OF VIOLATION: 
+A. In addition to all other penalties specified for violation of this Code, the County may 
+record in the office of the County Clerk & Recorder, a Notice of Violation, which 
+shall constitute constructive notice to the general public that no permit which may be 
+necessary for habitation or development shall issue from the County on any parcel of 
+land which has been transferred in violation of this Code. 
+B. Prior to recordation of the Notice of Violation, the affected landowner(s) shall be 
+entitled to a thirty (30) day notice of intent to record Notice of Violation sent certified 
+mail, return receipt requested to said landowner(s)' last known address as shown by 
+County records.   
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 4 of 17 
+(1) Upon written objection by the Landowner(s) filed with the County Land Use 
+Department , within the afore mentioned thirty-day period, Notice of Violation 
+shall not be recorded pending administrative review by the Land Use 
+Department, which review shall take place within ten days of receipt of the  
+written Objection. 
+(2) Following administrative review of the written o bjection and all other 
+circumstances surrounding the alleged violation of this Code, if the Land Use 
+Staff finds that there has been a violation of the Code, the Notice of Violation 
+shall be recorded forthwith as provided herein. 
+(3) The affected landowner(s) may appeal the Land Use Staff’s finding of violation 
+to the BOA.  Should the BOA reverse the finding of the Land Use Staff , the 
+County shall forthwith record a revocation or withdrawal of the Notice of 
+Violation, which was previously recorded. 
+C. Compliance w ith the notice provisions of this Section shall not be a condition 
+precedent to the County’s enforcement of the provisions of this Code. 
+D. Failure of the County to comply with the notice provisions of this Section shall not be 
+deemed to constitute a waiver by the County of any violation of this Code. 
+13.8 FAILURE TO ENFORCE: 
+A. Any failure by the County to enforce any provision of this Code shall not subject  the 
+County to any direct or indirect civil liability. 
+B. Any failure by the County to enforce any provision of this Code shall not be 
+construed as a waiver or forfeiture of its right to enforce. 
+13.9 FEES: 
+A. Fees relating to this Code shall be assessed in accordance with a uniform schedule 
+which is set by resolution of the BOCC and which shall be passed at an y reg ular 
+meeting of the BOCC or special meeting which is called for the specific purpose of 
+adopting such fees.   
+B. Notice that a fee schedule or amendment thereof is to be considered by the BOCC  
+shall be published in the legal  County newspaper at least fourteen  (14) days prior to 
+such consideration.   
+C. The fee schedule shall be designed to fully compensate the County for all costs 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 5 of 17 
+incurred or anticipated to be incurred in connection with the matter for which the fee 
+is to be assessed. A current fee schedule may be requested from the Land Use Staff. 
+13.10 SITE DEVELOPMENT PERMITS: 
+A. The provisions of this Section  shall apply to the construction of single -family 
+dwelling units , and duplex ADLRU dwelling units  on parcels located within the  
+County, except construction proposed on lots previously approved by the  County as 
+part of a PUD, Final Development Plan or combined Preliminary/Final Development 
+Plan approved by the BOCC  in accordance with Section 6 of this Code, a Final 
+Subdivision Plat approved as part of a De velopment Agreement approved pursuant to 
+Section 17 of this Code, any subdivision filed and recorded prior to 1971,  or where a 
+High Alpine Site Development Permit is required by Section 13.11.   
+(1) In conjunction with and prior to approval and issuance of a building permit, a 
+landowner wishing to construct a single -family dwelling unit  or duplex 
+ADLRU dwelling unit  must obtain a Site Development Permit from the  
+County.   
+(2) The BOCC hereby delegates to the Land Use Staff  the authority to review and 
+approve or approve  with conditions or deny all applications for Site 
+Development Permits in the County.   
+(3) All decisions of the Land Use Staff  shall be based upon the requirements set 
+forth in the Land Use Code, or according to law.  Any decision of the Land Use 
+Staff pursuant to the authority delegated herein may be appealed as provided in 
+Section 12.5 of the Code. 
+B. Applications for Site Development Permits shall be submitted in writing to the Land 
+Use Office Staff, together with the applicant’s acknowledgment of assessm ent of all 
+processing, impact and other fees that are or may be required to be assessed by this or 
+other Sections of this Code , as the Code may be amended from time to time.  The 
+County shall collect and the applicant shall pay all such applicable fees and 
+assessments, at the time and in the manner that payment of those fees and 
+assessments is required by this Code.  The applicant shall use an application form 
+approved by and provided by the County.  The County shall approve, approve with 
+conditions, or deny the application.   
+C. The County shall approve and issue a Site Development Permit upon the Applicant 
+demonstrating  to the satisfaction of the County that all of the following criteria have 
+been met: 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 6 of 17 
+(1) Road access, potable water and sewage disposal will be available and will meet 
+all applicable provisions of this Code. 
+(2) The proposed site development will not unreasonably impact significant 
+wildlife habitat, tundra, wetlands and riparian areas. 
+(3) If the site development is proposed to be located within areas subj ect t o the 
+effects of any hazard, including but not necessarily limited to the following: 
+chemical,  geological , wildfire, flood,  avalanche/snow slide, rockfall, 
+landslide, potentially unstable slopes, slopes greater than 30 percent, alluvial 
+fans, colluvial s lopes, talus slopes, Mancos shale, faults, expansive soils or 
+ground subsidence the applicant shall provide evidence demonstrating that such 
+hazards have been avoided or otherwise mitigated .   The County, where 
+reasonably necessary, may require that r ecognized experts be employed and 
+special studies be done and submitted before a site development permit can be 
+issued affecting lands which may contain the hazards listed above , and which 
+may affect persons using the land in question, or  otherwise affected lands. The 
+cost of employing such experts and drafting such special reports shall be paid 
+by the applicant. The County is not required to accept the findings or 
+conclusions of any experts or special reports.  
+(4) All applicable impact and other fees and assessmen ts have been assessed and 
+paid as required by this Code. 
+(5) If the proposed site development is located within areas where irrigation occurs 
+or may impact any irrigation structures, including but not limited to ditches and 
+head gates, the applicant shall demonstrate that any potential impacts have been 
+adequately mitigated to allow historic water flow to continue. 
+D. All applicants for a site development permit shall be required to sign a statement 
+acknowledging that  the County is overall a rural county located in rough and difficult 
+terrain with a limited transportation network and County services may be unavailable 
+or service may be untimely in some or all areas of the County.  Approval of a site 
+development permit or any other permit or approval does not const itute and shall not 
+be considered as conferring any guarantee or expectation of the provision of any 
+County service. 
+E. Upon issuance of a site development permit the Land Use Staff   Permittee shall, 
+within seven (7) days, submit the permit and County se rvice statement to the Office 
+of the County Clerk and Recorder for recordation.   Any amendment to the approved 
+site development permit shall require additional County approval. 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 7 of 17 
+F. Upon demonstration that the permit is in compliance with all conditions and criteria, 
+as set forth above, the Site Development Permit shall be approved for a period of 
+three (3) years.  Renewal of the permit may be granted for additional successive three 
+(3) year terms providing that the permit is in compliance with all conditions a nd 
+criteria, as set forth above. 
+13.11 HIGH ALPINE SITE DEVELOPMENT PERMITS 
+A. Applicability: 
+(1) These regulations shall apply to: 
+(a) All residential, non -mining and commercial development occurring on 
+patented mining claims and patented mill states sites at or above 9,480’. 
+(2) These regulations shall not apply to:  
+(a) Any residential structures that are accessory to an active, state -permitted 
+mining operation. 
+(b) Lots previously approved by the County as a PUD , Final Development Plan, 
+or combined Preliminary/Final Development Plan approved by the BOCC in 
+accordance with Section 6 of this Code, or a Final Subdivision Plat approved 
+as part of a Development Agreement approved pursuant to Section 17 of this 
+Code. 
+(c) Any parcel with an active Site Development Permit issued within three years 
+prior to the date of adoption of this section of Code.  
+(d) Any proposed Public Utility or Communications Facility as provided for in 
+the Zoning section of this Code.  
+(e) Excludes any existing historically significant structures. 
+B. In conjunction with and prior to approval and issuance of a building permit, a 
+landowner wishing to construct any structure must obtain a High Alpine Site 
+Development Permit from the County.   
+C. The BOCC hereby delegates to the Land Use Staff the authority to review and 
+approve or appr ove with conditions or deny all applications for High Alpine Site 
+Development Permits in the County.   
+D. All decisions of the Land Use Staff shall be based upon the requirements set forth in 
+the Land Use Code, or according to law.  Any decision of the L and U se Staff 
+pursuant to the authority delegated herein may be appealed as provided in Section 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 8 of 17 
+12.5 of the Code. 
+E. Applications for High Alpine Site Development Permits shall be submitted in writing 
+to the Land Use Office Staff, together with the applicant’s acknowledgment of 
+assessment of all processing, impact and other fees that are or may be required to be 
+assessed by this or other Sections of this Code, as the Code may be amended from 
+time to time.  The County shall collect and the applicant shall pay a ll such applicable 
+fees and assessments, at the time and in the manner that payment of those fees and 
+assessments is required by this Code.  The applicant shall use an application form 
+approved by and provided by the County.  The County shall approve, approve w ith 
+conditions, or deny the application.  
+F. Clearing, grading, grubbing, or other site disturbance  shall occur only after a High Alpine 
+Site Development Permit has been issued by the Land Use Department. Applicant shall 
+provide evidence that all applica ble local, state and federal permits have been obtained prior 
+to any such work commencing. All proposed earth- disturbing work or vegetation removal 
+shall be detailed in the Site Development Permit application and shall be completed in 
+accordance with such plans. 
+G. Applications for High Alpine  Site Development Permits shall also include a survey, 
+prepared by a Colorado Licensed Professional Surveyor.  Such survey shall include:  
+(1) Existing and proposed structures 
+(2) Existing and proposed trails  as shown on the County Road Map (See resolution 
+2014-014, or any subsequent amendments) 
+(3) Existing and proposed roads and/or driveways 
+(4) Any other existing and proposed site improvements , including any proposed 
+fences. 
+(5) Topographic data for the  remaining, non- disturbed portion of the parcel using 
+existing topographic data such as USGS  Quadrangle(1-24,000 scale contour or 
+less).  
+(6) Topographic survey data for the area of the parcel to be developed and the entire 
+length of the driveway (if any) with no less than 5-foot contour intervals. 
+(7) The location of 2- points (on the ground and on plat) within the proposed 
+development area.    
+(8) In addition to the survey, the Applicant shall also provide documentation that the 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 9 of 17 
+Applicant either owns 100% of both the surface and the mineral estates, or the 
+Applicant has provided the County with documented written consent of owner or 
+owners of any full or fractional interests in the mineral or surface estates to 
+develop the surface as proposed. 
+(9) Staff will conduct a site visit when the site is free of snow and c an be fully 
+assessed for all geo -hazards such as avalanche with rockslide risks, terrain, and 
+other site -specific conditions which may affect approval or disapproval of the 
+application.  
+(10) Applicant shall provide documentation of legal access to the property.  
+H. The County may refer the site development and/or building permit to any local, state, 
+or federal agency for the opportunity to review and comment.   
+(1) If there is no response from the agency within 30 days, Staff shall assume 
+approval from that agenc y and proceed with processing of the High Alpine  Site 
+Development Permit. 
+(2) If a response is received, Staff shall consider those comments in determining 
+whether the application should be approved, denied or approved with conditions. 
+(3) Staff shall refer any site de velopment and/or building permit involving 
+excavation or disturbance of materials in excess of five (5) cubic yards to the 
+Colorado Department of Public Health and Environment, unless waived by 
+that agency, and Staff may also require a materials management  plan and 
+other submissions as part of the permitting process.  
+I. The County shall approve and issue a High Alpine Site Development Permit upon the 
+Applicant demonstrating to the satisfaction of the County that all of the following 
+criteria have been met: 
+(1) The proposed construction shall comply with all provisions stated in this Section 
+and Section 24 of this Code 
+(2) The proposed development is not within the alpine tundra ecosystem. 
+(3) Potable water and sewage disposal will be available and will meet all app licable 
+provisions of this Code, and applicable federal and state laws and regulations. 
+(4) The proposed site development will not unreasonably impact significant wildlife 
+habitat, wetlands and riparian areas. 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 10 of 17 
+(5) The proposed site development will protect and minimize impacts to important 
+historic or environmental features of the site, such as historic buildings, town 
+sites, mining districts, cultural features (may require opinion from the Ouray 
+County Historical Society or other historic preservation organization), timber, 
+plants, wildlife, drainages, wetlands, geologic features, trails, etc. 
+(6) County designated t rails will be kept in their historic alignments to the greatest 
+extent possible.  Road and driveway crossings of trails shall be avoided wherever 
+possible.  (Note : For trail and/or road information, see Resolution 2014- 014, 
+Exhibit A, or any subsequent amendments) 
+(7) If the site development is proposed to be located within areas subject to the effects 
+of any hazard, including but not necessarily limited to the following: chemical,  
+geological, wildfire, flood,  avalanche/snow slide, rockfall, landslide, potentially 
+unstable slopes, slopes greater than 30 percent, alluvial fans, colluvial slopes, 
+talus slopes, Mancos shale, faults, expansive soils or ground subsidence , the 
+applicant shall provide evidence demonstrating that such hazards have been 
+avoided or otherwise mitigated.   The County, where reasonably necessary, may 
+require that recognized experts be employed and special studies be done and 
+submitted before a  site development permit can be issued affecting lands which 
+may contain the hazards listed above, and which may affect persons using the 
+land in question, or otherwise affected lands. The cost of employing such experts 
+and drafting such special reports shall be paid by the applicant. The County is not 
+required to accept the findings or conclusions of any experts or special reports.  
+(8) All applicable impact and other fees and assessments required by the development 
+permit process have been assessed and paid as required by this Code. 
+(9) If the proposed site development is located within areas where irrigation occurs or 
+may impact any irrigation structures, including but not limited to ditches and head 
+gates, the applicant shall demonstrate that any potential impacts ha ve been 
+adequately mitigated to allow historic water flow to continue. 
+(10) No new roads or driveways may be built without prior issuance of a Site 
+Development Permit by the County.  
+Note: New access routes that are not on the County Road Map are discouraged.  
+(11) All applicants for a site development permit shall be required to sign, notarize, 
+and record a County service statement  acknowledging the following: “ Ouray 
+County is a small, rural county, and  with the implications of such, including the 
+following: Ouray County does not have the resources (both financial and staffing) 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 11 of 17 
+of larger, more urban counties and communities, and cannot provide the same 
+level of services. Roads are primarily dirt and gravel, and may or may not be 
+paved in the future, depending on future resources of the County. Some properties 
+may not be accessible during the winter months except by snow cat, snowmobile, 
+skis or snowshoes. I should consider year-round travel conditions when planning 
+access to the property. Maintenance of roads, year-round, has limitations based on 
+available resources for staff and materials. Some County roads are not maintained 
+during the winter months, and private maintenance of county roads , including 
+snowplowing, is not permitted except by written agreement with  the Board of 
+County Commissioners , which permission may or may not be granted. My 
+property is located in an area that has historically been mined, and an active mine 
+may be currently operating, or may operate in the future. Operating mines may 
+require the use of equipment, including trucks that may affect the peace and quiet 
+of my property. By building a residential structure on my property, I assume for 
+myself, and other occupants of the property, all health risks of high mineral 
+content in soils and wate r as well as all risks inherent in the geology of the area, 
+including avalanche, rockfall, and slides of land. The soil and water on, beneath, 
+or near my property likely contain high mineral content which may, or may not, 
+pose health risks. I further acknowledge that ownership of property with tailings 
+and other remnants of historic mining activities may include financial and other 
+legal liability related to reclamation and clean -up of mine wastes that may affect 
+the environment. Emergency responses to medi cal s ituations, fires, and law 
+enforcement requests may be slower than in urban areas, and may be more limited 
+in remote parts of the County. Emergency responses may be totally unavailable 
+during winter months. The County does not provide water, wastewater, or 
+firefighting services. These services may or may not be readily available in  some 
+parts of the County and I have inquired about the specifics of these services, as 
+well as access to my property and understand how my property will be served.”  
+(12) No application may be granted unless Applicant either owns 100% interest in both 
+the surface and mineral estates of the parcel subject to the Site Development 
+Permit, or has provided written consent , which shall be signed, notarized and 
+recorded, of all other ownership interests in the property, including fractional 
+interests, and interests in the mineral estate, to the proposed development.  
+(13) Legal right of access to the property has been documented.  
+J. Upon Issuance of a S ite Development Permit the Land Use Staff Permitee shall, 
+within seven (7) days, submit the permit and County service statement to the Office 
+of the County Clerk and Recorder for recordation.  Any amendment to the approved 
+site development permit shall require additional County approval. 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 12 of 17 
+K. Upon demonstration that the permit is in compliance with all conditions and criteria, 
+as set forth above, the Site Development Permit shall be approved for a period of 
+three (3) years.  Renewal of the permit may be granted for additional successive three 
+(3) year terms pr oviding that the permit is in compliance with all conditions and 
+criteria, as set forth above. 
+13.12  BUILDING PERMITS: 
+A. Building permits shall be issued in accordance with procedures set forth in the 
+Uniform Building Code International Codes , as adopted by the County by 
+Resolution including any amendments thereto.   
+(1) No building or other structure subject to the International Codes  shall be 
+erected, occupied, moved or structurally altered until a permit therefor has been 
+issued by the County Building Ins pector, and no permit shall be issued unless the 
+proposal is in full accordance with this Code, except in those instances where a 
+lawful variance has been granted by the BOA.  
+(2) All applications for permits shall be accompanied by a drawing showing the 
+location of all  existing and proposed improvements, overhead and underground 
+utilities, irrigation and drainage ditches, and all easements  in relation to the lot 
+and indicating the height of all structures. No building permit shall be issued 
+within a PUD approved af ter the date of adoption of this Code without prior 
+notification to  the architectural control committee or other internal enforcement 
+body approved under Section 6 of this Code. 
+B. The Land Use Staff, where reasonably necessary, may require that recognized experts 
+be employed and special studies be done and submitted before a building permit is 
+issued affecting lands which may contain a geological, wildfire, flood or other hazard, 
+and which may affect persons using the land in question or  abutting or othe rwise 
+affected lands. The cost of employing such experts and drafting such special reports 
+shall be paid by the applicant. The Land Use Staff  is not required to accept the 
+findings or conclusions of any experts or special reports . No blasting shall occur for 
+any residential and/or commercial development within the unincorporated 
+County which require or may require building permit(s), without the submission 
+of an expert report to Land Use Staff under this Section and approval of such 
+report, including any reasonably necessary safety measure(s), in addition to such 
+other requirements under any and all other applicable law and regulations . 
+Land Use Staff has reasonable discretion  to request review by the County 
+Engineer, other experts and/or to deny authorization for blasting upon a finding 
+of alternative means of excavation or site preparation. 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 13 of 17 
+13.13 CERTIFICATE OF OCCUPANCY / COMPLETION: 
+No new building requiring a building permit shall hereinafter be occupied or  used 
+without a Certificate of Occupancy  or Certificate of Completion, which has been issued 
+by the County Building Inspector. Such certificate shall be issued within five (5) days 
+after the Inspector has been notified of the building’s completion, the County Building 
+Inspector determines a final inspection is justified,  and after a final inspection has 
+been made to determine conformance with the provisions of this Code.  
+13.14    RECORDS: 
+All building permits, application records, records of inspection, and certificate of 
+occupancy records, and any other app licable records shall be kept on file in the office 
+of the County Building Inspector and shall be available for inspection by the public . 
+Land Use Staff has discretion to utilize electronic record -keeping systems and,  
+require appropriate forms and record -keeping procedures during any permitting 
+process. 
+13.15  PLANNING COMMISSION: 
+A. Establishment: There is hereby established a planning commission which shall be 
+known as the Ouray County Planning Commission. All further references to the 
+Planning Commission in this Section shall be to the Commission. 
+B. Appointment of Members : In accordance with the bylaws of the  County Planning 
+Commission, the membership of the Commission shall be  up to five seven persons, 
+with an option for a possible 2 two alternate members, appointed by the BOCC 
+for staggered three -year terms. The members of the Commission shall be full -time 
+residents of the County.  The BOCC may also, at its discretion, appoint any associate 
+members to the Commission to serve in place of any member of the Comm ission 
+who may be absent, or who may have any financial or personal interest in any matter 
+brought before the Commission or who may be otherwise unable to function or serve 
+in his their appointed capacity as a member of the Commission. Any member may 
+resign from the Commission upon sending written notice of such resignation to the 
+Chair of the BOCC. 
+C. Powers and Duties: The Planning Commission shall have such powers and duties as 
+prescribed by law.  The Ouray County Planning Commission is an advisory body to 
+the Board of County Commissioners. 
+13.16 BOARD OF ADJUSTMENT: 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 14 of 17 
+A. Establishment: The Board of Adjustment consists of three members, plus two 
+alternate members, appointed by the BOCC.  All further references to the Board of 
+Adjustment in this Section shall be to the Board. 
+B. Members:   Not more than one of the members and one of the associate members 
+may also be members of the Planning Commission.   The members shall serve 
+without compensation for service on the Board.  Each member shall serve for three 
+(3) years, but may be reappointed for multiple terms.   The terms of the members 
+shall be staggered so that the term of one member will expire each year.  Any 
+member of the Board may be replaced or removed for cause by the BOCC  upon 
+written charges and after a public hearing.  Vacancies shall be filled for any vacancy 
+whether due to removal, resi gnation, death, or unexcused absence from three 
+consecutive meeting by the BOCC for the remainder of the term.  An alternate 
+member may take the place of a member on a tempor ary basis in the event that a 
+regular member is temporarily unable to act due to absence from the county, illness, 
+interest in a case before the Board, or for any other cause. 
+C. Meetings:  The Board shall be held at the call of the Chair as necessary to revi ew 
+and hear appeals and matters in its jurisdiction.  The Chair, or in his absence , the 
+acting chairman, may administer oaths and compel the attendance of witnesses at 
+hearings by application to the district court.  At each meeting, the Board shall keep 
+minutes, showing the votes of each member  or the absence of a member from 
+voting, and all other official actions taken. 
+D. Officers:  The Board shall select, at the beginning of each calendar year, a Chair 
+who shall preside at all meetings, a Vice -Chair, who shall preside at meetings in the 
+absence of the Chair, and a Secretary, who shall be responsible for the minutes of 
+the meetings and completeness of the hearings records.  The Secretary’s duties may 
+be delegated to a county employee. 
+13.17 VISUAL IMPACT REVIEW COMMITTEE: 
+A. Establishment:   The advisory visual impact review committee consists of up to  five 
+(5) members who shall be appointed by the BOCC.   All further references in this 
+Section to the Visual Impact Review Committee shall be to the Committee. 
+B. Membership:   Members of the Committee shall serve, without compensation, and 
+shall be appointed for three (3) year terms, provided that the terms shall be staggered 
+to ensure continuity on the Committee.   The BOCC may adjust the term of any 
+member when appointed for the purpose of ensuring continuity.  At least Up to three 
+(3) of the members shall be design professionals, either actively practicing or retired.  
+One member shall also be a member of the Planning Commission.  The Planning 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 15 of 17 
+Commission shall recomme nd one of its members to the BOCC for such 
+appointment. Members serve at the pleas ure of the BOCC.  Vacancies may be filled 
+as necessary and for such terms as provided above. 
+C. Officers:  The Committee shall, at its first regular meeting of each calendar yea r, 
+elect a Chair, a Vice- Chair, and a Secretary to serve for the calendar year.   The 
+Chair shall preside at meetings, and the Vice -Chair shall perform the duties of the 
+Chair in the absence of the Chair.  The Secretary shall keep minutes of the meetings 
+of the Committee. 
+D. Appeals to the Visual Impact Review Committee: 
+Appeals to the VIR C may be taken by any person aggrieved by the inability to 
+obtain a permit or by the decision of any administrative officer or agency based 
+upon or made in the course of the administration or enforcement of the provisions of 
+Section 9 of this Code. Appeals to the Board may also be taken by any officer, 
+department, board or bureau of the County affected by the grant or refusal of a 
+permit or by other decision of an administrati ve officer or agency based on or made 
+in the course of the administration or enfor cement of the provisions of Section 9. 
+Such appeal must be made within thirty (30) days after the occurrence of such 
+grievance or decision, which is the subject of the appeal .  Upon appeals, the Board 
+shall have the following powers: 
+1) Interpretation:  To hear and decide requests for interpretation of Ouray County 
+Visual Impact Regulations. 
+2) Variances:  Where, by reason of exceptional narrowness, shallowness, shape, or 
+other characteristic of a specific piece of property or by reason of exceptional 
+topographic conditions or by reason of exceptional wildlife and or wildfire 
+impact or other extraordinary and exceptional situation or condition impacting 
+such piece of property, the st rict application of Section 9 of this Code would 
+result in peculiar and exceptional practical difficulties to, or exceptional and 
+undue hardship upon the owner of such property, the VIRC shall recommend to 
+the Board of Adjustment  the disposition of an appe al, so as to relieve such 
+difficulties or hardship, based on criteria such as: 
+(a) Reflecting immediate natural forms in building mass. 
+(b) Use of natural materials to imitate the immediate surrounding area. 
+(c) Minimize long frontages on visible sides. 
+(d) Recessing and/or shading windows. 
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 16 of 17 
+(e) Multiple roof lines.  
+Provided that such relief may be granted without substantial detriment to the 
+public good and without substantially impairing the intent and purpose of 
+Section 9 of this Code. 
+E. Procedure:    A meeting for the purpos e of reviewing a request for interpretation of 
+Section 9 shall be held within thir ty (30) days of receipt of such request.   The 
+meetings of the Committee shall be published or publicly noticed at least two (2) 
+days in advance of the meeting.   Members of the public may be heard at any 
+meeting at the discretion of the Chair.   All comments or interpretations of the 
+Committee shall be provided in writing to the person requesting such interpretation, 
+as well as to the Board of Adjustment and shall be provided  within ten (10) days of 
+conclusion of the meeting to review the request for interpretation. 
+13.18  JOINT PLANNING BOARDS: 
+A. Establishment: There are hereby established a Ridgway Area Joint Planning Board 
+and an Ouray Area Joint Planning Board to act as recommending bodies to the 
+BOCC.  The Joint Planning Boards will review specific development applications 
+for properties located within the Ridgway Area of Influence, Ridgway Urban 
+Growth Management Area, the Ouray Area of Influence and the Ouray Urban 
+Growth Management Area.   
+B. Appointment of Members : The Ridgway Area Joint Planning Board a nd the Ouray 
+Area Joint Planning Board shall consist of a total of five (5) eight (8) members each.  
+Membership shall be as follows:  
+(1) The five (5) eight (8) members of the Ridgway Area Joint Planning Board shall 
+consist of three (3 ) five (5) of the five (5) seven (7)  members of the Ouray 
+County Planning Commission and two (2) three (3)  members selected by the 
+Ridgway Town Council from the Ridgway Town Planning Commission;  or if 
+no Ridgway Town  Planning Commissioners are available , Ridgway Town 
+Council shall select three  two (32) persons who reside within the limits of the 
+Town of Ridgway.  The BOCC shall approve or reject any or all of the names 
+submitted by the Ridgway Town Council.   
+(2) The five (5) eight (8) members of the Ouray Area Joint Planning Board shall 
+consist of three (3)  five (5) of the five (5) seven (7)  members of the Ouray 
+County Planning Commission and two (2) three (3) members selected by the 
+Ouray City Council f rom the City of Ouray Planning Commission;  or if no 
+City of Ouray Planning Commiss ioners are available, Ouray City Council  
+Rev. 102126 Draft 
+ 
+Section 13 – Administration and Enforcement 
+Page 17 of 17 
+shall select two (2) three (3) persons who reside within the limits of the City of 
+Ouray.  The BOCC shall approve or reject any or all of the names submitted by 
+the Ouray City Council.   
+(3) The terms of the Joint Planning Boards’ members shall be as follows: 
+(a) From the Ouray County Planning Commission, membership shall coincide 
+with their appointed terms.   
+(b) The members appointed from each municipality shall serve for staggered 
+three-year terms.  
+(4) The BOCC, at the request of the Ouray County Planning Commission or the 
+Town of Ridgway or City of Ouray, may also, at its discretion, appoint any 
+associate members to each of the Planning Boards to s erve in place of any 
+member of the Board who may be absent from the County, who is ill, who may 
+have any financial or personal interest in any matter brought before the 
+Commission or who may be otherwise unable to function or serve in his 
+appointed capacity as a member of the Planning Commission.  
+(5) Any member may resign from the Planning Boards upon sending written notice 
+of such resignation to the Chairman of the BOCC. 
+C. Powers and Duties : The Ridgway Area Joint Planning Board and the Ouray Area 
+Joint Planning Board will be considered County advisory boards.  The Joint 
+Planning Boards shall review those applications for development as outlined under 
+Section 3.9 of this Code.  The Joint Planning Boards will not have the authority to 
+adopt a master plan pursuant  to Section 30- 28-106(1) of the Colorado Revised 
+Statutes. 
+/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
+/22/16 /2 /1 /17 /i255 /5 /8 /16 /23 /7 /17 /i255 /2 /11 /20 /24 /6 /24 /8 /23 /6 /i255 /7 /8 /i255 /25 /16 /24 /10 /9 /24 /23 /19 /i255 /6 /11 /7 /26 /25 /1 /14 /3 /6
+/27 /i255/29/30 /31 /31 /32 /33 /30
+/34 /8 /25 /i255 /35 /8 /36 /23 /6 /8 /23 /i255/37 /38 /39 /38 /40/41/42 /40 /32 /42 /43 /44 /45 /43 /39/29/46 /47 /44 /48 /49 /i255/50/43 /51 /i255 /27 /52 /49 /i255 /53 /54/53 /55 /i255 /32 /51 /i255 /55 /56 /52 /54 /i255 /57 /58
+/47 /39 /56 /i255/58/32 /42 /59 /i255 /60 /32 /31 /51 /42/39 /61 /32 /62 /30 /i255 /37/29/43 /32 /31 /51 /42 /39 /61 /32 /62 /30/41/39 /48 /42 /32 /63 /43 /39 /45 /33 /39 /64 /46
+/60 /43 /56 /i255 /65/29/38 /39 /33 /33 /31 /i255 /66/44 /67 /51 /30/29/39 /48 /68 /51 /32 /67 /68 /64 /30 /68 /51 /48 /42 /30 /31 /45 /68 /30 /51 /65 /i255 /37/29/38 /39 /33 /33 /31/41/66 /44 /67 /51 /30/29/39 /48 /68 /51 /32 /67 /68 /64 /30 /68 /51 /48 /42 /30 /31 /45 /68 /30 /51 /46 /49 /i255 /69 /i255 /70 /i255 /37 /42 /67 /61 /33 /30 /62 /67 /68 /30 /71 /71/41/33 /29/32 /67 /62 /45 /43 /39 /29/46 /49 /i255/58/i255 /72 /67 /31 /51 /39 /42 /67 /39
+/37/29/73 /67 /31 /51 /39 /42 /67 /39 /27 /27 /41/33/29/32 /67 /62 /45 /43 /39/29/46
+/74 /30 /32 /42 /i255/58/42 /45 /i255 /60 /32 /31/51 /42 /39 /61 /32 /62 /30 /49
+/i255
+/58/67/59 /30 /i255 /75 /39 /33 /33 /31 /i255 /32/68 /61 /i255 /69 /39 /38 /62 /30 /i255 /70 /30 /62 /62 /30 /42 /i255 /62 /30 /51 /i255/29/30 /i255 /59 /68 /39 /66 /i255 /51 /44 /32 /51 /i255 /51 /44 /30 /i255 /60 /39 /48 /68 /51 /63 /i255 /67 /31 /i255 /43 /39 /68 /31 /67 /61 /30 /42 /67 /68 /33 /i255 /42 /30 /64 /67 /31 /67 /68 /33 /i255 /31 /30 /51 /76 /38 /32 /43 /59 /31 /i255 /32 /62 /39 /68 /33 /i255 /60 /39 /48 /68 /51 /63 /i255 /32 /68 /61/i255 /73 /42 /67 /64 /32 /51 /30
+/42 /39 /32 /61 /31 /49
+/32 /68 /61 /i255 /51 /44 /32 /51 /i255 /63 /39 /48 /49/i255 /32 /68 /61 /i255 /63 /39 /48 /42 /i255 /31 /51 /32 /77 /77 /49 /i255 /i255 /32 /42 /30 /i255 /73 /42 /30 /73 /32 /42 /67 /68 /33 /i255 /67 /68 /77 /39 /42/29/32 /51 /67 /39 /68 /i255 /51 /39 /i255 /38 /30 /i255 /31 /30 /68 /51 /i255 /51 /39 /i255 /51 /44 /30 /i255 /60 /39 /48 /68 /51 /63 /78 /31 /i255 /72 /62 /32 /68 /68 /67 /68 /33 /i255 /60 /39/29/29/67 /31 /31 /67 /39 /68 /i255 /39 /68 /i255 /51 /44 /67/31 /i255/29/32 /51 /51 /30 /42 /i255 /51 /44 /67 /31
+/29/39 /42 /68 /67 /68 /33 /45
+/57 /68 /61 /49 /i255 /79 /i255 /42 /30 /80 /48 /30 /31/51 /i255 /51 /44 /32 /51 /i255 /63 /39 /48 /i255 /73 /62 /30 /32 /31 /30 /i255 /67 /68 /43 /62 /48 /61 /30 /i255 /51 /44 /67 /31 /i255 /30/29/32 /67 /62 /i255 /39 /77 /i255/29/67/68 /30 /i255 /67 /68 /i255 /51 /44 /32 /51 /i255 /73 /32 /43 /59 /30 /51 /i255 /39 /77 /i255 /67 /68 /77 /39 /42/29/32 /51 /67 /39 /68 /45
+/i255
+/72 /62 /30 /32/31 /30 /i255 /43 /39 /68 /31 /67 /61 /30 /42 /i255 /42 /30 /64 /67 /31 /67 /68 /33 /i255 /51 /44 /30 /i255 /31 /30 /51 /76 /38 /32 /43 /59 /31 /i255 /32 /62 /39 /68 /33 /i255 /5 /8 /16 /23 /7 /17 /i255 /2 /8 /1 /9 /6 /i255 /66 /67 /51 /44 /67 /68 /49 /i255 /39 /42 /i255 /38 /39 /42 /61 /30 /42 /67 /68 /33 /49 /i255 /51 /44 /30 /i255 /81 /32 /62 /62 /30 /63 /49 /i255 /57 /62 /73 /67 /68 /30 /49
+/32 /68 /61 /i255/82 /39 /48 /51 /44 /i255 /82 /62 /39 /73 /30 /i255 /83 /39 /68 /30 /31 /i255 /51 /39 /i255/84 /85 /85 /i255 /86 /11 /11 /7 /i255/77 /42 /39/29/i255 /51 /44 /30 /i255 /73 /42 /39 /73 /30 /42 /51 /63 /i255 /62 /67 /68 /30 /31 /i255 /32 /62 /39 /68 /33 /i255 /51 /44 /30 /i255 /60 /39 /48 /68 /51 /63 /i255 /42 /39 /32 /61 /31 /49 /i255 /32 /68 /61 /i255 /51 /39 /i255/87 /85 /i255 /77 /30 /30 /51
+/77 /42 /39 /29/i255 /32 /62 /62 /i255 /39 /51 /44 /30 /42 /i255 /73 /42 /39 /73 /30 /42 /51 /63 /i255 /62 /67 /68 /30 /31 /45 /45 /i255
+/i255
+/72 /62 /30 /32/31 /30 /i255 /32 /62 /31 /39 /i255 /43 /39 /68 /31 /67 /61 /30 /42 /i255 /42 /30 /64 /67 /31 /67 /68 /33 /i255 /51 /44 /30 /i255 /31 /30 /51 /76 /38 /32 /43 /59 /31 /i255 /32 /62 /39 /68 /33 /i255 /88 /2 /24 /20 /1 /7 /11 /i255 /i255 /2 /8 /1 /9 /6 /i255 /66 /67 /51 /44 /67 /68 /49 /i255 /39 /42 /i255 /38 /39 /42 /61 /30 /42 /67 /68 /33 /49 /i255 /51 /44 /30 /i255 /81 /32 /62 /62 /30 /63 /49 /i255 /57 /62 /73 /67 /68/30 /49
+/32 /68 /61 /i255/82 /39 /48 /51 /44 /i255 /82 /62 /39 /73 /30 /i255 /83 /39 /68 /30 /31 /i255 /51 /39 /i255/87 /85 /i255 /77 /30 /30 /51 /i255/77 /42 /39/29/i255 /32 /62 /62 /i255 /73 /42 /39 /73 /30 /42 /51 /63 /i255 /62 /67 /68 /30 /31 /45
+/i255
+/47 /44 /32 /68 /59 /i255 /63 /39 /48 /45
+/i255
+/34 /8 /25 /i255 /35 /8 /36 /23 /6 /8/23
+/89 /11 /24 /10 /10 /17 /i255 /35 /8 /36 /23/6 /8 /23/i255/57 /42 /43 /44 /67 /51 /30 /43 /51 /48 /42 /30
+/71 /53 /54 /45 /90 /91 /90 /45 /55/55 /54 /52/i255/58/50/75 /79 /93 /94
+/38 /39 /38 /40/41/42 /40 /32 /42/43 /44 /45 /43 /39 /29
+/i255
+
+/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
+/22 /23 /24 /25 /i255 /26 /27 /28 /i255 /5/29/25 /28 /i255 /30 /28 /31 /32 /27 /32/29/24 /27
+/33 /i255/35/36 /37 /37 /38 /39 /36
+/40 /8 /41 /i255 /42 /11 /10 /10 /17 /i255 /43 /44 /45/44 /46 /36 /47 /47 /48 /49 /50 /33/51/48 /38 /52 /45 /45 /53 /54 /45/35/55 /56/36 /57 /58 /i255/59/54 /60 /i255 /33 /61 /58 /i255 /62 /63 /62/50 /i255 /38 /60 /i255 /33 /63 /64 /65 /66 /i255 /67 /68
+/69 /45 /64 /i255 /70/35/54 /38 /37 /60 /71 /45 /57 /38/47 /36/51/45 /72 /71 /38 /48 /54 /45 /53 /39 /45 /73 /70 /i255 /43/35/54 /38 /37 /60 /71 /45 /57 /38 /47 /36/51/45 /72 /71 /38 /48 /54 /45 /53 /39 /45 /73 /55
+/68/38 /71 /46 /58
+/74 /i255 /75 /72 /37 /60 /i255 /47 /36 /38 /71 /76 /36 /57 /i255 /60/52 /38 /60 /i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48 /i255 /78 /37 /i255 /54 /72 /71 /71 /36 /76 /60 /47 /48 /i255 /79 /45 /71 /46 /78 /76 /39 /i255 /45 /76 /i255 /54 /52 /38 /76 /39 /36 /37 /i255 /60 /45 /i255 /60 /52 /36 /i255 /80 /38 /76 /57 /i255 /81 /37 /36 /i255 /77 /45 /57 /36 /i255 /38 /76 /57 /i255 /60 /52 /38 /60 /i255 /38/i255 /82 /38 /54 /46 /36 /60 /i255 /78 /37
+/44 /36 /78 /76 /39 /i255 /57 /78 /37 /60 /71 /78 /44 /72 /60/36 /57 /i255 /60 /45/35/45 /71 /71 /45 /79 /i255 /83 /69 /52 /72 /71 /37 /57 /38 /48 /84 /i255 /82 /72 /60 /60 /78 /76 /39 /i255 /85 /45 /71 /60 /52 /i255 /78 /60 /36/35/37 /i255 /60 /45 /i255 /44 /36 /i255 /54 /45 /76 /37 /78 /57 /36 /71 /36 /57 /53 /i255 /i255/86/78/73 /36 /76 /i255 /60 /52 /36 /i255 /82 /71 /36 /37 /37 /72 /71 /36/i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48
+/37 /36 /36/35/37 /i255 /60 /45 /i255 /44 /36 /i255 /36/87 /36 /71 /60 /78 /76 /39 /i255 /47 /38 /60 /36 /47 /48 /i255 /45 /76 /i255 /60 /52 /36 /i255 /88 /38 /47 /47 /36 /48 /58 /i255 /89 /45 /72 /60 /52 /i255 /89 /47 /45 /82 /36 /i255 /38 /76 /57 /i255 /90 /47 /82 /78 /76 /36 /i255 /91 /45 /76 /36 /37 /i255 /38 /37 /i255 /37 /72 /78 /60 /38 /44 /47 /36 /i255 /85 /45 /71 /i255 /52 /78 /39 /52 /92 /57 /36/76 /37 /78 /60 /48 /58
+/38 /85 /85 /45 /71 /57 /38 /44 /47 /36 /i255 /52 /45 /72/37 /78 /76 /39 /i255 /60 /48 /82 /36 /i255 /82 /71 /45 /75 /36 /54 /60 /37 /58 /i255 /74 /i255 /44 /36 /47 /78 /36 /73 /36 /i255 /78 /60 /i255 /78 /37 /i255 /72 /71 /39 /36 /76 /60 /i255 /60 /52 /38 /60 /i255 /44 /72 /78 /47 /57 /78 /76 /39 /i255 /37 /36 /60 /i255 /44 /38 /54 /46 /37 /i255 /78 /76 /i255 /60 /52 /36 /37 /36 /i255 /91 /45 /76 /36 /37 /i255 /44 /36 /i255/71 /36 /73 /78 /37 /36 /57
+/60 /45 /i255 /33 /63 /63 /i255 /85 /36 /36 /60 /i255 /85 /71 /45/35/i255 /38 /47 /47 /i255 /76 /72/35/44 /36 /71 /36 /57 /i255 /77 /45 /72 /76 /60 /48 /i255 /93 /45 /38 /57 /i255 /71 /78 /39 /52 /60 /i255 /45 /85 /i255 /79 /38 /48 /37 /i255 /38 /76 /57 /i255 /49 /63 /i255 /85 /36 /36 /60 /i255 /85 /45 /71 /i255 /38 /47 /47 /i255 /45 /60 /52 /36 /71 /i255 /71 /45 /38 /57 /i255 /71 /78 /39 /52 /60 /i255 /45 /85 /i255 /79/38 /48 /37 /i255 /79 /52 /36 /60 /52 /36 /71
+/82 /72 /44 /47 /78 /54 /i255 /83 /78 /76 /54 /47 /72 /57 /78/76 /39 /i255 /37 /72 /44 /57 /78 /73 /78 /37 /78 /45 /76 /i255 /71 /45 /38 /57 /37 /i255 /57 /36 /57 /78 /54 /38 /60 /36 /57 /i255 /60 /45 /i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48 /84 /i255 /45 /71 /i255 /82 /71 /78 /73 /38 /60 /36 /53 /i255 /i255 /74 /i255 /37 /36 /36 /i255 /60 /52 /36 /37 /36 /i255/35/78/76 /78/35/72 /35/i255 /37 /36/60 /i255 /44 /38 /54 /46 /37 /i255 /38 /37
+/54 /71 /72 /54 /78 /38 /47 /i255 /60 /45 /i255 /82 /71 /36 /37/36 /71 /73 /78 /76 /39 /i255 /60 /52 /36 /i255 /52 /36 /38 /47 /60 /52 /58 /i255 /37 /38 /85 /36 /60 /48 /58 /i255 /79 /36 /47 /85 /38 /71 /36 /i255 /38 /76 /57 /i255 /94 /72 /38 /47 /78 /60 /48 /i255 /45 /85 /i255 /47 /78 /85 /36 /i255 /45 /85 /i255 /60 /52 /36 /i255 /71 /36 /37 /78 /57 /36 /76 /60 /37 /i255 /45 /85 /i255 /60 /52 /36 /37 /36 /i255 /91 /45 /76 /36/37 /i255 /38 /37 /i255 /79 /36 /47 /47 /i255 /38 /37
+/45 /60 /52 /36 /71 /i255 /60 /71 /38 /73 /36 /47 /36 /71 /37/i255 /45 /76 /i255 /60 /52 /36 /i255 /71 /45 /38 /57 /37 /i255 /78 /76 /i255 /60 /52 /36 /37 /36 /i255 /38 /71 /36 /38 /37 /53 /i255 /i255
+/56/52 /78 /47 /36 /i255/35/38 /76 /48 /i255 /38/71 /36 /i255 /82 /72 /91 /91 /47 /36 /57 /i255 /44 /48 /i255 /60 /52 /36 /i255 /77 /45 /72 /76 /60 /48 /95 /37 /i255 /71 /36 /54 /36 /76 /60 /i255 /91 /36 /38 /47 /i255 /78 /76 /i255 /82 /72 /71 /37 /72 /78 /76 /39 /i255 /60 /52 /36 /37 /36 /i255 /46 /78 /76 /57 /37 /i255 /45 /85 /i255 /82 /71 /45 /75 /36 /54 /60 /37 /i255 /45 /72 /60 /37 /78 /57 /36/i255 /45 /85 /i255 /60 /52 /36 /i255 /69 /45 /79 /76
+/45 /85 /i255 /93 /78 /57 /39 /79 /38 /48 /i255 /38 /76/57 /i255 /60 /52 /36 /i255 /77 /78 /60 /48 /i255 /45 /85 /i255/59/72 /71 /38 /48 /i255 /83 /79 /52 /78 /54 /52 /i255 /60 /52 /36 /i255 /80 /38 /76 /57 /i255 /81 /37 /36 /i255 /77 /45 /57 /36 /i255 /71 /78 /39 /52 /60 /47 /48 /i255 /82 /71 /78 /45 /71 /78 /60 /78 /91 /36 /37 /i255 /85 /45 /71 /i255 /37 /72 /54 /52 /i255 /57 /36 /73 /36 /47 /45 /82/35/36 /76 /60 /84 /i255 /60 /52 /36 /71 /36
+/78 /37 /i255 /76 /45 /i255 /94 /72 /36 /37 /60 /78 /45 /76/i255 /60 /52 /38 /60 /i255 /60 /52 /36 /i255 /78 /76 /85 /71 /38 /37 /60 /71 /72 /54 /60 /72 /71 /36 /i255 /57 /45 /36 /37 /i255 /76 /45 /60 /i255 /48 /36 /60 /i255 /36 /87 /78 /37 /60 /i255 /60 /45 /i255 /37 /72 /82 /82 /45 /71 /60 /i255 /60 /52 /36 /i255 /46 /78 /76 /57 /i255 /45 /85 /i255 /39 /71 /45 /79 /60 /52 /i255 /60 /52 /38 /60 /i255 /54 /45/35/36 /37/i255 /79 /78 /60 /52 /i255 /60 /52 /78 /37
+/46 /78 /76 /57 /i255 /45 /85 /i255 /57 /36 /73 /36 /47 /45/82/35/36 /76 /60 /53 /i255 /i255 /74 /76 /i255 /67 /47 /36 /38 /37 /38 /76 /60 /i255 /88 /38 /47 /47 /36 /48 /58 /i255 /44 /36 /85 /45 /71 /36 /i255 /82 /71 /45 /75 /36 /54 /60 /37 /i255 /37 /72 /54 /52 /i255 /38 /37 /i255 /60 /52 /78 /37 /i255 /54 /38 /76 /i255 /36 /73 /36 /76 /i255 /44 /36 /i255 /54 /45 /76 /37 /78 /57 /36 /71 /36 /57 /58 /i255/60 /52 /36 /i255 /77 /93 /92 /62 /61
+/71 /45 /38 /57 /i255 /37 /48 /37 /60 /36/35/i255 /76/36 /36 /57 /i255 /60 /45 /i255 /44 /36 /i255 /82 /38 /73 /36 /57 /i255 /83 /45 /71 /i255 /78 /76 /i255 /60 /52 /36 /i255 /78 /76 /60 /36 /71 /78/35/i255 /39 /71 /38 /57 /36 /57 /i255 /36 /73 /36 /71 /48 /i255 /45 /60 /52 /36 /71 /i255/35/45 /76 /60 /52 /84 /58 /i255 /38 /i255 /57 /36 /54 /36 /47 /36 /71 /38 /60 /78 /45 /76 /i255 /47 /38 /76 /36/i255 /76 /36 /36 /57 /37 /i255 /60 /45 /i255 /44 /36
+/78 /76 /37 /60 /38 /47 /47 /36 /57 /i255 /45 /76 /i255 /96/78 /39 /52 /79 /38 /48 /i255 /50 /62 /i255 /85 /45 /71 /i255 /79 /36 /37 /60 /i255 /44 /45 /72 /76 /57 /i255 /60 /71 /38 /85 /85 /78 /54 /i255 /36 /87 /78 /60 /78 /76 /39 /i255 /45 /76 /60 /45 /i255 /77 /93 /92 /62 /61 /77 /i255 /83 /60 /52 /78 /37 /i255 /78 /37 /i255 /38 /76 /i255 /38 /54 /54 /78 /57 /36 /76 /60 /i255 /79 /38 /78 /60 /78 /76 /39 /i255 /60/45 /i255 /52 /38 /82 /82 /36 /76
+/71 /78 /39 /52 /60 /i255 /76 /45 /79 /84 /58 /i255 /38 /76/57 /i255 /85 /78 /44 /36 /71 /i255 /45 /82 /60 /78 /54 /i255 /78 /76 /60 /36 /71 /76 /36 /60 /i255 /37 /36 /71 /73 /78 /54 /36 /i255 /76 /36 /36 /57 /37 /i255 /60 /45 /i255 /38 /73 /38 /78 /47 /38 /44 /47 /36 /i255 /60 /45 /i255 /38 /47 /47 /i255 /71 /36 /37 /78 /57 /36 /76 /60 /37 /53
+/69 /52 /38 /76 /46 /37 /i255 /78 /76 /i255 /38 /57 /73/38 /76 /54 /36 /i255 /85 /45 /71 /i255 /44 /71 /78 /76 /39 /78 /76 /39 /i255 /60 /52 /36 /37 /36 /i255 /54 /45/35/35/36 /76 /60 /37 /i255 /60 /45 /i255 /60 /52 /36 /i255 /38 /60 /60 /36 /76 /60 /78 /45 /76 /i255 /45 /85 /i255 /60 /52 /45 /37 /36 /i255 /78 /76 /73 /45 /47 /73 /36 /57 /53 /i255 /i255 /i255 /i255 /i255 /i255 /i255/i255
+/97 /45 /44 /i255 /98 /36 /47 /47 /48
+/67 /47 /36 /38 /37 /38 /76 /60 /i255 /88 /38 /47/47 /36 /48
+/99 /66 /63 /i255 /62 /66 /49 /i255 /61 /66 /63/63
+/i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255 /i255/i255 /i255 /i255
+
+/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
+/22 /11 /7 /i255 /23 /1 /14 /3
+/24 /i255/26/27 /28 /28 /29 /30 /27
+/31/11 /8 /2 /19 /11 /i255 /22 /11 /2 /11 /13/11 /7 /32 /6 /i255 /33 /30/26/28 /27 /34 /27/26/27 /35 /36 /28/37/30 /26/29 /36 /38 /39 /40 /41/26/42 /43/27 /44 /45 /i255/46/40 /35 /i255 /24 /47 /45 /i255 /48 /49/48 /50 /i255 /29 /35 /i255 /50 /51 /47 /48 /i255 /52 /53
+/54 /41 /51 /i255/26/40 /29 /28 /35 /34 /41 /44 /29 /38/27/37/41 /55 /34 /29 /56 /40 /41 /39 /30 /41 /57
+/58 /27 /29 /34 /i255/53/29 /34 /59 /45
+/60 /i255 /29/26/i255 /29 /i255 /38 /29 /61 /56 /i255 /44/41 /30 /i255 /34 /27 /28 /36 /44 /27 /62 /35 /i255 /63 /i255 /64 /29 /57 /27 /i255 /65 /55 /28 /35 /i255 /64 /27 /29 /34 /44 /i255 /66 /34 /41/26/i255 /53/36/59 /27 /i255 /35 /64 /29 /35 /i255 /56 /41 /55 /i255 /63 /i255 /64 /27 /i255 /64 /29 /44 /i255 /29 /i255 /44 /36 /28 /40 /55 /28 /28 /36 /41 /62 /i255 /34 /27 /30 /29 /34 /44 /36 /62 /30 /i255 /34 /41 /29 /44 /i255 /28 /27 /35 /i255 /67 /29 /40 /59 /28/39 /i255/68 /69 /70 /71 /72 /72 /73 /74 /i255 /68
+/76 /77 /78 /72 /69 /i255 /72 /79 /80 /70 /i255 /81 /77 /i255 /82 /70/70 /i255 /83 /84 /84 /85 /i255 /77 /86 /i255 /71 /72 /72 /i255 /87 /77 /78 /88 /81 /73 /i255 /89 /77 /71 /69 /i255 /90 /79 /91 /92 /81 /82 /i255 /77 /93 /i255 /76 /71 /73 /i255 /93 /77 /90 /i255 /81 /92 /70 /i255 /94 /71 /72 /72 /70 /73 /74 /i255 /95 /72 /96 /79 /88 /70 /i255 /71 /88 /69 /i255 /97 /77 /78 /81 /92 /i255 /97 /72 /77 /96 /70 /i255 /98 /77 /88 /70 /82 /i255 /71 /88 /69/i255 /99 /84 /85 /i255/100/79/88 /79/100/78 /100
+/77 /86 /i255 /101 /90 /79 /102 /71 /81 /70 /i255 /89 /77 /71 /69/82 /i255 /71 /88 /69 /i255 /71 /72 /72 /i255 /77 /81 /92 /70 /90 /i255 /96 /90 /77 /96 /70 /90 /81 /73 /i255 /72 /79 /88 /70 /82 /103
+/104 /92 /71 /88 /80 /82 /i255 /93 /77 /90 /i255 /73 /77 /78 /90/i255 /105 /77 /88 /82 /79 /69 /70 /90 /71 /106 /77 /88 /74
+/107 /70 /77 /90 /91 /70 /i255 /97 /70 /90 /70/100/70 /106 /82 /i255
+/108 /84 /109 /110 /i255 /111 /72 /69 /i255 /89 /70 /72 /71 /73/i255 /89 /69
+
+/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
+/22/16 /2 /1 /17 /i255 /5 /8 /16 /23 /7 /17 /i255 /24 /11 /7 /25 /1 /14 /3 /i255 /5 /8 /23 /6 /26 /9 /11 /2 /1 /7 /26 /8 /23 /6 /i255 /8 /27 /27 /i255 /5 /8 /16 /23 /7 /17 /i255 /1 /23 /9 /i255 /28 /2 /26 /20 /1 /7 /11 /i255 /29 /8 /1 /9 /6
+/30 /i255/32/33 /34 /34 /35 /36 /33
+/13/25 /8 /19 /19 /6 /i255/37/38 /26 /7 /11/13/8 /16 /23 /7 /1 /26 /23 /20 /11 /23 /7 /16 /2 /11 /6 /18 /23 /11 /7 /i255 /39/32/40 /41 /36 /36 /34/42/43 /44 /45 /46 /33/32/41 /47 /48 /46 /35 /45 /48 /49 /33 /48 /46 /47 /50 /33 /34 /51 /48 /33 /46 /52 /53/33 /54 /55 /i255/56/57 /46 /i255 /30 /58/55 /i255 /59 /60 /59 /61 /i255 /35 /46 /i255 /62 /63 /59 /58/64 /65
+/66 /41 /63 /i255/65/35 /50 /67 /i255 /68 /35 /34 /46 /50/41 /54 /35 /69 /33 /i255 /39/32/57 /35 /34 /46 /50 /41 /54 /35 /69 /33/42/41 /47 /50 /35 /70 /57 /41 /51 /36 /41 /49 /52
+/71/72 /73 /74 /75
+/i255
+/77 /78 /79 /72 /80 /79 /i255 /81 /82 /73 /83 /72 /73 /84/i255 /85 /86 /87 /80 /i255 /79/88/72 /87 /78 /i255 /85 /82 /i255 /85 /86 /79 /i255 /77 /78 /72 /89 /89 /87 /89 /90 /i255 /91 /82/88/88/87 /80 /80 /87 /82 /89 /i255 /72 /89 /84 /i255 /92 /93 /91 /91 /i255 /72 /80 /i255 /85 /86 /79 /94 /i255 /95 /82 /89 /80 /87 /84 /79 /73 /i255 /85 /86 /79 /i255 /73 /79 /96 /87 /79 /83 /i255 /82 /81 /i255 /79 /97 /87 /80 /98 /89 /90/i255 /91 /82 /99 /89 /85 /94 /i255 /91 /82 /84 /79
+/73 /79 /90 /99 /78 /72 /98 /82 /89 /80 /100
+/i255
+/101 /i255 /83 /72 /80 /i255 /80 /86 /82 /95 /74 /79 /84 /i255 /85/82 /i255 /78 /79 /72 /73 /89 /i255 /85 /86 /79 /73 /79 /i255 /83 /79 /73 /79 /i255 /89 /82 /i255 /91 /82 /99 /89 /85 /94 /i255 /80 /79 /85 /102 /72 /95 /74 /80 /i255 /73 /79 /103 /99 /87 /73 /79 /84 /i255 /72 /78 /82 /89 /90 /i255 /104 /73 /87 /96 /72 /85 /79 /i255 /73 /82 /72 /84 /80 /75 /i255 /72 /80 /i255 /83 /79 /78 /78 /i255 /72 /80 /i255 /85 /86 /79 /i255/88/87/89 /87 /88/72 /78 /i255 /80 /79 /85 /102 /72 /95 /74 /80
+/72 /78 /82 /89 /90 /i255 /91 /82 /99 /89 /85 /94 /i255 /105/82 /72 /84 /80 /i255 /83 /86 /79 /73 /79 /i255 /85 /86 /79 /i255 /106 /87 /80 /99 /72 /78 /i255 /101/88/104 /72 /95 /85 /i255 /105 /79 /90 /99 /78 /72 /98 /82 /89 /80 /i255 /84 /82 /89 /107 /85 /i255 /72 /104 /104 /78 /94 /100
+/i255
+/101 /89 /i255 /85 /86 /79 /i255 /108 /78 /104 /87 /89 /79 /i255 /72 /89/84 /i255 /106 /72 /78 /78 /79 /94 /i255 /109 /82 /89 /79 /80 /75 /i255 /101 /i255 /80 /85 /73 /82 /89 /90 /78 /94 /i255 /73 /79 /103 /99 /79 /80 /85 /i255 /110 /111 /111 /107 /i255 /80 /79 /85 /102 /72 /95 /74 /80 /i255 /82 /112 /i255 /85 /86 /79 /i255 /91 /82 /99 /89 /85 /94 /i255 /105 /82 /72 /84 /i255 /73 /87 /90 /86 /85 /80 /i255 /82 /81 /i255 /83 /72 /94 /75 /i255/72 /80 /i255 /83 /79/78 /78 /i255 /72 /80 /i255 /104 /73 /87 /96 /72 /85 /79
+/73 /82 /72 /84 /80 /i255 /80 /79 /73 /96 /87 /89 /90 /i255 /113/i255 /82 /73 /i255/88/82 /73 /79 /i255 /104 /72 /73 /95 /79 /78 /80 /75 /i255 /83 /86 /79 /73 /79 /i255 /85 /86 /79 /i255 /104 /72 /73 /95 /79 /78 /i255 /80 /87 /114 /79 /i255 /115 /116 /i255 /72 /95 /73 /79 /80 /i255 /82 /73 /i255/88/82 /73 /79 /117 /i255 /72 /78 /78 /82 /83 /80 /100 /i255 /118 /82 /73 /i255 /119 /82 /99 /85 /86 /i255 /119 /78 /82 /104 /79 /i255 /109 /82 /89 /79 /i255 /104 /72/73 /95 /79 /78 /80 /75 /i255 /101 /i255 /83 /82 /99 /78 /84
+/73 /79 /103 /99 /79 /80 /85 /i255 /85 /86 /79 /i255 /80 /72 /88/79 /i255 /83 /86 /79 /73 /79 /i255 /104 /82 /80 /80 /87 /102 /78 /79 /i255 /72 /89 /84 /i255 /72 /85 /i255 /78 /79 /72 /80 /85 /i255 /120 /111 /107 /i255/88/87/89 /87/88/99 /88/i255 /73 /79 /90 /72 /73 /84 /78 /79 /80 /80 /i255 /82 /81 /i255 /85 /86 /79 /i255 /104 /72 /73 /95 /79 /78 /i255 /80 /87 /114 /79 /100
+/i255
+/121 /86 /79 /i255 /89 /79 /83 /i255 /80 /79 /85 /102 /72 /95/74 /80 /i255 /82 /112 /i255 /104 /73 /87 /96 /72 /85 /79 /i255 /73 /82 /72 /84 /80 /i255 /87 /80 /i255 /72 /89 /i255 /72 /79 /80 /85 /86 /79 /98 /95 /75 /i255 /72 /80 /i255 /83 /79 /78 /78 /i255 /72 /80 /i255 /86 /79 /72 /78 /85 /86 /75 /i255 /80 /72 /81 /79 /85 /94 /i255 /72 /89 /84 /i255 /83 /79 /78 /81 /72 /73 /79 /75 /i255 /87 /80 /80 /99 /79 /100 /i255 /122 /72 /96 /87 /89 /90 /i255 /89 /82/i255 /80 /79 /85 /102 /72 /95 /74
+/73 /79 /103 /99 /87 /73 /79/88/79 /89 /85 /i255 /104 /99/85 /80 /i255 /73 /79 /80 /87 /84 /79 /89 /95 /79 /80 /i255 /72 /85 /i255 /73 /87 /80 /74 /i255 /82 /81 /i255 /96 /79 /86 /87 /95 /78 /79 /i255 /72 /95 /95 /87 /84 /79 /89 /85 /80 /75 /i255 /72 /80 /i255 /83 /79 /78 /78 /i255 /72 /80 /i255 /89 /82 /87 /80 /79 /75 /i255 /84 /99 /80 /85 /i255 /72 /89 /84 /i255 /79 /73 /82 /80 /87 /82 /89 /i255 /87 /80 /80 /99 /79 /80 /100
+/i255
+/101 /i255 /72 /104 /104 /73 /79 /95 /87 /72 /85 /79 /i255 /85 /86 /79/i255 /81 /72 /95 /85 /i255 /85 /86 /72 /85 /i255 /85 /86 /79 /i255 /92 /93 /91 /91 /i255 /73 /79 /103 /99 /87 /73 /79 /84 /i255 /110 /111 /111 /107 /i255 /80 /79 /85 /102 /72 /95 /74 /80 /i255 /82 /112 /i255 /85 /86 /79 /i255 /73 /87 /90 /86 /85 /i255 /82 /81 /i255 /83 /72 /94 /i255 /82 /81 /i255 /91 /82 /99 /89 /85 /94 /i255 /105 /82 /72 /84 /80 /i255 /87 /89 /i255 /73 /79 /95 /79 /89/85 /i255 /72 /104 /104 /78 /87 /95 /72 /98 /82 /89 /80
+/87 /89 /i255 /79 /97 /95 /79 /80 /80 /i255 /82 /81 /i255 /85 /86 /79/i255 /96 /87 /80 /99 /72 /78 /i255 /87/88/104 /72 /95 /85 /i255 /73 /79 /90 /99 /78 /72 /98 /82 /89 /80 /i255 /84 /99 /79 /i255 /85 /82 /i255 /95 /82 /89 /95 /79 /73 /89 /i255 /87 /89 /i255/88/72 /87 /89 /85 /72 /87 /89 /87 /89 /90 /i255 /85 /86 /79 /i255 /73 /99 /73 /72 /78 /i255 /95 /86 /72 /73 /72 /95 /85 /79 /73 /i255 /82 /81 /i255 /85 /86 /79 /i255 /72 /73 /79 /72 /100
+/i255
+/121 /86 /72 /89 /74 /i255 /94 /82 /99 /i255 /81 /82 /73 /i255 /94/82 /99 /73 /i255 /95 /82 /89 /80 /87 /84 /79 /73 /72 /98 /82 /89 /i255 /82 /81 /i255 /85 /86 /87 /80 /i255 /73 /79 /95 /82/88/88/79 /89 /84 /72 /98 /82 /89 /100
+/i255
+/71/87/95 /86 /72 /79 /78 /i255 /92 /82 /90 /90 /80
+/123 /72 /114 /94 /i255 /124 /82 /90 /i255 /105 /72 /89 /95 /86/i255 /122 /93 /108 /i255 /77 /73 /79 /80 /87 /84 /79 /89 /85
+/i255
+/i255
+------ ---- -
+
+/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
+/22 /11 /7 /i255 /23 /1 /14 /3 /i255 /5 /8 /24 /6 /25 /9 /11 /2 /1 /7 /25 /8 /24 /6
+/26 /i255/28/29 /30 /30 /31 /32 /29
+/33 /i255 /34 /i255 /35 /36 /37 /38 /32 /29 /39 /37 /40 /29 /41/41/42/32 /28/31 /37 /39 /43 /44 /45/28/46 /47/29 /38 /48 /i255/49/44 /50 /i255 /26 /51 /48 /i255 /52 /53/52 /54 /i255 /31 /50 /i255 /41 /55 /52 /56 /i255 /57 /58
+/59 /45 /55 /i255/28/44 /31 /30 /50 /36 /45 /38 /31 /39/29/42/45 /60 /36 /31 /61 /44 /45 /43 /32 /45 /62
+/58/31 /36 /63 /48 /i255
+/57 /29 /36 /i255 /45 /60 /36 /i255 /44 /45 /40 /62/29 /36 /30 /31 /50 /37 /45 /40 /48 /i255 /64 /i255 /65 /45 /60 /39 /38 /i255 /31 /30 /63 /i255 /50 /66 /29 /i255 /57 /39 /31 /40 /i255 /67 /45/28/28/37 /30 /30 /37 /45 /40 /i255 /50 /45 /i255 /44 /45 /40 /30 /37 /38 /29 /36 /i255 /36 /29 /62 /37 /29 /65 /37 /40 /32 /i255 /50 /66 /29 /i255 /29 /68 /37 /30 /50 /37 /40 /32 /i255 /30 /29 /50 /69 /31 /44 /63 /30 /i255 /44 /60 /36 /36 /29 /40 /50 /39 /61 /i255 /37/40 /i255 /50 /66 /29
+/67 /45 /60 /40 /50 /61 /i255 /36 /29 /32 /60 /39/31 /50 /37 /45 /40 /30 /43 /i255 /i255/49/40 /i255 /39 /31 /36 /32 /29 /36 /i255 /70 /31 /36 /44 /29 /39 /30 /48 /i255 /50 /66 /29 /i255 /29 /68 /37 /30 /50 /37 /40 /32 /i255 /52 /71 /72 /i255 /30 /29 /50 /69 /31 /44 /63 /30 /i255 /65 /45 /60 /39 /38 /i255 /69 /29 /i255 /44 /66 /31 /40 /32 /29 /38 /i255 /50 /45 /i255 /71 /53 /72 /i255 /31 /40 /38 /i255 /50 /66 /31 /50 /i255 /31 /i255/28/37/40 /37/28/60 /28 /i255 /30 /29 /50 /i255 /69 /31 /44 /63 /i255 /45 /40
+/39 /31 /36 /32 /29 /36 /i255 /70 /31 /36 /44 /29 /39/30 /i255 /45 /40 /i255 /70 /36 /37 /62 /31 /50 /29 /i255 /73 /i255 /70 /60 /69 /39 /37 /44 /i255 /36 /45 /31 /38 /30 /i255 /69 /29 /i255 /30 /29 /50 /i255 /69 /31 /44 /63 /i255 /26 /53 /53 /72 /43 /i255 /64 /i255 /36 /29 /31 /39 /37 /74 /29 /i255 /50 /66 /31 /50 /i255 /60 /30 /37 /40 /32 /i255 /50 /66 /29 /30 /29 /i255 /70 /31 /36 /31/28/29 /50 /29 /36 /30 /i255 /65 /45 /60 /39 /38 /i255 /69 /29 /i255 /70 /36 /45 /69 /39/29/28/31 /50 /37 /44 /i255 /45 /40
+/30/28/31 /39 /39 /29 /36 /i255 /70 /31 /36 /44 /29/39 /30 /48 /i255 /69 /60 /50 /i255 /64 /i255 /69 /29 /39 /37 /29 /62 /29 /i255 /31 /i255 /39 /31 /36 /32 /29 /36 /i255 /70 /31 /36 /44 /29 /39 /i255 /75 /52 /53 /i255 /31 /44 /36 /29 /30 /i255 /45 /36 /i255/28/45 /36 /29 /76 /i255 /30 /66 /45 /60 /39 /38 /i255 /69 /29 /i255 /62 /37 /29 /65 /29 /38 /i255 /38 /37 /77 /77 /29 /36 /29 /40 /50 /39 /61 /43 /i255 /i255 /59 /66 /31 /40 /63 /i255 /61 /45 /60 /i255 /77 /45 /36 /i255 /61 /45/60 /36
+/44 /45 /40 /30 /37 /38 /29 /36 /31 /50 /37 /45 /40/i255 /45 /40 /i255 /50 /66 /37 /30 /i255/28/31 /50 /50 /29 /36 /43
+/78 /45 /69 /39 /29 /i255 /79 /29 /39 /39 /29 /36
+
+/0/1 /2 /3 /i255 /5 /1 /6 /7 /2 /8 /9 /1 /10 /11 /i255 /12/13/14 /1 /6 /7 /2 /8 /9 /1 /10 /11/15/8 /16 /2 /1 /17 /14 /8 /18 /19 /8 /20 /21
+/22 /11 /7 /23 /1 /14 /3 /6
+/24 /i255/26/27 /28 /28 /29 /30 /27
+/31/11 /32 /9 /17 /i255 /33 /1 /2 /2 /34 /6 /i255/35 /36 /27 /37 /38 /39 /40 /29 /41 /41 /42 /28 /43 /44 /43/45/39 /29 /40 /46 /46 /47 /48 /46/26/49 /50/27 /38 /51 /i255/52/48 /53 /i255 /24 /54 /51 /i255 /44 /55/44 /56 /i255 /29 /53 /i255 /56 /57 /44 /58 /i255 /59 /60
+/61 /46 /57 /i255/26/48 /29 /28 /53 /41 /46 /38 /29 /62/27/45/46 /63 /41 /29 /39 /48 /46 /47 /30 /46 /64
+/60/39 /i255 /40 /63 /28 /65 /29 /37 /38/i255 /29 /37 /38 /i255 /66 /i255 /36 /46 /63 /62 /38 /i255 /62 /42 /67 /27 /i255 /53 /46 /i255 /28 /27 /27 /i255 /24 /55 /55 /68 /i255 /46 /69 /69 /i255 /29 /62 /62 /i255 /70 /46 /63 /37 /53 /39 /i255 /71 /46 /29 /38 /i255 /41 /42 /30 /40 /53 /28 /i255 /46 /69 /i255 /36 /29 /39 /i255 /69 /46 /41 /i255 /53 /40 /27 /i255 /72 /29 /62 /62 /27 /39 /51 /i255 /73 /62 /74 /42 /37 /27 /i255 /29 /37 /38 /i255 /75 /46 /63 /53 /40 /i255 /75 /62 /46 /74 /27 /i255 /76 /46 /37 /27 /28 /i255 /29/37 /38 /i255 /77 /55 /68
+/26/42/37 /42/26/63 /26/i255 /46 /69 /69/i255 /59 /41 /42 /64 /29 /53 /27 /i255 /71 /46 /29 /38 /28 /i255 /29 /37 /38 /i255 /29 /62 /62 /i255 /46 /53 /40 /27 /41 /i255 /74 /41 /46 /74 /27 /41 /53 /39 /i255 /62 /42 /37 /27 /28 /47
+/50/27 /37 /38 /39 /i255 /29 /37 /38 /i255/78 /29 /37 /i255 /79 /29 /41 /41 /42 /28
+/43 /55 /54 /24 /i255/52/62/38 /i255 /71 /27/62 /29 /39 /i255 /71 /38
+/71 /42 /38 /30 /36 /29 /39 /51 /i255 /70 /52
+/58 /44 /54 /80 /44

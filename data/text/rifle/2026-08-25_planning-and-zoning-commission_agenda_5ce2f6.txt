@@ -1,0 +1,1848 @@
+PLANNING & ZONING COMMISSION  
+REGULAR MEETING AGENDA 
+ 
+ 
+ 
+ 
+August 25, 2026 
+7:00 PM 
+202 Railroad Avenue, Rifle, CO 81650 
+ 
+ 
+ 
+Meeting Type / Acting Body 
+  
+6:00 PM - Workshop Meeting 
+  
+  Discussion and Review  
+    
+  a. Discussion regarding Bulk Resource Consumer CUP 
+      
+  b. Discussion regarding Amendment to the Rifle Municipal Code for Site Plan 
+Requirements 
+      
+  c. Discussion regarding possible amendment to Rifle Municipal Code for Warehouse and 
+Distribution 
+      
+7:00 PM - Regular Meeting 
+  
+1. Call to Order   
+    
+2. Roll Call  
+    
+3. Pledge of Allegiance  
+    
+4. Consent Agenda  
+    
+  4.a. Discussion and possible action regarding revised May 2026 Planning Commission 
+Meeting Minutes. 
+      
+  4.b. Discussion and possible action regarding July 2026 Planning Commission Meeting 
+Minutes 
+      
+5. Action, if any, on Workshop Items   
+    
+6. Presentation  
+    
+7. Public Hearing  
+    
+  7.a. Discussion and possible action regarding Conditional Use Permit for 799 Buckhorn 
+      
+  7.b. Discussion and possible action regarding Variance for 758 Railroad Ave 
+Page 1 of 46
+Planning & Zoning Commission 
+August 25, 2026 
+Page 2 of 2 
+ 
+      
+  7.c. Discussion and possible action regarding the Minor Subdivision of 1317 E 17th St - 
+Sketch Plan 
+      
+8. Regular Agenda  
+    
+9. Administrative Reports  
+    
+10. Comments from Chair and Commission  
+    
+11. Adjournment  
+    
+ 
+ 
+The order and times of agenda items listed above are approximate and intended as a guideline for the Planning Commissioners 
+ACCESSIBILITY STATEMENT 
+The City of Rifle values full inclusion and access for all of our facilities, programs, activities and services. We are pleased to 
+provide meaningful accommodations to comply with the Americans with Disabilities Act (ADA) and reasonably provide 
+translation, interpretation, modifications, accommodations, alternative formats, auxiliary aids, and services. To request 
+special assistance, call Community Development at 970-665-6490 or email our ADA Team at ADATeam@rifleco.org.  Please 
+allow 48 hours for your requests to be met. 
+La Ciudad de Rifle valora la plena inclusión y acceso para todas nuestras instalaciones, programas, actividades y servicios. 
+Nos complace proporcionar alojamientos significativos para cumplir con la Ley de Estados Unidos con Discapacidades (ADA) 
+y proporcionar razonablemente traducciónes, interpretaciónes, modificaciones, adaptaciones, formatos alternativos, ayudas 
+auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo 
+electrónico a el equipo ADA a ADATeam@rifleco.org. Por favor, permita 48 horas para que se atiendan sus solicitudes. 
+Page 2 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #a. 
+  
+Agenda Item Name: 
+Discussion regarding Bulk Resource Consumer CUP 
+  
+Presenter: 
+Zach Higgins, Community Development Director 
+  
+Item Description: 
+Discussion regarding BRC CUP Code Language Amendment  
+  
+Recommended Action: 
+Provide General Direction 
+  
+Fiscal Impact:  
+  
+Operational Impact:  
+  
+Prior Board Motions:  
+  
+Background Information: 
+See attached memo. 
+  
+Executive Summary:  
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. City_of_Rifle_BRC_CUP_Memo 
+ 
+Page 3 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+    
+Workshop Memorandum 
+Recommended Conditional Use Permit Framework for Data Centers / Bulk Resource 
+Consumers 
+TO: Planning Commission 
+FROM: Community Development Department 
+DATE: August 21, 2026 
+RE: Draft Bulk Resource Consumer / Data Center Conditional 
+Use Permit Standards 
+ 
+Recommended staff direction 
+Proceed with drafting a Conditional Use Permit pathway for data centers and other bulk resource 
+consumers, limited to appropriate industrial districts, with mandatory utility, water, noise, fiscal, emergency-
+response, thermal, housing, and decommissioning analyses. The CUP should reserve discretion to deny 
+projects that cannot prove net public benefit, infrastructure self-sufficiency, and compatibility with 
+surrounding uses. 
+ 
+Background and policy issue 
+Data centers can provide substantial private investment, construction activity, property tax base, franchise 
+revenue potential, and fiber/telecommunications infrastructure. They can also create unusual public impacts 
+because they may require high electric capacity, cooling water, backup power systems, constant mechanical 
+operation, major utility upgrades, intensive security, and specialized emergency response. 
+A dedicated CUP structure gives the City a clearer basis to require studies, impose conditions, protect public 
+infrastructure and nearby land uses, and deny applications that do not demonstrate net public benefit. 
+Page 4 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+ 
+ 
+ 
+ 
+Research basis supporting a CUP approach 
+Reference Key provisions / findings Relevance for Rifle 
+Logan County, Colorado 
+Requires a Special Use Permit before construction of 
+data center facilities and requires site plans, water supply 
+information, road-use agreements, emergency 
+operations planning, decommissioning planning, and 
+mitigation for public service/capital facility impacts. 
+Supports a permit-before-construction 
+model and a complete technical 
+submittal package. 
+Hayden, Colorado 
+Requires electric utility capacity verification, an energy 
+supply plan, public water/sewer service, closed-loop or 
+recycled-water cooling unless otherwise approved 
+through the CUP, water demand analysis, applicant-
+funded utility upgrades, noise study, and thermal impact 
+mitigation. 
+Closest small-town Colorado model for 
+a CUP-based data center standard. 
+Weld County, Colorado 
+Requires proof of water, electricity-provider “will serve” 
+letter, compatibility documentation, and a C-scale 65 
+dB(C) property-boundary noise limit for data centers. 
+Supports requiring both utility proof and 
+low-frequency noise regulation. 
+Longmont, Colorado 
+Approved a 2026 approach that bans hyperscale 
+facilities of 100 MW or more while creating use-specific 
+standards for smaller light-industrial data centers 
+addressing energy efficiency, water, cooling, noise, and 
+lighting. 
+Supports tiering facilities by load and 
+distinguishing smaller facilities from 
+hyperscale impacts. 
+Albemarle County, Virginia 
+Requires Special Use Permit review for larger data 
+centers, public water and sewer, closed-loop or recycled 
+water cooling if water cooling is used, disclosure of 
+power supply, generator testing limits, and setbacks from 
+lot lines and rural areas. 
+Useful peer model for public utility, 
+cooling, generator, and setback 
+standards. 
+National League of Cities 
+Identifies local concerns around increased water and 
+energy use, greenhouse gas emissions, power-grid 
+strain, ratepayer exposure, noise, and light pollution. 
+Supports a broad municipal impact 
+review rather than a narrow zoning 
+review only. 
+Research sources are listed at the end of this memo. Jurisdictional examples are used as policy references only; legal counsel should 
+tailor any ordinance to Rifle’s home rule authority, utility context, and adopted land use procedures. 
+Page 5 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Recommended code direction 
+1. Define the use clearly 
+Create a specific “Data Center” definition and also preserve a broader “Bulk Resource Consumer” category for 
+high-impact users that exceed defined electric, water, waste, or pollution thresholds. A broader umbrella term 
+may be helpful because future high-resource uses may not call themselves data centers but may create similar 
+infrastructure, utility, and nuisance issues. 
+Recommended drafting note 
+Replace the phrase “more than 1 MW a day” with “projected or contracted peak electrical demand of 1 MW 
+or more” or another threshold. MW is a capacity/load measurement, not a daily energy-use measurement. 
+Legal counsel and the serving utility should review the final threshold. 
+ 
+A refined definition could read: 
+“Bulk Resource Consumer” means a commercial, industrial, or institutional use that, based on projected or 
+contracted demand, is expected to consume more than a defined threshold of electric capacity, water, or other 
+municipal or environmental resources; requires substantial utility or grid interconnection upgrades; or produces 
+waste, heat, air emissions, noise, or discharges requiring state or federal permit review. A Data Center is a subset of 
+Bulk Resource Consumer when the primary use is the housing of information technology or telecommunications 
+equipment used to process, transfer, or store digital information, including associated cooling, mechanical, security, 
+office, backup power, and utility infrastructure.” 
+2. Require CUP review where the underlying zoning allows the use 
+Where allowed by the underlying zoning, data centers and bulk resource consumers should require approval of 
+a Conditional Use Permit under the City’s existing conditional use process. The CUP process should be used to 
+evaluate suitability, compatibility, infrastructure self-sufficiency, public service impacts, and enforceable 
+operating conditions. 
+3. Require the studies and analyses as part of a complete application 
+The following studies should be required before an application is deemed complete. This ensures the Planning 
+Commission and City Council are not asked to decide a project before the basic operational impacts are 
+understood. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Required study Description and expected deliverable Policy basis 
+Electrical / Power Supply Analysis 
+Documents anticipated peak and average electrical demand in 
+MW, interconnection needs, substation/switchgear improvements, 
+backup power, redundancy, and written utility confirmation that 
+service can be provided without reducing service to existing users 
+or shifting system costs to residents and small businesses. 
+Hayden requires electric utility capacity 
+verification and an energy supply plan; 
+Weld requires a utility will-serve letter. 
+Electric and Gas Rate Study 
+Identifies likely rate class, tariff treatment, franchise fee 
+implications, cost-recovery structure, utility upgrades, standby 
+service, early exit penalties, and whether project-related costs 
+could be socialized to other ratepayers. If no gas service is 
+proposed, the study should focus on electric rates and franchise 
+impacts. 
+Supports Council review of fiscal benefit 
+and ratepayer protection. 
+Water Supply & Cooling Plan 
+Identifies source and legal availability of water, initial fill, annual 
+and peak demand, drought-stage limitations, fire suppression 
+needs, cooling technology, blowdown/wastewater, discharge 
+method, and whether closed-loop, dry, recycled, or other low-
+water systems are proposed. 
+Logan and Hayden both require 
+detailed water/cooling documentation; 
+Hayden favors closed-loop or recycled 
+systems. 
+Ldn Noise Study 
+Establishes baseline conditions and evaluates day-night average 
+sound levels, continuous mechanical noise, tonal noise, low-
+frequency noise, backup generator testing, and modeled impacts 
+at property lines and sensitive receptors. Rifle should consider 
+both dBA and dBC metrics. 
+Weld adds a 65 dB(C) property-
+boundary limit for data centers; peer 
+jurisdictions regulate generator testing. 
+Thermal Impact & Mitigation Analysis 
+Identifies sources of waste heat and evaluates potential off-site 
+heat discharge, thermal plumes, localized heat island effects, and 
+mitigation such as equipment orientation, screening, waste heat 
+reuse, or mechanical design changes. 
+Hayden requires a thermal impact 
+mitigation plan for data centers. 
+Fiscal & Municipal Services Impact 
+Analysis 
+Quantifies expected City revenue, one-time versus recurring 
+revenue, property tax distribution, franchise revenue, staff review 
+cost, road maintenance, emergency response, utility impacts, and 
+capital facility impacts. 
+Logan requires applicants to address 
+effects on public services and capital 
+facilities. 
+Economic Impact Analysis 
+Distinguishes direct jobs, construction activity, permanent FTE, 
+taxable investment, local procurement, induced/indirect effects, 
+supplier attraction, and potential displacement or opportunity 
+costs. 
+Needed because data centers often 
+have high capital investment but fewer 
+permanent jobs per dollar than 
+traditional employment uses. 
+Housing Impact Analysis 
+Evaluates construction-phase workforce housing, lodging, 
+RV/campground pressure, rental market effects, long-term 
+employee housing needs, and mitigation for short-term and long-
+term impacts. 
+Important for Rifle given regional 
+housing constraints and a potentially 
+large temporary construction workforce. 
+Emergency Operations Plan 
+Prepared with Colorado River Fire Rescue and other responders. 
+Addresses emergency shutdown, de-energization, fire 
+suppression, hazardous materials, backup power, battery 
+Logan requires emergency operations 
+planning with fire/emergency 
+management. 
+Page 7 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Required study Description and expected deliverable Policy basis 
+systems, emergency access, alarms, notification protocols, and 
+contact procedures. 
+Decommissioning Plan 
+Identifies dismantlement, site restoration, environmental 
+remediation, equipment removal, financial assurance, ownership 
+transfer, and trigger points for abandonment or non-operation. 
+Logan requires decommissioning 
+planning; staff draft requires a 
+decommissioning bond before building 
+permits. 
+Recommended CUP conditions and performance standards 
+Condition area Recommended approach 
+Utility capacity and cost shifting 
+Require written confirmation from the serving electric utility and, if applicable, gas utility. 
+Any project-specific upgrades, capacity extensions, standby service, or early-exit 
+liabilities should be paid by the project and not shifted to residents, small businesses, or 
+future City budgets. 
+Water and cooling 
+Require closed-loop cooling, dry cooling, recycled water, or another demonstrably 
+water-conservative system unless the applicant proves an equal or lower annual and 
+peak-day demand. Require drought and emergency operations protocols. 
+Noise 
+Require baseline measurement, predictive modeling, compliance testing, and 
+enforceable limits. Include dBA and dBC or other low-frequency standards because 
+data center mechanical systems may produce continuous or tonal noise not fully 
+captured by dBA alone. 
+Heat 
+Require a thermal impact mitigation plan and periodic monitoring if modeling shows 
+measurable off-site heat effects. Testing intervals and allowable thresholds should be 
+defined before adoption. 
+Lighting and visual impacts 
+Require fully shielded, downward-directed fixtures; no glare or light trespass; screening 
+of mechanical equipment; and natural berming/landscaping with waterwise trees and 
+vegetation where feasible. 
+Sensitive receptors 
+Evaluate setbacks from housing, educational facilities, roads, campuses, parks, medical 
+facilities, and other sensitive uses. The draft 1,500-foot educational facility setback 
+should be reviewed against actual sites, legal standards, parcel geometry, and 
+mitigation feasibility. 
+Public notification 
+Require enhanced notification at least one-half mile from property boundaries and a 
+public meeting after a complete application is received but before Planning Commission 
+and City Council hearings. 
+Emergency services 
+Require Colorado River Fire Rescue review, emergency pre-plans, access design, 
+funding for specialized training/equipment if needed, and annual updates to emergency 
+contacts and shutoff/de-energization procedures. 
+Page 8 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+Condition area Recommended approach 
+Decommissioning and ownership changes 
+Require financial assurance before building permits. Any transfer of ownership should 
+require notice to the City and written assumption of CUP obligations by the successor 
+operator. 
+Duration and amendments 
+Allow Council to set CUP duration, review intervals, and expiration conditions. Any 
+material increase in load, water use, backup generation, cooling method, or building 
+area should require an amended CUP. 
+Proposed code structure for staff drafting 
+Staff should prepare a text amendment organized around the following sections. The language below is a code-
+structure recommendation rather than final legal text. 
+• Sec. 16-1-220 — Definitions: Add Data Center and Bulk Resource Consumer definitions; clarify thresholds; 
+exclude ordinary accessory server rooms below the threshold. 
+• New Article — Bulk Resource Consumer / Data Center Standards: Add intent, applicability, CUP 
+requirement, complete-application requirements, required studies, operating standards, monitoring, 
+reporting, enforcement, and decommissioning. 
+• Sec. 16-3-420 — Schedule of Uses: Allow Bulk Resource Consumer / Data Center only as a conditional 
+use in selected industrial districts and prohibit in incompatible districts. 
+• Sec. 16-3-450 — Additional Requirements: Add setbacks, height limits, cooling requirements, noise and 
+heat monitoring, public notification, landscaping/screening, and decommissioning bond requirements. 
+• Article V/VI CUP Procedures: Add explicit authority to require third-party review at applicant expense and to 
+condition, deny, revoke, or require amended CUP review for material operational changes. 
+ 
+Draft findings for Planning Commission and Council consideration 
+• Data centers and similar high-resource uses can create fiscal and economic benefits but can also create 
+impacts that differ from typical light industrial development. 
+• A specific definition and CUP process is needed to avoid reviewing data centers as ordinary warehouse, 
+office, or light industrial uses. 
+• Mandatory technical studies are appropriate because public impacts may depend on utility capacity, water 
+availability, cooling technology, noise, thermal discharge, emergency response needs, housing impacts, 
+and ratepayer protections. 
+• The City should require applicant-funded third-party review for technical studies that exceed staff expertise 
+or capacity. 
+• The City should require enforceable conditions, monitoring, reporting, decommissioning security, and public 
+notification before considering approval. 
+ 
+ 
+ 
+Page 9 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+# Step Description 
+2 Technical threshold selection Choose initial thresholds for electric load, water demand, facility size, backup generation, or other resource triggers. 
+Research sources and reference notes 
+Logan County, Colorado: Data Center Facility Regulations, 2026. Used to support Special Use Permit before construction, site 
+plan materials, water source and blowdown requirements, road use agreements, emergency operations plans, public 
+service/capital facility impact mitigation, and decommissioning planning. 
+Town of Hayden, Colorado: Development Code data center use-specific standards, 2026. Used to support electric capacity 
+verification, energy supply plan, public water/sewer, closed-loop or recycled cooling, water demand analysis, applicant-funded 
+utility upgrades, noise study, thermal impact plan, and third-party review. 
+Weld County, Colorado: Code Ordinance 2026-01. Used to support proof of water, electricity-provider will-serve letter, 
+compatibility documentation, and C-scale boundary noise limits for data centers. 
+City of Longmont, Colorado: Development Code Updates: Data Centers, Ordinance O-2026-34. Used to support tiering by 
+electrical demand and use-specific standards for smaller facilities addressing energy efficiency, water, cooling, noise, and lighting. 
+Albemarle County, Virginia: Data center regulations and special use permit framework. Used to support size thresholds, public 
+water/sewer, closed-loop or recycled cooling, generator-testing limits, setbacks, and power supply disclosure. 
+National League of Cities: Data Centers and Local Environmental Considerations; Data Centers Are Coming: Are You 
+Prepared? Used to support broader local-government concerns about water, energy, greenhouse gas emissions, grid strain, 
+ratepayer exposure, noise, light, land use, and environmental standards. 
+City of Rifle source draft: Bulk Resource Recommendations_Workshop 08_2026.docx. Used as the base for recommended 
+studies, definitions, CUP application requirements, setbacks, monitoring, enhanced notification, and decommissioning bond 
+concepts. 
+Appendix A — Draft code concepts carried forward from source 
+document 
+The following concepts should be retained for legal drafting, subject to refinement by the City Attorney and 
+technical reviewers: 
+• Intent: protect public infrastructure, municipal utilities, surrounding land uses, and public health, safety, and 
+welfare through standards for location, development, operation, and decommissioning. 
+• CUP application: require scaled site plan showing boundaries, rights-of-way, physical constraints, utility 
+structures, cooling/mechanical structures, security/administrative structures, drainage, streets, access, 
+pedestrian walkways, utilities, easements, owner/operator, and zoning. 
+• Required studies: electrical/power, rate/franchise, water/cooling, noise, thermal, fiscal/municipal services, 
+economic impact, housing impact, emergency operations, and decommissioning. 
+• Permits and licenses: identify applicable federal, state, and utility approvals, including water rights, air quality, 
+discharge, Clean Water Act, NEPA if applicable, and utility/grid interconnection. 
+• Use table: consider Bulk Resource Consumer as conditional in Light Industrial and Industrial districts only. 
+• Setbacks and height: evaluate appropriate setbacks from roads, housing, educational facilities, side yards, and 
+sensitive receptors; evaluate 50-foot height limit including rooftop equipment. 
+• Cooling: require closed-loop or water-conservative system, with Council-selected limits on initial fill and annual 
+use. 
+Page 10 of 46
+ 
+ 
+CITY OF RIFLE | COMMUNITY DEVELOPMENT 
+DRAFT POLICY MEMORANDUM 
+ 
+City of Rifle Community Development | Draft Data Center CUP Memo 
+• Monitoring: require noise/decibel and released-heat testing at defined distances and intervals; allow 
+unannounced compliance testing. 
+• Notification: require standard notice, one-half-mile enhanced notice, and a public meeting after complete 
+application and before formal hearings. 
+• CUP duration and security: allow Council to determine CUP term and require decommissioning bond before 
+issuance of building permits. 
+• Screening: encourage berms, waterwise trees, and natural landscape separation to reduce line of sight and 
+noise transmission. 
+Page 11 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #b. 
+  
+Agenda Item Name: 
+Discussion regarding Amendment to the Rifle Municipal Code for Site Plan Requirements 
+  
+Presenter: 
+Craig Spaulding, Civil Engineer 
+  
+Item Description: 
+Discuss possible site plan requirement amendments to the Rifle Municipal Code. 
+  
+Recommended Action: 
+Provide General Direction. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact:  
+  
+Prior Board Motions:  
+  
+Background Information: 
+See attached memo. 
+  
+Executive Summary:  
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. Sec._16_6_10.___General_provisions_Update 8.20.26 
+ 
+Page 12 of 46
+CHAPTER 16 - Land Use and Development 
+ARTICLE VI Application Submittal Requirements 
+ 
+ 
+ 
+Rifle, Colorado, Charter and Municipal Code    Created: 2026-07-10 12:19:18 [EST] 
+(Supp. No. 21, Update 1) 
+ 
+Page 1 of 5 
+ARTICLE VI Application Submittal Requirements 
+Division 1 General and Common Submittal Requirements 
+Sec. 16-6-10. General provisions. 
+(a) The application submittal requirements consist of elements that are common to all land use applications as 
+well as requirements that are required only of certain types of applications. Common submittal requirements 
+will be specified first followed by specific requirements of various types of applications. In some instances, 
+additional submittal requirements may be specified as part of the supplemental or special development 
+requirements of these regulations.  
+(b) Complete applications must be submitted, as required in this Chapter, at the point of initiation of the land 
+use review process. A separate application is required for each phase of the subdivision or planned unit 
+development review process (i.e. sketch plan, preliminary plan and final plan). (Prior code 17.06.110)  
+Sec. 16-6-20. Common submittal requirements. 
+Unless indicated otherwise in this Chapter or by the Planning Department, one (1) hard copy of the 
+application, with original or digitally verified signature, and one (1) digital copy shall be submitted. Except for text 
+amendment and zoning variance applications, all applications identified in Article V of this Chapter shall include:  
+(1) An application form, signed by the owners of the property, in the format provided by the Planning 
+Department;  
+(2) A legal description of the property included in the application;  
+(3) Proof of legal ownership and the names and addresses of the owners of the property and any lien 
+holders;  
+(4) The names and addresses of any property owners within two hundred (200) feet of any portion of the 
+property;  
+(5) A statement of the purpose of the application and a brief description of the proposal;  
+(6) A vicinity map indicating the location of the property included in the land use application; and  
+(7) An application fee as set forth in Section 16-1-60 of this Chapter. (Prior code 17.06.120; Ord. 4 §1, 
+2005; Ord. 4 §2, 2025)  
+Sec. 16-6-30. Drawing and report requirements. 
+(a) General map requirements. Any maps or other graphic plans shall be drawn in black or dark blue waterproof 
+ink or may be clearly legible "blueprint" copies or photocopies. The dimensions of all maps shall be twenty-
+four (24) by thirty-six (36) inches or eight and one-half (8½) by eleven (11) inches unless another size is 
+approved by the Planning Department staff prior to submittal of the application. However, no map shall 
+exceed twenty-four (24) by thirty-six (36) inches. In the case of multiple sheets, a key map showing the 
+relationship of individual sheets shall be provided and locations of adjacent sheets shall be indicated on each 
+sheet. Each map or other graphic plan shall include:  
+Page 13 of 46
+ 
+ 
+ 
+    Created: 2026-07-10 12:19:17 [EST] 
+(Supp. No. 21, Update 1) 
+ 
+Page 2 of 5 
+(1) The section, township and range of the property included in the application;  
+(2) The name, address and telephone number of the owner and applicant;  
+(3) The name, address and telephone number of the person or firm that prepared the map and the date of 
+preparation;  
+(4) A north arrow and scale which shall not exceed one (1) inch equals fifty (50) feet; and  
+(5) The title of the map which shall also indicate the type of application.  
+(b) General report requirements. All reports shall contain consecutively numbered pages and shall include, or 
+clearly indicate by reference, any maps or other relevant elements required by this Chapter which are 
+necessary for the report. Any report required by this Chapter shall include:  
+(1) The name, address and telephone number of the person or firm that prepared the report and the date 
+of preparation; and  
+(2) The title of the report.  
+(c) Qualifications of preparers of maps and reports. All maps and reports must bear suitable evidence of the 
+professional qualifications of the person responsible for the preparation of the map or report. Maps 
+containing information pertaining to water supply, sanitation, wastewater treatment, utilities, drainage, 
+soils, grading, roads, structures or any other engineering information must be certified by a professional 
+engineer licensed in the State. All required documents containing land survey descriptions and topographic 
+maps must be certified by a professional land surveyor licensed in the State. All data submitted regarding 
+environmental studies and other disciplines, not currently requiring registration by the State, must be 
+accompanied by a resume of such qualifications sufficient to demonstrate the author's degree of expertise 
+and experience. Geology maps and reports must be prepared and certified by a qualified geologist. 
+Additional professional qualifications may be specified in other sections of this Chapter. (Prior code 
+17.06.130)  
+Sec. 16-6-40. Site plan requirements. 
+(a) In addition to the requirements of Section 16-6-30 above, any site plan required in this Chapter shall 
+include the following, projects involving placement or removal of more than fifty (50) cubic yards of earth material 
+or involve more than six thousand (6000) square feet of graded area shall also adhere to 16-17-10:  
+(1) The location of all existing and proposed buildings, utilities and other improvements on the property. A 
+building envelope (a portion of the property within which a building may be located) may be shown for 
+proposed buildings to allow minor adjustments.  
+(2) The location and number of parking spaces for off-street parking and loading areas.  
+(3) A traffic circulation plan showing the direction of traffic flows and indicating the locations of entries 
+and exits of parking lots and the relationships of parking lots to entrances and exits of any buildings.  
+(4) The location of service and refuse collection areas.  
+(5) The location of all signs indicating the size, shape and height of each sign.  
+(6) The area and location of open space and recreation areas.  
+(7) The location and type of outdoor lighting.  
+(8) The location of existing and proposed fences, landscaping features and other methods of visual 
+screening. The proposed landscaping plan shall indicate the method of maintenance of the 
+landscaping, as well as a list of type, size and quantity of plant materials and the general location of the 
+landscaping.  
+Page 14 of 46
+ 
+ 
+ 
+    Created: 2026-07-10 12:19:17 [EST] 
+(Supp. No. 21, Update 1) 
+ 
+Page 3 of 5 
+ 
+(9) The estimated date of completion of the proposed improvements. (Prior code 17.06.140)  
+ 
+(10) Topography of the site of the proposed subdivision showing the existing topography at minimum one-
+foot contour intervals. 
+ 
+(11) The location of the one-hundred-year floodplain of any drainage on or adjacent to the site of the 
+proposed  
+(12) Location, type and size of existing and proposed utility lines, utility easements and other easements on 
+and adjacent to the site of the proposed subdivision.  
+(13) The location of existing available water and sewer facilities and the proposed extension of water and 
+sewer lines.  
+(14) Location, scaled dimensions and legal description of existing lots, streets, alleys, road rights-of-way, 
+easements, irrigation ditches and waterways within and immediately adjacent to the site of the 
+proposed subdivision.  
+(15) Proposed easements for drainage, irrigation, access and utilities, including solar access easements if 
+applicable.  
+ 
+(b) Supplemental plan information. The City and the reviewing agencies shall determine if supplemental 
+information is needed for the application. The supplemental information shall be submitted in the written or 
+graphic format appropriate for the information being submitted and may include the following:  
+(1) Proof of present legal ownership of the property to be subdivided, including signed statements from 
+the owners, as well as all lien holders and all other security interest holders of record, indicating that 
+the owners and interest holders do not object to the subdivision of the property as proposed on the 
+preliminary plan and that they will subordinate their interests to any dedications to the City shown on 
+the preliminary plan. If there are not any other holders of interest in the property, the owners shall so 
+indicate by a signed statement.  
+(2) The names and addresses of owners of minerals and lessees of mineral owners of record of the area 
+proposed to be subdivided.  
+(3) The proposed terms of reservations or dedications of sites for public and private common facilities.  
+(4) The proposed plan for the phased development of the subdivision, if applicable.  
+(5) Evidence that all lots and parcels will have access to a public right-of-way.  
+(6) The method proposed for the maintenance of all public and common areas and facilities, including 
+provisions for the maintenance of the subdivision roads.  
+(7) A water supply report, which shall include the following information:  
+a. The expected water requirements of the subdivision at full development, including the various 
+water uses to be permitted and the manner in which these requirements will be met;  
+b. A conceptual water distribution plan prepared at the same scale as the preliminary plan map; 
+and  
+c. A report prepared by a licensed, professional engineer summarizing the effects of the proposed 
+subdivision on the City water system as projected by the City's water modeling program.  
+Page 15 of 46
+ 
+ 
+ 
+    Created: 2026-07-10 12:19:17 [EST] 
+(Supp. No. 21, Update 1) 
+ 
+Page 4 of 5 
+(8) A sewage disposal report prepared in accordance with the requirements of the Public Works Director, 
+including:  
+a. A general written description of the collection system to be designed per the requirements of the 
+Colorado Department of Public Health and Environment and the Public Works Director;  
+b. Evidence that the collection and treatment system will conform with all state and local laws and 
+regulations;  
+c. A map of the sewage collection system at the same scale as the preliminary map, showing the 
+lots to be served and the site topography. The collection system may be shown on the 
+preliminary plan map; and  
+d. A report prepared by a licensed, professional engineer summarizing the effects of the proposed 
+subdivision on the City sewer system.  
+(9) A preliminary street plan and profile prepared per the specifications of the Public Works Director, 
+including graphic alignment, dimensions of right-of-way widths, curve radii and tangent lengths. The 
+street plan shall contain sufficient detail to ensure that the proposed street plan will satisfy City 
+requirements and will bear logical relationships to the grades of existing public streets at the point of 
+intersection. The proposed typical structural and geometric cross-sections; location, type and 
+approximate size of appurtenant structures such as bridges and culverts; street lighting; and traffic 
+control devices shall be shown. Road grades shall be designated within the road rights-of-way. The 
+preliminary road plan information may be annotated on the preliminary plan map.  
+(10) A preliminary drainage report, including the following data. Drainage criteria set forth by the Public 
+Works Director shall be used as a guideline. Information required under this Section may be annotated 
+on copies of the preliminary plan map if feasible and practical.  
+a. A contour map defining on-site drainage basins and illustrating existing drainage patterns, paths 
+of flow and concentration points, with estimates of contributory acreage and the peak flow of 
+runoff.  
+b. A U.S.G.S contour map (7.5-minute quadrangle) showing all off-site drainage basins which drain 
+through the subdivision and illustrating paths of flow with estimates of contributory acreage and 
+peak flow of runoff.  
+c. A sketch of the proposed subdivision showing the consequent changes in the drainage patterns, 
+concentration points and flooding limits with estimates of acreage, runoff coefficients and peak 
+flow for the areas to be developed, both now and in the future, within each basin, and showing 
+the limits of flooding and peak flow of runoff from off-site basins. Calculations shall be based on a 
+twenty-five-year frequency storm for the design of drainage structures and a one-hundred-year 
+frequency storm to be used to designate areas subject to flooding.  
+d. A narrative explaining the proposed method of managing the increased drainage at the 
+concentration points and areas where the drainage pattern or characteristics will be changed.  
+(11) A preliminary irrigation plan, if irrigation water will remain with the property, which shall designate, on 
+copies of the preliminary plan map, the irrigation water distribution plan, including all distribution 
+facilities such as ditches, diversion structures, lakes, easements, etc. A narrative shall accompany the 
+plan explaining the nature of the organization that will own the irrigation water and the entity that will 
+own and maintain the irrigation distribution system. A letter from any ditch company presently 
+responsible for any irrigation system providing irrigation water to the site shall also be submitted. The 
+ditch company letter shall indicate the approval in concept of the preliminary irrigation plan and shall 
+also indicate that the other users of the ditch company's water and facilities will not be injured by the 
+development of the approved subdivision.  
+Page 16 of 46
+ 
+ 
+ 
+    Created: 2026-07-10 12:19:17 [EST] 
+(Supp. No. 21, Update 1) 
+ 
+Page 5 of 5 
+(12) A geotechnical (soils/geology) report, describing soils and geological conditions of the site, specifically 
+addressing the suitability of the soils and geology for the land use proposed. Any mitigation efforts 
+required to properly develop the property shall be identified in the report. The report shall include 
+maps and written information, as appropriate, addressing the following:  
+a. A soils/geologic map showing the proposed subdivision, including the lots and road alignments, 
+the natural topography of the site shown by contour lines, the location of any test holes used in 
+the investigation, surface geology and the designation of soils types and their boundaries based 
+on the National Cooperative Soil Survey prepared by the U.S.D.A. Soil Conservation Service (SCS).  
+b. A narrative report describing the bedrock geology of the site; the surface geology of the site; the 
+hydrology of the site, including the depth to groundwater; and a table of interpretations of the 
+soils types as prepared by the SCS. The report shall identify any geological hazards and soil 
+conditions that may preclude development of any part of the site or that may require particular 
+design considerations.  
+c. Any radiation hazards shall be identified.  
+(13) A utility report identifying the utility companies that will provide electricity, natural gas, telephone, 
+cable television, etc., to the proposed subdivision. The report shall reference the preliminary plan map 
+which shall show the location of the utility facilities. (Prior code 17.06.260; Ord. 4 §1, 2005; Ord. 4 §4, 
+2025)  
+ 
+Page 17 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #c. 
+  
+Agenda Item Name: 
+Discussion regarding possible amendment to Rifle Municipal Code for Warehouse and Distribution 
+  
+Presenter: 
+Geir Sverdrup, Senior Planner 
+  
+Item Description: 
+Discussion regarding warehouse and distribution facilities in Rifle. 
+  
+Recommended Action: 
+Provide general direction. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+See attached Memo. 
+  
+Executive Summary: 
+See attached memo. 
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. Warehouse - Distribution Center Workshop Memo 8-25-2026 
+ 
+Page 18 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490  Fax:  970-625-6268 
+ 
+MEMORANDUM 
+ 
+TO:    City of Rifle Planning Commission 
+FROM:   Zach Higgins, Community Development Director 
+Geir H. Sverdrup, Senior Planner 
+DATE:   August 25, 2026 
+SUBJECT:   Revision of Warehouse Definition and Use Table 
+ADDRESS:  City-Wide 
+APPLICANT: City of Rifle Staff 
+ 
+Background 
+Staff has received inquiries regarding where one can locate a warehouse operation. As 
+staff reviewed the code, staff found discrepancies that should be addressed. Currently 
+Warehouse is a permitted use in CS-Community Service Commercial and I-Industrial 
+Zone districts, and is a Conditional Use in LI-Light Industrial. 
+The current definition for warehouse would appear to staff as inadequate and not 
+permitted in the appropriate zone districts: 
+Warehouse means a use engaged in storage, wholesale and distribution of 
+manufactured products, supplies and equipment, excluding bulk storage of 
+materials that are inflammable or explosive or that present hazards or conditions 
+commonly recognized as offensive. 
+The initial concern was that a large warehouse was not an appropriate use to be located 
+in a Community Service zone district. After researching other codes and definitions, staff 
+recommends the following changes and additions to the R.M.C. as follows: 
+Distribution center means a high-velocity hub designed for short-term storage, 
+active order processing, packaging, and rapid shipping to retail stores or end 
+consumers. 
+Warehouse Local means a use engaged in the long-term storage, wholesale 
+and distribution of manufactured products, supplies and equipment, not 
+exceeding 20,000 square feet in size, excluding bulk resource consumers, bulk 
+storage of materials that are inflammable or explosive or that present hazards 
+or conditions commonly recognized as offensive. 
+Warehouse Regional means a use engaged in the long-term storage, wholesale 
+and distribution of manufactured products, supplies and equipment, larger than 
+20,000 square feet in size, excluding bulk resource consumers, bulk storage of 
+materials that are inflammable or explosive or that present hazards or 
+conditions commonly recognized as offensive. 
+Wholesale establishment means an establishment or place of business 
+primarily engaged in selling and/or distributing merchandise to retailers; to 
+industrial, commercial or professional business users or other wholesalers; or 
+acting as agent or broker and buying merchandise for, or selling merchandise 
+Page 19 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490  Fax:  970-625-6268 
+ 
+to, other businesses, such as retailers, industrial users, or institutions  such 
+individuals or companies. 
+The research suggested that definitions for Distribution Center and expanding 
+Warehouse into a Local and a Regional level would be appropriate. Distribution centers 
+are an integral part of any retail function, and that they are not necessarily a part of a 
+warehouse operation. Additionally, staff was of the opinion that a smaller warehouse 
+could be appropriate in Community Service zone district, but only as a Conditional Use 
+allowing for discretionary review and approval by the Planning Commission. Local and 
+Regional Warehouses would be appropriate in both LI-Light Industrial as well as I-
+Industrial zone districts. 
+Staff therefore proposes the following alterations Sec. 16-3-420. - Schedule of uses for 
+commercial and industrial districts: 
+USES CS1 TC1 LI I 
+Distribution center * * P P 
+Warehouse Local CP * PC P 
+Warehouse Regional * * P P 
+Wholesale establishments C C P P 
+The following is a basic standard found during staff’s research: 
+Physical Warehouse Sizes (Square Footage) 
+ Small Business / Startup: 200 to 5,000 sq. ft. (good for solo operators, local 
+inventory, or garage alternatives). 
+ Medium / Regional: 10,000 to 50,000 sq. ft. (fits regional distribution and 
+growing e-commerce). 
+ Large / Industrial: 100,000 to 500,000+ sq. ft. (used for heavy manufacturing 
+and national distribution). 
+ Mega-Hubs: 500,000 to 1,000,000+ sq. ft. (major retail and third-party logistics 
+networks). 
+Staff does not recommend the addition of a Large/Industrial or a Mega-Hub for the City 
+in our current growth pattern. 
+Staff Comments 
+Staff has prepared this proposed text amendment to revise the definition of Warehouse 
+as it applies to local and regional uses, and the addition of a Distribution Center 
+definition. Staff proposes the uses as a permitted use or conditional use and 
+recommends the uses be added as shown in the above table. 
+Page 20 of 46
+ 
+ 
+ 
+Chair 
+ 
+ Marantino led the Planning Commission and audience in the Pledge of Allegiance.  
+ 
+The meeting starts at 7:00 p.m. 
+ 
+MEMBERS PRESENT AT ROLL CALL  
+Present: Marantino, Caldwell, Carter, Rogers, Steffen, Martinez, Rodas, Edwards 
+Absent: Dow 
+ 
+ 
+OTHERS PRESENT: Community Development Director Zach Higgins, Senior Planner Geir 
+Sverdrup, Community Development Technician Liz Acosta , Assistant City Attorney Wilton 
+Anderson 
+ 
+APPROVAL OF MINUTES 7:02 
+ 
+FIRST: Caldwell 
+ 
+SECOND: Rogers 
+ 
+April 28th, 2026 Regular P&Z Commission minutes approved with amendments to spell Steffen 
+correctly through “Aye” vote.  
+ 
+ 
+ 
+7:03 PM 
+PUBLIC HEARING: 
+Discussion 1: Item A 
+Variance Request 2026-009 for Front Yard Setback Encroachment 
+Planning and Commission’s Chair excused himself as this item was a conflict of interest for 
+him. 
+REGULAR PLANNING COMMISSION MEETING
+& BOARD OF ADJUSMENT
+May 26 th , 2026
+Page 21 of 46
+Commissioner Vice Chair Steffen lead and reconvened the Commission as the Board of 
+Adjustment for consideration of this agenda item. 
+Senior Planner Geir Sverdrup presented the variance request to construct a cover over his 
+existing deck at 755 Whiteriver Ave, which sits in an LDR Low Density Zone District and does 
+not meet current front yard setbacks. Senior Planner Geir recommends denial of Variance 2026-
+009 for a Front Yard Setback Encroachment.  
+ 
+7:09 PM 
+Applicant Harlan Scott is sworn in. 
+Presented testimony regarding the reason for wanting to construct the cover. Wife operates a hair 
+salon from the house and the path to the entrance gets covered with snow during the winter and 
+they’re getting too old to shovel up the snow. Harlan explained the roof would cover existing 
+porch foot print. 
+7:14 PM -Steffen opens up hearing to commissioner comments or questions. 
+Commissioner Rogers asked Harlan what pitch the cover roof would have. Harlan assured 
+the cover would match the house pitch.  
+7:15 PM – Steffen opens public hearing. 
+Public member Jamie is sworn in and speaks on behalf of Harlan’s character and how this 
+variance would not affect their community at all.  
+7:19 PM 
+Commisioner Steffen closes public hearing. Commissioner Rogers references a previous 
+variance that was similar. Commissioner Rodas voices his agreeance with the idea, 
+commissioner Edwards asks regarding grandfathering in the variance, Community Development 
+Director explains new additions do not count. Commissioner Rodas expresses he doesn’t agree 
+with the implementation of the code in this instance.  
+ 
+7:29 PM 
+Commissioner Rogers motions to approve Variance 2026-009 for a Front Yard Setback 
+Encroachment.  
+ 
+Commissioner Rodas seconded the motion. The motion APPROVES the variance request with 
+the following vote: 
+ 
+ROLL CALL: 
+Page 22 of 46
+YES: Steffen, Carter, Rogers, Caldwell, Rodas, Martinez, Edwards 
+NO: None 
+ 
+7:31 PM The Board of Adjustment adjourned and reconvened as the Planning and Zoning 
+Commission. 
+ 
+Discussion 2: Item B 
+Discussion and possible action regarding Rifle Municipal Code 
+Amendment for Residential Garage 
+Requirements 
+7:32 PM Public Notice Met 
+Senior Planner Geir Sverdrup presented a recommendation regarding amendment to Chapter 16 
+of the Rifle Municipal Code for Residential Garage Requirements to the City of Rifle Planning 
+and Zoning Commission.   
+Discussion was held between commissioners and staff regarding garage requirements in relation 
+to dimensions and necessity within the City of Rifle. Commissioner Steffen asked if not having a 
+size requirement would affect specific car space. Senior Planner Geir assured we would still have 
+the minimum parking size requirements if house owner decided to build a garage.  Community 
+Development Director specifies letting the market drive its constructions.  
+ 
+7:41 PM Marantino opens and closes public hearing 
+Commissioner Carter moved to APPROVE the recommendation for amendment to Chapter 16 
+of the Rifle Municipal Code for Residential Garage Requirements. 
+ 
+Commissioner Rogers seconded the motion. The motion APPROVED with the following vote: 
+ROLL CALL: 
+YES: Marantino, Caldwell, Carter, Rogers, Steffen, Rodas, Martinez 
+NO: 
+ 
+ 
+ 
+ 
+Discussion 3: Item C 
+Page 23 of 46
+Discussion and possible action regarding Rifle Municipal Code 
+Amendment for Auto Repair Shops 
+ 
+7:41 PM Public Notice Met  
+ 
+City of Rifle Senior Planner Geir Sverdrup debriefs proposed action. Consideration of a text 
+amendment to the Rifle Municipal Code, Chapter 16, regarding Auto Repair Shops. 
+This amendment would bring many of the existing auto repair shops into compliance as language 
+on this use has been inadvertently omitted.  
+ 
+7:43 PM Commissioner Marantino opens to commissioners.  
+ 
+Discussion was held between staff and commissioners regarding current code wording, zones 
+where these would be allowed, specify and differentiate Body Shops from Mechanic Shops in 
+the code. Body shops replace some mechanical aspects due to damage but never work on the 
+engine or mechanical aspects.  
+Community Development Director opnes option to maybe include autoshops to open up in 
+industrial zones.  
+Commissioner Rogers inquired about mechanics actively fixing non-family vehicles in their 
+LDR homes, Senior Planner Geir advised to report to code enforcement.  
+ 
+7:54 PM 
+Commissioner Caldwell moved to APPROVE the recommendation for amendment to the 
+Rifle Municipal Code regarding Traffic Impact Study criteria with amendment to strike 
+out automotive repair in industrial zones. 
+Commissioner Carter seconded the motion. The motion APPROVED with the following vote: 
+ROLL CALL: 
+YES: Marantino, Caldwell, Carter, Rogers, Steffen, Martinez, Rodas 
+NO: 
+COMMENTS AND ADJOURNMENT – 7:55 PM 
+ 
+Discussion was held regarding a reminder on the Comprehensive Plan process, updates from 
+recent UTE Theatre events, and upcoming performances. Caldwell informed the Commission 
+that he would be unable to attend the joint meeting scheduled for June 10, 2026. 
+MEETING ADJOURNED- 8:00 PM 
+ 
+ 
+Page 24 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #4.b. 
+  
+Agenda Item Name: 
+Discussion and possible action regarding July 2026 Planning Commission Meeting Minutes 
+  
+Presenter: 
+Liz Acosta, Administrative Assistant 
+  
+Item Description: 
+Regularly scheduled July 2026 Planning Commission Meeting Minutes. 
+  
+Recommended Action: 
+Move to approve the Consent Agenda as presented. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+N/A 
+  
+Executive Summary: 
+N/A 
+  
+Notification Requirements: 
+N/A 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. P Z MEETING MINUTES JULY 28 2026 
+ 
+Page 25 of 46
+ 
+ 
+ 
+ 
+ 
+Chair Marantino led the Planning Commission and audience in the Pledge of Allegiance. 
+ 
+The meeting starts at 7:00 p.m. 
+ 
+MEMBERS PRESENT AT ROLL CALL 
+Present: Marantino, Steffen, Carter, Rogers, Caldwell, Rodas, Edwards 
+Absent: Dow, Martinez 
+ 
+Commissioner Martinez reached out via email to excuse herself. Commissioner Steffen moved to 
+excuse Commissioner Martinez; Commissioner Caldwell seconded the motion. All were in favor 
+and the motion carried. 
+ 
+APPROV AL OF MINUTES 7:01 
+ 
+FIRST: Rogers 
+ 
+SECOND: Steffen 
+ 
+May 26th, 2026 Regular P&Z Commission minutes approved with correction to change 
+“Stephan” to “Steffen.” 
+ 
+ 
+7:03 PM 
+PUBLIC HEARING: 
+ 
+Discussion 1: Item A 
+Discussion and possible action regarding CUP – 214 W 16th Street 
+Discussion was held regarding the workshop earlier that day; the notes indicate the space was 
+opened and closed. 
+7:05 PM – Chair Marantino opened the public hearing. Public notice requirements were met. 
+Bruce Ralph was present. 
+ 
+REGULAR PLANNING COMMISSION MEETING 
+& BOARD OF ADJUSMENT 
+July 28 th, 2026  
+Page 26 of 46
+ 
+ 
+Senior Planner Geir Sverdrup reviewed the request and read a letter from Jeans Printing 
+expressing disagreement with the request. 
+7:09 PM – Chair Marantino opened the item to Bruce Ralph. Ralph explained how the business 
+works and discussed trading of parking. 
+7:11 PM – Commissioner Rogers asked where vehicles would enter and exit; both access points 
+were discussed. Commissioner Edwards asked whether there would be only one ADU. 
+Chair Marantino opened and closed the public hearing and brought the item back to the 
+Commission. Commissioner Rodas asked what type of business would occupy the space; 
+insulation and only one tenant were discussed. Chair Marantino noted that parking must meet the 
+standard. The notes also indicate the building is contained. 
+Commissioner Carter moved to APPROVE the CUP for 214 W 16th Street. 
+Commissioner Rodas seconded the motion. The motion was APPROVED at 7:16 PM with the 
+following vote: 
+ROLL CALL: 
+YES: Marantino, Steffen, Carter, Rogers, Caldwell, Rodas, Edwards 
+NO: None 
+ 
+ 
+Discussion 2: Item B 
+Discussion and possible action regarding text amendment to clean up language from TA 
+2024-021 
+7:17 PM – Public notice requirements were met. 
+Senior Planner Geir Sverdrup reviewed the proposed text amendment, including striking two 
+paragraphs and renumbering the remaining language. 
+7:19 PM – Commissioner Edwards asked a clarifying question. Senior Planner Geir Sverdrup 
+answered. 
+7:20 PM – Chair Marantino opened and closed the public hearing. 
+Commissioner Carter moved to APPROVE the text amendment to clean up language from TA 
+2024-021. 
+Commissioner Rogers seconded the motion. The motion APPROVED at 7:21 PM with the 
+following vote: 
+ROLL CALL: 
+YES: Marantino, Steffen, Carter, Rogers, Caldwell, Rodas, Edwards 
+NO: None 
+ 
+COMMENTS AND ADJOURNMENT – 7:22 PM 
+Chair Marantino opened staff comments. Director Higgins provided an update regarding the 
+Comprehensive Plan. Director Higgins noted they have started drafting, and the process has been 
+extended by one additional month. 
+ 
+MEETING ADJOURNED – 7:25 PM 
+Page 27 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #7.a. 
+  
+Agenda Item Name: 
+Discussion and possible action regarding Variance for 758 Railroad Ave 
+  
+Presenter: 
+Zach Higgins, Community Development Director 
+  
+Item Description: 
+Consider a Variance for 758 Railroad Ave to allow for a Retail Business in a MDR zone district. 
+  
+Recommended Action: 
+Move to deny the Variance request for 758 Railroad Ave allowing retail in MDR. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+See attached Memo. 
+  
+Executive Summary: 
+See attached Memo. 
+  
+Notification Requirements: 
+Public Notice has been met. 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. Variance Staff Memo - 758 Railroad Avenue 
+ 
+Page 28 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+1 
+ 
+MEMORANDUM 
+ 
+TO: City of Rifle Planning Commission, acting as Board of Adjustment  
+FROM: Zach Higgins, Community Development Director  
+DATE: August 25, 2026  
+SUBJECT: Zoning Variance Request - Blue Lizard Stitches  
+ADDRESS: 758 Railroad Avenue  
+CASE #: Zoning Variance VAR-2026-010  
+APPLICANT: Christine McNichols / Blue Lizard Stitches  
+PROPERTY OWNER: LC Building LLC  
+ 
+ 
+REQUEST 
+The applicant requests a zoning variance to operate Blue Lizard Stitches, a retail fabric and quilt-
+supply store, at 758 Railroad Avenue. The proposed use also includes a small classroom for 
+quilting, bag-making, and similar instruction. The requested variance would authorize a 
+commercial retail use within the Medium Density Residential (MDR) Zone District. 
+Vicinity Map 
+ 
+Subject parcel outlined in blue. Source: City of Rifle GIS map dated July 28, 2026. 
+BACKGROUND, ZONING & PROPERTY HISTORY 
+The subject property is located at the southeast corner of Railroad Avenue and East 8th Street. 
+City GIS identifies the parcel as 217709315015; the application lists assessor account R360063 
+and describes the property as Lots 35 and 36, Block 3, Maxfield Addition. LC Building LLC is the 
+property owner. 
+Page 29 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+2 
+ 
+The property is zoned MDR. Section 16-3-320 of the Rifle Municipal Code establishes the 
+schedule of uses for the City's residential zone districts. The use category applicable to the 
+request is listed as follows: 
+RMC 16-3-320: "Office, retail sales and restaurants, provided that the residential 
+character of the structure is maintained" - Prohibited in the MDR Zone District. 
+The structure has most recently, and for many years, been occupied as a real estate office. That 
+office use is not in compliance with the uses allowed in the MDR Zone District under RMC 16-3-
+320. The duration of that prior occupancy does not make the office use compliant and does not 
+establish an entitlement to replace it with another prohibited commercial use. 
+The Subject Property is adjacent to MDR to the South, LDR to the East, CS to the North, and 
+MDRX to the West. Retail is prohibited in MDR and LDR, Conditional in MDRX if residential 
+character is maintained, and Permitted in CS. Thus, the property is at a crossroads of zoning and 
+allowances. 
+APPLICANT PROPOSAL 
+According to the applicant's narrative, Blue Lizard Stitches has operated online for approximately 
+11 years. The applicant proposes an in-person shop for fabric and quilt supplies, together with a 
+classroom generally limited to five or six participants. Anticipated hours are 10:00 a.m. to 3:00 
+p.m. Monday and Wednesday through Saturday, with the business closed Tuesday and Sunday. 
+The applicant anticipates approximately 10 retail customers per day and no evening business 
+activity. 
+The applicant states that the limited hours, small class size, and modest customer volume would 
+maintain a low-intensity operation. The applicant also points to the building's prior commercial 
+occupancy as support for the request. 
+STAFF ANALYSIS 
+The proposed operation is anticipated to be small in scale, and the applicant indicates that the 
+residential appearance of the building would be maintained. However, RMC 16-3-320 expressly 
+classifies office, retail sales, and restaurants as prohibited uses in the MDR Zone District, even 
+when the residential character of the structure is maintained. The primary proposed use by the 
+applicant is retail sales; the classroom is accessory to that retail business. 
+Page 30 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+3 
+ 
+A variance is intended to provide limited relief from a code requirement when a practical difficulty 
+results from the physical characteristics of a particular property. The application does not identify 
+a hardship arising from the size, shape, dimensions, topography, street location, or other physical 
+limitation of this site. The stated considerations concern the applicant's preferred business 
+location, the scale of the proposed operation, and the property's history of commercial occupancy. 
+Those considerations do not demonstrate a site-specific practical difficulty. 
+Approving the request would function as a use variance by allowing a land use that the schedule 
+of uses expressly prohibits. Prior or nearby noncompliant commercial activity does not provide a 
+code basis to approve an additional prohibited use. 
+FINDINGS 
+The Planning Commission, acting as the Board of Adjustment, considers the following variance 
+criteria. Staff's findings are shown in bold italics: 
+1. Minor additions or structural or cosmetic changes to existing structures, the result of which will 
+be in harmony with the land use and existing structures in the neighborhood. 
+Not met. The request is not for a minor structural or cosmetic change; it is a request to 
+establish a prohibited retail land use within an MDR-zoned property. 
+2. A practical difficulty has been demonstrated based on the size, shape, or dimensions of the 
+site; the location of existing structures; topographic or physical conditions; or other physical 
+limitations such as street locations or traffic conditions in the immediate vicinity. 
+Not met. The application does not identify a site-specific physical condition that prevents 
+reasonable use of the property under the MDR regulations. The building's prior office 
+occupancy and the applicant's preference to operate at this location are not physical 
+hardships. 
+3. Relief may be granted without substantial detriment to the public good and without substantially 
+impairing the intent and purpose of the City of Rifle Comprehensive Plan or Title 16. 
+Not met. Allowing retail sales through a variance would directly conflict with RMC 16-3-
+320 and impair the intent of the residential use schedule by authorizing a use the Code 
+identifies as prohibited. 
+4. The granting of the variance will not be detrimental to the public health, safety, or welfare. 
+The limited hours and customer volume may reduce potential operational impacts. 
+Nevertheless, this criterion does not overcome the proposal's conflict with RMC 16-3-320 
+or the absence of a demonstrated practical difficulty. 
+5. The proposed variance will not adversely affect adjacent properties or the surrounding 
+neighborhood. 
+Not sufficiently demonstrated. The proposal would introduce customer traffic, parking 
+demand, deliveries, retail activity, and classes into a residential zone district. Although 
+the anticipated scale is limited, the application does not establish that the use can be 
+authorized consistently with the residential use framework. 
+6. Compatibility with adjacent land development and land uses is assured. 
+Not met. Retaining the residential appearance of the structure may provide visual 
+compatibility, but land-use compatibility is not assured because the requested retail use 
+is expressly prohibited in the MDR Zone District. The property's prior noncompliant office 
+use does not establish compatibility or a right to continue commercial occupancy. 
+Page 31 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+4 
+ 
+RECOMMENDATION 
+Staff recommends that the Planning Commission, acting as the Board of Adjustment, DENY the 
+zoning variance for Blue Lizard Stitches at 758 Railroad Avenue because the request would 
+authorize a retail use prohibited by RMC 16-3-320 and the application does not demonstrate the 
+site-specific practical difficulty required for variance relief. 
+The proposed business would need to locate in a zone where retail sales are permitted or 
+pursue a legislative zoning or code amendment. The adjacent property to the North and 
+Northwest are CS Community Service Zoning which allow Office and Retail as a Use by Right. 
+ATTACHMENTS 
+7. Land Use Application  
+8. Blue Lizard Stitches Applicant Narrative  
+9. City GIS Property Map - 758 Railroad Avenue  
+Page 32 of 46
+Page 33 of 46
+Blue Lizard Stitches
+Blue Lizard Stitches is a fabric business, currently run online, and 
+I would like to use this building to open a space for the 
+community to come and shop for fabric and quilt supplies.  There 
+would be a space available as a classroom as well, to teach 
+quilting techniques, bag making, etc.  Likely 5 to 6 people max. in 
+a class.  The hours of operation are expected to be:
+Monday - 10 
+am-3pm
+Tuesday – 
+CLOSED
+Wednesday – 
+10 am – 3pm
+ Thursday – 10 
+am – 3 pm
+Friday – 10 am 
+– 3 pm
+Saturday – 10 
+am – 3 pm
+Sunday – 
+CLOSED
+I expect perhaps 10 customers per day to shop the store.  A 
+small quilt shop is a pretty mellow business; customers come for 
+inspiration or just to swing in for a small piece of fabric to finish a 
+project and talk.  I would love the opportunity to serve this town, 
+which is devoid of such a business for 60+ miles, build 
+Page 34 of 46
+community, and teach and inspire others however I can.  I have 
+no desire to run business activities in the evening, and my hours 
+are nestled in between the start and end of school so my 
+business will not increase traffic during these peak times.
+I have run my fabric business for 11 years, have my business 
+degree in accounting, and am heavily invested in producing a 
+successful store to meet the needs of the community, and 
+become an asset to this town for many years to come.  This 
+house has been operating as a business for a very long time, and 
+I thank you for considering my request to continue to do so, in 
+just a slightly different manner.
+Page 35 of 46
+The City of Rifle Colorado July 28, 2026
+758 Railro ad Avenue
+Property Information
+Property ID 217709315015
+Location 758 RAILROAD AVENUE
+Owner LC BUILDING LLC
+MAP FOR REFERENCE ONLY
+NOT A LEGAL DOCUMENT
+The City of Rifle Colorado makes no claims and no
+warranties, expressed or implied, concerning the validity or
+accuracy of the GIS data presented on this map.
+Geometry updated 04/2026
+Data updated 04/2026
+Print map scale is approximate.
+Critical layout or measurement
+activities should not be done using
+this resource.
+1" = 40 ft
+Page 36 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #7.b. 
+  
+Agenda Item Name: 
+Discussion and possible action regarding the Minor Subdivision of 1317 E 17th St - Sketch Plan 
+  
+Presenter: 
+Geir Sverdrup, Senior Planner 
+  
+Item Description: 
+Resubdivision of a combined lot at 1317 E 17th St that was completed in 2015.  
+  
+Recommended Action: 
+Move to approve Sketch Plan for 1317 E 17th St. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+This lot was previously approved for a lot line dissolution in 2015. 
+  
+Background Information: 
+See attached memo. 
+  
+Executive Summary:  
+  
+Notification Requirements: 
+Public Notice has been met. 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. PZ Aug 25 2026 Staff Report - 1317 E 17th St lot split (81A) 
+ 
+Page 37 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+1 
+ 
+MEMORANDUM 
+ 
+TO:   City of Rifle Planning and Zoning Commission 
+FROM:  Zach Higgins – Community Development Director 
+  Geir Sverdrup – Senior Planner 
+DATE:  August 25, 2026 
+SUBJECT:  Sketch Plan,1317 E 17 th Street  
+LOCATION:    S of 18th Way on the E side of 17th Street 
+CASE #:         PLN-2026-014 
+APPLICANT:  Guillermina Guterierrez 
+ 
+ 
+REQUEST 
+ 
+The applicant is seeking re-establish the lot line dissolved under case number 2015-011 
+combining lots 80 & 81 into 81A and recorded on March 11, 2015.   
+ 
+Vicinity Map 
+ 
+ 
+LOCATION: 
+ 
+The property is located west of Graham Mesa Avenue and south of 18 th Way on the east side of 
+E. 17th Avenue within the Promontory at Graham Mesa Phase 3 subdivision. The property owner 
+desires to reverse the Lot Line Dissolution Plat approved in 2015.   
+ 
+The Farm 
+Subject Property 
+Birch Ave 
+E. 17th Street 
+16th Street 
+Graham Mesa Ave. 
+E. 17th Street 
+Page 38 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+2 
+ 
+CURRENT CONDITIONS 
+ 
+On March 11, 2015 lots 80 & 81 were combined to allow the property owner to build a separate 
+garage on what was formerly lot 80. The lot currently has a single-family residence (former Lot 
+81) and a large RV garage (former lot 80) developed on-site. The RV garage will be required to 
+apply for a building permit to remodel to insure that all codes are met for a single-family 
+residence. 
+ 
+SKETCH PLAN 
+ 
+ 
+ 
+ 
+STAFF COMMENTS 
+ 
+This application proposes to restore the original two lots as they were originally platted in the 
+Promontory at Graham Mesa Phase 3. With an approved re-model building permit, this will 
+provide one more single-family home to the local market. As built, the structures meet required 
+setbacks for LDR Low Density zone district with the property line restored. 
+ 
+FINDINGS 
+ 
+Pursuant to RMC Section 16-5-280, the Planning Commission shall consider the following criteria 
+before recommending approval to Council: 
+Proposed Property Line 
+Page 39 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+3 
+ 
+1. Conformance of the proposal with the City of Rifle Municipal Code; 
+The proposal is in conformance with the Rifle Municipal Code.  
+2. The compatibility of the proposal with the character of the surrounding area, including but not 
+limited to the architectural character of the neighborhood, the average lot and building sizes in 
+the neighborhood, and the relative value of the proposed structure to the value of other structures 
+in the neighborhood; 
+The residential use and density is compatible with the existing neighborhood.  
+3. The desirability for the proposed use in the specific area of the City; 
+The application is in compliance with the approved final plat.  
+4. The potential for adverse environmental effects that might result from the proposed use; 
+No major adverse environmental effects are anticipated from the proposal. 
+5. Compatibility of the proposed use and the site (or subdivision) plan with the City of Rifle 
+Comprehensive Plan; 
+No Comprehensive Plan issues were noted as part of the review.  
+6. The potential impact of the proposed use upon the value of property and buildings within the 
+surrounding area; and 
+No adverse impacts are anticipated on property values. 
+7. Conformance of the proposal with the approval requirements concerning water and sewer tap 
+availability for high volume use requests pursuant to 13-4-120 of the Code, if applicable. 
+ Not applicable. 
+ 
+RECOMMENDATION 
+ 
+Staff recommends the Planning and Zoning Commission approve of the sketch plan and send 
+Final Pate to City Council subject to the following conditions of approval.  
+1. All representations made by the Applicant in the application and during the public hearing 
+shall be conditions of approval, unless specifically altered by Planning and Zoning  
+2. The applicant shall be required to submit for review and approval a building permit 
+converting the existing RV garage into a single-family residence prior to recording of the 
+final plat. 
+Page 40 of 46
+ 
+ 
+CITY OF RIFLE 
+AGENDA ITEM REPORT 
+ 
+MEETING DATE: August 25, 2026 
+ 
+ 
+ 
+ 
+Agenda Item #7.c. 
+  
+Agenda Item Name: 
+Discussion and possible action regarding Conditional Use Permit for 799 Buckhorn 
+  
+Presenter: 
+Geir Sverdrup, Senior Planner 
+  
+Item Description: 
+Conditional Use Permit consideration to allow for Heavy Equipment and Bulk Fuel Storage at 799 Buckhorn as 
+part of an Excavation Office and Yard. 
+  
+Recommended Action: 
+Move to approve the Conditional Use Permit for 799 Buckhorn Drive with Staff recommendations. 
+  
+Fiscal Impact: 
+N/A 
+  
+Operational Impact: 
+N/A 
+  
+Prior Board Motions: 
+N/A 
+  
+Background Information: 
+See attached memo. 
+  
+Executive Summary: 
+See attached memo. 
+  
+Notification Requirements: 
+Public Notice has been met. 
+  
+Prepared By: 
+Zach Higgins, Community Development Director 
+  
+Attachments: 
+1. CUP Staff Report - 799 Buckhorn Drive - Heavy Equip-Stor Yard 
+ 
+Page 41 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+1 
+ 
+MEMORANDUM 
+ 
+TO:   City of Rifle Planning Commission 
+FROM:  Zach Higgins, Community Development Director 
+  Geir Sverdrup, Senior Planner 
+DATE:  August 25, 2026 
+SUBJECT:  Conditional Use Permit for Excavation Offices and Maintenance & Storage Yard 
+ADDRESS:    799 Buckhorn Drive 
+CASE #:         Conditional Use Permit PLN-2026-024 
+APPLICANT:  Justin Nunn/REDC 
+ 
+ 
+REQUEST 
+ 
+The applicant is requesting approval of a Conditional Use Permit to allow for Excavation Offices 
+and Maintenance & Storage Yard on the subject property. The applicant has provided a site plan 
+showing the location of uses on the subject property with a narrative describing the use of the 
+property.  
+ 
+Vicinity Map 
+ 
+ 
+ 
+EXCAVATION 
+SERVICES 
+SITE 
+N 
+Buckhorn Drive 
+Rifle 
+Business 
+Park 
+City of Rifle 
+Ramsey Gulch 
+e  
+BLM Lands 
+Area of 
+Development 
+Page 42 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+2 
+ 
+Background, Zoning & Comprehensive Plan 
+ 
+The property is located within the South Rifle Neighborhood and is zoned LI Light Industrial  zone 
+district. Properties to the west, north and east are zoned LI. The south property line is adjacent to 
+BLM Lands not within the City. To the southwest is the City owned parcel with future plans as the 
+Ramsey Gulch Natural Area aka South Rifle Property.  
+ 
+The Comprehensive Plan designates this property for Light Industrial development.  
+ 
+ 
+ 
+Comprehensive Plan Excerpt 
+2. Undeveloped areas south of Airport Road . This area west of Grand River 
+Health has several vacant developable parcels on both annexed and unannexed 
+property. The best use for the area is difficult to predict. The area does not directly 
+front on Airport Road, so commercial development may be unlikely due to a lack 
+of visibility. Industrial or light industrial uses should not be permitted due to the 
+proximity to Grand River Health and other commercial/residential areas. By 
+process of elimination, acceptable uses may include residential, office, business, 
+or other commercial uses that are compatible in a mixed-use setting. The Future 
+Land Use Map designates the area as “High Density Residential” and 
+“Neighborhood Commercial”. The intent is to allow for apartment buildings and 
+ensure that any commercial use would be compatible with nearby residential use. 
+If significant new residential development were to be proposed, a public park 
+should be designated as one does not exist currently in South Rifle. Another 
+potential use for the area may be affordable housing in the form of manufactured 
+Excavation Services 
+Proposed Site 
+Ramsey Gulch Natural Area 
+aka South Rifle Property 
+Page 43 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+3 
+ 
+housing or mobile homes parks that are constructed and managed to a high 
+standard of quality.  
+3. Ramsey Gulch Natural Area. This area is owned by the City of Rifle and may 
+be available for trails in an attractive natural setting. A Ramsey Gulch flood channel 
+has been master planned to direct flows along the same line that marks the 
+“Commercial/ Light Industrial Boundary” (see map). This flood channel should be 
+constructed as each property develops. 
+ 
+The property is vacant and undeveloped. 
+ 
+PROPOSED SITE PLAN 
+ 
+ 
+ 
+The site plan shows the location of the uses on the site. The applicant is proposing potential future 
+use of the lower bench. Upper bench will be developed with a 100’ x 110’ building for operations 
+and offices with storage of heavy equipment, trucks, trailers, shipping containers, dirt, aggregate, 
+pipe, and other construction materials and supplies. There is proposed storage of various fuels 
+for the operation of daily operations. City of Rifle Public Works and Colorado River Fire Rescue 
+have reviewed the request. 
+ 
+ 
+ 
+ 
+Page 44 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+4 
+ 
+REFERRAL COMMENTS 
+ 
+The application was referred to City of Rifle Public Works, and Colorado River Fire Rescue. 
+Relevant comments are listed below. 
+Colorado River Fire Rescue 
+1. Proposed construction yard and shop will need to meet 2015 International Fire Code 
+including fire truck access and road grades, fire hydrants/ fire flows installed, fuel tanks 
+containment, storage of hazardous materials, and wildfire mitigation. 
+2. Buildings are in wildfire zone for the new Wildfire Resiliency Code. 
+ 
+City of Rifle Public Works 
+1. A grading and drainage permit must be submitted for review and approval. 
+2. ROW and utility improvements will need to be made.  
+ 
+ 
+STAFF COMMENTS 
+ 
+This application proposes to prepare the site by filling two of the natural benches to allow for the 
+construction of a 11,000 square foot building as the storage and maintenance of the company’s 
+equipment. Additionally the site will be used to store bulk fuels for the company’s daily operations 
+contained in skids. Site will be required to meet all fire code requirements as listed in Colorado 
+River Fire Rescue’s comments. Per Public Works comments, grading and drainage plans along 
+with right-of-way and utility improvements will be required to be completed. 
+The site is adjacent to existing light industrial uses to the north that include industrial buildings 
+and outside storage. Lands to the east and south are vacant and undeveloped. 
+ 
+FINDINGS 
+ 
+Pursuant to Section 16-5-280, the Commission shall consider the following criteria before 
+approving a Conditional Use Permit (staff comments shown in bold italics): 
+ 
+1. Conformance of the proposal with the City of Rifle Municipal Code; 
+The proposal conforms to the Rifle Municipal Code for a Conditional Use Permit.  
+ 
+2. The compatibility of the proposal with the character of the surrounding area, including but not 
+limited to the architectural character of the neighborhood, the average lot and building sizes in 
+the neighborhood, and the relative value of the proposed structure to the value of other structures 
+in the neighborhood; 
+The location of the proposed Excavation and Storage Yard is compatible with the other 
+light industrial uses in the area.  
+ 
+3. The desirability for the proposed use in the specific area of the City; 
+This area is zoned LI Light Industrial zone district, operation of a contractor yard/heavy 
+equipment storage yard is permitted by Conditional Use Permit. 
+ 
+4. The potential for adverse environmental effects that might result from the proposed use; 
+No adverse environmental effects are anticipated. 
+Page 45 of 46
+COMMUNITY DEVELOPMENT DEPARTMENT 
+202 Railroad Avenue, Rifle, CO 81650 
+Phone:  970-665-6490   
+ 
+5 
+ 
+ 
+5. Compatibility of the proposed use and the site (or subdivision) plan with the City of Rifle 
+Comprehensive Plan; 
+The Comprehensive Plan specifies this area for Light Industrial.  
+ 
+6. The potential impact of the proposed use upon the value of property and buildings within the 
+surrounding area; and 
+The location of the yard will have no impact on surrounding existing industrial properties. 
+ 
+7. Conformance of the proposal with the approval requirements concerning water and sewer tap 
+availability for high volume use requests pursuant to 13-4-120 of the Code, if applicable. 
+Not applicable 
+ 
+ 
+RECOMMENDATION 
+ 
+Staff recommends Planning Commission APPROVE CUP 2024-012 with the following conditions:  
+1. All representations made by the Applicant in the application and during the public hearing 
+shall be conditions of approval, unless specifically altered by the Planning Commission.  
+2. The applicant shall apply for and have a grading and drainage plan approved within six 
+(6) months of Planning Commission approval of the Conditional Use Permit.  
+3. Applicant shall make all right-of-way and utility improvements prior to issuance of a 
+building permit as required by City of Rifle Public Works department. 
+4. Applicant shall conform to 2015 International Fire Code including fire truck access and 
+road grades, fire hydrants/ fire flows installed, fuel tanks containment, storage of 
+hazardous materials, and wildfire mitigation. 
+5. Buildings shall comply with the City of Rifle Wildfire Resiliency Code. 
+6. Conditional Use Permit shall be valid only with the proposed use and operator. 
+Page 46 of 46
