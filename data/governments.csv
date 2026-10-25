@@ -1,335 +1,335 @@
-id,name,kind,county,population,website,meetings_url,platform,collector,status
-el-paso-county,El Paso County,county,El Paso,730395,http://www.elpasoco.com,https://bocc.elpasoco.com/,,,no meeting records found
-denver,Denver,city and county,Denver,715522,https://www.denvergov.org,https://www.denvergov.org/Community/Activities-Programs-and-Events/City-Events-Directory,,,collected
-arapahoe-county,Arapahoe County,county,Arapahoe,655070,http://www.co.arapahoe.co.us,https://arapahoe.legistar.com/LegislationDetail.aspx?ID=5193579&amp;GUID=5A3C2BF4-670C-49B7-B99A-FE253548EFF7&amp;FullText=1,legistar,legistar,found
-jefferson-county,Jefferson County,county,Jefferson,582910,http://www.jeffco.us,https://pub-jeffco.escribemeetings.com/,escribe,escribe,found
-adams-county,Adams County,county,Adams,519572,http://www.co.adams.co.us,,,,home page failed (ConnectionError)
-colorado-springs,Colorado Springs,city,El Paso,478961,https://coloradosprings.gov/,https://coloradosprings.legistar.com/Calendar.aspx,legistar,legistar,found
-aurora,Aurora,city,Arapahoe,386261,https://www.auroragov.org,https://www.auroragov.org/city_hall/mayor___city_council,,,collected
-larimer-county,Larimer County,county,Larimer,359066,http://www.co.larimer.co.us,,,,home page refused (403)
-douglas-county,Douglas County,county,Douglas,357978,http://www.douglas.co.us,https://www.douglasco.gov/event/water-commission-meeting-16/,,,no meeting records found
-boulder-county,Boulder County,county,Boulder,330758,http://www.bouldercounty.org,https://pub-bouldercounty.escribemeetings.com,escribe,escribe,collected
-weld-county,Weld County,county,Weld,328977,http://www.co.weld.co.us,,,,home page refused (400)
-fort-collins,Fort Collins,city,Larimer,169810,https://www.fcgov.com/,https://fortcollinsco.portal.civicclerk.com/,civicclerk,civicclerk,found
-pueblo-county,Pueblo County,county,Pueblo,168162,http://www.co.pueblo.co.us,,,,home page failed (ConnectTimeout)
-lakewood,Lakewood,city,Jefferson,155984,https://www.lakewood.org,https://www.lakewoodco.gov/Local-Government/Upcoming-City-Meetings,,,no meeting records found
-mesa-county,Mesa County,county,Mesa,155703,http://www.mesacounty.us,https://onbaseep22.mesacounty.us/OnBaseAgendaOnline,onbase,onbase,found
-thornton,Thornton,city,Adams,141867,http://www.cityofthornton.net/,https://www.thorntonco.gov/community-culture/arts-culture/thornton-arts-sciences-humanities-council-tashco,,,collected
-arvada,Arvada,city,Jefferson,124402,http://arvada.org,,,,home page refused (403)
-westminster,Westminster,city,Adams,116317,http://www.ci.westminster.co.us/,https://www.westminsterco.gov/157/City-Council,,,no meeting records found
-pueblo,Pueblo,city,Pueblo,111876,,,,,no website found
-greeley,Greeley,city,Weld,108795,http://greeleygov.com/,https://greeleyco.portal.civicclerk.com/,civicclerk,civicclerk,found
-centennial,Centennial,city,Arapahoe,108418,https://www.centennialco.gov/Home,https://www.centennialco.gov/Maps/Centennial-Maps/City-Council-Districts,,,no meeting records found
-boulder,Boulder,city,Boulder,108250,https://bouldercolorado.gov/,https://bouldercolorado.primegov.com/public/portal?utm_source=chatgpt.com,primegov,primegov,collected
-longmont,Longmont,city,Boulder,98885,http://www.ci.longmont.co.us/,,,,collected
-loveland,Loveland,city,Larimer,76378,http://www.ci.loveland.co.us/,,,,home page refused (403)
-broomfield,Broomfield,city and county,Broomfield,74112,https://www.broomfield.org/,https://www.broomfield.org/AgendaCenter/Land-Use-Review-Commission-23/#_10262026-1951,agendacenter,agendacenter,collected
-castle-rock,Castle Rock,town,Douglas,73158,http://www.townofcastlerock.org,,,,no meeting records found
-grand-junction,Grand Junction,city,Mesa,65560,,,,,no website found
-commerce-city,Commerce City,city,Adams,62418,http://www.ci.commerce-city.co.us/,,,,collected
-garfield-county,Garfield County,county,Garfield,61685,http://www.garfield-county.com,https://pub-garfield.escribemeetings.com/?Year=2026,escribe,escribe,found
-parker,Parker,town,Douglas,58512,http://www.parkeronline.org,https://www.youtube.com/playlist?list=PLfOyBN_TedFGE9aj2HPmw4AoSTfHQ9FwM,,,no meeting records found
-eagle-county,Eagle County,county,Eagle,55731,https://www.eaglecounty.us,http://reflect-vod-eaglecounty.cablecast.tv/CablecastPublicSite/?channel=1,cablecast,cablecast,found
-la-plata-county,La Plata County,county,La Plata,55638,http://co.laplata.co.us,http://laplatacountyco.iqm2.com/Citizens/Default.aspx,iqm2,,found
-fremont-county,Fremont County,county,Fremont,48939,http://www.fremontco.com,https://royalgorgeregion.com/fremont-county-tourism-council/,own site (PDF links),linkscan,found
-littleton,Littleton,city,Arapahoe,45652,https://www.littletonco.gov,https://www.littletonco.gov/Community/City-Calendars/Tentative-Council-Meeting-Calendar,,,no meeting records found
-montrose-county,Montrose County,county,Montrose,42679,http://www.montrosecounty.net,https://montrosecounty.granicus.com/ViewPublisher.php?view_id=2,granicus,granicus,found
-brighton,Brighton,city,Adams,40083,http://www.brightonco.gov,https://www.brightonco.gov/agendacenter,agendacenter,agendacenter,found
-northglenn,Northglenn,city,Adams,38131,http://www.northglenn.org/,https://webdocs.northglenn.org/,own site (PDF links),linkscan,found
-englewood,Englewood,city,Arapahoe,33659,https://www.englewoodco.gov,,,,home page refused (403)
-windsor,Windsor,town,Weld,32716,http://www.ci.windsor.co.us/,,,,home page failed (ConnectionError)
-wheat-ridge,Wheat Ridge,city,Jefferson,32398,http://www.ci.wheatridge.co.us,,,,home page refused (403)
-delta-county,Delta County,county,Delta,31196,http://www.deltacounty.com,https://deltacoco.portal.civicclerk.com/,civicclerk,civicclerk,found
-summit-county,Summit County,county,Summit,31055,http://www.co.summit.co.us/,https://i.civicweb.net/Global/Images/portalicons/RotatorNavigateImage.png,civicweb,civicweb,found
-lafayette,Lafayette,city,Boulder,30411,http://www.cityoflafayette.com,https://lafayetteco.gov/247/City-Council,,,collected
-erie,Erie,town,Weld,30038,http://www.erieco.gov,https://erie.granicus.com/ViewPublisher.php?view_id=16,granicus,granicus,collected
-fountain,Fountain,city,El Paso,29802,http://www.fountaincolorado.org/,https://fountain.colorado.gov/government/city-council,own site (PDF links),linkscan,found
-morgan-county,Morgan County,county,Morgan,29111,http://www.co.morgan.co.us,,,,home page failed (SSLError)
-elbert-county,Elbert County,county,Elbert,26062,http://www.elbertcounty-co.gov,https://www.elbertcounty-co.gov/129/Agendas-Minutes,,,no meeting records found
-montezuma-county,Montezuma County,county,Montezuma,25849,https://montezumacounty.org/,https://montezumacounty.gov/public-notices/,own site (PDF links),linkscan,found
-routt-county,Routt County,county,Routt,24829,http://www.co.routt.co.us,https://www.co.routt.co.us/agendacenter,agendacenter,agendacenter,found
-teller-county,Teller County,county,Teller,24710,http://www.co.teller.co.us,https://tellercoco.portal.civicclerk.com/,civicclerk,civicclerk,found
-evans,Evans,city,Weld,22165,http://www.cityofevans.org/,,,,home page failed (ConnectionError)
-logan-county,Logan County,county,Logan,21528,http://www.loganco.gov,,,,home page failed (ConnectionError)
-louisville,Louisville,city,Boulder,21226,http://www.ci.louisville.co.us,,,,collected
-golden,Golden,city,Jefferson,20399,http://www.cityofgolden.net/,https://goldenco.granicus.com/ViewPublisher.php?view_id=2,granicus,granicus,found
-montrose,Montrose,city,Montrose,20291,https://www.cityofmontrose.org/,https://www.cityofmontrose.org/Portal,,,no meeting records found
-chaffee-county,Chaffee County,county,Chaffee,19476,https://www.chaffeecounty.org/,https://chaffeecoco.portal.civicclerk.com/,civicclerk,civicclerk,found
-durango,Durango,city,La Plata,19071,http://www.durangogov.org/,https://www.durangoco.gov/m/newsflash/home/detail/4920,own site (PDF links),linkscan,found
-otero-county,Otero County,county,Otero,18690,http://www.oterogov.com,,,,no meeting records found
-park-county,Park County,county,Park,17390,https://www.parkco.us/,https://www.parkcountyco.gov/AgendaCenter,agendacenter,agendacenter,found
-pitkin-county,Pitkin County,county,Pitkin,17358,http://aspenpitkin.com,https://cityofaspen.granicus.com/ViewPublisher.php?view_id=3,granicus,granicus,found
-johnstown,Johnstown,town,Weld,17303,http://www.townofjohnstown.com/,,,,home page failed (ConnectionError)
-ca-on-city,Cañon City,city,Fremont,17141,http://www.canoncity.org/,https://www.canoncity.org/AgendaCenter/Community-Meetings-15/#_10262026-1237,agendacenter,agendacenter,found
-gunnison-county,Gunnison County,county,Gunnison,16918,https://www.gunnisoncounty.org,https://www.gunnisoncounty.org/AgendaCenter,agendacenter,agendacenter,found
-firestone,Firestone,town,Weld,16381,http://www.FirestoneCO.gov,https://www.firestoneco.gov/542/Agendas-Minutes,,,collected
-alamosa-county,Alamosa County,county,Alamosa,16376,http://www.alamosacounty.org,https://www.alamosacounty.org/agendacenter,agendacenter,agendacenter,found
-grand-county,Grand County,county,Grand,15717,http://co.grand.co.us,https://www.co.grand.co.us/agendacenter,agendacenter,agendacenter,found
-greenwood-village,Greenwood Village,city,Arapahoe,15691,http://www.greenwoodvillage.com/,https://greenwoodvillageco.portal.civicclerk.com/,civicclerk,civicclerk,found
-las-animas-county,Las Animas County,county,Las Animas,14555,http://lasanimascounty.org,,,,no meeting records found
-frederick,Frederick,town,Weld,14513,http://www.frederickco.gov,https://www.frederickco.gov/1100/Agenda-Portal,,,collected
-federal-heights,Federal Heights,city,Adams,14382,http://www.ci.federal-heights.co.us,,,,home page failed (ConnectionError)
-lone-tree,Lone Tree,city,Douglas,14253,http://www.cityoflonetree.com,https://i.civicweb.net/Global/Images/portalicons/RotatorNavigateImage.png,civicweb,civicweb,found
-sterling,Sterling,city,Logan,13735,http://www.sterlingcolo.com,http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php,own site (PDF links),linkscan,found
-fruita,Fruita,city,Mesa,13395,http://www.fruita.org/,https://www.fruita.org/AgendaCenter,agendacenter,agendacenter,found
-archuleta-county,Archuleta County,county,Archuleta,13359,http://www.archuletacounty.org,https://maps.googleapis.com,,,no meeting records found
-moffat-county,Moffat County,county,Moffat,13292,http://www.co.moffat.co.us,,,,home page failed (ConnectTimeout)
-steamboat-springs,Steamboat Springs,city,Routt,13224,https://www.steamboatsprings.net/,https://docs.steamboatsprings.net/OnBaseAgendaOnline/,onbase,onbase,found
-superior,Superior,town,Boulder,13094,http://www.townofsuperior.com,,,,collected
-prowers-county,Prowers County,county,Prowers,11999,http://www.prowerscounty.net,,,,home page failed (ConnectionError)
-fort-morgan,Fort Morgan,city,Morgan,11597,https://www.cityoffortmorgan.com/,https://www.cityoffortmorgan.com/AgendaCenter/City-Council-Agendas-Minutes-2,agendacenter,agendacenter,found
-rio-grande-county,Rio Grande County,county,Rio Grande,11539,http://www.riograndecounty.org,https://riograndecounty.colorado.gov/elected-officials/commissioners,,,no meeting records found
-wellington,Wellington,town,Larimer,11047,http://www.townofwellington.com/,https://wellingtonco.portal.civicclerk.com/,civicclerk,civicclerk,found
-castle-pines,Castle Pines,city,Douglas,11036,http://www.cityofmartin.net/,https://www.cityofmartin.net/government/agendas-minutes/,own site (PDF links),linkscan,found
-rifle,Rifle,city,Garfield,10437,http://www.rifleco.org/,https://www.rifleco.org/29/City-Council,,,no meeting records found
-monument,Monument,town,El Paso,10399,http://www.townofmonument.org/,https://monumentco.portal.civicclerk.com/,civicclerk,civicclerk,found
-berthoud,Berthoud,town,Larimer,10332,http://www.ci.berthoud.co.us,,,,home page failed (ConnectionError)
-yuma-county,Yuma County,county,Yuma,9988,http://www.yumacounty.net,,,,home page refused (404)
-glenwood-springs,Glenwood Springs,city,Garfield,9963,http://www.ci.glenwood-springs.co.us,https://glenwoodspringsco.portal.civicclerk.com/,civicclerk,civicclerk,found
-alamosa,Alamosa,city,Alamosa,9806,http://www.cityofalamosa.org,https://i.civicweb.net/Global/Images/portalicons/RotatorNavigateImage.png,civicweb,civicweb,found
-clear-creek-county,Clear Creek County,county,Clear Creek,9397,http://www.co.clear-creek.co.us,https://www.clearcreekcounty.us/AgendaCenter,agendacenter,agendacenter,found
-craig,Craig,city,Moffat,9060,http://www.ci.craig.co.us,https://craigco.portal.civicclerk.com/,civicclerk,civicclerk,found
-delta,Delta,city,Delta,9035,http://www.delta-co.gov,,,,home page failed (ConnectionError)
-cortez,Cortez,city,Montezuma,8766,http://www.cityofcortez.com/,https://public.destinyhosted.com/agenda_publish.cfm?id=26783,destiny,,found
-milliken,Milliken,town,Weld,8386,http://town.milliken.co.us/,,,,home page failed (ConnectTimeout)
-trinidad,Trinidad,city,Las Animas,8329,https://www.trinidad.co.gov/,https://www.trinidad.co.gov/,,,no meeting records found
-lochbuie,Lochbuie,town,Weld,8088,http://www.lochbuie.org/,,,,home page refused (403)
-san-miguel-county,San Miguel County,county,San Miguel,8072,https://www.sanmiguelcountyco.gov/,https://sanmiguelcoco.portal.civicclerk.com/event/1058/files,civicclerk,civicclerk,found
-gypsum,Gypsum,town,Eagle,8040,http://www.townofgypsum.com,https://townofgypsum.granicus.com/ViewPublisher.php?view_id=3,granicus,granicus,found
-fort-lupton,Fort Lupton,city,Weld,7955,http://www.fortlupton.org/,https://www.fortluptonco.gov/agendacenter,agendacenter,agendacenter,found
-woodland-park,Woodland Park,city,Teller,7920,http://www.city-woodlandpark.org/,https://woodlandparkco.portal.civicclerk.com/,civicclerk,civicclerk,found
-lamar,Lamar,city,Prowers,7687,http://www.ci.lamar.co.us,https://ci.lamar.co.us,,,no meeting records found
-severance,Severance,town,Weld,7683,http://www.townofseverance.org,https://www.townofseverance.org/129/Agendas-Minutes,,,no meeting records found
-eagle,Eagle,town,Eagle,7511,http://www.townofeagle.org,https://www.townofeagle.org/773/Agendas-Minutes-and-Packets,,,no meeting records found
-conejos-county,Conejos County,county,Conejos,7461,http://www.conejoscounty.org,https://conejoscounty.colorado.gov/elected-officials/commissioners,,,no meeting records found
-lake-county,Lake County,county,Lake,7436,http://www.lakecountyco.com,https://www.lakecountyco.gov/AgendaCenter/Planning-Commission-4/#_10262026-905,agendacenter,agendacenter,found
-la-junta,La Junta,city,Otero,7322,http://www.ci.la-junta.co.us,,,,home page failed (SSLError)
-kit-carson-county,Kit Carson County,county,Kit Carson,7087,http://www.kitcarsoncounty.org,https://kitcarsoncounty.colorado.gov/kcc-commissioners,,,no meeting records found
-aspen,Aspen,city,Pitkin,7004,https://aspen.gov,https://cityofaspen.granicus.com/ViewPublisher.php?view_id=3,granicus,granicus,found
-huerfano-county,Huerfano County,county,Huerfano,6820,http://www.huerfano.us,https://huerfanoco.portal.civicclerk.com/,civicclerk,civicclerk,found
-gunnison,Gunnison,city,Gunnison,6560,http://www.cityofgunnison-co.gov/,,,,home page failed (ConnectionError)
-rio-blanco-county,Rio Blanco County,county,Rio Blanco,6529,http://www.rbc.us,https://www.rbc.us/,own site (PDF links),linkscan,found
-timnath,Timnath,town,Larimer,6487,http://timnath-co.gov/,,,,home page failed (ConnectionError)
-cherry-hills-village,Cherry Hills Village,city,Arapahoe,6442,http://www.cherryhillsvillage.com,https://www.cherryhillsvillage.com/AgendaCenter,agendacenter,agendacenter,found
-carbondale,Carbondale,town,Garfield,6434,http://www.carbondalegov.org,https://i.civicweb.net/Global/Images/portalicons/RotatorNavigateImage.png,civicweb,civicweb,found
-saguache-county,Saguache County,county,Saguache,6368,http://www.saguachecounty.net,https://saguachecounty.colorado.gov/commissioners,,,no meeting records found
-dacono,Dacono,city,Weld,6297,http://www.ci.dacono.co.us/,,,,home page failed (ConnectionError)
-sheridan,Sheridan,city,Arapahoe,6105,http://www.ci.sheridan.co.us,https://ci.sheridan.co.us/AgendaCenter,agendacenter,agendacenter,found
-avon,Avon,town,Eagle,6072,https://www.avon.org/,https://lfpublic.avon.org/WebLink/Browse.aspx?startid=67537,laserfiche,,found
-crowley-county,Crowley County,county,Crowley,5922,http://www.crowleycounty.net,https://crowleycounty.colorado.gov/commissioners-minutes,,,no meeting records found
-estes-park,Estes Park,town,Larimer,5904,http://www.estes.org/,https://dms.estes.org/WebLink/Welcome.aspx,laserfiche,,found
-gilpin-county,Gilpin County,county,Gilpin,5808,http://www.co.gilpin.co.us,,,,home page refused (404)
-eaton,Eaton,town,Weld,5802,http://www.eatonco.org,,,,home page refused (403)
-lincoln-county,Lincoln County,county,Lincoln,5675,http://www.lincolncountyco.us,,,,home page failed (ConnectionError)
-salida,Salida,city,Chaffee,5666,http://cityofsalida.com/,,,,home page refused (403)
-bent-county,Bent County,county,Bent,5650,http://www.bentcounty.org,,,,no meeting records found
-brush,Brush,city,Morgan,5339,http://www.brushcolo.com,http://www.brushcolo.com/your_city/agendas_minutes.php,own site (PDF links),linkscan,found
-breckenridge,Breckenridge,town,Summit,5078,http://www.townofbreckenridge.com,,,,home page refused (403)
-edgewater,Edgewater,city,Jefferson,5005,http://www.edgewaterco.com,,,,home page refused (403)
-new-castle,New Castle,town,Garfield,4923,http://www.newcastlecolorado.org/,,,,home page refused (403)
-ouray-county,Ouray County,county,Ouray,4874,http://www.ouraycountyco.gov,https://ouraycountyco.gov/AgendaCenter,agendacenter,agendacenter,found
-manitou-springs,Manitou Springs,city,El Paso,4858,http://manitousprings-co.gov,,,,home page failed (ConnectionError)
-vail,Vail,town,Eagle,4835,http://www.vailgov.com/,,,,home page refused (403)
-washington-county,Washington County,county,Washington,4817,http://co.washington.co.us,https://washingtoncounty.colorado.gov/2026-agendas,own site (PDF links),linkscan,found
-mead,Mead,town,Weld,4781,http://mead-co.gov/,,,,collected
-custer-county,Custer County,county,Custer,4704,http://custercountygov.com,http://custercountygov.com/custerco.css,,,no meeting records found
-glendale,Glendale,city,Arapahoe,4613,https://www.glendale.co.us/,https://www.glendale.co.us/AgendaCenter/,agendacenter,agendacenter,collected
-phillips-county,Phillips County,county,Phillips,4530,https://www.colorado.gov/phillipscounty,https://phillipscounty.colorado.gov,own site (PDF links),linkscan,found
-silverthorne,Silverthorne,town,Summit,4402,http://www.silverthorne.org/,,,,home page refused (403)
-monte-vista,Monte Vista,city,Rio Grande,4247,http://www.ci.monte-vista.co.us/,,,,home page refused (409)
-basalt,Basalt,town,Eagle,3984,http://www.basalt.net,https://www.basalt.net/agendacenter,agendacenter,agendacenter,found
-rocky-ford,Rocky Ford,city,Otero,3876,http://www.rockyfordcolo.com/,,,,no meeting records found
-florence,Florence,city,Fremont,3822,http://www.florencecolorado.org,,,,home page refused (404)
-silt,Silt,town,Garfield,3536,http://www.townofsilt.org/,https://us02web.zoom.us/j/83287591518?pwd=pn3TgfXuTWLagAebPzUMtgQFnobRfU.1,,,no meeting records found
-baca-county,Baca County,county,Baca,3506,http://bacacountyco.gov,https://www.bacacountyco.gov/government/county-commissioners/,,,no meeting records found
-costilla-county,Costilla County,county,Costilla,3499,http://www.costillacounty-co.gov,,,,home page refused (404)
-yuma,Yuma,city,Yuma,3456,http://www.yumacolo.org,,,,home page refused (404)
-burlington,Burlington,city,Kit Carson,3172,http://www.burlingtoncolo.com,http://www.burlingtoncolo.com/agendacenter,agendacenter,agendacenter,found
-orchard-city,Orchard City,town,Delta,3142,http://www.ochardcityco.org,,,,home page refused (520)
-snowmass-village,Snowmass Village,town,Pitkin,3096,https://www.tosv.com/,https://tosvco.portal.civicclerk.com/,civicclerk,civicclerk,found
-walsenburg,Walsenburg,city,Huerfano,3049,http://www.cityofwalsenburg.com/,,,,home page refused (403)
-platteville,Platteville,town,Weld,2955,http://www.plattevillegov.org/,https://platteville.colorado.gov/agendas-and-minutes,own site (PDF links),linkscan,found
-frisco,Frisco,town,Summit,2913,http://www.townoffrisco.com/,,,,no meeting records found
-bennett,Bennett,town,Adams,2862,http://www.bennett.co.us/,,,,home page failed (ConnectTimeout)
-buena-vista,Buena Vista,town,Chaffee,2855,http://www.buenavistaco.gov/,http://www.buenavistaco.gov/AgendaCenter,agendacenter,agendacenter,found
-bayfield,Bayfield,town,La Plata,2838,http://www.bayfield.govoffice.com,,,,home page failed (SSLError)
-palmer-lake,Palmer Lake,town,El Paso,2636,http://www.ci.palmet-lake.co.us,,,,home page failed (ConnectionError)
-leadville,Leadville,city,Lake,2633,https://www.leadville.com/,,,,no meeting records found
-telluride,Telluride,town,San Miguel,2607,https://www.telluride-co.gov/,,,,home page failed (ConnectionError)
-palisade,Palisade,town,Mesa,2565,http://www.townofpalisade.org/,https://palisade.colorado.gov/boards/board-of-trustees/board-of-trustees,own site (PDF links),linkscan,found
-sedgwick-county,Sedgwick County,county,Sedgwick,2395,http://www.sedgwickcountygov.net,,,,home page failed (ConnectTimeout)
-meeker,Meeker,town,Rio Blanco,2374,http://www.townofmeeker.org/,https://townofmeeker.org/meeting-information/,own site (PDF links),linkscan,found
-la-salle,La Salle,town,Weld,2359,http://www.lasalletown.com/,http://www.lasalletown.com/2147/Board-of-Trustees,,,no meeting records found
-wray,Wray,city,Yuma,2358,http://wrayco.net/,,,,home page failed (ConnectionError)
-holyoke,Holyoke,city,Phillips,2346,https://www.holyokechamber.org/,,,,no meeting records found
-dolores-county,Dolores County,county,Dolores,2326,http://www.dolorescounty.org,,,,home page refused (404)
-las-animas,Las Animas,city,Bent,2300,http://www.cityoflasanimas.com,,,,home page failed (ConnectionError)
-rangely,Rangely,town,Rio Blanco,2299,http://www.rangely.com/,,,,no meeting records found
-cedaredge,Cedaredge,town,Delta,2279,http://www.cedaredgecolorado.com/,http://www.cedaredgecolorado.com/6/Agendas,,,no meeting records found
-lyons,Lyons,town,Boulder,2209,http://www.townoflyons.com,https://www.townoflyons.com/agendacenter,agendacenter,agendacenter,collected
-granby,Granby,town,Grand,2079,http://www.granbychamber.com,,,,home page refused (403)
-limon,Limon,town,Lincoln,2043,http://www.townoflimon.com/,https://www.townoflimon.com/index.php/government/trustee-meetings/agenda,own site (PDF links),linkscan,found
-olathe,Olathe,town,Montrose,2019,http://www.colorado.gov/cs/Satellite/TownOfOlathe/CBON/1249690167851,,,,home page refused (403)
-hayden,Hayden,town,Routt,1941,http://www.townofhayden.org/,,,,no meeting records found
-center,Center,town,Saguache,1929,,,,,no website found
-ault,Ault,town,Weld,1887,http://www.townofault.org/,https://www.aultcolorado.gov/board,,,no meeting records found
-idaho-springs,Idaho Springs,city,Clear Creek,1782,http://www.idahospringsco.com,,,,home page refused (403)
-akron,Akron,town,Washington,1757,http://www.townofakron.com,https://www.townofakron.com/AgendaCenter,agendacenter,agendacenter,found
-cheyenne-county,Cheyenne County,county,Cheyenne,1748,http://www.co.cheyenne.co.us,https://www.co.cheyenne.co.us/,own site (PDF links),linkscan,found
-elizabeth,Elizabeth,town,Elbert,1675,http://www.townofelizabeth.org,,,,home page refused (403)
-hudson,Hudson,town,Weld,1651,http://www.hudsoncolorado.org/,,,,no meeting records found
-crested-butte,Crested Butte,town,Gunnison,1639,https://www.crestedbutte-co.gov,https://townofcrestedbutte.colorado.gov/government/town-council,own site (PDF links),linkscan,found
-pagosa-springs,Pagosa Springs,town,Archuleta,1571,,,,,no website found
-kremmling,Kremmling,town,Grand,1509,http://www.townofkremmling.org,https://townofkremmling.colorado.gov/government/town-council,,,no meeting records found
-columbine-valley,Columbine Valley,town,Arapahoe,1502,http://www.columbinevalley.org,https://columbinevalley.org/board-trustee-agendas-minutes/,own site (PDF links),linkscan,found
-kersey,Kersey,town,Weld,1495,http://www.townofkersey.com,,,,home page refused (403)
-nederland,Nederland,town,Boulder,1471,http://www.town.nederland.co.us,,,,collected
-del-norte,Del Norte,town,Rio Grande,1458,,,,,no website found
-paonia,Paonia,town,Delta,1447,,,,,no website found
-kiowa-county,Kiowa County,county,Kiowa,1446,https://www.kiowacountycolo.com,,,,no meeting records found
-wiggins,Wiggins,town,Morgan,1401,http://www.wigginsco.com,https://www.wigginsco.gov/boardoftrustees,,,no meeting records found
-fraser,Fraser,town,Grand,1400,http://www.frasercolorado.com,https://www.frasercolorado.com/agendacenter,agendacenter,agendacenter,found
-parachute,Parachute,town,Garfield,1390,http://www.parachutecolorado.com/,https://www.parachute.gov/page/town-council,,,no meeting records found
-jackson-county,Jackson County,county,Jackson,1379,http://www.ccionline.org/counties/jackson.html,,,,home page refused (404)
-springfield,Springfield,town,Baca,1325,http://www.springfieldcolorado.com,,,,no meeting records found
-julesburg,Julesburg,town,Sedgwick,1307,https://townofjulesburg.com/,https://fonts.googleapis.com,,,no meeting records found
-mountain-village,Mountain Village,town,San Miguel,1264,http://www.mountain-village.co.us/,,,,home page failed (ConnectionError)
-fowler,Fowler,town,Otero,1253,http://www.fowlercolorado.com/,,,,home page refused (403)
-keenesburg,Keenesburg,town,Weld,1250,http://www.townofkeenesburg.com/,https://www.townofkeenesburg.org/government/agendas_minutes/index.php,own site (PDF links),linkscan,found
-mancos,Mancos,town,Montezuma,1196,http://www.mancoscolorado.com,https://www.mancoscolorado.com/meetingschedule,,,no meeting records found
-ridgway,Ridgway,town,Ouray,1183,http://town.ridgway.co.us/,,,,home page failed (ConnectTimeout)
-cripple-creek,Cripple Creek,city,Teller,1155,https://cityofcripplecreek.com/,https://www.cityofcripplecreek.com/city-council,,,no meeting records found
-georgetown,Georgetown,town,Clear Creek,1118,http://www.town.georgetown.co.us,,,,home page failed (ConnectionError)
-pierce,Pierce,town,Weld,1097,,,,,no website found
-deer-trail,Deer Trail,town,Arapahoe,1068,http://www.deertrailcolorado.org,,,,no meeting records found
-ordway,Ordway,town,Crowley,1066,,,,,no website found
-dillon,Dillon,town,Summit,1064,http://www.townofdillon.com/,,,,home page refused (403)
-minturn,Minturn,town,Eagle,1033,http://www.minturn.org,,,,home page refused (403)
-winter-park,Winter Park,town,Grand,1033,https://wpgov.com/,https://winterparkcolorado.granicus.com/ViewPublisher.php?view_id=1,granicus,granicus,found
-gilcrest,Gilcrest,town,Weld,1029,,,,,no website found
-haxtun,Haxtun,town,Phillips,981,,,,,no website found
-manassa,Manassa,town,Conejos,947,,,,,no website found
-mount-crested-butte,Mount Crested Butte,town,Gunnison,941,,,,,no website found
-poncha-springs,Poncha Springs,town,Chaffee,925,http://www.ponchaspringscolorado.us,,,,home page refused (403)
-log-lane-village,Log Lane Village,town,Morgan,913,,,,,no website found
-ouray,Ouray,city,Ouray,898,http://www.ci.ouray.co.us/,https://www.cityofouray.com/city_offices/city_council/index.php,,,no meeting records found
-oak-creek,Oak Creek,town,Routt,889,,,,,no website found
-dolores,Dolores,town,Montezuma,885,https://townofdolores.colorado.gov,https://townofdolores.colorado.gov/government/town-board-meetings,own site (PDF links),linkscan,found
-sanford,Sanford,town,Conejos,879,,,,,no website found
-blue-river,Blue River,town,Summit,877,http://www.townofblueriver.com,,,,no meeting records found
-hotchkiss,Hotchkiss,town,Delta,875,,,,,no website found
-mineral-county,Mineral County,county,Mineral,865,http://www.mineralcountycolorado.com,,,,home page refused (403)
-la-veta,La Veta,town,Huerfano,862,http://www.townoflaveta-co.gov,https://www.townoflaveta-co.gov/agendas-minutes,,,no meeting records found
-bow-mar,Bow Mar,town,Arapahoe,853,http://www.bowmar.gov,,,,home page failed (ConnectTimeout)
-ignacio,Ignacio,town,La Plata,852,http://www.ignacio.co.us/,,,,home page failed (ConnectionError)
-holly,Holly,town,Prowers,837,http://www.townofholly.com,https://www.townofhollyco.gov/records/board-minutes,,,no meeting records found
-hinsdale-county,Hinsdale County,county,Hinsdale,788,http://www.hinsdalecountycolorado.us,https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes,own site (PDF links),linkscan,found
-hugo,Hugo,town,Lincoln,787,http://hugoimprovement.wix.com/hugocoloradohip,,,,home page refused (404)
-central-city,Central City,city,Gilpin,779,http://www.centralcitycolorado.us,,,,no meeting records found
-calhan,Calhan,town,El Paso,762,,,,,no website found
-cheyenne-wells,Cheyenne Wells,town,Cheyenne,758,,,,,no website found
-foxfield,Foxfield,town,Arapahoe,754,http://www.foxfieldco.us,,,,home page refused (403)
-williamsburg,Williamsburg,town,Fremont,731,,,,,no website found
-la-jara,La Jara,town,Conejos,730,,,,,no website found
-kiowa,Kiowa,town,Elbert,725,http://www.townofkiowa.com,https://kiowaco.portal.civicclerk.com,civicclerk,civicclerk,found
-fairplay,Fairplay,town,Park,724,http://fairplayco.us,https://www.fairplayco.us/285/Agendas-Minutes,,,no meeting records found
-san-juan-county,San Juan County,county,San Juan,705,http://www.sanjuancountycolorado.us,https://sanjuancounty.colorado.gov/meetings,own site (PDF links),linkscan,found
-hot-sulphur-springs,Hot Sulphur Springs,town,Grand,687,http://www.HotSulphurSpringsCO.com,,,,no meeting records found
-eads,Eads,town,Kiowa,672,http://www.kcedfonline.org/eads.htm,,,,no meeting records found
-stratton,Stratton,town,Kit Carson,656,http://www.strattoncolorado.com/,,,,home page failed (ConnectionError)
-antonito,Antonito,town,Conejos,647,,,,,no website found
-green-mountain-falls,Green Mountain Falls,town,El Paso,646,http://www.greenmountainfalls.org,,,,home page refused (522)
-dove-creek,Dove Creek,town,Dolores,635,,,,,no website found
-silverton,Silverton,town,San Juan,622,http://www.silverton.co.us,,,,home page failed (ConnectionError)
-silver-cliff,Silver Cliff,town,Custer,609,http://silvercliffco.com,https://www.silvercliffco.com/AgendaCenter/Search/?term=,agendacenter,agendacenter,found
-walden,Walden,town,Jackson,606,https://www.colorado.gov/townofwalden,,,,home page refused (502)
-swink,Swink,town,Otero,604,,,,,no website found
-simla,Simla,town,Elbert,601,https://townofsimla.com/,https://towncloud.io/go/simla-co/agendas/241,,,no meeting records found
-san-luis,San Luis,town,Costilla,598,http://townofsanluisco.org,,,,home page refused (403)
-nucla,Nucla,town,Montrose,585,http://nucla-naturita.com/,,,,no meeting records found
-flagler,Flagler,town,Kit Carson,567,http://www.flaglercolorado.com,https://www.flaglercolorado.com/index.php/council/town-staff,,,no meeting records found
-walsh,Walsh,town,Baca,543,,,,,no website found
-mountain-view,Mountain View,town,Jefferson,541,https://www.tomv.org/,,,,home page refused (403)
-saguache,Saguache,town,Saguache,539,,,,,no website found
-norwood,Norwood,town,San Miguel,535,,,,,no website found
-otis,Otis,town,Washington,511,http://www.otiscolorado.com/,,,,home page failed (ConnectionError)
-rockvale,Rockvale,town,Fremont,511,http://www.rockvalepages.com,,,,no meeting records found
-south-fork,South Fork,town,Rio Grande,510,http://www.southfork-co.gov,,,,home page failed (ConnectionError)
-nunn,Nunn,town,Weld,504,http://www.nunncolorado.com,,,,home page refused (503)
-de-beque,De Beque,town,Mesa,493,http://www.debeque.org,https://townofdebeque.colorado.gov/trustee-agendas-minutes,own site (PDF links),linkscan,found
-naturita,Naturita,town,Montrose,485,,,,,no website found
-aguilar,Aguilar,town,Las Animas,456,http://www.rbwifi.net/aguilar/,,,,home page refused (404)
-granada,Granada,town,Prowers,445,,,,,no website found
-wiley,Wiley,town,Prowers,437,,,,,no website found
-westcliffe,Westcliffe,town,Custer,435,http://www.townofwestcliffe.com,,,,no meeting records found
-lake-city,Lake City,town,Hinsdale,432,http://www.townoflakecity.us,,,,no meeting records found
-fleming,Fleming,town,Logan,428,,,,,no website found
-grand-lake,Grand Lake,town,Grand,410,https://townofgrandlake.com,,,,home page refused (403)
-crawford,Crawford,town,Delta,403,,,,,no website found
-yampa,Yampa,town,Routt,399,,,,,no website found
-morrison,Morrison,town,Jefferson,396,http://town.morrison.co.us/,https://www.morrisonco.us/agendacenter,agendacenter,agendacenter,found
-victor,Victor,city,Teller,379,http://www.victorcolorado.com/,,,,no meeting records found
-collbran,Collbran,town,Mesa,369,http://www.cmca.gen.co.us/Municipality.cfm?MunicipalityID=87,,,,home page failed (ConnectionError)
-coal-creek,Coal Creek,town,Fremont,364,,,,,no website found
-empire,Empire,town,Clear Creek,345,,,,,no website found
-manzanola,Manzanola,town,Otero,341,,,,,no website found
-blanca,Blanca,town,Costilla,322,,,,,no website found
-olney-springs,Olney Springs,town,Crowley,315,,,,,no website found
-hillrose,Hillrose,town,Morgan,312,,,,,no website found
-boone,Boone,town,Pueblo,305,,,,,no website found
-romeo,Romeo,town,Conejos,302,,,,,no website found
-alma,Alma,town,Park,296,http://www.townofalma.com,http://townofalma.com/board-of-trustees/,own site (PDF links),linkscan,found
-rico,Rico,town,Dolores,288,http://www.ricocolorado.org,,,,home page failed (ConnectionError)
-merino,Merino,town,Logan,281,,,,,no website found
-ovid,Ovid,town,Sedgwick,271,,,,,no website found
-sugar-city,Sugar City,town,Crowley,259,,,,,no website found
-city-of-creede,City of Creede,town,Mineral,257,http://www.creede.com/city-of-creede.html,,,,no meeting records found
-red-cliff,Red Cliff,town,Eagle,257,,,,,no website found
-jamestown,Jamestown,town,Boulder,256,,,,,no website found
-kit-carson,Kit Carson,town,Cheyenne,255,,,,,no website found
-garden-city,Garden City,town,Weld,254,http://townofgardencity.com,https://www.townofgardencity.com/board-meetings,own site (PDF links),linkscan,found
-iliff,Iliff,town,Logan,246,,,,,no website found
-dinosaur,Dinosaur,town,Moffat,243,,,,,no website found
-cheraw,Cheraw,town,Otero,237,,,,,no website found
-brookside,Brookside,town,Fremont,236,,,,,no website found
-eckley,Eckley,town,Yuma,232,,,,,no website found
-peetz,Peetz,town,Logan,213,https://sites.google.com/site/townofpeetz/,,,,no meeting records found
-silver-plume,Silver Plume,town,Clear Creek,207,,,,,no website found
-larkspur,Larkspur,town,Douglas,206,http://www.townoflarkspur.org,,,,home page refused (403)
-rye,Rye,town,Pueblo,206,,,,,no website found
-arriba,Arriba,town,Lincoln,202,,,,,no website found
-ophir,Ophir,town,San Miguel,197,http://www.town-ophir.co.gov/,,,,home page failed (ConnectTimeout)
-bethune,Bethune,town,Kit Carson,183,,,,,no website found
-sedgwick,Sedgwick,town,Sedgwick,172,,,,,no website found
-seibert,Seibert,town,Kit Carson,172,,,,,no website found
-crowley,Crowley,town,Crowley,166,,,,,no website found
-grover,Grover,town,Weld,157,,,,,no website found
-genoa,Genoa,town,Lincoln,153,,,,,no website found
-crestone,Crestone,town,Saguache,141,http://townofcrestone.org,,,,no meeting records found
-crook,Crook,town,Logan,133,,,,,no website found
-marble,Marble,town,Gunnison,133,,,,,no website found
-ward,Ward,town,Boulder,128,,,,,no website found
-black-hawk,Black Hawk,city,Gilpin,127,http://www.cityofblackhawk.org,"https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&amp;CIDs=2,&amp;startDate=&amp;endDate=&amp;dateRange=&amp;dateSelector=",agendacenter,agendacenter,found
-cokedale,Cokedale,town,Las Animas,127,,,,,no website found
-pritchett,Pritchett,town,Baca,112,,,,,no website found
-ramah,Ramah,town,El Paso,111,,,,,no website found
-raymer-new-raymer,Raymer (New Raymer),town,Weld,110,,,,,no website found
-moffat,Moffat,town,Saguache,108,http://www.colorado.gov/townofmoffat,,,,no meeting records found
-campo,Campo,town,Baca,103,https://townofcampo.co/,,,,home page failed (ConnectionError)
-vilas,Vilas,town,Baca,98,,,,,no website found
-vona,Vona,town,Kit Carson,95,,,,,no website found
-hooper,Hooper,town,Alamosa,81,,,,,no website found
-montezuma,Montezuma,town,Summit,74,,,,,no website found
-pitkin,Pitkin,town,Gunnison,72,,,,,no website found
-haswell,Haswell,town,Kiowa,71,http://www.kcedfonline.org/haswell.htm,,,,no meeting records found
-kim,Kim,town,Las Animas,63,,,,,no website found
-starkville,Starkville,town,Las Animas,62,,,,,no website found
-branson,Branson,town,Las Animas,57,,,,,no website found
-hartman,Hartman,town,Prowers,56,,,,,no website found
-sheridan-lake,Sheridan Lake,town,Kiowa,55,http://www.kcedfonline.org/sheridanlake.htm,,,,no meeting records found
-paoli,Paoli,town,Phillips,51,,,,,no website found
-sawpit,Sawpit,town,San Miguel,38,,,,,no website found
-two-buttes,Two Buttes,town,Baca,34,,,,,no website found
-bonanza,Bonanza,town,Saguache,17,,,,,no website found
-lakeside,Lakeside,town,Jefferson,16,,,,,no website found
-carbonate,Carbonate,town,Garfield,0,,,,,no website found
+id,name,kind,county,population,website,meetings_url,platform,collector,config,recent,status
+el-paso-county,El Paso County,county,El Paso,730395,http://www.elpasoco.com,https://www.elpasoco.com/public-meetings/,,,,,no meeting records found
+denver,Denver,city and county,Denver,715522,https://www.denvergov.org,https://denver.legistar.com/Calendar.aspx,legistar,legistar,client=denver,151,collected
+arapahoe-county,Arapahoe County,county,Arapahoe,655070,http://www.co.arapahoe.co.us,,,,,,site refused (200)
+jefferson-county,Jefferson County,county,Jefferson,582910,http://www.jeffco.us,https://pub-jeffco.escribemeetings.com,escribe,escribe,host=pub-jeffco.escribemeetings.com,,found
+adams-county,Adams County,county,Adams,519572,http://www.co.adams.co.us,,,,,,site failed (ConnectionError)
+colorado-springs,Colorado Springs,city,El Paso,478961,http://www.coloradosprings.gov,https://coloradosprings.legistar.com/Calendar.aspx,legistar,legistar,client=coloradosprings,33,found
+aurora,Aurora,city,Arapahoe,386261,https://www.auroragov.org/,https://www.auroragov.org/city_hall/mayor___city_council/council_meetings,own site (PDF links),linkscan,url=https://www.auroragov.org/city_hall/mayor___city_council/council_meetings,,collected
+larimer-county,Larimer County,county,Larimer,359066,http://www.co.larimer.co.us,,,,,,site refused (403)
+douglas-county,Douglas County,county,Douglas,357978,http://www.douglas.co.us,https://douglascounty.legistar.com/Calendar.aspx,legistar,legistar,client=douglascounty,71,found
+boulder-county,Boulder County,county,Boulder,330758,http://www.bouldercounty.org,https://pub-bouldercounty.escribemeetings.com,escribe,escribe,host=pub-bouldercounty.escribemeetings.com,,collected
+weld-county,Weld County,county,Weld,328977,http://www.co.weld.co.us,,,,,,site refused (400)
+fort-collins,Fort Collins,city,Larimer,169810,http://www.fcgov.com/,https://fortcollinsco.portal.civicclerk.com,civicclerk,civicclerk,tenant=fortcollinsco,15,found
+pueblo-county,Pueblo County,county,Pueblo,168162,http://www.co.pueblo.co.us,,,,,,site failed (ConnectTimeout)
+lakewood,Lakewood,city,Jefferson,155984,https://www.lakewood.org,https://lakewoodco.portal.civicclerk.com,civicclerk,civicclerk,tenant=lakewoodco,15,found
+mesa-county,Mesa County,county,Mesa,155703,http://www.mesacounty.us,https://onbaseep22.mesacounty.us/OnBaseAgendaOnline,onbase,onbase,,,found
+thornton,Thornton,city,Adams,141867,https://www.thorntonco.gov/Pages/default.aspx,https://thorntonco.primegov.com,primegov,primegov,tenant=thorntonco,,collected
+arvada,Arvada,city,Jefferson,124402,http://www.arvada.org/,https://arvadaco.portal.civicclerk.com,civicclerk,civicclerk,tenant=arvadaco,15,found
+westminster,Westminster,city,Adams,116317,https://www.cityofwestminster.us/,https://cityofwestminster.primegov.com,primegov,primegov,tenant=cityofwestminster,,found
+pueblo,Pueblo,city,Pueblo,111876,http://www.pueblo.us/,https://puebloco.portal.civicclerk.com,civicclerk,civicclerk,tenant=puebloco,15,found
+greeley,Greeley,city,Weld,108795,http://www.greeleygov.com/,https://greeleyco.portal.civicclerk.com,civicclerk,civicclerk,tenant=greeleyco,15,found
+centennial,Centennial,city,Arapahoe,108418,http://www.centennialco.gov/,https://onbase.centennialco.gov/OnBaseAgendaOnline,onbase,onbase,,,found
+boulder,Boulder,city,Boulder,108250,http://www.bouldercolorado.gov,https://bouldercolorado.primegov.com,primegov,primegov,tenant=bouldercolorado,,collected
+longmont,Longmont,city,Boulder,98885,https://www.longmontcolorado.gov/,,,primegov,,,collected
+loveland,Loveland,city,Larimer,76378,https://www.lovgov.org/,,,,,,site refused (403)
+broomfield,Broomfield,city and county,Broomfield,74112,http://www.broomfield.org/,https://www.broomfield.org/AgendaCenter,agendacenter,agendacenter,url=https://www.broomfield.org/AgendaCenter,,collected
+castle-rock,Castle Rock,town,Douglas,73158,http://www.crgov.com,,,,,,site refused (403)
+grand-junction,Grand Junction,city,Mesa,65560,http://gjcity.org/,https://grandjunctionco.portal.civicclerk.com,civicclerk,civicclerk,tenant=grandjunctionco,15,found
+commerce-city,Commerce City,city,Adams,62418,http://www.c3gov.com/,https://commerce.legistar.com,legistar,legistar,client=commerce,,collected
+garfield-county,Garfield County,county,Garfield,61685,http://www.garfield-county.com,https://pub-garfield.escribemeetings.com,escribe,escribe,host=pub-garfield.escribemeetings.com,,found
+parker,Parker,town,Douglas,58512,http://www.parkeronline.org/,https://parkerco.portal.civicclerk.com,civicclerk,civicclerk,tenant=parkerco,15,found
+eagle-county,Eagle County,county,Eagle,55731,https://www.eaglecounty.us,,,,,,site refused (200)
+la-plata-county,La Plata County,county,La Plata,55638,http://co.laplata.co.us,,,,,,site refused (200)
+fremont-county,Fremont County,county,Fremont,48939,http://www.fremontco.com,https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes,own site (PDF links),linkscan,url=https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes,,found
+littleton,Littleton,city,Arapahoe,45652,http://www.littletonco.gov/,https://www.littletonco.gov/Community/City-Calendars/Tentative-Council-Meeting-Calendar,,,,,no meeting records found
+montrose-county,Montrose County,county,Montrose,42679,http://www.montrosecounty.net,https://montrosecounty.granicus.com/ViewPublisher.php?view_id=2,granicus,granicus,host=montrosecounty.granicus.com view_id=2,,found
+brighton,Brighton,city,Adams,40083,http://www.brightonco.gov/,https://brightonco.legistar.com/Calendar.aspx,legistar,legistar,client=brightonco,12,found
+northglenn,Northglenn,city,Adams,38131,http://www.northglenn.org/,,,,,,site refused (200)
+englewood,Englewood,city,Arapahoe,33659,https://www.englewoodco.gov/,,,,,,site refused (403)
+windsor,Windsor,town,Weld,32716,http://www.windsorgov.com/,https://windsorco.portal.civicclerk.com,civicclerk,civicclerk,tenant=windsorco,15,found
+wheat-ridge,Wheat Ridge,city,Jefferson,32398,http://www.ci.wheatridge.co.us/,,,,,,site refused (403)
+delta-county,Delta County,county,Delta,31196,http://www.deltacounty.com,https://deltacoco.portal.civicclerk.com,civicclerk,civicclerk,tenant=deltacoco,,found
+summit-county,Summit County,county,Summit,31055,http://www.co.summit.co.us/,,,,,,site refused (200)
+lafayette,Lafayette,city,Boulder,30411,https://lafayetteco.gov/,https://lafayetteco.gov/247/City-Council,,linkscan,,,collected
+erie,Erie,town,Weld,30038,http://www.erieco.gov/index.cfm,https://erieco.portal.civicclerk.com,civicclerk,civicclerk,tenant=erieco,15,collected
+fountain,Fountain,city,El Paso,29802,http://www.fountaincolorado.org/,https://fountain.colorado.gov/government/city-council,own site (PDF links),linkscan,url=https://fountain.colorado.gov/government/city-council,,found
+morgan-county,Morgan County,county,Morgan,29111,http://www.co.morgan.co.us,,,,,,site failed (SSLError)
+elbert-county,Elbert County,county,Elbert,26062,http://www.elbertcounty-co.gov,https://www.elbertcounty-co.gov/129/Agendas-Minutes,,,,,no meeting records found
+montezuma-county,Montezuma County,county,Montezuma,25849,https://montezumacounty.org/,https://montezumacounty.gov/calendarsminutes/boccminutes/,own site (PDF links),linkscan,url=https://montezumacounty.gov/calendarsminutes/boccminutes/,,found
+routt-county,Routt County,county,Routt,24829,http://www.co.routt.co.us,https://www.co.routt.co.us/agendacenter,agendacenter,agendacenter,url=https://www.co.routt.co.us/agendacenter/AgendaCenter,,found
+teller-county,Teller County,county,Teller,24710,http://www.co.teller.co.us,https://tellercoco.portal.civicclerk.com,civicclerk,civicclerk,tenant=tellercoco,,found
+evans,Evans,city,Weld,22165,https://www.evanscolorado.gov/,https://evanscolorado.primegov.com,primegov,primegov,tenant=evanscolorado,,found
+logan-county,Logan County,county,Logan,21528,http://www.loganco.gov,,,,,,site failed (ConnectionError)
+louisville,Louisville,city,Boulder,21226,http://www.louisvilleco.gov/,https://louisvilleco.portal.civicclerk.com,civicclerk,civicclerk,tenant=louisvilleco,15,collected
+golden,Golden,city,Jefferson,20399,http://www.cityofgolden.net/,,,,,,site refused (200)
+montrose,Montrose,city,Montrose,20291,http://www.cityofmontrose.org/,,,,,,site failed (ReadTimeout)
+chaffee-county,Chaffee County,county,Chaffee,19476,https://www.chaffeecounty.org/,,,,,,site refused (200)
+durango,Durango,city,La Plata,19071,http://www.durangogov.org/,https://www.durangoco.gov/146/Public-Meetings,,,,,no meeting records found
+otero-county,Otero County,county,Otero,18690,http://www.oterogov.com,,,,,,site refused (202)
+park-county,Park County,county,Park,17390,https://www.parkco.us/,https://www.parkcountyco.gov/AgendaCenter,agendacenter,agendacenter,url=https://www.parkcountyco.gov/AgendaCenter,,found
+pitkin-county,Pitkin County,county,Pitkin,17358,http://aspenpitkin.com,https://records.aspen.gov/WebLink/Browse.aspx?id=704852&amp;dbid=0&amp;repo=LFRecords,laserfiche,,,,found
+johnstown,Johnstown,town,Weld,17303,https://johnstown.colorado.gov/,https://johnstownco.portal.civicclerk.com,civicclerk,civicclerk,tenant=johnstownco,15,found
+ca-on-city,Cañon City,city,Fremont,17141,http://www.canoncity.org/,https://www.canoncity.org/AgendaCenter,agendacenter,agendacenter,url=https://www.canoncity.org/AgendaCenter,,found
+gunnison-county,Gunnison County,county,Gunnison,16918,https://www.gunnisoncounty.org,https://www.gunnisoncounty.org/AgendaCenter,agendacenter,agendacenter,url=https://www.gunnisoncounty.org/AgendaCenter,,found
+firestone,Firestone,town,Weld,16381,https://www.firestoneco.gov/,https://firestoneco.portal.civicclerk.com,civicclerk,civicclerk,tenant=firestoneco,15,collected
+alamosa-county,Alamosa County,county,Alamosa,16376,http://www.alamosacounty.org,https://www.alamosacounty.org/agendacenter,agendacenter,agendacenter,url=https://www.alamosacounty.org/agendacenter/AgendaCenter,,found
+grand-county,Grand County,county,Grand,15717,http://co.grand.co.us,https://www.co.grand.co.us/agendacenter,agendacenter,agendacenter,url=https://www.co.grand.co.us/agendacenter/AgendaCenter,,found
+greenwood-village,Greenwood Village,city,Arapahoe,15691,http://www.greenwoodvillage.com/,https://greenwoodvillageco.portal.civicclerk.com,civicclerk,civicclerk,tenant=greenwoodvillageco,15,found
+las-animas-county,Las Animas County,county,Las Animas,14555,http://lasanimascounty.org,,,,,,no meeting records found
+frederick,Frederick,town,Weld,14513,http://www.frederickco.gov/,https://frederickco.portal.civicclerk.com,civicclerk,civicclerk,tenant=frederickco,15,collected
+federal-heights,Federal Heights,city,Adams,14382,http://www.fedheights.org/,https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D,own site (PDF links),linkscan,url=https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D,,found
+lone-tree,Lone Tree,city,Douglas,14253,http://www.cityoflonetree.com/,https://cityoflonetree.civicweb.net,civicweb,civicweb,host=cityoflonetree.civicweb.net,,found
+sterling,Sterling,city,Logan,13735,http://www.sterlingcolo.com/,,,,,,site refused (200)
+fruita,Fruita,city,Mesa,13395,http://fruita.org/,https://fruitaco.portal.civicclerk.com,civicclerk,civicclerk,tenant=fruitaco,7,found
+archuleta-county,Archuleta County,county,Archuleta,13359,http://www.archuletacounty.org,https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/,own site (PDF links),linkscan,url=https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/,,found
+moffat-county,Moffat County,county,Moffat,13292,http://www.co.moffat.co.us,,,,,,site failed (ConnectTimeout)
+steamboat-springs,Steamboat Springs,city,Routt,13224,http://www.steamboatsprings.net/,https://docs.steamboatsprings.net/OnBaseAgendaOnline,onbase,onbase,,,found
+superior,Superior,town,Boulder,13094,https://www.superiorcolorado.gov/Home,https://superiorco.portal.civicclerk.com,civicclerk,civicclerk,tenant=superiorco,15,collected
+prowers-county,Prowers County,county,Prowers,11999,http://www.prowerscounty.net,,,,,,site failed (ConnectionError)
+fort-morgan,Fort Morgan,city,Morgan,11597,http://www.cityoffortmorgan.com/,https://www.cityoffortmorgan.com/AgendaCenter,agendacenter,agendacenter,url=https://www.cityoffortmorgan.com/AgendaCenter,,found
+rio-grande-county,Rio Grande County,county,Rio Grande,11539,http://www.riograndecounty.org,https://riograndecounty.colorado.gov/elected-officials/commissioners,,,,,no meeting records found
+wellington,Wellington,town,Larimer,11047,http://www.townofwellington.com/,https://wellingtonco.portal.civicclerk.com,civicclerk,civicclerk,tenant=wellingtonco,15,found
+castle-pines,Castle Pines,city,Douglas,11036,https://www.castlepinesco.gov/,https://castlepines.granicus.com/ViewPublisher.php?view_id=2,granicus,granicus,host=castlepines.granicus.com view_id=2,,found
+rifle,Rifle,city,Garfield,10437,http://www.rifleco.org/,https://rifleco.portal.civicclerk.com,civicclerk,civicclerk,tenant=rifleco,15,found
+monument,Monument,town,El Paso,10399,http://www.townofmonument.org/,https://monumentco.portal.civicclerk.com,civicclerk,civicclerk,tenant=monumentco,15,found
+berthoud,Berthoud,town,Larimer,10332,http://www.berthoud.org/,https://berthoudco.portal.civicclerk.com,civicclerk,civicclerk,tenant=berthoudco,15,found
+yuma-county,Yuma County,county,Yuma,9988,http://www.yumacounty.net,,,,,,site refused (404)
+glenwood-springs,Glenwood Springs,city,Garfield,9963,http://www.cogs.us/,https://glenwoodspringsco.portal.civicclerk.com,civicclerk,civicclerk,tenant=glenwoodspringsco,15,found
+alamosa,Alamosa,city,Alamosa,9806,http://www.cityofalamosa.org/,https://www.alamosa.gov/calendar,,,,,no meeting records found
+clear-creek-county,Clear Creek County,county,Clear Creek,9397,http://www.co.clear-creek.co.us,https://www.clearcreekcounty.us/AgendaCenter,agendacenter,agendacenter,url=https://www.clearcreekcounty.us/AgendaCenter,,found
+craig,Craig,city,Moffat,9060,http://www.ci.craig.co.us/,https://craigco.portal.civicclerk.com,civicclerk,civicclerk,tenant=craigco,15,found
+delta,Delta,city,Delta,9035,http://cityofdelta.net/,https://www.cityofdelta.net/AgendaCenter,agendacenter,agendacenter,url=https://www.cityofdelta.net/AgendaCenter,,found
+cortez,Cortez,city,Montezuma,8766,https://www.cortezco.gov/,https://public.destinyhosted.com/agenda_publish.cfm?id=26783,destiny,,,,found
+milliken,Milliken,town,Weld,8386,http://www.millikenco.gov/,https://millikenco.portal.civicclerk.com,civicclerk,civicclerk,tenant=millikenco,15,found
+trinidad,Trinidad,city,Las Animas,8329,http://www.trinidad.co.gov/,,,,,,site refused (200)
+lochbuie,Lochbuie,town,Weld,8088,http://www.lochbuie.org/,https://lochbuieco.portal.civicclerk.com,civicclerk,civicclerk,tenant=lochbuieco,2,found
+san-miguel-county,San Miguel County,county,San Miguel,8072,https://www.sanmiguelcountyco.gov/,https://sanmiguelcoco.portal.civicclerk.com,civicclerk,civicclerk,tenant=sanmiguelcoco,,found
+gypsum,Gypsum,town,Eagle,8040,http://www.townofgypsum.com/,https://townofgypsum.granicus.com/ViewPublisher.php?view_id=3,granicus,granicus,host=townofgypsum.granicus.com view_id=3,,found
+fort-lupton,Fort Lupton,city,Weld,7955,http://www.fortlupton.org/,https://fortluptonco.portal.civicclerk.com,civicclerk,civicclerk,tenant=fortluptonco,15,found
+woodland-park,Woodland Park,city,Teller,7920,http://www.city-woodlandpark.org/,https://woodlandparkco.portal.civicclerk.com,civicclerk,civicclerk,tenant=woodlandparkco,15,found
+lamar,Lamar,city,Prowers,7687,http://www.ci.lamar.co.us/,https://ci.lamar.co.us/,,,,,no meeting records found
+severance,Severance,town,Weld,7683,http://www.townofseverance.org/,https://severanceco.portal.civicclerk.com,civicclerk,civicclerk,tenant=severanceco,15,found
+eagle,Eagle,town,Eagle,7511,http://www.townofeagle.org/,https://eagleco.portal.civicclerk.com,civicclerk,civicclerk,tenant=eagleco,15,found
+conejos-county,Conejos County,county,Conejos,7461,http://www.conejoscounty.org,https://conejoscounty.colorado.gov/elected-officials/commissioners,,,,,no meeting records found
+lake-county,Lake County,county,Lake,7436,http://www.lakecountyco.com,https://www.lakecountyco.gov/AgendaCenter,agendacenter,agendacenter,url=https://www.lakecountyco.gov/AgendaCenter,,found
+la-junta,La Junta,city,Otero,7322,http://www.lajuntacolorado.org/,https://lajuntaco.portal.civicclerk.com,civicclerk,civicclerk,tenant=lajuntaco,13,found
+kit-carson-county,Kit Carson County,county,Kit Carson,7087,http://www.kitcarsoncounty.org,https://kitcarsoncounty.granicus.com/ViewPublisher.php?view_id=1,granicus,granicus,host=kitcarsoncounty.granicus.com view_id=1,,found
+aspen,Aspen,city,Pitkin,7004,https://www.cityofaspen.com/,https://records.aspen.gov/WebLink/Browse.aspx?id=704852&amp;dbid=0&amp;repo=LFRecords,laserfiche,,,,found
+huerfano-county,Huerfano County,county,Huerfano,6820,http://www.huerfano.us,https://huerfanoco.portal.civicclerk.com,civicclerk,civicclerk,tenant=huerfanoco,,found
+gunnison,Gunnison,city,Gunnison,6560,https://www.gunnisonco.gov/,,,,,,site refused (200)
+rio-blanco-county,Rio Blanco County,county,Rio Blanco,6529,http://www.rbc.us,,,,,,site refused (200)
+timnath,Timnath,town,Larimer,6487,http://www.timnath.org/,https://timnath.civicweb.net,civicweb,civicweb,host=timnath.civicweb.net,,found
+cherry-hills-village,Cherry Hills Village,city,Arapahoe,6442,http://www.cherryhillsvillage.com/,https://www.cherryhillsvillage.com/AgendaCenter,agendacenter,agendacenter,url=https://www.cherryhillsvillage.com/AgendaCenter,,found
+carbondale,Carbondale,town,Garfield,6434,http://www.carbondalegov.org/,,,,,,site refused (200)
+saguache-county,Saguache County,county,Saguache,6368,http://www.saguachecounty.net,https://saguachecounty.colorado.gov/board-of-county-commissioners-agendas,,,,,no meeting records found
+dacono,Dacono,city,Weld,6297,http://www.cityofdacono.com,https://www.daconoco.gov/AgendaCenter,agendacenter,agendacenter,url=https://www.daconoco.gov/AgendaCenter,,found
+sheridan,Sheridan,city,Arapahoe,6105,http://www.ci.sheridan.co.us/,https://ci.sheridan.co.us/AgendaCenter,agendacenter,agendacenter,url=https://ci.sheridan.co.us/AgendaCenter,,found
+avon,Avon,town,Eagle,6072,http://www.avon.org/,https://lfpublic.avon.org/WebLink/Browse.aspx?startid=67537,laserfiche,,,,found
+crowley-county,Crowley County,county,Crowley,5922,http://www.crowleycounty.net,https://crowleycounty.colorado.gov/government-offices/administration-commissioners/crowley-county-board-of-county-commissioners,,,,,no meeting records found
+estes-park,Estes Park,town,Larimer,5904,https://estespark.colorado.gov/,https://dms.estes.org/WebLink/Welcome.aspx,laserfiche,,,,found
+gilpin-county,Gilpin County,county,Gilpin,5808,http://www.co.gilpin.co.us,,,,,,site refused (404)
+eaton,Eaton,town,Weld,5802,http://www.eatonco.org/,https://eatonco.portal.civicclerk.com,civicclerk,civicclerk,tenant=eatonco,15,found
+lincoln-county,Lincoln County,county,Lincoln,5675,http://www.lincolncountyco.us,,,,,,site failed (ConnectionError)
+salida,Salida,city,Chaffee,5666,http://www.cityofsalida.com/,https://salidaco.portal.civicclerk.com,civicclerk,civicclerk,tenant=salidaco,15,found
+bent-county,Bent County,county,Bent,5650,http://www.bentcounty.org,,,,,,no meeting records found
+brush,Brush,city,Morgan,5339,http://www.brushcolo.com/,,,,,,site refused (200)
+breckenridge,Breckenridge,town,Summit,5078,http://www.townofbreckenridge.com/,https://breckenridgeco.portal.civicclerk.com,civicclerk,civicclerk,tenant=breckenridgeco,15,found
+edgewater,Edgewater,city,Jefferson,5005,http://www.edgewaterco.com/,https://edgewaterco.portal.civicclerk.com,civicclerk,civicclerk,tenant=edgewaterco,8,found
+new-castle,New Castle,town,Garfield,4923,http://www.newcastlecolorado.org/,https://newcastleco.portal.civicclerk.com,civicclerk,civicclerk,tenant=newcastleco,15,found
+ouray-county,Ouray County,county,Ouray,4874,http://www.ouraycountyco.gov,https://ouraycountyco.gov/AgendaCenter,agendacenter,agendacenter,url=https://ouraycountyco.gov/AgendaCenter,,found
+manitou-springs,Manitou Springs,city,El Paso,4858,http://www.manitouspringsgov.com/,https://manitouspringsco.portal.civicclerk.com,civicclerk,civicclerk,tenant=manitouspringsco,15,found
+vail,Vail,town,Eagle,4835,http://vailgov.com/,,,,,,site refused (403)
+washington-county,Washington County,county,Washington,4817,http://co.washington.co.us,https://washingtoncounty.colorado.gov/2026-agendas,own site (PDF links),linkscan,url=https://washingtoncounty.colorado.gov/2026-agendas,,found
+mead,Mead,town,Weld,4781,http://www.townofmead.org/,https://meadco.portal.civicclerk.com,civicclerk,civicclerk,tenant=meadco,15,collected
+custer-county,Custer County,county,Custer,4704,http://custercountygov.com,http://custercountygov.com/custerco.css,,,,,no meeting records found
+glendale,Glendale,city,Arapahoe,4613,http://www.glendale.co.us/,https://www.glendale.co.us/AgendaCenter,agendacenter,agendacenter,url=https://www.glendale.co.us/AgendaCenter,,collected
+phillips-county,Phillips County,county,Phillips,4530,https://www.colorado.gov/phillipscounty,https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas,own site (PDF links),linkscan,url=https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas,,found
+silverthorne,Silverthorne,town,Summit,4402,http://www.silverthorne.org/,,,,,,site refused (403)
+monte-vista,Monte Vista,city,Rio Grande,4247,https://cityofmontevista.colorado.gov/,,,,,,site failed (ConnectionError)
+basalt,Basalt,town,Eagle,3984,http://www.basalt.net/,,,,,,site failed (ConnectionError)
+rocky-ford,Rocky Ford,city,Otero,3876,https://cityofrockyford.colorado.gov/,,,,,,site refused (404)
+florence,Florence,city,Fremont,3822,https://www.cityofflorenceco.gov/.,https://www.cityofflorenceco.gov/,own site (PDF links),linkscan,url=https://www.cityofflorenceco.gov/,,found
+silt,Silt,town,Garfield,3536,http://www.townofsilt.org/,https://www.townofsilt.org/board_of_trustees_agendas_minutes,own site (PDF links),linkscan,url=https://www.townofsilt.org/board_of_trustees_agendas_minutes,,found
+baca-county,Baca County,county,Baca,3506,http://bacacountyco.gov,https://www.bacacountyco.gov/government/county-commissioners/,,,,,no meeting records found
+costilla-county,Costilla County,county,Costilla,3499,http://www.costillacounty-co.gov,,,,,,site refused (404)
+yuma,Yuma,city,Yuma,3456,https://cityofyuma.colorado.gov/,https://cityofyuma.colorado.gov/agendas,own site (PDF links),linkscan,url=https://cityofyuma.colorado.gov/agendas,,found
+burlington,Burlington,city,Kit Carson,3172,http://www.burlingtoncolo.com/,http://www.burlingtoncolo.com/agendacenter,agendacenter,agendacenter,url=http://www.burlingtoncolo.com/agendacenter/AgendaCenter,,found
+orchard-city,Orchard City,town,Delta,3142,http://www.orchardcityco.org/,http://www.orchardcityco.org/DocumentCenter,,,,,no meeting records found
+snowmass-village,Snowmass Village,town,Pitkin,3096,http://tosv.com/,https://tosvco.portal.civicclerk.com,civicclerk,civicclerk,tenant=tosvco,,found
+walsenburg,Walsenburg,city,Huerfano,3049,https://cityofwalsenburg.colorado.gov/,,,,,,site refused (404)
+platteville,Platteville,town,Weld,2955,http://www.plattevillegov.org/,https://platteville.colorado.gov/agendas-and-minutes,own site (PDF links),linkscan,url=https://platteville.colorado.gov/agendas-and-minutes,,found
+frisco,Frisco,town,Summit,2913,http://www.friscogov.com/,https://friscoco.portal.civicclerk.com,civicclerk,civicclerk,tenant=friscoco,14,found
+bennett,Bennett,town,Adams,2862,https://townofbennett.colorado.gov,,,,,,site refused (404)
+buena-vista,Buena Vista,town,Chaffee,2855,http://www.buenavistaco.gov/,http://www.buenavistaco.gov/AgendaCenter,agendacenter,agendacenter,url=http://www.buenavistaco.gov/AgendaCenter,,found
+bayfield,Bayfield,town,La Plata,2838,http://www.bayfieldgov.org/,,,,,,site refused (403)
+palmer-lake,Palmer Lake,town,El Paso,2636,https://www.townofpalmerlake.com/,https://palmerlakeco.portal.civicclerk.com,civicclerk,civicclerk,tenant=palmerlakeco,15,found
+leadville,Leadville,city,Lake,2633,https://cityofleadville.colorado.gov/,,,,,,site refused (404)
+telluride,Telluride,town,San Miguel,2607,http://www.telluride-co.gov/,,,,,,site failed (ConnectionError)
+palisade,Palisade,town,Mesa,2565,http://www.townofpalisade.org/,https://palisade.colorado.gov/events/board-of-trustees-regular-meeting-10/13/2026,own site (PDF links),linkscan,url=https://palisade.colorado.gov/events/board-of-trustees-regular-meeting-10/13/2026,,found
+sedgwick-county,Sedgwick County,county,Sedgwick,2395,http://www.sedgwickcountygov.net,,,,,,site failed (ConnectTimeout)
+meeker,Meeker,town,Rio Blanco,2374,http://www.townofmeeker.org/,https://townofmeeker.org/meeting-information/,own site (PDF links),linkscan,url=https://townofmeeker.org/meeting-information/,,found
+la-salle,La Salle,town,Weld,2359,http://www.lasalletown.com/,http://www.lasalletown.com/27/Government,,,,,no meeting records found
+wray,Wray,city,Yuma,2358,http://www.cityofwray.org/,http://www.cityofwray.org/agendacenter,agendacenter,agendacenter,url=http://www.cityofwray.org/agendacenter/AgendaCenter,,found
+holyoke,Holyoke,city,Phillips,2346,http://www.cityofholyoke-co.gov/,,,,,,site refused (200)
+dolores-county,Dolores County,county,Dolores,2326,http://www.dolorescounty.org,,,,,,site refused (404)
+las-animas,Las Animas,city,Bent,2300,https://cityoflasanimas.colorado.gov/#main-content,,,,,,site refused (404)
+rangely,Rangely,town,Rio Blanco,2299,https://townofrangely.colorado.gov/,https://townofrangely.colorado.gov/departments/administrative-services/town-council/meeting-dates-board-packets,own site (PDF links),linkscan,url=https://townofrangely.colorado.gov/departments/administrative-services/town-council/meeting-dates-board-packets,,found
+cedaredge,Cedaredge,town,Delta,2279,http://www.cedaredgecolorado.com/,http://www.cedaredgecolorado.com/6/Agendas,,,,,no meeting records found
+lyons,Lyons,town,Boulder,2209,http://www.townoflyons.com/,https://www.townoflyons.com/agendacenter,agendacenter,agendacenter,url=https://www.townoflyons.com/agendacenter/AgendaCenter,,collected
+granby,Granby,town,Grand,2079,http://www.townofgranby.com/,https://public.destinyhosted.com/47262/agenda/,destiny,,,,found
+limon,Limon,town,Lincoln,2043,http://www.townoflimon.com/,https://www.townoflimon.com/index.php/government/trustee-meetings/agenda,own site (PDF links),linkscan,url=https://www.townoflimon.com/index.php/government/trustee-meetings/agenda,,found
+olathe,Olathe,town,Montrose,2019,http://www.townofolathe.org/,,,,,,site refused (403)
+hayden,Hayden,town,Routt,1941,https://www.haydencolorado.com/,https://co-hayden.civicplus.com/AgendaCenter,agendacenter,agendacenter,url=https://co-hayden.civicplus.com/AgendaCenter,,found
+center,Center,town,Saguache,1929,https://townofcenter.colorado.gov,https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes,own site (PDF links),linkscan,url=https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes,,found
+ault,Ault,town,Weld,1887,http://www.townofault.org/,https://www.aultcolorado.gov/board,,,,,no meeting records found
+idaho-springs,Idaho Springs,city,Clear Creek,1782,http://www.idahospringsco.com/,https://idahospringsco.portal.civicclerk.com,civicclerk,civicclerk,tenant=idahospringsco,15,found
+akron,Akron,town,Washington,1757,https://townofakron.colorado.gov,https://www.townofakron.com/AgendaCenter,agendacenter,agendacenter,url=https://www.townofakron.com/AgendaCenter,,found
+cheyenne-county,Cheyenne County,county,Cheyenne,1748,http://www.co.cheyenne.co.us,https://www.co.cheyenne.co.us/,own site (PDF links),linkscan,url=https://www.co.cheyenne.co.us/,,found
+elizabeth,Elizabeth,town,Elbert,1675,http://www.townofelizabeth.org/,https://elizabethco.portal.civicclerk.com,civicclerk,civicclerk,tenant=elizabethco,15,found
+hudson,Hudson,town,Weld,1651,https://hudsoncolorado.org/,https://hudson.legistar.com/Calendar.aspx,legistar,legistar,client=hudson,32,found
+crested-butte,Crested Butte,town,Gunnison,1639,https://www.crestedbutte-co.gov/,https://townofcrestedbutte.colorado.gov/government/town-council,own site (PDF links),linkscan,url=https://townofcrestedbutte.colorado.gov/government/town-council,,found
+pagosa-springs,Pagosa Springs,town,Archuleta,1571,https://www.pagosasprings.co.gov/,https://pagosaspringsco.portal.civicclerk.com,civicclerk,civicclerk,tenant=pagosaspringsco,15,found
+kremmling,Kremmling,town,Grand,1509,http://www.townofkremmling.org/,https://kremmlingco.portal.civicclerk.com,civicclerk,civicclerk,tenant=kremmlingco,15,found
+columbine-valley,Columbine Valley,town,Arapahoe,1502,http://www.columbinevalley.org/,https://columbinevalley.org/board-trustee-agendas-minutes/,own site (PDF links),linkscan,url=https://columbinevalley.org/board-trustee-agendas-minutes/,,found
+kersey,Kersey,town,Weld,1495,http://www.townofkersey.com/,,,,,,site failed (SSLError)
+nederland,Nederland,town,Boulder,1471,https://townofnederland.colorado.gov/,,,civicweb,,,collected
+del-norte,Del Norte,town,Rio Grande,1458,http://www.delnortecolorado.com/,https://www.delnortecolorado.com/minutes-agendas/,own site (PDF links),linkscan,url=https://www.delnortecolorado.com/minutes-agendas/,,found
+paonia,Paonia,town,Delta,1447,http://townofpaonia.com/,https://paoniaco.portal.civicclerk.com,civicclerk,civicclerk,tenant=paoniaco,15,found
+kiowa-county,Kiowa County,county,Kiowa,1446,https://www.kiowacountycolo.com,,,,,,site failed (SSLError)
+wiggins,Wiggins,town,Morgan,1401,https://townofwiggins.colorado.gov/,https://www.wigginsco.gov/agendasandminutes,,,,,no meeting records found
+fraser,Fraser,town,Grand,1400,http://www.frasercolorado.com/,https://www.frasercolorado.com/agendacenter,agendacenter,agendacenter,url=https://www.frasercolorado.com/agendacenter/AgendaCenter,,found
+parachute,Parachute,town,Garfield,1390,https://townofparachute.colorado.gov/,,,,,,site failed (ConnectionError)
+jackson-county,Jackson County,county,Jackson,1379,http://www.ccionline.org/counties/jackson.html,,,,,,site refused (404)
+springfield,Springfield,town,Baca,1325,https://townofspringfield.colorado.gov/,,,,,,site refused (404)
+julesburg,Julesburg,town,Sedgwick,1307,http://www.townofjulesburg.com/,https://www.townofjulesburg.com/page/board-of-trustees,,,,,no meeting records found
+mountain-village,Mountain Village,town,San Miguel,1264,https://townofmountainvillage.com/,,,,,,site failed (SSLError)
+fowler,Fowler,town,Otero,1253,http://www.fowlercolorado.com/,,,,,,site refused (403)
+keenesburg,Keenesburg,town,Weld,1250,https://www.townofkeenesburg.com/,,,,,,site refused (200)
+mancos,Mancos,town,Montezuma,1196,http://www.mancoscolorado.com/,https://www.mancoscolorado.com/trustees,,,,,no meeting records found
+ridgway,Ridgway,town,Ouray,1183,http://town.ridgway.co.us/,,,,,,site failed (ConnectTimeout)
+cripple-creek,Cripple Creek,city,Teller,1155,http://www.cityofcripplecreek.com/,http://www.cityofcripplecreek.com/meetings,,,,,no meeting records found
+georgetown,Georgetown,town,Clear Creek,1118,http://www.townofgeorgetown.us/,,,,,,site refused (200)
+pierce,Pierce,town,Weld,1097,http://www.townofpierce.org/,,,,,,site failed (ConnectionError)
+deer-trail,Deer Trail,town,Arapahoe,1068,https://townofdeertrail.colorado.gov,https://townofdeertrail.colorado.gov/government/board-agendas,,,,,no meeting records found
+ordway,Ordway,town,Crowley,1066,https://townofordway.colorado.gov,https://townofordway.colorado.gov/minutes-and-agendas,own site (PDF links),linkscan,url=https://townofordway.colorado.gov/minutes-and-agendas,,found
+dillon,Dillon,town,Summit,1064,https://www.townofdillon.com/,,,,,,site refused (403)
+minturn,Minturn,town,Eagle,1033,http://www.minturn.org/,https://minturnco.portal.civicclerk.com,civicclerk,civicclerk,tenant=minturnco,15,found
+winter-park,Winter Park,town,Grand,1033,http://www.wpgov.com/,https://winterparkcolorado.granicus.com/ViewPublisher.php?view_id=1,granicus,granicus,host=winterparkcolorado.granicus.com view_id=1,,found
+gilcrest,Gilcrest,town,Weld,1029,http://www.townofgilcrest.org/,,,,,,site refused (202)
+haxtun,Haxtun,town,Phillips,981,https://townofhaxtun.colorado.gov/,https://townofhaxtun.colorado.gov/town-council,own site (PDF links),linkscan,url=https://townofhaxtun.colorado.gov/town-council,,found
+manassa,Manassa,town,Conejos,947,http://www.manassa.com/,,,,,,no meeting records found
+mount-crested-butte,Mount Crested Butte,town,Gunnison,941,,,,,,,no website found
+poncha-springs,Poncha Springs,town,Chaffee,925,http://www.ponchaspringscolorado.us/,https://ponchaspringsco.portal.civicclerk.com,civicclerk,civicclerk,tenant=ponchaspringsco,15,found
+log-lane-village,Log Lane Village,town,Morgan,913,https://www.townofllv.com/,,,,,,site refused (403)
+ouray,Ouray,city,Ouray,898,https://www.cityofouray.com/,,,,,,site refused (200)
+oak-creek,Oak Creek,town,Routt,889,http://www.townofoakcreek.com/,https://oakcreekco.portal.civicclerk.com,civicclerk,civicclerk,tenant=oakcreekco,15,found
+dolores,Dolores,town,Montezuma,885,https://townofdolores.colorado.gov,https://townofdolores.colorado.gov/government/town-board-meetings,own site (PDF links),linkscan,url=https://townofdolores.colorado.gov/government/town-board-meetings,,found
+sanford,Sanford,town,Conejos,879,https://townofsanford.colorado.gov/,https://townofsanford.colorado.gov/town-board-meetings,,,,,no meeting records found
+blue-river,Blue River,town,Summit,877,https://townofblueriver.colorado.gov,https://blueriverco.portal.civicclerk.com,civicclerk,civicclerk,tenant=blueriverco,15,found
+hotchkiss,Hotchkiss,town,Delta,875,http://www.townofhotchkiss.com/,https://townofhotchkiss.colorado.gov/about-the-town/board-of-trustee-minutes,own site (PDF links),linkscan,url=https://townofhotchkiss.colorado.gov/about-the-town/board-of-trustee-minutes,,found
+mineral-county,Mineral County,county,Mineral,865,http://www.mineralcountycolorado.com,,,,,,site refused (403)
+la-veta,La Veta,town,Huerfano,862,http://www.townoflaveta-co.gov/,https://www.townoflaveta-co.gov/agendas-minutes/,,,,,no meeting records found
+bow-mar,Bow Mar,town,Arapahoe,853,https://townofbowmar.colorado.gov,,,,,,site refused (404)
+ignacio,Ignacio,town,La Plata,852,https://townofignacio.colorado.gov/#main-content,https://townofignacio.colorado.gov/forms/informational-packets-and-handbooks,own site (PDF links),linkscan,url=https://townofignacio.colorado.gov/forms/informational-packets-and-handbooks,,found
+holly,Holly,town,Prowers,837,http://www.townofholly.com/,https://www.townofhollyco.gov/records/board-minutes,,,,,no meeting records found
+hinsdale-county,Hinsdale County,county,Hinsdale,788,http://www.hinsdalecountycolorado.us,https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes,own site (PDF links),linkscan,url=https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes,,found
+hugo,Hugo,town,Lincoln,787,http://www.townhugo.com/,https://townhugo.com/government/committee-meetings/agenda/,own site (PDF links),linkscan,url=https://townhugo.com/government/committee-meetings/agenda/,,found
+central-city,Central City,city,Gilpin,779,https://centralcity.colorado.gov,https://centralcity.colorado.gov/meetings,,,,,no meeting records found
+calhan,Calhan,town,El Paso,762,http://www.calhan.co/,,,,,,site refused (200)
+cheyenne-wells,Cheyenne Wells,town,Cheyenne,758,http://www.townofcheyennewells.com/,,,,,,no meeting records found
+foxfield,Foxfield,town,Arapahoe,754,https://townoffoxfield.colorado.gov,https://townoffoxfield.colorado.gov/node/10166,own site (PDF links),linkscan,url=https://townoffoxfield.colorado.gov/node/10166,,found
+williamsburg,Williamsburg,town,Fremont,731,https://townofwilliamsburg.colorado.gov/,https://townofwilliamsburg.colorado.gov/board-agendas,own site (PDF links),linkscan,url=https://townofwilliamsburg.colorado.gov/board-agendas,,found
+la-jara,La Jara,town,Conejos,730,https://townoflajara.colorado.gov/,https://townoflajara.colorado.gov/town-board-meetings,,,,,no meeting records found
+kiowa,Kiowa,town,Elbert,725,https://townofkiowa.colorado.gov/,https://kiowaco.portal.civicclerk.com,civicclerk,civicclerk,tenant=kiowaco,15,found
+fairplay,Fairplay,town,Park,724,http://fairplayco.us/,https://fairplayco.portal.civicclerk.com,civicclerk,civicclerk,tenant=fairplayco,15,found
+san-juan-county,San Juan County,county,San Juan,705,http://www.sanjuancountycolorado.us,https://sanjuancounty.colorado.gov/meetings,own site (PDF links),linkscan,url=https://sanjuancounty.colorado.gov/meetings,,found
+hot-sulphur-springs,Hot Sulphur Springs,town,Grand,687,http://www.hotsulphurspringsco.com/,,,,,,no meeting records found
+eads,Eads,town,Kiowa,672,http://www.kcedfonline.org/eads.htm,,,,,,no meeting records found
+stratton,Stratton,town,Kit Carson,656,https://townofstratton.colorado.gov,https://townofstratton.colorado.gov/upcoming-meetings,,,,,no meeting records found
+antonito,Antonito,town,Conejos,647,,,,,,,no website found
+green-mountain-falls,Green Mountain Falls,town,El Paso,646,https://greenmountainfalls.colorado.gov/,https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes,own site (PDF links),linkscan,url=https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes,,found
+dove-creek,Dove Creek,town,Dolores,635,https://townofdovecreek.colorado.gov,https://townofdovecreek.colorado.gov/meeting-agendas,own site (PDF links),linkscan,url=https://townofdovecreek.colorado.gov/meeting-agendas,,found
+silverton,Silverton,town,San Juan,622,https://townofsilverton.colorado.gov,https://townofsilverton.colorado.gov/events/board-of-trustees-regular-meeting-92826-530-pm-town-hall,,,,,no meeting records found
+silver-cliff,Silver Cliff,town,Custer,609,http://silvercliffco.com/,https://www.silvercliffco.com/AgendaCenter,agendacenter,agendacenter,url=https://www.silvercliffco.com/AgendaCenter,,found
+walden,Walden,town,Jackson,606,https://www.colorado.gov/townofwalden,,,,,,site refused (502)
+swink,Swink,town,Otero,604,http://townofswinkco.ourlocalview.com/,,,,,,no meeting records found
+simla,Simla,town,Elbert,601,http://www.townofsimla.com/,https://townofsimla.com/agendas,,,,,no meeting records found
+san-luis,San Luis,town,Costilla,598,http://townofsanluisco.org/index.html,,,,,,site refused (403)
+nucla,Nucla,town,Montrose,585,https://townofnucla.colorado.gov/,https://townofnucla.colorado.gov/nucla-town-board,,,,,no meeting records found
+flagler,Flagler,town,Kit Carson,567,http://www.flaglercolorado.com/,https://www.flaglercolorado.com/index.php/council/meeting-minutes,,,,,no meeting records found
+walsh,Walsh,town,Baca,543,https://townofwalsh.colorado.gov,https://townofwalsh.colorado.gov/town-admin/meetings,,,,,no meeting records found
+mountain-view,Mountain View,town,Jefferson,541,http://www.townofmountainviewcolorado.org/,,,,,,site failed (ConnectionError)
+saguache,Saguache,town,Saguache,539,http://www.townofsaguache.org/,https://www.townofsaguache.org/agendas,,,,,no meeting records found
+norwood,Norwood,town,San Miguel,535,http://www.norwoodtown.com/,https://www.norwoodtown.com/board-of-trustees-meetings,own site (PDF links),linkscan,url=https://www.norwoodtown.com/board-of-trustees-meetings,,found
+otis,Otis,town,Washington,511,https://townofotis.colorado.gov/,https://townofotis.colorado.gov/board-of-trustees,,,,,no meeting records found
+rockvale,Rockvale,town,Fremont,511,https://townofrockvale.colorado.gov/,https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents,own site (PDF links),linkscan,url=https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents,,found
+south-fork,South Fork,town,Rio Grande,510,https://townofsouthfork.colorado.gov,https://townofsouthfork.colorado.gov/boards-and-meeting-information,,,,,no meeting records found
+nunn,Nunn,town,Weld,504,http://www.nunncolorado.com/,,,,,,site refused (503)
+de-beque,De Beque,town,Mesa,493,http://debeque.org/,https://townofdebeque.colorado.gov/trustee-agendas-minutes,own site (PDF links),linkscan,url=https://townofdebeque.colorado.gov/trustee-agendas-minutes,,found
+naturita,Naturita,town,Montrose,485,http://townofnaturita.org/ubweb/,,,,,,no meeting records found
+aguilar,Aguilar,town,Las Animas,456,http://www.aguilarco.us/,,,,,,site refused (200)
+granada,Granada,town,Prowers,445,,,,,,,no website found
+wiley,Wiley,town,Prowers,437,http://www.townofwiley.us/,,,,,,site failed (ConnectionError)
+westcliffe,Westcliffe,town,Custer,435,https://townofwestcliffe.colorado.gov/,https://townofwestcliffe.colorado.gov/town-board-of-trustees-meetings,own site (PDF links),linkscan,url=https://townofwestcliffe.colorado.gov/town-board-of-trustees-meetings,,found
+lake-city,Lake City,town,Hinsdale,432,http://www.townoflakecity.co,https://www.townoflakecityco.gov/board-of-trustees-meetings,own site (PDF links),linkscan,url=https://www.townoflakecityco.gov/board-of-trustees-meetings,,found
+fleming,Fleming,town,Logan,428,https://www.flemingcolorado.us/,,,,,,no meeting records found
+grand-lake,Grand Lake,town,Grand,410,http://www.townofgrandlake.com/,https://grandlakeco.portal.civicclerk.com,civicclerk,civicclerk,tenant=grandlakeco,15,found
+crawford,Crawford,town,Delta,403,https://townofcrawford.colorado.gov,https://townofcrawford.colorado.gov/departments/council-meetings-minutes-and-agendas,own site (PDF links),linkscan,url=https://townofcrawford.colorado.gov/departments/council-meetings-minutes-and-agendas,,found
+yampa,Yampa,town,Routt,399,https://www.townofyampa.com/,https://www.townofyampa.com/agendas,,,,,no meeting records found
+morrison,Morrison,town,Jefferson,396,https://www.morrisonco.us/,https://www.morrisonco.us/agendacenter,agendacenter,agendacenter,url=https://www.morrisonco.us/agendacenter/AgendaCenter,,found
+victor,Victor,city,Teller,379,http://www.cityofvictor.com/,,,,,,site refused (403)
+collbran,Collbran,town,Mesa,369,https://townofcollbran.colorado.gov,https://townofcollbran.colorado.gov/news-article/town-of-collbran-bot-special-meeting,,,,,no meeting records found
+coal-creek,Coal Creek,town,Fremont,364,https://townofcoalcreek.colorado.gov,,,,,,site failed (ConnectionError)
+empire,Empire,town,Clear Creek,345,https://townofempire.colorado.gov,https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting,own site (PDF links),linkscan,url=https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting,,found
+manzanola,Manzanola,town,Otero,341,,,,,,,no website found
+blanca,Blanca,town,Costilla,322,http://users.gojade.org/~blancaco,,,,,,site failed (ConnectionError)
+olney-springs,Olney Springs,town,Crowley,315,https://townofolneysprings.colorado.gov/,https://townofolneysprings.colorado.gov/agendas-town-council,own site (PDF links),linkscan,url=https://townofolneysprings.colorado.gov/agendas-town-council,,found
+hillrose,Hillrose,town,Morgan,312,http://www.hillrosecolorado.org/,https://www.hillrosecolorado.org/,own site (PDF links),linkscan,url=https://www.hillrosecolorado.org/,,found
+boone,Boone,town,Pueblo,305,,,,,,,no website found
+romeo,Romeo,town,Conejos,302,,,,,,,no website found
+alma,Alma,town,Park,296,http://www.townofalma.com/,http://townofalma.com/meetings/,own site (PDF links),linkscan,url=http://townofalma.com/meetings/,,found
+rico,Rico,town,Dolores,288,https://townofrico.colorado.gov,https://townofrico.colorado.gov/government/board-of-trustees,own site (PDF links),linkscan,url=https://townofrico.colorado.gov/government/board-of-trustees,,found
+merino,Merino,town,Logan,281,,,,,,,no website found
+ovid,Ovid,town,Sedgwick,271,,,,,,,no website found
+sugar-city,Sugar City,town,Crowley,259,https://sugarcitycolorado.com/,,,,,,no meeting records found
+city-of-creede,City of Creede,town,Mineral,257,,,,,,,no website found
+red-cliff,Red Cliff,town,Eagle,257,https://townofredcliff.colorado.gov,https://townofredcliff.colorado.gov/government/2023-records/2023-meeting-agendas,own site (PDF links),linkscan,url=https://townofredcliff.colorado.gov/government/2023-records/2023-meeting-agendas,,found
+jamestown,Jamestown,town,Boulder,256,http://www.jamestownco.org/,https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/,own site (PDF links),linkscan,url=https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/,,found
+kit-carson,Kit Carson,town,Cheyenne,255,https://www.townofkitcarson.com/,,,,,,no meeting records found
+garden-city,Garden City,town,Weld,254,http://townofgardencity.com/,https://gardencityco.portal.civicclerk.com,civicclerk,civicclerk,tenant=gardencityco,15,found
+iliff,Iliff,town,Logan,246,,,,,,,no website found
+dinosaur,Dinosaur,town,Moffat,243,https://townofdinosaur.colorado.gov,,,,,,no meeting records found
+cheraw,Cheraw,town,Otero,237,https://townofcheraw.colorado.gov/,,,,,,no meeting records found
+brookside,Brookside,town,Fremont,236,https://townofbrookside.colorado.gov,https://townofbrookside.colorado.gov/town-government/town-board-meeting-dates-and-information,,,,,no meeting records found
+eckley,Eckley,town,Yuma,232,https://townofeckley.colorado.gov/,https://townofeckley.colorado.gov/government/agenda,,,,,no meeting records found
+peetz,Peetz,town,Logan,213,https://www.townofpeetz.com/,,,,,,site refused (200)
+silver-plume,Silver Plume,town,Clear Creek,207,https://silverplumetown.com/,https://silverplumetown.com/agendas-and-minutes/,own site (PDF links),linkscan,url=https://silverplumetown.com/agendas-and-minutes/,,found
+larkspur,Larkspur,town,Douglas,206,http://www.townoflarkspur.org/,,,,,,site refused (403)
+rye,Rye,town,Pueblo,206,https://townofrye.colorado.gov/,https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas,own site (PDF links),linkscan,url=https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas,,found
+arriba,Arriba,town,Lincoln,202,https://townofarriba.colorado.gov,https://townofarriba.colorado.gov/board-meeting-notice,,,,,no meeting records found
+ophir,Ophir,town,San Miguel,197,https://townofophir.colorado.gov,https://townofophir.colorado.gov/planning-and-zoning,own site (PDF links),linkscan,url=https://townofophir.colorado.gov/planning-and-zoning,,found
+bethune,Bethune,town,Kit Carson,183,,,,,,,no website found
+sedgwick,Sedgwick,town,Sedgwick,172,https://www.sedgwickcolorado.com/,,,,,,site refused (200)
+seibert,Seibert,town,Kit Carson,172,,,,,,,no website found
+crowley,Crowley,town,Crowley,166,,,,,,,no website found
+grover,Grover,town,Weld,157,,,,,,,no website found
+genoa,Genoa,town,Lincoln,153,https://townofgenoa.colorado.gov/,https://townofgenoa.colorado.gov/town-board-meetings,,,,,no meeting records found
+crestone,Crestone,town,Saguache,141,https://townofcrestone.colorado.gov,,,,,,site refused (404)
+crook,Crook,town,Logan,133,,,,,,,no website found
+marble,Marble,town,Gunnison,133,http://www.townofmarble.com/,https://townofmarble.com/2019-meeting-minutes-and-packets.html,,,,,no meeting records found
+ward,Ward,town,Boulder,128,,,,,,,no website found
+black-hawk,Black Hawk,city,Gilpin,127,http://www.cityofblackhawk.org/,https://www.cityofblackhawk.org/AgendaCenter,agendacenter,agendacenter,url=https://www.cityofblackhawk.org/AgendaCenter,,found
+cokedale,Cokedale,town,Las Animas,127,https://townofcokedale.colorado.gov,https://townofcokedale.colorado.gov/meetings,,,,,no meeting records found
+pritchett,Pritchett,town,Baca,112,,,,,,,no website found
+ramah,Ramah,town,El Paso,111,https://ramah.colorado.gov/,https://ramah.colorado.gov/town-board-trustees,,,,,no meeting records found
+raymer-new-raymer,Raymer (New Raymer),town,Weld,110,,,,,,,no website found
+moffat,Moffat,town,Saguache,108,https://townofmoffat.colorado.gov/,,,,,,no meeting records found
+campo,Campo,town,Baca,103,https://townofcampo.co/,https://campo.legistar.com/Calendar.aspx,legistar,legistar,client=campo,2,found
+vilas,Vilas,town,Baca,98,,,,,,,no website found
+vona,Vona,town,Kit Carson,95,,,,,,,no website found
+hooper,Hooper,town,Alamosa,81,,,,,,,no website found
+montezuma,Montezuma,town,Summit,74,https://www.townofmontezuma.com/,https://www.townofmontezuma.com/,own site (PDF links),linkscan,url=https://www.townofmontezuma.com/,,found
+pitkin,Pitkin,town,Gunnison,72,https://townofpitkin.colorado.gov/,https://townofpitkin.colorado.gov/documents/approved-meeting-minutes,own site (PDF links),linkscan,url=https://townofpitkin.colorado.gov/documents/approved-meeting-minutes,,found
+haswell,Haswell,town,Kiowa,71,http://www.kcedfonline.org/haswell.htm,,,,,,no meeting records found
+kim,Kim,town,Las Animas,63,,,,,,,no website found
+starkville,Starkville,town,Las Animas,62,,,,,,,no website found
+branson,Branson,town,Las Animas,57,http://www.bransoncolorado.com/,https://www.bransoncolorado.com/town-government,,,,,no meeting records found
+hartman,Hartman,town,Prowers,56,,,,,,,no website found
+sheridan-lake,Sheridan Lake,town,Kiowa,55,http://www.kcedfonline.org/sheridanlake.htm,,,,,,no meeting records found
+paoli,Paoli,town,Phillips,51,,,,,,,no website found
+sawpit,Sawpit,town,San Miguel,38,,,,,,,no website found
+two-buttes,Two Buttes,town,Baca,34,,,,,,,no website found
+bonanza,Bonanza,town,Saguache,17,,,,,,,no website found
+lakeside,Lakeside,town,Jefferson,16,https://www.townoflakesideco.org/,https://www.lakeside.town/boardoftrustees,,,,,no meeting records found
+carbonate,Carbonate,town,Garfield,0,,,,,,,no website found
