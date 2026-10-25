@@ -1,0 +1,33 @@
+name: extract
+on:
+  workflow_dispatch:
+    inputs:
+      only: {description: "Comma-separated source ids (blank = every government whose meetings changed)", required: false}
+      all: {description: "Re-extract every government", type: boolean, default: false}
+permissions:
+  contents: write
+concurrency: collect
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          EXTRACT_MODEL: ${{ vars.EXTRACT_MODEL }}
+          ONLY: ${{ github.event.inputs.only }}
+          ALL: ${{ github.event.inputs.all }}
+        run: |
+          python scripts/condense.py
+          python scripts/extract_issues.py --only "$ONLY" $([ "$ALL" = "true" ] && echo --all)
+          python scripts/build_map.py
+      - run: |
+          git config user.name "townhalltelescope-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs/data
+          git diff --cached --quiet || git commit -m "Extract issues $(date -u +%F)"
+          git pull --rebase -q && git push

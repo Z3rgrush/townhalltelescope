@@ -1,0 +1,92 @@
+{
+ "aurora": {
+  "date": "2026-10-25",
+  "hash": "d5b199bb4bf5b9d1",
+  "model": "hand-written"
+ },
+ "boulder": {
+  "date": "2026-10-25",
+  "hash": "469c9949c9e98fda",
+  "model": "hand-written"
+ },
+ "boulder-county": {
+  "date": "2026-10-25",
+  "hash": "e92d62d8bd446e64",
+  "model": "hand-written"
+ },
+ "broomfield": {
+  "date": "2026-10-25",
+  "hash": "8e9a011d295cb231",
+  "model": "hand-written"
+ },
+ "commerce-city": {
+  "date": "2026-10-25",
+  "hash": "20fcb7d3c21064b5",
+  "model": "hand-written"
+ },
+ "denver": {
+  "date": "2026-10-25",
+  "hash": "5ff4df7304369709",
+  "model": "hand-written"
+ },
+ "erie": {
+  "date": "2026-10-25",
+  "hash": "e5a566f088668864",
+  "model": "hand-written"
+ },
+ "firestone": {
+  "date": "2026-10-25",
+  "hash": "1160db55bc1eda66",
+  "model": "hand-written"
+ },
+ "frederick": {
+  "date": "2026-10-25",
+  "hash": "6cf6220fe7143fa5",
+  "model": "hand-written"
+ },
+ "glendale": {
+  "date": "2026-10-25",
+  "hash": "6d56f48a6e11ae61",
+  "model": "hand-written"
+ },
+ "lafayette": {
+  "date": "2026-10-25",
+  "hash": "a884c21bd6e590a7",
+  "model": "hand-written"
+ },
+ "longmont": {
+  "date": "2026-10-25",
+  "hash": "4527774accc7c36c",
+  "model": "hand-written"
+ },
+ "louisville": {
+  "date": "2026-10-25",
+  "hash": "52aceb5cc6b68939",
+  "model": "hand-written"
+ },
+ "lyons": {
+  "date": "2026-10-25",
+  "hash": "34f596ca4ee3a150",
+  "model": "hand-written"
+ },
+ "mead": {
+  "date": "2026-10-25",
+  "hash": "dfa178af7057f4ca",
+  "model": "hand-written"
+ },
+ "nederland": {
+  "date": "2026-10-25",
+  "hash": "a39d90450050f9a1",
+  "model": "hand-written"
+ },
+ "superior": {
+  "date": "2026-10-25",
+  "hash": "5000d1008ab9f40f",
+  "model": "hand-written"
+ },
+ "thornton": {
+  "date": "2026-10-25",
+  "hash": "ff98d4989f5f5db6",
+  "model": "hand-written"
+ }
+}
