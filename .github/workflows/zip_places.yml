@@ -2,7 +2,7 @@ name: zip-places
 on:
   workflow_dispatch:
     inputs:
-      region: {description: "Region id (ks or co)", default: "ks"}
+      region: {description: "Region id (co)", default: "co"}
 permissions:
   contents: write
 jobs:
@@ -17,6 +17,6 @@ jobs:
       - run: |
           git config user.name "townhalltelescope-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/zip_places.csv data/co/zip_places.csv 2>/dev/null || git add data
+          git add data
           git diff --cached --quiet || git commit -m "Update zip-to-city overlay"
           git pull --rebase -q && git push

@@ -1,3039 +1,1436 @@
 {
- "66012": {
+ "80020": {
   "governments": [
    {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 0.677,
+    "name": "Broomfield",
+    "share": 0.604,
     "has_records": true
    },
    {
-    "name": "Bonner Springs",
-    "share": 0.299,
+    "name": "Boulder County",
+    "share": 0.209,
     "has_records": true
    },
    {
-    "name": "Johnson County",
-    "share": 0.02,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "bonner-springs/6",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "bonner-springs/2",
-   "bonner-springs/3"
-  ],
-  "tagged": {}
- },
- "66013": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 0.958,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.042,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "johnson-county/6",
-   "overland-park/0"
-  ],
-  "tagged": {}
- },
- "66018": {
-  "governments": [
-   {
-    "name": "De Soto",
-    "share": 0.5,
-    "has_records": false
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.492,
-    "has_records": true
-   },
-   {
-    "name": "Olathe",
-    "share": 0.007,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "olathe/9",
-   "johnson-county/6"
-  ],
-  "tagged": {}
- },
- "66019": {
-  "governments": [
-   {
-    "name": "De Soto",
-    "share": 1.0,
-    "has_records": false
-   },
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "johnson-county/6",
-   "johnson-county/0"
-  ],
-  "tagged": {}
- },
- "66021": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 0.901,
-    "has_records": true
-   },
-   {
-    "name": "Edgerton",
-    "share": 0.099,
-    "has_records": true
-   },
-   {
-    "name": "Douglas County Commission",
-    "share": 0.08,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "edgerton/0",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "douglas-county/6"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "edgerton/0",
-     "edgerton/1"
-    ],
-    "site": true
-   }
-  }
- },
- "66025": {
-  "governments": [
-   {
-    "name": "Douglas County Commission",
-    "share": 0.955,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.2,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "douglas-county/6",
-   "johnson-county/3",
-   "douglas-county/2",
-   "johnson-county/4",
-   "johnson-county/2",
-   "douglas-county/1",
-   "douglas-county/3",
-   "johnson-county/1"
-  ],
-  "tagged": {}
- },
- "66030": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 0.708,
-    "has_records": true
-   },
-   {
-    "name": "Gardner",
-    "share": 0.239,
-    "has_records": true
-   },
-   {
-    "name": "Edgerton",
-    "share": 0.053,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "gardner/4",
-   "edgerton/0",
-   "gardner/6",
-   "johnson-county/1",
-   "johnson-county/5"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "edgerton/0",
-     "edgerton/1"
-    ],
-    "site": false
-   }
-  }
- },
- "66031": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 0.922,
-    "has_records": true
-   },
-   {
-    "name": "Olathe",
-    "share": 0.078,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "olathe/9",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "olathe/2"
-  ],
-  "tagged": {}
- },
- "66044": {
-  "governments": [
-   {
-    "name": "Douglas County Commission",
-    "share": 0.863,
-    "has_records": true
-   },
-   {
-    "name": "Lawrence",
-    "share": 0.137,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "douglas-county/6",
-   "lawrence/1",
-   "douglas-county/2",
-   "lawrence/14",
-   "douglas-county/1",
-   "douglas-county/3",
-   "douglas-county/5",
-   "lawrence/6"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lawrence/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66045": {
-  "governments": [
-   {
-    "name": "Lawrence",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Douglas County Commission",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "lawrence/1",
-   "lawrence/14",
-   "douglas-county/6",
-   "douglas-county/2",
-   "lawrence/6",
-   "lawrence/8",
-   "lawrence/15",
-   "lawrence/0"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lawrence/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66046": {
-  "governments": [
-   {
-    "name": "Douglas County Commission",
-    "share": 0.803,
-    "has_records": true
-   },
-   {
-    "name": "Lawrence",
-    "share": 0.197,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "douglas-county/6",
-   "lawrence/1",
-   "douglas-county/2",
-   "lawrence/14",
-   "douglas-county/1",
-   "douglas-county/3",
-   "lawrence/6",
-   "lawrence/8"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lawrence/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66047": {
-  "governments": [
-   {
-    "name": "Douglas County Commission",
-    "share": 0.892,
-    "has_records": true
-   },
-   {
-    "name": "Lawrence",
-    "share": 0.108,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "douglas-county/6",
-   "lawrence/1",
-   "douglas-county/2",
-   "lawrence/14",
-   "douglas-county/1",
-   "douglas-county/3",
-   "douglas-county/5",
-   "lawrence/6"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lawrence/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66049": {
-  "governments": [
-   {
-    "name": "Douglas County Commission",
-    "share": 0.782,
-    "has_records": true
-   },
-   {
-    "name": "Lawrence",
-    "share": 0.218,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "lawrence/1",
-   "douglas-county/6",
-   "douglas-county/2",
-   "lawrence/14",
-   "douglas-county/1",
-   "douglas-county/3",
-   "lawrence/6",
-   "lawrence/8"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lawrence/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66061": {
-  "governments": [
-   {
-    "name": "Olathe",
-    "share": 0.576,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.415,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.009,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "olathe/9",
-   "johnson-county/3",
-   "johnson-county/4",
-   "olathe/2",
-   "olathe/3",
-   "olathe/7",
-   "johnson-county/2",
-   "olathe/0"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66062": {
-  "governments": [
-   {
-    "name": "Olathe",
-    "share": 0.507,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.325,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.155,
-    "has_records": true
-   },
-   {
-    "name": "Spring Hill",
-    "share": 0.013,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "olathe/9",
-   "johnson-county/3",
-   "johnson-county/4",
-   "olathe/2",
-   "olathe/3",
-   "olathe/7",
-   "johnson-county/2",
-   "olathe/0"
-  ],
-  "tagged": {}
- },
- "66083": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 0.835,
-    "has_records": true
-   },
-   {
-    "name": "Spring Hill",
-    "share": 0.123,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.042,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "spring-hill/5",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "spring-hill/3"
-  ],
-  "tagged": {}
- },
- "66085": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 0.629,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.371,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {}
- },
- "66101": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66102": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66103": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.03,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66104": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66105": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66106": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 0.996,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.15,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "johnson-county/3",
-   "johnson-county/4",
-   "unified-government/5"
-  ],
-  "tagged": {}
- },
- "66109": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66111": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 0.94,
-    "has_records": true
-   },
-   {
-    "name": "Edwardsville",
-    "share": 0.417,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.06,
-    "has_records": true
-   },
-   {
-    "name": "Bonner Springs",
-    "share": 0.033,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "edwardsville/0",
-   "unified-government/2",
-   "unified-government/9",
-   "edwardsville/2",
-   "unified-government/5"
-  ],
-  "tagged": {}
- },
- "66112": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66115": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66118": {
-  "governments": [
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "unified-government/0",
-   "unified-government/1",
-   "unified-government/4",
-   "unified-government/2",
-   "unified-government/9",
-   "unified-government/5",
-   "unified-government/8",
-   "unified-government/11"
-  ],
-  "tagged": {}
- },
- "66202": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Mission",
-    "share": 0.439,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.301,
-    "has_records": true
-   },
-   {
-    "name": "Merriam",
-    "share": 0.247,
-    "has_records": true
-   },
-   {
-    "name": "Roeland Park",
-    "share": 0.008,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "merriam/0",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5"
-  ],
-  "tagged": {}
- },
- "66203": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee",
-    "share": 0.533,
-    "has_records": true
-   },
-   {
-    "name": "Merriam",
-    "share": 0.411,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.049,
-    "has_records": true
-   },
-   {
-    "name": "Mission",
-    "share": 0.007,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "merriam/0",
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "shawnee/4"
-  ],
-  "tagged": {}
- },
- "66204": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.903,
-    "has_records": true
-   },
-   {
-    "name": "Merriam",
-    "share": 0.088,
-    "has_records": true
-   },
-   {
-    "name": "Prairie Village",
-    "share": 0.009,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "merriam/0",
-   "johnson-county/1",
-   "johnson-county/5"
-  ],
-  "tagged": {}
- },
- "66205": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Roeland Park",
-    "share": 0.421,
-    "has_records": true
-   },
-   {
-    "name": "Fairway",
-    "share": 0.3,
-    "has_records": true
-   },
-   {
-    "name": "Westwood",
-    "share": 0.11,
-    "has_records": false
-   },
-   {
-    "name": "Mission",
-    "share": 0.085,
-    "has_records": true
-   },
-   {
-    "name": "Mission Hills",
-    "share": 0.042,
-    "has_records": true
-   },
-   {
-    "name": "Mission Woods",
-    "share": 0.023,
-    "has_records": true
-   },
-   {
-    "name": "Westwood Hills",
+    "name": "Louisville",
     "share": 0.017,
-    "has_records": false
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "roeland-park/2",
-   "johnson-county/6"
-  ],
-  "tagged": {}
- },
- "66206": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
     "has_records": true
    },
    {
-    "name": "Leawood",
-    "share": 0.911,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.068,
-    "has_records": true
-   },
-   {
-    "name": "Prairie Village",
-    "share": 0.021,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "leawood/4",
-   "overland-park/0"
-  ],
-  "tagged": {}
- },
- "66207": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.678,
-    "has_records": true
-   },
-   {
-    "name": "Prairie Village",
-    "share": 0.322,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {}
- },
- "66208": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Prairie Village",
-    "share": 0.7,
-    "has_records": true
-   },
-   {
-    "name": "Mission Hills",
-    "share": 0.289,
-    "has_records": true
-   },
-   {
-    "name": "Leawood",
-    "share": 0.01,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "prairie-village/3",
-   "prairie-village/4"
-  ],
-  "tagged": {}
- },
- "66209": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Leawood",
-    "share": 0.602,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.398,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {}
- },
- "66210": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.978,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.022,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66211": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Leawood",
-    "share": 0.628,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.372,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {}
- },
- "66212": {
-  "governments": [
-   {
-    "name": "Overland Park",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/2",
-   "overland-park/1",
-   "overland-park/2",
-   "overland-park/5"
-  ],
-  "tagged": {}
- },
- "66213": {
-  "governments": [
-   {
-    "name": "Overland Park",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/2",
-   "overland-park/1",
-   "overland-park/2",
-   "overland-park/5"
-  ],
-  "tagged": {}
- },
- "66214": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.635,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.261,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee",
-    "share": 0.104,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66215": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.92,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.053,
-    "has_records": true
-   },
-   {
-    "name": "Olathe",
-    "share": 0.026,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "olathe/9",
-   "johnson-county/6"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66216": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee",
-    "share": 0.88,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.119,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "shawnee/4",
-   "shawnee/8"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66217": {
-  "governments": [
-   {
-    "name": "Shawnee",
-    "share": 0.716,
-    "has_records": true
-   },
-   {
-    "name": "Lake Quivira",
-    "share": 0.157,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.122,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.005,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee/4",
-   "shawnee/8",
-   "johnson-county/3",
-   "johnson-county/4",
-   "shawnee/6",
-   "shawnee/7",
-   "johnson-county/2",
-   "lake-quivira/3"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66218": {
-  "governments": [
-   {
-    "name": "Shawnee",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "shawnee/4",
-   "shawnee/8",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {}
- },
- "66219": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Lenexa",
-    "share": 0.996,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7",
-   "johnson-county/6",
-   "lenexa/0"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": true
-   }
-  }
- },
- "66220": {
-  "governments": [
-   {
-    "name": "Lenexa",
-    "share": 0.995,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.005,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "lenexa/0",
-   "lenexa/1",
-   "lenexa/7",
-   "lenexa/12",
-   "johnson-county/2",
-   "johnson-county/1"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66221": {
-  "governments": [
-   {
-    "name": "Johnson County",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.997,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "overland-park/0",
-   "overland-park/12",
-   "johnson-county/1",
-   "johnson-county/5",
-   "johnson-county/7"
-  ],
-  "tagged": {}
- },
- "66223": {
-  "governments": [
-   {
-    "name": "Overland Park",
-    "share": 0.99,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.01,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "overland-park/0",
-   "overland-park/12",
-   "overland-park/1",
-   "overland-park/2",
-   "overland-park/5",
-   "overland-park/10",
-   "overland-park/14",
-   "johnson-county/3"
-  ],
-  "tagged": {}
- },
- "66224": {
-  "governments": [
-   {
-    "name": "Leawood",
-    "share": 0.716,
-    "has_records": true
-   },
-   {
-    "name": "Overland Park",
-    "share": 0.261,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.023,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "overland-park/0",
-   "overland-park/12",
-   "leawood/4",
-   "johnson-county/3",
-   "overland-park/1",
-   "overland-park/2",
-   "overland-park/5",
-   "overland-park/10"
-  ],
-  "tagged": {}
- },
- "66226": {
-  "governments": [
-   {
-    "name": "Shawnee",
-    "share": 0.954,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.93,
-    "has_records": true
-   },
-   {
-    "name": "Unified Government (KCK / Wyandotte County)",
-    "share": 0.07,
-    "has_records": true
-   },
-   {
-    "name": "Bonner Springs",
-    "share": 0.046,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "johnson-county/3",
-   "johnson-county/4",
-   "johnson-county/2",
-   "unified-government/0",
-   "unified-government/1",
-   "shawnee/4",
-   "shawnee/8",
-   "johnson-county/1"
-  ],
-  "tagged": {}
- },
- "66227": {
-  "governments": [
-   {
-    "name": "Lenexa",
-    "share": 0.663,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee",
-    "share": 0.333,
-    "has_records": true
-   },
-   {
-    "name": "Johnson County",
-    "share": 0.005,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee/4",
-   "shawnee/8",
-   "johnson-county/3",
-   "johnson-county/4",
-   "lenexa/0",
-   "lenexa/1",
-   "lenexa/7",
-   "lenexa/12"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "lenexa/12"
-    ],
-    "site": false
-   }
-  }
- },
- "66502": {
-  "governments": [
-   {
-    "name": "Riley County Commission",
-    "share": 0.953,
-    "has_records": true
-   },
-   {
-    "name": "Manhattan",
-    "share": 0.047,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "riley-county/1",
-   "riley-county/2",
-   "riley-county/5",
-   "riley-county/3",
-   "riley-county/7",
-   "riley-county/10",
-   "riley-county/0",
-   "riley-county/6"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "riley-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66503": {
-  "governments": [
-   {
-    "name": "Riley County Commission",
-    "share": 0.906,
-    "has_records": true
-   },
-   {
-    "name": "Manhattan",
-    "share": 0.094,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "riley-county/1",
-   "riley-county/2",
-   "riley-county/5",
-   "riley-county/3",
-   "riley-county/7",
-   "riley-county/10",
-   "riley-county/0",
-   "riley-county/6"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "riley-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66506": {
-  "governments": [
-   {
-    "name": "Manhattan",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Riley County Commission",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "riley-county/1",
-   "riley-county/2",
-   "riley-county/5",
-   "manhattan/0",
-   "riley-county/3",
-   "riley-county/7",
-   "riley-county/10",
-   "riley-county/0"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "riley-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66603": {
-  "governments": [
-   {
-    "name": "Topeka",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66604": {
-  "governments": [
-   {
-    "name": "Topeka",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
-    "share": 1.0,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66605": {
-  "governments": [
-   {
-    "name": "Topeka",
-    "share": 0.555,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
-    "share": 0.445,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66606": {
-  "governments": [
-   {
-    "name": "Topeka",
-    "share": 0.993,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
+    "name": "Lafayette",
     "share": 0.007,
     "has_records": true
    }
   ],
   "issues": [
-   "topeka/5",
-   "topeka/3",
-   "topeka/9",
-   "topeka/4",
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/6",
-   "topeka/10"
+   "boulder-county/0",
+   "broomfield/1",
+   "louisville/2",
+   "broomfield/3",
+   "louisville/6",
+   "louisville/3",
+   "louisville/12",
+   "louisville/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
+     "lafayette/2"
     ],
     "site": false
    }
   }
  },
- "66607": {
+ "80023": {
   "governments": [
    {
-    "name": "Topeka",
-    "share": 0.769,
+    "name": "Broomfield",
+    "share": 0.605,
     "has_records": true
    },
    {
-    "name": "Shawnee County Commission",
-    "share": 0.231,
+    "name": "Thornton",
+    "share": 0.147,
     "has_records": true
    }
   ],
   "issues": [
-   "topeka/5",
-   "topeka/3",
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/9",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/4"
+   "broomfield/1",
+   "broomfield/3",
+   "broomfield/0",
+   "broomfield/2",
+   "broomfield/4",
+   "broomfield/5",
+   "broomfield/6",
+   "broomfield/9"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
+     "thornton/0"
     ],
     "site": false
    }
   }
  },
- "66608": {
+ "80025": {
   "governments": [
    {
-    "name": "Topeka",
-    "share": 0.989,
+    "name": "Boulder County",
+    "share": 0.916,
     "has_records": true
    },
    {
-    "name": "Shawnee County Commission",
-    "share": 0.011,
+    "name": "Boulder",
+    "share": 0.084,
     "has_records": true
    }
   ],
   "issues": [
-   "topeka/5",
-   "topeka/3",
-   "topeka/9",
-   "topeka/4",
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/6",
-   "topeka/10"
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder/2",
+   "boulder-county/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10"
   ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
- "66609": {
+ "80026": {
   "governments": [
    {
-    "name": "Shawnee County Commission",
-    "share": 0.559,
+    "name": "Boulder County",
+    "share": 0.515,
     "has_records": true
    },
    {
-    "name": "Topeka",
-    "share": 0.441,
+    "name": "Lafayette",
+    "share": 0.404,
+    "has_records": true
+   },
+   {
+    "name": "Erie",
+    "share": 0.075,
+    "has_records": true
+   },
+   {
+    "name": "Louisville",
+    "share": 0.006,
     "has_records": true
    }
   ],
   "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/5",
-   "topeka/3",
-   "shawnee-county/4",
-   "topeka/9"
+   "boulder-county/0",
+   "lafayette/3",
+   "lafayette/4",
+   "lafayette/0",
+   "lafayette/1",
+   "louisville/2",
+   "lafayette/2",
+   "lafayette/9"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "shawnee-county/0",
-     "topeka/0",
-     "topeka/1",
-     "topeka/2"
+     "lafayette/2"
     ],
     "site": false
    }
   }
  },
- "66610": {
+ "80027": {
   "governments": [
    {
-    "name": "Shawnee County Commission",
-    "share": 0.93,
+    "name": "Boulder County",
+    "share": 0.425,
     "has_records": true
    },
    {
-    "name": "Topeka",
-    "share": 0.07,
+    "name": "Louisville",
+    "share": 0.383,
+    "has_records": true
+   },
+   {
+    "name": "Superior",
+    "share": 0.192,
     "has_records": true
    }
   ],
   "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "shawnee-county/4",
-   "topeka/5",
-   "shawnee-county/8",
-   "topeka/3"
+   "louisville/2",
+   "louisville/6",
+   "boulder-county/0",
+   "louisville/3",
+   "louisville/12",
+   "louisville/7",
+   "louisville/0",
+   "louisville/1"
   ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "shawnee-county/0",
-     "topeka/0",
-     "topeka/1",
-     "topeka/2"
-    ],
-    "site": false
-   }
-  }
+  "tagged": {}
  },
- "66611": {
+ "80202": {
   "governments": [
    {
-    "name": "Topeka",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "66612": {
+ "80203": {
   "governments": [
    {
-    "name": "Topeka",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "66614": {
+ "80204": {
   "governments": [
    {
-    "name": "Shawnee County Commission",
-    "share": 0.755,
-    "has_records": true
-   },
-   {
-    "name": "Topeka",
-    "share": 0.245,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/5",
-   "shawnee-county/4",
-   "topeka/3",
-   "topeka/9"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "shawnee-county/0",
-     "topeka/0",
-     "topeka/1",
-     "topeka/2"
-    ],
-    "site": false
-   }
-  }
- },
- "66615": {
-  "governments": [
-   {
-    "name": "Shawnee County Commission",
-    "share": 0.966,
-    "has_records": true
-   },
-   {
-    "name": "Topeka",
-    "share": 0.034,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "shawnee-county/4",
-   "shawnee-county/8",
-   "topeka/5",
-   "topeka/3"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "shawnee-county/0",
-     "topeka/0",
-     "topeka/1",
-     "topeka/2"
-    ],
-    "site": false
-   }
-  }
- },
- "66616": {
-  "governments": [
-   {
-    "name": "Topeka",
-    "share": 0.615,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
-    "share": 0.385,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "66618": {
-  "governments": [
-   {
-    "name": "Shawnee County Commission",
-    "share": 0.942,
-    "has_records": true
-   },
-   {
-    "name": "Topeka",
-    "share": 0.058,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "shawnee-county/4",
-   "shawnee-county/8",
-   "topeka/5",
-   "topeka/3"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "shawnee-county/0",
-     "topeka/0",
-     "topeka/1",
-     "topeka/2"
-    ],
-    "site": false
-   }
-  }
- },
- "66621": {
-  "governments": [
-   {
-    "name": "Topeka",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "66622": {
+ "80205": {
   "governments": [
    {
-    "name": "Topeka",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Shawnee County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "shawnee-county/1",
-   "shawnee-county/6",
-   "topeka/5",
-   "shawnee-county/3",
-   "shawnee-county/7",
-   "topeka/3",
-   "topeka/9",
-   "shawnee-county/4"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "topeka/0",
-     "topeka/1",
-     "topeka/2",
-     "shawnee-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67202": {
+ "80206": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67203": {
+ "80207": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67204": {
+ "80209": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 0.674,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.235,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67205": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.624,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.345,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67206": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.79,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.198,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67207": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.76,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.221,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67208": {
-  "governments": [
-   {
-    "name": "Sedgwick County Commission",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Wichita",
-    "share": 0.987,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "sedgwick-county/10",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/4",
-   "wichita/8",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67209": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.991,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.009,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "wichita/0",
-   "wichita/4",
-   "sedgwick-county/10"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67210": {
-  "governments": [
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.813,
-    "has_records": true
-   },
-   {
-    "name": "Wichita",
-    "share": 0.187,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67211": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67212": {
+ "80210": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 0.927,
+    "name": "Denver",
+    "share": 0.999,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80211": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80212": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.747,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80216": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.667,
     "has_records": true
    },
    {
-    "name": "Sedgwick County Commission",
+    "name": "Commerce City",
     "share": 0.073,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "wichita/0",
-   "wichita/4"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "commerce-city/0",
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67213": {
+ "80218": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67214": {
+ "80219": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67215": {
+ "80220": {
   "governments": [
    {
-    "name": "Sedgwick County Commission",
-    "share": 0.675,
-    "has_records": true
-   },
-   {
-    "name": "Wichita",
-    "share": 0.325,
+    "name": "Denver",
+    "share": 0.998,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "sedgwick-county/10",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/4",
-   "sedgwick-county/2",
-   "wichita/8"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67216": {
+ "80222": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 0.788,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.212,
+    "name": "Denver",
+    "share": 0.854,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67217": {
+ "80223": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 0.776,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.187,
+    "name": "Denver",
+    "share": 0.999,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67218": {
+ "80224": {
   "governments": [
    {
-    "name": "Sedgwick County Commission",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Wichita",
-    "share": 0.996,
+    "name": "Denver",
+    "share": 0.974,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "sedgwick-county/10",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/4",
-   "wichita/8",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67219": {
+ "80230": {
   "governments": [
    {
-    "name": "Wichita",
-    "share": 0.408,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.202,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "sedgwick-county/10",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67220": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.717,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.014,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8",
-   "wichita/0",
-   "wichita/4",
-   "sedgwick-county/10"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67223": {
-  "governments": [
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.754,
-    "has_records": true
-   },
-   {
-    "name": "Wichita",
-    "share": 0.136,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "sedgwick-county/10",
-   "wichita/11",
-   "sedgwick-county/4",
-   "sedgwick-county/2",
-   "wichita/2",
-   "wichita/13",
-   "wichita/8"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67226": {
-  "governments": [
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.484,
-    "has_records": true
-   },
-   {
-    "name": "Wichita",
-    "share": 0.348,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "sedgwick-county/10",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/4",
-   "sedgwick-county/2",
-   "wichita/8"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67230": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.564,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.436,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67235": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 0.577,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
-    "share": 0.423,
-    "has_records": true
-   }
-  ],
-  "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
-  ],
-  "tagged": {
-   "data-center": {
-    "ids": [
-     "sedgwick-county/0"
-    ],
-    "site": false
-   }
-  }
- },
- "67260": {
-  "governments": [
-   {
-    "name": "Wichita",
-    "share": 1.0,
-    "has_records": true
-   },
-   {
-    "name": "Sedgwick County Commission",
+    "name": "Denver",
     "share": 1.0,
     "has_records": true
    }
   ],
   "issues": [
-   "wichita/1",
-   "wichita/11",
-   "wichita/2",
-   "wichita/13",
-   "sedgwick-county/10",
-   "wichita/8",
-   "sedgwick-county/4",
-   "sedgwick-county/2"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "sedgwick-county/0"
+     "denver/0"
     ],
     "site": false
    }
   }
  },
- "67401": {
+ "80231": {
   "governments": [
    {
-    "name": "Saline County Commission",
-    "share": 0.893,
-    "has_records": true
-   },
-   {
-    "name": "Salina",
-    "share": 0.107,
+    "name": "Denver",
+    "share": 0.566,
     "has_records": true
    }
   ],
   "issues": [
-   "saline-county/0",
-   "salina/1",
-   "saline-county/2",
-   "saline-county/3",
-   "saline-county/5",
-   "salina/0",
-   "salina/2",
-   "salina/3"
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80236": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.958,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80237": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.997,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80238": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80239": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.958,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80246": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.67,
+    "has_records": true
+   },
+   {
+    "name": "Glendale",
+    "share": 0.33,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80247": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.573,
+    "has_records": true
+   },
+   {
+    "name": "Aurora",
+    "share": 0.225,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "aurora/0",
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80249": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 0.986,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80264": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80290": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80293": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80294": {
+  "governments": [
+   {
+    "name": "Denver",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "denver/4",
+   "denver/10",
+   "denver/2",
+   "denver/3",
+   "denver/5",
+   "denver/11",
+   "denver/15",
+   "denver/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "denver/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80301": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.759,
+    "has_records": true
+   },
+   {
+    "name": "Boulder",
+    "share": 0.241,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder/2",
+   "boulder/0",
+   "boulder-county/7",
+   "boulder/4",
+   "boulder/12",
+   "boulder-county/2",
+   "boulder/10"
+  ],
+  "tagged": {}
+ },
+ "80302": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.956,
+    "has_records": true
+   },
+   {
+    "name": "Boulder",
+    "share": 0.044,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10"
+  ],
+  "tagged": {}
+ },
+ "80303": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.829,
+    "has_records": true
+   },
+   {
+    "name": "Boulder",
+    "share": 0.171,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder/2",
+   "boulder-county/7",
+   "boulder/0",
+   "boulder-county/2",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10"
+  ],
+  "tagged": {}
+ },
+ "80304": {
+  "governments": [
+   {
+    "name": "Boulder",
+    "share": 0.631,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.369,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder-county/7",
+   "boulder/6"
+  ],
+  "tagged": {}
+ },
+ "80305": {
+  "governments": [
+   {
+    "name": "Boulder",
+    "share": 0.58,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.42,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder-county/7",
+   "boulder/6"
+  ],
+  "tagged": {}
+ },
+ "80310": {
+  "governments": [
+   {
+    "name": "Boulder",
+    "share": 1.0,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder/2",
+   "boulder/0",
+   "boulder/4",
+   "boulder/12",
+   "boulder/10",
+   "boulder-county/7",
+   "boulder/6"
+  ],
+  "tagged": {}
+ },
+ "80455": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.984,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "boulder-county/1",
+   "boulder-county/3",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/6"
+  ],
+  "tagged": {}
+ },
+ "80466": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.983,
+    "has_records": true
+   },
+   {
+    "name": "Nederland",
+    "share": 0.017,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "nederland/1",
+   "nederland/0",
+   "nederland/2",
+   "boulder-county/1",
+   "boulder-county/3"
+  ],
+  "tagged": {}
+ },
+ "80471": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "boulder-county/1",
+   "boulder-county/3",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/6"
+  ],
+  "tagged": {}
+ },
+ "80481": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.993,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "boulder-county/1",
+   "boulder-county/3",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/6"
+  ],
+  "tagged": {}
+ },
+ "80501": {
+  "governments": [
+   {
+    "name": "Longmont",
+    "share": 0.841,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.159,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "longmont/9",
+   "longmont/3",
+   "longmont/0",
+   "longmont/5",
+   "longmont/8",
+   "boulder-county/0",
+   "longmont/2",
+   "longmont/4"
+  ],
+  "tagged": {}
+ },
+ "80503": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.908,
+    "has_records": true
+   },
+   {
+    "name": "Longmont",
+    "share": 0.085,
+    "has_records": true
+   },
+   {
+    "name": "Boulder",
+    "share": 0.007,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "longmont/9",
+   "longmont/3",
+   "longmont/0",
+   "longmont/5",
+   "longmont/8",
+   "boulder-county/7",
+   "longmont/2"
+  ],
+  "tagged": {}
+ },
+ "80504": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.64,
+    "has_records": true
+   },
+   {
+    "name": "Firestone",
+    "share": 0.124,
+    "has_records": true
+   },
+   {
+    "name": "Longmont",
+    "share": 0.115,
+    "has_records": true
+   },
+   {
+    "name": "Frederick",
+    "share": 0.081,
+    "has_records": true
+   },
+   {
+    "name": "Mead",
+    "share": 0.04,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "longmont/9",
+   "longmont/3",
+   "longmont/0",
+   "longmont/5",
+   "longmont/8",
+   "boulder-county/7",
+   "longmont/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mead/0"
+    ],
+    "site": false
+   }
+  }
+ },
+ "80510": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "boulder-county/1",
+   "boulder-county/3",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/6"
+  ],
+  "tagged": {}
+ },
+ "80516": {
+  "governments": [
+   {
+    "name": "Erie",
+    "share": 0.445,
+    "has_records": true
+   },
+   {
+    "name": "Boulder County",
+    "share": 0.332,
+    "has_records": true
+   },
+   {
+    "name": "Broomfield",
+    "share": 0.117,
+    "has_records": true
+   },
+   {
+    "name": "Frederick",
+    "share": 0.099,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "erie/2",
+   "erie/7",
+   "erie/5",
+   "erie/3",
+   "erie/4",
+   "broomfield/1",
+   "erie/1"
+  ],
+  "tagged": {}
+ },
+ "80540": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 0.992,
+    "has_records": true
+   },
+   {
+    "name": "Lyons",
+    "share": 0.008,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "lyons/0",
+   "lyons/4",
+   "lyons/1",
+   "lyons/2",
+   "boulder-county/7",
+   "lyons/3",
+   "lyons/11"
+  ],
+  "tagged": {}
+ },
+ "80544": {
+  "governments": [
+   {
+    "name": "Boulder County",
+    "share": 1.0,
+    "has_records": true
+   }
+  ],
+  "issues": [
+   "boulder-county/0",
+   "boulder-county/7",
+   "boulder-county/2",
+   "boulder-county/1",
+   "boulder-county/3",
+   "boulder-county/4",
+   "boulder-county/5",
+   "boulder-county/6"
   ],
   "tagged": {}
  }

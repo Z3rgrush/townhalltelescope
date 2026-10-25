@@ -1,247 +1,124 @@
 zip,city,share_of_zip_area
-66012,(unincorporated),0.654
-66012,Bonner Springs,0.299
-66012,Kansas City,0.023
-66012,Basehor,0.023
-66013,(unincorporated),0.958
-66013,Overland Park,0.042
-66018,De Soto,0.5
-66018,(unincorporated),0.492
-66018,Olathe,0.007
-66019,De Soto,1.0
-66019,(unincorporated),0.0
-66021,(unincorporated),0.901
-66021,Edgerton,0.099
-66025,(unincorporated),0.955
-66025,Eudora,0.045
-66030,(unincorporated),0.708
-66030,Gardner,0.239
-66030,Edgerton,0.053
-66031,(unincorporated),0.922
-66031,Olathe,0.078
-66044,(unincorporated),0.863
-66044,Lawrence,0.137
-66045,Lawrence,1.0
-66045,(unincorporated),0.0
-66046,(unincorporated),0.803
-66046,Lawrence,0.197
-66047,(unincorporated),0.892
-66047,Lawrence,0.108
-66049,(unincorporated),0.782
-66049,Lawrence,0.218
-66061,Olathe,0.576
-66061,(unincorporated),0.415
-66061,Lenexa,0.009
-66062,Olathe,0.507
-66062,(unincorporated),0.325
-66062,Overland Park,0.155
-66062,Spring Hill,0.013
-66083,(unincorporated),0.835
-66083,Spring Hill,0.123
-66083,Overland Park,0.042
-66085,(unincorporated),0.629
-66085,Overland Park,0.371
-66101,Kansas City,1.0
-66101,(unincorporated),0.0
-66102,Kansas City,1.0
-66102,(unincorporated),0.0
-66103,Kansas City,1.0
-66103,(unincorporated),0.0
-66104,Kansas City,1.0
-66104,(unincorporated),0.0
-66105,Kansas City,1.0
-66105,(unincorporated),0.0
-66106,Kansas City,0.996
-66106,(unincorporated),0.004
-66109,Kansas City,0.933
-66109,(unincorporated),0.067
-66111,Kansas City,0.551
-66111,Edwardsville,0.417
-66111,Bonner Springs,0.033
-66111,(unincorporated),0.0
-66112,Kansas City,1.0
-66112,(unincorporated),0.0
-66115,Kansas City,1.0
-66115,(unincorporated),0.0
-66118,Kansas City,1.0
-66118,(unincorporated),0.0
-66202,Mission,0.439
-66202,Overland Park,0.301
-66202,Merriam,0.247
-66202,Roeland Park,0.008
-66202,(unincorporated),0.004
-66203,Shawnee,0.533
-66203,Merriam,0.411
-66203,Overland Park,0.049
-66203,Mission,0.007
-66203,(unincorporated),0.0
-66204,Overland Park,0.903
-66204,Merriam,0.088
-66204,Prairie Village,0.009
-66204,(unincorporated),0.0
-66205,Roeland Park,0.421
-66205,Fairway,0.3
-66205,Westwood,0.11
-66205,Mission,0.085
-66205,Mission Hills,0.042
-66205,Mission Woods,0.023
-66205,Westwood Hills,0.017
-66205,(unincorporated),0.003
-66206,Leawood,0.911
-66206,Overland Park,0.068
-66206,Prairie Village,0.021
-66206,(unincorporated),0.0
-66207,Overland Park,0.678
-66207,Prairie Village,0.322
-66207,(unincorporated),0.0
-66208,Prairie Village,0.7
-66208,Mission Hills,0.289
-66208,Leawood,0.01
-66208,(unincorporated),0.001
-66209,Leawood,0.602
-66209,Overland Park,0.398
-66209,(unincorporated),0.0
-66210,Overland Park,0.978
-66210,Lenexa,0.022
-66210,(unincorporated),0.0
-66211,Leawood,0.628
-66211,Overland Park,0.372
-66211,(unincorporated),0.0
-66212,Overland Park,1.0
-66212,(unincorporated),0.0
-66213,Overland Park,1.0
-66213,(unincorporated),0.0
-66214,Overland Park,0.635
-66214,Lenexa,0.261
-66214,Shawnee,0.104
-66214,(unincorporated),0.0
-66215,Lenexa,0.92
-66215,Overland Park,0.053
-66215,Olathe,0.026
-66215,(unincorporated),0.0
-66216,Shawnee,0.88
-66216,Lenexa,0.119
-66216,(unincorporated),0.001
-66217,Shawnee,0.716
-66217,Lake Quivira,0.157
-66217,Lenexa,0.122
-66217,(unincorporated),0.005
-66218,Shawnee,1.0
-66218,(unincorporated),0.0
-66219,Lenexa,0.996
-66219,(unincorporated),0.004
-66220,Lenexa,0.995
-66220,(unincorporated),0.005
-66221,Overland Park,0.997
-66221,(unincorporated),0.003
-66223,Overland Park,0.99
-66223,(unincorporated),0.01
-66224,Leawood,0.716
-66224,Overland Park,0.261
-66224,(unincorporated),0.023
-66226,Shawnee,0.954
-66226,Bonner Springs,0.046
-66226,(unincorporated),0.0
-66227,Lenexa,0.663
-66227,Shawnee,0.333
-66227,(unincorporated),0.005
-66502,(unincorporated),0.953
-66502,Manhattan,0.047
-66503,(unincorporated),0.906
-66503,Manhattan,0.094
-66506,Manhattan,1.0
-66506,(unincorporated),0.0
-66603,Topeka,1.0
-66603,(unincorporated),0.0
-66604,Topeka,1.0
-66604,(unincorporated),0.0
-66605,Topeka,0.555
-66605,(unincorporated),0.445
-66606,Topeka,0.993
-66606,(unincorporated),0.007
-66607,Topeka,0.769
-66607,(unincorporated),0.231
-66608,Topeka,0.989
-66608,(unincorporated),0.011
-66609,(unincorporated),0.559
-66609,Topeka,0.441
-66610,(unincorporated),0.93
-66610,Topeka,0.07
-66611,Topeka,1.0
-66611,(unincorporated),0.0
-66612,Topeka,1.0
-66612,(unincorporated),0.0
-66614,(unincorporated),0.755
-66614,Topeka,0.245
-66615,(unincorporated),0.966
-66615,Topeka,0.034
-66616,Topeka,0.615
-66616,(unincorporated),0.385
-66618,(unincorporated),0.942
-66618,Topeka,0.058
-66621,Topeka,1.0
-66621,(unincorporated),0.0
-66622,Topeka,1.0
-66622,(unincorporated),0.0
-67202,Wichita,1.0
-67202,(unincorporated),0.0
-67203,Wichita,1.0
-67203,(unincorporated),0.0
-67204,Wichita,0.674
-67204,(unincorporated),0.235
-67204,Park City,0.05
-67204,Valley Center,0.04
-67205,Wichita,0.624
-67205,(unincorporated),0.345
-67205,Maize,0.031
-67206,Wichita,0.79
-67206,(unincorporated),0.198
-67206,Eastborough,0.013
-67207,Wichita,0.76
-67207,(unincorporated),0.221
-67207,Eastborough,0.019
-67208,Wichita,0.987
-67208,Eastborough,0.013
-67208,(unincorporated),0.0
-67209,Wichita,0.991
-67209,(unincorporated),0.009
-67210,(unincorporated),0.813
-67210,Wichita,0.187
-67211,Wichita,1.0
-67211,(unincorporated),0.0
-67212,Wichita,0.927
-67212,(unincorporated),0.073
-67213,Wichita,1.0
-67213,(unincorporated),0.0
-67214,Wichita,1.0
-67214,(unincorporated),0.0
-67215,(unincorporated),0.675
-67215,Wichita,0.325
-67216,Wichita,0.788
-67216,(unincorporated),0.212
-67217,Wichita,0.776
-67217,(unincorporated),0.187
-67217,Haysville,0.037
-67218,Wichita,0.996
-67218,(unincorporated),0.004
-67219,Wichita,0.408
-67219,Park City,0.38
-67219,(unincorporated),0.202
-67219,Kechi,0.009
-67220,Wichita,0.717
-67220,Bel Aire,0.269
-67220,(unincorporated),0.014
-67223,(unincorporated),0.754
-67223,Wichita,0.136
-67223,Maize,0.109
-67226,(unincorporated),0.484
-67226,Wichita,0.348
-67226,Bel Aire,0.168
-67230,Wichita,0.564
-67230,(unincorporated),0.436
-67235,Wichita,0.577
-67235,(unincorporated),0.423
-67260,Wichita,1.0
-67260,(unincorporated),0.0
-67401,(unincorporated),0.893
-67401,Salina,0.107
+80020,Broomfield,0.604
+80020,(unincorporated),0.232
+80020,Westminster,0.14
+80020,Louisville,0.017
+80020,Lafayette,0.007
+80023,Broomfield,0.605
+80023,(unincorporated),0.153
+80023,Thornton,0.147
+80023,Westminster,0.095
+80025,(unincorporated),0.916
+80025,Boulder,0.084
+80026,(unincorporated),0.515
+80026,Lafayette,0.404
+80026,Erie,0.075
+80026,Louisville,0.006
+80027,(unincorporated),0.425
+80027,Louisville,0.383
+80027,Superior,0.192
+80202,Denver,1.0
+80202,(unincorporated),0.0
+80203,Denver,1.0
+80203,(unincorporated),0.0
+80204,Denver,1.0
+80204,(unincorporated),0.0
+80205,Denver,1.0
+80205,(unincorporated),0.0
+80206,Denver,1.0
+80206,(unincorporated),0.0
+80207,Denver,1.0
+80207,(unincorporated),0.0
+80209,Denver,1.0
+80209,(unincorporated),0.0
+80210,Denver,0.999
+80210,(unincorporated),0.001
+80211,Denver,1.0
+80211,(unincorporated),0.0
+80212,Denver,0.747
+80212,Wheat Ridge,0.1
+80212,(unincorporated),0.068
+80212,Lakeside,0.062
+80212,Mountain View,0.023
+80216,Denver,0.667
+80216,(unincorporated),0.261
+80216,Commerce City,0.073
+80218,Denver,1.0
+80218,(unincorporated),0.0
+80219,Denver,1.0
+80219,(unincorporated),0.0
+80220,Denver,0.998
+80220,(unincorporated),0.002
+80222,Denver,0.854
+80222,(unincorporated),0.146
+80223,Denver,0.999
+80223,(unincorporated),0.001
+80224,Denver,0.974
+80224,(unincorporated),0.026
+80230,Denver,1.0
+80230,(unincorporated),0.0
+80231,Denver,0.566
+80231,(unincorporated),0.434
+80236,Denver,0.958
+80236,Sheridan,0.041
+80236,(unincorporated),0.0
+80237,Denver,0.997
+80237,(unincorporated),0.003
+80238,Denver,1.0
+80238,(unincorporated),0.0
+80239,Denver,0.958
+80239,(unincorporated),0.042
+80246,Denver,0.67
+80246,Glendale,0.33
+80246,(unincorporated),0.0
+80247,Denver,0.573
+80247,Aurora,0.225
+80247,(unincorporated),0.202
+80249,Denver,0.986
+80249,(unincorporated),0.014
+80264,Denver,1.0
+80264,(unincorporated),0.0
+80290,Denver,1.0
+80290,(unincorporated),0.0
+80293,Denver,1.0
+80293,(unincorporated),0.0
+80294,Denver,1.0
+80294,(unincorporated),0.0
+80301,(unincorporated),0.759
+80301,Boulder,0.241
+80302,(unincorporated),0.956
+80302,Boulder,0.044
+80303,(unincorporated),0.829
+80303,Boulder,0.171
+80304,Boulder,0.631
+80304,(unincorporated),0.369
+80305,Boulder,0.58
+80305,(unincorporated),0.42
+80310,Boulder,1.0
+80310,(unincorporated),0.0
+80455,(unincorporated),0.984
+80455,Jamestown,0.016
+80466,(unincorporated),0.983
+80466,Nederland,0.017
+80471,(unincorporated),1.0
+80481,(unincorporated),0.993
+80481,Ward,0.007
+80501,Longmont,0.841
+80501,(unincorporated),0.159
+80503,(unincorporated),0.908
+80503,Longmont,0.085
+80503,Boulder,0.007
+80504,(unincorporated),0.64
+80504,Firestone,0.124
+80504,Longmont,0.115
+80504,Frederick,0.081
+80504,Mead,0.04
+80510,(unincorporated),1.0
+80516,Erie,0.445
+80516,(unincorporated),0.332
+80516,Broomfield,0.117
+80516,Frederick,0.099
+80516,Dacono,0.006
+80540,(unincorporated),0.992
+80540,Lyons,0.008
+80544,(unincorporated),1.0

@@ -5,7 +5,7 @@ zip where one of the cities covers at least MIN_SHARE of the zip's land (or the 
 least MIN_CITY of the city), and appends those zips to pilot_zips.geojson and zips.csv. Run
 zip_places.py afterwards to refresh the zip-to-city overlay.
 
-Usage: python scripts/add_zips.py --region ks Wichita Topeka "Kansas City"
+Usage: python scripts/add_zips.py --region co Golden Arvada "Wheat Ridge"
 """
 import argparse
 import csv
@@ -26,7 +26,7 @@ from collector.regions import REGIONS  # noqa: E402
 MIN_SHARE, MIN_CITY = 0.10, 0.02
 
 ap = argparse.ArgumentParser()
-ap.add_argument("--region", default="ks", choices=REGIONS)
+ap.add_argument("--region", default="co", choices=REGIONS)
 ap.add_argument("cities", nargs="+")
 args = ap.parse_args()
 region = REGIONS[args.region]

@@ -1,248 +1,112 @@
-# Where each government posts agendas and minutes, and which scraper reads it.
-# adapters: civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe (see collector/adapters.py)
-# bodies: optional regex; only meetings whose body name matches are kept.
-
-- id: overland-park
-  name: Overland Park
-  county: Johnson
-  adapter: civicweb
-  base: https://opkansas.civicweb.net
-  bodies: "Council|Committee|Planning|Public Safety|Community Development|Finance"
-
-- id: leawood
-  name: Leawood
-  county: Johnson
-  adapter: civicweb
-  base: https://leawood.civicweb.net
-  bodies: "Governing Body|Planning|Committee|Zoning|Land Bank"
-
-- id: shawnee
-  name: Shawnee
-  county: Johnson
-  adapter: civicweb
-  base: https://cityofshawnee.civicweb.net
-  bodies: "Council|Planning"
-
-- id: unified-government
-  name: Unified Government of Wyandotte County / Kansas City KS
-  county: Wyandotte
-  adapter: civicclerk
-  tenant: wycokck
-
-- id: bonner-springs
-  name: Bonner Springs
-  county: Wyandotte
-  adapter: civicclerk
-  tenant: bonnerspringsks
-
-- id: de-soto
-  name: De Soto
-  county: Johnson
+# Boulder/Denver region: Denver, Boulder and Broomfield counties (see data/zips.csv).
+- id: denver
+  name: Denver
+  county: Denver
+  adapter: legistar
+  client: denver
+- id: boulder
+  name: Boulder
+  county: Boulder
+  adapter: primegov
+  tenant: bouldercolorado
+- id: longmont
+  name: Longmont
+  county: Boulder
+  adapter: primegov
+  tenant: longmont
+- id: broomfield
+  name: Broomfield
+  county: Broomfield
+  # Boards come from AgendaCenter. The council's AgendaLink portal is JavaScript-only, so council
+  # meetings come from the city's Cablecast video archive, whose chapters list the agenda items.
   adapter: agendacenter
-  base: https://www.desotoks.us
-
-- id: spring-hill
-  name: Spring Hill
-  county: Johnson
-  adapter: agendacenter
-  base: https://www.springhillks.gov
-
-- id: mission-hills
-  name: Mission Hills
-  county: Johnson
-  adapter: agendacenter
-  base: https://www.missionhillsks.gov
-
-- id: edwardsville
-  name: Edwardsville
-  county: Wyandotte
-  adapter: agendacenter
-  base: https://www.edwardsvilleks.org
-
-- id: roeland-park
-  name: Roeland Park
-  county: Johnson
+  base: https://broomfield.org
+  also:
+    - adapter: cablecast
+      base: https://vod.broomfield.org
+      search: council
+      titles: City Council
+- id: boulder-county
+  name: Boulder County
+  county: Boulder
+  # eScribe files sit behind a bot check, which we leave alone. The county's events calendar
+  # describes each commissioners' public meeting and hearing, which is what we read instead.
+  adapter: wp_events
+  base: https://www.bouldercounty.gov
+  categories: county-commissioners
+  titles: "^Public (Meeting|Hearing)|Town Hall|Work Session"
+- id: louisville
+  name: Louisville
+  county: Boulder
   adapter: civicclerk
-  tenant: roelandparkks
+  tenant: louisvilleco
+- id: superior
+  name: Superior
+  county: Boulder
+  adapter: civicclerk
+  tenant: superiorco
+- id: erie
+  name: Erie
+  county: Boulder
+  adapter: civicclerk
+  tenant: erieco
+- id: lafayette
+  name: Lafayette
+  county: Boulder
+  adapter: linkscan
+  # Archive.aspx builds its module links with JavaScript, but each module page is plain HTML.
+  pages:
+    - https://www.lafayetteco.gov/Archive.aspx?AMID=37
+    - https://www.lafayetteco.gov/Archive.aspx?AMID=38
+  follow: "Archive\\.aspx\\?ADID="
+- id: glendale
+  name: Glendale
+  county: Arapahoe
+  adapter: agendacenter
+  base: https://www.glendale.co.us
 
-- id: olathe
-  name: Olathe
-  county: Johnson
+# Neighbors that cover part of a pilot zip.
+- id: aurora
+  name: Aurora
+  county: Arapahoe
+  # AuroraTV's meeting video pages link each council agenda.
   adapter: linkscan
   pages:
-    - https://olatheks.granicus.com/ViewPublisher.php?view_id=1
-
-- id: lenexa
-  name: Lenexa
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.lenexa.com/Government/Meeting-Agendas-Minutes-Videos
-    - https://www.lenexa.com/Government/Mayor-City-Council/Upcoming-Council-Meetings
-  follow: "/Upcoming-Council-Meetings/.+/20\\d\\d/"
-
-- id: prairie-village
-  name: Prairie Village
-  county: Johnson
+    - https://www.auroratv.org/series/city-council-meetings
+  follow: "/video/.*city-council"
+- id: thornton
+  name: Thornton
+  county: Adams
+  adapter: primegov
+  tenant: thorntonco
+- id: frederick
+  name: Frederick
+  county: Weld
   adapter: civicclerk
-  tenant: prairievillageks
-
-- id: merriam
-  name: Merriam
-  county: Johnson
+  tenant: frederickco
+- id: firestone
+  name: Firestone
+  county: Weld
+  adapter: civicclerk
+  tenant: firestoneco
+- id: mead
+  name: Mead
+  county: Weld
+  adapter: civicclerk
+  tenant: meadco
+- id: commerce-city
+  name: Commerce City
+  county: Adams
+  adapter: legistar
+  client: commerce
+- id: lyons
+  name: Lyons
+  county: Boulder
+  adapter: agendacenter
+  base: https://townoflyons.com
+- id: nederland
+  name: Nederland
+  county: Boulder
   adapter: civicweb
-  base: https://merriam.civicweb.net
-  bodies: "Council|Planning|Committee"
-
-- id: mission
-  name: Mission
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past
-    - https://www.missionks.org/events/category/agenda-minutes/list/?eventDisplay=past&paged=2
-    - https://www.missionks.org/city-government/agendas-minutes/
-  follow: "/event/"
-
-- id: gardner
-  name: Gardner
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://gardnerkansas.gov/government/city_council/agendas_minutes.php
-    - https://gardnerkansas.gov/government/agendas_minutes.php
-
-- id: edgerton
-  name: Edgerton
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://edgertonks.org/city-council-docs/
-    - https://edgertonks.org/planning-and-zoning-profiles-and-agendas-and-minutes/
-
-- id: fairway
-  name: Fairway
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://fairwaykansas.org/minutes
-    - https://fairwaykansas.org/?SEC=9F2D6E4F-4BC3-4D37-A801-6A9477AE6E91
-
-- id: westwood
-  name: Westwood
-  county: Johnson
-  # Municode Meetings. Its robots.txt asks bots to stay out; Andy chose (2026-10-23) to collect
-  # these public records anyway, gently: weekly, with the polite delay and project user agent.
-  adapter: linkscan
-  pages:
-    - https://westwoodks.municodemeetings.com/
-
-- id: westwood-hills
-  name: Westwood Hills
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.westwoodhillsks.gov/agendas/City-Council
-    - https://www.westwoodhillsks.gov/agendas/Planning-Commission
-
-- id: mission-woods
-  name: Mission Woods
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.missionwoods-ks.org/2026-council-meetings
-
-- id: lake-quivira
-  name: Lake Quivira
-  county: Johnson
-  adapter: linkscan
-  pages:
-    - https://www.cityoflakequivira.org/government-subpages/council-meetings
-
-- id: johnson-county
-  name: Johnson County Board of County Commissioners
-  county: Johnson
-  adapter: onbase
-  base: https://boccmeetings.jocogov.org/OnBaseAgendaOnline
-  # Board of County Commissioners, Business Session, Committee of the Whole, Special BOCC, Study Session
-  meeting_types: ["102", "104", "106", "115", "120"]
-
-# Largest Kansas cities outside the KC area (added 2026-10-24).
-- id: lawrence
-  name: Lawrence
-  county: Douglas
-  adapter: civicweb
-  base: https://lawrenceks.civicweb.net
-  bodies: "Commission|Planning|Board"
-
-- id: manhattan
-  name: Manhattan
-  county: Riley
-  adapter: agendacenter
-  base: https://www.manhattanks.gov
-
-- id: topeka
-  name: Topeka
-  county: Shawnee
-  adapter: granicus
-  base: https://topeka.granicus.com
-  view_id: 1
-  keep_agendas: true
-
-- id: salina
-  name: Salina
-  county: Saline
-  adapter: cablecast
-  base: https://salina-tv.com
-  search: Salina City Commission
-  titles: "Salina City Commission"
-  agenda_file: publicfiles/4
-
-# wichita.gov is behind a Cloudflare bot check; the council's Granicus archive is a separate public host.
-- id: wichita
-  name: Wichita
-  county: Sedgwick
-  adapter: granicus
-  base: https://wichitaks.granicus.com
-  view_id: 42
-  keep_agendas: true
-
-# County commissions for the statewide cities (added 2026-10-24).
-- id: sedgwick-county
-  name: Sedgwick County Commission
-  county: Sedgwick
-  adapter: granicus
-  base: https://sedgwick.granicus.com
-  view_id: 34
-  keep_agendas: true
-  resolve_minutes: true  # minutes links forward to OnBase too
-
-- id: shawnee-county
-  name: Shawnee County Commission
-  county: Shawnee
-  adapter: civicclerk
-  tenant: shawneecoks
-
-- id: riley-county
-  name: Riley County Commission
-  county: Riley
-  adapter: civicclerk
-  tenant: rileycoks
-
-- id: saline-county
-  name: Saline County Commission
-  county: Saline
-  adapter: cablecast
-  base: https://salina-tv.com
-  search: Saline County Commission
-  titles: "^Saline County Commission"
-  agenda_file: publicfiles/4
-
-- id: douglas-county
-  name: Douglas County Commission
-  county: Douglas
-  adapter: civicweb
-  base: https://douglascountyks.civicweb.net
-  bodies: "Commission"
-  # Commission Board Meeting folders under Minutes (6367) and Agendas (1021); each holds per-year folders.
-  folders: [/filepro/documents/6367, /filepro/documents/1021]
+  base: https://nederlandco.civicweb.net
+  bodies: "Board|Trustee|Planning|Commission"

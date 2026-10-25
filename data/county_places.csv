@@ -1,31 +1,21 @@
 county,city,share_of_city_area
-Douglas,Lawrence,1.0
-Johnson,Bonner Springs,0.035
-Johnson,De Soto,0.989
-Johnson,Edgerton,1.0
-Johnson,Fairway,1.0
-Johnson,Gardner,1.0
-Johnson,Lake Quivira,0.732
-Johnson,Leawood,1.0
-Johnson,Lenexa,1.0
-Johnson,Merriam,1.0
-Johnson,Mission,1.0
-Johnson,Mission Hills,1.0
-Johnson,Mission Woods,1.0
-Johnson,Olathe,1.0
-Johnson,Overland Park,1.0
-Johnson,Prairie Village,1.0
-Johnson,Roeland Park,1.0
-Johnson,Shawnee,1.0
-Johnson,Spring Hill,0.793
-Johnson,Westwood,1.0
-Johnson,Westwood Hills,1.0
-Miami,Spring Hill,0.207
-Riley,Manhattan,0.94
-Saline,Salina,1.0
-Sedgwick,Wichita,1.0
-Shawnee,Topeka,1.0
-Wyandotte,Bonner Springs,0.957
-Wyandotte,Edwardsville,1.0
-Wyandotte,Kansas City,1.0
-Wyandotte,Lake Quivira,0.268
+Adams,Aurora,0.378
+Adams,Commerce City,1.0
+Adams,Thornton,1.0
+Arapahoe,Aurora,0.608
+Arapahoe,Glendale,1.0
+Boulder,Boulder,1.0
+Boulder,Erie,0.286
+Boulder,Lafayette,1.0
+Boulder,Longmont,0.816
+Boulder,Louisville,1.0
+Boulder,Lyons,1.0
+Boulder,Nederland,1.0
+Boulder,Superior,0.949
+Broomfield,Broomfield,1.0
+Denver,Denver,1.0
+Weld,Erie,0.714
+Weld,Firestone,1.0
+Weld,Frederick,1.0
+Weld,Longmont,0.184
+Weld,Mead,1.0

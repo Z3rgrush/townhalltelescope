@@ -3,7 +3,7 @@
 Downloads the 2020 TIGER/Line place file for the region's state, overlays it on the region's
 pilot_zips.geojson and writes zip_places.csv with the share of each zip's land inside each city.
 
-Usage: python scripts/zip_places.py [--region ks]
+Usage: python scripts/zip_places.py [--region co]
 """
 import argparse
 import csv
@@ -22,7 +22,7 @@ sys.path.insert(0, str(ROOT))
 from collector.regions import REGIONS  # noqa: E402
 
 ap = argparse.ArgumentParser()
-ap.add_argument("--region", default="ks", choices=REGIONS)
+ap.add_argument("--region", default="co", choices=REGIONS)
 region = REGIONS[ap.parse_args().region]
 DATA = ROOT / region["data"]
 stem = f"tl_2020_{region['state_fips']}_place"

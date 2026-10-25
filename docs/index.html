@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Town Hall Telescope</title>
-<meta name="description" content="What local governments in the Kansas City area and Kansas's largest cities have been discussing, by zip code or county.">
+<meta name="description" content="What local governments in the Denver and Boulder area of Colorado have been discussing, by zip code or county.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap" rel="stylesheet">
@@ -81,9 +81,6 @@ a { color: var(--accent); }
 .callout h4 { margin: 0 0 4px; font-size: 14px; color: var(--hl-ink); }
 .callout > p { margin: 0 0 10px; font-size: 13px; color: var(--muted); }
 .callout .issue { background: var(--panel); }
-.regions { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; font-size: 13px; }
-.regions a { color: var(--muted); text-decoration: none; border: 1px solid var(--line); padding: 2px 10px; }
-.regions a[aria-current="page"] { color: var(--ink); background: var(--chip); border-color: var(--chip); font-weight: 600; }
 .unit { display: inline-flex; margin: 0 0 14px; border: 1px solid var(--line); }
 .unit button { padding: 6px 14px; background: var(--panel); color: var(--muted); font-weight: 600; font-size: 14px; }
 .unit button[aria-pressed="true"] { background: var(--ink); color: var(--panel) !important; }
@@ -99,9 +96,8 @@ a { color: var(--accent); }
   <div id="map" role="application" aria-label="Map of zip codes"></div>
   <aside>
     <h1>Town Hall Telescope</h1>
-    <nav class="regions" aria-label="Regions"><a href="./" aria-current="page">Kansas</a><a href="co/">Colorado</a></nav>
-    <p class="lede">What city councils and county commissions in the Kansas City area and in Wichita, Topeka, Lawrence, Manhattan and Salina have been talking about. Tap the map, or type a zip code or county.</p>
-    <form id="find"><input id="zip" placeholder="Zip or county, e.g. 66205 or Johnson" aria-label="Zip code or county name"><button>Show</button></form>
+    <p class="lede">What city and town councils and county commissions in the Denver and Boulder area of Colorado have been talking about. Tap the map, or type a zip code or county.</p>
+    <form id="find"><input id="zip" placeholder="Zip or county, e.g. 80302 or Boulder" aria-label="Zip code or county name"><button>Show</button></form>
     <div class="unit" id="unit" role="group" aria-label="Show the map by"><button type="button" data-unit="zip" aria-pressed="true">Zip codes</button><button type="button" data-unit="county" aria-pressed="false">Counties</button></div>
     <button type="button" class="toggle" id="dc" aria-pressed="false">Highlight data center talk</button>
     <div id="detail"></div>
@@ -111,7 +107,7 @@ a { color: var(--accent); }
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 // What differs between the region pages. The rest of this file is shared: keep co/index.html in step.
-const PAGE = {area: "the Kansas City area and Wichita, Topeka, Lawrence, Manhattan and Salina", bins: {zip: [20, 26, 31], county: [30, 40, 50]}};
+const PAGE = {area: "the Denver and Boulder area", bins: {zip: [25, 31, 41], county: [30, 45, 60]}};
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString("en-US", {month: "short", day: "numeric", year: "numeric"});
 const slug = s => s.toLowerCase().replace(/[^a-z]+/g, "-");

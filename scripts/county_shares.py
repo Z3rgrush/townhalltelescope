@@ -3,7 +3,7 @@
 Uses the 2020 Census county boundaries and the zip shapes already in pilot_zips.geojson. Adds a
 column for any county not yet in the file and overwrites the named counties' columns.
 
-Usage: python scripts/county_shares.py --region ks Sedgwick Shawnee Douglas
+Usage: python scripts/county_shares.py --region co Sedgwick Shawnee Douglas
 """
 import argparse
 import csv
@@ -22,7 +22,7 @@ sys.path.insert(0, str(ROOT))
 from collector.regions import REGIONS  # noqa: E402
 
 ap = argparse.ArgumentParser()
-ap.add_argument("--region", default="ks", choices=REGIONS)
+ap.add_argument("--region", default="co", choices=REGIONS)
 ap.add_argument("counties", nargs="+")
 args = ap.parse_args()
 region = REGIONS[args.region]

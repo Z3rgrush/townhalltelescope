@@ -6,7 +6,7 @@ government is a source, or when it holds at least MIN_CITY of a tracked city's l
   zip_counties.csv   zip, the county holding most of the zip's land
   counties.geojson   simplified outlines of the mapped counties
 
-Usage: python scripts/county_places.py --region ks
+Usage: python scripts/county_places.py --region co
 """
 import argparse
 import csv
@@ -29,7 +29,7 @@ from build_map import SETUP  # noqa: E402
 MIN_CITY = 0.10
 
 ap = argparse.ArgumentParser()
-ap.add_argument("--region", default="ks", choices=REGIONS)
+ap.add_argument("--region", default="co", choices=REGIONS)
 key = ap.parse_args().region
 region, setup = REGIONS[key], SETUP[key]
 DATA, fips = ROOT / region["data"], region["state_fips"]

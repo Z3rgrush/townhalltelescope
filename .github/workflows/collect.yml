@@ -2,12 +2,11 @@ name: collect
 on:
   workflow_dispatch:
     inputs:
-      region: {description: "Region id (ks or co)", default: "ks"}
       days: {description: "Lookback in days", default: "90"}
       only: {description: "Comma-separated source ids (blank = all)", required: false}
       no_text: {description: "List documents only, skip downloads", type: boolean, default: false}
   schedule:
-    - cron: "0 9 * * 1"  # Mondays, 4am Central
+    - cron: "0 9 * * 1"  # Mondays, 3am Mountain
 permissions:
   contents: write
 concurrency: collect
@@ -20,14 +19,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
-      - if: github.event_name == 'schedule' || github.event.inputs.region == 'ks'
-        env:
-          DAYS: ${{ github.event.inputs.days || '90' }}
-          ONLY: ${{ github.event.inputs.only }}
-          NO_TEXT: ${{ github.event.inputs.no_text }}
-        run: python -m collector.collect --region ks --days "$DAYS" --only "$ONLY" $([ "$NO_TEXT" = "true" ] && echo --no-text)
-      - if: github.event_name == 'schedule' || github.event.inputs.region == 'co'
-        env:
+      - env:
           DAYS: ${{ github.event.inputs.days || '90' }}
           ONLY: ${{ github.event.inputs.only }}
           NO_TEXT: ${{ github.event.inputs.no_text }}

@@ -6,7 +6,7 @@ small share of the zip. Counties work the same way, from each county government 
 cities with land in the county. Writes docs/data/issues.json (every issue, by id),
 docs/data/counties.json (each county's governments and ranked issue ids, plus zip -> county for
 search), docs/data/counties.geojson, and the older per-zip zips.json and zips.geojson.
-Run with --region ks (default) or --region co; paths come from collector/regions.py.
+Paths come from collector/regions.py.
 """
 import argparse
 import csv
@@ -25,35 +25,6 @@ TOP = 8
 TOP_COUNTY = 12
 
 # Census place name -> source id in the region's sources file
-KS_PLACES = {
-    "Kansas City": "unified-government",
-    "Bonner Springs": "bonner-springs",
-    "Edwardsville": "edwardsville",
-    "De Soto": "de-soto",
-    "Edgerton": "edgerton",
-    "Fairway": "fairway",
-    "Gardner": "gardner",
-    "Lake Quivira": "lake-quivira",
-    "Leawood": "leawood",
-    "Lenexa": "lenexa",
-    "Merriam": "merriam",
-    "Mission": "mission",
-    "Mission Hills": "mission-hills",
-    "Mission Woods": "mission-woods",
-    "Olathe": "olathe",
-    "Overland Park": "overland-park",
-    "Prairie Village": "prairie-village",
-    "Roeland Park": "roeland-park",
-    "Shawnee": "shawnee",
-    "Spring Hill": "spring-hill",
-    "Westwood": "westwood",
-    "Westwood Hills": "westwood-hills",
-    "Wichita": "wichita",
-    "Topeka": "topeka",
-    "Lawrence": "lawrence",
-    "Manhattan": "manhattan",
-    "Salina": "salina",
-}
 CO_PLACES = {
     "Denver": "denver",
     "Boulder": "boulder",
@@ -77,26 +48,13 @@ CO_PLACES = {
 # county's government. A county source of None means the county is also a city (Denver,
 # Broomfield), so its city share already covers it.
 SETUP = {
-    "ks": {"places": KS_PLACES,
-           "counties": {"share_in_johnson": "johnson-county", "share_in_wyandotte": "unified-government",
-                        "share_in_sedgwick": "sedgwick-county", "share_in_shawnee": "shawnee-county",
-                        "share_in_douglas": "douglas-county", "share_in_riley": "riley-county",
-                        "share_in_saline": "saline-county"}},
     "co": {"places": CO_PLACES,
            "counties": {"share_in_denver": None, "share_in_boulder": "boulder-county", "share_in_broomfield": None}},
 }
 # Census county name -> source id for its county government. Denver and Broomfield are
 # consolidated city-counties, so the city source is the county government.
-SETUP["ks"]["county_govs"] = {"Johnson": "johnson-county", "Wyandotte": "unified-government",
-                              "Sedgwick": "sedgwick-county", "Shawnee": "shawnee-county",
-                              "Douglas": "douglas-county", "Riley": "riley-county", "Saline": "saline-county"}
 SETUP["co"]["county_govs"] = {"Denver": "denver", "Boulder": "boulder-county", "Broomfield": "broomfield"}
-NAMES = {
-    "unified-government": "Unified Government (KCK / Wyandotte County)",
-    "johnson-county": "Johnson County",
-    "mission-woods": "Mission Woods",
-    "westwood": "Westwood",
-}
+NAMES = {}
 
 
 def load_names(region):
@@ -226,7 +184,7 @@ def build_counties(data, setup, issues):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--region", default="ks", choices=sorted(REGIONS))
+    ap.add_argument("--region", default="co", choices=sorted(REGIONS))
     args = ap.parse_args()
     region = REGIONS[args.region]
     data, out_dir = ROOT / region["data"], ROOT / region["docs"] / "data"

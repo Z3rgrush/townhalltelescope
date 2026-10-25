@@ -1,8 +1,8 @@
 """Collect the last N days of agendas and minutes for every source and save their text.
 
-Usage: python -m collector.collect [--region ks] [--days 90] [--only overland-park,leawood]
+Usage: python -m collector.collect [--region co] [--days 90] [--only overland-park,leawood]
 
-Writes, under the region's data folder (data/ for Kansas, data/co/ for Colorado):
+Writes, under the region's data folder (data/):
   data/meetings.jsonl   one row per document (source, body, date, kind, url, text file)
   data/text/<source>/   extracted plain text, one file per document
   data/coverage.md      what worked and what didn't, per source
@@ -31,7 +31,7 @@ def slug(s, n=60):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--region", default="ks", choices=REGIONS)
+    ap.add_argument("--region", default="co", choices=REGIONS)
     ap.add_argument("--days", type=int, default=90)
     ap.add_argument("--only", default="")
     ap.add_argument("--no-text", action="store_true", help="list documents without downloading them")

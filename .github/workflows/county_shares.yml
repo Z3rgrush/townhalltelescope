@@ -2,7 +2,7 @@ name: county-shares
 on:
   workflow_dispatch:
     inputs:
-      region: {description: "Region id (ks or co)", default: "ks"}
+      region: {description: "Region id (co)", default: "co"}
       counties: {description: "Census county names, separated by commas", required: true}
 permissions:
   contents: write

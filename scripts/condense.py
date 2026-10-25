@@ -49,7 +49,7 @@ def condense(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--region", default="ks", choices=REGIONS)
+    ap.add_argument("--region", default="co", choices=REGIONS)
     data = ROOT / REGIONS[ap.parse_args().region]["data"]
     by_source = defaultdict(list)
     for line in (data / "meetings.jsonl").open():
