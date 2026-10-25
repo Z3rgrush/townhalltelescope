@@ -1,0 +1,273 @@
+place,geoid,kind,population,county
+Aguilar,0800760,town,456,Las Animas
+Akron,0800925,town,1757,Washington
+Alamosa,0801090,city,9806,Alamosa
+Alma,0801530,town,296,Park
+Antonito,0802355,town,647,Conejos
+Arriba,0803235,town,202,Lincoln
+Arvada,0803455,city,124402,Jefferson
+Aspen,0803620,city,7004,Pitkin
+Ault,0803950,town,1887,Weld
+Aurora,0804000,city,386261,Arapahoe
+Avon,0804110,town,6072,Eagle
+Basalt,0804935,town,3984,Eagle
+Bayfield,0805265,town,2838,La Plata
+Bennett,0806090,town,2862,Adams
+Berthoud,0806255,town,10332,Larimer
+Bethune,0806530,town,183,Kit Carson
+Black Hawk,0807025,city,127,Gilpin
+Blanca,0807190,town,322,Costilla
+Blue River,0807410,town,877,Summit
+Bonanza,0807571,town,17,Saguache
+Boone,0807795,town,305,Pueblo
+Boulder,0807850,city,108250,Boulder
+Bow Mar,0808070,town,853,Arapahoe
+Branson,0808345,town,57,Las Animas
+Breckenridge,0808400,town,5078,Summit
+Brighton,0808675,city,40083,Adams
+Brookside,0809115,town,236,Fremont
+Broomfield,0809280,city,74112,Broomfield
+Brush,0809555,city,5339,Morgan
+Buena Vista,0810105,town,2855,Chaffee
+Burlington,0810600,city,3172,Kit Carson
+Calhan,0811260,town,762,El Paso
+Campo,0811645,town,103,Baca
+Carbonate,0812030,town,0,Garfield
+Carbondale,0812045,town,6434,Garfield
+Castle Pines,0812387,city,11036,Douglas
+Castle Rock,0812415,town,73158,Douglas
+Cañon City,0811810,city,17141,Fremont
+Cedaredge,0812635,town,2279,Delta
+Centennial,0812815,city,108418,Arapahoe
+Center,0812855,town,1929,Saguache
+Central City,0812910,city,779,Gilpin
+Cheraw,0813460,town,237,Otero
+Cherry Hills Village,0813845,city,6442,Arapahoe
+Cheyenne Wells,0814175,town,758,Cheyenne
+City of Creede,0814765,town,257,Mineral
+Coal Creek,0815330,town,364,Fremont
+Cokedale,0815550,town,127,Las Animas
+Collbran,0815605,town,369,Mesa
+Colorado Springs,0816000,city,478961,El Paso
+Columbine Valley,0816385,town,1502,Arapahoe
+Commerce City,0816495,city,62418,Adams
+Cortez,0817375,city,8766,Montezuma
+Craig,0817760,city,9060,Moffat
+Crawford,0817925,town,403,Delta
+Crested Butte,0818310,town,1639,Gunnison
+Crestone,0818420,town,141,Saguache
+Cripple Creek,0818530,city,1155,Teller
+Crook,0818640,town,133,Logan
+Crowley,0818750,town,166,Crowley
+Dacono,0819080,city,6297,Weld
+De Beque,0819355,town,493,Mesa
+Deer Trail,0819630,town,1068,Arapahoe
+Del Norte,0819795,town,1458,Rio Grande
+Delta,0819850,city,9035,Delta
+Denver,0820000,city,715522,Denver
+Dillon,0820440,town,1064,Summit
+Dinosaur,0820495,town,243,Moffat
+Dolores,0820770,town,885,Montezuma
+Dove Creek,0821265,town,635,Dolores
+Durango,0822035,city,19071,La Plata
+Eads,0822145,town,672,Kiowa
+Eagle,0822200,town,7511,Eagle
+Eaton,0822860,town,5802,Weld
+Eckley,0823025,town,232,Yuma
+Edgewater,0823135,city,5005,Jefferson
+Elizabeth,0823740,town,1675,Elbert
+Empire,0824620,town,345,Clear Creek
+Englewood,0824785,city,33659,Arapahoe
+Erie,0824950,town,30038,Weld
+Estes Park,0825115,town,5904,Larimer
+Evans,0825280,city,22165,Weld
+Fairplay,0825610,town,724,Park
+Federal Heights,0826270,city,14382,Adams
+Firestone,0826600,town,16381,Weld
+Flagler,0826765,town,567,Kit Carson
+Fleming,0826875,town,428,Logan
+Florence,0827040,city,3822,Fremont
+Fort Collins,0827425,city,169810,Larimer
+Fort Lupton,0827700,city,7955,Weld
+Fort Morgan,0827810,city,11597,Morgan
+Fountain,0827865,city,29802,El Paso
+Fowler,0827975,town,1253,Otero
+Foxfield,0828105,town,754,Arapahoe
+Fraser,0828305,town,1400,Grand
+Frederick,0828360,town,14513,Weld
+Frisco,0828690,town,2913,Summit
+Fruita,0828745,city,13395,Mesa
+Garden City,0829185,town,254,Weld
+Genoa,0829680,town,153,Lincoln
+Georgetown,0829735,town,1118,Clear Creek
+Gilcrest,0829955,town,1029,Weld
+Glendale,0830340,city,4613,Arapahoe
+Glenwood Springs,0830780,city,9963,Garfield
+Golden,0830835,city,20399,Jefferson
+Granada,0831550,town,445,Prowers
+Granby,0831605,town,2079,Grand
+Grand Junction,0831660,city,65560,Mesa
+Grand Lake,0831715,town,410,Grand
+Greeley,0832155,city,108795,Weld
+Green Mountain Falls,0832650,town,646,El Paso
+Greenwood Village,0833035,city,15691,Arapahoe
+Grover,0833310,town,157,Weld
+Gunnison,0833640,city,6560,Gunnison
+Gypsum,0833695,town,8040,Eagle
+Hartman,0834520,town,56,Prowers
+Haswell,0834740,town,71,Kiowa
+Haxtun,0834960,town,981,Phillips
+Hayden,0835070,town,1941,Routt
+Hillrose,0836610,town,312,Morgan
+Holly,0837215,town,837,Prowers
+Holyoke,0837270,city,2346,Phillips
+Hooper,0837380,town,81,Alamosa
+Hot Sulphur Springs,0837600,town,687,Grand
+Hotchkiss,0837545,town,875,Delta
+Hudson,0837820,town,1651,Weld
+Hugo,0837875,town,787,Lincoln
+Idaho Springs,0838370,city,1782,Clear Creek
+Ignacio,0838535,town,852,La Plata
+Iliff,0838590,town,246,Logan
+Jamestown,0839195,town,256,Boulder
+Johnstown,0839855,town,17303,Weld
+Julesburg,0839965,town,1307,Sedgwick
+Keenesburg,0840185,town,1250,Weld
+Kersey,0840515,town,1495,Weld
+Kim,0840570,town,63,Las Animas
+Kiowa,0840790,town,725,Elbert
+Kit Carson,0841010,town,255,Cheyenne
+Kremmling,0841560,town,1509,Grand
+La Jara,0842055,town,730,Conejos
+La Junta,0842110,city,7322,Otero
+La Salle,0843605,town,2359,Weld
+La Veta,0844100,town,862,Huerfano
+Lafayette,0841835,city,30411,Boulder
+Lake City,0842330,town,432,Hinsdale
+Lakeside,0842495,town,16,Jefferson
+Lakewood,0843000,city,155984,Jefferson
+Lamar,0843110,city,7687,Prowers
+Larkspur,0843550,town,206,Douglas
+Las Animas,0843660,city,2300,Bent
+Leadville,0844320,city,2633,Lake
+Limon,0844980,town,2043,Lincoln
+Littleton,0845255,city,45652,Arapahoe
+Lochbuie,0845530,town,8088,Weld
+Log Lane Village,0845695,town,913,Morgan
+Lone Tree,0845955,city,14253,Douglas
+Longmont,0845970,city,98885,Boulder
+Louisville,0846355,city,21226,Boulder
+Loveland,0846465,city,76378,Larimer
+Lyons,0847070,town,2209,Boulder
+Manassa,0848060,town,947,Conejos
+Mancos,0848115,town,1196,Montezuma
+Manitou Springs,0848445,city,4858,El Paso
+Manzanola,0848500,town,341,Otero
+Marble,0848555,town,133,Gunnison
+Mead,0849600,town,4781,Weld
+Meeker,0849875,town,2374,Rio Blanco
+Merino,0850040,town,281,Logan
+Milliken,0850480,town,8386,Weld
+Minturn,0850920,town,1033,Eagle
+Moffat,0851250,town,108,Saguache
+Monte Vista,0851635,city,4247,Rio Grande
+Montezuma,0851690,town,74,Summit
+Montrose,0851745,city,20291,Montrose
+Monument,0851800,town,10399,El Paso
+Morrison,0852075,town,396,Jefferson
+Mount Crested Butte,0852570,town,941,Gunnison
+Mountain View,0852350,town,541,Jefferson
+Mountain Village,0852550,town,1264,San Miguel
+Naturita,0853120,town,485,Montrose
+Nederland,0853175,town,1471,Boulder
+New Castle,0853395,town,4923,Garfield
+Northglenn,0854330,city,38131,Adams
+Norwood,0854880,town,535,San Miguel
+Nucla,0854935,town,585,Montrose
+Nunn,0855045,town,504,Weld
+Oak Creek,0855155,town,889,Routt
+Olathe,0855540,town,2019,Montrose
+Olney Springs,0855705,town,315,Crowley
+Ophir,0855870,town,197,San Miguel
+Orchard City,0855980,town,3142,Delta
+Ordway,0856145,town,1066,Crowley
+Otis,0856365,town,511,Washington
+Ouray,0856420,city,898,Ouray
+Ovid,0856475,town,271,Sedgwick
+Pagosa Springs,0856860,town,1571,Archuleta
+Palisade,0856970,town,2565,Mesa
+Palmer Lake,0857025,town,2636,El Paso
+Paoli,0857245,town,51,Phillips
+Paonia,0857300,town,1447,Delta
+Parachute,0857400,town,1390,Garfield
+Parker,0857630,town,58512,Douglas
+Peetz,0858235,town,213,Logan
+Pierce,0859005,town,1097,Weld
+Pitkin,0859830,town,72,Gunnison
+Platteville,0860160,town,2955,Weld
+Poncha Springs,0860600,town,925,Chaffee
+Pritchett,0861315,town,112,Baca
+Pueblo,0862000,city,111876,Pueblo
+Ramah,0862660,town,111,El Paso
+Rangely,0862880,town,2299,Rio Blanco
+Raymer (New Raymer),0863045,town,110,Weld
+Red Cliff,0863265,town,257,Eagle
+Rico,0864090,town,288,Dolores
+Ridgway,0864200,town,1183,Ouray
+Rifle,0864255,city,10437,Garfield
+Rockvale,0864970,town,511,Fremont
+Rocky Ford,0865190,city,3876,Otero
+Romeo,0865740,town,302,Conejos
+Rye,0866895,town,206,Pueblo
+Saguache,0867005,town,539,Saguache
+Salida,0867280,city,5666,Chaffee
+San Luis,0868105,town,598,Costilla
+Sanford,0867830,town,879,Conejos
+Sawpit,0868655,town,38,San Miguel
+Sedgwick,0868930,town,172,Sedgwick
+Seibert,0869040,town,172,Kit Carson
+Severance,0869150,town,7683,Weld
+Sheridan,0869645,city,6105,Arapahoe
+Sheridan Lake,0869700,town,55,Kiowa
+Silt,0870195,town,3536,Garfield
+Silver Cliff,0870250,town,609,Custer
+Silver Plume,0870360,town,207,Clear Creek
+Silverthorne,0870525,town,4402,Summit
+Silverton,0870580,town,622,San Juan
+Simla,0870635,town,601,Elbert
+Snowmass Village,0871755,town,3096,Pitkin
+South Fork,0872395,town,510,Rio Grande
+Springfield,0873330,town,1325,Baca
+Starkville,0873715,town,62,Las Animas
+Steamboat Springs,0873825,city,13224,Routt
+Sterling,0873935,city,13735,Logan
+Stratton,0874485,town,656,Kit Carson
+Sugar City,0874815,town,259,Crowley
+Superior,0875640,town,13094,Boulder
+Swink,0875970,town,604,Otero
+Telluride,0876795,town,2607,San Miguel
+Thornton,0877290,city,141867,Adams
+Timnath,0877510,town,6487,Larimer
+Trinidad,0878610,city,8329,Las Animas
+Two Buttes,0879270,town,34,Baca
+Vail,0880040,town,4835,Eagle
+Victor,0880865,city,379,Teller
+Vilas,0881030,town,98,Baca
+Vona,0881690,town,95,Kit Carson
+Walden,0882130,town,606,Jackson
+Walsenburg,0882350,city,3049,Huerfano
+Walsh,0882460,town,543,Baca
+Ward,0882735,town,128,Boulder
+Wellington,0883230,town,11047,Larimer
+Westcliffe,0883450,town,435,Custer
+Westminster,0883835,city,116317,Adams
+Wheat Ridge,0884440,city,32398,Jefferson
+Wiggins,0884770,town,1401,Morgan
+Wiley,0885045,town,437,Prowers
+Williamsburg,0885155,town,731,Fremont
+Windsor,0885485,town,32716,Weld
+Winter Park,0885705,town,1033,Grand
+Woodland Park,0886090,city,7920,Teller
+Wray,0886310,city,2358,Yuma
+Yampa,0886475,town,399,Routt
+Yuma,0886750,city,3456,Yuma
