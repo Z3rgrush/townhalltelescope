@@ -1,8 +1,8 @@
 # Town Hall Telescope
 
-An interactive map of what local governments are discussing, by county. There are two pages: Kansas (`docs/`) and Colorado (`docs/co/`). Click a county, or search for one by name or zip code, to see the specific issues most discussed by its county commission and the city councils inside it over the last three months.
+An interactive map of what local governments are discussing. There are two pages: Kansas (`docs/`) and Colorado (`docs/co/`). The map shows zip codes by default, and a Zip codes / Counties switch shows whole counties instead. Click an area, or search by zip code or county name, to see the specific issues most discussed by its city councils and county commission over the last three months.
 
-Each county shows its county government plus every tracked city with at least 10% of its land in the county. `scripts/county_places.py` (the county-places workflow) picks the mapped counties and writes `county_places.csv`, `zip_counties.csv` and `counties.geojson`. Zips are still collected and used for search; `build_map.py` also still writes the older per-zip files.
+In the county view, each county shows its county government plus every tracked city with at least 10% of its land in the county. `scripts/county_places.py` (the county-places workflow) picks the mapped counties and writes `county_places.csv`, `zip_counties.csv` and `counties.geojson`. `build_map.py` writes both the per-zip files (`zips.json`, top 8 issues) and the county files (`counties.json`, top 12).
 
 Kansas scope: 96 zip codes in Johnson and Wyandotte counties plus the state's other largest cities (Wichita, Topeka, Lawrence, Manhattan, Salina). Each city's county commission is collected too (Sedgwick, Shawnee, Douglas, Riley, Saline). Wichita's own site blocks automated requests, so its records come from its public Granicus archive instead; `scripts/county_shares.py` (the county-shares workflow) fills in how much of each zip lies in each county.
 
