@@ -21,6 +21,7 @@ import csv
 import re
 import sys
 import time
+import unicodedata
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, timedelta
@@ -74,6 +75,7 @@ def get(url, timeout=25, **kw):
 
 
 def norm(name):
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z]", "", name.lower().replace("&", "and"))
 
 

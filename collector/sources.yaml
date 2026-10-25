@@ -110,3 +110,921 @@
   adapter: civicweb
   base: https://nederlandco.civicweb.net
   bodies: "Board|Trustee|Planning|Commission"
+
+# Added from the master list (data/governments.csv), largest first.
+- id: arapahoe-county
+  name: Arapahoe County
+  county: Arapahoe
+  adapter: legistar
+  client: arapahoe
+- id: jefferson-county
+  name: Jefferson County
+  county: Jefferson
+  adapter: escribe
+  base: https://pub-jeffco.escribemeetings.com
+- id: adams-county
+  name: Adams County
+  county: Adams
+  adapter: primegov
+  tenant: adamscounty
+- id: colorado-springs
+  name: Colorado Springs
+  county: El Paso
+  adapter: legistar
+  client: coloradosprings
+- id: douglas-county
+  name: Douglas County
+  county: Douglas
+  adapter: legistar
+  client: douglascounty
+- id: fort-collins
+  name: Fort Collins
+  county: Larimer
+  adapter: civicclerk
+  tenant: fortcollinsco
+- id: pueblo-county
+  name: Pueblo County
+  county: Pueblo
+  adapter: civicclerk
+  tenant: pueblococo
+- id: lakewood
+  name: Lakewood
+  county: Jefferson
+  adapter: civicclerk
+  tenant: lakewoodco
+- id: mesa-county
+  name: Mesa County
+  county: Mesa
+  adapter: onbase
+  base: https://onbaseep22.mesacounty.us/OnBaseAgendaOnline
+- id: arvada
+  name: Arvada
+  county: Jefferson
+  adapter: civicclerk
+  tenant: arvadaco
+- id: westminster
+  name: Westminster
+  county: Adams
+  adapter: primegov
+  tenant: cityofwestminster
+- id: pueblo
+  name: Pueblo
+  county: Pueblo
+  adapter: civicclerk
+  tenant: PUEBLOCO
+- id: greeley
+  name: Greeley
+  county: Weld
+  adapter: civicclerk
+  tenant: greeleyco
+- id: centennial
+  name: Centennial
+  county: Arapahoe
+  adapter: onbase
+  base: https://onbase.centennialco.gov/OnBaseAgendaOnline
+- id: grand-junction
+  name: Grand Junction
+  county: Mesa
+  adapter: civicclerk
+  tenant: grandjunctionco
+- id: garfield-county
+  name: Garfield County
+  county: Garfield
+  adapter: escribe
+  base: https://pub-garfield.escribemeetings.com
+- id: parker
+  name: Parker
+  county: Douglas
+  adapter: civicclerk
+  tenant: parkerco
+- id: fremont-county
+  name: Fremont County
+  county: Fremont
+  adapter: linkscan
+  pages:
+  - https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes
+- id: montrose-county
+  name: Montrose County
+  county: Montrose
+  adapter: granicus
+  base: https://montrosecounty.granicus.com
+  view_id: 2
+- id: brighton
+  name: Brighton
+  county: Adams
+  adapter: legistar
+  client: brightonco
+- id: northglenn
+  name: Northglenn
+  county: Adams
+  adapter: linkscan
+  pages:
+  - https://webdocs.northglenn.org/
+- id: englewood
+  name: Englewood
+  county: Arapahoe
+  adapter: linkscan
+  pages:
+  - https://www.townofenglewood.com/mayor_board/minutes_agendas/agendas/index.html
+- id: windsor
+  name: Windsor
+  county: Weld
+  adapter: civicclerk
+  tenant: windsorco
+- id: summit-county
+  name: Summit County
+  county: Summit
+  adapter: linkscan
+  pages:
+  - https://www.summitcountyco.gov/services/community_development/open_space_trails/open_space_advisory_council.php
+- id: fountain
+  name: Fountain
+  county: El Paso
+  adapter: linkscan
+  pages:
+  - https://fountain.colorado.gov/government/city-council
+- id: morgan-county
+  name: Morgan County
+  county: Morgan
+  adapter: linkscan
+  pages:
+  - https://morgancounty.colorado.gov/2025-agendas-and-minutes
+- id: montezuma-county
+  name: Montezuma County
+  county: Montezuma
+  adapter: linkscan
+  pages:
+  - https://montezumacounty.gov/calendarsminutes/boccminutes/
+- id: routt-county
+  name: Routt County
+  county: Routt
+  adapter: agendacenter
+  base: https://www.co.routt.co.us
+- id: teller-county
+  name: Teller County
+  county: Teller
+  adapter: civicclerk
+  tenant: tellercoco
+- id: evans
+  name: Evans
+  county: Weld
+  adapter: primegov
+  tenant: evanscolorado
+- id: golden
+  name: Golden
+  county: Jefferson
+  adapter: granicus
+  base: https://goldenco.granicus.com
+  view_id: 2
+- id: montrose
+  name: Montrose
+  county: Montrose
+  adapter: civicclerk
+  tenant: montroseco
+- id: chaffee-county
+  name: Chaffee County
+  county: Chaffee
+  adapter: civicclerk
+  tenant: chaffeecoco
+- id: park-county
+  name: Park County
+  county: Park
+  adapter: agendacenter
+  base: https://www.parkcountyco.gov
+- id: johnstown
+  name: Johnstown
+  county: Weld
+  adapter: civicclerk
+  tenant: johnstownco
+- id: canon-city
+  name: Cañon City
+  county: Fremont
+  adapter: agendacenter
+  base: https://www.canoncity.org
+- id: gunnison-county
+  name: Gunnison County
+  county: Gunnison
+  adapter: agendacenter
+  base: https://www.gunnisoncounty.org
+- id: alamosa-county
+  name: Alamosa County
+  county: Alamosa
+  adapter: agendacenter
+  base: https://www.alamosacounty.org
+- id: grand-county
+  name: Grand County
+  county: Grand
+  adapter: agendacenter
+  base: https://www.co.grand.co.us
+- id: greenwood-village
+  name: Greenwood Village
+  county: Arapahoe
+  adapter: civicclerk
+  tenant: greenwoodvillageco
+- id: federal-heights
+  name: Federal Heights
+  county: Adams
+  adapter: linkscan
+  pages:
+  - https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D
+- id: lone-tree
+  name: Lone Tree
+  county: Douglas
+  adapter: civicweb
+  base: https://cityoflonetree.civicweb.net
+- id: sterling
+  name: Sterling
+  county: Logan
+  adapter: linkscan
+  pages:
+  - http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php
+- id: fruita
+  name: Fruita
+  county: Mesa
+  adapter: civicclerk
+  tenant: fruitaco
+- id: archuleta-county
+  name: Archuleta County
+  county: Archuleta
+  adapter: linkscan
+  pages:
+  - https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/
+- id: steamboat-springs
+  name: Steamboat Springs
+  county: Routt
+  adapter: onbase
+  base: https://docs.steamboatsprings.net/OnBaseAgendaOnline
+- id: fort-morgan
+  name: Fort Morgan
+  county: Morgan
+  adapter: agendacenter
+  base: https://www.cityoffortmorgan.com
+- id: wellington
+  name: Wellington
+  county: Larimer
+  adapter: civicclerk
+  tenant: wellingtonco
+- id: castle-pines
+  name: Castle Pines
+  county: Douglas
+  adapter: granicus
+  base: https://castlepines.granicus.com
+  view_id: 2
+- id: rifle
+  name: Rifle
+  county: Garfield
+  adapter: civicclerk
+  tenant: rifleco
+- id: monument
+  name: Monument
+  county: El Paso
+  adapter: civicclerk
+  tenant: monumentco
+- id: berthoud
+  name: Berthoud
+  county: Larimer
+  adapter: civicclerk
+  tenant: berthoudco
+- id: yuma-county
+  name: Yuma County
+  county: Yuma
+  adapter: linkscan
+  pages:
+  - https://yumacounty.colorado.gov/board-meetings
+- id: glenwood-springs
+  name: Glenwood Springs
+  county: Garfield
+  adapter: civicclerk
+  tenant: glenwoodspringsco
+- id: clear-creek-county
+  name: Clear Creek County
+  county: Clear Creek
+  adapter: agendacenter
+  base: https://www.clearcreekcounty.us
+- id: craig
+  name: Craig
+  county: Moffat
+  adapter: civicclerk
+  tenant: craigco
+- id: delta
+  name: Delta
+  county: Delta
+  adapter: agendacenter
+  base: https://www.cityofdelta.net
+- id: milliken
+  name: Milliken
+  county: Weld
+  adapter: civicclerk
+  tenant: millikenco
+- id: lochbuie
+  name: Lochbuie
+  county: Weld
+  adapter: civicclerk
+  tenant: lochbuieco
+- id: san-miguel-county
+  name: San Miguel County
+  county: San Miguel
+  adapter: civicclerk
+  tenant: sanmiguelcoco
+- id: gypsum
+  name: Gypsum
+  county: Eagle
+  adapter: granicus
+  base: https://townofgypsum.granicus.com
+  view_id: 3
+- id: fort-lupton
+  name: Fort Lupton
+  county: Weld
+  adapter: civicclerk
+  tenant: fortluptonco
+- id: woodland-park
+  name: Woodland Park
+  county: Teller
+  adapter: civicclerk
+  tenant: woodlandparkco
+- id: severance
+  name: Severance
+  county: Weld
+  adapter: civicclerk
+  tenant: severanceco
+- id: eagle
+  name: Eagle
+  county: Eagle
+  adapter: civicclerk
+  tenant: eagleco
+- id: lake-county
+  name: Lake County
+  county: Lake
+  adapter: agendacenter
+  base: https://www.lakecountyco.gov
+- id: la-junta
+  name: La Junta
+  county: Otero
+  adapter: civicclerk
+  tenant: lajuntaco
+- id: kit-carson-county
+  name: Kit Carson County
+  county: Kit Carson
+  adapter: granicus
+  base: https://kitcarsoncounty.granicus.com
+  view_id: 1
+- id: aspen
+  name: Aspen
+  county: Pitkin
+  adapter: granicus
+  base: https://cityofaspen.granicus.com
+  view_id: 3
+- id: rio-blanco-county
+  name: Rio Blanco County
+  county: Rio Blanco
+  adapter: linkscan
+  pages:
+  - https://www.rbc.us/
+- id: timnath
+  name: Timnath
+  county: Larimer
+  adapter: civicweb
+  base: https://timnath.civicweb.net
+- id: cherry-hills-village
+  name: Cherry Hills Village
+  county: Arapahoe
+  adapter: agendacenter
+  base: https://www.cherryhillsvillage.com
+- id: dacono
+  name: Dacono
+  county: Weld
+  adapter: agendacenter
+  base: https://www.daconoco.gov
+- id: sheridan
+  name: Sheridan
+  county: Arapahoe
+  adapter: agendacenter
+  base: https://ci.sheridan.co.us
+- id: gilpin-county
+  name: Gilpin County
+  county: Gilpin
+  adapter: linkscan
+  pages:
+  - https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings
+- id: eaton
+  name: Eaton
+  county: Weld
+  adapter: civicclerk
+  tenant: eatonco
+- id: salida
+  name: Salida
+  county: Chaffee
+  adapter: civicclerk
+  tenant: salidaco
+- id: brush
+  name: Brush
+  county: Morgan
+  adapter: linkscan
+  pages:
+  - http://www.brushcolo.com/your_city/agendas_minutes.php
+- id: breckenridge
+  name: Breckenridge
+  county: Summit
+  adapter: civicclerk
+  tenant: breckenridgeco
+- id: edgewater
+  name: Edgewater
+  county: Jefferson
+  adapter: civicclerk
+  tenant: edgewaterco
+- id: new-castle
+  name: New Castle
+  county: Garfield
+  adapter: civicclerk
+  tenant: newcastleco
+- id: ouray-county
+  name: Ouray County
+  county: Ouray
+  adapter: agendacenter
+  base: https://ouraycountyco.gov
+- id: washington-county
+  name: Washington County
+  county: Washington
+  adapter: linkscan
+  pages:
+  - https://washingtoncounty.colorado.gov/2026-agendas
+- id: phillips-county
+  name: Phillips County
+  county: Phillips
+  adapter: linkscan
+  pages:
+  - https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas
+- id: basalt
+  name: Basalt
+  county: Eagle
+  adapter: agendacenter
+  base: https://www.basalt.net
+- id: florence
+  name: Florence
+  county: Fremont
+  adapter: linkscan
+  pages:
+  - https://www.cityofflorenceco.gov/
+- id: silt
+  name: Silt
+  county: Garfield
+  adapter: linkscan
+  pages:
+  - https://www.townofsilt.org/board_of_trustees_agendas_minutes
+- id: yuma
+  name: Yuma
+  county: Yuma
+  adapter: linkscan
+  pages:
+  - https://cityofyuma.colorado.gov/agendas
+- id: burlington
+  name: Burlington
+  county: Kit Carson
+  adapter: agendacenter
+  base: http://www.burlingtoncolo.com
+- id: snowmass-village
+  name: Snowmass Village
+  county: Pitkin
+  adapter: civicclerk
+  tenant: tosvco
+- id: platteville
+  name: Platteville
+  county: Weld
+  adapter: linkscan
+  pages:
+  - https://platteville.colorado.gov/agendas-and-minutes
+- id: frisco
+  name: Frisco
+  county: Summit
+  adapter: civicclerk
+  tenant: friscoco
+- id: buena-vista
+  name: Buena Vista
+  county: Chaffee
+  adapter: agendacenter
+  base: http://www.buenavistaco.gov
+- id: palmer-lake
+  name: Palmer Lake
+  county: El Paso
+  adapter: civicclerk
+  tenant: palmerlakeco
+- id: palisade
+  name: Palisade
+  county: Mesa
+  adapter: linkscan
+  pages:
+  - https://palisade.colorado.gov/events/board-of-trustees-regular-meeting-10/13/2026
+- id: meeker
+  name: Meeker
+  county: Rio Blanco
+  adapter: linkscan
+  pages:
+  - https://townofmeeker.org/meeting-information/
+- id: wray
+  name: Wray
+  county: Yuma
+  adapter: agendacenter
+  base: http://www.cityofwray.org
+- id: rangely
+  name: Rangely
+  county: Rio Blanco
+  adapter: linkscan
+  pages:
+  - https://townofrangely.colorado.gov/departments/administrative-services/town-council/meeting-dates-board-packets
+- id: limon
+  name: Limon
+  county: Lincoln
+  adapter: linkscan
+  pages:
+  - https://www.townoflimon.com/index.php/government/trustee-meetings/agenda
+- id: hayden
+  name: Hayden
+  county: Routt
+  adapter: agendacenter
+  base: https://co-hayden.civicplus.com
+- id: center
+  name: Center
+  county: Saguache
+  adapter: linkscan
+  pages:
+  - https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes
+- id: idaho-springs
+  name: Idaho Springs
+  county: Clear Creek
+  adapter: civicclerk
+  tenant: idahospringsco
+- id: akron
+  name: Akron
+  county: Washington
+  adapter: agendacenter
+  base: https://www.townofakron.com
+- id: cheyenne-county
+  name: Cheyenne County
+  county: Cheyenne
+  adapter: linkscan
+  pages:
+  - https://www.co.cheyenne.co.us/
+- id: elizabeth
+  name: Elizabeth
+  county: Elbert
+  adapter: civicclerk
+  tenant: elizabethco
+- id: hudson
+  name: Hudson
+  county: Weld
+  adapter: legistar
+  client: hudson
+- id: crested-butte
+  name: Crested Butte
+  county: Gunnison
+  adapter: linkscan
+  pages:
+  - https://townofcrestedbutte.colorado.gov/government/town-council
+- id: pagosa-springs
+  name: Pagosa Springs
+  county: Archuleta
+  adapter: civicclerk
+  tenant: pagosaspringsco
+- id: columbine-valley
+  name: Columbine Valley
+  county: Arapahoe
+  adapter: linkscan
+  pages:
+  - https://columbinevalley.org/board-trustee-agendas-minutes/
+- id: kersey
+  name: Kersey
+  county: Weld
+  adapter: linkscan
+  pages:
+  - https://www.kerseygov.com/government/agendas_minutes/index.php
+- id: del-norte
+  name: Del Norte
+  county: Rio Grande
+  adapter: linkscan
+  pages:
+  - https://www.delnortecolorado.com/minutes-agendas/
+- id: paonia
+  name: Paonia
+  county: Delta
+  adapter: civicclerk
+  tenant: paoniaco
+- id: fraser
+  name: Fraser
+  county: Grand
+  adapter: agendacenter
+  base: https://www.frasercolorado.com
+- id: parachute
+  name: Parachute
+  county: Garfield
+  adapter: granicus
+  base: https://parachute.granicus.com
+  view_id: 1
+- id: keenesburg
+  name: Keenesburg
+  county: Weld
+  adapter: linkscan
+  pages:
+  - https://www.townofkeenesburg.com/government/agendas_minutes/signed_minutes.php
+- id: ridgway
+  name: Ridgway
+  county: Ouray
+  adapter: linkscan
+  pages:
+  - https://townofridgway.colorado.gov/i-want-to/ridgway-town-council
+- id: ordway
+  name: Ordway
+  county: Crowley
+  adapter: linkscan
+  pages:
+  - https://townofordway.colorado.gov/minutes-and-agendas
+- id: minturn
+  name: Minturn
+  county: Eagle
+  adapter: civicclerk
+  tenant: minturnco
+- id: winter-park
+  name: Winter Park
+  county: Grand
+  adapter: granicus
+  base: https://winterparkcolorado.granicus.com
+  view_id: 1
+- id: haxtun
+  name: Haxtun
+  county: Phillips
+  adapter: linkscan
+  pages:
+  - https://townofhaxtun.colorado.gov/town-council
+- id: poncha-springs
+  name: Poncha Springs
+  county: Chaffee
+  adapter: civicclerk
+  tenant: ponchaspringsco
+- id: oak-creek
+  name: Oak Creek
+  county: Routt
+  adapter: civicclerk
+  tenant: oakcreekco
+- id: dolores
+  name: Dolores
+  county: Montezuma
+  adapter: linkscan
+  pages:
+  - https://townofdolores.colorado.gov/government/town-board-meetings
+- id: blue-river
+  name: Blue River
+  county: Summit
+  adapter: civicclerk
+  tenant: blueriverco
+- id: hotchkiss
+  name: Hotchkiss
+  county: Delta
+  adapter: linkscan
+  pages:
+  - https://townofhotchkiss.colorado.gov/about-the-town/board-of-trustee-minutes
+- id: ignacio
+  name: Ignacio
+  county: La Plata
+  adapter: linkscan
+  pages:
+  - https://townofignacio.colorado.gov/forms/informational-packets-and-handbooks
+- id: hinsdale-county
+  name: Hinsdale County
+  county: Hinsdale
+  adapter: linkscan
+  pages:
+  - https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes
+- id: hugo
+  name: Hugo
+  county: Lincoln
+  adapter: linkscan
+  pages:
+  - https://townhugo.com/government/committee-meetings/agenda/
+- id: calhan
+  name: Calhan
+  county: El Paso
+  adapter: linkscan
+  pages:
+  - https://www.calhan.co/services/resource_room/meeting_minutes_packets.php
+- id: foxfield
+  name: Foxfield
+  county: Arapahoe
+  adapter: linkscan
+  pages:
+  - https://townoffoxfield.colorado.gov/node/10166
+- id: williamsburg
+  name: Williamsburg
+  county: Fremont
+  adapter: linkscan
+  pages:
+  - https://townofwilliamsburg.colorado.gov/board-agendas
+- id: kiowa
+  name: Kiowa
+  county: Elbert
+  adapter: civicclerk
+  tenant: kiowaco
+- id: fairplay
+  name: Fairplay
+  county: Park
+  adapter: civicclerk
+  tenant: fairplayco
+- id: san-juan-county
+  name: San Juan County
+  county: San Juan
+  adapter: linkscan
+  pages:
+  - https://sanjuancounty.colorado.gov/meetings
+- id: green-mountain-falls
+  name: Green Mountain Falls
+  county: El Paso
+  adapter: linkscan
+  pages:
+  - https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes
+- id: dove-creek
+  name: Dove Creek
+  county: Dolores
+  adapter: linkscan
+  pages:
+  - https://townofdovecreek.colorado.gov/meeting-agendas
+- id: silver-cliff
+  name: Silver Cliff
+  county: Custer
+  adapter: agendacenter
+  base: https://www.silvercliffco.com
+- id: mountain-view
+  name: Mountain View
+  county: Jefferson
+  adapter: legistar
+  client: mountainview
+- id: norwood
+  name: Norwood
+  county: San Miguel
+  adapter: linkscan
+  pages:
+  - https://www.norwoodtown.com/board-of-trustees-meetings
+- id: rockvale
+  name: Rockvale
+  county: Fremont
+  adapter: linkscan
+  pages:
+  - https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents
+- id: nunn
+  name: Nunn
+  county: Weld
+  adapter: linkscan
+  pages:
+  - https://townofnunn.colorado.gov/government/town-board-meeting-minutes-and-agendas
+- id: de-beque
+  name: De Beque
+  county: Mesa
+  adapter: linkscan
+  pages:
+  - https://townofdebeque.colorado.gov/trustee-agendas-minutes
+- id: westcliffe
+  name: Westcliffe
+  county: Custer
+  adapter: linkscan
+  pages:
+  - https://townofwestcliffe.colorado.gov/town-board-of-trustees-meetings
+- id: lake-city
+  name: Lake City
+  county: Hinsdale
+  adapter: linkscan
+  pages:
+  - https://www.townoflakecityco.gov/board-of-trustees-meetings
+- id: grand-lake
+  name: Grand Lake
+  county: Grand
+  adapter: civicclerk
+  tenant: grandlakeco
+- id: crawford
+  name: Crawford
+  county: Delta
+  adapter: linkscan
+  pages:
+  - https://townofcrawford.colorado.gov/departments/council-meetings-minutes-and-agendas
+- id: morrison
+  name: Morrison
+  county: Jefferson
+  adapter: agendacenter
+  base: https://www.morrisonco.us
+- id: empire
+  name: Empire
+  county: Clear Creek
+  adapter: linkscan
+  pages:
+  - https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting
+- id: manzanola
+  name: Manzanola
+  county: Otero
+  adapter: linkscan
+  pages:
+  - https://townofmanzanola.colorado.gov/agendas-meeting-minutes/agendas
+- id: olney-springs
+  name: Olney Springs
+  county: Crowley
+  adapter: linkscan
+  pages:
+  - https://townofolneysprings.colorado.gov/agendas-town-council
+- id: hillrose
+  name: Hillrose
+  county: Morgan
+  adapter: linkscan
+  pages:
+  - https://www.hillrosecolorado.org/
+- id: boone
+  name: Boone
+  county: Pueblo
+  adapter: linkscan
+  pages:
+  - https://boone.colorado.gov/agendas-and-minutes
+- id: alma
+  name: Alma
+  county: Park
+  adapter: linkscan
+  pages:
+  - http://townofalma.com/meetings/
+- id: rico
+  name: Rico
+  county: Dolores
+  adapter: linkscan
+  pages:
+  - https://townofrico.colorado.gov/government/board-of-trustees
+- id: red-cliff
+  name: Red Cliff
+  county: Eagle
+  adapter: linkscan
+  pages:
+  - https://townofredcliff.colorado.gov/government/2023-records/2023-meeting-agendas
+- id: jamestown
+  name: Jamestown
+  county: Boulder
+  adapter: linkscan
+  pages:
+  - https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/
+- id: garden-city
+  name: Garden City
+  county: Weld
+  adapter: civicclerk
+  tenant: gardencityco
+- id: silver-plume
+  name: Silver Plume
+  county: Clear Creek
+  adapter: linkscan
+  pages:
+  - https://silverplumetown.com/agendas-and-minutes/
+- id: rye
+  name: Rye
+  county: Pueblo
+  adapter: linkscan
+  pages:
+  - https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas
+- id: arriba
+  name: Arriba
+  county: Lincoln
+  adapter: linkscan
+  pages:
+  - https://townofarriba.colorado.gov/town-board-meeting-minutes
+- id: ophir
+  name: Ophir
+  county: San Miguel
+  adapter: linkscan
+  pages:
+  - https://townofophir.colorado.gov/planning-and-zoning
+- id: grover
+  name: Grover
+  county: Weld
+  adapter: agendacenter
+  base: https://www.grover.org
+- id: black-hawk
+  name: Black Hawk
+  county: Gilpin
+  adapter: agendacenter
+  base: https://www.cityofblackhawk.org
+- id: campo
+  name: Campo
+  county: Baca
+  adapter: legistar
+  client: campo
+- id: hooper
+  name: Hooper
+  county: Alamosa
+  adapter: linkscan
+  pages:
+  - https://townofhooper.colorado.gov/meeting-minutes-agendas
+- id: montezuma
+  name: Montezuma
+  county: Summit
+  adapter: linkscan
+  pages:
+  - https://www.townofmontezuma.com/
+- id: pitkin
+  name: Pitkin
+  county: Gunnison
+  adapter: linkscan
+  pages:
+  - https://townofpitkin.colorado.gov/documents/approved-meeting-minutes
+- id: starkville
+  name: Starkville
+  county: Las Animas
+  adapter: civicclerk
+  tenant: starkvillems

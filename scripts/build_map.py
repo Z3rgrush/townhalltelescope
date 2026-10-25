@@ -15,6 +15,7 @@ import csv
 import re
 import sys
 import json
+import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
@@ -37,6 +38,7 @@ NAMES = {}
 
 
 def slug(name):
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()  # Cañon City -> canon-city
     return re.sub(r"[^a-z]+", "-", name.lower()).strip("-")
 
 
