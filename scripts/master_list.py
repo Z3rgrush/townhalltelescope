@@ -1,8 +1,10 @@
 """Build the master list of every Colorado county and municipality, with its website and meeting platform.
 
 Starts from data/places.csv and data/zip_areas.csv (scripts/geography.py). Websites come from the
-Colorado Municipal League member directory (towns) and the Colorado Counties Inc. directory
-(counties), with Wikidata as a fallback. Each government is then checked two ways:
+Colorado Municipal League member directory (towns), data/county_websites.csv (counties, copied from
+the Colorado Counties Inc. directory) and Wikidata. When those fail, the usual Colorado address
+patterns are tried (townofx.colorado.gov, xcounty.gov, ...), keeping one whose page names the
+government. Each government is then checked two ways:
   - the public APIs of the meeting platforms the collector reads (Legistar, CivicClerk), asked
     whether a tenant named after the government exists and has meetings in the last 90 days
   - its website: the home page and up to four pages it links as agendas, minutes or meetings,
@@ -16,7 +18,6 @@ Usage: python scripts/master_list.py [--only lyons,erie]
 """
 import argparse
 import csv
-import io
 import re
 import sys
 import time
@@ -28,7 +29,6 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 import yaml
-from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
@@ -39,7 +39,6 @@ from build_map import CITY_COUNTIES, county_source, place_source  # noqa: E402
 UA = {"User-Agent": "Mozilla/5.0 (compatible; townhalltelescope/0.1; +https://github.com/Z3rgrush/townhalltelescope)"}
 WIKIDATA = "https://query.wikidata.org/sparql"
 CML = "https://cml.org/utility-pages/cml-member-directory"
-CCI = "https://old.ccionline.org/wp-content/uploads/2025/03/2025-CCI-Directory-02-25-25-FINALx.pdf"
 
 # Platform -> pattern found in a page's links or scripts, in priority order, and the adapter in
 # collector/adapters.py that already reads it (so adding such a government is config only).
@@ -64,7 +63,7 @@ PLATFORMS = [
 MEETING_TEXT = re.compile(r"agendas?|minutes|meetings?\b|packets?", re.I)
 COUNCIL_TEXT = re.compile(r"council|board of trustees|trustees|commissioners|public notices|government", re.I)
 DOC_LINK = re.compile(r"""href=["'][^"']*(?:agenda|minutes|packet)[^"']*\.pdf""", re.I)
-BOT_CHECK = re.compile(r"cf-chl|challenge-platform|captcha|Just a moment\.\.\.", re.I)
+BOT_CHECK = re.compile(r"<title>\s*(?:Just a moment|Attention Required|Access denied)", re.I)
 
 
 def get(url, timeout=25, **kw):
@@ -95,22 +94,21 @@ def cml_sites():
     return out
 
 
-def cci_sites(counties):
-    """County name -> website, from the CCI directory PDF: each 'www.' line belongs to the county
-    whose name appears last before it (names are sometimes split across lines)."""
-    r, _ = get(CCI)
-    out = {}
-    if r is None or r.status_code != 200:
-        print("CCI directory unavailable")
-        return out
-    text = "\n".join(p.extract_text() or "" for p in PdfReader(io.BytesIO(r.content)).pages)
-    for m in re.finditer(r"\bwww\.[\w.-]+\.[a-z]{2,}(?:/[\w./-]*)?", text):
-        before = norm(text[max(0, m.start() - 600):m.start()])
-        best = max(counties, key=lambda c: before.rfind(norm(c) + "county"))
-        if before.rfind(norm(best) + "county") >= 0:
-            out.setdefault(best, "https://" + m.group(0).rstrip("."))
-    print(f"CCI directory: {len(out)} counties")
-    return out
+def county_sites(data):
+    return {r["county"]: r["website"] for r in csv.DictReader((data / "county_websites.csv").open())}
+
+
+def guesses(gov):
+    """Common Colorado website addresses for a government, most likely first."""
+    x = norm(gov["name"].removesuffix(" County"))
+    if gov["kind"] == "county":
+        return [f"https://www.{x}county.gov", f"https://{x}county.colorado.gov", f"https://www.{x}countyco.gov",
+                f"https://www.{x}county.org", f"https://www.co.{x}.co.us", f"https://www.{x}county.us",
+                f"https://www.{x}county.com", f"https://www.{x}countyco.com"]
+    return [f"https://{x}.colorado.gov", f"https://townof{x}.colorado.gov", f"https://cityof{x}.colorado.gov",
+            f"https://www.{x}co.gov", f"https://www.townof{x}.com", f"https://www.townof{x}.org",
+            f"https://www.cityof{x}.com", f"https://www.cityof{x}.org", f"https://www.{x}gov.com",
+            f"https://www.{x}.org", f"https://www.{x}colorado.gov"]
 
 
 def sparql(query):
@@ -177,7 +175,8 @@ def probe_apis(gov):
                              params={"$filter": f"startDateTime ge {since}T00:00:00Z", "$top": "200"}, timeout=10)[0])
         if isinstance(events, dict) and events.get("value"):
             return {"platform": "civicclerk", "collector": "civicclerk", "config": f"tenant={name}",
-                    "meetings_url": f"https://{name}.portal.civicclerk.com", "recent": len(events["value"])}
+                    "meetings_url": f"https://{name}.portal.civicclerk.com",
+                    "recent": f"{len(events['value'])}{'+' if events.get('@odata.nextLink') else ''}"}
         time.sleep(0.5)
     return None
 
@@ -225,12 +224,31 @@ def links_from(page_url, html):
     return meeting + council
 
 
+def open_site(gov):
+    """The first of the government's known or likely websites that answers and names it."""
+    first_error = None
+    sites = [s for s in [gov["website"], *gov.get("more_sites", [])] if s]
+    for i, url in enumerate(sites + guesses(gov)):
+        r, err = get(url, timeout=15)
+        guessed = i >= len(sites)
+        if r is None:
+            first_error = first_error or f"site failed ({err})"
+            continue
+        if r.status_code >= 400 or BOT_CHECK.search(r.text[:5000]):
+            if not guessed:
+                first_error = first_error or f"site refused ({r.status_code})"
+            continue
+        name = gov["name"].removesuffix(" County").lower()
+        if guessed and name not in r.text[:200000].lower():
+            continue
+        return r, None
+    return None, first_error or "no website found"
+
+
 def survey_site(gov):
-    r, err = get(gov["website"])
+    r, err = open_site(gov)
     if r is None:
-        return {"status": f"site failed ({err})"}
-    if r.status_code >= 400 or BOT_CHECK.search(r.text[:20000]):
-        return {"status": f"site refused ({r.status_code})"}
+        return {"status": err}
     gov["website"] = r.url
     found = detect(r.url, r.text)
     if found:
@@ -271,8 +289,6 @@ def survey(gov):
     found = probe_apis(gov)
     if found:
         out = {**gov, **found, "status": "found"}
-    elif not gov["website"]:
-        out = {**gov, "status": "no website found"}
     else:
         out = {**gov, **survey_site(gov)}
     print(f"{out['name']}: {out['status']} {out.get('platform', '')}", flush=True)
@@ -294,11 +310,12 @@ def main():
     data = ROOT / region["data"]
     govs = load_governments(data)
     tracked = {s["id"]: s for s in yaml.safe_load((ROOT / region["sources"]).open())}
-    towns, counties, wiki = cml_sites(), cci_sites([g["county"] for g in govs if g["kind"] == "county"]), wikidata_sites()
+    towns, counties, wiki = cml_sites(), county_sites(data), wikidata_sites()
     for g in govs:
         n = norm(g["name"])
         site = counties.get(g["county"]) if g["kind"] == "county" else towns.get(n)
         g["website"] = site or wiki.get(n) or ""
+        g["more_sites"] = [wiki[n]] if site and wiki.get(n) and wiki[n] != site else []
         g.update({k: "" for k in FIELDS if k not in g})
     print(f"{len(govs)} governments, {sum(1 for g in govs if g['website'])} with a website")
     only = {s for s in args.only.split(",") if s}
