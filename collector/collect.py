@@ -131,15 +131,24 @@ def main():
         for r in rows:
             f.write(json.dumps(r) + "\n")
 
+    # Coverage is kept per source in coverage.json, so a run with --only updates just those rows.
+    cov_path = DATA / "coverage.json"
+    cov = json.loads(cov_path.read_text()) if cov_path.exists() else {}
+    for src, meetings, ndocs, stats, error, lines in coverage:
+        cov[src["id"]] = {"name": src["name"], "adapter": src["adapter"], "meetings": meetings, "documents": ndocs,
+                          "ok": stats.get("ok", 0), "failed": stats.get("failed", 0), "error": error or "",
+                          "log": lines, "run": end.isoformat()}
+    ids = {s["id"] for s in sources}
+    cov = {k: v for k, v in sorted(cov.items()) if k in ids}
+    cov_path.write_text(json.dumps(cov, indent=1))
     with (DATA / "coverage.md").open("w") as f:
-        f.write(f"# Collection coverage\n\nWindow: {start} to {end}\n\n")
-        f.write("| Source | Adapter | Meetings | Documents | Text OK | Failed | Error |\n|---|---|---|---|---|---|---|\n")
-        for src, meetings, ndocs, stats, error, _ in coverage:
-            f.write(f"| {src['name']} | {src['adapter']} | {meetings} | {ndocs} | {stats.get('ok', 0)} | {stats.get('failed', 0)} | {error or ''} |\n")
+        f.write(f"# Collection coverage\n\nWindow: {start} to {end} (each row shows its own last run)\n\n")
+        f.write("| Source | Adapter | Meetings | Documents | Text OK | Failed | Error | Run |\n|---|---|---|---|---|---|---|---|\n")
+        for c in cov.values():
+            f.write(f"| {c['name']} | {c['adapter']} | {c['meetings']} | {c['documents']} | {c['ok']} | {c['failed']} | {c['error']} | {c['run']} |\n")
         f.write("\n## Logs\n")
-        for src, *_, lines in coverage:
-            f.write(f"\n### {src['name']}\n```\n" + "\n".join(lines) + "\n```\n")
-
+        for c in cov.values():
+            f.write(f"\n### {c['name']}\n```\n" + "\n".join(c["log"]) + "\n```\n")
 
 if __name__ == "__main__":
     main()
