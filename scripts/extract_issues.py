@@ -5,7 +5,7 @@ JSON matching ISSUE_SCHEMA. Only governments whose condensed text changed since 
 sent (hashes in data/issues/extracted.json), so hand-written issue files stay until their
 meetings change. Without ANTHROPIC_API_KEY the script says so and exits without changing anything.
 
-Usage: python scripts/extract_issues.py [--only lyons,erie] [--all] [--model claude-opus-5-5]
+Usage: python scripts/extract_issues.py [--only lyons,erie] [--all] [--model claude-sonnet-5-5]
 """
 import argparse
 import hashlib
@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 from collector.regions import REGIONS  # noqa: E402
 
-MODEL = os.environ.get("EXTRACT_MODEL") or "claude-opus-5-5"
+MODEL = os.environ.get("EXTRACT_MODEL") or "claude-sonnet-5-5"
 
 ISSUE_SCHEMA = {
     "type": "object",

@@ -14,6 +14,6 @@ Scripts take `--region co` (the default and only region); paths are in `collecto
 
 1. `python -m collector.collect` (run weekly by GitHub Actions) downloads agendas and minutes into `data/text/`.
 2. `python scripts/condense.py` boils each document down to its business lines in `data/condensed/`.
-3. `python scripts/extract_issues.py` sends each government whose condensed meetings changed to Claude (Batch API) and writes `data/issues/<government>.yaml`, each issue pointing at the meetings it came up in. It needs the `ANTHROPIC_API_KEY` repository secret; the model defaults to `claude-opus-5-5` and can be changed with the `EXTRACT_MODEL` repository variable. The weekly collect run does steps 2 to 4 when the secret is set, and the extract workflow runs them on demand.
+3. `python scripts/extract_issues.py` sends each government whose condensed meetings changed to Claude (Batch API) and writes `data/issues/<government>.yaml`, each issue pointing at the meetings it came up in. It needs the `ANTHROPIC_API_KEY` repository secret; the model defaults to `claude-sonnet-5-5` and can be changed with the `EXTRACT_MODEL` repository variable. The weekly collect run does steps 2 to 4 when the secret is set, and the extract workflow runs them on demand.
 4. `python scripts/build_map.py` ranks issues per zip and county by how many distinct meetings discussed them (scaled by the share of residents the government serves, with a boost when residents spoke) and writes `docs/data/`.
 5. `docs/index.html` is the map, served by GitHub Pages from the `docs/` folder.
