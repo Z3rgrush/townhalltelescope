@@ -67,9 +67,9 @@ DOC_LINK = re.compile(r"""href=["'][^"']*(?:agenda|minutes|packet)[^"']*\.pdf"""
 BOT_CHECK = re.compile(r"cf-chl|challenge-platform|captcha|Just a moment\.\.\.", re.I)
 
 
-def get(url, **kw):
+def get(url, timeout=25, **kw):
     try:
-        return requests.get(url, headers=UA, timeout=25, **kw), None
+        return requests.get(url, headers=UA, timeout=timeout, **kw), None
     except requests.RequestException as e:
         return None, type(e).__name__
 
@@ -169,12 +169,12 @@ def probe_apis(gov):
     since = (date.today() - timedelta(days=90)).isoformat()
     for name in tenant_names(gov):
         events = json_of(get(f"https://webapi.legistar.com/v1/{name}/events",
-                             params={"$filter": f"EventDate ge datetime'{since}'", "$top": "200"})[0])
+                             params={"$filter": f"EventDate ge datetime'{since}'", "$top": "200"}, timeout=10)[0])
         if isinstance(events, list) and events:
             return {"platform": "legistar", "collector": "legistar", "config": f"client={name}",
                     "meetings_url": f"https://{name}.legistar.com/Calendar.aspx", "recent": len(events)}
         events = json_of(get(f"https://{name}.api.civicclerk.com/v1/Events",
-                             params={"$filter": f"startDateTime ge {since}T00:00:00Z", "$top": "200"})[0])
+                             params={"$filter": f"startDateTime ge {since}T00:00:00Z", "$top": "200"}, timeout=10)[0])
         if isinstance(events, dict) and events.get("value"):
             return {"platform": "civicclerk", "collector": "civicclerk", "config": f"tenant={name}",
                     "meetings_url": f"https://{name}.portal.civicclerk.com", "recent": len(events["value"])}
@@ -270,10 +270,13 @@ def survey(gov):
     gov = dict(gov)
     found = probe_apis(gov)
     if found:
-        return {**gov, **found, "status": "found"}
-    if not gov["website"]:
-        return {**gov, "status": "no website found"}
-    return {**gov, **survey_site(gov)}
+        out = {**gov, **found, "status": "found"}
+    elif not gov["website"]:
+        out = {**gov, "status": "no website found"}
+    else:
+        out = {**gov, **survey_site(gov)}
+    print(f"{out['name']}: {out['status']} {out.get('platform', '')}", flush=True)
+    return out
 
 
 # ---- main -----------------------------------------------------------------------------------
