@@ -174,19 +174,15 @@ def _weblink_text(weblink_base, repo, doc_id):
 
 
 def _weblink_listing(weblink_base, repo, folder_id):
-    """Every entry in a WebLink folder, from the folder listing service the browser page calls."""
-    out, total = [], None
-    while total is None or len(out) < total:
-        r = session.post(f"{weblink_base}/FolderListingService.aspx/GetFolderListing2", timeout=60, json={
-            "repoName": repo, "folderId": folder_id, "getNewListing": True, "start": len(out),
-            "end": len(out) + 100, "sortColumn": "", "sortAscending": True})
-        r.raise_for_status()
-        data = r.json()["data"]
-        total = data.get("totalEntries") or 0
-        if not data.get("results"):
-            break
-        out += data["results"]
-    return out
+    """A WebLink folder's entries, from the folder listing service the browser page calls.
+
+    The service returns at most 40 entries and ignores paging, so ask for names in descending order:
+    the newest year folders and dated documents come first."""
+    r = session.post(f"{weblink_base}/FolderListingService.aspx/GetFolderListing2", timeout=60, json={
+        "repoName": repo, "folderId": folder_id, "getNewListing": True, "start": 0, "end": 40,
+        "sortColumn": "Name", "sortAscending": False})
+    r.raise_for_status()
+    return r.json()["data"].get("results") or []
 
 
 def weblink(src, start, end, log):
