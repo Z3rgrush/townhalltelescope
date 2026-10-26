@@ -4,28 +4,42 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 
 | Source | Adapter | Meetings | Documents | Text OK | Failed | Error | Run |
 |---|---|---|---|---|---|---|---|
+| Adams County | primegov | 40 | 40 | 40 | 0 |  | 2026-10-26 |
 | Akron | agendacenter | 7 | 7 | 6 | 1 |  | 2026-10-25 |
+| Alamosa County | agendacenter | 12 | 12 | 12 | 0 |  | 2026-10-26 |
 | Alma | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Arapahoe County | legistar | 42 | 42 | 38 | 4 |  | 2026-10-26 |
 | Archuleta County | linkscan | 9 | 16 | 14 | 2 |  | 2026-10-25 |
 | Arriba | linkscan | 2 | 2 | 2 | 0 |  | 2026-10-26 |
+| Arvada | civicclerk | 27 | 49 | 46 | 3 |  | 2026-10-26 |
 | Aspen | granicus | 34 | 34 | 33 | 1 |  | 2026-10-25 |
+| Aurora | linkscan | 6 | 10 | 10 | 0 |  | 2026-10-26 |
 | Basalt | agendacenter | 34 | 34 | 30 | 4 |  | 2026-10-25 |
 | Berthoud | civicclerk | 27 | 37 | 35 | 2 |  | 2026-10-25 |
 | Black Hawk | agendacenter | 4 | 4 | 3 | 1 |  | 2026-10-26 |
 | Blue River | civicclerk | 11 | 18 | 18 | 0 |  | 2026-10-25 |
 | Boone | linkscan | 4 | 4 | 4 | 0 |  | 2026-10-26 |
+| Boulder | primegov | 15 | 15 | 15 | 0 |  | 2026-10-26 |
+| Boulder County | wp_events | 19 | 19 | 19 | 0 |  | 2026-10-26 |
 | Breckenridge | civicclerk | 21 | 43 | 40 | 3 |  | 2026-10-25 |
+| Brighton | legistar | 12 | 12 | 12 | 0 |  | 2026-10-26 |
+| Broomfield | agendacenter | 40 | 40 | 38 | 2 |  | 2026-10-26 |
 | Brush | linkscan | 8 | 8 | 0 | 8 |  | 2026-10-25 |
 | Buena Vista | agendacenter | 42 | 42 | 34 | 8 |  | 2026-10-25 |
 | Burlington | agendacenter | 9 | 9 | 0 | 9 |  | 2026-10-25 |
 | Calhan | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Campo | legistar | 2 | 2 | 2 | 0 |  | 2026-10-26 |
+| Cañon City | agendacenter | 64 | 65 | 65 | 0 |  | 2026-10-26 |
 | Castle Pines | granicus | 12 | 12 | 4 | 8 |  | 2026-10-25 |
+| Centennial | onbase | 22 | 22 | 22 | 0 |  | 2026-10-26 |
 | Center | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Chaffee County | civicclerk | 32 | 52 | 52 | 0 |  | 2026-10-26 |
 | Cherry Hills Village | agendacenter | 18 | 18 | 15 | 3 |  | 2026-10-25 |
 | Cheyenne County | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Clear Creek County | agendacenter | 20 | 21 | 20 | 1 |  | 2026-10-25 |
+| Colorado Springs | legistar | 28 | 28 | 28 | 0 |  | 2026-10-26 |
 | Columbine Valley | linkscan | 3 | 4 | 4 | 0 |  | 2026-10-25 |
+| Commerce City | legistar | 99 | 99 | 98 | 1 |  | 2026-10-26 |
 | Craig | civicclerk | 5 | 8 | 7 | 1 |  | 2026-10-25 |
 | Crawford | linkscan | 3 | 3 | 2 | 1 |  | 2026-10-26 |
 | Crested Butte | linkscan | 2 | 2 | 2 | 0 |  | 2026-10-25 |
@@ -33,27 +47,44 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | De Beque | linkscan | 3 | 3 | 1 | 2 |  | 2026-10-26 |
 | Del Norte | linkscan | 6 | 8 | 8 | 0 |  | 2026-10-25 |
 | Delta | agendacenter | 13 | 20 | 20 | 0 |  | 2026-10-25 |
+| Denver | legistar | 119 | 119 | 116 | 3 |  | 2026-10-26 |
 | Dolores | linkscan | 6 | 6 | 6 | 0 |  | 2026-10-25 |
+| Douglas County | legistar | 40 | 40 | 40 | 0 |  | 2026-10-26 |
 | Dove Creek | linkscan | 9 | 9 | 9 | 0 |  | 2026-10-26 |
 | Eagle | civicclerk | 28 | 43 | 43 | 0 |  | 2026-10-25 |
 | Eaton | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Edgewater | civicclerk | 3 | 4 | 4 | 0 |  | 2026-10-25 |
 | Elizabeth | civicclerk | 21 | 21 | 15 | 6 |  | 2026-10-25 |
 | Empire | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Erie | civicclerk | 34 | 50 | 46 | 4 |  | 2026-10-26 |
+| Evans | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Fairplay | civicclerk | 9 | 9 | 9 | 0 |  | 2026-10-26 |
+| Federal Heights | linkscan | 1 | 1 | 1 | 0 |  | 2026-10-26 |
+| Firestone | civicclerk | 15 | 21 | 21 | 0 |  | 2026-10-26 |
 | Florence | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Fort Collins | civicclerk | 18 | 31 | 31 | 0 |  | 2026-10-26 |
 | Fort Lupton | civicclerk | 18 | 23 | 20 | 3 |  | 2026-10-25 |
 | Fort Morgan | agendacenter | 18 | 18 | 16 | 2 |  | 2026-10-25 |
+| Fountain | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Foxfield | linkscan | 4 | 4 | 4 | 0 |  | 2026-10-26 |
 | Fraser | agendacenter | 17 | 17 | 16 | 1 |  | 2026-10-25 |
+| Frederick | civicclerk | 29 | 49 | 45 | 4 |  | 2026-10-26 |
+| Fremont County | linkscan | 7 | 7 | 7 | 0 |  | 2026-10-26 |
 | Frisco | civicclerk | 9 | 18 | 17 | 1 |  | 2026-10-25 |
 | Fruita | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Garden City | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Gilpin County | linkscan | 9 | 10 | 10 | 0 |  | 2026-10-25 |
+| Glendale | agendacenter | 7 | 7 | 5 | 2 |  | 2026-10-26 |
 | Glenwood Springs | civicclerk | 11 | 14 | 14 | 0 |  | 2026-10-25 |
+| Golden | granicus | 51 | 51 | 40 | 11 |  | 2026-10-26 |
+| Grand County | agendacenter | 23 | 23 | 7 | 16 |  | 2026-10-26 |
+| Grand Junction | civicclerk | 53 | 81 | 72 | 9 |  | 2026-10-26 |
 | Grand Lake | civicclerk | 14 | 21 | 18 | 3 |  | 2026-10-26 |
+| Greeley | civicclerk | 76 | 109 | 109 | 0 |  | 2026-10-26 |
 | Green Mountain Falls | linkscan | 6 | 6 | 6 | 0 |  | 2026-10-26 |
+| Greenwood Village | civicclerk | 24 | 39 | 38 | 1 |  | 2026-10-26 |
 | Grover | agendacenter | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Gunnison County | agendacenter | 21 | 21 | 21 | 0 |  | 2026-10-26 |
 | Gypsum | granicus | 8 | 8 | 8 | 0 |  | 2026-10-25 |
 | Haxtun | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Hayden | agendacenter | 14 | 14 | 9 | 5 |  | 2026-10-25 |
@@ -66,24 +97,39 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Idaho Springs | civicclerk | 17 | 34 | 34 | 0 |  | 2026-10-25 |
 | Ignacio | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Jamestown | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Johnstown | civicclerk | 14 | 23 | 20 | 3 |  | 2026-10-26 |
 | Keenesburg | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Kersey | linkscan | 7 | 7 | 6 | 1 |  | 2026-10-25 |
 | Kiowa | civicclerk | 6 | 6 | 2 | 4 |  | 2026-10-26 |
 | Kit Carson County | granicus | 32 | 32 | 4 | 28 |  | 2026-10-25 |
 | La Junta | civicclerk | 13 | 14 | 14 | 0 |  | 2026-10-25 |
+| Lafayette | linkscan | 10 | 17 | 17 | 0 |  | 2026-10-26 |
 | Lake City | linkscan | 9 | 9 | 9 | 0 |  | 2026-10-26 |
 | Lake County | agendacenter | 43 | 44 | 35 | 9 |  | 2026-10-25 |
+| Lakewood | civicclerk | 9 | 17 | 16 | 1 |  | 2026-10-26 |
 | Limon | linkscan | 2 | 2 | 1 | 1 |  | 2026-10-25 |
 | Lochbuie | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Lone Tree | civicweb | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Longmont | primegov | 82 | 82 | 74 | 8 |  | 2026-10-26 |
+| Louisville | civicclerk | 43 | 95 | 90 | 5 |  | 2026-10-26 |
+| Lyons | agendacenter | 48 | 54 | 52 | 2 |  | 2026-10-26 |
 | Manzanola | linkscan | 3 | 3 | 3 | 0 |  | 2026-10-26 |
+| Mead | civicclerk | 17 | 26 | 23 | 3 |  | 2026-10-26 |
 | Meeker | linkscan | 5 | 6 | 3 | 3 |  | 2026-10-25 |
+| Mesa County | onbase | 24 | 24 | 24 | 0 |  | 2026-10-26 |
 | Milliken | civicclerk | 22 | 47 | 47 | 0 |  | 2026-10-25 |
 | Minturn | civicclerk | 13 | 22 | 17 | 5 |  | 2026-10-25 |
 | Montezuma | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Montezuma County | linkscan | 1 | 3 | 1 | 2 |  | 2026-10-26 |
+| Montrose | civicclerk | 21 | 30 | 30 | 0 |  | 2026-10-26 |
+| Montrose County | granicus | 22 | 22 | 22 | 0 |  | 2026-10-26 |
 | Monument | civicclerk | 17 | 24 | 21 | 3 |  | 2026-10-25 |
+| Morgan County | linkscan | 8 | 23 | 22 | 1 |  | 2026-10-26 |
 | Morrison | agendacenter | 18 | 22 | 14 | 8 |  | 2026-10-26 |
 | Mountain View | legistar | 52 | 52 | 52 | 0 |  | 2026-10-26 |
+| Nederland | civicweb | 11 | 11 | 11 | 0 |  | 2026-10-26 |
 | New Castle | civicclerk | 20 | 28 | 28 | 0 |  | 2026-10-25 |
+| Northglenn | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Norwood | linkscan | 6 | 6 | 6 | 0 |  | 2026-10-26 |
 | Nunn | linkscan | 5 | 5 | 5 | 0 |  | 2026-10-26 |
 | Oak Creek | civicclerk | 6 | 12 | 10 | 2 |  | 2026-10-25 |
@@ -96,10 +142,14 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Palmer Lake | civicclerk | 24 | 37 | 31 | 6 |  | 2026-10-25 |
 | Paonia | civicclerk | 25 | 42 | 37 | 5 |  | 2026-10-25 |
 | Parachute | granicus | 3 | 3 | 3 | 0 |  | 2026-10-25 |
+| Park County | agendacenter | 48 | 51 | 44 | 7 |  | 2026-10-26 |
+| Parker | civicclerk | 30 | 38 | 35 | 3 |  | 2026-10-26 |
 | Phillips County | linkscan | 9 | 9 | 9 | 0 |  | 2026-10-25 |
 | Pitkin | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Platteville | linkscan | 5 | 9 | 4 | 5 |  | 2026-10-25 |
 | Poncha Springs | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
+| Pueblo | civicclerk | 28 | 40 | 37 | 3 |  | 2026-10-26 |
+| Pueblo County | civicclerk | 42 | 104 | 104 | 0 |  | 2026-10-26 |
 | Rangely | linkscan | 6 | 8 | 8 | 0 |  | 2026-10-25 |
 | Red Cliff | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Rico | linkscan | 1 | 2 | 2 | 0 |  | 2026-10-26 |
@@ -107,6 +157,7 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Rifle | civicclerk | 17 | 28 | 23 | 5 |  | 2026-10-25 |
 | Rio Blanco County | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Rockvale | linkscan | 2 | 2 | 0 | 2 |  | 2026-10-26 |
+| Routt County | agendacenter | 32 | 32 | 32 | 0 |  | 2026-10-26 |
 | Rye | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Salida | civicclerk | 12 | 16 | 16 | 0 |  | 2026-10-25 |
 | San Juan County | linkscan | 5 | 5 | 0 | 5 |  | 2026-10-26 |
@@ -120,11 +171,17 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Starkville | civicclerk | 12 | 19 | 18 | 1 |  | 2026-10-26 |
 | Steamboat Springs | onbase | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Sterling | linkscan | 9 | 21 | 16 | 5 |  | 2026-10-25 |
+| Summit County | civicweb | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Superior | civicclerk | 29 | 34 | 34 | 0 |  | 2026-10-26 |
+| Teller County | civicclerk | 18 | 31 | 30 | 1 |  | 2026-10-26 |
+| Thornton | primegov | 36 | 36 | 35 | 1 |  | 2026-10-26 |
 | Timnath | civicweb | 12 | 12 | 12 | 0 |  | 2026-10-25 |
 | Washington County | linkscan | 12 | 12 | 11 | 1 |  | 2026-10-25 |
 | Wellington | civicclerk | 19 | 31 | 29 | 2 |  | 2026-10-25 |
 | Westcliffe | linkscan | 3 | 4 | 0 | 4 |  | 2026-10-26 |
+| Westminster | primegov | 16 | 16 | 16 | 0 |  | 2026-10-26 |
 | Williamsburg | linkscan | 4 | 4 | 1 | 3 |  | 2026-10-26 |
+| Windsor | civicclerk | 41 | 63 | 63 | 0 |  | 2026-10-26 |
 | Winter Park | granicus | 15 | 15 | 15 | 0 |  | 2026-10-25 |
 | Woodland Park | civicclerk | 17 | 22 | 14 | 8 |  | 2026-10-25 |
 | Wray | agendacenter | 0 | 0 | 0 | 0 |  | 2026-10-25 |
@@ -133,14 +190,29 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 
 ## Logs
 
+### Adams County
+```
+  40 meetings in window
+```
+
 ### Akron
 ```
   https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 7 files in window
 ```
 
+### Alamosa County
+```
+  https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 16 files in window
+```
+
 ### Alma
 ```
   http://townofalma.com/meetings/: 0 dated links in window
+```
+
+### Arapahoe County
+```
+  72 events in window
 ```
 
 ### Archuleta County
@@ -153,9 +225,19 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://townofarriba.colorado.gov/town-board-meeting-minutes: 2 dated links in window
 ```
 
+### Arvada
+```
+  52 events in window
+```
+
 ### Aspen
 ```
   38 documents in window
+```
+
+### Aurora
+```
+  https://www.auroratv.org/series/city-council-meetings: 33 dated links in window
 ```
 
 ### Basalt
@@ -183,9 +265,30 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://boone.colorado.gov/agendas-and-minutes: 7 dated links in window
 ```
 
+### Boulder
+```
+  15 meetings in window
+```
+
+### Boulder County
+```
+  19 events with descriptions in window
+```
+
 ### Breckenridge
 ```
   29 events in window
+```
+
+### Brighton
+```
+  12 events in window
+```
+
+### Broomfield
+```
+  https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 36 files in window
+  12 meeting videos with chapters in window
 ```
 
 ### Brush
@@ -213,14 +316,30 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   2 events in window
 ```
 
+### Cañon City
+```
+  https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 66 files in window
+```
+
 ### Castle Pines
 ```
   16 documents in window
 ```
 
+### Centennial
+```
+  search: 167 links, 22 meeting pages
+  22 documents in window from 24 page(s)
+```
+
 ### Center
 ```
   https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes: 0 dated links in window
+```
+
+### Chaffee County
+```
+  44 events in window
 ```
 
 ### Cherry Hills Village
@@ -238,9 +357,19 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 23 files in window
 ```
 
+### Colorado Springs
+```
+  31 events in window
+```
+
 ### Columbine Valley
 ```
   https://columbinevalley.org/board-trustee-agendas-minutes/: 8 dated links in window
+```
+
+### Commerce City
+```
+  109 events in window
 ```
 
 ### Craig
@@ -278,9 +407,19 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 20 files in window
 ```
 
+### Denver
+```
+  141 events in window
+```
+
 ### Dolores
 ```
   https://townofdolores.colorado.gov/government/town-board-meetings: 15 dated links in window
+```
+
+### Douglas County
+```
+  60 events in window
 ```
 
 ### Dove Creek
@@ -313,14 +452,39 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting: 0 dated links in window
 ```
 
+### Erie
+```
+  39 events in window
+```
+
+### Evans
+```
+  https://www.evanscolorado.gov/your-government/city-council/agendas-and-minutes/: 0 dated links in window
+```
+
 ### Fairplay
 ```
   9 events in window
 ```
 
+### Federal Heights
+```
+  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 1 dated links in window
+```
+
+### Firestone
+```
+  15 events in window
+```
+
 ### Florence
 ```
   https://www.cityofflorenceco.gov/: 0 dated links in window
+```
+
+### Fort Collins
+```
+  19 events in window
 ```
 
 ### Fort Lupton
@@ -333,6 +497,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 23 files in window
 ```
 
+### Fountain
+```
+  https://fountain.colorado.gov/government/city-council: 0 dated links in window
+```
+
 ### Foxfield
 ```
   https://townoffoxfield.colorado.gov/node/10166: 4 dated links in window
@@ -341,6 +510,16 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Fraser
 ```
   https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 25 files in window
+```
+
+### Frederick
+```
+  43 events in window
+```
+
+### Fremont County
+```
+  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 13 dated links in window
 ```
 
 ### Frisco
@@ -363,9 +542,29 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 10 dated links in window
 ```
 
+### Glendale
+```
+  https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 9 files in window
+```
+
 ### Glenwood Springs
 ```
   13 events in window
+```
+
+### Golden
+```
+  71 documents in window
+```
+
+### Grand County
+```
+  https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 36 files in window
+```
+
+### Grand Junction
+```
+  60 events in window
 ```
 
 ### Grand Lake
@@ -373,15 +572,30 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   17 events in window
 ```
 
+### Greeley
+```
+  86 events in window
+```
+
 ### Green Mountain Falls
 ```
   https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes: 8 dated links in window
+```
+
+### Greenwood Village
+```
+  55 events in window
 ```
 
 ### Grover
 ```
   https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 0 files in window
   https://www.grover.org/AgendaCenter: 0 files in window
+```
+
+### Gunnison County
+```
+  https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 33 files in window
 ```
 
 ### Gypsum
@@ -444,6 +658,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/: 0 dated links in window
 ```
 
+### Johnstown
+```
+  18 events in window
+```
+
 ### Keenesburg
 ```
   https://www.townofkeenesburg.com/government/agendas_minutes/signed_minutes.php: 0 dated links in window
@@ -469,6 +688,12 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   13 events in window
 ```
 
+### Lafayette
+```
+  https://www.lafayetteco.gov/Archive.aspx?AMID=37: 9 dated links in window
+  https://www.lafayetteco.gov/Archive.aspx?AMID=38: 8 dated links in window
+```
+
 ### Lake City
 ```
   https://www.townoflakecityco.gov/board-of-trustees-meetings: 14 dated links in window
@@ -477,6 +702,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Lake County
 ```
   https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/27/2026&endDate=10/25/2026&dateRange=&dateSelector=: 51 files in window
+```
+
+### Lakewood
+```
+  17 events in window
 ```
 
 ### Limon
@@ -489,14 +719,45 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   0 events in window
 ```
 
+### Lone Tree
+```
+  0 recent meetings in window
+```
+
+### Longmont
+```
+  84 meetings in window
+```
+
+### Louisville
+```
+  60 events in window
+```
+
+### Lyons
+```
+  https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 66 files in window
+```
+
 ### Manzanola
 ```
   https://townofmanzanola.colorado.gov/agendas-meeting-minutes/agendas: 3 dated links in window
 ```
 
+### Mead
+```
+  34 events in window
+```
+
 ### Meeker
 ```
   https://townofmeeker.org/meeting-information/: 14 dated links in window
+```
+
+### Mesa County
+```
+  search: 247 links, 40 meeting pages
+  24 documents in window from 42 page(s)
 ```
 
 ### Milliken
@@ -514,9 +775,29 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://www.townofmontezuma.com/: 0 dated links in window
 ```
 
+### Montezuma County
+```
+  https://montezumacounty.gov/calendarsminutes/boccminutes/: 26 dated links in window
+```
+
+### Montrose
+```
+  29 events in window
+```
+
+### Montrose County
+```
+  30 documents in window
+```
+
 ### Monument
 ```
   17 events in window
+```
+
+### Morgan County
+```
+  https://morgancounty.colorado.gov/elected-officials/commissioners/2026-agendas-and-minutes: 23 dated links in window
 ```
 
 ### Morrison
@@ -529,9 +810,19 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   57 events in window
 ```
 
+### Nederland
+```
+  12 recent meetings in window
+```
+
 ### New Castle
 ```
   24 events in window
+```
+
+### Northglenn
+```
+  https://webdocs.northglenn.org/: 0 dated links in window
 ```
 
 ### Norwood
@@ -594,6 +885,16 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   4 documents in window
 ```
 
+### Park County
+```
+  https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 65 files in window
+```
+
+### Parker
+```
+  39 events in window
+```
+
 ### Phillips County
 ```
   https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas: 9 dated links in window
@@ -612,6 +913,16 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Poncha Springs
 ```
   20 events in window
+```
+
+### Pueblo
+```
+  29 events in window
+```
+
+### Pueblo County
+```
+  77 events in window
 ```
 
 ### Rangely
@@ -647,6 +958,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Rockvale
 ```
   https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents: 2 dated links in window
+```
+
+### Routt County
+```
+  https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 35 files in window
 ```
 
 ### Rye
@@ -715,6 +1031,26 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 22 dated links in window
 ```
 
+### Summit County
+```
+  0 recent meetings in window
+```
+
+### Superior
+```
+  54 events in window
+```
+
+### Teller County
+```
+  19 events in window
+```
+
+### Thornton
+```
+  39 meetings in window
+```
+
 ### Timnath
 ```
   12 recent meetings in window
@@ -735,9 +1071,19 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   https://townofwestcliffe.colorado.gov/town-board-of-trustees-meetings: 8 dated links in window
 ```
 
+### Westminster
+```
+  16 meetings in window
+```
+
 ### Williamsburg
 ```
   https://townofwilliamsburg.colorado.gov/board-agendas: 5 dated links in window
+```
+
+### Windsor
+```
+  47 events in window
 ```
 
 ### Winter Park

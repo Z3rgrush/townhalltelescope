@@ -1,0 +1,1704 @@
+| BOARD OF COUNTY COMMISSIONERS 9:00 A.M |AUGUST 18, 2026 | 
+AMENDMENTS TO THE MORGAN COUNTY ZONING REGULATIONS 
+Addition of Data Center Regulations 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+Data Center 
+ 
+Board of County Commissioners 
+• Amendment Summary 
+• Proposed Zoning Regulation Amendments 
+• City of Brush Comments 
+• Sun & Wind Group, LLC Comments 
+• Notification 
+• Weld County Approved Regulation 
+ 
+Planning Commission 
+• Amendment Summary  
+• Proposed Zoning Regulation Amendments  
+ 
+Work Session 
+• Data Centers Overview 
+• Other Counties/Cities 
+o Logan County, CO 
+o Weld County, CO 
+o Linn County, IA 
+o Cumberland County, PA 
+o City of Cheyenne, WY 
+o Jefferson County, MO 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 4 
+ 
+MORGAN COUNTY BOARD OF COUNTY COMMISSIONERS 
+AMENDMENT SUMMARY 
+August 4, 2026  
+ 
+AMENDMENTS 
+MORGAN COUNTY ZONING REGULATIONS 
+ 
+ 
+Data centers are physical facilities that house IT infrastructure and are considered the backbone of 
+the internet and digital technology. The facilities include networked computers, servers, 
+networking equipment and storage systems. Support facilities include cooling systems, dedicated 
+power supply with possible backup generators and fire suppression systems. 
+ 
+Data center types range from small to large scale. Aside from building and lot size, the types of 
+data centers are similar from the land use perspective.  
+ 
+The Planning Commission held a work session on March 9, 2026 to discuss new supplementary 
+regulations for Data Centers to be added to Chapter 4 of the Zoning Regulations. The Planning 
+Commission then held a public hearing on April 21, 2026 and recommended approval with some 
+changes. 
+ 
+The Board of County Commissioners held a public hearing on May 5, 2026 and continued the 
+hearing to June 16th, June 23rd, July 21st and August 4th to give staff time for requested revisions. 
+ 
+This summary outlines the draft regulations along with the changes recommended by the Planning 
+Commission. Included in the packet are the draft regulations with the changes and the draft 
+regulations the Planning Commission reviewed. The redlines are suggested revisions based on the 
+May 5th and June 23rd meetings. Also included in this packet is an email from Tyler Purvis with 
+the City of Brush and suggested language and information from Richard Miller, a consultant with 
+the Sun & Wind Group, LLC. 
+ 
+Overview of proposed new regulations: 
+ 
+Sec. 4-925 – Definitions.  
+• New definitions for Closed Loop Cooling System, Edge Data Center Facility (Edge 
+DCF), Large Data Center Facility (LDCF), and Project Area. Latest draft removed the 
+general definition of a Data Center Facility. 
+• Definition for an Enterprise Data Center Facility (EDCF) which would be an “accessory 
+data center” 
+ 
+Page 2 of 4 
+ 
+Sec. 4-930 – Submittal Requirements: 
+• These requirements are similar to the County’s Solar, Battery and Wind submittals with 
+the addition of a baseline soils report.  
+o Addition of the Edge Data Center where appropriate 
+o 4-930(B)(4) – new subsection (b) requiring a noise study  with d B(A) and d B(C) 
+measurements and low-frequency and tonal analysis.  
+o 4-930(B)(6) – Narrative and impact analysis: detailed information regarding alternative 
+methods of cooling added. 
+o 4-930(C) – A preliminary Decommissioning Plan is removed from submittal 
+requirements. 
+o 4-930(G) –Baseline soils report will be a pre-construction requirement from June 23rd 
+meeting. 
+o The Planning Commission recommended keeping Emergency Operations Pl an (4-
+930(K)(1-8). 
+∼ Staff does not believe a DCF needs an incident reporting plan, response 
+considerations, or the procedures for dealing with DCF equipment damaged in a 
+fire or other emergency event. Section 4 -930(K)(6-8) in the draft from Planning 
+Commission pertains more to the BESS regulations. 
+∼ Maintenance plan and emergency operations plan removed 
+o 4-930 (I) – Plans for power backup system added 
+o 4-930(K) – Fire District Inclusion not required for Edge DCF 
+ 
+Sec. 4-935-Data Center Standards. 
+• These requirements are similar to the County’s Solar, Battery and Wind.  
+o “Principal” DCF standards changed to be Edge DCF and LDCF Standards 
+o Addition of the Edge Data Center where appropriate 
+o Small/Accessory data centers was removed. 
+∼ The Planning Commission did not see a reason to include specific regulations for 
+small/accessory DCF’s. Not having an accessory DCF may be an issue. The 
+Board may wish to consider an accessory DCF for any non-DCF businesses that 
+might want to add one. Some sample draft regulations for other locations include 
+small data centers with the size based off of water usage or MW design capacity. 
+Added a definition for accessory Data Centers and included in the use table 
+o Setbacks for different data center sizes need to be discussed 
+o Setbacks from public utility power lines or communication lines if no easement is 
+established was set for 70 feet. 
+o Setbacks for parking lots from property lines was removed. 
+o Addition of noise standards: Comply with State Statute and C-scale limit shall be 65 
+dB(C) 
+o Only closed loop cooling systems are permitted. Alternate language is added to 
+include alternate methods 
+ 
+Sec. 4-940-Review Criteria and Process. 
+o This process is the same as the process for any SUP.   The criteria is similar to wind, 
+solar and BESS facilities. 
+o Alternate cooling method proposal shall minimize impacts  
+Page 3 of 4 
+ 
+ 
+Sec. 4-945-Decommissioning Requirements. 
+o Decommissioning being required for equipment or materials stored or located outside 
+for LDCF and Edge DCF outside of the building. 
+o Planning Commission recommended a decommissioning plan for  any hazardous 
+environmental aspects of a DCF. 
+o The definition under federal law for hazardous materia ls (adopted in Colorado) is as 
+follows: 
+ 
+The term “hazardous substance” means (A) any substance designated pursuant to 
+section 311(b)(2)(A) of the Federal Water Pollution Control Act, (B) any element, 
+compound, mixture, solution, or substance designated pursuant to section 9602 of this 
+title, (C) any hazardous waste having the characteristics identified under or listed 
+pursuant to section 3001 of the Solid Waste Disposal Act (but not including any waste 
+the regulation of which under the Solid Waste Disposal Act has been suspended by Act 
+of Congress), (D) any toxic pollutant listed under section 307(a) of the Federal Water 
+Pollution Control Act, (E) any hazardous air pollutant listed under section 112 of the 
+Clean Air Act, and (F) any imminently hazardous chemical substance or mixture with 
+respect to which the Administrator has taken action pursuant to section 7 of the Toxic 
+Substances Control Act. The term does not include petroleum, including crude oil or 
+any fraction thereof which is not otherwise specifi cally listed or designated as a 
+hazardous substance under subparagraphs (A) through (F) of this paragraph, and the 
+term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic 
+gas usable for fuel (or mixtures of natural gas a nd such synthetic gas).  
+42 U.S.C.A. § 9601. 
+ 
+Section 4-945(A)(4) of the draft regulations specifically includes any equipment containing 
+petroleum, crude oil, liquefied natural gas, synthetic gas usable for fuel. 
+o The lifespan of a DCF is unknown. Currently the draft has the decommissioning 
+bond/ letter of credit being made 50% prior to construction and the remaining 
+50% after 12 years. This follows the solar, battery and wind regulations.  
+ 
+Decommissioning plan to address the removal of equipment and materials stored or 
+located outside the building that houses the DCF. Still requiring updates to the plan but 
+no bond is required. 
+ 
+Sec. 4-950 Ownership Changes and 4-955 Approval Time Frame and Abandonment 
+• These sections match the Solar, Battery and Wind regulations 
+ 
+Change to Table – Sec. 3-235 
+• Add Data Center Facility as a Special Use Permit for Ag, Ag/Business, Commercial, 
+Light Industrial and High Industrial. They are not permitted in all other zones. 
+• New dwellings located within 1320’ of a data center will require a special use permit. 
+• More changes might be needed depending on the discussion regarding small and 
+accessory facilities. Changes added to include Enterprise Data Center Facilities as a UBR 
+Page 4 of 4 
+ 
+in Ag, Ag/Business, Commercial, Light Industrial, and High Industrial. They are not 
+permitted in all other zones. What type of permit is needed for Edge DCF? 
+ 
+Sec. 3-630 new subsection (E) 
+• Distances from existing data center facility measurements are from the property line to 
+the proposed building footprint for the dwelling unit. 
+ 
+Changes to Appendix B, Table 2 (Parking Requirements) 
+ 
+ 
+Nicole Hay 
+Morgan County Planning Director 
+Data Centers 
+Draft – 080426 
+ 
+1 
+ 
+DATA CENTER REGULATIONS 
+4-925 Definitions 
+Closed Loop Cooling System: A cooling system that recirculates a coolant (liquid or air)  within 
+a sealed circuit to remove heat from information technology equipment.  
+ 
+Data Center Facility (DCF): A use consisting of buildings or structures specifically designed or 
+modified to house networked computers and data and transaction processing equipment and related 
+infrastructure support equipment, including power and cooling equipment. A DCF may be used to 
+provide data and transaction processing services, outsource information technology services 
+and/or computer equipment colocation services. A DCF may also include buildings or structures 
+that support the operation of the DCF including retrofit building s, warehousing for logistics, 
+independent network buildings, buildings for support staff, and emergency generators.  A DCF 
+shall not include an EDCF or an Edge DCF.  
+ 
+Edge Data Center Facility (Edge DCF ): A data center which is the primary use on a propert y 
+and is no larger than 2,500 square feet or smaller in size. A use consisting of buildings or structures 
+specifically designed or modified to house networked computers and data and transaction 
+processing equipment and related infrastructure support equipment, including power and cooling 
+equipment. An Edge DCF may be used to provide data and transaction processing services, 
+outsource information technology services and/or computer equipment colocation services. A n 
+Edge DCF may also include buildings or structures that support the operation of the Edge DCF 
+including retrofit buildings, warehousing for logistics, independent network buildings, buildings 
+for support staff, and emergency generators.   
+  
+Enterprise Data Center Facility (EDCF):  A data center used by a single organization or business 
+to contain that organization or business’s data processing and storage needs.  
+ 
+Large Data Center Facility (LDCF): A data center which is the primary use on a property and is 
+larger than 2,500 square feet in size. A use consisting of buildings or structures specifically 
+designed or modified to house networked computers and data and transaction processing 
+equipment and related infrastructure support equipment, including power and cooling equipment. 
+A LDCF may be used to provide data and transaction processing services, outsource information 
+technology services and/or computer equipment colocation services. A LDCF may also include 
+buildings or structures that support the operation of the LDCF including retrofit buildings, 
+warehousing for logistics, independent network buildings, buildings for support staff, and 
+emergency generators.   
+ 
+Project Area: The total boundary encompassing all project related activities , structures and 
+improvements including parking, laydown yards, private access roads, and construction zones.  
+ 
+4-930 Submittal Requirements 
+In addition to the submittal requirements of the applicable land use permit, an application for a 
+LDCF or Edge DCF shall include the following: 
+Data Centers 
+Draft – 080426 
+ 
+2 
+ 
+(A) Site Plan/Map. The required map shall include the following in addition to the other 
+requirements of these Zoning Regulations: 
+(1) Location and description of current land use, including agricultural use, dwelling 
+units, microwave communication links and airports. 
+(2)  Clearly identified boundary lines and dimensions of the site where the proposed 
+LDCF or Edge DCF will be located. 
+(3) Project area boundary and approximate size of the  building envelope where the 
+proposed LDCF or Edge DCF will be located.  
+(4) Location of all proposed structures a nd facilities including all accessory buildings 
+and structures. 
+(5) Existing and proposed roads, utility lines and facilities, irrigation ditches, and 
+equipment within the site.  
+(B) Narrative and Impact Analysis. A narrative, in addition to the requirements of the 
+application permit, including: 
+(1) Project description and proposed phasing of development of the LDCF or Edge 
+DCF. 
+(2) A description of the project and each phase of development, including t he 
+infrastructure and interconnection requirements for each phase. 
+(3) Description of potential access route(s), including road surface material, proposed 
+measures for dust control, and proposed road maintenance schedule or program.  
+This shall include information for the construction and operation phases.  
+(4) Impact Analysis.  
+(a)  Except as provided in subsection (4)(b) below, tThe applicant will provide 
+a description of the impacts that the  proposed LDCF or Edge DCF may 
+cause based upon the standards in these Data Center  and Zoning 
+Regulations. This analysis shall include a description of baseline conditions 
+and the impacts that the proposed use may cause , a description of how the 
+applicant will mitigate impacts , and documentation that  applicable 
+standards will be satisfied. The applicant shall also assess the potential 
+effects of the proposed project on County services and capital facilities. In 
+the event that impacts to County services or County capital facilities fr om 
+construction and operation of a LDCF or Edge DCF are identified, the 
+applicant shall develop a plan to maintain County services and County 
+capital facilities. If impacts cannot be fully mitigated, the applicant may be 
+required to pay the County a mutually agreed upon impact fee to allow the 
+County to maintain existing County services and capital facilities. 
+Data Centers 
+Draft – 080426 
+ 
+3 
+ 
+(b) To ensure compliance with applicable noise limitations, applicants for all 
+LDCFs and Edge DCF must submit a noise study and, if necessary t o 
+comply with noise restrictions, a noise mitigation plan.  A noise study must 
+be developed by a qualified sound expert and use computer software -
+based noise projection modeling including dB(A) and dB(C) measurements 
+and a low -frequency and tonal analysis.  The study shall also indicate any 
+significant geographic and/or topographic features that may 
+impact noise propagation from the facility. The noise mitigation plan shall 
+include site -specific design for mitigation measures, including the 
+appropriate best management practices, engineering practices, and available 
+technology that will be utilized to achieve compliance. 
+(5) Fencing. If fencing is proposed, the applicant shall provide a photograph and a  
+description of the type of proposed perimeter fencing of the LDCF or Edge DCF. 
+(6) Alternative Methods of Cooling.  If the applicant is proposing a cooling system 
+which is not a closed loop cooling system, the applicant shall provide detailed 
+information regarding the proposed cooling system, its impact on surrounding 
+properties, water sources (if water is a component of the cooling system), and 
+electric supply.  Information regarding the water source shall include evidence of 
+decreed water rights, water leases from third parties, or other similar information 
+to show an adequate water source.  The applicant shall also provide information 
+from the electricity provider that ample electric resources are available for the 
+proposed cooling system and describing the potential impact of the cooling system 
+on other customers of the electric provider.  
+ (C) Decommissioning Plan. The applicant shall provide a preliminary decommissioning plan 
+in accordance with Sec. 4-495. 
+(CD) Notification to Mineral Rights Holders. Applicant shall notify the individual mineral right 
+holders within the project site in accordance with County and statutory notification 
+requirements. 
+(DE) Septic System. If the proposed LDCF or Edge DCF includes uses that must be served by a 
+septic system, the applicant shall comply with applicable County and State requirements. 
+The applicant must submit a response from regulatory authority over septic systems, that 
+the proposed or existing septic system complies with state law. 
+(EF) Water System. If the proposed LDCF or Edge DCF includes uses that must be served by 
+water, the application shall describe the water source and sufficiency of the water supply 
+for the LDCF or Edge DCF , including decreed or conditional water rights. If a well is 
+required, the applicant shall obtain the necessary permit from the State of Colorado Office 
+of the State Engineer. 
+(FG) Water and/or Wind Erosion Control Plan. The applicant will provide a plan showing 
+existing and proposed grading for the LDCF or Edge DCF site. The drainage and erosion 
+Data Centers 
+Draft – 080426 
+ 
+4 
+ 
+control plan shall be accompanied by a description of practices that will be utilized to 
+prevent erosion and run-off during construction. If there are any modifications to this plan, 
+the applicant will provide a final drainage and erosion control plan prior to commencement 
+of construction. 
+(HG) Baseline Soils Report. The Applicant shall provide written certification that a qualified 
+independent soil testing laboratory will perform pre-construction soil testing to determine 
+baseline soil conditions, with identification of any pre -existing industrial contamination. 
+Soils must be tested on a minimum of two sites for any project area, and a minimum of two 
+sites per 160 acres of project area. 
+(GH) Geotechnical Report. The applicant shall provide written certification that prior to 
+construction, a professional engineer licensed in Colorado will complete a geotechnical  
+study that includes the following: 
+(1) Soils engineering and engineering geologic characteristics of the site based upon 
+on-site sampling and testing. 
+(2) Foundation systems design criteria for all proposed structures. 
+(3) Slope stability analysis. 
+(4) Grading criteria for ground preparation, cuts and fills, and soil compaction. 
+(J) Maintenance Plan. A system and property maintenance plan describing continui ng DCF 
+maintenance and property upkeep during the operation of a DCF. 
+(K) Emergency Operation Plan.   An emergency operation plan including the following:  
+(1) Procedures for safe shutdown, de-energizing, or isolation of equipment and systems 
+under emergency conditions to reduce the risk of fire, electric shock, and personal 
+injuries; and for safe start-up following cessation of emergency conditions.  
+(2) Procedures for inspection and testing of associated alarms, interlocks, and controls.  
+(3) Procedures to be followed in response to notifications from the DCF management 
+system, when provided, that could signify potentially dangerous conditions, 
+including shutting down equipment and/or summoning service and repair 
+personnel.  
+(4) A fire mitigation plan including identification of the nearest water source for fire 
+suppression, written confirmation from the fire district with jurisdiction stating that 
+the site has been evaluated for fire hazards and sufficiently mitigated any identified 
+hazards and providing e mergency notification procedures to the fire district with 
+jurisdiction and other emergency services.  
+(5) Emergency procedures to be followed in case of fire, explosion, release of liquids 
+or vapors, damage to critical moving parts, or other potentially dangerous 
+Data Centers 
+Draft – 080426 
+ 
+5 
+ 
+conditions including evacuating personnel, de -energizing equipment, and 
+controlling and extinguishing the fire.  
+(HI) Backup Power System.  The application shall provide plans for the proposed power backup 
+system and generators, if it is to be located outside the building that houses the LDCF or 
+Edge DCF.  The plans shall include schematic drawings of the proposed backup power 
+system and generators, the type of equipment to be used, emergency plans if the backup 
+power system is damaged or destroyed, and a decommissioning plan for the proposed 
+backup power system.  
+(IJ) Written approval from the public utility that will interconnect with the LDCF or Edge DCF. 
+(JK) Inclusion in Fire District. The applicant shall petition to the closest fire protection district 
+to include, pursuant to Title 32, C.R.S., the property on which the LDCF is proposed. If 
+inclusion is not granted by the fire protection district, the applicant shall enter into an 
+agreement for fire services with the closest fire protection district and the agreement must 
+remain in place for the duration of the project. Fai lure to maintain an agreement for the 
+duration of the project shall constitute a violation of the permit. 
+(JL) Liability Insurance. The applicant shall provide evidence of liability insurance to cover loss 
+or damage to persons and structures during construction and operation of the LDCF or 
+Edge DCF. 
+(KM) Additional Information and Waivers. The County may request additional information that 
+may be required to evaluate the proposed LDCF or Edge DCF. The County may waive or 
+alter any of these minimum requirements if they are determined to be inappropriate or  
+unnecessary to determining if the application satisfied applicable standards. 
+4-935 Data Center Standards 
+(A) General Standards for all DCF 
+ 
+(1) All exterior electrical lines shall be buried below the surface of the ground when 
+possible. 
+(2) All systems shall comply with all applicable building and electrical codes. 
+The property owner shall notify and receive written approval from the public utility it intends to 
+interconnect with as a part of any DCF application. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Centers 
+Draft – 080426 
+ 
+6 
+ 
+ 
+(B) Principal Edge and LDCF Standards 
+ 
+(1) The setbacks in this subsection shall govern over any setbacks established in these 
+Zoning Regulations. 
+ 
+ Minimum Setback 
+Setback from above -ground public utility power 
+lines or communication lines  that are not part of 
+the Edge DCF or LDCF 
+Seventy (70) feet 
+Setback from existing public road or highway or 
+railroad 
+Seventy (70) feet 
+Setback from ROW section line  Seventy (70) feet 
+Edge DCF setback from inhabited buildings 
+including residence, school, hospital, church or 
+public library 
+ 
+For LDCFs (more than 2500 but less than _____), 
+sSetback from inhabited buildings including 
+residence, school, hospital, church or public 
+library 
+ 
+For LDCFs (______ or more but less than  
+______), s etback from inhabited buildings 
+including residence, school, hospital, church or 
+public library 
+ 
+For LDCFs ( _______ or more), s etback from 
+inhabited buildings including residence, school, 
+hospital, church or public library 
+One thousand three hundred 
+twenty (1320) feet 
+Setback from all other property lines Seventy (70) feet 
+ 
+(2) Setback from public utility power lines or communication lines.  This setback shall 
+be measured from the boundaries of the easement for the lines.  If no easement is 
+established, the setback shall be seventy (70) feet from the lines.  
+ 
+(3) Scenic Resources Setback.  LDCF and Edge DCF shall be set back a minimum ¼ 
+mile from any highway, designated to be a scenic highway or roadway by the 
+Morgan County Comprehensive Plan or by the state. A scenic resource protection 
+setback requirement may be reduced if the Board determines that the characteristics 
+of the surrounding property eliminate or  substantially reduce concerns related to 
+scenic value. 
+ 
+Data Centers 
+Draft – 080426 
+ 
+7 
+ 
+(4) Setbacks for accessory buildings or structures. Other  accessory building or 
+structures that are part of the LDCF and Edge DCF shall comply with the required 
+primary building setbacks for the zone district in which the project is located. 
+ 
+(5) Fencing. If fencing is constructed around the LDCF or Edge DCF, the operator shall 
+ensure that the fence and adjacent areas are kept free of l itter, tumbleweeds and 
+other debris which may result in a potential fire hazard. 
+ 
+(6) Septic System. The proposed septic system for the LDCF or Edge DCF complies 
+with applicable County requirements. 
+ 
+(7) Water Supply System. If applicable, the DCF LDCF or Edge DCF has 
+demonstrated access to a water supply. 
+ 
+(8) Noise. Operation of a LDCF or Edge DCF  shall not significantly increase existing 
+noise at surrounding properties.  The LDCF or Edge DCF  shall comply with the 
+statutory provisions for maximum permissible noise levels for the industrial zone in 
+C.R.S. § 25-12-103, as may be amended. The C-scale noise limit shall be 65 dB(C) 
+as measured at any point on the subject property boundary. 
+ 
+(7)(9) Cooling system.  Only A closed loop cooling systems isare the  permittedpreferred 
+cooling system for a LDCF or EDGE DCF  in the County .  An applicant may 
+propose an alternative method of cooling based on advancements in technology and 
+best practices in the industry.  If the applicant proposes an alternative cooling 
+system, the alternative method proposal shall address potential impacts to 
+surrounding properties, water supply (if water is used in continuous manner for the 
+cooling system, and electric supply.  Alternative methods will be evaluated in 
+accordance with the criteria in ___________. 
+ 
+(8)(10) Roadways and Access. 
+   
+(a) Legal access to public right -of-way to and from the LDCF or Edge DCF  
+shall be safe and in conformance with access permit requirements of the 
+County. 
+ 
+(b) All reasonable efforts must be made to reduce traffic congestion during 
+operations and unsafe traffic conditions during the construction phase or 
+operations. 
+ 
+(c) Adequate turning radii shall be installed at all entrances to accommodate 
+large truck movement. 
+ 
+(d) Off-street parking and loading zones shall be surfaced  with gravel or the 
+equivalent and shall be graded to prevent drainage problems. 
+ 
+Data Centers 
+Draft – 080426 
+ 
+8 
+ 
+(e) Staging activities and parking of equipment and vehicles shall occur on-site 
+and on private rights-of-way and shall be prohibited on maintained County 
+roads. 
+ 
+(f) The use of any County roads during construction shall be in accordance with 
+and in compliance of Federal, State, County and local regulations governing 
+such activities. 
+ 
+(g) Road Agreement. If any County roads will be used during construction of a 
+LDCF or Edge DCF for the purpose of transporting parts, materials and/or 
+equipment, the operator shall enter into a road agreement with the County, 
+in a form provided by the County. The road agreement shall also include 
+the following at a minimum: 
+ 
+(1) A map showing which County roads  will be used during 
+construction. 
+ 
+(2) A pre -construction baseline survey of County roads to be used 
+during construction to document their pre-construction condition. 
+ 
+(3) The operator is responsible for obtaining and paying for the costs of 
+the baseline survey. The Board, when considering approval of the 
+road use agreement, may delay the submission of the baseline 
+survey prior to issuance of a construction permit for the LDCF or 
+Edge DCF. If delayed, no construction permit may be issued until 
+the survey is submitted and approved in writing by the Planning and 
+Public Works Departments. 
+ 
+(4) A mitigation plan to address traffic congestion and potential impacts 
+to County roads to be used during construction.  
+ 
+(5) A requirement that the operator make repairs to any roads dur ing 
+construction and return any County roads to their pre -construction 
+baseline condition, at its expense. A performance guarantee will be 
+required to ensure the restoration of the roads. 
+ 
+(13) Erosion and Sedimentation Control. Erosion and sedimentation control measures 
+that ensure that disturbed areas and soil stockpiles are stabilized during construction 
+shall be implemented. Disturbed areas shall be revegetated in accordance with 
+landowner agreements. 
+ 
+(14) Drainage/Storm-Water Run -Off. Run -off shall be managed in accordance with 
+applicable County, State and Federal regulations. If applicable, the applicant shall 
+obtain a Construction Stormwater Discharge Permit from the Colorado Department 
+of Public Health and the Environment, Water Quality Control Division. 
+ 
+Data Centers 
+Draft – 080426 
+ 
+9 
+ 
+(15) Fire Protection. The LDCF or Edge DCF  shall have adequate fire control and 
+prevention measures. 
+ 
+(16) Dust or Noise. Construction and operation of the LDCF shall not significantly 
+increase existing glare, dust, or noise at surrounding properties. 
+ 
+(a) The LDCF or Edge DCF  shall comply with the statutory provisions for 
+maximum permissible noise levels for the light industrial zoning zone in 
+C.R.S. § 25-12-103, as may be amended. 
+ 
+(b) Fugitive dust and particulate emissions shall be controlled on the site. 
+ 
+(c) Waste materials shall be handled, stored, and disposed of in a manner that 
+controls fugitive dust, fugitive particulate conditions, blowing debris and 
+other potential nuisance conditions. 
+ 
+(17) Lighting.  All lighting must be downcast and shielded. No lighting shall trespass 
+onto adjacent property.  
+4-940 Review Criteria and Process  
+(A) In addition to any review criteria imposed by the Zoning Regulations for the applicable 
+permit, the County shall consider whether the application complies with the requirements 
+of these DCF Data Center Regulations. 
+ 
+(A)(B) If the applicant proposes an alternative cooling system, the alternative  method proposal 
+shall minimize impacts  to surrounding properties, water supply (if water is used in a 
+continuous manner for the cooling system), and electric supply.   
+ 
+(B)(C) All applications under these DCF Data Center Regulations shall be processed pursuant to 
+the procedures applicable to the type of permit required. 
+4-945 Decommissioning Requirements 
+(A) General Requirements.  
+(1) The operator shall provide a final decommissioning plan in accordance with this 
+Section as a part of the submission of any construction permit application related 
+to the approved land use permit or earlier if required by the County.  
+(2) The decommissioning plan shall address the removal of all generators, fuel storage 
+tanks, transformers, batteries, cooling systems, any equipment containing 
+petroleum, crude oil, liquefied natural gas, synthetic gas usable for fuel, 
+environmental hazards, and hazardous materials that are stored or located outside 
+the building that houses the LDCF or Edge DCF.  
+Data Centers 
+Draft – 080426 
+ 
+10 
+ 
+(32) If a LDCF or Edge DCF ceases to perform its originally intended function for more 
+than twelve (12) consecutive months, the operator and/or property owner shall 
+initiate the decommissioning of the DCFplan within sixty (60) calendar days after 
+the end of the twelve (12) month period during which the LDCF or Edge DCF  
+ceased to perform and remove the system, foundation and associated equipment 
+and facilities by no later than twelve (12) months after the end of the initial twelve 
+(12) month period.  
+(43) If the operator notifies the County of the termination of operations, 
+decommissioning shall be initiated within sixty (60) calendar days of the written 
+notification and completed within twelve (12) months from the date of the notice. 
+(45) Upon completion of decommissioning activities to remove all  generators, fuel 
+storage tanks, transformers, batteries, cooling systems,  any equipment containing 
+petroleum, crude oil, liquefied natural gas, synthetic gas usable for fuel, 
+environmental hazards, and hazardous materials the  property site where the 
+decommissioning occurred shall be restored to a condition that eliminates 
+contamination that would prohibit future use or as expressly agreed to in writing by 
+the County Planning Department and property owner.  
+(56) The operator shall update the decommissioning plan every three (3) years and 
+provide a copy of the updated plan to the County Planning Department. If there are 
+no updates to the plan, the operator shall notify in writing the County instead of 
+submitting an updated plan. However, the operator must submit an updated plan 
+every six (6) years. The amount of surety, described below in subsection C, for 
+decommissioning shall be reevaluated and if necessary, due to increased 
+decommissioning costs, a new surety or additional surety in the required amount 
+must be submitted with any updated decommissioning plan.  
+(B) Decommissioning Plan. The decommissioning plan shall include:  
+(1) Contact information for all parties involved (e.g., landowner, developer, utilities, 
+etc.);  
+(2) Inventory of on- site infrastructure and equipment , including generators, fuel 
+storage tanks, transformers, batteries, cooling systems, and hazardous materials that 
+would be subject to the decommissioning plan;  
+(3) A detailed plan for the removal  and lawful disposal or recycling  of all equipment 
+and materials from the site, including those below the soil surface to depths agreed 
+to in landowner agreements or down twenty-four (24) inches;  
+(4) Methods for remediation of any soil, groundwater, or surface water contamination; 
+(5) Restoration of the site  where the decommissioning occurs  to a condition suitable 
+for future permitted use; 
+Data Centers 
+Draft – 080426 
+ 
+11 
+ 
+(6) A cost estimate for the decommissioning prepared by a professional engineer or 
+contractor with expertise in related decommissioning projects; and  
+(7) Roles and responsibilities of each party involved in the decommissioning.  
+(C) Decommissioning Bond or Letter of Credit. The decommissioning cost of the system, 
+foundation, and associated equipment and facilities, shall be made by cash, surety bond, or 
+irrevocable letter of credit at fifty (50) percent before construction commences and the 
+remaining fifty (50) percent prior to the twelfth anniversary of the commencement of 
+construction of the system.  
+(D) If decommissioning does not proceed in accordance with the decommissioning plan, the 
+County shall have the right, but not the requirement, to enter the property and cause the 
+appropriate abandonment and decommissioning measures as determined by the approved 
+decommissioning plan. 
+4-950 Ownership Changes 
+If the owner or operator of a LDCF or Edge DCF changes or the owner of the property changes, 
+the use permit shall remain in effect, provided that the successor owner or operator assumes in 
+writing all of the obligations of the use permit and decommissioning plan. A new owner or operator 
+of the LDCF or Edge DCF shall notify the County Planning Department and the Board in writing 
+of such change in ownership or operator within thirty (30) days of the change. The use permit and 
+all other local approvals for the LDCF or Edge DCF  will be voided if a new owner or oper ator 
+fails to provide written notification as provided herein in the required timeframe. Reinstatement of 
+a void use permit will be subject to the same review and approval processes for new applications.  
+4-955 Approval Time Frame and Abandonment 
+The use permit for a LDCF or Edge DCF shall be valid for a period of three (3) years from the 
+date of approval. The operator may seek an extension of the approval period from the appropriate 
+decision-making authority by demonstrating a need for an extension and filing an application with 
+the County Planning Department. Each renewal application shall be accompanied by the 
+appropriate fee, as established by the Board. Requested renewals may be in one (1) year, two (2) 
+year, or three (3) year terms. However, no extensions shall extend the approval period beyond six 
+(6) years from the date of the original approval of the use permit. If the operator fails to achieve 
+substantial construction and installation of the LDCF or Edge DCF  within the approved period, 
+including any extensions, the approval shall expire and a new application shall be required. The 
+applicant shall be responsible for applying for and obtaining any necessary extensions for any 
+building permit issued for the LDCF or Edge DCF. 
+ 
+ 
+ 
+ 
+Data Centers 
+Draft – 080426 
+ 
+12 
+ 
+_____________________________________________________________________________ 
+Changes to Table - Sec. 3-235 
+Uses Zone District Regulation Reference 
+ A 20> A 20< A/B ER RR RCR MDR HDR C LI HI MH  
+PRIMARY USES 
+Large Data 
+Center Facility  SU SU SU NP NP NP NP NP SU SU SU NP 
+4-925 
+through 4-
+955 
+Edge DCF             
+4-925 
+through 4-
+955 
+Dwelling 
+units located 
+less than one 
+thousand 
+three hundred 
+twenty 
+(1320) feet 
+from an DCF.  
+SU SU SU SU SU SU SU SU SU SU SU SU 3-630(E) 
+Uses Zone District Regulation Reference 
+ A 20> A 20< A/B ER RR RCR MDR HDR C LI HI MH  
+ACCESSORY USES 
+Enterprise 
+Data Center 
+Facility  
+UBR  UBR UBR NP NP NP NP NP UBR UBR UBR NP  
+ 
+Change to Sec. 3-630 – new subsection E: 
+Distances from an existing LDCF or Edge DCF shall be from the  property line where the LDCF 
+or Edge DCF is located and the proposed building footprint for the dwelling unit.  
+Changes to Appendix B, Table 2 (Parking Requirements) 
+Add to Industrial  
+(3) Principal LDCF or Edge DCF – Sufficient parking for all employees must be within the 
+property boundary. County roads may not be used for LDCF or Edge DCF parking.  
+
+
+
+
+
+
+
+
+
+ 
+NOTICE OF PUBLIC HEARING 
+MORGAN COUNTY BOARD OF COMMISSIONERS 
+MAY 5th, 2026 AT 9:00 A.M. 
+VIRTUAL AND IN PERSON IN THE ASSEMBLY ROOM, MORGAN COUNTY 
+ADMINISTRATIVE BUILDING, 231 ENSIGN ST., FORT MORGAN, 
+COLORADO 
+ 
+Notice is hereby given that on the date and time above (or as soon as possible following 
+the scheduled time) and at the location above, or at such time and place as this hearing 
+may be adjourned, the Morgan County Board of Commissioners  will conduct  public 
+hearings on the following proposed Amendment to the Morg an County Zoning  
+Regulations: 
+  
+ 
+1. A public hearing to consider amendments to the Zoning Regulations concerning 
+amendments related to data centers. 
+ 
+THE COUNTY WILL CONTINUE TO OFFER THE OPTION TO ATTEND 
+MEETINGS REMOTELY . IF YOU HAVE ANY QUESTI ONS REGARDING 
+ATTENDING THE MEETING, PLEASE CONTACT THE PLANNING OFFICES AT 
+970-542-3526. 
+ 
+To participate remotely you may connect via Zoom at:  
+https://us02web.zoom.us/j/82749292527 
+Join via audio: 
++1 719 359 4580 US 
+Webinar ID: 827 4929 2527 
+ 
+Documents pertaining to the above identified matters are on file in the Planning Administrator’s 
+Office, 231 Ensign St., Fort Morgan, Colorado. Documents will also be available 24 hours prior on 
+the Morgan County Website https://morgancounty.colorado.gov. 
+ 
+At the time of the meeting an opportunity will be given for presentation of evidence in support of 
+or in opposition to the zoning amendments. 
+ 
+      Nicole Hay     
+      Nicole Hay 
+      Morgan County Planning Administrator 
+ 
+Published: April 16, 2026 
+Posted to Website: April 21, 2026 
+ 
+For special assistance for the mentioned hearing, please notify us at least 48 hours before the 
+scheduled agenda item. Please call (970) 542-3526 to request any ADA accommodations. 
+2026-0765 
+ORD2026-01 
+Weld County Code Ordinance 2026-01 
+In the Matter of Repealing and Reenacting, with Amendments, Chapter 23 Zoning 
+of the Weld County Code 
+Be it ordained by the Board of County Commissioners of the County of Weld, State 
+of Colorado: 
+Whereas, the Board of County Commissioners of Weld County, Colorado, pursuant to 
+Colorado statute and the Weld County Home Rule Charter, is vested with the authority of 
+administering the affairs of Weld County, Colorado, and 
+Whereas, the Board of County Commissioners, on December 28, 2000, adopted Weld  
+County Code Ordinance 2000-1, enacting a comprehensive Code for the County of Weld, 
+including the codification of all previously adopted ordinances of a general and permanent 
+nature enacted on or before said date of adoption, and 
+Whereas, the Weld County Code is in need of revision and clarification with regard to 
+procedures, terms, and requirements therein. 
+Now, therefore, be it ordained by the Board of County Commissioners of the County of 
+Weld, State of Colorado, that Chapter 23 Zoning of the Weld County Code be, and hereby 
+is, repealed and re-enacted, with amendments, to read as follows. 
+Chapter 23 
+Zoning 
+ARTICLE I - General Provisions 
+Amend Sec. 23-1-90. – Definitions, as follows: 
+[Change all italicized terms throughout this section to non-italics.] 
+The following specific words and phrases, when appearing in this Chapter in 
+uppercase letters, shall have the meanings stated in this Section: 
+DATA CENTER: A BUILDING or BUILDINGS used to house information technology 
+or telecommunications equipment with which digital information is processed, transferred, 
+and/or stored, with no limitation on its peak electrical load. A DATA CENTER may include 
+associated ancillary STRUCTURES, including , but not limited to, OFFICES, security 
+BUILDINGS, cooling water tanks, and backup power systems with a total generation 
+capacity of less than fifty (50) megawatts. 
+All other definitions remain unchanged. 
+ARTICLE II - Procedures and Permits  
+Division 3 - Site Plan Review  
+Final Reading 
+Page 2 
+2026-0765 
+ORD2026-01 
+Amend Sec. 23-2-160. - Application requirements for site plan review.  
+Any person wanting to apply for a Site Plan Review shall arrange for a preapplication 
+conference with the Department of Planning Services. The purpose of the application is 
+to give the applicant an opportunity to demonstrate, through written and graphic 
+information, how the proposal complies with the standards of this Chapter. The following 
+supporting documents shall be submitted as a part of the application: 
+A. through E. - No change. 
+F. Evidence of water in compliance with the requirements of C.R.S. 29-20-301, et seq. 
+G. - No change. 
+H. A “will serve” letter from the electricity provider serving the area where the property 
+is located.  
+I. though T. - No change. 
+U. A statement explaining that the USE is compatible with the existing or future 
+DEVELOPMENT of the surrounding areas as permitted by the existing zoning and 
+with the future DEVELOPMENT of the area as projected by the Comprehensive Plan 
+or MASTER PLAN of affected municipalities and any Intergovernmental Agreement. 
+Such USE shall adhere to the following operation standards, to the extent that they 
+are affected by location, layout, and design prior to construction and operation. Once 
+operational, the operation shall conform to the standards listed below: 
+1. Noise. USES shall be located, designed,  and operated in accordance with the 
+noise standards as established in Chapter 14, Article IX, of this code. In addition 
+to the dB(A) noise limits in Section 14-9-40 of this code, no DATA CENTER shall 
+be allowed to exceed a C -scale noise limit of sixty -five decibels (65 dB(C)) as 
+measured at any point on the subject property boundary. 
+Remainder of Section – No change. 
+Division 4 - Uses by Special Review 
+Amend Sec. 23-2-240. - Design standards. 
+A. An applicant for a Use by Special Review shall demonstrate compliance with the 
+following design standards in the application and shall continue to meet these 
+standards if approved for DEVELOPMENT. 
+1. Water in compliance with the requirements of C.R.S. 29-20-301, et seq. 
+Final Reading 
+Page 3 
+2026-0765 
+ORD2026-01 
+Remainder of Section – No change. 
+Amend Sec. 23-2-250. - Operation standards. 
+An applicant for a Special Review Permit shall demonstrate conformance with the 
+following operation standards in the Special Review Permit application to the extent that 
+the standards affect location, layout and design of the Use by Special Review prior to  
+construction and operation. Once operational, the operation of the USES permitted shall 
+conform to these standards. 
+A. The operation of the USES shall comply with the noise standards enumerated in 
+Chapter 14, Article IX, of this code. In addition to the dB(A) noise limits in Section 14-
+9-40 of this code, no DATA CENTER shall be allowed to exceed a C-scale noise limit 
+of sixty-five decibels (65 dB(C)) as measured at any point on the subject property 
+boundary. 
+Remainder of Section – No change. 
+Amend Sec. 23-2-260. - Application requirements. 
+A. through D. - No change. 
+E. Supporting Documents. The following supporting documents shall be submitted as 
+part of the application: 
+1. - No change.  
+2. Proof of water in compliance with the requirements of C.R.S. 29-20-301, et seq. 
+3. - No change. 
+4. A noise mitigation plan indicating anticipated noise levels and proposed 
+mitigation may be required sufficient to demonstrate the proposed USE will 
+comply with the applicable noise limits. 
+5. and 6. - No change. Insert new 7. 
+7. A “will serve” letter from the electricity provider serving the area where the 
+property is located. 
+Remainder of Section – No change. 
+ARTICLE III - Zone Districts 
+Division 4 - Industrial Zone Districts 
+Final Reading 
+Page 4 
+2026-0765 
+ORD2026-01 
+Amend Sec. 23-3-310. - I-1 (Light Industrial) Zone District. 
+A. through E., no change. 
+F. Uses by Special Review. The following BUILDINGS, STRUCTURES and USES may 
+be constructed, occupied, operated and maintained in the I -1 Zone District upon 
+approval of a permit in accordance with the requirements of Article II, Division 4 of 
+this Chapter.  
+1. through 4. - No change. Insert new 5. 
+5. DATA CENTERS. 
+Renumber remainder of section as necessary. 
+Amend Sec. 23-3-320. - I-2 (Medium Industrial) Zone District. 
+A. and B. - No change. 
+C. Uses allowed subject to Site Plan Review. The following USES shall be allowed in the 
+I-2 Zone District following approval and recording of a Site Plan in accordance with 
+Article II, Division 3, of this Chapter. Any USE conducted outside of an ENCLOSED 
+BUILDING shall be SCREENED from adjacent PUBLIC RIGHTS -OF-WAY and 
+ADJACENT LOTS in any Zone District other than I-3.  
+1. through 8., no change. Insert new 9. 
+9. DATA CENTERS. 
+Renumber as necessary. No other changes to this section. 
+Amend Sec. 23-3-330. - I-3 (Heavy Industrial) Zone District. 
+A. and B., no change. 
+C. Uses allowed subject to Site Plan Review. The following USES shall be allowed in the 
+I-3 Zone District following approval and recording of a Site Plan in accordance with 
+Article II, Division 3, of this Chapter. 
+1. through 11. - No change. Insert new 12. 
+12. DATA CENTERS. 
+Renumber as necessary. No other changes. 
+Final Reading 
+Page 5 
+2026-0765 
+ORD2026-01 
+Be it further ordained by the Board that the Clerk to the Board be, and hereby is, directed 
+to arrange for Municode to supplement the Weld County Code with the amendments 
+contained herein, to coincide with chapters, articles, divisions, sections, and subsections 
+as they currentl y exist within said Code; and to resolve any inconsistencies regarding 
+capitalization, grammar, and numbering or placement of chapters, articles, divisions, 
+sections, and subsections in said Code. 
+Be it further ordained by the Board, if any section, subsection, paragraph, sentence, 
+clause, or phrase of this Ordinance is for any reason held or decided to be 
+unconstitutional, such decision shall not affect the validity of the remaining portions 
+hereof. The Board of County Commissioners hereby declares that it would have enacted 
+this Ordinance in each and every section, subsection, paragraph, sentence, clause, and 
+phrase thereof irrespective of the fact that any one or more sections, subsections, 
+paragraphs, sentences, clauses, or phrases might be declared to be unconstitutional or 
+invalid. 
+Publication: January 14, 2026 
+First Reading: January 26, 2026 
+Publication: January 30, 2026, in the Greeley Tribune 
+Second Reading: February 9, 2026 
+Publication: February 13, 2026, in the Greeley Tribune 
+Final Reading Rescheduled to: February 25, 2026 
+Continued to: April 6, 2026 
+Publication: April 10, 2026, in the Greeley Tribune 
+Effective: April 15, 2026 
+The Board of County Commissioners of Weld County, Colorado, adopted the above 
+and foregoing Ordinance, on motion duly made and seconded, by the following vote on 
+the 6th day of April, A.D., 2026: 
+Scott K. James, Chair: Nay 
+Jason S. Maxey, Pro-Tem: Aye 
+Perry L. Buck: Aye 
+Lynette Peppler: Aye 
+Kevin D. Ross: Aye 
+Approved as to Form: 
+Bruce Barker, County Attorney 
+Attest: 
+Esther E. Gesick, Clerk to the Board 
+ 
+ 
+ 
+ 
+Page 1 of 2 
+ 
+MORGAN COUNTY PLANNING COMMISSION 
+AMENDMENT SUMMARY 
+April 13, 2026  
+ 
+AMENDMENTS 
+MORGAN COUNTY ZONING REGULATIONS 
+ 
+ 
+Data centers are physical facilities that house IT infrastructure and are considered the backbone 
+of the internet and digital technology. The facilities include networked computers, servers, 
+networking equipment and storage systems. Support facilities include cooling systems, dedicated 
+power supply with possible backup generators and fire suppression systems. 
+ 
+Data center types range from small to large scale. Aside from building and lot size, the types of 
+data centers are similar from the land use perspective.  
+ 
+The Planning Commission held a work session on March 9, 2026 to discuss new supplementary 
+regulations for Data Centers to be added to Chapter 4 of the Zoning Regulations.  
+ 
+Included with this summary are the draft regulations as outlined below. There are items 
+highlights in the draft regulations requiring discussion. 
+ 
+Overview of proposed new regulations: 
+ 
+Sec. 4-925 – Definitions.  
+• New definitions for Closed Loop Cooling System, Data Center Facility, and Project Area 
+ 
+Sec. 4-930 – Submittal Requirements: 
+• These requirements are similar to the County’s Solar, Battery and Wind submittals with 
+the addition of a baseline soils report. A few items for discussion include: 
+o Decommissioning Plan-Is this necessary for data centers? 
+o Emergency Operations Plan-Do the requirements match a data center? 
+ The building will be equipped with sprinklers; how should the fire 
+mitigation plan be addressed? 
+ Is an incident reporting plan necessary? 
+ What is the County’s concern with the procedures for dealing with 
+equipment damage? 
+ 
+ 
+ 
+Page 2 of 2 
+ 
+Sec. 4-935-Data Center Standards. 
+• These requirements are similar to the County’s Solar, Battery and Wind. A few items for 
+discussion include: 
+o Consideration of small/accessory data centers 
+o Setbacks from public utility power lines or communication lines if no easement is 
+established 
+o Should parking lots be setback from property lines and how far? 
+o Type of cooling system 
+ 
+Sec. 4-940-Review Criteria and Process. 
+ 
+Sec. 4-945-Decommissioning Requirements. 
+• Requirements depend on if the plan is necessary 
+ 
+Sec. 4-950 Ownership Changes and 4-955 Approval Time Frame and Abandonment 
+• These sections match the Solar, Battery and Wind regulations 
+ 
+Change to Table – Sec. 3-235 
+• Add Data Center Facility as a Special Use Permit for Ag, Ag/Business, Commercial, 
+Light Industrial and High Industrial. They are not permitted in all other zones. 
+• New dwellings located within 1320’ of a data center will require a special use permit. 
+• More changes might be needed depending on the discussion regarding small and 
+accessory facilities. 
+ 
+Sec. 3-630 new subsection (E) 
+• Distances from existing data center facility measurements 
+ 
+Changes to Appendix B, Table 2 (Parking Requirements) 
+ 
+ 
+Nicole Hay 
+Morgan County Planning Director 
+Data Centers 
+Draft - 040726 
+1 
+ 
+DATA CENTER REGULATIONS 
+4-925 Definitions 
+Closed Loop Cooling System: A cooling system that recirculates a coolant (liquid or air) within a sealed 
+circuit to remove heat from information technology equipment.  
+ 
+Data Center Facility (DCF): A use consisting of buildings or structures specifically designed or modified 
+to house networked computers and data and transaction processing equipment and related infrastructure 
+support equipment, including power and cooling equipment. A DCF may be use d to provide data and 
+transaction processing services, outsource information technology services and/or computer equipment 
+colocation services. A DCF may also include buildings or structures that support the operation of the DCF 
+including retrofit buildings, warehousing for logistics, independent network buildings, buildings for support 
+staff, and emergency generators.  
+ 
+Project Area: The total boundary encompassing all project related activities including laydown yards, 
+access roads, and construction zones.  
+ 
+4-930 Submittal Requirements 
+In addition to the submittal requirements of the applicable land use permit, an application for a  DCF shall 
+include the following: 
+(A) Site Plan/Map. The required map shall include the following in addition to the other requirements 
+of these Zoning Regulations: 
+(1) Location and description of current land use, including agricultural use, dwelling  units, 
+microwave communication links and airports. 
+(2)  Clearly identified boundary lines and dimensions of the site where the proposed DCF will 
+be located. 
+(3) Project area boundary and approximate size of the site where the proposed DCF  will be 
+located, in acres or square feet.  
+(4) Location of all proposed structures a nd facilities including  all accessory buildings and 
+structures. 
+(5) Existing and proposed roads, utility lines and facilities, irrigation ditches, and equipment 
+within the site.  
+(B) Narrative and Impact Analysis. A narrative, in addition to the requirements of the application 
+permit, including: 
+(1) Project description and proposed phasing of development of the DCF. 
+(2) A description of the project and each phase of development, including the infrastructure 
+and interconnection requirements for each phase. 
+(3) Description of potential access route(s), includin g road surface material, proposed  
+measures for dust control, and proposed road maintenance schedule or program.  This shall 
+include information for the construction and operation phases.  
+Data Centers 
+Draft - 040726 
+2 
+ 
+(4) Impact Analysis. The applicant will provide a description of the impacts that the proposed 
+DCF may cause based upon the standards in these Data Center  and Zoning Regulations. 
+This analysis shall includ e a description of baseline conditions and the impacts that the 
+proposed use may cause , a description of how the applic ant will mitigate impacts , and 
+documentation that applicable standards will be satisfied. The applicant shall also assess 
+the potential effects of the proposed project on County services and capital facilities. In the 
+event that impacts to County services or County capital facilities from construction and 
+operation of a DCF are identified, the applicant shall develop  a plan to maintain County 
+services and County capital facilities. If impacts cannot  be fully mitigated, the applicant 
+may be required to pay the County a mutually agreed upon impact fee to allow the County 
+to maintain existing County services and capital facilities. 
+(5) Fencing. If fencing is proposed, the applicant shall provide a photograph and a description 
+of the type of proposed perimeter fencing of the DCF. 
+(C) Decommissioning Plan . The applicant shall provide a preliminary decommissioning plan in 
+accordance with Sec. __________ 
+(D) Notification to Mineral Rights Holders. Applicant shall notify the individual mineral right holders 
+within the project site in accordance with County and statutory notification requirements. 
+(E) Septic System. If the proposed DCF  includes uses that must be served by  a septic system, the 
+applicant shall comply with applicable County and State requirements. The applicant must submit 
+a response from regulatory authority over septic systems, that the proposed or existing septic system 
+complies with state law. 
+(F) Water System. If the proposed DCF includes uses that must be served by water, the application 
+shall describe the water source and sufficiency of the water supply for the DCF, including decreed 
+or conditional water rights. If a well is required, the applicant shall obtain the necessary permit 
+from the State of Colorado Office of the State Engineer. 
+(G) Water and/or Wind Erosion Control Plan. The applicant will provide a plan showing  existing and 
+proposed grading for the DCF site. The drainage and erosion control plan shall be accompanied by 
+a description of practices that will be utilized to prevent erosion and run-off during construction. If 
+there are any modifications to this plan, the  applicant will provide a final drainage and erosion 
+control plan prior to commencement of construction. 
+(H) Baseline Soils Report. The Applicant shall provide written certification that a qualified independent 
+soil testing laboratory will perform pre -construction soil testing to determine baseline soil 
+conditions, with identification of any pre-existing industrial contamination. Soils must be tested on 
+a minimum of two sites for any project area, and a minimum of two sites per 160 acres of project 
+area. 
+(I) Geotechnical Report. The applicant shall provide written certification that prior to  construction, a 
+professional engineer licensed in Colorado will complete a geotec hnical study that includes the 
+following: 
+(1) Soils engineering and engineering geologic characteristics of the site based upon on-site 
+sampling and testing. 
+(2) Foundation systems design criteria for all proposed structures. 
+Data Centers 
+Draft - 040726 
+3 
+ 
+(3) Slope stability analysis. 
+(4) Grading criteria for ground preparation, cuts and fills, and soil compaction. 
+(J) Maintenance Plan. A system and property maintenance plan describing continuing DCF  
+maintenance and property upkeep during the operation of DCF. 
+(K) Emergency Operation Plan.   An emergency operation plan including the following:  
+(1) Procedures for safe shutdown, de-energizing, or isolation of equipment and systems under 
+emergency conditions to reduce the risk of fire, electric shock, and personal injuries; and 
+for safe start-up following cessation of emergency conditions.  
+(2) Procedures for inspection and testing of associated alarms, interlocks, and controls.  
+(3) Procedures to be followed in response to notifications from the DCF management system, 
+when provided, that c ould signify potentially dangerous conditions, including shutting 
+down equipment and/or summoning service and repair personnel.  
+(4) A fire mitigation plan  including identification of the nearest water source for fire 
+suppression, written confirmation from the fire district with jurisdiction stating that the site 
+has been evaluated for fire hazards and sufficiently mitigated any identified hazards and 
+providing emergency notification procedures to the fire district with jurisdiction and other 
+emergency services.  
+(5) Emergency procedures to be followed in case of fire, explosion, release of liquids or 
+vapors, damage to critical moving parts, or other potentially dangerous conditions 
+including evacuating personnel, de -energizing equipment, and controlling and  
+extinguishing the fire.  
+(6) An incident reporting plan compliant with the standards in Sec. _________  
+(7) Response considerations similar to a safety data sheet (SDS) that will address hazard 
+communication standards, response to safety concerns and protective measures or safety 
+precautions when an SDS is not required.  
+(8) Procedures for dealing with DCF equipment damaged in a fire or other emergency event, 
+including maintaining contact information for qualified personnel to safely remove 
+damaged DCF equipment from the facility.  
+(L) Inclusion in Fire District. The applicant shall petition to the closest fire protection district to include, 
+pursuant to Title 32, C.R.S., the property on which the DCF is proposed. If inclusion is not granted 
+by the fire protection district, the applicant shall enter into an agreement for fire services with the 
+closest fire protection district and the agreement must remain in place for the duration of the project. 
+Failure to maintain an agreement for the duration of the project shall constitute a violation of the 
+permit. 
+(M) Liability Insurance. The applicant shall provide evidence of liability insurance to cover  loss or 
+damage to persons and structures during construction and operation of the DCF. 
+(N) Additional Information and Waivers. The County may request additional information that may be 
+required to evaluate the proposed DCF . The County may waive  or alter any of these minimum 
+Data Centers 
+Draft - 040726 
+4 
+ 
+requirements if they are determined to be inappropriate or  unnecessary to determining if the 
+application satisfied applicable standards. 
+4-935 Data Center Standards 
+(A) General Standards for all DCF 
+ 
+(1) All exterior electrical lines shall be buried below the surface of the ground when possible. 
+ 
+(2) All systems shall comply with all applicable building and electrical codes. 
+ 
+(3) The property owner shall notify and receive written approval from the public utility it 
+intends to interconnect with as a part of any DCF application. 
+ 
+(B) ** Small/Accessory DCF? 
+(C) Principal DCF 
+ 
+(1) The setbacks in this subsection shall govern over any setbacks established in these 
+Zoning Regulations. 
+ 
+ Minimum Setback 
+Setback from above-ground public utility power lines or 
+communication lines that are not party of the DCF 
+Seventy (70) feet 
+Setback from existing public road or highway or railroad Seventy (70) feet 
+Setback from ROW section line  Seventy (70) feet 
+Setback from inhabited building s including residence, 
+school, hospital, church or public library 
+One thousand three hundred 
+twenty (1320) feet 
+Setback from all other property lines Seventy (70) feet 
+ 
+(2) Setback from public utility power lines or communication lines.  This setback shall 
+be measured from the boundaries of the easement for the lines.  If no easement is 
+established, the setback shall be  ______ for the lines.  
+ 
+(3) Parking lots.  Parking lots shall be ____ feet from the property lines.   
+ 
+(4) Scenic Resources Setback .  DCF  shall be set back a minimum ¼ mile from any 
+highway, designated to be a scenic highway or roadway by the Morgan County 
+Comprehensive Plan or by the st ate. A scenic resource protection setback 
+requirement may be reduced if the Board determines that the characteristics of the 
+surrounding property eliminate or  substantially reduce concerns related to scenic 
+value. 
+ 
+Data Centers 
+Draft - 040726 
+5 
+ 
+(5) Setbacks for accessory buildings or struc tures. Other  accessory building or 
+structures that are part of the DCF shall comply with the required primary building 
+setbacks for the zone district in which the project is located. 
+ 
+(6) Fencing. If fencing is constructed around the DCF , the operator  shall ensure that 
+the fence and adjacent areas are kept free of litter, tumbleweeds  and other debris 
+which may result in a potential fire hazard. 
+ 
+(7) Septic System. The proposed septic system for the DCF  complies with applicable 
+County requirements. 
+ 
+(8) Water Supply System. If applicable, the DCF  has demonstrated access to a water 
+supply. 
+ 
+(9) Cooling system.  Only closed loop cooling systems are permitted for DCFs. 
+ 
+(10) Roadways and Access. 
+   
+(a) Legal access to public right-of-way to and from the DCF  shall be safe and 
+in conformance with access permit requirements of the County. 
+ 
+(b) All reasonable efforts must be made to reduce traffic congestion during 
+operations and unsafe traffic conditions during the construction phase or  
+operations. 
+ 
+(c) Adequate turning radii shall be installed at all entrances to accommodate  
+large truck movement. 
+ 
+(d) Off-street parking and loading zones shall be surfaced with gravel or the  
+equivalent and shall be graded to prevent drainage problems. 
+ 
+(e) Staging activities and parking of equipment and vehicles shall occur on-site 
+and on private rights-of-way and shall be prohibited on maintained County 
+roads. 
+ 
+(f) The use of any County roads during construction shall be in accordance with 
+and in compliance of Federal, State, County and local regulations governing 
+such activities. 
+ 
+(g) Road Agreement. If any County roads will be used during construction of a 
+DCF for the purpose of transporting parts, materials  and/or equipment, the 
+operator shall enter into a road agreement with the  County, in a form 
+provided by the County. The road agreement shall also include the 
+following: 
+ 
+Data Centers 
+Draft - 040726 
+6 
+ 
+(1) A map showing which County roads will be used during 
+construction. 
+ 
+(2) A pre -construction baseline survey of County roads to be used 
+during construction to document their pre-construction condition. 
+ 
+(3) The operator is responsible for obtaining and paying for the costs of 
+the baseline survey. The Board, when considering approval of the  
+road use agreement, may delay the submission of the baseline  
+survey prior to issuance of a construction permit for the DCF . If 
+delayed, no construction permit may be issued until the survey is 
+submitted and approved in writing by the  Planning and Public 
+Works Departments. 
+ 
+(4) A mitigation plan to address traffic congestion and potential impacts 
+to County roads to be used during construction.  
+ 
+(5) A requirement that the operator to make repairs to any roads during 
+construction and return any County roads to their pre -construction 
+baseline condition, at its expense. A performance guarantee will be 
+required to ensure the restoration of the roads. 
+ 
+(6) A requirement that the operator to make repairs to any roads during 
+construction and return any County roads to their pre -construction 
+baseline condition, at its expense. A performance guarantee will be 
+required to ensure the restoration of the roads. 
+ 
+(13) Erosion and Sedimentation Control. Erosion and sedimentation control measures 
+that ensure that disturbed areas and soil stockpiles are stabilized during construction 
+shall be implemented. Disturbed areas shall be revegetated in accordance with 
+landowner agreements. 
+ 
+(14) Drainage/Storm-Water Run -Off. Run -off shall be managed in accordance with 
+applicable County, State and Federal regulations. If applicable, the applicant shall 
+obtain a Construction Stormwater Discharge Permit from the Colorado Department 
+of Public Health and the Environment, Water Quality Control Division. 
+ 
+(15) Fire Protection. The DCF shall have adequate fire control and prevention measures. 
+ 
+(16) Dust or Noise. Construction and operation of the DCF shall not significantly 
+increase existing glare, dust, or noise at surrounding properties. 
+ 
+(a) The proposed DCF shall comply with the statutory provisions for maximum 
+permissible noise levels for light industrial zoning in C.R.S. § 25-12-103. 
+ 
+(b) Fugitive dust and particulate emissions shall be controlled on the site. 
+Data Centers 
+Draft - 040726 
+7 
+ 
+ 
+(c) Waste materials shall be handled, stored, and disposed of in a manner that  
+controls fugitive dust, fugitive particulate conditions, blowing debris and  
+other potential nuisance conditions. 
+ 
+(17) Lighting.  All lighting must be downcast and shielded. No lighting shall trespass 
+onto adjacent property.  
+4-940 Review Criteria and Process  
+(A) In addition to any review criteria imposed by the Zoning Regulations for the applicable permit, the 
+County shall consider whether the application complies with the requirements of these DCF 
+Regulations. 
+ 
+(B) All applications under these DCF Regulations shall be processed  pursuant to the procedures 
+applicable to the type of permit required. 
+4-945 Decommissioning Requirements 
+(A) General Requirements.  
+(1) The operator shall provide a final decommissioning plan in accordance with this Section 
+as a part of the submission of any construction permit application related to the approved 
+land use permit or earlier if required by the County.  
+(2) If a DCF  ceases to  perform its originally intended function for more than twelve (12) 
+consecutive months, the operator and/or property owner shall initiate the decommissioning 
+of the DCF within sixty (60) calendar days after the end of the twelve (12) month period 
+during which the DCF ceased to perform and remove the system, foundation and associated 
+equipment and facilities by no later than twelve (12) months after the end of the initial 
+twelve (12) month period.  
+(3) If the operator notifies the County of the termination of operations, decommissioning shall 
+be initiated within sixty (60) calendar days of the written notification and completed within 
+twelve (12) months from the date of the notice. 
+(4) Upon completion of decommissioning activities to remove the system, founda tion and 
+associated equipment and facilities, the property shall be restored to the condition prior to 
+development of the system or as expressly agreed to in writing by the County Planning 
+Department and property owner.  
+(5) The operator shall update the decommissioning plan every three (3) years and provide a 
+copy of the updated plan to the County Planning Department. If there are no updates to the 
+plan, the operator shall notify in writing the County instead of submitting an updated plan. 
+However, the ope rator must submit an updated plan every six (6) years. The amount of 
+surety, described below in subsection C, for decommissioning shall be reevaluated and if 
+necessary, due to increased decommissioning costs, a new surety or additional surety in the 
+required amount must be submitted with any updated decommissioning plan.  
+(B) Decommissioning Plan. The decommissioning plan shall include:  
+Data Centers 
+Draft - 040726 
+8 
+ 
+(1) Contact information for all parties involved (e.g., landowner, developer, utilities, etc.);  
+(2) A detailed plan for the removal of all systems and equipment from the site, including 
+provisions for the removal of structures, debris and cabling including those below the soil 
+surface to depths agreed to in landowner agreements or down twenty-four (24) inches;  
+(3) A cost estimate for the decommissioning prepared by a professional engineer or contractor 
+with expertise in related decommissioning projects; and  
+(4) Roles and responsibilities of each party involved in the decommissioning.  
+(C) Decommissioning Bond or Letter of Credit. The decommissioning cost of the system, foundation, 
+and associated equipment and facilities, shall be made by cash, surety bond, or irrevocable letter of 
+credit at fifty (50) percent before construction commences and the remaining fifty (50) percent prior 
+to the twelfth anniversary of the commencement of construction of the system.  
+(D) If decommissioning does not proceed in accordance with the decommissioning plan, the County 
+shall have the right, but not the requirement, to enter the property and cause the appropriate 
+abandonment and decommissioning measures as determined by the approved decommissioning 
+plan. 
+4-950 Ownership Changes 
+If the ownership of a DCF  changes or the owner of the property changes, the use permit shall remain in 
+effect, provided that the successor owner or operator assumes in writing all of the obligations of the use 
+permit and decommissioning plan. A new operator of the DCF shall notify the County Planning Department 
+and the Board in writing of such change in ownership or operator within thirty (30) days of the ownership 
+change. The use permit and all other local approvals for the DCF  will be voided if a new operator fails to 
+provide written notification as provided herein in the required timeframe. Reinstatement of a void use 
+permit will be subject to the same review and approval processes for new applications.  
+4-955 Approval Time Frame and Abandonment 
+The use permit for a DCF  shall be valid for a period of three (3) years from the date of approval. The 
+operator may seek an extension of the approval period from the appropriate decision- making authority by 
+demonstrating a need for an extension and filing an application with the County Planning Department. Each 
+renewal application shall be accompanied by the appropriate fee, as established by the Board. Requested 
+renewals may be in one (1) year, two (2) year, or three (3) year terms. However, no extensions shall extend 
+the approval period beyond six (6) years from the date of the original approval of the use permit. If the 
+operator fails to achieve substantial construction and installation of the DCF  within the approved period, 
+including any extensions, the approval shall expire and a new application shall be required. The applicant 
+shall be responsible for applying for and obtaining any necessary extensions for any building permit issued 
+for the DCF. 
+ 
+ 
+ 
+ 
+ 
+Data Centers 
+Draft - 040726 
+9 
+ 
+_____________________________________________________________________________________ 
+Changes to Table - Sec. 3-235 
+Uses Zone District Regulation Reference 
+ A 20> A 20< A/B ER RR RCR MDR HDR C LI HI MH  
+PRIMARY USES 
+Data Center Facility  SU SU SU NP NP NP NP NP SU SU SU NP 4-925 through 4-955 
+Dwelling units located 
+less than one thousand 
+three hundred twenty 
+(1320) feet from an 
+DCF.  
+SU SU SU SU SU SU SU SU SU SU SU SU 3-630(E) 
+ 
+Change to Sec. 3-630 – new subsection E: 
+Distances from an existing DCF shall be from the [building or property line where the DCF is located] and 
+the proposed building footprint on the dwelling unit [or property line where dwelling unit is proposed to be 
+located]. 
+Changes to Appendix B, Table 2 (Parking Requirements) 
+Add to Industrial  
+(3) Principal DCF – One (1) space per ten thousand (10,000) square feet plus one (1) space per five 
+hundred (500) square feet of office space.  [square footage or employees or combo] 
+Data Center 
+Planning Commission Work Session 3-9-2026 
+1 
+ 
+DATA CENTERS 
+ 
+The County needs to create new supplementary regulations for Data Centers in Chapter 4 of the Zoning 
+Regulations.  
+ 
+Data centers are physical facilities that houses IT infrastructure and are considered the backbone of the 
+internet and digital technology. The facilities include networked computers, servers, networking 
+equipment and storage systems. Support facilities include cooling systems, dedicated power supply with 
+possible backup generators and fire suppression systems. 
+ 
+Data center types range from small to large scale. Aside from building and lot size, the types of data 
+centers are similar from the land use perspective.  
+ 
+Different Definitions: 
+ 
+Logan County: 
+ 
+Data Center Facility (DCF): A use consisting of buildings or structures specifically designed or 
+modified to house networked computers and data and transaction processing equipment and related 
+infrastructure support equipment, including power and cooling equipment. A DCF may be used to 
+provide data and transaction processing services, outsource information technology services and/or 
+computer equipment colocation services. A DCF may also include buildings or structures that 
+support the operation of the DCF including retrofit buildings, warehousing for logistics, 
+independent network buildings, buildings for support staff, and emergency generators.  
+ 
+Weld County proposed: 
+ 
+Data Center: A building or buildings used to house information technology or telecommunications 
+equipment with which digital information is processed, transferred, and/or stored. A Data center 
+may include associated ancillary structures, including, but not limited to, offices, security buildings, 
+cooling water tanks, and backup power systems with a total capacity of less  than fifty (50) 
+megawatts 
+ 
+Linn County, Iowa: Also include small and large data centers – Page 47 
+ 
+Data Center: A facility consisting of one or more buildings (whether constructed simultaneously or 
+in separate phases) used primarily for storage, management, processing, and transmission of digital 
+data, which houses computer or network equipment, systems, servers, appliances, and other 
+associated components related to digital data storage and operations. Data center includes 
+commercial cryptocurrency mining operations and processing. 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Center 
+Planning Commission Work Session 3-9-2026 
+2 
+ 
+ 
+City of Cheyenne is the same as Logan County except for the underlined language: 
+ 
+Data Center: A use consisting of buildings or structures specifically designed or modified to house 
+networked computers and data and transaction processing equipment and related infrastructure 
+support equipment, including power and cooling equipment. A data center may be used to provide 
+data and transaction processing services, outsource information technology services and/or 
+computer equipment colocation services. A data center  may also include buildings or structures 
+that support the operation of the data center including retrofit buildings, warehousing for logistics, 
+independent network buildings, buildings for support staff, and emergency generators. A data 
+center shall not include activities which consistently produce noise discernable at the property line. 
+Should a data center produce noise discernable at the property line, it shall be classified as an 
+industrial use. 
+ 
+Jefferson County, Missouri proposed definition. Also includes data center, accessory use - Page 
+192.  
+ 
+Data Center: A facility used primarily for the  housing, management, processing, transmission, or 
+storage of data through servers and related equipment, including associated mechanical and 
+electrical systems. 
+ 
+Location: 
+ 
+What zones should allow these and should there be zones where they are not permitted? 
+ 
+Not permitted in floodplains or floodways even when removed via any and all regulatory processes 
+(Jefferson – Page 201) 
+ 
+What type of permit? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Center 
+Planning Commission Work Session 3-9-2026 
+3 
+ 
+ 
+ 
+Standards: 
+ 
+• Setbacks:  Logan - Page 21 (based off of height) and Page 17 and 22 
+    Linn – Page 42 
+    Jefferson - Page 197 
+• Buffers: Linn – Page 42  
+ Jefferson – Page 195 
+• Fence: height and type - Logan - Page 17 and 22 
+Jefferson - Page 200 
+• Percentage of land covered 
+• Type of cooling system: Logan - Page 17 
+Jefferson – Page 206 
+• Cooling Towers: Jefferson – Page 204 
+• Power backup plan: Linn- Page 41  
+      Jefferson – Page 204 
+• Drainage, erosion and sediment control 
+• Permit life: Logan- Page 15 
+• Ownership change language  
+• Decommissioning – 3-yr update – Bond requirement (Morgan Solar, Battery & Wind regulations)  
+Logan – Page 25 and 26 
+Jefferson – Page 214 
+• Must be in a fire district or be included 
+• Emergency Response Plan: Linn – Page 45  
+     Logan – Page 12 
+o Fire Protection: Logan - Page 23  
+Jefferson – Page 213 
+• Geotechnical report 
+• Required placard and signage: Logan- Page 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Center 
+Planning Commission Work Session 3-9-2026 
+4 
+ 
+ 
+Impacts:  
+ 
+Energy: Linn - Page 41 (Energy Impact Study) 
+ Jefferson – Page 205 
+Water: Water Study – Logan – Page 10 
+          Linn – Page 40 and 44  
+          Jefferson - 206 
+Wastewater: Jefferson – Page 207 
+Noise - Noise analysis (Pre and post noise evaluation): Linn - Page 43 
+          Cheyenne Memo – Page 63  
+          Jefferson – Page 203 and 204 
+Dust 
+Air: Jefferson – Page 209 
+Roads-during construction and during operation 
+Lighting: Linn – Page 41  
+   Jefferson – Page 201 
+Soil: Logan - Page 11 and 19 
+Wildlife: Logan - Page 8 
+Military: Logan - Page 9 and 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data Center 
+Planning Commission Work Session 3-9-2026 
+5 
+ 
+ 
+ 
+Logan County-Approved regulations February 17, 2026 
+• Certification of intent of interconnection agreement and crossing agreements 
+• Impact Analysis, Wildlife Impacts, Military Impacts 
+• Decommissioning 
+• Water supply system, water source and sufficiency including decreed or conditional water rights. A plan 
+detailing initial fill water, expected annual usage, amount of blowdown water. Detailed plan for disposal 
+of blowdown water in accordance with CDPHE and EPA. 
+• Geotech 
+• Soil reports-baseline and every 5 years 
+• Maintenance plan 
+• Emergency Operating Plan including fire 
+• 3 year permit life provided construction has commenced and progressing with diligence, option for 
+extension 
+• Air cooled chilling system 
+• Fencing-7’ tall - mandatory 
+• Resource and Environmental Protection Standards 
+• Water, Air, Glare, Dust Noise, Soil, Erosion and Control, Drainage, Agricultural Lands, 
+Revegetate Plan, Wildlife, Military 
+• Setbacks, based off of height 
+• Waiver for section lines 
+• Lighting requirements 
+• Fire protection-water tank with min of 10,000 gallon tank with 4” connection 
+• Required placarding and signage – NFPA 704 and NFPA “hazard diamond” 
+ 
+Weld County-Board of County Commissioners continued the final reading of Ordinance 2026-01 to its 
+April 6, 2026 meeting. 
+ 
+Linn County, Iowa (Information based off of third reading of Ordinance, February 2026) 
+• Written verification from proposed power provider for sufficient infrastructure and supply 
+• Backup power plan 
+• Setbacks 200’ to property lines, 1000’ to residentially zoned property line, 100’ to place of public 
+assembly 
+• Noise analysis, pre and post construction evaluation and every 5 years 
+• Water supply and sustainability review 
+• Emergency response plan 
+• Small scale – design capacity of 20MW or less using less than 50 gal of water per minute 
+• Large scale – design capacity of more than 20 MW or using more than 50 gal of water per minute 
+ 
+ 
+ 
+ 
+Data Center 
+Planning Commission Work Session 3-9-2026 
+6 
+ 
+ 
+ 
+Cumberland County, Pennsylvania, currently working on regulations (information based off of 
+report) 
+• Definitions- Data center, Data center accessory use 
+• Energy and water infrastructure are primary site requirements 
+• 60-80% maximum impervious coverage 
+• Height-80 feet may increase to 100’ with additional setback 
+• Building facades 
+• Buffering, screening, landscaping, fencing 
+• Lighting 
+• Noise study 
+• Water-Analysis of water needed, water feasibility study 
+• Electric-provide interconnection agreement indicating capacity is available. Impacts on electric rate or 
+availability for other uses directly attributable to the data center to be noted 
+• Modular data centers 
+ 
+ 
+Also included: 
+• City of Cheyenne, Wyoming staff report from June 6, 2022 and noise memo from August 2025 
+• Jefferson County, Missouri presentation and Draft Regulations from February, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11

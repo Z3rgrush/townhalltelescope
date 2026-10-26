@@ -1,0 +1,2268 @@
+ 
+ 450 S. Parish Avenue 
+Johnstown, CO 80534 
+970-587-4664 
+JohnstownCO.gov  
+ Town Council Work Session  
+ 450 S. Parish, Johnstown, CO  
+ Monday, October 26, 2026 at 6:00 PM  
+Mission Statement: Enhancing the quality of life of our residents, businesses, and visitors 
+through community focused leadership. 
+Agenda  
+Call to Order 
+Agenda Items 
+1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements 
+2. Johnstown Art Committee 
+Adjourn 
+  
+ 
+ 
+Americans with Disabilities Act Notice 
+ 
+In accordance with the Americans with Disabilities Act and other applicable laws, persons who 
+need accommodation in order to attend or participate in this meeting should contact Town Hall 
+at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance. 
+De conformidad con la Ley de Discapacitados Estadounidenses y otras leyes vigentes, los 
+individuos que necesitan adaptaciones funcionales para asistir o participar en esta reunión 
+deberán comunicarse con la Municipalidad marcando el 970 587- 4664 a lo más tardar 48 
+horas antes de dicha reunión para solicitarla. 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Page 1 of 159
+ 
+ 450 S. Parish 
+Avenue 
+Johnstown, CO 
+80534 
+970-587-4664 
+JohnstownCO.gov   
+ 
+Town Council Work Session Communication 
+Agenda Date: October 26, 2026 
+Subject: Johnstown Housing Needs Assessment and Comprehensive Plan 
+Elements 
+Attachments: 1.   Housing Needs Assessment 
+2.   Strategic Growth Element 
+3.   Water Supply Element 
+4.   Work Session Presentation 
+Presented by: Jennifer Simmons, Planning and Development Director 
+Work Session Item Description: 
+Colorado Senate bill 24-174 requires the Town of Johnstown to complete a local housing needs 
+assessment, housing action plan that includes affordability and displacement mitigation 
+strategies, and new elements in the comprehensive plan that incorporates water supply and 
+strategic growth elements. This bill became law May 30, 2024.  
+ 
+In April 2026, Council awarded a contract to ECOnorthwest to conduct the work required by the 
+State legislation.  Work on the Housing Needs Assessment began in late April and the team has 
+been diligently working to collect public input, gather and analyze data, and create a report that 
+will comply with the legislation.  Amendments to the Comprehensive Plan related to Strategic 
+Growth and Water Supply have also been drafted to enhance our existing Comprehensive Plan. 
+Draft documents are attached for your consideration. 
+ 
+The goal of presenting this information at this time is twofold.  First, we'd like your feedback on 
+the work that's been done to date. If there's anything you would suggest amending, it would be 
+helpful to know that now. We acknowledge this a tremendous amount of information to consider 
+and look forward to hearing your thoughts and questions. Second, we want the Council and 
+Commission to have time to consider the work that's been completed and have a conversation 
+with each other to make sure everyone is clear on the work that needs to be done to fully 
+comply with State requirements.     
+ 
+Following this work session, feedback from Town Council and Planning and Zoning Commission 
+will be incorporated into the draft documents.  The updated documents will then be presented 
+for consideration by Planning and Zoning Commission November 18 with Town Council 
+considering adoption on December 2. This meets the timeline established by the legislation.   
+ 
+In 2027, the team will build on the Housing Needs Assessment to create a Housing Action Plan 
+Page 2 of 159
+that will be adopted by Planning and Zoning Commission and Town Council in mid-2027.  This 
+will complete the work required by the legislation at this time.  Each of these documents is 
+required to be updated every six years. 
+Reviewed and Approved for Presentation,  
+ 
+Town Manager 
+ 
+Page 3 of 159
+ 
+ 
+ 
+ 
+Housing Needs Assessment (DRAFT) 
+Town of Johnstown 
+Prepared for: Town of Johnstown, Colorado 
+ 
+October 2026 
+ECOnorthwest 
+1550 Wewatta Street • Suite 200 • Denver, CO 80202 
+ 
+ 
+ 
+Page 4 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 1 
+ 
+ 
+ 
+Acknowledgments 
+ECOnorthwest prepared this report with support from the guidance and input of several 
+partners, including members, staff, and leadership of the Town of Johnstown Most notably 
+we are appreciative of the involvement and input of Jennifer Simmons and Lilly Cory. Other 
+firms, agencies, and staff contributed to other research that this report relied upon, 
+specifically Avery Wolfe and Marcia Boyle of MIG. This work was financially supported by a 
+Housing Planning Grant from the Colorado Department of Local Affairs (DOLA). 
+That assistance notwithstanding, ECOnorthwest is responsible for the content of this report. 
+The staff at ECOnorthwest prepared this report based on their general knowledge of the 
+economics of recreation, amenities, and regional economies. ECOnorthwest staff contributing 
+to this study included Andy Taylor, Mary Chase, David Wright, and Justin Sherrill.  
+For more information about this report please contact: 
+Andy Taylor 
+taylor@econw.com 
+ECOnorthwest 
+303-872-1991 
+ 
+ 
+Page 5 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 2 
+ 
+ 
+Table of Contents 
+Executive Summary .............................................................................. 1 
+1. Introduction ...................................................................................... 4 
+2. Community Engagement ................................................................. 5 
+3. Demographic Trends ...................................................................... 10 
+4. Economic Trends ............................................................................ 19 
+5. Housing Inventory .......................................................................... 24 
+6. Housing Market Trends ................................................................. 33 
+7. Housing Challenges ....................................................................... 39 
+8. Housing Resources ......................................................................... 48 
+9. Housing Development Challenges and Opportunities ................ 50 
+10. Current and Projected Housing Need ........................................ 54 
+11. Policy Programs and Recommendations ................................... 59 
+ 
+Page 6 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 1 
+Executive Summary 
+Purpose of the Housing Needs Assessment 
+The Colorado Department of Local Affairs (DOLA) supported Johnstown’s Housing Needs 
+Assessment (HNA) through a Housing Planning Grant that also supports ongoing 
+Comprehensive Plan Elements and the Housing Action Plan (HAP) to follow. This HNA aims to 
+develop an understanding of housing needs and characteristics of that need in Johnstown in 
+accordance with Colorado Revised Statutes. It draws insights from available data that will help 
+inform future housing policies, land use strategies, and housing programs to address 
+affordability and supply gaps. 
+The summaries below provide an overview of key population, demographic, economic, and 
+housing findings from the HNA process. 
+What Does the Data Say? 
+• Johnstown’s population is growing. The town’s population grew 45 percent between 
+2014 and 2024, and growth projections anticipate that the number of households in 
+Johnstown today will more than double by 2050. New residents will drive the need for 
+more housing. 
+• Approximately 79 percent of the housing stock in Johnstown in 2024 was single-unit 
+detached homes, with a near identical portion of households that own their home. 
+However, Johnstown has seen noticeable increases in multi-unit development, with 
+almost 2,000 units built between 2015 and 2026. 
+• About 27% of households in Johnstown experience “cost burden.” This means that 
+those households spend 30% or more of their income on housing. This can include 
+rent, mortgage payments, utilities, and other fees.  
+• More than 40% of renters in Johnstown today are cost-burdened, in addition to 
+about 20% of homeowners. A survey for this project reflected that a lack of 
+affordability represented Johnstown’s largest housing challenge. 
+ 
+Page 7 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 2 
+Community Engagement Responses: “What are the Housing Challenges and Concerns in 
+Your Community?
+ 
+Source: Johnstown HNA Survey 
+ 
+In 2026, the median home price in Johnstown was $489,747 and the average apartment 
+rent reached $1,816. A family of four would need to make more than 120% of the area 
+median income (AMI) to afford purchasing the average home. 
+ 
+33%
+16%
+11%
+10%
+9%
+6%
+6%
+5%
+4%
+Lack of Affordability
+Housing far from Transit, Jobs, or Services
+Lack of Multi-generational Housing
+Homes in Need of Repair
+Limited Supply Options
+Lack of Accessible Units
+Houses too Small
+Houses too Large
+Lack of Family-sized Housing
+Page 8 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 3 
+What Are Johnstown’s Future Housing Needs? 
+Johnstown will need approximately 3,961 new homes by 2036 to meet both current and 
+future housing needs. Approximately half of these homes will be for households earning over 
+120% of median income, and half will be for low- to moderate-income levels which may 
+require intentional strategies to ensure that housing needs can be met. 
+Combined Current and Projected Housing Units in Johnstown by 2036 by AMI Level 
+ 
+Source: Colorado State Demography Office Vintage 2024; ACS 5-year 2020-2024; HUD CHAS 2018-2022 
+(Johnstown); ECOnorthwest calculations. 
+134
+28 35 0 0
+508
+190
+470
+574
+2,022
+0
+500
+1,000
+1,500
+2,000
+2,500
+0-30% AMI 30-50% AMI 50-80% AMI 80-120% AMI 120%+ AMI
+Current Need (catch-up) Projected Need (keep-up)
+Page 9 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 4 
+1. Introduction 
+Study Purpose and Context 
+The Town of Johnstown (Town) undertook this Housing Needs Assessment (HNA) to develop 
+an understanding of key local housing needs. Johnstown has experienced substantial growth 
+over the past 20 years, with population increasing by more than 100 percent since 2006. This 
+growth has led to new considerations and potential strategies for meeting housing needs. 
+Johnstown is primarily situated in Weld County, with its northwest area as well as some of its 
+Growth Management Area crossing into Larimer County. The core of the Town’s activity 
+focuses around its downtown located north of Colorado State Highway 60 on Parish Avenue, 
+with recent development spreading northwest from that area and attracting larger mixed-use 
+and retail developments. These changes have also contributed to rising local employment. In 
+recent planning processes, the Town has identified a need for more diverse housing types 
+better aligned with local income as it continues to experience residential growth. With that 
+continued growth, current residents face challenges in accessing housing that they can afford. 
+As the Town grows, these challenges may also reflect similar challenges for those seeking to 
+become residents of Johnstown.  
+State and Local Context 
+The Colorado Department of Local Affairs (DOLA) awarded Johnstown a Housing Planning 
+Grant on March 9, 2026 to produce an HNA as well as Housing Action Plan (HAP). This grant 
+also included addressing a required Strategic Growth Element (SGE) and Water Supply 
+Element (WSE) in updating the Town’s Comprehensive Plan. Per Colorado Revised Statutes 
+(C.R.S.) § 24-32-3701, certain local jurisdictions must complete a State-compliant HNA by 
+December 31, 2026, and at least every six years thereafter. This HNA intends to follow both 
+the State guidance for the development of HNAs as required by C.R.S. § 24-32-3701 and the 
+requirements of the Housing Planning Grant. 
+The findings of the HNA create a foundation for strategies and action through the HAP, which 
+will establish policies and programs to meet housing needs specific to Johnstown and meet 
+the new statutory requirements in C.R.S. § 24-32-3705. This will include a greater focus on 
+strategies to mitigate displacement risk, expanding the view of standard and long-term 
+affordability strategies, considerations for housing near transit, identification of opportunities 
+for intergovernmental coordination, and a deeper dive into the impacts of zoning and 
+housing development activity. 
+Regional Context 
+Johnstown participates in regional housing affordability discussions through the NoCo 
+Foundation. The Larimer County Regional Housing Needs Assessment and Weld County 
+Housing Needs Assessment inform this plan through regional context, but do not identify the 
+specific housing needs for Johnstown. 
+Page 10 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 5 
+2. Community Engagement  
+Engagement Structure and Approach 
+Community engagement for this HNA process involved attendance at six different in-person 
+events from May 2026 through July 2026, an online survey that ran from early June through 
+early August, and focus groups in mid-July with housing developers and advocates. Some of 
+the in-person events represent large, annual gatherings, while others reflected efforts to go to 
+where community members regularly spend time. Engagement efforts focused on what types 
+of housing participants would like to see more of in Johnstown and what housing affordability 
+meant to them. 
+The in-person events included the following: 
+¨ Cinco de Mayo Fiesta: May 2nd 
+¨ BBQ Day: June 6th  
+¨ Movie in the Park: June 19th  
+¨ YMCA Tabling: July 8th  
+¨ Senior Center Tabling: July 8th  
+¨ Neighborhood Celebration: July 24th  
+These “pop-up” style events received feedback from various parts of the community by 
+meeting people at existing community gatherings to frame local housing perspectives. Each 
+interaction included information and activities written in both English and Spanish and 
+encouraged participation through material giveaways.  
+The survey offered a flexible digital format for participation, also offered in both Spanish and 
+English. The Town advertised the survey in its ongoing newsletter, social media platforms, at 
+the engagement events, and through word of mouth. A total of 119 people provided survey 
+responses, with 113 of them fully completing it. 
+Two virtual stakeholder focus groups solicited input from housing developers, housing 
+providers, and other housing resource groups, with one geared towards market-rate 
+development and the other towards affordable housing. Representatives from 17 local and 
+regional organizations joined these focus groups. 
+This chapter provides a summary of engagement information gathered across the three main 
+opportunities, with Appendix A containing a complete engagement report. 
+Page 11 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 6 
+Engagement Findings 
+Community and stakeholder participation pointed to affordability as 
+Johnstown’s central housing challenge. 
+Residents, survey respondents, and housing resource providers consistently identified rising 
+home prices, interest rates, property taxes, metro district taxes and fees, utilities, and other 
+ongoing costs as elements that make it increasingly difficult for people to stay in or move to 
+Johnstown. Exhibit 1 shows that through the online survey, respondents identified 
+affordability as Johnstown’s largest housing challenge (33%). 
+Exhibit 1. Housing Challenges and Concerns, Johnstown HNA Survey Participants 
+ 
+Source: Johnstown HNA Survey 
+In-person engagement echoed similar shares of opinion, with housing located far from 
+transit, jobs, or services as the second most prevalent concern for residents. Additionally, a 
+lack of multi-generational housing, housing preservation, and limited supply emerged as 
+other notable challenges. 
+The collective and rising costs of housing in Johnstown are driving 
+affordability concerns. 
+Engagement respondents spoke to the bundle of housing costs (including mortgage or rent, 
+utilities, property taxes, HOA dues, and metro district taxes and fees combined) as an 
+overwhelming contributor to barriers towards housing affordability. Households who own their 
+home may pay for each component individually, while households who rent their home may 
+pay for some of those elements collectively through increases in monthly rent. Participants 
+identified some of these costs as indirect housing costs, feeling as though everything has 
+added up in a way that makes housing that might otherwise be affordable to them no longer 
+so.  
+33%
+16%
+11%
+10%
+9%
+6%
+6%
+5%
+4%
+Lack of Affordability
+Housing far from Transit, Jobs, or Services
+Lack of Multi-generational Housing
+Homes in Need of Repair
+Limited Supply Options
+Lack of Accessible Units
+Houses too Small
+Houses too Large
+Lack of Family-sized Housing
+Page 12 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 7 
+As a part of recognizing affordability challenges, participants noted specific populations 
+experiencing housing strains: first-time homebuyers and older adults on fixed incomes. For 
+the former, participants spoke to home prices and interest rates making it difficult to find 
+attainable housing that aligns with households progressing through different housing needs. 
+For the latter, engagement noted that shifts in property taxes as well as costs of utilities put 
+residents in difficult financial situations to be able to absorb those costs.  
+Participants considered housing affordability as having access to a range of options including 
+middle housing, “starter homes,” and attainable one-bedroom units. Additionally, participants 
+saw housing affordability as the ability to own a home on a single income at the median level. 
+Engagement reflected a need for housing that supports different stages 
+of life. 
+Online survey responses identified housing for older adults as the most preferred future 
+development type (19%), followed by large lot homes, accessory dwelling units (ADUs), and 
+live-work or mixed-use buildings, illustrated below in Exhibit 2. These responses followed a 
+similar distribution to in-person engagement, although in-person responses highlighted higher 
+interest in seeing more single-unit homes.  
+Exhibit 2. Preferred Housing Types for Future Development, Johnstown HNA Survey 
+Participants 
+ 
+Source: Johnstown HNA Survey 
+Engagement participants valued housing choice, while also maintaining access to single-unit 
+homes. Taken collectively, participants also expressed support for more diverse housing 
+options with thoughtful location and design. 
+Housing advocates and developers underlined limited housing 
+availability as well as financial challenges to increasing its supply. 
+Both advocates and developers acknowledged that affordability pressures are potentially 
+more acute than available data might suggest, referencing ongoing effects of post-pandemic 
+19%
+16%
+13%
+12%
+9%
+7%
+6%
+6%
+5%
+4%
+2%
+Senior Housing
+Large Lot Homes
+Accessory Dwelling Units
+Live-work or Mixed-use Buildings
+Tiny Homes and RVs
+Prefabricated Housing
+Small Lot Homes or Townhomes
+Duplexes, Triplexes, or Quadplexes
+Small-scale Apartments or Condos
+Large-scale apartment or Condos
+Mobile Homes
+Page 13 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 8 
+price spikes, interest rate jumps, and continual declining vacancy. These groups also observed 
+that regionally renters struggle to make the leap from rental payments to a mortgage 
+payment, with a gap for middle income earners who earn too much to qualify for subsidized 
+affordable housing and not enough to qualify for a mortgage. To support more ownership 
+sales activity, developers have pursued such strategies as temporary mortgage rate buy 
+downs, resulting in reduced profits for builders.  
+For developers, Town requirements for upfront water dedication rather than at the time of 
+building permit means that they have significant financial resources tied up in housing that 
+may not receive building permit approvals for years. Other water-related development 
+guidelines such as requiring projections from generic gross demand standards rather than 
+actual consumptive data and reductions in water yields have added complexity to 
+construction. Surrounding elements including cumulative price increases in land, impact fees, 
+materials, and changes in building code requirements have also increased construction costs. 
+Advocates and developers reflected on other barriers to construction of middle housing 
+options like townhomes or ADUs. Advocates noted that ADUs still cost more than half the 
+price of single-unit home and require additional water tap fees, while developers have seen a 
+lack of interest in purchasing townhomes and attached single-unit housing.  
+Advocates also spoke to a lack of options for people to move into communities that meet their 
+needs. Older adults cannot find options to downsize their housing, while buyers in newer 
+developments may feel isolated and without connections to a close-knit community. They 
+spoke to some general misunderstandings about local housing availability, recognizing 
+confusion about denser housing options has led to some community resistance to 
+development.  
+Housing providers offered recommendations for policy and process. 
+In addition to perspectives offered from residents and survey participants, housing developers 
+and advocates provided some of the following suggestions for Johnstown to consider in 
+updating its housing policies and review procedures, summarized in Exhibit 3.  
+ 
+Page 14 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 9 
+Exhibit 3. Summary of Advocate and Developer Policy Recommendations 
+Housing Advocates 
+Affordable Housing Development Support: Advocates pointed to a need for local subsidies, 
+fee waivers, and incentives to fill gaps in state and federal funding intended for households 
+earning less than 50 percent of area median income (AMI). 
+ 
+Community Will: Advocates noted a need for community education revolving denser 
+housing development to proactively address misunderstandings or resistance. 
+ 
+Cross-Jurisdictional Collaboration: Advocates recognized unaligned entitlement processes 
+and design standards across Northern Colorado communities, leading to additions to costs 
+and delays for regional builders. They saw an opportunity to work together to support more 
+collaborative planning and review processes. 
+Housing Developers 
+Timing and Features of Water Dedication: Developers suggested that allowing for water 
+dedication fees at time of building permit could help to reduce overall costs in pre-
+development. They also suggested allowing dedications to rely on consumptive data to 
+reflect actual use. 
+ 
+Emphasizing Internal Review Alignment: Developers suggested analyzing contradictions 
+between land use, building and fire codes as well as transportation plans to reduce 
+unforeseen delays and design redundancies.  
+ 
+Streamlining the Development Process: Developers emphasized process improvement to 
+encourage more affordable outcomes, including such ideas as consolidating certain 
+entitlement and infrastructure applications. 
+ 
+Price Differentials of Housing Types: Developers also described that while they had 
+delivered middle housing types like townhomes and duplexes, the price differential with 
+single detached homes was not enough. They described that first time buyers had trouble 
+justifying the additional expense for a mortgage payment over a rent payment if not moving 
+to a single detached home. 
+Source: ECOnorthwest Summary of Engagement 
+Page 15 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 10 
+3. Demographic Trends 
+Geographies and Planning Context 
+This section provides a profile of households and residents in Johnstown. It intends to develop 
+a deeper understanding of demographic characteristics to better describe local housing 
+needs. Household and population changes reflect the primary drivers of demand for housing, 
+with the rate of population growth as well as key household characteristics heavily influencing 
+specific housing types that can best support a local context. 
+Johnstown is incorporated in both Weld and Larimer Counties, with its core surrounding the 
+downtown at the east and connecting to the I-25 corridor to the west. Comparative towns 
+included in this analysis (Berthoud, Mead, Milliken, and Windsor) have similar characteristics 
+as communities along the North Front Range corridor, accommodating fast population growth 
+over the past decade. This chapter includes sociodemographic information from these two 
+counties and four municipalities to provide comparative geographies. 
+ 
+Johnstown has developed 
+plans and policies that 
+have responded to some 
+of these population 
+changes, including its 
+2021 Comprehensive 
+Plan, amending its land 
+use and development 
+code in 2023, and 
+updating its Strategic Plan 
+in 2026. These changes 
+have acknowledged how 
+growth has shaped 
+Johnstown in recent years 
+and identified a Housing 
+Needs Assessment as a 
+place to continue working 
+toward an improved 
+housing stock within the 
+town. 
+Exhibit 4. Johnstown and Surrounding Geographies 
+ 
+Source: ECOnorthwest 
+ 
+Page 16 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 11 
+Population Trends  
+Johnstown has grown 45 percent in the last ten years. 
+Johnstown had a population of 19,886 in 2024, reflecting 45 percent growth since 2014 (or 
+an average annual growth rate of 4.5%), As shown in Exhibit 5, this rate outpaced Larimer and 
+Weld County in their entireties, but was not as high as comparative municipalities. While 
+Johnstown has a larger population than Berthoud, Mead, and Milliken, Windsor has grown to a 
+population more than twice that of Johnstown. Berthoud, the comparative municipality closest 
+in size to Johnstown (12,785 as of 2024), grew at the fastest rate of these geographies 
+(109%) between 2014 and 2024. 
+Exhibit 5. Population Growth by Community (2014–2024) 
+Geography 2014 2024 Change (#) Change (%) 
+Johnstown  13,688   19,886  6,201   45% 
+Larimer County  324,126  374,387  50,261   16% 
+Weld County  275,994   369,880  93,886   34% 
+Berthoud  6,127   12,785  6,658   109% 
+Mead 4,050  6,915  2,865  71% 
+Milliken  6,070   9,205  3,135   52% 
+Windsor 22,516  41,228  18,712  83% 
+Source: State Demography Office (SDO) 
+Historical population trends between 1980–2024 from the State Demography Office (SDO) in 
+Exhibit 6 show the sharp increases in population growth after 2000. With a population that 
+stayed between 1,500 and 4,500 until 2000, the total population almost reached 20,000 by 
+2024. 
+Page 17 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 12 
+Exhibit 6. Population Growth, Johnstown, 1980–2024 
+ 
+Source: SDO 
+Regional projections expect Johnstown to keep growing over the next 
+three decades.  
+Regional estimations of projected growth indicate that the number of households in 
+Johnstown’s Growth Management Area (GMA) will increase by more than 100 percent by 
+2050. A household represents a group of people who live together in a housing unit, while 
+population encompasses the total number of people who live in Johnstown. The North Front 
+Range Metropolitan Planning Organization (NFRMPO) projects the number of households for 
+Johnstown’s GMA to 2030, 2040, and 2050, as illustrated in Exhibit 7. Data from the SDO 
+display the projected number of households for Larimer and Weld Counties as well as 
+statewide over those same time periods. 
+The SDO projects that Weld County will see a higher rate of growth for households than 
+Larimer County. The projected household growth rate for Johnstown’s GMA outpaces both, 
+with NFRMPO projecting an increase of more than 100 percent for households by 2050. 
+Exhibit 7. Projected Households Johnstown, Comparative Counties, Colorado, 2030-2050 
+Geography 2024 2030 2040 2050 
+Johnstown GMA  7,522   8,759  12,560   17,653 
+Larimer County 153,999 161,172 175,015 188,381 
+Weld County 130,977 148,563  177,916  208,988 
+Colorado 2,429,420 2,593,467 2,850,177 3,080,989 
+Source: North Front Range Metropolitan Planning Organization (NFRMPO) and SDO 
+Note: NFRMPO forecast includes all traffic analysis zones covered or partially covered by Johnstown’s GMA. 
+1,535 1,579
+4,459
+10,097
+13,688
+19,886
+0
+5,000
+10,000
+15,000
+20,000
+25,000
+19801982198419861988199019921994199619982000200220042006200820102012201420162018202020222024
+Total Population
+Page 18 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 13 
+Similarly, the population in Johnstown’s GMA is expected to grow more than 100 percent by 
+2050. Analysis of SDO population projections and NFRMPO household projections anticipate 
+that population in the GMA will continue to increase over time, with population increasing to 
+44,534 by 2050. The SDO projects that population growth in Weld County will outpace the 
+growth in Larimer County. Further detailed in Exhibit 8 below, the Johnstown projection 
+accounts for an average household size balanced from both Larimer and Weld County SDO 
+projections. 
+Exhibit 8. Projected Population Growth, Johnstown, Comparative Counties, Colorado, 2030, 
+2040, 2050 
+Geography 2024 2030 2040 2050 
+Johnstown GMA 19,886 22,871 32,437 44,534 
+Larimer County 374,387 388,366 419,174 444,673 
+Weld County 369,880 410,593 481,250 545,632 
+Colorado 5,956,729 6,227,441 6,799,896 7,221,772 
+Source: SDO and ECOnorthwest Calculations 
+Johnstown has a lower median age than most of its peer communities. 
+The highest share (31%) of Johnstown’s population is between the ages of 20 and 39 
+(shown in Exhibit 9), similar to Larimer County (31%) and higher than Weld County (27%), 
+with a slightly higher distribution that both for ages between 40–59.1 Johnstown’s median age 
+is 34.9, which is less than Weld County (35.3) and Larimer County (36.8); Johnstown also has 
+a lower median age than the other nearby communities aside from Milliken (illustrated in 
+Exhibit 10). 
+Exhibit 9. Age Distribution of Johnstown, 2024 
+ 
+Source: American Community Survey (ACS) 5-Year Data, 2020–2024, Table B01001 
+ 
+1 American Community Survey (ACS) 5-Year Data, 2020-2024, Table B01001 
+28%
+31%
+26%
+15%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Under 20 20–39 40–59 60 and Older
+Page 19 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 14 
+Exhibit 10. Median Age, Johnstown, Comparative Municipalities and Counties, 2024 
+Johnstown Larimer County Weld County Berthoud Mead Milliken Windsor 
+34.9 36.8 35.3 39.3 36.8 32.4 40.9 
+Source: ACS 5-Year Data, 2020–2024, Table B01002 
+Johnstown is similar to its peers in terms of race and ethnicity. 
+Johnstown’s population predominantly identifies as white non-Hispanic, with noticeable 
+representation from Hispanic households, detailed in Exhibit 11. Weld County has the highest 
+representation of individuals identifying as Hispanic or Latino (of any race) at 31 percent, 
+while the share of residents who identify as Hispanic or Latino in Johnstown is 20 percent. 
+Johnstown similarly reports a share of white non-Hispanic populations in between Weld and 
+Larimer Counties, with approximately 73 percent of the population. Census data report small, 
+but consistent representation of individuals identifying as Black or African-American, Asian, 
+and multi-racial in each of the three communities (those that represent less than 2 percent of 
+the total population are included in aggregate in the exhibit below). 
+Exhibit 11. Race and Ethnicity Distribution of Johnstown, Larimer County, and Weld County, 
+2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B03002 
+Note: Other* includes all groups under two percent of the population 
+Household Characteristics 
+Household characteristics describe attributes that can affect the type of needed housing in a 
+community. While all households have unique considerations, these trends can point to 
+changing demand in a community for unit size, location, or housing features. 
+62%
+79%
+73%
+31%
+13%
+20%
+3%
+4%
+4%
+4%
+4%
+3%
+0% 10%20%30%40%50%60%70%80%90%100%
+Weld County
+Larimer County
+Johnstown
+White (Non-Hispanic or Latino) Hispanic or Latino Two or More Races Other*
+Page 20 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 15 
+Household sizes in Johnstown have been decreasing. 
+Johnstown’s household growth rate exceeded its population growth rate between 2014–
+2024. As shown in Exhibit 12, this average annual growth rate (AAGR) of 5.8 percent 
+accompanies a 58 percent upwards shift in households. This may indicate formation of 
+smaller households and the transition of larger households to smaller households in the town. 
+Exhibit 12. Household Growth, Johnstown, 2014 and 2024 
+Geography 2014 2024 Change (#) Change (%) AAGR 
+Johnstown  4,772  7,522  2,750   58%  5.8% 
+Source: SDO 
+In the same period, the town’s household size decreased from 2.87 to 2.64, an eight percent 
+decrease with comparative examples shown in Exhibit 13. This decrease in average household 
+size is a greater change than comparative communities and counties, showing that 
+households have been becoming smaller at a faster rate than surrounding communities.  
+Exhibit 13. Average Household Size, Johnstown and Comparative Municipalities and 
+Counties, 2014 and 2024 
+Geography 2014 2024 Change (%) 
+Johnstown  2.87  2.64  -8.0% 
+Larimer County  2.41  2.35  -2.4% 
+Weld County  2.79   2.79  0% 
+Berthoud  2.61  2.41  -7.7% 
+Mead  2.98  3.00  0.7% 
+Milliken  3.03  2.99  -1.3% 
+Windsor  2.77  2.69  -2.9% 
+Source: SDO 
+The majority of Johnstown’s households are couples or families. 
+While household size decreased over this period, the majority of households in Johnstown 
+identify as couples or families. Johnstown’s share of couples or families with children (33%) 
+exceeds the shares of both Weld and Larimer Counties (Exhibit 14). Similarly, Johnstown has 
+the smallest share of households that live alone or with relatives or other adults of these three 
+geographies (22%).   
+Page 21 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 16 
+Exhibit 14. Share of Household Type, Johnstown, Weld County, and Larimer County, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table DP02 
+Johnstown’s share of owner-occupied households has larger household sizes than renter 
+households (Exhibit 15). More than half of owner-occupied households have three or more 
+people in their household, while only about a quarter of renter-occupied households meet 
+that size. 
+Exhibit 15. Share of Household Size by Tenure, Johnstown, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B11016 
+Income 
+The ability for a household to access housing relates to household income. This income has a 
+noticeable effect on housing choice since it acts as a central variable in estimating what size 
+and type of housing a household can afford. Low- and moderate-income households often 
+28%
+18%
+33%
+35%
+39%
+41%
+6%
+4%
+4%
+31%
+39%
+22%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Weld County
+Larimer County
+Johnstown
+Couples or Families with Children Couples or Families without Children
+Single Parents Living Alone or with Relatives or Other Adults
+10%
+39%
+38%
+34%
+52%
+27%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Owner
+Renter
+One-Person Household Two-Person Household Three or More Person Household
+Page 22 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 17 
+encounter limited choices in housing that they can afford due to a lack of available housing 
+within their means. 
+Johnstown has a higher median income than Larimer or Weld Counties. 
+Johnstown’s median income of $128,995 exceeds the median income for both Larimer and 
+Weld Counties by more than $30,000. Johnstown’s owner-occupied median income is nearly 
+$140,000 and the renter-occupied median income of $73,571 exceeds the county medians 
+by more than $10,000 each (Exhibit 16 through Exhibit 19). Increases in median income over 
+the last ten years have outpaced income growth for both Weld and Larimer Counties as a 
+whole. Additionally, the high margin of error for renter income in 2014 reflects a smaller 
+number of renters available to sample at that time. More renter households help create a 
+more reliable source for 2024. 
+Exhibit 16. Median Income by Tenure, Johnstown, 2014 and 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B25119 
+Note: Fewer renters in Johnstown in 2014 results in high margin of error 
+Exhibit 17. Change in Median Household Income, Johnstown, Larimer County, and Weld 
+County, 2014 and 2024 
+Geography 2014 2024 Change ($) Change (%) 
+Johnstown $78,298 $128,995 $50,697 65% 
+Larimer County $58,844 $93,765 $34,921 59% 
+Weld County $58,100 $97,097 $38,997 67% 
+Source: ACS 5-Year Data, 2010–2014 and 2020–2024, Table B25119 
+$78,298 
+$128,995 
+$81,070 
+$139,895 
+$36,599 
+$73,571 
+$0
+$20,000
+$40,000
+$60,000
+$80,000
+$100,000
+$120,000
+$140,000
+$160,000
+2014 2024
+ Median Income  Median Owner Income  Median Renter Income
+Page 23 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 18 
+Exhibit 18. Change in Median Household Income for Owner-Occupied Households, 
+Johnstown, Larimer County, and Weld County, 2014 and 2024 
+Geography 2014 2024 Change ($) Change (%) 
+Johnstown $81,070 $139,895 $58,825 73% 
+Larimer County $76,362 $119,525 $43,163 57% 
+Weld County $71,144 $113,420 $42,276 59% 
+Source: ACS 5-Year Data 2020–2024, Table B25119 
+ 
+Exhibit 19. Change in Median Household Income for Renter-Occupied Households, 
+Johnstown, Larimer County, and Weld County, 2014 and 2024 
+Geography 2014 2024 Change ($) Change (%) 
+Johnstown $36,599* $73,571 $36,972* 101%* 
+Larimer County $34,280 $60,436 $26,156 76% 
+Weld County $33,838  $54,856 $21,018 62% 
+Source: ACS 5-Year Data 2020–2024, B25119 
+* Fewer renters in Johnstown in 2014 results in high margin of error  
+Johnstown has a large share of high-earning households. Household income distribution 
+shows the share of households at specific income levels. Reflected in Johnstown’s household 
+median income of $128,995, nearly two thirds (65%) of households earn more than 
+$100,000. Approximately 21 percent earn between $50,000 to $100,000 and 14 percent 
+earn less than $50,000, with the Town’s income distribution shown in Exhibit 20. 
+Exhibit 20. Household Income Distribution, Johnstown, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B25118 
+8%
+6%
+13%
+8%
+29%
+36%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Less than $25k $25k to $50k $50k to $75k $75k to $100k $100k to $150k $150k or more
+Page 24 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 19 
+4. Economic Trends 
+This section discusses key components of Johnstown’s economy and how they affect the 
+demand for and cost of housing. The section summarizes trends in employment, wages, 
+commuting patterns, and other labor market indicators.  
+Employment Trends and Economic Conditions 
+Employment in Johnstown has grown in the last decade. 
+Johnstown saw an increase of 88 percent of jobs between 2013–2023, reporting a total of 
+6,674 jobs within the Town. Exhibit 21 shows the total number of jobs in Johnstown between 
+2002–2023. Longitudinal Employer-Household Dynamics (LODES) data categorize jobs in 
+three tiers, with the lowest category earning less than $1,250 per month, the middle range 
+earning between $1,250 and $3,333 per month, and the highest range earning more than 
+$3,333 per month. Roughly half of all jobs see earnings of less than $3,333 per month or 
+$40,000 per year (Exhibit 22). This share of lower-paying jobs is less than both Larimer and 
+Weld Counties (roughly 41% and 37% respectively). LODES reports earnings by job, not for a 
+worker who may hold multiple part-time jobs or a household that may have multiple workers. 
+Exhibit 21. Jobs Over Time, Johnstown, 2002–2023 
+ 
+Source: LODES 2023 
+Exhibit 22. Jobs by Salary Amount, Johnstown, Larimer County, Weld County, 2023 
+Geography Low (<$1,250/month) Mid  ($1,251–$3,333/month) High  (>$3,333/month) 
+Johnstown 23% 27% 50% 
+Larimer County 17% 24% 59% 
+Weld County 15% 22% 63% 
+Source: LODES 2023 
+900
+3,556
+6,674
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Page 25 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 20 
+Service jobs are driving employment growth in Johnstown. 
+Between 2013 and 2023, service producing jobs drove the overall increase of 88 percent, 
+with that category growing by 122 percent.  Exhibit 23 shows the breakdown of employment 
+by sector for Johnstown between 2013 and 2023. The table presents two main categories of 
+jobs: goods producing and service producing. Much of the growth came from increases in 
+wholesale trade, transportation, and warehousing as well as retail and services.  
+Exhibit 23. Employment by Sector, Johnstown, 2013 and 2023 
+Industry 2013 Jobs 
+(#) 
+2013 
+Jobs (%) 
+2023 
+Jobs (#) 
+2023 
+Jobs (%) 
+Change (%) 
+Goods Producing 1,104 31% 1,234 19% 12% 
+Construction and 
+Resources 
+881 25% 786 12% -11% 
+Manufacturing 223 6% 448 7% 101% 
+Service Producing 2,452 69% 5,440 82% 122% 
+Finance, Insurance, 
+and Real Estate 
+100 3% 177 3% 77% 
+Retail 461 13% 1,125 17% 144% 
+Services 703 20% 2,082 31% 196% 
+Wholesale Trade, 
+Transportation, and 
+Warehousing 
+240 7% 877 13% 265% 
+Education 388 11% 438 7% 13% 
+Health Services 560 16% 741 11% 32% 
+Total 3,556  6,674  88% 
+Source: Census on the Map Data 2023 
+Notes: (1). The services sector includes industries in information, professional scientific and technical 
+services, management of companies, administrative support and waste management, arts and 
+entertainment and recreation, accommodations and food services, other services, and public administration. 
+Johnstown’s workforce falls in the middle for educational attainment, 
+despite achieving higher wages. 
+Johnstown’s workforce generally has a higher educational level than that of Weld County as 
+a whole and less than Larimer County (shown in Exhibit 24). Johnstown’s median income 
+outpaces both of these comparative counties, as discussed above and referenced in Exhibit 
+17. 
+Page 26 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 21 
+Exhibit 24. Educational Attainment for Population Ages 25 or Older, Johnstown, Larimer 
+County, and Weld County, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B15003 
+Johnstown residents commute elsewhere in the region for work. 
+More people commute out of Johnstown for work than commute in. Johnstown’s commute 
+trend shows how more people who live in Johnstown work elsewhere than both employees 
+who work in Johnstown and live elsewhere or employees who live and work there (Exhibit 25). 
+This trend reflects this regional dynamic, with other towns in the region seeing similar 
+commuting patterns. 
+Exhibit 25. Commute Trend, Johnstown, 2023 
+ 
+Source: 2023 LEHD Origin-Destination Employment Statistics (LODES) 
+11%
+4%
+3%
+24%
+16%
+21%
+22%
+19%
+26%
+10%
+9%
+9%
+21%
+31%
+25%
+12%
+22%
+13%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Weld County
+Larimer County
+Johnstown
+Did not Graduate HS High School Graduate Some College and No Degree
+Assoicate's Degree Bachelor's Degree Graduate or Professional Degree
+669
+669
+9,383
+6,005
+0 2000 4000 6000 8000 10000 12000
+Workers from Johnstown
+Workers in Johnstown
+Live and Work in Town Live in Town, Work Outside of Town Live Outside of Town, Work in Town
+Page 27 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 22 
+Johnstown has a similar low jobs-housing ratio to the region. 
+The job-housing ratio is a measure of whether a community has enough housing to support 
+its workforce. A balanced ratio typically falls between 1.0 and 1.5 jobs per housing unit, 
+ensuring that local workers can find housing near their employment. A jobs-housing ratio 
+below one reflects that residents in Johnstown often leave the community to access their job. 
+Johnstown’s ratio of 0.88 (Exhibit 26) reflects the town’s commuting trends (shown in Exhibit 
+25). However, given the residential context along the North Front Range communities, 
+Johnstown’s ratio is relatively similar with overall trends in Weld and Larimer Counties. The 
+only comparative community with a ratio of more than one is Mead and Johnstown’s ratio 
+falls between that of Larimer and Weld Counties (Exhibit 26). 
+Exhibit 26. Jobs-Housing Ratio, Johnstown, Comparative Municipalities and Counties, 2023 
+Geography Jobs Housing Units Jobs to Housing 
+Ratio 
+Johnstown 6,674 7,599 0.88 
+Larimer County 161,552 167,042 0.97 
+Weld County 109,846 133,356 0.82 
+Berthoud 2,906 5,518 0.53 
+Mead 2,444 2,241 1.09 
+Milliken 1,265 3,161 0.40 
+Windsor 10,236 16,117 0.64 
+Source: 2023 SDO (Housing Units) and 2023 LODES (Employment) 
+Regional forecasts predict employment growth over the next three 
+decades. 
+Exhibit 27 provides two different employment forecasts for Johnstown as well as the SDO’s 
+employment forecasts for Larimer County, Weld County, and Colorado. While the Regional 
+Transportation Plan forecasts 26,241 jobs in Johnstown by 2050, this analysis focuses on 
+aligning projections by including both a linear projection based on recent LODES data and 
+SDO forecasts for Larimer and Weld Counties.2 
+The linear forecast for all jobs in Johnstown through LODES data uses the overall growth rate 
+of jobs in Johnstown between 2019 and 2023 then projects that number over time for an 
+estimated 10,556 jobs by 2050. The 2050 projection that incorporates SDO information 
+separates the number of jobs in Johnstown that intersect with Larimer and Weld Counties. It 
+then assigns the SDO’s estimated job growth rate for each county to the share of jobs in those 
+counties in 2023 over time, projecting 7,909 jobs in Johnstown by 2050. 
+ 
+2 NFRMPO, “2050 Regional Transportation Plan: Socioeconomic Trends,” September 7, 2023, 
+https://nfrmpo.org/wp-content/uploads/2050-rtp-chapter-2-section-1.pdf.  
+Page 28 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 23 
+Exhibit 27. Projected Employment Growth, Johnstown, Comparative Counties, Colorado, 
+2030, 2040, 2050 
+Geography 2023 2030 2040 2050 
+Johnstown 
+(Linear 2019–
+2023) 
+6,674 7,384 8,970 10,556 
+Johnstown 
+(County Growth 
+Rates) 
+6,674 6,999 7,572 7,909 
+Larimer County 212,903 215,131 226,087 230,671 
+Weld County 147,663 163,367 183,754 197,673 
+Colorado 3,463,894 3,630,438 3,911,508 4,078,769 
+Source: LODES, SDO, and ECOnorthwest Calculations 
+Page 29 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 24 
+5. Housing Inventory 
+This section profiles Johnstown’s supply of housing and associated characteristics. The profile 
+addresses a broad set of variables such as total housing units, units by type, occupancy 
+status, tenure of households, age of housing, and housing production. Throughout the report 
+a variety of local, state, and federal sources inform the analysis to summarize trends for the 
+Town’s housing inventory.  
+Housing Profile 
+Housing production in Johnstown has risen by more than 50 percent in 
+the last decade. 
+The total number of housing units in Johnstown grew by 58 percent since 2014, from 4,982 
+units to a reported total of 7,852 units in 2024. Exhibit 28 demonstrates that change over 
+ten years, showing an increase of 2,870 housing units (or 58%) between 2014 and 2024. 
+Exhibit 28. Total Housing Units, Johnstown, 2014 and 2024 
+Geography Housing Units (2014) Housing Units (2024) Change (#) Change (%) 
+Johnstown 4,982 7,852 2,870 58% 
+Source: SDO 
+About four in five housing units in Johnstown today are single-unit 
+detached homes. 
+Johnstown’s share of single-unit detached housing units (79%) exceeds that of Larimer and 
+Weld Counties (64% and 73%). Johnstown has a higher share of multi-unit housing (14%) 
+than Weld County (11%), but a lower share than Larimer County overall (19%). Weld and 
+Larimer Counties also both have a higher share of ‘middle housing’ (e.g., townhomes, 
+duplexes, triplexes, and fourplexes) as well as alternative housing options (e.g., mobile homes 
+and recreational vehicles). Exhibit 29 details this distribution across jurisdictions, with Larimer 
+County having the most diverse share of housing types.  
+Page 30 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 25 
+Exhibit 29. Housing Mix, Johnstown, Larimer County, Weld County, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B25024 
+Note: Categories with 1% or less not labeled 
+Housing in Johnstown is newer than in Larimer and Weld Counties.  
+The age of housing in a community can provide more context on housing quality, with newer 
+housing typically requiring lower maintenance costs than older homes. Generally, housing 
+built more than 30 years ago is more likely to have rehabilitation needs than housing built 
+more recently due to gradual physical deterioration. Maintenance needs can range from 
+critical repairs like plumbing, roofing, and foundation work to smaller ongoing expenses if not 
+cared for over time. 
+More than 70 percent of housing in Johnstown was built after 2000, reflecting the Town’s 
+recent accelerated population growth period. Comparatively, Weld County and Larimer 
+County have just over 50 and 40 percent of homes built after 2000, respectively, with the full 
+distribution shown in Exhibit 30. The largest share of housing in Johnstown by decade falls 
+into homes built between 2010 and 2019 (35%). This trend illustrates faster growth for 
+housing in the Town than across the region as a whole. 
+73%
+64%
+79%
+5%
+8%
+4%
+5%
+6%
+11%
+19%
+14%
+6%
+3%
+0% 20% 40% 60% 80% 100%
+Weld County
+Larimer County
+Johnstown
+Weld County Larimer County Johnstown
+Single-Unit Detached 73% 64% 79%
+Duplex/Triplex/Fourplex 5% 8% 4%
+Townhouse 5% 6% 1%
+Multifamily (5+ Units) 11% 19% 14%
+Mobile Home/Boat/RV/Van/Other 6% 3% 1%
+Page 31 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 26 
+Exhibit 30. Age of Existing Housing, Johnstown, Larimer County, Weld County, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B25034 
+ 
+4%
+1%
+0%
+2%
+3%
+4%
+14%
+30%
+35%
+6%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+1939
+or
+Earlier
+1940
+to
+1949
+1950
+to
+1959
+1960
+to
+1969
+1970
+to
+1979
+1980
+to
+1989
+1990
+to
+1999
+2000
+to
+2009
+2010
+to
+2019
+2020
+or
+Later
+Johnstown Larimer County Weld County
+Page 32 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 27 
+Johnstown has a vacancy rate of 4.2 percent, less than both Larimer 
+and Weld Counties. 
+The balance of vacant units in a community speaks to local availability of housing and 
+demand pressures. Typically, a “healthy” vacancy rate falls between five and seven 
+percent. When a community has more vacant units than people looking for a home, the 
+additional units available can help reduce these pressures. More vacancies can result in 
+lower rents and housing costs, contributing to a more affordable housing stock. Low vacancy  
+rates often reflect a high local demand for housing without enough units available for people 
+looking for a home. This constrained availability of housing can lead to higher rents and 
+housing prices, decreasing relative affordability levels while disincentivizing owners of rental 
+properties to update units. Low vacancies also represent limited options, limiting households 
+from finding housing that best fits their financial means and needs. 
+Johnstown’s vacancy rate is roughly one-half that of Larimer County (9.1%) and almost one 
+percent lower than Weld County (5%). Berthoud (7.4%) and Windsor (8.1%) both have 
+vacancy rates above seven percent, while Milliken and Mead have vacancy rates below three 
+percent. Shown in Exhibit 31, this vacancy rate would suggest a somewhat tight housing 
+market in Johnstown as well as more constraints finding a home than some surrounding 
+communities like Berthoud and Windsor.  
+Exhibit 31. Vacancy Rate, Johnstown, Comparable Jurisdictions, 2024 
+ 
+Source: SDO 2024 Total Housing Units and Occupied Housing Units 
+ 
+4.2%
+9.1%
+5.0%
+7.4%
+1.6%
+2.8%
+8.1%
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+7%
+8%
+9%
+10%
+JohnstownLarimer
+County
+Weld
+County
+BerthoudMead MillikenWindsor
+Page 33 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 28 
+Over three quarters of Johnstown households own their home. 
+More households own their home in Johnstown (78%) than in Larimer or Weld Counties as a 
+whole (64% and 76%). Housing tenure reports how many housing units are owner-occupied 
+or renter-occupied. This measure helps frame future housing needs in terms of what the 
+community may need going forward. Exhibit 32 compares Johnstown’s rate of owner- and 
+renter-occupied housing units, with Larimer and Weld Counties. 
+Exhibit 32. Housing Tenure, Johnstown, Larimer County, Weld County, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B25014 
+Housing Production 
+Production measures new homes built in a community, reflecting the pace and scale at which 
+builders are adding housing. Johnstown saw increased unit production in the early 2000s, 
+aligned with some of its fastest periods of population growth (see Chapter 3). Reflecting 
+national trends, building permits in Johnstown slowed in the mid-to-late 2000s and early 
+2010s, largely reflected in the national housing market crash during that time. Construction 
+had a relative peak in 2013 before slowing down for a few years and then experiencing a 
+large influx of building permits following 2022.  
+Johnstown has permitted more than 400 housing units each year since 
+2022, reaching a high of 1,158 in 2025. 
+From 1991 through 2021, Johnstown permitted fewer than 163 units per year on average, 
+with the largest number permitted in 2013 (378), displayed in Exhibit 33. Johnstown began 
+categorizing permitting data differently for multi-unit buildings and middle housing permits in 
+2022. Exhibit 33 displays all housing units approved in building permits (not total number of 
+building permits) to compare unit approval over time, further considering housing production 
+of unit types in Exhibit 35. 
+76%
+64%
+78%
+24%
+36%
+22%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%100%
+Weld County
+Larimer County
+Johnstown
+Owner-Occupied Renter-Occupied
+Page 34 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 29 
+Exhibit 33. Annual Housing Units Receiving Building Permit Approval, Johnstown, 1961–
+2025 
+ 
+Source: Town of Johnstown 
+Multi-unit production kickstarted in 2013, with eight new projects delivered since then. 
+Johnstown has a small historical inventory of multi-unit buildings since long before 2000, but 
+most housing production between then and 2013 consisted of single-unit or middle housing 
+types. Seven of the eight multi-unit developments since 2013 have added more than 200 
+housing units. The current inventory of multi-unit housing in Johnstown in 2026, as shown in 
+Exhibit 34, reached 1,938. 
+Exhibit 34. Housing Unit Inventory in Multi-Unit Buildings, Johnstown, 2010–2026 YTD 
+Source: Costar 
+Johnstown has also started issuing more permits for middle housing in recent years. This 
+construction, along with the multi-unit construction, reflects a notable shift to higher-density 
+378
+1,158
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1961-1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+Annual Housing Units Permitted
+267
+1,938
+0
+200
+400
+600
+800
+1,000
+1,200
+1,400
+1,600
+1,800
+2,000
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+Cumulative Housing Units
+Page 35 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 30 
+development trends, with more units in multi-unit buildings permitted in 2023 and 2025 than 
+single-unit homes. Exhibit 35 also illustrates how middle housing types have become more 
+prevalent since the Town has started keeping track of their development, with 90 units in 
+2022 and 433 units between 2023 and 2025. 
+Exhibit 35. Building Permits by Housing Type, Johnstown, 2021–2025 
+Source: Town of Johnstown and ECOnorthwest 
+Note: Johnstown reports the number of middle housing buildings permitted. To create this exhibit, 
+ECOnorthwest calculated the number of units in the middle housing buildings. 
+Regulated Affordable Housing in Johnstown  
+Regulated affordable housing describes properties that have legal mechanisms in place that 
+require housing to be available only to residents who earn certain levels of the Area Median 
+Income (AMI). This type of housing is a vital component of affordable housing supply in a 
+community because market rate housing is often out of reach for many residents. Naturally 
+occurring affordable housing (NOAH) is not regulated through affordable housing programs, 
+but is attainable for households with lower incomes, usually due to the age, condition, 
+location, or housing type of the unit, which this analysis reviews in the next section. 
+Regulated affordable housing is sometimes referred to as government-assisted housing, 
+speaking to how public funds often support the production and maintenance of these 
+developments. Affordability restrictions vary between properties in both financial support and 
+length of time a property is subject to affordability standards.  
+184
+356
+172
+349
+440
+42
+82
+56
+50
+66
+20 1540
+60
+75
+17285
+252
+630
+0
+200
+400
+600
+800
+1000
+1200
+1400
+2021 2022 2023 2024 2025
+Single-Unit Duplex 3-4-Plex 5-7-Plex 8+ Multi-Unit
+Page 36 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 31 
+Johnstown does not have any properties that received Low Income Housing Tax Credit 
+(LIHTC) support. LIHTC is the most common source of new federal government-supported 
+affordable housing. The Johnstown Housing Authority Board oversees one property in the 
+Town. The Columbine Complex is a 24-unit apartment complex for older adults that was built 
+in 1983, with units spread across two buildings.  
+Naturally Occurring Affordable Housing (NOAH) 
+NOAH provides units affordable to lower-income households without any form of public 
+subsidy. This type of housing does not have price limitations for rental or ownership 
+opportunities. Typically, this type of housing is older, smaller, and/or of lower quality with 
+fewer amenities, older appliances, or appears older than newer, more recently updated units 
+(which makes them more attainable for households earning below 100% of AMI). Often, these 
+properties have some deferred maintenance or capital needs that the owner has not 
+addressed. Because a general lack of enough regulated affordable housing exists across the 
+country, NOAH represents an important part of the housing stock in a community.  
+While NOAH units play a critical role in providing affordable options, they also have inherent 
+vulnerability to rent increases, reinvestment pressures, or redevelopment, which can lead to 
+the displacement of lower-income residents. Maintaining and preserving this stock often 
+emerges as an important housing policy goal, as it represents a significant share of the 
+naturally affordable rental housing available in most communities. 
+Johnstown has two manufactured home parks, with one operating as a 
+resident-owned cooperative.  
+Manufactured home parks are a source of naturally occurring affordable housing, but they 
+face unique risks that other housing types do not. Residents are particularly vulnerable to 
+sudden rent increases, land sales, and redevelopment pressures, which can result in 
+displacement. Furthermore, inadequate maintenance by park owners or managers can lead to 
+deteriorating infrastructure and possibly unsafe living conditions. 
+There are approximately 66 lots across the two parks in Johnstown,3 providing sources of 
+naturally occurring affordable housing near the central downtown area. Paradise Village is a 
+resident-owned cooperative, generally reflecting an effort to ensure stability for park residents. 
+As of June 2026, neither park was for sale. 
+ 
+3 Estimated with ECOnorthwest and Johnstown staff in reference to available sources and local knowledge (MH 
+Village, “Paradise Village Mobile Home Park,” https://www.mhvillage.com/parks/5455 and “Johnstown Mobile 
+Home Park,” https://www.mhvillage.com/parks/32859). 
+Page 37 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 32 
+Johnstown has two recreational vehicle (RV) parks, both primarily 
+serving long-term stays. 
+Similar to manufactured home parks, RV parks can be a source of naturally occurring 
+affordable housing. While manufactured home parks traditionally hosted structures on a 
+chassis, many rarely move. Conversely, RV parks serve motor homes, trailers, and other 
+vehicles with a range of beds, kitchens, and restroom capabilities. These parks offer parking 
+pads, utility hookups, and other shared amenities, and may limit the length of stay to comply 
+with municipal code. RV Retreat is in Johnstown’s boundaries. Falcon’s Landing is just outside 
+Johnstown’s border, in its growth management area. Both RV Retreat and Falcon’s Landing sit 
+alongside Interstate 25 and focus on serving longer-term stays. 
+Page 38 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 33 
+6. Housing Market Trends 
+This section provides detail on Johnstown’s current housing market landscape. Beyond the 
+general characteristics of housing covered in the previous chapter, this section expands on 
+market dynamics using industry platforms like Costar and Redfin to summarize trends for the 
+Town’s housing inventory to illustrate housing costs and relative affordability of housing. 
+Housing cost has a direct relationship to housing choice for households at all income levels. 
+In general, if housing supply exceeds housing demand, housing prices will decrease. If 
+housing demand exceeds housing supply, housing prices typically increase. The availability of 
+housing often tracks with vacancy rates, which compose one factor that can affect housing 
+costs along with other economic conditions such as interest rates.  
+For-Sale Housing Trends 
+Johnstown has lower median home prices than most comparative 
+communities. 
+The median home value in Johnstown for the last 12-month period ($489,747) is close to 
+the Weld County median of $483,649, but lower than other nearby places. Exhibit 36 shows 
+the median sale price of homes for Johnstown and these communities (except Milliken) in the 
+reporting period ending April 2026. Johnstown had a slightly higher median sales price than 
+Weld County as a whole.  
+Exhibit 36. Median Home Sales Price, Johnstown, Comparative Municipalities and Counties, 
+Period Ending April 2026 
+ 
+Source: Redfin 
+$574,703 
+$450,267 
+$559,711 
+$610,280 
+$483,649 
+$563,426 
+$489,747 
+$0 $100,000$200,000$300,000$400,000$500,000$600,000$700,000
+Windsor
+Milliken
+Mead
+Berthoud
+Weld County
+Larimer County
+Johnstown
+Page 39 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 34 
+Over the past year, Johnstown has seen a steady market for buying and 
+selling homes and relatively stable prices. 
+Between May 2025 and April 2026, the median sale price only fluctuated by approximately 
+$10,000. Exhibit 37 details the last year of sale housing market trends in Johnstown, with 
+generally stable prices. During this time period, Johnstown’s inventory of for-sale homes 
+remained relatively steady from 467 to 426, reflecting only a slight decrease in available 
+homes for purchase. In that same time, the average days on the housing market increased 
+from 59 to 87, indicating a slightly increased time before a home is purchased. These slight 
+changes may also indicate fluctuations throughout the year and larger economic pressures.  
+Despite recently stable prices, home sales in Johnstown have risen considerably over the past 
+decade. According to ACS 5-Year estimates, the median home sales price in the town 
+increased by 135 percent (not adjusted for inflation) between 2014 and 2024.4 
+Exhibit 37. Johnstown Housing Market Inventory (Periods Ending May 2025–April 2026) 
+Month  Median Sale Price Homes Sold New Listings Inventory Days on Market 
+May 2025 $490K 198 274 467 59 
+June  $500K 209 270 454 60 
+July  $492K 188 248 456 56 
+August  $490K 190 211 450 64 
+September  $489K 177 207 445 73 
+October $490K 184 188 457 76 
+November  $495K 164 167 419 73 
+December  $498K 170 144 396 77 
+January  $496K 158 156 384 85 
+February  $495K 153 190 397 85 
+March  $495K 151 229 409 84 
+April 2026 $490K 171 225 426 87 
+Source: Redfin  
+Rental Housing Trends  
+Average rents in the region have increased over the last decade.  
+Johnstown’s median rent of $1,835 in 2024 was higher than Larimer County ($1,716) and 
+Weld County ($1,539) as well as Berthoud ($1,795), Mead ($1,275), and Windsor ($1,793), 
+although lower than Milliken ($2,102). As shown in Exhibit 38, the rate at which rent 
+increased between 2014 and 2024 was similar to that of Windsor, with sharp increases in 
+ 
+4 ACS 5-Year Data, 2010–2014 and 2020–2024, Table B25077 
+Page 40 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 35 
+other comparable jurisdictions nearby. The increases for both counties as a whole reflect a 
+generally larger strain on household budgets to afford rental housing in 2024.  
+Exhibit 38. Median Gross Rent, Johnstown, Comparable Jurisdictions, 2024 
+ 
+Source: ACS 5-Year Data, 2020–2024, Table B25064 
+Note: Estimates for Mead reported a high margin of error 
+Costar is a real estate market platform that tracks commercial real estate, including multi -
+unit rentals. This can provide a more accurate up-to-date picture of rental prices in 
+Johnstown, which shows an average asking rent of $1,816 in 2026 year-to-date (YTD) which 
+generally aligns with 5-Year ACS estimates. Over the last decades, multi-unit rents have 
+slowly increased, with the largest change between 2020 and 2021. 
+Exhibit 39. Average Multi-Unit Asking Rent per Unit, Johnstown, 2016-June 2026 (YTD) 
+ 
+Source: Costar 
+Note: Costar does not capture rents in buildings with less than 6 units. Not adjusted for inflation 
+$1,368 
+$1,001 $868 $815 
+$1,193 
+$1,019 
+$1,221 
+$1,835 
+$1,716 
+$1,539 
+$1,795 
+$1,275 
+$2,102 
+$1,793 
+$0
+$500
+$1,000
+$1,500
+$2,000
+$2,500
+JohnstownLarimer
+County
+Weld
+County
+Berthoud Mead MillikenWindsor
+20142024
+$1,558$1,570$1,603$1,604
+$1,752$1,751$1,778$1,744$1,778$1,816
+$0
+$200
+$400
+$600
+$800
+$1,000
+$1,200
+$1,400
+$1,600
+$1,800
+$2,000
+2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+YTD
+Page 41 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 36 
+Exhibit 40 below shows the observed rent and median home sale price in Johnstown in 
+Quarter 2 (Q2) 2026 as reported by Costar and Redfin. With an observed multi-unit rent of 
+approximately $1,800 (aligned with ACS 5-Year estimates) a household would have to make a 
+minimum of $72,000 or more to afford the average multi-unit rent in Johnstown without 
+being cost-burdened, meaning they do not spend more than 30 percent of their income on 
+housing costs. In comparison, with a median sale price of $490,000 a household would have 
+to make about $155,000 or more to afford the average home in Johnstown. 
+Exhibit 40. Average Multi-Unit Rents and Median Sale Price in Johnstown and Related 
+Affordability (Q2 2026) 
+ 
+Source: Costar, Redfin, and ECOnorthwest affordability calculations 
+Note(s):  
+1. Affordability for median sale price assumes 30-year mortgage at seven percent with five percent down 
+payment and 20 percent of the payment covering property taxes, HOA, PMI and insurance. It also assumes 
+an affordable mortgage payment where the monthly mortgage does not exceed 30 percent of a household’s 
+income.  
+2. Affordability for the observed rent assumes that households do not spend more than 30 percent of their 
+income on rent. 
+Housing Affordability 
+Housing affordability represents both the income of a household and the costs of a housing 
+unit appropriate for that household. Exhibit 41 provides income categories provided by the 
+U.S. Department of Housing and Urban Development. The information mentioned below 
+relates specifically to income in the Greeley Metropolitan Statistical Area (MSA), as the 
+majority of residents in Johnstown currently live in Weld County. 
+• For the "Extremely Low Income" category (earning 30% or less of the area median 
+income, or AMI), income limits range from approximately $26,250 for a single-person 
+household to $37,470 for a four-person household. 
+Page 42 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 37 
+• In the "Very Low Income" category (30–50% of AMI), income limits range from 
+$43,750 for a single-person household to $62,450 for a four-person household. 
+• For the "Low Income" category (50–80% of AMI), limits range from around $70,000 
+for a single-person household to $99,920 for a four-person household. 
+• The "Moderate Income" category (80–120% of AMI) includes income limits ranging 
+from $105,000 for a single-person household to $149,880 for a four-person 
+household. 
+Exhibit 41. Greeley MSA Income Limits by Household Size for 2026 
+AMI 1-person 2-person 3-person 4-person 5-person 6-person 
+120% $105,000 $119,880 $135,000 $149,880 $161,880 $173,880 
+100% $87,500 $99,900 $112,500 $124,900 $134,900 $144,900 
+80% $70,000 $79,920 $90,000 $99,920 $107,920 $115,920 
+50% $43,750 $49,950 $56,250 $62,450 $67,450 $72,450 
+30% $26,250 $29,970 $33,750 $37,470 $40,470 $43,470 
+Source: HUD Multifamily Tax Subsidy Project Income Limits 
+Exhibit 42 below illustrates housing affordability and the attainable monthly rent and home 
+sale price on household income. CHFA’s HUD-derived calculation reports the median income 
+for a family of four in the Greeley MSA in 2026 as $124,900 (100 percent of AMI). 
+The estimates in Exhibit 42 report what households could afford for a home assuming a 30-
+year mortgage at 7 percent with 5 percent down payment and 20 percent of the payment 
+covering property taxes, homeowners’ association fees, property mortgage insurance and 
+general home insurance. It also assumes an affordable mortgage payment where the monthly 
+mortgage does not exceed 30 percent of a household’s income.  
+Monthly affordable rent assumes that households do not spend more than 30 percent of their 
+income on rent. They do not consider other household financial characteristics that can affect 
+the ability to pay for housing, including other household debt such as auto loans and credit 
+cards as well as accumulated assets. 
+Based on the information above regarding average rent and median home prices in 
+Johnstown, a household earning 100 percent of AMI in 2026 could not afford to purchase the 
+median-priced home in Johnstown. However, this household could afford the average rent. 
+Johnstown’s housing market is becoming increasingly unaffordable for middle-income 
+families, particularly for homeownership. Households at 100 percent of AMI ($124,900) 
+cannot afford the median home price of $490,000 requiring an income of $155,000 or more 
+to purchase. While rents generally appear affordable to a wider range of households, newer 
+rental units typically see pricing at the higher end of the market, making them less accessible 
+to the average household. 
+Page 43 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 38 
+Exhibit 42. Housing Affordability in Weld County for a Family of Four in 2026 
+ 
+Source: HUD, BLS Wage Data by Area and Occupation for Greeley MSA, ECOnorthwest Calculations 
+Note(s):  
+1. Affordable home sale price assumes 30-year mortgage at seven percent with five percent down payment 
+and 20 percent of the payment covering property taxes, Homeowners Association (HOA), Private Mortgage 
+Insurance (PMI), and homeowners’ insurance. It also assumes an affordable mortgage payment where the 
+monthly mortgage does not exceed 30 percent of a household’s income.  
+2. Affordable monthly rent assumes that households do not spend more than 30 percent of their income on 
+rent. 
+Page 44 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 39 
+7. Housing Challenges 
+The residents of Johnstown face a range of housing conditions and challenges in the local 
+landscape. Additionally, integrating economic, demographic, and housing insights in this 
+chapter helps to provide an overview of specific populations at risk of displacement in 
+Johnstown. Households at risk of displacement are vulnerable to losing their place of living 
+and face distinct barriers to finding other housing that fits their needs. 
+Housing Cost Burden 
+State and federal sources that address affordable housing define households spending more 
+than 30 percent of gross annual income on housing as “housing cost-burdened.” When a 
+household spends more than 30 percent of its income on housing costs (e.g., rent/mortgage, 
+utilities, insurance, property taxes, etc.), households have less disposable income for other 
+necessities like health care, food, and clothing. The share of households experiencing housing 
+cost burden may rise when housing costs increase faster than household income. A 
+household that spends more than 50 percent of its income on housing costs experiences 
+severe cost burden. 
+In the event of unexpected circumstances such as the loss of employment or serious health 
+problems, lower-income households with a burdensome housing cost have a higher likelihood 
+of finding themselves unhoused or forced to “double up” with other households (e.g. move in 
+with friends, family, or roommates). While homeowners with a housing cost burden have the 
+option of selling their homes to downsize or become renters, households that rent face more 
+vulnerability and constant changes in the housing market. 
+Cost burden has decreased for homeowners but increased for renters in 
+Johnstown. 
+The overall share of all households (including homeowners and renters) who experienced 
+some form of cost burden remained even at 27 percent between 2014 and 2024. During this 
+period, there was a slight shift with more of these households experiencing severe cost 
+(paying 50% or more of their income towards housing) as shown in Exhibit 43.  
+Page 45 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 40 
+Exhibit 43. Overall Cost Burden and Severe Cost Burden, Johnstown, 2014 and 2024 
+ 
+Source: ACS 5-Year Estimates 2020–2024, Tables B25095 and B25074 
+Exhibit 44 and Exhibit 45 illustrate the dynamics of who experiences housing cost burden in 
+Johnstown. The overall share of homeowners that experience cost burden has decreased 
+from 27 percent to 22 percent in the last decade. 
+Exhibit 44. Homeowner Cost Burden and Severe Cost Burden, Johnstown, 2014 and 2024 
+ 
+Source: ACS 5-Year Estimates 2020–2024, Table B25095 
+20% 17%
+7%
+10%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+2014 2024
+ Cost Burden  Severe  Cost Burden
+21%
+14%
+6%
+8%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+2014 2024
+ Owner Cost Burden  Owner Severe Cost Burden
+Page 46 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 41 
+In comparison, cost burden has increased for renters. Low-income renters in particular often 
+navigate a housing environment with a lack of affordable options, with challenges becoming 
+more acute when paired with a low vacancy rate and greater vulnerability to increases in 
+rental costs. Johnstown has seen an acceleration in the number of multi-unit buildings 
+constructed in the last ten years. With those additions, the ACS 5-Year survey estimates that 
+the overall number of households that rent have increased from 299 to 1,552. 
+The share of households that rent and experience cost burden increased from 37 percent in 
+2014 to 43 percent in 2024. Despite this increase, Johnstown’s cost-burdened renter 
+population remained below both Larimer and Weld Counties. Both counties reported rates of 
+cost-burdened renters higher than 50 percent, indicating somewhat less strained conditions 
+in Johnstown than the region. 
+Exhibit 45. Renter Cost Burden and Severe Cost Burden, Johnstown, Larimer County, and 
+Weld County, 2014 and 2024 
+ 
+Source: ACS 5-Year Estimates 2020–2024, Table B25074 
+Note: * Fewer renters in Johnstown in 2014 results in high margin of error 
+Housing Overcrowding  
+The U.S. Department of Housing and Urban Development (HUD) considers a household 
+overcrowded when it has a ratio of more than one person per room within a housing unit. In 
+this context, "rooms" refer to spaces such as living rooms, dining rooms, kitchens, bedrooms, 
+finished recreation rooms, enclosed porches suitable for year-round use, and lodgers' rooms. 
+This definition serves as a guideline to identify living situations where the available space may 
+not adequately serve the number of occupants, potentially affecting their comfort, safety, and 
+overall quality of life. The data for measuring overcrowding are made available through the 
+37%
+43%
+55% 53%
+48%
+52%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+2014 2024
+Johnstown Larimer County Weld County
+Page 47 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 42 
+HUD Comprehensive Housing Affordability Strategy (CHAS) dataset, providing the most recent 
+data for the years 2018 and 2022.  
+Most households that experience overcrowding are renters. 
+These households make up a small portion of the overall population, with 185 of the 
+approximately 6,500 total households in Johnstown experiencing overcrowding as of 2022 
+(about 3%).5 Most (140) of these households rent their homes, with roughly half earning 
+between 30–80 percent of AMI (considered low-income) and the other portion earning above 
+100 percent of AMI. Of the households that own their homes, 45 experience housing 
+overcrowding and earn above 80 percent of AMI. 
+Housing Standards 
+Beyond housing cost and overcrowding, some households live in substandard housing, 
+defined by HUD as housing that lacks complete plumbing or kitchen facilities. Only about four 
+percent of households (285) in Johnstown experience these conditions, however all in this 
+subset rent their home.6  
+Accessible and Visitable Units 
+American Community Survey (ACS) estimates show individual-level statistics about the rate of 
+disability among Johnstown’s population.7 Around 1,663 residents (about 9% of the 
+population) reported having a disability, with prevalence increasing with age. Among those 
+aged 65 and older, roughly 32 percent experience some form of disability, highlighting the 
+need for housing that accommodates both physical and cognitive limitations to support safe 
+and independent living. 
+The HUD Comprehensive Housing Affordability Study (CHAS) provides estimates for the 
+number of households that have at least one member with at least one disability. Households 
+may include one member that has more than one disability. Focusing on households with at 
+least one member who has an ambulatory disability or self-care or independent living 
+limitation highlight housing needs, such as visitable units and housing that accommodates 
+ground-level entry and ramps. 
+Most households with a member who has an ambulatory disability or 
+self-care or independent living limitation have lower incomes. 
+Data from the HUD CHAS suggest that 2,980 households in Johnstown had at least one 
+member with a disability that required accessibility accommodations in 2022. The 
+distribution across individual disabilities was relatively even, with households reporting at 
+ 
+5 2018–2022 CHAS, Table 3 
+6 2018–2022 CHAS, Table 3 
+7 ACS 5-Year Estimates, 2020–2024, Table S1810 
+Page 48 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 43 
+least one member most frequently with a hearing or vision disability (870). Exhibit 46 also 
+provides income levels for households with at least one member with a disability, reflecting 
+that the largest share of households fell in the <30 percent of AMI category.  
+Exhibit 46. Households with At Least One Member with a Disability, Johnstown, 2022 
+Disability 0–30% AMI 30–50% AMI 50–80% AMI 80% AMI+ Total 
+Hearing or Vision 320 60 155 155 870 
+Ambulatory 380 0 105 225 710 
+Cognitive 300 40 120 210 670 
+Self-Care/ 
+Independent 
+Living Limitation 
+350 0 185 195 730 
+Source: 2018–2022 CHAS, Table 6 
+Note: CHAS may tabulate a single household in more than one category accounting for individuals with 
+multiple disabilities or households having multiple individuals with different disabilities. 
+Of these households, 1,020 with incomes below 80 percent of AMI reported ambulatory 
+disabilities or independent living limitations as present in their household. To address the 
+needs of this population, understanding the prevalence of different disability types speaks to 
+the scale of need for visitable units in Johnstown. 
+Homelessness 
+The Northern Colorado Continuum of Care (CoC) serves Larimer and Weld Counties, officially 
+recognized by HUD in January 2020. A CoC provides collaborative support for households 
+and individuals experiencing local homelessness, coordinating emergency, transitional, and 
+permanent housing opportunities among providers with capacity. A CoC also supports 
+prevention and diversion strategies, outreach and engagement, and manages a Homeless 
+Management Information System (HMIS), a local data source for monitoring how the region 
+has supported individuals experiencing homelessness. 
+The Colorado Homelessness Management Information System defines different experiences of 
+homelessness as such: 
+• Sheltered: persons staying in emergency shelters, transitional housing, and safe havens. 
+• Unsheltered: persons living in tents, cars, and other places not meant for human habitation. 
+• Chronic: persons who have experienced long-term, persistent homelessness, often due to a 
+lack of access to healthcare, affordable housing, and supportive services. 
+Point-in-Time (PIT) Count 
+The PIT count reports the count of sheltered and unsheltered individuals and families 
+experiencing homelessness on a single night in January each year. Because the PIT only 
+measures homelessness on one night of the year and only accounts for sheltered and 
+Page 49 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 44 
+unsheltered homelessness, it represents an undercount of the actual number of people 
+experiencing homelessness, with some suggestions that it undercounts the unsheltered 
+population by as much as 30–60 percent.8 Despite these well-known limitations of PIT data, 
+no alternative official data source exists that measures the count of unhoused individuals who 
+have not necessarily accessed housing or related services through HMIS partners. Where 
+possible, this analysis reports actual nominal data and intentionally avoids percentages to 
+avoid extrapolating shares or rates to a wider population.  
+PIT data is not available at the jurisdiction level for Johnstown, with the Northern Colorado 
+CoC reporting a count across its service area. The Northern Colorado CoC PIT recorded a total 
+of 893 people experiencing homelessness across all of Larimer and Weld Counties on one 
+night in 2024. Of this total, 223 individuals composed a part of a family (including at least 
+one adult and one child facing homelessness). Another 251 adults not in families reported 
+experiencing chronic homelessness. The PIT count reported 622 people defined as sheltered, 
+while identifying 271 people as unsheltered, presented in Exhibit 47. These estimates do not 
+necessarily include Johnstown but encompass the larger region. 
+Exhibit 47. Number of Unhoused Individuals, Northern Colorado Continuum of Care, 2021 
+and 2024 
+ 
+Source: U.S. Department of Housing and Urban Development, Point in Time Count, 2021 and 2024 
+The PIT count reports how different groups experience homelessness within the complete 
+count, offering a chance to consider how homelessness affects specific people within the 
+region. For example, it includes the number of unaccompanied youth and veterans 
+ 
+8 See for example: Wilder Research, Homelessness in Minnesota - Findings from the 2015 Minnesota Homeless 
+Study (2016). (See http://mnhomeless.org/minnesota-homeless-study/reports-and-fact-sheets/2015/2015-
+homelessness-in-minnesota-11-16.pdf) 
+Kim Hopper, Marybeth Shinn, Eugene Laska, Morris Meisner, and Joseph Wanderling, 2008: Estimating Numbers 
+of Unsheltered Homeless People Through Plant-Capture and Postcount Survey Methods. American Journal of 
+Public Health 98, 1438_1442, https://doi.org/10.2105/AJPH.2005.083600. 
+622
+563
+271
+0 200 400 600 800 1000
+2024
+2021
+Sheltered Unsheltered
+Page 50 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 45 
+experiencing homelessness, reflecting groups who face unique barriers to finding stable 
+housing documented in regional data. According to the PIT, 45 veterans and 29 
+unaccompanied youth experienced homelessness regionally on the night of the 2024 PIT 
+count. 
+Displacement Risk 
+Housing displacement happens when someone is no longer able to remain in their 
+community due to rising costs, loss of housing, or changing conditions that make it difficult to 
+stay where they are. Although it is not possible to fully predict where displacement will 
+happen, identifying populations at risk of experiencing displacement can help identify those 
+who may need additional support in finding or maintaining their housing.  
+Direct displacement pressures include redevelopment, eminent domain, lease non-renewals, 
+evictions, and other pressures that have the immediate effect of forcing residents to move. 
+Economic displacement pressures include rising rents, loss of income, and other factors that 
+affect housing affordability. 
+Cultural displacement pressures include neighborhood change, loss of cultural assets, 
+language barriers, and other conditions that affect a sense of belonging to a place and a 
+community. 
+Displacement can also occur when housing market conditions change in communities with 
+elevated shares of populations at risk of displacement. This analysis provides an overview of 
+some populations in Johnstown who may face displacement: 
+¨ Of the estimated 6,525 households in Johnstown in 2022, 2,015 earned less than 80 
+percent of AMI ($79,200 for a family of four in Weld County in 2022).9 HUD 
+describes these households as low-income. 
+¨ Approximately 680 renter households experienced cost burden in 2024. This count 
+represents roughly 43 percent of the renter households in Johnstown, who are more 
+vulnerable to increases in their housing costs than households that own their home 
+when rents increase.  
+¨ Of the 66 manufactured home park lots in town, 26 of them are not a part of a 
+resident-owned cooperative. Leasing space in these lots does not have the same 
+protections associated as those within a cooperative. An outside park owner could sell 
+or redevelop the park for other purposes. Proximity to Johnstown’s downtown and an 
+industrial employment base could encourage that transition.  
+¨ There are approximately 200 spaces available for Recreational Vehicle (RV) parking 
+in two locations in Johnstown. While not all those who stay are long-term residents, 
+these spaces provide more affordable places to park an RV and live in the town but 
+could be vulnerable to external conditions like property ownership changes. 
+ 
+9 2018–2022 CHAS, Table 7; HUD 
+Page 51 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 46 
+¨ In 2022, over half of households with an income less than 80 percent of AMI (1,020 
+of 2,015) reported living with at least one member with an ambulatory disability or 
+independent living limitation. This share of the population has specific housing needs 
+to access their living space, including ground-level entry, ramps, and/or a single-level 
+living space. Additionally, having an income less than 80 percent of AMI may constrain 
+these households’ ability to find housing that meets their needs affordably.  
+¨ In 2022, 395 households earned less than 50 percent of AMI and included someone 
+age 62 or older. Of those households, 135 rented their home. 
+¨ The Housing Authority supports 17 tenants through USDA Rural Development 
+Vouchers. The property provides housing to 24 tenants who are at least 62 years of 
+age or have a disability, with most earning between 30–45 percent of AMI. The 
+development was completed in 1983 and has two buildings. 
+ 
+The populations listed above cross over different themes of displacement. Renter households 
+often navigate stability pressures, often without the ability to obtain long-term leases that 
+lock-in current prices. Changing rental prices can strain budgets if household incomes do not 
+increase at the same pace.  
+A key challenge many low-income households face (particularly in communities like 
+Johnstown with limited inventories of regulated affordable housing) lies in competition for 
+naturally occurring affordable housing from higher-income households. In many instances, a 
+higher-income household may choose a less expensive housing option if available and it 
+meets household needs. Other households may already have secured their home, choosing to 
+remain even as their household income increases. Low-income households do not have the 
+same ability to compete upward for housing without becoming housing cost burdened. Low-
+income households have clear disadvantages in competing for lower-cost housing given entry 
+costs (down payment for owner units, advance rent, and deposits for rental units) and 
+required credit reports. 
+Aging households and households with at least one member that has a disability also present 
+a population vulnerable to housing displacement. This population often has a fixed income 
+and cannot afford more expensive housing than their current home. Additionally, the need for 
+ground-level entry, visitable units, and other specific features can reduce available housing 
+options. 
+The Housing Authority is able to provide targeted housing services in part due to federal 
+support. Uncertain housing support funding landscapes may strain the capacity of the 
+authority to provide an adequate level of care to those living in that space. Since that 
+population crosses over individuals earning less than 50 percent of AMI, those residents 
+would struggle to find housing that meets their financial and accessibility needs if displaced 
+from that building. 
+Residents living in either a manufactured home park or RV park are vulnerable to changing lot 
+prices or redevelopment. The price of leasing a space could increase at any time, with no 
+Page 52 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 47 
+immediately available spaces to move into. In situations where these homes are on parcels 
+susceptible to redevelopment, residents may see development pressures. 
+What We Heard: Engagement Findings 
+Community engagement survey results indicate that displacement pressure extends beyond 
+rent and home prices. Residents frequently identified other factors like property taxes, 
+metropolitan district charges, utilities, insurance, HOA fees, and transportation costs as factors 
+that determine whether they can remain in their homes. These pressures may particularly 
+affect older adults with fixed-income, lower-income homeowners, renters facing cost increases 
+passed through by property owners, and households that earn too much to qualify for 
+housing assistance but cannot afford available ownership options. Respondents also 
+connected housing affordability to proximity to jobs and services, noting that workers may 
+face longer and more expensive commutes when they cannot find housing in Johnstown. 
+Page 53 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 48 
+8. Housing Resources 
+Individual housing service providers support residents across Weld and Larimer Counties, with 
+most based outside of Johnstown but available to Johnstown residents. Some services revolve 
+around homelessness support, while other organizations may not solely address housing and 
+provide direct access to education or food resources that have secondary connections to 
+housing and stability. The Town has a Housing Authority Board that manages one property, 
+while regional actors support direct services for households living in Northern Colorado. 
+Additionally, both Larimer and Weld Counties offer social service support, with more capacity 
+to coordinate regional funding. 
+Local Housing Resources 
+The Johnstown Housing Authority Board 
+oversees 24-units of housing across two 
+buildings called the Columbine Complex, serving 
+adults 62 years or older or individuals with a 
+disability. Built in 1983 and across the street 
+from Roosevelt Middle School, this is the only 
+housing in the town that receives federal funding 
+support. Most of the residents who live there 
+earn between 30–45 percent of AMI and over 
+two-thirds of the residents receive Rural 
+Development Vouchers from the USDA. 
+Johnstown also has local services such as the 
+library that can provide central spaces for 
+accessing resources. 
+Regional Housing Resources and Services 
+United Way Weld County supports housing resource support through its Weld Way Home 
+initiative.10 The organization provides youth education and support, assistance for older adults 
+in aging, and resource navigation. The organization has moved to prioritize supporting direct 
+service partners in the region rather than acting as the central service provider. For example, 
+United Way Weld County also manages the Northern Colorado Continuum of Care (CoC), the 
+community collaborative that convenes partners to address homelessness in Weld and 
+Larimer Counties. 
+As noted in the previous chapter, HUD officially recognized the Northern Colorado Continuum 
+of Care in January 2020. The CoC brings together partner agencies across the region to 
+ 
+10 United Way Weld County, “Weld’s Way Home,” Accessed July 29, 2026, https://www.unitedway-
+weld.org/initiatives/welds-way-home/.  
+Source: Johnstown Housing Authority 
+ Exhibit 48. Columbine Complex 
+Page 54 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 49 
+centralize responses to homelessness and support partnerships across housing, healthcare, 
+and local government agencies. Members of its governing board include representatives from 
+local government and nonprofit organizations as well as housing support agencies like the 
+Community Economic Defense Project and High Plains Housing Development. Community 
+Economic Defense Project provides tenant support through eviction prevention and legal 
+assistance, while the High Plains Housing Development constructs income-specific housing in 
+the region. 
+Almost Home is a regional partner that provides services in Weld and Adams Counties. The 
+organization offers programs that aim to stabilize households at risk of eviction, emergency 
+rehousing and shelter, and outreach. 
+The NoCo Foundation also engages in regional philanthropy and coordinates community 
+initiatives, including its NoCo Housing Initiative.11 The foundation’s investments span 
+homelessness resources, rental housing, and homeownership support with grants, down 
+payment assistance, loan funds, and dedicated staff support. 
+ 
+11 NoCo Foundation, “NoCo Housing Initiative,” Accessed July 30, 2026, https://nocofoundation.org/noco-
+housing-initiative.  
+Page 55 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 50 
+9. Housing Development 
+Challenges and Opportunities 
+This chapter synthesizes findings from the Johnstown Housing Needs Assessment focus 
+groups from July 2026 and community engagement, supplemented by findings from other 
+previous Town planning processes. 
+Finance Challenges and Development Costs 
+Building new housing relies on capital resources to fund development for design, 
+construction, and borrowing costs. Both market-rate and income-specific housing developers 
+have identified affordability gaps in providing housing in Johnstown. Additionally, elements of 
+the supply and demand landscapes have led to a lack of diverse housing options. 
+Development costs have continued increasing in recent years. 
+Rising development costs in Johnstown reflect national trends for key factors like materials, 
+land acquisition, and infrastructure that contribute to overall higher housing construction 
+costs. One developer reflected that they cannot build a house that will cost less than 
+$450,000 at this time, echoing a NoCo Foundation report that estimated the cost of building 
+a single-unit home regionally to have risen by more than 50 percent since 2015.12 Additional 
+local changes in the cost of building include development fees and changes in building code 
+requirements over the past five years.  
+Nationwide, elevated interest rates have also contributed to increasing construction loans and 
+carrying costs at a larger scale, with at least one developer trying to increase sales by offering 
+temporary interest rate buydowns. This buydown program offering lower interest rates for a 
+defined period saw more transactions, but also noticeable losses in revenue. 
+Affordable housing developers reflected that state and federal finance support are not 
+sufficient to deliver regulated housing locally. In addition to those funding resources, 
+developers often rely on local support through subsidies, fee waivers, and incentives to 
+provide housing that serves residents earning below the area median income. The Columbine 
+Complex which serves some residents receiving Rural Development Vouchers is the only 
+housing in Johnstown that receives federal support for income-specific housing. 
+Focus group participants also expressed that building an ADU has felt out of reach for 
+homeowners, with the cost of construction for a detached unit sometimes representing more 
+than half the cost of building a new standalone home and requiring additional water tap fees. 
+ 
+12 NoCo Foundation, “Housing at a Crossroads,” 2026, https://www.flipsnack.com/nocofoundation/housing-at-a-
+crossroads-report.  
+Page 56 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 51 
+Higher costs and lower price differentials between single-unit homes 
+and denser housing have shaped development decisions. 
+One developer noted that they had tried to pursue a townhome development that offered 
+ownership opportunities for approximately two-thirds the cost of a single-unit home. They 
+found that potential purchasers did not have an interest in that option and have continued 
+focusing on building new single-unit detached homes for sale and multi-unit apartment 
+buildings for rent. One housing advocate further reflected on how new developments have felt 
+isolated from the core of the community in addition to lacking a mix of incomes. While 
+greenfield development may offer cheaper land to build new homes, residents have felt 
+disconnected from the larger community and its assets in those new communities.  
+Another advocate spoke to how this trend has made it difficult for people to find housing that 
+meets their needs over time. For example, older adults lack options to move into as they look 
+to downsize. On the other side of housing navigation, affordability gaps have widened for 
+renters looking to own a home, with that prospect feeling increasingly out of reach. 
+Regulatory Challenges 
+Johnstown adopted a new land use and development code in 2023, responding to the 2021 
+Comprehensive Plan’s outlined goals to facilitate more diverse housing options. The Town has 
+also adopted the 2024 International Building Code (IBC), which updated residential and 
+energy requirements in construction. While new codes increase construction costs, the 
+updated codes intended to support community goals, although other unrelated challenges, 
+largely related to administering water delivery, have created some development barriers. 
+Water dedication requirements contribute to burdensome carrying costs 
+for developers. 
+Focus group participants noted that Johnstown’s requirement for pre-development water 
+dedication is a challenge in development, also presenting limitations for supporting regulated 
+affordable housing. With water dedication needed before recording a plat, rather than at the 
+time of building permit, developers take on substantial added costs before receiving any 
+income. This requirement helps the Town to understand guaranteed water supply to make 
+sure that future use does not strain its current capacity or create confusing accountability 
+structures once individual property owners purchase new homes, with this concern palpable 
+during times of drought. However, associated carrying costs can be even more difficult for 
+affordable housing developers that operate on slim margins.  
+Additionally, developers expressed a feeling that water dedication expectations exceeded 
+actual use. Since Johnstown uses gross demand projections rather than consumptive data 
+projections, they perceive increased costs in the amount developers need to dedicate to new 
+housing. Those dedications also involve water rights allocated to temporary landscaping 
+establishment that does not have flexibility to extend to housing. One developer identified 
+Page 57 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 52 
+lower internal water use in townhomes, based on their data, suggesting the Town could 
+investigate the opportunity to dedicate less water based on housing type. 
+Water and sewer services are both central to housing development. Johnstown is currently 
+evaluating its water supply capacity, while it has recently been in the process of expanding its 
+wastewater treatment facility to serve a growing population. 
+Land use and building permit processes have contributed to 
+development challenges. 
+Focus group participants expressed frustration in navigating review processes that have 
+included conflicting feedback and interjurisdictional code conflicts. One developer noted that 
+the Town increased the length of its initial round of review with good intentions: to compile a 
+comprehensive list of comments for the applicant to address and avoid excessive rounds of 
+review and revision overall. This developer still experienced shifts in direction on subsequent 
+submittals, leading to additional soft costs for design changes and project carrying costs from 
+a longer timeline. One advocate spoke to how internal disconnects in permitting may reduce 
+the efficacy of overall Town initiatives to make housing more affordable. One developer 
+assigned the increase in cost to build a single-unit home due to the adoption of the 2024 IBC 
+at approximately $20,000. This jump, combined with other process related challenges, has 
+contributed to more barriers in development. 
+Individually negotiated Planned Unit Developments regulate housing 
+options in most of Johnstown. 
+Johnstown updated its Land Use and Development Code in 2023. Systematic changes allowed 
+for more housing options in more zoning districts. However, the reach of these changes is 
+limited with much of Johnstown carrying custom Planned Unit Development zoning. 
+The Housing Action Plan following the HNA will further assess the impact of zoning and density 
+on the production of needed housing types in Johnstown. 
+Community Sentiment 
+Previous plans informed by engagement identified a low vacancy rate 
+and collective interest in housing that served various income levels. 
+The 2021 Johnstown Area Comprehensive Plan included potential solutions for facilitating 
+population growth that had exceeded 100 percent between 2006 and 2020 within the Town’s 
+Growth Management Area. It identified a vacancy rate below one percent (with this analysis 
+reporting a 2024 update using SDO data rather than ACS at 4.2%), indicating little 
+opportunity for the housing stock to accommodate that growth. With feedback from the 
+community, the plan oriented its attention around Activity Centers, key locations that could 
+Page 58 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 53 
+receive more intense development. This plan conveyed that the community wanted to see 
+more housing types built that households with lower incomes could afford. 
+Residents consistently pointed to affordability as the central housing 
+challenge facing Johnstown. 
+As summarized in Chapter 2, engagement participants identified a lack of affordable housing 
+options as Johnstown’s largest housing challenge. While residents valued housing choice, they 
+expressed interest in maintaining a housing stock that features single-unit homes with 
+accompanying open space. Engagement findings supported development of more diverse 
+housing options in thoughtfully located parts of town that supported a connected community 
+and housing that accommodated households at different life stages. 
+Housing advocates spoke to the need to build community support for 
+affordable housing. 
+Focus group participants reflected on challenges from community opposition to regulated 
+affordable, spanning shared misunderstandings or biases to a lack of support for creating 
+incentives or subsidies for developers. One participant underlined the value of education 
+about housing options and access in the community as a tool for better awareness of the 
+challenges households face in finding attainable housing.  
+Page 59 of 159
+ 
+      Johnstown Housing Needs Assessment - DRAFT 
+ 54 
+10. Current and Projected 
+Housing Need 
+This chapter reports both current and future housing needs over the next 10 years, 
+considering where gaps exist today and where needs have expectations to grow. Consistent 
+with the State’s guidance on HNAs, this chapter presents estimates of current housing needs 
+(catch-up) and future housing needs (keep-up). Housing need estimates describe need by 
+income level and tenure (owner/renter). The estimates address needs across housing types, 
+ranging from extremely low-income and vulnerable populations through middle- and upper-
+income households.  
+The analysis provides a breakdown of: 
+¨ Underproduction/Current Need (“Catch-Up”): Underproduction occurs when there 
+are too few housing units to meet demand, leading to scarcity, higher prices, and 
+greater cost burden, especially for low-income households. Subsequent low vacancy 
+rates can limit the ability of households to find suitable and accessible housing 
+options. 
+¨ Future Need (“Keep Up”): This category describes the total housing units needed to 
+accommodate the expected population by 2036 (a 10-year planning period).  
+ 
+ 
+Page 60 of 159

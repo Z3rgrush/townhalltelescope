@@ -1,0 +1,909 @@
+ 
+ 
+Economic Development Commission 
+Business Meeting 
+October 8, 2026 
+6:30 PM 
+Council Chambers 
+911 10th St., Golden, CO, 80401 
+ 
+For Public Comment, please email edcomm@cityofgolden.gov 
+ 
+Opening        (6:30 to 6:45) 
+ 
+1. Roll Call 
+2. Approval of Agenda 
+3. Approval of the September 10, 2026, Meeting Notes 
+4. Public Comment        
+5. New Discussion/Action Topics 
+1. Economic Indicator Dashboard: Platform Evaluation & Draft Indicator Review 
+2. Makerspace Feasibility Study RFP Update 
+3. 2026-2028 Proposed Budget Review 
+6. Staff Report        
+1. 2026-2028 Budget Review 
+2. Business Retention, Economic Development Initiatives, and Prospect Activity 
+3. Sales, Use, and Lodging Tax Reports 
+7. Communications       ( 6:45 to 7:00) 
+1. GURA/DDA 
+2. Golden Chamber of Commerce 
+3. Community Marketing Committee 
+8. Commissioner Comments      ( 7:00 to 7:10) 
+ 
+Closing 
+   
+Wrap up and Adjourn/Future Agenda Items    ( 7:30) 
+ 
+The City of Golden does not discriminate on the basis of race, color, national origin, sex, religion, age,  or disability 
+in the provision of services. For disabled persons needing reasonable accommodation to attend or participate in 
+a city service, program, or activity, call 303-384-8014 as far in advance as possible. Disabled access is available 
+from the front entrance of City Hall. 
+ 
+pkt pg. 1
+Memorandum 
+To: Economic Development Commission 
+From: Tim Dwyer, Economic Development Manager 
+Date: October 5, 2026 
+Re: October 8, 2026, Meeting Memo 
+Discussion/Action Topics 
+1.
+Economic Indicator Dashboard: Platform Evaluation & Draft Indicator Review
+Following direction from the Commission at the August and September meetings, staff 
+completed a hands-on comparative trial evaluating two leading economic indicator and 
+visualization platforms: mySidewalk and Lightcast.  
+As
+ outlined in previous discussions, tracking and communicating Golden’s economic 
+performance poses unique administrative challenges due to municipal boundary constraints. 
+Golden is divided across two primary ZIP codes and multiple census tracts without an 
+independent Metropolitan Statistical Area (MSA) designation. Standard public releases often 
+rely on lagged multi-year American Community Survey (ACS) snapshots, which suffer from data 
+suppression at smaller scales. Meanwhile, regional neighbors tracked by the Bureau of Labor 
+Statistics (BLS) Mountain-Plains Regional Information Office benefit from dedicated MSA-level 
+reporting. The objective of this evaluation was to select a centralized tool capable of delivering 
+consistent indicator tracking, clear visual storytelling, and long-term administrative 
+maintainability.  
+P
+latform Comparative Findings 
+• Public Datasets & Baseline Indicator Parity: Both mySidewalk and Lightcast
+demonstrate parity regarding standard public socioeconomic data. Each platform
+integrates federal and state data repositories, including the U.S. Census Bureau
+(Decennial Census and ACS), BLS (Quarterly Census of Employment and Wages, Local
+Area Unemployment Statistics), and Bureau of Economic Analysis (BEA). For standard
+demographic, income, and community-level tracking, both platforms pull from
+essentially identical baseline sources.
+pkt pg. 2
+• La
+bor Market Intelligence & Employer Demand: Lightcast is one of the industry leaders
+in specialized labor market analytics. The platform excels at scraping real-time job
+boards, deduplicating employer postings, and tracking specialized skill clusters. This
+capability serves as an early indicator of regional employer hiring demand and
+workforce shifts.
+• A
+ccessibility, Usability, and Operational Longevity: While Lightcast provides robust
+labor analytics, mySidewalk provides a more modular dashboarding environment
+tailored for municipal communication. Due to the intuitive and modular interface of
+mySidewalk, it has the potential to allow city staff to build, modify, and publish
+interactive visualizations without specialized econometric training or ongoing IT
+support. This has the potential to ensure institutional longevity, as the platform can be
+seamlessly maintained and updated across future staff transitions without losing
+continuity.
+S
+taff recommends the selection and adoption of mySidewalk as the City of Golden’s platform 
+for building and maintaining the municipal economic dashboard. While Lightcast offers granular 
+job-posting scrapes, mySidewalk provides identical coverage across standard public data, offers 
+a more modular narrative dashboarding capabilities, ensures long-term operational longevity 
+for staff, and matches the tools used by our regional peers. 
+D
+raft Economic Indicators & Board Input 
+S
+taff has created a draft list of economic indicators proposed to be tracked and populated 
+within the potential dashboard. The draft framework focuses on core municipal pillars: 
+• D
+emographics & Population
+• Workforce & Industry Dynamics
+• Housing & Affordability
+• Municipal Fiscal Performance & Commercial Real Estate Metrics
+S
+taff seeks Board discussion and feedback on these draft indicators, as well as any additional 
+metrics Board Members would like staff to track. If additional metrics are requested, staff will 
+investigate the local data availability and reporting feasibility of the newly proposed metrics 
+and report back to the Commission. 
+B
+oard discussion is requested  
+pkt pg. 3
+2. Makespace Feasibility Study Update
+T
+he initial kick-off call with consultant Artspace and the core stakeholder group will be on 
+October 20th.   The consultant has also suggested the week of November 30th for a virtual artist 
+focus group and for the two-day site visit to occur the week of December 7th.   Members of the 
+newly formed Makerspace Subcommittee are requested to participate in the initial call 
+alongside staff to review preliminary study schedules and outline core project goals. Staff and 
+subcommittee representatives will provide an update to the full Commission on key takeaways 
+and subsequent phases following the kickoff session.  
+B
+oard discussion is requested 
+3. 202
+6-2028 Proposed Budget Review
+Staff has prepared a revised budget for 2026 including YTD spending as well as the proposed 
+budget for 2027 and 2028 as presented to the city manager and finance department for 
+consideration as part of the biennial budget process.  This budget was prepared based on the 
+preferences and priorities that the board has voiced over the past server months.    The budget 
+has also been formatted to align with city budget codes and line items to make future updates 
+simpler and more consistent with internal accounting processes.     Staff requests the boards 
+review of this proposed budget and ask any questions before formal approval of this budget in 
+November.  
+T
+here are several key points to call to the board’s attention: 
+• Training/Travel and outreach increased to $10,000/yr for the next two years.
+• Ongoing Makerspace Support is budgeted at $20,000/yr for the next two years.
+• Economic Dashboard tools are budgeted at $15,000/yr for ’27-28 and the digital tools
+for B2B(Qwally) and our business CRM (Bludot) have been proposed to transfer to the IT
+overhead as permanent tools.
+• Community Sponsorship budget increased to $12,000/yr
+• Grant Budget remains steady at $40,000/yr
+B
+oard discussion is requested 
+S
+taff Report 
+a. 2026 - 2028 Budget – See business item number three above. The budget is
+attached and is up-to-date.  The budget will be formally adopted in November.
+b. Business Retention, Economic Development Initiatives, Prospect Activity, and New
+Businesses – Staff will provide an update on recent economic development activity
+and retention visits.
+pkt pg. 4
+i. Direct business contacts: Staff has engaged directly with 12+
+businesses in the last month.
+ii. Opportunity Zone 2.0: Staff has received initial indication that a census
+tract in Golden will be eligible for opportunity zone 2.0.  This will be
+discussed in greater detail next month.
+iii. Bludot Update: On September Staff initiated a bludot data update,
+which expanded Golden’s economic outreach database by onboarding
+430 new local businesses, 988 direct emails, and 921 phone contacts
+into our CRM network, bringing overall contact coverage across
+registered entities to 94.6% up from 86.1%. This data reconciliation
+bridges longstanding communication gaps, ensuring local enterprises
+receive timely city notices, grant opportunities, and economic
+development resources.
+c. Sales, Use, and Lodging Tax Reports – June 2026 Sales tax report is attached. Tax
+revenues are mostly positive. June sales tax of $2.71 million (up 3.4% from June
+2025) brought year-to-date collections to $12.19 million. That is 2.98% ahead of
+last year and $79,504 above the seasonally adjusted budget. Growth was driven
+largely by out-of-city sales (up 7.91%) and gains in South Golden, Colfax, North
+Golden, and Downtown, while Heritage Square (down 15.9%) and Central Golden
+(down 8.4%) declined. Use tax rose 22.5% in June, but year-to-date collections
+remain 17.15% ($504,250) below 2025. Lodging tax is $69,374 under budget and
+5.5% behind last year, though summer collections are picking up. Marijuana tax
+continues to outperform: it is up 16.1% year-to-date and $101,804 above budget.
+Staff will keep monitoring these trends, especially lodging, use tax, and
+geographic differences in sales tax, as it develops the 2027–2028 biennial budget.
+d. Communications/Other Boards
+a. DDA Update – DDA is hosting a Block Party Engagement Event on Saturday
+October 10th from 11am – 3pm in the parking lot between Miner’s Alley and
+Astor House.
+b. GURA Update – Nazarene TIF agreement negotiations are underway.  Plan
+area tax revenue sharing agreement negotiations with taxing entity partners
+are ongoing for the Junction Plan Area.
+c. Communications - Coordinating on Downtown Business Wayfinding signage
+and Golden Hour Mashup concludes on October 14th.
+Attachments: 
+September 10, 2026 Meeting Minutes 
+Draft Economic Indicator List 
+2026 Budget 
+June 2026 Sales, Use, Lodging, and Marijuana Tax Report 
+pkt pg. 5
+ ECONOMIC DEVELOPMENT COMMISSION 
+CITY OF GOLDEN 
+Golden, CO  80401 
+N
+otes of Business Meeting 
+September 10th, 2026 
+Present:  Tracy Atkins, Edmond Toy, Nick Noppinger, Lauren Hartman, Cindy Weisrock, 
+Marissa Trout, Jim Weiler 
+A
+bsent: None 
+St
+aff: Tim Dwyer, Economic Development Manager 
+Ab dullah Saquib, Economic Development Specialist 
+T
+he meeting was called to order at 6:30 PM by Chair Hartman. 
+AP
+PROVAL OF AGENDA 
+A
+tkins MOVED to approve the meeting agenda; Hartman SECONDED. All Board Members 
+present agreed. 
+AP
+PROVAL OF MEETING NOTES 
+H
+artman asked for a motion to approve the August 13th, 2026, meeting notes. Weisrock 
+MOVED to approve the meeting notes of August 13th, 2026; Trout SECONDED. All Board 
+Members present agreed. 
+PU
+BLIC COMMENT --none 
+D
+ISCUSSION/ACTION TOPICS 
+1. M
+akerspace Feasibility Study Update
+Staff reported that the City has formalized the contract with Artspace Consultants to
+perform the preliminary Makerspace feasibility study, with an initial project kick-off
+conference call tentatively scheduled for mid-October. Staff requested the formation
+of an ad-hoc Makerspace subcommittee to participate in the kick-off call, monitor
+ongoing study milestones, and report progress back to the full Commission. Board
+Members Atkins and Weiler volunteered to serve on the subcommittee, and Chair
+Hartman agreed to serve as the alternate member.
+pkt pg. 6
+2. Econom
+ic Study Proposals
+Staff presented an update on efforts to establish an annual economic indicator
+dashboard, recapping ongoing discussions with Anderson Analytics regarding options
+to track local metrics. Concurrently, staff reviewed research into dedicated data
+visualization platforms designed to address Golden's unique structural data
+constraints, specifically that the city is divided across two ZIP codes and multiple
+census tracts without its own Metropolitan Statistical Area (MSA) designation, making
+standard municipal reporting heavily dependent on lagging American Community
+Survey (ACS) datasets. Staff demonstrated sample dashboards from mySidewalk and
+Lightcast noting that both vendors provided complimentary trial access for
+evaluation.
+The Commission engaged in a comprehensive discussion regarding dashboard tools
+and implementation: Board member Weisrock recommended reviewing dashboard
+initiatives among neighboring Front Range municipalities and the Jefferson County
+EDC to identify best practices, emphasizing the utility of adopting a platform aligned
+with regional standards. Board member Noppinger inquired about the proprietary
+and public data sources that feed into each platform. Board members Toy and Trout
+inquired about average website traffic volumes for municipal economic development
+web pages to assess stakeholder reach and verify the cost-benefit viability of
+launching a public-facing dashboard. Staff agreed to provide Board members with
+direct links to the sample dashboards to allow board members to explore the
+platforms.
+Staff Report 
+1. 2026 Budget – The 2026 budget was presented as up-to-date. Staff noted that formal
+biennial budget discussions for the 2027–2028 cycle will commence next month.
+2. Business Retention, Economic Development Initiatives, and Prospect Activity – Staff
+reported on recent economic development activity, detailing direct engagement with more
+than 15 local businesses during the past month. Staff committed to sponsoring a new
+aerospace company for the upcoming Colorado School of Mines Career Fair in September
+to promote City economic development resources and programs. Additionally, staff noted
+upcoming participation in fall economic development conferences, including Downtown
+Colorado, Inc. (DCI).
+3. Sales, Use and Lodging Tax Report from Q2 2026  - Staff reviewed the May 2026 tax
+report. Through May 2026, sales tax collections increased by 2.87% year-to-date compared
+to 2025, tracking $89,688 behind budget projections but exceeding prior-year collections
+by $264,005 due to continued expansion in out-of-city sales, with Heritage Square
+experiencing the most notable contraction down 20.09% year-over-year. Use tax
+collections trailed 2025 levels by 22.97% year-to-date, though an audit recovery of
+$466,013, predominantly software use tax from a local energy and utilities company,
+partially offset the reduction. Meanwhile, lodging tax collections lagged budget trendlines
+by $62,993, which staff and Finance will monitor closely through the peak summer travel
+pkt pg. 7
+s
+eason, and marijuana tax collections continued to exceed budget targets and prior-year 
+benchmarks, remaining firmly on track for a record annual total. 
+4. Communications with other boards: 
+A. DDA Update – Staff reported on ongoing downtown streetscape and 
+beautification projects, highlighting that a site visit and tour of the first completed 
+building at the Clayworks development is scheduled for September 15th at 3:30 
+PM.  
+ 
+B. GURA Update – Staff noted that the developer for the 17455 W. 16th Avenue 
+(Church of the Nazarene) Plan Area secured critical grant financing, positioning 
+staff to initiate Tax Increment Financing (TIF) revenue-sharing negotiations. 
+Additionally, GURA held a special meeting on August 24th to formally advance The 
+Junction Plan Area.  
+ 
+C. Communications – Staff is coordinating downtown business wayfinding signage 
+and continuing promotion for upcoming "Golden Hour Mashup" events scheduled 
+for September 16th and October 14th.  
+ 
+4. Board Member Comments  
+Board member Atkins commented on recent road construction projects throughout the 
+city, noting that completed bike lanes have not been left as smooth as their pre-
+construction condition. Atkins inquired whether the City could adopt Colorado 
+Department of Transportation (CDOT) standards for resurfacing and smoothing paved 
+bike corridors following utility work and roadway renovations.  
+ 
+6. AGENDA/ SCHEDULE 
+The meeting adjourned at 7:43. 
+ 
+Lauren Hartman, Chair 
+pkt pg. 8
+Pillar ID Indicator Name Primary Data Source Yes/No
+1. Demographic Profile 1.1 Total Population Census ACS 5-Year
+1. Demographic Profile 1.2 Age Distribution & Median Age Census ACS 5-Year
+1. Demographic Profile 1.3 Race, Ethnicity Census ACS 5-Year
+1. Demographic Profile 1.4 Educational Attainment (% Bachelor's+) Census ACS 5-Year
+1. Demographic Profile 1.5 Median Household Income & Income Brackets Census ACS 5-Year
+2. Workforce & Industry Dynamics 2.1 Total Number of Jobs Census ACS 5-Year
+2. Workforce & Industry Dynamics 2.2 Labor Force Participation & Unemployment Rate BLS LAUS / Census ACS
+2. Workforce & Industry Dynamics 2.3 Inflow/Outflow Commuter Dynamics Census LEHD LODES
+2. Workforce & Industry Dynamics 2.4 Employment by Resident Occupation (SOC) Census ACS 5-Year
+2. Workforce & Industry Dynamics 2.5 Employment by Industry Sector (NAICS 2-digit) BLS QCEW / Census ACS
+2. Workforce & Industry Dynamics 2.6 Establishment Counts & Business Size Distribution Census CBP / Census BDS
+2. Workforce & Industry Dynamics 2.7 Innovation Economy USPTO PatentsView
+3. Housing & Affordability 3.1 Total Households & Household Size Census ACS 5-Year
+3. Housing & Affordability 3.2 Median Home Value Census ACS 5-Year
+3. Housing & Affordability 3.3 Median Rent ACS/Zillow Research - ZORI
+3. Housing & Affordability 3.4 Housing Cost Burden (>30% of Income) Census ACS 5-Year
+3. Housing & Affordability 3.5 Housing Tenure (Owner vs. Renter Share) Census ACS 5-Year
+4. Commerce & Fiscal 4.1 Sales & Use Tax Collections by Category City Finance Dept (Custom CSV)
+4. Commerce & Fiscal 4.2 Lodging Tax Revenues City Finance Dept (Custom CSV)
+4. Commerce & Fiscal 4.3 Commercial Vacancy Rates (Retail/Office/Flex) CoStar / Broker Reports
+4. Commerce & Fiscal 4.4 Building Permits (New Construction & Remodels) City CED / Census BPS
+pkt pg. 9
+ID Indicator Description
+1.1 Total number of residents living within municipal boundaries to establish baseline population scale and multi-year growth trends.
+1.2 Breaks down the population by age cohorts and midpoint age to distinguish college-age students from working-age adults and retirees.
+1.3 Tracks the racial and ethnic composition of the resident population to monitor demographic shifts and diversity over time.
+1.4 Percentage of adults aged 25 and older holding a bachelor's degree or higher to benchmark local human capital concentration.
+1.5 Midpoint household income and distribution across income tiers to assess local household earning power and economic stratification.
+2.1 Quantifies the total physical employment base located within Golden, regardless of where the workforce resides.
+2.2 Measures the share of working-age residents active in the workforce alongside the proportion actively seeking work.
+2.3 Net daily commuting flows by comparing residents who work locally against external workers commuting in and residents commuting out.
+2.4 Resident workers by their primary standard occupational classifications to identify the skill and professional profile of Golden's workforce.
+2.5 Tracks job counts by commercial sector to identify primary employment clusters, specialization, and private-sector concentration.
+2.6 Tallies the number of operating commercial entities to evaluate small business density versus enterprise employers.
+2.7 Evaluates local entrepreneurial activity and technical innovation through registered patent filings.
+3.1 Counts occupied residential units and average occupants per unit to determine household formation rates and housing stock utilization.
+3.2 Estimated midpoint market value of owner-occupied housing to monitor home equity growth and purchase barriers.
+3.3 Prevailing monthly contract rent levels to assess affordability pressures across the local tenant market.
+3.4 Percentage of homeowners and renters who allocate more than 30% of gross household income toward monthly housing costs.
+3.5 Proportional split between owner-occupied and renter-occupied residential units across the city.
+4.1 Municipal tax revenues across retail and industry segments to assess consumer spending patterns and fiscal health.
+4.2 Tax receipts to gauge hotel occupancy, seasonal tourism performance, and business travel volume.
+4.3 Unoccupied leasable square footage across commercial property types to evaluate market demand and real estate absorption.
+4.4 Residential and commercial permits to track physical development activity and capital investment.
+pkt pg. 10
+Line Item/Description 2026 Budget 2026 YTD Actuals 2027 Budget 2028 Budget Notes:
+Printing And Advertising 250     2  500    500     Small budget for printed materials for EdComm/B2B Promotion.
+Professional Services 8,000    495     5,000   5,000    Professional service support for General Economic Development activities: Legal, consultants, etc.
+Training, Travel, Outreach 5,700    3,878    10,000   10,000    Conferences and expanded outreach capacity including business outreach and community events. 
+Conferences and Education 4,400    2,578    8,000   8,000    Local and regional conference focus; EDCC, DCI, and Jeffco EDC.
+Community Outreach Events 1,300    1,300    2,000   2,000    Community outreach such as business power resilience events and other small engagements.
+EdComm Expenses 47,800    29,192    54,000   109,000   Annual EdComm Descretionary Budget
+Community Sponsorships 9,800    8,252    12,000   12,000    
+Community organization sponsorships, scholarships, networking events such as Golden Startup Coffee, 
+partnerships with small business development center (SBDC).  Increase in 2027-2028 to increase communit 
+organization sponsorship impact. 
+Digital Resources and Tools 18,000    20,940    2,000   2,000    
+Digital Resources: Bludot and Qwally B2B website, move to department IT Overhead in  2027-2028. Maintain 
+small budget for additional updates/consulting to update digital tools. 
+Economic Indicator/Impact Studies -   -   15,000   15,000    
+Economic Contribution or Annual Economic Indicator Studies performed by a consultant as directed by 
+EdComm and providing value across city departments.  Proposed as new and ongoing work for 2027-2028. 
+Small Business Development Support 5,000    - 5,000 60,000    
+Small Business Development Support - Business Mentor Program.  Funding a 12 business support program 
+in 2028 to re-launch the business mentor program based on successful pilot program.
+Makerspace Support 15,000    - 20,000 20,000    
+Golden community makerspace feasibility support: consultant feasibility studies, other public engagement 
+efforts.
+Dues/Memberships/Subscriptions 11,000    10,088    11,000   11,000     Annual Memberships: Jeffco EDC $10k/yr and DCI $1,000/yr, consistent for the past 5 years. 
+EdComm Grant Program 40,000    10,510    50,000   50,000    Annual EdComm Small Business Support Grant Program Budget
+Total EdComm Budget 112,750  54,165  130,500  185,500  
+Economic Development Commission - Proposed Budget 2026-2028
+pkt pg. 11
+ 911 10th St. Golden, CO 80401 
+ Tel: (303) 384-8000 
+ Fax: (303) 384-8001 
+ www.CityofGolden.gov 
+COUNCIL MEMORANDUM 
+To: The Honorable Mayor and City Council  
+From: Joe Allaire, Director of Finance  
+Date: September 11, 2026 
+Subject: June 2026 Sales, Use, Lodging, and Marijuana Tax Report 
+The attached reports present sales and use tax, lodging tax, and marijuana tax revenues 
+through June 2026. 
+Tax revenue results through the first half of 2026 include several encouraging 
+developments. Strong June sales tax collections brought year-to-date revenue $79,504 
+above the City’s seasonally adjusted budget. Use tax collections also improved compared 
+with June 2025, narrowing the year-to-date decline discussed in the previous report. 
+Marijuana tax revenue continues to exceed both budget projections and prior -year 
+collections. Lodging tax remains below budget and 2025 levels, although June collections 
+increased from May as the summer season began. The Finance Department will continue 
+monitoring these trends as the City develops its 2027–2028 biennial budget. 
+Sales Tax 
+Sales tax revenue in June totaled $2,714,329, an increase of $89,157, or 3.40%, compared 
+with June 2025. Year-to-date collections reached $12,192,116, exceeding the same period 
+in 2025 by $353,162, or 2.98%. June’s performance moved collections from $89,688 below 
+the budget trend line through May to $79,504 above budget through June, providing a 
+positive result at the midpoint of the year. 
+Out-of-city sales continue to support overall growth, increasing 7.91% compared with the 
+first six months of 2025. Several local reporting areas also posted gains, including South 
+Golden, Colfax, North Golden, and Downtown Golden.  
+Use Tax 
+Use tax revenue in June totaled $460,270, an increase of $84,656, or 22.54%, compared 
+with June 2025. This stronger monthly result narrowed the year -to-date decline from 
+22.97% through May to 17.15% through June. Collections for the first half of the year totaled 
+$2,435,307, or $504,250 below the same period in 2025. Although year-to-date revenue 
+continues to trail the prior year, June’s improvement is encouraging. 
+The City’s audit and compliance program continues to contribute to revenue recovery. 
+Through June, the report identifies $466,224 in use tax audit revenue and $16,167 in 
+pkt pg. 12
+⚫ Page 2 
+refunds, resulting in a net amount of $450,057. These efforts support fair and consistent 
+tax administration and help ensure that revenue due to the City is properly collected. 
+Lodging Tax 
+Lodging tax revenue totaled $328,108 in June, an increase from May’s $269,078 as the 
+City entered the summer collection period. June collections were $13,593, or 4.0%, below 
+June 2025, but slightly above June 2024. Through June, lodging tax revenue totaled  
+$1,208,854, which is $69,374 below the seasonally adjusted budget and $71,012, or 5.5%, 
+below the same period in 2025. 
+The summer months remain an important part of the City’s annual lodging tax performance. 
+The Finance Department will continue reviewing collections as additional summer results 
+become available and will use those results to refine revenue expectations for the 
+remainder of 2026 and the upcoming biennial budget. 
+Marijuana Tax 
+Marijuana tax revenue continues to be a bright spot, with June collections of $63,082 
+representing the highest monthly total within the period displayed in the report. June 
+revenue increased 12.4% compared with June 2025. Year -to-date collections reached 
+$343,607, exceeding the seasonally adjusted budget by $101,804 and the same period in 
+2025 by $47,539, or 16.1%. 
+This continued growth provides a positive contribution to the City’s revenue picture. The 
+Finance Department will monitor performance during the second half of the year to evaluate 
+the sustainability of these gains and develop a reliable revenue baseline for future budgets. 
+Final Thoughts 
+Overall, tax revenue results through June provide several reasons for encouragement. 
+Sales tax collections are now slightly above the seasonally adjusted budget and ahead of 
+the prior year, June use tax collections improved, and marijuana tax continues to perform 
+strongly. These results provide a constructive foundation for the City’s financial planning at 
+the midpoint of 2026. 
+The Finance Department will continue monitoring lodging tax, year -to-date use tax 
+collections, and differences in sales tax performance across the City. As work progresses 
+on the 2027–2028 biennial budget, these results will help refine revenue forecasts and align 
+spending plans with available resources while supporting the services and priorities of the 
+Golden community. 
+ 
+pkt pg. 13
+CITY OF GOLDEN
+Budget to Actual Comparison
+ (adjusted for seasonality)
+2026 Sales Tax Revenue
+Month YTD Budget YTD Actual
+Jan $1,646,502 $1,592,240
+Feb 3,290,585 3,361,836
+Mar 5,474,615 5,503,503
+Apr 7,464,060 7,427,759
+May 9,567,475 9,477,787
+June 12,112,612 12,192,116
+July 14,373,630
+Aug 16,628,859
+Sept 19,304,584
+Oct 21,476,034
+Nov 23,525,902
+Dec 26,550,000
+Note: The amounts presented in the 
+table/graph are reported net of 
+revenues allocated to the 
+Community Marketing Fund. This 
+allocation represents 2.5% of the 
+sales tax collected from returns 
+remitted on time. 
+$0.0
+$5.0
+$10.0
+$15.0
+$20.0
+$25.0
+$30.0
+Jan Feb Mar Apr May June July Aug Sept Oct Nov Dec
+Millions
+YTD Budget YTD Actual
+pkt pg. 14
+ 
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec Total % CHNG*
+2026 1,592,240$       1,769,597$   2,141,667$   1,924,256$   2,050,029$   2,714,329$   12,192,116$ 3.40%
+2025 1,628,439        1,595,750     2,095,780     1,942,717     1,951,095     2,625,172     2,123,466     2,109,789     2,502,497     1,961,208     2,059,719     2,586,727     25,182,360   8.44%
+2024 1,610,874        1,473,984     2,081,998     1,724,435     1,975,701     2,420,929     2,039,648     2,108,921     2,365,743     1,983,133     1,719,878     2,682,104     24,187,348   15.12%
+2023 1,452,092        1,507,367     1,894,683     1,713,455     1,860,212     2,102,985     2,037,703     1,856,132     2,264,560     1,910,925     1,720,905     2,530,652     22,851,671   9.31%
+2022 1,335,299        1,365,002     1,830,949     1,735,883     1,840,262     1,923,799     1,898,012     1,949,128     2,339,973     1,846,764     1,747,405     2,710,584     22,523,059   -3.77%
+MTD Sales Tax Audit Revenue 4,905$          MTD Audit Permit Fees - $              
+Less: MTD Sales Tax Refunds -                 MTD Audit Plan Check Fees -                 
+Net Sales Tax Revenue 4,905$          Net Fees Collected - $               
+   
+  
+ 
+  
+* - The percentage change represents the year-over-year change for the current month only (highlighted).
+City of Golden - Sales Tax Trends
+June (July)
+Note: The amounts presented in the table/graph are reported net of revenues allocated to the Community Marketing Fund. This allocation represents 2.5% of the sales tax collected from returns remitted on time.
+ $-
+ $0.5
+ $1.0
+ $1.5
+ $2.0
+ $2.5
+ $3.0
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Millions
+2022 2023 2024 2025 2026
+pkt pg. 15
+ 
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec % CHNG*
+2026 1,592,240$    3,361,836$    5,503,503$    7,427,759$    9,477,787$    12,192,116$  2.98%
+2025 1,628,439      3,224,189      5,319,969      7,262,687      9,213,782      11,838,954    13,962,420    16,072,209    18,574,706    20,535,914    22,595,633    25,182,360    4.88%
+2024 1,610,874      3,084,858      5,166,856      6,891,290      8,866,991      11,287,920    13,327,568    15,436,489    17,802,233    19,785,366    21,505,243    24,187,348    7.19%
+2023 1,452,092      2,959,458      4,854,142      6,567,597      8,427,809      10,530,794    12,568,497    14,424,629    16,689,189    18,600,114    20,321,018    22,851,671    4.98%
+2022 1,335,299      2,700,301      4,531,250      6,267,133      8,107,395      10,031,194    11,929,206    13,878,334    16,218,306    18,065,070    19,812,475    22,523,059    11.71%
+YTD Sales Tax Audit Revenue 88,895$         YTD Audit Permit Fees 3,800$           
+Less: YTD Sales Tax Refunds -                 YTD Audit Plan Check Fees 2,470             
+Net Sales Tax Revenue 88,895$         Net Fees Collected 6,269$           
+  
+ 
+ 
+  
+* - The percentage change represents the year-over-year cumulative change for the current month only (highlighted).
+City of Golden - Sales Tax Trends
+Year-to-Date June (July)
+Note: The amounts presented in the table/graph are reported net of revenues allocated to the Community Marketing Fund. This allocation represents 2.5% of the sales tax collected from returns remitted on time.
+ $-
+ $5
+ $10
+ $15
+ $20
+ $25
+ $30
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Millions
+2022 2023 2024 2025 2026
+pkt pg. 16
+ 
+2024 % of total 2024-2023 2025 % of total 2025-2024 2026 % of total 2026-2025
+Sales Tax Sales Tax % Change Sales Tax Sales Tax % Change Sales Tax Sales Tax % Change
+North Golden 683,781$        6.06% 5.60% 702,782$        5.94% 2.78% 710,343$        5.83% 1.08%
+Downtown Golden 1,824,830       16.17% 4.39% 1,946,943       16.45% 6.69% 1,965,102       16.12% 0.93%
+Central Golden 339,807          3.01% 5.29% 330,319          2.79% -2.79% 302,500          2.48% -8.42%
+South Golden 215,873          1.91% 9.74% 205,869          1.74% -4.63% 241,660          1.98% 17.39%
+Golden Road 1,322,659       11.72% 7.58% 1,235,209       10.43% -6.61% 1,248,345       10.24% 1.06%
+Corporate Center 1,801,439       15.96% 3.38% 1,773,910       14.98% -1.53% 1,751,872       14.37% -1.24%
+Golden Heights 200,248          1.77% 12.58% 208,225          1.76% 3.98% 208,241          1.71% 0.01%
+Colfax 138,881          1.23% -6.19% 129,502          1.09% -6.75% 138,667          1.14% 7.08%
+Heritage Square 490,227          4.34% 12.71% 421,553          3.56% -14.01% 354,502          2.91% -15.91%
+Coors Tech 130,897          1.16% -7.69% 101,947          0.86% -22.12% 118,085          0.97% 15.83%
+Outside 3,547,170       31.42% 14.39% 4,166,192       35.19% 17.45% 4,495,807       36.87% 7.91%
+Utilities 592,108          5.25% -7.49% 616,502          5.21% 4.12% 656,993          5.39% 6.57%
+Totals 11,287,920$   100.00% 7.19% 11,838,954$   100.00% 4.88% 12,192,116$   100.00% 2.98%
+   
+ 
+Area
+City of Golden - Sales Tax Revenue by Location
+Year-to-Date June (July)
+Note: The amounts presented in the table/graph are reported net of revenues allocated to the Community Marketing Fund. This allocation represents 2.5% of the sales tax collected from returns remitted on 
+time.
+ $-
+ $0.5
+ $1.0
+ $1.5
+ $2.0
+ $2.5
+ $3.0
+ $3.5
+ $4.0
+ $4.5
+ $5.0
+North Golden Downtown
+Golden
+Central Golden South Golden Golden Road Corporate
+Center
+Golden Heights Colfax Heritage
+Square
+Coors Tech Outside Utilities
+Millions
+2024 Sales Tax 2025 Sales Tax 2026 Sales Tax
+pkt pg. 17
+ 
+2024 % of total 2024-2023 2025 % of total 2025-2024 2026 % of total 2026-2025
+Sales Tax Sales Tax % Change Sales Tax Sales Tax % Change Sales Tax Sales Tax % Change
+General Merchandise 3,754,859$    33.26% 5.04% 4,011,044$    33.88% 6.82% 4,490,850$    36.83% 11.96%
+Grocery 1,594,416      14.12% -0.83% 1,559,984      13.18% -2.16% 1,528,725      12.54% -2.00%
+Restaurants 1,761,037      15.60% 8.42% 1,837,802      15.52% 4.36% 1,885,506      15.46% 2.60%
+Automotive 903,479         8.00% 13.50% 933,430         7.88% 3.32% 964,217         7.91% 3.30%
+Prof Services\Entertainment 197,023         1.75% 20.41% 227,727         1.92% 15.58% 222,694         1.83% -2.21%
+Bus Services/Support 897,212         7.95% 12.47% 1,098,807      9.28% 22.47% 991,345         8.13% -9.78%
+Manufacturing - Production 753,588         6.68% 40.96% 728,446         6.15% -3.34% 616,679         5.06% -15.34%
+Accommodations 834,198         7.39% 5.32% 825,214         6.97% -1.08% 835,108         6.85% 1.20%
+Utilities 592,108         5.25% -7.49% 616,502         5.21% 4.12% 656,993         5.39% 6.57%
+Totals 11,287,920$  100.00% 7.19% 11,838,954$  100.00% 4.88% 12,192,116$  100.00% 2.98%
+    
+   
+ 
+City of Golden - Sales Tax Revenue by Type
+Year-to-Date June (July)
+Type
+Note: The amounts presented in the table/graph are reported net of revenues allocated to the Community Marketing Fund. This allocation represents 2.5% of the sales tax collected from returns 
+remitted on time.
+ $-
+ $0.5
+ $1.0
+ $1.5
+ $2.0
+ $2.5
+ $3.0
+ $3.5
+ $4.0
+ $4.5
+ $5.0Millions
+2024 Sales Tax 2025  Sales Tax 2026 Sales Tax
+pkt pg. 18
+ 
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec Total % CHNG*
+2026 415,331$      369,484$      540,719$      329,909$      319,594$      460,270$      2,435,307$     22.54%
+2025 529,395         481,837         479,327         589,987         483,397         375,614         847,192         437,624         366,687         489,117         410,156         567,749         6,058,081       1.72%
+2024 593,543         258,891         472,325         487,859         330,134         369,253         557,194         366,289         317,842         343,595         529,273         543,260         5,169,460       -12.80%
+2023 504,085         434,873         550,958         341,318         460,681         423,443         333,585         276,504         409,656         579,712         454,883         739,205         5,508,904       -28.19%
+2022 425,958         488,460         453,603         461,364         405,520         589,645         458,308         339,588         567,830         328,765         393,940         886,966         5,799,947       46.37%
+MTD Use Tax Audit Revenue 211$                <<<< includes building use tax audit revenue
+Less: MTD Use Tax Refunds -                  
+Net Use Tax Revenue 211$               
+   
+  
+ 
+  
+* - The percentage change represents the year-over-year change for the current month only (highlighted).
+City of Golden - Use Tax Trends
+June (July)
+ $-
+ $100
+ $200
+ $300
+ $400
+ $500
+ $600
+ $700
+ $800
+ $900
+ $1,000
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Thousands
+2022 2023 2024 2025 2026
+pkt pg. 19
+ 
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec % CHNG*
+2026 415,331$       784,816$       1,325,534$    1,655,443$    1,975,037$    2,435,307$    -17.15%
+2025 529,395         1,011,232      1,490,559      2,080,546      2,563,943      2,939,557      3,786,749      4,224,373      4,591,060      5,080,177      5,490,333      6,058,081      17.02%
+2024 593,543         852,435         1,324,760      1,812,618      2,142,753      2,512,006      3,069,200      3,435,489      3,753,331      4,096,927      4,626,200      5,169,460      -7.49%
+2023 504,085         938,958         1,489,916      1,831,234      2,291,915      2,715,359      3,048,944      3,325,448      3,735,103      4,314,816      4,769,699      5,508,904      -3.87%
+2022 425,958         914,418         1,368,021      1,829,385      2,234,905      2,824,550      3,282,858      3,622,446      4,190,276      4,519,041      4,912,981      5,799,947      13.73%
+YTD Use Tax Audit Revenue 466,224$         <<<< includes building use tax audit revenue
+Less: YTD Use Tax Refunds (16,167)         
+Net Use Tax Revenue 450,057$       
+  
+ 
+ 
+  
+* - The percentage change represents the year-over-year cumulative change for the current month only (highlighted).
+City of Golden - Use Tax Trends
+Year-to-Date June (July)
+ $-
+ $1.0
+ $2.0
+ $3.0
+ $4.0
+ $5.0
+ $6.0
+ $7.0
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Millions
+2022 2023 2024 2025 2026
+pkt pg. 20
+ 
+2024 % of total 2024-2023 2025 % of total 2025-2024 2026 % of total 2026-2025
+Use Tax Use Tax % Change Use Tax Use Tax % Change Use Tax Use Tax % Change
+North Golden 66,357$          2.64% -50.82% 127,703$        4.34% 92.45% 101,868$        4.18% -20.23%
+Downtown Golden 24,647            0.98% -33.95% 100,993          3.44% 309.75% 18,713            0.77% -81.47%
+Central Golden 4,971              0.20% -52.81% 2,789              0.09% -43.90% 1,801              0.07% -35.43%
+South Golden 6,471              0.26% -32.25% 7,396              0.25% 14.29% 8,529               0.35% 15.31%
+Golden Road 1,358              0.05% -49.95% 5,996              0.20% 341.56% 12,025            0.49% 100.55%
+Corporate Center 192,421          7.66% -11.88% 214,701          7.30% 11.58% 46,594            1.91% -78.30%
+Golden Heights 9,114              0.36% 23.63% 29,176            0.99% 220.10% 3,722              0.15% -87.24%
+Colfax 1,017              0.04% -27.71% 2,385              0.08% 134.65% 773                 0.03% -67.57%
+Heritage Square 121,584          4.84% 131.32% 167,408          5.70% 37.69% 63,665            2.61% -61.97%
+Coors Tech 482,127          19.19% -14.13% 762,486          25.94% 58.15% 694,137          28.50% -8.96%
+Outside 730,658          29.09% -16.57% 645,146          21.95% -11.70% 715,473          29.38% 10.90%
+Utilities 871,280          34.68% 8.46% 873,378          29.71% 0.24% 768,007          31.54% -12.06%
+Totals 2,512,006$     100.00% -7.49% 2,939,557$     100.00% 17.02% 2,435,307$     100.00% -17.15%
+   
+ 
+City of Golden - Use Tax Revenue by Location
+Year-to-Date June (July)
+Area
+ $-
+ $100
+ $200
+ $300
+ $400
+ $500
+ $600
+ $700
+ $800
+ $900
+ $1,000
+North Golden Downtown
+Golden
+Central Golden South Golden Golden Road Corporate
+Center
+Golden
+Heights
+Colfax Heritage
+Square
+Coors Tech Outside Utilities
+Thousands
+2024 Use Tax 2025 Use Tax 2026 Use Tax
+pkt pg. 21
+ 
+2024 % of total 2024-2023 2025 % of total 2025-2024 2026 % of total 2026-2025
+Use Tax Use Tax % Change Use Tax Use Tax % Change Use Tax Use Tax % Change
+General Merchandise 78,161$         3.11% -34.53% 151,175$       5.14% 93.41% 147,770$       6.07% -2.25%
+Grocery 31,165           1.24% -20.15% 33,282           1.13% 6.79% 43,898           1.80% 31.90%
+Restaurants 2,720             0.11% -63.02% 4,838             0.16% 77.88% 7,183             0.29% 48.48%
+Automotive 652,305         25.97% -13.37% 581,537         19.78% -10.85% 590,867         24.26% 1.60%
+Prof Services\Entertainment 87,878           3.50% 5.77% 87,213           2.97% -0.76% 51,780           2.13% -40.63%
+Bus Services/Support 29,627           1.18% -40.51% 37,345           1.27% 26.05% 38,127           1.57% 2.09%
+Manufacturing - Production 752,766         29.97% -11.71% 1,082,055      36.81% 43.74% 782,768         32.14% -27.66%
+Accommodations 6,103             0.24% -21.46% 88,734           3.02% 1353.92% 4,907             0.20% -94.47%
+Utilities 871,280         34.68% 8.46% 873,378         29.71% 0.24% 768,007         31.54% -12.06%
+Totals 2,512,006$    100.00% -7.49% 2,939,557$    100.00% 17.02% 2,435,307$    100.00% -17.15%
+    
+   
+ 
+City of Golden - Use Tax Revenue by Type
+Year-to-Date June (July)
+Type
+ $-
+ $200
+ $400
+ $600
+ $800
+ $1,000
+ $1,200Thousands
+2024  Use Tax 2025  Use Tax 2026 Use Tax
+pkt pg. 22
+CITY OF GOLDEN
+Budget to Actual Comparison
+ (adjusted for seasonality)
+2026 Lodging Tax Revenue
+Month YTD Budget YTD Actual
+Jan $115,000 125,267
+Feb 248,673 263,833
+Mar 447,428 426,916
+Apr 636,075 611,668
+May 943,739 880,746
+June 1,278,228 1,208,854
+July 1,645,372
+Aug 1,999,132
+Sept 2,330,327
+Oct 2,604,974
+Nov 2,704,877
+Dec 2,800,000
+$0.0
+$0.5
+$1.0
+$1.5
+$2.0
+$2.5
+$3.0
+Jan Feb Mar Apr May June July Aug Sept Oct Nov Dec
+Millions
+YTD Budget YTD Actual
+pkt pg. 23
+ 
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec Total % CHNG*
+2026 125,267$      138,566$      163,083$      184,752$      269,078$      328,108$      1,208,854$     -4.0%
+2025 105,250        156,711        189,723        172,136        314,345        341,701        364,278        367,251        330,377        271,026        142,120        120,398        2,875,316       4.9%
+2024 152,506        138,499        166,867        171,373        312,849        325,846        362,958        349,468        297,966        251,463        124,349        105,221        2,759,364       -2.6%
+2023 126,714        142,596        179,172        199,396        264,785        334,537        325,817        319,887        330,885        261,497        105,369        138,204        2,728,859       20.6%
+2022 58,344          74,787          221,661        178,185        283,509        277,400        349,392        315,244        305,999        264,781        137,773        121,976        2,589,050       N/A
+   
+  
+ 
+  
+* - The percentage change represents the year-over-year change for the current month only (highlighted).
+City of Golden - Lodging Tax Trends
+June (July)
+ $-
+ $50
+ $100
+ $150
+ $200
+ $250
+ $300
+ $350
+ $400
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Thousands
+2022 2023 2024 2025 2026
+pkt pg. 24
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec % CHNG*
+2026 125,267$    263,833$    426,916$    611,668$    880,746$    1,208,854$    -5.5%
+2025 105,250    261,961    451,684    623,820    938,165    1,279,866    1,644,144    2,011,396    2,341,772    2,612,799    2,754,918    2,875,316    0.9%
+2024 152,506    291,004    457,871    629,244    942,094    1,267,939    1,630,897    1,980,365    2,278,331    2,529,794    2,654,143    2,759,364    1.7%
+2023 126,714    269,310    448,482    647,877    912,663    1,247,200    1,573,017    1,892,904    2,223,789    2,485,286    2,590,655    2,728,859    14.0%
+2022 58,344    133,131    354,791    532,976    816,485    1,093,885    1,443,277    1,758,521    2,064,520    2,329,301    2,467,073    2,589,050    N/A
+ 
+* - The percentage change represents the year-over-year cumulative change for the current month only (highlighted).
+Ci
+ty of Golden - Lodging Tax Trends
+Year-to-Date June (July)
+ $-
+ $0.5
+ $1.0
+ $1.5
+ $2.0
+ $2.5
+ $3.0
+ $3.5
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Millions
+2022 2023 2024 2025 2026
+pkt pg. 25
+CITY OF GOLDEN
+Budget to Actual Comparison
+ (adjusted for seasonality)
+2026 Marijuana Tax Revenue
+Month YTD Budget YTD Actual
+Jan $31,410 $52,554
+Feb 65,187 103,401
+Mar 105,075 159,189
+Apr 146,918 218,677
+May 193,059 280,525
+June 241,803 343,607
+July 293,798
+Aug 348,283
+Sept 399,071
+Oct 451,474
+Nov 523,034
+Dec 550,000
+$0
+$100
+$200
+$300
+$400
+$500
+$600
+Jan Feb Mar Apr May June July Aug Sept Oct Nov Dec
+Thousands
+YTD Budget YTD Actual
+pkt pg. 26
+ 
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec Total % CHNG*
+2026 52,554$        50,847$        55,788$        59,488$        61,848$        63,082$        343,607$        12.4%
+2025 44,370          42,885          48,092          50,129          54,462          56,130          58,085          59,750          55,245          57,107          51,708          54,211          632,173          35.1%
+2024 20,679          25,825          32,393          34,220          38,340          41,545          45,646          48,663          45,694          47,068          43,523          46,053          469,648          N/A
+2023 -                 -                 177               2,267            7,114            13,356          15,701          15,676          15,107          19,274          17,136          19,085          124,893          N/A
+   
+  
+ 
+  
+* - The percentage change represents the year-over-year change for the current month only (highlighted).
+City of Golden - Marijuana Tax Trends
+June (July)
+ $-
+ $10
+ $20
+ $30
+ $40
+ $50
+ $60
+ $70
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Thousands
+2023 2024 2025 2026
+pkt pg. 27
+Year Jan Feb Mar April May June July Aug Sept Oct Nov Dec % CHNG*
+2026 52,554$    103,401$    159,189$    218,677$    280,525$    343,607$    16.1%
+2025 44,370    87,255    135,347    185,476    239,938    296,068    354,153    413,902    469,147    526,254    577,962    632,173    53.4%
+2024 20,679    46,504    78,897    113,117    151,457    193,002    238,647    287,310    333,005    380,072    423,595    469,648    N/A
+2023 -   -   177    2,444    9,558    22,914    38,615    54,291    69,397    88,671    105,807    124,893    N/A
+ 
+* - The percentage change represents the year-over-year cumulative change for the current month only (highlighted).
+Ci
+ty of Golden - Marijuana Tax Trends
+Year-to-Date June (July)
+ $-
+ $100
+ $200
+ $300
+ $400
+ $500
+ $600
+ $700
+Jan Feb Mar April May June July Aug Sept Oct Nov Dec
+Thousands
+2023 2024 2025 2026
+pkt pg. 28

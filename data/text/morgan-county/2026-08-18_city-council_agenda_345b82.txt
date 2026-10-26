@@ -1,0 +1,2091 @@
+MORGAN COUNTY, COLORADO
+  Annual Comprehensive Financial Report 
+For the fiscal year ended December 31, 2025
+
+   
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+ 
+  
+MORGAN COUNTY, COLORADO
+  Annual Comprehensive Financial Report 
+For the fiscal year ended December 31, 2025
+Board of County Commissioners
+Jon Becker, Chairman
+Kelvin Bernhardt
+Tim Malone
+Director of Finance
+Jessica Trusty
+Director of Information Systems
+  Karol Kopetzky
+Information Systems Specialist
+  
+Vicki Jump
+Accounting Specialists
+Lily Lopez
+Raina Hallahan
+Accounts Payable Manager
+MJ Rhoades
+Payroll
+ 
+Manager
+  
+Lori Crispin
+Prepared by:
+Finance and Information Systems Departments
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M
+RGAN
+COUNTY
+Where Prairie Meets The Sky
+Page No.
+1 – 5
+6
+7
+10 – 11
+12 – 21
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+   
+   
+  
+  
+ 
+MORGAN COUNTY, COLORADO
+  ANNUAL COMPREHENSIVE FINANCIAL REPORT 
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2025
+  TABLE OF CONTENTS 
+INTRODUCTORY SECTION
+Letter of Transmittal
+Organizational Chart
+List of Principal Officials
+FINANCIAL SECTION
+Independent Auditors’ Report
+Management’s Discussion and Analysis
+Basic Financial Statements:
+Government-Wide Financial Statements:
+  Statement of Net Position
+Statement of Activities
+Governmental Funds Financial Statements:
+  Balance Sheet
+Reconciliation of the Balance Sheet to the Statement of Net Position  
+Statement of Revenues, Expenditures and Changes in Fund Balances
+Reconciliation of Statement of Revenues, Expenditures and
+Changes in Fund Balances to the Statement of Activities
+Proprietary Funds Financial Statements:
+Statement of Net Position
+Statement of Revenues, Expenses and Changes in Fund Net Position
+Statement of Cash Flows
+Fiduciary Fund Financial Statements:
+Statement of Fiduciary Net Position
+Statement of Changes in Fiduciary Net Position
+Notes to the Financial Statements 35– 54
+i
+i
+Page No.
+Required Supplementary Information Other Than MD&A:
+Comparative Schedules of Revenues, Expenditures and Changes in Fund 
+Balances - Budgets and Actual:
+Major Funds:
+General Fund 57 – 58
+Road and Bridge Fund 59
+Social Services Fund 60
+Notes to the Required Supplementary Information 61
+Supplemental Information:
+Combining Statements of Nonmajor Governmental Funds:
+Combining Balance Sheet 62
+Combining Statement of Revenues, Expenditures and Changes in 
+Fund Balances 63
+Comparative Schedules of Revenues, Expenditures and Changes in 
+Fund Balances - Budget and Actual:
+Special Revenue Funds:
+911 Emergency Telephone Fund 64
+Lodging Tax Tourism Fund 65
+Conservation Trust Fund 66
+Sheriff’s Confiscation/Seizure Fund 67
+Capital Improvement Funds:
+Jail Capital Improvement Fund 68
+Enterprise Funds:
+Comparative Schedules of Revenues, Expenses and Changes in 
+Fund Net Position - Budget and Actual:
+Ambulance Service Fund 69
+Solid Waste Management Fund 70
+Internal Service Fund:
+Budgetary Comparative Schedule 71
+ii
+Page No.
+Fiduciary Funds:
+Combining Statement of Fiduciary Net Position 72
+Combining Statement of Changes in Fiduciary Net Position - Custodial Funds               73
+Supplemental Schedules:
+Local Highway Finance Report 76 – 77
+Schedule of Federal Financial Assistance Reconciliation 78
+STATISTICAL SECTION
+Net Position by Component 81 – 82
+Changes in Net Position     83 – 86
+Fund Balance, Governmental Funds     87 – 88
+Changes in Fund Balances of Governmental Funds     89 – 90
+Program Revenues by Function/Program     91 – 92
+Tax Revenues by Source, Governmental Funds    93
+Assessed Value and Estimated Value of Taxable Property     94 – 95
+Direct and Overlapping Property Tax Rates     96 – 97
+Principal Property Tax Payers   98
+Property Tax Levies and Collections   99
+Ratios of Outstanding Debt by Type 100
+Legal Debt Margin Information 101
+Demographic and Economic Statistics 102
+Principal Private Employers  103
+1Full-Time Equivalent County Government Employees by Function/Program 04 – 105
+Operating Indicators by Function/Program 106 – 107
+Capital Asset Statistics by Function/Program 108 – 109
+OTHER REPORITNG SECTION
+Independent Auditors' Report on Internal Control over Financial Report and on 
+Compliance and Other Matters Based on an Audit of Financial Statements
+    Performed in Accordance with Government Auditing Standards    1 14  – 115
+iii
+Schedule of Expenditures of Federal Award 112
+Notes to the Single Audit Section 113
+Independent Auditors' Report on Compliance for Each Major Program
+and on Internal Control Over Compliance Required by the Uniform Guidance 116 - 117
+Schedules of Findings and Questioned Costs 118 - 120
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M
+RGAN
+COUNTY
+Where Prairie Meets The Sky
+INTRODUCTORY SECTION
+MORGAN COUNTY
+   ADMINISTRATION
+July 29, 2026
+To the Citizens of Morgan County, Colorado:
+State law requires that every government publish at the close of each fiscal year a complete set of
+audited  financial  statements.   This  report  is  published     to  fulfill  that  requirement  for  Morgan
+County Government for the fiscal year ended December 31, 2025.
+The  County’s  Annual  Financial  Report  was  prepared    by     the  Department  of  Accounting  and
+Finance  for  Morgan  County  Government.   The  responsibility  for  both     the  accuracy  of  the  data,
+and the completeness and the fairness of the presentation, including all disclosures, rests with the
+County.   Morgan  County  has  established  a  comprehensive  internal  control  framework  that  is
+designed to both protect the County’s assets from loss, theft, or misuse and to compile sufficient
+reliable information for the preparation of the County’s financial statements in accordance with
+Generally Accepted Accounting Principles (GAAP).  Because the cost of internal controls should
+not outweigh their benefits, Morgan County’s comprehensive framework of internal controls has
+been designed to provide reasonable rather than absolute assurance that the financial statements
+will be free from material misstatement.  To the best of our knowledge and belief, the enclosed
+data is accurate in all material respects.  All disclosures necessary to enable the reader to gain an
+understanding of the County's financial activities have been included.
+State  statutes  require  an  annual  audit  by     independent  certified  public     accountants.   The
+accounting  firm  of  Liittjohann, Kauffman and Pederson, CPAs  was  selected  to  perform     the  
+2025  audit.   Liittjohann, Kauffman and Pederson, CPAs have issued an unmodified (“clean”) 
+opinion on Morgan County Government’s financial statements for the year ended December 31, 
+2025.  The independent auditors’ report on the  basic     financial  statements  is  located  at  the  
+front  of  the  financial  section  of  this  report.
+Management’s  discussion  and  analysis  (MD&A)  immediately  follows  the  independent  auditors
+report  and  provides     a  narrative  introduction  overview  and  an  analysis  of  the  basic     financial
+statements.   MD&A  complements  this  letter  of  transmittal  and  should  be     read  in  conjunction
+with it.
+1
+This  report  includes  activities  for  which  the  Board  of  County  Commissioners  is  accountable  to
+the citizens of Morgan County, financially, or by state statute.  All applicable funds, departments,
+and  offices  are  included  in  these  financial  statements  as  part  of  the  primary  government  of
+Morgan County.
+Morgan  County  Government  offers  a  full  range  of  services.   These  services  include  police
+protection; human services; ambulance services; solid waste management services; maintenance
+and construction of roadways, bridges, and infrastructure to support these activities; recreational
+and  cultural  facilities  and  events;  911  emergency  telephone  and  other  public  safety  telephone
+services; and land use planning services.
+PROFILE OF MORGAN COUNTY
+Morgan  County  is  located  on  the  High  Plains  of  Northeastern  Colorado,  well-situated  on
+Interstate Highway 76 and U.S. Highway 34.  The County is only 79 miles from Metro Denver
+and major U.S. trade corridors.  The Denver International Airport is within an hour’s drive.  The
+population of Morgan County is 30,30 6.   Morgan County encompasses five incorporated cities
+and  towns  as  well  as  a  large  unincorporated  area.   The  largest  city  is  Fort  Morgan  with  a
+population  of  11,453.   Morgan  County  offers  several  community  and  recreational  facilities.
+Jackson  Lake  is  a  popular  recreational  area  in  Morgan  County  that  attracts  weekend  visitors  as
+well as year-round residents wanting to retire to a rural area.  The area offers fishing and boating
+while the climate allows year-round residence.  Some of the finest hunting in North America is
+found  in  the  area,  including  pheasant,  turkey,  grouse,  quail,  geese,  duck,  deer,  and  antelope.
+Morgan  County  has  moderate  summers,  crisp  falls,  cool  winters,  and  warm  springs.   There  are
+330  days  of  sunshine  annually,  14.9  inches  annual  precipitation,  and  29.7  inches  average
+snowfall.  Annual average temperature is 64 degrees F.
+PROFILE OF MORGAN COUNTY GOVERNMENT
+The  County  is  governed  by  a  three-member  Board  of  County  Commissioners.   Commissioners
+are  elected  from  districts  of  relatively  equal  population  by  the  voters  at  large.   They  serve
+staggered four-year terms and function as the County’s policymaking body.  The County is also
+served  by  seven  other  elected  officials:  assessor,  clerk  and  recorder,  coroner,  district  attorney,
+sheriff, treasurer, and surveyor.
+The  County  Commissioners  annually  adopt  budgets  by  department  for  all  funds  except  the
+custodial  funds.   The  annual  budget  is  approved  and  appropriated  by  fund.   The  level  of
+budgetary control (that is, the level at which expenditures cannot legally exceed the appropriated
+amount) is established at the department level.  Each department within a fund may not legally
+exceed  the  approved  budget  for  that  department  without  prior  approval  of  the  County
+Commissioners.   Supplemental  appropriations  can  be  approved  by  the  Board  of  County
+Commissioners  if  needed  during  the  year  to  provide  for  those  items  that  were  unknown  or
+unforeseen at the time the budget was originally adopted.
+2
+Morgan  County  Government  employs  260  FTE’s  (full  time  equivalents).   Full-time  employees
+receive a comprehensive compensation package typical of county governments.  Benefits include
+paid leave, medical insurance plans and a defined contribution retirement plan.
+LOCAL ECONOMY
+Agriculture  is  the  primary  industry  in  Morgan  County  with  retailers,  other  locally  focused
+businesses, and government operations supporting area farming and ranching communities. The
+major crops grown in the County include corn, sugar beets, hay, silage, wheat, potatoes, onions,
+alfalfa,  and  turf.   The  dairy  industry  also  continues  to  have  a  strong  presence.   Cargill  Meat
+Solutions  Corporation  is  the  largest  employer  in  the  county,  employing  2,100  employees.   The
+next  largest  employer  is  Viaero  Wireless  with  501  employees  followed  by  Leprino  Foods  with
+350  employees.  The  unemployment  rate  in  Morgan  County  in  2025  was  4.2%.    Morgan
+County’s  unemployment  rate  of  4.2%  is  slightly  higher  than  the  State  rate  of  3.2%.   Morgan
+County’s location near the Front Range allows easy access for the opportunities of the big cities
+while  maintaining  the  benefits  of  a  rural  lifestyle  –  with  a  large  residential  growth  in  Wiggins,
+the  most  western  community  in  Morgan  County.   The  County  prides  itself  on  maintaining
+tradition while looking to the future.
+MAJOR INITIATIVES AND COUNTY LONG-TERM FINANCIAL PLANNING
+Facilities planning and maintenance continue to be a major area of emphasis for the County.  The
+County is in the process of reviewing the capital improvement plan.  The County Commissioners
+targeted  an  expansion  project  to  increase  space  at  the  County  Jail  facility.   The  County
+experienced problems segregating inmates during the COVID pandemic.  The County did create
+the Jail Capital Improvement Fund in 2008 to accumulate monies for the future expansion of the
+facility.   The  County  received  an  Energy  Impact  Assistance  Fund  grant  to  help  fund  the  Jail
+project.  The County may also have to look to the other municipalities to help fund the jail.  The
+current complex was built in 1985.
+AWARDS
+The  Government  Finance  Officers  Association  of  the  United  States  and  Canada  (GFOA)
+awarded a Certificate of Achievement for Excellence in Financial Reporting to Morgan County
+for its annual comprehensive financial report for the fiscal year ended December 31, 2023.  The
+Certificate  of  Achievement  is  a  prestigious  national  award  recognizing  conformance  with  the
+highest standards for preparation of state and local government financial reports.
+In order to be awarded a Certificate of Achievement, a government unit must publish an easily
+readable  and  efficiently  organized  annual  comprehensive  financial  report  (ACFR),  whose
+contents  conform  to  program  standards.   This  report  must  satisfy  both  generally  accepted
+3
+accounting principles and applicable legal requirements.
+ACKNOWLEDGEMENTS
+The  preparation  of  the  annual  comprehensive  financial  report  on  a  timely  basis  was  made
+possible  by  the  dedicated  service  of  the  entire  staff  of  the  Finance  and  Accounting  department
+and  Information  Systems  department.   Each  member  of  the  departments  has  our  sincere
+appreciation  for  the  contributions  made  in  the  preparation  of  this  report.   These  people  work
+together as a highly effective team to promote the excellence we strive for.  Appreciation is also
+expressed to the Board of County Commissioners who establishes the policies which provide for
+sound financial management and to all the other elected officials, department heads, and County
+employees for their cooperation in matters pertaining to the financial affairs of the County.
+Respectfully submitted,
+Jessica Trusty
+Director of Finance and Accounting
+4
+6
+MORGAN COUNTY, COLORADO
+  List of Principal Officials
+As of December 31, 2025
+TITLE NAME
+ELECTED
+Chairman, Board of County Commissioners
+Commissioner
+Jon Becker
+Kelvin Bernhardt
+Commissioner Tim Malone
+Assessor Tim M. Amen
+Clerk & Recorder Kevin Strauch
+Coroner Michael Dahl
+Sheriff David D. Martin
+Surveyor Nichole F. Hay
+Treasurer Robert A. Sagel
+APPOINTED
+Accounting & Finance Director, Interim
+Administrative Services Manager
+Building Maintenance Director
+County Attorney
+Emergency Managment Director
+Environmental Director
+Human Services Attorney
+Human Services Director
+Information Systems Director
+Planning & Zoning Director
+Public Service Director
+Public Works Director
+Veterans Officer
+ 
+ 
+Jessica Trusty 
+Mariah Garcia
+Michael Cox 
+Kathryn Sellars
+Roger Doll
+Cass Yearous 
+David Bute
+Jaque Frenier 
+Karol L. Kopetzky 
+Nicole F. Hay 
+Travis Freeman 
+John Goodman
+Brian Uhrich
+7
+8
+FINANCIAL SECTION
+9
+LIITTJOHANN, KAUFFMAN, and PEDERSON 
+ Certified Public Accountants 
+ 
+ 
+ 
+David A. Kauffman, C.P.A., P.C.  Daniel M. Pederson, C.P.A.’s, P.C. 
+ 
+420 East Platte Avenue, Suite A  106 East First Street 
+Ft. Morgan, CO  80701  Julesburg, CO  80737 
+(970) 867-4922            (970) 474-3326 
+INDEPENDENT AUDITORS’ REPORT 
+ 
+To the Board of County Commissioners 
+Morgan County, Colorado 
+ 
+Report on the Audit of the Financial Statements 
+ 
+Opinions 
+ 
+We have audited the accompanying financial statements of the governmental activities, the business -type activities, the 
+discretely presented component unit s, each major fund, and the aggregate r emaining fund information of  Morgan County, 
+Colorado (the County), as of and for the year ended December 31, 2025, and the related notes to the financial statements, which 
+collectively comprise the County’s basic financial statements as listed in the table of contents.  
+ 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the respective financial position 
+of the governmental activities, the business type activities, the aggregate discretely presented component unites, each major 
+fund, and the aggregate remaining fund information of the  County, as of December 31, 2025, and the respectiv e changes in 
+financial position, and, where applicable, cash flows  thereof for the year then ended in accordance with accounting principles 
+generally accepted in the United States of America. 
+Basis for Opinions 
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America  and the 
+standards applicable to financial audits contained in Government Auditing Standards issued by the Comptroller General of the 
+United States.. Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of 
+the Financial Statements section of our report. We are required to be independent of the Morgan County, Colorado and to meet 
+our other ethical responsibilities, in accordance with the relevant ethical requirements relating to our audit. We believe th at the 
+audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions. 
+Responsibilities of Management  for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with accounting 
+principles generally accepted in the United States of America; this includes the design, implementation, and maintenance of 
+internal control relevant to the preparation and fair presentation of financial statements that are free from material misstatement, 
+whether due to fraud or error.  
+In preparing the financial statements, management is required to evaluate whether there are con ditions or events, considered 
+in the aggregate, that raise substantial doubt about the County’s ability to continue as a going concern for twelve months beyond 
+the financial statement date, including and currently known information that may raise substantial doubt shortly thereafter. 
+Auditor’s Responsibilities for the Audit of the Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinions. Reasonable assurance 
+is a high level of assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted in accordance 
+with generally accepted auditing standards and Government Auditing Standards will always detect a material misstatement when 
+it exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error , as 
+fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control. Misstatements 
+are considered material if there is a substantial likelihood that, individually or in the aggregate, they would influence the  
+judgement made by a reasonable user based on the financial statements. 
+In performing and audit in accordance with generally accepted auditing standards, we: 
+ Exercise professional judgement and maintain professional skepticism throughout the audit. 
+10
+  
+ 
+ Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, and 
+design and perform audit procedures responsive to those risks. Such procedures include examining, on a test basis, 
+evidence regarding the amounts and disclosures in the financial statements. 
+ Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate 
+in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the County’s internal 
+control. Accordingly, no such opinion is expressed. 
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting estimates 
+made by management, as well as evaluate the overall presentation of the financial statements. 
+ Conclude whether, in our judgement, there are conditions or events, considered in the aggregate, that raise substantial 
+doubt the County’s ability to continue as a going concern for a reasonable period of time. 
+We are required to communicate with those charged with governance regarding, among other matters, the planned scope and 
+timing of the audit, significant audit findings, and certain internal control-related matters that we identified during the audit. 
+ 
+Required Supplementary Information 
+ 
+Accounting principles generally accepted in the United States of America require that the management’s discussion and analysis 
+and budgetary comparison information as listed in the table of contents be presented to supplement the basic financial 
+statements.  Such information is the responsibility of management and, although not a part of the basic financial statements, is 
+required by the Governmental Accounting Standards Board, who considers it to be an essential part of financial reporting for 
+placing the basic financial statements in an appropri ate operational, economic, or historical context. We have applied certain 
+limited procedures to the required supplementary information in accordance with auditing standards generally accepted in the 
+United States of America, which consisted of inquiries of  management about the methods of preparing the information and 
+comparing the information for consistency with management’s responses to our inquiries, the basic financial statements, and 
+other knowledge we obtained during our audit of the basic financial s tatements. We do not express an opinion or provide any 
+assurance on the information because the limited procedures do not provide us with sufficient evidence to express an opinion 
+or provide any assurance. 
+ 
+Supplementary Information 
+ 
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively comprise the County’s 
+basic financial statements.  The accompanying combining and individual nonmajor fund financial statements and schedule of 
+expenditures of federal awards, as required by Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards and Local Highway Finance Report are presented 
+for p urposes of additional analysis and are not a required part of the basic financial statements. Such information is the 
+responsibility of management and was derived from and relates directly to the underlying accounting and other records used to 
+prepare the basic financial statements. The information has been subjected to the auditing procedures applied in the audit of 
+the basic financial statements and certain additional procedures, including comparing and reconciling such information direct ly 
+to the underlying accounting and other records used to prepare the basic financial statements or to the basic financial statements 
+themselves, and other additional procedures in accordance with auditing standards generally accepted in the United States of 
+America. In our opinion, the combining and individual nonmajor fund financial statements and the schedule of expenditures of 
+federal awards are fairly stated, in all material respects, in relation to the basic financial statements as a whole. 
+ 
+Other Information 
+ 
+Management is responsible for the other information included in the annual report. The other information comprises the 
+introductory and statistical sections but does not include the basic financial statements and our auditor’s report thereon. Our 
+opinions on the basic financial statements do not cover the other information, and we do not express an opinion or any form o f 
+assurance thereon.  
+ 
+In connection with our audit of the basic financial statements, our responsibility is to read the other information and 
+consider whether a material inconsistency exists between the other information and the basic financial statements, 
+or the other information otherwise appears to be materially misstated. If, based on the work performed, we conclude 
+that an uncorrected material misstatement of the other information exists, we are required to describe it in our report. 
+ 
+Fort Morgan, Colorado 
+July 29, 2026 
+ 
+11
+ 
+MANAGEMENT’S DISCUSSION AND ANALYSIS 
+As management of the County of Morgan, we offer readers of Morgan County Government’s financial 
+statements this narrative overview and analysis of the financial activities of Morgan County for the fiscal 
+year ended December 31, 2025. We encourage readers to consider the information presented here in 
+conjunction with the letter of transmittal and basic financial statements to enhance their understanding of 
+the County’s financial performance. 
+FINANCIAL HIGHLIGHTS 
+- The assets and deferred inflows of Morgan County exceeded liabilities and deferred inflows of 
+resources by $158 million (net position) at the end of 2025. Of this amount, $78 million may be 
+used to meet the government’s ongoing obligations to citizens and creditors. The remaining $80 
+million is invested in capital assets or restricted by law. 
+- The County’s General Fund balance was $48.6 million as of December 31, 2025. Of this amount, 
+$12 million is assigned for capital building projects, $1 million is restricted for emergencies, 
+$49,201 is restricted for Clerk E-filing, and $2,847 is committed for the Tri centennial. The 
+remaining $35.2 million is unassigned fund balance. The 2024 fund balance was $51.2 million. 
+- The total 2025 General Fund expenditures are $20.4 million, which is $1.2 million more than the 
+2024 General Fund operating expenditures plus transfers out of $19.2 million. Morgan County 
+does not have a county sales tax and relies heavily on property tax collections as a main revenue 
+source. Current property taxes represent 70% of the General Fund revenue in 2025. 
+OVERVIEW OF THE FINANCIAL STATEMENTS 
+This discussion and analysis is intended to serve as an introduction to the County’s basic financial 
+statements. Morgan County’s basic financial statements comprise three components: 1) government-wide 
+financial statements, 2) fund financial statements, and 3) notes to the financial statements. This report 
+also contains required and other supplementary information in addition to the basic financial statements 
+including combining statements for non-major funds, and a statistical section. 
+Government-Wide Financial Statements. The government-wide financial statements are designed to 
+provide readers with a broad overview of the County’s finances, in a manner similar to a private sector 
+business. 
+The statement of net position presents information on all of the County’s assets, deferred outflows, 
+liabilities, and deferred inflows with the difference reported as net position. Over time, increases or 
+decreases in net position may serve as a useful indicator of whether the financial position of Morgan 
+County is improving or deteriorating. 
+The statement of activities presents information showing how the government’s net position changed 
+during the fiscal year. All changes in net position are reported as soon as the underlying event giving rise 
+to the change occurs, regardless of the timing of related cash flows. Thus revenues and expenses are 
+reported for some items that will only result in cash flows in future fiscal periods, for example uncollected 
+taxes and earned but unused vacation leave. 
+Both of the government-wide financial statements distinguished functions of the County that are 
+principally supported by taxes and intergovernmental revenues (governmental activities) from other 
+functions that are intended to recover all or a significant portion of their costs through user fees and 
+charges (business-type activities). The governmental activities of Morgan County include general 
+12
+ 
+ 
+government, public safety, highways and bridges, recreation, and human services. The business-type 
+activities of the County include operation of a solid waste landfill and the County ambulance service. 
+Fund Financial Statements. A fund is a grouping of related accounts that is used to maintain control 
+over resources that have been segregated for specific activities or objectives. Morgan County, like other 
+state and local governments, uses fund accounting to ensure and demonstrate compliance with finance-
+related legal requirements. All of the funds of Morgan County can be divided into three categories: 
+governmental funds, proprietary funds, and fiduciary funds.  
+Governmental Funds. Governmental funds are used for essentially the same functions reported as 
+governmental activities in the government-wide financial statements. However, unlike the government-
+wide financial statements, governmental fund financial statements focus on near-term inflows and 
+outflows of spendable resources as well as on balances of spendable resources available at the end of 
+the fiscal year. Such information may be useful in evaluating a government’s near-term financing 
+requirements. 
+Because the focus of governmental funds is narrower than that of the government-wide financial 
+statements, it is useful to compare the information presented for governmental funds with similar 
+information presented for governmental activities in the government-wide financial statements. By doing 
+so, readers may better understand the long-term impact of the government’s near-term financing 
+decisions. Both the governmental fund balance sheet and the governmental fund statement of revenues, 
+expenditures, and changes in fund balances provide a reconciliation to facilitate this comparison between 
+governmental funds and governmental activities. 
+Morgan County maintains eight individual governmental funds. Information is presented separately in the 
+governmental fund balance sheet and in the governmental fund statement of revenues, expenditures, and 
+changes in fund balances for the general fund, road and bridge fund, and the social services fund, all of 
+which are considered to be major funds. Morgan County adopts an annual appropriated budget for all 
+major funds. The budgetary comparison statements can be found in this report in the table of contents 
+Data from the other five governmental funds are combined into a single, aggregated presentation. 
+Individual fund data for each of these non-major funds is provided in the form of combining statements in 
+this report. Governmental funds budgets for the non-major funds are also provided in the table of 
+contents. 
+Proprietary Funds. Morgan County maintains two different types of proprietary funds. Enterprise funds 
+are used to report the same functions presented in the business-type activities in the government-wide 
+financial statements. The County uses enterprise funds to account for the solid waste landfill and the 
+ambulance service operation. The County also maintains an internal service fund as an accounting 
+device used to accumulate and allocate costs internally among the County’s various function. Morgan 
+County uses the internal service fund to account for its fleet of vehicles, county attorney, human 
+resources, accounting and purchasing services and its management information systems. Because these 
+services predominately benefit governmental rather than business-type functions, they are included within 
+governmental activities in the government-wide financial statements.  
+Proprietary funds provide the same type of information as the government-wide financial statements, only 
+in more detail. The proprietary fund financial statements provide separate information for the Solid Waste 
+Management Fund and the Ambulance Service Fund, both of which are considered to be business type 
+activities funds as well as the Internal Service Fund which is considered a governmental activities fund. 
+13
+ 
+ 
+Enterprise Fund statements, Internal Service Fund schedule, Budget to actual comparisons for the 
+Enterprise Funds and Budget to actual comparison for the Internal Services Fund are all listed in the table 
+of contents. 
+Fiduciary Funds. Fiduciary funds are used to account for resources held for the benefit of parties outside 
+the government. Fiduciary funds are not included in the government-wide financial statements because 
+the resources of these funds are not available to support Morgan County’s own operations. One of four 
+types of fiduciary funds is Custodial Funds. Morgan County maintains four Custodial Funds. The 
+accounting used for fiduciary funds is much like that used for proprietary funds. A Combining Statement 
+of Fiduciary Net Position and a Combining Statement of changes in Fiduciary net Position – Custodial 
+Funds can be found on the table of contents. 
+Notes to the financial statements. The notes provide additional information that is essential to a full 
+understanding of the data provided in the government-wide and fund financial statements. The notes to 
+the financial statements are located after the basic financial statement reports. 
+COUNTY-WIDE FINANCIAL ANALYSIS 
+Net Position. As noted earlier, net position may serve over time as a useful indicator of a government’s 
+financial position. As of December 31, 2025, assets exceeded liabilities and deferred inflows of resources 
+by $158 million. The largest portion of Morgan County’s net position (48%) is invested in capital assets. 
+The net investment in capital assets is $75.3 million. These capital assets are used to provide services to 
+citizens and are not available for future spending. Although the investment in capital assets is reported 
+net of related debt, the resources needed to repay this debt must be provided from other sources as the 
+assets themselves cannot be liquidated to repay the debt. 
+An additional $4.1 million of net position represents resources that are subject to external restrictions on 
+how they may be used. The largest portion of the restricted net position, $11.9 million, is restricted for the 
+Roadways. 
+The County had an unrestricted net position of $67 million, which may be used to meet the County’s 
+ongoing obligations to citizens and creditors. 
+The three categories of net position are: net investment in capital assets, assets subject to certain 
+restrictions, and unrestricted assets. At the end of 2025, Morgan County had positive balances in all three 
+categories of net position both for governmental activities and business type activities.  
+  
+14
+ 
+ 
+Morgan County Government 
+Net Position 
+ Governmental activities Business-type activities Total Government 
+ 2025 2024 2025 2024 2025 2024 
+Assets       
+Current and other assets $104,820,039 $101,000,137 $8,800,078 8,245,739 $113,620,117 $109,245,876 
+Capital assets 72,194,714 77,941,570 3,166,169 2,934,702 75,360,883 80,876,272 
+Total Assets 177,014,753 178,941,707 11,966,247 11,180,441 188,981,000 190,122,148 
+Liabilities       
+Current liabilities 5,492,344 2,523,073 305,604 190,287 5,797,948 2,713,360 
+Long-term liabilities 1,139,983 1,044,601 1,883,840 1,547,183 3,023,823 2,591,784 
+Total liabilities  7,282,274 3,567,674 2,189,444 1,737,470 9,471,718 5,305,144 
+Deferred Property Tax 
+Revenue 21,009,484 21,609,164 - - 21,009,484 21,609,164 
+Total liabilities and 
+deferred inflows of 
+resources 28,291,758 25,176,838 2,189,444 1,737,470 30,481,202 26,914,308 
+Net position       
+Net investment in capital 
+assets 72,194,714 77,235,314 3,166,169 2,934,702 75,360,883 80,170,016 
+Restricted 16,089,127 14,754,697 - - 16,089,127 15,754,697 
+Unrestricted 60,439,154 60,774,858 6,610,634 6,508,269 67,049,788 67,283,127 
+Total net position 148,722,995 $153,764,869 9,776,803 $9,442,971 158,499,798 $163,207,840 
+ 
+The total net position decreased in 2025 by $4.7 million. The decrease in the 2025 net position can be 
+seen by the increase in total liabilities and deferred inflows of resources. The increase of total liabilities 
+and deferred inflows of resources in 2025 is $3.5 million. 
+The total restricted net position increased by $334,430. The increase in restricted funds was mainly in the 
+Road and Bridge fund due to a decrease in capital projects completed. 
+Net investment in capital assets decreased $4.7million in 2025. The majority of the decline was from 
+depreciation calculated on capital assets exceeding the new capital outlay. 
+Governmental activities. Governmental activities decreased Morgan County’s net position by $5 million. 
+The decrease in net position in the governmental funds is due mainly to the increase in current liability 
+reported and increase in revenue. The County’s investment income decreased by $534,394 in the 
+governmental activities in 2025. 
+Business-type activities. Business-type activities increased Morgan County’s net position by $333,832. 
+ 
+ 
+15
+ 
+ 
+The following shows the elements of the County’s change in net position: 
+ 
+Morgan County Government 
+Changes in Net Position 
+ 
+Governmental activities Business-type activities Total Government 
+ 2025 2024 2025 2024 2025 2024 
+Revenues       
+Program revenues       
+Charges for services $8,240,777 $7,757,346 $3,937,824 $3,114,549 12,178,601 $10,871,895 
+Operating grants and contributions 6,713,556 11,527,316 134,733 177,862 6,848,289 11,705,178 
+General revenues       
+Property tax 25,768,752 22,681,704 - - 25,768,752 22,681,704 
+Other tax 1,158,413 2,153,853 - - 1,158,413 2,153,853 
+Investment Income 3,659,247 4,193,641 275,246 284,502 3,934,493 4,478,143 
+Other general revenues 922,804 994,993 - 92,718 922,804 1,087,711 
+Total revenues 46,263,549 49,308,853  3,669,631 50,811,352 52,978,484 
+       
+Expenses       
+General government 17,388,021 15,788,777 - - 17,388,021 15,788,777 
+Judicial and Public safety 8,596,242 8,203,023 - - 8,596,242 8,203,023 
+Auxiliary services 686,418 559,974 - - 686,418 559,974 
+Roads and bridges 16,380,515 14,708,251 - - 16,380,515 14,708,251 
+Public welfare 7,008,234 6,526,888 - - 7,008,234 6,526,888 
+Miscellaneous 1,245,993 - - - 1,245,993 - 
+Ambulance services - - 2,612,229 2,707,360 2,612,229 2,707,360 
+Solid waste services - - 1,601,742 1,612,743 1,601,742 1,612,743 
+Total expenses 51,305,423 45,786,913 4,213,971 4,320,103 54,078,394 50,107,016 
+Increase (decrease) in net position (4,841,874) 3,521,940 133,832 (650,472) (4,708,042) 2,871,468 
+Transfers (200,000) (200,000) 200,000 200,000 - - 
+Net position – January 1 153,764,869 150,442,929 9,442,971 9,893,443 163,207,840 160,336,372 
+Net position – December 31 $148,722,995 $153,764,869 $9,776,803 $9,442,971 $158,499,798 $163,207,840 
+ 
+  
+16
+ 
+ 
+ 
+  
+17
+ 
+ 
+ 
+ 
+  
+18
+ 
+ 
+FINANCIAL ANALYSIS OF THE COUNTY’S FUNDS 
+As noted earlier, Morgan County uses fund accounting to ensure and demonstrate compliance with 
+finance-regulated legal requirements. 
+Governmental Funds Overview. The focus of County governmental funds is to provide information on 
+near-term inflows, outflows, and balances of spendable resources. Such information is useful in 
+assessing the County’s financing requirements. In particular, unassigned fund balance may serve as a 
+useful measure of a government’s net resources available for spending at the end of the fiscal year. 
+The County’s governmental funds financial position decreased during the year 2025. The total fund 
+balances in the governmental funds decreased by $2.6 million or 5%. As of the end of 2025 the combined 
+ending fund balance of County governmental funds was $77.6 million. Approximately 45% of this consists 
+of unassigned fund balance, which is available as working capital and for current spending in accordance 
+with the purposes of the specific funds. The remainder of fund balance is includes restricted or committed 
+fund balance for a specific purpose by the current County Commissioners. The County has restricted 
+funds for the following purposes: 1) a state-constituted mandated emergency reserve of $1,000,000, 2) a 
+state mandated clerk technology fund of $49,201, 3) a state stature for Social Services $1,657,939, 4) a 
+state statute for roadways $6,572,747, 5) a state statute for the 911 emergency telephone services 
+$1,369,976, 6) a state statute to promote tourism in the County $609,944, 7) a state statute for bridge 
+structures $4,294,491, and 8) a state statute regulating law enforcement confiscation and seizure $7,514. 
+Proprietary Funds Overview. The County’s proprietary fund statements provide the same type of 
+information found in the government-wide statements, but in more detail. 
+The County has two enterprise-type proprietary funds, the Solid Waste Management Fund and 
+Ambulance Service Fund. 
+- Solid Waste Management Fund. Total net position of this fund at the end of 2025 amounted to 
+$8.4 million. This is an increase of $333,832 or 4% from net position at the end of 2024. The 
+increase in net position was mainly due to an annual increase in fees and an increase in 
+customer volume with minimal change in expenses year over year. 
+- Ambulance Service Fund. Total net position of this fund at the end of 2025 amounted to $1.4 
+million. This is flat year-over-year from net position at the end of 2024. Net position remained 
+stable due to continuing struggles with decreasing revenues offset by the sale of equipment along 
+with stable costs year-over-year. 
+The proprietary funds change in net position is mainly due to the increase in customer fees collected in 
+the Solid Waste Management Fund. 
+The County has one Internal Service Fund type Proprietary Fund. The Internal Service Fund is a 
+governmental activity fund in the Proprietary Fund financial statements. The County’s Internal Service 
+Fund, the Central Services Fund, has a total net position of $8.4 million. This is a decrease of $1,133,218 
+from 2024 total net position. The decrease in net position was due mainly to the overall increase of 
+expenses, specifically in the County’s operating supplies and purchased services. 
+  
+19
+ 
+ 
+Governmental Funds Overview 
+The County has three major governmental funds. These are the General Fund, Road and Bridge Fund, 
+and Social Services Fund. 
+- General Fund. This is the primary operating fund of the Morgan County Government. It accounts 
+for many of the County’s core services such as law enforcement, the County Assessor, County 
+Clerk and Recorder and planning and zoning. The general fund’s fund balance as of December 
+31, 2025, was $48.6 million. This is a decrease of $2.6 million. Of this amount, $13.4 million is 
+restricted or assigned for a specific purpose. As a measure of the general fund’s liquidity, it may 
+be useful to compare the fund balance and total fund balance to total fund expenditures. 
+Unassigned fund balance is 58% of total 2025 expenditures and transfers in the general fund. 
+The decrease in fund balance is due to the decrease in general fund tax revenues and 
+intergovernmental revenues. 
+- Road and Bridge Fund. The Road and Bridge Fund is mandated by state statutes. This fund 
+accounts for costs related to County road and bridge construction and maintenance of same. The 
+Road and Bridge Fund has $19.3 million in fund balance at the end of 2025. Of this amount, 
+$18.9 million is restricted for future capital road and bridge projects. Total Road and Bridge fund 
+balance increased by $1.3 million in 2025. The increase in fund balance was due to an increase 
+in tax revenues. 
+- Social Services Fund. This fund is also State mandated. It accounts for the local share of many 
+Federal and State public welfare programs. The Social Services fund balance at the end of 2025 
+was $1.1 million. This is a slight decrease of $138,582 from the 2024 fund balance which was 
+mainly due to a decrease in funding. The $1.1 million fund balance is restricted for public welfare 
+programs. 
+GENERAL FUND BUDGETARY HIGHLIGHTS 
+The County’s budget is prepared according to Colorado statutes. The most significant budgeted fund is 
+the General Fund. The actual expenditures is the County’s General Fund did not reach the budgeted 
+amount. This was due to capital projects that were rescheduled for future years. 
+CAPITAL ASSETS AND DEBT ADMINISTRATION 
+Capital Assets. Morgan County’s net investment in capital assets for its governmental and business type 
+activities as a December 31, 2025 totals $75.4 million (net of accumulated depreciation). This investment 
+includes all land, buildings, machinery and equipment, as well as infrastructure constructed from 1980 
+through 2025. 
+  
+20
+ 
+ 
+Morgan County Government 
+Capital Assets 
+(net of depreciation) 
+ 
+Governmental activities Business-type activities Total Government 
+ 2025 2024 2025 2024 2025 2024 
+Land and Water Rights $2,118,484 $      2,118,484 $125,787 $         125,787 $2,244,271 $      2,244,271 
+Buildings and Improvements 9,985,412 8,911,017 822,575 835,005 10,807,987 10,379,286 
+Machinery and Equipment 7,403,309 9,170,853            936,780 567,277 8,340,089 8,629,669 
+Infrastructure  50,906,040 55,959,748 1,281,027 1,406,633 52,187,067 63,210,957 
+Construction in Progress 1,781,469 1,781,469 - - 1,781,469 1,781,469 
+Total capital assets $72,194,714 $    77,941,571 $3,166,169 $     2,934,702 $75,360,883 $    86,246,652 
+ 
+Additional information on the Morgan County capital asset activity can be found in note 5 of this report. 
+Debt. The County has no debt as of December 31, 2025. 
+Other Matters. The following factors are expected to have a significant effect on the County’s financial 
+position or results of operation and were taken into account in developing the 2025 budget: 
+- The County has historically, and continues to be fiscally responsible. The fund balance for that 
+County was carefully invested. 
+- Building renovation and updating of the existing County Jail/Judicial Complex began in 2024 and 
+continued in 2025 
+- The County purchased land near Snyder and built a shed to house a road grader. 
+- The County tore down the hog and sheep barn at the County Fairgrounds. A new barn was 
+started in 2025 and finished in 2026. 
+- The County Social Services Department continues to address increasing caseloads and 
+increasing costs to local government 
+- The County’s Ambulance Service Fund expenses continue to increase. Fees the County collects 
+for the ambulance services has increased but not at a level to meet current expenses. In 2025, 
+the County approved a transfer of funds from the Morgan County General Fund to help meet the 
+increasing cost of ambulance operations. 
+REQUESTS FOR INFORMATION 
+This financial report is designed to provide a general overview of Morgan County’s finances for all those 
+with an interest in the government’s finances. Financial information for the Morgan County Building 
+Authority is included in the County’s primary government financial statements and separate financial 
+statements are not prepared. Questions concerning any of the information provided in this or for 
+additional information should be addressed to the Finance Director, P.O. Box 189, Fort Morgan, CO 
+80701 
+21
+22
+BASIC FINANCIAL STATEMENTS
+23
+MORGAN COUNTY, COLORADO
+STATEMENT OF NET POSITION
+AS OF DECEMBER 31, 2025
+Governmental Business-type
+Activities Activities Total
+Assets:
+Cash and cash investments 78,784,520$        8,228,367$          87,012,887$        
+Property taxes receivable 20,722,317          556,260              21,278,577          
+Due from other funds 1,145,732           6,435                  1,152,167           
+Other receivables 3,681,658           9,016                  3,690,674           
+Inventories 485,812              -                          485,812              
+Capital assets, not being depreciated 3,899,953           125,787              4,025,740           
+Capital assets, net of depreciation 68,294,761          3,040,382           71,335,143          
+Total Assets 177,014,753$      11,966,247$        188,981,000$      
+Liabilities
+Warrants payable 407,271$            112,334$            519,605$            
+Vouchers payable 1,226,116           61,362                1,287,478           
+Accounts payable 2,915,854           10,497                2,926,351           
+Accrued slaaries and benefits -                          77,435                77,435                
+Intergovernmental payables 655,936              43,976                699,912              
+Unearned other revenue 287,167              287,167              
+Noncurrent liabilities
+Due within on year 732,819              95,733                828,552              
+Due more than one year 407,164              1,788,107           2,195,271           
+Total liabilities 7,282,274           2,189,444           9,471,718           
+Deferred inflows of resources
+Deferred property tax revenues 20,722,317          -                          20,722,317          
+Other deferred revenues 287,167              -                          287,167              
+Total deferred inflows of resources 21,009,484          -                          21,009,484          
+Net Position
+Net investment in capital assets 72,194,714          3,166,169           75,360,883          
+Restricted for:
+Clerk E-filing fees 49,201                -                          49,201                
+Emergencies 2,369,976           -                          2,369,976           
+Roadways 11,963,451          -                          11,963,451          
+Social services 1,089,041           -                          1,089,041           
+Tourism 609,944              -                          609,944              
+Law enforcement 4,667                  -                          4,667                  
+Tri Centennial 2,847                  2,847                  
+Unrestricted net positon 60,439,154          6,610,634           67,049,788          
+Total Net Position 148,722,995        9,776,803           158,499,798        
+Total Liabilities, Deferred Inflows of Resources and Net Position 177,014,753$      11,966,247$        188,981,000$      
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -24-
+MORGAN COUNTY, COLORADO
+STATEMENT OF ACTVITIES
+FOR THE YEAR ENDED DECEMBER 31, 2025
+Operating Capital Net
+Charges for Grants and Grants and Governmental Business-type
+Expenses Services Contributions Contributions Activities Activities Total
+Governmental Activities
+General government 17,388,021$        7,011,713$          1,008,994$          (9,367,314)$         -$                         (9,367,314)$         
+Judicial and public safety 8,596,242            933,075               (7,663,167)           -                           (7,663,167)           
+Auxiliary services 686,418               -                           (686,418)              -                           (686,418)              
+Road and bridge 16,380,515          295,989               75,020                 (16,009,506)         -                           (16,009,506)         
+Public welfare 7,008,234            -                           5,629,542            (1,378,692)           -                           (1,378,692)           
+Miscellaneous 1,245,993            -                           (1,245,993)           -                           (1,245,993)           
+Total Governmental activites 51,305,423          8,240,777            6,713,556            -                           (36,351,090)         -                           (36,351,090)         
+Business-type activities
+Ambulance services 2,612,229$          2,247,154$          134,733$             -$                     (230,342)$            (230,342)$            
+Solid waste services 1,601,742            1,690,670            -                       -                       88,928                 88,928                 
+Total business-type activities 4,213,971$          3,937,824            134,733               -                           -                           (141,414)              (141,414)              
+Total Primary Government 55,519,394$        12,178,601$        6,848,289$          -$                         (36,351,090)$       (141,414)$            (36,492,504)$       
+General Revenues
+  Taxes
+     Property taxes, levied for general purposes 25,768,752          25,768,752          
+     Specific ownership taxes 1,132,032            1,132,032            
+     Lodging 258,720               258,720               
+     Other taxes 26,381                 26,381                 
+  Unrestricted earnings on investments 3,659,247            275,246               3,934,493            
+  Miscellaneous 664,084               664,084               
+    Transfers (200,000)              200,000               -                           
+Total general revenues 31,309,216          475,246               31,784,462          
+Change in net position (5,041,874)           333,832               (4,708,042)           
+Net position at beginning of year 153,764,869        9,442,971            163,207,840        
+Net position at end of year 148,722,995$      9,776,803$          158,499,798$      
+Program Revenues Primary Government
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -25-
+MORGAN COUNTY, COLORADO
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+AS OF DECEMBER 31, 2025 Nonmajor Total
+General Road and Social Governmental Governmental
+Fund Bridge Fund Services Fund Funds Funds
+Assets:
+Cash and cash investments $49,257,052 $19,209,227 $1,104,301 8,571,459$          78,142,039$        
+Property taxes receivable 14,909,066          5,764,494            48,757                 -                       20,722,317          
+Due from other funds 15,756                 290,126               458,072               -                       763,954               
+Other receivables 559,135               56,078                 2,919,851            110,621               3,645,685            
+Inventories -                       189,359               1,048                   -                       190,407               
+Total Assets 64,741,009$        25,509,284$        4,532,029$          8,682,080$          103,464,402$      
+Liabilities
+Warrants payable -                       177,949               -                       20,621                 198,570               
+Vouchers payable 769,383               57,217                 144,132               11,345                 982,077               
+Accounts payable 795                      328                      2,914,731            -                       2,915,854            
+Cash held for others 33,094                 -                       27,994                 450                      61,538                 
+Due to other funds 403,216               226,151               20,207                 373                      649,947               
+Total liabilities 1,206,488            461,645               3,107,064            32,789                 4,807,986            
+Deferred inflows of resources
+Deferred property tax revenues 14,909,066          5,764,494            48,757                 -                       20,722,317          
+Other deferred revenues -                       -                       287,167               -                       287,167               
+Total Deferred inflows of resources 14,909,066          5,764,494            335,924               -                       21,009,484          
+Fund balance
+Nonspendable for:
+Inventories -                       189,359               -                       -                       189,359               
+Restricted for:
+Clerk E-filing fees 49,201                 -                       -                       -                       49,201                 
+Emergencies (911) 1,000,000            -                       -                       1,369,976            2,369,976            
+Roadways -                       11,963,451          -                       -                       11,963,451          
+Social services -                       -                       1,089,041            -                       1,089,041            
+Tourism -                       -                       -                       609,944               609,944               
+Law enforcement -                       -                       -                       4,667                   4,667                   
+Tri Centennial 2,847                   -                       -                       -                       2,847                   
+Assigned to:
+Capital projects 12,320,370          -                       -                       -                       12,320,370          
+Bridge structures -                       4,294,491            -                       -                       4,294,491            
+Road projects -                       2,835,844            -                       -                       2,835,844            
+Jail expansion -                       -                       -                       6,572,747            6,572,747            
+Unassigned 35,253,037          -                       -                       91,957                 35,344,994          
+Total fund balance 48,625,455          19,283,145          1,089,041            8,649,291            77,646,932          
+Total Liabilities, Deferred Inflows 
+of Resources and Fund Balance 64,741,009$        25,509,284$        4,532,029$          8,682,080$          103,464,402$      
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -26-
+MORGAN COUNTY, COLORADO
+RECONCILIATION OF THE BALANCE SHEET OF GOVERNMENTAL FUNDS
+TO THE STATEMENT OF NET POSITION
+AS OF DECEMBER 31, 2025
+Amounts reported for governmental activities in the statement of
+net position are different because:
+Total fund balance - governmental funds 77,646,932$        
+Capital assets used in governmental actvities are not financial resources
+and therefore are not reported as assets in governmental funds. 63,721,648          
+Long-term liabilities are not due and payable in the current period and
+therefore are not reported as liabilities in the funds. (1,085,180)          
+The internal services fund is used by management to charge the costs of
+services for the County attorney, fleet maintenance, and other services
+to individual funds. The assets and liabilities of the internal service fund are
+included in the governmental activities in the statement of net position. 8,439,595            
+Net position of the governmental activities 148,722,995$      
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -27-
+MORGAN COUNTY, COLORADO
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN FUND BALANCE
+FOR THE YEAR ENDED DECEMBER 31, 2025
+Social Nonmajor Total
+General Road and Services Governmental Governmental
+Fund Bridge Fund Fund Funds Funds
+Revenues
+Taxes 16,118,951$        9,359,902$          1,481,309$          225,723$             27,185,885$        
+Intergovenmental 926,379               75,020                5,629,542            82,615                6,713,556            
+Fee accounts 1,758,873            -                          -                          15,149                1,774,022            
+Licenses and permits 243,519               295,989               -                          -                          539,508               
+Investment income 3,320,681            315,286               -                          23,280                3,659,247            
+Charges for services -                          -                          -                          933,075               933,075               
+Miscellaneous 499,940               26,883                5,760                  -                          532,583               
+Total revenues 22,868,343          10,073,080          7,116,611            1,279,842            41,337,876          
+Expenditures
+Current
+General government 7,702,669            -                          -                          253,629               7,956,298            
+Judicial and public safety 8,204,380            -                          -                          194,052               8,398,432            
+Auxiliary services 686,418               -                          -                          -                          686,418               
+Road and bridge -                          7,242,320            -                          -                          7,242,320            
+Public welfare -                          -                          7,005,193            -                          7,005,193            
+Miscellaneous 1,237,374            -                          -                          8,619                  1,245,993            
+Capital outlay 2,585,633            1,563,266            -                          1,542,282            5,691,181            
+Total Expenditures 20,416,474          8,805,586            7,005,193            1,998,582            38,225,835          
+Other Financing Sources (Uses)
+Transfers in 250,000               -                          -                          5,120,000            5,370,000            
+Transfers out (5,320,000)          -                          (250,000)             -                          (5,570,000)          
+Total other financing sources (5,070,000)          -                          (250,000)             5,120,000            (200,000)             
+Net change in fund balance (2,618,131)          1,267,494            (138,582)             4,401,260            2,912,041            
+Fund balance at beginning of year 51,243,586          18,015,651          1,227,623            4,248,031            74,734,891          
+Fund balance at end of year 48,625,455$        19,283,145$        1,089,041$          8,649,291$          77,646,932$        
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -28-
+MORGAN COUNTY, COLORADO
+RECONCILATION OF THE STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND 
+BALANCES
+OF GOVERNMENTAL FUNDS TO THE STATEMENT OF ACTVITIES
+FOR THE YEAR ENDED 31, 2025
+Amounts reported for governmental activities in the statement of 
+activities are different because:
+Net change in fund balances - governmental funds 2,912,041$          
+Capital outlays to purchase or build capital assets are reported in governmental
+funds as expenditures. However, for governmental actvities, those costs are
+shown in the statement of net position and allocated over their estimated useful
+lives as annual depreciation expense in the statement of actvities. This is the
+amount by which depreciation exceeded capital outlays in the current period. (6,725,315)          
+In the statement of activities, certain operating expenses are measured by 
+the amounts incurred or earned during the year, In the governmental funds,
+however, expenditures for these items are measured by the amount of 
+financial resources used (essentially, the amounts actually paid). (95,382)               
+Internal service funds are used by management to charge the costs of certain
+activities such as fleet services, attorney services, accounting services,
+and information system services to individual funds. The net revenue (expense)
+of the internal service fund is reported with governmental activities. (1,133,218)          
+Change in net position of governmental activities (5,041,874)$         
+-                          
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -29-
+MORGAN COUNTY, COLORADO
+BALANCE SHEET
+PROPRIETARY FUNDS
+AS OF DECEMBER 31, 2025
+Activities
+Ambulance Solid Waste Internal
+Service Management Total Service Fund
+Assets:
+Current assets:
+Cash and cash investments $756,130 $7,472,237 8,228,367$          $642,481
+Accounts Receivables 447,495               108,765               556,260               -                       
+Due from other funds 6,385                   50                        6,435                   381,778               
+Other receivables -                       9,016                   9,016                   35,973                 
+Inventories -                       -                       -                       295,385               
+Total current assets 1,210,010            7,590,068            8,800,078            1,355,617            
+Fixed Assets
+Land and water rights 62,190                 63,597                 125,787               -                       
+Buildings 374,607               417,453               792,060               -                       
+General equipment 51,409                 839,556               890,965               7,624,648            
+Infrastructure -                       1,357,357            1,357,357            7,851                   
+Total Fixed Assets 488,206               2,677,963            3,166,169            7,632,499            
+Total Assets 1,698,216$          10,268,031$        11,966,247$        8,988,116$          
+Liabilities
+Current liabilities:
+Warrants payable 82,589                 29,745                 112,334               147,163               
+Vouchers payable 16,919                 44,443                 61,362                 244,039               
+Accounts payable 1,273                   9,224                   10,497                 -                       
+Accrued salaries and benefits 77,435                 -                       77,435                 -                       
+Compensated absences (current) 64,428                 31,305                 95,733                 96,527                 
+Due to other funds 33,155                 10,821                 43,976                 5,989                   
+Total current liabilites 275,799               125,538               401,337               493,718               
+Long term liabilities
+Compensated absences (noncurrent) 32,916                 19,409                 52,325                 54,803                 
+Accrued landfill closure and post-closure care -                       1,735,782            1,735,782            -                       
+Total long-term liabilities 32,916                 1,755,191            1,788,107            54,803                 
+Total Liabilities 308,715$             1,880,729$          2,189,444$          548,521$             
+Net Position
+Investment in capital assets 488,206               2,677,963            3,166,169            7,632,499            
+Unrestricted 901,295               5,709,339            6,610,634            807,096               
+1,389,501$          8,387,302$          9,776,803$          8,439,595$          
+Business-type Activities - Enterprise Funds
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -30-
+MORGAN COUNTY, COLORADO
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN FUND NET POSITION
+PROPRIETARY FUNDS
+FOR THE YEAR ENDED DECEMBER 31, 2025
+Governmental
+Activities
+Ambulance Solid Waste Central
+Service Management Total Services Fund
+Operating Revenues
+Charges for services $2,215,480 $1,690,656 3,906,136$          $4,994,172
+Miscellaneous 31,674                14                       31,688                -                      
+Total operating revenues 2,247,154            1,690,670            3,937,824            4,994,172            
+Operating Expenses
+Compensation and benefits 1,925,226            544,279               2,469,505            1,839,875            
+Operating supplies 93,806                100,494               194,300               2,030,398            
+Purchased services 108,276               212,134               320,410               1,140,692            
+Fixed charges 285,084               209,001               494,085               75,297                
+Depreciation 81,270                165,513               246,783               1,169,478            
+Other expenses 118,567               370,321               488,888               3,151                  
+Total operating expenses 2,612,229            1,601,742            4,213,971            6,258,891            
+Operating income (loss) (365,075)             88,928                (276,147)             (1,264,719)          
+Nonoperating Revenues
+State grant 134,733               -                      134,733               -                      
+Interest 30,342                244,904               275,246               -                      
+Gain (loss) on disposal of assets -                      -                      -                      131,501               
+Total nonoperating revenues 165,075               244,904               409,979               131,501               
+Other Financing Sources (Uses)
+Transfers:
+General Fund 200,000               -                      200,000               -                      
+Total other financing sources (uses) 200,000               -                      200,000               -                      
+Net change in fund balance 0                         333,832               333,832               (1,133,218)          
+Fund balance at beginning of year 1,389,501            8,053,470            333,832               9,572,813            
+Fund balance at end of year 1,389,501$          8,387,302$          667,664$             8,439,595$          
+Business-type Activities - Enterprise Funds
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -31-
+MORGAN COUNTY, COLORADO
+STATEMENT OF CASH FLOWS
+PROPRIETARY FUNDS
+FOR THE YEAR ENDED DECEMBER 31, 2025
+Governmental
+Activities
+Ambulance Solid Waste Internal
+Service Management Total Service Fund
+Cash flows from operating activities
+Receipts from customers and users 1,880,763$          1,681,889$          3,562,652$          4,725,016$          
+Grants and miscellaneous revenue received 147,239              14                       147,253              -                          
+Payments to suppliers (466,145)             (505,632)             (971,777)             (2,934,242)          
+Payments to employees (1,947,790)          (560,437)             (2,508,227)          (1,840,984)          
+Net cash provided (used) by operating activities (385,932)             615,834              229,902              (50,210)               
+Cash flows from noncapital financing activities
+Transfer from General Fund 200,000              -                          200,000              -                          
+Net cash provided by noncapital financing 200,000              -                          200,000              -                          
+activities
+Cash flows from capital and related financing activities
+Acquisition of capital assets (16,338)               (541,464)             -                          (1,391,958)          
+Proceeds from sale of capital assets -                          -                          (557,802)             -                          
+Net cash used by capital and related financing (16,338)               (541,464)             (557,802)             (1,391,958)          
+activities
+Cash flows from investing activities
+Interest received 30,342                244,904              -                          -                          
+Net cash provided by investing activities 30,342                244,904              -                          -                          
+Net increase/decrease in cash and cash equivalents (171,929)             319,274              (127,901)             (1,442,168)          
+Cash and cash equivalents - January 1 928,058              7,152,963           8,081,021           2,084,649           
+Cash and cash equivalents - December 31 756,130$            7,472,237$          7,953,120$          642,481$            
+(Including $700 and $350 for the Solid Waste
+Management Fund and Central Services Fund,
+respectively, reported in cash on hand)
+Reconciliation of operating income to net cash provided
+by operating activities:
+Operating income (loss) - 333,832$            333,832$            (896,206)$           
+Adjustment to reconcile operating income to net cash provided (used) by operating activities:
+provided (used) by operating activities:
+Depreciation expense 81,270                165,513              246,783              1,243,508           
+(increase) decrease in accounts receivable (512,662)             (8,781)                 (521,443)             8,112                  
+Increase (decrease) in accounts payable 62,441                11,454                73,895                (275,697)             
+Increase in accrued wages (6,219)                 -                          (6,219)                 -                          
+Increase in accrued compensated absences (10,762)               (16,158)               (26,920)               (1,109)                 
+Increase in accrued landfill closure and postclosure -                          129,974              129,974              -                          
+Total adjustments (385,932)             282,002              (103,930)             974,814              
+Net cash provided by operating activities (385,932)$           615,834$            229,902$            78,608$              
+Business-type Activities - Enterprise Funds
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -32-
+MORGAN COUNTY, COLORADO
+FIDUCIARY FUNDS
+COMBINING STATEMENT OF FIDUCIARY NET POSITION
+AS OF DECEMBER 31, 2025
+Custodial Funds
+Total
+Governmental
+Funds
+Assets:
+Cash and cash investments 2,824,654$          
+Total Assets 2,824,654            
+Liabilities
+Due to others 2,756,996            
+Total liabilities 2,756,996            
+Net position
+Restricted for:
+Individuals and other 67,658                
+Total Liabilities and Net Position 2,824,654$          
+-33-
+MORGAN COUNTY, COLORADO
+FIDUCIARY FUNDS
+STATEMENT OF CHANGES IN FIDUCIARY NET POSITION
+FOR THE YEAR ENDED DECEMBER 31, 2025
+Custodial Funds
+Total
+Governmental
+Funds
+Additions
+Inmate deposits and other 272,513$             
+Foreclosure escrow amounts received 257                     
+Collections for other governments 58,376,748          
+Total additions 58,649,518          
+Deductions
+Commissary sales and services and other 283,883               
+Foreclosure escrow amounts disbursed 257                     
+Disbursements to other governments 58,376,748          
+Total deductions 58,660,888          
+Change in net position (11,370)               
+Net position at beginning of year 79,028                
+Net position at end of year 67,658$               
+The accompanying notes and independent auditors' report should be read with these financial statements.
+  -34-
+MORGAN COUNTY, COLORADO 
+Notes To Financial Statements 
+December 31, 2025 
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+The financial statements of Morgan County, Colorado have been prepared in conformity with Generally 
+Accepted Accounting Principles (GAAP) as applied to government units. The Governmental Accounting 
+Standards Board (GASB) is the accepted standard-setting body for establishing governmental accounting and 
+financial reporting principles. The following summary of significant accounting policies is presented to assist the 
+reader in evaluating the County’s financial statement. 
+A. Reporting Entity 
+In evaluating the County as a reporting entity, management has addressed all potential component units 
+(traditionally separate reporting entities) for which the County may be financially accountable and, as such, 
+should be included within the County’s financial statements. The County (the primary government) is financially 
+accountable if it appoints a voting majority of the organization’s governing board and (1) it is able to impose its 
+will on the organization or (2) there is a potential for the organization to provide specific financial benefits to or 
+impose specific financial burdens on the County. Additionally, the primary government is required to consider 
+other organizations for which the nature and significance of their relationship with the primary government are 
+such that exclusion would cause the reporting entity’s financial statements to be misleading. 
+These financial statements include the following blended component unit: 
+Morgan County Building Authority 
+The Morgan County Building Authority functions for one single purpose. It was created in 1984 to act as a 
+conduit to finance major capital building projects and to convey these facilities through a lease-purchase 
+agreement with the County. It has an uncompensated four member board. Board members are appointed by the 
+Board of County Commissioners. The Morgan County Building Authority does not issue separate financial 
+statements. There is no activity for the Morgan County Building Authority in 2025. 
+B. Basis of Presentation 
+Morgan County’s basic financial statements consist of government-wide statements, including a statement of 
+net position and a statement of activities, and fund financial statements which provide a more detailed level of 
+financial information. The government-wide focus is more on the sustainability of the County as an entity and 
+the Change in aggregate net position resulting from activities of the fiscal period. 
+C. Government-Wide Financial Statements 
+The statement of net position and the statement of activities display information about the County as a whole. In 
+the government-wide statement of net position, both the governmental and business-type activities columns are 
+presented on a consolidated basis by column. These statements include the financial activities of the primary 
+government, except for fiduciary activities. For the most part, the effect of interfund activity has been removed 
+from these statements. Exceptions include interfund services provided and used. Governmental activities, which 
+normally are supported by taxes and intergovernmental revenues, are reported separately from business-type 
+activities, which rely to a significant extent on fees and charges for support.  
+ 
+ 
+ 
+-35-  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+NOTE 1  –  SUMMARY OF  SIGNIFICANT ACCOUNTING POLICIES (continued)
+The government-wide statement of activities reflects both the direct expenses and net  cost of each function of 
+the County’s governmental activities and business-like activity.  Direct expenses are those that are clearly 
+identifiable with a specific function. Program  revenues include charges paid by the recipient for the goods or 
+services offered by the  program, grants and contributions that are restricted to meeting the operational or  capital
+requirements of a particular program and interest earned on grants that is  required to be used to support a 
+particular program. Revenues which are not classified  as program revenues are presented as general revenues
+of the County, with certain  limited exceptions. The comparison of direct  expenses with program revenues 
+identifies the extent to which each government function or business segment is  self-financing or draws from the 
+general revenues of the County.
+The County does not currently employ an indirect cost  allocation system. An internal  service fund is utilized to 
+account for its fleet of vehicles, county attorney and human  resources, accounting, and its management 
+information systems. Fees for these  services are charged to other operating funds. The interfund services 
+provided and  used by the County are not eliminated in the consolidation process.
+Separate financial statements are provided for governmental funds, proprietary funds,  and fiduciary funds, even
+though the latter are excluded from the  government-wide  financial statements. Major individual governmental 
+funds and major individual  enterprise funds are reported as separate columns in the fund financial statements.
+D. Fund Financial Statements
+The financial transactions of the County are recorded in individual funds. A fund is defined as a fiscal and 
+accounting entity with a self-balancing set of accounts that comprise its assets, deferred inflows and outflows of 
+resources, liabilities, fund equity, revenues, and expenditures or expenses, as appropriate. The emphasis of 
+fund financial statements is on major governmental and enterprise funds, each displayed in a separate column.
+All remaining governmental and enterprise funds are aggregated and presented as non-major funds.
+Proprietary fund  operating revenues, such as charges for services, result from exchange transactions 
+associated with the principal activity of the fund. Exchange transactions are those in which each party receives 
+and gives up essentially equal values. Non-operating revenues, such as subsidies and investment earnings,
+result from non-exchange transactions or ancillary activities.
+The County reports the following major governmental funds:
+The General Fund is the general operating fund of the County which accounts for all financial resources that
+are not accounted for in other funds. Operations of the County such as public safety, planning and zoning,
+property valuation, tax collection and distribution, vehicle licensing, County administration, and other 
+activities financed  from taxes and general revenues are reflected in this fund.
+The Road and Bridge Fund, a special revenue fund, records costs related to County road and bridge 
+construction and maintenance except for engineering and public works administration which is recorded in 
+the General Fund. By State law, Colorado counties are required to maintain a Road and Bridge Fund and a 
+portion of road and bridge taxes is allocated to cities and towns for use in their road and street activities.
+The Social Services Fund, a special revenue fund, administers human services  programs under state and 
+federal regulations. Funding sources include, Federal  and State grants as well as County property tax 
+dollars. Programs include, but  are not limited to, Medicaid, food stamps, foster care programs, senior
+service  programs, job training services, and Temporary Assistance to Needy Families  (TANF). Colorado 
+counties are required by state law to maintain a Social Services  Fund.
+-36-  
+ 
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+The County reports the following major enterprise funds:  
+The Ambulance Service Fund accounts for the activities of the County owned and operated ambulance 
+service.  
+The Solid Waste Management Fund accounts for the solid waste management activities of the County 
+including the operation of the County’s only municipal solid waste landfill.  
+The County reports the following fund types:  
+The Internal Service Fund accounts for the financing of goods and/or services provided by Attorney 
+Services and Human Resources, Accounting, Information Systems, Central Inventory Control, and Fleet 
+Management to other County departments and funds, County involved jointly governed organizations and 
+other governmental units on a cost reimbursed basis. 
+The Custodial Funds account for assets held by the County as an agent for individuals, private 
+organizations, and other governments. These funds are custodial in nature. The County custodial funds 
+include the following:  
+Treasurer Fund accounts for the receipt and disbursement of County revenues.  
+Clerk and Recorder Fund accounts for resources received and disbursed by the County Clerk and 
+Recorder on behalf of other government agencies. 
+Sheriff Funds accounts for the receipt and disbursement of all inmate escrow and commissary 
+transactions and civil trust activity. 
+Public Trustee Fund is an intermediary and recorder for foreclosures and releases of deeds of trust. 
+E. Measurement Focus 
+The government-wide and proprietary fund statements are reported using the economic resources 
+measurement focus. The government-wide, proprietary, and custodial fund financial statements are reported 
+using the accrual basis of accounting. Revenues are recorded when earned and expenses are recorded at the 
+time liabilities are incurred, regardless of when the related cash flows take place. Non-exchange transactions, in 
+which the County gives (or receives) value without directly receiving (or giving) equal value in exchange, include 
+property taxes, grants, and donations. Property taxes are levied in December and attach as an enforceable lien 
+on property as of January 1 of the following year. The County, through the Morgan County Treasurer, bills and 
+collects its own property taxes as well as property taxes of all other taxing authorities within the County.  
+Taxes levied in December 2024, are recorded in governmental funds as taxes receivable and a deferred inflow 
+of resources. Since property taxes are levied in December for the next calendar year’s operations, the total levy 
+is reported as taxes receivable and a deferred inflow of resources in the government-wide financial statements.  
+An allowance for uncollectible taxes is not provided as the uncollectible amounts were determined to be 
+negligible based upon an analysis of historical trends. Revenue from grants and donations is recognized in the 
+fiscal year in which all eligibility requirements have been satisfied.  
+ 
+ 
+-37-  
+ 
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+The accounting and financial reporting treatment applied to a fund is determined by its measurement focus. All 
+governmental funds are accounted for using a current financial resources measurement focus. With this 
+measurement focus, only current assets and current liabilities generally are included on the balance sheet. 
+Operating statements of these funds present increases (i.e. revenues and other financing sources) and 
+decreases (i.e. expenditures and other financing uses) in net fund balance. 
+All proprietary funds are accounted for on a flow of economic resources measurement focus. With this 
+measurement focus, all assets and all liabilities associated with the operation of these funds are included on the 
+balance sheet. Proprietary fund-type operating statements present increases (e.g. revenues) and decreases 
+(e.g. expenses) in net position.  
+Custodial funds use the economic resources measurement focus.  
+The modified accrual basis of accounting is used by all governmental fund types. Under the modified accrual 
+basis of accounting, revenues are recognized when susceptible to accrual (i.e. when they become both 
+measurable and available). "Measurable" means the amount of the transaction can be determined and 
+"available" means collectible within the current period or soon thereafter to be used to pay liabilities of the 
+current period. The government considers all revenues available if they are collected within 120 days after year 
+end except for property taxes which are within 60 days. The government considers property taxes as receivable 
+if they are certified in the year prior to that in which collection is expected and a corresponding deferred inflow of 
+resources. Revenue is recognized upon collection of the property taxes. Expenditures are recorded when the 
+related fund liability is incurred. Principal and interest on general long-term debt are recognized when due.  
+Those revenues susceptible to accrual are grants from other governments, interfund transfers, licenses, interest 
+revenue, and charges for services. Cigarette and property tax collected and held by the state at the end of the 
+year on behalf of the County are recognized as revenue. Revenues collected by and held by one governmental 
+agency for another within the reporting entity are considered susceptible to accrual. Fines, forfeitures, permits, 
+and licenses are not susceptible to accrual because generally they are not measurable until they are received in 
+cash.  
+The accrual basis of accounting is utilized by proprietary fund types and custodial funds. Under this method, 
+revenues are recorded when earned and expenses are recorded at the time liabilities are incurred. 
+F. Budgets 
+Annually appropriated budgets are adopted for all funds except the Custodial Funds. Budgets are adopted on a 
+basis consistent with generally accepted accounting principles. All governmental funds are budgeted on the 
+modified accrual basis of accounting with the proprietary funds budgeted on the accrual basis. All appropriations 
+lapse at year end. The County presents certain items on a basis different than the adopted budget. These 
+differences are disclosed in Note 12.  
+In the budget versus actual statements, the actual results of operations are presented on the budgetary basis of 
+accounting for proper comparison to the budget 
+The Ambulance Service Fund 2025 the final approved budget amount exceeded expenses by $165,555. 
+The Social Services Fund 2025 the final approved budget amount exceeded expenditures by $607,438. 
+ 
+ 
+-38- 
+ 
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+G. Cash and Investments 
+For the purpose of the Statement of Cash Flows, cash and cash equivalents, includes amounts in demand 
+deposits as well as short-term investments with an initial maturity date within three months of the date acquired 
+by the County. 
+State statutes authorize the County to invest in obligations of the U.S. Treasury, commercial paper, corporate 
+bonds and repurchase agreements. Investments are reported at fair value.  
+H. Short-term Interfund Receivables/Payables 
+During the course of operations, numerous transactions occur between individual funds for goods provided or 
+services rendered. These receivables and payables are classified as “interfund receivables/payables”. Short-
+term interfund loans are classified as “due from other funds” or “due to other funds”. Any residual balances 
+outstanding between the governmental activities and business-type activities are reported in the government-
+wide financial statements as “internal balances”.  
+I. Inventories 
+Inventories are valued at cost, which approximates market, using the first-in/first-out (FIFO) method. The costs 
+of governmental fund-type inventories are recorded as expenditures when purchased. 
+J. Prepaid Items 
+Payments made to vendors for services that will benefit periods beyond December 31, 2025, are recorded as 
+prepaid items for enterprise and internal service funds. 
+K. Capital Assets 
+Capital assets, which include property, plant equipment, and infrastructure assets (i.e. roads, bridges, and 
+similar items) are reported in the applicable governmental or business-type activities columns in the 
+government-wide financial statements. Capital assets are defined by the County as assets with an initial 
+individual cost of more than $5,000 and a useful life of more than one year. All capital assets are valued at 
+historical cost or estimated historical cost if actual historical cost is not available. Donated capital assets are 
+recorded at estimated acquisition value at the date of donation. 
+The costs of normal maintenance and repairs that do not add to the value of the asset or materially extend the 
+asset's lives are not capitalized.  
+All reported capital assets, other than land, water rights, and construction in progress are depreciated. 
+Improvements are depreciated over the remaining useful lives of the related capital assets. Depreciation on all 
+assets is provided on the straight-line basis over the following estimated useful lives: 
+Buildings   20-50 years 
+Equipment     5-20 years 
+Vehicles     5-20 years 
+Infrastructure – Bridges  15-25 years 
+Infrastructure – Roads  15-50 years 
+ 
+ 
+-39-  
+ 
+NOTE 1 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+L. Deferred outflows/inflows of resources 
+In addition to assets, statement of net position and fund balance sheets will sometimes report a separate 
+section for deferred outflows of resources. This separate financial statement element, deferred outflows of 
+resources, represents a consumption of net assets that applies to a future period(s) and so will not be 
+recognized as an outflow of resources (expense/expenditure) until then. The County does not have any deferred 
+outflows.  
+In addition to liabilities, the statement of net position and fund balance sheets will sometimes report a separate 
+section for deferred inflows of resources. This separate financial statement element, deferred inflows of 
+resources, represents an acquisition of net assets/fund balance that applies to a future period(s) and so will not 
+be recognized as an inflow of resources (revenue) until that time. The government has only one type of item, 
+which arises only under a modified accrual basis of accounting, which qualifies for reporting in this category. 
+Accordingly, the item, deferred revenue, is reported only in the governmental funds balance sheet. The 
+governmental funds report unavailable revenues from two sources: property taxes and special assessments. 
+These amounts are deferred and recognized as an inflow of resources in the period that the amounts become 
+available at both the governmental fund level and the period the taxes are levied for at the statement of net 
+position reporting level. 
+M. Compensated Absences 
+Accumulated personal time off (PTO) leave is reported as a liability for all leave related to past employee 
+service for which payment to the employee is considered probable. The leave liability includes any non-vested 
+leave earned by employees which is considered likely to vest.  
+Accumulated personal time off leave that is expected to be liquidated with expendable available financial 
+resources is reported as an expenditure and a fund liability of the governmental fund that will pay the benefit. A 
+liability for these amounts is reported in governmental funds only if they have matured, as a result of employee 
+resignations and retirements. Accumulated personal time off leave for proprietary fund types is recorded as fund 
+liabilities. All accumulated personal time off leave is accrued when incurred in the government-wide and 
+proprietary financial statements. 
+N. Long-Term Obligations 
+In the government-wide financial statements and proprietary fund types in the fund financial statements, long-
+term debt and other long-term obligations are reported as liabilities in the applicable governmental activities, 
+business-type activities, or proprietary fund type statement of net position. Bond premiums and discounts are 
+deferred and amortized over the life of the bonds using the effective interest method. Bonds payable are 
+reported net of the applicable bond premium or discount.  
+In the fund financial statements, governmental fund types recognize bond premiums and discounts, as well as 
+bond issuance costs, during the current period. The face amount of debt issued is reported as other financing 
+sources. Issuance costs, whether or not withheld from the actual debt proceeds received, are reported as debt 
+service or project expenditures. 
+ 
+ 
+ 
+-40-  
+ 
+  
+  
+ 
+   
+ 
+    
+ 
+   
+ 
+   
+ 
+    
+ 
+  
+ 
+     
+  
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+NOTE 1  –  SUMMARY OF  SIGNIFICANT  ACCOUNTING POLICIES (continued)
+O. Fund Balance
+The County reports fund balances according to GASB statement No. 54, “Fund Balance Reporting and 
+Governmental Fund Type Definitions.” This statement provides more clearly defined fund balance categories to 
+make the nature and extent of the constraints placed on a government’s fund balances more transparent. The 
+following classifications describe the relative strength of the spending constraints:
+ Non-spendable fund balance  –  amounts that are not in spendable form (such as inventory) or are 
+required to remain intact.
+ Restricted fund balance  –  amounts constrained to specific purposes by their  providers (such as 
+bondholders and higher levels of government), through constitutional provisions, or by enabling 
+legislation.
+ Committed fund balance  –  amounts constrained to specific purposes by the County itself, using its 
+highest level of decision making authority which is the Board of County Commissioners, by resolution.
+Committed funds cannot be used for other purposes unless the Board of County Commissioners 
+approve a resolution to remove or change the constraint. The Board establishes, modifies, or rescinds 
+fund balance commitments by passage of a resolution.
+ Assigned fund balance  –  amounts the County intends to use for a specific purpose. Intent can be 
+expressed by the Board of County Commissioners or by an official to which the Board delegates 
+authority. The Board has given authority to the County Finance Director.
+ Unassigned fund balance  –  amounts that are available for any purpose.  Positive amounts are only 
+reported in the general fund.
+The Board establishes assigned fund balance by a written directive to the Finance  Director. In 2025, the 
+assigned fund balance in the general fund consists of $12,320,370  assigned to capital projects and $1,052,048 
+assigned to other agencies. The assigned to other agencies in general fund includes: 1) $1,000,000  held by the 
+911 Emergency Telephone Fund, 2) $49,201  held by the  Morgan County Clerk  and 3)  $2,847  held by the  Tri 
+Centennial.
+When an expenditure is incurred for which committed, assigned, or unassigned fund  balances are available, the
+County considers amounts to have been spent first out of  committed funds, then assigned funds, and finally 
+unassigned funds, as needed, unless  the Board of County Commissioners has provided otherwise in its 
+commitment or  assignment actions.
+P. Net Position
+Net position represents the difference between assets, deferred outflows of resources,  liabilities, and  deferred 
+inflows of resources. Net investment in capital assets, consist of  capital assets, net of accumulated depreciation.
+The restricted component of net position consists of restricted assets reduced by  liabilities and deferred inflows 
+of resources related to those assets. Generally, a liability  relates to restricted assets if the asset results from a 
+resource flow that also results in  the recognition of a liability or if the liability will be liquidated with the restricted 
+assets  reported. Assets are  reported as restricted when there are limitations imposed on their  use either through
+the enabling legislation adopted by the County or through external  restrictions imposed by creditors, grantors or 
+laws or regulations of other governments.  When an expenditure is incurred for purposes for which both
+restricted and unrestricted  net position is available, the County considers restricted funds to have been spent 
+first.
+-41-  
+ 
+  
+ 
+   
+ 
+  
+  
+ 
+ 
+ 
+  
+   
+  
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+   
+   
+  
+  
+  
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+NOTE 1  –  SUMMARY OF  SIGNIFICANT ACCOUNTING POLICIES (continued)
+The County does maintain restricted fund balance in several funds. The restricted funds  are constrained to 
+specific purposes legally required through legislation or other  constitutional provisions.
+The County also maintains funds that are committed for a specific purpose. These  funds have been committed
+by the County Commissioners to fund specific projects by a  County resolution.
+Q. Interfund Transactions
+Transactions between funds that would be treated as revenues, expenditures, or  expenses if they involved 
+organizations  external to the County are accounted for as  revenues, expenditures, or expenses in the funds 
+involved. Transactions which  constitute reimbursements of a fund for expenditures or expenses initially made 
+from  that fund which are properly applicable to another fund are recorded as expenditures or  expenses in the 
+reimbursing fund and as reductions of the expenditure or expense in  the fund that is reimbursed.
+All other interfund transactions, except interfund services provided and used, are  reported as transfers.
+R. Use of Estimates
+The preparation of financial statements in accordance with generally accepted  accounting principles requires 
+management to make estimates that affect amounts  reported in the financial statements during the reporting 
+period. Actual results could  differ from such estimates.
+NOTE 2  –  LEGAL COMPLIANCE  –  BUDGETS AND PROPERTY TAXES
+On or before the 15th of September of each year, all agencies of the government  submit requests for 
+appropriation to the County Budget Officer so that a budget may  be  prepared. The budget is prepared by fund,
+function and activity, and includes  information on the past year, current year estimates and budget, and 
+requested  appropriations for the next fiscal year.
+Colorado statutes provide the following timetable which is followed in the adoption of  budget:
+1) Submission of the proposed budget to the local governing body by October 15 of each year.
+2) Levy all taxes and certify the levies by December 22.
+3) Final adoption of budget and appropriations by December 31 of each year.
+4) Lien for current year taxes attaches January 1.
+5) Property taxes are due by April 30 of each year if paid in full, or in two equal installments due February
+28 and June 15 of each year.
+6) Taxes are considered delinquent June 16.
+7) Liens are placed on property for which taxes are delinquent in November of  each year.
+Expenditures are appropriated for each individual fund. The appropriated budget is  prepared by fund, function,
+and activity. The County's department heads may make  transfers of appropriations  within a department.
+Transfers of appropriations between  departments require the approval of the County Commissioners. The legal
+level of  budgetary control is the department level.
+-42-  
+ 
+NOTE 3 – DEPOSITS AND INVESTMENTS 
+Cash and Investments 
+At December 31, 2025, the County’s deposits and investments were as follows: 
+Cash and Investments  
+   Cash $             2,250 
+   Cash held by County departments 231,748 
+   Cash held by County Treasurer 86,778,889 
+   Cash held in custodial funds 2,824,654 
+   Total cash and investments $  89,837,541 
+ 
+Investments in local government investment pools are rated AAAm by Standard & Poor’s. Certificates of deposit have 
+maturities ranging from 1/27/26 to 11/18/27. The investments in U.S. Treasury Bills have a maturity of less than three years. 
+Cash held by County Departments includes $74,310 held by the County Sheriff, $72,192 held by the Morgan 
+County Fair Board, $52,702 held by the County Clerk, and $1,703 held for others held by the County 
+Department of Human Services. 
+Investments 
+Interest rate risk. As a means of limiting its exposure to interest rate risk, the County diversifies its investments 
+by security type and institution, and limits holdings in any one type of investment or any one type of institution. 
+The County investment policy restricts the maximum investment term to no more than three years from the 
+purchase date. This limit on investment maturities is a means of limiting exposure to fair values arising from 
+changes in interest rates. 
+ 
+ 
+ 
+ 
+ 
+“This Space Was Left Blank” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-43-  
+ 
+NOTE 3 – DEPOSITS AND INVESTMENTS (continued) 
+Credit risk. State law limits investments for local government to U.S. Treasury issues, other federally backed 
+notes and credits, and other agency offerings.  
+Other investment instruments including bank obligations, general obligation bonds, and commercial paper are 
+limited to at least one of the highest rating categories of at least one nationally recognized rating agency. 
+Investments consist of United States treasury bills, notes, and obligations of United States agencies. 
+Investments are made in accordance with State statutes for the investment of public funds, and are stated at fair 
+value. ColoTrust and C-Safe are vehicles established for local government entities in Colorado to pool surplus 
+funds. In accordance with state law, the County operates in conformity with all of the requirements of the 
+Securities and Exchange Commission’s (SEC) Rule 2a7 as promulgated under the Investment Company Act of 
+1940, as amended. All of these funds operate similarly to a money market fund and each share is equal in value 
+to $1.00. Investments of ColoTrust and C-Safe consist of various U.S. Government obligations. State law further 
+limits investments in money market funds to those institutions with over $1 billion in assets or the highest credit 
+rating from one or more of a nationally recognized rating agency. The State Securities Commissioner 
+administers and enforces all State statutes governing the trusts. These funds do not have any unfunded 
+commitments, redemption restrictions or redemption notice periods.  
+ColoTrust and C-Safe investments are over $1 billion in assets, rated AAAm by Standard & Poor’s, and 
+maintain a constant net asset value of $1 per share. ColoTrust and C-Safe are regulated by the State of 
+Colorado, Department of Regulatory Agencies, Division of Securities, which establishes policies for and reviews 
+the operation of local government investment pools in the state. Financial statements for CSAFE may be 
+obtained at www.csafe.org and financial statements for ColoTrust may be obtained at www.ColoTrust.com. 
+Concentration of credit risk. The County limits investments to 20 percent to be invested with any one institution 
+or in any single type of investment, with the exception of U.S. Treasury obligations, Government securities, and 
+Government Agency backed securities.  
+At December 31, 2025, unrealized gains were $21,153 which reflects the adjustment to fair value of 
+investments.  
+Custodial Credit Risk – Deposits. Custodial credit risk is the risk that, in the event of a bank failure, the County’s 
+deposits might not be recovered. However, the Colorado Public Deposit Protection Act (PDPA) requires that 
+deposits of all units of local governments be held at eligible public depositories, whose eligibility is determined 
+by state regulators.  
+Amounts on deposit in excess of federal insurance levels must be collateralized. The eligible collateral is 
+specified by the PDPA. The PDPA allows the institution to create a single collateral pool for all public funds. The 
+pool is to be maintained by another institution or held in trust for all the uninsured public deposits as a group. 
+The State Regulatory Commission for banks and savings and loan associations is required by statute to monitor 
+the naming of eligible depositories and reporting of the uninsured deposits and assets maintained in the 
+collateral pools. 
+ 
+ 
+ 
+ 
+ 
+-44-  
+ 
+NOTE 3 – DEPOSITS AND INVESTMENTS (continued) 
+Fair Value Measurements. To the extent available, the County’s investments are recorded at fair value as of 
+December 31, 2025. Fair value is the price that would be received to sell an asset or transfer a liability in an 
+orderly transaction between market participants at the measurement date. Fair value measurements must 
+maximize the use of observable inputs and minimize the use of unobservable inputs. Inputs are used in applying 
+the various valuation techniques and take into account the assumptions that market participants use to make 
+valuation decisions. Inputs may include price information, credit data, interest and yield curve data, and other 
+factors specific to the financial instrument. Observable inputs reflect market data obtained from independent 
+sources. In contrast, unobservable inputs reflect the entity’s assumptions about how market participants would 
+value the financial instrument. Valuation techniques should maximize the use of observable inputs to the extent 
+available.  
+Investments that are measured using the net asset value (NAV) per share (or its equivalent) as a proxy are not 
+classified in the fair value hierarchy. CSAFE and CSIP investments are reported at amortized cost which 
+approximates fair value.  
+A financial instrument’s level within the fair value hierarchy is based on the lowest level of any input that is 
+significant to the fair value measurement. The following describes the hierarchy of inputs used to measure fair 
+value and the primary valuation methodologies used for financial instruments measured at fair value on a 
+recurring basis: 
+Level 1 Investments – values are based on quoted prices (unadjusted) for identical assets (or liabilities) in 
+active markets that a government can access at the measurement date. 
+Level 2 Investments with inputs – other than quoted prices included within Level 1 – that are observable for 
+an asset (or liability), either directly or indirectly.  
+Level 3 Investments – classified as Level 3 have unobservable inputs for an asset (or liability) and may 
+require a degree of professional judgment.  
+The County’s investments in Local Government Pools are measured at amortized cost.  
+Securities classified as Level 2 are valued as follows:  
+Government Securities: quoted prices for similar securities in active markets  
+Certificate of Deposit: matrix pricing based on securities’ relationship to benchmark quoted prices  
+The following table summarizes the County’s investments within the fair value hierarchy at December 31, 2025. 
+  Fair Value Measurement Using 
+ 
+Fair Value as of 
+12/31/2025 
+Quoted prices in 
+active markets 
+for identical 
+assets (Level 1) 
+Significant Other 
+Observable 
+Inputs (Level 2) 
+Significant 
+Unobservable 
+Inputs (Level 3) 
+Investments by Fair Value Level     
+   Certificates of Deposit  $     28,000,000 $                      -  $     28,000,000 $                      - 
+   Government Securities 33,000,000 - 33,000,000 - 
+Total Investment by Fair Value Level $     61,000,000 $                      - $     61,000,000 $                      - 
+ 
+ 
+-45-  
+ 
+NOTE 3 – DEPOSITS AND INVESTMENTS (continued) 
+Deposits 
+Federal Deposit Insurance Corporation (FDIC) coverage for government accounts is $250,000 per official 
+custodian. Of the bank balance, $750,000 was covered by federal depository insurance. The remainder of the 
+bank balance was collateralized with securities held by the pledging financial institution and covered by eligible 
+collateral as determined by the PDPA. 
+NOTE 4 – RECEIVABLES 
+Receivables at December 31, 2025, consist of the following: 
+ 
+General 
+Special 
+Revenue 
+Capital 
+Projects Enterprise 
+Internal 
+Service Total 
+Receivables:       
+Taxes $ 14,909,066 $ 5,813,251 $                 - $                   - $                  - $ 20,722,317 
+Accounts & other - 166,699 - 3,108,113 35,973 3,310,785 
+Intergovernmental 559,135 2,919,851 - - - 3,478,986 
+Gross Receivables 15,468,201 8,899,801 - 3,108,113 35,973 27,512,088 
+Less: allowance for 
+Uncollectibles - - - (2,542,837) - (2,542,837) 
+Net total receivables $ 15,468,201 $  8,899,801 $                 - $    565,276 $        35,973 $ 24,969,251 
+ 
+All receivables that historically experience uncollectible accounts are shown net of an allowance for doubtful 
+accounts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-46-  
+ 
+NOTE 5 – CAPITAL ASSETS 
+Capital asset activity for the year ended December 31, 2025, was as follows: 
+ Balances 
+1/1/25 
+2025 
+Additions 
+2025 
+Deletions 
+Balances 
+12/31/25 
+Governmental Activities:     
+Capital assets not being depreciated     
+Land and Water Rights $      2,118,484 $                    - $                    - $      2,118,484 
+Construction in progress 1,781,469 - - 1,781,469 
+Total capital assets not being depreciated 3,899,953 - - 3,899,953 
+Capital assets being depreciated:     
+Buildings and improvements 24,426,045 1,726,676 (157,456) 25,995,265 
+Equipment 25,829,704 5,590 (931,439) 24,903,855 
+Infrastructure 455,350,922 1,711,057 - 457,061,979 
+Total capital assets being depreciated 505,606,671 3,443,323 (1,088,895) 507,961,099 
+Less accumulated depreciation:     
+Buildings and improvements (15,515,028) (652,281) 157,456 (16,009,853) 
+Equipment (16,658,851) (1,601,449) 759,754 (17,500,546) 
+Infrastructure (399,391,174) (6,764,765) - (406,155,939) 
+Total accumulated depreciation (431,565,053) (9,018,495) 917,210 (439,666,338) 
+Total capital assets being depreciated, net 74,041,618 (5,575,172) (171,685) 68,294,761 
+Governmental activities capital assets, net $    77,941,571 $  (5,575,172) $       (171,685) $    72,194,714 
+Business-type Activities:     
+Capital assets not being depreciated:     
+Land and Water Rights $         125,787 $                    - $                    - $         125,787 
+Construction in Progress - - - - 
+Total Capital assets not being depreciated 158,787 - - 125,787 
+Capital assets being depreciated:     
+Buildings and improvements 1,720,466 - - 1,720,466 
+Equipment 1,737,372 554,580 - 2,291,952 
+Infrastructure 1,606,228 - - 1,606,228 
+Total capital assets being depreciated 5,064,066 554,580 - 5,618,646 
+Less accumulated depreciation:     
+Buildings and improvements (885,461) (12,430) - (897,891) 
+Equipment (1,170,095) (185,077) - (1,355,172) 
+Infrastructure (199,595) (125,606) - (325,201) 
+Total accumulated depreciation (2,255,151) (323,113) - (2,578,264) 
+Total capital assets being depreciated, net 2,808,915 231,467 - 3,040,382 
+Business-type activities capital assets, net $      2,967,702 $       231,467 $                    - $     3,199,1,69 
+ 
+-47-  
+ 
+NOTE 5 – CAPITAL ASSETS (continued) 
+Depreciation expense was charged to programs of the primary government as follows: 
+Governmental activities:  
+General government $                    878,259 
+Public safety 115,438 
+Auxiliary services 82,372 
+Roads and bridges 6,695,877 
+Public welfare 3,041 
+Capital assets held by Morgan County’s internal services funds are charged to                  
+the various functions based on their usage of the assets 1,243,508 
+Total depreciation expense – government activities $              9,018,495 
+Business-type activities:  
+Ambulance service $                   81,270 
+Solid waste management fund 291,119 
+Total depreciation expense – business-type activities $                 372,389                  
+ 
+NOTE 6 – RISK MANAGEMENT 
+County Workers’ Compensation Pool 
+The County is exposed to various risks of loss related to injuries of employees while on the job. In 1985, the 
+County joined together with other Counties in the State of Colorado to form the County Workers' Compensation 
+Pool (CWCP), a public entity risk pool currently operating as a common risk management and insurance 
+program for member counties. The County pays an annual contribution to CWCP for its workers' compensation 
+insurance coverage. The intergovernmental agreement of formation of CWCP provides that the Pool will be 
+financially self-sustaining through member contributions and additional assessments, if necessary, and the Pool 
+will purchase excess insurance through commercial companies for members' claims in excess of a specified 
+self-insured retention, which is determined each policy year. 
+Colorado Counties Casualty and Property Pool 
+The County is exposed to various risks of loss related to property and casualty losses. During 1986, the County 
+was unable to obtain property and liability insurance at a cost it considered to be economically justifiable. 
+Therefore, the County joined together with other Counties in the State of Colorado to form the Colorado 
+Counties Casualty and Property Pool (CAPP), a public entity risk pool currently operating as a common risk 
+management and insurance program for member counties. The County pays an annual contribution to CAPP for 
+its property and casualty insurance coverage. 
+The intergovernmental agreement of formation of CAPP provides that the pool will be financially self-sustaining 
+through member contributions and additional assessments, if necessary, and the Pool will purchase excess 
+insurance through commercial companies for members' claims in excess of a specified self-insured retention, 
+which is determined each policy year. 
+ 
+ 
+-48-  
+ 
+NOTE 6 – RISK MANAGEMENT (continued) 
+County’s Health and Life Insurance Pool 
+The County provides employee health and life insurance coverage for all full-time employees. Coverage in 2024 
+was provided through the County Health Pool (CHP).  
+The CHP provides medical and life insurance coverage for employees and their dependents. Claims are 
+administered by National Benefit Administrators, Inc. Health care claims are managed by Anthem Blue Cross.  
+The amounts of settlements have not exceeded insurance coverage in any of the past three years for the above 
+referenced pools. 
+NOTE 7 – LONG-TERM OBLIGATIONS 
+During the year ended December 31, 2025, the following changes occurred in the County’s long-term 
+obligations: 
+ Balance 
+1/1/25 Additions Deletions 
+Balance 
+12/31/25 One Year 
+Governmental Activities:      
+Compensated absences $      1,044,601 $       855,372 $     (759,989) $     1,139,983 $      732,819 
+Total Governmental 1,044,601 855,372 (759,989) 1,139,983 732,819 
+Business-Type Activities:      
+Landfill closure and post 
+closure care costs 1,382,774 622,790 - 2,005,564 - 
+Compensated absences 164,407 126,329 (142,679) 148,058 407,164 
+Total Business-Type 1,547,181 749,119 (142,679) 2,153,622 407,164 
+Total Long-term obligations $      2,591,782 $1,604,491                  $     (902,668) $     3,293,605 $      1,139,983 
+ 
+At year-end, $151,330 of internal service funds compensated absences are included in the above amounts. For 
+governmental activities, the majority of compensated absences are liquidated by the General Fund. The landfill 
+closure and post-closure costs are liquidated by the Solid Waste Fund, which is a business-type activity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-49-  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+  
+ 
+   
+ 
+NOTE 8  –  INTERFUND ASSETS/LIABILITIES
+The County reports interfund balances between many of its funds. These balances  result from a time lag 
+between the dates interfund  goods and services are provided or  reimbursable expenditures occur and payments
+between funds occur. Interfund  balances are generally expected to be repaid within one year of the financial 
+statement  date. The sum of all  interfund assets agrees with the sum  of all interfund  presented in the balance 
+sheets for governmental and proprietary funds as of December 31, 2025.
+NOTE 9  –  INTERFUND TRANSFERS
+In 2025 the County General Fund transferred $5,120,000 to the County Jail Capital Improvement Fund. The 
+transfer  was budgeted and done to increase funds being accumulated in the Jail Capital Improvement Fund.
+This fund was created to account for money for future expansion of the County’s Judicial Center building. The 
+County General Fund transferred $200,000 to the Ambulance Service Fund in 2025. This transfer was budgeted
+and done to cover increased costs in the Ambulance Service Fund. The Social Services Fund transferred
+$250,000 to the County General Fund.
+NOTE 10  –  TABOR COMPLIANCE
+Emergency Reserve  –  Tax Spending  and Debt Limitations
+On November 3, 1992, the voters of Colorado approved Amendment 1, commonly  known as the TABOR 
+Amendment, which adds a new Section 20 to Article X of the  Colorado Constitution. TABOR contains tax,
+spending, revenue and debt limitations  which apply to the State of Colorado, all local governments, and special 
+districts.
+The County's financial activity for the year ended December 31, 2016, will provide the  basis for calculation of 
+future limitations adjusted for allowable increases tied to  inflation and local growth. Subsequent to December
+31, 2016, revenue in excess of the  County's "spending limit" must be refunded unless voters approve the 
+retainage of such  excess revenue. TABOR generally requires voter approval for any new tax, tax  increases and 
+new debt.
+In November, 1996, the County's electorate approved a resolution to permit the County  to collect and receive,
+retain, and expend all revenue and other funds from any source,  notwithstanding the limitations of Article X,
+Section 20 of the  Colorado Constitution,  beginning with fiscal year 1995 and all succeeding years, provided 
+however, that there  is no increasing of tax rates or new taxes imposed.
+TABOR is extremely complex and subject to interpretation. Ultimate implementation  may depend  upon litigation 
+and legislative guidance.
+The County has made the following fund balance restriction as a result of Article X,  Section 20 (TABOR) of the 
+Colorado Constitution:
+The Article requires an emergency restriction be set aside in the amount of  3%  or more of its fiscal year 
+spending. At December 31, 2025, the County has restricted $1,000,000 in the General Fund for this purpose,
+which is in excess of the required 3%.
+The County believes it has fully complied with the  provisions of the TABOR  amendment.
+-50-  
+ 
+NOTE 11 – CLOSURE AND POSTCLOSURE CARE COSTS 
+The Environmental Protection Agency and the Colorado Department of Health have approved various rules and 
+regulations regarding the operation of solid waste landfills. These rules and regulations were effective in 1994 
+but the implementation was delayed until 1997. GASB adopted Statement #18, Accounting for Municipal Solid 
+Waste Landfill Closure and Postclosure Care Costs, provides guidance for the accounting and financial 
+reporting of these closure and postclosure costs. The GASB statement requires landfill operators to recognize 
+these costs starting in 1994 even though the federal and state rules were not effective until 1997.  
+State and federal laws and regulations require the County to place a final cover on its landfill site when it stops 
+accepting waste and to perform certain maintenance and monitoring functions at the site for thirty years after 
+closure. Although closure and postclosure care costs will be paid only near or after the date that the landfill 
+stops accepting waste, the County reports a portion of these closure and postclosure care costs as an operating 
+expense in each period based on landfill capacity used as of each balance sheet date. Closure and postclosure 
+care cost are calculated annually to allow for inflation. 
+In 2009, the County engaged Paragon Consulting Group to prepare a new Design and Operations Plan (D&O) 
+for the Morgan County Solid Waste Landfill facility. With the implementation of the new baler system 
+constructed in 2009, there have been considerable changes in operations from the last D&O updated in 2003. 
+According to the new D&O submitted to the Colorado Department of Public Health Hazardous Materials and 
+Waste Management Division, the life of the County Landfill will be extended to 2082. The previous landfill life 
+estimate was 2051. In 2019 the County engaged AEC (American Environmental Consultants) to revise the total 
+landfill capacity. A new cell was constructed and the new capacity was calculated at 9,303,112 cubic yards. 
+In compliance with Section 1.8 of the Colorado Regulations Pertaining to Solid Waste Sites and Facilities 
+(Regulations), a revised calculation of costs for closure and postclosure was completed in 2025 by American 
+Environmental Consulting, LLC. 
+At December 31, 2025, the closure cost for the Morgan County landfill was $2,768,915 and estimated 
+postclosure care cost was $622,790. The $1,481,326 reported as landfill closure and postclosure care liability at 
+December 31, 2025, represents the cumulative amount reported to date based on a 29.29 percent capacity 
+usage of the estimated total cost of closure and postclosure care of $4,385,277. This is an decrease of 
+$464,937 from the closure and postclosure liability reported in 2024.  
+The County will recognize the remaining estimated cost of closure and postclosure care of $3,391,705 as the 
+remaining estimated capacity is filled. These amounts are based on what it would cost to perform all closure and 
+postclosure care in 2025. The remaining life of the landfill is 57 years. The County expects to close the landfill in 
+the year 2082. Actual cost may be higher due to inflation, changes in technology, or changes in regulations. The 
+County will be required by state and federal laws and regulations to provide certain financial assurances, which 
+might include making annual contributions to a trust, to finance these closure and postclosure care costs. The 
+County does not expect to pay any postclosure costs within the next year. 
+ 
+ 
+ 
+ 
+ 
+ 
+-51-  
+ 
+NOTE 12 – BUDGETARY DATA 
+The actual results of operations are presented in accordance with generally accepted accounting principles 
+which differ in certain respects from those practices used in the preparations of the 2024 budget. For purposes 
+of preparing the Statements of Revenues, Expenditures and Changes in Fund Balance - Budget and Actual, the 
+actual results of operations have been adjusted to a basis consistent with the County's budgeted revenues and 
+expenditures.  
+Adjustments necessary to convert the expenditures at the end of the year on the GAAP basis to the budgetary 
+basis are as follows: 
+ Proprietary Fund Types 
+ Central 
+Service 
+Fund 
+Ambulance 
+Service 
+Fund 
+Solid Waste 
+Management 
+Fund 
+Net Income (Loss)    
+GAAP Basis $ (1,207,248) $    64,932 $    333,832 
+Increase (Decrease) Due To:    
+Depreciation 1,243,508 81,270 165,513 
+Capital Outlay (1,169,478) (16,338) (541,464) 
+Net Income (Loss)    
+Budgetary Basis $    (1,133,218) $    (64,932) $    (42,119) 
+ 
+ 
+ 
+ 
+ 
+ 
+52
+  
+ 
+NOTE 13 – JOINTLY GOVERNED ORGANIZATIONS 
+The County, along with other counties and cities in Northeastern Colorado, participate in various 
+intergovernmental service organizations. The County provides various levels of funding and normally has some 
+degree of representation on the various Boards.  
+Northeastern Colorado Association of Local Governments  
+Northeastern Colorado Association of Local Governments was organized pursuant to Article XIV, Section 18 (2) 
+of the Colorado Constitution and 29-1-401, 29-1-402, and 29-1-403, CRS.1973. Membership is open to the 
+counties and incorporated municipalities comprising Colorado Planning and Management Region One. The 
+purpose of the organization is to promote regional cooperation and coordination among local governments. The 
+organization is governed by a Board of Directors. Morgan County’s representation consists of one regular 
+representative and one alternate representative to the Board. In 2025, the County paid $118,976 to 
+Northeastern Colorado Association of Local Governments.  
+Northeast Colorado Health Department  
+The Northeast Colorado Health Department’s jurisdiction, at the discretion of the Board’s of County 
+Commissioners, extends over all unincorporated areas and all municipal corporations in Logan, Morgan, 
+Phillips, Sedgwick, Washington, and Yuma Counties. The Department administers and enforces laws pertaining 
+to public health, vital statistics, and water quality control. It is a public organization consisting of a Board of 
+Health, a public health officer, and any other personnel as required to fulfill the functions of the Department. The 
+Board of Health is comprised of eight members. Morgan County has two representatives on the Board, requiring 
+that one appointee lives within the City of Fort Morgan. In 2025, the County paid $277,362 to Northeast 
+Colorado Health Department 
+NOTE 14 – RETIREMENT PLAN 
+Morgan County is a member of the Colorado Retirement Association, a multi-employer defined contribution 
+plan. In a defined contribution plan, benefits depend solely on amounts contributed to the plan plus investment 
+earnings. Employees are entered into the plan upon hire date with the County. The County and the employee 
+each contribute an amount equal to 4.00% of the employee's gross wages. Employees may make additional 
+voluntary contributions. Contribution rates may be amended by vote of the County Commissioners.  
+Net earnings or losses are allocated quarterly to Plan participants. The allocation is based on each participant's 
+balance at the beginning of that quarter. Participants receiving benefit payments upon retirement or termination 
+are allocated earnings through the date of termination.  
+Participants vest in employer contributions and in the earnings, losses and changes in fair value of the plan 
+assets on a 6-year vesting schedule Participants are immediately vested 100% in their own contributions and 
+earnings. County contributions and those earnings which have not vested to an employee terminating activity in 
+the plan are returned to the County to use in meeting current and future funding requirements. Total retirement 
+forfeiture was $23,408.  
+Both the County and the covered employees made the required 4.00% contributions, amounting to $947,761 
+from the County and $938,990 from the employees (including voluntary contributions) for a total contribution of 
+$1,886,751.  
+ 
+ 
+-53-  
