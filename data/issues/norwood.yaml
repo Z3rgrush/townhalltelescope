@@ -1,82 +1,123 @@
-- title: Removal-for-cause hearing under Resolution 2026-0812
-  summary: In August the council took up Resolution 2026-0812 to set a public hearing on removing a town official for cause, with notice of the grounds and hearing procedures. The resolution was back for amendment in September, and an October 15 notice cancels the public hearing. The documents do not name the person or say why it was cancelled.
-  where: Townwide
-  refs:
-  - 2
-  - 3
-  - 5
-  topics:
-  - Government operations
-  - Ethics & transparency
 - title: Town-wide 15 mph speed limit
-  summary: The council considered an ordinance amending the municipal code to set a 15 mile-per-hour speed limit on all town streets unless otherwise posted. The August 12 agenda lists it for approval.
+  summary: The board discussed lowering the speed limit in April and June, then took up an ordinance in July to set a 15 mph limit on all town streets unless otherwise posted. An ordinance appeared again on the Aug. 12 agenda.
   where: Townwide
   refs:
-  - 2
+  - 6
+  - 10
+  - 11
+  - 15
   topics:
   - Roads & traffic
-- title: Short-term rental discussions
-  summary: Short-term rentals were a discussion item at the September 9 and October 14 council meetings. The documents give no details of any proposed rules.
+  - Policing & public safety
+- title: Moratorium on medium and large-scale development and land use code rewrite
+  summary: In January the board discussed extending the emergency moratorium on medium and large-scale development (Ordinance 0813, 2025). It has since worked with KLJ on a land use code contract, a master plan contract, and a land use code amendment ordinance in October.
   where: Townwide
   refs:
-  - 3
-  - 4
-  topics:
-  - Short-term rentals
-- title: Water drainage study and system design with SGM
-  summary: On October 14 the council took up a water drainage study and system design by SGM. The same meeting included Norwood Water Commission appointments, and in August the council discussed Raw Water Board rules and San Miguel Water Conservancy District commission terms.
-  where: Townwide
-  refs:
+  - 1
   - 2
-  - 4
-  topics:
-  - Water
-  - Utilities
-- title: Master plan contract with KLJ Engineering and land use code amendments
-  summary: The October 14 agenda includes a master plan contract with KLJ Engineering. It also lists an ordinance amending the Town of Norwood Land Use Code.
-  where: Townwide
-  refs:
-  - 4
+  - 17
   topics:
   - Zoning & development
   - Government operations
-- title: 2027 draft budget
-  summary: The council reviewed the 2027 draft budget on October 14. Budget-to-actuals reports were also on the August, September and October agendas.
+- title: Norwood Public School property purchase and rezone
+  summary: The board got an update in January on the town's purchase of Norwood Public School property. A May public hearing considered rezoning 2028 Maverick Way from Agriculture to a public zoning district.
+  where: 2028 Maverick Way
+  refs:
+  - 1
+  - 9
+  topics:
+  - Land & property
+  - Zoning & development
+- title: Pocket park construction, signage and dedication
+  summary: The town took a bid from RMC Builders for the pocket park and handled updates, an address (1575 Grand Ave) and signage. A dedication was set for the Sept. 9 agenda.
+  where: 1575 Grand Ave
+  refs:
+  - 6
+  - 9
+  - 10
+  - 12
+  - 15
+  - 16
+  topics:
+  - Parks & open space
+- title: Employee compensation and retention incentives
+  summary: The board reviewed legal advice on employee compensation in May. It then took up a resolution and ordinances in June and July authorizing additional compensation and retention incentives.
   where: Townwide
   refs:
-  - 2
-  - 3
-  - 4
+  - 9
+  - 10
+  - 11
   topics:
+  - Government operations
   - Budget & taxes
-- title: School traffic and sidewalk project
-  summary: On October 14 the council discussed traffic around Norwood Public Schools and a sidewalk project. The documents give no details of what was decided.
+- title: Short-term rental rules
+  summary: The board discussed short-term rentals in July, September and October.
+  where: Townwide
+  refs:
+  - 11
+  - 16
+  - 17
+  topics:
+  - Short-term rentals
+  - Housing
+- title: Removal for cause hearing
+  summary: On Aug. 12 the board set a public hearing to consider removing an official for cause, amended the resolution in September, and then cancelled the hearing on Oct. 15.
+  refs:
+  - 15
+  - 16
+  - 18
+  topics:
+  - Government operations
+  - Ethics & transparency
+- title: CDOT Safer Sidewalks to School and school traffic
+  summary: The board approved job bids for the CDOT Safer Sidewalks to School project and an MOU with CDOT in June. It later discussed school traffic, sidewalks and upcoming CDOT projects.
   where: Near Norwood Public Schools
   refs:
-  - 4
+  - 10
+  - 16
+  - 17
   topics:
   - Roads & traffic
   - Schools & youth
-- title: Town lease agreements at 1110 Lucerne St and 1475 S Pine St
-  summary: In August the council was asked to approve updated leases for 1110 Lucerne St and 1475 S Pine St. The Pine St agreement includes an option to purchase and a right of first refusal.
-  where: 1110 Lucerne St and 1475 S Pine St
-  refs:
-  - 2
-  topics:
-  - Land & property
-- title: Pocket park signage and dedication
-  summary: The council discussed signage for the pocket park in August and scheduled a dedication of the park for September 9.
-  where: Pocket park, Norwood
+- title: Water commission, raw water and drainage
+  summary: The board handled the water commission's grant authority, a State Land Board property for the water treatment plant, raw water board rules, commission appointments and a drainage study and system design by SGM.
+  where: Townwide
   refs:
   - 2
   - 3
+  - 7
+  - 10
+  - 15
+  - 17
   topics:
-  - Parks & open space
-- title: 2026 fireworks discussion
-  summary: The council discussed 2026 fireworks at its October 14 meeting. The agenda gives no details of any decision.
+  - Water
+  - Utilities
+- title: 2027 draft budget and mill levy
+  summary: The board set the mill levy in January and reviewed the 2027 draft budget in October.
   where: Townwide
   refs:
-  - 4
+  - 1
+  - 17
   topics:
-  - Tourism & events
+  - Budget & taxes
+- title: Wildlife, wildfire and fireworks ordinances
+  summary: The board discussed wildlife and wildfire ordinances in January and February. Fireworks were on agendas in January, June and October.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  - 10
+  - 17
+  topics:
+  - Agriculture & wildlife
   - Fire & emergencies
+- title: EV charging stations and dark sky lighting
+  summary: The board discussed EV charging rates and install budget, streetlight dark sky compliance and updated Dark Sky Coalition rules.
+  where: Townwide
+  refs:
+  - 2
+  - 4
+  - 11
+  topics:
+  - Energy
+  - Utilities

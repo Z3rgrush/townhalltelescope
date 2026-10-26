@@ -1,0 +1,90 @@
+# haxtun
+
+## [haxtun#0] 2025-11-03 | City Council | minutes
+- Staff members present were Darrell Smith, Chief of Police, Ron Carpenter, Town
+- Approval of Agenda:
+- Oct Payroll Taxes $ 10,733.58
+- Precision Industries Main street striping $ 5,076.40
+- Capital One Road Rebuild $ 27,379.15
+- CDR October Sales Tax $ 2,737.10
+- CIRSA SE Permit CF $ 876.16
+- Colorado Analytical water testing $ 1,477.00
+- Kelly PC Attorney fees $ 760.50
+- Phillips County Treasurer October Sales Tax $ 566.39
+- UNCC Notifications $ 7.75
+- Public Comment:
+- A public hearing was held for the Haxtun Volunteer Fire Department Special Event Liquor Permit
+- Mountain Oyster Fry. Clerk Harms presented the map that was turned in with the application. The
+- hearing started at 7:03 pm and was closed at 7:04 pm after no public comment
+- Ordinance 2025-2 amending Section 54.20 of the Haxtun Municipal Code regarding the Electrical
+- Rates was presented to the Council. The Council has been discussing the necessity of raising
+- the energy rates due to the increases from MEAN and WAPA. The ordinance will raise the energy
+- Horton to approve Ordinance 2025-2, all present voted in favor, motion passed
+- ORDINANCE NO. 2025-2
+- AN ORDINANCE TO AMEND SECTION 54.20 OF THE HAXTUN MUNICIPAL CODE
+- REGARDING THE ELECTRICAL RATES
+- electrical rates for residential and commercial electric customers using electrical services
+- WHEREAS, the Board of Trustees find it necessary to amend Section 54.20 of the Haxtun
+- RESIDENTIAL AND COMMERCIAL RATES
+- Winter Rate:
+- Summer Rate:
+- Winter Electric Heat Rate (with 10kW of electric heat)
+- Section 2. The above rates supersede all previous rates established by the Town
+- Introduced, Read, Adopted, Approved and Ordered Published In Full this 3rd day of
+- During previous work sessions and budget discussions, the Council reviewed the proposed
+- 2026 employee health insurance renewal. Public Sector Health notified the Town of an 18% rate
+- hikes. After reviewing the budget figures, the Council acknowledged that similar increases were
+- occurs next year, alternative options may need to be considered. A motion was made by J
+- 2026 was $372 for the Excess Crime, Volunteer Medical Plan, Accidental Death & Disability,
+- Equipment Breakdown, and Community Service Workers’ Accident Medical Plan. A motion was
+- MEAN is restructuring its service contract procedures. With this restructuring, a new service
+- contract must be signed by each municipality. All current contracts expire as of January 1, 2026
+- MEAN is asking for municipalities to terminate the current services agreement and then re-enroll
+- Lundgren to approve the new service agreement. All present voted in favor, motion passed
+
+## [haxtun#1] 2025-12-01 | City Council | minutes
+- Staff members present were Darrell Smith, Chief of Police, Ron Carpenter, Town
+- Superintendent, Kelsey Harms, Town Clerk/Treasurer, and Shea Lightsey newly appointed
+- Approval of Agenda:
+- Nov Payroll Taxes $ 10,656.24
+- CDPHE WQCD Permits $ 976.00
+- CO Dept of Rev Nov Sales Tax $ 1,129.63
+- Colorado Analytical Water Test $ 76.00
+- Phillips County Treasurer Nov Sales Tax $ 660.46
+- Public Comment:
+- A public hearing was held for the 2026 Proposed Budget. Clerk Harms presented a copy of the
+- budget to all present members. R. Carpenter brought up items on the budget to discuss, such as
+- a crack-filled machine for the streets. The final property assessment was used to finalize the mill
+- levy, with a slight increase from the estimated. K. Harms talked about the supplemental fund for
+- it was decided that that will happen once the generator project price is complete. The hearing
+- started at 7:02 pm and was closed at 7:10 pm after no public comment
+- Adopt 2025 Budget. All present voted in favor, motion passed
+- Resolution 2025-9
+- RESOLUTION TO ADOPT BUDGET
+- A RESOLUTION SUMMARIZING EXPENDITURES AND REVENUES FOR EACH FUND AND
+- ADOPTING A BUDGET FOR THE TOWN OF HAXTUN, COLORADO, FOR THE CALENDAR YEAR
+- Superintendent, and Kelsey Harms, Town Clerk/Treasurer, to prepare and submit a proposed budget to
+- submitted a proposed budget to this governing body by October 15, 2025, for its consideration, and;
+- proposed budget was open for inspection by the public at Town Hall, a public hearing was held December
+- 1, 2025 and interested taxpayers were given the opportunity to file or register any objections to said
+- proposed budget, and;
+- WHEREAS, the budget is in balance, as required by law
+- Water Fund 257,335
+- Sewer Fund 143,520
+- From sources other than general property tax 1,237,475
+- From the general property tax levy 189,144
+- From sources other than general property tax 3,500
+- From sources other than general property tax 10,100
+- From sources other than general property tax 36,947
+- From general property tax levy 16,447
+- From sources other than general property tax 1,132,500
+- From sources other than general property tax 271,100
+- Total Water Fund $257,335
+- From sources other than general property tax 203,650
+- From sources other than general property tax 187,307
+- Total Sewer Fund $143,520
+- Section 3. That the budget as submitted and hereinabove summarized by fund, hereby is approved
+- and adopted as the budget of the Town of Haxtun for this year 2026
+- Resolution 2025-10
+- RESOLUTION TO APPROPRIATE SUMS OF MONEY
+- A RESOLUTION APPROPRIATING SUMS OF MONEY TO THE V ARIOUS FUNDS AND SPENDING

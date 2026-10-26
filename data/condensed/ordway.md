@@ -1,6 +1,131 @@
 # ordway
 
-## [ordway#0] 2026-08-10 | City Council | minutes
+## [ordway#0] 2026-02-09 | City Council | minutes
+- C. Larry White requests to use Town Property for the entrance to Motorcross Park. (Ml
+- 11. Request for 1 0 hour elays
+- I. Requests fo1 2 gas weeel eaters
+
+## [ordway#1] 2026-03-09 | City Council | minutes
+- 7. Public Comment: (those individuals interested in speaking, please sign in at the
+- Ruth Froman gave a public comment
+- C. Resolution #2026-04 for the Town of Ordway Authorizing the Sale of Town-Owned
+- D. Resolution #2026-05 for the Town of Ordway Authorizing the sale of Town-Owned
+- Property Legally Described as 428 East 3rd Street, Block 59 BEGINNING 310' E of SW
+- G. 1st reading of Ordinance# 2026-668 Ordinance to Establish A Certified Local
+- Government-APPROVED (MJ PEPPER (SJ WATKINS
+- H. 1st Reading of Ordinance #2026-669 Ordinance to Establish Historic Preservation
+- Advisory Authority APPROVED (MJ SISNEROS (SJ PEPPER
+- Mayor, Jacksons, and Clerk will be attending to draft a Master Plan for the Old
+- K. March 19th kick-off with Page Alexander with the State for Street Improvements
+- L. Cemetery On-Site Grant Meeting- Update given that we will be moving forward
+- M. 1st Reading of Ordinance# 2026-670 Ordinance Adopting A Cemetery Board
+- N. Consideration of CCFFA 50th Annual Hire a Hand and Banquet Donation- DENIED
+- 0. Consideration of the purchase of tires for the John Deere 444 Loader from 2 bids
+- Q. Fire Department Workers' Compensation Meeting Report- Update given by
+- Desire about current visit from Site Writers for June project
+- S. SE Colorado Water Conservancy 2026 Water Allocation 64. 75 AF-APPROVED 6
+- U. Waste Connection Trash Renewal-APPROVE 6-0 (MJ PEPPER (SJ GOEPPINGER
+- Star Buds Public Hearing and Board of Trustees Agenda
+
+## [ordway#2] 2026-04-20 | City Council | minutes
+- 6. Approve March 9th Minutes: 7-0 Approved (MJ Goeppinger (SJ Sisneros
+- 7. Additions/Changes to the Agenda: Add E to Old Business for Water Report, Add N to
+- New Business for Library Discussion, and Remove G and H
+- 8. Approve Changes to the Agenda: 7-0Approved (MJ Pepper(SJ Watkins
+- 9. Public Comment: (those individuals interested in speaking, please sign in at the
+- A. Comprehensive Plan Update - Update given that the big project is in the
+- B. 2027 Workgroup Extension with a ($14,000.00} Carry Over- 7-0 Approved (MJ
+- C. 2019 Property Tax Report- Update given that the Town received a payment
+- B. Arbor Day Proclamation- 7-0 Approval (MJ Buford (SJ Sisneros
+- C. 2"d Reading of Ordinance #671- Historic Preservation Advisory Authority- 7-0
+- Approved (MJ Sisneros (SJ Goeppinger
+- D. 2"d Reading of Ordinance #672-Adopting a Cemetery Board Relating To The
+- Ordway Cemetery 7-0 Approved (MJ Pepper (SJ Watkins
+- E. Approval of Resolution #2026-05-Authorization of First National Bank to Assign
+- F. Approval of Resolution #2026-06 Water Restrictions DENIED (MJ Sisneros (SJ
+- 6. Discuss the Term Limit 81 dinance for changes
+- 11. Town Residents Water Restructuring
+- I. Approval of Advertising for Cemetery, Planning and Zoning, and Preservation
+- K. Approval of 3-Month Membership to Colorado Grants Guide to search for funders
+- and grants. 7-0 Approved (MJ Buford (SJ Ferraro
+- L. Seasonal Employee Discussion with Interview Board- 7-0 Approved Jesus
+- M. Heli-Pad Discussion- Discussed the interest from Mountain Top Helicopters
+- for the purpose of discussing personnel, property, legal advice, matters to be kept confidential
+- A. CCIC Negotiations- Discussed with no action
+
+## [ordway#3] 2026-05-11 | City Council | minutes
+- Approve April 20th Minutes: Approved (M) Pepper (S) Sisneros
+- Approve Changes to the Agenda: APPROVED (M) Pepper (S) Sisneros
+- Public Comment: (those individuals interested in speaking, please sign in at the beginning of the meeting. Comments are restricted to five minutes per person
+- WorkCamp Update (Volunteer Request)
+- Certified Local Government Update- Update given on CLG Process to become a CLG Government
+- Water Reports- Report given by Mayor Barber
+- New Channel Update- Update given that media will be in town for upcoming projects
+- Request to Change Tree Dump Days to Monday and Friday Only- Denied for inconvenience 7-0
+- Executive Session-Pursuant to C.R.S. 24-6-402 (4), executive session may be entered into for the purpose of discussing personnel, property, legal advice, matters to be kept confidential by law, security, and negotiations
+- 428 E 3rd Discussion
+
+## [ordway#4] 2026-06-09 | City Council | minutes
+- 4. Additions/Changes to the Agenda: Add H Weed Spraying in the Park
+- 7. Public Comment: (those individuals interested in speaking , please sign in at the
+- A. Water Report- Report given and provided in the minutes' packet
+- B. Resolution 2026-07 Water Moratorium on Additional Water Services- Approved
+- Desire Sprosty that we are ready for the big project
+- B. Discussion of Invoice From County to Fire Dept- Report given by Karen Gates
+- that the Fire Dept will pay for past due invoices with a subsidy
+- C. Air Med Care Membership discussion - Discussion given that employees could
+- D. Restart foreclosure on 428 E. 3rd-Nahimas- Discussion with Trustees that Town
+- E. Approval of Employee Evaluation Form- Employee Evaluation Form provided for
+- F. Resolution 2026~09 Establishing a Colorado Open Records Procedure
+- G. Discussion about extension of 1s t Street (Fed Boundaries Report)- Discussion
+- H. Discussion of potential weed spraying in parks if it was under $1000.00 (One­
+- entered into for the purposed of discussing personnel, property, legal advice, matters
+- A. Update on JRS/UPOP Sewer Tap
+- C. Legal Question on Annexing and Licensing
+- D. Old Pharmacy Contract
+- X X Total Canal Meredith Henry Water Flow Change Precip
+- FAW WELLS OUTPUT VS WATERLINE USUAGE
+- Acre Feet 62.08282209
+- 2/28/2026 422,000 Went to smaller pumps with consistant water
+- Building Permits
+- CORA Request
+- Demolition Permit
+- Cigarette Tax
+- Sales Tax-Vendor Pay
+- Highway Users Tax
+- Property Taxes-2019
+- Franchise Fees
+- Local Retail Tax-Wild Weed LLC
+- Total Tax Account Revenue
+- Water Lease-DOW
+- Water Lease-Ordway Cattle Feeders
+- Water Services
+- Vacant Water Taps
+- Bulk Water Sales
+- Disconnect Fees
+- Reconnect Fees
+- Total Water Fund
+- Sewer Services
+- Vacant Sewer Taps
+- Total Sewer Fund
+- Dumpster Fees
+- ADP-Payroll 5/1/26-Water
+- ADP-Payroll 5/15/26-Water
+- ADP-Payroll 5/29/26-Water
+- Repairs-Fire Dept
+- ADP-Payroll Fees ; May Payroll Fees $161.85
+- ADP-Payroll taxes : May Payroll Taxes $10,385.48
+- ADP • Timeclock Fees $733.62
+- Amazon Operating Supplies-Water $191.14
+- Crowley County ,water $9,869.42
+- Feeling Saucy , Meal Expenses $62.88
+- Fortline Waterworks Operating Supplies $306.50 I
+- Harris Law Firm LLC :Legal Fees $560.00
+- Here's Your Sign Name Plates $9.00
+- Jackson's Awards and Design Ltd ; Utility Bills $73.50
+- ! $429.02 Pueblo Health Department 1water Testing $50.00
+
+## [ordway#5] 2026-08-10 | City Council | minutes
 - 7. Public Comment: (Those individuals interested in speaking, please sign in at the
 - A. Approval of Addies Annexation into the Town of Ordway- (M) Sisneros (S)
 - F. Resolution 2026-09 A RESOLUTION CONCERNING THE PETITION FOR
@@ -34,12 +159,12 @@
 - SETTLEMENT AGREEMENT, RELEASE AND ASSIGNMENT
 - This Settlement Agreement, Release and Assignment ("Agreement"), done the day
 
-## [ordway#1] 2026-09-14 | City Council | minutes
+## [ordway#6] 2026-09-14 | City Council | minutes
 - 7. Public Comment: {those individuals interested in speaking, please sign in at the
 - A. Approval of revised Community Library IGA: {MJ Sisneros (SJ Goeppinger
 - B. Torgler 114 Colorado: {M) Ferraro {S) Buford APPROVED TO MOVE FORWARD
 
-## [ordway#2] 2026-10-05 | City Council | minutes
+## [ordway#7] 2026-10-05 | City Council | minutes
 - 8. Approve Changes to the Agenda: (M) PEPPER (S) WATKINS
 - 9. Public Comment: (those individuals interested in speaking, please sign in at the
 - A. 2nd Reading of Ordinance #673 An Ordinance Concerning an Annexation of

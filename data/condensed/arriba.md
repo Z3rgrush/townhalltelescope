@@ -1,6 +1,291 @@
 # arriba
 
-## [arriba#0] 2026-08-11 | City Council | minutes
+## [arriba#0] 2025-11-11 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Trustee Carolyn Steinsiek moved to approve the Agenda as written,
+- Approval of Minutes Trustee Carolyn Steinsiek moved to approve the minutes of the October
+- Approval of Accounts Receivable and Payable
+- Trustee Siobhan Steinsiek moved to approve the receivables and payables for October. Trustee
+- Approval of Bills
+- Trustee Carolyn Steinsiek moved to approve the November bills for payment. Trustee
+- Wastewater Permit Regulations Clerk Hart said that Mayor Lightsey needed to sign the DOLA
+- reimbursement request in the amount of $16,428.06. Trustee McCue moved to approve Mayor
+- Lightsey singing the DOLA reimbursement request. Trustee Siobhan Steinsiek seconded and the
+- Zoning – Master Plan Nothing new
+- 2026 Budget The Board reviewed the updated draft of the proposed 2026 Budget
+- Review Sewer Rates Mayor Lightsey said she’s had several people approach her about the
+- campgrounds sewer fees and how they are using the wastewater system more but paying less
+- sewer, plus $5 per each rv hookup each month, and then $49.50 for up to 5,000 gallons of water
+- Residents pay $49.50 for 5,000 gallons of water and $47.50 for sewer. The Board discussed
+- increasing the Town’s campground sewer rate and increasing the amount campgrounds are
+- charged per each rv parked. Trustee VanderWerf suggested charging $16 per each rv hookup
+- Sales Tax Question on 2026 Ballot Nothing new
+- would be appointed to the LCEDC Board
+- Approved by the Board on: 12/09/25
+
+## [arriba#1] 2025-12-09 | City Council | minutes
+- BOARD OF TRUSTEES PUBLIC HEARING
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- 2025 Sewer Fund Supplemental Budget
+- The Board reviewed the 2025 Supplemental Sewer Fund budget
+- Clerk Hart said the supplemental budget reflects wastewater permit regulation expenses, funding
+- received, and transfers to the water fund
+- Proposed 2026 Budget
+- The Board reviewed the proposed 2026 Budget
+- from the General and Sewer funds to the Water fund
+- Clerk Hart explained the Town’s assessed property tax income limit is $22,921. Arriba’s
+- to reduce its mill levy from 25.948 to 14.509 for the 2026 budget year
+- Approved by the Board on: 1/13/2026
+
+## [arriba#2] 2025-12-09 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Trustee Carolyn Steinsiek moved to approve the Agenda as written,
+- Approval of Minutes Trustee Carolyn Steinsiek moved to approve the minutes of the November
+- Approval of Accounts Receivable and Payable
+- Trustee Carolyn Steinsiek moved to approve the receivables and payables for November. Trustee
+- Approval of Bills
+- Trustee Siobhan Steinsiek moved to approve the December bills for payment. Trustee Smithburg
+- 2025 Supplemental Sewer Fund Budget
+- Sewer Fund expenditures are increased from $116,940.00 to $229,440.00 due to wastewater
+- permit regulation expenses
+- Trustee Siobhan Steinsiek moved to adopt the 2025 Supplemental Budget and Resolution
+- appropriating funds for the sewer fund. Trustee Smithburg seconded and the motion passed
+- Proposed 2026 Budget
+- from the General and Sewer funds to the Water fund
+- Trustee Carolyn Steinsiek moved to adopt the 2026 Budget as written. Trustee Smithburg
+- Trustee Carolyn Steinsiek moved to adopt a Resolution appropriating sums of money as follows:
+- Sewer Fund 135,940.00
+- Water Fund 109,498.34
+- Road and Bridge Fund 5000.00
+- Certify Mill Levy
+- Clerk Hart explained the Town’s assessed property tax income limit is $22,921. Arriba’s
+- to reduce its mill levy from 25.948 to 14.509 for the 2026 budget year
+- Trustee McCue moved to approve a Resolution certifying the mill levy at 14.509. Trustee
+- Approve Resolution for 2026 Election
+- Trustee Siobhan Steinsiek moved to approve the resolution setting the 2026 Election as a mail
+- ballot election and appointing Josie Hart as the Designated Election Official. Trustee VanderWerf
+- Clerk Hart explained that there is a 2% cost of living increase budgeted for herself and Mike
+- Trustee Smithburg moved to approve a 2% cost of living increase for Josie Hart and Mike
+- Sales Tax Question on 2026 Ballot Nothing new
+- Trustee Siobhan Steinsiek moved to approve giving $700 each to Mike Becker and Josie Hart
+- Clerks Report Clerk Hart explained that the contract with ECCOG for the Senior meals and
+- transportation services needs approved and signed
+- Trustee Siobhan Steinsiek moved to approve the contract with ECCOG for the Senior meals and
+- Approved by the Board on: 1/13/2026
+
+## [arriba#3] 2026-01-13 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Beverly Langley said she was concerned with all the water Big Ben’s rv park is using. She stated
+- that the Town’s campground water and sewer rates should be increased. She said that she
+- thought each rv should be paying what residents are paying for water and sewer
+- Approval of Agenda Clerk Hart asked that Posting Places Resolution and 2025 Exemption from
+- Audit be added under New Business. Trustee McCue moved to approve the Agenda as amended
+- Approval of Minutes
+- Trustee McCue moved to approve the minutes from the December 9 budget hearing and regular
+- Approval of Accounts Receivable and Payable
+- Trustee Rush moved to approve the receivables and payables for December. Trustee McCue
+- Approval of Bills
+- Trustee Rush moved to approve the January bills for payment. Trustee McCue seconded and the
+- There was discussion on whether he would offer trash service for residents that own their own
+- dumpsters. Rates were not discussed at this time. Clerk Hart and Mik Becker will work with Rob
+- and Jennifer Fager on getting customer lists. This issue will be discussed at the Town Board
+- Wastewater Permit Regulations Clerk Hart said that GMS is starting the study on the
+- wastewater facility. She said she’s been working on gathering information for them
+- Zoning Nothing new on this
+- Review Sewer Rates The Board discussed increasing the Town’s rv monthly sewer rate. It’s
+- currently $5 per month per rv hookup used. It was noted that Big Ben’s RV park has been quite
+- full, this has affected the BOD levels at the wastewater pond but that is due to the Town only
+- Trustee Rush moved to increase the rv monthly sewer rate from $5 to $10. No second. Motion
+- Trustee Smithburg moved to increase the rv monthly sewer rate by $2, increasing it from $5 to
+- Sales Tax Resolution – Question on 2026 Ballot
+- The Board reviewed the resolution that will place a sales tax question on the 2026 ballot. This
+- ballot question is asking Arriba voters for approval to keep sales tax collected in 2025 that is in
+- excess of what was estimated. The Town had estimated receiving $14,000 in sales tax revenue in
+- 2025. The Town is projected to receive $30,000 in sales tax revenues in 2025
+- Trustee McCue moved to approve the resolution placing the sales tax question on the Town’s
+- Posting Places Resolution Trustee McCue moved to adopt Resolution 2026-2 designating the
+- water which is affecting the sewer line from the Rest Area to the sewer ponds. He said he’s had
+- Approved by the Board on: 02/10/2026
+
+## [arriba#4] 2026-02-10 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Clerk Hart asked that SB25-142 be added under New Business. Trustee
+- Carolyn Steinsiek moved to approve the Agenda as amended. Trustee Smithburg seconded and
+- Approval of Minutes
+- Trustee VanderWerf moved to approve the minutes from the January 13 regular meeting as
+- Approval of Accounts Receivable and Payable
+- Trustee Carolyn Steinseik moved to approve the receivables and payables for January. Trustee
+- Approval of Bills
+- Trustee Carolyn Steinsiek moved to approve the February bills for payment. Trustee Rush
+- Executive Session to negotiate contract with Rob’s Trash Service
+- contract with Rob and Jennifer Fager with Rob’s Trash Service. Trustee Carolyn Steinsiek
+- Review Proposed Trash Service Ordinance
+- The Board reviewed the proposed trash ordinance. Trustee Siobhan Stiensiek suggested
+- amending the ordinance under Section 2. Definitions “Household” to say “any ‘occupied’
+- residential dwelling...” Trustee Rush moved to adopt the trash ordinance, with the suggested
+- amendment, requiring every occupied residential household to have trash service and to be
+- 2. Resident’s own 3yd dumpster that is approved by Rob’s, dumped once a month, $45 per
+- Trustee Rush moved to accept the contract with Rob’s Trash service with the understanding that
+- the contract can be re-negotiated at the end of 2026. Trustee VanderWerf seconded and the
+- Community has awarded the Town with a $7,500 grant for the event. She asked the Board if they
+- getting the special event permit for this
+- at $1500. The Board agreed that if additional grant funds are awarded then a new time capsule
+- Wastewater Permit Regulations Nothing new on this
+- SB25-142 Clerk Hart explained that this is a fire code that needs to be adopted by April 1st. She
+- the fire code. She said that NELFPD Fire Chief Leroy King brough this new fire code
+- Maintenance Report Mike Becker reported that the wastewater facility had BOD and ammonia
+- violations again. He said he would be spending a lot of time at the wastewater facility because of
+- Clerks Report Clerk Hart requested $400 for the Town’s Easter Egg Hunt that will be held on
+- April 4th. Trustee Siobhan Steinsiek moved to approve $400 for the easter egg hunt. Trustee
+- poop at the park. There was discussion about getting pet waste cans and bags for the park
+- Approved by the Board on: 03/10/2026
+
+## [arriba#5] 2026-03-10 | City Council | minutes
+- BOARD OF TRUSTEES PUBLIC HEARING
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Review Trash Service Ordinance
+- The Board reviewed the trash ordinance. The Ordinance applies to all occupied residential
+- 2. Resident’s own 3yd dumpster that is approved by Rob’s, dumped once a month, $45 per
+- Wildfire Resiliency Code Ordinance Clerk Hart said that the Town Attorney has prepared an
+- ordinance adopting the code. The ordinance states that the Town Clerk will be the code official
+- Clerk Hart was concerned about what that would entail. There was discussion on what enforcing
+- by educating the residents that the code exists and leaving it up to them and their contractors
+- inspecting structures in unincorporated Lincoln County. The towns of Limon and Hugo have not
+- adopted the Code yet. Municipalities and Fire Departments are supposed to adopt the Code by
+- Joe Rush said he was concerned with the enforcement of the code. There was discussion about
+- other. There was discussion about how the Town will enforce the code, or if the Town chooses
+- Approved by the Board on: 4/14/2026
+
+## [arriba#6] 2026-03-10 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- needs a bigger drainage pipe, part of the street will need to be cut into, and flat concrete laid back
+- Erika said that Lincoln Health will be introducing a new financing plan for patients
+- Approval of Agenda Trustee Carolyn Steinsiek moved to approve the Agenda as amended
+- Approval of Minutes
+- Trustee McCue moved to approve the minutes of the February 10 regular meeting as written
+- Approval of Accounts Receivable and Payable
+- Trustee Carolyn Steinseik moved to approve the receivables and payables for February. Trustee
+- Approval of Bills
+- Trustee McCue moved to approve the March bills for payment, including the one to S & C
+- Review Trash Service Ordinance
+- The Board reviewed the trash ordinance. The Ordinance applies to all occupied residential
+- 2. Resident’s own 3yd dumpster that is approved by Rob’s, dumped once a month, $45 per
+- Trustee McCue moved to adopt the trash service ordinance. Trustee Rush seconded and the
+- Wildfire Resiliency Code Ordinance Trustee McCue moved to table the ordinance and get
+- 2025 Exemption from Audit. A resolution needs approved to accept the exemption from audit
+- Trustee Rush moved to approve the resolution and accept the 2025 Exemption from Audit
+- There was discussion on what the time capsule should be made off. There was a suggestion to
+- Wastewater Permit Regulations Trustee VanderWerf said he has been communicating with
+- Gillian Laycock in Akron regarding new technology for wastewater systems. Gillian is currently
+- researching different solutions that could be less expensive and keep wastewater systems in
+- He said he got a couple of loads of gravel for the roads and alleys
+- Clerks Report Clerk Hart said that the Easter Egg Hunt will be held at the Arriba Park on
+- Approved by the Board on: 4/14/2026
+
+## [arriba#7] 2026-04-14 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Trustee Smithburg moved to approve the Agenda as written. Trustee Rush
+- Approval of Minutes
+- Trustee Smithburg moved to approve the minutes of the March 10 public hearing and regular
+- Approval of Accounts Receivable and Payable
+- Trustee Rush moved to approve the receivables and payables for March. Trustee Smithburg
+- Approval of Bills
+- Trustee McCue moved to approve the April bills for payment. Trustee VanderWerf seconded and
+- garden at the event, the basketball court at the Town Park will be designated as the beer garden
+- Trustee McCue moved to approve having a beer garden at the Time Capsule event on July 4,
+- 2026, and approved use of the basketball court at the Town Park as the beer garden area
+- There was discussion on things that needed done at the park for the event. The park building
+- park building should be painted for the event. Beverly Langley and David Ruiz volunteered to
+- paint the park building
+- Wildfire Resiliency Code Ordinance The Board agreed to wait on adopting this until further
+- Wastewater Permit Regulations Trustee Rush said he’s heard of some new ideas for
+- wastewater facilities that would be cheaper than evaporative ponds. He’s waiting to hear back
+- Manufactured Hom permit Application Clerk Hart explained that Brian and Sheri Mohr have
+- submitted an application to place a 2026 manufactured home on their property at 521 Lincoln
+- Ave. They have paid the $500 permit fee. The Board reviewed the application and site plan
+- Trustee McCue moved to approve the application. Trustee VanderWerf seconded and the motion
+- Trustee McCue moved to approve reimbursing Mike Becker $570 for repairs to the Town’s
+- Mike said that he’s been working with the Mohr’s on the water and sewer lines for their new
+- Mike said he’s been working on getting the bathrooms at the park cleaned up for the Time
+- Clerk Hart told the Board about a complaint she received about the piles of railroad ties at Big
+- Ben’s RV Park. Trustee VanderWerf said he has been chopping the railroad ties and plans to get
+- Approved by the Board on: 5/12/2026
+
+## [arriba#8] 2026-05-12 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Trustee McCue moved to approve the Agenda as written. Trustee Rush
+- Approval of Minutes
+- Trustee Steinsiek moved to approve the minutes of the April 14 regular meeting as written
+- Approval of Accounts Receivable and Payable
+- Trustee McCue moved to approve the receivables and payables for April. Trustee Steinsiek
+- Appointments
+- Trustee McCue moved to appoint Bob Rush as the Mayor Pro-tem. Trustee Steinsiek seconded,
+- Trustee Steinsiek moved to appoint Josie Hart as the Town Clerk. Trustee McCue seconded and
+- Trustee McCue moved to appoint Pam Koehn as the treasurer. Trustee Rush seconded and the
+- Trustee Steinsiek moved to appoint Corey Hoffman with Hoffmann, Parker, Wilson, & Carberry,
+- Trustee Steinsiek moved to appoint Stephen Ruddick as the Town’s Municipal Judge. Trustee
+- Approval of Bills
+- There was discussion on Schaal Drilling having to replace the motor in the north intown well
+- Trustee Steinsiek moved to approve the May bills for payment. Trustee McCue seconded and the
+- Time Capsule Event Clerk Hart said that the Town received a $2500 grant from the Tourism
+- and $2500 be used to get the park ready for the event
+- Wildfire Resiliency Code Ordinance The Board agreed to wait on adopting this
+- Wastewater Permit Regulations Trustee Rush said that GMS has not quite finished the
+- wastewater report but that they did tell him that Arriba has an infiltration problem
+- He noted that there might be a miniature mechanical treatment option for the wastewater facility
+- ECCOG / Senior Meals Clerk Hart explained that ECCOG has a budget shortfall and is needing
+- Maintenance Report Mike Becker said that he got paint for the park building. He said that
+- Brian Mohr has been helping mow the park
+- Approved by the Board on: 6/09/2026
+
+## [arriba#9] 2026-06-09 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Approval of Agenda Trustee McCue moved to approve the Agenda as written. Trustee Rush
+- Approval of Minutes
+- Trustee Rush moved to approve the minutes of the May 12 regular meeting as written. Trustee
+- Approval of Accounts Receivable and Payable
+- Trustee McCue moved to approve the receivables and payables for May. Trustee Steinsiek
+- Approval of Bills
+- Trustee McCue moved to approve the June bills for payment. Trustee VanderWerf seconded and
+- Clerk Hart said that she’s been having trouble getting the SEP for the beer garden approved by
+- Wildfire Resiliency Code Ordinance The Board agreed to wait on adopting this
+- Wastewater Permit Regulations nothing new on this
+- Approved by the Board on: 7/14/2026
+
+## [arriba#10] 2026-07-14 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Public Audience Brian Mohr asked if the Town could purchase more sprinklers for the park
+- Approval of Agenda Trustee Steinsiek moved to approve the Agenda as written. Trustee Rush
+- Approval of Minutes
+- Trustee McCue moved to approve the minutes of the June 9 regular meeting as written. Trustee
+- Approval of Accounts Receivable and Payable
+- Trustee McCue moved to approve the receivables and payables for June. Trustee Baylie
+- Approval of Bills
+- Trustee Steinsiek moved to approve the July bills for payment. Trustee VanderWerf seconded
+- has had good feedback from those who attended the event. Clerk Hart thanked Emily Baylie,
+- Wildfire Resiliency Code Ordinance Trustee Rush said the Town of Flagler adopted the
+- wildfire code. He said that districts and municipalities must file an affidavit with the State if they
+- The Board discussed how not adopting the Code might affect Arriba residents’ insurance rates
+- Trustee McCue moved to adopt Ordinance 159 which adopts the 2025 Wildfire Resiliency Code
+- Wastewater Permit Regulations Clerk Hart said that GMS has submitted 2 invoices for work
+- done the last quarter of 2025 on the wastewater preliminary engineering report. The total amount
+- of the invoices is $19,250.00. Half will be paid with DOLA grant funds, the other half will be
+- Trustee Baylie moved to approve paying both invoices. Trustee McCue seconded and the motion
+- Water Rate Increase Clerk Hart explained that for the Town to stay in compliance with the
+- drinking water loan rate convent the base water rates will need to be increased by $5.50, this will
+- bring both the intown and out of town base water rate to $55.00
+- Trustee McCue moved to adopt the resolution increasing the intown and out of town base water
+- rates by $5.50. This will be effective August 1st, 2026. Trustee Rush seconded the motion and the
+- Ordinance 113 Hooved Animals Clerk Hart explained that this ordinance prohibits any hooved
+- animals being kept within Town limits, it does allow a variance with Board approval for 4H /
+- would like the Board to consider allowing hooved animals be kept in Town limits, and/or
+- changing ordinance 113 to allow hooved animals to be kept on properties that are over 5 acres
+- There was discussion on this, the Board agreed to not make any changes at this time
+- wastewater facility, all the outlets needed replaced and the influent recorder is not working. He
+- Mike thanked Brian and Sheri Mohr, Ben VanderWerf, and Marilyn for their help with the park
+- Approved by the Board on: 8/11/2026
+
+## [arriba#11] 2026-08-11 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Beverly Langley asked the Board if there was anything the Town could do about the rainwater
 - draining issue she is having at her house. The water runs off Pine Street and floods on the north
@@ -33,7 +318,7 @@
 - He said that the influent meter board has been replaced and recalibrated, they were able to use a
 - capsule, she said she’s purchased protective sleeves and moisture absorption packs. She said she
 
-## [arriba#1] 2026-09-15 | City Council | minutes
+## [arriba#12] 2026-09-15 | City Council | minutes
 - Arriba Town Hall, 711 Front Street, Arriba, CO 80804
 - Beverly Langley asked the Board to review the water and sewer rates for RV’s and
 - truck route. The Board discussed putting speed bumps on College Ave and Lincoln Ave to

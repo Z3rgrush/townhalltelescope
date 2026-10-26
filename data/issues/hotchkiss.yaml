@@ -1,66 +1,129 @@
-- title: Ordinance 2026-07 on demonstrations and special events in public rights-of-way
-  summary: Council took up Ordinance 2026-07, which sets content-neutral safety, access and permit rules for demonstrations and special events. The Town Attorney said the rules are neutral, and on Aug. 27 a motion was made to approve it. A resident asked whether it can override state statute. The new permit process led to a parade permit waiver for the North Fork Miners homecoming parade in September.
+- title: Drought restrictions, water moratorium and bulk water standpipe
+  summary: In February the board passed an emergency ordinance (2026-01) pausing new out-of-town water taps and limiting sales from the town standpipe. In April and May it discussed drought restrictions, Resolution 2026-04, and raising bulk water rates to $12 per thousand gallons outside the 81419 ZIP code. Water rates and the standpipe were sent to a separate work session.
   where: Townwide
   refs:
-  - 0
-  - 1
-  - 2
-  public_comment: true
-  topics:
-  - Government operations
-  - Tourism & events
-  - Lawsuits & legal
-- title: Proposed town park on Bridge Street
-  summary: Council discussed forming a committee or task force to research whether a town park on Bridge Street is viable and feasible. The Town Attorney said no resolution is needed to form it. A resident wrote and spoke against it, saying the town has enough parks and the property should host a revenue-generating business.
-  where: Bridge Street
-  refs:
-  - 0
-  public_comment: true
-  topics:
-  - Parks & open space
-  - Land & property
-  - Economic development
-- title: Police vehicle transfer to Technical College of the Rockies
-  summary: Council discussed transferring low-mileage police vehicles that the Chief called untrustworthy to TCR in exchange for training, raising concerns about backup vehicles and taxpayer-funded assets. The Board told the Chief to go back to TCR to ask for an amended agreement without increased tuition fees that the Town would have to pay.
-  where: Hotchkiss Police Department
-  refs:
-  - 1
-  topics:
-  - Policing & public safety
-  - Government operations
-  - Budget & taxes
-- title: Regional water supply, grants and wildfire vulnerability
-  summary: Staff reported talks with Cedaredge and Upper Surface Creek water users about a possible three-party agreement, and meetings with Tri County Water. The Town received a $10,000 Water Smart Grant for education with the Water Now Alliance. Staff and the engineer are also seeking funding for a study because a fire at the water source could cut off supply.
-  where: Townwide
-  refs:
-  - 1
+  - 3
+  - 7
+  - 8
   topics:
   - Water
-  - Fire & emergencies
+  - Fees & rates
   - Environment & climate
-- title: Skate park request
-  summary: Resident Tanner Wilson asked the Board to consider a skate park in Hotchkiss and said he has volunteers lined up. He has met with the North Fork Pool, Park and Recreation District. The Town offered a letter of support when the project reaches that point, and upkeep remains an open question.
-  where: Hotchkiss
-  refs:
-  - 0
   public_comment: true
+- title: Hiring a permanent Town Administrator and new Town Attorney
+  summary: The board worked with KRW Associates on a search for a permanent Town Administrator, with executive sessions in May and June. Kimberly States was in the job by July, and Ordinance 2026-04 set out the office's powers. The board also sought proposals for a new town attorney and had the contract reviewed. Sarah Ross was serving as attorney by July.
+  where: Townwide
+  refs:
+  - 4
+  - 5
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
   topics:
-  - Recreation & trails
+  - Government operations
+- title: Proposed park on Bridge Street lots and skate park request
+  summary: Don Foster proposed a park on the empty lots at 171 and 191 E Bridge Street, and the board agreed to form a working group in August. Resident Larry Wilkening opposed it and said the land should host a revenue-generating business. Tanner Wilson asked the town to consider a skate park, and the town offered a letter of support.
+  where: 171 and 191 E Bridge Street
+  refs:
+  - 14
+  - 15
+  - 16
+  topics:
   - Parks & open space
-  - Schools & youth
-- title: 2026 updated budget adoption
-  summary: Council held a public hearing and a motion was made to approve Resolution 2026-09 amending the 2026 budget with revised and supplemental appropriations. Members asked why a grant included in 2025 was absent in 2026; the clerk said the funds were fully spent in 2025.
+  - Recreation & trails
+  - Land & property
+  public_comment: true
+- title: Ordinance 2026-07 on demonstrations and special events in public rights-of-way
+  summary: The board took up an ordinance setting content-neutral safety, access and permit requirements for demonstrations and special events on public rights-of-way. Residents commented, and the board approved it on August 27. In September the parade permit process had to change, and the board waived the permit for the North Fork Miners homecoming parade.
+  where: Townwide
+  refs:
+  - 16
+  - 17
+  - 18
+  topics:
+  - Government operations
+  - Policing & public safety
+  - Tourism & events
+  public_comment: true
+- title: Staff wage study and benefits
+  summary: Graves Consulting presented a wage compensation study, with implementation proposed for June 1, 2026 and no increase to the 2026 budget. Staff also proposed more vacation time and insurance improvements costing $3,000 to $5,000. Trustee Sven Edstrom said there was too much information to decide on that night.
+  where: Townwide
+  refs:
+  - 6
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Wildland-Urban Interface Code and wildfire planning
+  summary: Ordinance 2026-03 adopting a Wildland-Urban Interface Code came to a public hearing in July, with a fire-risk map covering the whole town. The Western Slope Conservation Center presented a Wildfire Ready Action Plan in December. Staff also noted a wildfire near the town's water source could cut off supply, and talks are underway to fund a study.
   where: Townwide
   refs:
   - 2
+  - 14
+  - 17
   topics:
-  - Budget & taxes
-- title: Police Department vehicle use policy revisions and North Fork Senior Connections donation
-  summary: Council moved to approve revisions to the Police Department vehicle use policy, which do not affect Public Works. It also moved to approve a donation to North Fork Senior Connections, which plans further improvements to its building and property.
-  where: Hotchkiss
+  - Fire & emergencies
+  - Water
+  - Zoning & development
+- title: 'Variance requests: drive-thru lot and parking, sheds and fences'
+  summary: In November the board tabled a variance for a nonconforming lot at 6th Street for a drive-thru, sending the applicant back for a documented parking agreement with City Market. Neighbors raised parking concerns. In June it considered variances for a shed at 159 E Orchard, an 8-foot fence at 791 Barrow Mesa Road, and a 6-foot fence at 319 Knob Hill Circle Drive.
+  where: 6th Street; 159 E Orchard; 791 Barrow Mesa Road; 319 Knob Hill Circle Drive
+  refs:
+  - 0
+  - 13
+  topics:
+  - Zoning & development
+  - Land & property
+  public_comment: true
+- title: Master Plan and housing
+  summary: The town worked with Urban Rural Continuum on a new Master Plan, and the Planning Commission approved the final plan in April. Trustees also discussed the difficulty of finding housing in town.
+  where: Townwide
   refs:
   - 2
+  - 4
+  - 7
+  - 18
+  topics:
+  - Zoning & development
+  - Housing
+- title: Sidewalk repair funding
+  summary: A resident said no progress had been made on sidewalk repairs since a 2022 rating of sidewalks. He suggested a utility bill fee that would need voter approval.
+  where: Townwide
+  refs:
+  - 0
+  topics:
+  - Roads & traffic
+  - Fees & rates
+  public_comment: true
+- title: Police vehicles and Police Department policies
+  summary: The board discussed transferring police vehicles in exchange for tuition at Technical College of the Rockies. It directed the chief to seek a contract amendment so the town avoids extra tuition costs. In September the board approved revisions to the Police Department vehicle use policy.
+  where: Police Department
+  refs:
+  - 17
+  - 18
   topics:
   - Policing & public safety
-  - Health & human services
+  - Budget & taxes
+- title: Trustee compensation ordinance
+  summary: After a work session discussion, the board passed Emergency Ordinance 2026-02 on trustee pay in March. It was set to take effect before the next election, with pay aligned with other valley towns.
+  where: Townwide
+  refs:
+  - 4
+  - 5
+  topics:
   - Government operations
+  - Budget & taxes
+  - Elections
+  public_comment: true
+- title: DMEA broadband franchise and telecom purchase
+  summary: A franchise agreement with DMEA concerning broadband was planned for January. In July the board considered Ordinance 2026-05, a franchise agreement for the purchase of Delta County Tele-Com.
+  where: Townwide
+  refs:
+  - 2
+  - 15
+  topics:
+  - Broadband
+  - Utilities

@@ -1,6 +1,470 @@
 # black-hawk
 
-## [black-hawk#0] 2026-08-12 | Mayor and City Council | minutes
+## [black-hawk#0] 2026-01-06 | Historic Preservation Commission | agenda
+- 3) PUBLIC COMMENTS
+- 4) APPROVAL OF MINUTES
+- 7) HISTORIC GRANT APPLICATIONS
+- 8) CERTIFICATE OF APPROPRIATENESS
+- 13) CERTIFIED LOCAL GOVERNMENT STAFF AND CONSULTANT COMMENTS
+
+## [black-hawk#1] 2026-01-14 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Cole, Police Chief Moriarty,
+- Police Commanders Cooper and Jantz, Fire Chief Woolley, Finance
+- Reed, Water Resource Engineer Dallam, Water System Superintendent
+- McClain, Community Planning & Development Director Svoboda,
+- Development Services Coordinator Richards, Deputy City Clerk Martin,
+- and many Police Department team members
+- yeartenure award, which he read from. Judge Carlson said he appreciates
+- Richard Grasser, Police Officer
+- Falcon Luke, Police Officer
+- Nickolas Miller, Police Officer
+- Jacob Steerman, Police Officer
+- Sean Webb, Police Officer
+- Brandy Williams, Police Officer
+- Police Chief Moriarty introduced her new employees individually, some
+- 8. RECEPTION: Took a break for some treats to celebrate and welcome the new Aldermen
+- 9. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 10. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED 5-1, with Alderman
+- A. Resolution 1-2026, A Resolution Establishing a Designated Public Place for the Posting of
+- Midcap to approve Resolution 1-2026, a Resolution establishing a
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- B. Resolution 2-2026, A Resolution Approving the Boundary Line Agreement Between the
+- City Manager Cole explained that the City was replatting Oregory Street
+- to approve Resolution 2-2026, a Resolution approving the Boundary Line
+- Agreement betweenthe City of Black Hawk and King, Queens, and Jacks
+- C. Resolution 3-2026, A Resolution Reappointing Christopher Woolley and Michelle
+- City Manager Cole introduced this item reappointing Fire Chief Woolley
+- as a member of the Board of Directors and Police Chief Moriarty as an
+- to approve Resolution 3-2026, a Resolution reappointing Christopher
+- D. Resolution 4-2026, A Resolution Approving Certain Service Agreements for Calendar
+- Development Services Coordinator Richards introduced this second set
+- of annual on-call agreements
+- Johnson to approve Resolution 4-2026, a Resolution approving certain
+- service agreements for calendar year 2026
+- MOTION PASSED After some discussion, the motion PASSED unanimously
+- E. Resolution 5-2026, A Resolution Approving the Contract Between the City of Black Hawk
+- City Engineer Reed introduced this annual on-call contract
+- to approve Resolution 5-2026, a Resolution approving the contract
+- There was no discussion, and the motion PASSED unanimously
+
+## [black-hawk#2] 2026-01-20 | Historic Preservation Commission | minutes
+- the City ofBlackHawk Council Chambers, 211 Church Street, BlackHawk, Colorado 80422
+- 3) PUBLIC COMMENTS - None
+- 4) APPROVAL OF MINUTES
+- ChairwomanHaileyopenedthis itemforsupportandrequesteda motion to approve theDecember
+- 2, 2025, meeting minutes. Commissioner Linder moved to approve the minutes as presented,
+- recommended the CLG consider its decision to locally review State Residential Tax Credits,
+- working on the phased reconnaissance survey project. The HPC discussed the State
+- Residential Tax Credit and noted that it did not benefit the residents ofBlackHawk. If a
+- residents were to applyfor the Tax Credit theHPC would be happy to assist. TheHPC already
+- has the Lace House Designation on the schedule for 2026. Daniel Gilbert notified the HPC
+- The Historic Preservation Commission shall appoint a Chair and a Vice-Chair who shall serve as
+- C. Annual Review Required - Certified Local Governtnent (CLG) Program Overview
+- Colorado Certified Local Government Handbook:
+- CLG Staff notified the HPC that City Council will be acknowledging three members of the
+- 7) HISTORIC GRANT APPLICATIONS
+- 8) CERTIFICATE OF APPROPRIATENESS
+- The HPC discussed this upcoming training opportunil and asked that it be put on the February
+- This training had been requested by the HPC previously but after discussions the HPC decided not
+- together a list of ten recommended properties he feels should be included in the Intensive Survey
+- month. At the first meeting in March the HPC can discuss the forms and recommendations
+- TheHPC discussed that they were now ready to move this projectforward. Daniel Gilbert confirmed
+- that he had completed other City projects and could start focusing on the Lace House at this time
+- 13) CERTIFIED LOCAL GOVERNMENT ST AFF AND CONSULTANT COMMENTS
+- RECOMMENDED AND APPROVED:
+
+## [black-hawk#3] 2026-01-28 | Mayor and City Council | minutes
+- New Community Planning & Development Director, Brook Svoboda, rang the bell to open the meeting
+- Staff Presenf: City Attorney Hoffmann, City Manager Coie, Police Chief Moriarty, Fire
+- Chief Woolley, Fire Marshal Walsh, Administrative Services
+- Planning & Development Director Svoboda, Development Services
+- Manager Jaekson, Maintenance Supervisor Martinez, Water Resource
+- Engineer Dallam, Water System Superintendent McLain, Deputy City
+- language: pursuant to C.R.S. § 24-6-402(4)(f) to discuss personnel
+- to the discussi.on in Execuiive Session as required by law
+- AWARDS: Chair Lynnette Hailey, 10 Years
+- Mayor Spellman and City Manager Cole presented an award to each
+- 7. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 8. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9. PUBLIC HEARINGS:
+- A. Resolution 6-2026, A Resolution Approving the Drainage Facilities Easement Agreement
+- Subdivision Agreement, which required entering into an agreement to
+- Johnson to approve Resolution 6-2026, a Resolution approving the
+- Drainage Facilities Easement Agreement between the City of Black
+- B. Resolution 7-2026, A Resolution Authorizing the Mayor to Execute a Quitclaim Deed on
+- City Attorney Hoffmann stated that, as per the eighth amendment to the
+- service plan of the Silver Dollar Metropolitan District (SDMD), the City
+- Council approves a new elector to serve on the SDMD. The SDMD
+- to approve Resolution 7-2026, a Resolution authorizing the Mayor to
+- C. Resolution 8-2026, A Resolution Approving the Tenth Addendum to the Professional
+- Services Agreement with LRE Water, Inc. for Water Rights Engineering and Well Design
+- Water-Resmr-ce Engi-iqeet-DaLl-a-m-introd-uced thi-g atm-ual agteerm:nt
+- to approve Resolution 8-2026, a Resolution approving the Tenth
+- Addendum to the Professional Services Agreement with LRE Water, Inc
+- for Water Rights Engineering and Well Design Services in the amount
+- MOTION PASSED After some discussion, the motion PASSED unanimously
+- REPORT: City Manager Cole reluctantly reported that Police Chief Moriarty
+- end her 31-year law enforcement career, and she is very gratefiil and
+- honored that the City chose her to be their Police Chief
+- Executive Session, and consistent with the amended agenda to discuss
+- Manager, and the City Manager has consented to that discussion being
+- to consider personnel matters regarding the City Manager pursuant to
+
+## [black-hawk#4] 2026-02-03 | Historic Preservation Commission | agenda
+- 3) PUBLIC COMMENTS
+- 4) APPROVAL OF MINUTES
+- 7) HISTORIC GRANT APPLICATIONS
+- 8) CERTIFICATE OF APPROPRIATENESS
+- 13) CERTIFIED LOCAL GOVERNMENT STAFF AND CONSULTANT COMMENTS
+
+## [black-hawk#5] 2026-02-11 | Mayor and City Council | minutes
+- Staff Present: City Attomey Hoffmann, City Manager Cole, Police Chief Moriarty,
+- Police Commanders Jantz and Cooper, Fire Chief Woolley,
+- Hillis, Community Planning & Development Director Svoboda,
+- Maintenance Services Manager Jackson, Water Resource Engineer
+- Dallam, Deputy City Clerk Martin, and many members of the Police
+
+## [black-hawk#6] 2026-02-17 | Historic Preservation Commission | agenda
+- 3) PUBLIC COMMENTS
+- 4) APPROVAL OF MINUTES
+- 7) HISTORIC GRANT APPLICATIONS
+- 8) CERTIFICATE OF APPROPRIATENESS
+- 13) CERTIFIED LOCAL GOVERNMENT STAFF AND CONSULTANT COMMENTS
+
+## [black-hawk#7] 2026-02-25 | Mayor and City Council | minutes
+- Staff Present: City 'Attomey Hoffmann, City Manager Cole, Police Chief Moriarty,
+- Police Commander Jantz, Fire Chief Woolley, Fire Marshal Walsh,
+- Hillis, Development Services Coordinator Richards, Public Works
+- regarding the Education Enhancement Tax
+- discussing placing a countywide sales tax on the November 2026 ballot
+- School District that the Board of County Commissioners is considering
+- a sales tax proposal
+- The Mayor emphasized that the County is aware that if such a tax is
+- placed on the ballot and approved by Gilpin County voters, the City of
+- Black Hawk's 1.5% Education Enhancement Tax would automatically
+- countywide sales tax that results in the loss of funding to the Gilpin RE
+- Agreement (IGA) with the School District to establish a 1.5%
+- Education Enhancement (Sales) Tax. This tax was approved by Black
+- school. Since January 2009, the Education Enhancement Tax has
+- ge-nerated-$-1 €,948,577 tmoug-h December 2025. Tbi-s tax benefits all
+- District once, but if Gilpin County adopts a countywide sales tax that
+- causes the Education Enhancement Tax to terminate, responsibility for
+- for the school even if a countywide sales tax is approved. However,
+- both the ballot language approved by Black Hawk voters and the IGA
+- Enhancement Tax will cease if certain future taxes, including a
+- countywide sales tax, are adopted in Gilpin County
+- Accordingly, if Gilpin County voters approve a countywide sales tax,
+- Education Enhancement Tax, and the Gilpin RE-1 School District
+- Alderman Midcap stated that if the County imposes a 1.5% sales tax, it
+- will generate approximately $1.5 million annually for the County, while
+- the School District would lose the 1.5% Educational Enhancement Tax
+- countywide sales tax would negatively impact residents throughout the
+- 6. PUBLIC COMMENT: City Clerk Greiner confirmed no one had signed up to speak
+- 7. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 8. PUBLIC HEARINGS:
+- Mayor Spellman read the title and opened the public hearing
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB2, an Ordinance
+- amending the penalty provisions of the City of Black Hawk Municipal
+- "against" the Ordinance to come forward
+- Hearing closed
+- to approve CB2, an Ordinance amending the penalty provisions of the
+- B. Introduction 6f-CB3, An Ordinance Amending the City of Black Hawk Municipal Code
+- Wildfire Resilieney Code, 2025 Edition
+- Development Services Coordinator Riehards introduced the item and
+- requested that the Board of Aldermen set a Public Hearing for March 25,
+
+## [black-hawk#9] 2026-03-11 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Cole, Acting Police Chief Jantz,
+- Fire Chief Woolley, Fire Marshal Walsh, Administrative Services
+- Planning & Development Director Svoboda, Development Services
+- 6. PUBLIC COMMENT: Deputy City Clerk Martin stated that Kathleen Ashpaugh had signed up
+- 7. APPROV AL OF
+- Johnson to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 8. PUBLIC HEARINGS:
+- A. CB4, An Ordinance Approving the Intergovernmental Agreement for Marketing Services
+- Mayor Spellman read the title and opened the public hearing
+- that it was funded in the 2026 budget
+- City Attorney Hoffmann clarified that the marketing agreement is
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB4, an Ordinance
+- approving the Intergovernrnental Agreement for Marketing Services
+- or "against" the Ordinance to come forward
+- Hearing closed
+- to approve CB4, an Ordinance approving the Intergovernmental
+- Agreement for Marketing Services between the Silver Dollar
+- B. Resolution 13-2026, A Resolution Approving the Judges Selected to Set've for the Regular
+- to approve Resolution 13-2026, a Resolution approving the judges
+- C. Resolution 14-2026, A Resolution Approving the Purchase of Two 3500HD Pick-Up
+- D. Resolution 15-2026, A Resolution Approving the Purchase of a F550 Flatbed Truck with
+- E. Resolution 16-2026, A Resolution Approving the Purchase of a Caterpillar 938 Wheel
+- Vincent introduced the 2026 budgeted items
+- Bennett to approve Resolution 14-2026, a Resolution approving the
+- purchase of two 3500HD pick-up trucks with plows in the amount of
+- $137,370.00, Resolution 15-2026, a Resolution approving the purchase
+- Resolution 16-2026, a Resolution approving the purchase of a Caterpillar
+- MOTNON PASSED After brief discussion, the motion PASSED unanimously
+- F. Local Liquor Lieensing Autbority Consideration of a Transfer of Ownership for Bigfoot
+- application and confirmed that the Temporary Liquor License was issued
+- on March 9, 2026, and is awaiting the state's approval of the liquor
+- to approve a Transfer of Ownership for Bigfoot Casino, LLC dba Bigfoot
+- 10. DISCUSSION ITEM: Draft Resolution Reaffirming that the Education Enhancement Tax as
+- Approved by the Voters of the City is Subject to Certain Self-Executing
+- Conditions, the Violation of Which Automatically Terminates Said Tax
+- City Attomey Hoffmann introduced the topic for discussion and provided
+- background on why it came about. He said there had been discussion in
+- the community about the Gilpin County Commissioners considering
+
+## [black-hawk#10] 2026-03-17 | Historic Preservation Commission | agenda
+- 3) PUBLIC COMMENTS
+- 4) APPROVAL OF MINUTES
+- 7) HISTORIC GRANT APPLICATIONS
+- 8) CERTIFICATE OF APPROPRIATENESS
+- 13) CERTIFIED LOCAL GOVERNMENT STAFF AND CONSULTANT COMMENTS
+
+## [black-hawk#11] 2026-03-25 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Cole, Acting Police Chief Jantz,
+- Fire Chief Woolley, Fire Marshal Walsh, Administrative Services
+- Parsons, Community Planning & Development Director Svoboda,
+- Development Services Coordinator Richards, Public Works Director
+- Isbester, City Engineer Reed, Water Resource Engineer Dallam, Water
+- Fire and Police in attendance
+- Hymn was then played. Mayor Spellman considers him a local treasure
+- Black Hawk. He reminded everyone that as we celebrate this
+- cookies, and other goodies to celebrate Don. As Don was leaving, he
+- 7. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 8, APPROV AL OF
+- Johnson to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9, PUBLIC HEARINGS:
+- A. CB3, An Ordinance Amending the City of Black Hawk Municipal Code by the Addition
+- Thereto of a New Article XI to Chapter 18 Adopting by Reference the Wildfire Resiliency
+- Mayor Spellman read the title and opened the public hearing
+- Development Services
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB3, an Ordinance
+- amending the City of Black Hawk Municipal Code by the addition
+- Wildfire Resiliency Code, 2025 Edition open and invited anyone wanting
+- to address the Board either "for" or "against" the Ordinance to come
+- Hearing closed
+- to approve CB3, an Ordinance amending the City of Black Hawk
+- 18 adopting by reference the Wildfire Resiliency Code, 2025 Edition
+- MOTION PASSED After some discussion, the motion PASSED 5-1, with Alderman Midcap
+- B. Resolution 17-2026, A Resolution Reaffirming that the Education Enhancement Tax as
+- Approved by the Voters of the City is Subject to Certain Self-Executing Conditions, the
+- Violation of Which Automatically Terminates Said Tax
+- the first check presentation on May 8, 2009, and the 10th-year check
+- presentation on May 8, 2019. What's important to see is what has been
+- accomplished and how successful the tax has been, he said. In surnrnary,
+- there were always three distinct goals the City had for this tax: 1) to help
+- ensure a reasonable and responsible tax rate, 2) to provide a revenue
+- tax produced $481,326, to 20l8's amount of $978,811, doubling in less
+- Spellman and his staff for supporting the Educational Enhancement Tax
+- since 2008 for the Gilpin County School. He gratefully provided a long
+- list of items supported by the tax
+- Mayor Spellman remembered that at the original check presentation,
+- there were two State Representatives who were supportive of this tax,
+- Mayor Spellman asked the City Clerk to send this Resolution to the
+
+## [black-hawk#12] 2026-04-07 | Historic Preservation Commission | agenda
+- 3) PUBLIC COMMENTS
+- 4) APPROVAL OF MINUTES
+- 7) HISTORIC GRANT APPLICATIONS
+- 8) CERTIFICATE OF APPROPRIATENESS
+- 13) CERTIFIED LOCAL GOVERNMENT STAFF AND CONSULTANT COMMENTS
+
+## [black-hawk#14] 2026-04-22 | Mayor and City Council | minutes
+- Former Police Chief, current City Manager, and all-around good guy Stephen Cole rang the bell to
+- Staff Present: City Attorney Hoffmann, City Manager Cole, Acting Police Chief Jantz,
+- Fire Chief Woolley, Fire Marshal Walsh, Administrative Services
+- Marketing Manager Ryan, Community Planning & Development
+- Director Svoboda, Development Services Coordinator Richards, Public
+- Works Director Isbester, City Engineer Reed, Water Resource Engineer
+- Dallam, Water System Superintendent McLain, several other tearnmates
+- from Public Works, Fire, and Police, and Deputy City Clerk Martin
+- Church Street. He said it looks very nice and spruced up, and there will
+- asked again. There was a unanimous approval for up to $10,000.00
+- 7. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 8. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9. PUBLIC HEARINGS:
+- A. CB8, An Ordinance Amending Section 106 of the City of Black Hawk Employee
+- Mayor Spellman read the title and opened the public hearing
+- amendment regarding the hiring of relatives to broaden the City's hiring
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB8, an Ordinance
+- amending Section 106 of the City of Black Hawk Employee Handbook
+- "against" the Ordinance to come forward
+- Johnson to approve CB8, an Ordinance amending Section 106 of the
+- B. Resolution 22-2026, A Resolution Approving the Employment Agreement Between the
+- Lance Hillis was posted as the finalist, which generated the opportunity
+- to negotiate the employment agreement, which takes effect on May 2nd
+- Bennett to approve Resolution 22-2026, a Resolution approving the
+- employment agreement between the City of Black Hawk and Lance R
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously to a
+- C. Resolution 23-2026, A Resolution Reappointing Ronald W. Carlson to be the City of Black
+- D. Resolution 24-2026, A Resolution Reappointing Steven Charles O'Connor to be the City
+- shall appoint a municipal judge to a two-year term. Additional judges are
+- to approve Resolution 23-2026, a Resolution reappointing Ronald W
+- Resolution 24-2026, a Resolution reappointing Steven Charles O'Connor
+- MOTION PASSED There was no discussion, and the motions PASSED unanimously to
+- E. Resolution 25-2026, A Resolution Approving the 2026-2027 Contract with Kaiser
+- F. Resolution 26-2026, A Resolution Approving the 2026-2027 Contract with Delta Dental in
+- contracts. She said Kaiser was a 4.7% increase, and Delta was a rate
+
+## [black-hawk#15] 2026-05-13 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Acting Police Chief Jantz,
+- Fire Chief Woolley, Administrative Services Director/City Clerk
+- Manager Ryan, Community Planning & Development Director Svoboda,
+- Development Services Coordinator Richards, Public Works Director
+- Isbester, City Engineer Reed, Water Resource Engineer Dallam, Water
+- was proud to aru'iounce that the best lawyer of the year award went to
+- 6. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 7. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 8. PUBLIC HEARINGS:
+- A. CB9, An Ordinance Amending Chapter 6 of the Black Hawk Municipal Code by the
+- Mayor Spellman read the title and opened the public hearing
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB9, an Ordinance
+- amending Chapter 6 of the Black Hawk Municipal Code by the repeal
+- the Ordinance to come forward
+- Hearing closed
+- Johnson to approve CB9, an Ordinance amending Chapter 6 of the Black
+- B. CBIO, An Ordinance Amending Chapter 16 of the City of Black Hawk Municipal Code
+- Regarding the Approval Process for the City of Black Hawk Capital Projects
+- Community Planning & Development Director Svoboda introduced this
+- item to help streamline City capital projects and help provide some
+- Hoffmann added that City Council can grant waivers if authorized in the
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CBIO, an Ordinance
+- amending Chapter 16 of the City of Black Hawk Municipal Code
+- regarding the approval process for the City of Black Hawk Capital
+- Projects open and invited anyone wanting to address the Board either
+- "for" or "against" the Ordinance to come forward
+- Bennettto approve CBIO, an Ordinance amending Chapterl6 ofthe City
+- of Black Hawk Municipal Code regarding the approval process for the
+- City of Black Hawk Capital Projects
+- C. Local Liquor Licensing Authority Consideration of a Special Event Liquor Permit for
+- protests were received regarding a Special Event Liquor Permit for a bike
+- race at Hidden Treasure parking lot and trails hosted by Shift Events
+- They plan to have beer after the event on June 3rd. She said no objections
+- a public hearing, only to approve the permit
+- PUBLIC HEARING: Not Required
+- to approve the Special Event Liquor Permit for Shift Events
+- D. Resolution 28-2026, A Resolution Approving Change Order #2 for the Bobtail Mine
+- Improvements Phase 2 Project in the Amount of $949,307.00
+- City Engineer Reed said the original contract was set up as a time and
+
+## [black-hawk#16] 2026-06-24 | Mayor and City Council | minutes
+- Fire Chief Woolley rang the bell to open the meeting
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Acting Police Chief Jantz,
+- Fire Chief Woolley, Fire Marshal Walsh, Administrative Services
+- Community Planning & Development Director Svoboda, Development
+- Services Coordinator Richards, City Engineer Reed, Water Resource
+- COMMENTS: Mayor Spellman reiterated how festive and ready for Founders' Day the
+- 6. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 7. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 8. PUBLIC HEARINGS:
+- A. Resolution 37-2026, A Resolution Accepting the City of Black Hawk 2025 Audit
+- Johnson to approve Resolution 37-2026, a Resolution accepting the City
+- B. Resolution 38-2026, A Resolution Approving the City of Black Hawk Fee Schedule, As
+- Development Services Coordinator Richards introduced this item to
+- update the cornrnercial electrical fees to align with state electrical fees
+- and to change SAFEbuilt's hourly rate to consultant fees, since they
+- change their hourly rate every year. Also included were some changes to
+- the City Clerk's fees
+- to approve Resolution 38-2026, a Resolution approving the City of Black
+- Hawk Fee Schedule, as amended
+- C. Resolution 39-2026, A Resolution Awarding the Bid and Approving the Contract Between
+- for Construction of the Red Dolly Casino Electrical Service Relocation Project
+- install cornrnercial service lines. He said six bids were received, with
+- Local Electric being the low bid. Xcel will begin construction in two
+- Johnson to approve Resolution 39-2026, a Resolution awarding the Bid
+- and approving the contract between the City of Black Hawk and Local
+- the Red Dolly Casino Electrical Service Relocation project
+- D. Resolution 40-2026, A Resolution Awarding the Bid and Approving the Contract Behveen
+- Storage Sheds Project
+- better. He said eight bids were received, with Maverick Construction
+- being the lowest bid. They anticipate being completed by the end of
+- to approve Resolution 40-2026, a Resolution awarding the Bid and
+- approving the contract between the City of Black Hawk and Maverick
+- E. Resolution 41-2026, A Resolution Approving the Contract to Buy and Sell Real Estate
+- City Manager Hillis introduced this purchase of land on Gregory Hill that
+- to approve Resolution 41-2026, a Resolution approving the Contract to
+
+## [black-hawk#17] 2026-07-08 | Mayor and City Council | minutes
+- New Police Chief Ely Reyes rang the bell to open the meeting
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes,
+- Commander Jantz, Fire Chief Woolley, Fire Marshal Walsh, Fire Shift
+- Development Director Svoboda, Development Services Coordinator
+- Richards, Public Works Director Isbester, City Engineer Reed, Water
+- Resource Engineer Dallam, Water System Superintendent McLain,
+- & Marketing Manager Ryan, team members from Police, and Deputy
+- INTRODUCTION: Ely Reyes, Police Chief
+- Chris Lovato, Fire Fighter
+- City Manager Hillis introduced the City's new Police Chief, Ely Reyes,
+- who comes from Cedar Hill, Texas, as the Police Chief, and has over 20
+- years with the Austin Police Department. He brings a wealth of
+- five years. He plans to close on a house on Chase Street on Friday!
+- Fire Chief Woolley introduced the City's newest firefighter, Chris
+- Lovato, who comes from the Timberline Fire Protection District and
+- 7. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 8. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9. PUBLIC HEARINGS:
+- A. Resolution 42-2026, A Resolution Approving an Agreement with Insituform Technologies
+- dba C & L Water Solutions for the Repair of Two Storm Culverts Under Highway 119 in
+- opened up in the middle of Hwy 119 at Gregory Street due to a failed
+- identified for repairs. This new technology allows culverts to be relined
+- Bennett to approve Resolution 42-2026, a Resolution approving an
+- agreement with Insituform Technologies dba C & L Water Solutions for
+- the repair of two storm culverts under Highway 119 in the amount not to
+- B. Resolution 43-2026, A Resolution Authorizing the Mayor to Execute a Quitclaim Deed on
+- the 8'h Amendment of the Service Plan of the Silver Dollar Metropolitan
+- District, this is the mechanism to add new members, and at the request of
+- the District, this Resolution authorizes Francesca Hocker to be the newest
+- to approve Resolution 43-2026, a Resolution authorizing the Mayor to
+- REPORT: City Manager Hillis reported, after consulting with the Fire Chief, that
+- he had issued an administrative order imposing fire restrictions to be
+
+## [black-hawk#18] 2026-07-22 | Mayor and City Council | minutes
+- Newest Police Officer Tom Ellison rang the bell to open the meeting
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes, Fire
+- Chief Woolley, Fire Marshal Walsh, Acting Finance Director Parsons,
+- Planning & Development Director Svoboda, Development Services
+- Coordinator Richards, Public Works Director Isbester, Water Resource
+- from Police, and Deputy City Clerk Martin
+- INTRODUCTION: Tom Ellison, Police Officer
+- Police Chief Reyes introduced Officer Ellison, a Colorado native, who
+- 7. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 8. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9. PUBLIC HEARINGS:
+- A. Resolution 44-2026, A Resolution Accepting the Conveyance of Property from Young
+- to approve Resolution 44-2026, a Resolution accepting the conveyance
+- B. Resolution 45-2026, A Resolution Approving a Trademark License Agreement with the
+- City Manager Hillis introduced this license agreement for the use of the
+- to approve Resolution 45-2026, a Resolution approving a Trademark
+- License Agreement with the Rick Thomas Distillery, LLC
+- C. Resolution 46-2026, A Resolution Extending the Waiver of Water Fees for One Additional
+- Year forthe Rick Thomas Distillery Located on Lot 7 of the Black Hawk Park Subdivision
+- of Council agreed it was very worthwhile to approve
+- Midcap to approve Resolution 46-2026, a Resolution extending the
+- waiver of water fees for one additional year for the Rick Thomas
+- Distillery located on Lot 7 of the Black Hawk Park Subdivision
+- There was no discussion, and the motion PASSED unanimously
+- City Manager Hillis said the Fire Department has some old bunker gear
+- that they would like to donate to the Division of Fire Safety, which will
+
+## [black-hawk#19] 2026-08-12 | Mayor and City Council | minutes
 - Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes,
 - Police Commander Jantz, Fire Chief Woolley, Fire Marshal Walsh,
 - Clerk Greiner, Community Planning & Development Director Svoboda,
@@ -43,7 +507,7 @@
 - Central City has a permitting process for its roadways, but has no idea
 - what traffic study they did to support its ordinance. The City is doing its
 
-## [black-hawk#1] 2026-08-26 | Mayor and City Council | minutes
+## [black-hawk#20] 2026-08-26 | Mayor and City Council | minutes
 - Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes, Fire
 - Chief Woolley, Fire Marshal Walsh, Acting Finance Director Parsons,
 - Planning & Development Director Svoboda, City Engineer Reed, Water
@@ -87,7 +551,7 @@
 - Bennett to approve Resolution 50-2026, a Resolution accepting the City
 - 16, 2026, and Resolution 51-2026, a Resolution accepting the City of
 
-## [black-hawk#2] 2026-09-09 | Mayor and City Council | minutes
+## [black-hawk#21] 2026-09-09 | Mayor and City Council | minutes
 - Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Commander
 - Jantz, Fire Chief Woolley, Fire Marshal Walsh, Acting Finance Director
 - Community Planning & Development Director Svoboda, Development

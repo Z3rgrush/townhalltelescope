@@ -1,69 +1,103 @@
-- title: County Road 39 paving project
-  summary: Contractor Simon Construction is paving County Road 39. Paving is complete from County Road G to County Road M, and crews will grind from Highway 59 to County Road G and inspect the subgrade before paving there. The road will be striped when work is finished.
-  where: County Road 39, from Highway 59 to County Road M
+- title: Moratorium on data centers through 2026
+  summary: On March 17, 2026 the commissioners approved a resolution placing a moratorium on data centers in the county until 12/31/2026, along with a companion resolution adopting rules. The documents give no further detail on the rules.
+  where: Countywide
+  refs:
+  - 9
+  topics:
+  - Data centers
+  - Zoning & development
+  tags:
+  - data-center
+- title: County Road 39 repaving project
+  summary: The commissioners approved Simon Construction's proposal for repairs on County Road 39 in March. Work was expected to start in late July 2026; by mid-August paving was done from County Road G to M, with grinding next from Highway 59 to County Road G.
+  where: County Road 39
   refs:
   - 0
-  - 1
-  topics:
-  - Roads & traffic
-- title: County Road M asphalt repair bid ($410,050)
-  summary: Commissioners approved an estimate from Simon Construction for removing and replacing asphalt on County Road M at a cost of $410,050.
-  where: County Road M
-  refs:
-  - 1
+  - 9
+  - 13
+  - 14
+  - 15
   topics:
   - Roads & traffic
   - Budget & taxes
-- title: Road and Bridge staffing shortage and blade coverage
-  summary: With the department short-staffed, each blade operator covers a larger area, so roads may be bladed more slowly. Officials discussed keeping more spare blades available and adding blade operator positions to the 2027 budget. The county is still recruiting a blade operator and maintenance staff. Commissioners approved salary authorizations for several positions, including blade operators at $21.00 and $20.04 an hour and a truck supervisor at $25.84 an hour.
-  where: Countywide
+- title: County Road M railroad approach and asphalt repairs
+  summary: Repairs on County Road M near the BNSF railroad crossing were delayed while the county sorted out flagger costs and permits, and were tied to the County Road 39 work to avoid doing it twice. In August the commissioners approved a $410,050 Simon Construction estimate to remove and replace asphalt on County Road M.
+  where: County Road M near the BNSF tracks
   refs:
   - 0
   - 1
+  - 8
+  - 9
+  - 15
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+- title: December 2025 windstorm and wildfires
+  summary: After a severe windstorm with 60-70 mph gusts and fires that burned over 14,000 acres, the commissioners declared a local disaster emergency on Dec. 19, 2025. Road crews logged overtime fighting the fires, DOLA matching grants for Eckley's generator were discussed, and crews have been clearing blown sand from roads in the burn scar.
+  where: Countywide, burn scar area and Town of Eckley
+  refs:
+  - 2
+  - 3
+  - 5
+  - 15
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Roads & traffic
+- title: Road and Bridge staffing, supervisor hire and blade coverage
+  summary: The county interviewed for a new Road and Bridge Supervisor and offered the job to David Lee at $76,000 a year. The department is short-staffed, so blade operators cover larger areas and roads may be bladed more slowly. Commissioners discussed adding blade operator positions to the 2027 budget and approved several salary authorizations.
+  where: Countywide
+  refs:
+  - 10
+  - 11
+  - 13
+  - 14
+  - 15
   topics:
   - Government operations
   - Roads & traffic
   - Budget & taxes
-- title: South Spur Solar Project and road repair
-  summary: The Road and Bridge supervisor said the South Spur Solar Project will start in early 2027. He plans to work with the company so county roads are restored to their original quality afterward.
+- title: Expedited review for affordable housing projects
+  summary: The commissioners approved Resolution 11-25-2025D establishing expedited review policies for affordable housing projects. Land use code updates and a fire resilience code were also discussed.
   where: Countywide
   refs:
   - 0
   topics:
-  - Energy
-  - Roads & traffic
-- title: Wildfire, drought and fire safety response
-  summary: Officials discussed fire safety concerns, weather and drought conditions. Crews are removing sand that blew onto County Road 29 after the wildfires. The county is building a fire map and is waiting on FEMA approval of its Hazard Mitigation Plan.
-  where: Countywide, including County Road 29
-  refs:
-  - 1
-  topics:
-  - Fire & emergencies
-  - Environment & climate
-- title: Rain damage repairs in southern county
-  summary: Crews are continuing to repair roads damaged by rainstorms in the southern part of the county. Other work includes topcoating roads, pulling ditches, and rebuilding County Road 52 between County Roads J and K.
-  where: Southern Yuma County; County Road 52
-  refs:
-  - 0
-  - 1
-  topics:
-  - Roads & traffic
-  - Fire & emergencies
-- title: Utility permits and exposed fiber on county roads
-  summary: A Viaero underground utility permit had to be moved to the south side of County Road 38. Crews found exposed fiber along County Road 18 and requested a utility locate so they can cover it safely.
-  where: County Roads 38 and 18
-  refs:
-  - 0
-  - 1
-  topics:
-  - Utilities
-  - Broadband
-  - Roads & traffic
-- title: Delinquent tax liens and tax collection
-  summary: The county has collected 95% of its tax revenue. Of 348 tax liens, 140 are eligible for deed applications, and another 59 mineral liens become eligible this year and must be researched back to original land patents.
+  - Housing
+  - Zoning & development
+- title: 2026 budget hearing and revised mill levy certification
+  summary: The commissioners held a public hearing in December 2025 on 2026 budgets for the county, landfill and Water Authority. After the Assessor's Office notified local governments of a required change in January, the board approved a revised Certification of Mill Levies and Revenue for tax year 2025 and budget year 2026.
   where: Countywide
   refs:
   - 1
+  - 4
   topics:
   - Budget & taxes
+  public_comment: true
+- title: South Spur Solar Project and utility permits
+  summary: The South Spur Solar Project is expected to begin in early 2027, and the Road and Bridge supervisor plans to work with the company so county roads are restored afterward. A Viaero underground utility permit was moved to the south side of County Road 38, and exposed fiber on County Road 18 needed a utility locate.
+  where: County Roads 38 and 18; South Spur Solar site
+  refs:
+  - 14
+  - 15
+  topics:
+  - Energy
+  - Utilities
+  - Roads & traffic
+- title: Sale of the Idalia House
+  summary: The county approved a listing contract for the Idalia House in December 2025. In February 2026 an inspection found the water heater only needed lighting, and the board took $2,500 off the purchase price.
+  where: Idalia House, Idalia
+  refs:
+  - 1
+  - 7
+  topics:
+  - Land & property
+- title: Dreher Pit and gravel supply
+  summary: Staff contacted the Dreher Pit landowners again about the county's gravel supply, and the board approved purchasing a Grizzly rock screen because the current screen is wearing out. A mining reclamation form was also sent to the state.
+  where: Dreher Pit
+  refs:
+  - 13
+  - 14
+  topics:
+  - Oil, gas & mining
   - Land & property

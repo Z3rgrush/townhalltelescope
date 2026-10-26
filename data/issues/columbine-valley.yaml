@@ -1,65 +1,110 @@
-- title: 2027 Town Budget
-  summary: Staff presented a first draft of the 2027 budget with several special projects in September and a second draft in October. A public hearing on the budget is set for November, and the Trustees gave no direction on the first draft. A long-range financial forecast was also presented in August.
+- title: E-bike and e-scooter ordinance
+  summary: Trustees raised concerns about electric bikes in January, and in April the police chief described the current approach to e-bikes and e-scooters. The Board directed staff to draft an ordinance. A resident spoke in support in June, and the mayor later reported positive support for it.
   where: Townwide
   refs:
-  - 0
-  - 1
   - 2
-  - 3
+  - 5
+  - 7
+  - 8
+  - 9
   topics:
-  - Budget & taxes
-- title: Annexation of 8 Hunter Run
-  summary: 'The Trustees unanimously approved Resolution #14 on the annexation of 8 Hunter Run in August. Trustee Bill #11 on the annexation then went to a public hearing on the October 20 agenda.'
-  where: 8 Hunter Run
+  - Roads & traffic
+  - Policing & public safety
+  public_comment: true
+- title: Platte Canyon Road sidewalk project
+  summary: The Board approved extra spending on the sidewalk in June. In August a required design change was discussed and the Trustees directed staff to proceed. In September staff said the sidewalk would not proceed because the design had changed too much.
+  where: Platte Canyon Road
   refs:
-  - 0
-  - 2
-  - 3
-  topics:
-  - Annexation
-- title: Housing Needs Assessment
-  summary: The town is running a community survey for its Housing Needs Assessment, and staff expects responses to exceed the 20% target. A first draft of the assessment was scheduled for presentation on October 20, with a related public hearing to be set.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  - 2
-  - 3
-  topics:
-  - Housing
-- title: Platte Canyon sidewalk dropped after design change
-  summary: In August the Trustees directed staff to proceed after a required design change to the Platte Canyon sidewalk. In September staff said the sidewalk would not proceed because the design had changed too much.
-  where: Platte Canyon
-  refs:
-  - 0
-  - 1
-  - 3
+  - 7
+  - 9
+  - 10
   topics:
   - Roads & traffic
   - Recreation & trails
-- title: Jake Brake ordinance
-  summary: 'The Trustees unanimously approved Trustee Bill #8 on second reading in August. It is an ordinance on engine compression (Jake) brakes.'
+- title: 2027 Town Budget
+  summary: Staff presented a first draft of the 2027 budget in September, including several special projects and initiatives. A second draft and a required public hearing were scheduled for the October and November meetings. A long-range financial forecast was also presented in August.
   where: Townwide
   refs:
-  - 0
+  - 9
+  - 10
+  - 11
+  - 12
+  topics:
+  - Budget & taxes
+- title: Housing Needs Assessment
+  summary: The town is conducting a Housing Needs Assessment. A community survey is underway and staff expects the response to exceed the 20% target. A first draft was scheduled for the October 20 meeting.
+  where: Townwide
+  refs:
+  - 9
+  - 10
+  - 11
+  topics:
+  - Housing
+  - Zoning & development
+- title: Annexation of 8 Hunter Run
+  summary: 'The Board approved Resolution #14 in August concerning the annexation of 8 Hunter Run. Trustee Bill #11 on the annexation was set for a public hearing on October 20. Earlier, the town had also discussed an HOA about annexing into the town.'
+  where: 8 Hunter Run
+  refs:
+  - 6
+  - 9
+  - 11
+  topics:
+  - Annexation
+  - Land & property
+- title: Pickleball noise and Columbine Country Club development
+  summary: A resident at 7 Fairway raised concerns about pickleball noise and asked the Trustees to act before future development of the Columbine Country Club Villas. Pickleball discussions came up again in May.
+  where: Columbine Country Club area, Fairway
+  refs:
+  - 3
+  - 4
+  - 6
+  topics:
+  - Recreation & trails
+  - Zoning & development
+  public_comment: true
+- title: Fee schedule and permit fees
+  summary: 'The Board approved Resolution #13 in August adopting a town-wide fee schedule. Trustee Bill #9 on permit fees was on the October 20 agenda.'
+  where: Townwide
+  refs:
+  - 9
+  - 11
+  topics:
+  - Fees & rates
+- title: Jake brake ordinance
+  summary: 'Trustee Bill #8 on engine compression (Jake) brakes passed first reading in July and second reading in August.'
+  where: Townwide
+  refs:
+  - 8
+  - 9
   topics:
   - Roads & traffic
-- title: Land use and zoning updates and permit fees
-  summary: 'Trustee Bill #10 on land use and zoning updates had a public hearing to be set for November. Trustee Bill #9 on permit fees was also on the October 20 agenda. The Trustees also approved a town-wide fee schedule, Resolution #13, in August.'
+- title: Smoking and vaping ban in Town Park
+  summary: 'Trustee Bill #4 prohibiting smoking and vaping in the Town Park passed first reading in March and second reading in April.'
+  where: Town Park
+  refs:
+  - 4
+  - 5
+  topics:
+  - Parks & open space
+  - Health & human services
+- title: Building and fire code updates
+  summary: 'The Board adopted updated building codes in November 2025 and the 2024 Fire Code in June 2026 after a public hearing. A Building Commissioner ordinance was tabled indefinitely in March. Land use and zoning updates (Trustee Bill #10) were set for a November hearing.'
   where: Townwide
   refs:
   - 0
-  - 2
   - 3
+  - 4
+  - 6
+  - 7
+  - 11
   topics:
   - Zoning & development
-  - Fees & rates
-- title: Planning and Zoning vacancies and salary survey
-  summary: The mayor said the town has vacancies on the Planning and Zoning Commission and is seeking applicants. A town salary survey is also underway.
-  where: Townwide
+  - Fire & emergencies
+- title: Graffiti in Platte Canyon Road culvert
+  summary: The Town took steps to mitigate graffiti in a culvert under Platte Canyon Road, and updates continued into April.
+  where: Platte Canyon Road culvert
   refs:
-  - 1
-  - 3
+  - 4
+  - 5
   topics:
-  - Government operations
-  - Zoning & development
+  - Policing & public safety

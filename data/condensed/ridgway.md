@@ -1,6 +1,411 @@
 # ridgway
 
-## [ridgway#0] 2026-08-12 | City Council | minutes
+## [ridgway#0] 2025-11-12 | City Council | minutes
+- Presentation and direction on the Draft 2026 Fiscal Year Budget and Five- and Ten-Year Capital
+- Improvement Plans
+- The Town Manager presented an overview of the budget adoption process; financial overview of
+- the draft budget; operational reserves; personnel and pay movements; revenue projections and
+- trends and project lists
+- The Town Clerk/Treasurer reviewed the draft budget document with the Council; presented line
+- item location of expenditures; presented and reviewed the five and ten year capital improvement
+- Manager Neill noted sales tax has decreased 22.64% from 2024 actual receipts; personnel is
+- 36.7% of the total budget in 2026; pay movements are proposed at 2.4% and the total expenditure
+- is lower than in the 2025 adopted budget
+- The Council requested additional expenditures to the general fund and a change to the ten year
+- capital improvement plan
+- The Town Attorney requested the Council enter into a closed session for the purpose of receiving
+- developing strategy for negotiations, and/or instructing negotiators, under C.R.S. Section 24 -6
+- 3. Minutes of Budget Workshop and Special Meeting of October 4, 2025
+- unanimously to approve the consent agenda
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 6. Presentation of annual report from the Ridgway Community Garden
+- and displayed a PowerPoint presentation. She noted next year will the eighth year of
+- operating in Green Street Park under a Town lease. She explained the year “focused on
+- Bank, Ridgway Library and Ridgway Apiary. Infrastructure projects for the year includ ed
+- 7. Interviews of Youth Advisory Council candidates and appointment of members
+- Staff Report dated 11-3-25 from the Town Manager presenting five applications received to
+- Councilor Kroger moved to appoint all five members to the Youth Advisory Council . Mayor Pro
+- 8. Annual presentation from EcoAction Partners regarding programs, projects and initiatives
+- Emma Gerona, Executive Director and Siobhan Montoya Lavender, Development Director
+- with EcoAction Partners, displayed a PowerPoint presentation of an Annual Program Update
+- The presentation includ ed the mission of EcoAction Partners and regional collaboration;
+- Miguel Counties; programming; Sneffels Energy Board and the workplan and priorities for
+- Program; regional grants; energy workforce development; regional community values
+- 9. Annual presentation from San Miguel Power Association regarding programs, projects and
+- Alex Shelley with San Miguel Power Association , displayed a PowerPoint presentation
+- ten year average annual growth rate comparison; 2026 rate outlooks; new programs
+
+## [ridgway#1] 2025-12-03 | City Council | minutes
+- MINUTES OF BUDGET WORKSHOP MEETING
+- 1. Citizen proposal for budget consideration
+- Tia Mihelarakis presented a PowerPoint presentation entitled “Keep Ridgway Creative”
+- providing a solution, prese nting examples, notes on urgency and a plan of action. She
+- She noted that “many locals are facing challenges due to high housing costs; reduction in
+- tourism; lack of studio space; “corporate overshadowing” and “creative theft”; threat of
+- artificial intelligence “devaluing human artistic skills”. The solution “basic income for
+- and noted a number of Values within the Town Master Plan would b e met by “allowing
+- There were comments by the Council and discussion with Ms. Mihelarakis
+- 2. Overview of budget adoption process
+- The Town Manager presented an overview of the budget adoption process; financial
+- overview of the draft budget; operational reserves; personnel and pay movements; revenue
+- projections and trends in 2026 including a proposed decrease in sales tax receipts
+- 3. Review of draft 2026 Fiscal Year Budget and Five- and Ten-Year Capital Improvement
+- The Town Clerk/Treasurer reviewed the draft budget document with the Council; presented
+- improvement plans
+- The Council requested a change to the general fund budget
+- employee housing instead of short term housing. There was discussion with the Council
+- 4. Community Grant Program recommendation of awards
+- The Town Manager explained the second annual community grant program received 20
+- funding requests before the September 22nd deadline, totaling $117,385. At the October 1st
+- requests, and the Manager presented the recommendations totaling $98,205
+- 5. Draft Strategic Plan
+- The Town Manager presented the draft 2026 Strategic Plan noting it is the work plan for
+
+## [ridgway#2] 2025-12-10 | City Council | minutes
+- pertaining to discussions with MTN Lodge regarding blocking off rooms for use by workers at the
+- Four Seasons Resort in Mountain Village. He noted staff is still continuing discussions and a
+- 3. Water leak adjustment for Account# 2410.2/Minnick
+- 7. Water leak adjustment for Account# 2490/Linscott
+- unanimously to approve the consent agenda
+- PUBLIC COMMENTS
+- Carolyn Dressler explained a project she is presenting to all the governing boards in the
+- will take effect January of 2027, and asked the Town to consider adopting a similar ban
+- PUBLIC REQUESTS AND PRESENTATIONS
+- Andrew Michaelson with Artspace Project introduced his colleagues from Asset Living who
+- look into the project
+- housing units are currently vacant
+- certification, and the prior management “fell behind” which created over lapses in the process
+- trigger a new certification process.”
+- She noted the on-going request to professionally clean carpets in stairwells, still has not been
+- PUBLIC HEARINGS
+- 9. Application for Restaurant Liquor License from Maven Restaurant Group LLC; Members:
+- 540 Clinton Street
+- Staff Report from the Town Clerk dated 11 -10-25 presenting an application for a restaurant
+- liquor license for the building at 540 Clinton Street
+- The Town Clerk presented an application from Maven Restaurant Group LLC for issuance of
+- Street. She noted the licensed premises would also include a garden, patio area to the east
+- Councilor Schuyler moved, with a second by Mayor Pro Tem Lakin, to approve the application
+- 10. Adoption of the 2026 Fiscal Year Budget and setting of Property Tax Levies for 2026
+- through adoption of Resolution No. 25-11, Resolution No. 15-12 and Resolution No. 25-13
+- Staff Report from the Town Clerk dated 11-10-25 presenting the 2026 Fiscal Year Budget
+- The Town Clerk reported after numerous meetings, workshops and a retreat to discuss items
+- to be included in the 2026 Fiscal Budget, three resolutions were being presented to adopt
+- the budget and also set the property tax levy for 2026
+- Councilmember Schuyler moved to adopt Resolution No. 25-11 Adopting A Budget For The
+- Councilmember Schuyler moved, with a second by Councilor Grambley to adopt Resolution No
+- 25-12 Approving Sums Of Money To The Various Funds In The Amount And For The Purpose
+- As Set Forth Below For The 2026 Budget Yea r, on a call for the vote the motion carried
+- 11. Ordinance No. 04-2025 Amending Chapter 15 of the Ridgway Municipal Code Concerning
+- Staff Report from the Town Manager dated 12-5-25 presenting an ordinance pertaining to
+- Manager Neill presented for second reading and adoption, an ordinance to mitigate idling of
+
+## [ridgway#3] 2026-01-14 | City Council | minutes
+- 1. Minutes of Budget Workshop held on December 3, 2025
+- 3. Minutes of the Workforce Housing Committee from December 10, 2025
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 7. Quarterly Report from Home Trust of Ouray County Housing Services Director
+- Eva Henson, Housing Services Director with the Home Trust of Ouray County introduced
+- herself as the new Affordable Housing Services Administrator for the Town, City and County;
+- and presented a fourth quarter update for 2025, and the 2026 work plan for the county-wide
+- Housing Services Program
+- by an Intergovernmental Agreement, partially funded through a Local Planning Capacity
+- Grant, for the three governmental entities within Ouray County to meet the Colorado
+- Proposition 123 Affordable Housing Commitments. She noted the governmental partners
+- agreed to housing services including intergovernmental liaison and stakeholder collaboration;
+- restriction management, compliance and administration; program development and
+- administration; and resident support services. She reported the 2026 Annual Work Plan is
+- organized around primary areas of the Housing Services Director role, and presented
+- sections of the plan, deliverables and timelines
+- The Town Manager thanked Jim Kolnik with Impact Development Services, for serving in the
+- capacity of Housing Administrator over the past few years
+- the Local Impact Accelerator grant if awarded; encourage new construction to be all-electric;
+- sustainability issues; encourage residential composting; encourage landscape water
+- PUBLIC HEARINGS
+- 10. Application for Tavern Liquor License for Colorado Girl Coffee
+- Staff Report dated 12-9-25 from the Town Clerk presenting an application for a Tavern Liquor
+- License from Colorado Girl Coffee
+- The Town Clerk explained an application has been filed for a Tavern Liquor License from
+- Colorado Girl Coffee LLC; member and sole owner Matthew Beyer; doing business as
+- Colorado Girl Coffee; for the leased premises at 620 Clinton Street . She noted approval
+- alcohol. Issuance of a revocable encroachment permit to place tables on the sidewalk will
+- requested to use during special events and when dinners are served
+- commercial kitchen; and noted she lives across the street from the building and is concerned
+- take the other licensed facilities into consideration, the decision must be made on this specific
+- Councilor Kroger moved, with a second by Councilor Grambley, to table the application for a
+- tavern liquor license for the Colorado Girl Coffee until the February meeting . On a call for the
+- 11. Issuance of Revocable Encroachment Permit to Colorado Girl Coffee to serve food and
+
+## [ridgway#4] 2026-01-26 | City Council | minutes
+- Street, Ridgway, Colorado. The Council was present in its entirety with Councilors Grambley,
+- The Town Manager requested to add to the agenda a conference with the Town Attorney for the
+- 1. Update on the Beaver Creek Diversion Restoration Project and addendum to Professional
+- Services Agreement with RESPEC Company
+- Creek Diversion Restoration Project , and consideration of amending the Professional
+- Services Agreement with RESPEC Company LLC
+- Manager Neill displayed a PowerPoint Presentation with slides on the progress of the Beaver
+- Creek Diversion Project. He reported Meridian Construction demobilized from the site in
+- project and remove the installation of the infiltration gallery from the scope of work , and
+- was designed to be located upstream of the coanda screen. After observations on the project
+- was well above the price submitted for placement upstream , with little justification for the
+- hire a contractor to perform the installation after completion of work by Meridian. This
+- a more detailed design , which will require an amendment to the agreement for services
+- returning to the project site in the spring’ and estimate redesign of the infiltration gallery and
+- contract value. He stated the Council is being asked to increase the contract value of the
+- Professional Services Agreement with RESPEC to $657,312
+- Manager Neill reviewed the financing mechanisms being used for the project. A grant award
+- from the Natural Resources Conservation Services (NRCS) Emergency Watershed
+- expenses. On January 14th an additional $367,892.99 was granted for technical assistance,
+- now bringing the total to $792,892. Additionally a grant was secured from the Colorado
+- was a loan from the Colorado Water Conservation Board (CWCB) not to exceed $8,080,000
+- for project costs and a one percent service fee. He reviewed to date projected expenditures,
+- and noted the total project cost should be close to $4,000,0000
+- has the potential of gathering more water when flow rates are seasonally low
+- project was more challenging than anticipated, and subsequently there were over runs in the
+- contract due to necessary daily construction observations. He noted these amounts are over
+- the contractual agreement and the Town is not obligated to pay them. This amount is
+- Councilmember Schuyler moved to approve the Addendum to the Professional Services
+- Agreement between the Town and RESPEC as presented . Councilor Grambley seconded and
+- to complete a redesign of the infiltration gallery and to prepare bid documents for solicitation of a
+- contractor to complete the scope of work. On a call for the vote, the motion carried unanimously
+
+## [ridgway#5] 2026-02-11 | City Council | minutes
+- 2. Minutes of the Workforce Housing Committee from January 14, 2026
+- unanimously to approve the consent agenda
+- PUBLIC COMMENTS
+- items the County, City of Ouray and Town will be participating in. Renewal of the contract
+- inconsiderate of other s opinions, and he would like to help to harbor “calm, respectful
+- environments where citizens can feel safe to speak and build community through
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 5. Request for Letter of Support for enrollment in AARP Livable Communities Program
+- letter of support for the membership and requested Council endorsement. The letter states
+- Councilmember Scoville moved to approve the letter of support for Ridgway Ouray Community
+- PUBLIC HEARINGS
+- 6. Application for Tavern Liquor License for Colorado Girl Coffee
+- Staff Report dated 12-9-25 from the Town Clerk presenting an application for a Tavern Liquor
+- License from Colorado Girl Coffee
+- The Town Clerk explained an application has been filed for a Tavern Liquor License from
+- Colorado Girl Coffee LLC; member and sole owner Matthew Beyer; doing business as
+- Colorado Girl Coffee; for the leased premises at 620 Clinton Street . She noted approval
+- Councilor Schuyler moved, with a second by Mayor Pro Tem Lakin, to approve the application for
+- a Tavern Liquor License for Colorado Girl Coffee LLC, Member Matthew Beyer, doing business
+- as Colorado Girl Coffee at 620 Clinton Street . On a call for the vote the motion carried
+- 7. Issuance of Revocable Encroachment Permit to Colorado Girl Coffee to serve food and
+- The Town Clerk presented a revocable encroachment permit for Colorado Girl Coffee to
+- Clinton Street. She noted issuance of a revocable encroachment permit would be required
+- for the approved liquor license application , to license sidewalk service with the state liquor
+- There were comments by the Council, and discussion between the Council and applicant
+- Mayor Pro Tem Lakin moved to approve the revocable permit to Colorado Girl Coffee to serve
+- 8. Memorandum of Understanding with the Telluride Foundation to Collaborate on a Down
+- Town Manager Preston Neill explained during budget discussions the Council directed staff
+- to work with the Telluride Foundation pertaining to a request to participate in a down payment
+- collaborate on a down payment assistance program. The motion carried unanimously
+- 9. Agreement for Visitor and Business Engagement Services
+- Staff Report dated 2-11-26 from the Community Initiatives Facilitator presenting a request for
+- The Town Manager explained requests for proposals were solicited in December of 2025 for
+
+## [ridgway#6] 2026-03-11 | City Council | agenda
+- public may attend in person at the Community Center, located at 201 N. Railroad Street, Ridgway,
+- considered to be routine by the Town Council and enacted by one motion. The Council has
+- received and considered reports and recommendations prior to assigning consent calendar
+- public. There will be no separate discussion on these items. If discussion is requested, that item
+- will be removed from the consent calendar and considered separately
+- PUBLIC COMMENTS Established time for the public to address the Council regarding any item
+- PUBLIC REQUESTS AND PRESENTATIONS Public comments will be limited to 5 minutes per
+- person; discussion of each item may be limited to 20 minutes
+- 9. Presentation from Black Hills Energy on electrification survey results - Jason Auslander, Black
+- 10. Request for approval to hold the Ouray County Baseball Fun on the Field Night fundraising
+- event in the Athletic Park on June 12, 2026 - Marissa Mathis
+- PUBLIC HEARINGS Public comments will be limited to 5 minutes per person; overall discussion of
+- 11. Application: Amended Plat of Lot 2A, Northridge Subdivision; Location: Lot 2A, Northridge
+- POLICY MATTERS Public comments will be limited to 5 minutes per person; overall discussion of
+- 12. Notice of Award for the 2026 Housing Action Plan Project - Senior Planner
+- 13. Review and action on proposed use for $50,000 in Local Planning Capacity Incentive Funding
+- from the Colorado Department of Local Affairs - Eva Henson, Housing Services Director
+- 15. Request for authorization of staff to expend budgeted funds and enter into a contract to
+- purchase one patrol vehicle for the Ridgway Marshal’s Office - Town Manager
+- 16. Ratification of letter of support for Uncompahgre Watershed Partnership’s Colorado Healthy
+- Rivers Fund grant application - Mayor Clark
+- meeting updating Council on various matters that may or may not warrant discussion and action
+- Ridgway Parks, Trails & Open Space Committee - Councilor Kroger
+- Board Appointments:
+- Ouray County Water Users Association - Mayor Pro Tem Lakin; alternate - Councilor
+- Water and Land Committee for the Uncompahgre Valley - Councilor Montague; alternate
+- Clerk’s Office, 201 N. Railroad Street, Ridgway, Colorado
+- 2. Minutes of the Workforce Housing Committee from January 14, 2026
+- unanimously to approve the consent agenda
+- PUBLIC COMMENTS
+- items the County, City of Ouray and Town will be participating in. Renewal of the contract
+- inconsiderate of other s opinions, and he would like to help to harbor “calm, respectful
+- environments where citizens can feel safe to speak and build community through
+
+## [ridgway#7] 2026-03-25 | City Council | minutes
+- The Mayor called the meeting to order at 6:00 p.m. in the Community Center, 201 N. Railroad
+- Street, Ridgway, Colorado. The Council was present in its entirety with Councilors Grambley,
+- 1. Consideration of action to file a Complaint for Declaratory and Injunctive Relief against
+- There were comments by the Council and discussion ensued pertaining to filing a legal
+- importance of defending the land use code, not setting a precedence and payment of taxes
+
+## [ridgway#8] 2026-04-08 | City Council | minutes
+- to remove approval of the liquor license for Colorado Boy Depot from the consent agenda
+- There were questions to staff, and Council discussed renewal of the Brew Pub Liquor License
+- Mayor Pro Tem Lakin moved to approve the renewal of the liquor license for Colorado Boy Depot
+- PUBLIC COMMENTS
+- when students will share creative projects and business ideas
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 7. Request for use of public rights-of-ways for annual La Fete de la Musique and Rally Thru
+- Mary Menz, Special Projects Coordinator for the Sherbino/Weehawken non-profits presented
+- There were questions from the Council. The Town Clerk noted the request is for use of rights
+- Councilmember Montague moved to approve the request to use public rights -of-ways for the
+- 8. Request for use of public rights-of-ways for the 2026 San Juan Gravel Classic fund raiser for
+- road cycling will be held on July 25 th with two different biking routes, one 22 miles and the
+- other 44 miles, and will culminate with food and music in Hartwell Park. He requested use
+- of Town roads to provide access to County Roads 5 and 24 for the rides
+- approve the OAK special event request
+- 9. Quarterly Report from Regional Housing Services Director
+- Regional Housing Services Director , Eva Henson, presented a written report outlining
+- the housing services requirements , including intergovernmental liaison and stakeholder
+- support services; program development and administration; deed restriction management
+- and compliance. She presented slides and graphs of existing inventory of affordable housing
+- system. Upgrades to t he track field area at the secondary campus are being considered,
+- boulders to provide a more “park like feel”
+- 11. Introduction of Ordinance No. 03-2026 Amending Chapter 6 of the Municipal Code to Update
+- Staff Report dated 4/3/26 from Senior Planner Angie Kemp presenting Ordinance No. 03
+- Code; 2025 Colorado Wildfire Resiliency Code. A number of meetings, work sessions, forums
+- The Planner reported the State has adopted the Colorado Wildfire Resiliency Code which
+- life, property protection and reducing the potential spread of fire. The code applies to areas
+- classified as ‘Moderate Intensity’
+- twenty five of the twenty six amendments presented by staff be forwarded to the Town
+- Council. Staff has prepared an ordinance which adopts the codes by reference
+- Mayor Pro Tem Lakin moved to introduce Ordinance No. 03- 2026 Amending Chapter 6 of the
+- Energy Carbon Code, the 2025 Colorado Wildfire Resiliency Code, and Certain 2024 International
+- Council Code Books and Amendments Thereto. Councilmember Montague seconded the motion
+
+## [ridgway#9] 2026-05-13 | City Council | minutes
+- PUBLIC COMMENTS
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 3. Annual presentation from the Youth Advisory Council
+- Manager Preston Neill offered a PowerPoint presentation for the Youth Advisory Council
+- capstone projects and experiences for school year 2025 -2026. Members of the Youth
+- Mahlin presented the capstone project w hich will be reviving the free movie nights on the
+- stage in Hartwell Park by providing movies for “all age groups” and obtaining sponsors to
+- “marketing plan for the movie nights”
+- The Town Manager reported all the members would like to be reappointed to the Youth
+- Council for next school year and the Council agreed to the appointments. He commended
+- Sveri May project coordinator for the Ouray County PeaceJam Program presented the non
+- 5. Request to hold Ridgway Rocks music festival in Hartwell Park on July 4th and 25th
+- the stage in Hartwell Park on the evenings of July 4 th and 25th from 6:00 p.m. to 10:00 p.m
+- 6. Request to close Clinton Street between N. Lena and Laura Streets between 5:30 a.m. and
+- requesting to close Clinton Street between N. Lena and Laura Streets on June 28th between
+- There was discussion and comments and concerns expressed by the Council. Consensus
+- notify all residents, business owners, and the property manager of the Space to Create
+- building that parking will not be allowed on the street during the time frame of the filming, and
+- vehicles will need to be removed prior to the event; a no -parking time frame between 11:30
+- applicant is responsible to place signage stating the no parking time frame; the Town will not
+- tow any cars due to this request for street closure; parking will be allowed on Laura, Cora
+- and Lena Streets as they intersect Clinton Street, only Clinton Street will be closed to no
+- parking. It was noted there is another event on those streets on Sunday the 28th and the set
+- Mayor Pro Tem Lakin moved to approve the closure of Clinton Street between Lena and Laura
+- Streets with the stipulations as stated. Councilor Montague seconded, and on a call for the vote
+- Month and asked for Council approval
+- and asked the Council to approve a proclamation recognizing Public Lands Day
+- carried to approve the proclamation recognizing Endangered Species Day
+- PUBLIC HEARINGS
+- 10. Wastewater Treatment Plant Renovation Project Needs Assessment
+- Town Engineer Joanne Fagan presented a PowerPoint pertaining to the project needs
+- assessment for renovation of the wastewater treatment plant. She noted the pre -public
+- hearing is intended to review the progress of the wastewater treatment plant renovation, and
+
+## [ridgway#10] 2026-06-10 | City Council | minutes
+- 4. Renewal of Tavern L iquor L icense for The Million Roadhouse
+- PUBLIC COMMENT
+- County Road 5 and Amelia St. and the lack of snow removal on the pedestrian bridge
+- at Mary and Moffit Streets. H e asked that the Town address the sidewalk on S . Le n a
+- and Highway 62; consider continuing pavement of N. L aura St .; and when constructing
+- the new sewer plant build for a minimum life span of 50 to 60 years
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 5. Request to close N. Cora between Railroad and Roundhouse for the Annual Bennett
+- Will B rumas, owner of Bennett Forgeworks requested closure of N. Cora between
+- Railroad and Roundhouse on August 27 th between 5:00 pm and 10:00 pm for the Bennet
+- Railroad and Roundhouse on August 27 th between 5:00 pm and 10:00 pm for the Annual
+- 6. Request to close C linton Street between C ora and L aura Streets for the annual Pride
+- K aisa Simon, Event Coordinator requested the closure of Clinton Street between Cora
+- and L aura Streets on A ugust 15th between 10:00 am and 8:00 pm for the annual Pride
+- event , not ing last year was the first year the event was held on Clinton Street and it
+- between Cora and L aura Streets on August 15 th between 10:00 am and 8:00 pm for the
+- There was Council discussion and comments regarding flying the Pride F lag at Town
+- Speaking in favor of flying the Pride Flag at Town Park for the rest of June and during
+- 8. Proclamation declaring June as I mmigrant Heritage Month
+- immigrants during these challenging times
+- I mmigrant Heritage Month
+- 9. Presentation of Destination Development Mentor Program Tourism Strategy Report
+- Staff report dated 6 -2-26 from the Town Manager presenting Destination Development
+- Mentor Program Tourism Strategy Report
+- that in collaboration with the Colorado Tourism Office Destination Development
+- Mentor Program a strategy was developed following the Town’ s transition from
+- L odge to workforce housing, noting it represents approximately one third of the
+- lodging tax revenues by approximately $40,000 and decrease d sales tax revenues by
+- Develop strategies to address current lodging limitations
+- campgrounds, and RV parks
+- Mr. Stantucci also identified several grant opportunities through the Colorado Tourism
+- 10. Presentation on the status of the Beaver Creek Diversion Restoration Project
+- Project, reporting the primary construction work has been substantially completed
+- Remaining work includes consideration of a supplemental infiltration gallery project,
+- which will be discussed in greater detail at a future special meeting
+- Project consultant , Ron Alexander presented a power point and provided an overview
+
+## [ridgway#11] 2026-06-16 | City Council | minutes
+- 1. Notice of Award for the Beaver Creek Infiltration Galley Project
+- Town Manager, Preston Neill presented the results of the Request for Bids (RFB) for the Beaver
+- Creek Infiltration Gallery Project , noting t wo bids were received, Meridian Contracting at
+- He recommended awarding the project to Meridian Contracting since they provided the lowest
+- bid; successfully completed of the Beaver Creek Diversion Restoration Project and can begin
+- Council discussed the project costs and contingencies , the potential for change- orders, and
+- confidence in the project budget
+- Alan Leak, RESPEC project engineer, explained the project is based on a unit -price contract
+- Infiltration Gallery Project to Meridian Contracting, Inc., at an amount not to exceed $641,386.00
+- 2. Discussion regarding Town Council rules of procedure and decorum
+- Council discussed the possibility of adopting formal procedural rules to provide guidance during
+- meetings while maintaining the Town’s small -town style. They also discussed public hearing
+- and public comment procedures, including keeping comments focused on the topic being
+- considered, and avoiding direct debate with speakers
+- Council also considered ways to better manage meeting length, including enforcing time limits
+- for presentations and public comment, encouraging presenters to summarize written materials
+- back to Council for future consideration
+
+## [ridgway#12] 2026-07-08 | City Council | minutes
+- 4. Change of liquor license trade name from The Million Roadhouse to Ridgway Pizza & Tap
+- 8. Water leak adjustment for 500 Chipeta Drive
+- PUBLIC COMMENTS
+- Dana Ivers asked the Council to reconsider addressing the proposed idling ordinance. She noted
+- many communities have adopted similar ordinances , and though enforcement may be hard to
+- Tony Mendoza expressed gratitude for the Town’s support during the Gold Mountain Fire incident
+- PUBLIC REQUESTS AND PRESENTATIONS
+- communities. The five million dollar budget is funded 83% through grant funds, and 3% from
+- development and support; regional economic development strategy; regional broad ban d
+- network; small business resources including low interest loans and tax credits; and the
+- 10. Presentation regarding the Adobe Inn reopening and ongoing revitalization efforts
+- of a Region 10 Historic Recognition Preservation grant, the Inn has been renovated. Their
+- 11. Request for the addition of patio area to the existing liquor license for Chloe’s Charcuterie &
+- Holly Kintz owner of Chloe’s Charcuterie & Wine requested addition to the beer and wine
+- Mayor Pro Tem Lakin moved to approve the addition of a patio area to the existing liquor license
+- 12. Presentation on preliminary recommendations for Housing Action Plan
+- of the Town of Ridgway Housing Action Plan, noting a work session to review the plan more
+- Sustainable Affordable Housing Assistance Act, communities are required to adopt by 2028
+- a housing action plan. The plan being prepared for the Town includes an action plan with five
+- goal areas which include policies and procedures; providing future housing; life cycle housing
+- provision; momentum building and workforce housing enhancement. Following the meeting
+- the Planning Commission will refine the proposed goals and develop an implementation plan
+- reflecting the goals Council determines are in the best interest of the Town. The plan will
+- to be completed in August and then presented to the Council for review. The draft plan will
+- be posted for a thirty day public review period and after evaluation of public comments, the
+- Commission will prepare a final draft of the plan to be presented in a publi c hearing to the
+- 13. Presentation on Destination Marketing Plan
+- Sara Pinnix with Destination by Design presented a draft marketing strategy for the Town
+- principles and strategic framework of the plan is local life leads; purposeful stewardship;
+- the final marketing plan by the end of July; and at the beginning of August start to capture
+- content and campaign development to be completed by the end of September
+
+## [ridgway#13] 2026-08-12 | City Council | minutes
 - 2. Minutes of the Workforce and Affordable Housing Committee of July 8, 2026
 - The Council removed approval of the brew pub liquor license for Colorado Boy Pub and
 - Brewery for separate discussion
@@ -37,7 +442,7 @@
 - 10. Presentation of Ridgway Free Box concept
 - There were questions and comments from the Council, and discussion with Ms. Hessler
 
-## [ridgway#1] 2026-09-09 | City Council | agenda
+## [ridgway#14] 2026-09-09 | City Council | agenda
 - public may attend in person at the Community Center, located at 201 N. Railroad Street, Ridgway,
 - considered to be routine by the Town Council and enacted b y one motion. The Council has
 - received and considered reports and recommendations prior to assigning consent calendar
@@ -72,7 +477,7 @@
 - Ridgway Parks, Trails & Open Space Committee - Councilor Kroger
 - Board Appointments:
 
-## [ridgway#2] 2026-10-14 | City Council | agenda
+## [ridgway#15] 2026-10-14 | City Council | agenda
 - public may attend in person at the Community Center, located at 201 N. Railroad Street, Ridgway,
 - considered to be routine by the Town Council and enacted by one motion. The Council has
 - received and considered reports and recommendations prior to assigning consent calendar
@@ -105,7 +510,7 @@
 - 20. 2026 Strategic Plan Progress Report
 - Ridgway Parks, Trails & Open Space Committee - Councilor Kroger
 
-## [ridgway#3] 2026-10-14 | City Council | agenda
+## [ridgway#16] 2026-10-14 | City Council | agenda
 - Ridgway Workforce & Affordable Housing Committee
 - the public may attend in person at the Community Center, located at 201 N. Railroad
 - Street, Ridgway, Colorado 81432, or virtually using the meeting information below

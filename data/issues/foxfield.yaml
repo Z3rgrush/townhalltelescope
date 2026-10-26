@@ -1,54 +1,134 @@
-- title: Waco Street drainage and culvert repair
-  summary: Staff presented engineering recommendations on erosion and roadway deterioration near Waco Street. On Aug 6 trustees discussed swapping seeding for riprap rock; by Sept 17 a revised Terracare quote (Resolution 2026-06) dropped the culvert cleanout, and the Board agreed to restore the area and evaluate drainage before further work, with fall scheduling.
-  where: Waco Street
+- title: 'Speeding and traffic calming: radar speed signs and traffic study'
+  summary: The town has reviewed speed data from engineer SEH, looked at options such as radar feedback signs, speed humps and enforcement, and put $120,000 toward traffic work in the 2026 budget. In July trustees moved to buy four solar radar signs for Hindsdale and Waco, with a total cost of about $22,373. In September trustees questioned the purchase and favored a resident speeding-report tool on the town website, and Trustee Pakanati asked to revisit it with all trustees present.
+  where: Townwide, including Hindsdale and Waco streets
   refs:
   - 0
   - 2
+  - 5
+  - 6
+  - 11
+  - 12
+  - 13
+  - 14
+  - 16
   topics:
   - Roads & traffic
-  - Utilities
-  - Environment & climate
-- title: Solar radar speed signs and traffic calming
-  summary: Resolution 2026-08 proposed buying solar-powered radar speed signs for about $22,373 including installation. Trustees questioned their effectiveness and chose to skip the purchase and pursue a resident speeding-report tool on the town website instead. Trustee Pakanati urged bringing it back when all trustees could be present.
-  where: Townwide
-  refs:
-  - 0
-  - 2
-  topics:
-  - Roads & traffic
+  - Policing & public safety
   - Budget & taxes
-- title: Wildfire Resiliency Code (Ordinance 2026-03) and wildfire prevention outreach
-  summary: Following a public hearing with no comments, the Board moved to adopt Ordinance 2026-03, the Wildfire Resiliency Code, in line with the State's recommendation that municipalities adopt such standards. South Metro Fire Rescue also gave a wildfire prevention training presentation, and the town publicized a wildfire prevention meeting.
+  public_comment: true
+- title: Wildfire Resiliency Code adoption and fire prevention
+  summary: Trustees considered Ordinance 2026-03, which adopts the state-recommended Wildfire Resiliency Code by reference. After public hearings with no public comments, the Board approved it on August 6. Trustees also worked with South Metro Fire on outreach, a wildfire prevention training and a fire prevention meeting, and discussed the 6-inch versus 12-inch grass rule and evacuation planning.
   where: Townwide
   refs:
-  - 0
-  - 1
-  - 2
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
   topics:
   - Fire & emergencies
   - Zoning & development
   - Environment & climate
-- title: '2026 road maintenance: pavement repair and additional crack sealing'
-  summary: The Board discussed the 2026 Pavement Repair and Surface Treatment Program (Resolution 2026-07), including sealant quantities, budget and contingency. In October it considered an extra $6,300 for Vance Brothers crack seal (total bid $11,800) to finish all roads, leaving about $19,047 in the $46,312 road maintenance budget before the added cost.
+  public_comment: true
+- title: Land Use Code rewrite (Ordinance 2026-02)
+  summary: Ordinance 2026-02 amends Articles 1-6 of Chapter 16 of the municipal code, the Land Use Code. The public hearing was continued several times and trustees reviewed the draft, including with an AI review. The Board approved the ordinance unanimously on August 6, 2026.
+  where: Townwide
+  refs:
+  - 9
+  - 10
+  - 11
+  - 13
+  - 14
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Home Rule exploration and charter timeline
+  summary: The town attorney presented on becoming a home rule town. Trustees debated next steps, with one saying the process was being rushed. A timeline was laid out for an ordinance initiating the process and special elections that could put a charter before voters in 2027. The Board also discussed home rule authority and land use regulation in July.
+  where: Townwide
+  refs:
+  - 1
+  - 5
+  - 6
+  - 7
+  - 13
+  topics:
+  - Government operations
+  - Elections
+- title: 2026 town budget and finances
+  summary: The Board held a study session and a public hearing on the 2026 budget, then adopted it. General Fund spending rose about 25%, largely for speed and traffic work. The mill levy stayed at 4.982 and the property tax levy was approved. Trustees later noted sales tax had dropped over four years and discussed vacancies at Foxfield Village Center.
   where: Townwide
   refs:
   - 0
   - 3
+  - 5
+  - 12
+  - 13
+  topics:
+  - Budget & taxes
+- title: 'Road maintenance: crack seal and pavement program'
+  summary: The town approved the SEH engineering fee estimate for the 2026 pavement repair and surface treatment program. Terracare asked to bid on the work, and Vance Brothers was the bidder in the earlier rounds. In October staff asked to approve an extra $6,300 for 2 more tons of crack seal, bringing the Vance Brothers bid to $11,800. Roads Maintenance Fund money remaining for 2026 is $19,047.
+  where: Townwide
+  refs:
+  - 11
+  - 12
+  - 13
+  - 14
+  - 17
   topics:
   - Roads & traffic
   - Budget & taxes
-- title: Land Use Code update (Ordinance 2026-02)
-  summary: The Board held a public hearing on amendments to the Land Use Code, received no public comments, and the mayor moved approval of Ordinance 2026-02; the motion passed unanimously.
-  where: Townwide
+- title: Waco Street drainage and culvert repair
+  summary: Engineering recommendations described erosion and roadway deterioration near Waco Street and Arapahoe Road. Trustees weighed seeding versus riprap rock. In September they approved a revised Terracare quote that dropped the culvert cleanout but kept seeding and watering, with work to be scheduled for fall.
+  where: Waco Street near Arapahoe Road
   refs:
-  - 0
-  topics:
-  - Zoning & development
-- title: Street light repairs at Lewiston Way and Parker Road
-  summary: The Board reviewed a CLI Services proposal to replace three roadway light fixtures and a fuse kit, with not-to-exceed pricing and deposits for projects over $5,000. Staff found it reasonable and Resolution 2026-05 was moved for approval.
-  where: Lewiston Way and Parker Road
-  refs:
-  - 0
+  - 13
+  - 14
+  - 16
   topics:
   - Roads & traffic
   - Utilities
+- title: Streetlight and tunnel light repairs
+  summary: Trustees followed several broken streetlights and tunnel lights, including on S Lewiston Way and Parker Road. They approved a CLI Services proposal to replace three roadway light fixtures and a fuse kit at Lewiston Way and Parker Road, with not-to-exceed pricing.
+  where: Lewiston Way and Parker Road
+  refs:
+  - 7
+  - 10
+  - 11
+  - 12
+  - 14
+  topics:
+  - Utilities
+  - Roads & traffic
+- title: Short-term rental litigation
+  summary: In July trustees discussed a Summary Judgment ruling in the town's short-term rental litigation and future steps.
+  where: Townwide
+  refs:
+  - 13
+  topics:
+  - Short-term rentals
+  - Lawsuits & legal
+- title: Law enforcement and code enforcement contracts
+  summary: The Board approved the 2026 law enforcement services agreement and a new SafeBUILT code enforcement contract with changed rates, asking that an 8-hour rate be added. Trustees also asked for a ride-along with code enforcement.
+  where: Townwide
+  refs:
+  - 2
+  - 5
+  - 6
+  topics:
+  - Policing & public safety
+  - Fees & rates
+- title: Foxfield Trustee vacancy and canceled April 2026 election
+  summary: The Board canceled the April 2026 election and declared candidates elected. A trustee vacancy was expected and applicants were interviewed, with Trustee Hodge applying. Doug Hodge was sworn in as an appointed trustee in May, and trustee compensation and rules of procedure were revised.
+  where: Townwide
+  refs:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  topics:
+  - Elections
+  - Government operations

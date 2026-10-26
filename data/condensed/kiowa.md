@@ -1,6 +1,24 @@
 # kiowa
 
-## [kiowa#0] 2026-10-13 | Board of Trustees | agenda
+## [kiowa#0] 2026-07-15 | Planning Commission | agenda
+- 404 Comanche Street, Town Hall
+- A. Approval of Agenda
+- B. Approval of Minutes
+- Public Comment
+- Public comments are limited to three (3) minutes. When you are recognized, please stand, state your
+- A. RESOLUTION NO. 2026-PC-01, A RESOLUTION APPROVING THE 2026 ZONING CODE
+- APPROVE AND ADOPT THE 2026 ZONING CODE UPDATE AS THE TOWN’S OFFICIAL
+- ZONING ORDINANCE
+- Agenda Approved By:
+- Public comment is encouraged and will be listed as an agenda item at every regular Planning
+- Each individual wishing to be heard during the public comment period will be given up to three (3)
+- The public comment period will not be used to make political endorsements or for political campaign
+- Questions from the Board will be for clarification purposes only. Public comment will not be used as a
+- The Board may direct the Town Administrator to provide information requested by a speaker during the
+- public comment period
+- The Chair may elect to defer public comment on a specific issue that appears on the regular agenda until
+
+## [kiowa#1] 2026-10-13 | Board of Trustees | agenda
 - 404 Comanche Street, Town Hall
 - 4. Public Comment
 - Public comments are limited to three (3) minutes. When you are recognized, please stand, state your
@@ -27,7 +45,7 @@
 - The Board may direct the Town Administrator to provide information requested by a speaker during the public
 - The Mayor/Chairman may elect to defer public comment on a specific issue that appears on the regular agenda
 
-## [kiowa#1] 2026-10-13 | Kiowa Water and Wastewater Authority | agenda
+## [kiowa#2] 2026-10-13 | Kiowa Water and Wastewater Authority | agenda
 - Kiowa Water and Wastewater Authority
 - 404 Comanche Street, Town Hall
 - A. Approval of Minutes

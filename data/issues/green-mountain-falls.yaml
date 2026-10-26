@@ -1,82 +1,119 @@
-- title: 2027 draft budget and budget work sessions
-  summary: Council discussed how to schedule a work session on the draft 2027 budget, and the FMAC budget was provided in the packet with a separate budget session planned. A 2027 Draft Budget item appears on the October 8 agenda, and setting a date for the draft budget was on the October 6 agenda.
+- title: Colorado Wildfire Resiliency Code adoption (Ordinance 2026-05)
+  summary: The town introduced Ordinance 2026-05 on March 31 to adopt the state-mandated Colorado Wildfire Resiliency Code, which takes effect July 1, 2026. A public hearing was held April 23, the board approved it May 5 with a correction, and on Aug. 4 it approved changes replacing WUI references with the Colorado Wildfire Resiliency Code. A resident questioned the penalties.
   where: Townwide
   refs:
-  - 0
-  - 4
-  - 5
+  - 10
+  - 11
+  - 13
+  - 14
+  - 18
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+  - Environment & climate
+  public_comment: true
+- title: Sale of town land, open space rezoning and annexation of enclaves
+  summary: The board has discussed selling town properties, whether rezoning town open space to park would make sales harder, and annexing enclaves. In June it sent annexation of an enclave property back to the Planning Commission and put the open space-to-park rezoning on July's agenda. The 1997 annexation/3-mile plan is being updated. A resident urged an ordinance or rezoning to protect open space.
+  where: Townwide
+  refs:
+  - 1
+  - 6
+  - 14
+  - 15
+  - 22
+  topics:
+  - Land & property
+  - Annexation
+  - Parks & open space
+  public_comment: true
+- title: 2026 sales tax increase ballot question and capital projects
+  summary: Town Manager Patterson presented a 'Closing the Gap' plan for a sales tax increase to fund sidewalks, culverts, sewage, and pool, park and playground updates. On April 7 the mayor moved to place a 0.05% sales tax for four years on the ballot for the Capital Improvement Fund, with the old Marshal's building a priority. Ballot resolutions followed in May, and a general election call in August.
+  where: Townwide
+  refs:
+  - 9
+  - 11
+  - 14
+  - 18
   topics:
   - Budget & taxes
-- title: 2026 Comprehensive Plan Addendum
-  summary: Council set an August 18 work session at 5:30 p.m. to go over the Comprehensive Plan addendum. The plan returned on the September 1 and September 22 agendas, and a future review date was to be set on October 6.
+  - Elections
+- title: 2026 budget, fee schedule and 2027 draft budget
+  summary: The 2026 budget was presented in October 2025 and adopted in December along with the mill levy certification and fee schedule. A new fee schedule was approved May 5. Work sessions on the 2027 draft budget were being set up for fall 2026.
   where: Townwide
   refs:
   - 0
   - 2
   - 3
-  - 4
+  - 14
+  - 18
+  - 22
+  - 23
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Short-term rental tax and rule changes
+  summary: In December 2025 the council took up an STR tax ordinance (2025-06) and a short-term rental amendment (2025-09) alongside the budget.
+  where: Townwide
+  refs:
+  - 2
+  topics:
+  - Short-term rentals
+  - Fees & rates
+- title: Comprehensive Plan addendum
+  summary: The town is working on a 2026 Comprehensive Plan addendum, with a work session set for August 18 at 5:30 p.m. and further review dates being scheduled. A resident has stressed the board's job to carry out Comp Plan goals.
+  where: Townwide
+  refs:
+  - 14
+  - 15
+  - 16
+  - 18
+  - 20
+  - 21
+  - 22
   topics:
   - Zoning & development
   - Government operations
-- title: Wildfire Resiliency Code adoption
-  summary: Trustee Bell moved to approve changes replacing the local WUI (wildland-urban interface) code references with the Colorado Wildfire Resiliency Code.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Fire & emergencies
-  - Zoning & development
-- title: Ordinance 2026-06 AVIS amendments
-  summary: Council voted to add a new Article 4 to Chapter 8 of Ordinance 2026-06 (AVIS amendments); all were in favor.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Government operations
-- title: FMAC and NDME grant application
-  summary: FMAC Chair Paul Yingling spoke to Council about the NDME grant application at the August 18 meeting. The FMAC budget was also part of the budget discussion.
-  refs:
-  - 0
-  - 1
   public_comment: true
-  topics:
-  - Budget & taxes
-  - Government operations
-- title: CRA Plan review
-  summary: A review of the CRA plan was on the September 1 agenda for Council discussion.
-  where: Townwide
+- title: Downtown parking, road and drainage work
+  summary: The town is paving and reworking parking near the Blue Moose and Lake Street, completed in June with 78 downtown spaces, plus a Maple Street parking survey, trailhead parking concerns, road base and 2026 drainage improvements.
+  where: Downtown, Lake Street and Maple Street
   refs:
   - 2
+  - 4
+  - 9
+  - 11
+  - 15
   topics:
-  - Economic development
-  - Zoning & development
-- title: Lake Street bathrooms
-  summary: The Lake Street bathrooms were an agenda item on September 1.
-  where: Lake Street
-  refs:
-  - 2
-  topics:
-  - Parks & open space
-  - Utilities
-- title: Updating the 1997 Annexation Plan
-  summary: Council planned to discuss updating the town's 1997 Annexation Plan at its October 6 meeting.
+  - Roads & traffic
+  - Downtown & business
+- title: Wastewater, septic and sewage issues
+  summary: Septic pumping for the Marshal's building and park was estimated around $16,000. A wastewater feasibility study was announced in April, and sewage is a priority in the sales tax plan. Water rights attorney services were tabled in January pending creek flow measurement.
   where: Townwide
   refs:
   - 4
+  - 6
+  - 9
+  - 11
+  - 15
   topics:
-  - Annexation
-- title: Emma Woods Certificate
-  summary: The Emma Woods Certificate was tabled until the next meeting on August 4 and was back on the September 1 agenda.
+  - Water
+  - Utilities
+- title: El Paso Trail property
+  summary: The board requested an appraisal for the El Paso Trail property in February. In June the mayor reported the Board of Health voted 7 to 1 to remove the transfer of title resolution for El Paso, effective July 11.
+  where: El Paso Trail
   refs:
-  - 0
-  - 2
+  - 6
+  - 15
   topics:
-  - Government operations
-- title: Marshal's office patrol vehicle grant
-  summary: Town Manager Caleb Patterson reported he was applying for a grant on behalf of the Marshal's office to replace a patrol vehicle.
-  where: Green Mountain Falls
+  - Land & property
+  - Recreation & trails
+- title: Election date change and Lake Street bathrooms/pool
+  summary: Ordinance 2026-03 moved the town election date from the first Tuesday of April. The board also handled pool opening and Lake Street bathrooms discussions.
+  where: Townwide
   refs:
-  - 0
+  - 6
+  - 14
+  - 20
   topics:
-  - Policing & public safety
-  - Budget & taxes
+  - Elections
+  - Parks & open space

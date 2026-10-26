@@ -1,6 +1,352 @@
 # yuma-county
 
-## [yuma-county#0] 2026-07-30 | City Council | minutes
+## [yuma-county#0] 2025-11-25 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Road and Bridge
+- Road & Bridge Blade Forman Justin Lorimer joined the meeting at 8:30 a.m. to provide department
+- Salary Authorizations - Lorimer provided three salary authorizations for approval
+- Commissioner Weaver moved to approve the following three salary authorizations: a
+- Repairs to Railroad Approach -Yuma County Road and Bridge plans to begin repairs on the north
+- side of the railroad tracks along County Road M in mid-December. BNSF has been notified and will
+- provide flaggers for the project
+- Efficiencies/RoadReport-The group reviewed Lorimer's efficiency report. The recent rainfall has
+- been helpful for blading roads. Trucks are still actively transporting materials across the county to
+- assist various area blades in repairing the holes and damage caused to the roads during the
+- Budget ~ Andersen is currently waiting on a bid from Bettis Construction to evaluate alongside
+- the bid received from Simon's for repairs on County Road 39, considered for the 2026 budget
+- realtor. The group discussed that during winter months, when employees take time off due to
+- bad weather and the roads need snow removal, employees can clear the snow and receive
+- overtime pay for that week instead of earning comp time off, subject to supervisor approval
+- Department of Human Services maintains detailed minutes of the Board of Social Services separately. The
+- proposals in his FY 2026-27 budget request to centralize call center operations and document
+- 1 minutes prepared by Brandi Ritchey are a summary of discussion , not a verbatim account
+- Commissioner Leerar moved to approve Resolution 11-25-2025D, a Resolution Establishing Expedited
+- Review Policies for Affordable Housing Projects. Commissioner Weaver seconded the motion which
+- Jodi also gave updates regarding the Land Use code updates and dates she must follow, and discussion
+- was had about the Fire Resilience Code
+- Administrator Brandi Ritchey reviewed calls, correspondence, and presented the following for discussion and
+- Commissioner Leerar moved to approve the minutes from the November 13,2025 regular meeting
+- Commissioner Leerar moved to approve the Yuma County Accounts payable check sequence
+- Resolutions/Ordinances/Signatures
+- Commissioner Weaver moved to ratify Commissioner Gates7 signature on the 2026 VOCA Grant
+- Award. Commissioner Leerar seconded the motion which passed unanimously
+- Commissioner Weaver moved to sign the Victims Assistant VALE Grant Award Contract in the
+- Commissioner Leerar moved to approve the City of Yuma's 2025 budgeted reimbursement
+
+## [yuma-county#1] 2025-12-15 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Road and Bridge
+- Road & Bridge Supervisor Tom Andersen, Blade Supervisor Justin Lorimer and Fleet Foreman Matt Martin
+- Contracted Trucks - Andersen presented data comparing the cost of operating county owned
+- trucks versus contracted truck drivers. Andersen based the county's rates on loaded wages, parts
+- and maintenance, miies driven, fuel usage and other factors. The contracted trucks came in at a
+- higher rate. The group weighed the advantages and disadvantages of using contracted trucks
+- while big projects were underway in other areas of the county
+- Easement Repairs - Andersen is still waiting for a response from BNSF Railroad regarding the
+- necessary repairs that need to be made to County Road M, North of the railroad tracks. The
+- commissioners would like Andersen to confirm whether the railroad company plans to charge for
+- Road Report - Crews have been hauling material and making repairs to County Road N, South of
+- County Road 54 and making repairs to a two mile stretch on County Road 46
+- Fuel-Andersen noted that he made one last adjustment to his 2026 budget by increasing the fuel
+- Services maintains detailed minutes of the Board of Social Services separately. The Board of County
+- updates and present an operating agreement between NCRETAC and Yuma County. The Northeast
+- service organizations within our region to ensure equitable patient care. The group discussed the funding
+- Environment, which receives support from the Highway User Tax Fund
+- 1 Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- Commissioner Weaver moved to approve the Listing Contract for the Idalia House
+- Commissioner Weaver moved to approve the 2026 SIPA Agreement for document remediation
+- Commissioner Leerar moved to approve the annual CRVS Tax Exempt Certificate. Commissioner
+- Commissioner Weaver moved to approve the annual contract renewal for Commercial Property
+- Commissioner Leerar moved to approve the application for a Charge Account at Bomgaars,
+- Commissioner Weaver moved to approve the 2026 Schneider Agreement for the Assessor's
+- Commissioner Weaver moved to approve the 2026 Schneider Agreement for the Land Use
+- Yuma County Water Authority Public Improvement District
+- Improvement District Board. Minutes for the Yuma County Water Authority Public Improvement District
+- are kept separately
+- 2025 Budget Hearing
+- At 2:45 p.m., Chairman Gates opened the hearing to accept public comment on the proposed 2026
+- budgets for Yuma County, Yuma County Landfill, Yuma County Water Authority. The Commissioners
+
+## [yuma-county#2] 2025-12-19 | City Council | minutes
+- Emergency Management Officer, Jake Rockwell requested the Board of County Commissioners declare a Local Disaster
+- in response to the extensive damage caused by a severe windstorm and fire. The group discussed the outcome of the fire
+- and wind damage and stated how impressed they were with ail the hard work everyone put in to contain the fires. Wind
+- gusts reached between 60-70 mph and over 14,000 acres burned. The group reviewed the proposed resolution. Declaring
+- Commissioner Weaver moved to approve Resolution 12/19/2025A, A Resolution Declaring A Local Disaster Emergency
+- 1 Minutes prepared by County staff are a summary of discussions, not a verbatim account
+
+## [yuma-county#3] 2025-12-30 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Road and Bridge
+- Road & Bridge Blade Foreman Justin Lorimer joined the meeting at 8:30 a.m. to provide department
+- December Fires - Andersen presented the overtime hours accrued by the crew who assisted in
+- fighting the recent fires. During the discussion, the group discussed the damage incurred by one
+- Budget/Efficiencies ■■ The group assessed the grader operators efficiency report as well as the
+- current 2025 budget. Commissioner Weaver requested clarification regarding the Tax
+- incoming and outgoing allocated tax apportionments for the cities and towns, ultimately
+- Commissioner Weaver moved to approve the Blade Operator salary authorization at
+- Road Report/Mowing - Currently, crews are top coating County Road 9 and County Road KK in the
+- Armel area with gravel. Lorimer is keeping a close eye on the burn scar area from the fire where
+- sand has been blowing onto the roads. Lorimer mentioned that one employee is set to retire in
+- and then plans to help clean up a shed that blew over at the fairgrounds during the windstorm
+- Department of Human Services maintains detailed minutes of the Board of Social Services separately. The
+- Management Officer, Jake Rockwell joined the commissioners to discuss potential assistance for damage
+- that was caused by recent fires. Etl indicated that if needed, the county could do a DAC {Emergency
+- Disaster Assistance Center). After discussing the extent of the damage, it was determined that a DAC
+- wouldn't be necessary. Since the BOCC adopted resolution 12-19-2025 A, A Declaration of Emergency,
+- 1 Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- DOLA may be able to offer 25% matching grants that could assist the Town of Eckley with their generator
+- Administrator Brandi Ritchey reviewed calls, correspondence, and presented the following for discussion and
+- Commissioner Weaver moved to approve the minutes from the December 15, 2025 regular
+- Commissioner Leerar moved to approve the minutes from December 19, 2025 special meeting of
+- Commissioner Leerar moved to approve the Yuma County Accounts payable check sequence
+- Resolutions/Ordinances/Signatures
+- Commissioner Leerar moved to approve Resolution 12/30/2025 A, a Resolution Organizing
+- Commissioner Weaver moved to approve the City of Yuma Ambulance Service License
+- Commissioner Weaver moved to approve the South YW Ambulance Service License
+- Commissioner Leerar moved to approve the 2025 HUTF Mileage Certification. Commissioner
+
+## [yuma-county#4] 2026-01-09 | City Council | minutes
+- Yuma County Local Governments were notified by the Yuma County Assessor's Office on January 8, 2026, regarding a
+- required to review and update their Certification of Tax Levies accordingly. Additionally, the Board of County
+- Commissioners needed to update and approve a revised Certification of Mill Levies and Revenue for the Tax Year 2025
+- and Budget Year 2026. The Commissioners reviewed the revised Certification of Tax Levies and Revenue
+- Commissioner Gates moved to approve the updated Certification of Mill Levies and Revenue for the Tax
+- Year of 2025, Budget Year 2026. Commissioner Leerar seconded the motion. The motion passed
+- 1 Minutes prepared by County staff are a summary of discussions, not a verbatim account
+
+## [yuma-county#5] 2026-01-15 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Public Comment
+- Road and Bridge
+- Road & Bridge Supervisor Blade Supervisor Justin Lorimer and Fleet Forman Matt Martin joined the
+- he would like specific attachments mounted. The budgeted fleet pickup has also been delivered
+- Road Report - Crews have been transporting materials to County Road 9, County Road KK, and
+- County Road FF near the Wauneta Shop. They also have been working on the removal of rock
+- shelves on County Road AA while delivering new material to that road as wed
+- program that the Road and Bridge department uses to monitor fuel consumption, equipment
+- of the Board of Social Services separately. The Board of County Commissioners reconvened at 11:00 a.m
+- to discuss various options available to entities partnering with CEBT. He explained the differences
+- maintaining a utilization rate of around 91.5% is important to avoid significant premium increases. Rook
+- 1 Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- Key topics included fire safety, weather conditions, and public health information. The group discussed YW
+- Electric's plan to operate with enhanced poweriine safety settings in response to the heightened fire danger
+- Conservation District who informed him about a grant opportunity that can assist individuals with burnt tree
+- rows. Rockwell is pursuing a grant to help provide generators for communities who would benefit from them,
+- in September. The Treasurer's office is finalizing 2025 tax statements. Yuma County is 99.86% collected for
+- the 2024 taxes. She reported that there are currently 10 active deed applications and 4 ongoing foreclosures,
+- the tax roll from the Assessor's Office. Hammond presented various reports for the Commissioners to review
+- including the Uncollectible Tax Resolution, the Public Trustee Report, the Annual Banking Resolution and the
+- Annual Investment Resolution
+- Commissioner Leerar moved to approve signature on the 2025 Fourth Quarter Public Trustee report
+- Commissioner Leerar moved to approve Resolution 01-15-2026 A, a resolution to approve the
+- removal of uncollectible tax from the tax rolls. Commissioner Gates seconded the motion, which
+- Commissioner Leerar moved to approve Resolution 01-15-2026 B, a resolution to approve the
+- Commissioner Leerar moved to approve Resolution 01-15-2026 C, a resolution approving the
+- At 2:00 p.m., Yuma County Fairgrounds Manager, Carmen Murray presented the Mega Music Stage Contract
+- Commissioner Gates moved to approve the Mega Music Stage Contract. Commissioner Leerar
+
+## [yuma-county#6] 2026-01-29 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Administrator Brandi Ritchey reviewed calls, correspondence, and presented the following for discussion and
+- Commissioner Gates moved to approve the minutes from the January 15,2026 regular meeting of
+- Commissioner Gates moved to approve the Yuma County Accounts payable check sequence 84947
+- Resolutions/Ordinances/Signatures
+- Commissioner Leerar moved to approve the South YW Ambulance Service License
+- Commissioner Leerar moved to ratify the approval of two printer contracts between Yuma
+- County and Journal Office Supply for the Road and Bridge and Land Use/OEM Departments
+- Commissioner Leerar moved to ratify the signature on the 2026 Steering Committees
+- Designation of Proxy form for CCI appointing Brandi Ritchey as Proxy. Commissioner Gates
+- on the administration of the Eastern Transportation Planning Region and a discussion of activities
+- conducted by the 911 Authority Board. Ritchey presented the 2026 Fair Adventure Zone Contract for
+- approval, along with a salary authorization for a certified appraiser position in the Assessor's Office. The
+- Commissioners also reviewed the City of Wray's 2025 fourth-quarter reimbursement request
+- Additionally, Ritchey presented bids for the Chiller Pump replacement from Glassman's Corporation and
+- Wern Air for the Commissioners' consideration. She informed the Commissioners about the transition of
+- legal representation; Yuma County will need to contact Brandon Dittman for any attorney-related
+- correspondence. Finally, the board reviewed letters of interest for appointments to the Eckley Cemetery
+- Commissioner Leerar moved to approve the Adventure Zone Contract for the 2026 Eair
+- 1 Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- Commissioner Gates moved to approve the Certified Appraiser Salary Authorization for the
+- Commissioner Gates moved to approve the 2025 4th quarter budgeted reimbursement request
+- Commissioner Gates moved to approve the chiller pump replacement to be completed by
+- Commissioner Leerar moved to appoint Kaci Scholes to the Eckley Cemetery Board. This term
+- Commissioner Leerar moved to appoint Steve Rydquist to the Washington-Yuma Combined
+- Services separately. The Board of County Commissioners reconvened at 10:30 a.m
+- investment Policy for their review. The group also discussed the investment report for the period of July
+- low yield investments that matured in 2025, However, projections for 2026 indicate a decline in the rates
+- a strategic position for liquidity, safety and interest income
+
+## [yuma-county#7] 2026-02-13 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- State Retail Liquor License Renewal Application and the County Retail Liquor License Renewal for Jo's
+- Commissioner Gates moved to approve signature on the State Retail Liquor License Renewal
+- Application and the County Retail Liquor License Renewal for Jo's Liquor LLC DBA Jo's Liquor
+- Road and Bridge
+- Road & Bridge Supervisor Tom Andersen and Blade Supervisor Justin Lorimer joined the meeting at 8:30
+- Equipment Acquisition/Surplus -Andersen purchased a 15,000-gallon tank at a sale and plans to use
+- it for fuel storage at the Yuma shop. If the tank will not fit in the bunker, he plans to use it for water
+- Budget - The group reviewed the status of the budget. Cutting edges were anticipated to increase
+- 25% in 2026, so the budget for cutting edges was increased accordingly. Lorimer stated that the
+- cutting edges went up another 25%. The company supplying these blades sold 18 units to Road and
+- employee for the mining position and presented a salary authorization for approval
+- Commissioner Leerar moved to approve the Mining Salary Authorization at $18.50/hour
+- Road Report - Lorimer delivered an update on road work across multiple areas. Crews have been
+- transporting materials from the Smith Pit to County Roads 23, 24, and 17 in Area Yl, as well as County
+- Roads 33 and 34 in Area VS. Additionally, Lorimer has been overseeing a culvert project at the
+- entrance of the Mek Pit along County Road E
+- operational issues. Andersen suggested charging a fair rental rate for the equipment, aiming to cover
+- wear and tear rather than generate profit. The group agreed that a rate of $125 per hour would be
+- 1 Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account,
+- Department of Human Services maintains detailed minutes of the Board of Social Services separately. The
+- At 11:30 p.m., Carmen Murray joined the commissioners to discuss the findings of the inspection report
+- for the Idalia House. Andersen inspected the water heater and it just needed to be lit and was working as
+- Commissioner Gates moved to take $2,500 dollars of the purchase price. Commissioner Leerar
+- updates. Hammond met with Ritchey to discuss upcoming projects the county has planned to ensure
+- there is enough liquidity to cover upcoming expenses. Tax statements were sent out January 30th She
+- stated that postage fees will be higher due to the new format of the statements There is a Treasure's
+- At 1:29 p.m. Chairman Weaver opened the public hearing for the first reading of ORDINANCE NO. 2026
+
+## [yuma-county#8] 2026-02-26 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Road and Bridge
+- Road & Bridge Supervisor Tom Andersen and Blade Forman Justin Lorimer joined the meeting at 8:30 a.m
+- County Road M - Andersen has heard back from BNsF regarding pricing for flaggers
+- flaggers during their repairs near a railroad approach. Tom plans to contact Logan County for
+- guidance on how to request to use our own flaggers
+- Commissioner Leerar moved to approve the Mining salary authorization at
+- Road Report/Mowing - Currently crews have recently hauled base material down to County Road
+- AA North of Highway 36, County Road 2 West of Highway 385 and County Road C South of County
+- Permit - Andersen presented a boring permit request for County Road 32 and L for a livestock
+- Commissioner Leerar moved to approve the boring permit request to bore under
+- County Road 32 and L for a livestock water line. Commissioner Gates seconded the
+- Social Services separately. The Board of County Commissioners reconvened at 10:30 a.m
+- 1Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- Administrator Brandi Ritchey reviewed calls, correspondence, and presented the following for discussion and
+- Commissioner Gates moved to approve the minutes from the February 13, 2026 regular meeting
+- Commissioner Gates moved to approve the Yuma County Accounts payable check sequence 85152
+- Resolutions/Ordinances/Signatures ~
+- Commissioner Leerar moved Resolution 02/26/2026 A, A Resolution Declaring Certain
+- on the administration of the Eastern Transportation Planning Region, and a discussion of activities
+- for approval, along with the 2025 End-of-Year CAPP and CWCP reports. Additionally, Ritchey mentioned
+- County. He plans to discuss this arrangement with the Morgan County Commissioners. If they agree to
+- provide coverage for Yuma County, Ritchey will prepare an Intergovernmental Agreement. Two offers
+- At 11:15 a.m., Certified Appraiser, Kaci Scholes joined the commissioners to present the 2025 PILT
+- Application for Colorado Parks and Wildlife
+- Commissioner Leerar moved to approve the 2025 PILT Application in the amount of $8,508.29
+- Economic Development
+- At 11:30 a.m., Yuma County Economic Development Director Darlene Carpio met with the Commissioners
+- to share important updates. The Economic Development board has made the decision to extend their
+- contract with Retail Coach for another year. Carpio requested a $5,oo0 contribution to go towards the fee
+- to contract with Retail Coach for another year
+- Commissioner Leerar moved to approve the $5,o0o funding request to be paid out of account
+
+## [yuma-county#9] 2026-03-17 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Road and Bridge
+- Road & Bridge Supervisor Tom Andersen and Blade Supervisor Justin Lorimer joined the meeting at 8:30
+- County Road M Updates - The group reviewed the current status of the easement requiring repairs
+- at County Road M. Andersen suggested delaying the project until the start of the County Road 39
+- project. This will prevent repairing the easement twice and would also help avoid the costs associated
+- with obtaining permits and hiring BNsF flaggers on two separate occasions
+- Budget - The group reviewed the current budget to date. Additionally, Andersen presented a Salary
+- Authorization for a grader operator, along with the Simon Construction Proposal for County Road 39
+- Commissioner Leerar moved to approve the Salary Authorization for the Grader Operator at $19.51
+- Commissioner Gates moved to approve the Simon Construction Proposal for repairs on County
+- Road 39. Commissioner Leerar seconded the motion. The motion passed unanimously
+- Road Report - Lorimer provided an update on road work in several areas. Crews have been
+- transporting materials from the Deterding Pit to a three-mile section of road extending from County
+- Road HH to the north of County Road 54. Additionally, materials from the Deterding Pit have been
+- used on another three-mile stretch of road extending from County Road 39 east of Highway 385
+- of the Board of Social Services separately. The Board of County Commissioners reconvened at 11:O0 a.m
+- 1 Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- for discussion and action:
+- Commissioner Gates moved to approve the minutes from the February 26, 2026 regular meeting
+- Commissioner Gates moved to approve the Yuma County accounts payable check sequence 85220
+- Resolutions/Ordinances/Signatures/Ratifications:
+- Commissioner Gates moved to approve Resolution 03-17-2026 A, a Resolution Placing a
+- Moratorium on Data Centers until 12/31/2026. Commissioner Leerar seconded the motion. The
+- Commissioner Gates moved to approve Resolution 03-17-2026 B, a Resolution Adopting Rules
+- Commissioner Leerar moved to approve the budgeted Fair Queen buckle reimbursement to be
+- Commissioner Leerar moved to approve the budgeted Fair Queen annual contribution to be
+- Commissioner Leerar moved to approve Brandi Ritchey's signature on the Agreement for
+- Commissioner Leerar moved to approve the Stratton Equity Coop Refined Fuels Contract for the
+- 2026 Budget year. Commissioner Gates seconded the motion which passed unanimously
+
+## [yuma-county#10] 2026-04-20 | City Council | minutes
+- The Board of County Connissioners held two interviews for the Yuma County Road and Bridge Supervisor opening. No
+- 1 Minutes prepared by County staff are a summary of discussions, not a verbatim account
+
+## [yuma-county#11] 2026-04-22 | City Council | minutes
+- The Board of County Commissioners held a second interview for the Yuma County Road and Bridge Supervisor opening
+- Commissioner Leerar moyed to offer the Road and Bridge Supervisor to David Lee for $76,ooo/year. Commissioner
+- ¹ Minutes prepared by County staff are a summary of discussions, not a verbatim account
+
+## [yuma-county#12] 2026-04-30 | City Council | minutes
+- discussed various meetings attended throughout the prior month
+- Administrator Brandi Ritchey reviewed calls, correspondence, and presented the following for discussion and
+- Commissioner Gates moved to approve the minutes from the April 13, 2026 regular meeting of the
+- Commissioner Gates moved to approve the minutes from the April 20, 2026 special meeting of the
+- Commissioner Gates moved to approve the minutes from the April 22, 2026 special meeting of the
+- Commissioner Leerar moved to approve the Yuma County Accounts payable check sequence
+- Resolutions/Ordinances/Signatures
+- Commissioner Gates moved to approve signature on Resolution O4/30/2026A a Resolution
+- transferring the budgeted amount of $279,415.23 from F1 to F20 for four vehicles listed on the
+- resolution. Commissioner Leerar seconded the motion. The motion passed unanimously
+- Commissioner Leerar moved to ratify Commissioner Weaver's signature on the G-Works
+- contract for the Road and Bridge Department. Commissioner Gates seconded the motion which
+- Commissioner Leerar moved to approve the signature on the salary authorization for the part
+- Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- the administration of the Eastern Transportation Planning Region and a discussion of activities conducted
+- by the 911 Authority Board. Ritchey reported that she has submitted the CO SIPA Grant for $10,000 and
+- the Court Security Grant for $41,384.89. She also noted the 2025-2026 Q3 Court Security Grant
+- reimbursement in the amount of $5,106.09 has been approved by the state. In addition, Ritchey said she
+- has posted the vacancy in allthe newspapers requested by the Landfill Board
+- Road and Bridge
+- Road & Bridge Blade Supervisor Justin Lorimer and Fleet Foreman Matt Martin joined the meeting at 9:30
+- Road Report - Lorimer gave an update on road work in several areas. Crews are currently hauling
+- materials from the Homm Pit to County Road 11. Once that project is finished, they will move on to
+- County Road KK and then County Road 9. After that work is completed, the dozer will be moved to
+- the Deterding Pit. They will also be filling holes on County Road V and County Road T
+- Equipment Update - One of the two budgeted road graders has been received. The second grader is
+- trucking position and a maintenance position in the Road and Bridge Department. Both candidates
+- operator in the future. Ritchey presented three salary authorizations for approval. The group
+- Commissioner Gates moved to approve the salary authorization for the trucking position in
+
+## [yuma-county#13] 2026-07-14 | City Council | minutes
+- discussed various meetings attended throughout the prior month
+- State Retail Liquor License Renewal Application and the County Retail Liquor License Renewal for Ballyneal
+- Commissioner Gates moved to approve signature on the State Retail Liquor License Renewal
+- Application and the County Retail Liquor License Renewal for Ballyneal Golf LTD DBA Ballyneal
+- Road and Bridge
+- Road & Bridge Supervisor David Lee joined the meeting at 8:30 a.m. to provide department updates
+- Road Report Crews are patching washout areas throughout the county following recent rainfall
+- Mowing is expected to begin soon. The County Road 39 project is anticipated to start July 23-27th
+- update the Yuma County handbook to reflect this change and present it for approval with the other
+- Commissioner Gates moved to approve the salary authorization for the Mechanic position at
+- Gravel Pits Ritchey stated that she contacted the Dreher Pit landowners again to discuss how they
+- Lee mentioned that the current gravel screen that road and bridge has is wearing out. He found a
+- replacement and presented it for approval
+- Commissioner Gates moved to approve the purchase of the Grizzly rock screen to be
+- purchased out of account 02-702-8940. Commissioner Leerar seconded the motion which
+- Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- for discussion and action:
+- Commissioner Gates moved to approve the minutes from the June 30, 2026 regular meeting of the
+- Commissioner Leerar moved to approve the Yuma County accounts payable check sequence
+- Resolutions/Ordinances/Signatures/Ratifications:
+- Commissioner Gates moved to approve the Road and Bridge Supervisor Salary of $76,000
+- Commissioner Gates moved to approve the Courthouse Maintenance Salary Authorization in
+- Commissioner Leerar moved to approve the SIPA Grant Eligibility Confirmation. Commissioner
+- Commissioner Gates moved to approve the budgeted City of Yuma Ambulance request to be
+- Commissioner Gates moved to ratify Commissioner Weaver's signature on the CDL Land Use
+- Commissioner Gates moved to approve the Colorado Department of Transportation Permission
+- is vacant and available. She also stated that the Emergency Manager sent the surplus Tahoe list to the fire
+- departments, with offers requested by the next BOCC meeting. Ritchey noted that she completed the
+- He discussed current fire safety concerns, recent and upcoming weather conditions, and public health
+- Mitigation Plan has ended and the plan has been sent to the state for review. If approved, a resolution
+- will need to be adopted. Rockwell also noted that pipeline training will be held July 22nd at the Wray Fire
+
+## [yuma-county#14] 2026-07-30 | City Council | minutes
 - discussed various meetings attended throughout the prior month
 - Events Permit for Vernon Volunteer Fire Department
 - Commissioner Gates moved to ratify Commissioner Weaver's signature on the State Application for
@@ -32,7 +378,7 @@
 - the Board of Social Services separately. The Board of County Commissioners reconvened at 10:30 a.m
 - Homeland Security Narrative Report signed as well as his amended Request for Reimbursement
 
-## [yuma-county#1] 2026-08-13 | City Council | minutes
+## [yuma-county#15] 2026-08-13 | City Council | minutes
 - payable and discussed various meetings attended throughout the prior month
 - Road and Bridge
 - Road & Bridge Supervisor David Lee joined the meeting at 8:30 a.m. to provide department updates

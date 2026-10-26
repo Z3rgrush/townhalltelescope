@@ -1,6 +1,194 @@
 # ophir
 
-## [ophir#0] 2026-09-09 | City Council | agenda
+## [ophir#0] 2025-11-12 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of October 2025 P&Z Regular meeting minutes
+- i. Draft Town of Ophir Revegetation Ordinance and OEC Revegetation
+- ii. Draft Dark Sky/Lighting Ordinance
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM JULY P&Z MEETING
+- a. Items P&Z discussed:
+- siding should be fire resistant. Boulder has adopted code on allowable siding
+- ii. P&Z discussed whether neighbor permission should be required for fencing installed
+- iii. Wood stove permitting: Currently, new builds have to certify wood stoves meet
+- in existing homes need a permit. P&Z thought that replacements should also get a
+- permit, but permit application and review should be free
+- iv. Parking spaces being in location where roof doesn’t shed snow: Mark thought this
+- permits?120 square feet was a number discussed as being the minimum size of a
+- building that needs a permit
+- and boats can be parked in parking spaces or within the town’s ROWs
+- Town of Ophir Ordinance No. [Number]
+- An Ordinance for Revegetation After Soil Disturbance
+- WHEREAS, the purpose of this ordinance is to set standards for revegetation after land
+- disturbances within the Town of Ophir to sustain and regenerate native plant diversity and
+- The ordinance aims to regenerate and sustain the diversity of native plants and pollinators within
+- This ordinance applies to all types of soil disturbances including, but not limited to, new
+- construction, renovations, water and powerline installations, septic system installations, road
+- Acknowledging Ophir's unique position within intact ecosystem, this ordinance supports the
+- Section 4: Requirement for Revegetation Plan
+- Each project prior to soil disturbance must follow Ophir’s Revegetation Requirements
+-  Submit a Revegetation Plan that Includes:
+- o Monitoring and maintenance strategies to ensure successful plant establishment
+- Non-compliance with this ordinance shall result in penalties, including but not limited to fines
+- If any provision of this ordinance is found to be invalid, the remaining provisions shall continue
+- This ordinance shall take effect on [effective date]
+- Approved by:
+- The town of Ophir seeks to both regenerate and sustain the diversity of
+- construction, renovations, water & powerline installation, septic system
+- installation, road work, event planning, etc. This hand out is a guide for the
+- requirements placed upon projects with the Town of Ophir
+- The Revegetation Plan
+- Each project prior to excavation that intends to disturb soil is required to submit a Revegetation Plan. This plan
+
+## [ophir#1] 2025-12-10 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of November 2025 P&Z Regular meeting minutes
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM OCTOBER P&Z MEETING
+- a. OEC’s Proposed Revegetation Ordinance
+- a. Items P&Z discussed:
+- Parking Plan
+- Parking should be limited to Ophir Right of Ways. Landowners should be allowed to park on
+- Approved Seed List
+- of business. Suggest case-by-case approval by Manager, OEC Chair, etc
+
+## [ophir#2] 2026-01-15 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of December 2025 P&Z Regular meeting minutes
+- a. Review and Approval of wood styled cement board wildfire resistant siding for
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM NOVEMBER P&Z MEETING
+- a. Items P&Z discussed:
+- Review and Approval of wood styled cement board wildfire resistant siding
+- combustible and is therefore wildfire resistant
+
+## [ophir#3] 2026-03-11 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of February 2026 P&Z Regular meeting minutes
+- a. Review and Consideration of Variance Application
+- VACATED ALLEY ADJACENT TO LOTS 1 AND 2, BLOCK; THE
+- EASTERN HALF OF VACATED BOBTAIL STREET LYING
+- VACATED ALLEY
+- iii. Variance Requests:
+- 1. Reduction of Required Side Yard Setbacks from 15 Feet to 10 Feet
+- 2. Approval for 2/12 Roof Pitch
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM JANUARY P&Z MEETING
+- a. Misc: Phil brought up that town should consider implications of the cutting of synthetic
+- b. Variance Application for a 2/12 Roof Pitch for new proposed construction, Lots 1 and 2 Block Q
+- a. Slator presented his application and variance ask. Variance is to help reduce building
+- approval of the variance by the GA
+- b. Revegetation Code: P&Z recommended approval 5-0, with removal of the construction fencing
+- c. Dark Sky/Lighting Ordinance: P&Z recommended approval 5-0
+- d. Wildfire Resiliency Code: Joe mentioned town needed to adopt by May per state law,
+- VARIANCE APPLICATION - TOWN OF OPHIR
+- AURUM STREET, OPHIR, CO 81426
+- Street Address and Legal Description of Subject Property:
+- LOTS 1 AND 2, BLOCK 2, OPHIR TOWNSITE, ACCORDING TO THE PLAT RECORDED JUNE 16, 1898 IN PLAT BOOK 28 AT
+- THE SOUTHERN HALF OF VACATED ALLEY ADJACENT TO LOTS 1 AND 2, BLOCK 2, OPHIR TOWNSITE, ACCORDING TO
+- THE EASTERN HALF OF VACATED BOBTAIL STREET LYING BETWEEN LOT 10, BLOCK 1 AND LOT 1, BLOCK 2 AND THAT
+- PORTION ADJACENT TO THE SOUTHERN HALF OF THE VACATED ALLEY WITHIN BLOCK 2, OPHIR TOWNSITE,
+- Zone District of Subject Property Residential Application Fee: $500.00, see §1102.3
+- (2) Site Plan
+- (3) Proof of Notification
+- (1) NARRATIVE: Description of Special Use Permit request including Applicant’s reasons why the Variance
+- should be grant (Use separate letter) See Ophir Land Use Code ARTICLE XI – especially §1104. Standards for
+- (See attached exhibit A – Variance 1 – Reduction of Required Side Yard Setbacks from 15 Feet to 10 Feet)
+- (2) SITE PLAN: Attach a site plan showing existing and proposed improvements on the Applicant’s property and
+- any other information necessary to clearly demonstrate the nature of the Variance request. See Ophir Land Use Code
+- §1102. Note: the Planning Commission may require more information to review the application
+- (See attached documents, photos, and site plans)
+- (3) PROOF OF NOTIFICATION: The Applicant must provide notice in accordance with §1103.3 of the Ophir
+
+## [ophir#4] 2026-05-13 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of April 2026 P&Z Regular meeting minutes
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM MARCH 2026 P&Z MEETING
+- a. Building Plan Approval – Aplin and Kondracki Bobtail Street
+- b. Discussion on Exterior Materials – Upcoming WUI Code requirements versus
+- current approved exterior materials
+- Adopted December 12, 2012 by Ordinance 2012-06
+- Adopted March 20th, 2018 by Ordinance 2018-3
+- Adopted June 27, 2023 by Ordinance 2023-1
+- APPLICATION FORMS
+- 2018 IRC AMENDMENTS
+- ZONING, HAZARD, and SOURCE WATER PROECTION AREA MAPS
+- Planning and Zoning Commission, a map designated as the Official Zoning Map of Town
+- Colorado. The Official Zoning Map and Official Overlay Map, and all notations,
+- §103. F ILING. The Ordinance adopting this LUC, is recorded with the Office of the San Miguel
+- County Clerk and Recorder. The LUC together with the Official Zoning Map, Official
+- Hazards Overlay Maps, Source Water Areas Protection map are on file with the Ophir
+- of Ophir Master Plan adopted on on January 21 st, 2021September 21st, 1993 , as may be
+- amended from time to time. It is the intent of this LUC to lessen congestion in the streets,
+- to the Town’s general police powers, Town’s Home Rule Charter authority, and other
+- §106. INTERPRETATION AND APPLICATION. In the interpretation and application of these LUC,
+- §106.1 Minimum Requirements. In the interpretation and application of the LUC, the provisions
+- §106.3 Existing Permits and Agreements. The adoption of the LUC is not intended to abrogate
+- or annul any permits or approvals of Subdivision Plats, improvements agreements, or
+- Code Council as amended by Exhibit A to Ordinance 2023-1, including appendix chapters
+- A, B, F, I, J, L, Q, R, S AND T (of the “2018 IRC”). The 2018 IRC as amended shall apply
+- IRC, as amended, shall be considered a Town Building Code
+- considered a Town Building Code
+- §1009 ADOPTION OF THE 2025 COLORADO WILDFIRE RESILIENCY CODE
+- The Town of Ophir has adopted the 2025 Wildfire Resiliency Code (CWRC). The CWRC
+- shall be considered a Town Building Code. For avoidance of doubt, if this LUC shall have
+- §10110. Requests to the General Assembly to override any process defined in this LUC are not
+- Formatted: Justified, Indent: Left: 0.25", Hanging:
+- §201.2 Text. In case of any difference of meaning or implication between the text of this Zoning
+- §201.3 Computation of time. For all application submittals, appeals of administrative or
+
+## [ophir#5] 2026-06-10 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of April 2026 P&Z Regular meeting minutes
+- a. EcoAction Partners: Low Energy & Carbon Code Presentation (30 min + Q&A)
+- b. Croke Residence Lots 5 and 6, Block M, Building Permit Review (Granite St)
+- c. Cooper Residence Lots 1 and 2, Block 2, Building Permit Review (Aurum St)
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM MARCH 2026 P&Z MEETING
+- a. Building Plan Approval – Aplin and Kondracki Bobtail Street
+- b. Discussion on Exterior Materials – Upcoming WUI Code requirements versus
+- current approved exterior materials
+- TOWN OF OPHIR — PLANNING & ZONING COMMISSION
+- 1. ZONING & LOT ELIGIBILITY
+- ☐ Parcel is located in the Residential Zone District (verify on Official Zoning Map) §301–302
+- ☐ Lot is NOT within Source Water Protection Area (if yes → see §1001–1010) §1001
+- ☐ Corner lot side yard to street may be 7.5 ft if total sideyards meet required minimum §406.1.C
+- 7. EXTERIOR MATERIALS (samples required before approval and before installation)
+- ☐ Material samples submitted to P&Z prior to plan approval AND prior to installation §303.4
+- 8. OFF-STREET PARKING
+- ☐ Lot ≤ 5,000 sq.ft.: ≥ 2 off-street spaces; Lot > 5,000 sq.ft.: ≥ 3 off-street spaces §305
+- ☐ Each space ≥ 9 ft wide × 18 ft long × 7 ft high with vehicular access to public street §305.2
+- ☐ Driveway grade does not exceed 12%; parking not located in snow-shed zone of structure §305.3
+- ☐ Complete plans filed with Town Clerk before building permit application §303.3
+- Town of Ophir Building Permit Application Requirements updated May, 2018
+- BUILDING PERMIT APPLICATION REQUIREMENTS
+- The Following Checklist contains the necessary requirements for a thorough plan check and is
+- Application should include the Building Permit Application (completed in ink) and three complete
+- Hazard Overlay Zone District and/or the Source Water Protection Overlay Zone District, you must
+- include the appropriate SUP or variance with your building permit application
+- PLAN SETS REQUIRE THE FOLLOWING ELEMENTS:
+- a. Site Plan
+- any natural water course, stream or wetlands in area/on property
+- Show location of septic system, well, water line & curb stop as well as propane tank (must
+- Driveway access, including width, grade, length, parking spaces. Driveways over 150’ in
+- length must have fire department approval
+- c. Foundation Plan
+- a. Planning and Zoning approval. P&Z generally reviews plans on the second Tuesday of each
+
+## [ophir#6] 2026-09-09 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of July 2026 P&Z Regular meeting minutes
@@ -36,7 +224,7 @@
 - Introduced, Read, and Referred to Public Hearing on First Reading by the General Assembly of the Town
 - Approved and Adopted on Second and Final Reading as Amended by the General Assembly of the Town of
 
-## [ophir#1] 2026-10-14 | City Council | agenda
+## [ophir#7] 2026-10-14 | City Council | agenda
 - Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
 - 1. Approve the Agenda
 - 2. Adoption and Approval of September 2026 P&Z Regular meeting minutes

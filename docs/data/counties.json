@@ -380,9 +380,9 @@
     {
      "topic": "Data centers",
      "rank": 2,
-     "of": 53,
+     "of": 55,
      "share": 0.036,
-     "state": 0.01,
+     "state": 0.009,
      "issues": [
       "commerce-city/0",
       "aurora/0",
@@ -394,9 +394,9 @@
     {
      "topic": "Homelessness",
      "rank": 3,
-     "of": 53,
+     "of": 55,
      "share": 0.025,
-     "state": 0.007,
+     "state": 0.006,
      "issues": [
       "adams-county/5",
       "westminster/5",
@@ -406,9 +406,9 @@
     {
      "topic": "Oil, gas & mining",
      "rank": 3,
-     "of": 53,
+     "of": 55,
      "share": 0.017,
-     "state": 0.005,
+     "state": 0.004,
      "issues": [
       "commerce-city/5",
       "adams-county/3",
@@ -432,18 +432,55 @@
     {
      "name": "Hooper",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
+    "hooper/1",
+    "hooper/0",
     "alamosa-county/0",
     "alamosa-county/1",
     "alamosa-county/2",
     "alamosa-county/3",
-    "alamosa-county/4"
+    "alamosa-county/4",
+    "hooper/2",
+    "hooper/3"
    ],
    "tagged": {},
    "topics": {
+    "Government operations": {
+     "weight": 3.2,
+     "issues": [
+      "hooper/0",
+      "alamosa-county/3",
+      "hooper/2"
+     ]
+    },
+    "Budget & taxes": {
+     "weight": 2.2,
+     "issues": [
+      "hooper/0",
+      "alamosa-county/1"
+     ]
+    },
+    "Parks & open space": {
+     "weight": 2.0,
+     "issues": [
+      "hooper/1"
+     ]
+    },
+    "Libraries & culture": {
+     "weight": 2.0,
+     "issues": [
+      "hooper/1"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 2.0,
+     "issues": [
+      "hooper/1"
+     ]
+    },
     "Health & human services": {
      "weight": 2.0,
      "issues": [
@@ -455,12 +492,6 @@
      "weight": 1.0,
      "issues": [
       "alamosa-county/0"
-     ]
-    },
-    "Budget & taxes": {
-     "weight": 1.0,
-     "issues": [
-      "alamosa-county/1"
      ]
     },
     "Utilities": {
@@ -481,49 +512,34 @@
       "alamosa-county/3"
      ]
     },
-    "Government operations": {
-     "weight": 1.0,
-     "issues": [
-      "alamosa-county/3"
-     ]
-    },
     "Housing": {
      "weight": 1.0,
      "issues": [
       "alamosa-county/4"
      ]
+    },
+    "Agriculture & wildlife": {
+     "weight": 1.0,
+     "issues": [
+      "hooper/2"
+     ]
+    },
+    "Elections": {
+     "weight": 1.0,
+     "issues": [
+      "hooper/3"
+     ]
     }
    },
    "standouts": [
     {
-     "topic": "Health & human services",
-     "rank": 3,
-     "of": 53,
-     "share": 0.222,
-     "state": 0.017,
+     "topic": "Libraries & culture",
+     "rank": 1,
+     "of": 55,
+     "share": 0.098,
+     "state": 0.009,
      "issues": [
-      "alamosa-county/0",
-      "alamosa-county/4"
-     ]
-    },
-    {
-     "topic": "Energy",
-     "rank": 4,
-     "of": 53,
-     "share": 0.111,
-     "state": 0.011,
-     "issues": [
-      "alamosa-county/3"
-     ]
-    },
-    {
-     "topic": "Utilities",
-     "rank": 13,
-     "of": 53,
-     "share": 0.111,
-     "state": 0.044,
-     "issues": [
-      "alamosa-county/2"
+      "hooper/1"
      ]
     }
    ]
@@ -602,18 +618,18 @@
     }
    ],
    "issues": [
+    "foxfield/0",
+    "foxfield/1",
+    "columbine-valley/0",
+    "columbine-valley/9",
     "aurora/0",
-    "greenwood-village/0",
-    "sheridan/1",
-    "arapahoe-county/1",
-    "arapahoe-county/11",
-    "centennial/0",
-    "centennial/2",
-    "glendale/3",
-    "sheridan/4",
-    "arapahoe-county/3",
-    "arapahoe-county/0",
-    "arapahoe-county/2"
+    "foxfield/2",
+    "foxfield/3",
+    "foxfield/4",
+    "foxfield/5",
+    "foxfield/7",
+    "foxfield/10",
+    "greenwood-village/0"
    ],
    "tagged": {
     "data-center": {
@@ -627,54 +643,98 @@
    },
    "topics": {
     "Zoning & development": {
-     "weight": 68.0,
+     "weight": 87.8,
      "issues": [
+      "foxfield/1",
+      "columbine-valley/9",
       "aurora/0",
+      "foxfield/2",
       "centennial/0",
       "sheridan/4",
       "arapahoe-county/3",
+      "columbine-valley/5",
       "arapahoe-county/0",
       "arapahoe-county/2",
       "centennial/1",
-      "centennial/5",
-      "foxfield/2",
-      "greenwood-village/1",
-      "littleton/7",
-      "littleton/9"
+      "centennial/5"
      ]
     },
     "Budget & taxes": {
-     "weight": 43.0,
+     "weight": 60.2,
      "issues": [
+      "foxfield/0",
+      "foxfield/4",
+      "foxfield/5",
       "sheridan/1",
       "arapahoe-county/1",
       "arapahoe-county/11",
       "centennial/2",
       "cherry-hills-village/6",
-      "columbine-valley/0",
+      "columbine-valley/2",
       "aurora/2",
       "cherry-hills-village/2",
-      "foxfield/1",
-      "foxfield/3",
-      "greenwood-village/3",
-      "littleton/3"
+      "greenwood-village/3"
      ]
     },
     "Roads & traffic": {
-     "weight": 32.0,
+     "weight": 56.5,
      "issues": [
+      "foxfield/0",
+      "columbine-valley/0",
+      "foxfield/5",
+      "foxfield/7",
       "greenwood-village/0",
       "arapahoe-county/7",
       "cherry-hills-village/4",
-      "columbine-valley/3",
+      "columbine-valley/1",
+      "foxfield/6",
       "littleton/4",
       "littleton/8",
+      "columbine-valley/7"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 34.5,
+     "issues": [
       "foxfield/0",
-      "foxfield/1",
+      "columbine-valley/0",
+      "greenwood-village/0",
+      "foxfield/9",
+      "littleton/4",
+      "columbine-valley/10",
+      "sheridan/0",
+      "aurora/9",
+      "sheridan/8"
+     ]
+    },
+    "Land & property": {
+     "weight": 27.0,
+     "issues": [
+      "foxfield/2",
+      "arapahoe-county/3",
+      "arapahoe-county/4",
+      "aurora/8",
+      "columbine-valley/4",
+      "greenwood-village/1",
+      "aurora/5",
+      "aurora/10",
+      "arapahoe-county/6",
+      "littleton/1",
+      "littleton/10"
+     ]
+    },
+    "Government operations": {
+     "weight": 26.0,
+     "issues": [
       "foxfield/3",
-      "arapahoe-county/5",
-      "centennial/8",
-      "cherry-hills-village/3"
+      "foxfield/10",
+      "sheridan/1",
+      "arapahoe-county/1",
+      "aurora/6",
+      "aurora/7",
+      "aurora/9",
+      "glendale/5",
+      "greenwood-village/11"
      ]
     },
     "Housing": {
@@ -683,7 +743,7 @@
       "sheridan/4",
       "arapahoe-county/3",
       "arapahoe-county/4",
-      "columbine-valley/2",
+      "columbine-valley/3",
       "greenwood-village/9",
       "aurora/5",
       "cherry-hills-village/1",
@@ -694,64 +754,72 @@
      ]
     },
     "Environment & climate": {
-     "weight": 20.0,
+     "weight": 25.0,
      "issues": [
+      "foxfield/1",
       "arapahoe-county/0",
       "aurora/1",
-      "foxfield/2",
       "littleton/6",
       "arapahoe-county/8",
       "centennial/4",
-      "foxfield/0",
       "cherry-hills-village/3",
       "sheridan/7"
      ]
     },
-    "Land & property": {
-     "weight": 19.0,
-     "issues": [
-      "arapahoe-county/3",
-      "arapahoe-county/4",
-      "aurora/8",
-      "greenwood-village/1",
-      "aurora/5",
-      "aurora/10",
-      "arapahoe-county/6",
-      "littleton/1",
-      "littleton/10"
-     ]
-    },
-    "Government operations": {
+    "Elections": {
      "weight": 18.0,
      "issues": [
-      "sheridan/1",
-      "arapahoe-county/1",
-      "aurora/6",
+      "foxfield/3",
+      "foxfield/10",
       "aurora/7",
-      "columbine-valley/6",
-      "aurora/9",
-      "glendale/5",
-      "greenwood-village/11"
+      "cherry-hills-village/1",
+      "cherry-hills-village/2",
+      "centennial/3",
+      "glendale/0"
+     ]
+    },
+    "Utilities": {
+     "weight": 18.0,
+     "issues": [
+      "foxfield/7",
+      "foxfield/6",
+      "littleton/6",
+      "cherry-hills-village/7",
+      "arapahoe-county/5",
+      "glendale/0",
+      "littleton/2",
+      "littleton/10",
+      "sheridan/6"
      ]
     },
     "Fees & rates": {
-     "weight": 14.2,
+     "weight": 17.2,
      "issues": [
       "arapahoe-county/7",
       "aurora/1",
+      "foxfield/9",
       "aurora/2",
-      "columbine-valley/5",
+      "columbine-valley/6",
       "arapahoe-county/9",
       "arapahoe-county/10",
       "centennial/6",
       "littleton/2"
      ]
     },
-    "Recreation & trails": {
-     "weight": 13.2,
+    "Fire & emergencies": {
+     "weight": 17.0,
      "issues": [
+      "foxfield/1",
+      "columbine-valley/9",
+      "aurora/9"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 17.0,
+     "issues": [
+      "columbine-valley/5",
       "cherry-hills-village/4",
-      "columbine-valley/3",
+      "columbine-valley/1",
       "arapahoe-county/12",
       "greenwood-village/6",
       "greenwood-village/2",
@@ -783,27 +851,25 @@
       "sheridan/7"
      ]
     },
-    "Utilities": {
-     "weight": 13.0,
+    "Parks & open space": {
+     "weight": 12.5,
      "issues": [
-      "littleton/6",
-      "cherry-hills-village/7",
-      "foxfield/0",
-      "arapahoe-county/5",
-      "foxfield/5",
-      "glendale/0",
-      "littleton/2",
-      "littleton/10",
-      "sheridan/6"
+      "cherry-hills-village/4",
+      "greenwood-village/7",
+      "arapahoe-county/12",
+      "columbine-valley/8",
+      "greenwood-village/6",
+      "glendale/4"
      ]
     },
-    "Policing & public safety": {
-     "weight": 12.0,
+    "Health & human services": {
+     "weight": 12.2,
      "issues": [
-      "greenwood-village/0",
-      "littleton/4",
-      "sheridan/0",
-      "aurora/9",
+      "arapahoe-county/11",
+      "arapahoe-county/8",
+      "aurora/3",
+      "columbine-valley/8",
+      "arapahoe-county/9",
       "sheridan/8"
      ]
     },
@@ -816,26 +882,6 @@
       "centennial/7",
       "centennial/9",
       "greenwood-village/10"
-     ]
-    },
-    "Parks & open space": {
-     "weight": 10.5,
-     "issues": [
-      "cherry-hills-village/4",
-      "greenwood-village/7",
-      "arapahoe-county/12",
-      "greenwood-village/6",
-      "glendale/4"
-     ]
-    },
-    "Health & human services": {
-     "weight": 10.2,
-     "issues": [
-      "arapahoe-county/11",
-      "arapahoe-county/8",
-      "aurora/3",
-      "arapahoe-county/9",
-      "sheridan/8"
      ]
     },
     "Data centers": {
@@ -854,14 +900,11 @@
       "greenwood-village/7"
      ]
     },
-    "Elections": {
-     "weight": 8.0,
+    "Annexation": {
+     "weight": 7.0,
      "issues": [
-      "aurora/7",
-      "cherry-hills-village/1",
-      "cherry-hills-village/2",
-      "centennial/3",
-      "glendale/0"
+      "centennial/0",
+      "columbine-valley/4"
      ]
     },
     "Tourism & events": {
@@ -878,11 +921,12 @@
       "aurora/10"
      ]
     },
-    "Annexation": {
-     "weight": 6.0,
+    "Lawsuits & legal": {
+     "weight": 5.0,
      "issues": [
-      "centennial/0",
-      "columbine-valley/1"
+      "centennial/5",
+      "foxfield/8",
+      "glendale/2"
      ]
     },
     "Transit": {
@@ -890,20 +934,6 @@
      "issues": [
       "littleton/8",
       "cherry-hills-village/2"
-     ]
-    },
-    "Lawsuits & legal": {
-     "weight": 4.0,
-     "issues": [
-      "centennial/5",
-      "glendale/2"
-     ]
-    },
-    "Fire & emergencies": {
-     "weight": 4.0,
-     "issues": [
-      "foxfield/2",
-      "aurora/9"
      ]
     },
     "Energy": {
@@ -939,45 +969,67 @@
      ]
     },
     "Short-term rentals": {
-     "weight": 1.0,
+     "weight": 2.0,
      "issues": [
-      "arapahoe-county/10"
+      "arapahoe-county/10",
+      "foxfield/8"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Data centers",
-     "rank": 5,
-     "of": 53,
-     "share": 0.022,
-     "state": 0.01,
+     "topic": "Policing & public safety",
+     "rank": 2,
+     "of": 55,
+     "share": 0.062,
+     "state": 0.028,
      "issues": [
-      "aurora/0",
-      "arapahoe-county/0",
-      "littleton/0"
+      "foxfield/0",
+      "columbine-valley/0",
+      "greenwood-village/0",
+      "foxfield/9",
+      "littleton/4",
+      "columbine-valley/10",
+      "sheridan/0",
+      "aurora/9",
+      "sheridan/8"
      ]
     },
     {
-     "topic": "Libraries & culture",
+     "topic": "Roads & traffic",
      "rank": 6,
-     "of": 53,
-     "share": 0.021,
-     "state": 0.011,
+     "of": 55,
+     "share": 0.102,
+     "state": 0.049,
      "issues": [
-      "cherry-hills-village/5",
-      "cherry-hills-village/6",
-      "greenwood-village/7"
+      "foxfield/0",
+      "columbine-valley/0",
+      "foxfield/5",
+      "foxfield/7",
+      "greenwood-village/0",
+      "arapahoe-county/7",
+      "cherry-hills-village/4",
+      "columbine-valley/1",
+      "foxfield/6",
+      "littleton/4",
+      "littleton/8",
+      "columbine-valley/7"
      ]
     },
     {
-     "topic": "Oil, gas & mining",
-     "rank": 6,
-     "of": 53,
-     "share": 0.007,
-     "state": 0.005,
+     "topic": "Elections",
+     "rank": 8,
+     "of": 55,
+     "share": 0.032,
+     "state": 0.016,
      "issues": [
-      "aurora/8"
+      "foxfield/3",
+      "foxfield/10",
+      "aurora/7",
+      "cherry-hills-village/1",
+      "cherry-hills-village/2",
+      "centennial/3",
+      "glendale/0"
      ]
     }
    ]
@@ -1132,8 +1184,8 @@
    "standouts": [
     {
      "topic": "Cannabis & liquor",
-     "rank": 4,
-     "of": 53,
+     "rank": 3,
+     "of": 55,
      "share": 0.011,
      "state": 0.003,
      "issues": [
@@ -1142,10 +1194,10 @@
     },
     {
      "topic": "Housing",
-     "rank": 4,
-     "of": 53,
+     "rank": 3,
+     "of": 55,
      "share": 0.142,
-     "state": 0.067,
+     "state": 0.063,
      "issues": [
       "pagosa-springs/3",
       "archuleta-county/1",
@@ -1156,9 +1208,9 @@
     {
      "topic": "Zoning & development",
      "rank": 4,
-     "of": 53,
+     "of": 55,
      "share": 0.21,
-     "state": 0.126,
+     "state": 0.123,
      "issues": [
       "pagosa-springs/7",
       "pagosa-springs/4",
@@ -1210,39 +1262,76 @@
     }
    ],
    "issues": [
-    "campo/0",
-    "campo/1",
-    "campo/2",
     "campo/3",
+    "campo/6",
+    "campo/7",
+    "campo/0",
     "campo/4",
-    "campo/5"
+    "campo/5",
+    "campo/2",
+    "campo/9",
+    "campo/1",
+    "campo/8"
    ],
    "tagged": {},
    "topics": {
     "Roads & traffic": {
-     "weight": 5.0,
+     "weight": 25.2,
      "issues": [
+      "campo/6",
+      "campo/7",
       "campo/0",
-      "campo/1",
+      "campo/4",
+      "campo/5",
       "campo/2",
-      "campo/3",
-      "campo/5"
-     ]
-    },
-    "Transit": {
-     "weight": 3.0,
-     "issues": [
-      "campo/0",
       "campo/1",
-      "campo/4"
+      "campo/8"
      ]
     },
     "Budget & taxes": {
-     "weight": 3.0,
+     "weight": 24.2,
      "issues": [
-      "campo/0",
+      "campo/3",
+      "campo/6",
+      "campo/7",
+      "campo/5",
+      "campo/1"
+     ]
+    },
+    "Transit": {
+     "weight": 18.2,
+     "issues": [
+      "campo/3",
+      "campo/4",
       "campo/2",
-      "campo/4"
+      "campo/9"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 8.8,
+     "issues": [
+      "campo/6",
+      "campo/0"
+     ]
+    },
+    "Government operations": {
+     "weight": 7.5,
+     "issues": [
+      "campo/5",
+      "campo/2",
+      "campo/9"
+     ]
+    },
+    "Airports": {
+     "weight": 5.0,
+     "issues": [
+      "campo/7"
+     ]
+    },
+    "Land & property": {
+     "weight": 3.8,
+     "issues": [
+      "campo/0"
      ]
     }
    },
@@ -1250,13 +1339,56 @@
     {
      "topic": "Transit",
      "rank": 1,
-     "of": 53,
-     "share": 0.273,
-     "state": 0.008,
+     "of": 55,
+     "share": 0.196,
+     "state": 0.009,
      "issues": [
+      "campo/3",
+      "campo/4",
+      "campo/2",
+      "campo/9"
+     ]
+    },
+    {
+     "topic": "Roads & traffic",
+     "rank": 1,
+     "of": 55,
+     "share": 0.272,
+     "state": 0.049,
+     "issues": [
+      "campo/6",
+      "campo/7",
       "campo/0",
+      "campo/4",
+      "campo/5",
+      "campo/2",
       "campo/1",
-      "campo/4"
+      "campo/8"
+     ]
+    },
+    {
+     "topic": "Recreation & trails",
+     "rank": 1,
+     "of": 55,
+     "share": 0.095,
+     "state": 0.028,
+     "issues": [
+      "campo/6",
+      "campo/0"
+     ]
+    },
+    {
+     "topic": "Budget & taxes",
+     "rank": 1,
+     "of": 55,
+     "share": 0.261,
+     "state": 0.111,
+     "issues": [
+      "campo/3",
+      "campo/6",
+      "campo/7",
+      "campo/5",
+      "campo/1"
      ]
     }
    ]
@@ -1770,9 +1902,9 @@
     {
      "topic": "Parks & open space",
      "rank": 4,
-     "of": 53,
+     "of": 55,
      "share": 0.068,
-     "state": 0.04,
+     "state": 0.038,
      "issues": [
       "superior/0",
       "louisville/6",
@@ -1791,7 +1923,7 @@
     {
      "topic": "Cannabis & liquor",
      "rank": 6,
-     "of": 53,
+     "of": 55,
      "share": 0.005,
      "state": 0.003,
      "issues": [
@@ -1802,9 +1934,9 @@
     {
      "topic": "Annexation",
      "rank": 9,
-     "of": 53,
+     "of": 55,
      "share": 0.02,
-     "state": 0.013,
+     "state": 0.011,
      "issues": [
       "lyons/0",
       "longmont/4",
@@ -1944,21 +2076,11 @@
    },
    "standouts": [
     {
-     "topic": "Elections",
-     "rank": 2,
-     "of": 53,
-     "share": 0.067,
-     "state": 0.015,
-     "issues": [
-      "broomfield/4"
-     ]
-    },
-    {
      "topic": "Zoning & development",
      "rank": 2,
-     "of": 53,
+     "of": 55,
      "share": 0.233,
-     "state": 0.126,
+     "state": 0.123,
      "issues": [
       "broomfield/2",
       "broomfield/0",
@@ -1973,12 +2095,22 @@
     {
      "topic": "Transit",
      "rank": 3,
-     "of": 53,
+     "of": 55,
      "share": 0.05,
-     "state": 0.008,
+     "state": 0.009,
      "issues": [
       "broomfield/10",
       "broomfield/3"
+     ]
+    },
+    {
+     "topic": "Elections",
+     "rank": 3,
+     "of": 55,
+     "share": 0.067,
+     "state": 0.016,
+     "issues": [
+      "broomfield/4"
      ]
     }
    ]
@@ -2281,9 +2413,9 @@
     {
      "topic": "Environment & climate",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.114,
-     "state": 0.039,
+     "state": 0.04,
      "issues": [
       "chaffee-county/4",
       "buena-vista/4",
@@ -2338,17 +2470,17 @@
     {
      "topic": "Tourism & events",
      "rank": 8,
-     "of": 53,
+     "of": 55,
      "share": 0.5,
-     "state": 0.019,
+     "state": 0.018,
      "issues": [
       "cheyenne-county/0"
      ]
     },
     {
      "topic": "Government operations",
-     "rank": 14,
-     "of": 53,
+     "rank": 16,
+     "of": 55,
      "share": 0.5,
      "state": 0.079,
      "issues": [
@@ -2587,32 +2719,32 @@
    },
    "standouts": [
     {
-     "topic": "Libraries & culture",
-     "rank": 2,
-     "of": 53,
-     "share": 0.028,
-     "state": 0.011,
-     "issues": [
-      "idaho-springs/1"
-     ]
-    },
-    {
      "topic": "Historic preservation",
-     "rank": 3,
-     "of": 53,
+     "rank": 4,
+     "of": 55,
      "share": 0.042,
-     "state": 0.012,
+     "state": 0.011,
      "issues": [
       "idaho-springs/1",
       "clear-creek-county/4"
      ]
     },
     {
+     "topic": "Libraries & culture",
+     "rank": 4,
+     "of": 55,
+     "share": 0.028,
+     "state": 0.009,
+     "issues": [
+      "idaho-springs/1"
+     ]
+    },
+    {
      "topic": "Fees & rates",
      "rank": 5,
-     "of": 53,
+     "of": 55,
      "share": 0.081,
-     "state": 0.044,
+     "state": 0.046,
      "issues": [
       "idaho-springs/3",
       "silver-plume/1",
@@ -2711,62 +2843,94 @@
     }
    ],
    "issues": [
+    "ordway/3",
+    "ordway/6",
+    "ordway/1",
+    "ordway/4",
     "ordway/0",
     "ordway/7",
+    "ordway/8",
     "ordway/9",
-    "ordway/1",
     "ordway/2",
-    "ordway/3",
-    "ordway/4",
-    "ordway/5",
-    "ordway/6",
-    "ordway/8"
+    "ordway/5"
    ],
    "tagged": {},
    "topics": {
     "Government operations": {
-     "weight": 5.0,
+     "weight": 6.0,
      "issues": [
-      "ordway/7",
-      "ordway/9",
-      "ordway/4"
-     ]
-    },
-    "Land & property": {
-     "weight": 5.0,
-     "issues": [
-      "ordway/9",
-      "ordway/4",
-      "ordway/5",
+      "ordway/3",
       "ordway/8"
      ]
     },
     "Zoning & development": {
+     "weight": 6.0,
+     "issues": [
+      "ordway/6",
+      "ordway/0"
+     ]
+    },
+    "Historic preservation": {
      "weight": 4.0,
      "issues": [
-      "ordway/0",
-      "ordway/3",
+      "ordway/3"
+     ]
+    },
+    "Parks & open space": {
+     "weight": 4.0,
+     "issues": [
+      "ordway/3"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 4.0,
+     "issues": [
       "ordway/6"
      ]
     },
-    "Annexation": {
-     "weight": 3.0,
+    "Water": {
+     "weight": 4.0,
      "issues": [
-      "ordway/0",
-      "ordway/1"
+      "ordway/1",
+      "ordway/2"
      ]
     },
-    "Budget & taxes": {
-     "weight": 3.0,
+    "Land & property": {
+     "weight": 4.0,
      "issues": [
-      "ordway/7",
+      "ordway/4",
       "ordway/5"
      ]
     },
-    "Environment & climate": {
+    "Budget & taxes": {
+     "weight": 4.0,
+     "issues": [
+      "ordway/7",
+      "ordway/8"
+     ]
+    },
+    "Utilities": {
+     "weight": 3.0,
+     "issues": [
+      "ordway/1"
+     ]
+    },
+    "Annexation": {
+     "weight": 2.0,
+     "issues": [
+      "ordway/0"
+     ]
+    },
+    "Fire & emergencies": {
      "weight": 2.0,
      "issues": [
       "ordway/7"
+     ]
+    },
+    "Libraries & culture": {
+     "weight": 2.0,
+     "issues": [
+      "ordway/9"
      ]
     },
     "Lawsuits & legal": {
@@ -2775,47 +2939,42 @@
       "ordway/2"
      ]
     },
-    "Fees & rates": {
-     "weight": 1.0,
-     "issues": [
-      "ordway/2"
-     ]
-    },
-    "Water": {
-     "weight": 1.0,
-     "issues": [
-      "ordway/2"
-     ]
-    },
     "Housing": {
      "weight": 1.0,
      "issues": [
-      "ordway/3"
-     ]
-    },
-    "Historic preservation": {
-     "weight": 1.0,
-     "issues": [
-      "ordway/6"
-     ]
-    },
-    "Libraries & culture": {
-     "weight": 1.0,
-     "issues": [
-      "ordway/8"
+      "ordway/5"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Annexation",
-     "rank": 1,
-     "of": 53,
-     "share": 0.107,
-     "state": 0.013,
+     "topic": "Historic preservation",
+     "rank": 2,
+     "of": 55,
+     "share": 0.085,
+     "state": 0.011,
      "issues": [
-      "ordway/0",
-      "ordway/1"
+      "ordway/3"
+     ]
+    },
+    {
+     "topic": "Libraries & culture",
+     "rank": 2,
+     "of": 55,
+     "share": 0.043,
+     "state": 0.009,
+     "issues": [
+      "ordway/9"
+     ]
+    },
+    {
+     "topic": "Annexation",
+     "rank": 2,
+     "of": 55,
+     "share": 0.043,
+     "state": 0.011,
+     "issues": [
+      "ordway/0"
      ]
     }
    ]
@@ -2839,18 +2998,18 @@
     }
    ],
    "issues": [
-    "westcliffe/1",
-    "silver-cliff/3",
-    "silver-cliff/0",
     "silver-cliff/1",
-    "silver-cliff/5",
-    "westcliffe/3",
+    "silver-cliff/0",
+    "westcliffe/1",
+    "westcliffe/2",
+    "silver-cliff/3",
     "silver-cliff/2",
-    "silver-cliff/4",
-    "silver-cliff/6",
-    "silver-cliff/7",
     "westcliffe/0",
-    "westcliffe/2"
+    "westcliffe/5",
+    "westcliffe/9",
+    "silver-cliff/4",
+    "silver-cliff/5",
+    "silver-cliff/6"
    ],
    "tagged": {
     "data-center": {
@@ -2862,154 +3021,158 @@
    },
    "topics": {
     "Government operations": {
-     "weight": 8.8,
+     "weight": 19.0,
      "issues": [
-      "westcliffe/1",
       "silver-cliff/0",
-      "silver-cliff/5",
-      "silver-cliff/7"
-     ]
-    },
-    "Housing": {
-     "weight": 7.8,
-     "issues": [
-      "westcliffe/1",
-      "silver-cliff/0",
-      "silver-cliff/1"
+      "westcliffe/2",
+      "silver-cliff/2",
+      "silver-cliff/6",
+      "silver-cliff/8",
+      "westcliffe/10"
      ]
     },
     "Land & property": {
-     "weight": 6.0,
+     "weight": 14.0,
      "issues": [
       "silver-cliff/1",
-      "silver-cliff/5",
-      "silver-cliff/4",
-      "westcliffe/5"
+      "silver-cliff/0",
+      "silver-cliff/8",
+      "silver-cliff/7"
      ]
     },
     "Zoning & development": {
-     "weight": 5.0,
+     "weight": 11.5,
      "issues": [
-      "silver-cliff/1",
-      "silver-cliff/4",
+      "silver-cliff/3",
       "westcliffe/0",
-      "westcliffe/5"
-     ]
-    },
-    "Budget & taxes": {
-     "weight": 3.5,
-     "issues": [
-      "silver-cliff/3",
-      "silver-cliff/2"
-     ]
-    },
-    "Recreation & trails": {
-     "weight": 3.5,
-     "issues": [
-      "silver-cliff/3",
-      "westcliffe/7"
+      "silver-cliff/4",
+      "westcliffe/4"
      ]
     },
     "Parks & open space": {
-     "weight": 3.0,
+     "weight": 11.0,
      "issues": [
-      "westcliffe/3",
-      "westcliffe/7"
+      "silver-cliff/1",
+      "westcliffe/5",
+      "westcliffe/11"
+     ]
+    },
+    "Downtown & business": {
+     "weight": 10.5,
+     "issues": [
+      "westcliffe/1",
+      "westcliffe/9",
+      "silver-cliff/4"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 10.0,
+     "issues": [
+      "silver-cliff/1",
+      "silver-cliff/5",
+      "westcliffe/11"
+     ]
+    },
+    "Housing": {
+     "weight": 10.0,
+     "issues": [
+      "silver-cliff/0",
+      "westcliffe/2"
      ]
     },
     "Roads & traffic": {
+     "weight": 7.0,
+     "issues": [
+      "westcliffe/1",
+      "westcliffe/10"
+     ]
+    },
+    "Budget & taxes": {
+     "weight": 7.0,
+     "issues": [
+      "silver-cliff/5",
+      "silver-cliff/9",
+      "westcliffe/8",
+      "westcliffe/7"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 6.0,
+     "issues": [
+      "silver-cliff/3",
+      "westcliffe/4"
+     ]
+    },
+    "Utilities": {
+     "weight": 5.0,
+     "issues": [
+      "westcliffe/0",
+      "westcliffe/3"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 4.0,
+     "issues": [
+      "silver-cliff/2",
+      "westcliffe/6"
+     ]
+    },
+    "Economic development": {
+     "weight": 4.0,
+     "issues": [
+      "westcliffe/9",
+      "westcliffe/7"
+     ]
+    },
+    "Data centers": {
      "weight": 3.0,
      "issues": [
-      "westcliffe/3",
-      "westcliffe/4"
+      "westcliffe/0"
+     ]
+    },
+    "Environment & climate": {
+     "weight": 3.0,
+     "issues": [
+      "westcliffe/5"
+     ]
+    },
+    "Energy": {
+     "weight": 3.0,
+     "issues": [
+      "silver-cliff/9",
+      "silver-cliff/7"
      ]
     },
     "Water": {
      "weight": 2.0,
      "issues": [
-      "silver-cliff/6",
-      "westcliffe/2"
+      "westcliffe/3"
      ]
     },
-    "Utilities": {
-     "weight": 2.0,
-     "issues": [
-      "silver-cliff/6",
-      "westcliffe/2"
-     ]
-    },
-    "Historic preservation": {
-     "weight": 1.0,
-     "issues": [
-      "silver-cliff/7"
-     ]
-    },
-    "Agriculture & wildlife": {
-     "weight": 1.0,
-     "issues": [
-      "silver-cliff/7"
-     ]
-    },
-    "Data centers": {
-     "weight": 1.0,
-     "issues": [
-      "westcliffe/0"
-     ]
-    },
-    "Policing & public safety": {
+    "Homelessness": {
      "weight": 1.0,
      "issues": [
       "westcliffe/6"
      ]
     },
-    "Health & human services": {
+    "Tourism & events": {
      "weight": 1.0,
      "issues": [
-      "westcliffe/6"
-     ]
-    },
-    "Transit": {
-     "weight": 1.0,
-     "issues": [
-      "westcliffe/6"
+      "westcliffe/7"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Land & property",
-     "rank": 4,
-     "of": 53,
-     "share": 0.119,
-     "state": 0.045,
-     "issues": [
-      "silver-cliff/1",
-      "silver-cliff/5",
-      "silver-cliff/4",
-      "westcliffe/5"
-     ]
-    },
-    {
-     "topic": "Recreation & trails",
-     "rank": 5,
-     "of": 53,
-     "share": 0.069,
-     "state": 0.026,
-     "issues": [
-      "silver-cliff/3",
-      "westcliffe/7"
-     ]
-    },
-    {
-     "topic": "Housing",
-     "rank": 5,
-     "of": 53,
-     "share": 0.154,
-     "state": 0.067,
+     "topic": "Downtown & business",
+     "rank": 1,
+     "of": 55,
+     "share": 0.08,
+     "state": 0.025,
      "issues": [
       "westcliffe/1",
-      "silver-cliff/0",
-      "silver-cliff/1"
+      "westcliffe/9",
+      "silver-cliff/4"
      ]
     }
    ]
@@ -3053,18 +3216,18 @@
     }
    ],
    "issues": [
+    "hotchkiss/1",
+    "crawford/0",
     "paonia/0",
     "delta/3",
+    "crawford/2",
+    "crawford/8",
     "paonia/2",
+    "hotchkiss/7",
     "paonia/7",
     "paonia/9",
     "paonia/11",
-    "delta/4",
-    "hotchkiss/0",
-    "paonia/1",
-    "paonia/5",
-    "delta/7",
-    "delta/9"
+    "delta/4"
    ],
    "tagged": {
     "data-center": {
@@ -3076,102 +3239,143 @@
    },
    "topics": {
     "Government operations": {
-     "weight": 28.2,
+     "weight": 43.8,
      "issues": [
+      "hotchkiss/1",
       "paonia/0",
+      "crawford/8",
       "paonia/11",
-      "hotchkiss/0",
+      "hotchkiss/3",
       "paonia/8",
+      "hotchkiss/10",
       "paonia/10",
       "paonia/13",
       "delta/6",
       "delta/10",
-      "delta/11",
-      "hotchkiss/2",
-      "hotchkiss/6",
-      "paonia/6"
+      "delta/11"
+     ]
+    },
+    "Water": {
+     "weight": 34.0,
+     "issues": [
+      "crawford/0",
+      "crawford/2",
+      "paonia/2",
+      "hotchkiss/0",
+      "paonia/1",
+      "crawford/3",
+      "hotchkiss/5",
+      "crawford/1",
+      "delta/8"
      ]
     },
     "Utilities": {
-     "weight": 15.8,
+     "weight": 33.2,
      "issues": [
+      "crawford/0",
+      "crawford/2",
       "paonia/2",
       "paonia/7",
       "paonia/1",
+      "crawford/3",
+      "hotchkiss/11",
       "paonia/13",
       "delta/8"
      ]
     },
     "Zoning & development": {
-     "weight": 15.2,
+     "weight": 33.0,
      "issues": [
+      "crawford/8",
+      "hotchkiss/7",
       "paonia/5",
       "delta/9",
+      "hotchkiss/5",
+      "hotchkiss/6",
       "paonia/3",
+      "crawford/5",
       "delta/1",
       "paonia/4",
-      "delta/5",
-      "delta/11"
+      "crawford/6",
+      "delta/5"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 24.2,
+     "issues": [
+      "crawford/0",
+      "paonia/7",
+      "hotchkiss/0",
+      "paonia/1",
+      "crawford/1",
+      "crawford/4",
+      "hotchkiss/8"
      ]
     },
     "Land & property": {
-     "weight": 14.8,
+     "weight": 24.0,
      "issues": [
       "paonia/2",
+      "hotchkiss/2",
       "delta/9",
+      "hotchkiss/6",
       "paonia/3",
+      "crawford/5",
       "delta/2",
-      "hotchkiss/1",
+      "crawford/6",
+      "crawford/7",
       "delta/10"
      ]
     },
+    "Budget & taxes": {
+     "weight": 23.5,
+     "issues": [
+      "delta/3",
+      "crawford/2",
+      "paonia/9",
+      "hotchkiss/10",
+      "crawford/4",
+      "hotchkiss/9",
+      "hotchkiss/4"
+     ]
+    },
     "Housing": {
-     "weight": 14.2,
+     "weight": 18.2,
      "issues": [
       "paonia/0",
+      "hotchkiss/7",
       "paonia/5",
       "delta/2",
       "paonia/6"
      ]
     },
-    "Budget & taxes": {
-     "weight": 13.0,
-     "issues": [
-      "delta/3",
-      "paonia/9",
-      "hotchkiss/2",
-      "hotchkiss/5"
-     ]
-    },
-    "Water": {
-     "weight": 11.8,
-     "issues": [
-      "paonia/2",
-      "paonia/1",
-      "crawford/0",
-      "delta/8",
-      "hotchkiss/3"
-     ]
-    },
-    "Fees & rates": {
+    "Policing & public safety": {
      "weight": 8.8,
      "issues": [
-      "paonia/7",
-      "paonia/1",
-      "crawford/0"
-     ]
-    },
-    "Lawsuits & legal": {
-     "weight": 7.8,
-     "issues": [
-      "paonia/11",
-      "hotchkiss/0"
+      "hotchkiss/3",
+      "paonia/8",
+      "hotchkiss/9"
      ]
     },
     "Short-term rentals": {
      "weight": 7.5,
      "issues": [
       "paonia/0"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 6.2,
+     "issues": [
+      "delta/7",
+      "paonia/12",
+      "hotchkiss/8"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 5.8,
+     "issues": [
+      "hotchkiss/2",
+      "paonia/13"
      ]
     },
     "Downtown & business": {
@@ -3181,26 +3385,17 @@
       "paonia/3"
      ]
     },
-    "Roads & traffic": {
-     "weight": 5.0,
-     "issues": [
-      "delta/7",
-      "paonia/12"
-     ]
-    },
-    "Policing & public safety": {
-     "weight": 5.0,
-     "issues": [
-      "paonia/8",
-      "hotchkiss/2",
-      "hotchkiss/6"
-     ]
-    },
-    "Health & human services": {
+    "Environment & climate": {
      "weight": 4.8,
      "issues": [
-      "delta/4",
-      "hotchkiss/6"
+      "hotchkiss/0",
+      "delta/6"
+     ]
+    },
+    "Lawsuits & legal": {
+     "weight": 4.0,
+     "issues": [
+      "paonia/11"
      ]
     },
     "Homelessness": {
@@ -3209,24 +3404,42 @@
       "delta/4"
      ]
     },
-    "Tourism & events": {
+    "Health & human services": {
      "weight": 3.8,
      "issues": [
-      "hotchkiss/0"
-     ]
-    },
-    "Recreation & trails": {
-     "weight": 3.2,
-     "issues": [
-      "paonia/13",
-      "hotchkiss/4"
+      "delta/4"
      ]
     },
     "Parks & open space": {
-     "weight": 2.5,
+     "weight": 3.8,
      "issues": [
-      "hotchkiss/1",
-      "hotchkiss/4"
+      "hotchkiss/2"
+     ]
+    },
+    "Tourism & events": {
+     "weight": 3.8,
+     "issues": [
+      "hotchkiss/3"
+     ]
+    },
+    "Elections": {
+     "weight": 3.5,
+     "issues": [
+      "hotchkiss/10",
+      "crawford/9"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 3.0,
+     "issues": [
+      "hotchkiss/5"
+     ]
+    },
+    "Broadband": {
+     "weight": 3.0,
+     "issues": [
+      "hotchkiss/11",
+      "crawford/7"
      ]
     },
     "Energy": {
@@ -3235,23 +3448,16 @@
       "paonia/10"
      ]
     },
-    "Environment & climate": {
-     "weight": 2.0,
+    "Ethics & transparency": {
+     "weight": 1.2,
      "issues": [
-      "delta/6",
-      "hotchkiss/3"
+      "crawford/10"
      ]
     },
     "Economic development": {
-     "weight": 1.2,
+     "weight": 1.0,
      "issues": [
-      "hotchkiss/1"
-     ]
-    },
-    "Schools & youth": {
-     "weight": 1.2,
-     "issues": [
-      "hotchkiss/4"
+      "crawford/7"
      ]
     },
     "Data centers": {
@@ -3259,23 +3465,54 @@
      "issues": [
       "delta/0"
      ]
-    },
-    "Fire & emergencies": {
-     "weight": 1.0,
-     "issues": [
-      "hotchkiss/3"
-     ]
     }
    },
    "standouts": [
     {
-     "topic": "Short-term rentals",
-     "rank": 1,
-     "of": 53,
-     "share": 0.042,
-     "state": 0.006,
+     "topic": "Broadband",
+     "rank": 4,
+     "of": 55,
+     "share": 0.01,
+     "state": 0.002,
      "issues": [
-      "paonia/0"
+      "hotchkiss/11",
+      "crawford/7"
+     ]
+    },
+    {
+     "topic": "Water",
+     "rank": 4,
+     "of": 55,
+     "share": 0.111,
+     "state": 0.052,
+     "issues": [
+      "crawford/0",
+      "crawford/2",
+      "paonia/2",
+      "hotchkiss/0",
+      "paonia/1",
+      "crawford/3",
+      "hotchkiss/5",
+      "crawford/1",
+      "delta/8"
+     ]
+    },
+    {
+     "topic": "Utilities",
+     "rank": 5,
+     "of": 55,
+     "share": 0.108,
+     "state": 0.05,
+     "issues": [
+      "crawford/0",
+      "crawford/2",
+      "paonia/2",
+      "paonia/7",
+      "paonia/1",
+      "crawford/3",
+      "hotchkiss/11",
+      "paonia/13",
+      "delta/8"
      ]
     }
    ]
@@ -3436,9 +3673,9 @@
     {
      "topic": "Homelessness",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.122,
-     "state": 0.007,
+     "state": 0.006,
      "issues": [
       "denver/6",
       "denver/7"
@@ -3447,9 +3684,9 @@
     {
      "topic": "Airports",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.067,
-     "state": 0.008,
+     "state": 0.007,
      "issues": [
       "denver/9"
      ]
@@ -3545,7 +3782,7 @@
     {
      "topic": "Government operations",
      "rank": 2,
-     "of": 53,
+     "of": 55,
      "share": 0.381,
      "state": 0.079,
      "issues": [
@@ -3557,10 +3794,10 @@
     },
     {
      "topic": "Utilities",
-     "rank": 3,
-     "of": 53,
+     "rank": 4,
+     "of": 55,
      "share": 0.19,
-     "state": 0.044,
+     "state": 0.05,
      "issues": [
       "dove-creek/1",
       "dove-creek/5",
@@ -3569,10 +3806,10 @@
     },
     {
      "topic": "Water",
-     "rank": 5,
-     "of": 53,
+     "rank": 6,
+     "of": 55,
      "share": 0.143,
-     "state": 0.051,
+     "state": 0.052,
      "issues": [
       "dove-creek/1",
       "dove-creek/5"
@@ -3887,9 +4124,9 @@
     {
      "topic": "Parks & open space",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.087,
-     "state": 0.04,
+     "state": 0.038,
      "issues": [
       "douglas-county/10",
       "parker/7",
@@ -4213,27 +4450,11 @@
     {
      "topic": "Immigration",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.004,
      "state": 0.0,
      "issues": [
       "basalt/9"
-     ]
-    },
-    {
-     "topic": "Recreation & trails",
-     "rank": 1,
-     "of": 53,
-     "share": 0.079,
-     "state": 0.026,
-     "issues": [
-      "eagle/0",
-      "eagle/2",
-      "minturn/1",
-      "basalt/10",
-      "eagle/8",
-      "gypsum/4",
-      "gypsum/9"
      ]
     }
    ]
@@ -4287,18 +4508,18 @@
     }
    ],
    "issues": [
+    "green-mountain-falls/5",
     "colorado-springs/1",
+    "green-mountain-falls/3",
+    "green-mountain-falls/0",
+    "green-mountain-falls/1",
     "colorado-springs/8",
+    "green-mountain-falls/6",
+    "green-mountain-falls/7",
     "palmer-lake/4",
     "palmer-lake/9",
-    "green-mountain-falls/1",
-    "palmer-lake/8",
-    "palmer-lake/10",
-    "colorado-springs/0",
-    "monument/0",
-    "palmer-lake/2",
-    "palmer-lake/3",
-    "colorado-springs/4"
+    "green-mountain-falls/2",
+    "palmer-lake/8"
    ],
    "tagged": {
     "data-center": {
@@ -4311,11 +4532,12 @@
    },
    "topics": {
     "Zoning & development": {
-     "weight": 53.2,
+     "weight": 62.2,
      "issues": [
+      "green-mountain-falls/5",
       "colorado-springs/1",
+      "green-mountain-falls/0",
       "colorado-springs/8",
-      "green-mountain-falls/1",
       "colorado-springs/0",
       "monument/0",
       "colorado-springs/11",
@@ -4323,20 +4545,19 @@
       "monument/3",
       "colorado-springs/2",
       "colorado-springs/7",
-      "monument/5",
-      "palmer-lake/0"
+      "monument/5"
      ]
     },
     "Budget & taxes": {
-     "weight": 33.5,
+     "weight": 38.0,
      "issues": [
+      "green-mountain-falls/3",
       "palmer-lake/4",
+      "green-mountain-falls/2",
       "colorado-springs/4",
-      "green-mountain-falls/0",
       "monument/1",
       "monument/12",
       "palmer-lake/6",
-      "green-mountain-falls/4",
       "el-paso-county/3",
       "colorado-springs/5",
       "colorado-springs/13",
@@ -4344,16 +4565,28 @@
       "el-paso-county/6"
      ]
     },
-    "Government operations": {
-     "weight": 29.5,
+    "Parks & open space": {
+     "weight": 31.0,
      "issues": [
-      "palmer-lake/4",
       "green-mountain-falls/1",
+      "palmer-lake/9",
+      "palmer-lake/8",
+      "palmer-lake/10",
+      "palmer-lake/3",
+      "green-mountain-falls/9",
+      "colorado-springs/6",
+      "palmer-lake/11",
+      "palmer-lake/12"
+     ]
+    },
+    "Government operations": {
+     "weight": 28.8,
+     "issues": [
+      "green-mountain-falls/5",
+      "palmer-lake/4",
       "colorado-springs/4",
       "colorado-springs/12",
-      "green-mountain-falls/4",
       "el-paso-county/3",
-      "green-mountain-falls/8",
       "monument/11",
       "palmer-lake/7",
       "el-paso-county/4",
@@ -4361,38 +4594,79 @@
       "colorado-springs/14"
      ]
     },
-    "Parks & open space": {
-     "weight": 22.8,
-     "issues": [
-      "palmer-lake/9",
-      "palmer-lake/8",
-      "palmer-lake/10",
-      "palmer-lake/3",
-      "colorado-springs/6",
-      "palmer-lake/11",
-      "green-mountain-falls/6",
-      "palmer-lake/12"
-     ]
-    },
     "Fees & rates": {
-     "weight": 15.8,
+     "weight": 23.8,
      "issues": [
+      "green-mountain-falls/3",
       "palmer-lake/3",
       "colorado-springs/12",
       "monument/1",
       "monument/12",
       "colorado-springs/5",
+      "green-mountain-falls/4",
       "monument/8"
      ]
     },
     "Utilities": {
-     "weight": 15.2,
+     "weight": 19.2,
      "issues": [
       "colorado-springs/1",
+      "green-mountain-falls/7",
       "palmer-lake/2",
       "colorado-springs/13",
-      "colorado-springs/9",
-      "green-mountain-falls/6"
+      "colorado-springs/9"
+     ]
+    },
+    "Land & property": {
+     "weight": 19.2,
+     "issues": [
+      "green-mountain-falls/1",
+      "colorado-springs/6",
+      "green-mountain-falls/8",
+      "monument/5",
+      "palmer-lake/1",
+      "el-paso-county/2",
+      "el-paso-county/4",
+      "el-paso-county/5",
+      "monument/7",
+      "palmer-lake/12"
+     ]
+    },
+    "Annexation": {
+     "weight": 16.8,
+     "issues": [
+      "colorado-springs/1",
+      "green-mountain-falls/1",
+      "palmer-lake/1",
+      "palmer-lake/5"
+     ]
+    },
+    "Water": {
+     "weight": 16.8,
+     "issues": [
+      "green-mountain-falls/7",
+      "palmer-lake/9",
+      "palmer-lake/3",
+      "monument/9"
+     ]
+    },
+    "Environment & climate": {
+     "weight": 16.0,
+     "issues": [
+      "green-mountain-falls/0",
+      "palmer-lake/9",
+      "palmer-lake/2",
+      "palmer-lake/12"
+     ]
+    },
+    "Downtown & business": {
+     "weight": 15.8,
+     "issues": [
+      "green-mountain-falls/6",
+      "monument/0",
+      "monument/3",
+      "colorado-springs/3",
+      "colorado-springs/5"
      ]
     },
     "Housing": {
@@ -4407,70 +4681,32 @@
       "el-paso-county/1"
      ]
     },
-    "Water": {
-     "weight": 11.8,
+    "Roads & traffic": {
+     "weight": 12.0,
      "issues": [
-      "palmer-lake/9",
-      "palmer-lake/3",
-      "monument/9"
-     ]
-    },
-    "Annexation": {
-     "weight": 11.5,
-     "issues": [
-      "colorado-springs/1",
-      "palmer-lake/1",
-      "green-mountain-falls/7",
-      "palmer-lake/5"
-     ]
-    },
-    "Land & property": {
-     "weight": 11.0,
-     "issues": [
-      "colorado-springs/6",
-      "monument/5",
-      "palmer-lake/1",
-      "el-paso-county/2",
-      "el-paso-county/4",
+      "green-mountain-falls/6",
+      "monument/2",
+      "monument/11",
       "el-paso-county/5",
-      "monument/7",
-      "palmer-lake/12"
-     ]
-    },
-    "Downtown & business": {
-     "weight": 10.8,
-     "issues": [
-      "monument/0",
-      "monument/3",
-      "colorado-springs/3",
-      "colorado-springs/5"
+      "monument/8"
      ]
     },
     "Recreation & trails": {
-     "weight": 10.0,
+     "weight": 12.0,
      "issues": [
       "palmer-lake/8",
       "palmer-lake/10",
+      "green-mountain-falls/8",
       "palmer-lake/11"
      ]
     },
-    "Environment & climate": {
-     "weight": 9.8,
-     "issues": [
-      "palmer-lake/9",
-      "palmer-lake/2",
-      "palmer-lake/12"
-     ]
-    },
-    "Economic development": {
+    "Elections": {
      "weight": 9.0,
      "issues": [
-      "colorado-springs/12",
-      "monument/10",
-      "el-paso-county/6",
-      "green-mountain-falls/5",
-      "monument/4",
-      "monument/6"
+      "green-mountain-falls/2",
+      "green-mountain-falls/9",
+      "el-paso-county/8",
+      "palmer-lake/5"
      ]
     },
     "Lawsuits & legal": {
@@ -4482,21 +4718,20 @@
       "palmer-lake/5"
      ]
     },
-    "Roads & traffic": {
-     "weight": 7.0,
+    "Economic development": {
+     "weight": 8.0,
      "issues": [
-      "monument/2",
-      "monument/11",
-      "el-paso-county/5",
-      "monument/8"
+      "colorado-springs/12",
+      "monument/10",
+      "el-paso-county/6",
+      "monument/4",
+      "monument/6"
      ]
     },
-    "Policing & public safety": {
-     "weight": 6.0,
+    "Fire & emergencies": {
+     "weight": 6.2,
      "issues": [
-      "monument/12",
-      "colorado-springs/3",
-      "green-mountain-falls/9"
+      "green-mountain-falls/0"
      ]
     },
     "Data centers": {
@@ -4504,6 +4739,13 @@
      "issues": [
       "colorado-springs/0",
       "palmer-lake/0"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 5.0,
+     "issues": [
+      "monument/12",
+      "colorado-springs/3"
      ]
     },
     "Ethics & transparency": {
@@ -4532,60 +4774,23 @@
       "colorado-springs/3"
      ]
     },
-    "Elections": {
-     "weight": 2.0,
-     "issues": [
-      "el-paso-county/8",
-      "palmer-lake/5"
-     ]
-    },
-    "Fire & emergencies": {
+    "Short-term rentals": {
      "weight": 1.0,
      "issues": [
-      "green-mountain-falls/2"
+      "green-mountain-falls/4"
      ]
     }
    },
    "standouts": [
     {
      "topic": "Annexation",
-     "rank": 2,
-     "of": 53,
-     "share": 0.038,
-     "state": 0.013,
+     "rank": 1,
+     "of": 55,
+     "share": 0.043,
+     "state": 0.011,
      "issues": [
       "colorado-springs/1",
-      "palmer-lake/1",
-      "green-mountain-falls/7",
-      "palmer-lake/5"
-     ]
-    },
-    {
-     "topic": "Parks & open space",
-     "rank": 3,
-     "of": 53,
-     "share": 0.075,
-     "state": 0.04,
-     "issues": [
-      "palmer-lake/9",
-      "palmer-lake/8",
-      "palmer-lake/10",
-      "palmer-lake/3",
-      "colorado-springs/6",
-      "palmer-lake/11",
-      "green-mountain-falls/6",
-      "palmer-lake/12"
-     ]
-    },
-    {
-     "topic": "Lawsuits & legal",
-     "rank": 6,
-     "of": 53,
-     "share": 0.029,
-     "state": 0.012,
-     "issues": [
-      "monument/9",
-      "palmer-lake/6",
+      "green-mountain-falls/1",
       "palmer-lake/1",
       "palmer-lake/5"
      ]
@@ -4619,13 +4824,13 @@
     "elizabeth/1",
     "elizabeth/0",
     "elizabeth/7",
+    "kiowa/0",
     "elizabeth/2",
     "elizabeth/3",
     "elizabeth/4",
     "elizabeth/5",
     "elizabeth/6",
     "elizabeth/8",
-    "kiowa/0",
     "kiowa/1",
     "kiowa/2"
    ],
@@ -4635,10 +4840,9 @@
      "weight": 6.0,
      "issues": [
       "elizabeth/0",
-      "elizabeth/4",
-      "elizabeth/6",
       "kiowa/0",
-      "kiowa/3"
+      "elizabeth/4",
+      "elizabeth/6"
      ]
     },
     "Budget & taxes": {
@@ -4646,6 +4850,14 @@
      "issues": [
       "elizabeth/1",
       "kiowa/1"
+     ]
+    },
+    "Land & property": {
+     "weight": 4.0,
+     "issues": [
+      "kiowa/0",
+      "elizabeth/4",
+      "kiowa/5"
      ]
     },
     "Water": {
@@ -4683,13 +4895,6 @@
       "kiowa/4"
      ]
     },
-    "Land & property": {
-     "weight": 2.0,
-     "issues": [
-      "elizabeth/4",
-      "kiowa/5"
-     ]
-    },
     "Fees & rates": {
      "weight": 2.0,
      "issues": [
@@ -4718,11 +4923,23 @@
    },
    "standouts": [
     {
+     "topic": "Land & property",
+     "rank": 5,
+     "of": 55,
+     "share": 0.125,
+     "state": 0.047,
+     "issues": [
+      "kiowa/0",
+      "elizabeth/4",
+      "kiowa/5"
+     ]
+    },
+    {
      "topic": "Water",
-     "rank": 4,
-     "of": 53,
-     "share": 0.133,
-     "state": 0.051,
+     "rank": 5,
+     "of": 55,
+     "share": 0.125,
+     "state": 0.052,
      "issues": [
       "elizabeth/2",
       "elizabeth/3",
@@ -4731,21 +4948,11 @@
      ]
     },
     {
-     "topic": "Downtown & business",
-     "rank": 7,
-     "of": 53,
-     "share": 0.067,
-     "state": 0.026,
-     "issues": [
-      "elizabeth/7"
-     ]
-    },
-    {
      "topic": "Annexation",
      "rank": 8,
-     "of": 53,
-     "share": 0.033,
-     "state": 0.013,
+     "of": 55,
+     "share": 0.031,
+     "state": 0.011,
      "issues": [
       "elizabeth/5"
      ]
@@ -5006,7 +5213,7 @@
     {
      "topic": "Guns",
      "rank": 2,
-     "of": 53,
+     "of": 55,
      "share": 0.014,
      "state": 0.001,
      "issues": [
@@ -5017,19 +5224,19 @@
     {
      "topic": "Lawsuits & legal",
      "rank": 2,
-     "of": 53,
+     "of": 55,
      "share": 0.05,
-     "state": 0.012,
+     "state": 0.011,
      "issues": [
       "canon-city/1"
      ]
     },
     {
      "topic": "Tourism & events",
-     "rank": 3,
-     "of": 53,
+     "rank": 2,
+     "of": 55,
      "share": 0.079,
-     "state": 0.019,
+     "state": 0.018,
      "issues": [
       "canon-city/1",
       "canon-city/13"
@@ -5084,15 +5291,15 @@
     "glenwood-springs/1",
     "garfield-county/13",
     "glenwood-springs/10",
+    "parachute/2",
+    "parachute/3",
     "rifle/0",
     "garfield-county/5",
     "glenwood-springs/0",
     "glenwood-springs/4",
     "rifle/7",
     "garfield-county/7",
-    "garfield-county/12",
-    "new-castle/4",
-    "rifle/1"
+    "garfield-county/12"
    ],
    "tagged": {
     "data-center": {
@@ -5105,7 +5312,7 @@
    },
    "topics": {
     "Zoning & development": {
-     "weight": 29.0,
+     "weight": 31.0,
      "issues": [
       "rifle/0",
       "glenwood-springs/0",
@@ -5113,34 +5320,18 @@
       "garfield-county/4",
       "glenwood-springs/5",
       "glenwood-springs/11",
+      "parachute/1",
+      "parachute/8",
       "rifle/9",
       "glenwood-springs/7",
       "garfield-county/0",
-      "garfield-county/1",
-      "garfield-county/2",
-      "new-castle/0"
-     ]
-    },
-    "Housing": {
-     "weight": 23.8,
-     "issues": [
-      "garfield-county/5",
-      "glenwood-springs/0",
-      "rifle/1",
-      "garfield-county/4",
-      "glenwood-springs/5",
-      "glenwood-springs/6",
-      "rifle/4",
-      "new-castle/7",
-      "garfield-county/1",
-      "garfield-county/2",
-      "new-castle/5",
-      "parachute/2"
+      "garfield-county/1"
      ]
     },
     "Budget & taxes": {
-     "weight": 23.8,
+     "weight": 24.8,
      "issues": [
+      "parachute/2",
       "rifle/7",
       "garfield-county/7",
       "garfield-county/9",
@@ -5148,91 +5339,149 @@
       "glenwood-springs/6",
       "glenwood-springs/8",
       "new-castle/3",
-      "parachute/1",
       "garfield-county/8",
       "garfield-county/10",
       "garfield-county/11",
-      "parachute/3"
+      "rifle/2"
+     ]
+    },
+    "Housing": {
+     "weight": 24.8,
+     "issues": [
+      "garfield-county/5",
+      "glenwood-springs/0",
+      "rifle/1",
+      "garfield-county/4",
+      "glenwood-springs/5",
+      "glenwood-springs/6",
+      "parachute/1",
+      "rifle/4",
+      "new-castle/7",
+      "garfield-county/1",
+      "garfield-county/2",
+      "new-castle/5"
      ]
     },
     "Fees & rates": {
-     "weight": 14.8,
+     "weight": 18.8,
      "issues": [
       "glenwood-springs/1",
       "new-castle/4",
+      "parachute/4",
       "glenwood-springs/2",
       "new-castle/3",
       "garfield-county/6",
-      "glenwood-springs/9"
+      "glenwood-springs/9",
+      "parachute/9"
      ]
     },
     "Government operations": {
-     "weight": 12.5,
+     "weight": 17.0,
      "issues": [
+      "parachute/2",
       "garfield-county/7",
-      "rifle/8",
       "parachute/7",
+      "rifle/8",
       "rifle/6",
       "garfield-county/11",
       "new-castle/0",
       "new-castle/9"
      ]
     },
-    "Transit": {
-     "weight": 12.0,
-     "issues": [
-      "glenwood-springs/10",
-      "garfield-county/12",
-      "glenwood-springs/11",
-      "parachute/8",
-      "garfield-county/10"
-     ]
-    },
     "Utilities": {
-     "weight": 12.0,
+     "weight": 17.0,
      "issues": [
       "rifle/0",
+      "parachute/4",
+      "parachute/10",
       "garfield-county/3",
       "new-castle/3",
       "rifle/3",
-      "glenwood-springs/9",
-      "parachute/9"
+      "glenwood-springs/9"
+     ]
+    },
+    "Downtown & business": {
+     "weight": 14.8,
+     "issues": [
+      "parachute/3",
+      "glenwood-springs/4",
+      "rifle/5",
+      "parachute/5",
+      "parachute/11",
+      "rifle/2"
      ]
     },
     "Health & human services": {
-     "weight": 10.8,
+     "weight": 13.2,
      "issues": [
       "garfield-county/5",
       "garfield-county/12",
+      "parachute/7",
       "garfield-county/9",
       "rifle/6"
      ]
     },
-    "Roads & traffic": {
-     "weight": 9.8,
+    "Transit": {
+     "weight": 13.0,
      "issues": [
       "glenwood-springs/10",
+      "garfield-county/12",
+      "parachute/6",
+      "glenwood-springs/11",
+      "garfield-county/10"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 12.8,
+     "issues": [
+      "glenwood-springs/10",
+      "parachute/3",
       "glenwood-springs/4",
-      "garfield-county/10",
-      "parachute/6"
+      "garfield-county/10"
+     ]
+    },
+    "Environment & climate": {
+     "weight": 8.2,
+     "issues": [
+      "new-castle/4",
+      "parachute/8",
+      "garfield-county/6",
+      "glenwood-springs/9",
+      "new-castle/10"
+     ]
+    },
+    "Economic development": {
+     "weight": 8.0,
+     "issues": [
+      "parachute/3",
+      "rifle/5",
+      "rifle/2"
      ]
     },
     "Tourism & events": {
-     "weight": 9.0,
+     "weight": 8.0,
      "issues": [
       "new-castle/4",
       "rifle/5",
-      "glenwood-springs/8",
-      "parachute/5"
+      "glenwood-springs/8"
      ]
     },
-    "Downtown & business": {
-     "weight": 8.8,
+    "Energy": {
+     "weight": 8.0,
      "issues": [
-      "glenwood-springs/4",
-      "rifle/5",
-      "parachute/4",
-      "rifle/2"
+      "parachute/10",
+      "garfield-county/3",
+      "glenwood-springs/11",
+      "new-castle/9"
+     ]
+    },
+    "Land & property": {
+     "weight": 8.0,
+     "issues": [
+      "parachute/10",
+      "parachute/5",
+      "rifle/9",
+      "garfield-county/0"
      ]
     },
     "Short-term rentals": {
@@ -5250,22 +5499,21 @@
       "glenwood-springs/12"
      ]
     },
-    "Environment & climate": {
-     "weight": 6.2,
+    "Recreation & trails": {
+     "weight": 7.2,
      "issues": [
-      "new-castle/4",
-      "garfield-county/6",
-      "glenwood-springs/9",
-      "new-castle/10"
+      "rifle/7",
+      "parachute/7",
+      "glenwood-springs/12"
      ]
     },
-    "Energy": {
-     "weight": 6.0,
+    "Water": {
+     "weight": 7.2,
      "issues": [
-      "garfield-county/3",
-      "glenwood-springs/11",
-      "new-castle/9",
-      "parachute/9"
+      "parachute/4",
+      "rifle/3",
+      "glenwood-springs/7",
+      "new-castle/10"
      ]
     },
     "Elections": {
@@ -5276,13 +5524,12 @@
       "garfield-county/8"
      ]
     },
-    "Water": {
+    "Fire & emergencies": {
      "weight": 5.2,
      "issues": [
-      "rifle/3",
-      "glenwood-springs/7",
-      "new-castle/10",
-      "parachute/5"
+      "glenwood-springs/3",
+      "parachute/8",
+      "glenwood-springs/7"
      ]
     },
     "Data centers": {
@@ -5292,32 +5539,18 @@
       "parachute/0"
      ]
     },
-    "Economic development": {
+    "Policing & public safety": {
      "weight": 5.0,
      "issues": [
-      "rifle/5",
-      "parachute/3",
-      "rifle/2"
-     ]
-    },
-    "Recreation & trails": {
-     "weight": 4.8,
-     "issues": [
-      "rifle/7",
-      "glenwood-springs/12"
+      "garfield-county/9",
+      "new-castle/6",
+      "parachute/9"
      ]
     },
     "Airports": {
      "weight": 4.0,
      "issues": [
       "garfield-county/13"
-     ]
-    },
-    "Policing & public safety": {
-     "weight": 4.0,
-     "issues": [
-      "garfield-county/9",
-      "new-castle/6"
      ]
     },
     "Lawsuits & legal": {
@@ -5340,20 +5573,6 @@
       "garfield-county/8"
      ]
     },
-    "Fire & emergencies": {
-     "weight": 3.2,
-     "issues": [
-      "glenwood-springs/3",
-      "glenwood-springs/7"
-     ]
-    },
-    "Land & property": {
-     "weight": 3.0,
-     "issues": [
-      "rifle/9",
-      "garfield-county/0"
-     ]
-    },
     "Historic preservation": {
      "weight": 2.0,
      "issues": [
@@ -5365,39 +5584,44 @@
     {
      "topic": "Transit",
      "rank": 2,
-     "of": 53,
-     "share": 0.049,
-     "state": 0.008,
+     "of": 55,
+     "share": 0.044,
+     "state": 0.009,
      "issues": [
       "glenwood-springs/10",
       "garfield-county/12",
+      "parachute/6",
       "glenwood-springs/11",
-      "parachute/8",
       "garfield-county/10"
-     ]
-    },
-    {
-     "topic": "Short-term rentals",
-     "rank": 4,
-     "of": 53,
-     "share": 0.03,
-     "state": 0.006,
-     "issues": [
-      "glenwood-springs/1",
-      "glenwood-springs/2"
      ]
     },
     {
      "topic": "Health & human services",
      "rank": 4,
-     "of": 53,
-     "share": 0.044,
-     "state": 0.017,
+     "of": 55,
+     "share": 0.045,
+     "state": 0.016,
      "issues": [
       "garfield-county/5",
       "garfield-county/12",
+      "parachute/7",
       "garfield-county/9",
       "rifle/6"
+     ]
+    },
+    {
+     "topic": "Downtown & business",
+     "rank": 4,
+     "of": 55,
+     "share": 0.05,
+     "state": 0.025,
+     "issues": [
+      "parachute/3",
+      "glenwood-springs/4",
+      "rifle/5",
+      "parachute/5",
+      "parachute/11",
+      "rifle/2"
      ]
     }
    ]
@@ -5426,103 +5650,98 @@
     "gilpin-county/2",
     "gilpin-county/3",
     "gilpin-county/4",
+    "black-hawk/1",
     "black-hawk/2",
-    "gilpin-county/0",
-    "gilpin-county/1",
-    "gilpin-county/7",
-    "gilpin-county/9",
-    "black-hawk/0",
-    "black-hawk/4"
+    "black-hawk/3",
+    "black-hawk/4",
+    "black-hawk/6",
+    "black-hawk/7",
+    "black-hawk/0"
    ],
    "tagged": {},
    "topics": {
-    "Fire & emergencies": {
-     "weight": 11.0,
+    "Budget & taxes": {
+     "weight": 14.0,
      "issues": [
-      "gilpin-county/6",
-      "gilpin-county/0",
-      "black-hawk/5"
-     ]
-    },
-    "Government operations": {
-     "weight": 11.0,
-     "issues": [
-      "gilpin-county/2",
+      "gilpin-county/5",
       "gilpin-county/4",
-      "gilpin-county/8",
       "black-hawk/1",
-      "black-hawk/3",
-      "black-hawk/5",
-      "black-hawk/6"
+      "black-hawk/6",
+      "black-hawk/8"
      ]
     },
     "Environment & climate": {
-     "weight": 8.0,
+     "weight": 13.5,
      "issues": [
-      "gilpin-county/6"
+      "gilpin-county/6",
+      "black-hawk/2",
+      "black-hawk/0"
      ]
     },
-    "Budget & taxes": {
-     "weight": 7.0,
+    "Fire & emergencies": {
+     "weight": 13.0,
      "issues": [
-      "gilpin-county/5",
-      "gilpin-county/4"
+      "gilpin-county/6",
+      "black-hawk/2",
+      "gilpin-county/0"
      ]
     },
-    "Roads & traffic": {
-     "weight": 6.0,
+    "Government operations": {
+     "weight": 13.0,
      "issues": [
       "gilpin-county/2",
-      "black-hawk/2"
-     ]
-    },
-    "Fees & rates": {
-     "weight": 6.0,
-     "issues": [
-      "gilpin-county/3",
-      "gilpin-county/9",
-      "black-hawk/1"
-     ]
-    },
-    "Water": {
-     "weight": 5.5,
-     "issues": [
-      "gilpin-county/0",
-      "black-hawk/0",
-      "black-hawk/4",
-      "black-hawk/1"
+      "gilpin-county/4",
+      "black-hawk/6",
+      "black-hawk/7",
+      "gilpin-county/8"
      ]
     },
     "Land & property": {
-     "weight": 5.2,
+     "weight": 8.5,
      "issues": [
-      "black-hawk/2",
-      "black-hawk/0",
-      "black-hawk/6"
+      "black-hawk/3",
+      "black-hawk/4",
+      "black-hawk/0"
+     ]
+    },
+    "Elections": {
+     "weight": 7.0,
+     "issues": [
+      "gilpin-county/5",
+      "black-hawk/1"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 7.0,
+     "issues": [
+      "gilpin-county/2",
+      "black-hawk/3",
+      "black-hawk/5"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 7.0,
+     "issues": [
+      "gilpin-county/3",
+      "gilpin-county/9",
+      "black-hawk/8",
+      "black-hawk/9"
      ]
     },
     "Zoning & development": {
-     "weight": 5.2,
+     "weight": 7.0,
      "issues": [
+      "black-hawk/2",
       "gilpin-county/1",
-      "black-hawk/4",
       "gilpin-county/8",
       "gilpin-county/10"
      ]
     },
-    "Elections": {
-     "weight": 5.0,
+    "Water": {
+     "weight": 4.5,
      "issues": [
-      "gilpin-county/5",
-      "black-hawk/8"
-     ]
-    },
-    "Utilities": {
-     "weight": 4.2,
-     "issues": [
-      "gilpin-county/0",
       "black-hawk/0",
-      "gilpin-county/8"
+      "gilpin-county/0"
      ]
     },
     "Recreation & trails": {
@@ -5530,6 +5749,26 @@
      "issues": [
       "gilpin-county/3",
       "gilpin-county/10"
+     ]
+    },
+    "Utilities": {
+     "weight": 4.0,
+     "issues": [
+      "gilpin-county/0",
+      "gilpin-county/8",
+      "black-hawk/5"
+     ]
+    },
+    "Schools & youth": {
+     "weight": 3.0,
+     "issues": [
+      "black-hawk/1"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 3.0,
+     "issues": [
+      "black-hawk/7"
      ]
     },
     "Short-term rentals": {
@@ -5553,55 +5792,57 @@
     "Historic preservation": {
      "weight": 2.0,
      "issues": [
-      "black-hawk/3",
-      "black-hawk/7"
+      "black-hawk/10"
+     ]
+    },
+    "Economic development": {
+     "weight": 2.0,
+     "issues": [
+      "black-hawk/9",
+      "black-hawk/11"
      ]
     },
     "Energy": {
      "weight": 1.0,
      "issues": [
-      "black-hawk/8"
-     ]
-    },
-    "Economic development": {
-     "weight": 1.0,
-     "issues": [
-      "black-hawk/8"
+      "black-hawk/11"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Fire & emergencies",
-     "rank": 2,
-     "of": 53,
-     "share": 0.125,
-     "state": 0.023,
-     "issues": [
-      "gilpin-county/6",
-      "gilpin-county/0",
-      "black-hawk/5"
-     ]
-    },
-    {
      "topic": "Elections",
-     "rank": 3,
-     "of": 53,
-     "share": 0.057,
-     "state": 0.015,
+     "rank": 2,
+     "of": 55,
+     "share": 0.059,
+     "state": 0.016,
      "issues": [
       "gilpin-county/5",
-      "black-hawk/8"
+      "black-hawk/1"
      ]
     },
     {
      "topic": "Environment & climate",
-     "rank": 4,
-     "of": 53,
-     "share": 0.091,
-     "state": 0.039,
+     "rank": 2,
+     "of": 55,
+     "share": 0.113,
+     "state": 0.04,
      "issues": [
-      "gilpin-county/6"
+      "gilpin-county/6",
+      "black-hawk/2",
+      "black-hawk/0"
+     ]
+    },
+    {
+     "topic": "Fire & emergencies",
+     "rank": 3,
+     "of": 55,
+     "share": 0.109,
+     "state": 0.026,
+     "issues": [
+      "gilpin-county/6",
+      "black-hawk/2",
+      "gilpin-county/0"
      ]
     }
    ]
@@ -5871,22 +6112,11 @@
    },
    "standouts": [
     {
-     "topic": "Libraries & culture",
-     "rank": 1,
-     "of": 53,
-     "share": 0.03,
-     "state": 0.011,
-     "issues": [
-      "fraser/11",
-      "fraser/12"
-     ]
-    },
-    {
      "topic": "Downtown & business",
-     "rank": 1,
-     "of": 53,
+     "rank": 2,
+     "of": 55,
      "share": 0.071,
-     "state": 0.026,
+     "state": 0.025,
      "issues": [
       "fraser/11",
       "winter-park/2",
@@ -5896,6 +6126,28 @@
       "winter-park/1",
       "winter-park/5",
       "winter-park/8"
+     ]
+    },
+    {
+     "topic": "Schools & youth",
+     "rank": 3,
+     "of": 55,
+     "share": 0.041,
+     "state": 0.009,
+     "issues": [
+      "fraser/0",
+      "fraser/9"
+     ]
+    },
+    {
+     "topic": "Libraries & culture",
+     "rank": 3,
+     "of": 55,
+     "share": 0.03,
+     "state": 0.009,
+     "issues": [
+      "fraser/11",
+      "fraser/12"
      ]
     }
    ]
@@ -5930,61 +6182,134 @@
     {
      "name": "Pitkin",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
-    "gunnison-county/3",
-    "gunnison-county/9",
-    "gunnison-county/0",
-    "gunnison-county/2",
-    "crested-butte/1",
     "crested-butte/2",
-    "crested-butte/3",
-    "crested-butte/6",
-    "gunnison-county/1",
-    "gunnison-county/4",
-    "gunnison-county/5",
-    "gunnison-county/6"
+    "crested-butte/0",
+    "pitkin/0",
+    "pitkin/2",
+    "crested-butte/1",
+    "gunnison-county/3",
+    "crested-butte/7",
+    "crested-butte/9",
+    "crested-butte/10",
+    "pitkin/1",
+    "gunnison-county/9",
+    "crested-butte/5"
    ],
    "tagged": {},
    "topics": {
-    "Budget & taxes": {
-     "weight": 15.0,
+    "Housing": {
+     "weight": 29.0,
      "issues": [
+      "crested-butte/2",
+      "crested-butte/0",
+      "crested-butte/1",
+      "gunnison-county/3",
+      "gunnison-county/2"
+     ]
+    },
+    "Land & property": {
+     "weight": 24.5,
+     "issues": [
+      "crested-butte/2",
+      "pitkin/0",
+      "pitkin/1",
+      "gunnison-county/0",
+      "crested-butte/4",
+      "gunnison-county/4"
+     ]
+    },
+    "Budget & taxes": {
+     "weight": 23.2,
+     "issues": [
+      "pitkin/2",
+      "crested-butte/1",
       "gunnison-county/3",
       "gunnison-county/9",
       "gunnison-county/2",
-      "crested-butte/1",
       "gunnison-county/1",
-      "gunnison-county/5",
-      "crested-butte/4",
-      "crested-butte/5"
-     ]
-    },
-    "Housing": {
-     "weight": 10.0,
-     "issues": [
-      "gunnison-county/3",
-      "gunnison-county/2",
-      "crested-butte/1",
-      "crested-butte/3"
+      "gunnison-county/5"
      ]
     },
     "Zoning & development": {
-     "weight": 7.5,
+     "weight": 22.8,
      "issues": [
+      "crested-butte/0",
+      "pitkin/0",
       "gunnison-county/9",
-      "gunnison-county/0",
-      "crested-butte/2"
+      "pitkin/3",
+      "gunnison-county/0"
+     ]
+    },
+    "Environment & climate": {
+     "weight": 15.0,
+     "issues": [
+      "crested-butte/9",
+      "crested-butte/5",
+      "pitkin/3",
+      "crested-butte/8",
+      "pitkin/4"
      ]
     },
     "Fees & rates": {
-     "weight": 6.0,
+     "weight": 14.0,
      "issues": [
+      "crested-butte/9",
       "gunnison-county/9",
-      "crested-butte/2",
+      "crested-butte/5",
+      "crested-butte/6",
       "gunnison-county/6"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 12.2,
+     "issues": [
+      "pitkin/2",
+      "crested-butte/3",
+      "crested-butte/4",
+      "gunnison-county/1",
+      "gunnison-county/7"
+     ]
+    },
+    "Elections": {
+     "weight": 8.0,
+     "issues": [
+      "crested-butte/1",
+      "gunnison-county/1",
+      "pitkin/6"
+     ]
+    },
+    "Utilities": {
+     "weight": 7.8,
+     "issues": [
+      "pitkin/1",
+      "crested-butte/6",
+      "gunnison-county/6"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 7.0,
+     "issues": [
+      "crested-butte/9",
+      "pitkin/3"
+     ]
+    },
+    "Water": {
+     "weight": 6.8,
+     "issues": [
+      "crested-butte/5",
+      "pitkin/4",
+      "pitkin/5"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 5.2,
+     "issues": [
+      "crested-butte/7",
+      "pitkin/5"
      ]
     },
     "Government operations": {
@@ -5993,54 +6318,62 @@
       "gunnison-county/2",
       "gunnison-county/5",
       "gunnison-county/7",
-      "crested-butte/5"
+      "pitkin/6"
      ]
     },
-    "Roads & traffic": {
-     "weight": 5.0,
+    "Parks & open space": {
+     "weight": 4.0,
      "issues": [
-      "crested-butte/6",
-      "gunnison-county/1",
-      "gunnison-county/7",
-      "crested-butte/0"
+      "crested-butte/7"
      ]
     },
-    "Land & property": {
-     "weight": 3.5,
+    "Downtown & business": {
+     "weight": 4.0,
      "issues": [
-      "gunnison-county/0",
-      "gunnison-county/4"
-     ]
-    },
-    "Elections": {
-     "weight": 3.0,
-     "issues": [
-      "crested-butte/1",
-      "gunnison-county/1"
+      "crested-butte/10"
      ]
     },
     "Tourism & events": {
-     "weight": 2.0,
+     "weight": 4.0,
      "issues": [
-      "crested-butte/6"
-     ]
-    },
-    "Cannabis & liquor": {
-     "weight": 2.0,
-     "issues": [
-      "crested-butte/6"
+      "crested-butte/10"
      ]
     },
     "Lawsuits & legal": {
-     "weight": 1.0,
+     "weight": 4.0,
      "issues": [
+      "crested-butte/6",
       "gunnison-county/4"
      ]
     },
-    "Utilities": {
-     "weight": 1.0,
+    "Broadband": {
+     "weight": 3.8,
      "issues": [
-      "gunnison-county/6"
+      "pitkin/1"
+     ]
+    },
+    "Health & human services": {
+     "weight": 2.5,
+     "issues": [
+      "pitkin/4"
+     ]
+    },
+    "Schools & youth": {
+     "weight": 2.0,
+     "issues": [
+      "crested-butte/3"
+     ]
+    },
+    "Transit": {
+     "weight": 2.0,
+     "issues": [
+      "crested-butte/4"
+     ]
+    },
+    "Agriculture & wildlife": {
+     "weight": 1.2,
+     "issues": [
+      "pitkin/5"
      ]
     },
     "Airports": {
@@ -6054,36 +6387,46 @@
      "issues": [
       "gunnison-county/8"
      ]
-    },
-    "Transit": {
-     "weight": 1.0,
-     "issues": [
-      "crested-butte/0"
-     ]
-    },
-    "Energy": {
-     "weight": 1.0,
-     "issues": [
-      "crested-butte/4"
-     ]
     }
    },
    "standouts": [
     {
-     "topic": "Budget & taxes",
-     "rank": 1,
-     "of": 53,
-     "share": 0.231,
-     "state": 0.113,
+     "topic": "Broadband",
+     "rank": 2,
+     "of": 55,
+     "share": 0.018,
+     "state": 0.002,
      "issues": [
-      "gunnison-county/3",
-      "gunnison-county/9",
-      "gunnison-county/2",
+      "pitkin/1"
+     ]
+    },
+    {
+     "topic": "Housing",
+     "rank": 2,
+     "of": 55,
+     "share": 0.138,
+     "state": 0.063,
+     "issues": [
+      "crested-butte/2",
+      "crested-butte/0",
       "crested-butte/1",
-      "gunnison-county/1",
-      "gunnison-county/5",
+      "gunnison-county/3",
+      "gunnison-county/2"
+     ]
+    },
+    {
+     "topic": "Land & property",
+     "rank": 3,
+     "of": 55,
+     "share": 0.117,
+     "state": 0.047,
+     "issues": [
+      "crested-butte/2",
+      "pitkin/0",
+      "pitkin/1",
+      "gunnison-county/0",
       "crested-butte/4",
-      "crested-butte/5"
+      "gunnison-county/4"
      ]
     }
    ]
@@ -6215,10 +6558,10 @@
    "standouts": [
     {
      "topic": "Fire & emergencies",
-     "rank": 3,
-     "of": 53,
+     "rank": 2,
+     "of": 55,
      "share": 0.12,
-     "state": 0.023,
+     "state": 0.026,
      "issues": [
       "lake-city/0",
       "lake-city/1",
@@ -6226,27 +6569,27 @@
      ]
     },
     {
-     "topic": "Environment & climate",
-     "rank": 3,
-     "of": 53,
-     "share": 0.096,
-     "state": 0.039,
-     "issues": [
-      "lake-city/1",
-      "lake-city/9",
-      "lake-city/10"
-     ]
-    },
-    {
      "topic": "Government operations",
-     "rank": 3,
-     "of": 53,
+     "rank": 4,
+     "of": 55,
      "share": 0.172,
      "state": 0.079,
      "issues": [
       "lake-city/2",
       "lake-city/0",
       "lake-city/11"
+     ]
+    },
+    {
+     "topic": "Housing",
+     "rank": 4,
+     "of": 55,
+     "share": 0.135,
+     "state": 0.063,
+     "issues": [
+      "lake-city/2",
+      "lake-city/3",
+      "lake-city/5"
      ]
     }
    ]
@@ -6435,7 +6778,7 @@
     {
      "topic": "Cannabis & liquor",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.076,
      "state": 0.003,
      "issues": [
@@ -6553,24 +6896,24 @@
    },
    "topics": {
     "Zoning & development": {
-     "weight": 60.9,
+     "weight": 72.4,
      "issues": [
       "arvada/1",
       "golden/5",
       "arvada/6",
+      "edgewater/0",
       "morrison/0",
+      "edgewater/7",
       "westminster/3",
       "jefferson-county/2",
       "jefferson-county/4",
       "jefferson-county/5",
       "arvada/4",
-      "mountain-view/2",
-      "arvada/0",
-      "edgewater/2"
+      "edgewater/8"
      ]
     },
     "Budget & taxes": {
-     "weight": 58.6,
+     "weight": 61.1,
      "issues": [
       "golden/3",
       "golden/8",
@@ -6582,29 +6925,29 @@
       "arvada/3",
       "westminster/7",
       "jefferson-county/5",
-      "jefferson-county/0",
-      "arvada/13"
+      "edgewater/4",
+      "jefferson-county/0"
      ]
     },
     "Housing": {
-     "weight": 39.9,
+     "weight": 50.4,
      "issues": [
       "jefferson-county/3",
       "golden/11",
       "arvada/6",
+      "edgewater/0",
       "westminster/10",
+      "edgewater/7",
       "westminster/3",
       "jefferson-county/2",
       "arvada/4",
-      "edgewater/2",
-      "mountain-view/9",
-      "golden/6",
-      "arvada/7",
-      "arvada/8"
+      "edgewater/8",
+      "edgewater/1",
+      "edgewater/2"
      ]
     },
     "Government operations": {
-     "weight": 32.9,
+     "weight": 38.4,
      "issues": [
       "golden/0",
       "arvada/9",
@@ -6612,15 +6955,16 @@
       "jefferson-county/6",
       "westminster/7",
       "jefferson-county/5",
+      "edgewater/8",
+      "edgewater/5",
       "lakewood/9",
       "morrison/5",
       "mountain-view/7",
-      "lakewood/8",
-      "morrison/9"
+      "edgewater/9"
      ]
     },
     "Economic development": {
-     "weight": 31.1,
+     "weight": 33.1,
      "issues": [
       "golden/8",
       "golden/1",
@@ -6628,6 +6972,7 @@
       "golden/13",
       "westminster/2",
       "westminster/8",
+      "edgewater/5",
       "morrison/5",
       "jefferson-county/12",
       "mountain-view/6"
@@ -6647,8 +6992,23 @@
       "westminster/0"
      ]
     },
+    "Utilities": {
+     "weight": 26.4,
+     "issues": [
+      "arvada/2",
+      "westminster/1",
+      "morrison/4",
+      "edgewater/4",
+      "golden/14",
+      "golden/15",
+      "lakewood/5",
+      "morrison/1",
+      "arvada/11",
+      "westminster/11"
+     ]
+    },
     "Land & property": {
-     "weight": 24.5,
+     "weight": 25.5,
      "issues": [
       "golden/1",
       "jefferson-county/8",
@@ -6658,21 +7018,8 @@
       "lakewood/3",
       "morrison/1",
       "morrison/7",
+      "edgewater/10",
       "westminster/6"
-     ]
-    },
-    "Utilities": {
-     "weight": 23.9,
-     "issues": [
-      "arvada/2",
-      "westminster/1",
-      "morrison/4",
-      "golden/14",
-      "golden/15",
-      "lakewood/5",
-      "morrison/1",
-      "arvada/11",
-      "westminster/11"
      ]
     },
     "Policing & public safety": {
@@ -6714,6 +7061,19 @@
       "mountain-view/5"
      ]
     },
+    "Fees & rates": {
+     "weight": 19.4,
+     "issues": [
+      "arvada/2",
+      "westminster/1",
+      "edgewater/4",
+      "golden/14",
+      "lakewood/5",
+      "arvada/5",
+      "edgewater/9",
+      "mountain-view/10"
+     ]
+    },
     "Environment & climate": {
      "weight": 19.2,
      "issues": [
@@ -6739,15 +7099,17 @@
       "westminster/4"
      ]
     },
-    "Fees & rates": {
-     "weight": 15.9,
+    "Roads & traffic": {
+     "weight": 15.5,
      "issues": [
-      "arvada/2",
-      "westminster/1",
-      "golden/14",
-      "lakewood/5",
+      "golden/9",
+      "morrison/3",
+      "edgewater/6",
+      "mountain-view/3",
+      "jefferson-county/1",
       "arvada/5",
-      "mountain-view/10"
+      "edgewater/3",
+      "lakewood/2"
      ]
     },
     "Tourism & events": {
@@ -6766,18 +7128,6 @@
       "arvada/9",
       "golden/4",
       "lakewood/1"
-     ]
-    },
-    "Roads & traffic": {
-     "weight": 14.5,
-     "issues": [
-      "golden/9",
-      "morrison/3",
-      "edgewater/1",
-      "mountain-view/3",
-      "jefferson-county/1",
-      "arvada/5",
-      "lakewood/2"
      ]
     },
     "Homelessness": {
@@ -6807,6 +7157,26 @@
       "morrison/0"
      ]
     },
+    "Elections": {
+     "weight": 9.0,
+     "issues": [
+      "morrison/2",
+      "edgewater/6",
+      "lakewood/0",
+      "jefferson-county/11"
+     ]
+    },
+    "Transit": {
+     "weight": 9.0,
+     "issues": [
+      "edgewater/1",
+      "golden/15",
+      "mountain-view/3",
+      "jefferson-county/1",
+      "jefferson-county/11",
+      "edgewater/3"
+     ]
+    },
     "Fire & emergencies": {
      "weight": 9.0,
      "issues": [
@@ -6830,24 +7200,6 @@
      "issues": [
       "golden/5",
       "mountain-view/12"
-     ]
-    },
-    "Elections": {
-     "weight": 7.0,
-     "issues": [
-      "morrison/2",
-      "lakewood/0",
-      "jefferson-county/11"
-     ]
-    },
-    "Transit": {
-     "weight": 7.0,
-     "issues": [
-      "golden/15",
-      "mountain-view/3",
-      "jefferson-county/1",
-      "jefferson-county/11",
-      "edgewater/0"
      ]
     },
     "Schools & youth": {
@@ -6894,9 +7246,9 @@
    "standouts": [
     {
      "topic": "Ethics & transparency",
-     "rank": 4,
-     "of": 53,
-     "share": 0.027,
+     "rank": 3,
+     "of": 55,
+     "share": 0.025,
      "state": 0.006,
      "issues": [
       "golden/0",
@@ -6908,9 +7260,9 @@
     {
      "topic": "Economic development",
      "rank": 5,
-     "of": 53,
-     "share": 0.056,
-     "state": 0.025,
+     "of": 55,
+     "share": 0.055,
+     "state": 0.024,
      "issues": [
       "golden/8",
       "golden/1",
@@ -6918,6 +7270,7 @@
       "golden/13",
       "westminster/2",
       "westminster/8",
+      "edgewater/5",
       "morrison/5",
       "jefferson-county/12",
       "mountain-view/6"
@@ -6926,9 +7279,9 @@
     {
      "topic": "Health & human services",
      "rank": 5,
-     "of": 53,
-     "share": 0.037,
-     "state": 0.017,
+     "of": 55,
+     "share": 0.035,
+     "state": 0.016,
      "issues": [
       "golden/3",
       "jefferson-county/7",
@@ -7099,7 +7452,7 @@
     {
      "topic": "Energy",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.167,
      "state": 0.011,
      "issues": [
@@ -7287,9 +7640,9 @@
     {
      "topic": "Fire & emergencies",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.147,
-     "state": 0.023,
+     "state": 0.026,
      "issues": [
       "lake-county/0",
       "lake-county/3",
@@ -7660,10 +8013,10 @@
    "standouts": [
     {
      "topic": "Fees & rates",
-     "rank": 3,
-     "of": 53,
+     "rank": 2,
+     "of": 55,
      "share": 0.088,
-     "state": 0.044,
+     "state": 0.046,
      "issues": [
       "wellington/1",
       "fort-collins/0",
@@ -7681,9 +8034,9 @@
     {
      "topic": "Data centers",
      "rank": 4,
-     "of": 53,
+     "of": 55,
      "share": 0.023,
-     "state": 0.01,
+     "state": 0.009,
      "issues": [
       "berthoud/0",
       "windsor/0",
@@ -7692,10 +8045,10 @@
     },
     {
      "topic": "Water",
-     "rank": 6,
-     "of": 53,
+     "rank": 7,
+     "of": 55,
      "share": 0.087,
-     "state": 0.051,
+     "state": 0.052,
      "issues": [
       "berthoud/4",
       "johnstown/12",
@@ -7912,7 +8265,7 @@
     {
      "topic": "Guns",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.02,
      "state": 0.001,
      "issues": [
@@ -7951,189 +8304,212 @@
    ],
    "issues": [
     "hugo/0",
-    "hugo/2",
-    "hugo/6",
-    "arriba/1",
-    "arriba/2",
-    "arriba/3",
-    "arriba/4",
-    "hugo/4",
+    "arriba/7",
+    "arriba/0",
     "hugo/5",
     "hugo/7",
-    "arriba/0",
-    "arriba/5"
+    "arriba/6",
+    "hugo/1",
+    "arriba/1",
+    "hugo/9",
+    "hugo/2",
+    "hugo/12",
+    "arriba/8"
    ],
    "tagged": {},
    "topics": {
-    "Water": {
-     "weight": 16.5,
+    "Utilities": {
+     "weight": 45.5,
      "issues": [
       "hugo/0",
-      "hugo/2",
-      "arriba/1",
-      "arriba/2",
-      "arriba/4",
-      "hugo/3",
+      "arriba/0",
       "hugo/1",
-      "limon/1"
+      "arriba/1",
+      "hugo/2",
+      "arriba/3",
+      "hugo/6",
+      "limon/1",
+      "hugo/13"
      ]
     },
-    "Utilities": {
-     "weight": 14.0,
+    "Zoning & development": {
+     "weight": 27.5,
      "issues": [
-      "hugo/2",
-      "arriba/1",
-      "arriba/2",
-      "arriba/3",
-      "arriba/0",
-      "hugo/3",
+      "hugo/7",
+      "arriba/6",
+      "hugo/9",
+      "hugo/8",
+      "limon/2",
+      "limon/6",
+      "arriba/10"
+     ]
+    },
+    "Water": {
+     "weight": 23.5,
+     "issues": [
+      "hugo/0",
       "hugo/1",
-      "limon/1"
+      "limon/1",
+      "hugo/13",
+      "arriba/2",
+      "limon/5"
      ]
     },
     "Fees & rates": {
-     "weight": 9.2,
+     "weight": 23.0,
      "issues": [
-      "hugo/0",
+      "arriba/0",
       "arriba/1",
+      "hugo/2",
       "arriba/3",
-      "hugo/1"
-     ]
-    },
-    "Government operations": {
-     "weight": 7.2,
-     "issues": [
-      "hugo/6",
-      "hugo/5",
-      "hugo/3",
-      "hugo/8"
+      "arriba/2",
+      "limon/9"
      ]
     },
     "Budget & taxes": {
-     "weight": 6.0,
+     "weight": 21.0,
      "issues": [
-      "hugo/6",
-      "arriba/4",
-      "hugo/9"
+      "hugo/1",
+      "arriba/5",
+      "hugo/3",
+      "hugo/4",
+      "limon/0",
+      "arriba/4"
      ]
     },
-    "Land & property": {
-     "weight": 4.0,
+    "Government operations": {
+     "weight": 15.0,
      "issues": [
-      "arriba/3",
+      "hugo/7",
+      "hugo/4",
+      "limon/3",
+      "limon/8"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 14.5,
+     "issues": [
+      "arriba/6",
+      "hugo/6",
+      "hugo/8",
+      "limon/2"
+     ]
+    },
+    "Parks & open space": {
+     "weight": 14.0,
+     "issues": [
+      "arriba/7",
+      "hugo/12"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 11.0,
+     "issues": [
+      "hugo/7",
+      "limon/3",
+      "limon/4"
+     ]
+    },
+    "Tourism & events": {
+     "weight": 10.0,
+     "issues": [
+      "arriba/7"
+     ]
+    },
+    "Housing": {
+     "weight": 10.0,
+     "issues": [
+      "hugo/9",
+      "arriba/9",
+      "limon/6"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 9.8,
+     "issues": [
+      "arriba/8",
+      "hugo/10",
+      "limon/8",
+      "limon/4"
+     ]
+    },
+    "Environment & climate": {
+     "weight": 9.0,
+     "issues": [
+      "arriba/0"
+     ]
+    },
+    "Downtown & business": {
+     "weight": 9.0,
+     "issues": [
       "hugo/5"
      ]
     },
     "Economic development": {
-     "weight": 4.0,
+     "weight": 9.0,
      "issues": [
-      "hugo/4",
-      "hugo/7"
+      "hugo/5"
      ]
     },
-    "Housing": {
-     "weight": 4.0,
+    "Recreation & trails": {
+     "weight": 8.0,
      "issues": [
-      "hugo/5",
-      "hugo/7"
+      "hugo/12",
+      "hugo/3",
+      "limon/9"
      ]
     },
-    "Roads & traffic": {
-     "weight": 2.5,
+    "Land & property": {
+     "weight": 8.0,
      "issues": [
-      "arriba/0",
-      "arriba/5"
+      "arriba/9",
+      "hugo/6",
+      "hugo/11"
      ]
     },
-    "Environment & climate": {
+    "Elections": {
+     "weight": 6.0,
+     "issues": [
+      "arriba/5",
+      "hugo/3"
+     ]
+    },
+    "Historic preservation": {
      "weight": 2.0,
      "issues": [
-      "arriba/2"
-     ]
-    },
-    "Parks & open space": {
-     "weight": 2.0,
-     "issues": [
-      "arriba/4"
-     ]
-    },
-    "Downtown & business": {
-     "weight": 2.0,
-     "issues": [
-      "hugo/4"
-     ]
-    },
-    "Policing & public safety": {
-     "weight": 1.2,
-     "issues": [
-      "arriba/5"
-     ]
-    },
-    "Energy": {
-     "weight": 1.0,
-     "issues": [
-      "hugo/8"
-     ]
-    },
-    "Ethics & transparency": {
-     "weight": 1.0,
-     "issues": [
-      "hugo/9"
+      "hugo/11"
      ]
     },
     "Airports": {
+     "weight": 2.0,
+     "issues": [
+      "limon/7"
+     ]
+    },
+    "Agriculture & wildlife": {
      "weight": 1.0,
      "issues": [
-      "limon/0"
+      "arriba/10"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Water",
-     "rank": 1,
-     "of": 53,
-     "share": 0.213,
-     "state": 0.051,
-     "issues": [
-      "hugo/0",
-      "hugo/2",
-      "arriba/1",
-      "arriba/2",
-      "arriba/4",
-      "hugo/3",
-      "hugo/1",
-      "limon/1"
-     ]
-    },
-    {
      "topic": "Utilities",
      "rank": 1,
-     "of": 53,
-     "share": 0.18,
-     "state": 0.044,
-     "issues": [
-      "hugo/2",
-      "arriba/1",
-      "arriba/2",
-      "arriba/3",
-      "arriba/0",
-      "hugo/3",
-      "hugo/1",
-      "limon/1"
-     ]
-    },
-    {
-     "topic": "Fees & rates",
-     "rank": 1,
-     "of": 53,
-     "share": 0.119,
-     "state": 0.044,
+     "of": 55,
+     "share": 0.163,
+     "state": 0.05,
      "issues": [
       "hugo/0",
+      "arriba/0",
+      "hugo/1",
       "arriba/1",
+      "hugo/2",
       "arriba/3",
-      "hugo/1"
+      "hugo/6",
+      "limon/1",
+      "hugo/13"
      ]
     }
    ]
@@ -8294,9 +8670,9 @@
     {
      "topic": "Health & human services",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.117,
-     "state": 0.017,
+     "state": 0.016,
      "issues": [
       "sterling/1",
       "sterling/10"
@@ -8305,9 +8681,9 @@
     {
      "topic": "Zoning & development",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.281,
-     "state": 0.126,
+     "state": 0.123,
      "issues": [
       "sterling/1",
       "sterling/2",
@@ -8607,24 +8983,11 @@
    },
    "standouts": [
     {
-     "topic": "Policing & public safety",
-     "rank": 6,
-     "of": 53,
-     "share": 0.046,
-     "state": 0.026,
-     "issues": [
-      "grand-junction/0",
-      "fruita/5",
-      "fruita/8",
-      "fruita/7"
-     ]
-    },
-    {
      "topic": "Annexation",
-     "rank": 7,
-     "of": 53,
+     "rank": 6,
+     "of": 55,
      "share": 0.025,
-     "state": 0.013,
+     "state": 0.011,
      "issues": [
       "fruita/0",
       "grand-junction/13",
@@ -8632,18 +8995,30 @@
      ]
     },
     {
-     "topic": "Roads & traffic",
-     "rank": 8,
-     "of": 53,
-     "share": 0.078,
-     "state": 0.045,
+     "topic": "Housing",
+     "rank": 7,
+     "of": 55,
+     "share": 0.109,
+     "state": 0.063,
      "issues": [
+      "grand-junction/5",
+      "grand-junction/2",
       "grand-junction/3",
-      "mesa-county/1",
+      "fruita/0",
+      "fruita/1",
+      "grand-junction/4"
+     ]
+    },
+    {
+     "topic": "Policing & public safety",
+     "rank": 8,
+     "of": 55,
+     "share": 0.046,
+     "state": 0.028,
+     "issues": [
+      "grand-junction/0",
       "fruita/5",
-      "grand-junction/13",
-      "grand-junction/14",
-      "fruita/6",
+      "fruita/8",
       "fruita/7"
      ]
     }
@@ -8764,7 +9139,7 @@
     {
      "topic": "Schools & youth",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.095,
      "state": 0.009,
      "issues": [
@@ -8774,9 +9149,9 @@
     {
      "topic": "Economic development",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.19,
-     "state": 0.025,
+     "state": 0.024,
      "issues": [
       "craig/5",
       "craig/0",
@@ -8809,95 +9184,137 @@
     }
    ],
    "issues": [
+    "dolores/1",
     "dolores/2",
+    "dolores/8",
+    "dolores/0",
+    "dolores/3",
+    "dolores/5",
     "cortez/1",
     "cortez/4",
-    "cortez/3",
-    "cortez/10",
+    "dolores/10",
     "dolores/9",
-    "dolores/0",
-    "dolores/8",
-    "cortez/0",
-    "cortez/2",
-    "cortez/6",
-    "cortez/7"
+    "cortez/3",
+    "cortez/10"
    ],
    "tagged": {},
    "topics": {
-    "Zoning & development": {
-     "weight": 15.0,
-     "issues": [
-      "cortez/1",
-      "dolores/0",
-      "cortez/6",
-      "cortez/8",
-      "cortez/9",
-      "dolores/1",
-      "dolores/6"
-     ]
-    },
     "Government operations": {
-     "weight": 14.2,
+     "weight": 26.8,
      "issues": [
+      "dolores/2",
+      "dolores/3",
+      "dolores/10",
       "cortez/3",
       "cortez/10",
-      "dolores/9",
+      "dolores/6",
+      "dolores/7"
+     ]
+    },
+    "Zoning & development": {
+     "weight": 23.8,
+     "issues": [
+      "dolores/0",
       "dolores/3",
-      "dolores/4",
-      "dolores/6"
+      "cortez/1",
+      "dolores/9",
+      "cortez/6",
+      "cortez/8",
+      "cortez/9"
      ]
     },
     "Budget & taxes": {
-     "weight": 10.0,
+     "weight": 20.0,
      "issues": [
-      "dolores/2",
+      "dolores/1",
+      "dolores/5",
       "cortez/10",
+      "dolores/4",
       "cortez/0"
      ]
     },
-    "Parks & open space": {
-     "weight": 9.5,
+    "Water": {
+     "weight": 14.0,
+     "issues": [
+      "dolores/1",
+      "cortez/1",
+      "dolores/6"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 11.2,
+     "issues": [
+      "dolores/8",
+      "dolores/5"
+     ]
+    },
+    "Housing": {
+     "weight": 11.0,
+     "issues": [
+      "dolores/0",
+      "cortez/2",
+      "cortez/9",
+      "dolores/11"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 8.2,
      "issues": [
       "dolores/2",
+      "cortez/7"
+     ]
+    },
+    "Parks & open space": {
+     "weight": 8.2,
+     "issues": [
       "dolores/8",
       "cortez/11"
      ]
     },
-    "Recreation & trails": {
-     "weight": 7.5,
+    "Tourism & events": {
+     "weight": 8.2,
      "issues": [
-      "dolores/2",
-      "dolores/8"
+      "dolores/8",
+      "cortez/0"
      ]
     },
-    "Housing": {
-     "weight": 6.5,
+    "Utilities": {
+     "weight": 8.0,
      "issues": [
-      "cortez/2",
-      "cortez/9",
       "dolores/1",
-      "dolores/10"
+      "cortez/5"
      ]
     },
     "Land & property": {
-     "weight": 5.2,
+     "weight": 7.0,
      "issues": [
-      "cortez/2",
-      "dolores/7",
-      "dolores/10"
+      "dolores/0",
+      "cortez/2"
      ]
     },
-    "Water": {
-     "weight": 5.0,
+    "Short-term rentals": {
+     "weight": 6.2,
      "issues": [
-      "cortez/1",
-      "dolores/5"
+      "dolores/2"
+     ]
+    },
+    "Environment & climate": {
+     "weight": 5.8,
+     "issues": [
+      "dolores/9",
+      "cortez/11"
      ]
     },
     "Historic preservation": {
      "weight": 4.0,
      "issues": [
       "cortez/4"
+     ]
+    },
+    "Agriculture & wildlife": {
+     "weight": 4.0,
+     "issues": [
+      "dolores/10"
      ]
     },
     "Downtown & business": {
@@ -8907,11 +9324,10 @@
       "cortez/8"
      ]
     },
-    "Roads & traffic": {
-     "weight": 3.5,
+    "Fire & emergencies": {
+     "weight": 3.8,
      "issues": [
-      "dolores/0",
-      "cortez/5"
+      "dolores/9"
      ]
     },
     "Airports": {
@@ -8920,10 +9336,22 @@
       "cortez/3"
      ]
     },
-    "Agriculture & wildlife": {
+    "Policing & public safety": {
      "weight": 3.0,
      "issues": [
-      "dolores/9"
+      "dolores/4"
+     ]
+    },
+    "Lawsuits & legal": {
+     "weight": 3.0,
+     "issues": [
+      "dolores/6"
+     ]
+    },
+    "Ethics & transparency": {
+     "weight": 2.5,
+     "issues": [
+      "dolores/7"
      ]
     },
     "Elections": {
@@ -8932,88 +9360,43 @@
       "cortez/0"
      ]
     },
-    "Tourism & events": {
-     "weight": 2.0,
+    "Roads & traffic": {
+     "weight": 1.0,
      "issues": [
-      "cortez/0"
-     ]
-    },
-    "Fees & rates": {
-     "weight": 2.0,
-     "issues": [
-      "cortez/7"
-     ]
-    },
-    "Environment & climate": {
-     "weight": 2.0,
-     "issues": [
-      "cortez/11"
-     ]
-    },
-    "Policing & public safety": {
-     "weight": 2.0,
-     "issues": [
-      "dolores/3"
-     ]
-    },
-    "Lawsuits & legal": {
-     "weight": 2.0,
-     "issues": [
-      "dolores/4"
-     ]
-    },
-    "Broadband": {
-     "weight": 2.0,
-     "issues": [
-      "dolores/7"
-     ]
-    },
-    "Utilities": {
-     "weight": 2.0,
-     "issues": [
-      "cortez/5",
-      "dolores/5"
-     ]
-    },
-    "Fire & emergencies": {
-     "weight": 1.2,
-     "issues": [
-      "dolores/10"
+      "cortez/5"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Recreation & trails",
-     "rank": 2,
-     "of": 53,
-     "share": 0.07,
-     "state": 0.026,
-     "issues": [
-      "dolores/2",
-      "dolores/8"
-     ]
-    },
-    {
-     "topic": "Parks & open space",
-     "rank": 2,
-     "of": 53,
-     "share": 0.088,
-     "state": 0.04,
-     "issues": [
-      "dolores/2",
-      "dolores/8",
-      "cortez/11"
-     ]
-    },
-    {
-     "topic": "Broadband",
+     "topic": "Short-term rentals",
      "rank": 3,
-     "of": 53,
-     "share": 0.019,
-     "state": 0.002,
+     "of": 55,
+     "share": 0.033,
+     "state": 0.006,
      "issues": [
-      "dolores/7"
+      "dolores/2"
+     ]
+    },
+    {
+     "topic": "Agriculture & wildlife",
+     "rank": 6,
+     "of": 55,
+     "share": 0.021,
+     "state": 0.005,
+     "issues": [
+      "dolores/10"
+     ]
+    },
+    {
+     "topic": "Recreation & trails",
+     "rank": 7,
+     "of": 55,
+     "share": 0.059,
+     "state": 0.028,
+     "issues": [
+      "dolores/8",
+      "dolores/5"
      ]
     }
    ]
@@ -9223,9 +9606,9 @@
     {
      "topic": "Elections",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.075,
-     "state": 0.015,
+     "state": 0.016,
      "issues": [
       "montrose/0",
       "montrose/2"
@@ -9442,32 +9825,11 @@
    },
    "standouts": [
     {
-     "topic": "Historic preservation",
-     "rank": 2,
-     "of": 53,
-     "share": 0.048,
-     "state": 0.012,
-     "issues": [
-      "fort-morgan/4"
-     ]
-    },
-    {
-     "topic": "Downtown & business",
-     "rank": 2,
-     "of": 53,
-     "share": 0.071,
-     "state": 0.026,
-     "issues": [
-      "fort-morgan/4",
-      "fort-morgan/5"
-     ]
-    },
-    {
      "topic": "Fees & rates",
-     "rank": 2,
-     "of": 53,
+     "rank": 1,
+     "of": 55,
      "share": 0.113,
-     "state": 0.044,
+     "state": 0.046,
      "issues": [
       "fort-morgan/2",
       "fort-morgan/1",
@@ -9515,27 +9877,27 @@
     }
    ],
    "issues": [
-    "la-junta/0",
-    "la-junta/4",
-    "la-junta/2",
-    "la-junta/12",
     "manzanola/0",
     "manzanola/1",
     "manzanola/2",
     "manzanola/3",
+    "la-junta/0",
+    "la-junta/4",
+    "la-junta/2",
+    "la-junta/12",
+    "manzanola/5",
+    "manzanola/9",
     "la-junta/1",
-    "la-junta/5",
-    "la-junta/6",
-    "manzanola/4"
+    "la-junta/5"
    ],
    "tagged": {},
    "topics": {
     "Water": {
-     "weight": 15.2,
+     "weight": 25.2,
      "issues": [
-      "la-junta/12",
       "manzanola/1",
       "manzanola/3",
+      "la-junta/12",
       "la-junta/1",
       "manzanola/4",
       "la-junta/11",
@@ -9543,91 +9905,90 @@
      ]
     },
     "Utilities": {
-     "weight": 14.2,
+     "weight": 23.2,
      "issues": [
-      "la-junta/12",
       "manzanola/1",
       "manzanola/3",
+      "la-junta/12",
       "la-junta/1",
-      "manzanola/4",
-      "la-junta/11"
+      "la-junta/11",
+      "manzanola/10"
      ]
     },
     "Budget & taxes": {
-     "weight": 9.0,
+     "weight": 20.0,
      "issues": [
-      "la-junta/0",
       "manzanola/2",
+      "la-junta/0",
+      "manzanola/6",
+      "manzanola/8",
       "la-junta/7",
       "la-junta/9"
      ]
     },
-    "Government operations": {
-     "weight": 9.0,
-     "issues": [
-      "la-junta/2",
-      "la-junta/6",
-      "manzanola/4",
-      "la-junta/9",
-      "manzanola/7"
-     ]
-    },
     "Environment & climate": {
-     "weight": 9.0,
+     "weight": 18.0,
      "issues": [
-      "la-junta/12",
       "manzanola/0",
+      "la-junta/12",
+      "manzanola/4",
       "la-junta/3",
-      "la-junta/8",
-      "manzanola/6"
-     ]
-    },
-    "Roads & traffic": {
-     "weight": 7.2,
-     "issues": [
-      "manzanola/2",
-      "la-junta/5",
-      "la-junta/11",
-      "manzanola/5"
+      "la-junta/8"
      ]
     },
     "Economic development": {
-     "weight": 6.8,
+     "weight": 17.8,
      "issues": [
+      "manzanola/0",
       "la-junta/4",
       "la-junta/2"
      ]
     },
+    "Roads & traffic": {
+     "weight": 16.2,
+     "issues": [
+      "manzanola/2",
+      "manzanola/5",
+      "la-junta/5",
+      "la-junta/11"
+     ]
+    },
     "Land & property": {
-     "weight": 5.0,
+     "weight": 15.0,
      "issues": [
       "manzanola/0",
-      "la-junta/8",
-      "manzanola/6"
+      "manzanola/9",
+      "la-junta/8"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 11.2,
+     "issues": [
+      "manzanola/2",
+      "la-junta/10"
+     ]
+    },
+    "Government operations": {
+     "weight": 10.0,
+     "issues": [
+      "la-junta/2",
+      "manzanola/9",
+      "la-junta/6",
+      "la-junta/9",
+      "manzanola/7"
+     ]
+    },
+    "Housing": {
+     "weight": 6.8,
+     "issues": [
+      "la-junta/4",
+      "manzanola/9"
      ]
     },
     "Downtown & business": {
      "weight": 3.8,
      "issues": [
       "la-junta/4"
-     ]
-    },
-    "Housing": {
-     "weight": 3.8,
-     "issues": [
-      "la-junta/4"
-     ]
-    },
-    "Zoning & development": {
-     "weight": 3.0,
-     "issues": [
-      "manzanola/0"
-     ]
-    },
-    "Transit": {
-     "weight": 3.0,
-     "issues": [
-      "manzanola/2"
      ]
     },
     "Tourism & events": {
@@ -9637,25 +9998,26 @@
       "la-junta/7"
      ]
     },
+    "Ethics & transparency": {
+     "weight": 3.0,
+     "issues": [
+      "la-junta/6",
+      "manzanola/7"
+     ]
+    },
     "Fees & rates": {
      "weight": 2.0,
      "issues": [
       "la-junta/1"
      ]
     },
-    "Ethics & transparency": {
+    "Energy": {
      "weight": 2.0,
      "issues": [
-      "la-junta/6"
+      "manzanola/6"
      ]
     },
     "Parks & open space": {
-     "weight": 1.2,
-     "issues": [
-      "la-junta/10"
-     ]
-    },
-    "Recreation & trails": {
      "weight": 1.2,
      "issues": [
       "la-junta/10"
@@ -9673,39 +10035,36 @@
       "la-junta/7"
      ]
     },
-    "Policing & public safety": {
+    "Broadband": {
      "weight": 1.0,
      "issues": [
-      "manzanola/7"
+      "manzanola/10"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Utilities",
+     "topic": "Economic development",
      "rank": 2,
-     "of": 53,
-     "share": 0.14,
-     "state": 0.044,
+     "of": 55,
+     "share": 0.098,
+     "state": 0.024,
      "issues": [
-      "la-junta/12",
-      "manzanola/1",
-      "manzanola/3",
-      "la-junta/1",
-      "manzanola/4",
-      "la-junta/11"
+      "manzanola/0",
+      "la-junta/4",
+      "la-junta/2"
      ]
     },
     {
      "topic": "Water",
-     "rank": 3,
-     "of": 53,
-     "share": 0.15,
-     "state": 0.051,
+     "rank": 2,
+     "of": 55,
+     "share": 0.139,
+     "state": 0.052,
      "issues": [
-      "la-junta/12",
       "manzanola/1",
       "manzanola/3",
+      "la-junta/12",
       "la-junta/1",
       "manzanola/4",
       "la-junta/11",
@@ -9713,14 +10072,18 @@
      ]
     },
     {
-     "topic": "Economic development",
-     "rank": 4,
-     "of": 53,
-     "share": 0.067,
-     "state": 0.025,
+     "topic": "Utilities",
+     "rank": 3,
+     "of": 55,
+     "share": 0.128,
+     "state": 0.05,
      "issues": [
-      "la-junta/4",
-      "la-junta/2"
+      "manzanola/1",
+      "manzanola/3",
+      "la-junta/12",
+      "la-junta/1",
+      "la-junta/11",
+      "manzanola/10"
      ]
     }
    ]
@@ -9744,124 +10107,156 @@
     }
    ],
    "issues": [
-    "ouray-county/0",
-    "ridgway/2",
-    "ridgway/7",
-    "ridgway/0",
     "ridgway/1",
-    "ridgway/4",
+    "ridgway/2",
     "ridgway/6",
-    "ridgway/8",
-    "ouray-county/1",
-    "ouray-county/2",
-    "ouray-county/3",
-    "ouray-county/4"
+    "ouray-county/0",
+    "ridgway/3",
+    "ridgway/4",
+    "ridgway/9",
+    "ridgway/0",
+    "ridgway/5",
+    "ridgway/11",
+    "ridgway/7",
+    "ridgway/12"
    ],
    "tagged": {},
    "topics": {
     "Zoning & development": {
-     "weight": 14.0,
+     "weight": 29.8,
      "issues": [
+      "ridgway/1",
+      "ridgway/6",
       "ouray-county/0",
-      "ridgway/0",
+      "ridgway/4",
+      "ridgway/11",
       "ouray-county/1",
       "ouray-county/2",
       "ouray-county/3",
       "ouray-county/4",
       "ouray-county/5",
       "ouray-county/6",
-      "ridgway/5",
-      "ridgway/9"
+      "ridgway/8"
+     ]
+    },
+    "Government operations": {
+     "weight": 17.8,
+     "issues": [
+      "ridgway/1",
+      "ridgway/3",
+      "ridgway/7",
+      "ridgway/12",
+      "ouray-county/6",
+      "ouray-county/7"
      ]
     },
     "Housing": {
-     "weight": 11.0,
+     "weight": 15.0,
      "issues": [
-      "ouray-county/0",
-      "ridgway/0",
       "ridgway/1",
-      "ouray-county/3",
-      "ridgway/5",
-      "ridgway/9"
-     ]
-    },
-    "Tourism & events": {
-     "weight": 8.8,
-     "issues": [
       "ouray-county/0",
-      "ridgway/7",
-      "ridgway/11"
-     ]
-    },
-    "Water": {
-     "weight": 6.8,
-     "issues": [
-      "ridgway/2",
-      "ouray-county/1",
-      "ouray-county/2",
-      "ridgway/3"
+      "ridgway/11",
+      "ouray-county/3"
      ]
     },
     "Environment & climate": {
-     "weight": 5.8,
+     "weight": 13.2,
      "issues": [
-      "ridgway/2",
+      "ridgway/6",
+      "ridgway/4",
+      "ridgway/7",
       "ouray-county/2",
       "ouray-county/7"
      ]
     },
-    "Roads & traffic": {
-     "weight": 4.8,
+    "Water": {
+     "weight": 12.5,
      "issues": [
-      "ridgway/7",
-      "ridgway/11"
+      "ridgway/3",
+      "ridgway/4",
+      "ridgway/0",
+      "ouray-county/1",
+      "ouray-county/2"
      ]
     },
-    "Land & property": {
-     "weight": 4.0,
+    "Budget & taxes": {
+     "weight": 12.2,
      "issues": [
-      "ridgway/1",
-      "ouray-county/4",
-      "ouray-county/5"
+      "ridgway/2",
+      "ridgway/0",
+      "ridgway/5"
+     ]
+    },
+    "Tourism & events": {
+     "weight": 10.8,
+     "issues": [
+      "ouray-county/0",
+      "ridgway/9",
+      "ridgway/5"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 7.5,
+     "issues": [
+      "ridgway/2",
+      "ridgway/10"
+     ]
+    },
+    "Utilities": {
+     "weight": 6.8,
+     "issues": [
+      "ridgway/3",
+      "ridgway/0"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 6.0,
+     "issues": [
+      "ridgway/6",
+      "ouray-county/1"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 3.8,
+     "issues": [
+      "ridgway/9"
      ]
     },
     "Downtown & business": {
      "weight": 3.8,
      "issues": [
-      "ridgway/7"
+      "ridgway/9"
      ]
     },
-    "Fire & emergencies": {
+    "Economic development": {
      "weight": 3.0,
      "issues": [
-      "ridgway/4",
-      "ouray-county/1"
+      "ridgway/5"
      ]
     },
-    "Government operations": {
-     "weight": 3.0,
+    "Ethics & transparency": {
+     "weight": 2.5,
      "issues": [
-      "ouray-county/6",
-      "ouray-county/7",
-      "ridgway/10"
+      "ridgway/12"
      ]
     },
-    "Budget & taxes": {
+    "Land & property": {
      "weight": 2.0,
      "issues": [
-      "ridgway/6"
-     ]
-    },
-    "Parks & open space": {
-     "weight": 1.2,
-     "issues": [
-      "ridgway/8"
+      "ouray-county/4",
+      "ouray-county/5"
      ]
     },
     "Recreation & trails": {
      "weight": 1.2,
      "issues": [
-      "ridgway/8"
+      "ridgway/10"
+     ]
+    },
+    "Parks & open space": {
+     "weight": 1.2,
+     "issues": [
+      "ridgway/10"
      ]
     },
     "Annexation": {
@@ -9876,36 +10271,59 @@
       "ouray-county/7"
      ]
     },
-    "Utilities": {
+    "Lawsuits & legal": {
      "weight": 1.0,
      "issues": [
-      "ridgway/3"
-     ]
-    },
-    "Policing & public safety": {
-     "weight": 1.0,
-     "issues": [
-      "ridgway/10"
-     ]
-    },
-    "Libraries & culture": {
-     "weight": 1.0,
-     "issues": [
-      "ridgway/11"
+      "ridgway/8"
      ]
     }
    },
    "standouts": [
     {
      "topic": "Tourism & events",
-     "rank": 1,
-     "of": 53,
-     "share": 0.118,
-     "state": 0.019,
+     "rank": 3,
+     "of": 55,
+     "share": 0.071,
+     "state": 0.018,
      "issues": [
       "ouray-county/0",
+      "ridgway/9",
+      "ridgway/5"
+     ]
+    },
+    {
+     "topic": "Environment & climate",
+     "rank": 6,
+     "of": 55,
+     "share": 0.087,
+     "state": 0.04,
+     "issues": [
+      "ridgway/6",
+      "ridgway/4",
       "ridgway/7",
-      "ridgway/11"
+      "ouray-county/2",
+      "ouray-county/7"
+     ]
+    },
+    {
+     "topic": "Zoning & development",
+     "rank": 6,
+     "of": 55,
+     "share": 0.196,
+     "state": 0.123,
+     "issues": [
+      "ridgway/1",
+      "ridgway/6",
+      "ouray-county/0",
+      "ridgway/4",
+      "ridgway/11",
+      "ouray-county/1",
+      "ouray-county/2",
+      "ouray-county/3",
+      "ouray-county/4",
+      "ouray-county/5",
+      "ouray-county/6",
+      "ridgway/8"
      ]
     }
    ]
@@ -10132,35 +10550,15 @@
    "standouts": [
     {
      "topic": "Tourism & events",
-     "rank": 2,
-     "of": 53,
+     "rank": 1,
+     "of": 55,
      "share": 0.077,
-     "state": 0.019,
+     "state": 0.018,
      "issues": [
       "park-county/2",
       "park-county/13",
       "fairplay/9",
       "fairplay/12"
-     ]
-    },
-    {
-     "topic": "Guns",
-     "rank": 3,
-     "of": 53,
-     "share": 0.005,
-     "state": 0.001,
-     "issues": [
-      "park-county/14"
-     ]
-    },
-    {
-     "topic": "Lawsuits & legal",
-     "rank": 4,
-     "of": 53,
-     "share": 0.041,
-     "state": 0.012,
-     "issues": [
-      "fairplay/0"
      ]
     }
    ]
@@ -10175,7 +10573,7 @@
     {
      "name": "Haxtun",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Holyoke",
@@ -10211,25 +10609,37 @@
     }
    },
    "topics": {
+    "Budget & taxes": {
+     "weight": 7.0,
+     "issues": [
+      "phillips-county/1",
+      "haxtun/1",
+      "haxtun/3"
+     ]
+    },
     "Roads & traffic": {
-     "weight": 6.0,
+     "weight": 7.0,
      "issues": [
       "phillips-county/5",
       "phillips-county/6",
-      "phillips-county/7"
-     ]
-    },
-    "Budget & taxes": {
-     "weight": 5.0,
-     "issues": [
-      "phillips-county/1"
+      "phillips-county/7",
+      "haxtun/1"
      ]
     },
     "Government operations": {
-     "weight": 4.0,
+     "weight": 5.0,
      "issues": [
       "phillips-county/6",
-      "phillips-county/8"
+      "phillips-county/8",
+      "haxtun/3"
+     ]
+    },
+    "Utilities": {
+     "weight": 4.0,
+     "issues": [
+      "phillips-county/2",
+      "haxtun/0",
+      "haxtun/2"
      ]
     },
     "Zoning & development": {
@@ -10240,6 +10650,13 @@
       "phillips-county/3"
      ]
     },
+    "Fees & rates": {
+     "weight": 3.0,
+     "issues": [
+      "phillips-county/2",
+      "haxtun/0"
+     ]
+    },
     "Policing & public safety": {
      "weight": 3.0,
      "issues": [
@@ -10247,16 +10664,12 @@
       "phillips-county/10"
      ]
     },
-    "Utilities": {
-     "weight": 2.0,
+    "Energy": {
+     "weight": 3.0,
      "issues": [
-      "phillips-county/2"
-     ]
-    },
-    "Fees & rates": {
-     "weight": 2.0,
-     "issues": [
-      "phillips-county/2"
+      "phillips-county/0",
+      "haxtun/0",
+      "haxtun/2"
      ]
     },
     "Broadband": {
@@ -10295,12 +10708,6 @@
       "phillips-county/11"
      ]
     },
-    "Energy": {
-     "weight": 1.0,
-     "issues": [
-      "phillips-county/0"
-     ]
-    },
     "Data centers": {
      "weight": 1.0,
      "issues": [
@@ -10329,35 +10736,12 @@
    "standouts": [
     {
      "topic": "Broadband",
-     "rank": 2,
-     "of": 53,
-     "share": 0.049,
+     "rank": 1,
+     "of": 55,
+     "share": 0.04,
      "state": 0.002,
      "issues": [
       "phillips-county/5"
-     ]
-    },
-    {
-     "topic": "Roads & traffic",
-     "rank": 4,
-     "of": 53,
-     "share": 0.148,
-     "state": 0.045,
-     "issues": [
-      "phillips-county/5",
-      "phillips-county/6",
-      "phillips-county/7"
-     ]
-    },
-    {
-     "topic": "Policing & public safety",
-     "rank": 4,
-     "of": 53,
-     "share": 0.074,
-     "state": 0.026,
-     "issues": [
-      "phillips-county/9",
-      "phillips-county/10"
      ]
     }
    ]
@@ -10622,9 +11006,9 @@
     {
      "topic": "Housing",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.16,
-     "state": 0.067,
+     "state": 0.063,
      "issues": [
       "snowmass-village/0",
       "snowmass-village/1",
@@ -10699,50 +11083,80 @@
     {
      "name": "Rye",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
     "pueblo-county/0",
-    "pueblo/8",
-    "pueblo/4",
     "boone/1",
-    "boone/2",
-    "pueblo/1",
-    "pueblo/11",
-    "pueblo/12",
-    "boone/0",
     "boone/3",
+    "boone/0",
+    "pueblo/8",
+    "boone/2",
+    "boone/4",
+    "pueblo/4",
+    "pueblo/1",
     "boone/5",
-    "pueblo/0"
+    "boone/7",
+    "boone/8"
    ],
    "tagged": {},
    "topics": {
     "Government operations": {
-     "weight": 25.0,
+     "weight": 44.0,
      "issues": [
       "pueblo-county/0",
+      "boone/3",
       "boone/2",
-      "boone/5",
-      "pueblo/6"
+      "boone/7",
+      "boone/8",
+      "rye/3",
+      "boone/9",
+      "pueblo/6",
+      "rye/5"
      ]
     },
     "Utilities": {
-     "weight": 19.0,
+     "weight": 35.0,
      "issues": [
       "boone/1",
-      "boone/2",
-      "pueblo/11",
       "boone/0",
-      "boone/3",
+      "boone/7",
+      "boone/8",
+      "pueblo/11",
+      "rye/0",
       "pueblo/2",
-      "boone/6"
+      "rye/1"
+     ]
+    },
+    "Water": {
+     "weight": 32.0,
+     "issues": [
+      "boone/1",
+      "boone/0",
+      "boone/4",
+      "pueblo/11",
+      "rye/0",
+      "rye/1"
      ]
     },
     "Fire & emergencies": {
-     "weight": 18.0,
+     "weight": 24.0,
      "issues": [
-      "pueblo-county/0"
+      "pueblo-county/0",
+      "boone/2",
+      "rye/7"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 22.0,
+     "issues": [
+      "boone/1",
+      "boone/5",
+      "pueblo/0",
+      "pueblo/2",
+      "pueblo/10",
+      "rye/6"
      ]
     },
     "Environment & climate": {
@@ -10751,21 +11165,20 @@
       "pueblo-county/0"
      ]
     },
-    "Fees & rates": {
-     "weight": 12.5,
+    "Zoning & development": {
+     "weight": 13.0,
      "issues": [
-      "boone/1",
       "boone/3",
-      "pueblo/0",
-      "pueblo/2",
-      "pueblo/10"
+      "pueblo/5",
+      "pueblo/6"
      ]
     },
     "Budget & taxes": {
-     "weight": 11.0,
+     "weight": 13.0,
      "issues": [
       "pueblo/8",
       "pueblo/1",
+      "rye/2",
       "pueblo/9"
      ]
     },
@@ -10776,20 +11189,19 @@
       "pueblo/4"
      ]
     },
-    "Water": {
-     "weight": 10.5,
-     "issues": [
-      "boone/1",
-      "pueblo/11",
-      "boone/0",
-      "boone/6"
-     ]
-    },
     "Economic development": {
      "weight": 7.0,
      "issues": [
       "pueblo/4",
       "pueblo/3"
+     ]
+    },
+    "Land & property": {
+     "weight": 7.0,
+     "issues": [
+      "pueblo/12",
+      "pueblo/10",
+      "rye/6"
      ]
     },
     "Airports": {
@@ -10798,18 +11210,26 @@
       "pueblo/8"
      ]
     },
-    "Land & property": {
+    "Roads & traffic": {
+     "weight": 6.0,
+     "issues": [
+      "pueblo/0",
+      "rye/3",
+      "pueblo/7",
+      "rye/4"
+     ]
+    },
+    "Health & human services": {
      "weight": 5.0,
      "issues": [
-      "pueblo/12",
-      "pueblo/10"
+      "boone/4"
      ]
     },
     "Parks & open space": {
-     "weight": 4.0,
+     "weight": 5.0,
      "issues": [
       "pueblo/12",
-      "boone/4"
+      "boone/6"
      ]
     },
     "Policing & public safety": {
@@ -10819,18 +11239,17 @@
       "pueblo/13"
      ]
     },
-    "Roads & traffic": {
-     "weight": 4.0,
-     "issues": [
-      "pueblo/0",
-      "boone/7",
-      "pueblo/7"
-     ]
-    },
     "Housing": {
      "weight": 3.0,
      "issues": [
       "pueblo/12"
+     ]
+    },
+    "Energy": {
+     "weight": 3.0,
+     "issues": [
+      "pueblo/2",
+      "rye/7"
      ]
     },
     "Libraries & culture": {
@@ -10840,17 +11259,10 @@
       "pueblo/9"
      ]
     },
-    "Zoning & development": {
-     "weight": 3.0,
-     "issues": [
-      "pueblo/5",
-      "pueblo/6"
-     ]
-    },
-    "Energy": {
+    "Recreation & trails": {
      "weight": 2.0,
      "issues": [
-      "pueblo/2"
+      "boone/6"
      ]
     },
     "Tourism & events": {
@@ -10865,10 +11277,10 @@
       "pueblo/5"
      ]
     },
-    "Recreation & trails": {
+    "Broadband": {
      "weight": 1.0,
      "issues": [
-      "boone/4"
+      "boone/9"
      ]
     },
     "Transit": {
@@ -10882,18 +11294,69 @@
      "issues": [
       "pueblo/7"
      ]
+    },
+    "Schools & youth": {
+     "weight": 1.0,
+     "issues": [
+      "rye/4"
+     ]
+    },
+    "Agriculture & wildlife": {
+     "weight": 1.0,
+     "issues": [
+      "rye/5"
+     ]
     }
    },
    "standouts": [
     {
-     "topic": "Lawsuits & legal",
-     "rank": 1,
-     "of": 53,
-     "share": 0.064,
-     "state": 0.012,
+     "topic": "Utilities",
+     "rank": 2,
+     "of": 55,
+     "share": 0.129,
+     "state": 0.05,
      "issues": [
-      "pueblo/8",
-      "pueblo/4"
+      "boone/1",
+      "boone/0",
+      "boone/7",
+      "boone/8",
+      "pueblo/11",
+      "rye/0",
+      "pueblo/2",
+      "rye/1"
+     ]
+    },
+    {
+     "topic": "Water",
+     "rank": 3,
+     "of": 55,
+     "share": 0.118,
+     "state": 0.052,
+     "issues": [
+      "boone/1",
+      "boone/0",
+      "boone/4",
+      "pueblo/11",
+      "rye/0",
+      "rye/1"
+     ]
+    },
+    {
+     "topic": "Government operations",
+     "rank": 3,
+     "of": 55,
+     "share": 0.162,
+     "state": 0.079,
+     "issues": [
+      "pueblo-county/0",
+      "boone/3",
+      "boone/2",
+      "boone/7",
+      "boone/8",
+      "rye/3",
+      "boone/9",
+      "pueblo/6",
+      "rye/5"
      ]
     }
    ]
@@ -10924,10 +11387,10 @@
     "rangely/7",
     "rangely/5",
     "rangely/6",
+    "meeker/3",
     "meeker/0",
     "meeker/1",
     "meeker/2",
-    "meeker/3",
     "meeker/4"
    ],
    "tagged": {
@@ -10945,7 +11408,7 @@
       "rangely/0",
       "rangely/1",
       "rangely/3",
-      "meeker/1",
+      "meeker/0",
       "rangely/2"
      ]
     },
@@ -10969,7 +11432,7 @@
      "weight": 6.0,
      "issues": [
       "rangely/4",
-      "meeker/0",
+      "meeker/1",
       "rangely/8"
      ]
     },
@@ -10985,6 +11448,15 @@
       "rangely/0"
      ]
     },
+    "Zoning & development": {
+     "weight": 5.0,
+     "issues": [
+      "meeker/3",
+      "meeker/2",
+      "meeker/4",
+      "meeker/5"
+     ]
+    },
     "Housing": {
      "weight": 4.0,
      "issues": [
@@ -10995,7 +11467,7 @@
      "weight": 3.5,
      "issues": [
       "rangely/6",
-      "meeker/1"
+      "meeker/0"
      ]
     },
     "Policing & public safety": {
@@ -11010,6 +11482,13 @@
       "rangely/7"
      ]
     },
+    "Land & property": {
+     "weight": 3.0,
+     "issues": [
+      "meeker/3",
+      "meeker/5"
+     ]
+    },
     "Ethics & transparency": {
      "weight": 2.5,
      "issues": [
@@ -11022,23 +11501,10 @@
       "rangely/6"
      ]
     },
-    "Zoning & development": {
-     "weight": 2.0,
-     "issues": [
-      "meeker/2",
-      "meeker/3"
-     ]
-    },
-    "Downtown & business": {
+    "Short-term rentals": {
      "weight": 1.0,
      "issues": [
       "meeker/2"
-     ]
-    },
-    "Health & human services": {
-     "weight": 1.0,
-     "issues": [
-      "meeker/4"
      ]
     }
    },
@@ -11046,11 +11512,25 @@
     {
      "topic": "Data centers",
      "rank": 1,
-     "of": 53,
-     "share": 0.075,
-     "state": 0.01,
+     "of": 55,
+     "share": 0.069,
+     "state": 0.009,
      "issues": [
       "rangely/0"
+     ]
+    },
+    {
+     "topic": "Water",
+     "rank": 1,
+     "of": 55,
+     "share": 0.194,
+     "state": 0.052,
+     "issues": [
+      "rangely/0",
+      "rangely/1",
+      "rangely/3",
+      "meeker/0",
+      "rangely/2"
      ]
     }
    ]
@@ -11176,7 +11656,7 @@
     {
      "topic": "Ethics & transparency",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.071,
      "state": 0.006,
      "issues": [
@@ -11186,9 +11666,9 @@
     {
      "topic": "Policing & public safety",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.143,
-     "state": 0.026,
+     "state": 0.028,
      "issues": [
       "del-norte/1",
       "del-norte/4"
@@ -11467,22 +11947,11 @@
    },
    "standouts": [
     {
-     "topic": "Agriculture & wildlife",
-     "rank": 1,
-     "of": 53,
-     "share": 0.041,
-     "state": 0.005,
-     "issues": [
-      "routt-county/2",
-      "hayden/6"
-     ]
-    },
-    {
      "topic": "Oil, gas & mining",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.034,
-     "state": 0.005,
+     "state": 0.004,
      "issues": [
       "routt-county/0"
      ]
@@ -11504,7 +11973,7 @@
     {
      "name": "Center",
      "share": 0.977,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Crestone",
@@ -11522,17 +11991,83 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "center/1",
+    "center/0",
+    "center/2",
+    "center/3",
+    "center/4"
+   ],
    "tagged": {},
-   "topics": {},
-   "standouts": []
+   "topics": {
+    "Budget & taxes": {
+     "weight": 3.5,
+     "issues": [
+      "center/1",
+      "center/0"
+     ]
+    },
+    "Government operations": {
+     "weight": 3.5,
+     "issues": [
+      "center/1",
+      "center/4"
+     ]
+    },
+    "Lawsuits & legal": {
+     "weight": 3.0,
+     "issues": [
+      "center/2",
+      "center/3",
+      "center/4"
+     ]
+    },
+    "Utilities": {
+     "weight": 1.0,
+     "issues": [
+      "center/0"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 1.0,
+     "issues": [
+      "center/0"
+     ]
+    },
+    "Housing": {
+     "weight": 1.0,
+     "issues": [
+      "center/2"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 1.0,
+     "issues": [
+      "center/3"
+     ]
+    }
+   },
+   "standouts": [
+    {
+     "topic": "Lawsuits & legal",
+     "rank": 1,
+     "of": 55,
+     "share": 0.214,
+     "state": 0.011,
+     "issues": [
+      "center/2",
+      "center/3",
+      "center/4"
+     ]
+    }
+   ]
   },
   "San Juan": {
    "governments": [
     {
      "name": "San Juan County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Silverton",
@@ -11540,10 +12075,30 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "san-juan-county/0"
+   ],
    "tagged": {},
-   "topics": {},
-   "standouts": []
+   "topics": {
+    "Fire & emergencies": {
+     "weight": 1.0,
+     "issues": [
+      "san-juan-county/0"
+     ]
+    }
+   },
+   "standouts": [
+    {
+     "topic": "Fire & emergencies",
+     "rank": 5,
+     "of": 55,
+     "share": 1.0,
+     "state": 0.026,
+     "issues": [
+      "san-juan-county/0"
+     ]
+    }
+   ]
   },
   "San Miguel": {
    "governments": [
@@ -11579,87 +12134,145 @@
     }
    ],
    "issues": [
+    "norwood/3",
+    "norwood/8",
     "san-miguel-county/5",
+    "ophir/1",
     "telluride/3",
     "san-miguel-county/1",
-    "san-miguel-county/0",
     "norwood/0",
-    "norwood/5",
-    "telluride/10",
-    "telluride/11",
-    "san-miguel-county/7",
-    "telluride/7",
-    "san-miguel-county/3",
-    "san-miguel-county/6"
+    "norwood/10",
+    "san-miguel-county/0",
+    "norwood/1",
+    "norwood/4",
+    "norwood/5"
    ],
    "tagged": {},
    "topics": {
     "Zoning & development": {
-     "weight": 23.0,
+     "weight": 42.0,
      "issues": [
+      "ophir/1",
       "san-miguel-county/1",
       "san-miguel-county/0",
-      "san-miguel-county/3",
-      "ophir/0",
+      "norwood/1",
       "ophir/2",
-      "telluride/1",
-      "san-miguel-county/4",
-      "norwood/4",
-      "ophir/1",
+      "ophir/5",
+      "ophir/6",
+      "san-miguel-county/3",
+      "norwood/2",
+      "ophir/0",
       "ophir/3",
-      "telluride/0",
-      "telluride/2"
+      "ophir/8"
      ]
     },
     "Housing": {
-     "weight": 18.0,
+     "weight": 23.0,
      "issues": [
       "telluride/3",
       "san-miguel-county/1",
+      "norwood/5",
+      "ophir/6",
       "san-miguel-county/3",
       "ophir/0",
       "telluride/1",
       "san-miguel-county/2",
-      "ophir/3",
       "telluride/2"
      ]
     },
-    "Budget & taxes": {
-     "weight": 13.0,
-     "issues": [
-      "san-miguel-county/5",
-      "norwood/5",
-      "telluride/11",
-      "telluride/4"
-     ]
-    },
     "Environment & climate": {
-     "weight": 11.2,
+     "weight": 22.2,
      "issues": [
+      "ophir/1",
       "san-miguel-county/0",
+      "ophir/2",
       "telluride/10",
       "san-miguel-county/7",
+      "ophir/3",
       "san-miguel-county/10",
-      "san-miguel-county/11"
+      "san-miguel-county/11",
+      "ophir/7"
      ]
     },
     "Government operations": {
-     "weight": 10.2,
+     "weight": 15.2,
      "issues": [
       "san-miguel-county/5",
-      "norwood/0",
-      "telluride/5",
-      "norwood/4"
+      "norwood/1",
+      "norwood/4",
+      "norwood/6",
+      "telluride/5"
+     ]
+    },
+    "Budget & taxes": {
+     "weight": 15.0,
+     "issues": [
+      "san-miguel-county/5",
+      "norwood/4",
+      "telluride/11",
+      "norwood/9",
+      "telluride/4"
      ]
     },
     "Parks & open space": {
-     "weight": 9.5,
+     "weight": 13.5,
      "issues": [
+      "norwood/3",
       "telluride/7",
       "san-miguel-county/8",
-      "norwood/8",
       "telluride/12",
       "telluride/8"
+     ]
+    },
+    "Roads & traffic": {
+     "weight": 11.0,
+     "issues": [
+      "norwood/0",
+      "norwood/7",
+      "san-miguel-county/6",
+      "ophir/8"
+     ]
+    },
+    "Land & property": {
+     "weight": 11.0,
+     "issues": [
+      "ophir/2",
+      "ophir/5",
+      "san-miguel-county/3",
+      "norwood/2",
+      "ophir/4"
+     ]
+    },
+    "Utilities": {
+     "weight": 10.0,
+     "issues": [
+      "norwood/8",
+      "norwood/11",
+      "san-miguel-county/9"
+     ]
+    },
+    "Water": {
+     "weight": 9.5,
+     "issues": [
+      "norwood/8",
+      "san-miguel-county/7",
+      "san-miguel-county/9"
+     ]
+    },
+    "Agriculture & wildlife": {
+     "weight": 9.5,
+     "issues": [
+      "norwood/10",
+      "san-miguel-county/7",
+      "san-miguel-county/8",
+      "san-miguel-county/10"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 9.0,
+     "issues": [
+      "ophir/1",
+      "norwood/10"
      ]
     },
     "Recreation & trails": {
@@ -11671,44 +12284,41 @@
       "telluride/12"
      ]
     },
-    "Tourism & events": {
+    "Energy": {
      "weight": 7.0,
+     "issues": [
+      "norwood/11",
+      "telluride/10",
+      "ophir/7"
+     ]
+    },
+    "Tourism & events": {
+     "weight": 6.0,
      "issues": [
       "telluride/11",
       "telluride/12",
-      "norwood/9",
       "telluride/8"
      ]
     },
-    "Water": {
-     "weight": 5.5,
+    "Policing & public safety": {
+     "weight": 5.2,
      "issues": [
-      "san-miguel-county/7",
-      "norwood/3",
-      "san-miguel-county/9"
+      "norwood/0",
+      "telluride/5"
      ]
     },
-    "Agriculture & wildlife": {
-     "weight": 5.5,
+    "Short-term rentals": {
+     "weight": 5.0,
      "issues": [
-      "san-miguel-county/7",
-      "san-miguel-county/8",
-      "san-miguel-county/10"
+      "norwood/5",
+      "ophir/0"
      ]
     },
     "Ethics & transparency": {
      "weight": 5.0,
      "issues": [
-      "norwood/0",
+      "norwood/6",
       "telluride/6"
-     ]
-    },
-    "Land & property": {
-     "weight": 5.0,
-     "issues": [
-      "san-miguel-county/3",
-      "ophir/2",
-      "norwood/7"
      ]
     },
     "Oil, gas & mining": {
@@ -11718,19 +12328,11 @@
       "san-miguel-county/11"
      ]
     },
-    "Roads & traffic": {
+    "Schools & youth": {
      "weight": 4.0,
      "issues": [
-      "san-miguel-county/6",
-      "norwood/1",
-      "norwood/6"
-     ]
-    },
-    "Short-term rentals": {
-     "weight": 4.0,
-     "issues": [
-      "norwood/2",
-      "ophir/0"
+      "norwood/7",
+      "telluride/2"
      ]
     },
     "Fees & rates": {
@@ -11741,37 +12343,10 @@
       "telluride/8"
      ]
     },
-    "Energy": {
-     "weight": 3.0,
-     "issues": [
-      "telluride/10"
-     ]
-    },
     "Libraries & culture": {
      "weight": 3.0,
      "issues": [
       "telluride/11"
-     ]
-    },
-    "Utilities": {
-     "weight": 3.0,
-     "issues": [
-      "norwood/3",
-      "san-miguel-county/9"
-     ]
-    },
-    "Schools & youth": {
-     "weight": 2.0,
-     "issues": [
-      "norwood/6",
-      "telluride/2"
-     ]
-    },
-    "Fire & emergencies": {
-     "weight": 2.0,
-     "issues": [
-      "norwood/9",
-      "ophir/1"
      ]
     },
     "Historic preservation": {
@@ -11786,44 +12361,17 @@
      "issues": [
       "san-miguel-county/4"
      ]
-    },
-    "Policing & public safety": {
-     "weight": 1.2,
-     "issues": [
-      "telluride/5"
-     ]
     }
    },
    "standouts": [
     {
-     "topic": "Oil, gas & mining",
-     "rank": 2,
-     "of": 53,
-     "share": 0.031,
-     "state": 0.005,
-     "issues": [
-      "san-miguel-county/0",
-      "san-miguel-county/11"
-     ]
-    },
-    {
-     "topic": "Ethics & transparency",
-     "rank": 2,
-     "of": 53,
-     "share": 0.032,
-     "state": 0.006,
-     "issues": [
-      "norwood/0",
-      "telluride/6"
-     ]
-    },
-    {
      "topic": "Agriculture & wildlife",
-     "rank": 3,
-     "of": 53,
-     "share": 0.035,
+     "rank": 1,
+     "of": 55,
+     "share": 0.039,
      "state": 0.005,
      "issues": [
+      "norwood/10",
       "san-miguel-county/7",
       "san-miguel-county/8",
       "san-miguel-county/10"
@@ -12151,38 +12699,13 @@
    "standouts": [
     {
      "topic": "Short-term rentals",
-     "rank": 2,
-     "of": 53,
+     "rank": 1,
+     "of": 55,
      "share": 0.039,
      "state": 0.006,
      "issues": [
       "blue-river/0",
       "frisco/0"
-     ]
-    },
-    {
-     "topic": "Schools & youth",
-     "rank": 2,
-     "of": 53,
-     "share": 0.047,
-     "state": 0.009,
-     "issues": [
-      "summit-county/9",
-      "breckenridge/11",
-      "breckenridge/15",
-      "frisco/10",
-      "frisco/4",
-      "blue-river/8"
-     ]
-    },
-    {
-     "topic": "Oil, gas & mining",
-     "rank": 5,
-     "of": 53,
-     "share": 0.009,
-     "state": 0.005,
-     "issues": [
-      "summit-county/3"
      ]
     }
    ]
@@ -12373,9 +12896,9 @@
     {
      "topic": "Historic preservation",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.085,
-     "state": 0.012,
+     "state": 0.011,
      "issues": [
       "woodland-park/0",
       "woodland-park/7",
@@ -12385,9 +12908,9 @@
     {
      "topic": "Land & property",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.137,
-     "state": 0.045,
+     "state": 0.047,
      "issues": [
       "teller-county/0",
       "woodland-park/0",
@@ -12576,7 +13099,7 @@
     {
      "topic": "Government operations",
      "rank": 1,
-     "of": 53,
+     "of": 55,
      "share": 0.283,
      "state": 0.079,
      "issues": [
@@ -12645,7 +13168,7 @@
     {
      "name": "Garden City",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Gilcrest",
@@ -12738,14 +13261,14 @@
     "greeley/4",
     "greeley/1",
     "hudson/1",
+    "nunn/4",
     "hudson/10",
+    "nunn/2",
     "greeley/2",
     "greeley/3",
     "weld-county/6",
     "fort-lupton/5",
-    "greeley/5",
-    "hudson/2",
-    "milliken/0"
+    "nunn/3"
    ],
    "tagged": {
     "data-center": {
@@ -12759,11 +13282,17 @@
       "fort-lupton/0"
      ],
      "site": false
+    },
+    "guns": {
+     "ids": [
+      "garden-city/10"
+     ],
+     "site": false
     }
    },
    "topics": {
     "Zoning & development": {
-     "weight": 166.0,
+     "weight": 178.0,
      "issues": [
       "hudson/0",
       "hudson/1",
@@ -12771,16 +13300,16 @@
       "greeley/2",
       "greeley/3",
       "fort-lupton/5",
+      "nunn/3",
+      "nunn/6",
       "weld-county/1",
       "weld-county/2",
       "weld-county/4",
-      "dacono/11",
-      "erie/3",
-      "erie/10"
+      "dacono/11"
      ]
     },
     "Budget & taxes": {
-     "weight": 145.5,
+     "weight": 158.5,
      "issues": [
       "greeley/4",
       "greeley/1",
@@ -12791,14 +13320,15 @@
       "erie/1",
       "greeley/10",
       "weld-county/9",
+      "nunn/9",
       "windsor/2",
-      "weld-county/1",
-      "fort-lupton/6"
+      "weld-county/1"
      ]
     },
     "Government operations": {
-     "weight": 82.2,
+     "weight": 89.2,
      "issues": [
+      "nunn/2",
       "greeley/2",
       "weld-county/6",
       "erie/1",
@@ -12807,49 +13337,32 @@
       "milliken/3",
       "windsor/2",
       "weld-county/2",
-      "nunn/2",
+      "garden-city/0",
       "weld-county/3",
-      "nunn/1",
       "johnstown/3"
      ]
     },
     "Water": {
-     "weight": 80.2,
+     "weight": 86.2,
      "issues": [
       "fort-lupton/5",
       "milliken/0",
+      "nunn/0",
       "greeley/0",
       "dacono/3",
       "greeley/14",
+      "nunn/1",
       "johnstown/12",
       "windsor/0",
       "weld-county/3",
       "greeley/11",
-      "hudson/5",
-      "johnstown/2",
-      "milliken/2"
-     ]
-    },
-    "Housing": {
-     "weight": 65.8,
-     "issues": [
-      "hudson/0",
-      "hudson/1",
-      "fort-lupton/5",
-      "weld-county/9",
-      "erie/10",
-      "milliken/6",
-      "weld-county/8",
-      "greeley/15",
-      "nunn/0",
-      "dacono/7",
-      "fort-lupton/11",
-      "johnstown/10"
+      "hudson/5"
      ]
     },
     "Roads & traffic": {
-     "weight": 62.0,
+     "weight": 72.8,
      "issues": [
+      "nunn/4",
       "hudson/2",
       "greeley/10",
       "weld-county/5",
@@ -12860,46 +13373,96 @@
       "mead/4",
       "dacono/8",
       "erie/6",
-      "hudson/6",
-      "johnstown/6"
+      "garden-city/3"
+     ]
+    },
+    "Housing": {
+     "weight": 69.8,
+     "issues": [
+      "hudson/0",
+      "hudson/1",
+      "fort-lupton/5",
+      "nunn/3",
+      "weld-county/9",
+      "erie/10",
+      "milliken/6",
+      "weld-county/8",
+      "greeley/15",
+      "dacono/7",
+      "fort-lupton/11",
+      "johnstown/10"
      ]
     },
     "Utilities": {
-     "weight": 51.0,
+     "weight": 61.8,
      "issues": [
       "milliken/0",
+      "nunn/0",
       "dacono/3",
       "hudson/3",
+      "nunn/1",
+      "nunn/5",
       "greeley/11",
       "hudson/5",
       "milliken/11",
-      "nunn/8",
       "windsor/3",
       "fort-lupton/1",
-      "fort-lupton/2",
-      "fort-lupton/4",
-      "hudson/6"
+      "fort-lupton/2"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 53.8,
+     "issues": [
+      "nunn/4",
+      "weld-county/6",
+      "hudson/2",
+      "weld-county/7",
+      "dacono/1",
+      "garden-city/0",
+      "nunn/8",
+      "greeley/6",
+      "hudson/11",
+      "fort-lupton/12",
+      "mead/1",
+      "weld-county/0"
+     ]
+    },
+    "Fees & rates": {
+     "weight": 53.5,
+     "issues": [
+      "nunn/3",
+      "milliken/0",
+      "nunn/0",
+      "erie/9",
+      "johnstown/12",
+      "weld-county/3",
+      "dacono/10",
+      "garden-city/5",
+      "greeley/11",
+      "mead/2",
+      "windsor/3",
+      "erie/2"
      ]
     },
     "Parks & open space": {
-     "weight": 43.2,
+     "weight": 40.2,
      "issues": [
       "greeley/4",
       "erie/3",
       "erie/12",
       "fort-lupton/10",
       "milliken/11",
-      "nunn/8",
       "dacono/5",
       "erie/5",
       "greeley/8",
       "hudson/7",
       "severance/1",
-      "severance/3"
+      "severance/3",
+      "firestone/2"
      ]
     },
     "Land & property": {
-     "weight": 40.8,
+     "weight": 36.8,
      "issues": [
       "weld-county/1",
       "weld-county/4",
@@ -12907,49 +13470,16 @@
       "weld-county/11",
       "johnstown/14",
       "mead/6",
-      "nunn/0",
       "fort-lupton/1",
       "erie/0",
       "hudson/7",
       "kersey/2",
-      "windsor/6"
-     ]
-    },
-    "Fees & rates": {
-     "weight": 40.5,
-     "issues": [
-      "milliken/0",
-      "erie/9",
-      "johnstown/12",
-      "weld-county/3",
-      "dacono/10",
-      "greeley/11",
-      "mead/2",
-      "nunn/1",
-      "windsor/3",
-      "erie/2",
-      "fort-lupton/2",
-      "milliken/4"
-     ]
-    },
-    "Policing & public safety": {
-     "weight": 37.0,
-     "issues": [
-      "weld-county/6",
-      "hudson/2",
-      "weld-county/7",
-      "dacono/1",
-      "greeley/6",
-      "hudson/11",
-      "fort-lupton/12",
-      "mead/1",
-      "weld-county/0",
-      "kersey/5",
-      "nunn/7"
+      "windsor/6",
+      "kersey/0"
      ]
     },
     "Economic development": {
-     "weight": 30.5,
+     "weight": 33.5,
      "issues": [
       "greeley/3",
       "johnstown/8",
@@ -12959,13 +13489,14 @@
       "erie/5",
       "erie/6",
       "fort-lupton/9",
+      "garden-city/6",
       "mead/3",
-      "hudson/4",
-      "platteville/2"
+      "garden-city/8",
+      "hudson/4"
      ]
     },
     "Downtown & business": {
-     "weight": 28.8,
+     "weight": 29.8,
      "issues": [
       "hudson/1",
       "johnstown/8",
@@ -12974,11 +13505,11 @@
       "erie/6",
       "fort-lupton/9",
       "frederick/4",
+      "garden-city/8",
       "greeley/13",
       "hudson/9",
       "milliken/8",
-      "platteville/4",
-      "severance/5"
+      "platteville/4"
      ]
     },
     "Annexation": {
@@ -13018,14 +13549,50 @@
       "severance/4"
      ]
     },
+    "Recreation & trails": {
+     "weight": 24.5,
+     "issues": [
+      "nunn/2",
+      "erie/7",
+      "erie/12",
+      "mead/4",
+      "johnstown/4",
+      "mead/8",
+      "windsor/13",
+      "firestone/2",
+      "frederick/7"
+     ]
+    },
     "Elections": {
-     "weight": 20.8,
+     "weight": 21.8,
      "issues": [
       "greeley/1",
       "weld-county/12",
       "frederick/0",
       "kersey/1",
-      "windsor/13"
+      "windsor/13",
+      "garden-city/9"
+     ]
+    },
+    "Health & human services": {
+     "weight": 21.8,
+     "issues": [
+      "nunn/2",
+      "weld-county/9",
+      "weld-county/8",
+      "johnstown/3",
+      "frederick/6",
+      "windsor/12"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 19.0,
+     "issues": [
+      "nunn/6",
+      "weld-county/7",
+      "garden-city/5",
+      "hudson/11",
+      "kersey/4"
      ]
     },
     "Oil, gas & mining": {
@@ -13052,30 +13619,6 @@
       "fort-lupton/0"
      ]
     },
-    "Recreation & trails": {
-     "weight": 16.5,
-     "issues": [
-      "erie/7",
-      "erie/12",
-      "mead/4",
-      "johnstown/4",
-      "mead/8",
-      "windsor/13",
-      "firestone/2",
-      "frederick/7"
-     ]
-    },
-    "Health & human services": {
-     "weight": 15.8,
-     "issues": [
-      "weld-county/9",
-      "weld-county/8",
-      "johnstown/3",
-      "frederick/6",
-      "nunn/3",
-      "windsor/12"
-     ]
-    },
     "Historic preservation": {
      "weight": 15.2,
      "issues": [
@@ -13085,23 +13628,14 @@
      ]
     },
     "Environment & climate": {
-     "weight": 15.0,
+     "weight": 14.8,
      "issues": [
-      "nunn/2",
+      "nunn/5",
       "hudson/5",
       "erie/2",
       "greeley/9",
       "frederick/2",
       "erie/11"
-     ]
-    },
-    "Fire & emergencies": {
-     "weight": 14.0,
-     "issues": [
-      "weld-county/7",
-      "nunn/2",
-      "hudson/11",
-      "kersey/4"
      ]
     },
     "Schools & youth": {
@@ -13123,17 +13657,34 @@
       "windsor/10"
      ]
     },
+    "Cannabis & liquor": {
+     "weight": 7.0,
+     "issues": [
+      "nunn/11",
+      "frederick/1",
+      "garden-city/7"
+     ]
+    },
+    "Energy": {
+     "weight": 6.2,
+     "issues": [
+      "weld-county/10",
+      "johnstown/5",
+      "nunn/7",
+      "nunn/10"
+     ]
+    },
     "Airports": {
      "weight": 5.0,
      "issues": [
       "erie/9"
      ]
     },
-    "Energy": {
-     "weight": 4.2,
+    "Transit": {
+     "weight": 4.0,
      "issues": [
-      "weld-county/10",
-      "johnstown/5"
+      "hudson/8",
+      "garden-city/4"
      ]
     },
     "Ethics & transparency": {
@@ -13149,22 +13700,16 @@
       "kersey/7"
      ]
     },
-    "Transit": {
-     "weight": 3.0,
-     "issues": [
-      "hudson/8"
-     ]
-    },
     "Short-term rentals": {
      "weight": 2.0,
      "issues": [
       "erie/8"
      ]
     },
-    "Cannabis & liquor": {
-     "weight": 2.0,
+    "Guns": {
+     "weight": 1.0,
      "issues": [
-      "frederick/1"
+      "garden-city/10"
      ]
     },
     "Agriculture & wildlife": {
@@ -13176,25 +13721,11 @@
    },
    "standouts": [
     {
-     "topic": "Libraries & culture",
-     "rank": 3,
-     "of": 53,
-     "share": 0.024,
-     "state": 0.011,
-     "issues": [
-      "greeley/4",
-      "greeley/5",
-      "greeley/10",
-      "frederick/5",
-      "mead/10"
-     ]
-    },
-    {
      "topic": "Oil, gas & mining",
      "rank": 4,
-     "of": 53,
-     "share": 0.017,
-     "state": 0.005,
+     "of": 55,
+     "share": 0.015,
+     "state": 0.004,
      "issues": [
       "weld-county/5",
       "weld-county/4",
@@ -13208,13 +13739,25 @@
     {
      "topic": "Broadband",
      "rank": 5,
-     "of": 53,
+     "of": 55,
      "share": 0.006,
      "state": 0.002,
      "issues": [
       "hudson/3",
       "hudson/6",
       "windsor/10"
+     ]
+    },
+    {
+     "topic": "Cannabis & liquor",
+     "rank": 5,
+     "of": 55,
+     "share": 0.006,
+     "state": 0.003,
+     "issues": [
+      "nunn/11",
+      "frederick/1",
+      "garden-city/7"
      ]
     }
    ]
@@ -13234,113 +13777,234 @@
     {
      "name": "Wray",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Yuma",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
-    "yuma-county/0",
-    "yuma-county/2",
-    "yuma-county/5",
-    "yuma-county/6",
     "yuma-county/1",
-    "yuma-county/3",
+    "yuma-county/2",
     "yuma-county/4",
-    "yuma-county/7"
+    "yuma-county/3",
+    "wray/4",
+    "wray/7",
+    "wray/0",
+    "wray/2",
+    "yuma/1",
+    "yuma-county/6",
+    "yuma-county/7",
+    "yuma-county/8"
    ],
-   "tagged": {},
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "yuma-county/0"
+     ],
+     "site": false
+    }
+   },
    "topics": {
     "Roads & traffic": {
-     "weight": 10.0,
+     "weight": 25.0,
      "issues": [
-      "yuma-county/0",
-      "yuma-county/2",
-      "yuma-county/5",
-      "yuma-county/6",
       "yuma-county/1",
-      "yuma-county/3"
-     ]
-    },
-    "Budget & taxes": {
-     "weight": 4.0,
-     "issues": [
       "yuma-county/2",
-      "yuma-county/1",
+      "yuma-county/4",
+      "yuma-county/3",
+      "wray/7",
       "yuma-county/7"
      ]
     },
-    "Fire & emergencies": {
-     "weight": 3.0,
+    "Budget & taxes": {
+     "weight": 23.5,
      "issues": [
-      "yuma-county/5",
-      "yuma-county/4"
+      "yuma-county/1",
+      "yuma-county/2",
+      "yuma-county/4",
+      "wray/2",
+      "yuma-county/6",
+      "wray/5",
+      "wray/9",
+      "yuma/2"
      ]
     },
     "Government operations": {
-     "weight": 2.0,
+     "weight": 12.0,
      "issues": [
-      "yuma-county/2"
+      "yuma-county/4",
+      "wray/2",
+      "yuma/1",
+      "wray/8"
+     ]
+    },
+    "Land & property": {
+     "weight": 11.0,
+     "issues": [
+      "yuma-county/8",
+      "yuma-county/9",
+      "wray/1",
+      "wray/6",
+      "yuma/0",
+      "wray/5"
      ]
     },
     "Utilities": {
-     "weight": 2.0,
+     "weight": 6.0,
      "issues": [
-      "yuma-county/6"
-     ]
-    },
-    "Broadband": {
-     "weight": 2.0,
-     "issues": [
-      "yuma-county/6"
+      "wray/4",
+      "yuma-county/7"
      ]
     },
     "Energy": {
-     "weight": 1.0,
+     "weight": 6.0,
+     "issues": [
+      "wray/4",
+      "yuma-county/7"
+     ]
+    },
+    "Housing": {
+     "weight": 6.0,
+     "issues": [
+      "wray/0",
+      "wray/1",
+      "yuma-county/5"
+     ]
+    },
+    "Zoning & development": {
+     "weight": 5.0,
+     "issues": [
+      "wray/0",
+      "yuma-county/0",
+      "yuma-county/5"
+     ]
+    },
+    "Fire & emergencies": {
+     "weight": 4.0,
      "issues": [
       "yuma-county/3"
      ]
     },
     "Environment & climate": {
-     "weight": 1.0,
+     "weight": 4.0,
      "issues": [
-      "yuma-county/4"
+      "yuma-county/3"
      ]
     },
-    "Land & property": {
+    "Fees & rates": {
+     "weight": 4.0,
+     "issues": [
+      "wray/4"
+     ]
+    },
+    "Policing & public safety": {
+     "weight": 4.0,
+     "issues": [
+      "wray/7"
+     ]
+    },
+    "Libraries & culture": {
+     "weight": 3.0,
+     "issues": [
+      "wray/3",
+      "yuma/3"
+     ]
+    },
+    "Economic development": {
+     "weight": 3.0,
+     "issues": [
+      "wray/6",
+      "wray/5"
+     ]
+    },
+    "Oil, gas & mining": {
+     "weight": 2.0,
+     "issues": [
+      "yuma-county/9"
+     ]
+    },
+    "Recreation & trails": {
+     "weight": 2.0,
+     "issues": [
+      "wray/3"
+     ]
+    },
+    "Historic preservation": {
+     "weight": 2.0,
+     "issues": [
+      "yuma/0"
+     ]
+    },
+    "Data centers": {
      "weight": 1.0,
      "issues": [
-      "yuma-county/7"
+      "yuma-county/0"
+     ]
+    },
+    "Ethics & transparency": {
+     "weight": 1.0,
+     "issues": [
+      "wray/8"
+     ]
+    },
+    "Airports": {
+     "weight": 1.0,
+     "issues": [
+      "wray/9"
+     ]
+    },
+    "Tourism & events": {
+     "weight": 1.0,
+     "issues": [
+      "yuma/4"
      ]
     }
    },
    "standouts": [
     {
-     "topic": "Broadband",
-     "rank": 1,
-     "of": 53,
-     "share": 0.077,
-     "state": 0.002,
+     "topic": "Roads & traffic",
+     "rank": 2,
+     "of": 55,
+     "share": 0.198,
+     "state": 0.049,
      "issues": [
-      "yuma-county/6"
+      "yuma-county/1",
+      "yuma-county/2",
+      "yuma-county/4",
+      "yuma-county/3",
+      "wray/7",
+      "yuma-county/7"
      ]
     },
     {
-     "topic": "Roads & traffic",
-     "rank": 1,
-     "of": 53,
-     "share": 0.385,
-     "state": 0.045,
+     "topic": "Budget & taxes",
+     "rank": 3,
+     "of": 55,
+     "share": 0.186,
+     "state": 0.111,
      "issues": [
-      "yuma-county/0",
-      "yuma-county/2",
-      "yuma-county/5",
-      "yuma-county/6",
       "yuma-county/1",
-      "yuma-county/3"
+      "yuma-county/2",
+      "yuma-county/4",
+      "wray/2",
+      "yuma-county/6",
+      "wray/5",
+      "wray/9",
+      "yuma/2"
+     ]
+    },
+    {
+     "topic": "Energy",
+     "rank": 5,
+     "of": 55,
+     "share": 0.047,
+     "state": 0.011,
+     "issues": [
+      "wray/4",
+      "yuma-county/7"
      ]
     }
    ]

@@ -1,47 +1,112 @@
-- title: FFY 2028 LAPP program and annual call for projects
-  summary: The CAMPO Executive Board will hold a public hearing on the FFY 2028 Locally Administered Projects Program (LAPP) and its target modal mix. It is asked to approve the program and open the annual One-Call-for-All for LAPP and UPWP projects.
-  where: Capital Area MPO region
+- title: Triangle Bikeway East Design alignment and opposition
+  summary: The TCC and Executive Board were asked to endorse a technical alignment for the Triangle Bikeway East Design Project to carry forward to 30% design. At the November 2025 board meeting, a resident spoke against the project, citing mining regulations, zoning and active lawsuits on the property.
+  where: Triangle Bikeway East corridor, Wake County
   refs:
   - 1
+  - 12
+  - 13
   topics:
+  - Recreation & trails
+  - Land & property
   - Roads & traffic
-  - Transit
-  - Budget & taxes
-- title: 'Amendment #4 to the 2026-2035 Transportation Improvement Program'
-  summary: 'A public hearing is scheduled on Amendment #4 to the FY 2026-2035 Transportation Improvement Program. The Executive Board is asked to approve it.'
-  where: Capital Area MPO region
-  refs:
-  - 1
-  topics:
-  - Roads & traffic
-  - Transit
-- title: Regional Impact project Local Input Points
-  summary: The Executive Board will hold a public hearing on Local Input Points for Regional Impact projects. It is asked to approve the recommended Regional Impact LIP and accept donated points for their respective projects.
-  where: Capital Area MPO region
+  public_comment: true
+- title: Capital Boulevard/US 1 North (U-5307) project and tolling
+  summary: The board discussed accelerating the Capital Blvd./US 1 North project, including its earlier action authorizing tolling. The 2055 transportation plan was recommended for approval subject to removing U-5307 as a tolled project. An outside speaker praised NCDOT and CAMPO for speeding it up.
+  where: Capital Boulevard / US 1 North, Raleigh area
   refs:
   - 1
   topics:
   - Roads & traffic
   - Budget & taxes
-- title: Expanding NCDOT resurfacing projects to add intersection improvements
-  summary: CAMPO's technical committee discussed using NCDOT's ongoing resurfacing, maintenance and safety work to add mobility and safety improvements. Staff raised using LAPP applications to expand FY 2028 resurfacing scopes, including intersection improvements. NCDOT said it is possible for FY 2028-2029 but gave no exact date, and that FY 2027 is too late.
-  where: Johnston County and the CAMPO region
+  public_comment: true
+- title: 2055 Metropolitan Transportation Plan adoption
+  summary: The Executive Board approved the draft 2055 MTP/CTP project list in November 2025 and held public hearings, with final adoption planned for February 2026. A resident at the January hearing called the plan good and asked that safety be emphasized.
+  where: Regionwide (CAMPO area)
+  refs:
+  - 1
+  - 3
+  topics:
+  - Roads & traffic
+  - Transit
+  - Government operations
+  public_comment: true
+- title: Wake Transit Plan 2035, Bus Plan and annual work plans
+  summary: CAMPO committees reviewed the Recommended 2035 Wake Transit Plan, which aims for routes running 365 days a year, plus quarterly amendments and the FY 2027 Wake Transit Work Plan. The board approved a Wake Bus Plan 2035 contract with Nelson\Nygaard, and a public hearing on the FY 2027 work plan was held in May 2026. A vehicle rental tax revenue footnote was debated.
+  where: Wake County
   refs:
   - 0
+  - 1
+  - 3
+  - 5
+  - 7
+  - 11
+  - 12
+  - 13
   topics:
-  - Roads & traffic
-- title: Triangle Transportation Choices (TDM) plan update funding agreement
-  summary: The Executive Board is asked to approve an interlocal funding agreement for the Triangle Transportation Choices (TDM) Plan update. It would also authorize the Executive Director to sign it.
+  - Transit
+  - Budget & taxes
+  public_comment: true
+- title: Triangle Mobility Hub preferred alternative
+  summary: GoTriangle sought approval of the Locally Preferred Alternative for the Triangle Mobility Hub. After a public hearing where comments generally supported the project, the Executive Board moved to approve it in June 2026. The Triangle West board approved it the day before.
   where: Triangle region
   refs:
-  - 1
+  - 10
+  - 12
+  - 13
   topics:
   - Transit
-  - Budget & taxes
-- title: Johnston County road projects and NCDOT updates
-  summary: NCDOT gave updates on Johnston County projects, including widening Swift Creek Road to three lanes, NC 36/Veterans Parkway improvements and bridge replacements. It also covered the Angier Bypass, scheduled for April 2028 but subject to change, and resurfacing contracts planned for FY 2027.
-  where: Johnston County
+  - Roads & traffic
+  public_comment: true
+- title: Project cost estimates and delivery deadline for NCDOT-funded projects
+  summary: NCDOT now requires a certified cost estimate (CSCE) for prioritized projects, with a September 30, 2027 target for all projects. CAMPO has 27 projects needing plans, and officials tracked Division 4 and 5 projects such as the Western Boulevard tunnel and NC 42. The chair asked for more frequent updates.
+  where: Regionwide (CAMPO area)
   refs:
-  - 0
+  - 2
+  - 3
+  - 10
   topics:
   - Roads & traffic
+  - Budget & taxes
+  - Government operations
+- title: Local roads and greenways funding (LAPP) including Crabtree Creek Greenway
+  summary: Raleigh requested additional funding for the Crabtree Creek Greenway at Lassiter Mill, requiring a 50/50 match, with bids due February 10, 2026. The FFY 2027 LAPP funded 19 submitted projects, including Rolesville, Holly Springs Road and Smith Creek Greenway, and planning began for the FFY 2028 call for projects in August 2026.
+  where: Crabtree Creek Greenway at Lassiter Mill, Raleigh; other Wake County sites
+  refs:
+  - 4
+  - 5
+  - 7
+  - 12
+  - 15
+  topics:
+  - Recreation & trails
+  - Roads & traffic
+  - Budget & taxes
+- title: Bonus allocation projects and TIP amendments (NC 540, RDU interchange)
+  summary: 'The board selected 16 NC 540 bonus allocation projects, including a new two-lane Neuse River bridge and the Benson Road and Poole Road work, and added them in TIP Amendment #3. The amendment also added an RDU-funded interchange at Aviation Boulevard and National Park, and removed a Cary trails project. Amendment #4 had a hearing in August 2026.'
+  where: Johnston and Wake counties; Aviation Blvd at National Park Drive, RDU
+  refs:
+  - 8
+  - 9
+  - 11
+  - 13
+  - 15
+  topics:
+  - Roads & traffic
+  - Airports
+  - Budget & taxes
+- title: NCDOT resurfacing and safety improvements in Johnston County
+  summary: NCDOT Division 5 briefed the TCC on resurfacing, bridge replacements and the Angier Bypass (scheduled April 2028). CAMPO staff asked whether local funds could widen FY 2028 resurfacing projects to add intersection improvements, and were told it was possible but timing was unclear.
+  where: Johnston County
+  refs:
+  - 14
+  topics:
+  - Roads & traffic
+- title: Regional Transit Technology Plan
+  summary: The TCC and Executive Board approved the Regional Transit Technology Plan as a guiding document for future technology investment, covering real-time passenger information, integrated payments and open data. No public comments were received.
+  where: Regionwide
+  refs:
+  - 6
+  - 7
+  topics:
+  - Transit
+  - Government operations

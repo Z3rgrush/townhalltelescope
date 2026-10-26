@@ -1,6 +1,146 @@
 # silver-cliff
 
-## [silver-cliff#0] 2026-09-01 | Board of Trustees | agenda
+## [silver-cliff#0] 2026-02-17 | Planning Commission | agenda
+- 612 E. Main Street
+- 1. Approval of the minutes from January 21, 2026
+- b. Rachel Greenstreet- Silver Cliff Resident
+- a. Rezoning Committee-Municipal Code Update
+- 4.Open discussion on other issues to come before the Planning Commission
+- 5. Public Comments: (3-minute time limit): Town of Silver Cliff’s citizens or
+- business owners to address the Planning Committee and request to be on a
+
+## [silver-cliff#1] 2026-03-18 | Planning Commission | agenda
+- 612 E. Main Street
+- 1. Approval of the minutes from February 17, 2026
+- a. Appoint new Trustee for PC Committee
+- a. Rezoning Committee-Municipal Code Update
+- b. Title 16 Zoning
+- 4.Open discussion on other issues to come before the Planning Commission
+- 5. Public Comments: (3-minute time limit): Town of Silver Cliff’s citizens or
+- business owners to address the Planning Committee and request to be on a
+
+## [silver-cliff#2] 2026-04-08 | Board of Trustees | agenda
+- 3. Amendments to Agenda
+- 4. Approval of Agenda – Amend adding Troy Bomgardner item 8
+- Note: All items listed under the Consent Agenda are considered routine and will be approved with one
+- motion. There will be no separate discussion of these matters unless a Board Member or citizen so
+- requests, in which case the item may be removed from the Consent Agenda and considered separately, at
+- a. Approval of minutes for March 3, 2026
+- c. Approval of Bills
+- a. Second reading of Ordinance 01-2026 to Amend Sec. 10-9-30 Excessive Noise – tabled - set a
+- a. After Prom request for donation
+- c. Discussion on meeting attendance (quorum)
+- d. 2026 Appointments
+- e. Consideration of approval of the CloudBreak decommissioning bond
+- 12. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business owners can
+- address the Board of Trustees and request to be on a future agenda
+- 13. Board of Trustees Open Discussion
+- 4. Attendee Introductions : Scott Ruzanski -Museum Curator , Jeremiah Coleman Wet Mountain Fire
+- 5. Amendments To Agenda and Agenda Approval
+- Motion to approve the agenda by Mayor Pro Tem Jake Shy and second ed by Trustee Lisa Nolan
+- a. Approval of Minutes for February 3, 2026
+- a. First reading of Ordinance 01-2026 to Amend Sec. 10-9-30 Excessive Noise
+- b. Consideration to sign an Agreement and Release for the old playground equipment. Motion to
+- approve the Agreement and Release for the old playground by Trustee Lisa Nolan and seconded
+- c. Discussion on Colorado Wildfire Resiliency Mandate- (wildfire urban interface). Attorney Dan
+- Slater presented to the board a discussion about the building code that the state legislature is
+- 11. Public Comments (3-minute time limit):
+- GOCO Grant Account $50,000.00
+- WATER TRUCK 15,033.70$ payment due in Nov
+- 357-00 Cigarette Tax 67.30
+- 381-00 Fees 25.00
+- 385-00 Park Donations 13,500.00
+- 386 Building and Zoning
+- 386-00 Building Permits 7,087.10
+- 386-01 Plan Review 2,150.00
+- 386-03 Driveway Permits 519.00
+- Total 386 Building and Zoning 10,156.10
+- 388-00 Property Tax 8,644.41
+- 389-00 Specific Own Tax 352.73
+- 395-00 S&A Highway Users Tax 3,631.08
+- 402-00 S&A Road & Bridge Tax 5,581.21
+- 408-01 1% Sales Tax Increase 18,960.42
+- 408-02 Motor Vehicle Use Tax 11,498.13
+- Building & Zoning
+- 613-00 Bldg/Zoning Inspect. 5,579.17
+- Total Building & Zoning 6,790.95
+- 508-00 Dues and Fees 38.00
+- 543-00 Attorney's Fees 1,071.50
+- 560-00 Treasurer's Fees 14.94
+- Parks, Public Land & Code Enfor
+- 842-00 Park Operating 274.14
+- 848-00 Park Maintenance 408.20
+- 852-00 Park Utilities 316.46
+- Total Parks, Public Land & Code Enfor 7,196.82
+- 642-00 Street Lights (748-00) 484.97
+
+## [silver-cliff#3] 2026-04-23 | Board of Trustees | agenda
+- 1. Town of Silver Cliff Ordinance No. 01-2026
+- Noise Ordinance
+
+## [silver-cliff#4] 2026-06-02 | Board of Trustees | minutes
+- 3. Amendments to Agenda
+- 4. Approval of Agenda
+- Note: All items listed under the Consent Agenda are considered routine and will be approved with one
+- motion. There will be no separate discussion of these matters unless a Board Member or citizen so
+- requests, in which case the item may be removed from the Consent Agenda and considered separately, at
+- a. Approval of minutes for May 5, 2026
+- c. Approval of Bills
+- a. Second reading of Ordinance 02 2026 Amending Sec. 2-2-90 Meeting Quorum
+- a. Public Hearing on Ordinance 02-2026 to Amend Sec. 2-2-90 Meeting Quorum
+- b. Consideration of approval of Ordinance 02-2026 to Amend Sec. 2-2-90 Meeting Quorum
+- a. Presentation of grant award from Black Hills Energy
+- b. Consideration of approval of Resolution 05-2026 Acceptance of the Black Hills Grant
+- c. First Reading of Ordinance 03-2026 Amending Tile 16
+- d. Consideration of approval of Resolution 06-2026 Prop 123
+- 10. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business owners can
+- address the Board of Trustees to request to be on a future agenda
+- 11. Board of Trustees Open Discussion
+- Staff Present: Town Clerk Ileen Squire, Building and Zoning Official Chris McKellip, Attorney Dan
+- 4. Amendments To Agenda and Agenda Approval – Adding New Business Item e
+- Motion to approve the agenda by Trustee Shanna McK NH
+- a. Approval of Minutes for April 7, 2026
+- a. Second reading of Ordinance 01-2026 to Amend Sec. 10-9-30 Excessive Noise
+- b. Public Hearing on Ordinance 01-2026 to Amend Sec. 10-9-30 Excessive Noise
+- c. Consideration of approval of Ordinance 01-2026 to Amend Sec. 10-9-30 Excessive Noise
+- Discussion: Mayor – Thank you to the board for working on this
+- b. First reading of approval of Ordinance 02 2026 Amending Sec. 2-2-90 Meeting Quorum
+- Troy – I feel we need terms and conditions, we only one and it is notifying the Town Clerk whether you
+- c. Consideration of approval of Mayor Wenzel’s candidacy for a position on the CML Board of
+- d. Consideration of approval of Resolution 04-2026 Authorizing the Acceptance of Grant
+- Troy – Workforce Housing info in packets - the open house was a great event, with lots of input
+- 11. Public Comments (3-minute time limit):
+- Wanda TY. Colleen TY for all you do for Senior Center. Buck will meet with her for lease agreement
+- GOCO Grant Account $50,000.00
+- WATER TRUCK 15,033.70$ payment due in Nov
+- 860-00 Park Improvements 30,000.00
+- 113-00 Property Tax Receivable 32,982.00
+- 220-00 Deferred Property Tax 32,982.00
+- Profit & Loss Budget vs. Actual
+- Jan - Dec 26 Budget $ Over Budget % of Budget
+
+## [silver-cliff#5] 2026-06-09 | Board of Trustees | agenda
+- a. Review the submitted RFP’s for the park improvements project
+
+## [silver-cliff#6] 2026-06-10 | Board of Trustees | agenda
+- AGENDA - AMENDED
+- 4. Amendments to Agenda removed item
+- 5. Approval of Agenda
+- a. Award Request for Proposals for the Park Improvements Project: dirt work, concrete curb &
+- handicap parking for the playground, and pickleball site preparation
+- b. Consideration of approval of hiring Creed Ingram as a part time park employee
+- 9. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business owners can
+- address the Board of Trustees and request to be on a future agenda
+
+## [silver-cliff#7] 2026-06-17 | Planning Commission | agenda
+- 612 E. Main Street
+- 1. Approval of the minutes from May 20, 2026
+- a. Matt Hershberger-additional parking for Dutch Pantry
+- 4.Open discussion on other issues to come before the Planning Commission
+- 5. Public Comments: (3-minute time limit): Town of Silver Cliff’s citizens or
+- business owners to address the Planning Committee and request to be on a
+
+## [silver-cliff#8] 2026-09-01 | Board of Trustees | agenda
 - 3. Amendments to Agenda
 - 4. Approval of Agenda
 - Note: All items listed under the Consent Agenda are considered routine and will be approved with one
@@ -16,7 +156,7 @@
 - address the Board of Trustees to request to be on a future agenda
 - 11. Board of Trustees Open Discussion
 
-## [silver-cliff#1] 2026-09-16 | Planning Commission | minutes
+## [silver-cliff#9] 2026-09-16 | Planning Commission | minutes
 - 612 E. Main Street
 - 1. Approval of the minutes from June 17, 2026
 - a. Affordable Housing Interior Lot Line Request
@@ -63,7 +203,7 @@
 - subsequently ratified and approved by the Town's Board of Trustees
 - (e) The term of Planning and Zoning Commission members shall be four years, with the term of those members
 
-## [silver-cliff#2] 2026-10-06 | Board of Trustees | minutes
+## [silver-cliff#10] 2026-10-06 | Board of Trustees | minutes
 - 3. Amendments to Agenda
 - 4. Approval of Agenda
 - Note: All items listed under the Consent Agenda are considered routine and will be approved
@@ -113,7 +253,7 @@
 - 543-00 Attorney's Fees 148.50
 - Parks, Public Land & Code Enfor
 
-## [silver-cliff#3] 2026-10-21 | Planning Commission | agenda
+## [silver-cliff#11] 2026-10-21 | Planning Commission | agenda
 - 612 E. Main Street
 - 1. Approval of the minutes from September 16, 2026
 - a. Vacation lot lines Silver Cliff Park

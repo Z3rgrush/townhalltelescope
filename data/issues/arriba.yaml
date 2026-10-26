@@ -1,59 +1,126 @@
-- title: Pine Street drainage flooding Beverly Langley's home
-  summary: A resident reported that rainwater running off Pine Street floods the north side of her house. The Board added it to the August agenda and agreed that Mike Becker could dig a ditch on the west side of Pine Street and uncover the sidewalk.
-  where: Pine Street
+- title: Wastewater permit compliance and facility study
+  summary: Arriba is working with GMS Inc on an engineering study of its wastewater facility under new state permit rules, with half the costs covered by DOLA grants (a $16,428.06 reimbursement; $19,250 in invoices paid in July 2026). The facility has had BOD and ammonia violations, flooding and infiltration problems, and board members are looking at cheaper alternatives to evaporative ponds. In September 2026 CDPHE let the Town revert to its old permit compliance; the permit expires in 2027.
+  where: Town wastewater facility and sewer lines
   refs:
   - 0
-  public_comment: true
+  - 3
+  - 4
+  - 6
+  - 7
+  - 8
+  - 10
+  - 11
+  - 12
   topics:
   - Utilities
-  - Roads & traffic
-- title: RV park water and sewer rates
-  summary: A resident asked the Board in August to charge Big Ben's RV park more for water and sewer, and in September asked for a review of water and sewer rates for RVs. Ben's RV Park also offered to donate $2,500 to the Town.
-  where: Big Ben's RV Park
+  - Environment & climate
+  - Fees & rates
+- title: RV park sewer and water rates
+  summary: Residents, notably Beverly Langley, have complained that campgrounds like Big Ben's RV Park use more water and sewer than they pay for. In January 2026 the board raised the monthly RV sewer rate per hookup (a $2 increase from $5 was moved after a $10 motion failed for lack of a second), and the RV park's heavy use has affected BOD levels at the wastewater pond. Residents asked again in August and September 2026 for a rate review.
+  where: Big Ben's RV Park / Townwide
   refs:
   - 0
-  - 1
-  public_comment: true
+  - 3
+  - 11
+  - 12
   topics:
   - Fees & rates
-  - Water
   - Utilities
-- title: Wastewater permit regulations and sewer main cleaning
-  summary: GMS Inc. told the Board in September that CDPHE has let the Town revert to its old permit compliance while GMS works on reports for the new regulations. The Town's permit expires in 2027. The Town also had sewer mains from Oak Street to Pine Street cleaned, as it usually spends about $5,000 a year on this.
+  public_comment: true
+- title: Base water rate increase
+  summary: To stay in compliance with its drinking water loan covenant, the Town adopted a resolution raising the in-town and out-of-town base water rates by $5.50, to $55.00. It takes effect August 1, 2026.
+  where: Townwide
+  refs:
+  - 10
+  topics:
+  - Water
+  - Fees & rates
+- title: Mandatory trash service ordinance and Rob's Trash Service contract
+  summary: The board negotiated a contract with Rob's Trash Service and adopted an ordinance requiring every occupied residential household to have trash service, with an option for residents to use their own approved 3-yard dumpster emptied monthly for $45. The contract can be renegotiated at the end of 2026.
+  where: Townwide
+  refs:
+  - 3
+  - 4
+  - 5
+  - 6
+  topics:
+  - Utilities
+  - Fees & rates
+- title: 2026 budget and mill levy cut
+  summary: After a public hearing, the board adopted the 2026 budget and a 2025 supplemental sewer fund budget, which raised sewer spending from $116,940 to $229,440 for wastewater permit costs. The mill levy was certified at 14.509, down from 25.948, to stay under the property tax revenue limit.
   where: Townwide
   refs:
   - 0
   - 1
+  - 2
   topics:
-  - Utilities
-  - Water
-  - Environment & climate
-- title: McCue RV permit at 214 Main Street
-  summary: An RV permit application was moved from 120 Lincoln Ave to 214 Main Street, and the Board discussed what to charge for the RV sewer connection. In September it was explained that under the RV Ordinance no tap fee is required, so only the permit fee and backhoe use are charged, and the permit was moved for approval.
-  where: 214 Main Street
+  - Budget & taxes
+- title: Sales tax ballot question for 2026
+  summary: The board placed a question on the 2026 ballot asking voters to let the Town keep 2025 sales tax revenue above its estimate. The Town had estimated $14,000 but projected about $30,000. The 2026 election will be by mail ballot.
+  where: Townwide
   refs:
   - 0
-  - 1
+  - 2
+  - 3
   topics:
-  - Fees & rates
-  - Utilities
-  - Land & property
-- title: Park sprinkler system
-  summary: The Clerk suggested using the RV park's $2,500 donation and Conservation Trust Funds for a simple sprinkler system at the town park. In September the Board discussed having town staff install it and renting a trencher.
-  where: Town park
+  - Budget & taxes
+  - Elections
+- title: Wildfire Resiliency Code adoption (Ordinance 159)
+  summary: The state-required wildfire code was tabled for months over concerns about enforcement, with the Town Clerk as code official. In July 2026 the board adopted Ordinance 159 adopting the 2025 Wildfire Resiliency Code, after discussing its effect on residents' insurance rates and a state affidavit requirement.
+  where: Townwide
   refs:
-  - 0
-  - 1
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+  public_comment: true
+- title: Time capsule event and park improvements
+  summary: The Town held a July 4, 2026 time capsule event funded by a $7,500 grant and a $2,500 tourism grant, with a beer garden on the park basketball court. Volunteers painted the park building. A $2,500 donation from Big Ben's RV Park and Conservation Trust funds are earmarked for a park sprinkler system that staff and volunteers plan to install.
+  where: Arriba Town Park
+  refs:
+  - 4
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
   topics:
   - Parks & open space
-  - Water
-  - Budget & taxes
-- title: Speeding and traffic safety on College Ave and Lincoln Ave
-  summary: The Board discussed putting speed bumps on College Ave and Lincoln Ave to address speeding. A trustee also noted a missing stop sign at Grant and Lincoln.
-  where: College Ave, Lincoln Ave and Grant St
-  refs:
-  - 1
+  - Tourism & events
   public_comment: true
+- title: Pine Street drainage and speeding on College and Lincoln Avenues
+  summary: Resident Beverly Langley reported rainwater from Pine Street flooding her house, and the board agreed to a ditch on the west side of Pine Street. Residents also raised truck speeding, and the board discussed speed bumps on College Ave and Lincoln Ave, plus a missing stop sign at Grant and Lincoln.
+  where: Pine Street, College Ave, Lincoln Ave, Grant St
+  refs:
+  - 6
+  - 11
+  - 12
   topics:
   - Roads & traffic
-  - Policing & public safety
+  public_comment: true
+- title: RV and manufactured home permits
+  summary: The board approved a manufactured home permit at 521 Lincoln Ave and an RV permit for Troy McCue at 214 Main Street. The board decided under the RV ordinance that no tap fee applies, only the permit fee and backhoe use.
+  where: 521 Lincoln Ave; 214 Main Street
+  refs:
+  - 7
+  - 11
+  - 12
+  topics:
+  - Housing
+  - Land & property
+- title: Hooved animals ordinance (Ordinance 113)
+  summary: A request to allow hooved animals in Town or on lots over 5 acres was considered in July 2026. The board agreed not to change Ordinance 113, which bans them except by variance for 4-H.
+  where: Townwide
+  refs:
+  - 10
+  topics:
+  - Agriculture & wildlife
+  - Zoning & development

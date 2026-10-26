@@ -1,94 +1,166 @@
-- title: Water restrictions and CRWA water rate study
-  summary: Town water restrictions were in place over the summer and lifted automatically October 1. Colorado Rural Water Association is preparing a rate study, with a presentation planned for September and then on the October 13 agenda. Residents asked about watering times, such as earlier hours to reduce evaporation.
+- title: Water restrictions and water share shortage
+  summary: Hugo went to Level One water restrictions to stay within its state water allocations, after LAWMA explained the Town owns only common shares. The Town leased two preferred shares, replaced the restriction ordinance (Ordinance 300), and passed emergency Ordinance 302 on watering hours and days after a resident objected to three-days-in-a-row watering. Restrictions lifted October 1.
   where: Townwide
   refs:
-  - 0
-  - 1
-  - 3
-  public_comment: true
+  - 9
+  - 10
+  - 11
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 19
   topics:
   - Water
-  - Fees & rates
-- title: Water and sewer rate and fee changes for 2027
-  summary: The October 13 agenda includes Resolution 2026-13 amending water, wastewater and refuse rates beginning January 1, 2027, and Resolution 2026-14 adopting a fee schedule effective that date.
+  - Utilities
+  public_comment: true
+- title: Water system improvements, loans and grants
+  summary: The Town approved a Colorado Water Resources and Power Development Authority loan of up to $5,395,767 for water facilities. It also held CDBG and WPCRF hearings on the Water System Improvements Project, with design underway for water tank repairs, well pump replacements and other GMS-managed work. Board also approved a sewer lift station purchase for Roundhouse Estates and project draws.
+  where: Townwide water and sewer system
+  refs:
+  - 0
+  - 4
+  - 9
+  - 10
+  - 16
+  - 17
+  - 19
+  topics:
+  - Water
+  - Utilities
+  - Budget & taxes
+- title: Water, sewer and trash rates and 2027 fee schedule
+  summary: The Town is working with Colorado Rural Water Association on a rate study. Resolutions 2026-13 and 2026-14 would set water, wastewater and refuse rates and a fee schedule effective January 1, 2027. GMS also was approved to do a tap fee study and impact fees were discussed for new development.
   where: Townwide
   refs:
-  - 3
+  - 1
+  - 9
+  - 16
+  - 19
   topics:
   - Fees & rates
-  - Water
   - Utilities
-- title: Well pump replacements and GMS water and sewer projects
-  summary: Council approved the Water Technology Group submittal for well pump replacements in September. It also continues to approve monthly GMS draws for sanitary sewer and water projects, including a CDBG item in August, with an all-projects update on the October agenda.
-  where: Hugo water and sewer system
+- title: Proposed 1% sales tax for pool, culture and recreation
+  summary: 'The Town held a community meeting on November 12 about a possible 1% sales tax for the pool, culture, recreation and capital improvements. It was slated for the ballot as Ballot Issue #2 in January discussions.'
+  where: Townwide
   refs:
-  - 0
   - 1
-  - 3
+  - 2
+  - 5
   topics:
-  - Water
-  - Utilities
-- title: Backflow prevention program
-  summary: Colorado Rural Water Association reviewed the state backflow program, which has been in effect since 2016. They found many businesses were not inventoried. A resident raised concern about the cost and difficulty of installing a device at the RV Park.
-  where: Townwide, including the RV Park
+  - Budget & taxes
+  - Recreation & trails
+  - Elections
+- title: 2027 budget and strategic plan
+  summary: The Town scheduled a 2027 budget review and workshop for October 19 where the draft Strategic Plan will also be reviewed. A 2025 audit presentation was set for October 13.
+  where: Townwide
   refs:
-  - 0
-  public_comment: true
+  - 17
+  - 19
+  - 20
   topics:
-  - Water
-  - Utilities
+  - Budget & taxes
   - Government operations
-- title: Hugo Main Street designation
-  summary: Council passed a resolution supporting Hugo becoming an official Colorado Main Street Community. A steering committee is working on bylaws, board roles and strategic priorities. A Main Street Live project has geotech and survey work in progress.
+- title: Hugo Main Street program
+  summary: The Town is exploring running Hugo Main Street under the Town and recruiting board members. A steering committee works with Colorado Main Street and the Board approved a resolution supporting Hugo becoming an official Main Street Community.
   where: Downtown Hugo
   refs:
-  - 1
-  - 3
+  - 4
+  - 6
+  - 7
+  - 10
+  - 13
+  - 14
+  - 16
+  - 17
+  - 19
   topics:
   - Downtown & business
   - Economic development
-- title: Abandoned and dilapidated building ordinance update
-  summary: The town is applying for a DOLA Division of Housing Local Planning Capacity Grant to hire a consultant to update its abandoned and deteriorated property ordinance. Staff will work with Willdan on other ordinance updates, and Willdan was approved for code enforcement services.
-  where: Townwide
+- title: New firehouse and Fire Protection District land
+  summary: A new firehouse plan was presented in March. The Board disconnected tracts owned by the Hugo Fire Protection District via Ordinance 301 and waived one water and one sewer tap at 5th Street and 9th Avenue. Earlier the Board declined to add the fire department driveway to the CDOT sidewalk project.
+  where: 5th Street and 9th Avenue
   refs:
-  - 1
   - 3
+  - 8
+  - 14
   topics:
+  - Fire & emergencies
   - Land & property
-  - Housing
-  - Government operations
-- title: 2027 budget workshop and strategic plan
-  summary: Council holds a 2027 budget review and workshop on October 19. The draft strategic plan will be reviewed there.
+  - Utilities
+- title: Code enforcement, trash and property ordinance updates
+  summary: Hugo adopted ordinances on penalties for violations and code enforcement authority, and contracted Willdan for code enforcement services. A trash ordinance revision is coming in August and staff are applying for a DOLA Local Planning Capacity Grant for an abandoned and dilapidated property ordinance. The Board also approved an automated vehicle identification system ordinance.
   where: Townwide
   refs:
-  - 1
-  - 3
-  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 10
+  - 14
+  - 17
+  - 19
   topics:
-  - Budget & taxes
   - Government operations
-- title: Hugo Housing Authority compliance and new housing
-  summary: The Housing Authority chair reported hiring staff to train a new business manager to bring it into compliance. It must be fully compliant before asking the town for a grant partnership. Economic development is also waiting on contractor numbers for possible new housing, with new DOLA Housing funding for demolition.
+  - Policing & public safety
+  - Zoning & development
+- title: Wildfire Resiliency Code (Ordinance 295)
+  summary: The Board tabled Ordinance 295, which would adopt the 2025 Wildfire Resiliency Code by reference; a trustee said the town learned late about its effect.
+  where: Townwide
+  refs:
+  - 7
+  - 8
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+- title: 'Housing: Housing Authority, expedited review and new housing'
+  summary: The Hugo Housing Authority sought grant help for plumbing repairs and is working toward compliance with new staff. The Board adopted Resolution 2026-07 on expedited review for affordable housing projects. County economic development reports on possible new housing and DOLA demo funding.
   where: Hugo
   refs:
-  - 0
   - 1
+  - 7
+  - 13
+  - 16
+  - 17
   topics:
   - Housing
-  - Economic development
-- title: Town Hall shop insulation
-  summary: Council will review an RFP and presentation for insulating the Town Hall shop on October 13 and may give direction.
-  where: Town Hall shop
+  - Zoning & development
+- title: Street repair and CDOT sidewalk project
+  summary: A pavement study is planned to set a street maintenance plan, and the Board approved a pothole repair proposal from Millan Asphalt & Crushing. The CDOT Sidewalk Project was waiting on asphalt approvals.
+  where: Town streets
   refs:
   - 3
+  - 9
+  - 13
   topics:
-  - Government operations
-  - Energy
-- title: 2025 town audit
-  summary: The 2025 audit is to be presented at the October 13 meeting, with a vote to accept or deny it.
-  where: Townwide
+  - Roads & traffic
+- title: Main Street Live building survey and geotechnical work
+  summary: The Board directed OLC to proceed with survey and geotechnical evaluation depending on the Colorado Historical Grant outcome; work was in progress by October.
+  where: Hugo Main Street
   refs:
-  - 3
+  - 14
+  - 19
   topics:
-  - Budget & taxes
-  - Ethics & transparency
+  - Historic preservation
+  - Land & property
+- title: Parks, playground and football field safety
+  summary: Staff are seeking quotes and grants for playground equipment, and the Board approved a BYO Recreation proposal. Concerns about children playing on a hard football field led to direction to the Clerk.
+  where: Farrel-Hines Park
+  refs:
+  - 7
+  - 8
+  - 13
+  - 16
+  topics:
+  - Parks & open space
+  - Recreation & trails
+- title: Backflow prevention program
+  summary: Colorado Rural Water Association reviewed the state backflow program, found many businesses were not inventoried, and a resident raised concerns about installing a device at the RV Park.
+  where: Townwide businesses
+  refs:
+  - 16
+  topics:
+  - Water
+  - Utilities
+  public_comment: true

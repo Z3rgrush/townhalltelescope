@@ -1,8 +1,110 @@
-- title: Crawford State Park water rate structure and water rate review
-  summary: The October 12 City Council agenda listed a discussion of the water rate structure for Crawford State Park and a separate water rate review item under Tammy Broughton's name. The agenda does not say what rates were proposed or decided.
-  where: Crawford State Park
+- title: Water and sewer rate overhaul
+  summary: A Water Rate Committee, with consultant Rita Trick of RCAC, found current rates ($35–$41) far below what is needed to cover the $238,800 annual operating need and reserves. Options include a $125/month rate recommendation, bulk water at $2–$3 per 100 gallons, and a tap fee increase from $5,000 to about $11,230. Sewer rate work was authorized in June, and a single proposal is expected to go to public hearing.
+  where: Townwide
   refs:
-  - 0
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
   topics:
   - Fees & rates
   - Water
+  - Utilities
+  public_comment: true
+- title: Crawford State Park water and sewer rate structure
+  summary: The committee is reviewing how the state park is billed, since it has about 76–78 points of use modeled as ~31 equivalent taps and is billed as a rural commercial tap. The park has grown greatly since the 1990s, and the issue returned on the October 2026 agenda.
+  where: Crawford State Park
+  refs:
+  - 6
+  - 9
+  topics:
+  - Fees & rates
+  - Water
+- title: Spring water project, grant reimbursement and staff overtime
+  summary: The spring project came in under $400,000 of a $537,000 grant. Staff logged about 150 overtime hours and council debated comp time versus pay, waiting on Bureau of Reclamation guidance. Final reimbursement was received by June 2026.
+  where: Town spring and water system
+  refs:
+  - 0
+  - 1
+  - 3
+  - 6
+  - 7
+  topics:
+  - Water
+  - Utilities
+  - Budget & taxes
+- title: Potable water tank replacement
+  summary: Tank replacement awaits CDPHE approval of the final design, and CDPHE requires review of the whole project before bids can be split. Bidding is planned for July 2026.
+  where: Town water tanks
+  refs:
+  - 3
+  - 4
+  - 5
+  topics:
+  - Water
+  - Utilities
+- title: 2026 budget and fee schedule
+  summary: Council held a public hearing on the 2026 budget, which included a $10/month water increase per meter and a sewer deficit of $21,000. Fee schedule Resolution 6-2025 was reviewed (liquor renewal $75, special meeting $1,000) but discussion was deferred in November.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Fire-damaged properties cleanup
+  summary: Council raised concerns about two properties on Dogwood and Elm damaged by fire. Letters were sent to the owners requesting cleanup plans.
+  where: Dogwood and Elm streets
+  refs:
+  - 2
+  - 3
+  topics:
+  - Land & property
+  - Zoning & development
+- title: Cemetery land boundary adjustment
+  summary: The Cemetery District seeks to buy land from Ann Landreth through a boundary adjustment and final plat. Survey work indicates the historic cattle-drive easement was abandoned decades ago. The item was scheduled for June 22, 2026.
+  where: Crawford cemetery
+  refs:
+  - 7
+  topics:
+  - Land & property
+  - Zoning & development
+  public_comment: true
+- title: Region 10 partnership and campus master plan
+  summary: Region 10 offered help with planning, grants, broadband, and Enterprise Zone credits ($19,000 reinvested locally last year). Council discussed a master plan for town-owned property.
+  where: Town-owned campus
+  refs:
+  - 3
+  topics:
+  - Economic development
+  - Broadband
+  - Land & property
+- title: Building permits and enforcement concerns
+  summary: A resident asked for permit renewal and raised inconsistent enforcement, and was allowed to renew for $50. Council also discussed variance procedures and clearer permit requirements. Unauthorized excavation on town property on K Street is being pursued.
+  where: Townwide; K Street
+  refs:
+  - 2
+  - 4
+  - 5
+  - 6
+  topics:
+  - Zoning & development
+  - Government operations
+  public_comment: true
+- title: 2026 municipal election
+  summary: Three council seats are up for election, with petitions due January 26. Staff reviewed the intergovernmental agreement with the County Clerk.
+  where: Townwide
+  refs:
+  - 2
+  topics:
+  - Elections
+- title: Public access to meeting packets
+  summary: A resident reported difficulty accessing agendas online and asked for packets, including water rate reports, to be public. The clerk said she would work on it.
+  where: Townwide
+  refs:
+  - 5
+  topics:
+  - Ethics & transparency
+  public_comment: true

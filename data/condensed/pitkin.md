@@ -1,0 +1,237 @@
+# pitkin
+
+## [pitkin#0] 2025-10-27 | City Council | minutes
+- 2. For Board Discussion:
+- 2026 Budget Proposal
+- Went through the Budget line by line, comparing 2023, 2024 and 2025 Year-To-Date
+- 2025 Budget Amendment
+- Street Maintenance Expense is all that needs to be amended. There are no more
+- expenses coming in for Streets for 2025. 2025 Street Budget was $15,000 but we’ve
+- already spent $20,261.40. Therefore, the 2025 Budget needs to be amended to $22,000
+- Motion by Trustee Tom Gibb motions to increase the 2025 Street Maintenance Budget
+- *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
+
+## [pitkin#1] 2025-10-29 | City Council | minutes
+- 2. For Board Discussion:
+- Wildfire Resiliency Code
+- Mayor Ed Pianalto went over the State Statutes and the Wildfire Resiliency Code and the
+- the big fire in Marshall, Colorado – the Governor insisted something be done to reduce the
+- fire danger in Colorado. Google: “Colorado Wildfire Resiliency Code” to see the three
+- documents we’re referring to in this meeting. The Wildfire Resiliency Code applies to new
+- routine maintenance work; fences located more than 8 feet from a habitable structure; and
+- This Code has to be adopted by April 1, 2026, voting will take place after a Public Hearing
+- Enforcement of the Wildfire Resiliency Code must begin on July 1, 2026
+- up right away and will plan to have the Public Hearing well before April, 2026
+- *Public comment to the Board of Trustees is encouraged on agenda items. Comments will be limited to
+
+## [pitkin#2] 2025-11-12 | City Council | minutes
+- 2. For Board Discussion:
+- We are still waiting for the Mill Levy numbers to come via mail from the County, so we will
+- budget. The Board would like to pay the EHA, the starting idea is $550 to cover necessary
+- classes. The idea was addressed to possibly pay the Streets/Ditches Commissioner as well
+- A flat monthly rate is easier to plan and budget than an hourly rate, the initial idea is to pay
+- the Streets/Ditches Commissioner $300/month moving forward, with the awareness that
+- number may need to be adjusted in the future. Next to consider for pay moving forward is
+- the Zoning Board Members. Trustee Cory Nasso thinks $50/meeting may be a good starting
+- point, that would cost the Town $3,000 yearly for a full Zoning Board. That is all we have to
+- discuss until we get more data, primarily the Mill Levy data
+- Zoning Code Updates
+- The Board went through the Zoning Code Updates, page by page. Trustee Tom Gibb had a
+- question regarding what “Planned Development” (PD) is and what it means. Town Attorney
+- Hilary Graham explained it has elements of both commercial and residential zoning. It
+- moved on in agreement to the Planned Development wording as it is in this current Zoning
+- The next section up for discussion is Section 7, it states that any type of business not listed
+- Attorney Hilary Graham advised that wording is common in a Zoning Code. Mayor Ed
+- Pianalto suggested we add a #15 that would allow for RV Parks. Trustee Cory Nasso agrees
+- with the idea to add RV Parks to the list of approved businesses. Trustee Tom Gibb
+- reminded the Board that there are people in Town who do not want RV Parks to be here
+- Trustee Cory Nasso suggests we take that issue to the Special Hearing and deal with it
+- on this revision. Trustee Cory Nasso has concern with part B under this section, he feels
+- plats. That is to say, he feels a licensed professional should always be required to prepare
+- subdivision plats
+- the Board of Trustees and then a Public Hearing
+- *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
+
+## [pitkin#3] 2025-11-17 | City Council | minutes
+- 2. For Board of Trustees discussion and possible action:
+- Approve meeting minutes: October 20th , 2025 Regular Meeting; October 27th, 2025 Work
+- Session – 2025 Budget Amendment & 2026 Budget Proposal; October 29th, 2025 Work Session
+- Wildfire Resiliency Code; November 11th, 2025 Work Session – 2026 Budget Proposal &
+- Zoning Code Updates
+- November 12th Work Session – Trustee Tom Gibb says, on the Zoning code updates, at the
+- Review Treasurer’s Report. Discuss and vote to approve the November, 2025 Disbursements
+- Discuss with possible action: Resolution – 6 providing that certain elected and/or appointed
+- Open for Public Comments
+- Public Comment made by Jesse Garetson
+- Motion to pass the Resolution as it is written regarding WC with CIRSA by Trustee Cory
+- Discuss with possible action: Appointing Josh Ackerman to the position of Environmental
+- of Pitkin. He also requests to be reimbursed for the required training. There are no
+- Mayor Ed Pianalto opened it up to public comment
+- Jesse Garetson made a public comment
+- Motion to appoint Joshua Ackerman as the new Town of Pitkin Environmental Health Agent
+- Discuss with possible action: Hold public hearings and consider for adoption 2025 Budget
+- amendment and 2026 Budget proposal. THIS ITEM CONTAINS A PUBLIC HEARING
+- Public Hearing opened up at 7:23 pm
+- Firstly: 2025 Budget amendment
+- One change on the Street Maintenance Expenses, it needs to be increased by $7,000
+- Open to public comments
+- Secondly: 2026 Proposed Budget
+- Alicia Archuletta made a public comment
+- Mayor Ed Pianalto called the Public Hearing to close at 7:41pm
+- We will wait for the Mill Levy to come through and then we will hold a Special Meeting to
+- approve the Mill Levy and the 2026 Budget. The meeting will have to be held before
+- 12/15/25. We will tentatively set a Special Meeting for the 2026 Budget and Mill Levy for
+- Motion for a tentative Special Meeting for the 2026 Budget and Mill Levy for November 26th
+- 4. Updates/Planning/Discussion**:
+- Trustee Tom Gibb questions whether the Zoning Code goes to a Public Hearing. Mayor Ed
+- Pianalto advised that yes it does. We will start doing the Public Hearings for Zoning Code,
+- Wildfire Code, Energy Code and Building Code in January of 2026. We will set those dates at
+- PUBLIC HEARING – OWTS Regulation 43 Updates – Wednesday, November 19th, 2025
+- There are 4 properties in Town that were sent a final Certified Mail regarding their
+- Zoning Board – Jesse James Garetson
+- Streets – Jesse Garetson
+- Parks and Rec – Josh Ackerman
+- until the next regular meeting. Approved minutes, ordinances, resolutions, agendas, and other Town of Pitkin public
+
+## [pitkin#4] 2025-11-19 | City Council | minutes
+- 2. For Board discussion and possible action:
+- Discuss and consider for adoption On-Site Waste Treatment System Regulations as required by
+- Ordinance No. 1 Series 2025 – THIS ITEM CONTAINS A PUBLIC HEARING
+- At 7:03 pm Mayor Ed Pianalto began the Public Hearing
+- The floor is open to public comments
+- Jesse Garetson made a public comment
+- No further public comments
+- Public Hearing closed by Mayor Ed Pianalto at 7:08pm
+- Motion to adopt these OWTS updates, Ordinance #1 for 2025, for the Town of Pitkin by
+- *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
+
+## [pitkin#5] 2025-12-11 | City Council | minutes
+- 2. For Board discussion and possible action:
+- Discuss with possible action:
+- 2025 Resolution 7 – Adopting an amended 2025 Budget and adopting a 2026 Budget
+- There was a reading of the Resolution
+- Motion by Trustee Tom Gibb to adopt Resolution 7: “… Adopting an Amended 2025 Budget,
+- 2025 Resolution 8 – Levying General Property Taxes to Finance the Costs of Providing
+- Municipal Services for the 2026 Budget Year
+- Motion by Trustee Cory Nasso to approve and adopt Resolution 8: “… Levying General
+- Property Taxes to Finance the Costs of Providing Municipal Services for the 2026 Budget
+- *Public comments to the Board of Trustees is encouraged on agenda items. Comments will be limited
+
+## [pitkin#6] 2026-01-19 | City Council | minutes
+- 2. For Board of Trustees discussion and possible action:
+- Approve meeting minutes: December 15th, 2025 Regular Meeting
+- No changes noted. Motion to approve meeting minutes as they are by Trustee Jerra
+- Review Treasurer’s Report. Discuss and vote to approve the January, 2026 Disbursements
+- amount on the attorney bill is directly related to the radio tower contract and research
+- There was a public comment from Ramon Reed
+- Public comment from Jesse Garetson
+- Board approved check to Ramon Reed for his time on the Board
+- Motion to approve disbursements with additional payment for Ramon as Trustee from Jan – May,
+- Discuss with possible action: 2026 Resolution 1 – Setting the Date and Time of Regular
+- Motion to set the 2026 Resolution 1 to Set Regular Meeting Dates by Trustee Jerra
+- Discuss with possible action: 2026 Resolution 2 – Establishing Official Posting Locations
+- No comments from the Board of the Public. Motion to approve 2026 Regulation 2 by Cory
+- Discuss with possible action: Gunnison Met Rec / Western Slope Towers Lease Agreement for
+- Mayor Ed Pianalto gave a short summary of what this lease agreement entails. He has a few
+- concerns with the current lease agreement. Western Slope wants 18 months at no charge to
+- Ed Pianalto feels that amount is too low. The town attorney, Hilary Graham, feels that the
+- there where the tower is, in the lease agreement is shows 2,500 square feet. Trustee Cory
+- Open to public comments:
+- Ramon Reed made a public comment
+- Jesse Garetson made a public comment
+- Pete Olsen made a public comment
+- be sure and add to the contract that Western Slope will clean up the site if/when there is no tenant
+- Open back up to public comments:
+- Town Attorney Hilary Graham thinks that sounds like a good plan
+- Discuss with possible action: Zoning Code updates. THIS ITEM CONTAINS A PUBLIC HEARING
+- FOR ORDINANCE ADOPTION OF THE 2026 ZONING CODE
+- Went over red line items that changed at the last meeting before open to public hearing
+- There was a public comment by Pete Olsen
+- zoning code will continue to be out of compliance – the updated code will not grandfather-in those
+- Public Hearing opened up at 8:19pm
+- Molly Seigert made a public comment
+- Public Hearing is closed at 8:42pm
+- Regarding the CCR-8-10-10-9 that Pete Olsen brought up in his public comment, Mayor Ed Pianalto
+- although she does feel the new zoning code meets all minimum requirements
+- Rachel New made a public comment
+- people in the Town of Pitkin want an RV Park, so he suggests we leave the RV Park issue up to a
+- an RV park here because it would just be too small a space to be able to camp on or do anything
+
+## [pitkin#7] 2026-02-16 | City Council | minutes
+- 2. For Board of Trustees discussion and possible action:
+- One change on the third page. Motion to approve minutes as amended from Trustee Tom
+- Mayor Ed Pianalto pointed out that the Clerk did not send out the Budget v. Actual Report,
+- and requested she send those out as soon as possible. There was a motion to accept the
+- c) Gunnison Met Rec / Western Slope Towers Lease Agreement for marketing of tower services
+- Mayor Ed Pianalto went over the details of the agreement as it is at this time. Chris Stryker
+- wonders if the term of the agreement can be backdated to when MetRec acquired the tower
+- agreement. The topic was opened up to Public Comment. No Public Comments. Mayor Ed
+- that he has not heard any negative feedback on this and he is neutral on the matter. Trustee
+- Jerra Garetson has also not heard any negative feedback. Mayor Ed Pianalto has had the
+- same experience. Open to public comment – there were none. Trustee Jerra Garetson made
+- e) AN ORDINANCE OF THE BOARD OF TRUSTEES OF THE TOWN OF PITKIN, COLORADO,
+- ADOPTING THE TOWN OF PITKIN, COLORADO, ZONING CODE 2026
+- Zoning Code the last time. He does not believe we should be considering passing this
+- as well. He does not feel this is ready to be passed yet. Specifically, the RV section
+- Cory Nasso has heard some vegetive feedback from towns people and he is also fine
+- negative opinions and he made a point of stating the RV Park was only going to be
+- idea of adding RV Parks to the list could help to restrict or limit the camping
+- property. That being said, he is open to removing it from the Zoning Code if that is
+- Mayor Ed Pianalto opened the topic up to Public Comments:
+- Jesse Garetson made a public comment
+- Ramon Reed made a public comment
+- End Public Comments
+- Trustee Cory Nasso thinks we should just remove the RV Parks from the Zoning Code
+- completely. Town Attorney Hilary Graham will remove the RV Park section from the
+- Mayor Ed Pianalto brought up that he has heard some negative feedback regarding the
+- Planned Unit Development. But he wants to be clear that there would be stringent
+- Open to Public Comments:
+- Pete Olsen made a public comment
+- Public comments closed
+- Mayor Ed Pianalto asked the Board if they want to leave the Planned Development
+- to remove the terminology “mixed uses” from the Planned Development section of
+- the Zoning Code. The Board agrees to strike the “mixed uses” verbiage from the
+- Zoning Code. However, Town Attorney Hilary Graham thinks that could complicate
+- Public Comment by Pete Olsen
+- Public Comment by Bob Taylor
+- sign section, per Bob Taylor’s request. Trustee Tom Gibb asked if we can pass the other
+
+## [pitkin#8] 2026-04-20 | City Council | minutes
+- 2. For Board of Trustees discussion and possible action:
+- Motion by Trustee Jerra Garetson to appoint Trustee Cory Nasso as Mayor Pro Tem. Mayor Ed
+- c) 2026 Resolution 4 – Declaring two Board Member positions as open
+- Mayor Ed Pianalto read the Resolution aloud and a motion was made by Trustee Jerra
+- Garetson to approve Resolution 4, 2026. Mayor Ed Pianalto seconded the motion and the
+- d) Per C.R.S 31-4-304 – Board reappointment of Town Clerk / Treasurer and Town Attorney
+- Mayor Ed Pianalto motioned to reappoint Town Clerk/Treasurer Stacie Busby and Town
+- Mayor Ed Pianalto briefly went over the financials, highlighting the large increase in sales tax
+- Mayor Ed Pianalto had a question on the Parks and Rec Fund Equity for 2025, it is showing
+- we budgeted $4,100 but we don’t have anything under “actual” – The Town Clerk is going to
+- Regarding 2026, Mayor Ed Pianalto requested a more detailed report rather than the one
+- g) Posting of open Zoning Board Member position
+- Mayor Ed Pianalto’s time on the Zoning Board expires at the end of this month, so we are
+- h) RFP for cleaning/digging ~600’ of Fire/Irrigation Ditches
+- service of the lower quote. Jesse Garetson went over his Streets and Ditches Commissioner
+- i) Consideration of entering a Partnership or Cost-Share Agreement to perform Operations and
+- something like that. We would be signing an Operations and Maintenance agreement, where
+- Town. They want to do a 5 year agreement. CPW would still be stocking the pond, nothing
+- Mayor Ed Pianalto has had some feedback that there may be some danger of them draining
+- the pond and just dumping the water directly into the ditch. He, of course, would not want to
+- Public Comment from Jesse Garetson
+- j) Building Inspector’s “Items for Consideration”
+- c. Addition of verbiage in Zoning Code
+- Mayor Ed Pianalto would like to review, “c. Addition of verbiage in Zoning Code” at the
+- Zoning Board Meeting on May 4th
+- Public Comment by Rachel New
+- approve the liquor license renewal for the Pitkin Hotel by Mayor Ed Pianalto. The motion was
+- m) Fence Permit for 428 State Street
+- The Board received a request to review this previously denied request. Trustee Cory
+- Opened up to Public Comment. No public comment
+- Trustee Jerra Garetson motions to approve the fence permit for 428 State Street. The
+- 3. Updates/Planning/Discussion:
+- ▪ Wildfire Mitigation Seminar
+- ▪ Western Slope Towers contract
+- Zoning Board – Jesse James Garetson
+- Streets – Jesse Garetson
+- Parks and Rec – Josh Ackerman
+- addressed by this time may be tabled until the next regular meeting. Approved minutes, ordinances,

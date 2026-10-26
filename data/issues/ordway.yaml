@@ -1,82 +1,93 @@
-- title: Toni Evans annexation and zoning (Ordinances 673 and 674)
-  summary: The Council received Toni Evans's annexation petition (Resolutions 2026-09 and 2026-10) on August 10 after a Planning Commission hearing. Second readings of Ordinance 673 (annexation) and Ordinance 674 (zoning) were on the October 5 agenda.
-  where: Ordway town limits (parcel described in petition)
+- title: Toni Evans annexation and zoning
+  summary: 'The Planning Commission held a hearing on Aug. 10, 2026 on a petition by Toni Evans to annex land into Ordway, and the trustees adopted resolutions on eligibility and the petition. A second reading of the annexation and zoning ordinances (#673 and #674) followed on Oct. 5. A separate ''Addies'' annexation was also recommended and approved to move forward.'
+  where: Ordway town limits
   refs:
-  - 0
-  - 2
+  - 5
+  - 7
   topics:
   - Annexation
   - Zoning & development
-- title: Addies annexation into the Town of Ordway
-  summary: The Planning and Zoning board recommended that the Addies property be annexed, and the item for approving the annexation appeared on the August 10 agenda.
-  refs:
-  - 0
-  topics:
-  - Annexation
-- title: CIRSA coverage and settlement over former Town Attorney's water rate contract
-  summary: Documents include a CIRSA coverage letter and a settlement agreement, release and assignment. They say the Town has lost money since 2022 because the former Town Attorney, Mr. Perko, amended a contract's water rate. The documents refer to a malpractice lawsuit and the receivership of the original contracting company. Final terms are not shown.
+- title: Water moratorium and water restrictions
+  summary: Council denied a water restrictions resolution in April, then approved Resolution 2026-07 in June placing a moratorium on additional water services. Water reports, well output and a town water restructuring were also discussed.
   where: Townwide
   refs:
-  - 0
+  - 2
+  - 3
+  - 4
   topics:
-  - Lawsuits & legal
-  - Fees & rates
   - Water
-- title: Affordable housing development agreement
-  summary: On October 5 the Council took up an agreement between the Town and a development company for future development of affordable housing. The excerpt does not show the outcome.
-  where: Ordway
-  refs:
-  - 2
-  topics:
-  - Housing
-  - Zoning & development
-- title: Mobile Park Holding LLC negotiations ended
-  summary: After an executive session on October 5, the agenda lists an item to discontinue negotiations with Mobile Park Holding LLC. The documents do not state the subject of the negotiations or the final vote.
-  refs:
-  - 2
-  topics:
-  - Land & property
-  - Government operations
-- title: Tax certificate negotiations for Arkansas and Idaho street properties
-  summary: The Council approved negotiating tax certificates for 305, 317 and 319 Arkansas and 326 Idaho. Items for 629 Idaho and 215 E 4th Street (an extension request) also came up.
-  where: 305, 317, 319 Arkansas; 326 and 629 Idaho; 215 E 4th Street
-  refs:
-  - 2
-  topics:
-  - Land & property
-  - Budget & taxes
-- title: Historic preservation ordinance and 318 E 3rd demolition
-  summary: The Council held first reading of Ordinance 675 concerning historic preservation. It also approved a demolition application for 318 E 3rd.
-  where: 318 E 3rd Street
-  refs:
-  - 2
-  topics:
-  - Historic preservation
-  - Zoning & development
-- title: Recycling presentation, budget work session and health insurance
-  summary: The Council heard a recycling presentation from HDR/C3 and approved a new health insurance company. A preliminary budget work session was set for October 19 at 8:30 am. Earlier, on August 10, it approved 3% personnel raises 5-0.
-  where: Townwide
-  refs:
-  - 0
-  - 2
-  topics:
-  - Budget & taxes
-  - Environment & climate
-  - Government operations
-- title: Community Library IGA and Torgler property
-  summary: On September 14 the Council approved a revised Community Library intergovernmental agreement. It also voted to move the Torgler item at 114 Colorado forward.
-  where: 114 Colorado
-  refs:
-  - 1
-  topics:
-  - Libraries & culture
-  - Land & property
-- title: Building repairs, Stantec visit and 311 Main Street
-  summary: Discussion of back-of-building repairs and a Stantec visit was postponed to the next meeting. 311 Main Street appears in the August documents with no detail.
+  - Utilities
+- title: CIRSA coverage and settlement over former town attorney's contract change
+  summary: Documents in August include a CIRSA coverage letter and a settlement agreement, release and assignment. They concern losses the Town says began in 2022 after the former town attorney amended a water-rate contract and allegedly failed to advise the Town correctly. A malpractice lawsuit and a receivership are mentioned.
   where: 311 Main Street
   refs:
-  - 0
-  - 2
+  - 5
   topics:
+  - Lawsuits & legal
+  - Water
+- title: Historic preservation, Certified Local Government status and cemetery board
+  summary: Council advanced ordinances to establish a Certified Local Government and a Historic Preservation Advisory Authority, and created a cemetery board. A further historic preservation ordinance (#675) had a first reading in October, and a cemetery grant is moving forward.
+  where: Townwide, Ordway Cemetery
+  refs:
+  - 1
+  - 2
+  - 3
+  - 7
+  topics:
+  - Historic preservation
+  - Parks & open space
   - Government operations
+- title: 428 E. 3rd Street town-owned property sale and foreclosure
+  summary: Council considered resolutions in March authorizing the sale of town-owned property, including 428 East 3rd Street. In May and June it discussed the property in executive session and talked about restarting foreclosure.
+  where: 428 E 3rd Street
+  refs:
+  - 1
+  - 3
+  - 4
+  topics:
   - Land & property
+- title: Tax certificates, demolition and property requests on Arkansas, Idaho and E. 3rd
+  summary: In October the board approved negotiating tax certificates for 305, 317 and 319 Arkansas and 326 Idaho. It approved a demolition application at 318 E 3rd and an extension request for 215 E 4th Street. Discussion of 629 Idaho was postponed. An agreement on future affordable housing development was also on the agenda.
+  where: Arkansas, Idaho and E 3rd/4th streets
+  refs:
+  - 7
+  topics:
+  - Land & property
+  - Housing
+- title: Street improvements, comprehensive plan and Old Pharmacy
+  summary: The town held a kickoff with the State for street improvements and is updating its comprehensive plan. It also discussed extending 1st Street, a master plan for the Old Pharmacy building, and a Stantec visit.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  - 4
+  - 7
+  topics:
+  - Roads & traffic
+  - Zoning & development
+- title: Fire department invoices and funding
+  summary: In June the town discussed a county invoice to the fire department, which will pay past due invoices with a subsidy. Workers' compensation for the fire department and Air Med Care membership were also discussed.
+  where: Ordway Fire Department
+  refs:
+  - 1
+  - 4
+  topics:
+  - Fire & emergencies
+  - Budget & taxes
+- title: Budget, raises and health insurance
+  summary: The town held a preliminary budget work session on Oct. 19, approved a health insurance company, and approved 3% personnel raises in August.
+  where: Townwide
+  refs:
+  - 5
+  - 7
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Community library agreement
+  summary: Council approved a revised Community Library intergovernmental agreement in September after library discussion in April.
+  where: Ordway Community Library
+  refs:
+  - 2
+  - 6
+  topics:
+  - Libraries & culture

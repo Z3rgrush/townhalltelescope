@@ -1,6 +1,328 @@
 # dolores
 
-## [dolores#0] 2026-08-10 | City Council | minutes
+## [dolores#0] 2025-10-27 | City Council | agenda
+- There are separate links for the Town Board Meetings and Workshops
+- Presentation by Kelli Hargraves, Social Services Director, relating to Senior Lunch Program
+- Presentation by Casey Simpson relating to recycling
+- Discussion on Phase 2 Water project funding needs and water rates
+- Sheriﬀ’s contract for 2026
+- Discuss use of Electionland and IGA with Mancos for 2026 election
+
+## [dolores#1] 2026-01-12 | City Council | minutes
+- 4. ACTION/APPROVAL OF THE AGENDA: A motion to approve the agenda was made by
+- 5. IDENTIFICATION OF ACTUAL OR PERCEIVED CONFLICTS OF INTEREST
+- None identified
+- 6. ACTION/APPROVAL OF THE CONSENT AGENDA: The Consent Agenda is intended to
+- allow the Board by a single motion to approve matters that are considered routine or non
+- controversial. Here will be no separate discussion of these items unless a Board Member
+- requests an item to be removed from the Consent Agenda and considered separately. Items
+- removed from the Consent Agenda will be Considered under specific Agenda item numbers
+- motion was approved unanimously
+- 6.3 Approve Change Beneficial Owners for High Country Releaf
+- 6.4 Approve Liquor License Renewal Kelly’s Kitchen
+- Board at this time or during a Public Hearing. Each Person will have 5 minutes. The Town
+- Board encourages public comment by the following sources: Live at the Town Hall,
+- 9 STAFF/COMMITTEE REPORTS/PRESENTATIONS:
+- 9.2 Managers Report: Leigh Reeves provided updates on the water main replacement project
+- been moved the January docket. He gave his opinion on the benefit of approving the variances
+- before the board. He also addressed the difference between and contract and an MOU as it
+- boundary affidavit and a current CORA request
+- 10.1 Mayor Chris Holkestad reported that the improvements to the river are worth
+- and referred to a new informal committee that may be developing to beautify
+- 11. PUBLIC HEARINGS/ORDINANCE APPROVAL:
+- 11.1 The public hearing for approving a variance for a property line/setback encroachment
+- explained the issues requiring the variance. No public comments were made. The public
+- hearing was closed at 6:52 p.m
+- 11.2 Resolution 686 Approving a Variance for a Property Line/ Setback Encroachment. A
+- Youngquist. The motion was approved unanimously
+- 11.3 The public hearing for approving a Height Variance for the Dolores School District
+- Additions & Renovations Project was opened at 6:52p.m. by Mayor Holkestad. Ryan
+- comments were made. The public hearing was closed at 6:59 p.m
+- 11.4 Resolution 687 Approving a Height Variance for the Dolores School District Additions
+- & Renovations Project. A motion was made by Trustee Youngquist to approve Resolution
+- 12. DISCUSSION/POSSIBLE ACTION OF RESOLUTIONS/CONTRACTS:
+- 12.1 Resolution 685 Authorizing the Dolores Community Center to enter into a MOU with
+- approved unanimously
+- 12.2 Resolution 688: Rescinding Resolution 606 Series 2024 Entering into an IGA with
+- Dolores Library District. A motion was made by Mayor Holkestad to approve Resolution 688
+- 12.3 Resolution 689: Authorizing a Mail Ballot Election on April 7, 2026. A motion was
+
+## [dolores#2] 2026-01-26 | City Council | minutes
+- There are separate links for the Town Board Meetings and Workshops
+- habitat project was completed, the comprehensive plan team is meeting every two weeks, and the staﬀ
+- met to discuss funding regarding the main line water replacement project. She also informed the board
+- Dog Licenses: The board reviewed the current ordinances surrounding dog licensing in the Town
+- current ordinance and will prepare a draft of a new policy that is more enforceable
+- obtaining a special event liquor license. There was a discussion of previous festivals and events with
+- SEPs and concerns regarding liquor control. The board also discussed other topics surrounding large
+- events, both with and without alcohol. The consensus was to continue the conversation, have the parks
+- committee also review and present on parks issues, and possibly hold another workshop to set rules and
+
+## [dolores#3] 2026-03-09 | City Council | minutes
+- 4. Approval of Agenda
+- Trustee Youngquist moved to approve the agenda. Trustee Peterson seconded the motion.Motion approved unanimously
+- Trustee Grigg moved to approve the Consent Agenda. Trustee Youngquist seconded the motion.Motion approved unanimously
+- Town Manager’s ReportManager Reeves reported on housing policy guidance received, water main replacement funding efforts, completion of the Fishing Is Fun project, upcoming spring cleanup, and community center improvements
+- County Commissioner ReportCommissioner Jim Candelaria reported on county cleanup days, fire mitigation efforts, and possible early fire restrictions
+- 10. Public Hearing
+- Mayor Holkestad opened the public hearing for Ordinance 589: Changes to Dog Licensure Requirements (First Reading) at 6:31 p.m
+- Manager Reeves presented an overview of the ordinance. No public comments were received
+- The public hearing was closed
+- Trustee Wheeler moved to approve Ordinance 589 on first reading. Trustee Youngquist seconded the motion.Motion approved unanimously
+- 11. Resolutions
+- Resolution 693 – Applying for EIAF 2026 Grant CycleMotion by Trustee Youngquist, second by Trustee Peterson.Approved unanimously
+- Resolution 694 – Establishing Posting Sites for 2026Motion by Trustee Grigg, second by Trustee Youngquist.Approved unanimously
+- Resolution 695 – Authorizing Expenditure for ScoreboardMotion by Mayor Holkestad, second by Trustee Youngquist.Approved unanimously
+- Resolution 697 – Permitting Use of Green Waste Facility for Storage of Narrow-Gauge Rail MaterialsMotion by Trustee Youngquist, second by Trustee Peterson.Approved unanimously
+- Temporary Permit – Lindo MichoacanTrustee Youngquist moved to approve a temporary permit for Lindo Michoacan. Trustee Peterson seconded the motion.Motion approved unanimously
+- Mayor Holkestad moved that the Board enter executive session pursuant to C.R.S. §24-6-402(4)(f) to discuss personnel matters, specifically the Town Manager’s annual performance evaluation and employment contract. Trustee Peterson seconded the motion
+- 14. Resolution 696 – Town Manager Employment Contract
+- Trustee Grigg moved to approve Resolution 696. Trustee Youngquist seconded the motion.Motion approved unanimously
+- Motion to approve the March 9, 2026, agenda – Approved unanimously
+- Motion to approve the Consent Agenda – Approved unanimously
+- Motion to approve Ordinance 589 on first reading – Approved unanimously
+- Motion to approve Resolution 693 – Approved unanimously
+- Motion to approve Resolution 694 – Approved unanimously
+- Motion to approve Resolution 695 – Approved unanimously
+
+## [dolores#4] 2026-04-13 | City Council | minutes
+- 4. APPROVAL OF THE AGENDA
+- Motion: Trustee Youngquist moved to approve the agenda as presented
+- Motion: Trustee Curry moved to approve the Consent Agenda
+- 7. PUBLIC COMMENT
+- Emily Bud addressed a potential development project on 3rd Street and expressed
+- concerns regarding parking
+- Val Truelson noted that Riverside Avenue is 35 feet wide
+- Street, noted the first bear sighting of the year, indicated that a fire ban date is to be
+- and updates regarding the comprehensive plan, CIRSA audit results, nuisance
+- abatement and public works activities, the Daniels Fund grant, and Phase 2 water
+- project funding
+- clarification regarding Resolutions 698, 700, and 703
+- County Commissioner Jim Candelaria discussed potential burn ban plans,
+- bread competition and requested that an action item be placed on a future
+- 10. PUBLIC HEARING / ORDINANCES
+- Public Hearing: Second Reading – Dog Licensing Ordinance
+- Mayor Holkestad opened the public hearing at 6:31 p.m
+- Town Attorney Sumrall presented the ordinance on second reading
+- Mayor Holkestad closed the public hearing at 6:35 p.m
+- Motion: Mayor Holkestad moved to approve the ordinance on second reading
+- 11. DISCUSSION / POSSIBLE ACTION
+- Resolution 698 – Hemp-Derived and THC Beverage Policy
+- Resolution 699 – Fire Ban / Adoption of County Restrictions
+- Resolution 700 – DWRF Loan Agreement (Phase 2 Water Project)
+- Resolution 701 – Appoint Town Officials
+- Resolution 702 – Approve ME&E Contract
+- Resolution 703 – Plat Amendment 504/506 Riverside Avenue
+- Resolution 704 Series 2026 – Appointments of Ex Officio Positions and
+- Discussion occurred regarding ex officio appointments
+- Mayor Holkestad moved to amend the motion to include the discussed appointments
+- Result: Motion, as amended, carried
+- 13. PRESENTATION
+- Town Attorney Ethan Sumrall provided a presentation regarding:
+- Social media considerations
+
+## [dolores#5] 2026-04-27 | City Council | minutes
+- The Board of Trustees discussed meeting procedures and requested the development of
+- 4. APPROVAL OF AGENDA
+- Vote: Unanimous approval
+- 5. RESOLUTION NO. 705, SERIES 2026
+- Town Clerk Kelley Unrein introduced Resolution No. 705
+- Motion to Approve: Trustee Peterson
+- Discussion was opened regarding Board and committee assignments
+- Trustee Beckman moved to amend Resolution No. 705 to include the following
+- appointments:
+- Chris Curry and Linnea Peterson – Planning and Zoning Commission
+- Josh Maule – Parks Committee
+- Second to Amendment: Trustee Maule
+- Vote on Amendment: Unanimous approval
+- Motion to Approve Resolution No. 705 as Amended: Trustee Beckman
+- 6. RESOLUTION NO. 706, SERIES 2026
+- Town Clerk Kelley Unrein introduced Resolution No. 706
+- 7. RESOLUTION NO. 707, SERIES 2026
+- Town Manager Leigh Reeves introduced Resolution No. 707
+- Grant status and funding updates
+- code to the Board of Trustees and Planning and Zoning Commission members
+
+## [dolores#6] 2026-05-11 | City Council | minutes
+- 1.1 CIRSA Presentation
+- presentation regarding risk management for municipal officials
+- The presentation concluded at 6:48 p.m
+- 4. ACTION: APPROVAL OF THE AGENDA
+- Mayor Pro Tem Curry requested an amendment to the agenda to allow Sheriff Steve Nowlin
+- to provide his report immediately following approval of the agenda and to then move
+- directly to Item 11, Public Hearings / Quasi-Judicial, before returning to the remaining
+- 11. PUBLIC HEARINGS / QUASI-JUDICIAL
+- 11.1 PUD Concept Review – Broc’s Development
+- Mayor Pro Tem Curry opened the Public Hearing regarding the PUD Concept Review for
+- Broc’s Development
+- comments into consideration and was preparing a revised design. Mr. Smith stated that
+- consideration included:
+- Revising the parking layout,
+- Sara Pritchard presented the staff report and discussed items that would need to be
+- addressed during the preliminary plat process, including setbacks, sidewalks, and open
+- whether the concept was feasible, not whether the project currently met all code
+- Public Comment
+- Public comment was opened at 7:47 p.m
+- and oversight of “affordable housing.”
+- Sheila Wheeler expressed concerns regarding infrastructure, lighting, dust, parking,
+- Greg Stobb requested the units be rotated, reduced to two stories, and raised
+- concerns regarding parking and snowplowing
+- Mike Sawyer expressed concerns regarding infrastructure, roads, and parking and
+- Maryann Mate referenced the Comprehensive Plan and stated concerns regarding
+- Jay Swanson opposed the project and raised concerns regarding three-story
+- Jen Stark stated that separate building applications could potentially be submitted
+- bank building and stated that additional housing inventory could help reduce
+- housing prices within the community
+- Public comment was closed at 8:22 p.m
+- Following public comment, Ms. Pritchard clarified for the Board that the code references a
+- Mr. Smith stated that construction labor for the project would be local labor
+- Board Discussion
+- Trustee Beckman stated he looked forward to reviewing additional project details
+- Trustee Peterson discussed potential development options for the property and asked
+- Mayor Pro Tem Curry commented on the importance of balancing development needs with
+- were discussed
+- Board members discussed project density, infrastructure impacts, housing
+- considerations, and compatibility with surrounding properties
+- Trustee Beckman moved to approve the Concept Development Plan as submitted by KKV
+- Development with the findings and conditions noted in the staff report
+- Curry’s proximity to the proposed project site and whether recusal should be considered
+
+## [dolores#7] 2026-05-26 | City Council | minutes
+- Town’s recent award of approximately $700,000 in funding from the Colorado Department
+- of Local Affairs (DOLA) for the Phase 2 Water Project. Reeves also provided an update
+- regarding cleanup efforts at 102 North 11th Street
+- WORKSHOP TOPIC: COMPREHENSIVE PLAN
+- Comprehensive Plan update process
+- set an example for community participation in the Comprehensive Plan update process
+- Trustees were also encouraged to continue reviewing materials and provide feedback
+- consultant retained to assist the Town with the Comprehensive Plan update. Discussion
+- included community feedback trends, planning priorities, and the overall update process
+- Reeves also discussed anticipated next steps in the project, including public engagement
+- efforts, draft plan development, and certain legal requirements associated with adoption
+- of an updated Comprehensive Plan
+
+## [dolores#8] 2026-06-08 | City Council | minutes
+- 4. ACTION: APPROVAL OF THE AGENDA
+- Mayor Holkestad moved to amend the agenda to add Resolution No. 713 under
+- Discussion/Possible Action Items
+- Mayor Pro Tem Curry moved to approve the Consent Agenda as presented
+- 8. PUBLIC COMMENT
+- near the bike and skate park should services be needed in that area
+- Comprehensive Plan update process
+- ordinance amendment. He reminded Board members to wait for recognition before
+- background information regarding Resolution No. 713
+- Resolution No. 711 and introduced the concept of a future Stone Soup Competition
+- approach regarding potential fire hazards and emphasized the importance of
+- reporting concerns that could increase fire risk. He also encouraged residents to be
+- Plan update process by completing the community questionnaire. In response to
+- Trustee Maule inquired about responsible watering practices within the Town's
+- parks system
+- 11. PUBLIC HEARINGS / QUASI-JUDICIAL
+- 12. DISCUSSION / POSSIBLE ACTION ITEMS
+- 12.1 Resolution No. 710 – Approving a Policy Regarding Criminal History Record
+- Trustee McCoy moved to approve Resolution No. 710
+- 12.2 Resolution No. 711 – Reappointing Member to the Dolores Community
+- Trustee McCoy moved to approve Resolution No. 711
+- 12.3 Resolution No. 712 – Approving Pending for Stucco and Wainscoting
+- Mayor Holkestad moved to approve Resolution No. 712
+- 12.4 First Reading of Ordinance No. 590, Series 2025, Amending Ordinance No
+- Mayor Holkestad moved to approve Ordinance No. 590 on ﬁrst reading
+- 12.5 Resolution No. 713 – Authorizing the Use of Steets Fund Reserves for
+- Mayor Pro Tem Curry moved to approve Resolution No. 713. Trustee McCoy
+
+## [dolores#9] 2026-06-22 | City Council | minutes
+- Fee Schedule Discussion
+- Town Manager Leigh Reeves presented the proposed fee schedule updates, Ordinance No
+- 591, Series 2026, Resolution No. 715, Series 2026, and Resolution No. 716, Series 2026,
+- utilizing a PowerPoint presentation prepared by staff
+- During the presentation, Trustee Maule asked whether there were exemptions or
+- limitations applicable to youth-operated businesses, such as lawn mowing services
+- Following the presentation, Trustee Peterson stated that she did not support increasing the
+- annual business license fee
+- Trustee McCoy requested clarification regarding the need for a new ordinance. Staff
+- explained that the proposed ordinance was intended to establish clear procedures
+- regarding license expiration dates, late fees, reinstatement provisions, and enforcement
+- authority, while allowing future fee adjustments to be made by resolution
+- Trustee Curry questioned the current short-term rental permit fee structure and requested
+- processing and administering short-term rental permits
+- During discussion, the Town Attorney reminded Board members to consider the proposed
+- fees from a policy perspective applicable to all license holders
+- Additional discussion occurred regarding proposed fee increases, licensing procedures,
+- enforcement consistency, permit administration, and the distinction between fees
+- established by ordinance and fees established by resolution. Staff answered questions
+- Trustees Curry and Maule requested that staff-board interaction and communication
+- expectations be placed on a future agenda for discussion
+
+## [dolores#10] 2026-07-13 | City Council | minutes
+- 4. ACTION: APPROVAL OF THE AGENDA
+- Trustee Peterson moved to approve the agenda
+- (Single motion; items may be removed for separate consideration)
+- · Approval of the Steakout’s Liquor License Renewal
+- · Approval of Speedway’s Liquor License Renewal
+- · Approval of Speedway change of manager
+- Action: Motion and second to approve Consent Agenda
+- Trustee Beckman moved to approve the Consent Agenda as presented
+- 8. PUBLIC COMMENT
+- Jerry Whited of the Escalante Softball Tournament requested the Board of Trustees
+- waive the park use fee this year so he can pay the fees for registering a non-profit
+- He is willing to pay the ball light fee and the deposit
+- wants submitted to the Board of Trustees requesting a review of the Short-Term
+- rental categories and potentially scaling the fee based on the type of category
+- Mike Sawyer of 207 N 20th street read a letter to the Board of Trustees with mixed
+- Sheila Wheeler of 702 Hillside Ave requested the Board of Trustees consider adding
+- presentations and reports
+- made to the water plant building. He commented on the dry condition of the parks,
+- moving through the area as the Ferris fire continues to push animals away from their
+- habitat. The Ferris fire is not in Montezuma County currently, and the fire crews
+- which it owns at this time, and to be re-installed in Flanders Park in the future. The
+- Phase II water infrastructure project will start in the spring of 2027
+- Manager Reeves asked the Board for permission to hire a water law attorney to
+- assist in the legal aspects of town water rights as it pertains to the river. Currently
+- Riverside Park is watered from town storage at the water plant. A meter is needed
+- to be able to track the usage in Riverside Park
+- The Board gave consensus approval for hiring a water law attorney no motion or
+- Regarding the Comprehensive Plan update project, the public outreach events
+- wrapped up July 10, 2026. Public comments will close July 31, 2026. The next steps
+- Plan can begin. Expect the Draft Plan to be presented in October
+- The Galloping Goose Historical Society is asking to add a structure in Flanders Park
+- submit plans to the Building and Zoning departments
+- Manager Reeves reviewed the first reading of Ordinance 591. This ordinance
+- creates a pathway for updating the fee schedule and a system to implement
+- enforcement of fees, fines and revocations
+- Resolution 714 provides confirmation for the town to become the “pass through”
+- agent in a housing project funded through federal and state grant streams
+- hired tree cutting to be done along the escarpment in town to mitigate fire hazards
+
+## [dolores#11] 2026-07-27 | City Council | minutes
+- Fee Schedule Review
+- The Board began by reviewing the proposed 2026 fee schedule. Naomi Reiss arrived after the
+- discussion began
+- The Board discussed whether Town fees should recover 100 percent of the administrative costs
+- associated with providing each service. Following discussion, the Board agreed that the fee
+- Set the business license fee at $30, with a $50 late fee
+- Adopt the remaining general fees as presented in the draft proposal
+- Adopt the proposed parks and facilities fees, except:
+- Adopt the proposed building fees, including language providing for use of the current
+- Adopt the proposed development and zoning fees
+- Notify applicants that professional service costs incurred by the Town to facilitate or
+- review a construction or development project will be billed to the applicant
+- fee adjustments
+- Staff will prepare a resolution incorporating the Board’s direction for consideration at a future
+- platform as a candidate for Colorado House District 59
+- Public Records Request Policy
+- The Board reviewed the proposed public records request policy and related request form. There
+- was general agreement with the information presented. Staff will prepare a resolution adopting
+- the policy and form for consideration at the next regular meeting
+- The Board discussed ways for community members to engage appropriately and effectively with
+- The Board also discussed adding a public-comment section before the workshop portion of the
+- Trustees discussed personal attacks directed toward staff during public comment and the
+- allowing public comments concerning individual personnel or related matters during meetings
+- Staff will prepare informational signage explaining expectations for public comment and the
+- The Board identified the following subjects for upcoming workshops:
+- August: Sheriff’s Office contract
+- October: Budget
+
+## [dolores#12] 2026-08-10 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - ACTION: Trustee Beckman moved to approve the agenda. Trustee Maule seconded. The
 - ACTION: Trustee Maule moved to approve the consent agenda. Trustee Beckman
@@ -37,7 +359,7 @@
 - traffic study be completed during the zoning process. Rachel Vass stated that changing the
 - zoning could eliminate future business opportunities. Tracy Keuric stated that she did not
 
-## [dolores#1] 2026-08-24 | City Council | minutes
+## [dolores#13] 2026-08-24 | City Council | minutes
 - 3. WORKSHOP DISCUSSION
 - 3.1 2027 BUDGET PLANNING
 - Town Clerk/Treasurer Kelley presented the 2027 budget planning information and reviewed
@@ -56,7 +378,7 @@
 - The following items were added to the Future Agenda Items/Board Parking Lot for future
 - consideration:
 
-## [dolores#2] 2026-09-14 | City Council | minutes
+## [dolores#14] 2026-09-14 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - Mayor Holkestad moved to approve the agenda. Mayor Pro Tem Curry seconded. Motion
 - Mayor Holkestad moved to approve the Consent Agenda. Trustee Maule seconded. Motion
@@ -97,7 +419,7 @@
 - 12.3 Resolution 719 – DWRF Loan Agreement, Phase 2 Water Project
 - Manager Reeves presented Resolution 719 and reviewed the loan summary. Mayor
 
-## [dolores#4] 2026-10-12 | City Council | minutes
+## [dolores#16] 2026-10-12 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - Trustee Josh Maule moved to approve the agenda. Trustee Billy McCoy seconded. Motion
 - Mayor Pro Tem Chris Curry moved to approve the Consent Agenda, including the

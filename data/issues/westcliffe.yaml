@@ -1,70 +1,118 @@
-- title: Emergency moratorium on data centers (Ordinance No. 2-2026)
-  summary: After a public hearing with no public comment, the council approved Ordinance No. 2-2026 on August 18, a moratorium on data centers. The town attorney drafted it as an emergency ordinance so it took effect immediately.
+- title: Data center moratorium (Ordinance 2-2026)
+  summary: After a June discussion of data centers straining the electrical grid and water supply, the Town drafted a moratorium. First reading was July 21, and the Council approved Ordinance 2-2026 on Aug. 18 as an emergency ordinance, effective immediately. No one spoke at the public hearing.
   where: Townwide
   refs:
-  - 0
+  - 7
+  - 9
+  - 10
   topics:
   - Data centers
   - Zoning & development
+  - Utilities
   tags:
   - data-center
-- title: Prop 123 affordable housing agreement with Silver Cliff
-  summary: The council approved an intergovernmental agreement with Silver Cliff so Westcliffe can count some of Silver Cliff's numbers toward Prop 123 affordable housing requirements, which it did not meet on its own within the three-year period. Residents asked numerous questions about the Prop 123 grant the town received, and the mayor explained it. A workforce housing report was also on the October agenda.
+- title: Main Street parking, safety and crosswalk
+  summary: The Mayor raised closing Main Street between 2nd and 3rd in summers because of over-length vehicles and people crossing outside crosswalks. A workshop is planned. The Town bought two signs (up to $1,000) for the Rosita Street lot and approved a temporary painted crosswalk near 104 Main St. A permanent crosswalk is to be budgeted next year. A stop sign at Main and Adams Blvd is also on the October agenda.
+  where: Main Street between 2nd and 3rd Streets; Rosita lot; Main St. and Adams Blvd
+  refs:
+  - 6
+  - 7
+  - 9
+  - 12
+  topics:
+  - Roads & traffic
+  - Downtown & business
+  public_comment: true
+- title: Prop 123 affordable housing, Housing Needs Assessment and IGA with Silver Cliff
+  summary: The Town considered the final Housing Needs Assessment. It approved an intergovernmental agreement with Silver Cliff on Prop 123 so Westcliffe can count some of Silver Cliff's affordable housing numbers, since it missed the three-year requirement. Residents asked numerous questions about the Prop 123 grant in September, and a Custer County workforce housing report is on the October agenda.
   where: Westcliffe and Silver Cliff
   refs:
-  - 0
-  - 1
   - 2
+  - 10
+  - 11
+  - 12
   topics:
   - Housing
   - Government operations
   public_comment: true
-- title: Reservoir project and wastewater pilot study
-  summary: The reservoir project was awarded to Mountain Valley Excavation, with work starting in September and hoped to finish by May. The wastewater pilot study was reported 70% complete.
-  where: Townwide
+- title: Water/sewer expansion south of town and reservoir project
+  summary: The Council approved a public statement for trustees and staff to use when residents ask about the water/sewer expansion south of town. It says the project improves the chance private lots get built on. In August the reservoir project was awarded to Mountain Valley Excavation, starting in September with completion hoped by May. The wastewater pilot study was 70% complete.
+  where: South of town
   refs:
-  - 0
+  - 5
+  - 10
   topics:
   - Water
   - Utilities
-- title: Memorial Park shade structures and park upkeep
-  summary: The streets and parks supervisor received three bids for shade structures at Memorial Park, and the board agreed to order them. Park irrigation is complete, and crews continue culvert cleaning, mowing and street striping on Main Street.
-  where: Memorial Park
+- title: Colorado Wildfire Resiliency Code rejected and wildfire plan adopted
+  summary: The Council adopted the Custer County Community Wildfire Protection Plan in January, replacing a 2007 plan. In March it denied Ordinance 1-2026 adopting the state Wildfire Resiliency Code. The Fire Department, Silver Cliff and the County had not adopted it, and the attorney noted possible insurance and permitting risks.
+  where: Townwide
   refs:
-  - 0
-  - 1
+  - 2
+  - 4
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+- title: Park shade structures instead of tree planting amid drought
+  summary: Because of drought and water shortage concerns, the Council dropped 2026 tree planting. It approved up to $40,000 for shade structures of about $3,000-$4,000 each. Bids for Memorial Park structures were moving forward in August.
+  where: Town parks, including Memorial Park
+  refs:
+  - 4
+  - 5
+  - 10
   topics:
   - Parks & open space
-  - Roads & traffic
-- title: Proposed stop sign at Main Street and Adams Blvd
-  summary: The October agenda includes a request to put a stop sign at Main Street and Adams Blvd.
-  where: Main Street and Adams Blvd
+  - Environment & climate
+- title: Overnight camping ordinance update
+  summary: A trustee wants to revamp the Town camping ordinance to match Silver Cliff's, citing more overnight camping linked to rising homelessness. The current ordinance refers only to parks.
+  where: Townwide
   refs:
-  - 2
+  - 7
   topics:
-  - Roads & traffic
-- title: Lot line vacation and redraw at 401 S. 2nd St.
-  summary: The council is asked to approve vacating and redrawing lot lines at 401 S. 2nd St., following a Planning Commission recommendation.
-  where: 401 S. 2nd St.
+  - Homelessness
+  - Policing & public safety
+- title: 'Tourism funding: Highway 69 welcome signs and holiday decor'
+  summary: The Council gave $5,000 for Highway 69 welcome signs to get travelers to stop in town, with Mr. Shy opposed and approval contingent on the auditor. It also gave $3,500 for the holiday wreath contest and business holiday decor. The attorney said a statutory town cannot donate to the Altitude Fitness pool resurfacing and it must go through the grant process.
+  where: Highway 69 and Main Street
   refs:
-  - 2
+  - 9
   topics:
-  - Zoning & development
-  - Land & property
-- title: Sheriff briefing on calls and e-bike laws; van service funding
-  summary: Sheriff Smith reviewed call statistics, a co-responder unit for suicide calls, and State e-bike laws at the board's request. A van service asked the town again for up to $10,000 through the Community Investment Grant; Silver Cliff and the County each gave $1,500.
+  - Tourism & events
+  - Economic development
+  - Budget & taxes
+- title: 2026 budget and mill levy
+  summary: After a public hearing with no comment, the Council approved the 2026 budget, appropriation and mill levy ordinances (5, 6 and 7-2025) in one motion on Dec. 9. A 2027 budget workshop was set for Aug. 28.
   where: Townwide
   refs:
   - 1
+  - 10
   topics:
-  - Policing & public safety
-  - Health & human services
-  - Transit
-- title: Disc golf baskets at Hermit Park
-  summary: A request to install disc golf baskets at Hermit Park was not discussed because the citizen requesting it did not attend.
-  where: Hermit Park
+  - Budget & taxes
+- title: Façade Grant program
+  summary: 'The Council approved 2026 Façade Grant awards, cutting the Wildflower Hotel''s award to $3,542. It rewrote application rules: reimbursement only, in-town business license, brick-and-mortar, and signs capped at $1,000. It also let a 2025 recipient finish work past the deadline.'
+  where: Downtown Westcliffe
+  refs:
+  - 0
+  - 5
+  - 6
+  topics:
+  - Downtown & business
+  - Economic development
+- title: Street sweeper purchase and town truck replacement
+  summary: The Council approved buying a street sweeper after a trial period, with discussion of renting it to businesses. Earlier the public works lead sought to buy a truck to replace aging Town trucks.
+  where: Townwide
+  refs:
+  - 3
+  - 5
+  topics:
+  - Government operations
+  - Roads & traffic
+- title: Farmer's Market at Jess Price Park and Bluff Park observatory hours
+  summary: The Council approved Resolution 4-2025 supporting the Farmer's Market on Town land at Jess Price Park, drafted as a resolution to avoid creating a leasehold. It also approved an MOU for extended Bluff Park hours at the Smokey Jack Observatory.
+  where: Jess Price Park; Bluff Park
   refs:
   - 1
+  - 9
   topics:
-  - Recreation & trails
   - Parks & open space
+  - Recreation & trails

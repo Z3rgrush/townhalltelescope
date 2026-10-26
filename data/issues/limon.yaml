@@ -1,15 +1,85 @@
-- title: Limon Municipal Airport presentation
-  summary: The City Council agenda for August 6, 2026 includes a presentation on the Limon Municipal Airport. The agenda gives no details on what will be presented or decided.
-  where: Limon Municipal Airport
+- title: 2026 budget and property tax levy
+  summary: Council held a November 18 budget workshop, then a December 10 public hearing and votes on the 2026 budget, the property tax levy and the appropriation ordinance (No. 648). A December 29 hearing covered a supplemental appropriation to the 2025 budget.
+  where: Townwide
+  refs:
+  - 1
+  - 2
+  - 3
+  topics:
+  - Budget & taxes
+- title: Water and sewer projects report and recommendations
+  summary: Council took up a GMS report and recommendations for water and sewer projects on April 2, with a follow-up report on the projects on August 6. The documents do not state the decisions.
+  where: Townwide
+  refs:
+  - 7
+  - 11
+  topics:
+  - Water
+  - Utilities
+- title: Colorado Wildfire Resiliency Code adoption
+  summary: Council held a public hearing on March 5 on Ordinance 649, which would adopt the 2025 edition of the Colorado Wildfire Resiliency Code. The ordinance appeared again on the April 2 agenda.
+  where: Townwide
+  refs:
+  - 6
+  - 7
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+- title: Municipal code changes on vehicles, licenses and penalties
+  summary: Council considered ordinances to enforce state vehicle rules (No. 650), require a valid license or permit while driving (No. 651) and amend municipal penalties (No. 652).
+  where: Townwide
+  refs:
+  - 6
+  - 7
+  topics:
+  - Policing & public safety
+  - Government operations
+- title: E-bike regulation (Ordinance 646)
+  summary: Council had Ordinance 646 on e-bike regulation on its November 6 agenda. The agenda does not say what the rules are.
+  where: Townwide
   refs:
   - 0
   topics:
-  - Airports
-- title: Water and sewer projects report
-  summary: The City Council agenda for August 6, 2026 includes a report on water and sewer projects. The agenda does not name specific projects, costs or schedules.
-  where: Citywide
+  - Roads & traffic
+  - Policing & public safety
+- title: Irrigation water rights ordinance (Ordinance 647)
+  summary: Council considered Ordinance 647 on irrigation water rights at its November 6 meeting.
+  where: Townwide
   refs:
   - 0
   topics:
   - Water
-  - Utilities
+- title: Affordable housing project review policies
+  summary: On June 4 council considered Resolution 26-06-12, which would establish review policies for affordable housing projects. A Housing Authority board appointment followed on August 6.
+  where: Townwide
+  refs:
+  - 9
+  - 11
+  topics:
+  - Housing
+  - Zoning & development
+- title: Limon Municipal Airport and transfer of entitlements
+  summary: Council considered Resolution 26-04-07 on April 2 to transfer airport entitlements to Archuleta County. An airport presentation was scheduled for August 6.
+  where: Limon Municipal Airport
+  refs:
+  - 7
+  - 11
+  topics:
+  - Airports
+- title: Street chip sealing and Limon Events contract
+  summary: On May 7 council considered a proposal from A-1 Chipseal to chip seal designated streets. On July 2 it took up a contract with Big Sandy Builders for work at Limon Events.
+  where: Citywide
+  refs:
+  - 8
+  - 10
+  topics:
+  - Roads & traffic
+  - Government operations
+- title: Tamarack Golf Club user rates
+  summary: Council considered Resolution 26-03-06 on March 5, which would set user rates for the Tamarack Golf Club.
+  where: Tamarack Golf Club
+  refs:
+  - 6
+  topics:
+  - Fees & rates
+  - Recreation & trails

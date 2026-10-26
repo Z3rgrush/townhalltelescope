@@ -1,74 +1,129 @@
-- title: 112 S. Canal demolition and Brownfields grant contract
-  summary: The council is selecting a contractor for demolition at 112 S. Canal, using a Brownfields grant. Earth Services & Abatement is the named contractor, with the grant to be awarded; the contract stayed on agendas from August through October.
+- title: 112 S. Canal brownfield cleanup and demolition
+  summary: CDPHE awarded a Targeted Brownfields Assessment for 112 S. Canal, and the town later applied for grants. By spring 2026 the demolition was out for bid, and Earth Services & Abatement was named contractor, with the grant contract still to be awarded.
   where: 112 S. Canal
   refs:
   - 0
   - 1
   - 2
+  - 3
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
   topics:
   - Land & property
   - Environment & climate
-  - Zoning & development
-- title: 'Water plant storage study and Well #2 testing'
-  summary: 'Engineer Tom McClernan of GMS presented a water plant storage study in August. In September and October he is slated to report on Well #2 water flow and chemical tests under a preliminary engineering report.'
-  where: 'Manzanola water plant and Well #2'
-  refs:
-  - 0
-  - 1
-  - 2
-  topics:
-  - Water
-  - Utilities
-- title: MMOF-CDOT grant contract for $474,041
-  summary: The council is considering a $474,041 Multimodal Options Fund contract with CDOT, budgeted for Colorado's 2029 budget year. It appeared on all three agendas.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  - 2
-  topics:
-  - Roads & traffic
-  - Transit
-  - Budget & taxes
-- title: Conduit vault placement at water plant with SECWCD
-  summary: Hunter Willits of the Southeastern Colorado Water Conservancy District is discussing where to place a conduit vault at the water plant, tied to Valley water. The item recurred on all three agendas.
+  - Economic development
+- title: 'Water plant storage study, Well #2 testing and water system mapping'
+  summary: 'Engineers GMS (Tom McClernan) have been working on a water plant storage study, which moved to a PER with flow and chemical tests on Well #2. The town is also considering a $15/month Diamond Maps system from Colorado Rural Water to map valves, meters and hydrants. A report noted 84% water loss in April 2026.'
   where: Manzanola water plant
   refs:
   - 0
   - 1
   - 2
+  - 3
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
   topics:
   - Water
   - Utilities
-- title: Diamond Maps water system mapping software
-  summary: Colorado Rural Water proposed a $15 per month map and computer system showing valves, meters and fire hydrants. The water superintendent could update it, as Eureka Water does.
-  where: Townwide water system
-  refs:
-  - 1
-  - 2
-  topics:
-  - Water
-  - Utilities
-  - Government operations
-- title: Repair of 2nd Street with Otero County
-  summary: The council discussed Otero County repairing 2nd Street in August. No outcome is stated.
-  where: 2nd Street
+- title: MMOF/CDOT sidewalk grant of $474,041
+  summary: The town received a $474,041 CDOT MMOF grant for sidewalks. The contract is budgeted for Colorado's 2029 budget year, and a related council resolution was held until the grant amount was known.
+  where: Townwide sidewalks
   refs:
   - 0
+  - 1
+  - 3
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
   topics:
   - Roads & traffic
-- title: Ordinance 2026-05 on emergent weed and tree removal
-  summary: The council took up Ordinance 2026-05, which addresses emergent weed and tree removal. No details or outcome are given.
+  - Recreation & trails
+  - Budget & taxes
+- title: Southeastern Water Conservancy District Conduit vault at water plant
+  summary: The council asked Congress for support of the Conduit and heard from SECWCD's Hunter Willits on placing a conduit vault at the water plant, for Valley water. It remained on agendas through October 2026.
+  where: Water plant
+  refs:
+  - 2
+  - 9
+  - 10
+  - 11
+  - 12
+  topics:
+  - Water
+  - Utilities
+- title: Drought water restrictions and project water release
+  summary: The council took up Resolution 2026-02 on drought water restrictions in April 2026. In July it discussed a 100 acre-foot project water release on 6/30/2026.
+  where: Townwide
+  refs:
+  - 6
+  - 9
+  topics:
+  - Water
+  - Environment & climate
+- title: Second Street repair and chip seal
+  summary: Otero County was to repair Second Street for about $1,000 in mid-2026. A chip and seal of the street is planned for 2027 at about $10,000.
+  where: Second Street
+  refs:
+  - 8
+  - 9
+  - 10
+  topics:
+  - Roads & traffic
+- title: Solar tax credit refund
+  summary: The IRS sent a November 3 letter saying a tax credit refund is coming on the town's solar project.
   where: Townwide
   refs:
   - 0
+  - 1
   topics:
-  - Environment & climate
-  - Land & property
-- title: Sale or scrapping of 2012 Dodge police car and jetter truck
-  summary: The council is deciding whether to sell the old 2012 Dodge police car and the jetter truck or scrap them for metal.
+  - Energy
+  - Budget & taxes
+- title: Federal procurement and grant compliance policies
+  summary: In March 2026 the council took up a package of procurement policies, including 2 CFR 200 compliance and requirements for federally funded projects.
+  where: Townwide
   refs:
-  - 2
+  - 4
   topics:
   - Government operations
-  - Policing & public safety
+  - Ethics & transparency
+- title: Budget approval and insurance renewal
+  summary: The council approved the budget and its resolutions in December 2025. It also considered the Gallagher insurance renewal at $36,216.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  topics:
+  - Budget & taxes
+- title: Weed and tree removal ordinance, senior housing parking lot, and surplus vehicles
+  summary: The council considered Ordinance 2026-05 on emergent weed and tree removal. It also discussed paving the Park Street Senior Housing parking lot and whether to sell or scrap a 2012 Dodge police car and a jetter truck.
+  where: Park Street Senior Housing and Townwide
+  refs:
+  - 6
+  - 10
+  - 12
+  topics:
+  - Government operations
+  - Housing
+  - Land & property
+- title: Charter franchise agreement
+  summary: A Charter franchise agreement was on the February 2026 agenda.
+  where: Townwide
+  refs:
+  - 3
+  topics:
+  - Broadband
+  - Utilities

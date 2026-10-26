@@ -1,6 +1,333 @@
 # nunn
 
-## [nunn#0] 2026-08-06 | City Council | minutes
+## [nunn#0] 2025-11-06 | City Council | agenda
+- Discussion of the following:
+- 2. Fort Collins Mobile Storage Sign permit review. 925 Lonetree Lane
+- 4. Road Base and Skid steer proposal
+- 5. 2026 Budget Preview
+- PLANNING AND DEVELOPMENT (Town Board)
+- FINANCE/BUDGET/ PERSONNEL
+- PUBLIC SAFETY (Police, Code Enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- GRANTS (Town Board)
+
+## [nunn#1] 2025-11-20 | City Council | minutes
+- APPROVAL OF AGENDA
+- Development to take place before reading and approval of minutes
+- PLANNING AND DEVELOPMENT
+- Mayor Cable asked if anyone needs further discussion, no response
+- Further discussion took place, Ryan Natividad answered questions from the Board
+- Ryan is still required to go through the manufacturing application process with the state
+- If approved, Town of Nunn Marijuana Licensing Authority will then review and vote on the local license
+- 2. Vote for Ft. Collins Mobile Storage at 925 Lone Tree, permit application for sign
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- We did receive the final mill levy today, will likely need to schedule a Special Meeting to approve
+- POLICE REPORT
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PLANNING AND DEVELOPMENT continued
+- FINANCE/BUDGET/PERSONNEL
+- 1. Vote to approve Tim Chavies & Associates as auditing firm for the 2025 audit
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- 1. Vote for skid steer purchase
+- 1. Review of recommended engineering firm for the Town of Nunn Safer Street Grant, vote to approve
+- Kyle, Rick, Cathy and Tashia reviewed 5 bids presented, each scored individually, highest score 24-23
+- the Safer Streets Grant/Comprehensive plan
+- 2. Discussion and vote for funding of Water Tower/Bulk Fill Station/Hydrant Phase 5
+- Total ask was $81,551.00; $13,000.00 match already approved. We were awarded $50,000.00 which
+- Grant phase 5
+- 3. CDBG Grant was released today, will meet with engineer soon to get work started
+
+## [nunn#2] 2025-12-10 | City Council | minutes
+- Discussion and possible action of the following agenda items
+- APPROVAL OF AGENDA
+- 1. Adopt Resolution 2025-06 A RESOLUTION LEVYING GENERAL PROPERTY TAXES FOR
+- OF NUNN, COLORADO FOR THE 2026 BUDGET YEAR
+- adoption of Resolution 2025-06
+- 2. Review quote for purchase of computer equipment for Town Hall office, Public Works, and
+- Police Department
+- or an outright purchase for Dell quote ending in 339.2
+- 3. Discussion for sale of Christmas trees, employee has extra trees to sell
+
+## [nunn#3] 2025-12-18 | City Council | minutes
+- APPROVAL OF AGENDA
+- 1. Review permit application for storage building at 116 2 nd Street, Mark and Denise Sage were present
+- Town responsible for 20% of $5,000.00; use to purchase equipment for gymnasium
+- Need to update bleachers but not with this grant, too expensive
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- Report of speed study provided to the Board, helpful for the Safer Streets grant
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- 1. Adopt Resolution 2025-07
+- A RESOLUTION ADOPTING WELD COUNTY HAZARDOUS MITIGATION PLAN
+- 2. Adopt Resolution 2025-08
+- A RESOLUTION SUMMARIZING EXPENDITURES AND REVENUES FOR EACH FUND AND
+- ADOPTING A BUDGET FOR THE TOWN OF NUNN, COLORADO, FOR THE CALENDAR YEAR
+- 3. Adopt Resolution 2025-09
+- A RESOLUTION APPROPRIATING SUMS OF MONEY TO THE VARIOUS FUNDS AND SPENDING
+- AGENCIES FOR THE TOWN OF NUNN, COLORADO FOR THE 2026 BUDGET YEAR
+- PLANNING AND DEVELOPMENT
+- 1. Storage building permit application for 116 2 nd Street
+- 116 2nd Street. All in favor, motion carried
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- 2. Senior Center Grant match $7,500.00
+- Senior Center Grant
+- *Grant update was provided to the Board by Trustee Asher
+- PUBLIC COMMENTS
+
+## [nunn#4] 2026-01-08 | City Council | minutes
+- 1. Presentation by Chalk Bluffs Energy Project, Jeremy Call and 2 others
+- 2. Review Resolution 2026-01, Municipal Court Fees for 2026
+- 3. Review Resolution 2026-02, Holiday Schedule
+- 4. Review Resolution 2026-03, Town Fee Schedule
+- 5. Review of updated Resolution 2026-04, Northern Colorado Water Conservancy District
+- Planning & Development (Town Board)
+- Finance/Budget/Personnel
+- Public Safety (Police, Code Enforcement, Emergency Management)
+- Public Works (Facilities, Parks, Cemetery, Water, Technology)
+- Kyle, Cathy, and Matt (Town attorney) will meet with North Weld Water to review agreement
+- Grants (Town Board)
+
+## [nunn#5] 2026-01-22 | City Council | minutes
+- APPROVAL OF AGENDA
+- take place after approval of agenda
+- PLANNING AND DEVELOPMENT
+- 1. Review permit application for 430 5th Street, Hediger Enterprises
+- Hediger Enterprises at 430 5th Street
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- Working on CDBG and Safer Streets grants
+- Very few responses received on interactive map for Safer Streets, $50.00 gift card giveaway to encourage residents
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- 1. Adopt Resolution 2026-01
+- A RESOLUTION ESTABLISHING MUNICIPAL COURT FEE FOR 2026
+- 2. Adopt Resolution 2026-02
+- A RESOLUTION ESTABLISHING THE HOLIDAY SCHEDULE FOR 2026
+- 3. Adopt Resolution 2026-03
+- A RESOLUTION ESTABLISHING THE TOWN FEE SCHEDULE FOR 2026
+- 4. Adopt Resolution 2026-04
+- A RESOLUTION FOR NORTHERN COLORADO WATER CONSERVANCY DISTRICT
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- Chief Florence would like to donate our old MDTs to the Fire Department
+- Safer Streets will meet with Seniors on February 12 th, will also schedule with First Responders
+- Still waiting for contract on Water Plan
+- CDBG Grant for Senior Center was submitted
+- PUBLIC COMMENTS
+
+## [nunn#6] 2026-02-05 | City Council | minutes
+- 1. Review Resident request regarding water bill due to leak at property
+- 2. Review Resolution 2026-05, Designating the Public Place for posting town notices
+- 3. Review Resolution 2026-06, Cancellation of the 2026 Election and seat candidates for April
+- 5. Review updated 2024 IBC code including Colorado Wildfire resiliency code for ordinance
+- Can we split into 2 separate ordinances, one for 2024 IBC, one for Wildfire code
+- 6. Discussion of hydrant locks and keys for external hydrants within Town of Nunn
+- Planning & Development (Town Board)
+- Finance/Budget/Personnel
+- Public Safety (Police, Code Enforcement, Emergency Management)
+- Public Works (Facilities, Parks, Cemetery, Water, Technology)
+- Update on Water Services Agreement with North Weld, Town attorney is working on amendments and will
+- present the final agreement before Board approval
+- Water loss is still an issue, looking at additional meters around Town for more in depth monitoring of usage
+- Weld County Commissioner will be here on March 19th at 9:00 am, need Coffee and donuts
+- Grants (Town Board)
+- CDBG grant to repair
+- APPROVAL OF AGENDA
+- adjustment and #4 OEM presentation. All in favor, motion carried
+- 1. Adoption of Resolution 2026-05, Designating the Public Place for posting town notices
+- 2. Adoption of Resolution 2026-06, Cancel 2026 Election and seat Trustee Candidates
+- 3. Vote for water bill adjustment for 48920 CR 29, James and Karen Langston
+- 4. OEM, Presentation of appreciation letter, plaque, gift card to Denise Bradshaw
+
+## [nunn#7] 2026-02-19 | City Council | minutes
+- 1. Review renewal application for NOCO Farms LLC., Marijuana Cultivation Facility license #403R -01387
+- 2. Review renewal application for SPCY Canna LLC., Marijuana Cultivation Facility license #403R -01263
+- 3. Review renewal application for Ace’s Place LLC., Medical Marijuana Culivation Facility license
+- APPROVAL OF AGENDA
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- HRA representative present, request to possibly use the t-ball field in May/June
+- PLANNING AND DEVELOPMENT
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- Trustee Asher provided verbal update on grants
+- Master Water Plan Grant was approved but no communication from them
+- Presentation to Weld County for CDBG Senior Center, March 4 th
+- PUBLIC COMMENTS
+
+## [nunn#8] 2026-03-19 | City Council | minutes
+- 1. Review ordinance to adopt 2024 International Building Code updates, Russ Weber from Safe built
+- same as 2018 amendments
+- 2. Review 2025 Colorado Wild Fire Resiliency Code for future adoption
+- 3. Air card for MDT Nunn Police Dept
+- 1. Review renewal application for Soaring V Fuels LLC., license # 04 -01131
+- APPROVAL OF AGENDA
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- Water Training
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PLANNING AND DEVELOPMENT
+- Clayton Homes, wanting to move forward with development of 18 homes
+- Board needs to have additional discussion regarding plant investments, tap fees, future large developments
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- *Trustee Asher provided verbal update on Grants
+- Waiting on bids from abatement contractors
+- CDBG Senior Center application submitted
+- Safer Streets, youth outreach 3/20/2026 at 5:00 pm, move and pizza to follow
+- Water Tower submitted for congressional funding
+- Master Water Plan, waiting on agreement
+- Potential Grant to assist with identifying water loss, due early June
+- PUBLIC COMMENTS
+- 12 teams, possible soccer practice at Veteran’s Park April-June, 3 to 15 years old
+- Chief Florence notified that HRA office will be moving to smaller office
+
+## [nunn#9] 2026-04-02 | City Council | minutes
+- Discussion and possible action of the following agenda items
+- 1. Review asbestos abatement bids
+- 4 bids, ranging from $56,000 - $161,000
+- $56,000.00 total built into the grant for all work, with an additional $9,000; CDBG is giving us
+- 2. Vote on asbestos abatement contractor
+
+## [nunn#10] 2026-04-16 | City Council | minutes
+- Public Hearing
+- The Public Hearing of the Board of Trustees for the Town of Nunn for April 16th, 2026 was called to order at
+- ORDINANCE 329
+- AN ORDINANCE ADOPTING BY REFERENCE THE INTERNATIONAL BUILDING CODE, 2024 EDITION,
+- *No Public comment
+- APPROVAL OF AGENDA
+- review for 895 7th Street to #1, WSA review to #2, review for 1467 4th Street to #3, #4 cancelled due illness
+- 1. Permit application review for detached garage at 895 7 th Street
+- 2. North Weld Water Services Agreement, review with Town attorney Matt Gould
+- Additional questions and clarification needed in several areas of the agreement, Matt will continue to
+- review/amend and will provide the Board with a copy before sending a draft to North Wel d
+- 3. Permit application review for manufactured home at 1467 4 th Street, Frank and Maricela Rivas
+- paused WSA review at 7:12 pm to review permit application at 1467 7th Street, resume WSA at 7:18
+- purchase match for Tree Grant. All in favor, motion carried
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- Preparing for asbestos abatement and to blade roads
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PLANNING AND DEVELOPMENT
+- 1. Adopt Ordinance 329, update to Town Building Codes
+- 2. Permit 1467 4th Street
+- 3. Permit 895 7th Street
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- 2. Tree purchase match
+- PUBLIC COMMENTS
+
+## [nunn#11] 2026-05-21 | City Council | minutes
+- 1. Review renewal application for Ace’s Place LLC. Marijuana Cultivation Facility license #403R-01162
+- 2. Review renewal application for Ace’s Place LLC. Marijuana Manufacturing Facility license #404R -00460
+- 3. Review renewal application for Ace’s Place LLC. Medical Marijuana Manufacturing Facility license
+- 4. Review renewal application for Noco Farms LLC. Medical Marijuana Manufacturing Facility
+- 1. Review 24x48 pole barn permit application for 48153 CR 31. Resident Josh Raun present
+- 2. Review garage permit application for 1467 4 th St. Clayton Homes
+- APPROVAL OF AGENDA
+- Public Hearing/Work Session/Regular Meeting 4/16/2026. All in favor, motion carried
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- Public Hearing/Work Session/Regular Meeting 4/16/2026
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- Request to purchase pepper ball guns, not on the budget, total cost $969.00 per gun, includes case,
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PLANNING AND DEVELOPMENT
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- pepper ball guns for the Police Department
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- 1. Approved for Senior Center grant
+- 2. Review quote for ELEMECH, bulk water dispensing Station
+- 3. Review engineer letter for contractor bids- CDBG Community Center grant
+- PUBLIC COMMENTS
+- Kerri with HRA, invited Town to HRA Board BBQ on June 15 th 5-7 pm at Liberty Park in Ault
+
+## [nunn#12] 2026-06-04 | City Council | minutes
+- APPROVAL OF AGENDA
+- 1. -Review CDBG grant updates and determine direction for completion
+- $206,739.34 approved grant total
+- $17,500.00 engineering contract
+- Possible additional reimbursement from Weld County after completion of the project
+- Contractor bid for interior is $34,769.51 painting, $11,112.90 trophy case
+- Improvements to Town Hall are necessary and overdue, project can then be complete
+- 2. Review Master Drainage Plan and provide comments for engineering
+- Planning & Development (Town Board): Blue Spruce Development, attorney reviewing agreement
+- Finance/Budget/Personnel: Discuss % earned on savings account at next work session
+- Public Safety (Police, Code Enforcement, Emergency Management):
+- new tasers, upgrading PD vehicles, possibly have Megan help with PD grants
+- Public Works (Facilities, Parks, Cemetery, Water, Technology): working on bad spots in grass at Park and
+- Town Hall, dust suppressant June 18th, still working on PD laptops from Dell, water map questions, more updates
+- coming for Veteran’s memorial plan
+- Grants (Town Board): Master Drainage Community update on 6/11, Safer Streets Community outreach will be
+- part of Town booth at Nunn Days, Tree Grant letter of intent ($1,000 match approved), Gym replenishment grant
+- quotes from electricians and machine has been ordered, Water Tower grant waiting on committee vote, Master
+- Water Plan bid created. Trustee Babiarz appointed as co-chair of Grants, Trustee Buxton transition to public
+- 1. Vote for CDBG grant allocation for completion
+
+## [nunn#13] 2026-06-25 | City Council | agenda
+- Discussion and possible action of the following agenda items
+- APPROVAL OF AGENDA
+- READING AND APPROVAL OF MINUTES OF PREVIOUS MEETING, (Marijuana Licensing/ Work
+- APPROVAL TO PAY BILLS/TREASURER’S STATEMENT
+- POLICE REPORT
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PLANNING AND DEVELOPMENT
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code Enforcement, Emergency Management)
+- Discussion and vote for 1800.00 Taser battery charger
+- Discussion of Police Car repairs and vote for potential costs
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- Water Updates
+- PUBLIC COMMENTS
+
+## [nunn#14] 2026-07-16 | City Council | minutes
+- 1. 2025 Audit Presentation- Chad Chavies
+- 4. Discussion of resident request regarding dirt bikes
+- 5. Review Sunrise Solar Project permit application 49600 CR 29.5
+- 20-acre project, 10ft fence around perimeter with aluminum slats
+- Expect 50% plan submitted to Nunn in mid-August
+- Need in writing; dust mitigation/truck route during construction, eco plan, contingencies
+- 6. Review building permit application 430 5th Street- Bryce Hediger present
+- APPROVAL OF AGENDA
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
+- POLICE REPORT
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
+- PLANNING AND DEVELOPMENT
+- application. All in favor, motion carried
+- application for 430 5th Street, with a variance on lot lines. All in favor, motion carried
+- FINANCE/BUDGET/PERSONNEL
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
+- Hazard mitigation plan has been sent to FEMA
+- PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
+- 1. Gymnasium equipment discussion, put light equipment on stage
+- consider consulting CIRSA regarding potential risks
+- *Trustee Asher provided verbal update on grants
+- PUBLIC COMMENTS
+
+## [nunn#15] 2026-08-06 | City Council | minutes
 - 1. Review minor replat of two parcels for Hediger Farms
 - 2. Review Clayton Home building permit, lot 2 of RLD subdivision
 - 3. Review Clayton Home building permit, lot 3 of RLD subdivision
@@ -18,7 +345,7 @@
 - 2. Project Manager for CDBG Senion Center Grant
 - CDBG Senior Center Grant. All in favor
 
-## [nunn#1] 2026-08-20 | City Council | minutes
+## [nunn#16] 2026-08-20 | City Council | minutes
 - APPROVAL OF AGENDA
 - APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
 - APPROVAL TO PAY BILLS
@@ -40,7 +367,7 @@
 - Need to post Master Drainage Plan and Comprehensive Safety Plan online for 30 days
 - PUBLIC COMMENTS
 
-## [nunn#2] 2026-09-17 | City Council | agenda
+## [nunn#17] 2026-09-17 | City Council | agenda
 - Public Hearing
 - Discussion and possible action of the following agenda items
 - Review of Clayton Homes variance request for 1467 4th Street related to a proposed lot line adjustment
@@ -63,7 +390,7 @@
 - Review and approve application for Edward Byrne Jag Grant
 - PUBLIC COMMENTS
 
-## [nunn#3] 2026-10-08 | City Council | agenda
+## [nunn#18] 2026-10-08 | City Council | agenda
 - Discussion of the following:
 - 1. Preliminary Concept Plan review for Robert Kearny 20 acres previous Antelope Run
 - 2. Review RV Ordinance for Town of Nunn
@@ -77,7 +404,7 @@
 - PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
 - GRANTS (Town Board)
 
-## [nunn#4] 2026-10-15 | City Council | agenda
+## [nunn#19] 2026-10-15 | City Council | agenda
 - Discussion and possible action of the following agenda items
 - APPROVAL OF AGENDA
 - READING AND APPROVAL OF MINUTES OF PREVIOUS MEETING, (Work Session/Regular

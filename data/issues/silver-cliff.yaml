@@ -1,68 +1,100 @@
-- title: Workforce Housing IGA with Westcliffe
-  summary: The Board considered an intergovernmental agreement with Westcliffe on workforce housing at its September and October meetings. A draft was presented for approval in October, and the town attorney needed an electronic copy to adjust it. Troy Bomgardner also gave workforce housing information.
-  where: Silver Cliff and Westcliffe
+- title: Workforce housing agreement with Westcliffe and affordable housing project
+  summary: The Board considered a Workforce Housing intergovernmental agreement (IGA) with Westcliffe in September and October 2026, with a draft going back to the attorney for edits. Trustee Troy Bomgardner gave workforce housing updates, and the Planning Commission took up an affordable housing interior lot line request with site plans for five buildings. The board also acted on Resolution 06-2026 on Prop 123 in June.
+  where: Townwide
   refs:
-  - 0
-  - 2
+  - 4
+  - 8
+  - 9
+  - 10
   topics:
   - Housing
-  - Government operations
-- title: Affordable housing site plan and interior lot line request
-  summary: The Planning Commission reviewed an affordable housing proposal with five buildings of 1- to 3-bedroom units and 22 parking stalls. It also took up an interior lot line request. An October agenda item covers vacating lot lines at Silver Cliff Park.
-  where: Near Dewalt, French and Second Streets
-  refs:
-  - 1
-  - 3
-  topics:
-  - Housing
-  - Zoning & development
   - Land & property
-- title: 2027 budget presentation and workshop
-  summary: The proposed 2027 budget was presented to the Board on October 6 with no discussion or decisions. The Board was to set budget workshop dates. The Altitude Fitness funding request was deferred to the budget workshop.
+  - Government operations
+  public_comment: true
+- title: 'Park improvements: playground, pickleball and Silver Cliff Park lot lines'
+  summary: The town sought proposals in June 2026 for park work including dirt work, concrete curb and handicap parking at the playground, and pickleball site preparation, and the board was asked to award the contract. A part-time park employee was proposed, the GOCO grant account is being tracked, and the Planning Commission will look at vacating lot lines in Silver Cliff Park in October. The board also signed a release for the old playground equipment.
+  where: Silver Cliff Park
+  refs:
+  - 2
+  - 4
+  - 5
+  - 6
+  - 10
+  - 11
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Land & property
+- title: Excessive noise ordinance (Ordinance 01-2026)
+  summary: Ordinance 01-2026 amending Sec. 10-9-30 on excessive noise had a first reading in April, was tabled, and then went through second reading and a public hearing for consideration in June 2026.
   where: Townwide
   refs:
   - 2
+  - 3
+  - 4
   topics:
-  - Budget & taxes
-- title: Altitude Fitness funds request
-  summary: Altitude Fitness asked the town for funds. It appeared on the September agenda and was pushed to the budget workshop in October.
+  - Policing & public safety
+  - Government operations
+- title: Zoning code rewrite and Title 16 changes
+  summary: The Planning Commission has been working on a municipal code update through a rezoning committee and on Title 16 Zoning. The Board had a first reading of Ordinance 03-2026 amending Title 16 in June, and discussed state wildfire-resiliency building code requirements for the wildland-urban interface.
+  where: Townwide
   refs:
   - 0
+  - 1
   - 2
+  - 4
+  topics:
+  - Zoning & development
+  - Fire & emergencies
+- title: Dutch Pantry additional parking and rezoning request
+  summary: Matt Hershberger asked about buying land for additional employee and customer parking for Dutch Pantry. The property is zoned R3 and would need rezoning to B1 commercial.
+  where: Near Dutch Pantry
+  refs:
+  - 7
+  - 9
+  topics:
+  - Zoning & development
+  - Downtown & business
   public_comment: true
+- title: 2027 budget and budget workshops
+  summary: The proposed 2027 budget was presented on October 6, 2026 with no discussion or decisions, and the board set about scheduling budget workshops. The Altitude Fitness funding request is to be taken up at the workshop.
+  where: Townwide
+  refs:
+  - 8
+  - 10
   topics:
   - Budget & taxes
   - Recreation & trails
-- title: Rezoning request for employee and customer parking
-  summary: A property owner wants to buy land for additional employee and customer parking. It would need rezoning from R3 to B1 commercial. The Planning Commission discussed it at 612 E. Main Street.
-  where: 612 E. Main Street
+- title: Board meeting quorum and attendance rules (Ordinance 02-2026)
+  summary: After discussion of poor meeting attendance, the Board moved Ordinance 02-2026 amending Sec. 2-2-90 on meeting quorum through readings and a public hearing in June 2026. Trustees discussed requiring notice to the Town Clerk of absences.
+  where: Town Hall
   refs:
-  - 1
+  - 2
+  - 4
   topics:
-  - Zoning & development
+  - Government operations
+- title: CloudBreak decommissioning bond
+  summary: The board considered approving the CloudBreak decommissioning bond in April 2026. The documents give no further detail.
+  refs:
+  - 2
+  topics:
+  - Energy
   - Land & property
-- title: Cemetery regulations update (Ord. 05-2026)
-  summary: The Board held a first reading of Ordinance 05-2026, which amends the 2021 cemetery regulations (Ord. 04-2021).
+- title: Cemetery regulations update (Ordinance 05-2026)
+  summary: The board had a first reading of Ordinance 05-2026 amending the 2021 cemetery regulations in fall 2026.
   where: Town cemetery
   refs:
-  - 0
-  - 2
+  - 8
+  - 10
   topics:
   - Government operations
   - Land & property
-- title: Round Mountain Water and Sewer update
-  summary: The Planning Commission received an update on Round Mountain Water and Sewer.
+- title: 'Grants: Black Hills Energy and incentive award'
+  summary: The town received a grant award from Black Hills Energy and considered Resolution 05-2026 to accept it, plus Resolution 04-2026 accepting another grant. In October it considered Resolution 08-2026 on an incentive award grant.
+  where: Townwide
   refs:
-  - 1
+  - 4
+  - 10
   topics:
-  - Water
-  - Utilities
-- title: Museum and pavilion re-staining and Humane Society agreement
-  summary: The Board considered a quote to re-stain the museum and pavilion. It also considered an agreement with Fremont County Humane.
-  where: Silver Cliff museum and pavilion
-  refs:
-  - 2
-  topics:
-  - Historic preservation
-  - Government operations
-  - Agriculture & wildlife
+  - Budget & taxes
+  - Energy

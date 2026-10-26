@@ -1,28 +1,116 @@
-- title: Transit-Oriented Communities housing study and HB 24-1313 compliance
-  summary: Consultant Matrix Design Group presented a project update to the Planning and Zoning Commission on August 12, 2026, covering existing conditions, housing market and economic feasibility findings. The study is meant to guide Edgewater's response to state law HB 24-1313 on housing capacity near transit, and will move next into housing, land use, transportation and implementation strategies.
+- title: Zoning Code Update and rewrite (RLI, RMLI, RMHI districts)
+  summary: The city is rewriting its zoning code with a Technical Focus Group. The group's June 8, 2026 meeting reviewed proposed residential districts (RLI, RMLI, RMHI), rear-lot intensification, building heights and floor area limits, balancing more housing against Edgewater's cottage-scale character. The code update is also tied to HB24 state housing requirements and the Edgewater 2040 Comprehensive Plan.
   where: Citywide
   refs:
-  - 0
-  - 1
+  - 9
+  - 10
+  - 11
+  - 17
+  - 18
+  - 24
+  topics:
+  - Zoning & development
+  - Housing
+- title: Transit-Oriented Communities housing study (HB 24-1313)
+  summary: Consultant Matrix Design Group is running a Transit-Oriented Communities planning project and presented existing conditions, housing market and economic feasibility findings to Planning and Zoning on Aug. 12, 2026. The work is meant to shape Edgewater's response to HB 24-1313 housing capacity requirements and to guide housing, land use and transportation strategies.
+  where: Citywide
+  refs:
+  - 12
+  - 13
+  - 21
+  - 22
   topics:
   - Housing
   - Transit
   - Zoning & development
-- title: Right-of-Way Funding Sales Tax Ballot Measure
-  summary: A proposed sales tax ballot measure to fund the city's rights-of-way is on the Board of Adjustment and Appeals agenda for September 16, 2026. The documents give no details on the amount or the outcome.
+- title: Proposition 123 affordable housing fast-track review policy
+  summary: Staff proposed a resolution adopting an expedited review policy for qualifying affordable housing, with a 90-day review period. Adopting it by June 30, 2026 makes Edgewater eligible for about $45,000 in state incentive funding, which staff would use for affordable housing tools in the zoning code update.
   where: Citywide
+  refs:
+  - 12
+  - 13
+  - 14
+  - 15
+  topics:
+  - Housing
+  - Zoning & development
+- title: Sheridan Boulevard safety improvements with CDOT
+  summary: Planning and Zoning was briefed on the updated Sheridan Corridor Multimodal Plan, coordinated with CDOT, for Sheridan Boulevard between 17th and 26th Avenues, a high-injury corridor. The design adds ADA improvements and signal timing changes, and construction is expected to begin in late 2026.
+  where: Sheridan Boulevard, 17th to 26th Avenues
+  refs:
+  - 12
+  - 13
+  topics:
+  - Roads & traffic
+  - Transit
+- title: 2026 budget, tax levy and audit findings
+  summary: Council reviewed department budget presentations, set the 2025 tax levy, and scheduled adoption of the annual budget in December. The City Manager called next year's budget very tight. The 2024 audit presentation prompted talk of water, sewer and trash losses, segregation of duties and rate increases.
+  where: Citywide
+  refs:
+  - 5
+  - 6
+  - 7
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  - Utilities
+  public_comment: true
+- title: Local minimum wage ordinance 2025-23
+  summary: Council took up an ordinance amending the local minimum wage and tip provisions of the municipal code, effective January 1. First reading was Nov. 25, 2025 and second reading was scheduled Dec. 16.
+  where: Citywide
+  refs:
+  - 5
+  - 6
+  - 7
+  topics:
+  - Economic development
+  - Government operations
+- title: Right-of-way funding sales tax ballot measure
+  summary: A sales tax ballot measure for right-of-way funding was presented to city boards, including the HARP board and the Board of Adjustment, in August and September 2026.
+  where: Citywide
+  refs:
+  - 23
+  - 24
+  topics:
+  - Budget & taxes
+  - Elections
+  - Roads & traffic
+- title: Rezonings at 2525 Harlan St. and 2403 Fenton St.
+  summary: Planning and Zoning held public hearings and recommended approval to City Council of a rezoning of 2525 Harlan Street to Residential 2, and of 2403 Fenton Street from R-1 and R-3.
+  where: 2525 Harlan St. and 2403 Fenton St.
+  refs:
+  - 0
+  - 1
+  - 9
+  - 11
+  topics:
+  - Zoning & development
+  - Housing
+- title: Accessory dwelling unit ordinance and home rule dispute
+  summary: Planning and Zoning recommended an ordinance amending Chapter 16 on accessory dwelling units, driven by state legislation. Resident Larry Welshon objected, citing home rule authority. Council tabled Resolution 2025-14 affirming home rule authority.
+  where: Citywide
+  refs:
+  - 1
+  - 6
+  topics:
+  - Housing
+  - Zoning & development
+  - Government operations
+  public_comment: true
+- title: Foothills Animal Shelter intergovernmental agreement
+  summary: Council considered Resolution 2026-02 approving an amended intergovernmental agreement with Jefferson County, Arvada and others on animal sheltering, licensing and funding for the Foothills Animal Shelter.
+  where: Foothills Animal Shelter
+  refs:
+  - 8
+  topics:
+  - Government operations
+  - Fees & rates
+- title: Accessory structure height variance
+  summary: The Board of Adjustment heard a variance request for a 20'2" accessory structure, over the 15-foot limit. It also approved a variance allowing rear-lot parking access closer than five feet to the side lot line.
+  where: Residential 1 (R-1) property
   refs:
   - 2
   - 3
   topics:
-  - Budget & taxes
-  - Roads & traffic
-- title: Comprehensive Zoning Code Update
-  summary: The city's ongoing zoning code update is being coordinated with the transit-oriented communities housing study. It is also on the September 16, 2026 Board of Adjustment and Appeals agenda as a project item.
-  where: Citywide
-  refs:
-  - 1
-  - 3
-  topics:
   - Zoning & development
-  - Housing
+  - Land & property

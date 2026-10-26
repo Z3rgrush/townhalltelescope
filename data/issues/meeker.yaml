@@ -1,37 +1,47 @@
-- title: Draft 2026 Town of Meeker budget
-  summary: Council was scheduled to receive a presentation of the draft Town of Meeker 2026 budget at its October 6 meeting. The agenda does not say what decisions were made.
-  where: Townwide
+- title: Circle Park water rights discussion
+  summary: The Council's October 6 agenda includes a discussion of water rights for Circle Park, along with a final water report from Micheal Erion. The documents give no details on the outcome.
+  where: Circle Park, Meeker
   refs:
-  - 2
-  topics:
-  - Budget & taxes
-- title: Circle Park water rights discussion and final water report
-  summary: The October 6 agenda has a discussion of Circle Park water rights and a final water report from Micheal Erion. The documents give no details on outcomes.
-  where: Circle Park
-  refs:
-  - 2
+  - 8
   topics:
   - Water
   - Parks & open space
-- title: Oversized sign variance at 43904 Highway 13
-  summary: A public hearing was set on David Bradfield's request for a variance to put up a sign larger than the maximum allowed at 43904 Highway 13 in the Curtis Creek Industrial Park area.
-  where: 43904 Highway 13
+- title: Draft Town of Meeker 2026 budget
+  summary: The Council is scheduled to see a presentation of the draft 2026 town budget on October 6. A presentation from Pioneers Medical Center is also on the same agenda.
+  where: Townwide
   refs:
-  - 1
+  - 8
+  topics:
+  - Budget & taxes
+- title: Short-term rental conditional use permit at Chase Rule's property
+  summary: The Council held a public hearing on February 23 on a conditional use permit for Chase Rule to run a short-term rental. The street address is cut off in the agenda.
+  where: Meeker (address truncated, 970...)
+  refs:
+  - 3
+  topics:
+  - Short-term rentals
+  - Zoning & development
+- title: Setback variance requests (891 3rd Street, 325 Curtis Creek Drive, 390 Market Street)
+  summary: The Council heard variance requests to reduce setbacks. Theodore and Jana Dawson asked for a side yard setback of about 6 feet at 891 3rd Street. Renninger Investments asked for a 0-foot front yard setback at 325 Curtis Creek Drive. Training Grounds, LLC asked for a reduced side yard setback at 390 Market Street.
+  where: 891 3rd Street; 325 Curtis Creek Drive; 390 Market Street
+  refs:
+  - 3
+  - 5
   topics:
   - Zoning & development
-  - Downtown & business
-- title: Eight-foot fence variance at 172 Water Street
-  summary: A public hearing was set on Jessica and Matt Franks' request to build an eight-foot-tall fence at 172 Water Street. The agenda does not state the result.
-  where: 172 Water Street
+  - Land & property
+- title: Sign and fence variances (43904 Highway 13 and 172 Water Street)
+  summary: On August 3 the Council took up two variance requests. David Bradfield asked to put up a sign larger than the maximum at 43904 Highway 13. Jessica and Matt Franks asked to build an eight-foot fence at 172 Water Street.
+  where: 43904 Highway 13; 172 Water Street
   refs:
-  - 1
+  - 7
   topics:
   - Zoning & development
-- title: Pioneers Medical Center presentation
-  summary: Pioneers Medical Center was scheduled to give a presentation to Council at the October 6 meeting. The agenda gives no topic details.
-  where: Pioneers Medical Center
+- title: Home occupation and right-of-way encroachment requests
+  summary: On July 13 the Council considered a home occupation conditional use for Tevin Pelloni at 440 Garfield Street. It also considered an encroachment request from Rebekah and Justin Grant to access the town's right-of-way in Sanderson Hills Subdivision.
+  where: 440 Garfield Street; Sanderson Hills Subdivision
   refs:
-  - 2
+  - 5
   topics:
-  - Health & human services
+  - Zoning & development
+  - Land & property

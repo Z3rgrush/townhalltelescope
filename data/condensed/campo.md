@@ -1,6 +1,559 @@
 # campo
 
-## [campo#0] 2026-08-06 | Technical Coordinating Committee | minutes
+## [campo#0] 2025-11-06 | Technical Coordinating Committee | minutes
+- Griffee, Chris Garcia, Tucker Fulle, Landon Chandler, Bret Martin, Tanner
+- The following adjustment to the Agenda was requested by Staff:
+- Paul Black motioned to approve the removal of Item #5.4 from the Agenda. Bret
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of October 2, 2025
+- Requested Action: Approve the TCC Meeting Minutes of October 2, 2025
+- Emma Linn motioned to approve the TCC Minutes of October 2, 2025. Chris
+- Requested Action: Approve the FY 2026 Q2 Wake Transit Work Plan amendment requests and
+- the Period of Performance extension requests
+- A - FY 2026 Q2 WTWP Amendment Requests
+- B - FY 2026 Period of Performance Extension Requests
+- Mr. Mott provided an overview of the three FY 2026/Q2 Wake Transit Work Plan
+- Amendment Requests and the 18 FY 2026 Period of Performance Extension Requests
+- Performance Extension Request was for two years, not one
+- Brandon Watson motioned to recommend the Executive Board approve the FY
+- 2026 2nd Quarter Wake Transit Work Plan amendment requests and the FY 2026
+- Period of Performance extension requests. Bret Martin seconded the motion. The
+- 5.2 Adoption of the Recommended 2035 Wake Transit Plan
+- Recommended 2035 Wake Transit Plan
+- 2035 Wake Transit Plan Appendices
+- 2035 Wake Transit Plan Engagement Summary - Phase 4
+- Mr. Mott provided an overview of the Recommended 2035 Wake Transit Plan, noting the
+- that all routes will operate 365 days a year by 2035 and stated that the goal is to make
+- feedback received, noting the concerns regarding safety and BRT and the desire for
+- initial review and recommendations. He stated that GoTriangle has reviewed the Plan and
+- requested the following revision to the footnote(s) in the Plan regarding the VRT revenue:
+- “The portion of the Regional Vehicle Rental Car Tax Revenue attributable to Wake
+- Transit continues to be under discussion by the Wake Transit Conference Committee
+- GoTriangle Board of Trustees.” TPAC considered this request and did not recommend
+- including the language, instead providing the following feedback: “TPAC believes that the
+- Conference Committee to remove the VRT from the Plan, and its inclusion would indicate
+- that any decision by the Conference Committee on inclusion of the vehicle rental tax
+- (VRT) revenue is binding on the TPAC; however, they feel that the language in the
+- Recommended Plan provides that clarity and no further revision is necessary.” He
+- presentation on the Plan at their meeting on November 5, 2025, and recommended
+- adoption of the Plan to the GoTriangle Board of Trustees with the following added
+
+## [campo#1] 2025-11-19 | Executive Board | minutes
+- 4. Public Comments
+- Joe Milazzo, RTA, applauded NCDOT and CAMPO for partnering to accelerate the
+- Capital Boulevard/US 1 North project and expressed support for the recommended 2035
+- Wake Transit Plan and his desire to continue seeing additional funding and support for it
+- Natalie Lew spoke regarding the Triangle Bikeway Project, providing some historical
+- background on the area and expressing her opposition to the Project. She noted there
+- were issues with mining regulations, the property’s zoning, and several active lawsuits
+- Board Member Bobby Wheeler motioned to approve the Consent Agenda. Board
+- Requested Action: ..Action Approve the Executive Board Meeting Minutes of
+- Requested Action: Approve the Executive Board Meeting Minutes of October 15, 2025
+- This item was approved unanimously as part of the Consent Agenda
+- Requested Action: Approve the FY 2026 Q2 Wake Transit Work Plan amendment requests and
+- the Period of Performance extension requests
+- A - FY 2026 Q2 WTWP Amendment Requests
+- B - FY 2026 Period of Performance Extension Requests
+- 5.3 Community Funding Area Program Management Plan Update
+- Requested Action: Approve the updated Community Funding Area Program Management Plan
+- Updated Community Funding Area Program Management Plan
+- Requested Action: Adopt the updated regional 2025 transit performance measures and targets and
+- the resolution supporting targets for Public Transportation Agency Safety Plan
+- Corrected Exhibit A to Resolution - Distributed at Meeting
+- Requested Action: Approve the CAMPO 2026 Safety Performance Measures and Targets
+- 6. Public Hearings
+- 6.1 2055 Metropolitan Transportation Plan (MTP/CTP) Update
+- Requested Action: Conduct public hearing. Consider approval of the 2055 MTP/CTP projects and
+- MTP Maps & Project List Handout
+- hearing for step one of the adoption process. The final adoption step will be in February
+- Roadway Element: Technical corrections for the Town of Apex, including revising
+- and that Staff is updating the Plan as they receive those changes. He noted that the
+- recommended revenue option will fund an additional 42 projects. All data and analysis
+- recommended approval of the Plan, subject to the removal of the U-5307 (Capital
+- Blvd./US 1 North) Project as a tolled project. He provided an overview of the public
+- engagement goals, tactics, participation, and feedback themes and added that a full
+- Mr. Lukasina stated that, overall, the comments show general support for the Plan. He
+- spoke regarding the U5307 (Capital Blvd./US 1 North) Project and the Board’s prior action
+- authorizing tolling of that road, or any other means necessary, to accelerate the Project
+
+## [campo#2] 2026-01-08 | Technical Coordinating Committee | minutes
+- McCarthy, Lucy Garcia, and Julian Griffee
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of November 6, 2025
+- Requested Action: Approve the TCC Meeting Minutes of November 6, 2025
+- Paul Black motioned to approve the TCC Minutes of November 6, 2025. Het Patel
+- Requested Action: Conduct elections for Chair and Vice Chair of the TCC for 2026
+- Requested Action: Receive as information
+- Mr. Wert provided an overview of the cost estimate challenges and improvements over
+- a new milestone in project delivery for projects selected through prioritization that will help
+- project delays. He spoke regarding the appropriate times for CSCE documentation based
+- on project size and other factors and the required Project Definition Document (PDD) and
+- Cost Verification Memo (CVM). He noted that, of the 475 projects currently scheduled for
+- Complete (RPC) milestone. The expectation is that, by September 30, 2027, all projects
+- He stated that many of the approximately 300 projects mentioned above are close to
+- for LAPs (for projects selected through prioritization)
+- projects and that transit projects would not necessarily come through
+- will be the same as with any other project delivery process. He added that different
+- CSCE for local bike/pedestrian SPOT projects as a part of the project design process. In
+- response to Mr. Martin’s second inquiry, Mr. Wert noted that projects typically compete
+- design in order to compete and the CSCE being required before a project gets into the
+- Chris Lukasina noted the ripple effects on project costs and other problems with some of
+- CAMPO’s large projects over the years and commented that the CSCE is an important
+- process improvement. He stated that CAMPO currently has 27 projects programmed that
+- months to help CAMPO create a clear plan, with milestones, for those projects to meet
+- Program Managers are digging into more detail to see where each project is at and that
+- projects” and commented on the different effects the new rule will have on small versus
+- large projects
+- years, with most projects being within five years
+- Responding to Mr. Lukasina, Mr. Wert stated that many projects already have to compete
+- projects to recompete, David Wasserman, NCDOT, stated that it will depend on how long
+- it takes to complete the CSCE. He noted that projects that involve public comment, are
+- Alex Rickard inquired about which projects on NCDOT’s list are led by NCDOT and which
+- are led locally. He specifically asked if the Western Boulevard Tunnel Project would be
+
+## [campo#3] 2026-01-21 | Executive Board | minutes
+- Staff requested the addition of the following item to the Agenda:
+- 4. Public Comments
+- There were no public comments
+- Board Member Neil McPhail motioned to approve the Consent Agenda. Board
+- Requested Action: ..Action Approve the Minutes of November 19, 2025
+- Requested Action: Approve the Minutes of November 19, 2025
+- This item was approved unanimously as part of the Consent Agenda
+- 5.2 Wake Bus Plan 2035 Contract
+- Requested Action: Approve the Wake Bus Plan 2035 Contract with Nelson\Nygaard and authorize
+- the Executive Director to execute the contract
+- Draft CAMPO Wake Bus Plan 2035 Contract
+- Wake Bus Plan 2035 Scope of Work
+- 5.3 FY 2025 Congestion Management Process - Resolution Correction
+- Requested Action: Approve the corrected resolution for the Congestion Management Process
+- Corrected Resolution
+- 6. Public Hearing
+- 6.1 2055 Metropolitan Transportation Plan
+- Requested Action: Receive as information
+- Mr. Lukasina summarized the 2055 Metropolitan Transportation Plan (MTP) update and
+- Board approved the draft MTP in November 2025. He noted that all documents and
+- analysis regarding the Plan are available on the 2055 MTP webpage
+- Vice Chair Butch Lawter opened the public hearing
+- Kuanyu Chen commented that the MTP is a good document and requested that safety be
+- After all public comments had been received, Vice Chair Lawter closed the public
+- After the public hearing was held, this item was received as information
+- End of Public Hearing
+- Requested Action: Conduct elections for Chair and Vice Chair of the Executive Board for 2026
+- Mr. Wert provided an overview of the cost estimate challenges and improvements over
+- a new milestone in project delivery for projects selected through prioritization that will help
+- project delays. He summarized the goals and expected outcomes of the new
+- requirement, noted that CSCEs will not be required for locally selected projects, and
+- spoke regarding the appropriate times for CSCE documentation based on project size
+- alternative” refers to simpler projects that may only have one alternative option, versus
+- more complex projects, like 540, where multiple alternatives and options are available
+- Mr. Wert continued with his presentation by noting that this requirement will be tailored to
+- individual projects and their levels of complexity. He provided an overview of the required
+- Project Definition Document (PDD) and Cost Verification Memo (CVM). He stated that,
+- once approved, project scopes should not change much and that only tweaks might be
+- cost certainty earlier in the process. He stated that NCDOT is focusing on those projects
+
+## [campo#4] 2026-02-05 | Technical Coordinating Committee | minutes
+- Stephenson, Julian Griffee, Chris Garcia, Tucker Fulle, Landon Chandler, Bret
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Minutes of January 8, 2026
+- Requested Action: Approve the TCC Minutes of January 8, 2026
+- Jenna Shouse made a motion to approve the TCC Minutes of January 8, 2026
+- 5.1 Locally Administered Projects Program Additional Funding Request
+- Requested Action: Review additional funding request for the City of Raleigh’s Crabtree Creek
+- Greenway at Lassiter Mill (BL-0027) project and consider recommending
+- Executive Board approval
+- City of Raleigh Request - BL-0027
+- Mr. Rickard provided an overview of the process for approving additional funding requests
+- and provided an overview of the City of Raleigh’s additional funding request. He noted that
+- the cost estimate is just an estimate as the bid opening is not until February 10, 2026
+- all additional funding requests require a 50/50 match, regardless of the original split
+- that the bids will be in the neighborhood of the estimate and added that Staff will note for
+- the Executive Board that TCC’s recommendation for approval is based upon the current
+- cost estimate. If the bids come in higher than the estimate, the Executive Board will be
+- asked to consider the new estimate
+- Bynum Walter made a motion to recommend Executive Board approval of the
+- Locally Administered Projects Program additional funding request for the City of
+- Raleigh’s Crabtree Creek Greenway at Lassiter Mill (BL-0027) Project. Paul Black
+- Requested Action: Recommend Executive Board approval of the FFY 2027 LAPP Investment
+- FFY27 LAPP Selection Panel Discussion
+- FFY27 LAPP Recommended Projects Map
+- Mr. Rickard spoke regarding the previous Staff direction to review the projects to ensure
+- and the LAPP rules, the projects are scheduled to be obligated on time. He provided a
+- recap of the project submittals, noted that the FFY 2027 Target Modal Mix is the same
+- roadway projects: Rolesville at Riley Hill – realignment, Holly Springs Road – Central,
+- Parkway Intersection Improvements. He noted that the original Board-Adopted Target
+- Smith Creek Greenway Phases 2 and 3 Project. The Committee unanimously approved
+- the funding of this additional project. He compared the target versus recommended
+- expected to come before the LAPP Committee for consideration of raising the mix. There
+- Emma Linn made a motion to recommend Executive Board approval of the FFY
+- 5.3 Amendment #2 to FY 2026-2035 Transportation Improvement Program
+- Requested Action: Recommend Executive Board approval of Amendment #2 to the FY 2026-2035
+
+## [campo#5] 2026-02-18 | Executive Board | minutes
+- There were no amendments to the Agenda
+- 4. Public Comments
+- slope and requested that CAMPO insist its regional transit providers only invest in flat
+- Board Member Janet Cowell motioned to approve the Consent Agenda. Board
+- Requested Action: ..Action Approve the Executive Board Meeting Minutes of January
+- Requested Action: Approve the Executive Board Meeting Minutes of January 21, 2026
+- 5.2 FY 2026 3rd Quarter Wake Transit Work Plan Amendment Requests
+- Requested Action: Approve the FY 2026 3rd Quarter Wake Transit Work Plan amendment
+- FY 2026 Q3 Wake Transit Work Plan Amendments
+- 5.3 NCSU-ITRE Master Service Agreement Amendment
+- Requested Action: Approve extension of the Master Service Agreement to June 30, 2031
+- NCSU-ITRE MSA Amendment
+- 5.4 Apex Pleasant Park Access Study Interlocal Agreement
+- Requested Action: Approve the attached Apex Pleasant Park Access Study Interlocal Agreement
+- and authorize CAMPO’s Executive Director to execute the Interlocal Agreement
+- Interlocal Agreement
+- 6. Public Hearings
+- Requested Action: Conduct Public Hearing. Adopt the FY 2027 Unified Planning Work Program and
+- Federal Planning Certification Resolution
+- Resolution of Adoption - FY 2027 UPWP
+- Resolution of Federal Certification - FY 2027
+- highlighting its continuing FY 2026 studies, new FY 2027 studies, technical projects
+- population growth, and the indirect cost estimate. She noted that no public comments
+- Chair Butch Lawter opened the public hearing
+- There were no public comments
+- Upon hearing no public comments, Chair Lawter closed the public hearing
+- Work Program and Federal Planning Certification resolutions. Board Member
+- 6.2 Program Management Plan Update: 5310 Enhanced Mobility of Seniors
+- Requested Action: Conduct Public Hearing. Endorse the 2026 Section 5310 Program Management
+- 5310 Program Management Plan Update
+- Ms. Powell provided an overview of the Section 5310 Program Management Plan for the
+- advance of the 2027 grant cycle. She noted that no public comments were received
+- during the comment period. She added that CAMPO is preparing a Fall Call for Projects
+- Management Plan. Board Member Harold Weinbrecht seconded the motion. The
+- Requested Action: Conduct a public hearing and consider approval of the FFY 2027 LAPP
+- FFY27 LAPP Selection Panel Discussion
+- FFY27 LAPP Recommended Projects Map
+- Mr. Rickard provided an overview of the 19 projects submitted for the FFY 2027 LAPP
+- Program, the LAPP Program and its target modal mix, the Project Selection Process and
+- that the Selection Committee recommended funding the top four scoring roadway
+
+## [campo#6] 2026-03-05 | Technical Coordinating Committee | minutes
+- Sandi Bailey, Conrad Olmedo, Chris George, Tracy Stephenson, Julian Griffee,
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of February 5, 2026
+- Requested Action: Approve the TCC Meeting Minutes of February 5, 2026
+- Emma Linn made a motion to approve the TCC Minutes of February 5, 2026. Het
+- Requested Action: Receive as information
+- Rachel Gaylord-Miles, WSP, provided an overview of FAST Transit and the development
+- (DMSS), and Direct Access Ramps. He identified where each was planned for and
+- Arterial Concept and the Blue Ridge Road RED Transit Priority Lanes Concept. He noted
+- Responding to Conrad Olmedo’s inquiry regarding consideration of I-540 being used for
+- transit, Mr. Saur stated that some BOSS is being considered on I-540 North, but that
+- I-540 was identified as a longer-term transit network opportunity. He noted that there were
+- 5.2 Regional Transit Technology Plan
+- Requested Action: Approve the Regional Transit Technology Plan as guiding document for future
+- Regional Technology Plan
+- Regional Technology Plan-Budget Summary
+- Regional Technology Plan-Engagement Summary Report
+- Austin Stanion, GoTriangle, provided an update on the Plan, noting that TPAC approved
+- it last month. He spoke regarding the Plan’s intent and timeframe and credited it as a
+- regional effort. He listed the six transit focus areas identified: Passenger Real Time &
+- Integrated Payments, GTFS Standards, and Open Data Portal. He provided details on
+- each area, highlighting the Plan recommendations and cost estimates. He then
+- Mr. Mott acknowledged all of the partners brought together and noted that the Plan was a
+- decision to initiate an additional 30-day public comment period to adhere to CAMPO
+- Mr. Stanion clarified that the actual verbiage of the motion approved by TPAC was, “to
+- endorse and recommend governing board approval of the updated Regional Transit
+- Technology Plan as a guiding document for future technology investment.” He noted that
+- this language reflects the Committee’s intention that the plan should guide transit
+- Responding to Bret Martin’s question regarding the differences between the requested
+- action on the Agenda and in the presentation, Mr. Mott clarified that TPAC had a lengthy
+- discussion on the recommendation and that the verbiage on the presentation slide is
+- Bret Martin made a motion to recommend Executive Board approval of the
+- updated Regional Transit Technology Plan as a guiding document for future
+- 5.3 Draft FY 2027 Wake Transit Work Plan
+- Draft FY 2027 Wake Transit Work Plan Flyer
+
+## [campo#7] 2026-03-18 | Executive Board | minutes
+- There were no amendments to the Agenda
+- 4. Public Comments
+- There were no public comments
+- Board Member Neil McPhail motioned to approve the Consent Agenda. Board
+- Requested Action: ..Action Approve the Executive Board Meeting Minutes of
+- Requested Action: Approve the Executive Board Meeting Minutes of February 18, 2026
+- Requested Action: Approve the CAMPO Local Input Methodology for use in Prioritization 8
+- 5.3 Locally Administered Projects Program Additional Funding Request
+- Requested Action: Review additional funding request for the City of Raleigh’s Crabtree Creek
+- Greenway at Lassiter Mill (BL-0027) project and consider approval
+- City of Raleigh Request - BL-0027
+- 6.1 Regional Transit Technology Plan
+- Requested Action: Approve the Regional Transit Technology Plan as guiding document for future
+- Regional Technology Plan
+- Regional Technology Plan-Budget Summary
+- Regional Technology Plan-Engagement Summary Report
+- Austin Stanion, GoTriangle Staff, provided an update on the Plan, noting that TPAC
+- approved it last month. He spoke regarding the Plan’s intent and timeframe and credited
+- it as a regional effort. He listed the six transit focus areas identified: Passenger Real
+- Integrated Payments, GTFS Standards, and Open Data Portal. He provided details on
+- each area, highlighting the Plan recommendations and cost estimates. He then
+- additional 30-day public comment period to adhere to CAMPO policy. He stated that no
+- public comments had been received
+- getting off at RUSS. Board Member Morgan requested that he ensure that any vendors
+- Board Member Patrick Hannah motioned to approve the Regional Transit
+- Technology Plan as a guiding document for future technology investment. Board
+- Requested Action: Receive as information
+- Rachel Gaylord-Miles, WSP, provided an overview of FAST Transit and the development
+- (DMSS), and Direct Access Ramps. He identified where each was planned for and
+- Arterial Concept and the Blue Ridge Road RED Transit Priority Lanes Concept and
+- are two pieces to consider, bus speed and exposure for buses interacting with traffic. He
+- the current ROW on I-40, near Trinity Road
+- overview of the Wake BRT Program. He noted that the New Bern Avenue Project is in the
+- construction phase and spoke regarding the City’s difficulties in getting bids. He stated
+- and Northern Corridor projects and their statuses
+- 6.4 Draft FY 2027 Wake Transit Work Plan
+- Draft FY 2027 Wake Transit Work Plan Flyer
+- Mr. Mott provided an overview of the Draft FY 2027 Wake Transit Work Plan, noting the
+- key dates, total investments, implementation of the Wake Transit Plan 2035, vehicle
+
+## [campo#8] 2026-04-02 | Technical Coordinating Committee | minutes
+- Griffee, Chris Garcia, Tucker Fulle, Landon Chandler, Bret Martin, Emma Linn,
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of March 5, 2026
+- Requested Action: Approve the TCC Meeting Minutes of March 5, 2026
+- Paul Black made a motion to approve the TCC Meeting Minutes of March 5, 2026
+- Requested Action: Receive as information
+- Ms. Kolling provided an overview of the TDM Program, FY25 funding and grant recipients,
+- FY25 grant recipients in the CAMPO region, outreach events and efforts, annual impacts
+- 5.2 FY 2026 UPWP - Amendment #2
+- Requested Action: Recommend the Executive Board adopt Amendment #2 to the FY 2026 Unified
+- FY 2026 UPWP - Amendment #2
+- Ms. Powell stated that this is an administrative amendment to reprogram FY 2024
+- Planning grant application
+- Paul Black made a motion to recommend Executive Board adopt Amendment #2
+- with NCDOT Division 5 to go through each project on the original candidate list and
+- identify their actual scopes and determine more realistic costs. The updated Candidate
+- Project List includes a project to construct a two-lane bridge over the Neuse River and
+- the removal of the East Garner Road/Jones Sausage Road project. He provided an
+- the selected projects and added that he hopes to include these recommended projects
+- into Amendment #3 to the FY26-35 TIP, which is the next item on the Agenda
+- Responding to Tim Gardiner’s inquiry regarding the projects not being considered, Mr
+- allocation in May 2026, noting that we are already over budget in that area
+- Mr. Rickard noted that we generally receive positive public feedback on these projects
+- 5.4 Amendment #3 to FY 2026-2035 Transportation Improvement Program
+- TIP Amendment #3
+- Mr. Rickard provided an overview of the quarterly TIP amendment, noting that it includes
+- adjustments. He provided the following updates and noted that the public hearing will be
+- AO-0004 is the new RDU project for the interchange at Aviation Boulevard and
+- by RDU, but they may also seek grant funding for it
+- The Jenks Carpenter Road/Green Level Church Road Street Side Trails Project is a
+- FY 2026 LAPP project in Cary that is not able to proceed and needs to be removed from
+- HC-0169 is a FY 2026 road project previously identified as W-5805E. This was just
+- an administrative change in project identification number
+- TD-5314 is a Wake Transit Park & Ride project at GoTriangle. The funds have been
+- reassigned to another GoTriangle project, and it needs to be removed from the TIP
+- 6. Informational Item: Budget
+- 6.1 Operating Budget, FY2026
+
+## [campo#9] 2026-04-15 | Executive Board | minutes
+- 4. Public Comments
+- There were no public comments
+- Board Member John Allers motioned to approve the Consent Agenda. Board
+- Requested Action: ..Action Approve the Executive Board Meeting Minutes of March
+- Requested Action: Approve the Executive Board Meeting Minutes of March 18, 2026
+- 5.2 FY 2026 UPWP - Amendment #2
+- Requested Action: Adopt Amendment #2 to the FY 2026 Unified Planning Work Program
+- FY 2026 UPWP - Amendment #2
+- Resolution of Adoption
+- Requested Action: Receive as information
+- FY 2025 Annual Impact Report, including FY 2025 funding and grant recipients, FY 2025
+- grant recipients in the CAMPO region, outreach events and efforts, annual impact
+- Mr. Rickard provided an overview of the Strategic Transportation Investments law (STI)
+- regarding the selection process and the 16 projects selected. Since last presented, Staff
+- has worked with NCDOT Division 5 to go through each project on the original candidate
+- list and identify their actual scopes and determine updated costs. He highlighted several
+- projects and summarized them and provided further details on the recommendations. The
+- recommended projects are planned to be included in Amendment #3 to the FY26-35 TIP,
+- which is the next item on the Agenda. A public hearing will be held in May 2026
+- County, he likes the fact that many of the projects will still benefit Johnston County
+- Responding to Board Member Darryl Moss’s question regarding how the NC 50 project
+- relates, Mr. Rickard stated that the project relates to the Timber Drive to NC 540 section
+- Road, Mr. Rickard provided a summary of the project area, noting that it includes
+- widening a section to four lanes. It will not improve all of Benson Road, just the choke
+- process and there are will also be future opportunities for private development. This
+- project includes the most expensive parts of the improvements
+- pedestrian access on the Poole Road Bridge, Mr. Rickard stated that the greenway
+- bridge is north of the existing bridge. The road bridge would include sidewalks on the
+- south side of the bridge. The project will create a sidewalk gap to Barwell Road; however,
+- right-of-way acquisition costs blow the budget and we can’t afford it. He noted that there
+- will be crosswalks at Barwell and Poole Roads and other options for people to cross. In
+- 6.3 Amendment #3 to FY 2026-2035 Transportation Improvement Program
+- TIP Amendment #3
+- Mr. Rickard provided an overview the quarterly TIP amendment, noting that it includes the
+- adjustments. He provided the following updates and noted that the public hearing will be
+
+## [campo#10] 2026-05-14 | Technical Coordinating Committee | minutes
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of April 2, 2026
+- Requested Action: Approve the TCC Meeting Minutes of April 2, 2026
+- Akul Nishawala made a motion to approve the TCC Meeting Minutes of April 2,
+- Requested Action: Receive as information
+- document CSCE, the focus being the projects currently scheduled for delivery in the
+- 2026-2035 STIP, the September 30, 2027, target deadline for all projects to achieve their
+- CSCE, possible exceptions (like signal system projects), steps taken since the January
+- 2026 TCC meeting, and an update on CAMPO’s project statuses in Division 4
+- Mr. Rickard advised that Division 4 Project U6208 will proceed until someone makes a
+- Mr. Wert continued with an update on the Division 5 projects
+- Mr. Rickard stated that, with any of these projects, we’re coming up with a design and a
+- these projects will continue through the regular project development timeline through
+- Ben Upshaw, NCDOT Division 5 Project Manager Supervisor, added that, with respect to
+- Mr. Rickard’s question regarding the tunnel project, NCDOT would want to get a
+- projects on the list. Mr. Rickard asked if that was likely to happen by the September 30,
+- indicates how confident NCDOT feels about that happening by the deadline
+- Mr. Wert then summarized the overall CAMPO project statuses
+- has for TBD projects that we want to have things figured out by, Mr. Wert stated that,
+- with respect to both of those projects, he is not the Project Manager and did not want to
+- uncertainty with the Project submitter or alignment between CAMPO and NCDOT. For the
+- NC 42 project, there are questions regarding whether the recent project completed out
+- Boulevard, there are items with the BRT project that the City of Raleigh would like to see
+- worked out before that project. Those are impacting the schedule for both of those
+- Chair Stephenson commented that, once projects are in the STIP, the public sees them
+- updates until we get to the finish line, particularly on the projects that have the most
+- direction those are headed in. He requested additional updates in the future for further
+- Chris Lukasina stated that, after July 2026, we can consider whether we need more
+- deadline, with a focus on those projects hanging out
+- Chair Stephenson inquired as to whether the quarterly updates will be presentations like
+- Mr. Rickard responded that there would be a presentation in October/November 2026 and
+- 5.2 Triangle Mobility Hub Project Progress & LPA Update
+- Catherine Miller, GoTriangle Project Manager
+
+## [campo#11] 2026-05-20 | Executive Board | minutes
+- There were no amendments to the Agenda
+- 4. Public Comments
+- There were no public comments
+- Board Member Janet Cowell motioned to approve the Consent Agenda. Board
+- Requested Action: ..Action Approve the Executive Board Meeting Minutes of April
+- Requested Action: Approve the Executive Board Meeting Minutes of April 15, 2026
+- Requested Action: Approve the final MOU
+- Requested Action: Approve Bonus Allocation projects for inclusion in TIP Amendment #3
+- Recommended Projects List
+- 5.4 FY2026 4th Quarter Wake Transit Work Plan Amendment Requests
+- Requested Action: Approve the FY2026 4th Quarter Wake Transit Work Plan amendment requests
+- FY2026 4th Quarter Wake Transit Work Plan Amendments
+- 6. Public Hearing
+- 6.1 Recommended FY 2027 Wake Transit Work Plan
+- Requested Action: Conduct a public hearing and receive as information
+- FY 2027 Wake Transit Work Plan
+- FY 2027 Wake Transit Work Plan-Executive Summary
+- FY 2027 Wake Transit Work Plan-Engagement Summary Report
+- Mr. Mott provided an overview of the recommended FY 2027 Wake Transit Work Plan, a
+- modeled revenues and expenditures, Community Funding Area projections, Draft Work
+- Plan updates, and operating and capital budget updates. He noted a correction on the
+- Capital Budget Updates slide for the Raleigh: GoRaleigh/GoWake Access Paratransit
+- O&M Facility (TC002-V) project – the project total should read $67,000,000. He continued
+- draft Work Plan public comment period, with result themes and highlights and sample
+- engagement and public notice materials, the strategy for the current 14-day public
+- comment period for the recommended Work Plan, and next steps towards a June 2026
+- Chair Butch Lawter, Jr. opened the public hearing
+- Chair Lawter closed the public hearing
+- 6.2 Amendment #3 to FY 2026-2035 Transportation Improvement Program
+- Requested Action: Conduct a public hearing. Approve TIP Amendment #3
+- TIP Amendment #3
+- Mr. Rickard provided an overview of the Amendment, noting the following:
+- Inclusion of NCDOT’s STIP amendments from January-March 2026
+- Adding AO-0004 – a new RDU project at Aviation Boulevard and National Park
+- Removing BL-0172 – a FY 2026 LAPP project that the Town of Cary is not ready to
+- Removing TD-5314 – a Wake Transit project that is now being covered by other
+- Inclusion of the NC 540 Bonus Allocation projects just approved
+- Mr. Rickard noted that Staff has not received any public comments
+- Responding to Board Member Patrick Hannah, Mr. Rickard provided additional project
+- details for the RDU project, noting that the project is 100% funded by RDU, but that RDU
+- will also be seeking federal funding for the project
+
+## [campo#12] 2026-06-04 | Technical Coordinating Committee | minutes
+- Sandi Bailey, Conrad Olmedo, Chris George, Tracy Stephenson, Julian Griffee,
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of May 14, 2026
+- Requested Action: Approve the TCC Meeting Minutes of May 14, 2026
+- Het Patel made a motion to approve the TCC Meeting Minutes of May 14, 2026
+- 5.1 Triangle Mobility Hub LPA Approval
+- Catherine Miller, GoTriangle Project Manager
+- Requested Action: Conduct a public hearing. Approve the Triangle Mobility Hub LPA
+- Locally Preferred Alternative (LPA), the LPA approval process, and public engagement
+- Travis Crayton made a motion to recommend Executive Board approval of the
+- 5.2 FY 2027 Wake Transit Work Plan and Project Agreement Groupings and
+- Requested Action: 1) Approve the TPAC-recommended FY 2027 Wake Transit Work Plan; 2)
+- Approve the proposed project agreement groupings and deliverables; and 3)
+- Authorize the Executive Director to execute all FY 2027 Work Plan project-level
+- agreements to which CAMPO is a party
+- Recommended FY 2027 Wake Transit Work Plan
+- FY 2027 Agreement Groupings and Reporting Deliverables
+- FY 2027 Sample Project Agreements
+- Mr. Mott provided an overview of the FY 2027 Wake Transit Work Plan adoption
+- highlights. He provided background information on the FY 2027 Wake Transit Work Plan
+- Project Agreement Groupings and Deliverables and provided deliverable examples
+- Conrad Olmedo made a motion to recommend Executive Board 1) approval of
+- the TPAC-recommended FY 2027 Wake Transit Work Plan; 2) approval of the
+- proposed project agreement groupings and deliverables; and 3) authorization for
+- the Executive Director to execute all FY 2027 Work Plan project-level agreements
+- 5.3 Triangle Bikeway East Design Project Alternatives Analysis
+- Requested Action: Endorse the technical recommendation alignment for the Triangle Bikeway East
+- Design Project to carry forward to 30% design completion
+- Ms. Russell provided a status update on the Triangle Bikeway East Design Project
+- Project to carry forward to 30% design completion. Sandi Bailey seconded the
+- 5.4 Locally Administered Projects Program (LAPP) FFY2028 Target Modal Mix
+- Requested Action: Receive as information
+- Ms. Samayoa provided an overview of the Locally Administered Projects Program (LAPP)
+- FFY2028 Target Modal Mix, noting the August 2026 Call for Projects, proposed LAPP
+- funding increase, LAPP Guidebook improvements, Blueprint for Safety influences on
+- LAPP scoring, considerations of the local match criteria on LAPP scoring, rolling stock
+- as eligible projects, and next steps towards an August 2026 approval and
+
+## [campo#13] 2026-06-17 | Executive Board | minutes
+- There were no amendments to the Agenda
+- 4. Public Comments
+- There were no public comments
+- A motion was made to approve the Consent Agenda. Board Member Deans
+- (Clerk’s Note: A motion to approve the Consent Agenda was duly made; however,
+- the maker of the motion could not be identified. The motion was properly
+- Requested Action: ..Action Approve the Executive Board Meeting Minutes of May 20,
+- Requested Action: Approve the Executive Board Meeting Minutes of May 20, 2026
+- This item was approved under the Consent Agenda 17-0
+- 5.2 FY 2027 Wake Transit Work Plan and Project Agreement Groupings and
+- Requested Action: 1) Approve the TPAC-recommended FY 2027 Wake Transit Work Plan; 2)
+- Approve the proposed project agreement groupings and deliverables; and 3)
+- Authorize the Executive Director to execute all FY 2027 Work Plan project-level
+- agreements to which CAMPO is a party
+- Recommended FY 2027 Wake Transit Work Plan
+- FY 2027 Agreement Groupings and Reporting Deliverables
+- FY 2027 Sample Project Agreements
+- 5.3 Amendment #4 to FY 2026-2035 Transportation Improvement Program
+- Requested Action: Receive as information
+- TIP Amendment #4
+- 6. Public Hearing
+- 6.1 Triangle Mobility Hub LPA Approval
+- Catherine Miller, GoTriangle Project Manager
+- Requested Action: Conduct a public hearing. Approve the Triangle Mobility Hub LPA
+- Chair Butch Lawter Jr. opened the public hearing
+- Alternative (LPA), as well as highlights of the public comments received, which generally
+- support the project. She noted that the Triangle West Transportation Planning
+- Organization Board approved this item yesterday
+- Chair Lawter closed the public hearing
+- Board Member Deans Eatman motioned to approve the Triangle Mobility Hub
+- End of Public Hearings
+- 7.1 Triangle Bikeway East Design Project Alternatives Analysis
+- Requested Action: Endorse the technical recommendation alignment for the Triangle Bikeway East
+- Design Project to carry forward to 30% design completion
+- Ms. Russell provided a brief project status update, a summary of progress to date on the
+- alignment for the Triangle Bikeway East Design Project to carry forward to 30%
+- Requested Action: Approve the Regional Impact target modal mix
+- distributions, revised P8 schedule, draft Statewide programming, project development
+- influences and why some projects are included earlier in the process, local input points
+- redline projects list and funding amounts in each area, STI-Region C funding needs
+- versus projected 10-year available funding, and the recommended Regional Impact target
+- does break some projects up; however, that does not always mean the project will
+
+## [campo#14] 2026-08-06 | Technical Coordinating Committee | minutes
 - Julian Griffee, Chris Garcia, Landon Chandler, Bret Martin, Emma Linn, Kevin C
 - 3. Public Comments
 - There were no public comments
@@ -36,7 +589,7 @@
 - intersection improvements identified on some of those intersections. Are we too late to
 - try and expand the scope of that resurfacing project to provide more improvements? Mr
 
-## [campo#1] 2026-08-19 | Executive Board | agenda
+## [campo#15] 2026-08-19 | Executive Board | agenda
 - TDM Plan Update - Interlocal
 - Funding Agreement
 - PUBLIC HEARING:

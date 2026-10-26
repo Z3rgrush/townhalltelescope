@@ -1,6 +1,546 @@
 # edgewater
 
-## [edgewater#0] 2026-08-12 | Planning and Zoning | agenda
+## [edgewater#0] 2025-11-12 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 2. Pel-Ona Architects & Urbanists Presentation
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; Staff and City Council Liaison
+
+## [edgewater#1] 2025-11-12 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 2. Pel-Ona Architects & Urbanists Presentation
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; Staff and City Council Liaison
+- EDGEWATER PLANNING AND ZONING COMMISSION
+- Also Present: City Attorney, Carmen Beery, Planning and Development
+- Commissioner Burnham made a motion to approve the Agenda as
+- Commissioner Burnham Made a motion to approve the consent Agenda as
+- 1. Public Hearing - Resolution (Rezoning Request 2525 Harlan St.)
+- The Public Hearing was opened at 6:09 pm
+- The Public Hearing was closed at 8:19 pm
+- With respect to the rezoning request, Commissioner Burnham made
+- a motion to approve and adopt the findings set forth in Resolution No
+- 2025 – 02 A RESOLUTION RECOMMENDING APPROVAL OF THE
+- REZONING OF PROPERTY KNOWN AS 2525 HARLAN STREET
+- (RESIDENTIAL 2) DISTRICT , and that the Planning and Zoning
+- Commission recommends APPROVAL to City Council of a rezone of
+- 2. Since the upload of the May 21, 2025 Planning and Zoning meeting full
+- packet, there were some edits to the Ordinance being brought in front of
+- State legislation. An edited version of the Ordinance was uploaded onto
+- the Edgewater City Website the same day as the meeting and the original
+- draft of the Ordinance was also kept in the full packet on the Website
+- The edited Ordinance was also added to the packets available in person
+- to members of the public in the Edgewater Chambers
+- Member of the public and citizen of Edgewater Colorado, Larry Welshon,
+- gave public comment criticizing the Commission’s actions approving any
+- Ordinances which allow Accessory Dwelling Units in Edgewater because
+- supported by the citizens of Edgewater. He requested that section 17 of
+- the draft Ordinance be changed from may repeal to shall repeal
+- Former Chair to the Planning and Zoning Commission, David Fleck, gave
+- public comment and had some questions regarding the draft Ordinance
+- The Commissioners discussed the draft Ordinance. There was discussion
+- recommendation for approval to City Council with the definition of
+- accessory dwelling units as discussed on AN ORDINANCE AMENDING
+- VARIOUS PROVISIONS OF CHAPTER 16 OF THE EDGEWATER
+- ii. David Fleck – Reappointment Recommendation
+- Larry Welshon again emphasized the importance of Edgewater’s home rule
+- authority, and the degradation of Edgewater’s authority through the “rubber
+
+## [edgewater#2] 2025-11-19 | Board of Adjustment | agenda
+- EDGEWATER BOARD OF ADJUSTMENT AND APPEALS
+- EDGEWATER CO 80214
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 3. Resolution 2025 - 03
+- Discussion and Possible Action on Resolution 2025 - 03 A
+- RESOLUTION FOR A VARIANCE FROM EDGEWATER MUNICIPAL
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; City Council Liaison Comments
+- Item 13. Public Comment
+- 1. Discussion of Hearing Procedures
+- Item 16. Discussion of upcoming Agendas; Staff Comments
+
+## [edgewater#3] 2025-11-19 | Board of Adjustment | agenda
+- EDGEWATER BOARD OF ADJUSTMENT AND APPEALS
+- EDGEWATER CO 80214
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 3. Resolution 2025 - 03
+- Discussion and Possible Action on Resolution 2025 - 03 A
+- RESOLUTION FOR A VARIANCE FROM EDGEWATER MUNICIPAL
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; City Council Liaison Comments
+- Item 13. Public Comment
+- 1. Discussion of Hearing Procedures
+- Item 16. Discussion of upcoming Agendas; Staff Comments
+- Board Member Burnham made a motion to approve the Agenda as
+- Board Member Burnham made a motion to approve the Minutes,
+- 1. Resolution 2025-01
+- Board Member Burnham made a motion to approve Resolution 2025-01,
+- A RESOLUTION DESIGNATING PUBLIC PLACES FOR THE POSTING
+- 2. Resolution 2025-02 (Public Hearing)
+- Chair Fleck opened the Public Hearing at 6:06 p.m
+- Public Hearing was closed at 6:21 p.m
+- The Board Members discussed the application and concluded that the
+- application met the requirements to approve the variance
+- Board Member Burnham made a motion to approve Resolution 2025-02,
+- A RESOLUTION FOR A VARIANCE FROM CODE SECTION 16-22-80
+- TO ALLOW PARKING ACCESS FROM THE REAR LOT LINE TO BE
+- LOCATED LESS THAN FIVE (5) FEET FROM THE NEAREST SIDE LOT
+- Chair Fleck suggested to the Board that they encourage other Edgewater
+- ITEM 10. Discussion of Upcoming Agendas; Staff Comments
+- planning code with the Planning and Zoning Commission and suggested that
+- Public Hearing Date: November 19, 2025, at 6:00 p.m
+- From: Logan Hubble, Edgewater Community Development
+- Cc: Travis Reynolds, Community Development Director
+- Edgewater, CO 80214
+- Subject: Variance Request
+- Zoning: Residential 1 (R-1)
+- The public hearing request for approval of the Variance was publicly noticed in
+- accordance with the public notification requirement outlined in the Edgewater
+- Municipal Code (the “Code”). Notification was provided in the Golden Transcript
+- REQUEST SUMMARY:
+- limitation by five feet, two inches
+- Note*: If variance is granted, the next step would be to apply for a building permit
+- documents. The Applicant initially applied for a building permit in May 2025 and
+- Edgewater. Without this slope, the structure would exceed the height limit by three
+- feet, two inches
+- No principal building shall exceed twenty -five (25) feet in height, excepting,
+- twelve (2/12), which portion of the building shall not exceed twenty -eight (28) feet
+- in height. No accessory building shall exceed fifteen (15) feet in height
+- The Applicant is requesting relief from th e above regulation to allow an accessory
+- structure that is 20’ 2” in height . This would require a variance of five feet , two
+
+## [edgewater#4] 2025-11-19 | HARP | agenda
+- EDGEWATER HISTORY ART RECREATION AND PARKS (HARP) BOARD
+- EDGEWATER CO 80214
+- Public Comment: Except for comments concerning matters that are set for public hearing,
+- members of the public are invited to be heard during the public comment portions of the
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 5. Edgewater Echo Requests
+- b) Write Ups for Historical Artifacts
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas
+
+## [edgewater#5] 2025-11-25 | City Council | agenda
+- EDGEWATER CITY COUNCIL
+- EDGEWATER COLORADO 80214
+- that items will be addressed and acted upon with little discussion. These items have usually
+- General public comments will be limited to three minutes each and must be pre-scheduled a
+- comment requests have been heard
+- Public Comment Registration can be found here, or on the City’s website
+- Public Comments will be heard in the order in which the request was received
+- The principal purpose of a Business Meeting is to consider and take formal action
+- 1. Approval of Agenda
+- Item 5. Public Comment
+- Item 8. Presentations
+- Item 9. Resolution 2025-16
+- Discussion and Possible Action on Resolution 2025-16, A RESOLUTION
+- SETTING THE TAX LEVY FOR 2025 AND CERTIFYING THE SAME TO
+- Item 10. Ordinance 2025-23
+- Discussion and Possible Action on the First Reading of Ordinance 2025
+- 23, AN ORDINANCE AMENDING THE LOCAL MINIMUM WAGE TIP
+- EDGEWATER MUNICIPAL CODE, COMMENCING ON JANUARY 1,
+- Item 12. Public Comment
+- Item 14. Discussion of Upcoming Agendas
+
+## [edgewater#6] 2025-11-25 | City Council | agenda
+- EDGEWATER CITY COUNCIL
+- EDGEWATER COLORADO 80214
+- that items will be addressed and acted upon with little discussion. These items have usually
+- General public comments will be limited to three minutes each and must be pre-scheduled a
+- comment requests have been heard
+- Public Comment Registration can be found here, or on the City’s website
+- Public Comments will be heard in the order in which the request was received
+- The principal purpose of a Business Meeting is to consider and take formal action
+- 1. Approval of Agenda
+- Item 5. Public Comment
+- Item 8. Presentations
+- Item 9. Resolution 2025-16
+- Discussion and Possible Action on Resolution 2025-16, A RESOLUTION
+- SETTING THE TAX LEVY FOR 2025 AND CERTIFYING THE SAME TO
+- Item 10. Ordinance 2025-23
+- Discussion and Possible Action on the First Reading of Ordinance 2025
+- 23, AN ORDINANCE AMENDING THE LOCAL MINIMUM WAGE TIP
+- EDGEWATER MUNICIPAL CODE, COMMENCING ON JANUARY 1,
+- Item 12. Public Comment
+- Item 14. Discussion of Upcoming Agendas
+- ITEM 4. Public Comment
+- 2. P&R 2026 Budget Presentation 7:15 pm
+- 3. Communications and Events Budget Presentation 7:45
+- Also Present: City Manager, Dan Maples, Police Chief, Randy McNitt, HR Director,
+- Council Member Gay Keao made a motion to approve the Consent Agenda as
+- Tyler Fisher, resident – enjoyed the Parks and Rec presentation . Also spoke on
+- Police Chief McNitt – mentioned that they had the opportunity to attend the
+- International Association of Chiefs of Police Annual Conference in Downtown
+- City Manager Maples – Staff is hard at work on 2026 Budget. It is a very tight
+- budget for next year. Mentioned he will be at the ICMA Annual meeting in Tampa,
+- event to honor Bud for the Sam Mamet Good Public Service Award
+- ITEM 15. Presentations
+- 1. Audit Presentation
+- Barry Gabbard, Manager with Atlas gave a brief presentation of the 2024 Audit
+- helpful. Suggested, the City discusses water and sewer rates as they seem to
+- City offices to meet with Ariany and her team to discuss what needs to occur
+- Council Member Valdez asked about a plan for future segregation of duties
+- about the water sewer and trash losses. Ariany responded that policies are
+- done at staff level and Dan mentioned timeline to increase sewer and trash
+- ITEM 16. Resolution 2025-14
+- Council Member Janda made a motion to table Resolution 2025- 14, A
+- RESOLUTION AFFIRMING THE HOME RULE AUTHORITY POSSESSED BY
+- THE CITY OF EDGEWATER AND OTHER COLORADO HOME RULE
+- Council Member Valdez – confused as to why this support was not approved
+- Council Member Gay Keao – generally supports this Resolution but would like to
+
+## [edgewater#7] 2025-12-16 | City Council | agenda
+- EDGEWATER CITY COUNCIL
+- EDGEWATER CO 80214
+- that items will be addressed and acted upon with little discussion. These items have usually
+- General public comments will be limited to three minutes each and must be pre-scheduled a
+- comment requests have been heard
+- Public Comment Registration can be found here, or on the City’s website
+- Public Comments will be heard in the order in which the request was received
+- The principal purpose of a Business Meeting is to consider and take formal action
+- 1. Approval of Agenda
+- Item 5. Public Comment
+- Item 6. Presentations
+- 1. Outgoing Council Presentations
+- Item 9. Resolution 2025-15 (Public Hearing)
+- Discussion and Possible Action on Resolution 2025-15, A RESOLUTION
+- ADOPTING AN ANNUAL BUDGET AND APPROPRIATING SUMS OF
+- Item 10. Ordinance 2025-23
+- Discussion and Possible Action on the Second Reading of Ordinance
+- 2025-23, AN ORDINANCE AMENDING THE LOCAL MINIMUM WAGE
+- EDGEWATER MUNICIPAL CODE, COMMENCING ON JANUARY 1,
+- Item 12. Public Comment
+- Item 14. Discussion of Upcoming Agendas
+
+## [edgewater#8] 2026-01-06 | City Council | agenda
+- EDGEWATER CITY COUNCIL
+- EDGEWATER CO 80214
+- that items will be addressed and acted upon with little discussion. These items have usually
+- General public comments will be limited to three minutes each and must be pre-scheduled a
+- comment requests have been heard
+- Public Comment Registration can be found here, or on the City’s website
+- Public Comments will be heard in the order in which the request was received
+- The principal purpose of a Business Meeting is to consider and take formal action
+- 1. Approval of Agenda
+- Item 5. Public Comment
+- Item 8. Presentations
+- Item 9. Resolution 2026-01
+- Discussion and Possible Action on Resolution 2026-1, A RESOLUTION
+- MEETINGS OF THE EDGEWATER CITY COUNCIL
+- Item 10. Resolution 2026-02
+- A RESOLUTION APPROVING THE AMENDED INTERGOVERNMENTAL
+- AGREEMENT BETWEEN JEFFERSON COUNTY, ARVADA,
+- EDGEWATER CONCERNING ANIMAL SHELTERING, LICENSING AND
+- 1. Action on recommended re-appointment of David Fleck to the
+- Item 12. Public Comment
+- Item 14. Discussion of Upcoming Agendas
+- 1. Status and Scheduling of Future Item Discussion
+- Type: Presentation
+- CITY OF EDGEWATER
+- RESOLUTION 2026-01
+- A RESOLUTION DESIGNATING PUBLIC PLACES FOR THE POSTING OF NOTICE
+- OF MEETINGS OF THE EDGEWATER CITY COUNCIL
+- WHEREAS, C.R.S. § 24 -6-402(2)(c) requires the Edgewater City Council
+- WHEREAS, Section 21.26 of the Edgewater Home Rule Charter (“Charter”) further
+- WHEREAS, the Council therefore wishes to approve a list of posting places to
+- OF EDGEWATER, COLORADO, THAT:
+- posting notice of public meetings of the City of Edgewater City Council:
+- 1. The lobby area of the Edgewater Civic Center, 1800 Harlan St., Edgewater,
+- 2. The bulletin board located in the 25th and Sheridan parking lot
+- 3. The City’s website at edgewaterco.com
+- Section 2. This Resolution shall become effective immediately upon adoption and
+- shall be repealed upon the adoption of any subsequent resolution designating public
+- places for posting unless such subsequent resolution otherwise provides
+- RESOLUTION NO. 2026-02
+- A RESOLUTION APPROVING THE AMENDED INTERGOVERNMENTAL AGREEMENT BETWEEN
+- EDGEWATER CONCERNING ANIMAL SHELTERING, LICENSING AND FUNDING
+- authorized to contract with one another to provide any function, service, or facility lawfully authorized to
+- each of the contracting units; and
+- including the City of Edgewater, have cooperated in the formation and funding of the Foothills Animal
+- Shelter (“FAS”) which serves each of the parties to the intergovernmental agreement (“IGA”) that
+- calculation and authorizing the future development of an IGA that includes FAS as a party to establish
+
+## [edgewater#9] 2026-02-11 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 1. Resolution 2026-01
+- Discussion and possible action on Resolution 2026-01 A
+- RESOLUTION DESIGNATING PUBLIC PLACES FOR THE
+- POSTING OF NOTICE OF MEETINGS OF THE EDGEWATER
+- PLANNING AND ZONING COMMISSION
+- 2. Resolution 2026-02
+- Discussion and possible action on Resolution 2026-02 A
+- RESOLUTION RECOMMENDING APPROVAL OF THE REZONING
+- OF PROPERTY KNOWN AS 2403 FENTON STREET FROM THE R
+- 3. Zoning Code Update — Formation of a Technical Advisory
+- 4. Planning and Zoning Commission Rules of Procedure Amendments
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; Staff and City Council Liaison
+
+## [edgewater#10] 2026-03-11 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 2. Zoning Code Rewrite - Technical Focus Group Update
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; Staff and City Council Liaison
+
+## [edgewater#11] 2026-03-11 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 2. Zoning Code Rewrite - Technical Focus Group Update
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; Staff and City Council Liaison
+- Also Present: Community Development Director, Travis Reynolds,
+- Planning and Development Manager, Logan Hubble
+- Commissioner Fleck made a motion to approve the Agenda as presented
+- Commissioner Fleck made a motion to approve the Consent Agenda
+- 1. Resolution 2026-01
+- Discussion and possible action on Resolution 2026-01 A
+- RESOLUTION DESIGNATING PUBLIC PLACES FOR THE
+- POSTING OF NOTICE OF MEETINGS OF THE EDGEWATER
+- PLANNING AND ZONING COMMISSION
+- Commissioner Fleck made a motion to approve Resolution 2026-01,
+- A RESOLUTION DESIGNATING PUBLIC PLACES FOR THE
+- 2. Resolution 2026-02
+- Discussion and possible action on Resolution 2026-02 A
+- RESOLUTION RECOMMENDING APPROVAL OF THE REZONING
+- OF PROPERTY KNOWN AS 2403 FENTON STREET FROM THE R
+- Chair Wellner opened the public hearing at 6:08 pm
+- Chair Wellner closed the public hearing at 6:13 pm
+- Commissioner Anderson commented that the rezone seemed non
+- With respect to the rezoning request, Commissioner Fleck made a
+- motion to approve and adopt the findings set forth in Resolution No
+- 2026 - 02 and that the Planning and Zoning Commission
+- RECOMMENDS APPROVAL to City Council of a rezone of 2403
+- Fenton Street from Residential One (R-1) and Residential Three (R-3)
+- 3. Zoning Code Update — Formation of a Technical Advisory
+- 4. Planning and Zoning Commission Rules of Procedure Amendments
+- Commissioner Fleck made a motion to approve the Planning and
+- Zoning Commission Rules of Order Amendments. Seconded and
+- To: Planning & Zoning Commission
+- From: Travis Reynolds, AICP | Community Development Director
+- Re: Interview Process – Two Candidates for One Open Planning & Zoning
+- As you are aware, we have received two qualified applications for one open position on the
+- Planning & Zoning Commission. The purpose of this memorandum is to outline the
+- *Please note that although we amended the Commission’s Rules of Procedure to highlight
+- Edgewater on the Planning & Zoning Commission
+- The Commission will deliberate in public session
+- Discussion should focus on application materials, interview responses, and
+- qualifications relevant to service on the Planning & Zoning Commission
+- 1. The Commission Chair will request a motion using the standard language:
+
+## [edgewater#12] 2026-04-08 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 2. Public Comment
+- 1. CDOT Sheridan Boulevard Presentation
+- 2. Transit Oriented Community Presentation
+- 3. Proposition 123, Affordable Housing Fast Track Supporting Policy
+- Item 5. Discussion of upcoming Agendas; Staff and City Council Liaison
+- To: Edgewater Planning & Zoning Commission
+- From: Community Development Staff
+- Subject: Sheridan Corridor Multimodal Plan Update – Project Overview and Timeline
+- Project Overview
+- The Sheridan Corridor Multimodal Plan Update reflects ongoing coordination between the
+- City of Edgewater and the Colorado Department of Transportation (CDOT) to advance
+- safety and accessibility improvements along Sheridan Boulevard between 17th and 26th
+- Avenues. Sheridan Boulevard is identified as a high-injury corridor where existing
+- The project builds upon the Sheridan Corridor Multimodal Plan adopted by City Council
+- of improvements is currently anticipated to begin in late 2026
+- transportation, with a special emphasis on vulnerable road users (VRUs) including
+- the City’s adopted plan while incorporating modifications that improve constructability
+- ADA improvements along the entire corridor
+- The original Edgewater plan proposed shifting the west curb approximately eight feet east
+- The design includes signal timing analysis and consideration of:
+- Stop bar setbacks and lighting improvements
+- The updated design is generally consistent with the adopted plan, with a slightly tighter
+- Additional signal timing considerations to address turning conflicts identified by
+- Anticipated Project Timeline
+- o Sheridan Corridor Multimodal Plan development
+- o Plan adopted by City Council
+- The Sheridan Corridor Multimodal Plan Update reflects continued progress toward
+- have evolved due to funding and constructability considerations, the overall safety
+- objectives of the adopted plan remain intact or improved
+- Staff will provide a visual presentation of the updated design, timeline, and changes at
+- the upcoming Planning & Zoning Commission meeting
+- To: Edgewater Planning and Zoning Commission
+- From: Community Development Department
+- Subject: Transit-Oriented Communities (TOC) Planning Project — Background and
+- to the City of Edgewater’s consultant-led TOC planning project. This summary is intended
+- to orient the Planning and Zoning Commission to the project. Staff will provide a more
+- detailed presentation at the upcoming Planning and Zoning Commission meeting
+
+## [edgewater#13] 2026-04-08 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 2. Public Comment
+- 1. CDOT Sheridan Boulevard Presentation
+- 2. Transit Oriented Community Presentation
+- 3. Proposition 123, Affordable Housing Fast Track Supporting Policy
+- Item 5. Discussion of upcoming Agendas; Staff and City Council Liaison
+
+## [edgewater#14] 2026-05-13 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 3. Public Comment
+- 1. Proposition 123 Resolution on Fast Track Affordable Housing Policy
+- Item 6. Discussion of upcoming Agendas; Staff and City Council Liaison
+
+## [edgewater#15] 2026-05-13 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 3. Public Comment
+- 1. Proposition 123 Resolution on Fast Track Affordable Housing Policy
+- Item 6. Discussion of upcoming Agendas; Staff and City Council Liaison
+- TO: Edgewater Planning & Zoning Commission
+- FROM: Travis Reynolds, Community Development Director
+- RE: Proposition 123 Affordable Housing Fast Track Expedited Review Policy
+- The purpose of this memorandum is to provide the Planning & Zoning Commission with an
+- overview of the proposed Affordable Housing Expedited Review Policy and associated
+- Resolution related to Colorado Proposition 123 requirements for participating local
+- In 2022, Colorado voters approved Proposition 123, creating a statewide affordable
+- housing funding program administered through the Colorado Department of Local Affairs
+- establishment of an expedited review process for qualifying affordable housing
+- developments pursuant to C.R.S. § 29-32-105(2)
+- qualifying affordable housing applications in which at least ﬁfty percent (50%) of the
+- formalizes review timelines, identiﬁes applicable development review processes, and
+- ninety (90) calendar day review period following determination of a complete application
+- Importantly, DOLA is currently offering early adoption incentive funding to communities
+- that adopt compliant expedited review policies and resolutions by June 30, 2026. The City
+- of Edgewater has been identiﬁed as eligible for approximately $45,000 in incentive grant
+- Staff intends to utilize these funds to support the development of more robust affordable
+- housing implementation strategies and regulatory tools as part of the ongoing 2026 Zoning
+- Code Update project. Potential future work products may include affordable housing
+- incentives, missing middle housing strategies, administrative process improvements, form
+- and scale standards, and other housing-related code modernization efforts consistent with
+- the Edgewater 2040 Comprehensive Plan and recent State legislation
+- many cases, are already generally consistent with the City’s existing development review
+- Staff will provide an overview presentation of the proposed Resolution and Policy at the
+- upcoming meeting and will be available for questions and discussion
+- Draft Resolution
+- Affordable Housing Expedited Review Policy
+- CITY OF EDGEWATER
+- RESOLUTION NO. 2026
+- A RESOLUTION ADOPTING AN EXPEDITED REVIEW POLICY FOR AFFORDABLE
+
+## [edgewater#16] 2026-05-20 | Board of Adjustment | agenda
+- EDGEWATER BOARD OF ADJUSTMENT AND APPEALS
+- EDGEWATER CO 80214
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- 1. Resolution 2026-01
+- Discussion and Possible Action on Resolution 2026-01, A
+- RESOLUTION DESIGNATING PUBLIC PLACES FOR THE
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas; City Council Liaison Comments
+
+## [edgewater#17] 2026-06-10 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Public Comment
+- Item 7. Discussion of upcoming Agendas; Staff and City Council Liaison
+
+## [edgewater#18] 2026-06-10 | Planning and Zoning | agenda
+- EDGEWATER PLANNING AND ZONING
+- EDGEWATER CO 80214
+- Public Comment: The public is invited to be heard during the Public Comment portion of the
+- meeting. During Public Comment you may address any topic or issue with the Commission. The
+- Item 4. Public Comment
+- Item 7. Discussion of upcoming Agendas; Staff and City Council Liaison
+- TO: Edgewater Planning and Zoning Commission
+- FROM: Travis Reynolds, AICP , Community Development Director
+- The purpose of this memorandum is to provide the Planning and Zoning Commission with a
+- summary of the second meeting of the Zoning Code Update Technical Focus Group (TFG),
+- held on June 8, 2026. The meeting focused on review and discussion of the proposed
+- Medium High Intensity (RMHI) zoning districts and associated development standards
+- Topics included neighborhood compatibility, housing choice, residential intensiﬁcation,
+- building form controls, and implementation of the Edgewater 2040 Comprehensive Plan
+- The Technical Focus Group reviewed the rationale for the proposed residential zoning
+- framework for districts and the relationship between the proposed zoning districts (RLI,
+- RMLI, and RMHI) (Attachment A), the Edgewater 2040 Comprehensive Plan, and HB24
+- Discussion focused on several key policy and technical topics, including:
+- Proposed residential zoning district boundaries and mapping;
+- Neighborhood compatibility and preservation of Edgewater's historic cottage-scale
+- Front and rear lot development standards;
+- redevelopment;
+- Expanded housing options such as duplexes, cottage clusters, and small-unit
+- Opportunities to increase housing supply while maintaining neighborhood scale
+- The relationship between housing diversity, ownership opportunities, affordability,
+- Discussion Summary
+- The Technical Focus Group discussed the balance between accommodating additional
+- housing opportunities and maintaining the neighborhood scale and character that
+- participants and our policy documents identiﬁed as a deﬁning feature of Edgewater
+- Particular attention was given to the concept of rear lot intensiﬁcation as a strategy to allow
+- additional housing opportunities while preserving existing streetscapes and retaining
+- existing homes. Participants discussed potential beneﬁts and challenges associated with
+- zoning envelopes, maximum building heights, bulk plane requirements, and the distinction
+- between 1.5-story and 2-story building forms. Discussion focused on whether these tools
+- The proposed use of maximum ﬂoor area limitations generated discussion regarding the
+- smaller-scale housing products. Participants considered the relationship between ﬂoor
+
+## [edgewater#19] 2026-06-24 | HARP | agenda
+- EDGEWATER HISTORY ART RECREATION AND PARKS (HARP) BOARD
+- EDGEWATER CO 80214
+- Held at the Edgewater Civic Center
+- 1800 Harlan Street, Edgewater, 80214 and Virtually through the GoTo Meeting
+- Public Comment: Except for comments concerning matters that are set for public hearing,
+- members of the public are invited to be heard during the public comment portions of the
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- b) Archival Project
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas
+
+## [edgewater#20] 2026-07-22 | HARP | agenda
+- EDGEWATER HISTORY ART RECREATION AND PARKS (HARP) BOARD
+- EDGEWATER CO 80214
+- Held at the Edgewater Civic Center
+- 1800 Harlan Street, Edgewater, 80214 and Virtually through the GoTo Meeting
+- Public Comment: Except for comments concerning matters that are set for public hearing,
+- members of the public are invited to be heard during the public comment portions of the
+- Item 4. Approval of Agenda
+- Item 5. Public Comment
+- b) Archival Project
+- b) Activity and Giveaway Brainstorm
+- Item 8. Public Comment
+- Item 10. Discussion of Upcoming Agendas
+
+## [edgewater#21] 2026-08-12 | Planning and Zoning | agenda
 - EDGEWATER PLANNING AND ZONING
 - EDGEWATER CO 80214
 - Public Comment: The public is invited to be heard during the Public Comment portion of the
@@ -9,7 +549,7 @@
 - 1. Transit Oriented Communities Project - Consultant Team Update
 - Item 7. Discussion of upcoming Agendas; Staff and City Council Liaison
 
-## [edgewater#1] 2026-08-12 | Planning and Zoning | agenda
+## [edgewater#22] 2026-08-12 | Planning and Zoning | agenda
 - EDGEWATER PLANNING AND ZONING
 - EDGEWATER CO 80214
 - Public Comment: The public is invited to be heard during the Public Comment portion of the
@@ -45,7 +585,7 @@
 - opportunities related to housing and transit-oriented development
 - Housing Market Study. The consultant analyzed Edgewater’s existing housing stock,
 
-## [edgewater#2] 2026-08-26 | HARP | agenda
+## [edgewater#23] 2026-08-26 | HARP | agenda
 - EDGEWATER HISTORY ART RECREATION AND PARKS (HARP) BOARD
 - EDGEWATER CO 80214
 - Held at the Edgewater Civic Center
@@ -59,7 +599,7 @@
 - Item 8. Public Comment
 - Item 10. Discussion of Upcoming Agendas
 
-## [edgewater#3] 2026-09-16 | Board of Adjustment | agenda
+## [edgewater#24] 2026-09-16 | Board of Adjustment | agenda
 - EDGEWATER BOARD OF ADJUSTMENT AND APPEALS
 - EDGEWATER CO 80214
 - Item 4. Public Comment

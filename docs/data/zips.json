@@ -471,13 +471,13 @@
   ],
   "issues": [
    "aurora/0",
+   "foxfield/0",
+   "foxfield/1",
    "aurora/1",
    "aurora/8",
    "arapahoe-county/1",
    "arapahoe-county/11",
-   "arapahoe-county/3",
-   "centennial/0",
-   "centennial/2"
+   "arapahoe-county/3"
   ],
   "tagged": {
    "data-center": {
@@ -2567,12 +2567,12 @@
   "issues": [
    "lakewood/7",
    "denver/6",
+   "edgewater/0",
    "denver/9",
    "denver/1",
    "denver/5",
-   "lakewood/0",
-   "lakewood/3",
-   "lakewood/5"
+   "edgewater/7",
+   "lakewood/0"
   ],
   "tagged": {
    "data-center": {
@@ -4210,9 +4210,9 @@
    "gilpin-county/2",
    "gilpin-county/3",
    "gilpin-county/4",
+   "black-hawk/1",
    "black-hawk/2",
-   "gilpin-county/0",
-   "gilpin-county/1"
+   "black-hawk/3"
   ],
   "tagged": {}
  },
@@ -6884,14 +6884,14 @@
    }
   ],
   "issues": [
+   "nunn/4",
+   "nunn/2",
    "weld-county/6",
+   "nunn/3",
+   "nunn/0",
+   "nunn/6",
    "weld-county/5",
-   "weld-county/7",
-   "weld-county/9",
-   "weld-county/14",
-   "weld-county/1",
-   "weld-county/2",
-   "weld-county/4"
+   "weld-county/7"
   ],
   "tagged": {}
  },
@@ -7282,16 +7282,23 @@
    }
   ],
   "issues": [
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6",
    "yuma-county/1",
-   "yuma-county/3",
+   "yuma-county/2",
    "yuma-county/4",
-   "yuma-county/7"
+   "yuma-county/3",
+   "yuma-county/6",
+   "yuma-county/7",
+   "yuma-county/8",
+   "yuma-county/9"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80728": {
   "governments": [
@@ -7339,7 +7346,7 @@
    {
     "name": "Haxtun",
     "share": 0.645,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Phillips County",
@@ -7364,18 +7371,19 @@
   ],
   "issues": [
    "phillips-county/1",
+   "yuma-county/1",
+   "yuma-county/2",
+   "yuma-county/4",
+   "yuma-county/3",
    "phillips-county/2",
    "phillips-county/5",
-   "phillips-county/6",
-   "phillips-county/7",
-   "phillips-county/8",
-   "phillips-county/9",
-   "phillips-county/11"
+   "phillips-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "phillips-county/0"
+     "phillips-county/0",
+     "yuma-county/0"
     ],
     "site": false
    }
@@ -7458,18 +7466,19 @@
   ],
   "issues": [
    "phillips-county/1",
+   "yuma-county/1",
+   "yuma-county/2",
+   "yuma-county/4",
+   "yuma-county/3",
    "phillips-county/2",
    "phillips-county/5",
-   "phillips-county/6",
-   "phillips-county/7",
-   "phillips-county/8",
-   "phillips-county/9",
-   "phillips-county/11"
+   "phillips-county/6"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "phillips-county/0"
+     "phillips-county/0",
+     "yuma-county/0"
     ],
     "site": false
    }
@@ -7484,16 +7493,23 @@
    }
   ],
   "issues": [
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6",
    "yuma-county/1",
-   "yuma-county/3",
+   "yuma-county/2",
    "yuma-county/4",
-   "yuma-county/7"
+   "yuma-county/3",
+   "yuma-county/6",
+   "yuma-county/7",
+   "yuma-county/8",
+   "yuma-county/9"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80736": {
   "governments": [
@@ -7823,16 +7839,23 @@
    }
   ],
   "issues": [
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6",
    "yuma-county/1",
-   "yuma-county/3",
+   "yuma-county/2",
    "yuma-county/4",
-   "yuma-county/7"
+   "yuma-county/3",
+   "yuma-county/6",
+   "yuma-county/7",
+   "yuma-county/8",
+   "yuma-county/9"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80757": {
   "governments": [
@@ -7859,7 +7882,7 @@
    {
     "name": "Wray",
     "share": 0.623,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Yuma County",
@@ -7868,23 +7891,30 @@
    }
   ],
   "issues": [
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6",
    "yuma-county/1",
-   "yuma-county/3",
+   "yuma-county/2",
    "yuma-county/4",
-   "yuma-county/7"
+   "wray/4",
+   "wray/7",
+   "yuma-county/3",
+   "wray/0",
+   "wray/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80759": {
   "governments": [
    {
     "name": "Yuma",
     "share": 0.753,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Yuma County",
@@ -7898,16 +7928,23 @@
    }
   ],
   "issues": [
+   "yuma-county/1",
+   "yuma-county/2",
+   "yuma-county/4",
+   "yuma/1",
+   "yuma-county/3",
    "washington-county/1",
    "washington-county/2",
-   "washington-county/3",
-   "washington-county/6",
-   "washington-county/4",
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5"
+   "washington-county/3"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80801": {
   "governments": [
@@ -7956,12 +7993,14 @@
    }
   ],
   "issues": [
-   "arriba/1",
-   "arriba/2",
-   "arriba/3",
-   "arriba/4",
+   "arriba/7",
    "arriba/0",
-   "arriba/5"
+   "arriba/6",
+   "arriba/1",
+   "arriba/8",
+   "arriba/3",
+   "arriba/5",
+   "arriba/9"
   ],
   "tagged": {}
  },
@@ -8007,16 +8046,23 @@
    }
   ],
   "issues": [
-   "kit-carson-county/1",
-   "burlington/0",
-   "burlington/1",
-   "burlington/2",
-   "yuma-county/0",
+   "yuma-county/1",
    "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6"
+   "yuma-county/4",
+   "yuma-county/3",
+   "kit-carson-county/1",
+   "yuma-county/6",
+   "burlington/0",
+   "burlington/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80808": {
   "governments": [
@@ -8109,7 +8155,14 @@
    "washington-county/9",
    "washington-county/10"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80813": {
   "governments": [
@@ -8303,14 +8356,14 @@
    }
   ],
   "issues": [
-   "green-mountain-falls/1",
+   "green-mountain-falls/5",
+   "green-mountain-falls/3",
    "green-mountain-falls/0",
-   "green-mountain-falls/4",
-   "teller-county/3",
-   "green-mountain-falls/8",
-   "teller-county/0",
-   "el-paso-county/3",
-   "teller-county/5"
+   "green-mountain-falls/1",
+   "green-mountain-falls/6",
+   "green-mountain-falls/7",
+   "green-mountain-falls/2",
+   "green-mountain-falls/9"
   ],
   "tagged": {}
  },
@@ -8362,13 +8415,13 @@
   ],
   "issues": [
    "hugo/0",
-   "hugo/2",
-   "hugo/6",
-   "hugo/4",
    "hugo/5",
    "hugo/7",
-   "hugo/3",
-   "hugo/1"
+   "hugo/1",
+   "hugo/9",
+   "hugo/2",
+   "hugo/12",
+   "hugo/3"
   ],
   "tagged": {}
  },
@@ -8381,16 +8434,23 @@
    }
   ],
   "issues": [
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6",
    "yuma-county/1",
-   "yuma-county/3",
+   "yuma-county/2",
    "yuma-county/4",
-   "yuma-county/7"
+   "yuma-county/3",
+   "yuma-county/6",
+   "yuma-county/7",
+   "yuma-county/8",
+   "yuma-county/9"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80823": {
   "governments": [
@@ -8412,16 +8472,23 @@
    }
   ],
   "issues": [
-   "yuma-county/0",
-   "yuma-county/2",
-   "yuma-county/5",
-   "yuma-county/6",
    "yuma-county/1",
-   "yuma-county/3",
+   "yuma-county/2",
    "yuma-county/4",
-   "yuma-county/7"
+   "yuma-county/3",
+   "yuma-county/6",
+   "yuma-county/7",
+   "yuma-county/8",
+   "yuma-county/9"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "yuma-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80825": {
   "governments": [
@@ -8510,7 +8577,13 @@
   ],
   "issues": [
    "limon/0",
-   "limon/1"
+   "limon/1",
+   "limon/2",
+   "limon/3",
+   "limon/6",
+   "limon/7",
+   "limon/8",
+   "limon/4"
   ],
   "tagged": {}
  },
@@ -10041,12 +10114,12 @@
   "issues": [
    "pueblo-county/0",
    "boone/1",
-   "boone/2",
-   "boone/0",
    "boone/3",
-   "boone/5",
+   "boone/0",
+   "boone/2",
    "boone/4",
-   "boone/6"
+   "boone/5",
+   "boone/7"
   ],
   "tagged": {}
  },
@@ -10080,12 +10153,14 @@
    }
   ],
   "issues": [
-   "campo/0",
-   "campo/1",
-   "campo/2",
    "campo/3",
+   "campo/6",
+   "campo/7",
+   "campo/0",
    "campo/4",
-   "campo/5"
+   "campo/5",
+   "campo/2",
+   "campo/9"
   ],
   "tagged": {}
  },
@@ -10435,10 +10510,10 @@
    "manzanola/1",
    "manzanola/2",
    "manzanola/3",
-   "manzanola/4",
    "manzanola/5",
-   "manzanola/6",
-   "manzanola/7"
+   "manzanola/9",
+   "manzanola/4",
+   "manzanola/6"
   ],
   "tagged": {}
  },
@@ -10493,14 +10568,14 @@
    }
   ],
   "issues": [
+   "ordway/3",
+   "ordway/6",
+   "ordway/1",
+   "ordway/4",
    "ordway/0",
    "ordway/7",
-   "ordway/9",
-   "ordway/1",
-   "ordway/2",
-   "ordway/3",
-   "ordway/4",
-   "ordway/5"
+   "ordway/8",
+   "ordway/9"
   ],
   "tagged": {}
  },
@@ -10556,7 +10631,7 @@
    {
     "name": "Rye",
     "share": 0.106,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Custer County",
@@ -10939,7 +11014,7 @@
    {
     "name": "Center",
     "share": 0.645,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Saguache County",
@@ -10958,11 +11033,14 @@
    }
   ],
   "issues": [
+   "center/1",
+   "center/0",
+   "center/2",
+   "center/3",
+   "center/4",
    "alamosa-county/0",
    "alamosa-county/1",
-   "alamosa-county/2",
-   "alamosa-county/3",
-   "alamosa-county/4"
+   "alamosa-county/2"
   ],
   "tagged": {}
  },
@@ -11096,7 +11174,7 @@
    {
     "name": "Hooper",
     "share": 0.426,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Saguache County",
@@ -11105,11 +11183,14 @@
    }
   ],
   "issues": [
+   "hooper/1",
+   "hooper/0",
    "alamosa-county/0",
    "alamosa-county/1",
    "alamosa-county/2",
    "alamosa-county/3",
-   "alamosa-county/4"
+   "alamosa-county/4",
+   "hooper/2"
   ],
   "tagged": {}
  },
@@ -11655,14 +11736,14 @@
    }
   ],
   "issues": [
-   "gunnison-county/3",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/2",
-   "crested-butte/1",
    "crested-butte/2",
-   "crested-butte/3",
-   "crested-butte/6"
+   "crested-butte/0",
+   "crested-butte/1",
+   "gunnison-county/3",
+   "crested-butte/7",
+   "crested-butte/9",
+   "crested-butte/10",
+   "gunnison-county/9"
   ],
   "tagged": {}
  },
@@ -12007,7 +12088,7 @@
    {
     "name": "Pitkin",
     "share": 0.545,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Gunnison County",
@@ -12016,14 +12097,14 @@
    }
   ],
   "issues": [
+   "pitkin/0",
+   "pitkin/2",
    "gunnison-county/3",
+   "pitkin/1",
+   "pitkin/3",
    "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/2",
-   "gunnison-county/1",
-   "gunnison-county/4",
-   "gunnison-county/5",
-   "gunnison-county/6"
+   "pitkin/4",
+   "gunnison-county/0"
   ],
   "tagged": {}
  },
@@ -12177,14 +12258,14 @@
    }
   ],
   "issues": [
-   "westcliffe/1",
-   "silver-cliff/3",
-   "silver-cliff/0",
    "silver-cliff/1",
-   "silver-cliff/5",
-   "westcliffe/3",
+   "silver-cliff/0",
+   "westcliffe/1",
+   "westcliffe/2",
+   "silver-cliff/3",
    "silver-cliff/2",
-   "silver-cliff/4"
+   "westcliffe/0",
+   "westcliffe/5"
   ],
   "tagged": {
    "data-center": {
@@ -12320,14 +12401,14 @@
    }
   ],
   "issues": [
+   "dolores/1",
    "dolores/2",
-   "dolores/9",
-   "dolores/0",
    "dolores/8",
+   "dolores/0",
    "dolores/3",
-   "dolores/4",
-   "dolores/7",
-   "dolores/1"
+   "dolores/5",
+   "dolores/10",
+   "dolores/9"
   ],
   "tagged": {}
  },
@@ -12625,14 +12706,14 @@
    }
   ],
   "issues": [
+   "crawford/0",
+   "crawford/2",
+   "crawford/8",
    "montrose-county/8",
+   "crawford/3",
    "montrose-county/3",
    "montrose-county/7",
-   "montrose-county/9",
-   "montrose-county/0",
-   "montrose-county/1",
-   "montrose-county/4",
-   "montrose-county/6"
+   "montrose-county/9"
   ],
   "tagged": {}
  },
@@ -12703,13 +12784,14 @@
    }
   ],
   "issues": [
-   "hotchkiss/0",
    "hotchkiss/1",
-   "hotchkiss/4",
+   "hotchkiss/7",
+   "hotchkiss/0",
    "hotchkiss/2",
    "hotchkiss/3",
    "hotchkiss/5",
-   "hotchkiss/6"
+   "hotchkiss/6",
+   "hotchkiss/10"
   ],
   "tagged": {}
  },
@@ -12757,14 +12839,14 @@
    }
   ],
   "issues": [
+   "norwood/3",
+   "norwood/8",
    "san-miguel-county/5",
    "san-miguel-county/1",
-   "san-miguel-county/0",
    "norwood/0",
-   "norwood/5",
-   "san-miguel-county/7",
-   "san-miguel-county/3",
-   "san-miguel-county/6"
+   "norwood/10",
+   "san-miguel-county/0",
+   "norwood/1"
   ],
   "tagged": {}
  },
@@ -12832,14 +12914,14 @@
    }
   ],
   "issues": [
+   "ophir/1",
    "san-miguel-county/5",
+   "ophir/2",
+   "ophir/5",
+   "ophir/6",
    "san-miguel-county/1",
    "san-miguel-county/0",
-   "ophir/0",
-   "ophir/2",
-   "san-miguel-county/7",
-   "san-miguel-county/3",
-   "san-miguel-county/6"
+   "ophir/0"
   ],
   "tagged": {}
  },
@@ -12977,14 +13059,14 @@
    }
   ],
   "issues": [
-   "ouray-county/0",
-   "ridgway/2",
-   "ridgway/7",
-   "ridgway/0",
    "ridgway/1",
-   "ridgway/4",
+   "ridgway/2",
    "ridgway/6",
-   "ridgway/8"
+   "ouray-county/0",
+   "ridgway/3",
+   "ridgway/4",
+   "ridgway/9",
+   "ridgway/0"
   ],
   "tagged": {}
  },
@@ -12998,10 +13080,12 @@
    {
     "name": "San Juan County",
     "share": 0.046,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "san-juan-county/0"
+  ],
   "tagged": {}
  },
  "81434": {
@@ -13792,10 +13876,10 @@
    "garfield-county/5",
    "garfield-county/7",
    "garfield-county/12",
-   "garfield-county/3",
-   "garfield-county/4",
-   "garfield-county/9",
-   "parachute/1"
+   "parachute/2",
+   "parachute/3",
+   "parachute/4",
+   "parachute/6"
   ],
   "tagged": {
    "data-center": {
@@ -13923,11 +14007,12 @@
    }
   ],
   "issues": [
+   "meeker/3",
    "meeker/0",
    "meeker/1",
    "meeker/2",
-   "meeker/3",
-   "meeker/4"
+   "meeker/4",
+   "meeker/5"
   ],
   "tagged": {}
  },

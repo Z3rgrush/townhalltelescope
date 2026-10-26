@@ -1,0 +1,194 @@
+# wray
+
+## [wray#0] 2026-01-13 | City Council | minutes
+- City Manager James DePue informed the Council that Ordinance #655
+- APPROVAL OF MINUTES
+- Council member Ronn Akey made a motion to approve the December 9,
+- APPOINTMENTS
+- Nomination & Appointment of Mayor
+- Council voted unanimously to appoint Nicole Smith as Mayor of the City of
+- Nomination and Appointment of Mayor Pro tem
+- unanimously. Council voted unanimously to appoint Brad Rockwell as Mayor
+- PRESENTATIONS
+- Amphitheater Advisory Board - Strategic Plan
+- Amphitheater. The Council was given a strategic plan drafted by the
+- Amphitheater revitalization project
+- Council member Ronn Akey made a motion to approve the Consent
+- Agenda consisting of: Resolution 01-2026-Designation of Public Place for
+- 2026; Resolution 02-2026-First Pioneer National Bank Signatures (I Signature
+- Required); Resolution 03-2026-Mill Levy Certification; Resolution 014-2026
+- Wray Amphitheater Strategic Plan; and Notice of an Increase in Electric Rates in
+- City of Wray Annual Financial Audit Agreement - Lauer, Szabo &
+- City Clerk/Treasurer Emily Ellis informed the Council that audit fee had
+- increased by $1,100.00 and recommended approval of the Financial Audit
+- Agreement. Council member Ronn Akey made a motion to approve the Annual
+- Financial Audit Agreement between the City of Wray and Lauer, Szabo &
+- 2026 City Board Appointments
+- Council member Jason Lorenzini made a motion to approve the 2026 City
+- Board Appointments. The motion was seconded and passed unanimously
+- Amphitheater Advisory Board Appointment
+- Council member Dane Sybrant made a motion to approve the appointment
+- Ordinance #655: Authorizing the Sale of Certain Real Property to PR
+- Transportation, LLC (Lot 10, Wray East Industrial Park)
+- City Manager James DePue presented an overview of Ordinance #655
+- of Ordinance #655. The motion was seconded and passed unanimously
+- Council member Chad Dey le made a motion to approve Ordinance #655
+- Highway 34 Bridge Replacement Project, and the Wray Library Outdoor Space
+- for review. Discussion followed regarding required signatures for various city
+- Approval of Bills
+- Council member Chad Deyle made a motion to approve the Accounts
+- Updates were given on the Yuma County Landfill, Water Authority
+- Board, Chamber of Commerce, Yuma County Economic Development
+- Thank You Notes - Vernon Fire Department
+
+## [wray#1] 2026-02-10 | City Council | minutes
+- APPROVAL OF MINUTES
+- Council member Dane Sybrant made a motion to approve the January 13,
+- PRESENTATIONS
+- of the County Express activities and requested a contribution from the City of
+- Wray. Mayor Pro tern Brad Rockwell made a motion to approve the requested
+- Council member Ronn Akey made a motion to approve the Consent
+- Agenda consisting of: Resolution 05-2026 - Wray State Bank Signatures ( Safe
+- Deposit Box); Resolution 06-2026 -Wray State Bank Signatures (2 Signatures
+- Box); Resolution 08-2026 -First Pioneer National Bank Signatures (2 Signatures
+- Elected and Administrative); Resolution 09-2026-First Pioneer National Bank
+- Signatures (2 Signatures Elected or Administrative) with correction; Resolution
+- and Resolution 11-2026 -Youth Fund Transfer to the General Fund. The motion
+- Resolution 12-2026: A Resolution in Support and Acceptance of a
+- Fund (EIAF) Program Grant (Opportunity from the Colorado Department
+- for a grant in an amount not to exceed $800,000.00 from DOLA with a local
+- the South Business and Residential District Project. Council member Ronn Akey
+- made a motion to approve Resolution 12-2026 in Support and Acceptance of a
+- DOLA Energy and Mineral Impact Assistance Fund Program Grant. The motion
+- approve the Elite Sponsorship at the $5,000 contribution level. The motion was
+- Wray Housing Authority Commission Appointments
+- Council member Ronn Akey made a motion to approve the appointments
+- of Larry Neuswanger and John Willard to the Wray Housing Authority Board
+- Consent and Agreement Among Alter Domus, Sandhills Energy, LLC, City
+- City Manager James DePue explained the Consent and Agreement relating
+- to the Solar Energy Project. Council member Chad Dey le made a motion to
+- approve the Consent and Agreement Among Alter Dom us, Sandhills Energy,
+- Report. Discussion followed regarding ambulance repairs and a traffic safety
+- for review. The Council granted permission to provide copies of identification
+- Approval of Bills
+- Council member Chad Deyle made a motion to approve the Accounts
+
+## [wray#2] 2026-03-10 | City Council | minutes
+- APPROVAL OF MINUTES
+- Council member Chad Deyle made a motion to approve the February 10,
+- PRESENTATIONS
+- YCEDC activities and requested a contribution from the City of Wray for the
+- Council Member Chad Deyle made a motion to approve the requested 2026
+- 2026 Board Appointments
+- Council Member Chad Deyle made a motion to approve the updated 2026
+- Board Appointments with changing Wray Planning Commission representative
+- Resolution 13-2026: A Resolution Authorizing The Submittal Of A Grant
+- Application To The Colorado Department of Transportation Office Of
+- for a grant in an amount of $9,038 from CDOT Office of Transportation Safety
+- Highway Safety Office (HSO) Grant Program to support “The Power to Be Safe”
+- partnership between the City of Wray Police Department, Wray Junior-Senior
+- motion to approve Resolution 13-2026. The motion was seconded and passed
+- Resolution 14-2026: A Resolution Supporting CDS Application
+- two Congressional Directed Spending (Community Project Funding) requests for
+- approve Resolution 14-2026. The motion was seconded and passed unanimously
+- City Manager James DePue requested to reschedule the April 14, 2026
+- Resolution 15-2026: Establishing Electric Rates for the City of Wray,
+- At 7:59 PM Mayor Nicole Smith called the Public Hearing to order. With
+- Lorenzini made a motion to close the Public Hearing. The motion was seconded
+- approve Resolution 15-2026. The motion was seconded and passed unanimously
+- Report. Discussion followed regarding recent electric outage, status of tennis
+- courts, police department efforts on electric bike/scooter enforcement, Blake
+- Street Bridge project grant close out, and funding of new ambulance
+- Approval of Bills
+- Council Member Ronn Akey made a motion to approve the Accounts
+- Updates were given on the East Yuma County Economic Development
+
+## [wray#3] 2026-04-21 | City Council | minutes
+- Council member Ronnald Akey made a motion to approve the March 10, 2026 Council
+- taking place in Yuma, July 8-10, 2026, and requested a contribution in the amount of $2,000
+- Council member Ronnald Akey made a motion to approve the requested contribution in the
+- Council member Ronnald Akey made a motion to approve the Consent Agenda
+- consisting of: Resolution #16-2026 – Amphitheater Donation Fund Transfer and Resolution #17
+- PUBLIC HEARING
+- Amendments to Title 18: Zoning & Title 16: Subdivision Regulations
+- Mayor Nicole Smith made a motion to open the Public Hearing for Amendments to Title
+- 18: Zoning & Title 16: Subdivision Regulations. The motion was seconded and passed
+- Dane Sybrant made a motion to close the Public Hearing. The motion was seconded and passed
+- Resolution 18-2026: Authorizing and Directing Execution of Amendment of Contract no
+- 17-SLC-0861 with Western Area Power Administration Identified as Scheduling,
+- City Manager James DePue explained that this agreement will allow MEAN to continue
+- to handle power purchases for the City of Wray based on new requirements due to transmission
+- level changes within the industry. Council member Ronnald Akey made a motion to approve
+- Resolution 18-2026. The motion was seconded and passed unanimously
+- Resolution 19-2026: Authorizing the City Manager to Execute a Memorandum of
+- of Colorado Denver, Colorado Center for Community Development and City of Wray to
+- Assist in Amphitheater Improvements Design
+- Council Member Jason Lorenzini made a motion to approve Resolution 19-2026. The motion
+- At 7:56 PM Mayor Nicole Smith made a motion to go into Executive Session to discuss
+- the purchase, acquisition, lease transfer, or sale of real, personal, or other property interest under
+- that may be subject to negotiations, developing strategy for negotiations, and/or instructing
+- any person who participated in the Executive Session believes that any substantial discussion of
+- City Manager James DePue presented the monthly written Manager’s Report. Discussion
+- updates on Congressional District Spending Request, and possible modification of UTV Off
+- Road Vehicle Ordinance
+- Approval of Bills
+- Council Member Ronnald Akey made a motion to approve the Accounts Payable Report
+- Society Board, Yuma County Landfill Board, Water Authority Board, Recreation Committee,
+
+## [wray#4] 2026-05-12 | City Council | minutes
+- Council member Chad Deyle made a motion to approve the April 21, 2026
+- No Presentations
+- Resolution 20-2026: Authorizing Request For Amendment Of Department Of Local
+- Affairs (“DOLA”) Local Planning Capacity (LPC) Grant #25-085-Wray Southern
+- City Manager James DePue explained that this resolution would authorize the
+- Mayor/Mayor Pro Tem to execute an amendment to the current grant contract to add the
+- additional $50,000 to LPC Grant #25-085 to concentrate on affordable housing plans
+- Council Member Chad Deyle made a motion to approve Resolution 20-2026. The
+- First Reading Ordinance No. 656: Amending and Repealing Provisions of Title 18:
+- Zoning Code of the City of Wray Municipal Code
+- Ordinance No. 656. The motion was seconded and passed unanimously
+- Associates as part of the Innovative Housing Strategies Grant (IHOP) project in an effort
+- Commission and Ordinance No,. 656 is being recommended by the commission for
+- adoption. Council Member Chad Deyle made a motion to approve the First Reading of
+- First Reading Ordinance No. 657: Amending and Repealing Provisions of Title 16:
+- Ordinance No. 657. The motion was seconded and passed unanimously
+- Commission and Ordinance No,. 657 is being recommended by the commission for
+- adoption. Council Member Dane Sybrant made a motion to approve the First Reading of
+- Ordinance No. 658: Establishing a Robust Procurement Policy and Procedure
+- Ordinance No. 658. The motion was seconded and passed unanimously
+- City Manager James DePue explained that this Ordinance codifies current procurement
+- approve Ordinance No. 658. The motion was seconded and passed unanimously
+- Ordinance No. 659: An Ordinance For The Regulation Of Traffic By The City Of
+- Code For Colorado”; Repealing All Ordinances In Conflict Therewith, And
+- Ordinance No. 659. The motion was seconded and passed unanimously
+- City Manager James DePue explained that this Ordinance will formally adopt the 2024
+- Council member Chad Deyle made a motion to approve Ordinance No. 659. The motion
+- Session to discuss the purchase, acquisition, lease transfer, or sale of real, personal, or
+- strategy for negotiations, and/or instructing negotiators, under C.R.S. Section 24-6
+- person who participated in the Executive Session believes that any substantial discussion
+- Discussion expressing appreciation to: the members of the Planning Commission for
+- Procurement Ordinance; and the Wray Police Department (specifically Sargeant Kade
+- Ordinance. City Manager James DePue also provided updates on the Civic Center Project
+- stating our Congressional Direct Spending request in the amount of $2.1 million for the
+
+## [wray#5] 2026-06-09 | City Council | agenda
+- 3. APPROVAL OF MINUTES
+- hearing. Council may or may not respond to comments. City Council will make no decision nor take action,
+- 5. PUBLIC HEARING
+- a. Second Reading, PUBLIC HEARING and possible final action on Ordinance No. 659: An Ordinance
+- Edition Of The “Model Traffic Code For Colorado”; Repealing All Ordinances In Conflict Therewith,
+- i. Public Hearing
+- 1. Call Public Hearing to Order
+- 2. Public Comments
+- 5. Motion to close/continue Public Hearing
+- a. City of Wray Annual Financial Audit Agreement (Revised Engagement Letter) – Lauer, Szabo &
+- b. Second Reading Ordinance No. 656: Amending and Repealing Provisions of Title 18: Zoning Code of the
+- c. Second Reading Ordinance No. 657: Amending and Repealing Provisions of Title Subdivision
+- d. Resolution 21-2026: Authorizing Approval and Ratifying the City Manager’s Signature for the Transfer
+- of $150,000 in the Airport Improvement Program (AIP) Entitlement Funds From the City of Wray
+- e. Exclusive Right-To-Sell Listing Contracts Wray East Industrial Park Lots 2 & 3
+- f. Exclusive Right-To-Sell Listing Contracts Lots 1- 6, Block 1, Golf Course Commercial Addition to
+- the Wray Industrial Park
+- a. Draft Agreement Between Owner and Contactor for Construction Contract (Stipulated Price)-Guaranteed
+- b. RFP: 139-2025 - Wray Civic Center Construction Possible Award Consideration
+- c. Approval of Bills ($796,217.05)

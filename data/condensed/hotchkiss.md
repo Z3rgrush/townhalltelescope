@@ -1,6 +1,363 @@
 # hotchkiss
 
-## [hotchkiss#0] 2026-08-13 | City Council | minutes
+## [hotchkiss#0] 2025-11-13 | City Council | minutes
+- Pat Medina made a motion to approve the minutes as presented, Roger Christian seconded. A
+- Pat Medina made a motion to approve the minutes as presented, Jim Jorgensen seconded. A
+- 3. CONSIDERATION OF BILLS
+- 4. PUBLIC COMMENT
+- Mayor Wingfield read the rules for Public Comment
+- within the Town and an Ordinance came shortly after. He said that there have been two projects,
+- which were Main Street and some in front of the Creamery. February of 2022 was when Larry
+- Wilkening, Roger Christian and Richard Kramer went through Town and rated the sidewalks
+- from best to worst. Yet there has been no progress since then. He suggested to add a fee onto the
+- utility bills, that would need voter approval, to build up funds for the Town to fix the sidewalks
+- Emma Kottenstette, 188 E Orchard St, started giving comment on a public hearing and was
+- addressed that she would be able to speak with the public comment of the hearing
+- Joel Reed, 553 N Cedar Dr, stated that he had submitted an Ordinance that would protect the
+- children from advertisements that children shouldn’t have to be involved in. He is disappointed
+- 4. PUBLIC COMMENT (Cont.)
+- 6. PUBLIC HEARINGS
+- VARIANCE REQUEST FOR NONCONFORMING LOT SIZE AND BUILDING
+- PLACEMENT-LIESL DEFIELD OF DRIVE BREW-TBD 6TH STREET
+- STAFF PRESENTATION
+- Mayor Wingfield told the Board that the Variance Request was approved for recommendation
+- APPLICANT DISCUSSION
+- Jim Jorgensen asked about safety with the parking that is established with City Market and a
+- Liesl clarified that the drive-thru would be towards the road
+- PUBLIC COMMENT
+- Emma Kottensette, 188 E Orchard St, stated that she is concerned about the parking. She cited
+- the parking requirements and that there is no parking on the plan. She also questioned the square
+- footage and the agreement with the manager of City Market, stating that it should be with the
+- pedestrians. There is also no room for vendors or semi parking. She questioned if parking
+- and that they are okay with the staff parking there and would be okay with delivery trucks
+- Joel Reed, 533 N Cedar Dr, stated that the plans will be an improvement
+- 6. PUBLIC HEARINGS (Cont.)
+- Tom Wills, 159 W Main St, stated that the zoning code hasn’t been changed but that there has
+- been a precedence set. This could be another variance request
+- Sven Edstrom made a motion to table this hearing and refer the application back to the applicant
+- for documented parking agreement with City Market and to work with Farm Runners, Jim
+- BOUNDARY ADJUSTMENT FOR 247 AND 263 W MAIN STREET-FIRST BAPTIST
+- purchased the next property over
+
+## [hotchkiss#1] 2025-11-13 | City Council | minutes
+- 4. ADJOURMENT TO BUDGET WORK SESSION
+
+## [hotchkiss#2] 2025-12-11 | City Council | minutes
+- 2. PUBLIC COMMENT
+- Pat Medina made a motion to approve the minutes as presented, Sven Edstrom seconded. A
+- Pat Medina moved to approve the minutes of November 13, 2025, with the above noted change
+- pleasure working with her and discussing the Town Business. There will be a Franchise
+- Agreement with DMEA (Delta Montrose Electric Association) created concerning Broadband. It
+- will be brought to the Board in January for approval
+- separate lists for Trustees, Employees, and Department Heads. Starting with the January packets,
+- Administrator met with Urban Rural Continuum regarding the Master Plan. Email updates are
+- very successful and the first draft for the Master Plan will be introduced at the February Planning
+- Roger Christian moved to approve the Liquor License Renewal for Pat’s Bar and Grill, seconded
+- Pat Medina moved to approve the Liquor License Renewal for Three Twenty Bar and Grill,
+- Pat Medina moved to approve the Liquor License Renewal for the Hotchkiss Elks Club,
+- Roger Christian moved to approve the Special Events Liquor License for the Hotchkiss Elks
+- still awaiting the renewal fee
+- approved and asked for the opinion of Attorney Nerlin. Attorney Nerlin said that there are two
+- approaches; One being that approval can be contingent on payment being made. The second one
+- would be to say that the application will be processed once the payment has been made. The
+- extension via a submitted letter and the Board of Trustees granted the extension until the
+- December meeting. His application was turned back in and Josh told Town Clerk Ginger Redden
+- that he would be in to pay the fee, but she has not seen him with the payment yet
+- Mayor Wingfield does not feel comfortable approving it without payment
+- entail a public hearing at the next meeting to revoke his license. That is not the process on the
+- at a one-month extension where the application will be considered contingent upon payment
+- doing this every month and feels that he is taking advantage of the Town
+- Pat Medina said that a late fee may need to be put on this due to nonpayment
+- Board meeting, Josh will have to pay his fee before January 2, 2026. The next meeting is January
+- 8, 2026, which is not much time. If he has not paid by that time, then a Public Hearing can be
+- and if full payment has not been received a Public Hearing can be scheduled to revoke his
+- AGENDA APPLICATION REQUEST-WESTERN SLOPE CONSERVATION CENTER
+- Jake presented a slide show to the Board of Trustees regarding the Wildfire Ready Action Plan
+- for pre-fire and post fire work. The Board thanked Jake for his hard work and told him that he
+
+## [hotchkiss#3] 2026-02-12 | City Council | minutes
+- Mayor Wingfield tabled action items D. Amendment to Interim Town Administrator
+- contract for clarity purposes and H. Deciding vote to move forward with permanent
+- Chief Green calls up Officer Haskins and presented him with a plaque certificate
+- citizenship awards
+- retirement for Officer Winnett who was with the Police Department December 2023
+- 2. PUBLIC COMMENT
+- John Marta of 583 Juniper Street, he stated that he has been on the board and a part of
+- police get stressed out and that the chief knows when the officers need to be on or not
+- Police run 24/7 and they need equipment. We do not need a manager each department has
+- departments. Mayor Wingfield states that the Police Department just received three new
+- Pat Medina moved to approve the minutes, Roger Christian seconded. A verbal vote was
+- Pat Medina moved to approve with the stipulation of paying optional premises fee of
+- STREET CLOSURE REQUEST- DUCKWORKS
+- Brandon Dowell requesting street closure 32nd annual customer appreciation BBQ. Pat
+- Medina moved to approve, Randy Thalmann seconded, A verbal vote was taken with all
+- AGENDA APPLICATION REQUEST- DAVE COTTEN
+- Paonia build their trailer. Pat Medina made a motion to approve, Sven Edstrom seconded
+- PUBLIC HEARING
+- ORDINANCE 2026-01 IMPOSING A TEMPORARY MORATORIUM ON THE
+- ISSUANCE OF NEW OUT-OF-TOWN WATERTAPS; LIMITATIONS ON THE
+- SALE OF TOWN WATER FROM THE TOWN STANDPIPE AND DELCARING AN
+- that now is the time to get thinking about conserving water. Pat Medina reads a public
+- water hauler and see where he is hauling water to. Each of its customers should have an
+- account for the Standpipe so that we can track how much and where the water is going
+- towns in a drought year. Hotchkiss treats its own water and should be kept for Hotchkiss
+- where the water is going to establish a parameter. Bo Nerlin states from a staff’s
+- perspective it is explicate in the ordinance that there should be the ceasing of sale from
+- the water of the standpipe for commercial purposes or for construction purposes. Also, it
+- public comment Allen Todd asked, is there anyway the town knows how much water
+- goes out in a month? John Marta commented that he hauled water and that water goes
+- from Hanson, Powell and Redlands mesa, he wanted the board to be aware that the water
+- treats that water will there be any restrictions like Hanson mesa? Mayor Wingfield stated
+- that we treat their water, but the system is separate from the town, they have their own
+- rules. Marvin Jackson, the town treats the water, it isn’t town water. Mayor Wingfield
+- agrees with Attorney Bo Nerlin’s recommendation of passing the emergency ordinance
+
+## [hotchkiss#4] 2026-02-26 | City Council | minutes
+- 2. HOTCHKISS BOARD OF TRUSTEES COMPENSATION DISCUSSION AND REQUEST FOR
+- can go into effect before the Election if approved tonight. The next election will be in two (2) years
+- The Trustees had several minutes of discussion and agreed that the pay for the elected officials
+- Interim Town Manager Lauren Gister said that she will get an Ordinance together for Emergency
+- There were several minutes of discussion by the Board including:
+- a. Housing in the Town of Hotchkiss and the difficulty ﬁnding places to live
+- d. Changes needed for the Master Plan wording
+- Amendment, job description, and RFQ/RFP for a search ﬁrm to assist the Board in that process,
+- ISSUANCE OF REQUEST FOR QUALIFICATIONS/REQUEST FOR PROPOSALS
+- Roger Christian moved to ask Attorney Bo Nerlin to write a RFP (Request for Proposal) for the
+- DEPARTMENT OF LOCAL AFFAIRS AND TO DISCUSS A SEPARATE THIRD-PARTY INQUIRY OF
+- Department of Local Affairs and to discuss separate third-party inquiry of Town Matters, seconded
+- substantial discussion of any matters not included in the motion to go into the Executive Session
+
+## [hotchkiss#5] 2026-03-12 | City Council | minutes
+- 2. PUBLIC COMMENT
+- No public Comment
+- Custer McLeod made a motion to pay the bills and approve February 26, 2026
+- Working on putting together municipal budget training
+- Donation Request-North Fork Valley Chamber of Commerce
+- Connie Layton from North Fork Valley Chambers was here to request a donation
+- entrance signs. The project total is $1000.00. No other towns have been asked yet
+- housed in Hotchkiss the discussion was how much should we donate, Custer
+- event Corporal Prentice reviewed the application and has no issues with it. Custer
+- Mcleod made a motion to approve. Roger Christian seconded. A verbal vote was
+- like they have done in the past. They did not request an optional premises
+- Corporal Prentice has no issues with it. Custer Mcleod made a motion to approve
+- LAWN BID READING AND POSSIBLE AWARDING
+- Mayor Pro Tem Pat Medina noted that Mr. Dybala has a bid in. He has been
+- doing the lawn care for the last two seasons. Trustees reviewed the three bids that
+- Insurance requirements were not put in the ad, but they are told when awarded
+- Sven Edstrom moved to approve Don Dybala for Lawn care. Custer Mcleod
+- PUBLIC HEARING: ORDINANCE 2026-02: TRUSTEE COMPENSATION
+- Gister prepared a proposal based on the work session discussion. This will only
+- reappointed members. This is in accordance with where the rest of the valley is at
+- Mayor Pro Tem Pat Medina opened a public comment
+- him know that the new board would discuss their schedule based on the municode
+- Roger Christian made a motion to pass ORDINANCE 2026-02 an Emergency
+- ordinance of the Town of Hotchkiss Colorado amending chapter 2 of the
+- APPROVAL OF RFP FOR NEW TOWN ATTORNEY
+- regarding the grant process. It may not be in Hotchkiss’s best interest to wait. She
+- will keep the board updated. There is no guarantee the grant will be awarded. The
+- board must make the decision to wait for confirmation of the grant before hiring a
+- anticipated grant opening. Interim Town Administrator Lauren Gister will ensure
+- would not be covered by a grant
+- Lauren Gister’s contract could be extended. She has been asked and is open to
+- further discussion, with the role potentially evolving based on the town’s needs
+- regarding the grant process
+- Mayor Pro Tem Pat Medina allowed a public comment from Mike West at 399
+
+## [hotchkiss#6] 2026-04-09 | City Council | minutes
+- 2. PUBLIC COMMENT
+- Don Dybala, 682 E Bridge Street and Candidate for Mayor against Pat Medina congratulated Pat on
+- Water Plant and the Sewer Plant
+- Three (3) RFPs (Request for Proposals) have been turned into the Town of Hotchkiss. The RFP
+- Applications will be due in July, and a committee will select people to take the academy. It is a ten
+- a. GRAVES CONSULTING-PRESENTATION AND ADOPTION OF WAGE COMPENSATION STUDY
+- and the slide show presentation of the ﬁndings of Graves consulting was shared with the
+- budget if the Board decides to move forward with Laurie Graves’ recommendations and it will
+- not increase the budget for 2026. This implementation would start for all employees on June 1,
+- 2026, if approved
+- Pat Medina said that she likes the breakdown of the presentation and likes the fact that it is
+- Sven Edstrom still voiced Budget questions and concerns
+- comparison this Fund is in good shape. Money was already budgeted for salaries for the year
+- 2026. Town Clerk Ginger Redden also budgeted more for the Salary Survey than it ended up
+- Chief Green has worked hard on his budget to get his employees to where they need to be
+- If the salary increase is approved, Laurie Graves of Graves consulting will give a presentation
+- the employee presentation tomorrow if the Board approves it tonight
+- Laurie Graves discussed more about the study and explained that all the information required
+- The survey also considers a cost of labor increase every year for employees to keep them
+- Lauren Gister also addressed the Board about the vacation and insurance that is being offered
+- now and improvements that can be made that will not cost a lot but be very beneﬁcial to the
+- For example, right now, vacation time does not track with current averages and increasing it
+- vacation instead of one (1) will help and increase the vacation from there
+- Vacation should start with two (2) weeks per year or ten (10) days of vacation. Five (5) to ten
+- (10) years should have ﬁfteen (15) days of vacation and eleven (11) years and over should
+- have twenty (20) days of vacation. The vacation should increase a little each year until each
+- goal is achieved. There should be a limit on the amount of vacation that can be paid out and
+- vacations should be encouraged
+- Another beneﬁt that can be changed that will minimally increase the budget and will be
+- only increase the budget by $3,000 to $5,000
+- Pat Medina said that she feels that we should help the employees and this is a good way
+- Sven Edstrom feels that there is too much information to make a decision on tonight
+
+## [hotchkiss#7] 2026-04-23 | City Council | minutes
+- 2. PUBLIC COMMENT
+- The Planning Commission approved the Final Master Plan at their meeting last night
+- There are currently two (2) applications for the Town Administrator position
+- a. APPOINTMENT OF TWO (2) NEW TRUSTEES
+- Donald Dybala of 682 E Bridge Street stated that he has been the Planning
+- Tom Wills of 159 W Main Street stated that he has experience as a Trustee as well
+- Jim Jorgensen moved to appoint Sven Edstrom and Donald Dybala to ﬁll the two (2) open
+- Town Clerk Ginger Redden swore in newly appointed Trustees Sven Edstrom and Donald
+- b. APPOINTMENT OF JUDGE, ATTORNEY , MAYOR PRO-TEM AND TOWN CLERK
+- APPOINTMENT OF JUDGE BRUCE JOSS
+- Joel Reed moved to reappoint Judge Bruce Joss as the Town of Hotchkiss Judge, seconded
+- APPOINTMENT OF JUDGE, ATTORNEY , MAYOR PRO-TEM AND TOWN CLERK (cont.)
+- APPOINTMENT OF TOWN ATTORNEY
+- APPOINTMENT OF MAYOR PRO TEM
+- Mayor Pat Medina told the Board that she has discussed this position with Trustee Sven
+- APPOINTMENT OF TOWN CLERK
+- being reappointed to the position
+- c. APPOINTMENT OF NEW PLANNING COMMISSION MEMBERS
+- Dybala, former chairperson of the Planning Commission, appointed as a Trustee, there are
+- Tom Wills of 159 W Main Street said that he was a founding member of the Planning
+- of it again. He is familiar with the regulations and with the new Master Plan adoption, he
+- feels his experience will be helpful
+- c. APPOINTMENT OF NEW PLANNING COMMISSION MEMBERS (cont.)
+- Don Dybala moved to appoint Rich Kramer and Tom Wills as the new Planning Commission
+- 8. DROUGHT RESTRICTIONS DISCUSSION
+- water station (Standpipe) and he feels that everything else should remain the same so that
+- everyone can be treated fairly. The Town of Cedaredge just passed a drought Resolution saying
+- that no swimming pools or hot tubs can be ﬁll and then approved a new subdivision. Marvin feels
+- that the water rates up to the ﬁrst ten thousand (10,000) gallons of water should remain at the
+- same price and then be raised over that point. Water restrictions can be tough to enforce
+- whether it is watering only two (2) days a week or every other day watering on the odd and even
+- Sven Edstrom suggested a rate increase or a hauling limit on the gallons a person can haul
+- gallons and people who use cisterns already are great water conservers
+- Marvin Jackson said that all the Town water rates are some of the lowest around. Paonia has a
+- down as well and that leaves people to come to Hotchkiss if this is their only water resource
+- Jim Jorgensen said that if they are going to use our water, they should pay the same as an in
+- Town resident must pay. We have the lowest rates around
+
+## [hotchkiss#8] 2026-05-14 | City Council | minutes
+- PUBLIC COMMENT
+- PRESENTATION OF PLAQUES TO OUTGOING ELECTED OFFICIALS
+- Attorney Bo Nerlin said the bulk of his comments would be at the end of the meeting with the New Attorney recommendation. Attorney Nerlin also stated that he feels that the second meeting of the Board of Trustees on May 28, 2026, would be important to have to introduce the contract for the new Attor
+- Interim Town Administrator Lauren Gister reminded the Board that the application closing date for the new Town Administrator through KRW Associates LLC, is at the close of business on Monday, May 18, 2026. There will be a schedule sent out once the applications have been gone through and KRW makes t
+- Town Clerk Ginger Redden told the Board that Corporal Prentice looked over the application and said that it all looked good
+- RESOLUTION 2026-04 CONCERNING DROUGHT REGULATIONS
+- Don Dybala asked how the water was measured at the source and asked about the amount of household water usage per house
+- Public Works Director Marvin Jackson said the measurement of water is measured in acre- feet. Don Dybala asked about the 6,000 gallons of water approximate measurement used for this Resolution. This number is what is used as the average measurement
+- There were several minutes of discussion about the water rates being the lowest in the County as well as the amount charged at the bulk water station and the people that use it
+- It was noted that people that haul water naturally conserve it better than residents that have access to water without having to haul it
+- There was a water rate study done a couple of years ago, but the calculation did not include the cost increase of everything that the Town has done
+- The Board decided that the bulk water station (standpipe) should be discussed separately. There will be a Work Session before the second Board Meeting to be held on May 28, 2026
+- Interim Town Administrator cautioned the Board about keeping the water rates and regulations separated from the drought rates and regulations. Once hired, the permanent Town Administrator will dig into the water rate situation
+- Sven Edstrom asked if the Work Session will be on the Bulk Water Station as well as the water rates. He said that outside of the 81419 ZIP code will go to $12.00 per thousand at the bulk water station but then what?
+- FIRST BAPTIST CHURCH STREET LIGHT DISCUSSION
+- Public Works Director Marvin Jackson told the Board that the cost for the installation of the streetlight would be $1800 and then anywhere from $10 to $14 a month on the DMEA (Delta Montrose Electric Association) bill
+
+## [hotchkiss#9] 2026-05-26 | City Council | minutes
+- EXECUTIVE SESSION: PURSUANT TO COLORADO REVISED STATUTES 24-6-402(4)(f)(l) FOR DISCUSSION OF PERSONNEL MATTERS RELATED TO THE RECRUITMENT AND EVALUATION OF APPLICANTS FOR THE POSITION OF TOWN ADMINISTRATOR
+- For the record, if any person who participated in the Executive Session believes that any substantial discussion of any matters not included in the motion to go into the Executive Session occurred during the Executive Session, or that any improper action occurred during the Executive Session in viol
+
+## [hotchkiss#10] 2026-05-28 | City Council | minutes
+- PUBLIC COMMENT
+- Attorney Bo Nerlin said that no contract has been delivered to his office yet. The contract will be ready for the June 11, 2026, meeting. To assist with some of the transition there will be a couple of more big items to address at the June 11, 2026, meeting. One of the items will be preparation of T
+- Attorney Bo Nerlin asked if the Board would be in favor of having a legal review of the contract and then bring it back to the Board at the June 11, 2026, Meeting
+- Mayor Pat Medina said that it is a good idea to have the contract reviewed
+- Joel Reed moved to have Attorney Bo Nerlin review the contract and bring it back to the Board at the June 11, 2026, meeting. A verbal vote was taken with all Trustees voting in favor. Motion passed
+- NEW TOWN ATTORNEY CONTRACT DISCUSSION AND POSSIBLE APPROVAL
+- Attorney Bo Nerlin said that there is no contract available at this time. There will be one ready for the June 11, 2026, Board of Trustees meeting
+- RESOLUTION 2026-05 RESOLUTION OF SIGNERS
+- AUDIT APPROVAL FOR 2026
+- Pat Medina asked if Caselle was helpful with all of the payroll changes that are being made. Deputy Town Clerk Tessa Denison said that Caselle has been very helpful and the changes to be made are almost all ready to go. Mayor Pat Medina said that she is glad that payroll is going to be biweekly sinc
+- For the record, if any person who participated in the Executive Session believes that any substantial discussion of any matters not included in the motion to go into the Executive Session occurred during the Executive Session, or that any improper action occurred during the Executive Session in viol
+
+## [hotchkiss#11] 2026-06-02 | City Council | minutes
+- EXECUTIVE SESSION: PURSUANT TO COLORADO REVISED STATUTES 24-6-402(4)(f)(l) FOR DISCUSSION OF PERSONNEL MATTERS RELATED TO THE RECRUITMENT AND EVALUATION OF APPLICANTS FOR THE POSITION OF TOWN ADMINISTRATOR
+- For the record, if any person who participated in the Executive Session believes that any substantial discussion of any matters not included in the motion to go into the Executive Session occurred during the Executive Session, or that any improper action occurred during the Executive Session in viol
+
+## [hotchkiss#12] 2026-06-10 | City Council | minutes
+- DISCUSSION OF PERSONNEL MATTERS RELATED TO THE RECRUITMENT AND EVALUATION OF
+- substantial discussion of any matters not included in the motion to go into the Executive Session
+
+## [hotchkiss#13] 2026-06-11 | City Council | minutes
+- 2. Public Comment
+- Joel Reed moved to approve the Consent Agenda with the above-noted changes,
+- Joel Reed told the Board that he feels the Attorney Contract should be reviewed and a
+- possible amendment made regarding the setting of the price. He asked how often the
+- said that it would be discussed once the Board reached that line item on the agenda
+- 7. Public Hearings
+- Mayor Pro Tem Sven Edstrom read the rules for Public Hearings
+- 1) Variance Request for Setbacks for Shed Replacement – 159 E. Orchard (Lorena
+- Staff Presentation
+- Don Dybala told the Board that this was discussed at the Planning Commission
+- Meeting. The discussion included fire-resistant materials for the new shed and the
+- consideration as well
+- Variance that are not currently stated in the Ordinances. Jim noted that a Variance was
+- recently approved in Willow Heights for setbacks with no further restrictions. He feels
+- the Variance being requested is all that should be discussed, and adding extra
+- Applicant Presentation
+- Public Comment
+- The Board deliberated for several minutes regarding the setback request and the shed
+- material. The Planning Commission recommended approval of this Variance with the
+- stipulation that the structure be on skids and the sheds be metal, fire-resistant
+- Motion: Roger Christian moved to approve the Variance request for Erik Mendoza and
+- 2) Variance Request for Fence Height – 791 Barrow Mesa Road (Stacey Hodapp)
+- Sven Edstrom mentioned the 4-foot height limit required by the fencing Ordinance for all
+- Stacey Hodapp requested clarification on the 4-foot height restriction within the first 25
+- feet from the front property line. He explained to the Board that this Variance Request
+- for an 8-foot fence will help mitigate privacy issues created by his neighbors, who park
+- He noted that only 138 feet of the perimeter will feature the 8-foot fence, while the
+- remaining 141.73 feet will be left as is
+- Tom Wills, 159 W. Main Street, reiterated that the Planning Commission made
+- fence. Jim Jorgensen noted there is no road where the fence is proposed, meaning Mr
+- Following extended discussion, Attorney Bo Nerlin advised that the back-and-forth
+- discussion needed to conclude so the Board could vote on the request. Mayor Pro Tem
+- Sven Edstrom noted the Board had two options: 1) Grant the Variance Request, or 2)
+- 3) Variance Request for Fence Height – 319 Knob Hill Circle Drive (Joanna Clarke)
+- the Planning Commission recommended approval due to the unique shape of the
+- property line and all cars park outside of it. They want a 6-foot fence height around the
+
+## [hotchkiss#14] 2026-07-09 | City Council | minutes
+- 2. Public Comment
+- Mayor Pat Medina read the rules of Public Comment
+- Don Foster of 226 N First Street told the Board that he submitted an Agenda Request Application to be on the agenda for July 23, 2026. Don has a proposal to develop a park across from the Elks Lodge where there are now empty lots. Don passed out pictures of the proposed park to the council and will 
+- Mayor Pro Tem Sven Edstrom joked about how long the meeting that he chaired was while Mayor Patricia Medina was on vacation
+- Town Administrator Kimberly States agreed with Town Attorney Sarah Ross about running. An all-staff lunch was held today, and the crosswalk project contract has been approved and just needs signatures
+- 7. Public Hearings
+- Mayor Patricia Medina read the rules for Public Hearings
+- 1) Ordinance 2026-04: An Ordinance Establishing the Office of Town Administrator Providing for Appointment, Powers, Duties, and Personnel Authority of the Town Administrator
+- Staff Presentation: Mayor Patricia Medina said that this Ordinance will give new Town Administrator Kimberly States all the tools that she needs to run the departments
+- Applicant Presentation: None
+- Public Comment:
+- 2) Ordinance 2026-03: Wildland-Urban Interface Code
+- Staff Presentation: Mayor Pro Tem Sven Edstrom was curious about the map of the fire risk area in the Town limits. Don Dybala said the map encompassed the whole Town
+- Public Comment: Opened and closed at 6:40 p.m. with no comments
+- a. Opening Sealed Bids for Public Works Vehicle Ad
+- Two (2) bids were submitted for the white 2010 Ford XL F-150 pickup that Public Works listed for sale. Mayor Patricia Medina opened the bids:
+- Deutsch Domestic Water Company: $3,500.00
+- No representative from the Rocky Mountain Elk Foundation was present. Mayor Pat Medina told the Board that this is the yearly fundraiser for their scholarship program. Chief Scott Green was not present, but Town Clerk Ginger Redden noted she emailed Chief Green the application and he had no concerns
+- There was no representative from the Hotchkiss Elks Lodge in attendance. Town Clerk Ginger Redden informed the Board that she emailed all information to Chief Scott Green, who had no concerns regarding the application. Don Dybala noted that it looked good. The Board briefly discussed the limit on Sp
+- e. Agenda Application Request — Joshua Frye (Smoke and Accessories Shop)
+- Joshua Frye was not present. There was discussion regarding whether his tax payments were in good standing with the Town. This item was tabled until Joshua Frye can attend
+- f. Agenda Application Request — Chuck Pine (524 Willow Drive re: 602 Cottonwood Lane)
+
+## [hotchkiss#15] 2026-07-23 | City Council | minutes
+- 2. Public Comment
+- Nathaniel Anthony Morales of 103 to 107 W Bridge Street, Apartment 6, Hotchkiss, Colorado 81419
+- Joy Catherine Henig of 680 E Bridge Street #2 agreed with Nathaniel’s statements
+- Town Administrator Kimberly States told the Board that her most recent update was the email that she sent to the Board of Trustees on July 14, 2026. Budget preparation is starting with Department Heads having a deadline of August 3, 2026, to get her their notes on what should be included for the 202
+- a. Agenda Application Request-Don Foster
+- Mayor Patricia Medina told the Board that the Resolution that Don Foster included with his items was not included in the packet. A Resolution will be implemented if the Board determines that this is something that they would like to proceed with. There are a lot of things to consider and discuss. It
+- Don Foster of 226 N 1st Street told the Board that he moved to the Town of Hotchkiss in 2011. His occupation is carpenter and in early June he noticed that the two lots, located at 171 E Bridge Street and 191 E Bridge Street, were for sale. In 2022 a rendition of a park was done, and he feels that a
+- Don said that a park is a huge undertaking, and the first step might be a working group with a couple of interested Trustees and citizens to investigate the idea and see what needs to be done and report the findings to the Board
+- A non-profit could become a part of this process as well. The Town would own the land, but the non-profit would be responsible for the grants, and the upkeep once it is established
+- Mayor Patricia Medina said that a park is a great idea, but the Town cannot promise anything. The Board needs to discuss the possibility
+- Jim Jorgensen said it is a smart idea, and he feels a working group should be put together to bring back more facts. Right now, the idea is too vague for a decision
+- The Board agreed to put this item on the agenda for the August 13, 2026, meeting when the whole Board is present to have the discussion
+- b. Ordinance 2026-05 Franchise Agreement for the Purchase of Delta County Tele-Com, Inc Second Reading Possible Approval
+- Mayor Pat Medina asked if everyone had looked the Ordinance over and asked if there were any questions
+
+## [hotchkiss#16] 2026-08-13 | City Council | minutes
 - 2. Public Comment
 - Mayor Patricia Medina read the rules of Public Comment
 - during their honk-and-wave events and for the Police Department supporting their rights. Elena
@@ -34,7 +391,7 @@
 - supports the Ordinance and feels that Attorney Sarah Ross did a great job on it
 - Mary Hockenbery asked if the Ordinance can supersede state statute
 
-## [hotchkiss#1] 2026-08-27 | City Council | minutes
+## [hotchkiss#17] 2026-08-27 | City Council | minutes
 - 2. Public Comment
 - Attorney Sarah Ross told the Board that Ordinance 2026-07 has neutral rules about
 - Mayor Patricia Medina thanked Attorney Sarah Ross for this Ordinance
@@ -63,7 +420,7 @@
 - back to TCR (Technical College of the Rockies) and see if the contract can be amended
 - agreement without the increasing tuition fees so the Town will not have to pay the extra
 
-## [hotchkiss#2] 2026-09-24 | City Council | minutes
+## [hotchkiss#18] 2026-09-24 | City Council | minutes
 - Mayor Medina requested that the agenda be amended to add an action item for a permit waiver
 - 2. Public Comment
 - Attorney Sarah Ross stated that she did not have any comments but asked about the amendment

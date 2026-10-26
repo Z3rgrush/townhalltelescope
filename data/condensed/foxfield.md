@@ -1,6 +1,584 @@
 # foxfield
 
-## [foxfield#0] 2026-08-06 | City Council | agenda
+## [foxfield#0] 2025-11-06 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – September 18, 2025
+- 5. For Discussion
+- 6. For Approval
+- a. Approval of the Eleventh Addendum For Services with Terracare
+- e. Wards Discussion
+- h. 2026 Budget
+- 2026 Proposed Budget Study Session
+- suggested discussing specific address directly with Staff. Mayor Jones moved to
+- approve the Consent Agenda, with a second from Trustee Cockrell. The motion
+- Ordinance 2025-01 A Bill for an Ordinance Amending Chapter 7 of the Town of
+- have and why this ordinance is necessary. Ms. Proctor said no changes had been
+- made since the last reading. Mayor Jones moved to approve Ordinance 2025-01
+- amending chapter 7 of the Foxfield Municipal code prohibiting the advertisement of
+- 6. For Discussion
+- maintenance. Trustee discussion included quantity of cameras, picture resolution,
+- been broken. Trustees discussed changes to the gate violation letters, the cameras
+- bids, and that she would talk to the sheriff to see what they would actually need
+- requested to move the speed radar signs so they can capture information
+- Buckley after the last Board meeting. She discussed the items in our last
+- meeting and the requests from the board. Trustee Cockrell mentioned
+- said that they would not approve of a pedestrian crossing at Parker
+- incorporated into this RFP as a design criteria to address potential
+- concerns with this path. She informed the board that it is not out to bid
+- recommended that new Trustees look at the Master Plan and mentioned
+- Cockrell mentioned that there is a Facebook discussion. Trustee Pakanati
+- 1. Ms. Proctor mentioned that staff is working on the 2026 budget
+- they felt we needed a larger location than the Fire House and they
+- do think that is necessary. She mentioned that road work will start
+- f. Ward discussion
+- not consider any of the corridors to have a speeding problem. There are high outliers, but the
+- sidewalks, no streetlights and it is a small community the feel is different than just the
+- based on FHWA for low volume roadways. This is not the only option or only layout. For
+- with these recommendations, we can include $120,000 in the 2026 budget
+- PROJECT BACKGROUND
+- prevent traffic along Parker Rd and Arapahoe Rd from using the Town’s roadways as a cut-through
+- Town’s roadways. SEH was tasked to review recently collected speed and traffic data, and outline traffic
+- Waco St by utilizing radar speed feedback signs that were moved to various locations along the corridor
+- demonstrated the highest speeds among all collected data. While a small percentage of overall traffic,
+
+## [foxfield#1] 2025-11-20 | City Council | agenda
+- 1. Home Rule Presentation by Corey Hoffmann, Town Attorney
+
+## [foxfield#2] 2025-12-11 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – November 6, 2025
+- 5. For Approval
+- Agreement for Law Enforcement Services
+- b. 2026 Agreement with SafeBUILT for Code Enforcement Services
+- c. Resolution 2025-04 Levying Property Taxes for Fiscal Year 2026
+- 6. For Discussion
+- e. Wards Discussion
+- approve a pedestrian light.” This was corrected to state CDOT would not approve a
+- 5. For Discussion
+- costs if the board were to move forward on the options provided. Trustee discussion
+- additional discussion on where the speed monitors are placed, if they are working
+- identified as a major concern. The possibility of moving forward with only one
+- Jehovah’s witness traffic several days a week and urged Trustees to think about road
+- fund money for the next several years. Trustees discussed the best way to reach the
+- data is accurate to warrant the project. Mayor Jones suggested staff inquire if
+- a. Approval of the Eleventh Addendum For Services with Terracare
+- Ms. Proctor mentioned to Trustees that this is the same agreement with a 2.1%
+- increase in their rates based on the CPI. Trustees talked favorably about
+- about gates since they are considering installing gates. She talked about
+- participants, and time frame. He mentioned that this project could be
+- of the consideration for Foxfield. There was talk about the trail that leads
+- agreed to review a final draft before a public hearing is scheduled
+- budget and more information has been requested from Arapahoe
+- County. Ms. Proctor stated that the road work has been
+- 1. Ms. Torres asked the board about a resident requesting to host a
+- food drive at their home. Trustees discussed the organization the
+- requested staff to investigate further
+- f. Ward discussion
+- Colo Interac - building permits $ 851.75
+- Colo Interac- AC Use Payable Tax $ 62.64
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- Comcast - franchise fee $ 1,243.51
+- CORE - 6806 S Parker Road lights - $ 101.74
+- Core - franchise fee $ 7221.33
+- Arapahoe County Use Tax Payable $ 187.53
+- Town of Parker - Restitution
+- Sales Tax $ 43,736.93
+- AC Property Tax $ 1,451.02
+- Cigarette Tax $ 62.45
+- MV Sales Tax $ 577.55
+- ColoTrust American Rescue Plan Fund
+- Location Nov Tax
+- 2025 Town of Foxfield Sales Tax Revenue
+- 2022 Town of Foxfield Sales Tax Revenue
+- 2023 Town of Foxfield Sales Tax Revenue
+- 2024 Town of Foxfield Sales Tax Revenue
+- 6 Agreement for Law Enforcement Services
+- Attached for Board consideration is the 2026 Agreement for Law Enforcement Services
+- “I move to approve the 2026 Agreement for Law Enforcement Services as presented.”
+
+## [foxfield#3] 2025-12-18 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- 4. Public Hearing
+- a. 2026 Proposed Budget
+- 5. For Approval
+- a. Resolution 2025-05 Adopting a Budget and Authorizing Appropriations for Fiscal Year 2026
+- e. Wards Discussion
+- : 2026 Budget Public Hearing
+- The 2026 General Fund (including the Road Maintenance Fund) proposed budget has revenues
+- $2,433,719. The General Fund expenditures are budgeted at an increase of approximately 25%
+- from the 2025 adopted budget. The increase is due mostly to the addition of funds for speed
+- The Open Space Fund has $14,000 in expenses for possible improvements at the Town
+- The Board received a draft of the proposed 2026 budget for review on October 15th, 2025, and
+- a study session was held on November 6th, 2025, to discuss the budget
+- “I move to approve the 2026 proposed budget”
+- Exhibit A – 2026 Proposed Budget
+- n accordance with the Local Government Budget Law of Colorado, staff is
+- pleased to present the 2026 Annual Budget. Upon final approval by the Board of
+- Trustees, this budget document will provide the legal authority to appropriate and
+- expend funds for the 2026 budget year
+- he budget provides guidance throughout the year for projects, programs and
+- t has been staff’s intent to produce a budget that demonstrates accountability
+- of the Mayor and the Board that staff presents this 2026 Annual Budget
+- Taxes and Franchise Fees 614,489 587,013 581,214
+- Licenses and Permits 51,194 41,025 42,300
+- ROAD MAINTENANCE FUND
+- Other Road Maintenance 0 20,000 20,000
+- 2026 Proposed Budget
+- Improvements 0 0 10,000
+- Improvements 0 0 0
+- AMERICAN RESCUE PLAN FUND
+- Small Business Grants 3,850 0 0
+- Water, Sewer, Broadband Infastructure 0 0 0
+- Budget Worksheet
+- Account Account Title 2023 Actual 2024 Actual 2025 Budget 2025 Estimate
+- Budget Description
+- Taxes and Franchise Fees
+- Mill Levy 4.982 4.982 4.982 4.982 4.982
+- 10-31-111 Current Property Tax 117,456 142,481 138,026 138,026 132,314 Provided by the county
+- 10-31-121 Specific Ownership Tax 7,672 8,060 7,000 7,000 7,000
+- County collected. Basically property tax
+- on type of vehicle. Year and taxable
+- value determine these fees. Taxable
+- 10-31-161 Xcel Franchise Fee 15,588 11,174 10,000 10,000 10,000
+- 10-31-162 CORE Franchise Fee 24,061 19,227 22,000 22,000 22,000
+- 10-31-163 Cable Television Fees 5,725 5,371 4,800 4,800 4,800 Comcast
+- 10-31-191 Current Property Tax Interest 227 247 100 187 100 Interest on property tax
+- 10-31-311 Sales Tax 393,325 402,286 380,000 380,000 380,000
+- 3.75% on purchases delivered into the
+- 10-31-312 Use Tax 89,457 25,642 25,000 25,000 25,000
+
+## [foxfield#5] 2026-01-15 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – December 11th and 18th, 2025
+- 5. For Discussion
+- 6. For Approval
+- a. Resolution 2026-01 Posting of Meeting Notices
+- 5. For Approval
+- a. 2026 Agreement for Law Enforcement Services
+- Trustee Cockrell asked if the contracted amount changed based on the final
+- valuation of properties. Ms. Proctor said the contract amount does not change when
+- the final valuation is received. There was no change this year. Trustees discussion
+- neighboring communities. Mayor Jones moved to approve the 2026 Agreement for
+- b. 2026 Agreement with Safebuilt for Code Enforcement Services
+- Ms. Torres presented the new rates proposed to the board. The board discussed
+- contract. Trustees approved the rate change and asked for the 8-hour rate to also be
+- included in the contract
+- Mayor Jones moved to approve the 2026 Agreement for Safebuilt Code Enforcement
+- c. Resolution 2025-04 Levying Property Taxes for Fiscal Year 2026
+- Trustee Lawrence mentioned that the contract states we are to have liability reserve
+- an item in the general fund that is a police reserve for this and believes it is around
+- Mayor Jones moved to approve Resolution 04, Series 2025 levying property taxes for
+- 6. For Discussion
+- Ms. Proctor mentioned she wanted to bring the Home Rule discussion back to
+- expressed that she feels the process is being rushed. Trustees discussion
+- Schultz reiterated that the request is if Trustees wanted to do anything at this
+- charter commission. Trustees discussed what kinds of questions should be
+- i. Trustee Hodge asked if Corey gave us any feedback about the meeting to
+- his presentation, but being transparent about it, and knowing Foxfield
+- average and that those need to be factored out. Discussion included
+- request, Terracare does not have the equipment, and SEH does
+- not see any dangers. Trustees discussed what can be done, the
+- Thursday to approve the budget
+- f. Ward discussion
+- 4. Public Hearing
+- Ms. Proctor stated that she summarized the budget in the memo, highlighted the
+- changes from the last meeting, and noted there was no public at this hearing
+- Trustee Thompson asked what caused the decrease in the roads fund revenue. Ms
+- Proctor mentioned we are about $10,000 behind on sales tax at this point compared
+- Thompson closed the public hearing
+- a. Resolution 2025-05 Adopting a Budget and Authorizing Appropriations for
+- Mayor Pro-Tem Thompson moved to approve the 2026 proposed budget, seconded
+- by Trustee Schultz. Approved unanimously
+- Ms. Proctor said SEH did get quotes and bids for the collection of speed
+
+## [foxfield#6] 2026-02-05 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – January 15, 2026
+- 5. For Discussion
+- 6. For Approval
+- a. Resolution 2026-02 Approving the Addendum to Professional Services Agreement Between
+- b. Resolution 2026-03 Approving the 2026 Municipal Judge Agreement Between the Town and
+- c. Resolution 2026-04 Canceling the April 2026 Election and Declaring Candidates Elected
+- speeds in the data are measurement errors that are artificially reducing the average
+- The board welcomed Tom Pitchford, the returning Building Official, who discussed
+- upcoming updates to the building code and improvements in energy standards. He
+- clarified the requirements for permits on exterior home changes and explained the
+- inspection process, emphasizing the importance of permitting for homeowner
+- protection. Tom also addressed questions about fees, homeowner responsibilities,
+- The board reviewed bids for verifying speed data and discussed whether to invest in
+- The board discussed recommendations for signage and delineators at East Davies
+- a. Resolution 2026-1 Posting of Meeting Notices
+- Mayor Jones moved to approve Resolution 2026-01 Designating Public Places for
+- Code Enforcement arrives. Trustees requested a ride-along with Code
+- stated that she would like to work on lighting in the tunnel and requested
+- f. Ward discussion
+- Using these timelines, the special election to consider the Charter once it is drafted would be in
+- July 16 BOT meeting BOT adopt ordinance initiating home rule process; ordinance must set
+- resolution; election must be held within 120 days of calling it. The
+- July 24, 2026 Last day to notify County Clerk of participation in the coordinated
+- by the July 16 resolution
+- BOT approves by resolution all of ballot content to meet September 4
+- personal opinions, drafting and normal publication of one resolution of
+- September 4, 2026 Last day for Town Clerk to certify the ballot order and content and to
+- deliver the certifications to County Clerks; 60 days before the election
+- November 25, 2026 Last date for certification of election results by county clerks; 22 days
+- First meeting of CC; must occur within 20 days of certification of
+- election results. Assumes certification of election results occurs on the
+- from the actual date of certification of the election results
+- CC must hold one public hearing anytime between first and last
+- May 6 BOT, meeting BOT receives the draft charter, by resolution gives notice of the
+- November 2, 2027 special election for approval of the charter,
+- July 22, 2027 Last day to notify County Clerks of participation in the coordinated
+
+## [foxfield#7] 2026-03-05 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – February 5, 2026
+- 5. For Discussion
+- The Board discussed Home Rule next steps, focusing on whether to proceed with a
+- copies available on request. Staff will send a draft to Trustees for approval
+- a. Resolution 2026-02 Approving the Addendum to Professional Services
+- The Board considered an addendum approving 2026 rates reflecting
+- adjustments. Trustee Thompson raised concerns in SEH’s handling of permits
+- and the roadways. Discussion included the 2025 crack seal that was done in
+- investigation is done. Mayor Jones moved to approve Resolution 2026-02
+- Approving the Addendum to Professional Services Agreement between the Town
+- and Short Elliot Henderson, Inc. and approving the 2026 Rates. This approval is
+- b. Resolution 2026-03 Approving the 2026 Municipal Judge Agreement
+- Mayor Jones moved to approve Resolution 2026-03, a resolution to appoint the
+- presiding municipal court judge and approve the presiding municipal court judge
+- c. Resolution 2026-04 Canceling the April 2026 Election and Declaring
+- law. The discussion also clarified that trustee terms are four years, with
+- appointees serving the remainder of unexpired terms; staff will ensure the
+- vacancy is expected, and applications will be solicited; it was noted that Trustee
+- Hodge intends to apply. Mayor Jones moved to approve Resolution 2026-04
+- could impact Foxfield. Trustees discussed sending out an information
+- acknowledged that this is during every section and requested that staff
+- discussed the pole price, electrical work, and the other
+- streetlights and tunnel lights that are not working. Trustee
+- f. Ward discussion
+- In 2020, the Town of Foxfield passed Resolution 2020-05 adopting Rules of Procedure for the
+- Board of Trustees. It has been almost six (6) years since these rules were approved. It is good
+- practice to do a review of this document, as requested by the Board, and to make any
+- violate any law may be permitted at the discretion of the Mayor. In the event of a conflict
+- same may be amended from time to time, the provisions of the Foxfield Municipal Code shall
+- n organizational meeting shall be held at the first Board meeting following certification
+- the South Metro Fire Protection District Station #42, 7320 South Parker Road, or at s uch
+- 6. For Discussion
+- o Presentation
+- c. The Mayor may adjust the order of business and allow scheduled presentations at a
+- ecial meetings of the Board shall be called by the Town Clerk on the oral request of
+- he purpose of a study session shall be to hear, study, and discuss matters in a forum
+
+## [foxfield#8] 2026-03-19 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – March 5, 2026
+- 5. For Approval
+- a. Ordinance 2026-01 An Ordinance Setting Compensation for the Mayor and Board of Trustees
+- b. Resolution 2026-05 Revising the Rules of Procedure
+- 5. For Discussion
+- six years. Trustees Discussion included clarifying audience participation, when role
+- asked for Trustees input. Discussion included business vehicles, repair
+- occupations. Trustees discussed things that could help the code
+- application request, and a resident email received. Trustees noted
+- She discussed the road memo from Erica highlighting the
+- better communication. Staff and Trustees discussed exactly where
+- in. Trustees discussed solutions for better communication going
+- f. Ward discussion
+- Colo Interac - building permits $ 349.25
+- Colo Interac- AC Use Payable Tax $ 27.14
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- CORE - 6806 S Parker Road lights - $ 108.07
+- Arapahoe County Use Tax Payable $ 156.33
+- Sales Tax $ 49,028.29
+- AC Property Tax $ 922.44
+- Cigarette Tax $ 51.04
+- MV Sales Tax $ 437.06
+- ColoTrust American Rescue Plan Fund
+- Colo Interac - building permits $ 5,133.13
+- Colo Interac- AC Use Payable Tax $ 354.09
+- Use Tax $ 3,375.00
+- CORE - 6806 S Parker Road lights - $ 95.28
+- ASCO Records Request - $ 10.80
+- Euro Plumbing LLC - Permit Overpayment - $ 87.00
+- Town of Parker $ 40.56
+- Sales Tax $ 53,364.85
+- AC Property Tax $ 1,228.24
+- Cigarette Tax $ 50.48
+- MV Sales Tax $ 568.13
+- Road and Bridge Shareback $ 259.73
+- Location Nov Tax
+- 2026 Town of Foxfield Sales Tax Revenue
+- 2025 Town of Foxfield Sales Tax Revenue
+- 2022 Town of Foxfield Sales Tax Revenue
+- 2023 Town of Foxfield Sales Tax Revenue
+- 2024 Town of Foxfield Sales Tax Revenue
+- : Ordinance 2026-01 Setting Compensation for the Mayor and Board of Trustees
+- “I move to approve Ordinance 2026-01 Setting Compensation for the Mayor and Board of
+- Exhibit A: Ordinance 2026-01 Setting Compensation for the Mayor and Board of Trustees
+- Ordinance shall for any reason be held to be invalid or unenforceable, the invalidity or
+- remaining provisions of this Ordinance, the intent being that the same are severable
+- Ordinance is promulgated under the general police power of the Town, that it is promulgated for
+- the health, safety and welfare of the public, and that this Ordinance is necessary for the
+- Board of Trustees further determines that the Ordinance bears a rational relation to the proper
+- ion 4. This Ordinance shall become effective thirty (30) days after publication
+- ed as Ordinance No. 01 Series of 2026, by the Board of Trustees of Foxfield,
+
+## [foxfield#9] 2026-04-16 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – March 19, 2026
+- 4. Public Hearing
+- a. Ordinance 2026-02 Amending Articles 1-6 of Chapter 16 of the Foxfield Municipal Code to
+- 3. Appointment of Mayor Pro Tem
+- a. Appointment of Town Clerk and Town Treasurer
+- b. Appointment of Town Attorney
+- 5. For Discussion
+- a. Ordinance 2026-01 An Ordinance Setting Compensation for the Mayor and
+- considering future Trustees. Trustee Thompson questioned if the mayor should be
+- increased amount for the Mayor. Mayor Jones moved to approve Ordinance 2026
+- 4-405 and Section 2-2-50 of the Town of Foxfield Municipal Code as amended with
+- b. Resolution 2026-05 Revising the Rules of Procedure
+- staff presentation or right after Trustee discussion. Trustees discussed and agreed
+- that comments should come after Trustee discussion. Mayor Jones moved to
+- committee for reimbursement. Trustee Thompson asked for the budget
+- in prior years. Trustee Thompson asked if the budget can be $3,250
+- Ms. Torres to bring a copy of the code. He suggested projects be assigned
+- iii. Trustee Thompson mentioned the fires in Colorado and asked if Foxfield
+- has a plan of evacuation in case of a fire. Trustee Hodge said that we
+- could invite South Metro Fire to a meeting to see if they have an alert
+- mowed. Trustees agreed that putting a notice on the website for fire
+- iv. Trustee Cockrell provided an update about DRCOG and asked for the Fire
+- enforcement needs to be aware of 12” rule and feel that residents may
+- understand due to fire hazard
+- Hearing on April 16th, and culvert repair notices will be sent out
+- emergency procedures plan and she will investigate it further
+- f. Ward discussion
+- Colo Interac - building permits $ 4,779.82
+- Colo Interac- AC Use Payable Tax $ 192.28
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- Comcast - franchise fee $ 1,121.98
+- CORE - 6806 S Parker Road lights - $ 95.17
+- Core - franchise fee $ 5195.06
+- ENT Credit Union - Sales Tax Refund - $ 1,275.00
+- Sales Tax $ 38,242.43
+- AC Property Tax $ 34,159.69
+- Cigarette Tax $ 62.12
+- ColoTrust American Rescue Plan Fund
+- Location Nov Tax
+- 2026 Town of Foxfield Sales Tax Revenue
+- 2025 Town of Foxfield Sales Tax Revenue
+- 2022 Town of Foxfield Sales Tax Revenue
+- 2023 Town of Foxfield Sales Tax Revenue
+- 2024 Town of Foxfield Sales Tax Revenue
+- REVENUES WITH COMPARISON TO BUDGET
+- PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+- TAXES AND FRANCHISE FEES
+- 10-31-111 CURRENT PROPERTY TAX 23,508.61 57,611.16 132,314.00 74,702.84 43.5
+- 10-31-121 SPECIFIC OWNERSHIP TAX 615.85 1,650.06 7,000.00 5,349.94 23.6
+
+## [foxfield#10] 2026-05-07 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- 1. Oath of Office for Appointed Board Member, Doug Hodge
+- a. Approval of Minutes – April 16, 2026
+- 6. Public Hearing
+- 7. For Discussion
+- b. Ordinance 2026-03 Amending Chapter 18 of the Town of Foxfield Municipal Code by the
+- Addition Thereto of a New Article 13 Adopting the Wildfire Resiliency Code by Reference
+- c. Town Projects Trustee Leads
+- b. Ordinance 2026-02 Amending Articles 1-6 of Chapter 16 of the Foxfield Municipal Code to
+- 5. Public Hearing
+- Mayor Jones opened the Public Hearing. Trustees mentioned items that needed to
+- be fixed in the document and discussed other potential items that should be
+- clarified. Trustees decided to continue the Public Hearing, run the document
+- meeting to discuss, then have discussion with residents to make sure they agree
+- with the changes. Mayor Jones moved to continue the Public Hearing to May 7th,
+- a. Appointment of Town Clerk
+- Mayor Jones moved to re-appoint MONICA TORRES as the Town Clerk and Treasurer,
+- b. Appointment of Town Attorney
+- Mayor Jones moved to re-appoint COREY Y. HOFFMANN as the Town Attorney,
+- Trustees interviewed, deliberated and considered the applicants. Trustee Cockrell asked
+- they feel about connecting with the community and outreach. Mayor Jones mentioned
+- i. Mayor Jones informed the board on fire control and that SMF gives
+- upcoming 4th of July concerns. Trustees agreed to have the fire control
+- of 6” vs 12” for the grass because of the fire danger
+- $4,300 as the ceiling budget for the 4th of July Committee, same as last
+- year, since the feedback was that their expenses were more, but items
+- purchased were not itemized. Ms. Proctor agreed. Trustee Cockrell asked
+- i. Trustee Hodge mentioned projects that are on the future agenda items
+- wildfire safety. Trustee Lawrence asked about gate fines and how that is
+- Arapahoe – was wondering what kind of notification goes out to the
+- pole with SEH and contractor. Trustees discussed the light bulbs
+- that need to be replaced on Lewiston Way and agreed that a bid
+- : Land Use Code Public Hearing
+- Trustees meeting. Trustees discussed some adjustments that they would like to make along
+- with doing a copilot review of the LUC. The Board continued the Public Hearing to the May 7th
+- Board of Trustees meeting for additional discussion. At the end of this Public Hearing, the Board
+- can move to close the Public Hearing and postpone the ordinance to a later date if additional
+- 7. RELATIONSHIP TO MASTER PLAN 5
+- 8. OFFICIAL ZONING MAP 6
+- 1. ZONING DISTRICTS 8
+- 1. PERMITTED USES TABLE 11
+
+## [foxfield#11] 2026-06-04 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – May 7, 2026
+- 5. For Approval
+- a. Engineering Fee Estimate for 2026 Pavement Repair and Surface Treatment Program
+- 1. Oath of Office for Appointed Board Member, Doug Hodge
+- 6. Public Hearing
+- Mayor Jones opened the Public Hearing. There were no public comments. Mayor
+- Jones closed the public hearing. The Board discussed the review produced by Copilot
+- b. Ordinance 2026-02 Amending Articles 1-6 of Chapter 16 of the Foxfield Municipal
+- Mayor Jones moved to postpone Ordinance 2026-02 Amending Articles 1-6 of
+- 7. For Discussion
+- Trustees discussed the traffic data and mentioned how it does not reflect that
+- b. Ordinance 2026-03 Amending Chapter 18 of the Town of Foxfield Municipal
+- Code by the Addition Thereto of a New Article 13 Adopting the Wildfire
+- Trustees agreed to read the Wildfire Resiliency Code and present questions at
+- c. Town Projects Trustee Leads
+- Ms. Proctor explained the Town project list. Trustees agreed with their projects
+- Mayor Jones moved to approve the 2025 Audited Financial Statements as
+- staff to consider an upgrade for copilot to have more than basic
+- 4th of July committee needs their budget adjusted due to increase in
+- committee. She updated the board on the fire prevention meeting and
+- wildfire prevention. Mayor Jones will ask for the recording and forward
+- having a former South Metro Fire contact that could put us in touch with
+- municipalities and the state. Trustees discussed what timeline
+- them. She asked the contractor to provide an estimate for the
+- lights that need to be repaired on S Lewiston Way. The contractor
+- need to have an agreement of time and materials. They could not
+- has been provided yet. Trustees discussed if there was a
+- Colo Interac - building permits $ 4,084.90
+- Colo Interac- AC Use Payable Tax $ 274.60
+- Use Tax $ 1,800.00
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- CORE - 6806 S Parker Road lights $ 99.17
+- Arapahoe County Use Tax Payable $ 754.76
+- Sales Tax $ 44,729.37
+- AC Property Tax $ 24,189.96
+- Cigarette Tax $ 42.47
+- Road and Bridge Shareback $ 1,649.95
+- ColoTrust American Rescue Plan Fund
+- Location Nov Tax
+- 2026 Town of Foxfield Sales Tax Revenue
+- 2025 Town of Foxfield Sales Tax Revenue
+- 2022 Town of Foxfield Sales Tax Revenue
+- 2023 Town of Foxfield Sales Tax Revenue
+- 2024 Town of Foxfield Sales Tax Revenue
+- 10-11500 PROPERTY TAX RECEIVABLE 98,211.82
+- 10-11520 SALES TAX RECEIVABLE 53,207.00
+- 10-11550 FRANCHISE TAX RECEIVABLE 1,300.00
+- 10-11560 CIGARETTE TAX RECEIVABLE 51.04
+- 10-21110 PAYROLL TAXES PAYABLE 3,516.70
+
+## [foxfield#12] 2026-06-18 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – June 4, 2026
+- 5. For Discussion
+- a. Ordinance 2026-03 Amending Chapter 18 of the Town of Foxfield Municipal Code by the
+- Addition Thereto of a New Article 13 Adopting the Wildfire Resiliency Code by Reference
+- 5. For Approval
+- a. Engineering Fee Estimate for 2026 Pavement Repair and Surface Treatment
+- Ms. Proctor informed the board of the annual estimate for road maintenance
+- Proctor informed the board of Terracare’ s desire to bid for this work and asked the
+- relationship with Vance and how that would be different for Terracare for this bid
+- Ms. Proctor mentioned that she will work with Scott regarding a bid from Terracare
+- Trustee discussion with SEH included crack seal material, cracks existing in town and
+- Thompson requested that if budget needs to be adjusted after SHE’s review in town,
+- Mayor Pro-Tem Thompson moved to approve the SEH Fee Estimate for 2026
+- and brainstormed ideas on how to address this in the future. Trustee
+- ii. Trustee Hodge mentioned how sales tax has dropped significantly over
+- the last four years. He asked about sales tax revenue and how we can
+- is violation of our Ordinance and providing them with a copy of it. Ms
+- Torres will report the listing and provide the Ordinance. Trustee
+- the contractor recommends replacing the whole fixture to be LED for the
+- discussed percentiles, how the data has changed, and what the data
+- number of cars that are speeding is concerning. Trustees discussion
+- the July 2nd meeting and having the Wildfire Public Hearing on the
+- Colo Interac - building permits $ 466.15
+- Colo Interac- AC Use Payable Tax $ 20.89
+- Use Tax $ 27.00
+- Colo Trust TransferTown of Parker $ 136.44
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- Comcast - franchise fee $ 1,237.90
+- CORE - 6806 S Parker Road lights $ 104.34
+- Core - franchise fee $ 6145.77
+- Sales Tax $ 41,810.85
+- AC Property Tax $ 22,652.58
+- Cigarette Tax $ 57.56
+- MV Sales Tax $ 691.09
+- ColoTrust American Rescue Plan Fund
+- Location Nov Tax
+- 2026 Town of Foxfield Sales Tax Revenue
+- 2025 Town of Foxfield Sales Tax Revenue
+- 2022 Town of Foxfield Sales Tax Revenue
+- 2023 Town of Foxfield Sales Tax Revenue
+- 2024 Town of Foxfield Sales Tax Revenue
+- 10-11500 PROPERTY TAX RECEIVABLE 37,990.12
+- 10-21110 PAYROLL TAXES PAYABLE 883.00
+- 10-22000 A.C. USE TAX PAYABLE 295.49
+- 10-22210 DEFERRED PROPERTY TAX 37,990.12
+- REVENUES WITH COMPARISON TO BUDGET
+- PERIOD ACTUAL YTD ACTUAL BUDGET UNEARNED PCNT
+- TAXES AND FRANCHISE FEES
+- 10-31-111 CURRENT PROPERTY TAX 94,324.25 94,324.25 132,314.00 37,989.75 71.3
+
+## [foxfield#13] 2026-07-16 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – June 18, 2026
+- 5. Public Hearing
+- a. Wildfire Resiliency Code
+- a. Ordinance 2026-02 Amending Articles 1-6 of Chapter 16 of the Foxfield Municipal Code to
+- b. Ordinance 2026-03 Amending Chapter 18 of the Town of Foxfield Municipal Code by the
+- Addition Thereto of a New Article 13 Adopting the Wildfire Resiliency Code by Reference
+- c. Resolution 2026-05 A Resolution of the Board of Trustees of the Town of Foxfield Approving
+- d. Resolution 2026-06 A Resolution of the Board of Trustees of the Town of Foxfield Approving a
+- e. Resolution 2026-07 A Resolution of the Board of Trustees of the Town of Foxfield Approving
+- the Bid Between the Town and Vance Brothers
+- Mayor Jones moved to approve the Consent Agenda, including the minutes and financials,
+- 5. For Discussion
+- a. Ordinance 2026-03 Amending Chapter 18 of the Town of Foxfield Municipal Code by the
+- The Board discussed the State-required Wildfire Resiliency Code, insurance implications,
+- enforcement through building and fire code officials. Attorney Hoffmann recommended we
+- discuss this with South Metro Fire. He stated most municipalities are adopting this code
+- signs. Trustees discussed effectiveness, costs, data collection capabilities, installation
+- to purchase four (4) signs with the tracking software to be installed on Hindsdale and Waco,
+- information and bring the item back for further consideration
+- ii. Trustee Hodge discussed sales tax revenue and vacancies at Foxfield Village Center
+- iv. Trustee Lawrence reported on wildfire education and outreach opportunities with
+- South Metro Fire Rescue. The Board stated they would like to have a hybrid meeting
+- vi. Trustee Cockrell provided an update on the Easter Trail Project RFP
+- drainage concerns near Waco Street and Arapahoe Road
+- Summary Judgment in the short‑term rental litigation. Trustees discussed future
+- The Board also discussed home rule authority, land use regulations, and the pending
+- agenda for July 16th, 2026 for approval
+- Colo Interac - building permits $ 1,200.75
+- Colo Interac- AC Use Payable Tax $ 115.84
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- CORE - 6806 S Parker Road lights $ 93.97
+- Sales Tax $ 38,464.28
+- AC Property Tax $ 15,373.06
+- Cigarette Tax $ 65.38
+- ColoTrust American Rescue Plan Fund
+- Location Nov Tax
+- 2026 Town of Foxfield Sales Tax Revenue
+- 2025 Town of Foxfield Sales Tax Revenue
+- 2022 Town of Foxfield Sales Tax Revenue
+- 2023 Town of Foxfield Sales Tax Revenue
+- 2024 Town of Foxfield Sales Tax Revenue
+
+## [foxfield#14] 2026-08-06 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – July 16, 2026
@@ -34,13 +612,13 @@
 - Trustees discussed quantities of sealant and mastic material, lessons learned from the previous year's
 - project, project budgeting, contingency spending, and contractor communication requirements when
 
-## [foxfield#1] 2026-08-18 | City Council | agenda
+## [foxfield#15] 2026-08-18 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - 1. Wildfire Prevention Training Presentation by Brandi Miller, Community Risk Reduction
 - Specialist for South Metro Fire Rescue
 
-## [foxfield#2] 2026-09-17 | City Council | agenda
+## [foxfield#16] 2026-09-17 | City Council | agenda
 - South Metro Fire Protection District Station #42
 - 7320 South Parker Road
 - a. Approval of Minutes – August 6, 2026
@@ -92,7 +670,7 @@
 - Severance Tax $ 220.51
 - Location Nov Tax
 
-## [foxfield#3] 2026-10-01 | City Council | agenda
+## [foxfield#17] 2026-10-01 | City Council | agenda
 - a. Approval of Minutes – September 17, 2026
 - 5. For Approval
 - a. Resolution 2026-09 A Resolution of the Board of Trustees of the Town of Foxfield Approving

@@ -1,81 +1,119 @@
 - title: Data center regulations (Ordinance 838-2026)
-  summary: Town Council's October 15 agenda includes Ordinance No. 838-2026, which would amend Title 15 of the municipal code to regulate data centers and technology facilities. The documents do not state the outcome.
+  summary: Town Council is set to consider Ordinance No. 838-2026, which would amend Title 15 of the municipal code to regulate data centers and technology facilities. It was on the October 15, 2026 agenda with a cover memo; the documents do not state an outcome.
   where: Townwide
   refs:
-  - 2
-  tags:
-  - data-center
+  - 11
   topics:
   - Data centers
   - Zoning & development
-- title: 2027 budget and capital improvement plan
-  summary: Council held a 2027 budget kickoff workshop in September and received the draft 2027 budget in October. The packet includes a budget message, worksheet detail, a 2027-2031 capital improvement plan and a contributions worksheet.
-  where: Townwide
-  refs:
-  - 1
-  - 2
-  topics:
-  - Budget & taxes
+  tags:
+  - data-center
 - title: Prop 123 expedited review for affordable housing (Ordinance 837-2026)
-  summary: Council is considering Ordinance 837-2026, which adds Section 15.02.214 to the municipal code for expedited review of affordable housing under Prop 123. It also updates the land use review procedures chart, and the Planning Commission recommended approval.
+  summary: The Council is considering a Title 15 amendment adding Section 15.02.214 to create expedited review for affordable housing under Prop 123 and updating the land use review procedures chart. The Planning Commission recommended approval. In July the council also heard a regional housing needs assessment from an Aspen analyst.
   where: Townwide
   refs:
-  - 2
+  - 8
+  - 11
   topics:
   - Housing
   - Zoning & development
-- title: 1st Street Project and CDBG grant
-  summary: The Town is the recipient of a $600,000 CDBG grant for the 1st Street Project. Council also discussed tax incentives for future development by developers and investors.
-  where: 1st Street
+- title: 2026 and 2027 town budget
+  summary: Council held a 2026 budget workshop in late 2025, including an employee benefits package assessment. A 2027 budget kickoff took place in September 2026, and the draft 2027 budget with a 2027-2031 capital improvement plan was presented October 15. Council also discussed sales tax ballot initiative options in February.
+  where: Townwide
   refs:
   - 0
-  topics:
-  - Economic development
-  - Budget & taxes
-- title: Fun House Kids special use review
-  summary: Council held a public hearing on Resolution 2026-39, which would approve a special use review for Fun House Kids LLC at 201 East 1st Street. The Planning Commission had already adopted a resolution on the application.
-  where: 201 East 1st Street
-  refs:
-  - 1
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Glenwood Hot Springs Protection Act support
-  summary: Council considered Resolution 2026-41 supporting federal bills S.5101 and H.R. 9826, the Glenwood Hot Springs Protection Act. The packet includes a BBA Water Consultants report.
-  where: Glenwood Springs
-  refs:
   - 2
+  - 10
+  - 11
   topics:
-  - Water
-  - Tourism & events
-- title: South Bridge project letter of support
-  summary: Glenwood Springs city staff presented an update on the South Bridge project and asked Parachute for a letter of support.
-  where: Glenwood Springs
+  - Budget & taxes
+  - Government operations
+- title: Highway 6 and 1st Street "Parachute Moves" reconstruction project
+  summary: Council backed multiple grant applications for the Highway 6 and 1st Street mobility, revitalization, reconstruction and safety project, including a USDOT BUILD grant, congressionally directed spending, and HUD funding. The town was later noted as recipient of a $600,000 CDBG grant for the 1st Street project, and committed local match dollars to a federal grant in October.
+  where: Highway 6 and 1st Street
   refs:
-  - 1
+  - 3
+  - 4
+  - 7
+  - 11
   topics:
   - Roads & traffic
-- title: Town Council strategic goals for 2026
-  summary: Council met in July to discuss updating its strategic goals. Resolution 2026-40 would re-adopt the goals with modifications. An employee focus group report and a 2026 citizen survey were also part of the work.
+  - Economic development
+  - Downtown & business
+- title: 'Water system: raw water tank, loan refinance and Stage 2 restrictions'
+  summary: Council supported a DOLA grant for the raw water tank replacement and approved a loan amendment on the water enterprise loan with Alpine Bank (Ordinance 833-2026). Stage 2 water restrictions remained in place in May 2026. Council also celebrated the Shoshone instream flow agreement and later considered a resolution on the Glenwood Hot Springs Protection Act with a water consultant report.
   where: Townwide
   refs:
-  - 0
   - 1
+  - 6
+  - 11
   topics:
-  - Government operations
-- title: Transit grants and support letters
-  summary: Council ratified a letter supporting a Northwest Colorado Council of Governments transit planning grant and passed a resolution supporting the Parachute Area Transit System grant application. It also ratified a letter committing local matching dollars for a federal PROTECT grant.
+  - Water
+  - Utilities
+  - Fees & rates
+- title: Town purchase of 147 1st Street from Qwest/Lumen
+  summary: Council considered Ordinance 834-2026 approving a contract to buy the property at 147 1st Street from Qwest Corporation. By May 2026 the town reported the purchase had closed and it was town-owned.
+  where: 147 1st Street
+  refs:
+  - 1
+  - 6
+  topics:
+  - Land & property
+  - Downtown & business
+- title: Parachute Area Transit System and bus service
+  summary: Council approved a services agreement with Glenwood Downtowner for public transit operations and a license agreement with Flix Bus for a bus stop. It also supported a state transit grant application and a regional transit planning grant in June 2026. Riders can use the ridepats.com app.
   where: Townwide
   refs:
-  - 0
-  - 2
+  - 4
+  - 6
+  - 7
   topics:
   - Transit
-- title: Transmission line reconstruction special use review
-  summary: Council held a public hearing on a special use review for the reconstruction of the 6670 Transmission Line, a public utility project.
+- title: Community center and Senior Center future use
+  summary: The Valley Senior Center president asked Council in February to make the Senior Center more of a community center and noted the need for funding. In July 2026 Council reviewed a draft Community Center Management Plan with a rental agreement and liability waiver.
+  where: Parachute Community Center / Valley Senior Center
   refs:
-  - 0
+  - 3
+  - 8
+  topics:
+  - Recreation & trails
+  - Health & human services
+  - Government operations
+  public_comment: true
+- title: Wildland Urban Interface fire code and landscaping turf rules
+  summary: Council took up Ordinance 836-2026 revising and adopting the Wildland Urban Interface Fire Code in Title 15. Earlier, Ordinance 835-2026 added restrictions on nonfunctional artificial turf and invasive plant species in development projects.
+  where: Townwide
+  refs:
+  - 4
+  - 6
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+  - Environment & climate
+- title: Household pet limits ordinance (831-2025)
+  summary: Council approved Ordinance 831-2025 on animal rules and impound fines, amended to remove any household pet limits.
+  where: Townwide
+  refs:
+  - 5
+  topics:
+  - Policing & public safety
+  - Fees & rates
+- title: 6670 Transmission Line rebuild and Xcel easement
+  summary: Council held a special use review hearing for reconstruction of a public utility transmission line (6670 Transmission Line). In July it also considered a temporary construction easement for Xcel Energy. A solar project expansion of 50 acres at Straight Bottom Ranch was also noted.
+  where: Parachute area
+  refs:
+  - 6
+  - 7
+  - 8
   topics:
   - Utilities
   - Energy
+  - Land & property
+- title: Fun House Kids special use review at 201 East 1st Street
+  summary: Council scheduled a public hearing on Resolution 2026-39, a special use review for Fun House Kids LLC at 201 East 1st Street.
+  where: 201 East 1st Street
+  refs:
+  - 10
+  topics:
   - Zoning & development
+  - Downtown & business

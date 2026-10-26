@@ -1,6 +1,195 @@
 # parachute
 
-## [parachute#0] 2026-08-20 | Town Council | minutes
+## [parachute#0] 2025-11-12 | Town Council Budget Workshop | agenda
+- ITEMS FOR DISCUSSION
+- 2026 Budget Workshop and Discussion
+- 2026 Proposed Budget 10 09 2025.pdf
+- 10 16 2025 Proposed 2026 Budget Council Presentation.pptx
+- TOP Employee Benefits Package Assessment Plan Scoping Document DRAFT
+
+## [parachute#1] 2026-01-15 | Town Council | minutes
+- (B) APPROVE AGENDA
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- D.3 Resolution No. 2026-01 A Resolution Supporting the Grant Application for a Department of Local
+- the Completion of Parachute's Raw Water Tank Replacement Project
+- Resolution No. 2026-01 - Supporting DOLA EIAF Grant for Raw Water Tank Project
+- Colorado River District and Celebrating the Approval of the Shoshone Instream Flow Agreement
+- Proclamation No. 2026-01P- Colorado River District - Shoshone Water Rights.pdf
+- (E) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- No Public Comment
+- (F) ORDINANCES
+- G.1 Ordinance No. 833-2026 An Ordinance of the Town Council of the Town of Parachute, Colorado,
+- Authorizing and Approving a Loan Amendment to the Water Enterprise Loan With Alpine Bank
+- COVER MEMO: Ordinance No. 833-2026 - Water Fund Loan Refi Alpine Bank
+- ATTACHMENT 1: Ordinance No. 833-2026 - Authorizing a Loan Amendment Water Fund
+- ATTACHMENT 2: Ordinance No. 833-2026 - Exhibit A - Draft Loan Documents
+- An Ordinance of the Town Council of the Town of Parachute, Colorado, Authorizing and Approving a Loan Amendment
+- to the Water Enterprise Loan With Alpine Bank
+- G.2 Ordinance No. 834-2026 An Ordinance of the Town Council of the Town of Parachute, Colorado,
+- Approving a Contract to Buy and Sell Real Estate With Qwest Corporation to Authorize the
+- Purchase of Real Property Located at 147 1st Street in the Town of Parachute
+- COVER MEMO: Ordinance No. 834-2026 - Approval Real Estate PSA 147 1st St
+- ATTACHMENT 1: Ordinance No. 834-2026 - Approving 147 1st St PSA Real Estate Contract
+- ATTACHMENT 2: Ordinance No. 834-2026 - Exhibit A - Draft Contract Real Estate PSA Lumen
+- An Ordinance of the Town Council of the Town of Parachute, Colorado, Approving a Contract to Buy and Sell Real Estate
+- With Qwest Corporation to Authorize the Purchase of Real Property Located at 147 1st Street in the Town of Parachute
+- Town Manager Report provided by TM: Upcoming URA meeting 3/26/2026, Plan Jam 3/31/2026
+
+## [parachute#2] 2026-02-04 | Town Council | minutes
+- (C) APPROVE AGENDA
+- (D) PUBLIC COMMENT FOR ITEMS NOT ON THE AGENDA
+- No Public Comment
+- (E) RESOLUTIONS
+- E.1 Resolution No. 2026-02 A Resolution of the Town Council of the Town of Parachute, Colorado,
+- Cover Memo - Resolution No. 2026-02&03 - Election .pdf
+- Resolution No. 2026-02 - Authorizing Mail Ballot Election for 2026 Regular Municipal Election.pdf
+- A Resolution of the Town Council of the Town of Parachute, Colorado, Authorizing the Conduct of a Mail Ballot Election
+- E.2 Resolution No 2026-03 A Resolution of the Town Council of the Town of Parachute, Colorado,
+- Resolution No. 2026-03 - Ballot Candidate Order.pdf
+- A Resolution of the Town Council of the Town of Parachute, Colorado, Setting the Order of Candidates on the Ballot for
+- Discussion of Sales Tax Ballot Initiative Options
+
+## [parachute#3] 2026-02-19 | Town Council | minutes
+- Sam Stewart, Police Chief
+- (C) APPROVE AGENDA
+- Travis Elliott, Town Manager, requested to amend the agenda to add Proclamation 2026-02-P
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- D.5 Resolution No. 2026-04 A Resolution Supporting the Application for a Mini Grant from the
+- Resolution No. 2026-04 - Supporting FMLD Mini Grant for Public Works Skid Steer
+- D.6 Resolution No. 2026-05 A Resolution Supporting the Application for a Traditional Grant from the
+- Resolution No. 2026-05 - Supporting FMLD Traditional Grant Front End Loader
+- Licensed Premise: 393 E 2nd Street
+- (E) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- Bev Reed, President of the Valley Senior Center - public comments about the future use of the Senior Center
+- facility and their desire to see it become more of a community center and the need for funding and grants
+- (F) PRESENTATIONS
+- F.1 Middle Colorado Watershed Council Annual Update and Request for a Technical Assistance Letter
+- Travis Elliott, Town Manager, informed the Council that Kate Collins was ill and requested to reschedule
+- her presentation
+- (G) RESOLUTIONS
+- G.1 Resolution No. 2026-06 A Resolution Encouraging Healthy Beverage Alternatives in Parachute
+- COVER MEMO: Resolution 2026-06 - Supporting the Availability and Encouraging Healthier
+- ATTACHMENT 1: Resolution No. 2026-06 - A Resolution Supporting Healthier Beverage Choices
+- ATTACHMENT 2: GCPH Presentation - The Healthy Beverage Partnership Town
+- G.2 Resolution No. 2026-07 A Resolution of the Town Council of the Town of Parachute, Colorado,
+- Cover Memo - Resolution No. 2026-07 - Employee Handbook Amendment.pdf
+- Attachment 1: Resolution No. 2026-07 - Amended Employee Handbook
+- Attachment 2: Resolution No. 2026-07 - Exhibit A
+- Attachment 3: Resolution No. 2026-07 - Exhibit B
+- G.3 Resolution No. 2026-08 A Resolution Supporting the Request for Funding and Confirming a
+- Congressionally Directed Spending Grant and Accompanying Local Match for the Parachute
+- Highway 6 and 1st Street Mobility, Revitalization, Reconstruction, and Safety Project
+- COVER MEMO: Resolution 2026-08 Supporting US BUILD Grant and CDS HIP Matching Funds
+- for 1st Street
+- ATTACHMENT 1: Resolution No. 2026-08 - A Resolution Supporting USDOT BUILD Grant and
+- H.1 Parachute Police Department Annual Report - 2025
+- Police Chief Sam Stewart presented the department’s annual update and statistics
+- Plan Jam 3/31/26
+
+## [parachute#4] 2026-03-19 | Town Council | minutes
+- Development Specialist
+- Vinnie Tomasulo, Eco/Com Development Director
+- (C) APPROVE AGENDA
+- request that an item be "removed" from the consent agenda and considered on the regular agenda
+- D.4 Resolution No. 2026-09 A Resolution of the Town Council of the Town of Parachute, Colorado,
+- supporting the Town’s application for the Highway 6 and 1 st Street mobility, revitalization,
+- reconstruction and safety (Parachute Moves) Project with United States Housing and Urban
+- Development’s (US HUD) Community Development Fund’s Grant Program
+- Resolution No. 2026-09 – Supporting CPF Funding Request for 1 st Street Parachute MOVES
+- (E) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- (F) PRESENTATIONS
+- F.2 COLORADO RIVER VALLEY ECONOMIC DEVELOPMENT PARTNERSHIP AND
+- CVRVEDP Economic Development_Executive_Summary.pdf
+- (G) CONTRACTS
+- G.1 Resolution No. 2026 -10 – Approving License Agreement with Adventure Outdoors for
+- Staff Report: Resolution No. 2026-10 TOP Adventures License Agreement Adventure Outdoors
+- Attachment 1: Resolution No. 2026-10 -Approving Licenses Agreement TOP Adventures -Adventure
+- Attachment 2: Resolution No. 2026-10 -Exhibit A -0260309 License Agreement -TOP Adventures
+- Attachment 3: License Agreement License Premises Map
+- G.2 Resolution No. 2026 -11 A Resolution of the Town Council of the Town of Parachute, Colorado
+- approving an agreement for professional services with Glenwood Downtowner LLC to provide Public
+- Staff Report: Resolution 2026-1 1 PATS Service Agreement Downtowner
+- Attachment 1: Resolution No. 2026-1 1 -A Resolution Approving Public Transit Operations
+- Attachment 2: Resolution No. 2026-1 1 -Exhibit A -DRAFT 2026 Services Agreement
+- (H) RESOLUTIONS
+- H.1 Resolution No. 2026 -12 – A resolution of the Town Council of the Town of Parachute,
+- Colorado, appointing Town Manager as the designated Election official for the 2026 Regular
+- Staff Report: Resolution No. 2026- 1 2 -Appointing Town Manager as Designated Election
+- Attachment 1: Resolution No. 2026- 1 2 -Appointing Town Manager as Designated Election
+- H.2 Resolution No. 2026 -13 A resolution appointing a member to the URA Mayor’s seat to the
+- (I) ORDINANCES
+- I.1 Ordinance No. 835-2026 An Ordinance of the Town of Parachute, Colorado, Adding section
+- Nonfunctional Artificial Turf, and Invasive Plant Species as landscape elements for
+- development and redevelopment projects within the town
+- Staff Report: Ordinance No. 835-2026 -PMC Title 15 Amendment TURF Law
+- Attachment 1: Ordinance No. 835-2026 -Amending Title 15 of PMC with Turf Law
+- Attachment 2: Resolution No. 2026-01-PC -Amend Title 15 Amendment Turf Law
+
+## [parachute#5] 2026-04-16 | Town Council | minutes
+- Resolution No. 2026-17
+- A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- Town Council Appointment of Mayor Pro-Tem Pursuant to Parachute Home Rule Charter, Section 2-5
+- Approve the appointment of
+- APPROVE AGENDA
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- Resolution No. 2026-14
+- PARACHUTE, COLORADO, APPROVING AN INTERGOVERNMENTAL AGREEMENT WITH
+- Resolution No. 2026-18
+- A RESOLUTION SUPPORTING THE GRANT APPLICATION FOR A
+- DEPARTMENT OF LOCAL AFFAIRS (DOLA) COMMUNITY DEVELOPMENT BLOCK GRANT
+- PUBLIC FACILITIES IN THE AMOUNT OF $600,000 FOR THE IMPROVEMENT OF STORMWATER
+- 333 E 2nd Street
+- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- No public comment
+- Resolution No. 2026-15
+- A RESOLUTION
+- PARACHUTE APPOINTING A TOWN CLERK
+- Ordinance No. 831-2025
+- An Ordinance of the Town Council of the Town of Parachute, Colorado,
+- Amending Title 10 of the Parachute Municipal Code by Adding Section 10.02.015 to Establish Household Pet
+- Limits, Amending Section 10.02.150 to Update the Procedure for Issuing Warning for Animal Disturbances,
+- and Amending the Fee Schedule to Update the Fine for Impoundment of Stray Animals
+- to approve as amended
+- Motion to approve
+- 831-2025 as amended to remove any household pet limits
+- Resolution No. 2026-16
+- PARACHUTE, COLORADO APPROVING AN AGREEMENT FOR PROFESSIONAL SERVICES WITH
+- Discussion of Process to Solicit and Appoint a Candidate for a Vacancy on Town Council
+
+## [parachute#6] 2026-05-21 | Town Council | minutes
+- Economic/Community Development, Harley Walker, Director of Public Works, and Sam Stewart, Police
+- APPROVE AGENDA
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- No public comment
+- PRESENTATIONS
+- councilmembers gave praise and excitement regarding her appointment as councilmember
+- Ordinance No. 836-2026
+- An Ordinance of the Town Council of the Town of Parachute, Colorado,
+- Revising and Adopting Title 15, Wildland Urban Interface Fire Code
+- Resolution No. 2026-19
+- A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, APPROVING LICENSE AGREEMENT WITH FLIX BUS
+- Sarah Tohamey from Greyhound Bus and Flix attended virtually to discuss details of the bus stop in
+- Resolution No. 2026-20
+- PARACHUTE, COLORADO, APPROVING LICENSE AGREEMENT WITH THE RUNNING BURRITO
+- Resolution No. 2026-21
+- PARACHUTE, COLORADO, APPROVING LICENSE AGREEMENT WITH RETRO FIZZ LLC
+- Director Tomasulo presented this item and discussed the location (boat ramp) and size of the rented space
+- Resolution No. 2026-22
+- PARACHUTE, COLORADO, APPROVING ENTERING INTO IGA WITH COUNTY CLERK AND
+- Resolution No. 2026-23
+- PARACHUTE, COLORADO, APPROVING AND ADOPTING A COMMUNICATIONS POLICY
+- Sam Stewart, Police Chief, presented this item to the Mayor and councilmembers and gave an overview and
+- Resolution No
+- PARACHUTE, COLORADO, APPOINTING A REPLACEMENT TO FILL THE VACANCY ON THE
+- June 4 is the employee and family BBQ at Cottonwood Park;
+- 147 1st Street has closed and is now owned by the Town;
+- Stage 2 water restrictions remain in place;
+- in compliance with Stage 2 water restrictions;
+- Straight Bottom Ranch will be expanding solar project by 50 acres;
+
+## [parachute#7] 2026-06-18 | Town Council | minutes
 - Director of Economic/Community Development, Harley Walker, Director of Public Works,
 - Sam Stewart, Police Chief, Tamara Castellari, Public Information/Records Clerk, Alyshia
 - (C) APPROVE AGENDA
@@ -40,7 +229,82 @@
 - developers/investors tax incentives for future development
 - Madison Croissant, CSU Intern, assisting with creation/distribution/presentation of 2026 Citizen Survey and
 
-## [parachute#1] 2026-09-17 | Town Council | agenda
+## [parachute#8] 2026-07-16 | Town Council | agenda
+- APPROVE AGENDA
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- PRESENTATIONS
+- Regional Housing Needs Assessment, Liz Axberg, Housing Policy Analyst, City of Aspen
+- Collins, Executive Director, Middle Colorado Watershed Council
+- PUBLIC HEARINGS
+- Attachment C - Presentation Parachute.pdf
+- Public Hearing
+- Before the Town Council to Consider a Change of Premises License Application for
+- Resolution No. 2026-33
+- A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, GRANTING PUBLIC SERVICE COMPANY OF COLORADO A
+- Resolution No. 2026-34
+- PARACHUTE, COLORADO, APPROVING CONTRACT FOR ASPHALT PAVING OF PUBLIC
+- Draft Parachute Community Center Management Plan & Discussion
+- Preparation and Discussion of Agenda Topics for Joint BOCC Worksession on August 20, 2026
+- Cover Memo: Public Hearing Mountain Managers III LLC Change of Premises.pdf
+- Attachment 1: Application to Modify Premises - Mountain Managers III LLC - Redacted.pdf
+- Attachment 3: 2026-32 Resolution - Modification of Premise Mountain Managers III LLC with
+- Cover Memo: Resolution No. 2026-33 Granting Temporary Construction Easement to Xcel
+- Attachment 1: Resolution No. 2026-33 - Xcel Public Service Company - Temporary Easement
+- Attachment 2: Temporary Construction Easement Agreement - Xcel Energy - Draft
+- Cover Memo: Resolution No. 2026-34 Bid Award and Contract with FPI for Asphalt Paving Project
+- Attachment 1: Resolution No. 2026-34 - Bid Award and Approving Contract with FPI for Asphalt
+- Paving Project
+- Attachment 2: Resolution No. 2026-34 - Exhibit A - Notice of Intent to Award - Contract
+- Performance and Payment Bond - FPI
+- Attachment 3: Frontier Paving Inc Bid Package.pdf
+- Attachment 4: RFP20261-bid-results Public Works Shop Paving
+- Cover Memo: Town Council Parachute Community Center Management Plan Discussion
+- Attachment 1: Community Center Management Plan Scoping Document FINAL
+- Attachment 3: Draft Parachute Community Center Rental Agreement and Liability Waiver
+
+## [parachute#9] 2026-08-20 | Town Council | minutes
+- Director of Economic/Community Development, Harley Walker, Director of Public Works,
+- Sam Stewart, Police Chief, Tamara Castellari, Public Information/Records Clerk, Alyshia
+- (C) APPROVE AGENDA
+- request that an item be "removed" from the consent agenda and considered on the regular agenda
+- License Premise: 254 South Railroad Avenue
+- D.5) Ratification of Letter of Support for Northwest Colorado Council of Governments 5304 Transit
+- Planning Grant
+- D.6) Resolution No. 2026-25 A RESOLUTION SUPPORTING THE PARACHUTE AREA
+- TRANSIT SYSTEM GRANT APPLICATION TO THE COLORADO DEPARTMENT OF
+- D.7) Resolution No. 2026-26 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- E.1) Resolution No. 2026-31 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, APPOINTING NICOLE LOSCHKE TO FILL THE VACANT TOWN
+- E.2) Swearing in of appointed Town Council Member Nicole Loschke
+- Nicole Loschke was appointed and sworn in and participated as a voting councilmemher for the remainder of
+- E.3) Swearing in of Alyshia Sauer as Police Officer
+- (G) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- (H) PRESENTATIONS
+- application. To use the application, please visit ridepats.com
+- (I) PUBLIC HEARINGS
+- I.1) Public Hearing Before the Town Council to Consider a Regulated Marijuana Business License
+- Application for Medical Marijuana Infused Products Manufacturing
+- Resolution of the Town Council of the Town of Parachute, Colorado, Acting as the Local Licensing Authority
+- Granting to Mountain Managers II LLC a License to Operate a Medical Marijuana Infused Products
+- I.2) Public Hearing Before the Town Council to Consider a Special Use Review to Allow the Reconstruction
+- Project Name: 6670 Transmission Line
+- of the Town Council of the Town of Parachute, Colorado Approving a Special Use Review for Public Utility
+- (J) RESOLUTIONS
+- J.1) Resolution No. 2026-29 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, RE-APPOINTING SHERRY LOSCHKE ON THE PLANNING
+- (K) CONTRACTS
+- K.1) Resolution No. 2026-30 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, APPROVING A PURCHASE AGREEMENT AND CONTRACT WITH
+- WAGNER EQUIPMENT CO. FOR THE PURCHASE OF A WHEEL LOADER
+- L.1) 2026 Town Council Strategic Goal Setting Preliminary Discussion
+- Town Council will meet on July 16, 2026 from 5:45 - 6:15 to discuss updating strategic goals
+- Town is recipient of CDBG $600,000 Grant for 1st Street Project
+- developers/investors tax incentives for future development
+- Madison Croissant, CSU Intern, assisting with creation/distribution/presentation of 2026 Citizen Survey and
+
+## [parachute#10] 2026-09-17 | Town Council | agenda
 - APPROVE AGENDA
 - request that an item be “removed” from the consent agenda and considered on the regular agenda
 - PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
@@ -67,7 +331,7 @@
 - Attachment 1: TOP Employee Focus Group Feedback Sessions Report
 - Cover Memo: 2027 Draft Budget Kickoff and Workshop Mtg
 
-## [parachute#2] 2026-10-15 | Town Council | agenda
+## [parachute#11] 2026-10-15 | Town Council | agenda
 - APPROVE AGENDA
 - request that an item be “removed” from the consent agenda and considered on the regular agenda
 - Ratification of a Letter

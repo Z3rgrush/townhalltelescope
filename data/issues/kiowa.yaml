@@ -1,46 +1,47 @@
-- title: New Town of Kiowa zoning code (Ordinance 2026-08)
-  summary: The Board of Trustees holds a public hearing on Ordinance No. 2026-08, which would repeal and replace the town's Chapter 16 zoning code and zoning ordinances with a new zoning code.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Zoning & development
-- title: Proposed 2027 budget for the Town and water authority
-  summary: The Board of Trustees and the Kiowa Water and Wastewater Authority both list the proposed 2027 budget as a discussion item at their October 13 meetings.
+- title: New 2026 Zoning Code replacing Chapter 16
+  summary: The Planning Commission was asked to approve the 2026 Zoning Code Update as the town's official zoning ordinance (Resolution 2026-PC-01). On Oct. 13 the Board of Trustees holds a public hearing on Ordinance 2026-08, which would repeal and replace Chapter 16 and adopt a new zoning code.
   where: Townwide
   refs:
   - 0
   - 1
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Proposed 2027 budget for the town and water authority
+  summary: The Board of Trustees and the Kiowa Water and Wastewater Authority both have the proposed 2027 budget on their Oct. 13 agendas for discussion. The documents give no figures.
+  where: Townwide
+  refs:
+  - 1
+  - 2
   topics:
   - Budget & taxes
   - Water
-- title: Affordable housing commitment filing (Resolution 2026-19)
-  summary: A resolution would authorize the Town Administrator to file an affordable housing commitment. The agenda gives no further details.
+- title: Affordable housing commitment filing
+  summary: Resolution 2026-19 would authorize the Town Administrator to file an affordable housing commitment with a state or other agency. The agenda excerpt does not name the agency.
   where: Townwide
-  refs:
-  - 0
-  topics:
-  - Housing
-- title: Floodplain permit fee (Resolution 2026-18)
-  summary: The Board is set to discuss the Town's floodplain permit fee, which was established by Resolution No. 2026-18.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Fees & rates
-  - Environment & climate
-  - Zoning & development
-- title: Water authority contract with Gen-Tech, LLC
-  summary: The Kiowa Water and Wastewater Authority is set to consider an agreement for professional services with Gen-Tech, LLC.
-  where: Kiowa water and wastewater system
   refs:
   - 1
   topics:
+  - Housing
+- title: Floodplain permit fee
+  summary: The Trustees have the town's floodplain permit fee, set by Resolution 2026-18, on their Oct. 13 agenda for discussion.
+  where: Townwide
+  refs:
+  - 1
+  topics:
+  - Fees & rates
+  - Environment & climate
+- title: Water authority contract with Gen-Tech, LLC
+  summary: The Kiowa Water and Wastewater Authority is considering an agreement for professional services with Gen-Tech, LLC at its Oct. 13 meeting.
+  where: Town Hall, 404 Comanche Street
+  refs:
+  - 2
+  topics:
   - Water
   - Utilities
-- title: Closed session on possible real property purchase
-  summary: The Board plans an executive session to consider the Town's purchase or acquisition of real property and to develop negotiating strategy. The agenda does not name the property.
+- title: Real property purchase discussions in executive session
+  summary: The Trustees plan a closed session on Oct. 13 about the town's possible purchase or acquisition of real property, including negotiation strategy.
   refs:
-  - 0
+  - 1
   topics:
   - Land & property

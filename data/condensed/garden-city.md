@@ -1,0 +1,135 @@
+# garden-city
+
+## [garden-city#0] 2025-11-04 | Board of Trustees | agenda
+- Town Hall - 621 27th Street Road, Garden City, CO 80631
+- The Board will consider and may act on the following items:
+- a. Approve Minutes from October 20, 2025 Regular Meeting
+- b. Approve Bills Paid
+- c. Approve Bills to be Paid
+- d. Approve Hauser Architects invoice in the amount of $11,500.00
+- a. Consider I&B Inc DBA El Bandido Niteclub Permit of Application and Report of
+- b. Consider I&B Inc DBA El Bandido Niteclub Tavern with Live Entertainment Liquor
+- 6. Contract for 2026 Transit Services
+- a. Approve 2026 Greeley Transit Contract for Services
+- 7. Fee Schedule
+- a. Adopt Building Permit Fee Schedule for 2026
+- 8. Consider Speed Hump proposals for 27th Street Road
+- 9. Consider concrete proposals for work behind the Community Center
+- 10. Police Department Items
+- a. Approve Mark Young Construction Change Order COR No.002 in the amount of
+- b. Approve Mark Young Construction Change Order COR No.003 in the amount of
+- c. Approve Mark Young invoice for October construction services in the amount of
+- b. Police Chief
+
+## [garden-city#1] 2025-11-18 | Board of Trustees | agenda
+- Town Hall - 621 27th Street Road, Garden City, CO 80631
+- The Board will consider and may act on the following items:
+- a. Approve Minutes from November 4, 2025 Regular Meeting
+- b. Approve Financial Reports for October 2025
+- c. Approve Bills Paid
+- d. Approve Bills to be Paid
+- e. Approve ProCode invoice in the amount of $5,751.74
+- f. Approve Precision Employement Invoice in the amount of $5,506.25
+- g. Approve Cheryl Campbell's PTO Request for January 5-8, 2026
+- 5. Paul Hlad from Award Alliance
+- a. Consider A.F Ray's Barcade DBA Empire State Pizza Hotel and Restaurant Liquor
+- License Renewal Application
+- a. Consider Nature's Herbs and Wellness Center Retail Marijuana Store License
+- b. Consider Nature's Herbs and Wellness Center Retail Marijuana Cultivation License
+- c. Consider Nature's Kitchen LLC Retail Marijuana Products Manufacturer License
+- d. Consider High Plainz Strains II LLC Retail Marijuana Store License Renewal #RL
+- e. Consider High Plainz Strains II LLC Retail Marijuana Cultivation Facility License
+- a. Approve El Rodeo Night Club LLC Commercial Revitalization Grant final review and
+- 9. Approve Thanksgiving baskets for 2025
+- 11. Consider closing early on December 31, 2025
+- 12. Consider January 2026 Work Session
+- a. Approve 2026 Events Calendar
+- b. Approve 2026 Closure Calendar
+- 14. Public Hearing Regarding the 2026 Budget
+- 15. Ordinances
+- a. Introduction to Ordinance 11-2025 An Ordinance Adopting By Reference The
+- Electric And Solar Ready Code, 2023 Edition; And The Colorado Wildfire Resiliency
+- b. Schedule Public Hearing regarding Ordinance 11-2025 for December 9th 2025 at
+- 16. Police Department Items
+- a. Approve Mark Young Construction Change Order COR No.004 in the amount of
+- b. Approve Mark Young Construction Change Order COR No.005 in the amount of
+- c. Approve Mark Young Construction Change Order COR No.006 in the amount of
+- d. Approve Mark Young Construction Change Order COR No.007 in the amount of
+- b. Police Chief
+
+## [garden-city#2] 2025-12-09 | Board of Trustees | agenda
+- Town Hall - 621 27th Street Road, Garden City, CO 80631
+- The Board will consider and may act on the following items:
+- 3. Swear in David Vogl as Part-Time Police Officer
+- a. Approve Minutes from November 18, 2025 Regular Meeting
+- b. Approve Financial Reports
+- c. Approve Bills Paid
+- d. Approve Bills to be Paid
+- e. Approve invoice for Naranjo Civil Constructors in the amount of $44,616.00
+- a. Consider Ron-Lee-Von LLC DBA White Horse Inn LLC Tavern with Live
+- 8. Approve adding a paid holiday December 31st
+- 10. Agreements
+- a. Approve Professional Services Agreement Between Town of Garden City, Colorado
+- b. Approve Amendment to Victim Services Unit Intergovernmental Agreement
+- 11. Public Hearing Regarding Ordinance 11-2025
+- 12. Ordinances
+- a. Ordinance 11-2025 An Ordinance Adopting By Reference The International Building
+- Electric And Solar Ready Code, 2023 Edition; And The Colorado Wildfire Resiliency
+- 13. Police Department Items
+- a. Approve Mark Young Construction Change Order No. 008 in the amount of
+- b. Approve Mark Young Construction Change Order No. 009 in the amount of
+- c. Approve Mark Young Construction Change Order No. 010 in the amount of
+- d. Approve Mark Young invoice for November billing in the amount of $301,598.32
+- 14. 2026 Budget
+- a. Approve 4% COLA for 2026
+- b. Approve an increase in health insurance stipend for Town employees for 2026 to
+- c. Adopt Resolution 10-2025 Adoption of Proposed 2026 Budget
+- d. Adopt Resolution 11-2025 Appropriation of Funds
+- e. Adopt Resolution 12-2025 Levying General Property Tax
+- 15. Resolutions
+- a. Adopt Resolution 13-2025 Incentive for Award Alliance
+- b. Police Chief
+
+## [garden-city#3] 2026-07-21 | Board of Trustees | minutes
+- Town Hall - 621 27th Street Road, Garden City, CO 80631
+- The Board will consider and may act on the following items:
+- In Attendance: Town Administrator Cheryl Campbell, Police Chief Jeremy Black, Deputy
+- Clerk Lindsay Shoemaker, Town Attorney Amy Penfold, Police Sgt. Ken Amick, and
+- a. Approve Minutes from July 7, 2026 Regular Meeting
+- b. Approve Financial Reports
+- c. Approve Bills Paid
+- d. Approve Bills to be Paid
+- a. Consider Vireo Health of Noco LLC DBA Star Buds 2502 8th Ave ML 2502-26
+- Trustee Alex Lopez moved to approve Vireo Health of Noco LLC DBA Star Buds 2502
+- 7. Agreements
+- a. Approve Intergovernmental Agreement for Conduct of Community Development Block
+- Grant Program in Weld County
+- Trustee Rebecca Moreau moved to approve Intergovernmental Agreement for Conduct
+- a. Consider Alternate Attorney options
+- a. Approve Resolution No. 09-2026 A Resolution Of The Town Of Garden City Making A
+- Trustee Leigh Sorensen moved to adopt Resolution No. 09-2026 A Resolution Of The
+- Resolution 09-2026 adopted
+- b. Approve Memorandum of Intergovernmental Agreement For Conduct of Coordinated
+- Trustee Rebecca Moreau moved to approve Memorandum of Intergovernmental
+- c. Discussion for election
+- a. Approve Resolution No. 10-2026 A Resolution Granting A Use By Special Review
+- Trustee Alex Lopez moved to adopt Resolution No. 10-2026 A Resolution Granting A
+- Resolution 10-2026 adopted
+- 11. Discuss Northern Colorado Driveline
+- 12. Discuss Town Administrator/Town Clerk transition
+- Cheryl Campbell discussed the transition of the position once Linda Blackston starts in
+- a. Approve Resolution No. 11-2026 A Resolution Of The Town Of Garden City, Colorado
+- Trustee Alex Lopez moved to adopt Resolution No.11-2026 A Resolution Of The Town
+- Resolution 11-2026 adopted
+- b. Consider resignation letter from Cheryl Campbell
+- Trustee Leigh Sorensen moved to approve resignation letter from Cheryl Campbell,
+- c. Employment agreement
+- 14. Police Department Items
+- a. Approve Mark Young Construction invoice for June 2026 services in the amount of
+- Trustee Leigh Sorensen moved to approve Mark Young Construction invoice for June
+- b. Consider lowering price of last Smith & Wesson
+- Trustee Rebecca Moreau moved to approve lowering price of last Smith & Wesson to
+- b. Police Chief
+- and will resume training when she's ready. Officer Vogl is on the street by himself now
+- He submitted a few grants. The floor in the PD will be entirely replaced
+- Cheryl and Tim will check on the issue at the end of 27th Street Road

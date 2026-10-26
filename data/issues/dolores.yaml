@@ -1,105 +1,142 @@
-- title: Rezoning of 206 and 207 South Third Street (Ordinance 592)
-  summary: Applicant Broc Smith asked to rezone 206 and 207 South Third Street from Downtown Mixed Use. Neighbors raised concerns about traffic, lost business opportunities and spot zoning. The Board held a first reading on Aug. 10 and approved Ordinance 592 on second reading in September.
-  where: 206 and 207 South Third Street
+- title: Broc's Development PUD and rezoning of 206 and 207 South Third Street
+  summary: Broc Smith's (KKV Development) project on 3rd Street/Riverside Avenue went through a PUD concept review in May 2026, with residents raising concerns about parking, three-story height, infrastructure and density. The Board then took up Ordinance 592 rezoning 206 and 207 South Third Street from Downtown Mixed Use. It had a first reading in August, with speakers calling it possible spot zoning and asking for a traffic study, and was approved on second reading on Sept. 14.
+  where: 206 and 207 South Third Street / Riverside Avenue
   refs:
-  - 0
-  - 2
-  public_comment: true
-  topics:
-  - Zoning & development
-  - Roads & traffic
-- title: Riverside Avenue zoning and density concerns (NR-3)
-  summary: Residents said the proposed NR-3 zoning does not address density on Riverside Avenue. One suggested NR-1 and another called the change possible spot zoning. Residents also asked the Board to review public comment letters on the Riverside project.
-  where: Riverside Avenue
-  refs:
-  - 0
-  public_comment: true
+  - 4
+  - 6
+  - 12
+  - 14
   topics:
   - Zoning & development
   - Housing
-- title: 2027 budget and Community Center funding
-  summary: Staff presented 2027 budget planning in August, with more discussion set for October. A preliminary 2027 budget was presented Oct. 12, with meetings and a public hearing to follow. Residents urged finishing park improvements, and the Community Center Advisory Board asked that its funding be reviewed in the budget.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  - 2
-  - 4
+  - Land & property
   public_comment: true
-  topics:
-  - Budget & taxes
-  - Parks & open space
-  - Recreation & trails
-- title: Sheriff's contract and law enforcement metrics
-  summary: The Town Attorney presented a draft Sheriff's contract. The Board discussed metrics to judge the value and level of service. Flock license plate reader cameras also came up in October.
+- title: Phase 2 Water Project funding and water main replacement
+  summary: The town is funding Phase 2 of its water project through a DWRF loan agreement (Resolutions 700 and 719) and about $700,000 in DOLA funding. Phase 2 construction is expected to start in spring 2027, and the water main replacement continues. Water rates were also on the agenda.
   where: Townwide
-  refs:
-  - 1
-  - 4
-  topics:
-  - Policing & public safety
-  - Government operations
-- title: Town Attorney resignation and new legal services contract
-  summary: Attorney Ethan Sumrall announced his resignation in August. The Board accepted it by Resolution 723 in October and approved a legal services agreement with Holligan Westendorff, PLLC.
   refs:
   - 0
-  - 4
-  topics:
-  - Lawsuits & legal
-  - Government operations
-- title: Phase 2 water project loan and water main replacement
-  summary: The Board considered Resolution 719, a Drinking Water Revolving Fund loan agreement for the Phase 2 water project, after reviewing the loan summary. The manager also reported progress on the water main replacement project.
-  where: Townwide
-  refs:
   - 2
+  - 3
+  - 4
+  - 7
+  - 10
+  - 14
   topics:
   - Water
   - Utilities
-- title: 2024 International Codes adoption (Ordinance 594)
-  summary: The Board approved Ordinance 594 on first reading to adopt the 2024 International Codes. A resident thanked the Board for not adopting the Colorado Wildfire Resiliency Code.
+  - Budget & taxes
+- title: 2026 fee schedule, business license fees and Ordinance 591
+  summary: The Board reworked town fees. Ordinance 591 sets procedures for license renewal, late fees and enforcement and lets fees be set by resolution. It passed on second reading Aug. 10. On July 27 the Board set the business license fee at $30 with a $50 late fee. Short-term rental permit fees were questioned, and a business owner objected to a late fee.
   where: Townwide
   refs:
-  - 4
+  - 9
+  - 10
+  - 11
+  - 12
+  - 14
+  topics:
+  - Fees & rates
+  - Short-term rentals
+  - Government operations
   public_comment: true
+- title: Comprehensive Plan update
+  summary: The town is updating its Comprehensive Plan with a consultant, a community questionnaire and outreach events that ended July 10. Public comments close July 31, and a draft plan is expected in October.
+  where: Townwide
+  refs:
+  - 2
+  - 7
+  - 8
+  - 10
+  - 16
   topics:
   - Zoning & development
   - Government operations
-- title: Easements and telecom leases (fiber, Comnet/Everest tower)
-  summary: The Board approved an easement with Clearnetworx, LLC for fiber optic facilities at 101 Railroad Avenue, and an easement agreement with Marianne Mate. The attorney also discussed the Comnet/Everest telecommunications tower lease.
-  where: 101 Railroad Avenue
-  refs:
-  - 2
-  - 4
-  topics:
-  - Broadband
-  - Land & property
-- title: Parks projects, Riverside Trail and Flanders Park
-  summary: Residents commented on the Riverside Trail improvements, Flanders Park work and unfinished grant projects. The Parks Committee offered to help with the GOCO project and noted a CDOT safety study grant.
-  where: Riverside Trail and Flanders Park
-  refs:
-  - 2
-  - 4
-  public_comment: true
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: Feral cats, rubbish ordinance and code enforcement
-  summary: The manager discussed approaches to feral cats and a rubbish ordinance is being developed. The Board also discussed limits on code enforcement.
+- title: Sheriff's contract
+  summary: The 2026 Sheriff's contract was on the October 2025 agenda. In August 2026 the Board discussed a draft contract and metrics to judge the value and level of law enforcement service.
   where: Townwide
   refs:
   - 0
-  - 1
-  - 2
+  - 11
+  - 13
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+- title: 2027 budget and community center funding
+  summary: Staff presented the preliminary 2027 budget in October, with a public hearing process ahead. The Community Center Advisory Board asked for direction, and the Board said community center funding would be reviewed in the budget process. Residents want park improvements prioritized.
+  where: Dolores Community Center / Townwide
+  refs:
+  - 11
+  - 13
+  - 14
+  - 16
+  topics:
+  - Budget & taxes
+  - Recreation & trails
+  public_comment: true
+- title: Town Attorney resignation and new legal services
+  summary: Town Attorney Ethan Sumrall resigned, and the Board accepted his resignation on Oct. 12 (Resolution 723). It approved a legal services agreement with Holligan Westendorff, PLLC. The Board also agreed to hire a water law attorney for river water rights.
+  where: Townwide
+  refs:
+  - 10
+  - 12
+  - 16
   topics:
   - Government operations
-  - Agriculture & wildlife
-- title: Housing needs assessment and Search and Rescue request
-  summary: The Board discussed the SB24-174 Housing Needs Assessment for Region 9. Search and Rescue asked to use or lease Town-owned property.
+  - Lawsuits & legal
+  - Water
+- title: Public comment rules and public records policy
+  summary: The Board discussed personal attacks on staff during public comment and planned signage on expectations. A speaker argued the First Amendment limits restrictions. The Board also reviewed a public records request policy and form, and considered adding a public comment period before workshops.
+  where: Town Hall
+  refs:
+  - 11
+  - 12
+  topics:
+  - Ethics & transparency
+  - Government operations
+  public_comment: true
+- title: Special events, parks and Flanders Park projects
+  summary: The Board discussed rules for large events and special event liquor permits. A softball tournament organizer asked for a park fee waiver. The Galloping Goose Historical Society asked to add a structure in Flanders Park. The Board also took up a GOCO project, dry parks and a scoreboard.
+  where: Flanders Park / Riverside Park
+  refs:
+  - 2
+  - 3
+  - 10
+  - 14
+  - 16
+  topics:
+  - Parks & open space
+  - Tourism & events
+  - Recreation & trails
+  public_comment: true
+- title: Fire hazards, fire bans and wildfire code
+  summary: The town adopted county fire restrictions in April and hired tree cutting along the escarpment to reduce fire risk. Residents thanked the Board for not adopting the Colorado Wildfire Resiliency Code. Ordinance 594 adopting the 2024 International Codes had its first reading in October.
   where: Townwide
   refs:
   - 4
+  - 10
+  - 16
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Zoning & development
   public_comment: true
+- title: Dog licensing ordinance and feral cats
+  summary: Ordinance 589 revised dog licensing requirements to make them more enforceable, passing first reading in March and a second-reading hearing in April. In September staff and trustees discussed ways to address feral cats.
+  where: Townwide
+  refs:
+  - 2
+  - 3
+  - 4
+  - 14
+  topics:
+  - Government operations
+  - Agriculture & wildlife
+- title: Housing grant pass-through and regional housing needs
+  summary: Resolution 714 makes the town the pass-through agent for a housing project funded by federal and state grants. The Board also discussed the SB24-174 Housing Needs Assessment from Region 9 EDD.
+  where: Townwide
+  refs:
+  - 10
+  - 16
   topics:
   - Housing
-  - Fire & emergencies
-  - Land & property
