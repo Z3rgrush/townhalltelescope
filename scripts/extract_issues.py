@@ -23,6 +23,21 @@ from collector.regions import REGIONS  # noqa: E402
 
 MODEL = os.environ.get("EXTRACT_MODEL") or "claude-sonnet-5-5"
 
+# The fixed topic list issues are filed under (the map's word clouds count these).
+TOPICS = [
+    "Housing", "Zoning & development", "Annexation", "Roads & traffic", "Transit", "Water", "Utilities",
+    "Energy", "Data centers", "Parks & open space", "Recreation & trails", "Policing & public safety",
+    "Fire & emergencies", "Guns", "Budget & taxes", "Fees & rates", "Elections", "Schools & youth",
+    "Health & human services", "Homelessness", "Environment & climate", "Agriculture & wildlife",
+    "Oil, gas & mining", "Cannabis & liquor", "Short-term rentals", "Economic development",
+    "Downtown & business", "Tourism & events", "Broadband", "Airports", "Libraries & culture",
+    "Historic preservation", "Land & property", "Lawsuits & legal", "Ethics & transparency",
+    "Immigration", "Government operations",
+]
+GUNS = ("guns is true only when the issue is about firearms: gun rights or Second Amendment resolutions, gun control "
+        "or firearm restrictions, guns in public buildings or parks, concealed carry, shooting ranges, firearm storage "
+        "or safety programs, gun buybacks, or gun violence prevention.")
+
 ISSUE_SCHEMA = {
     "type": "object",
     "properties": {
@@ -37,8 +52,10 @@ ISSUE_SCHEMA = {
                     "refs": {"type": "array", "items": {"type": "integer"}},
                     "public_comment": {"type": "boolean"},
                     "data_center": {"type": "boolean"},
+                    "guns": {"type": "boolean"},
+                    "topics": {"type": "array", "items": {"type": "string", "enum": TOPICS}},
                 },
-                "required": ["title", "summary", "where", "refs", "public_comment", "data_center"],
+                "required": ["title", "summary", "where", "refs", "public_comment", "data_center", "guns", "topics"],
                 "additionalProperties": False,
             },
         }
@@ -59,6 +76,8 @@ What makes a good issue:
 - where is the street address, intersection, neighborhood or facility the issue is about, or "Townwide" / "Citywide" / "Countywide" when it is not tied to one place, or "" if unclear.
 - public_comment is true only when the documents show residents or outside groups spoke or wrote in about this issue.
 - data_center is true only when the issue is about data centers (a proposed facility, rules, a moratorium, or their power or water use).
+- """ + GUNS + """
+- topics is the one to three topics from the allowed list that the issue is mostly about, most fitting first.
 
 List the issues most worth a resident's attention first. Return between 4 and 15 issues; fewer if the documents hold little real business. If there is nothing but routine business, return an empty list."""
 
@@ -77,8 +96,10 @@ def to_yaml_entries(issues, valid_refs):
         if it["where"].strip():
             entry["where"] = it["where"].strip()
         entry["refs"] = refs
-        if it["data_center"]:
-            entry["tags"] = ["data-center"]
+        entry["topics"] = list(dict.fromkeys(it["topics"]))[:3]
+        tags = [t for t, on in (("data-center", it["data_center"]), ("guns", it["guns"])) if on]
+        if tags:
+            entry["tags"] = tags
         if it["public_comment"]:
             entry["public_comment"] = True
         out.append(entry)

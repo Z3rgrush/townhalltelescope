@@ -24,6 +24,7 @@ jobs:
         run: |
           python scripts/condense.py
           python scripts/extract_issues.py --only "$ONLY" $([ "$ALL" = "true" ] && echo --all)
+          python scripts/tag_issues.py
           python scripts/build_map.py
       - run: |
           git config user.name "townhalltelescope-bot"

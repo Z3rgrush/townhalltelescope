@@ -34,6 +34,7 @@ jobs:
           if [ -z "$ANTHROPIC_API_KEY" ]; then echo "No TOWNHALL_SECRET secret; skipping extraction"; exit 0; fi
           python scripts/condense.py
           python scripts/extract_issues.py
+          python scripts/tag_issues.py
           python scripts/build_map.py
       - name: Commit results
         run: |

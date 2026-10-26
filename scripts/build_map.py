@@ -84,6 +84,7 @@ def load_issues(data, index):
                 "where": it.get("where"),
                 "public_comment": bool(it.get("public_comment")),
                 "tags": it.get("tags", []),
+                "topics": it.get("topics", []),
                 "site_zip": it.get("site_zip"),
                 "meetings": len({d["date"] for d in docs}),
                 "sources": sources,
@@ -205,10 +206,18 @@ def build_counties(pieces, issues):
                 entry = tags.setdefault(t, {"ids": [], "site": False})
                 entry["ids"].append(it["id"])
                 entry["site"] |= zc.get(it["site_zip"]) == county
+        # The word cloud: each topic weighted by how much its issues came up, like the issue ranking.
+        topics = defaultdict(lambda: [0.0, []])
+        for score, it in ranked:
+            for t in it["topics"]:
+                topics[t][0] += score
+                topics[t][1].append(it["id"])
         out[county] = {
             "governments": [{"name": n, "share": round(sh, 3), "has_records": s in issues} for s, n, sh in govs],
             "issues": [it["id"] for _, it in ranked[:TOP_COUNTY]],
             "tagged": tags,
+            "topics": {t: {"weight": round(w, 1), "issues": ids[:TOP_COUNTY]}
+                       for t, (w, ids) in sorted(topics.items(), key=lambda kv: -kv[1][0])},
         }
     return {"counties": out, "zips": zc}
 
