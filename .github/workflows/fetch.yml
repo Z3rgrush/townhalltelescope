@@ -1,0 +1,38 @@
+name: fetch
+# Saves raw pages to the fetch-output branch, so scrapers can be designed against the real HTML.
+on:
+  workflow_dispatch:
+    inputs:
+      urls: {description: "Space-separated URLs", required: true}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - env:
+          URLS: ${{ github.event.inputs.urls }}
+        run: |
+          set -f
+          mkdir -p /tmp/out
+          python - $URLS <<'PY'
+          import re, sys, requests
+          UA = {"User-Agent": "Mozilla/5.0 (compatible; townhalltelescope/0.1; +https://github.com/Z3rgrush/townhalltelescope)"}
+          for i, url in enumerate(sys.argv[1:]):
+              name = f"/tmp/out/{i:02d}-" + re.sub(r"[^A-Za-z0-9]+", "-", url.split("//", 1)[-1])[:80]
+              try:
+                  r = requests.get(url, headers=UA, timeout=45)
+                  open(name + ".html", "wb").write(r.content)
+                  print(r.status_code, len(r.content), url)
+              except Exception as e:
+                  open(name + ".err", "w").write(str(e))
+                  print("ERROR", url, e)
+          PY
+          cd /tmp/out
+          git init -q -b fetch-output
+          git add . && git -c user.name=bot -c user.email=actions@users.noreply.github.com commit -qm "fetch $(date -u +%FT%T)"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" fetch-output
