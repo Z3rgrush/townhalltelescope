@@ -209,13 +209,15 @@
  },
  "boulder-county": {
   "name": "Boulder County",
-  "adapter": "wp_events",
-  "meetings": 19,
-  "documents": 19,
-  "ok": 19,
+  "adapter": "escribe",
+  "meetings": 39,
+  "documents": 39,
+  "ok": 39,
   "failed": 0,
   "error": "",
   "log": [
+   "  document types: ['Agenda', 'AgendaCover', 'PostMinutes', 'Video']",
+   "  28 meetings returned, 20 kept",
    "  19 events with descriptions in window"
   ],
   "run": "2026-10-26"
@@ -466,6 +468,19 @@
   "error": "",
   "log": [
    "  109 events in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "cortez": {
+  "name": "Cortez",
+  "adapter": "destiny",
+  "meetings": 14,
+  "documents": 14,
+  "ok": 14,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  14 agendas in window"
   ],
   "run": "2026-10-26"
  },
@@ -898,6 +913,20 @@
   ],
   "run": "2026-10-26"
  },
+ "garfield-county": {
+  "name": "Garfield County",
+  "adapter": "escribe",
+  "meetings": 16,
+  "documents": 16,
+  "ok": 16,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  document types: ['AdditionalDocuments', 'Agenda', 'AgendaCover', 'PostMinutes', 'Video']",
+   "  19 meetings returned, 18 kept"
+  ],
+  "run": "2026-10-26"
+ },
  "gilpin-county": {
   "name": "Gilpin County",
   "adapter": "linkscan",
@@ -947,6 +976,19 @@
   "error": "",
   "log": [
    "  71 documents in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "granby": {
+  "name": "Granby",
+  "adapter": "destiny",
+  "meetings": 8,
+  "documents": 8,
+  "ok": 8,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  8 agendas in window"
   ],
   "run": "2026-10-26"
  },
@@ -1159,6 +1201,19 @@
   ],
   "run": "2026-10-25"
  },
+ "huerfano-county": {
+  "name": "Huerfano County",
+  "adapter": "civicclerk",
+  "meetings": 26,
+  "documents": 48,
+  "ok": 48,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  32 events in window"
+  ],
+  "run": "2026-10-26"
+ },
  "hugo": {
   "name": "Hugo",
   "adapter": "linkscan",
@@ -1208,6 +1263,20 @@
   "error": "",
   "log": [
    "  https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/: 0 dated links in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "jefferson-county": {
+  "name": "Jefferson County",
+  "adapter": "escribe",
+  "meetings": 25,
+  "documents": 25,
+  "ok": 25,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  document types: ['AdditionalDocuments', 'Agenda', 'PostMinutes', 'Video']",
+   "  59 meetings returned, 26 kept"
   ],
   "run": "2026-10-26"
  },
@@ -2179,13 +2248,13 @@
  "summit-county": {
   "name": "Summit County",
   "adapter": "civicweb",
-  "meetings": 0,
-  "documents": 0,
+  "meetings": 4,
+  "documents": 4,
   "ok": 0,
-  "failed": 0,
+  "failed": 4,
   "error": "",
   "log": [
-   "  0 recent meetings in window"
+   "  4 recent meetings in window"
   ],
   "run": "2026-10-26"
  },
@@ -2212,6 +2281,19 @@
   "error": "",
   "log": [
    "  19 events in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "telluride": {
+  "name": "Telluride",
+  "adapter": "civicweb",
+  "meetings": 40,
+  "documents": 40,
+  "ok": 38,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  40 recent meetings in window"
   ],
   "run": "2026-10-26"
  },

@@ -3645,8 +3645,29 @@
  },
  "boulder-county/0": {
   "id": "boulder-county/0",
-  "title": "2027 county budget and budget cuts",
-  "summary": "Commissioners reviewed an efficiencies project and general fund budget reductions, heard department requests for 2027, and held a public hearing on the recommended budget ahead of adoption on December 8.",
+  "title": "Data center and detention center land use code amendments",
+  "summary": "The Planning Commission was scheduled on Oct. 21 to consider text amendments to the county Land Use Code defining data centers (DC-26-0003) and detention centers (DC-26-0004) and setting where and at what scale they may be allowed in unincorporated Boulder County. The commission's action is a recommendation to the commissioners.",
+  "where": "Unincorporated Boulder County",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Planning Commission - Regular Meeting",
+    "kind": "agenda",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=9d69efe4-9f14-47b3-9da4-5871c53fdba5&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/1": {
+  "id": "boulder-county/1",
+  "title": "2027 Boulder County budget",
+  "summary": "The county presented the 2027 recommended budget in departmental sessions in October, held a Superior town hall on it Aug. 18, and took public testimony at an Oct. 22 hearing. Budget adoption is set for Dec. 8. Work sessions also covered general fund reduction recommendations and an efficiencies project.",
   "where": "Countywide",
   "public_comment": true,
   "tags": [],
@@ -3660,10 +3681,22 @@
     "url": "https://bouldercounty.gov/event/public-hearing-2027-boulder-county-recommended-budget/"
    },
    {
+    "date": "2026-10-22",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=af74d90d-3e89-42c4-93b7-0bfb8613150f&Agenda=PostMinutes&lang=English"
+   },
+   {
     "date": "2026-10-15",
     "body": "Department and Office Requests 2027 Boulder County Budget",
     "kind": "agenda",
     "url": "https://bouldercounty.gov/event/public-meeting-department-and-office-requests-2027-boulder-county-budget-2/"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=9eed8640-74a7-4844-b3db-e9844cca1c04&Agenda=PostMinutes&lang=English"
    },
    {
     "date": "2026-10-13",
@@ -3676,6 +3709,12 @@
     "body": "Public Meeting on the 2027 Recommended Budgets",
     "kind": "agenda",
     "url": "https://bouldercounty.gov/event/public-meeting-2027-boulder-county-recommended-budget/"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63065ea5-d9d0-4841-8c09-87a6e1302157&Agenda=PostMinutes&lang=English"
    },
    {
     "date": "2026-08-18",
@@ -3692,35 +3731,147 @@
   ],
   "government": "Boulder County"
  },
- "boulder-county/1": {
-  "id": "boulder-county/1",
-  "title": "Xcel easements across county open space",
-  "summary": "Commissioners held a public hearing on Xcel taking three permanent easements across about 1.38 acres of the Liley, Simi and Tommy Thompson open space properties for the 120th Street shoulder rebuild.",
-  "where": "120th Street open space",
-  "public_comment": false,
+ "boulder-county/2": {
+  "id": "boulder-county/2",
+  "title": "Boulder Valley Comprehensive Plan major update",
+  "summary": "The Planning Commission and then the commissioners conditionally approved the ten-year major update to the Boulder Valley Comprehensive Plan, including Rural Lands text amendments. A resolution formally approving it followed Oct. 13.",
+  "where": "Boulder Valley",
+  "public_comment": true,
   "tags": [],
   "site_zip": null,
-  "meetings": 1,
+  "meetings": 3,
   "sources": [
    {
-    "date": "2026-08-04",
-    "body": "Xcel Easement Takings",
-    "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/public-hearing-xcel-easement-takings/"
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3a9a76f2-57d4-4fed-bc77-fd3e666c6b00&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Planning Commission - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3cea3fc0-df83-4cf3-9ef5-86dbdb49b94c&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-13",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3c355bec-bd96-4e3a-becd-9ab2df10f91e&Agenda=PostMinutes&lang=English"
    }
   ],
   "government": "Boulder County"
  },
- "boulder-county/2": {
-  "id": "boulder-county/2",
-  "title": "Affordable housing tax innovation fund and San Lazaro",
-  "summary": "Commissioners discussed the Affordable and Attainable Housing Tax innovation fund and a letter of intent for funding at San Lazaro, and the housing authority held hearings on its 2027 plans.",
-  "where": "San Lazaro mobile home park, countywide",
+ "boulder-county/3": {
+  "id": "boulder-county/3",
+  "title": "Ballot measure to expand the Board of Commissioners from 3 to 5",
+  "summary": "The commissioners adopted Resolution 2026-056 setting ballot titles for an initiative petition to increase the board from 3 to 5 members on the Nov. 3, 2026 ballot. The clerk found the petition sufficient. In October the board also considered county positions on 2026 ballot measures.",
+  "where": "Countywide",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
   "meetings": 2,
   "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3a9a76f2-57d4-4fed-bc77-fd3e666c6b00&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=077c1aff-dc5a-4d9c-a33a-ac06af888092&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/4": {
+  "id": "boulder-county/4",
+  "title": "Eldorado Springs wastewater plant debt ballot question",
+  "summary": "Sitting as the Eldorado Springs Public Improvement District board, the commissioners referred a multi-year debt authorization to the Nov. 3, 2026 ballot. It would pay for wastewater treatment plant improvements required by the state health department.",
+  "where": "Eldorado Springs",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-01",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63065ea5-d9d0-4841-8c09-87a6e1302157&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=077c1aff-dc5a-4d9c-a33a-ac06af888092&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/5": {
+  "id": "boulder-county/5",
+  "title": "Riverside Cabins Lodge special review revocation",
+  "summary": "Staff recommended revoking the special review approval (SU-23-0013) for violating conditions. The commissioners declined to revoke and continued the hearing to Jan. 7, 2027, so the applicants can finish the work and meet conditions. Lyons Fire Protection District staff took part.",
+  "where": "Near Lyons",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-20",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=29067786-367c-4517-91b4-4d3200a43c72&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/6": {
+  "id": "boulder-county/6",
+  "title": "Longmont 1st & Main urban renewal tax increment agreement",
+  "summary": "The county considered a tax increment financing agreement with the Longmont Urban Renewal Authority for redevelopment of the 1st & Main corridor. The project includes a regional transit center, environmental cleanup and public infrastructure.",
+  "where": "1st & Main, Longmont",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=8155c2b2-0491-4628-a710-8c54bf9816a8&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=dad4b6e2-2827-4e5e-9d59-1510780c28cf&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/7": {
+  "id": "boulder-county/7",
+  "title": "Housing Authority annual plan and homelessness funding",
+  "summary": "The commissioners held hearings on and approved the Boulder County Housing Authority 2027 Annual Plan and Moving to Work supplement, then approved submission. They also pursued state homelessness grants of $300,000 and $571,306 for youth housing, reallocated funds to Family Bridge Housing, and awarded $1,084,000 for Willoughby Corner Phases II and III in Lafayette.",
+  "where": "Countywide; 928 Canterbury Drive, Lafayette",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=8155c2b2-0491-4628-a710-8c54bf9816a8&Agenda=PostMinutes&lang=English"
+   },
    {
     "date": "2026-09-17",
     "body": "Boulder County Housing Authority Moving to Work Supplement to Annual Plan",
@@ -3734,62 +3885,104 @@
     "url": "https://bouldercounty.gov/event/public-meeting-boulder-county-housing-authority-plan/"
    },
    {
+    "date": "2026-09-17",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=ca3b3a48-4e08-4cf7-877b-245c55c25e93&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=416747be-a5dc-4fe4-bb5a-78c0dd1be121&Agenda=PostMinutes&lang=English"
+   },
+   {
     "date": "2026-08-11",
     "body": "Commissioners\u2019 Work Session \u2013 A.M.",
     "kind": "agenda",
     "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-a-m-hybrid/"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63854bc3-0a4e-4e0b-82a3-ca5cefb88aef&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=963799cf-3e1b-4a5f-a62a-14345885cab3&Agenda=PostMinutes&lang=English"
    }
   ],
   "government": "Boulder County"
  },
- "boulder-county/3": {
-  "id": "boulder-county/3",
-  "title": "Zero waste plan, fees and composting",
-  "summary": "Public Works updated commissioners on the zero waste plan, including possible fees and composting.",
-  "where": "Countywide",
+ "boulder-county/8": {
+  "id": "boulder-county/8",
+  "title": "Apahapa LLC boundary line adjustment appeal, Flagstaff Road",
+  "summary": "The commissioners heard an appeal of a director's determination on a boundary line adjustment between parcels at 6808 and 7022 Flagstaff Road, which also denied recognition of 6808 Flagstaff as a parcel. They tabled the hearing to Dec. 3 and took no comment because of time.",
+  "where": "6808 and 7022 Flagstaff Road",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
   "meetings": 1,
   "sources": [
    {
-    "date": "2026-08-18",
-    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
-    "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/commissioners-work-session-p-m-hybrid-08-18/"
+    "date": "2026-10-15",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=9eed8640-74a7-4844-b3db-e9844cca1c04&Agenda=PostMinutes&lang=English"
    }
   ],
   "government": "Boulder County"
  },
- "boulder-county/4": {
-  "id": "boulder-county/4",
-  "title": "Tucker Complex interim management",
-  "summary": "Parks and Open Space proposed an interim management plan for the Tucker Complex.",
-  "where": "Tucker Complex",
+ "boulder-county/9": {
+  "id": "boulder-county/9",
+  "title": "Osterholm-DiGiulian ADU denial",
+  "summary": "After an executive session with county attorneys, the commissioners denied the application for a family care accessory dwelling unit and a 165-square-foot addition. A resolution of denial followed Sept. 15. No one commented at the hearing.",
+  "where": null,
   "public_comment": false,
   "tags": [],
   "site_zip": null,
-  "meetings": 1,
+  "meetings": 2,
   "sources": [
    {
-    "date": "2026-08-18",
-    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
-    "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/commissioners-work-session-p-m-hybrid-08-18/"
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=416747be-a5dc-4fe4-bb5a-78c0dd1be121&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-20",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=29067786-367c-4517-91b4-4d3200a43c72&Agenda=PostMinutes&lang=English"
    }
   ],
   "government": "Boulder County"
  },
- "boulder-county/5": {
-  "id": "boulder-county/5",
-  "title": "Mental and behavioral health tax advisory committee",
-  "summary": "Commissioners set up the advisory committee and bylaws for the mental and behavioral health tax.",
-  "where": "Countywide",
+ "boulder-county/10": {
+  "id": "boulder-county/10",
+  "title": "Mental and behavioral health tax school funding",
+  "summary": "The county approved $800,000 contracts each with Boulder Valley and St. Vrain Valley school districts from the 1B Mental and Behavioral Health Tax, including Wellness Centers at six BVSD high schools. A tax advisory committee and bylaws were also discussed.",
+  "where": "Boulder Valley and St. Vrain Valley school districts",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
-  "meetings": 1,
+  "meetings": 3,
   "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3a9a76f2-57d4-4fed-bc77-fd3e666c6b00&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=8155c2b2-0491-4628-a710-8c54bf9816a8&Agenda=PostMinutes&lang=English"
+   },
    {
     "date": "2026-08-04",
     "body": "Commissioners\u2019 Work Session \u2013 A.M.",
@@ -3799,65 +3992,133 @@
   ],
   "government": "Boulder County"
  },
- "boulder-county/6": {
-  "id": "boulder-county/6",
-  "title": "Emergency services tax and grants",
-  "summary": "Commissioners heard an update on the emergency services tax and its grant program.",
-  "where": "Countywide",
+ "boulder-county/11": {
+  "id": "boulder-county/11",
+  "title": "Xcel easements for 120th Street shoulder reconstruction",
+  "summary": "Xcel proposed acquiring three permanent easements over about 1.38 acres of the Liley, Roberts (Simi) and Thompson (Tommy) open space properties for the 120th Street shoulder reconstruction. The commissioners held a hearing, and a funding agreement for 120th Street multimodal improvements was also approved.",
+  "where": "120th Street",
   "public_comment": false,
-  "tags": [],
-  "site_zip": null,
-  "meetings": 1,
-  "sources": [
-   {
-    "date": "2026-09-29",
-    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
-    "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-p-m-emergency-services-sales-tax/"
-   }
-  ],
-  "government": "Boulder County"
- },
- "boulder-county/7": {
-  "id": "boulder-county/7",
-  "title": "Commissioners' town halls on the budget and disaster preparedness",
-  "summary": "Commissioners held town halls in Superior on the 2027 budget and in Lafayette on disaster preparedness, taking residents' questions.",
-  "where": "Superior, Lafayette",
-  "public_comment": true,
   "tags": [],
   "site_zip": null,
   "meetings": 2,
   "sources": [
    {
-    "date": "2026-09-15",
-    "body": "County Commissioners\u2019 Town Hall (Lafayette/East County)",
-    "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/county-commissioners-town-hall-east-county/"
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63854bc3-0a4e-4e0b-82a3-ca5cefb88aef&Agenda=PostMinutes&lang=English"
    },
    {
-    "date": "2026-08-18",
-    "body": "Boulder County Commissioners\u2019\u202fTown Hall (Superior)",
+    "date": "2026-08-04",
+    "body": "Xcel Easement Takings",
     "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/boulder-county-commissioners-town-hall-superior/"
+    "url": "https://bouldercounty.gov/event/public-hearing-xcel-easement-takings/"
    }
   ],
   "government": "Boulder County"
  },
- "boulder-county/8": {
-  "id": "boulder-county/8",
-  "title": "Public improvement district budgets",
-  "summary": "Commissioners reviewed 2027 budgets for the Burgundy Park, Eldorado Springs, Gunbarrel, Homestead and Nederland EcoPass public improvement districts.",
-  "where": "Gunbarrel, Eldorado Springs, Nederland",
+ "boulder-county/12": {
+  "id": "boulder-county/12",
+  "title": "Wildfire mitigation grants and fire restrictions",
+  "summary": "The county approved strategic fuels mitigation funding: $191,350 for Superior's grazing program and $990,262.88 for The Watershed Center's Conifer Hill work. It also added $30K for wildfire awareness advertising and lifted Stage 1 fire restrictions in the mountain area on Oct. 15.",
+  "where": "Superior; Conifer Hill; mountain area",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=2fbd37fb-b66c-4472-8053-e6810d0f1a72&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=077c1aff-dc5a-4d9c-a33a-ac06af888092&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63854bc3-0a4e-4e0b-82a3-ca5cefb88aef&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/13": {
+  "id": "boulder-county/13",
+  "title": "Eldora Resort cell tower",
+  "summary": "The commissioners conditionally approved a 100-foot macro-cell tower, proposed with Verizon Wireless, on a 46-acre forestry-zoned parcel at Eldora Resort. A resolution followed on Oct. 13.",
+  "where": "Eldora Resort",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3a9a76f2-57d4-4fed-bc77-fd3e666c6b00&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-10-01",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63065ea5-d9d0-4841-8c09-87a6e1302157&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/14": {
+  "id": "boulder-county/14",
+  "title": "Erie Parkway road renaming",
+  "summary": "The commissioners conditionally approved the Town of Erie's request to rename a section of Isabelle Road between US 287 and N. 109th Street as Erie Parkway.",
+  "where": "Isabelle Road, US 287 to N. 109th Street",
   "public_comment": false,
   "tags": [],
   "site_zip": null,
   "meetings": 1,
   "sources": [
    {
-    "date": "2026-10-01",
-    "body": "Public Meeting on the 2027 Recommended Budgets",
+    "date": "2026-08-06",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=4ad6fb0c-4b5b-4236-8b68-f3dd575b4564&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Boulder County"
+ },
+ "boulder-county/15": {
+  "id": "boulder-county/15",
+  "title": "Tucker Complex interim management and Zero Waste Plan",
+  "summary": "A work session covered an interim management proposal for the Tucker Complex open space and a Zero Waste Plan update on fees and composting. Grading code amendments were also approved.",
+  "where": "Tucker Complex",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=416747be-a5dc-4fe4-bb5a-78c0dd1be121&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Commissioners\u2019 Work Session \u2013 P.M.",
     "kind": "agenda",
-    "url": "https://bouldercounty.gov/event/public-meeting-2027-boulder-county-recommended-budget/"
+    "url": "https://bouldercounty.gov/event/commissioners-work-session-p-m-hybrid-08-18/"
+   },
+   {
+    "date": "2026-08-06",
+    "body": "Board of County Commissioners - Regular Meeting",
+    "kind": "minutes",
+    "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=4ad6fb0c-4b5b-4236-8b68-f3dd575b4564&Agenda=PostMinutes&lang=English"
    }
   ],
   "government": "Boulder County"
@@ -8989,6 +9250,348 @@
    }
   ],
   "government": "Commerce City"
+ },
+ "cortez/0": {
+  "id": "cortez/0",
+  "title": "Lodger's Tax 4% increase on the November ballot",
+  "summary": "Council took up Ordinance No. 1375 to set ballot language asking voters to approve a four percent increase in the city's Lodger's Tax at the November 3, 2026 general election. It was on the July 28 agenda and had a public hearing on August 11. Resolution No. 13 also set up the county-run 2026 election.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=286"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=7&get_year=2026&dsp=ag&seq=289"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/1": {
+  "id": "cortez/1",
+  "title": "Water System Master Plan and Comprehensive Plan water supply update",
+  "summary": "Council saw a draft Water System Master Plan in July, toured the water treatment plant in August, and considered adopting Resolution No. 16 approving the 2026 Water System Master Plan on September 22. In October it considered awarding the Comprehensive Plan update on Strategic Growth and Water Supply to SE Group.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=10&get_year=2026&dsp=ag&seq=296"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=293"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=285"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=7&get_year=2026&dsp=ag&seq=278"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/2": {
+  "id": "cortez/2",
+  "title": "Park Village on 7th affordable housing and 7th Street property",
+  "summary": "Council got an update on the 7th Street property in August. On October 13 it considered authorizing the Mayor to sign CHFA's notification form for Park Village on 7th, a proposed affordable rental development on city-owned land at the former high school site.",
+  "where": "7th Street, former high school property",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=10&get_year=2026&dsp=ag&seq=296"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=287"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/3": {
+  "id": "cortez/3",
+  "title": "Airport Advisory Committee and fixed base operator lease",
+  "summary": "Council amended the code on Airport Advisory Committee member qualifications and officer terms, then appointed members, including a youth member after an interview in August. On August 11 it also had a notice of termination of the Fixed Base Operator lease and operations agreement on its agenda.",
+  "where": "Cortez airport",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=287"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=288"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=286"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=7&get_year=2026&dsp=ag&seq=289"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/4": {
+  "id": "cortez/4",
+  "title": "Historic designations: Garland Home and 209 West Main",
+  "summary": "Council moved to place the Garland Home at 120 East North Street on the City Register of Historic Resources, with second reading on September 22. It also took up the building at 209 West Main Street, with first reading September 22 and second reading October 13. Council also accepted a 2026 Certified Local Government grant and a $50,000 supplemental state grant amendment for historic preservation.",
+  "where": "120 East North Street; 209 West Main Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=10&get_year=2026&dsp=ag&seq=296"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=293"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=291"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=286"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/5": {
+  "id": "cortez/5",
+  "title": "Montezuma-Sligo Drainage Improvement Project Phase 2",
+  "summary": "Council considered awarding Phase 2 of the 2026 drainage project to D&L Construction and authorizing the City Manager to sign a contract.",
+  "where": "Montezuma-Sligo area",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=288"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/6": {
+  "id": "cortez/6",
+  "title": "Land Use Code changes (Ordinance 1374)",
+  "summary": "Staff brought an ordinance changing various sections of the Cortez Land Use Code, with first reading on August 25 and second reading on September 8.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=291"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=288"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/7": {
+  "id": "cortez/7",
+  "title": "Mobile food vendor licensing rules",
+  "summary": "Council discussed in August a draft ordinance (No. 1371) revising the annual licensing process for mobile food vendors, then considered the ordinance on October 13.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=10&get_year=2026&dsp=ag&seq=296"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=287"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/8": {
+  "id": "cortez/8",
+  "title": "127 N. Market Street site plan",
+  "summary": "The Planning and Zoning Commission reviewed a major site plan for 127 N. Market St. Council then considered Resolution No. 15 approving the site plan on August 25.",
+  "where": "127 N. Market Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=288"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Planning and Zoning Commission",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=282"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/9": {
+  "id": "cortez/9",
+  "title": "Carport setback permit at 1411 Montelores Avenue",
+  "summary": "The Planning and Zoning Commission heard a conditional use permit and minor deviation request. Council then held a public hearing on September 22 for a carport on a single-family lot that would encroach into the front and side setbacks.",
+  "where": "1411 Montelores Avenue",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=293"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Planning and Zoning Commission",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=294"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/10": {
+  "id": "cortez/10",
+  "title": "City spending authority limits and City Attorney pay",
+  "summary": "Council considered Resolution No. 14 to supersede a 2001 resolution and amend spending authority limits. On August 11 it also had an amendment increasing the City Attorney's compensation. A work session executive session addressed the Municipal Judge's contract.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=292"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=293"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=287"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=286"
+   }
+  ],
+  "government": "Cortez"
+ },
+ "cortez/11": {
+  "id": "cortez/11",
+  "title": "Parks: Master Plan committee and ash tree beetle",
+  "summary": "Council was to choose a representative for the Parks and Recreation Master Plan Project Committee. Parks staff also briefed council on how the emerald ash borer affects ash trees in city parks.",
+  "where": "City parks",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "City Council Work Session",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=292"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=288"
+   }
+  ],
+  "government": "Cortez"
  },
  "craig/0": {
   "id": "craig/0",
@@ -15496,6 +16099,344 @@
   ],
   "government": "Frisco"
  },
+ "garfield-county/0": {
+  "id": "garfield-county/0",
+  "title": "Mitchell Creek Community PUD rezoning and sketch plan",
+  "summary": "The Planning Commission held a public hearing on Aug. 26 for a rezoning from Rural to PUD and a major subdivision sketch plan for the Mitchell Creek Community PUD at 50235 Highway 6/24 near Glenwood Springs. The owner is AMICHAUX Limited Partnership LLLP.",
+  "where": "50235 Highway 6/24, Glenwood Springs",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-26",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=7e17d3c7-0dad-43f1-b7ab-cc6ec4c274d2&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/1": {
+  "id": "garfield-county/1",
+  "title": "Lake Springs Ranch PUD amendment and subdivision plan",
+  "summary": "The Planning Commission was to hear a substantial PUD amendment, a preliminary plan for the Lake Springs Ranch subdivision, and rezoning of properties removed from the PUD on Oct. 14. The site is about 3.5 miles southeast of Glenwood Springs off County Road 114.",
+  "where": "4001 County Road 114, Glenwood Springs",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=7ed5ac91-1b37-41dd-adff-6ff4efbf18c3&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/2": {
+  "id": "garfield-county/2",
+  "title": "McClure River Ranch PUD amendment and 12-lot preliminary plan",
+  "summary": "Commissioners were asked to sign resolutions approving a substantial amendment to the 98-acre McClure River Ranch PUD and a preliminary plan dividing 48.96 acres into 12 lots and 2 tracts. The applicant is Aspen Polo Partners, LLP.",
+  "where": "16411 Old Hwy 82, east of Carbondale",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=d0160091-f8c2-4e18-bb98-44eac8fb89d6&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/3": {
+  "id": "garfield-county/3",
+  "title": "Xcel Hopkins to Basalt transmission line rebuild",
+  "summary": "The Planning Commission was to conduct a location and extent review of Xcel Energy's Hopkins to Basalt Transmission Line 9256 rebuild, starting at the Hopkins Substation east of Carbondale. Xcel also gave a presentation to commissioners on Oct. 12.",
+  "where": "Hopkins Substation, Red Canyon Road and Fisher Cemetery Road, east of Carbondale",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=b49122c9-ff88-4c13-9c0b-c8cfda7331e2&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-23",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=e393761c-5e02-45bf-bc1d-fb19c8f31beb&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/4": {
+  "id": "garfield-county/4",
+  "title": "Hogback View Estates subdivision",
+  "summary": "Commissioners were asked to sign the resolution for the preliminary plan of the Hogback View Estates major subdivision east of New Castle. A separate Hogback discussion was held at the Aug. 4 work session.",
+  "where": "24 County Road 138, east of New Castle",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=6ecfed7a-1149-4ca7-a62f-c4ddcf94eccf&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Board of County Commissioners - Work Session",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=f13415e5-3436-49e0-9833-c6db8980b7a4&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/5": {
+  "id": "garfield-county/5",
+  "title": "Affordable housing: USDA programs, Housing Authority and Cavern Springs mobile home park",
+  "summary": "Commissioners heard from the USDA Rural Development state director and the Garfield County Housing Authority, which requested $90,000 in 2027 funding. They were also asked for a letter of support for the Cavern Springs Mobile Home Park's limited partnership request.",
+  "where": "Countywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-21",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=6ecfed7a-1149-4ca7-a62f-c4ddcf94eccf&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners - Work Session",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=42f75ece-8327-47a8-9ce8-7f6d1eeac73f&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=8c690880-fd1a-4b11-8675-1fd4444be988&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/6": {
+  "id": "garfield-county/6",
+  "title": "Slaughterhouse Gulch mudslide landfill fee waiver",
+  "summary": "A resident asked commissioners to waive landfill tipping fees because of the Slaughterhouse Gulch mudslide.",
+  "where": "Slaughterhouse Gulch",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-17",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9e1240d3-a425-4ac3-830f-a984af3489ac&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/7": {
+  "id": "garfield-county/7",
+  "title": "2027 county budget hearings and workforce analysis",
+  "summary": "Commissioners held budget hearings starting Oct. 6 and department presentations on 2027 proposed budgets on Oct. 12, plus Budget Supplement #4. They also reviewed an MGT workforce analysis and presentations from the Early Childhood District and Forest Improvement District.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners - Work Session",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=88a4b0a7-576f-4a20-aacc-f9aa3ccf21e2&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-10-12",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=b49122c9-ff88-4c13-9c0b-c8cfda7331e2&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners - Budget Hearings",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=3c373bc8-ac62-42a3-ad57-35deab155358&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/8": {
+  "id": "garfield-county/8",
+  "title": "Library District tax extension on November ballot",
+  "summary": "The Garfield County Public Library District asked commissioners to place a question on the Nov. 3, 2026 ballot to extend part of its property tax levy.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-17",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9e1240d3-a425-4ac3-830f-a984af3489ac&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/9": {
+  "id": "garfield-county/9",
+  "title": "Sheriff's Office and jail budget and programs",
+  "summary": "The Sheriff asked for a $267,000 supplement for jail overtime and presented on new jail standards. The office also sought grants for opioid treatment medications for inmates ($39,903) and bulletproof vests ($12,100).",
+  "where": "Garfield County Jail",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=2efeed84-3ace-4bb5-9597-4feb92ec7a8a&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9c19f4f2-bf62-47d8-9953-074a0380e574&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/10": {
+  "id": "garfield-county/10",
+  "title": "Parachute funding: 1st Street/US 6 reconstruction and transit",
+  "summary": "The Town of Parachute asked for $600,000 toward the 1st Street/US 6 reconstruction project and disbursement of $200,000 for the Parachute Area Transit System, plus a 2027 funding request.",
+  "where": "Parachute",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=edc91c21-6225-4ffb-8612-897a0e133a87&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/11": {
+  "id": "garfield-county/11",
+  "title": "Madison AI assistant purchase",
+  "summary": "The county IT department sought a $43,200 supplemental appropriation and a Carahsoft contract for a 12-month Madison AI subscription covering countywide and Community Development assistants.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-05",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=edc91c21-6225-4ffb-8612-897a0e133a87&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/12": {
+  "id": "garfield-county/12",
+  "title": "Senior meals and transit programs (Traveler, RFTA IGA)",
+  "summary": "Commissioners discussed the Traveler program and reviewed a draft RFTA/Traveler IGA and a seven-party senior programs MOU. They also considered a sole-source contract with the City of Rifle for congregate meals in western Garfield County.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-19",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=2efeed84-3ace-4bb5-9597-4feb92ec7a8a&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-17",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9e1240d3-a425-4ac3-830f-a984af3489ac&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Board of County Commissioners - Work Session",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=f13415e5-3436-49e0-9833-c6db8980b7a4&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
+ "garfield-county/13": {
+  "id": "garfield-county/13",
+  "title": "Rifle Garfield County Airport improvements",
+  "summary": "The county ratified FAA grant agreements for airport improvements and approved paving of Lot A7. It also ratified an emergency roof repair and awarded a concrete improvements contract.",
+  "where": "Rifle Garfield County Airport",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=b49122c9-ff88-4c13-9c0b-c8cfda7331e2&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-21",
+    "body": "Board of County Commissioners - Meeting",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=6ecfed7a-1149-4ca7-a62f-c4ddcf94eccf&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9c19f4f2-bf62-47d8-9953-074a0380e574&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=7adba6eb-5035-4a5a-81a9-9f74f196fd86&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Garfield County"
+ },
  "gilpin-county/0": {
   "id": "gilpin-county/0",
   "title": "Rollinsville area fire-protection cistern projects",
@@ -16765,6 +17706,327 @@
    }
   ],
   "government": "Golden"
+ },
+ "granby/0": {
+  "id": "granby/0",
+  "title": "Data center workshop",
+  "summary": "The Board of Trustees scheduled a Data Center Workshop led by the Town Manager for its August 25, 2026 meeting. The agenda gives no details on any proposal or rules.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=92"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/1": {
+  "id": "granby/1",
+  "title": "Comprehensive zoning code and zoning map update (Ordinance 1041)",
+  "summary": "The Planning Commission held a hearing on August 3 on comprehensive amendments to the town zoning regulations and a legislative update of the official zoning map. The Board of Trustees took up the ordinance in public hearings on August 25 and September 22.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=95"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=92"
+   },
+   {
+    "date": "2026-08-03",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=90"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/2": {
+  "id": "granby/2",
+  "title": "Town Manager separation and recruitment",
+  "summary": "The Board held executive sessions on the Town Manager's employment and potential separation, then considered ratifying a separation agreement on September 8. On October 13 it discussed an interim Town Manager and recruitment of a permanent one.",
+  "where": "Town Hall",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=96"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=95"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=93"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=92"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/3": {
+  "id": "granby/3",
+  "title": "Nuche Village apartment agreement extension and funding",
+  "summary": "The Board considered extending the Nuche Village apartment agreement on September 8 and discussed funding for the apartments on October 13. A Nuche Village hearing board appointment also came up on August 25 and September 8.",
+  "where": "Nuche Village",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=96"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=93"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=92"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/4": {
+  "id": "granby/4",
+  "title": "Ten Mile Crossing Planned Development preliminary plan",
+  "summary": "The Planning Commission considered the preliminary plat and plan for the Ten Mile Crossing Planned Development Overlay District, subject to conditions, on October 5. The Board of Trustees held a public hearing on the preliminary plan on October 13.",
+  "where": "Ten Mile Crossing",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=96"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=97"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/5": {
+  "id": "granby/5",
+  "title": "Granby Sanitation District property at 843 Saddle Ridge and Granby Ranch Metro District service plan",
+  "summary": "Public hearings on 843 Saddle Ridge for the Granby Sanitation District and on a service plan amendment from Granby Ranch Metro District were continued from July 28. The 843 Saddle Ridge hearing returned on September 22.",
+  "where": "843 Saddle Ridge",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=95"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=88"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/6": {
+  "id": "granby/6",
+  "title": "2027 town budget and Grand Elk GID budget",
+  "summary": "The Finance Director led a 2027 Town of Granby budget discussion on October 13. The Grand Elk Ranch General Improvement District held its own 2027 budget discussion at the same meeting. The FY2025 audited financial statements were presented earlier, on July 28.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=96"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=88"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/7": {
+  "id": "granby/7",
+  "title": "Annexation proceedings",
+  "summary": "On September 22 the Board considered a resolution initiating annexation proceedings and setting a hearing on the eligibility of certain lands. The agenda does not name the property.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=95"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/8": {
+  "id": "granby/8",
+  "title": "Animal crematory conditional use permit in Central Business District",
+  "summary": "The Board was asked to recommend approval or denial of a conditional use permit for an animal crematory in the Central Business district, subject to conditions. A related final plat for Silvercreek West and a parking adjustment were on the same agenda.",
+  "where": "Central Business District",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=88"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/9": {
+  "id": "granby/9",
+  "title": "Peddler, mobile vendor and solicitor regulations",
+  "summary": "Ordinance 1040 would amend Chapter 5.05 and add Chapter 5.06 of the municipal code to regulate peddlers, mobile vendors, solicitors and canvassers.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=91"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/10": {
+  "id": "granby/10",
+  "title": "Wildfire resiliency code workshop",
+  "summary": "The Board held a workshop on wildfire resiliency code on August 11. The agenda gives no details on proposed rules.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=91"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/11": {
+  "id": "granby/11",
+  "title": "Granby Trails revegetation and tree planting with CSFS grants",
+  "summary": "A resident and the Middle Park Conservation District's executive director presented on revegetation and tree planting at Granby Trails funded by Colorado State Forest Service grants. The resident gave an update on August 25.",
+  "where": "Granby Trails",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=92"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=91"
+   }
+  ],
+  "government": "Granby"
+ },
+ "granby/12": {
+  "id": "granby/12",
+  "title": "Alley traffic concerns and Bark Park pond",
+  "summary": "The Board scheduled a discussion of alley traffic concerns on September 8. On October 13 it was set to discuss the Bark Park pond.",
+  "where": "Granby",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=96"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Board of Trustees Regular Meeting",
+    "kind": "agenda",
+    "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=93"
+   }
+  ],
+  "government": "Granby"
  },
  "grand-county/0": {
   "id": "grand-county/0",
@@ -20022,6 +21284,507 @@
   ],
   "government": "Hudson"
  },
+ "huerfano-county/0": {
+  "id": "huerfano-county/0",
+  "title": "GroAway, LLC conditional use permit hearings (LU-26-000154)",
+  "summary": "The Planning Commission held a public hearing on the GroAway, LLC conditional use application on Sept. 10, 2026, then voted to continue discussion. On Oct. 8 and Oct. 22 it weighed whether to reopen the hearing and admit new material received afterward, including public comment and a letter from Colorado Parks and Wildlife. It could also recommend that the commissioners hold a separate hearing.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-22",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1991/files"
+   },
+   {
+    "date": "2026-10-08",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/841/files"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/840/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/1": {
+  "id": "huerfano-county/1",
+  "title": "Preliminary 2027 county budget",
+  "summary": "County Administrator Carl Young presented a preliminary balanced 2027 budget on Oct. 15. It includes a 3.6% cost-of-living raise, extra pay increases in Human Services and Road and Bridge capped at $4,000 combined, and a warning that County General must cut costs amid fuel and jail-housing costs. Fund balances are not shown yet and will appear in the final budget.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+   },
+   {
+    "date": "2026-10-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1989/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/2": {
+  "id": "huerfano-county/2",
+  "title": "Camping ordinance (Ordinance 26-04)",
+  "summary": "The commissioners approved a county camping ordinance creating Article V of Chapter 14 after discussion with residents about the ordinance and camping rights. The second reading was approved Sept. 15 (meeting listed Sept. 1).",
+  "where": "Countywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/802/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/800/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/797/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/795/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/3": {
+  "id": "huerfano-county/3",
+  "title": "Revitalization authority plans: Gardner Main Street and Rio Cucharas",
+  "summary": "The County Revitalization Authority worked on outreach to taxing entities such as the water conservancy and hospital districts, plan adoption timing, a Gardner Main Street update, and the Rio Cucharas Inn project agreement to negotiate. The commissioners then approved the Gardner Main Street Revitalization Plan and Rio Cucharas CRA Plan (Resolutions 26-35 and 26-36).",
+  "where": "Gardner and Walsenburg (Rio Cucharas)",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/802/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/800/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "County Revitalization Authority",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1986/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "County Revitalization Authority",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1971/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/4": {
+  "id": "huerfano-county/4",
+  "title": "Housing programs and pre-approved home plans",
+  "summary": "The county is building housing tools: pre-approved house plans (Resolution 26-43), codifying a Housing Authority (26-44), a Prop 123 down payment assistance program, and an affordable housing revolving loan fund. Impact Development presented loan program details, a land banking and donation policy (26-45) was adopted, and the building authority looked at tiny home, barndominium and other floor plans.",
+  "where": "Countywide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 7,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/804/files"
+   },
+   {
+    "date": "2026-09-17",
+    "body": "Huerfano County Building Authority Board",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/864/files"
+   },
+   {
+    "date": "2026-09-03",
+    "body": "Huerfano County Building Authority Board",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/852/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/797/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "County Revitalization Authority",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1971/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/5": {
+  "id": "huerfano-county/5",
+  "title": "Fox Theater loan guaranty",
+  "summary": "Commissioners approved Resolution 26-41 guaranteeing a First Southwest Bank loan for the Fox Theater in Walsenburg, to be repaid from the sale of tax credits. A further Fox Theatre guaranty (Resolution 26-48) and a McKinstry change order for the Fox were also on the agendas.",
+  "where": "Fox Theater, Walsenburg",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/805/files"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/803/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/6": {
+  "id": "huerfano-county/6",
+  "title": "Water augmentation lease-purchases and Gardner sewer project",
+  "summary": "Commissioners approved lease-purchase financing for eight acre-feet of water augmentation certifications for the Gardner Public Improvement District and three acre-feet for the Road and Bridge department. The Gardner Sewer Project bid tabulation was also before them and was moved to correspondence on Oct. 13.",
+  "where": "Gardner",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/805/files"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/803/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/7": {
+  "id": "huerfano-county/7",
+  "title": "Recreation and cultural mill levy and voter survey",
+  "summary": "Magellan Strategies presented a county voter survey touching on parks and rec and jail renovation projects. Commissioners then approved Resolution 26-34 on a recreation and cultural mill levy, with Commissioner Wardell explaining the projects it focuses on.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/800/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/8": {
+  "id": "huerfano-county/8",
+  "title": "Marijuana licenses and water use concerns",
+  "summary": "At a hearing on the ISO99, LLC marijuana license (ML-26-000008), a resident asked about water restrictions and drought; the applicant provided proof of city water taps and past water bill payments. Other licenses for TKJ Investments and Focus Buds were also handled.",
+  "where": "Walsenburg",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/804/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/800/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/9": {
+  "id": "huerfano-county/9",
+  "title": "School Creek Gravel Pit conditional use permit",
+  "summary": "The Planning Commission held a long public hearing (1:34 to 3:53 pm) on the School Creek Gravel Pit CUP (LU-26-000122) and approved it with a recommendation to go to the Board of County Commissioners. Conditions included permits for structures used during events.",
+  "where": "School Creek",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-13",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/839/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/10": {
+  "id": "huerfano-county/10",
+  "title": "Spanish Peaks Airfield projects and finances",
+  "summary": "The airfield advisory board discussed a turnaround taxiway project, a five-year capital improvement plan, upgrading the access road on County Road 101, land acquisition advised by the FAA, and a budget running in the red. A resident raised concerns about the airfield's marketing presentation.",
+  "where": "Spanish Peaks Airfield, County Road 101",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-08-26",
+    "body": "Advisory Boards",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1972/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/797/files"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/795/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/11": {
+  "id": "huerfano-county/11",
+  "title": "Trash dumping and Safe Streets",
+  "summary": "The sheriff and county administrator discussed illegal trash dumping, what the current ordinance says and what a future ordinance could add, and a resident asked about dumpster requests. The Aguirre Community Center board also discussed a Safe Streets project and shoulder widening in the 10-year plan.",
+  "where": "Countywide; Gardner",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/802/files"
+   },
+   {
+    "date": "2026-08-26",
+    "body": "Raymond Aguirre Community Center Advisory Board",
+    "kind": "minutes",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/1926/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/12": {
+  "id": "huerfano-county/12",
+  "title": "Jail renovation and DOLA grant extensions",
+  "summary": "The commissioners considered a jail renovation agreement with McKinstry Essention and extension requests for DOLA grants for Strong Communities and Jail Improvements.",
+  "where": "Huerfano County Jail",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/797/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/13": {
+  "id": "huerfano-county/13",
+  "title": "Cuchara Mountain Park liquor license and ski pond dam",
+  "summary": "The commissioners accepted the Liquor License Authority's recommendation that a special event liquor license for Cuchara Mountain Park not be approved. They also approved a $10,600 geotechnical services agreement for the park's ski pond dam.",
+  "where": "Cuchara Mountain Park",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/804/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
+ "huerfano-county/14": {
+  "id": "huerfano-county/14",
+  "title": "Wildfire and fire restrictions",
+  "summary": "The county moved from Stage 2 to Stage 1 fire restrictions and then lifted Stage 1. Commissioners backed forest restoration and wildfire mitigation grant applications and took up a Community Wildfire Protection Plan.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/805/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/802/files"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+   }
+  ],
+  "government": "Huerfano County"
+ },
  "hugo/0": {
   "id": "hugo/0",
   "title": "Water restrictions and CRWA water rate study",
@@ -20661,6 +22424,403 @@
    }
   ],
   "government": "Idaho Springs"
+ },
+ "jefferson-county/0": {
+  "id": "jefferson-county/0",
+  "title": "Lakewood Navigation Center operating costs agreement",
+  "summary": "Commissioners reviewed in September and on Oct. 13 unanimously approved an intergovernmental agreement and memorandum of understanding with Arvada, Edgewater, Golden, Lakewood, Westminster and Wheat Ridge on sharing the operating costs of the Lakewood Navigation Center.",
+  "where": "Lakewood",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=2a05559d-a661-49ed-a357-75efc8c7d190&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=a8d152d5-539b-45b8-86bb-d51fd994e28d&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/1": {
+  "id": "jefferson-county/1",
+  "title": "Red Rocks Amphitheatre transportation hub",
+  "summary": "The Planning Commission was scheduled on Oct. 14 to consider a site approval for a transportation hub with 397 parking spaces and road improvements to serve Red Rocks Amphitheatre.",
+  "where": "17355 Jurassic Road and 17900 Trading Post Road, Golden",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=2d3ee3ed-cd54-4eba-abdf-f72397381fb1&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/2": {
+  "id": "jefferson-county/2",
+  "title": "143-unit planned development rezoning",
+  "summary": "A request to rezone land from Agricultural-Two and Commercial-One to Planned Development for up to 143 dwelling units went to the Planning Commission on Aug. 12. On Sept. 1, after staff and applicant presentations and public testimony, commissioners approved it by majority vote (not unanimous).",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=df798538-9f84-4c88-8570-462323c91d38&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=16c4b6d0-0108-4527-a48a-05d76836096c&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/3": {
+  "id": "jefferson-county/3",
+  "title": "Proposition 123 affordable housing agreements and Belveron bond allocation",
+  "summary": "The county approved a 2026 private activity bond award, carryforward and assignment involving Denver and Arvada tied to the Belveron project and a Prop 123 agreement. A Prop 123 unit-sharing agreement was approved Sept. 15, and a supplemental funding request for the expedited review incentive bonus was slated for Oct. 20.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=849bd38e-446a-49ea-a221-d77d89f54be1&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c0c33893-23a9-42ac-931a-d07c6f68c89d&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=b99b90ef-e23e-42ef-a98c-b78538f91b31&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=9c0c2234-550d-4ff8-a851-31ad43d49ab4&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=e125d3fd-d04f-46f1-b8cb-d096ff62203e&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/4": {
+  "id": "jefferson-county/4",
+  "title": "Preliminary and final plat pulled for public discussion",
+  "summary": "The plat case 24-114721PFP went to the Planning Commission Sept. 9. On Sept. 29 it was moved to the regular hearing agenda at the public's request, and after public testimony the Board unanimously approved it.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=dedbaf33-aec2-4ed5-b10d-6d420eafc5a5&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-09",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c29ccd95-9bdd-44e8-bcd7-7ca79bc2c199&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/5": {
+  "id": "jefferson-county/5",
+  "title": "New special district service plan approved",
+  "summary": "Service plan case 25-124167SV was continued from July 28 to allow proper notification. On Aug. 18, after public testimony, the Board unanimously approved it.",
+  "where": null,
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=9c0c2234-550d-4ff8-a851-31ad43d49ab4&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=b4ded46f-8ebd-4182-a065-ab0201d1d476&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/6": {
+  "id": "jefferson-county/6",
+  "title": "Appointment of new County Manager",
+  "summary": "On Aug. 11 the Board approved the appointment of a county manager and an employment agreement. Laura Aldrete appears as County Manager in later meetings. A second amendment to the County Attorney's contract was approved Oct. 13.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=2a05559d-a661-49ed-a357-75efc8c7d190&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=a8d152d5-539b-45b8-86bb-d51fd994e28d&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=dedbaf33-aec2-4ed5-b10d-6d420eafc5a5&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=ae652450-1053-4553-867d-a17074f722f5&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/7": {
+  "id": "jefferson-county/7",
+  "title": "Head Start expansion and federal rule changes",
+  "summary": "The county approved Head Start policy updates and a continuation grant application, and commissioners praised the Lakewood Head Start expansion. A public comment on proposed federal changes to Head Start performance standards was on the Sept. 22 agenda.",
+  "where": "Lakewood and Arvada",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=dedbaf33-aec2-4ed5-b10d-6d420eafc5a5&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=1077b97d-a508-453c-8e54-5eb828c95254&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c0c33893-23a9-42ac-931a-d07c6f68c89d&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=b99b90ef-e23e-42ef-a98c-b78538f91b31&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=ae652450-1053-4553-867d-a17074f722f5&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/8": {
+  "id": "jefferson-county/8",
+  "title": "Rocky Mountain Metropolitan Airport leases and Taxiway D reconstruction",
+  "summary": "Commissioners approved a Winston Air hangar ground lease, new airport lease agreement policy, and Premier Hangar Group ground leases. They also approved a contract with Amrize West Central for the Taxiway D Phase II reconstruction.",
+  "where": "Rocky Mountain Metropolitan Airport",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c0c33893-23a9-42ac-931a-d07c6f68c89d&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=b99b90ef-e23e-42ef-a98c-b78538f91b31&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=df798538-9f84-4c88-8570-462323c91d38&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=3185a4b6-8395-4d7f-956a-2e9d0007a221&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=ae652450-1053-4553-867d-a17074f722f5&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/9": {
+  "id": "jefferson-county/9",
+  "title": "Parks and Open Space projects and easements",
+  "summary": "The Board approved a West 32nd Ave and Kipling St bus stop agreement with trails funding, Meyer Ranch Park forestry contract, Pleasant View Community Park utility easements, and Van Bibber Park canal agreements. Briefings also covered North Table Mountain Park improvements and the Hildebrand Ranch diversion structure replacement.",
+  "where": "Jefferson County parks",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=a8d152d5-539b-45b8-86bb-d51fd994e28d&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=dedbaf33-aec2-4ed5-b10d-6d420eafc5a5&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=df798538-9f84-4c88-8570-462323c91d38&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=3185a4b6-8395-4d7f-956a-2e9d0007a221&Agenda=Agenda&lang=English"
+   },
+   {
+    "date": "2026-08-18",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=9c0c2234-550d-4ff8-a851-31ad43d49ab4&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c9c3eaab-4952-48d1-89cf-5be70c0ab5cd&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/10": {
+  "id": "jefferson-county/10",
+  "title": "Denver Water purchase and sale agreement",
+  "summary": "The county briefed and then approved a purchase and sale agreement with Denver Water through Facilities Management on Oct. 13.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners Hearing",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=2a05559d-a661-49ed-a357-75efc8c7d190&Agenda=PostMinutes&lang=English"
+   },
+   {
+    "date": "2026-09-29",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=a8d152d5-539b-45b8-86bb-d51fd994e28d&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/11": {
+  "id": "jefferson-county/11",
+  "title": "Positions on 2026 ballot measures",
+  "summary": "At a Sept. 23 special meeting, commissioners took positions on statewide and regional measures. They supported Amendment 87 (graduated income tax) and Front Range Passenger Rail Measure 7A by majority vote, and opposed Amendment 84 (mail ballot voter ID).",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-23",
+    "body": "Board of County Commissioners Special Meeting",
+    "kind": "minutes",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=6a81e9d5-9195-44ff-83d8-a5c08ae39375&Agenda=PostMinutes&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
+ },
+ "jefferson-county/12": {
+  "id": "jefferson-county/12",
+  "title": "Junction Urban Renewal Plan TIF revenue-sharing negotiations",
+  "summary": "Commissioners planned a closed session on Oct. 20 for legal advice and negotiation guidance on tax increment revenue sharing for the Junction Urban Renewal Plan.",
+  "where": null,
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+    "kind": "agenda",
+    "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=849bd38e-446a-49ea-a221-d77d89f54be1&Agenda=Agenda&lang=English"
+   }
+  ],
+  "government": "Jefferson County"
  },
  "johnstown/0": {
   "id": "johnstown/0",
@@ -37590,6 +39750,325 @@
    }
   ],
   "government": "Teller County"
+ },
+ "telluride/0": {
+  "id": "telluride/0",
+  "title": "Carhenge Redevelopment Project design review",
+  "summary": "The Historic & Architectural Review Commission has three preliminary large-scale applications for the Carhenge redevelopment (Buildings A-C, D1-D2, E1-E3) on Lots 34 and 34B, Backman Village. They were continued from July and August 2026 without discussion and were on the September 30 agenda.",
+  "where": "Lots 34 and 34B, Backman Village Subdivision (Carhenge)",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-30",
+    "body": "Historic & Architectural Review Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445284/Special%20Meeting%20-%20Historic%20_%20Architectural%20Revi.pdf?handle=F722163E26B049EA911A4152FAB37E12"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/1": {
+  "id": "telluride/1",
+  "title": "Shandoka Lot Redevelopment PUD and large-scale review",
+  "summary": "The preliminary PUD for redeveloping Lot L (about 4.07 acres) in Backman Village seeks larger dimensional limits in return for public benefits. Planning & Zoning continued it without discussion because of staff capacity, and HARC plans to continue its review to November 18, 2026.",
+  "where": "Lot L, Backman Village (Shandoka)",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-21",
+    "body": "Historic & Architectural Review Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/446165/Historic%20_%20Architectural%20Review%20Commission%20-%20Oc.pdf?handle=AB94A4ED17B346F6AC3D1E6729315CDC"
+   },
+   {
+    "date": "2026-09-24",
+    "body": "Planning & Zoning Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444920/Planning%20_%20Zoning%20Commission%20-%20Sep%2024%202026.pdf?handle=CDB2FCAFA94E48EB9971952854746E1E"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/2": {
+  "id": "telluride/2",
+  "title": "Telluride School District employee housing near the middle-high school",
+  "summary": "Planning & Zoning held a work session on proposed new employee housing at the northwest corner of the Telluride Middle-High School site, under an intergovernmental agreement with the school district. It also continued work on potential Land Use Code amendments.",
+  "where": "Northwest corner of Telluride Middle-High School site",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-24",
+    "body": "Planning & Zoning Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444920/Planning%20_%20Zoning%20Commission%20-%20Sep%2024%202026.pdf?handle=CDB2FCAFA94E48EB9971952854746E1E"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/3": {
+  "id": "telluride/3",
+  "title": "Housing waitlist policies and Telluride Housing Authority actions",
+  "summary": "The Housing Authority Subcommittee held worksessions on waitlist management and leasing rules (Sections 105 and 106.1) after the waitlist was suspended, and on bedroom size standards. The full Housing Authority took up the waitlist policies on September 22. It also adopted a policy on primary residency for children of multiple custodial parents, set a 20% custodial cutoff and an age limit through 18, and considered amending deed restrictions for town-built units at 215 East Colorado Avenue. The subcommittee also handled owner exception requests.",
+  "where": "215 East Colorado Avenue and Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Telluride Housing Authority Subcommittee",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445866/Telluride%20Housing%20Authority%20Subcommittee%20-%20Oct%20.pdf?handle=B5E1B4EE8CF1401BB489D3BDBC618736"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Telluride Housing Authority",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444864/Telluride%20Housing%20Authority%20-%20Sep%2022%202026.pdf?handle=652E701A852041B8875FE8925C185575"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "Telluride Housing Authority Subcommittee",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444792/Telluride%20Housing%20Authority%20Subcommittee%20Specia.pdf?handle=B13E44C4B20543A08BEE14BF10391522"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Telluride Housing Authority Subcommittee",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444280/CANCELLED%20-%20Telluride%20Housing%20Authority%20Subcomm.pdf?handle=D93D16DE6D3E4DB0B4BEC6E70245286E"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/4": {
+  "id": "telluride/4",
+  "title": "2027 Town budget workshops",
+  "summary": "Town Council held a budget workshop on October 13 covering 12 funds requesting $12.11M in revenue and $16.11M in spending. The Open Space set-aside would be drawn down by $4.25M, the Transportation Fund transfer would grow by $290,000, lodgers' tax is projected to rebound, and a Lodgers Tax position would move to full time. Water and sewer rate and fee schedule drafts were also reviewed, with adoption planned for November 17. The Open Space Commission also planned to discuss the budget with the Town Manager.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/446170/Special%20Town%20Council%20Budget%20-%20Oct%2013%202026.pdf?handle=25B692EDC44F4B7BBCA7381939A26660"
+   },
+   {
+    "date": "2026-10-05",
+    "body": "Open Space Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445813/Open%20Space%20Commission%20-%20Oct%2005%202026.pdf?handle=1ED437AAAC764569A70241645D185BF1"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/5": {
+  "id": "telluride/5",
+  "title": "Flock license plate reader cameras",
+  "summary": "Town Council scheduled a discussion on October 6 about Automated License Plate Reader (Flock) cameras. A written public comment from McKenzie was posted with the agenda.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445576/Town%20Council%20-%20Oct%2006%202026.pdf?handle=A854BCF3F9F1401D818586887660F9B0"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/6": {
+  "id": "telluride/6",
+  "title": "Ethics complaint and Code of Conduct for councilmembers",
+  "summary": "The Ethics Commission considered a complaint against a councilmember and discussed recommending a Code of Conduct, either folded into the Ethics Code or stand-alone, because its finding hinged on the lack of clear behavioral standards. Town Council set a second reading of an ordinance amending the Ethics Code's general guidelines (Section 2-4-30) for October 6.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Town Council",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445576/Town%20Council%20-%20Oct%2006%202026.pdf?handle=A854BCF3F9F1401D818586887660F9B0"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Ethics Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/443653/Ethics%20Commission%20-%20Aug%2025%202026.pdf?handle=247AE540B93145E6B7517E4F0EA6ABBD"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/7": {
+  "id": "telluride/7",
+  "title": "Town Park Oval improvements",
+  "summary": "The Parks & Recreation Commission reviewed the Town Park Oval Improvements Project. Members of the public and commissioners discussed goals, design options, facility uses, management and alternative facility options.",
+  "where": "Town Park Oval",
+  "public_comment": true,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Parks & Recreation Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/443346/Parks%20_%20Recreation%20Commission%20-%20Aug%2019%202026.pdf?handle=3090796AACEF4FBEB36976E44398B16E"
+   },
+   {
+    "date": "2026-07-29",
+    "body": "Parks & Recreation Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/442582/(RESCHEDULED)%20Parks%20_%20Recreation%20Commission%20-%20J.pdf?handle=83BB0C9B681F4BE084D085FFC39727C3"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/8": {
+  "id": "telluride/8",
+  "title": "2027 campground and shower fees",
+  "summary": "Staff proposed 2027 Town Park campground fee increases of $2 to $5 per night (about 8%), projecting $203,304 in revenue, up 5% from the 2026 budget. Shower fees are projected to raise $62,500, up 25% from $50,000. The commission also discussed the 5-year capital improvement fund.",
+  "where": "Town Park Campground",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Parks & Recreation Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/443346/Parks%20_%20Recreation%20Commission%20-%20Aug%2019%202026.pdf?handle=3090796AACEF4FBEB36976E44398B16E"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/9": {
+  "id": "telluride/9",
+  "title": "Pergola built without a permit at Swede Finn Hall",
+  "summary": "HARC reviewed a pergola on a rated historic structure at Swede Finn Hall, near West Pacific Avenue and Townsend Street, that was built without permits. Staff found insufficient justification for approval and suggested denial or a temporary-structure permit.",
+  "where": "Swede Finn Hall, West Pacific Avenue and Townsend Street",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Historic & Architectural Review Commission Chair",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/443017/Historic%20_%20Architectural%20Review%20Commission%20Chai.pdf?handle=AB34FAD228B745809EC18B522E9F3B9E"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/10": {
+  "id": "telluride/10",
+  "title": "Fuel-burning landscape equipment ban and Climate Action Plan update",
+  "summary": "The Ecology Commission discussed a draft ordinance banning fuel-burning landscape equipment, a measure called for in the 2022 Climate Action Plan. It is also working on the required 2027 update of the plan and on dark-sky initiatives.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-07",
+    "body": "Ecology Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445712/Ecology%20Commission%20-%20Oct%2007%202026.pdf?handle=7504EAFFA3654D7D8AE13F0F6A3E0745"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Ecology Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444403/Ecology%20Commission%20-%20Sep%2002%202026.pdf?handle=4A8E6B4F138D4326AE36293F20F68C1F"
+   },
+   {
+    "date": "2026-08-19",
+    "body": "Ecology Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/442889/Ecology%20Commission%20-%20Aug%2019%202026.pdf?handle=8BB117CB34A549EE86D48D820504EC90"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/11": {
+  "id": "telluride/11",
+  "title": "2027 CCAASE grant budget",
+  "summary": "The Community Assistance, Arts & Special Events commission agreed not to request a budget increase for 2027 grants because of lower projected town revenue. It sent a letter to Town Council and is reviewing 2027 grant applications.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-23",
+    "body": "Commission for Community Assistance, Arts & Special Events",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/446655/Commission%20for%20Community%20Assistance,%20Arts%20_%20Spe.pdf?handle=05D0F28B0A8746DC8D19E322C88B4731"
+   },
+   {
+    "date": "2026-10-07",
+    "body": "Commission for Community Assistance, Arts & Special Events",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/445776/Commission%20for%20Community%20Assistance,%20Arts%20_%20Spe.pdf?handle=FB07DE36E2FA4D199F72EBD3A13082BC"
+   },
+   {
+    "date": "2026-09-02",
+    "body": "Commission for Community Assistance, Arts & Special Events",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/444094/Commission%20for%20Community%20Assistance,%20Arts%20_%20Spe.pdf?handle=4137F5D73D5143ACABE22B1A66875592"
+   }
+  ],
+  "government": "Telluride"
+ },
+ "telluride/12": {
+  "id": "telluride/12",
+  "title": "Telluride Humane Society 5K at Elks Park",
+  "summary": "The Humane Society requested use of Elks Park and the River Trail for a 5K run of up to 100 registrants, followed by a community celebration. The Parks & Recreation Commission considered the request.",
+  "where": "Elks Park and River Trail",
+  "public_comment": false,
+  "tags": [],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-19",
+    "body": "Parks & Recreation Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/443346/Parks%20_%20Recreation%20Commission%20-%20Aug%2019%202026.pdf?handle=3090796AACEF4FBEB36976E44398B16E"
+   },
+   {
+    "date": "2026-07-29",
+    "body": "Parks & Recreation Commission",
+    "kind": "agenda",
+    "url": "https://telluride.civicweb.net/document/442582/(RESCHEDULED)%20Parks%20_%20Recreation%20Commission%20-%20J.pdf?handle=83BB0C9B681F4BE084D085FFC39727C3"
+   }
+  ],
+  "government": "Telluride"
  },
  "thornton/0": {
   "id": "thornton/0",

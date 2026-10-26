@@ -9,7 +9,7 @@
    {
     "name": "Jefferson County",
     "share": 0.205,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
@@ -27,10 +27,10 @@
    "arvada/2",
    "arvada/6",
    "arvada/9",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "arvada/3",
-   "arvada/4",
-   "adams-county/2",
-   "adams-county/5"
+   "jefferson-county/8"
   ],
   "tagged": {
    "data-center": {
@@ -61,7 +61,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -94,7 +94,7 @@
    {
     "name": "Jefferson County",
     "share": 0.008,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -104,8 +104,8 @@
    "arvada/9",
    "arvada/3",
    "arvada/4",
-   "arvada/0",
-   "arvada/13"
+   "jefferson-county/3",
+   "jefferson-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -131,7 +131,7 @@
    {
     "name": "Jefferson County",
     "share": 0.034,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -142,7 +142,7 @@
    "arvada/3",
    "westminster/1",
    "arvada/4",
-   "westminster/2"
+   "jefferson-county/3"
   ],
   "tagged": {
    "data-center": {
@@ -164,7 +164,7 @@
    {
     "name": "Jefferson County",
     "share": 0.096,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -173,9 +173,9 @@
    "arvada/6",
    "arvada/9",
    "arvada/3",
-   "arvada/4",
-   "arvada/0",
-   "arvada/13"
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "arvada/4"
   ],
   "tagged": {
    "data-center": {
@@ -573,7 +573,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -610,7 +610,7 @@
    {
     "name": "Jefferson County",
     "share": 0.031,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -736,16 +736,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder-county/7",
    "boulder-county/2",
-   "boulder-county/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
    "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "boulder-county/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80026": {
   "governments": [
@@ -767,13 +774,14 @@
    "lafayette/1",
    "lafayette/2",
    "lafayette/9",
-   "boulder-county/0",
+   "boulder-county/1",
    "lafayette/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "lafayette/2"
+     "lafayette/2",
+     "boulder-county/0"
     ],
     "site": false
    }
@@ -807,7 +815,14 @@
    "superior/1",
    "louisville/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80030": {
   "governments": [
@@ -862,7 +877,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -899,18 +914,18 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "arvada/1",
    "arvada/2",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "arvada/6",
    "arvada/9",
-   "arvada/3",
-   "arvada/4",
-   "arvada/0",
-   "arvada/13"
+   "jefferson-county/8",
+   "jefferson-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -1594,7 +1609,7 @@
    {
     "name": "Jefferson County",
     "share": 0.443,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Denver",
@@ -1629,13 +1644,13 @@
   ],
   "issues": [
    "denver/6",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "denver/9",
    "denver/1",
    "denver/5",
-   "denver/10",
-   "denver/13",
-   "denver/4",
-   "denver/7"
+   "jefferson-county/8",
+   "jefferson-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -1738,7 +1753,7 @@
    {
     "name": "Jefferson County",
     "share": 0.948,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Littleton",
@@ -1746,7 +1761,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
+  ],
   "tagged": {}
  },
  "80128": {
@@ -1754,7 +1778,7 @@
    {
     "name": "Jefferson County",
     "share": 0.924,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Littleton",
@@ -1768,8 +1792,14 @@
    }
   ],
   "issues": [
-   "arapahoe-county/0",
-   "arapahoe-county/1"
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
   ],
   "tagged": {
    "data-center": {
@@ -1977,7 +2007,7 @@
    {
     "name": "Jefferson County",
     "share": 0.012,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -1988,7 +2018,7 @@
    "douglas-county/4",
    "douglas-county/11",
    "douglas-county/12",
-   "douglas-county/2"
+   "jefferson-county/3"
   ],
   "tagged": {
    "data-center": {
@@ -2374,7 +2404,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -2421,7 +2451,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -2458,18 +2488,18 @@
    {
     "name": "Jefferson County",
     "share": 0.001,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "lakewood/7",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "lakewood/0",
    "lakewood/3",
    "lakewood/5",
    "lakewood/6",
-   "lakewood/9",
-   "lakewood/1",
-   "lakewood/2"
+   "lakewood/9"
   ],
   "tagged": {}
  },
@@ -2737,7 +2767,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -2774,7 +2804,7 @@
    {
     "name": "Jefferson County",
     "share": 0.059,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -2785,7 +2815,7 @@
    "lakewood/7",
    "denver/10",
    "denver/13",
-   "denver/4"
+   "jefferson-county/3"
   ],
   "tagged": {
    "data-center": {
@@ -2806,18 +2836,18 @@
    {
     "name": "Jefferson County",
     "share": 0.029,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "lakewood/7",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "lakewood/0",
    "lakewood/3",
    "lakewood/5",
    "lakewood/6",
-   "lakewood/9",
-   "lakewood/1",
-   "lakewood/2"
+   "lakewood/9"
   ],
   "tagged": {}
  },
@@ -2923,18 +2953,18 @@
    {
     "name": "Jefferson County",
     "share": 0.104,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "lakewood/7",
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
    "lakewood/0",
    "lakewood/3",
-   "lakewood/5",
-   "lakewood/6",
-   "lakewood/9",
-   "lakewood/1",
-   "lakewood/2"
+   "lakewood/5"
   ],
   "tagged": {}
  },
@@ -3027,7 +3057,7 @@
    {
     "name": "Jefferson County",
     "share": 0.311,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Lakewood",
@@ -3040,10 +3070,10 @@
    "denver/9",
    "denver/1",
    "denver/5",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "denver/10",
-   "denver/13",
-   "lakewood/7",
-   "denver/4"
+   "denver/13"
   ],
   "tagged": {
    "data-center": {
@@ -3511,16 +3541,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
+   "boulder-county/7",
    "boulder/2",
    "boulder/0",
+   "boulder-county/2",
    "boulder/4",
    "boulder/12",
-   "boulder/10",
-   "boulder-county/7",
-   "boulder/6"
+   "boulder-county/10"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80302": {
   "governments": [
@@ -3536,16 +3573,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder/2",
    "boulder/0",
+   "boulder-county/7",
    "boulder/4",
    "boulder/12",
-   "boulder/10",
-   "boulder/6",
-   "boulder/11"
+   "boulder-county/2",
+   "boulder/10"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80303": {
   "governments": [
@@ -3561,16 +3605,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder/2",
    "boulder/0",
+   "boulder-county/7",
    "boulder/4",
    "boulder/12",
    "boulder/10",
-   "boulder/6",
-   "boulder/11"
+   "boulder-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80304": {
   "governments": [
@@ -3588,14 +3639,21 @@
   "issues": [
    "boulder/2",
    "boulder/0",
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder/4",
    "boulder/12",
    "boulder/10",
-   "boulder/6",
-   "boulder/11"
+   "boulder-county/7",
+   "boulder/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80305": {
   "governments": [
@@ -3613,14 +3671,21 @@
   "issues": [
    "boulder/2",
    "boulder/0",
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder/4",
    "boulder/12",
    "boulder/10",
-   "boulder/6",
-   "boulder/11"
+   "boulder-county/7",
+   "boulder/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80310": {
   "governments": [
@@ -3638,21 +3703,28 @@
   "issues": [
    "boulder/2",
    "boulder/0",
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder/4",
    "boulder/12",
    "boulder/10",
    "boulder/6",
    "boulder/11"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80401": {
   "governments": [
    {
     "name": "Jefferson County",
     "share": 0.55,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Golden",
@@ -3669,11 +3741,11 @@
    "golden/0",
    "golden/2",
    "golden/1",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "golden/5",
-   "golden/6",
-   "golden/10",
-   "golden/12",
-   "golden/7"
+   "jefferson-county/8",
+   "jefferson-county/9"
   ],
   "tagged": {}
  },
@@ -3682,7 +3754,7 @@
    {
     "name": "Jefferson County",
     "share": 0.556,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Golden",
@@ -3707,18 +3779,19 @@
   ],
   "issues": [
    "golden/0",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "golden/2",
    "golden/1",
-   "golden/5",
-   "arvada/1",
-   "boulder-county/0",
-   "golden/6",
-   "golden/10"
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "golden/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "arvada/0"
+     "arvada/0",
+     "boulder-county/0"
     ],
     "site": false
    }
@@ -3734,7 +3807,7 @@
    {
     "name": "Jefferson County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -3893,10 +3966,19 @@
    {
     "name": "Jefferson County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
+  ],
   "tagged": {}
  },
  "80426": {
@@ -4003,10 +4085,19 @@
    {
     "name": "Jefferson County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
+  ],
   "tagged": {}
  },
  "80434": {
@@ -4091,7 +4182,7 @@
    {
     "name": "Jefferson County",
     "share": 0.854,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Clear Creek County",
@@ -4100,14 +4191,14 @@
    }
   ],
   "issues": [
-   "clear-creek-county/2",
-   "clear-creek-county/1",
-   "clear-creek-county/4",
-   "clear-creek-county/0",
-   "clear-creek-county/6",
-   "clear-creek-county/7",
-   "clear-creek-county/9",
-   "clear-creek-county/11"
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
   ],
   "tagged": {}
  },
@@ -4223,7 +4314,7 @@
    {
     "name": "Granby",
     "share": 0.517,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Grand County",
@@ -4232,16 +4323,23 @@
    }
   ],
   "issues": [
-   "grand-county/0",
-   "grand-county/7",
-   "grand-county/1",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4",
-   "grand-county/5",
-   "grand-county/6"
+   "granby/2",
+   "granby/1",
+   "granby/3",
+   "granby/11",
+   "granby/4",
+   "granby/5",
+   "granby/6",
+   "granby/12"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "granby/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80447": {
   "governments": [
@@ -4382,10 +4480,19 @@
    {
     "name": "Jefferson County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
+  ],
   "tagged": {}
  },
  "80454": {
@@ -4393,10 +4500,19 @@
    {
     "name": "Jefferson County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
+  ],
   "tagged": {}
  },
  "80455": {
@@ -4413,16 +4529,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder-county/7",
    "boulder-county/2",
-   "boulder-county/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
    "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "boulder-county/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80456": {
   "governments": [
@@ -4456,10 +4579,19 @@
    {
     "name": "Jefferson County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
+  ],
   "tagged": {}
  },
  "80459": {
@@ -4542,7 +4674,7 @@
    {
     "name": "Jefferson County",
     "share": 0.975,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Morrison",
@@ -4551,14 +4683,14 @@
    }
   ],
   "issues": [
-   "morrison/4",
-   "morrison/0",
-   "morrison/1",
-   "morrison/6",
-   "morrison/2",
-   "morrison/3",
-   "morrison/5",
-   "morrison/9"
+   "jefferson-county/3",
+   "jefferson-county/7",
+   "jefferson-county/8",
+   "jefferson-county/9",
+   "jefferson-county/6",
+   "jefferson-county/2",
+   "jefferson-county/4",
+   "jefferson-county/5"
   ],
   "tagged": {}
  },
@@ -4576,16 +4708,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
-   "nederland/1",
+   "boulder-county/1",
    "boulder-county/7",
-   "nederland/0",
-   "nederland/2",
    "boulder-county/2",
-   "nederland/4",
-   "nederland/5"
+   "nederland/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
+   "nederland/0"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80467": {
   "governments": [
@@ -4662,7 +4801,7 @@
    {
     "name": "Jefferson County",
     "share": 0.673,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Park County",
@@ -4674,11 +4813,11 @@
    "park-county/3",
    "park-county/4",
    "park-county/6",
+   "jefferson-county/3",
+   "jefferson-county/7",
    "park-county/2",
-   "park-county/0",
-   "park-county/13",
-   "park-county/8",
-   "park-county/10"
+   "jefferson-county/8",
+   "jefferson-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -4698,16 +4837,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder-county/7",
    "boulder-county/2",
-   "boulder-county/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
    "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "boulder-county/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80473": {
   "governments": [
@@ -4802,20 +4948,27 @@
    {
     "name": "Granby",
     "share": 0.008,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "grand-county/0",
    "grand-county/7",
+   "granby/2",
+   "granby/1",
+   "granby/3",
+   "granby/11",
    "grand-county/1",
-   "grand-county/2",
-   "grand-county/3",
-   "grand-county/4",
-   "grand-county/5",
-   "grand-county/6"
+   "grand-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "granby/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80479": {
   "governments": [
@@ -4867,16 +5020,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder-county/7",
    "boulder-county/2",
-   "boulder-county/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
    "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "boulder-county/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80482": {
   "governments": [
@@ -5008,10 +5168,17 @@
    "longmont/3",
    "longmont/4",
    "longmont/2",
-   "boulder-county/0",
+   "boulder-county/1",
    "longmont/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80503": {
   "governments": [
@@ -5030,13 +5197,20 @@
    "longmont/10",
    "longmont/8",
    "longmont/0",
-   "boulder-county/0",
+   "boulder-county/1",
    "longmont/3",
    "longmont/4",
-   "longmont/2",
-   "longmont/1"
+   "boulder-county/7",
+   "longmont/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80504": {
   "governments": [
@@ -5073,10 +5247,17 @@
    "longmont/3",
    "longmont/4",
    "longmont/2",
-   "boulder-county/0",
+   "boulder-county/1",
    "longmont/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80510": {
   "governments": [
@@ -5087,16 +5268,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder-county/7",
    "boulder-county/2",
-   "boulder-county/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
    "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "boulder-county/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80512": {
   "governments": [
@@ -5217,12 +5405,19 @@
    "erie/9",
    "erie/3",
    "erie/10",
-   "boulder-county/0",
+   "boulder-county/1",
    "erie/7",
    "erie/12",
    "erie/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80517": {
   "governments": [
@@ -5560,10 +5755,17 @@
    "lyons/4",
    "lyons/2",
    "lyons/9",
-   "boulder-county/0",
+   "boulder-county/1",
    "lyons/6"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80542": {
   "governments": [
@@ -5631,16 +5833,23 @@
    }
   ],
   "issues": [
-   "boulder-county/0",
+   "boulder-county/1",
    "boulder-county/7",
    "boulder-county/2",
-   "boulder-county/1",
+   "boulder-county/10",
+   "boulder-county/12",
+   "boulder-county/15",
    "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "boulder-county/4"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "boulder-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80545": {
   "governments": [
@@ -9372,10 +9581,19 @@
    {
     "name": "Huerfano County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "huerfano-county/4",
+   "huerfano-county/2",
+   "huerfano-county/8",
+   "huerfano-county/14",
+   "huerfano-county/3",
+   "huerfano-county/5",
+   "huerfano-county/6",
+   "huerfano-county/0"
+  ],
   "tagged": {}
  },
  "81041": {
@@ -9577,10 +9795,19 @@
    {
     "name": "Huerfano County",
     "share": 0.421,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "huerfano-county/4",
+   "huerfano-county/2",
+   "huerfano-county/8",
+   "huerfano-county/14",
+   "huerfano-county/3",
+   "huerfano-county/5",
+   "huerfano-county/6",
+   "huerfano-county/0"
+  ],
   "tagged": {}
  },
  "81057": {
@@ -9733,7 +9960,7 @@
    {
     "name": "Huerfano County",
     "share": 0.127,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Rye",
@@ -9747,7 +9974,14 @@
    }
   ],
   "issues": [
-   "pueblo-county/0"
+   "pueblo-county/0",
+   "huerfano-county/4",
+   "huerfano-county/2",
+   "huerfano-county/8",
+   "huerfano-county/14",
+   "huerfano-county/3",
+   "huerfano-county/5",
+   "huerfano-county/6"
   ],
   "tagged": {}
  },
@@ -9915,10 +10149,19 @@
    {
     "name": "Huerfano County",
     "share": 0.341,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "huerfano-county/4",
+   "huerfano-county/2",
+   "huerfano-county/8",
+   "huerfano-county/14",
+   "huerfano-county/3",
+   "huerfano-county/5",
+   "huerfano-county/6",
+   "huerfano-county/0"
+  ],
   "tagged": {}
  },
  "81090": {
@@ -11306,7 +11549,7 @@
    {
     "name": "Cortez",
     "share": 0.609,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montezuma County",
@@ -11314,7 +11557,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "cortez/1",
+   "cortez/4",
+   "cortez/3",
+   "cortez/10",
+   "cortez/0",
+   "cortez/2",
+   "cortez/6",
+   "cortez/7"
+  ],
   "tagged": {}
  },
  "81323": {
@@ -12050,7 +12302,7 @@
    {
     "name": "Telluride",
     "share": 0.474,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "San Miguel County",
@@ -12064,14 +12316,14 @@
    }
   ],
   "issues": [
+   "telluride/3",
    "san-miguel-county/1",
    "san-miguel-county/0",
+   "telluride/10",
+   "telluride/11",
    "san-miguel-county/8",
-   "san-miguel-county/5",
-   "san-miguel-county/2",
-   "san-miguel-county/6",
-   "san-miguel-county/7",
-   "san-miguel-county/4"
+   "telluride/7",
+   "san-miguel-county/5"
   ],
   "tagged": {}
  },
@@ -12466,18 +12718,18 @@
    {
     "name": "Garfield County",
     "share": 0.394,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "glenwood-springs/1",
    "glenwood-springs/10",
+   "garfield-county/13",
    "glenwood-springs/0",
    "glenwood-springs/4",
-   "glenwood-springs/2",
-   "glenwood-springs/3",
-   "glenwood-springs/5",
-   "glenwood-springs/6"
+   "garfield-county/5",
+   "garfield-county/7",
+   "garfield-county/12"
   ],
   "tagged": {}
  },
@@ -12619,7 +12871,7 @@
    {
     "name": "Garfield County",
     "share": 0.245,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pitkin County",
@@ -12638,14 +12890,14 @@
    }
   ],
   "issues": [
+   "garfield-county/13",
+   "garfield-county/5",
+   "garfield-county/7",
+   "garfield-county/12",
    "gunnison-county/3",
-   "gunnison-county/9",
-   "gunnison-county/0",
-   "gunnison-county/2",
-   "gunnison-county/1",
-   "gunnison-county/4",
-   "gunnison-county/5",
-   "gunnison-county/6"
+   "garfield-county/3",
+   "garfield-county/4",
+   "garfield-county/9"
   ],
   "tagged": {}
  },
@@ -12715,17 +12967,18 @@
    {
     "name": "Garfield County",
     "share": 0.094,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "mesa-county/1",
-   "de-beque/0",
-   "de-beque/1",
-   "de-beque/2",
-   "de-beque/3",
-   "de-beque/4",
-   "mesa-county/0"
+   "garfield-county/13",
+   "garfield-county/5",
+   "garfield-county/7",
+   "garfield-county/12",
+   "garfield-county/3",
+   "garfield-county/4",
+   "garfield-county/9"
   ],
   "tagged": {
    "data-center": {
@@ -12788,7 +13041,7 @@
    {
     "name": "Garfield County",
     "share": 0.802,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Parachute",
@@ -12797,14 +13050,14 @@
    }
   ],
   "issues": [
-   "parachute/1",
-   "parachute/7",
-   "parachute/8",
-   "parachute/0",
-   "parachute/2",
-   "parachute/3",
-   "parachute/4",
-   "parachute/5"
+   "garfield-county/13",
+   "garfield-county/5",
+   "garfield-county/7",
+   "garfield-county/12",
+   "garfield-county/3",
+   "garfield-county/4",
+   "garfield-county/9",
+   "parachute/1"
   ],
   "tagged": {
    "data-center": {
@@ -12830,7 +13083,7 @@
    {
     "name": "Garfield County",
     "share": 0.008,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -12841,7 +13094,7 @@
    "gypsum/3",
    "gypsum/4",
    "gypsum/9",
-   "gypsum/2"
+   "garfield-county/13"
   ],
   "tagged": {}
  },
@@ -13028,18 +13281,18 @@
    {
     "name": "Garfield County",
     "share": 0.341,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
+   "garfield-county/13",
+   "garfield-county/5",
    "new-castle/3",
    "new-castle/4",
    "new-castle/5",
    "new-castle/8",
-   "new-castle/2",
-   "new-castle/1",
-   "new-castle/7",
-   "new-castle/0"
+   "garfield-county/7",
+   "garfield-county/12"
   ],
   "tagged": {}
  },
@@ -13115,7 +13368,7 @@
    {
     "name": "Garfield County",
     "share": 0.266,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Rio Blanco County",
@@ -13126,12 +13379,12 @@
   "issues": [
    "rifle/0",
    "rifle/7",
+   "garfield-county/13",
    "rifle/1",
    "rifle/5",
+   "garfield-county/5",
    "rifle/8",
-   "rifle/3",
-   "rifle/4",
-   "rifle/6"
+   "garfield-county/7"
   ],
   "tagged": {
    "data-center": {
@@ -13152,10 +13405,19 @@
    {
     "name": "Garfield County",
     "share": 0.39,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "garfield-county/13",
+   "garfield-county/5",
+   "garfield-county/7",
+   "garfield-county/12",
+   "garfield-county/3",
+   "garfield-county/4",
+   "garfield-county/9",
+   "garfield-county/6"
+  ],
   "tagged": {}
  },
  "81653": {

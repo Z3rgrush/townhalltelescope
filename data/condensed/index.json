@@ -2336,6 +2336,22 @@
   "public_url": null
  },
  "boulder-county#3": {
+  "date": "2026-08-04",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=963799cf-3e1b-4a5f-a62a-14345885cab3&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#4": {
+  "date": "2026-08-06",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=4ad6fb0c-4b5b-4236-8b68-f3dd575b4564&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#5": {
   "date": "2026-08-11",
   "body": "Commissioners\u2019 Work Session \u2013 A.M.",
   "kind": "agenda",
@@ -2343,7 +2359,23 @@
   "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-a-m-hybrid/",
   "public_url": null
  },
- "boulder-county#4": {
+ "boulder-county#6": {
+  "date": "2026-08-11",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63854bc3-0a4e-4e0b-82a3-ca5cefb88aef&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#7": {
+  "date": "2026-08-13",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3c355bec-bd96-4e3a-becd-9ab2df10f91e&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#8": {
   "date": "2026-08-18",
   "body": "Boulder County Commissioners\u2019\u202fTown Hall (Superior)",
   "kind": "agenda",
@@ -2351,7 +2383,7 @@
   "url": "https://bouldercounty.gov/event/boulder-county-commissioners-town-hall-superior/",
   "public_url": null
  },
- "boulder-county#5": {
+ "boulder-county#9": {
   "date": "2026-08-18",
   "body": "Commissioners\u2019 Work Session \u2013 P.M.",
   "kind": "agenda",
@@ -2359,7 +2391,7 @@
   "url": "https://bouldercounty.gov/event/commissioners-work-session-p-m-hybrid-08-18/",
   "public_url": null
  },
- "boulder-county#6": {
+ "boulder-county#10": {
   "date": "2026-08-18",
   "body": "Head Start Division Report to the Commissioners",
   "kind": "agenda",
@@ -2367,7 +2399,39 @@
   "url": "https://bouldercounty.gov/event/head-start-division-report-to-the-commissioners-3/2026-08-18/",
   "public_url": null
  },
- "boulder-county#7": {
+ "boulder-county#11": {
+  "date": "2026-08-18",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=dad4b6e2-2827-4e5e-9d59-1510780c28cf&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#12": {
+  "date": "2026-08-19",
+  "body": "Planning Commission - Regular Meeting",
+  "kind": "minutes",
+  "title": "Planning Commission - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3cea3fc0-df83-4cf3-9ef5-86dbdb49b94c&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#13": {
+  "date": "2026-08-20",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=29067786-367c-4517-91b4-4d3200a43c72&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#14": {
+  "date": "2026-08-25",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=077c1aff-dc5a-4d9c-a33a-ac06af888092&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#15": {
   "date": "2026-08-27",
   "body": "Public Meeting on Benefits Advisory Board Benefits Workshop for 2027",
   "kind": "agenda",
@@ -2375,7 +2439,15 @@
   "url": "https://bouldercounty.gov/event/public-meeting-on-benefits-advisory-board-benefits-workshop-for-2027/",
   "public_url": null
  },
- "boulder-county#8": {
+ "boulder-county#16": {
+  "date": "2026-08-27",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=59d87a0d-721e-4906-adc6-a884bc47087e&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#17": {
   "date": "2026-09-15",
   "body": "Commissioners\u2019 Work Session \u2013 A.M.",
   "kind": "agenda",
@@ -2383,7 +2455,7 @@
   "url": "https://bouldercounty.gov/event/bocc-work-session-9-15-am/",
   "public_url": null
  },
- "boulder-county#9": {
+ "boulder-county#18": {
   "date": "2026-09-15",
   "body": "County Commissioners\u2019 Town Hall (Lafayette/East County)",
   "kind": "agenda",
@@ -2391,7 +2463,7 @@
   "url": "https://bouldercounty.gov/event/county-commissioners-town-hall-east-county/",
   "public_url": null
  },
- "boulder-county#10": {
+ "boulder-county#19": {
   "date": "2026-09-15",
   "body": "Head Start Division Report to the Commissioners",
   "kind": "agenda",
@@ -2399,7 +2471,15 @@
   "url": "https://bouldercounty.gov/event/head-start-division-report-to-the-commissioners-3/2026-09-15/",
   "public_url": null
  },
- "boulder-county#11": {
+ "boulder-county#20": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=416747be-a5dc-4fe4-bb5a-78c0dd1be121&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#21": {
   "date": "2026-09-17",
   "body": "Boulder County Housing Authority Moving to Work Supplement to Annual Plan",
   "kind": "agenda",
@@ -2407,7 +2487,7 @@
   "url": "https://bouldercounty.gov/event/public-meeting-boulder-county-housing-authority-annual-plan-and-moving-to-work-supplement-to-annual-plan/",
   "public_url": null
  },
- "boulder-county#12": {
+ "boulder-county#22": {
   "date": "2026-09-17",
   "body": "Boulder County Housing Authority Plan",
   "kind": "agenda",
@@ -2415,7 +2495,31 @@
   "url": "https://bouldercounty.gov/event/public-meeting-boulder-county-housing-authority-plan/",
   "public_url": null
  },
- "boulder-county#13": {
+ "boulder-county#23": {
+  "date": "2026-09-17",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=ca3b3a48-4e08-4cf7-877b-245c55c25e93&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#24": {
+  "date": "2026-09-22",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=5636e55d-65db-4d68-88e4-32449278e8dd&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#25": {
+  "date": "2026-09-24",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=886eddc2-dc4c-4a79-96de-0fdd125c536d&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#26": {
   "date": "2026-09-29",
   "body": "Commissioners\u2019 Work Session \u2013 P.M.",
   "kind": "agenda",
@@ -2423,7 +2527,15 @@
   "url": "https://bouldercounty.gov/event/public-meeting-commissioners-work-session-p-m-emergency-services-sales-tax/",
   "public_url": null
  },
- "boulder-county#14": {
+ "boulder-county#27": {
+  "date": "2026-09-29",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=8155c2b2-0491-4628-a710-8c54bf9816a8&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#28": {
   "date": "2026-10-01",
   "body": "Public Meeting on the 2027 Recommended Budgets",
   "kind": "agenda",
@@ -2431,7 +2543,15 @@
   "url": "https://bouldercounty.gov/event/public-meeting-2027-boulder-county-recommended-budget/",
   "public_url": null
  },
- "boulder-county#15": {
+ "boulder-county#29": {
+  "date": "2026-10-01",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=63065ea5-d9d0-4841-8c09-87a6e1302157&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#30": {
   "date": "2026-10-13",
   "body": "Department and Office Requests 2027 Boulder County Budget",
   "kind": "agenda",
@@ -2439,7 +2559,15 @@
   "url": "https://bouldercounty.gov/event/public-meeting-department-and-office-requests-2027-boulder-county-budget/",
   "public_url": null
  },
- "boulder-county#16": {
+ "boulder-county#31": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=3a9a76f2-57d4-4fed-bc77-fd3e666c6b00&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#32": {
   "date": "2026-10-15",
   "body": "Department and Office Requests 2027 Boulder County Budget",
   "kind": "agenda",
@@ -2447,7 +2575,15 @@
   "url": "https://bouldercounty.gov/event/public-meeting-department-and-office-requests-2027-boulder-county-budget-2/",
   "public_url": null
  },
- "boulder-county#17": {
+ "boulder-county#33": {
+  "date": "2026-10-15",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=9eed8640-74a7-4844-b3db-e9844cca1c04&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#34": {
   "date": "2026-10-20",
   "body": "Head Start Division Report to the Commissioners",
   "kind": "agenda",
@@ -2455,12 +2591,36 @@
   "url": "https://bouldercounty.gov/event/head-start-division-report-to-the-commissioners-3/2026-10-20/",
   "public_url": null
  },
- "boulder-county#18": {
+ "boulder-county#35": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=2fbd37fb-b66c-4472-8053-e6810d0f1a72&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "boulder-county#36": {
+  "date": "2026-10-21",
+  "body": "Planning Commission - Regular Meeting",
+  "kind": "agenda",
+  "title": "Planning Commission - Regular Meeting - Agenda (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=9d69efe4-9f14-47b3-9da4-5871c53fdba5&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "boulder-county#37": {
   "date": "2026-10-22",
   "body": "2027 Boulder County Recommended Budget",
   "kind": "agenda",
   "title": "Public Hearing: 2027 Boulder County Recommended Budget",
   "url": "https://bouldercounty.gov/event/public-hearing-2027-boulder-county-recommended-budget/",
+  "public_url": null
+ },
+ "boulder-county#38": {
+  "date": "2026-10-22",
+  "body": "Board of County Commissioners - Regular Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners - Regular Meeting - Minutes (HTML)",
+  "url": "https://pub-bouldercounty.escribemeetings.com/Meeting.aspx?Id=af74d90d-3e89-42c4-93b7-0bfb8613150f&Agenda=PostMinutes&lang=English",
   "public_url": null
  },
  "breckenridge#0": {
@@ -5726,6 +5886,118 @@
   "title": "Planning Commission agenda",
   "url": "https://legistar.granicus.com/Commerce/meetings/2026/10/5055_A_Planning_Commission_26-10-26_Meeting_Agenda.pdf",
   "public_url": "https://commerce.legistar.com/MeetingDetail.aspx?LEGID=5055&GID=213&G=0E6D2919-E05C-45B8-8B81-59BAFDE3CC4B"
+ },
+ "cortez#0": {
+  "date": "2026-07-28",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=7&get_year=2026&dsp=ag&seq=278",
+  "public_url": null
+ },
+ "cortez#1": {
+  "date": "2026-07-28",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=7&get_year=2026&dsp=ag&seq=289",
+  "public_url": null
+ },
+ "cortez#2": {
+  "date": "2026-08-04",
+  "body": "Planning and Zoning Commission",
+  "kind": "agenda",
+  "title": "Planning and Zoning Commission - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=282",
+  "public_url": null
+ },
+ "cortez#3": {
+  "date": "2026-08-11",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=285",
+  "public_url": null
+ },
+ "cortez#4": {
+  "date": "2026-08-11",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=286",
+  "public_url": null
+ },
+ "cortez#5": {
+  "date": "2026-08-25",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=287",
+  "public_url": null
+ },
+ "cortez#6": {
+  "date": "2026-08-25",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=8&get_year=2026&dsp=ag&seq=288",
+  "public_url": null
+ },
+ "cortez#7": {
+  "date": "2026-09-01",
+  "body": "Planning and Zoning Commission",
+  "kind": "agenda",
+  "title": "Planning and Zoning Commission - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=294",
+  "public_url": null
+ },
+ "cortez#8": {
+  "date": "2026-09-08",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=290",
+  "public_url": null
+ },
+ "cortez#9": {
+  "date": "2026-09-08",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=291",
+  "public_url": null
+ },
+ "cortez#10": {
+  "date": "2026-09-22",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=292",
+  "public_url": null
+ },
+ "cortez#11": {
+  "date": "2026-09-22",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=9&get_year=2026&dsp=ag&seq=293",
+  "public_url": null
+ },
+ "cortez#12": {
+  "date": "2026-10-13",
+  "body": "City Council Work Session",
+  "kind": "agenda",
+  "title": "City Council Work Session - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=10&get_year=2026&dsp=ag&seq=295",
+  "public_url": null
+ },
+ "cortez#13": {
+  "date": "2026-10-13",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/agenda_publish.cfm?id=26783&mt=ALL&get_month=10&get_year=2026&dsp=ag&seq=296",
+  "public_url": null
  },
  "craig#0": {
   "date": "2026-09-08",
@@ -9847,6 +10119,134 @@
   "url": "https://friscoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=305,plainText=false)",
   "public_url": "https://friscoco.portal.civicclerk.com/event/621/files"
  },
+ "garfield-county#0": {
+  "date": "2026-08-03",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=7adba6eb-5035-4a5a-81a9-9f74f196fd86&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#1": {
+  "date": "2026-08-04",
+  "body": "Board of County Commissioners - Work Session",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Work Session - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=f13415e5-3436-49e0-9833-c6db8980b7a4&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#2": {
+  "date": "2026-08-10",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9c19f4f2-bf62-47d8-9953-074a0380e574&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#3": {
+  "date": "2026-08-17",
+  "body": "Board of County Commissioners - Meeting",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Meeting - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=9e1240d3-a425-4ac3-830f-a984af3489ac&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#4": {
+  "date": "2026-08-26",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=7e17d3c7-0dad-43f1-b7ab-cc6ec4c274d2&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#5": {
+  "date": "2026-09-08",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=d0160091-f8c2-4e18-bb98-44eac8fb89d6&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#6": {
+  "date": "2026-09-14",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=8c690880-fd1a-4b11-8675-1fd4444be988&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#7": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners - Work Session",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Work Session - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=42f75ece-8327-47a8-9ce8-7f6d1eeac73f&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#8": {
+  "date": "2026-09-21",
+  "body": "Board of County Commissioners - Meeting",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Meeting - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=6ecfed7a-1149-4ca7-a62f-c4ddcf94eccf&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#9": {
+  "date": "2026-09-23",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=e393761c-5e02-45bf-bc1d-fb19c8f31beb&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#10": {
+  "date": "2026-10-05",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=edc91c21-6225-4ffb-8612-897a0e133a87&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#11": {
+  "date": "2026-10-06",
+  "body": "Board of County Commissioners - Budget Hearings",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Budget Hearings - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=3c373bc8-ac62-42a3-ad57-35deab155358&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#12": {
+  "date": "2026-10-12",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=b49122c9-ff88-4c13-9c0b-c8cfda7331e2&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#13": {
+  "date": "2026-10-14",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=7ed5ac91-1b37-41dd-adff-6ff4efbf18c3&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#14": {
+  "date": "2026-10-19",
+  "body": "Board of County Commissioners - Meeting",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Meeting - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=2efeed84-3ace-4bb5-9597-4feb92ec7a8a&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "garfield-county#15": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners - Work Session",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - Work Session - Agenda (HTML)",
+  "url": "https://pub-garfield.escribemeetings.com/Meeting.aspx?Id=88a4b0a7-576f-4a20-aacc-f9aa3ccf21e2&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
  "gilpin-county#0": {
   "date": "2026-07-28",
   "body": "City Council",
@@ -10381,6 +10781,70 @@
   "kind": "agenda",
   "title": "Mobility and Transportation Advisory Board 2026-10-22",
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_27dcba0b8c704f76eb9db945ebde7cb0.pdf&view=1",
+  "public_url": null
+ },
+ "granby#0": {
+  "date": "2026-07-28",
+  "body": "Board of Trustees Regular Meeting",
+  "kind": "agenda",
+  "title": "Board of Trustees Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=88",
+  "public_url": null
+ },
+ "granby#1": {
+  "date": "2026-08-03",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=90",
+  "public_url": null
+ },
+ "granby#2": {
+  "date": "2026-08-11",
+  "body": "Board of Trustees Regular Meeting",
+  "kind": "agenda",
+  "title": "Board of Trustees Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=91",
+  "public_url": null
+ },
+ "granby#3": {
+  "date": "2026-08-25",
+  "body": "Board of Trustees Regular Meeting",
+  "kind": "agenda",
+  "title": "Board of Trustees Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=92",
+  "public_url": null
+ },
+ "granby#4": {
+  "date": "2026-09-08",
+  "body": "Board of Trustees Regular Meeting",
+  "kind": "agenda",
+  "title": "Board of Trustees Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=93",
+  "public_url": null
+ },
+ "granby#5": {
+  "date": "2026-09-22",
+  "body": "Board of Trustees Regular Meeting",
+  "kind": "agenda",
+  "title": "Board of Trustees Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=95",
+  "public_url": null
+ },
+ "granby#6": {
+  "date": "2026-10-05",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=97",
+  "public_url": null
+ },
+ "granby#7": {
+  "date": "2026-10-13",
+  "body": "Board of Trustees Regular Meeting",
+  "kind": "agenda",
+  "title": "Board of Trustees Regular Meeting - Agenda",
+  "url": "https://public.destinyhosted.com/47262/agenda/agenda.cfm?seq=96",
   "public_url": null
  },
  "grand-county#0": {
@@ -12919,6 +13383,390 @@
   "url": "https://hudson.legistar1.com/hudson/meetings/2026/10/2692_A_City_Council_26-10-20_Council_Meeting_Agenda.pdf",
   "public_url": "https://hudson.legistar.com/MeetingDetail.aspx?LEGID=2692&GID=224&G=187A73E6-DDF8-4C4A-8F97-069523074F7A"
  },
+ "huerfano-county#0": {
+  "date": "2026-07-28",
+  "body": "County Revitalization Authority",
+  "kind": "agenda",
+  "title": "Huerfano County Revitalization Authority - 2028 07 28 HCRA Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8935,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1971/files"
+ },
+ "huerfano-county#1": {
+  "date": "2026-07-28",
+  "body": "County Revitalization Authority",
+  "kind": "agenda",
+  "title": "Huerfano County Revitalization Authority - 2028 07 28 HCRA Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8936,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1971/files"
+ },
+ "huerfano-county#2": {
+  "date": "2026-07-28",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 072826 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8937,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/795/files"
+ },
+ "huerfano-county#3": {
+  "date": "2026-07-28",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 072826 HC BOCC mtg  Public Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8938,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/795/files"
+ },
+ "huerfano-county#4": {
+  "date": "2026-08-11",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 081126 HC BOCC Agenda Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8945,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/797/files"
+ },
+ "huerfano-county#5": {
+  "date": "2026-08-11",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 081126 HC BOCC Packet - Public Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8949,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/797/files"
+ },
+ "huerfano-county#6": {
+  "date": "2026-08-12",
+  "body": "Huerfano County Tourism Board",
+  "kind": "agenda",
+  "title": "Huerfano County Tourism Board Meeting - 20260812 HCTB",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8953,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/826/files"
+ },
+ "huerfano-county#7": {
+  "date": "2026-08-12",
+  "body": "Huerfano County Tourism Board",
+  "kind": "agenda",
+  "title": "Huerfano County Tourism Board Meeting - 20260812 HCTB Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8954,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/826/files"
+ },
+ "huerfano-county#8": {
+  "date": "2026-08-13",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - Planning Commission 08.13.26",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8952,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/839/files"
+ },
+ "huerfano-county#9": {
+  "date": "2026-08-13",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - Planning Commission 08.12.2026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8955,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/839/files"
+ },
+ "huerfano-county#10": {
+  "date": "2026-08-18",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 081826 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9958,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/798/files"
+ },
+ "huerfano-county#11": {
+  "date": "2026-08-25",
+  "body": "County Revitalization Authority",
+  "kind": "agenda",
+  "title": "Huerfano County Revitalization Authority - 08 25 2026 HCRA Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9967,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1986/files"
+ },
+ "huerfano-county#12": {
+  "date": "2026-08-25",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 082626 HC BOCC mtg fin",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9971,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+ },
+ "huerfano-county#13": {
+  "date": "2026-08-25",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 082626 HC BOCC mtg PUBLIC fin",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9972,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/799/files"
+ },
+ "huerfano-county#14": {
+  "date": "2026-08-26",
+  "body": "Raymond Aguirre Community Center Advisory Board",
+  "kind": "minutes",
+  "title": "Raymond Aguirre Community Center Advisory Board - April 22, 2026 RACCAB minutes",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9961,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1926/files"
+ },
+ "huerfano-county#15": {
+  "date": "2026-08-26",
+  "body": "Advisory Boards",
+  "kind": "agenda",
+  "title": "One Time Event - 20260826 Airport Advisory Board Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9975,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1972/files"
+ },
+ "huerfano-county#16": {
+  "date": "2026-08-26",
+  "body": "Advisory Boards",
+  "kind": "agenda",
+  "title": "One Time Event - 20260826 Airport Advisory Board Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9976,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1972/files"
+ },
+ "huerfano-county#17": {
+  "date": "2026-09-01",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 090126 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9979,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/800/files"
+ },
+ "huerfano-county#18": {
+  "date": "2026-09-01",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 090126 HC BOCC mtg Public Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9980,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/800/files"
+ },
+ "huerfano-county#19": {
+  "date": "2026-09-03",
+  "body": "Huerfano County Building Authority Board",
+  "kind": "agenda",
+  "title": "Huerfano County Building Authority Meeting - HCBA Workshop",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9983,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/852/files"
+ },
+ "huerfano-county#20": {
+  "date": "2026-09-03",
+  "body": "Huerfano County Building Authority Board",
+  "kind": "agenda",
+  "title": "Huerfano County Building Authority Meeting - HCBA Workshop Agenda Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9984,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/852/files"
+ },
+ "huerfano-county#21": {
+  "date": "2026-09-09",
+  "body": "Huerfano County Tourism Board",
+  "kind": "agenda",
+  "title": "Huerfano County Tourism Board Meeting - 20260812 HCTB Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9985,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/827/files"
+ },
+ "huerfano-county#22": {
+  "date": "2026-09-09",
+  "body": "Huerfano County Tourism Board",
+  "kind": "agenda",
+  "title": "Huerfano County Tourism Board Meeting - 20260812 HCTB Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9986,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/827/files"
+ },
+ "huerfano-county#23": {
+  "date": "2026-09-10",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - Planning Commission 09.10.2026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9989,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/840/files"
+ },
+ "huerfano-county#24": {
+  "date": "2026-09-10",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - Planning Commission Packet 09.10.2026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9990,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/840/files"
+ },
+ "huerfano-county#25": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 091526 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9993,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/802/files"
+ },
+ "huerfano-county#26": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 091526 HC BOCC mtg Public Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9994,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/802/files"
+ },
+ "huerfano-county#27": {
+  "date": "2026-09-17",
+  "body": "Huerfano County Building Authority Board",
+  "kind": "agenda",
+  "title": "Huerfano County Building Authority Meeting - 09172026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9998,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/864/files"
+ },
+ "huerfano-county#28": {
+  "date": "2026-09-17",
+  "body": "Huerfano County Building Authority Board",
+  "kind": "agenda",
+  "title": "Huerfano County Building Authority Meeting - 0917202",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9999,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/864/files"
+ },
+ "huerfano-county#29": {
+  "date": "2026-09-22",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 092226 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10004,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/803/files"
+ },
+ "huerfano-county#30": {
+  "date": "2026-09-22",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 092226 HC BOCC mtg  PublicUpdated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10005,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/803/files"
+ },
+ "huerfano-county#31": {
+  "date": "2026-09-23",
+  "body": "Raymond Aguirre Community Center Advisory Board",
+  "kind": "minutes",
+  "title": "Raymond Aguirre Community Center Advisory Board - 9/28/26 Minutes",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9988,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1927/files"
+ },
+ "huerfano-county#32": {
+  "date": "2026-09-29",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 092926 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10009,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/804/files"
+ },
+ "huerfano-county#33": {
+  "date": "2026-09-29",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 092929 HC BOCC mtg PUBLIC Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10010,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/804/files"
+ },
+ "huerfano-county#34": {
+  "date": "2026-10-06",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 100626 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10016,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/805/files"
+ },
+ "huerfano-county#35": {
+  "date": "2026-10-06",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 100626 HC BOCC Public mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10017,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/805/files"
+ },
+ "huerfano-county#36": {
+  "date": "2026-10-08",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - Planning Commission 10.08.2026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10021,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/841/files"
+ },
+ "huerfano-county#37": {
+  "date": "2026-10-08",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Meeting - Planning Commission Packet 10.08.2026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10026,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/841/files"
+ },
+ "huerfano-county#38": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 10 13 26 HC BOCC Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10031,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+ },
+ "huerfano-county#39": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 10 13 26 HC BOCC Packet - Public",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10032,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/806/files"
+ },
+ "huerfano-county#40": {
+  "date": "2026-10-14",
+  "body": "Huerfano County Tourism Board",
+  "kind": "agenda",
+  "title": "Huerfano County Tourism Board Meeting - 20261014 HCTB Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10034,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/828/files"
+ },
+ "huerfano-county#41": {
+  "date": "2026-10-14",
+  "body": "Huerfano County Tourism Board",
+  "kind": "agenda",
+  "title": "Huerfano County Tourism Board Meeting - 20261014 HCTB Agenda Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10035,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/828/files"
+ },
+ "huerfano-county#42": {
+  "date": "2026-10-15",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Special Meeting - 10 15 2026 HC BOCC Special Mtg Agenda",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10036,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1989/files"
+ },
+ "huerfano-county#43": {
+  "date": "2026-10-15",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Special Meeting - 10 15 2026 HC BOCC Packet",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10037,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1989/files"
+ },
+ "huerfano-county#44": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 102026 HC BOCC mtg Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10040,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+ },
+ "huerfano-county#45": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - 102026 HC BOCC mtg Public Updated",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10041,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/807/files"
+ },
+ "huerfano-county#46": {
+  "date": "2026-10-22",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - 10.22.2026 Planning Commission ",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10045,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1991/files"
+ },
+ "huerfano-county#47": {
+  "date": "2026-10-22",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Planning Commission Packet 10.22.2026",
+  "url": "https://huerfanoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10046,plainText=false)",
+  "public_url": "https://huerfanoco.portal.civicclerk.com/event/1991/files"
+ },
  "hugo#0": {
   "date": "2026-08-11",
   "body": "City Council",
@@ -13206,6 +14054,206 @@
   "title": "Business & Community Promotions Board Meeting - 10-19-2026 BCPB Regular Meeting Packet",
   "url": "https://idahospringsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2788,plainText=false)",
   "public_url": "https://idahospringsco.portal.civicclerk.com/event/477/files"
+ },
+ "jefferson-county#0": {
+  "date": "2026-07-28",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=b4ded46f-8ebd-4182-a065-ab0201d1d476&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#1": {
+  "date": "2026-07-28",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c9c3eaab-4952-48d1-89cf-5be70c0ab5cd&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#2": {
+  "date": "2026-08-04",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=6d7b7c25-b3fc-4914-bf62-6b339fc72801&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#3": {
+  "date": "2026-08-04",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=e125d3fd-d04f-46f1-b8cb-d096ff62203e&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#4": {
+  "date": "2026-08-11",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=ae652450-1053-4553-867d-a17074f722f5&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#5": {
+  "date": "2026-08-11",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=fbe0b653-3781-4b2d-9fe3-10a7c5a8644f&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#6": {
+  "date": "2026-08-12",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=16c4b6d0-0108-4527-a48a-05d76836096c&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#7": {
+  "date": "2026-08-18",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=3185a4b6-8395-4d7f-956a-2e9d0007a221&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#8": {
+  "date": "2026-08-18",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=9c0c2234-550d-4ff8-a851-31ad43d49ab4&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#9": {
+  "date": "2026-08-24",
+  "body": "Board of County Commissioners Special Meeting",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Special Meeting - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=09797c12-b746-4167-8c96-23e6c413a099&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#10": {
+  "date": "2026-09-01",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=b99b90ef-e23e-42ef-a98c-b78538f91b31&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#11": {
+  "date": "2026-09-01",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=df798538-9f84-4c88-8570-462323c91d38&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#12": {
+  "date": "2026-09-09",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c29ccd95-9bdd-44e8-bcd7-7ca79bc2c199&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#13": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=89b3dc7a-7d20-4e7d-a8ef-1e38da7cf3d6&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#14": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=c0c33893-23a9-42ac-931a-d07c6f68c89d&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#15": {
+  "date": "2026-09-22",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=1077b97d-a508-453c-8e54-5eb828c95254&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#16": {
+  "date": "2026-09-22",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=9b2c6c53-ce0b-42c3-b0ab-0b9c37357f18&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#17": {
+  "date": "2026-09-23",
+  "body": "Board of County Commissioners Special Meeting",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Special Meeting - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=6a81e9d5-9195-44ff-83d8-a5c08ae39375&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#18": {
+  "date": "2026-09-29",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=a8d152d5-539b-45b8-86bb-d51fd994e28d&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#19": {
+  "date": "2026-09-29",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=dedbaf33-aec2-4ed5-b10d-6d420eafc5a5&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#20": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Hearing - Minutes (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=2a05559d-a661-49ed-a357-75efc8c7d190&Agenda=PostMinutes&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#21": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=edff083f-b5e8-4e07-92a9-5b91edf2eaeb&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#22": {
+  "date": "2026-10-14",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=2d3ee3ed-cd54-4eba-abdf-f72397381fb1&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#23": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners Hearing",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Hearing - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=06782ee9-d938-4d09-a6b5-69a79b36c749&Agenda=Agenda&lang=English",
+  "public_url": null
+ },
+ "jefferson-county#24": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners Staff Briefings and Work Sessions",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Staff Briefings and Work Sessions - Agenda (HTML)",
+  "url": "https://pub-jeffco.escribemeetings.com/Meeting.aspx?Id=849bd38e-446a-49ea-a221-d77d89f54be1&Agenda=Agenda&lang=English",
+  "public_url": null
  },
  "johnstown#0": {
   "date": "2026-08-03",
@@ -23758,6 +24806,286 @@
   "title": "Board of County Commissioners Meeting - 102226_BoCC_Agenda-Rev1",
   "url": "https://tellercoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1588,plainText=false)",
   "public_url": "https://tellercoco.portal.civicclerk.com/event/226/files"
+ },
+ "telluride#0": {
+  "date": "2026-07-29",
+  "body": "Parks & Recreation Commission",
+  "kind": "agenda",
+  "title": "(RESCHEDULED) Parks & Recreation Commission - Jul 29 2026 - (RESCHEDULED) Parks   Recreation Commission - J.pdf",
+  "url": "https://telluride.civicweb.net/document/442582/(RESCHEDULED)%20Parks%20_%20Recreation%20Commission%20-%20J.pdf?handle=83BB0C9B681F4BE084D085FFC39727C3",
+  "public_url": null
+ },
+ "telluride#1": {
+  "date": "2026-08-19",
+  "body": "Ecology Commission",
+  "kind": "agenda",
+  "title": "Ecology Commission - Aug 19 2026 - Ecology Commission - Aug 19 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/442889/Ecology%20Commission%20-%20Aug%2019%202026.pdf?handle=8BB117CB34A549EE86D48D820504EC90",
+  "public_url": null
+ },
+ "telluride#2": {
+  "date": "2026-08-19",
+  "body": "Historic & Architectural Review Commission Chair",
+  "kind": "agenda",
+  "title": "Historic & Architectural Review Commission Chair - Aug 19 2026 - Historic   Architectural Review Commission Chai.pdf",
+  "url": "https://telluride.civicweb.net/document/443017/Historic%20_%20Architectural%20Review%20Commission%20Chai.pdf?handle=AB34FAD228B745809EC18B522E9F3B9E",
+  "public_url": null
+ },
+ "telluride#3": {
+  "date": "2026-08-19",
+  "body": "Parks & Recreation Commission",
+  "kind": "agenda",
+  "title": "Parks & Recreation Commission - Aug 19 2026 - Parks   Recreation Commission - Aug 19 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/443346/Parks%20_%20Recreation%20Commission%20-%20Aug%2019%202026.pdf?handle=3090796AACEF4FBEB36976E44398B16E",
+  "public_url": null
+ },
+ "telluride#4": {
+  "date": "2026-08-20",
+  "body": "Liquor Licensing Authority",
+  "kind": "agenda",
+  "title": "Liquor Licensing Authority - Aug 20 2026 - Liquor Licensing Authority - Aug 20 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/443330/Liquor%20Licensing%20Authority%20-%20Aug%2020%202026.pdf?handle=4BB7F3E8F7124B908F029229DA1DE3AE",
+  "public_url": null
+ },
+ "telluride#5": {
+  "date": "2026-08-25",
+  "body": "Ethics Commission",
+  "kind": "agenda",
+  "title": "Ethics Commission - Aug 25 2026 - Ethics Commission - Aug 25 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/443653/Ethics%20Commission%20-%20Aug%2025%202026.pdf?handle=247AE540B93145E6B7517E4F0EA6ABBD",
+  "public_url": null
+ },
+ "telluride#6": {
+  "date": "2026-08-26",
+  "body": "Resident Advisory Committee",
+  "kind": "agenda",
+  "title": "Resident Advisory Committee - Aug 26 2026 - Resident Advisory Committee - Aug 26 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/443600/Resident%20Advisory%20Committee%20-%20Aug%2026%202026.pdf?handle=6DD3F898678A48E8A4258881A68CAE2C",
+  "public_url": null
+ },
+ "telluride#7": {
+  "date": "2026-08-26",
+  "body": "Public Art Commission (PAC)",
+  "kind": "agenda",
+  "title": "Public Art Commission - Aug 26 2026 - Public Art Commission - Aug 26 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/443713/Public%20Art%20Commission%20-%20Aug%2026%202026.pdf?handle=183126161FD14885B90048BBDB0AE901",
+  "public_url": null
+ },
+ "telluride#8": {
+  "date": "2026-09-02",
+  "body": "Commission for Community Assistance, Arts & Special Events",
+  "kind": "agenda",
+  "title": "Commission for Community Assistance, Arts & Special Events - Sep 02 2026 - Commission for Community Assistance, Arts   Spe.pdf",
+  "url": "https://telluride.civicweb.net/document/444094/Commission%20for%20Community%20Assistance,%20Arts%20_%20Spe.pdf?handle=4137F5D73D5143ACABE22B1A66875592",
+  "public_url": null
+ },
+ "telluride#9": {
+  "date": "2026-09-02",
+  "body": "Telluride Housing Authority Subcommittee",
+  "kind": "agenda",
+  "title": "CANCELLED - Telluride Housing Authority Subcommittee - Sep 02 2026 - CANCELLED - Telluride Housing Authority Subcomm.pdf",
+  "url": "https://telluride.civicweb.net/document/444280/CANCELLED%20-%20Telluride%20Housing%20Authority%20Subcomm.pdf?handle=D93D16DE6D3E4DB0B4BEC6E70245286E",
+  "public_url": null
+ },
+ "telluride#10": {
+  "date": "2026-09-02",
+  "body": "Ecology Commission",
+  "kind": "agenda",
+  "title": "Ecology Commission - Sep 02 2026 - Ecology Commission - Sep 02 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/444403/Ecology%20Commission%20-%20Sep%2002%202026.pdf?handle=4A8E6B4F138D4326AE36293F20F68C1F",
+  "public_url": null
+ },
+ "telluride#11": {
+  "date": "2026-09-14",
+  "body": "Telluride Housing Authority Subcommittee",
+  "kind": "agenda",
+  "title": "Telluride Housing Authority Subcommittee Special Meeting - Sep 14 2026 - Telluride Housing Authority Subcommittee Specia.pdf",
+  "url": "https://telluride.civicweb.net/document/444792/Telluride%20Housing%20Authority%20Subcommittee%20Specia.pdf?handle=B13E44C4B20543A08BEE14BF10391522",
+  "public_url": null
+ },
+ "telluride#12": {
+  "date": "2026-09-16",
+  "body": "Historic & Architectural Review Commission Chair",
+  "kind": "agenda",
+  "title": "Historic & Architectural Review Commission Chair - Sep 16 2026 - Historic   Architectural Review Commission Chai.pdf",
+  "url": "https://telluride.civicweb.net/document/444512/Historic%20_%20Architectural%20Review%20Commission%20Chai.pdf?handle=D26F420B419F4D4F86DA161D989E2AF8",
+  "public_url": null
+ },
+ "telluride#13": {
+  "date": "2026-09-16",
+  "body": "Historic & Architectural Review Commission",
+  "kind": "agenda",
+  "title": "Historic & Architectural Review Commission - Sep 16 2026 - Historic   Architectural Review Commission - Se.pdf",
+  "url": "https://telluride.civicweb.net/document/444516/Historic%20_%20Architectural%20Review%20Commission%20-%20Se.pdf?handle=7C4D96A04E6443E49901DE96FE082757",
+  "public_url": null
+ },
+ "telluride#14": {
+  "date": "2026-09-17",
+  "body": "Liquor Licensing Authority",
+  "kind": "agenda",
+  "title": "Liquor Licensing Authority - Sep 17 2026 - Liquor Licensing Authority - Sep 17 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/444750/Liquor%20Licensing%20Authority%20-%20Sep%2017%202026.pdf?handle=C4FCB978E67F45E19F3D948C13FC949C",
+  "public_url": null
+ },
+ "telluride#15": {
+  "date": "2026-09-22",
+  "body": "Telluride Housing Authority",
+  "kind": "agenda",
+  "title": "Telluride Housing Authority - Sep 22 2026 - Telluride Housing Authority - Sep 22 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/444864/Telluride%20Housing%20Authority%20-%20Sep%2022%202026.pdf?handle=652E701A852041B8875FE8925C185575",
+  "public_url": null
+ },
+ "telluride#16": {
+  "date": "2026-09-23",
+  "body": "Vending Subcommittee",
+  "kind": "agenda",
+  "title": "Vending Subcommittee - Sep 23 2026 - Vending Subcommittee - Sep 23 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/445112/Vending%20Subcommittee%20-%20Sep%2023%202026.pdf?handle=5614A21BCFC348E5895EB9EE38DC1309",
+  "public_url": null
+ },
+ "telluride#17": {
+  "date": "2026-09-24",
+  "body": "Planning & Zoning Commission Chair",
+  "kind": "agenda",
+  "title": "CANCELLED - Planning & Zoning Commission Chair - Sep 24 2026 - CANCELLED - Planning   Zoning Commission Chair .pdf",
+  "url": "https://telluride.civicweb.net/document/444905/CANCELLED%20-%20Planning%20_%20Zoning%20Commission%20Chair%20.pdf?handle=21B440C8384B400E8896C922D3439565",
+  "public_url": null
+ },
+ "telluride#18": {
+  "date": "2026-09-24",
+  "body": "Planning & Zoning Commission",
+  "kind": "agenda",
+  "title": "Planning & Zoning Commission - Sep 24 2026 - Planning   Zoning Commission - Sep 24 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/444920/Planning%20_%20Zoning%20Commission%20-%20Sep%2024%202026.pdf?handle=CDB2FCAFA94E48EB9971952854746E1E",
+  "public_url": null
+ },
+ "telluride#19": {
+  "date": "2026-09-24",
+  "body": "Resident Advisory Committee",
+  "kind": "agenda",
+  "title": "Resident Advisory Committee - Sep 24 2026 - Resident Advisory Committee - Sep 24 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/445347/Resident%20Advisory%20Committee%20-%20Sep%2024%202026.pdf?handle=BB8E168FC8024FFBA42332E79C9DFE5F",
+  "public_url": null
+ },
+ "telluride#21": {
+  "date": "2026-09-28",
+  "body": "Open Space Commission",
+  "kind": "agenda",
+  "title": "Open Space Commission Site Walk - Sep 28 2026 - Open Space Commission Site Walk - Sep 28 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/445557/Open%20Space%20Commission%20Site%20Walk%20-%20Sep%2028%202026.pdf?handle=0A059B4699934A9A960549A0998D8F58",
+  "public_url": null
+ },
+ "telluride#22": {
+  "date": "2026-09-30",
+  "body": "Historic & Architectural Review Commission",
+  "kind": "agenda",
+  "title": "Special Meeting - Historic & Architectural Review Commission - Sep 30 2026 - Special Meeting - Historic   Architectural Revi.pdf",
+  "url": "https://telluride.civicweb.net/document/445284/Special%20Meeting%20-%20Historic%20_%20Architectural%20Revi.pdf?handle=F722163E26B049EA911A4152FAB37E12",
+  "public_url": null
+ },
+ "telluride#23": {
+  "date": "2026-10-01",
+  "body": "Planning & Zoning Commission",
+  "kind": "agenda",
+  "title": "Special Meeting - Planning & Zoning Commission - Oct 01 2026 - Special Meeting - Planning   Zoning Commission .pdf",
+  "url": "https://telluride.civicweb.net/document/445599/Special%20Meeting%20-%20Planning%20_%20Zoning%20Commission%20.pdf?handle=738D2C6CF917486E87A438497A6651B3",
+  "public_url": null
+ },
+ "telluride#24": {
+  "date": "2026-10-05",
+  "body": "Open Space Commission",
+  "kind": "agenda",
+  "title": "Open Space Commission - Oct 05 2026 - Open Space Commission - Oct 05 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/445813/Open%20Space%20Commission%20-%20Oct%2005%202026.pdf?handle=1ED437AAAC764569A70241645D185BF1",
+  "public_url": null
+ },
+ "telluride#25": {
+  "date": "2026-10-06",
+  "body": "Town Council",
+  "kind": "agenda",
+  "title": "Town Council - Oct 06 2026 - Town Council - Oct 06 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/445576/Town%20Council%20-%20Oct%2006%202026.pdf?handle=A854BCF3F9F1401D818586887660F9B0",
+  "public_url": null
+ },
+ "telluride#26": {
+  "date": "2026-10-07",
+  "body": "Ecology Commission",
+  "kind": "agenda",
+  "title": "Ecology Commission - Oct 07 2026 - Ecology Commission - Oct 07 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/445712/Ecology%20Commission%20-%20Oct%2007%202026.pdf?handle=7504EAFFA3654D7D8AE13F0F6A3E0745",
+  "public_url": null
+ },
+ "telluride#27": {
+  "date": "2026-10-07",
+  "body": "Commission for Community Assistance, Arts & Special Events",
+  "kind": "agenda",
+  "title": "Commission for Community Assistance, Arts & Special Events - Oct 07 2026 - Commission for Community Assistance, Arts   Spe.pdf",
+  "url": "https://telluride.civicweb.net/document/445776/Commission%20for%20Community%20Assistance,%20Arts%20_%20Spe.pdf?handle=FB07DE36E2FA4D199F72EBD3A13082BC",
+  "public_url": null
+ },
+ "telluride#28": {
+  "date": "2026-10-07",
+  "body": "Telluride Housing Authority Subcommittee",
+  "kind": "agenda",
+  "title": "Telluride Housing Authority Subcommittee - Oct 07 2026 - Telluride Housing Authority Subcommittee - Oct .pdf",
+  "url": "https://telluride.civicweb.net/document/445866/Telluride%20Housing%20Authority%20Subcommittee%20-%20Oct%20.pdf?handle=B5E1B4EE8CF1401BB489D3BDBC618736",
+  "public_url": null
+ },
+ "telluride#29": {
+  "date": "2026-10-08",
+  "body": "San Miguel Authority for Regional Transportation",
+  "kind": "agenda",
+  "title": "San Miguel Authority for Regional Transportation - Oct 08 2026 - 1 SMART Board Agenda October 8th 2026 distributed.pdf",
+  "url": "https://telluride.civicweb.net/document/445931/1%20SMART%20Board%20Agenda_October%208th%202026_distributed.pdf?handle=6666D61E1F6E4D5FBBCD0801FC36A832",
+  "public_url": null
+ },
+ "telluride#30": {
+  "date": "2026-10-12",
+  "body": "Open Space Commission",
+  "kind": "agenda",
+  "title": "Open Space Commission Site Walk - Oct 12 2026 - Open Space Commission Site Walk - Oct 12 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/446206/Open%20Space%20Commission%20Site%20Walk%20-%20Oct%2012%202026.pdf?handle=578B62E184954D8099303FD585C93275",
+  "public_url": null
+ },
+ "telluride#31": {
+  "date": "2026-10-13",
+  "body": "Town Council",
+  "kind": "agenda",
+  "title": "Special Town Council Budget - Oct 13 2026 - Special Town Council Budget - Oct 13 2026.pdf",
+  "url": "https://telluride.civicweb.net/document/446170/Special%20Town%20Council%20Budget%20-%20Oct%2013%202026.pdf?handle=25B692EDC44F4B7BBCA7381939A26660",
+  "public_url": null
+ },
+ "telluride#32": {
+  "date": "2026-10-14",
+  "body": "Liquor Licensing Authority",
+  "kind": "agenda",
+  "title": "Special Liquor Licensing Authority - Oct 14 2026 - Special Liquor Licensing Authority - Oct 14 202.pdf",
+  "url": "https://telluride.civicweb.net/document/445971/Special%20Liquor%20Licensing%20Authority%20-%20Oct%2014%20202.pdf?handle=7D3C2A2D7099489F96A15658F07B26E2",
+  "public_url": null
+ },
+ "telluride#33": {
+  "date": "2026-10-21",
+  "body": "Historic & Architectural Review Commission",
+  "kind": "agenda",
+  "title": "Historic & Architectural Review Commission - Oct 21 2026 - Historic   Architectural Review Commission - Oc.pdf",
+  "url": "https://telluride.civicweb.net/document/446165/Historic%20_%20Architectural%20Review%20Commission%20-%20Oc.pdf?handle=AB94A4ED17B346F6AC3D1E6729315CDC",
+  "public_url": null
+ },
+ "telluride#35": {
+  "date": "2026-10-22",
+  "body": "Planning & Zoning Commission Chair",
+  "kind": "agenda",
+  "title": "(Rescheduled to 11/2) Planning & Zoning Commission Chair - Oct 22 2026 - (Rescheduled to 11 2) Planning   Zoning Commiss.pdf",
+  "url": "https://telluride.civicweb.net/document/446232/(Rescheduled%20to%2011_2)%20Planning%20_%20Zoning%20Commiss.pdf?handle=409B9E6258AD4D8EA122E99B73180B24",
+  "public_url": null
+ },
+ "telluride#36": {
+  "date": "2026-10-23",
+  "body": "Commission for Community Assistance, Arts & Special Events",
+  "kind": "agenda",
+  "title": "Commission for Community Assistance, Arts & Special Events - Grant Subcommittee -Oct 23 2026 - Commission for Community Assistance, Arts   Spe.pdf",
+  "url": "https://telluride.civicweb.net/document/446655/Commission%20for%20Community%20Assistance,%20Arts%20_%20Spe.pdf?handle=05D0F28B0A8746DC8D19E322C88B4731",
+  "public_url": null
  },
  "thornton#0": {
   "date": "2026-07-28",

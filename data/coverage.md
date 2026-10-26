@@ -20,7 +20,7 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Blue River | civicclerk | 11 | 18 | 18 | 0 |  | 2026-10-25 |
 | Boone | linkscan | 4 | 4 | 4 | 0 |  | 2026-10-26 |
 | Boulder | primegov | 15 | 15 | 15 | 0 |  | 2026-10-26 |
-| Boulder County | wp_events | 19 | 19 | 19 | 0 |  | 2026-10-26 |
+| Boulder County | escribe | 39 | 39 | 39 | 0 |  | 2026-10-26 |
 | Breckenridge | civicclerk | 21 | 43 | 40 | 3 |  | 2026-10-25 |
 | Brighton | legistar | 12 | 12 | 12 | 0 |  | 2026-10-26 |
 | Broomfield | agendacenter | 40 | 40 | 38 | 2 |  | 2026-10-26 |
@@ -40,6 +40,7 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Colorado Springs | legistar | 28 | 28 | 28 | 0 |  | 2026-10-26 |
 | Columbine Valley | linkscan | 3 | 4 | 4 | 0 |  | 2026-10-25 |
 | Commerce City | legistar | 99 | 99 | 98 | 1 |  | 2026-10-26 |
+| Cortez | destiny | 14 | 14 | 14 | 0 |  | 2026-10-26 |
 | Craig | civicclerk | 5 | 8 | 7 | 1 |  | 2026-10-25 |
 | Crawford | linkscan | 3 | 3 | 2 | 1 |  | 2026-10-26 |
 | Crested Butte | linkscan | 2 | 2 | 2 | 0 |  | 2026-10-25 |
@@ -73,10 +74,12 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Frisco | civicclerk | 9 | 18 | 17 | 1 |  | 2026-10-25 |
 | Fruita | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Garden City | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Garfield County | escribe | 16 | 16 | 16 | 0 |  | 2026-10-26 |
 | Gilpin County | linkscan | 9 | 10 | 10 | 0 |  | 2026-10-25 |
 | Glendale | agendacenter | 7 | 7 | 5 | 2 |  | 2026-10-26 |
 | Glenwood Springs | civicclerk | 11 | 14 | 14 | 0 |  | 2026-10-25 |
 | Golden | granicus | 51 | 51 | 40 | 11 |  | 2026-10-26 |
+| Granby | destiny | 8 | 8 | 8 | 0 |  | 2026-10-26 |
 | Grand County | agendacenter | 23 | 23 | 7 | 16 |  | 2026-10-26 |
 | Grand Junction | civicclerk | 53 | 81 | 72 | 9 |  | 2026-10-26 |
 | Grand Lake | civicclerk | 14 | 21 | 18 | 3 |  | 2026-10-26 |
@@ -93,10 +96,12 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Hooper | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Hotchkiss | linkscan | 3 | 3 | 3 | 0 |  | 2026-10-25 |
 | Hudson | legistar | 29 | 29 | 29 | 0 |  | 2026-10-25 |
+| Huerfano County | civicclerk | 26 | 48 | 48 | 0 |  | 2026-10-26 |
 | Hugo | linkscan | 5 | 5 | 5 | 0 |  | 2026-10-26 |
 | Idaho Springs | civicclerk | 17 | 34 | 34 | 0 |  | 2026-10-25 |
 | Ignacio | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Jamestown | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Jefferson County | escribe | 25 | 25 | 25 | 0 |  | 2026-10-26 |
 | Johnstown | civicclerk | 14 | 23 | 20 | 3 |  | 2026-10-26 |
 | Keenesburg | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Kersey | linkscan | 7 | 7 | 6 | 1 |  | 2026-10-25 |
@@ -171,9 +176,10 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 | Starkville | civicclerk | 12 | 19 | 18 | 1 |  | 2026-10-26 |
 | Steamboat Springs | onbase | 0 | 0 | 0 | 0 |  | 2026-10-25 |
 | Sterling | linkscan | 9 | 21 | 16 | 5 |  | 2026-10-25 |
-| Summit County | civicweb | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Summit County | civicweb | 4 | 4 | 0 | 4 |  | 2026-10-26 |
 | Superior | civicclerk | 29 | 34 | 34 | 0 |  | 2026-10-26 |
 | Teller County | civicclerk | 18 | 31 | 30 | 1 |  | 2026-10-26 |
+| Telluride | civicweb | 40 | 40 | 38 | 2 |  | 2026-10-26 |
 | Thornton | primegov | 36 | 36 | 35 | 1 |  | 2026-10-26 |
 | Timnath | civicweb | 12 | 12 | 12 | 0 |  | 2026-10-25 |
 | Washington County | linkscan | 12 | 12 | 11 | 1 |  | 2026-10-25 |
@@ -272,6 +278,8 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 
 ### Boulder County
 ```
+  document types: ['Agenda', 'AgendaCover', 'PostMinutes', 'Video']
+  28 meetings returned, 20 kept
   19 events with descriptions in window
 ```
 
@@ -370,6 +378,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Commerce City
 ```
   109 events in window
+```
+
+### Cortez
+```
+  14 agendas in window
 ```
 
 ### Craig
@@ -537,6 +550,12 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   6 events in window
 ```
 
+### Garfield County
+```
+  document types: ['AdditionalDocuments', 'Agenda', 'AgendaCover', 'PostMinutes', 'Video']
+  19 meetings returned, 18 kept
+```
+
 ### Gilpin County
 ```
   https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 10 dated links in window
@@ -555,6 +574,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Golden
 ```
   71 documents in window
+```
+
+### Granby
+```
+  8 agendas in window
 ```
 
 ### Grand County
@@ -638,6 +662,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
   30 events in window
 ```
 
+### Huerfano County
+```
+  32 events in window
+```
+
 ### Hugo
 ```
   https://townhugo.com/government/committee-meetings/agenda/: 7 dated links in window
@@ -656,6 +685,12 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Jamestown
 ```
   https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/: 0 dated links in window
+```
+
+### Jefferson County
+```
+  document types: ['AdditionalDocuments', 'Agenda', 'PostMinutes', 'Video']
+  59 meetings returned, 26 kept
 ```
 
 ### Johnstown
@@ -1033,7 +1068,7 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 
 ### Summit County
 ```
-  0 recent meetings in window
+  4 recent meetings in window
 ```
 
 ### Superior
@@ -1044,6 +1079,11 @@ Window: 2026-07-28 to 2026-10-26 (each row shows its own last run)
 ### Teller County
 ```
   19 events in window
+```
+
+### Telluride
+```
+  40 recent meetings in window
 ```
 
 ### Thornton

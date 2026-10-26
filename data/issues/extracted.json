@@ -75,9 +75,9 @@
   "model": "hand-written"
  },
  "boulder-county": {
-  "date": "2026-10-25",
-  "hash": "e92d62d8bd446e64",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "ae78cd3611fbfa29",
+  "model": "claude-sonnet-5-5"
  },
  "breckenridge": {
   "date": "2026-10-26",
@@ -147,6 +147,11 @@
  "commerce-city": {
   "date": "2026-10-26",
   "hash": "287fbee3dd5ec5ea",
+  "model": "claude-sonnet-5-5"
+ },
+ "cortez": {
+  "date": "2026-10-26",
+  "hash": "a63f71e870fa0243",
   "model": "claude-sonnet-5-5"
  },
  "craig": {
@@ -279,6 +284,11 @@
   "hash": "4ab624f50c1d9d7b",
   "model": "claude-sonnet-5-5"
  },
+ "garfield-county": {
+  "date": "2026-10-26",
+  "hash": "411054c5e293c539",
+  "model": "claude-sonnet-5-5"
+ },
  "gilpin-county": {
   "date": "2026-10-26",
   "hash": "b02565695b381879",
@@ -297,6 +307,11 @@
  "golden": {
   "date": "2026-10-26",
   "hash": "99897191d27c017c",
+  "model": "claude-sonnet-5-5"
+ },
+ "granby": {
+  "date": "2026-10-26",
+  "hash": "2fbdecd28f568b15",
   "model": "claude-sonnet-5-5"
  },
  "grand-county": {
@@ -354,6 +369,11 @@
   "hash": "6041fc9897d63212",
   "model": "claude-sonnet-5-5"
  },
+ "huerfano-county": {
+  "date": "2026-10-26",
+  "hash": "8845f17430e4a85f",
+  "model": "claude-sonnet-5-5"
+ },
  "hugo": {
   "date": "2026-10-26",
   "hash": "2cb587c91e259ee7",
@@ -362,6 +382,11 @@
  "idaho-springs": {
   "date": "2026-10-26",
   "hash": "7515a615822456ea",
+  "model": "claude-sonnet-5-5"
+ },
+ "jefferson-county": {
+  "date": "2026-10-26",
+  "hash": "eb00a112d389f164",
   "model": "claude-sonnet-5-5"
  },
  "johnstown": {
@@ -672,6 +697,11 @@
  "teller-county": {
   "date": "2026-10-26",
   "hash": "414fb716bc7359ed",
+  "model": "claude-sonnet-5-5"
+ },
+ "telluride": {
+  "date": "2026-10-26",
+  "hash": "e26f29ed704537c8",
   "model": "claude-sonnet-5-5"
  },
  "thornton": {
