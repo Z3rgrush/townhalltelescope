@@ -158,11 +158,69 @@ def _agendasuite_rows(source, page, final, bodies, start, end, seen):
         yield Doc(source, body, d, f"{body} - {cells[1]}", href, "agenda")
 
 
-def weblink(src, start, end, log):
-    """Meeting pages that link their agenda and minutes in a Laserfiche WebLink repository (Weld County).
+def _weblink_text(weblink_base, repo, doc_id):
+    """A WebLink document's text, read page by page from the repository's public document service."""
+    service = f"{weblink_base}/DocumentService.aspx"
+    info = session.post(f"{service}/GetBasicDocumentInfo", json={"repoName": repo, "entryId": doc_id}, timeout=60)
+    if not info.ok:
+        return ""
+    pages = []
+    for n in range(1, min(info.json()["data"].get("pageCount") or 0, 40) + 1):
+        r = session.post(f"{service}/GetTextHtmlForPage", timeout=60, json={
+            "repoName": repo, "documentId": doc_id, "pageNum": n, "showAnn": False, "searchUuid": ""})
+        if r.ok:
+            pages.append(r.json()["data"].get("text") or "")
+    return re.sub(r"[ \t]+", " ", "\n".join(pages)).strip()
 
-    WebLink's viewer is a script, but it reads each page's text from the repository's public document
-    service, so we ask that service for the text the same way."""
+
+def _weblink_listing(weblink_base, repo, folder_id):
+    """Every entry in a WebLink folder, from the folder listing service the browser page calls."""
+    out, total = [], None
+    while total is None or len(out) < total:
+        r = session.post(f"{weblink_base}/FolderListingService.aspx/GetFolderListing2", timeout=60, json={
+            "repoName": repo, "folderId": folder_id, "getNewListing": True, "start": len(out),
+            "end": len(out) + 100, "sortColumn": "", "sortAscending": True})
+        r.raise_for_status()
+        data = r.json()["data"]
+        total = data.get("totalEntries") or 0
+        if not data.get("results"):
+            break
+        out += data["results"]
+    return out
+
+
+def weblink(src, start, end, log):
+    """Laserfiche WebLink records (Weld County, Avon, Estes Park).
+
+    WebLink's viewer is a script, but it reads folder listings and each page's text from the repository's
+    public services, so we ask those services the same way. Either "pages" with a "follow" pattern name
+    meeting pages that link documents (Weld), or "folders" name record folders whose year subfolders
+    hold dated documents (Avon)."""
+    seen = set()
+    for f in src.get("folders", []):
+        base, repo = f["weblink"].rstrip("/"), f["repo"]
+        entries = _weblink_listing(base, repo, f["id"])
+        # Year folders ("2026") narrow the walk to the window; other subfolders are left out.
+        years = [e for e in entries if e["type"] == 0 and re.fullmatch(r"\d{4}", e["name"].strip())
+                 and start.year <= int(e["name"]) <= end.year]
+        docs = [e for e in entries if e["type"] != 0]
+        for y in years:
+            docs += [e for e in _weblink_listing(base, repo, y["entryId"]) if e["type"] != 0]
+        n = 0
+        for e in docs:
+            d = find_date(e["name"])
+            if e["entryId"] in seen or not _in_window(d, start, end):
+                continue
+            seen.add(e["entryId"])
+            text = _weblink_text(base, repo, e["entryId"])
+            if text:
+                n += 1
+                yield Doc(src["id"], f.get("body", "Town Council"), d, e["name"],
+                          f"{base}/DocView.aspx?id={e['entryId']}&dbid=0&repo={repo}",
+                          f.get("kind") or kind_of(e["name"]), {"text": text})
+        log(f"  folder {f['id']}: {len(docs)} documents, {n} in window with text")
+    if not src.get("pages"):
+        return
     follow = re.compile(src["follow"])
     meetings = {}
     for page_url in src["pages"]:
@@ -173,7 +231,6 @@ def weblink(src, start, end, log):
             if follow.search(href) and _in_window(d, start, end):
                 meetings.setdefault(href, d)
     log(f"  {len(meetings)} meeting pages in window")
-    seen = set()
     for murl, d in meetings.items():
         page, final = soup(murl)
         for a in page.find_all("a", href=True):
@@ -181,21 +238,11 @@ def weblink(src, start, end, log):
             if not m or m.group(2) in seen:
                 continue
             seen.add(m.group(2))
-            service, doc_id, repo = m.group(1) + "/DocumentService.aspx", int(m.group(2)), m.group(3)
-            info = session.post(f"{service}/GetBasicDocumentInfo", json={"repoName": repo, "entryId": doc_id}, timeout=60)
-            if not info.ok:
-                continue
-            pages = []
-            for n in range(1, min(info.json()["data"].get("pageCount") or 0, 40) + 1):
-                r = session.post(f"{service}/GetTextHtmlForPage", timeout=60, json={
-                    "repoName": repo, "documentId": doc_id, "pageNum": n, "showAnn": False, "searchUuid": ""})
-                if r.ok:
-                    pages.append(r.json()["data"].get("text") or "")
-            text = re.sub(r"[ \t]+", " ", "\n".join(pages)).strip()
+            text = _weblink_text(m.group(1), m.group(3), int(m.group(2)))
             if text:
                 title = a.get_text(" ", strip=True) or "Agenda"
                 yield Doc(src["id"], src.get("body", "Board of County Commissioners"), d, f"{d:%B %-d, %Y} - {title}",
-                          f"{m.group(1)}/DocView.aspx?id={doc_id}&dbid=0&repo={repo}", kind_of(title), {"text": text})
+                          f"{m.group(1)}/DocView.aspx?id={m.group(2)}&dbid=0&repo={m.group(3)}", kind_of(title), {"text": text})
 
 
 def civicclerk(src, start, end, log):

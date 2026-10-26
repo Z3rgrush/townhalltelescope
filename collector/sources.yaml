@@ -1179,3 +1179,10 @@
   pages:
   - https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026
   - https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025
+- id: avon
+  name: Avon
+  county: Eagle
+  adapter: weblink
+  folders:
+  - {weblink: "https://lfpublic.avon.org/WebLink", repo: TownofAvon, id: 69873, kind: minutes}
+  - {weblink: "https://lfpublic.avon.org/WebLink", repo: TownofAvon, id: 67538, kind: agenda}
