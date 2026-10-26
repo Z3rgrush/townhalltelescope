@@ -4,19 +4,19 @@
 
 | | All | Counties and towns over 2,000 |
 |---|---|---|
-| Collected already | 18 | 17 |
-| Records on a platform the collector reads (config only) | 169 | 103 |
+| Collected already | 146 | 99 |
+| Records on a platform the collector reads (config only) | 1 | 1 |
 | Records on a platform that needs a new adapter | 5 | 5 |
 | Website found, no meeting records found | 107 | 40 |
-| Site refused or failed | 35 | 12 |
+| Site refused or failed | 36 | 13 |
 | No website found | 0 | 0 |
 
-Towns and cities that are collected or config only hold 91% of the people living in incorporated places.
+Towns and cities that are collected or config only hold 86% of the people living in incorporated places.
 
 | Platform | Governments | Collector |
 |---|---|---|
-| none found | 144 |  |
-| own site (PDF links) | 69 | linkscan |
+| none found | 145 |  |
+| own site (PDF links) | 68 | linkscan |
 | civicclerk | 56 | civicclerk |
 | agendacenter | 28 | agendacenter |
 | legistar | 9 | legistar |
