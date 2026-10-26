@@ -1146,3 +1146,35 @@
   county: Arapahoe
   adapter: legistar
   client: littletongov
+- id: delta-county
+  name: Delta County
+  county: Delta
+  adapter: civicclerk
+  tenant: deltacoco
+- id: logan-county
+  name: Logan County
+  county: Logan
+  adapter: agendacenter
+  base: https://www.logancountyco.gov
+- id: durango
+  name: Durango
+  county: La Plata
+  adapter: onbase
+  base: https://durangogov.hylandcloud.com/251agendaonline
+- id: moffat-county
+  name: Moffat County
+  county: Moffat
+  adapter: linkscan
+  # Agenda packets are linked by date only ("October 27, 2026" -> Oct27_Docs001.pdf).
+  follow: "_Docs\\d*\\.pdf$|bocc-agendas"
+  pages:
+  - https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings
+  - https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes
+- id: lamar
+  name: Lamar
+  county: Prowers
+  adapter: linkscan
+  follow: "/\\d{4}-\\d{2}-\\d{2}-city-council-meeting$"
+  pages:
+  - https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026
+  - https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025
