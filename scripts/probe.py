@@ -53,7 +53,8 @@ for url in urls:
         body = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", r.text)
         body = re.sub(r"(?s)<[^>]+>", "\n", body)
         print(re.sub(r"\s*\n\s*", "\n", body)[:6000])
-        print("...ALL LINKS:", *re.findall(r'href=["\']([^"\'#]+)', r.text)[:80], sep="\n")
+        hrefs = re.findall(r'href=["\']([^"\'#]+)', r.text)
+        print("...LINKS:", *[h for h in hrefs if KEY.search(h) or not h.endswith((".css", ".js", ".png", ".ico", ".svg"))][:200], sep="\n")
         continue
     if raw:
         print(r.text[:60000 if full else 3000])

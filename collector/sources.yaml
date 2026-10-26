@@ -29,12 +29,17 @@
 - id: boulder-county
   name: Boulder County
   county: Boulder
-  # eScribe files sit behind a bot check, which we leave alone. The county's events calendar
-  # describes each commissioners' public meeting and hearing, which is what we read instead.
-  adapter: wp_events
-  base: https://www.bouldercounty.gov
-  categories: county-commissioners
-  titles: "^Public (Meeting|Hearing)|Town Hall|Work Session"
+  # eScribe files sit behind a bot check, which we leave alone; the portal's agenda and minutes pages
+  # are plain public HTML, so we read those. The events calendar adds hearing and town hall blurbs.
+  adapter: escribe
+  base: https://pub-bouldercounty.escribemeetings.com
+  html: true
+  bodies: Commissioners|Planning Commission
+  also:
+    - adapter: wp_events
+      base: https://www.bouldercounty.gov
+      categories: county-commissioners
+      titles: "^Public (Meeting|Hearing)|Town Hall|Work Session"
 - id: louisville
   name: Louisville
   county: Boulder
@@ -1013,3 +1018,40 @@
   county: Las Animas
   adapter: civicclerk
   tenant: starkvillems
+
+# Added 2026-10-26 from the refusal plan (tier 1). eScribe portals here block file downloads with a
+# browser check, so these read the public agenda and minutes pages instead.
+- id: jefferson-county
+  name: Jefferson County
+  county: Jefferson
+  adapter: escribe
+  base: https://pub-jeffco.escribemeetings.com
+  html: true
+  bodies: Commissioners|Planning Commission
+- id: garfield-county
+  name: Garfield County
+  county: Garfield
+  adapter: escribe
+  base: https://pub-garfield.escribemeetings.com
+  html: true
+  bodies: Commissioners|Planning Commission
+- id: huerfano-county
+  name: Huerfano County
+  county: Huerfano
+  adapter: civicclerk
+  tenant: huerfanoco
+- id: telluride
+  name: Telluride
+  county: San Miguel
+  adapter: civicweb
+  base: https://telluride.civicweb.net
+- id: cortez
+  name: Cortez
+  county: Montezuma
+  adapter: destiny
+  base: https://public.destinyhosted.com/agenda_publish.cfm?id=26783
+- id: granby
+  name: Granby
+  county: Grand
+  adapter: destiny
+  base: https://public.destinyhosted.com/47262/agenda/

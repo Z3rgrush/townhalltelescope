@@ -33,11 +33,13 @@ def civicweb(src, start, end, log):
             body = text
         elif body and "/filepro/documents/" in href and re.search(r"agenda|minute|summar", text, re.I):
             folders.append((body, href))
-        elif body and "MeetingInformation.aspx?Id=" in href and bodies.search(body):
-            # The list shows each body's three most recent meetings.
+        elif "MeetingInformation.aspx?Id=" in href:
+            # The list shows each body's three most recent meetings. Newer portals (Summit County) head each
+            # body with its latest meeting instead of a type link, so the body is the title before the date.
+            name = body or text.split(" - ")[0]
             d = find_date(text)
-            if _in_window(d, start, end):
-                meetings[href] = (body, text, d)
+            if bodies.search(name) and _in_window(d, start, end):
+                meetings[href] = (name, text, d)
     # Some portals (Douglas County) file agendas and minutes in top-level folders not tied to a body.
     folders += [("County Commission", urljoin(base + "/", f)) for f in src.get("folders", [])]
     seen = set()
@@ -90,6 +92,37 @@ def _civicweb_folder(base, url, years, depth):
             text in years or re.match(rf"({'|'.join(['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec'])})", text, re.I)
         ):
             yield from _civicweb_folder(base, href, years, depth + 1)
+
+
+def destiny(src, start, end, log):
+    """Destiny Hosted Agendas (AgendaQuick): one listing per month, each meeting's agenda an HTML page."""
+    base = src["base"]
+    months, m = [], date(start.year, start.month, 1)
+    while m <= end:
+        months.append(m)
+        m = date(m.year + m.month // 12, m.month % 12 + 1, 1)
+    seen, n = set(), 0
+    for m in months:
+        if "agenda_publish.cfm" in base:
+            url = f"{base}&mt=ALL&get_month={m.month}&get_year={m.year}"
+        else:
+            url = f"{base.rstrip('/')}/default.cfm?mt=ALL&month={m.month}&year={m.year}"
+        page, final = soup(url)
+        for a in page.find_all("a", href=True):
+            href = urljoin(final, a["href"])
+            if not re.search(r"dsp=ag&|agenda\.cfm\?seq=", href) or href in seen:
+                continue
+            seen.add(href)
+            label = a.get("title") or a.get_text(" ", strip=True)
+            row = a.find_parent("tr")
+            d = find_date(label, row.get_text(" ", strip=True) if row else "")
+            if not _in_window(d, start, end):
+                continue
+            body = re.search(r"for (.+?) \(", label)
+            body = body.group(1) if body else (row.find_all("td")[1].get_text(" ", strip=True) if row and len(row.find_all("td")) > 1 else "Meeting")
+            n += 1
+            yield Doc(src["id"], body, d, f"{body} - Agenda", href, "agenda")
+    log(f"  {n} agendas in window")
 
 
 def civicclerk(src, start, end, log):
@@ -454,5 +487,5 @@ def onbase(src, start, end, log):
     log(f"  {n} documents in window from {len(pages)} page(s)")
 
 
-ADAPTERS = {f.__name__: f for f in (civicweb, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
+ADAPTERS = {f.__name__: f for f in (civicweb, destiny, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
                                     cablecast, wp_events, granicus, onbase)}

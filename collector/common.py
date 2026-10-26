@@ -62,6 +62,8 @@ _PATTERNS = [
     (re.compile(rf"\b({MONTHS})[a-z]*\.?[\s_-]+(\d{{1,2}})(?:st|nd|rd|th)?,?[\s_-]+(20\d\d)", re.I), "Mdy"),
     (re.compile(rf"\b(\d{{1,2}})[\s_-]+({MONTHS})[a-z]*\.?,?[\s_-]+(20\d\d)", re.I), "dMy"),
     (re.compile(r"(?<!\d)(\d{1,2})[-_.](\d{1,2})[-_.](\d{2})(?!\d)"), "mdyy"),
+    # File names that start with MMDDYY (Fountain's "102726-City-Council-Agenda.pdf").
+    (re.compile(r"(?:^|/)(\d{2})(\d{2})(\d{2})[-_][A-Za-z]"), "mdyy"),
 ]
 
 
