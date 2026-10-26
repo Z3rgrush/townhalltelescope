@@ -212,7 +212,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
       ? `<b>${H().title}</b><br>` + (H().sites
           ? [["--hl", `site is in this ${one}`], ["--hl-soft", "a local government here discussed one"], ["--off", "none found"]]
           : [["--hl", "a local government here discussed it"], ["--off", "none found"]])
-          .filter(([v]) => v !== "--hl" || siteCount()).map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>")
+          .filter(([v]) => v !== "--hl" || !H().sites || siteCount()).map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>")
       : "<b>Meetings covering top issues</b><br>" + [["--z0", "no records yet"], ["--z1", `1–${b2 - 1}`], ["--z2", `${b2}–${b3 - 1}`], ["--z3", `${b3}–${b4 - 1}`], ["--z4", `${b4}+`]]
           .map(([v, t]) => `<i style="background:${css(v)}"></i>${t}`).join("<br>");
   };
@@ -319,7 +319,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
     const c = pick.value, topics = countyData.counties[c]?.topics || {};
     // Outline the county on the map (drawn by county while this tab is open).
     if (unit === "county" && layers[c]) { selected = c; layer.setStyle(style); layers[c].bringToFront(); }
-    const entries = Object.entries(topics);
+    const entries = Object.entries(topics).slice(0, 20);  // already sorted, biggest first
     const box = document.getElementById("cloud");
     if (!entries.length) {
       box.innerHTML = `<p class="empty">No topics yet: none of ${esc(c)} County's local governments have records collected.</p>`;
@@ -339,7 +339,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
     if (!topics[cloudTopic]) cloudTopic = null;
     document.getElementById("topic-issues").innerHTML = cloudTopic
       ? `<div class="zip-head"><h2>${esc(cloudTopic)}</h2></div>` + topics[cloudTopic].issues.map(card).join("")
-      : `<p class="empty">${entries.length} topics came up in ${esc(c)} County.</p>`;
+      : `<p class="empty">The ${entries.length} topics that came up most in ${esc(c)} County.</p>`;
     history.replaceState(null, "", "#topics/" + slug(c) + (cloudTopic ? "/" + slug(cloudTopic) : ""));
   };
   pick.addEventListener("change", () => { cloudTopic = null; drawCloud(); });
