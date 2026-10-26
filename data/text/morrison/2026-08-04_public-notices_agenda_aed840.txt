@@ -1,0 +1,767 @@
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+TOWN OF MORRISON, COLORADO
+BOARD OF TRUSTEES
+ORDINANCE NO.  ____
+AN ORDINANCE REPEALING AND REENACTING TITLE 8 OF THE MORRISON
+MUNICIPAL CODE REGARDING WATER AND SEWER REGULATIONS
+WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under
+a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado
+Constitution and governed by its elected Board of Trustees;
+WHEREAS, the Board has authority pursuant to the Home Rule Charter and C.R.S. §
+31-16-101, et seq. to adopt and enforce all ordinances;
+WHEREAS, the Board recently amended Titles 8 and 10 to include water conservation
+standards and prohibit certain landscaping standards in accordance with C.R.S. § 37-99-101, et
+seq.; and
+WHEREAS, the Board now desires to repeal and replace Title 8 to clarify all water and
+sewer requirements.
+NOW, THEREFORE, BE IT ORDAINED by the Board of Trustees of the Town of
+Morrison, Colorado:
+Section 1. Title 8 of the Morrison Municipal Code is hereby repealed in its entirety
+and reenacted as follows:
+TITLE 8 WATER AND SEWER
+CHAPTER 1 GENERAL PROVISIONS
+8-1-1: PURPOSE AND APPLICABILITY
+This Chapter establishes general provisions for all Town utilities and applies to all Town
+provided water and sewer service.
+8-1-2: DEFINITIONS:
+AIR GAP: A physical separation between the free-flowing discharge end of a potable water
+supply pipeline and an open or non-pressure receiving vessel installed in accordance with
+standard ASME A112.1.2.
+BACKFLOW: The undesirable reversal of flow of water or mixtures of water and other
+liquids, gases or other substances into the Town water system from any source other than
+its intended source.
+BACKFLOW CONTAMINATION EVENT: Backflow into the Town water system from
+an uncontrolled cross connection such that the water quality no longer meets the Colorado
+Primary Drinking Water Regulations or presents an immediate health or safety risk to the
+public.
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+BACKFLOW PREVENTION ASSEMBLY: Any mechanical assembly installed at a water
+service line or at a plumbing fixture to prevent a backflow contamination event, provided
+that the mechanical assembly is appropriate for the identified contaminant at the cross
+connection and is an in-line field-testable assembly.
+BACKFLOW PREVENTION METHOD: Any method or non-testable device installed at
+a water service line or at a plumbing fixture to prevent a backflow contamination event,
+provided that the method or non-testable device is appropriate for the identified
+contaminant at the cross connection.
+CERTIFIED CROSS-CONNECTION CONTROL TECHNICIAN: A person who
+possesses a valid and current Backflow Prevention Assembly Tester certification in
+accordance with Regulation No. 11 Colorado Primary Drinking Water Regulations from
+one of the following approved organizations: American Society of Sanitary Engineering
+(ASSE) or the American Backflow Prevention Association (ABPA), or Association of
+Boards Certification (ABC). The process for certification must include successful
+completion of an examination administered by one of the approved organizations. 
+CONTAINMENT: The installation of a backflow prevention assembly or a backflow
+prevention method at any connection to the Town water system that supplies an auxiliary
+water system, location, facility, or area such that backflow from a cross connection into
+the Town water system is prevented.
+CONTROL MANHOLE: A manhole giving access to a building sewer at some point
+before the building sewer discharge mixes with other discharges in the public sewer
+system.
+CONTROLLED: A properly installed, maintained, and tested or inspected backflow
+prevention assembly or backflow prevention method that prevents backflow through a
+cross connection.
+CROSS CONNECTION: Any connection that could allow any water, fluid, or gas such
+that the water quality could present an unacceptable health or safety risk to the public, to
+flow from any pipe, plumbing fixture, or a user's water system into a public water system's
+distribution system or any other part of the Town water system through backflow.
+DIRECTOR OF PUBLIC WORKS: The individual designated by the Town to serve as
+Director of Public Works or such person's authorized designee.
+EQUIVALENT RESIDENTIAL UNIT (EQR): A standardized unit of measure established
+by resolution of the Board of Trustees for the purpose of estimating or allocating water
+usage, wastewater generation, system demand, capacity, or utility charges based upon the
+characteristics of a typical single family dwelling.
+FEES: Fees shall include a sewer system development fee, water system development fee,
+water resource fee, water service fee, connection inspection fee, and application fees in
+amounts established by resolution of the Board of Trustees and all costs related to water or
+sewer connection.
+GRAYWATER: The portion of wastewater collected from bathroom and laundry room
+sinks, bathtubs, showers, and laundry machines (but excluding wastewater from toilets,
+urinals, kitchen sinks, dishwashers, or nonlaundry utility sinks) in residential, commercial
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+or industrial buildings or institutional facilities before treatment or combination with other
+wastewater to be put to beneficial uses, as defined by Regulation 86 of the Colorado Water
+Quality Control Commission, Colorado Department of Public Health and Environment (5
+CCR 1002-86, June 30, 2015), as amended.
+GRAYWATER SYSTEM: An arrangement of devices and structures used to: (a) collect
+graywater from within a building or a facility; and (b) treat, neutralize, or stabilize
+graywater within the same building or facility.
+IRRIGATION: The outdoor application of water for any purpose and by any means except
+hand watering.
+IRRIGATION TAP: A water tap issued and used for the primary purpose of irrigation.
+MULTIFAMILY: A residential structure or development containing two (2) or more
+dwelling units.
+NON-POTABLE OR RAW WATER: Water that is not intended or approved for human
+consumption and that does not meet applicable drinking water quality standards for potable
+use.
+PERMIT: Written permission by the Town to connect to the public water or sewer main in
+the Town.
+POTABLE WATER: Water supplied by the Town that is intended for human consumption
+and other domestic uses and that complies with applicable drinking water quality standards.
+SANITARY SEWER: A sewer that conveys domestic, commercial, and industrial
+wastewater and to which storm, surface and ground waters are not intentionally admitted.
+SERVICE LINES: The pipe, conduit, fittings, valves, connections, and associated
+appurtenances extending from a public water or sewer main to serve an individual property,
+building, or user.
+SEWAGE: Any liquid waste containing animal or vegetable matter in suspension or
+solution from residences, commercial and business buildings, institutions and industrial
+establishments.
+SEWER MAIN: The principal gravity or pressure conveyance pipe of the Town’s sewer
+collection system to which service lines may be connected. Except as otherwise provided
+herein, the Town shall own, operate, and maintain all sewer mains, which must be located
+within dedicated public rights-of-way or easements. A special district may assume
+ownership and maintenance duties only upon written approval of the Board of Trustees.
+SEWER SYSTEM DEVELOPMENT FEE: A fee imposed by the Town related to the
+value, equity, and investment in the sewer system and facilities and future expansion
+requirements.
+SEWER TAP OR CONNECTION: The physical connection of a building sewer or service
+line to a public sanitary sewer main, including all fittings, appurtenances, and physical
+connection components required for service.
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+SINGLE FAMILY DWELLING: A residential dwelling unit intended for occupancy by
+one household and served by a separate water service line or separate sewer service line,
+as applicable. 
+TOWN ENGINEERING STANDARDS: The Town’s current standards, specifications,
+policies, criteria, and design requirements governing the planning, design, construction,
+installation, testing, inspection, and acceptance of water and sewer systems and related
+improvements, as adopted, amended, or approved by resolution of the Board of Trustees.
+UNCONTROLLED: Not having a properly installed, maintained and tested or inspected
+backflow prevention assembly or backflow prevention method, or the backflow prevention
+assembly or backflow prevention method does not prevent backflow through a cross
+connection.
+USER: Any person, firm, corporation or government agency to whom water or sewer
+service is supplied by the Town.
+WATER MAIN: The principal arteries of the water system to which the service lines may
+be connected. Except as otherwise provided herein, the Town shall own, operate, and
+maintain all water mains, which must be located within dedicated public rights-of-way or
+easements. A special district may assume ownership and maintenance duties only upon
+written approval of the Board of Trustees.
+WATER RESOURCE FEE: A fee imposed by the Town related to the acquisition costs,
+development costs, current value, and investment in the Town's water rights.
+WATER SERVICE FEE: A fee or charge imposed for water service including
+consumption-based charges, base charges, and other charges established by resolution of
+the Board of Trustees.
+WATER SUPPLY SYSTEM: A water distribution system, piping, connection fittings,
+valves and appurtenances within a building, structure, or premises. Water supply systems
+are also referred to commonly as premises' plumbing systems.
+WATER SYSTEM DEVELOPMENT FEE: A fee imposed by the Town related to the
+value, equity, and investment in the water system and facilities and future expansion
+requirements.
+WATER TAP OR CONNECTION: The physical act of connecting a service line to the
+Town water main, or the connection so created. The term includes the corporation stop,
+curb stop valve, meter pit, service pipe, and any other appurtenances necessary to convey
+water from the Town’s main to the user’s premises.
+WILL SERVE LETTER: A written determination issued by the Town stating that the Town
+has available and adequate water or sewer service capabilities to serve the property and
+proposed development and to what extent. A will serve letter does not constitute a
+development approval, vested property right, or guarantee of utility service beyond the
+terms and duration stated in the letter.
+8-1-3: APPLICATION FOR SERVICE:
+A. Application Submittal and Approval:
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+1. Applications for water or sewer service shall be submitted to the Town
+Clerk on forms provided by the Town and include all applicable fees. Applications shall
+not be processed until determined complete by the Director of Public Works.
+2. New service shall only be approved upon compliance with this Title and
+when sufficient water supply and water and sewer infrastructure are available to support
+the service. The Town may defer approval of applications, permits, taps, or service
+connections until adequate utility capacity and infrastructure are available.
+3. New users shall bear all costs related to the new service, including all fees
+established herein, the Town’s review costs, and the cost of all physical improvements and
+appurtenances required to connect to and receive service from the Town’s water or sewer
+system.
+4. Applications for in-Town service shall be reviewed and approved by the
+Director of Public Works. Except for extraterritorial service, the Town shall only consider
+applications for water or sewer service concurrent with a development approval that
+adequately demonstrates the feasibility of the development and the anticipated impact of
+the development on the Town's water and sewer system and capacity.
+5. Applications for extraterritorial service shall be reviewed by the Director of
+Public Works and approved by the Board of Trustees. Applications shall include a
+feasibility study, prepared on behalf of the applicant by a licensed professional engineer,
+at the applicant’s expense, in form and content acceptable to the Director of Public Works.
+The feasibility study shall address projected demand, system capacity, infrastructure
+improvements, phasing, estimated costs, funding source, long-term operations and
+maintenance, replacement obligations, and any other information required by the Director
+of Public Works. Extraterritorial service is discretionary and shall only be approved upon
+a determination that adequate utility capacity exists, all capital, operational, maintenance,
+and replacement costs attributable to the service will be fully recovered, and substantial
+additional benefits are provided to the Town beyond the requirements of this Title.
+6. When changes to an existing building require the issuance of a new building
+permit, the Director of Public Works shall determine whether the proposed changes will
+increase water consumption, wastewater generation, utility system demand, or required
+utility capacity beyond that associated with the existing EQR allocation for the property. If
+the Director of Public Works determines that such increase will occur, the application shall
+be treated as an application for new service and shall be subject to all requirements
+applicable to new service, including any additional EQRs, fees, or improvements required
+by the Town.
+7. All improvements shall be designed and constructed in accordance with this
+Code, the Town Engineering Standards, all applicable rules, regulations, and requirements
+of the Colorado Department of Public Health and Environment, and any other applicable
+federal, state, or local law, and shall be subject to review and inspection by the Town.
+8. Water and sewer infrastructure intended for public service shall be
+dedicated to the Town upon completion and acceptance, unless ownership, operation, and
+maintenance of such infrastructure are assumed by an approved quasi-municipal district.
+B. Service Agreement:
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+1. A service agreement, on forms provided by the Town, shall be required
+prior to water or sewer service for all users unless explicitly waived by the Town.
+2. The Town may require applicants to provide financial security, including
+bonds, letters of credit, escrowed funds, or other acceptable guarantees when construction
+of public utility improvements are required.
+C. Will Serve Letter
+1. No final plat, site plan, building permit, or other development approval that
+would authorize the construction of a structure requiring Town water or sewer service shall
+be approved unless the applicant has first obtained a will serve letter from the Director of
+Public Works confirming that adequate water and sewer service is available to serve the
+proposed development or unless agreed to by separate service agreement by the Board of
+Trustees.
+2. Will serve letters and all rights granted therein shall expire twenty-four (24)
+months from date of issuance unless a building permit has been issued for the property.
+The Director of Public Works may extend such period based on a demonstration that the
+development has been actively pursued and utility capacity remains available.
+3. Upon expiration, the will serve letter shall be deemed void and of no further
+force or effect, and the applicant shall be required to obtain a new will serve letter subject
+to the requirements herein. 
+8-1-4: VIOLATION AND PENALTIES:
+A. Compliance Required: All users shall comply with this Title and the requirements
+of any service agreement.
+B. Right to Inspect: The Town shall have the right at all reasonable times to access
+and inspect any user's premises and utility facilities to ensure compliance with this Title.
+C. Compliance Orders: The Director of Public Works shall have the authority to issue
+written compliance orders requiring corrective actions within a specified timeframe, which
+shall be binding upon the user.
+D. Penalties:
+1. In addition to all rights available to the Town at law or equity, any person
+who violates any provision of this Title shall be subject to penalty as provided in Section
+1-4-1 of this Code.
+2. In addition to such penalties, the Town may shut off or disconnect any water
+or sewer service of any user who violates any of the provisions of this Title upon ten (10)
+days prior notice. Notwithstanding the foregoing, the Town may immediately suspend or
+discontinue water or sewer service without prior notice where necessary to protect public
+health, safety, the environment, or the integrity of the utility system.
+3. A violation of this Title, a wastewater discharge permit, or order issued
+thereunder is hereby declared a public nuisance and shall be subject to the abatement and
+cost recovery provisions in Title 5 of the Morrison Municipal Code.
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+4. The Town shall be entitled to recover from the property owner all costs
+incurred by the Town in enforcing this Title, including reasonable attorney and consultant
+fees, administrative costs, engineering fees, repair costs, and interest as permitted by law.
+5. Each day a violation continues shall constitute a separate violation.
+E. Remedies Cumulative: The remedies provided herein are cumulative and not
+exclusive. The Town may pursue any remedy available at law or equity and may pursue
+multiple remedies simultaneously or consecutively.
+F. Town Disclaimer: The Town shall not be liable for any claims or damages arising
+from the water or sewer system or service.
+CHAPTER 2 WATER SYSTEM
+8-2-1: PURPOSE AND APPLICABILITY:
+A. Purpose: The purpose of this Chapter is to promote the public health, safety, and
+welfare by requiring water conservation while facilitating orderly growth and exceptional
+water service and protecting the Town's water system from contaminants or pollutants that
+could enter the distribution system by backflow from a user's water supply system through
+the service connection.
+B. Applicability: This Chapter shall apply to all water users, whether inside or outside
+the Town, unless specifically exempted herein or pursuant to a written agreement approved
+by the Board of Trustees.
+8-2-2: WATER USE REQUIREMENTS:
+A. Authorized Use: All water use shall be limited to the specific property and user to
+which it was authorized by the Town. 
+B. Cross Connections: Cross connections between the Town water system and other
+lines shall be prohibited. 
+C. Pressure Systems: No pumps or storage tanks, except a hot water storage tank no
+larger than three hundred twenty (320) gallons, shall be installed in plumbing systems
+except with prior written approval of the Town and the payment of a 10 percent system
+development fee surcharge. The Town may require a user to have a pressure regulating
+valve, a backflow prevention valve, or both, the cost and installation of which shall be the
+responsibility of the user.
+D. Yard Hydrant Connections: No outside faucet or yard hydrant shall connect directly
+to any service line. A curb stop must be installed in the line immediately upstream of the
+hydrant. All yard hydrants must be a certified freeze-proof design.
+E. Fire Hydrants: No user shall use water from fire plugs except for the extinguishment
+of fires by the fire department or upon prior written approval of the Town.
+F. Water Waste: No user shall waste water. Watering of hard surfaces in any manner
+shall be prohibited.
+G. Irrigation Taps: The Town shall not issue any irrigation taps except as expressly
+approved by the Board of Trustees in a water service agreement and when the user proposes
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+substantial benefits to the Town not otherwise required by this Code including additional
+water conservation measures.
+H. Irrigation Hours: Irrigation shall be prohibited between the hours of 10 a.m. and 6
+p.m. daily to reduce evaporation loss.
+I. Consumptive Limits: Maximum water consumption limits shall be established by
+resolution of the Board of Trustees, which may include tiered rates, higher service fees, or
+other charges for water use that exceeds the maximum consumption limit. Where metered
+consumption is greater than the maximum consumption limit for three consecutive months
+or six months in a 12-month period, the Town shall treat such use as an application for
+new service, and the property shall be subject to all requirements applicable to new service,
+including payment of additional Water Resource and System Development fees, and
+improvements required by the Town unless the user demonstrates to the satisfaction of the
+Director of Public Works that the exceedance is temporary and does not represent a
+permanent increase in demand.
+J. Mandatory Connection: All new development shall connect to the Town's water
+system except for development that does not require water service. No new individual wells
+may be drilled or existing wells replaced, redrilled, or cross connected to the Town system
+without the express written consent of the Town.
+K. System Protection and Tampering: No person shall trespass upon, contaminate,
+introduce any contaminant into, damage, tamper with, bypass, or otherwise interfere with
+the operation of any of the Town’s water facilities, sources, treatment works, distribution
+system, meters, monitoring devices, testing equipment, backflow prevention assemblies,
+or related appurtenances. No person shall knowingly make any false statement,
+representation, or certification relating to utility service, compliance data, or any required
+report. Any violation of this section is a violation of this Title. Such acts may also constitute
+a federal felony under the Safe Drinking Water Act, 42 U.S.C. § 300i-1. The Town may
+immediately suspend or discontinue utility service and will aggressively pursue any
+remedy available at law or in equity, including referring violators to federal and state law
+enforcement agencies.
+8-2-3: WATER SERVICE CONNECTIONS:
+A. Cost Responsibility: All costs and fees related to the installation, connection, and
+service of water shall be borne by the user.
+B.  Individual Service Lines:
+1. Each user shall own and be responsible for the construction, maintenance,
+repair, and replacement of the service line serving the property. The service line shall be
+deemed to begin at the corporation stop valve at the Town water main, downstream of the
+Town’s main, and shall include all piping, fittings, and appurtenances necessary to convey
+water to the user’s premises.
+2. Leaks or breaks in the service line shall be repaired by the property owner
+within twenty-four (24) hours from notification by the Town unless the Town grants an
+extension due to exigent circumstances. The Town may undertake emergency repairs
+necessary to protect public health, safety, or the water system and the property owner shall
+be responsible for the payment of all associated costs.
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+3. Every primary use in the Town shall be supplied with water through a single
+service line connected to the Town distribution system except for a hotel, motel,
+multifamily dwelling, or other multi-tenant use under single ownership and operated as an
+integrated unit as determined by the Director of Public Works. Accessory dwelling units
+may share a service line with the primary dwelling on the property; provided that where
+the primary dwelling is served by an existing service line, the applicant shall submit design
+documentation, prepared in accordance with the Town Engineering Standards and this
+Code, demonstrating to the satisfaction of the Director of Public Works that the existing
+service line, meter, and related appurtenances will provide adequate flow, pressure, and
+utility capacity to serve the primary and accessory dwelling units. If the Director of Public
+Works determines that the existing service line is insufficient or that additional utility
+capacity is required, the applicant shall obtain such improvements, upgrades, or additional
+service as the Town deems necessary.
+4. In the event that any premises receiving water from the Town is
+subsequently divided into separate ownership, each owner shall have a separate water
+service line, and each additional user shall pay all applicable water system development
+fees, water resource fees, and any other fees, charges, or improvements established herein
+or required by the Town.
+C. Specifications: All materials, equipment, and installations shall be in accordance
+with the Town Engineering Standards, adopted building codes, and all applicable federal,
+state, and local laws, rules, regulations, codes, standards, and permit requirements. Service
+line installation shall be inspected and approved by the Director of Public Works prior to
+backfill and use. All taps and corporation stop installations shall be inspected by the
+Director of Public Works prior to connection of the service line. The Director of Public
+Works must approve the tapping of a Town water main prior to installation or connection.
+D. Meters:
+1. Water meters shall be installed prior to water service and replaced as
+deemed necessary by the Town. All new meters installed in the Town shall be smart meters
+and installed by the Town in such manner and location as determined by the Director of
+Public Works.
+2. Water meters and their components shall be the property of the Town.
+3. Users shall notify the Town immediately if they observe physical damage,
+leaks, or a total failure of a water meter to register consumption on their bill. If any meter
+fails to register or operates defectively during any billing period, the Town shall estimate
+the consumption for that period based on the user's historical average use during a similar
+seasonal timeframe. If the Town determines that the defective meter, inaccurate reading,
+or failure to register was caused by tampering, bypass, damage, interference, or other
+unauthorized manipulation, the Town may bill the user for estimated or actual usage as
+determined by the Town, assess any applicable fees or penalties, and take any other action
+authorized under this Title or applicable law.
+4. All costs for materials and labor relating to the installation, repair or
+replacement of meters shall be paid for by the user.
+8-2-4: BACKFLOW PREVENTION AND CROSS-CONNECTION CONTROL:
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+A. Applicability: All service connections, except for fire sprinkler systems where the
+installation of a backflow prevention assembly or method will compromise the integrity of
+the system as determined by the Director of Public Works, shall be inspected and approved
+by the Town in accordance with this section prior to operation.
+B. Cost Responsibility: All costs and fees related to the installation, connection, and
+service of backflow prevention and cross-connection control shall be borne by the user.
+C. Requirements:
+1. Commercial, industrial, and multifamily service connections shall be
+subject to a cross-connection survey in accordance with Town requirements. If a cross
+connection is identified, the user shall immediately implement any interim protective
+measures required by the Director of Public Works and shall correct the condition within
+the time period established by the Director of Public Works, which may be shorter than
+thirty (30) days where necessary to protect public health or the Town water system. Cross
+connections shall be controlled by the installation of an approved backflow prevention
+assembly or method at the user’s water service connection, installed downstream of the
+water meter or as close to that location as deemed practical by the Town.
+2. In no case shall it be permissible to have connections or tees between the
+meter and the backflow prevention assembly. In instances where a reduced pressure
+principle backflow preventer cannot be installed, the owner must install approved backflow
+prevention assemblies or methods at all cross-connections within the owner's plumbing
+system.
+3. Backflow prevention assemblies and methods shall be installed in a location
+which provides access for maintenance, testing, and repair.
+4. Reduced pressure principle backflow preventers shall not be installed in a
+manner subject to flooding.
+5. Adequate drainage shall be provided for water discharged from reduced
+pressure principle backflow prevention assemblies. The discharge must be conveyed in a
+manner that does not impact waters of the State.
+6. All assemblies and methods shall be protected from freezing. Assemblies
+and methods used for seasonal services may be removed instead of protected from freezing,
+but they must be reinstalled and tested by a certified cross-connection control technician
+before the service resumes. 
+7. When a backflow prevention assembly or method is installed on a water
+supply system with storage water heating equipment, and thermal expansion may increase
+pressure, a pressure control device shall be installed.
+8. All backflow prevention assemblies and methods shall be inspected and
+tested upon installation and annually thereafter by a certified cross-connection control
+technician. Test reports shall be kept for a minimum of three (3) years and available upon
+request by the Town. 
+9. Users shall be responsible for the inspection, testing, maintenance, repair,
+and replacement of all backflow prevention assemblies, methods, and required installations
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+within the owner’s plumbing system when containment assemblies or methods cannot be
+installed.
+10. The Town may require protection by an air gap or reduced pressure zone
+backflow prevention assembly when deemed necessary by the Director of Public Works.
+D. Enforcement: In addition to the penalties in Section 8-1-4, the Town, upon a
+reasonable belief of a violation of this section, may take any action necessary to protect the
+Town's water system including ordering the cross connection to be controlled through the
+installation of an approved backflow prevention assembly or method, ordering the removal
+of the cross connection, and suspending or discontinuing water service to the property.
+8-2-5: RAW WATER SYSTEMS:
+A. Policy: The Town encourages the use of raw water systems to service outdoor
+watering needs.
+B. Requirements:
+1. Raw water irrigation systems shall be completely separate and independent
+from the Town’s potable water system. Under no circumstances shall the raw water system
+be physically connected, cross-connected, valved, or otherwise capable of interconnection
+with the potable water system.
+2. Raw water piping, valves, appurtenances, and service lines shall be entirely
+separate from potable water infrastructure and shall not share piping, fittings, or service
+connections.
+3. All raw water lines and appurtenances shall be clearly identified and
+color-coded (bright purple) in accordance with industry standards and labeled “NON-
+POTABLE – DO NOT DRINK.”
+4. Where potable water is used to supplement irrigation or where any potential
+hazard exists, the two systems must remain physically separated either by physical air gap
+meeting state criteria or a Reduced Pressure Zone (RP) Assembly shall be installed as
+required by the Town.
+C. Emergency Enforcement and Termination: Any physical connection, valve
+interconnection, or cross-connection discovered between the Town's potable water system
+and a raw water system constitutes an immediate threat to public health and safety. Upon
+discovery of such a violation, the Town is authorized to immediately terminate water
+service to the property without prior notice. Service shall not be restored until the illegal
+connection is physically cut out and capped, the potable system is flushed and tested for
+contamination, and the owner pays all associated emergency disconnection and inspection
+costs.
+8-2-6: WATER FEES:
+A. Fees Established: There is hereby established a water system development fee,
+water resource fee, water service fee, disconnection fee, and connection inspection fee for
+all users in amounts established by resolution of the Board of Trustees. 
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+B. Water Hauling Facilities: Only upon the prior written approval of the Town, any
+facility providing water which is to be transported to another location for use must be a
+metered usage and subject to the applicable water service fee.
+C. Out of Town Users: All water fees to users living outside Town limits shall be
+computed at one and seventy-five hundredths (1.75) times the rate charged to in-Town
+users. The Town may require additional extraterritorial fees as established by agreement
+of the Board of Trustees.
+D. Increase in Use: The Town, based upon a review of metered usage and evidence of
+expanded use, increased occupancy, change in use, or materially increased demand, beyond
+the original EQR purchase or allocation, may inspect a user's premises to determine if a
+reasonable basis exists to assess the system development or water resource fees on the
+property. Upon determining that fees should be increased, the Town shall provide written
+notice at least 10 days prior to the new fee being assessed and provide an opportunity to
+appeal the assessment. The Director of Public Works shall only overturn the assessment
+upon a demonstration by the user that the property’s metered usage is immediately returned
+to, and maintains levels consistent with the approved use and applicable consumption
+limitations.
+E. Noncontinuous Service: All users must continuously pay for water service
+regardless of the occupancy status of the property.
+F. Disconnection: A user may request to disconnect from the Town's water system
+when such disconnection will not adversely affect the water system. Any user who is
+disconnected from the Town water system and seeks to reconnect must apply for new water
+service in accordance with this Title and pay all costs associated with disconnection of the
+water service including a disconnection fee.
+G. Property Owner Responsible: The property owner shall be liable for all charges for
+water service to the property, including all costs reasonably necessary to design, install,
+connect, inspect, and place into service the water service line and related appurtenances,
+together with all applicable fees established by the Town.
+8-2-7: NONTRIBUTARY GROUND WATER:
+A. Ground Water Underlying Lands: All nontributary ground water, including the
+Dawson, Denver, Arapahoe, Laramie-Fox Hills and Dakota aquifers underlying or which
+may underlie lands included within the Town as of November 6, 1985, is hereby
+incorporated into the municipal water system of the Town.
+B. Drilling and Extraction Prohibited: No person may drill a water well, install a well
+casing or pump, or extract or divert water from any water well within the Town without
+the Town’s prior written consent. This section does not apply to water wells constructed
+by or under the direction of the Town.
+8-2-8: EMERGENCY WATER RESTRICTIONS:
+A. Declaration and Restrictions: The Town Manager shall have the authority to declare
+a water emergency and impose restrictions on users including:
+1. Limiting outdoor water use to certain days or hours or eliminating outdoor
+water use including car washing and cleaning of any hard surfaces.
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+2. Limiting or eliminating water use for dust control or other industrial or
+commercial uses.
+3. Limiting or eliminating operation of commercial car washes.
+4. Reducing maximum rates of consumption.
+5. Imposing additional surcharges for use in excess of consumption
+limitations. 
+B. Criteria: The Town Manager shall consider the following criteria in imposing
+restrictions:
+1. Adequacy of current and projected raw and treated water supply.
+2. Current and projected water demand.
+3. Current and projected supply in storage.
+4. Relative health and safety impacts of limitation and restrictions among uses.
+5. Drought conditions and severity in the region.
+C. Notice: The Town Manager shall provide prompt and reasonable notice of any
+water restrictions by posting the notice on the Town's website and such other notice as
+deemed reasonable.
+CHAPTER 3 SEWER SYSTEM
+8-3-1: PURPOSE AND APPLICABILITY:
+A. Purpose: The purpose of this Chapter is to promote the public health, safety, and
+welfare by facilitating orderly growth, protecting the Town’s wastewater collection and
+treatment systems, preventing the introduction of pollutants or prohibited discharges that
+may interfere with the sewer system, and protecting the environment and public
+infrastructure from damage or contamination.
+B. Applicability: This Chapter shall apply to all sewer users, whether inside or outside
+the Town, unless specifically exempted herein or pursuant to a written agreement approved
+by the Board of Trustees.
+8-3-2: SEWER USE REQUIREMENTS:
+A. Prohibited Discharges to System:
+1. No person shall discharge or cause to be discharged any stormwater, surface
+water, ground water, or unpolluted industrial process water to any sanitary sewer.
+2. No person shall discharge or cause to be discharged into any public sewer,
+any harmful waters or wastes, whether liquid, solid, or gas, capable of causing obstruction
+to the flow in sewers, damage or hazard to structures, equipment and personnel of the
+sewage works, or other interference with the proper operation of the sewer system
+including substances that:
+a. Creates a fire or explosion hazard;
+b. Has a pH less than 5.0 or greater than 12.0, or is otherwise corrosive;
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+c. Contains solid or viscous substances in amounts capable of causing
+obstruction;
+d. Contains toxic gases, vapors, or fumes creating acute worker safety hazards;
+e. Causes excessive heat such that the wastewater treatment process is
+inhibited;
+f. Causes pass through, interference, or operational upset at the treatment
+works;
+g. Contains petroleum oil, nonbiodegradable cutting oils, or products of
+mineral oil origin in amounts causing interference;
+h. Contains pollutants resulting in noncompliance with sludge use or disposal
+requirements.
+3. The admission into the public sewer of any waters or wastes having harmful
+or objectionable characteristics shall be subject to the review and approval of the Town,
+who may prescribe limits on the strength and character of these substances. Where
+necessary, at the discretion of the Town, the owner shall provide at their expense,
+preliminary treatment mechanisms to treat wastes prior to discharge to the public sewer as
+approved by the Director of Public Works.
+4. All industrial, commercial, and non-domestic users discharging to the
+Town’s wastewater system shall comply with all applicable federal pretreatment
+requirements, including 40 C.F.R. Part 403, all applicable categorical pretreatment
+standards, the Colorado Department of Public Health and Environment Pretreatment
+Regulations (5 CCR 1002-63), and all other applicable federal, state, or local laws.
+5. Where the Town determines that a discharge may adversely affect the
+Town’s sewer system, treatment works, receiving waters, or compliance obligations, the
+Town may impose additional monitoring, pretreatment, operational, or discharge
+requirements as reasonably necessary to protect the public health, safety, welfare,
+environment, and utility infrastructure.
+6. The Town may immediately suspend any industrial discharge permit or
+sewer service whenever such suspension is necessary to stop an actual or threatened
+discharge presenting imminent danger to persons, the environment, the sewer system, or
+treatment facilities.
+B. Control Manhole Required:
+1. When required by the Town, any industrial or commercial user shall install
+and maintain, at their sole expense, a suitable control manhole or monitoring facility to
+facilitate the inspection, sampling, and flow measurement of wastewater discharges. The
+control manhole must be located on the user’s property, downstream of all pretreatment
+systems, and upstream of any point where the industrial wastewater mixes with domestic
+sanitary waste or other building discharges. The facility shall be designed and constructed
+in accordance with Town Engineering Standards, shall provide safe and unrestricted access
+to Town inspectors at all times, and shall serve as the official compliance point for
+industrial pretreatment permit sampling. 
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+2. All wastewater sampling must adhere to the most current edition Standard
+Methods for the Examination of Water and Wastewater (as Published by American Public
+Health Association) and federal 40 C.F.R. Part 136 to meet CDPHE standards. Non-
+compliant testing is considered a violation.
+3. The Town shall determine whether wastewater monitoring requires 24-hour
+composite sampling (flow-proportional or time-proportional) or grab sampling, based on
+applicable state and federal pretreatment standards. The user shall keep all flow-
+measurement and sampling equipment calibrated and maintained in proper working order
+at all times.
+4. The user shall be solely responsible for all costs associated with wastewater
+sampling and laboratory analysis required to maintain compliance with their industrial
+pretreatment permit. If the Town performs independent sampling that reveals a violation
+of this Title, the user shall fully reimburse the Town for all laboratory testing fees,
+administrative costs, and engineering review fees within thirty (30) days of receiving an
+invoice. Industrial users shall maintain all records relating to wastewater discharge,
+sampling, monitoring, pretreatment equipment maintenance, and compliance reports for
+not less than three (3) years and shall make such records available to the Town upon
+request. Information and data submitted to the Town shall be available to the public unless
+otherwise protected by law; however, discharge characteristics and compliance data shall
+not be considered confidential.
+5. The Town reserves the right to install automatic tracking, sampling, or
+flow-metering equipment on any commercial or industrial service line to verify
+compliance. The Town shall provide the user with a minimum of forty-eight (48) hours
+advance written notice prior to installing such equipment, except in emergency situations
+involving an immediate threat to public health, safety, and welfare or the integrity of the
+POTW (Publicly Owned Treatment Works), in which case entry and installation may occur
+immediately and without notice.
+6. The Town, its employees, agents, and consultants shall have the right to
+enter upon any property or facility discharging to the Town’s sewer system at reasonable
+times for purposes of inspection, observation, sampling, measurement, records review, and
+enforcement.
+C. Interceptors Required:
+1. Grease, oil, sand, and grit interceptors shall be provided at the user's
+expense when, in the determination of the Director of Public Works, they are necessary for
+the proper handling of liquid wastes containing grease, oil, sand, flammable wastes, or
+other harmful ingredients. All interceptors shall be of a type and capacity approved by the
+Director of Public Works and must comply with the Town's current adopted plumbing
+code.
+2. All automobile repair shops, service stations, fleet maintenance facilities,
+and car washes shall equip all floor drains and wash bays with an approved oil-water
+separator and sand/grit interceptor before discharging into the public sewer system. 
+3. No domestic sanitary sewage derived from toilets, urinals, restrooms,
+showers, or similar employee/customer facilities shall be routed through or discharged into
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+any grease, oil, or sand interceptor. Interceptors shall strictly receive only those wastewater
+lines originating from kitchen fixtures, food prep areas, floor drains, or wash bays prone to
+grease, oil, or sand accumulation.
+4. All interceptors shall be maintained by the user in good working condition
+at their sole expense. Interceptors must be pumped out and completely cleaned at least once
+every ninety (90) days, or more frequently if the collective thickness of the floating grease
+layer and settled solids exceeds twenty-five percent (25%) of the total liquid depth of the
+interceptor. The introduction of emulsifying chemicals, enzymes, bacteria, or hot water for
+the purpose of bypassing the interceptor or flushing grease down the sewer line is strictly
+prohibited.
+5. The user shall maintain a permanent, legible record of all interceptor
+maintenance activities on the business premises for a minimum of three (3) years including
+the date of service, pump-out manifests including the volume of waste removed, the name
+and license number of the waste hauler, and the disposal receipts which shall reflect the
+final disposal location. Maintenance logs shall be made available to Town inspectors upon
+request during regular business hours.
+6. In addition to the penalties in Section 8-1-4, the user shall reimburse the
+Town for all costs incurred by the Town in responding to, investigating, clearing, repairing,
+testing, and restoring the mainline blockage or related damage, including administrative
+costs, engineering fees, repair costs, cleanup costs, and other reasonable costs, together
+with a fifteen percent (15%) surcharge. Payment shall be due within thirty (30) days after
+invoice.
+D. Maintenance:
+1. Each user shall own and be responsible for the construction, maintenance,
+repair, and replacement of service lines, manholes, interceptors, and related appurtenances
+serving the property, in accordance with this Code, the Town Engineering Standards and
+all applicable state and federal laws.
+2. Leaks or breaks in the service line shall be repaired by the property owner
+within twenty-four (24) hours from notification by the Town unless the Town grants an
+extension due to exigent circumstances. The Town may inspect the property and require
+corrective action when it determines, based on observed conditions, reported problems, or
+evidence of system impact, that a service line, manhole, interceptor, or related
+appurtenance is not being properly maintained or may interfere with the safe and efficient
+operation of the sewer system. The Town may undertake emergency repairs necessary to
+protect public health, safety, and welfare, or the sewer system and the property owner shall
+be responsible for the payment of all associated costs.
+3. Any user experiencing an accidental discharge, slug load, spill, or non-
+routine discharge that may cause interference, pass through, or violate any pretreatment
+standard shall immediately notify the Town. Written follow-up describing the cause,
+corrective actions, and preventive measures shall be submitted within five (5) business
+days.
+E. Tampering Prohibited: No person shall knowingly make any false statement,
+representation, or certification, or tamper with, damage, bypass, alter, interfere with, or
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+otherwise compromise any flume/flow meter, monitoring device, testing equipment,
+interceptor, manhole, or required sampling or report related to sewer service.
+F. Graywater Systems Prohibited: No person shall construct, install, modify, operate,
+or use a graywater system within the Town or on property receiving Town utility service
+unless expressly authorized by written agreement approved by the Board of Trustees. Any
+approved graywater system shall comply with all applicable state and federal law and any
+conditions imposed by the Board of Trustees.
+8-3-3: SEWER SERVICE CONNECTIONS:
+A. Cost Responsibility: All costs and fees related to the installation, connection, and
+service of sewer shall be borne by the user, including all costs necessary to establish sewer
+service to the property.
+B.  Individual Service Lines:
+1. Each user shall own and be responsible for construction, maintenance,
+repair, and replacement of service lines.
+2. Leaks or breaks in the service line shall be repaired by the property owner
+within twenty-four (24) hours from notification by the Town unless the Town grants an
+extension due to exigent circumstances. The Town may undertake emergency repairs
+necessary to protect public health, safety, and welfare, or the sewer system and the property
+owner shall be responsible for the payment of all associated costs.
+3. Every primary use in the Town shall be supplied with sewer through a single
+service line connected to the Town’s sewer system, except for a hotel, motel, multifamily
+dwelling, or other multi-tenant use under single ownership and operated as an integrated
+unit as determined by the Director of Public Works. Accessory dwelling units may share a
+service line with the primary dwelling on the property; provided, however, that the
+applicant or property owner shall submit design documentation demonstrating to the
+satisfaction of the Director of Public Works that the existing sewer service line has
+adequate capacity to serve the primary dwelling and the accessory dwelling unit in
+accordance with the Town Engineering Standards and all applicable code requirements.
+4. In the event that any premises receiving sewer from the Town is
+subsequently divided into separate ownership, each owner shall have a separate sewer
+service line and each additional user shall pay all fees established herein. 
+C. Specifications: All materials and installations shall be in accordance with the Town
+Engineering Standards and all applicable federal, state, and local laws, rules, regulations,
+codes, and permit requirements. The sewer tap or connection shall consist of the physical
+connection from the Town’s sewer main to the user’s sewer service line, including the
+service wye or other approved connection to the sewer main, fittings, cleanouts, risers,
+transitions, and any other appurtenances required to convey sewage from the user’s
+premises to the Town’s sewer system. All such work shall be inspected and approved by
+the Director of Public Works prior to backfill, use, and final acceptance.
+8-3-4: SEWER FEES:
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+A. Fee Established: There is hereby established a sewer system development fee,
+sewer service fee, and connection inspection fee for all users in amounts established by
+resolution of the Board of Trustees. 
+B. Out of Town Users: All sewer fees to users living outside Town limits shall be
+computed at one and seventy-five hundredths (1.75) times the rate charged to in-Town
+users. The Town may require additional extraterritorial fees as established by agreement
+of the Board of Trustees.
+C. Increase in Use: The Town, based upon a review of metered sewer discharge,
+portable water use, evidence of expanded use, increased occupancy, change in use, or
+materially increased demand, beyond the original EQR purchase or allocation, may inspect
+a user's premises to determine if a reasonable basis exists to increase the sewer system
+development fees on the property. Upon determining that fees should be increased, the
+Town shall provide written notice at least 10 days prior to the new fee being assessed and
+provide an opportunity to appeal the assessment. The Director of Public Works shall only
+overturn the assessment upon a demonstration by the user that the property’s metered sewer
+discharge is immediately returned to and maintains levels consistent with the approved use
+and applicable consumption limitations.
+D. Noncontinuous Service: All users must continuously pay for sewer service
+regardless of the occupancy status of the property.
+E. Disconnection: A user may request to disconnect from the Town's sewer system
+when such disconnection will not adversely affect the sewer system. Any user who is
+disconnected from the Town sewer system and seeks to reconnect must apply for new
+sewer service in accordance with this Title.
+F. Property Owner Responsible: The property owner shall be liable for all charges for
+sewer service to the property.
+Section 2. Severability. If any article, section, paragraph, sentence, clause or phrase
+of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any
+reason, such decision will not affect the validity or constitutionality of the remaining portions of
+this Ordinance. The Board of Trustees hereby declares that it would have passed this Ordinance
+and each part hereof irrespective of the fact that any one part or parts are declared unconstitutional
+or invalid.
+Section 3. Effective Date. This Ordinance shall take effect fifteen (15) days after
+adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter.
+INTRODUCED, READ, PASSED AND ADOPTED by the Board of Trustees of the Town
+of Morrison, Colorado by a vote of       yes and            nays, this ____ day of ________ 2026.
+TOWN OF MORRISON
+                                                                              
+Chris Wolfe, Mayor
+ATTEST:
+7/30/2026
+Q:\USERS\MORRISON\ORD\2026\TITLE 8-O070826.DOCX
+                                                                              
+Courtney Christensen, Town Clerk
