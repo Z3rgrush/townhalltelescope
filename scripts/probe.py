@@ -10,7 +10,32 @@ KEY = re.compile(r"minute|agenda|packet|meeting|document|viewfile|getfile|event|
 urls = sys.argv[1:]
 if not urls:
     urls = [r["minutes_url"] for r in csv.DictReader(open("data/sources.csv")) if r["minutes_url"]]
+def escribe(base):
+    """Ask an eScribe portal for last month's meetings, then fetch one meeting's HTML agenda page and one file."""
+    from datetime import date, timedelta
+    r = requests.post(f"{base}/MeetingsCalendarView.aspx/GetCalendarMeetings", headers=UA, timeout=30,
+                      json={"calendarStartDate": (date.today() - timedelta(days=40)).isoformat(),
+                            "calendarEndDate": date.today().isoformat()})
+    print("calendar", r.status_code, len(r.text))
+    meetings = r.json().get("d") or [] if r.ok else []
+    for m in meetings[:3]:
+        print(" ", m.get("ID"), m.get("MeetingName"), m.get("StartDate"), [x.get("Url") for x in m.get("MeetingDocumentLink") or []][:3])
+    for m in meetings[:2]:
+        for page in (f"{base}/Meeting.aspx?Id={m['ID']}&Agenda=Agenda&lang=English",
+                     *[urljoin(base + "/", x["Url"]) for x in (m.get("MeetingDocumentLink") or [])[:1]]):
+            p = requests.get(page, headers=UA, timeout=30)
+            body = re.sub(r"\s+", " ", re.sub(r"(?s)<[^>]+>", " ", re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", p.text)))
+            print("   ", p.status_code, p.headers.get("content-type"), len(p.text), page, "|", body[:400] if "html" in str(p.headers.get("content-type")) else "")
+
+
 for url in urls:
+    if url.startswith("escribe:"):
+        print(f"\n===== {url}")
+        try:
+            escribe(url.removeprefix("escribe:").rstrip("/"))
+        except Exception as e:
+            print("ERROR", e)
+        continue
     text = url.startswith("text:")
     url = url.removeprefix("text:")
     full = url.startswith("full:")
