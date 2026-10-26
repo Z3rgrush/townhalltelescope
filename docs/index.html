@@ -56,6 +56,7 @@ button { padding: 9px 14px; border: 0; background: var(--accent); color: #fff; f
 .meta { display: flex; flex-wrap: wrap; gap: 6px; font-size: 12.5px; color: var(--muted); margin-bottom: 8px; }
 .tag { background: var(--accent-soft); color: var(--accent); padding: 1px 7px; font-weight: 600; }
 .tag.voice { background: var(--warn-soft); color: var(--warn); }
+.tag.old { background: transparent; color: var(--muted); border: 1px solid currentColor; }
 .where { font-size: 13px; color: var(--muted); margin: 0 0 6px; }
 .issue p { margin: 0 0 8px; }
 details { font-size: 13px; }
@@ -121,7 +122,7 @@ select { width: 100%; padding: 9px 12px; margin-bottom: 14px; border: 1px solid 
     <div id="detail"></div>
     </div>
     <div id="pane-topics" role="tabpanel" aria-labelledby="tab-topics" hidden>
-      <p class="lede">The topics a county's local governments spend more of their meetings on than any other county's, over the last three months. Pick a topic to see those issues.</p>
+      <p class="lede">The topics a county's local governments spend more of their meetings on than any other county's, over the last three months (a year for places with few meetings). Pick a topic to see those issues.</p>
       <select id="county-pick" aria-label="County"></select>
       <ul class="stand" id="cloud"></ul>
       <div id="topic-issues"></div>
@@ -135,6 +136,8 @@ select { width: 100%; padding: 9px 12px; margin-bottom: 14px; border: 1px solid 
 const PAGE = {bins: {zip: [25, 31, 41], county: [30, 45, 60]}};
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString("en-US", {month: "short", day: "numeric", year: "numeric"});
+// Issues last discussed more than three months ago come from governments we read a year back.
+const OLD = new Date(Date.now() - 90 * 864e5).toISOString().slice(0, 10);
 const slug = s => s.toLowerCase().replace(/[^a-z]+/g, "-");
 
 Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "data/counties.json", "data/issues.json"]
@@ -243,6 +246,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
       <div class="meta"><span>${esc(it.government)}</span>
         <span class="tag">${it.meetings} meeting${it.meetings === 1 ? "" : "s"}</span>
         ${it.public_comment ? '<span class="tag voice">Residents spoke</span>' : ""}
+        ${it.sources.every(s => s.date < OLD) ? `<span class="tag old">Last discussed ${new Date(it.sources.map(s => s.date).sort().pop() + "T12:00:00").toLocaleDateString("en-US", {month: "short", year: "numeric"})}</span>` : ""}
         ${Object.entries(HIGHLIGHTS).filter(([t]) => it.tags.includes(t)).map(([, h]) => `<span class="tag dc">${h.tag}</span>`).join("")}</div>
       ${it.where ? `<p class="where">📍 ${esc(it.where)}</p>` : ""}
       <p>${esc(it.summary)}</p>
@@ -277,7 +281,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
     const box = document.getElementById("detail");
     if (!highlight) { box.innerHTML = `<p class="empty">${U.empty}</p>`; return; }
     const n = siteCount(), any = Object.values(U.records).filter(v => v.tagged?.[highlight]).length;
-    box.innerHTML = !any ? `<p class="empty">No local government with records has discussed ${H().what} in the last three months.</p>`
+    box.innerHTML = !any ? `<p class="empty">No local government with records has discussed ${H().what} recently.</p>`
       : `<p class="empty">${n ? `${n} ${U.plural} hold a data center site that came up in public meetings, and ` : H().sites ? `${H().none}, but ` : ""}${any} ${U.plural} ${n ? "in all " : ""}have a local government that discussed ${n ? "one" : H().what}. Tap an orange one for details.</p>`;
   };
 

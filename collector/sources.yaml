@@ -210,6 +210,7 @@
   adapter: legistar
   client: brightonco
 - id: northglenn
+  days: 365
   name: Northglenn
   county: Adams
   adapter: linkscan
@@ -221,12 +222,14 @@
   adapter: civicclerk
   tenant: windsorco
 - id: summit-county
+  days: 365
   name: Summit County
   county: Summit
   # CivicWeb under its new Diligent name.
   adapter: civicweb
   base: https://summitcountyco.community.diligentoneplatform.com
 - id: fountain
+  days: 365
   name: Fountain
   county: El Paso
   adapter: linkscan
@@ -239,6 +242,7 @@
   pages:
   - https://morgancounty.colorado.gov/elected-officials/commissioners/2026-agendas-and-minutes
 - id: montezuma-county
+  days: 365
   name: Montezuma County
   county: Montezuma
   adapter: linkscan
@@ -255,6 +259,7 @@
   adapter: civicclerk
   tenant: tellercoco
 - id: evans
+  days: 365
   name: Evans
   county: Weld
   adapter: linkscan
@@ -312,6 +317,7 @@
   adapter: civicclerk
   tenant: greenwoodvillageco
 - id: federal-heights
+  days: 365
   name: Federal Heights
   county: Adams
   adapter: linkscan
@@ -340,6 +346,7 @@
   pages:
   - https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/
 - id: steamboat-springs
+  days: 365
   name: Steamboat Springs
   county: Routt
   adapter: onbase
@@ -376,6 +383,7 @@
   adapter: civicclerk
   tenant: berthoudco
 - id: yuma-county
+  days: 365
   name: Yuma County
   county: Yuma
   adapter: linkscan
@@ -407,6 +415,7 @@
   adapter: civicclerk
   tenant: millikenco
 - id: lochbuie
+  days: 365
   name: Lochbuie
   county: Weld
   adapter: civicclerk
@@ -465,6 +474,7 @@
   base: https://cityofaspen.granicus.com
   view_id: 3
 - id: rio-blanco-county
+  days: 365
   name: Rio Blanco County
   county: Rio Blanco
   adapter: linkscan
@@ -497,6 +507,7 @@
   pages:
   - https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings
 - id: eaton
+  days: 365
   name: Eaton
   county: Weld
   adapter: civicclerk
@@ -518,6 +529,7 @@
   adapter: civicclerk
   tenant: breckenridgeco
 - id: edgewater
+  days: 365
   name: Edgewater
   county: Jefferson
   adapter: civicclerk
@@ -550,6 +562,7 @@
   adapter: agendacenter
   base: https://www.basalt.net
 - id: florence
+  days: 365
   name: Florence
   county: Fremont
   adapter: linkscan
@@ -562,6 +575,7 @@
   pages:
   - https://www.townofsilt.org/board_of_trustees_agendas_minutes
 - id: yuma
+  days: 365
   name: Yuma
   county: Yuma
   adapter: linkscan
@@ -599,18 +613,21 @@
   adapter: civicclerk
   tenant: palmerlakeco
 - id: palisade
+  days: 365
   name: Palisade
   county: Mesa
   adapter: linkscan
   pages:
   - https://palisade.colorado.gov/events/board-of-trustees-regular-meeting-10/13/2026
 - id: meeker
+  days: 365
   name: Meeker
   county: Rio Blanco
   adapter: linkscan
   pages:
   - https://townofmeeker.org/meeting-information/
 - id: wray
+  days: 365
   name: Wray
   county: Yuma
   adapter: agendacenter
@@ -622,6 +639,7 @@
   pages:
   - https://townofrangely.colorado.gov/departments/administrative-services/town-council/meeting-dates-board-packets
 - id: limon
+  days: 365
   name: Limon
   county: Lincoln
   adapter: linkscan
@@ -633,6 +651,7 @@
   adapter: agendacenter
   base: https://co-hayden.civicplus.com
 - id: center
+  days: 365
   name: Center
   county: Saguache
   adapter: linkscan
@@ -649,6 +668,7 @@
   adapter: agendacenter
   base: https://www.townofakron.com
 - id: cheyenne-county
+  days: 365
   name: Cheyenne County
   county: Cheyenne
   adapter: linkscan
@@ -665,6 +685,7 @@
   adapter: legistar
   client: hudson
 - id: crested-butte
+  days: 365
   name: Crested Butte
   county: Gunnison
   adapter: linkscan
@@ -676,6 +697,7 @@
   adapter: civicclerk
   tenant: pagosaspringsco
 - id: columbine-valley
+  days: 365
   name: Columbine Valley
   county: Arapahoe
   adapter: linkscan
@@ -704,24 +726,28 @@
   adapter: agendacenter
   base: https://www.frasercolorado.com
 - id: parachute
+  days: 365
   name: Parachute
   county: Garfield
   adapter: granicus
   base: https://parachute.granicus.com
   view_id: 1
 - id: keenesburg
+  days: 365
   name: Keenesburg
   county: Weld
   adapter: linkscan
   pages:
   - https://www.townofkeenesburg.com/government/agendas_minutes/signed_minutes.php
 - id: ridgway
+  days: 365
   name: Ridgway
   county: Ouray
   adapter: linkscan
   pages:
   - https://townofridgway.colorado.gov/i-want-to/ridgway-town-council
 - id: ordway
+  days: 365
   name: Ordway
   county: Crowley
   adapter: linkscan
@@ -739,12 +765,14 @@
   base: https://winterparkcolorado.granicus.com
   view_id: 1
 - id: haxtun
+  days: 365
   name: Haxtun
   county: Phillips
   adapter: linkscan
   pages:
   - https://townofhaxtun.colorado.gov/town-council
 - id: poncha-springs
+  days: 365
   name: Poncha Springs
   county: Chaffee
   adapter: civicclerk
@@ -755,6 +783,7 @@
   adapter: civicclerk
   tenant: oakcreekco
 - id: dolores
+  days: 365
   name: Dolores
   county: Montezuma
   adapter: linkscan
@@ -766,48 +795,56 @@
   adapter: civicclerk
   tenant: blueriverco
 - id: hotchkiss
+  days: 365
   name: Hotchkiss
   county: Delta
   adapter: linkscan
   pages:
   - https://townofhotchkiss.colorado.gov/about-the-town/board-of-trustee-minutes
 - id: ignacio
+  days: 365
   name: Ignacio
   county: La Plata
   adapter: linkscan
   pages:
   - https://townofignacio.colorado.gov/forms/informational-packets-and-handbooks
 - id: hinsdale-county
+  days: 365
   name: Hinsdale County
   county: Hinsdale
   adapter: linkscan
   pages:
   - https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes
 - id: hugo
+  days: 365
   name: Hugo
   county: Lincoln
   adapter: linkscan
   pages:
   - https://townhugo.com/government/committee-meetings/agenda/
 - id: calhan
+  days: 365
   name: Calhan
   county: El Paso
   adapter: linkscan
   pages:
   - https://www.calhan.co/services/resource_room/meeting_minutes_packets.php
 - id: foxfield
+  days: 365
   name: Foxfield
   county: Arapahoe
   adapter: linkscan
   pages:
   - https://townoffoxfield.colorado.gov/node/10166
 - id: williamsburg
+  days: 365
   name: Williamsburg
   county: Fremont
   adapter: linkscan
   pages:
   - https://townofwilliamsburg.colorado.gov/board-agendas
 - id: kiowa
+  days: 365
   name: Kiowa
   county: Elbert
   adapter: civicclerk
@@ -818,12 +855,14 @@
   adapter: civicclerk
   tenant: fairplayco
 - id: san-juan-county
+  days: 365
   name: San Juan County
   county: San Juan
   adapter: linkscan
   pages:
   - https://sanjuancounty.colorado.gov/meetings
 - id: green-mountain-falls
+  days: 365
   name: Green Mountain Falls
   county: El Paso
   adapter: linkscan
@@ -836,6 +875,7 @@
   pages:
   - https://townofdovecreek.colorado.gov/meeting-agendas
 - id: silver-cliff
+  days: 365
   name: Silver Cliff
   county: Custer
   adapter: agendacenter
@@ -846,30 +886,35 @@
   adapter: legistar
   client: mountainview
 - id: norwood
+  days: 365
   name: Norwood
   county: San Miguel
   adapter: linkscan
   pages:
   - https://www.norwoodtown.com/board-of-trustees-meetings
 - id: rockvale
+  days: 365
   name: Rockvale
   county: Fremont
   adapter: linkscan
   pages:
   - https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents
 - id: nunn
+  days: 365
   name: Nunn
   county: Weld
   adapter: linkscan
   pages:
   - https://townofnunn.colorado.gov/government/town-board-meeting-minutes-and-agendas
 - id: de-beque
+  days: 365
   name: De Beque
   county: Mesa
   adapter: linkscan
   pages:
   - https://townofdebeque.colorado.gov/trustee-agendas-minutes
 - id: westcliffe
+  days: 365
   name: Westcliffe
   county: Custer
   adapter: linkscan
@@ -887,6 +932,7 @@
   adapter: civicclerk
   tenant: grandlakeco
 - id: crawford
+  days: 365
   name: Crawford
   county: Delta
   adapter: linkscan
@@ -898,60 +944,70 @@
   adapter: agendacenter
   base: https://www.morrisonco.us
 - id: empire
+  days: 365
   name: Empire
   county: Clear Creek
   adapter: linkscan
   pages:
   - https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting
 - id: manzanola
+  days: 365
   name: Manzanola
   county: Otero
   adapter: linkscan
   pages:
   - https://townofmanzanola.colorado.gov/agendas-meeting-minutes/agendas
 - id: olney-springs
+  days: 365
   name: Olney Springs
   county: Crowley
   adapter: linkscan
   pages:
   - https://townofolneysprings.colorado.gov/agendas-town-council
 - id: hillrose
+  days: 365
   name: Hillrose
   county: Morgan
   adapter: linkscan
   pages:
   - https://www.hillrosecolorado.org/
 - id: boone
+  days: 365
   name: Boone
   county: Pueblo
   adapter: linkscan
   pages:
   - https://boone.colorado.gov/agendas-and-minutes
 - id: alma
+  days: 365
   name: Alma
   county: Park
   adapter: linkscan
   pages:
   - http://townofalma.com/meetings/
 - id: rico
+  days: 365
   name: Rico
   county: Dolores
   adapter: linkscan
   pages:
   - https://townofrico.colorado.gov/government/board-of-trustees
 - id: red-cliff
+  days: 365
   name: Red Cliff
   county: Eagle
   adapter: linkscan
   pages:
   - https://townofredcliff.colorado.gov/government/2023-records/2023-meeting-agendas
 - id: jamestown
+  days: 365
   name: Jamestown
   county: Boulder
   adapter: linkscan
   pages:
   - https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/
 - id: garden-city
+  days: 365
   name: Garden City
   county: Weld
   adapter: civicclerk
@@ -963,51 +1019,60 @@
   pages:
   - https://silverplumetown.com/agendas-and-minutes/
 - id: rye
+  days: 365
   name: Rye
   county: Pueblo
   adapter: linkscan
   pages:
   - https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas
 - id: arriba
+  days: 365
   name: Arriba
   county: Lincoln
   adapter: linkscan
   pages:
   - https://townofarriba.colorado.gov/town-board-meeting-minutes
 - id: ophir
+  days: 365
   name: Ophir
   county: San Miguel
   adapter: linkscan
   pages:
   - https://townofophir.colorado.gov/planning-and-zoning
 - id: grover
+  days: 365
   name: Grover
   county: Weld
   adapter: agendacenter
   base: https://www.grover.org
 - id: black-hawk
+  days: 365
   name: Black Hawk
   county: Gilpin
   adapter: agendacenter
   base: https://www.cityofblackhawk.org
 - id: campo
+  days: 365
   name: Campo
   county: Baca
   adapter: legistar
   client: campo
 - id: hooper
+  days: 365
   name: Hooper
   county: Alamosa
   adapter: linkscan
   pages:
   - https://townofhooper.colorado.gov/meeting-minutes-agendas
 - id: montezuma
+  days: 365
   name: Montezuma
   county: Summit
   adapter: linkscan
   pages:
   - https://www.townofmontezuma.com/
 - id: pitkin
+  days: 365
   name: Pitkin
   county: Gunnison
   adapter: linkscan

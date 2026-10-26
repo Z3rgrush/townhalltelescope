@@ -38,7 +38,6 @@ def main():
     args = ap.parse_args()
 
     end = date.today()
-    start = end - timedelta(days=args.days)
     region = REGIONS[args.region]
     DATA = ROOT / region["data"]
     sources = yaml.safe_load(open(ROOT / region["sources"]))
@@ -62,6 +61,8 @@ def main():
             print(msg)
             log_lines.append(msg)
 
+        # Governments with thin records look further back (a "days" entry, see scripts/set_lookback.py).
+        start = end - timedelta(days=src.get("days", args.days))
         docs, error = [], None
         try:
             # "also" lists extra platforms for the same government (Broomfield's boards and council videos).
@@ -125,7 +126,8 @@ def main():
     # Rows for sources not run this time are carried over unchanged.
     ran = {c[0]["id"] for c in coverage}
     rows += [r for r in old.values() if r["source"] not in ran]
-    rows = [r for r in rows if r["date"] >= start.isoformat()]
+    days = {s["id"]: s.get("days", args.days) for s in sources}
+    rows = [r for r in rows if r["date"] >= (end - timedelta(days=days.get(r["source"], args.days))).isoformat()]
     rows.sort(key=lambda r: (r["source"], r["date"], r["url"]))
     with manifest.open("w") as f:
         for r in rows:
@@ -142,7 +144,7 @@ def main():
     cov = {k: v for k, v in sorted(cov.items()) if k in ids}
     cov_path.write_text(json.dumps(cov, indent=1))
     with (DATA / "coverage.md").open("w") as f:
-        f.write(f"# Collection coverage\n\nWindow: {start} to {end} (each row shows its own last run)\n\n")
+        f.write(f"# Collection coverage\n\nWindow: {end - timedelta(days=args.days)} to {end}, a year for sources marked with days: 365 (each row shows its own last run)\n\n")
         f.write("| Source | Adapter | Meetings | Documents | Text OK | Failed | Error | Run |\n|---|---|---|---|---|---|---|---|\n")
         for c in cov.values():
             f.write(f"| {c['name']} | {c['adapter']} | {c['meetings']} | {c['documents']} | {c['ok']} | {c['failed']} | {c['error']} | {c['run']} |\n")
