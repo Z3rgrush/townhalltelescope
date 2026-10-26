@@ -35,6 +35,7 @@ jobs:
           python scripts/condense.py
           python scripts/extract_issues.py
           python scripts/tag_issues.py
+          python scripts/gun_scan.py
           python scripts/build_map.py
       - name: Commit results
         run: |
