@@ -1165,8 +1165,8 @@
   name: Moffat County
   county: Moffat
   adapter: linkscan
-  # Agenda packets are linked by date only ("October 27, 2026" -> Oct27_Docs001.pdf).
-  follow: "_Docs\\d*\\.pdf$|bocc-agendas"
+  # Minutes and agenda packets are linked by date only ("September 8, 2026" -> 090826.pdf).
+  follow: "/files/[^/]+\\.pdf$"
   pages:
   - https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings
   - https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes
@@ -1175,6 +1175,7 @@
   county: Prowers
   adapter: linkscan
   follow: "/\\d{4}-\\d{2}-\\d{2}-city-council-meeting$"
+  docs: "/city-council-minutes-"
   pages:
   - https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026
   - https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025

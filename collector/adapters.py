@@ -263,6 +263,7 @@ def linkscan(src, start, end, log):
     """Fallback for custom city sites: scan listing pages for dated agenda/minutes links."""
     seen = set()
     follow = re.compile(src["follow"]) if src.get("follow") else None
+    docs = re.compile(src["docs"]) if src.get("docs") else None
     for page_url in src["pages"]:
         try:
             page, final = soup(page_url)
@@ -295,7 +296,9 @@ def linkscan(src, start, end, log):
                     continue
                 for a in sub.find_all("a", href=True):
                     h2, t2 = urljoin(sub_final, a["href"]), a.get_text(" ", strip=True)
-                    if DOCLIKE.search(h2) and (KEYWORDS.search(t2) or KEYWORDS.search(h2)) and h2 not in seen:
+                    # "docs" names web pages that are themselves the minutes (Lamar posts minutes as pages).
+                    is_doc = DOCLIKE.search(h2) or (docs and docs.search(h2))
+                    if is_doc and (KEYWORDS.search(t2) or KEYWORDS.search(h2)) and h2 not in seen:
                         seen.add(h2)
                         # Detail pages often list other meetings' files too, so trust a date in the file itself.
                         d2 = find_date(t2, h2) or d
@@ -544,8 +547,20 @@ def onbase(src, start, end, log):
             log(f"  search returned HTTP {r.status_code}; using the home page list only")
     seen, n = set(), 0
     for pg in pages:
-        for a in pg.find_all("a", href=True):
-            m = re.search(r"DownloadFile/((.+?)_\d+_(Agenda|Summary)_(\d{1,2})_(\d{1,2})_(20\d\d)_[^?]*)\?(.*)", a["href"])
+        hrefs = [a["href"] for a in pg.find_all("a", href=True)]
+        # Newer portals (Durango) build their links in the browser from meeting data embedded in the page.
+        raw = str(pg)
+        at = raw.find("new SearchResults({")
+        if at >= 0:
+            try:
+                data, _ = json.JSONDecoder().raw_decode(raw[at + len("new SearchResults("):])
+            except ValueError:
+                data = {}
+            for mt in data.get("Meetings") or []:
+                if mt.get("IsAgendaAvailable") and mt.get("AgendaUniqueName"):
+                    hrefs.append(f"DownloadFile/{mt['AgendaUniqueName']}?documentType=1&meetingId={mt['ID']}")
+        for href in hrefs:
+            m = re.search(r"DownloadFile/((.+?)_\d+_(Agenda|Summary)_(\d{1,2})_(\d{1,2})_(20\d\d)_[^?]*)\?(.*)", href)
             if not m:
                 continue
             name, body, doctype, mo, dy, yr, qs = m.groups()
