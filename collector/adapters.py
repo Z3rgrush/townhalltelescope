@@ -197,9 +197,11 @@ def weblink(src, start, end, log):
         base, repo = f["weblink"].rstrip("/"), f["repo"]
         entries = _weblink_listing(base, repo, f["id"])
         # Year folders ("2026") narrow the walk to the window; other subfolders are left out.
-        # Type 0 is a folder and 1 a record series (Estes Park); both hold other entries.
-        years = [e for e in entries if e["type"] in (0, 1) and re.fullmatch(r"\d{4}", e["name"].strip())
-                 and start.year <= int(e["name"]) <= end.year]
+        # Type 0 is a folder and 1 a record series (Estes Park); both hold other entries. Year folders are
+        # named "2026" (Avon) or "MINUTES Town Board 2026" (Estes Park).
+        year = lambda e: re.search(r"\b((?:19|20)\d\d)\s*$", e["name"])
+        years = [e for e in entries if e["type"] in (0, 1) and year(e)
+                 and start.year <= int(year(e).group(1)) <= end.year]
         docs = [e for e in entries if e["type"] not in (0, 1)]
         for y in years:
             docs += [e for e in _weblink_listing(base, repo, y["entryId"]) if e["type"] not in (0, 1)]
