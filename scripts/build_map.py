@@ -206,7 +206,7 @@ def build_counties(pieces, issues):
                 entry = tags.setdefault(t, {"ids": [], "site": False})
                 entry["ids"].append(it["id"])
                 entry["site"] |= zc.get(it["site_zip"]) == county
-        # The word cloud: each topic weighted by how much its issues came up, like the issue ranking.
+        # County standouts: each topic weighted by how much its issues came up, like the issue ranking.
         topics = defaultdict(lambda: [0.0, []])
         for score, it in ranked:
             for t in it["topics"]:
