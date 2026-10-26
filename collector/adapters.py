@@ -281,6 +281,14 @@ def escribe(src, start, end, log):
             continue
         n += 1
         links = m.get("MeetingDocumentLink") or []
+        if src.get("html"):
+            # Some portals put their files behind a browser check; the agenda and minutes pages themselves are plain HTML.
+            pages = [x for x in links if "Meeting.aspx" in str(x.get("Url"))]
+            minutes = [x for x in pages if re.search(r"minute", str(x.get("Url")) + str(x.get("Type")), re.I)]
+            for x in (minutes or pages)[:1]:
+                yield Doc(src["id"], body, d, f"{body} - {x.get('Title') or x.get('Type') or 'Agenda'}",
+                          urljoin(base + "/", x["Url"]), "minutes" if minutes else "agenda")
+            continue
         pdfs = [x for x in links if "pdf" in str(x.get("Format", "")).lower() and KEYWORDS.search(str(x.get("Type", "")))
                 and not re.search(r"cover", str(x.get("Type", "")), re.I)]
         minutes = [x for x in pdfs if re.search(r"minute", str(x.get("Type", "")) + str(x.get("Title", "")), re.I)]
