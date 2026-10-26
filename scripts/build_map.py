@@ -64,7 +64,11 @@ def load_issues(data, index):
     for f in sorted((data / "issues").glob("*.yaml")):
         source = f.stem
         for it in yaml.safe_load(f.open()):
-            docs = [index[f"{source}#{r}"] for r in it["refs"]]
+            docs = [index[k] for k in (f"{source}#{r}" for r in it["refs"]) if k in index]
+            if not docs:
+                # Refs are positions in the condensed file; they go stale when it's rebuilt without re-extracting.
+                print(f"{source}: skipping '{it['title']}', none of its meetings are in the window any more")
+                continue
             seen, sources = set(), []
             for d in sorted(docs, key=lambda d: d["date"], reverse=True):
                 key = (d["date"], d["body"])
