@@ -1,0 +1,25 @@
+# de-beque
+
+## [de-beque#0] 2026-09-22 | City Council | agenda
+- IV. PRESENTATION: HOMEWARDBOUND OF THE GRAND VALLEY
+- OPERATIONAL UPDATE AND FUNDING REQUEST – MARVIN DUARTE
+- V. OPPORTUNITY FOR PUBLIC COMMENT:
+- be approved by a single motion. The public or the Board members may ask that
+- an item be removed from the Consent Agenda for individual consideration
+- a. APPROVAL OF MINUTES:
+- c. DISCUSSION AND ACTION REGARDING RESOLUTION 2026-31: A
+- RESOLUTION APPROVING THE TOWN OF DE BEQUE’S APPLICATION
+- FOR A GRANT FROM THE ANIMAL ASSISTANCE FOUNDATION
+- X. DISCUSSION AND ACTION REGARDING ORDINANCE 576: AN
+- ORDINANCE AMENDING TITLE 9 OF THE TOWN OF DE BEQUE
+- XI. DISCUSSION AND ACTION REGARDING RESOLUTION 2026-30: A
+- RESOLUTION ADOPTING A FEE SCHEDULE FOR WATER,
+- WASTEWATER, IRRIGATION AND TRASH SERVICES FOR WITHIN THE
+- XII. DISCUSSION AND ACTION REGARDING ORDINANCE 577: AN
+- ORDINANCE AMENDING THE TOWN OF DE BEQUE MUNICIPAL CODE
+- XIII. PRESENTATION OF PRELIMINARY 2027 BUDGET FOR THE TOWN OF DE
+- XIV. CONTINUED DISCUSSION AND DIRECTION REGARDING A NEW TIME
+- XV. EXECUTIVE SESSION: An executive session for discussion of a personnel matter
+- requested discussion of the matter in open session; any member of this body or any
+- elected official; the appointment of any person to fill an office of this body or of an
+- elected official; or personnel policies that do not require discussion of matters

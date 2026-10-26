@@ -1,0 +1,708 @@
+# morgan-county
+
+## [morgan-county#0] 2026-08-04 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated July 21, 2026
+- 2. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Morgan
+- 3. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Fort
+- 4. Ratify the Board of County Commissioners signature of Requisition Form for Hoffmann Parker
+- 5. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 6. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 7. Ratify the Board of County Commissioners approval of Contract 2026 CNT 011 Martinich Enterprises
+- LLC, term of contract until May 31, 2027
+- 8. Ratify the Board of County Commissioners approval of Contract 2026 CNT 025 Justice Works
+- YouthCare, term of contract until May 31, 2027
+- 9. Ratify the Board of County Commissioners approval of Contract 2026 CNT 027 Savio House,
+- term of contract until May 31, 2027
+- 10. Ratify the Board of County Commissioners approval of Contract 2026 CNT 034 Center for
+- Healing Trauma and Attachment Inc., term of contract until May 31, 2027
+- 11. Ratify the Board of County Commissioners approval of Contract 2026 CNT 035 McClary P.C
+- F/K/A Epperson & McClary, term of contract until May 31, 2027
+- 12. Ratify the Board of County Commissioners approval of Contract 2026 CNT 036 Advantage
+- Treatment Centers Inc., term of contract until May 31, 2027
+- 13. Ratify the Board of County Commissioners approval of Contract 2026 CNT 037 Heart Therapy
+- Services LLC., term of contract until May 31, 2027
+- 14. Ratify the Board of County Commissioners approval of Contract 2026 CNT 038 Patricia M
+- Chase, term of contract until June 30, 2027
+- 15. Ratify the Board of County Commissioners approval of Contract 2026 CNT 039 Raise The
+- Future, term of contract until June 30, 2027
+- 16. Ratify the Board of County Commissioners approval of Contract 2026 CNT 040 Third Way
+- Center Inc., term of contract until May 31, 2027
+- 17. Ratify the Board of County Commissioners approval of Contract 2026 CNT 041 Annemari
+- Heywood LLC, term of contract until May 31, 2027
+- 18. Ratify the Board of County Commissioners approval of Contract 2026 CNT 042 Lutheran Family
+- Services Rocky Mountains, term of contract until May 31, 2027
+
+## [morgan-county#1] 2026-08-04 | City Council | agenda
+- PLANNING AND ZONING DEPARTMENT
+- 16255 County Road 19
+- Your Application for a Use by Special Review has been received by our office and will go to review and
+- decision by the Board of County Commissioners. The hearing for Board of County Commissioners will be held
+- As per Section 2-450 (B)(1) notification sign postings need to occur no later than 10 days prior to each
+- hearing and photographs accompanied by an affidavit to our office no later than 5 days prior to each
+- hearing. One sign facing each public right-of-way adjacent to the property is required. The county will provide
+- (1) sign for each hearing to be posted off County Road 19. It is up to you to post it
+- It is necessary that the landowners be present at the hearing to answer any questions the Board of County
+- them will be needed for each hearing. Do not hesitate to contact us at any time if you have questions
+- Hearing date – August 4, 2026
+- This application is for a Special Use Permit to allow for a small farm stand. The proposed permitted area
+- the 6th P.M., Morgan County, Colorado, addressed as 16255 County Road 19, Fort Morgan, Colorado
+- 80701. The property is zoned Estate Residential and is in the Fort Morgan Fire District
+- will be off of County Road 19 (Sherman Street)
+- Farms stands are not a designated use by right, conditional use, or special use under the Morgan County
+- Zoning Regulations in the applicable district and therefore, require a special use permit pursuant to Sec. 2
+- In reviewing this application, the Planning Commission and Board of County Commissioners are required
+- to make a finding that the criteria for granting a Use by Special Review in Section 2- 455 of the Morgan
+- County Zoning Regulations has been met
+- Section 2-455 Special Use Permit Criteria:
+- Plan. Specifically:
+- prime agricultural areas from impacts of developments and commercial recreation by upholding
+- B. All the application documents are complete and present a clear picture of how uses are to be
+- The application satisfies this criteria
+- C. The site plan conforms to the district design standards of these Regulations
+- The requirement of a special use map was waived by the Planning Administrator. The site
+- plan provided included sufficient information for the proposed use
+- D. All on and off -site impacts have been satisfactorily mitigated either through agreement, public
+- improvements, site plan requirements or other mitigation measures
+- E. The special use proposed has been made compatible with the surrounding uses and adequately
+- F. The special use poses only the minimum amount of risk to the public health, safety and welfare as
+
+## [morgan-county#2] 2026-08-04 | City Council | agenda
+- PLANNING AND ZONING DEPARTMENT
+- 18975 County Road 1 18975 County Road 1
+- Your Application for a Use by Special Review has been received by our office and will go to review and
+- decision by the Board of County Commissioners. The hearing for the Board of County Commissioners will be
+- As per Section 2-450 (B)(1) notification sign postings need to occur no later than 10 days prior to each
+- hearing and photographs accompanied by an affidavit to our office no later than 5 days prior to each
+- hearing. One sign facing each public right-of-way adjacent to the property is required. The county will provide
+- (2) signs for each hearing to be posted off of State Highway 34 and County Road 1 also known as State
+- It is necessary that the landowners be present at the hearing to answer any questions the Board of County
+- them will be needed for each hearing. Do not hesitate to contact us at any time if you have questions
+- Hearing date – August 4, 2026
+- This application is for a Special Use Permit to allow for temporary residential use of RVs while
+- needed. The proposed permitted area is located in the E½ NE¼ of Section 31, Township 4 North, Range
+- County Road 1, Wiggins, Colorado 80654. The property is zoned Agricultural Production and is in the
+- Wiggins Fire District
+- The special use is being requested to bring the property into compliance with the County’s zoning
+- permits for homes to be placed on property to the east and south of the property subject to the application
+- and also owned by Michael and Joan Michael Miller. Once completed, the RVs will no longer be permitted
+- as residences. Two other manufactured home placement permits will be obtained for homes to be placed
+- In reviewing this application, the Planning Commission and Board of County Commissioners are required
+- to make a finding that the criteria for granting a Use by Special Review in Section 2 -455 of the Morgan
+- County Zoning Regulations has been met
+- Section 2-455 Special Use Permit Criteria:
+- Plan. Specifically:
+- H-2 Goal: Enhance housing availability and affordability to keep up with growing d emand and
+- promote attainable housing options for all economic segments of the population by allowing
+- The proposed uses will allow for housing while attainable housing options are being developed
+- B. All the application documents are complete and present a clear picture of how uses are to be
+- The application satisfies this criteria
+- C. The site plan conforms to the district design standards of these Regulations
+- The requirement of a special use map was waived by the Planning Administrator. The site
+
+## [morgan-county#3] 2026-08-04 | City Council | agenda
+- AMENDMENTS TO THE MORGAN COUNTY ZONING REGULATIONS
+- Addition of Data Center Regulations
+- Amendment Summary
+- Proposed Zoning Regulation Amendments
+- Notification
+- Weld County Approved Regulation
+- Data Centers Overview
+- MORGAN COUNTY ZONING REGULATIONS
+- Data centers are physical facilities that house IT infrastructure and are considered the backbone of
+- power supply with possible backup generators and fire suppression systems
+- Data center types range from small to large scale. Aside from building and lot size, the types of
+- data centers are similar from the land use perspective
+- The Planning Commission held a work session on March 9, 2026 to discuss new supplementary
+- regulations for Data Centers to be added to Chapter 4 of the Zoning Regulations. The Planning
+- Commission then held a public hearing on April 21, 2026 and recommended approval with some
+- The Board of County Commissioners held a public hearing on May 5, 2026 and continued the
+- hearing to June 16th, June 23rd, July 21st and August 4th to give staff time for requested revisions
+- New definitions for Closed Loop Cooling System, Edge Data Center Facility (Edge
+- DCF), Large Data Center Facility (LDCF), and Project Area. Latest draft removed the
+- general definition of a Data Center Facility
+- Definition for an Enterprise Data Center Facility (EDCF) which would be an “accessory
+- data center”
+- o Addition of the Edge Data Center where appropriate
+- o 4-930(C) – A preliminary Decommissioning Plan is removed from submittal
+- ∼ Staff does not believe a DCF needs an incident reporting plan, response
+- considerations, or the procedures for dealing with DCF equipment damaged in a
+- fire or other emergency event. Section 4 -930(K)(6-8) in the draft from Planning
+- ∼ Maintenance plan and emergency operations plan removed
+- o 4-930(K) – Fire District Inclusion not required for Edge DCF
+- Sec. 4-935-Data Center Standards
+- o Small/Accessory data centers was removed
+- Board may wish to consider an accessory DCF for any non-DCF businesses that
+- small data centers with the size based off of water usage or MW design capacity
+- Added a definition for accessory Data Centers and included in the use table
+- o Setbacks for different data center sizes need to be discussed
+- established was set for 70 feet
+- o Setbacks for parking lots from property lines was removed
+- o Only closed loop cooling systems are permitted. Alternate language is added to
+- o Planning Commission recommended a decommissioning plan for any hazardous
+- section 311(b)(2)(A) of the Federal Water Pollution Control Act, (B) any element,
+- title, (C) any hazardous waste having the characteristics identified under or listed
+
+## [morgan-county#4] 2026-08-04 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated July 21, 2026
+- 2. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Morgan
+- 3. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Fort
+- 4. Ratify the Board of County Commissioners signature of Requisition Form for Hoffmann Parker
+- 5. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 6. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 7. Ratify the Board of County Commissioners approval of Contract 2026 CNT 011 Martinich Enterprises
+- LLC, term of contract until May 31, 2027
+- 8. Ratify the Board of County Commissioners approval of Contract 2026 CNT 025 Justice Works
+- YouthCare, term of contract until May 31, 2027
+- 9. Ratify the Board of County Commissioners approval of Contract 2026 CNT 027 Savio House,
+- term of contract until May 31, 2027
+- 10. Ratify the Board of County Commissioners approval of Contract 2026 CNT 034 Center for
+- Healing Trauma and Attachment Inc., term of contract until May 31, 2027
+- 11. Ratify the Board of County Commissioners approval of Contract 2026 CNT 035 McClary P.C
+- F/K/A Epperson & McClary, term of contract until May 31, 2027
+- 12. Ratify the Board of County Commissioners approval of Contract 2026 CNT 036 Advantage
+- Treatment Centers Inc., term of contract until May 31, 2027
+- 13. Ratify the Board of County Commissioners approval of Contract 2026 CNT 037 Heart Therapy
+- Services LLC., term of contract until May 31, 2027
+- 14. Ratify the Board of County Commissioners approval of Contract 2026 CNT 038 Patricia M
+- Chase, term of contract until June 30, 2027
+- 15. Ratify the Board of County Commissioners approval of Contract 2026 CNT 039 Raise The
+- Future, term of contract until June 30, 2027
+- 16. Ratify the Board of County Commissioners approval of Contract 2026 CNT 040 Third Way
+- Center Inc., term of contract until May 31, 2027
+- 17. Ratify the Board of County Commissioners approval of Contract 2026 CNT 041 Annemari
+- Heywood LLC, term of contract until May 31, 2027
+- 18. Ratify the Board of County Commissioners approval of Contract 2026 CNT 042 Lutheran Family
+- Services Rocky Mountains, term of contract until May 31, 2027
+
+## [morgan-county#5] 2026-08-18 | City Council | agenda
+- Management’s Discussion and Analysis
+- Balances - Budgets and Actual:
+- Road and Bridge Fund 59
+- Fund Balances - Budget and Actual:
+- Lodging Tax Tourism Fund 65
+- Capital Improvement Funds:
+- Jail Capital Improvement Fund 68
+- Fund Net Position - Budget and Actual:
+- Budgetary Comparative Schedule 71
+- Tax Revenues by Source, Governmental Funds 93
+- Assessed Value and Estimated Value of Taxable Property 94 – 95
+- Direct and Overlapping Property Tax Rates 96 – 97
+- Principal Property Tax Payers 98
+- Property Tax Levies and Collections 99
+- Schedule of Expenditures of Federal Award 112
+- and the completeness and the fairness of the presentation, including all disclosures, rests with the
+- data is accurate in all material respects. All disclosures necessary to enable the reader to gain an
+- State statutes require an annual audit by independent certified public accountants. The
+- Management’s discussion and analysis (MD&A) immediately follows the independent auditors
+- Morgan County Government offers a full range of services. These services include police
+- and construction of roadways, bridges, and infrastructure to support these activities; recreational
+- population of Morgan County is 30,30 6. Morgan County encompasses five incorporated cities
+- and towns as well as a large unincorporated area. The largest city is Fort Morgan with a
+- Morgan County has moderate summers, crisp falls, cool winters, and warm springs. There are
+- The County Commissioners annually adopt budgets by department for all funds except the
+- custodial funds. The annual budget is approved and appropriated by fund. The level of
+- budgetary control (that is, the level at which expenditures cannot legally exceed the appropriated
+- exceed the approved budget for that department without prior approval of the County
+- Commissioners. Supplemental appropriations can be approved by the Board of County
+- unforeseen at the time the budget was originally adopted
+- paid leave, medical insurance plans and a defined contribution retirement plan
+- 350 employees. The unemployment rate in Morgan County in 2025 was 4.2%. Morgan
+- County’s unemployment rate of 4.2% is slightly higher than the State rate of 3.2%. Morgan
+- County is in the process of reviewing the capital improvement plan. The County Commissioners
+- targeted an expansion project to increase space at the County Jail facility. The County
+- the Jail Capital Improvement Fund in 2008 to accumulate monies for the future expansion of the
+- facility. The County received an Energy Impact Assistance Fund grant to help fund the Jail
+- project. The County may also have to look to the other municipalities to help fund the jail. The
+
+## [morgan-county#6] 2026-08-18 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- 2. Consideration of Approval – DHS MINUTES July 2026
+- 3. Consideration of Approval – DHS WARRANTS for July 2026 (Susan Nitzel, Accounting
+- 4. Consideration of Approval – DHS CERTIFICATION OF PROVIDER AND VENDOR
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated August 4,
+- 2. Ratify the Board of County Commissioners approval of BOE meeting minutes dated August 4,
+- 3. Ratify the Board of County Commissioners signature of Requisition Form for Hoffmann Parker
+- 4. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 5. Ratify Chairman Jon Becker’s signature on Secure Transportation Service License for Morgan
+- 6. Ratify Chairman Jon Becker’s signature on Secure Transportation Vehicle Permit for Morgan
+- County Ambulance., Permit number 2026-0720-01
+- 7. Ratify the Board of County Commissioners approval of Contract 2026 CNT 047 A Caring Pregnancy
+- Resource Center, term of contract until June 30, 2027
+- 8. Ratify the Board of County Commissioners approval of Contract 2026 CNT 048 Regional Home
+- Visitation Program DBA Baby Bear Hugs, term of contract until June 30, 2027
+- 9. Ratify the Board of County Commissioners approval of Contract 2026 CNT 049 Morgan County
+- Family Center Inc., term of contract until June 30, 2027
+- 10. Ratify the Board of County Commissioners approval of Contract 2026 CNT 050 Morgan County
+- Partnership For Children And Families, term of contract until June 30, 2027
+- 11. Ratify the Board of County Commissioners approval of Contract 2026 CNT 051 Rising Up, term
+- of contract until June 30, 2027
+- 12. Ratify the Board of County Commissioners approval of Contract 2026 CNT 052 S.A.R.A. Inc.,
+- term of contract until June 30, 2027
+- 13. Ratify the Board of County Commissioners approval of Contract 2026 CNT 053 S.H.A.R.E. Inc.,
+- 14. Ratify Chairman Jon Becker’s signature on Colorado Liquor License Renewal Application for
+- Home Plate Restaurant 1 signed August 18, 2026
+- 1. Presentation- Morgan County Partnership For Children & Families Annual Report 2025
+- 2. Presentation- 2025 Morgan County Annual Comprehensive Financial Report (David
+- 3. Consideration of Approval -2026 BCC 33 a resolution approving a use by special
+- review permit to allow a small farm stand . (Nicole Hay, Planning & Zoning
+
+## [morgan-county#7] 2026-08-18 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- 2. Consideration of Approval – DHS MINUTES July 2026
+- 3. Consideration of Approval – DHS WARRANTS for July 2026 (Susan Nitzel, Accounting
+- 4. Consideration of Approval – DHS CERTIFICATION OF PROVIDER AND VENDOR
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated August 4,
+- 2. Ratify the Board of County Commissioners approval of BOE meeting minutes dated August 4,
+- 3. Ratify the Board of County Commissioners signature of Requisition Form for Hoffmann Parker
+- 4. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 5. Ratify Chairman Jon Becker’s signature on Secure Transportation Service License for Morgan
+- 6. Ratify Chairman Jon Becker’s signature on Secure Transportation Vehicle Permit for Morgan
+- County Ambulance., Permit number 2026-0720-01
+- 7. Ratify the Board of County Commissioners approval of Contract 2026 CNT 047 A Caring Pregnancy
+- Resource Center, term of contract until June 30, 2027
+- 8. Ratify the Board of County Commissioners approval of Contract 2026 CNT 048 Regional Home
+- Visitation Program DBA Baby Bear Hugs, term of contract until June 30, 2027
+- 9. Ratify the Board of County Commissioners approval of Contract 2026 CNT 049 Morgan County
+- Family Center Inc., term of contract until June 30, 2027
+- 10. Ratify the Board of County Commissioners approval of Contract 2026 CNT 050 Morgan County
+- Partnership For Children And Families, term of contract until June 30, 2027
+- 11. Ratify the Board of County Commissioners approval of Contract 2026 CNT 051 Rising Up, term
+- of contract until June 30, 2027
+- 12. Ratify the Board of County Commissioners approval of Contract 2026 CNT 052 S.A.R.A. Inc.,
+- term of contract until June 30, 2027
+- 13. Ratify the Board of County Commissioners approval of Contract 2026 CNT 053 S.H.A.R.E. Inc.,
+- 14. Ratify Chairman Jon Becker’s signature on Colorado Liquor License Renewal Application for
+- Home Plate Restaurant 1 signed August 18, 2026
+- 1. Presentation- Morgan County Partnership For Children & Families Annual Report 2025
+- 2. Presentation- 2025 Morgan County Annual Comprehensive Financial Report (David
+- 3. Consideration of Approval -2026 BCC 33 a resolution approving a use by special
+- review permit to allow a small farm stand . (Nicole Hay, Planning & Zoning
+
+## [morgan-county#8] 2026-08-18 | City Council | agenda
+- Resolution 2026 BCC 33
+- A RESOLUTION APPROVING A USE BY SPECIAL REVIEW PERMIT
+- the Owner s, has applied for a special use permit to allow a small farm stand in the Estate
+- Residential Zone District (the “Application”) to be located on the Property;
+- WHEREAS, on July 13, 2026, after holding a duly noticed public hearing, the Morgan
+- County Planning Commission recommended that the Application be approved;
+- duly noticed public hearing on the Application;
+- WHEREAS, during the public hearing, the Board recei ved testimony and evidence from
+- WHEREAS, the Board desires to approve the Application
+- a. The Application is hereby granted subject to the conditions and terms contained in this
+- Resolution. This Resolution shall constitute the special use permit (hereinafter referred
+- to as this “Resolution” or the “Permit”)
+- The Board, having reviewed the application, all information provided, and testimony heard,
+- Comprehensive Plan. Specifically, in this area Comprehensive Plan goals include:
+- protecting prime agricultural areas from impacts of developments and commercial
+- Plan encourages the use
+- b. The application documents are complete and present a clear picture of how the use is
+- c. The requirement of a special use map was waived by the Planning Administrator. The
+- site plan provided included sufficient information for the proposed use
+- d. All on and off-site impacts have been satisfactorily mitigated either through agreement,
+- public improvements, site plan requirements or other mitigation measures . There is
+- e. The special use proposed has been made compatible with the surrounding uses and is
+- f. The special use poses no or minimal risk to the public health, safety and welfare
+- g. The special use proposed is located on a conforming parcel
+- h. The Applicant represents that a small family-operated farm stand will benefit the public
+- fees and review costs levied by the County for application processing and review
+- i. Water is not required for the proposed use
+- a. The Board of County Commissioners retains continuing jurisdiction over this Permit
+- to ensure compliance with this Permit and the Morgan County Zoning Regulations
+- upon notice to the Applicant. This approval is conditioned on compliance with all
+- information and representations contained in the Application and presented by the
+- Owners, which are incorporated into this Permit. If any representations or information
+- presented by the Owners during the public hearing or the Application are found to be
+- erroneous, lacking a factual basis or otherwise inaccurate, the County may institute
+
+## [morgan-county#9] 2026-08-18 | City Council | agenda
+- AMENDMENTS TO THE MORGAN COUNTY ZONING REGULATIONS
+- Addition of Data Center Regulations
+- Amendment Summary
+- Proposed Zoning Regulation Amendments
+- Notification
+- Weld County Approved Regulation
+- Data Centers Overview
+- MORGAN COUNTY ZONING REGULATIONS
+- Data centers are physical facilities that house IT infrastructure and are considered the backbone of
+- power supply with possible backup generators and fire suppression systems
+- Data center types range from small to large scale. Aside from building and lot size, the types of
+- data centers are similar from the land use perspective
+- The Planning Commission held a work session on March 9, 2026 to discuss new supplementary
+- regulations for Data Centers to be added to Chapter 4 of the Zoning Regulations. The Planning
+- Commission then held a public hearing on April 21, 2026 and recommended approval with some
+- The Board of County Commissioners held a public hearing on May 5, 2026 and continued the
+- hearing to June 16th, June 23rd, July 21st and August 4th to give staff time for requested revisions
+- New definitions for Closed Loop Cooling System, Edge Data Center Facility (Edge
+- DCF), Large Data Center Facility (LDCF), and Project Area. Latest draft removed the
+- general definition of a Data Center Facility
+- Definition for an Enterprise Data Center Facility (EDCF) which would be an “accessory
+- data center”
+- o Addition of the Edge Data Center where appropriate
+- o 4-930(C) – A preliminary Decommissioning Plan is removed from submittal
+- ∼ Staff does not believe a DCF needs an incident reporting plan, response
+- considerations, or the procedures for dealing with DCF equipment damaged in a
+- fire or other emergency event. Section 4 -930(K)(6-8) in the draft from Planning
+- ∼ Maintenance plan and emergency operations plan removed
+- o 4-930(K) – Fire District Inclusion not required for Edge DCF
+- Sec. 4-935-Data Center Standards
+- o Small/Accessory data centers was removed
+- Board may wish to consider an accessory DCF for any non-DCF businesses that
+- small data centers with the size based off of water usage or MW design capacity
+- Added a definition for accessory Data Centers and included in the use table
+- o Setbacks for different data center sizes need to be discussed
+- established was set for 70 feet
+- o Setbacks for parking lots from property lines was removed
+- o Only closed loop cooling systems are permitted. Alternate language is added to
+- o Planning Commission recommended a decommissioning plan for any hazardous
+- section 311(b)(2)(A) of the Federal Water Pollution Control Act, (B) any element,
+- title, (C) any hazardous waste having the characteristics identified under or listed
+
+## [morgan-county#10] 2026-09-01 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated August 18,
+- 2. Ratify the Board of County Commissioners approval of Morgan County Employer Agreement
+- 3. Ratify Chairman Jon Becker’s signature on Morgan County Public Trustee Report, time period
+- 4. Ratify the Board of County Commissioners approval of Veterans Affair Officer reappointment of
+- 5. Ratify Chairman Jon Becker’s signature on EMPG Grant Certification of Compliance, signed
+- 6. Ratify the Board of County Commissioners approval of Contract Renewal 2024 CNT 019 R2 Quad
+- County Plumbing & Heating Inc., term of contract August 30, 2026 through August 29, 2027
+- 7. Ratify the Board of County Commissioners approval of Change order 2026 CNT 020 No.1 HVAC
+- System Replacement term of contract December 1,2026
+- 8. Ratify the Board of County Commissioners approval of Contract 2026 CNT 054 Caraveo
+- Construction Inc., term of contract until completed
+- 9. Ratify the Board of County Commissioners approval of Contract 2026 CNT 055 Industrial
+- Communications West LLC., term of contract July 22,2028
+- 10. Ratify the Board of County Commissioners approval of Contract 2026 CNT 056 Industrial
+- 11. Ratify the Board of County Commissioners approval of Contract 2026 CNT 057 Duck Down
+- Masonry, term of contract December 31, 2026
+- 1. Consideration of Consent- Limited Waiver for Hoffmann Parker Wilson & Carberry P.C
+- 2. Request for Comments - Mission Goldwing Solar Project in Adams County A
+- County line. (Nicole Hay, Planning & Zoning Director)
+- 3. Presentation- Home Rule Charter (Brian McCracken, Charter Commissioner)
+- 4. Consideration of Approval - 2026 BCC 38 a resolution calling for a Special Election
+- 5. Consideration of Approval -2026 BCC 39 a resolution approving an amended plat to
+- be known as the Ritchey Amended Plat. (Nicole Hay, Planning & Zoning Director)
+- 6. Consideration of Approval -2026 BCC 40 a resolution amending the Morgan County
+- Fee Schedule for Planning Services and Building Inspection Department by the adoption
+- of new fees. (Nicole Hay, Planning & Zoning Director)
+
+## [morgan-county#11] 2026-09-01 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated August 18,
+- 2. Ratify the Board of County Commissioners approval of Morgan County Employer Agreement
+- 3. Ratify Chairman Jon Becker’s signature on Morgan County Public Trustee Report, time period
+- 4. Ratify the Board of County Commissioners approval of Veterans Affair Officer reappointment of
+- 5. Ratify Chairman Jon Becker’s signature on EMPG Grant Certification of Compliance, signed
+- 6. Ratify the Board of County Commissioners approval of Contract Renewal 2024 CNT 019 R2 Quad
+- County Plumbing & Heating Inc., term of contract August 30, 2026 through August 29, 2027
+- 7. Ratify the Board of County Commissioners approval of Change order 2026 CNT 020 No.1 HVAC
+- System Replacement term of contract December 1,2026
+- 8. Ratify the Board of County Commissioners approval of Contract 2026 CNT 054 Caraveo
+- Construction Inc., term of contract until completed
+- 9. Ratify the Board of County Commissioners approval of Contract 2026 CNT 055 Industrial
+- Communications West LLC., term of contract July 22,2028
+- 10. Ratify the Board of County Commissioners approval of Contract 2026 CNT 056 Industrial
+- 11. Ratify the Board of County Commissioners approval of Contract 2026 CNT 057 Duck Down
+- Masonry, term of contract December 31, 2026
+- 1. Consideration of Consent- Limited Waiver for Hoffmann Parker Wilson & Carberry P.C
+- 2. Request for Comments - Mission Goldwing Solar Project in Adams County A
+- County line. (Nicole Hay, Planning & Zoning Director)
+- 3. Presentation- Home Rule Charter (Brian McCracken, Charter Commissioner)
+- 4. Consideration of Approval - 2026 BCC 38 a resolution calling for a Special Election
+- 5. Consideration of Approval -2026 BCC 39 a resolution approving an amended plat to
+- be known as the Ritchey Amended Plat. (Nicole Hay, Planning & Zoning Director)
+- 6. Consideration of Approval -2026 BCC 40 a resolution amending the Morgan County
+- Fee Schedule for Planning Services and Building Inspection Department by the adoption
+- of new fees. (Nicole Hay, Planning & Zoning Director)
+- Jefferson H. Parker
+- 511 16th Street, Suite 610
+- This letter addresses my firm’s representation of both Morgan and Washington Count ies
+- agreement with W-Y Communications (of which Washington County is a part y) to cover W-Y's
+
+## [morgan-county#12] 2026-09-15 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- 2. Consideration of Approval – DHS MINUTES August 18, 2026
+- 3. Consideration of Approval – DHS WARRANTS for July 2026 (Susan Nitzel, Accounting
+- 4. Consideration of Approval – DHS CERTIFICATION OF PROVIDER AND VENDOR
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated September
+- 2. Ratify Chairman Jon Becker’s signature on Morgan County Public Trustee Report, time period
+- 3. Ratify the Board of County Commissioners approval of Service Vendor AJ’s Backflow Testing &
+- 4. Ratify the Board of County Commissioners approval of the Storm Water Inspection Report, Inspection
+- 1. Introduction and First Reading Ordinance No. 2 Series 2026 – An Ordinance Concerning the
+- 2. Consideration of Approval- 2026 BCC 41 A Resolution of the Board of County Commissioners
+- H. PLANNING AND ZONING
+- 1. Public Hearing
+- A. Zoning Amendments: Amendments to the Morgan County Zoning Regulations concerning
+- negotiations; developing strategy for negotiations; and instructing negotiators, pursuant to C.R.S. § 24-6
+- 402 (4)(e) concerning a road maintenance agreement with KS Land/Four X Ranch Gravel Pit and
+
+## [morgan-county#13] 2026-09-15 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- 2. Consideration of Approval – DHS MINUTES August 18, 2026
+- 3. Consideration of Approval – DHS WARRANTS for July 2026 (Susan Nitzel, Accounting
+- 4. Consideration of Approval – DHS CERTIFICATION OF PROVIDER AND VENDOR
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated September
+- 2. Ratify Chairman Jon Becker’s signature on Morgan County Public Trustee Report, time period
+- 3. Ratify the Board of County Commissioners approval of Service Vendor AJ’s Backflow Testing &
+- 4. Ratify the Board of County Commissioners approval of the Storm Water Inspection Report, Inspection
+- 1. Introduction and First Reading Ordinance No. 2 Series 2026 – An Ordinance Concerning the
+- 2. Consideration of Approval- 2026 BCC 41 A Resolution of the Board of County Commissioners
+- H. PLANNING AND ZONING
+- 1. Public Hearing
+- A. Zoning Amendments: Amendments to the Morgan County Zoning Regulations concerning
+- negotiations; developing strategy for negotiations; and instructing negotiators, pursuant to C.R.S. § 24-6
+- 402 (4)(e) concerning a road maintenance agreement with KS Land/Four X Ranch Gravel Pit and
+- ORDINANCE NO. 2, SERIES 2026
+- AN ORDINANCE CONCERNING THE COUNTY'S PROHIBITIONS ON THE
+- Morgan County has the general enabling power to adopt ordinances for the control or licensing
+- WHEREAS, C.R.S. § 30-15-401(1)(a)(I) authorizes the County to adopt ordinances and
+- within the unincorporated areas of Morgan County, except for agricultural land currently in
+- WHEREAS, C.R.S. § 30- 15-401(1)(a)(I.5) authorizes the County to adopt ordinances
+- unincorporated areas of Morgan County, except for agricultural land currently in agricultural use
+- WHEREAS, C.R.S. § 30- 15-401(1)(q) authorizes the County to adopt ordinances and
+- unincorporated areas of the Morgan County;
+- WHEREAS, pursuant to C.R.S. § 30- 15-406, this ordinance was introduced and read
+- WHEREAS, the Board of County Commissioners find that this ordinance is necessary to
+- being deposited in unapproved sites, attraction of disease-infested rodents and other
+- vermin, fire or other hazards, and air, noise and water pollution
+- 1. This Section shall apply to all land within unincorporated Morgan County,
+- 2. This Section does not apply to identified and operating junk yards currently
+- allowed pursuant to the County’s Zoning Regulations
+
+## [morgan-county#14] 2026-09-29 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated September
+- 2. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 3. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Boys &
+- 4. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Breed
+- 5. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Morgan
+- 6. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Rocky
+- 7. Ratify Chairman Jon Becker’s signature on Colorado Liquor License Renewal Application for 10G
+- 1. Consideration of Approval -2026 BCC 42 A Resolution amending the Morgan County Zoning
+- Regulations concerning the enforcement Process. (Nicole Hay, Planning & Zoning Director)
+- 2. Discussion- Health Insurance Committee
+- 3. Consideration of Approval- Revised Morgan County Fee Schedule 2026
+- Planning, Zoning and Building Inspection Department
+
+## [morgan-county#15] 2026-09-29 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated September
+- 2. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 3. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Boys &
+- 4. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Breed
+- 5. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Morgan
+- 6. Ratify the Board of County Commissioners approval of Request for Waiver of Rental Fees for Rocky
+- 7. Ratify Chairman Jon Becker’s signature on Colorado Liquor License Renewal Application for 10G
+- 1. Consideration of Approval -2026 BCC 42 A Resolution amending the Morgan County Zoning
+- Regulations concerning the enforcement Process. (Nicole Hay, Planning & Zoning Director)
+- 2. Discussion- Health Insurance Committee
+- 3. Consideration of Approval- Revised Morgan County Fee Schedule 2026
+- Planning, Zoning and Building Inspection Department
+- Michael Guccione 10.14.2020 2025 4th Road & Bridge
+- Gary Lapp 02.22.2021 2026 1st Road & Bridge
+- James Rehn 08.31.2015 2025 3rd Road & Bridge
+- Michael Skraback 08.22.2011 2026 3rd Road & Bridge
+- John Goodman 02.27.2006 2026 1st Road & Bridge
+- Raymer Groves 04.24.2006 2026 2nd Road & Bridge
+- John Kembel 03.14.1996 2026 1st Road & Bridge
+- RESOLUTION NO. 2026 BCC 42
+- AMENDMENTS TO MORGAN COUNTY
+- ZONING REGULATIONS-ENFORCEMENT PROCESSES
+- A RESOLUTION AMENDING THE MORGAN COUNTY ZONING REGULATIONS
+- WHEREAS, the County desires to amend the Morgan County Zoning Regulations to clean
+- up zoning regulations concerning enforcement processes
+- hearing on the proposed amendments and recommended approval of the amendments;
+- noticed public hearing on the proposed amendments;
+- provisions for amending the Morgan County Zoning Regulations; and
+- WHEREAS, after considering public testimony received and the recommendation of the
+- Planning Commission, the Board of County Commissioners finds these amendments to be in the
+- Section 1 . The following new section shall be added to the Application and
+- Implementation of Regulations in Chapter 2 of the Morgan County Zoning Regulations to read as
+- The County retains continuing jurisdiction over any permit granted under these Zoning
+
+## [morgan-county#16] 2026-10-06 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated September
+- 2. Ratify the Board of County Commissioners approval of the Storm Water Inspection Report, Inspection
+- 3. Ratify the Board of County Commissioners approval of Contract 2026 CNT 058 Axon Enterprise
+- 4. Ratify the Board of County Commissioners approval of Contract 2026 CNT 059 Community
+- Safety 1st, term of contract May 31, 2027
+- 5. Ratify the Board of County Commissioners approval of Contract 2026 CNT 060 Guided Family
+- Services LLC, term of contract May 31, 2027
+- 6. Ratify Chairman Jon Becker’s signature on EMPG Progress Reporting for 3rd quarter report of the
+- Grant, signed October 05, 2026
+- 1. Consideration of Approval- Second Amendment to Lease and Easement Agreement between
+- 2. Consideration of Approval- Release and Waiver Agreement concerning Lease to Fort Morgan
+- 3. Consideration of Approval- Road Use Agreement with Glacier Construction to update and expand the
+- City of Fort Morgan’s existing wastewater treatment plant. (James Rehn, Interim Road and Bridge
+
+## [morgan-county#17] 2026-10-06 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated September
+- 2. Ratify the Board of County Commissioners approval of the Storm Water Inspection Report, Inspection
+- 3. Ratify the Board of County Commissioners approval of Contract 2026 CNT 058 Axon Enterprise
+- 4. Ratify the Board of County Commissioners approval of Contract 2026 CNT 059 Community
+- Safety 1st, term of contract May 31, 2027
+- 5. Ratify the Board of County Commissioners approval of Contract 2026 CNT 060 Guided Family
+- Services LLC, term of contract May 31, 2027
+- 6. Ratify Chairman Jon Becker’s signature on EMPG Progress Reporting for 3rd quarter report of the
+- Grant, signed October 05, 2026
+- 1. Consideration of Approval- Second Amendment to Lease and Easement Agreement between
+- 2. Consideration of Approval- Release and Waiver Agreement concerning Lease to Fort Morgan
+- 3. Consideration of Approval- Road Use Agreement with Glacier Construction to update and expand the
+- City of Fort Morgan’s existing wastewater treatment plant. (James Rehn, Interim Road and Bridge
+- SECOND AMENDMENT TO LEASE AND EASEMENT AGREEMENT FOR
+- THIS SECOND AMENDMENT TO LEASE AND EASEMENT AGREEMENT FOR
+- SOLAR ENERGY SYSTEM (this “Amendment”) is made as of this 6th day of October, 2026
+- A. Lessor and Lessee entered into that certain Lease and Easement Agreement for Solar
+- Energy System dated on or about June 4, 2024 (the “Agreement”)
+- B. That certain Memorandum of Lease and Easement Agreement for Solar Energy System
+- C. The Agreement and Memorandum encumber those certain premises defined and legally
+- described in Exhibit “1-A” to the Agreement (the “Real Property”)
+- D. Lessor and Lessee entered into that certain First Amendment to Lease and Easement
+- Agreement for Solar Energy System and Memorandum of Lease and Easement
+- Agreement for Solar Energy System dated December 16, 2025 (the “First
+- Amendment”), pursuant to which S ection 2.5 of the Agreement was repealed in its
+- E. Pursuant to Section 2.4 of the Agreement, Lessee obtained a survey of the Real
+- Property identifying the boundaries of the Leased Premises, prepared by Blew &
+- approximately 16.968 acres (739,146 square feet), more or less, and is a portion of the
+- real property identified by Morgan County Assessor’s Parcel No. 1041-363-00-901
+
+## [morgan-county#18] 2026-10-20 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- 2. Consideration of Approval – DHS MINUTES September 15, 2026
+- 3. Consideration of Approval – DHS WARRANTS for August 2026 (Susan Nitzel, Accounting
+- 4. Consideration of Approval – DHS CERTIFICATION OF PROVIDER AND VENDOR
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated October 6,
+- 2. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 3. Ratify the Board of County Commissioners approval of Contract 2026 CNT 061 TK Elevator
+- Corporation, term of contract until July 30, 2027
+- 1. Consideration of Approval- Bledsoe Amended Plat: To combine Lots 130 and 131 of the First Replat
+- of Morgan Heights Winslow Second Subdivision. (Nicole Hay, Planning & Zoning Director)
+- 2. Consideration of Approval-Bid Award 2026-1009-001 Morgan County Justice Center & East
+- Point Building Security Fence Project (Mike Cox, Building Maintenance Director)
+- 3. Consideration of Approval – First Amendment to Building Site Lease Agreement (Mike Cox,
+- 4. Presentation- Proposition 123 (Sue Boyett, United Way Executive Director) (Stephanie Hoy,
+
+## [morgan-county#19] 2026-10-20 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- 2. Consideration of Approval – DHS MINUTES September 15, 2026
+- 3. Consideration of Approval – DHS WARRANTS for August 2026 (Susan Nitzel, Accounting
+- 4. Consideration of Approval – DHS CERTIFICATION OF PROVIDER AND VENDOR
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated October 6,
+- 2. Ratify the Board of County Commissioners approval on assignment of Debt Collections to
+- 3. Ratify the Board of County Commissioners approval of Contract 2026 CNT 061 TK Elevator
+- Corporation, term of contract until July 30, 2027
+- 1. Consideration of Approval- Bledsoe Amended Plat: To combine Lots 130 and 131 of the First Replat
+- of Morgan Heights Winslow Second Subdivision. (Nicole Hay, Planning & Zoning Director)
+- 2. Consideration of Approval-Bid Award 2026-1009-001 Morgan County Justice Center & East
+- Point Building Security Fence Project (Mike Cox, Building Maintenance Director)
+- 3. Consideration of Approval – First Amendment to Building Site Lease Agreement (Mike Cox,
+- 4. Presentation- Proposition 123 (Sue Boyett, United Way Executive Director) (Stephanie Hoy,
+- Bledsoe Amended Plat
+- o First Replat of Morgan Heights Winslow Second Subdivision
+- o Application
+- o Permit Receipt
+- Site Plan/Maps
+- o Driveway Permit
+- Additional Application Information
+- o Tax Account Statement
+- PLANNING AND ZONING DEPARTMENT
+- Your application for an Amended Plat will go before the Board of County Commissioners for consideration
+- This application is to combine Lots 130 and 131 of the First Replat of Morgan Heights Winslow
+- Second Subdivision, being a replat of Lots 52 through 59 and Lots 126 through 136 of Morgan
+- The lots are in the Moderate Density Residential (MDR) zone and in the Fort Morgan Fire District. Lot
+- In reviewing an application for an amended plat to vacate interior lot lines in a previously approved
+- a) No additional lots will be created by the vacation
+- The application satisfies this criteria
+- b) The vacation is keeping with the purpose and intent of these Subdivision Regulations
+- c) The vacation will not create a nonconforming setback for any existing buildings
+- The lot line vacation will not create a nonconforming setback
+- requirements in Appendix B of the County’s Zoning Regulations
+- e) The vacation will not adversely affect access, drainage or utility easements or rights-of-way
+
+## [morgan-county#20] 2026-10-23 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated October 20,
+- 2. Ratify the Board of County Commissioners approval of Contract 2026 CNT 062 Specialty Shoppe
+- Floors and More, Inc., term of contract until December 01, 2026
+- 1. Hearing on County’s Notice of Intent to Take Enforcement Action and Order to Show Cause
+
+## [morgan-county#21] 2026-10-23 | City Council | agenda
+- 231 Ensign Street, Fort Morgan, CO 80701
+- All matters under the consent agenda are considered to be routine by the Board of County Commissioners
+- and will be enacted with a single vote. There will be no separate discussion of these items. If discussion
+- considered separately
+- 1. Ratify the Board of County Commissioners approval of BCC meeting minutes dated October 20,
+- 2. Ratify the Board of County Commissioners approval of Contract 2026 CNT 062 Specialty Shoppe
+- Floors and More, Inc., term of contract until December 01, 2026
+- 1. Hearing on County’s Notice of Intent to Take Enforcement Action and Order to Show Cause
+- Location Contact 1800 Broadway, Suite 300
+- October 23rd1 hearing. Fortress appreciates and thanks Morgan County (the “ County”) for this
+- established a plan to ensure clear, timely, and open communication going forward
+- By way of background, Fortress was grante d multiple special use permits (the “Permits”)
+- in 2024 for a three-phase so lar and battery project. In connection with the Permits, Fortress and
+- the County entered into a Public Improvements Agreement dated July 21st (the “PIA”) regarding
+- road improvement work (the “Road Improvement Work”) that Fortress would make to County
+- Roads Q and R (the “ Roads”). In connection with these obligations, Fortress retained Kimley
+- Horn (“KH”) as project engineer an d Elevated Paving to perform the paving work. The County
+- subcontractors with preference to companies that are familiar with Morgan County
+- The NOI Letter alleges violations of certain spec ific provisions in the Permits and the PIA
+- Those provisions fall within one of the following broader categories: (1) notice and communication
+- obligations, including review, inspection, and monitoring rights; (2) CDOT permit authorizations;
+- plan to avoid these issues moving forward
+- to observe proof rolling activities or other roadbed preparation prior to asphalt placement and did
+- commence paving prior to the County’s represen tatives arriving to observe the Roads on
+- requirement to strictly comply with all County regulations, the Permits, and the PIA, including all
+- however, Elevated Paving did not comply with that request until September 22nd. As noted above,
+- in a timely manner and not to commence any phys ical work on the Roads until the County has
+- provided its written approval. To document that approval, Mortenson w ill request the County’s
+- well as other pictures and reports evidencing proof rolling, roadbed preparation, and other
+- consultation with the County and HDR, Fortress has instead elected to crush and rebuild the road

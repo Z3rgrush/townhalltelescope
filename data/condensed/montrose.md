@@ -1,0 +1,631 @@
+# montrose
+
+## [montrose#0] 2026-07-28 | Historic Preservation Commission | agenda
+- participation. Individuals wishing to be heard during public hearing proceedings are encouraged to be
+- 1) APPROVAL OF MINUTES
+- A) Approval of minutes dated June 23, 2026
+- 2) PUBLIC COMMENT
+- 3) PUBLIC HEARING
+- A) Alteration to Designated Property Hearing - Montrose Radium Ore Sampler and
+- The commission will review the application for historic property alteration for
+- Action: Accept public comment/consider approval of the application
+
+## [montrose#1] 2026-07-28 | Historic Preservation Commission | agenda
+- participation. Individuals wishing to be heard during public hearing proceedings are encouraged to be
+- 1) APPROVAL OF MINUTES
+- A) Approval of minutes dated June 23, 2026
+- 2) PUBLIC COMMENT
+- 3) PUBLIC HEARING
+- A) Alteration to Designated Property Hearing - Montrose Radium Ore Sampler and
+- The commission will review the application for historic property alteration for
+- Action: Accept public comment/consider approval of the application
+- RE: Application for Alteration of a Designated Historic Property located at 112 W Main St and
+- On December 6, 2022, the Montrose City Council approved Ordinance 2604 on second
+- reading to designate the building located at 112 West Main Street (known as the Montrose
+- Radium Ore Sampler), and approved Ordinance 2605 on second reading to designate the
+- Code. Any alteration to a Designated Historic Property must be approved by the Historic
+- Commission under this Section, as well as apply for any other permits required by the City codes
+- use the following Review Criteria when reviewing applications for Alterations of Designated
+- criteria for this application are the Secretary of the Interior’s Standards for the Treatment of
+- are to be applied to specific rehabilitation projects in a reasonable manner, taking into
+- consideration economic and technical feasibility
+- Identified historical features will
+- of historical development, such as adding conjectural
+- 6. Deteriorated historic features shall be repaired rather
+- water-shedding properties
+- protect historic substrates
+- 8. Significant archeological resources affected by a project
+- this project
+- with this application
+- The Historic Preservation Ordinance in Section 11-3-1(B) of the Municipal Code states as
+- The intention of this ordinance is to create a reasonable balance between private property
+- Staff finds that proposed façade improvements make minimal change to identified historical
+- If the Historic Preservation Commission approved this application, staff will issue a
+- Certificate of Appropriateness to the owner of the building, and the owner may proceed
+- with the alterations as described to and approved by the Historic Preservation Commission
+- I move to approve the application for the Alteration of a Designated Historic Property
+- staff report, as described to and approved by the Historic Preservation Commission during
+- the public hearing on July 28, 2026
+- The Historic Preservation Commission may also vote to approve the application with
+- conditions as appropriate, or move to deny the application if the proposal does not meet
+- the code criteria based on the evidence and testimony presented at this hearing
+
+## [montrose#2] 2026-07-29 | City Council | minutes
+- Faurer, Hayden Janssen, Karen Sherman-Perez, John Broadbooks, Katrina Davis
+- DISCUSSION OF PROPOSED CHARTER AMENDMENTS
+- Mayor Michael Badagliacco stated that public comment would be limited to the two topics on
+- the special meetinB agenda, with each speaker allotted three minutes. City Councilors discussed
+- amendments on the agenda
+- City Councilor.J. David Reed requested that a statement he prepared be made part of the public
+- City councilors discussed an amendment to the City Charter to move general municipalelections
+- Public comment was acce pted
+- Jim Haugsness questioned whether the amendments would be one combined ballot question or
+- Dave Stockton, John Broadbooks, Cliff Faurer, Bob Nicholson, Holly Speaks, Doug Glaspell, Ryan
+- Perez spoke in opposition to the proposed charter amendment
+- John Brown spoke in favor of the proposed amendment to increase voter participation and in
+- discussed and whether this proposed amendment was discussed with county elections staff
+- Cou ncil discussed the terms of the cu rrent e lected officia ls if the measure passes. lt was suggested
+- that the structure of the ordinance would include provisions for those who currently hold office
+- Other unintended consequences would also be researched and addressed in the ordinance
+- City Councilors discussed the timeline for placlng the charter amendments on the November 3
+- ordinance titles must be set by August 6. The agendas must be finalized for the September 1
+- City Councilors discussed the necessity of the amendment. lt was pointed out that in the City's
+- Public comment was accepted
+- of projects in process has been considered as part of the proposed amendment
+- John Brown spoke in favor of the proposed amendment
+- Dave Bowman spoke in opposition to the amendment and in favor of a term limit for serving as
+- whether a transition plan for consistency and loss of institutional knowledge has been discussed
+- Karen Sherman-Perez requested more preparation for future discussions and more information
+- City Council discussed whether appointments to unexpired terms would count against the eight
+- year maximum. Wording was suggested for the ordinance that would state that appointment to
+- unexpired terms would not count. The short timeframe for drafting ordinances for each proposed
+- amendment was discussed. City Attorney Chris Dowsey requested clear direction on moving
+- draft ordinances for the two proposed amendments discussed this evening. J. David Reed and
+
+## [montrose#3] 2026-08-03 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no formal
+- or City staff may respond or engage in discussion should the comment provoke discussion. Please
+- refrain from any personal attacks and disagreements, personnel and employment matters, the use of
+- profanity or ethnic, racial, or gender-oriented slurs as they may be considered “disorderly conduct”
+- Hearing assistance devices are available for public use. Please let us know if you need
+- 1) DISCUSSION ITEMS
+- A) Fire Suppression System Project Authorization and Sole Source Waiver (15 minutes)
+- B) North Park Avenue Reconstruction Design Contract (10 minutes)
+- C) Partial Vacation of Drainage Easement at 1841 South Hillcrest Drive (10 minutes)
+- D) Partial Vacation of Nichols Way Right of Way (10 minutes)
+- 2) DISCUSSION OF PROPOSED CHARTER AMENDMENTS
+- B) Removing the possibility of ranked choice voting by amending the charter to allow
+- D) Police Chief appointment and removal with advice and consent of council
+- E) City Clerk appointment and removal with advice and consent of council
+- 3) GENERAL CITY COUNCIL DISCUSSION
+
+## [montrose#4] 2026-08-03 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no formal
+- or City staff may respond or engage in discussion should the comment provoke discussion. Please
+- refrain from any personal attacks and disagreements, personnel and employment matters, the use of
+- profanity or ethnic, racial, or gender-oriented slurs as they may be considered “disorderly conduct”
+- Hearing assistance devices are available for public use. Please let us know if you need
+- 1) DISCUSSION ITEMS
+- A) Fire Suppression System Project Authorization and Sole Source Waiver (15 minutes)
+- B) North Park Avenue Reconstruction Design Contract (10 minutes)
+- C) Partial Vacation of Drainage Easement at 1841 South Hillcrest Drive (10 minutes)
+- D) Partial Vacation of Nichols Way Right of Way (10 minutes)
+- 2) DISCUSSION OF PROPOSED CHARTER AMENDMENTS
+- B) Removing the possibility of ranked choice voting by amending the charter to allow
+- D) Police Chief appointment and removal with advice and consent of council
+- E) City Clerk appointment and removal with advice and consent of council
+- 3) GENERAL CITY COUNCIL DISCUSSION
+- Re: Fire Suppression System Project Authorization and Sole Source Waiver
+- Consider the authorization $75,000.00 for the installation of a fire suppression system including
+- a contract with Pye Barker in the amount of $69,987.00
+- coordinated to develop a plan and approach for a fire suppression system to be installed in the
+- City owned Network Operation Center (NOC). Currently, this location does not have a fire
+- system is recommended. A Clean Agent suppression system does not utilize water to suppress
+- a fire but instead uses an inert gas to suffocate the fire. This type of system helps to prevent
+- It is preferred to standardize the vendor across all City owned facilities for the fire and security
+- from Pye Barker was verified to be competitive and fair but there was not a formal bid process
+- for this service. There is a Sole Source Waiver included with this Memo for approval because
+- the project was not formally bid
+- This project is included in the 2026 budget in the amount of $75,000.00. The project was
+- SOLE SOURCE PURCHASING REQUEST
+- REQUESTING DEPARTMENT:___________________________ DATE: _______________
+- REQUESTED BY:______________________________________ BID NO.: _____________
+- JUSTIFICATION
+- (Initial all entries that apply to request)
+- 2. _____ The product, equipment or service requested is clearly superior functionally to all
+
+## [montrose#5] 2026-08-03 | City Council | agenda
+- comentarios recibidos del público
+- considerarse “conducta desordenada”, en violación de la legislación estatal o local
+- B) Contrato de diseño para la reconstrucción de North Park Avenue (10 minutos)
+- modificación de los estatutos para permitir únicamente la estructura actual de
+
+## [montrose#6] 2026-08-04 | City Council | minutes
+- Mayor Pro Tem Ed Ulibarri reported that ltem 14A, Wastewater Treatment Plant Project Update,
+- amendments to the City Charter were removed from consideration for placement on the
+- November ballot. Those amendments were related to he/she language updates, ranked choice
+- CALL FOR PUBLIC COMMENT
+- amendments, and the limited timeframe to add the amendments to the November ballot
+- and questioned why citizens who provide public comment face retribution in an online
+- Holly Speaks spoke in opposition to the City Council having oversight of the police chief
+- Shelly Robillard spoke in favor of the proposed charter amendments and in support of City
+- Council oversight of the Police Department
+- mayor to incorporate a welcoming tone
+- police chief and city clerk
+- Lorrie Martin questioned why City Councilors are proposing changes to the police chief and city
+- Luann Bennett spoke in support of horns and lights on new bicycles for police officers
+- APPROVAL OF MINUTES
+- City Council considered the minutes of the July 2L,2026, regular City Council meeting
+- City Councilconsidered Resolution 2026-10, authorizing the City of Montrose Police Department
+- to file an application for a Victim Assistance Law Enforcement (VALE) Grant through the 7th
+- current Victim Advocate's Salary and a new Victim Advocate's salary; ratifying the City Manager's
+- signature on the grant application; authorizing the Chief of Police to act in connection with the
+- application and to provide such additional information as required; and authorizing the City
+- Manager, Chief of Police and Finance Director to sign the reporting documents
+- Deputy Police Chief Larry Witte reported that the City has applied for VALE grants for over 20
+- Police Department. Victim Services Coordinator Chantelle Bainbridge stated that ratification of
+- the City Manager's signature is requested because the grant application deadline was earlier in
+- the day today. Staffing issues at the state level caused a delay in the Police Department receiving
+- the grant a pplication letter
+- Kim Spangrude spoke in support of the resolution
+- ratify the City Manager's signature on the grant application as presented. All voted yes. Motion
+- RESOLUTION 2O26-TL
+- City Council considered Resolution 2026-ll, setting September L5,2026, as the hearing date for
+- the Locust Road Addition annexation
+- Senior Planner William Reis reviewed the annexation schedule and the location of the 4.2 acres
+- at 1815 Locust Road. Mr. Reis said the property is within City of Montrose water and sewer service
+- areas and meets contiguity requirements. Mr. Reis reviewed the requested zoning designation of
+
+## [montrose#7] 2026-08-11 | Historic Preservation Commission | agenda
+- participation. Individuals wishing to be heard during public hearing proceedings are encouraged to be
+- 1) PUBLIC COMMENT
+- 2) PUBLIC HEARING
+- A) Alteration to Designated Property Hearing - Montrose Post Office
+- The commission will review the application for historic property alteration for
+- Action: Accept public comment/consider approval of the application
+
+## [montrose#8] 2026-08-12 | Planning Commission | minutes
+- Asst. City Attorney), lace Hochwalt ( Community Development Director), Scott Murphy ( City Engineer),
+- Approval of Minutes
+- Richard Rogers moved to approve the minutes of the June 24, 2026, meeting as submitted. Delphine
+- Star Court Lot 8 Townhomes Subdivision Preliminary Plat
+- This is a hearing for a proposed subdivision located on Lot 8 of the Miami Business Park Subdivision
+- Filing No. 2, also addressed as 739-749 East Star Court. This application subdivides the townhomes,
+- Staff Presentation
+- Applicant Presentation
+- A Planning Commissioner asked if it was the same as the sketch plan viewed previously, and Mr. Julian
+- Public Comment
+- Delphine Jadot moved to recommend to City Council approval of the Preliminary Plat application with
+- the following condition(s). The approval of this Preliminary Plat is expressly conditioned upon City staff
+- ensuring that all policies, regulations, ordinances and municipal code provisions are met and that the
+- Applicant adequately addresses all of staffs concerns prior to the execution of the Final Plat. The City
+- staff is not authorized by this approval to execute the Final Plat prior to all conditions being satisfied
+- The request meets the Code criteria based on the evidence and testimony presented at this hearing and
+- LOCUST ROAD ADDITION INITIAL ZONING
+- This is a hearing for the initial zoning of the Locust Road Addition, a pending annexation of 1815 Locust
+- Road, as well as a portion of the Locust Road right of way. The applicant has requested the " R-2" Low
+- Density District zoning designation. The applicant is Gustavo Martinez
+- Road if the residential presence is expanded
+- Planning Commissioners and staff discussed prioritizing pedestrian infrastructure and eventually
+- rebuilding Locust Road to its true minor arterial classification
+- Phoebe Benziger moved to recommend approval of the initial zoning request of " R-2" Low District. The
+- request meets the Code criteria based on the evidence and testimony presented at this hearing and inthe staff report. Beth McCorkle seconded, and the motion passed unanimously
+- CHELSI LANE & TOWNHOMES AMENDED PD PLAN
+- This is a hearing for a proposed amendment to the Chelsi Replat Amended PD Plan and Preliminary Plat
+- The previously approved PD plan from 1992 approved 24 units in this portion of the property. This PD
+- amendment reduces the number to 23. There are no further changes to the PD plan. The applicant is
+- exhibits have been entered into the record. Scott Murphy gave an infrastructure overview, includingdrainage, sewer, sidewalks, and fire protection
+
+## [montrose#9] 2026-08-17 | City Council | minutes
+- 24-6-402(41(bl, and the following additional details are provided for identification purposes:
+- litigation update and discussion. All voted yes. Motion passed
+
+## [montrose#10] 2026-08-18 | City Council | minutes
+- YOU MAKE A DIFFERENCE AWARD PRESENTATION
+- Mayor Michael Badagliacco presented a You Make a Difference award to Visitor Center Volunteer
+- CALL FOR PUBLIC COMMENT
+- Beth Mccorkle spoke in opposition to the proposed charter amendments
+- Carol Howe spoke in support of enacting a moratorium on new data centers until regulations are
+- John Brown spoke in support of the proposed charter amendments
+- Butch Zinsli spoke in favor of an electronic traffic speed sign on Miami Road by Cedar Creek
+- APPROVAL OF MINUTES
+- City Council considered the minutes of the July 29, 2026, special City Council meeting and the
+- City Council considered the rescheduling of the November 3,2026, regular City Council meeting
+- NEW HOTELAND RESTAURANT LIQUOR LICENSE APPLICATION
+- City Council considered an application for a new Hotel and Restaurant liquor license application
+- at 512 E. Main Street for Pruf Concepts lnc., doing business as Pruf, for consumption on the
+- licensed premises. A hearing was held
+- City Attorney Chris Dowsey reported that the application is in order, the fees have been paid, and
+- raised during the hearings, but in this case, the applicants have minor criminal infractions
+- business plan is to create a gathering space downtown in a unique building
+- Mayor Michael Badagliacco opened the hearing
+- Public comment was accepted. No comments were received
+- Restaurant liquor license at 512 E. Main Street for Pruf Concepts Inc., doing business as Pruf, for
+- NEW HOTEL AND RESTAURANT LIQUOR LICENSE APPLICATION
+- at L245 E. Main Street for Claudia's Kitchen & Bakery, doing business as Claudia's Kitchen &
+- Bakery, for consumption on the licensed premises. A hearing was held
+- business due to customer requests for more bakery items. She plans to offer breakfast, lunch,
+- purchase of alcohol. Mr. Hernandez said she is familiar with the City's alcohol server training and
+- Mayor Badagliacco closed the hearing
+- Restaurant liquor license at 7245 E. Main Street for Claudia's Kitchen & Bakery, doing business as
+- FIRE SUPPRESSION SYSTEM PROJECT AUTHORIZATION AND SOLE SOURCE
+- City Council considered the authorization of S75,000.00 for the installation of a fire suppression
+- system in the Network Operation Center, including a contract with Pye Barker in the amount of
+- Facilities Manager Brayden Reeder reviewed the components of a safe gas system, a fire
+- suppression that does not use water and removes the oxygen from the room. Mr. Reeder said
+- Mr. Reeder recommended approval of a sole source purchase and contract with Pye Barker,
+- best to avoid multiple contracts for monitoring
+
+## [montrose#11] 2026-08-26 | General | minutes
+- 24-6-4o2(41(bl and (axg) as applicable concerning discussion of a confidential memo addressed
+- only to Council as well as to discuss the possibility, if appropriate, to hire independent counsel
+- posted purpose of the executive session were discussed. The motion was not seconded
+- City Attorney Chris Dowsey stated that he is appointed by City Council and reports to City Council,
+- ethical standards he must abide by to retain his license through the Colorado Bar
+- A discussion was held regarding the ability of City Council to employ special counsel in special
+- City Manager Bill Bell suggested having a discussion as a team and then determining if an
+- investigation would be supported. Mr. Dowsey recommended conducting the discussion in
+- 24-6-402(4llbl, and the following additional details are provided for identification purposes: April
+
+## [montrose#12] 2026-08-31 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no
+- City Council or City staff may respond or engage in discussion should the comment provoke
+- discussion. Please refrain from any personal attacks and disagreements, personnel and employment
+- matters, the use of profanity or ethnic, racial, or gender-oriented slurs as they may be considered
+- Hearing assistance devices are available for public use. Please let us know if you need
+- 1) DISCUSSION ITEMS
+- A) Rotary Park Pump House Replacement Authorization (15 minutes)
+- Staff: Parks Superintendent Jon Waschbusch
+- 2) GENERAL CITY COUNCIL DISCUSSION
+
+## [montrose#13] 2026-08-31 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no
+- City Council or City staff may respond or engage in discussion should the comment provoke
+- discussion. Please refrain from any personal attacks and disagreements, personnel and employment
+- matters, the use of profanity or ethnic, racial, or gender-oriented slurs as they may be considered
+- Hearing assistance devices are available for public use. Please let us know if you need
+- 1) DISCUSSION ITEMS
+- A) Rotary Park Pump House Replacement Authorization (15 minutes)
+- Staff: Parks Superintendent Jon Waschbusch
+- 2) GENERAL CITY COUNCIL DISCUSSION
+- From: Jon Waschbusch, Parks Superintendent
+- Re: Rotary Park Pump House Replacement
+- Consideration of the Rotary Park Pumphouse Replacement Project in the amount of
+- $514,011.00 including a contract to FCI Constructors, Inc. of Grand Junction, Colorado
+- The irrigation pumphouse and appurtenant equipment at Rotary Park was installed in the 1980s
+- and has ultimately reached the end of its useful life. The purpose of this project is to remove the
+- A competitive RFP was issued in July of 2026 to solicit proposals for this work. The Parks
+- ● Qualifications/Similar Project Experience: 25%
+- ● Overall Presentation, Level of Detail, and Project Understanding: 25%
+- ● Team Assigned to the Project/Proposed Sub-Consultants: 10%
+- Below is a breakdown of the bid prices received
+- Company Total Bid Price
+- FCI Constructors, Inc. was the low bidder and top score for this review
+- City staff recommend awarding the construction contract for the Rotary Park Pumphouse
+- Replacement project (Bid #26-012) to FCI Constructors, Inc
+- The adopted 2026 budget included $500,000 for this capital project. The recommended award
+- to FCI Constructors, Inc. will be a construction contract in the amount of $467,283.00. There is
+- a 10% owners contingency added to the contract amount to bring the total authorized amount to
+- $514,011.00. This is $14,011.00 over the budgeted amount for this project but will be covered
+- by savings from other capital projects in the 2026 Public Works budget
+
+## [montrose#15] 2026-09-01 | City Council | minutes
+- Phoebe Benziger, Cliff Faurer, John Broadbooks, Jan Edwards, Janet Eckerdt, Patty Greeves, Doug
+- Weaver, Pat Riddell, Butch Zinsli, Stephen Waters, Steve DeGolier, Jeff Guynes, Carol McBride,
+- CALL FOR PUBLIC COMMENT
+- Rick Bleier spoke in support of the charter amendment to move municipal elections to November
+- Matt Goldasich proposed changes to the Comprehensive Plan and Municipal Code related to
+- residential developments and minor subdivisions and in favor of adhering to the Comprehensive
+- John Brown spoke in support of the installation of an electronic speed indicator on Miami Road
+- APPROVAL OF MINUTES
+- City Council considered the minutes ofthe August L7,2026, special City Council meeting and the
+- PROPOSED AMENDMENTS TO THE CITY CHARTER
+- amendments associated with Ordinances 2727,2728,2729, and 2730, citing the division that
+- City Attorney Chris Dowsey presented an overview of the proposed amendments and the
+- Ordinance 2727: Ordinance 2727 sets the ballot language for an amendment that would move
+- Ordinance 2728: Ordinance 2728 sets the ballot language to establish 8-year lifetime term limits
+- years would be eligible for appointment or election. Mr. Dowsey stated that sitting Councilors
+- Ordinance 2729: Ordinance 2729 sets the ballot language for an amendment that would grant
+- City Council approval rights for the appointment and discharge of the police chief
+- Ordinance 2730: Ordinance 2730 sets the ballot la nguage for an amendment to grant City Council
+- approval rights for the appointment and discharge of the city clerk. Mr. Dowsey stated that the
+- Ordinance wording was modified at the August 18 City Council meeting, and the modified version
+- was approved on first reading
+- ORDINANCE 2727 - SECOND READING
+- City Council considered Ordinance 2727 on second reading, an Ordinance ofthe City of Montrose,
+- amendments to the Charter of the City of Montrose, Article I Section 8 and Article lll Sections 1
+- Marcinek spoke in support of the adoption of Ordinance 2727
+- opposition to the adoption of Ordinance 2727
+- Holly Speaks spoke in favor of bringing a more diverse electorate into the municipal elections
+- ORDINANCE 2728 - SECOND READING
+- City Council considered Ord ina nce 2728 on second read ing, a n Ord ina nce of the City of M ontrose,
+- amendments to the Charter of the City of Montrose, Article I Sections 7, 8 and l.L and Article lll
+- Section 1 to amend term limits of the at-large council member; setting a lifetime eight-year limit
+- Rick Bleier, Leah Vandersluis, and John Brown spoke in support of Ordinance 2728
+- Cliff Faurer spoke in opposition to Ordinance 2728
+
+## [montrose#17] 2026-09-14 | City Council | minutes
+- executive session for discussion of specialized details of security arrangements or investigations
+- under C.R.5- Section 24-6-402(4)(d); and the following additional details are added for identification
+
+## [montrose#18] 2026-09-15 | City Council | minutes
+- CALL FOR PUBLIC COMMENT
+- 25th anniversary of 9/11. Mr. Riba also thanked the Montrose Police Department, the Montrose
+- Fire Protection District, the Montrose County Sheriff's Office, and local businesses that supported
+- spoke in support of growth paylng its own way and upholding Comprehensive Plan standards
+- favor of the City Council being a representation of the overall community
+- APPROVAL OF MINUTES
+- City Council considered the minutes of the August 26,2026, special City Council meeting and the
+- RATIFICATION OF SEPARATION AGREEMENT
+- City Council considered the ratification of the Separation Agreement between the City of
+- request of then city manager Bill Bell. Mr. Dowsey stated that after the executive session and
+- discussion in open session, City Council voted to approve a mutual separation agreement
+- not specifically noticed. This agenda item is to ratify the September 1 decision and cure any
+- The Separation Agreement is available to the public in the meeting packet
+- Public comment was accepted. No comments were received
+- INTERIM CITY MANAGER AGREEMENT
+- City Council considered an lnterim City Manager Agreement between the City of Montrose and
+- City Attorney Chris Dowsey reported that on September 1, after the Separation Agreement
+- between the City of Montrose and William Bellwas approved, the City Council voted to appoint
+- Ann Morgenthaler as lnterim City Manager and to draft an agreement effective September 1. Mr
+- Dowsey said this agenda item is to ratify the decision by City Council and to approve the lnterim
+- City Manager Agreement with Ann Morgenthaler. Mr. Dowsey stated that the Agreement is
+- effective September 1 as requested by City Council and is open ended to allow flexibility of time
+- during recruitment of a city manager. The Agreement is available to the public in the meeting
+- Manager Agreement between the City of Montrose and Ann Morgenthaler as presented. A vote
+- was not conducted on the motion to allow for public comment
+- MONTROSE URBAN RENEWAL AUTHORIW EXECUTIVE DIRECTOR APPOINTMENT
+- City Council considered the appointment of Ann Morgenthaler as Montrose Urban Renewal
+- City Attorney Chris Dowsey reported that this topic was discussed at the work session yesterday
+- Currently, Bill Bell is the appointed executive director for MURA. When the City and Mr. Bell
+- executive director sha ll be appointed by City Council or the city manager. Mr. Dowsey stated that
+- for the sake of continuity, it is presented to City Council to appoint Ann Morgenthaler as MURA
+- ROTARY PARK PUMP HOUSE REPLACEMENT PROJECT
+- City Council considered a contract with FCI Constructors, lnc., in the amount of 5514,011.00 for
+
+## [montrose#20] 2026-09-23 | Planning Commission | minutes
+- Staff Members Present: Gregory Stunder ( Asst. City Attorney), Jace Hochwalt ( Community Development
+- Approval of Minutes
+- Phoebe Benziger moved to approve the minutes of the August 12, 2026, meeting as submitted. Ronald
+- Comprehensive Plan Updates
+- Jace Hochwalt gave an overview and history of the Envision 2040 comprehensive plan, and reported on
+- the recent state - mandated long-range planning requirements for local governments, including a housing
+- needs assessment, housing action plan, water supply, and strategic growth. The housing assessment is
+- Staff is working on a targeted, standard five-year technical update to the comprehensive plan, with the
+- goal being a shorter, more user-friendly, readable plan, as well as updating the land development
+- The project website will have all current plan drafts as they are created. Regarding the schedule, which
+- will be sent out, the goal is to have everything approved by year's end, possibly including the strategic
+- Discussion was held among Commissioners, staff, and the consulting team regarding grant funding; how
+- the state mandates may affect the plan from developer and property owner standpoints; overlaying the
+- current map with the future plan to better indicate land use density; map titling and refining density
+
+## [montrose#21] 2026-10-02 | City Council | minutes
+- DISCUSSION OF COUNCIL MEMBER VACANCY
+- time is possible to make the appointment. Mr. Dowsey stated that the District lV seat was vacated
+- on September 7, and the City Charter requires an appointment to the vacant seat within 30 days
+- Mr. Dowsey reviewed possible paths forward if an appointment is not made in accordance with
+- Mr. Reed proposed that City Council consider appointing Adam Woodden to the District lV seat
+- which would create a vacancy in the At-Large seat. The application process would reopen
+- opportunity to identify an applicant that all four City Council members could support. Mr. Reed
+- City Council to agree on an appointment
+- for appointment to the District lV seat and reopen the application process. Citizens who
+- submitted applications for the District lV seat would not need to reapply
+- Mr. Woodden confirmed that he is willing to proceed with the resignation and appointment. Mr
+- Dowsey stated that this is a legally available option, and Mr. Woodden would be appointed until
+- the application process would open on October 7 with a deadline of October 21. An update on
+- with appointment at the regular City Council meeting on November 2
+- applications forward for the At-Large seat if desired
+- meeting agenda will be amended to include the appointment of Mr. Woodden to the District lV
+- seat. An oath of office will be administered following Mr. Woodden's appointment
+- receive unanimous support and suggested pursuing an opportunity to broaden the pool of
+
+## [montrose#22] 2026-10-05 | City Council | minutes
+- executive session for discussion of a personnel matter under C.R.S. Section 2a-6-ao2(allfl, and
+- the following additional details are provided for identification purposes: Municipal Court Judge
+
+## [montrose#23] 2026-10-06 | City Council | minutes
+- CALL FOR PUBLIC COMMENT
+- Armour spoke regarding issues with students parking on residential streets near the high school
+- The speakers requested reinstatement of permit-only parking on the residential streets and
+- increased police presence
+- City Council meeting. Mr. Reed stated the importance of a consensus in the appointment decision
+- to foster a welcoming and engaging atmosphere. Mr. Reed proposed appointing Adam Woodden
+- to the vacant District lV seat and accepting applications from citizens city-wide for the At-LarBe
+- seat. Mr. Reed stated that Mr. Woodden's term is not extended by an appointment to the District
+- makes him eligible for appointment to the District lV seat
+- APPOINTMENT OF DISTRICT IV CITY COUNCILOR
+- City Council considered the appointment of Adam Woodden to the vacant District lV seat on the
+- Mayor Pro Tem Ed Ulibarri stated that he agrees with the proposal and opening the application
+- APPROVAL OF MINUTES
+- City Council considered the minutes ofthe September L4,2026, special City Council meeting and
+- YOUTH CITY COUNCIL APPOINTMENTS
+- City Council considered applicants Niyati Patel, Keira Oldroyd, Jasper Vigil, Ella Sales, Dylan Box,
+- Mr. Woodden amended the motion to remove Dylan Box from the list of applicants. Mr. Ulibarri
+- seconded the amended motion. All voted yes. Motion passed
+- IT PURCHASE AUTHORIZATION - NEOGOV HUMAN RESOURCES SOFTWARE
+- City Council considered the renewal of the subscription of Neocov Human Resources software
+- cost since this topic was discussed at the September 15 work session. Mr. Story said the cost
+- initially was 567,987.40. Mr. Story said this HR platform is used for talent acquisition, hiring,
+- onboarding, employee development, performance management, retention, and compliance
+- Funding for the subscription purchase is allocated within the 2026 budget
+- Public comment was accepted. No comments were received
+- IT PURCHASE AUTHORIZATION - OPTIVE FIREWALL SUBSCRIPTION
+- City Council considered a three-year agreement for firewall subscription, updates, and support
+- contract with Optive for firewall subscription, updates, and support for the amount of 580,767.64
+- ORDINANCE 2731 - SECOND READING
+- City Council considered Ordinance 2731on second reading, an Ordinance of the City of Montrose,
+- Colorado, for the annexation of the Locust Road Addition
+- Senior Planner William Reis reviewed the annexation schedule and the location of the 4.2 acres
+- within City of Montrose water and sewer service areas and said a portion of the Locust Road right
+- of way is included within the annexation. Mr. Reis also reviewed the intent of the requested "R
+
+## [montrose#24] 2026-10-14 | Planning Commission | agenda
+- to be heard during public hearing proceedings are encouraged to be prepared and will generally be
+- 3) Approval of Minutes of the September 23, 2026 Planning Commission meeting
+- 5) CHIPETA LAKE 2 ADDITION INITIAL ZONING This is a hearing for the initial zoning of the
+- Chipeta Lake 2 Addition, a pending annexation of Tract 3 of the Chipeta Road Dedication
+- The applicant has requested the "P" Public District zoning designation. The applicant is the
+- 6) SPRUCE POINT SUBDIVISION AMENDED PRELIMINARY PLAT This is a hearing for a
+- Subdivision, adjacent to 6400 Road and at the end of Sanctuary Drive, Prospect Drive, and
+- Sleep Rock Drive. This plat renews and amends the undeveloped portion of the Spruce
+- Spruce Point Development Company, LLC
+
+## [montrose#25] 2026-10-14 | Planning Commission | agenda
+- to be heard during public hearing proceedings are encouraged to be prepared and will generally be
+- 3) Approval of Minutes of the September 23, 2026 Planning Commission meeting
+- 5) CHIPETA LAKE 2 ADDITION INITIAL ZONING This is a hearing for the initial zoning of the
+- Chipeta Lake 2 Addition, a pending annexation of Tract 3 of the Chipeta Road Dedication
+- The applicant has requested the "P" Public District zoning designation. The applicant is the
+- 6) SPRUCE POINT SUBDIVISION AMENDED PRELIMINARY PLAT This is a hearing for a
+- Subdivision, adjacent to 6400 Road and at the end of Sanctuary Drive, Prospect Drive, and
+- Sleep Rock Drive. This plat renews and amends the undeveloped portion of the Spruce
+- Spruce Point Development Company, LLC
+- Staff Members Present: Gregory Stunder (Asst. City Attorney), Jace Hochwalt (Community Development
+- Approval of Minutes
+- Phoebe Benziger moved to approve the minutes of the August 12, 2026, meeting as submitted. Ronald
+- Comprehensive Plan Updates
+- Jace Hochwalt gave an overview and history of the Envision 2040 comprehensive plan, and reported on
+- the recent state-mandated long-range planning requirements for local governments, including a housing
+- needs assessment, housing action plan, water supply, and strategic growth. The housing assessment is
+- Staff is working on a targeted, standard five-year technical update to the comprehensive plan, with the
+- goal being a shorter, more user-friendly, readable plan, as well as updating the land development
+- The project website will have all current plan drafts as they are created. Regarding the schedule, which
+- will be sent out, the goal is to have everything approved by year’s end, possibly including the strategic
+- Discussion was held among Commissioners, staff, and the consulting team regarding grant funding; how
+- the state mandates may affect the plan from developer and property owner standpoints; overlaying the
+- current map with the future plan to better indicate land use density; map titling and refining density
+- Re: Chipeta Lake 2 Addition Annexation
+- ● Exhibit B: Zoning Code Excerpt
+- property owners within 300 feet, and an ad appeared in the Montrose Daily Press
+- Planning Commission Consideration:
+- The Planning Commission is making a recommendation of initial zoning for the Chipeta Lake 2
+- Addition annexation application. The Planning Commission shall consider all of the information
+- Application Background:
+- The Chipeta Lake 2 Addition is a proposed annexation approximately 1.14 acres in size. The
+- annexation consists of Tract 3 of the Chipeta Road Dedication. It is within the City’s Urban
+
+## [montrose#26] 2026-10-20 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment received
+- hearing proceedings are encouraged to be prepared and will generally be limited to three minutes to
+- Spanish interpretation may be provided upon request, subject to availability. Please email the City at least
+- 6) CALL FOR PUBLIC COMMENT FOR NON-AGENDA ITEMS
+- The “Call for Public Comment” agenda item is a time when concerned members of the
+- community may publicly voice their concerns and discuss items of interest. Please note
+- that neither City Council nor City staff are expected to respond or engage in discussion or
+- Please refrain from any personal attacks and disagreements, personnel and employment
+- considered “disorderly conduct” which violates state or local law
+- 7) APPROVAL OF MINUTES (5 minutes)
+- City Council consideration of the minutes of the October 2, 2026, special City Council
+- Action: Consider making a motion to approve the minutes of the October 2, 2026, special
+- 8) RESOLUTION 2026-16 (15 minutes)
+- City Council consideration of Resolution 2026-16, a Resolution of the City Council of the
+- City of Montrose, Colorado, making a commitment to increase affordable housing units
+- consistent with Colorado Proposition 123. Staff: Community Development Director Jace
+- Action: Accept public comment. Consider making a motion to adopt Resolution 2026-16
+- City Council consideration of an expenditure authorization in the amount of $28,597.00 to
+- Community Development Director Jace Hochwalt
+- Action: Accept public comment. Consider approving a $28,597.00 expenditure to The
+- 10) RESOLUTION 2026-17 (15 minutes)
+- City Council consideration of Resolution 2026-17, a Resolution of the City of Montrose,
+- A) Sales, Use, and Excise Tax Report (5 minutes)
+- Staff: Sales Tax Manager Leeanne Whittaker
+- are added for identification purposes: quarterly litigation update
+
+## [montrose#27] 2026-10-20 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment received
+- hearing proceedings are encouraged to be prepared and will generally be limited to three minutes to
+- Spanish interpretation may be provided upon request, subject to availability. Please email the City at least
+- 6) CALL FOR PUBLIC COMMENT FOR NON-AGENDA ITEMS
+- The “Call for Public Comment” agenda item is a time when concerned members of the
+- community may publicly voice their concerns and discuss items of interest. Please note
+- that neither City Council nor City staff are expected to respond or engage in discussion or
+- Please refrain from any personal attacks and disagreements, personnel and employment
+- considered “disorderly conduct” which violates state or local law
+- 7) APPROVAL OF MINUTES (5 minutes)
+- City Council consideration of the minutes of the October 2, 2026, special City Council
+- Action: Consider making a motion to approve the minutes of the October 2, 2026, special
+- 8) RESOLUTION 2026-16 (15 minutes)
+- City Council consideration of Resolution 2026-16, a Resolution of the City Council of the
+- City of Montrose, Colorado, making a commitment to increase affordable housing units
+- consistent with Colorado Proposition 123. Staff: Community Development Director Jace
+- Action: Accept public comment. Consider making a motion to adopt Resolution 2026-16
+- City Council consideration of an expenditure authorization in the amount of $28,597.00 to
+- Community Development Director Jace Hochwalt
+- Action: Accept public comment. Consider approving a $28,597.00 expenditure to The
+- 10) RESOLUTION 2026-17 (15 minutes)
+- City Council consideration of Resolution 2026-17, a Resolution of the City of Montrose,
+- A) Sales, Use, and Excise Tax Report (5 minutes)
+- Staff: Sales Tax Manager Leeanne Whittaker
+- are added for identification purposes: quarterly litigation update
+- DISCUSSION OF COUNCIL MEMBER VACANCY
+- time is possible to make the appointment. Mr. Dowsey stated that the District IV seat was vacated
+- on September 7, and the City Charter requires an appointment to the vacant seat within 30 days
+- Mr. Dowsey reviewed possible paths forward if an appointment is not made in accordance with
+- receive unanimous support and suggested pursuing an opportunity to broaden the pool of
+- Mr. Reed proposed that City Council consider appointing Adam Woodden to the District IV seat
+- which would create a vacancy in the A t-Large seat. The application process would reopen
+- opportunity to identify an applicant that all four City Council members could support. Mr. Reed
+
+## [montrose#28] 2026-10-20 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no
+- City Council or City staff may respond or engage in discussion should the comment provoke
+- discussion. Please refrain from any personal attacks and disagreements, personnel and employment
+- matters, the use of profanity or ethnic, racial, or gender-oriented slurs as they may be considered
+- Hearing assistance devices are available for public use. Please let us know if you need
+- 3) DISCUSSION ITEMS
+- B) Fee Schedule Revisions for 2027 (20 minutes)
+- C) Rescinding the Emergency Declaration for the Ouray Wildfire (10 minutes)
+- D) Black Canyon Flats Ogden Frontage Piping Funding Request (10 minutes)
+- E) The Shepherd's Hand Shelter Funding Request (10 minutes)
+- Staff: Community Development Director Jace Hochwalt
+- F) Proposition 123 Affordable Housing Opt-In (10 minutes)
+- G) Landfill Agreement Extension Recommendation (10 minutes)
+- H) 2025 Financial Statements and Annual Audit Presentation (20 minutes)
+- 4) GENERAL CITY COUNCIL DISCUSSION
+
+## [montrose#29] 2026-10-20 | City Council | agenda
+- *Please note that the times listed are estimates only. Actual times may vary depending upon discussion and public comment re ceived
+- Public comment will be accepted on topics listed under “Discussion Items.” Please note that no
+- City Council or City staff may respond or engage in discussion should the comment provoke
+- discussion. Please refrain from any personal attacks and disagreements, personnel and employment
+- matters, the use of profanity or ethnic, racial, or gender-oriented slurs as they may be considered
+- Hearing assistance devices are available for public use. Please let us know if you need
+- 3) DISCUSSION ITEMS
+- B) Fee Schedule Revisions for 2027 (20 minutes)
+- C) Rescinding the Emergency Declaration for the Ouray Wildfire (10 minutes)
+- D) Black Canyon Flats Ogden Frontage Piping Funding Request (10 minutes)
+- E) The Shepherd's Hand Shelter Funding Request (10 minutes)
+- Staff: Community Development Director Jace Hochwalt
+- F) Proposition 123 Affordable Housing Opt-In (10 minutes)
+- G) Landfill Agreement Extension Recommendation (10 minutes)
+- H) 2025 Financial Statements and Annual Audit Presentation (20 minutes)
+- 4) GENERAL CITY COUNCIL DISCUSSION
+- Re: 2027 Fee Schedule
+- ● Proposed Fee Schedule Revisions for 2027
+- City Council consideration of proposed revisions to the fee schedule effective January 1, 2027
+- Proposed fee schedule revisions are brought to City Council each year for discussion at an
+- October work session. Adoption of the fee schedule for the upcoming year is considered by City
+- budget ordinance
+- 3-1-1 (A) Administrative Fees
+- Special Waste Collection fees were moved to Section 3-1-3 (C)
+- 3-1-1 (C) Cemetery Fees
+- Lot sale fees were increased to align with other regional cemeteries
+- Lot sale fees were added for infant lots
+- Open/close fees were increased to cover actual costs; additional categories were added
+- Overtime fees were increased and updated to cover actual costs
+- Columbarium niche plate costs were updated to reflect actual costs
+- 3-1-1 (D) Land Use Fees
+- The Land Dedication Fee in Lieu – School Fee was increased to reflect current property
+- values and maintain consistency with Montrose County’s fee structure
+- 3-1-1 (F) Parks/Private Use of Public Property
+- The memorial bench fee was increased to reflect the actual cost of the bench
+- A $75 fee was added for staff to turn on electricity for a park shelter reservation
+- 3-1-1 (H) Building Code Fees
+- A $50 reinspection fee was added and applies to each reinspection beginning with the
+- third violation identified for the same inspection under the same permit
+- 3-1-3 (A) Water Rates and Fees

@@ -1,0 +1,564 @@
+# westminster
+
+## [westminster#0] 2026-08-03 | City Council Study Session | agenda
+- 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- 4. PRESENTATIONS
+- A. Recommendations for the 2027-2028 Utility Rates and Rate Structure
+- Amendments to the Westminster Municipal Code Regarding Unlawful
+- Modernize Tax Administration
+- Identifying Possible Locations for Future Fire Stations and
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 2: Connected and Inclusive Community
+- Strategic Priority 3: Healthy and Safe
+- public safety, protect the environment, and strengthen community beautification
+- Strategic Priority 5: Resilient Infrastructure
+- Subject: Recommendations for the 2027-2028 Utility Rates and Rate Structure
+- Erin Ferriter, Policy and Budget Manager
+- Mandy Lemig, Policy and Budget Coordinator
+- Receive a presentation outlining water, sewer, and stormwater rates and structures and provide
+- direction for the 2027 and 2028 budget years
+- City Council completed a review of the 2026 budget development process with Staff in
+- November 2025. Based on those discussions, Staff updated the budget development process
+- including a new community-driven engagement process exploring water rates
+- City Council established the Water Affordability To Everyone Resident (WATER) Task Force
+- on April 6, 2026 to serve in an advisory capacity to the City with respect to water rates and
+- On July 6, 2026, City Council received a presentation and report from the WATER Task Force
+- detailing the Task Force’s recommendations on water utility rates and rate structure
+- City Council’s direction is sought on the 2027–2028 water and sewer utility rates and
+- stormwater fees, incorporating the WATER Task Force’s water rate and design
+- recommendations along with additional Staff recommendations for water rates based on City
+- Council feedback, in addition to sewer rates and stormwater fees recommendations
+- Should City Council receive a presentation and provide direction on the City’s water and sewer rates
+- and structure, as well as stormwater management fees, to support the sustainable and affordable
+- City Council could choose not to receive the presentation or provide direction on the City’s water,
+- sewer, and stormwater rates and structure. This alternative is not recommended as Staff is preparing
+- the budget for 2027 and the rates and fees are necessary components of the budget to sustainably
+- Following the adoption of the 2026 budget, City Council conducted a review of the budget
+- development process with Staff to assess strengths and identify opportunities for improvement
+- Incorporating this feedback along with input from the budget development best practices
+
+## [westminster#1] 2026-08-10 | City Council Meeting | agenda
+- reviewed the materials and may have discussed them previously at a Study Session
+- Members of the public are invited to speak during Public Comment on any matter related
+- to City business, except for items scheduled for a formal public hearing. For public
+- hearing items, the Mayor will call for public testimony at the appropriate time. Please
+- 3. CONSIDERATION OF MINUTES OF PRECEDING MEETING
+- 4. PRESENTATIONS
+- A. Presentation from Adams 12 Five Star Schools on Supporting Thriving
+- 5. PUBLIC COMMENT
+- To submit a public comment, call 303-706-3111 to leave a recorded message,
+- A. Public Comment for August 10, 2026
+- 8. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- an item for separate discussion. Items removed from the consent agenda will
+- be considered immediately following adoption of the amended Consent
+- A. Second Reading of Councillor’s Bill No. 29 Re: Northridge at Park Centre,
+- Lot 13B-1 Comprehensive Plan Amendment
+- B. Second Reading of Councillor’s Bill No. 30 Re: Approving an Economic
+- Development Agreement with Mi Pueblo Market for the Adaptive Re-Use of
+- C. Authorization to Execute an Amendment to the Agreement with
+- D. Authorization to Execute a Contract Amendment for Construction Services
+- with Ulliman Schutte Construction, LLC for the Northwest Water Treatment
+- Facility and Semper Water Treatment Facility Major Repair and
+- Replacement Project
+- E. Authorization to Execute a Contract with Rhino Engineering Solutions, LLC
+- and Insituform Technologies, LLC, for the Stormwater and Sanitary Sewer
+- F. Authorization of a Bid Waiver for Sports Officiating Services with Pros Plus
+- G. Authorization to Execute a Contract with Logan Simpson for the
+- Development of a Trails Master Plan
+- 10. APPOINTMENTS AND RESIGNATIONS
+- 11. PUBLIC HEARINGS
+- A. Public Hearing and Consideration of an Appeal of the Denial of an Official
+- Development Plan for the Mountain Range High School Nutrition Center
+- A First Reading of Councillor's Bill No. 26 Re: Amending Various Sections of
+- Title I, VI, and X of the Westminster Municipal Code Concerning Police
+- B First Reading of Councillor’s Bill No. 32 Re: Approving an Economic
+- Development Agreement with Digantara U.S., Concerning the Location of Its
+- Intergovernmental Agreement for Development Assistance Between the City
+- Support of the Construction of the Scratch Kitchen and Food Warehouse
+- Located at 12450 Delaware Street
+- 13. OLD BUSINESS AND PASSAGE OF ORDINANCE ON SECOND READING
+- of the Westminster Municipal Code Concerning the Roadway Improvement
+- Fee for Non-Residential Users
+- Relay. Requests must be received no later than noon on the Thursday prior to the meeting to
+
+## [westminster#2] 2026-08-17 | City Council Study Session | agenda
+- 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- 4. PRESENTATIONS
+- Modernize Business Tax Administration
+- Amendments to the Westminster Municipal Code Regarding Unlawful
+- C. Follow-up on 2027 and 2028 Single-Family Residential Water Rates and
+- A. An Executive Session to Discuss Strategy and Progress on a Proposed
+- Economic Development Agreement Involving a Restaurant Prospect in
+- Incentives Would, if Made Public, Seriously Jeopardize the City’s Ability
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 2: Connected and Inclusive Community
+- Strategic Priority 5: Resilient Infrastructure
+- Business Tax Administration
+- Mark Harrelson, Sales Tax Manager
+- Receive a presentation on proposed updates to the business tax administration provisions of the
+- Westminster Municipal Code and direct Staff to return with an ordinance amending Chapters 1 and 2
+- Director to specify the manner and form for the filing and payment of tax returns
+- The proposed updates to the City’s tax administration apply only to business tax filings, which
+- are typically monthly filings, and do not affect resident taxpayers
+- The Westminster Municipal Code (W.M.C.) currently prescribes methods for business tax
+- return filing and taxpayer communication that are rooted in paper processes and are outdated,
+- inflexible, and inefficient considering advances in communications technology and the ways
+- that modern business taxpayers engage with the world
+- In 2025, Westminster businesses filed 77,424 City tax returns, and an estimated 94 percent
+- were filed online through the Westminster tax system or the Colorado Department of Revenue
+- Sales and Use Tax System
+- The proposed Ordinance would authorize the Finance Director to specify the manner and form
+- for filing business tax returns, modernizing the system for taxpayers and allowing the City to
+- the City would require online filing and payment of all City tax returns effective January 1, 2027
+- through published tax compliance guidance
+- exception, preserving access for taxpayers without internet connectivity
+- W.M.C., future changes in technology or best practice would not require additional Ordinance
+- The proposed Ordinance would also permit electronic delivery of taxpayer notices, remove the
+- medical items without any change in tax policy and without any change in tax revenue
+- already require online filing of sales and use tax returns, and 10 of the 12 also require
+- filing of state retail sales tax returns, with all returns required to be filed electronically beginning
+
+## [westminster#3] 2026-08-24 | City Council Meeting | agenda
+- reviewed the materials and may have discussed them previously at a Study Session
+- Members of the public are invited to speak during Public Comment on any matter related
+- to City business, except for items scheduled for a formal public hearing. For public
+- hearing items, the Mayor will call for public testimony at the appropriate time. Please
+- 3. CONSIDERATION OF MINUTES OF PRECEDING MEETING
+- 4. PRESENTATIONS
+- A. Presentation of the Government Finance Officers Association Triple
+- 5. PUBLIC COMMENT
+- To submit a public comment, call 303-706-3111 to leave a recorded message,
+- A. Public Comments for August 24, 2026
+- A. Presentation of the Proposed 2027 Budget
+- 8. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- an item for separate discussion. Items removed from the consent agenda will
+- be considered immediately following adoption of the amended Consent
+- A. Second Reading of Councillor's Bill No. 26 Re: Amending Various Sections
+- of Title I, VI, and X of the Westminster Municipal Code Concerning Police
+- B. Second Reading of Councillor’s Bill No. 32 Re: Approving an Economic
+- Development Agreement with Digantara U.S., Concerning the Location of Its
+- C. Resolution No. 22 Confirming a Vacancy and Appointing a Member to the
+- D. Resolution No. 23 to Designating JP Morgan Chase Bank, N.A. a Depository
+- Contract with J.P. Morgan Chase Bank, N.A. for Primary Banking and
+- E. Authorization of a Financial Auditing Services Contract with Forvis Mazars,
+- F. Authorization to Update a Bid Waiver with Municipal Emergency Services,
+- Incorporated for Fire and Rescue Equipment and Related Services
+- G. Ratify Emergency Medical Equipment Purchases and Authorize a Bid
+- H. Authorization to Execute a Bid Waiver and Contract Approval to Provide
+- I. Authorize a Sole Source Purchase from Q-mation, Inc. of AVEVA Scada
+- Platform Software for the Three-Year Period from 2026 to 2028
+- J. Authorization of an Intergovernmental Agreement with Foothills Regional
+- Housing for Assignment and Acceptance of Right of First Refusal and Right
+- of First Offer to Purchase Multifamily Housing
+- K. Authorization of an Intergovernmental Agreement with Adams County
+- Housing Authority for Assignment and Acceptance of Right of First Refusal
+- and Right of First Offer to Purchase Multifamily Housing
+- L. Authorization of an Agreement with Mill Construction Law LLC as Special
+- Huron Interceptor Sewer Replacement Project
+- 10. APPOINTMENTS AND RESIGNATIONS
+- 11. PUBLIC HEARINGS
+- A First Reading of Councillor’s Bill No. 34 Amending the Westminster
+- Products from the City Sales and Use Tax
+- B First Reading of Councillor's Bill No 35 Amending Westminster Municipal
+
+## [westminster#4] 2026-08-24 | City Council Post-Meeting Study Session | agenda
+- 1. PRESENTATIONS
+- A. Executive Session Discussion of a Personnel Matter (Annual Review for
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Subject: Executive Session Discussion of a Personnel Matter (Annual Review for the
+
+## [westminster#5] 2026-09-14 | City Council Post-Meeting Study Session | agenda
+- 1. PRESENTATIONS
+- B. Homelessness Prevention, Response, and Resolution Update
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 1: Opportunity to Thrive
+- Promote affordable living and stable housing, access to services, and connected neighborhoods that foster access to
+- Strategic Priority 2: Connected and Inclusive Community
+- Prepared By: Adrianna Choury; Housing Coordinator Viviane Del Pizzo, MBA; Acting Economic Development & Housing Manager
+- Receive a presentation regarding the proposed Down Payment Assistance Program and provide
+- On July 31, 2026, the City issued a Request for Proposals (RFP) for a qualified contractor to
+- moderate-income residents. The RFP closed on September 3, 2026, and Staff is currently
+- finalizing the selection of a DPA contractor
+- income-aligned housing, as well as an overview of future initiatives to consider such as the
+- Regional Council of Government’s Regional Housing Needs Assessment (RHNA) and the
+- City’s 2023 Housing Needs Assessment (HNA), which identified affordability challenges for
+- moderate-income households across the region
+- Staff recommends that the DPA provide up to 20 percent of the purchase price, require a
+- and any associated interest or fees are paid in full. This is intended to prevent the DPA from
+- Several components of the DPA are still under development, such as whether the contractor is
+- Does City Council wish to receive a presentation and provide direction to Staff regarding updates on
+- City Council could choose not to receive a presentation and provide direction to Staff regarding the
+- the implementation of the City’s Strategic Plan priorities and tasks
+- continue to face significant barriers to achieving homeownership, particularly related to rising housing
+- costs and limited savings for upfront expenses. The HNA also identified a shortage of attainable
+- “Missing Middle” for-sale housing types and noted that many residents spend more than 30 percent of
+- their income on housing, further constraining their ability to save enough funds for a down payment to
+- transition into homeownership. These findings align with the broader regional trends identified in the
+- August 2025 RHNA, which highlights affordability challenges for moderate-income households across
+- In response to and support of the City’s Strategic Plan priorities around housing stability and
+- opportunity, Staff has advanced several housing initiatives, including development of a DPA. On
+- February 23, 2026, Staff presented a housing update and recommendations to City Council, including
+
+## [westminster#6] 2026-09-14 | City Council Meeting | agenda
+- reviewed the materials and may have discussed them previously at a Study Session
+- Members of the public are invited to speak during Public Comment on any matter related
+- to City business, except for items scheduled for a formal public hearing. For public
+- hearing items, the Mayor will call for public testimony at the appropriate time. Please
+- 3. CONSIDERATION OF MINUTES OF PRECEDING MEETING
+- 4. PRESENTATIONS
+- 5. PUBLIC COMMENT
+- To submit a public comment, call 303-706-3111 to leave a recorded message,
+- A. Public Comment for September 14, 2026
+- B. Update Regarding Housing LIFT Program Agreements with Maiker Housing
+- Partners and Foothills Regional Housing
+- 8. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- an item for separate discussion. Items removed from the consent agenda will
+- be considered immediately following adoption of the amended Consent
+- A. Second Reading of Councillor's Bill No. 35 Amending Westminster Municipal
+- Code Chapter 6, Title XIII, Providing for the Declaration of Fire Restrictions
+- B. Resolution No. 24 Re: Approving Planning Commission Bylaws and Rules of
+- C. Authorization of a Contract with Hanavan Pools & Spas Inc. for Pool
+- Replastering at the Swim and Fitness Center and City Park Recreation
+- D. Bid Waiver Amendment for Engineering Services for the England Park
+- Corridor Phase One Construction Project
+- 10. APPOINTMENTS AND RESIGNATIONS
+- 11. PUBLIC HEARINGS
+- A. Public Hearing and First Reading of Councillor’s Bill No. 39 Amending the
+- 2040 Comprehensive Plan to Establish a Density Bonus and Revised
+- Definition for Affordable Housing; First Reading of Councillor’s Bill No. 36
+- Amending Sections 11-2-1 and 11-7-4, Title XI, Westminster Municipal Code
+- to Amend the Definition of Affordable Housing and Establish a Parking
+- B. Public Hearing on the Proposed 2027 Budget
+- C. Public Hearing on the Proposed 2027 and 2028 Stormwater Fee Changes
+- the Title IV of the Westminster Municipal Code to Modernize Business Tax
+- B First Reading of Councillor’s Bill No 38 Re: Amending Subsection 1-23-1(B)
+- Property Maintenance Code with Amendments and Enacting the Residential
+- C First Reading of Councillor’s Bill No. 40 Re: Amending Chapters 7, 8, and 12
+- Implementation of Water, Sewer, and Reclaimed Water Rates and Fees and
+- 13. OLD BUSINESS AND PASSAGE OF ORDINANCE ON SECOND READING
+- A. Second Reading of Councillor’s Bill No. 34 Amending the Westminster
+- Products from the City Sales and Use Tax
+- Relay. Requests must be received no later than noon on the Thursday prior to the meeting to
+- 3. CONSIDERATION OF MINUTES
+- A. Presentation of the Government Finance Officers Association Triple Crown Award
+
+## [westminster#7] 2026-09-21 | City Council Study Session | agenda
+- 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- 4. PRESENTATIONS
+- B. Review of the Proposed 2027 Budget
+- A. Executive Session Discussion of a Personnel Matter (Annual Review for
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 2: Connected and Inclusive Community
+- Receive a presentation providing an overview of Jefferson County Public Schools
+- The presentation from Jefferson County (Jeffco) Public Schools is a chance to receive an
+- Should City Council receive a presentation from Jeffco Public Schools?
+- City Council could choose not to receive a presentation from Jeffco Public Schools. Staff
+- Receiving communications from Jeffco Public Schools supports the City’s Strategic Plan goal of
+- ● 94% graduation rate at Jeffco’s 17 neighborhood high schools
+- Mill Levy (1)
+- RECENT BUDGET ADJUSTMENTS
+- Recurring, annual budget
+- $73M General Purpose Mill Levy Override (MLO)
+- $60M Special Purpose Mill Levy for the purpose of:
+- improvements, parking lot repairs, and replacing faulty, dangerous and
+- WHAT’S THE COST TO TAXPAYERS?
+- THE SPENDING OF SUCH TAXES SHALL BE REVIEWED BY
+- A BOARD-APPOINTED CITIZENS’ COMMITTEE FOR
+- from 2026-2027 budget
+- ● These initiatives would raise taxes. In Jeffco Public Schools the
+- mill levy proposal is estimated to cost a homeowner about
+- current budget rather than ask taxpayers for more money
+- funding for schools rather than asking the taxpayers for more
+- Strategic Priority 1: Opportunity to Thrive
+- Promote affordable living and stable housing, access to services, and connected neighborhoods that foster access to
+- Strategic Priority 3: Healthy and Safe
+- public safety, protect the environment, and strengthen community beautification
+- Strategic Priority 4: Vibrant and Diverse Economy
+- Strategic Priority 5: Resilient Infrastructure
+- Subject: Review of the Proposed 2027 Budget
+- Erin Ferriter, Policy and Budget Manager
+- Provide feedback and direction to Staff to finalize the Proposed 2027 Budget
+- The Proposed 2027 Budget was published and shared with City Council and the community on
+- City Council reviewed the 2027 Proposed Budget and submitted initial questions to the City
+- City Council held a public hearing on the Proposed 2027 Budget on September 14, 2026, to
+- receive feedback from the community
+- Pursuant to City Charter, City Council will adopt the 2027 Budget no later than October 26,
+- City Council questions and direction are welcomed to refine the 2027 Budget in preparation for
+- Does City Council wish to provide feedback and direction regarding the Proposed 2027 Budget?
+
+## [westminster#8] 2026-09-28 | City Council Post-Meeting Study Session | agenda
+- 1. PRESENTATIONS
+- A. Executive Session Discussion of a Personnel Matter (Annual Review for
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 1: Opportunity to Thrive
+- Promote affordable living and stable housing, access to services, and connected neighborhoods that foster access to
+- Strategic Priority 3: Healthy and Safe
+- public safety, protect the environment, and strengthen community beautification
+- Strategic Priority 5: Resilient Infrastructure
+- Receive a presentation and provide direction regarding potential amendments to the Westminster
+- Three updates to the W.M.C have been identified for City Council consideration and
+- feedback. Each option builds upon the prior. These options are:
+- 1. Amend the hauler licensing code to:
+- and the implementation of a “Skip the Stuff” ordinance to require businesses to have an
+- These proposed code updates build upon the results of a capstone project completed in
+- program. The results of this project were provided to City Council in the Information Only
+- City Council could choose not to receive a presentation and provide direction regarding updates to
+- In 2025, the City partnered CU Boulder’s MENV program to identify opportunities to improve
+- researchers analyzed surrounding municipalities’ waste management systems, identified best
+- residents. The graduate students identified several high-impact, easy-to-implement opportunities to
+- 3. A construction and deconstruction ordinance and program for new development and
+- redevelopment
+- packaging. Projected PRP benefits include an increase in Colorado’s paper and packaging recycling
+- rate from 25 percent to 58 percent. It also projects 7,900 new direct and indirect green jobs, realizing
+- 278,000 cars off the road each year. PRP reimburses waste haulers for the costs of recycling
+- Activating the opportunities identified by the MENV researchers and utilizing PRP resources, the City
+- services for residents. This effort will achieve the City’s Strategic Plan outcome 3.1. by exploring the
+- Sustainability Plan target to improve the community-wide waste diversion rate. The key action the
+- Three options have been identified for City Council’s consideration and direction
+- requirement would be achieved through amending W.M.C. Title V (Licensing and Regulations),
+- residents during the licensing renewal and approval process. The amendment would also
+- topsoil, which is reducing agricultural productivity, degrading water quality and the soil’s ability
+- to hold and filter water, which increases erosion and damages ecosystems. High-quality
+
+## [westminster#9] 2026-09-28 | City Council Meeting | agenda
+- reviewed the materials and may have discussed them previously at a Study Session
+- Members of the public are invited to speak during Public Comment on any matter related
+- to City business, except for items scheduled for a formal public hearing. For public
+- hearing items, the Mayor will call for public testimony at the appropriate time. Please
+- 3. CONSIDERATION OF MINUTES OF PRECEDING MEETING
+- 4. PRESENTATIONS
+- B. Proclamation for Fire Prevention Month
+- C. Presentation of Employee Service Awards
+- 5. PUBLIC COMMENT
+- To submit a public comment, call 303-706-3111 to leave a recorded message,
+- A. Public Comment for September 28, 2026
+- 8. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- an item for separate discussion. Items removed from the consent agenda will
+- be considered immediately following adoption of the amended Consent
+- Tax Administration
+- B. Second Reading of Councillor’s Bill No 38 Re: Amending Subsection 1-23
+- International Property Maintenance Code with Amendments and Enacting
+- Community Services Real Estate Development Project Accounts to a Portion
+- of the Eaton Greenline Project; and Authorization to Execute a Contract with
+- Richdell Construction, Inc. for a Portion of the Eaton Greenline Project
+- E. Authorize the City Manager to Execute a Contract Amendment to a
+- Maintenance Contract with Environmental Designs, LLC, for Citywide
+- F. Authorization of Intergovernmental Agreement with Jefferson County and the
+- Cities of Arvada, Edgewater, Golden, Lakewood, Westminster and Wheat
+- Homelessness; and Authorization of Intergovernmental Agreement with
+- Jefferson County and the Cities of Arvada, Edgewater, Golden, Lakewood,
+- Agreement for the Navigation Center located in the City of Lakewood for
+- 10. APPOINTMENTS AND RESIGNATIONS
+- 11. PUBLIC HEARINGS
+- A. Public Hearing and First Reading of Councillor’s Bill No. 42 Re: Kaiser North
+- Comprehensive Plan Amendment and Consideration of the Preliminary
+- Development Plan Amendment for the Kaiser North Redevelopment
+- A First Reading of Councillor's Bill No. 43 Amending Sections of Chapter 13 of
+- Implementation of Stormwater Fees
+- 13. OLD BUSINESS AND PASSAGE OF ORDINANCE ON SECOND READING
+- A. Second Reading of Councillor’s Bill No. 39 Amending the 2040
+- Comprehensive Plan to Establish a Density Bonus and Revised Definition
+- for Affordable Housing; Second Reading of Councillor’s Bill No. 36
+- Amending Sections 11-2-1 and 11-7-4, Title XI, Westminster Municipal Code
+- to Amend the Definition of Affordable Housing and Establish a Parking
+- B. Second Reading of Councillor’s Bill No. 40 Re: Amending Chapters 7, 8, and
+
+## [westminster#10] 2026-10-05 | City Council Study Session | agenda
+- 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- 4. PRESENTATIONS
+- A. Review of Revised Recommendation for Event Center Ordinance
+- B. Residential Fire Sprinkler Requirements
+- C. Discussion on City Positions on 2026 Ballot Measure
+- D. Presentation and Discussion of Automated License Plate Readers by
+- Westminster Police Department
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 3: Healthy and Safe
+- public safety, protect the environment, and strengthen community beautification
+- Strategic Priority 4: Vibrant and Diverse Economy
+- Strategic Priority 5: Resilient Infrastructure
+- Subject: Review of Revised Recommendation for Event Center Ordinance
+- Prepared By: David German, AICP, Development Services CoordinatorJohn McConnell, AICP, Planning Manager
+- Receive a presentation and provide feedback and direction regarding a revised Event Center
+- On April 13, 2026, City Council enacted an ordinance establishing a six-month moratorium
+- on the issuance of land use approvals, building permits, or business licenses for new event
+- centers in multi-tenant commercial developments or within 300 feet of a residential district,
+- ordinance amending the Westminster Municipal Code (W.M.C.) to establish a new
+- City Council received a presentation from Staff, asked questions, and identified concerns
+- At the July 6, 2026, Study Session, Staff provided the requested information to City
+- Council. City Council provided additional feedback and directed Staff to engage with the
+- better understand their operations and obtain feedback on the proposed regulations
+- This agenda memorandum and accompanying presentation introduce revised
+- recommendations for the original Councillor’s Bill No. 19 based on feedback received from
+- Does City Council wish to receive a presentation and provide feedback and direction regarding
+- revised recommendations for Councillor’s Bill No. 19, an ordinance amending the W.M.C. to establish
+- City Council could choose not to receive a presentation or provide feedback to Staff regarding
+- demands on public safety operations, water and sewer infrastructure, and parking and traffic systems,
+- as well as conflicts with neighboring businesses and land uses. In consideration of these impacts, on
+- March 23, 2026, City Council enacted a six-month moratorium on the issuance of land use approvals,
+- building permits, or business licenses for new event centers in multi-tenant commercial
+- developments, or where located within 300 feet of a residential district, residential dwelling unit, or
+
+## [westminster#11] 2026-10-12 | City Council Meeting | agenda
+- reviewed the materials and may have discussed them previously at a Study Session
+- Members of the public are invited to speak during Public Comment on any matter related
+- to City business, except for items scheduled for a formal public hearing. For public
+- hearing items, the Mayor will call for public testimony at the appropriate time. Please
+- 3. CONSIDERATION OF MINUTES OF PRECEDING MEETING
+- 4. PRESENTATIONS
+- 5. PUBLIC COMMENT
+- To submit a public comment, call 303-706-3111 to leave a recorded message,
+- A. Public Comment for October 12, 2026
+- 8. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- an item for separate discussion. Items removed from the consent agenda will
+- be considered immediately following adoption of the amended Consent
+- A. Second Reading of Councillor's Bill No. 43 Amending Sections of Chapter
+- and Implementation of Stormwater Fees
+- B. Authorization to Execute a Contract with Archer Western Construction, LLC,
+- for Wastewater Treatment Plant On-Call and Major Repair Services
+- D. Authorization to Purchase Replacement Playground Equipment for Foxshire
+- Park from A to Z Recreation, Inc
+- 10. APPOINTMENTS AND RESIGNATIONS
+- 11. PUBLIC HEARINGS
+- A. Public Hearing and Consideration of Preliminary Development Plan for
+- A First Reading of Councillor’s Bill No. 44 Re: Amending the Westminster
+- B First Reading of Councillor’s Bill No. 46 Re: Vacating a Portion of the
+- Presiding Municipal Judge and Approval of the Revised Employment
+- E Resolutions Related to 2026 Ballot Issues
+- 13. OLD BUSINESS AND PASSAGE OF ORDINANCE ON SECOND READING
+- Relay. Requests must be received no later than noon on the Thursday prior to the meeting to
+- 3. CONSIDERATION OF MINUTES
+- B. Proclamation for Fire Prevention Month
+- Ezeadi presented Fire Department staff with a proclamation designating October as Fire
+- Prevention Month and promoting fire safety awareness and education throughout the
+- C. Presentation of Employee Service Awards
+- City Council presented service pins and certificates of appreciation to employees
+- thereafter. Employees with 20, 25, and 40 years of service were celebrated
+- Corey Lamp, a Westminster renter, discussed rising rental costs and concerns regarding rental
+- housing conditions. Lamp shared personal experiences with mold in a previous apartment and
+- healthy housing
+- Alan Farb commented on the proposed intergovernmental agreement with Jefferson County
+- encouraged Council to consider the benefits of a navigation center closer to Westminster and
+- Tamera Kramer, representing the Westminster Hills Dog Park Guardians, announced the
+- from 8 a.m. to 11 a.m. at both entrances to Westminster Hills Dog Park. She highlighted the
+
+## [westminster#12] 2026-10-12 | Westminster Economic Development Authority Meeting | agenda
+- WESTMINSTER ECONOMIC DEVELOPMENT AUTHORITY MEETING
+- 2. CONSIDERATION OF MINUTES OF THE PRECEDING MEETINGS
+- A. Minutes of June 22, 2026, Westminster Economic Development
+- 3. PUBLIC HEARINGS
+- A. Public Hearing and Resolution No. 253 Re: 2027 Proposed Westminster
+- Economic Development Authority Budget
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Subject: Minutes of June 22, 2026, Westminster Economic Development Authority Meeting
+- MINUTES OF THE WESTMINSTER ECONOMIC DEVELOPMENT AUTHORITY
+- 2. CONSIDERATION OF MINUTES
+- There were no public hearings this evening
+- A. Resolution No. 251 Re: Approving a Purchase and Sale Agreement with Pumpkin Ridge
+- Holdings, LLC for Development of the Holly Park Property
+- Sale Agreement with Pumpkin Ridge Holdings, LLC for development of the Holly Park
+- B. Resolution No. 252 Re: Approving Proposed Development Agreement and Purchase and
+- Sale Agreement for Westminster Economic Development Authority-Owned Property
+- Director to execute a Purchase and Sale Agreement and Development Agreement with
+- Strategic Priority 1: Opportunity to Thrive
+- Promote affordable living and stable housing, access to services, and connected neighborhoods that foster access to
+- Strategic Priority 2: Connected and Inclusive Community
+- Strategic Priority 4: Vibrant and Diverse Economy
+- Strategic Priority 5: Resilient Infrastructure
+- Subject: Public Hearing and Resolution No. 253 Re: 2027 Proposed Westminster
+- 1. Hold a public hearing on the Proposed Westminster Economic Development Authority 2027
+- 2. Adopt Resolution No. 253 adopting the 2027 proposed budget for the Westminster Economic
+- Development Authority as presented
+- The Board is requested to adopt the attached Resolution approving the 2027 proposed budget
+- for Westminster Economic Development Authority (WEDA) that reflects all proposed
+- The attached WEDA Budget Report includes comprehensive information regarding the 2027
+- budget for WEDA. This report contains the operating and capital project activity for 2027
+- Local Government Budget Law (Budget Law), C.R.S. 29-1-103, requires an annual budget to
+- WEDA currently consists of six active Urban Development Areas (URAs): Holly Park,
+- Westminster Center Urban Reinvestment Plan Area (also known as Downtown Westminster)
+- Proposed 2027 revenues, which include incremental tax revenues, rents, leases,
+- Proposed 2027 expenditures, which include contractual obligations, property tax collection
+- fees, debt service, transfers, and capital projects are estimated at $14,390,871
+- Proposed expenditures are non-discretionary in nature. Failure to budget for these payments
+
+## [westminster#13] 2026-10-12 | General Improvement District Board Meeting | agenda
+- GENERAL IMPROVEMENT DISTRICT BOARD MEETING AGENDA
+- A. Minutes of November 24, 2025, General Improvement District Board Meeting
+- 3. PUBLIC HEARINGS
+- A. Public Hearing Re: City of Westminster General Improvement Districts' 2027 Budgets
+- Resolution No. 31 Re: City of Westminster 136th Avenue General
+- Improvement District 2027 Budget and Mill Levy Certification
+- Resolution No. 25 Re: City of Westminster 144th Avenue General
+- Resolution No. 46 Re: City of Westminster Amherst General
+- Resolution No. 11 Re: City of Westminster Downtown General
+- Resolution No. 30 Re: City of Westminster Mandalay Town Center
+- General Improvement District 2027 Budget and Mill Levy Certification
+- Resolution No. 19 Re: City of Westminster Orchard Park Place North
+- Resolution No. 13 Re: City of Westminster Park 1200 General
+- H. Resolution No. 43 Re: City of Westminster Sheridan Crossing General
+- Resolution No. 9 Re: City of Westminster, Westminster Station General
+- Requests must be submitted no later than noon on the Thursday prior to the scheduled
+- General Improvement District Board Meeting
+- Subject: Minutes of November 24, 2025, General Improvement District Board Meeting
+- MINUTES OF THE DOWNTOWN GENERAL IMPROVEMENT DISTRICT MEETING
+- 2. CONSIDERATION OF MINUTES
+- meetings as presented for the following General Improvement Districts:
+- Orchard Park Place North GID
+- Park 1200 GID
+- A. Public Hearing and Resolution No. 10 Re: Supplemental Appropriation Amending the 2026
+- Westminster Downtown General Improvement District Budget, and Authorization to
+- Execute a Maintenance Contract with Consolidated Services Group 2, LLC for the
+- McNally opened the public hearing at 9:05 p.m
+- There was no presentation and s eeing that no one signed up to speak, McNally closed the
+- public hearing at 9:05 p.m
+- supplemental appropriation of Westminster Downtown General Improvement District
+- carryover for $200,000 and reallocation of $650,000, amending the 2026 Westminster
+- Downtown General Improvement District budget for the pr oposed Downtown
+- Westminster Landscaping Maintenance contract
+- Maintenance service in the amount of $1,087,404 and provide approval of $200,000
+- contract capacity for unforeseen items for a not-to-exceed amount of $1,287,404 with four
+- THE WESTMINSTER GENERAL IMPROVEMENT DISTRICT BOARD
+- Strategic Priority 2: Connected and Inclusive Community
+- Subject: Public Hearing Re: City of Westminster General Improvement Districts' 2027
+- Hold a Public Hearing on the 2027 Budgets for the following City of Westminster General
+- Improvement Districts:
+- Orchard Park Place North
+- The public may participate in this Public Hearing in one of three ways:
+
+## [westminster#14] 2026-10-12 | Post-Meeting Study Session | agenda
+- 1. PRESENTATIONS
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+
+## [westminster#15] 2026-10-19 | City Council Study Session | agenda
+- 2. CITY COUNCIL REQUESTS FOR FUTURE AGENDA TITLES
+- 4. PRESENTATIONS
+- A. Presentation on Data Center Land Use
+- A. An Executive Session to Discuss Strategy and Obtain Direction from the
+- Clerk. Requests must be submitted no later than noon on the Thursday prior to the
+- Strategic Priority 2: Connected and Inclusive Community
+- Subject: Presentation on Data Center Land Use
+- Receive a presentation and discuss Data Center regulation within the City of Westminster as well as
+- potential City actions regarding Data Center development outside of City limits
+- On July 27, 2026, City Council adopted Resolution No. 20 supporting zoning interpretation
+- regarding data center land use
+- This Resolution summarized the opinion of the Planning Manager, in accordance with
+- City Council requested a Study Session to discuss the potential to address data centers
+- concerns around water usage and extraterritorial utility provision
+- City Council also expressed interest in learning more about how Staff intends to incorporate
+- new and enhanced language regarding data center land use into the Unified Development
+- This presentation is intended to provide answers to City Council’s questions and concerns
+- and facilitate further discussion
+- Does City Council wish to receive a presentation regarding data centers?
+- City Council could choose not to receive a presentation regarding data centers. This is not
+- recommended due to City Council’s expressed interest in learning more about data centers and how
+- On July 27, 2026, City Council passed and adopted Resolution No. 20, A Resolution Supporting
+- Zoning Interpretation Regarding Data Center Land Use, see Attachment 1. This Resolution
+- 4-4(B), W.M.C. regarding data centers as a prohibited land use in the City of Westminster, as further
+- At the meeting, City Council asked Staff questions, articulated concerns, and requested a future
+- Study Session to discuss the potential to address data centers proposed to be located outside
+- Westminster’s jurisdiction and within close proximity, with concerns around water usage and
+- extraterritorial utility provision. City Council also expressed interest in learning more about how Staff
+- intends to incorporate new and enhanced language regarding data center land use into the UDC to
+- DEVELOPMENT OF DATA CENTERS IN NEIGHBORING JURISDICTIONS:
+- the City may utilize to influence development in adjacent jurisdictions
+- of private development proposals, utility projects, and other capital improvement projects so
+- Most referrals received by Westminster City staff are minor routine projects such as additions to

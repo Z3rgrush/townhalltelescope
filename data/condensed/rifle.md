@@ -1,0 +1,632 @@
+# rifle
+
+## [rifle#0] 2026-07-28 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- a. Discussion regarding Bulk Resource Consumer
+- Discussion and Review
+- 4.a. Consider Meeting Minutes of Planning Commission regular meeting of May 26, 2026
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding CUP - 214 W 16th St
+- 7.b. Discussion and possible action regarding Amendment to the Rifle Municipal Code for
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#1] 2026-07-28 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- a. Discussion regarding Bulk Resource Consumer
+- Discussion and Review
+- 4.a. Consider Meeting Minutes of Planning Commission regular meeting of May 26, 2026
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding CUP - 214 W 16th St
+- 7.b. Discussion and possible action regarding Amendment to the Rifle Municipal Code for
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- Discussion regarding Bulk Resource Consumer
+- Zach Higgins, Community Development Director
+- Notification Requirements:
+- COMMUNITY DEVELOPMENT DEPARTMENT
+- FROM: Zach Higgins, Community Development Director
+- SUBJECT: Bulk Resource Consumer discussion
+- Staff has begun receiving inquiries regarding Data Centers in Rifle. Staff is bringing
+- forward a discussion regarding the land use impacts and possible definition of a “Bulk
+- Data Centers consumer large quantities of electric and water resources and can produce
+- Staff researched and found the following information regarding Data Centers
+- Hyper Data Center
+- 1-5 million gallons of water daily
+- Enterprise Data Center
+- 100-500,000 gallons of water daily
+- Data Center Waste
+- Data center waste is categorized and regulated in Colorado through strict state
+- Large volumes require specific accumulation, tracking, and disposal permitting
+-  Generator Air Emissions: Hyperscale data centers require numerous diesel
+- The Colorado Senate has reviewed SB26-102 Large Load Data Centers, currently
+- The bill creates certain requirements for large-load data centers, which are defined in
+-  A new data center that has a peak load of more than 30 megawatts or multiple
+- new data centers with a collective peak load of more than 60 megawatts; or
+-  An existing data center that adds a peak load of more than 30 megawatts or
+- multiple existing data centers that add a collective peak load of more than 60
+- make a determination on whether 100% hourly matching by large-load data centers is
+- determination of the highest percentage of hourly matching by large-load data centers
+- Beginning January 1, 2031, an operator of a large-load data center (operator) must
+- generate, purchase, or otherwise acquire a quantity of electricity generated from
+- renewable resources necessary to meet 100% of the operator's large-load data center's
+- contract, or program entered into with a utility, one or more power purchase agreements
+- An operator must enter into contracts of at least 15 years with a utility to pay for certain
+
+## [rifle#2] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 4.a. Consider Minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular
+- 5. Presentation
+- 6.a. Discuss Weather Closure and Cancellation Policy for Rifle Metro Pool
+- 6.b. Consider Approval of the Parks & Recreation Strategic Plan 2027-2028
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+- Rifle Parks & Recreation Advisory Board
+
+## [rifle#3] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 4.a. Consider Minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular
+- 5. Presentation
+- 6.a. Discuss Weather Closure and Cancellation Policy for Rifle Metro Pool
+- 6.b. Consider Approval of the Parks & Recreation Strategic Plan 2027-2028
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+- Rifle Parks & Recreation Advisory Board
+- Consider Minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular Meeting
+- Move to approve the minutes of the July 13, 2026 Parks and Recreation Advisory Board Regular Meeting
+- Notification Requirements:
+- Rifle Parks & Recreation Advisory Board Meeting July 13, 2026
+- 202 Railroad Avenue Rifle, CO
+- Public Comment
+- Consider the minutes of the June 8th meeting
+- o Aaron Cumming moved to approve the minutes of the June 8 th, Parks and
+- Unanimous approval
+- Kyle will provide an update on marketing and strategy for the Parks and Recreation Department. A flipbook
+- 1. 2026 Rifle Parks and Recreation Marketing and Advertising Report
+- and Strategy
+- Marketing & Advertisement Strategy
+- Content & Advertising Strategy
+- facilities, programs, and event information they need. Effective marketing supports the Parks and
+- Increasing awareness of departments parks, programs, facilities, and services
+- Building trust through timely, accurate, and transparent communication
+- Strategic marketing helps:
+- Keep the public informed about upcoming programs, events, and park projects
+- Showcase how the penny tax dollars are invested in the community
+- Create opportunities for two-way communication and resident feedback
+- Foster pride and a stronger connection between Parks and Rec and its stakeholders
+- Promoting Birch Park, new recreation programs, and current community amenities
+- Reaching new residents and younger audiences through current and future digital platforms
+- Diversifying advertising, find new/old avenues to broaden reach. (print/broadcast/etc.)
+- Communicating complex projects in a clear and engaging way
+- 2026 is shaping up to be another record-breaking year for the Rifle Parks and Recreation Facebook
+- both platforms
+- Through July 31, 2026, our channels have already generated approximately 1.6 million Facebook
+- With five months still remaining in the year, Rifle Parks and Recreation is on pace to surpass last
+
+## [rifle#4] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Approval of July 14, 2026, Meeting Minutes
+- 5. Presentation
+- 5.a. Presentation and Discussion regarding Participatory Budgeting Pilot
+- 6.a. Discussion and possible action regarding the recommendation for appointment of Tara
+- 6.b. Discussion regarding proposed 2027 GRIT Budget
+- 6.c. Discussion and possible action regarding GRIT Façade Improvement Grant Application
+- — Hays Genera PC/LYHOTP LLC (126 W. 4th Street)
+- 6.d. Discussion and possible action regarding Flora Materials Letter of Support
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#5] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Approval of July 14, 2026, Meeting Minutes
+- 5. Presentation
+- 5.a. Presentation and Discussion regarding Participatory Budgeting Pilot
+- 6.a. Discussion and possible action regarding the recommendation for appointment of Tara
+- 6.b. Discussion regarding proposed 2027 GRIT Budget
+- 6.c. Discussion and possible action regarding GRIT Façade Improvement Grant Application
+- — Hays Genera PC/LYHOTP LLC (126 W. 4th Street)
+- 6.d. Discussion and possible action regarding Flora Materials Letter of Support
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- Consider Approval of July 14, 2026, Meeting Minutes
+- Approval of July 14, 2026, Meeting Minutes
+- Notification Requirements:
+- Rifle City Hall, 202 Railroad Avenue, Rifle, CO
+- Introduction of Karah Brubaker, City of Rifle’s new Economic Opportunity Specialist II & Main Street
+- The Board considered approval of June 9, 2026, minutes
+- Motion To approve June 9, 2026, GRIT Advisory
+- Presentation
+- Presentation from GRIT Grant Applicant
+- Request: $5,000 toward their Grand Hogback Extravaganza
+- Prizes are purchased from local area businesses
+- The Board discussed the election of Lydia Allen as the Chair of the GRIT Board
+- GRIT Grant Budget Overview
+- The Board reviewed the 2026 GRIT Grant Budget Summary worksheet, including the total program
+- budget, grant funds awarded to date, remaining balance, and current grant applications under
+- consideration
+- Discussion and possible action regarding GRIT Grant Applications
+- The Board reviewed and discussed the four (4) GRIT grant applications. During discussion, members
+- expressed concern about increasing event costs and the amount requested by the Symphony in the
+- Valley. The Board would like to encourage the organization to consider ways to keep ticket prices
+- discussed applicants acknowledging GRIT’s financial support in event marketing and promotional
+- Following discussion, the Board approved funding for the four (4) GRIT grant applications totaling
+- Motion To approve the four (4) GRIT Grant
+- applications totaling $22,200.00
+- Karah Brubaker, Economic Opportunity Specialist II / Main Street Manager Update
+
+## [rifle#6] 2026-08-25 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion regarding Bulk Resource Consumer CUP
+- b. Discussion regarding Amendment to the Rifle Municipal Code for Site Plan
+- c. Discussion regarding possible amendment to Rifle Municipal Code for Warehouse and
+- 4.a. Discussion and possible action regarding revised May 2026 Planning Commission
+- 4.b. Discussion and possible action regarding July 2026 Planning Commission Meeting
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding Conditional Use Permit for 799 Buckhorn
+- 7.b. Discussion and possible action regarding Variance for 758 Railroad Ave
+- 7.c. Discussion and possible action regarding the Minor Subdivision of 1317 E 17th St
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#7] 2026-08-25 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion regarding Bulk Resource Consumer CUP
+- b. Discussion regarding Amendment to the Rifle Municipal Code for Site Plan
+- c. Discussion regarding possible amendment to Rifle Municipal Code for Warehouse and
+- 4.a. Discussion and possible action regarding revised May 2026 Planning Commission
+- 4.b. Discussion and possible action regarding July 2026 Planning Commission Meeting
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding Conditional Use Permit for 799 Buckhorn
+- 7.b. Discussion and possible action regarding Variance for 758 Railroad Ave
+- 7.c. Discussion and possible action regarding the Minor Subdivision of 1317 E 17th St
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- Discussion regarding Bulk Resource Consumer CUP
+- Zach Higgins, Community Development Director
+- Discussion regarding BRC CUP Code Language Amendment
+- Notification Requirements:
+- CITY OF RIFLE | COMMUNITY DEVELOPMENT
+- City of Rifle Community Development | Draft Data Center CUP Memo
+- Recommended Conditional Use Permit Framework for Data Centers / Bulk Resource
+- FROM: Community Development Department
+- RE: Draft Bulk Resource Consumer / Data Center Conditional
+- Use Permit Standards
+- Proceed with drafting a Conditional Use Permit pathway for data centers and other bulk resource
+- consumers, limited to appropriate industrial districts, with mandatory utility, water, noise, fiscal, emergency
+- response, thermal, housing, and decommissioning analyses. The CUP should reserve discretion to deny
+- projects that cannot prove net public benefit, infrastructure self-sufficiency, and compatibility with
+- Data centers can provide substantial private investment, construction activity, property tax base, franchise
+- because they may require high electric capacity, cooling water, backup power systems, constant mechanical
+- infrastructure and nearby land uses, and deny applications that do not demonstrate net public benefit
+- Requires a Special Use Permit before construction of
+- data center facilities and requires site plans, water supply
+- information, road-use agreements, emergency
+- Supports a permit-before-construction
+- supply plan, public water/sewer service, closed-loop or
+- recycled-water cooling unless otherwise approved
+- through the CUP, water demand analysis, applicant
+- a CUP-based data center standard
+- Requires proof of water, electricity-provider “will serve”
+
+## [rifle#8] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
+- 5.a. Discussion regarding DDA and GRIT Board Membership and Meeting Coordination
+- 7. Presentation
+- 7.a. GRIT Project Area Site Visit and Walking Tour
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#9] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
+- 5.a. Discussion regarding DDA and GRIT Board Membership and Meeting Coordination
+- 7. Presentation
+- 7.a. GRIT Project Area Site Visit and Walking Tour
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- more about GRIT’s role and current projects. Trent has previously expressed interest in serving on GRIT and
+- may consider applying for the vacancy
+- GRIT’s community improvement efforts
+- role, current projects, and community improvement efforts. Trent has expressed interest in becoming involved
+- vacancy. This introduction is informational only, and no board action is requested at this time
+- Notification Requirements:
+- Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board Meeting
+- Approve Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board Meeting
+- Rifle City Hall, 202 Railroad Avenue, Rifle, CO
+- present and participated in the meeting discussion
+- Glenwood Springs and expressed interest in becoming involved in the community. She is being considered
+- for appointment to the Downtown Development Authority Board
+- The Board considered approval of the July 14, 2026, action minutes
+- Motion Approve the July 14, 2026, GRIT Advisory Board action minutes as presented
+- PRESENTATION
+- Presentation – Participatory Budgeting
+- Staff presented a proposed Participatory Budgeting pilot that could be implemented if additional lodging tax
+- community improvement ideas, with GRIT reviewing feasible projects before putting selected options to a
+- Potential projects could include public art, landscaping, alley improvements, shade, and other public-space
+- awareness of GRIT, and transparency around lodging tax funding
+- Discussion and possible action regarding the recommendation for appointment of Tara
+- The Board considered Tara Rumery’s application for appointment to the GRIT Advisory Board. Tara shared
+- Motion Move to recommend Tara Rumery for appointment to the GRIT Advisory Board
+- Discussion and possible action regarding proposed 2027 GRIT budget
+- Staff presented the proposed 2027 GRIT budget for Board review and feedback. Discussion focused on
+
+## [rifle#10] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 4.a. Consider Minutes of the August 10, 2026, Regular Parks & Recreation Advisory Board
+- 5.a. Consider Recognition Plaque Request — Rifle Mountain Park
+- 5.b. Consider Letter of Support - CPW Colorado Outdoor Equity Grant Program - Wamsley
+- 6. Presentation
+- 6.a. 2027 Parks and Recreation Budget Request Presentation
+- Rifle Parks & Recreation Advisory Board
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+
+## [rifle#11] 2026-09-29 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion regarding text amendments to the Rifle Municipal Code including ADU Size
+- Requirements, Warehouse, Wholesale, Height Requirements, Lot Line amendments, and
+- Variance Application Requirements
+- b. Discussion regarding BRC CUP requirements
+- c. Discussion regarding Site Plan Requirements
+- 4.a. Discussion and possible action regarding minutes of the regularly scheduled August, 2026
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding Amending the Rifle Municipal Code Section
+- 8.a. Discussion and possible action regarding amended 2025 Rooted in Rifle Housing Needs
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#12] 2026-09-29 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion regarding text amendments to the Rifle Municipal Code including ADU Size
+- Requirements, Warehouse, Wholesale, Height Requirements, Lot Line amendments, and
+- Variance Application Requirements
+- b. Discussion regarding BRC CUP requirements
+- c. Discussion regarding Site Plan Requirements
+- 4.a. Discussion and possible action regarding minutes of the regularly scheduled August, 2026
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding Amending the Rifle Municipal Code Section
+- 8.a. Discussion and possible action regarding amended 2025 Rooted in Rifle Housing Needs
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- Discussion regarding text amendments to the Rifle Municipal Code including ADU Size Requirements,
+- Warehouse, Wholesale, Height Requirements, Lot Line amendments, and Variance Application Requirements
+- Zach Higgins, Community Development Director
+- Notification Requirements:
+- COMMUNITY DEVELOPMENT DEPARTMENT
+- FROM: Zach Higgins, Community Development Director
+- SUBJECT: Proposed Text Amendments - Multiple
+- Warehouse and Distribution
+- Staff has received inquiries regarding where one can locate a warehouse operation. As
+- a permitted use in CS-Community Service commercial and I-Industrial Zone districts, and
+- The current definition for warehouse would appear to staff as inadequate and not
+- permitted in the appropriate zone districts:
+- Warehouse means a use engaged in storage, wholesale and distribution of
+- The initial concern was that a large warehouse was not an appropriate use to be located
+- Warehouse Local means a use engaged in the long-term storage, wholesale
+- exceeding 20,000 square feet in size, excluding bulk resource consumers, bulk
+- Warehouse Regional means a use engaged in the long -term storage, wholesale
+- 20,000 square feet in size, excluding bulk resource consumers, bulk storage of
+- Warehouse into a Local and a Regional level would be appropriate. Distribution centers
+- warehouse operation. Additionally staff was of the opinion that a smaller warehouse could
+- for discretionary review and approval by the Planning Commission. Local and Regional
+- Warehouses would be appropriate in both LI -Light Industrial as well as I -Industrial zone
+- Warehouse Local CP * PC P
+- Warehouse Regional * * P P
+- Physical Warehouse Sizes (Square Footage)
+- Line Dissolution plat. The current code requirements state that if a lot is split, Sec 16-1
+
+## [rifle#13] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 3.a. Skate Park - Barek Lobato
+- 4.a. Consider Minutes of the 09/14/2026 Parks & Recreation Advisory Board Regular
+- 5. Presentation
+- 6.a. Consider Recognition Plaque Request — Rifle Mountain Park
+- 6.b. Consider a Letter of Support for Riparian Restoration and Access at Centennial Park
+- RESTORE Grant
+- 7.a. Rifle Mountain Park - Bike Rack Installation
+- Rifle Parks & Recreation Advisory Board
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+
+## [rifle#14] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+- Rifle Parks & Recreation
+- 202 Railroad Avenue, Rifle, CO 81650
+- a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
+- 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 3.a. Skate Park - Barek Lobato
+- 4.a. Consider Minutes of the 09/14/2026 Parks & Recreation Advisory Board Regular
+- 5. Presentation
+- 6.a. Consider Recognition Plaque Request — Rifle Mountain Park
+- 6.b. Consider a Letter of Support for Riparian Restoration and Access at Centennial Park
+- RESTORE Grant
+- 7.a. Rifle Mountain Park - Bike Rack Installation
+- Rifle Parks & Recreation Advisory Board
+- special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
+- Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
+- Consider Recogonition Plaque
+- Staff received a request from Jim Bell to place a recognition plaque next to an apple tree between the ice caves
+- I attached Jim's request letter. Bob likes to hike around RMP and noticed that, between the ice caves, beavers
+- keep it from being cut down, and now the tree has apples, and he is really proud of it. Jim is requesting that a
+- name. Staff has provided the Parks and Facilities Naming Policy for your review
+- Notification Requirements:
+- Austin Rickstrew, Parks & Recreation Director
+- 1. City of Rifle Parks and Facilities Naming Policy - Final 3.27.25
+- City of Rifle Parks and Facilities Naming Policy
+- naming and renaming of parks, recreational areas, and facilities in the City of Rifle. This
+- Scope: This policy applies to all existing and future parks, recreation facilities, open
+- spaces, and natural areas under the management of the City of Rifle Parks and Recreation
+- Naming Criteria: Names for parks and facilities should meet one or more of the following
+- 1. Historical or Cultural Significance: Commemorates a significant historical event,
+- significant and lasting contributions to the City of Rifle’s parks, recreation, or
+- 4. Traditional or Commonly Recognized Names: Incorporates names widely used by
+- Names that could cause confusion with existing parks, facilities, roads, or public
+- 1. Public Engagement: The Parks and Recreation Department will solicit name
+- this policy and present a shortlist of eligible names to the Parks and Recreation
+- 3. Advisory Board Selection: The Advisory Board will discuss the proposed names
+- 4. City Council Approval: The City Council will make the final decision and approve
+- the name via resolution
+
+## [rifle#15] 2026-10-12 | Rifle Community Foundation | agenda
+- 202 Railroad Avenue Rifle, CO 81650
+- 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
+- 4.a. Discuss Board Meeting Dates for 2027
+- 4.b. Discuss Financial Findings and Budget
+- 4.c. Review Grant Applications
+- 4.c.i. Consider Health Solutions West Grant Application Request of $6,250.00
+- 4.c.ii. Consider Kings & Priests Ministry dba Discovery Cafe Grant Application
+- Request of $30,000.00
+- 4.c.iii. Consider Family Visitor Program of Garfield County, Inc. dba Great
+- Expectations Grant Application Request of $5,000.00
+- 4.c.iv. Consider Garfield County Search & Rescue Grant Application Request of
+- 4.c.v. Consider Rifle High School, ELA Grant Application Request
+- 4.c.vi. Consider CNDC dba High Rockies Harm Reduction Grant Application Request
+- 4.c.vii. Consider Journey Home Animal Care Center Grant Application Request of
+- 4.c.viii. Consider Lift Up Grant Application Request of $3,000.00
+- Rifle Parks & Recreation Advisory Board
+- 4.c.ix. Consider Literacy Outreach Grant Application Request of $3,000.00
+- 4.c.x. Consider Middle Colorado Watershed Council Grant Application Request of
+- 4.c.xi. Consider Mountain Family Health Center Grant Application Request for
+- 4.c.xii. Consider RIDE Grant Application Request of $2,000.00
+- 4.d. Consider Recommendation to Rifle City Council to Restructure the Rifle Community
+- allow 48 hours for your requests to be met
+
+## [rifle#16] 2026-10-12 | Rifle Community Foundation | agenda
+- 202 Railroad Avenue Rifle, CO 81650
+- 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
+- 4.a. Discuss Board Meeting Dates for 2027
+- 4.b. Discuss Financial Findings and Budget
+- 4.c. Review Grant Applications
+- 4.c.i. Consider Health Solutions West Grant Application Request of $6,250.00
+- 4.c.ii. Consider Kings & Priests Ministry dba Discovery Cafe Grant Application
+- Request of $30,000.00
+- 4.c.iii. Consider Family Visitor Program of Garfield County, Inc. dba Great
+- Expectations Grant Application Request of $5,000.00
+- 4.c.iv. Consider Garfield County Search & Rescue Grant Application Request of
+- 4.c.v. Consider Rifle High School, ELA Grant Application Request
+- 4.c.vi. Consider CNDC dba High Rockies Harm Reduction Grant Application Request
+- 4.c.vii. Consider Journey Home Animal Care Center Grant Application Request of
+- 4.c.viii. Consider Lift Up Grant Application Request of $3,000.00
+- Rifle Parks & Recreation Advisory Board
+- 4.c.ix. Consider Literacy Outreach Grant Application Request of $3,000.00
+- 4.c.x. Consider Middle Colorado Watershed Council Grant Application Request of
+- 4.c.xi. Consider Mountain Family Health Center Grant Application Request for
+- 4.c.xii. Consider RIDE Grant Application Request of $2,000.00
+- 4.d. Consider Recommendation to Rifle City Council to Restructure the Rifle Community
+- allow 48 hours for your requests to be met
+- Following the resent resignation of former Board President Kasey Nipsel, the board discussed simplifying
+- operations and returning the board’s primary focus to reviewing grant applications and awarding funds
+- would still require board members to review grant requests and meet twice each year to conduct the award
+- WEBSITE AND ELECTRONIC GRANT APPLICATION
+- will be sent to board members for their review. Sarah Stubbs presented the electronic, fillable grant
+- application that she created using the original paper application as reference. Because outreach for the
+- upcoming grant cycle has already begun, applications will continue to be received through the foundation’s
+- The board reviewed its current membership and identified the need to fill a vacancy that was created by
+- Kasey Nipsel’s resignation. Members discussed seeking representation from the Garfield RE-2 School
+- October meeting. Additional candidates may be considered if needed. Patrick Waller explained that if the
+- foundation transitions under City administration, future appointments will go before City Council for
+- Finance Director Scott Rust requested authorization to communicate directly with the foundation’s
+
+## [rifle#17] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
+- 6.a. Discussion and possible action regarding GRIT Facade Grant Applications
+- 6.a.i. Discussion and Possible Action regarding GRIT Façade Improvement Grant Application
+- — ProMex (233 Railroad Ave)
+- 6.a.ii. Discussion and Possible Action regarding GRIT Façade Improvement Grant Application
+- 6.b. Discussion Regarding Downtown Wayfinding Consultant Selection
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#18] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+- GREATER RIFLE IMPROVEMENT
+- 202 Railroad Avenue, Rifle, CO 81650
+- 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
+- 6.a. Discussion and possible action regarding GRIT Facade Grant Applications
+- 6.a.i. Discussion and Possible Action regarding GRIT Façade Improvement Grant Application
+- — ProMex (233 Railroad Ave)
+- 6.a.ii. Discussion and Possible Action regarding GRIT Façade Improvement Grant Application
+- 6.b. Discussion Regarding Downtown Wayfinding Consultant Selection
+- Greater Rifle Improvement Team (GRIT) Advisory Board
+- The GRIT Advisory Board has two grant cycles. The grant cycle and deadlines to submit an application are:
+- January Cycle – Application Deadline: December 31st = Funding: February
+- June Cycle – Application Deadline: May 31st = Funding: July
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- about GRIT’s role and current projects. Lydia has expressed interest in serving on GRIT and may consider
+- time City of Rifle resident could provide a valuable perspective and support GRIT’s community improvement
+- Lydia Labelle de Rios, will attend the meeting to observe and learn more about GRIT’s role, current projects,
+- and community improvement efforts. Lydia has expressed interest in becoming involved with GRIT, and with
+- is informational only, and no board action is requested at this time
+- Notification Requirements:
+- Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board Meeting
+- Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board Meeting
+- Approve Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board Meeting
+- Rifle City Hall, 202 Railroad Avenue, Rifle, CO
+- The Board considered approval of August 11, 2026, action minutes
+- Motion Approve the August 11, 2026, GRIT Advisory Board action minutes as presented
+- Discussion regarding the potential coordination of DDA and GRIT board membership and meeting
+- The Board discussed the DDA’s recurring difficulty in achieving quorum. There was general support for staff
+- separate DDA meeting could be scheduled immediately following the GRIT meeting. This would not combine
+- formal change would require additional discussion with the DDA and completion of the appropriate City
+- appointment process
+- Staff provided updates on the proposed Third Street shade structure/pergola. Preliminary estimates for
+- approximately 400 square feet of shade range from roughly $20,000 for a canvas-style structure to $30,000
+
+## [rifle#19] 2026-10-14 | City Council | agenda
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
+- b. Water Rights Report
+- allow 48 hours for your requests to be met
+
+## [rifle#20] 2026-10-14 | City Council | agenda
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
+- b. Water Rights Report
+- allow 48 hours for your requests to be met
+- Bulk Resource Consumer Conditional Use Permit Requirements Discussion
+- Zach Higgins, Community Development Director
+- Discussion regarding possible CUP guidelines and requirements for Bulk Resource Consumers
+- The establishment of the CUP process and definitions associated provide the City with a process to approve or
+- deny a Bulk Resource Consumer application if/when received
+- Notification Requirements:
+- CITY OF RIFLE | COMMUNITY DEVELOPMENT
+- City of Rifle Community Development | Draft Data Center CUP Memo
+- Recommended Conditional Use Permit Framework for Data Centers / Bulk Resource
+- FROM: Community Development Department
+- RE: Draft Bulk Resource Consumer / Data Center Conditional
+- Use Permit Standards
+- Data centers can provide substantial private investment, construction activity, property tax base, franchise
+- because they can require high electric capacity, cooling water, backup power systems, constant mechanical
+- infrastructure and nearby land uses, and deny applications that do not demonstrate net public benefit
+- Requires a Special Use Permit before construction of
+- data center facilities and requires site plans, water supply
+- information, road-use agreements, emergency
+- Supports a permit-before-construction
+- supply plan, public water/sewer service, closed-loop or
+- recycled-water cooling unless otherwise approved
+- through the CUP, water demand analysis, applicant
+- a CUP-based data center standard
+- Requires proof of water, electricity-provider “will serve”
+- dB(C) property-boundary noise limit for data centers
+- Approved a 2026 approach that bans hyperscale
+- standards for smaller light-industrial data centers
+- addressing energy efficiency, water, cooling, noise, and
+- Requires Special Use Permit review for larger data
+- centers, public water and sewer, closed-loop or recycled
+- water cooling if water cooling is used, disclosure of
+- Identifies local concerns around increased water and
+- strain, ratepayer exposure, noise, and light pollution
+- Supports a broad municipal impact
+- review rather than a narrow zoning
+- Create a specific “Data Center” definition and also preserve a broader “Bulk Resource Consumer” category for
+- high-impact users that exceed defined electric, water, waste, or pollution thresholds. A broader umbrella may
+- be helpful because future high-resource uses may not call themselves data centers but may create similar
+- “Bulk Resource Consumer” means a commercial, industrial, or institutional use that, based on projected or
+
+## [rifle#21] 2026-10-21 | City Council | agenda
+- 202 Railroad Avenue Rifle, CO 81650
+- Discussion and Review
+- 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 5.a. Consider Minutes of the October 7, 2026 Regular Meeting
+- 5.b. Consider Liquor License Renewal for Rifle Bar, LLC dba Rifle Bar
+- 5.c. Consider Liquor License Renewal for Coloradough, LLC. dba Sweet Coloradough
+- 7. Public Hearing
+- 7.a. Consider Amending the Rifle Municipal Code for ADU's - Ordinance No.20, Series of
+- 8.a. Consider Awarding Bid to Martinez Western Constructors Inc for the Rifle 2026 Water
+- System Improvements Project
+- 8.b. Consider Proposition 123 Commitment of Affordable and Attainable Housing Units for
+- allow 48 hours for your requests to be met
+
+## [rifle#22] 2026-10-21 | City Council | agenda
+- 202 Railroad Avenue Rifle, CO 81650
+- Discussion and Review
+- 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
+- *(Reserved for general comments or items on the agenda that are not a public hearing)
+- 5.a. Consider Minutes of the October 7, 2026 Regular Meeting
+- 5.b. Consider Liquor License Renewal for Rifle Bar, LLC dba Rifle Bar
+- 5.c. Consider Liquor License Renewal for Coloradough, LLC. dba Sweet Coloradough
+- 7. Public Hearing
+- 7.a. Consider Amending the Rifle Municipal Code for ADU's - Ordinance No.20, Series of
+- 8.a. Consider Awarding Bid to Martinez Western Constructors Inc for the Rifle 2026 Water
+- System Improvements Project
+- 8.b. Consider Proposition 123 Commitment of Affordable and Attainable Housing Units for
+- allow 48 hours for your requests to be met
+- separate 501(c)(3) and would instead be a board under the City
+- purely on grant funding decisions
+- The foundation also requested to host their page on the City website. It has been published with updated
+- information that reflects the current board and grant process. Click here to view the webpage
+- Notification Requirements:
+- Zach Higgins, Community Development Director
+- The current budget has $100k dedicated in funding to the Business Incubator Center. Now that the proposal has
+- been finalized the budget requestis for $137k
+- grant request from the USDA
+- 2. Rifle BIC Branch 2027 Budget Cover Letter
+- 3. Rifle BIC Branch 2027 Budget Estimate
+- Requested scope and assumptions for a BIC budget estimate
+- Requested from: Western Colorado Business Development Corporation, dba Business Incubator Center
+- Budget response due: 10/09/2026 to be included in Council budget workshop on 10/21/2026
+- Purpose of this document. This is a request for a budget estimate, not a final statement of work or
+- commitment to fund. BIC should price the base scope, identify assumptions and recommended
+- The City is providing a scope of work to the Grand Junction BIC to create and operate a Rifle Branch in
+- Downtown vitality: generate more viable downtown businesses by developing startup concepts and
+- permanent incubator facility. An agreement with the Rifle Regional Economic Development Corporation
+- industrial space may be evaluated separately as demand becomes clear
+- week across at least four weekdays, with remaining time used for appointments, outreach,
+- The branch has a Rifle-specific public identity, intake path, published hours, outreach plan, and
+- Intake, readiness assessment, market validation, business-model development, planning, cash-flow
+- projections, pricing, licensing navigation, marketing, sales, websites, bookkeeping systems,

@@ -1,0 +1,239 @@
+# fairplay
+
+## [fairplay#0] 2026-07-29 | Park County Intergovernmental | agenda
+- Intergovernmental Meeting for Park County,
+- 59 Bucksin Road, Fairplay, CO
+- Fairplay will be attending and participating in the Park County Intergovernmental
+- Meeting on Wednesday, July 29, 2026 at Alma Town Hall, 59 Bucksin Road, CO
+- Town of Fairplay Website July 27, 2026. This Agenda May Be Amended
+
+## [fairplay#1] 2026-08-03 | Board of Trustees | agenda
+- IV. Approval of Agenda
+- Members may ask that an item be removed from the Consent Agenda for individual consideration
+- A. Approval of expenditures for Town funds from July 1, 2026 to July 31, 2026 paid via Bill.com in the
+- VII. Proclamations, Presentations and Updates
+- A. Presentation of Service Acknowledgment Award to Sarah Ernst
+- VIII. Appointment of Fairplay Unified Development Code and Comprehensive Plan Update Project Steering
+- A. Consider additional appointments to the Town of Fairplay Unified Development Code and
+- Comprehensive Plan Update Project Steering Committee
+- IX. Public Hearings
+- A. ARCHITECTURAL REVIEW HEARING - 2026-COA-006: Consider application from Central
+- Colorado Water Conservancy District for a Certificate of Appropriateness for two murals ton
+- 548 Front Street, Fairplay, CO. (QJ)
+- B. THIRD READING: Should the Board of Trustees for the Town of Fairplay, Colorado approve
+- adoption of Ordinance No. 3, Series of 2026, entitled "AN ORDINANCE OF THE TOWN OF
+- FAIRPLAY, COLORADO AMENDING SECTIONS 1-4-20 AND 1-4-30 OF THE FAIRPLAY MUNICIPAL
+- B. 2027 Budget Timeline and Process
+- that may be subject to negotiations, develop negotiations strategy and instruct negotiators regarding the sewer system at the
+- Gemenskap development in Park County, the subsequent mediation with the Gemenskap developer that occurred on July 27,
+- Friday, July 31, 2026. This Agenda May Be Amended
+- 7/17/2026 CMU TECH Burro Buster Scholarship Award for Cali Fogelsonger Student 2,500.00
+- 7/10/2026 HD Supply Inc parts for equipment repair in sewer plant 1,375.68
+- 7/28/2026 HomeServe USA Corp June 2026 HomeServe Water Line Coverage Premium 1,634.20
+- 7/16/2026 Iron Mountain Vita Records Off-Site Storage Fees 189.00
+- 7/10/2026 Keith Kroepler 2 026-27 348 Park View Staining PIIP Reimbursement 1,365.92
+- 7/10/2026 Ken Hardesty On-Call WW Engineering _ Lagoon Liner Project Mngt 10,031.25
+- 7/10/2026 Ken Hardesty On-Call Water Engineering and Consulting Services 2,550.00
+- onica Minolta Business Solutions USA Inc Leased Copier Copy Fees 114.54
+- 7/15/2026 Matty Crane LLC Dewatering & Lagoon Line Repair Crane Service 750.00
+- 7/15/2026 Matty Crane LLC Dewatering & Lagoon Liner Repair Crane Services 1,000.00
+- 7/31/2026 Murray Dahl Beery Renaud LLP 24-349 Legal Counsel Mileage Fees - June 2026 273.18
+- 7/31/2026 Murray Dahl Beery Renaud LLP 24-349.01 Planning & Development Legal Counsel Fees - June 2,173.75
+- 7/31/2026 Murray Dahl Beery Renaud LLP 24-349.02 BOT Legal Counsel Fees - June 2026 3,642.50
+- 7/31/2026 Murray Dahl Beery Renaud LLP 24-349.09.1 General Legal Counsel Fees - June 2026 3,696.00
+
+## [fairplay#2] 2026-08-17 | Board of Trustees | agenda
+- IV. Approval of Agenda
+- VI. Proclamations, Presentations and Updates
+- A. Request from Park County Senior Coalition Executive Direction CFO Penny Everest for Funding to
+- B. Update from Steve Crozier of FP Land, LLC Company regarding The Bluffs Development
+- VII. Public Hearings
+- A. FIRST READING - Should the Board of Trustees of the Town of Fariplay, Colorado, approve the
+- adoption of Ordinance No 4, Series of 2026, entitled "AN ORDINANCE BY THE BOARD OF
+- A. Discussion Regarding Water Conservation Plan(s) for Town of Fairplay
+- A. Discussion regarding fireworks show(s) with direction to Staff on holding a 2026 show or
+- D. Wastewater ORC Report
+- that may be subject to negotiations, develop negotiations strategy and instruct negotiators regarding the sewer system at the
+- Gemenskap development in Park County, the subsequent mediation with the Gemenskap developer that occurred on July 27,
+- (L) Legislative: Policy-making decisions of a permanent or general character, such as adopting ordinances, setting tax rates, and
+- approving budgets
+- rezoning of an area, or granting of licenses or licensing appeals)
+- August 13, 2026. This Agenda May Be Amended
+- Park County Senior Coalition
+- The Park County Senior Coalition (PCSC) is a nonproﬁt organization dedicated to serving
+- seniors age 60 and older throughout Park County. Our mission is to help seniors maintain
+- Park County is a large, rural mountain community, and many seniors live considerable
+- The Coalition provides several essential services to Park County seniors:
+- delivery, and nutrition education. Meals are delivered to communities throughout Park
+- Transportation assistance helps seniors get to medical appointments, grocery stores, and
+- These ﬁgures demonstrate that the majority of the Coalition's resources are directed
+- PCSC operates with a very small staff and a limited budget while serving seniors across a
+- large rural county. Funding is not simply used to operate an office—it allows the Coalition
+- Transportation to medical appointments and essential shopping
+- Delivery and coordination of services across Park County's rural communities
+- must carefully balance restricted grant funds, government funding, donations, and other
+- The goal of the Park County Senior Coalition is simple: help Park County seniors remain
+- in the daily lives of older adults throughout Park County. For many seniors, a meal delivery,
+- a ride to a medical appointment, help with ﬁrewood or snow removal, or assistance with
+- Park County seniors
+- 901 Main Street • P.O. Box 267
+- approve the adoption of Ordinance No 4, Series of 2026, entitled "AN ORDINANCE BY
+
+## [fairplay#3] 2026-08-31 | General | agenda
+- 2027 Budget Discsussions Regarding Special Events
+- A. Events and Visitor Center 2027 Budget Discussion
+- V. Approval of Agenda
+- Members may ask that an item be removed from the Consent Agenda for individual consideration
+- A. Approval of Minutes or Prior Regular Meeting of June 15, 2026. (A)
+- B. Approval of Minutes of Prior Regular Meeting of July 6, 2026. (A)
+- VIII. Proclamations, Presentations and Updates
+- A. ARCHITECTURAL REVIEW HEARING - 2026-COA-007 - Should the Board of Trustees of the Town
+- of Fairplay, Colorado, sitting as the Architectural Review Committee, approve an application
+- from Andrew Schofield for a Certificate of Appropriateness for exterior improvements at 711
+- Front Street. (A)
+- Resolution No. 2026-32, Series of 2026, entitled "A RESOLUTION OF THE BOARD OF TRUSTEES
+- IMPROVEMENT INCENTIVE PROGRAM (PIIP) AGREEMENT BETWEEN THE TOWN AND ANDREW
+- SCHOFIELD FOR THE 711 FRONT STREET EXTERIOR HOME IMPROVEMENTS PROJECT."? (A)
+- A. Review of Rocky Mountain Rural Health and Park County Senior Coalition Requests for Funding
+- and Final Quarter of 2026 Recurring Funding Requests.(A)
+- A. Police Report
+- that may be subject to negotiations, develop negotiations strategy and instruct negotiators regarding the sewer system at the
+- Gemenskap development in Park County, the subsequent mediation with the Gemenskap developer that occurred on July 27,
+- (L) Legislative: Policy-making decisions of a permanent or general character, such as adopting ordinances, setting tax rates, and
+- approving budgets
+- rezoning of an area, or granting of licenses or licensing appeals)
+- Friday, August 28, 2026. This Agenda May Be Amended
+- 901 Main Street • P.O. Box 267
+- with 20+ volunteers in the kitchen. Both South Park Food Bank and South Park Recreation
+- Staff has created a formal application for non-profits to complete to be considered for the event’s
+- beneficiary. Does the Board have any suggestions/changes to be made on the application? Would the
+- Board like a rubric designed for the decision making process? Staff would like to open the application
+- process by no later than September 8th. Once applications are collected, the Board can choose the top
+- Plan for a possible 5% increase in rental costs for furniture
+- The 2026 t-shirts did not sell well; staff does not plan on ordering merchandise for 2027
+- Staff will be applying for a grant through the Tire Waste Enterprise through the state in order to
+- eliminate the tire recycling fee for residents in 2027. If Town receives the grant, there must be clear
+- possibly due to the short rainstorm in the afternoon and cooler evening. Due to having one
+
+## [fairplay#4] 2026-09-15 | Board of Trustees | agenda
+- IV. Approval of Agenda
+- discussion, then, travel to Park County Government Building, 856 Castello Avenue, Fairplay for
+- joint executive session with Park County Board of County Commissioners, and return to Fairplay
+- Joint executive session with Park County Board of County Commissioners under C.R.S. § 24-6
+- negotiations strategy and instruct negotiators regarding the sewer system at the Gemenskap
+- development in Park County
+- positions relative to matters that may be subject to negotiations, develop negotiations strategy
+- and instruct negotiators regarding the sewer system at the Gemenskap development in Park
+- and related discussions with the developer, the settlement of Sallie Williard’s potential claim,
+- Monday, September 14, 2026. This Agenda May Be Amended
+
+## [fairplay#5] 2026-09-21 | Board of Trustees | agenda
+- IV. Approval of Agenda
+- Members may ask that an item be removed from the Consent Agenda for individual consideration
+- A. Approval of expenditures for all Town funds from August 1, 2026 to August 31, 2026 in the
+- B. Approval of ACH/EFT expenditures for the month of May, 2026 in the amount of $41,081.12 (A)
+- C. Approval of EFT/ACH expenditures for the month of June, 2026 in the amount of $61,661.86. (A)
+- VII. Proclamations, Presentations and Updates
+- Request for Funding for Annual Halloween Spooktacular
+- A. Consider Burro Days Funding Request Application from South Park School District RE-2 for
+- A. Discussion regarding Park County's use of Town of Fairplay Water for wells contaminated by
+- Review of initial proposed 2027 Fairplay Police Department Budget
+- D. Police Department
+- to matters that may be subject to negotiations, develop negotiations strategy and instruct
+- negotiators regarding the sewer system at the Gemenskap development in Park County, the
+- discussions with the developer, the settlement of Sallie Williard’s potential claim, and to take
+- B. Under C.R.S. §§ 24-6-402(4)(b) and (f) to receive legal advice and to discuss personnel matters
+- related to Chief of Police Jeff Worley, and Officer James Deschryver, the subject officer in an
+- Friday, Sep[tember 18, 2026. This Agenda May Be Amended
+- AT&T Mobility 8/6/2026 1,205.88 Cellular Charges - Police
+- BBA Water Consultants, Inc. 8/7/2026 7,795.99 Water Resource Engineering Fees July 2026
+- Caselle LLC 8/6/2026 1,773.08 Programs Maintenance and Support Fees Aug 2026 - GF
+- Caselle LLC 8/6/2026 1,773.08 Programs Maintenance and Support Fees Aug 2026 - UF
+- CIRSA 8/7/2026 18,750.00 Police 2026 PC 2nd Quarter Premiums
+- Colorado Department of Public Health & Environment 8/21/2026 410.00 Annual Drinking Water Fee July 2026-June 2027
+- Denver Electric Motor 8/20/2026 7,662.00 NEW PUMP/ MOTOR FOR WASTEWATER TREATMENT PLANT
+- Direct Discharge Consulting 8/20/2026 12,396.50 jetting of sewer lines
+- FERGUSON WATERWORKS #1116 8/5/2026 3,637.00 Neptune 360 Annual Fee
+- Ferrellgas 8/7/2026 590.73 Propane - Water Plant
+- Hayes Poznanovic Korver LLC 8/6/2026 4,630.00 Water Attorney Legal Service Fees July 2026
+- Iron Mountain 8/21/2026 189.00 Off-Site Storage Fees for Vital Rrcords
+- JOC Construction LLC 8/20/2026 16,955.29 Police Station Structural Assessment Pay App #1F - 501 Maintenance
+- Ken Hardesty 8/20/2026 2,125.00 On-Call WW Engineering _ Lagoon Liner and New Lagoon Project Mngt
+- Ken Hardesty 8/20/2026 6,132.40 On-Call WW Engineering _ Lagoon Liner Project Mngt
+- Kevin Moore 8/20/2026 2,988.05 2026-14 Moore PIIP Reimbursement 601 Main Painting Project
+
+## [fairplay#6] 2026-10-05 | Board of Trustees | agenda
+- IV. Approval of Agenda
+- Members may ask that an item be removed from the Consent Agenda for individual consideration
+- A. Approval of expenditures processed through Bill.com for all Town funds from September 1, 2026
+- B. Approval of Minutes Prior Regular Meeting of July 20, 2026. (A)
+- C. Approval of Minutes of Prior Regular Meeting of August 3, 2026. (A)
+- VII. Public Hearings
+- A. FIRST READING - Should the Board of Trustees for the Town of Fairplay approve the adoption of
+- Ordianance No. 5, Series of 2026 entitled "AN ORDINANCE BY THE BOARD OF TRUSTEES OF THE
+- TOWN OF FAIRPLAY, COLORADO AUTHORIZING A LAND SWAP WITH THE PARK COUNTY
+- BOARD OF COMMISSIONERS WHEREBY THE TOWN CONVEYS TO PARK COUNTY REAL
+- PROPERTY, PARK COUNTY PARCEL NO. 32670, AND, IN EXCHANGE, RECEIVES FROM PARK
+- A. Review of 2027 Budget preliminary Staffing proposal and preliminary Employee Salaries and
+- to matters that may be subject to negotiations, develop negotiations strategy and instruct
+- negotiators regarding the sewer system at the Gemenskap development in Park County, the
+- discussions with the developer, the settlement of Sallie Williard’s potential claim, and to take
+- B. Under C.R.S. §§ 24-6-402(4)(b) and (f) to receive legal advice and to discuss personnel matters
+- related to Chief of Police Jeff Worley, and Officer James Deschryver, the subject officer in an
+- Friday, October 2, 2026. This Agenda May Be Amended
+- 9/10/2026 AT&T 308.67 AT&T Office at Hand Fees - August 2026
+- 9/21/2026 AT&T Mobility 1,904.92 Body Cam, MDT, Cellular Monthly Fees
+- 9/21/2026 BBA Water Consultants, Inc. 9,056.74 Water Resource Engineering Fees August 2026
+- 9/21/2026 BDS Valli Info System 359.23 Drinking Water Notice Postage
+- 9/10/2026 Caselle LLC 1,773.08 Programs Maintenance and Support Fees Sept 2026
+- 9/23/2026 Caselle LLC 3,546.16 Programs Maintenance and Support Fees Oct 2026
+- 9/17/2026 City of Woodland Park Attn: Monica Mendoza 60.00 CML District 4 Fall Meeting Dinner - Bossert, Sciacca & Cochran
+- 9/21/2026 Colorado Analytical Laboratory 1,253.00 WWTP / WATER Required Testing
+- 9/21/2026 FERGUSON WATERWORKS #1116 285.00 Neptune 360 Annual Fee
+- 9/10/2026 Hayes Poznanovic Korver LLC 216.00 Water Counsel - Legal Fees August 2026
+- 9/22/2026 Iron Mountain 189.00 Off-Site Storage Fees for Vital Rrcords
+- 9/21/2026 Ken Hardesty 1,955.00 On-Call WW Engineering -Miscellaneous Projects/Grants
+- 9/25/2026 Konica Minolta Business Solutions USA Inc 235.06 Monthly Copier Copy Fees - Town Hall/Visitor Center/PD
+- 9/21/2026 Konica Minolta Premier Finance 472.95 Monthly Copier Lease Fees - Town Hall, Visitor Center & PD
+
+## [fairplay#7] 2026-10-13 | General | agenda
+- III. Approval of Agenda
+- relative to matters that may be subject to negotiations, develop negotiations strategy and
+- instruct negotiators regarding the sewer system at the Gemenskap developmen t in Park
+- Website on Friday, October 9, 2026. This Agenda May Be Amended
+
+## [fairplay#8] 2026-10-19 | Board of Trustees | agenda
+- Presentation by Colorado Rural Water Association regarding the Town of Fairplay Source Water Protection Plan, what it is,
+- potential opportunities for best management practices in the future, and general discussion on this program as well as future
+- V. Approval of Agenda
+- Members may ask that an item be removed from the Consent Agenda for individual consideration
+- A. Approval of Minutes Prior Regular Meeting of July 20, 2026. (A)
+- B. Approval of Minutes of Prior Regular Meeting of August 3, 2026. (A)
+- VIII. Proclamations, Presentations and Updates
+- A. Presentations from Mardi Gras Fundraiser beneficiary applicants
+- Pike-San Isabel National Forests & Cimarron and Comanche National Grasslands South Park
+- A. FIRST READING: Should the Board of Trustees for the Town of Fairplay, Colorado, approve the
+- adoption of Resolution No. 33, Series of 2026, entitled "A RESOLUTION OF THE BOARD OF
+- TRUSTEES FOR THE TOWN OF FAIRPLAY, COLORADO, APPROVING AN AMENDMENT TO THE
+- TOWN’S SCHEDULE OF FEES."? (A)
+- B. FIRST READING: Should the Board of Trustees for the Town of Fairplay, Colorado, approve the
+- adoption of Resolution No. 34, Series of 2026, entitled "A RESOLUTION OF THE BOARD OF
+- TRUSTEES FOR THE TOWN OF FAIRPLAY, COLORADO, APPROVING A PROPERTY IMPROVEMENT
+- INCENTIVE (PIIP) AGREEMENT WITH GREG JOHNSON FOR THE 305 4TH STREET WINDOW
+- REPLACEMENT PROJECT"? (A)
+- C. FIRST READING: Should the Board of Trustees for the Town of Fairplay, Colorado, approve the
+- adoption of Resolution No. 35, Series of 2026, entitled "A RESOLUTION OF THE BOARD OF
+- INCENTIVE (PIIP) AGREEMENT WITH GREG JOHNSON FOR THE 402 HATHAWAY STREET
+- WINDOW REPLACEMENT PROJECT"? (A)
+- D. Submission of proposed FY2026 Amended and proposed FY2027 Budgets to the Board of
+- hearing and adoption schedule. (A)
+- C. Police Department Report
+- to matters that may be subject to negotiations, develop negotiations strategy and instruct
+- negotiators regarding the sewer system at the Gemenskap development in Park County, the
+- Friday, October 16, 2026. This Agenda May Be Amended
+- 901 Main Street, Fairplay, CO 80440
+- I. Work Session – Review of Town of Fairplay Water Rights and Resources and Utilities Capital Improvement Plan. The
+- Work Session was an informal meeting where the Town held discussions but took no official action(s)
+- Hall, 901 Main Street, Fairplay, CO, having previously been posted in accordance with Colorado Open Meetings law
+- Claylynn Ryszkowski, a Jefferson resident and parent of a South Park High School football player, requested financial
+- MOTION: To donate $1,000 to the South Park High School Football car show fundraiser w as made by Mayor Pro

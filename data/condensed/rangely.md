@@ -1,0 +1,202 @@
+# rangely
+
+## [rangely#0] 2026-07-28 | City Council | agenda
+- contract of the Town Manager
+
+## [rangely#1] 2026-07-28 | City Council | agenda
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- a. Discussion and Action to approve the Town Council minutes of July 14th, 2026
+- 8. Public Hearings - 7:10pm - The Rangely Liquor Licensing Authority (Rangely Town Council) will consider an
+- application for new liquor license applications filed respectively as below:
+- a. Public Hearing to consider the application filed on March 25, 2026, Mi Lindo Jalisco, LLC, located at 35
+- Park Street, Rangely, Co 81648, for a Hotel and Restaurant Liquor License, to serve Malt, Vinous and
+- invited to attend and participate in the public hearing
+- a. Discussion and action to approve the Liquor License for Mi Lindo Jalisco, LLC
+- b. Discussion and action to approve June 2026 Income Statement
+- c. Discussion and action to amend the 2026 Fee Schedule for Certified VIN Inspections under Police Services
+- d. Discussion and Action to approve the engagement of the Community Centric Development team at a
+- $75/hour hourly rate for grant management services. 2
+- b. PITCH Competition; Application Deadline August 17th
+- b. Planning and Zoning
+- d. Rural Fire Protection District Board meeting is scheduled for July 13th, 2026, at 7:00 pm in Rangely
+- e. WRB Park & Recreation District Board meeting is scheduled for July 13th, 2026, at 6:00 pm
+- k. RBC Water Conservancy District Board Meeting is scheduled for July 29th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of June 23rd, 2026 – Motion made by Robby
+- Elam to approve the Town Council minutes of June 23rd, 2026, second by Andy Shaffer. Motion passed
+- 8. Public Hearings - 7:10pm
+- a. Rangely Police Department Presentation - Chief Hamblin – Chief Hamblin introduced Dispatch Supervisor
+- Brittany Mancini to give a presentation for a letter of commendation. Brittany stated that dispatcher
+- a. Discussion and action to accept the 2025 Audit from Colorado ColoCPA Services, PC – Marlo Coates from ColoCPA
+- b. Discussion and action to approve June 2026 Check Register – Motion made by Robby Elam to approve
+- c. Discussion and action to approve a Special Event Permit for Rangely District Hospital Foundation for
+- checked at the door and given wrist bands. Motion made by Shawn Morgan to approve a Special Event
+- Permit for Rangely District Hospital Foundation for Foundation Casio Night on August 8, 2026, at the
+- d. Discussion of Consideration and Possible Action – Authorization for the Town Attorney to Retain
+
+## [rangely#2] 2026-08-11 | City Council | agenda
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- a. Discussion and Action to approve the Town Council minutes of July 28th, 2026
+- b. Discussion and Action to approve the Executive Meeting minutes of July 28th, 2026
+- 8. Public Hearings - 7:10pm
+- a. Discussion and action to approve the July 2026 Check Register
+- b. Discussion and action to delay the middle zone water tank re-coating project
+- c. Discussion and action to approve new Bulk water customer (H & K Trucking, LLC); approval or denial of
+- new bulk water customers is at the discretion of the council pursuant to Emergency Ordinance 707
+- d. Discussion and action to approve the Energy Campus Development & Municipal Participation Study (stage
+- 2 of the Rangely geothermal development)
+- a. PITCH Competition; Application Deadline August 17th
+- b. Planning and Zoning
+- d. Rural Fire Protection District Board meeting is scheduled for August 10th, 2026, at 7:00 pm in Rangely
+- e. WRB Park & Recreation District Board meeting is scheduled for August 10th, 2026, at 6:00 pm
+- l. RBC Water Conservancy District Board Meeting is scheduled for August 26th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of July 14th, 2026 – Motion made by Tim
+- Webber to approve the Town Council minutes of July 14th, 2026, second by Robby Elam. Motion
+- 8. Public Hearings - 7:10pm - The Rangely Liquor Licensing Authority (Rangely Town Council) will consider an
+- application for new liquor license applications filed respectively as below:
+- a. Public Hearing to consider the application filed on March 25, 2026, Mi Lindo Jalisco, LLC, located at 35
+- Park Street, Rangely, Co 81648, for a Hotel and Restaurant Liquor License, to serve Malt, Vinous and
+- invited to attend and participate in the public hearing
+- 9. Town Manager Update – Jonah reported that the water level/flow has dropped into the 60’s. Jonah
+- indicated that the pond liner at the wastewater plant needs to be replaced and that the water plant is having
+- structural issues. Jonah stated that there are 2 positions open in the Police Department
+- a. Discussion and action to approve the Liquor License for Mi Lindo Jalisco, LLC. – Motion made by Tim
+- Webber to approve the Liquor License for Mi Lindo Jalisco, LLC, second by Shawn Morgan. Motion
+- b. Discussion and action to approve June 2026 Income Statement – Motion made by Tim Webber to
+- c. Discussion and action to amend the 2026 Fee Schedule for Certified VIN Inspections under Police Services
+
+## [rangely#3] 2026-08-25 | City Council | agenda
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- a. Discussion and Action to approve the Town Council minutes of August 11th, 2026
+- 8. Public Hearings - 7:10pm
+- a. Discussion and action to approve the July 2026 Income Statement
+- b. Discussion and action to approve the Liquor License renewal for Pinyon Tree Liquors, Inc
+- b. Planning and Zoning
+- d. Rural Fire Protection District Board meeting is scheduled for August 10th, 2026, at 7:00 pm in Rangely
+- e. WRB Park & Recreation District Board meeting is scheduled for August 10th, 2026, at 6:00 pm
+- l. RBC Water Conservancy District Board Meeting is scheduled for August 26th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of July 28th, 2026 – Motion made by Andy
+- Shaffer to approve the Town Council minutes of July 28th, 2026, second by Tim Webber. Jimmy Dillon
+- b. Discussion and Action to approve the Executive Meeting minutes of July 28th, 2026 – Motion made by
+- Jimmy Dillon to approve the Executive Meeting minutes of July 28th, 2026, second by Shawn Morgan
+- Bell Street. Todd stated that he was thankful for the crosswalk but stated that the crosswalk sign in the road
+- parked on the road by the park. Todd asked if there was a possibility of another way to post the signs
+- with posting the agenda/board packet. Jonah reported on the water supply status stating that water
+- goes into Stage 3, the Town will ask for release of water from Kenny Reservoir. If continued use would
+- require a call on the river. Internet at the bulk water station is being worked on. Jonah reported that the
+- Town is water two times a week and flowers will be collected. Jonah stated that the building permit process’
+- digital system is live. Jonah indicated that budget process has started, and looking at a main street
+- beatification project. Jonah reminded the council about CIRSA training on August 25th at 6pm and that Alden
+- Vanden Brink with the water conservancy would like to have a work session on August 25th at 5pm
+- lagoon liners at wastewater need to be repaired. Emily stated that they have been looking at the liners
+- water underneath the current liner. Emily also stated that all the other liners would need to be replaced
+- grants to help with the expense
+- a. Discussion and action to approve the July 2026 Check Register – Motion made by Jimmy Dillon to
+- approve the July 2026 Check Register, second by Shawn Morgan. Motion passed
+
+## [rangely#4] 2026-09-08 | City Council | agenda
+- Budget Work Session
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- Work Session 5:30pm – Capital Projects & Budget
+- a. Discussion and Action to approve the Town Council minutes of August 25th, 2026
+- 8. Public Hearings - 7:10pm
+- a. Discussion and action to approve the Energy Campus Development & Municipal Participation Study (stage
+- 2 of the Rangely geothermal development)
+- a. Discussion and action to approve the August 2026 Check Register
+- b. Planning and Zoning
+- e. Rural Fire Protection District Board meeting is scheduled for September 14th, 2026, at 7:00 pm in Rangely
+- f. WRB Park & Recreation District Board meeting is scheduled for September 14th, 2026, at 6:00 pm
+- l. RBC Water Conservancy District Board Meeting is scheduled for September 30th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of August 11th, 2026 – Motion made by
+- Jimmy Dillon to approve the Town Council minutes of August 11th, 2026, second by Shawn Morgan
+- 6. Petitions and Public Input – Tanner Nielsen shared his concerns with the Town considering Data Centers
+- center visit. Jonah reported on the current water supply and stated that the Town is now in Stage 3, and
+- that the water conservancy district will be releasing 10cfs from Kenney Reservoir to help. Jonah also stated
+- that there are 5 large water users upriver and many have senior rights that are above ours. Jonah indicated
+- public works has completed sidewalk repair on west Bell, a ‘No Parking’ area will be extended at the park by
+- 50ft., currently the street sweeper is down, and the public works completed a curb stop repair. Jonah
+- mentioned that ‘Freedom to Build’ permitting is fully live. Jonah stated that two Community Service Officers
+- passed the Animal Control Officers Certification and that two police department employees passed
+- certification on car seat safety. Jonah explained that the animal shelter has full capacity for dogs and that
+- the new shed should be up soon. Jonah indicated that admin is working on the budget
+- SRO change was made. Tim Webber showed concern about the ‘No Parking’ on Bell Street, especially during
+- Morgan stated that he contacted someone he knew at a data center to understand more about them and
+- stated that he was told that noise was dependent on what type of data center it was
+- a. Discussion and action to approve the July 2026 Income Statement – Motion made by Shawn Morgan to
+
+## [rangely#6] 2026-09-22 | City Council | agenda
+- Budget Work Session
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- Work Session 5:30pm – Capital Projects & Budget
+- a. Discussion and Action to approve the Town Council minutes of September 8th, 2026
+- 8. Public Hearings - 7:10pm
+- a. Discussion and action to approve the Energy Campus Development & Municipal Participation Study (stage
+- 2 of the Rangely geothermal development)
+- a. Discussion and action to approve the August 2026 Income Statement
+- b. Discussion and action to approve Resolution 75.40.001 2025, a resolution revising revenue and expense
+- amounts budgeted for the Rangely Housing Assistance Fund, of the Town of Rangely, Colorado for the
+- b. Planning and Zoning
+- e. Rural Fire Protection District Board meeting is scheduled for September 14th, 2026, at 7:00 pm in Rangely
+- f. WRB Park & Recreation District Board meeting is scheduled for September 14th, 2026, at 6:00 pm
+- l. RBC Water Conservancy District Board Meeting is scheduled for September 30th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of August 25th, 2026 – Motion made by
+- Robby Elam to approve the Town Council minutes of August 25th, 2026, second by Jimmy Dillon
+- to clarify that he would like transparency from the Town. Tanner also suggested that the council consider a
+- moratorium on data centers. Tanner stated that he would like to provide a solution to the Town by considering solar
+- development and to partner with CNCC. Jack Richens addressed the council with concerns that the Town Manager is
+- 9. Town Manager Update – Jonah reported to the council that himself and Todd went to Meeker to meet with water
+- Town, could divert 100% of the water. Jonah reported that the Town will be having a CIRSA audit, and some
+- equipment at public works is being looked at. Jonah indicated that the asbestos project on birch will begin soon
+- Jonah stated that the UV is being priced out and the vac truck is being repaired. Jonah reported that stage 3 water
+- and Jonah to discuss Jonah’s employment outside of the Town. Todd stated that through the conversation,
+- back in stage 1. Michael wanted to acknowledge and say Thank You to the Water Conservancy District for the
+- release of water and to Betty Kracht, the water commissioner. Michael stated that the water ordinance will be
+- significant corrosion. Michael stated that a separate structural inspector came into to inspect rafters and columns
+
+## [rangely#7] 2026-10-13 | City Council | agenda
+- Budget Work Session
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- Work Session 5:30pm – Capital Projects & Budget
+- a. Discussion and Action to approve the Town Council minutes of September 22nd, 2026
+- b. Discussion and Action to approve the Executive Meeting minutes of September 22nd, 2026
+- 8. Public Hearings - 7:10pm
+- a. Swearing in Interim Chief of Police Joseph McGuire
+- a. Discussion and action to approve Resolution 2026-07, a resolution declaring a State of Municipal Water
+- Urgency; Adopting a Finding of Municipal Water Supply Need; and Authorizing Negotiation, but not
+- Execution, of a Conditional Storage Agreement for the White River Regional Water Supply Project – Wolf
+- a. Discussion and action to approve September 2026 Check Register
+- b. Discussion and action to approve the Draft 2027 Budget as presented
+- c. Discussion and action to approve the Liquor License Renewal for The Elks, BPOE 1907
+- d. Discussion and action to appoint Roger Hanna and Marcy Sanchez to the RDA and RDC Boards
+- a. Rangely District Hospital – Retirement of Hospital Bond; November 2nd, 5-6:30pm
+- b. Planning and Zoning
+- e. Rural Fire Protection District Board meeting is scheduled for October 12th, 2026, at 7:00 pm in Rangely
+- f. WRB Park & Recreation District Board meeting is scheduled for October 12th, 2026, at 6:00 pm
+- l. RBC Water Conservancy District Board Meeting is scheduled for October 28th, 2026, at 6:30 pm
+- a. Discussion and Action to approve the Town Council minutes of September 8th, 2026 – Motion made by
+- Jimmy Dillon to approve the Town Council minutes of September 8th, 2026, second by Shawn Morgan
+- the data center that is being considered. Camille stated that there is unknown information about geothermal
+- and that a close loop system does not eliminate water usage. Camille also stated that the jobs that would be
+- concerning the geothermal/data center project after he requested a CORA request from the Town and
+- saying they are a shell company, just doing the bidding of their uppers. Tanner stated that he did some
+- asked if a partner has been picked for who would be running the data center? Tanner indicated that he
+- 10 people oppose data centers. Tanner reported that in terms of geothermal, if you go to the ECMC, any
+- measure to the municipal code barring public officials from entering into NDAs for economic development
+- NDA signed due to the company working on another project. Frank stated that he is strongly opposed to any

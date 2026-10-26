@@ -5,7 +5,7 @@
     {
      "name": "Adams County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Aurora",
@@ -20,7 +20,7 @@
     {
      "name": "Brighton",
      "share": 0.991,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Commerce City",
@@ -30,7 +30,7 @@
     {
      "name": "Federal Heights",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Northglenn",
@@ -45,29 +45,31 @@
     {
      "name": "Westminster",
      "share": 0.612,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
-    "commerce-city/1",
-    "commerce-city/0",
-    "commerce-city/5",
     "commerce-city/6",
-    "commerce-city/7",
-    "commerce-city/9",
-    "commerce-city/11",
-    "commerce-city/13",
-    "thornton/1",
-    "thornton/6",
-    "aurora/0",
-    "commerce-city/3"
+    "commerce-city/0",
+    "adams-county/2",
+    "adams-county/5",
+    "brighton/6",
+    "westminster/1",
+    "adams-county/0",
+    "adams-county/10",
+    "brighton/4",
+    "brighton/11",
+    "commerce-city/3",
+    "commerce-city/4"
    ],
    "tagged": {
     "data-center": {
      "ids": [
       "commerce-city/0",
       "aurora/0",
-      "thornton/0"
+      "brighton/0",
+      "thornton/0",
+      "westminster/0"
      ],
      "site": false
     }
@@ -78,7 +80,7 @@
     {
      "name": "Alamosa County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Alamosa",
@@ -91,7 +93,13 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "alamosa-county/0",
+    "alamosa-county/1",
+    "alamosa-county/2",
+    "alamosa-county/3",
+    "alamosa-county/4"
+   ],
    "tagged": {}
   },
   "Arapahoe": {
@@ -99,7 +107,7 @@
     {
      "name": "Arapahoe County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Aurora",
@@ -119,17 +127,17 @@
     {
      "name": "Centennial",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Cherry Hills Village",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Columbine Valley",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Deer Trail",
@@ -144,7 +152,7 @@
     {
      "name": "Foxfield",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Glendale",
@@ -154,7 +162,7 @@
     {
      "name": "Greenwood Village",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Littleton",
@@ -164,27 +172,28 @@
     {
      "name": "Sheridan",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
     "aurora/0",
+    "greenwood-village/0",
+    "sheridan/2",
+    "centennial/0",
+    "centennial/2",
+    "glendale/3",
+    "arapahoe-county/0",
+    "arapahoe-county/1",
     "aurora/1",
     "aurora/8",
-    "glendale/4",
-    "aurora/2",
-    "aurora/3",
-    "aurora/5",
-    "aurora/6",
-    "aurora/7",
-    "glendale/1",
-    "aurora/10",
-    "glendale/3"
+    "centennial/1",
+    "centennial/5"
    ],
    "tagged": {
     "data-center": {
      "ids": [
-      "aurora/0"
+      "aurora/0",
+      "arapahoe-county/0"
      ],
      "site": false
     }
@@ -195,16 +204,36 @@
     {
      "name": "Archuleta County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Pagosa Springs",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "pagosa-springs/1",
+    "pagosa-springs/2",
+    "pagosa-springs/7",
+    "pagosa-springs/3",
+    "pagosa-springs/8",
+    "archuleta-county/2",
+    "pagosa-springs/4",
+    "pagosa-springs/5",
+    "pagosa-springs/10",
+    "archuleta-county/0",
+    "pagosa-springs/9",
+    "archuleta-county/3"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "pagosa-springs/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Baca": {
    "governments": [
@@ -216,7 +245,7 @@
     {
      "name": "Campo",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Pritchett",
@@ -244,7 +273,14 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "campo/0",
+    "campo/1",
+    "campo/2",
+    "campo/3",
+    "campo/4",
+    "campo/5"
+   ],
    "tagged": {}
   },
   "Bent": {
@@ -322,18 +358,18 @@
     }
    ],
    "issues": [
-    "louisville/2",
     "lyons/0",
-    "longmont/9",
-    "louisville/6",
-    "longmont/3",
-    "lyons/4",
-    "boulder-county/0",
-    "longmont/0",
-    "louisville/3",
-    "louisville/12",
     "lyons/1",
-    "superior/0"
+    "superior/0",
+    "longmont/10",
+    "louisville/3",
+    "louisville/6",
+    "longmont/8",
+    "boulder-county/0",
+    "louisville/2",
+    "lyons/3",
+    "lyons/4",
+    "longmont/0"
    ],
    "tagged": {
     "data-center": {
@@ -354,17 +390,17 @@
    ],
    "issues": [
     "broomfield/1",
-    "broomfield/3",
-    "broomfield/0",
     "broomfield/2",
     "broomfield/4",
+    "broomfield/0",
     "broomfield/5",
-    "broomfield/6",
-    "broomfield/9",
-    "broomfield/7",
     "broomfield/8",
     "broomfield/10",
-    "broomfield/11"
+    "broomfield/13",
+    "broomfield/3",
+    "broomfield/6",
+    "broomfield/7",
+    "broomfield/9"
    ],
    "tagged": {}
   },
@@ -373,12 +409,12 @@
     {
      "name": "Chaffee County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Buena Vista",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Poncha Springs",
@@ -388,11 +424,32 @@
     {
      "name": "Salida",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "chaffee-county/4",
+    "buena-vista/3",
+    "buena-vista/4",
+    "chaffee-county/3",
+    "buena-vista/0",
+    "buena-vista/2",
+    "buena-vista/9",
+    "chaffee-county/8",
+    "buena-vista/12",
+    "chaffee-county/5",
+    "chaffee-county/6",
+    "chaffee-county/10"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "buena-vista/1",
+      "salida/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Cheyenne": {
    "governments": [
@@ -420,7 +477,7 @@
     {
      "name": "Clear Creek County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Empire",
@@ -435,15 +492,28 @@
     {
      "name": "Idaho Springs",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Silver Plume",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "idaho-springs/5",
+    "idaho-springs/2",
+    "idaho-springs/7",
+    "idaho-springs/1",
+    "silver-plume/1",
+    "clear-creek-county/2",
+    "idaho-springs/4",
+    "idaho-springs/9",
+    "clear-creek-county/1",
+    "clear-creek-county/4",
+    "idaho-springs/0",
+    "silver-plume/0"
+   ],
    "tagged": {}
   },
   "Conejos": {
@@ -523,7 +593,7 @@
     {
      "name": "Ordway",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Sugar City",
@@ -531,7 +601,18 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "ordway/0",
+    "ordway/7",
+    "ordway/9",
+    "ordway/1",
+    "ordway/2",
+    "ordway/3",
+    "ordway/4",
+    "ordway/5",
+    "ordway/6",
+    "ordway/8"
+   ],
    "tagged": {}
   },
   "Custer": {
@@ -544,7 +625,7 @@
     {
      "name": "Silver Cliff",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Westcliffe",
@@ -552,7 +633,16 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "silver-cliff/3",
+    "silver-cliff/0",
+    "silver-cliff/1",
+    "silver-cliff/5",
+    "silver-cliff/2",
+    "silver-cliff/4",
+    "silver-cliff/6",
+    "silver-cliff/7"
+   ],
    "tagged": {}
   },
   "Delta": {
@@ -570,17 +660,17 @@
     {
      "name": "Crawford",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Delta",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Hotchkiss",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Orchard City",
@@ -590,11 +680,31 @@
     {
      "name": "Paonia",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "paonia/0",
+    "delta/3",
+    "paonia/5",
+    "paonia/7",
+    "paonia/11",
+    "delta/4",
+    "hotchkiss/0",
+    "paonia/1",
+    "paonia/3",
+    "paonia/8",
+    "delta/7",
+    "delta/9"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "delta/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Denver": {
    "governments": [
@@ -605,18 +715,18 @@
     }
    ],
    "issues": [
-    "denver/4",
-    "denver/10",
-    "denver/2",
-    "denver/3",
-    "denver/5",
-    "denver/11",
-    "denver/15",
-    "denver/7",
-    "denver/8",
-    "denver/1",
     "denver/6",
-    "denver/12"
+    "denver/9",
+    "denver/1",
+    "denver/5",
+    "denver/10",
+    "denver/13",
+    "denver/4",
+    "denver/7",
+    "denver/12",
+    "denver/15",
+    "denver/2",
+    "denver/0"
    ],
    "tagged": {
     "data-center": {
@@ -637,15 +747,24 @@
     {
      "name": "Dove Creek",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Rico",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "dove-creek/0",
+    "dove-creek/1",
+    "dove-creek/2",
+    "dove-creek/4",
+    "dove-creek/3",
+    "dove-creek/5",
+    "dove-creek/6",
+    "rico/0"
+   ],
    "tagged": {}
   },
   "Douglas": {
@@ -653,12 +772,12 @@
     {
      "name": "Douglas County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Castle Pines",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Castle Rock",
@@ -678,11 +797,31 @@
     {
      "name": "Parker",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "douglas-county/0",
+    "douglas-county/8",
+    "douglas-county/10",
+    "douglas-county/13",
+    "parker/8",
+    "douglas-county/4",
+    "parker/7",
+    "parker/10",
+    "douglas-county/11",
+    "douglas-county/12",
+    "parker/2",
+    "parker/3"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "douglas-county/1"
+     ],
+     "site": false
+    }
+   }
   },
   "Eagle": {
    "governments": [
@@ -699,22 +838,22 @@
     {
      "name": "Basalt",
      "share": 0.732,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Eagle",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Gypsum",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Minturn",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Red Cliff",
@@ -727,7 +866,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "eagle/0",
+    "basalt/0",
+    "basalt/4",
+    "eagle/2",
+    "basalt/3",
+    "eagle/1",
+    "eagle/3",
+    "gypsum/1",
+    "minturn/10",
+    "basalt/1",
+    "basalt/5",
+    "basalt/9"
+   ],
    "tagged": {}
   },
   "El Paso": {
@@ -745,7 +897,7 @@
     {
      "name": "Colorado Springs",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Fountain",
@@ -755,7 +907,7 @@
     {
      "name": "Green Mountain Falls",
      "share": 0.963,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Manitou Springs",
@@ -765,12 +917,12 @@
     {
      "name": "Monument",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Palmer Lake",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Ramah",
@@ -778,8 +930,29 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "colorado-springs/1",
+    "colorado-springs/8",
+    "palmer-lake/4",
+    "palmer-lake/9",
+    "green-mountain-falls/1",
+    "palmer-lake/8",
+    "palmer-lake/10",
+    "colorado-springs/0",
+    "monument/0",
+    "palmer-lake/2",
+    "palmer-lake/3",
+    "colorado-springs/4"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "colorado-springs/0",
+      "palmer-lake/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Elbert": {
    "governments": [
@@ -791,12 +964,12 @@
     {
      "name": "Elizabeth",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Kiowa",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Simla",
@@ -804,7 +977,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "elizabeth/1",
+    "elizabeth/0",
+    "elizabeth/7",
+    "elizabeth/2",
+    "elizabeth/3",
+    "elizabeth/4",
+    "elizabeth/5",
+    "elizabeth/6",
+    "elizabeth/8",
+    "kiowa/0",
+    "kiowa/1",
+    "kiowa/2"
+   ],
    "tagged": {}
   },
   "Fremont": {
@@ -812,7 +998,7 @@
     {
      "name": "Fremont County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Brookside",
@@ -822,7 +1008,7 @@
     {
      "name": "Ca\u00f1on City",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Coal Creek",
@@ -845,7 +1031,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "canon-city/2",
+    "canon-city/1",
+    "canon-city/3",
+    "canon-city/6",
+    "canon-city/0",
+    "canon-city/13",
+    "canon-city/8",
+    "fremont-county/3",
+    "canon-city/4",
+    "canon-city/10",
+    "canon-city/11",
+    "fremont-county/0"
+   ],
    "tagged": {}
   },
   "Garfield": {
@@ -868,22 +1067,22 @@
     {
      "name": "Glenwood Springs",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "New Castle",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Parachute",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Rifle",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Silt",
@@ -891,20 +1090,41 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "glenwood-springs/1",
+    "glenwood-springs/10",
+    "rifle/0",
+    "glenwood-springs/0",
+    "glenwood-springs/4",
+    "rifle/7",
+    "new-castle/3",
+    "new-castle/4",
+    "new-castle/5",
+    "new-castle/8",
+    "rifle/1",
+    "rifle/5"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "rifle/0",
+      "parachute/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Gilpin": {
    "governments": [
     {
      "name": "Gilpin County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Black Hawk",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Central City",
@@ -912,7 +1132,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "gilpin-county/3",
+    "gilpin-county/5",
+    "gilpin-county/2",
+    "black-hawk/2",
+    "gilpin-county/0",
+    "gilpin-county/1",
+    "gilpin-county/4",
+    "gilpin-county/6",
+    "gilpin-county/8",
+    "gilpin-county/9",
+    "gilpin-county/10",
+    "gilpin-county/11"
+   ],
    "tagged": {}
   },
   "Grand": {
@@ -920,12 +1153,12 @@
     {
      "name": "Grand County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Fraser",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Granby",
@@ -935,7 +1168,7 @@
     {
      "name": "Grand Lake",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Hot Sulphur Springs",
@@ -950,10 +1183,23 @@
     {
      "name": "Winter Park",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "fraser/0",
+    "fraser/11",
+    "grand-lake/0",
+    "fraser/2",
+    "fraser/3",
+    "fraser/6",
+    "grand-county/0",
+    "grand-county/7",
+    "fraser/4",
+    "fraser/5",
+    "fraser/9",
+    "winter-park/2"
+   ],
    "tagged": {}
   },
   "Gunnison": {
@@ -961,12 +1207,12 @@
     {
      "name": "Gunnison County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Crested Butte",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Gunnison",
@@ -989,7 +1235,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "gunnison-county/3",
+    "gunnison-county/9",
+    "gunnison-county/0",
+    "gunnison-county/2",
+    "crested-butte/1",
+    "crested-butte/2",
+    "crested-butte/3",
+    "crested-butte/6",
+    "gunnison-county/1",
+    "gunnison-county/4",
+    "gunnison-county/5",
+    "gunnison-county/6"
+   ],
    "tagged": {}
   },
   "Hinsdale": {
@@ -1002,10 +1261,23 @@
     {
      "name": "Lake City",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "lake-city/2",
+    "lake-city/0",
+    "lake-city/1",
+    "lake-city/3",
+    "lake-city/9",
+    "lake-city/11",
+    "lake-city/8",
+    "lake-city/4",
+    "lake-city/5",
+    "lake-city/6",
+    "lake-city/7",
+    "lake-city/10"
+   ],
    "tagged": {}
   },
   "Huerfano": {
@@ -1055,7 +1327,7 @@
     {
      "name": "Arvada",
      "share": 0.977,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Bow Mar",
@@ -1065,12 +1337,12 @@
     {
      "name": "Edgewater",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Golden",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Lakeside",
@@ -1080,22 +1352,22 @@
     {
      "name": "Lakewood",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Morrison",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Mountain View",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Westminster",
      "share": 0.388,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Wheat Ridge",
@@ -1103,8 +1375,29 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "golden/0",
+    "arvada/1",
+    "golden/2",
+    "golden/1",
+    "arvada/2",
+    "golden/5",
+    "westminster/1",
+    "arvada/6",
+    "arvada/9",
+    "golden/6",
+    "golden/10",
+    "lakewood/7"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "arvada/0",
+      "westminster/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Kiowa": {
    "governments": [
@@ -1137,7 +1430,7 @@
     {
      "name": "Kit Carson County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Bethune",
@@ -1170,7 +1463,14 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "kit-carson-county/1",
+    "kit-carson-county/0",
+    "kit-carson-county/2",
+    "kit-carson-county/3",
+    "kit-carson-county/4",
+    "kit-carson-county/5"
+   ],
    "tagged": {}
   },
   "La Plata": {
@@ -1204,7 +1504,7 @@
     {
      "name": "Lake County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Leadville",
@@ -1212,7 +1512,19 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "lake-county/2",
+    "lake-county/3",
+    "lake-county/0",
+    "lake-county/6",
+    "lake-county/1",
+    "lake-county/7",
+    "lake-county/9",
+    "lake-county/4",
+    "lake-county/5",
+    "lake-county/8",
+    "lake-county/10"
+   ],
    "tagged": {}
   },
   "Larimer": {
@@ -1225,7 +1537,7 @@
     {
      "name": "Berthoud",
      "share": 0.975,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Estes Park",
@@ -1235,12 +1547,12 @@
     {
      "name": "Fort Collins",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Johnstown",
      "share": 0.275,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Loveland",
@@ -1250,21 +1562,43 @@
     {
      "name": "Timnath",
      "share": 0.999,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Wellington",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Windsor",
      "share": 0.236,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "wellington/1",
+    "berthoud/5",
+    "berthoud/1",
+    "berthoud/4",
+    "berthoud/12",
+    "fort-collins/0",
+    "wellington/5",
+    "wellington/9",
+    "johnstown/8",
+    "windsor/2",
+    "johnstown/12",
+    "berthoud/0"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "berthoud/0",
+      "windsor/0",
+      "johnstown/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Las Animas": {
    "governments": [
@@ -1296,7 +1630,7 @@
     {
      "name": "Starkville",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Trinidad",
@@ -1304,8 +1638,28 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "starkville/3",
+    "starkville/0",
+    "starkville/1",
+    "starkville/2",
+    "starkville/5",
+    "starkville/6",
+    "starkville/7",
+    "starkville/9",
+    "starkville/4",
+    "starkville/8",
+    "starkville/10",
+    "starkville/11"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "starkville/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Lincoln": {
    "governments": [
@@ -1317,7 +1671,7 @@
     {
      "name": "Arriba",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Genoa",
@@ -1327,15 +1681,28 @@
     {
      "name": "Hugo",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Limon",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "hugo/0",
+    "hugo/2",
+    "hugo/6",
+    "arriba/1",
+    "arriba/2",
+    "arriba/3",
+    "arriba/4",
+    "hugo/4",
+    "hugo/5",
+    "hugo/7",
+    "arriba/0",
+    "arriba/5"
+   ],
    "tagged": {}
   },
   "Logan": {
@@ -1373,10 +1740,23 @@
     {
      "name": "Sterling",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "sterling/1",
+    "sterling/2",
+    "sterling/3",
+    "sterling/0",
+    "sterling/9",
+    "sterling/4",
+    "sterling/5",
+    "sterling/8",
+    "sterling/11",
+    "sterling/12",
+    "sterling/6",
+    "sterling/7"
+   ],
    "tagged": {}
   },
   "Mesa": {
@@ -1384,7 +1764,7 @@
     {
      "name": "Mesa County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Collbran",
@@ -1394,7 +1774,7 @@
     {
      "name": "De Beque",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Fruita",
@@ -1404,16 +1784,37 @@
     {
      "name": "Grand Junction",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Palisade",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "grand-junction/5",
+    "grand-junction/2",
+    "grand-junction/3",
+    "grand-junction/0",
+    "grand-junction/12",
+    "grand-junction/10",
+    "mesa-county/1",
+    "grand-junction/1",
+    "grand-junction/7",
+    "grand-junction/9",
+    "grand-junction/8",
+    "grand-junction/11"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "grand-junction/1",
+      "mesa-county/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Mineral": {
    "governments": [
@@ -1441,7 +1842,7 @@
     {
      "name": "Craig",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Dinosaur",
@@ -1449,7 +1850,16 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "craig/3",
+    "craig/5",
+    "craig/0",
+    "craig/1",
+    "craig/2",
+    "craig/4",
+    "craig/6",
+    "craig/7"
+   ],
    "tagged": {}
   },
   "Montezuma": {
@@ -1467,7 +1877,7 @@
     {
      "name": "Dolores",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Mancos",
@@ -1475,7 +1885,19 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "dolores/2",
+    "dolores/9",
+    "dolores/0",
+    "dolores/8",
+    "dolores/3",
+    "dolores/4",
+    "dolores/7",
+    "dolores/1",
+    "dolores/6",
+    "dolores/10",
+    "dolores/5"
+   ],
    "tagged": {}
   },
   "Montrose": {
@@ -1483,12 +1905,12 @@
     {
      "name": "Montrose County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Montrose",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Naturita",
@@ -1506,15 +1928,35 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "montrose/0",
+    "montrose-county/8",
+    "montrose/1",
+    "montrose/6",
+    "montrose-county/3",
+    "montrose-county/7",
+    "montrose-county/9",
+    "montrose/2",
+    "montrose/3",
+    "montrose/10",
+    "montrose-county/0",
+    "montrose-county/1"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "montrose/4"
+     ],
+     "site": false
+    }
+   }
   },
   "Morgan": {
    "governments": [
     {
      "name": "Morgan County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Brush",
@@ -1524,7 +1966,7 @@
     {
      "name": "Fort Morgan",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Hillrose",
@@ -1542,8 +1984,28 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "fort-morgan/2",
+    "fort-morgan/4",
+    "fort-morgan/8",
+    "fort-morgan/9",
+    "fort-morgan/0",
+    "fort-morgan/1",
+    "morgan-county/0",
+    "morgan-county/4",
+    "morgan-county/5",
+    "morgan-county/7",
+    "fort-morgan/3",
+    "fort-morgan/5"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "morgan-county/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Otero": {
    "governments": [
@@ -1565,12 +2027,12 @@
     {
      "name": "La Junta",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Manzanola",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Rocky Ford",
@@ -1583,7 +2045,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "la-junta/0",
+    "la-junta/4",
+    "la-junta/2",
+    "la-junta/12",
+    "manzanola/0",
+    "manzanola/1",
+    "manzanola/2",
+    "manzanola/3",
+    "la-junta/1",
+    "la-junta/5",
+    "la-junta/6",
+    "manzanola/4"
+   ],
    "tagged": {}
   },
   "Ouray": {
@@ -1591,7 +2066,7 @@
     {
      "name": "Ouray County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Ouray",
@@ -1601,10 +2076,23 @@
     {
      "name": "Ridgway",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "ouray-county/0",
+    "ridgway/2",
+    "ridgway/7",
+    "ridgway/0",
+    "ridgway/1",
+    "ridgway/4",
+    "ridgway/6",
+    "ridgway/8",
+    "ouray-county/1",
+    "ouray-county/2",
+    "ouray-county/3",
+    "ouray-county/4"
+   ],
    "tagged": {}
   },
   "Park": {
@@ -1612,7 +2100,7 @@
     {
      "name": "Park County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Alma",
@@ -1622,18 +2110,38 @@
     {
      "name": "Fairplay",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "park-county/3",
+    "fairplay/0",
+    "park-county/4",
+    "park-county/6",
+    "park-county/2",
+    "fairplay/3",
+    "park-county/0",
+    "park-county/13",
+    "fairplay/4",
+    "park-county/8",
+    "park-county/10",
+    "fairplay/9"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "park-county/9"
+     ],
+     "site": false
+    }
+   }
   },
   "Phillips": {
    "governments": [
     {
      "name": "Phillips County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Haxtun",
@@ -1651,8 +2159,28 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "phillips-county/1",
+    "phillips-county/2",
+    "phillips-county/5",
+    "phillips-county/6",
+    "phillips-county/7",
+    "phillips-county/8",
+    "phillips-county/9",
+    "phillips-county/11",
+    "phillips-county/0",
+    "phillips-county/3",
+    "phillips-county/4",
+    "phillips-county/10"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "phillips-county/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Pitkin": {
    "governments": [
@@ -1664,20 +2192,33 @@
     {
      "name": "Aspen",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Basalt",
      "share": 0.268,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Snowmass Village",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "snowmass-village/0",
+    "snowmass-village/6",
+    "aspen/8",
+    "snowmass-village/1",
+    "snowmass-village/3",
+    "basalt/0",
+    "basalt/4",
+    "aspen/2",
+    "aspen/3",
+    "aspen/6",
+    "snowmass-village/2",
+    "aspen/0"
+   ],
    "tagged": {}
   },
   "Prowers": {
@@ -1721,17 +2262,17 @@
     {
      "name": "Pueblo County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Boone",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Pueblo",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Rye",
@@ -1739,7 +2280,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "pueblo-county/0",
+    "pueblo/8",
+    "pueblo/4",
+    "boone/1",
+    "boone/2",
+    "pueblo/1",
+    "pueblo/11",
+    "pueblo/12",
+    "boone/0",
+    "boone/3",
+    "boone/5",
+    "pueblo/0"
+   ],
    "tagged": {}
   },
   "Rio Blanco": {
@@ -1752,16 +2306,36 @@
     {
      "name": "Meeker",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Rangely",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "rangely/0",
+    "rangely/1",
+    "rangely/4",
+    "rangely/3",
+    "rangely/7",
+    "rangely/5",
+    "rangely/6",
+    "meeker/0",
+    "meeker/1",
+    "meeker/2",
+    "meeker/3",
+    "meeker/4"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "rangely/0"
+     ],
+     "site": false
+    }
+   }
   },
   "Rio Grande": {
    "governments": [
@@ -1773,7 +2347,7 @@
     {
      "name": "Del Norte",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Monte Vista",
@@ -1786,7 +2360,18 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "del-norte/0",
+    "del-norte/1",
+    "del-norte/4",
+    "del-norte/5",
+    "del-norte/6",
+    "del-norte/2",
+    "del-norte/3",
+    "del-norte/7",
+    "del-norte/8",
+    "del-norte/9"
+   ],
    "tagged": {}
   },
   "Routt": {
@@ -1794,17 +2379,17 @@
     {
      "name": "Routt County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Hayden",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Oak Creek",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Steamboat Springs",
@@ -1817,8 +2402,28 @@
      "has_records": false
     }
    ],
-   "issues": [],
-   "tagged": {}
+   "issues": [
+    "routt-county/1",
+    "routt-county/0",
+    "routt-county/2",
+    "routt-county/12",
+    "routt-county/4",
+    "hayden/5",
+    "oak-creek/0",
+    "oak-creek/7",
+    "routt-county/3",
+    "routt-county/5",
+    "routt-county/7",
+    "routt-county/9"
+   ],
+   "tagged": {
+    "data-center": {
+     "ids": [
+      "hayden/1"
+     ],
+     "site": false
+    }
+   }
   },
   "Saguache": {
    "governments": [
@@ -1877,7 +2482,7 @@
     {
      "name": "San Miguel County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Mountain Village",
@@ -1887,12 +2492,12 @@
     {
      "name": "Norwood",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Ophir",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Sawpit",
@@ -1905,7 +2510,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "san-miguel-county/1",
+    "san-miguel-county/0",
+    "san-miguel-county/8",
+    "norwood/0",
+    "norwood/5",
+    "san-miguel-county/5",
+    "san-miguel-county/2",
+    "san-miguel-county/6",
+    "san-miguel-county/7",
+    "norwood/2",
+    "norwood/3",
+    "norwood/8"
+   ],
    "tagged": {}
   },
   "Sedgwick": {
@@ -1944,12 +2562,12 @@
     {
      "name": "Blue River",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Breckenridge",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Dillon",
@@ -1959,7 +2577,7 @@
     {
      "name": "Frisco",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Montezuma",
@@ -1972,7 +2590,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "blue-river/0",
+    "breckenridge/1",
+    "breckenridge/2",
+    "breckenridge/5",
+    "breckenridge/12",
+    "breckenridge/0",
+    "breckenridge/6",
+    "breckenridge/8",
+    "frisco/1",
+    "frisco/2",
+    "blue-river/1",
+    "breckenridge/3"
+   ],
    "tagged": {}
   },
   "Teller": {
@@ -1980,7 +2611,7 @@
     {
      "name": "Teller County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Cripple Creek",
@@ -1995,10 +2626,23 @@
     {
      "name": "Woodland Park",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     }
    ],
-   "issues": [],
+   "issues": [
+    "teller-county/3",
+    "teller-county/0",
+    "woodland-park/0",
+    "teller-county/5",
+    "woodland-park/2",
+    "woodland-park/7",
+    "teller-county/1",
+    "teller-county/9",
+    "woodland-park/3",
+    "woodland-park/5",
+    "teller-county/2",
+    "teller-county/4"
+   ],
    "tagged": {}
   },
   "Washington": {
@@ -2006,12 +2650,12 @@
     {
      "name": "Washington County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Akron",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Otis",
@@ -2019,7 +2663,20 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "washington-county/1",
+    "washington-county/2",
+    "washington-county/3",
+    "washington-county/6",
+    "washington-county/4",
+    "akron/0",
+    "washington-county/8",
+    "washington-county/9",
+    "washington-county/10",
+    "washington-county/5",
+    "washington-county/7",
+    "washington-county/11"
+   ],
    "tagged": {}
   },
   "Weld": {
@@ -2037,7 +2694,7 @@
     {
      "name": "Dacono",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Eaton",
@@ -2062,7 +2719,7 @@
     {
      "name": "Fort Lupton",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Frederick",
@@ -2082,7 +2739,7 @@
     {
      "name": "Greeley",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Grover",
@@ -2092,12 +2749,12 @@
     {
      "name": "Hudson",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Johnstown",
      "share": 0.725,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Keenesburg",
@@ -2107,7 +2764,7 @@
     {
      "name": "Kersey",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "La Salle",
@@ -2127,12 +2784,12 @@
     {
      "name": "Milliken",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Nunn",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Pierce",
@@ -2142,7 +2799,7 @@
     {
      "name": "Platteville",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Raymer (New Raymer)",
@@ -2152,32 +2809,38 @@
     {
      "name": "Severance",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Windsor",
      "share": 0.764,
-     "has_records": false
+     "has_records": true
     }
    ],
    "issues": [
-    "erie/2",
-    "erie/7",
-    "frederick/0",
-    "mead/6",
-    "erie/5",
-    "erie/3",
-    "erie/4",
+    "hudson/0",
+    "greeley/4",
+    "greeley/1",
+    "greeley/2",
+    "greeley/3",
+    "hudson/1",
+    "fort-lupton/5",
+    "greeley/5",
+    "hudson/2",
+    "milliken/0",
     "erie/1",
-    "erie/6",
-    "mead/2",
-    "erie/0",
-    "erie/8"
+    "greeley/10"
    ],
    "tagged": {
     "data-center": {
      "ids": [
-      "mead/0"
+      "greeley/0",
+      "windsor/0",
+      "greeley/7",
+      "johnstown/0",
+      "mead/0",
+      "dacono/0",
+      "fort-lupton/0"
      ],
      "site": false
     }
@@ -2188,7 +2851,7 @@
     {
      "name": "Yuma County",
      "share": 1.0,
-     "has_records": false
+     "has_records": true
     },
     {
      "name": "Eckley",
@@ -2206,7 +2869,16 @@
      "has_records": false
     }
    ],
-   "issues": [],
+   "issues": [
+    "yuma-county/0",
+    "yuma-county/2",
+    "yuma-county/5",
+    "yuma-county/6",
+    "yuma-county/1",
+    "yuma-county/3",
+    "yuma-county/4",
+    "yuma-county/7"
+   ],
    "tagged": {}
   }
  },

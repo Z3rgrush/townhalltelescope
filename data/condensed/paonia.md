@@ -1,0 +1,1034 @@
+# paonia
+
+## [paonia#0] 2026-07-28 | Town Board | minutes
+- B) Approval of Agenda
+- Community presentation, should be removed because the presenter had a scheduling
+- conflict and would attend the next meeting. No other agenda changes were requested
+- Trustee Czech makes a motion to approve the agenda with the removal of the Citizens for a
+- Mayor Pro-Tem Fischer recognized and thanked Parks employees Rodney Byrge, Cole
+- Jordan, and Baylee Cowger for their exceptional work maintaining Town parks during
+- D) Public Comment
+- J. Dervin-Ackerman encouraged the Town to appoint a representative to the One
+- better hear meeting discussions
+- Trustee Foster requested clarification from Town Attorney Buchner if she should recuse
+- Interim Town Administrator Sund reported progress on the Western Loop water
+- project, including easement and route adjustments; preparation of a data-center
+- redesign and competitively bid the Lee’s Trailer Court water improvements. He also
+- updated the Board on the Town Hall drinking fountain replacement, development of
+- the 2027 budget, potential incentives for properties to connect to the sewer system,
+- grant opportunities to protect Town springs from wildfire, and anticipated capital
+- G) Public Hearing
+- 1. Public Hearing to consider an application from the Carl E. Berg Foundation for rezoning
+- of the property located at 218 4th Street, Paonia, CO 81428 from Public District (P) to
+- Mayor Pro Tern Fischer opens public hearing at 7:05
+- Town Clerk Vetter confirms proper notification, and no trustee disclosed a conflict of
+- Community Development Director Bachran presented the staff report and clarified that
+- no prior denial had occurred and explained that the rezoning and subsequent special-use
+- application were related but required separate consideration. She found that the
+- application:
+- Was substantially consistent with the Comprehensive Plan
+- Supported the reuse of an underutilized property and development within existing
+- Staff recommended approval of RZ 2026-001 and reported that the Planning
+- Commission had unanimously recommended approval
+- presented the application. He explained that the Foundation intended to purchase one of
+- could not proceed under the property’s Public zoning. Because the Town had not
+- adopted a mixed-use zoning district, the applicant considered C-2 the closest available
+- classification consistent with the Comprehensive Plan. He also discussed the property’s
+- proximity to the school, park, and Grand Avenue, as well as parking, irrigation, and an
+- Public Comment:
+- N. O’Brien is sworn in and comments in support of the rezoning and stated that the
+- project would reactivate a long-underused building and benefit the neighborhood and
+
+## [paonia#1] 2026-08-03 | Planning Commission | agenda
+- B) Approval of Agenda
+- C) Approval of Minutes
+- D) Public Hearing
+- 1) Public Hearing to Consider an Application from David Warren for a Re-Zoning of the
+- E) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Consideration of Recommending Changes to Estate Zoning Tables 16-1 and 16-2 of
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor licenses
+- renewals and approval or extension of other Town licenses. Minor changes in the
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- discussed outside of that session or with individuals not participating in the session
+- IV. Subject to Amendment
+
+## [paonia#2] 2026-08-03 | Planning Commission | agenda
+- B) Approval of Agenda
+- C) Approval of Minutes
+- D) Public Hearing
+- 1) Public Hearing to Consider an Application from David Warren for a Re-Zoning of the
+- E) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Consideration of Recommending Changes to Estate Zoning Tables 16-1 and 16-2 of
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor licenses
+- renewals and approval or extension of other Town licenses. Minor changes in the
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- discussed outside of that session or with individuals not participating in the session
+- IV. Subject to Amendment
+
+## [paonia#3] 2026-08-04 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Brief review of the previous meeting's executive summary and public comment
+- of scope and extension of the facilitator contract
+- a. Review applications received and engage potential new members
+- 4) Discussion of priorities for moving forward and new business
+- 5) Additional Public Comment (time permitting)
+- 6) Discuss agenda items and preparation materials needed for the next meeting. Specific
+
+## [paonia#4] 2026-08-04 | Town Board | agenda
+- 2) Departmental Vehicle Purchases
+- 3) SB24 - 174 Housing Addendum
+- 4) Discussion of waiving sewer tap fees for septic tank users
+
+## [paonia#5] 2026-08-04 | Town Board | agenda
+- broadcast from the endpoint devices are well below the levels m ost people come in contact with on a
+- The ORION Cellular endpoint operates like a cell phone and under normal operation awakens up to four
+- For example, the energy measured two feet away from the endpoint is 1/4 of the energy measured at a
+- Further information regarding the ORION endpoint and its approval for use in water meter reading
+- applications can be found on the FCC website
+- 2) Departmental Vehicle Purchases
+- 3) SB24 - 174 Housing Addendum
+- 4) Discussion of waiving sewer tap fees for septic tank users
+- Housing Needs Assessment and
+- Housing Action Plan:
+- PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE ............................... 4
+- Identify the Location of Manufactured Home Parks ........................................................................................ 13
+- Identify Disadvantaged Areas .......................................................................................................................... 13
+- Increased Zoning Capacity Related to House Bill 24-1313 ............................................................................... 13
+- PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE ........................................ 14
+- B. Zoning and Density Assessment .................................................................................... 19
+- Potential Publicly Owned Development Sites .................................................................................................. 19
+- A public hearing to consider acceptance of the Town of Paonia Housing Needs Assessment and Housing
+- Action Plan (HNA and HAP) was held during the regular Town Board Meeting on Tuesday, November 14,
+- 2023. The Board of Trustees approved its acceptance and required it to be included in the Paonia Master
+- Plan, which was being developed. The agenda, board packet, and meeting minutes are included in
+- In December 2024, the state released the Housing Needs Assessment Guide for Colorado Communities,
+- The Town of Paonia (Town) submitted the housing needs assessment to the Colorado Department of
+- memorandum dated April 16, 2025, stating “Conditional Approval” and noting that most, but not all,
+- Housing Action Plan Guide for Colorado Communities. Although the Town of Paonia is not required to
+- have an SB24-174-compliant housing action plan, DOLA provided the Town with another review
+- memorandum dated January 9, 2026, which included a review of the housing action plan
+- additional information requested by DOLA for the Town of Paonia’s 2023 HNA and HAP to achieve
+
+## [paonia#6] 2026-08-04 | Ad Hoc Committees | agenda
+-  Draft Common Ground Ordinance
+- ORDINANCE NO. 20_
+- AN ORDINANCE OF THE TOWN OF PAONIA, COLORADO, AMENDING THE PAONIA
+- WHEREAS, on April 1,2025, approximately 70% of Paonia voters approved the repeal of
+- Ordinance 2024-05, signaling a clear community preference for a simpler, more
+- WHEREAS, the Board finds that the primary purposes of this Ordinance are safety,
+- nuisance prevention, accountability, tax compliance, and administrative feasibility, rather
+- than housing engineering or density management; and
+- approximately 943 housing units, well below the saturation levels observed in resort
+- WHEREAS, the Board of Trustees is authorized to adopt this Ordinance pursuant to the
+- police powers granted to statutory municipalities under C.R.S. § 31-15-103, the authority
+- 401 and 31 -15-601, the land use and zoning authority granted under C.R.S. § 31 -23-301 et
+- Code, nor does it include the renting of rooms on a monthly or longer basis as permitted
+- lawfully permitted for habitation under the Paonia Municipal Code
+- owner, who manages and operates a short-term rental
+- E. "Registration" means the approval granted by the Town of Paonia authorizing the
+- A. No person shall operate, advertise, or offer a short-term rental within the Town of Paonia
+- Registration application
+- SECTION 3. APPLICATION AND FEES
+- A. Applications for a Short-Term Rental Registration shall be submitted to the Town
+- Administrator or designee on forms prescribed by the Town. The application shall include:
+- 11. Self-certification affidavit affirming compliance with the safety and operating
+- B. The Registration fee shall be set by resolution of the Board of Trustees and shall be
+- limited to the reasonable costs of administering this Article. The initial fee shall not exceed
+- C. The Town Administrator shall approve or deny an application within thirty (30) days of
+- receipt of a complete application. If denied, the applicant shall receive written notice
+- SECTION 4. TAX COMPLIANCE
+- A. All short-term rental operators shall collect and remit all applicable taxes required by
+- B. Operators using third-party booking platforms that collect and remit taxes on behalf of
+- Town upon request
+- By signature of the Registration application, the owner or operator affirms compliance with
+- alarm if the dwelling unit has a carbon monoxide source (gas appliance, fireplace,
+- 4. An operable fire extinguisher has been placed in proximity to the kitchen
+- B. Occupancy and Wastewater
+- code or wastewater system capacity
+- 7. Properties served by an onsite wastewater treatment system (OWTS) shall have a
+
+## [paonia#7] 2026-08-05 | Town Board | agenda
+- B) Approval of Agenda
+- C) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Consideration of Proposals from RFP 26-03 Executive Search Firms
+
+## [paonia#8] 2026-08-18 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of previous meetings executive summary and public comment
+- ordinance’s preamble section. Continue that discussion
+- 4) Point-by point discussion of the proposed Common Ground Ordinance with emphasis
+- on language to retain, revise, remove, or add. Identify next steps
+- 5) Additonal Public Comment (time Permitting)
+- 6) Discuss agenda items and preparation mateirals needed for the next meeting. Specific
+
+## [paonia#9] 2026-08-18 | Ad Hoc Committees | agenda
+-  Draft Whereas Ordinance from committee members Sam Staley &
+- housing, the growth of short-term rentals, and community concerns about the
+- the availability of aƯordable housing;
+- availability of aƯordable housing for long-term rentals, but that there are myriad and
+- complex macro-economic factors that aƯect the supply of aƯordable housing;
+- 7. WHEREAS, the purposes of this Ordinance are to promote public safety, address
+- nuisances, provide accountability, ensure applicable tax compliance, establish an
+- Paonia River Park O
+- Paonia River Park ‘•O)
+- Vacation home in Paonia ★ 4.75 (8)
+- Apartment in Paonia
+- Ground Floor Apartment of Artist Residency -Sauna!
+- Comfy apartment on an herb farm in the mountains
+- Beautiful Mt Views!
+- Apartment • 1 bedroom • 1 Queen Bed
+- All fees included
+- Cozy, Modern Stay: Views, Fireplace,
+- 3rd Street Artists Retreat
+- B) Approval of Agenda
+- 1) Brief review of previous meetings executive summary and public comment
+- ordinance’s preamble section. Continue that discussion
+- 4) Point-by point discussion of the proposed Common Ground Ordinance with emphasis
+- on language to retain, revise, remove, or add. Identify next steps
+- 5) Additonal Public Comment (time Permitting)
+- 6) Discuss agenda items and preparation mateirals needed for the next meeting. Specific
+- and begin work under its expanded scope. The Committee appointed Deborah
+- Spiegel and Jaylene Park, then began review of ordinance proposed by Common
+- The Committee approved the agenda and proceeded with the listed action items
+- statement that staff and the Committee will not respond to public comment during
+- Review of Previous Meeting Summary and Public Comment
+- public comment survey was made available after that meeting and no public
+- comment was received. The facilitator requested of staff that video recordings
+- Members discussed inaccuracies in a July 29th Delta County Independent article
+- concerning the Committee and related Board discussion. A correction to the
+- headline had been requested and made, although members noted remaining errors
+- involving names and context. The discussion emphasized the importance of
+- accurate reporting and direct follow-up with the newspaper when corrections are
+- Staff reported that the Board of Trustees approved extending the facilitator's
+- contract through the end of 2026 and removed the prior limitations on the
+- The Committee considered Deborah Spiegel, Kathlyn 'Linnie' O'Brien, and Jaylene
+- Park in connection with the two open seats. Ms. O'Brien, who submitted a formal
+- application and addressed the Committee at the prior meeting, was not present
+
+## [paonia#10] 2026-08-18 | Town Board | minutes
+- Approval of Agenda
+- C) Actions & Presentations
+- 1) Consideration of Amendment #2 to Agreement with RESPEC for Pre-Construction
+- Award Services and Construction Engineering Services
+- necessary to verify compliance with project plans, address field adjustments, and
+- satisfy state and federal funding requirements. Using RESPEC, the project's
+- part of the Raw Water Monitoring Project and would b~ funde""within the project v > l •1 •-.'-budget .. .,i. 1.~ " :-· ~• •. • ;J: J ~...,,.) , "or "• ~ • # • • t ,.; "~
+- The Board confirmed that the amendment was fop tlieRaw Water Monitoring
+- Project, including the installation of meters to beher track.i&rattf pr6duc,ion and
+- Public Comment: "- • r • rn· ... ~
+- C. Patterson comments on clarification on am~-;;dtiientl~ the Raw Water
+- Monitoring Project
+- Trustee Hunter moves to approve Amendment Two (2) to the current agreement
+- 2) Consideration of Adopting Stage 2 Water Restrictions
+- Interim Town Administrator Sund reported that unusually high water use following the
+- approximately four feet over one weekend. Staff recommended additional restrictions
+- to conserve treated water and protect the Town's drinking-water supply
+- Trustee Hunter presented an alternate draft of Resolution 19-26 that clarified the
+- period until rescinded, added enforcement provisions, prohibited certain water uses,
+- Board discussion included protecting trees and gardens, limiting lawn watering,
+- potential fire risks from dried vegetation, watering methods and hours, enforcement,
+- bulk-water limitations, and whether an alternating watering schedule would reduce
+- the stored water supply would last approximately eight (8) days without
+- immediately, allowing limited hand or drip watering
+- Public Comment:
+- C. Stewart comments on allowable watering methods
+- D. Spiegel comments on dried lawns creating a fire hazard
+- T. Markle comments on alternating watering schedules and graywater use
+- K. Buchholz comments on fire hazards from dried lawns
+- E. Short comments on alternating watering days
+- Unidentified Speaker comments on penalties
+- Following public comment, the Board considered an alternating or geographically
+- divided watering schedule but determined that immediate Stage 2 restrictions were
+- the alternate resolution to allow hand or drip watering of gardens and removed the
+- requirement that permitted trees and shrubs be drought tolerant
+- Trustee Hunter moves to approve the alternate draft for Board consideration of
+- Resolution Number 19-26, with the following edits - to Section 3: the second-to-last
+- bullet point will read, 'drip irrigation or hand watering of vegetable, fruit, or pollinator
+
+## [paonia#11] 2026-08-25 | Town Board | minutes
+- B) Approval of Agenda
+- D) Public Comment
+- seniors and requested and annual funding contribution of $5,000
+- ordinance, legal guidance for evaluating property-sale offers, the Fifth and Grand
+- project, utility improvements at the trailer court, and sewer-line inspection work
+- The Board also discussed the Town’s water supply. Water Operator Redden reported
+- approximately 25 feet, while water production remained about 300 gallons per minute
+- The Board requested regular updates on tank levels and production rates
+- 2) Police Chief
+- Police Chief Laiminger reported that cable locks remained available at Town Hall and
+- the Police Department. He stated that officers and code-enforcement staff continued
+- Colorado Parks and Wildlife. Approximately 80 locks had been installed or
+- G) Actions & Presentations
+- 1) Consideration of Ordinance Changes to Estate Zoning: Tables 16-2
+- Community Development Director Bachran identified an inconsistency in Table 16-2,
+- however, staff recommended considering 1.5 to two acres per dwelling to support the
+- Comprehensive Plan’s housing-density goals
+- Board discussion included housing density, the limited number of affected properties,
+- water and access limitations, and conflicts between estate zoning provisions allowing
+- Public Comment:
+- additional review at a work session and through a revised ordinance
+- session and then by way of ordinance for review and discussion with regard to
+- potentially increasing the density in Estate Zoning per staff recommendations, as well
+- Public Works proposed an intergovernmental agreement with Delta County to place a
+- two-inch asphalt overlay on West Fourth Street. Existing utilities were reported to be
+- in suitable condition, and Public Works would prepare the roadway before paving
+- Due to the County’s approximately $25,000 project limit, completing the entire street
+- Board discussion included the condition of the underlying utilities, roadway
+- preparation and drainage, project cost, and resident notification. Staff stated that
+- No public comments received on this topic
+- Trustee Brown moves to enter into the IGA (Inter-Governmental Agreement) with
+- 3) Consideration of Appointment to Board of Trustees
+- Candidate Presentations: John Everett highlighted his professional background in
+- engineering, law, municipal water projects, and technical problem-solving. Allison
+- watershed conservation, landscaping, and collaborative board service
+- The Board found both candidates well qualified and discussed how their respective
+- expertise could benefit the Board, Planning Commission, and possible future water
+
+## [paonia#12] 2026-09-01 | Town Board | agenda
+- 1) Presentation on Upgrading Solar Panels on Town Hall - Empower
+- 2) Sustainable Futures Discussion - Code Rewrite
+- 3) Discussion and Review of New Ordinances and Proposed Amendments to Existing
+- a) Estate Zoning Changes
+- f) Combining Juvenile Loitering and Curfew into a Single Ordinance
+- h) Creating a Single Nuisance Ordinance
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- be discussed outside of that session or with individuals not participating in the
+- IV. Subject to Amendment
+
+## [paonia#13] 2026-09-01 | Town Board | agenda
+- 1) Presentation on Upgrading Solar Panels on Town Hall - Empower
+- 2) Sustainable Futures Discussion - Code Rewrite
+- 3) Discussion and Review of New Ordinances and Proposed Amendments to Existing
+- a) Estate Zoning Changes
+- f) Combining Juvenile Loitering and Curfew into a Single Ordinance
+- h) Creating a Single Nuisance Ordinance
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- be discussed outside of that session or with individuals not participating in the
+- IV. Subject to Amendment
+
+## [paonia#14] 2026-09-01 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of previous meetings executive summary and public comment
+- 2) Discuss the Committee’s overall approach to public comment, including the online
+- survey and specific survey questions. Note: Open public comment is again not
+- included in this agenda in favor of allowing public comment during real-time
+- discussion of specific agenda/action items, along with public comment opportunities
+- 3) Continue review and discussion of the proposed Common Ground Ordinance with
+- 5) Discuss agenda items and preparation materials needed for the next meeting. Specific
+
+## [paonia#15] 2026-09-01 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of previous meetings executive summary and public comment
+- 2) Discuss the Committee’s overall approach to public comment, including the online
+- survey and specific survey questions. Note: Open public comment is again not
+- included in this agenda in favor of allowing public comment during real-time
+- discussion of specific agenda/action items, along with public comment opportunities
+- 3) Continue review and discussion of the proposed Common Ground Ordinance with
+- 5) Discuss agenda items and preparation materials needed for the next meeting. Specific
+- Approval of Agenda
+- Calla Rose requested discussion regarding distributing bear-aware trash
+- addressed before approval of the agenda, and Calla Rose agreed to
+- Motion: Sam moved to approve the agenda as written. Second by
+- without requesting changes. No public responses were received to the
+- The Committee discussed increasing public awareness of its meetings and
+- website and text-notification system
+- Members discussed how this information could support registration,
+- monitoring, taxation considerations, and future consideration of a numerical
+- Discussion also addressed the purpose of STR regulation. Potential
+- purposes identified included public safety, nuisance prevention,
+- accountability, tax compliance, monitoring impacts on housing, and
+- Paonia’s housing availability
+- Proposed Ordinance “Whereas” Clauses
+- regarding the increasing lack of affordable housing, the growth of
+- the availability of affordable housing;
+- of housing.”
+- Unresolved: WHEREAS, the purposes of this Ordinance are to
+- ensure applicable tax compliance, establish an administratively
+- The Committee discussed whether to retain the above clause, replace it
+- law (as per WHEREAS #6 in the proposed Common Ground Ordinance), or
+- include both concepts. No consensus was reached, and discussion will
+- Public Comment
+- term rental rates or prevent local buyers from purchasing homes. She also
+- Begin the point-by-point review of the proposed ordinance
+- Promote the surveys through the Town’s website and text-notification
+- Document based on an AI-generated meeting summary
+- be regulated under the Town of Paonia's ordinance?
+- owner-occupied room rentals should be regulated under the Town's short-term rental ordinance. Among these classifiable
+- owner-occupied room rentals without regulation under the Town's STR ordinance. Comments opposing regulation
+- rentals have less effect on long-term housing availability. Comments supporting regulation commonly cited health and
+- safety standards, registration or licensing, taxation, parking and neighborhood impacts, and consistent treatment of
+
+## [paonia#16] 2026-09-08 | Town Board | agenda
+- B) Approval of Agenda
+- eligible to serve on the Planning Commission. Please turn in your application and letter of interest
+- D) Public Comment
+- Any topic not included under Actions & Presentations; 3-minute time limit
+- 2) Police Chief
+- G) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Presentation from Consor Engineering on Data Collection for the Comprehensive Safety
+- Action Plan (CSAP) for Safe Streets for All (SS4A)
+- 2) Consideration of Approval of Town Hall Roof Replacement Bid
+- 3) Consideration of Approval of Quote to Have Empowered Remove Solar Panels From Town
+- 4) Consideration of Approval of Final Purchase Price for Three Approved Public Works Trucks
+- 5) Consideration of Approval of Ordinance 01-26 Enacting Solid Waste Disposal Rules For
+- 6) Consideration of Approval of Ordinance 02-26 Waiving Sewer Tap Fees on Certain
+- 7) Consideration of Approval of Ordinance 03-26 Repealing the Sidewalk for Business Use
+- 8) Consideration of Approval of Ordinance 04-26 Amending the Animal Code
+- H) Public Hearing - Continued from the August 25, 2026 Meeting
+- 1) Public Hearing to Consider an Application from David Warren for a Re-Zoning of the
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+
+## [paonia#17] 2026-09-08 | Town Board | agenda
+- B) Approval of Agenda
+- eligible to serve on the Planning Commission. Please turn in your application and letter of interest
+- D) Public Comment
+- Any topic not included under Actions & Presentations; 3-minute time limit
+- 2) Police Chief
+- G) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Presentation from Consor Engineering on Data Collection for the Comprehensive Safety
+- Action Plan (CSAP) for Safe Streets for All (SS4A)
+- 2) Consideration of Approval of Town Hall Roof Replacement Bid
+- 3) Consideration of Approval of Quote to Have Empowered Remove Solar Panels From Town
+- 4) Consideration of Approval of Final Purchase Price for Three Approved Public Works Trucks
+- 5) Consideration of Approval of Ordinance 01-26 Enacting Solid Waste Disposal Rules For
+- 6) Consideration of Approval of Ordinance 02-26 Waiving Sewer Tap Fees on Certain
+- 7) Consideration of Approval of Ordinance 03-26 Repealing the Sidewalk for Business Use
+- 8) Consideration of Approval of Ordinance 04-26 Amending the Animal Code
+- H) Public Hearing - Continued from the August 25, 2026 Meeting
+- 1) Public Hearing to Consider an Application from David Warren for a Re-Zoning of the
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+
+## [paonia#18] 2026-09-14 | Planning Commission | minutes
+- Approval of the Agenda
+- Approval of Minutes
+- Commissioner Hunter moves to approve the August 3, 2026 Planning Commission minutes,
+
+## [paonia#19] 2026-09-15 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief Review of the Previous Meeting's Executive Summary and Public Comment
+- 2) Review and Discuss the Facilitator’s Recommendations for a Standing Public Input
+- 3) Continue the item-by-item discussion of the proposed Common Ground Ordinance
+- 4) Discuss agenda items and preparation materials needed for the next meeting. Specific
+
+## [paonia#20] 2026-09-15 | Town Board | agenda
+- B) Approval of Agenda
+- C) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Consideration of Approval of Ordinance 02-26 Emergency Sewer Tap Fee Waiver for
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor licenses
+- renewals and approval or extension of other Town licenses. Minor changes in the
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- discussed outside of that session or with individuals not participating in the session
+- IV. Subject to Amendment
+- Resolution, if, in its sole discretion, such deviation is necessary under the
+- Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
+
+## [paonia#21] 2026-09-15 | Town Board | agenda
+- B) Approval of Agenda
+- C) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Consideration of Approval of Ordinance 02-26 Emergency Sewer Tap Fee Waiver for
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor licenses
+- renewals and approval or extension of other Town licenses. Minor changes in the
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- discussed outside of that session or with individuals not participating in the session
+- IV. Subject to Amendment
+- Resolution, if, in its sole discretion, such deviation is necessary under the
+- Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
+
+## [paonia#22] 2026-09-15 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief Review of the Previous Meeting's Executive Summary and Public Comment
+- 2) Review and Discuss the Facilitator’s Recommendations for a Standing Public Input
+- 3) Continue the item-by-item discussion of the proposed Common Ground Ordinance
+- 4) Discuss agenda items and preparation materials needed for the next meeting. Specific
+- Approval of Agenda
+- The Chair noted two additional materials for consideration: Deborah’s
+- Policy Topic Outline and a Pagosa Springs Vacation Rental Ordinance
+- Motion: Jayleen moved to approve the agenda as written. Second by
+- Committee members discussed whether formal motions, seconds, and
+- without comment. The Committee reviewed written public comment from
+- Jen Brunner concerning water use and taxation associated with STRs
+- Members generally concluded that water taps, ADUs, and property-tax
+- the relatively high level of participation and discussed the range and
+- different things, including registration, licensing, fees, taxation, caps,
+- monitoring, and operational requirements. The Committee discussed the
+- The survey results and Committee discussion generally supported treating
+- These rentals should not be subject to a Town registration fee
+- Registration would allow the Town to identify the nature of an STR
+- remove an otherwise available dwelling unit from the long-term housing
+- Action Item #2 - The Committee’s overall approach to public comment
+- The Committee discussed whether to continue using online surveys as its
+- questions requesting comments regarding the previous meeting and any
+- interpretations of broad terms such as “regulation.”
+- The Committee did not identify a need for another specific survey question
+- consensus regarding registration, fees, and caps
+- Action Item #2 - Continue review and discussion of the proposed
+- Common Ground Ordinance with emphasis on language to retain,
+- The Committee considered Deborah’s Policy Topic Outline as a possible
+- in conjunction with the proposed Common Ground ordinance
+- The Committee discussed the proposed three-year STR registration period
+- stated that the registration period may need to be reconsidered later
+- consideration, with no final consensus reached
+- year-end date (Sec. 2, D). Discussion acknowledged that the actual
+- implementation date would depend upon when an ordinance is ultimately
+- considered and adopted by the Board of Trustees
+- The Committee then moved to Section 3: Application and Fees
+- Discussion included whether owner occupancy should be verified and what
+- documentation might demonstrate residency (Sec. 3, A, #10). Suggestions
+
+## [paonia#23] 2026-09-15 | Town Board | agenda
+- 1) Berg Foundation Presentation
+- 2) Discussion on Removing Street Lights
+- 3) Employee Insurance Benefits and Budget
+- 4) Ordinances from Rejected Citizen Initiative Petitions
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor licenses
+- renewals and approval or extension of other Town licenses. Minor changes in the
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- discussed outside of that session or with individuals not participating in the session
+- IV. Subject to Amendment
+- Resolution, if, in its sole discretion, such deviation is necessary under the
+- Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
+
+## [paonia#24] 2026-09-15 | Town Board | agenda
+- 1) Berg Foundation Presentation
+- 2) Discussion on Removing Street Lights
+- 3) Employee Insurance Benefits and Budget
+- 4) Ordinances from Rejected Citizen Initiative Petitions
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor licenses
+- renewals and approval or extension of other Town licenses. Minor changes in the
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- discussed outside of that session or with individuals not participating in the session
+- IV. Subject to Amendment
+- Resolution, if, in its sole discretion, such deviation is necessary under the
+- Section 2. Amendment. The Board may amend these Rules of Procedures Policy from
+
+## [paonia#25] 2026-09-30 | Town Board | agenda
+- B) Approval of Agenda
+- C) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Consideration of Approval of Executive Search Firm Profile for Town Administrator
+- 2) Consideration of Approval for the Purchase of a New Police Department Patrol Truck
+
+## [paonia#26] 2026-10-05 | Planning Commission | agenda
+- B) Approval of Agenda
+- C) Public Hearing
+- D) Approval of Minutes
+- E) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+
+## [paonia#27] 2026-10-05 | Planning Commission | agenda
+- B) Approval of Agenda
+- C) Public Hearing
+- D) Approval of Minutes
+- E) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- Approval of the Agenda
+- Approval of Minutes
+- Commissioner Hunter moves to approve the August 3, 2026 Planning Commission minutes,
+
+## [paonia#28] 2026-10-06 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of the previous meetings Summary and public comment
+- 2) Review of the Ordinance Living Document (Google Doc) Facilitator Brown is
+- Link to Ordinance Living Document
+- 3) Continue the item-by-item discussion of the proposed Common Ground Ordinance
+- D) Discuss agenda items and preparation materials needed for the next meeting and
+
+## [paonia#29] 2026-10-06 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of the previous meetings Summary and public comment
+- 2) Review of the Ordinance Living Document (Google Doc) Facilitator Brown is
+- Link to Ordinance Living Document
+- 3) Continue the item-by-item discussion of the proposed Common Ground Ordinance
+- D) Discuss agenda items and preparation materials needed for the next meeting and
+- Meeting Opening and Agenda Approval
+- Motion: Approve the agenda as presented. The transcript does not clearly identify the mover or seconder
+- Outcome: Approved without opposition
+- without a registration fee or numerical cap. It also summarized prior discussion concerning three-year
+- registrations, a uniform renewal date, owner-occupancy verification, self-certification of safety
+- requirements, complaint-based enforcement, and use of the proposed Common Ground ordinance as a
+- working template for a consolidated committee recommendation
+- The committee reviewed 14 survey responses concerning the September 1 meeting. Overall feedback was
+- mixed but leaned critical and cautious. Respondents raised concerns about STR effects on housing
+- availability and affordability, noise, traffic, parking, alley access, ATV use, water demand, and Paonia's
+- small-town character. Some supported stronger licensing, taxation, safety, sanitation, and enforcement
+- comments recognized the committee's progress and the facilitator's efforts to clarify areas of agreement
+- The committee also discussed concerns about meeting dynamics, audio clarity, access to records, and
+- meeting surveys with standing questions and optional focused policy questions; send text notifications
+- time permits
+- Registration and Application Framework
+- registration fee and no numerical cap. The committee agreed to use the term registration for the overall
+- framework at this stage rather than create a separate licensing system
+- For non-owner-occupied STRs, the committee supported a registration fee established by Board of Trustees
+- resolution and limited to the reasonable cost of administering the program. Specific dollar amounts in the
+- that the Board will determine final requirements and fees
+- Tax Compliance
+- taxes. Operators using third-party booking platforms that collect and remit taxes would maintain
+- documentation of those arrangements and provide it to the Town upon request. Members cautioned against
+- Safety and Self Certification
+- The committee continued to favor self-certification of basic safety measures through the registration
+- monoxide detectors, fire extinguishers, and safe exit routes. Members discussed referencing applicable
+
+## [paonia#30] 2026-10-13 | Town Board | agenda
+- B) Approval of Agenda
+- D) Public Comment
+- Any topic not included under Actions & Presentations; 3-minute time limit
+- b) Updated Parking Lot List
+- 2) Police Chief
+- G) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Presentation - Recyclops and Colorado's Extended Producer Responsibility Program - Adria Cipra
+- 2) Consideration of Renewing Contract with Sustainable Futures LLC for the Recodification Project
+- 3) Consideration of the Borad of Trustees Appointment of the Police Chief
+- 4) Presentation of the 2027 Budget
+- 5) Consideration of Approval of Adopting Ordinance 06-26 Sale of Cigarettes and Tobacco
+- 6) Consideration of Approval of All Copy Products Copier Lease
+- 7) Consideration of Approval of Resolution 22-26 Rescinding Water Restrictions
+- 8) Consideration of Approval of Ordinance 07-26 Amending Meeting Procedures
+- 9) Consideration of Approval of Resolution 23-26 Changing the Regular Meeting Time of the Board
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+
+## [paonia#31] 2026-10-13 | Town Board | agenda
+- B) Approval of Agenda
+- D) Public Comment
+- Any topic not included under Actions & Presentations; 3-minute time limit
+- b) Updated Parking Lot List
+- 2) Police Chief
+- G) Actions & Presentations
+- Public comments must be related to the agenda item, 3-minute time limit
+- 1) Presentation - Recyclops and Colorado's Extended Producer Responsibility Program - Adria Cipra
+- 2) Consideration of Renewing Contract with Sustainable Futures LLC for the Recodification Project
+- 3) Consideration of the Borad of Trustees Appointment of the Police Chief
+- 4) Presentation of the 2027 Budget
+- 5) Consideration of Approval of Adopting Ordinance 06-26 Sale of Cigarettes and Tobacco
+- 6) Consideration of Approval of All Copy Products Copier Lease
+- 7) Consideration of Approval of Resolution 22-26 Rescinding Water Restrictions
+- 8) Consideration of Approval of Ordinance 07-26 Amending Meeting Procedures
+- 9) Consideration of Approval of Resolution 23-26 Changing the Regular Meeting Time of the Board
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+
+## [paonia#32] 2026-10-20 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of previous meetings executive summary and public comment
+- 2) Continue the item-by-item discussion and editing of the proposed Common
+- Ground Ordinance using the Google Document
+- D) Discussion: Next Agenda, Materials & Survey Questions
+
+## [paonia#33] 2026-10-20 | Ad Hoc Committees | agenda
+- B) Approval of Agenda
+- 1) Brief review of previous meetings executive summary and public comment
+- 2) Continue the item-by-item discussion and editing of the proposed Common
+- Ground Ordinance using the Google Document
+- D) Discussion: Next Agenda, Materials & Survey Questions
+- Park, Deborah Spiegel, Sam Staley. Calla Rose Ostrander sent her regrets
+- Approval of Agenda
+- Motion: Sheree moved to approve the agenda as written. Second by
+- Regarding written public comments received, Committee member Staley
+- and consistent through the Housing Needs Assessment process, overall
+- community support for regulating STRs has been demonstrated in public
+- The Committee discussed whether “vacation rental” would be a better term
+- than “short-term rentals” with no agreement on making the change
+- Public comment was not taken during this portion of the meeting since this
+- and comment as they feel moved before moving on to other business
+- Action Item #2 - Review of the Ordinance Living Doc and decisions
+- to registration fees, including removing the $75 fee; distinguishing whole
+- applicable fire and building-code compliance. Public input was included in
+- Action Item #3 - Continue the item-by-item discussion of the proposed
+- Common Ground Ordinance with emphasis on language to retain,
+- The Committee worked through to Section 9. Topics of discussion included
+- additional property standards: ingress and egress, onsite wastewater
+- The local-contact requirement was discussed, with the 30-minute response
+- The committee supported requiring liability insurance and discussed how
+- proof and certification would work
+- Notification and Enforcement (Sections 7 and 8)
+- Mandatory Town notification to nearby property owners was viewed as
+- Neighbor notification shifted away from mandatory town mailing toward an
+- operator-provided contact process upon request
+- Public input was included in discussions
+- role in setting fees and penalties?
+- The Committee will pick up its review of the Common Ground ordinance
+- repeal of the first disastrous ordinance
+- 1) the information presented in the original grant request was conflated to give the appearance there are more STRs in Paonia than
+- STRs in Paonia & their impact on housing, which was subsequently ignored & lied about by the previous administrator and select
+- I asked at the town council meeting 2 weeks ago for clarification on the public comment section of the meetings because the facilitator
+- made a confusing suggestion re: allowing comments. I was assured there would still be public comments allowed throughout the
+- meeting. Yet, to add insult to injury, when I attempted to identify myself as the owner of comment #3 & answer a question put forth by
+
+## [paonia#34] 2026-10-20 | Town Board | agenda
+- 1) ADA Transition Plan - Ryan Kelley
+- 2) Discussion on eliminating liquor license distance requirements for specific classes of
+- 3) Discussion and Direction on Dark Skies & Trail Lights — Added to parking lot by
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- be discussed outside of that session or with individuals not participating in the
+- IV. Subject to Amendment
+- Resolution, if, in its sole discretion, such deviation is necessary under the
+- Section 2. Amendment. The Board may amend these Rules of Procedures Policy
+
+## [paonia#35] 2026-10-20 | Town Board | agenda
+- 1) ADA Transition Plan - Ryan Kelley
+- 2) Discussion on eliminating liquor license distance requirements for specific classes of
+- 3) Discussion and Direction on Dark Skies & Trail Lights — Added to parking lot by
+- Resolution No. 2017-10 – Amended May 22, 2018
+- amended and posted on the agenda prior to the scheduled meeting
+- (b) Approval of Agenda - (5 minutes)
+- (e) Consent Agenda including Approval of Prior Meeting Minutes (10
+- (3) Police Report
+- * This schedule of business is subject to change and amendment
+- Section 7. Presentations to the Board. Items on the agenda presented by individuals,
+- presentation. On certain issues, presenters may be given more time, as determined by
+- the Mayor and Town Staff. After the presentation, Trustees shall be given the
+- Section 8. Public Comment. After discussion of an agenda item by the Board of
+- under discussion. The speaker should offer factual information and refrain from
+- to the consideration of certain items as a group under one motion. Should a Consent
+- Agenda be used at a meeting, an appropriate amount of discussion time will be allowed
+- to review any item upon request
+- discussion or explanation prior to action by the Board, are non-controversial and/or
+- similar in content, or are those items which have already been discussed or explained
+- and do not require further discussion or explanation. Such agenda items may include
+- ministerial tasks such as, but not limited to, approval of previous meeting minutes,
+- approval of staff reports, addressing routine correspondence, approval of liquor
+- licenses renewals and approval or extension of other Town licenses. Minor changes in
+- minutes from the Consent Agenda. Should any Trustee feel there is a material error in
+- the minutes, they should request the minutes be removed from the Consent Agenda for
+- Board discussion
+- from the Consent Agenda by a timely request of any Trustee. A request is timely if
+- made prior to the vote on the Consent Agenda. The request does not require a second
+- discussed and acted on separately either immediately following the consideration of the
+- open meeting the topic to be discussed in the executive session, including specific
+- identifying the particular matter to be discussed “in as much detail as possible without
+- the Board plans to discuss more than one of the authorized topics in the executive
+- be discussed outside of that session or with individuals not participating in the
+- IV. Subject to Amendment
+- Resolution, if, in its sole discretion, such deviation is necessary under the
+- Section 2. Amendment. The Board may amend these Rules of Procedures Policy
+
+## [paonia#36] 2026-10-21 | Town Board | agenda
+- Town Board Budget Work Session Agenda
+- A) Budget Work Session

@@ -1,0 +1,197 @@
+# kersey
+
+## [kersey#0] 2026-07-28 | City Council | agenda
+- Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
+- facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
+- current topic. Work sessions do not include an official public comment period
+- Discussion Topic
+- 1. Presentation of the 2025 Audit
+- independent certified public accounting firm. The Town's 2025 audit has been completed by
+- During this meeting, Mr. Chavies will present the results of the audit, discuss the Town's
+- Re: Community Center Staffing Discussion
+- During Jami's informal exit interview and subsequent discussions, several topics were identified
+- expected or simply non-existent. Her feedback has prompted staff to evaluate whether the
+
+## [kersey#1] 2026-08-04 | City Council | agenda
+- KERSEY PLANNING AND ZONING COMMISSION
+- 446 1st Street, Kersey, CO
+- a. Approval of June 2, 2026 Regular Meeting Minutes
+- 4. PUBLIC HEARING
+- Note: The Planning and Zoning Commission is advisory to the Town Board of Trustees. The
+- Unapproved Minutes 6/3/2026
+- PLANNING AND ZONING COMMISSION
+- The Kersey Planning and Zoning Commission regular meeting was called to order by temporary
+- appointed Cory Oster
+- 1. Approval of January 6, 2026, Regular Meeting Minutes
+- approve the minutes of the January 6 , 2026, regular meeting. Motion carried with a 3-0
+- 2. Appoint Chairman and Co-Chairman
+- appoint Lauren Mark as Chair of the Planning Commission. Motion carried with a 4-0 vote
+- PUBLIC HEARING: 6 P’s Annexation, I-Industrial Zoning, and Comprehensive Plan Map
+- Commissioner Chair Mark opens the public hearing at approximately 6:16 p.m
+- to annex his 49.5-acre property located at 24822 Highway 34, northeast of Kuner/Five Rivers
+- feedlot and north of the Kohler Farms Industrial subdivision. The request is being pursued in
+- gas/agricultural support business. This application has three related requests: 1. Annexation of
+- the property into the Town of Kersey, 2) zoning of the property to I -Industrial, and 3
+- Comprehensive Plan Future Land Use Map amendment to redesignate the prop erty from
+- Agriculture/Tourism to an employment-oriented designation consistent with industrial development
+- Planning Area. The site is located along US Highway 34 corridor and the Union Pacific Railroad
+- uses. The property is currently agricultural land but is subject to a dry-up agreement, indicating a
+- of the site for employment -oriented industrial deve lopment to include the Fiver Rivers Feedlot
+- Town annex CR 56, at least the length adjacent to the subject property. If not annexed, the
+- application must obtain an access permit. A road improvement and maintenance agreement may
+- indicated they wanted to purchase the property and believe industrial use is inappropriate for the
+- neither object to the proposed annexation, both expressed concerns regarding potential traffic,
+- operational impacts are thoroughly evaluated with site plan review process. That application was
+- their concerns. Both the Platte Valley Fire District and Platte Valley School District have no conflicts
+- Danna reviews the Comprehensive Plan Future Land Use Map amendment which currently
+- designates the property as Agriculture/Tourism and the applicant is requesting an amendment to
+- redesignate to an employment-oriented industrial development along US Highway 34 corridor. This
+- amendment will not pose a detrimental impact on existing or planned Town facilities, services, or
+
+## [kersey#2] 2026-08-25 | City Council | agenda
+- Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
+- facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
+- current topic. Work sessions do not include an official public comment period
+- Discussion Topic
+- Presenter: Fernando Pina, Director of Operations – Streets, Parks, Facilities and Fleet
+- Presenter: Brandon Unruh, Community Development Director
+- Several streets within the Berryman Farms subdivision share names with streets located in other
+- The duplication and similarity of these street names can create confusion when identifying a
+- responding party should be traveling to a street or location east or west of 1st Street
+- Town's primary concern is public safety and emergency response. When law enforcement, fire,
+- or emergency medical personnel are dispatched to an address, clear and unambiguous street
+- identification is important. Any uncertainty regarding the correct location has the potential to
+- Staff recommends that the affected streets east of 1st Street in the Berryman Farms subdivision
+- Assigning entirely new and distinct street names would provide greater clarity and create a long
+- distinguishable from existing street names within the Town and surrounding emergency response
+- property owners, Weld County, emergency dispatch, law enforcement, fire protection and
+- Public Safety Considerations
+- Renaming the affected streets would help:
+- Provide clearer location information for police, fire, and EMS personnel;
+- Although changing a street name will require affected residents and property owners to update
+- safety benefit of having unique and easily identifiable street names warrants consideration
+- Staff requests that the Town Board authorize staff to proceed with the process of renaming
+- the affected streets in the Berryman Farms subdivision east of 1st Street, including
+- identifying appropriate replacement street names, coordinating with affected residents and
+- agencies, and bringing any required ordinance, resolution, or other formal action back to the
+- Board for consideration
+- The goal is to establish street names that are unique, easily understood by emergency dispatch
+- From: Brandon Unruh, Community Development Director
+- Community feedback received through the RTAP workshop showed a high priority on
+- Staff are asking for Town Board feedback regarding changes to the Kersey Holiday
+- feedback referenced above
+
+## [kersey#3] 2026-09-08 | City Council | minutes
+- Approved – 10/13/2026
+- Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:01 p.m. called the meeting to order
+- Town Manager Stacy Brown stated that there was an addition to the agenda, Item C4, Resolution No
+- 2026-0025, appointing a Temporary Assistant Town Attorney
+- Approval of minutes of the August 11, 2026, regular meeting, approval of the paid bills, and approval
+- Public Hearing
+- 1. Consideration of Ordinance 2026-0010 An Ordinance Adopting the 2024 International Fire
+- Deputy Fire Marshal Corey Jarrell was present and explained that the proposed ordinance is
+- intended to streamline the Town’s fire code requirements, better align them with the previously
+- amendments were made and could be provided if needed
+- There was no public comment and/or comments from the Board of Trustees
+- Mayor Roth read the ordinance aloud
+- 0010 An Ordinance Adopting the 2024 International Fire Code and Providing for its
+- 1. Consideration of Resolution 2026-0022 Awarding the Contract for the Kersey Clark Street
+- Storm Sewer Project to Mountain Constructors, Inc.; and Authorizing the Mayor to Execute the
+- Town Engineer, Gene MacDonald, stated that the Town received 13 bids for the project
+- MacDonald and Scott Larson with Benchmark reviewed the bids and compared the two lowest
+- bidders. Staff recommended awarding the contract to the second-lowest bidder, Mountain
+- Constructors, Inc., after identifying concerns with the lowest bidder, including negative
+- references and issues with certain bid line items
+- Mountain Constructors agreed to hold its bid pricing for 180 days while the Town awaits
+- availability of FEMA funding. The bid came in well below the engineer’s estimate. MacDonald
+- clarified that the contract is for construction and that additional project-related costs will be
+- incurred separately
+- Awarding the Contract for the Kersey Clark Street Storm Sewer Project to Mountain
+- Constructors, Inc.; and Authorizing the Mayor to Execute the Contract. Motion carried with a 4
+- 2. Consideration of Resolution 2026-0023 Rescheduling the November 24, 2026 Work Session to
+- She noted that there are currently two items anticipated for discussion at the November work
+- session, including the water blueprint. Any changes to the meeting schedule will be properly
+- Resolution 2026-0023 Rescheduling the November 24, 2026 Work Session to November 17,
+- 3. Consideration of Resolution 2026-0024 Authorizing the Mayor, The Mayor Pro-Tem, Town
+- Town Manager, Stacy Brown, explained that the resolution updates the Town’s authorized
+- 4. Addition to the Agenda, Consideration of Resolution 2026-0025 A Resolution Concerning
+
+## [kersey#4] 2026-09-22 | City Council | agenda
+- Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
+- facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
+- current topic. Work sessions do not include an official public comment period
+- Discussion Topic
+- 1. Water Blueprint Plan
+- 2. 2027 Budget Introduction and Review
+- Re: Kersey Water Blueprint Plan
+- Kersey is at an important point in planning for its long-term water future. While the Town is not
+- facing an immediate water emergency, changing regional water-market conditions, continued “buy
+- and-dry” pressures, and Northern Water’s native-supply requirements for new development mean
+- that the Town must take a proactive approach to protecting our water security and accommodating
+- Regional water transfers are accelerating across northeastern Colorado, and Northern Water now
+- requires a native water supply at the tap for new development. As a result, Kersey’s current portfolio
+- of Colorado-Big Thompson Project water alone may not be sufficient to support future growth. The
+- 2023 Colorado Water Plan similarly identifies a substantial potential municipal and industrial supply
+- Tonight is the first of three working sessions with Brendle Group. The purpose is to identify the
+- Board’s priorities related to water supply, growth, and funding. That direction will help ensure the
+- community’s values. This work also advances the Comprehensive Plan’s commitment to forward
+- The $50,000 Water Blueprint project is funded through a $37,500 DOLA Housing Planning Grant, a
+- $10,000 cash contribution from Northern Water, and a $2,500 Town of Kersey General Fund match
+- Excerpts from the Kersey Comprehensive Plan related to the Water Strategy
+- Kersey Comprehensive Plan: What Guides This Decision
+- Board of Trustees reference  Water Strategy Session 1  September 22, 2026
+- CORE VALUES GUIDING THIS PLAN
+- We are forward-thinking and proactively plan for Kersey’s
+- Vision: “Kersey is a vibrant, safe, and resilient place to live, work and play… deeply rooted in community bonds.”
+- Water Supply Resilience
+- Prudent Water Management: Championing
+- conservation, we’ll efficiently use raw water and
+- collaborate on storage projects, ensuring a diversified
+- approach to our water needs
+- 1.1 Improve Water Supply — implement the
+- raw water master plan
+- 1.3 Improve Water Resiliency — e.g.,
+- extending a waterline from CR 49/Hwy 34,
+- enlarging the water tank, and/or treating &
+- piping water from nearby reservoirs
+- 1.2, 1.4 Explore collaborative water storage
+- infrastructure — water-efficient
+- landscaping, raw water for park
+
+## [kersey#5] 2026-10-13 | City Council | agenda
+- Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
+- i. Approval of minutes of the September 8, 2026 regular meeting
+- ii. Approval of the paid bills
+- iii. Approval of the bills to be paid
+- 1. Preliminary Budget Presentation
+- 2. Ordinance No 2026-0012 An Ordinance Referring a Ballot Issue to the Eleigible Electors of
+- Ordinance Which Would Fix the Town of Kersey’s Property Tax Rate at 12.000 Mills for a
+- 3. Resolution 2026-0026, A Resolution of the Town of Kersey, Colorado, Stating the Support
+- of the Board of Trustees for Approval of the Town of Kersey Ballot Issue 2B Authorizing a
+- Ten-Year Extension (2028 through 2037) of the Town’s Existing 17.205-Mill Property Tax
+- Levy, Without Increasing the Tax Rate
+- An executive session pursuant to C.R.S. § 24-6-402(4)(f)(I) for discussion of a personnel matter
+- who has requested discussion of the matter in open session; any member of this body or any
+- elected official; the appointment of any person to fill an office of this body or of an elected
+- official; or personnel policies that do not require discussion of matters personal to particular
+- F. CONSIDERATION
+- Consideration of a motion authorizing the Town Attorney to prepare any required resolutions,
+- agreements, ordinances, policies, letters, and memoranda to reflect action taken by the Town
+- sign all such resolutions, agreements, ordinances, policies, letters, and memoranda
+- quality of life of our community through the fair and consistent application of local
+- codes and ordinances; and
+- other Town departments to identify concerns, encourage voluntary compliance,
+- Unapproved Minutes – 09/10/2026
+- Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:01 p.m. called the meeting to order
+- Town Manager Stacy Brown stated that there was an addition to the agenda, Item C4, Resolution No
+- 2026-0025, appointing a Temporary Assistant Town Attorney
+- Approval of minutes of the August 11, 2026, regular meeting, approval of the paid bills, and approval
+- Public Hearing
+- 1. Consideration of Ordinance 2026-0010 An Ordinance Adopting the 2024 International Fire
+- Deputy Fire Marshal Corey Jarrell was present and explained that the proposed ordinance is
+- intended to streamline the Town’s fire code requirements, better align them with the previously
+- amendments were made and could be provided if needed
+- There was no public comment and/or comments from the Board of Trustees
+- Mayor Roth read the ordinance aloud
+- 0010 An Ordinance Adopting the 2024 International Fire Code and Providing for its
+- 1. Consideration of Resolution 2026-0022 Awarding the Contract for the Kersey Clark Street

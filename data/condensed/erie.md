@@ -1029,3 +1029,14 @@
 - Open Space Properties – Zoning Districts
 - Each zoning district allows for different uses, design standards,
 - Open Space Properties – Current Zoning
+
+## [erie#45] 2026-10-26 | Historic Preservation Advisory Board | agenda
+- 645 Holbrook Street
+- 3. Approval of the Agenda
+- 4. Approval of Minutes
+- a. Approval of Historic Preservation Advisory Board September 28, 2026, Meeting Minutes
+- 5. Public Comment
+- b. Budget Report
+- i. Contract with ERO being completed by Town Staff
+- g. Railroad History Grant
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting

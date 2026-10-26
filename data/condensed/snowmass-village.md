@@ -1,0 +1,1058 @@
+# snowmass-village
+
+## [snowmass-village#0] 2026-07-28 | Part-Time Resident Advisory Board | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 3.A. Minutes for approval
+- 4. Administrative Updates & Discussion
+
+## [snowmass-village#1] 2026-07-28 | Part-Time Resident Advisory Board | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 3.A. Minutes for approval
+- 4. Administrative Updates & Discussion
+- A motion to approve the minutes was made by Board Member Charles Hess and
+- The board discussed logistics for the upcoming Summer PTRAB Community Meeting,
+- availability in August. The board discussed several alternatives. The Limelight Hotel
+- was identified as the top preference, given its full-service capabilities, AV infrastructure,
+- a drawback. Town Hall was discussed but set aside as a venue given the complications
+- Camp was raised but deemed cost-prohibitive. The approximate budget was confirmed
+- venue availability for that date first, with later August dates considered less desirable
+- speaker areas of interest included: the Mayor, wildfire/fire safety (Angie Devlin or the
+- Fire Marshal), and a Pitkin County Commissioner representative — with Greg
+- for topics/speakers: Airport, Wildfire, Water, Town Projects and Events
+- Regarding format, members proposed replacing open-ended speaker presentations
+- with a moderated panel format, wherein a moderator poses pre-prepared questions to
+- Board members commended the town and its contractor for the minimal disruption
+- caused by ongoing roadway construction around the roundabout, noting that lane
+- closures had been brief and traffic flow well-managed throughout the project
+- Assistant Town Manager LeBlanc provided a brief update on the town's wildfire
+- mitigation program, noting that a contractor bidding process had launched and that
+- Council Member Fridstein requested that maps showing the areas to be addressed be
+- Learn about town projects, receive updates, and
+- Attendees will enjoy a panel discussion on wildﬁre,
+- water, town projects, tourism, and more
+
+## [snowmass-village#2] 2026-08-03 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 3.A. An Update from the City of Glenwood Springs on their South Bridge Project
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- 8.B. A Discussion Regarding a Proposed Personal Property Fire Mitigation
+
+## [snowmass-village#3] 2026-08-03 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 3.A. An Update from the City of Glenwood Springs on their South Bridge Project
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- 8.B. A Discussion Regarding a Proposed Personal Property Fire Mitigation
+- An Update from the City of Glenwood Springs on their South Bridge Project
+- project and is now looking for regional support from other municipalities in order to help
+- receive final appovals from CDOT and to complete this project. The City of Glenwood
+- project. Glenwood Spring City Manager Steve Boyd, Finance Director Yvette Gusad,
+- While this project is not specifically detailed in the Council Goal Statement, a regional
+- Bridge Project
+- 101 West 8th Street
+- Construction, Highway 82 Improvements and Emergency Access Benefits
+- the City of Glenwood Springs' construction of the South Bridge project. The City of Glenwood’s
+- residents, but also the 4-Mile Road corridor, is prudent planning in the ever-changing environment
+- number of tourists from other parts of the state that will be positively impacted by this project. In
+- Project and the substantial safety improvements made on Highway 82
+- South Bridge –Improvements
+- Make significant safety improvements on ~1 mile
+- Lower elevation of roadways at Holy Cross/Jackson
+- Simplify frontage road Reduced construction cost by
+- Obligate federal grant dollars: by 9/30/26
+- Anticipated bid date: 10/26
+- Project Cost
+- Total Project Cost: ~$77.5M
+- Budget Shortfall: ~$5M
+- approved, the absences noted will be considered to have received the prior approval necessary
+- Topic to incorporate:
+- POST Office Update—Next steps, opportunities for improvement?
+
+## [snowmass-village#4] 2026-08-04 | Environmental Advisory Board | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 5. IMPACT Accelerator Grant Update
+- 6. Items for Discussion
+
+## [snowmass-village#5] 2026-08-04 | Environmental Advisory Board | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 5. IMPACT Accelerator Grant Update
+- 6. Items for Discussion
+- Rebecca Paschal moved to approve the draft minutes. Shashi Neerukonda second
+- Minutes approved
+- Core Update mentioned a new 90k grant for roof insulation tacked onto the TOSV Villas
+- North employee housing renovation project. The grant could be included in the town's
+- monthly newsletter to generate more interest from HOA's for future CORE
+- projects/grants. Cedric recently presented to the Part-time Resident Board with the
+- feed to Holy Cross
+- 5. Items for Discussion
+- she's at working on projects she's been tasked with as TOSV's new part time
+- Sustainability Coordinator. Her focus is defined by the council's priorities of Wildfire,
+- Construction & Demolition and Composting. There is also a newly awarded CORE
+- Impact Accelerator Grant coordinated by City of Aspen (as a grantee), focused on
+- revising energy codes in the built environment for the numerous grantee jurisdictions
+- session on how to motivate homeowners to undertake wildfire mitigation efforts, it was
+- Council Member Fridstein updated the board on passage of an Ordinance allowing only
+- resident John Wilkenson. The Ordinance was written based on comments and
+
+## [snowmass-village#6] 2026-08-05 | Planning Commission | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 3. Items for Discussion
+- 3.A. Wildridge Unit II, Lot 25 - Variance Request to Exceed Building Envelope and
+- 3.B. Sketch Plan Application, Ritz Carlton Snowmass - Site Visit
+- 3.C. Community Development Director Updates
+
+## [snowmass-village#7] 2026-08-10 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+
+## [snowmass-village#8] 2026-08-10 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- worked together to develop a plan to cut traffic jams on Highway 82, make
+- A strategy to make travel:
+- Six Specific Goals Driving the Plan
+- A Balanced System: Incentives + Disincentives
+- Improvements
+- Phased Incentive
+- Pricing Strategy
+- Reduction Fees
+- Support RFTA to expand Park & Ride capacity,
+- Roadway Improvements
+- Entrance to Aspen highway improvements
+- Roundabout improvements to decrease delays
+- Possible grade-separated intersections and trail
+- Phased Incentive Pricing
+- Reduction Fee
+- Fee Paying LOVs
+- Calibrated “dynamic” fee
+- Phase 2: Congestion-Reduction Fee
+- CONGESTION FEE
+- Calibrated fee to ensure
+- Fees on all up valley
+- Congestion fees annual revenue: $10–20 million
+- Roadway ImprovementsEnhanced Transit ServiceSubsidized Ridesharing
+- Incorporate Feedback
+- Revise strategies
+- Receive Feedback
+- This is an initial strategy
+- increasing commute times, stress, accidents, and emissions. Traffic jams, high accident rates
+- and 25,000 tons of annual emissions demand action. 86% of Aspen voters identify traffic
+- prioritize transit; reduce neighborhood street congestion; improve safety and evacuation
+- 5.Designed to Help, Not Burden. This plan benefits ordinary commuters by cutting travel
+- times and offering multiple fee-avoidance options: carpooling apps, casual carpools,
+- 6.A Balanced System of Incentives and Disincentives
+- The core strategy is a balanced mobility system combining strong incentives with carefully
+- calibrated disincentives to shift peak-hour travel behavior. Incentives include roadway
+- improvements, new mobility options, and enhanced bus service. These are paired with
+
+## [snowmass-village#9] 2026-08-12 | Parks, Open Space, Trails & Recreation Board | agenda
+- Parks, Open Space, Trails & Recreation Board
+- 3. Approval of Minutes
+- 4. Items for Discussion
+- 4.A. Aspen-Snowmass Ski Company's e-bike management plan mid season review
+- 4.B. Parks, Recreation & Trails Capital Project - Playground Renovation
+
+## [snowmass-village#10] 2026-08-13 | Tourism Board | minutes
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of 6.11.26 Minutes
+- Deric Gunshor to Motion Approval
+- 4. Programs for Review, Approval and/or Heads Up
+- 4.A. Budget Worksheet Report 2026
+- Business Outlook + 2027 Budget Overview
+- A content strategy organized around Inspire, Discover, Plan and Book
+- AI optimized and AI integrated tools
+- Q&A Discussion
+- During discussion, Deric Gunshor asked about removing a winter/summer toggle
+- Deric also asked whether the new website is included in a capital budget. Julia stated it
+- included within the Marketing Budget
+- Additional feedback included improving navigation by moving "Getting Here" into the top
+- dedicated "Plan Your Visit" button that serves as a broader bucket for trip planning,
+- including information related to getting here. The board also discussed the timeline, with
+- August is identified as the largest dip. Overall, the summer performance was
+- 2027 Budget Overview:
+- The board reviewed the projected 2027 revenue based on Marketing Tax and Lodging
+- Tax totaling $14.8 million, with details as follow:
+- Marketing Tax: 2026 budgeted as $10.7M, with projected actual of $10.2M
+- Lodging Tax: 2026 budgeted at $3.8M, with projected actual of $3.7M
+- and planned developments. This line item has been increased from $2M in 2026 to $4M
+- Key budget initiatives identified included:
+- Destination Management Plan (DMP)
+- Joanna Mallory asked why the project was not scheduled earlier in the season (e.g,
+- the gondola project will take 4 months for completion. With June/July a big portion of
+- Further discussion addressed the challenge of maintaining a flat budget while the cost
+- a flat budget becomes more difficult over time, and that maintaining the current level of
+- programming may require additional budget needs. The board discussed the
+- Motion to Move Forward with Proposed 2027 Budget from Deric Gunshor
+- They also discussed:
+- CDOT developments related to construction in the Glenwood Springs Canyon
+- Virginia and Julia further discussed co-op efforts with ACRA, including development of
+- Q&A and Media Discussion
+- Tim reported receiving an email from the Wall Street Journal and stated he was unsure
+- interviews with approximately 20 Valley businesses and that the Wall Street Journal
+- Mary Blankenau states she had not heard "doom or gloom" but planned to budget extra
+- also emphasized to use reserves if needed and that the pending Ziegler Dig approval is
+- lab in base village and for a brainstorming session with the Tourism Team. The event
+- relates to the Water/San project increasing the reservoir scope and that the road
+
+## [snowmass-village#11] 2026-08-17 | Town Council | agenda
+- 130 Kearns Road
+- 3. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- 4.A. Daly Lane Employee Housing (SAR Site) Sketch Plan Application - Joint Meeting of the
+- 5. Proclamations and Presentations
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6.B. Minutes for Approval
+- 6.C. Discussion and Consideration to adopt Resolution No. 17, 2026 regarding
+- 7. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 8. Policy/Legislative Public Hearings
+- 9.A. An Update and Discussion regarding the Town Picnic on October 3, 2026
+- 9.B. A Review and Discussion regarding an updated Employee Housing Mitigation
+
+## [snowmass-village#12] 2026-08-17 | Town Council | agenda
+- 130 Kearns Road
+- 3. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- 4.A. Daly Lane Employee Housing (SAR Site) Sketch Plan Application - Joint Meeting of the
+- 5. Proclamations and Presentations
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6.B. Minutes for Approval
+- 6.C. Discussion and Consideration to adopt Resolution No. 17, 2026 regarding
+- 7. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 8. Policy/Legislative Public Hearings
+- 9.A. An Update and Discussion regarding the Town Picnic on October 3, 2026
+- 9.B. A Review and Discussion regarding an updated Employee Housing Mitigation
+- Daly Lane Employee Housing (SAR Site) Sketch Plan Application - Joint Meeting of the Town
+- Michelle Bonfils Thibeault, AICP, Community Development Director
+- Pre-Sketch Plan Application presented by the Applicant, The Snowmass Village Community
+- Foundation, Inc. represented by Mr. Smith with TPEH, LLC., to develop workforce housing on
+- the Daly Lane SRA site (Parcel 273302420001). The Sketch Plan submittal reflects the
+- Applicant’s conceptual responses to feedback from the Pre-Sketch Presentation
+- The Sketch Plan review is an opportunity for the Town and the applicant to engage in an
+- exploratory discussion of a development proposal considering (1) generally appropriate use at a
+- specific location; (2) consistency with the Comprehensive Plan; (3)generally appropriate
+- consideration of natural resources on the site; (5) access and circulation; (6) parking; (7)
+- proposed timetable for the development; and (8)consideration of the proposed concepts
+- The application can be found at this link: SRA Daly Ln Workforce Housing_Sketch Plan
+- The Applicant presented the Pre-Sketch Plan at the joint meeting on March 2, 2026, where the
+- o Increase on-site parking, as the Town-owned parking lots are not sufficient to
+
+## [snowmass-village#13] 2026-08-19 | Planning Commission | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 3. Items for Discussion
+- 3.A. Sketch Plan Application, Ritz Carlton Snowmass - Lodge Discussion
+
+## [snowmass-village#14] 2026-08-19 | Liquor Authority Hearing & Local Marijuana Licensing Authority Hearing | agenda
+- Liquor Authority Hearing & Local Marijuana Licensing Authority Hearing
+- 130 Kearns Road
+- 2. Show Cause Hearing
+
+## [snowmass-village#15] 2026-08-19 | Liquor Authority Hearing & Local Marijuana Licensing Authority Hearing | agenda
+- Liquor Authority Hearing & Local Marijuana Licensing Authority Hearing
+- 130 Kearns Road
+- 2. Show Cause Hearing
+- 201 14th Street, Suite 200
+- 0133 Prospector Road
+- 565 Sherman Street
+- Via Certified Mail, U.S. Mail, and Email
+- 409 S. Hunter Street
+- tax to the Town. F ailure to remit sales taxes constitute violations of the Town Code and provide a
+- you by certified mail in accordance with the Colorado Municipal Court Rules of Procedure. For the
+- Thank you for your attention to this matter. If you have any questions, feel free to contact me
+- ORDER TO SHOW CAUSE AND NOTICE OF HEARING
+- specifically I CCR 203-2, Regulation 47-310.8.4, in that Il Poggio is delinquent on it sales tax
+- payment obligations to the Town, and such failure to comply with tax requirements as prescribed
+- Revenue to suspend a liquor license based on the licensee's record of untimely filing income tax
+- suspend or revoke a liquor licensee's license or permit after investigation and public hearing at
+- authorized by such laws, and any terms, conditions, or provisions of the license or permit issued
+- Snowmass Village Municipal Court, 130 Kearns Road, Snowmass Village, CO 81615 to show
+- You are entitled to have an attomey represent you at the hearing. If you should retain an
+- attorney, you should do so well in advance of the hearing. The hearing will only be postponed
+- hearing, testimony will be taken and your license could be suspended or revoked
+- consider, in selecting sanctions to be imposed against you, any mitigating or aggravating factors,
+- and any provisions of State law, the Snowmass Village Municipal Code, or the permit, as well as
+- It is hereby ordered that a copy of this Order to Show Cause and Notice of Hearing shall
+- CERTIFICATE OF SE,RVICE
+- of Hearing was hand delivered and/or placed in the United States Mail at Snowmass Village,
+- 409 S Hunter Street
+- 130 Kearns Road, Snowmass Village, CO 81615
+- Plaintiff: THE TOWN OF SNOWMASS
+- a. Go to the court, located at 130 Kearns Road, Snowmass Village, CO 81615, at the
+- remotely, you may do so and must request the call -in or videoconference details
+- 4. When you file your answer, you may be required to pay a filing fee to the Clerk of the
+- 5. If you file an answer, you must give or mail a copy to the Plaintiff or the attorney who
+- the relief requested in the complaint
+- Attorneys for Plaintiff
+- Procedure, as amended. A copy of the complaint must be served with this summons
+- WARNING: ALL FEES ARE NON-REFUNDABLE
+- Verified Complaint on July 129, 2026, by certified mail, return receipt requested to
+- 133 Prospector Road
+- 65 Sherman Street
+
+## [snowmass-village#16] 2026-08-25 | Part-Time Resident Advisory Board | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 3.A. 07-28-26 Minutes for approval
+- 4. Administrative Updates & Discussion
+- 4.A. Ritz Carlton Sketch Plan
+
+## [snowmass-village#17] 2026-08-25 | Part-Time Resident Advisory Board | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 3.A. 07-28-26 Minutes for approval
+- 4. Administrative Updates & Discussion
+- 4.A. Ritz Carlton Sketch Plan
+- 3.A. Minutes for approval
+- The Board reviewed the prior meeting minutes and approved them without amendment
+- Michel Brizel motioned to approve. Charlie Hess Seconded. All in favor
+- participants were expected to include representatives from fire prevention, water and
+- The Board discussed panel size and format. Members generally agreed the event
+- presentations from each panelist. The Board supported having only one of the
+- attendance. The Board also discussed timing for the event and generally supported
+- trails, including use of throttle bikes where not permitted. Discussion focused on
+- police and parks staff
+- Members also discussed broader town communication efforts, including improved
+- regarding construction impacts in Base Village and on Wood Road. Members
+- expressed interest in future discussion of the large redevelopment proposal involving
+- the Viewline/Wildwood area and related impacts on employee housing, conference
+- space, parking, deliveries, and local businesses
+- Positive feedback was also shared regarding the Town’s recent summer events and the
+- Ritz Carlton Sketch Plan
+- commented on the Pre-Sketch Application presentation by Elevate Snowmass, LLC
+- workforce housing units, and subgrade parking and centralized deliveries facilities
+- On July 20, 2026, Town Council and the Planning Commission viewed the Sketch Plan
+- application submittal which reflected the Applicant's conceptual responses to feedback
+- from the Pre-Sketch Presentation on March 16, 2026
+- The Sketch Plan review is an opportunity for the Town and the applicant to engage in
+- an exploratory discussion of a development proposal considering (1) generally
+- appropriate use at a specific location; (2) consistency with the Comprehensive Plan; (3)
+- dedicated open space; (4) consideration of natural resources on the site; (5) access and
+- circulation; (6) parking; (7) proposed timetable for the development; and (8)
+- consideration of the proposed concepts relative to promoting public heatlh, safety and
+- The application is available here: Ritz Carlton (Viewline) Sketch Plan PUD
+- Town Council and Planning Commission Meetings where the plan was discussed:
+
+## [snowmass-village#18] 2026-09-01 | Environmental Advisory Board | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 5. IMPACT Accelerator Grant Update
+- 6. Items for Discussion
+
+## [snowmass-village#19] 2026-09-01 | Environmental Advisory Board | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 5. IMPACT Accelerator Grant Update
+- 6. Items for Discussion
+- Rebecca Pascal moved to approve. Morgan Fixel seconded. Minutes approved
+- The Villas North project grant for the insulation & windows replacement was finalized
+- and a new homeowner's project has received pre-approval with funds set aside while
+- the project moves forward
+- especially through wildfire season. They are collaborating with counties to make sure
+- Wildfire Season in 2027
+- The IMPACT Accelerator Grant was awarded by the Colorado Energy Office to a cohort
+- of ten communities with the City of Aspen holding the grant and releasing the funds to
+- the participants through an IGA. There are two main parts to the grant
+- 1. Code Alignment and Update portion of the grant for the ten communities will have a
+- contractor to coordinate this aspect of the grant in Fall of 2026
+- multifamily & affordable housing funding
+- Recap of the Wildfire Mitigation Rebate Program item for discussion from the Town
+- homeowners. Since Roaring Fork Fire Rescue doesn't have the capacity to perform fire
+- RFV Wildfire Collaborative will administer the program. Homeowners who are awarded
+- Use the sketch plan review process for the Ritz Carlton as an opportunity to
+- consideration in the demolition and rebuild
+- (REOP) for the transfer of properties (given Timbermill possible purchase)
+- Revisit the 2025 Matrix for 2027 project prioritization
+- Discussion on the spraying of trails and lack of signage about spraying in Snowmass
+- discussed the noxious weed program in Carbondale and would like to know what the
+- town's spraying strategy is going forward. Not having seen any signage this season, Jill
+- determine a process forward. Morgan and Jill will meet to discuss options and Greg will
+- consult with Andy Worline, head of Parks, Rec and Trails and get back to the board with
+- those required for wildfire mitigation or CORE projects. The concept could involve using
+
+## [snowmass-village#20] 2026-09-02 | Planning Commission | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of August 19, 2026 minutes
+- 3. Items for Discussion
+- 3.A. Sketch Plan Application, Ritz Carlton Snowmass - Lodge Discussion
+- 3.B. Sketch Plan Application, Ritz Carlton Snwomass - Housing Discussion
+- 3.C. Community Development Director Updates
+
+## [snowmass-village#21] 2026-09-08 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 6.A. SHOP Final Plan and PUD Amendment - Ordinance No. of 2026 - 1st
+- 7. Policy/Legislative Public Hearings
+- 8.A. Discussion on Pesticide Application
+- 8.B. Discussion on Current Housing Regulations regarding Reasonable
+- 8.C. Discussion and Consideration of Draft Ordinance Creating a Housing
+- 2-45(c) for the following purpose: a) To discuss personnel matters, except if the employee who is
+- the subject of the session has requested an open meeting, pursuant to C.R.S. 24-6-402(4)(f)(I) and
+
+## [snowmass-village#22] 2026-09-09 | Parks, Open Space, Trails & Recreation Board | minutes
+- Parks, Open Space, Trails & Recreation Board
+- 3. Approval of Minutes
+- 4. Items for Discussion
+- 4.A. Parks, Recreation & Trails Capital Project - Playground Renovation
+- Council Liason advised POSTR to request an update from the vendor to demonstrate
+- the ability to theme the playground with motifs such as the Mt Daly stripe, nature, hot air
+- balloons, etc in an effort to spruce up the feel of the playground. POSTR members
+- discussed different opinions of the playgrounds image from a Town marketing
+- Staff provided an update to Board Members about the discussion from the previous
+- more robust plan with many more details regarding the noxious weed spraying. Staff
+- clarified all contractor and Town staff operations are conducted within the State's
+- SALES TAX TAX EXEMPT
+- Please include a copy of a tax exempt certificate if applicable to avoid charges. Thank you!
+- ALL PURCHASE ORDERS, CONTRACTS, AND
+
+## [snowmass-village#23] 2026-09-14 | Town Council | agenda
+- 130 Kearns Road
+- 2. Items for Discussion
+- 2.A. Updating Housing Mitigation Nexus Study - continued discussion
+- 2.B. Review and Discussion Regarding a Draft Memorandum of Understanding
+- with the Fire Authority Regarding Wildfire Mitigation Efforts
+
+## [snowmass-village#24] 2026-09-14 | Town Council | agenda
+- 130 Kearns Road
+- 2. Items for Discussion
+- 2.A. Updating Housing Mitigation Nexus Study - continued discussion
+- 2.B. Review and Discussion Regarding a Draft Memorandum of Understanding
+- with the Fire Authority Regarding Wildfire Mitigation Efforts
+- Updating Housing Mitigation Nexus Study - continued discussion
+- Michelle Bonfils Thibeault, AICP, Community Development Director
+- Housing is consistently one of the highest priorities for the Snowmass Village
+- Ordinance No. 03, Series of 2011 required developers to provide housing for 60% of
+- total employees generated by development based on an Employee Housing Mitigation
+- Support Study by RRC Associates, Inc. The 2018 Comprehensive Plan reinforces the
+- goal of mitigating development by providing workforce housing including Goal E.2 to
+- increase Employee Housing beyond 60% to housing full-time year-round employees
+- The Planning Commission adopted Resolution No. 11, Series of 2025 and the Town
+- Council subsequently adopted Ordinance No. 1, Series of 2026 to increase the
+- mitigation rate from 60% to 100% acknowledging no meaningful progress toward the
+- shortfall of 508 units described in a previous Housing Needs Assessment had been
+- In April 2026, EPS was contracted by the Town to further review the details of the
+- Housing Mitigation requirements including current Employee Generation Rates for
+- commercial and residential development including redevelopment and the application of
+- those mitigation rates
+- The presentation from August 17, 2026 is available here: Housing Mitigation Linkage
+- 2018 Comprehensive Plan – Applicable Strategic Initiatives
+- Focus on new development and/or redevelopment within the identified CPAs
+- housing by exploring opportunities that best balance the character and
+- 2018 Comprehensive Plan – applicable Goals
+- Goal E: Expand Housing Choice & Affordability
+- Goal E.1: Focus New Housing within the Nodes
+- Goal E.2: Provide More Employee Housing
+- At the August 17, 2026 meeting, Town Council held discussion about Employee
+- Generation Rates for commercial and residential development including redevelopment
+- and the application of those mitigation rates. Generally, Council agreed with
+- to two); to update employee generation rates based on current data and legally
+- defensible methods; and to add residential remodel as a development activity requiring
+- Additionally, there was general acceptance of the proposed updated Fee-In-Lieu
+- studio to a 750sf unit; 1.75 employees/unit; and the fee calculation based on $945/SF
+- Town Council requested additional information regarding:
+- 1. Employee generation rates related to residential operations and maintenance
+
+## [snowmass-village#25] 2026-09-16 | Planning Commission | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of September 2, 2026 minutes
+- 3. Items for Discussion
+- 3.A. Sketch Plan Application, Ritz Carlton - Housing Discussion
+- 3.B. Sketch Plan Application, Ritz Carlton -- Conference and Commercial
+
+## [snowmass-village#26] 2026-09-16 | General | agenda
+- 130 Kearns Road
+- 2. Items for Discussion
+
+## [snowmass-village#27] 2026-09-16 | Planning Commission | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of September 2, 2026 minutes
+- 3. Items for Discussion
+- 3.A. Sketch Plan Application, Ritz Carlton - Housing Discussion
+- 3.B. Sketch Plan Application, Ritz Carlton -- Conference and Commercial
+- 28 The minutes from the September 2, 2026, meeting were presented for approval
+- 31 Item 2: Sketch Plan Application, Ritz Carlton Snowmass - Lodge Discussion:
+- 32 Community Development Director, Michelle Bonfils-Thibeault, introduced the
+- 33 continued discussion of the lodge component of the Ritz-Carlton Sketch Plan
+- 34 application. She noted that the lodge discussion began at the August 19 meeting,
+- 35 at which time the Planning Commission requested additional exhibits addressing
+- 37 Village Mall, Development Review Team (DRT) referral comments, and sun and
+- 39 model and presentation responding to the Commission’s requests
+- 44 development and its relationship to the existing Village. The Commissioners
+- 45 discussed proposed building heights and massing, pedestrian circulation,
+- 48 project advances
+- 50 During the discussion, Commissioners thanked the applicant team for the
+- 51 updated presentation, noting that the revised materials provided a clearer
+- 52 understanding of the proposed development and its relationship to the
+- 53 surrounding area. The Commission discussed the proposed connections and
+- 56 Commissioners also discussed the current level of design development, with the
+- 57 applicant noting that the project remains conceptual at the sketch plan stage. In
+- 60 considerations in evaluating the proposed massing and scale as the project
+- 63 Discussion of the lodge component included the proposed mix of 167 traditional
+- 65 participation, parking, construction impacts, and the relationship of the
+- 66 redevelopment to the Snowmass Mall and Benedict Creek corridor
+- 70 landscaping, and water features as the design develops
+- 72 Following the discussion Chair Dube opened the public hearing. Alan May, an
+- 74 developer, and design team for their presentations and time. Mr. May raised
+- 75 three primary concerns during his public comment. He expressed concern that
+- 76 the proposed height, massing, and orientation of the Wildwood redevelopment
+- 79 scale. He also raised concerns regarding increased traffic, parking, delivery
+- 80 activity, and pedestrian safety along Fall Lane and encouraged consideration of
+- 81 alternative transportation options for employee housing. Finally, he requested
+- 86 The Commission informally concluded the discussion on the lodge component,
+- 88 locations and height requests for the lodge and fractional buildings at a
+
+## [snowmass-village#28] 2026-09-17 | General | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 4. Items for Discussion
+
+## [snowmass-village#29] 2026-09-17 | General | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 4. Items for Discussion
+- 3.A. Approval of Minutes
+- Parks and Rec are barely watering area currently due to drought
+- 2. More similar grass and consistent watering
+- SAAB will need to vote on the budget expense, but they do not need approval from
+- 4.D. Entryway Roundabout Project
+- Alyssa Shenk presented the project that Council is working on. They would like SAAB's
+- to come to a join meeting and give their recommendation on the project. There will be 3
+- Looking for feedback from SAAB
+- Discuss the planning of the Plein Air welcome event on Monday from 6-8PM on August
+- Helen presented the Marketing Plan for Plein Air that was developed by Snowmass
+
+## [snowmass-village#30] 2026-09-22 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 5.B. Minutes for Approval
+- 5.C. Discussion and Possible Action to Consider Resolution 2026- 22 Adopting
+- a Memorandum of Understanding with the Roaring Fork Fire Rescue
+- Authority Regarding Wildfire Mitigation Efforts
+- 5.D. Resolution No. 20, 2026 adopting the IGA with Pitkin County regarding
+- 5.E. Resolution approving an updated FTA Drug and Alcohol Policy
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- 7.A. Ordinance No. 15, 2026 1st Reading - Cavern Springs Budget Appropriation
+- 7.B. Ordinance No. 16, 2026 - 1st Reading - Creating Workforce Housing Advisory
+- 8.B. Owner Review - Draw Site Workforce Housing- Next Steps
+- 9.A. Resolution No. 19, 2026 - ENDORSING THE PASSAGE OF BALLOT ISSUE
+- 1A – A DEDICATED PROPERTY TAX FOR HEALTHY COMMUNITY FUND
+- 9.B. Resolution No. 18, 2026 - In SUPPORT FOR S.5101 AND H.R.9826, “THE
+
+## [snowmass-village#31] 2026-09-22 | General | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 3.A. Approval of 8-25-26 PTRAB Minutes
+- 4. Administrative Updates & Discussion
+- 4.A. PTRAB recommendations for the Transit Center Project
+- 4.B. PTRAB recommendations for the Ritz Carlton Project
+- 4.B.a. Ritz Carlton Sketch Plan
+
+## [snowmass-village#32] 2026-09-22 | General | agenda
+- 130 Kearns Road
+- 3. Approval of Minutes
+- 3.A. Approval of 8-25-26 PTRAB Minutes
+- 4. Administrative Updates & Discussion
+- 4.A. PTRAB recommendations for the Transit Center Project
+- 4.B. PTRAB recommendations for the Ritz Carlton Project
+- 4.B.a. Ritz Carlton Sketch Plan
+- 3.A. 07-28-26 Minutes for approval
+- Motion to approve the July 28, 2026 minutes was made by Board Member Roy
+- 4.A. Ritz Carlton Sketch Plan
+- The Board discussed the Ritz Carlton/Viewline sketch plan currently under review by
+- the Planning Commission. Members expressed concern that the project's scale should
+- characterized as the over development seen at Base Village. Assistant Town Manager
+- Greg LeBlanc noted that other advisory boards had submitted feedback emphasizing
+- Winter Event Planning: The Board discussed holding the next part-time resident event
+- Proposed programming ideas included a moderated panel on the airport, Viewline
+- development, and potentially an entertainment-oriented opener featuring a local
+- Wood Road Lane Closure: Board Member Brizel raised concerns about the ongoing
+- single-lane closure on Wood Road. Assistant Town Manager LeBlanc confirmed the
+- developer holds a permit for the closure and that reopening is anticipated in December
+- Building Permit Duration & Penalties: A member raised the idea of imposing time limits
+- and financial penalties on building permits to reduce prolonged construction
+- inconvenience to neighbors, noting that neighboring HOAs have discussed similar
+- Development department
+- Water Conservation & Fire Mitigation Programs: Board Member Charles Hess shared
+- his experience with the Snowmass Water District's smart irrigation controller rebate
+- Members were reminded that the Town also offers a $1,000 fire mitigation
+- roundtable discussion on the potential for construction of a new transit center at the
+- Snowmass Mall. This discussion topic is an opportunity for staff to hear from the Town
+- This is a discussion item only
+- Manage parking and transit to encourage efficient, effective, and sustainable
+- 2. 2026-02-04_TOSV-RFTA Improvements_Town Council Submittal
+- RFTA BUS STOP IMPROVEMENTS
+- 65 EXISTING PARKING
+- 54 EXISTING PARKING
+- 77 EXISTING PARKING
+- EXTG PLATFORM
+- & ROADWAY TO BE
+- PLATFORM & ROADWA Y
+- PHASE 1 PLATFORM
+- EXTG LOT 6 PARKING
+- EXISTING BUS PARKING GARAGE
+- similar to Town Park Station
+- improvements for the RFTA
+- platforms, new restroom, new
+- Snowmass Village, CO Project # 24-00135.00
+- COST SUMMARY - PHASE 1 + SHORING (RFTA IMPROVEMENTS)
+- COST SUMMARY - PHASE 1 (RFTA IMPROVEMENTS)
+- Project Ref. P:\1-CURRENT BIDS\Snowmass\Snowmass TC Phase A CPM.pp Planned by Powerproject
+
+## [snowmass-village#33] 2026-09-22 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 5.B. Minutes for Approval
+- 5.C. Discussion and Possible Action to Consider Resolution 2026- 22 Adopting
+- a Memorandum of Understanding with the Roaring Fork Fire Rescue
+- Authority Regarding Wildfire Mitigation Efforts
+- 5.D. Resolution No. 20, 2026 adopting the IGA with Pitkin County regarding
+- 5.E. Resolution approving an updated FTA Drug and Alcohol Policy
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- 7.A. Ordinance No. 15, 2026 1st Reading - Cavern Springs Budget Appropriation
+- 7.B. Ordinance No. 16, 2026 - 1st Reading - Creating Workforce Housing Advisory
+- 8.B. Owner Review - Draw Site Workforce Housing- Next Steps
+- 9.A. Resolution No. 19, 2026 - ENDORSING THE PASSAGE OF BALLOT ISSUE
+- 1A – A DEDICATED PROPERTY TAX FOR HEALTHY COMMUNITY FUND
+- 9.B. Resolution No. 18, 2026 - In SUPPORT FOR S.5101 AND H.R.9826, “THE
+- approved, the absences noted will be considered to have received the prior approval necessary
+- Topic to incorporate:
+- POST Office Update—Next steps, opportunities for improvement?
+- Creation of Housing Committee Process discussion
+- Continued Discussion on updated housing mitigation nexus study
+- Review IGA with the Fire Authority
+- 1st Reading Cavern Springs Appropriation Ordinance
+- 1st Reading Ord creating Workforce Housing Advisory Board
+- Reso to Adopt IGA with the Fire Authority
+- SHOP PUD 2 Reading Ordinance 14 – 2nd reading
+- B & C application & appointment procedure update
+- Second Reading of Cavern Springs appropriation ordinance
+- Budget – Comments from FAB and Tourism Presentation
+- Construction & Demolition Debris discussion???
+- Thursday Oct. 22nd – 4-6pm EOTC Budget Meeting - Pitkin
+
+## [snowmass-village#34] 2026-09-23 | Financial Advisory Board | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of 6/10/2026 Minutes
+- 3. Items for Discussion
+- 3.A. 2027 Budget Message
+- 3.B. 2027 Budget Presentation
+
+## [snowmass-village#35] 2026-09-23 | Financial Advisory Board | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of 6/10/2026 Minutes
+- 3. Items for Discussion
+- 3.A. 2027 Budget Message
+- 3.B. 2027 Budget Presentation
+- Assistant Finance Director; Emily Flood, Sales Tax and
+- Item No. 2: APPROVAL SEPTEMBER 17, 2025 MINUTES
+- Sirianni motioned to approve the minutes Tanner seconded, and all members were in favor
+- Kane reviewed some charts in the management’s discussion and analysis with the board. He explained
+- The FAB didn’t see any reason that they shouldn’t accept the audit and approved the attached resolution
+- to send to the Town Council. Sirianni motioned to approve the attached resolution and Tanner seconded
+- She also discussed the carryforward for projects for 2026. She explained these were mainly in the CIP
+- The next meeting will be the budget meeting in September
+- budget for the ensuing fiscal year to the Town Council for consideration and action
+- Town Staff is pleased to present the proposed 2027 annual budget. This budget serves
+- in staffing, capital improvements, and programs are appropriately allocated to meet
+- Due to the 2026 low-snow ski season, the 2027 proposed budget is exceptionally tight
+- With fewer visitors, critical winter-time revenues came in lower than budgeted and the
+- 2026 projected revenues reflect that reduced activity
+- Although 2025/2026 was a low-snow season, we are approaching the 2027 budget with
+- careful approach, 2027 operational revenues are budgeted to fully cover all operational
+- coming years. Understanding that these developments may temporarily affect guest
+- Throughout the past years, the Capital Improvement Program (CIP) has primarily been
+- funded with unspent/saved funds built up from conservative budgeting and
+- considerable savings into completing a number of significant projects. As projected,
+- completing these projects has reduced the funds available for future projects. In order to
+- be responsive to the decreased funds available, going into the 2027 budget process,
+- staff identified a number of priority projects and other projects that needed to be pushed
+- anticipated, staff will possibly ask Council to approve additional projects when we
+- With the above in mind, the 2027 budget and its associated policies will continue to
+- The Strategic goals and areas of concentration this budget aims to meet are based on
+- initiatives outlined in the Comprehensive Plan, including:
+- STRATEGIC INITIATIVES OF SNOWMASS VILLAGE
+- Manage parking and transit to encourage efficient, effective, and sustainable
+- Focus new development and/or redevelopment within the identified CPAs
+
+## [snowmass-village#36] 2026-09-29 | General | agenda
+- 130 Kearns Road
+- 3. Minutes for Approval
+- 4. Items for Discussion
+
+## [snowmass-village#37] 2026-09-29 | General | agenda
+- 130 Kearns Road
+- 3. Minutes for Approval
+- 4. Items for Discussion
+- Development Director; Carlton Henry, Planner; and Greg LeBlanc, Assistant Town
+- 3. Approval of Minutes
+- 3.A. Approval of 8-25-26 PTRAB Minutes
+- A motion to approve the minutes was made by Board Member Charles Hess and
+- 4. Administrative Updates & Discussion
+- 4.A. PTRAB recommendations for the Transit Center Project
+- increased pedestrian traffic benefiting mall businesses. Current project estimates range
+- from approximately $42M to $60M depending on scope and parking provisions
+- Board members broadly agreed that improvements to existing transit infrastructure are
+- Cost and funding: Members questioned whether sufficient grant and partner
+- unfavorable entrance to the mall and that the project may be premature given
+- pending redevelopment of the Viewline/Ritz Carlton and potential mall
+- Alternatives: Members noted that targeted, modest improvements to the two
+- deficiencies without committing to a large capital project
+- The Board reached a general consensus that some form of improvement is needed, but
+- remained concerned about project scale and the distribution of financial responsibility
+- 4.B. PTRAB recommendations for the Ritz Carlton Project
+- 4.B.a. Ritz Carlton Sketch Plan
+- Community Development Director Michelle Bonfils Thibeault and Senior Planner Carlton
+- Henry provided an overview of the Viewline redevelopment sketch plan. Key elements
+- similar or slightly reduced height; redevelopment of the Wildwood area with
+- approximately 125 workforce housing units (mix to be determined); and construction of
+- a 252-space subgrade parking garage. The application is at Step 1 of a 3-step process,
+- Notable discussion points included the unit mix for workforce housing — with Town
+- Carlton project until architectural drawings are available and the scale and massing can
+- Conference Room to continue discussion on the Transit Center Project
+- including the draw site and real estate tax matters, and that such a letter — potentially
+
+## [snowmass-village#38] 2026-10-05 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 5.B. Ordinance No. 16, 2026 - 2nd Reading - Creating Workforce Housing
+- 5.C. Ordinance No. 15, 2026 - 2nd Reading - Appropriating funds for Cavern
+- Springs Mobile Home Park
+- 5.D. Resolution No. 23, 2026 regarding IGA, Housing Covenants and Grant
+- Agreement for Cavern Springs
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 6.A. Ordinance No. 14, 2026 - 2nd Reading - regarding SHOP PUD
+- 7. Policy/Legislative Public Hearings
+- 8.A. Owners Review - Draw Site Workforce Housing Project
+- 8.B. Introduction to the 2027 Budget
+- 8.C. Boards & Commision application & appointment process discussion
+
+## [snowmass-village#39] 2026-10-07 | Planning Commission | agenda
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of September 2, 2026 Meeting Minutes
+- 3. Items for Discussion
+- 3.A. Ritz Carlton - Draft Resolution No. 4 Discussion
+- 3.B. Community Development Director Updates
+
+## [snowmass-village#40] 2026-10-07 | Parks, Open Space, Trails & Recreation Board | minutes
+- Parks, Open Space, Trails & Recreation Board
+- 3. Approval of Minutes
+- 4. Items for Discussion
+- 4.A. Parks, Recreation & Trails Capital Project - Playground Renovation
+- Volo is the statement piece for the town park; You wouldn't stop at the STAR
+- SALES TAX TAX EXEMPT
+- Please include a copy of a tax exempt certificate if applicable to avoid charges. Thank you!
+- ALL PURCHASE ORDERS, CONTRACTS, AND
+- SALES TAX (State& RTD) TAX EXEMPT
+
+## [snowmass-village#41] 2026-10-08 | Tourism Board | minutes
+- 130 Kearns Road
+- 2. Approval of Minutes
+- 2.A. Approval of 8.13.26 Minutes
+- Deric Gunshor to Motion Approval
+- 4. Programs for Review, Approval and/or Heads Up
+- 4.A. Budget Performance Report - Fiscal YTD
+- Brand Strategy Roundtable
+- Brand Revolt — Brand Strategy Presentation & Board Member Roundtable for Feedback
+- The board considered the brand's central audiences, year-round qualities, relationship to
+- members of the family also feel comfortable and welcomed. He described the legacy of
+- Discussion also noted Snowmass's advantages in family lodging on the mountain and
+- Wendy Harris identifies familiar people and faces, a warm and welcoming atmosphere, an
+- Deric Gunshor also discusses the perception that Snowmass is difficult to reach (travel
+- Mary Blankenau notes that early January sees more international visitors and reiterates
+- international families consider as well
+- Virginia McNellis discusses summer events that are not exclusively family-oriented,
+- Camden Bernatz distinguishes marketing strategy — which may change by audience,
+- season, and call-to-action from brand strategy, which should provide a consistent
+- Snowmass voice and feel no matter time of year or audience. Board members agree that
+- Board members were asked to discuss the value and limits of associating Snowmass with
+- Wendy Harris identifies Snowmass as an uncrowded experience, short or non-existent
+- lines, outdoor access, and free options such as summer parking
+- Tim McMahon is in agreement with Mary, noting how different we are just situationally on
+- Jami Downs describes Snowmass's arrival experience up Brush Creek road as "magical"
+- John Kenny mentions that he does not see a need to separate Snowmass entirely from
+- Camden Bernatz ends the discussion by noting the brand direction, focusing less on the
+- experiences. The goal is for the way Snowmass communicates to feel recognizable on its
+- Julia Theisen provided updates on occupancy, rates, revenue and booking pace. The
+- September report showed occupancy was below initial expectations, while the rate and
+- award—a video shared with board members
+- Timberline Condominiums' $25 million, 3-year project is nearing completion
+- The North Face to open at Base Village (operated by Aspen Skiing Company)
+- The tourism budget is scheduled to go to Town Council on October 19th as part
+- of the routine budget approval process
+- Schedule conflict with our next Tourism Advisory Board Meeting. A plan to
+- Discussion of the proposed transportation service between Eagle Airport and Brush Creek
+- Park and Ride which will be provided by Wildpath Transportation. Scheduling and subsidy
+
+## [snowmass-village#42] 2026-10-12 | Town Council | agenda
+- 130 Kearns Road
+- 2. Items for Discussion
+- 2.A. 2027 Budget Discussion
+
+## [snowmass-village#43] 2026-10-12 | Town Council | agenda
+- 130 Kearns Road
+- 2. Items for Discussion
+- 2.A. 2027 Budget Discussion
+- 2027 Budget Discussion
+- Staff presented the budget documents at the October 5th Town Council Meeting
+- At the meeting on October 12th, staff will begin by reviewing the "Project Summary"
+- budget/Sky Cab operations and continue presenting the various funds within the Budget
+- Presentation. Within the attachments are the 2027 Budget Message, the Funds Type
+- Descriptions, the CIP descriptions, the 2027 Budget Presentation and the line-item
+- budget backup. The Budget Message (letter from the Town Manager and Finance
+- Director) thoroughly outlines the goals of the budget and the policies in place to meet
+- Council may want to address. It is intended to be the initial guide to the future budget
+- Currently, the remaining budget meetings are scheduled for October 12th and October
+- 19th with budget adoption (by resolution) expected on November 4, 2026. If desired,
+- At this time, the proposed budget review schedule is:
+- October 12th: Review the CIP budget, review the GID Budget and Sky Cab operations
+- and continue to review any other budget information the Council desires
+- Tourism budget and continue to review any other budget information the Council
+- November 4th: Consider a resolution formally adopting the budget
+- pass-thru payment. The total expenditures include $107,957,319 in capital projects
+- The budget is specifically developed to meet the goals and objectives of the Town
+- Council. The details of how these are proposed to be met are included within the budget
+- Review the attached information and plan to continue your review of the Budget
+- Presentation on October 12th and any other specifics at future meetings set for October
+- 1. Summary of Projects
+- 2. Budget Message - 2027
+- 3. GID Fund and Sky Cab Budget
+- 6. 2027 Budget Presentation
+- 7. 2027 Budget Backup
+- TOSV Projects – All Funds
+- Budget Summary 2027
+- Snowmelt - Road Sealing $ 300,000
+- STRATEGIC PLANNING
+- Sub-total - Strategic Planning $
+- STORM WATER AND DRAINAGE
+- $ 69,138Storm Water & Drainage - Vidal Gulch Project
+- Sub-total - Storm Water and Drainage $ 69,138
+- Housing Projects - Housing Land Opportunities $ 25,000
+- Housing Projects - Faraway Apartments $ 300,000
+- Housing Projects - Carriageway Housing $ 500,000
+- Housing Projects - Draw Site Housing - Construction $ 76,081,641
+- Housing Projects - Snowmass Center Land project $ 100,000
+- Housing Projects - Mtn View I-Exterior Renovations-Stairs, Rails, etc $ 1,300,000
+- Housing Projects - WMRHC Buy-Down Program contribution $ 250,000
+- Sub-total - Housing $ 78,556,641
+- OTHER PROJECTS
+
+## [snowmass-village#44] 2026-10-19 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 5.B. Minutes for approval
+- 5.C. Discussion and Consideration to approve the 2026/2027 Winter Parking Plan
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- 8.A. 2027 Budget — Comments from FAB & Presentation from Tourism Dept
+- 8.B. Discussion and Possible Action to Select a Consultant to Undertake an
+- 8.D. Discussion and Possible Action Directing Staff on the next steps for the Draw
+- Site Workforce Housing Project
+
+## [snowmass-village#45] 2026-10-19 | Town Council | agenda
+- 130 Kearns Road
+- 3. Proclamations and Presentations
+- 4. Public Comment
+- items that do not otherwise appear on this agenda. Generally, the Town Council will not discuss the
+- they come before the Council for final action. A Single Public Hearing will be opened for all items
+- on the Consent Agenda. These items will be approved by a single motion of the Council. The
+- discussed. All items not removed from the consent section will then be approved. A member of the
+- section for full discussion. Any item that is removed from the consent agenda will be placed on the
+- 5.B. Minutes for approval
+- 5.C. Discussion and Consideration to approve the 2026/2027 Winter Parking Plan
+- 6. Public Hearings - Quasi-Judicial Hearings
+- Public Hearings are the formal opportunity for the Town Council to LISTEN to the public regarding
+- the issue at hand. For land use hearings the Council is required to act in a quasi-judicial capacity
+- consideration to matters which are placed into evidence and are part of the public record. The
+- Council must base their decision on the law and the evidence presented at the hearing
+- 7. Policy/Legislative Public Hearings
+- 8.A. 2027 Budget — Comments from FAB & Presentation from Tourism Dept
+- 8.B. Discussion and Possible Action to Select a Consultant to Undertake an
+- 8.D. Discussion and Possible Action Directing Staff on the next steps for the Draw
+- Site Workforce Housing Project
+- approved, the absences noted will be considered to have received the prior approval necessary
+- Topic to incorporate:
+- POST Office Update—Next steps, opportunities for improvement?
+- Noise Ordinance Enforcement
+- Potential to reduce tourism tax rate
+- Budget – Comments from FAB and Tourism Presentation
+- Winter parking permit plan review and approval
+- Thursday Oct. 22nd – 4-6pm EOTC Budget Meeting - Pitkin
+- Budget Adoption
+- Construction & Demolition Debris discussion???
+- Housing Hours Regulation Modification for 2026
+- Adopting the GID Budget
+- Initial Site Tour of Ritz Project
+- B & C Applications
+- Start the Ritz Public Hearing Process
+- Rodeo Bleachers follow up discussion and direction
+- Housing Committee scope of work , priorities, next steps
+- Ritz Public Hearing Process
+- Housing mitigation ordinance 1st reading ??
+- GID Meeting – set Mill Levy
+- B & C Interviews/Discussion
+- B & C Resolution appointing new Members
+- Topics for Work Sessions or Other Meetings Requested by Town Council
+- o Grants – Recent Awards; Review of Criteria; Purpose, etc
+- 4:01 PM on Tuesday, September 8, 2026, at 130 Kearns Road, Town Council
+- Communications Specialist; Michelle Bonfils Thibeault, Community Development
+
+## [snowmass-village#46] 2026-10-22 | General | agenda
+- 130 Kearns Road
+
+## [snowmass-village#47] 2026-10-22 | General | agenda
+- 130 Kearns Road
+- II. 4:05 – 4:10 APPROVAL OF OCTOBER 23, 2025, ACTION MINUTES
+- III. 4:10 -- 4:20 PUBLIC COMMENT FOR ITEMS NOT ON THE AGENDA
+- IV. 4:20 – 4:40 2026 WORKPLAN UPDATES
+- VI. 5:00 – 5:45 PUBLIC HEARING; 2027 WORKPLAN AND BUDGET
+- EOTC Mission: Work collectively to reduce and manage the volume of vehicles on the road and
+- parking system and continue to develop and support a comprehensive multimodal, long-range strategy
+- Summary of State Statue and Ballot Requirements: The 0.5% County Transit Sales and Use Tax shall be
+- of the retreat. Mr. Mahoney introduced the purpose of retreat is to discuss current issues and new
+- Following is a summary and highlights of discussions during the retreat. Please see link above
+- A brief history was given of the EOTC which was established in 1993, upon voter approve of a
+- ½ cent Transportation Sales and Use Tax. Eventually the Comprehensive Valley Transportation
+- Plan was adopted to help guide the EOTC’s work. Mr. Mahoney noted the packet includes nearly
+- three pages of history. Commissioner Clapper asked what had happened to the airport park &
+- ride built in 1998. Mayor Richards said it was transformed into rental car parking space. She also
+- can be used for and stated that recent discussion with Legal staff pointed to there not being a
+- enabling state legislation. Members had questions about what types of projects EOTC had
+- funded in the past, and what the current budget was. RM showed the current EOTC 2026 budget
+- new initiatives, and expressed interest in expanding the range of possible projects. Mayor
+- commented that is may be time for a more formal strategic planning effort, perhaps in the fall
+- Members discussed the issue of keeping the ETOC’s efforts to the upper valley or expanding
+- down valley. Mayor Richards commented that the 81% of the transit tax already goes to valley
+- also to consider ideas from the Transportation Coalition for the 21st Century. Councilmember
+- Gustafson supports a strategic planning effort. To complete the question of what EOTC funding
+- project ideas for review by Legal staff
+- Mr. Mahoney introduced a list of project ideas compiled by transportation staff for the three
+- question of geographic boundaries and also the idea of broadening use of funds, for example
+- Transportation Coalition ideas. Members discussed needing legal opinion about specific
+- proposed projects. Ms. DuPriest asked for the three agencies to forward lists of potential projects
+- for legal opinion and to combine those with ideas already generated by staff
+- the entire 15-member group. He gave the example of needing budget increase for Buttermilk

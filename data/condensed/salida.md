@@ -1,0 +1,342 @@
+# salida
+
+## [salida#0] 2026-08-03 | City Council | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- Council will meet at the F Street bridge
+
+## [salida#1] 2026-08-04 | City Council | minutes
+- Amendment(s) to Agenda
+- All matters listed under the Consent Agenda, are considered to be routine business matters by
+- no separate discussion of these items. If discussion is deemed necessary by any member of
+- the Council, that item should be removed from the Consent Agenda and considered separately
+- Council Member Fontana requested that item #4 and item #5 be moved to new
+- business. Council Member Pappenfort moved to combine and approve the remaining
+- Approve Agenda
+- Approve July 21, 2026 Minutes
+- Approve the Financial Condition Monitoring and Revenue Response Policy
+- E 1st Street, Room 190 Salida, Colorado 81201
+- Ordinance 2026-19 An Ordinance of the City Council of the City of Salida, Colorado Imposing a
+- Temporary Moratorium on the Submission, Acceptance, Processing, and Approval of
+- Applications for the Establishment of Data Centers in the City of Salida, Colorado. Second
+- reading and public hearing
+- Mayor Critelli opened the public hearing. Hearing no comments, the mayor closed the
+- public hearing
+- Ordinance 2026-20 An Ordinance of the City Council of the City of Salida, Colorado Enacting
+- Consent Agenda Item #4. Approve contract with Mid America Pool Renovation, Inc
+- Council Member Martin moved to approve the contract with Mid America Pool
+- Consent Agenda Item #5. Ordinance 2026-22 An Ordinance of the City Council of the City of
+- Salida, Colorado, Amending Chapter 6, Article VI of the Salida Municipal Code Concerning
+- Residency and Annual Active Use Requirements for Short Term Rental Licenses. Approve on
+- first reading and set second reading and public hearing for September 1, 2026
+- Council Member Martin moved to approve Ordinance 2026-22 on first reading and set
+- the second reading and public hearing for September 1, 2026. The motion was
+
+## [salida#2] 2026-08-17 | City Council | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 1. Preliminary review of Housing Needs Assessment Results
+
+## [salida#3] 2026-08-18 | City Council | minutes
+- Amendment(s) to Agenda
+- All matters listed under the Consent Agenda, are considered to be routine business matters by
+- no separate discussion of these items. If discussion is deemed necessary by any member of
+- the Council, that item should be removed from the Consent Agenda and considered separately
+- Council Member Fontana requested that item #4 be moved to new business. Council
+- Member Pappenfort moved to combine and approve the remaining items on the consent
+- Approve Agenda
+- Approve August 4, 2026 Minutes
+- Approve Chaffee County Community Foundation Special Event Liquor License for
+- E 1st Street, Room 190 Salida, Colorado 81201
+- Ordinance 2026-21 An Ordinance of the City Council of the City of Salida, Colorado, Approving
+- Amendments to Chapter 16, Land Use Code. Second reading and public hearing
+- Mayor Critelli opened the public hearing. Hearing no comments, the mayor closed the
+- public hearing
+- Chaffee Housing Trust Fee Transfer Request for 8 units Deed Restricted Units in Two
+- Rivers Development
+- Council Member Pappenfort moved to approve the Chaffee Housing Trust fee transfer
+- Resolution 2026-23 A Resolution of the City Council of the City of Salida, Colorado
+- Approving Citizen Appointments to the Planning Commission Pursuant to Section 2-7-10
+- Council Member Martin moved to approve Resolution 2026-23 appointing Don Reimer,
+- Resolution 2026-24 A Resolution of the City Council of the City of Salida, Colorado, approving
+- Citizen Appointments to the Sustainability Committee Pursuant to Section 2-18-10 of the Salida
+- Council Member Martin moved to approve Resolution 2026-24 appointing Sonya
+- Consent Agenda Item #4. Ordinance 2026-23 An Ordinance of the City of Salida, Colorado,
+- Amending Chapter 18 of the Salida Municipal Code by Amending the Adoption by Reference of
+- the 2021 International Energy Conservation Code Amendments. Approve on first reading and
+- set second reading and public hearing for September 15, 2026
+- Council Member Pappenfort moved to approve Ordinance 2026-23 on first reading and
+- set second reading and public hearing for September 15, 2026. The motion was
+
+## [salida#4] 2026-08-27 | Historic Preservation Commission  | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- Community Development Office at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530
+- City Council Chambers, 448 E. 1st Street, Salida, CO
+- Approval of the Minutes
+- 1. Approve Minutes
+- Amendment(s) to Agenda
+- Public Hearings
+- Public Hearings will follow the following procedure: A. Open Public Hearing B. Proof of
+- Publication C. Staff Review of Application/Proposal D. Applicant’s Presentation (if applicable) E
+- Public Input F. Close Public Hearing G. Commission Discussion H. Commission Decision or
+- 2. A CERTIFICATE OF APPROVAL APPLICATION FOR THE RENOVATION PROJECT
+- LOCATED AT 121, 125, AND 129 E. 2ND STREET
+
+## [salida#5] 2026-08-27 | Historic Preservation Commission  | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- Community Development Office at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530
+- City Council Chambers, 448 E. 1st Street, Salida, CO
+- Approval of the Minutes
+- 1. Approve Minutes
+- Amendment(s) to Agenda
+- Public Hearings
+- Public Hearings will follow the following procedure: A. Open Public Hearing B. Proof of
+- Publication C. Staff Review of Application/Proposal D. Applicant’s Presentation (if applicable) E
+- Public Input F. Close Public Hearing G. Commission Discussion H. Commission Decision or
+- 2. A CERTIFICATE OF APPROVAL APPLICATION FOR THE RENOVATION PROJECT
+- LOCATED AT 121, 125, AND 129 E. 2ND STREET
+- 1. Approve Minutes of November 13, 2025
+- Motion by Short, second by Krebs to approve the minutes of November 13,
+- Amendment(s) to Agenda - none
+- 2. Discussion of Land Use Code proposed changes
+- 3. Discussion of Minor Certificate of Approval Procedures
+- 4. Discussion of Historic Preservation Commission alternate commissioners
+- AGENDA ITEM TITLE: 125 E. 2nd Street – Major Certificate of Approval Application
+- REQUEST: Shavano Holding Co. LLC requests a Major Certificate of Approval (CA) for the
+- exterior renovation of the old Mountain Mail building at 125 E. 2nd Street. The intent is to
+- with a rooftop patio, two residences on the upper floor, and ground floor retail. The application
+- Adding two small egress windows on the upper floor for fire-code compliance;
+- Demolishing a deteriorated, detached rear accessory structure
+- The applicant is Shavano Holding Co. LLC, 125 E. 2nd Street, Salida, Colorado
+- The Mountain Mail project includes the historically divided properties addressed as 121, 125,
+- and 129 E. 2nd Street, including parcels R368132431369 and R368132431363. For purposes
+- of this report, the combined project is referred to as 125 E. 2nd Street or the Mountain Mail
+- project. The property is within the Mixed-Use Downtown (MD) District and Salida Downtown
+- The subject building is listed as non-contributing to the historic district. The project will retain
+- the upper-story street-facing facade and its historic windows while rehabilitating the
+- openings. The application proposes its complete removal
+- not replace any required site plan, change-in-use, building, demolition, sign, or other permit
+- Staff has identified this project as requiring a Major CA because it includes renovation, exterior
+- Commission (HPC). Table 8-A identifies a pre-application conference as required; the
+- applicant completed a pre-application conference with staff. After completeness, the HPC must
+
+## [salida#6] 2026-08-31 | General | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 3. Community Budget Survey Discussion
+
+## [salida#7] 2026-08-31 | General | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 3. Community Budget Survey Discussion
+- Sara Law - Strategic Initiatives Manager
+- Regional Sustainability Project Update
+- The City of Salida and Chaffee County have used Energy Efficiency and Conservation Block Grant
+- (EECBG) funding to support a regional sustainability contractor and advance coordinated work in energy,
+- items, and how the work can continue supporting implementation after the grant period
+- to identify priorities, pursue outside funding, reduce long-term operating risks, and prepare policies that can
+- EECBG funding has helped create capacity to move sustainability projects from planning into
+- Energy projects, including contractor workshops and staff training related to energy codes, Energy
+- Transportation planning, including the regional EV Readiness Plan, fleet and transit assessments,
+- Technical assistance and grant development that allows the City to evaluate future projects before
+- emissions are generated and where local action can have the greatest impact. The inventory found that
+- projects with the City’s longer-term resilience goals. Additionally, staff is using the priorities laid out by
+- Council to go after grants and external funding to achieve GHG reduction in our community
+- Staff and Sustainable Chaffee are working with Colorado Circular Communities (C3) and Cascadia
+- access and operations. Upcoming items anticipated for Council consideration include:
+- Multifamily housing infrastructure: potential requirements for new multifamily developments and
+- qualifying redevelopment projects to provide adequate, accessible space for landfill and recycling
+- Waste hauler licensing: potential licensing or permitting concepts that could establish consistent
+- policy considerations. We expect that the policy proposal would return to Council for review and direction
+- During the remainder of the EECBG funding period, staff and the regional sustainability contractor will focus
+- on completing grant deliverables, advancing projects already underway, and identifying the highest-value
+- gas inventory and facility assessments, community education, and development of outside funding
+- Requested Direction from Council
+- This item is presented as an update. No formal action is requested
+- Energy Projects
+- Energy Code Adoption Grant
+- Contractor Workshop series
+- Grant submitted for expanded funding
+
+## [salida#8] 2026-09-01 | City Council | minutes
+- Amendment(s) to Agenda
+- Mayor Critelli removed Item No. 7 from the agenda for the Jug Liquor show cause hearing
+- All matters listed under the Consent Agenda, are considered to be routine business matters by
+- no separate discussion of these items. If discussion is deemed necessary by any member of
+- the Council, that item should be removed from the Consent Agenda and considered separately
+- Council Member Fontana moved to combine and approve the items on the consent
+- Approve Agenda
+- Approve August 18, 2026 Minutes
+- Approve Special Event Liquor License for Fiber Fest
+- Approve Special Event Liquor License for Bike Fest
+- E 1st Street, Room 190 Salida, Colorado 81201
+- Approve Special Event Liquor License for NOVA all OVA
+- Ordinance 2026-22 An Ordinance of the City Council of the City of Salida, Colorado, Amending
+- Use Requirements for Short Term Rental Licenses. Second reading and public hearing
+- Mayor Critelli opened the public hearing. Paula Givan and Nancy Wallace spoke
+- regarding the active use requirement. Hearing no further comments, the mayor closed
+- the public hearing
+- Council Member Rovinsky moved to approve Ordinance 2026-22 approving Amendment
+- 1 regarding the residency requirement and removing Amendment 2 regarding the active
+- Resolution 2026-25 A Resolution of the City Council of the City of Salida, Colorado, Supporting
+- an Application for the State of Colorado Community Development Block Grant – Public Facilities
+- Design, Engineering, and Environmental Clearance Program. Public Hearing
+- Mayor Critelli opened the public hearing. Hearing no comments, the mayor closed the
+- public hearing
+- Resolution 2026-26 Approving Citizen Appointments to the Parks, Recreation, Open Space,
+- Council Member Pappenfort moved to approve Resolution 2026-26 appointing Amy
+- determining positions relative to matters that may be subject to negotiation, developing strategy
+- following additional details are provided for identification purposes: Potential contracts related
+- to implementation of and compliance with Chaffee County Building Safety Department
+- Notice to Vacate and Notice of Demolition of Dangerous Building, regarding 610 Walnut
+- Street, Salida
+
+## [salida#9] 2026-09-15 | City Council | minutes
+- Amendment(s) to Agenda
+- All matters listed under the Consent Agenda, are considered to be routine business matters by
+- no separate discussion of these items. If discussion is deemed necessary by any member of
+- the Council, that item should be removed from the Consent Agenda and considered separately
+- Council Member Martin moved to move Item #7 regarding 1st and D Street MOU to new
+- business and combine and approve the remaining items on the consent agenda. The
+- Approve Agenda
+- Approve September 1, 2026 Minutes
+- Approve Special Event Liquor License for ArtWalk
+- Approve Approve Memorandum of Understanding between the City of Salida and the
+- E 1st Street, Room 190 Salida, Colorado 81201
+- Ordinance 2026-24 An Ordinance of the City Council of the City of Salida, Colorado,
+- Amending Section 2-11-20(a) of the Salida Municipal Code to Authorize Up to Two
+- Alternate Members of the Historic Preservation Commission. Approve on first reading
+- and set second reading and public hearing for October 6, 2026
+- Ordinance 2026-25 An Ordinance of The City Council of The City of Salida, Colorado,
+- Amending Chapter 1, Article 4 of the Salida Municipal Code Concerning General
+- Simons. Approve on first reading and setting second reading and public hearing
+- Ordinance 2026-23 An Ordinance of the City of Salida, Colorado, Amending Chapter 18 of the
+- Salida Municipal Code by Amending the Adoption by Reference of the 2021 International
+- Energy Conservation Code Amendments. Second reading and public hearing
+- Mayor Critelli opened the public hearing. Madelyne Felsch, Felicia Houston, Craig Nielson, Alex
+- Buck and Ken Fogle spoke during public hearing. Hearing no further comments, the mayor
+- closed the public hearing
+- Consent Agenda Item #7 Approve Memorandum of Understanding (MOU) between the City of
+- Salida and Trellis Housing Partners, LLC for the 1st & D Space-to-Create Affordable Workforce
+- Housing Rental Project at 233 E. First Street and 102 D Street
+- Council Member Martin moved approve an MOU between the City of Salida and Trellis
+- Housing Partners, LLC for the 1st & D Space-to-Create Affordable Workforce Housing
+- Rental Project, with the final verbiage and terms of the agreement in a version as
+- For the purchase, acquisition, lease, transfer, or sale of any real, personal, or other property
+- may be subject to negotiation, developing strategy for negotiations, and/or instructing
+- provided for identification purposes: Potential contracts related to implementation of and
+- compliance with Chaffee County Building Safety Department Notice to Vacate and Notice
+
+## [salida#10] 2026-09-28 | Planning Commission | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- Community Development Office at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530
+- 448 E. 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 1. Discussion of Potential Amendments to Chapter 16, Land Use and Development
+- Presentations
+
+## [salida#11] 2026-09-28 | Planning Commission | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- Community Development Office at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530
+- 448 E. 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 1. Discussion of Potential Amendments to Chapter 16, Land Use and Development
+- Presentations
+- Discussion of Potential Amendments to the Salida Land Use Code
+- AGENDA ITEM TITLE: Discussion of Potential Amendments to Chapter 16, Land Use and Development
+- The City Council recently adopted a comprehensive set of amendments to the Land Use Code. During that
+- process, staff identified several issues that required additional research or policy discussion and could not be
+- areas for improvement. This work session allows staff and the Planning Commission to discuss those issues
+- before staff prepares any additional code text amendments
+- COTTAGE AND CO-HOUSING
+- Before the most recent Land Use Code update, Cottage Housing and Co-Housing were combined under one
+- use. Staff separated them because Cottage Housing primarily describes a site and subdivision pattern, while
+- Co-Housing describes how residents share space and facilities. Most of the definitions and standards were
+- maintained for each use type, except for Cottage Housing now requiring each housing unit to be on its own
+- lot. The updated Code now treats them as separate uses, but each requires additional policy direction to
+- Cottage Housing
+- Cottage Housing is currently defined in Section 16-10-20 as follows:
+- A residential development that combines four or more small, individually owned units, each on their own lot,
+- that share a common open space. The residents in a co-housing/cottage development may agree to share in
+- Under the current standards, Cottage Housing must adhere to the following standards:
+- Each unit may be no larger than 1,500 square feet
+- At least 10 percent of the project area must be shared open space
+- Must enter into a development agreement with the City requiring the condominium or other property
+- owner’s association to maintain all streets, utilities, and infrastructure that are not dedicated to the
+- The underlying district's lot size and setback standards apply to the project boundary as a whole,
+- while each cottage lot must also meet the district's dimensional and development standards, except
+- that minimum lot frontage is applied as minimum lot width. Projects creating five or fewer lots follow
+- the minor subdivision process; projects creating more than five lots follow the major subdivision
+- Is the current definition accurate? Does it need the sentence about cooking meals or childcare
+
+## [salida#12] 2026-10-06 | General | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 1. 2027 Preliminary Budget Discussion
+
+## [salida#13] 2026-10-06 | City Council | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Amendment(s) to Agenda
+- All matters listed under the Consent Agenda, are considered to be routine business matters by
+- no separate discussion of these items. If discussion is deemed necessary by any member of
+- the Council, that item should be removed from the Consent Agenda and considered
+- 1. Approve Agenda
+- 2. Approve September 15, 2026 Minutes
+- 3. Approve Final Settlement for the CR105 Bridge Area River Restoration Project
+- 4. Approve Final Settlement for the 2026 Utility Replacement Project
+- 5. Award the Mesa Tank Project
+- 6. Approve Special Event Liquor License for the Elks Club Charity Ball
+- 7. Approve Special Event Liquor License for the Elks Club Parade of Lights Event
+- 8. Approve Special Event Liquor License for the Heart of the Rockies Halloween
+- 9. Approve the Residential Anti-Displacement and Relocation Plan
+- 10. Approve the Greater Salida Recreation Corporation Salida Golf Course Operating
+- 12. Ordinance 2026-24 An Ordinance of the City Council of the City of Salida, Colorado,
+- Amending Section 2-11-20(a) of the Salida Municipal Code to Authorize Up to Two
+- public hearing
+- 13. Ordinance 2026-25 An Ordinance of the City Council of the City of Salida, Colorado,
+- Amending Chapter 1, Article 4 of the Salida Municipal Code Concerning General
+- Simons. Second reading and public hearing
+- 14. Approve Local Planning Capacity (LPC) Grant Application Support for the 2027
+- Comprehensive Plan Update
+- 15. Resolution 2026-27 A Resolution of the City Council of the City of Salida, Colorado,
+- 16. Resolution 2026-28 A Resolution of the City Council of the City of Salida, Colorado,
+- Certifying Delinquent Charges, Assessments, or Taxes to the Chaffee County Treasurer
+- to be Added to the 2026 Tax Roll
+- 17. Resolution 2026-29 A Resolution of the City Council of the City of Salida, Colorado,
+- Expressing its Support of the 5-H LLC R-2 Zoning Question on the November 3, 2026
+- 18. Resolution 2026-30 A Resolution of the City Council of the City of Salida, Colorado,
+- Approving a Memorandum of Understanding Regarding Regional Proposition 123
+- Affordable Housing Collaboration Between the Towns of Buena Vista and Poncha
+- Springs, City of Salida, Chaffee County and Chaffee Housing Authority and Authorizing
+- For the purchase, acquisition, lease, transfer, or sale of any real, personal, or other
+- negotiation, developing strategy for negotiations, and/or instructing negotiators
+
+## [salida#14] 2026-10-19 | City Council | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 1. 2027 Preliminary Budget Discussion Continued
+
+## [salida#15] 2026-10-19 | City Council | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- City Clerk at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530-2626 at least 48 hours
+- 448 E 1st Street, Room 190 Salida, Colorado 81201
+- Amendment(s) to Agenda
+- All matters listed under the Consent Agenda, are considered to be routine business matters by
+- no separate discussion of these items. If discussion is deemed necessary by any member of
+- the Council, that item should be removed from the Consent Agenda and considered
+- 1. Approve Agenda
+- 2. Approve a letter to CDOT regarding intersection improvements at US-50 and SH-291
+- Mayor Critelli – Emails for discussion
+- Treasurer Report - Comparison of the 2026 and 2027 Budgets - emails

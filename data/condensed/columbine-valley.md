@@ -1,0 +1,99 @@
+# columbine-valley
+
+## [columbine-valley#0] 2026-08-18 | City Council | minutes
+- PUBLIC COMMENT: There was no public comment
+- the Board of Trustees unanimously approved the consent agenda which consisted
+- on the Platte Canyon sidewalk
+- support re the e-bike ordinance, a desire to see more street sweeping; and shared that he
+- attended the recent Planning and Zoning Commission meeting
+- presented on the upcoming Housing Needs Assessment and discussed a required change in
+- the design of the Platte Canyon sidewalk, which the Trustees directed to proceed
+- PRESENTATIONS: Mr. McCrumb presented a draft of the Long-range financial forecast
+- A. Trustee Bill #8 - 2026: Mr. Schiller presented the ordinance concerning Jake Brakes on second
+- reading. The Trustees asked questions and discussed the ordinance
+- Board of Trustees unanimously approved Trustee Bill #8 on second reading
+- A. Resolution #13 – 2026: Mr. McCrumb presented the resolution concerning a Town
+- wide fee schedule. The Trustees asked questions and discussed the resolution
+- the Board of Trustees unanimously approved Resolution #13
+- B. Resolution #14 – 2026: Mr. McCrumb presented the resolution concerning an
+- annexation of 8 Hunter Run. The Trustees asked questions and discussed the
+- Taylor, the Board of Trustees unanimously approved Resolution #14
+
+## [columbine-valley#1] 2026-09-15 | City Council | minutes
+- PUBLIC COMMENT: There was no public comment
+- Board of Trustees unanimously approved the consent agenda which consisted of
+- A. Mayor Huelskamp updated the Trustees a salary survey that is underway and notified them
+- that the Town has vacancies on the Planning and Zoning Commission, he is seeking
+- PRESENTATIONS:
+- A. First Draft – 2027 Town Budget: Mr. McCrumb presented the first draft of the 2027
+- budget, including several special projects and initiatives. Also presented was the budget
+- discussed several of the projects but did not offer any direction or changes at this time
+- B. Housing Needs Assessment: Mr. McCrumb offered the Trustees an update on the
+- Housing Needs Assessment. The Community survey is underway, and staff expects the
+- response rate to exceed the 20% target by the time it closes. A draft presentation will be
+- A. Resolution #12 – 2026: Mr. Schiller presented the resolution concerning an agreement
+- Attorney. The Trustees asked questions and discussed the resolution
+- the Board of Trustees unanimously approved Resolution #12 and authorized
+- B. Platte Canyon Sidewalk Update: Mr. McCrumb advised the Trustees that the proposed
+- Platte Canyon sidewalk would not be proceeding as the design had changed too
+
+## [columbine-valley#2] 2026-10-20 | City Council | agenda
+- 3. PUBLIC COMMENT
+- Colorado Open Meetings Law to discuss, comment, or act at the meeting on any issue raised
+- by public comment. The Mayor may refer the matter to the Town Administrator or Town
+- Consent agenda items can be adopted by a simple motion. Ordinances must be read by title
+- a. Approval of September 15, 2026 Minutes
+- b. Set a Public Hearing on the Budget for November Meeting
+- c. Set a Public Hearing on the Budget for Housing Needs Assessment
+- e. Chief of Police
+- 6. PRESENTATIONS
+- a. First Draft – 2026 Housing Needs Assessment
+- b. Second Draft – 2027 Town Budget
+- a. Trustee Bill #9 – 2026 Concerning Permit Fees
+- b. Trustee Bill #10 - 2026 Regarding Land Use and Zoning Updates
+- i. Set a Public Hearing for November
+- c. Trustee Bill #11 - 2026 Regarding Annexation of 8 Hunter Run
+- i. PUBLIC HEARING for Trustee Bill #11 - 2026
+
+## [columbine-valley#3] 2026-10-20 | City Council | agenda
+- 3. PUBLIC COMMENT
+- Colorado Open Meetings Law to discuss, comment, or act at the meeting on any issue raised
+- by public comment. The Mayor may refer the matter to the Town Administrator or Town
+- Consent agenda items can be adopted by a simple motion. Ordinances must be read by title
+- a. Approval of September 15, 2026 Minutes
+- b. Set a Public Hearing on the Budget for November Meeting
+- c. Set a Public Hearing on the Budget for Housing Needs Assessment
+- e. Chief of Police
+- 6. PRESENTATIONS
+- a. First Draft – 2026 Housing Needs Assessment
+- b. Second Draft – 2027 Town Budget
+- a. Trustee Bill #9 – 2026 Concerning Permit Fees
+- b. Trustee Bill #10 - 2026 Regarding Land Use and Zoning Updates
+- i. Set a Public Hearing for November
+- c. Trustee Bill #11 - 2026 Regarding Annexation of 8 Hunter Run
+- i. PUBLIC HEARING for Trustee Bill #11 - 2026
+- PUBLIC COMMENT: There was no public comment
+- Board of Trustees unanimously approved the consent agenda which consisted of
+- A. Mayor Huelskamp updated the Trustees a salary survey that is underway and notified them
+- that the Town has vacancies on the Planning and Zoning Commission, he is seeking
+- PRESENTATIONS:
+- A. First Draft – 2027 Town Budget: Mr. McCrumb presented the first draft of the 2027
+- budget, including several special projects and initiatives. Also presented was the budget
+- discussed several of the projects but did not offer any direction or changes at this time
+- B. Housing Needs Assessment: Mr. McCrumb offered the Trustees an update on the
+- Housing Needs Assessment. The Community survey is underway, and staff expects the
+- response rate to exceed the 20% target by the time it closes. A draft presentation will be
+- A. Resolution #12 – 2026: Mr. Schiller presented the resolution concerning an agreement
+- Attorney. The Trustees asked questions and discussed the resolution
+- the Board of Trustees unanimously approved Resolution #12 and authorized
+- B. Platte Canyon Sidewalk Update: Mr. McCrumb advised the Trustees that the proposed
+- Platte Canyon sidewalk would not be proceeding as the design had changed too
+- Request for Board of Trustee Action
+- Title: 2027 Town Budget Public Hearing
+- budget is not simply an internal administrative decision: it must
+- include a public hearing at which interested electors may comment or
+- object. The public hearing ensures transparency, accountability, and
+- budget. The budget must present a complete financial plan by fund
+- The statute also prohibits adopting a budget that provides for
+- balance. The budget must include a “budget message” describing the
+- After the proposed budget is prepared, the governing body must

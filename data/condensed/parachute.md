@@ -1,0 +1,112 @@
+# parachute
+
+## [parachute#0] 2026-08-20 | Town Council | minutes
+- Director of Economic/Community Development, Harley Walker, Director of Public Works,
+- Sam Stewart, Police Chief, Tamara Castellari, Public Information/Records Clerk, Alyshia
+- (C) APPROVE AGENDA
+- request that an item be "removed" from the consent agenda and considered on the regular agenda
+- License Premise: 254 South Railroad Avenue
+- D.5) Ratification of Letter of Support for Northwest Colorado Council of Governments 5304 Transit
+- Planning Grant
+- D.6) Resolution No. 2026-25 A RESOLUTION SUPPORTING THE PARACHUTE AREA
+- TRANSIT SYSTEM GRANT APPLICATION TO THE COLORADO DEPARTMENT OF
+- D.7) Resolution No. 2026-26 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- E.1) Resolution No. 2026-31 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, APPOINTING NICOLE LOSCHKE TO FILL THE VACANT TOWN
+- E.2) Swearing in of appointed Town Council Member Nicole Loschke
+- Nicole Loschke was appointed and sworn in and participated as a voting councilmemher for the remainder of
+- E.3) Swearing in of Alyshia Sauer as Police Officer
+- (G) PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- (H) PRESENTATIONS
+- application. To use the application, please visit ridepats.com
+- (I) PUBLIC HEARINGS
+- I.1) Public Hearing Before the Town Council to Consider a Regulated Marijuana Business License
+- Application for Medical Marijuana Infused Products Manufacturing
+- Resolution of the Town Council of the Town of Parachute, Colorado, Acting as the Local Licensing Authority
+- Granting to Mountain Managers II LLC a License to Operate a Medical Marijuana Infused Products
+- I.2) Public Hearing Before the Town Council to Consider a Special Use Review to Allow the Reconstruction
+- Project Name: 6670 Transmission Line
+- of the Town Council of the Town of Parachute, Colorado Approving a Special Use Review for Public Utility
+- (J) RESOLUTIONS
+- J.1) Resolution No. 2026-29 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, RE-APPOINTING SHERRY LOSCHKE ON THE PLANNING
+- (K) CONTRACTS
+- K.1) Resolution No. 2026-30 A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF
+- PARACHUTE, COLORADO, APPROVING A PURCHASE AGREEMENT AND CONTRACT WITH
+- WAGNER EQUIPMENT CO. FOR THE PURCHASE OF A WHEEL LOADER
+- L.1) 2026 Town Council Strategic Goal Setting Preliminary Discussion
+- Town Council will meet on July 16, 2026 from 5:45 - 6:15 to discuss updating strategic goals
+- Town is recipient of CDBG $600,000 Grant for 1st Street Project
+- developers/investors tax incentives for future development
+- Madison Croissant, CSU Intern, assisting with creation/distribution/presentation of 2026 Citizen Survey and
+
+## [parachute#1] 2026-09-17 | Town Council | agenda
+- APPROVE AGENDA
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- PRESENTATIONS
+- South Bridge Project Update and Request for a Letter of Support, Steve Boyd, City Manager; Ryan
+- YouthZone Annual Report and 2027 Financial Request, Jesse Hanna, Chief Operations Officer
+- Attachment 1: Renewal Application - Family Dollar Store #26890_Redacted
+- Presentation: City of GWS South Bridge Update.pptx
+- Presentation: YouthZone
+- PUBLIC HEARINGS
+- Resolution No. 2026-39 Approving a Special Use Review for Fun House Kids LLC at 201 East 1st
+- Resolution No. 2026-40 Approving Modifications and Re-Adopting the Town Council's Strategic
+- 2027 Budget Kickoff/Workshop
+- Presentation: Bike Clinic
+- Cover Memo: Fun House Kids Special Use Review
+- Attachment 1: Application for Special Use Permit - Fun House Kids LLC.pdf
+- Attachment 2: Referral Comments and Discussion.pdf
+- Attachment 3: Public Hearing Notice Information and attachments.pdf
+- Attachment 4: Resolution No. 2026-04-PC Fun House Kids LLC.pdf
+- Attachment 5: Resolution No. 2026-39 Approving Special Use Review for Fun House Kids LLC
+- Cover Memo: Resolution 2026-40 Final Town Council strategic goal Adoption.pdf
+- Attachment 1: Resolution No. 2026-40 - Approving Modifications and Re Adopting Strategic Goal
+- Attachment 2: Resolution No. 2026-40 - EXHIBIT A - 2026 Town Council Goal Statement.pdf
+- Attachment 1: TOP Employee Focus Group Feedback Sessions Report
+- Cover Memo: 2027 Draft Budget Kickoff and Workshop Mtg
+
+## [parachute#2] 2026-10-15 | Town Council | agenda
+- APPROVE AGENDA
+- request that an item be “removed” from the consent agenda and considered on the regular agenda
+- Ratification of a Letter
+- to the USDOT Committing Local Matching Dollars for a PROTECT Grant
+- Resolution No. 2026-41
+- A Resolution Supporting S.5101 and H.R. 9826, The Glenwood Hot
+- Resolution No. 2026-42
+- A Resolution Supporting Garfield County Library District Ballot Issue 6B
+- PUBLIC COMMENTS ON THE ISSUES NOT ON THE AGENDA
+- Marijuana Renewal Application - Bud's Dispensary_Redacted
+- Liquor License Renewal Application - Cafe Parachute LLC_Redacted.pdf
+- Letter: TOP Match Commitment towards SAFER Grant US DOT.pdf
+- Attachment 1: Resolutions and Letters Supporting Glenwood Hot Springs Protection Act
+- Attachment 2: BBA Water Consultants Report
+- Attachment 3: Resolution No. 2026-41 - Supporting Hot Springs Protection Act
+- Resolution No. 2026-41 - Resolution Supporting Ballot Question 6B Garfield County Library.pdf
+- PRESENTATIONS
+- Garfield Clean Energy Annual Updates and 2027 Funding Request - Morgan Hill, Associate
+- PUBLIC HEARINGS
+- Town of Parachute Draft 2027 Budget Presentation
+- Ordinance No. 837-2026 - An Ordinance of the Town of Parachute, Colorado, Amending Title 15 of
+- the Parachute Municipal Code to Add Section 15.02.214 - Expedited Review for Affordable Housing
+- and Amending Table 2.1 to Update the Land Use Review Procedures Chart
+- Ordinance No. 838-2026 - An Ordinance of the Town Council of the Town of Parachute, Colorado,
+- Amending Title 15 of the Parachute Municipal Code to Regulate Data Centers and Technology
+- Resolution No. 2026-43
+- A Resolution Approving Bid Award and Authorizing Contract for On Call
+- Resolution No. 2026-44
+- A Resolution Adopting a Colorado Open Records Act Request Policy
+- Attachment 1: Parachute_GCE 2027 budget request memo
+- Attachment 2: Slide Presentation Parachute GCE 2027 membership contribution request
+- Cover Memo 2027 Draft Budget Presentation.pdf
+- Attachment 1 - 2027 Proposed Budget Message
+- Attachment 2 - 2027 Draft Budget Worksheet Detail
+- Attachment 3 - 2027-2031 TOP Draft Capital Improvement Plan (CIP)
+- Attachment 4 - 2027 Draft Contributions Worksheet / Budget
+- Attachment 5 - September 2027 Draft Budget Presentation Slide Deck
+- Cover Memo Ordinance 837-2026 - Prop 123 Expedited Housing Review Title 15 Amendments
+- Attachment 1: Ordinance No. 837-2026 - Amend Title 15 Prop 123 Expedited Housing Review
+- Attachment 2: Affidavit of Publication - Title 15 Amendments
+- 2026-03-PC Recommending Approval of an Ordinance to Amend Title 15 _Land Use Regulations_
+- Cover Memo Ordinance 838-2026 - Data Center Regulations Title 15 Amendment

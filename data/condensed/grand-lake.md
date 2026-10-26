@@ -1,0 +1,449 @@
+# grand-lake
+
+## [grand-lake#0] 2026-08-05 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- BOARD OF ADJUSTMENT – QUASI JUDICIAL (PUBLIC HEARING)
+- 4. Items of Discussion
+- A. Resolution 01-2026: Variance Request from Side Yard Setback Requirements for Property
+- B. Resolution 02-2026: Variance Request from Front Yard Setback Requirements for
+- PLANNING COMMISSION – QUASI JUDICIAL (PUBLIC HEARING)
+- 4. Consideration to Approve Meeting Minutes
+- 5. Future Items for Consideration
+- A. Resolution 07-2026: Variance Request to Expand a Legal Nonconforming Structure at 536
+
+## [grand-lake#1] 2026-08-05 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- BOARD OF ADJUSTMENT – QUASI JUDICIAL (PUBLIC HEARING)
+- 4. Items of Discussion
+- A. Resolution 01-2026: Variance Request from Side Yard Setback Requirements for Property
+- B. Resolution 02-2026: Variance Request from Front Yard Setback Requirements for
+- PLANNING COMMISSION – QUASI JUDICIAL (PUBLIC HEARING)
+- 4. Consideration to Approve Meeting Minutes
+- 5. Future Items for Consideration
+- A. Resolution 07-2026: Variance Request to Expand a Legal Nonconforming Structure at 536
+- FROM: Emily Weber, Contract Staff - Planning Department
+- SUBJECT: QUASI JUDICIAL (PUBLIC HEARING) – Resolution 01-2026: Variance Request from Setback
+- Zoning: Single Family Residential – High
+- Request: The applicant is requesting a variance
+- permit a 2-foot side yard setback for the
+- and is therefore considered a legal nonconforming structure. Due to the site's topography, the location of the
+- existing home, and the need to provide access to the boathouse and shoreline, the applicant is requesting a
+- Pursuant to Town Code Section 12-3-6, any property owner may request a variance from the zoning
+- regulations through the Board of Adjustment. The variance process requires public notice by certified mail to
+- property owners within 200 feet of the subject property and publication in a newspaper of general circulation
+- All notification requirements have been satisfied for this application. The following sections of the Town
+- Code are applicable to the review of this variance request
+- The minimum side yard setback requirement for properties zoned RSH is 10 feet. The applicant proposes to
+- Town Code Section 12-2-29 Shoreline and Surface Water Regulations
+- Town Code requires a minimum 30-foot setback from the mean identifiable high-water mark and includes a
+- 5-foot non-disturbance zone. An exception exists for stairways four feet or less in width. The proposed
+- stairway is four feet wide and complies with applicable shoreline setback requirements
+- Variance Criteria of Approval
+- Town Code Section 12-3-5 establishes the following review criteria for variance requests, paraphrased
+- zoning district
+- 4. Granting the variance will not confer a special privilege upon the applicant that is denied to other
+- lands, structures, or buildings within the same zoning district
+- 5. Granting the variance will not be detrimental to the public good and will not substantially impair the
+- 2. The request will allow the property owner to maintain independent access to the boathouse and
+- 3. The circumstances leading to the request arise primarily from the property's physical characteristics
+
+## [grand-lake#2] 2026-08-19 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 4. Items of Discussion
+- A. Resolution 08-2026: Land Use Code Amendments – Definitions, Shoreline
+- Regulations, Development Review Procedures, and Related Sections
+- 5. Future Items for Consideration
+
+## [grand-lake#3] 2026-08-19 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 4. Items of Discussion
+- A. Resolution 08-2026: Land Use Code Amendments – Definitions, Shoreline
+- Regulations, Development Review Procedures, and Related Sections
+- 5. Future Items for Consideration
+- FROM: Emily Weber, Contract Staff - Planning Department
+- SUBJECT: Resolution 08-2026: Review and Recommendation Regarding Proposed Land Use Code
+- Amendments to Sections 12-2-6 Definitions, 12-2-29 Shoreline and Surface Water
+- Definitions, 12-7-3 Definitions, 12-8-2 Definitions, 12-9-1 Land Use Development Review
+- Thresholds, 12-9-2 Major Land Use Development Review Procedures and Submittal
+- Requirements, 12-9-5 Failure to Begin Development or Show Substantial Progress and
+- Review, 12-9-4 Minor Development Submission Requirements, 12-9-7 Amendments to Land
+- Use Developments, and 12-9-10 Standards; and Creation of Town Code Section 12-6-11
+- Certifications, Article 11 Land Development Standards, and Article 12 Definitions
+- The Planning Commission directed Town Staff to amend various sections of the Town Code to improve
+- these amendments is to create a more consistent and clearly articulated development review process,
+- and approval processes
+- where Staff and Commissioners reviewed the existing code provisions and discussed opportunities to
+- Pursuant to Town Code Section 12-2-34, amendments to the Town Code are approved by the Board of
+- of the proposed amendments are attached for each affected code section. Certain attachments also include
+- This section is proposed to be amended to Section 12-2-6 Reserved. All definitions would be removed from
+- Town Code Section 12-2-29 Shoreline and Surface Water Regulations
+- The proposed amendment removes the requirement for certified mail notification. Notice would instead be
+- This section is proposed to be amended to Section 12-5-2 Reserved. All definitions would be removed from
+- This section is proposed to be amended to Section 12-6-5 Reserved. All definitions would be removed from
+- Creation of Town Code Section 12-6-11 Certifications
+- This new section would relocate certification requirements currently contained in Town Code Section 12-9
+- 10 Standards. Because these requirements are specific to subdivision plat applications, placement within
+- This section is proposed to be amended to Section 12-7-3 Reserved. All definitions would be removed from
+- This section is proposed to be amended to Section 12-8-2 Reserved. All definitions would be removed from
+- This section is proposed to be amended from Definitions to Land Use Development Review Thresholds. The
+
+## [grand-lake#4] 2026-09-28 | Board of Trustees | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. 2027 Budget: Introduction and Overview
+- 14. Public Comments (Limited to 3 Minutes)
+- 16. Items of Discussion
+- A. Consideration of Approval of a New Special Event Permit Application and Resolution
+- B. Consideration of Approval of a New Special Event Permit Application and Resolution
+- C. Consideration of Setting Certain Fees and Resolution 81-2026 for Grand County
+- Water Information Network 'EGMS 6th Grade Watershed Week Field Trip' Event
+- D. Consideration of Approval of a Public Property Encroachment Agreement and
+- Resolution 82-2026 for the Ruger Subdivision, 120 County Road 663
+- E. Consideration of Approval of Resolution No. 80-2026 – Amending the Town of Grand
+- Lake Public Records Policy Adopted by Resolution No. 18-2014
+- F. Discussion – 2027 Budget: Departmental Budget Priorities
+- G. Space to Create Rental Strategies Q4 2026
+- 17. Future Items for Consideration
+
+## [grand-lake#5] 2026-09-28 | Board of Trustees | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. 2027 Budget: Introduction and Overview
+- 14. Public Comments (Limited to 3 Minutes)
+- 16. Items of Discussion
+- A. Consideration of Approval of a New Special Event Permit Application and Resolution
+- B. Consideration of Approval of a New Special Event Permit Application and Resolution
+- C. Consideration of Setting Certain Fees and Resolution 81-2026 for Grand County
+- Water Information Network 'EGMS 6th Grade Watershed Week Field Trip' Event
+- D. Consideration of Approval of a Public Property Encroachment Agreement and
+- Resolution 82-2026 for the Ruger Subdivision, 120 County Road 663
+- E. Consideration of Approval of Resolution No. 80-2026 – Amending the Town of Grand
+- Lake Public Records Policy Adopted by Resolution No. 18-2014
+- F. Discussion – 2027 Budget: Departmental Budget Priorities
+- G. Space to Create Rental Strategies Q4 2026
+- 17. Future Items for Consideration
+- SUBJECT: Board workshop — 2027 Budget, Introduction and overview
+- Town staff is pleased to present you with the first draft of the Town's 2027 budget. Much is derived from the 2025 audit
+- forward with nearly $3 million in grant opportunities
+- This is a very rough first version. This budget is not yet in the budget module in Open Gov but does align with the Town's
+- This budget baselines revenue on the 2025 audited basis. Expenses derive from the 2026 budget
+- TOWN OF GRAND LAKE · 2027 PRELIMINARY BUDGET
+- PRELIMINARY BUDGET
+- 1026 Park Avenue · PO Box 99 · Grand Lake, CO 80447
+- Kirsten Heckendorf Contract Bookkeeper
+- Dave Johnson Water Superintendent
+- Brian Kracke Code Enforcement Officer / Permit Tech
+- Budget Message
+- This preliminary 2027 budget is submitted for your review and workshop. It is a planning
+- document, not a proposal for adoption — it precedes the public hearings and the statutory
+- It differs from previous years in one important respect. Prior budgets were built forward from the
+- previous year's budget and year-to-date estimates. This one is built from the 2025 audited
+- statements are being worked through. Building the budget on audited figures gives the Board a
+- Setting aside grant-funded activity, the General Fund shows recurring revenue of $4,428,043
+- Town's share of four new grant contracts brings the General Fund deficit to ($589,184), funded
+- from a projected beginning fund balance of $2,939,617
+- identifiable and each is defensible on its own: a new Marketing and Communications
+- match on grant contracts; and roughly $90,000 of insurance increases now confirmed by
+- Four grant-funded service contracts were executed during 2026 and appear in a Town budget
+
+## [grand-lake#6] 2026-10-07 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue *Participation
+- 6. BOARD OF ADJUSTMENT - QUASI JUDICIAL (PUBLIC HEARING)
+- A. Resolution 03-2026: Variance Request from Setback Requirements for Property
+- B. Resolution 04-2026: Variance Request from Setback Requirements for Property
+- 13. PLANNING COMMISSION - QUASI JUDICIAL (PUBLIC HEARING)
+- A. Resolution 08-2026: Variance Request from Shoreline Setback Requirements for
+- application incorrectly identified the Board of Adjustment as the
+- hearing body. Pursuant to Town Code Section 12-2-29, shoreline
+- setback variance requests are reviewed by the Planning Commission,
+- action. The hearing date, time, location, property description, and
+- nature of the application as stated in the notices remain unchanged
+- 14. Future Items for Consideration
+
+## [grand-lake#7] 2026-10-07 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue *Participation
+- 6. BOARD OF ADJUSTMENT - QUASI JUDICIAL (PUBLIC HEARING)
+- A. Resolution 03-2026: Variance Request from Setback Requirements for Property
+- B. Resolution 04-2026: Variance Request from Setback Requirements for Property
+- 13. PLANNING COMMISSION - QUASI JUDICIAL (PUBLIC HEARING)
+- A. Resolution 08-2026: Variance Request from Shoreline Setback Requirements for
+- application incorrectly identified the Board of Adjustment as the
+- hearing body. Pursuant to Town Code Section 12-2-29, shoreline
+- setback variance requests are reviewed by the Planning Commission,
+- action. The hearing date, time, location, property description, and
+- nature of the application as stated in the notices remain unchanged
+- 14. Future Items for Consideration
+- that she would leave the meeting following consideration of Item A
+- 4. BOARD OF ADJUSTMENT - QUASI JUDICIAL (PUBLIC HEARING)
+- A. Resolution 01-2026: Variance Request from Side Yard Setback Requirements for
+- Emily Weber of Ayres Associates presented the variance request for 536 Cairns
+- Avenue on behalf of property owner Kay Shaffer. The request is for a variance
+- would provide private access separate from the neighboring property. She noted
+- public safety. Staff recommended approval of the variance request pursuant to
+- mother in support of the variance request. He explained that the existing residence
+- proposal had been discussed with the neighboring property owner to the east and
+- Chairman Shockey opened for public comment
+- Kirstin Heckendorf, 846 Lake Avenue- spoke in support of the variance request
+- property owner having a separate staircase. She indicated that the neighbors were
+- supportive of the request and had no concerns with the proposed variance
+- Sarah Clements, 848 Lake Avenue- spoke in support of the variance request. She
+- that her mother supports the owner’s efforts to make improvements to the
+- property. Ms. Clements also expressed agreement with the neighboring property
+- area due to the existing development patterns. She encouraged the Board to
+- consider approval of the request
+- Chairman Shockey closed public comment
+- Commissioner Bishop moved to approve Resolution 01-2026, a resolution
+- approving a variance request from setback requirements for property located at
+- B. Resolution 02-2026: Variance Request from Front Yard Setback Requirements for
+- Emily Weber presented the variance request for 536 Cairns Avenue on behalf of
+- the applicant’s representative. The request is for a variance from the required 25
+- elevator would be approximately 19 feet from the front property line and would
+
+## [grand-lake#8] 2026-10-08 | General Public | agenda
+- Board of Trustees 2027 Budget
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. 2027 Draft Budget
+
+## [grand-lake#9] 2026-10-12 | Board of Trustees | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. 2027 Budget Updates and Review
+- 14. Public Comments (Limited to 3 Minutes)
+- A. August 2026 Sales Tax
+- B. August 2026 Sales Tax by Industry
+- 17. Items of Discussion
+- A. Consideration of Approval of a New Special Event Permit Application and Resolution
+- B. Consideration of Approval of a Special Event Permit Application and Resolution 84
+- C. Consideration of Approval of a New Special Event Permit Application and Resolution
+- D. Quasi-Judicial: Consideration of Approval of a Special Event Liquor Permit Application
+- and Resolution No. 86-2026 for Rocky Mountain Folk School ‘Grand Lake ChristKindl
+- E. Consideration of Appointment of the 2027 Budget Officer
+- 18. Future Items for Consideration
+
+## [grand-lake#10] 2026-10-12 | Board of Trustees | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. 2027 Budget Updates and Review
+- 14. Public Comments (Limited to 3 Minutes)
+- A. August 2026 Sales Tax
+- B. August 2026 Sales Tax by Industry
+- 17. Items of Discussion
+- A. Consideration of Approval of a New Special Event Permit Application and Resolution
+- B. Consideration of Approval of a Special Event Permit Application and Resolution 84
+- C. Consideration of Approval of a New Special Event Permit Application and Resolution
+- D. Quasi-Judicial: Consideration of Approval of a Special Event Liquor Permit Application
+- and Resolution No. 86-2026 for Rocky Mountain Folk School ‘Grand Lake ChristKindl
+- E. Consideration of Appointment of the 2027 Budget Officer
+- 18. Future Items for Consideration
+- SUBJECT: Board workshop 3 — 2027 Budget updates and review
+- This iteration of the budget updates and incorporates the key items for change discussed at our budget workshops
+- September 28, 2026, and October 8, 2026. This draft will inform the next stages of budget leading to our public hearing
+- November 9, 2026, and final budget approval at the November 23, 2026, meeting
+- TO W N O F G R A N D L A K E , C O L O R A D O 2027 Preliminary Budget · At a glance
+- This is a preliminary budget for Board workshop. It has not been adopted. Every figure is built from the Town's 2025 audited financial
+- What those grants
+- Taxes $3.82M
+- Grants & intergovernmental $2.92M
+- Licenses & permits $247K
+- Sales tax alone is about 60% of the Town's own recurring revenue. Property tax is roughly 11%
+- Grant-funded programs $2.93M
+- Public Works & Parks $1.57M
+- Economic development grants $145K
+- Grant-funded programs are the largest single block, and almost all of that money comes from outside the Town
+- 2027 Preliminary Budget · prepared for the Board of Trustees, 21 September 2026 1 of 3
+- TO W N O F G R A N D L A K E , C O L O R A D O 2027 Preliminary Budget · What is new
+- Four grants, one new
+- The Town signed four grant-funded contracts during 2026 and opened its first workforce housing. Both show up in a Town budget for
+- How much of the budget is the Town’s own money?
+- Town’s own revenue · $4.65M Grants · $2.87M
+- Of $7.51M of General Fund revenue, $2.87M is grant money tied to four specific projects. It cannot be spent on anything else
+- The four grant programs
+- Program What it pays for Grant Cost toTown
+- Housing Action
+- A housing plan and new growth and water supply chapters for the Comprehensive Plan, with
+- Construction of the Stormwater Plan: swales, bioretention, drainage and erosion control to cut
+- For every $1 of Town money in these contracts, about $42 of outside funding comes with it
+
+## [grand-lake#11] 2026-10-13 | General Public | agenda
+- 5. Opening Discussion: What Makes Us Grand
+- 6. Items of Discussion
+- Manager working agreement
+- What Makes Us Grand campaign and phased local, regional and external plan; marketing structure, budget and
+- staffing; events policy, including fee waivers, food truck vendors and the mobile stage
+- 4. Items of Discussion
+- Presentation by Town Attorney Kathryn Sellars, Hoffmann, Parker, Wilson & Carberry, P.C., followed by questions
+- and discussion
+- 2027 budget and long-term planning: year-to-date results; revenue outlook (sales tax, lodging tax and enterprise
+- income); reserves policy; staffing capacity; performance metrics; direction on a five-year capital plan
+- E. Housing, Land and Parking
+- Mary Drive next steps and LERP performance; downtown property acquisition; parking direction; whether to
+- business will be discussed and no action will be taken
+- 5. Items of Discussion
+- Home Rule vs. Statutory Town; Colorado Wildfire Resiliency Code
+- B. 2027 Action Plan
+- Priorities, ownership, measures and dates; budget items; community engagement needs; three-year milestones
+- 7. Future Items for Consideration
+
+## [grand-lake#12] 2026-10-14 | General Public | agenda
+- 5. Opening Discussion: What Makes Us Grand
+- 6. Items of Discussion
+- Manager working agreement
+- What Makes Us Grand campaign and phased local, regional and external plan; marketing structure, budget and
+- staffing; events policy, including fee waivers, food truck vendors and the mobile stage
+- 4. Items of Discussion
+- Presentation by Town Attorney Kathryn Sellars, Hoffmann, Parker, Wilson & Carberry, P.C., followed by questions
+- and discussion
+- 2027 budget and long-term planning: year-to-date results; revenue outlook (sales tax, lodging tax and enterprise
+- income); reserves policy; staffing capacity; performance metrics; direction on a five-year capital plan
+- E. Housing, Land and Parking
+- Mary Drive next steps and LERP performance; downtown property acquisition; parking direction; whether to
+- business will be discussed and no action will be taken
+- 5. Items of Discussion
+- Home Rule vs. Statutory Town; Colorado Wildfire Resiliency Code
+- B. 2027 Action Plan
+- Priorities, ownership, measures and dates; budget items; community engagement needs; three-year milestones
+- 7. Future Items for Consideration
+
+## [grand-lake#13] 2026-10-15 | General Public | agenda
+- 5. Opening Discussion: What Makes Us Grand
+- 6. Items of Discussion
+- Manager working agreement
+- What Makes Us Grand campaign and phased local, regional and external plan; marketing structure, budget and
+- staffing; events policy, including fee waivers, food truck vendors and the mobile stage
+- 4. Items of Discussion
+- Presentation by Town Attorney Kathryn Sellars, Hoffmann, Parker, Wilson & Carberry, P.C., followed by questions
+- and discussion
+- 2027 budget and long-term planning: year-to-date results; revenue outlook (sales tax, lodging tax and enterprise
+- income); reserves policy; staffing capacity; performance metrics; direction on a five-year capital plan
+- E. Housing, Land and Parking
+- Mary Drive next steps and LERP performance; downtown property acquisition; parking direction; whether to
+- business will be discussed and no action will be taken
+- 5. Items of Discussion
+- Home Rule vs. Statutory Town; Colorado Wildfire Resiliency Code
+- B. 2027 Action Plan
+- Priorities, ownership, measures and dates; budget items; community engagement needs; three-year milestones
+- 7. Future Items for Consideration
+
+## [grand-lake#14] 2026-10-21 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- This time is reserved for members of the public to make a presentation to the
+- 5. Items of Discussion
+- A. QUASI-JUDICIAL (PUBLIC HEARING) Resolution 09-2026: Review and
+- Recommendation of a Final Development Application, Including a Final Plat, for a
+- Major Subdivision Located at 120 County Road 663
+- B. QUASI-JUDICIAL (PUBLIC HEARING) Resolution 10-2026: Review and
+- Recommendation Regarding Proposed Land Use Code Amendments to Sections 12-2
+- 6 Definitions, 12-2-29 Shoreline and Surface Water Regulations, 12-2-31 Special and
+- 12-8-2 Definitions, 12-9-1 Land Use Development Review Thresholds, 12-9-2 Major
+- Land Use Development Review Procedures and Submittal Requirements, 12-9-5
+- Failure to Begin Development or Show Substantial Progress and Review, 12-9-4 Minor
+- Development Submission Requirements, 12-9-7 Amendments to Land Use
+- Developments, and 12-9-10 Standards; and Creation of Town Code Section 12-6-11
+- Certifications, Article 11 Land Development Standards, and Article 12 Definitions
+- 6. Future Items for Consideration
+
+## [grand-lake#15] 2026-10-21 | Planning Commission | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- This time is reserved for members of the public to make a presentation to the
+- 5. Items of Discussion
+- A. QUASI-JUDICIAL (PUBLIC HEARING) Resolution 09-2026: Review and
+- Recommendation of a Final Development Application, Including a Final Plat, for a
+- Major Subdivision Located at 120 County Road 663
+- B. QUASI-JUDICIAL (PUBLIC HEARING) Resolution 10-2026: Review and
+- Recommendation Regarding Proposed Land Use Code Amendments to Sections 12-2
+- 6 Definitions, 12-2-29 Shoreline and Surface Water Regulations, 12-2-31 Special and
+- 12-8-2 Definitions, 12-9-1 Land Use Development Review Thresholds, 12-9-2 Major
+- Land Use Development Review Procedures and Submittal Requirements, 12-9-5
+- Failure to Begin Development or Show Substantial Progress and Review, 12-9-4 Minor
+- Development Submission Requirements, 12-9-7 Amendments to Land Use
+- Developments, and 12-9-10 Standards; and Creation of Town Code Section 12-6-11
+- Certifications, Article 11 Land Development Standards, and Article 12 Definitions
+- 6. Future Items for Consideration
+- FROM: Emily Weber, Contract Staff - Planning Department
+- SUBJECT: QUASI JUDICIAL (PUBLIC HEARING) – Resolution 09-2026: Review and
+- Major Subdivision located at 120 County Road 663.Overview
+- Project Location: 120 County Road 663
+- Project Zoning: Single Family Residential
+- Request: The applicant is proposing to
+- The property was annexed into the town in 2025
+- through Resolution 05-2025. The annexation
+- agreement included the following key
+- permitted. Each dwelling must be
+- accessible to fire and emergency
+- 2. The access road is unlikely to meet
+- for new residential developments. The
+- Town Water Department emphasized
+- the importance of the water main in
+- County Road 663, which supplies all of Grand Lake. This main is protected from freezing by a
+- burdensome, potentially disruptive to water service, and may not be physically feasible. Road
+- improvements are possible but must not endanger this critical infrastructure. Specifically,
+- 3. Stormwater improvements are required to mitigate flood risks, particularly following post-fire
+- flooding that impacted County Road 663. It is also required that drainage concerns are
+- review process: Sketch Plan, Preliminary Development Application, and Final Development
+- Application. The applicant completed the Sketch Plan review and received preliminary feedback
+- During the Sketch Plan review, both the Planning Commission and the Board of Trustees
+- The need for a drainage report demonstrating that County Road 663 will meet the
+- requirements outlined in the annexation agreement
+
+## [grand-lake#16] 2026-10-26 | Board of Trustees | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. Discussion – Boots, Bass & Big Air: Downtown Winter Event Concept
+- 14. Public Comments (Limited to 3 Minutes)
+- 16. Items of Discussion
+- A. Consideration of Approval of a Revised Proposal from SALT Workshop, Ltd. and
+- MetalMorphic Methods for the Town Square Park Marquee Sign, Not to Exceed
+- B. Public Hearing (Quasi-Judicial) – Consideration of Resolution No. 87-2026, a Variance
+- Request from Shoreline Setback Requirements for Property Located at 134 Mad
+- C. Ordinance XX-2026: Public Hearing and First Reading of an Ordinance Amending the
+- Surface Water Regulations, 12-2-31 Special and Conditional Use Regulations, 12-5-2
+- Development Review Thresholds, 12-9-2 Major Land Use Development Review
+- Procedures and Submittal Requirements, 12-9-5 Failure to Begin Development or
+- Show Substantial Progress and Review, 12-9-4 Minor Development Submission
+- Certifications, Article 11 Land Development Standards, and Article 12 Definitions
+- This item has been continued and is scheduled for consideration by the Board of Trustees
+- D. Consideration of Acceptance of the 2026 Board Retreat Recap, Confirmation of 2027
+- E. Discussion – 2027 Budget: Personnel and Benefit Costs Compared to Municipal
+- F. Discussion – 2027 Budget: Analysis of Proposed Wages and Benefits
+- G. Discussion – 2027 Budget: Review of the Complete Draft Budget Document Set Ahead
+- of the November 9 Public Hearing
+- 17. Future Items for Consideration
+
+## [grand-lake#17] 2026-10-26 | Board of Trustees | agenda
+- Town Hall Board Room - 1026 Park Avenue
+- 5. Items of Discussion
+- A. Discussion – Boots, Bass & Big Air: Downtown Winter Event Concept
+- 14. Public Comments (Limited to 3 Minutes)
+- 16. Items of Discussion
+- A. Consideration of Approval of a Revised Proposal from SALT Workshop, Ltd. and
+- MetalMorphic Methods for the Town Square Park Marquee Sign, Not to Exceed
+- B. Public Hearing (Quasi-Judicial) – Consideration of Resolution No. 87-2026, a Variance
+- Request from Shoreline Setback Requirements for Property Located at 134 Mad
+- C. Ordinance XX-2026: Public Hearing and First Reading of an Ordinance Amending the
+- Surface Water Regulations, 12-2-31 Special and Conditional Use Regulations, 12-5-2
+- Development Review Thresholds, 12-9-2 Major Land Use Development Review
+- Procedures and Submittal Requirements, 12-9-5 Failure to Begin Development or
+- Show Substantial Progress and Review, 12-9-4 Minor Development Submission
+- Certifications, Article 11 Land Development Standards, and Article 12 Definitions
+- This item has been continued and is scheduled for consideration by the Board of Trustees
+- D. Consideration of Acceptance of the 2026 Board Retreat Recap, Confirmation of 2027
+- E. Discussion – 2027 Budget: Personnel and Benefit Costs Compared to Municipal
+- F. Discussion – 2027 Budget: Analysis of Proposed Wages and Benefits
+- G. Discussion – 2027 Budget: Review of the Complete Draft Budget Document Set Ahead
+- of the November 9 Public Hearing
+- 17. Future Items for Consideration
+- Saturday, January 30, 2027. The working budget is $40,000. This is a workshop item to introduce the concept. No action
+- is requested; staff asks for Board direction before the organizer seeks permits, property approvals or sponsor
+- spectators, anglers, the snowmobile community and the Winter Park ski crowd a reason to stay downtown for the
+- Site: Grand Avenue as the center of the event, with Town Park as an adjacent gathering area. A DJ position on the roof
+- independently approve jump timing, engineering, spectator setbacks and emergency provisions
+- PROPOSED BUDGET
+- Rooftop platform / site infrastructure $1,500
+- Permits, safety, insurance and security $3,500
+- Event development, promotion, coordination, logistics and contingency $13,000
+- CONSIDERATIONS FOR THE BOARD
+- Same-weekend commitments. The Town has committed to services that maintain parking capacity and to The
+- Lift shuttle between town and Winding River Ranch during skijoring. A downtown evening event adds street
+- closures, parking demand and staff time on the same weekend
+- Public safety and liability. A snowmobile jump on a closed street in front of spectators is the highest-risk

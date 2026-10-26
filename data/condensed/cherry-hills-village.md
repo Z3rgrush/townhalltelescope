@@ -1,0 +1,318 @@
+# cherry-hills-village
+
+## [cherry-hills-village#0] 2026-08-06 | Board of Adjustment & Appeals | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+
+## [cherry-hills-village#1] 2026-08-11 | Planning & Zoning Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- Planning and Zoning Commission Agenda
+- The August 11, 2026, regularly scheduled meeting of the Planning and Zoning
+
+## [cherry-hills-village#2] 2026-08-13 | Parks, Trails & Recreation Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City of Cherry Hills Village at 303-789-2541, 72 hours in
+- Parks, Trails and Recreation Commission Agenda
+- The Thursday, August 13, 2026 meeting of the Parks, Trails and Recreation Commission
+
+## [cherry-hills-village#3] 2026-08-31 | Cherry Hills Village Art Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- a. Approval of July 27, 2026 Meeting Minutes
+- a. 2027 Work Plan Follow-Up and Art in Public Places Master Plan Update
+- Item 4a Approval of June 29, 2026, Minutes
+- The Commission discussed the annual election of officers. Members expressed support for
+- Muertos community event. He proposed replacing the previously discussed movie with a
+- confirmed that she had instructions for the tissue-paper flower activity. Members discussed
+- Commissioners Mirr and Blackledge discussed food trucks and simpler table-served foods
+- Cochair Ortiz-Hill identified delivered catering as another option, and Manager Black
+- recommended soft drinks and sparkling water. Cochair Ortiz-Hill proposed working
+- near their displayed pieces rather than holding a formal artist presentation. Commissioners
+- of a separate adult-oriented reception from approximately 5-6 p.m.; no final direction was
+- Cochair Ortiz-Hill will continue identifying a local author; a storyteller or reader will be
+- considered if an author is not available
+- Item 6b 2027 Work Plan
+- Manager Black reviewed revisions made following the June discussion. The proposed
+- large fundraising event had been removed and replaced with a broader additional events
+- based programming and art shows. She explained that the broader language would
+- Cochair Ortiz-Hill asked whether resident feedback or a survey should be included and
+- education and simple event feedback, while Commissioner Blackledge distinguished
+- could develop itself. Manager Black cautioned that a broad survey should have a defined
+- seeking focused feedback from event participants. Cochair Ortiz-Hill proposed a QR-code
+- Hills Village Art Commission 2027 Work Plan and recommend that it be presented to City
+- Coordinator White introduced discussion of changing the regular meeting schedule to
+- EMILY BLACK, PARKS PROJECT AND OPERATIONS MANAGER
+- Council Approval and Exhibit Status
+- On August 18, City Council unanimously approved the loan of the eight calaveras and their bases and
+- the associated art-loan agreement for an amount not to exceed $10,000. Council also authorized the
+- City Attorney to negotiate appropriate final changes and the Mayor to execute the agreement when
+- Direction from the July 27 Discussion
+- The July discussion substantially narrowed the event concept. The Commission generally supported
+- considered movie, with a storyteller as a backup if a suitable local author is not available
+- rather than structuring the family event around a formal artist presentation
+
+## [cherry-hills-village#4] 2026-09-03 | Board of Adjustment & Appeals | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+
+## [cherry-hills-village#5] 2026-09-08 | Planning & Zoning Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- Planning and Zoning Commission Agenda
+- a. Study Session – Legislative Rezoning and Lot Frontage – Paul Workman,
+- Community Development Director
+- a. Members of the Planning and Zoning Commission
+- ii. 2027 Work Plan for Council
+- Planning and Zoning Minutes
+- Minutes of the Planning and Zoning Commission of Cherry Hills Village, Colorado
+- Present at the meeting were the following Planning and Zoning Commissioners:
+- Absent from the meeting were the following Planning and Zoning Commissioners:
+- Paul Workman, Community Development Director
+- Jan Peciak, Planning and Building Permit Technician
+- Commissioner Wyman moved to approve the minutes of the April 14, 2026, meeting
+- Study Session – Master Plan Discussion On Sustainability And Resiliency– Paul
+- Workman, Community Development Director
+- Community Development Director Paul Workman opened the study session by
+- had expressed a desire to discuss topics that do not typically arise through the
+- traditional quasi-judicial or legislative application process. As a result, the Commission
+- identified its top issues from the Master Plan, which fell into three broad categories:
+- community character, land use and zoning, and sustainability and resiliency. The
+- community character discussion had taken place the previous month, and this session
+- use and zoning discussion was being deferred to a future meeting, in part because of
+- recent legal and legislative developments — specifically a lawsuit filed by Northglenn
+- informal and conversational in nature, and that a Master Plan Scorecard had been
+- enthusiasm for the Commission's sustainability discussions and encouraged the group
+- Director Workman introduced the first action item from the Master Plan, which
+- concerned creating an action plan to reduce the environmental footprint of City
+- work plan but that City Council ultimately determined that taxpayer dollars would be
+- areas that tend to draw the most public interest: the transition of police and public works
+- vehicles to electric, and the city's shift to fully electronic permitting and paperwork
+- that, based on his conversations with the Police Chief and the Director of Public Works,
+- demands of police vehicles — which must operate nearly around the clock and carry
+- Commissioner Wyman raised a concern about stormwater management, specifically
+- regarding roadside drainage ditches in areas with steeper grades, such as along the
+- South Holly Street as another area of potential concern. Director Workman
+
+## [cherry-hills-village#6] 2026-09-10 | Parks, Trails & Recreation Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- Parks, Trails, and Recreation Commission Agenda
+- a. 2027 Work Plan
+- Parks, Trails, and Recreation Commission
+- Minutes of the Parks, Trails & Recreation Commission
+- Martin Greer and Cate Darch. Also present were Parks Project & Operations Manager Emily
+- Black and Public Works & Parks Clerk Ginny Joseph
+- Item 5a Approval of April 9, 2026, Minutes
+- Item 7b 2027 Work Plan
+- Manager Black reviewed each item in the draft 2027 Work Plan with the Commission; she
+- Plan, one being Park Signage which the Commission can start working on in 2026 and the
+- 2027. Manager Black went over additional possible projects for 2027; Trail Passport
+- Program, Recreation Reimbursement Program, Activation of Volunteer Park, Conducting a
+- Chair Presecan asked if the Special Events budget was sufficient for all Parks events and if
+- heavy of a lift. Manager Black replied that the special events budget has been sufficient, but
+- higher budget; she added that the Commission can work on both Work Plan items but
+- Vice Chair Leviton suggested that Parks & Trails Visioning be added to the 2027 Work Plan
+- as it had appeared in previous years. The Commission discussed the idea and agreed to add
+- 2028 and Manager Black replied that the discussion can begin in 2027, but the actual study
+- were hit in the crosswalks by the High Line Canal. Manager Black replied that the Streets
+- Division was and she would speak to the Public Works Director about street improvements
+- Chair Presecan suggested adding Safety Identification and Improvements to the Parks &
+- Trails Visioning item and asked if safety items could fall under the Trail & Parks Improvement
+- budget item. Manager Black replied that they would
+- the idea and agreed to add it to the 2027 Work Plan. Vice Chair Leviton asked if the Cherry
+- The Commission discussed the Recreation Reimbursement Program and confirmed adding
+- the item to the 2027 Work Plan for late in 2027
+- Manager Black will make the additions of Trail Passport Program, Parks & Trails
+- Visioning, Bike Lane Improvements on Colorado, Quincy and Mansfield pending
+- discussion with the Public Works Director, keep Ebikes/Emotos on the 2027 plan and
+- roll over the Park Signage item from 2026 to the 2027 Work Plan; she will present the
+- edited 2027 Work Plan to the Commission at the next meeting
+- and asked if there was a plan for rules signage. Manager Black replied that there are hopes
+- TO: MEMBERS OF THE PARKS, TRAILS, AND RECREATION COMMISSION
+- FROM: EMILY BLACK, PARKS PROJECT & OPERATIONS MANAGER
+
+## [cherry-hills-village#7] 2026-09-15 | Cherry Hills Village Art Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- EMILY BLACK, PARKS PROJECT AND OPERATIONS MANAGER
+- Confirm the remaining program, vendor, budget and implementation decisions for the October 24,
+- Saturday, October 24, from 2-4 p.m. At the August 18 meeting, City Council approved the artwork
+- Hold one free family event from 2–4 p.m., without a separate adult reception
+- participating artists invited to mingle informally rather than give a separate presentation
+- requires AV setup. Fee: $250
+- presentation or $300 for two
+- Two presentations would
+- Select one or two presentations by
+- Guitarist A guitarist identified by
+- Approve the guitarist and authorize
+- Confirm the 120-kit assembly plan,
+- and identify leads for activities,
+- Budget Framework
+- After the approved $10,000 artwork loan, approximately $4,800 remains in the Public Art Display &
+- If the Commission selects one author presentation, the guitarist, the full food allowance, the balloon
+- October 5–24: Complete any approved mailing, finish supplies and kits, open the exhibit,
+- complete applicable contracting, insurance and purchasing steps and return for direction if an
+- approved element cannot be delivered within the Commission’s parameters
+- Exhibit A: Art Commission Budget
+- 2025 Budget 2025 Expenses 2026 Budget 2026 Expenses 2026 Balance
+- ITEM 4A: EXHIBIT A - Art Commission 2026 Budget
+- Provide direction on whether to initiate development of the 2027 Sculpture-on-Loan project brief in
+- Option Potential Work Considerations
+- Initiate the project
+- developing the project description,
+- consultant’s proposed budget would
+- return to the Commission for approval
+- before project work begins
+- Begin developing the project brief
+- selection, contracting and summer
+- BUDGET CONSIDERATIONS
+- report, leaving $4,687.50 available. The approved 2027 Work Plan anticipates $5,000 for art
+- adoption of the City's 2027 budget
+- consultant agreement, City staff and CHVAC first develop a project brief identifying the project
+- prepares a proposed project budget for Commission consideration. No project work or related
+- expenditure would proceed until the Commission approves that budget
+- The Commission should provide direction on whether to initiate development of the project brief in
+- Based on that direction, staff will coordinate development of the project brief with the Commission
+- and consultant. The completed brief and the consultant’s proposed project budget will return to the
+- Commission for consideration and formal action before project work begins
+
+## [cherry-hills-village#8] 2026-09-15 | City Council | minutes
+- Guckenberger, Finance Director Kelly Newman, Police Sergeant John-Norman Flaum,
+- has a limited scope of what it can regulate for wireless infrastructure up to fifty feet
+- Item 6a. Approval of September 1, 2026, Minutes
+- Resolution 29, Series 2026; Supporting Ballot Question 2C
+- Clerk Gillespie explained that at a prior meeting, the Council had approved Ordinance 8,
+- Series 2026, which referred a Charter amendment to voters at the November 3, 2026,
+- Council may pass a resolution supporting or opposing a ballot measure, subject to the
+- Mayor Pro T em Hoe lien suggested the resolution be amended to more forcefully
+- of statewide concern and yet does not apply to the entire state. Council discussed
+- where that language might be added in the resolution. City Attorney Guckenberger
+- indicated Council could approve the resolution with that amendment and she could draft
+- Councilor Heller then asked whether the resolution included language expressing the
+- City's intent to act to the fullest extent of the authority granted to it by the citizens of
+- Colorado and the state Constitution, in particular with respect to home rule zoning
+- that the actual Charter amendment language already states that these matters of local
+- Cramer directed Councilor Heller's attention to a separate whereas clause in the
+- resolution that states the Council desires to affirm the City's constitutionally granted
+- home rule authority over zoning and land use planning and regulation, particularly
+- the land use legislation purports to usurp the constitutionally granted plenary home rule
+- authority to regulate zoning and land use at the local level under the guise that it
+- in order to justify adopting legislation on the basis of a statewide concern when, in fact
+- framing might be more legally precise than what was needed for a support resolution
+- appropriate whereas clause outside of the meeting, and the resolution would be
+- approved subject to that addition
+- Resolution 30, Series 2026; Opposing Ballot Issue 7 A
+- District voters that would increase taxes. That measure would appear on the November
+- current District structure being used for taxing purposes and had directed staff to
+- prepare a resolution opposing the measure
+- Mayor Pro Tern Hoellen suggested the resolution be amended to more forcefully
+- Resolution 30, Series 2026; Opposing Ballot Issue 7A
+- tax and more about the manner in which the Front Range Passenger Rail District was
+- area within that radius. However, she noted that unincorporated Jefferson County,
+- which lies across the street from the planned stop at the intersection of Santa Fe and
+
+## [cherry-hills-village#9] 2026-09-28 | Cherry Hills Village Art Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- a. Approval of August 31, 2026 Meeting Minutes
+- b. Approval of September 15, 2026 Special Meeting Minutes
+- Staff noted that the August 31, 2026, minutes were not ready for consideration. Approval
+- Members discussed the proposed appearance by children's author Jolene Gutierrez and
+- discussed retaining a children 's-book element in another form and left that aspect for
+- The Commission discussed face painting. Because detailed sugar-skull designs would limit
+- people. Members supported continuing discussions with the Chili con Quesadilla food
+- would pre-purchase the food for attendees rather than allow individual sales. Members
+- also discussed supplementing the meal with simple desserts or cookie trays
+- Staff reported that craft materials had been purchased. Members discussed event layout
+- unavailable, staff would work with the City's contracted designer on the October
+- The Commission discussed beginning research for the 2027 Sculpture-on-Loan cycle
+- time to identify artists and available works before engaging the Commission's art
+- the fall and bringing ideas forward in November. The Commission discussed inviting the
+- project brief. Staff will request an estimate for the consultant's participation
+- The Commission discussed the existing dark-red logo color and whether a brighter cherry
+- Members supported developing accessible color alternatives for consideration at the
+- Members discussed cost, usefulness and which items would be appropriate for the
+- logo-color discussion at the September 28 meeting
+- Members discussed the Snow Plow Painting Program. Cherry Hills Village Elementary
+- The Commission also discussed the proposed regular meeting schedule. Staff noted that
+- This replaces the previously considered balloon arch and keeps décor flexible and low cost
+- EMILY BLACK, PARKS PROJECT AND OPERATIONS MANAGER
+- Continue discussion of the CHVAC logo color and determine whether additional color review is
+- At its September 15 special meeting, the Commission continued discussion of the red used in the
+- approved CHVAC logo. Members expressed interest in considering a brighter “cherry red” for future
+- applications and discussed developing possible alternatives for review at the September 28 meeting
+- rather than discarded and that most new branded-material purchases should wait until the logo-color
+- discussion is resolved
+- The current logo and dark-red treatment were approved following the Commission's 2025 design
+- Approved CHVART logs currently in use
+
+## [cherry-hills-village#10] 2026-10-01 | Board of Adjustment & Appeals | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+
+## [cherry-hills-village#11] 2026-10-06 | City Council | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- a. Approval of September 15, 2026 Minutes
+- b. Resolution 31, Series 2026; Appointing a New Member to the Cherry Hills
+- a. Resolution 32, Series 2026; Reappointing Members to the Planning and
+- Zoning Commission
+- operation of the federal Fair Housing Act in concert with the Cherry Hills Village
+- potential expansion of municipal parks within the City
+- Guckenberger, Finance Director Kelly Newman, Police Sergeant John-Norman Flaum,
+- has a limited scope of what it can regulate for wireless infrastructure up to fifty feet
+- Item 6a. Approval of September 1, 2026, Minutes
+- Resolution 29, Series 2026; Supporting Ballot Question 2C
+- Clerk Gillespie explained that at a prior meeting, the Council had approved Ordinance 8,
+- Series 2026, which referred a Charter amendment to voters at the November 3, 2026,
+- Council may pass a resolution supporting or opposing a ballot measure, subject to the
+- Mayor Pro Tem Hoellen suggested the resolution be amended to more forcefully
+- of statewide concern and yet does not apply to the entire state. Council discussed
+- where that language might be added in the resolution. City Attorney Guckenberger
+- indicated Council could approve the resolution with that amendment and she could draft
+- Councilor Heller then asked whether the resolution included language expressing the
+- City's intent to act to the fullest extent of the authority granted to it by the citizens of
+- Colorado and the state Constitution, in particular with respect to home rule zoning
+- that the actual Charter amendment language already states that these matters of local
+- Cramer directed Councilor Heller's attention to a separate whereas clause in the
+- resolution that states the Council desires to affirm the City's constitutionally granted
+- home rule authority over zoning and land use planning and regulation, particularly
+- the land use legislation purports to usurp the constitutionally granted plenary home rule
+- authority to regulate zoning and land use at the local level under the guise that it
+- in order to justify adopting legislation on the basis of a statewide concern when, in fact
+- framing might be more legally precise than what was needed for a support resolution
+- appropriate whereas clause outside of the meeting, and the resolution would be
+- approved subject to that addition
+- Resolution 30, Series 2026; Opposing Ballot Issue 7A
+- District voters that would increase taxes. That measure would appear on the November
+- current District structure being used for taxing purposes and had directed staff to
+
+## [cherry-hills-village#12] 2026-10-08 | Parks, Trails & Recreation Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City of Cherry Hills Village at 303-789-2541, 72 hours in
+- Parks, Trails and Recreation Commission Agenda
+- The Thursday, October 8, 2026 meeting of the Parks, Trails and Recreation Commission has
+
+## [cherry-hills-village#13] 2026-10-20 | City Council | agenda
+- f you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- City Council Agenda AMENDED
+- udy Session: 2027 Proposed Budget
+- a. Approval of October 6, 2026 Minutes
+- a. 2027 Work Plan Discussion
+- iii. Staff Approved Contracts Monthly Report
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- 402(4)(e), C.R.S, to discuss the possible purchase, acquisition, and transfer of real
+- to negotiations, developing strategy for negotiations, and instructing negotiators,
+- 402(4)(f), Colorado Revised Statutes, for the purpose of discussing personnel
+- SUBJECT: STUDY SESSION: 2027 PROPOSED BUDGET
+- Council received the initial draft 2027 budget on September 1, 2026, and it is now presented for a
+- study session. The public hearing and first reading of the budget ordinance is scheduled for
+- Please note this draft budget has a few placeholders and preliminary figures as staff are waiting to
+- draft of the 2027 budget:
+- compensation – a placeholder of 10% increase is included in the current budget, final
+- General Fund transfer to Parks Fund for the property tax holiday is included in the budget at
+- an estimated $4.5M – this will be adjusted to be the exact number of what the 2027 Parks
+- Fund property tax revenue would have been without the tax holiday when the final tax values
+- The following updates have been made since the initial draft budget that Council received on
+- A new Planner I FTE has been added to the 2027 Community Development Budget and Long
+- Range Financial Forecast and Building Permit revenue has been increased by a 1% multiplier
+- TAXPAYER RELIEF
+- Included in the 2027 draft budget is a temporary reduction of the Village’s property tax mill levy to
+- 0 mills for 2027, providing one -time property tax relief to Village taxpayers while preserving the
+- Village’s ability to restore the adopted mill levy beginning in 2028. The temporary reduction is
+- expected to provide approximately $8.5 million in total taxpayer relief, including approximately $4
+- million in reduced General Fund property tax revenue and $4.5 million in reduced Parks Fund
+- property tax revenue. For the average Cherry Hills Village homeowner, this represents an estimated
+- reduction of approximately $3,800 in the 2027 property tax bill. The exact revenue impact will be
+- finalized as 2027 assessed valuation and property tax collections are certified
+- The 2027 property tax reduction will have a direct impact on the General Fund budget, reducing
+- projected General Fund property tax revenue by approximately $4 million. Based on the Village’s

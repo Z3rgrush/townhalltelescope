@@ -1,0 +1,63 @@
+# arriba
+
+## [arriba#0] 2026-08-11 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Beverly Langley asked the Board if there was anything the Town could do about the rainwater
+- draining issue she is having at her house. The water runs off Pine Street and floods on the north
+- side of her house. The Board said they would add this as an agenda item to discuss it further
+- Beverly Langley said that Big Ben’s RV park should be charged more for water and sewer and
+- asked that the Board re-visit the RV park’s water and sewer rates
+- Approval of Agenda Clerk Hart asked that McCue RV Permit and Pine Street Drainage be
+- added under New Business. Trustee Steinsiek moved to approve the Agenda as amended
+- Approval of Minutes
+- Trustee Steinsiek moved to approve the minutes of the July 14 regular meeting as written
+- Approval of Accounts Receivable and Payable
+- Trustee Steinsiek moved to approve the receivables and payables for July. Trustee VanderWerf
+- Approval of Bills
+- Trustee VanderWerf moved to approve the August bills for payment. Trustee Steinsiek seconded
+- Wastewater Permit Regulations Clerk Hart said that Jess Solze was out cleaning sections of
+- the Town’s sewer main. She said that he increased his prices a bit, the Town usually spends
+- $5,000 to clean a section of the town every year, to maintain the number of feet cleaned she said
+- the main sewer lines from Oak Street to Pine Street were cleaned this year
+- McCue RV Permit Clerk Hart explained that Austin McCue submitted an application for an RV
+- permit, originally it had been for 120 Lincoln Ave, but it was changed to 214 Main Street
+- Mike Becker said that he put in an RV connection at 214 Main Street for Troy McCue. There
+- was discussion on what Troy should be charged for the work done. Mike Becker said he
+- connected the RV line to the sewer main that runs through the alley. There was discussion on if
+- Troy should be charged a sewer tap since the RV line was connected to the sewer main. Trustee
+- Pine Street Drainage Mike Becker said he could dig a ditch on the west side of Pine Street and
+- she could uncover the sidewalk on Pine Street. The Board agreed that this was fine
+- Ben’s RV Park would like to donate $2,500 to the Town. Clerk Hart suggested using this and
+- Conservation Trust Funds to put in a simple sprinkler system at the park. She said she would get
+- Maintenance Report Mike Becker said that there was flooding at the wastewater facility
+- He said that the influent meter board has been replaced and recalibrated, they were able to use a
+- capsule, she said she’s purchased protective sleeves and moisture absorption packs. She said she
+
+## [arriba#1] 2026-09-15 | City Council | minutes
+- Arriba Town Hall, 711 Front Street, Arriba, CO 80804
+- Beverly Langley asked the Board to review the water and sewer rates for RV’s and
+- truck route. The Board discussed putting speed bumps on College Ave and Lincoln Ave to
+- Approval of Agenda Trustee McCue moved to approve the Agenda as amended. Trustee
+- Approval of Minutes
+- Trustee Bailey moved to approve the minutes of the August 11 regular meeting as written
+- Approval of Accounts Receivable and Payable
+- Trustee McCue moved to approve the receivables and payables for August. Trustee Steinsiek
+- Approval of Bills
+- Trustee McCue moved to approve the September bills for payment. Trustee Steinsiek seconded
+- Wastewater Permit Regulations Mark Morton with GMS Inc gave an update on these issues
+- He explained that CDPHE has allowed the Town to revert to its old permit compliance, he said
+- that GMS is still working on the reports for the new permit regulations but are taking it slow. He
+- said the Town’s permit expires in 2027. He explained that CDPHE has 2 different study groups
+- researching permit improvements and feasibility studies on if and how towns can implement the
+- McCue RV Permit Clerk Hart explained that under the RV Ordinance, tap fees are not required
+- for RV hookups, so Troy McCue will not be charged a water tap fee, he will just be charged the
+- RV permit fee and for the use of the backhoe
+- Trustee Steinsiek moved to approve the McCue RV permit. Trustee VanderWerf seconded and
+- Park Sprinkler System There was discussion on Mike Becker and Brian Mohr putting in the
+- sprinkler system. There was discussion on renting a trencher for this
+- Speeding issue on College Ave and Lincoln Ave There was discussion on putting in speed
+- issues. Clerk Hart requested to go into Executive Session to discuss maintenance personnel
+- Trustee VanderWerf said that there is a stop sign missing on Grant and Lincoln, or it might be
+- Trustee Steinsiek moved to go into Executive Session to discuss maintenance personnel
+- The Board instructed Mayor Lightsey to request Mike Becker get a doctor’s release to work
+- Approved by the Board on: 10/13/26

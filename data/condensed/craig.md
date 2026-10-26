@@ -1,0 +1,188 @@
+# craig
+
+## [craig#0] 2026-09-08 | City Council | minutes
+- Mindy Elliott, City Clerk Katie Carmody, Police Chief Michael Cochran, Public Works
+- Director Danny Paul, Parks and Recreation Director Ryan Dennison, and GIS/Technology
+- Councilwoman Gottschall moved with a second by Councilman Tucker to approve the
+- A. Approval of Minutes from August 25, 2026, regular council meeting
+- B. Approval of Bills through August 31, 2026, in the amount of $570,578.61
+- C. Approval of Payroll and Benefits through August 28, 2026, in the amount of
+- D. Approval of the Appointments of Randy Vorhees, Lyndsay Haywood and June O'Neill
+- to serve three-year terms on the Parks, Recreation, Open Space & Trails Advisory
+- Councilman Tucker moved with a second by Coucilman Herod to approve the consent
+- agenda as presented, which included the approval of the minutes from the regular
+- council meeting on August 25, 2026, the approval of bills through August 31, 2026, in
+- the amount of $570,578.61, the approval of payroll and benefits for August 28, 2026,
+- in the amount of $507,670.59, and the approval of the Appointments of Randy
+- Vorhees, Lyndsay Haywood, and June O'Neill to serve three-year terms on the Parks,
+- A. Approval of the agenda for September 8, 2026, regular council meeting
+- Councilwoman Linsacum moved with a second by Councilman Herod to approve the
+- 6. Presentations
+- City Manager KC Hume updated the group on current and future meetings and projects
+- A. Police Chief Michael Cochran to present the August 2026 Police Report
+- Police Chief Michael Cochran presented the Police Report for August 2026
+- 9. Limited Public Comment
+- There was no limited public comment given
+- 10. Public Hearing
+- There was no Public Hearing scheduled
+- City Councilmembers discussed various meetings and events in which they participated in
+- 13. Closing Discussion and Informational Items
+- There was no discussion or requests for future agenda items
+
+## [craig#1] 2026-09-21 | Planning and Zoning Commission | agenda
+- Planning and Zoning Commission Meeting
+- 3. Approval of Minutes
+- A. Approval of Minutes from May 18, 2026
+- 4. Presentations
+- A. Bruce Timberg to present a tentative plan for vacant land owned by Mr. Timberg that lies east of the
+- intersection of Pine Street and East 12th Street
+- A. Consider a recommendation to City Council for a Site Plan request from Mike Thompson to
+- Business Park, Lot: 6, Block 1
+- Master Plan proposed to be completed by early 2028
+
+## [craig#2] 2026-09-21 | Planning and Zoning Commission | agenda
+- Planning and Zoning Commission Meeting
+- 3. Approval of Minutes
+- A. Approval of Minutes from May 18, 2026
+- 4. Presentations
+- A. Bruce Timberg to present a tentative plan for vacant land owned by Mr. Timberg that lies east of the
+- intersection of Pine Street and East 12th Street
+- A. Consider a recommendation to City Council for a Site Plan request from Mike Thompson to
+- Business Park, Lot: 6, Block 1
+- Master Plan proposed to be completed by early 2028
+- CRAIG PLANNING & ZONING COMMISSION MINUTES
+- The Craig Planning and Zoning Commission of the City of Craig, County of Moffat, State of
+- Colorado, met in the City Council Chambers, 300 West 4th Street, Craig Colorado, 81625, at the
+- Official Eckhoff presented the Commission with the Craig Business and Industrial Park Major
+- Subdivision Sketch Plan at TBD West 1st Street, Craig, CO 81625, Parcel #085501200008. Ryan
+- of the project and present the sketch plan. Eckhoff noted to the Commission that the sketch plan
+- is a broad concept and the first step of many to meet the City’s Land Use Code requirements
+- Peterson discussed with the Commission that there is much potential with the project as a whole
+- along with the possible economic impacts of adding office spaces, warehouses, large industry,
+- etc. Eckhoff discussed his memo with the Commission noting that all aspects of the sketch plan
+- sides of the primary access street and the emergency access loop. Vice Chairman Tucci asked
+- necessary. Commissioner Jenison noted the sketch plan being vague leading to questions of how
+- to plan sizing of buildings, infrastructure capacity, etc. Peterson noted there are limitations but
+- discussion from the Commission regarding concerns about feasibility and what the
+- Commission’s role is in approving the sketch plan. Eckhoff and Paul discussed with the
+- Commission that their the Commissions role is to determine if the sketch plan complies with
+- recommend City Council to approve the sketch plan as presented with the condition that either
+- sidewalks are added to bring the plan into compliance with the City of Craig’s Land Use Code or
+- Wildfire Resiliency Code (CWRC). Eckhoff noted that the City of Craig has adopted the CWRC
+- the CWRC as well as hosted a workshop for local contractors and homeowners. Paul gave the
+- Commission a brief overview of potential projects that may come before the Commission
+- including a site plan and two annexations
+- To: Planning & Zoning Commission
+- Subject Site plan from Mike Thompson to build a personal hobby shop at 791 Industrial
+- Ave. Green Tree Business Park Lot: 6, Block: 1
+
+## [craig#3] 2026-09-22 | City Council | minutes
+- A. Approval of minutes from September 8, 2026, regular council meeting
+- B. Approval of bills through September 17, 2026, in the amount of $799,365.94
+- C. Approval of Payroll and Benefits for September 11, 2026, in the amount of
+- Councilman Duran moved with a second by Councilwoman Gottschall to approve the
+- consent agenda as presented, which included the approval of the minutes from the
+- regular council meeting on September 8, 2026, the approval of bills through
+- September 17, 2026, in the amount of $799,365.94, and the approval of payroll and
+- A. Approval of the agenda for the September 22, 2026, regular council meeting
+- Councilwoman Linsacum moved with a second by Councilman Duran to approve the
+- the Economic Development Advisory Committee (EDAC) recommendation regarding
+- the Local Marketing District (LMD) Dissolution of funds request from Powder
+- 6. Presentations
+- There were no presentations scheduled
+- City Manager KC Hume updated the group on current and future meetings and projects
+- 9. Limited Public Comment
+- There was no limited public comment given
+- 10. Public Hearing
+- There was no Public Hearing scheduled
+- A. City Manager KC Hume to present for discussion and approval of the Economic
+- Development Advisory Committee (EDAC) recommendations for Local Marketing
+- City Manager KC Hume presented for discussion and approval the EDAC
+- LMD dissolution fund request. After further discussion, Councilman Duran moved
+- with a second by Councilman Tucker to approve the EDAC recommendation for the
+- request in the amount of $3,500.00. Ayes: 5. Nays: 0. Motion carried
+- request. After further discussion, Councilwoman Gottschall moved with a second by
+- Councilwoman Linsacum to approve the EDAC recommendation for the 2026 Moffat
+- County Balloon Festival LMD dissolution fund request in the amount of $15,000.00
+- request. After further discussion, Councilman Duran moved with a second by
+- Councilman Tucker to approve the EDAC recommendation for the Bear River Young
+- Life 2026 Car Show LMD dissolution fund request in the amount of $4,000.00. Ayes:
+- fund request. After further discussion, Councilwoman Gottschall moved with a second
+- by Councilman Tucker to approve the EDAC recommendation for the Downtown
+- Business Association Rock Fest LMD dissolution fund request in the amount of
+- dissolution fund request. After further discussion, Councilman Tucker moved with a
+- second by Councilman Duran to approve the Powder Mountain Ventures /
+- Powderbound Adventure LMD dissolution fund request in the amount of $15,000.00
+- vi. City Business Plan Competition
+- City Manager KC Hume presented for discussion and approval the Craig Business
+
+## [craig#4] 2026-10-13 | City Council | agenda
+- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
+- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
+- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
+- request that it be managed separately for discussion and consideration. Matters removed from the Consent
+- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+- A. Approval of Minutes from September 22, 2026, regular council meeting
+- B. Approval of Bills through October 8, 2026, in the amount of $1,061,561.21
+- A. Approval of the agenda for October 13, 2026, regular council meeting
+- 6. Presentations
+- A. Police Chief Mike Cochran to administer the Oath of Office to Axeel Mendoza
+- C. Cuyler Meade, Coordinator for 4A for Moffat County Kids, to present the School Bond Measure
+- B. Police Chief Mike Cochran to present Police Report for September 2026
+- C. City Manager KC Hume and EDAC Chair Chris Jones to present the Business Plan Competition
+- 9. Limited Public Comment
+- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
+- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
+- comment will be requested to stop their public comment by the presiding officer. If you have documents
+- For participation in public comment virtually, please email the City Clerk at the following email address:
+- 10. Public Hearing
+- A. Building Official Marlin Eckhoff to present for discussion and approval the Site Plan from Mike
+- Park, Lot 6, Block 1
+- B. City Manager KC Hume to present for discussion and approval Resolution No. 32 (2026) ~ A
+- Resolution of the City Council of the City of Craig, Colorado Designating Rich Thompson as the
+- City's Representative to the Carbon Free Futures Development Advisory Board
+- C. City Attorney Heather Cannon to present for discussion and approval Resolution No. 33 (2026) ~ A
+- Resolution of the City of Craig extending and reimposing the moratorium on the submission,
+- acceptance, processing, and approval of applications for the establishment of business that
+- 13. Closing Discussion and Informational Items
+
+## [craig#5] 2026-10-13 | City Council | agenda
+- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
+- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
+- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
+- request that it be managed separately for discussion and consideration. Matters removed from the Consent
+- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+- A. Approval of Minutes from September 22, 2026, regular council meeting
+- B. Approval of Bills through October 8, 2026, in the amount of $1,061,561.21
+- A. Approval of the agenda for October 13, 2026, regular council meeting
+- 6. Presentations
+- A. Police Chief Mike Cochran to administer the Oath of Office to Axeel Mendoza
+- C. Cuyler Meade, Coordinator for 4A for Moffat County Kids, to present the School Bond Measure
+- B. Police Chief Mike Cochran to present Police Report for September 2026
+- C. City Manager KC Hume and EDAC Chair Chris Jones to present the Business Plan Competition
+- 9. Limited Public Comment
+- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
+- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
+- comment will be requested to stop their public comment by the presiding officer. If you have documents
+- For participation in public comment virtually, please email the City Clerk at the following email address:
+- 10. Public Hearing
+- A. Building Official Marlin Eckhoff to present for discussion and approval the Site Plan from Mike
+- Park, Lot 6, Block 1
+- B. City Manager KC Hume to present for discussion and approval Resolution No. 32 (2026) ~ A
+- Resolution of the City Council of the City of Craig, Colorado Designating Rich Thompson as the
+- City's Representative to the Carbon Free Futures Development Advisory Board
+- C. City Attorney Heather Cannon to present for discussion and approval Resolution No. 33 (2026) ~ A
+- Resolution of the City of Craig extending and reimposing the moratorium on the submission,
+- acceptance, processing, and approval of applications for the establishment of business that
+- 13. Closing Discussion and Informational Items
+- A. Approval of minutes from September 8, 2026, regular council meeting
+- B. Approval of bills through September 17, 2026, in the amount of $799,365.94
+- C. Approval of Payroll and Benefits for September 11, 2026, in the amount of
+- Councilman Duran moved with a second by Councilwoman Gottschall to approve the
+
+## [craig#6] 2026-10-19 | Planning and Zoning Commission | agenda
+- Planning and Zoning Commission Meeting
+- 3. Approval of Minutes
+- A. Approval of Minutes from September 21, 2026
+- A. Consider a recommendation to City Council for a Deferred Recreational Amenities and Certificate
+- of Occupancy Agreement for the Tunatua RV Resort at 4175 W US-40, Craig, Colorado 81625

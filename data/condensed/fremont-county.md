@@ -1,0 +1,222 @@
+# fremont-county
+
+## [fremont-county#0] 2026-07-28 | City Council | minutes
+- Kevin Grantham Commissioner Present
+- Justin Grantham Clerk and Recorder Present
+- APPROVAL OF AGENDA
+- Commissioner McFall moved to approve the agenda as presented. Commissioner Grantham seconded
+- the motion. Upon Vote: Commissione r McFall, aye; Commissioner Grantham, aye; Commissioner Bell,
+- 1. Approval of Minutes / July 8, 2026, Special Meeting and July 14, 2026
+- 2. Approval of Bills for $2,734,632.19
+- 3. Resolution No.17, Series of 2026 Adopting the Amended Fremont County Body Art
+- 4. Schedule Public Hearings:
+- Requesting a Zone Change from Business to Residential One (R1). Representative: John
+- Commissioner Grantham moved to approve the consent agenda. Commissione r McFall seconded the
+- motion. Upon Vote: Commissioner Grantham, aye; Commissioner McFall, aye; Commissioner Bell, aye
+- a. County Clerk’s Monthly Report, Justin Grantham, County Clerk
+- Clerk Grantham presented the County Clerk’s Monthly Report, which is available in full at
+- Commissioner Grantham seconded the motion. Upon Vote: Commissioner McFall, aye; Commissioner
+- Grantham, aye; Commissioner Bell, aye. The motion carried by unanimous consent
+- Commissioner Grantham moved to accept the Public Trustee’s Quarterly Report. Commissioner
+- McFall seconded the motion. Upon Vote: Commissioner Grantham, aye; Commissioner McFall, aye;
+- Commissioner Grantham said August 1st marks the official 150th anniversary of Colorado's formation
+- transfer, sale, or purchase of a specific and long list of semi-automatic firearms. It bans rapid-fire
+- conversion devices and requires people who want to purchase one to take a firearm safety training
+- program completed through Colorado Parks and Wildlife
+- the last six years, she has led an annual policy resolution seeking and pledging financial support from
+- the steering committee and was granted full approval from the NACO board. Commissioner Bell sadly
+- whether actions taken or agreements made had supporting documentation and were followed through
+- operated by the Department of Human Services, specifically Medicaid and child support services. Mr
+- improvement project, as it was one of the largest in 2025. Mr. Logan concluded that his opinion was
+- Commissioner Grantham moved t o accept the 2025 Fremont County financial statements and
+- seconded the motion. Upon Vote: Commissione r Grantham , aye; Commissione r McFall , aye;
+- 2. Appointment of a new member to the Fremont County Fair Board for a term expiring
+- Commissioner McFall moved to appoint McKenna Long to the Fremont County Board with a term
+- ending December 31st of 2029 to complete this term and serve the next full term. Commissioner Grantham
+
+## [fremont-county#1] 2026-08-11 | City Council | minutes
+- Kevin Grantham Commissioner Present
+- Justin Grantham Clerk and Recorder Absent
+- Dan Victoria Planning & Zoning Director Present
+- APPROVAL OF AGENDA
+- Commissioner Grantham moved to approve the agenda, including the addition of Resolution Number
+- Upon vote: Commissioner Grantham, aye; Commissioner McFall, aye; Commissioner Bell, aye. The
+- 1. Approval of Minutes / July 28, 2026
+- 2. Approval of Bills for $1,335,233.38
+- 3. Resolution Approving SRU for Diana’s Pumpkin Patch from 2/19/2026
+- 4. Ratification of Chairman's Signature on Fremont County Public Health Agency
+- 5. Schedule Public Hearing: None
+- Commissioner McFall moved to approve the consent agenda. Commissione r Grantham seconded the
+- motion. Upon Vote: Commissioner McFall, aye; Commissioner Grantham, aye; Commissioner Bell, aye
+- a. Sales & Use Tax Report, Shawn Sutton, Budget & Finance Officer
+- Shawn Sutton gave the Sales & Use Tax Report, which can be found in its entirety at
+- totaling $188,192.00. On the other hand, fire danger in our county remains extreme; the county is so dry
+- that DOT has stopped mowing for fear of throwing sparks if the mower hits a rock
+- Charolette Burrous approached the podium to present an award to the commissioners on behalf of the
+- America’s Parade Committee for the Community Spirit Award
+- speak with the Sheriff and Chief of Police to hopefully reach an MOA and to notify officers to better
+- the Wright Brothers Master Pilot Award, the highest honor for certified pilots, for achieving 50 years of
+- safe flight operations. He also received the Charles Taylor Master Mechanic Award for 50 years of
+- received both awards. The proclamation can be viewed at the bottom of these minutes
+- Colorado. Commissioner Grantham seconded the motion. Upon Vote: Commissioner McFall, aye;
+- Commissioner Grantham, aye; Commissioner Bell, aye. The motion carried by unanimous consent
+- Public Health Director Gutierrez explained that before firefighters gained control of the north side of
+- the Aspen Acres Fire, the Bruce McCandless Veterans Community Living Center was in a very
+- plan, recognizing how quickly conditions can change. He said that, as someone with a background in
+- working together to plan and practice for a potential evacuation ever since the 24 Fire. Public Health
+- comment that it was very scary to have a fire so close, but she was very grateful for the tremendous help
+- Commissioner Grantham moved to approve the proclamation, proclaiming August 11th of 2026 as
+- Commissioner McFall seconded the motion. Upon Vote: Commissioner Grantham, aye; Commissioner
+
+## [fremont-county#2] 2026-08-25 | City Council | minutes
+- Kevin Grantham Commissioner Present
+- Justin Grantham Clerk and Recorder Absent
+- Dan Victoria Planning & Zoning Director Present
+- APPROVAL OF AGENDA
+- Commissioner Grantham moved to approve the agenda . Commissioner McFall seconded the motion
+- Upon Vote: Commissione r Grantham , aye; Commissione r McFall, aye ; Commissione r Bell , aye . The
+- 1. Approval of Minutes / August 11, 2026
+- 2. Approval of Bills for $4,001,117.19
+- 3. Ratification of Chairman's Signature on IGA for Weed Control Services
+- 4. Schedule Public Hearings: None
+- Commissioner McFall moved to approve the consent agenda. Commissione r Grantham seconded the
+- motion. Upon Vote: Commissioner McFall, aye; Commissioner Grantham, aye; Commissioner Bell, aye
+- Commissioner McFall shared the discussion from the previous Colorado Counties Incorporated
+- Nevada, and Arizona) of the Colorado River attempting to negotiate more water rights, but the main
+- low population. Since an agreement could not be reached, the federal government, through the Bureau of
+- Reclamation, decided that the Lower Basin must reduce its water use by 1.25 million acre-feet over
+- has the youngest water shares, meaning it must cut back the most. The settlement included a
+- 1. 2026 National Association of Counties Achievement Award presentation
+- Environment, for her work on the community-based impaired-driving prevention initiative. The award
+- Each year the achievement awards recognize outstanding programs in 18 categories aligned with the
+- was essential to her accomplishments. She explained that the grant began in 2023 for Impaired Driving,
+- Michelle for bringing so much honor to Fremont County and said the award is well deserved
+- Commissioner McFall moved to approve the proclamation, proclaiming August 2026 as Child Support
+- Awareness Month. Commissioner Grantham seconded the motion. Upon Vote: Commissione r McFall,
+- aye; Commissioner Grantham, aye; Commissioner Bell, aye. The motion carried by unanimous consent
+- passion project; it has been her life’s work. She said that, to raise awareness this month, they will be
+- Commissioner Grantham moved to approve the proclamation for National Suicide Prevention Month in
+- Fremont County. Commissioner McFall seconded the motion. Upon Vote: Commissioner Grantham, aye;
+- PUBLIC HEARING SCHEDULED 9:30 a.m
+- Requesting a Zone Change from Business to Residential One (R1). The property is located at
+- for personal use, and they plan to add a full bathroom to the unit. Since this will be for personal use only,
+- the owner is requesting that the lot be rezoned from commercial to residential
+
+## [fremont-county#3] 2026-09-08 | City Council | minutes
+- Kevin Grantham Commissioner Absent
+- Justin Grantham Clerk and Recorder Present
+- Dan Victoria Planning & Zoning Director Present
+- APPROVAL OF AGENDA
+- Commissioner McFall moved to approve the agenda as presented . Commissioner Bell seconded the
+- 1. Approval of Minutes / August 25, 2026
+- 2. Approval of Bills for $1,266,955.35
+- 3. Schedule Public Hearing: None
+- Commissioner McFall moved to approve the consent agenda. Commissioner Bell seconded the motion
+- a. County Clerk’s Monthly Report for July, Justin Grantham, County Clerk
+- Clerk Grantham presented the County Clerk’s Monthly Report, which is available in full at
+- than the state average, and clearly illustrate that everyone goes above and beyond. Commissioner Bell
+- SmitSmith reflected on his grandfather's life, he felt even prouder . His grandfather served as a police
+- officer for the Florence Police Department and moonlighted as a security officer. He demonstrated his
+- Commissioner McFall moved to approve the proclamation naming Security Officer Appreciation Week
+- 3. Requesting the issuance of a Hotel & Restaurant Liquor License for
+- 103 Broadway Unit 11, Penrose, CO 81240
+- was abandoned, which voided the previous license and made this application a new license rather than a
+- days, and both departments recommended approval. The file was then given to County Attorney Bellas
+- on August 11th; after his thorough review, Attorney Bellas recommended approval. The applicant is then
+- required to publish notification of the new license in the Daily Record at least 10 days before the
+- meeting today. Proof was on August 26th, along with proof of the poster at the establishment to notify
+- the public. After completing the application process, the Clerk’s office recommends approval
+- Commissioner McFall moved to approve the issuance of a Hotel & Restaurant Liquor License for CC &
+- J Enterprises LLC dba Chelsey’s at 103 Broadway, Unit 11 in Penrose. Commissioner Bell seconded the
+- 4. Amendment #1 CUP 11-001 Cañon Dolomite Quarry
+- Requesting to amend a condition of Conditional Use Permit (CUP) 11-001 Cañon Dolomite
+- Quarry, Resolution 12, Series of 2012, Section K, Recording #894566. Amrize is requesting that
+- the current truck traffic condition (Section K) be amended to include the “Annual Average Daily
+- Traffic” verbiage as stated in the original CDOT approval
+- Mr. Thurmann said the amendment to CUP 11 -001 requests an adjustment to Section K language for
+- recent surge in sales at this quarry. The quarry operates only a day or two each month. They are not
+- proposing to operate more days, but to accommodate random surges during those days of operation so
+
+## [fremont-county#4] 2026-09-22 | City Council | minutes
+- Kevin Grantham Commissioner Present
+- Justin Grantham Clerk and Recorder Absent
+- Dan Victoria Planning & Zoning Director Present
+- APPROVAL OF AGENDA
+- Commissioner Grantham moved to approve the agenda as presented. Commissioner McFall seconded
+- the motion. Upon Vote: Commissione r Grantham, aye; Commissioner McFall, aye. The motion carried
+- 1. Approval of Minutes / September 8, 2026
+- 2. Approval of Bills for $3,323,378.97
+- 3. Schedule Public Hearings:
+- The proposed development is a business that maintains and repairs RV roofs inside a
+- Commissioner McFall moved to approve the consent agenda. Commissione r Grantham seconded the
+- motion. Upon Vote: Commissione r McFall, aye; Commissioner Grantham, aye. The motion carried by
+- a. Sales & Use Tax Report, Shawn Sutton, Budget & Finance Officer
+- Commissioner McFall recited Resolution No. 22 recognizing Ron Blanchard's retirement and Years of
+- projects only get done when they work together. He enjoyed his time and thanked them all
+- Commissioner Grantham moved t o adopt Resolution No. 22 , recognizing Mr. Ron Blanchard's
+- Grantham, aye; Commissioner McFall, aye. The motion carried by unanimous consent
+- Commissioner Grantham recited the proclamation for National Scenic Byway Day, which appears
+- Commissioner Grantham moved to approve September 22 nd, 2026, as National Scen ic Byway Day
+- Commissioner McFall seconded the motion. Upon Vote: Commissione r Grantham, aye; Commissione r
+- Commissioner Grantham moved to approve the proclamation, recognizing October 2026 as Domestic
+- 4. Professional Review Fees Request
+- Planning and Zoning requests the ability to bill an applicant for review fees that exceed the
+- application fee for a current project
+- Representative: Dan Victoria, Director, Fremont County Planning & Zoning
+- Director Victoria said the department should request additional billing from the applicant for review
+- costs. The additional costs include the fees up to and including any amount that exceeds the application
+- fee for the current project. The excess fees result from the Planning & Zoning Department engaging an
+- outside consultant. The applicant requested an outside consultant after voicing a perceived staff bias
+- during the review of this project. Section 306 of the Fremont County Resolution allows the board, at its
+- discretion, to assess additional fees. In addition to the non-refundable application fee imposed by the
+- board through a separate resolution, the board may, at its discretion, assess additional fees and amounts
+- deemed appropriate by the board to cover the actual costs of evaluating the application, including, but
+
+## [fremont-county#5] 2026-09-28 | City Council | minutes
+- Kevin Grantham Commissioner Present
+- Justin D Grantham Clerk and Recorder Present
+- APPROVAL OF AGENDA
+- Commissioner Grantham moved to approve the agenda. Commissioner McFall seconded the motion
+- Upon Vote: Commissione r Grantham , aye; Commissione r McFall . The motion carried by unanimous
+- 1. Requesting the issuance of a New Liquor License for a Malt, Vinous, and
+- Shed. They are pursuing the approved uses as a restaurant, bar, and mercantile. The property has a 134
+- person occupancy, and they are in the final stages for all other applications submitted to open the building
+- for business. The health department has approved retail food service, and they are actively working with
+- the Colorado Department of Transportation (CDOT) to submit a highway access permit. CDOT should be
+- able to complete the traffic study now; they had difficulty getting accurate numbers because of nearby
+- construction. They plan to serve beer and wine with a moderate bar , serving drinks such as mimosas,
+- BOCC CLERK Sammy Ryan presented the application that Mrs. Burlon Hilterbran submitted on behalf
+- of Sam Banning on August 25th, 2026. All documents, including fees, proof of ownership, and background
+- layout and recommending approval. The Public Health and Building report first came back on September
+- 3rd, not recommending approval since the last reported use of the building was for a completely different
+- use and the applicants need to obtain a new access permit. On September 15th, the Clerk’s office received
+- another report from the Building Department, and now all departments recommended approval. County
+- Attorney Bellas reviewed the entire file on September 14th and recommended approval with a simple fix
+- to the application. The public notice poster was posted, and proof was sent on September 15th. The public
+- requirement before today’s meeting. After thorough review, the clerk’s office recommends approval
+- Commissioner Grantham asked for specific details regarding the complications with CDOT
+- permit allowed only 20 trips per day in and out of the property; this business would exceed that within an
+- hour. Because of this, CDOT requested a traffic study, but construction delays made it nearly impossible
+- to obtain an accurate one. Finally, CDOT completed the traffic analysis, and the applicant can submit their
+- highway access permit to CDOT. This will allow them to use the West gate instead of only the East gate
+- off Grant Street
+- access permit or whether this would prevent them from opening completely anyway
+- Commissioner Grantham moved to approve the request for the issuance of a new malt, vinous, and
+
+## [fremont-county#6] 2026-10-13 | City Council | agenda
+- V) Approval of Agenda
+- 1. Approval of Minutes / September 22, 2026 and September 28, 2026 Special
+- 2. Approval of Bills for $2,630,707.51
+- 3. Ratification of Commissioner McFall’s Signature on Delta Dental New Group
+- 4. Ratification of Commissioner McFall’s signature on Fremont County Airport Land
+- 5. Schedule Public Hearing:
+- A Planned Unit Development. The purpose is a proposed 152-lots at a minimum 3
+- Located at 1337 County Road 3A Canon City, CO 81212
+- b. Sales & Use Tax Report, Shawn Sutton, Budget & Finance Officer
+- 1. Resolution No.___, Series of 2026 Supporting Amendment 83 – Constitutional Right
+- 2. Resolution No. ___, Series of 2026 Opposing Amendment 87 – Graduated Income
+- 3. Resolution No.___, Series of 2026 Opposing Proposition NN – Keep and Spend
+- 4. Lease Renewal for Cotopaxi Fire Station with Deer Mountain Fire Protection District
+- 5. Reappointment of Jim Wick to the Fremont County Airport Advisory Board with a
+- 6. Reappointment of Lu Toxvard to the Fremont County Airport Advisory Board with a
+- X) Public Hearings Scheduled for 9:30 a.m.: None

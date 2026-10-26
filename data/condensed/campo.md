@@ -1,0 +1,88 @@
+# campo
+
+## [campo#0] 2026-08-06 | Technical Coordinating Committee | minutes
+- Julian Griffee, Chris Garcia, Landon Chandler, Bret Martin, Emma Linn, Kevin C
+- 3. Public Comments
+- There were no public comments
+- Requested Action: ..Action Approve the TCC Meeting Minutes of June 4, 2026
+- Requested Action: Approve the TCC Meeting Minutes of June 4, 2026
+- Matt Day made a motion to approve the TCC Meeting Minutes of June 4, 2026
+- Requested Action: Receive as information
+- Upgrades, NC 36/Veterans Parkway Improvements, Cleveland Road Upgrades, Covered
+- Bridge Road, and R-5950: Widening Swift Creek Road to 3 lanes near Johnston County
+- Airport projects. He then provided updates on the Johnston County Highway Maintenance
+- Improvement Program (HMIP) preservation and resurfacing projects over the next five
+- years, several bridge replacement projects, the US-70 Business at SR 1553 project, and
+- various Johnston County safety projects
+- data, and public input are all studied to determine which safety projects are selected
+- Mickey Biedell, NCDOT Division 5, provided an update on the resurfacing contracts
+- letting in FY 2027, including contracts within CAMPO boundaries, notable routes, and
+- County project as that is not allowable because of the funding source. It is also too late
+- in the process. We would need to look at projects for FY 2028-2029. Mr. Rickard
+- requested confirmation that CAMPO can consider submitting projects for incorporation
+- into the FY 2028 improvements. Mr. Biedell responded that it was possible, but that he
+- did not have an exact date when such projects could be incorporated
+- and future projects statuses, the 2026-2030 HMIP, mowing projects, where issues can be
+- Angier Bypass Project is scheduled for April 2028, but noted that the date is subject to
+- maintenance because it takes 10 years from the time a project is funded in SPOT to get
+- advantage of the ongoing NCDOT operations, maintenance, and safety projects so that
+- we can squeeze a little more capacity for mobility and safety improvements out of those
+- projects so more of our corridor and highway networks are getting some level of benefit
+- He commented that he expects NCDOT to see more of these requests and asked how
+- many of the Division representatives would consider coming to CAMPO in a LAPP
+- application to try to expand the scope of the FY 2028 resurfacing projects to do some
+- additional intersection improvements and such
+- Mr. Rickard asked Mr. Hart if that was Chalybeate Springs Road that was listed for 2028
+- intersection improvements identified on some of those intersections. Are we too late to
+- try and expand the scope of that resurfacing project to provide more improvements? Mr
+
+## [campo#1] 2026-08-19 | Executive Board | agenda
+- TDM Plan Update - Interlocal
+- Funding Agreement
+- PUBLIC HEARING:
+- Amendment #4 to FY 2026-2035
+- and the Technical Coordinating Committee's regular monthly meetings. There is an opportunity for public comment
+- request this document in an alternative format, please contact the MPO's office at 984-542-3601 (voice) at least
+- 72 hours in advance of the meeting. If you are hearing or speech is impaired and you use TTY (Teletypewriter
+- Service), please call North Carolina Relay at 800-735-2962 and request a connection to the Capital Area
+- receives Federal financial assistance. If you feel you have been subjected to discrimination, you may file a
+- with respect to matters coming before the TAC today? If so, please identify the conflict
+- 4. Public Comments
+- Approve the Executive Board Meeting Minutes of June 17, 2026Requested Action:
+- Triangle Transportation Choices (TDM) Plan Update - Interlocal Funding
+- Approve the Interlocal Funding Agreement and authorize the Executive
+- Director to sign the agreement
+- Requested Action:
+- CAMPO - NCDOT Funding Agreement
+- 6. Public Hearing
+- Conduct Public Hearing. Approve the recommended Regional Impact
+- LIP, accept donated Local Input Points for their respective projects, and
+- result in point adjustments with Chair approval
+- Locally Administered Projects Program (LAPP) FFY2028 Target Modal Mix
+- Conduct public hearing. Approve the FFY 2028 LAPP Program and open
+- the annual One-Call-for-All for LAPP and UPWP projects
+- Amendment #4 to FY 2026-2035 Transportation Improvement Program (TIP)
+- Conduct a public hearing. Approve Amendment #4 to the 2026-2035
+- Transportation Improvement Program
+- TIP Amendment #4
+- End of Public Hearings
+- Recommend the Executive Board adopt the resolution of support for the
+- Resolution of Support
+- Receive as informationRequested Action:
+- Project Funding Matrix
+- Program Call for Projects
+- 5310 Call for Projects Webinar Save the Date
+- Wake Transit Conference Committee Resolution
+- Receive as information. Requested Action:
+- 8. Informational Item: Budget
+- Operating Budget, FY2026
+- FY2026 Operating Budget Projection Q4
+- FY2026 Member's Dues Projection Q4
+- 9. Informational Item: Project Updates
+- Project Updates9.1
+- CAMPO Project Updates - August 2026
+- Division 6 Project Update - August 2026
+- Bonnie Parker, MPO Staff
+- Receive as information.Requested Action:
+- NCDOT Integrated Mobility Division
+- 1 Fenton Main Street, Suite 201

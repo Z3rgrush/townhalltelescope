@@ -4,7 +4,7 @@
    {
     "name": "Arvada",
     "share": 0.707,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -14,7 +14,7 @@
    {
     "name": "Adams County",
     "share": 0.062,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Wheat Ridge",
@@ -22,25 +22,41 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arvada/1",
+   "arvada/2",
+   "arvada/6",
+   "arvada/9",
+   "arvada/3",
+   "arvada/4",
+   "adams-county/2",
+   "adams-county/5"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80003": {
   "governments": [
    {
     "name": "Arvada",
     "share": 0.789,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Westminster",
     "share": 0.171,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.04,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -48,15 +64,32 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arvada/1",
+   "arvada/2",
+   "arvada/6",
+   "arvada/9",
+   "westminster/1",
+   "arvada/3",
+   "westminster/2",
+   "arvada/4"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0",
+     "westminster/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80004": {
   "governments": [
    {
     "name": "Arvada",
     "share": 0.992,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -64,20 +97,36 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arvada/1",
+   "arvada/2",
+   "arvada/6",
+   "arvada/9",
+   "arvada/3",
+   "arvada/4",
+   "arvada/0",
+   "arvada/13"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80005": {
   "governments": [
    {
     "name": "Arvada",
     "share": 0.882,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Westminster",
     "share": 0.084,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -85,15 +134,32 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arvada/1",
+   "arvada/2",
+   "arvada/6",
+   "arvada/9",
+   "arvada/3",
+   "westminster/1",
+   "arvada/4",
+   "westminster/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0",
+     "westminster/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80007": {
   "governments": [
    {
     "name": "Arvada",
     "share": 0.904,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -101,8 +167,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arvada/1",
+   "arvada/2",
+   "arvada/6",
+   "arvada/9",
+   "arvada/3",
+   "arvada/4",
+   "arvada/0",
+   "arvada/13"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80010": {
   "governments": [
@@ -114,12 +196,12 @@
    {
     "name": "Adams County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -135,7 +217,8 @@
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0"
     ],
     "site": false
    }
@@ -151,12 +234,12 @@
    {
     "name": "Adams County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -172,7 +255,8 @@
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0"
     ],
     "site": false
    }
@@ -193,23 +277,24 @@
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "aurora/0",
+   "denver/6",
    "aurora/1",
    "aurora/8",
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
-   "denver/5"
+   "denver/9",
+   "denver/1",
+   "denver/5",
+   "aurora/2"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -226,7 +311,7 @@
    {
     "name": "Arapahoe County",
     "share": 0.087,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -242,7 +327,8 @@
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0"
     ],
     "site": false
    }
@@ -263,23 +349,24 @@
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "aurora/0",
-   "denver/4",
-   "denver/10",
+   "denver/6",
+   "denver/9",
    "aurora/1",
    "aurora/8",
-   "denver/2",
-   "denver/3",
-   "denver/5"
+   "denver/1",
+   "denver/5",
+   "denver/10"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -291,7 +378,7 @@
    {
     "name": "Centennial",
     "share": 0.37,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Aurora",
@@ -301,23 +388,24 @@
    {
     "name": "Arapahoe County",
     "share": 0.31,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "aurora/0",
+   "centennial/0",
+   "centennial/2",
+   "centennial/1",
+   "centennial/5",
    "aurora/1",
    "aurora/8",
-   "aurora/2",
-   "aurora/3",
-   "aurora/5",
-   "aurora/6",
-   "aurora/7"
+   "arapahoe-county/0"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0"
     ],
     "site": false
    }
@@ -333,38 +421,40 @@
    {
     "name": "Arapahoe County",
     "share": 0.167,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Centennial",
     "share": 0.108,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Foxfield",
     "share": 0.012,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Douglas County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "aurora/0",
    "aurora/1",
    "aurora/8",
+   "centennial/0",
+   "centennial/2",
    "aurora/2",
    "aurora/3",
-   "aurora/5",
-   "aurora/6",
-   "aurora/7"
+   "aurora/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0",
+     "douglas-county/1"
     ],
     "site": false
    }
@@ -380,7 +470,7 @@
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -396,7 +486,8 @@
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0"
     ],
     "site": false
    }
@@ -412,7 +503,7 @@
    {
     "name": "Arapahoe County",
     "share": 0.148,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -428,7 +519,8 @@
   "tagged": {
    "data-center": {
     "ids": [
-     "aurora/0"
+     "aurora/0",
+     "arapahoe-county/0"
     ],
     "site": false
    }
@@ -444,18 +536,18 @@
    {
     "name": "Adams County",
     "share": 0.003,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "aurora/0",
    "aurora/1",
    "aurora/8",
+   "adams-county/2",
+   "adams-county/5",
    "aurora/2",
    "aurora/3",
-   "aurora/5",
-   "aurora/6",
-   "aurora/7"
+   "aurora/5"
   ],
   "tagged": {
    "data-center": {
@@ -476,7 +568,7 @@
    {
     "name": "Westminster",
     "share": 0.19,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -486,22 +578,29 @@
   ],
   "issues": [
    "broomfield/1",
-   "broomfield/3",
-   "broomfield/0",
    "broomfield/2",
    "broomfield/4",
-   "broomfield/5",
-   "broomfield/6",
-   "broomfield/9"
+   "westminster/1",
+   "westminster/2",
+   "westminster/5",
+   "westminster/10",
+   "westminster/3"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "westminster/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80021": {
   "governments": [
    {
     "name": "Westminster",
     "share": 0.728,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Broomfield",
@@ -515,16 +614,23 @@
    }
   ],
   "issues": [
+   "westminster/1",
    "broomfield/1",
-   "broomfield/3",
-   "broomfield/0",
+   "westminster/2",
+   "westminster/5",
+   "westminster/10",
    "broomfield/2",
    "broomfield/4",
-   "broomfield/5",
-   "broomfield/6",
-   "broomfield/9"
+   "westminster/3"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "westminster/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80022": {
   "governments": [
@@ -536,18 +642,18 @@
    {
     "name": "Adams County",
     "share": 0.135,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "commerce-city/1",
-   "commerce-city/0",
-   "commerce-city/5",
    "commerce-city/6",
-   "commerce-city/7",
-   "commerce-city/9",
-   "commerce-city/11",
-   "commerce-city/13"
+   "commerce-city/0",
+   "commerce-city/3",
+   "commerce-city/4",
+   "commerce-city/8",
+   "commerce-city/12",
+   "adams-county/2",
+   "adams-county/5"
   ],
   "tagged": {
    "data-center": {
@@ -568,12 +674,12 @@
    {
     "name": "Westminster",
     "share": 0.115,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.033,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Thornton",
@@ -583,18 +689,19 @@
   ],
   "issues": [
    "broomfield/1",
-   "broomfield/3",
-   "broomfield/0",
    "broomfield/2",
    "broomfield/4",
-   "broomfield/5",
-   "broomfield/6",
-   "broomfield/9"
+   "westminster/1",
+   "westminster/2",
+   "adams-county/2",
+   "adams-county/5",
+   "westminster/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "thornton/0"
+     "thornton/0",
+     "westminster/0"
     ],
     "site": false
    }
@@ -605,10 +712,19 @@
    {
     "name": "Adams County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
+   "adams-county/1",
+   "adams-county/8",
+   "adams-county/11",
+   "adams-county/3"
+  ],
   "tagged": {}
  },
  "80025": {
@@ -682,14 +798,14 @@
    }
   ],
   "issues": [
-   "louisville/2",
-   "louisville/6",
-   "louisville/3",
-   "louisville/12",
    "superior/0",
-   "louisville/7",
+   "louisville/3",
+   "louisville/6",
+   "louisville/2",
+   "louisville/12",
+   "louisville/5",
    "superior/1",
-   "louisville/0"
+   "louisville/1"
   ],
   "tagged": {}
  },
@@ -698,33 +814,50 @@
    {
     "name": "Westminster",
     "share": 0.959,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arvada",
     "share": 0.041,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "westminster/1",
+   "westminster/2",
+   "westminster/5",
+   "westminster/10",
+   "westminster/3",
+   "westminster/7",
+   "westminster/8",
+   "arvada/1"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "westminster/0",
+     "arvada/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80031": {
   "governments": [
    {
     "name": "Westminster",
     "share": 0.863,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.137,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -732,8 +865,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "westminster/1",
+   "westminster/2",
+   "westminster/5",
+   "westminster/10",
+   "adams-county/2",
+   "adams-county/5",
+   "westminster/3",
+   "westminster/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "westminster/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80033": {
   "governments": [
@@ -745,7 +894,7 @@
    {
     "name": "Arvada",
     "share": 0.023,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -753,8 +902,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arvada/1",
+   "arvada/2",
+   "arvada/6",
+   "arvada/9",
+   "arvada/3",
+   "arvada/4",
+   "arvada/0",
+   "arvada/13"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80045": {
   "governments": [
@@ -766,7 +931,7 @@
    {
     "name": "Adams County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -809,12 +974,12 @@
    {
     "name": "Arapahoe County",
     "share": 0.287,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.239,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Elbert County",
@@ -822,24 +987,56 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
+   "arapahoe-county/0",
+   "arapahoe-county/1",
+   "adams-county/1",
+   "adams-county/8"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80103": {
   "governments": [
    {
     "name": "Arapahoe County",
     "share": 0.806,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.194,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "arapahoe-county/0",
+   "arapahoe-county/1",
+   "adams-county/0",
+   "adams-county/10",
+   "adams-county/1",
+   "adams-county/8"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80104": {
   "governments": [
@@ -851,11 +1048,27 @@
    {
     "name": "Douglas County",
     "share": 0.05,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80105": {
   "governments": [
@@ -872,11 +1085,21 @@
    {
     "name": "Arapahoe County",
     "share": 0.128,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arapahoe-county/0",
+   "arapahoe-county/1"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80106": {
   "governments": [
@@ -893,11 +1116,27 @@
    {
     "name": "Douglas County",
     "share": 0.018,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80107": {
   "governments": [
@@ -909,10 +1148,19 @@
    {
     "name": "Elizabeth",
     "share": 0.122,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "elizabeth/1",
+   "elizabeth/0",
+   "elizabeth/7",
+   "elizabeth/2",
+   "elizabeth/3",
+   "elizabeth/4",
+   "elizabeth/5",
+   "elizabeth/6"
+  ],
   "tagged": {}
  },
  "80108": {
@@ -925,16 +1173,32 @@
    {
     "name": "Castle Pines",
     "share": 0.343,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Douglas County",
     "share": 0.212,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "castle-pines/0",
+   "castle-pines/1",
+   "castle-pines/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80109": {
   "governments": [
@@ -946,11 +1210,27 @@
    {
     "name": "Douglas County",
     "share": 0.048,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80110": {
   "governments": [
@@ -962,7 +1242,7 @@
    {
     "name": "Sheridan",
     "share": 0.208,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Denver",
@@ -972,7 +1252,7 @@
    {
     "name": "Arapahoe County",
     "share": 0.025,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Littleton",
@@ -981,18 +1261,19 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "sheridan/2",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "denver/10",
+   "denver/13",
+   "denver/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -1004,47 +1285,80 @@
    {
     "name": "Greenwood Village",
     "share": 0.367,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.352,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Centennial",
     "share": 0.247,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Cherry Hills Village",
     "share": 0.033,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "greenwood-village/0",
+   "centennial/0",
+   "centennial/2",
+   "greenwood-village/1",
+   "arapahoe-county/0",
+   "arapahoe-county/1",
+   "greenwood-village/7",
+   "greenwood-village/9"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80112": {
   "governments": [
    {
     "name": "Centennial",
     "share": 0.661,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.22,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Douglas County",
     "share": 0.118,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "centennial/0",
+   "centennial/2",
+   "centennial/1",
+   "centennial/5",
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0",
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80113": {
   "governments": [
@@ -1056,27 +1370,59 @@
    {
     "name": "Cherry Hills Village",
     "share": 0.226,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.007,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "cherry-hills-village/3",
+   "cherry-hills-village/4",
+   "cherry-hills-village/1",
+   "cherry-hills-village/2",
+   "cherry-hills-village/5",
+   "arapahoe-county/0",
+   "arapahoe-county/1",
+   "cherry-hills-village/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80116": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 0.999,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80117": {
   "governments": [
@@ -1088,10 +1434,17 @@
    {
     "name": "Kiowa",
     "share": 0.264,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "kiowa/0",
+   "kiowa/1",
+   "kiowa/2",
+   "kiowa/3",
+   "kiowa/4",
+   "kiowa/5"
+  ],
   "tagged": {}
  },
  "80118": {
@@ -1099,7 +1452,7 @@
    {
     "name": "Douglas County",
     "share": 0.966,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larkspur",
@@ -1107,8 +1460,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80120": {
   "governments": [
@@ -1120,28 +1489,38 @@
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arapahoe-county/0",
+   "arapahoe-county/1"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80121": {
   "governments": [
    {
     "name": "Centennial",
     "share": 0.731,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Greenwood Village",
     "share": 0.2,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.034,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Littleton",
@@ -1151,18 +1530,34 @@
    {
     "name": "Cherry Hills Village",
     "share": 0.011,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "centennial/0",
+   "centennial/2",
+   "greenwood-village/0",
+   "centennial/1",
+   "centennial/5",
+   "greenwood-village/1",
+   "centennial/4",
+   "greenwood-village/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80122": {
   "governments": [
    {
     "name": "Centennial",
     "share": 0.925,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Littleton",
@@ -1172,11 +1567,27 @@
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "centennial/0",
+   "centennial/2",
+   "centennial/1",
+   "centennial/5",
+   "centennial/4",
+   "arapahoe-county/0",
+   "arapahoe-county/1",
+   "centennial/3"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80123": {
   "governments": [
@@ -1198,17 +1609,17 @@
    {
     "name": "Lakewood",
     "share": 0.038,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Columbine Valley",
     "share": 0.032,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.024,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Bow Mar",
@@ -1217,18 +1628,19 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -1245,33 +1657,81 @@
    {
     "name": "Douglas County",
     "share": 0.372,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80125": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 0.999,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80126": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80127": {
   "governments": [
@@ -1304,18 +1764,28 @@
    {
     "name": "Arapahoe County",
     "share": 0.024,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "arapahoe-county/0",
+   "arapahoe-county/1"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80129": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 0.982,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Littleton",
@@ -1323,30 +1793,78 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80130": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80131": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80132": {
   "governments": [
@@ -1358,23 +1876,39 @@
    {
     "name": "Monument",
     "share": 0.378,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Palmer Lake",
     "share": 0.007,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "monument/0",
+   "monument/1",
+   "monument/2",
+   "monument/3",
+   "monument/9",
+   "monument/12",
+   "palmer-lake/4",
+   "palmer-lake/9"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "palmer-lake/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80133": {
   "governments": [
    {
     "name": "Palmer Lake",
     "share": 0.965,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -1382,31 +1916,63 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "palmer-lake/4",
+   "palmer-lake/9",
+   "palmer-lake/8",
+   "palmer-lake/10",
+   "palmer-lake/2",
+   "palmer-lake/3",
+   "palmer-lake/6",
+   "palmer-lake/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "palmer-lake/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80134": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 0.525,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Parker",
     "share": 0.474,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "parker/8",
+   "douglas-county/4",
+   "parker/7",
+   "parker/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80135": {
   "governments": [
    {
     "name": "Douglas County",
     "share": 0.988,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -1414,36 +1980,68 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "douglas-county/4",
+   "douglas-county/11",
+   "douglas-county/12",
+   "douglas-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80136": {
   "governments": [
    {
     "name": "Adams County",
     "share": 0.695,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.305,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
+   "adams-county/1",
+   "adams-county/8",
+   "adams-county/11",
+   "arapahoe-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arapahoe-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80137": {
   "governments": [
    {
     "name": "Arapahoe County",
     "share": 0.546,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.422,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Aurora",
@@ -1452,18 +2050,19 @@
    }
   ],
   "issues": [
-   "aurora/0",
-   "aurora/1",
-   "aurora/8",
-   "aurora/2",
-   "aurora/3",
-   "aurora/5",
-   "aurora/6",
-   "aurora/7"
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
+   "arapahoe-county/0",
+   "arapahoe-county/1",
+   "adams-county/1",
+   "adams-county/8"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "aurora/0"
     ],
     "site": false
@@ -1475,12 +2074,12 @@
    {
     "name": "Parker",
     "share": 0.649,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Douglas County",
     "share": 0.207,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Elbert County",
@@ -1488,8 +2087,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "parker/8",
+   "parker/7",
+   "parker/10",
+   "douglas-county/0",
+   "douglas-county/8",
+   "douglas-county/10",
+   "douglas-county/13",
+   "parker/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "douglas-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "80202": {
   "governments": [
@@ -1500,13 +2115,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1527,13 +2142,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1554,13 +2169,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1581,13 +2196,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1608,13 +2223,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1635,13 +2250,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1662,13 +2277,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1689,13 +2304,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1716,13 +2331,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1749,12 +2364,12 @@
    {
     "name": "Adams County",
     "share": 0.051,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mountain View",
     "share": 0.027,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -1763,13 +2378,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1786,12 +2401,12 @@
    {
     "name": "Lakewood",
     "share": 0.707,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Edgewater",
     "share": 0.189,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Wheat Ridge",
@@ -1810,14 +2425,14 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "lakewood/7",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "lakewood/0",
+   "lakewood/3",
+   "lakewood/5"
   ],
   "tagged": {
    "data-center": {
@@ -1833,7 +2448,7 @@
    {
     "name": "Lakewood",
     "share": 0.946,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Wheat Ridge",
@@ -1846,7 +2461,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "lakewood/7",
+   "lakewood/0",
+   "lakewood/3",
+   "lakewood/5",
+   "lakewood/6",
+   "lakewood/9",
+   "lakewood/1",
+   "lakewood/2"
+  ],
   "tagged": {}
  },
  "80216": {
@@ -1859,17 +2483,17 @@
    {
     "name": "Adams County",
     "share": 0.028,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1890,13 +2514,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1917,13 +2541,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1950,17 +2574,17 @@
    {
     "name": "Adams County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -1978,7 +2602,7 @@
    {
     "name": "Adams County",
     "share": 0.859,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Denver",
@@ -1987,14 +2611,14 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
-   "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "adams-county/2",
+   "adams-county/5",
+   "denver/6",
+   "adams-county/0",
+   "adams-county/10",
+   "denver/9",
+   "denver/1",
+   "denver/5"
   ],
   "tagged": {
    "data-center": {
@@ -2015,22 +2639,23 @@
    {
     "name": "Arapahoe County",
     "share": 0.12,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -2046,13 +2671,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2074,22 +2699,23 @@
    {
     "name": "Arapahoe County",
     "share": 0.008,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -2101,7 +2727,7 @@
    {
     "name": "Lakewood",
     "share": 0.99,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Denver",
@@ -2115,14 +2741,14 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "lakewood/7",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "lakewood/0",
+   "lakewood/3",
+   "lakewood/5"
   ],
   "tagged": {
    "data-center": {
@@ -2138,7 +2764,7 @@
    {
     "name": "Lakewood",
     "share": 0.674,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Denver",
@@ -2152,14 +2778,14 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "lakewood/7",
+   "denver/10",
+   "denver/13",
+   "denver/4"
   ],
   "tagged": {
    "data-center": {
@@ -2175,7 +2801,7 @@
    {
     "name": "Lakewood",
     "share": 0.971,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -2183,7 +2809,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "lakewood/7",
+   "lakewood/0",
+   "lakewood/3",
+   "lakewood/5",
+   "lakewood/6",
+   "lakewood/9",
+   "lakewood/1",
+   "lakewood/2"
+  ],
   "tagged": {}
  },
  "80229": {
@@ -2196,18 +2831,18 @@
    {
     "name": "Adams County",
     "share": 0.322,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
    "thornton/1",
    "thornton/6",
-   "thornton/0",
-   "thornton/3",
-   "thornton/4",
-   "thornton/11",
-   "thornton/2",
-   "thornton/5"
+   "adams-county/1",
+   "adams-county/8"
   ],
   "tagged": {
    "data-center": {
@@ -2227,13 +2862,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2255,22 +2890,23 @@
    {
     "name": "Arapahoe County",
     "share": 0.414,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -2282,7 +2918,7 @@
    {
     "name": "Lakewood",
     "share": 0.892,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -2290,7 +2926,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "lakewood/7",
+   "lakewood/0",
+   "lakewood/3",
+   "lakewood/5",
+   "lakewood/6",
+   "lakewood/9",
+   "lakewood/1",
+   "lakewood/2"
+  ],
   "tagged": {}
  },
  "80233": {
@@ -2308,18 +2953,18 @@
    {
     "name": "Adams County",
     "share": 0.002,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "thornton/1",
    "thornton/6",
+   "adams-county/2",
+   "adams-county/5",
    "thornton/0",
    "thornton/3",
    "thornton/4",
-   "thornton/11",
-   "thornton/2",
-   "thornton/5"
+   "adams-county/0"
   ],
   "tagged": {
    "data-center": {
@@ -2335,7 +2980,7 @@
    {
     "name": "Westminster",
     "share": 0.66,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Northglenn",
@@ -2350,20 +2995,27 @@
    {
     "name": "Adams County",
     "share": 0.005,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "broomfield/1",
-   "broomfield/3",
-   "broomfield/0",
-   "broomfield/2",
-   "broomfield/4",
-   "broomfield/5",
-   "broomfield/6",
-   "broomfield/9"
+   "westminster/1",
+   "westminster/2",
+   "westminster/5",
+   "westminster/10",
+   "westminster/3",
+   "westminster/7",
+   "westminster/8",
+   "broomfield/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "westminster/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80235": {
   "governments": [
@@ -2380,18 +3032,18 @@
    {
     "name": "Lakewood",
     "share": 0.283,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "denver/10",
+   "denver/13",
+   "lakewood/7",
+   "denver/4"
   ],
   "tagged": {
    "data-center": {
@@ -2412,27 +3064,28 @@
    {
     "name": "Sheridan",
     "share": 0.075,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -2448,13 +3101,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2475,13 +3128,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2502,13 +3155,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2535,7 +3188,7 @@
    {
     "name": "Adams County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -2544,9 +3197,9 @@
    "thornton/0",
    "thornton/3",
    "thornton/4",
-   "thornton/11",
-   "thornton/2",
-   "thornton/5"
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0"
   ],
   "tagged": {
    "data-center": {
@@ -2572,22 +3225,23 @@
    {
     "name": "Arapahoe County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "denver/7"
+   "denver/10",
+   "denver/13",
+   "glendale/3",
+   "denver/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -2604,7 +3258,7 @@
    {
     "name": "Arapahoe County",
     "share": 0.268,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Aurora",
@@ -2613,19 +3267,20 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
-   "aurora/0"
+   "aurora/0",
+   "denver/10",
+   "denver/13",
+   "denver/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "aurora/0",
+     "arapahoe-county/0",
      "denver/0"
     ],
     "site": false
@@ -2641,13 +3296,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2669,7 +3324,7 @@
    {
     "name": "Federal Heights",
     "share": 0.392,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Northglenn",
@@ -2679,28 +3334,29 @@
    {
     "name": "Westminster",
     "share": 0.04,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.003,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "thornton/1",
    "thornton/6",
+   "westminster/1",
+   "adams-county/2",
+   "adams-county/5",
    "thornton/0",
    "thornton/3",
-   "thornton/4",
-   "thornton/11",
-   "thornton/2",
-   "thornton/5"
+   "thornton/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "thornton/0"
+     "thornton/0",
+     "westminster/0"
     ],
     "site": false
    }
@@ -2715,13 +3371,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2742,13 +3398,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2769,13 +3425,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2796,13 +3452,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -2823,13 +3479,13 @@
    }
   ],
   "issues": [
-   "denver/4",
-   "denver/10",
-   "denver/2",
-   "denver/3",
+   "denver/6",
+   "denver/9",
+   "denver/1",
    "denver/5",
-   "denver/11",
-   "denver/15",
+   "denver/10",
+   "denver/13",
+   "denver/4",
    "denver/7"
   ],
   "tagged": {
@@ -3001,15 +3657,24 @@
    {
     "name": "Golden",
     "share": 0.358,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Lakewood",
     "share": 0.092,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "golden/0",
+   "golden/2",
+   "golden/1",
+   "golden/5",
+   "golden/6",
+   "golden/10",
+   "golden/12",
+   "golden/7"
+  ],
   "tagged": {}
  },
  "80403": {
@@ -3022,12 +3687,12 @@
    {
     "name": "Golden",
     "share": 0.253,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Arvada",
     "share": 0.131,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Boulder County",
@@ -3037,27 +3702,34 @@
    {
     "name": "Gilpin County",
     "share": 0.024,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
+   "golden/0",
+   "golden/2",
+   "golden/1",
+   "golden/5",
+   "arvada/1",
    "boulder-county/0",
-   "boulder-county/7",
-   "boulder-county/2",
-   "boulder-county/1",
-   "boulder-county/3",
-   "boulder-county/4",
-   "boulder-county/5",
-   "boulder-county/6"
+   "golden/6",
+   "golden/10"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "arvada/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80419": {
   "governments": [
    {
     "name": "Golden",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Jefferson County",
@@ -3065,7 +3737,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "golden/0",
+   "golden/2",
+   "golden/1",
+   "golden/5",
+   "golden/6",
+   "golden/10",
+   "golden/12",
+   "golden/7"
+  ],
   "tagged": {}
  },
  "80420": {
@@ -3073,7 +3754,7 @@
    {
     "name": "Park County",
     "share": 0.681,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Alma",
@@ -3081,34 +3762,75 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80421": {
   "governments": [
    {
     "name": "Park County",
     "share": 0.997,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80422": {
   "governments": [
    {
     "name": "Gilpin County",
     "share": 0.991,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Black Hawk",
     "share": 0.009,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gilpin-county/3",
+   "gilpin-county/5",
+   "gilpin-county/2",
+   "gilpin-county/0",
+   "gilpin-county/1",
+   "gilpin-county/4",
+   "gilpin-county/6",
+   "gilpin-county/8"
+  ],
   "tagged": {}
  },
  "80423": {
@@ -3121,10 +3843,19 @@
    {
     "name": "Grand County",
     "share": 0.153,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80424": {
@@ -3132,7 +3863,7 @@
    {
     "name": "Breckenridge",
     "share": 0.485,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Summit County",
@@ -3142,10 +3873,19 @@
    {
     "name": "Blue River",
     "share": 0.084,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "breckenridge/1",
+   "breckenridge/2",
+   "breckenridge/5",
+   "breckenridge/12",
+   "blue-river/0",
+   "breckenridge/0",
+   "breckenridge/6",
+   "breckenridge/8"
+  ],
   "tagged": {}
  },
  "80425": {
@@ -3180,15 +3920,24 @@
    {
     "name": "Gilpin County",
     "share": 0.171,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Black Hawk",
     "share": 0.088,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gilpin-county/3",
+   "gilpin-county/5",
+   "gilpin-county/2",
+   "black-hawk/2",
+   "gilpin-county/0",
+   "gilpin-county/1",
+   "gilpin-county/4",
+   "gilpin-county/6"
+  ],
   "tagged": {}
  },
  "80428": {
@@ -3196,10 +3945,19 @@
    {
     "name": "Routt County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "80430": {
@@ -3218,11 +3976,27 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80433": {
   "governments": [
@@ -3272,10 +4046,19 @@
    {
     "name": "Clear Creek County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "clear-creek-county/2",
+   "clear-creek-county/1",
+   "clear-creek-county/4",
+   "clear-creek-county/0",
+   "clear-creek-county/6",
+   "clear-creek-county/7",
+   "clear-creek-county/9",
+   "clear-creek-county/11"
+  ],
   "tagged": {}
  },
  "80438": {
@@ -3288,10 +4071,19 @@
    {
     "name": "Clear Creek County",
     "share": 0.354,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "clear-creek-county/2",
+   "clear-creek-county/1",
+   "clear-creek-county/4",
+   "clear-creek-county/0",
+   "clear-creek-county/6",
+   "clear-creek-county/7",
+   "clear-creek-county/9",
+   "clear-creek-county/11"
+  ],
   "tagged": {}
  },
  "80439": {
@@ -3304,10 +4096,19 @@
    {
     "name": "Clear Creek County",
     "share": 0.146,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "clear-creek-county/2",
+   "clear-creek-county/1",
+   "clear-creek-county/4",
+   "clear-creek-county/0",
+   "clear-creek-county/6",
+   "clear-creek-county/7",
+   "clear-creek-county/9",
+   "clear-creek-county/11"
+  ],
   "tagged": {}
  },
  "80440": {
@@ -3315,31 +4116,56 @@
    {
     "name": "Park County",
     "share": 0.718,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fairplay",
     "share": 0.282,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "fairplay/0",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "fairplay/3",
+   "park-county/0",
+   "park-county/13"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80442": {
   "governments": [
    {
     "name": "Fraser",
     "share": 0.546,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Grand County",
     "share": 0.454,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fraser/0",
+   "fraser/11",
+   "fraser/2",
+   "fraser/3",
+   "fraser/6",
+   "fraser/4",
+   "fraser/5",
+   "fraser/9"
+  ],
   "tagged": {}
  },
  "80443": {
@@ -3347,7 +4173,7 @@
    {
     "name": "Frisco",
     "share": 0.699,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Summit County",
@@ -3355,7 +4181,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "frisco/1",
+   "frisco/2",
+   "frisco/5",
+   "frisco/9",
+   "frisco/10",
+   "frisco/4",
+   "frisco/0",
+   "frisco/3"
+  ],
   "tagged": {}
  },
  "80444": {
@@ -3368,10 +4203,19 @@
    {
     "name": "Clear Creek County",
     "share": 0.045,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "clear-creek-county/2",
+   "clear-creek-county/1",
+   "clear-creek-county/4",
+   "clear-creek-county/0",
+   "clear-creek-county/6",
+   "clear-creek-county/7",
+   "clear-creek-county/9",
+   "clear-creek-county/11"
+  ],
   "tagged": {}
  },
  "80446": {
@@ -3384,10 +4228,19 @@
    {
     "name": "Grand County",
     "share": 0.483,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80447": {
@@ -3395,15 +4248,24 @@
    {
     "name": "Grand County",
     "share": 0.797,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Grand Lake",
     "share": 0.203,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-lake/0",
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5"
+  ],
   "tagged": {}
  },
  "80448": {
@@ -3411,27 +4273,59 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80449": {
   "governments": [
    {
     "name": "Park County",
     "share": 0.989,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Chaffee County",
     "share": 0.011,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "chaffee-county/4",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80451": {
   "governments": [
@@ -3443,10 +4337,19 @@
    {
     "name": "Grand County",
     "share": 0.09,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80452": {
@@ -3454,15 +4357,24 @@
    {
     "name": "Idaho Springs",
     "share": 0.538,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Clear Creek County",
     "share": 0.462,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "idaho-springs/5",
+   "idaho-springs/2",
+   "idaho-springs/7",
+   "idaho-springs/1",
+   "idaho-springs/4",
+   "idaho-springs/9",
+   "clear-creek-county/2",
+   "clear-creek-county/1"
+  ],
   "tagged": {}
  },
  "80453": {
@@ -3517,11 +4429,27 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80457": {
   "governments": [
@@ -3544,10 +4472,19 @@
    {
     "name": "Grand County",
     "share": 0.385,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80461": {
@@ -3555,7 +4492,7 @@
    {
     "name": "Lake County",
     "share": 0.634,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Leadville",
@@ -3563,7 +4500,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "lake-county/2",
+   "lake-county/3",
+   "lake-county/0",
+   "lake-county/6",
+   "lake-county/1",
+   "lake-county/7",
+   "lake-county/9",
+   "lake-county/4"
+  ],
   "tagged": {}
  },
  "80463": {
@@ -3571,7 +4517,7 @@
    {
     "name": "Routt County",
     "share": 0.541,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Eagle County",
@@ -3579,7 +4525,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "80465": {
@@ -3592,10 +4547,19 @@
    {
     "name": "Morrison",
     "share": 0.024,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "morrison/4",
+   "morrison/0",
+   "morrison/1",
+   "morrison/6",
+   "morrison/2",
+   "morrison/3",
+   "morrison/5",
+   "morrison/9"
+  ],
   "tagged": {}
  },
  "80466": {
@@ -3628,12 +4592,12 @@
    {
     "name": "Routt County",
     "share": 0.611,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Oak Creek",
     "share": 0.383,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Rio Blanco County",
@@ -3641,7 +4605,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "oak-creek/0",
+   "oak-creek/7",
+   "routt-county/3"
+  ],
   "tagged": {}
  },
  "80468": {
@@ -3649,10 +4622,19 @@
    {
     "name": "Grand County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80469": {
@@ -3660,10 +4642,19 @@
    {
     "name": "Routt County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "80470": {
@@ -3676,11 +4667,27 @@
    {
     "name": "Park County",
     "share": 0.327,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80471": {
   "governments": [
@@ -3718,10 +4725,19 @@
    {
     "name": "Gilpin County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gilpin-county/3",
+   "gilpin-county/5",
+   "gilpin-county/2",
+   "gilpin-county/0",
+   "gilpin-county/1",
+   "gilpin-county/4",
+   "gilpin-county/6",
+   "gilpin-county/8"
+  ],
   "tagged": {}
  },
  "80475": {
@@ -3729,26 +4745,51 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80476": {
   "governments": [
    {
     "name": "Silver Plume",
     "share": 0.866,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Clear Creek County",
     "share": 0.134,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "silver-plume/1",
+   "silver-plume/0",
+   "clear-creek-county/2",
+   "silver-plume/2",
+   "clear-creek-county/1",
+   "clear-creek-county/4",
+   "silver-plume/3",
+   "clear-creek-county/0"
+  ],
   "tagged": {}
  },
  "80478": {
@@ -3756,7 +4797,7 @@
    {
     "name": "Grand County",
     "share": 0.992,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Granby",
@@ -3764,7 +4805,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80479": {
@@ -3772,10 +4822,19 @@
    {
     "name": "Routt County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "80480": {
@@ -3824,20 +4883,29 @@
    {
     "name": "Winter Park",
     "share": 0.589,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Grand County",
     "share": 0.402,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fraser",
     "share": 0.009,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fraser/0",
+   "winter-park/2",
+   "winter-park/3",
+   "winter-park/7",
+   "grand-county/0",
+   "grand-county/7",
+   "fraser/11",
+   "fraser/2"
+  ],
   "tagged": {}
  },
  "80483": {
@@ -3850,10 +4918,19 @@
    {
     "name": "Routt County",
     "share": 0.307,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "80487": {
@@ -3866,10 +4943,19 @@
    {
     "name": "Routt County",
     "share": 0.273,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "80498": {
@@ -3887,10 +4973,19 @@
    {
     "name": "Grand County",
     "share": 0.04,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "grand-county/0",
+   "grand-county/7",
+   "grand-county/1",
+   "grand-county/2",
+   "grand-county/3",
+   "grand-county/4",
+   "grand-county/5",
+   "grand-county/6"
+  ],
   "tagged": {}
  },
  "80501": {
@@ -3907,14 +5002,14 @@
    }
   ],
   "issues": [
-   "longmont/9",
-   "longmont/3",
-   "longmont/0",
-   "longmont/5",
+   "longmont/10",
    "longmont/8",
-   "longmont/2",
+   "longmont/0",
+   "longmont/3",
    "longmont/4",
-   "longmont/12"
+   "longmont/2",
+   "boulder-county/0",
+   "longmont/1"
   ],
   "tagged": {}
  },
@@ -3932,14 +5027,14 @@
    }
   ],
   "issues": [
-   "longmont/9",
-   "longmont/3",
+   "longmont/10",
+   "longmont/8",
    "longmont/0",
    "boulder-county/0",
-   "longmont/5",
-   "longmont/8",
+   "longmont/3",
+   "longmont/4",
    "longmont/2",
-   "longmont/4"
+   "longmont/1"
   ],
   "tagged": {}
  },
@@ -3972,14 +5067,14 @@
    }
   ],
   "issues": [
-   "longmont/9",
-   "longmont/3",
-   "longmont/0",
-   "longmont/5",
+   "longmont/10",
    "longmont/8",
-   "longmont/2",
+   "longmont/0",
+   "longmont/3",
    "longmont/4",
-   "longmont/12"
+   "longmont/2",
+   "boulder-county/0",
+   "longmont/1"
   ],
   "tagged": {}
  },
@@ -4019,7 +5114,7 @@
    {
     "name": "Berthoud",
     "share": 0.643,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4032,15 +5127,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "berthoud/5",
+   "berthoud/1",
+   "berthoud/4",
+   "berthoud/12",
+   "berthoud/0",
+   "berthoud/9",
+   "berthoud/10",
+   "berthoud/11"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "berthoud/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80514": {
   "governments": [
    {
     "name": "Dacono",
     "share": 0.988,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4048,8 +5159,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "dacono/1",
+   "dacono/8",
+   "dacono/5",
+   "dacono/2",
+   "dacono/3",
+   "dacono/4",
+   "dacono/6",
+   "dacono/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "dacono/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80515": {
   "governments": [
@@ -4086,14 +5213,14 @@
    }
   ],
   "issues": [
-   "erie/2",
-   "erie/7",
-   "erie/5",
-   "boulder-county/0",
-   "erie/3",
-   "erie/4",
    "erie/1",
-   "erie/6"
+   "erie/9",
+   "erie/3",
+   "erie/10",
+   "boulder-county/0",
+   "erie/7",
+   "erie/12",
+   "erie/2"
   ],
   "tagged": {}
  },
@@ -4139,7 +5266,7 @@
    {
     "name": "Fort Collins",
     "share": 0.91,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4147,7 +5274,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "fort-collins/0",
+   "fort-collins/3",
+   "fort-collins/4",
+   "fort-collins/10",
+   "fort-collins/13",
+   "fort-collins/5",
+   "fort-collins/11",
+   "fort-collins/1"
+  ],
   "tagged": {}
  },
  "80524": {
@@ -4155,7 +5291,7 @@
    {
     "name": "Fort Collins",
     "share": 0.586,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4168,7 +5304,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "fort-collins/0",
+   "fort-collins/3",
+   "fort-collins/4",
+   "fort-collins/10",
+   "fort-collins/13",
+   "fort-collins/5",
+   "fort-collins/11",
+   "fort-collins/1"
+  ],
   "tagged": {}
  },
  "80525": {
@@ -4176,7 +5321,7 @@
    {
     "name": "Fort Collins",
     "share": 0.967,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4184,7 +5329,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "fort-collins/0",
+   "fort-collins/3",
+   "fort-collins/4",
+   "fort-collins/10",
+   "fort-collins/13",
+   "fort-collins/5",
+   "fort-collins/11",
+   "fort-collins/1"
+  ],
   "tagged": {}
  },
  "80526": {
@@ -4192,7 +5346,7 @@
    {
     "name": "Fort Collins",
     "share": 0.875,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4200,7 +5354,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "fort-collins/0",
+   "fort-collins/3",
+   "fort-collins/4",
+   "fort-collins/10",
+   "fort-collins/13",
+   "fort-collins/5",
+   "fort-collins/11",
+   "fort-collins/1"
+  ],
   "tagged": {}
  },
  "80528": {
@@ -4208,7 +5371,7 @@
    {
     "name": "Fort Collins",
     "share": 0.796,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4218,11 +5381,27 @@
    {
     "name": "Windsor",
     "share": 0.08,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "fort-collins/0",
+   "fort-collins/3",
+   "windsor/2",
+   "fort-collins/4",
+   "fort-collins/10",
+   "fort-collins/13",
+   "windsor/0",
+   "windsor/3"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "windsor/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80530": {
   "governments": [
@@ -4265,7 +5444,7 @@
    {
     "name": "Johnstown",
     "share": 0.919,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4278,8 +5457,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "johnstown/8",
+   "johnstown/12",
+   "johnstown/2",
+   "johnstown/14",
+   "johnstown/0",
+   "johnstown/3",
+   "johnstown/4",
+   "johnstown/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "johnstown/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80535": {
   "governments": [
@@ -4360,13 +5555,13 @@
   ],
   "issues": [
    "lyons/0",
-   "lyons/4",
    "lyons/1",
-   "lyons/2",
    "lyons/3",
-   "lyons/11",
-   "lyons/12",
-   "boulder-county/0"
+   "lyons/4",
+   "lyons/2",
+   "lyons/9",
+   "boulder-county/0",
+   "lyons/6"
   ],
   "tagged": {}
  },
@@ -4384,13 +5579,14 @@
    }
   ],
   "issues": [
-   "mead/6",
    "mead/2",
+   "mead/6",
+   "mead/4",
    "mead/0",
    "mead/1",
-   "mead/4",
    "mead/3",
-   "mead/5"
+   "mead/5",
+   "mead/7"
   ],
   "tagged": {
    "data-center": {
@@ -4406,7 +5602,7 @@
    {
     "name": "Milliken",
     "share": 0.963,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4414,7 +5610,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "milliken/0",
+   "milliken/3",
+   "milliken/1",
+   "milliken/6",
+   "milliken/2",
+   "milliken/11",
+   "milliken/4",
+   "milliken/12"
+  ],
   "tagged": {}
  },
  "80544": {
@@ -4453,7 +5658,7 @@
    {
     "name": "Severance",
     "share": 0.948,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4461,7 +5666,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "severance/1",
+   "severance/2",
+   "severance/3",
+   "severance/7",
+   "severance/0",
+   "severance/4",
+   "severance/5",
+   "severance/6"
+  ],
   "tagged": {}
  },
  "80547": {
@@ -4469,7 +5683,7 @@
    {
     "name": "Timnath",
     "share": 0.989,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4477,7 +5691,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "timnath/0",
+   "timnath/1",
+   "timnath/2",
+   "timnath/3",
+   "timnath/6",
+   "timnath/8",
+   "timnath/4",
+   "timnath/5"
+  ],
   "tagged": {}
  },
  "80549": {
@@ -4485,7 +5708,7 @@
    {
     "name": "Wellington",
     "share": 0.816,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -4498,7 +5721,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "wellington/1",
+   "wellington/5",
+   "wellington/9",
+   "wellington/8",
+   "wellington/10",
+   "wellington/2",
+   "wellington/3",
+   "wellington/4"
+  ],
   "tagged": {}
  },
  "80550": {
@@ -4506,12 +5738,12 @@
    {
     "name": "Windsor",
     "share": 0.792,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Severance",
     "share": 0.171,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4524,24 +5756,56 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "windsor/2",
+   "windsor/0",
+   "windsor/3",
+   "windsor/11",
+   "windsor/1",
+   "windsor/5",
+   "windsor/6",
+   "windsor/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "windsor/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80601": {
   "governments": [
    {
     "name": "Brighton",
     "share": 0.97,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.03,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "brighton/6",
+   "brighton/4",
+   "brighton/11",
+   "brighton/2",
+   "brighton/5",
+   "adams-county/2",
+   "adams-county/5",
+   "brighton/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "brighton/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80602": {
   "governments": [
@@ -4553,18 +5817,18 @@
    {
     "name": "Adams County",
     "share": 0.246,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
    "thornton/1",
    "thornton/6",
-   "thornton/0",
-   "thornton/3",
-   "thornton/4",
-   "thornton/11",
-   "thornton/2",
-   "thornton/5"
+   "adams-county/1",
+   "adams-county/8"
   ],
   "tagged": {
    "data-center": {
@@ -4585,7 +5849,7 @@
    {
     "name": "Adams County",
     "share": 0.202,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Commerce City",
@@ -4600,23 +5864,24 @@
    {
     "name": "Brighton",
     "share": 0.022,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "commerce-city/1",
-   "commerce-city/0",
-   "commerce-city/5",
    "commerce-city/6",
-   "commerce-city/7",
-   "commerce-city/9",
-   "commerce-city/11",
-   "commerce-city/13"
+   "commerce-city/0",
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
+   "commerce-city/3",
+   "commerce-city/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "commerce-city/0"
+     "commerce-city/0",
+     "brighton/0"
     ],
     "site": false
    }
@@ -4637,10 +5902,19 @@
    {
     "name": "Severance",
     "share": 0.066,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "severance/1",
+   "severance/2",
+   "severance/3",
+   "severance/7",
+   "severance/0",
+   "severance/4",
+   "severance/5",
+   "severance/6"
+  ],
   "tagged": {}
  },
  "80611": {
@@ -4685,10 +5959,19 @@
    {
     "name": "Severance",
     "share": 0.046,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "severance/1",
+   "severance/2",
+   "severance/3",
+   "severance/7",
+   "severance/0",
+   "severance/4",
+   "severance/5",
+   "severance/6"
+  ],
   "tagged": {}
  },
  "80620": {
@@ -4712,7 +5995,7 @@
    {
     "name": "Fort Lupton",
     "share": 0.596,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4720,8 +6003,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "fort-lupton/5",
+   "fort-lupton/3",
+   "fort-lupton/6",
+   "fort-lupton/7",
+   "fort-lupton/10",
+   "fort-lupton/1",
+   "fort-lupton/2",
+   "fort-lupton/4"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "fort-lupton/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80622": {
   "governments": [
@@ -4766,7 +6065,7 @@
    {
     "name": "Greeley",
     "share": 0.917,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4774,15 +6073,32 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "greeley/4",
+   "greeley/1",
+   "greeley/2",
+   "greeley/3",
+   "greeley/5",
+   "greeley/10",
+   "greeley/0",
+   "greeley/14"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "greeley/0",
+     "greeley/7"
+    ],
+    "site": false
+   }
+  }
  },
  "80634": {
   "governments": [
    {
     "name": "Greeley",
     "share": 0.922,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4795,8 +6111,25 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "greeley/4",
+   "greeley/1",
+   "greeley/2",
+   "greeley/3",
+   "greeley/5",
+   "greeley/10",
+   "greeley/0",
+   "greeley/14"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "greeley/0",
+     "greeley/7"
+    ],
+    "site": false
+   }
+  }
  },
  "80640": {
   "governments": [
@@ -4808,28 +6141,29 @@
    {
     "name": "Adams County",
     "share": 0.205,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Brighton",
     "share": 0.037,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
-   "commerce-city/1",
-   "commerce-city/0",
-   "commerce-city/5",
    "commerce-city/6",
-   "commerce-city/7",
-   "commerce-city/9",
-   "commerce-city/11",
-   "commerce-city/13"
+   "commerce-city/0",
+   "commerce-city/3",
+   "commerce-city/4",
+   "commerce-city/8",
+   "commerce-city/12",
+   "adams-county/2",
+   "adams-county/5"
   ],
   "tagged": {
    "data-center": {
     "ids": [
-     "commerce-city/0"
+     "commerce-city/0",
+     "brighton/0"
     ],
     "site": false
    }
@@ -4840,12 +6174,12 @@
    {
     "name": "Hudson",
     "share": 0.396,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Adams County",
     "share": 0.317,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4858,7 +6192,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "hudson/0",
+   "hudson/1",
+   "hudson/2",
+   "hudson/3",
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10"
+  ],
   "tagged": {}
  },
  "80643": {
@@ -4876,10 +6219,19 @@
    {
     "name": "Adams County",
     "share": 0.16,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "adams-county/0",
+   "adams-county/10",
+   "adams-county/1",
+   "adams-county/8",
+   "adams-county/11",
+   "adams-county/3"
+  ],
   "tagged": {}
  },
  "80644": {
@@ -4892,10 +6244,19 @@
    {
     "name": "Kersey",
     "share": 0.496,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "kersey/5",
+   "kersey/2",
+   "kersey/1",
+   "kersey/8",
+   "kersey/0",
+   "kersey/3",
+   "kersey/4",
+   "kersey/6"
+  ],
   "tagged": {}
  },
  "80645": {
@@ -4935,10 +6296,19 @@
    {
     "name": "Nunn",
     "share": 0.4,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "nunn/2",
+   "nunn/0",
+   "nunn/1",
+   "nunn/8",
+   "nunn/3",
+   "nunn/4",
+   "nunn/5",
+   "nunn/6"
+  ],
   "tagged": {}
  },
  "80649": {
@@ -4946,7 +6316,7 @@
    {
     "name": "Morgan County",
     "share": 0.516,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4954,8 +6324,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5",
+   "morgan-county/7",
+   "morgan-county/1",
+   "morgan-county/2",
+   "morgan-county/3",
+   "morgan-county/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80650": {
   "governments": [
@@ -4978,7 +6364,7 @@
    {
     "name": "Platteville",
     "share": 0.593,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -4997,13 +6383,14 @@
    }
   ],
   "issues": [
-   "mead/6",
    "mead/2",
-   "mead/0",
-   "mead/1",
+   "mead/6",
    "mead/4",
-   "mead/3",
-   "mead/5"
+   "platteville/0",
+   "platteville/1",
+   "platteville/2",
+   "platteville/3",
+   "platteville/4"
   ],
   "tagged": {
    "data-center": {
@@ -5030,18 +6417,34 @@
    {
     "name": "Morgan County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5",
+   "morgan-county/7",
+   "morgan-county/1",
+   "morgan-county/2",
+   "morgan-county/3",
+   "morgan-county/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80654": {
   "governments": [
    {
     "name": "Morgan County",
     "share": 0.534,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Wiggins",
@@ -5051,7 +6454,7 @@
    {
     "name": "Adams County",
     "share": 0.016,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Weld County",
@@ -5059,20 +6462,36 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "adams-county/2",
+   "adams-county/5",
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5",
+   "morgan-county/7",
+   "adams-county/0",
+   "adams-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80701": {
   "governments": [
    {
     "name": "Fort Morgan",
     "share": 0.716,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Morgan County",
     "share": 0.276,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Log Lane Village",
@@ -5080,8 +6499,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "fort-morgan/2",
+   "fort-morgan/4",
+   "fort-morgan/8",
+   "fort-morgan/9",
+   "fort-morgan/0",
+   "fort-morgan/1",
+   "fort-morgan/3",
+   "fort-morgan/5"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80705": {
   "governments": [
@@ -5093,26 +6528,51 @@
    {
     "name": "Morgan County",
     "share": 0.094,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5",
+   "morgan-county/7",
+   "morgan-county/1",
+   "morgan-county/2",
+   "morgan-county/3",
+   "morgan-county/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80720": {
   "governments": [
    {
     "name": "Akron",
     "share": 0.67,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Washington County",
     "share": 0.33,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "akron/0",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9"
+  ],
   "tagged": {}
  },
  "80721": {
@@ -5120,11 +6580,27 @@
    {
     "name": "Phillips County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "phillips-county/1",
+   "phillips-county/2",
+   "phillips-county/5",
+   "phillips-county/6",
+   "phillips-county/7",
+   "phillips-county/8",
+   "phillips-county/9",
+   "phillips-county/11"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "phillips-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80722": {
   "governments": [
@@ -5147,16 +6623,32 @@
    {
     "name": "Morgan County",
     "share": 0.24,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Washington County",
     "share": 0.007,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80726": {
   "governments": [
@@ -5184,10 +6676,19 @@
    {
     "name": "Yuma County",
     "share": 0.472,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "yuma-county/1",
+   "yuma-county/3",
+   "yuma-county/4",
+   "yuma-county/7"
+  ],
   "tagged": {}
  },
  "80728": {
@@ -5232,7 +6733,7 @@
    {
     "name": "Phillips County",
     "share": 0.226,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Logan County",
@@ -5242,7 +6743,7 @@
    {
     "name": "Yuma County",
     "share": 0.02,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Sedgwick County",
@@ -5250,8 +6751,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "phillips-county/1",
+   "phillips-county/2",
+   "phillips-county/5",
+   "phillips-county/6",
+   "phillips-county/7",
+   "phillips-county/8",
+   "phillips-county/9",
+   "phillips-county/11"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "phillips-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80732": {
   "governments": [
@@ -5274,16 +6791,32 @@
    {
     "name": "Morgan County",
     "share": 0.245,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Washington County",
     "share": 0.202,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80734": {
   "governments": [
@@ -5295,26 +6828,51 @@
    {
     "name": "Phillips County",
     "share": 0.211,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Yuma County",
     "share": 0.029,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "phillips-county/1",
+   "phillips-county/2",
+   "phillips-county/5",
+   "phillips-county/6",
+   "phillips-county/7",
+   "phillips-county/8",
+   "phillips-county/9",
+   "phillips-county/11"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "phillips-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80735": {
   "governments": [
    {
     "name": "Yuma County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "yuma-county/1",
+   "yuma-county/3",
+   "yuma-county/4",
+   "yuma-county/7"
+  ],
   "tagged": {}
  },
  "80736": {
@@ -5354,10 +6912,19 @@
    {
     "name": "Washington County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80741": {
@@ -5375,16 +6942,32 @@
    {
     "name": "Washington County",
     "share": 0.071,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Morgan County",
     "share": 0.054,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80742": {
   "governments": [
@@ -5401,18 +6984,34 @@
    {
     "name": "Morgan County",
     "share": 0.103,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5",
+   "morgan-county/7",
+   "morgan-county/1",
+   "morgan-county/2",
+   "morgan-county/3",
+   "morgan-county/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80743": {
   "governments": [
    {
     "name": "Washington County",
     "share": 0.543,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Otis",
@@ -5420,7 +7019,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80744": {
@@ -5460,11 +7068,27 @@
    {
     "name": "Phillips County",
     "share": 0.064,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "phillips-county/1",
+   "phillips-county/2",
+   "phillips-county/5",
+   "phillips-county/6",
+   "phillips-county/7",
+   "phillips-county/8",
+   "phillips-county/9",
+   "phillips-county/11"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "phillips-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80747": {
   "governments": [
@@ -5503,18 +7127,34 @@
    {
     "name": "Morgan County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "morgan-county/0",
+   "morgan-county/4",
+   "morgan-county/5",
+   "morgan-county/7",
+   "morgan-county/1",
+   "morgan-county/2",
+   "morgan-county/3",
+   "morgan-county/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "morgan-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80751": {
   "governments": [
    {
     "name": "Sterling",
     "share": 0.776,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Logan County",
@@ -5522,7 +7162,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "sterling/1",
+   "sterling/2",
+   "sterling/3",
+   "sterling/0",
+   "sterling/9",
+   "sterling/4",
+   "sterling/5",
+   "sterling/8"
+  ],
   "tagged": {}
  },
  "80754": {
@@ -5541,10 +7190,19 @@
    {
     "name": "Yuma County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "yuma-county/1",
+   "yuma-county/3",
+   "yuma-county/4",
+   "yuma-county/7"
+  ],
   "tagged": {}
  },
  "80757": {
@@ -5552,10 +7210,19 @@
    {
     "name": "Washington County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80758": {
@@ -5568,10 +7235,19 @@
    {
     "name": "Yuma County",
     "share": 0.377,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "yuma-county/1",
+   "yuma-county/3",
+   "yuma-county/4",
+   "yuma-county/7"
+  ],
   "tagged": {}
  },
  "80759": {
@@ -5584,15 +7260,24 @@
    {
     "name": "Yuma County",
     "share": 0.228,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Washington County",
     "share": 0.019,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5"
+  ],
   "tagged": {}
  },
  "80801": {
@@ -5600,10 +7285,19 @@
    {
     "name": "Washington County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80802": {
@@ -5622,7 +7316,7 @@
    {
     "name": "Arriba",
     "share": 0.566,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Lincoln County",
@@ -5630,7 +7324,14 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "arriba/1",
+   "arriba/2",
+   "arriba/3",
+   "arriba/4",
+   "arriba/0",
+   "arriba/5"
+  ],
   "tagged": {}
  },
  "80805": {
@@ -5638,7 +7339,7 @@
    {
     "name": "Kit Carson County",
     "share": 0.56,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Bethune",
@@ -5646,7 +7347,14 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "kit-carson-county/1",
+   "kit-carson-county/0",
+   "kit-carson-county/2",
+   "kit-carson-county/3",
+   "kit-carson-county/4",
+   "kit-carson-county/5"
+  ],
   "tagged": {}
  },
  "80807": {
@@ -5659,15 +7367,24 @@
    {
     "name": "Kit Carson County",
     "share": 0.236,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Yuma County",
     "share": 0.014,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "kit-carson-county/1",
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "kit-carson-county/0",
+   "kit-carson-county/2",
+   "kit-carson-county/3"
+  ],
   "tagged": {}
  },
  "80808": {
@@ -5723,15 +7440,24 @@
    {
     "name": "Washington County",
     "share": 0.99,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Yuma County",
     "share": 0.01,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80813": {
@@ -5744,7 +7470,7 @@
    {
     "name": "Teller County",
     "share": 0.395,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Victor",
@@ -5752,7 +7478,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "teller-county/3",
+   "teller-county/0",
+   "teller-county/5",
+   "teller-county/1",
+   "teller-county/9",
+   "teller-county/2",
+   "teller-county/4",
+   "teller-county/6"
+  ],
   "tagged": {}
  },
  "80814": {
@@ -5760,10 +7495,19 @@
    {
     "name": "Teller County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "teller-county/3",
+   "teller-county/0",
+   "teller-county/5",
+   "teller-county/1",
+   "teller-county/9",
+   "teller-county/2",
+   "teller-county/4",
+   "teller-county/6"
+  ],
   "tagged": {}
  },
  "80815": {
@@ -5776,15 +7520,24 @@
    {
     "name": "Kit Carson County",
     "share": 0.258,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Washington County",
     "share": 0.104,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80816": {
@@ -5792,16 +7545,32 @@
    {
     "name": "Teller County",
     "share": 0.93,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Park County",
     "share": 0.07,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "teller-county/3",
+   "park-county/3",
+   "teller-county/0",
+   "park-county/4",
+   "park-county/6",
+   "teller-county/5",
+   "park-county/2",
+   "park-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80817": {
   "governments": [
@@ -5834,10 +7603,19 @@
    {
     "name": "Washington County",
     "share": 0.106,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "washington-county/1",
+   "washington-county/2",
+   "washington-county/3",
+   "washington-county/6",
+   "washington-county/4",
+   "washington-county/8",
+   "washington-county/9",
+   "washington-county/10"
+  ],
   "tagged": {}
  },
  "80819": {
@@ -5845,7 +7623,7 @@
    {
     "name": "Green Mountain Falls",
     "share": 0.807,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -5855,10 +7633,19 @@
    {
     "name": "Teller County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "green-mountain-falls/1",
+   "green-mountain-falls/0",
+   "green-mountain-falls/4",
+   "teller-county/3",
+   "green-mountain-falls/8",
+   "teller-county/0",
+   "teller-county/5",
+   "green-mountain-falls/2"
+  ],
   "tagged": {}
  },
  "80820": {
@@ -5866,18 +7653,34 @@
    {
     "name": "Park County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8",
+   "park-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80821": {
   "governments": [
    {
     "name": "Hugo",
     "share": 0.706,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Lincoln County",
@@ -5885,7 +7688,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "hugo/0",
+   "hugo/2",
+   "hugo/6",
+   "hugo/4",
+   "hugo/5",
+   "hugo/7",
+   "hugo/3",
+   "hugo/1"
+  ],
   "tagged": {}
  },
  "80822": {
@@ -5893,10 +7705,19 @@
    {
     "name": "Yuma County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "yuma-county/1",
+   "yuma-county/3",
+   "yuma-county/4",
+   "yuma-county/7"
+  ],
   "tagged": {}
  },
  "80823": {
@@ -5915,10 +7736,19 @@
    {
     "name": "Yuma County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "yuma-county/0",
+   "yuma-county/2",
+   "yuma-county/5",
+   "yuma-county/6",
+   "yuma-county/1",
+   "yuma-county/3",
+   "yuma-county/4",
+   "yuma-county/7"
+  ],
   "tagged": {}
  },
  "80825": {
@@ -5953,23 +7783,39 @@
    {
     "name": "Park County",
     "share": 0.628,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Teller County",
     "share": 0.372,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "park-county/3",
+   "park-county/4",
+   "park-county/6",
+   "teller-county/3",
+   "park-county/2",
+   "park-county/0",
+   "park-county/13",
+   "park-county/8"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "park-county/9"
+    ],
+    "site": false
+   }
+  }
  },
  "80828": {
   "governments": [
    {
     "name": "Limon",
     "share": 0.785,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Lincoln County",
@@ -5982,7 +7828,10 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "limon/0",
+   "limon/1"
+  ],
   "tagged": {}
  },
  "80829": {
@@ -6080,10 +7929,17 @@
    {
     "name": "Kit Carson County",
     "share": 0.479,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "kit-carson-county/1",
+   "kit-carson-county/0",
+   "kit-carson-county/2",
+   "kit-carson-county/3",
+   "kit-carson-county/4",
+   "kit-carson-county/5"
+  ],
   "tagged": {}
  },
  "80835": {
@@ -6117,10 +7973,17 @@
    {
     "name": "Kit Carson County",
     "share": 0.411,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "kit-carson-county/1",
+   "kit-carson-county/0",
+   "kit-carson-county/2",
+   "kit-carson-county/3",
+   "kit-carson-county/4",
+   "kit-carson-county/5"
+  ],
   "tagged": {}
  },
  "80840": {
@@ -6144,10 +8007,19 @@
    {
     "name": "Teller County",
     "share": 0.366,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "teller-county/3",
+   "teller-county/0",
+   "teller-county/5",
+   "teller-county/1",
+   "teller-county/9",
+   "teller-county/2",
+   "teller-county/4",
+   "teller-county/6"
+  ],
   "tagged": {}
  },
  "80861": {
@@ -6155,7 +8027,7 @@
    {
     "name": "Kit Carson County",
     "share": 0.632,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Vona",
@@ -6163,7 +8035,14 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "kit-carson-county/1",
+   "kit-carson-county/0",
+   "kit-carson-county/2",
+   "kit-carson-county/3",
+   "kit-carson-county/4",
+   "kit-carson-county/5"
+  ],
   "tagged": {}
  },
  "80862": {
@@ -6182,12 +8061,12 @@
    {
     "name": "Woodland Park",
     "share": 0.622,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Teller County",
     "share": 0.367,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6195,7 +8074,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "teller-county/3",
+   "woodland-park/0",
+   "teller-county/0",
+   "woodland-park/2",
+   "woodland-park/7",
+   "teller-county/5",
+   "woodland-park/3",
+   "woodland-park/5"
+  ],
   "tagged": {}
  },
  "80864": {
@@ -6225,7 +8113,7 @@
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6233,15 +8121,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80904": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.987,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6249,15 +8153,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80905": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6265,15 +8185,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80906": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.824,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6281,15 +8217,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80907": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6297,8 +8249,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80908": {
   "governments": [
@@ -6310,18 +8278,34 @@
    {
     "name": "Colorado Springs",
     "share": 0.36,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80909": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6329,15 +8313,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80910": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6345,8 +8345,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80911": {
   "governments": [
@@ -6375,7 +8391,7 @@
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6383,8 +8399,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80915": {
   "governments": [
@@ -6396,18 +8428,34 @@
    {
     "name": "Colorado Springs",
     "share": 0.397,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80916": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6415,15 +8463,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80917": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.996,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6431,15 +8495,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80918": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.98,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6447,15 +8527,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80919": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.975,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6463,15 +8559,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80920": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.993,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6479,15 +8591,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80921": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.59,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6495,15 +8623,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80922": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.804,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6511,15 +8655,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80923": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.994,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6527,15 +8687,31 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80924": {
   "governments": [
    {
     "name": "Colorado Springs",
     "share": 0.997,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6543,8 +8719,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80925": {
   "governments": [
@@ -6556,7 +8748,7 @@
    {
     "name": "Colorado Springs",
     "share": 0.029,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fountain",
@@ -6564,8 +8756,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80926": {
   "governments": [
@@ -6577,10 +8785,19 @@
    {
     "name": "Fremont County",
     "share": 0.05,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "80927": {
@@ -6588,7 +8805,7 @@
    {
     "name": "Colorado Springs",
     "share": 0.975,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6596,8 +8813,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80928": {
   "governments": [
@@ -6620,11 +8853,27 @@
    {
     "name": "Colorado Springs",
     "share": 0.008,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80930": {
   "governments": [
@@ -6642,7 +8891,7 @@
    {
     "name": "Colorado Springs",
     "share": 0.924,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "El Paso County",
@@ -6650,8 +8899,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80939": {
   "governments": [
@@ -6663,11 +8928,27 @@
    {
     "name": "Colorado Springs",
     "share": 0.093,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "80951": {
   "governments": [
@@ -6679,26 +8960,51 @@
    {
     "name": "Colorado Springs",
     "share": 0.005,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "colorado-springs/1",
+   "colorado-springs/8",
+   "colorado-springs/0",
+   "colorado-springs/4",
+   "colorado-springs/11",
+   "colorado-springs/12",
+   "colorado-springs/2",
+   "colorado-springs/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "colorado-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81001": {
   "governments": [
    {
     "name": "Pueblo",
     "share": 0.968,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pueblo County",
     "share": 0.032,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "pueblo/8",
+   "pueblo/4",
+   "pueblo/1",
+   "pueblo/11",
+   "pueblo/12",
+   "pueblo/0",
+   "pueblo/2"
+  ],
   "tagged": {}
  },
  "81003": {
@@ -6706,15 +9012,24 @@
    {
     "name": "Pueblo",
     "share": 0.995,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pueblo County",
     "share": 0.005,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "pueblo/8",
+   "pueblo/4",
+   "pueblo/1",
+   "pueblo/11",
+   "pueblo/12",
+   "pueblo/0",
+   "pueblo/2"
+  ],
   "tagged": {}
  },
  "81004": {
@@ -6722,15 +9037,24 @@
    {
     "name": "Pueblo",
     "share": 0.959,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pueblo County",
     "share": 0.041,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "pueblo/8",
+   "pueblo/4",
+   "pueblo/1",
+   "pueblo/11",
+   "pueblo/12",
+   "pueblo/0",
+   "pueblo/2"
+  ],
   "tagged": {}
  },
  "81005": {
@@ -6738,15 +9062,24 @@
    {
     "name": "Pueblo",
     "share": 0.928,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pueblo County",
     "share": 0.072,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "pueblo/8",
+   "pueblo/4",
+   "pueblo/1",
+   "pueblo/11",
+   "pueblo/12",
+   "pueblo/0",
+   "pueblo/2"
+  ],
   "tagged": {}
  },
  "81006": {
@@ -6754,15 +9087,24 @@
    {
     "name": "Pueblo County",
     "share": 0.903,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pueblo",
     "share": 0.097,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "pueblo/8",
+   "pueblo/4",
+   "pueblo/1",
+   "pueblo/11",
+   "pueblo/12",
+   "pueblo/0",
+   "pueblo/2"
+  ],
   "tagged": {}
  },
  "81007": {
@@ -6770,10 +9112,12 @@
    {
     "name": "Pueblo County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0"
+  ],
   "tagged": {}
  },
  "81008": {
@@ -6781,15 +9125,24 @@
    {
     "name": "Pueblo",
     "share": 0.968,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pueblo County",
     "share": 0.031,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "pueblo/8",
+   "pueblo/4",
+   "pueblo/1",
+   "pueblo/11",
+   "pueblo/12",
+   "pueblo/0",
+   "pueblo/2"
+  ],
   "tagged": {}
  },
  "81019": {
@@ -6797,10 +9150,12 @@
    {
     "name": "Pueblo County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0"
+  ],
   "tagged": {}
  },
  "81020": {
@@ -6840,10 +9195,12 @@
    {
     "name": "Pueblo County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0"
+  ],
   "tagged": {}
  },
  "81023": {
@@ -6851,10 +9208,12 @@
    {
     "name": "Pueblo County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0"
+  ],
   "tagged": {}
  },
  "81024": {
@@ -6873,15 +9232,24 @@
    {
     "name": "Pueblo County",
     "share": 0.679,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Boone",
     "share": 0.321,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "boone/1",
+   "boone/2",
+   "boone/0",
+   "boone/3",
+   "boone/5",
+   "boone/4",
+   "boone/6"
+  ],
   "tagged": {}
  },
  "81027": {
@@ -6910,10 +9278,17 @@
    {
     "name": "Campo",
     "share": 0.313,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "campo/0",
+   "campo/1",
+   "campo/2",
+   "campo/3",
+   "campo/4",
+   "campo/5"
+  ],
   "tagged": {}
  },
  "81030": {
@@ -6979,7 +9354,7 @@
    {
     "name": "Pueblo County",
     "share": 0.123,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Crowley County",
@@ -6987,7 +9362,9 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0"
+  ],
   "tagged": {}
  },
  "81040": {
@@ -7133,7 +9510,7 @@
    {
     "name": "La Junta",
     "share": 0.738,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Otero County",
@@ -7146,7 +9523,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "la-junta/0",
+   "la-junta/4",
+   "la-junta/2",
+   "la-junta/12",
+   "la-junta/1",
+   "la-junta/5",
+   "la-junta/6",
+   "la-junta/10"
+  ],
   "tagged": {}
  },
  "81052": {
@@ -7218,7 +9604,7 @@
    {
     "name": "Manzanola",
     "share": 0.404,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Crowley County",
@@ -7226,7 +9612,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "manzanola/0",
+   "manzanola/1",
+   "manzanola/2",
+   "manzanola/3",
+   "manzanola/4",
+   "manzanola/5",
+   "manzanola/6",
+   "manzanola/7"
+  ],
   "tagged": {}
  },
  "81059": {
@@ -7271,7 +9666,7 @@
    {
     "name": "Ordway",
     "share": 0.391,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Lincoln County",
@@ -7279,7 +9674,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "ordway/0",
+   "ordway/7",
+   "ordway/9",
+   "ordway/1",
+   "ordway/2",
+   "ordway/3",
+   "ordway/4",
+   "ordway/5"
+  ],
   "tagged": {}
  },
  "81064": {
@@ -7324,7 +9728,7 @@
    {
     "name": "Pueblo County",
     "share": 0.725,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Huerfano County",
@@ -7342,7 +9746,9 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0"
+  ],
   "tagged": {}
  },
  "81071": {
@@ -7440,11 +9846,27 @@
    {
     "name": "Starkville",
     "share": 0.005,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "starkville/3",
+   "starkville/0",
+   "starkville/1",
+   "starkville/2",
+   "starkville/5",
+   "starkville/6",
+   "starkville/7",
+   "starkville/9"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "starkville/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81084": {
   "governments": [
@@ -7562,7 +9984,7 @@
    {
     "name": "Alamosa County",
     "share": 0.364,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Conejos County",
@@ -7570,7 +9992,13 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "alamosa-county/0",
+   "alamosa-county/1",
+   "alamosa-county/2",
+   "alamosa-county/3",
+   "alamosa-county/4"
+  ],
   "tagged": {}
  },
  "81120": {
@@ -7594,10 +10022,19 @@
    {
     "name": "Archuleta County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "archuleta-county/2",
+   "archuleta-county/0",
+   "archuleta-county/3",
+   "archuleta-county/7",
+   "archuleta-county/1",
+   "archuleta-county/4",
+   "archuleta-county/5",
+   "archuleta-county/6"
+  ],
   "tagged": {}
  },
  "81122": {
@@ -7615,10 +10052,19 @@
    {
     "name": "Archuleta County",
     "share": 0.02,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "archuleta-county/2",
+   "archuleta-county/0",
+   "archuleta-county/3",
+   "archuleta-county/7",
+   "archuleta-county/1",
+   "archuleta-county/4",
+   "archuleta-county/5",
+   "archuleta-county/6"
+  ],
   "tagged": {}
  },
  "81123": {
@@ -7668,10 +10114,16 @@
    {
     "name": "Alamosa County",
     "share": 0.009,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "alamosa-county/0",
+   "alamosa-county/1",
+   "alamosa-county/2",
+   "alamosa-county/3",
+   "alamosa-county/4"
+  ],
   "tagged": {}
  },
  "81126": {
@@ -7690,10 +10142,19 @@
    {
     "name": "Archuleta County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "archuleta-county/2",
+   "archuleta-county/0",
+   "archuleta-county/3",
+   "archuleta-county/7",
+   "archuleta-county/1",
+   "archuleta-county/4",
+   "archuleta-county/5",
+   "archuleta-county/6"
+  ],
   "tagged": {}
  },
  "81129": {
@@ -7749,7 +10210,7 @@
    {
     "name": "Del Norte",
     "share": 0.49,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Rio Grande County",
@@ -7762,7 +10223,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "del-norte/0",
+   "del-norte/1",
+   "del-norte/4",
+   "del-norte/5",
+   "del-norte/6",
+   "del-norte/2",
+   "del-norte/3",
+   "del-norte/7"
+  ],
   "tagged": {}
  },
  "81133": {
@@ -7781,7 +10251,7 @@
    {
     "name": "Alamosa County",
     "share": 0.484,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Hooper",
@@ -7794,7 +10264,13 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "alamosa-county/0",
+   "alamosa-county/1",
+   "alamosa-county/2",
+   "alamosa-county/3",
+   "alamosa-county/4"
+  ],
   "tagged": {}
  },
  "81137": {
@@ -7812,10 +10288,19 @@
    {
     "name": "Archuleta County",
     "share": 0.043,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "archuleta-county/2",
+   "archuleta-county/0",
+   "archuleta-county/3",
+   "archuleta-county/7",
+   "archuleta-county/1",
+   "archuleta-county/4",
+   "archuleta-county/5",
+   "archuleta-county/6"
+  ],
   "tagged": {}
  },
  "81138": {
@@ -7892,10 +10377,16 @@
    {
     "name": "Alamosa County",
     "share": 0.017,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "alamosa-county/0",
+   "alamosa-county/1",
+   "alamosa-county/2",
+   "alamosa-county/3",
+   "alamosa-county/4"
+  ],
   "tagged": {}
  },
  "81146": {
@@ -7903,10 +10394,16 @@
    {
     "name": "Alamosa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "alamosa-county/0",
+   "alamosa-county/1",
+   "alamosa-county/2",
+   "alamosa-county/3",
+   "alamosa-county/4"
+  ],
   "tagged": {}
  },
  "81147": {
@@ -7914,16 +10411,32 @@
    {
     "name": "Archuleta County",
     "share": 0.871,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pagosa Springs",
     "share": 0.125,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "archuleta-county/2",
+   "pagosa-springs/1",
+   "pagosa-springs/2",
+   "pagosa-springs/7",
+   "archuleta-county/0",
+   "pagosa-springs/3",
+   "pagosa-springs/8",
+   "archuleta-county/3"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "pagosa-springs/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81148": {
   "governments": [
@@ -8036,31 +10549,56 @@
    {
     "name": "Salida",
     "share": 0.621,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Chaffee County",
     "share": 0.365,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fremont County",
     "share": 0.012,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "chaffee-county/4",
+   "chaffee-county/3",
+   "chaffee-county/8",
+   "salida/5",
+   "salida/7",
+   "chaffee-county/5",
+   "chaffee-county/6",
+   "chaffee-county/10"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "salida/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81210": {
   "governments": [
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81211": {
@@ -8068,28 +10606,44 @@
    {
     "name": "Chaffee County",
     "share": 0.653,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Buena Vista",
     "share": 0.347,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "chaffee-county/4",
+   "buena-vista/3",
+   "chaffee-county/3",
+   "buena-vista/4",
+   "buena-vista/0",
+   "buena-vista/2",
+   "buena-vista/9",
+   "chaffee-county/8"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "buena-vista/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81212": {
   "governments": [
    {
     "name": "Ca\u00f1on City",
     "share": 0.542,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fremont County",
     "share": 0.451,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Brookside",
@@ -8097,7 +10651,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "canon-city/2",
+   "canon-city/1",
+   "canon-city/3",
+   "canon-city/6",
+   "canon-city/0",
+   "canon-city/13",
+   "canon-city/8",
+   "canon-city/4"
+  ],
   "tagged": {}
  },
  "81220": {
@@ -8105,15 +10668,24 @@
    {
     "name": "Gunnison County",
     "share": 0.698,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montrose County",
     "share": 0.302,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "montrose-county/8",
+   "gunnison-county/9",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2"
+  ],
   "tagged": {}
  },
  "81221": {
@@ -8126,10 +10698,19 @@
    {
     "name": "Fremont County",
     "share": 0.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81222": {
@@ -8137,10 +10718,19 @@
    {
     "name": "Fremont County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81223": {
@@ -8148,10 +10738,19 @@
    {
     "name": "Fremont County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81224": {
@@ -8159,15 +10758,24 @@
    {
     "name": "Gunnison County",
     "share": 0.584,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Crested Butte",
     "share": 0.416,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "crested-butte/1",
+   "crested-butte/2",
+   "crested-butte/3",
+   "crested-butte/6"
+  ],
   "tagged": {}
  },
  "81225": {
@@ -8180,10 +10788,19 @@
    {
     "name": "Gunnison County",
     "share": 0.124,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81226": {
@@ -8191,7 +10808,7 @@
    {
     "name": "Fremont County",
     "share": 0.45,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Florence",
@@ -8214,7 +10831,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81227": {
@@ -8222,10 +10848,19 @@
    {
     "name": "Chaffee County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "chaffee-county/4",
+   "chaffee-county/3",
+   "chaffee-county/8",
+   "chaffee-county/5",
+   "chaffee-county/6",
+   "chaffee-county/10",
+   "chaffee-county/0",
+   "chaffee-county/2"
+  ],
   "tagged": {}
  },
  "81228": {
@@ -8233,10 +10868,19 @@
    {
     "name": "Chaffee County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "chaffee-county/4",
+   "chaffee-county/3",
+   "chaffee-county/8",
+   "chaffee-county/5",
+   "chaffee-county/6",
+   "chaffee-county/10",
+   "chaffee-county/0",
+   "chaffee-county/2"
+  ],
   "tagged": {}
  },
  "81230": {
@@ -8249,7 +10893,7 @@
    {
     "name": "Gunnison County",
     "share": 0.372,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Saguache County",
@@ -8257,7 +10901,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81232": {
@@ -8265,10 +10918,19 @@
    {
     "name": "Fremont County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81233": {
@@ -8276,10 +10938,19 @@
    {
     "name": "Fremont County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81235": {
@@ -8287,7 +10958,7 @@
    {
     "name": "Lake City",
     "share": 0.593,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Hinsdale County",
@@ -8295,7 +10966,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "lake-city/2",
+   "lake-city/0",
+   "lake-city/1",
+   "lake-city/3",
+   "lake-city/9",
+   "lake-city/11",
+   "lake-city/8",
+   "lake-city/4"
+  ],
   "tagged": {}
  },
  "81236": {
@@ -8303,10 +10983,19 @@
    {
     "name": "Chaffee County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "chaffee-county/4",
+   "chaffee-county/3",
+   "chaffee-county/8",
+   "chaffee-county/5",
+   "chaffee-county/6",
+   "chaffee-county/10",
+   "chaffee-county/0",
+   "chaffee-county/2"
+  ],
   "tagged": {}
  },
  "81237": {
@@ -8314,10 +11003,19 @@
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81239": {
@@ -8325,10 +11023,19 @@
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81240": {
@@ -8336,10 +11043,19 @@
    {
     "name": "Fremont County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81241": {
@@ -8352,10 +11068,19 @@
    {
     "name": "Gunnison County",
     "share": 0.455,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81242": {
@@ -8368,10 +11093,19 @@
    {
     "name": "Chaffee County",
     "share": 0.122,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "chaffee-county/4",
+   "chaffee-county/3",
+   "chaffee-county/8",
+   "chaffee-county/5",
+   "chaffee-county/6",
+   "chaffee-county/10",
+   "chaffee-county/0",
+   "chaffee-county/2"
+  ],
   "tagged": {}
  },
  "81243": {
@@ -8379,10 +11113,19 @@
    {
     "name": "Gunnison County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81244": {
@@ -8395,10 +11138,19 @@
    {
     "name": "Fremont County",
     "share": 0.026,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6",
+   "fremont-county/7"
+  ],
   "tagged": {}
  },
  "81248": {
@@ -8411,10 +11163,19 @@
    {
     "name": "Gunnison County",
     "share": 0.179,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81251": {
@@ -8422,10 +11183,19 @@
    {
     "name": "Lake County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "lake-county/2",
+   "lake-county/3",
+   "lake-county/0",
+   "lake-county/6",
+   "lake-county/1",
+   "lake-county/7",
+   "lake-county/9",
+   "lake-county/4"
+  ],
   "tagged": {}
  },
  "81252": {
@@ -8438,7 +11208,7 @@
    {
     "name": "Silver Cliff",
     "share": 0.143,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Westcliffe",
@@ -8446,7 +11216,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "silver-cliff/3",
+   "silver-cliff/0",
+   "silver-cliff/1",
+   "silver-cliff/5",
+   "silver-cliff/2",
+   "silver-cliff/4",
+   "silver-cliff/6",
+   "silver-cliff/7"
+  ],
   "tagged": {}
  },
  "81253": {
@@ -8459,15 +11238,24 @@
    {
     "name": "Pueblo County",
     "share": 0.08,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fremont County",
     "share": 0.071,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "pueblo-county/0",
+   "fremont-county/3",
+   "fremont-county/0",
+   "fremont-county/1",
+   "fremont-county/2",
+   "fremont-county/4",
+   "fremont-county/5",
+   "fremont-county/6"
+  ],
   "tagged": {}
  },
  "81301": {
@@ -8539,7 +11327,7 @@
    {
     "name": "Dolores",
     "share": 0.194,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Dolores County",
@@ -8547,7 +11335,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "dolores/2",
+   "dolores/9",
+   "dolores/0",
+   "dolores/8",
+   "dolores/3",
+   "dolores/4",
+   "dolores/7",
+   "dolores/1"
+  ],
   "tagged": {}
  },
  "81324": {
@@ -8560,10 +11357,18 @@
    {
     "name": "Dove Creek",
     "share": 0.41,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "dove-creek/0",
+   "dove-creek/1",
+   "dove-creek/2",
+   "dove-creek/4",
+   "dove-creek/3",
+   "dove-creek/5",
+   "dove-creek/6"
+  ],
   "tagged": {}
  },
  "81325": {
@@ -8571,7 +11376,7 @@
    {
     "name": "San Miguel County",
     "share": 0.918,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Dolores County",
@@ -8579,7 +11384,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "san-miguel-county/1",
+   "san-miguel-county/0",
+   "san-miguel-county/8",
+   "san-miguel-county/5",
+   "san-miguel-county/2",
+   "san-miguel-county/6",
+   "san-miguel-county/7",
+   "san-miguel-county/4"
+  ],
   "tagged": {}
  },
  "81326": {
@@ -8652,7 +11466,7 @@
    {
     "name": "Rico",
     "share": 0.973,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Dolores County",
@@ -8660,7 +11474,9 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "rico/0"
+  ],
   "tagged": {}
  },
  "81334": {
@@ -8690,37 +11506,69 @@
    {
     "name": "Montrose",
     "share": 0.803,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montrose County",
     "share": 0.197,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "montrose/0",
+   "montrose/1",
+   "montrose/6",
+   "montrose/2",
+   "montrose/3",
+   "montrose-county/8",
+   "montrose/10",
+   "montrose-county/3"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "montrose/4"
+    ],
+    "site": false
+   }
+  }
  },
  "81403": {
   "governments": [
    {
     "name": "Montrose County",
     "share": 0.807,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montrose",
     "share": 0.133,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Ouray County",
     "share": 0.06,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "montrose-county/8",
+   "montrose/0",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose/1",
+   "montrose/6",
+   "montrose-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "montrose/4"
+    ],
+    "site": false
+   }
+  }
  },
  "81410": {
   "governments": [
@@ -8743,10 +11591,19 @@
    {
     "name": "Montrose County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81413": {
@@ -8775,15 +11632,24 @@
    {
     "name": "Crawford",
     "share": 0.241,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montrose County",
     "share": 0.158,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81416": {
@@ -8791,7 +11657,7 @@
    {
     "name": "Delta",
     "share": 0.632,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Delta County",
@@ -8801,11 +11667,27 @@
    {
     "name": "Montrose County",
     "share": 0.038,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "delta/3",
+   "delta/4",
+   "delta/7",
+   "delta/9",
+   "delta/1",
+   "delta/2",
+   "montrose-county/8",
+   "montrose-county/3"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "delta/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81418": {
   "governments": [
@@ -8833,10 +11715,18 @@
    {
     "name": "Hotchkiss",
     "share": 0.238,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "hotchkiss/0",
+   "hotchkiss/1",
+   "hotchkiss/4",
+   "hotchkiss/2",
+   "hotchkiss/3",
+   "hotchkiss/5",
+   "hotchkiss/6"
+  ],
   "tagged": {}
  },
  "81422": {
@@ -8849,10 +11739,19 @@
    {
     "name": "Montrose County",
     "share": 0.1,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81423": {
@@ -8860,20 +11759,29 @@
    {
     "name": "San Miguel County",
     "share": 0.556,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Norwood",
     "share": 0.38,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montrose County",
     "share": 0.064,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "san-miguel-county/1",
+   "san-miguel-county/0",
+   "san-miguel-county/8",
+   "norwood/0",
+   "norwood/5",
+   "san-miguel-county/5",
+   "san-miguel-county/2",
+   "san-miguel-county/6"
+  ],
   "tagged": {}
  },
  "81424": {
@@ -8886,10 +11794,19 @@
    {
     "name": "Montrose County",
     "share": 0.423,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81425": {
@@ -8897,7 +11814,7 @@
    {
     "name": "Montrose County",
     "share": 0.606,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Olathe",
@@ -8905,7 +11822,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81426": {
@@ -8913,15 +11839,24 @@
    {
     "name": "Ophir",
     "share": 0.828,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "San Miguel County",
     "share": 0.172,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "san-miguel-county/1",
+   "san-miguel-county/0",
+   "ophir/0",
+   "ophir/2",
+   "san-miguel-county/8",
+   "san-miguel-county/5",
+   "san-miguel-county/2",
+   "san-miguel-county/6"
+  ],
   "tagged": {}
  },
  "81427": {
@@ -8934,10 +11869,19 @@
    {
     "name": "Ouray County",
     "share": 0.183,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "ouray-county/0",
+   "ouray-county/1",
+   "ouray-county/2",
+   "ouray-county/3",
+   "ouray-county/4",
+   "ouray-county/5",
+   "ouray-county/6",
+   "ouray-county/7"
+  ],
   "tagged": {}
  },
  "81428": {
@@ -8950,10 +11894,19 @@
    {
     "name": "Paonia",
     "share": 0.398,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "paonia/0",
+   "paonia/5",
+   "paonia/7",
+   "paonia/11",
+   "paonia/1",
+   "paonia/3",
+   "paonia/8",
+   "paonia/2"
+  ],
   "tagged": {}
  },
  "81429": {
@@ -8961,10 +11914,19 @@
    {
     "name": "Montrose County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81430": {
@@ -8972,7 +11934,7 @@
    {
     "name": "San Miguel County",
     "share": 0.955,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Sawpit",
@@ -8980,7 +11942,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "san-miguel-county/1",
+   "san-miguel-county/0",
+   "san-miguel-county/8",
+   "san-miguel-county/5",
+   "san-miguel-county/2",
+   "san-miguel-county/6",
+   "san-miguel-county/7",
+   "san-miguel-county/4"
+  ],
   "tagged": {}
  },
  "81431": {
@@ -8988,15 +11959,24 @@
    {
     "name": "Montrose County",
     "share": 0.95,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "San Miguel County",
     "share": 0.05,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "montrose-county/8",
+   "montrose-county/3",
+   "montrose-county/7",
+   "montrose-county/9",
+   "montrose-county/0",
+   "montrose-county/1",
+   "montrose-county/4",
+   "montrose-county/6"
+  ],
   "tagged": {}
  },
  "81432": {
@@ -9004,15 +11984,24 @@
    {
     "name": "Ouray County",
     "share": 0.612,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Ridgway",
     "share": 0.386,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "ouray-county/0",
+   "ridgway/2",
+   "ridgway/7",
+   "ridgway/0",
+   "ridgway/1",
+   "ridgway/4",
+   "ridgway/6",
+   "ridgway/8"
+  ],
   "tagged": {}
  },
  "81433": {
@@ -9036,7 +12025,7 @@
    {
     "name": "Gunnison County",
     "share": 0.898,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Delta County",
@@ -9044,7 +12033,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81435": {
@@ -9057,7 +12055,7 @@
    {
     "name": "San Miguel County",
     "share": 0.296,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mountain Village",
@@ -9065,7 +12063,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "san-miguel-county/1",
+   "san-miguel-county/0",
+   "san-miguel-county/8",
+   "san-miguel-county/5",
+   "san-miguel-county/2",
+   "san-miguel-county/6",
+   "san-miguel-county/7",
+   "san-miguel-county/4"
+  ],
   "tagged": {}
  },
  "81501": {
@@ -9073,107 +12080,219 @@
    {
     "name": "Grand Junction",
     "share": 0.975,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mesa County",
     "share": 0.025,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "grand-junction/5",
+   "grand-junction/2",
+   "grand-junction/3",
+   "grand-junction/0",
+   "grand-junction/12",
+   "grand-junction/10",
+   "grand-junction/1",
+   "grand-junction/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "grand-junction/1",
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81503": {
   "governments": [
    {
     "name": "Grand Junction",
     "share": 0.506,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mesa County",
     "share": 0.494,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "grand-junction/5",
+   "grand-junction/2",
+   "grand-junction/3",
+   "grand-junction/0",
+   "grand-junction/12",
+   "grand-junction/10",
+   "grand-junction/1",
+   "grand-junction/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "grand-junction/1",
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81504": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 0.744,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Grand Junction",
     "share": 0.256,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "grand-junction/5",
+   "grand-junction/2",
+   "grand-junction/3",
+   "grand-junction/0",
+   "grand-junction/12",
+   "mesa-county/1",
+   "grand-junction/10",
+   "grand-junction/1"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "grand-junction/1",
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81505": {
   "governments": [
    {
     "name": "Grand Junction",
     "share": 0.697,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mesa County",
     "share": 0.303,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "grand-junction/5",
+   "grand-junction/2",
+   "grand-junction/3",
+   "grand-junction/0",
+   "grand-junction/12",
+   "grand-junction/10",
+   "grand-junction/1",
+   "grand-junction/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "grand-junction/1",
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81506": {
   "governments": [
    {
     "name": "Grand Junction",
     "share": 0.994,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mesa County",
     "share": 0.006,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "grand-junction/5",
+   "grand-junction/2",
+   "grand-junction/3",
+   "grand-junction/0",
+   "grand-junction/12",
+   "grand-junction/10",
+   "grand-junction/1",
+   "grand-junction/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "grand-junction/1",
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81507": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 0.593,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Grand Junction",
     "share": 0.407,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "grand-junction/5",
+   "grand-junction/2",
+   "grand-junction/3",
+   "grand-junction/0",
+   "grand-junction/12",
+   "grand-junction/10",
+   "mesa-county/1",
+   "grand-junction/1"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "grand-junction/1",
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81520": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81521": {
   "governments": [
@@ -9185,89 +12304,164 @@
    {
     "name": "Mesa County",
     "share": 0.186,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81522": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81523": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81524": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81525": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81526": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 0.508,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Palisade",
     "share": 0.492,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0",
+   "palisade/0",
+   "palisade/1",
+   "palisade/2",
+   "palisade/3",
+   "palisade/4"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81527": {
   "governments": [
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81601": {
   "governments": [
    {
     "name": "Glenwood Springs",
     "share": 0.604,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Garfield County",
@@ -9275,7 +12469,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "glenwood-springs/1",
+   "glenwood-springs/10",
+   "glenwood-springs/0",
+   "glenwood-springs/4",
+   "glenwood-springs/2",
+   "glenwood-springs/3",
+   "glenwood-springs/5",
+   "glenwood-springs/6"
+  ],
   "tagged": {}
  },
  "81610": {
@@ -9299,7 +12502,7 @@
    {
     "name": "Aspen",
     "share": 0.727,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pitkin County",
@@ -9307,7 +12510,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "aspen/8",
+   "aspen/2",
+   "aspen/3",
+   "aspen/6",
+   "aspen/0",
+   "aspen/5",
+   "aspen/1",
+   "aspen/4"
+  ],
   "tagged": {}
  },
  "81612": {
@@ -9326,7 +12538,7 @@
    {
     "name": "Snowmass Village",
     "share": 0.987,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Pitkin County",
@@ -9334,7 +12546,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "snowmass-village/0",
+   "snowmass-village/6",
+   "snowmass-village/1",
+   "snowmass-village/3",
+   "snowmass-village/2",
+   "snowmass-village/10",
+   "snowmass-village/12",
+   "snowmass-village/5"
+  ],
   "tagged": {}
  },
  "81620": {
@@ -9358,7 +12579,7 @@
    {
     "name": "Basalt",
     "share": 0.66,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Eagle County",
@@ -9371,7 +12592,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "basalt/0",
+   "basalt/4",
+   "basalt/3",
+   "basalt/1",
+   "basalt/5",
+   "basalt/9",
+   "basalt/11",
+   "basalt/6"
+  ],
   "tagged": {}
  },
  "81623": {
@@ -9399,7 +12629,7 @@
    {
     "name": "Gunnison County",
     "share": 0.017,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Marble",
@@ -9407,7 +12637,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "gunnison-county/3",
+   "gunnison-county/9",
+   "gunnison-county/0",
+   "gunnison-county/2",
+   "gunnison-county/1",
+   "gunnison-county/4",
+   "gunnison-county/5",
+   "gunnison-county/6"
+  ],
   "tagged": {}
  },
  "81624": {
@@ -9415,7 +12654,7 @@
    {
     "name": "Mesa County",
     "share": 0.691,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Collbran",
@@ -9423,15 +12662,25 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81625": {
   "governments": [
    {
     "name": "Craig",
     "share": 0.721,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Moffat County",
@@ -9439,7 +12688,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "craig/3",
+   "craig/5",
+   "craig/0",
+   "craig/1",
+   "craig/2",
+   "craig/4",
+   "craig/6",
+   "craig/7"
+  ],
   "tagged": {}
  },
  "81630": {
@@ -9447,12 +12705,12 @@
    {
     "name": "De Beque",
     "share": 0.484,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Mesa County",
     "share": 0.422,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Garfield County",
@@ -9460,15 +12718,30 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "de-beque/0",
+   "de-beque/1",
+   "de-beque/2",
+   "de-beque/3",
+   "de-beque/4",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81631": {
   "governments": [
    {
     "name": "Eagle",
     "share": 0.833,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Eagle County",
@@ -9476,7 +12749,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "eagle/0",
+   "eagle/2",
+   "eagle/1",
+   "eagle/3",
+   "eagle/7",
+   "eagle/10",
+   "eagle/5",
+   "eagle/8"
+  ],
   "tagged": {}
  },
  "81632": {
@@ -9511,18 +12793,34 @@
    {
     "name": "Parachute",
     "share": 0.193,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "parachute/1",
+   "parachute/7",
+   "parachute/8",
+   "parachute/0",
+   "parachute/2",
+   "parachute/3",
+   "parachute/4",
+   "parachute/5"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "parachute/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81637": {
   "governments": [
    {
     "name": "Gypsum",
     "share": 0.817,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Eagle County",
@@ -9535,7 +12833,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "gypsum/1",
+   "gypsum/8",
+   "gypsum/0",
+   "gypsum/5",
+   "gypsum/3",
+   "gypsum/4",
+   "gypsum/9",
+   "gypsum/2"
+  ],
   "tagged": {}
  },
  "81638": {
@@ -9548,10 +12855,19 @@
    {
     "name": "Routt County",
     "share": 0.199,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "81639": {
@@ -9559,16 +12875,32 @@
    {
     "name": "Hayden",
     "share": 0.777,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Routt County",
     "share": 0.223,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "hayden/5",
+   "routt-county/12",
+   "routt-county/4",
+   "hayden/3",
+   "hayden/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "hayden/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81640": {
   "governments": [
@@ -9586,7 +12918,7 @@
    {
     "name": "Meeker",
     "share": 0.629,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Rio Blanco County",
@@ -9599,7 +12931,13 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "meeker/0",
+   "meeker/1",
+   "meeker/2",
+   "meeker/3",
+   "meeker/4"
+  ],
   "tagged": {}
  },
  "81642": {
@@ -9618,18 +12956,28 @@
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81645": {
   "governments": [
    {
     "name": "Minturn",
     "share": 0.987,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Eagle County",
@@ -9637,7 +12985,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "minturn/10",
+   "minturn/0",
+   "minturn/1",
+   "minturn/2",
+   "minturn/3",
+   "minturn/4",
+   "minturn/9",
+   "minturn/5"
+  ],
   "tagged": {}
  },
  "81646": {
@@ -9645,18 +13002,28 @@
    {
     "name": "Mesa County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "mesa-county/1",
+   "mesa-county/0"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "mesa-county/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81647": {
   "governments": [
    {
     "name": "New Castle",
     "share": 0.659,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Garfield County",
@@ -9664,7 +13031,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "new-castle/3",
+   "new-castle/4",
+   "new-castle/5",
+   "new-castle/8",
+   "new-castle/2",
+   "new-castle/1",
+   "new-castle/7",
+   "new-castle/0"
+  ],
   "tagged": {}
  },
  "81648": {
@@ -9672,7 +13048,7 @@
    {
     "name": "Rangely",
     "share": 0.859,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Rio Blanco County",
@@ -9680,8 +13056,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "rangely/0",
+   "rangely/1",
+   "rangely/4",
+   "rangely/3",
+   "rangely/7",
+   "rangely/5",
+   "rangely/6",
+   "rangely/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "rangely/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81649": {
   "governments": [
@@ -9698,10 +13090,19 @@
    {
     "name": "Minturn",
     "share": 0.025,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "minturn/10",
+   "minturn/0",
+   "minturn/1",
+   "minturn/2",
+   "minturn/3",
+   "minturn/4",
+   "minturn/9",
+   "minturn/5"
+  ],
   "tagged": {}
  },
  "81650": {
@@ -9709,7 +13110,7 @@
    {
     "name": "Rifle",
     "share": 0.728,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Garfield County",
@@ -9722,8 +13123,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "rifle/0",
+   "rifle/7",
+   "rifle/1",
+   "rifle/5",
+   "rifle/8",
+   "rifle/3",
+   "rifle/4",
+   "rifle/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "rifle/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81652": {
   "governments": [
@@ -9746,7 +13163,7 @@
    {
     "name": "Routt County",
     "share": 0.835,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Moffat County",
@@ -9754,7 +13171,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "routt-county/1",
+   "routt-county/0",
+   "routt-county/2",
+   "routt-county/12",
+   "routt-county/4",
+   "routt-county/3",
+   "routt-county/5",
+   "routt-county/7"
+  ],
   "tagged": {}
  },
  "81654": {
@@ -9767,10 +13193,19 @@
    {
     "name": "Snowmass Village",
     "share": 0.023,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "snowmass-village/0",
+   "snowmass-village/6",
+   "snowmass-village/1",
+   "snowmass-village/3",
+   "snowmass-village/2",
+   "snowmass-village/10",
+   "snowmass-village/12",
+   "snowmass-village/5"
+  ],
   "tagged": {}
  },
  "81655": {

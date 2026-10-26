@@ -1,0 +1,141 @@
+# ridgway
+
+## [ridgway#0] 2026-08-12 | City Council | minutes
+- 2. Minutes of the Workforce and Affordable Housing Committee of July 8, 2026
+- The Council removed approval of the brew pub liquor license for Colorado Boy Pub and
+- Brewery for separate discussion
+- PUBLIC COMMENTS
+- preservation and quality of life”. He stated he feels it is “a good fit for here”, noting there are
+- Business owner Paul Choate stated he did not receive sufficient notification regarding the
+- closure of Clinton Street scheduled for a special event this Saturday. He noted the need for
+- discussion with business owners to ascertain if there will be negative impacts to business
+- before approving closures of streets
+- Robin Cascade inquired into “planning to account for water as we continue to build, especially
+- for citizens who are told to conserve and restrict water usage”. Staff explained a public
+- Town’s future water supply
+- Kyle Ronemus complimented the Town parks department and landscaping along the
+- downtown street scape, and made a donation to assist with upkeep of the dog waste bags
+- which are provided in parks
+- 10. Review of draft 2026 Housing Action Plan
+- The Council met with members of the Planning Commission to review the draft Housing
+- Action Plan, project progress and provide feedback on the items being proposed in the plan
+- 8-3-26 draft Housing Action Plan required under Colorado Senate Bill 24 -174. They noted
+- the project is expected to be completed by mid October. They displayed slides and reviewed
+- policies and procedures; provide for future housing; workforce housing enhancement;
+- momentum building; life cycle housing provisions. It was noted these areas address
+- development review and regulatory processes, land and infrastructure planning, workforce
+- and affordable housing programs, funding and implementation capacity, and housing needs
+- Mr. Manning presented the action plan for each of the categories and the implementation
+- regulations. These included enhancing the speed of public review and hearing processes;
+- workforce housing; exploring opportunities for ADU and modular units; modernized the
+- development review process; pre -approve small in- fill housing units ; implement a land
+- indicate highest priority building locations for workforce and affordable housing; align housing
+- growth with long- term water supply and infrastructure capacity; implement a land banking
+- opportunities for employer sponsored programs and housing coops
+- should be researched for addition into the plan
+- PUBLIC REQUESTS AND PRESENTATIONS
+- 10. Presentation of Ridgway Free Box concept
+- There were questions and comments from the Council, and discussion with Ms. Hessler
+
+## [ridgway#1] 2026-09-09 | City Council | agenda
+- public may attend in person at the Community Center, located at 201 N. Railroad Street, Ridgway,
+- considered to be routine by the Town Council and enacted b y one motion. The Council has
+- received and considered reports and recommendations prior to assigning consent calendar
+- public. There will be no separate discussion on these items. If discussion is requested, that item
+- will be removed from the consent calendar and considered separately
+- 2. Authorization of Mayor Clark’s signature on letter of support for the proposed recreation fee
+- 3. Ratification of letter of support for Governor Polis’ Major Disaster Declaration request
+- 4. Water leak adjustment for Account 3810.5/Pohorecki
+- PUBLIC COMMENTS Established time for the public to address the Council regarding any item
+- PUBLIC REQUESTS AND PRESENTATIONS Public comments will be limited to 5 minutes per
+- person; discussion of each item may be limited to 20 minutes
+- 6. Request for use of parking lot adjacent to the Ridgway Public Library for community parking lot
+- POLICY MATTERS Public comments will be limited to 5 minutes per person; overall discussion of
+- 7. Interviews of Sustainability Advisory Board applicants and appointment of members - Town
+- 8. Notice of Award for Pre-Approved Accessory Dwelling Unit Architectural Design Plans - Town
+- 9. Consideration of authorizing an expenditure in excess of $25,000, pursuant to the Town’s
+- Clinton Street - Town Manager
+- 10. Request to use parking lot adjacent to the Ridgway Public Library for Trunk or Treat event on
+- 11. Update from Athletic Park Coalition and request for use of Town funds to pursue professional
+- architectural and engineering design services for the Ridgway Athletic Park Bike Park
+- Athletic Park Coalition members
+- 12. Consideration of proposed modifications to Marshal’s Office Overtime Policy - Town Marshal
+- 13. Resolution No. 26-07 Accepting Completed Construction of the Ductile Iron Pipe Replacement
+- Project - Town Manager
+- 14. Discussion and direction regarding Wastewater Treatment Plant siting options - Town
+- 15. Confirmation or amendment of rescission of Stage 2 Fire Restrictions and reinstatement of
+- Stage 1 Fire Restrictions - Town Manager
+- 16. Consideration of rescinding Stage 2 Mandatory Water Restrictions - Town Manager
+- prior to the meeting updating Council on various matters that may or may not warrant discussion
+- 17. 2026 Strategic Plan Progress Report
+- 18. Proposed schedule for preparation of the 2027 Fiscal Year Budget
+- Ridgway Parks, Trails & Open Space Committee - Councilor Kroger
+- Board Appointments:
+
+## [ridgway#2] 2026-10-14 | City Council | agenda
+- public may attend in person at the Community Center, located at 201 N. Railroad Street, Ridgway,
+- considered to be routine by the Town Council and enacted by one motion. The Council has
+- received and considered reports and recommendations prior to assigning consent calendar
+- public. There will be no separate discussion on these items. If discussion is requested, that item
+- will be removed from the consent calendar and considered separately
+- 4. Updated Revocable Electric Vehicle Charging Station License Agreement between the Town
+- Public Comments Established time for the public to address the Council regarding any item
+- Public Requests and Presentations Public comments will be limited to 5 minutes per
+- person; discussion of each item may be limited to 20 minutes
+- 5. Presentation of the 2025 Fiscal Year Audit - Brian Blair, Blair and Associates
+- 6. Request to close streets for annual Noel Night Parade - Jon Hill, Ridgway Area Chamber of
+- Public Hearings Public comments will be limited to 5 minutes per person; discussion of
+- 7. Application: Site Plan for Riverbend Townhomes at Lot 10 of Block 3 of the Liddell-Stanton
+- Business Park Subdivision; Location: West side of Liddell Drive. Address: TBD Liddell Drive;
+- 8. Application: Amended Plat for Lot 4 and Outlot of the Riverview Business Park Subdivision;
+- Policy Matters Public comments will be limited to 5 minutes per person; overall discussion of
+- 9. Resolution No. 26-08 Adopting the Town of Ridgway Housing Action Plan - Points Consulting
+- 10. Presentation of the Draft Water Supply Element and overview of the remaining steps in the
+- Town of Ridgway Master Plan Amendment Process - Points Consulting and Senior Planner
+- Break to Convene as Ridgway Workforce & Affordable Housing
+- 11. Resolution No. 26-09 Expressing the Town’s Intent to Participate in the Proposition 123 2027
+- Ouray County - Eva Henson, Housing Services Director, Home Trust of Ouray County
+- 12. Presentation of the Draft 2027 Fiscal Year Budget - Town Clerk/Treasurer
+- 13. Review and action on target funding amount for 2026 Community Grant Program - Town
+- 14. Resolution No. 26-10 Modifying the Town of Ridgway Water Conservation and Management
+- Plan - Town Manager
+- 15. Review and action on Permanent Non-Exclusive Easement Agreement between the Town of
+- 17. Confirmation of rescission of Stage 1 Fire Restrictions - Town Manager
+- prior to the meeting updating Council on various matters that may or may not warrant discussion
+- 20. 2026 Strategic Plan Progress Report
+- Ridgway Parks, Trails & Open Space Committee - Councilor Kroger
+
+## [ridgway#3] 2026-10-14 | City Council | agenda
+- Ridgway Workforce & Affordable Housing Committee
+- the public may attend in person at the Community Center, located at 201 N. Railroad
+- Street, Ridgway, Colorado 81432, or virtually using the meeting information below
+- 1. Quarterly Report from Hou sing Services Administrator - Eva Henson, Housing
+- 2. Presentation of Notice of Intent to Sell property at 683 Frederick St. and
+- consideration of exercising the Right of First Refusal to purchase the property for
+- the Maximum Sale Price - Eva Henson, Housing Services Director, Home Trust of
+- From: Eva Henson, Housing Services Director
+- RE: Aﬀordable Housing Services Administrator Quarterly Report – Q3 2026
+- Housing Services Quarterly Report Q3 (July - September 2026)
+- Housing Services Administrator between Home Trust of Ouray County (HTOC), the Town of
+- July, and October to summarize Housing Services activities and accomplishments from the
+- preceding quarter and identify priorities and planned activities for the upcoming quarter
+- Q4 2026. It summarizes work across regional Housing Services administration, deed-restriction
+- program and policy development, and ﬁnancial and grant management
+- identify upcoming priorities, and maintain coordination among HTOC and the three
+- participating jurisdictions as regional housing programs and initiatives continue to develop
+- Housing Services Program Administration
+- During Q3 (July–September), Housing Services focused on ongoing program administration,
+- strengthening operational systems, and advancing regional housing priorities. Key activities
+- included deed-restriction administration, rental housing operations, program compliance, and
+- Milestone: One Year of Regional Housing Services Administration: October 14, 2026,
+- Housing Services Administrator under executed agreements with the Town of Ridgway,
+- Henson’s hiring and start as Housing Services Director
+- at the HTOC 5-plex at 835 2nd Street through a community partnership involving the
+- LLC. The improvements returned the one-bedroom unit to the aﬀordable rental
+- Affordable Housing Program Compliance – Supported ongoing compliance with
+- affordable housing program requirements, including coordinating the September 22 site
+- visit and property inspection conducted by the Colorado Housing and Finance Authority
+- (CHFA), HTOC’s lender, for the six-unit property at 734 4th Street, as required under the
+- of the regional deed-restricted housing inventory
+- its ﬁrst 1% administrative fee under the deed restriction covenant, totaling $3,950. The
+- transaction provided an opportunity to implement the administrative fee provision as

@@ -1,0 +1,182 @@
+# gypsum
+
+## [gypsum#0] 2026-07-28 | Town Council | minutes
+- Council Member Tom Edwards moved to approve the consent agenda
+- After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- ORDINANCES AND RESOLUTIONS
+- Ordinance No. 08 (Series 2026) - An Ordinance of the Town of Gypsum, Colorado Amending
+- Section 13.05.010 of the Municipal Code Concerning Returned Payments for Water and
+- Wastewater Service
+- eading***Public Hearing**
+- or Hoffman explained how the use of certified funds would streamline processes and reduce
+- o Tem Huffman opened to public comment
+- o Tem Huffman closed to public comment
+- ember Jay Oyler moved to approve Ordinance No. 08 (Series 2026)
+- No. 09 (Series 2026) - An Ordinance Amending and Replacing Section 13.01.070(1),
+- and Repealing Sections 13.01.310 (3) and (4) and Amending Section 13.01.310 to Clarify Section
+- **Second Reading***Public Hearing**
+- or Hoffman outlined the updated phases and described how the ordinance would help
+- ember Tom Edwards moved to Ordinance No. 09 (Series 2026)
+- No. 10 (Series 2026) An Ordinance Amending the Tower Center PUD Guide for the
+- Tower Center Planned Unit Development First Amendment
+- No. 10 (Series 2026) First Amendment to Tower Center PUD Guide - First Reading.pdf
+
+## [gypsum#1] 2026-08-11 | Town Council | minutes
+- Council Member Marisa Sato moved to approve the consent agenda
+- After consideration, the motion passed by the following vote: AYES: Tom Edwards, Scott Green,
+- Bighorn Road Special Event Permit
+- Council Member Marisa Sato moved to approve the Special Event Permit for the Bighorn Road
+- Gypsum resident Michele Gieg expressed appreciation for the Town’s road improvements while
+- Sweetwater Lake NEPA Project - Safety, Wildlife, & History
+- regarding the NEPA Project at Sweetwater Lake
+- ORDINANCES AND RESOLUTIONS
+- Ordinance No. 10 (Series 2026) An Ordinance Amending the Tower Center PUD Guide for the
+- Tower Center Planned Unit Development First Amendment
+- **Second Reading***Public Hearing**
+- Tony Lamonia of Eagle County Land Company, LLC, provided a brief presentation outlining the
+- Ordinance No 10 (Series 2026) Second Reading.pdf
+- Member Edwards opened to public comment
+- Member Edwards closed to public comment
+- Council Member Marisa Sato moved to approve Ordinance No. 10 (Series 2026)
+- Resolution No. 22 (Series 2026) A Resolution of the Town of Gypsum Approving the Tower Center
+- Filing No. 2 Final Plat and Subdivision Improvement Agreements
+- Council Member Jay Oyler moved to table Resolution No. 22 (Series 2026)
+- Ordinance No. 11 (Series 2026) An Ordinance of the Town of Gypsum, Colorado, Repealing and
+- Reenacting Chapter 3.02 of Title 3 to Bring the Town's Sale Tax Regulations into Compliance with
+- State Statutes and Allow State Collection of Sales Tax
+- Director Goolsby provided an overview of the changes implemented by the ordinance
+- Ordinance No. 11 (Series 2026) First Reading.pdf
+- Council Member Jay Oyler moved to approve Ordinance No. 11 (Series 2026)
+- Change Order Number 2 to the Contract with A.J. Construction for the Clubhouse Restoration
+- A discussion ensued regarding fixtures and furnishings on the lower level
+- Council Member Tom Edwards moved to approve Change Order Number 2 of the contract with A.J
+- Construction for the Clubhouse Renovation Project in the amount of $241,269.06
+- Manager Rietmann reported that water consumption had decreased by 20 percent compared to last
+- fter consideration, the motion passed by the following vote: AYES: Tom Edwards, Scott Green,
+
+## [gypsum#2] 2026-08-25 | Town Council | minutes
+- Council Member Marisa Sato moved to approve the consent agenda
+- After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- Gypsum resident Eric Medina asked Council to consider different policies concerning golf carts and
+- ORDINANCES AND RESOLUTIONS
+- Ordinance No. 11 (Series 2026) An Ordinance of the Town of Gypsum, Colorado, Repealing and
+- Reenacting Chapter 3.02 of Title 3 to Bring the Town's Sale Tax Regulations into Compliance with
+- State Statutes and Allow State Collection of Sales Tax
+- **Second Reading***Public Hearing**
+- Ordinance No. 11 (Series 2026) Second Reading.pdf
+- Mayor Green opened to public comment
+- Mayor Green closed to public comment
+- Council Member Tom Edwards moved to approve Ordinance No. 11 (Series 2026)
+- Resolution No. 22 (Series 2026) A Resolution of the Town of Gypsum Approving the Tower Center
+- Filing No. 2 Final Plat and Subdivision Improvement Agreements
+- **Public Hearing**
+- Planner Wooldridge provided a brief overview of the agreements. Scot Hunn of Hunn Planning &
+- Policy delivered an in-person presentation, while the remaining presenters, Tony Lamonia, Daniel
+- Resolution No. 22 (Series 2026).pdf
+- Mayor Pro Tem Huffman opened to public comment
+- Mayor Pro Tem Huffman closed to public comment
+- Council Member Tom Edwards moved to approve Resolution No. 22 (Series 2026)
+- Resolution No. 23 (Series 2026) A Resolution Calling a Special Coordinated Election to be Held on
+- Concerning the Imposition of a Lodging Tax
+- Manager Rietmann clarified that this tax would replace the existing county tax rather than create an
+- Discussion followed regarding a letter submitted by a resident requesting that this ballot measure
+- Additional discussion took place regarding the ballot language
+- Lodging Tax Resolution No. 23 (Series 2026).pdf
+- Council Member Jay Oyler moved to approve Resolution No. 23 (Series 2026)
+- Laura Bohannon and Ryan Vlaar delivered a presentation focused on the Conservation District’s
+- Josh Rumble presented an update on the Abrams Creek crossing project and the water quality
+- Director Hoffman delivered a comprehensive presentation outlining the organizational structure,
+- core responsibilities, and ongoing projects of the Public Utilities Department
+- Presentation of Change Order 2 to the Contract with A-1 Chipseal Company for the 2025/2026
+- Gypsum Street Renovations - Chipseal, Slurry Seal Project
+- Council Member Tom Edwards moved to approve Change Order 2 to the contract with A-1 Chipseal
+- Company in the amount of $ 14,570.63 for the 2025/2026 Street Renovations Chipseal and Slurry
+
+## [gypsum#3] 2026-09-02 | Design Review Board | agenda
+- Minutes approval from May 6, 2026
+- Persons with disabilities needing auxiliary aids may request assistance by contacting Cholpon Lord, Planning Secretary, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-1737 during business hours. We would appreciate you contacting us at least 72
+
+## [gypsum#4] 2026-09-08 | Town Council | minutes
+- il Member Marisa Sato moved to approve the consent agenda
+- ter consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- psum Chamber of Commerce - Gyptober Fall Fest Special Event Permit
+- Council Member Marisa Sato moved to approve the Gyptober Fall Fest Special Event Permit
+- After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- Eric Medina, a Gypsum resident, requested an independent investigation into the Town regarding
+- license plate reader cameras and potential legal claims
+- Cop and asked that it be considered during the upcoming budget discussions
+- was joined by Courtney Harris of Colorado Parks and Wildlife, who provided statistics on bear
+- Discussion followed about the availability and cost of bear-resistant cans
+- ORDINANCES AND RESOLUTIONS
+- Resolution No. 24 (Series 2026) A Resolution Confirming Town Manager Administrative Order
+- 2026-4 Repealing Stage 2 Fire Restrictions and Imposing Stage 1 Fire Restrictions
+- Manager Rietmann explained that this resolution would move the Town down to Stage 1 to align
+- Resolution No. 24 (2026).pdf
+- Council Member Jay Oyler moved to approve Resolution No. 24 (Series 2026)
+- olution No. 25 (Series 2026) A Resolution of the Town of Gypsum Approving Assignment and
+- Assumption of Subdivision Improvement Agreement for the Tower Center Filing No. 2 Final Plat
+- and Subdivision Improvement Agreements
+- rector Bryce outlined this component of the ongoing Tower Center project
+- il Member Marisa Sato moved to approve Resolution No. 25 (Series 2026)
+- presentation informing the Council about their work supporting children affected by crime
+- ecurity Camera Discussion
+- Manager Engen delivered a detailed presentation on the camera technology the Town uses for
+- ense Plate Readers Discussion
+- Rietmann provided an overview of the issue that had become a focal point of discussion
+- engthy discussion followed with many questions from Council
+- il Member Tom Edwards moved to approve contracting with UMB Financial Services for the
+- Municipal Financial Advisor contract in an amount not to exceed $50,000
+- esentation of Change Orders 1-3 for the Gypsum Recycling Center Project
+- il Member Marisa Sato moved to approve Change Orders 1, 2, & 3 for the Gypsum Recycling
+- Center Project in the amount of $28,598.27, with Gypsum paying $12,111.63 and Eagle County
+- rder Number 3 to the Contract with A.J. Construction for the Clubhouse Restoration
+- sistant Manager Hancock informed Council that the project is complete besides a final punch list
+- il Member Tom Edwards moved to approve Change Order Number 3 of the contract with A.J
+
+## [gypsum#5] 2026-09-22 | Town Council | minutes
+- Mayor Pro Tem Chris Huffman moved to approve the consent agenda
+- After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- ayor Pro Tem Chris Huffman moved to approve the Hotel & Restaurant Liquor License for Taco
+- fter consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- m McMahon - Public Comment
+- RDINANCES AND RESOLUTIONS
+- esolution No. 26 (Series 2026) A Resolution Authorizing the Submission of an Application for the
+- FHWA PROTECT Competitive Grant Program for Planning and Design Activities for the I-70 Eagle
+- Airport Interchange Project
+- ngineer Figgs briefly outlined the process for securing grant funding for the interchange project
+- ouncil Member Tom Edwards moved to approve Resolution No. 26 (Series 2026)
+- utomated License Plate Readers Discussion**Public Comment Period on Cameras/ALPR's**
+- **Each individual may speak once for up to 3 minutes. The total public comment period is limited to
+- regarding the contract with the Sheriff’s Office
+- m McMahon asked if council had approved the cameras
+- ublic Comment Policy Discussion
+- ttorney Winn provided historical and legal context on the current public comment policy
+- ouncil decided to shift to a general public comment period at the beginning of each meeting
+- udit Presentation
+- oe Hood, owner of Hood PC, delivered a comprehensive presentation on the 2025 audit
+- ouncil Member Jay Oyler moved to approve the Town of Gypsum financial statements,
+- council’s direction regarding public comment
+- ief Kirkland updated council on making it through fire restrictions with fewer historical incidents
+- and the upcoming Santa parade and night of excellence awards dinner
+- anager Rietmann informed the council about the lightning strike at the Mosher water plant and
+- staff’s work in developing the draft 2027 budget
+
+## [gypsum#6] 2026-10-07 | Planning and Zoning Commission | agenda
+- APPROVAL OF MINUTES
+- Approval of minutes from July 15, 2026
+- RESOLUTIONS AND ORDINANCES
+- PZ Resolution No. 08 (Series 2026) A Resolution of the Town of Gypsum Planning and Zoning Commission Approving a Zoning Variance for Setback Requirements for 374 Jules Way, Gypsum, Colorado
+- ** Public Hearing **
+- PZ Resolution No.08 (Series 2025) A Resolution of the Town of Gypsum Planning and Zoning Commission Approving a Zoning Variance for Setback Requirements for 374 Jules Way, Gypsum, Colorado.pdf
+- Persons with disabilities needing auxiliary aids may request assistance by contacting Cholpon Lord, Planning Secretary, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-7514 during business hours. We would appreciate you contacting us at least 72
+
+## [gypsum#7] 2026-10-13 | Town Council | agenda
+- PUBLIC COMMENT
+- ORDINANCES AND RESOLUTIONS
+- Resolution No. 27 (Series 2026) A Resolution Confirming Town Manager Administrative Order 2026-5
+- Resolution No. 27 (2026).pdf
+- *Public Comment Period*
+- Ian Grask, Development & Grants Manager, Bravo!Vail
+- Presentation of Bids and Selection of Contractor for the Cooley Mesa Road Pump Station Generator Project
+- Q3 Issued Building Permits
+- Persons with disabilities needing auxiliary aids may request assistance by contacting Polly Keene, Town Clerk, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-1737 during business hours. We would appreciate you contacting us at least 72 hours in

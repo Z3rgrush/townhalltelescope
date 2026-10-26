@@ -1,0 +1,570 @@
+# blue-river
+
+## [blue-river#0] 2026-08-04 | Planning and Zoning Commission | minutes
+- BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
+- Approval of Minutes
+- Commissioner Cleary moved and Commissioner Carlsted provided a second to approve
+- the minutes of the June 2026 Planning & Zoning Commission Meeting. All ayes
+- Project Approval
+- The Building Official submitted a Planning/Zoning/Architectural Guidelines Review in
+- the agenda packet indicating the proposed project's full or partial compliance with all
+- Development Standards
+- The Commission reviewed the application for proposed porch additions, roof work,
+- siding, decks, and related exterior improvements at 6871 Highway 9
+- The Commission discussed whether the proposed work triggered requirements under
+- the Colorado Wildfire Resiliency Code, including the threshold that may require broader
+- analysis. The Commission stated that the applicant, staff, or plan reviewer should
+- provide the necessary measurements and determination before the application is
+- Members reviewed the submitted elevations and discussed the proposed roofing,
+- adequately specified for determining compliance with wildfire-resiliency requirements
+- The Commission also discussed the completeness of other propvided application
+- and access information, lack of clear parking information, and lack of details regarding
+- the second Highway 9 access point. Members noted that Type A applications should
+- The Commission discussed the existing second driveway/access point on Highway 9
+- and whether the Highway 9 Access Control Plan would require removal of the second
+- access. Town Attorney Bob Widner advised that the Commission may request
+- information necessary to apply the approval criteria. He further advised that requiring
+- proposed project implicates access, parking, circulation, or a larger redevelopment, but
+- may not be appropriate for a limited porch or entry improvements that do not modify
+- parking or access. He noted that the access-control policy encourages reduction of
+- access points but does not necessarily require removal for every minor project
+- The Commission also discussed a separate interior remodel reportedly underway at the
+- Town Attorney advised that interior improvements do not necessarily implicate a
+- change to access or parking unless they affect the use, parking demand, circulation,
+- After discussion, the Commission determined that the application lacked sufficient
+- information for decision-making. The Commission identified needed information
+- including a current survey or site plan showing property lines, setbacks, easements,
+- encumbrances, existing driveway/access layout, parking spots, snow storage if
+
+## [blue-river#1] 2026-08-12 | General | agenda
+- however, that public comments will not be taken virtually, but will only be accepted in
+- person during public comment periods
+- distributed separately to the Board of Trustees
+- 1. A work session to discuss short-term rental policy as a basis for focusing the Board’s
+- ongoing work concerning potential amendments to the Town’s Short-Term Rental
+- Program and Ordinance
+- The subcommittee discussed STR policy with a focus on two speciﬁc issues: the use of
+- Town staff provided three recommended zoning options for subcommittee review which
+- data provided for consideration included percentages based on all “buildable” lots in each
+- from the STR calculations, seeing as STRs are not permitted. This removed one possible
+- (condominiums across from Town Hall) are functionally distinct from other development in
+- Town limits, as it is multi-family in nature. The subcommittee requested maps with ﬁve
+- zones and six zones be provided to the Board for consideration
+- depending on the zoning map that is approved by the Board
+- Please remember: these are recommendations and not decisions. All items discussed at
+- the subcommittee are up for consideration and revision by the Board as policy is
+- prior to the moratorium but not properly integrated in the ﬁrst draft of data) and a reduction
+- 10/3/25 25-1566 164 Calle De Plata Noise
+- 10/4/25 25-1577 475 Whispering Pines Parking
+- 10/4/25 25-1578 322 Davis Ct Parking
+- 10/6/25 25-1588 149 CR 801 Parking
+- 10/11/25 25-1597 104 Sherwood Ln Parking
+- 10/11/25 25-1598 656 Coronet Dr Parking
+- 12/17/25 25-1789 284 Lakeshore Lp Parking
+- 1/30/26 26-0102 127 Lakeshore Loop Parking
+- 1/31/26 26-0103 504 Coronet Dr Parking
+- 2/25/26 26-0194 164 Calle De Plata Noise
+- 3/20/26 26-0294 170 Whipering Pines Cir Parking
+- 3/23/26 26-0325 331 Lakeshore loop Parking
+- 5/8/26 26-0556 42 Backland Ct Fire
+- 5/15/26 26-0588 56 Red Mountain Parking
+- 5/16/26 26-0597 180 Whispering Pines Parking
+- 5/23/26 26-0639 675 Whispering Pines Parking
+- 6/4/26 26-0737 195 97 Cir Parking
+- 6/5/26 26-0741 438 Crown Parking
+- 6/5/26 26-0747 552 97 Cir Fire
+- 6/13/26 26-0834 89 Sherwood Fire
+- 6/14/26 26-0843 397 Whispering Pines Parking
+- 6/14/26 26-0844 210 97 Circle Parking
+- 6/21/26 26-0891 123 Royal Dr Parking
+- 7/10/26 26-1103 160 Whispering Pines Cir Parking
+- 7/11/26 26-1118 649 Blue River Rd Parking
+- 7/11/26 26-1119 566 Blue River Rd Parking
+- 7/11/26 26-1124 551 97 Cir Parking
+- 7/17/26 26-1187 25 Cooney Cr Parking
+- 7/18/26 26-1190 143 Tesemini Ln Parking
+- 7/18/26 26-1192 382 Coronet Parking
+- 7/18/26 26-1197 6657 State Highway 9 Fire
+- 7/25/26 26-1259 180 Whispering Pines Parking
+- 7/25/26 26-1274 25 Cooney Ct Parking
+
+## [blue-river#2] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
+- however, that public comments will not be taken virtually, but will only be accepted in
+- person during public comment periods
+- Approval of Agenda/Consent Agenda
+- 1. Approval of Minutes
+- 2. Approval of Financial Report
+- distributed separately to the Board of Trustees
+- 1. A Discussion by the Board of Trustees regarding a Bylaw Policy for Agenda Setting
+- 1. Resolution No. 2026-10
+- a. Approval of Resolution No. 2026-10 – a Resolution Repealing Resolution No. 13
+- 05, A Resolution Adopting Rules and Regulations for the Use of Boat Docks
+- 2. Resolution No. 2026-11
+- a. Approval of Resolution No. 2026-11 – a Resolution of the Board of Trustees of
+- 3. Ordinance No. 2026-06
+- a. Public Hearing
+- b. Approval of Ordinance No. 2026-06 – an Ordinance of the Board of Trustees of
+- Blue River, Colorado, Amending the Transition Zone District (TD) to set a
+- Minimum Lot Size, Minimum Lot Width, and Amending Setbacks
+- 4. Ordinance No. 2026-07
+- b. Approval of Ordinance No. 2026-07 – an Ordinance of the Board of Trustees of
+- Development Code Effective October 1, 2026, Subject to Condition that
+- Ordinance No. 26-06 is in Full Force and Effect on October 1, 2026
+- b. Chief of Police
+- advice on questions concerning interpretation of contract terms and to devise negotiation
+- strategy and instruct negotiators concerning a services agreement
+
+## [blue-river#3] 2026-08-18 | Regular Meeting of the Board of Trustees | agenda
+- however, that public comments will not be taken virtually, but will only be accepted in
+- person during public comment periods
+- Approval of Agenda/Consent Agenda
+- 1. Approval of Minutes
+- 2. Approval of Financial Report
+- distributed separately to the Board of Trustees
+- 1. A Discussion by the Board of Trustees regarding a Bylaw Policy for Agenda Setting
+- 1. Resolution No. 2026-10
+- a. Approval of Resolution No. 2026-10 – a Resolution Repealing Resolution No. 13
+- 05, A Resolution Adopting Rules and Regulations for the Use of Boat Docks
+- 2. Resolution No. 2026-11
+- a. Approval of Resolution No. 2026-11 – a Resolution of the Board of Trustees of
+- 3. Ordinance No. 2026-06
+- a. Public Hearing
+- b. Approval of Ordinance No. 2026-06 – an Ordinance of the Board of Trustees of
+- Blue River, Colorado, Amending the Transition Zone District (TD) to set a
+- Minimum Lot Size, Minimum Lot Width, and Amending Setbacks
+- 4. Ordinance No. 2026-07
+- b. Approval of Ordinance No. 2026-07 – an Ordinance of the Board of Trustees of
+- Development Code Effective October 1, 2026, Subject to Condition that
+- Ordinance No. 26-06 is in Full Force and Effect on October 1, 2026
+- b. Chief of Police
+- strategy and instruct negotiators on the use of different means and methods for trail
+- advice on questions concerning interpretation of contract terms and to devise negotiation
+- strategy and instruct negotiators concerning a services agreement
+- Statement of Revenues, Expenditures and Changes in Fund Balance with Budget Comparison .................... 2-6
+- American Rescue Plan Funds 3090 185,716 63,786 65,084
+- ColoTrust Broadband 214,588 326,786 334,025
+- AR:Sales Tax 102,093 111,067
+- AR:Lodging Tax 82,769 86,098
+- AR:Use Tax 4,517 4,862
+- AR:Specific Ownership Tax 4,029 4,031
+- AR:Defensible Space - Prior Years Grant
+- Property Taxes Receivable 870,812 930,583 53,347
+- QuickBooks Tax Holding Account 5,774
+- Payroll Liabilities:CO Income Tax 7,702 5,774 (4,245)
+- Payroll Liabilities:Federal Tax 15,322
+- Deferred Revenue - Property Tax 870,812 930,583 53,347
+- Fund Balance - Amendment 1
+- Reserves-Road Improvements
+- Fund Balance Broadband 214,588 215,738 184,534
+- ACTUAL, BUDGET AND FORECAST FOR THE PERIODS INDICATED Printed: 8/17/2026
+- Cal Yr Cal Yr Cal Yr Cal Yr 2026 Projected 2026 Ended Ended Variance Variance
+- Actual Actual Actual Preliminary Budget Fav(Unfav) Forecast Actual Budget (Unfavor) Actual Budget (Unfavor)
+- Mill Levy Rate 12.290 12.290
+- Temporary mill levy credit (1.831) (1.831)
+- Mill Levy Rate 10.459 10.459
+- General Property Tax 691,557 677,351 853,782 869,833 930,583 - 930,583 877,236 895,224 (17,989) 229,801 239,756 (9,955)
+
+## [blue-river#4] 2026-08-25 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- separately to the Board of Trustees
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning short-term
+- rentals (STRs) within the Town of Blue River. This agenda may be formally or informally amended during the
+- 3. Presentation of New Data and Information (Hull)
+- 4. Discussion:
+- A. Direction to Staff for Incorporation into Draft STR Ordinance Effective Jan. 1, 2027:
+- (i) Confirm Approval of Zone Concept
+- (ii) Confirm Approval of Caps % for all Zones
+- (iv) Program for Application of New Licenses (when Zone is under the Cap)
+- (v) Program for Application of New Licenses (when surplus available in future)
+- B. Direction to Staff for Incorporation into Draft STR Ordinance Effective Jan. 1, 2028:
+
+## [blue-river#5] 2026-08-25 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- separately to the Board of Trustees
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning short-term
+- rentals (STRs) within the Town of Blue River. This agenda may be formally or informally amended during the
+- 3. Presentation of New Data and Information (Hull)
+- 4. Discussion:
+- A. Direction to Staff for Incorporation into Draft STR Ordinance Effective Jan. 1, 2027:
+- (i) Confirm Approval of Zone Concept
+- (ii) Confirm Approval of Caps % for all Zones
+- (iv) Program for Application of New Licenses (when Zone is under the Cap)
+- (v) Program for Application of New Licenses (when surplus available in future)
+- B. Direction to Staff for Incorporation into Draft STR Ordinance Effective Jan. 1, 2028:
+- Owner-Occupied Permit
+- primary residence permit only
+- Classic Permit
+- required to be a Chaffee County
+- 30 for Chaffee County
+- 119 for non Chaffee
+- No cap for Chaffee
+- within 200 feet of another
+- street segment Must rent at least once per year None None Not at cap Not public
+- 50 units or 10% of housing
+- STR application is files None None None Not public
+- of existing permit
+- Winter Park, CO
+- persons" Four stays in permit year
+- Carbondale, CO
+- advance of permit
+- avoid STR Regulatory Fee OR the
+- permit window
+- Residential Permit
+- Non-Residential Permit
+- resident of Chaffee
+- be located within 250 feet
+- Silverton, CO Vacation Rental
+- P zoning districts
+- No applications will be
+- No other vacation rentals
+- Municipality Unlicensed Penalty Revocation Penalty Violation Model Maximum Occupancy Allocation System Fee Structure
+- requires additional parking
+- spaces and Town approval
+- hearing Not public Waitlist
+- Permittee must respond to inquiries from the City within 24 hours
+- 3rd Offense - revocation of licsnese without reapplication
+- 3rd Offense - revocation of licsnese without reapplication for 1
+- Renewal fee not public, $850 for
+- Public Hearing
+- Hearing Not public Not public
+- Three violations require a show cause hearing before City
+- Council. One year revocation period 2+2 model, no maximum Waitlist Annual fee - $325
+- One or more violations of the Code Chapter with hearing
+- Administrative - violation notice, hearing, revocation
+- $150 annual application fee plus
+- Winter Park, CO Not public
+- prohibition, following hearing with Town Manager
+- following hearing with Town Manager
+- require a special use permit N/A
+- $150 registration fee, total costs
+- separate offense
+- $400 new application
+- Regulatory Fee
+- 3rd and subsequent offenses - $1000 and/or revocation of permit
+
+## [blue-river#6] 2026-09-01 | Planning and Zoning Commission | minutes
+- BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
+- Approval of Minutes
+- approve the minutes of the July 2026 Planning & Zoning Commission Meeting. All ayes
+- Project Approval
+- The Building Official submitted a Planning/Zoning/Architectural Guidelines Review in
+- the agenda packet indicating the proposed project's compliance with applicable
+- Development Standards
+- The Commission reviewed revised application materials previously requested at the
+- Wildfire Resiliency Code. As a result, the proposed materials could proceed as
+- The Commission reviewed revised survey and easement information and discussed the
+- The Commission also discussed the property's two existing driveway access points
+- its presence as early as 2008. Staff noted that the current application does not propose
+- modifications to circulation or access improvements
+- The Commission discussed that any future modifications to the driveway or parking
+- CDOT access requirements. However, because the current application does not alter
+- After discussion, the Commission found that the applicant had adequately addressed
+- the concerns identified during the July meeting
+- Commissioner O’Brien moved to approve the application as presented. Commissioner
+- residence at 1253 Indiana Creek Road. The session was designed to provide guidance
+- to the applicant regarding the proposed application
+- The Commission discussed interpretation of the Town's building-height regulations,
+- within the Land Use Code and discussed whether recessed garage entrances should be
+- Following discussion, the Commission generally agreed that the proposed recessed
+- garage entrances may qualify as basement-entry features contemplated by the Code
+- The Commission requested revised exhibits showing both existing and proposed grades
+- to clearly demonstrate compliance with the 35-foot height limitation
+- The Commission also discussed the proposed floor plan, including the presence of two
+- separate living areas, and the potential for future conversion. The Town Attorney
+- enforce and that future use of the structure must be considered as part of the review
+- Discussion included the possibility of restrictive covenants or conditions concerning
+- The Commission next discussed proposed garage and vehicle-gallery areas within the
+- designed, meets the Code definition of a garage. Discussion focused on possible
+- The Commission also discussed the relationship between the proposed carriage house
+- application for formal review:
+- c. Revise garage areas or calculations to demonstrate compliance with the 25%
+- B. Discussion of Blue River Wetland Protection Program Items
+
+## [blue-river#7] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
+- Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
+- Approval of Agenda/Consent Agenda
+- 1. Approval of Minutes
+- 2. Approval of Financial Report
+- Trustee Slaughter moved to approve the Consent Agenda and Financial Report. Trustee
+- In-person public comments were made by Jim Schwalls, Jane Hardy, Cindi Pilling, Nancy Wile,
+- neighboring construction projects, and clarification of property access and easement matters
+- Residents also discussed aging septic systems and environmental concerns along Blue River
+- Road, as well as requesting Town assistance in exploring grants, financing mechanisms, and
+- partnerships for future sewer infrastructure improvements
+- and prioritization of enforcement of existing regulations before consideration of additional
+- restrictions. Residents also discussed property values, quality-of-life impacts, investor-owned
+- Additional comment included concerns regarding speeding on Indiana Creek Road and
+- requests for consideration of traffic-calming measures
+- Public comment was closed by Mayor Pro Tem Willey
+- 1. Board Discussion of a Draft Policy on Agenda Item Placement
+- a. The Board discussed a proposed bylaw policy addressing agenda item
+- Discussion focused on establishing a clear process for bringing items before the
+- draft language and supported moving the policy for future formal consideration
+- 1. Resolution No. 2026-10
+- a. Approval of Resolution No. 2026-10 – a Resolution Repealing Resolution No. 13
+- 05, A Resolution Adopting Rules and Regulations for the Use of Boat Docks
+- The Town Attorney provided background regarding an existing resolution that
+- authorized permits for private boat docks at Goose Pasture Tarn. Discussion
+- to dock permits through the repeal of Resolution 13-05
+- Trustee Slaughter moved to adopt Resolution No. 2026-10. Trustee Stuckey
+- 2. Resolution No. 2026-11
+- a. Approval of Resolution No. 2026-11 – a Resolution of the Board of Trustees of
+- The Town Manager presented the resolution, explaining that it would streamline
+- Trustee Stuckey moved to adopt Resolution No. 2026-11. Trustee Demovic
+- 3. Ordinance No. 2026-06
+- a. Public Hearing
+- Public comment was received from Nancy Wile regarding setback requirements
+- The Town Attorney reviewed the proposed ordinance amending the Transition
+- building height standards. Discussion focused on consistency with existing R-1
+- zoning standards, development constraints associated with wetlands and
+- topography, and maintaining flexibility for future development
+- b. Approval of Ordinance No. 2026-06 – an Ordinance of the Board of Trustees of
+
+## [blue-river#8] 2026-09-15 | Regular Meeting of the Board of Trustees | minutes
+- Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
+- Approval of Agenda/Consent Agenda
+- In-person public comments were made by Mike Costello, Travis Wardlaw, Laura Wardlaw,
+- Public commenters primarily encouraged the Board to focus on enforcement of existing short
+- concern that the Town has spent considerable time discussing policy changes while unlicensed
+- operators and repeat violators continue to operate. Commenters generally supported stronger
+- providing consideration for property owners impacted by the moratorium. Concerns were raised
+- regarding property owners who purchased homes with the expectation of obtaining a license,
+- offset costs rather than operate full-time vacation rental businesses
+- Public comments also included suggestions that the Town consider regulating rental intensity
+- Ideas discussed included limiting annual rental nights, limiting the number of bookings,
+- commenters stated that many current license holders have operated without complaints
+- in their neighborhoods. Additional comments addressed environmental considerations, including
+- water consumption, wastewater capacity, and long-term impacts on community infrastructure
+- Mayor Pro Tem Willey closed public comment at 5:46 PM
+- 1. A work session to discuss short-term rental (STR) policy as a basis for focusing the
+- Board’s ongoing work concerning potential amendments to the Town’s Short-Term
+- Rental Program and Ordinance
+- work session was to identify remaining policy items requiring Board direction
+- before preparation of draft ordinance language. Staff reviewed comparative
+- ordinance drafting would require direction from the Board on caps,
+- b. Discussion of Zone Structure
+- The Board revisited previous discussions concerning use of geographic zones for
+- administration of future STR caps. Trustees discussed prior consensus
+- The Board reaffirmed consensus in support of the six-zone framework discussed
+- c. Discussion of Cap Percentages
+- The Board continued discussion regarding future STR caps and the relationship
+- Discussion focused on whether the Town should establish a cap near existing
+- concentrations through attrition over time. Trustees discussed balancing
+- response considerations, water resources, and the Town’s limited staffing and
+- The Board considered whether existing regulations and enhanced enforcement
+- implemented. Discussion also included the distinction between regulating the
+- requirements. The Board discussed that future attrition, nonrenewal, property
+- Trustees also discussed the importance of obtaining better compliance and
+
+## [blue-river#9] 2026-09-22 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- separately to the Board of Trustees
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning short-term
+- rentals (STRs) within the Town of Blue River. This agenda may be formally or informally amended during the
+- i. Hearing Officer (possible Municipal Court Judge role)
+- Secondary Issues (TIME PERMITTING, Hull)
+
+## [blue-river#10] 2026-09-22 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- separately to the Board of Trustees
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning short-term
+- rentals (STRs) within the Town of Blue River. This agenda may be formally or informally amended during the
+- i. Hearing Officer (possible Municipal Court Judge role)
+- Secondary Issues (TIME PERMITTING, Hull)
+- Municipality Permit type Maximum nights Policy Signal to STR Operations Fit for Blue River
+- Crested Butte, CO Residential / owner-occupied 90 nights Moderate use - mixed operations Similar comp. to Blue River for
+- consideration in decision making
+- Moderate alternative - a 20%
+- be noted that reductions may be flexible, considering there are units rented well in excess of 150 nights per year and no concrete
+- data yet exists on the rental rate of unlicensed STRs
+- Single-license recommendation using 41% average unit occupancy (~150 nights/year) and 25% STR housing share
+- 30–37.5 townwide nights At 25% of housing stock, the range represents 30-37.5 potential STR-occupied nights per total housing unit per year
+- Because licensed STRs represent approximately 25% of housing stock, frequent rental activity can affect community character even when average unit occupancy is
+- Recommendation basis: one license type; current STR occupancy of 41% implies approximately 150 occupied nights per licensed unit annually; STRs represent 25% of Town housing. A 150-night
+- reconcile those nights to quarterly lodging-tax filings and self-certification forms and require booking records upon request
+- POLICY DISCUSSION ONLY
+- New Application
+- Non-Payment of Taxes
+- Unpaid Taxes
+- Taxes and Penalty
+- Underpayment of Taxes Owed
+- Inaccurate Reporting of Rental
+- Information on Application
+- Parking Limit
+- parking for more than 5
+- Wood Burning Fire Pit
+- Excessive Parking
+- Application Information
+- Rental Regulations, and other applicable Town ordinances and regulations
+- enforcement records, and supports administrative hearings and Municipal Court
+- contractors, management companies, the Police Department, Deputy Clerk, Neumo, legal
+- professional communication, strong documentation practices, and consistent application
+- Term Rental Regulations, permit conditions, and other applicable Town regulations
+- Coordinate follow-up on Police Department referrals, including reported code
+- Identify repeat offenders and recommend appropriate further enforcement actions
+- Assist applicants, owners, managers, and members of the public with identifying,
+
+## [blue-river#11] 2026-10-06 | Planning and Zoning Commission | minutes
+- BLUE RIVER PLANNING AND ZONING COMMISSION MEETING
+- Approval of Minutes
+- approve the minutes of the July 2026 Planning & Zoning Commission Meeting. All ayes
+- Project Approval
+- The Building Official submitted a Planning/Zoning/Architectural Guidelines Review in
+- the agenda packet indicating the proposed project's compliance with applicable
+- Development Standards
+- The Commission reviewed revised application materials previously requested at the
+- Wildfire Resiliency Code. As a result, the proposed materials could proceed as
+- The Commission reviewed revised survey and easement information and discussed the
+- The Commission also discussed the property's two existing driveway access points
+- its presence as early as 2008. Staff noted that the current application does not propose
+- modifications to circulation or access improvements
+- The Commission discussed that any future modifications to the driveway or parking
+- CDOT access requirements. However, because the current application does not alter
+- After discussion, the Commission found that the applicant had adequately addressed
+- the concerns identified during the July meeting
+- Commissioner O’Brien moved to approve the application as presented. Commissioner
+- residence at 1253 Indiana Creek Road. The session was designed to provide guidance
+- to the applicant regarding the proposed application
+- The Commission discussed interpretation of the Town's building-height regulations,
+- within the Land Use Code and discussed whether recessed garage entrances should be
+- Following discussion, the Commission generally agreed that the proposed recessed
+- garage entrances may qualify as basement-entry features contemplated by the Code
+- The Commission requested revised exhibits showing both existing and proposed grades
+- to clearly demonstrate compliance with the 35-foot height limitation
+- The Commission also discussed the proposed floor plan, including the presence of two
+- separate living areas, and the potential for future conversion. The Town Attorney
+- enforce and that future use of the structure must be considered as part of the review
+- Discussion included the possibility of restrictive covenants or conditions concerning
+- The Commission next discussed proposed garage and vehicle-gallery areas within the
+- designed, meets the Code definition of a garage. Discussion focused on possible
+- The Commission also discussed the relationship between the proposed carriage house
+- application for formal review:
+- c. Revise garage areas or calculations to demonstrate compliance with the 25%
+- B. Discussion of Blue River Wetland Protection Program Items
+
+## [blue-river#12] 2026-10-13 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
+- amended during the Work Session
+- Reading of Ordinance No. 2026-10
+- 1. Reading and Consideration of Ordinance No. 2026-10 An Ordinance of the Board of
+- Owners to Apply for a Short-Term Rental License and Amending Ordinance No
+- Reading of Ordinance No. 2026-11
+- 1. Reading and Consideration of Ordinance No. 2026-11 An Ordinance of the Board of
+- the Trustees of the Town of Blue River, Colorado, Amending the Blue River Municipal
+- Rental Applications and Issuing Licenses to be Effective on May 1, 2027 and,
+- separately to the Board of Trustees
+
+## [blue-river#13] 2026-10-13 | General | agenda
+- note, however, that public comments will not be taken virtually, but will only be
+- accepted in-person during public comment periods
+- Note: This Agenda is proposed to guide the Board of Trustees in its discussions of policy concerning
+- amended during the Work Session
+- Reading of Ordinance No. 2026-10
+- 1. Reading and Consideration of Ordinance No. 2026-10 An Ordinance of the Board of
+- Owners to Apply for a Short-Term Rental License and Amending Ordinance No. 2026
+- Reading of Ordinance No. 2026-11
+- 1. Reading and Consideration of Ordinance No. 2026-11 An Ordinance of the Board of
+- the Trustees of the Town of Blue River, Colorado, Amending the Blue River Municipal
+- Applications and Issuing Licenses to be Effective on May 1, 2027 and, Following
+- separately to the Board of Trustees
+- ORDINANCE NO. 2026-10
+- AN ORDINANCE OF THE BOARD OF TRUSTEES OF THE TOWN OF
+- AMENDING ORDINANCE NO. 2026-03
+- incorporated and organized pursuant to the provisions of Section 31-2-101, et seq., C.R.S.; and
+- WHEREAS, on May 19, 2026, the Board of Trustees ( “Board”) adopted Ordinance No
+- Enable the Board to reconsider or review the policies underlying the prior Board’s
+- considers the policy and benefits of limiting the number of licenses issued by the
+- licenses and those who recently purchased property intending to rent their property as a short-term
+- rental - asserted that the temporary moratorium unreasonably disrupted their plan to use their
+- WHEREAS, a majority of the Board desires to permit a defined and limited class of
+- exception to the restrictions imposed by Ordinance No. 2026-03
+- Exceptions and Amendment of Ordinance No. 2026-03
+- of real property in the Town of Blue River may submit an application for short-term rental license:
+- An owner who closed on the purchase of a single family dwelling unit located in a
+- (1) was eligible to submit an application pursuant to Section 6-1-70 (new application)
+- or 6-1-100 (renewal application) of the Blue River Municipal Code (2025); and
+- (2) submitted a substantially complete short-term rental license application to the Town
+- for a license to be issued in 2026. For purposes of this Ordinance, substantially
+- complete means that the owner paid all application fees in full and submitted an
+- application that was missing no more than two (2) items required by Section 6-1
+- Section 2. Deadline for Application Submission – November 1, 2026. Owners
+- authorized by this Ordinance to apply for a short -term rental license must submit to the Town a
+- fully complete application for a new license or submit to the Town a fully complete an application
+
+## [blue-river#14] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
+- however, that public comments will not be taken virtually, but will only be accepted in
+- person during public comment periods
+- Approval of Agenda/Consent Agenda
+- 1. Approval of Minutes
+- 2. Approval of Financial Report
+- distributed separately to the Board of Trustees
+- 1. Presentation and Board Discussion of the Proposed 2027 Budget
+- 1. Ordinance No. 2026-10
+- a. Public Hearing
+- b. Approval of Ordinance No. 2026-10 – An Ordinance of the Board of Trustees of
+- Apply for a Short-Term Rental License and Amending Ordinance No. 2026-03
+- 2. Ordinance No. 2026-11
+- b. Approval of Ordinance No. 2026-11 - An Ordinance of the Board of Trustees for
+- the Town of Blue River, Colorado, Amending the Blue River Municipal Code by:
+- Purpose of Processing Short-Term Rental Renewal Applications and Issuing
+- 3. Ordinance No. 2026-12
+- b. Approval of Ordinance No. 2026-12 – An Ordinance of the Board of Trustees for
+- the Town of Blue River, Colorado, Amending Article 1 of Chapter 6 Titled Short
+- Processes and Declaring That the Ordinance Is Necessary to the Immediate
+- 4. Resolution No. 2026-13
+- a. Approval of Resolution No. 2026-13 – A Resolution Adopting the Summit County
+- Hazard Mitigation Plan 2026
+- 5. Ordinance No. 2026-09
+- b. Approval of Ordinance No. 2026-09 - An Ordinance of the Board of Trustees of
+- the Town of Blue River, Colorado, Repealing Section 16B-5-80 and Amending
+- 6. Motion to Approve the McMahan and Associates, Inc. 2026 Audit Engagement Letter
+- b. Chief of Police
+
+## [blue-river#15] 2026-10-20 | Regular Meeting of the Board of Trustees | agenda
+- however, that public comments will not be taken virtually, but will only be accepted in
+- person during public comment periods
+- Approval of Agenda/Consent Agenda
+- 1. Approval of Minutes
+- 2. Approval of Financial Report
+- distributed separately to the Board of Trustees
+- 1. Presentation and Board Discussion of the Proposed 2027 Budget
+- 1. Ordinance No. 2026-10
+- a. Public Hearing
+- b. Approval of Ordinance No. 2026-10 – An Ordinance of the Board of Trustees of
+- Apply for a Short-Term Rental License and Amending Ordinance No. 2026-03
+- 2. Ordinance No. 2026-11
+- b. Approval of Ordinance No. 2026-11 - An Ordinance of the Board of Trustees for
+- the Town of Blue River, Colorado, Amending the Blue River Municipal Code by:
+- Purpose of Processing Short-Term Rental Renewal Applications and Issuing
+- 3. Ordinance No. 2026-12
+- b. Approval of Ordinance No. 2026-12 – An Ordinance of the Board of Trustees for
+- the Town of Blue River, Colorado, Amending Article 1 of Chapter 6 Titled Short
+- Processes and Declaring That the Ordinance Is Necessary to the Immediate
+- 4. Resolution No. 2026-13
+- a. Approval of Resolution No. 2026-13 – A Resolution Adopting the Summit County
+- Hazard Mitigation Plan 2026
+- 5. Ordinance No. 2026-09
+- b. Approval of Ordinance No. 2026-09 - An Ordinance of the Board of Trustees of
+- the Town of Blue River, Colorado, Repealing Section 16B-5-80 and Amending
+- 6. Motion to Approve the McMahan and Associates, Inc. 2026 Audit Engagement Letter
+- b. Chief of Police
+- Also present: Town Manager Chad Hull, Deputy Town Clerk John DeBee, Police Chief David
+- Trustee Slaughter moved to approve the Consent Agenda and Financial Report. Trustee
+- In-person public comments were made by Tom Schmidt, Dylan Hosman, Janis Light, Chris
+- matters. Discussion included concerns regarding the effectiveness of renter-related fines, the
+- Janis Light requested reinstatement of an expired STR license, citing personal circumstances
+- neighboring property owners, and a willingness to satisfy applicable fees and conditions
+- Public comment was closed by Mayor Pro Tem Willey
+- 1. Presentation from Summit School District on a proposed Mill Levy Override
+- The presenters discussed Proposition NN, a statewide ballot measure described as a
+- The presenters also discussed Summit School District Ballot Measure 4A, a local mill
+- levy override that would generate up to $5.9 million annually. The proposed funding
+- Approximately 76 percent of the proposed mill levy revenue would be used to support
+- dual-credit opportunities, and industry certifications. Approximately $1 million would
+- Discussion focused on employee turnover, declining applicant pools, the cost of living in

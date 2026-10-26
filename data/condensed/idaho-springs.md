@@ -1,0 +1,995 @@
+# idaho-springs
+
+## [idaho-springs#0] 2026-08-05 | Planning Commission | agenda
+- Planning Commission City Hall - 1711 Miner Street, Idaho
+- 3. Agenda Approval
+- a. Motion to approve the agenda of August 5th, 2026
+- 4. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of July 20th, 2026
+- a. PUBLIC HEARING: Ordinance #16, Series 2026, an ordinance amending
+- of Conditional Use Permits as personal to the applicant and as limited or
+- a. Group Homes Code Amendment
+- b. Comprehensive Plan Draft Discussion
+- c. Idaho Springs Design Requirements Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#1] 2026-08-05 | Planning Commission | agenda
+- Planning Commission City Hall - 1711 Miner Street, Idaho
+- 3. Agenda Approval
+- a. Motion to approve the agenda of August 5th, 2026
+- 4. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of July 20th, 2026
+- a. PUBLIC HEARING: Ordinance #16, Series 2026, an ordinance amending
+- of Conditional Use Permits as personal to the applicant and as limited or
+- a. Group Homes Code Amendment
+- b. Comprehensive Plan Draft Discussion
+- c. Idaho Springs Design Requirements Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+- Apartments and July 2026 Old Carlson proposal
+- block that is Old Carlson at 1300 Miner Street (between 13th and 14th Ave) would be part
+- West end of town there is a trailer park and it too risks having a Field House apartment
+- 3.We have a Unified Building Code that stipulates how new build structures (like apartments,
+- condos, and parking garages) would be built to fit into the already existing Idaho Springs
+- Thank you for your time and consideration,
+- that changes be made to code Section 21-220 to place tighter restrictions on parking and
+- housing in the community, this particular development project has way too many
+- development project is approved:
+- PARKING for the new build
+- historic building code enforcements - this project is not keeping with building
+- I do not think that this new build project at Carlson Elementary should be approved at
+- AGENDA APPROVAL
+- Commissioner Slaymaker moved to approve the agenda. Vice Chair Cruzalegui seconded, second followed by an all in
+- PUBLIC COMMENT
+- Dru VanDoren Steele- 1414 Wall Street- Ms. VanDoren stated that the city needs to install some stop signs. There has
+- been an influx of traffic, and this has been brought to council before. At 16th and Colorado Blvd, if people park in the
+- Pauly Brunner 2616 Miner Street – Mr. Brunner stated that sometime in the past he received a text stating that the city
+- Libby Caplan 219 14th Avenue – Ms. Caplan wanted to alert council that there is no more free parking at the Library and
+- requests that the free spaces be returned for Library Patrons
+- APPROVAL OF MINUTES
+- Vice Chair Cruzalegui moved to approve the minutes from June 4th, 2026. Commissioner Maxwell seconded. Second
+- PUBLIC HEARING: FDP26-001. A request for a Final Development Plan for a fifty (50) unit affordable
+
+## [idaho-springs#2] 2026-08-10 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- c. BCPB Vacancy and Candidate Discussion
+- e. Noise Ordinance
+- 5. Agenda Approval
+- a. Motion to approve the agenda of August 10th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of July 27, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills through August 10th, 2026
+- 9. Business & Community Promotions Board Appointments
+- 10. Public Comment
+- 11. Unscheduled Public Comment
+- 12. Resolutions
+- a. Resolution #15, Series 2026 A Resolution denying a Final Development Plan
+- on property known as 1300 Colorado Boulevard for a new multifamily
+- affordable housing development. (Resolution adoption only - Public Hearing
+- b. Resolution #19, Series 2026, A Resolution adopting an amended
+- compensation plan for the city employees and officers
+- c. Resolution # 21, Series 2026, A Resolution of the City Council of the City of
+- Idaho Springs, Colorado Approving an Intergovernmental Agreement between
+- d. Resolution #22, Series 2026 A Resolution approving the Intergovernmental
+- Agreement with Clear Creek County for coordination of the 2026 Special
+- 13. Ordinance First Reading
+- a. Ordinance #16, Series 2026 An Ordinance amending section 21-105 of the
+- permits as personal to the applicant and as limited or unlimited in duration
+- b. Ordinance #17, Series 2026 an ordinance amending chapter 21 of the Idaho
+- Fair Housing Act
+- a. Staff report submitted with no requests for action
+- a. Assistant City Administrator – Staff report submitted with one request for
+- Motion: Move to approve the mayor to sign a letter written by the City
+- Licensee under the June 14, 2021 Charging Station License Agreement
+- b. Community Development Planner - No staff report submitted
+- c. Deputy City Clerk – Staff report submitted with no requests for action
+- 17. Police Department
+- a. Staff report with no requests for action
+- a. Executive Session under CRS § 24-6-402(4)(f) to discuss personnel matters,
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#3] 2026-08-10 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- c. BCPB Vacancy and Candidate Discussion
+- e. Noise Ordinance
+- 5. Agenda Approval
+- a. Motion to approve the agenda of August 10th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of July 27, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills through August 10th, 2026
+- 9. Business & Community Promotions Board Appointments
+- 10. Public Comment
+- 11. Unscheduled Public Comment
+- 12. Resolutions
+- a. Resolution #15, Series 2026 A Resolution denying a Final Development Plan
+- on property known as 1300 Colorado Boulevard for a new multifamily
+- affordable housing development. (Resolution adoption only - Public Hearing
+- b. Resolution #19, Series 2026, A Resolution adopting an amended
+- compensation plan for the city employees and officers
+- c. Resolution # 21, Series 2026, A Resolution of the City Council of the City of
+- Idaho Springs, Colorado Approving an Intergovernmental Agreement between
+- d. Resolution #22, Series 2026 A Resolution approving the Intergovernmental
+- Agreement with Clear Creek County for coordination of the 2026 Special
+- 13. Ordinance First Reading
+- a. Ordinance #16, Series 2026 An Ordinance amending section 21-105 of the
+- permits as personal to the applicant and as limited or unlimited in duration
+- b. Ordinance #17, Series 2026 an ordinance amending chapter 21 of the Idaho
+- Fair Housing Act
+- a. Staff report submitted with no requests for action
+- a. Assistant City Administrator – Staff report submitted with one request for
+- Motion: Move to approve the mayor to sign a letter written by the City
+- Licensee under the June 14, 2021 Charging Station License Agreement
+- b. Community Development Planner - No staff report submitted
+- c. Deputy City Clerk – Staff report submitted with no requests for action
+- 17. Police Department
+- a. Staff report with no requests for action
+- a. Executive Session under CRS § 24-6-402(4)(f) to discuss personnel matters,
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- Elected Officials Presentation
+- Discussion of best practices for liability and risk management at the governing
+- Presentation is a training resource only; is not intended to address or provide
+- confidence which the electorate reposes in the integrity of…local government
+
+## [idaho-springs#4] 2026-08-17 | Business & Community Promotions Board | agenda
+- 1711 Miner Street, Idaho Springs CO 80452
+- 3. Agenda Approval
+- a. Motion to approve the agenda of August 17th, 2026
+- 4. Approval of Minutes
+- a. Motion to approve the minutes of July 20th, 2026
+- 5. Public Comment
+- 9. Presentations
+- a. Motion to approve Sound System Purchase
+- 11. Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Board typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#5] 2026-08-17 | Business & Community Promotions Board | agenda
+- 1711 Miner Street, Idaho Springs CO 80452
+- 3. Agenda Approval
+- a. Motion to approve the agenda of August 17th, 2026
+- 4. Approval of Minutes
+- a. Motion to approve the minutes of July 20th, 2026
+- 5. Public Comment
+- 9. Presentations
+- a. Motion to approve Sound System Purchase
+- 11. Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Board typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- 1711 Miner Street BUSINESS AND COMMUNITY PROMOTIONS BOARD
+- Idaho Springs, CO 80452-0907 1711 Miner Street
+- III. Approval of Agenda
+- IV. Approval of the Minutes of July 20th, 2pm
+- V. Public Comments
+- IX. Presentations
+- XI. Discussion
+- For in-person Unscheduled Public Comment, please sign-in at the entrance to the Council Chambers,
+- each individual that is providing public comment is limited to three (3) minutes
+- III. Approval of the Agenda
+- a. Lana Hearne made a motion to approve the agenda of the July 20th meeting
+- IV. Approval of the Minutes of June 15th 2026
+- a. Steve Indrehus made a motion to approve the minutes of the June 15th 2026, meeting
+- a. A representative of the Libertarian Party of Clear Creek County requested that the Business &
+- Community Promotions Board consider making a recommendation to City Council to include
+- vehicles displaying Disabled Veteran license plates in the managed parking program's free
+- parking provisions. The representative noted that vehicles displaying handicap placards and
+- plates currently receive free parking and requested that Disabled Veteran plates receive the same
+- consideration
+- a. Summer Tourism & Marketing Momentum: Marketing efforts continue to generate strong
+- b. Economic Impact Dashboard: The Board received a presentation on the new Colorado School
+- sales tax, lodging, recreation, and tourism trends to support future decision-making
+- Management Plan, Crisis Communications planning, Downtown Master Plan, parking
+- improvements, and discussions surrounding Historic District design standards to guide future
+- noting that parking capacity continues to be a challenge during peak periods. Club Hotel reported
+- IX. Presentations: None
+
+## [idaho-springs#6] 2026-08-18 | Historic Preservation Review Commission | agenda
+- Historic Preservation Review City Hall - 1711 Miner Street,
+- a. Historic Preservation 101 Presentation, Discussion, and Q&A
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#7] 2026-08-18 | Historic Preservation Review Commission | agenda
+- Historic Preservation Review City Hall - 1711 Miner Street,
+- a. Historic Preservation 101 Presentation, Discussion, and Q&A
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+- tion Review Commission (HPRC), where we will be discuss
+- Miner Street)
+- 1711 Miner Street
+
+## [idaho-springs#8] 2026-08-24 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- a. I-70 Floyd Hill Project Update
+- d. Clear Creek Regional Housing Authority Update
+- 5. Agenda Approval
+- a. Motion to approve the agenda of August 24th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of August 10th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to August 24th, 2026
+- 9. Public Comment
+- 10. Unscheduled Public Comment
+- 13. Resolutions
+- a. Resolution #20, Series 2026 A Resolution approving an access and
+- maintenance easement agreement between the City of Idaho Springs and
+- public improvements
+- b. Resolution #23, Series 2026, a Resolution of the City Council of the City of
+- Idaho Springs, Colorado approving the submission of an application to the
+- Colorado Department of Local Affairs, Division of Housing, under the
+- predevelopment notice of funding availability for the Idaho Springs Affordable
+- Senior Housing Project, and authorizing and delegating signatory authority
+- 14. Ordinance First Reading
+- 15. Ordinance Second Reading
+- a. Ordinance #15, Series 2026 an ordinance approving an amended and restated
+- occupancy agreement for 2060 Miner Street between the City and the
+- b. Ordinance #18, Series 2026 An ordinance imposing a temporary moratorium
+- on the submission, acceptance, processing, and approval of any application
+- for a City of Idaho Springs permit or license related to the operation of a
+- private paid parking facility within the city
+- c. Ordinance #19, Series 2026 An ordinance referring a ballot issue to the city
+- establish a new occupational tax on the occupation of providing outdoor
+- recreational experiences, dedicating all revenue from the new tax to address
+- the impacts of those activities upon the city, and amending chapter 8 of the
+- Idaho Springs Municipal Code to implement the tax, contingent upon voter
+- a. Staff report submitted with no requests for action
+- a. Assistant City Administrator – Staff report submitted with no requests for
+- b. Community Development Planner - Staff report submitted with one request for
+- Avenue (Roberts Brothers Garage) and refer the application to the Historic
+- 19. Police Department
+- a. Staff report with no request for action
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#9] 2026-08-24 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- a. I-70 Floyd Hill Project Update
+- d. Clear Creek Regional Housing Authority Update
+- 5. Agenda Approval
+- a. Motion to approve the agenda of August 24th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of August 10th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to August 24th, 2026
+- 9. Public Comment
+- 10. Unscheduled Public Comment
+- 13. Resolutions
+- a. Resolution #20, Series 2026 A Resolution approving an access and
+- maintenance easement agreement between the City of Idaho Springs and
+- public improvements
+- b. Resolution #23, Series 2026, a Resolution of the City Council of the City of
+- Idaho Springs, Colorado approving the submission of an application to the
+- Colorado Department of Local Affairs, Division of Housing, under the
+- predevelopment notice of funding availability for the Idaho Springs Affordable
+- Senior Housing Project, and authorizing and delegating signatory authority
+- 14. Ordinance First Reading
+- 15. Ordinance Second Reading
+- a. Ordinance #15, Series 2026 an ordinance approving an amended and restated
+- occupancy agreement for 2060 Miner Street between the City and the
+- b. Ordinance #18, Series 2026 An ordinance imposing a temporary moratorium
+- on the submission, acceptance, processing, and approval of any application
+- for a City of Idaho Springs permit or license related to the operation of a
+- private paid parking facility within the city
+- c. Ordinance #19, Series 2026 An ordinance referring a ballot issue to the city
+- establish a new occupational tax on the occupation of providing outdoor
+- recreational experiences, dedicating all revenue from the new tax to address
+- the impacts of those activities upon the city, and amending chapter 8 of the
+- Idaho Springs Municipal Code to implement the tax, contingent upon voter
+- a. Staff report submitted with no requests for action
+- a. Assistant City Administrator – Staff report submitted with no requests for
+- b. Community Development Planner - Staff report submitted with one request for
+- Avenue (Roberts Brothers Garage) and refer the application to the Historic
+- 19. Police Department
+- a. Staff report with no request for action
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#10] 2026-09-02 | Planning Commission | agenda
+- Planning Commission City Hall - 1711 Miner Street, Idaho
+- 3. Agenda Approval
+- a. Motion to approve the agenda of September 2nd, 2026
+- 4. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of August 5th, 2026
+- a. PUBLIC HEARING: Motion to recommend approval of SUBD26-002: A Minor
+- Subdivision of Lots 1-12, Block 75, and the West Half of vacated Sixth Avenue,
+- b. PUBLIC HEARING: Motion to recommend approval of Ordinance #17, Series
+- 2026, an ordinance amending Chapter 21 of the Idaho Springs Municipal Code
+- disabilities in conformance with Colorado law and the Federal Fair Housing
+- a. Sec. 21-12: Nonconforming Buildings Potential Code Amendment
+- b. Exterior Lighting Regulations Potential Code Amendment
+- c. Parking Study - Preliminary Results
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#11] 2026-09-02 | Planning Commission | agenda
+- Planning Commission City Hall - 1711 Miner Street, Idaho
+- 3. Agenda Approval
+- a. Motion to approve the agenda of September 2nd, 2026
+- 4. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of August 5th, 2026
+- a. PUBLIC HEARING: Motion to recommend approval of SUBD26-002: A Minor
+- Subdivision of Lots 1-12, Block 75, and the West Half of vacated Sixth Avenue,
+- b. PUBLIC HEARING: Motion to recommend approval of Ordinance #17, Series
+- 2026, an ordinance amending Chapter 21 of the Idaho Springs Municipal Code
+- disabilities in conformance with Colorado law and the Federal Fair Housing
+- a. Sec. 21-12: Nonconforming Buildings Potential Code Amendment
+- b. Exterior Lighting Regulations Potential Code Amendment
+- c. Parking Study - Preliminary Results
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+- Community Development Planner Dylan Graves and Deputy City Clerk Wonder Martell. Associate City Attorney Nick
+- AGENDA APPROVAL
+- Commissioner Maxwell moved to approve the agenda. Commissioner Howard seconded, second followed by an all in
+- PUBLIC COMMENT
+- development code be created in chapter 21-220 for all new developments. On July 20th, she was here making comments
+- development, there needs to be clear zoning restrictions, the buffer zone needs to be better defined, the lot lines and
+- updated parking requirements. These restrictions would only be for new buildings and new development, not existing
+- guidelines, and we need to set precedent for what comes in the future. She is in support of affordable housing, and we
+- need a concrete plan for new developments to stick to. There needs to be fines and penalties. She moved from Denver
+- Bobbie Courthius (sp) 836 Miner Street – Bobbie stated that with the current water restrictions, the city should also be
+- following the residential water restrictions. She is very sad to see the waterfall turned on again, the sprinklers running on
+- city property, water running down the street. The city should plan for better landscaping using native plants, the native
+- plans deserve protection. This would save water and ring in more tourism if we set a good example of that should be
+- APPROVAL OF MINUTES
+- Commissioner Howard moved to approve the minutes from July 20th, 2026. Vice Chair Ursula Cruzalegui seconded
+
+## [idaho-springs#12] 2026-09-08 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Clear Creek Center for Arts & Education Public Investment Request
+- c. Comprehensive Plan Update and Next Steps
+- d. Communications Tower Grant of Easement & Assignment of Lease
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#13] 2026-09-08 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Clear Creek Center for Arts & Education Public Investment Request
+- c. Comprehensive Plan Update and Next Steps
+- d. Communications Tower Grant of Easement & Assignment of Lease
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- BUILDING / LEVEL IDENTIFICATION TOTAL NUMBER OF BUILDING(S)#1 #2
+- TOTAL DEVELOPMENT AREA: 35,308 SF
+- AP1 PROPOSED SITE PLAN
+- SEWER MAINSEWER MAIN
+- WATER WHEELWATER WHEEL
+- SETBACK (TYP.)SETBACK (TYP.)10' - 0" STREET10' - 0" STREET
+- EXISTING FIRE EXISTING FIRE
+- FHA = FAIR HOUSING ACT
+- PARKING PROVIDED
+- NOTE: ALL PARKING PROVIDED IS UNCOVERED
+- TOTAL PARKING PROVIDED: 38
+- LOCAL PARKING REQUIREMENTS: (1.5) SPACE(S) PER 1-BR UNIT
+- PARKING PROVIDED MEETS ZONING REQUIREMENTS
+- CURRENT ZONING: C-2
+- PROPOSED USE: MULTIFAMILY APARTMENTS
+- ESTIMATED WATER/SEWER USAGE: 2,597 GALLONS PER MONTH PER UNIT
+- MINER STREET APARTMENTS
+- 1 PROPOSED SITE PLAN
+- 2 BUILDING #1 FIRST FLOOR BUILDING PLAN
+- 1 BUILDING #1 SECOND FLOOR BUILDING PLAN
+- 2 BUILDING #2 FIRST FLOOR BUILDING PLAN
+- 1 BUILDING #2 THIRD FLOOR BUILDING PLAN
+- MINER STREET
+- FROM: Dylan Graves, Community Development Planner
+- SUBJECT: Potential Contributions or Incentives for CCCAE Development of Roberts Brothers’ Garage
+- The CCCAE was awarded a $1.538 million grant from Colorado Creative Industries (CCI) for construction and capital
+- improvements. They have a lease to occupy the Roberts Brothers Garage building long-term and develop arts and arts education
+- The CCI grant requires a 1:1 match for their $1.538 million grant award. CCCAE currently has approximately $700,000 in existing
+- requested that Idaho Springs help to bridge that gap through in-kind contributions, fee waivers or reductions, and other investments
+- in the project that would assist in unlocking additional grant money. The maximum value of requested contributions is $729,307
+- This project is unlikely to set a precedent for future contributions because this is a relatively unique ask. The applicant has a grant
+- for capital improvements and construction costs, which requires a cash or in-kind match. They are requesting contributions that
+- would function as a match for the grant that they already received. They are not requesting a monetary donation; rather, they are
+
+## [idaho-springs#14] 2026-09-09 | Historic Preservation Review Commission | agenda
+- Historic Preservation Review City Hall - 1711 Miner Street,
+- 4. Agenda Approval
+- a. Motion to approve the agenda of September 9th, 2026
+- 5. Public Comment
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of May 19th, 2026
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#15] 2026-09-09 | Historic Preservation Review Commission | agenda
+- Historic Preservation Review City Hall - 1711 Miner Street,
+- 4. Agenda Approval
+- a. Motion to approve the agenda of September 9th, 2026
+- 5. Public Comment
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of May 19th, 2026
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+- Manifold, Commissioner Grimm and Commissioner Davenport. Staff present were Community Development
+- SWEARING IN REAPPOINTED MEMBERS
+- AGENDA APPROVAL
+- Chair Lisa Manifold advised the commission that they have an agenda before them with a needed amendment to
+- to join the meeting. Chair Manifold moved to approve the agenda as amended, Commissioner Strickland
+- PUBLIC COMMENT
+- APPROVAL OF MINUTES
+- Commissioner Glazer moved to approve the minutes of March 17th, 2026. Chair Manifold seconded second
+- Community Development Planner Dylan Graves sets up. Mr. Graves stated it is worth getting the public’s
+- Commissioner Strickland asked if there was an instance of a property owner that has been disappointed because
+- they were not granted a Certificate of Appropriateness. Chair Manifold advised the commission that there is one in
+- he was working here when this was requested and the property owner stated that he could not find a contractor to
+- give him a bid. Chair Manifold stated that the applicant was upset as it did not seem fair that the Buffalo was
+- allowed to get this type of change approved but they were not. Chair Manifold mentioned that the general
+- summer events to discuss the creation of local historic districts in town. Chair Manifold advised Mr. Graves that
+- Vice Chair Duvic asked about the Carlson apartments. Mr. Graves advised the commission that the developer has
+- 1. Public Hearing: COA26-001 – A request for a Certificate of Appropriateness at 1921 Virginia Street,
+- Chair Manifold opened the public hearing at 6:19 pm
+- STAFF - Community Development Planner Mr. Graves went over his staff report with the commission. This is a
+- request for a Certificate of Appropriateness (COA) for a wooden exterior entry ramp at the entrance to the Zion
+- Lutheran Church building at 1921 Virginia Street. The wooden ramp is replacing an existing concrete staircase
+- stairs have been in place for decades, but this new ramp improvement needs a license agreement to remain in place
+
+## [idaho-springs#16] 2026-09-15 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Library Parking
+- c. New Park Conveyance by Fieldhouse Development
+- d. Affordable Housing Incentives
+- 5. Agenda Approval
+- a. Motion to approve the agenda of September 15th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of August 24th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to September 15th, 2026
+- 9. Public Comment
+- 10. Unscheduled Public Comment
+- 11. Resolutions
+- a. Resolution #18, Series 2026 a Resolution approving an agreement with the
+- Project (in the vicinity of Exit 240)
+- b. Resolution #24, Series 2026 A Resolution approving a grant of easement and
+- c. PUBLIC HEARING: Resolution No. 25, Series 2026, A Resolution approving
+- the Lots 1-12, Block 75 Minor Subdivision Plat
+- d. Resolution #26, Series 2026 A Resolution setting a Public Hearing on the
+- e. Resolution #27, Series 2026 A Resolution granting certain fee waivers and
+- contributions requested by the Clear Creek Center for Arts and Education and
+- Four Bairs, Inc. related to the potential re-development of 121 15th Avenue
+- 12. Ordinance First Reading
+- a. Ordinance #20, Series 2026 an Ordinance designating property known as 121
+- (First Reading Only: Public hearing and final action on this matter on
+- b. Ordinance #21, Series 2026 An Ordinance amending section 5-41 of the Idaho
+- 13. Ordinance Second Reading
+- a. Public Hearing: Ordinance #16, Series 2026 An Ordinance amending section
+- conditional use permits as personal to the applicant and as limited or unlimited
+- b. Public Hearing: Ordinance #17, Series 2026 An Ordinance amending chapter
+- and the Federal Fair Housing Act
+- a. Staff report submitted with no requests for action
+- b. Community Development Planner - No staff report submitted
+- c. Deputy City Clerk – Staff report submitted with no requests for action
+- 17. Police Department
+- a. Staff report with no requests for action
+- a. Clear Creek Fire Authority Board Vacancy
+- a. Executive session under C.R.S. 24-6-402(4)(a), (b) and (e) to discuss the
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#17] 2026-09-15 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Library Parking
+- c. New Park Conveyance by Fieldhouse Development
+- d. Affordable Housing Incentives
+- 5. Agenda Approval
+- a. Motion to approve the agenda of September 15th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of August 24th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to September 15th, 2026
+- 9. Public Comment
+- 10. Unscheduled Public Comment
+- 11. Resolutions
+- a. Resolution #18, Series 2026 a Resolution approving an agreement with the
+- Project (in the vicinity of Exit 240)
+- b. Resolution #24, Series 2026 A Resolution approving a grant of easement and
+- c. PUBLIC HEARING: Resolution No. 25, Series 2026, A Resolution approving
+- the Lots 1-12, Block 75 Minor Subdivision Plat
+- d. Resolution #26, Series 2026 A Resolution setting a Public Hearing on the
+- e. Resolution #27, Series 2026 A Resolution granting certain fee waivers and
+- contributions requested by the Clear Creek Center for Arts and Education and
+- Four Bairs, Inc. related to the potential re-development of 121 15th Avenue
+- 12. Ordinance First Reading
+- a. Ordinance #20, Series 2026 an Ordinance designating property known as 121
+- (First Reading Only: Public hearing and final action on this matter on
+- b. Ordinance #21, Series 2026 An Ordinance amending section 5-41 of the Idaho
+- 13. Ordinance Second Reading
+- a. Public Hearing: Ordinance #16, Series 2026 An Ordinance amending section
+- conditional use permits as personal to the applicant and as limited or unlimited
+- b. Public Hearing: Ordinance #17, Series 2026 An Ordinance amending chapter
+- and the Federal Fair Housing Act
+- a. Staff report submitted with no requests for action
+- b. Community Development Planner - No staff report submitted
+- c. Deputy City Clerk – Staff report submitted with no requests for action
+- 17. Police Department
+- a. Staff report with no requests for action
+- a. Clear Creek Fire Authority Board Vacancy
+- a. Executive session under C.R.S. 24-6-402(4)(a), (b) and (e) to discuss the
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- Improvements and
+- Program and Project Status
+- Phase I Intergovernmental Agreement (IGA)
+- RAISE Planning Grant for Downtown Idaho Springs Program
+- Awarded in June 2023
+- Signed agreement in late 2024
+
+## [idaho-springs#18] 2026-09-21 | Business & Community Promotions Board | agenda
+- 1711 Miner Street, Idaho Springs CO 80452
+- 3. Swear in appointed member
+- 4. Agenda Approval
+- a. Motion to approve the agenda of September 21st, 2026
+- 5. Approval of Minutes
+- a. Motion to approve the minutes of August 17th, 2026
+- 6. Public Comment
+- 10. Presentations
+- a. Motion to approve the 2027 budget recemmendations to City Council
+- 12. Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Board typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#19] 2026-09-21 | Business & Community Promotions Board | agenda
+- 1711 Miner Street, Idaho Springs CO 80452
+- 3. Swear in appointed member
+- 4. Agenda Approval
+- a. Motion to approve the agenda of September 21st, 2026
+- 5. Approval of Minutes
+- a. Motion to approve the minutes of August 17th, 2026
+- 6. Public Comment
+- 10. Presentations
+- a. Motion to approve the 2027 budget recemmendations to City Council
+- 12. Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Board typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- 1711 Miner Street BUSINESS AND COMMUNITY PROMOTIONS BOARD
+- Idaho Springs, CO 80452-0907 1711 Miner Street
+- IV. Approval of Agenda
+- V. Approval of the Minutes of August 17th, 2pm
+- VI. Public Comments
+- X. Presentations
+- a. Motion to approve the 2027 budget recommendations to City Council
+- XII. Discussion
+- For in-person Unscheduled Public Comment, please sign-in at the entrance to the Council Chambers,
+- each individual that is providing public comment is limited to three (3) minutes
+- III. Approval of the Agenda
+- a. Katie Yard made a motion to approve the agenda of the August 17th meeting
+- IV. Approval of the Minutes of July 20th, 2026
+- a. Steve Indrehus made a motion to approve the minutes of the July 20th 2026, meeting
+- V. Public Comments
+- b. Grants, Visitor Management & Crisis Communications: Updates were provided on the
+- Wayfinding Strategy, Digital Historic Tour, Economic Impact Dashboard, Trails to Towns, and
+- Visitor Management Plan. The Crisis Communications framework has been finalized and
+- Music Festival on October 2–3, expanded Halloween programming, and the September 23 Police
+- d. Historic District, Parking & Downtown Improvements: The Board discussed potential
+- weather-rated tents, signage, lighting, and historically compatible materials. The Director also
+- reported on a recent parking roundtable and continued work to address downtown parking
+- e. Donation Request & Standardization: The Board discussed a donation request from Be the
+- Source, which led to a broader conversation about establishing a consistent process for future
+- community donation requests. The concept discussed was creating a standard Visit Idaho Springs
+- IX. Presentations: None
+- a. Katie Yard made a motion to approve a Visit Idaho Springs donation basket to Be the Source
+- b. Katie Yard made a motion to approve the purchase of a sound system that was acquired by
+
+## [idaho-springs#20] 2026-09-22 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Strategic Plan Presentation
+- c. Department Updates and Budget Requests for 2027
+- d. Affordable Housing Incentives
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#21] 2026-09-22 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Strategic Plan Presentation
+- c. Department Updates and Budget Requests for 2027
+- d. Affordable Housing Incentives
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- Five-Year Strategic Planning
+- The Idaho Springs City Council engaged in a Strategic Planning Council Retreat on Wednesday,
+- previously identified strategic initiatives of the Council (see table 2.0). The work plan was based
+- upon the shared Council vision statement developed in 2025 and identified Focus Areas of the
+- initiatives prioritized by the council that align with the strategic vision for the city over the next 5
+- In March 2026, the City Administrator requested that the Colorado Department of Local Affairs
+- (DOLA) facilitate the City Council’s third strategic planning retreat. Building on the five-year
+- strategic focus areas established in 2025, the 2026 retreat evaluated current and future operational
+- and capital needs to ensure alignment with the City’s budget
+- During the retreat, Council reviewed existing focus areas, identified new initiatives, and established
+- community projects. To closely align Council actions with project execution, the retreat yielded an
+- updated work plan along with four key success metrics (see Table 4.0)
+- updated 2026 Strategic Plan serves as a dynamic framework. Council will review the document at
+- statement in which key strategic initiatives were aligned
+- economic and housing diversity, public safety, and an array of historic and natural amenities
+- Varied Housing Options
+- Building on the previous year's environmental scan, City Council identified key current and
+- Historic city community Expand housing options for residents
+- Strong water resources Add senior living options
+- City infrastructure Fire and Insurance Impacts
+- STRATEGIC INITIATIVES
+- The City Council utilized the Vision Statement in the identification of their Strategic Initiatives based
+- on a five-year implementation timeframe. Strategic Initiatives were defined as those key projects
+- strategic initiatives which were prioritized by level of importance and anticipated completion (see
+- Table 2.0 – Current City Strategic Initiatives
+- Table 3.0 – 2026 Prioritized Strategic Initiatives
+
+## [idaho-springs#22] 2026-09-28 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- a. Noise Ordinance
+- b. Proposition 123 Affordable Housing Commitment Cycle 2027-2029
+- c. Affordable Housing Incentives/Considerations
+- e. Parking Requirements Study Results
+- 5. Agenda Approval
+- a. Motion to approve the agenda of September 28th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of Tuesday September 15th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills September 16th through September 30th, 2026
+- 9. Public Comment
+- 10. Unscheduled Public Comment
+- 12. Resolutions
+- a. Resolution #28, Series 2026 a resolution approving an amended grant of
+- b. Resolution #29, Series 2026 a Resolution accepting Lot 3 of the Block
+- 57/Former Golddigger Field Subdivision as a City Park and naming the same
+- Golddigger Park
+- 13. Ordinance First Reading
+- a. Staff report submitted with one request for action. Motion to approve a task
+- b. Community Development Planner - Staff report submitted with one request for
+- 17. Police Department
+- a. Staff Report-No Request for Action
+- a. Staff report - No request for action
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#23] 2026-09-28 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- a. Noise Ordinance
+- b. Proposition 123 Affordable Housing Commitment Cycle 2027-2029
+- c. Affordable Housing Incentives/Considerations
+- e. Parking Requirements Study Results
+- 5. Agenda Approval
+- a. Motion to approve the agenda of September 28th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of Tuesday September 15th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills September 16th through September 30th, 2026
+- 9. Public Comment
+- 10. Unscheduled Public Comment
+- 12. Resolutions
+- a. Resolution #28, Series 2026 a resolution approving an amended grant of
+- b. Resolution #29, Series 2026 a Resolution accepting Lot 3 of the Block
+- 57/Former Golddigger Field Subdivision as a City Park and naming the same
+- Golddigger Park
+- 13. Ordinance First Reading
+- a. Staff report submitted with one request for action. Motion to approve a task
+- b. Community Development Planner - Staff report submitted with one request for
+- 17. Police Department
+- a. Staff Report-No Request for Action
+- a. Staff report - No request for action
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- FROM: Dylan Graves, Community Development Planner
+- SUBJECT: Idaho Springs Noise Ordinance Requirements
+- The ISMC does not specify a maximum decibel level for noise. Currently, the Idaho Springs Police Department must
+- Chief Buseck and the Police Department (PD) would like to have additional tools at the department’s disposal to better
+- an objective standard that the department can enforce. Chief believes that the department has the budget for a
+- professional grade dB reader to be able to clearly identify the noise level coming from a property. Using this objective
+- 2. Establish reasonable standards for activities that commonly generate noise, including construction, amplified
+- How the Noise Ordinance can be Improved:
+- Staff believe that we could add four specific items to the Idaho Springs noise ordinance to improve PD enforcement
+- the property line and at least 25 feet from the source of the noise
+- Parks and Recreation 55 dB 50 dB
+- In the hours between 7:00 a.m. and the next 7:00 p.m. (daytime hours), the noise levels permitted may be increased by
+- Periodic, impulsive, or shrill noises shall be considered a public nuisance when such noises are at a sound level of five
+
+## [idaho-springs#24] 2026-10-07 | Planning Commission | agenda
+- Planning Commission City Hall - 1711 Miner Street, Idaho
+- 3. Agenda Approval
+- a. Motion to approve the agenda of October 7th, 2026
+- 4. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of September 2nd, 2026
+- a. Parking Fee-in-Lieu Request for 121 15th Avenue
+- b. PUBLIC HEARING: Resolution #PC 3, Series 2026 A Resolution approving
+- the 2026 Idaho Springs Comprehensive Plan and recommending its adoption
+- c. PUBLIC HEARING: Ordinance #22, Series 2026 An Ordinance amending
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#25] 2026-10-07 | Planning Commission | agenda
+- Planning Commission City Hall - 1711 Miner Street, Idaho
+- 3. Agenda Approval
+- a. Motion to approve the agenda of October 7th, 2026
+- 4. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of September 2nd, 2026
+- a. Parking Fee-in-Lieu Request for 121 15th Avenue
+- b. PUBLIC HEARING: Resolution #PC 3, Series 2026 A Resolution approving
+- the 2026 Idaho Springs Comprehensive Plan and recommending its adoption
+- c. PUBLIC HEARING: Ordinance #22, Series 2026 An Ordinance amending
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Commission typically does not provide feedback during public comment
+- your Comment, please sign up for Scheduled Public Comment and provide those
+- present were Community Development Planner Dylan Graves, Associate City Attorney Nick Klein and Deputy City Clerk
+- AGENDA APPROVAL
+- Vice Chair Ursula Cruzalegui moved to approve the agenda. Commissioner Howard seconded, second followed by an
+- PUBLIC COMMENT
+- APPROVAL OF MINUTES
+- Commissioner Howard moved to approve the minutes from August 5th, 2026. Vice Chair Ursula Cruzalegui seconded
+- requested that he address the role of alternates on the City’s boards, as there appears to be some confusion regarding
+- their participation and contribution. Mr. Klien explained that, for quasi-judicial matters, including public hearings,
+- alternates should not participate in the hearing. For example, this would apply to today’s public hearing regarding the
+- Minor Subdivision. However, for non-quasi-judicial matters, such as Ordinance 17, 2026, alternates may provide their
+- opinions and participate in the discussion. Mr. Klien further explained that if an alternate is prohibited from participating
+- in a quasi-judicial hearing, they may, in their capacity as a member of the public, provide public comment during the
+- hearing. This provides an alternative opportunity for the alternate to express their opinions
+- 1.Public Hearing: SUBD26-002 A Minor Subdivision of Lots 1-12, Block 57, and the West Half of vacated Sixth
+- Chair Olson opened the public hearing at 6:08 pm
+- Community Development Planner Dylan Graves went over his staff report with the commission. Mr. Graves advised the
+- commission that this is a request to split these lots to create a 4th lot. Right now, these lots have split zoning, R-2 and C
+- Subdivision request. Mr. Graves stated staff recommend approval of this referral. Mr. Graves stated that the mobile
+
+## [idaho-springs#26] 2026-10-12 | Historic Sites and Facilities Board | agenda
+- Street, Idaho Springs, CO 80452 Agenda
+- 3. Agenda Approval
+- a. Motion to approve the agenda of October 12th, 2026
+- 5. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of July 13th, 2026
+- a. Miner Street Bridge Addition to Sites and Facilities List
+- To provide scheduled public comment, you are welcome to attend the meeting in
+
+## [idaho-springs#27] 2026-10-12 | Historic Sites and Facilities Board | agenda
+- Street, Idaho Springs, CO 80452 Agenda
+- 3. Agenda Approval
+- a. Motion to approve the agenda of October 12th, 2026
+- 5. Public Comment
+- 6. Approval of Minutes
+- a. Motion to approve the minutes of July 13th, 2026
+- a. Miner Street Bridge Addition to Sites and Facilities List
+- To provide scheduled public comment, you are welcome to attend the meeting in
+- Phyllis Adams. Also present were Community Development Planner Dylan Graves and Public Works Director Ed
+- AGENDA APPROVAL
+- Board member Howard moved to approve the agenda, Board member Bechtel seconded, second followed by an all in
+- PUBLIC COMMENT
+- APPROVAL OF MINUTES
+- Board member Bechtel moved to approve the minutes from January 12, 2026, Board member Howard seconded, second
+- This led to a discussion about the need to set aside time to discuss the future use of several sites and facilities,
+- constitute a "use” but is a good example of something that needs to be discussed eventually. We will talk about setting
+- up a work session with City Council to discuss potential future uses of buildings, and will bring this back as a
+- discussion item at a future meeting
+- The HSFB discussed the types of projects that require additional review on top of it being approved in the Work
+- Chair Adams mentioned that for a project like library doors that are on the Work Plan, but require a level of expertise,
+- If city staff discover something that goes beyond the work plan, bring it to the board. If it is in the Work Plan but
+- The board will start talking about projects that are needed in July, with finalization of budget talks / needs in October
+- July agendas in future years may have a "project status review" meeting where the board discusses where the city is at
+- with various projects for the sites and facilities under the board’s purview. This will be an opportunity to talk through
+- The board needs to schedule a work session in the near future with City Council prior to budget season so they know
+- what has been achieved, what hasn't, what goes into each project, etc. City staff will add sites and facilities updates to
+- monthly staff reports to City Council going forward that details what has been done regarding Work Plan goals
+- number of internal structural issues that need addressing in the near future. These structural improvements are
+- beneficial to address these concerns first, before tackling the Work Plan items for the property
+- For the central hose house, the Work Plan only suggested the following work: scrape, sand and repaint areas in need
+- Repaint the sign. Replace shingles that have failed. Consider the possible need for additional informational signage
+
+## [idaho-springs#28] 2026-10-12 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Proposed 2027 Budget Presentation
+- 5. Agenda Approval
+- a. Motion to approve the agenda of October 12th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of September 28th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to 10-15-2026
+- 9. Appointments to Boards and Commissions
+- 10. Public Comment
+- 11. Unscheduled Public Comment
+- 12. Resolutions
+- a. Resolution #30, Series 2026 A resolution adopting the City Council Five-Year
+- Strategic Planning Executive Report
+- 13. Ordinance First Reading
+- a. Ordinance #22, Series 2026 An Ordinance Amending Section 21-12 of the
+- 14. Ordinance Second Reading
+- a. PUBLIC HEARING: Ordinance #20, Series 2026 An Ordinance designating
+- b. Ordinance #21, Series 2026 an Ordinance amending section 5-41 of the Idaho
+- a. Staff report submitted with no requests for action
+- a. Assistant City Administrator – Staff report submitted with one request for
+- Approval of agreement with Newmark Valuation & Advisory, LLC to
+- b. Community Development Planner - Staff report submitted with no requests for
+- c. Deputy City Clerk – Staff report submitted with no requests for action
+- 18. Police Department
+- a. Staff report with no request for action
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#29] 2026-10-12 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- b. Proposed 2027 Budget Presentation
+- 5. Agenda Approval
+- a. Motion to approve the agenda of October 12th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of September 28th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to 10-15-2026
+- 9. Appointments to Boards and Commissions
+- 10. Public Comment
+- 11. Unscheduled Public Comment
+- 12. Resolutions
+- a. Resolution #30, Series 2026 A resolution adopting the City Council Five-Year
+- Strategic Planning Executive Report
+- 13. Ordinance First Reading
+- a. Ordinance #22, Series 2026 An Ordinance Amending Section 21-12 of the
+- 14. Ordinance Second Reading
+- a. PUBLIC HEARING: Ordinance #20, Series 2026 An Ordinance designating
+- b. Ordinance #21, Series 2026 an Ordinance amending section 5-41 of the Idaho
+- a. Staff report submitted with no requests for action
+- a. Assistant City Administrator – Staff report submitted with one request for
+- Approval of agreement with Newmark Valuation & Advisory, LLC to
+- b. Community Development Planner - Staff report submitted with no requests for
+- c. Deputy City Clerk – Staff report submitted with no requests for action
+- 18. Police Department
+- a. Staff report with no request for action
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- Proposed 2027 Budget Highlights
+- Budget Summary
+- The proposed 2027 budget has been extremely difficult to prepare, particularly for the General
+- community promotion costs to the Parking Fund, and pausing certain employee benefits, the
+- reserve. General Fund revenues in 2027 are projected to be about only $100,000 higher than
+- they were in 2024, and 2027 expenditures are budgeted to be about the same as they were in
+- The negative fund balance in the Sales Tax Improvement Fund will be reduced significantly by
+- All other funds have positive fund balances, and the combined fund balances are projected to
+- The proposed 2027 budget will be finalized in the upcoming weeks and is scheduled to be
+- Property Tax – Based on the preliminary certification from the Clear Creek County Assessor’s
+- Office, the City’s share of property tax will decrease from $282,237 for 2026 to $267,546 for
+- 2027 at the same mill levy rate of 6.310
+- Sales Tax – The primary revenue source for the General Fund is sales tax, and a 2% City sales tax
+
+## [idaho-springs#30] 2026-10-19 | Business & Community Promotions Board | agenda
+- 1711 Miner Street, Idaho Springs CO 80452
+- 3. Agenda Approval
+- a. Motion to approve the agenda of October 19th, 2026
+- 4. Approval of Minutes
+- a. Motion to approve the minutes of September 21, 2026
+- 5. Public Comment
+- 9. Presentations
+- b. Trunk or Treat and Zombie Party on Miner Street, including opportunities for
+- holiday hayride and Sips of the Season, and identifying Board members
+- d. Marketing & Projects: Fall marketing results, wayfinding progress, and ongoing
+- 11. Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Board typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#31] 2026-10-19 | Business & Community Promotions Board | agenda
+- 1711 Miner Street, Idaho Springs CO 80452
+- 3. Agenda Approval
+- a. Motion to approve the agenda of October 19th, 2026
+- 4. Approval of Minutes
+- a. Motion to approve the minutes of September 21, 2026
+- 5. Public Comment
+- 9. Presentations
+- b. Trunk or Treat and Zombie Party on Miner Street, including opportunities for
+- holiday hayride and Sips of the Season, and identifying Board members
+- d. Marketing & Projects: Fall marketing results, wayfinding progress, and ongoing
+- 11. Discussion
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- The Board typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- 1711 Miner Street BUSINESS AND COMMUNITY PROMOTIONS BOARD
+- Idaho Springs, CO 80452-0907 1711 Miner Street
+- IV. Approval of the Agenda
+- a. Katie Yard made a motion to approve the agenda of the September 21st meeting
+- V. Approval of the Minutes of August 17th, 2026
+- a. Lana Hearne made a motion to approve the minutes of the August 17th 2026, meeting
+- VI. Public Comments None
+- b. Grants, Visitor Management & Crisis Communications: Work continues on the Wayfinding,
+- Historic Multimedia Tour, and Trails to Towns projects. Idaho Springs was also awarded a
+- Trunk or Treat and the October 31 Zombie Party on Miner Street
+- d. Miner Street Market & 2027 Event Planning: The Board discussed the operating timeline for
+- Miner Street Market following Halloween. Miner Street will re-open to traffic November 5th
+- Advocates, for consideration in the 2027 event calendar
+- e. 2027 Budget & Long-Term Planning: The proposed 2027 BCPB baseline budget is $211,109,
+- maintaining 2026 funding levels, with consideration of a 5% increase in Website & Marketing
+- funding. The Director also recommended continuing the 77% Parking Enterprise/23% BCPB
+- a. Recreational Occupation Tax: The Board received an update on the proposed Recreational
+- Occupation Tax, which will appear before Idaho Springs voters. If approved, the measure would
+- allow the City to charge outdoor recreation providers a per-customer fee of up to $5 per
+- streets, sidewalks, parking, transportation, public safety, water/wastewater services, and
+- parks/open spaces. The tax would be paid by the recreation provider and would not be based on
+- X. Presentations: None
+- a. Katie Yard made a motion to approve the 2027 budget recommendations to City Council. Cris

@@ -1,21 +1,21 @@
 # glendale
 
-## [glendale#0] 2026-08-10 | Aug 10, 2026 — Posted Aug 6, 2026 2:30 PM | agenda
+## [glendale#0] 2026-08-10 | Glendale Entertainment Advisory Board | agenda
 - 950 S Birch Street
 - 1. Plan for 9/1 City Council Presentations
 - 2. Update From Car Show Team, Discussion
 - 3. Update From Get To Know Glendale Team, Discussion
 - 4. Update From Music On The Plaza Team, Discussion
 
-## [glendale#1] 2026-09-14 | Sep 14, 2026 — Posted Sep 11, 2026 6:09 AM | agenda
+## [glendale#1] 2026-09-14 | Glendale Entertainment Advisory Board | agenda
 - 950 S Birch Street
 - 2. Summary of 9/1 City Council presentation
 
-## [glendale#2] 2026-09-21 | Sep 21, 2026 — Posted Sep 18, 2026 11:58 AM | agenda
+## [glendale#2] 2026-09-21 | Glendale Entertainment Advisory Board | agenda
 - 950 S Birch Street
 - 1. Team Discussions
 
-## [glendale#3] 2026-10-06 | Oct 6, 2026 — Posted Oct 2, 2026 2:26 PM | agenda
+## [glendale#3] 2026-10-06 | City Council | agenda
 - 2. Approval of Agenda
 - 4. Public Comments (three-minute-per-person time limit)
 - 5. Public Hearing on New Entertainment Facility Liquor License For Clubhouse
@@ -41,6 +41,6 @@
 - 19. Public Comments (three-minute-per-person time limit)
 - 23. Executive Session for Legal Advice Regarding The Four Mile Project
 
-## [glendale#4] 2026-10-19 | Oct 19, 2026 — Posted Oct 9, 2026 8:14 AM | agenda
+## [glendale#4] 2026-10-19 | Glendale Entertainment Advisory Board | agenda
 - 950 S Birch Street
 - 2. Update On The Budget And Plans For Proposed Activities

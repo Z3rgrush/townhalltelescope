@@ -1,0 +1,369 @@
+# fraser
+
+## [fraser#0] 2026-07-29 | Board of Adjustment | agenda
+- Approval Of Agenda
+- Public Comment
+- Public Hearing
+- The Off-Street Parking Requirements Of The Fraser Municipal Code
+- 00 Hearing Memo.pdf
+- 01 Variance Application.pdf
+- Resolution 2026-07-0101 Approving An Interim Order In The Matter Petition Of Fraser
+- Valley Arts For A Variance From The Off-Street Parking Requirements Of The Fraser
+- BOA RESOLUTION 2026-07-01 APPROVING AN INTERIM ORDER.PDF
+
+## [fraser#1] 2026-07-29 | Planning Commission | minutes
+- 2. Approval of Agenda:
+- approve the agenda. Motion carried: 7-0
+- Commissioner Soles moved, and Commissioner Bowles seconded the motion to approve
+- 4. Public Comment:
+- 5. Public Hearing And Possible Action:
+- a. Grand Park Overlook Filling 2 Final Plat and Final Planned Development Plan
+- the public hearing regarding Grand Park Overlook Filling 2 Final Plat and Final Planned
+- Development Plan at p.m. Motion carried 7-0
+- The project encompasses 135.1 acres of residential, lodging, commercial, and open space
+- uses within the Planned Development District. Key figures include 104 single-family
+- attached units, 70 multi-family units, 500 lodging units, and 65,000 square feet of
+- includes a building height adjustment of up to 65 feet, representing a 30% increase
+- permitted under the FPDP code without requiring a PD amendment, which had been
+- previously approved by the Planning Commission in February 2026. Open space totals
+- golf course in Area 23W on town wells, which could result in costly future water treatment
+- needs. The lack of dedicated public parks or trails and the clarity and completeness of the
+- Leland Creek Trail connection were criticized. It was suggested to request the owed 5
+- acres of public land outlined in the annexation agreement before further parcel platting
+- the recreational amenities in 23W are private, and the full plan is scheduled to return to
+- Park was highlighted, and there was agreement for Town Planner Seward and the
+- The final condition of approval is the soon-to-be-finalized West Mountain Water Master
+- No public comment was received
+- Development Plan. Motion carried 7-0
+- ai. PC Resolution 2026-07-01 Recommending Approval of Final Plat and FPDP
+- approve PC Resolution 2026-07-01 Recommending Approval of Final Plat and FPDP
+- 6. Discussion
+- a. Discuss Strategy for Chapter 18 and 19 Code Amendments
+
+## [fraser#2] 2026-07-30 | Public Arts Committee | minutes
+- 2. Approval of Agenda:
+- 4. Discussion
+- The group discussed updated canvas placement for the festival. It was noted that only two canvases would be
+- Friday morning, and would notify the relevant parties about parking restrictions accordingly
+- placed across the street, and five canvases would remain at the 120Z location
+- submitted a request for utility locates and communicated the situation to Rich, noting that approval to use that
+- group emails or texts and requested to be added
+- that procedural and permitting requirements had caused delays. While there remained a chance the sign could
+- the event would not be available this year, as they were needed for other town priorities including fire
+- response and a road closure
+- The group briefly discussed pedestrian and traffic safety in the festival area. It was noted that the speed limit
+
+## [fraser#3] 2026-08-05 | Board of Trustees and Fraser Housing Authority | agenda
+- Participate in the meeting through our virtual platform
+- Workshop - Fraser River Corridor Master Plan- Next
+- Approval Of Agenda
+- Resolution 2026-08-01 Approving Revocable License Agreement
+- Resolution 2026-08-01 Approving Revocable License Agreement With
+- Rendezvous Community Trash Enclosure License Agreement.pdf
+- a. Business not on the agenda (If you would like to request time on a future
+- Discussion And Possible Action Regarding
+- (15 Minutes) Resolution 2026-08-05 Accepting The Resignation Of A
+- Resolution 2026-08-05 Accepting The Resignation Of A Trustee And
+- Kenneth Jensen_ Application For Town Trustee Vacancy_Redacted.pdf
+- (30 Minutes) Resolution 2026-08-02 Approving Grand Kids Learning
+- Resolution 2026-08-02 Approving Grand Kids Learning Center Lease For
+- Grand Kids Budget Vs. Actuals 2026 Budget - FY26 P And L.pdf
+- Grand Kids Learning Center Overview And Projected Budgets.pdf
+- Tax Credit Overview- Matt Ginzberg & SB Clark
+- Mountain Affordable Housing Development - (NMTC Transaction)
+- CapitalOne_InvestorLetter_DF_MtnAffordableHousing_072926_Signed.pdf
+- (20 Minutes) Pole Yard Development - Community Wishlist
+- Discussion- Ron Jones
+- (10 Minutes) Resolution 2026-08-03 On-Site Distribution Extension
+- Resolution 2026-08-03 On-Site Distribution Extension Xcel Public Works
+- (10 Minutes) Resolution 2026-08-04 IGA With Grand County Clerk
+- Resolution 2026-08-04 IGA With Grand County Clerk For The November
+- Intergovernmental Agreement With Grand County Regarding Conduct
+- may be subject to negotiations, developing strategy for
+- hearing impairment are available upon request
+- guidance to ensure on time, on budget, and on
+- Enable: Advocacy, resource development,
+
+## [fraser#4] 2026-08-13 | Joint Facilities Oversite Committee | agenda
+- Approval Of Agenda
+- Capital Improvement Projects & Plant Expansion Update - Tetra Tech
+- New Discharge Permit Appeal Update - Gabe Racz
+- Resolution 2026-08-01 Upper Fraser Valley Wastewater Treatment Plant JFOC
+- Approving JFOC Manager To Enter Into Contract With Tetra Tech - Tetra Tech
+- Resolution 2026-08-01 Upper Fraser Valley Wastewater Treatment Plant JFOC Approving JFOC
+- Manager To Enter Into Contract With Tetra Tech.pdf
+- JFOC - Regional Wastewater Alternatives - Joint Meeting 8 13 26_Draft.pdf
+- Two or more Elected Officials of the Grand County Water & Sanitation District #1, Town
+- of Fraser and the Winter Park Ranch Water and Sanitation District sit as the Joint
+- The JFOC Committee reserves the right to take action on any discussion item
+
+## [fraser#5] 2026-08-13 | Public Arts Committee | minutes
+- 2. Approval of Agenda:
+- Callie moved, and Robin seconded the motion to approve the Agenda. Motion carried:
+- Anistasia moved, and Cynthia seconded the motion to approve the Agenda. Motion
+- 4. Discussion
+- 1. Fire and Ice 2026 Recap
+- reception. Key outcomes and areas for improvement were identified across several themes
+- year. Four murals sold for over $1,000, with one reaching $2,100 — a notable improvement over
+- previous years. Donate-to-vote revenue via the online platform was slightly lower than the prior
+- Awards Distribution The committee noted that award distribution was handled effectively this
+- the Fraser's Favorite category, as the top two vote-getters had already received other awards. The
+- committee affirmed a general preference for distributing awards broadly rather than allowing one
+- tracking participating artists by year, awards won, mural subject matter, and repeat attendance. This
+- was well-received as a tool to inform future jurying, interview talking points, and strategic
+- invitations. It was noted that having this data would also support discussions about balancing
+- T-Shirts and Merchandise The committee discussed reintroducing Mural Fest branded T-shirts for
+- Volunteer Staffing and Incentives The committee discussed refining volunteer slot structures to
+- compensation for extended hours worked during the festival, noting that other contractors and public
+- The possibility of term limits or reapplication requirements was also raised as a mechanism to ensure
+- Wayfinding and Maps The committee identified wayfinding as an area for improvement. Printed
+- Signage and Flags Feedback was received from locals that the volume of event flags felt excessive,
+- particularly during the week before the festival. The committee agreed to consider reducing flag
+- Mural Locations Discussion was held regarding the logistical challenges of the Fraser River Beer
+- Co. location, which was identified as difficult for setup, takedown, and artist visibility. The
+- was identified as a promising future commission site. The parking lot across from the gas station was
+- discussed but concerns about prior conflicts with neighboring businesses were noted. No formal
+- Community Participation Mural An artist provided written feedback suggesting the addition of a
+- approximately 250 participants. The committee discussed the need to identify funding for supplies in
+- Unsold and Past-Year Murals The committee discussed options for the one mural that did not sell
+- Fire and Ice — Tabled for discussion at the next meeting. The committee expressed a
+
+## [fraser#6] 2026-08-19 | Board of Trustees and Fraser Housing Authority | agenda
+- hearing impairment are available upon request
+- guidance to ensure on time, on budget, and on
+- Enable: Advocacy, resource development,
+
+## [fraser#7] 2026-08-26 | Planning Commission | minutes
+- 2. Approval of Agenda:
+- Commissioner Bowles moved, and Commissioner Smith seconded the motion to approve
+- 3. Public Comment:
+- Commissioner Smith moved, and Commissioner Miller seconded the motion to approve
+- 5. Discussion:
+- a. Chapter 18 & 19 Code Amendments Workshop
+- amendments to Chapters 18 and 19 of the Fraser Municipal Code. The session
+- amendments in effect by January 1, 2027, which would also satisfy the Proposition
+- 123 requirement for fast-tracking affordable housing applications by December 31,
+- Amendment Timeline. Mr. Seward proposed spending August and September
+- workshopping draft amendments with the Commission, soliciting stakeholder
+- feedback in September and October through a community town hall, written
+- hearing in October, and Board of Trustees adoption in November or December
+- newspaper notifications
+- Forms and Checklists: The Commission instructed that application forms in the
+- appendix be replaced by staff-prescribed forms to facilitate an online application
+- system without needing further code amendments for updates
+- Building Permit Extensions: With current codes allowing 24 months to complete
+- permitted work, Mr. Seward flagged a longstanding, uncompleted permit from
+- and research surety bond feasibility
+- Conditional Use Permits / Special Use Permits: Currently requiring dual
+- approval from the Planning Commission and Trustees, it's suggested that distinct
+- Plat and Site Plan Sequencing: At present there is no order to the approval of
+- subdivision plats and site plans, which means in many instances site plans are
+- approved before plats. The Commission advocated for a requirement that a plat
+- be approved prior to the site plan or concurrently with the site plan and that plats
+- once approved be recorded with n 60 days so that property is taxed correctly
+- of final PD plans which will effect Grand Park and Rendezvous be the same
+- process as the site plan approval
+- Water and Sewer Service Confirmation: Proof of service will become a pre
+- building permit necessity for habitable structures
+- Annexation: Annexation lacks an established process in the code. It was decided
+- that annexation policy development will occur outside the Chapter 19 amendment
+- process due to its complexity and the need for broader discussion
+- refined. A permit process will be implemented to ensure compliance, particularly
+- Fee Waivers: The code's waiver option lacks clarity. Staff will craft eligibility criteria
+- for waivers to be granted uniformly by staff, minimizing repetitive fee handling
+- adopt drought/fire-resilient standards, with non-functional turf prohibited for new
+
+## [fraser#8] 2026-09-02 | Board of Trustees and Fraser Housing Authority | minutes
+- Planner, Jack Seward; Interim Police Chief, Donnie Ransom
+- 2. Approval of Agenda:
+- Trustee Smith moved, and Trustee White seconded the motion to approve the agenda
+- b. Resolution 2026-09-01 Contract with CASI for Annual Paving – Paul
+- Trustee Cwiklin moved, and Trustee Jensen seconded the motion to approve the
+- Dawn Rocky the new Executive Director of Fraser River Valley Housing Partnership
+- 5. Discussion and Possible Action:
+- b. (15 Minutes) Upper Colorado Watershed Environment Team Update
+- c. (30 Minutes) Transit Budget and Service Options - Sarah C
+- Trustee Smith moved and Trustee Soles seconded the motion to approve option
+- d. (10 Minutes) Resolution 2026-09-02 Approving Water Supply Protection District
+- Permit – Jack
+- Trustee Gregory moved, and Trustee White seconded the motion to approve Resolution
+- 2026-09-02 Issuing a Water Supply Protection District Permit for the Fraser Public
+- Works Fuel Station at 150 Grand County Road 72. Motion carried: 7-0
+- a. 2026 Election Update – Deputy Clerk Bourn presented the certified ballot order
+- specific legal questions under C.R.S. Section 24-6-402(4)(b), specifically for discussion
+- therein by Town Attorney, and (2) to discuss the upcoming mediation in the conservation
+- policy and tenant eligibility preferences under the Fair Housing Act and Colorado law
+
+## [fraser#9] 2026-09-08 | Downtown Development Authority Board | agenda
+- Downtown Development Authority Board
+
+## [fraser#10] 2026-09-10 | Public Arts Committee | minutes
+- 2. Approval of Agenda:
+- Cyndy moved, and Kerry seconded the motion to approve the Agenda. Motion carried:
+- 4. Discussion
+- ● All 30 murals sold, including the final one being purchased recently
+- ● Artist feedback was very positive overall
+- The group discussed covering travel and lodging for the artists, noting that for a $3,000 commission from
+- text with a simple sunrise/sunset and trees background. The group loved it, noting its visibility from the road
+- The group discussed a potential shift for 2027 toward painting building walls instead of panels, an idea
+- Key discussion points:
+- ● The group agreed the budget needs to increase to support larger stipends for building murals. Sarah
+- noted the current Art in Public Places budget sits around $91,000, with unspent funds in recent years
+- that could be applied. Steve suggested bumping the budget by roughly $50K relative to what was
+- Arts, but the group agreed the trade-off was acceptable given the community beautification goals
+- ● The group discussed the Granby experience as a cautionary tale, noting that public pushback there
+- Jeff (stepping in for the absent Joe) requested a Standard Operating Procedure (SOP) document covering tasks
+- c) Fire & Ice 2027
+- ● Fire artists (Aaron) — The group agreed to reach out to Aaron (the flaming guitar artist) about
+- bringing more of his fire artist friends. Steve noted Aaron has a pyrotechnics/Burning Man
+- ● Fire spinners — Agreed to bring back, though placement may need to be revisited depending on a
+- proposed sledding hill at Lion's Ponds that the mayor is exploring near the bonfire area
+- at 5:30, bonfire at 5:45, ice sculpture ignition at 6:15, fireworks at 6:30
+- ● Trash collection — Sarah flagged that trash management was an issue last year. The group discussed
+- throughout the event area. Jeff will incorporate this into the SOP
+- Similar to the Mural Festival, Jeff requested an SOP with tasks and timelines for Fire & Ice to help his crew
+
+## [fraser#11] 2026-09-16 | Board of Trustees and Fraser Housing Authority | minutes
+- McVeigh; Public Works Director, Paul Johnson; Interim Police Chief,
+- 2. Approval of Agenda:
+- Trustee Soles moved, and Trustee Gregory seconded the motion to approve the
+- amended agenda removing Executive Session regarding Reassessment of Water and
+- Sewer Service Fees on Properties with Expanded or Changed Water Usage. Motion
+- b) Resolution 2026-09-03 Approving Amendment to the Development
+- Improvements Agreement, Strom Townhomes
+- c) Resolution 2026-09-04 Contract with CASI for Annual Paving Change Order #1
+- d) Resolution 2026-09-07 Authorizing Grand County Child Care Strategic
+- Trustee Cwiklin moved, and Trustee White seconded the motion to approve the consent
+- 5. Discussion and Possible Action:
+- b) Resolution 2026-09-05 Amending Mandatory Watering Restrictions
+- Trustee Soles moved, and Trustee Jensen seconded the motion to approve Resolution
+- 2026-09-05 Amending Mandatory Watering Restrictions. Motion carried: 7-0
+- c) St. Louis Landing Project and NMTC Update – MAHD
+- ci) Resolution 2026-09-06 Authorizing Town Manager NMTC Actions
+- Trustee Smith moved, and Trustee White seconded the motion to approve Resolution
+- the new market tax credit financing to go toward the playground and buildout of the Early
+- 6. Fraser Housing Authority:
+- of Trustees meeting and open the Fraser Housing Authority. Motion carried: 7-0
+- a) FHA Resolution 2026-09-01 Authorizing Executive Director to take NMTC
+- Trustee Smith moved, and Trustee Soles seconded the motion to approve FHA
+- Resolution 2026-09-01 Authorizing Executive Director to take NMTC Actions. Motion
+- Housing Authority and resume the Board of Trustees meeting. Motion carried: 7-0
+- October 8 5pm-7pm, Candidate Bios on website and the election will be certified on
+- c) Trustee Smith, The Winter Park Film Festival was a great success
+- discussion of the legal options available to the town in connection with reassessment of
+- water and sewer service fees on properties with expanded or changed water usage
+- since original tap fee issuance Including Town Manager Sarah Catanzarite, Town
+- Planner Jack Sewerd, Town Attorney Kent Whitmer Motion carried: 7-0
+- session Reassessment of Water Tap Fees on Properties with Expanded or Changed
+- Water Usage. Motion carried: 7-0
+
+## [fraser#12] 2026-09-23 | Planning Commission | agenda
+- Participate in the meeting through our virtual platform
+- Public Comment
+- 1 Application Narritive.pdf
+- 3 Encroachment License Agreement.pdf
+- Resolution Recommending Approval Of An Encroachment License
+- PC Resolution 2026-09-01 Recommending Approval of an Encroachment
+- Chapter 18 & 19 Code Amendments Workshop
+- Code Amendment Overview.pdf
+- ORD Chapter 18 And 19 Amendments_Draft.pdf
+- Chapter 18 And 19 Code Amendments_Presentation.pdf
+- hearing impairment are available upon request
+
+## [fraser#13] 2026-09-29 | Downtown Development Authority Board | agenda
+- Downtown Development Authority
+- Participate in the meeting through our virtual platform
+- Approval Of Agenda
+- Discussion And Possible Action
+- DDA 2027 Preliminary Budget
+- DDA Budget 9.25.26 .Pdf
+- Workplan Fraser DDA 2024-2026.Pdf
+
+## [fraser#14] 2026-10-07 | Board of Trustees and Fraser Housing Authority | agenda
+- Board of Trustees and Fraser Housing Authority
+- Participate in the meeting through our virtual platform
+- Workshop - 2027 Budget And Priorities
+- Approval Of Agenda
+- Resolution 2026-10-01 Ratifying Engagement Agreement With
+- Resolution 2026-10-02 Windy Gap Environmental Fund Application
+- Resolution 2026-10-02 Windy Gap Environmental Fund Application.pdf
+- Staff Briefing Windy Gap Environmental Fund Application.pdf
+- Resolution 2026-10-03 Upper Colorado Watershed Environment
+- Resolution 2026-10-03 Upper Colorado Watershed Environment Team
+- Upper Colorado Watershed Environment Team Ground Water Study
+- a. Business not on the agenda (If you would like to request time on a future
+- Discussion And Possible Action Regarding
+- (15 Minutes) Winter Park Film Festival - Connor Nelson
+- (5 Minutes) 2027 Draft Budget - Laurie
+- Pursuant to C.R.S. § 29-1-104 The Board of Trustees Appoints
+- Finance Director Lorraine Waters to prepare and submit the 2027
+- budget. Pursuant to C.R.S. § 29-1-105 The proposed 2027 Draft
+- Budget is presented to the Board of Trustees on October 7, 2026
+- A copy is available upon request
+- 2027 TOF DRAFT Budget 10.06.2026.Pdf
+- Colorado Renter Rewards Presentation.pdf
+- Fraser Housing Authority
+- (30 Minutes) FHA Resolution 2026-10-01 Approving St. Louis
+- Landing Housing Regulations - Sarah C
+- FHA Resolution 2026-10-01 Approving St. Louis Landing Housing
+- SLL Housing Regulations Draft 10.02.2026.Pdf
+- Reassessment Of Water And Sewer Service Fees On Properties
+- Section 24-6-402(4)(b), specifically for discussion of the legal
+- water tap and sewer fees since original tap fee issuance
+- hearing impairment are available upon request
+- guidance to ensure on time, on budget, and on
+- Enable: Advocacy, resource development,
+
+## [fraser#15] 2026-10-08 | Public Arts Committee | minutes
+- 2. Approval of Agenda:
+- Cynthia moved, and Steve seconded the motion to approve the Agenda. Motion
+- Cynthia moved, and Steveseconded the motion to approve the Agenda. Motion
+- 4. Discussion
+- 1. Fire and Ice 2027
+- shuttles will operate from the prior year's locations — the elementary school ball fields, rec
+- their own shuttle. The transportation provider also noted that taxi service is available on Friday
+- same as prior years. The primary change is that EMS will be repositioned to the parking lot
+- behind the main building to allow for quicker egress. The fire department will stage their engine
+- in that same lot, with the water tender positioned further into the festival grounds
+- The committee discussed expanding fire and lighted sculpture elements. Staff indicated they are
+- in contact with Aaron, a returning fire artist, as well as a metal sculptor familiar to Aaron who
+- large sway poles with lighted performers. Pricing and safety logistics are pending. The fire
+- department representative requested the opportunity to review all fire installations on Saturday
+- The business burn-off (effigy) program was discussed. It was noted that businesses should be
+- Food and beverage vendors confirmed or in discussion include Mountain Mary's (cookies), River
+- Other items discussed included: the potential return of a sledding hill or dragon feature for kids;
+- improved speaker sound near the bonfire area; coordination with KFFR radio; a possible
+- temporary crosswalk with portable signals to manage pedestrian traffic on the main road
+- Court as a new parking area. The event timeline will be reviewed and potentially adjusted to
+- tighten the gap between the bonfire lighting and fireworks. Fireworks are expected to again be
+- The committee discussed inviting the high school choir and drum corps to perform, with a
+- Holsworth and Mayor Brian were identified as potential candidates to light the bonfire
+- Steve Fitzgerald reported that two mural commissions were awarded following Mural Fest
+- The committee discussed the possibility of adding wall murals as a component of Mural Fest
+- The committee discussed a hybrid model in which selected wall murals would be offered on an
+- well as the wall ride at the bike park, both of which were noted positively by committee
+
+## [fraser#16] 2026-10-21 | Board of Trustees and Fraser Housing Authority | agenda
+- Board of Trustees and Fraser Housing Authority
+- Participate in the meeting through our virtual platform
+- Workshop - 2027 Budget
+- 2027 TOF Draft Budget 10162026.Pdf
+- Approval Of Agenda
+- Resolution 2026-10-04 Cornerstone Vs Fraser Mediation
+- Submission Agreement
+- Resolution 2026-10-04 Cornerstone Vs Fraser Mediation Submission
+- Agreement.pdf
+- a. Business not on the agenda (If you would like to request time on a future
+- Discussion And Possible Action Regarding
+- (10 Minutes) 2026 Business Enhancement Grant Presentation
+- 2026_Business_Enhancement_Grant_Recap V2.Pdf
+- Fraser Housing Authority
+- (20 Minutes) FHA Resolution 2026-10-02 Approving St Louis
+- FHA Resolution 2026-10-02 Approving St Louis Landing Community
+- (20 Minutes) FHA Resolution 2026-10-03 Approving Initial Rental
+- Rates And Fees For The St. Louis Landing Workforce Housing
+- Development - Sarah C
+- FHA Resolution 2026-10-03 Approving St Louis Landing Rents And
+- hearing impairment are available upon request
+- guidance to ensure on time, on budget, and on
+- Enable: Advocacy, resource development,

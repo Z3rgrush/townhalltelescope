@@ -1,0 +1,274 @@
+# oak-creek
+
+## [oak-creek#0] 2026-08-13 | Town Board | agenda
+- County, Colorado, will be held on Thursday, August 13, 2026 beginning at 6:00 p.m. in the Hearing
+- subject to change up to 24 hours before scheduled hearings. The public is invited to
+- 2. APPROVAL OF AGENDA
+- pertaining to two draft agreements for law enforcement services with the Routt
+- The Board of Trustees will take comments under consideration but will not make
+- A. Application for a Special Events Permit from the Oak Creek Labor Day
+- D. Renewal of a Retail Liquor License application for Spiro's Liquor located at 107
+- W Main Street
+- 7. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PURCHASE A
+- SEWER JETTER IN THE AMOUNT OF $135,364
+- A. Consideration and possible approval to purchase a sewer jetter
+- 8. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PROCEED WITH
+- ASPHALT PATCHING PROJECT ON SHARP AVENUE AND OAK RIDGE
+- A. Consideration and possible approval to proceed with asphalt patching project
+- 9. CONSIDERATION AND POSSIBLE APPROVAL OF A SPECIAL USE PERMIT
+- SHERIFF DAM AS APPROVED BY THE COLORADO DIVISION OF WATER
+- A. Consideration and possible approval of a Special Use Permit from the
+- enlargement and rehabilitation of Sheriff Dam as approved by the Colorado
+- Division of Water Resources State Engineer's Office
+- 10. CONSIDERATION AND POSSIBLE APPROVAL OF AN RFP FOR
+- A. Consideration and possible approfal of an RFP for professional planning
+- 11. CONSIDERATION AND POSSIBLE APPROVAL OF AN OFF-DUTY OVERTIME
+- REIMBURSEMENT AGREEMENT WITH THE ROUTT COUNTY SHERIFF’S
+- A. Consideration and possible approval of an off-duty overtime reimbursement
+- agreement with the Routt County Sheriff's Office
+- 12. CONSIDERATION AND POSSIBLE APPROVAL OF AN AGENT
+- AUTHORIZATION FORM FOR THE SHERIFF DAM RESERVOIR PROJECT
+- A. Consideration and possible approval of an agent authorization form for the
+- Sheriff Dam Reservoir Project
+- Please Note: All programs, services and activities of the Town of Oak Creek are operated in compliance
+- coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
+- request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#1] 2026-08-13 | Town Board | agenda
+- County, Colorado, will be held on Thursday, August 13, 2026 beginning at 6:00 p.m. in the Hearing
+- subject to change up to 24 hours before scheduled hearings. The public is invited to
+- 2. APPROVAL OF AGENDA
+- pertaining to two draft agreements for law enforcement services with the Routt
+- The Board of Trustees will take comments under consideration but will not make
+- A. Application for a Special Events Permit from the Oak Creek Labor Day
+- D. Renewal of a Retail Liquor License application for Spiro's Liquor located at 107
+- W Main Street
+- 7. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PURCHASE A
+- SEWER JETTER IN THE AMOUNT OF $135,364
+- A. Consideration and possible approval to purchase a sewer jetter
+- 8. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PROCEED WITH
+- ASPHALT PATCHING PROJECT ON SHARP AVENUE AND OAK RIDGE
+- A. Consideration and possible approval to proceed with asphalt patching project
+- 9. CONSIDERATION AND POSSIBLE APPROVAL OF A SPECIAL USE PERMIT
+- SHERIFF DAM AS APPROVED BY THE COLORADO DIVISION OF WATER
+- A. Consideration and possible approval of a Special Use Permit from the
+- enlargement and rehabilitation of Sheriff Dam as approved by the Colorado
+- Division of Water Resources State Engineer's Office
+- 10. CONSIDERATION AND POSSIBLE APPROVAL OF AN RFP FOR
+- A. Consideration and possible approfal of an RFP for professional planning
+- 11. CONSIDERATION AND POSSIBLE APPROVAL OF AN OFF-DUTY OVERTIME
+- REIMBURSEMENT AGREEMENT WITH THE ROUTT COUNTY SHERIFF’S
+- A. Consideration and possible approval of an off-duty overtime reimbursement
+- agreement with the Routt County Sheriff's Office
+- 12. CONSIDERATION AND POSSIBLE APPROVAL OF AN AGENT
+- AUTHORIZATION FORM FOR THE SHERIFF DAM RESERVOIR PROJECT
+- A. Consideration and possible approval of an agent authorization form for the
+- Sheriff Dam Reservoir Project
+- Please Note: All programs, services and activities of the Town of Oak Creek are operated in compliance
+- coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
+- request. This institution is an equal opportunity provider and employer
+- 30 ALLOCATION TO WATER 827,323.09
+- 40 ALLOCATION TO SEWER 452,332.58
+- 60 ALLOCATION TO PARKS & RECREATION 101,909.68
+- 10-00-1510 PROPERTY TAX RECEIVABLE 191,164.71
+- 10-00-2201 DEF REV-PROPERTY TAXES 191,164.71
+- 10-00-2252 DEF REV-GRANT 14,948.26
+- 10-00-2610 PARKS AND RECREATION 100.00
+- 10-00-2720 CAPITAL RESERVE - PARKS 21.00
+- 10-00-2721 CAPITAL RESERVE - POLICE 11,055.00
+- 10-00-2723 CAPITAL RESERVE - STREETS 26,000.00
+- 10-00-2830 DESIGNATED CAPITAL PROJECTS 27,104.00
+
+## [oak-creek#2] 2026-08-19 | Planning Commission | agenda
+- up to 24 hours before scheduled hearings
+- 2. PUBLIC HEARING AND POSSIBLE RECOMMENDATION ON AN
+- APPLICATION BY THE SOUTH ROUTT MEDICAL CENTER HEALTH SERVICE
+- PLAN – ADDITION OF 880SF OF INSTITUTIONAL SPACE TO THE EXISTING
+- A. Public Hearing and Possible Recommendation
+- Please Note: All programs, services and activities of the Town of Oak Creek are operated in compliance
+- coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
+- request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#3] 2026-08-27 | Town Board | agenda
+- County, Colorado, will be held on Thursday, August 27, 2026 beginning at 6:00 p.m. in the Hearing
+- subject to change up to 24 hours before scheduled hearings. The public is invited to
+- 2. APPROVAL OF AGENDA
+- The Board of Trustees will take comments under consideration but will not make
+- 6. CONSIDERATION AND POSSIBLE APPROVAL OF A FUNDING REQUEST
+- A. Consideration and possible approval of donation in the amount of $3,000 for
+- 7. PUBLIC HEARING AND POSSIBLE APPROVAL OF AN APPLICATION BY THE
+- A. Public hearing and possible approval for South Routt Medical Center Health
+- 8. DISCUSSION REGARDING AN ORDINANCE OF THE TOWN OF OAK CREEK,
+- TOWN'S TWO PERCENT (2.0%) SALES TAX FOR THE PURPOSE OF
+- CONSTRUCTION AND REHABILITATION OF CAPITAL IMPROVEMENTS
+- A. Discussion regarding an ordinance adopting a new chapter of the municipal
+- 9. DISCUSSION REGARDING POSSIBLE UPGRADES TO THE BULK WATER
+- A. Discussion regarding possible upgrades to the bulk water dispensing station
+- 10. REVIEW AND POSSIBLE ACCEPTANCE OF BID FOR THE BELL AVENUE
+- DRAINAGE IMPROVEMENT PROJECT
+- Please Note: All programs, services and activities of the Town of Oak Creek are operated in compliance
+- coordinate your needs. Please notify us of your request as soon as possible to allow us time to meet your
+- request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#4] 2026-09-24 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, September 24, 2026 beginning at 6:00 p.m. in the Hearing
+- 2. APPROVAL OF AGENDA
+- comments to three minutes. The Board of Trustees will take comments under consideration but will not make any decisio n or take any action
+- B. Liquor License Renewal Application for Oak Creek Community Partners, LLC dba the Oak Creek Tavern located at 105 E. Main St
+- 5. DISCUSSION WITH APEX TWIN ENVIRO REGARDING RATE INCREASES FOR TRASH HAULING BEGINNING IN NOVEMBER 2026
+- 6. DISCUSSION WITH THE SOROCO SCHOOL DISTRICT ON THE CONDITION OF THE RUNNING TRACK
+- 7. DISCUSSION REGARDING NEW TOWN SIGNAGE
+- 8. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PURCHASE A NEW CONTROL PANEL FOR THE BULK WATER DISPENSING
+- 9. CONSIDERATION AND POSSIBLE APPROVAL OF A PROPOSAL TO CONSTRUCT A NEW SHELL FOR THE BULK WATER
+- 10. DISCUSSION REGARDING AN ORDINANCE OF THE TOWN OF OAK CREEK, COLORADO ADOPTING A NEW CHAPTER 3.02 OF THE
+- TAX FOR THE PURPOSE OF CONSTRUCTION AND REHABILITATION OF CAPITAL IMPROVEMENTS
+- result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+- 30 ALLOCATION TO WATER 832,427.79
+- 40 ALLOCATION TO SEWER 468,259.08
+- 60 ALLOCATION TO PARKS & RECREATION 110,166.69
+- 10-00-1510 PROPERTY TAX RECEIVABLE 191,164.71
+- 10-00-2201 DEF REV-PROPERTY TAXES 191,164.71
+- 10-00-2252 DEF REV-GRANT 14,948.26
+- 10-00-2610 PARKS AND RECREATION 100.00
+- 10-00-2720 CAPITAL RESERVE - PARKS 21.00
+- 10-00-2721 CAPITAL RESERVE - POLICE 11,055.00
+- 10-00-2723 CAPITAL RESERVE - STREETS 26,000.00
+- 10-00-2830 DESIGNATED CAPITAL PROJECTS 27,104.00
+- REVENUES WITH COMPARISON TO BUDGET
+- YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD AC YTD ACTUA BUDGET PCNT
+- 10-01-3110 PROPERTY TAXES 111319.08 141,517.70 45,083.80 174,796.54 184,796.00 94.6
+- 10-01-3132 2% SALES TAX- UNDESIGNATED 130178.62 154,834.89 140.37 178,753.65 366,249.00 48.8
+- 10-01-3142 CIGARETTE TAX 476.97 476.74 55.68 439.55 940.00 46.8
+- 10-01-3180 ROAD TAX 1286.87 2,672.70 1,667.32 2,950.22 3,200.00 92.2
+- 10-01-3190 DELINQUENT TAX INTEREST 44.07 87.42 82.12 100.09 850.00 11.8
+- 10-01-3359 SEVERANCE TAX 0 .00 .00 .00 2,000.00 .0
+- 10-01-3410 MANAGEMENT FEE - ELECTRIC 42792.87 32,692.50 .00 32,692.50 65,385.00 50.0
+- 10-01-3411 MANAGEMENT FEE-WATER 0 11,949.00 .00 11,949.00 23,898.00 50.0
+
+## [oak-creek#5] 2026-09-24 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, September 24, 2026 beginning at 6:00 p.m. in the Hearing
+- 2. APPROVAL OF AGENDA
+- comments to three minutes. The Board of Trustees will take comments under consideration but will not make any decisio n or take any action
+- B. Liquor License Renewal Application for Oak Creek Community Partners, LLC dba the Oak Creek Tavern located at 105 E. Main St
+- 5. DISCUSSION WITH APEX TWIN ENVIRO REGARDING RATE INCREASES FOR TRASH HAULING BEGINNING IN NOVEMBER 2026
+- 6. DISCUSSION WITH THE SOROCO SCHOOL DISTRICT ON THE CONDITION OF THE RUNNING TRACK
+- 7. DISCUSSION REGARDING NEW TOWN SIGNAGE
+- 8. DISCUSSION WITH THE SOROCO YOUTH COUNCIL REGARDING A LETTER OF SUPPORT FOR A GRANT TO CONSTRUCT A DOG
+- 9. CONSIDERATION AND POSSIBLE AUTHORIZATION TO PURCHASE A NEW CONTROL PANEL FOR THE BULK WATER DISPENSING
+- 10. CONSIDERATION AND POSSIBLE APPROVAL OF A PROPOSAL TO CONSTRUCT A NEW SHELL FOR THE BULK WATER
+- 11. DISCUSSION REGARDING AN ORDINANCE OF THE TOWN OF OAK CREEK, COLORADO ADOPTING A NEW CHAPTER 3.02 OF THE
+- TAX FOR THE PURPOSE OF CONSTRUCTION AND REHABILITATION OF CAPITAL IMPROVEMENTS
+- result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#6] 2026-10-08 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 8, 2026 beginning at 6:00 p.m. in the Hearing Room,
+- 2. APPROVAL OF AGENDA
+- items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
+- A. Special Events Permit for Oaktoberfest in Decker Park on October 16, 2026, and October 17, 2026
+- 5. PRESENTATION BY THE SOROCO YOUTH ACTION COUNCIL ON A PROPOSED PROJECT TO LOCATE A
+- DOG PARK IN THE TOWN OF OAK CREEK
+- 6. REQUEST BY THE SOUTH ROUTT HOUSING AUTHORITY FOR $13,000 IN OPERATIONS FUNDING
+- 7. CONSIDERATION AND POSSIBLE APPROVAL OF TO WN OF OAK CREEK RESOLUTION NO. 2026-020, “A
+- RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF OAK CREEK EXPRESSING PROJECT
+- SUPPORT AND AUTHORIZING THE TOWN ADMINISTRATOR TO SUBMIT A GRANT APPLICATION TO THE
+- COLORADO PARKS AND WILDLIFE NON -MOTORIZED TRAIL GRANT PROGRAM REQUESTING $125,000
+- IN FUNDI NG TO COMPLETE WORK ON A DOWNHILL FLOW TRAIL IN OAK CREEK MOUNTAIN PARK ”
+- 8. CONSIDERATION ANDPOSSIBLE APPROVAL OF TOWN OF OAK CREEK ORDIN ANCE NO. 678, “ AN
+- ORDINANCE OF THE TOWN OF OAK CREEK, COLORADO ADOPTING A NEW CHAPTER 3.02 OF THE
+- PERCENT (2.0%) SALES TAX FOR THE PURPOSE OF CONSTRUCTION AND REHABILITATION OF CAPITAL
+- IMPROVEMENTS”
+- STATION AREA PLAN FOR THE TOWN OF OAK CREEK
+- 10. CONSIDERATION AND POSSIBLE AUTHORIZATION TO SELL THE 15-PASSENGER 2015 FORD TRANSIT
+- 11. REVIEW OF THE FIRST DRAFT OF THE 2027 ANNUAL BUDGET FOR THE TOWN OF OAK CREEK
+- 12. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026 -021, “A
+- RESOLUTION APPOINTING AN INTERIM CLERK/TREASURER FOR THE TOWN OF OAK CREEK ”
+- 13. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RE SOLUTION NO. 26-022, “A
+- RESOLUTION OF THE TOWN BOARD OF THE TOWN OF OAK CREEK, COLORADO DELEGATING
+- result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+- 30 ALLOCATION TO WATER 866,451.81
+- 40 ALLOCATION TO SEWER 481,154.86
+- 60 ALLOCATION TO PARKS & RECREATION 120,126.14
+- 10-00-1510 PROPERTY TAX RECEIVABLE 191,164.71
+- 10-00-2201 DEF REV-PROPERTY TAXES 191,164.71
+- 10-00-2252 DEF REV-GRANT 14,948.26
+- 10-00-2610 PARKS AND RECREATION 100.00
+- 10-00-2720 CAPITAL RESERVE - PARKS 21.00
+- 10-00-2721 CAPITAL RESERVE - POLICE 11,055.00
+- 10-00-2723 CAPITAL RESERVE - STREETS 26,000.00
+
+## [oak-creek#7] 2026-10-08 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 8, 2026 beginning at 6:00 p.m. in the Hearing Room,
+- 2. APPROVAL OF AGENDA
+- items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
+- A. Special Events Permit for Oaktoberfest in Decker Park on October 16, 2026, and October 17, 2026
+- 5. PRESENTATION BY THE SOROCO YOUTH ACTION COUNCIL ON A PROPOSED PROJECT TO LOCATE A
+- DOG PARK IN THE TOWN OF OAK CREEK
+- 6. REQUEST BY THE SOUTH ROUTT HOUSING AUTHORITY FOR $13,000 IN OPERATIONS FUNDING
+- 7. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026 -020, “A
+- RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF OAK CREEK EXPRESSING PROJECT
+- SUPPORT AND AUTHORIZING THE TOWN ADMINISTRATOR TO SUBMIT A GRANT APPLICATION TO THE
+- COLORADO PARKS AND WILDLIFE NON -MOTORIZED TRAIL GRANT PROGRAM REQUESTING $125,000
+- IN FUNDI NG TO COMPLETE WORK ON A DOWNHILL FLOW TRAIL IN OAK CREEK MOUNTAIN PARK”
+- 8. CONSIDERATION ANDPOSSIBLE APPROVAL OF TOWN OF OAK CREEK ORDINANCE NO. 678, “ AN
+- ORDINANCE OF THE TOWN OF OAK CREEK, COLORADO ADOPTING A NEW CHAPTER 3.02 OF THE
+- PERCENT (2.0%) SALES TAX FOR THE PURPOSE OF CONSTRUCTION AND REHABILITATION OF CAPITAL
+- IMPROVEMENTS”
+- STATION AREA PLAN FOR THE TOWN OF OAK CREEK
+- 10. CONSIDERATION AND POSSIBLE AUTHORIZATION TO SELL THE 15-PASSENGER 2015 FORD TRANSIT
+- 11. REVIEW OF THE FIRST DRAFT OF THE 2027 ANNUAL BUDGET FOR THE TOWN OF OAK CREEK
+- 12. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK RESOLUTION NO. 2026 -021, “A
+- RESOLUTION APPOINTING AN INTERIM CLERK/TREASURER FOR THE TOWN OF OAK CREEK”
+- 13. CONSIDERATION AND POSSIBLE APPROVAL OF A DEVELOPMENT AGREEMENT FOR LOT 15, SIERRA
+- result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#8] 2026-10-22 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 22, 2026 beginning at 6:00 p.m. in the Hearing
+- 2. APPROVAL OF AGENDA
+- advice on specific legal questions pertaining to a potential development agreement between the Town of Oak
+- Creek, CO and MACOGA, LLC for the development of Lot 15, Sierra View Subdivision;
+- items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
+- 6. CONSIDERATION AND PO SSIBLE APPROVAL OF A DEVELOPMENT I MPROVEMENT AGREEMENT
+- 7. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK, CO RESOLUTION NO. 2026-022,
+- “A RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF OAK CREEK, CO ADOPTING THE 2026
+- ROUTT COUNTY, COLORADO HAZARD MITIGATION PLAN”
+- 8. CONSIDERATION AND POSSIBLE APPROVAL OF A MEMORANDUM OF U NDERSTANDING WITH THE
+- SOUTH ROUTT LIBRARY DISTRCT FOR WINTER MAINTENANCE OF THE PARKING LOT LOCATED ON
+- 9. DISCUSSION REGARDING NUISANCE ABATEMENT ACTIONS IN THE TOWN OF OAK CREEK, CO
+- result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+
+## [oak-creek#9] 2026-10-22 | Town Board | agenda
+- Notice is hereby given that a Regular Meeting of the Board of Trustees, Town of Oak Creek, Routt County, Colorado, will be held on Thursday, October 22, 2026 beginning at 6:00 p.m. in the Hearing
+- 2. APPROVAL OF AGENDA
+- advice on specific legal questions pertaining to a potential development agreement between the Town of Oak
+- Creek, CO and MACOGA, LLC for the development of Lot 15, Sierra View Subdivision;
+- items. Please limit comments to three minutes. The Board of Trustees will take comments under consideration but
+- 6. CONSIDERATION AND PO SSIBLE APPROVAL OF A DEVELOPMENT I MPROVEMENT AGREEMENT
+- 7. CONSIDERATION AND POSSIBLE APPROVAL OF TOWN OF OAK CREEK, CO RESOLUTION NO. 2026-022,
+- “A RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF OAK CREEK, CO ADOPTING THE 2026
+- ROUTT COUNTY, COLORADO HAZARD MITIGATION PLAN”
+- 8. CONSIDERATION AND POSSIBLE APPROVAL OF A MEMORANDUM OF U NDERSTANDING WITH THE
+- SOUTH ROUTT LIBRARY DISTRCT FOR WINTER MAINTENANCE OF THE PARKING LOT LOCATED ON
+- 9. DISCUSSION REGARDING NUISANCE ABATEMENT ACTIONS IN THE TOWN OF OAK CREEK, CO
+- result of a disability, please call our office at (970) 736 -2422 or TDD access through RelayColorado by dialing 7 -1-1 to coordinate your needs. Please notify us of your request as soon as
+- possible to allow us time to meet your request. This institution is an equal opportunity provider and employer
+- DEVELOPMENT IMPROVEMENT AGREEMENT
+- This Development Improvement Agreement ("Agreement") is made and entered into on 22
+- B. On 24 April 2025, the Parties entered into an Improvements Agreement, recorded in Routt
+- County, at Reception No. 860802 ("Original Agreement");
+- C. The Parties wish to terminate and supersede the Original Agreement in its entirety with this
+- D. The Town has approved Developer’s subdivision application for the Property ("Application");
+- E. The Town’s approval of the Application is contingent upon the condition that Developer
+- faithfully perform all duties created by this Agreement
+- NOW, for good and valuable consideration, the receipt and sufficiency is admitted and acknowledged,
+- a. This Agreement provides the terms, conditions, and fees to be paid by Developer for
+- development of the Property. All conditions are in addition to any requirements of the Town
+- of Oak Creek Municipal Code, state statutes, and other Town ordinances, and do not
+- supersede any Town requirements unless specifically stated in this Agreement
+- b. The Parties hereby terminate the Original Agreement in its entirety, which is superseded
+- and replaced by this Agreement
+- II. Deposit and Fees. Upon execution of this Agreement, Developer will pay a $5,000 cash

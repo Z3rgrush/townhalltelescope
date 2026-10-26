@@ -1,0 +1,1010 @@
+# breckenridge
+
+## [breckenridge#0] 2026-07-28 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- ORDINANCE AMENDING ACCESSORY DWELLING UNIT REGULATIONS (SECOND READING)
+- WILDFIRE MITIGATION AND SUPPRESSION SYSTEMS MORATORIUM (RESOLUTION)
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- WATER RESTRICTIONS UPDATE
+- BRECKENRIDGE HISTORY 2027 BUDGET PROPOSAL
+- DELIVERY ZONE PERMITS AND POTENTIAL CHANGES TO MODEL TRAFFIC CODE
+- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS REGARDING REAL PROPERTY IN THE
+
+## [breckenridge#1] 2026-07-28 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- ORDINANCE AMENDING ACCESSORY DWELLING UNIT REGULATIONS (SECOND READING)
+- WILDFIRE MITIGATION AND SUPPRESSION SYSTEMS MORATORIUM (RESOLUTION)
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- WATER RESTRICTIONS UPDATE
+- BRECKENRIDGE HISTORY 2027 BUDGET PROPOSAL
+- DELIVERY ZONE PERMITS AND POTENTIAL CHANGES TO MODEL TRAFFIC CODE
+- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS REGARDING REAL PROPERTY IN THE
+- From: Mark Truckey, Director of Community Development
+- CLASS A APPLICATIONS: None
+- CLASS B APPLICATIONS: None
+- CLASS C APPLICATIONS:
+- remodel. Approved
+- TOWN PROJECT HEARINGS: None
+- Park A v e N
+- Park A v e S
+- APPROVAL OF MINUTES
+- With no changes, the July 7, 2026 minutes were approved
+- APPROVAL OF AGENDA
+- With no changes, the July 21, 2026 Planning Commission agenda was approved
+- PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES:
+- With no call-ups, the consent calendar was approved as presented
+- 1. Comprehensive Plan Underutilized Parcels Identification Work Session
+- Mr. Cross presented maps of identified underutilized parcels within the Town. This analysis is part of
+- Colorado State comprehensive plan requirements which direct municipalities to identify areas that
+- could be developed or redeveloped as potential sites for housing
+- staff.) (Mr. Truckey: We wanted to take a broad-brush stroke of parcels to bring to the
+- Planning Commission and not eliminate many parcels for initial consideration. This is a
+- jurisdiction. For example, there are some identified parcels near Farmer’s Corner and
+- know.) (Mr. Kulick: One caveat, we did not include platted single-family homes in this
+- parcels for consideration without also evaluating every single-family lot and whether it
+- could be considered “underutilized.”)
+- need for employee housing is driving a need to look for opportunities to accommodate
+- housing in our community. This will be a discussion point as we move forward with the
+- Comprehensive Plan.)
+- redeveloping a cemetery, that is not under consideration.)
+- Mr. Frechter: I think the North Gold Rush lot is underutilized as an overflow surface parking area only
+- be easier to negotiate development with Vail than the EPA. (Mr. Cross: That lot was
+- currently conducting a parking study in collaboration with Vail. By the end of the
+- summer, we should have a better understanding of parking issues and where we can
+- improve parking overall within our community.)
+- Mr. Kulick: We are not factoring in the cost of development for each of these parcels. That may be a
+
+## [breckenridge#2] 2026-07-28 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO.7, SERIES 2026 — AN ORDINANCE AMENDING TITLE 9, CHAPTER 1,
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO.14, SERIES 2026 — A RESOLUTION IMPLEMENTING A TEMPORARY
+- MORATORIUM ON THE ISSUANCE OF PERMITS FOR EXTERIOR FIRE SUPPRESSION
+- WATER UTILITY
+- H. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+
+## [breckenridge#3] 2026-07-28 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO.7, SERIES 2026 — AN ORDINANCE AMENDING TITLE 9, CHAPTER 1,
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO.14, SERIES 2026 — A RESOLUTION IMPLEMENTING A TEMPORARY
+- MORATORIUM ON THE ISSUANCE OF PERMITS FOR EXTERIOR FIRE SUPPRESSION
+- WATER UTILITY
+- H. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- negotiations, developing strategies for negotiations, and instructing negotiations
+- (i) Discussion of general legal process for consideration of special district request in light of potential new
+- district proposal being discussed in the community
+- This certificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
+- As Town Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
+- II) APPROVAL OF MINUTES
+- 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVAL OF AGENDA
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Kelly Owens opened public comment
+- Arts District operates differently from Main Street retail by serving as a space for art
+- also expressed interest in donating his skate ramp to the skate park, suggested potential
+- locations and maintenance improvements, and encouraged the Town to allow Jimmy to
+- Aaron Williams asked the Town Council to consider funding TEDx Breckenridge and
+- incorporating it into the arts and cultural plan. He described the program and stated it
+- noted the broader reach of TED talks beyond the local community and requested both
+- funding and representation in the development of the arts and cultural plan
+- With no additional public comments, Mayor Owens closed public comment
+- 1) COUNCIL BILL NO. 7, SERIES 2026 — AN ORDINANCE AMENDING TITLE 9,
+- Cliff Cross, Planner I, stated this ordinance would adopt recommendations from a
+- when positive points or other Town‑approved incentives are requested
+- Council Member Gerard moved to approve COUNCIL BILL NO. 7, SERIES 2026 —
+- AN ORDINANCE AMENDING TITLE 9, CHAPTER 1, SECTION 5, DEFINITIONS;
+- B) RESOLUTIONS, SERIES 2026
+- 1) RESOLUTION NO. 11, SERIES 2026 — A RESOLUTION ADOPTING DOG PARK
+- Kristin Brownson, Assistant Director of Public Works, presented a resolution to adopt
+- new dog park rules and regulations
+- Council Member Gerard moved to approve RESOLUTION NO. 11, SERIES 2026 — A
+
+## [breckenridge#4] 2026-08-04 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. COMPREHENSIVE PLAN STRATEGIC GROWTH AND UNDERUTILIZED PARCELS DENSITY
+
+## [breckenridge#5] 2026-08-04 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. COMPREHENSIVE PLAN STRATEGIC GROWTH AND UNDERUTILIZED PARCELS DENSITY
+- APPROVAL OF MINUTES
+- With no changes, the July 7, 2026 minutes were approved
+- APPROVAL OF AGENDA
+- With no changes, the July 21, 2026 Planning Commission agenda was approved
+- PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES:
+- With no call-ups, the consent calendar was approved as presented
+- 1. Comprehensive Plan Underutilized Parcels Identification Work Session
+- Mr. Cross presented maps of identified underutilized parcels within the Town. This analysis is part of
+- Colorado State comprehensive plan requirements which direct municipalities to identify areas that
+- could be developed or redeveloped as potential sites for housing
+- staff.) (Mr. Truckey: We wanted to take a broad-brush stroke of parcels to bring to the
+- Planning Commission and not eliminate many parcels for initial consideration. This is a
+- jurisdiction. For example, there are some identified parcels near Farmer’s Corner and
+- know.) (Mr. Kulick: One caveat, we did not include platted single-family homes in this
+- parcels for consideration without also evaluating every single-family lot and whether it
+- could be considered “underutilized.”)
+- need for employee housing is driving a need to look for opportunities to accommodate
+- housing in our community. This will be a discussion point as we move forward with the
+- Comprehensive Plan.)
+- redeveloping a cemetery, that is not under consideration.)
+- Mr. Frechter: I think the North Gold Rush lot is underutilized as an overflow surface parking area only
+- be easier to negotiate development with Vail than the EPA. (Mr. Cross: That lot was
+- currently conducting a parking study in collaboration with Vail. By the end of the
+- summer, we should have a better understanding of parking issues and where we can
+- improve parking overall within our community.)
+- Mr. Kulick: We are not factoring in the cost of development for each of these parcels. That may be a
+- consideration for feasibility as we move along. For example, developing in the historic
+- district having more rigorous design standards that can raise development cost is
+- understood but not considered at this time
+- criterion will evaluate the feasibility of development on all sites
+
+## [breckenridge#6] 2026-08-11 | Town Council | minutes
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- subject to negotiations, developing strategies for negotiations, and instructing negotiators . Council
+- (i) Discuss negotiations and receive legal advice related to the Town's litigation against MW Golden
+- This certificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
+- As Town Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
+- II) APPROVAL OF MINUTES
+- 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVALOFAGENDA
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Kelly Owens opened public comment
+- a land grab by the Village and Vail Resorts and the proposed tax structure is unfair
+- With no additional public comments, Mayor Owens closed public comment
+- Lucy Kay, BTO President, reported that Wildflower Week generated approximately
+- 1) COUNCIL BILL NO. 8, SERIES 2026-AN ORDINANCE AMENDING TITLE 9,
+- EMPLOYEE HOUSING IMPACT MITIGATION FOR EXTERIOR FOOD AND
+- RIVERWALK COMPATIBLE IMPROVEMENTS, POLICY 47 (ABSOLUTE)
+- Mark Truckey, Director of Community Development, presented a Council Bill for first
+- reading which would eliminate employee housing mitigation requirements for exterior
+- Mayor Owens opened public comment
+- With no public comments, Mayor Owens closed public comment
+- Council Member Gerard moved to approve COUNCIL BILL NO. 8, SERIES 2026
+- AN ORDINANCE AMENDING TITLE 9, CHAPTER 1, POLICY 24 (ABSOLUTE)
+- THE SOCIAL COMMUNITY, REGARDING EMPLOYEE HOUSING IMPACT
+- IMPROVEMENTS, POLICY 47 (ABSOLUTE) FENCES, GATES AND GATEWAY
+- B) RESOLUTIONS, SERIES 2026
+- 1) RESOLUTION NO. 15, SERIES 2026 - A RESOLUTION AUTHORIZING THE
+- Mark Truckey, Director of Community Development, presented a resolution that would
+- Council Member Gerard moved to approve RESOLUTION NO. 15, SERIES 2026 -A
+- RESOLUTION AUTHORIZING THE EXECUTION AND RECORDING OF A
+- Planning Decisions were approved as presented
+- GovCon dark sky award
+- Council Member Saade reported for MMC and noted a presentation on the Strong
+- measure on the ballot, the Town may be asked to pass a resolution supporting it. The
+- nicotine tax revenue, funding for First Steps has dropped. The county has agreed to fund
+- discussions regarding funding
+- H) ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+- the dry river and reduced water flow, and he suggested exploring repairs to the river
+- lining. Town Manager Haynes added that an upcoming Blue River pathway project will
+
+## [breckenridge#7] 2026-08-17 | Breckenridge Open Space Advisory Commission | minutes
+- *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
+- II) APPROVAL OF MINUTES
+- The June 15, 2026 BOSAC meeting minutes were approved as presented
+- III) PUBLIC COMMENTS
+- Teague Holmes spoke in support of the Tiger Road Rec Path to improve pedestrian and
+- options. Highlighting a gap in the local trail network, he urged BOSAC to consider more
+- land at Little Mountain, taking advantage of nearby parking and facilities at the Ice Rink and
+- that feeds 6–10 downhill trails spanning green to double-black difficulties. He emphasized
+- major gap in Breckenridge's system, and help to separate high-speed downhill traffic from
+- flow trails has become oversaturated and belongs in bike parks rather than natural settings
+- known trails and bike parks, youth cyclists and the Firecracker 50 race
+- BOSAC unanimously approved the name of the new "Bald Barber" trail – 6/0
+- J. Quandary Trailhead Improvements Update
+- approved the project guidance and final naming for the Little Daisy Open Space
+- M. BTO Business of the Year Award
+- V) OPEN SPACE DISCUSSION
+- Trails Workplan (0:27:50)
+- Mr. Overlock led the Trails Workplan discussion, which focused on refining the Trails Matrix
+- Work Plan—a draft tool designed to prioritize a multi-year “wish list” of potential and
+- penalized for not meeting every connectivity metric. There was also discussion about the
+- parking access
+- experience, cost, and redundancy. A proposed Phase 1 of the Tiger Road Rec Path scored
+- whether Open Space should fund construction of recpaths while Streets & Parks handles
+- maintenance. Concepts like American Gulch to Lincoln Park received moderate scores due to
+- redundancy with Forest Queen Road, and the Rose Trail sparked conversation over beginner
+- Moving forward, BOSAC agreed that the matrix serves as a helpful discussion tool rather
+- than a final decision-maker. To allocate resources effectively across competing projects, staff
+- will adjust the matrix wording and consider developing a secondary prioritization tool. The
+- Regarding the access road, Town Council Liaison Mr. Beckerman noted that renaming
+- McCain Drive to "Little Daisy Drive" is prohibited by local road-naming rules against
+- duplicate words. Following a brief discussion, BOSAC voted 6–0 to retain the name
+- negotiations, developing strategies for negotiations, and/or instructing negotiators concerning
+
+## [breckenridge#8] 2026-08-18 | Liquor and Marijuana Licensing Authority | agenda
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- V. PUBLIC HEARING; ACTION ITEMS
+- A. NEW LICENSE HEARING:
+- VI. TRANSFER OF OWNERSHIP APPLICATIONS - NONE
+- VII. INFORMAL DISCUSSION
+- A. POLICE DEPARTMENT UPDATE
+- D. APPROVED SPECIAL EVENTS
+- E. PUBLIC COMMENT
+
+## [breckenridge#9] 2026-08-18 | Liquor and Marijuana Licensing Authority | agenda
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- V. PUBLIC HEARING; ACTION ITEMS
+- A. NEW LICENSE HEARING:
+- VI. TRANSFER OF OWNERSHIP APPLICATIONS - NONE
+- VII. INFORMAL DISCUSSION
+- A. POLICE DEPARTMENT UPDATE
+- D. APPROVED SPECIAL EVENTS
+- E. PUBLIC COMMENT
+- 2) Approval of Minutes
+- Conway declared they would stand as approved
+- 3) Approval of Agenda
+- The Liquor Consent Calendar was approved as submitted
+- The Marijuana Consent Calendar was approved as submitted
+- 5) Public Hearing; Action Items - None
+- 6) Transfer of Ownership Applications - None
+- 7) Informal Discussion
+- a) Police Department Update
+- d) Public Comment
+- There was no public comment
+- All Licenses are issued contingent upon the licensed premises being operated in accordance with all state laws, Town ordinances,
+- 110 S Park Ave, Units C & D
+- 400 N Park Ave
+- SUBJECT: Approved Special Events
+- The following special events were approved during the month of July:
+- Exchange Parking Lot – 101 S Ridge St
+- Hearing/Approval: July 7, 2026
+
+## [breckenridge#10] 2026-08-18 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- III. COMBINED HEARINGS (5:40PM)
+- A. MAMBA TRUST SITE WORK VARIANCE REQUEST (CC) 219 GLEN EAGLE LP; PL-2026-0159
+- IV. PRELIMINARY HEARINGS (6:45PM)
+- A. CITY MARKET (#430) FUEL CENTER (CC) 430 N. PARK AVENUE; PL-2026-0171
+
+## [breckenridge#11] 2026-08-25 | Town Council | minutes
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property interest;
+- determining positions relative to matters that may be subject to negotiations, developing strategies for
+- This certificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
+- As Town Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
+- II) APPROVAL OF MINUTES
+- 111\ 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVAL OF AGENDA
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Kelly Owens opened public comment
+- housing units on his property at 10944 Highway 9 if he could partner with the Town for
+- water service
+- cameras, stating she supports police resources but does not believe this technology is an
+- broad data-use rights and no federal or state oversight. She noted that residents cannot opt
+- camera placement or contracts. She asked Town Council to improve communication
+- the Flock contract renewal in March 2027
+- about the limited availability of permitted parking for workers and residents in
+- Breckenridge. She described frequent difficulty finding parking despite holding a permit
+- including gated access for permit lots, adding towing as an enforcement measure, and
+- expanding employee and resident parking into the South Gondola lots or the parking
+- structure. She emphasized that permit holders should reliably be able to park near where
+- Kathy Angotti, a local resident, thanked the Council for the Housing Helps program and
+- longtime home to the Town for Housing Helps. She recounted how, through her
+- volunteer work, she later discovered that the unit had become stable housing for a local
+- Housing Helps program. He noted that the Town purchased the other half of the duplex
+- previously referenced, and both units are now part of the Housing Helps inventory. He
+- a smooth and fair process, and that the unit was subsequently purchased by a local
+- in Breckenridge. He emphasized that Housing Helps is a cost-effective tool that utilizes
+- JB Katz described selling her unit to the Town through the Housing Helps program,
+- which later allowed a local ski patrol supervisor to purchase the home. She praised the
+- continue supporting Housing Helps as robustly as in the past
+- Flock camera usage and noted that many community members feel frustrated and
+- technology. She noted that while Flock cameras currently capture license plates and
+- identifying device signals inside vehicles. She cautioned that such advancements raise
+
+## [breckenridge#12] 2026-09-01 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. COMPREHENSIVE PLAN UNDERUTILIZED PARCELS ANALYSIS
+
+## [breckenridge#13] 2026-09-01 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. COMPREHENSIVE PLAN UNDERUTILIZED PARCELS ANALYSIS
+- APPROVAL OF MINUTES
+- With no changes, the August 4, 2026 minutes were approved
+- APPROVAL OF AGENDA
+- With no changes, the August 18, 2026 Planning Commission agenda was approved
+- PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES:
+- COMBINED HEARINGS:
+- 1. Mamba Trust Site Work Variance Request (CC), 219 Glen Eagle Loop, PL-2026-0159
+- Mr. Cross presented a proposal for a request for variance from the Development Code to allow a portion
+- of the existing unpermitted retaining wall to remain beyond the platted disturbance envelope
+- Mr. Leas: There are other landscape proposals on a separate application. Does that include other
+- impermissible items in the code? (Mr. Cross: The separate D-minor application is
+- generally approvable with minor revisions.)
+- Ms. Propper: How is a disturbance envelope created or designed? (Mr. Cross: The plat note and the
+- need to be removed to come into compliance? (Mr. Cross: Approximately 75 feet.) Is
+- outside the envelope.) Other than aesthetics, is there justification for the wall? (Mr
+- that to be justified.)
+- Mr. Leas: It would be helpful for staff to discuss how envelopes have come into being. I can’t find a
+- improvements outside the home. (Mr. Kulick: There is a tradeoff during first
+- improvements will be constructed.) Is it the position of staff that an envelope is
+- these are more permissive than newer subdivisions that don’t allow for improvements
+- envelopes, and taking the following into consideration: topography, wetlands, water
+- the house? (Mr. Cross: Yes, approximately parallel.) Where is the unpermitted retaining
+- architect for the project at 219 Glen Eagle Loop. I want to thank you for the time and all the hours put
+- as the Chair. Because of that background, I want to be clear about this presentation tonight. We’re not
+- developer and prior owner cut into the hillside added drainage, a retaining wall, stone fire pit, and steps
+- where the wall sits now, into the vegetated buffer and the golf safety zone that this plan is supposed to
+- asking you to approve, not less. That’s the piece I would like you to sit with tonight, because I don't think
+- this is a disagreement about the facts on the lot. I think it's just a disagreement about which condition that
+
+## [breckenridge#14] 2026-09-02 | Breckenridge Events Committee | agenda
+- b Approval of minutes from August 5, 2026, Meeting
+- III. Approved Upcoming Events – no need to discuss unless there are significant changes or questions/concern
+- h 10.9.26 Global Fire
+- IV. General Updates and Discussion
+- b First Amendment rights pertaining to public space at events
+- VI. Public Comments
+- The Breckenridge Events Committee evaluates events against four strategic goals:
+- Resident Focused - An event designed specifically for residents vs. an event more broadly marketed to visitors and residents
+
+## [breckenridge#15] 2026-09-08 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO. 9, SERIES 2026 — AN ORDINANCE AMENDING TITLE 7, CHAPTER 1,
+- 1. COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE REFUNDING
+- OF CERTAIN OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
+- CONNECTION THEREWTITH AUTHORIZING THE REFUNDING PROJECT, APPROVING
+- DELIVERY OF A SITE LEASE, A LEASE PURCHASE AGREEMENT, AND OTHER
+- B. RESOLUTIONS, SERIES 2026
+- H. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+
+## [breckenridge#16] 2026-09-08 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO. 9, SERIES 2026 — AN ORDINANCE AMENDING TITLE 7, CHAPTER 1,
+- 1. COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE REFUNDING
+- OF CERTAIN OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
+- CONNECTION THEREWTITH AUTHORIZING THE REFUNDING PROJECT, APPROVING
+- DELIVERY OF A SITE LEASE, A LEASE PURCHASE AGREEMENT, AND OTHER
+- B. RESOLUTIONS, SERIES 2026
+- H. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property interest;
+- determining positions relative to matters that may be subject to negotiations, developing strategies for
+- This certificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
+- As Town Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
+- II) APPROVAL OF MINUTES
+- 11th, 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVAL OF AGENDA
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Kelly Owens opened public comment
+- housing units on his property at 10944 Highway 9 if he could partner with the Town for
+- water service
+- cameras, stating she supports police resources but does not believe this technology is an
+- broad data‑use rights and no federal or state oversight. She noted that residents cannot opt
+- camera placement or contracts. She asked Town Council to improve communication
+- the Flock contract renewal in March 2027
+- about the limited availability of permitted parking for workers and residents in
+- Breckenridge. She described frequent difficulty finding parking despite holding a permit
+- including gated access for permit lots, adding towing as an enforcement measure, and
+- expanding employee and resident parking into the South Gondola lots or the parking
+- structure. She emphasized that permit holders should reliably be able to park near where
+- Kathy Angotti, a local resident, thanked the Council for the Housing Helps program and
+- longtime home to the Town for Housing Helps. She recounted how, through her
+- volunteer work, she later discovered that the unit had become stable housing for a local
+- Housing Helps program. He noted that the Town purchased the other half of the duplex
+
+## [breckenridge#17] 2026-09-08 | Town Council | agenda
+- Town Council *Amended* Work Session
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. CASH FLOW, CAPITAL IMPROVEMENT PROGRAM, AND HOUSING PRO-FORMA
+- DISCUSSION (2:50-4:30PM)
+- CAPITAL IMPROVEMENT PLAN
+- 2027 WORKFORCE HOUSING FUND/ BUDGET SUMMARY
+- AMENDMENTS TO MODEL TRAFFIC CODE TO ADDRESS DELIVERY ZONES (SECOND
+- ORDINANCE CONCERNING THE REFUNDING OF CERTAIN OUTSTANDING CERTIFICATES
+- RED, WHITE, AND BLUE FIRE PROTECTION DISTRICT UPDATE
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- WATER RESTRICTIONS UPDATE
+- RESTAURANT WASTE GREASE DISCUSSION
+- PLACER DEVELOPMENT
+- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS RELATED TO REAL PROPERTY IN THE
+- D eliver a Balanced Year -Round Economy H ometown Feel & Authentic Character
+- Housing, Childcare, E-Delivery, and Blue River Pathways. This review and Q3 2026 update highlights progress
+- made on the Council Priorities since the last discussion on March 10, 2026. This update also offers Council the
+- At its 2025 spring retreat, Town Council identified six priorities on which staff should focus during the coming
+- he attached documents reflect Town Council’s strategic guidance related to the Council priorities and progress
+- memo below. Town senior leaders will be available at the work session to discuss these priorities and respond
+- to any Town Council questions or feedback
+- fforts. Internal stakeholder meetings have been formalized to discuss the information gathered from all
+- Town departments; the development of standard operating procedures (SOPs) is underway to ensure
+- are being identified and prepared for potential Council discussion during Q4
+- platforms. Communications staff continues to track all media metrics and has refined those reports to
+- Workforce Housing
+- Staff have been working to complete the Stables Village project and initiate the Runway Neighborhood
+- elopments to provide additional housing inventory. Q3 updates include the sale of all Stables
+- Agreement, staff will seek Town Council direction regarding a potential phase two of the Runway
+- Neighborhood in September. Housing Helps applications continue to be submitted and approved and
+- e on track to meet the 2026 budget, but Buy Downs have been less consistent. Staff have added a
+- goal pertaining to maintenance, upkeep, and long-term housing affordability and will report on this
+- topic more fully in Q4. Town staff have also worked to support the Summit Combined Housing Authority
+- (SCHA) so that the SCHA website is the first stop for information on housing options, assistance, and
+
+## [breckenridge#18] 2026-09-08 | Town Council | agenda
+- Town Council *Amended* Work Session
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. CASH FLOW, CAPITAL IMPROVEMENT PROGRAM, AND HOUSING PRO-FORMA
+- DISCUSSION (2:50-4:30PM)
+- CAPITAL IMPROVEMENT PLAN
+- 2027 WORKFORCE HOUSING FUND/ BUDGET SUMMARY
+- AMENDMENTS TO MODEL TRAFFIC CODE TO ADDRESS DELIVERY ZONES (SECOND
+- ORDINANCE CONCERNING THE REFUNDING OF CERTAIN OUTSTANDING CERTIFICATES
+- RED, WHITE, AND BLUE FIRE PROTECTION DISTRICT UPDATE
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- WATER RESTRICTIONS UPDATE
+- RESTAURANT WASTE GREASE DISCUSSION
+- PLACER DEVELOPMENT
+- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS RELATED TO REAL PROPERTY IN THE
+
+## [breckenridge#19] 2026-09-15 | Liquor and Marijuana Licensing Authority | agenda
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- V. PUBLIC HEARING; ACTION ITEMS - NONE
+- VI. TRANSFER OF OWNERSHIP APPLICATIONS - NONE
+- VII. INFORMAL DISCUSSION
+- A. POLICE DEPARTMENT UPDATE
+- D. APPROVED SPECIAL EVENTS
+- E. PUBLIC COMMENT
+
+## [breckenridge#20] 2026-09-15 | Liquor and Marijuana Licensing Authority | agenda
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- V. PUBLIC HEARING; ACTION ITEMS - NONE
+- VI. TRANSFER OF OWNERSHIP APPLICATIONS - NONE
+- VII. INFORMAL DISCUSSION
+- A. POLICE DEPARTMENT UPDATE
+- D. APPROVED SPECIAL EVENTS
+- E. PUBLIC COMMENT
+- 2) Approval of Minutes
+- Conway declared they would stand as approved
+- 3) Approval of Agenda
+- The Liquor Consent Calendar was approved as submitted
+- 5) Public Hearing; Action Items
+- a) New License Hearing:
+- Lillian Gaspar and Edith Pech, Owners, were present on behalf of the application
+- Ms. Gaspar stated she has owned and operated Nick & Willy’s in Silverthorne for
+- Authority Member Lovely made a motion to approve the new tavern liquor
+- 6) Transfer of Ownership Applications - None
+- 7) Informal Discussion
+- a) Police Department Update
+- There was no police update
+- d) Public Comment
+- There was no public comment
+- All Licenses are issued contingent upon the licensed premises being operated in accordance with all state laws, Town ordinances,
+- 3. UDFineArt LLC d/b/a Ready Paint Fire!
+- 15. Breckenridge Vacation Owner’s Association Inc d/b/a The Ranahan
+- ordinances, and rules and regulations
+- SUBJECT: Approved Special Events
+- The following special events were approved during the month of August:
+- Carter Park – 300 S High St
+- Hearing/Approval: August 4, 2026
+- Hearing/Approval: August 10, 2026
+
+## [breckenridge#21] 2026-09-15 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. LITTLE RED SCHOOL HOUSE EXPANSION TOWN PROJECT WORK SESSION (CC) 600 REILING
+
+## [breckenridge#22] 2026-09-15 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. LITTLE RED SCHOOL HOUSE EXPANSION TOWN PROJECT WORK SESSION (CC) 600 REILING
+- APPROVAL OF MINUTES
+- With no changes, the August 18, 2026 minutes were approved
+- APPROVAL OF AGENDA
+- With no changes, the September 1, 2026 Planning Commission agenda was approved
+- PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES:
+- 1. Comprehensive Plan Underutilized Parcels Analysis
+- rodeo grounds), and Park Avenue Corridor. The continuing analysis of underutilized parcels is a
+- requirement for the Town’s Comprehensive Plan Update
+- District density limitations to any workforce housing developments within the Conservation
+- 2. Does the Commission agree with the staff recommendation of an allowed workforce housing
+- 3. Does the Commission agree with the staff recommendation of an allowed workforce housing
+- density of 30 UPA for the Park Avenue corridor area?
+- Kulick: Non-historic buildings are able to be redeveloped but that redevelopment will
+- an old apartment building they want to tear down, they can’t replace it now? (Mr. Kulick:
+- Ms. Gort: If we could do a workforce housing development on one of these parcels, typically it
+- handbook of design standards. This building is a legally non-conforming development
+- handbook. This property is a good example of multi-family housing that legally exceeds
+- workforce housing.)
+- density, above 20 UPA. I don’t see redevelopment of the Ice Rink (Mr. Kulick: There are
+- Mr. Smith: Could you give us a local example of a 20 UPA development in town? (Mr. Kulick:
+- Park space. I fear that a greater density development on the Breckenridge Elementary
+- parcel would eliminate the views and appeal of Carter Park. (Mr. Kulick: There are
+- various ways to capture the greater density without hindering the views from Carter Park
+- Harris Street could be extended to allow for townhomes. You could also do a lower
+- Mr. Guerra: I agree with the concerns of retaining the views of the pavilion at Carter Park, and this
+- Mr. Kulick: It could have multifamily units at 1,200 SF and townhomes at 1,600 SF per SFE
+- Mr. Kulick: If this property was developed as market-rate and not workforce housing, the site would
+- very large SF homes that could total more square footage than multifamily at 20 UPA
+
+## [breckenridge#23] 2026-09-21 | Breckenridge Open Space Advisory Commission | minutes
+- *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
+- Alex Lindquist, Dave Stitz, and Sam Parker. Members of the public that were present
+- II) APPROVAL OF MINUTES
+- The July 20, 2026 BOSAC meeting minutes were approved as presented
+- III) PUBLIC COMMENTS
+- Sam Parker spoke in favor of developing steeper, hand-built downhill trails rather than wide,
+- Mr. Parker emphasized that adding dedicated downhill routes would reduce user conflicts on
+- young racers, drawing a comparison to Durango's rider development success. Holmes
+- D. Summit County Outdoor Coalition (SCOC) Grant Submission
+- E. SGM Quandary Peak Trailhead Design Contract
+- Mr. Beckerman requested clarification on how the SCOC grant relates to the SGM
+- consulting contract. Staff clarified that they are separate: SCOC refers to the outdoor
+- coalition grant application through which the Town pledged $400,000 in matching funds
+- for Quandary Trailhead improvements (with award results expected at year-end), while
+- studies (such as traffic and geological assessments) needed for a County PUD parking
+- expansion application, while Phase 2 design work is slated to begin after the SCOC grant
+- award decisions are finalized
+- F. Aspen Alley Seasonal Management Plan
+- Staff presented the Aspen Alley Seasonal Management Plan, which will feature a free
+- Transit Enterprise grant. The shuttle will run a quick, high-frequency loop from the ice
+- from town). Because the vehicles lack ADA equipment, the two designated ADA parking
+- including overflow parking at the ice rink requiring secondary bus transfers, wait times
+- shuttle offerings/. To prevent illegal parking on nearby roads, the Breckenridge Police
+- Department will conduct regular patrols, issue citations, and respond directly to parking
+- Ms. Zanca asked whether specific hiking groups would be contacted for feedback
+- representation at meetings, staff noted that while they welcome input from all trail users,
+- V) OPEN SPACE DISCUSSION
+- Breckenridge History Proposed 2027 OST Workplan (2:31:58)
+- 2026 historic preservation projects and outlined the proposed 2027 Open Space and Trails
+- standards, Ms. O’Neil noted that contractor Ty Cortwright evaluates structures on a case-by
+- case basis to reuse original materials whenever possible, such as the plan to preserve the
+- The proposed 2027 workplan totals $310,000 across four main historic sites. At the Mountain
+- Stamp Mill relocation originally approved for 2026 is rolling over into 2027 while boundary
+- roof near the Jesse Mill on Gold Run Road
+
+## [breckenridge#24] 2026-09-22 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- I. SITE TOUR OF GARY ROBERTS WATER TREATMENT PLANT (2:00-3:00PM)
+- II. SUMMIT SCHOOL DISTRICT PRESENTATION (3:00-3:15PM)
+- III. ARTS AND CULTURE MASTER PLAN COMMUNITY ENGAGEMENT UPDATE (3:15
+- ARTS AND CULTURE MASTER PLAN COMMUNITY ENGAGEMENT UPDATE
+- AN ORDINANCE CONCERNING THE REFUNDING OF CERTAIN OUTSTANDING
+- CERTIFICATES OF PARTICIPATION (SECOND READING)
+- RESOLUTION IN SUPPORT OF STRONG FUTURE BALLOT MEASURE (RESOLUTION)
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- GARY ROBERTS WATER TREATMENT PLANT UPDATE
+- ARTS AND CULTURE TRANSITION PLAN: TIMELINE AND FACILITIES MAINTENANCE
+- VIII. TOWN COMPREHENSIVE PLAN SITE VISIT TO RIVERWALK CENTER (5:00- 6:00PM)
+
+## [breckenridge#25] 2026-09-22 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- I. SITE TOUR OF GARY ROBERTS WATER TREATMENT PLANT (2:00-3:00PM)
+- II. SUMMIT SCHOOL DISTRICT PRESENTATION (3:00-3:15PM)
+- III. ARTS AND CULTURE MASTER PLAN COMMUNITY ENGAGEMENT UPDATE (3:15
+- ARTS AND CULTURE MASTER PLAN COMMUNITY ENGAGEMENT UPDATE
+- AN ORDINANCE CONCERNING THE REFUNDING OF CERTAIN OUTSTANDING
+- CERTIFICATES OF PARTICIPATION (SECOND READING)
+- RESOLUTION IN SUPPORT OF STRONG FUTURE BALLOT MEASURE (RESOLUTION)
+- PUBLIC PROJECTS UPDATE
+- HOUSING UPDATE
+- GARY ROBERTS WATER TREATMENT PLANT UPDATE
+- ARTS AND CULTURE TRANSITION PLAN: TIMELINE AND FACILITIES MAINTENANCE
+- VIII. TOWN COMPREHENSIVE PLAN SITE VISIT TO RIVERWALK CENTER (5:00- 6:00PM)
+- Subject: Arts and Culture Master Plan: Community Engagement Update
+- Deliver a Balanced Year-Round Economy Hometown Feel & Authentic Character
+- in the Arts and Culture Master Plan (Arts 9600’)
+- In November 2025, staff released a Request for Proposals (RFP) for consultant assistance in the development of
+- the Arts & Culture Master Plan and Organizational Management/Funding Analysis in November. In December
+- 2025, a subcommittee of the Arts & Culture Master Plan Steering Committee (Tamara Nuzzaci Park, Dave
+- each section of the RFP, the Cultural Planning Group (CPG) for the master plan and Summit Street Group
+- as the foundation of the Plan by directly informing its priorities, goals, and implementation strategies (which will
+- also allow for public comment). Between March and September 2026, more than 650 full and part-time residents,
+- employees, and visitors participated in interviews, discussion groups, pop‑up events, focus groups, and bilingual
+- polling. This extensive and in depth outreach ensures that the Plan reflects Breckenridge’s cultural identity, local
+- Aligning the Plan recommendations with community priorities
+- Identifying key challenges and opportunities
+- Shaping and refining strategies and initiatives
+- CPG presented the Community Engagement Report to the Arts and Culture Master Plan Steering Committee on
+- September 16. The Committee was in support of the presentation, range of outreach efforts and amount of community
+- want to see, timing of implementation and hiring of Town arts position, communication improvement for programs, how
+- these during the Council presentation
+- The master planning process incorporates a broad community visioning with prioritization of arts and culture
+- report ensures the Arts 9600’ Master Plan is rooted in Breckenridge’s culture, aligned with Council priorities,
+
+## [breckenridge#26] 2026-09-22 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE REFUNDING
+- OF CERTAIN OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
+- CONNECTION THEREWTITH AUTHORIZING THE REFUNDING PROJECT, APPROVING
+- DELIVERY OF A SITE LEASE, A LEASE PURCHASE AGREEMENT, AND OTHER
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO. 18, SERIES 2026 – A RESOLUTION IN SUPPORT OF SUMMIT
+- H. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+
+## [breckenridge#27] 2026-09-22 | Town Council | agenda
+- 150 Ski Hill Road
+- 0112 6789). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- 1. COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE REFUNDING
+- OF CERTAIN OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
+- CONNECTION THEREWTITH AUTHORIZING THE REFUNDING PROJECT, APPROVING
+- DELIVERY OF A SITE LEASE, A LEASE PURCHASE AGREEMENT, AND OTHER
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO. 18, SERIES 2026 – A RESOLUTION IN SUPPORT OF SUMMIT
+- H. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+- EXECUTIVE SESSION CERTIFICATE
+- certifies as follows:
+- C.R.S to discuss the purchase, acquisition, lease, transfer, or sale of real, personal, or other property
+- strategies for negotiations, and instructing negotiators. Council Member Saade seconded the motion
+- (i) Discuss negotiations related to the potential acquisition of real property located in the Upper
+- (ii) Receive legal advice for the Trails at Berlin Placer development. Discuss town agreement
+- negotiations related to the provision of water service to the Trails at Berlin Placer Development
+- (ii)Town Attorney was instructed to begin negotiations for bond money for the Trails at Berlin
+- Placer Development
+- ertificate shall be included before the minutes of the regular Town Council meeting of Tuesday,
+- n Attorney, I hereby attest that it is my opinion that the portion of the discussion in executive
+- II) APPROVAL OF MINUTES
+- 25th, 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVAL OF AGENDA
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Kelly Owens opened public comment
+- and shared her broader concerns about potential impacts on the community
+- With no additional public comments, Mayor Owens closed public comment
+- Kay also highlighted several upcoming events, including the Michelin Awards, GovCon,
+- 1) COUNCIL BILL NO. 9, SERIES 2026 — AN ORDINANCE AMENDING TITLE 7,
+- that updates the delivery zone program. He explained that the amendments are intended
+- clarify eligibility and time limits, update fees, establish enforcement penalties, and
+- confirm the Police Chief’s authority to designate permits. There were no additional
+- Mayor Owens opened public comment
+- With no public comments, Mayor Owens closed public comment
+- Council Member Gerard moved to approve COUNCIL BILL NO. 9, SERIES 2026 —
+- AN ORDINANCE AMENDING TITLE 7, CHAPTER 1, SECTION 2 OF THE
+- 1) COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE
+
+## [breckenridge#28] 2026-10-06 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- III. TOWN PROJECTS (5:40PM)
+- A. LITTLE RED SCHOOLHOUSE EXPANSION TOWN PROJECT HEARING (CC); 600 REILING RD,
+
+## [breckenridge#29] 2026-10-07 | Breckenridge Events Committee | agenda
+- b Approval of minutes from September 2, 2026, Meeting
+- III. Approved Upcoming Events – no need to discuss unless there are significant changes or questions/concern
+- a 10.9.26 Global Fire
+- IV. General Updates and Discussion
+- VI. Public Comments
+- The Breckenridge Events Committee evaluates events against four strategic goals:
+- Resident Focused - An event designed specifically for residents vs. an event more broadly marketed to visitors and residents
+
+## [breckenridge#30] 2026-10-13 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- I. BUDGET RETREAT (12:30PM-5:30PM)
+- BUDGET RETREAT
+- RESOLUTION TO ADOPT A LEGISLATIVE POLICY (RESOLUTION)
+- RESOLUTION IN SUPPORT OF STATEWIDE BALLOT MEASURE - PROPOSITION NN
+- (RESOLUTION)
+- AUTOMATED LICENSE PLATE READER PROGRAM PRESENTATION
+- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS WITH SUMMIT SCHOOL DISTRICT
+
+## [breckenridge#31] 2026-10-13 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- I. BUDGET RETREAT (12:30PM-5:30PM)
+- BUDGET RETREAT
+- RESOLUTION TO ADOPT A LEGISLATIVE POLICY (RESOLUTION)
+- RESOLUTION IN SUPPORT OF STATEWIDE BALLOT MEASURE - PROPOSITION NN
+- (RESOLUTION)
+- AUTOMATED LICENSE PLATE READER PROGRAM PRESENTATION
+- EXECUTIVE SESSION TO DISCUSS NEGOTIATIONS WITH SUMMIT SCHOOL DISTRICT
+- 2027 BUDGET AGENDA
+- BUDGET PROCESS OVERVIEW
+- hometown feel and friendly atmosphere
+- GOAL 1: Implement Capital Project Plans
+- GOAL 2: Review and update Ordinances & Development Code
+- GOAL 2: To reduce delivery truck traffic, parking conflicts and
+- GOAL 1: Provide a variety of housing price points and types in the
+- GOAL 2: Information about the housing programs and projects is
+- readily available and the process to find and access housing is easy
+- continues to implement innovative strategic programs and adapts to
+- Workforce Housing
+- affordable, diverse housing
+- units a year, expand Housing
+- Objective 1.1: Continue to increase housing inventory to meet the
+- needs of the community through new construction projects and
+- housing preservation programs that target a variety of income levels
+- Objective 2.1: Summit Combined Housing Authority is the one stop
+- shop for information on housing options, assistance, and programs
+- Objective 2.2: Town website is updated and housing information
+- continues to implement innovative strategic programs and adapts
+- Objective 3.2: Housing Department is fully staffed
+- By 2030, Breckenridge aims to grow its housing inventory from
+- should reflect community diversity, and overall housing stability
+- also aims to raise awareness of the Summit County Housing
+- households, increase use of the housing website, and ensure the
+- Housing Department is fully staffed
+- Objective 1.1: Identify the Town Code enforcement needs of each Town Department
+- Objective 1.2: Identify and revise sections of the Town Code that need to be updated to
+- where needed and include process improvements where identified by departments
+- Objective 1.3: Identify an education/enforcement strategy that balances the needs of the
+- Objective 1.4: Identify the organizational structure/location for personnel that would best
+- The Town will identify specific departmental code enforcement needs, adopt the necessary ordinances,
+- and implement a comprehensive enforcement strategy. This approach is designed to be effective,
+- responsive to community concerns, and carried out in a way that generates minimal negative feedback
+- the use of marketing tools and strategies, including analysis of what
+
+## [breckenridge#32] 2026-10-13 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO. 20, SERIES 2026 — A RESOLUTION APPROVING TOWN OF
+- 2. RESOLUTION NO.21, SERIES 2026 — A RESOLUTION IN SUPPORT OF STATEWIDE
+- G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+
+## [breckenridge#33] 2026-10-13 | Town Council | agenda
+- 150 Ski Hill Road
+- 1741 4335). If you need special assistance in order to attend any of the Town's public meetings, please notify
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- A. PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT PLEASE)
+- B. RESOLUTIONS, SERIES 2026
+- 1. RESOLUTION NO. 20, SERIES 2026 — A RESOLUTION APPROVING TOWN OF
+- 2. RESOLUTION NO.21, SERIES 2026 — A RESOLUTION IN SUPPORT OF STATEWIDE
+- G. ARTS & CULTURE MASTER PLAN STEERING COMMITTEE
+- II) APPROVAL OF MINUTES
+- September 8th, 2026. Mayor Owens declared they would stand approved as presented
+- III) APPROVAL OF AGENDA
+- Town Manager Shannon Haynes stated that the agenda could be amended to add
+- Resolution No. 19, Series 2026, a resolution supporting Summit County’s Ballot Measure
+- 4A—the Summit School District Mill Levy Override—which Council had expressed
+- Council Member Gerard moved to amend the agenda to include consideration of
+- Resolution No. 19, Series 2026 concerning Ballot Measure 4A and the Summit School
+- District Mill Levy Override. Council Member Saade seconded the motion
+- The motion passed 7 – 0, and the agenda was amended
+- A) PUBLIC COMMENT (NON-AGENDA ITEMS ONLY; 3-MINUTE TIME LIMIT)
+- Mayor Kelly Owens opened public comment
+- appreciation for staff and the contractor for their work on the Warriors Mark Project. In
+- addition, Rockne requested Council consider installing a water tap
+- Advisory Commission and requested Town Council increase the minimum wage
+- With no additional public comments, Mayor Owens closed public comment
+- 1) COUNCIL BILL NO. 10, SERIES 2026 — AN ORDINANCE CONCERNING THE
+- REFUNDING OF CERTAIN OUTSTANDING CERTIFICATES OF
+- AUTHORIZING THE REFUNDING PROJECT, APPROVING THE CONVEYANCE
+- A SITE LEASE, A LEASE PURCHASE AGREEMENT, AND OTHER DOCUMENTS
+- Laura MacInnes, Finance Director, presented the second reading of an ordinance related
+- development, with $4.6 million still outstanding. She noted that the COPs become
+- proceed only if the potential savings justify the costs associated with refunding. There
+- Mayor Owens opened public comment
+- With no public comments, Mayor Owens closed public comment
+- Council Member Gerard moved to approve COUNCIL BILL NO. 10, SERIES 2026 —
+- AN ORDINANCE CONCERNING THE REFUNDING OF CERTAIN
+- OUTSTANDING CERTIFICATES OF PARTICIPATION, SERIES 2016, AND IN
+- CONNECTION THEREWTITH AUTHORIZING THE REFUNDING PROJECT,
+- APPROVING THE CONVEYANCE OF CERTAIN LEASED PROPERTY, AND THE
+- EXECUTION AND DELIVERY OF A SITE LEASE, A LEASE PURCHASE
+- AGREEMENT, AND OTHER DOCUMENTS RELATED THERETO. Council Member
+- B) RESOLUTIONS, SERIES 2026
+
+## [breckenridge#34] 2026-10-19 | Breckenridge Open Space Advisory Commission | minutes
+- *Please note that this meeting summary was partially generated using AI transcription technology and has been reviewed
+- II) APPROVAL OF MINUTES
+- The August 17, 2026 BOSAC meeting minutes were approved as presented
+- III) PUBLIC COMMENTS
+- assisting with trail design, grant writing, hand-crew labor, and ongoing maintenance—
+- drawing a comparison to larger hand-built projects like the Palisade Plunge—and reiterated
+- D. Signage Plan Update
+- trail's managed permit system and reviewing major post-flood infrastructure and
+- Vista Verde, and between the free parking and snow storage lots—until long-term design
+- ending at the open space boundary. Council unanimously approved funding for Phase 2
+- residents, staff plan to build interior soft surface trails as part of Phase 1 of the Little
+- new trail is intended for uphill and downhill hiking use. Commissioners discussed
+- agreeing to offer constructive feedback to the Forest Service in proposing alternatives
+- like Aspen Ascent or Back Alley without disrupting the agency's approval process
+- Service final approval. Higher Ground Earthworks is on standby to begin construction
+- this fall before snow closure, with completion projected for late October 2026
+- streets or connecting via the Illinois Creek trail network, meaning shuttle operations will
+- BOSAC unanimously approved adopting the name Chasing Mystic for the newly
+- J. Wellington-Oro Water Treatment Plant
+- Staff provided an update on efforts to optimize the French Gulch Water Treatment Plant
+- for cadmium and zinc, the Town is budgeting for engineering consultants to evaluate
+- operational improvements- specifically pilot-testing an upstream aeration pond and
+- Working backward from a critical 2029 Water Quality Control Commission hearing, staff
+- (COG’s) specialized water quality legal counsel to demonstrate good-faith operational
+- progress. At the hearing, the Town and County aim to prove they are taking tangible
+- K. Aspen Alley Seasonal Management Plan
+- strong public compliance with parking restrictions and successful weekend capacity
+- October following the contract's end, and staff anticipate ongoing municipal transit grant
+- funding to maintain the program in future seasons to manage parking demand. Quick
+- overflow parking through signage, cones, and police enforcement
+- V) OPEN SPACE DISCUSSION
+- Open Space & Trails Budget Overview (0:56:46)
+- Staff presented the preliminary Open Space & Trails (OST) budget ahead of the October 13th
+- Town Council budget retreat, highlighting a conservative fiscal approach based on flat sales
+- tax revenue projections. 2026 projected revenues exceed operational expenses by
+
+## [breckenridge#35] 2026-10-20 | Liquor and Marijuana Licensing Authority | agenda
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- V. PUBLIC HEARING; ACTION ITEMS - NONE
+- VI. TRANSFER OF OWNERSHIP APPLICATIONS - NONE
+- VII. INFORMAL DISCUSSION
+- A. POLICE DEPARTMENT UPDATE
+- D. APPROVED SPECIAL EVENTS
+- E. PUBLIC COMMENT
+
+## [breckenridge#36] 2026-10-20 | Liquor and Marijuana Licensing Authority | agenda
+- II. APPROVAL OF MINUTES
+- III. APPROVAL OF AGENDA
+- V. PUBLIC HEARING; ACTION ITEMS - NONE
+- VI. TRANSFER OF OWNERSHIP APPLICATIONS - NONE
+- VII. INFORMAL DISCUSSION
+- A. POLICE DEPARTMENT UPDATE
+- D. APPROVED SPECIAL EVENTS
+- E. PUBLIC COMMENT
+- 2) Approval of Minutes
+- Conway declared they would stand as approved
+- 3) Approval of Agenda
+- The Liquor Consent Calendar was approved as submitted
+- The Marijuana Consent Calendar was approved as submitted
+- 5) Public Hearing; Action Items – None
+- 6) Transfer of Ownership Applications - None
+- 7) Informal Discussion
+- a) Police Department Update
+- There was no police update
+- Attorney Andrew Armstrong provided an update on a new permit recently
+- approved by the State, which allows spirituous liquor manufacturers to serve
+- currently developing an application process for implementing this new permit
+- new permit. Attorney Armstrong confirmed that they would be eligible to apply
+- level manufacturing license and obtain a local permit
+- regarding the new permit and informed them that a local application process
+- submitted a complete application, including a control plan and a map outlining
+- security measures. Because the application met all legal requirements, it was
+- approved. She also noted that event administrators responded directly to the
+- The Authority requested that the incident be documented and that BOEC be asked
+- d) Public Comment
+- There was no public comment
+- All Licenses are issued contingent upon the licensed premises being operated in accordance with all state laws, Town ordinances,
+- 400 N Park Ave, Units 15A & 16A
+- 5. DCB Café LLC d/b/a Cool River Coffee House
+- ordinances, and rules and regulations
+- 400 N Park Ave, Unit 6B
+- SUBJECT: Approved Special Events
+- The following special events were approved during the month of September:
+- Hearing/Approval: September 8, 2026
+- Arts District – S Ridge Street from Lincoln Ave to E Washington Ave and E Washington Ave from S
+- Hearing/Approval: September 29, 2026
+
+## [breckenridge#37] 2026-10-20 | Planning Commission | agenda
+- 150 Ski Hill Road
+- The indicated times are intended only to be used as guides. The order of projects, as well as the length of the discussion
+- for each project, is at the discretion of the Commission. We advise you to be present at the beginning of the meeting
+- B. APPROVAL OF MINUTES
+- C. APPROVAL OF AGENDA
+- II. PUBLIC COMMENT ON HISTORIC PRESERVATION ISSUES (NON-AGENDA ITEMS
+- A. WAGNER RESIDENCE POINTS MODIFICATION (CC); 204 WELLINGTON ROAD, PL-2026-0239
+- IV. PRELIMINARY HEARINGS (5:45PM)
+- A. CITY MARKET #430 FUEL CENTER (CC), 430 N. PARK AVENUE, PL-2026-0171
+
+## [breckenridge#38] 2026-10-21 | Breckenridge Social Equity Advisory Commission | agenda
+- 150 Ski Hill Road
+- If you will need special assistance in order to attend any of the Town's public meetings, please notify the Town
+- B. DISCUSSION/APPROVAL OF AGENDA
+- C. DISCUSSION/APPROVAL OF THE MINUTES
+- A. COMPREHENSIVE PLAN 3D IMMERSION EVENTS
+- A. CHRISTINE SENAVSKY, DEVELOPMENT AND EVENTS MANAGER, NATIONAL REPERTORY
+- IV. SOCIAL EQUITY DISCUSSION
+- A. FEEDBACK LOOP TRACKING AND REPORTING DISCUSSION
+- B. DECEMBER MEETING DISCUSSION
+- VIII. PUBLIC COMMENT (NON-AGENDA ITEMS)
+
+## [breckenridge#39] 2026-10-21 | Breckenridge Social Equity Advisory Commission | agenda
+- 150 Ski Hill Road
+- If you will need special assistance in order to attend any of the Town's public meetings, please notify the Town
+- B. DISCUSSION/APPROVAL OF AGENDA
+- C. DISCUSSION/APPROVAL OF THE MINUTES
+- A. COMPREHENSIVE PLAN 3D IMMERSION EVENTS
+- A. CHRISTINE SENAVSKY, DEVELOPMENT AND EVENTS MANAGER, NATIONAL REPERTORY
+- IV. SOCIAL EQUITY DISCUSSION
+- A. FEEDBACK LOOP TRACKING AND REPORTING DISCUSSION
+- B. DECEMBER MEETING DISCUSSION
+- VIII. PUBLIC COMMENT (NON-AGENDA ITEMS)
+- Discussion/Approval of Agenda
+- Motion to Approve: Commissioner Walter, Seconded: Commissioner Daniels
+- Discussion/Approval of the Minutes
+- Motion to Approve Minutes: Commissioner Daniels, Seconded: Commissioner Lopez
+- Staff reported on upcoming October lottery timelines and improvements made based on lessons
+- employees versus general applicants, separate timelines, and accessibility considerations
+- the importance of ADA accessibility for all outreach events, noting community feedback
+- for broader engagement. Overall, both staff and commissioners agreed that Pedal Together
+- IV. Kris Walsh, Executive Artistic Director, Celebrate the Beat
+- Kris Walsh, along with Celebrate the Beat staff and Upper Blue Elementary students, presented
+- the mini–Social Equity Advisory Commission grant
+- Walsh highlighted Celebrate the Beat’s statewide reach and 26‑year history, emphasizing its
+- development. Several parents also shared heartfelt reflections, noting that the program
+- Commissioners expressed appreciation for seeing firsthand the community impact of grant
+- Council meeting. No edits were requested. Commissioners discussed interest in having the
+- and described the application and interview process. Commissioners volunteered to participate
+- reappointment
+- Chair Burns reported that the Community Voice & Belonging Subcommittee had a presentation
+- group began preparing for an upcoming October Cafecito/coffee‑talk gathering
+- Commissioner Daniels also asked whether a feedback loop has been established to follow up
+- next meeting, as the subcommittee works on setting goals and defining how feedback should be
+- more widely. Some expressed interest in broader access, while others raised concerns about
+- maintaining the subcommittee a safe space for discussions
+- agenda items including Summit School District presentation on the Strong Future ballot measure,
+- Arts & Culture Master Plan community engagement update, Gary Roberts Water Treatment Plant
+- site tour and project update, and council participation in the Comp Plan immersion experience
+- IX. Public Comment (Non-Agenda Items)
+- Community member, Summer Star, shared reflections on belonging, safety, and representation as a

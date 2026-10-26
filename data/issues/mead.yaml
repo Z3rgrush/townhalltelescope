@@ -1,30 +1,88 @@
 - title: Twelve-month moratorium on data centers
-  summary: The Board of Trustees adopted a twelve-month moratorium on data centers on August 31, and staff told the planning commission the town has not yet received any data center proposals.
+  summary: The Town Board adopted a twelve-month moratorium on data centers at its August 31 meeting, per the October 12 staff report. The Community Development Director told the Planning Commission the town has not yet received any data center proposals.
   where: Townwide
-  refs: [3, 12]
-  tags: [data-center]
-- title: Waterfront Filing No. 2 mixed-use development
-  summary: The planning commission recommended conditional approval of the Waterfront Filing No. 2 preliminary plat, focusing on traffic capacity, road improvements and trail connections, and called for coordinating transportation across nearby developments.
-  where: Waterfront development
-  refs: [2, 16]
-- title: 2027 budget and improvement district budgets
-  summary: The 2027 proposed budget was presented to trustees, along with budgets and mill levies for the Highway 66 and I-25 and Elevation 25 improvement districts and the urban renewal authority.
+  refs:
+  - 3
+  - 12
+  tags:
+  - data-center
+- title: 'New Mead Police Facility: site plan, DOLA grant and financing'
+  summary: The town is building a new police facility in the Liberty Ranch subdivision on Chaparral Street. The Board is approving the site plan (Ordinance 1118) and easement vacations (Ordinance 1119), and a groundbreaking ceremony was scheduled. The Urban Renewal Authority heard a DOLA grant presentation, a financing briefing from Piper Sandler on interest rates and schedule, and a cooperation agreement with the Town for construction.
+  where: Liberty Ranch Subdivision, Chaparral Street
+  refs:
+  - 14
+  - 17
+  - 19
+  - 22
+- title: 2027 town budget
+  summary: The 2027 proposed budget was presented September 28. A public hearing and adoption (Resolution 71-R-2026) were scheduled for October 26, with a budget amendment to the Municipal Facilities Impact Fee Fund. The town's two general improvement districts also held 2027 budget presentations and hearings with mill levies.
   where: Townwide
-  refs: [4, 6, 7, 8, 9, 11, 12]
+  refs:
+  - 7
+  - 9
+  - 12
+  - 17
+  - 18
+  - 20
+  - 21
+  - 22
+- title: Mead Urban Renewal Authority tax-increment incentive policy
+  summary: Contract counsel presented a policy for evaluating developer requests for tax-increment reimbursement of public improvements. It sets eligibility thresholds, three evaluation criteria and a small-project track, and keeps the Board's discretion. A resolution approving the policy (03-URA-2026) was on the October 26 agenda.
+  where: Mead urban renewal areas
+  refs:
+  - 4
+  - 5
+  - 18
+  - 19
+- title: Waterfront Filing No. 2 preliminary plat
+  summary: The Planning Commission held a public hearing on a proposed mixed-use development and recommended conditional approval. Commissioners focused on traffic capacity, road improvements and trail connections. They also called for broader coordination of transportation improvements across nearby developments.
+  where: Waterfront, Mead
+  refs:
+  - 2
+  - 3
+  - 16
   public_comment: true
-- title: Urban renewal tax increment incentive policy
-  summary: The Mead Urban Renewal Authority took up a formal policy for judging developer requests for tax increment reimbursement, based on financial need, projected tax revenue and extraordinary costs.
-  where: Urban renewal plan areas
-  refs: [4, 5]
-- title: Annexations and public facilities zoning
-  summary: The planning commission recommended zoning for the town-owned Valdez annexation and 1785 Weld County Road 32, public facilities zoning for other town land, and the Ariet's Grove Filing No. 1 preliminary plat.
-  where: Valdez property, 1785 WCR 32, Ariet's Grove
-  refs: [3, 15]
-- title: I-25 sewer relocation and Safe Routes to School
-  summary: Trustees awarded construction contracts for the I-25 sewer relocation and the Mead Safe Routes to School project.
-  where: I-25, Mead schools
-  refs: [11]
-- title: High Plains Boulevard, new library and police facility
-  summary: The town marked the near-finished High Plains Boulevard expansion between WCR 32 and 36, accepted improvements for the new High Plains Library District branch, and broke ground on a new police facility in Liberty Ranch.
-  where: High Plains Blvd, Liberty Ranch, Chaparral St
-  refs: [10, 11, 12, 13, 14]
+- title: Ariet's Grove Filing No. 1 preliminary plat
+  summary: The Planning Commission considered conditional approval of the preliminary plat on October 21. The Board of Trustees held a public hearing on it on October 26 (Resolution 69-PC-2026).
+  where: Ariet's Grove, Mead
+  refs:
+  - 15
+  - 16
+  - 17
+  - 22
+- title: Public Facilities zoning for town-owned land, Valdez and 1785 WCR 32 annexations
+  summary: The Planning Commission recommended Public Facilities initial zoning for the town-owned Valdez annexation and for the 1785 Weld County Road 32 annexation. A zoning map amendment (Ordinance 1121) putting Public Facilities zoning on certain town-owned properties went to the Board October 26.
+  where: Valdez property and 1785 Weld County Road 32
+  refs:
+  - 3
+  - 15
+  - 16
+  - 17
+  - 22
+- title: I-25 sewer relocation project
+  summary: The Board awarded a construction bid to SMH West LLC for the I-25 Sewer Relocation Project (Project 2026-011). It then took up a common use agreement and easement amendment with the Colorado Department of Transportation for the sanitary sewer relocation.
+  where: I-25, Mead
+  refs:
+  - 11
+  - 12
+  - 17
+  - 22
+- title: High Plains Boulevard road completion
+  summary: Construction of two miles of High Plains Blvd between WCR 32 and WCR 36 is almost complete. It includes two travel lanes, bike lanes, roundabouts at CR 32 and CR 34, and a detached sidewalk. A celebration with the High Plains Boulevard Coalition and developers was scheduled.
+  where: High Plains Blvd (WCR 9.5), WCR 32 to WCR 36
+  refs:
+  - 12
+  - 13
+- title: Safe Routes to School construction contract
+  summary: The Board awarded a bid and construction agreement to Colorado Paving Inc. for the Mead Safe Routes to School Project.
+  where: Mead
+  refs:
+  - 11
+  - 12
+- title: New Mead Library conditional acceptance
+  summary: The Board considered conditional acceptance of public improvements for the High Plains Library District's Mead Library. A community event to welcome the new library was planned for October 3.
+  where: 13815 Chaparral Street
+  refs:
+  - 10
+  - 11
+  - 12

@@ -1,0 +1,66 @@
+# ophir
+
+## [ophir#0] 2026-09-09 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of July 2026 P&Z Regular meeting minutes
+- a. Consideration of whether a fence on LOTS 5 AND 6 BLK 4 constitutes a
+- permitted accessory use to the residential use on LOTS 7 AND 8 BLOCK 4
+- b. Consideration and recommendation of ORDINANCE NO. 2026-7: AN
+- ORDINANCE AMENDING SECTION 303.1 OF THE TOWN OF OPHIR
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM JUNE 2026 P&Z MEETING
+- b. Croke Residence Lots 5 and 6, Block M, Building Permit Review (Granite St)
+- P&Z recommended approval of building plans 4-0. Croke to provide exterior
+- c. Ordinance Prohibiting Short Term Rentals
+- P&Z discussed length of time. Phil thought anything less than 63 days would be
+- appropriate. P&Z to review a full ordinance draft once received from Town
+- P&Z is to consider whether a fence on LOTS 5 AND 6 BLK 4 consƟtutes a permiƩed
+- ORDINANCE NO. 2026-7
+- AN ORDINANCE AMENDING SECTION 303.1 OF THE TOWN OF OPHIR LAND USE
+- Town services, other residents (e.g., noise, traffic, parking, and other public health, safety and welfare
+- preserve its character and limited housing stock
+- Section 1. Recitals. The Recitals set forth above are incorporated herein as findings and declarations
+- Section 2. LUC Amendments. Section 303.1 of the Town Land Use Code is repealed and reenacted
+- §303.1. PERMITTED USES
+- building or premises be used for any purpose other than permitted in the district in which such
+- It is unlawful and prohibited to lease, advertise for lease, or permit the leasing of any Short-Term
+- number and title of this ordinance, a brief description of the ordinance, its effective date and notice that all copies
+- Section 4. Severability, Conflicting Ordinances Repealed. If any section, subsection or clause of this
+- Ordinance shall be deemed to be unconstitutional or otherwise invalid, the validity of the remaining
+- sections, subsections and clauses shall not be affected thereby. All other ordinances or parts of ordinances
+- in conflict with the provisions of this Ordinance are hereby repealed
+- Section 5. Effective Date. This ordinance and the codes adopted by reference and amendments thereto
+- adopted by this ordinance shall be in full force and effect upon publication of notice of final adoption as
+- Introduced, Read, and Referred to Public Hearing on First Reading by the General Assembly of the Town
+- Approved and Adopted on Second and Final Reading as Amended by the General Assembly of the Town of
+
+## [ophir#1] 2026-10-14 | City Council | agenda
+- Notice of the Regular Meeting of the Ophir Planning and Zoning Commission
+- 1. Approve the Agenda
+- 2. Adoption and Approval of September 2026 P&Z Regular meeting minutes
+- a. Consideration of fencing materials for new fence at 112 Bobtail Street
+- b. Consideration and recommendation of adoption of new exterior material
+- requirements that comply with Colorado Wildfire Resiliency Code
+- Regular Meeting of the Ophir Planning and Zoning Commission
+- 2. APPROVAL OF THE AGENDA
+- 3. APPROVAL OF MINUTES FROM JULY 2026 P&Z MEETING
+- a. Consideration of whether a fence on LOTS 5 AND 6 BLK 4 constitutes a permitted accessory use to
+- P&Z decided new fencing did not need variance or Special Use Permit, and therefore could be
+- b. Consideration and recommendation of ORDINANCE NO. 2026-7: AN ORDINANCE AMENDING
+- P&Z recommended approval of the ordinance 3-0 as written
+- square feet must be compliant with the material specifications of the currently adopted
+- version of the CRWC. The Planning and Zoning Commission may approve or deny
+- additional materials to this list after conducting a public hearing and reviewing a sufficient
+- materials. to the Planning and Zoning Commission prior to plan approval, as well as, prior to
+- sufficient by the Planning and Zoning Commission. The Planning and Zoning Commission and
+- Building Official retain the ability to request a physical sample of exterior materials to be
+- provided at a public hearing or any meeting where plans are being reviewed
+- B. Siding. Natural stone, fire-retardant-treated wood (stained or clear), and
+- of sustainable and fire resistant as long as they mimic the natural materials
+- E. Garage Door. Fire-retardant-treated wood (stained, clear or painted), insulated
+- press-board fire-retardant-treated wood veneer (stained, clear or painted), or
+- comply with the approved decking material of the currently adopted version
+- the foregoing. Fences shall not exceed six (6) feet in height from the pre
+- construction fences for any duration of the project

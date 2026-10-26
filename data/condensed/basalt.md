@@ -1,0 +1,592 @@
+# basalt
+
+## [basalt#1] 2026-08-10 | Green Team | agenda
+- 3:31 1. Approve Meeting Minutes of June 8, 2026
+- 3:32 2. Budget Overview – Doug Pattison, Finance Director, will present an
+- overview of the Green Team’s budget and different funding sources
+- 3:47 3. Basalt Project Updates – Gloria Kaasch-Buerger, Town Manager, will
+- the program to date and discuss next steps for creating a phased approach to
+- 4:30 5. 2027 Workplan Items – Staff to discuss with the Green Team 2027
+- workplan items and initiatives
+- Approval of Meeting Minutes of 4/13/2026
+- 1. Approval of Meeting Minutes
+- M/S Eckart and Fagan to approve the meeting mi nutes w ith the names correct ed, as noted. Motion
+- Benchmarking is valuable in supporting capital improvement planning and establishing relationships with
+- building owners. The program identifies key variables for under or overperforming buildings and can aid
+- in the creation of a successful pipeline for future projects
+- projects, and if CORE is engaging in conversation s with those building owners to generate projects . At
+- this time there ha ve been no projects that have come out of the building benchmarking project
+- standard plan. She noted that this process will take several years. Aspen’s program has been in place for
+- several years and they are just now get ting to the meat of the discussion around building performance
+- McCrackin reminded the Green Team that project dollars from the IMPACT Accelerator Grant have been
+- earmarked for providing additional funds for energy efficiency projects that have been identified through
+- high compliance rate with the program, and that building owners are very engaged. A significant portion
+- the data may be interpreted and what projects within a building should be prioritized. The program
+- Emma (unincorporated Pitki n C ounty) and a stop at the Eagle County building at Crown
+- Mountain Park, as well as the Summit Vista neighborhood. The expansion was achieved with
+- at a transit stop, or at City Market. The expanded area services workforce housing units
+- at Triangle Park in Willits Town Center and at the Basalt River Park downtown that will serve
+- coffee and morning snacks
+- 1 pm at the Basalt High School parking lot. Nadolny asked for volunteers to help out at the
+- IMPACT Accelerator Grant – McCrackin indicated that the regional application was successful
+- with an award of over $4 million. The communities are waiting on the state’s press release
+- before putting out a regional press release, which will include all award winners and the total
+- amount. Project funding will provide a big injection of funds to the region and the increase
+
+## [basalt#2] 2026-08-11 | Town Council | minutes
+- These minutes were generated with the assistance of Al
+- 2B. Continue to August 25, 2026: Public Hearing and Second Reading Ordinance No. ·
+- 19,.Series of 2026: An Ordinance of the Town Council of the Town of Basalt, Colorado,
+- Granting Necessary Development Approvals to the Jadwin/Black Mountain Development,
+- Including 64 Dwelling Units, 12 Short-Term Rental Cabins, and Associated Improvements,
+- Together with Extending and Increasing the Corporate Limits of the Town of Basalt and
+- Providing Initial Town Zoning for the Jadwin/Black Mountain Property, 431 Emma Road
+- 2C. Resolution No. 31, Series of 2026: A Resolution of the Town Council of Basalt,
+- 2D. Resolution No. 32, Series of 2026: A Resolution of the Town Council of Basalt,
+- "Dallenbach Park" (Pam Schilling, Gloria Kaash-Buerger)
+- Triangle Park as a great success, praising town staff and the Basalt Police Department for
+- police from coordinating with ICE absent a judicial warrant tied to a criminal case. She
+- Council Member Angele Dupre-Butchart called the public's attention to elevated water
+- releases from Ruedi Reservoir by the Roaring Fork Water and Power Authority, noting that
+- and recreational use, and urged community members to exercise caution near the water
+- Roaring Fork Valley and other sub-regions, and that it is hiring an economic development
+- recreational outlet for a broad demographic of participants
+- Aspen Skiing Company (SkiCo) had requested a work session of approximately one
+- covered in the press. Town Manager Kaasch-Buerger agreed to request an agenda
+- Announced a public open house for the Public Service Facility project at the library on
+- 6. PRESENTATIONS
+- 6A. Proclamation Dedicating Dallenbach Park
+- Mayor Knight read the official proclamation dedicating Dallenbach Park in honor of Wally
+- community and the broader region. The proclamation cited their leadership, generosity,
+- through town on Saturday at 2:00 PM, with a formal park dedication ceremony to follow at
+- travel conditions from out of state, permit
+- Public Works Director Justin Forman and Streets Foreman Jeff Blevins presented the staffs
+- Avenue streetscape. Director Forman explained that the primary operational challenge is not
+- snow storage capacity-the completed streetscape provides adequate median and island
+- before parking spaces are occupied and before the Town's street plowing operation begins,
+- Director Forman outlined three options: continued use of a contracted snow removal service,
+- contracted approach, noting that the previous manual-only contract cost approximately
+- and mechanical equipment permitted, preliminary estimates from contractor conversations
+
+## [basalt#3] 2026-08-12 | POST | agenda
+- Parks, Open Space and Trails Committee (POST)
+- 4:30 4. Discussion of Future Meetings with Roaring Fork Outdoor
+- Parks, Open Space and Trails Committee (POST) Meeting Minutes
+- Unanimously approved with discussion of MVT/RFTA funding to be added
+- 4:08 3. Cliff’s Hillside Park Update
+- Christoff introduced the design development update with Lionheart Places and reminded
+- POST that they approved the split level design at the May meeting. Wolf introduced herself
+- and Bjurstrom and reviewed the project and community goals directing the desig n for Cliff’s
+- Hillside Park. Wolf also reviewed the results of the neighborhood survey. Wolf reviewed the
+- 90% design/CD level site plan. Wolf talked through the swing on the upper level, the monkey
+- property and the two trees to be added along the flex lawn, and discussed the proposed
+- furnishings for the park including the picnic table, bench and trash can. Bjurstrom noted that
+- the irrigation battery operated clock would be relocated outside of the p ark, from its current
+- location in the center of the park. Trantow noted need for doggy bag station. Brown asked
+- noted the difficulty topography; Staff will consider additional trees in that area after the
+- maximize the play value of the park; Christoff agreed and noted that a shade sail may be
+- considered in the future. Wolf presented the three play elements and talked through the color
+- options as well as Kolar’s comments related to color and fini sh. POST discussed color and
+- Hilts asked about the note for dog friendly park features; Wolf responded that there was a
+- dog park. Discussion followed
+- 4:30 4. MVT/RFTA Funding Request – Wayfinding Signs
+- Christoff discussed the budgeting cycle for RFTA and that the Town has missed the formal
+- budgeting cycle for 2027
+- Discussion followed relating to the establishment of a formal process for Town initiated
+- proposals as well as a formal process for grant asks from local partners and non -profits
+- Trantow requested that historically awarded funds be requested by the Town of Basalt for the
+- 2027 fiscal year. Christoff responded that no funding requests have been received, and that
+- the Town was unable to issue and publicize an opportunity for grant re quests; the Town will
+- not be soliciting proposals at this time. Staff reiterated their plan to establish a formal process
+- Christoff shared that the Town of Basalt has designed wayfinding signage and requested a
+- and Eagle County representatives would be at Town Council to discuss purchase of the
+- attended these meetings, including the police. Eckart noted that he would like to see Class II
+
+## [basalt#4] 2026-08-13 | BACH | agenda
+- The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
+- Basalt Affordable Community Housing (BACH)
+- 12:25 Update on Police Department/Public Work Facility Planning
+- Public Comment is limited to 3 minute s. Those who wish to speak should email
+- identify what item they would like to address. During the meeting those wishing to
+- To: Chair Fierstein and Basalt Affordable Community Housing
+- DETAILS: The Town of Basalt closed on the purchase of six (6) deed -restricted
+- units in the BCC Development Project on August 5, 2026 , and the second Stott’s
+- Therefore, Town Staff has been having discussions ab out the rents that the
+- being added to the Town’s inventory of Town -owned employee housing. Town
+- The units purchased by the Town in the BCC Project consist of the following
+- the units is a Category 3 Unit in the development approvals. Town Staff and the
+- employees. Category 1 rents for the BCC Project are as follows:
+- the Riverside Plaza BC Building to move over to the BCC project to help vacate
+- The four lots in Stott’s Mill that the Town purchased and constructed duplexes on
+- were deed -restricted for Category 2 Development. As such, Town Staff is
+- intending to rent the new duplex being completed at the Category 2 rental rates
+- The monthly Category 2 rental rate for the duplex units is $3,144 for the three
+- Police and Public Works
+- Purpose-built space for Police and Public Works
+- and Early Childhood Tax
+- alongside the new town rate
+- The Basalt Police Department’s current location at
+- No secure parking
+- A MODERN POLICE FACILITY
+
+## [basalt#5] 2026-08-18 | P & Z | agenda
+- Planning and Zoning Commission Meeting
+
+## [basalt#6] 2026-08-19 | Finance Committee | agenda
+- Approve minutes of May 20th , 2026
+- Sales tax update
+- COP ordinance regarding financing the 6 condo units
+- recommended for approval by Eric Theile and Eric Wiseman seconded the motion. The
+- minutes were unanimously approved
+- The sales tax reports were discussed in some detail
+- Doug Pattison reported that the town did receive the distinguished budget award from the
+- Doug Pattison reviewed the first quarter financial results and was some discussion on
+- Next the group continued the discussion on the pro-forma worksheet for the Parcel 9
+- project. A series of questions are being developed for consideration by Town Council. Eric
+- Theile is very familiar with construction defect issues when condomizing a housing project
+- SALES TAX & FINANCIAL UPDATE
+- I SUBJECT: Updated sales tax reports May 2026
+- The sales tax report for May is attached. For the month of May 2026 sales taxes
+- Total sales tax collected year to date through May totals $4,223,731 vs
+- Sales Tax Revenue by Type
+- Other Sales Tax 350,989 234,930 227,591 206,277 283,525 510,769 515,042 489,525 495,054 504,172 1.84%
+- Total, All Sales Tax 2,266,192 2,339,582 2,483,595 2,795,375 3,297,197 3,905,373 3,999,866 4,163,409 4,123,579 4,223,731 2.43%
+- NOTE: The Town of Basalt receives detail information from the State of Colorado remittances. However, other receipts are not broken out separately
+- Other Sales Tax 76,612 72,062 74,761 39,470 86,115 160,819 69,517 68,921 65,790 82,965 26.11%
+- Total, All Sales Tax 424,229 447,171 521,757 490,597 665,533 810,008 724,266 716,219 732,323 731,224 -0.15%
+- ORDINANCE , SERIES 2026
+- PURCHASE AGREEMENT, AND OTHER
+- SUBJECT: Ordinance 21, Series 2026 – Approval of COP financing for property
+- to be used by the Town in providing affordable housing
+- RECOMMENDATION: Approval of Ordinance 21, Series of 2026 on First
+- and set the Public Hearing and Second Reading for August 25, 2026
+- been working with Jeff Conklin, Dalton Kelley (bond attorney from Butler
+- a Certificates of Participation financing option to finance the acquisition of six
+- setting certain parameters. Therefore, if the top bid meets the parameters
+- outlined in this Ordinance, then the Town is able to proceed with the bank
+- selection, after approval of the Ordinance on second reading. The Ordinance also
+- approves the forms of the Site Lease Agreement, Lease Purchase Agreement and
+- roceeds will reimburse the Town for the purchase
+- Ordinance No. 21
+- CERTAIN REAL PROPERTY, INCLUDING SIX HOUSING UNITS, AND THE
+- CONSTRUCTION, EQUIPPING, REMODELING AND IMPROVEMENT OF CERTAIN
+- PURCHASE AGREEMENT, AND OTHER DOCUMENTS RELATED TO THE
+
+## [basalt#7] 2026-08-25 | Town Council | minutes
+- These minutes were generated with the assistance of Al
+- APPROVE THE CONSENT AGENDA ITEMS AS PRESENTED WITH THE NOTED
+- inadequate illumination provided by the catenary street lights recently installed on Midland
+- continued development in the Southside area, noting the single egress point as a significant
+- Town Manager Gloria Kaasch-Buerger responded to the street light concern, confirming that
+- the Town had received substantial feedback on the matter. She advised that the lights are
+- currently operating at maximum capacity and that staff is actively working with the contractor
+- exercise caution on the lower Frying Pan River, noting that significant volumes of water
+- for a grant application on behalf of the Town's youth space initiative. He sought and received
+- Council's informal approval to do so as Mayor
+- Town Manager Kaasch-Buerger provided a follow-up on a public comment from the prior
+- meeting requesting a stop sign at the intersection of Alexander and Fiou Lane. She reported
+- 6. PRESENTATIONS
+- condition. Revenue is tracking well against budget, with sales tax - the largest revenue
+- above the prior year. He noted that property tax represents the second largest revenue
+- source at 27 percent. A lower-than-budgeted revenue figure was noted for intergovernmental
+- revenues, attributable to a COOT grant for work on Two Rivers Road being deferred to 2027,
+- with the corresponding expense also deferred, making the adjustment budget-neutral
+- On the expenditure side, payroll is pacing to budget. Operating costs in the administrative
+- expected to come in under budget, as the COOT streets project, some public works fleet
+- into 2027. The overall General Fund result is projected to end the year in the black, adding
+- Through the first six months of 2026, the Town generated approximately $450,000 in
+- additional cash - a figure significantly lower than the $2.2 million generated in the same
+- transactions, as well as lower Water Fund revenue tied to reduced tap fees associated with
+- Funding Stack for Capital Projects: Finance Director Pattison presented an updated funding
+- stack analysis for the proposed Public Works/Police facility and Sopris Parcel 9 (rugby field)
+- the reclaimed escrow deposit upon issuance of Certificates of Participation (COPs), and
+- projected borrowing against the proposed 0.5 percent sales tax - if approved by voters
+- totals approximately $29 million against a $25 million budget, providing some cushion. A
+- contingency plan was also presented in the event the ballot initiative does not pass. For
+- Parcel 9, a stack of approximately $5 million has been identified, though the estimated cost
+
+## [basalt#8] 2026-08-27 | BACH | agenda
+- The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
+- Basalt Affordable Community Housing (BACH)
+
+## [basalt#9] 2026-09-01 | P & Z | agenda
+- See separate instructions on how to access the meeting
+- Planning and Zoning Commission Meeting
+- 6:03 2A Approve Minutes
+- 6:05 2A Public Hearing- 135 E. Homestead Drive Special Review: for the
+- purpose of considering an application submitted by Erik Hendrix for Special
+- 2B Recommended Action: Staff and Applicant Comments, Public Comments,
+- P&Z Discussion, Potential Motion
+- 6:45 3A Courtesy Review of Code Amendments to Building Code to Clarify
+- PUBLIC COMMENT ACCESS INSTRUCTIONS
+- The Basalt Planning & Zoning Commission will meet in person. The P&Z will conduct a hybrid meeting
+- Directions for viewing and accessing the meeting to provide comment during public the public comment
+- portion of the agenda, or during public hearings is provided below
+- PLANNING AND ZONING ACTION MINUTES
+- BOARD MEMBERS PRESENT: Bill Maron, Eric Vozick, Rob Leavitt, Cindy Hirschfield, Bob Kaplan, Ben
+- The Planning and Zoning Commission meeting was called to order at 6:00 PM on Tuesday, July 7,
+- A quorum was established. It was also noted that a site visit to 218 E. Valley Road (Movieland
+- 2A Approve Minutes
+- The Commission considered approval of the minutes from the May 19 and June 16, 2026 meetings
+- Commissioner Hirschfield requested an amendment to the June 16 minutes to reflect that she had
+- Motion to approve the minutes from May 19 and June 16, 2026, as amended per
+- 3A Continued Public Hearing – 218 E. Valley Road PUD Amendments, Site Plan Review, Annexation
+- Amendments, Associated Development Review Actions
+- 3B Recommended Action: Staff and Applicant Comments, Public Comments, P&Z Discussion,
+- Staff Presentation
+- Planner Carlton Henry provided a reintroduction of the development application at 218 East Valley
+- Road. He noted this was a continued public hearing from the June 16, 2026 meeting. The revised
+- proposal, updated since the prior hearing, is for a 93-key Residence Inn by Marriott hotel with three
+- deed-restricted, for-rent affordable housing units for commercial mitigation, reduced from 94 keys
+- with an underlying C-3 commercial designation, and identified as Lot 2A in the Old Orchard Plaza
+- PUD. The three proposed affordable units range from 457 to 643 square feet and are proposed to be
+- commercial mitigation standards with the addition of the third unit and did not refer the application
+- back to BACH following the resubmittal, noting that BACH had unanimously approved the
+- application on June 11, 2026
+- Key discussion items identified by staff included: consistency with the Master Plan; the level and unit
+- mix of affordable housing mitigation; compliance with minimum livability requirements; private
+
+## [basalt#10] 2026-09-03 | BPAC | agenda
+- 5:02 2. Approval of Minutes of July 2, 2026
+- 5:05 3. Budget Overview . Doug Pattiso n, Finance Director, will present an
+- overview of the BPAC’s budget and funding sources
+- roundabout sculpture for the first round of feedback from BPAC members
+- 6:00 5. 2027 BPAC Workplan. Staff will provide an overview of the BPAC’s
+- 2027 workplan per the Arts Capital Improvement Plan
+- Final grant recipient project/program dates
+- Grant program Basalt High School Art (2027)
+- Approval of May 7, 2026 Meeting Minutes
+- Basalt Project Updates – Discussion with Town Manager
+- o BPAC Grant Awardees
+- 1. Approval of May 7, 2026 Meeting Minutes
+- M/S Gale and Mullen to approve the meeting minutes of May 7, 2026. Motion passed 3 to 0
+- 2. Basalt Project Updates
+- Kaasch-Buerger stated that the intent of her presentation is to provide information regarding the
+- proposed shared Public Works and Police facility that has been prioritized by the Town Council. The
+- shared facility would be located on the Town-owned lot at the end of East Valley Road, adjacent to
+- Highway 82. The Town purchased this lot in 2022 with the intent of locating this facility there
+- Kaasch-Buerger discussed the reasons why the current police department is inadequate, including
+- Kaasch-Burger explained that Town Staff is working to ensure that public art is integrated into the
+- plans for the building. Currently the focus is on site planning. The project is currently estimated to
+- cost $25million. The plan is to go out for a .5% sales tax on the November ballot and a sunset to the
+- tax is being considered. The plan includes being proactive about the future building maintenance
+- and adding this into the plan
+- Kaasch-Buerger explained that the lot is currently going through the annexation process as it is
+- specializes in the design of police facilities
+- meeting. Staff will then bring the matter to Town Council for approval and get the artist under
+- contract before the year’s end
+- created for the Basalt River Park. Since Willits Town Center is a different environment, the language
+- The BPAC members discussed potential adjustments to the Call, including providing additional
+- the area can get a feel for the neighborhood
+- a. BPAC Grant Awardees. Nadolny provided an overview of the grant projects or
+- programs completed to date, which includes the majority of the awardees. There are
+- Nadolny is working with Kelly Peters to secure park space for her adult painting
+- connected with Dance Aspen who didn’t know that they had an award pending
+- Nadolny said that this is the first year where so many awardees had completed their
+
+## [basalt#11] 2026-09-08 | Town Council | minutes
+- These minutes were generated with the assistance of Al
+- 2C. Continue to September 22, 2026: Public Hearing on Resolution No. 34, Series of 2026;
+- 20. Continue to September 22, 2026: Public Hearing and Second Reading Ordinance No
+- Prior to a motion, Council Member Elyse Hottel requested an amendment to the minutes
+- M/S COUNCILORS HOTTEL AND BERMAN THAT THE TOWN COUNCIL APPROVE THE
+- Center, urging the Council to refer a tobacco tax increase to the ballot. She cited data
+- nicotine pouches, and argued that Basalt's current cigarette tax of two dollars per pack is
+- below the four-dollar rate in Pitkin County, Eagle County, and neighboring municipalities
+- East Sopris Drive, expressing concern that Ordinance No. 3 (Series of 2025 - concerning
+- Short Term Rental rates) disproportionately impacts full-time on-site residents who rent a
+- single spare room. Ni las argued that the sixty-day cap and fee structure were designed for
+- who is permanently a resident in the home. He requested that the Council amend the
+- ordinance to fully exempt on-site hosted primary residents from commercial fees and caps
+- David Larson also spoke in support of a tobacco tax ballot measure, echoing the comments
+- roundabout on Willits Lane to allow residents to safely access Crown Mountain Park and
+- responsibilities between the Town and the developer, and requested that the Town explore
+- development agreements that abut that easement
+- Council Member Elyse Hottel raised several items: signage deterioration at Confluence Park;
+- requested a future report comparing sales tax performance in the months surrounding the
+- Manager Gloria Kaasch-Buerger confirmed the data could be compiled, noting that sales tax
+- Midland and Willits business districts and could incorporate that into a presentation
+- the Ruedi Water and Power Authority (RWAPA), reminding all river users-including
+- equipment contacting water bodies, not solely watercraft entering the reservoir, in order to
+- discuss priorities including transit fleet and building decarbonization, sustainable markets,
+- and wildfire resiliency. Council Member Berman also commended the Basalt Pool for an
+- The Ruedi Water and Power Authority has requested a presentation slot on October 13,
+- Water and Power Authority) Director to the Board
+- A budget work session is scheduled for Thursday, September 17, 2026, at 5:00 PM
+- 6. PRESENTATIONS
+- GA. Glenwood South Bridge Project Presentation
+- update on Glenwood's South Bridge project. City Engineer Gordon provided background on
+- the project, which has been in development since approximately 2003. A significant redesign
+
+## [basalt#12] 2026-09-09 | POST | agenda
+- Parks, Open Space and Trails Committee (POST)
+
+## [basalt#13] 2026-09-10 | BACH | agenda
+- The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
+- Basalt Affordable Community Housing (BACH)
+
+## [basalt#14] 2026-09-14 | Green Team | agenda
+- 3:31 1. Approve Meeting Minutes of August 10, 2026
+- 3:33 2. Budget Overview – Doug Pattison, Finance Director, will present an
+- safety group and discuss potential baseline rules for the region. Attached
+- Approval of Meeting Minutes from June 8, 2026
+- Budget Overview
+- Basalt Project Updates
+- 2027 Workplan Items
+- leading the benchmarking discussion
+- 1. Approval of Meeting Minutes
+- M/S Murphy and Fagan to approve the meeting minutes from June 8, 2025. Motion passed 4 to 0
+- 2. Basalt Project Updates
+- with an overview of a proposed development project. She explained that ambassadors for the Town and
+- introduced the concept of the combined Public Works and Police Dept. Facility, noting that this is an
+- along East Valley Road that was recently annexed into the Town. It is the location of the former Umbrella
+- currently operates out of five separate locations around town. She noted that there is a lot of synergy
+- She explained that this is about a $26 million project, with $18 million of the project to be financed. A
+- 5% sales tax request will go to the voters in November. This will increase the sales tax in the Pitkin County
+- portion of Basalt to 10.05% sales tax , and the Eagle County portion of Basalt to 8.95% sales tax. The
+- measure is currently written to sunset the tax in 20 years. Kaasch-Buerger said that she might be able to
+- governments these days. The Town has applied for a USDA loan. She noted that the Police Department
+- is hosting an open house today at 5 pm to discuss the current condition and possible future facilities
+- Kaasch-Buerger reiterated that the land has been annexed into the Town. Utilities will need to be moved
+- Sales tax is a more predictable source of funding than lodging tax. Additionally, there are restrictions at
+- the state level on how lodging tax can be used
+- Gamble provided an overview of CORE’s projects and successes to date, noting that the goal is to reduce
+- earn below the area median income. Gamble observed that the project is off to a great start with
+- Cold climate heat pumps are the biggest project type for both residential and commercial projects. T he
+- Gamble provided a project spotlight on Z Group Architects, explaining that they are fully electrifying the
+- building and also undertaking an air sealing project. This is currently a very leaky building. Gamble shared
+- a graphic of the building’s current energy use and then the future projected energy use , which was
+- actively working on energy projects and analysis. T he Town is looking into an electrification project for
+- Town Hall. The Roaring Fork Apartments and River Park Center have both engaged with CORE for energy
+
+## [basalt#15] 2026-09-15 | P & Z | agenda
+- Planning and Zoning Commission Meeting
+
+## [basalt#16] 2026-09-16 | Finance Committee | agenda
+- Approve minutes of August 19, 2026
+- recommended for approval by Simon Dogbe and Eric Theile seconded the motion. The
+- minutes were unanimously approved. There were no FAB meetings in June or July
+- The sales tax report for June was presented and discussed in modest detail
+- discussion on overall report
+- Next the group continued the discussion of the restricted funds specifically allocating
+- and the Parcel 9 aka Pitchview project
+- There is also some discussion on issuing a COP for the 6 units acquired at the Basalt
+- Center Circle. Doug Pattison summarized that the transaction was contracted for in 2024
+- for $2,380,000. The units closed during the first week in August. The COP’s, if approved,
+- the COP will be approved by Council and issued in mid to late September
+
+## [basalt#17] 2026-09-17 | Town Council | agenda
+- 2. Budget Worksession
+
+## [basalt#18] 2026-09-22 | Town Council | agenda
+- MEETING AND PUBLIC COMMENT ACCESS INSTRUCTIONS
+- 5:00 S ITE VISIT : 218 E Valley Road - Meet at Movieland Parking Lot (James Lindt)
+- 2B. Resolution No. 39, Series of 2026. Resolution Approving First Amendment to
+- Employment Agreement with the Town Manager (Jeff Conklin)
+- 2C. Continue to October 27, 2026: Public Hearing on Resolution No. 35, Series
+- of 2026: A Resolution of the Town Council of the Town of Basalt, Colorado,
+- Approving Amendments to the 2020 Town of Basalt Master Plan to Amend the
+- 2D. Continue to October 27, 2026: Public Hearing and Second Reading
+- Ordinance No. 18, Series of 2026: An Ordinance of the Town Council of the Town
+- of Basalt, Colorado, Granting Special Review, Site Plan Review, a PUD
+- Amendment, and Associated Development Review Actions to Develop a Mixed-Use
+- Development at 555 Basalt Avenue, Basalt, Colorado (James Lindt)
+- 2E. Adopt Resolution No. 38, Series of 2026: Resolution of the Town Council of
+- 2F. Letter of Support: Arbaney Parcels CWHP Fee Title Acquisition Proposal
+- Suggested Motion: Mayor, I move that the Town Council Approve the Consent Agenda
+- Identify yourself by name and address when making comments
+- 6. PRESENTATIONS
+- 6:25 6A. 125 Special Event Presentation (Brent Compton)
+- 6:35 6B. Proposed 2027 Budget Presentation (Gloria Kaasch-Buerger, Doug Pattision,
+- 7:20 7A . Public Hearing and Second Reading of Ordinance No. 22, Series of 2026:
+- Ordinance of the Town Council of the Town of Basalt, Colorado, Approving Code
+- Amendments to Town Code Section 18-14, Fees, Section 18-23, Sustainable
+- Mitigation Program (REMP) Fee Exemptions for Pools and Spas (James Lindt)
+- Suggested Motion: Mayor, I move that the Town Council adopt Ordinance No. 22,
+- 7:25 7B . Resolution No. 37, Series of 2026: Resolution of the Town Council of Basalt,
+- Colorado, Approving an Intergovernmental Agreement between Pitkin County, the city of
+- Suggested Motion: Mayor, I move that the Town Council adopt Resolution No. 37,
+- 8C. July 2026 Sales Tax Update
+- These minutes were generated with the assistance of AI
+- 2C. Continue to September 22, 2026: Public Hearing on Resolution No. 34, Series of 2026;
+- 2D. Continue to September 22, 2026: Public Hearing and Second Reading Ordinance No
+- Prior to a motion, Council Member Elyse Hottel requested an amendment to the minutes
+- M/S COUNCILORS HOTTEL AND BERMAN THAT THE TOWN COUNCIL APPROVE THE
+- Center, urging the Council to refer a tobacco tax increase to the ballot. She cited data
+- nicotine pouches, and argued that Basalt's current cigarette tax of two dollars per pack is
+- below the four-dollar rate in Pitkin County, Eagle County, and neighboring municipalities
+
+## [basalt#19] 2026-09-23 | POST | agenda
+- Parks, Open Space and Trails Committee (POST)
+- 4:35 3. 2026 POST Project Review
+
+## [basalt#20] 2026-09-24 | BACH | agenda
+- The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
+- Basalt Affordable Community Housing (BACH)
+- Housing in Block 9, Willits Town Center (300 Robinson Street)
+- 12:25 Update on Leasing of Town-Owned Units in BCC Project
+- Public Comment is limited to 3 minute s. Those who wish to speak should email
+- identify what item they would like to address. During the meeting those wishing to
+- To: Chair Fierstein and Basalt Affordable Community Housing
+- RE: Block 9, Willits Town Center (HUB Building at 300 Robinson Street)
+- DETAILS: The Town of Basalt approved the construction of a multi -family
+- Ordinance No. 10, Series of 2019. It was required to include eight (8) category
+- Ordinance No. 10, Series of 2019 do not address tenant requalification for the
+- of the Town ’s Community Housing requirements . Staff would like to solicit
+- the requalification provisions are not specifically addressed in the approvals for
+- A) Ordinance No. 10, Series of 2019
+
+## [basalt#22] 2026-10-06 | P & Z | agenda
+- See separate instructions on how to access the meeting
+- Planning and Zoning Commission Meeting
+- 6:03 2A Approve Minutes
+- 6:05 3A Public Hearing-Code Amendments to Chapter 15, Chapter 16, and
+- Chapter 17 - for the purpose of considering municipal code amendments to
+- Chapter 15, Annexation, Chapter 16, Zoning, and Chapter 17, Subdivision
+- The proposed amendments would amend the Town’s Annexation, Zoning,
+- Additionally, the code amendments include miscellaneous substantive items
+- Comments, P&Z Discussion, Motion to Continue to October 20, 2026
+- PUBLIC COMMENT ACCESS INSTRUCTIONS
+- The Basalt Planning & Zoning Commission will meet in person. The P&Z will conduct a hybrid meeting
+- Directions for viewing and accessing the meeting to provide comment during public the public comment
+- portion of the agenda, or during public hearings is provided below
+- Town of Basalt Planning and Zoning Commission Meeting
+- 2A. Continued Public Hearing – 218 E. Valley Road PUD Amendments, Site Plan
+- Review, Annexation Amendments, Associated Development Review Actions
+- Planner Carlton Henry reintroduced the continued public hearing for the application at
+- 218 East Valley Road, the former Movieland site. The application, submitted by Bowtie
+- infrastructure. Mr. Henry noted that this was the application's third hearing before the
+- Community Housing Commission in June, introduced to the Planning and Zoning
+- Henry reported that, in response to discussion at the July 7th meeting, draft conditions
+- had been updated to include clear language restricting permitted use and dimensional
+- amendment to the annexation agreement. He also clarified that while vested rights in
+- Basalt insulate projects against code changes for a three -year period, development
+- approvals do not expire when that period ends; however, the added annexation
+- agreement language would require a formal amendment if the applicant sought to build
+- anything other than the approved hotel
+- recommend approval with conditions as outlined, recommend approval with amended
+- Plan designated certain key properties with a future land use designation, and this site
+- designation would need to be removed as part of the approval process, consistent with
+- how similar redevelopment applications have been handled. The underlying service
+- Commissioner Firestein asked about language in the annexation agreement recitals
+- permitting food service
+- Applicant Presentation
+- Grant Du part, on behalf of Bowtie Partners and WalshDupart, presented updates
+- traffic and pedestrian circulation, architecture and design, and master plan
+
+## [basalt#23] 2026-10-08 | BACH | agenda
+- The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
+- Basalt Affordable Community Housing (BACH)
+
+## [basalt#24] 2026-10-12 | Green Team | agenda
+- 3:31 1. Approve Meeting Minutes of September 14, 2026
+- 3:33 2. Lawn Equipment Discussion – Staff will lead a discussion and present a
+- lawn equipment for the Green Team’s consideration. This item will go before
+- the Town Council for discussion at a future date to be determined
+- Approval of Meeting Minutes from August 10, 2026
+- Budget Overview
+- 1. Approval of Meeting Minutes
+- M/S Steiner and Fagan to approve the meeting minutes from August 10, 2026. Motion passed 7 to 0
+- 2. Budget Overview
+- each of the Town’s citizen committees to provide an overview regarding each committee’s budget, and
+- Pattison explained that a RETA is a fee that is provided to the Town upon sale of a property. Some RETAs
+- have been set up through the development review/approval process to be used toward affordable
+- housing or public arts, and some have been restricted to sustainability initiatives within Basalt. The RETAs
+- that help to fund Green Team activities include the Basalt River Park, Park Modern, Lake Modern, and the
+- Roaring Fork Club developments. RETA funds should be used for capital expenses rather than operational
+- REMP fees are paid to the Town when the property owner installs exterior energy use additions, such as
+- firepits, pools and spas. REMP fees also apply to heated garages and snowmelt
+- established through the Town’s franchise agreement with Holy Cross Energy, and it provides the Town
+- with yearly funding that can be used to help fund sustainability projects
+- WE-Cycle and Basalt Connect are under the Green Team’s budget, with the latter being the largest Town
+- to the agreement with RFTA. Pattison noted that the Lake Modern RETA has been used to help fund the
+- Pattison explained that the bag fee (which the Town receives six cents from each of the ten cents to
+- purchase a carryout bag from a store or restaurant) helps to offset expenses associated with the general
+- what might not be currently considered. She said s he would share the Green Team’s thoughts with the
+- The Green Team members provided the following items for consideration:
+- Purpose. The Basalt Green Team is being asked to brainstorm options that will support
+- Background. In 2025 the Basalt Town Council adopted Resolution No. 03 which banned the use
+- of combustions leaf blowers on Town -owned property. The approval is limited to leaf blowers,
+- nonattainment area have restrictions banning local and federal agencies and their contractors
+- To grow the program beyond Town-owned properties, Staff suggests considering effective dates
+- In contemplating how best to implement any future policy, Staff has provided a few options for
+
+## [basalt#25] 2026-10-14 | POST | agenda
+- Parks, Open Space and Trails Committee (POST)
+- 4:05 2. Review and approval of minutes from August 12, 2026, and
+- 4:15 3. Presentation by Roaring Fork Mountain Bike Association (RFMBA)
+- 4. Discussion of Future Meetings with Roaring Fork Outdoor Volunteers, Roaring
+- The June 10, 2026 approved. M/S Brown/Hilts. Motion approved unanimously
+- The July 8, 2026 minutes were approved with the edit that Charlie Eckart attended the
+- meeting. M/S Eckart/Trantow. Motion approved unanimously
+- Kaasch-Buerger presented on the Basalt Public Services Project. She explained the process
+- parcels for the project with the proposed use in mind. Kaasch-Buerger described the
+- relationship between the Public Works and Police departments
+- Kaasch-Buerger described the “why” for the project, siting outdated facilities, multiple
+- locations (5 for PWX), limited space for police work, outgrowing of the current condo space
+- only one bathroom in the police department
+- Project costs – Current budget is $25M of which $7M could be paid from reserves. There is
+- potential to monetize some assets (like PD’s current space) and grant funding like the USDA
+- facilities grant
+- Kaasch-Buerger described the project as having some flexibility and the community space
+- Kaasch-Buerger confirmed that the tax will have a 20 year sunset. The tax will affect the sales
+- tax in both counties. The campaign rules were explained, and Kaasch-Buerger offered ideas
+- the Town’s parks. Council has fast tracked the project which is currently in design
+- Hilts suggested the project is long overdue and asked about the long -term viability of the
+- project. Will other properties still be used? Has the Town considered selling some properties?
+- Town will need to keep the Fiou PWX site and the water plant. The site referred to as the
+- Annex is in flux, and sales are being considered to help offset some costs
+- Trantow suggested the Town look at ways to accelerate the pay down. Feels this would help
+- the project, for a faster pay down. If the Town sees other tax ballot balloons it could be
+- contemplated to go toward the project pay down
+- Trantow asked if there are any other sunsetting taxes
+- glad to know the Town had paid down bonds. Suggested that the Town has capacity for this
+- streetlight was reasonable. BPAC was interested in an art install at the site. Green Team was
+- interested in LEED certification, efficiency, that is is a model building, and suggested looking
+- Discussion of Future Meetings
+- Christoff asked if the group would be willing to hear presentations from Roaring Fork Outdoor
+- in preparation for Midvalley Trails funding considerations
+
+## [basalt#27] 2026-10-20 | P & Z | agenda
+- See separate instructions on how to access the meeting
+- Planning and Zoning Commission Meeting
+- 6:03 2A Approve Minutes
+- 6:05 3A Public Hearing- PUD Amendment and Special Review for 72 Sunset
+- Drive- for the purpose of considering a Minor PUD Amendment to the
+- approved Mid -Valley Business Center PUD, to permit an event space of
+- approximately 1,000 square feet at 72 Sunset Drive, Lot 4-A of the Mid-Valley
+- 3B Recommended Action: Staff and Applicant Comments, Public Comments,
+- P&Z Discussion, Motion to Recommend Approval with Conditions
+- 6:30 4A Continued Public Hearing-Code Amendments to Chapter 15, Chapter
+- 16, and Chapter 17 - for the purpose of considering municipal code
+- amendments to Chapter 15, Annexation, Chapter 16, Zoning, and Chapter 17,
+- Subdivision. The proposed amendments would amend the Town’s
+- Annexation, Zoning, and Subdivision regulations to reorganize and make them
+- more user-friendly. Additionally, the code amendments include miscellaneous
+- Comments, P&Z Discussion, Motion to Recommend Approval
+- PUBLIC COMMENT ACCESS INSTRUCTIONS
+- The Basalt Planning & Zoning Commission will meet in person. The P&Z will conduct a hybrid meeting
+- Directions for viewing and accessing the meeting to provide comment during public the public comment
+- portion of the agenda, or during public hearings is provided below
+- PLANNING AND ZONING ACTION MINUTES
+- BOARD MEMBERS ABSENT: Cindy Hirschfeld, Rob Leavitt, Bob Kaplan
+- The Planning and Zoning Commission meeting was called to order at 6:00 PM on Tuesday, October 6,
+- 2A Approve Minutes
+- The minutes from the August 4, 2026, meeting were presented for approval. Commissioner Fierstein
+- Motion to approve the minutes from August 4, 2026, was made by Commissioner Maron and
+- 3A Public Hearing — Code Amendments to Chapter 15, Chapter 16, and Chapter 17
+- 3B Recommended Action: Staff and Consultant Comments, Public Comments, P&Z Discussion,
+- Planning Director, James Lindt, introduced the public hearing and explained that the proposed
+- amendments were part of the Town's broader zoning and development code rewrite. He stated that
+- the code had become difficult to use after many years of piecemeal amendments and that Design
+- introductory review, hear the consultant presentation, ask questions, take public comment, and
+- continue the hearing to the October 20, 2026, meeting. He also advised that additional amendments
+- Jessica Garrow of Design Workshop presented the draft code amendments, with Reilly Thimons
+- nearing final milestones and entering adoption hearings with Planning and Zoning and then Town
+
+## [basalt#28] 2026-10-22 | BACH | agenda
+- The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
+- Basalt Affordable Community Housing (BACH)
+
+## [basalt#29] 2026-10-22 | Town Council | agenda
+- 5:00 PM WORK SESSION: STR Regulatory Fees Discussion

@@ -1,0 +1,94 @@
+# hugo
+
+## [hugo#0] 2026-08-11 | City Council | minutes
+- A motion was made by Trustee Emmerling and a second was made by Trustee Mohan to approve the agenda with
+- Scott Thomas and Peter Huisman with Colorado Rural Water Association (CRWA) reviewed the state Backflow
+- identified many businesses were not inventoried. They stated that the program has been in effect since 2016 and
+- present the rate study at the September meeting
+- PUBLIC COMMENT:
+- on having the device installed at the RV Park. It will be more difficult
+- Carl Dutro suggested that when we do water restrictions in the future, we give businesses and residents with
+- sprinkler systems earlier watering times. The evaporation rate is lower early morning. He foresees water
+- Diamonds Gala on September 26, 2026 , Lincoln Health submitted their application through Colorado’s Rural
+- Communities: Modernizing Rural Access Across Eastern Colorado grant application, Lincoln Health has cared
+- for patients from 43 of Colorados 64 counties in the emergency room, board-certified neurologist Dr. Kakkar is
+- Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Strutt Your
+- Days, Opportunity Zone 2.0 of which part of Lincoln County is in the map, the Hugo Main Street Board Retreat
+- on August 17, possible new housing, the Wellness Center will be the next Hugo business highlighted, he sat in
+- on a commissioners meeting that discussed the next steps of the Hugo RP Roundhouse, SBDC is still in transition,
+- Zach Schoenfeld, the Chairman for the Hugo Housing Authority gave an update reviewing that Mike McKenzie
+- ahs been hired to train the new business manager Lisa Geyer on bringing the Housing Authority into compliance
+- need to be in full compliance before they can ask the Town for a possible grant partnership. They have been in
+- compliance with water restrictions for about two weeks and would like to have more watering time if possible
+- an Ordinance of the Board of Trustees of the Town of Hugo, Colorado Repealing Ordinance No. 176, Regarding
+- Discussion was had about the safety of kids playing on a hard football field. Direction was given to the Clerk
+- A motion was made by Trustee Mohan and a second was made by Trustee Piper to approve the Hollowell,
+- Hollowell, Hollowell, Lyons LLC DBA Plains Bar Liquor License renewal application. THE MOTION
+- A motion was made by Trustee Piper and a second was made by Trustee Emmerling to approve the amended
+- A motion was made by Trustee Thelen and a second was made by Trustee Mohan to approve the GMS sewer
+- A motion was made by Trustee Emmerling and a second was made by Trustee Ehlers to approve the GMS CDBG
+
+## [hugo#1] 2026-09-16 | City Council | minutes
+- A motion was made by Trustee Emmerling and a second was made by Trustee Piper to approve the agenda. THE
+- Troy McCue with Lincoln County Economic Development presented the monthly report highlighting Hugo Main
+- Street meeting on September 21, Opportunity Zone 2.0 of which part of Lincoln County is in the map, waiting on
+- numbers from contractors on possible new housing, there is new funding through DOLA Housing for demo, they
+- Peter Botsonis with Water Technology Group, a Cogent Company, reviewed their submittal for the Well Pump
+- Replacements. A motion was made by Trustee Emmerling and a second was made by Trustee Thelen to approve
+- the Water Technology Group, a Cogent Company submittal. THE MOTION CARRIED UNANIMOUSLY
+- Thelen to approve the Wolf Compliance Consulting, LLC submittal. THE MOTION CARRIED
+- A motion was made by Trustee Thelen and a second was made by Trustee Mohan to approve Resolution 2026
+- 12, a Resolution of the Board of Trustees of the Town of Hugo, Colorado approving an Agreement with Wolf
+- and a second was made by Trustee Piper to approve the agreement with Willdan for code enforcement services
+- 10, a Resolution of the Board of Trustees of the Town of Hugo, Colorado accepting the Completion of the Sanitary
+- Sewer Collection System Improvements - 2023. THE MOTION CARRIED UNANIMOUSLY
+- A motion was made by Trustee Mohan and a second was made by Trustee Piper to approve Resolution 2026-11,
+- a Resolution of the Board of Trustees of the Town of Hugo, Colorado to acknowledge Support to Become an
+- Official Main Street Community. THE MOTION CARRIED UNANIMOUSLY
+- Water restrictions automatically lift October 1
+- Hollowell, Hollowell, Lyons LLC DBA Plains Bar Liquor License Festival Permit Application. THE MOTION
+- Liquor License Renewal Application. THE MOTION CARRIED UNANIMOUSLY
+- A motion was made by Trustee Thelen and a second was made by Trustee Emmerling to open a Water High Yield
+- Improvements and the Sanitary Sewer GMS draws dated September 2026. THE MOTION CARRIED
+- A motion was made by Trustee Thelen and a second was made by Trustee Piper to approve the amended February
+- We have a steering committee meeting with Colorado Main Street on September 21 at 5pm. At this meeting the
+- steering committee will discuss Bylaws, Board Roles and the Hugo Main Street Strategic Priorities. Anyone is
+- We will apply for a DOLA Division of Housing Local Planning Capacity Grant to hire a consultant with
+- abandoned and dilapidated building ordinances. We will work with Willdan on other ordinance updates
+- The Strategic Plan draft will be reviewed more at the first budget workshop
+
+## [hugo#3] 2026-10-13 | City Council | agenda
+- 5. PUBLIC COMMENT: Individuals may address the board during Public Comment. Items of a
+- personal nature may not be discussed; personnel-related matters shall be directed through the
+- town staff should be expected to engage in discussions or debate with any speaker. The board may
+- 6.2 Lincoln County Economic Development Report
+- 6.3 Colorado Rural Water Association (CRWA) Rate Study Presentation (May be after Audit
+- Presentation)
+- 7.1 2025 Audit Presentation 7:15pm: Motion to accept/deny the 2025 audit
+- 7.2 GMS Update: All projects update
+- 7.3 Resolution 2026-13: A Resolution of the Board of Trustees of the Town of Hugo, Colorado
+- Amending the Municipal Water, Wastewater, and Collection and Disposal of Refuse for Residents
+- Inside & Outside the Incorporated Limits of the Town Of Hugo, County of Lincoln, State of
+- Colorado, Beginning January 1, 2027, Per Month, with an Open Water Account
+- 7.4 Resolution 2026-14: A Resolution of the Board of Trustees of the Town of Hugo, Colorado
+- Adopting a Fee Schedule Effective January 1, 2027
+- 7.5 GMS Draw: Possible approval/denial of the GMS Draw(s) dated October, 2026
+- 7.6 Town Hall Shop Insulation: Review of RFP with presentation and possible Board direction or
+- 7.7 LPC GRANT Resolution 2026-15: A Resolution of the Board of Trustees of the Town of
+- Hugo, Colorado to Acknowledge Support to Become an Official Main Street Community
+- 7.8 Approval of Minutes: Possible approval/denial of the September 16, 2026, minutes
+- 8.1 Hugo Main Street – At the September 21 meeting four potential Board members were in
+- attendance. We have a steering committee with Colorado Main Street on October 21 from 5pm
+- 6pm. At this meeting the steering committee will discuss Main Street Strategic Priorities and small,
+- 8.2 Ordinance Review – Staff will submit the Local Planning Capacity Grant for the Hugo
+- Abandoned and Deteriorated Property Ordinance Update this week. We will work with Willdan on
+- possible updates to other ordinances
+- 8.4 Strategic Plan – We will review the draft during the October 19 budget workshop
+- 8.5 Main Street Live – The Geotech and survey are in progress
+- 8.7 Water Restrictions – Water restrictions lifted October 1
+
+## [hugo#4] 2026-10-19 | City Council | agenda
+- PUBLIC COMMENT: Individuals may address the board during Public Comment. Items of a personal
+- nature may not be discussed; personnel-related matters shall be directed through the appropriate chain of
+- to engage in discussions or debate with any speaker. The board may direct staff to follow up with certain
+- 1. 2027 Budget Review and Workshop

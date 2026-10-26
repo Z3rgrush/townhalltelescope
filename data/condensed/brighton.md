@@ -1,0 +1,291 @@
+# brighton
+
+## [brighton#0] 2026-07-28 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Monthly Contract Listing - June 2026ID-224-266:00
+- Executed Contract Listing - June 2026Attachments:
+- City of Brighton, Colorado 2025 YE Audit Presentation
+- Temporary Sign Regulations Land Use Code AmendmentID-226-266:30
+- Draft Code Amendment Redlines
+- Draft PowerPoint Presentation
+- North 40th Avenue Construction ProjectID-221-267:15
+- North 40th Ave Construction_Presentation 2026 Council Study Session.pptxAttachments:
+- Avenue Roadway Construction
+- Presentation 40th Avenue - IGA with 27J.pptxAttachments:
+
+## [brighton#1] 2026-08-04 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Approval of the July 7, 2026 City Council MinutesID-229-26A
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, APPOINTING MEMBERS TO THE CITY OF BRIGHTON
+- 3. APPROVAL OF REGULAR AGENDA
+- 6. PUBLIC HEARINGS
+- COLORADO, APPROVING THE SECOND AMENDMENT TO SERVICE
+- PLAN FOR PRAIRIE CENTER METROPOLITAN DISTRICT NO. 7; AND
+- RESO Prairie Center Dist 7 2nd Amendment (1)
+- Prairie Center Metro District No. 7 Service Plan Second Amendment (Exhibit A to the Resolution)
+- Draft City Staff Presentation
+- 7. ORDINANCES FOR INITIAL CONSIDERATION
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, AMENDING SECTIONS OF ARTICLE 2-4 AND ARTICLE
+- 8. ORDINANCES FOR FINAL CONSIDERATION
+- 9. RESOLUTIONS
+- CORPORATION AND APPROVING THE PROCUREMENT OF THE
+- CONSTRUCTION OF THE NORTH 40TH AVENUE ROADWAY
+- SEGMENT FOR THE CONTRACT AMOUNT OF TWO MILLION SEVEN
+- DESIGNEE, TO EXECUTE THE CONTRACT ON BEHALF OF THE CITY
+- North 40th Ave Construction_Presentation 2026 Council Study Session.pptx
+- COLORADO, APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- EXECUTED by 27J IGA Concerning North 40th Avenue Construction Regional Detention Pond Construction Easements and Maintenance Agreement Dated 5 27 26.pdf
+- Presentation 40th Avenue - IGA with 27J.pptx
+
+## [brighton#2] 2026-08-11 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Land Use Scenarios for City-Owned Property on Bridge StreetID-240-266:30
+- Staff PowerPoint PresentationAttachments:
+- Comprehensive Plan Draft UpdateID-243-266:45
+- Comprehensive Plan 80% Draft
+- Staff PowerPoint Presentation
+- Consideration of Land Use and Development Code for Articles 1 and 11ID-242-267:45
+- Draft PowerPoint Presentation
+- Land Use and Development Code Article 10 AmendmentsID-241-268:15
+- LUDC Article 10 Amendments- SS Presentation_Final
+
+## [brighton#3] 2026-08-18 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Approval of the July 21, 2026 City Council MinutesID-234-26A
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- AMENDMENT TO THE CITY ATTORNEY EMPLOYMENT CONTRACT
+- RESO-26 CA Contract
+- CA Contract Exhibit
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, AMENDING SECTIONS OF ARTICLE 2-4 AND ARTICLE
+- 3. APPROVAL OF REGULAR AGENDA
+- 6. PUBLIC HEARINGS
+- COLORADO, APPROVING A ZONING MAP AMENDMENT FROM CASE
+- PARKS, COMPRISING APPROXIMATELY 232.1883 ACRES,
+- 1 Draft CC Ordinance (First Reading)
+- 1a Draft CC Ordinance (First Reading) Exhibit C
+- 3 Zoning Map Amendment by Applicant
+- 4 Planning Commission Resolution #26-09
+- 5 Neighboring Property Owner Notification
+- 11 Draft Staff Presentation CC
+- 7. ORDINANCES FOR INITIAL CONSIDERATION
+- COLORADO, AMENDING SECTIONS OF ARTICLE 2-33 OF THE
+- ORD 26 - Amending Sustainability Board Membership
+- 8. ORDINANCES FOR FINAL CONSIDERATION
+- 9. RESOLUTIONS
+
+## [brighton#4] 2026-08-18 | South Brighton General Improvement District | agenda
+- South Brighton General Improvement District
+- Any request for an interpreter must be made by 9:00 a.m. on the
+- 2. APPROVAL OF REGULAR AGENDA
+- Improvement District
+- Approval of the July 21, 2026 South Brighton General Improvement District
+- 4. RESOLUTIONS
+- A RESOLUTION OF THE SOUTH BRIGHTON GENERAL
+- IMPROVEMENT DISTRICT TO CERTIFY THE BALLOT CONTENT FOR
+
+## [brighton#5] 2026-08-25 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Study Session - Amended
+- Proposed 2027 and 2028 BudgetsID-248-26
+- 2027-2028 Proposed Budget - Final
+- 2027-2028 Proposed Budget Presentation - Corrected
+- Q2 2026 Budget and Financial UpdateID-249-26
+- Q2 2026 Financial Update Presentation
+- Q2 2026 Financial Update Presentation - Corrected
+
+## [brighton#6] 2026-09-01 | City Council | agenda
+- Civil Rights Act. Any request for an interpreter must be made
+- Approval of the August 4, 2026 City Council MinutesID-251-26A
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- BRIGHTON, COLORADO, APPOINTING SOPHIA IMPERIOLI AS A
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
+- BRIGHTON, COLORADO, APPROVING A ZONING MAP
+- AMENDMENT FROM CASE FARMS PUD TO THE FOLLOWING: R-2
+- OPEN SPACE AND PARKS, COMPRISING APPROXIMATELY
+- 1 Draft CC Ordinance (First Reading)
+- 1a Draft CC Ordinance (First Reading) Exhibit C
+- 3 Zoning Map Amendment by Applicant
+- 4 Planning Commission Resolution #26-09
+- 5 Neighboring Property Owner Notification
+- 11 Draft Staff Presentation CC
+- BRIGHTON, COLORADO, AMENDING SECTIONS OF ARTICLE 2-33
+- ORD 26 - Amending Sustainability Board Membership
+- 3. APPROVAL OF REGULAR AGENDA
+- 6. PUBLIC HEARINGS
+- 7. ORDINANCES FOR INITIAL CONSIDERATION
+- 8. ORDINANCES FOR FINAL CONSIDERATION
+- 9. RESOLUTIONS
+- COLORADO HOUSING AND FINANCE AUTHORITY OF THE
+- PRIVATE ACTIVITY BOND ALLOCATION OF THE CITY PURSUANT
+- TO THE COLORADO PRIVATE ACTIVITY BOND CEILING
+
+## [brighton#7] 2026-09-08 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Executed Contract Listing - July 2026ID-257-266:00
+- Executed Contract Listing - July 2026Attachments:
+- E-470 PresentationID-262-266:15
+- E-470 PresentationAttachments:
+- Edward Byrne Jag Grant AcceptanceID-255-266:45
+- Award_Details_FAW-191230
+- JAG Grant Flock Council Presentation 2025
+- 2016 Revenue Bond RefundingID-256-267:00
+- Presentation - 2016 Bond RefundingAttachments:
+- 2027 Rate and Fee ProposalID-261-267:15
+- Presentation - 2027 Rate and Fee ProposalAttachments:
+- Water Treatment Chemicals: Master Price Agreement AwardsID-258-267:45
+- MPA- WTP Chemicals Award- SS Presentation_FinalAttachments:
+- Policy regarding the Interview and Appointment Procedures for City Board,
+- Policy BC Appointments 2nd Revision 2026
+- Policy BC Appointments 2nd Revision 2026 Clean
+- Board and Commission Policy Amendments Presentation
+
+## [brighton#8] 2026-09-15 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Approval of the August 18, 2026 City Council MinutesID-260-26A
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, APPROVING ACCEPTANCE OF AN EDWARD BYRNE
+- MEMORIAL JUSTICE ASSISTANCE GRANT (JAG) AND AUTHORIZING
+- THE CHIEF OF POLICE TO SIGN THE JAG GRANT AGREEMENT AND
+- ANY OTHER PUBLIC SAFETY GRANT AGREEMENTS
+- RESO-26 Approving JAG Grant v2
+- Award_Details_FAW-191230
+- JAG Grant Flock City Council Presentation 2025
+- COLORADO, AWARDING A MASTER PRICE AGREEMENT TO UNIVAR
+- SOLUTIONS USA, LLC FOR THE SUPPLY AND DELIVERY OF WATER
+- EXECUTE THE MASTER PRICE AGREEMENT ON BEHALF OF THE
+- MPA- WTP Chemicals Award- CC Presentation_Final
+- COLORADO, AWARDING A MASTER PRICE AGREEMENT TO PVS
+- DX, INC. FOR THE SUPPLY AND DELIVERY OF WATER TREATMENT
+- THE MASTER PRICE AGREEMENT ON BEHALF OF THE CITY
+- 3. APPROVAL OF REGULAR AGENDA
+- 6. PUBLIC HEARINGS
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, AMENDING ARTICLES 1 AND 11 OF THE LAND USE
+- AND DEVELOPMENT CODE RELATING TO THE ADMINISTRATION OF
+- Draft City Council Ordinance
+- Planning Commission Resolution 26-12
+- City Staff Draft Presentation
+- COLORADO, APPROVING THE BROMLEY PARK PLANNED UNIT
+- DEVELOPMENT 38TH AMENDMENT FOR AN APPROXIMATELY
+- 76 FRONTAGE ROAD AND NORTH 60TH AVENUE, MORE
+- Proposed Planned Unit Development Amendment (Exhibit B to draft resolution)
+- Neighboring Area Property Owner Notification
+- Draft Staff Presentation
+- 7. ORDINANCES FOR INITIAL CONSIDERATION
+- BRIGHTON, COLORADO, WATER ACTIVITY ENTERPRISE REVENUE
+- REFUNDING BONDS, SERIES 2026
+- Bond Ordinance - 2026 Refunding Water Bonds
+- Presentation - Bond Refunding
+- 8. ORDINANCES FOR FINAL CONSIDERATION
+- 9. RESOLUTIONS
+- COLORADO, AMENDING THE CITY COUNCIL POLICY FOR THE
+- APPOINTMENT OF MEMBERS TO CITY BOARDS, COMMISSIONS,
+- RESO 26 Amending Board and Commission Appt Policy
+- Policy BC Appointments 2nd Revision 2026 v2 clean
+- Policy BC Appointments 2nd Revision 2026 v2
+
+## [brighton#9] 2026-10-06 | City Council | agenda
+- Civil Rights Act. Any request for an interpreter must be made
+- Approval of the September 1, 2026 City Council MinutesID-272-26A
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
+- BRIGHTON, COLORADO, AMENDING ARTICLES 1 AND 11 OF THE
+- LAND USE AND DEVELOPMENT CODE RELATING TO THE
+- Draft City Council Ordinance
+- Planning Commission Resolution 26-12
+- City Staff Draft Presentation
+- OF CITY OF BRIGHTON, COLORADO, WATER ACTIVITY
+- ENTERPRISE REVENUE REFUNDING BONDS, SERIES 2026 (FINAL
+- Bond Ordinance - 2026 Refunding Water Bonds
+- Presentation - Bond Refunding
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- BRIGHTON, COLORADO, APPROVING THE FILING OF AN
+- AMENDED COMPLAINT TO ADD ADDITIONAL DEFENDANTS IN THE
+- CONTAMINATION OF A CITY DRINKING WATER WELL
+- RESO_Approving Filing Complaints Opioids and WellAttachments:
+- BRIGHTON, COLORADO, APPOINTING LUCY BERSOZA AS A
+- MEMBER OF THE BRIGHTON HOUSING AUTHORITY TO FILL AN
+- BRIGHTON, COLORADO, APPOINTING CHARLES WESTRUM AS A
+- 3. APPROVAL OF REGULAR AGENDA
+- 6. PUBLIC HEARINGS
+- BRIGHTON, COLORADO, AMENDING ACCOUNTS IN CERTAIN
+- RESO 26 - 3rd Budget Amendment (1)
+- Third Amendment to the 2026 Budget
+- BRIGHTON, COLORADO, APPROVING THE BROMLEY PARK
+- PLANNED UNIT DEVELOPMENT 38TH AMENDMENT FOR AN
+- BOUND INTERSTATE 76 FRONTAGE ROAD AND NORTH 60TH
+- Proposed Planned Unit Development Amendment (Exhibit B to draft resolution)
+- Neighboring Area Property Owner Notification
+- Draft Staff Presentation
+- 7. ORDINANCES FOR INITIAL CONSIDERATION
+- PROCESSING, OR APPROVAL OF ANY APPLICATIONS TO THE
+- CITY OF BRIGHTON FOR ANY PERMITS, LICENSES, ZONING, OR
+- OTHER LAND USE WHERE A DATA CENTER IS A PROPOSED USE
+- ORD Data Center Moratorium 180 dayAttachments:
+- 8. ORDINANCES FOR FINAL CONSIDERATION
+- 9. RESOLUTIONS
+- RESO 26 - Assigning 179D Tax DeductionAttachments:
+
+## [brighton#10] 2026-10-13 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- 2027 Employee Benefit PresentationID-291-266:00
+- COB 2027 Employee Benefit PresentationAttachments:
+- Intergovernmental Agreement (IGA) between the City of Brighton and City
+- Thornton IGA Presentation
+- Cherry Meadows Pond Maintenance - SS Presentation_Final.pptxAttachments:
+- Lupton Meadows ESDC - SS Presentation_FinalAttachments:
+
+## [brighton#11] 2026-10-20 | City Council | agenda
+- Act. Any request for an interpreter must be made by 9:00 a.m. on
+- Approval of the September 15, 2026 City Council MinutesID-286-26A
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, APPROVING EMPLOYEE BENEFITS FOR 2027 AND
+- CONTRACT DOCUMENTS
+- RESO Approving 2027 Emp Benefits
+- COB_2027_Council_Presentation
+- COLORADO, APPROVING AN AMENDMENT WITH DHM DESIGN
+- PROJECT IN THE AMOUNT OF ONE HUNDRED SEVENTY THOUSAND
+- AMENDMENT ON BEHALF OF THE CITY
+- RESO 26 - Assigning 179D Tax DeductionAttachments:
+- AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
+- COLORADO, APPROVING THE BROMLEY PARK PLANNED UNIT
+- DEVELOPMENT 38TH AMENDMENT FOR AN APPROXIMATELY
+- 76 FRONTAGE ROAD AND NORTH 60TH AVENUE, MORE
+- Draft City Council Ordinance
+- Proposed Planned Unit Development Amendment (Exhibit B to draft resolution)
+- Neighboring Area Property Owner Notification
+- Draft Staff Presentation
+- Cherry Meadows Pond Maintenance - CC Presentation_Final
+- COLORADO, APPROVING CHANGE ORDER NO. 3 TO THE
+- CONTRACT WITH ENGINEERING ANALYTICS, INC. FOR THE LUPTON
+- MEADOW RESERVOIR DESIGN PROJECT IN THE AMOUNT OF ONE
+- DESIGNEE TO EXECUTE THE AMENDMENT ON BEHALF OF THE
+- Lupton Meadows ESDC - CC Presentation_Final
+- 3. APPROVAL OF REGULAR AGENDA
+- 6. ORDINANCES FOR FINAL CONSIDERATION
+- ACCEPTANCE, PROCESSING, OR APPROVAL OF ANY
+- APPLICATIONS TO THE CITY OF BRIGHTON FOR ANY PERMITS,
+- LICENSES, ZONING, OR OTHER LAND USE WHERE A DATA CENTER
+- ORD Data Center Moratorium amended10-6-26Attachments:
+- 7. PUBLIC HEARINGS
+- DEVELOPMENT 39TH AMENDMENT FOR AN APPROXIMATELY 5.92
+- BROMLEY BUSINESS PARKWAY, NORTHWEST OF THE
+- BURLINGTON NORTHERN SANTA FE RAILROAD, AND SOUTH OF
+- Planning Commission Resolution #26-14
+- Proposed Planned Unit Development Amendment (Exhibit B to the Ordinance)
+- COLORADO, CONCERNING AMENDMENTS TO SECTION 10.02 OF
+- THE LAND USE AND DEVELOPMENT CODE REGARDING THE
+- ORD 26 - Art. 10 Floodplain Amendments
+- 26-13 Section 10.02 LUDC Code Amendments_PC Signed
+- LUDC Article 10 Floodplain Amendments - Cc Presentation_Final
+- 8. ORDINANCES FOR INITIAL CONSIDERATION
+- 9. RESOLUTIONS
+- p.m. to Approve Brighton Urban Renewal Authority Board Appointments,
+- Recognition of the 2026 Brighton Civic Academy Graduates, 2027 Budget,
+- Mill Levy, 2027 Fees, Public Purpose Funds, East Ridge Addition PUD
+- Major Amendment, Parks and Open Space Land Use & Development
+- Code Amendments, Article 10 Land Use & Development Code
+- Amendment, Bromley Park PUD 39th Amendment, Lochbuie to Metro
+- Water Recovery Northern Treatment Plant Lift Station and Pipeline Project,

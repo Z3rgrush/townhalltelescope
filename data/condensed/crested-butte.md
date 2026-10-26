@@ -1,0 +1,77 @@
+# crested-butte
+
+## [crested-butte#0] 2026-08-04 | City Council | minutes
+- Public comments may be submitted at any time to the entire Council via email at
+- Corridor Plan Listening Session with Gunnison County
+- 7:02 APPROVAL OF AGENDA
+- Championships Special Event Application and Special Event Liquor Permit Closing
+- Elk Avenue from 2nd Street to 5th Street and 3rd Street, Alley to Alley on Sunday,
+- 3) (First Reading) Ordinance No. 11, Series 2026 - An Ordinance of the Crested Butte
+- Staff Contact: Housing Director Erin Ganser
+- members may request that an item be removed from Consent Agenda prior to the
+- Council’s vote. Items removed from the Consent Agenda will be considered under
+- 7:05 PUBLIC COMMENT
+- The public has the opportunity to comment during the public comment period at the
+- a similar topic. The public comment period is a time for the Council to listen to the
+- nor should the Council feel compelled to respond to the comments. If Council chooses
+- to discuss, discussion will be at the end of the Council meeting under “Other Business
+- 1) Regional Grant Program Approach Discussion - CEO Local IMPACT Accelerator
+- Grant Program
+- 7:30 2) Non-Primary Home Excise Tax - Draft Ballot Language and Resolution
+- 8:15 3) (First Reading) Ordinance No. 12, Series 2026 - An Ordinance of the
+- Crested Butte Town Council Repealing Appendix A and Amending Chapter 18 of the
+- 8:20 4) (First Reading) Ordinance No. 13, Series 2026 - An Ordinance of the
+- Staff Contact: Community Development Director Mel Yemma
+- 8:30 5) (First Reading) Ordinance No. 14, Series 2026 - An Ordinance of the Crested Butte Town
+- with Amendments to Chapter 16
+- 8:35 6) (First Reading) Ordinance No. 15, Series 2026 - An Ordinance of the Crested Butte Town
+- Council Repealing and Replacing the Official Zoning Map of the Town
+- 8:45 7) (First Reading) Ordinance No. 16, Series 2026 - An Ordinance of the Crested Butte Town
+- 9:05 DISCUSSION OF SCHEDULING FUTURE WORK SESSION TOPICS AND COUNCIL
+- Prepared By: Mel Yemma, AICP, Community Development Director
+- Subject: Work Session: Corridor Plan Listening Session with Gunnison County
+- Team for the Gunnison to Mt. Crested Butte Corridor Plan and Transportation Strategy (“Corridor
+- April 20, 2026: Council discussed "Requests for Inclusion in the MOU with Gunnison
+- County for the Corridor Plan"
+- June 15, 2026: Gunnison County Commissioners introduced the Corridor Plan process to
+- June 30, 2026: Gunnison County staff presented the plan's scope and process at the
+- July 6, 2026: Under "other business," Council asked to begin discussing the Town's key
+- values and priorities for the Corridor Plan
+- July 20, 2026: Town Council initiated discussion on key values and hopeful outcomes for
+
+## [crested-butte#1] 2026-08-17 | City Council | minutes
+- Public comments may be submitted at any time to the entire Council via email at
+- 6:00 JOINT WORK SESSION WITH THE BOARD OF ZONING AND
+- 7:02 APPROVAL OF AGENDA
+- 2) The People’s Fair Special Event Application Closing Elk Avenue from 2nd Street to
+- Street and 3rd Street from Alley to Alley on September 5 and 6, 2026
+- 3) Special Event Application for the Crested Butte Bazaar, Closing a Portion of the
+- Four-Way Parking Lot on Saturday, August 29, 2026, and Saturday, October 3, 2026
+- 4) Resolution No. 21, Series 2026 - A Resolution of the Town Council of the Town of
+- Crested Butte, Colorado, Updating the Fee Schedule for Consistency with the Revised
+- Staff Contact: Community Development Director Mel Yemma
+- members may request that an item be removed from Consent Agenda prior to the
+- Council’s vote. Items removed from the Consent Agenda will be considered under
+- 7:05 PUBLIC COMMENT
+- The public has the opportunity to comment during the public comment period at the
+- a similar topic. The public comment period is a time for the Council to listen to the
+- nor should the Council feel compelled to respond to the comments. If Council chooses
+- to discuss, discussion will be at the end of the Council meeting under “Other Business
+- 7:20 PUBLIC HEARING
+- 1) (Second Reading) Ordinance No. 11, Series 2026 - An Ordinance of the Crested
+- Staff Contact: Housing Director Erin Ganser
+- 7:25 2) (Second Reading) Ordinance No. 12, Series 2026 - An Ordinance of the
+- Crested Butte Town Council Repealing Appendix A and Amending Chapter 18 of the
+- 7:30 3) (Second Reading) Ordinance No. 13, Series 2026 - An Ordinance of the Crested Butte Town
+- 7:35 4) (Second Reading) Ordinance No. 14, Series 2026 - An Ordinance of the Crested Butte Town
+- with Amendments to Chapter 16
+- 7:40 5) (Second Reading) Ordinance No. 15, Series 2026 - An Ordinance of the Crested Butte Town
+- Council Repealing and Replacing the Official Zoning Map of the Town
+- 7:45 6) (Second Reading) Ordinance No. 16, Series 2026 - An Ordinance of the Crested Butte Town
+- 1) Resolution No. 22, Series 2026 - A Resolution of the Town Council of
+- the Town of Crested Butte, Colorado, Calling an Election on November 3, 2026, and Certifying
+- 8:50 2) Resolution No. 20, Series 2026 - A Resolution of the Crested Butte Town Council Adopting
+- Intergovernmental Agreement with the Gunnison County Clerk and Recorder Concerning the
+- 8:55 3) 2027 Budget Advisory Committee - Council Direction and Recommended Path Forward
+- 9:25 DISCUSSION OF SCHEDULING FUTURE WORK SESSION TOPICS AND COUNCIL
+- Thru: Mel Yemma, AICP, Community Development Director

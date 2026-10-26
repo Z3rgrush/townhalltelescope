@@ -1,0 +1,414 @@
+# lakewood
+
+## [lakewood#0] 2026-08-03 | City Council | agenda
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – PRESENTATIONS
+- 3B NEIGHBORHOOD PARKING PILOT PROJECT
+
+## [lakewood#1] 2026-08-03 | City Council | agenda
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – PRESENTATIONS
+- 3B NEIGHBORHOOD PARKING PILOT PROJECT
+- BUDGETARY IMPACTS: None
+- be considered by the Lakewood City Council
+- SUMMARY STATEMENT: Public Works staff will discuss recommended modifications to the current
+- traffic-calming policy and updates since the last presentation to City Council on this topic in
+- The City of Lakewood has been working to make our streets safer and more comfortable for everyone
+- to managing vehicle speeds in neighborhoods and on minor collector roads. Since 1994, Lakewood
+- policy to prioritize streets where the average speed exceeds the posted speed limit, following national
+- guidance from the Institute of Transportation Engineers (ITE). After the City modified local streets to
+- research has advanced, so have potential strategies. Based on recent studies and collaboration with
+- on local streets to focus resources on minor collectors
+- Additional speed cushion locations were identified and letters to adjacent residents were mailed
+- Staff are working with West Metro Fire District (WMFD) on speed cushions, vertical islands to create
+- a narrow roadway feel and enhanced pedestrian crossings on Mississippi east of Pierce. This dialog
+- highest-used roadways
+- support the pedestrian and bike route portion of the plan
+- Staff are also finalizing a plan for speed cushions on Harlan by Deane Elementary and Ray Ross
+- Park. The City will be mailing residents in this area after discussions with WMFD
+- BUDGETARY IMPACTS: There is no specific budget impact as a result of this discussion. If we
+- move forward with both speed humps on local streets and traffic-calming measures on collector
+- roadways, we will need to increase the budget to fund both programs adequately
+- prioritize funding to the streets that need it more. Most local street speed limits are 20 mph, so
+- Decrease speed hump spacing to allow 400 feet, or slightly less, between humps. The spacing
+- distance is currently set at 700 feet and is limited to only one speed hump per block
+- Increase the maximum threshold for vehicular volumes on local streets from 3,000 vehicles per
+- Change to an allocated budget instead of a set number of speed humps (25) to allow for
+- Revise funding contributions either to a scaled rate based on census track demographics or to
+- others. The allocated budget would limit how many speed humps could be installed in a year
+
+## [lakewood#2] 2026-08-10 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM C. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – FIRST READING ORDINANCES
+- ITEM A. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
+- ANNUAL BUDGET IN THE AMOUNT OF $225,000 IN THE GENERAL
+- ITEM 5 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 7 – – SECOND READING ORDINANCES
+- ITEM A. – O-2026-24 – AMENDING CHAPTER 2.54 OF THE LAKEWOOD
+- AUTHORIZING A VOTER-APPROVED AMENDMENT TO SECTION 2.6
+- CERTIFICATION OF THE ELECTION RESULTS, AND ADOPTING THE
+- RECEIVING VOTER APPROVAL TO REPEAL AND REPLACE SECTION
+- INCREASE IN PROPERTY TAXES BE APPROVED BY A VOTE OF THE
+- ELECTORATE, AND ADOPTING THE BALLOT TITLE THEREFOR
+- AUTHORIZING VOTER-APPROVED AMENDMENTS TO THE CITY’S
+- ITEM 8 – – RESOLUTIONS
+- 8A APPROVING PARTICIPATION BY THE CITY OF LAKEWOOD IN A
+- ITEM A. – GENERAL PUBLIC COMMENT
+- 9B CITY COUNCIL REQUEST
+
+## [lakewood#3] 2026-08-10 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM C. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – FIRST READING ORDINANCES
+- ITEM A. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
+- ANNUAL BUDGET IN THE AMOUNT OF $225,000 IN THE GENERAL
+- ITEM 5 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 7 – – SECOND READING ORDINANCES
+- ITEM A. – O-2026-24 – AMENDING CHAPTER 2.54 OF THE LAKEWOOD
+- AUTHORIZING A VOTER-APPROVED AMENDMENT TO SECTION 2.6
+- CERTIFICATION OF THE ELECTION RESULTS, AND ADOPTING THE
+- RECEIVING VOTER APPROVAL TO REPEAL AND REPLACE SECTION
+- INCREASE IN PROPERTY TAXES BE APPROVED BY A VOTE OF THE
+- ELECTORATE, AND ADOPTING THE BALLOT TITLE THEREFOR
+- AUTHORIZING VOTER-APPROVED AMENDMENTS TO THE CITY’S
+- ITEM 8 – – RESOLUTIONS
+- 8A APPROVING PARTICIPATION BY THE CITY OF LAKEWOOD IN A
+- ITEM A. – GENERAL PUBLIC COMMENT
+- 9B CITY COUNCIL REQUEST
+- BUDGETARY IMPACTS: None
+- be considered by the Lakewood City Council
+- From: Travis Parker, Chief of the Sustainability & Community Development Branch
+- Subject: Amending Chapter 5.29 - Hauler Licensing
+- Adding missing definitions and amending existing definitions, particularly those that clarify the
+- Outlining how license applications are reviewed and the process for approvals and denials
+- Establishing license fees in Rules & Regulations instead of embedding in the code
+- Establishing a framework for enforcement of noncompliance which includes a hearing and
+- Sustainability Advisory Committee Meeting Presentations from(Jan 2026-May 2026)
+- 2. Await a future set of brief rules and regulations which will set a reasonable hauler license fee
+- compost tonnage and participation rates which are key to tracking progress toward the
+- community-wide Zero Waste goal established in Comprehensive Plan, Envision Lakewood
+- always be slightly out of date and identifying and bringing non-licensed haulers into
+- in Lakewood and therefore broader community engagement was not appropriate. City staff conducted
+- The proposed code was reviewed and discussed by Lakewood’s Sustainability Advisory
+- ATTACHMENTS: 1. Ordinance O-2026-30
+- AN ORDINANCE
+- AN ORDINANCE TO REPEAL AND REPLACE CHAPTER 5.29 OF THE LAKEWOOD
+- WHEREAS, waste haulers within the City of Lakewood (the “City”) generate
+- significant traffic on City roads and State highways through their hauling activities,
+
+## [lakewood#4] 2026-08-24 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- 3D PRESENTATION FROM THE LAKEWOOD ADVISORY COMMISSION
+- ITEM E. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – FIRST READING ORDINANCES
+- COLORADO WILDFIRE RESILIENCY CODE, 2025 EDITION, WITH
+- DELETIONS AND AMENDMENTS, AND FURTHER ADOPTING THE
+- CORRESPONDING 2025 COLORADO WILDFIRE RESILIENCY CODE
+- ITEM 5 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ITEM 6 – RESOLUTIONS
+- ITEM A. – CITY MANAGER CONTRACT
+- ITEM B. – R-2026-58 – RESOLUTION FOR SALES TAX BALLOT QUESTION
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 7 – – SECOND READING ORDINANCES
+- THE 2026 ANNUAL BUDGET IN THE AMOUNT OF $225,000 IN THE
+- ITEM B. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
+- 8A CITY COUNCIL REQUEST
+
+## [lakewood#5] 2026-09-14 | City Council Study Session | agenda
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – PRESENTATION OF THE REVISED 2026 AND PROPOSED 2027 CITY
+
+## [lakewood#6] 2026-09-14 | General | agenda
+- How to Connect to Provide Public Comment:
+- Press *9 to Request to Speak, you will be prompted when to speak
+- as far in advance as possible so we can accommodate your request
+- ITEM 3 – APPROVAL OF LRA MEETING MINUTES
+- ITEM 4 – PRESENTATION OF THE LAKEWOOD REINVESTMENT AUTHORITY
+- (LRA) REVISED 2026 AND PROPOSED 2027 BUDGET
+
+## [lakewood#7] 2026-09-14 | General | agenda
+- How to Connect to Provide Public Comment:
+- Press *9 to Request to Speak, you will be prompted when to speak
+- as far in advance as possible so we can accommodate your request
+- ITEM 3 – APPROVAL OF LRA MEETING MINUTES
+- ITEM 4 – PRESENTATION OF THE LAKEWOOD REINVESTMENT AUTHORITY
+- (LRA) REVISED 2026 AND PROPOSED 2027 BUDGET
+- From: Will Chan, Economic Development Director & LRA Executive Director
+- Subject: LRA Revised 2026 and Proposed 2027 Budget
+- Authority's proposed budget and revised 2026 budget to the LRA Board of Commissioners
+- BACKGROUND INFORMATION: The 2027 proposed LRA budget document has been distributed to
+- BUDGETARY IMPACTS: There is no budget impact associated with this presentation as the session
+- is used to provide proposed budgetary information and address questions
+- provided budget document and provide any specific questions in advance, so thoughtful answers may
+- ALTERNATIVES: The Chairman and Board of Commissioners may delay or forgo this presentation
+- State Urban Renewal Law, from projected revenues or reserve funds on hand
+- NEXT STEPS: Staff will present the proposed 2027 LRA budget and 2026 revised LRA budget and
+- seek approval at the October 19, 2026 LRA meeting
+
+## [lakewood#8] 2026-09-21 | City Council | agenda
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – Presentation Regarding Automated License Plate Readers
+
+## [lakewood#9] 2026-09-21 | City Council | agenda
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3 – Presentation Regarding Automated License Plate Readers
+- From: Phillip Smith, Chief of Police
+- Subject: Automated License Plate Readers
+- SUMMARY STATEMENT: The Lakewood Police Department has used Automated License Plate
+- Recognition (ALPR) technology in various forms since 2010 and currently operates 17 fixed ALPR
+- criminal investigations, the recovery of stolen property, the identification of offenders, and the location
+- on ALPR technology. In this presentation, staff will provide approaches to the use of ALPR cameras
+- City Council to review Lakewood’s current use of ALPR technology, consider whether additional
+- safeguards are appropriate, and allow them to discuss the relationship between the City’s proposed
+- Automated Vehicle Identification System (AVIS) and the existing ALPR
+- currently operates 17 fixed Flock Safety cameras that capture still images of vehicles. None of these
+- surveillance, or operate as mobile units. The system records license plates and general vehicle
+- Initial implementation of the current ALPR system and the first year of the agreement were funded
+- through a federal Edward Byrne Memorial Justice Assistance Grant (JAG). Subsequent annual costs
+- have been paid from the Police Department budget. The City’s current subscription agreement for the
+- January 2027 but can be terminated at any time. The agreement was executed administratively under
+- license plate, date, time, camera location, and general vehicle characteristics such as make, model,
+- color, body type, and distinguishing features. The cameras do not capture or identify faces, employ
+- The system compares observed plates against authorized law-enforcement information, including
+- CCIC and NCIC hot lists, and may generate an alert for authorized personnel. Authorized users may
+- also search for stored observations using a license plate or general vehicle characteristics as part of
+- ALPR information is an investigative lead. It does not identify the driver, establish guilt, or
+- independently justify enforcement action. PP-9126 prohibits a traffic stop based solely on an ALPR
+- alert and requires personnel to confirm the plate and underlying CCIC or NCIC information before
+- approved non-sworn employees of Lakewood whose assignments require use of the system. Each
+- Lakewood affirmatively selects the agencies permitted to search for information generated by its
+
+## [lakewood#10] 2026-09-28 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- 3C RECOGNIZING THE 2026 MAYOR’S INSPIRATION AWARD
+- 3D MEETING RECESS FOR MAYOR'S INSPIRATION AWARDS
+- ITEM B. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 5 – – RESOLUTIONS
+- ITEM A. – R-2026-59 – APPOINTING MEMBERS TO THE LAKEWOOD ADVISORY
+- ITEM B. – R-2026-60 – APPOINTING A MEMBER OF THE PLANNING
+- ITEM C. – R-2026-61 – APPROVING THE 2027 BUDGET FOR THE ALAMEDA
+- CORRIDOR BUSINESS IMPROVEMENT DISTRICT (BID)
+- ITEM D. – R-2026-62 – APPROVING THE 2027 BUDGET FOR THE LAKEWOOD
+- WEST COLFAX BUSINESS IMPROVEMENT DISTRICT (BID)
+- ITEM E. – R-2026-63 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- EDGEWATER, THE CITY OF GOLDEN, THE TOWN OF MOUNTAIN
+- ITEM F. – R-2026-64 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- EDGEWATER, THE CITY OF GOLDEN, THE CITY OF WESTMINSTER,
+- ITEM G. – R-2026-65 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- ITEM 6 – – FIRST READING ORDINANCES
+- ITEM A. – O-2026-32 – AUTHORIZING THE PURCHASE OF REAL PROPERTY
+- LOCATED AT 1081 VANCE STREET, LAKEWOOD, COLORADO FOR
+- MUNICIPAL OPEN SPACE AND PARK PURPOSES, INCLUDING
+- ITEM 7 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ITEM 9 – RESOLUTIONS NOT ON CONSENT AGENDA
+- ITEM A. – A RESOLUTION AMENDING RESOLUTION R-2026-6, TO REVISE THE
+- ESTABLISHMENT OF A PERMANENT POLICE COMMITTEE THAT
+- ITEM B. – R-2026-67 – APPOINTING A MEMBER OF THE AD-HOC COMMITTEE TO
+- WORK TOWARD THE ESTABLISHMENT OF A PERMANENT POLICE
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 10 – – SECOND READING ORDINANCES
+- WILDFIRE RESILIENCY CODE, 2025 EDITION, WITH DELETIONS
+- AND AMENDMENTS, AND FURTHER ADOPTING THE
+- CORRESPONDING 2025 COLORADO WILDFIRE RESILIENCY
+- ITEM A. – PUBLIC COMMENT
+
+## [lakewood#11] 2026-09-28 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- 3C RECOGNIZING THE 2026 MAYOR’S INSPIRATION AWARD
+- 3D MEETING RECESS FOR MAYOR'S INSPIRATION AWARDS
+- ITEM B. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 5 – – RESOLUTIONS
+- ITEM A. – R-2026-59 – APPOINTING MEMBERS TO THE LAKEWOOD ADVISORY
+- ITEM B. – R-2026-60 – APPOINTING A MEMBER OF THE PLANNING
+- ITEM C. – R-2026-61 – APPROVING THE 2027 BUDGET FOR THE ALAMEDA
+- CORRIDOR BUSINESS IMPROVEMENT DISTRICT (BID)
+- ITEM D. – R-2026-62 – APPROVING THE 2027 BUDGET FOR THE LAKEWOOD
+- WEST COLFAX BUSINESS IMPROVEMENT DISTRICT (BID)
+- ITEM E. – R-2026-63 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- EDGEWATER, THE CITY OF GOLDEN, THE TOWN OF MOUNTAIN
+- ITEM F. – R-2026-64 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- EDGEWATER, THE CITY OF GOLDEN, THE CITY OF WESTMINSTER,
+- ITEM G. – R-2026-65 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- ITEM 6 – – FIRST READING ORDINANCES
+- ITEM A. – O-2026-32 – AUTHORIZING THE PURCHASE OF REAL PROPERTY
+- LOCATED AT 1081 VANCE STREET, LAKEWOOD, COLORADO FOR
+- MUNICIPAL OPEN SPACE AND PARK PURPOSES, INCLUDING
+- ITEM 7 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ITEM 9 – RESOLUTIONS NOT ON CONSENT AGENDA
+- ITEM A. – A RESOLUTION AMENDING RESOLUTION R-2026-6, TO REVISE THE
+- ESTABLISHMENT OF A PERMANENT POLICE COMMITTEE THAT
+- ITEM B. – R-2026-67 – APPOINTING A MEMBER OF THE AD-HOC COMMITTEE TO
+- WORK TOWARD THE ESTABLISHMENT OF A PERMANENT POLICE
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 10 – – SECOND READING ORDINANCES
+- WILDFIRE RESILIENCY CODE, 2025 EDITION, WITH DELETIONS
+- AND AMENDMENTS, AND FURTHER ADOPTING THE
+- CORRESPONDING 2025 COLORADO WILDFIRE RESILIENCY
+- ITEM A. – PUBLIC COMMENT
+- BUDGETARY IMPACTS: None
+- be considered by the Lakewood City Council
+- Subject: Mayor's Inspiration Awards
+- Mayor’s Inspiration Award
+- BACKGROUND INFORMATION: The Mayor’s Inspiration Award’s inaugural year was 2017. The
+- important to Lakewood, recommended the creation of the award to acknowledge those having a
+- significant impact in the community. The awards program is also carrying forward the values of the
+- All-America City Award that Lakewood has won in 2016 and 2011 by recognizing contributions in
+- Due to the COVID-19 pandemic, there was no 2020 Mayor’s Inspiration Awards process
+- Bruce and Stormy McDonald
+- BUDGETARY IMPACTS: This is no significant budget impact associated with the recognition of
+
+## [lakewood#12] 2026-10-12 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3E. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – RESOLUTIONS
+- ITEM 4A. – R-2026-68 – SUPPORTING LW BALLOT ISSUE 2G - 0.5% SALES TAX
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 6 – SECOND READING ORDINANCES
+- ITEM 6A. – O-2026-32 – AUTHORIZING THE PURCHASE OF REAL PROPERTY
+- LOCATED AT 1081 VANCE STREET, LAKEWOOD, COLORADO FOR
+- MUNICIPAL OPEN SPACE AND PARK PURPOSES, INCLUDING
+- ITEM 7A. – PUBLIC COMMENT
+
+## [lakewood#13] 2026-10-12 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM 3E. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – RESOLUTIONS
+- ITEM 4A. – R-2026-68 – SUPPORTING LW BALLOT ISSUE 2G - 0.5% SALES TAX
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 6 – SECOND READING ORDINANCES
+- ITEM 6A. – O-2026-32 – AUTHORIZING THE PURCHASE OF REAL PROPERTY
+- LOCATED AT 1081 VANCE STREET, LAKEWOOD, COLORADO FOR
+- MUNICIPAL OPEN SPACE AND PARK PURPOSES, INCLUDING
+- ITEM 7A. – PUBLIC COMMENT
+- survival rate is as high as 99%, underscoring the importance of regular
+- 15th to recognize and celebrate the heritage, history, traditions, and
+- a Spanish-speaking nation. Latino identifies the community with ancestry
+- which celebrates family, resilience, creativity, faith, and service, and honors
+- CONSIDERANDO que, el Congreso de los Estados Unidos ha designado el periodo
+- CONSIDERANDO que, existen diversas etiquetas para describir a la población;
+- con ascendencia de un país de habla hispana. Latino identifica a la
+- CONSIDERANDO que, la Oficina del Censo de los Estados Unidos estima que la
+- CONSIDERANDO que, a lo largo de la historia, los líderes hispanos y latinés han
+- CONSIDERANDO que, de acuerdo con el tema nacional de 2026, «Juntos somos
+- Subject: SUPPORTING LW BALLOT ISSUE 2G - 0.5% SALES TAX INCREASE
+- SUMMARY STATEMENT: Through this Resolution of Support, the Lakewood City Council
+- November 3, 2026, for the purpose of authorizing a voter-approved revenue change of one-half of a
+- percent of sales tax to allow the City of Lakewood to provide greater funding for public safety and
+- BACKGROUND INFORMATION: The City Council for the City of Lakewood (the “City”) is permitted
+- to pass a Resolution taking a position of advocacy on a local ballot issue as authorized by Section
+- On August 24, 2026, the City Council adopted Resolution 2026-58, to submit Ballot Issue 2G to the
+- If approved, Ballot Issue 2G would authorize an increase in the City’s sales and use tax rate from
+- 3.01.430(G) of the Lakewood Municipal Code, exempt from the additional one-half percent tax, and
+- with all resulting revenue dedicated to public safety purposes and traffic safety improvements
+- The City Council has identified public and traffic safety as a community priority, including investments
+- in crime prevention, homelessness response, and other strategies supporting safer streets for
+
+## [lakewood#14] 2026-10-26 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM E. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – RESOLUTIONS
+- ITEM A. – R-2026-72 – ESTABLISHING PROJECTS AND PROJECT FUNDING
+- LEVELS FOR THE 2026 CAPITAL IMPROVEMENT AND PRESERVATION
+- CITY’S AFFORDABLE HOUSING STOCK BY THREE PERCENT (3%)
+- ITEM C. – R-2026-74 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- ITEM 5 – – ORDINANCES ON FIRST READING
+- ITEM A. – O-2026-33 – TO REZONE LAND LOCATED AT 2555 S. KIPLING ST.,
+- ITEM B. – O-2026-34 – TO REZONE LAND LOCATED AT 7201 W. MANSFIELD
+- ITEM 6 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 9 – PUBLIC COMMENT
+- 10A CITY COUNCIL REQUESTS
+
+## [lakewood#15] 2026-10-26 | City Council | agenda
+- 480 S. ALLISON PARKWAY
+- advance as possible so we can accommodate your request
+- How to Connect to Provide Public Comment: Online participants may post written
+- comments of any length to LakewoodSpeaks.org, an online forum for public comments
+- ITEM E. – INITIAL PUBLIC COMMENT
+- ORDINANCES ON FIRST READING
+- ITEM 4 – – RESOLUTIONS
+- ITEM A. – R-2026-72 – ESTABLISHING PROJECTS AND PROJECT FUNDING
+- LEVELS FOR THE 2026 CAPITAL IMPROVEMENT AND PRESERVATION
+- CITY’S AFFORDABLE HOUSING STOCK BY THREE PERCENT (3%)
+- ITEM C. – R-2026-74 – APPROVING AN INTERGOVERNMENTAL AGREEMENT
+- ITEM 5 – – ORDINANCES ON FIRST READING
+- ITEM A. – O-2026-33 – TO REZONE LAND LOCATED AT 2555 S. KIPLING ST.,
+- ITEM B. – O-2026-34 – TO REZONE LAND LOCATED AT 7201 W. MANSFIELD
+- ITEM 6 – APPROVING MINUTES OF THE CITY COUNCIL MEETINGS
+- ORDINANCES ON SECOND READING
+- AND PUBLIC HEARINGS
+- ITEM 9 – PUBLIC COMMENT
+- 10A CITY COUNCIL REQUESTS
+- BUDGETARY IMPACTS: None
+- be considered by the Lakewood City Council
+- survival rate is as high as 99%, underscoring the importance of regular
+- WHEREAS, the City of Lakewood celebrates our local small businesses and the
+- From: Travis Parker, Chief of the Sustainability & Community Development Branch
+- SUMMARY STATEMENT: Staff is requesting that City Council approve the recommended projects
+- identified in Table 2 for funding in the 2026 Neighborhood Participation Program year
+- City Council in 1992 as part of the Five-Year Capital Improvement and Preservation Program (CIPP)
+- Applications are accepted once a year and compete directly for funding with others received for that
+- year. The application process is divided into two phases: pre-applications and final applications
+- During the pre-application phase, neighborhood groups submit brief project proposals to ensure that
+- their projects meet the program criteria. If a project is eligible, the neighborhood group is invited to
+- submit a final application, which is more comprehensive. In 2026, pre-applications were accepted from
+- March 1st to May 1st and final applications were accepted until July 1st
+- The intent of the Neighborhood Participation Program is to encourage neighborhood groups to identify
+- unmet needs in their immediate neighborhood and propose projects that qualify for funding under this
+- program. These projects are usually small and might not otherwise be addressed as a priority item in
+- the CIPP. One hundred and seventy-six (176) projects have been selected for the program since its
+- inception. Many different types of neighborhood projects have been completed through this program
+- including playground improvements, public art installations and community gardens

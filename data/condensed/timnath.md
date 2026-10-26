@@ -1,0 +1,309 @@
+# timnath
+
+## [timnath#0] 2026-07-28 | Timnath Landing General Improvement District Board | agenda
+- Timnath Landing General Improvement
+- 2. AMENDMENTS TO THE AGENDA
+- 3. PUBLIC COMMENT
+- 4.a. Approval of the December 9, 2025, Timnath Landing GID Board Meeting
+- Timnath Landing General Improvement District Board - 09 Dec 2025
+- 5.a. RESOLUTION NO. GID-01, SERIES 2026, A Resolution Accepting the
+- Improvement District Board Meeting
+- Clerk/Deputy Town Clerk Lizzie Alipaz, Contracted Town Attorney
+- Development Director Scott Robinson, Principal Planner Logan Graves,
+- Senior Planner Chad Kemper, Parks and Rec Director Tom Casal, and
+- b AMENDMENTS TO THE AGENDA
+- c PUBLIC COMMENT
+- a) Approval of the November 18, 2025, Timnath Landing GID Meeting Minutes
+- b) RESOLUTION NO. GID-07, SERIES 2025, A Resolution Approving a Second
+- Supplement to Intergovernmental Agreement Regarding Funds for the Timnath
+- Landing General Improvement District
+- Mayor Pro Tem Luke Wagner made a motion to approve the consent agenda
+- e PUBLIC HEARINGS
+- a) ORDINANCE GID-1-An Ordinance Authorizing the Issuance and Sale of the
+- District's Limited Tax General Obligation Bonds, Series 2026A and Subordinate
+- Limited Tax General Obligation Bonds, Series 2026B
+- Ms. Gagliardi presented the ordinance
+- Ms. Gagliardi presented the resolution. Ms. Gagliardi introduced Melissa
+- Town Bond Counsel with Butler Snow
+- The Public Hearing opened at 8:49 PM
+- The Public Hearing closed at 8:49 PM
+- Melissa Buck ratified that those costs are very typical for this type of
+- Mayor Pro Tem Luke Wagner made a motion to approve RESOLUTION NO
+- GID-1, SERIES 2025, An Ordinance Authorizing the Issuance and Sale of the
+- Limited Tax General Obligation Bonds, Series 2026B. Councilmember
+- b) RESOLUTION NO. GID-08, SERIES 2025, A Resolution Summarizing
+- Expenditures and Revenues for Each Fund and Adopting a Budget and
+- Ms. Gagliardi presented the resolution
+- The Public Hearing opened at 8:57 PM
+- The Public Hearing closed at 8:57 PM
+- GID-08, SERIES 2025, A Resolution Summarizing Expenditures and
+- Revenues for Each Fund and Adopting a Budget and Appropriating Sums of
+- a) RESOLUTION NO. GID-09, SERIES 2025, A Resolution Approving Advance
+- and Reimbursement Agreement with CAC Timnath, LLC
+- Ms. Steffl presented the resolution
+- GID-09, SERIES 2025, A Resolution Approving Advance and Reimbursement
+- Agreement with CAC Timnath, LLC. Councilmember Bill Jenkins seconded the
+- TITLE / SUBJECT: A Resolution Accepting the
+- A Resolution Accepting the 2025 GID Audit Performed by The Adams Group, LLC
+- The Timnath Landing General Improvement District’s (District) financial statements for
+- Staff recommends acceptance of the 2025 audit report and approval of the related
+
+## [timnath#1] 2026-08-19 | PROST Committee | agenda
+- 4800 Goodman Street, Timnath, Colorado
+- 2. AMENDMENTS TO THE AGENDA
+- 3. PUBLIC COMMENT
+-  Each speaker will be allowed to speak one time during public comment
+- for general and non-public hearing agenda items. General public
+- hearing. Each speaker may only speak on each topic one time during a
+- meeting. If there are two items scheduled for a public hearing, they
+- intended for the Committee should be provided to the Parks and
+- 5.c. Timnath Community Park Entrance
+- 5.d. Peanut Park Update
+- 7. DISCUSSION AND FUTURE AGENDA ITEMS
+- 4800 Goodman Street, Timnath
+- Member Delaney Harrington, Parks and Rec Coordinator Fiona Bump
+- STAFF: Parks & Rec Admin Stéph Hamill, Parks and Rec Director Tom Casal, and
+- Parks and Rec Program Supervisor Britt Moos
+- 2 AMENDMENTS TO THE AGENDA
+- 3 PUBLIC COMMENT
+- Each speaker will be allowed to speak one time during public comment for general
+- and non-public hearing agenda items. General public comment should not be used to
+- speak on an item that has a public hearing. Each speaker may only speak on each
+- topic one time during a meeting. If there are two items scheduled for a public hearing,
+- should be provided to the Parks and Recreation Administrative Technician
+- a) Approval of the April 6, 2026 PROST Meeting Minutes
+- Councilmember Holt moved to approve the April 6, 2026, Meeting Minutes
+- a) Parks and Rec Staff Reports
+- session is projected to have even higher attendance than the first and includes
+- Jerseys are being stocked at 4800 Goodman Street building. Universal jerseys
+- will be used across all sports and are included in the registration fee
+- A kayak kiosk was installed April 27 and has received great feedback. The self
+- Youth Development programming has seen an increase in registrations,
+- Field reservations continue to be in high demand. Resident requests are being
+- prioritized while staff continue to accommodate other requests as availability
+- a) Timnath Ranch North Park
+- overview of the master planning process for Peanut Park, also known as Timnath
+- Ranch North Park
+- poll to gauge resident and attendee interest in potential amenities for the park
+- Mr. Friesen also discussed project challenges, including drainage
+- considerations and the park's size. He highlighted opportunities presented by
+- Timnath. The discussion provided a realistic perspective on which amenities
+- c) Discuss future meeting schedule
+- d) Officer Positions discussions per bylaws
+- Mr. Casal discussed the composition of the previous Committee, including its
+- appointments to the Chair positions
+- 7 DISCUSSION AND FUTURE AGENDA ITEMS
+- Parks & Rec Administrative Technician
+
+## [timnath#2] 2026-08-25 | Timnath Town Council Work Session | agenda
+- leadership development, and performance management
+- The compensation study supports the Town of Timnath's Strategic Plan goal to attract,
+-  The project reviewed the Town’s defined market to confirm whether it continues
+- Graves will present its findings and recommendations, and staff plan to incorporate
+- recommendations in the budget
+
+## [timnath#3] 2026-09-22 | Timnath Town Council | agenda
+- purposes of discussing the purchase, acquisition, lease, transfer, or sale
+
+## [timnath#4] 2026-10-07 | PROST Committee | agenda
+- 4800 Goodman Street, Timnath, Colorado
+- 2. AMENDMENTS TO THE AGENDA
+- 3. PUBLIC COMMENT
+-  Each speaker will be allowed to speak one time during public comment
+- for general and non-public hearing agenda items. General public
+- hearing. Each speaker may only speak on each topic one time during a
+- meeting. If there are two items scheduled for a public hearing, they
+- intended for the Committee should be provided to the Parks and
+- 5.d. Budget Updates
+- 5.e. Project Updates
+- 6.a. Ayres and Associates - Draft Masterplan for Peanut Park
+- 7. DISCUSSION AND FUTURE AGENDA ITEMS
+- 4800 Goodman Street, Timnath,
+- STAFF: Parks & Rec Admin Stéph Hamill, Parks and Rec Director Tom Casal,
+- Parks and Rec Coordinator Fiona Bump, and Parks and Rec Program
+- 2 AMENDMENTS TO THE AGENDA
+- 3 PUBLIC COMMENT
+- Each speaker will be allowed to speak one time during public comment for
+- general and non-public hearing agenda items. General public comment should
+- not be used to speak on an item that has a public hearing. Each speaker may
+- scheduled for a public hearing, they should sign up for both items
+- Committee should be provided to the Parks and Recreation Administrative
+- The Rec Center project has completed schematic design, and information will be
+- development phase, the Town is working with Adolfson & Peterson Construction
+- and a third-party architectural firm to review the project and confirm that the
+- confirmed to be within the expected range, the project will move forward into
+- design development. The project is progressing well, and the team is excited about
+- its continued development
+- creating a direct connection. These improvements will be incorporated into the
+- PROST Master Plan
+- c) Timnath Community Park Entrance
+- The project is nearly complete, with a few additional trees remaining to be
+- A significant amount of flood irrigation was removed as part of the project,
+- making the area more water-efficient. Boulders have been strategically placed to
+- d) Peanut Park Update
+- finalize the proposed improvements. The five-year Capital Improvement Plan
+- currently includes $6 million in funding for the park next year; however, the
+- funding is not guaranteed until the budget is formally approved. Decisions will
+- need to be made regarding the scope and prioritization of the improvements, and
+- the project will need to be completed in phases. The Committee will assist in
+- determining what improvements should be included in each phase
+- requests continue to come in, and staff are doing their best to accommodate them
+- requests continuing at a steady pace
+- bag limits waived by Colorado Parks and Wildlife (CPW) and permits waived by
+
+## [timnath#5] 2026-10-13 | Timnath Town Council Work Session | agenda
+- 2.a. 2027 Budget Work Session
+- Strategic Plan Budget Allocations
+- 2027 Draft Budget
+- TITLE / SUBJECT: 2027 Budget Work Session
+- 2027 Budget Work Session
+- Attached you will find the 2027 draft budget including 5 year capital improvement and
+- cash flow projections for your review and discussion
+- 2026 Strategic Plan
+- Budget Allocation 15
+- Budget allocations include all expenditures from funds less transfers and debt service. Allocations represent
+- approximately 70% of the total budget. Strategic Plan updates will be reported quarterly beginning January 2027
+- Timnath is committed to creating an environment where every resident feels protected, supported, and able to thrive. This
+- mental wellbeing a natural part of life in Timnath. *Sustain a professional, community-rooted police department that builds
+- Budget Allocation
+- Satisfaction Rate (%)
+- Police Department Satisfaction Rate
+- Satisfaction Rate
+- 2026 Projected2027 Goal
+- professional development,
+- improvement to ensure
+- including clean water and
+- commercial identity that reflects the community’s character. *Protect, connect, and celebrate Timnath’s open spaces, wildlife
+- of total 2027 Budget
+- parks, trails, recreational
+- Support diverse housing
+- Planning Applications - Total Days in Review
+- a diversified, long-term financial strategy that ensures Timnath has the fiscal strength to deliver services today and invest
+- Website Engagement Rate
+- Fail Rate (%)
+- Turnover Rate (%)
+- Turnover Rate - (based on voluntary leave)
+- Turnover Rate
+- budget with adequate
+- gathering spaces, and an identity that residents and visitors can see and feel. *Establish and uphold distinctive, high-quality
+- design standards across all development and public spaces so that Timnath’s identity is visible, consistent, and unmistakably
+- Timnath residents together across ages and backgrounds, deepening the bonds that make this community home
+- Honor and celebrate
+- Engagement Rate (%)
+- Social Media Engagement Rate - All Channels
+- Engagement Rate
+- Total FY27 Budget Allocation
+- 2.1.1 Long-Range Operating Plan 8
+- 3.2 Parks and Recreation Fund 28
+- 3.4 Capital Improvement Fund 35
+- 3.7 Timnath Development Authority 39
+- 4.0 Capital Improvement Plan 41
+- 4.1 One Year Plan 42
+- 4.2 Multi-Year Plan 44
+- 4.3 Project Types 46
+- 5.0 Capital Projects 68
+- 5.1.7 Parking Lot Reconfiguration at PD 96
+- 5.1.8 Parks Maintenance Facilty 100
+- 5.3.2 Police Department Network upgrade 115
+- 5.3.4 Security Cameras at Timnath Community Park 119
+- 5.3.5 Upgrade A/V at Police Department 121
+- 5.4.4 Office Furniture Project - Records, Evidence, Executive Assistant Areas 130
+- 5.5 Parks and Recreation 138
+
+## [timnath#6] 2026-10-13 | Timnath Landing General Improvement District Board | agenda
+- Timnath Landing General Improvement
+- 2. AMENDMENTS TO THE AGENDA
+- 3. PUBLIC COMMENT
+- 4.a. Approval of the July 28, 2026, Timnath Landing GID Board Meeting
+- Timnath Landing General Improvement District Board - 28 Jul 2026
+- 5.a. First Reading and Setting a Public Hearing on October 27, 2026, at 6:00
+- p.m. for ORDINANCE NO. GID-01, SERIES 2026, An Ordinance
+- Authorizing the Issuance and Sale of the District's Limited Tax General
+- Obligation Bonds, Series 2026A and Subordinate Limited Tax General
+- Obligation Bonds, Series 2026B
+- General Improvement
+- Clerk/Deputy Town Clerk Lizzie Alipaz, Contracted Town Attorney
+- Development Director Scott Robinson, Parks and Rec Director Tom
+- Casal, Police Chief Laurie Scott, Planner II Troy Jones, Town Engineer
+- Vice Chair Wagner called the Timnath Landing General Improvement District Board
+- b AMENDMENTS TO THE AGENDA
+- There were no amendments to the agenda
+- c PUBLIC COMMENT
+- Vice Chair Wagner opened the meeting for public comments. No public comments
+- were made. A member of the public who approached the podium was identified as
+- a) Approval of the December 9, 2025, Timnath Landing GID Board Meeting
+- Director Bill Jenkins made a motion to approve the consent agenda
+- a) RESOLUTION NO. GID-01, SERIES 2026, A Resolution Accepting the 2025
+- disagreements with management, and any corrected or uncorrected
+- significant deficiencies had been identified
+- control testing covered invoice approvals, cash disbursements, and
+- Director Jeramie Holt made a motion to approve RESOLUTION NO. GID
+- 01, SERIES 2026, A Resolution Accepting the 2025 GID Audit Performed
+- TITLE / SUBJECT: An Ordinance Authorizing the
+- District's Limited Tax General
+- Obligation Bonds, Series
+- Limited Tax General Obligation
+- Bonds, Series 2026B
+- An Ordinance Authorizing the Issuance and Sale of the District's Limited Tax General
+- Obligation Bonds, Series 2026A and Subordinate Limited Tax General Obligation
+- This ordinance authorizes the issuance and sale of the Timnath Landing General
+- Improvement District's Limited Tax General Obligation Bonds (2026A) and Subordinate
+- Limited public finance will bonds The Tax Bonds Obligation General (2026B)
+- improvements as approved by district electors, reimburse the developer and the Town
+-  The ordinance authorizes two series of bonds (2026A and 2026B) to fund public
+- improvements, reimburse the developer, and cover issuance costs. This
+- ordinance was previously approved by the District Board in December 2025. A
+- new ordinance is needed to re-authorize given the extended timeframe
+-  District voters previously approved the issuance of debt and imposition of taxes
+
+## [timnath#7] 2026-10-13 | Timnath Town Council | agenda
+- 2. AMENDMENTS TO THE AGENDA
+- 4. PUBLIC COMMENT
+-  Each speaker will be allowed to speak one time during public comment for general and
+- non-public hearing agenda items. General public comment should not be used to
+- speak on an item that has a public hearing
+- two items scheduled for a public hearing, they should sign up for both items
+- discussion or for public hearings
+-  The consent agenda is used to approve several action items as a group with one vote
+-  Any council member may request that an item be removed from the consent agenda
+- for further discussion
+- 5.a. Approval of the September 22, 2026, Special Town Council Meeting
+- 5.b. Approval of the September 22, 2026, Town Council Meeting Minutes
+- 5.c. RESOLUTION NO. 58, SERIES 2026, A Resolution Approving
+- Amendment 1 to the Agreement with AP Mountain States LLC DBA
+- Project Construction Manager/General Contractor Services
+- Purchase Authorization
+- The method of discussion for the items below are as follows:
+-  Staff presentation (optional)
+-  Applicant presentation (if applicable)
+-  Council discussion
+- 7.a. RESOLUTION NO. 61, SERIES 2026, A Resolution Expressing Support
+- 7.b. RESOLUTION NO. 59, SERIES 2026, A Resolution Approving the
+- Contract to Buy and Sell Real Estate (Residential) at 4809 S. County
+- FE Updated Contract 4809 S. County Road 3F
+- FE Post-Closing Occupancy Agreement
+- 7.c. RESOLUTION NO. 60, SERIES 2026, A Resolution Approving the
+- Contract to Buy and Sell Real Estate (Commercial) at 4104 Main Street
+- 4104 Main Street Contract
+- 7.d. First Reading and Setting a Public Hearing on October 27, 2026, at 6:00
+- p.m. for ORDINANCE NO. 16, SERIES 2026, An Ordinance Amending
+- Municipal Code to Add Prohibition on New On-Site Wastewater
+- Treatment Systems and Graywater Treatment Works
+- 7.e. First Reading and Setting a Public Hearing on October 27, 2026, at 6:00
+- p.m. for ORDINANCE NO. 17, SERIES 2026, An Ordinance Adopting
+- Amendment 25 to the Timnath Land Use Code, which has been
+- Larimer County Flood Insurance Rate Maps and Flood Insurance Study
+- 7.f. First Reading and Setting a Public Hearing on October 27, 2026, at 6:00
+- p.m. for ORDINANCE NO. 18, SERIES 2026, An Ordinance Adopting
+- Amendment 26 to the Timnath Land Use Code, which has been
+- STAFF: Town Manager Aaron Adams, Contracted Town Attorney Carolyn Steffl,
+- Public Works Director Justin Stone, Community Development Director
+- Scott Robinson, Parks and Rec Director Tom Casal, Town Clerk Kaitlyn
+- discussing the purchase, acquisition, lease, transfer, or sale of any real,
+- Clerk/Deputy Town Clerk Lizzie Alipaz, Contracted Town Attorney
+
+## [timnath#10] 2026-10-24 | Timnath Town Council Quorum Notice | agenda
+- 4500 Weitzel Street, Timnath, Colorado
+
+## [timnath#11] 2026-10-24 | Timnath Planning Commission | agenda
+- 4500 Weitzel Street, Timnath, Colorado

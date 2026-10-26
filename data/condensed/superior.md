@@ -644,3 +644,85 @@
 - 6. Discussion Items
 - a. 2027 Work Plan
 - b. CAPS Resolution
+
+## [superior#32] 2026-10-26 | Town Council | agenda
+- c. Approval of Agenda
+- e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
+- Persons making public comment are asked to state your name and the city you
+- a. Advisory Committee Interviews for Parks and Recreation Advisory Committee
+- a. Approval of Council Meeting Minutes
+- c. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving an Agreement with Colorado Gives Foundation
+- d. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving Colorado Park and Wildlife (CPW) Trail Grant Submission
+- e. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving an Intergovernmental Agreement with Boulder County for
+- Housing Development to Implement Proposition 123
+- f. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving an Agreement with Make Philanthropy Work to be the Fundraising
+- Campaign Advisor for the Marshall Fire Remembrance Project
+- g. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving a Fourteenth Amendment to the Employment Agreement with
+- h. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving a Legal Services Agreement with Hoffmann, Parker, Wilson &
+- i. A Resolution of the Board of Directors of the Superior Metropolitan District No
+- 1 approving a Change Order with Direct Discharge Consulting, LLC, for the
+- 2027 Water and Wastewater Treatment Plant Operations
+- j. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving SYLC Appointments
+- a. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving Appointments to the Parks and Recreation Advisory Committee
+- b. A Resolution of the Town Council of the Town of Superior Approving CAPS Art
+- Purchase Recommendations
+- Approving a Landscape Agreement with Vargas Property Services
+- 5. Public Hearings for the following Budget Amendments for the Town Council of the
+- a. Consideration of Resolution of the Town Council of the Town of Superior
+- Approving a Supplemental Budget and Appropriations for 2026
+- b. Consideration of Resolution of the Board of Commissioners of the Superior
+- Urban Renewal Authority Approving a Supplemental Budget and
+- c. Consideration of Resolution of the Board of Directors of the Superior
+- Metropolitan District No. 1 Approving a Supplemental Budget and
+- developing strategy for negotiations; and instructing negotiators, regarding the
+- extension of a tolling agreement between the Town and the Rock Creek HOA
+- Public comments regarding general Town Council agenda items that are not a public hearing
+
+## [superior#33] 2026-10-26 | Town Council | agenda
+- c. Approval of Agenda
+- e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
+- Persons making public comment are asked to state your name and the city you
+- a. Advisory Committee Interviews for Parks and Recreation Advisory Committee
+- a. Approval of Council Meeting Minutes
+- c. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving an Agreement with Colorado Gives Foundation
+- d. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving Colorado Park and Wildlife (CPW) Trail Grant Submission
+- e. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving an Intergovernmental Agreement with Boulder County for
+- Housing Development to Implement Proposition 123
+- f. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving an Agreement with Make Philanthropy Work to be the Fundraising
+- Campaign Advisor for the Marshall Fire Remembrance Project
+- g. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving a Fourteenth Amendment to the Employment Agreement with
+- h. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving a Legal Services Agreement with Hoffmann, Parker, Wilson &
+- i. A Resolution of the Board of Directors of the Superior Metropolitan District No
+- 1 approving a Change Order with Direct Discharge Consulting, LLC, for the
+- 2027 Water and Wastewater Treatment Plant Operations
+- j. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving SYLC Appointments
+- a. Consideration of a Resolution of the Town Council of the Town of Superior
+- Approving Appointments to the Parks and Recreation Advisory Committee
+- b. A Resolution of the Town Council of the Town of Superior Approving CAPS Art
+- Purchase Recommendations
+- Approving a Landscape Agreement with Vargas Property Services
+- 5. Public Hearings for the following Budget Amendments for the Town Council of the
+- a. Consideration of Resolution of the Town Council of the Town of Superior
+- Approving a Supplemental Budget and Appropriations for 2026
+- b. Consideration of Resolution of the Board of Commissioners of the Superior
+- Urban Renewal Authority Approving a Supplemental Budget and
+- c. Consideration of Resolution of the Board of Directors of the Superior
+- Metropolitan District No. 1 Approving a Supplemental Budget and
+- developing strategy for negotiations; and instructing negotiators, regarding the
+- extension of a tolling agreement between the Town and the Rock Creek HOA
+- Public comments regarding general Town Council agenda items that are not a public hearing

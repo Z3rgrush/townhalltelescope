@@ -1,13 +1,6 @@
 # lyons
 
-## [lyons#0] 2026-07-27 | Jul 27, 2026 — Posted Jul 23, 2026 12:45 PM | agenda
-- PLANNING AND COMMUNITY DEVELOPMENT COMMISSION (PCDC)
-- Approval Of The Agenda
-- Discussion To Review SB24-174 Requirements Applicable To Lyons- Strategic Growth
-- Element Of The Comprehensive Plan
-- COVER MEMO -STRATEGIC GROWTH ELEMENT - COMP PLAN.PDF
-
-## [lyons#1] 2026-07-28 | Jul 28, 2026 — Amended Jul 27, 2026 10:10 AM | agenda
+## [lyons#0] 2026-07-28 | Board of Adjustments | agenda
 - Approval Of Agenda
 - Approval Of October 1, 2025, Regular BOA Meeting Minutes
 - Public Hearing
@@ -19,14 +12,14 @@
 - PUBLIC COMMENT - 441 STICKNEY VARIANCE.PDF
 - New Public Comments
 
-## [lyons#2] 2026-08-03 | Aug 3, 2026 — Posted Jul 30, 2026 3:24 PM | agenda
+## [lyons#1] 2026-08-03 | Board of Trustees | agenda
 - Parks & PW Orientation
 - Parks & Public Works Orientation
 - STAFF MEMO-2026 PARKS OPERATIONS UPDATES .PDF
 - BOT ORIENTATION 2026-PARKS AND PWS.PDF
 - 2025-07 APPROVING THE LYONS INTEGRATED WEED MANAGEMENT
 
-## [lyons#3] 2026-08-03 | Aug 3, 2026 — Amended Aug 3, 2026 2:11 PM | agenda
+## [lyons#2] 2026-08-03 | Board of Trustees | agenda
 - Parks & PW Orientation
 - Approval Of The Agenda
 - Ordinances And Public Hearings
@@ -65,7 +58,7 @@
 - JAN 2025 PRESENTATION FOR LYONS BCS (002).PDF
 - Citizen Budget Responses
 
-## [lyons#4] 2026-08-05 | Aug 5, 2026 — Posted Aug 3, 2026 4:07 PM | agenda
+## [lyons#3] 2026-08-05 | Utilities & Engineering Board | agenda
 - presentations are provided in subsequent pages or through links directly below each
 - II. Approve Agenda and Minutes from Past Meetings
 - a. Approve Agenda
@@ -113,7 +106,7 @@
 - NEXT MEETING AND REQUESTED AGENDA ITEMS
 - Water supply elements needed for comp plan update. Coordinate with PCDC for
 
-## [lyons#5] 2026-08-10 | Aug 10, 2026 — Amended Aug 7, 2026 1:13 PM | agenda
+## [lyons#4] 2026-08-10 | Planning & Community Development Commission | agenda
 - PLANNING AND COMMUNITY DEVELOPMENT COMMISSION (PCDC) &
 - Approval Of The Agenda
 - Discussion / Direction On Kavanaugh V. Telluride Locs. Coal. Petitioners’ Comm Case
@@ -125,7 +118,7 @@
 - 2025 WATER YEAR LETTER TO LYONS.PDF
 - WATER SUPPLY ELEMENT.DOCX
 
-## [lyons#6] 2026-08-10 | Aug 10, 2026 — Amended Aug 7, 2026 11:23 AM | agenda
+## [lyons#5] 2026-08-10 | Board of Trustees | agenda
 - PLANNING AND COMMUNITY DEVELOPMENT COMMISSION (PCDC) &
 - Approval Of The Agenda
 - Discussion / Direction On Kavanaugh V. Telluride Locs. Coal. Petitioners’ Comm Case
@@ -138,14 +131,14 @@
 - 2025 WATER YEAR LETTER TO LYONS.PDF
 - WATER SUPPLY ELEMENT.PDF
 
-## [lyons#7] 2026-08-10 | Aug 10, 2026 — Posted Aug 6, 2026 2:55 PM | minutes
+## [lyons#6] 2026-08-10 | Housing & Human Services Commission | minutes
 - Presentations
 - Presentation:
 - redevelopment,
 - presentation,
 - applications
 
-## [lyons#9] 2026-08-12 | Aug 12, 2026 — Posted Aug 5, 2026 1:04 PM | minutes
+## [lyons#8] 2026-08-12 | Economic Vitality Commission | minutes
 - Commission Members: In attendance: Eric Kean , Grace Barrett, Tiffany Martindale, Amelia Hight
 - 2. Approval of minutes from the most recent meeting
 - a. PRE-MEETING ACTION ITEM: Motion to approve minutes. Seconded
@@ -186,7 +179,7 @@
 - iv. September Artisan Market Bohn Park
 - a. Referral from EVC about Planet Bluegrass annexation (Sept?)
 
-## [lyons#10] 2026-08-13 | Aug 13, 2026 — Posted Aug 12, 2026 2:03 PM | agenda
+## [lyons#9] 2026-08-13 | Sustainable Futures Commission | agenda
 - 6. Discussion and updates
 - A. Annexation and PUD Referral for 19617 and 19661 N St Vrain Dr
 - The Town of Lyons is requesting your review and comments regarding the proposed
@@ -211,13 +204,13 @@
 - Request #5 Description:
 - Request #6 Description:
 
-## [lyons#11] 2026-08-17 | Aug 17, 2026 — Amended Aug 14, 2026 2:35 PM | agenda
+## [lyons#10] 2026-08-17 | Board of Trustees | agenda
 - Update of Design on 2nd & 3rd Avenue Improvements
 - Update On Design Of 2nd & 3rd Avenue Improvements
 - 30 BRIC STORMWATER FIR CD SET.PDF
 - 2ND AVE PROJECT - 30 - 04132026.PDF
 
-## [lyons#12] 2026-08-17 | Aug 17, 2026 — Amended Aug 14, 2026 10:51 AM | agenda
+## [lyons#11] 2026-08-17 | Board of Trustees | agenda
 - Update of Design on 2nd & 3rd Avenue Improvements
 - Approval Of The Agenda
 - RAIN STORM 7-28-2026.PDF
@@ -234,7 +227,7 @@
 - Discussion / Direction On Workshop: 2nd & 3rd Avenue Design
 - Discussion / Direction On Workshop: CML Updates
 
-## [lyons#14] 2026-08-18 | Aug 18, 2026 — Posted Aug 14, 2026 10:53 AM | minutes
+## [lyons#13] 2026-08-18 | Ecology Advisory Board | minutes
 - ○ Dave to message Teagan separately to confirm her intent and timeline
 - ● Peter raised a question about bylaws, budget, and governing documents
 - on annexation of ecologically sensitive Lyons Stone Yard parcel
@@ -276,7 +269,7 @@
 - Sean Perlman, Left Hand Watershed; Colorado water documentary
 - ● Water-wise landscaping standards raised: other CO municipalities (Aurora,
 
-## [lyons#15] 2026-08-19 | Aug 19, 2026 — Posted Aug 17, 2026 3:55 PM | agenda
+## [lyons#14] 2026-08-19 | Utilities & Engineering Board | agenda
 - presentations are provided in subsequent pages or through links directly below each
 - II. Approve Agenda and Minutes from Past Meetings
 - a. Approve Agenda
@@ -322,7 +315,7 @@
 - Consensus to allow meter collar policy development to proceed
 - NEXT MEETING AND REQUESTED AGENDA ITEMS
 
-## [lyons#16] 2026-08-21 | Aug 21, 2026 — Posted Aug 20, 2026 2:41 PM | agenda
+## [lyons#15] 2026-08-21 | Sundance Film Festival Task Force | agenda
 - ● SELL applications opened August 1 — how many have been received or are in
 - 3. Communication Plan
 - ● Redstone Review article: Any feedback? (Tanya)
@@ -345,7 +338,7 @@
 - The group discussed needing a clear picture of what visitors can do — self-guided trails,
 - owner for this workstream still needs to be identified
 
-## [lyons#17] 2026-08-24 | Aug 24, 2026 — Amended Aug 24, 2026 8:50 AM | agenda
+## [lyons#16] 2026-08-24 | Board of Trustees | agenda
 - Approval Of The Agenda
 - Resolution 2026-46 – A Resolution Of The Town Of Lyons, Colorado, Concerning A
 - 2026 LYONS BALLOT QUESTION RESOLUTION V.2.PDF
@@ -353,7 +346,7 @@
 - Intergovernmental Agreement Between The Town Of Lyons And The Boulder County
 - RESOLUTION 2026-47 RESO APPROVING TOWN OF LYONS_2026
 
-## [lyons#18] 2026-08-24 | Aug 24, 2026 — Posted Aug 20, 2026 4:04 PM | agenda
+## [lyons#17] 2026-08-24 | Planning & Community Development Commission | agenda
 - PLANNING AND COMMUNITY DEVELOPMENT COMMISSION (PCDC)
 - Approval Of The Agenda
 - Public Hearings
@@ -361,10 +354,10 @@
 - REPLAT_DRAFT.PDF
 - AARON CAPLAN - 4651 UTE HIGHWAY SUBDIVISION REFERRAL.PDF
 
-## [lyons#20] 2026-08-31 | Aug 31, 2026 — Posted Aug 30, 2026 10:40 AM | agenda
+## [lyons#19] 2026-08-31 | Board of Trustees | agenda
 - may be attending a Tour of the Waste Water Treatment Facility scheduled
 
-## [lyons#21] 2026-09-01 | Sep 1, 2026 — Amended Aug 25, 2026 12:28 PM | minutes
+## [lyons#20] 2026-09-01 | Historic Preservation Commission | minutes
 - c. Absent: Gil Sparks, Grace Simonsen, Leigh Williams (BOT)
 - ● Approve Minutes from Past Meetings (June):
 - Motion to Approve: Sara
@@ -386,7 +379,7 @@
 - ● History Colorado Recommendations: Training, Survey Projects
 - ● Lyons Town Hall Designation. Application is ready for signing, ( LINK ) but designation may or may
 
-## [lyons#22] 2026-09-02 | Sep 2, 2026 — Posted Aug 31, 2026 3:20 PM | agenda
+## [lyons#21] 2026-09-02 | Utilities & Engineering Board | agenda
 - presentations are provided in subsequent pages or through links directly below each
 - II. Approve Agenda and Minutes from Past Meetings
 - a. Approve Agenda
@@ -434,10 +427,10 @@
 - o Staff to follow up with the state to clarify if the box culvert grant will impact
 - o Staff to research the municipal code regarding the process for private streetlights
 
-## [lyons#23] 2026-09-03 | Sep 3, 2026 — Posted Aug 26, 2026 3:14 PM | agenda
+## [lyons#22] 2026-09-03 | Board of Trustees | agenda
 - may be attending a Town Hall Meeting on Fire Risk Mitigation Measures
 
-## [lyons#24] 2026-09-03 | Sep 3, 2026 — Posted Aug 26, 2026 4:29 PM | agenda
+## [lyons#23] 2026-09-03 | Sundance Film Festival Task Force | agenda
 - ● SELL applications opened August 1 — how many have been received or are in
 - 3. Communication Plan
 - ● Estes Park shuttle follow-up: Chrystal
@@ -449,7 +442,7 @@
 - ● Speak with Fox to add a note that the housing discussion is centered around Town of
 - Lyons residents and the regulations do not apply to those who live in Unincorporated
 
-## [lyons#25] 2026-09-08 | Sep 8, 2026 — Posted Sep 3, 2026 4:38 PM | agenda
+## [lyons#24] 2026-09-08 | Board of Trustees | agenda
 - 2026 Supplemental Budget Items
 - 2027 Budget Workshop
 - 2026 ADDITIONAL BUDGET CONSIDERATIONS - STAFF REPORT.PDF
@@ -457,7 +450,7 @@
 - 2027 BOT BUDGET WORKSHOP_09.08.2026.PDF
 - 5-YEAR CAPITAL PLAN - 2027 WORKING DRAFT.PDF
 
-## [lyons#26] 2026-09-08 | Sep 8, 2026 — Amended Sep 4, 2026 4:32 PM | agenda
+## [lyons#25] 2026-09-08 | Board of Trustees | agenda
 - 2026 Supplemental Budget Items
 - 2027 Budget Workshop
 - Approval Of The Agenda
@@ -481,10 +474,10 @@
 - Purpose Of Discussion Of Personnel Matters. Town Attorney Brandon Dittman Was
 - Previously Informed Of The Meeting And Does Not Wish To Have The Discussion In Open
 
-## [lyons#27] 2026-09-08 | Sep 8, 2026 — Posted Sep 3, 2026 11:59 AM | minutes
+## [lyons#26] 2026-09-08 | Arts & Humanities Commission | minutes
 - improvements
 
-## [lyons#28] 2026-09-09 | Sep 9, 2026 — Posted Sep 4, 2026 8:01 AM | minutes
+## [lyons#27] 2026-09-09 | Economic Vitality Commission | minutes
 - Commission Members: Asa Firestone, Eric Kean , Grace Barrett, Tiffany Martindale, Amelia Hight,
 - Planet Bluegrass Annexation and Zoning Review
 - EVC members discussed the potential economic vitality benefits of the proposed Planet Bluegrass
@@ -515,7 +508,7 @@
 - business improvements and expansions that may generate additional sales tax revenue
 - before a formal proposal is considered. The EVC will continue developing the proposed business
 
-## [lyons#29] 2026-09-10 | Sep 10, 2026 — Posted Sep 9, 2026 3:25 PM | minutes
+## [lyons#28] 2026-09-10 | Sustainable Futures Commission | minutes
 - Delphine was appointed as chair of SFC last month
 - Budget and Council Priorities
 - o Question about whether SFC should pursue request for sustainability
@@ -537,22 +530,22 @@
 - ▪ They will release an RFP- for grant funding for 4 ZW projects
 - packaging and paper from local taxpayers to the companies that create the
 
-## [lyons#30] 2026-09-14 | Sep 14, 2026 — Posted Sep 17, 2026 1:23 PM | agenda
+## [lyons#29] 2026-09-14 | Parks and Recreation Commission | agenda
 - Parks and Recreation Commission
 
-## [lyons#31] 2026-09-14 | Sep 14, 2026 — Posted Sep 10, 2026 10:21 AM | minutes
+## [lyons#30] 2026-09-14 | Housing & Human Services Commission | minutes
 - redevelopment
 - incentives?)
 - presentation
 - presentation,
 
-## [lyons#32] 2026-09-15 | Sep 15, 2026 — Posted Sep 14, 2026 4:33 PM | agenda
+## [lyons#31] 2026-09-15 | Ecology Advisory Board | agenda
 - 1- Approval of the August 2026 meeting minutes
 - 5- Any items from EAB membership – Review and update projects, assignments
 - 2. 2027 Budget Request
 - 3. Water Supply Element for Comprehensive Plans discussion and feedback – Town Planner Richie
 
-## [lyons#33] 2026-09-16 | Sep 16, 2026 — Posted Sep 14, 2026 7:11 AM | agenda
+## [lyons#32] 2026-09-16 | Utilities & Engineering Board | agenda
 - presentations are provided in subsequent pages or through links directly below each
 - II. Approve Agenda and Minutes from Past Meetings
 - a. Approve Agenda
@@ -605,7 +598,7 @@
 - Town’s Water Rights Dedication Policy
 - Except for Affordable Housing, Attainable Housing, Mixed Level Housing
 
-## [lyons#34] 2026-09-17 | Sep 17, 2026 — Posted Sep 15, 2026 4:30 PM | agenda
+## [lyons#33] 2026-09-17 | Lyons Urban Renewal Authority | agenda
 - Approval Of Agenda
 - Moss Rock Development, 343-347 Main Street Hotel Update
 - LURA 2025-03 AGREEMENT.PDF
@@ -615,7 +608,7 @@
 - LURA 2026-01 APPROVING THE REDEVELOPMENT AND
 - REIMBURSEMENT AGREEMENT WITH ROOTS TO REVIVAL LLC.PDF
 
-## [lyons#35] 2026-09-21 | Sep 21, 2026 — Amended Sep 21, 2026 10:43 AM | agenda
+## [lyons#34] 2026-09-21 | Board of Trustees | agenda
 - Design Update on Wastewater Treatment Facility (WWTF)
 - Boulder County Housing Authority Update
 - LYONS BOT PRESENTATION_60 PERCENT DESIGN UPDATE.PDF
@@ -627,7 +620,7 @@
 - SEWARD_STREET_TRUSTEE_MEMO_NEW_LETTERHEAD.PDF
 - SEWARD_STREET_TRUSTEE_SLIDES_NEW_LETTERHEAD.PDF
 
-## [lyons#36] 2026-09-21 | Sep 21, 2026 — Amended Sep 18, 2026 12:09 PM | agenda
+## [lyons#35] 2026-09-21 | Board of Trustees | agenda
 - Design Update on Wastewater Treatment Facility (WWTF)
 - Boulder County Housing Authority Update
 - Discussion / Direction on Executive Session – Cinnamon Matter
@@ -671,18 +664,28 @@
 - Discussion / Direction On Workshop: Design Update On WWTF
 - Discussion / Direction On Revocation Of Business License Due To Non-Payment Of
 
-## [lyons#37] 2026-09-22 | Sep 22, 2026 — Posted Sep 17, 2026 1:47 PM | agenda
+## [lyons#36] 2026-09-22 | Historic Preservation Commission | minutes
 - a. Members and Advisors Present: Sara Neustadtl, Gil Sparks, Sarah Lorang, Grace
+- b. Guest(s): Lisa Ritchie, Aaron Caplan
 - ● Approve Minutes from Past Meetings (August):
+- Motion to Approve: Gil
+- Vote: Unanimous Approval
+- Wildfire mitigation: Lisa Ritchie is drafting a wildfire mitigation ordinance that may
+- homes. She asked whether the ordinance should include historic preservation
 - b. Designation Program Marketing Materials Grant from History Colorado ($2500)
 - i. The project must be completed by June 1, 2027
 - iii. Next Grant Update: October 1, 2026
+- for example, if the wildfire mitigation ordinance passes with provisions for historic properties,
 - c. TOL Budget Request
 - i. Requested $1154 in the 2027 Budget for Plaques as an incentive to the
 - a. Aaron Caplan: Flagstone Culvert Investigation & Proposed Repairs - Review the
 - Flagstone Culvert Investigation and discuss planned repairs with Town staff. Staff is
 - i. Requested Action: Review the investigation and provide feedback on historic
 - preservation considerations related to the planned culvert repairs
+- approximately $482,000 DOLA grant
+- 4th and 5th Streets
+- Section 106 review was initially raised. On further research, Bryan believes the project is likely
+- flagstone lids were discussed, though these appeared less feasible
 - b. Lisa Ritchie: Strategic Growth & Water Supply Element – Comprehensive Plan Review
 - Review and provide HPC feedback on the Town’s draft Strategic Growth and Water
 - Supply Element for the Lyons Comprehensive Plan. The draft addresses new State
@@ -690,6 +693,7 @@
 - i. Requested Action: Review and provide feedback, particularly regarding potential
 - Strategic Growth and Water Supply Element in Comprehensive Plans
 - iii. 2023 Lyons Thrive Comprehensive Plan
+- language around infill and redevelopment in historic areas. The HPC will send comments to
 - ● Requested Agenda Items:
 - On-Going Projects
 - ● Protecting Lyons’ Historic Main Street - New BOT has not yet discussed; will likely focus on
@@ -697,15 +701,15 @@
 - ● History Colorado Recommendations: Training, Survey Projects
 - ● Lyons Town Hall Designation. Application is ready for signing, ( LINK ) but designation may or may
 
-## [lyons#38] 2026-09-28 | Sep 28, 2026 — Posted Sep 24, 2026 12:42 PM | agenda
+## [lyons#37] 2026-09-28 | Planning & Community Development Commission | agenda
 - PLANNING AND COMMUNITY DEVELOPMENT COMMISSION (PCDC)
 - Off-Street Parking Requirements
 - COVER MEMO - OFF STREET PARKING DISCUSSION 9.28.26.PDF
 
-## [lyons#39] 2026-10-05 | Oct 5, 2026 — Posted Oct 1, 2026 5:05 PM | agenda
+## [lyons#38] 2026-10-05 | Board of Trustees | agenda
 - Boards and Commissions Discussion
 
-## [lyons#40] 2026-10-05 | Oct 5, 2026 — Amended Oct 3, 2026 4:25 PM | agenda
+## [lyons#39] 2026-10-05 | Board of Trustees | agenda
 - Boards and Commissions Discussion
 - Approval Of The Agenda
 - LYONS_2027_BUDGET_SURVEY_SUMMARY_RESPONSES
@@ -750,7 +754,7 @@
 - WATER RIGHTS DEDICATION POLICY.PDF
 - Discussion / Direction On Boards And Commissions Workshop
 
-## [lyons#41] 2026-10-07 | Oct 7, 2026 — Posted Oct 6, 2026 2:46 PM | agenda
+## [lyons#40] 2026-10-07 | Utilities & Engineering Board | agenda
 - presentations are provided in subsequent pages or through links directly below each
 - II. Approve Agenda and Minutes from Past Meetings
 - a. Approve Agenda
@@ -798,7 +802,7 @@
 - Total Monthly Rate. The total monthly rate for service shall be the total of the base rate per
 - month, and the additional use rate
 
-## [lyons#42] 2026-10-08 | Oct 8, 2026 — Posted Oct 7, 2026 11:18 AM | agenda
+## [lyons#41] 2026-10-08 | Sustainable Futures Commission | agenda
 - 6. Discussion and Updates a. Ideas for use of the $15,000 Sustainability Tax – application out in November. Due
 - b. Recent projects include LED lighting, conversion of gas to electric lawn equipment
 - c. Reasonable for SFC to also suggest other budget ideas/recommendations. Scrap
@@ -806,7 +810,7 @@
 - fire-resilient
 - a. CC4CA Survey – given to Dave Cosgrove, PPW Director to complete discussion
 
-## [lyons#43] 2026-10-09 | Oct 9, 2026 — Amended Oct 7, 2026 5:07 PM | agenda
+## [lyons#42] 2026-10-09 | Sundance Film Festival Task Force | agenda
 - Now that the Town's core ask has been accomplished (the SELL ordinance enabling
 - festival housing), does it still make sense for the group to remain a town-sponsored
 - Discussion of transitioning to operate under a local nonprofit — Chamber of Commerce
@@ -818,10 +822,23 @@
 - 5. Quick Check Ins (Time Permitting)
 - Bustang/RTD and Estes Park shuttle follow-ups; demand generation next steps
 
-## [lyons#44] 2026-10-12 | Oct 12, 2026 — Amended Oct 12, 2026 3:26 PM | agenda
+## [lyons#43] 2026-10-12 | Housing & Human Services Commission | agenda
+- Housing and Human Services Commission
+- Mission: The mission of the Lyons Housing & Human Services Commission, as established in the
+- Lyons Recovery Action Plan, is to provide coordination and communication with various private, non
+- profit, and county entities in an effort to assess and fill the gaps in human service provision and identify
+- II. Additions to Agenda, Approve Agenda and Minutes from August Meeting
+- a. Lyons Valley Townhomes – Kay Sparks
+- i. Potential focuses as relate to Comprehensive Plan
+- ii. Plan for presenting
+- i. "Tax Remedies for Older Adults" by Boulder County Assessor’s office – first
+- d. BCAAA Advisory – Kay Sparks
+- VIII. Next Meeting November 9, 2026 and Requested Agenda Items
+
+## [lyons#44] 2026-10-12 | Planning & Community Development Commission | agenda
 - PLANNING AND COMMUNITY DEVELOPMENT COMMISSION (PCDC)
 
-## [lyons#45] 2026-10-12 | Oct 12, 2026 — Posted Oct 8, 2026 8:06 AM | minutes
+## [lyons#45] 2026-10-12 | Parks and Recreation Commission | minutes
 - Town of Lyons - Parks and Recreation Commission
 - 2. Approval of July Meeting Minutes
 - Corrections had been received and the Chair incorporated edits into a revised draft, which was circulated
@@ -851,14 +868,14 @@
 - and rezone two parcels near Eagle Canyon: the existing 19661 parcel and adjacent, currently unannexed
 - office/gathering space. An existing residence on the unannexed parcel would likely become staff housing or
 
-## [lyons#46] 2026-10-13 | Oct 13, 2026 — Posted Oct 8, 2026 3:11 PM | minutes
+## [lyons#46] 2026-10-13 | Arts & Humanities Commission | minutes
 - applications
 
-## [lyons#47] 2026-10-14 | Oct 14, 2026 — Posted Oct 12, 2026 10:35 AM | agenda
+## [lyons#47] 2026-10-14 | Economic Vitality Commission | agenda
 - What should the dollar value be to fill a vacant space? For example, 75% award of up to $5K in upgrades/renovations, 50% up to $10K, 25% up
 - Will it be a pilot project? Will it be a 2 year program? What is the approval process? Staff? How long does it need to be vacant? What about the bureaucracy behind a program like this? Is it to help current businesses? Is it for retail businesses only with sales tax and lodging? Will there be a recr
 
-## [lyons#48] 2026-10-15 | Oct 15, 2026 — Posted Oct 9, 2026 12:12 PM | agenda
+## [lyons#48] 2026-10-15 | Lyons Urban Renewal Authority | agenda
 - Approval Of Agenda
 - Moss Rock Development, 343-347 Main Street Hotel Update
 - LURA 2025-03 APPROVING THE 3RD AMENDMENT TO REDEVELOPMENT
@@ -875,7 +892,7 @@
 - LURA 2023-01 AMENDMENT TO THE BYLAWS TO CHANGE THE REGULAR
 - LURA 2023-01 AGREEMENT.PDF
 
-## [lyons#49] 2026-10-19 | Oct 19, 2026 — Posted Oct 15, 2026 3:13 PM | agenda
+## [lyons#49] 2026-10-19 | Board of Trustees | agenda
 - St. Vrain Left Hand Water Conservancy District (SVLHWCD)
 - 2nd & 3rd Avenue Project Updates
 - Strategic Growth and Water Element of
@@ -884,7 +901,7 @@
 - COVER MEMO -STRATEGIC GROWTH AND WATER SUPPLY
 - STATEGIC GROWTH PLAN AND WATER BOARD REVIEW DRAFT
 
-## [lyons#50] 2026-10-19 | Oct 19, 2026 — Posted Oct 15, 2026 4:21 PM | agenda
+## [lyons#50] 2026-10-19 | Board of Trustees | agenda
 - St. Vrain Left Hand Water Conservancy District (SVLHWCD)
 - 2nd & 3rd Avenue Project Updates
 - Strategic Growth and Water Element of
@@ -908,7 +925,7 @@
 - Discussion / Direction On Workshop: 2nd & 3rd Avenue Project Updates
 - Discussion / Direction On Board Retreat Held On August 29, 2026
 
-## [lyons#51] 2026-10-20 | Oct 20, 2026 — Posted Oct 19, 2026 8:21 AM | agenda
+## [lyons#51] 2026-10-20 | Ecology Advisory Board | agenda
 - 2) Approval of September 2026 Meeting Minutes
 - 5th Ave. SFC Grant Support by Dawn Weller
 - a) Stormwater & Bioswale Projects
@@ -931,7 +948,7 @@
 - e) Hydrogels / Soil Moisture Pilot Project
 - 10) Implications of Colorado Amendment 83
 
-## [lyons#52] 2026-10-21 | Oct 21, 2026 — Posted Oct 20, 2026 9:03 AM | agenda
+## [lyons#52] 2026-10-21 | Utilities & Engineering Board | agenda
 - presentations are provided in subsequent pages or through links directly below each
 - II. Approve Agenda and Minutes from Past Meetings
 - a. Approve Agenda
@@ -979,3 +996,6 @@
 - prepared and included as part of the 2027 Budget for the Town of Lyons, Colorado
 - include water, sanitation, stormwater, and electric utilities; street maintenance; law enforcement;
 - parks and recreation; cultural programming; public improvements; building inspections; business
+
+## [lyons#53] 2026-10-26 | Planning & Community Development Commission | agenda
+- TOWN OF LYONS PLANNING AND COMMUNITY DEVELOPMENT

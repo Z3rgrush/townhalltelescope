@@ -1,0 +1,651 @@
+# routt-county
+
+## [routt-county#0] 2026-07-30 | CBOE & Abatement Hearings | agenda
+- COUNTY BOARD OF EQUALIZATION HEARINGS
+- All Board of Equalization hearings are open to the public unless otherwise noted
+- Hearings will be held at 522 Lincoln Avenue, Steamboat Springs, in the
+- Commissioners' Hearing Room, 3rd floor of the Historic Courthouse, or otherwise
+- OVERVIEW OF HEARING PROCEDURES
+- The hearing officer, having been appointed by the Board of County Commissioners as
+- an independent referee, will conduct the hearing. No discussion of taxes will be
+- allowed, as the subject matter of the hearings is in relation to property valuation
+- and/or classification. The procedure for each hearing is as follows; both sides will
+- have the opportunity to present their evidence, and then the hearing officer will
+- R8165254_PREWITT_2026 CBOE HEARING_APPRAISER
+- R8165254_PREWITT_2026 CBOE HEARING_APPRAISER ADDENDUM.PDF
+- All programs, services and activities of Routt County are operated in compliance with
+- we can meet your needs. Please notify us of your request as soon as possible prior
+- ability to access information, please contact us . Additional ways to provide feedback
+
+## [routt-county#1] 2026-07-31 | CBOE & Abatement Hearings | agenda
+- COUNTY BOARD OF EQUALIZATION HEARINGS
+- All Board of Equalization hearings are open to the public unless otherwise noted
+- Hearings will be held at 522 Lincoln Avenue, Steamboat Springs, in the
+- Commissioners' Hearing Room, 3rd floor of the Historic Courthouse, or otherwise
+- OVERVIEW OF HEARING PROCEDURES
+- The hearing officer, having been appointed by the Board of County Commissioners as
+- an independent referee, will conduct the hearing. No discussion of taxes will be
+- allowed, as the subject matter of the hearings is in relation to property valuation
+- and/or classification. The procedure for each hearing is as follows; both sides will
+- have the opportunity to present their evidence, and then the hearing officer will
+- STEAMBOAT VILLAS CONDOMINIUMS_CBOE HEARING_APPRAISER
+- SUNTERRA STEAMBOAT DEVELOPMENT LLC APPEAL PACKET.PDF
+- All programs, services and activities of Routt County are operated in compliance with
+- we can meet your needs. Please notify us of your request as soon as possible prior
+- ability to access information, please contact us . Additional ways to provide feedback
+
+## [routt-county#2] 2026-07-31 | Planning Commission | agenda
+- 522 Lincoln Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+- touring the Stagecoach Dam. This tour is being hosted by Upper Yampa Water
+- Routt County operates all programs, services, and activities in compliance with the
+- needs. Please notify us of your request as soon as possible before the scheduled
+- feedback regarding accessibility are available online
+
+## [routt-county#3] 2026-08-10 | Board of Adjustment | minutes
+- PUBLIC COMMENT
+- There was no public comment
+- Mr. Kelly moved to approve the minutes of the above cited Board of Adjustment
+- hearing, as written. Mr. Hoffman seconded the motion. The motion carried 4
+- REQUEST: Adjustment to the property line setback to allow an
+- Requested: 47.6 ft. from the west property line for an adjustment of
+- LOCATION: 31650 Aspen Ridge Road; located 0.22 miles from the
+- intersection of Aspen Ridge Road and Agate Creek
+- previous hearing. She stated that the original design for the garage expansion
+- encroaching into the setback by 5 ft. 9 in. This is the plan that was originally
+- meeting they had revised the plan and had moved the proposed garage several
+- feet to the east and thereby reduced the adjustment request from 5 ft. 9 in. to 2 ft
+- Mr. Jaeger summarized the BOA discussion from the July meeting, noting that
+- and that they would be willing to entertain a reduced adjustment request. Mr
+- Jaeger presented diagrams of the original plan and the revised plan and
+- residential space above had not changed, but had been moved several feet to
+- the garage, the applicant would need to sign a plumbing agreement that would
+- limit the use of this space. This agreement would be processed in conjunction
+- with the building permit. Mr. Jaeger presented elevations of the existing garage
+- adjustment to be approved and the reasons that staff had determined that the
+- proposed structure to reduce the adjustment request
+- Mr. Krug moved to approve item PL20260044, an adjustment of 2.4 feet from the
+- This approval is based on the following findings of fact:
+- 2. The requested Adjustment is the minimum deviation necessary to enable
+- rights and privileges permitted to other properties in the vicinity and in the
+- 4. The Adjustment, if granted, will not confer a personal convenience or
+- date of the regulations from which an adjustment is requested, or were
+- 6. The property for which an Adjustment is requested possesses a site
+- 7. The Adjustment, if granted, will not diminish the value, use, or enjoyment
+- distance from the road and be sufficiently separated from neighboring
+- 8. The Adjustment, if granted, will not be directly contrary to the intent and
+- purpose of this UDC or the Master Plan because Adjustments provide
+- Development Code (UDC) setbacks creates unnecessary hardship without
+- This approval is subject to the following conditions:
+- 1. This approval is specific to the plans submitted in the application. Any
+- non-conformance will be subject to a new application. Minor changes that
+- do not increase the level of non-conformance can be approved
+
+## [routt-county#4] 2026-08-13 | Yampa Valley Airport Commission | agenda
+- Approval Of The June 18, 2026 Regular Meeting Minutes
+- Non-Agenda Public Comments: Time Allotted 3 Minutes
+- Airport/Capital/Infrastructure/Budget Update - Josh Schroeder
+- Airport/Capital/Infrastructure/Budget Update - Tinneal Gerber
+- Manager's Reports - Provided Via Email. No Verbal Presentation Will Be Made, Except To
+- Discuss Location/Format & Agenda Items For October 8, 2026, Meeting: Time Allotted: 2
+- Note: All programs, services and activities of Routt County are operated in
+- (970) 879-0108 to assure that we can meet your needs. Please notify us of your
+- request at least seven business days prior to the scheduled event. Routt County
+- Project Update
+- l Identify June 18,
+
+## [routt-county#5] 2026-08-14 | SPECIAL MEETINGS | agenda
+- discuss current CSU activity within the community
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- ability to access information, please contact us . Additional ways to provide feedback
+
+## [routt-county#6] 2026-08-17 | Purchase of Development Rights Board Meetings | agenda
+- Purchase of Development Rights
+- 135 6th Street, Steamboat Springs
+- CONSIDERATION AND APPROVAL OF THE JUNE 18, 2026 MINUTES FOR THE
+- Discussion with Routt County Planning regarding the potential effects of conservation
+- easements on future development opportunities and subdivision design under the Unified
+- Development Code (UDC), including questions related to Land Preservation Subdivisions,
+- (CCALT). This meeting was requested by CCALT and the topics discussed are listed
+- ¡ Extension requests
+- C. Application amendments vs. new application
+- TIER I AND TIER II PROJECT REVIEW
+- Executive Session may be required under C.R.S. 24-6-402 (4)(a) to discuss the
+- purchase, acquisition, lease transfer, or sale of any real, personal, or other property
+- TIER II REVIEW OF PROJECT 222
+- TIER I REVIEW OF PROJECT 225
+- to discuss the purchase, acquisition, lease transfer, or sale of any real, personal, or
+- information, please contact us. Additional ways to provide feedback regarding
+
+## [routt-county#7] 2026-08-20 | Planning Commission | minutes
+- PUBLIC COMMENT
+- There was no public comment
+- Commissioner Hoffman moved to approve the above cited minutes, as written
+- 2. Vacation of internal lot line utility and trail
+- Commissioner DeFrancia moved to approve the consent agenda, as
+- project application has been re-submitted
+- There was a discussion of the electrical needs for the SMR proposal and the
+
+## [routt-county#8] 2026-09-01 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- APPROVAL AND AUTHORIZATION FOR THE CHAIR TO SIGN THE PLAT
+- FOR THE SNOW COUNTRY SUBDIVSION, LOT 2 PLAT CORRECTION,
+- APPROVED ON 8/4/2025 AS PROJECT PL20250045
+- APPROVAL OF SURREY TRAIL SUBDIVISION; CONSOLIDATION, ZONE
+- CHANGE, AND VACATION OF EASEMENTS FOR PROJECT PL20260049
+- APPROVAL OF AND AUTHORIZATION FOR THE CHAIR TO SIGN A
+- LOS HAVEN ASSISTED LIVING EXPANSION PROJECT.PDF
+- AUTHORIZATION FOR THE CHAIR TO SIGN A RENEWAL APPLICATION
+- PURCHASE OF DEVELOPMENT RIGHTS (PDR) ADVISORY
+- EXECUTIVE SESSION FOR TIER II REVIEW OF PDR PROJECT 222
+- Executive Session required under C.R.S. 24-6-402 (4)(a) to discuss the
+- purchase, acquisition, lease transfer, or sale of any real, personal, or
+- BCC COMMUNICATION FORM FOR PDR PROJECT 222.PDF
+- APPROVAL OF AND AUTHORIZATION FOR THE CHAIR TO SIGN THE
+- 2025 MANAGEMENT REPRESENTATION LETTER
+- SOURCE APPROVAL REQUEST
+- CONSTRUCTION CONTRACT - SIGNED.PDF
+- ROUTT COUNTY AND YVHA TO CHFA DELEGATION AGREEMENT
+- ROUTT COUNTY TAX CERTIFICATE TO CHFA (2026 DELEGATION
+- ROUTT COUNTY AND YVHA TO CHFA CERTIFICATE RE VOLUME
+- ROUTT COUNTY CERTIFICATE RE VOLUME CAP TO YVHA 2023
+- CARRYFORWARD INDUCEMENT RESOLUTION (ROUTT COUNTY
+- 2024 PAB) (GENERAL HOUSING PROGRAM) (EXECUTED)
+- RESOLUTION 2026-062 INDUCEMENT RESOLUTION ROUTT
+- DILIGENCE CERTIFICATE - ROUTT COUNTY 2026
+- MONIKER FOUNDATION GRANT APPLICATION
+- PUBLIC WORKS 2027 BUDGET PRESENTATIONS
+- PUBLIC WORKS 2027 BUDGET PRESENTATION.PDF
+- FACILITIES MANAGEMENT 2027 BUDGET PRESENTATIONS
+- FACILITIES MANAGEMENT 2027 BUDGET PRESENTATIONS.PDF
+- DISTRICT ATTORNEY 2027 BUDGET PRESENTATION
+- DISTRICT ATTORNEY 2027 BUDGET.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+
+## [routt-county#9] 2026-09-03 | Planning Commission | minutes
+- PUBLIC COMMENT
+- There was no public comment
+- Commissioner DeFrancia moved to approve the above cited minutes, as written
+- 2. Vacation of internal lot line utility and trail
+- Commissioner DeFrancia moved to approve the consent agenda, as
+- Planning Commission questions regarding the application of CAP and other new
+- policies and regulations to existing permit renewals, she would schedule a
+- discussion, training, and Q&A session for an upcoming meeting
+
+## [routt-county#10] 2026-09-08 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- AUTHORIZATION FOR THE CHAIR TO SIGN THE PLAT FOR JORDAN
+- SUBDIVISION; PL20260027 APPROVED BY THE PLANNING DIRECTOR
+- CONSIDERATION OF ITEMS PULLED FROM THE CONSENT AGENDA
+- PURCHASE OF DEVELOPMENT RIGHTS (PDR) ADVISORY
+- PDR PROJECT 222- NOTTINGHAM RANCH FUNDING APPROVAL
+- Consideration of the PDR Board's recommendation to approve the
+- funding of PDR Project 222-Nottingham Ranch in the amount of
+- $3,000,000 towards the purchase of the conservation easement and
+- authorize the Chair to sign the Agreement Concerning Conservation
+- BCC COMMUNICATION FORM PDR PROJECT 222- NOTTINGHAM
+- AUTHORIZATION TO SUBMIT A CHARGE AHEAD GRANT FOR A
+- AHEAD GRANT SUBMITTAL.PDF
+- ROUTT COUNTY - DRAFT CAC ROLLING APPLICATION ~ CEO EV
+- RESCINDING RESOLUTION 2026-061 ADOPTING THE UPDATED CASH
+- RESOLUTION 2026-01 RE ENACTING 2021-034 9.8.26.PDF
+- APPROVAL TO ACCEPT THE $25,000 DONATION FROM SARA AND
+- STAGE 1 FIRE RESTRICTIONS
+- Propose to return to Stage 1 fire restrictions in accordance with
+- Ordinance Number 2026-001, effective 12:01 AM on Thursday,
+- BCC COMMUNICATION FORM SEPTEMBER 2026 STAGE 1 FIRE
+- SEPTEMBER 2026 FIRE RESTRICTION DECLARATION - STAGE
+- APPROVAL AND AUTHORIZATION FOR THE CHAIR TO SIGN
+- AMENDMENT #3 TO THE FAA AIP 62 WEST TERMINAL EXPANSION
+- PROJECT GRANT AT THE YAMPA VALLEY REGIONAL AIRPORT
+- BCC COMM AIG GRANT AMEND 3 - WEST TERMINAL EXPANSION
+- HDN-NMG-3-08-0031-062-2024-(3)-GRANT AMENDMENT
+- Executive Session to be requested under C.R.S. 24 -6-402 (4)(b)- discussion
+- BCC COMMUNICATION FORM MILNER WASTEWATER NOTICE OF
+- RESOLUTION SUPPORTING REGIONAL TRANSPORTATION AUTHORITY
+- RESOLUTION 2026-064 RFTA SALES TAX SUPPORT 9.8.26 JH
+
+## [routt-county#11] 2026-09-14 | BCC Monday Work Session | agenda
+- l School Vaccination Data Presentation
+- SCHOOL VACCINATION RATES 2026.PDF
+- l Tobacco Coalition Ordinance update
+- STAFFING AND BUDGET UPDATES
+- l SAMHSA grant
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#12] 2026-09-14 | Board of Adjustment | agenda
+- 522 Lincoln Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+- PUBLIC COMMENT
+- APPROVAL OF MINUTES
+- ITEMS FOR CONSIDERATION
+- Routt County operates all programs, services, and activities in compliance with the
+- needs. Please notify us of your request as soon as possible before the scheduled
+- feedback regarding accessibility are available online
+- UNIT 591 FEET FROM THE EXISTING DWELLING DUE TO
+
+## [routt-county#13] 2026-09-15 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- RENEWAL APPLICATION AND NEW MANAGER REPORT FOR CLARK
+- RATIFICATION OF THE ROUTT COUNTY BOARD OF COUNTY
+- REGARDING COMMENTS ON THE DRAFT NWCCOG REGIONAL WATER
+- QUALITY MANAGEMENT PLAN ("208 PLAN")
+- CONSIDERATION OF ITEMS PULLED FROM THE CONSENT AGENDA
+- A deeper dive into the BCC dues & Memberships and outside funding requests
+- budget review
+- MEMBERSHIPS AND OUTSIDE FUNDING REQUESTS
+- The Board will review and discuss county membership dues and funding
+- requests from outside entities, and provide direction to staff for
+- development of the proposed budget
+- ANALYSIS AND UPDATE ON 2027 HEALTH AND DENTAL INSURANCE PLAN
+- BUDGET COMM FORM.PDF
+- BUDGET PRESENTATION.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- ability to access information, please contact us . Additional ways to provide feedback
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#14] 2026-09-17 | Planning Commission | agenda
+- 522 Lincoln Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+- PUBLIC COMMENT
+- APPROVAL OF MINUTES
+- ITEMS FOR CONSIDERATION
+- YAMPA VALLEY GRAVEL PIT SPECIAL USE PERMIT; PL20260026
+- Routt County operates all programs, services, and activities in compliance with the
+- needs. Please notify us of your request as soon as possible before the scheduled
+- feedback regarding accessibility are available online
+- EXPANSION OF THE PERMIT BOUNDARY OF THE OLD
+- A SITE ON THE NORTH SIDE OF COUNTY ROAD 65
+
+## [routt-county#15] 2026-09-21 | BCC Monday Work Session | agenda
+- UPDATE ON PROJECT INVOLVING COLORADO STATE TRUST LAND AND
+- PROPOSED 2027 BUDGET PRESENTATION
+- A presentation of the proposed 2027 budget by Accounting Director Shawn
+- BCC REVIEW OF 2027 BUDGET
+- Focused review of key budget changes and requests requiring discussion and
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#16] 2026-09-22 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- APPROVAL OF THE USLANDER CONSOLIDATION AND VACATION OF
+- APPROVAL OF AND AUTHORIZATION FOR THE CHAIR TO SIGN A
+- AGRICULTURAL ALLIANCE FRWRM GRANT
+- HISTORIC FUND GRANT APPLICATION FOR LEGACY RANCH
+- COLORADO GRANT 9.2026.PDF
+- RATIFICATION OF THE CHAIR'S SIGNATURE ON THE BUELL
+- FOUNDATION GRANT AGREEMENT
+- BUELL FOUNDATION GRANT
+- AGREEMENT_STAMPED_ENCRYPTED_.PDF
+- RFP 891 NORTH ROUTT COUNTY RECREATION STRATEGIC PLAN
+- CONSULTANT APPROVAL
+- STRATEGIC PLAN PROPOSAL.PDF
+- PERMIT FOR JARMAN AND CO EVENTS LLC TO HOST AN EVENT AT
+- APPROVAL OF TWO AGREEMENTS BETWEEN THE ROUTT COUNTY
+- BCC COMMUNICATION FORM CMC INTERN AGREEMENTS.PDF
+- ROUTT_COUNTY_SHERIFFS OFFICE__CMC TRAINING AGREEMENT
+- Executive Session to be requested under C.R.S. 24 -6-402 (4)(b)- discussion
+- BCC COMMUNICATION FORM MILNER WASTEWATER 9.22.PDF
+- RESOLUTION 2026-065 ALLOWING ROAD & BRIDGE DIVISION
+- REIMBURSEMENT APPLICATIONS
+- Consideration for the approval and signing of Resolution 2026-065
+- authorizing the Routt County Road & Bridge Division Manager to
+- execute Petroleum Storage Tank Fund reimbursement applications
+- BCC COMMUNICATION FORM RESOLUTION 2026-065.PDF
+- RESOLUTION FOR REIMBURSEMENT APPLICATIONS
+- APPROVAL OF THE CHAIR'S SIGNATURE ON CDEC/ROUTT COUNTY
+- AMENDED MEMORANDUM OF UNDERSTANDING
+- BCC COMMUNICATION FORM CDEC-ROUTT COUNTY AMENDED
+- REQUEST TO WAIVE FORMAL BID PROCESS FOR AUDIT SERVICES
+- BCC COMMUNICATION FORM ACCESSIBLE - REQUEST TO WAIVE
+- FORMAL BID FOR AUDIT SERVICES.PDF
+- BCC 2027 BUDGET PRESENTATIONS
+- Focused review of key budget changes and requests requiring discussion and
+- Routt County operates all programs, services, and activities in compliance with the
+
+## [routt-county#17] 2026-09-23 | Advertising and Marketing Local Tourism Panel | agenda
+- 136 6th Street, Steamboat Springs
+- l Overview of lodging tax funding
+- ¡ Conflicts of interest and ethics considerations
+- ¡ Other applicable statutes, resolutions, or policies
+- 2025-103 LODGING TAX.PDF
+- APPROVAL OF THE 2026 ADVERTISING AND MARKETING TOURISM PANEL
+- SUNSHINE RESOLUTION
+- l Discuss funding cycle and application timeline
+- l Discuss applicant eligibility
+- l Discuss eligible activities and expenditures
+- l Discuss funding request parameters and award amounts
+- l Review application requirements and submission process
+- EVALUATION PROCESS DISCUSSION
+- l Discuss evaluation criteria
+- l Consider scoring methodologies
+- l Identify priorities and desired outcomes
+- l Determine areas requiring further development
+- information, please contact us. Additional ways to provide feedback regarding
+
+## [routt-county#18] 2026-09-28 | BCC Monday Work Session | agenda
+- ROUTT BOCC PRESENTATION 9.28.26.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#19] 2026-09-29 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- RATIFICATION OF THE CHAIR'S SIGNATURE ON A LETTER OF
+- SUPPORT FOR THE ROUTT COUNTY RIDER'S APPLICATION FOR A
+- COLORADO PARKS AND WILDLIFE NON-MOTORIZED TRAILS GRANT
+- LOS 2026 RCR NON-MOTORIZED TRAILS GRANT.PDF
+- CONSIDERATION OF ITEMS PULLED FROM THE CONSENT AGENDA
+- CONSIDERATION OF THE YAMPA VALLEY GRAVEL PIT - AN
+- PL20260026-2-PUBLIC COMMENT_KOLBE_DREW_1_CL.PDF
+- Consideration for the approval of and authorization for the Chair to sign
+- APPROVAL OF RECLASSIFICATION OF THE EMERGENCY
+- APPROVAL TO SUBMIT THE HISTORY COLORADO STATE HISTORICAL
+- RESCINDING STAGE 1 FIRE RESTRICTIONS
+- Rescind Stage 1 Fire Restrictions pursuant to Ordinance No. 2026 -001
+- BCC COMMUNICATION FORM 2026 FIRE RESTRICTIONS
+- 20260929 FIRE RESTRICTION DECLARATION - RESCINDING STAGE
+- APPROVAL OF AND AUTHORIZATION FOR THE CHAIR TO SIGN THE
+- AMENDED MEMORANDUM OF UNDERSTANDING
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- ability to access information, please contact us . Additional ways to provide feedback
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#20] 2026-10-05 | BCC Monday Work Session | agenda
+- 2025 AUDIT PRESENTATION
+- Presentation of the Routt County 2025 Financial & Compliance Report
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#21] 2026-10-06 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- APPROVAL OF AND AUTHORIZATION FOR THE CHAIR TO SIGN THE
+- PLAT FOR THE SPARROW PERCH SUBDIVSION, RESOLUTION 2026-P
+- 066 FOR THE ASSOCIATED EASEMENT VACATION AND RESOLUTION
+- 2026-P-067 FOR THE ASSOCIATED ZONE CHANGE, APPROVED ON
+- 06/16/2026 AS PROJECT PL20260009
+- 4384-1 PLAT SPARROWS PERCH 9-24-2026.PDF
+- PL20260009_ZONE RESOLUTION_FINAL.PDF
+- PL20260009_VACATION EASEMENT RESOLUTION_FINAL.PDF
+- APPROVAL OF THE FIRST AMENDMENT TO INTERGOVERNMENTAL
+- AGREEMENT FOR THE SHARING OF EMERGENCY PREPAREDNESS AND
+- CONSIDERATION OF ITEMS PULLED FROM THE CONSENT AGENDA
+- WASTEWATER TREATMENT SYSTEM – SPARKS RESIDENCE
+- BCC COMMUNICATION FORM VARIANCE REQUEST 20260929.PDF
+- SPARKS RESIDENCE VARIANCE APPLICATION AND DESIGN
+- PUBLIC NOTIFICATION SPARKS RESIDENCE.PDF
+- SPARKS RESIDENCE VARIANCE CERTIFIED MAIL RECEIPTS (1).PDF
+- MODAL POLICY DEVELOPMENT CONSULTANT AWARD APPROVAL
+- DEVELOPMENT PROFESSIONAL SERVICES AWARD - MM.PDF
+- RFP 899 RCDC BODY SCANNER PURCHASE AND DETENTION CENTER
+- REMODEL APPROVAL
+- CONSTRUCTION CONTRACT RCSO - SIGNED.PDF
+- subject to negotiations, developing strategy for negotiations, and/or
+- DONATIONS TO COUNTY POLICY RESOLUTION 09.07.2026.PDF
+- CONSIDERATION OF THE YAMPA VALLEY GRAVEL PIT - AN
+- TRI-COUNTY DISTRICT ATTORNEY BUDGET
+- 2027 Personnel Budget for Tri-County Board for the District Attorney with
+- BUDGET MEETING.PDF
+- DISTRICT ATTORNEY 2027 BUDGET LETTER.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- ability to access information, please contact us . Additional ways to provide feedback
+
+## [routt-county#22] 2026-10-07 | Historic Preservation Board Agendas | agenda
+- UPDATES/GENERAL DISCUSSION
+- l Education and Outreach-Existing listed properties for maintenance, grants, and
+- HISTORIC REVIEW FOR PERMIT PRRN261463, 54200 CR 62
+- 4447-1 SITE PLAN OLD CHARTER SCHOOL 12-18-2025 UPDATED.PDF
+- CERTIFIED LOCAL GOVERNMENT DISCUSSION
+- Editing and finalizing the Resolution to become a Certified Local Government (CLG)
+- RESOLUTION 2003-47.AMENDING AND RESTATING.58595REVISED
+
+## [routt-county#23] 2026-10-08 | CBOE & Abatement Hearings | agenda
+- COUNTY BOARD OF EQUALIZATION HEARINGS
+- All Board of Equalization hearings are open to the public unless otherwise noted
+- Hearings will be held at 522 Lincoln Avenue, Steamboat Springs, in the
+- Commissioners' Hearing Room, 3rd floor of the Historic Courthouse, or otherwise
+- OVERVIEW OF HEARING PROCEDURES
+- The hearing officer, having been appointed by the Board of County Commissioners as
+- an independent referee, will conduct the hearing. No discussion of taxes will be
+- allowed, as the subject matter of the hearings is in relation to property valuation
+- and/or classification. The procedure for each hearing is as follows; both sides will
+- have the opportunity to present their evidence, and then the hearing officer will
+- R8180477 BROADWATER
+- 2025_R8180477_BROADWATER_PETITIONER SUBMISSION.PDF
+- R8180477_BROADWATER_2025 ABATEMENT_APPRAISER
+- R8180477 BROADWATER ABATEMENT FORM SIGNED BY ASSESSOR
+- All programs, services and activities of Routt County are operated in compliance with
+- we can meet your needs. Please notify us of your request as soon as possible prior
+- ability to access information, please contact us . Additional ways to provide feedback
+
+## [routt-county#24] 2026-10-08 | Yampa Valley Airport Commission | agenda
+- Approval Of The August 13, 2026 Regular Meeting Minutes
+- Non-Agenda Public Comments: Time Allotted 3 Minutes
+- Airport/Capital/Infrastructure/Budget Update - Josh Schroeder
+- Airport/Capital/Infrastructure/Budget Update - Tinneal Gerber
+- Manager's Reports - Provided Via Email. No Verbal Presentation Will Be Made, Except To
+- Discuss Location/Format & Agenda Items For December 10, 2026, Meeting: Time Allotted:
+- Note: All programs, services and activities of Routt County are operated in
+- (970) 879-0108 to assure that we can meet your needs. Please notify us of your
+- request at least seven business days prior to the scheduled event. Routt County
+- Project Update
+- l Identify 10
+
+## [routt-county#25] 2026-10-09 | Purchase of Development Rights Board Meetings | agenda
+- Purchase of Development Rights
+- Commissioners' Hearing Room
+- CONSIDERATION AND APPROVAL OF THE AUGUST 17, 2026, REGULAR SESSION
+- PROJECT REVIEW
+- Executive Session may be required under C.R.S. 24-6-402 (4)(a) to discuss the
+- purchase, acquisition, lease transfer, or sale of any real, personal, or other property
+- PROJECT 225 TIER I REVIEW
+- PROJECT 224 TIER II REVIEW
+- to discuss the purchase, acquisition, lease transfer, or sale of any real, personal, or
+- information, please contact us. Additional ways to provide feedback regarding
+
+## [routt-county#26] 2026-10-12 | BCC Monday Work Session | agenda
+- ANNUAL REPORT PRESENTATION 2026.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#27] 2026-10-13 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by the
+- BCC involving the presentation of evidence in any form for BCC consideration)
+- Public comment for an item scheduled on today ’s agenda may be taken during
+- that item ’s scheduled time. The BCC will take public comment under
+- consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- that it is a public comment. Public comments will be entered into the record
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- request that an item be "PULLED" from the consent agenda and considered
+- separately. Any member of the public may "REQUEST" any item to be "PULLED"
+- APPROVAL AND AUTHORIZATION FOR THE CHAIR TO SIGN THE PLAT
+- FOR THE SKY HITCH MATTHEWS SUBDIVSION, RESOLUTION 2026-P
+- 069 FOR THE ASSOCIATED EASEMENT VACATION, RESOLUTION 2026
+- P-070 FOR THE ASSOCIATED RIGHT OF WAY VACATION, AND
+- RESOLUTION 2026-P-071 FOR THE ASSOCIATED ZONE CHANGE,
+- APPROVED ON 08/05/2025 AS PROJECT PL20250021
+- 03_PL20250021-RESOLUTION-ZONE CHANGE FINAL.PDF
+- 01_PL20250021_VACATION EASEMENT RESOLUTION_FINAL.PDF
+- 02_PL20250021_VACATION_ROAD_RESOLUTION_FINAL.PDF
+- APPROVAL OF AND AUTHORIZATION FOR THE CHAIR TO SIGN
+- SPECLIAL USE PERMIT PL20260026; YAMPA VALLEY GRAVEL PIT AKA
+- PERMIT_PL20260026.PDF
+- BUELL FOUNDATION GRANT APPLICATION
+- BUELL GRANT 10.13.26 BCC COMMUNICATION FORM ACCESSIBLE
+- HUMAN RESOURCE COALITION GRANT APPLICATION
+- HRC GRANT 10.13.26 BCC COMMUNICATION FORM ACCESSIBLE
+- GRANT APPLICATION.PDF
+- Abatement-Mutual Agreement
+- AGREEMENT_ACCESSIBLE.PDF
+- ABATEMENT HEARING RECOMMENDATIONS
+- Consideration of the Hearing Officer's recommendations for Abatement Hearings
+- ROUTT COUNTY ABATEMENT OR REFUND OF TAXES HEARING FORM
+- R8180477 BROADWATER
+- BCC COMMUNICATION FORM R8180477 BROADWATER.PDF
+- HEALTH INSURANCE 2027 BUDGET
+- INSURANCE POOL BUDGET.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+- needs. Please notify us of your request as soon as possible before the scheduled
+- contact us . Additional ways to provide feedback regarding accessibility are available
+- Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#28] 2026-10-19 | BCC Monday Work Session | agenda
+- DIVISION OF NATURAL RESOURCES/COLORADO WATER
+- CONSERVATION BOARD PRESENTATION
+- Proposed instream flow (ISF) water rights on Lost Dog Creek and Butcher
+- An executive session may be requested for discussion of a personnel matter
+- employees who have requested discussion of the matter in open session; any
+- member of this body or any elected official; the appointment of any person
+- that do not require the discussion of matters personal to particular
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#29] 2026-10-20 | BCC Tuesday Hearing | agenda
+- PUBLIC COMMENT
+- Public comment must be presented succinctly and as prescribed by the BCC
+- Chair. Public comment will not be heard during this time if it concerns any item
+- scheduled for today or quasi -judicial items (hearings scheduled to be heard by
+- the BCC involving the presentation of evidence in any form for BCC
+- consideration). Public comment for an item scheduled on today ’s agenda may
+- be taken during that item ’s scheduled time. The BCC will take public comment
+- under consideration but will not make any decision or take action at this time
+- IF YOU ARE ATTENDING THE MEETING REMOTELY, To make a public comment
+- then select you when it is your turn. Written public comments can also be
+- email that it is a public comment. Public comments will be entered into the
+- APPROVAL OF ACCOUNTS PAYABLE, MANUAL WARRANTS, AND PAYROLL
+- may request that an item be "PULLED" from the consent agenda and
+- considered separately. Any member of the public may "REQUEST" any item
+- APPROVAL OF JUNE 2026 MEETING MINUTES
+- SOFTWARE SYSTEM PURCHASE APPROVAL
+- SOFTWARE PURCHASE APPROVAL.PDF
+- PURCHASE OF DEVELOPMENT RIGHTS (PDR) ADVISORY
+- EXECUTIVE SESSION FOR TIER II REVIEW OF PDR PROJECT 224
+- Executive Session required under C.R.S. 24-6-402 (4)(a) to discuss the
+- purchase, acquisition, lease transfer, or sale of any real, personal, or
+- BCC COMMUNICATION FORM PDR PROJECT 224 TIER II.PDF
+- EXECUTIVE SESSION FOR TIER I REVIEW OF PDR PROJECT 225
+- BCC COMMUNICATION FORM PDR PROJECT 225 TIER I.PDF
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- ability to access information, please contact us . Additional ways to provide feedback
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted
+
+## [routt-county#30] 2026-10-20 | Museum and Heritage Advisory Board | agenda
+- Commissioners' Hearing Room
+- PUBLIC COMMENT
+- CONSIDERATION AND APPROVAL OF THE JULY 21, 2026 MINUTES OF THE MUSEUM
+- CAPACITY BUILDING GRANTS - FALL CYCLE
+- Consideration to approve and make recommendations to the Board of County
+- Consideration of a recommendation to the Board of County Commissioners regarding
+- Project Grant application in the amount of $10,711.55
+- HAYDEN HERITAGE CENTER FALL 2026 MAHFAB GRANT
+- APPLICATION.PDF
+- the Historic Routt County's South Routt County Historic Context and Survey Project
+- grant application in the amount of $48,500
+- HISTORIC ROUTT COUNTY FALL 2026 MAHFAB GRANT
+- the Historical Society of Oak Creek and Phippsburg Operation Shift F -5 Project grant
+- application in the amount of $3,646
+- MAHFAB GRANT APPLICATION.PDF
+- 2026 financials and 2027 budgets
+
+## [routt-county#31] 2026-10-26 | BCC Monday Work Session | agenda
+- Routt County operates all programs, services, and activities in compliance with the
+- meet your needs. Please notify us of your request as soon as possible before the
+- information, please contact us. Additional ways to provide feedback regarding
+- Avenue, Hearing Room, Steamboat Springs - or otherwise noted

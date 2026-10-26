@@ -1,0 +1,122 @@
+# silver-cliff
+
+## [silver-cliff#0] 2026-09-01 | Board of Trustees | agenda
+- 3. Amendments to Agenda
+- 4. Approval of Agenda
+- Note: All items listed under the Consent Agenda are considered routine and will be approved with one
+- motion. There will be no separate discussion of these matters unless a Board Member or citizen so
+- requests, in which case the item may be removed from the Consent Agenda and considered separately, at
+- a. Approval of minutes for August 4, 2026
+- c. Approval of Bills
+- a. Altitude Fitness funds request
+- b. Consideration of approval of the Workforce Housing IGA with Westcliffe
+- c. First reading of Ord. 05-2026 Amending Ord. 04-2021 Cemetery Regulations
+- a. Workforce Housing Information from Troy Bomgardner
+- 10. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business owners can
+- address the Board of Trustees to request to be on a future agenda
+- 11. Board of Trustees Open Discussion
+
+## [silver-cliff#1] 2026-09-16 | Planning Commission | minutes
+- 612 E. Main Street
+- 1. Approval of the minutes from June 17, 2026
+- a. Affordable Housing Interior Lot Line Request
+- 4.Open discussion on other issues to come before the Planning Commission
+- 5. Public Comments: (3-minute time limit): Town of Silver Cliff’s citizens or
+- business owners to address the Planning Committee and request to be on a
+- Amendment to agenda:
+- 1. Approval of the Minutes for May 20, 2026
+- Dave made the motion to approve the minutes as presented, Deb seconded the motion and it passed
+- additional parking for his employees and customers, and have it rezoned too commercial. Currently the
+- property is in R3 and would need to be a B1 for what Matt is wanting to purchase land for
+- 4. Round Mountain Water and Sewer Update
+- 5. Open Discussion on other issues to come before the Planning Commission
+- 6. Public Comments:
+- PROJECT NUMBER:
+- OVERALL SITE PLAN
+- 1" = 20'-0" 1 ARCHITECTURAL SITE PLAN
+- Grand total: 22 Parking Schedule
+- (PS1) PARKING STALL
+- SITE PLAN SCOPE
+- 1/16" = 1'-0" 1 ARCHITECTURAL SITE PLAN
+- Parking Schedule
+- 1/8" = 1'-0" 1 FLOOR PLAN - BUILDING A (3-BED / 1-BED) 1/8" = 1'-0" 2 FLOOR PLAN - BUILDING B (3-BED / 2-BED) 1/8" = 1'-0" 3 FLOOR PLAN - BUILDING C (2-BED / 2-BED)
+- 1/8" = 1'-0" 4 FLOOR PLAN - BUILDING D (1-BED / 1-BED) 1/8" = 1'-0" 5 FLOOR PLAN - BUILDING E (1-BED / 2-BED)
+- ICE & WATER SHIELD ON EXT'R
+- 1-HR FIRE RATED,
+- FLOOR PLAN - 3
+- DEWALT STREET
+- FRENCH STREET SECOND STREET
+- 1 3D VIEW - AERIAL STREET
+- 2 3D View - STREET
+- 1" = 10'-0" 1 EXTERIOR ELEVATION - STREET NORTH
+- 1" = 10'-0" 2 EXTERIOR ELEVATION - STREET SOUTH
+- 1" = 10'-0" 3 EXTERIOR ELEVATION - STREET EAST
+- CHAPTER 6. PLANNING AND ZONING COMMISSION
+- (a) The Town shall have a Planning and Zoning Commission consisting of a total of nine members:
+- (1) Five residents of the Town who shall be nominated and appointed, upon application, by a majority vote
+- (3) One additional member of the Board of Trustees who shall be nominated and appointed by a majority
+- (4) One additional member of the Board of Trustees who shall be nominated and appointed by the Mayor
+- (5) An official of the Town to be appointed by the Mayor (ex-officio)
+- (b) The Planning and Zoning Commission is an advisory Board to the Town's Board of Trustees
+- (c) All members of the Planning and Zoning Commission shall be residents of the Town of Silver Cliff
+- (d) The Planning and Zoning Commission may establish by-laws and other rules of self-governance to be
+- subsequently ratified and approved by the Town's Board of Trustees
+- (e) The term of Planning and Zoning Commission members shall be four years, with the term of those members
+
+## [silver-cliff#2] 2026-10-06 | Board of Trustees | minutes
+- 3. Amendments to Agenda
+- 4. Approval of Agenda
+- Note: All items listed under the Consent Agenda are considered routine and will be approved
+- with one motion. There will be no separate discussion of these matters unless a Board
+- Member or citizen so requests, in which case the item may be removed from the Consent
+- Agenda and considered separately, at the discretion of the Board of Trustees
+- a. Approval of minutes for September 1, 2026
+- c. Approval of Bills
+- b. Consideration of approval of Resolution 08-2026 Res-IncentiveAwardGrant
+- c. Consideration of approval of the Workforce Housing IGA with Westcliffe
+- a. Consideration of approval of the agreement with Fremont County Humane
+- b. Consideration of approval of quote to re-stain the museum and pavilion
+- c. Presentation of the proposed 2027 budget no discussion or decisions
+- d. Set budget workshop date(s)
+- 11. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business
+- owners can address the Board of Trustees to request to be on a future agenda
+- 12. Board of Trustees Open Discussion
+- Staff Present: Town Clerk Ileen Squire, Deputy Clerk Wendy Stroup, Building and Zoning Official
+- 3. Attendee Introductions: Steve Lasswell Workforce Housing, Larry Weber, Christy Schram Altitude
+- 4. Amendments To Agenda and Agenda Approval:
+- a. Approval of Minutes for August 4, 2026
+- Park Improvements Fund $ 37,915.69
+- a. Altitude Fitness funds request
+- this to be discussed at budget workshop
+- b. Consideration of approval of the Workforce Housing IGA with Westcliffe
+- Presented a draft for approval in October. Dan needs an electronic copy to adjust
+- c. First reading of Ord. 05-2026 Amending Ord. 04-2021 Cemetery Regulations
+- Troy workforce housing
+- 10. Public Comments (3-minute time limit): Town of Silver Cliff’s citizens or business owners can
+- address the Board of Trustees to request to be on a future agenda
+- 11. Board of Trustees Open Discussion
+- Troy, I would like us to consider naming the baseball field after a couch how do we properly do so? Dan
+- you can but maybe we should have an ordinance for this. Troy will work on this
+- GOCO Grant Account $33,742.00
+- WATER TRUCK 15,033.70$ payment due in Nov
+- 357-00 Cigarette Tax 220.76
+- 380-00 Licenses Sales Tax 50.00
+- 386 Building and Zoning
+- 386-00 Building Permits 2,329.00
+- 386-04 Fence Permit 100.00
+- Total 386 Building and Zoning 4,208.00
+- 408-01 1% Sales Tax Increase 45,845.19
+- Building & Zoning
+- 613-00 Bldg/Zoning Inspect. 5,579.17
+- Total Building & Zoning 5,737.93
+- 508-00 Dues and Fees 46.00
+- 543-00 Attorney's Fees 148.50
+- Parks, Public Land & Code Enfor
+
+## [silver-cliff#3] 2026-10-21 | Planning Commission | agenda
+- 612 E. Main Street
+- 1. Approval of the minutes from September 16, 2026
+- a. Vacation lot lines Silver Cliff Park
+- 4.Open discussion on other issues to come before the Planning Commission
+- 5. Public Comments: (3-minute time limit): Town of Silver Cliff’s citizens or
+- business owners to address the Planning Committee and request to be on a

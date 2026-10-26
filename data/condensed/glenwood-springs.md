@@ -1,0 +1,326 @@
+# glenwood-springs
+
+## [glenwood-springs#0] 2026-07-28 | Planning & Zoning | minutes
+- City of Glenwood Springs Planning and Zoning Commission
+- 101 W. 8TH STREET 6:00 PM
+- Also Present: Economic and Community Development Director Trent Hyatt, Senior
+- Planner Watkins Fulk-Gray, Permit Technician Joel Asplund, City Engineer Ryan Gordon and
+- Outcome: Approval of minutes was continued to August 25, 2026 Planning and Zonning
+- No public comments were offered in person or online
+- Presenter: Community Development Director Trent Hyatt introduced the appeal on behalf
+- 903.2.8 that requires an automatic fire sprinkler system for Group R‑1 occupancies. Staff
+- demonstrate why the interpretation is incorrect. Community Development Director Trent
+- requesting relief from the requirement to install an automatic fire sprinkler system in their
+- existing 400‑square‑foot guest cottage at 506 Maple Street. They provided background on
+- Susan purchased 506 Maple Street in 1998 to establish Splendor Mountain Spa with
+- o Consulted plumbing and sprinkler contractors
+- o Existing water pressure is adequate, but water piping too small
+- o Only remaining solution: replace entire water service line at an estimated
+- o Two wall-mounted fire extinguishers
+- o Building is small, detached, and surrounded by open space (alley, parking,
+- Commission Questions & Discussion Included:
+- is separate from the main building and the entrance to the cottage is located
+- in the rear of the site. The interior is a studio apartment layout with a sofa,
+- bed, bathroom, and a kitchenette with a microwave, sink and coffee maker
+- brick building with comparatively low fire risk
+- Chair Peter Waller: Is the only requirement that is giving you trouble the fire
+- Alternate Jim Frale: Is this situation to have fire sprinklers in this type of occupancy
+- consider the zoning of this space only the development. Fire sprinklers are
+- development codes for an R-1in that zone hence the fire sprinkler
+- requirements. In the residential code the council made amendments to the
+- requirement for fire sprinklers on homes less than 2,000 square feet
+- Commissioner John Houghton: Were there any amendments to the fire code for
+- o Staff response: The only amendment is a blanket requirement for single
+- family homes/duplexes of less than 2,000 square feet
+- with humans in them to be sprinkled. Local amendments are the things that
+- change that requirement. The discussion arose around newly built ADUs
+- feet applies to. The council discussed waving the requirement for sprinklers
+- Public Comment:
+- compliance and continued to be advertised even after notification. She emphasized
+- applicants attempted to bypass required procedures. She requested that full R‑1
+
+## [glenwood-springs#1] 2026-08-06 | General | agenda
+- 101 W. 8TH STREET
+- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
+- An executive session for a discussion with City Attorney, pursuant to C.R.S. § 24-6-402 (4)(b) for the purposes of receiving legal advice on
+
+## [glenwood-springs#2] 2026-08-06 | City Council | minutes
+- Hanlon, Deputy Chief of Police John Hassell, Finance Director Yvette Gustad, Public Works Director Matt
+- Engineer Ryan Gordon, Fire Marshall Robin Pitt, Senior Planner Emery Ellingson, Chief of Public Safety
+- Joseph Deras, and Director of Economic and Community Development Trent Hyatt
+- City resident Rachael Windh made comments about parking and tree stumps on Bennett
+- City resident Jennifer Balms made comments about parking on Bennett
+- City resident Emily Metric made comments about parking on Bennett
+- City resident Terry Gelino made comments about parking on Bennett
+- City resident Donna Yost made comments about parking on Brush Creek Lane
+- Board of Commissioners work session discussing the Hogback bus route
+- Mayor Pro Tem Zalinski moved to approve the consent agenda as presented
+- Item 7. 35:13 Public Update on Special Use Permit and Certificate of
+- Mayor Dehm opened the item for public comment
+- Mayor Dehm closed the public comment
+- legal enforcement action and related sanctions as well as injunctive relief against JG Housing Solutions
+- at 100 Midland Avenue related to Units 110 and 210 for code and zoning and land use violations based
+- on the prior findings of P&Zs revocation of the special use permit and continued violations of land use
+- Item 8. 2:37:03 APPEAL-000029-2026 319 Park Drive Short Term Rental
+- Zoning Commission’s ruling
+- Item 9. 3:24:13 Resolution 2026-18 Supporting HR 9826
+- Item 10. 3:33:00 Project Update
+- Item 11. 3:46:09 Intergovernmental Agreement (IGA) with Roaring Fork
+- Intergovernmental Agreement with Roaring Fork Transportation Authority
+- Item 12. 3:51:35 Award Request for Proposal (RFP) 2026-18P
+- Director of Operations and Interim Parks and Recreation Director Tim Bergman presented on the item
+- Request for Proposal (RFP) 2026-18P Community Center Climbing Wall
+- Item 13. 4:05:01 Fire Department Funding and Consideration of a
+- Property Tax Increase on the November 2026 Ballot
+- Public Works Director Matt Langhorst reported on a water metering and billing issue
+
+## [glenwood-springs#3] 2026-08-20 | City Council | minutes
+- Hanlon, Deputy Chief of Police John Hassell, Finance Director Yvette Gustad, Public Works Director Matt
+- Community Development Trent Hyatt
+- City resident Judy Haynes made comments about a complaint sent to Planning and Zoning and 100
+- Councilor Smith made announcements about the recent Workforce Housing Fund Advisory Board
+- meeting, Cavern Springs mobile home park, signing of a Colorado Coalition for Climate Action letter,
+- school starting this week, and success of Coach Miller Drive project
+- Mayor Pro Tem Zalinski moved to approve the consent agenda as presented
+- Item 9. 34:32 Resolution 2026-20; A resolution of the city council of the
+- 2026, and certifying a ballot issue, setting the ballot title and content
+- Mayor Dehm opened the item for public comment
+- Item 10. 1:05:10 Resolution 2026-19; Intergovernmental Agreement
+- 19; Intergovernmental Agreement with Garfield County for the 2026 Coordinated Election
+- Item 11. 1:06:19 Ordinance 2026-18; an ordinance of the City of
+- Glenwood Springs, Colorado, amending title 070 of the Glenwood
+- Springs Municipal Code regarding the regulation and permitting of
+- electric vehicle charging projects within the city
+- 000050-2026 incorporating staff’s findings because the application meets the approval criteria for a
+- code amendment with the findings and conditions of the staff report
+- Councilor Smith made comments regarding showcasing success stories, recognizing staff presentations,
+- Mayor Dehm made a comment about a resolution in support of the fire tax
+- There were letters from the Salvation Army and the Special Olympics thanking council for grant funding
+
+## [glenwood-springs#4] 2026-08-25 | Planning & Zoning | agenda
+- Planning and Zoning Commission
+- 101 W. 8TH STREET
+- A. CDA-000049-2026 Code Amendment Short Term Rental and Accessory Tourist Rental
+- A. Work Session: Economic and Community Development Year in Review
+
+## [glenwood-springs#5] 2026-08-25 | Planning & Zoning | agenda
+- Planning and Zoning Commission
+- 101 W. 8TH STREET
+- A. CDA-000049-2026 Code Amendment Short Term Rental and Accessory Tourist Rental
+- A. Work Session: Economic and Community Development Year in Review
+- City of Glenwood Springs Planning and Zoning Commission
+- 101 W. 8TH STREET 6:00 PM
+- Also Present: Economic and Community Development Director Trent Hyatt, Senior
+- Planner Emery Ellingson, Permit Technician Joel Asplund, and City Attorney Karl Hanlon
+- Motion: Councilor Amy Connerton made the motion to approve the meeting minutes for
+- Outcome: Motion was approved unanimously by digital voting system
+- No public comments offered in person or online
+- a. APPEAL-000029-2026 319 Park Drive Short Term Rental
+- permit for her property on Park Drive but was denied renewal because she had not rented
+- the unit or paid lodging taxes. She argued that the municipal code did not require an STR to
+- be rented in order to maintain a permit, only that any required taxes be paid which she had
+- Sherry Caloia clariﬁed the applicant’s position that the ordinance does not state any
+- requirement to rent the property, only to pay applicable taxes. She argued that the city’s
+- interpretation was incorrect, that Cindy complied with the written ordinance, and that if the
+- city wishes to require rentals, the ordinance must be amended. She also requested an
+- Key points of the presentation:
+- Has lived in Glenwood Springs since 1978 at 319 Park Drive for 41 years
+- Stated that the seller of the house across the street told her it was being sold as a
+- Applied for a short-term rental license immediately after hearing this; did not plan
+- Completed application requirements, including installing new egress windows,
+- Application was ﬁnalized on October 22, 2025
+- Filed monthly tax forms with a zero amount, as instructed; no one questioned the
+- the property or paid lodging taxes
+- Read aloud the ordinance language requiring all taxes to be paid to renew and
+- Stated that many towns lack affordable housing because of short-term rentals
+- Noted that the commission would be discussing an ordinance change to require
+- rentals in order to renew and stated that the current ordinance does not say that
+- Commission Questions & Discussion Included:
+- you that renewal requires having rented the property and remitted some sales tax,
+- relation to this permit?
+- discussed. I continued with additional procedures, including a complex one
+- Commissioner Amy Connerton: You previously said you ﬁled for the permit
+- immediately after speaking with the buyers across the street, but also said you
+- o Cindy Svatos: When the buyers across the street told me their plans, my
+
+## [glenwood-springs#6] 2026-09-03 | City Council | minutes
+- of Economic and Community Development Trent Hyatt, and Fire Officer David Reinhold
+- City resident Jennifer Balmes made comments about parking on Bennett Ave
+- City resident Kelly Zevin made comments about parking on Bennett Ave
+- City resident Emilie McKittrick made comments about parking on Bennett Ave
+- City resident Rachel Windh made comments about parking Bennett Ave
+- City resident Al Seaver made comments about parking Bennett Ave
+- Councilor Townsley made an announcement about fire restrictions
+- Mayor Pro Tem Zalinski moved to approve the consent agenda; Item A: August 20th City Council
+- Minutes, Item B: Resolution 2026-21, Item C: Ordinance 2026-18
+- Item 7. 33:24 Proclamation for Restoration of Fire Bell
+- Mayor Dehm presented the proclamation to former Fire Chief Jim Mason and former firefighter Brett
+- Parks Superintendent Dan Roper presented on the item
+- Glenwood Springs Parks and Wildlife officer with Colorado Parks and Wildlife Becca Cass spoke on the
+- Mayor Dehm opened the item for public comment
+- Item 10. 2:09:31 Ordinance 2026-19; AN ORDINANCE OF THE CITY OF
+- GLENWOOD SPRINGS, COLORADO, APPROVING THE FRANCHISE
+- AGREEMENT WITH COMCAST OF COLORADO IX, LLC
+- 2026-19; an ordinance of the City of Glenwood Springs, Colorado, approving the franchise agreement
+- Councilor Schachter made a comment about street weight limits and designated haul routes and
+- requested council support to move forward with looking at this topic
+- employee housing
+
+## [glenwood-springs#7] 2026-09-17 | City Council | minutes
+- Hanlon, Deputy Police Chief John Hassell, Finance Director Yvette Gustad, Director of Operations Tim
+- Economic and Community Development Trent Hyatt, Senior Planner Emery Ellingson, Housing
+- Development Manager Watkins Fulk-Gray and Economic Development Specialist Jacob Zook
+- Mayor Dehm will recuse himself for Item 10: Ordinance 2026-22; an Ordinance of the City of Glenwood
+- Springs, Colorado, amending the Glenwood Springs Municipal Code regarding the regulation and
+- permitting of accessory tourist rentals and short term rentals in the city
+- City resident Mike Henry made comments about bear/trash enforcement and noise ordinance
+- Mayor Pro Tem Zalinski made an announcement about KGWS Sumers Airpark Aviation Expo
+- Mayor Pro Tem Zalinski moved to approve the consent agenda; Item A: September 3rd City Council
+- Minutes, Item B: Arts and Culture Board Appointment, Item C: Purchase of a D6XE Trash Grade Dozer,
+- Item D: Ordinance 2026-19 Second Reading
+- Item 7. 52:24 Presentation from Stepping Stones
+- Mayor Dehm opened the item for public comment
+- Economic Development Specialist Jacob Zook presented on the item
+- Item 10. 1:55:22 Ordinance 2026-22; AN ORDINANCE OF THE CITY OF
+- GLENWOOD SPRINGS, COLORADO, AMENDING THE GLENWOOD
+- PERMITTING OF ACCESSORY TOURIST RENTALS AND SHORT TERM
+- Mayor Pro Tem Zalinski opened the item for public comment
+- Ordinance of the City of Glenwood Springs, Colorado, amending the Glenwood Springs Municipal Code
+- regarding the regulation and permitting of accessory tourist rentals and short term rentals in the city
+- amended to include a minimum of 20 nights and a minimum remittance of $150 in sales tax over a two
+- accident. He also gave an update on Ballot Initiative 175, made a comment about housing code and the
+- Councilor Schachter made comments about having an overarching housing conversation; municipal code
+
+## [glenwood-springs#8] 2026-09-22 | Planning & Zoning | minutes
+- City of Glenwood Springs Planning and Zoning Commission
+- 101 West 8TH STREET 6:00 PM
+- Also Present: Economic and Community Development Director Trent Hyatt, Senior
+- Planner Emery Ellingson, Permit Technician Joel Asplund and City Attorney Karl Hanlon
+- Motion: Commissioner Amy Connerton made a motion to approve the meeting minutes for
+- Motion: Alternate Jim Frale Made a motion to approve the meeting minutes for July 28,
+- No public comments were offered in person or online
+- a. CDA-000049-2026 Code Amendment Short Term Rental and Accessory Tourist
+- amendment (CDA‑000049‑2026) concerning short‑term rentals (STRs) and accessory
+- tourist rentals (ATRs). The amendment aims to clarify renewal requirements; specifically,
+- that permit holders must rent at least once and remit lodging tax during any given permit
+- period to renew. Ellingson also provided follow‑up information requested by the Planning &
+- Zoning Commission, including data on STR activity, comparisons to other communities, fee
+- Clarification on permit requirements for renewal
+- o That permit holders must rent at least one night and remit lodging tax greater
+- than zero dollars in order to renew STR or accessory tourist rental permits
+- which is based on 5% of housing units in the city and there is no cap on ATRs
+- o For all of the STRs and ATRs in the renewal cycle there were 47 police or
+- trash, and parking with zero permits being revoked
+- Salida, Breckenridge, Crested Butte, Grand Junction, and Carbondale were
+- Commission Questions & Discussion
+- o Staff response: There was a recent appeal that went to Planning and Zoning
+- o Staff response: Administratively these permits take a toll on the entire
+- Commissioner Kyle Jones: During the original discussion on short term rentals
+- o Staff response: I was not here for the original discussion on STRs and the
+- housing, and affordable alternatives to traditional rentals. The 250’ buffer
+- Alternate Jim Frale: Is the proposed amendment of at least one night and greater
+- General Improvement District (GID) and zoning along with limitations per
+- a person holds a permit to block others
+- Commissioner John Houghton: Does the 126 out of 210 permit number include the
+- not show up on our maps. While the GID increases in housing units can
+- Alternate Jim Frale: Is there a wait list for permits?
+- for an application, or you are not. Eligible applicants are all on a first come
+- Commissioner Amy Connerton: I believe that the intention of a permit is that it is
+- permit holders who have not intention of using their permit
+- Chair Peter Waller: Can you clarify Carbondale’s requirement on primary
+
+## [glenwood-springs#9] 2026-10-01 | City Council | agenda
+- 101 W. 8TH STREET
+- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
+- 3:00 Downtown Development Authority Joint Work Session Information/Discussion
+- 4:00 Confluence Planning Discussion Information/Discussion
+- 5:00 Transportation Commission Joint Work Session Information/Discussion
+- 6. Consent Agenda Discussion and/or Action
+- B. RESOLUTION 2026-22; A RESOLUTION OF THE CITY OF GLENWOOD
+- C. Ordinance 2026-22; AN ORDINANCE OF THE CITY OF GLENWOOD SPRINGS,
+- COLORADO, AMENDING THE GLENWOOD SPRINGS MUNICIPAL CODE
+- REGARDING THE REGULATION AND PERMITTING OF ACCESSORY TOURIST
+- D. Historic Preservation Commission Appointment
+- ACTIONS AND/OR PRESENTATIONS
+- 7. Presentation from River Bridge Presentation
+- 8. Funding Request for 130 Midland Affordable Homeownership Project Discussion and/or Action
+- 9. 1600 Bennett Parking Fee-In-Lieu Request Discussion and/or Action
+- 10. Ordinance 2026-21; AN ORDINANCE OF THE CITY OF GLENWOOD SPRINGS,
+- COLORADO, AMENDING THE 2026 APPROPRIATION ORDINANCE TO REFLECT
+- CARRYOVERS FROM THE 2025 BUDGET, REALLOCATION OF FUNDS, AND
+- EXPENDITURES APPROVED AFTER SUBMISSION OF THE 2026 BUDGET. One Reading
+- Discussion and/or Action
+- 11. Presentation and Submittal of 2027 Budget Presentation
+
+## [glenwood-springs#10] 2026-10-06 | Planning & Zoning | agenda
+- Planning and Zoning Commission
+- 101 W. 8TH STREET
+- A. SUB-000115-2026: Preliminary Plat Application for 51993 Hwy 6 & 24
+
+## [glenwood-springs#11] 2026-10-06 | Planning & Zoning | agenda
+- Planning and Zoning Commission
+- 101 W. 8TH STREET
+- A. SUB-000115-2026: Preliminary Plat Application for 51993 Hwy 6 & 24
+- Planning and Zoning Commission Staff Report
+- Request Consideration of a Preliminary Plat application
+- Applicant Cohen-Esrey Development Group
+- Staff Watkins Fulk-Gray, Senior Planner and Housing Development Manager
+- preliminary plat procedure provides a mechanism for the City to review an overall plan for a
+- proposed subdivision to ensure compliance with this Code, the Comprehensive Plan, and
+- states that “[A] preliminary plat is required if the proposed subdivision is on land that has
+- not been platted.” The subject property related to this application is unplatted, meaning
+- that it has a metes and bounds legal description and is not part of an approved subdivision
+- Otherwise, the application would be eligible for a minor subdivision since it simply
+- Per Section 070.060.060(b)(3)f.1, the Planning and Zoning Commission (Commission)
+- “…shall review the preliminary plat application and recommend approval, approval with
+- conditions, or denial of the preliminary plat in accordance with Subsection 070.060.030(g)
+- and the approval criteria in Paragraph 4…” After approval of a Preliminary Plat application,
+- applicants must submit a Final Plat application, which is reviewed administratively by City
+- Action 1 – Preliminary Plat – Consideration of a Preliminary Plat application to combine
+- Staff Recommendation: Staff recommends approval of the application
+- The subject property is located at 51993 Highway 6 and 24 and consists of three separate
+- parcels totaling 3.93 acres. On April 3, 2025, a Major Site and Architectural Plan Review
+- application was approved by City Council for the construction of an 80-unit deeply
+- affordable multifamily project referred to as Canyon Vista. A combined building permit
+- and Final Plans Review application is currently under review
+- the project prior to the applicant closing on the property and commencing construction
+- Section 070.060.060(b)(3)f.4 of the Code outlines the seven approval criteria (listed in
+- italics below) that the Commission and City Council shall consider for Preliminary Plat
+- applications. Staff analysis of these criteria follows
+- Is consistent with the Comprehensive Plan;
+- Analysis: The project and the lot consolidation is consistent with several housing goals
+- in the Comprehensive Plan, and there are no known incompatibilities with the
+- Comprehensive Plan. Relevant goals include the following:
+- Direct development to locations and building forms that are cost effective to
+
+## [glenwood-springs#12] 2026-10-15 | City Council | agenda
+- 101 W. 8TH STREET
+- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
+- 3:00 Arts and Culture Board Joint Work Session Information/Discussion
+- 3:30 Mountain Waste and Recycling Pay as You Throw (PAYT) Contract Discussion Information/Discussion
+- 3:45 Comprehensive Transportation Discussion Information/Discussion
+- 4:30 Housing Policy Discussion Information/Discussion
+- 6. Consent Agenda Discussion and/or Action
+- B. Award Request for Proposal 2026-24P Pedestrian Crosswalk Maintenance
+- ACTIONS AND/OR PRESENTATIONS
+- 7. Every Child Parachute to Aspen, a Special District, Introduction and Update to Council Information/Discussion
+- 8. Middle Colorado Watershed Council Letter of Support and Presentation Discussion and/or Action
+- 9. Resolution 2026-23; A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
+- GLENWOOD SPRINGS, COLORADO, APPROVING THE MEMORANDUM OF
+- Discussion and/or Action
+- 10. Funding Request for 130 Midland Affordable Homeownership Project (Continued
+- 11. Right-of-Way Encroachment License and Premliminary Plat Application for 51993
+- Information/Discussion
+- A. ROWENC-000132-2026 Right-of-Way Encroachment License Discussion and/or Action
+- B. SUB-000115-2026 Preliminary Plat Discussion and/or Action
+- 12. 2027 Tourism Promotion Fund Budget Discussion and/or Action
+- 13. Mountain Waste and Recycling Pay as You Throw (PAYT) Contract Discussion and/or Action
+- 14. Ride Glenwood On-Demand Pricing Discussion and/or Action
+- 15. 2027 Public Budget Hearing Information/Discussion
+
+## [glenwood-springs#13] 2026-10-15 | City Council | agenda
+- 101 W. 8TH STREET
+- ATTENTION: To ensure your written comments are included in the City Council packet, public comments must be received by 4 p.m
+- 2. Executive Session Discussion and/or Action
+- City of Glenwood Springs v. Mitchell-Cooper Ditch and Pipeline Company, and 3) City of Glenwood Springs vs JG Housing Solutions, LLC
+- 3. Direction and/or Action on Executive Session Discussion and/or Action

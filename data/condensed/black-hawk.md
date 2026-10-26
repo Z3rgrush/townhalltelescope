@@ -1,0 +1,130 @@
+# black-hawk
+
+## [black-hawk#0] 2026-08-12 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes,
+- Police Commander Jantz, Fire Chief Woolley, Fire Marshal Walsh,
+- Clerk Greiner, Community Planning & Development Director Svoboda,
+- Development Services Coordinator Richards, Public Works Director
+- Isbester, City Engineer Reed, Water Resource Engineer Dallam, Water
+- team members from Police, and Deputy City Clerk Martin
+- 3. AGENDA CHANGES: Deputy Clerk Martin noted that Agenda item 1 IC, Resolution 48-2026,
+- INTRODUCTIONS: Ross Downs, Police Officer
+- Police Chief Reyes introduced Officer Ross Downs, who started in public
+- with a short stint as a wildland firefighter. His wife is also a Police
+- 7. PRESENTATION: Fill the Bus Check Donation for Gilpin County Students
+- Walmart in Bergen Park to request a donation. He didn't hear back for a
+- so very generous. They plan to do it again next year. They were both
+- congratulated for all their efforts, and Mr. Marr was very grateful for the
+- 8. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 9. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 10. PUBLIC HEARINGS:
+- A. CB12, An Ordinance Approving a Reimbursement Agreement Between the City of Black
+- Mayor Spellman read the title and opened the public hearing
+- Water Resource Engineer Dallam explained that the City was pursuing a
+- permit from the Army Corps of Engineers to build a reservoir and
+- the cost of reviewing the permit application; they will subcontract the
+- review to Wright Water Engineers
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB12, an Ordinance
+- approving a Reimbursement Agreement between the City of Black Hawk
+- "against" the Ordinance to come forward
+- Hearing closed
+- to approve CB12, an Ordinance approving a Reimbursement Agreement
+- B. Resolution 47-2026, A Resolution Awarding the Bid and Approving the Contract Between
+- for Construction of the Ballard House Renovation and the Barn Shed Addition Project
+- bundled together for a single bid; seven bids were received, and Roche
+- Constructors was the low bidder
+- to approve Resolution 47-2026, a Resolution awarding the bid and
+- approving the contract between the City of Black Hawk and Roche
+- of the Ballard House renovation and the Barn Shed addition project
+- MOTION PASSED After some discussion, the motion PASSED unanimously
+- C. Resolution 48-2026, A Resolution Approving the Vacant Land Sale Agreement Between
+- Central City has a permitting process for its roadways, but has no idea
+- what traffic study they did to support its ordinance. The City is doing its
+
+## [black-hawk#1] 2026-08-26 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes, Fire
+- Chief Woolley, Fire Marshal Walsh, Acting Finance Director Parsons,
+- Planning & Development Director Svoboda, City Engineer Reed, Water
+- Resource Engineer Dallam, Water System Superintendent McLain,
+- public hearing on CB13, the dollar amount to Resolution 52-2026,
+- Resolution 48-2026 again
+- Jill Barker, Water Utility Operator I
+- Clem Hofman, Water Utility Operator I
+- Water System Superintendent McLain introduced the two newest Water
+- Utility Operators. Jill Barker, a Colorado native, comes with water and
+- wastewater experience and knows our current team member, Charles
+- previous Water Engineer, Jim Ford, during that time, so he knew about
+- 7. PUBLIC COMMENT:
+- 8. APPROV AL OF
+- to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9. PUBLIC HEARINGS:
+- A. CB13, An Ordinance Terminating the Intergovernmental Agreements to the Extent Such
+- Agreements Remain in Effect Regarding the Command/Emergency Response Currently
+- Mayor Spellman read the title and opened the public hearing
+- Fire Chief Woolley introduced this item. The vehicle was acquired in
+- it back to Arapahoe County, which was the grant administrator
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB13, an Ordinance
+- terminating the Intergovernrnental Agreements to the extent such
+- agreements remain in effect regarding the Command/Emergency
+- Ordinance to come forward
+- Hearing closed
+- Bennett to approve CB13, an Ordinance terminating the
+- Intergoverntnental Agreements to the extent such agreements remain in
+- B. Resolution 48-2026, A Resolution Approving the Vacant Land Sale Agreement Between
+- C. Resolution 49-2026, A Resolution Approving the License Agreement Between the City of
+- City Manager Hillis explained that this License Agreement would allow
+- to approve Resolution 49-2026, a Resolution approving the License
+- Agreement between the City of Black Hawk and Larry Linker and
+- D. Resolution 50-2026, A Resolution Accepting the City of Black Hawk Reconnaissance
+- E. Resolution 51-2026, A Resolution Accepting the City of Black Hawk Five-Year Historic
+- Preservation Commission Work Plan, Dated May 12, 2026
+- Community Planning & Development Director Svoboda said that both of
+- these are required as part of the City"s Certified Local Government
+- (CLG) compliance and certification with the State Historic Preservation
+- Bennett to approve Resolution 50-2026, a Resolution accepting the City
+- 16, 2026, and Resolution 51-2026, a Resolution accepting the City of
+
+## [black-hawk#2] 2026-09-09 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Commander
+- Jantz, Fire Chief Woolley, Fire Marshal Walsh, Acting Finance Director
+- Community Planning & Development Director Svoboda, Development
+- Engineer Reed, Water Resource Engineer Dallam, Maintenance
+- 3. AGENDACHANGES: DeputyClerkMartinsaidResolution48-2026wouldbecontinuedagain
+- COMMENTS: Mayor Spellman said he would like to draft a Resolution in support of
+- Initiative 1 77, the Colorado right to purchase and sell natural gas for
+- 7. PUBLIC COMMENT: DeputyCityClerkMartinconfirmedtwopeoplehadsigneduptospeak
+- 80422, signed up to speak on Resolution 55. She had prepared her
+- it is still in unincorporated Gilpin County. Not a Black Hawk
+- with plans to take even more water away from your neighbors,
+- friends, and fellow residents of unincorporated Black Hawk. The
+- recorded history, it was written in a plan, the plan to take our water
+- to stop this plan for more and to be satisfied with all we have
+- Phil Gibbs, of 2107 Dory Hill Road, Black Hawk, CO 80422, signed up
+- to speak on the Comprehensive Plan. He had prepared his comments to
+- The city's 2024 Comprehensive Plan envisions Black Hawk's future
+- enforcement needs. They also ask about water
+- In May of this year, city council approved Resolution 33-2026,
+- authorizing the contract for Four Mile Gulch Well #6 near the bottom
+- of Dory Hill Road. Well #6 will be drilled to a depth of 1,000 feet. This
+- one well will deliver up to 161 -acre feet of water per year, or
+- Springs and Chalet Park currently have just over 300 homes
+- The introduction to the resolution states that city staff is pursuing
+- residential water supply
+- states that the maximum annual flow rate in the city is currently 482
+- acre feet per year, or approximately 157 million gallons
+- If the resort plan is fully realized, the report forecasts the maximum
+- annual flow rate in the city to be 3,070-acre feet, or approximately one
+- ERO Resources recommends ground water from Aspen Springs and
+- The city's plan will likely generate a great deal of institutional wealth
+- In addition to the risks to Aspen Springs and Chalet Park water
+- I am asking you to pause plans to drill additional wells and consider
+- impact or demonstrate that there is no harm
+- 8. APPROV AL OF
+- Johnson to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 9. PUBLIC HEARINGS:
+- A. Resolution 48-2026, A Resolution Approving the Vacant Land Sale Agreement Between
+- B. Resolution 53-2026, A Resolution to Encourage Diversification of the City's Local

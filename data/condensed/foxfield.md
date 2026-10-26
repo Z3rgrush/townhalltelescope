@@ -1,0 +1,121 @@
+# foxfield
+
+## [foxfield#0] 2026-08-06 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – July 16, 2026
+- a. Resolution 2026-06 A Resolution of the Board of Trustees of the Town of Foxfield Approving a
+- b. Resolution 2026-08 A Resolution of the Board of Trustees of the Town of Foxfield Approving
+- the Purchase of Solar Powered Radar Speed Signs and a Quote Between the Town and
+- The Board reviewed the meeting minutes and financial statements. Mayor Jones moved to approve the
+- 5. Public Hearings and Possible Action
+- A. Ordinance 2026-03 Adopting the Wildfire Resiliency Code
+- Mayor Jones opened the public hearing regarding Ordinance 2026-03 adopting the Wildfire Resiliency
+- intended to safeguard life and property from wildfire hazards and reduce fire spread between
+- structures and surrounding wildland areas. No public comments were received and the hearing was
+- closed. The Board discussed prior review of the code and the State's recommendation that
+- municipalities adopt the standards. Mayor Jones moved to approve Ordinance 2026-03. Trustee
+- B. Ordinance 2026-02 Land Use Code Update
+- Mayor Jones opened the public hearing regarding amendments to the Land Use Code. The proposed
+- No public comments were received and the hearing was closed. Mayor Jones moved to approve
+- Ordinance 2026-02. Trustee Shultz seconded. Motion passed unanimously
+- C. Resolution 2026-05 CLI Services Street Light Repairs
+- The Board reviewed a proposal from CLI Services to replace three roadway light fixtures and one fuse
+- kit at Lewiston Way and Parker Road. Trustees discussed the contractor's not-to-exceed pricing
+- structure, deposit requirements for projects exceeding $5,000, and anticipated project costs. Staff
+- agreed the proposal appeared reasonable. Mayor Jones moved to approve Resolution 2026-05
+- D. Waco Street Drainage and Culvert Repairs
+- Staff presented engineering recommendations concerning erosion and roadway deterioration near
+- Waco Street. Trustees discussed observations from the engineering report, the condition of the
+- culvert, potential future roadway damage, and the possibility that continued erosion could eventually
+- the problem. Board members discussed replacing the proposed seeding with riprap rock to provide
+- additional stabilization near the roadway and reduce future erosion. Staff was directed to obtain
+- E. Resolution 2026-07 2026 Pavement Repair and Surface Treatment Program
+- Trustees discussed quantities of sealant and mastic material, lessons learned from the previous year's
+- project, project budgeting, contingency spending, and contractor communication requirements when
+
+## [foxfield#1] 2026-08-18 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- 1. Wildfire Prevention Training Presentation by Brandi Miller, Community Risk Reduction
+- Specialist for South Metro Fire Rescue
+
+## [foxfield#2] 2026-09-17 | City Council | agenda
+- South Metro Fire Protection District Station #42
+- 7320 South Parker Road
+- a. Approval of Minutes – August 6, 2026
+- 5. For Discussion
+- 5. For Approval
+- a. Resolution 2026-06 A Resolution of the Board of Trustees of the Town of
+- Foxfield Approving a Quote Between the Town and Terracare for the Waco
+- Waco drainage repair project. The revised proposal removed the previously
+- discussed culvert cleanout work after further review indicated that the culvert
+- retained seeding and watering components while reducing overall project costs
+- Trustees discussed project timing, erosion control alternatives, riprap installation,
+- seeding and watering costs, and engineering recommendations. The Board agreed to
+- restore the area and evaluate drainage conditions before considering additional
+- improvements. Staff were directed to coordinate project scheduling with the
+- contractor for the fall
+- Mayor Jones moved to approve Resolution 2026-06 approving the quote from
+- b. Resolution 2026-08 A Resolution of the Board of Trustees of the Town of
+- oxfield Approving the Purchase of Solar Powered Radar Speed Signs and a
+- speed signs, including installation costs, for a total project cost of approximately
+- $22,373. The Board discussed the effectiveness of radar signs, speed humps,
+- targeted enforcement, and overall traffic-calming strategies. Trustees questioned
+- purchase and instead pursue a resident reporting tool on the Town website to
+- identify speeding trends, locations, and times. Information collected would be used
+- Trustee Pakanati urged the board to reconsider their decision and to bring this
+- discussion back to the board when all Trustees could be present
+- i. Trustee Hodge reported to the board on putting the signs up for the fire
+- cancelled because the Fire Prevention meeting was being held in
+- to reach residents for the Wildfire Prevention meeting, code
+- Colo Interac - building permits $ 2,085.93
+- Colo Interac- AC Use Payable Tax $ 100.38
+- Use Tax $ 615.00
+- Colorado Mediation & Resolution Service-Municipal Judge - $ 250.00
+- CORE - 6806 S Parker Road lights $ 107.10
+- Uprinting (Fire Mitigation Meeting) - $ 93.94
+- Sales Tax $ 43,873.90
+- AC Property Tax $ 34,144.81
+- Cigarette Tax $ 47.73
+- MV Sales Tax $ 93.75
+- Road and Bridge Shareback $ 2,592.76
+- ColoTrust American Rescue Plan Fund
+- Colo Interac - building permits $ 1,197.95
+- Colo Interac- AC Use Payable Tax $ 94.85
+- Arapahoe County Use Tax Payable - $ 411.33
+- CORE - 6806 S Parker Road lights $ 111.50
+- Sales Tax $ 43,028.98
+- AC Property Tax $ 2,935.15
+- Cigarette Tax $ 59.48
+- Mineral Tax $ 133.62
+- Severance Tax $ 220.51
+- Location Nov Tax
+
+## [foxfield#3] 2026-10-01 | City Council | agenda
+- a. Approval of Minutes – September 17, 2026
+- 5. For Approval
+- a. Resolution 2026-09 A Resolution of the Board of Trustees of the Town of Foxfield Approving
+- the Bid Between the Town and Vance Brothers for Additional Crack Seal
+- RE: Resolution 2026-09 A Resolution of the Board of Trustees of the Town of Foxfield
+- Approving the Bid Between the Town and Vance Brothers for Additional Crack
+- Attached as Exhibit A is a Town of Foxfield map showing the roads that were crack sealed in
+- 2025 and the roads that have recently been cracked seal in 2026. The entire Town could not be
+- completed with the approved 2 tons. SEH has estimated an additional 2 tons of crack seal is
+- needed to complete all the roads
+- Attached as Exhibit B is a Resolution approving the bid from Vance Brothers for additional 2026
+- crack seal. The total bid is $11,800. The Board previously approved $5,500; therefore, this is to
+- approve an additional $6,300. In the 2026 budget there is $46,312 for this work in the Roads
+- Maintenance Fund. The road maintenance work completed thus far was $27,265, leaving a
+- remaining budget amount of $19,047
+- “I move to approve Resolution 2026-09 Approving the Vance Brothers Bid for Additional Crack
+- Exhibit B – Resolution 2026-09 Approving the Vance Brothers Bid for Additional Crack Seal
+- Trustee’s Resolution Resolution No. 09, Series 20 26
+- A RESOLUTION OF THE BOARD OF TRUSTEES OF THE TOWN OF FOXFIELD
+- APPROVING THE BID BETWEEN THE TOWN AND VANCE BROTHERS
+- Section 1. The Board of Trustees hereby approves the Bid between the Town and Vance
+- Project Title: Date:
+- Name of Contractor : Contact:
+- Estimator/Project Manager
+- Project Engineer
+- All the color is completed and I’m thinking another pallet to ﬁnish the remaining on the project if they

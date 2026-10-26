@@ -1,50 +1,109 @@
-- title: Marshall Fire Remembrance and five-year anniversary
-  summary: The town is designing a Marshall Fire Remembrance with a gathering place and pet memorial, setting up fundraising through Colorado Gives with $25,000 committed by Louisville, and planning a five-year anniversary resilience celebration on December 18.
-  where: Superior Community Center
-  refs: [7, 9, 11, 15, 22, 24, 29]
-- title: 2027 budget and property tax levy
-  summary: Council held a series of budget review sessions on the 2027 budget and five-year plan, with sales tax flat and vehicle use tax down, then set a public hearing to adopt the budget, fees and property tax levy along with the metro district and urban renewal budgets.
+- title: Marshall Fire Remembrance Project and 5-year anniversary event
+  summary: The Town is planning a Marshall Fire Remembrance on Town-owned land, with a survey and geotechnical report done and a design team (Davis Partnerships + LandDesign) at work. Colorado Gives will act as fiscal partner, Louisville is committing $25,000, and Council is considering a fundraising advisor agreement. A Resilience Celebration is set for Friday, December 18, 6-8pm at the Community Center.
   where: Townwide
-  refs: [5, 12, 17, 21, 26]
+  refs:
+  - 7
+  - 9
+  - 10
+  - 11
+  - 15
+  - 22
+  - 23
+  - 24
+  - 26
+  - 31
+  - 32
+- title: 2027 budget and five-year financial plan
+  summary: Council held budget review sessions in August and September on the 2027 budget and 2027-2031 financial plan, with adoption hearings set for October 12 covering the fee schedule, property taxes, and budgets for the metro districts and urban renewal authority. Mid-year figures show sales tax up 0.2%, vehicle use tax down 17.1%, and permit revenue down about 31%.
+  where: Townwide
+  refs:
+  - 4
+  - 5
+  - 12
+  - 17
+  - 21
+  - 26
+  - 27
+  - 32
+- title: Zaharias property PUD amendment (7500 S 88th Street)
+  summary: The Planning Commission heard the Twenty-Fifth Amendment to the Rock Creek Ranch Planned Development for the Zaharias property, proposed by Garrett Companies, and recommended approval after a resident commented. Town Council then held a public hearing on the ordinance on September 14.
+  where: 7500 S 88th Street
+  refs:
+  - 13
+  - 15
+  - 18
   public_comment: true
-- title: Zaharias property development at 7500 S 88th Street
-  summary: Garrett Companies sought a 25th amendment to the Rock Creek Ranch planned development for the Zaharias property, with residents speaking at the planning commission hearing before it went to council.
-  where: 7500 S 88th St
-  refs: [13, 15, 18]
-  public_comment: true
+- title: Water conservation and turf reduction plan
+  summary: The Town drafted a Waterwise Landscape Transformation Roadmap and a prioritization tool for reducing non-functional turf, with a survey on Shape Superior and an August 31 work session. Council is slated to consider adopting it October 12 along with a Northern Water Southern Water Supply Project allotment amendment.
+  where: Townwide
+  refs:
+  - 3
+  - 26
+  - 27
 - title: Pirate Park playground renovation
-  summary: Council approved a design-build contract with Altitude Recreation to rebuild the Pirate Park playground, and the parks committee and council got regular progress updates.
+  summary: Council approved a design-build contract with Altitude Recreation, Inc. for the Pirate Park playground renovation. The Parks and Recreation committee and Council are receiving project updates.
   where: Pirate Park
-  refs: [1, 6, 19, 26]
-- title: Water conservation and turf reduction
-  summary: The town drafted a waterwise landscape roadmap and a tool for ranking non-functional turf to remove, gathered resident input on Shape Superior, and amended its Northern Water supply allotment.
+  refs:
+  - 1
+  - 6
+  - 19
+  - 26
+  - 27
+  - 30
+- title: Pesticide spraying concerns in park
+  summary: Residents raised concerns at the sustainability committee about a spraying event in a park near a pond. They said they were told spraying was limited to 20 feet away, and questioned whether the landscape contract should be competitively bid. Council is slated to consider a landscape agreement with Vargas Property Services on October 26.
+  where: Park between Indiana and Pitkin
+  refs:
+  - 3
+  - 32
+  - 33
+  public_comment: true
+- title: Coyote Ridge trails, open space, wildfire mitigation and prairie dog plan
+  summary: The Open Space committee is reviewing consultant Pointe Strategies' draft trail recommendations for Coyote Ridge, an updated prairie dog management plan, wildfire mitigation work, a wildlife management plan, and the Open Space Master Plan, due for approval in October. Youth Corps crews completed weed, fence and trail work over the summer.
+  where: Coyote Ridge and town open space
+  refs:
+  - 2
+  - 15
+  - 28
+- title: 88th Street bike/pedestrian improvements and trail grants
+  summary: Council approved an intergovernmental agreement with CDOT for the 88th Street Bicycle and Pedestrian Improvements Project. It is also considering a Colorado Parks and Wildlife trail grant submission, and the parks committee is discussing support for the McCaslin multi-use trail grant.
+  where: 88th Street and McCaslin
+  refs:
+  - 8
+  - 30
+  - 32
+- title: International Fire Code 2024 adoption
+  summary: Council took up an ordinance adopting the 2024 International Fire Code, presented by Mountain View Fire's Deputy Chief. The hearing was continued, and Council approved the second reading on September 28 as Ordinance 80.
   where: Townwide
-  refs: [3, 26]
-- title: Prairie dog and wildlife management plans
-  summary: The open space committee worked on a prairie dog management plan covering relocation and conflicts, a broader town wildlife plan, and balancing wildfire mitigation with habitat.
-  where: Town open space
-  refs: [2, 15, 28]
-- title: Coyote Ridge trail recommendations
-  summary: A consultant presented recommended trail projects for Coyote Ridge open space, to be priced and scheduled once staff sign off.
-  where: Coyote Ridge
-  refs: [2, 28]
-- title: Adopting the 2024 International Fire Code
-  summary: Council adopted the 2024 International Fire Code after a hearing continued from August, with the Mountain View Fire Protection District presenting.
+  refs:
+  - 1
+  - 23
+- title: Boulder County child care mill levy measure
+  summary: Council discussed the Boulder County Child Care Investment Initiative and approved a resolution supporting the county's Early Childhood Care and Education mill levy increase ballot measure.
+  where: Countywide
+  refs:
+  - 10
+  - 11
+  - 18
+- title: Rock Creek HOA tolling agreement and Rock Creek Parkway/community center construction
+  summary: Council planned a closed session on extending a tolling agreement between the Town and the Rock Creek HOA. It is also receiving construction updates on Rock Creek Parkway, the Community Center and the north and south pools.
+  where: Rock Creek
+  refs:
+  - 26
+  - 27
+  - 32
+  - 33
+- title: Trash and recycling hauling, EV trucks and apartment recycling
+  summary: Council received a presentation on contamination in recycling and organics streams and electric collection vehicles, in the context of a future hauler request for proposals. The sustainability committee also reviewed an apartment recycling and composting assessment.
   where: Townwide
-  refs: [1, 23]
-- title: Boulder County early childhood mill levy
-  summary: Council passed a resolution supporting the Boulder County ballot measure to raise the property tax for early childhood care and education, after discussing the county's child care investment initiative.
-  where: Boulder County
-  refs: [10, 18]
-- title: 88th Street bike and pedestrian improvements
-  summary: Council approved an agreement with CDOT for bicycle and pedestrian improvements along 88th Street.
-  where: 88th Street
-  refs: [8]
-- title: Trash, recycling and electric garbage trucks
-  summary: Republic Services briefed council on contamination, blocked containers and its electric collection trucks, as the town looks at a future single-hauler contract and apartment recycling and composting.
-  where: Townwide
-  refs: [3, 27]
-- title: Rock Creek Parkway, Community Center and pool construction
-  summary: Council received construction updates on Rock Creek Parkway, the community center and the north and south pools.
-  where: Rock Creek Parkway, Superior Community Center
-  refs: [26, 30]
+  refs:
+  - 3
+  - 27
+- title: Business microgrant program and public art projects
+  summary: The Town is planning a green business microgrant with $5,000 budgeted, awards up to $2,500, launching February 2027. The arts committee is planning ARTery art benches and utility box art in Circle Park, with a purchase recommendation going to Council October 26.
+  where: Circle Park and Townwide
+  refs:
+  - 3
+  - 22
+  - 31
+  - 32

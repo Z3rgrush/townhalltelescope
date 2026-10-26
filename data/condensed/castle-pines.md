@@ -1,0 +1,125 @@
+# castle-pines
+
+## [castle-pines#0] 2026-07-28 | City Council Study Session and Regular Meeting | minutes
+- APPROVAL OF AGENDA
+- The agenda was approved as presented
+- PUBLIC COMMENT
+- Stated that she does not support the location of the coffee shop on
+- Castle Pines Parkway and would like to see the roadway opened to
+- PRESENTATION OF MINUTES
+- The July14, 2026 City Council Meeting Minutes were approved as presented
+- Council Member Blue raised a Point of Order requesting that the podium be
+- Resolution 26-42, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving the Romar West, 3rd Amendment Replat,
+- Resolution 26-43, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving the Castle Pines North Filing No. 27, 7th
+- Amendment Replat, Case No. SRP-2025-002
+- Resolution 26-44, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving the Castle Pines North Filing No. 27, 8th
+- Amendment Replat, Case No SRP-2025-003
+- Resolution 26-45, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving the Castle Pines North Filing No. 17A, 1st
+- Amendment Replat, Case No. SRP-2025-004
+- Resolution 26-46, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving the Castle Pines North Filing No. 30 Plat,
+- Resolution No. 26-47, A Resolution of the City Council of the City of
+- Castle Pines, Colorado, Approving Castle Pines North Filing No. 16, 1st
+- Amendment Replat, Case No. SRP-2025-006
+- Motion: Council Member Eubanks moved to approve all items as presented on the
+- MINUTES SUBMITTED: APPROVED:
+- Agreement completed
+
+## [castle-pines#1] 2026-08-11 | City Council Meeting | minutes
+- Donna Ferguson, Community Development Director
+- APPROVAL OF AGENDA
+- The agenda was approved as presented
+- PUBLIC COMMENT
+- the update to the Site Improvement Plan and the proposed Annexation
+- Chamber of Commerce opposes the upcoming annexation ballot
+- Annexation Policy and notes he would appreciate a timeline for public
+- meetings in the annexation process
+- PRESENTATION OF MINUTES
+- The July 28, 2026 City Council Meeting Minutes were approved as presented
+- Ordinance 26-06, An Ordinance of the City Council of the City of Castle
+- Pines, Colorado, Amending Section 27 Site Improvement Plan of the City
+- of Castle Pines Zoning Ordinance on First Reading
+- Resolution 26-48, A Resolution of the City Council of the City of Castle Pines,
+- Colorado Approving an Intergovernmental Agreement Between the Douglas
+- Motion: Council Member Eubanks moved to approve all items as presented on the
+- 2025 Audited Financial Statements Presentation
+- Mike Farina, Finance Director, gave the staff presentation
+- presentation
+- Resolution 26-49, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Adopting the City of Castle Pines Annexation Policy
+- Motion: Council Member Winegar moved to continue the presentation and
+- consideration of Resolution 26-49 A Resolution of the City Council of the City of
+- Castle Pines, Colorado, Adopting the City of Castle Pines Annexation Policy to the
+- MINUTES SUBMITTED: APPROVED:
+- Agreement completed
+
+## [castle-pines#2] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
+- Parks and Recreation Advisory Board
+- REGULAR MEETING OF THE PARKS AND RECREATION
+- The meeting of the Parks and Recreation Advisory Board of the City of
+- Also present: Marcus Graves, Parks, Recreation, and Open
+- PUBLIC COMMENT
+- No public comment was presented
+- PRESENTATION OF MINUTES
+- Minutes from the June 18, 2026 Parks and Recreation Advisory
+- Board Meeting were approved as presented
+- Coyote Ridge Park Renovation Update
+- Marcus Graves, Parks, Recreation and Open Spaces Director,
+- Trail Signage and Markers Discussion
+- Marcus Graves, Parks, Recreation, and Open Space Director
+- Tiffany Ball
+- Soaring Hawk Park Phase 1
+- MINUTES SUBMITTED: APPROVED:
+- Katie Goins, Deputy City Clerk Tiffany Ball, Chair
+- Tiffany Ball (Oct 8, 2026 12:39:01 MDT)
+- 2026-08-20 Parks and Recreation Advisory
+- "2026-08-20 Parks and Recreation Advisory Board Minutes" Hist
+- Agreement completed
+
+## [castle-pines#3] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
+- Donna Ferguson, Community Development Director
+- APPROVAL OF AGENDA
+- The agenda was approved as presented
+- PUBLIC COMMENT
+- Resolution opposing an upcoming ballot measure
+- of the Castle Pines Chamber of Commerce in favor of the approval of
+- the Annexation Policy, the Resolution opposing a ballot measure, and
+- the Economic Development Strategic Plan
+- PRESENTATION OF MINUTES
+- The August 11, 2026 City Council Meeting Minutes were approved as presented
+- Resolution 26-50, A Resolution of the City Council of the City of Castle
+- Amendment to the City of Castle Pines Home Rule Charter on the Ballot
+- Resolution 26-51, A Resolution of the City Council of the City of Castle Pines,
+- Colorado Setting Ballot Title and Placing a Citizen-Initiated Amendment to the
+- Resolution 26-52, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Awarding a Bid and Approving a Construction Contract
+- Construction (Project No. 2026-PR-003)
+- Motion: Council Member Eubanks moved to approve all items on the Consent
+- PUBLIC HEARING: Ordinance 26-06, An Ordinance of the City Council
+- of the City of Castle Pines, Colorado, Amending Section 27 Site
+- Improvement Plan of the City of Castle Pines Zoning Ordinance on Second
+- Mayor Engerman opened the Public Hearing at 6:48 p.m
+- Donna Ferguson, Community Development Director, presented
+- Mayor Engerman opened the Public Comment at 7:18 p.m
+- stated the comprehensive plan elements should be left in the
+- process, wants a holistic review, and requests an amendment to
+- the ordinance
+- Ordinance 26-06 and noted it provides a clear and predictable
+- Mayor Engerman closed the Public Comment at 7:22 p.m
+- Motion: Council Member Mulvey raised a Point of Order that the discussion
+- Motion: Council Member Salazar moved to adopt Ordinance 26-06, An Ordinance
+- of the City Council of the City of Castle Pines, Colorado, Amending Section 27 Site
+- Mayor Engerman closed the Public Hearing at 7:31 p.m
+- Resolution 26-49, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Adopting the City of Castle Pines Annexation Policy
+- Motion: Council Member Mulvey moved to approve Resolution 26-49, A
+- Resolution of the City Council of the City of Castle Pines, Colorado, Adopting the
+- City of Castle Pines Annexation Policy with a minor addition of the three words
+- Resolution 26-53, A Resolution of the City Council of the City of Castle Pines,
+- Colorado Expressing Opposition to a Ballot Measure, Which Would Amend
+- the City Charter to Require Voter Approval for Certain Annexations in Excess
+- Motion: Council Member Eubanks moved to approve Resolution 26-53, A

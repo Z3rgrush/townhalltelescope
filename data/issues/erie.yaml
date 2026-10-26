@@ -1,72 +1,113 @@
-- title: Town mineral rights and the Draco oil and gas pad
-  summary: After SM Energy backed out of buying town-owned mineral rights for its Draco drilling project, council repealed the sale ordinance and discussed whether to lease the minerals instead and what role the town should play in the state drilling permit process.
-  where: Draco Pad
-  refs: [12, 14, 15]
-- title: New oil and gas rules and fees
-  summary: The planning commission reviewed a rewrite of the town's oil and gas regulations covering per-well fees, legacy wells, noise, air quality, inspections and notification, with a resident urging higher inspection fees.
+- title: Town mineral rights sale to SM Energy repealed; lease talks for the Draco drilling project
+  summary: Council approved Ordinance 26-028 on June 23 to sell Town mineral rights to SM Energy. SM Energy terminated the contract Aug. 19 and Council repealed the ordinance Aug. 25. On Sept. 1 Council was asked for direction on a possible lease (an offer of $12,000 per net mineral acre, about $1.36M bonus) and on the state ECMC process for the Draco pad.
+  where: Draco pad / Town-owned mineral rights
+  refs:
+  - 12
+  - 13
+  - 14
+  - 15
+- title: 2027 Town budget and revenue slowdown
+  summary: Staff say sales tax growth is below 2% and use tax and building permits are down over 40%, so the 2027 budget limits new staff to health-and-safety needs. Council held study sessions Aug. 18 and Oct. 6, with public hearings Oct. 27 and Nov. 10. Advisory boards were asked to cut budgets, such as Tree Board to $4,750 and Sustainability to $9,928.
   where: Townwide
-  refs: [16, 24]
+  refs:
+  - 0
+  - 3
+  - 5
+  - 6
+  - 17
+  - 19
+  - 34
+  - 35
+- title: Oil and gas regulations update (Title 10, Chapter 12)
+  summary: Planning Commission reviewed proposed revisions to oil and gas rules, including doubling inspection fees, per-well fees, legacy wells, noise, air quality, notification periods and bonding. One resident spoke on the updates.
+  where: Townwide
+  refs:
+  - 16
+  - 24
   public_comment: true
-- title: 2027 budget cuts amid falling revenue
-  summary: With sales tax growth under 2% and use tax and building permits down more than 40%, staff built a leaner 2027 budget with few new positions; advisory boards were told to cut their budgets, and hearings were set for October 27 and November 10.
+- title: Page property rezoning and open space protection
+  summary: The Open Space and Trails board recommended rezoning Page property land west of the Cottonwood Extension Irrigation Ditch as Reserved Open Space. Council discussion of the property is set for Nov. 10. A rezoning at 1025 Weld County Road 1 1/2 was also on the board's agenda, and a joint session with Planning Commission on Oct. 21 covered how to protect open space, which needs voter approval to sell or rezone.
+  where: Page property, near CR 1.5 and Reliance Park
+  refs:
+  - 1
+  - 4
+  - 20
+  - 44
+- title: New Town Manager appointed
+  summary: After receiving 60 applications in August and holding interviews, Council considered a resolution appointing Kelli Johnson as Town Manager starting Jan. 4, 2027, with an employment agreement.
   where: Townwide
-  refs: [0, 3, 5, 6, 17, 19, 34, 35]
-- title: Page property open space rezoning
-  summary: The open space board recommended rezoning land on the Page property west of the Cottonwood Extension Ditch as Reserved Open Space, which needs voter approval to ever sell or rezone, ahead of a council discussion set for November 10.
-  where: Page property, near Reliance Park and CR 1.5
-  refs: [1, 4, 44]
-- title: Protecting open space through zoning
-  summary: The planning commission and open space board held a joint session on how open space is zoned, the Reserved Open Space district, the land acquisition strategy and how the open space board reviews development.
-  where: Townwide
-  refs: [1, 4, 44]
-- title: Vista Ridge golf course and Vista Reserve development
-  summary: The planning commission and council took up two amendments to the Vista Ridge planned development, including changes for the golf course and the Vista Reserve preliminary plat.
-  where: Vista Ridge
-  refs: [7, 18, 38]
-  public_comment: true
-- title: Short-term rental rules
-  summary: The planning commission and council held hearings on adding a short-term rental chapter to the town's development code.
-  where: Townwide
-  refs: [36, 37, 38]
-  public_comment: true
-- title: Erie Municipal Airport noise, hangars and fees
-  summary: Residents complained about early-morning touch-and-go flights, while the airport board worked on hangar development, through-the-fence fees and a possible charter change to allow longer land leases, and council got a hangar development update.
-  where: Erie Municipal Airport
-  refs: [8, 25, 38, 40]
-  public_comment: true
-- title: Hiring a new town manager
-  summary: After 60 applications and interviews, council appointed Kelli Johnson as town manager starting January 4, 2027.
-  where: Townwide
-  refs: [32, 33, 41, 42]
-- title: Colliers Hill urban renewal tax increment
-  summary: The urban renewal authority and council approved tax increment agreements for the Colliers Hill area, including a Weld County amendment that drops a requirement to spend some revenue on Weld County Road 5 and allows parks and recreation projects.
-  where: Colliers Hill
-  refs: [10, 11, 12, 27, 28]
-- title: Downtown Briggs Street redevelopment
-  summary: The urban renewal authority paid for downtown infrastructure and design work and took up a development agreement for 150 Briggs Street, while council approved sidewalk patio licenses for businesses on Briggs Street.
+  refs:
+  - 32
+  - 33
+  - 41
+  - 42
+- title: Colliers Hill urban renewal tax increment agreements
+  summary: Town Council and the Urban Renewal Authority took up agreements on sharing tax increment revenue in the Colliers Hill plan area. An amendment with Weld County, approved by the County Sept. 2, removes the requirement that revenue between $10M and $14M go to Weld County Road 5 and adds parks and recreation facilities as eligible uses.
+  where: Colliers Hill Urban Renewal Plan Area
+  refs:
+  - 10
+  - 11
+  - 12
+  - 13
+  - 27
+  - 28
+- title: Downtown Briggs Street improvements and Old Town bridge design
+  summary: The Urban Renewal Authority approved paying the Town for downtown infrastructure construction and a $30K design contract amendment with Felsburg Holt & Ullevig, adding to a prior $271K reimbursement. The URA also considered a disposition and development agreement for 150 Briggs. Council considered right-of-way encroachment licenses for businesses at 500, 502 and 545 Briggs Street.
   where: Briggs Street, downtown Erie
-  refs: [11, 27, 29]
-- title: Erie Lake Dam seepage repairs
-  summary: Council amended the design and construction contracts for the project to fix seepage at the Erie Lake dam.
-  where: Erie Lake
-  refs: [18]
-- title: Proposition 123 affordable housing commitment
-  summary: The town is asking the state to cut its Proposition 123 affordable housing requirement to 30 units, and planners discussed how the commitment will shape the development code update.
+  refs:
+  - 11
+  - 12
+  - 27
+  - 28
+  - 29
+- title: Vista Ridge golf course PD amendment and Vista Reserve plat
+  summary: Planning Commission held a hearing on Vista Ridge PD Amendment No. 9 for the golf course. Council considered Vista Ridge PD amendment and Vista Reserve preliminary plat Sept. 8 and a hearing on the amendment Oct. 13.
+  where: Vista Ridge
+  refs:
+  - 7
+  - 18
+  - 38
+- title: Short-term rental regulations
+  summary: Planning Commission considered a new UDC chapter on short-term rentals, and Council scheduled a public hearing on the ordinance Oct. 13.
   where: Townwide
-  refs: [37]
-- title: Lodging tax and sales tax ballot measures
-  summary: Two ballot measures are coming, a proposed 3.5% lodging tax tied to the Sundance Film Festival and a proposed sales tax increase.
+  refs:
+  - 36
+  - 37
+  - 38
+- title: Airport hangars, through-the-fence fees and noise
+  summary: The airport board discussed residential through-the-fence fees, commercial fees, a charter change to allow land leases longer than 20 years on the ballot, and a hangar presentation to Council Oct. 13. A resident asked for more regulation of early-morning touch-and-go flights.
+  where: Erie Municipal Airport
+  refs:
+  - 8
+  - 25
+  - 38
+  - 40
+  public_comment: true
+- title: Proposition 123 affordable housing and comprehensive plan amendment
+  summary: Erie is requesting that its Prop 123 affordable housing unit requirement be reduced to 30 units. Planning Commission and Council also considered amending the 2024 Elevate Erie Comprehensive Plan and planned a Unified Development Code update with a DOLA grant application.
   where: Townwide
-  refs: [4]
-- title: Coal Creek rezoning and stream restoration
-  summary: The planning commission heard a rezoning of the Coal Creek property, and council authorized buying land for the County Line Road and Coal Creek stream restoration project.
-  where: Coal Creek, County Line Road
-  refs: [18, 36]
-- title: Water purchases and conservation
-  summary: Council approved buying Colorado-Big Thompson water units, a home water audit program with Boulder County, and heard a presentation on Northern Water's NISP reservoir project.
-  where: Townwide
-  refs: [12, 29]
-- title: Flock cameras and security
-  summary: Council met in executive session on security arrangements and Flock Safety license plate camera technology.
-  where: Townwide
-  refs: [21, 22]
+  refs:
+  - 7
+  - 18
+  - 29
+  - 37
+- title: Erie Lake Dam seepage project and County Line Road stream restoration
+  summary: Council considered contract amendments for the Erie Lake Dam seepage project and authorized negotiations to acquire property and easements for the County Line Road and Coal Creek stream restoration.
+  where: Erie Lake; County Line Road and Coal Creek
+  refs:
+  - 18
+- title: Community center, recreation campus and Linear Park projects
+  summary: Council considered design amendments for the Erie Community Center renovation and expansion, a recreation campus feasibility study, and a construction contract for Linear Park mainline work. Bids for irrigation at Linear Park were received.
+  where: Erie Community Center; Linear Park
+  refs:
+  - 3
+  - 12
+  - 13
+  - 29
+  - 30
+- title: Montessori Children's World special use at 480 Cheesman Street
+  summary: Planning Commission scheduled a public hearing on a special review use for the Montessori Children's World, along with a Coal Creek property rezoning.
+  where: 480 Cheesman Street
+  refs:
+  - 36
+  - 37

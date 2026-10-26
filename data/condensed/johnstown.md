@@ -1,0 +1,434 @@
+# johnstown
+
+## [johnstown#0] 2026-08-03 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 4. Ordinance 2026-294: Approving the Rezoning of Real Property known as Whitehall
+- 6. Ordinance 2026-295: An Ordinance Establishing a Temporary Moratorium on Data
+- 8. Discussion: June 22, 2026 Motion Regarding the Town and YMCA
+- Public Hearing
+- 9. Riverbend Estates P.U.D. Filing No. 1 Final Plat and Final Development Plan
+- Resolution 2026-36: Riverbend Estates P.U.D. Filing No. 1 Final Plat
+- Ordinance 2026-296: Riverbend Estates P.U.D. Filing No. 1 Final Development Plan
+- Subdivision Development and Improvement Agreement
+- Water and Sewer Service Agreement
+- 11. An executive session to discuss matters subject to negotiations and to instruct
+- negotiators pursuant to C.R.S. Section 24-6-402(4)(e) regarding YMCA Contract
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#1] 2026-08-10 | Town Council | agenda
+- 1. Stormwater Master Plan Rate Study Presentation
+- 2. Discussion: Northern Integrated Supply Project (NISP)
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#2] 2026-08-10 | Town Council | agenda
+- 1. Stormwater Master Plan Rate Study Presentation
+- 2. Discussion: Northern Integrated Supply Project (NISP)
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- Subject: Stormwater Master Plan Rate Study Presentation
+- Attachments: 1. Stormwater Rate Study Presentation
+- 2. Stormwater Master Plan Rate Study Report
+- The Stormwater Utility Enterprise was formally established in 2004. Since the establishment of the
+- enterprise, the rates have not been adjusted as the town continues to grow and maintenance and
+- replacement costs rise. This has limited the capability of the Town to manage the stormwater
+- system in a more proactive manner for both maintenance and capital projects, to ensure the
+- protection of public and private property during storm events
+- In 2024, facilitated by a grant award, the Town hired a consultant to evaluate and update the
+- Stormwater Master Plan. As part of that contract, the consultant also evaluated the current rates
+- and provided a proposal for rate adjustments needed to adequately finance the enterprise based on
+- The consultant put together a list of needed capital improvement projects that are highlighted in the
+- Stormwater Master Plan. The list of projects was ordered based on several key factors such as,
+- annexation status, impact, existing level of service, and resiliency. Town Staff then separated them
+- based on annexation status, impact, and development status to narrow the list down to only projects
+- that would most likely not be built by future development. These remaining projects were reordered
+- into a tiered plan, with timelines for when each would be needed
+- The rate adjustments proposed in this evenings presentation, provide the Town with the ability to
+- Reviewed and Approved for Presentation,
+- STORMWATER MASTER PLAN RATE STUDY
+- Stormwater Enterprise
+- Established with Ordinance No. 2004-718
+- Establishing and outlining the Storm Water Utility
+- Updates were made with Ordinance No. 2020-189
+- Current Rates
+- System Development Charge $1,100/acre
+- A one-time development fee paid when a private development plats their property
+- Stormwater Management Utility fee $5/Equivalent Residential Unit (ERU)
+- A monthly fee charged to individual property owners
+- Current Rates – A Perspective
+- *Based on US Census and US Department of Housing and
+- Development Price Index Rates for New Single-Family Housing of
+- Johnstown Monthly Stormwater Rate
+- Current Annual Stormwater Fund Revenue and Expenses
+- Storm Water Fund Amount
+- Contractual Services (cleaning, repairs, camera
+- Improvement Projects (CIP)
+
+## [johnstown#3] 2026-08-12 | Planning and Zoning Commission | agenda
+- Planning and Zoning Commission
+- Agenda Approval
+- Approval of Minutes
+- 1. Approval of July 8, 2026, Regular Minutes
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- 3. Johnstown DDA Plan of Development
+- DDA Plan of Development
+- PZ letter to Council DDA Plan of Development
+- Presentation Plan of Development Services
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#4] 2026-08-12 | Planning and Zoning Commission | agenda
+- Planning and Zoning Commission
+- Agenda Approval
+- Approval of Minutes
+- 1. Approval of July 8, 2026, Regular Minutes
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- 3. Johnstown DDA Plan of Development
+- DDA Plan of Development
+- PZ letter to Council DDA Plan of Development
+- Presentation Plan of Development Services
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- PLANNING & ZONING COMMISSION REGULAR MEETING
+- APPROVAL OF AGENDA
+- A motion was made to approve of the minutes from April 22, 2026, regular Planning and Zoning
+- PUBLIC COMMENTS - Regarding items and issues not included as a Public Hearing on this
+- No Public Comment
+- PUBLIC HEARING
+- Whitehall Filing No. 2 Rezone and Preliminary Plat
+- approval of the amended rezoning application, revising the requested zoning districts from R-2, R-3,
+- Approved and reviewed by:
+- Jason Grentz - Planning & Zoning Commission Chair
+- Planning and Zoning Commission Agenda Communication
+- Project Name: Use by Special Review for the Lucky Star Monopine
+- Action Proposed: Consideration of a Use by Special Review request for a Wireless
+- Project Type:
+- Application Type: Use by Special Review
+- located northeast of County Road 42 and west of Colorado Blvd
+- Surrounding Land Uses/ Zoning:
+- North: Bella Ridge Golf Course - Zoned Planned Unit Development - Mixed-Use
+- To provide background on the subject property, Ordinance No. 2020-184 was approved on
+- second reading by the Johnstown Town Council on November 16, 2020, annexing Podtburg
+- Annexation Nos. 1 through 5 into the Town of Johnstown. The annexation included the subject
+- Concurrent with the annexation, the Town Council approved Ordinance No. 2020-185 on
+- second reading, establishing PUD-MU (Planned Unit Development – Mixed Use) zoning for the
+- property and approving the associated Outline Development Plan (ODP). The ODP established
+- the overall land use framework and development standards for the 462.35-acre development
+- As development of the property progressed, the Town Council approved Resolution No. 2024
+- 46 on October 7, 2024, approving the Final Plat and Final Development Plan (FDP) for
+- Podtburg Subdivision Filing No. 1. The approved Final Plat created Tract C, where the proposed
+- Wireless Communications Facility is located, while the approved FDP serves as the governing
+
+## [johnstown#5] 2026-08-17 | Town Council | minutes
+- AGENDA APPROVAL
+- PUBLIC COMMENT
+- Karla Humphrey. 611 Charlotte Street. asked about plans for future AI centers and what happens
+- Town Clerk Meghan Martinez read the following online public comment into the record
+- Kathy Spoon, 4590 Trade Street, inquired about the constant power outages in Centerra
+- Kiersten Klaus, 4874 Thompson Parkway, addressed the repeated power outages in Johnstown
+- Vicki Yost, 324 Windgate Court, spoke in support of continuing the Senior Center project
+- Ordinance ? 0° 6-? 96
+- Contract Award to Mountain Constructors. Inc. for the Weld County Road 15 Resurfacing Project:
+- Project Manager Brandon Torrez presented the proposed contract
+- Weld Couny' Road 15 Resurfacing Project as presented to Mountain Constructors, Inc. in the amount of
+- approve the use of these finrds for unforeseen construction expenses encountered on the project not to
+- exceed the budgeted amount, and authorce the Ton n Manager to execute the contract
+- Discussion: Senior Center Construction: Town Manager Man LeCerf presented
+- PUBLIC HEARING
+- Ordinance 20'_ 6- 297: An Ordinance accepting a portion of the U. S. Interstate 25 East Frontage Road I- 25
+- between Mile Marker 253. 2 (+/-) and Mile Marker 257. 1 N'-) and approving the Intergovernmental
+- Agreement between the Town of Johnstown and Colorado Department of Transportation:
+- At 7: 48 Mayor Duncan opened the public hearing
+- Town Manager Man LeCerf presented the proposed ordinance
+- At 8: 09 Mayor Duncan closed the public hearing
+- the Intergovernmental Agreement between the Town of Johnstown and the Colorado Department of
+- Transportation for Devohution of the East Frontage Road as presented on first reading
+- Johnstown Downtown Development Authority Plan of Development:
+- At 8: 11 Mayor Duncan opened the public hearing
+- Economic Development Director Sarah Crosthwaite presented
+- At 8: 16 Mayor Duncan closed the public hearing
+- Councilmember Molinar: The Housing Authority has made updates to the meeting room. He inquired
+- ready to award grants
+- to discuss the purchase of real property pursuant to C. R. S. Section 24- 6- 402( 4)( a) regarding the QLF
+- Propert ' and to discuss the matters subject to negotiations and to instruct negotiators pursuant to C. R. S
+- Approved by Town Council:
+
+## [johnstown#6] 2026-08-24 | Town Council | agenda
+- Hoffmann Parker Wilson & Carberry - 5:00 - 6:15 pm
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#7] 2026-08-24 | Town Council | agenda
+- Hoffmann Parker Wilson & Carberry - 5:00 - 6:15 pm
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- Attachments: 1. Hoffmann Parker Wilson & Carberry
+- The Town Council will conduct interviews for the appointed position of Town Attorney
+- Reviewed and Approved for Presentation,
+- Jefferson H. Parker
+- 511 16th Street, Suite 610
+- Re: Response to Request for Proposal for Town Attorney, Town of Johnstown
+- Hoffmann, Parker, Wilson & Carberry, P.C. was formed in 1985 with the specific goal of
+- hearing officer. Our firm has for many years been listed in the Martindale -Hubbell Bar Register
+- of Preeminent Lawyers in Municipal and Zoning Law, and the firm has maintained Martindale
+- quality, full-service representation at reasonable rates, and we believe we have succeeded in this
+- Hoffmann, Parker, Wilson & Carberry, P.C. includes six directors, three "of counsel "
+- government law firm, meaning that we provide representation in all areas of law and litigation
+- related to local governments, other than water law and public finance. Our services include general
+- contracts, intergovernmental agreements, ordinances, resolutions, deeds, and other legal
+- coordinating representation with the Colorado Intergovernmental Risk Sharing Agency (CIRSA);
+- how to amend a charter, to complex constitutional issues, over the course of the firm's history we
+- firm in the State with the same level of experience and knowledge concerning representation of
+- experience in all aspects of municipal law, specializing in land use and zoning, constitutional law,
+- the towns of Winter Park, Hudson and Pitkin. Hudson operates its own water and wastewater
+- utilities and Winter Park operates its own transit service. Hilary is also general counsel for Arvada
+- Urban Renewal Authority, Brighton Urban Renewal Authority, a few downtown development
+- Hilary is serving as special counsel for Central Weld County Water District on behalf of multiple
+- stakeholders for formation of a new regional water authority and has served as special counsel
+- drafting home rule charters for the Town of Erie, the City of Edgewater, and others
+- constitutional law, land use, municipal prosecution, drafting ordinances , resolutions, and
+- agreements, and has assisted condemnation, open records and open meetings proceedings
+- to each client. Likewise, we are happy to provide our clients with forms and templates for common
+- transactions, contracts and land use agreements. What is new to one client may be commonplace
+- Hilary would be the point of contact , and all three named attorneys would collaborate to deliver
+
+## [johnstown#8] 2026-09-09 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 6. Little Thompson Water District Intergovernmental Agreement
+- 7. Ordinance 2026-297: An Ordinance Accepting a Portion of the U.S. Interstate 25 East
+- Frontage Road I-25 Between Mile Marker 253.2 (+/-) and Mile Marker 257.1 (+/-) and
+- Approving the Intergovernmental Agreement Between the Town of Johnstown and
+- 8. Resolution 2026-41: Declaring the Intent of the Town of Johnstown, Colorado to
+- Delegate to the Colorado Housing and Finance Authority the Authority to Issue Bonds
+- Using 2023 Private Activity Bond Volume Cap
+- Public Hearing
+- 10. Resolution 2026-38: Amending the Fiscal Year 2026 Budget
+- 11. Resolution 2026-40: Approving the Use by Special Review for the Lucky Star Monopine
+- 12. Ordinance 2026-298 Establishing the DDA Fund
+- 14. An executive session to discuss matters subject to negotiations and to instruct
+- 15. An executive session to discuss matters subject to negotiations and to instruct
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#9] 2026-09-28 | Town Council | agenda
+- 1. Preliminary FY 2027 Budget Work Session
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#10] 2026-09-28 | Town Council | agenda
+- 1. Preliminary FY 2027 Budget Work Session
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- SUBJECT: FY 2027 – Proposed Preliminary Budget
+- with CRS 29-1-105, with the FY 2027 proposed budget. This document is without question, the
+- that this important document represents the direction and objectives identified by the Council. As
+- part of this presentation, we will move through the budget on a fund level basis, providing an
+- overview of the departments’ requests. We welcome questions, comments, requested changes
+- and adjustments, and the ensuing dialogue to provide a stronger understanding of the budget and
+- of the proposed budget. Subsections A -H of Section 12.3 are included in the body of the
+- preliminary budget. Additional notes related to the contents of the prop osed budget include the
+- a) Item H: The subsection requests “An estimate of the amount required to be raised from an ad
+- valorem property tax levy”. Included in the proposed FY 202 7 budget is the amount of ad
+- valorem to be raised through the assessment of the full 23.947 mills. This mill levy also
+- which is by approval of a ballot measure and the balance is by resolution (1.5 mills)
+- approved by Council (circa 1985) from the Town’s mill levy
+- For FY 2027 budget, ad valorem property tax levy revenue is projected to generate
+- decrease compared to the FY 2024 high ($18,102,555) for ad valorem property tax revenue
+- portion of the revenues to provide residential property owners with a property tax rebate and
+- the balance for expansion of the Police Department Headquarters in FY 2025
+- The preliminary estimate of revenues generated through ad valorem are based on the current
+- mill levy, and are indicated in the revenues heading of the presented budget. These revenues
+- are based on preliminary ad valorem rates received in August from the respective County
+- Assessor Offices. It is recommended that the mill levy remain at its current level and not
+- adjusted due to the continued decline in overall revenue provided by property taxes
+- below. It should be noted that we estimate a 98% collection rate from the preliminary ad
+- valorem rates projected by the respective County Tax Assessors
+- b) Item I: This item requests “A statement of the outstanding securities and other debt and
+- Sewer Revenue Bonds
+- In 2021, the Town issued Sewer Revenue Bonds for capital projects associated with the
+- wastewater system. The PAR amount of these bond proceeds totaled $46,585,000. As of
+- Water Revenue Bonds
+- In 2024, the Town issued Water Revenue Bonds to fund capital projects related to the water
+
+## [johnstown#11] 2026-10-05 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 4. Resolution 2026-44 Acknowledging Receipt of the Fiscal Year 2027 Preliminary Budget
+- 5. Cooperative Agreement for Enforcement of the Wildfire Resiliency Code
+- 8. Resolution 2026-42: Approving Purchase and Sale Agreement between the Town of
+- Johnstown and Quality Liquid Feeds, Inc
+- Public Hearing
+- 10. An Executive Session to Discuss the Sale of Real Property Pursuant to C.R.S. Section
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#12] 2026-10-05 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 4. Resolution 2026-44 Acknowledging Receipt of the Fiscal Year 2027 Preliminary Budget
+- 5. Cooperative Agreement for Enforcement of the Wildfire Resiliency Code
+- 8. Resolution 2026-42: Approving Purchase and Sale Agreement between the Town of
+- Johnstown and Quality Liquid Feeds, Inc
+- Public Hearing
+- 10. An Executive Session to Discuss the Sale of Real Property Pursuant to C.R.S. Section
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- Legal Services Agreement (Town Attorney) – Wilson Williams Fellman Dittman, (Nina P. Williams as
+- Town Manager Matt LeCerf presented the proposed agreement
+- Services Agreement with Wilson Williams LLP d/b/a, Wilson Williams Fellman Dittman (WWFD) as
+- Town Clerk Meghan Martinez read the following online public comments into the record
+- Garry Lunn, 2520 Rouen Lane, discussed water usage at Town owned facilities
+- Ordinance 2026-298 – Establishing the DDA Fund
+- Professional Services Agreement with J-U-B Engineers Inc. for Water System Master Plan Update
+- Utilities Director Greg Venette presented the proposed agreement
+- agreement with J-U-B Engineers, Inc. for the Water System Plan Update in an amount not to exceed
+- $326,400 and authorize the Town Manager to execute the agreement
+- Award Contract for Construction of the Town of Johnstown Senior Center Building
+- Town Manager Matt LeCerf presented the proposed contract award
+- construction contract to Fransen Pittman Construction Co., Inc. for the construction of the Town of
+- construction expenses encountered on the project, to be distributed at the Town Manager’s discretion
+- Amended and Restated Facility Management Agreement between the Town of Johnstown, Colorado and
+- and Restated Facility Management Agreement between the Town of Johnstown and the Young Men’s
+- Parties enter into a Settlement & Release Agreement and YMCA of Northern Colorado reimburse the
+- Appointing Ian McCargar as Administrative Hearing Officer for Election Related Matters
+
+## [johnstown#13] 2026-10-08 | General | agenda
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#14] 2026-10-16 | Public Meeting Notice | agenda
+- Where: N 6th Street Johnstown, CO 80534
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#15] 2026-10-19 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 2. Consideration of a Water and Sewer Service Agreement for U.S. Engineering
+- 3. Consideration of the First Amendment to the Johnstown Commercial Center Subdivision
+- Development and Improvement Agreement
+- 5. Purchase and Sale Agreement Between Gillam Development Corporation and The Town
+- Public Hearing
+- 7. Ordinance 2026-299: An Ordinance of the Town of Johnstown, Colorado, Permanently
+- Reducing the Town’s Property Tax Mill Levy by a Total of 8.000 Mills, In Four Annual
+- Steps of 2.000 Mills; Fixing and Levying by this Ordinance the Maximum Mill Levy for
+- Each Year of the Phase-In and Each Year Thereafter; Directing Automatic Certification
+- of the Scheduled Levy Without Further Council Action; Providing for One Automatic
+- Mills and Not to Library Mills; Providing that any Increase Above the Reduced Levy
+- Requires New Voter Approval and that Prior Voter Approvals Shall Not Be Used for that
+- Purpose; Amending Section 4-3 of the Johnstown Municipal Code; Directing Staff to
+- Address Any General Fund Impact Without Restoring Mills Except Upon Voter Approval;
+- C.R.S. Section 24-6-402(4)(b) regarding public safety and police department matter(s)
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#16] 2026-10-19 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 2. Consideration of a Water and Sewer Service Agreement for U.S. Engineering
+- 3. Consideration of the First Amendment to the Johnstown Commercial Center Subdivision
+- Development and Improvement Agreement
+- 5. Purchase and Sale Agreement Between Gillam Development Corporation and The Town
+- Public Hearing
+- 7. Ordinance 2026-299: An Ordinance of the Town of Johnstown, Colorado, Permanently
+- Reducing the Town’s Property Tax Mill Levy by a Total of 8.000 Mills, In Four Annual
+- Steps of 2.000 Mills; Fixing and Levying by this Ordinance the Maximum Mill Levy for
+- Each Year of the Phase-In and Each Year Thereafter; Directing Automatic Certification
+- of the Scheduled Levy Without Further Council Action; Providing for One Automatic
+- Mills and Not to Library Mills; Providing that any Increase Above the Reduced Levy
+- Requires New Voter Approval and that Prior Voter Approvals Shall Not Be Used for that
+- Purpose; Amending Section 4-3 of the Johnstown Municipal Code; Directing Staff to
+- Address Any General Fund Impact Without Restoring Mills Except Upon Voter Approval;
+- C.R.S. Section 24-6-402(4)(b) regarding public safety and police department matter(s)
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- Business of the Month: Economic Development Director Sarah Crosthwaite introduced Suzanne’s Carpet
+- Economic Development Director Sarah Crosthwaite introduced Katie Monroe as the new Executive
+- Director for the Johnstown Downtown Development Authority
+- Town Clerk Meghan Martinez read the following online public comments into the record
+- Garry Lunn, 2520 Rouen Lane, regarding water rates
+- Resolution 2026-44 Acknowledging Receipt of the Fiscal Year 2027 Preliminary Budget
+- Cooperative Agreement for Enforcement of Wildfire Resiliency Code – change authority to
+- Resolution 2026-42 Approving Purchase and Sale Agreement between the Town of Johnstown and
+- Quality Liquid Fees, Inc
+- Economic Development Director Sarah Crosthwaite presented
+
+## [johnstown#17] 2026-10-21 | Public Meeting Notice | agenda
+- Where: 4781 Thompson Parkway Johnstown, CO 80534
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#18] 2026-10-26 | Town Council | agenda
+- 1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#19] 2026-10-26 | Town Council | agenda
+- 1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- Subject: Johnstown Housing Needs Assessment and Comprehensive Plan
+- Attachments: 1. Housing Needs Assessment
+- 2. Strategic Growth Element
+- 3. Water Supply Element
+- 4. Work Session Presentation
+- Presented by: Jennifer Simmons, Planning and Development Director
+- Colorado Senate bill 24-174 requires the Town of Johnstown to complete a local housing needs
+- assessment, housing action plan that includes affordability and displacement mitigation
+- strategies, and new elements in the comprehensive plan that incorporates water supply and
+- strategic growth elements. This bill became law May 30, 2024
+- In April 2026, Council awarded a contract to ECOnorthwest to conduct the work required by the
+- State legislation. Work on the Housing Needs Assessment began in late April and the team has
+- will comply with the legislation. Amendments to the Comprehensive Plan related to Strategic
+- Growth and Water Supply have also been drafted to enhance our existing Comprehensive Plan
+- Draft documents are attached for your consideration
+- The goal of presenting this information at this time is twofold. First, we'd like your feedback on
+- the work that's been done to date. If there's anything you would suggest amending, it would be
+- helpful to know that now. We acknowledge this a tremendous amount of information to consider
+- and look forward to hearing your thoughts and questions. Second, we want the Council and
+- Commission to have time to consider the work that's been completed and have a conversation
+- Following this work session, feedback from Town Council and Planning and Zoning Commission
+- will be incorporated into the draft documents. The updated documents will then be presented
+- for consideration by Planning and Zoning Commission November 18 with Town Council
+- considering adoption on December 2. This meets the timeline established by the legislation
+- In 2027, the team will build on the Housing Needs Assessment to create a Housing Action Plan
+- that will be adopted by Planning and Zoning Commission and Town Council in mid-2027. This
+- Reviewed and Approved for Presentation,
+- Housing Needs Assessment (DRAFT)
+- 1550 Wewatta Street • Suite 200 • Denver, CO 80202
+- Johnstown Housing Needs Assessment - DRAFT
+- Housing Planning Grant from the Colorado Department of Local Affairs (DOLA)
+- 5. Housing Inventory .......................................................................... 24
+- 6. Housing Market Trends ................................................................. 33

@@ -1,0 +1,1091 @@
+# colorado-springs
+
+## [colorado-springs#0] 2026-07-28 | City Council | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- Council may amend the order of items
+- discussion by a Councilmember or a citizen wishing to address the City Council
+- (Any items called up for separate consideration shall be acted upon following the
+- 4A. Second Presentation:
+- 4A.A. Ordinance No. 26-29 Amending Article 1 (Administration) And
+- Repealing Article 4 (Urban Forest) Of Chapter 4 (Parks,
+- Colorado Springs 2001, As Amended, Pertaining To Urban Forest
+- Forestry-Parks-Repeal-ORD-2026-01-21.docx
+- 4A.B. Ordinance No. 26-30 Creating A New Article 9 (Urban Forest) Of
+- The City Of Colorado Springs 2001, As Amended, Pertaining To
+- City Code- Forestry Presentation 7.14.26
+- 4A.C. Ordinance No. 26-34 annexing to the City of Colorado Springs that
+- area known as Kettle Creek Addition No. 1 Annexation consisting
+- of 19.88 acres located northeast of Kettle Creek Road and Old
+- Ranch Road intersection
+- Located in Council District 2 (Upon Annexation)
+- ANNEX ORDINANCE
+- Annexation Plat_Kettle Creek
+- Exhibit A_Combined Legal - Plat
+- Project_Statement_Kettle_Creek
+- Attachment 3_Project Statement
+- Attachment 9_USFWS Effects Determination Request_ Challenger at
+- Attachment 10_Geo-hazard Report_APPROVED
+- FIA Cover Letter Kettle Creek Annex LUP
+- Combined Public Comments - Kettle Creek
+- CC Presentation_Kettle Creek_CS
+- 7.5.701 ANNEXATION OF LAND
+- 4A.D. Ordinance No. 26-35 amending the zoning map of the City of
+- district located northeast of Kettle Creek Road and Old Ranch
+- Road intersection
+- Zone Ordinance_ZONE-25-0028
+- 7.5.704 ZONING MAP AMENDMENT (REZONING)
+- 4B. First Presentation:
+- 4B.B. A Resolution of the City of Colorado Springs approving a Service
+- Plan for the Terra Mesa Metropolitan District relating to 42 acres
+- Research Parkway
+- Terra_Mesa_MD_1_Resolution
+- Terra Mesa Redline Service Plan
+- Attachment 2_Ordinance No. 25-98_Zoning Map Amendment
+- Attachment 3_Resolution No. 181-25_Annexation
+- Attachment 1_Peach Ranch Addition No. 1_Development Plan
+- Exhibit D_Summary of Public Improvements to be Financed by the
+- District and Financing Plan
+- Exhibit E_Description of Permitted Services to be Provided by the
+- Certificate Concerning Notices of Public Hearing Terra Mesa Service
+- Staff_Terra Mesa MD Creation_Regular Meeting_Presentation
+- City Council Appointments to Boards, Commissions, and
+- 07282026 Boards Commissions and Committees Appointment
+- 2026 Hoffecker Chief Judge Resolution.docx
+- Ordinance No. 26-28 Amending Multiple Sections Of Article 3
+- Amended, Pertaining To The Code Of Ethics
+- Ordinance No. 26-31 of the City of Colorado Springs Correcting
+
+## [colorado-springs#1] 2026-08-03 | Historic Preservation Board | minutes
+- had not seen him since their appointments because recent meetings had
+- Mr. Gray next introduced Sam Fahnestock, Plan Tech I, confirming her
+- activities, or projects in the future. He then invited her to speak. Sam
+- mechanism and operates similarly to a rezoning action. The proposed
+- of state and federal incentive programs. Mr. Gray stated that staff would be
+- upcoming Friday, and that he anticipated further discussions with the
+- appointments to move alternates into voting member positions. He
+- Council staff about future appointments. He noted that Council had
+- appointed alternates specifically so they could step in when needed
+- consider participating in the public rulemaking process. Mr. Gray said he
+- believed the 30-day public comment period had begun
+- inquire whether the board would consider changing its meeting time. The
+- the early evening. He asked the board to consider shifting the meeting to
+- a.m. and 5:00 p.m. He noted that other bodies, such as the Parks Board,
+- a.m. He asked the members to consider the request and think about what
+- Mr. Gray stated that Chair Loewenberg had requested that he notify the
+- board would appoint a new chair and vice chair. Ryan Tefertiller, Planning
+- webpage, explaining that it needed improvement. He stated that the City
+- preservation section of the City website and identify possible
+- improvements such as needed resources, organizational changes, or
+- applications, resources, and tools. He asked board members to email him
+- discussions on any item, including something as simple as website
+- feedback. He recommended that Mr. Gray send an email to the board
+- Board had its own separate page, which sometimes caused difficulty
+- Board member Beerbaum requested that staff send out a notice soon to
+- improvements would be limited to restructuring within the City’s existing
+- the request to place Historic Mesa Road on the State or National Register
+- be located in the zoning code. Mr. Gray explained that historic preservation
+- provisions have long been integrated into the City’s land use and
+- development code but could alternatively be placed in a standalone
+- ordinance. He said a landmarking component is identified in both the
+- preservation plan and the City’s comprehensive plan, and that updating the
+- historic preservation ordinance is overdue
+- 4. Approval of Minutes
+- Fitzsimmons, to postpone the approval of the minutes for the May 5,
+- Baumgartner, to approve the minutes for the June 1, 2026, Historic
+- 8.A. A Report of Acceptability for a new 60 square feet front portico
+- 10 West Buena Ventura Street
+- Attachment 2-Zoning Map
+
+## [colorado-springs#2] 2026-08-06 | City Planning Commission Work Session | minutes
+- Annual Meeting discussion
+- for their work during the lengthy and demanding Project Taurus hearing
+- Chair Hensler then discussed training for new alternates and a new
+- Data Center hearing debrief and discussion
+- listed a data center hearing debrief and noted he would defer to City
+- Tefertiller highlighted that the 15-hour Project Taurus hearing was
+- charged hearing he had experienced. He concluded by praising the
+- made his job easier. He then advised the group not to discuss Project
+- Taurus or data centers at this time. Mr. Gloss explained that Project Taurus
+- Department, and because its next steps are uncertain, any discussion
+- about the project or about data centers generally could affect future matters
+- Sugarbowl Grove - Street Name Change
+- 4.A. A Street Name Change from Sugarbowl Grove to Sugarbowl Point
+- located northwest of the intersection of South Chelton Road and
+- Attachment_1_Chelton_Road_Affordable_Senior_Apartments_Plat
+- Attachment_3_Project_Statement
+- SUBD-26-0049_Presentation_CPC
+- 7.5.531 STREET NAME CHANGE
+- 7.4.304 STREET IMPROVEMENTS
+- Allison Stocker explained that the request was to change the street name
+- from Sugarbowl Grove to Sugarbowl Point. The road, located at 1670
+- Sugar Grove northwest of Chelton Road and Delta Drive, has not yet been
+- is to apply for development plans for senior affordable housing. During
+- early marketing and project preparation, the name “Sugarbowl Grove”
+- became associated with the future development itself, prompting the desire
+- street. She confirmed that the City’s street-naming reviewers checked for
+- 501 N Wahsatch Ave - Development Standards Adjustment
+- 4.B. A Development Standards Adjustment to City Code Sections
+- Attachment 2 - Project Statement
+- Attachment 3 - Public Comment
+- Attachment 4 - Applicant Response to Public Comment
+- Attachment 6 - Site Plan
+- Staff Presentation for 501 N Wahsatch Ave - DVSA_EPS
+- 7.5.525 DEVELOPMENT STANDARDS ADJUSTMENT
+- Ethan Shafer, Planner II, presented the request for a Development
+- Standards Adjustment at 501 N. Wahsatch Avenue. The application seeks
+- approval to allow a residential density of 13.33 dwelling units per acre in
+- normally permitted. The adjustment is needed to convert an existing
+- zone. At least four public comments were received, primarily concerning
+- parking and opposition to multifamily use in favor of retaining commercial
+- activity. Mr. Shafer noted that the property currently has six parking spaces,
+- which meet single-family parking standards and would be considered
+- over-parked if evaluated as multifamily
+- mixed-use rezoning could theoretically resolve some issues, a rezoning
+
+## [colorado-springs#3] 2026-08-10 | City Council Work Session | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- may amend the order of items
+- Travis Easton, Deputy Chief of Staff, requested item 4B.D. be removed
+- Councilmember Donelson stated he will be requesting that items 8.A. and
+- The minutes of the July 27, 2026 Work Session were approved by
+- requesting authorization to defend the officer
+- 6. Presentations for General Information
+- 6.A. Clean and Safe Presentation
+- people responded. Ms. Gondeck stated it went out to street level
+- identified the supplemental security impact, interactions with supplemental
+- Ms. Gondeck went over the Program budget, successes, challenges,
+- the management fee is a four percent fee used to pay for their time in
+- Councilmember Henjum requested additional information regarding the
+- success of the application which was made available to people for
+- Chief Housing and Homeless Response Officer, Housing and
+- Homelessness Department, identified how they work with Colorado
+- Springs Police Department (CSPD), Colorado Springs Fire Department,
+- Clean and Safe Program budget. Ms. Gondeck stated the Business
+- Improvement District allocates $400,000 toward cleaning and landscaping
+- resources from the Business Improvement District to fund the ongoing
+- 7. Staff and Appointee Reports
+- 7.A. Overview of the City Parking Enterprise
+- Alyssa Alt, Public Works Division Manager - Parking System Enterprise,
+- Parking Enterprise_City Council_081026Attachments:
+- provided an overview of the City Parking Enterprise, their mission, division
+- responsibilities, budget, occupancy, 2026 Capital Improvement Projects
+- (CIP), projects, and marketing
+- Councilmember Donelson asked if parking enforcement and Americans
+- with Disabilities Act (ADA) parking enforcement is paid out of the Parking
+- System Enterprise budget. Ms. Alt confirmed parking enforcement is, but
+- ADA parking enforcement is funded by Colorado Springs Police
+- decrease in the 2026 budget. Richard Mulledy, Public Works Director,
+- stated they changed the range of chargeable parking hours which
+- Councilmember Leinweber stated the parking space numbers are difficult
+- occupancy in the parking garages. Ms. Alt stated it has remained relatively
+- Councilmember Donelson requested information regarding the labor costs
+- the parking garages. Mr. Mulledy stated they have the final say where they
+- are investing the revenue, they have previously invested in streetscapes,
+- but they are also putting money aside for capital projects
+- parking garage. Mr. Mulledy stated it is approximately $40 million
+
+## [colorado-springs#4] 2026-08-11 | City Council | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- may amend the order of items
+- Councilmember Donelson requested items 4B.F. and 4B.G. be removed
+- Kevin Walker, Director, Planning Department, requested item 4B.D. be
+- discussion by a Councilmember or a citizen wishing to address the City Council
+- (Any items called up for separate consideration shall be acted upon following the
+- 4A. Second Presentation:
+- 4B. First Presentation:
+- The Minutes were approved on the Consent Calendar
+- 4B.B. A Resolution declaring the intent of the City of Colorado Springs,
+- Colorado to issue revenue bonds in connection with financing residential
+- Katie Sunderlin, Housing Solutions Manager, Housing & Homelessness
+- Aimee Cox, Chief Housing and Homelessness Officer, Housing &
+- 2026 COS Carryforward-Inducement Resolution
+- 2026 COS Carryforward - Certificate of CFO
+- 2026 Private Activity Bond Carryforward_1
+- Signed Resolution 69-26
+- This Resolution was adopted on the Consent Calendar
+- 4B.C. A Resolution Adopting the Rules And Procedures of the Fire Board of
+- Kris Cooper, Fire Marshal
+- Fire Board of Appeals Rules and Procedures 2015
+- Fire Board of Appeals Resolution
+- Signed Resolution 70-26
+- 4B.E. A Resolution Authorizing the Chief Executive Officer of Colorado Springs
+- Utilities to Enter Into an Agreement for Regional Wastewater Treatment
+- Water and Sanitation District
+- Greg Luchka, Principal Account Manager - Strategic Customer
+- Garden Valley Resolution
+- Garden Valley WWT Agreement Final
+- Garden Valley UB Presentation_June 29_2026
+- Signed Resolution 71-26
+- petition for the annexation of Peacock Ranch South Addition No. 1
+- Annexation. The City Clerk herewith communicates such to City Council
+- Peacock Ranch - Annexation Petition - Updated 7.20
+- Updated Plat Peacock Ranch South Annexation
+- This Item was approved on the Consent Calendar
+- petition for the annexation of Seller Addition No. 1 Annexation. The City
+- Sellers Addition No 1 - Plat Updated
+- Sellers petition for annexation
+- petition for the annexation of Huber Road Addition No. 1 Annexation. The
+- Huber Road Annexation Legal Description
+- Huber Road Annexation Plat-v2
+- Huber Road Annexation Project Statement
+- Huber Road Annexation Vicinity Map
+- Petition for Annexation Huber Road Addition No. 1
+- Approval of the Consent Agenda
+- approved by unanimous consent of the members present. The motion
+- outstanding dedication in advancing parks, trails, and cycling in Colorado
+- Cordova, Stormwater Specialist, Stormwater Enterprise, Jeff Cooper,
+- Richard Petritz Foundation, Skyler Rorabaugh, Director, Parks,
+
+## [colorado-springs#5] 2026-08-12 | City Planning Commission | minutes
+- Regional Development
+- Center (Hearing Room)
+- 9:00 AM 2880 International Cir., 2nd Floor, Hearing RoomWednesday, August 12, 2026
+- updates, including that City Council has scheduled the Project Taurus
+- hearing for September 17 at the Pikes Peak Center. He praised both the
+- hearings. Mr. Walker also commented that certain items, including ANEX
+- comprehensive plan’s growth and water elements
+- 4. Approval of Minutes
+- approve the Minutes for the July 2, 2026, Work Session City Planning
+- to approve the Minutes for the July 8, 2026, City Planning Commission
+- Robbins, to approve the Consent Calendar except item 5.B
+- Sugarbowl Grove - Street Name Change
+- 5.A. A Street Name Change from Sugarbowl Grove to Sugarbowl Point
+- located northwest of the intersection of South Chelton Road and
+- Attachment_1_Chelton_Road_Affordable_Senior_Apartments_Plat
+- Attachment_3_Project_Statement
+- SUBD-26-0049_Presentation_CPC
+- 7.5.531 STREET NAME CHANGE
+- 7.4.304 STREET IMPROVEMENTS
+- 501 N Wahsatch Ave - Development Standards Adjustment
+- 5.B. A Development Standards Adjustment to City Code Sections
+- Attachment 2 - Project Statement
+- Attachment 3 - Public Comment
+- Attachment 4 - Applicant Response to Public Comment
+- Attachment 6 - Site Plan
+- Staff Presentation for 501 N Wahsatch Ave - DVSA_EPS
+- 7.5.525 DEVELOPMENT STANDARDS ADJUSTMENT
+- Robert duPignac requested to pull this item from the consent calendar
+- Ethan Shafer, Planner II, presented the request for a Development
+- allowed. The subject site is 9,800 square feet and presently contains two
+- to pursue a rezoning. Instead, the applicant sought conversion to residential
+- postcards were mailed to neighbors within 1,000 feet during each public
+- worries regarding limited parking in the area. One commenter expressed
+- the four Development Standards Adjustment criteria, stating staff found the
+- request met all criteria based on its reduced intensity compared with
+- improvements, and the benefit of activating a long-neglected property
+- earlier, inspected by zoning and code enforcement without finding
+- operations and confirmed the site would provide six parking spaces,
+- owner would be willing to participate in a residential permit-parking
+- environmental issues were identified during inspections
+- Commissioner Robbins asked about parking adequacy. Mr. Guman
+- reiterated that six spaces met the R-4 standard, ADA parking and
+- exceeded parking demands compared to commercial use
+- Public Comment
+- developments already strained parking and setbacks, and he feared
+- owners remodeled the building before pursuing zoning relief and
+- Jillie Johnston, who recently moved onto the same street, expressed
+
+## [colorado-springs#6] 2026-08-21 | Liquor and Beer License Hearings | minutes
+- 224 E. Kiowa Street
+- Liquor and Beer License Hearings
+- Hearing Officer Price called the meeting to order at 9:08 a.m
+- 3. New Application Hearings
+- 3.A. Application of 1876 Club LLC d/b/a 1876 Club for a new Tavern Liquor
+- License at 120 E Kiowa Street
+- Application approved and forwarded to the Liquor Enforcement Division of the
+- 3.B. Application of Cafe Madro LLC d/b/a Cafe Madro for a new Hotel and
+- Restaurant Liquor License at 121 S Tejon Street, Suite 100
+- 3.C. Application of BT East LLC d/b/a Burnt Toast for a new Hotel and
+- 3.D. Application of Shop & Smile LTD d/b/a Shop and Smile African & Int'l
+- This item was postponed from the Liquor and Beer Licensing Hearing agenda of
+- 3.E. Application of Mercado Mi Isla LLC d/b/a Mercado Mi Isla for a new
+- August 21, 2026Liquor and Beer License Hearings Meeting Minutes - Final
+- 3.F. Application of Rumba Tropical Bar & Grill LLC d/b/a Rumba Tropical Bar
+- 3.G. Application of El Rincon Catracho LLC d/b/a El Rincon Catracho for a
+- 3.H. Application of La Sala Bar LLC d/b/a La Sala Bar for a new Tavern
+- 3.I. Application of CNS Group LLC d/b/a Crescent for a new Hotel and
+- 3.J. Application KHP North Academy LLC d/b/a KPOT Korean BBQ & Hot
+
+## [colorado-springs#7] 2026-08-24 | City Council Work Session | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- may amend the order of items
+- The minutes of the August 10, 2026 Work Session were approved by
+- 5. Presentations for General Information
+- 5.A. Visit COS - 2026 mid-year Lodgers and Auto Rental Tax (LART)
+- contract update to City Council
+- 2026 Q1 & Q2 VCOS KPI_City Council PresentationAttachments:
+- the 2026 mid-year Lodgers and Auto Rental Tax (LART) contract update
+- Councilmember Henjum asked how they are addressing Artificial
+- sending out via all the platforms. Ms. Williams stated it is inviting people to
+- strategy with an organization called Mission to Market
+- Councilmember Donelson asked if there is a goal rate that the hoteliers
+- VisitCOS, stated they do not have the metrics for the summer and the fires
+- Councilmember Gold asked if there are any other social media platforms
+- not contracted to report on it
+- mid-year Lodgers and Auto Rental Tax (LART) contract update to City
+- Tax (LART) contract update. She provided an overview of their program
+- focus, LART contract, cultural promotion/tourism, Art at COS, developing
+- their cultural destination, impacts of local arts tourism, and granting
+- Councilmember Donelson asked where the Google Ad Grant dollars come
+- 6. Staff and Appointee Reports
+- 7.A. A Resolution to Repeal Resolution No. 30-14 Thereby Dissolving the
+- Civic Engagement Program Resolution
+- Signed Resolution 75-26
+- presented the Resolution dissolving Colorado Springs City Council
+- Councilmember Henjum requested additional information regarding the
+- 7.B. An Ordinance Repealing And Reordaining Article 1 (Business License
+- Taxation) Of The Code Of The City Of Colorado Springs 2001, As
+- Amended, Pertaining To Business Licensing, And Providing Penalties
+- Young Shin, City Attorney's Office, Corporate Division
+- 2026 Business License Code Changes Presentation
+- Signed Ordinance 26-52
+- the Ordinances repealing and reordaining Article 1 (Business License
+- Taxation), Article 3 (Sales of Goods and Services) of Chapter 2 (Business
+- Licensing, Liquor Regulation and Taxation), and Article 4 (Adult Use
+- Taxation) of the City Code pertaining to business licensing and providing
+- penalties for violations thereof. He provided an overview of the request, the
+- 7.C. An Ordinance Repealing And Reordaining Article 3 (Sales Of Goods
+- Signed Ordinance 26-53
+- 7.D. An Ordinance Repealing And Reordaining Article 4 (Adult Use
+- Signed Ordinance 26-54
+- 7.E. A Resolution Supporting an Agreement between the City of Colorado
+- Springs Stormwater Enterprise and the State Board of the Great
+
+## [colorado-springs#8] 2026-08-24 | City Council | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- 2.A. In accord with City Charter art. III, § 3-60(d) and its incorporated
+- Executive Session. The issue to be discussed involves consultation with
+- instructions to negotiators regarding the sale of Meadows Park
+- 26-355_Closed Session Memo (Meadows Park) 8.18.26Attachments:
+- with City Charter art. III, § 3-60(d) and its incorporated Colorado Open
+- The issue to be discussed involves the sale of Meadows Park Community
+
+## [colorado-springs#9] 2026-08-25 | City Council | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon
+- City Council may amend the order of items
+- discussion by a Councilmember or a citizen wishing to address the City Council
+- (Any items called up for separate consideration shall be acted upon following the
+- 4A. Second Presentation:
+- 4B. First Presentation:
+- The Minutes were approved on the Consent Calendar
+- 4B.B. An Ordinance to Fill Vacancies on the Briargate Center Business
+- Improvement District’s Board of Directors
+- (1st reading to set the public hearing date for September 8, 2026)
+- BID-BriargateBID-ORD-2026-08-17
+- Petition for Appointment of Board Members 2026
+- Ordinance 02-24
+- Staff_BriargateCenter_BID_BoardMemberChange_Presentation
+- Signed Ordinance 26-39
+- This Ordinance was approved on first reading on the Consent Calendar
+- 4B.C. A Resolution of the City Council of the City of Colorado Springs,
+- Colorado approving a Service Plan for the Kettle Creek Metropolitan
+- District sited north of Old Ranch Road, east of Voyager Parkway and
+- PW-KettleCreekServicePlan-RES-2026-07-21-draft
+- Exhibit 1_Kettle Creek MD Service Plan
+- Attachment D_Summary of Public Improvements to be Financed by
+- the District and Financing Plan
+- Attachment E_Description of Permitted Services to be Provided by
+- Kettle Creek MD Creation_WS_Staff_Presentation
+- Signed Resolution 72-26
+- This Resolution was adopted on the Consent Calendar
+- 4B.D. An Ordinance to amend the zoning map of the City of Colorado
+- Tamlin Road and northeast of the Dublin Boulevard and Banning
+- Lewis Parkway intersection from PDZ/R-5/CR/R-1
+- 6/MX-M/CR/AP-O/SS-O (Planned Development Zone District;
+- Streamside Overlays) to PDZ/AP-O/SS-O (Planned Development
+- density of 3.5-7.99 du/ac, and maximum building height of 35 feet)
+- (Quasi-judicial) (1st Reading to set the public hearing date of
+- Ordinance BLR Village B2 PDZ Rezone
+- Exhibit A and Exhibit B (PDZ Rezone)
+- Attachment 1 - Public Comment; Public Comment Response;
+- Attachment 3 - Banning Lewis Ranch Village B2 Project Statement
+- Attachment 4 - Banning Leiws Ranch ROW Vacation Filing No. 1
+- Attachment 5 - Exhibit A and Exhibit B (PDZ Rezone)
+- Attachment 7 - Banning Lewis Ranch Village B2 PDZ Concept Plan
+- and Concept Plan
+- Attachment 8 - Banning Lewis Ranch Master Plan Major Mofication
+- BLR Village B2 full staff presentation
+- Village B Banning Lewis Ranch Village B2 ROW Vacation Plat
+- 7.3.603 Establishment & Development of a PUD Zone
+- Signed Ordinance 26-40
+- 4B.E. An Ordinance to amend the zoning map of the City of Colorado
+- and Banning Lewis Parkway from PDZ/R-5/CR/AP-O/SS-O (Planned
+
+## [colorado-springs#10] 2026-09-03 | City Planning Commission Work Session | agenda
+- No public comments are taken during the informal meetings
+- Kettle Creek - Development Standards Adjustment
+- 2.A. A Development Standards Adjustment to City Code Table
+- Height Allowances for Accessory Dwelling Units Ordinance
+- 2.B. An Ordinance amending Chapter 7 (Unified Development
+- 2001, as amended, as related to height allowances for
+- Cherokee Metro District Water Tank - Zone Map Amendment
+- 4.A. A Zone Map Amendment (Rezone) consisting of 4.88 acres
+- located southeast of Tamlin Road and North Marksheffel Road
+- Attachment 1 - Project Statement
+- Staff Presentation
+- 7.5.704 ZONING MAP AMENDMENT (REZONING)
+- Creekbend - Zone Map Amendment
+- 4.B. A Zone Map Amendment (Rezone) consisting of 3.8 acres
+- (Business Park with Streamside and Airport Overlays) zone to
+- Attachment 1 - Rezone Project Statement
+- Creekbend - Land Use Plan
+- 4.C. Establishment of the Creekbend Land Use Plan for proposed
+- Attachment 4 - Land Use Plan
+- 7.5.514 LAND USE PLAN
+- Wagner Equipment - Zone Map Amendment
+- 5.A. A Zone Map Amendment (Rezone) consisting of 22.37 acres
+- located southeast of the intersection of East Platte Avenue and
+- Wooten Road from BP/LI/cr/AP-O/APZ-1/APZ-2/SS-O
+- (Business Park and Light Industrial with Conditions of Record,
+- Attachment_1_Towne_East_Master_Plan
+- Attachment_3_Project_Statement
+- Attachment_4_Land_Use_Plan
+- Wagner_Equipment_CPC_Presentation
+- Wagner Equipment - Land Use Plan
+- 5.B. Establishment of the Wagner Equipment Land Use Plan for
+- southeast of the intersection of East Platte Avenue and Wooten
+- Road. (Quasi-Judicial)
+- Lowell - Zone Map Amendment
+- 5.C. A Zone Map Amendment consisting of 1.20 acres located at
+- 202, 251 and 252 East Las Animas Street from PDZ (Planned
+- Development Zone; 15 dwelling units per acre, 60 feet
+- apartments, condominiums, commercial, office, civic) to PDZ
+- (Planned Development Zone; 184 dwelling units per acre, 950
+- square feet commercial, 65 feet maximum building height,
+- apartments, condominiums, live/work, commercial-retail, office
+- Attachment 4-Ordinance 99-189
+- Attachment 5-Ordinance 01-140
+- Attachment 6-Bristow Lowell URA Plan
+- Attachment 9-Public Comment
+- Attachment 11-Project Statement
+- Attachment 12-Zoning Exhibit
+- Attachment 13-Major Modification Plan
+- Attachment 14-Approved Lowell Neighborhood Land Use Plan
+- Attachment 18-Street View
+- Plan (aka Concept Plan) to remove Lot 2, Lot 3 and Lot 4, The
+- Plan consisting of 1.20 acres located at 202, 251 and 252 East
+- Las Animas Street. (Quasi-Judicial)
+- 7.5.516 MODIFICATION OF APPROVED APPLICATIONS
+- 6. Annual Meeting and Appointments
+
+## [colorado-springs#11] 2026-09-08 | City Council | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- may amend the order of items
+- Councilmember Williams requested Item 4B.B be removed from the
+- Consensus of City Council agreed to Councilmember Williams’ request
+- discussion by a Councilmember or a citizen wishing to address the City Council
+- (Any items called up for separate consideration shall be acted upon following the
+- 4A. Second Presentation:
+- 4A.A. Ordinance No. 26-39 to fill the vacancies on the Briargate Center
+- Business Improvement District’s Board of Directors. (2nd reading and
+- public hearing)
+- BID-BriargateBID-ORD-2026-08-17
+- Petition for Appointment of Board Members 2026
+- Ordinance 02-24
+- Staff_BriargateCenter_BID_BoardMemberChange_Presentation
+- Signed Ordinance 26-39
+- This Ordinance was finally passed on the Consent Calendar
+- 4A.B. Ordinance No. 26-46 Amending Part 5 (Claims Management), Article 5
+- 2001, As Amended, Pertaining to Claims Management
+- City Code Amendments Presentation CC 8_10
+- Signed Ordinance 26-46
+- 4A.C. Ordinance No. 26-47 Amending Part 6 (Workers’ Compensation),
+- 2001, as Amended, Pertaining to Workers’ Compensation Claims
+- Signed Ordinance 26-47
+- 4B. First Presentation:
+- The Minutes were approved on the Consent Calendar
+- 4B.C. An Ordinance Of The City Of Colorado Springs, Colorado Providing For
+- The Refunding Of Certain Outstanding Utilities System Revenue Bonds
+- Bonds, Series [2026C][2027A][2027B] In An Aggregate Principal
+- City Of A Paying Agent Agreement, Escrow Agreement, A Bond
+- Purchase Agreement, And An Official Statement Related Thereto; And
+- CSU 2026C Bond Ordinance - DRAFT
+- 9-8-26 CC - Utilities 2026AB, BABs Refunding Bond Ordinance
+- Presentation
+- Signed Ordinance 26-49
+- This Ordinance was approved on first reading on the Consent Calendar
+- 4B.D. An Ordinance Of The City Of Colorado Springs, Colorado Providing For
+- The Extension, Betterment, Other Improvement And Equipment Of The
+- Improvement Revenue Bonds, Series 2026a (Tax-Exempt) In An
+- City Of Colorado Springs, Colorado, Utilities System Improvement
+- Revenue Bonds, Series 2026b (Taxable) In An Aggregate Principal
+- Paying Agent Agreement, A Bond Purchase Agreement, And An Official
+- CSU 2026 AB Bond Ordinance Changed Page
+- CSU 2026 AB Bond Ordinance - DRAFT
+- Presentation (1)
+- 4B.E. A Resolution Supporting an Agreement between the City of Colorado
+- Springs Stormwater Enterprise and the State Board of the Great
+- Outdoors Colorado Trust Fund for the COS Creek Plan Feasibility Study
+- Erin Powers, P.E., Stormwater Enterprise Manager
+- Resolution GOCO Grant MOA.doc
+
+## [colorado-springs#12] 2026-09-08 | City Council Work Session | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon
+- City Council may amend the order of items
+- The minutes of the August 24, 2026 Work Session were approved by
+- requesting authorization to defend the officers
+- 6. Presentations for General Information
+- There were no Presentations for General Information
+- 7. Staff and Appointee Reports
+- 7.A. Informational Presentation on the Homelessness Response Action
+- Aimee Cox, Chief Housing Officer, Housing & Homeless Response
+- Homelessness Response Action Plan - City Council BriefAttachments:
+- Aimee Cox, Chief Housing and Homelessness Officer, Housing and
+- Response Action Plan (HRAP) and provided an overview of HRAP, what
+- dedicated to these efforts which they will be requesting during the
+- Budget planning
+- Cox has brought to the Housing and Homeless Response team. She
+- also asked for an update on the efforts of the Housing and Homeless
+- Response team after the passing of the Ordinance banning sleeping in
+- your car. Ms. Cox gave an update on the Safe Parking program model
+- Councilmember Donelson asked when housing and homelessness were
+- position. Councilmember Donelson stated he feels they should be
+- Councilmember Donelson asked if the position of Chief Housing and
+- Homelessness Officer should be split into two separate positions
+- Ordinance banning living in cars. Ryan Tepley, Lieutenant (Lt.)
+- Homeless Operations Team (HOT), Colorado Springs Police
+- when the Ordinance went into effect and there has been 335 vehicles
+- Councilmember Leinweber asked about the status of housing vouchers
+- housing vouchers
+- Truth in Sentencing or bond
+- Councilmember Donelson requested additional information regarding
+- the Resolution of the City approving the request to accept the
+- designation as the approving authority of the Southern Colorado
+- Railyard Metropolitan Districts Nos 1-3 which has been annexed into the
+- jurisdiction and when those parcels are annexed into the City, the City
+- Valley Park from R-E / HS-O / SS-O (Residential Estate with Hillside
+- (Business Park with Conditions of Record and Residential Estate with
+- (Business Park with Conditions of Record with Hillside Overlay and
+- Streamside Overlay) to PK / HS-O / SS-O / AF-O (Public Park with
+- Academy Overlay) located at 1179 Golden Hills Road. Mr. Walker stated
+- this rezone is to clean up the zoning of properties gifted to the City which
+- need to be rezoned to Public Park (PK)
+- 8.A. A Resolution Authorizing the Mayor to Execute a Memorandum of
+- Agreement with the U.S. Army Corps of Engineers for Site Protection
+
+## [colorado-springs#13] 2026-09-09 | City Planning Commission | agenda
+- Regional Development
+- Center (Hearing Room)
+- Hearing Room
+- Once an item has been heard, the Chair will open the public portion of the hearing for comments
+- 2. Annual Meeting and Appointments
+- 2.A. Appointment of Planning Commission Chair
+- 2.B. Appointment of Planning Commission Vice Chair
+- Kettle Creek - Development Standards Adjustment
+- 4.A. A Development Standards Adjustment to City Code Table
+- Height Allowances for Accessory Dwelling Units Ordinance
+- 4.B. An Ordinance amending Chapter 7 (Unified Development
+- 2001, as amended, as related to height allowances for
+- 5. Approval of Minutes
+- Cherokee Metro District Water Tank - Zone Map Amendment
+- 6.A. A Zone Map Amendment (Rezone) consisting of 4.88 acres
+- located southeast of Tamlin Road and North Marksheffel Road
+- Attachment 1 - Project Statement
+- Staff Presentation
+- 7.5.704 ZONING MAP AMENDMENT (REZONING)
+- 6.B. A Zone Map Amendment (Rezone) consisting of 3.8 acres
+- (Business Park with Streamside and Airport Overlays) zone to
+- Attachment 1 - Rezone Project Statement
+- 6.C. Establishment of the Creekbend Land Use Plan for proposed
+- Attachment 4 - Land Use Plan
+- 7.5.514 LAND USE PLAN
+- 9.A. A Zone Map Amendment (Rezone) consisting of 22.37 acres
+- located southeast of the intersection of East Platte Avenue and
+- Wooten Road from BP/LI/cr/AP-O/APZ-1/APZ-2/SS-O
+- (Business Park and Light Industrial with Conditions of Record,
+- Attachment_1_Towne_East_Master_Plan
+- Attachment_3_Project_Statement
+- Attachment_4_Land_Use_Plan
+- Wagner_Equipment_CPC_Presentation
+- 9.B. Establishment of the Wagner Equipment Land Use Plan for
+- southeast of the intersection of East Platte Avenue and Wooten
+- Road. (Quasi-Judicial)
+- 9.C. A Zone Map Amendment consisting of 1.20 acres located at
+- 202, 251 and 252 East Las Animas Street from PDZ (Planned
+- Development Zone; 15 dwelling units per acre, 60 feet
+- apartments, condominiums, commercial, office, civic) to PDZ
+- (Planned Development Zone; 184 dwelling units per acre, 950
+- square feet commercial, 65 feet maximum building height,
+- apartments, condominiums, live/work, commercial-retail, office
+- Attachment 4-Ordinance 99-189
+- Attachment 5-Ordinance 01-140
+- Attachment 6-Bristow Lowell URA Plan
+- Attachment 9-Public Comment
+- Attachment 11-Project Statement
+- Attachment 12-Zoning Exhibit
+- Attachment 13-Major Modification Plan
+- Attachment 14-Approved Lowell Neighborhood Land Use Plan
+- Attachment 18-Street View
+- Plan (aka Concept Plan) to remove Lot 2, Lot 3 and Lot 4, The
+- Plan consisting of 1.20 acres located at 202, 251 and 252 East
+- Las Animas Street. (Quasi-Judicial)
+- 7.5.516 MODIFICATION OF APPROVED APPLICATIONS
+
+## [colorado-springs#14] 2026-09-14 | Historic Preservation Board | agenda
+- Once an item has been heard, the Chair will open the public portion of the hearing for comments
+- 4. Approval of Minutes
+- barrel-style stone-coated steel tile roof located at 610 Park
+- Attachment 1-Zoning Map
+- Attachment 3-Project Statement
+- Attachment 5-Park Terrace Homes
+- 9. Presentations
+
+## [colorado-springs#15] 2026-09-17 | City Council | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- Special meeting to hear the Project Taurus planning item appeal
+- Public comment during the hearing will be limited to a total of 120 speakers inclusive of
+- are not permitted to cede time or display multimedia during their comments. Advance sign-up
+- to speak is encouraged. Those wanting to provide public comment should send an email to
+- address, and whether you support or oppose the project
+- 2. Public Hearing
+- appeals of the Administrative Approval of the Development Plan
+- Major Modification application for Corporate Ridge Filing No. 1
+- Lot 4, located at 1565 High Tech Way, and to approve the same
+- Graham-Becker_Corrigendum Appeal Project Taurus_9.8.26
+- Graham-BeckerProject_Taurus_Appeal_Package_FINAL_COMPLETE
+- Graham-Becker_Project_Taurus_Appellants_Objection_Packet_2026-07
+- Graham-Becker_Project_Taurus_M201_Supplemental_Submission_with
+- CPC Attachment 1 - Appeal Application
+- CPC Attachment 2 - Appeal Application
+- CPC Attachment 3 - Appeal Application
+- CPC Attachment 4 - Appeal Application
+- CPC Attachment 5 - Appeal Application
+- CPC Attachment 6 - Ordinance No. 4312 (1971)
+- CPC Attachment 7 - Public Comments 7192026
+- CPC Attachment 10 - Rapid Response Certificate
+- CPC Attachment 11 - Project Statement
+- CPC Attachment 12 - Approval Letter
+- CPC Attachment 13 - Approved Development Plan
+- CPC Attachment 16 - Development Agreement
+- CPC Attachment 17 - Sound Monitoring Plan
+- 7.5.516 MODIFICATION OF APPROVED APPLICATIONS
+- CC SAH Presentation_Project Taurus_Appeal
+- presentation final
+
+## [colorado-springs#16] 2026-09-18 | Liquor and Beer License Hearings | minutes
+- 224 E. Kiowa Street
+- Liquor and Beer License Hearings
+- Hearing Officer Pratt called the meeting to order at 9:03 a.m
+- 3. New Application Hearings
+- 3.A. Application of Lee&Ling II LLC d/b/a Bonchon for a new Hotel and
+- Restaurant Liquor License at 140 E Cheyenne Road, Suite 100
+- Application approved and forwarded to the Liquor Enforcement Division of the
+- 3.B. Application of GPB Inc d/b/a Goat Patch Brewing Co for a new Brew
+- 3.C. Application of GPB Inc d/b/a Goat Patch Brewing Co for a new Brew
+- Pub Liquor License at 12245 Voyager Parkway, Suite 100
+- 3.D. Application of Koba LLC d/b/a Koba Grill and Hot Pot for a new Hotel
+- 3.E. Application of TCE COS LLC d/b/a Bright Eyed for a new Hotel and
+- 3.F. Application of Glo Nail Spa 3 Inc d/b/a Glo Nails Spa 3 for a new Beer
+- September 18, 2026Liquor and Beer License Hearings Meeting Minutes - Final
+- 3.G. Application of Khadka's Group Inc d/b/a Neighborhood Mart for a new
+
+## [colorado-springs#17] 2026-09-21 | City Council Work Session | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- may amend the order of items
+- The minutes of the September 8, 2026 Work Session were approved by
+- 5. Presentations for General Information
+- Auto Rental Tax (LART) contract update to City Council
+- EDC introduced the 2026 mid-year Lodgers and Auto Rental Tax (LART)
+- contract update and provided an overview of: LART Powered by Tourism,
+- Economic Development on the Road, National Earned Media Results, and
+- 6. Staff and Appointee Reports
+- Financial Report and provided an overview of the Sales & Use Tax
+- Overview General Fund, LART and RMJ Tax Overview, 2026 Revenue over
+- Budget, 2026 Expenditure Savings, City Turnover Rates, 2027 Budget and
+- Councilmember Leinweber asked about a ballpark figure where the City
+- estimate is coming in higher than budget estimates and that revenue has
+- been pulled into the 2027 city budget estimates
+- 200% year over year growth on Retail Marijuana taxes from now on . Ms
+- should be discussed then
+- budgeting cycle. Ms. McDaniel stated since the budgeting request came in
+- the police department, they did not feel the number would be approved and
+- were cautious on the outlook and was not included in the budget
+- Councilmember Casey asked if employee turnover is budgeted for. Ms
+- McDaniel stated they do budget for approved positions only
+- Councilmember Donelson stated there are very large jumps in police and
+- fire turnover and asked why that is. Ms. McDaniel stated they do see
+- positions. Ms. McDaniel stated that is accurate
+- Councilmember Henjum stated after speaking to the Police and Fire
+- savings in the administrative portion of the plan, and it is a net expansion of
+- claims. She supports Retail Marijuana tax funding for police and fire
+- groups. She supports restored funding for park restrooms and she would
+- 7.A. An Ordinance Amending Ordinance 25-95 (2026 Budget Appropriation
+- Ordinance) for a Supplemental Appropriation to multiple funds for the
+- Ordinance - Nov furlough day elimination
+- Furlough day cancellation for Nov 25 - presentation
+- Wayne Williams, Chief of Staff presented the ordinance Amending
+- Ordinance 25-95 (2026 Budget Appropriation Ordinance) For A
+- He stated revenues have exceeded 2026 projections and would like to use
+- Williams stated that employees could use a vacation day, sick day, or take
+- recognized year to date on budgeted positions that have gone vacant. Ms
+- budgets for each department
+- 7.B. A Resolution Setting Certain Electric Rates within the Service Area of
+- Electric Rate Schedules
+
+## [colorado-springs#18] 2026-09-21 | City Council | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- 2.A. In accord with City Charter art. III, § 3-60(d) and its incorporated
+- Closed Executive Session. The issues to be discussed involve
+- property interest in a portion of Wilson Ranch Park and (ii) receiving
+- legal advice regarding refunds of sales and use tax to qualified entities
+- for construction projects
+- Tax Refunds Wilson Ranch Park) 9.21.26
+- with City Charter art. III, § 3-60(d) and its incorporated Colorado Open
+- The issues to be discussed involve consultation with the City Attorney for
+- Ranch Park and (ii) receiving legal advice regarding refunds of sales and
+- use tax to qualified entities for construction projects
+
+## [colorado-springs#19] 2026-09-22 | City Council | minutes
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- may amend the order of items
+- discussion by a Councilmember or a citizen wishing to address the City Council
+- (Any items called up for separate consideration shall be acted upon following the
+- 4A. Second Presentation:
+- 4A.A. Ordinance No. 26-51 Amending Section 113 (Collection of Charges and
+- the Code of the City of Colorado Springs 2001, as Amended, Pertaining
+- Lien Presentation-CC-09.08.2026
+- Signed Ordinance 26-51
+- This Ordinance was finally passed on the Consent Calendar
+- 4A.B. Ordinance No. 26-52 Repealing Article 1 (General Business License
+- Taxation) And Reordaining Article 1 (Business License Provisions) Of
+- Chapter 2 (Business Licensing, Liquor Regulation And Taxation) Of The
+- Code Of The City Of Colorado Springs 2001, As Amended, Pertaining
+- Young Shin, City Attorney’s Office, Corporate Division
+- 2026 Business License Code Changes Presentation
+- Signed Ordinance 26-52
+- 4A.C. Ordinance No. 26-53 Repealing And Reordaining Article 3 (Sales Of
+- Regulation And Taxation) Of The Code Of The City Of Colorado Springs
+- 2001, As Amended, Pertaining To Business Licensing, And Providing
+- Signed Ordinance 26-53
+- 4A.D. Ordinance No. 26-54 Repealing Article 4 (Sexually Oriented
+- Taxation) And Reordaining Article 4 (Adult Use Businesses) Of Chapter
+- 2 (Business Licensing, Liquor Regulation And Taxation) Of The Code Of
+- The City Of Colorado Springs 2001, As Amended, Pertaining To
+- Signed Ordinance 26-54
+- 4B. First Presentation:
+- The Minutes were approved on the Consent Calendar
+- 4B.B. A Resolution Authorizing the Mayor to Execute a Memorandum of
+- Agreement with the U.S. Army Corps of Engineers for Site Protection
+- Requirements Associated with Permittee Responsible Mitigation under
+- Department of the Army Permits
+- Erin Powers, P.E., Stormwater Enterprise Manager
+- Resolution USACE Site Protection MOA.doc
+- Signed Resolution 76-26
+- This Resolution was adopted on the Consent Calendar
+- 4B.C. An Ordinance Certifying Delinquent Stormwater Fees and Charges to
+- SW-DeliquentFeesORD-2026-08-17
+- Signed Ordinance 26-55
+- This Ordinance was approved on first reading on the Consent Calendar
+- 4B.D. An Ordinance Amending Multiple Sections of Article 3 (Code of Ethics)
+- City of Colorado Springs 2001, as Amended, Pertaining to the Code of
+- 2026 Ethics Code Update - Council Presentation.pptx
+- Signed Ordinance 26-56
+- 4B.E. A Resolution Adopting the Internal Audit Charter of the Office of the City
+- Resolution - Internal Audit Charter
+- Signed Resolution 77-26
+- 4B.F. A Resolution Authorizing the Acquisition of Real Property located at
+
+## [colorado-springs#20] 2026-10-08 | City Planning Commission Work Session | agenda
+- No public comments are taken during the informal meetings
+- Attachment_3_Project_Statement
+- Attachment_4_Floor_Plan
+- CUDP-26-0013_CPC_Presentation
+- 4.B. A Zone Map Amendment (Rezone) consisting of 10.06 acres
+- located northeast of Bradley Road and Powers Boulevard from
+- Attachment 1_Project Statement
+- Attachment 2_Annexation Ord. 23-50
+- Attachment 3_Villages at Waterview North Master Plan
+- Attachment 4_Villages at Waterview North Concept Plan
+- Attachment 5_Zoning Ordinance No. 23-54
+- Attachment 6_Preliminary Development Plan
+- Attachment 7_Preliminary Subdivision Plat
+- Exhibit B_Zoning Map
+- Presentation
+- 7.5.704 ZONING MAP AMENDMENT (REZONING)
+- Bluffs Parkway. (Quasi-Judicial)
+- Attachment 1 - Project Statement
+- Attachment 3 - Conceptual Site Plan
+- 411 W Bijou Street - Fence Height Variance
+- and the lot frontage to be six (6) feet in height where up to four
+- (4) feet is allowed for the property located at 411 West Bijou
+- Attachment 2 - Public Comment
+- Attachment 4 - Site Plan & Elevations
+- Staff Presentation_411 W Bijou (NVAR-26-0011)
+- Kettle Creek - Development Standards Adjustment
+- 5.A. A Development Standards Adjustment to City Code Table
+- Street-loaded Garage Setback for the “Unit B” product type
+- located at 2060 Old Ranch Road
+- Attachment_1_Site_Plan
+- Attachment_2_Project_Statement
+- 7.5.525 DEVELOPMENT STANDARDS ADJUSTMENT
+- DVSA_25-0010_CPC_Presentation_v3
+- Height Allowances for Accessory Dwelling Units Ordinance
+- 5.B. An Ordinance amending Chapter 7 (Unified Development
+- 2001, as amended, as related to height allowances for
+- Staff Report - Height Allowances for ADUs Ordinance
+- Attachment 1 - Ordinance
+- Staff Presentation
+- 1022 Race Street Yard Setbacks - Non-use Variance
+- twenty-three (23) feet is usually required for the property
+- located at 1022 Race Street
+- CPC Staff Report - 1022 Race Street
+- Attachment_4_Site_Plan
+- Attachment_5_Front_Yard_Setback_Project_Statement
+- 1022_Race_Street_CPC_presentation
+- fifteen (15) feet is usually required for the property located at
+- 1022 Race Street
+- Attachment_6_Rear_Yard_Setback_Project_Statement
+- 7. Presentations
+- Colorado Springs New Parks Master Plan
+- 7.A. Colorado Springs New Parks Master Plan
+- Lonna Thelen, Parks Development Manager
+- Parks PresentationAttachments:
+
+## [colorado-springs#21] 2026-10-12 | City Council Work Session | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- Council may amend the order of items
+- 5. Presentations for General Information
+- Careers in Construction Colorado PresentationAttachments:
+- Rental Tax (LART) contract update to City Council
+- 6. Staff and Appointee Reports
+- A Resolution Approving the 2027 Budget for Pikes Peak Regional
+- 2027 PPRBD Budget Resolution-10-12-26
+- PPRBD 2027 Budget FINAL - Accessible
+- 2027 Budget Presentation_City of Colorado Springs FINAL - Accessible
+- A Resolution setting the fees for the general business licenses
+- Resolution - City Clerk General Business License Fee schedule.docx
+- City Clerk General Business License Fees - Exhibit A - 10-12-26
+- Items 7.C to 7.S will be discussed in a presentation. Estimated Time: 45 minutes
+- 7.C. A Resolution of the City Council of Colorado Springs, Colorado
+- Approving the Proposed 2027 Operating Plan and Budget for
+- the Barnes & Powers North Business Improvement District
+- 2027_Barnes_North_Unsigned_Resolution
+- 2026 Operating Plan - Barnes _ Powers North BID
+- 2027 Operating Plan and Budget - Barnes and Powers North
+- 7.D. A Resolution of the City of Colorado Springs Approving the
+- Proposed 2027 Operating Plan and Budget for the Briargate
+- Center Business Improvement District
+- 2027_Briargate_Center_Unsigned_Resolution
+- 2026 Operating Plan and Budget - Briargate Business Center
+- 2027 Operating Plan and Budget - Briargate Center
+- 7.E. A Resolution of the City of Colorado Springs Approving the
+- Proposed 2027 Operating Plan and Budget for the Catalyst
+- Campus Business Improvement District
+- 2027_Catalyst_Campus_Unsigned_Resolution
+- 2026 Operating Plan and Budget - Catalyst Campus
+- 2027 Operating Plan and Budget - Catalyst Campus
+- 7.F. A Resolution of the City of Colorado Springs Approving the
+- Proposed 2027 Operating Plan and Budget for the Creekwalk
+- Marketplace Business Improvement District
+- 2027_Creekwalk_Unsigned_Resolution
+- 2026 Operating Plan - Creekwalk Marketplace BID
+- 2027 Operating Plan and Budget - Creekwalk Marketplace
+- 7.G. A Resolution of the City of Colorado Springs Approving the
+- Proposed 2027 Operating Plan and Budget for the First and
+- Main Business Improvement District
+- 2027_1st_&_Main_Unsigned_Resolution
+- 2026 Operating Plan - First & Main BID
+- 2027 Operating Plan and Budget - First & Main
+- 7.H. A Resolution of the City of Colorado Springs Approving the
+- Main 2 Business Improvement District
+- 2027_1st_&_Main_2_Unsigned_Resolution
+- 2026 Operating Plan - First & Main BID No. 2
+- 2027 Operating Plan and Budget - First & Main No. 2
+
+## [colorado-springs#22] 2026-10-13 | City Council | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- Council may amend the order of items
+- discussion by a Councilmember or a citizen wishing to address the City Council
+- (Any items called up for separate consideration shall be acted upon following the
+- 4A. Second Presentation:
+- 4A.A. Ordinance No. 26-55 Certifying Delinquent Stormwater Fees and
+- Erin Powers, P.E., Stormwater Enterprise Manager
+- SW-DeliquentFeesORD-2026-08-17
+- 4A.B. Ordinance No. 26-56 Amending Multiple Sections of Article 3
+- Amended, Pertaining to the Code of Ethics
+- 2026 Ethics Code Update - Council Presentation.pptx
+- 4A.C. Ordinance No. 26-50 Of The City Of Colorado Springs, Colorado
+- Providing For The Extension, Betterment, Other Improvement And
+- Springs, Colorado, Utilities System Improvement Revenue Bonds,
+- Series 2026a (Tax-Exempt) In An Aggregate Principal Amount Not
+- Colorado, Utilities System Improvement Revenue Bonds, Series
+- 2026b (Taxable) In An Aggregate Principal Amount Not To Exceed
+- Paying Agent Agreement, A Bond Purchase Agreement, And An
+- CSU 2026 AB Bond Ordinance Changed Page
+- CSU 2026 AB Bond Ordinance - DRAFT
+- 9-8-26 CC - Utilities 2026AB, BABs Refunding Bond Ordinance
+- Presentation (1)
+- 4B. First Presentation:
+- 4B.D. A Resolution Adopting the Rules and Procedures of the Civil
+- Heather Edwards, Police Deputy Chief
+- Danielle Delgado, Fire Department Human Resources Manager
+- A Resolution Approving Amendments To The Rules Of The Colorado
+- Springs Civil Service Commission For The Municipal Police And Fire
+- with her a petition for the annexation of Klein Addition No. 1
+- Annexation. The City Clerk herewith communicates such to City
+- Klein Addition No 1 - Annexation Plat
+- with her a petition for the annexation of Klein Addition No. 2
+- Klein Addition No 2 - Annexation Plat (Revised 1-13-2026) (1)
+- with her a petition for the annexation of Klein Addition No. 3
+- Klein Addition No 3 - Annexation Plat
+- with her a petition for the annexation of Crow Foot Addition No. 1
+- Crow Foot Annex. petition
+- Crow Foot Addition No 1 - Annex Plat
+- 4B.I. An Ordinance to amend the zoning map of the City of Colorado
+- Platte Avenue, near the intersection of E. Platte Avenue and
+- Wooten Road, from BP/LI/CR/AP-O/APZ-1/APZ-2/SS-O
+- (Business Park and Light Industrial with Conditions of Record,
+- public hearing date for October 27, 2026 in accord with City Code
+- Section 7.5.407. Hearings for the ordinance and any related
+- applications shall be conducted at the second reading.)
+- ZONE-25-0029_Ordinance
+- Attachment_1_Towne_East_Master_Plan
+
+## [colorado-springs#23] 2026-10-14 | City Planning Commission | agenda
+- Regional Development
+- Center (Hearing Room)
+- Hearing Room
+- Once an item has been heard, the Chair will open the public portion of the hearing for comments
+- 4. Approval of Minutes
+- Attachment_3_Project_Statement
+- Attachment_4_Floor_Plan
+- CUDP-26-0013_CPC_Presentation
+- 5.B. A Zone Map Amendment (Rezone) consisting of 10.06 acres
+- located northeast of Bradley Road and Powers Boulevard from
+- Attachment 1_Project Statement
+- Attachment 2_Annexation Ord. 23-50
+- Attachment 3_Villages at Waterview North Master Plan
+- Attachment 4_Villages at Waterview North Concept Plan
+- Attachment 5_Zoning Ordinance No. 23-54
+- Attachment 6_Preliminary Development Plan
+- Attachment 7_Preliminary Subdivision Plat
+- Exhibit B_Zoning Map
+- Presentation
+- 7.5.704 ZONING MAP AMENDMENT (REZONING)
+- Bluffs Parkway. (Quasi-Judicial)
+- Attachment 1 - Project Statement
+- Attachment 3 - Conceptual Site Plan
+- 411 W Bijou Street - Fence Height Variance
+- and the lot frontage to be six (6) feet in height where up to four
+- (4) feet is allowed for the property located at 411 West Bijou
+- Attachment 2 - Public Comment
+- Attachment 4 - Site Plan & Elevations
+- Staff Presentation_411 W Bijou (NVAR-26-0011)
+- Kettle Creek - Development Standards Adjustment
+- 7.A. A Development Standards Adjustment to City Code Table
+- Street-loaded Garage Setback for the “Unit B” product type
+- located at 2060 Old Ranch Road
+- Attachment_1_Site_Plan
+- Attachment_2_Project_Statement
+- 7.5.525 DEVELOPMENT STANDARDS ADJUSTMENT
+- DVSA_25-0010_CPC_Presentation_v3
+- Height Allowances for Accessory Dwelling Units Ordinance
+- 7.B. An Ordinance amending Chapter 7 (Unified Development
+- 2001, as amended, as related to height allowances for
+- Staff Report - Height Allowances for ADUs Ordinance
+- Attachment 1 - Ordinance
+- Staff Presentation
+- 1022 Race Street Yard Setbacks - Non-use Variance
+- twenty-three (23) feet is usually required for the property
+- located at 1022 Race Street
+- CPC Staff Report - 1022 Race Street
+- Attachment_4_Site_Plan
+- Attachment_5_Front_Yard_Setback_Project_Statement
+- 1022_Race_Street_CPC_presentation
+- fifteen (15) feet is usually required for the property located at
+- 1022 Race Street
+- Attachment_6_Rear_Yard_Setback_Project_Statement
+- 9. Presentations
+
+## [colorado-springs#24] 2026-10-15 | City Council Work Session | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- City Council 2027 Budget Work Session
+- Council may amend the order of items
+- 2.A. City Council 2027 Budget Work Session
+- Agenda-2027 Budget Work Session 10-15-2026
+- 2027 Budget Work Session - Morning Slides
+- 2027 Budget Work Session - Afternoon Slides
+
+## [colorado-springs#25] 2026-10-16 | Liquor and Beer License Hearings | minutes
+- 224 E. Kiowa Street
+- Liquor and Beer License Hearings
+- Hearing Officer Berns called the meeting to order at 9:08 a.m
+- 3. New Application Hearings
+- 3.A. Application of Prost Biergarten Denver LLC d/b/a Prost Brewing
+- Application approved and forwarded to the Liquor Enforcement Division of the
+- 3.B. Application of Juanita's Best Mexican Food LLC d/b/a Juanita's Best
+- 3.C. Application of Acacia Partners LTD d/b/a City Aud for a new Tavern
+- Liquor License at 221 E Kiowa Street
+
+## [colorado-springs#26] 2026-10-21 | City Council | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- City Council may amend the order of items
+- A Resolution Authorizing a Term for a Lease of Colorado
+
+## [colorado-springs#27] 2026-10-26 | City Council Work Session | agenda
+- City Council meetings are broadcast live on Channel 18. In
+- participate in this meeting should make the request as soon as
+- Council may amend the order of items
+- 5. Presentations for General Information
+- 6. Staff and Appointee Reports
+- A Resolution Fixing and Certifying the 2026 Tax Levy for Taxes
+- Development Authority in Colorado Springs, Colorado
+- 01_Res to Fix Mill Levy for DDA_RG_NA
+- DDA & BID City Council final - 10.26.26
+- CS Downtown Development Authority Tax Map - 8.26.26
+- CS Downtown Development Authority Tax Map - 8.26.26 - Accessible
+- A Resolution Approving the 2027 Budget for the Colorado Springs
+- Downtown Development Authority in Colorado Springs Colorado
+- 02_Res to Approve Budget for DDA_RG_NA
+- A Resolution Fixing and Certifying a 4.409 Mill Levy for the
+- Colorado Springs Briargate General Improvement District 2021,
+- Colorado Springs, Colorado, for the 2027 Budget Year
+- 01_Res to Fix Mill Levy for Briargate GID 2021_RG_NAAttachments:
+- A Resolution Summarizing Expenditures and Revenues, Adopting
+- a Budget, and Appropriating Funds for the Colorado Springs
+- Briargate General Improvement District 2021, Colorado Springs,
+- 02_Res to Adopt Budget and Appropriate for Briargate GID 2021_RG_NA
+- 2027 Briargate GID 2021 Proposed Budget
+- Briargate GID Budget Letter
+- Colo Spgs Briargate GID 2021 tax map
+- Colo Spgs Briargate GID 2021 tax map - Accessible Transcript
+- A Resolution Fixing and Certifying a 50.00 Mill Levy for the
+- Purpose of Servicing Debt on the General Obligation Bonds of the
+- Improvement District, Colorado Springs, Colorado, for the 2027
+- 01_Res to Fix Mill Levy for MAB GID_RG_NAAttachments:
+- Marketplace at Austin Bluffs General Improvement District,
+- 02_Res to Adopt Budget for MAB GID_RG_NA
+- 2027 MAB Budget
+- Marketplace at Austin Bluffs GID - Tax Map - 8.26.26
+- Marketplace at Austin Bluffs GID - Tax Map - Accessible Transcript
+- A Resolution Recognizing a partial donation of approximately 174
+- Resolution_Veranda Vista Investments, LLC Donation Parcel 4B and 5
+- An Ordinance Amending Section 304 (Accessory Uses) of Part 3
+- 7 (Unified Development Code) of the Code of the City of Colorado
+- Springs 2001, as amended, pertaining to height allowances for
+- Attachment 1 - Ordinance
+- City Council WS Presentation
+- An Ordinance Establishing a new Article 10 (Fire Construction
+- Code of the City of Colorado Springs 2001, as amended, relating
+- to Fire Construction Services Enterprise
+- Kris Cooper, Fire Marshal, Fire Department
+- City Code Section 14.7 Development Review Enterprise
+- DRE Split Presentation
+- Ordinance-FINAL.docx
+- 9. Councilmember Reports and Open Discussion

@@ -1,0 +1,137 @@
+# dolores
+
+## [dolores#0] 2026-08-10 | City Council | minutes
+- 4. APPROVAL OF THE AGENDA
+- ACTION: Trustee Beckman moved to approve the agenda. Trustee Maule seconded. The
+- ACTION: Trustee Maule moved to approve the consent agenda. Trustee Beckman
+- 8. PUBLIC COMMENT
+- Noah: stated that he did not believe the Board could limit public comment because of First
+- Amendment protections
+- Holly Asher: stated that she wanted to “add heart to the project.”
+- Val Truelson: requested review of unclaimed land and any rights the Town may have to it
+- The Board requested that this topic be placed on a future agenda
+- Greg: stated that NR-3 zoning does not address density concerns on Riverside Avenue
+- Tracy Keuric: agreed with Greg’s comments and suggested consideration of NR-1 zoning
+- Marie Betel: stated that the proposed zoning change could be considered spot zoning and
+- 9.3 Town Attorney Report. Attorney Sumrall reiterated his resignation and final date of
+- reminded the Board and committees that proposed 2027 budget items must be submitted
+- been continued, a rubbish ordinance was being developed, and County surplus items were
+- planned for October and discussed debris in the river
+- requested citizen input regarding the location and timing of other engagement meetings
+- adding a “parking lot” or future-topics section to the Board agenda similar to Planning and
+- with the Riverside project
+- Trustee McCoy reported on the Community Center action chart, identified needed
+- Trustee Peterson requested an opportunity to review public-comment letters
+- 11.1. SECOND READING AND PUBLIC HEARING — ORDINANCE 591
+- Mayor Holkestad opened the public hearing at 7:08 p.m. No public comment was received
+- ACTION: Trustee Peterson moved to approve Ordinance 591, establishing authority for
+- fees to be set by resolution; establishing procedures for license and permit renewal,
+- fees; and providing for related matters. Trustee Beckman seconded. The motion passed
+- The public hearing closed at 7:17 p.m
+- 11.2. FIRST READING AND PUBLIC HEARING — ORDINANCE 592
+- Mayor Holkestad opened the public hearing at 7:20 p.m. Attorney Sumrall advised the
+- during review of a specific use application rather than during the zoning-map amendment
+- Trustee Peterson requested clarification regarding language in the 250-foot notice letter
+- Applicant Broc Smith stated that the requested change from Downtown Mixed Use (DMU)
+- Public comment: Marianne Mate renewed her earlier comments and requested that a
+- traffic study be completed during the zoning process. Rachel Vass stated that changing the
+- zoning could eliminate future business opportunities. Tracy Keuric stated that she did not
+
+## [dolores#1] 2026-08-24 | City Council | minutes
+- 3. WORKSHOP DISCUSSION
+- 3.1 2027 BUDGET PLANNING
+- Town Clerk/Treasurer Kelley presented the 2027 budget planning information and reviewed
+- the budget to date. Trustees were encouraged to review the highlighted areas in
+- preparation for further budget discussion at the October meeting
+- The Board discussed options for the Town’s meeting schedule and opportunities for public
+- engagement. Discussion included holding two working meetings per month and
+- 3.4 SHERIFF’S CONTRACT
+- Town Attorney Ethan Sumrall presented a draft of the Sheriff’s contract. The Board
+- discussed quantitative and qualitative metrics that could be used to evaluate the value
+- and level of law-enforcement services provided under the contract
+- process and discussed his role and limitations with regard to code enforcement
+- Town Manager Reeves presented the Dolores Community Center Advisory Board’s request
+- 4. FUTURE AGENDA ITEMS / BOARD PARKING LOT
+- upcoming bear presentation at the Dolores Public Library in order to determine whether a
+- The following items were added to the Future Agenda Items/Board Parking Lot for future
+- consideration:
+
+## [dolores#2] 2026-09-14 | City Council | minutes
+- 4. APPROVAL OF THE AGENDA
+- Mayor Holkestad moved to approve the agenda. Mayor Pro Tem Curry seconded. Motion
+- Mayor Holkestad moved to approve the Consent Agenda. Trustee Maule seconded. Motion
+- minutes; August 2026 proceedings; Special Event Permits for High Desert DEVO and
+- DRBA; and the Minor Plat Amendment for the parcels at 100 and 102 N. 4th Street
+- 8. PUBLIC COMMENT
+- Rebecca Busic introduced herself as a candidate for County Commissioner and discussed
+- her platform and issues
+- work at Flanders Park
+- Sheila Wheeler stated that she believed the generator should be tested and operated
+- Molly Wolfe, representing Mud Puppies, addressed the late fee assessed on her business
+- license and stated that she did not believe she should be required to pay the fee
+- Manager Reeves provided updates on the Comprehensive Plan, parks project, October 19
+- with trail cleanup, and progress on the water main replacement project
+- Reeves requested Board direction regarding the Community Center, including whether the
+- Parking Lot, that staff move forward with the boundary issue, and that Community Center
+- funding be reviewed during the budget process
+- Reeves also discussed possible approaches to addressing feral cats
+- Attorney Sumrall discussed the Comnet/Everest telecommunications tower lease and
+- HB 26-1409 and its effect on marijuana tax distributions
+- Jen Stark presented the Community Center Advisory Board report and requested direction
+- for the budget meeting
+- Trustee Peterson also discussed the feral cat issue
+- 11. PUBLIC HEARINGS / QUASI-JUDICIAL
+- 11.1 Ordinance 592 – Rezoning 206 and 207 South Third Street
+- Mayor Holkestad opened the public hearing at 6:52 p.m. Sara Pritchard responded to
+- During public comment, Rachel Vass encouraged the Board to consider the “bigger
+- The public hearing was closed at 7:10 p.m
+- Mayor Holkestad moved to approve Ordinance 592 on second reading. Mayor Pro Tem
+- The agenda identifies Ordinance 592 as rezoning 206 and 207 South Third Street from
+- 12. DISCUSSION / POSSIBLE ACTION ITEMS
+- 12.1 Resolution 717 – Southwest Transportation Planning Region
+- Manager Reeves introduced Resolution 717. Mayor Holkestad moved to approve
+- Resolution 717. Trustee Beckman seconded. Motion carried unanimously
+- 12.2 Resolution 718 – Marianne Mate Easement Agreement
+- Manager Reeves introduced Resolution 718. Mayor Holkestad moved to approve
+- Resolution 718. Trustee Maule seconded. Motion carried unanimously
+- 12.3 Resolution 719 – DWRF Loan Agreement, Phase 2 Water Project
+- Manager Reeves presented Resolution 719 and reviewed the loan summary. Mayor
+
+## [dolores#4] 2026-10-12 | City Council | minutes
+- 4. APPROVAL OF THE AGENDA
+- Trustee Josh Maule moved to approve the agenda. Trustee Billy McCoy seconded. Motion
+- Mayor Pro Tem Chris Curry moved to approve the Consent Agenda, including the
+- 8. PUBLIC COMMENT
+- Mike Sawyer thanked the Board for not adopting the Colorado Wildfire Resiliency Code. He
+- expressed concerns regarding unfinished grant projects and suggested laying railroad
+- that completing park improvements should be a priority in the 2027 Budget
+- Deanna Truelson commented positively on the improvements to the Riverside Trail
+- projects. She noted that the Parks Committee would like to assist with the GOCO project
+- and informed the Board of a CDOT grant opportunity for a safety study
+- Attorney Sumrall discussed options available to the Board for addressing the Dolores
+- 9.8 Planning and Zoning Report – Written report provided
+- Flock license plate reader cameras. He also noted the upcoming Turkey Trot event
+- Mayor Pro Tem Curry commented on the Comprehensive Plan, noting that it is a
+- substantial project
+- improving vehicle access to the park. He hoped community volunteers would participate in
+- 11. QUASI-JUDICIAL / ORDINANCES
+- 12. DISCUSSION / POSSIBLE ACTION ITEMS
+- 12.1 Resolution No. 723 – Accepting the Resignation of Town Attorney Ethan J. Sumrall
+- Mayor Pro Tem Curry moved to approve Resolution No. 723, accepting the resignation of
+- 12.2 Resolution No. 724 – Approving a Non-Exclusive Easement Agreement with
+- Trustee Maule moved to approve Resolution No. 724, approving a non-exclusive easement
+- agreement with Clearnetworx, LLC, for fiber optic communications facilities at 101
+- Railroad Avenue. Mayor Pro Tem Curry seconded. Motion carried unanimously
+- 12.3 Resolution No. 725 – Approving a Legal Services Agreement with Holligan
+- Mayor Pro Tem Curry moved to approve Resolution No. 725, approving a legal services
+- agreement with Holligan Westendorff, PLLC. Trustee McCoy seconded. Motion carried
+- 12.4 Ordinance No. 594 – Adopting the 2024 International Codes – First Reading
+- International Codes and discussed the updates with the Board
+- Mayor Pro Tem Curry moved to approve Ordinance No. 594 on first reading. Trustee Roan
+- 13.1 Search and Rescue Presentation
+- requested that the Town consider allowing the organization to use or lease Town-owned
+- 13.2 SB24-174 Housing Needs Assessment – Region 9 EDD
+- Housing Needs Assessment. The Board discussed the assessment and local housing
+- 13.3 Preliminary 2027 Budget
+- Treasurer Kelley Unrein presented the proposed 2027 Budget and reviewed the upcoming
+- meetings and public hearing associated with the budget process

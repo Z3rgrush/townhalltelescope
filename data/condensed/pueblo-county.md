@@ -1,0 +1,2405 @@
+# pueblo-county
+
+## [pueblo-county#0] 2026-07-28 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- County’s ability to vacate public roads; the lease of property located at 1300 N
+- Santa Fe Ave., Pueblo, CO 81003; Project Falcon; reporting structures and
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- to C.R.S. 24-6-402(4)(e) concerning Project Falcon; state and federal
+- contracting requirements related to the Aspen Acres Fire; and regarding an
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#1] 2026-07-28 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of July 28th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. APPOINTING MELISSA COOK AS A PUEBLO COUNTY
+- COLORADO ECONOMIC DEVELOPMENT DISTRICT
+- 3. Contracts/Resolutions
+- a. APPROVING THE CHANGE ORDER TO THE AGREEMENT BETWEEN
+- b. APPROVING THE SOLAR POWER PURCHASE AGREEMENT BETWEEN
+- PURCHASE AND INSTALLATION OF PV SOLAR SYSTEM AT THE
+- Presented By: David Zupan, Sr. Project Manager, Detention Center
+- c. APPROVING THE SUBMITTAL OF THE CORE SERVICES PROGRAM
+- PLAN TO THE COLORADO DEPARTMENT OF HUMAN SERVICES
+- d. A RESOLUTION APPROVING THE MEMORANDUM OF
+- e. APPROVING THE OPTION ALLOCATION LETTER AND A CONTRACT
+- AMENDMENT BETWEEN THE STATE OF COLORADO, DIVISION OF
+- f. APPROVING THE INTERGOVERNMENTAL AGREEMENT BETWEEN
+- THE ASPEN ACRES AREA FIRE
+- g. A RESOLUTION APPROVING THE APPOINTMENT OF A PUEBLO
+- h. A RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF
+- AND SETTING REPORTING AND APPROVAL REQUIREMENTS FOR
+
+## [pueblo-county#2] 2026-07-28 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of July 28th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. APPOINTING MELISSA COOK AS A PUEBLO COUNTY
+- COLORADO ECONOMIC DEVELOPMENT DISTRICT
+- 3. Contracts/Resolutions
+- a. APPROVING THE CHANGE ORDER TO THE AGREEMENT BETWEEN
+- b. APPROVING THE SOLAR POWER PURCHASE AGREEMENT BETWEEN
+- PURCHASE AND INSTALLATION OF PV SOLAR SYSTEM AT THE
+- Presented By: David Zupan, Sr. Project Manager, Detention Center
+- c. APPROVING THE SUBMITTAL OF THE CORE SERVICES PROGRAM
+- PLAN TO THE COLORADO DEPARTMENT OF HUMAN SERVICES
+- d. A RESOLUTION APPROVING THE MEMORANDUM OF
+- e. APPROVING THE OPTION ALLOCATION LETTER AND A CONTRACT
+- AMENDMENT BETWEEN THE STATE OF COLORADO, DIVISION OF
+- f. APPROVING THE INTERGOVERNMENTAL AGREEMENT BETWEEN
+- THE ASPEN ACRES AREA FIRE
+- g. A RESOLUTION APPROVING THE APPOINTMENT OF A PUEBLO
+- h. A RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF
+- AND SETTING REPORTING AND APPROVAL REQUIREMENTS FOR
+- RESOLUTION NO
+- APPOINTING MELISSA COOK AS A PUEBLO COUNTY REPRESENTATIVE TO
+- DEVELOPMENT DISTRICT
+- Economic Development District and appoints County representatives to the Board of Directors
+- Southern Colorado Economic Development District, and this Board desires to fill such vacancy
+- on the Board of Directors of the Southern Colorado Economic Development District; and
+- WHEREAS, the Southern Colorado Economic Development District executive
+- committee has recommended this Board fill the vacancy, and this Board desires to appoint
+- Pueblo County, Colorado, that Melissa Cook is hereby appointed as a Pueblo County
+- Representative to the Board of Directors of the Southern Colorado Economic Development
+- District effective upon passage of this Resolution, and that the Staff to the Board is hereby
+- authorized and directed to provide the representative with notice of this respective appointment
+- and to take all other action necessary to effectuate this Resolution
+- APPROVING THE CHANGE ORDER TO THE AGREEMENT BETWEEN TRANE U.S
+- WHEREAS, by Resolution No. 25-128, Pueblo County entered into an Agreement
+- County enter into a Change Order to the Agreement with Trane to provide all labor and
+- WHEREAS, the Change Order will increase the total project cost to $2,177,380.00 from
+- the original Agreement price of $1,972,367.00 and it will also extend the project time from 180
+- Pueblo County, Colorado, that the Change Order to the Agreement between Trane U.S. Inc
+
+## [pueblo-county#3] 2026-07-30 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of July 30, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- 4. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT FOR ADMINISTRATION OF
+- b. APPROVING THE AGREEMENT BETWEEN CROSSROADS TURNING
+- c. A RESOLUTION AUTHORIZING DOTTED-LINE REPORTING
+
+## [pueblo-county#4] 2026-07-30 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of July 30, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- 4. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT FOR ADMINISTRATION OF
+- b. APPROVING THE AGREEMENT BETWEEN CROSSROADS TURNING
+- c. A RESOLUTION AUTHORIZING DOTTED-LINE REPORTING
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- been affected by the fire, and approximately 240 homes and 9 businesses have been destroyed in
+- Pueblo County, requiring the support of over 1900 fire personnel from across the County at
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- APPROVING THE AGREEMENT FOR ADMINISTRATION OF SCHOLARSHIP
+- that is funded by marijuana excise tax revenue in accordance with Resolution 15-203 and
+- amendments thereto; and
+- nonprofit organization that has been awarding scholarships in Southern Colorado since 1988;
+- resulting from the Pueblo County Retail Marijuana Excise Tax imposed by Resolution No. 15
+- Pueblo to enter into this Agreement with PHEF to administer and manage the Pueblo County
+- Pueblo County, Colorado, that the Agreement for the Administration of Scholarship Funds
+- between the Pueblo Hispanic Education Foundation and Pueblo County is hereby approved, the
+- terms and conditions of which are incorporated herein by this reference and the Chair of the
+- Board of County Commissioners and the Director of the Pueblo County Office of Budget and
+- Finance are hereby authorized to sign said Agreement on behalf of Pueblo County
+- Agreement for the Administration of Scholarship Funds
+- This Agreement, entered into this 30th day of July 2026, by and between the County of
+- 215 S Victoria Street, Suite J
+- Administrator,” or “Contractor”):
+- WHEREAS, on September 2, 2015 through the adoption of Resolution No. 15-203,
+
+## [pueblo-county#5] 2026-07-30 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- legal questions, pursuant to C.R.S. 24-6-402(4)(b) regarding: A roads maintenance
+- in response to the Aspen Acres Fire; the purchase of county held tax liens in
+- unincorporated Pueblo County; and County practices concerning accrued leave
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) concerning: A roads maintenance IGA with the Pueblo West
+- Metro District; and the purchase of county held tax liens in unincorporated Pueblo
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#6] 2026-08-04 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 4th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- a. RESOLUTION DECLARING THAT THE RECOMMENDATIONS OF THE
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- THE SALE OF PROPERTY AT 229 WEST 12TH STREET
+- b. APPROVING THE JOINT PARTNERSHIP COMMUNITY SERVICES
+- FUNDING AGREEMENTS FOR FISCAL YEAR 2026 RECOMMENDED BY
+- a. Larry Ohrdorf & Lynne Ohrdorf; Parcel #06-121-04-004; 2025 Tax Year(s); 2025
+- Original Value: $239,140; Abated Value: $81,740; Abated Taxes: $8,107.21;
+- TOTAL ABATED TAXES: $ 8,107.21
+- 4. Contracts/Resolutions
+- a. APPROVING THE EMERGENCY FACILITIES & LAND USE AGREEMENT
+- b. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- c. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO, ON BEHALF
+- d. APPROVING THE STATE OF COLORADO DEPARTMENT OF HUMAN
+- SERVICES GRANT CONTRACT FOR THE PRE-ARREST EVALUATION,
+- Presented By: Christine Zeitvogel, Project Manager PREVAIL
+- e. APPOINTING A MEMBER TO THE PUEBLO ADVISORY COUNCIL ON
+
+## [pueblo-county#7] 2026-08-04 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- and responsibilities of the County in response to the Aspen Acres Fire; the
+- use of marijuana excise tax funding; and
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- an Agreement with the Pueblo Hispanic Education Foundation for marijuana
+- excise tax scholarships; and regarding state/federal contracting requirements
+- related to the Aspen Acres Fire
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#8] 2026-08-04 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 4th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- a. RESOLUTION DECLARING THAT THE RECOMMENDATIONS OF THE
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- THE SALE OF PROPERTY AT 229 WEST 12TH STREET
+- b. APPROVING THE JOINT PARTNERSHIP COMMUNITY SERVICES
+- FUNDING AGREEMENTS FOR FISCAL YEAR 2026 RECOMMENDED BY
+- a. Larry Ohrdorf & Lynne Ohrdorf; Parcel #06-121-04-004; 2025 Tax Year(s); 2025
+- Original Value: $239,140; Abated Value: $81,740; Abated Taxes: $8,107.21;
+- TOTAL ABATED TAXES: $ 8,107.21
+- 4. Contracts/Resolutions
+- a. APPROVING THE EMERGENCY FACILITIES & LAND USE AGREEMENT
+- b. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- c. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO, ON BEHALF
+- d. APPROVING THE STATE OF COLORADO DEPARTMENT OF HUMAN
+- SERVICES GRANT CONTRACT FOR THE PRE-ARREST EVALUATION,
+- Presented By: Christine Zeitvogel, Project Manager PREVAIL
+- e. APPOINTING A MEMBER TO THE PUEBLO ADVISORY COUNCIL ON
+- RESOLUTION NO
+- RESOLUTION DECLARING THAT THE RECOMMENDATIONS OF THE
+- is required to review the valuations for assessment of all taxable property appearing on the
+- or denied by the County Assessor, which hearings may be conducted by independent referees
+- appointed by the County Board of Equalization pursuant to Section 39-8-102(2), C.R.S.; and
+- 1. The Board hereby accepts the findings and recommendations of the appointed independent
+- calculation error or other similar mistake prior the Clerk’s notification to the property owner
+- 2. The attached hearing report and orders of the referees are incorporated into this Resolution
+- 3. The Clerk and Recorder is hereby directed to forward a copy of this Resolution to the
+- 4. The Board of County Commissioners respectfully requests the Pueblo County Assessor to
+- take appropriate actions with regard to this Resolution as soon as possible
+- 5. The Clerk to the Board is hereby directed to notify the property owners and/or their
+- 04-181-26-001 2026 26 CBOE 4 RE-COMM COMM UNIVERSITY PARK REAL ESTATE 4774643
+- 15-023-07-005 2026 26 CBOE 4 RE-COMM COMM GRAY MICHELE M 2009 SEPARATE PROPERTY TR DATED 1 098649
+- 229 WEST 12TH STREET
+- purchase and sell real property on behalf of Pueblo County; and
+- WHEREAS, under C.R.S. § 38-30-141, this Board is authorized to appoint a
+- WHEREAS, by Resolution No. 26-024, this Board entered into an agreement for the sale
+
+## [pueblo-county#9] 2026-08-06 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 6th, 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 1. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- b. ADOPTING A STAGE-2 OPEN FIRE BAN
+
+## [pueblo-county#10] 2026-08-06 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 6th, 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 1. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- b. ADOPTING A STAGE-2 OPEN FIRE BAN
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- have been affected by the fire, and approximately 240 homes and 9 businesses have been
+- destroyed in Pueblo County requiring the support of over 1900 fire personnel from across the
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- ADOPTING A STAGE-2 OPEN FIRE BAN
+- WHEREAS, this Board by Resolution 26-201, dated July 2nd, 2026, ratified and Adopted
+- a Stage-2 Open Fire Ban for a period of 30 days; and
+- open fire ban whenever the danger of forest and grass fires is found to be high; and
+- weather conditions and an active wildfire in the southwest portion of Pueblo County; and
+- Code, Pueblo County hereby imposes a Stage-2 open fire ban (“Open Fire Ban”), prohibiting the
+- following activities within unincorporated Pueblo County:
+- 1. Building, maintaining, attending or using a fire, campfire, or stove fire. This includes
+- valves are permitted when used in an area at least three feet or more from flammable material
+- 3. The sale or use of fireworks
+- a spark arresting device properly installed, maintained and in effective working order meeting
+- Operating a chainsaw without an approved spark arresting device as described in Prohibition #4,
+- a chemical pressurized fire extinguisher (8 oz. capacity by weight or larger and kept with the
+- 6. Using an explosive. This includes but is not limited to fuses or blasting caps, fireworks,
+- 7. Possessing or using a motor vehicle off established roads, motorized trails or established
+- parking areas, except when parking in an area devoid or vegetation within 10 feet of the vehicle
+- Pueblo County, Colorado, that the adoption of a Stage-2 open Fire Ban is hereby imposed as
+
+## [pueblo-county#11] 2026-08-06 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#12] 2026-08-10 | Liquor and Marijuana Licensing Board | agenda
+- 215 WEST 10TH STREET
+- II. APPROVE MEETING MINUTES
+- III. APPROVE AGENDA
+- publicly posted or noticed in a newspaper and cannot be considered for a public hearing. The
+- Chair may remove any item upon request by a Board member, staff, or citizen. Removed items
+- will be addressed separately, rescheduled, or handled at the Board’s discretion
+- a. Renewal Application for a Fermented Malt Beverage and Wine License located at
+- b. Renewal Application for a Fermented Malt Beverage and Wine License located at
+- a. Transfer of Ownership Application for a Retail Marijuana Store License located at
+- V. CONSENT HEARING AGENDA ITEMS
+- 1. Special Events Permit
+- a. Application for a Special Events Permit for a Malt, Vinous, and Spirituous Liquor
+- b. Application for a Special Events Permit for a Fermented Malt Beverage License
+- c. Application for a Special Events Permit for a Fermented Malt Beverage License
+- a. Application for a Cabaret License located at 24500 Highway 50 East, Pueblo,
+- a. Renewal Application for a Retail Marijuana Cultivation Facility License located at
+- 1790 Pope Valley Ranch Road, Pueblo, Colorado 81005 submitted by 1790 Pope
+- a. Stipulation Agreement for a Retail Marijuana Store License located at 749 East
+- b. Stipulation Agreement for a Retail Marijuana Cultivation Facility License located at
+- 7440 Rex Road, Pueblo, Colorado 81005 for R&S Solutions, LLC dba Satori Farms
+- THE LOCATION OF THESE PUBLIC HEARINGS AND/OR MEETINGS IS
+- HEARINGS AND/OR MEETINGS FOR INDIVIDUALS WITH SIGHT OR
+- Access to the Historic Court House at 215 W. 10th Street is limited to the doors on the
+- of or in opposition to an application, when applicable, must be submitted by e-mail
+- **(The Record: The Planning Department staff report and the application submitted by the
+- meeting are automatically incorporated as part of the Record unless specific objections are
+- raised and sustained at the public hearing. Any additional materials used by the applicant or
+- for which a request for inclusion in the Record is made shall, at the discretion of the
+
+## [pueblo-county#13] 2026-08-11 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- 1. Contracts/Resolutions
+- 3. Ordinances
+
+## [pueblo-county#14] 2026-08-11 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates - No Items - Meeting Cancelled Request for Executive Session
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#15] 2026-08-13 | Board of County Commissioners | agenda
+- 215 WEST 10th STREET
+- ● Approve Land Use Minutes of June 11, 2026
+- ● Approve Agenda of August 13, 2026
+- 9:04 AM PUBLIC COMMENTS
+- remove any Consent Agenda item upon request by any Commissioner or assigned staff. Items
+- removed upon request will be considered separately by the Board immediately following the
+- 1. MAP AMENDMENT Ian Habich
+- (IF REMOVED, PUBLIC HEARING)
+- The applicant requests a rezoning of a 0.55± parcel from the CC, Community
+- the CC, Community Commercial, Zone District. The zoning change will better reflect
+- County Unified Development Code (UDC). (1 minute)
+- SPECIAL USE PERMIT APN 9525000027
+- Staff requests a Declaration of Abandonment of Special Use Permit SUP-25-2. The
+- use approved by this Special Use Permit has not been established. (1 minute)
+- SPECIAL USE PERMIT APN 9525032001
+- Staff requests a Declaration of Abandonment of Special Use Permit SUP-25-3. The
+- SPECIAL USE PERMIT APN 9525031001
+- Staff requests a Declaration of Abandonment of Special Use Permit SUP-25-4. The
+- 5. REQUEST FOR DISBURSEMENT Pueblo Rural Fire District
+- OF FIRE PROTECTION IMPACT FEES
+- The Pueblo Rural Fire Protection District has requested for fire impact fee
+- disbursement for a fire hydrant to be installed by the St. Charles Mesa Water District
+- at Pueblo Rural Fire Station 2. (10 minutes)
+- 6. HOUSE BILL 1041 PERMIT Honors Energy, LLC
+- The applicant is requesting a second extension for a permit by the Pueblo Board of
+- County Commissioners as the designated Permit Authority to construct and operate a
+- Pueblo County, Colorado. The Project will be located on approximately 1,390 acres of
+- Honors Energy, LLC, requests a second 24-month extension through and including
+- 9:54 PRESENTATION OF LAND USE VIOLATIONS
+- 7. RESOLUTION FOR Kevin Manire
+- ZONING VIOLATION 4713212131 APN
+- A Resolution Directing the County Attorney to Institute Legal Action to Enforce the
+- Pueblo County Unified Development Code Against the Property Legally Described as
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- contacting Planning and Development at 719-583-6100
+
+## [pueblo-county#16] 2026-08-13 | Board of County Commissioners | agenda
+- 215 WEST 10th STREET
+- ● Approve Land Use Minutes of June 11, 2026
+- ● Approve Agenda of August 13, 2026
+- 9:04 AM PUBLIC COMMENTS
+- remove any Consent Agenda item upon request by any Commissioner or assigned staff. Items
+- removed upon request will be considered separately by the Board immediately following the
+- 1. MAP AMENDMENT Ian Habich
+- (IF REMOVED, PUBLIC HEARING)
+- The applicant requests a rezoning of a 0.55± parcel from the CC, Community
+- the CC, Community Commercial, Zone District. The zoning change will better reflect
+- County Unified Development Code (UDC). (1 minute)
+- SPECIAL USE PERMIT APN 9525000027
+- Staff requests a Declaration of Abandonment of Special Use Permit SUP-25-2. The
+- use approved by this Special Use Permit has not been established. (1 minute)
+- SPECIAL USE PERMIT APN 9525032001
+- Staff requests a Declaration of Abandonment of Special Use Permit SUP-25-3. The
+- SPECIAL USE PERMIT APN 9525031001
+- Staff requests a Declaration of Abandonment of Special Use Permit SUP-25-4. The
+- 5. REQUEST FOR DISBURSEMENT Pueblo Rural Fire District
+- OF FIRE PROTECTION IMPACT FEES
+- The Pueblo Rural Fire Protection District has requested for fire impact fee
+- disbursement for a fire hydrant to be installed by the St. Charles Mesa Water District
+- at Pueblo Rural Fire Station 2. (10 minutes)
+- 6. HOUSE BILL 1041 PERMIT Honors Energy, LLC
+- The applicant is requesting a second extension for a permit by the Pueblo Board of
+- County Commissioners as the designated Permit Authority to construct and operate a
+- Pueblo County, Colorado. The Project will be located on approximately 1,390 acres of
+- Honors Energy, LLC, requests a second 24-month extension through and including
+- 9:54 PRESENTATION OF LAND USE VIOLATIONS
+- 7. RESOLUTION FOR Kevin Manire
+- ZONING VIOLATION 4713212131 APN
+- A Resolution Directing the County Attorney to Institute Legal Action to Enforce the
+- Pueblo County Unified Development Code Against the Property Legally Described as
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- contacting Planning and Development at 719-583-6100
+- ● Approve Agenda of June 11, 2026
+- The Agenda for 6/11/2026 was approved
+- County Commissioner Swearingen: Requested a motion to Approve
+- County Commissioner Lucero: Moved to Approve
+- ● Approve Land Use Minutes of May 14, 2026
+- The Land Use meeting minutes for May 14, 2026 were approved
+- PUBLIC COMMENTS
+- Agenda item upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent Agenda, be
+
+## [pueblo-county#17] 2026-08-13 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve the minutes from June 01, 02, 04, 09, 16, 18, 25, and 29, 2026. (An entire
+- ● Approve Agenda of August 13th, 2026
+- 10:15 AM PUBLIC COMMENTS
+- 2. Reports - Pueblo County Clerk & Recorder Statement of Fees Collected - July 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- b. APPROVING THE USE OF PROPERTY AGREEMENT BETWEEN
+- 4. Contracts/Resolutions
+- a. APPROVING THE REFERRAL OF A BALLOT ISSUE BY THE PUEBLO
+- 10:55 AM REQUEST FOR EXECUTIVE SESSION
+- Request for Executive Session with the County Attorney for the purpose of:
+- and responsibilities of the County in response to the Aspen Acres Fire;
+- expenditures; and the scope of the road maintenance IGA executed between
+- 2. To consider personnel matters, pursuant to C.R.S. 24-6-402(4)(f) concerning
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- to C.R.S. 24-6-402(4)(e) regarding: draft Collective Bargaining Agreements
+- Sheriff’s Office; the scope of potential third-party contracts, including a
+- potential contract with Eide Bailly, for additional staffing and consulting
+- services within the County Budget Department; and regarding a potential
+- agreement with Solon Solar
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+
+## [pueblo-county#18] 2026-08-13 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#19] 2026-08-18 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- District meeting to discuss the May 18, 2023 Intergovernmental Agreement regarding
+- sales tax for Roads Improvements and transition of roads services to Pueblo County
+
+## [pueblo-county#20] 2026-08-18 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 18th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- Presented By: Abraham Armendariz, Parks Operation Manager, Parks and Recreation
+- 3. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT BETWEEN SUMMIT LOGGING, LLC
+- AND PUEBLO COUNTY FOR THE RYE MOUNTAIN PARK FOREST
+- THINNING AND FUELS REDUCTION PROJECT
+- Presented By: Abraham Amendariz, Parks and Recreation, Operations Manager
+- b. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO, ON BEHALF
+- c. APPROVING THE AGREEMENT BETWEEN MEI TOTAL ELEVATOR
+- d. APPROVING THE MASTER SERVICES AGREEMENT BETWEEN EIDE
+- a. MNSD, LLC; Parcel #05-141-49-005; 2025 Tax Year(s); 2025 Original
+- Value: $324,560; Abated Value: $114,060; Abated Taxes: $10,562.51;
+- b. Pueblo Country Club; Parcel #05-130-11-035; 2025 Tax Year(s); 2025
+- Original Value: $1,195,020; Abated Value: $549,060; Abated Taxes:
+- c. Pueblo Golf and Country Club; Parcel #05-242-05-001; 2025 Tax
+- Abated Taxes: $18,869.20; Land updated with market data. Filed: 8-4
+- d. R R Properties, LLC; Parcel #05-361-25-006; 2025 Tax Year(s); 2025
+- Original Value: $45,910; Abated Value: $13,820; Abated Taxes:
+- e. Samantha Potoker & Robin Trimble; Parcel #05-280-30-002; 2025 Tax
+- Taxes: $1,209.24; Value lowered by County BOE decision, finding
+- sufficient evidence to justify a change. Filed: 8-4-26; Date Received: 8
+- f. Pueblo Golf and Country Club; Parcel #05-144-00-024; 2025 Tax
+- Taxes: $5,303.46; Land updated with market data. Filed: 8-4-26; Date
+- 2025 Tax Year(s); 2025 Original Value: $73,610; Abated Value:
+- $10,410; Abated Taxes: $1,032.51; Updated property value based on
+- h. Bojon Bro’s, LLC; Parcel #05-364-19-001; 2025 Tax Year(s); 2025
+- Original Value: $73,010; Abated Value: $19,010; Abated Taxes:
+- i. Guay Investments, LLC; Parcel #05-363-22-015; 2025 Tax Year(s);
+- 2025 Original Value: $173,840; Abated Value: $32,090; Abated Taxes:
+- j. Pro Management, LLC; Parcel #05-150-62-005; 2025 Tax Year(s);
+- 2025 Original Value: $171,880; Abated Value: $23,380; Abated Taxes:
+- k. Thunder Village, LLC; Parcel #04-160-12-001; 2025 Tax Year(s); 2025
+- Original Value: $410,060; Abated Value: $69,860; Abated Taxes:
+- l. Igloo 110, LLC; Parcel #04-302-03-005; 2025 Tax Year(s); 2025
+- Original Value: $447,440; Abated Value: $55,940; Abated Taxes:
+- m. Cortese Properties, LLC; Parcel #95-360-00-057; 2025 Tax Year(s);
+- Taxes: $8,441.63; Land value method changed to price per acre and
+- TOTAL ABATED TAXES: $ 116,514.54
+
+## [pueblo-county#21] 2026-08-18 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 18th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- Presented By: Abraham Armendariz, Parks Operation Manager, Parks and Recreation
+- 3. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT BETWEEN SUMMIT LOGGING, LLC
+- AND PUEBLO COUNTY FOR THE RYE MOUNTAIN PARK FOREST
+- THINNING AND FUELS REDUCTION PROJECT
+- Presented By: Abraham Amendariz, Parks and Recreation, Operations Manager
+- b. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO, ON BEHALF
+- c. APPROVING THE AGREEMENT BETWEEN MEI TOTAL ELEVATOR
+- d. APPROVING THE MASTER SERVICES AGREEMENT BETWEEN EIDE
+- a. MNSD, LLC; Parcel #05-141-49-005; 2025 Tax Year(s); 2025 Original
+- Value: $324,560; Abated Value: $114,060; Abated Taxes: $10,562.51;
+- b. Pueblo Country Club; Parcel #05-130-11-035; 2025 Tax Year(s); 2025
+- Original Value: $1,195,020; Abated Value: $549,060; Abated Taxes:
+- c. Pueblo Golf and Country Club; Parcel #05-242-05-001; 2025 Tax
+- Abated Taxes: $18,869.20; Land updated with market data. Filed: 8-4
+- d. R R Properties, LLC; Parcel #05-361-25-006; 2025 Tax Year(s); 2025
+- Original Value: $45,910; Abated Value: $13,820; Abated Taxes:
+- e. Samantha Potoker & Robin Trimble; Parcel #05-280-30-002; 2025 Tax
+- Taxes: $1,209.24; Value lowered by County BOE decision, finding
+- sufficient evidence to justify a change. Filed: 8-4-26; Date Received: 8
+- f. Pueblo Golf and Country Club; Parcel #05-144-00-024; 2025 Tax
+- Taxes: $5,303.46; Land updated with market data. Filed: 8-4-26; Date
+- 2025 Tax Year(s); 2025 Original Value: $73,610; Abated Value:
+- $10,410; Abated Taxes: $1,032.51; Updated property value based on
+- h. Bojon Bro’s, LLC; Parcel #05-364-19-001; 2025 Tax Year(s); 2025
+- Original Value: $73,010; Abated Value: $19,010; Abated Taxes:
+- i. Guay Investments, LLC; Parcel #05-363-22-015; 2025 Tax Year(s);
+- 2025 Original Value: $173,840; Abated Value: $32,090; Abated Taxes:
+- j. Pro Management, LLC; Parcel #05-150-62-005; 2025 Tax Year(s);
+- 2025 Original Value: $171,880; Abated Value: $23,380; Abated Taxes:
+- k. Thunder Village, LLC; Parcel #04-160-12-001; 2025 Tax Year(s); 2025
+- Original Value: $410,060; Abated Value: $69,860; Abated Taxes:
+- l. Igloo 110, LLC; Parcel #04-302-03-005; 2025 Tax Year(s); 2025
+- Original Value: $447,440; Abated Value: $55,940; Abated Taxes:
+- m. Cortese Properties, LLC; Parcel #95-360-00-057; 2025 Tax Year(s);
+- Taxes: $8,441.63; Land value method changed to price per acre and
+- TOTAL ABATED TAXES: $ 116,514.54
+- RESOLUTION NO
+- AGENDA ITEM REQUEST (AIR)
+- Requested Meet
+
+## [pueblo-county#22] 2026-08-18 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- leave payouts for terminated County employees; the scope of the road
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#23] 2026-08-19 | Board of County Commissioners | agenda
+- 215 W. 10th Street
+- Approval of Agenda
+- 1. Finalize and Approve Budget
+- a. Irrigation System Challenge (Multi-year Capital Projects Budget) - Christian
+
+## [pueblo-county#24] 2026-08-19 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- Monday, August 17, 2026. The hearing will stream live on the County’s Facebook page, but
+- Approval Agenda of August 19, 2026, Meeting
+- Approval of July 15, 2026, Minutes
+- b. Board of County Commissioners’ Action – August 13, 2026, Hearing
+- Special Use Permit No. HSUP-07-6: Fremont Paving & Redi-Mix, Inc. c/o John
+- P. Ary (Permittee) This Administrative Review serves to update the Pueblo
+- County Planning Commission on the status of Special Use Permit HSUP-07-6
+- The permit allows natural deposits extraction and processing; a hot mix asphalt
+- plan; stockpiling, crusher, and screening plan; concrete batch plant; scale houses
+- and an office on a 1,030± acre parcel. The application includes a proposal to
+- reclaim 783± surface acres to water storage reservoirs
+- Special Use Permit No. SUP-24-1 - Walker Ranches LLLP (Owner) Tower
+- Engineering Professionals (Applicant) c/o Tom Wilkerson, Project Lead- Site
+- Pueblo County Planning Commission on the status of Special Use Permit No. 24
+- 1. The special use permit allows the establishment of a Telecommunications
+- Special Use Permit No. SUP-25-1 - Kyle DeNardo, Industrial Tower West
+- Planning Commission on the status of Special Use Permit SUP 2022-005 (SUP
+- 25-1). The special use permit allows a 195-foot freestanding Wireless
+- Special Use Permit No. HSUP-21-2 - SAC Wireless on behalf of Commnet
+- approval that were outstanding mainly the submittal to rescind Special Use Permit
+- permitted under Special Use Permit 2013-011 (HSUP-13-11) was removed after
+- the establishment of the monopole tower that was approved under Special Use
+- Permit SUP 2021-002 (HSUP-21-2)
+- Hearing of Cases
+- SPECIAL USE PERMIT Toby and Rose Miller (Landowners)
+- The applicants request special use approval for a Vehicle Sales, Rental, and
+- Public Comments (limited to 3 minutes per speaker, total of 7 speakers)
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- Planning and Development at 719-583-6100
+
+## [pueblo-county#25] 2026-08-19 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- Monday, August 17, 2026. The hearing will stream live on the County’s Facebook page, but
+- Approval Agenda of August 19, 2026, Meeting
+- Approval of July 15, 2026, Minutes
+- b. Board of County Commissioners’ Action – August 13, 2026, Hearing
+- Special Use Permit No. HSUP-07-6: Fremont Paving & Redi-Mix, Inc. c/o John
+- P. Ary (Permittee) This Administrative Review serves to update the Pueblo
+- County Planning Commission on the status of Special Use Permit HSUP-07-6
+- The permit allows natural deposits extraction and processing; a hot mix asphalt
+- plan; stockpiling, crusher, and screening plan; concrete batch plant; scale houses
+- and an office on a 1,030± acre parcel. The application includes a proposal to
+- reclaim 783± surface acres to water storage reservoirs
+- Special Use Permit No. SUP-24-1 - Walker Ranches LLLP (Owner) Tower
+- Engineering Professionals (Applicant) c/o Tom Wilkerson, Project Lead- Site
+- Pueblo County Planning Commission on the status of Special Use Permit No. 24
+- 1. The special use permit allows the establishment of a Telecommunications
+- Special Use Permit No. SUP-25-1 - Kyle DeNardo, Industrial Tower West
+- Planning Commission on the status of Special Use Permit SUP 2022-005 (SUP
+- 25-1). The special use permit allows a 195-foot freestanding Wireless
+- Special Use Permit No. HSUP-21-2 - SAC Wireless on behalf of Commnet
+- approval that were outstanding mainly the submittal to rescind Special Use Permit
+- permitted under Special Use Permit 2013-011 (HSUP-13-11) was removed after
+- the establishment of the monopole tower that was approved under Special Use
+- Permit SUP 2021-002 (HSUP-21-2)
+- Hearing of Cases
+- SPECIAL USE PERMIT Toby and Rose Miller (Landowners)
+- The applicants request special use approval for a Vehicle Sales, Rental, and
+- Public Comments (limited to 3 minutes per speaker, total of 7 speakers)
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- Planning and Development at 719-583-6100
+- Planning and Development
+- 201 West 8th Street, Suite 110 719.583.6100 (main)
+- Planning & Development Department
+- SUBJECT: Special Use Permit SUP 2007-006 (HSUP-07-6) – 2026 Administrative Review
+- Fremont Paving & Redi-Mix, Inc. c/o John P. Ary (Permittee)
+- of Special Use Permit HSUP-07-6. The permit allows natural deposits extraction and processing; a
+- hot mix asphalt plan; stockpiling, crusher, and screening plan; concrete batch plant; scale houses and
+- an office on a 1,030± acre parcel. The application includes a proposal to reclaim 783± surface acres
+- to water storage reservoirs
+
+## [pueblo-county#26] 2026-08-19 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- NOTICE: The hearing will be streamed live on the County’s Facebook Page
+- (Note: This is a work session for discussion purposes only.)
+- 2. Use-Specific Standards for Data Centers
+- Commission and receive feedback on same, with the end goal of adopting suitable
+- individuals with sight or hearing impairment may be made by contacting Planning and
+- Development at 719-583-6100)
+
+## [pueblo-county#27] 2026-08-19 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- NOTICE: The hearing will be streamed live on the County’s Facebook Page
+- (Note: This is a work session for discussion purposes only.)
+- 2. Use-Specific Standards for Data Centers
+- Commission and receive feedback on same, with the end goal of adopting suitable
+- individuals with sight or hearing impairment may be made by contacting Planning and
+- Development at 719-583-6100)
+- Planning and Development
+- 201 West 8th Street, Suite 110 719.583.6100 (main)
+- SUBJECT: Use-Specific Standards for Data Centers
+- The Pueblo County Unified Development Code (UDC) provides for Data Centers as a Special Use
+- for Data Centers, which can be an intensive use. The purpose of this work session is to provide
+- draft standards to the Planning Commission and receive feedback on same, with the end goal of
+- Data Center, which the UDC defines as “a use where the primary purpose is the storage,
+- infrastructure,” is a broad term for a facility which houses IT infrastructure for data storage and
+- management. Data centers started out as on-premises facilities housing traditional IT infrastructure
+- The demand for Artificial Intelligence (AI) services have created the need for larger-scale data
+- centers. As these data centers become larger in scale and are developed in closer proximity to
+- One critical tool which can be used to mitigate the negative external impacts of data centers is
+- zoning. The Pueblo County UDC already establishes use-specific standards for high-impact uses
+- such as animal feeding operations (feedlots), marijuana cultivation, processing, and retail facilities,
+- and certain industrial uses. Because data centers are a land use which have a high likelihood for
+- standards for data centers in order to be prepared for such a time when and if a data center is
+- Planning & Development Department
+- RE: Use-Specific Standards for Data Centers
+- In order to understand the impacts of data centers which are most commonly regulated through
+- zoning, staff reviewed city and county land use and zoning codes from across Colorado, as well as
+- two major data center hubs in the United States: Northern Virginia and the Phoenix, Arizona metro
+- area. From review of these codes, staff determined that regulation of data centers varies widely
+- Some zoning codes do not contemplate data centers at all, some do list them as a use but contain
+- no or minimal use-specific standards, and others do include standards specific to data center uses
+- Data centers require continuous cooling, generally by means of a closed circulating water-cooling
+- system not unlike a car radiator. This cooling system can generate noise and vibration which is a
+
+## [pueblo-county#28] 2026-08-20 | Board of County Commissioners | agenda
+- Presentations
+- 1. 9:30 - 9:50 am - 2026 Private Activity Bond Options by Samatha Contreras
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- of the County in response to the Aspen Acres Fire; potential changes to the
+- County’s stop loss and medical insurance coverage; bond counsel’s analysis of
+- financing of leased property relating to the County’s certificate of participation
+- issuance; and the annexation of certain properties into the West Park Fire
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- to C.R.S. 24-6-402(4)(e) concerning: a potential lease agreement with the
+- watershed protection agreement with the Natural Resources Conservation
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#29] 2026-08-20 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 20th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- b. APPROVING THE APPLICATION FOR FEDERAL ASSISTANCE (SF-424)
+- ASPEN ACRES FIRE
+- 3. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT BETWEEN WILSON AND COMPANY,
+- TRAIL PROJECT
+- Presented By: Diego Rojas, Project Manager, Public Works
+- b. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO, ON BEHALF
+- OF THE PUEBLO COUNTY CLERK AND RECORDER, AND EDISON FIRE
+- c. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- OF THE PUEBLO COUNTY CLERK AND RECORDER, AND RYE FIRE
+- d. APPOINTING A MEMBER TO THE PUEBLO WEST ROADS SALES TAX
+- e. RESOLUTION ADOPTING THE ORGANIZATIONAL CHART OF PUEBLO
+- f. APPROVING THE GRANT APPLICATION FOR PUEBLO COUNTY TO
+- APPLY WITH THE CITY OF PUEBLO FOR A GRANT WITH THE
+- DEPARTMENT OF JUSTICE REGARDING RECEIPT OF GRANT FUNDING
+- PROVIDED BY THE DOJ MODEL CITIES INITIATIVE (MCI) GRANT
+
+## [pueblo-county#30] 2026-08-20 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 20th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- b. APPROVING THE APPLICATION FOR FEDERAL ASSISTANCE (SF-424)
+- ASPEN ACRES FIRE
+- 3. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT BETWEEN WILSON AND COMPANY,
+- TRAIL PROJECT
+- Presented By: Diego Rojas, Project Manager, Public Works
+- b. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO, ON BEHALF
+- OF THE PUEBLO COUNTY CLERK AND RECORDER, AND EDISON FIRE
+- c. APPROVING THE 2026 ELECTION INTERGOVERNMENTAL
+- OF THE PUEBLO COUNTY CLERK AND RECORDER, AND RYE FIRE
+- d. APPOINTING A MEMBER TO THE PUEBLO WEST ROADS SALES TAX
+- e. RESOLUTION ADOPTING THE ORGANIZATIONAL CHART OF PUEBLO
+- f. APPROVING THE GRANT APPLICATION FOR PUEBLO COUNTY TO
+- APPLY WITH THE CITY OF PUEBLO FOR A GRANT WITH THE
+- DEPARTMENT OF JUSTICE REGARDING RECEIPT OF GRANT FUNDING
+- PROVIDED BY THE DOJ MODEL CITIES INITIATIVE (MCI) GRANT
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, as over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times; and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- herein, is hereby approved, and shall remain in full force and effect until further action is taken
+- APPROVING THE APPLICATION FOR FEDERAL ASSISTANCE (SF-424)
+- authorized to make contracts and do all other acts in relation to the property and concerns
+- necessary to the exercise of its corporate or administrative powers; and
+- relating to the Aspen Acres Fire, including flooding and debris flow in the burn scar; and
+- WHEREAS, the County is seeking federal assistance regarding watershed protection
+- from flooding and debris flows caused by the Aspen Acres Fire; and
+- WHEREAS, the County intends to apply for federal grant funding and assistance in
+
+## [pueblo-county#31] 2026-08-25 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 25th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Reports - Pueblo County Treasurer Statement of Fees Collected - July 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 4. Contracts/Resolutions
+- a. AMENDING THE 2026 ELECTION INTERGOVERNMENTAL AGREEMENT
+- PUEBLO COUNTY CLERK AND RECORDER, AND EDISON FIRE
+- 5. Contracts/Resolutions
+- a. APPROVING AN AMENDMENT TO THE PROFESSIONAL SERVICES
+- AGREEMENT BETWEEN MCPHERSON, GOODRICH, PAOLUCCI &
+
+## [pueblo-county#32] 2026-08-25 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- governing provisions of law enforcement grant agreements; the roles and
+- responsibilities of the County in response to the Aspen Acres Fire; potential
+- demolition permit fees administered by the County; and
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- Pueblo County; a potential agreement with AES Solar; collateral requirements
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#33] 2026-08-25 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 25th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Reports - Pueblo County Treasurer Statement of Fees Collected - July 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 4. Contracts/Resolutions
+- a. AMENDING THE 2026 ELECTION INTERGOVERNMENTAL AGREEMENT
+- PUEBLO COUNTY CLERK AND RECORDER, AND EDISON FIRE
+- 5. Contracts/Resolutions
+- a. APPROVING AN AMENDMENT TO THE PROFESSIONAL SERVICES
+- AGREEMENT BETWEEN MCPHERSON, GOODRICH, PAOLUCCI &
+- RESOLUTION NO
+- AMENDING THE 2026 ELECTION INTERGOVERNMENTAL AGREEMENT
+- COUNTY CLERK AND RECORDER, AND EDISON FIRE PROTECTION DISTRICT
+- 203, as amended, authorize the County Clerk and Edison Fire Protection District (“District”) to
+- cooperate or contract with each other to provide any function, service, or facility lawfully
+- authorized to each, and any such contract may provide for the sharing of costs; and
+- of intergovernmental agreements where political subdivisions and the county clerk and recorder
+- cooperate in the conduct and financing of the election; and
+- WHEREAS, the County Clerk and District entered into an intergovernmental agreement
+- on August 20, 2026 and now desire to amend the Agreement to clarify that the election will be
+- II. The Amendment to the Intergovernmental Agreement between Pueblo County and the
+- Edison Fire Protection District dated August 20, 2026 is hereby approved and the chair
+- and the Clerk and Recorder are authorized to execute the Amendment as necessary
+- III. In the event the Edison Fire Protection District fails to approve the Amendment, Section
+- I of this Resolution shall remain in full force and effect
+- AMENDMENT TO INTERGOVERNMENTAL AGREEMENT
+- This Amendment is made and entered into this ___ day of ______________________,
+- Fire Protection District, hereinafter referred to as "District” or “Political Subdivision” for purposes
+- of this agreement
+- WHEREAS, the Parties entered into an Intergovernmental Agreement regarding the 2026
+- duties in conducting November elections, the Parties have decided to amend the Intergovernmental
+- Agreement dated August 20, 2026 to clarify the nature of the election;
+- NOW, THEREFORE, IN CONSIDERATION of the mutual covenants and promises
+- I. Amendment. Subsection D of Section I General Matters is deleted and replaced with
+- Furthermore, the Parties acknowledge that C.R.S. § 1-13.5-106(1) permits political
+- Agreement dated August 20, 2026 shall remain in full force and effect
+
+## [pueblo-county#34] 2026-08-26 | Liquor and Marijuana Licensing Hearing Officer | agenda
+- Liquor and Marijuana Licensing Hearing Officer
+- 215 WEST 10TH STREET
+- 1. Renewal Application for a Retail Marijuana Store located at 78 North Precision Drive,
+- Blaze. TAXES
+- The Liquor and Marijuana Hearing Officer meetings are held in person. Virtual appearance
+- date of the hearing. Meetings are streamed live on Pueblo County Facebook page, but comments
+- THE LOCATION OF THESE PUBLIC HEARINGS AND/OR MEETINGS IS
+- HEARINGS AND/OR MEETINGS FOR INDIVIDUALS WITH SIGHT OR HEARING
+
+## [pueblo-county#35] 2026-08-27 | Pueblo Area Council of Governments | agenda
+- 101 WEST 10TH STREET, FIRST FLOOR CONFERENCE ROOM
+- PUBLIC COMMENTS Citizen Comments
+- 1. Dillon and Eagle Ridge Roundabout Sanitary Sewer Interceptor
+- 4. A Resolution Adopting The Amended Unified Planning Work Program (UPWP) For
+- Pueblo In Accordance With The PACOG And City Of Pueblo Delegation Agreement
+- BUDGET DEVELOPMENT FOR FISCAL YEAR 2027
+- 5. Budget Discussion, Revisions, and Adoption of Methodology:
+- 7. Call for Projects – Carbon Reduction Program - Eva Cosyleon (MPO Manager) - see
+- 12. Metropolitan Planning Organization (MPO) request the following projects into the
+- Improvement Program (PACOG TIP) – Dylan Goodman (Transportation Planner)
+- 2026. It will be held at the County’s Emergency Operations Center, 101 West 10th Street, 1st
+- NOTIFY PACOG AT 719-583-6100 AT LEAST TWO (2) WORKING DAYS IN ADVANCE
+
+## [pueblo-county#36] 2026-08-27 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 27th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- 4. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT BETWEEN PLAYCORE WISCONSIN,
+- Presented By: Abraham Armendariz, Parks Operations Manager
+- b. APPROVING THE AGREEMENT BETWEEN PLAYCORE WISCONSIN,
+- c. APPROVING THE INMATE HEALTH SERVICES AGREEMENT BETWEEN
+- f. RESOLUTION APPROVING A COLLECTIVE BARGAINING AGREEMENT
+- OFFICE, AND THE INTERNATIONAL BROTHERHOOD OF POLICE
+
+## [pueblo-county#37] 2026-08-27 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- budget appropriation requirements under Colorado’s Local Government
+- Budget Law; legal considerations concerning the issuance of Certificates of
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- to C.R.S. 24-6-402(4)(e) concerning: the marijuana excise tax agreement
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#38] 2026-08-27 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of August 27th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE
+- 4. Contracts/Resolutions
+- a. APPROVING THE AGREEMENT BETWEEN PLAYCORE WISCONSIN,
+- Presented By: Abraham Armendariz, Parks Operations Manager
+- b. APPROVING THE AGREEMENT BETWEEN PLAYCORE WISCONSIN,
+- c. APPROVING THE INMATE HEALTH SERVICES AGREEMENT BETWEEN
+- f. RESOLUTION APPROVING A COLLECTIVE BARGAINING AGREEMENT
+- OFFICE, AND THE INTERNATIONAL BROTHERHOOD OF POLICE
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS,the Board of County Commissioners enacted the continued resolution on
+- herein, is hereby approved, and shall remain in full force and effect until further action is taken
+- APPROVING THE AGREEMENT BETWEEN PLAYCORE WISCONSIN, INC. DBA
+- WHEREAS, Playcore Wisconsin Inc., dba GameTime is a participating Contractor with
+- OMNIA Partners, under Public Sector Contract #2017001134 to provide playground and
+- WHEREAS, the Pueblo County Deputy Director of Parks and Recreation recommends
+- Heights Community Center at a total project cost not to exceed $102,466.47; and
+- Agreement with Playcore Wisconsin Inc., dba GameTime as stated above, subject to the
+- Pueblo County, Colorado, that the Agreement between Playcore Wisconsin Inc., dba GameTime
+- Fulton Heights Community Center, the terms and conditions of which are incorporated herein by
+- this reference, is hereby approved, and that the Chair is hereby authorized to execute the same
+- AGENDA ITEM REQUEST (AIR)
+- Requested Meet
+- ☐ Action Item (requires BOCC vote, approval, ratification, or formal action) Submission
+- ☐ Discussion It
+- em (update, feedback, or direction - no formal action/resolution required)
+
+## [pueblo-county#39] 2026-09-01 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 1, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. AMENDING RESOLUTION NO. 26-209, NOMINATING MEMBERS AND
+- THE FOUNTAIN CREEK WATERSHED FLOOD CONTROL AND
+- 3. Contracts/Resolutions
+- a. APPROVING THE STORMWATER FACILITY MAINTENANCE
+- AGREEMENT BETWEEN PUEBLO COUNTY AND HIGHLAND SOLAR I,
+- Presented by: Steven Bauguess, Stormwater Permit Coordinator
+- AND HIGHLAND SOLAR I LLC., FOR DRAINAGE IMPROVEMENTS
+- c. APPROVING THE STORMWATER FACILITY MAINTENANCE
+- AGREEMENT BETWEEN PUEBLO COUNTY AND THUNDER WOLF II,
+- AND THUNDER WOLF II, LLC, FOR DRAINAGE IMPROVEMENTS
+- e. APPROVING THE INMATE HEALTH SERVICES AGREEMENT BETWEEN
+- f. APPROVING AN AMENDMENT TO THE PROFESSIONAL SERVICES
+- AGREEMENT BETWEEN MCPHERSON, GOODRICH, PAOLUCCI &
+- g. A RESOLUTION DECLARING THE INTENT OF PUEBLO COUNTY,
+- COLORADO TO ISSUE REVENUE BONDS IN CONNECTION WITH
+
+## [pueblo-county#40] 2026-09-01 | Board of County Commissioners | agenda
+- Presentations
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- responsibilities of the County in regards to the Aspen Acres Fire; and
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) concerning: the jail construction contract between Pueblo
+- County and JE Dunn; and a solar agreement between Pueblo County and Solon
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#41] 2026-09-01 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 1, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. AMENDING RESOLUTION NO. 26-209, NOMINATING MEMBERS AND
+- THE FOUNTAIN CREEK WATERSHED FLOOD CONTROL AND
+- 3. Contracts/Resolutions
+- a. APPROVING THE STORMWATER FACILITY MAINTENANCE
+- AGREEMENT BETWEEN PUEBLO COUNTY AND HIGHLAND SOLAR I,
+- Presented by: Steven Bauguess, Stormwater Permit Coordinator
+- AND HIGHLAND SOLAR I LLC., FOR DRAINAGE IMPROVEMENTS
+- c. APPROVING THE STORMWATER FACILITY MAINTENANCE
+- AGREEMENT BETWEEN PUEBLO COUNTY AND THUNDER WOLF II,
+- AND THUNDER WOLF II, LLC, FOR DRAINAGE IMPROVEMENTS
+- e. APPROVING THE INMATE HEALTH SERVICES AGREEMENT BETWEEN
+- f. APPROVING AN AMENDMENT TO THE PROFESSIONAL SERVICES
+- AGREEMENT BETWEEN MCPHERSON, GOODRICH, PAOLUCCI &
+- g. A RESOLUTION DECLARING THE INTENT OF PUEBLO COUNTY,
+- COLORADO TO ISSUE REVENUE BONDS IN CONNECTION WITH
+- RESOLUTION NO
+- AMENDING RESOLUTION NO. 26-209, NOMINATING MEMBERS AND
+- CREEK WATERSHED FLOOD CONTROL AND GREENWAY DISTRICT
+- 30, 2009, which created the Fountain Creek Watershed, Flood Control, and Greenway District;
+- WHEREAS, pursuant to C.R.S. § 32-11.5-203, the Fountain Creek Watershed, Flood
+- authority to appoint a Monetary Mitigation Fund Advisory Committee (“Committee”) and to
+- WHEREAS, by Resolution No. 26-209, this Board nominated nominate Aaron Brice as a
+- Pueblo County, Colorado, that Resolution No. 26-209, is hereby amended, Steven Bauguess to
+- hereby nominated to the Monetary Mitigation Fund Advisory Committee to be appointed by the
+- Board of Directors of the Fountain Creek Watershed, Flood Control and Greenway District to
+- APPROVING THE STORMWATER FACILITY MAINTENANCE AGREEMENT
+- WHEREAS, C.R.S. § 30-15-401, et seq., enables counties to adopt ordinances for the
+- been issued Municipal Separate Storm Sewer System Permits (MS4 permits) pursuant to Part 5
+- of Article 8 of Title 25, C.R.S., to adopt a stormwater ordinance to develop, implement, and
+- enforce the stormwater management program required by the permit; and
+- compel the abatement of any condition that causes or contributes to a violation of a MS4 permit
+- or requirement from any property located within the unincorporated portion of a county at such
+- time, upon such notice, and in such manner consistent with the terms of the MS4 permit as the
+- Board of County Commissioners prescribed by Ordinance No. 20, Chapter 8.26 of the Pueblo
+
+## [pueblo-county#42] 2026-09-03 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 3rd, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 3. Contracts/Resolutions
+- a. APPROVING THE COMMUNITY CORRECTIONS CONTRACT BETWEEN
+- b. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- THE CITY OF PUEBLO POLICE DEPARTMENT COMMUNICATION
+- c. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- d. RESOLUTION ESTABLISHING THE PUEBLO COUNTY GENERAL FUND
+
+## [pueblo-county#43] 2026-09-03 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- membership obligations with Colorado Counties, Incorporated; and
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) concerning: a potential lease agreement between Pueblo County
+- and the Runyon Sports Complex Commission Incorporated; and an animal services
+- agreement between Pueblo County and the Humane Society of the Pikes Peak Region
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#44] 2026-09-03 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 3rd, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 3. Contracts/Resolutions
+- a. APPROVING THE COMMUNITY CORRECTIONS CONTRACT BETWEEN
+- b. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- THE CITY OF PUEBLO POLICE DEPARTMENT COMMUNICATION
+- c. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- d. RESOLUTION ESTABLISHING THE PUEBLO COUNTY GENERAL FUND
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- herein, is hereby approved, and shall remain in full force and effect until further action is taken
+- APPROVING THE COMMUNITY CORRECTIONS CONTRACT BETWEEN
+- awarded the Community Corrections Contract with the option to renew annually for four years;
+- Department that the Community Corrections Contract be renewed between Intervention
+- contract with the aforementioned firm for the provision of community corrections services
+- Pueblo County, Colorado, that the contract between Intervention Community Corrections
+- services, the terms and conditions of which are incorporated herein by this reference, is hereby
+- approved nunc pro tunc July 1, 2026 and that the Chair of the Board of County Commissioners
+- of Pueblo County, Colorado, is hereby authorized to execute said contract on behalf of Pueblo
+- AGENDA ITEM REQUEST (AIR)
+- Requested Meet
+- ☐ Action Item (requires BOCC vote, approval, ratification, or formal action) Submission
+- ☐ Discussion It
+- em (update, feedback, or direction - no formal action/resolution required)
+- ITEM TITLE AND REQUESTED OUTCOME
+- Requested BOCC Outcome (check all that apply):
+- ☐ Discussion/Feedback
+
+## [pueblo-county#45] 2026-09-08 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of Septmber 8th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. AMENDING RESOLUTION 26-252 APPOINTING A MEMBER TO THE
+- PUEBLO WEST ROADS SALES TAX OVERSIGHT COMMITTEE
+- 3. Contracts/Resolutions
+- a. APPROVING THE FOURTH AMENDMENT TO THE GRANT AWARD
+- RESPONSE (SOR) GRANT
+- b. APPROVING THE PROFESSIONAL SERVICES AGREEMENT BETWEEN
+- CROSSROADS’ TURNING POINTS, INC., AND PUEBLO COUNTY TO
+- Presented By: Christine Zeitvogel, PREVAIL Project Manager
+
+## [pueblo-county#46] 2026-09-08 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- Aspen Acres Fire; National Forest Service Payments to be provided to
+- Pueblo School District 60; and the County’s role in appointing a pueblo
+- Development program advisory board; and
+- negotiations, developing a strategy for negotiations, and/or instructing
+- lease agreement between Pueblo County and the Runyon Sports
+- Complex Commission Incorporated
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#47] 2026-09-08 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of Septmber 8th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. AMENDING RESOLUTION 26-252 APPOINTING A MEMBER TO THE
+- PUEBLO WEST ROADS SALES TAX OVERSIGHT COMMITTEE
+- 3. Contracts/Resolutions
+- a. APPROVING THE FOURTH AMENDMENT TO THE GRANT AWARD
+- RESPONSE (SOR) GRANT
+- b. APPROVING THE PROFESSIONAL SERVICES AGREEMENT BETWEEN
+- CROSSROADS’ TURNING POINTS, INC., AND PUEBLO COUNTY TO
+- Presented By: Christine Zeitvogel, PREVAIL Project Manager
+- RESOLUTION NO
+- AMENDING RESOLUTION 26-252 APPOINTING A MEMBER TO THE PUEBLO
+- WEST ROADS SALES TAX OVERSIGHT COMMITTEE
+- approved Ballot Question 6C, which allows for a temporary 1% sales tax to fund roads
+- maintenance in Pueblo West, as well as transfer responsibility of Pueblo West roads
+- WHEREAS, by Resolution 24-175, the County and Pueblo West Metropolitan District
+- appointed by the BOCC, two (2) shall be appointed by the BOD and one (1) shall be a joint
+- appointment; and
+- WHEREAS, by Resolution 26-252, Cabree Cleveland was appointed to the Pueblo West
+- Road Sale Tax Oversight Committee to fulfill a term expiring June 30, 2027 as a County
+- member to the Pueblo West Road Sale Tax Oversight Committee; and
+- WHEREAS, this vacancy is for a joint appointment to the Pueblo West Road Sale Tax
+- Pueblo County, Colorado, that Resolution No. 26-252 is hereby amended and that Cabree
+- Cleveland is hereby appointed as a joint member to the Pueblo West Road Sale Tax Oversight
+- authorized and directed to notify the aforementioned of their appointment by providing them
+- with a copy of this Resolution
+- APPROVING THE FOURTH AMENDMENT TO THE GRANT AWARD FROM THE
+- ADMINISTRATION FOR THE STATE OPIOID RESPONSE (SOR) GRANT
+- WHEREAS, by Resolution 24-244, dated December 5, 2024, this board approved the
+- Grant Agreement between the Colorado Department of Human Services, Behavioral Health
+- WHEREAS, this Board by Resolution 25-144, dated June 24, 2025, approved the State of
+- Colorado’s Amendment to that Grant Agreement that reduced the fiscal year 2025 award total to
+- WHEREAS, by Resolution 25-211, dated September 18, 2025, this Board approved the
+- State of Colorado’s Amendment Two of that Grant Agreement that set the Fiscal Year 2026
+- award at $71,985.00; and
+- WHEREAS, by Resolution 26-121, dated April 23, 2026, this Board approved the State
+- of Colorado’s Third Amendment to the Grant Agreement to reduce the award maximum amount
+
+## [pueblo-county#48] 2026-09-10 | Board of County Commissioners Land Use | agenda
+- 215 WEST 10th STREET
+- ● Approve Land Use Minutes of July 9, 2026
+- ● Approve Agenda of September 10, 2026
+- 9:04 AM PUBLIC COMMENTS
+- remove any Consent Agenda item upon request by any Commissioner or assigned staff. Items
+- removed upon request will be considered separately by the Board immediately following the
+- 1. SPECIAL USE PERMIT Commnet Four Corners, LLC (Applicant)
+- RESCISSION 4800 North Creek Road, Beulah
+- (IF REMOVED, PUBLIC HEARING)
+- The current landowner and applicant are requesting RESCISSION of a Special Use
+- Permit SUP 2013-011 (also known as HSUP-13-11) that was originally approved on
+- 2. SPECIAL USE PERMIT Toby and Rose Miller (Landowners)
+- The applicants request special use approval for a Vehicle Sales, Rental, and Leasing,
+- 9:36 AM PRESENTATION OF LAND USE VIOLATIONS
+- 3. RESOLUTION FOR Daniel Glover
+- ZONING VIOLATION 2200000166 APN
+- CASE NO.: VZ-25-34 46911 Fields Road, Avondale, Co
+- A Resolution Directing the County Attorney to Institute Legal Action to Enforce the
+- Pueblo County Unified Development Code Against the Property Legally Described as
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- contacting Planning and Development at 719-583-6100
+
+## [pueblo-county#49] 2026-09-10 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 10th, 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 1. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+
+## [pueblo-county#50] 2026-09-10 | Board of County Commissioners Land Use | agenda
+- 215 WEST 10th STREET
+- ● Approve Land Use Minutes of July 9, 2026
+- ● Approve Agenda of September 10, 2026
+- 9:04 AM PUBLIC COMMENTS
+- remove any Consent Agenda item upon request by any Commissioner or assigned staff. Items
+- removed upon request will be considered separately by the Board immediately following the
+- 1. SPECIAL USE PERMIT Commnet Four Corners, LLC (Applicant)
+- RESCISSION 4800 North Creek Road, Beulah
+- (IF REMOVED, PUBLIC HEARING)
+- The current landowner and applicant are requesting RESCISSION of a Special Use
+- Permit SUP 2013-011 (also known as HSUP-13-11) that was originally approved on
+- 2. SPECIAL USE PERMIT Toby and Rose Miller (Landowners)
+- The applicants request special use approval for a Vehicle Sales, Rental, and Leasing,
+- 9:36 AM PRESENTATION OF LAND USE VIOLATIONS
+- 3. RESOLUTION FOR Daniel Glover
+- ZONING VIOLATION 2200000166 APN
+- CASE NO.: VZ-25-34 46911 Fields Road, Avondale, Co
+- A Resolution Directing the County Attorney to Institute Legal Action to Enforce the
+- Pueblo County Unified Development Code Against the Property Legally Described as
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- contacting Planning and Development at 719-583-6100
+- ● Approve Land Use Minutes of June 11, 2026
+- Approval of Land Use Minutes was postponed to August 13, 2026
+- ● Approve Agenda of July 9, 2026
+- The Agenda for 7/9/2026 was approved
+- County Commissioner Swearingen: Requested a motion to Approve
+- County Commissioner Lucero: Moved to Approve
+- PUBLIC COMMENTS
+- No Public Comment
+- Agenda item upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent Agenda, be
+- 1. SPECIAL USE PERMIT Paul R. Bossert Mainstreet Broadcasting, Inc (Applicant)
+- The applicant requests special use approval for a Broadcast Tower Facility use consisting of a 150’
+- RESOLUTION NO. P&D 26-020
+- A RESOLUTION APPROVING SPECIAL USE PERMIT SUP-26-8 TO ALLOW A BROADCAST
+- LEGALLY LOT 34, BACULITE MESA ESTATES AMENDED, PUEBLO COUNTY, COLORADO
+- WHEREAS, an application for a special use permit was filed on May 5, 2026, by Paul R. Bossert,
+- Mainstreet Broadcasting Company, Inc. on behalf of Eden Leasing Inc.; and
+- WHEREAS, the special use request is to allow the establishment of a Broadcast Tower Facility use consisting
+- zone district, on the property legally described as Lot 34, Baculite Mesa Estates Amended, Pueblo County,
+- WHEREAS, pursuant to the Unified Development Code, Chapter 17.03 Use Regulations, 17.03.020
+
+## [pueblo-county#51] 2026-09-10 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 10th, 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 1. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+
+## [pueblo-county#52] 2026-09-10 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#53] 2026-09-14 | Liquor and Marijuana Licensing Board | agenda
+- 215 WEST 10TH STREET
+- II. APPROVE MEETING MINUTES
+- III. APPROVE AGENDA
+- publicly posted or noticed in a newspaper and cannot be considered for a public hearing. The
+- Chair may remove any item upon request by a Board member, staff, or citizen. Removed items
+- will be addressed separately, rescheduled, or handled at the Board’s discretion
+- a) Renewal Application for a Retail Liquor Store License located at 323 East US
+- b) Renewal Application for a Retail Liquor Store License located at 24920 East
+- Barnstormers Liquor
+- c) Renewal Application for a Hotel and Restaurant with a Cabaret License located at
+- d) Renewal Application for a Fermented Malt Beverage and Wine License located at
+- e) Renewal Application for a Hotel and Restaurant with a Cabaret License located at
+- f) Renewal Application for a Beer and Wine License located at 1006 North Market
+- g) Renewal Application for a Fermented Malt Beverage and Wine License located at
+- h) Renewal Application for a Hotel and Restaurant with One Optional Premises and a
+- V. CONSENT HEARING AGENDA ITEMS
+- 1. Special Events Permit
+- a) Application for a Special Events Permit for a Malt, Vinous, and Spirituous Liquor
+- a) Renewal Application for a Retail Marijuana Cultivation Facility License located at
+- 2205 Pope Valley Ranch Road, Pueblo, Colorado 81005 submitted by 2205 Pope
+- LOCATION OF THESE PUBLIC HEARINGS AND/OR MEETINGS IS ACCESSIBLE
+- AND/OR MEETINGS FOR INDIVIDUALS WITH SIGHT OR HEARING
+- Access to the Historic Court House at 215 W. 10th Street is limited to the doors on the
+- application, when applicable, must be submitted by e-mail to marijuana
+- **(The Record: The Planning Department staff report and the application submitted by the
+- meeting are automatically incorporated as part of the Record unless specific objections are raised
+- and sustained at the public hearing. Any additional materials used by the applicant or others in
+- request for inclusion in the Record is made shall, at the discretion of the administrative body, be
+
+## [pueblo-county#54] 2026-09-15 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve the minutes from July 2, 7, 9, 14, 16, 21, 23, 28, and 30, 2026. (An entire
+- ● Approve Agenda of September 15th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 3. Reports - Pueblo County Treasurer Statement of Fees Collected - August 2026
+- 4. Contracts/Resolutions
+- a. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+
+## [pueblo-county#55] 2026-09-15 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve the minutes from July 2, 7, 9, 14, 16, 21, 23, 28, and 30, 2026. (An entire
+- ● Approve Agenda of September 15th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 3. Reports - Pueblo County Treasurer Statement of Fees Collected - August 2026
+- 4. Contracts/Resolutions
+- a. APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN
+- RESOLUTION NO
+- APPROVING THE MEMORANDUM OF UNDERSTANDING BETWEEN COLORADO
+- opportunities to its employees to support career development; and
+- higher education offering online undergraduate, graduate, and certificate programs; and
+- WHEREAS, CSU-Global wishes to collaborate with the County to provide educational
+- opportunities at a discounted rate to employees and establish CSU Global as a preferred
+- University Global and Pueblo County, the terms and conditions of which are incorporated herein
+- by this reference, is hereby approved, and that the Chair of the Board of County Commissioners
+- or the Director of Human Resources are hereby authorized to sign said Agreement on behalf of
+- graduate, and certificate programs; and
+- career development; and
+- WHEREAS, the Parties wish to collaborate to provide educational opportunities at a discounted rate
+- NOWTHEREFORE, in consideration of the mutual promises and covenants contained herein, the
+- ii. Admissions and applicable discounts shall be considered regardless of race,
+- responsible for the representation made by its employees, or other person(s) not a
+- County agrees to verify current employment upon CSU Global’s request
+- i. Tuition for all undergraduate-level degrees and certificates will be offered at a rate of
+- ii. Tuition for all graduate-level degrees and certificates will be offered at a rate of 10%
+- Any notice or communication required or permitted to be given under this MOU and Financial
+- Provisions shall be in writing and shall be emailed with read receipt requested, served
+- personally, or sent by United States registered or certified mail, postage prepaid with
+- return receipt requested. In the event that a notice is emailed and a read receipt or
+- parties. No prior or contemporaneous addition, deletions, or other amendment hereto
+- shall have any force or effect whatsoever, unless embodied in a written agreement
+- executed and approved
+- retention rates, academic success rates, participation rates, and collaborative
+- must receive approval by the other institution prior to use
+- k. A separate training and articulation agreement will be issued for employer-sponsored
+
+## [pueblo-county#56] 2026-09-15 | Board of County Commissioners | agenda
+- Presentations
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- 2. 2027 Budget Process Updates by Robert Choi, CAO
+- 3. Economic Development: TIF using a County Revitalization Authority by Robert Choi
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of:
+- and responsibilities of the County in relation to the Aspen Acres Fire; legal
+- County’s role in appointing a pueblo community member to the Xcel Energy
+- Carbon Free Future Development Program advisory board; County
+- appointments on the PEDCO Board of Directors; legal implications for reduced
+- collateral for the issuance of certificates of participation; appointment of
+- responsibilities for an emergency watershed program manager; and potential
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- to C.R.S. 24-6-402(4)(e) regarding: a potential amendment to the marijuana
+- excise tax Agreement with the Pueblo Hispanic Education Foundation; a grant
+- agreement with the USDA for the emergency watershed program; the scope of
+- potential agreements for private property debris removal; general contract
+- terms for potential agreements with independent investigators; and a potential
+- funding increase for the pretrial services agreement with RMS
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#57] 2026-09-16 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- Monday, September 14, 2026. The hearing will stream live on the County’s Facebook page, but
+- Approval Agenda of September 16, 2026
+- Approval of August 19, 2026, Minutes
+- SPECIAL USE PERMIT NO.; HSUP-21-2 This administrative review serves to
+- update the Planning Commission on the conditions of approval that were
+- outstanding, mainly the submittal of a request to rescind Special Use Permit SUP
+- permitted under Special Use Permit 2013-011 (HSUP-13-11) was removed after
+- the establishment of the monopole tower that was approved under Special Use
+- Permit SUP 2021-002 (HSUP-21-2)
+- MAP AMENDMENT Daniel Wachob
+- The applicant requests a rezoning of a 1.82± acre lot from the RR Rural
+- The applicant is requesting Map Amendment MA-26-5 be withdrawn
+- Hearing of Cases
+- (The Chair will remove any Consent Agenda item upon request by any Commissioner
+- or assigned staff. Items removed upon request will be considered separately by the
+- The applicant requests a rezoning of a 0.53± acre lot from the HR Mixed
+- to pursue a Vacation of Interior Platted Lot Lines
+- Public Comments (limited to 3 minutes per speaker, total of 7 speakers)
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- Planning and Development at 719-583-6100
+
+## [pueblo-county#58] 2026-09-16 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 16th, 2026
+- 1. Contracts/Resolutions
+- a. APPOINTING DIRECTORS TO THE BOARD OF THE PUEBLO COUNTY
+
+## [pueblo-county#59] 2026-09-16 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 16th, 2026
+- 1. Contracts/Resolutions
+- a. APPOINTING DIRECTORS TO THE BOARD OF THE PUEBLO COUNTY
+- RESOLUTION NO
+- APPOINTING DIRECTORS TO THE BOARD OF THE PUEBLO COUNTY CAPITAL
+- was incorporated on December 18, 1989 at the direction of this Board and for the purpose of
+- WHEREAS, under Section V of the Articles of Incorporation, as amended, the
+- Corporation is managed by a board of two directors appointed by this Board and subject to
+- WHEREAS, by Resolution No. 20-223, this Board appointed Sabina Genesio, County
+- has resolved to remove the directors from the board of the Corporation and to appoint new
+- appoint two current employees of the County to serve as directors of the Corporation
+- Officer, and Robert Choi, Pueblo County Chief Administrative Officer, are appointed to serve as
+- the directors of the Corporation, with their appointments effective immediately upon adoption of
+- this Resolution. Consistent with Article V of the Articles of Incorporation, the term of each
+
+## [pueblo-county#60] 2026-09-16 | General | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 16th, 2026
+
+## [pueblo-county#61] 2026-09-16 | General | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 16th, 2026
+- RESOLUTION NO
+- was incorporated on December 18, 1989 at the direction of the Pueblo County Board of County
+- and used by the County in connection with the Master Lease Purchase Agreement between the
+- Lots 1 through 16, inclusive, of Block 12, together with the vacated alley in Block 12 and the
+- north half of the adjacent vacated portion of West 11th Street, County Subdivision to the City of
+- Pueblo, Amended Platt, County of Pueblo, State of Colorado
+- WHEREAS, the Lease was executed to allow the County to finance the purchase of the
+- payments on a loan for the purchase of real property, with such payments beginning in
+- 4. If necessary, the Corporation will cooperate with PB&T to effectuate the transfer of the
+- Property to the County, including through the execution of any agreements relating to the
+- 5. Director Robert Choi is authorized and directed to execute any agreements, deeds or
+- other documents necessary to effectuate the terms and purpose of this Resolution and to
+- CONSTRUCTION CORPORATION, a Colorado nonprofit corporation, Grantor, whose address is 215
+- West Tenth Street, Pueblo, CO 81003, and PUEBLO COUNTY, COLORADO, a political subdivision of
+- the State of Colorado, Grantee, whose legal address is 215 West Tenth Street, Pueblo, CO 81003;
+- WITNESSETH, that Grantor, for and in consideration of one dollar ($1.00) , and other good and
+- valuable consideration, the receipt and sufficiency of which are hereby acknowledged, has remised,
+- unto Grantee and Grantee’s heirs, successors, and assigns, forever, all the right, title, interest, claim, and
+- demand which Grantor has in and to the real property, together with improvements, if any, situate, lying,
+- half of the adjacent vacated portion of West 11th Street, County Subdivision to the City of Pueblo,
+- Amended Platt, County of Pueblo, State of Colorado
+- whatsoever, of Grantor, either in la or equity, to the only proper use, benefit and behoof of Grantee and
+- Grantee’s heirs, successors, and assigns forever
+- IN WITNESS WHEREOF, Grantor has caused this deed to be executed on the date set forth above
+
+## [pueblo-county#62] 2026-09-16 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- NOTICE: The hearing will be streamed live on the County’s Facebook Page
+- (Note: This is a work session for discussion purposes only.)
+- e-Specific Standards for Data Centers
+- receive feedback on same, with the end goal of adopting suitable use-specific standards into the
+- individuals with sight or hearing impairment may be made by contacting Planning and
+- Development at 719-583-6100)
+- Planning and Development
+- 201 West 8th Street, Suite 110 719.583.6100 (main)
+- SUBJECT: Use-Specific Standards for Data Centers
+- The Pueblo County Unified Development Code (UDC) provides for Data Centers as a Special Use
+- for Data Centers, which can be an intensive use. The purpose of this work session is to provide
+- draft standards to the Planning Commission and receive feedback on same, with the end goal of
+- Staff brought draft use-specific standards for Data Centers to the Planning Commission in a Work
+- Session format at the August 19, 2026 meeting for feedback. At this meeting, staff heard
+- comments on several sections from the Planning Commission. Staff has since incorporated those
+- ensuring Data Center uses would “pay their own way” and not cause financial impacts to utility
+- service providers. As such, staff has incorporated an additional section which would require
+- developers to provide robust information regarding what infrastructure improvements may be
+- necessitated by the data center and how it will pay for its fair share of said improvements. Staff is
+- in some instances improvements may benefit the larger community or utility system, so it may not
+- Planning & Development Department
+- RE: Use-Specific Standards for Data Centers
+- equipment related to the Data Center use such as generators and batteries be removed
+- However, the draft standards provide for a timeline of 12 months “or per the schedule as approved
+- within the Decommissioning Plan.” This allows the developer to request a longer timeline for
+- Planning staff worked with Public Works staff to draft requirements for a Road Use Agreement for
+- been incorporated
+- standards for data center uses, based on direction received at the previous work session. Staff
+- Amendment for Planning Commission recommendation and Board of County Commissioners
+- Attachments: Exhibit 1 …… Draft Use-Specific Standards for Data Centers
+- Exhibit 1: Draft Use-Specific Standards for Data Centers
+- (3) Data Center
+- (i) Applicability. This Section shall apply to all primary and accessory Data Centers uses. This shall include
+- all phases of Data Centers built or permitted in phases
+- (ii). Data Centers within PUDs. If a Planned Unit Development (PUD) contemplates Data Centers as an
+
+## [pueblo-county#63] 2026-09-16 | Planning Commission | agenda
+- 215 WEST 10TH STREET
+- NOTICE: The hearing will be streamed live on the County’s Facebook Page
+- (Note: This is a work session for discussion purposes only.)
+- 2. Use-Specific Standards for Data Centers
+- receive feedback on same, with the end goal of adopting suitable use-specific standards into the
+- individuals with sight or hearing impairment may be made by contacting Planning and
+- Development at 719-583-6100)
+
+## [pueblo-county#64] 2026-09-17 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 17th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- b. APPOINTING THE PUEBLO COUNTY CHIEF ADMINISTRATIVE
+- OFFICER TO THE PUEBLO ECONOMIC DEVELOPMENT CORPORATION
+- 4. Contracts/Resolutions
+- a. APPROVING THE MEMORANDUM TO THE INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO AND
+- CLOUD-BASED COMPUTING PLATFORM PROVIDING SOFTWARE-AS
+- b. A RESOLUTION DECLARING THE INITIAL NEED FOR A COUNTY
+
+## [pueblo-county#65] 2026-09-17 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 17th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- b. APPOINTING THE PUEBLO COUNTY CHIEF ADMINISTRATIVE
+- OFFICER TO THE PUEBLO ECONOMIC DEVELOPMENT CORPORATION
+- 4. Contracts/Resolutions
+- a. APPROVING THE MEMORANDUM TO THE INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO AND
+- CLOUD-BASED COMPUTING PLATFORM PROVIDING SOFTWARE-AS
+- b. A RESOLUTION DECLARING THE INITIAL NEED FOR A COUNTY
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- APPOINTING THE PUEBLO COUNTY CHIEF ADMINISTRATIVE OFFICER TO
+- THE PUEBLO ECONOMIC DEVELOPMENT CORPORATION BOARD
+- Development Corporation (PEDCO) and has two voting seats on the PEDCO Board; and
+- member vacancy, and this Board desires to appoint Pueblo County Chief Administrative Officer,
+- Pueblo County, Colorado, that Chief Administrative Officer, Robert Choi is hereby appointed as
+- a Pueblo County voting member of the PEDCO Board effective upon passage of this Resolution,
+- with notice of this respective appointment and to take all other action necessary to effectuate this
+- APPROVING THE MEMORANDUM TO THE INTERGOVERNMENTAL
+- AGREEMENT BETWEEN PUEBLO COUNTY, COLORADO AND ARAPAHOE
+- PLATFORM PROVIDING SOFTWARE-AS-A-SERVICE
+- approve the attached Memorandum with Arapahoe County, Colorado pertaining to, among other
+- things, the shared use of the cloud-based computing platform “GovPrime”; and
+- subscription fees have had increases as allowed under the Compensation terms, paragraph 8.3 for
+
+## [pueblo-county#66] 2026-09-17 | Board of County Commissioners | agenda
+- Presentations
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- 4. Hiring Exemption Request — Planning & Development - Building Division by Nick
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) regarding: a potential lease agreement between Pueblo County
+- and the Runyon Sports Complex Commission Incorporated; and potential contractor
+- agreements for bleachers and artificial turf at the Runyon Sports Complex
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#67] 2026-09-22 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of Tuesday, September 22, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION APPOINTING A COUNTY ATTORNEY FOR PUEBLO
+- 3. Contracts/Resolutions
+- a. A RESOLUTION AUTHORIZING A LETTER OF SUPPORT OF THE
+
+## [pueblo-county#68] 2026-09-22 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- the County’s role in appointing a Pueblo community member to Xcel Energy’s Carbon Free
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- requirements; the County’s role in appointing a Pueblo community member to Xcel
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#69] 2026-09-22 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of Tuesday, September 22, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION APPOINTING A COUNTY ATTORNEY FOR PUEBLO
+- 3. Contracts/Resolutions
+- a. A RESOLUTION AUTHORIZING A LETTER OF SUPPORT OF THE
+- RESOLUTION NO
+- A RESOLUTION APPOINTING A COUNTY ATTORNEY FOR PUEBLO COUNTY
+- WHEREAS, by Resolution 26-171, this Board selected an Interim County Attorney to
+- years, and has been serving as Interim County Attorney since his appointment on June 9, 2026;
+- WHEREAS, the Board finds that the appointment of Brendan Hursh as County Attorney
+- 1. Brendan Hursh is hereby appointed to the position of County Attorney for Pueblo
+- A RESOLUTION AUTHORIZING A LETTER OF SUPPORT OF THE PROPOSED
+- WHEREAS, EPA is requesting feedback on this proposed cleanup level change for lead
+- and wishes to provide Public Comment on said proposal; and
+- participate in the public comment process and upcoming open houses. The BOCC remains
+
+## [pueblo-county#70] 2026-09-24 | Pueblo Area Council of Governments | agenda
+- 101 WEST 10TH STREET, FIRST FLOOR CONFERENCE ROOM
+- PUBLIC COMMENTS Citizen Comments
+- 1. Resolution for Budget adjustment to add newly awarded grants to PACOG
+- Transportation and Water Quality Programs for FY26 and 27
+- BUDGET DEVELOPMENT FOR FISCAL YEAR 2027 - Eva Cosyleon Budget
+- Discussion, Revisions, and Adoption of Methodology:
+- 5. Budget Discussion, Revisions, and Adoption of Methodology:
+- a. Short Budget meeting after the October PACOG Meeting for budget review for
+- 6. A RESOLUTION AMENDING THE PUEBLO AREA COUNCIL OF
+- IMPROVEMENT PROGRAM (TIP) SEPARATING THE MEDAL OF HONOR
+- BLVD. TRAIL PROJECT FROM THE CONNECTING COMMUNITIES PROJECT
+- 7. A RESOLUTION AMENDING THE PUEBLO AREA COUNCIL OF
+- IMPROVEMENT PROGRAM (TIP) ASSIGNING FEDERAL CONSTRUCTION
+- 8. A RESOLUTION AMENDING THE PUEBLO AREA COUNCIL OF
+- IMPROVEMENT PROGRAM (TIP) ASSIGNING FEDERAL HIGHWAY SAFETY
+- IMPROVEMENT PROGRAM (HAZ) FUNDS IN THE AMOUNT OF $618,750,
+- 9. A RESOLUTION AMENDING THE PUEBLO AREA COUNCIL OF
+- IMPROVEMENT PROGRAM (TIP) ASSIGNING FEDERAL SIGNAL
+- ALONG CO96A AT 4TH STREET AND HUDSON AVENUE, JOPLIN AVENUE,
+- 10. A RESOLUTION ADOPTING THE PUEBLO AREA COUNCIL OF
+- GOVERNMENTS’ REGIONAL TITLE VI PLAN FOR THE PUEBLO
+- 11. A RESOLUTION AMENDING THE PUBLIC PARTICIPATION PLAN (PPP) FOR
+- PUBLIC COMMENT TIME PERIODS FOR THE LONG-RANGE
+- TRANSPORTATION PLAN (LRTP), TRANSPORTATION IMPROVEMENT
+- BICYCLE AND PEDESTRIAN MASTER PLAN; AND DIRECTING THE URBAN
+- reconsideration of Bustang Expansion
+- 14. Metropolitan Planning Organization (MPO) request the following projects into the
+- Improvement Program (PACOG TIP) – Dylan Goodman (Transportation Planner)
+- 15. Draft Bicycle and Pedestrian Master Plan for review and comments - Due Sept 28th
+- b. Project update for PACOG area
+- It will be held at the County’s Emergency Operations Center, 101 West 10th Street, 1st Floor
+- NOTIFY PACOG AT 719-583-6100 AT LEAST TWO (2) WORKING DAYS IN ADVANCE
+
+## [pueblo-county#71] 2026-09-24 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- 1. Approval to Hire Front Desk (Office Support III) DHS - Tammy Torres
+- 2. 2027 Budget Update: Balancing the Budget with Fiscal Discipline — Robert Choi
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- Certificates of Participation; potential IT security improvements; strategies to address
+- personnel costs for the 2026 budget; and County CAPP and CWCP insurance
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) concerning: potential IT security agreements; CAPP and CWCP
+- insurance coverage amounts; and the CDBG subcontractor agreement with
+- 5. To consider personnel matters pursuant to C.R.S. 24-6-402(4)(f) regarding the Chief
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#72] 2026-09-24 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 24th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- b. APPOINTING MEMBERS TO THE PUEBLO COUNTY COMMUNITY
+- c. A RESOLUTION APPROVING A LETTER OF RECOMMENDATION FOR
+- THE APPOINTMENT OF A PUEBLO COMMUNITY MEMBER TO THE
+- CARBON FREE FUTURE DEVELOPMENT PROGRAM ADVISORY
+- 3. Contracts/Resolutions
+- a. A RESOLUTION AUTHORIZING A LETTER OF SUPPORT FOR THE
+- CONTROLLED-ENVIRONMENT AGRICULTURE DEVELOPMENT
+- b. A RESOLUTION CERTIFYING COMPLIANCE WITH C.R.S. § 24-33.5
+- c. APPROVING THE PUEBLO COUNTY GRANT APPLICATION TO THE
+- SERVICES BLOCK GRANT (CSBG) PROGRAM FUNDING
+- d. APPROVING AMENDMENT #3 TO THE CONTRACT BETWEEN THE
+- e. APPROVING THE GRANT AWARD AND AGREEMENT BETWEEN THE
+- WATERSHED PROTECTION MEASURES RELATED TO FLOODING AND
+- DEBRIS FLOWS CAUSED BY THE ASPEN ACRES FIRE DISASTER
+- f. APPROVING THE SUBMISSION OF A 2026 GRANT APPLICATION TO
+- OF ECONOMIC DEVELOPMENT & INTERNATIONAL TRADE
+- Presented By: Sarah Skinner, Pueblo County Grant Writer
+- g. APPROVING THE GOVERNMENTAL 457(b) PLAN ADOPTION
+- AGREEMENT FOR THE PUEBLO COUNTY 457(b) DEFERRED
+- COMPENSATION PLAN
+
+## [pueblo-county#73] 2026-09-24 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 24th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- b. APPOINTING MEMBERS TO THE PUEBLO COUNTY COMMUNITY
+- c. A RESOLUTION APPROVING A LETTER OF RECOMMENDATION FOR
+- THE APPOINTMENT OF A PUEBLO COMMUNITY MEMBER TO THE
+- CARBON FREE FUTURE DEVELOPMENT PROGRAM ADVISORY
+- 3. Contracts/Resolutions
+- a. A RESOLUTION AUTHORIZING A LETTER OF SUPPORT FOR THE
+- CONTROLLED-ENVIRONMENT AGRICULTURE DEVELOPMENT
+- b. A RESOLUTION CERTIFYING COMPLIANCE WITH C.R.S. § 24-33.5
+- c. APPROVING THE PUEBLO COUNTY GRANT APPLICATION TO THE
+- SERVICES BLOCK GRANT (CSBG) PROGRAM FUNDING
+- d. APPROVING AMENDMENT #3 TO THE CONTRACT BETWEEN THE
+- e. APPROVING THE GRANT AWARD AND AGREEMENT BETWEEN THE
+- WATERSHED PROTECTION MEASURES RELATED TO FLOODING AND
+- DEBRIS FLOWS CAUSED BY THE ASPEN ACRES FIRE DISASTER
+- f. APPROVING THE SUBMISSION OF A 2026 GRANT APPLICATION TO
+- OF ECONOMIC DEVELOPMENT & INTERNATIONAL TRADE
+- Presented By: Sarah Skinner, Pueblo County Grant Writer
+- g. APPROVING THE GOVERNMENTAL 457(b) PLAN ADOPTION
+- AGREEMENT FOR THE PUEBLO COUNTY 457(b) DEFERRED
+- COMPENSATION PLAN
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from an ongoing fire that
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- APPOINTING MEMBERS TO THE PUEBLO COUNTY COMMUNITY
+- WHEREAS, by Resolution No. 14-222, dated September 8, 2014, the Board of County
+- Commissioners of Pueblo County, Colorado, repealed Resolution 10-122 and established a new
+- WHEREAS, by the same Resolution, the Board of County Commissioners of Pueblo
+- citizen representatives due to term expirations; notice soliciting applications from persons
+
+## [pueblo-county#74] 2026-09-28 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- 1. Request for Executive Session with the County Attorney for the purpose of:
+- personnel costs for the 2026 and 2027 budget; duties of the County regrading
+- vacation and sick leave payouts; County Policy No. 25-209; potential changes
+- b. To consider personnel matters pursuant to C.R.S. 24-6-402(4)(f) regarding:
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+
+## [pueblo-county#75] 2026-09-29 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 29th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Reports - Pueblo County Clerk & Recorder Statement of Fees Collected - August 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. APPROVING AN AGREEMENT FOR A REVOCABLE PERMIT FOR USE
+- SUBDIVISION LOT 8 VALDEZ PARK 1ST
+- b. APPOINTING AGENCY DESIGNEES AS MEMBERS TO THE PUEBLO
+- 4. Public Hearing — proposed 2026 Budget Amendment
+- 5. Contracts/Resolutions
+- a. AMENDING RESOLUTION NOS. 25-284 AND 25-285, ESTABLISHING
+- BUDGET AND APPROPRIATIONS BY FUND FOR PUEBLO COUNTY,
+- UNANTICIPATED INSURANCE PROCEEDS FOR REPAIR OF WATER
+- b. APPROVING AMENDMENT #2 TO THE WATER HEATER
+- REPLACEMENT SERVICES CONTRACT FOR THE COLORADO ENERGY
+- c. APPROVING THE STATEMENTS OF WORK FOR CONSULTING
+- SERVICES AGREEMENT BETWEEN EIDE BAILLY ADVISORY LLC AND
+- d. APPOINTING A MEMBER TO THE COMMUNITY SERVICES BLOCK
+- GRANT ADVISORY COUNCIL
+- e. APPOINTING A MEMBER TO THE COMMUNITY SERVICES ADVISORY
+
+## [pueblo-county#76] 2026-09-29 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of September 29th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Reports - Pueblo County Clerk & Recorder Statement of Fees Collected - August 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. APPROVING AN AGREEMENT FOR A REVOCABLE PERMIT FOR USE
+- SUBDIVISION LOT 8 VALDEZ PARK 1ST
+- b. APPOINTING AGENCY DESIGNEES AS MEMBERS TO THE PUEBLO
+- 4. Public Hearing — proposed 2026 Budget Amendment
+- 5. Contracts/Resolutions
+- a. AMENDING RESOLUTION NOS. 25-284 AND 25-285, ESTABLISHING
+- BUDGET AND APPROPRIATIONS BY FUND FOR PUEBLO COUNTY,
+- UNANTICIPATED INSURANCE PROCEEDS FOR REPAIR OF WATER
+- b. APPROVING AMENDMENT #2 TO THE WATER HEATER
+- REPLACEMENT SERVICES CONTRACT FOR THE COLORADO ENERGY
+- c. APPROVING THE STATEMENTS OF WORK FOR CONSULTING
+- SERVICES AGREEMENT BETWEEN EIDE BAILLY ADVISORY LLC AND
+- d. APPOINTING A MEMBER TO THE COMMUNITY SERVICES BLOCK
+- GRANT ADVISORY COUNCIL
+- e. APPOINTING A MEMBER TO THE COMMUNITY SERVICES ADVISORY
+- MONTHLY REPORT OF FEES COLLECTED BY THE COUNTY CLERK'S OFFICE OF PUEBLO COUNTY, COLORADO
+- TAX IS SUBMITTED WITH STATE TAX
+- STATE SALES TAX (STATE)
+- CITY SALES TAX
+- ROAD & BRIDGE
+- CENTRAL INDEXING FEE (MVTITLE)
+- COUNTY SALES TAX
+- PUEBLO WEST METRO DIST SALES TAX
+- OWNERSHIP TAX 8-C-D
+- SMM OWNERSHIP TAX B-C-D (2%)
+- MOTOR VEHICLE PLATE DESTRUCTION
+- 2% RENTAL OWNERSHIP TAX B-C-D (M.V.)
+- COUNTY RETAINED LATE FEE
+- COUNTY RETAINED LATE FEE PRIOR TO 6/1/09 (EX)
+- COUNTY (Sl) LATE FEE
+- ROAD & BRIDGE CROSS COUNTY DISBURSEMENT
+- GENERIC PLATE SPECIAL PURPOSE & CUST. INQ. (STATE)
+- STATE (Sl) LATE REGISTRATION OTHER FEE (STATE)
+- RECEPTION BOOK FEES
+- CC FEE REDEMPTION CERT
+- CERTIFIED COPIES
+- WEB SUBSCRIPTION FEE
+- STATE DOC FEES
+- CC FEE RECORDING INFO - CD ROM
+- CC FEE RECORDING INFO -ZIP DRIVE
+- RESOLUTION NO
+- APPROVING AN AGREEMENT FOR A REVOCABLE PERMIT FOR USE OF PUBLIC
+- WHEREAS, the Board of County Commissioners is authorized to regulate County roads,
+- public easements, and rights-of-ways, and to authorize the use of such street and public ways
+- Road described as Parcel# 1411-003-007 Subdivision Lot 8 Valdez Park 1st, hereinafter referred
+- to as the Permittee, has requested an Agreement for Revocable Permit for Use of the Public
+- WHEREAS, the Revocable Permit is for the use of a carport, with a portion of Toltec
+- Park 1st; and
+- WHEREAS, the Agreement for the revocable permit shall extend to and be binding upon
+- representatives, and shall constitute an agreement running with the land until released by
+
+## [pueblo-county#77] 2026-09-29 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● Request for Executive Session with the County Attorney for the purpose of
+- changes to County health and stop loss insurance; strategies and associated
+- legal implications to address personnel costs for the 2026 and 2027 budgets;
+- legal issues associated with the Emergency Watershed Program grant
+- agreement with the USDA and roles and responsibilities of the County in
+- response to the Aspen Acres Fires; and
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant
+- to C.R.S. 24-6-402(4)(e) concerning: a potential contract with Phoenix
+- 3. To consider personnel matters pursuant to C.R.S. 24-6-402(4)(f) regarding: the
+- NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE ITEMS ARE
+
+## [pueblo-county#78] 2026-10-01 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 1st, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 3. Contracts/Resolutions
+- a. APPROVING A MEMORANDUM OF UNDERSTANDING BETWEEN
+- ASSISTANCE GRANT (JAG) FUNDS FOR FISCAL YEAR 2026
+- b. APPROVING THE AMENDED AGREEMENT BETWEEN TNT SECURITY
+- c. APPROVING THE STATEMENT OF WORK FOR SERVICES UNDER THE
+- MASTER SERVICES AGREEMENT BETWEEN EIDE BAILLY ADVISORY
+- d. APPROVING THE PUEBLO COUNTY GRANT APPLICATION TO THE
+- HISTORICAL FUND (SHF) GRANT FUNDING
+- e. A RESOLUTION REMOVING CRAIG MCBRAIN AS PUEBLO COUNTY
+- f. A RESOLUTION AMENDING RESOLUTION NO. 26-210 AND PLACING
+- THE BUDGET AND FINANCE DEPARTMENT UNDER THE TEMPORARY
+- Tax Year(s); 2025 Original Value: $54,620; Abated Value: $11,500;
+- Abated Taxes: $1,120.89; Sales do not support model value. Filed: 8-25
+- 2024 Tax Year(s); 2024 Original Value: $66,010; Abated Value: $49,830;
+- Abated Taxes: $4,762.77; Exemption granted to 67% of the property,
+- 2025 Tax Year(s); 2025 Original Value: $164,420; Abated Value:
+- $110,160; Abated Taxes: $10,201.37; Exemption granted to 67% of the
+- d. Raindrop Land I, LLC; Parcel #46-302-38-024; 2025 Tax Year(s); 2025
+- Original Value: $399,550; Abated Value: $179,770; Abated Taxes:
+- the referee’s finding from the Jul 24, 2026 CBOE hearing. Filed: 8-25-26;
+- e. Pueblo Masonic Temple Annex Association; Parcel #15-012-02-022; 2025
+- Tax Year(s); 2025 Original Value: $220,980; Abated Value: $124,000;
+- Abated Taxes: $11,483.00; Exemption granted in part by the Division of
+- Property Taxation effective April 17, 2025. Filed: 8-25-26; Date
+- f. Parkview Medical Center, Inc.; Parcel #06-024-08-002; 2025 Tax Year(s);
+- 2025 Original Value: $124,100; Abated Value: $124,100; Abated Taxes:
+- Taxation File NO. 51-01011-15. Filed: 9-17-26; Date Received: 9-17-26;
+- g. The Learning Source Foundation; Parcel #15-012-21-023; 2025 Tax
+- Taxes: $12,201.62; Parcel should have been exempt per Division of
+- Property Taxation File NO. 51-01011-15. Filed: 9-17-26; Date Received:
+- Tax Year(s); 2024 Original Value: $10, 760; Abated Value: $10,760;
+- Abated Taxes: $1,134.82; 2025 Tax Year(s); 2025 Original Value:
+- $34,180; Abated Value: $34,180; Abated Taxes: $3,600.33; Exemption
+- granted per the Division of Property Taxation, effective January 1, 2024,
+
+## [pueblo-county#79] 2026-10-01 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- associated with personnel and operating budget cuts for the 2026 and 2027 budgets;
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) concerning a potential lease agreement with the Runyon Sports
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#80] 2026-10-01 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 1st, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 3. Contracts/Resolutions
+- a. APPROVING A MEMORANDUM OF UNDERSTANDING BETWEEN
+- ASSISTANCE GRANT (JAG) FUNDS FOR FISCAL YEAR 2026
+- b. APPROVING THE AMENDED AGREEMENT BETWEEN TNT SECURITY
+- c. APPROVING THE STATEMENT OF WORK FOR SERVICES UNDER THE
+- MASTER SERVICES AGREEMENT BETWEEN EIDE BAILLY ADVISORY
+- d. APPROVING THE PUEBLO COUNTY GRANT APPLICATION TO THE
+- HISTORICAL FUND (SHF) GRANT FUNDING
+- e. A RESOLUTION REMOVING CRAIG MCBRAIN AS PUEBLO COUNTY
+- f. A RESOLUTION AMENDING RESOLUTION NO. 26-210 AND PLACING
+- THE BUDGET AND FINANCE DEPARTMENT UNDER THE TEMPORARY
+- Tax Year(s); 2025 Original Value: $54,620; Abated Value: $11,500;
+- Abated Taxes: $1,120.89; Sales do not support model value. Filed: 8-25
+- 2024 Tax Year(s); 2024 Original Value: $66,010; Abated Value: $49,830;
+- Abated Taxes: $4,762.77; Exemption granted to 67% of the property,
+- 2025 Tax Year(s); 2025 Original Value: $164,420; Abated Value:
+- $110,160; Abated Taxes: $10,201.37; Exemption granted to 67% of the
+- d. Raindrop Land I, LLC; Parcel #46-302-38-024; 2025 Tax Year(s); 2025
+- Original Value: $399,550; Abated Value: $179,770; Abated Taxes:
+- the referee’s finding from the Jul 24, 2026 CBOE hearing. Filed: 8-25-26;
+- e. Pueblo Masonic Temple Annex Association; Parcel #15-012-02-022; 2025
+- Tax Year(s); 2025 Original Value: $220,980; Abated Value: $124,000;
+- Abated Taxes: $11,483.00; Exemption granted in part by the Division of
+- Property Taxation effective April 17, 2025. Filed: 8-25-26; Date
+- f. Parkview Medical Center, Inc.; Parcel #06-024-08-002; 2025 Tax Year(s);
+- 2025 Original Value: $124,100; Abated Value: $124,100; Abated Taxes:
+- Taxation File NO. 51-01011-15. Filed: 9-17-26; Date Received: 9-17-26;
+- g. The Learning Source Foundation; Parcel #15-012-21-023; 2025 Tax
+- Taxes: $12,201.62; Parcel should have been exempt per Division of
+- Property Taxation File NO. 51-01011-15. Filed: 9-17-26; Date Received:
+- Tax Year(s); 2024 Original Value: $10, 760; Abated Value: $10,760;
+- Abated Taxes: $1,134.82; 2025 Tax Year(s); 2025 Original Value:
+- $34,180; Abated Value: $34,180; Abated Taxes: $3,600.33; Exemption
+- granted per the Division of Property Taxation, effective January 1, 2024,
+
+## [pueblo-county#81] 2026-10-06 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- associated with personnel and operating budget cuts for the 2026 and 2027 budgets;
+- legal impacts to budget cuts in the County Assessor’s Office; and the roles and
+- responsibilities of the County in response to the Aspen Acres Fire
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#82] 2026-10-06 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 6th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Contracts/Resolutions
+- a. A RESOLUTION DESIGNATING COUNTY-OWNED REAL PROPERTY FOR
+- 3. Contracts/Resolutions
+- a. APPROVING THE LEASE AGREEMENT BETWEEN PUEBLO COUNTY
+
+## [pueblo-county#83] 2026-10-06 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 6th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Contracts/Resolutions
+- a. A RESOLUTION DESIGNATING COUNTY-OWNED REAL PROPERTY FOR
+- 3. Contracts/Resolutions
+- a. APPROVING THE LEASE AGREEMENT BETWEEN PUEBLO COUNTY
+- RESOLUTION NO
+- A RESOLUTION DESIGNATING COUNTY-OWNED REAL PROPERTY FOR THE
+- County to reserve at least three percent of its fiscal year spending, excluding bonded debt
+- WHEREAS, the Board adopted the County’s 2026 budget by Resolution No. 25-284 and
+- County property name and street address Value designated
+- 1. Department of Human Services Office and Warehouse (value:
+- 2631 East Fourth Street, Pueblo, CO 81001
+- Identified by Assessor Schedule No. 04-330-04-009 and more
+- Eastwood, as per the plat thereof recorded September 15, 1926
+- 3. The County’s 2026 TABOR emergency reserve is hereby amended to substitute the values of
+- 414 West Nineth Street, Pueblo, CO 81003
+- Identified by Assessor Schedule No. 05-254-45-003 and more
+- Lot 5 and East 8 feet of Lot 6, Block 30, County Addition,
+- Amended to the City of Pueblo, according to the plat thereof
+- APPROVING THE LEASE AGREEMENT BETWEEN PUEBLO COUNTY AND THE
+- WHEREAS, Pueblo County, is the owner of the building located at 201 W. 8th Street,
+- lease Suite 475 at 201 W. 8th Street, Pueblo, Colorado, from Pueblo County, to use as its base to
+- Pueblo County, Colorado, that Lease Agreement between the Federal Emergency Management
+- Agency and Pueblo County, Colorado, for the lease of Suite 475 at 201 W. 8th Street, Pueblo,
+- Colorado, is hereby approved and the Chair is authorized to execute the same on behalf of
+- NOTE: All offers are subject to the terms and conditions outlined in Request for Lease Proposals No. , Supplemental Lease
+- 2e NUMBER OF PARKING SPACES
+- ANNUAL PARKING RATES (IF NOT
+- INCLUDED IN RATES UNDER PART C
+- 3c. This Lease may be renewed at the option of the Government for a term of YEARS at the rental rate(s) set forth below, provided notice is
+- been amended, shall remain in full force and effect during any renewal term
+- period of less than a month shall be prorated. Rent shall not be adjusted for changes in real estate taxes or operating costs
+- 5b. RATE PER MONTH
+- RENTAL RATE BREAKDOWN FIRM TERM
+- (INCL. REAL ESTATE TAXES)
+- IMPROVEMENT RENT
+- cost and amortization rate )
+- 11. TENANT IMPROVEMENT COSTS
+- 12. INTEREST RATE TO AMORTIZE TENANT
+- IMPROVEMENTS
+- 13. HVAC OVERTIME RATE PER HOUR N/A 14. ADJUSTMENT FOR VACANT PREMISES RATE
+- D. OWNER IDENTIFICATION AND CERTIFICATION
+- 15b. Unique Entity Identifier (UEI)
+
+## [pueblo-county#84] 2026-10-08 | Board of County Commissioners Land Use | agenda
+- 215 WEST 10th STREET
+- ● Approve Agenda of October 8, 2026
+- 9:04 AM PUBLIC COMMENTS
+- remove any Consent Agenda item upon request by any Commissioner or assigned staff. Items
+- removed upon request will be considered separately by the Board immediately following the
+- 2. MAP AMENDMENT BH2 Land Surveying
+- (IF REMOVED, PUBLIC HEARING) APN 4727329092
+- The applicant requests a rezoning of a 0.53± acre lot from the HR Mixed Residential
+- Vacation of Interior Platted Lot Lines
+- 3. SPECIAL USE PERMIT Chris Pasternak (Applicant)
+- (IF REMOVED, PUBLIC HEARING)
+- The applicant is requesting RESCISSION of a Special Use Permit SUP-26-1 that was
+- originally approved on March 12, 2026
+- 4. HOUSE BILL 1041 PERMIT 3 Corners Connector LLC (Representative)
+- The applicant is requesting approval of a permit by the Pueblo Board of County
+- Commissioners, as the designated Permit Authority, to construct, operate, and
+- RECESS AS BOARD OF COUNTY COMMISSIONERS AND CONVENE AS ZONING
+- 9:32 AM ZONING BOARD OF APPEALS' REGULAR ITEMS
+- 5. ZONING VARIANCE Samantha Cordova (Applicant)
+- The applicant requests a zoning variance to allow a 10’ 4” side setback for a proposed
+- RECESS AS ZONING BOARD OF APPEALS AND CONVENE BOARD OF COUNTY
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- contacting Planning and Development at 719-583-6100
+
+## [pueblo-county#85] 2026-10-08 | Board of County Commissioners Land Use | agenda
+- 215 WEST 10th STREET
+- ● Approve Agenda of October 8, 2026
+- 9:04 AM PUBLIC COMMENTS
+- remove any Consent Agenda item upon request by any Commissioner or assigned staff. Items
+- removed upon request will be considered separately by the Board immediately following the
+- 2. MAP AMENDMENT BH2 Land Surveying
+- (IF REMOVED, PUBLIC HEARING) APN 4727329092
+- The applicant requests a rezoning of a 0.53± acre lot from the HR Mixed Residential
+- Vacation of Interior Platted Lot Lines
+- 3. SPECIAL USE PERMIT Chris Pasternak (Applicant)
+- (IF REMOVED, PUBLIC HEARING)
+- The applicant is requesting RESCISSION of a Special Use Permit SUP-26-1 that was
+- originally approved on March 12, 2026
+- 4. HOUSE BILL 1041 PERMIT 3 Corners Connector LLC (Representative)
+- The applicant is requesting approval of a permit by the Pueblo Board of County
+- Commissioners, as the designated Permit Authority, to construct, operate, and
+- RECESS AS BOARD OF COUNTY COMMISSIONERS AND CONVENE AS ZONING
+- 9:32 AM ZONING BOARD OF APPEALS' REGULAR ITEMS
+- 5. ZONING VARIANCE Samantha Cordova (Applicant)
+- The applicant requests a zoning variance to allow a 10’ 4” side setback for a proposed
+- RECESS AS ZONING BOARD OF APPEALS AND CONVENE BOARD OF COUNTY
+- Planning staff reports, applications, and distributed materials are part of the Record unless
+- contacting Planning and Development at 719-583-6100
+- Planning and Development
+- 201 West 8th Street, Suite 110 719.583.6100 (main)
+- SUBJECT: Map Amendment MA-26-1
+- district to the SR2 Suburban Residential High zone district to pursue a Vacation of Interior Platted
+- forward a recommendation of APPROVAL of Map Amendment MA-26-3 to the Board of County
+- Staff recommends the Board of County Commissioners APPROVE Map Amendment MA-26-3 with
+- Planning & Development Department
+- RE: Map Amendment MA-26-3
+- the recommendations of the Pueblo Regional Comprehensive Plan for this property and its
+- b. Staff believes the rezoning of the proposed property is not expected to impact the health,
+- 1. The applicant shall submit a Road Access Permit (RAP) to register their driveway
+- SUBJECT: SPECIAL USE PERMIT SUP-26-1 RESCISSION
+- approved on March 12, 2026. (Exhibit 1)
+- described as Lot 8 Block 1, Blende Mobile Park Subdivision. (Exhibit 2)
+- SUP-26-1 was approved to allow a private educational facility in the LI Light Industrial zone district by
+- The proposed use was never established on the subject property. Planning & Development staff
+- applicant indicated to the Department that they no longer needed the Special Use Permit
+- Staff recommends the Board of County Commissioners acknowledge the applicant’s request and
+
+## [pueblo-county#86] 2026-10-08 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 8th, 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 1. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 2. Contracts/Resolutions
+- a. APPOINTING A MEMBER TO THE COMMUNITY SERVICES ADVISORY
+- b. A RESOLUTION ELIMINATING THE BOARD OF COUNTY
+
+## [pueblo-county#87] 2026-10-08 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- associated with personnel and operating budget cuts for the County’s 2026 and 2027
+- budgets; the legal impacts to budget cuts in the District Attorney’s Office; and
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#88] 2026-10-08 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 8th, 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 1. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 2. Contracts/Resolutions
+- a. APPOINTING A MEMBER TO THE COMMUNITY SERVICES ADVISORY
+- b. A RESOLUTION ELIMINATING THE BOARD OF COUNTY
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from the fire that started in
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- APPOINTING A MEMBER TO THE COMMUNITY SERVICES ADVISORY
+- WHEREAS, this Board, by Resolution No. 03-177, dated July 15, 2003, approved the
+- Agreement for Community Services Planning, Administration, and Accountability Services
+- between the City of Pueblo and Pueblo County, as amended, which established the Community
+- WHEREAS, Public Notice soliciting applications from persons interested in serving on
+- County website, government access channel, and social media, and five (5) applications were
+- WHEREAS, this Board, in conjunction with the City of Pueblo, now desires to appoint
+- Pueblo County, Colorado, that he following individual is hereby appointed as a joint member to
+- the Community Services Advisory Commission for the terms listed below subject to ratification
+- by the City of Pueblo. Staff to the Board is hereby authorized and directed to notify the City of
+- Pueblo and request ratification of this joint appointment
+- A RESOLUTION ELIMINATING THE BOARD OF COUNTY COMMISSIONERS
+- WHEREAS, the Pueblo County government is in a budgetary situation that requires
+- separated from County employment effective October 30, 2026
+- Resolution and to assist the affected employees with their out processing
+
+## [pueblo-county#89] 2026-10-13 | Liquor and Marijuana Licensing Board | agenda
+- 215 WEST 10TH STREET
+- APPROVE MEETING MINUTES
+- APPROVE AGENDA
+- publicly posted or noticed in a newspaper and cannot be considered for a public hearing. The
+- Chair may remove any item upon request by a Board member, staff, or citizen. Removed items
+- will be addressed separately, rescheduled, or handled at the Board’s discretion
+- a) Renewal Application for a Retail Liquor Store License located at 6654 Highway
+- CONSENT HEARING AGENDA ITEMS
+- 1. Special Events Permit
+- a) Application for a Special Events Permit for a Malt, Vinous, and Spirituous Liquor
+- License located at 1145 Aspen Road, Pueblo, Colorado 81006 submitted by The
+- b) Application for a Special Events Permit for a Malt, Vinous, and Spirituous Liquor
+- REGULAR HEARING AGENDA ITEMS
+- 1. New License Hearing
+- a) New Application for a Tavern License located at 2420 Santa Fe Drive, Pueblo,
+- THE LOCATION OF THESE PUBLIC HEARINGS AND/OR MEETINGS IS ACCESSIBLE
+- AND/OR MEETINGS FOR INDIVIDUALS WITH SIGHT OR HEARING IMPAIRMENTS,
+- Access to the Historic Court House at 215 W. 10th Street is limited to the doors on the North,
+- do so in person. Public Testimony in writing in support of or in opposition to an application,
+
+## [pueblo-county#90] 2026-10-13 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 13th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 3. Contracts/Resolutions
+- a. A RESOLUTION AMENDING RESOLUTION 26-316
+- b. A RESOLUTION APPROVING PUEBLO COUNTY’S 2027 PAY PLAN
+- c. A RESOLUTION APPROVING AND DESIGNATING PUEBLO COUNTY’S
+
+## [pueblo-county#91] 2026-10-13 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 13th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 3. Contracts/Resolutions
+- a. A RESOLUTION AMENDING RESOLUTION 26-316
+- b. A RESOLUTION APPROVING PUEBLO COUNTY’S 2027 PAY PLAN
+- c. A RESOLUTION APPROVING AND DESIGNATING PUEBLO COUNTY’S
+- RESOLUTION NO
+- A RESOLUTION AMENDING RESOLUTION 26-316
+- WHEREAS, the Pueblo County government is in a budgetary situation that requires
+- WHEREAS, by Resolution 26-316, dated October 8, 2026, this Board approved the
+- WHEREAS, this Board wishes to amend the effective date to December 19, 2026, to
+- 2. Those County employees holding the position of BOCC Receptionist shall be separated
+- 3. County staff are directed to take all necessary steps to implement this Resolution and to
+- A RESOLUTION APPROVING PUEBLO COUNTY’S 2027 PAY PLAN GRADES
+- the Pueblo County Pay Plan to ensure a competitive edge with recruitment, retention efforts, and
+- federal and state law, the BOCC seeks to approve revised pay plan grades for 2027; and
+- that the 2027 Pay Plan Grades be effective for the January 2027 payroll (beginning 12/20/2026)
+- behalf of Pueblo County, Colorado, that the 2027 Pay Plan Grades, attached hereto and
+- incorporated herein and made a part of this Resolution, are hereby approved, and shall be
+- effective for the January 2027 Payroll (beginning 12/20/26); and this Resolution shall supersede
+- and control over any conflicting County Policy or Resolution
+- PAY PLAN GRADES
+- A RESOLUTION APPROVING AND DESIGNATING PUEBLO COUNTY’S 2027
+- approval by their Chief Officer, Department
+- receive Holiday Pay for two of the Holidays of their choice as approved by their Elected Official
+- SECTION 2. When a holiday falls on Saturday, Friday will be celebrated as the County holiday
+- When a holiday falls on Sunday, Monday will be celebrated as the County holiday
+- SECTION 3. Personal Leave shall be considered a paid day off chosen by the employee and
+- approved by their Elected Official and Chief/Department Director (as applicable) and shall not
+- SECTION 4. Early releases that are not contemplated herein shall be at the discretion of the
+- shall be considered holiday time off for purposes of “worked time” in determining Overtime in
+- normal work hours. Employees may request the holiday hours worked to be added to the
+
+## [pueblo-county#92] 2026-10-13 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- associated with personnel and operating budget cuts for the County’s 2026 and 2027
+- budgets; County imposed hiring freezes; the roles and responsibilities of the HR
+- department related to employee compensation; the legal impacts to budget cuts in the
+- Aspen Acres Fire
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- C.R.S. 24-6-402(4)(e) concerning: a potential agreement with Huerfano County for
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#93] 2026-10-15 | Board of County Commissioners | agenda
+- Presentations
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- 2. The 2027 Financial Outlook and Proposed Budget Presentation By Robert Choi
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- associated with personnel and operating budget cuts for the County’s 2026 and 2027
+- budgets; and the legal impacts to budget cuts in the County Treasurer’s Office
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#94] 2026-10-15 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 15th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 3. Contracts/Resolutions
+- a. APPROVING THE SECURE TRANSPORTATION SERVICES LICENSE
+- AND VEHICLE PERMITS FOR AIR RIDE COLORADO, LLC PER THE
+- b. APPROVING THE AMENDMENT #1 TO THE INTERGOVERNMENTAL
+- AGREEMENT BETWEEN THE STATE OF COLORADO, DEPARTMENT OF
+- HUMAN SERVICES, FOR THE COUNTY MEDICAID INCENTIVE
+- c. A RESOLUTION CLARIFYING THE ROLE OF THE CHIEF
+
+## [pueblo-county#95] 2026-10-15 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 15th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- 3. Contracts/Resolutions
+- a. APPROVING THE SECURE TRANSPORTATION SERVICES LICENSE
+- AND VEHICLE PERMITS FOR AIR RIDE COLORADO, LLC PER THE
+- b. APPROVING THE AMENDMENT #1 TO THE INTERGOVERNMENTAL
+- AGREEMENT BETWEEN THE STATE OF COLORADO, DEPARTMENT OF
+- HUMAN SERVICES, FOR THE COUNTY MEDICAID INCENTIVE
+- c. A RESOLUTION CLARIFYING THE ROLE OF THE CHIEF
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from the fire that started in
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- APPROVING THE SECURE TRANSPORTATION SERVICES LICENSE AND
+- VEHICLE PERMITS FOR AIR RIDE COLORADO, LLC PER THE PUEBLO COUNTY
+- implement a program, including issuing licenses and vehicle permits for such transports,
+- WHEREAS, by Resolution No. 22-291, dated December 22, 2022, the Board of County
+- WHEREAS, Air Ride Colorado, LLC, has submitted the complete application form with
+- documentation and necessary fees to provide Secure Transportation Services in Pueblo County
+- associated Vehicle Permit 2026-01, Class A, for Air Ride Colorado, LLC, which are
+- incorporated herein by this reference, are hereby approved and the Chair of the Board of County
+- Vehicle Permit on behalf of Pueblo County
+- This is to certify that _AIR RIDE COLORADO, LLC of __DENVER, Colorado has been
+- granted Pueblo County Secure Transportation Services License Number 2026-01 (Class A) to
+- VEHICLE PERMIT
+- This permit expires: OCTOBER 15, 2027 Permit No. 2026 - 01 __
+- This is to certify that AIR RIDE COLORADO, LLC of __DENVER___, Colorado has been
+
+## [pueblo-county#96] 2026-10-20 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 20th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Report - Pueblo County Treasurer Statement of Fees Collected - September 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. AUTHORIZING A LETTER OF SUPPORT FOR CROSSROADS’ TURNING
+- 4. Contracts/Resolutions
+- a. A RESOLUTION APPROVING AND DESIGNATING PUEBLO COUNTY’S
+- b. A RESOLUTION APPROVING PUEBLO COUNTY’S 2027 EMPLOYEE
+
+## [pueblo-county#97] 2026-10-20 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- responsibilities of the County in response to the Aspen Acres Fire; legal implications
+- associated with personnel and operating budget cuts for the County’s 2026 and 2027
+- budgets; legal implications to budget cuts in the County Sheriff’s Office; and the
+- developing a strategy for negotiations, and/or instructing negotiators, pursuant to
+- 26A-0232E, and 24A-0442E; and concerning the Emergency Watershed Program
+- grant agreement between Pueblo County and the USDA
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#98] 2026-10-20 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 20th, 2026
+- 9:05 AM PUBLIC COMMENTS
+- 2. Report - Pueblo County Treasurer Statement of Fees Collected - September 2026
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 3. Contracts/Resolutions
+- a. AUTHORIZING A LETTER OF SUPPORT FOR CROSSROADS’ TURNING
+- 4. Contracts/Resolutions
+- a. A RESOLUTION APPROVING AND DESIGNATING PUEBLO COUNTY’S
+- b. A RESOLUTION APPROVING PUEBLO COUNTY’S 2027 EMPLOYEE
+- RESOLUTION NO
+- AUTHORIZING A LETTER OF SUPPORT FOR CROSSROADS’ TURNING POINTS
+- WHEREAS, Crossroads' Turning Points, Inc. is applying for funding to support substance
+- WHEREAS, the Board of County Commissioners supports Crossroads' Turning Points,
+- Inc. (CTP) in their efforts to address the opioid epidemic and overdose rates in southern and
+- WHEREAS, this Board strongly supports this application for funding by CTP as the
+- 2026, for Crossroads’ Turning Points to apply for funding to support substance use disorder
+- Re: Letter of Support for Crossroads' Turning Points, Inc
+- Crossroads' Turning Points, Inc. (CTP) and their efforts to address the opioid epidemic and overdose rates
+- supports Crossroads' Turning Points, Inc and their request for funding
+- A RESOLUTION APPROVING AND DESIGNATING PUEBLO COUNTY’S 2027
+- approval by their Chief Officer, Department
+- receive Holiday Pay for two of the Holidays of their choice as approved by their Elected Official
+- SECTION 2. Unless the annual resolution states otherwise: when a holiday falls on Saturday,
+- SECTION 3. Personal Leave shall be considered a paid time off chosen by the employee and
+- approved by their Elected Official and/or Chief/Department Director (as applicable) and shall
+- balances in Workday and shall be considered an annual “use or lose” benefit
+- SECTION 4. Early releases that are not contemplated herein shall be at the discretion of the
+- normal work hours. Employees may request the holiday hours worked to be added to the
+- A RESOLUTION APPROVING PUEBLO COUNTY’S 2027 EMPLOYEE MEDICAL,
+- medical benefit plan options to the Board of County Commissioners for consideration in
+- Board of County Commissioners identified its top four (4) options for further consideration; and
+- opportunity to review the options and provide feedback through a survey; and
+- WHEREAS, the Board of County Commissioners has taken into consideration the
+- feedback received from the Benefits Committee, the budgetary constraints facing Pueblo
+
+## [pueblo-county#99] 2026-10-21 | Desert Hawk Management Board | agenda
+- 215 W. 10th Street
+- Approval of Agenda
+
+## [pueblo-county#100] 2026-10-22 | Pueblo Area Council of Governments | agenda
+- 101 WEST 10TH STREET, FIRST FLOOR CONFERENCE ROOM
+- PUBLIC COMMENTS-Citizen Comments
+- 1. Reminder of the Budget Meeting after today's PACOG Meeting
+- 6. Presentation & A RESOLUTION ADOPTING THE PUEBLO AREA COUNCIL OF
+- GOVERNMENTS BICYCLE AND PEDESTRIAN MASTER PLAN (BPMP) FOR
+- 7. A RESOLUTION APPROVING THE 2027 DELEGATION AGREEMENT
+- PLANNING DIVISION TO ADMINISTER THE AGREEMENT IN COMPLIANCE
+- 8. A RESOLUTION APPROVING THE FEDERAL FISCAL YEAR 2027 COLORADO
+- DEPARTMENT OF TRANSPORTATION CONSOLIDATED PLANNING GRANT
+- AGREEMENT BETWEEN THE PUEBLO AREA COUNCIL OF GOVERNMENTS
+- 9. A RESOLUTION AMENDING THE PUEBLO AREA COUNCIL OF
+- GOVERNMENTS FY 2027-2030 TRANSPORTATION IMPROVEMENT
+- FUNDS IN THE AMOUNT OF $267,595 FOR PROJECTS THAT PROMOTE
+- “COMPLETE AND INTEGRATED MULTIMODAL SYSTEM"
+- 14. Complete Streets Presention - Dylan Goodman (Transportation Planner)
+- Required Budget Meeting for 2027 of the Budget Committee Short budget meeting to
+- approve final figures for November 2026 adoption
+- 2026. It will be held at the County’s Emergency Operations Center, 101 West 10th Street, 1st
+- NOTIFY PACOG AT 719-583-6100 AT LEAST TWO (2) WORKING DAYS IN ADVANCE
+
+## [pueblo-county#101] 2026-10-22 | Board of County Commissioners | agenda
+- Presentations None
+- update the Board on administrative and other items that do not require in-depth discussion or are
+- 1. Economic Development Campaign — Robert Choi, CAO
+- County Attorney Updates Request for Executive Session with the County Attorney for the
+- ● NO ADOPTION OF ANY PROPOSED POLICY, POSITION, RESOLUTION,
+- associated with personnel and operating budget cuts to the County’s 2026 and 2027
+- budgets; and 2027 budget cuts specifically within the Clerk and Recorder’s Office; and
+- developing a strategy for negotiations, and/or instructing negotiators pursuant to
+- C.R.S. 24-6-402(4)(e) concerning: proposed changes to the animal shelter agreement
+- NOTE: THIS IS A WORK SESSION FOR DISCUSSION PURPOSES ONLY. THE ABOVE
+
+## [pueblo-county#102] 2026-10-22 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 22nd, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- b. A RESOLUTION APPROVING THE MEMORANDUM OF
+- ACRES FIRE MITIGATION PROJECTS
+- 3. Contracts/Resolutions
+- a. A RESOLUTION APPROVING A LEASE AGREEMENT BETWEEN THE
+- b. APPROVING AMENDMENT #1 TO CONTRACT BETWEEN THE SENIOR
+- RESOURCE DEVELOPMENT AGENCY (SRDA) AND PUEBLO COUNTY
+
+## [pueblo-county#103] 2026-10-22 | Board of County Commissioners | agenda
+- hearing impairments may be made by contacting Human Resources at 583-6548
+- ● Approve Agenda of October 22nd, 2026
+- 9:05 AM PUBLIC COMMENTS
+- upon request by any Commissioner or assigned staff. Items removed upon request will be
+- considered separately by the Board immediately following the action on the remaining Consent
+- 2. Contracts/Resolutions
+- a. A RESOLUTION CONTINUING THE AUTHORIZATION OF A
+- ASPEN ACRES AREA FIRE AND SUBSEQUENT FLOODING
+- b. A RESOLUTION APPROVING THE MEMORANDUM OF
+- ACRES FIRE MITIGATION PROJECTS
+- 3. Contracts/Resolutions
+- a. A RESOLUTION APPROVING A LEASE AGREEMENT BETWEEN THE
+- b. APPROVING AMENDMENT #1 TO CONTRACT BETWEEN THE SENIOR
+- RESOURCE DEVELOPMENT AGENCY (SRDA) AND PUEBLO COUNTY
+- RESOLUTION NO
+- A RESOLUTION CONTINUING THE AUTHORIZATION OF A DECLARATION OF
+- LOCAL DISASTER EMERGENCY REGARDING THE ASPEN ACRES AREA FIRE
+- WHEREAS, Pueblo County has sustained severe damage from the fire that started in
+- WHEREAS, on June 29th, 2026, the fire necessitated the evacuation of people and
+- WHEREAS, by Resolution 26-202, dated July 2nd, 2026, this board authorized a
+- WHEREAS, an imminent threat continues to exist for Pueblo County citizens due to fire
+- WHEREAS, over 101,965 acres have been affected by the fire, and approximately 240
+- 1900 fire personnel from across the County at various times, and with the continuing and
+- WHEREAS, the Board of County Commissioners enacted the continued resolution on
+- for herein, is hereby approved, and shall remain in full force and effect until further
+- A RESOLUTION APPROVING THE MEMORANDUM OF UNDERSTANDING
+- PROVIDE ASSISTANCE FOR THE ASPEN ACRES FIRE MITIGATION PROJECTS
+- and property within Pueblo County due to the Aspen Acres Fire; and
+- WHEREAS, the severity of the Aspen Acres Fire drastically altered the biological
+- $500,000 to assist in mitigating fire flooding and erosion currently experienced in affected areas
+- Aspen Acres Fire damage and to enter into a Memorandum of Understanding with the Pueblo
+- Acres Fire disaster and damage, which is attached hereto and incorporated herein, is hereby
+- approved and shall be effective September 28, 2026, nunc pro tunc; and that the Chair of the
+- A RESOLUTION APPROVING A LEASE AGREEMENT BETWEEN THE RUNYON
+- Agreement under which the County shall lease such property to the Commission, subject to the
+- terms and conditions contained in this Agreement in a manner that delivers a more efficient
+- Pueblo County, Colorado, that the Lease Agreement between the Runyon Sport Complex
+- Commission, Inc. and Pueblo County, the terms and conditions of which are incorporated herein

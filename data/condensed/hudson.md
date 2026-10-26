@@ -1,0 +1,964 @@
+# hudson
+
+## [hudson#0] 2026-07-28 | City Council Workshop | minutes
+- 27 East Main Street
+- Others & Staff in Attendance: Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development
+- Director; Mr. Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Fox, HCTV Production
+- Communications Manager; Mr. Tabak, Police Chief; and Mr. Varnes, Fire/EMS Chief
+- 31. He also noted the Friends of Hudson Parks’ annual Pack the Pond event on August 3 at Hudson Springs
+- Park, the Hudson-Landsberg Biergarten on August 7 and 8, and the ribbon cutting for the DREAM Playground
+- Discussion Items3
+- A. 26-0056 Environmental Awareness Committee Priorities Discussion
+- present to discuss priorities of the committee
+- priorities of the committees goals. Council discussion followed
+- This matter was discussed
+- Ms. Sullivan provided an overview of the City's Crisis Communication Plan, outlining the notification
+- procedures and the tools used during emergencies . Additional discussion followed regarding how information
+- available notification systems. Chief Varnes shared details related to the Twinsburg Township incident, and
+- implement to improve communication during special events . She also noted that there have been discussions
+- about potentially relocating the fireworks display
+- requirements, along with relevant Fire Code provisions, to ensure all
+- Brief Description: At the request of City Council members, staff are
+- reviewing the City's applicable ordinances and permitting processes related to
+- Memo - Food Trucks Discussion 7.15.26
+- Ms. Stasik stated that staff will be working on amendments to the current food truck code, and provided the
+- E. 26-113 AN ORDINANCE AMENDING CHAPTER 478 OF THE
+- CODIFIED ORDINANCES; AND DECLARING AN
+- Brief Description: The ordinance amends Chapter 478 and addresses
+- concerns raised prior to Ordinance No. 25-119 and new issues that
+- Ordinance No. 25-119
+- Codified Ordinance Chapter 478 Current
+- Proposed Changes to Codified Ordinance 478 side by side (updated
+- Ordinance No. 26-113
+- Chief Tabak provided background information related to the current ordinance in place and the reason for the
+- proposed changes. Council discussion followed that included requirements to have a license, insurance, limit on
+- speed, prohibiting vehicles on state routes, penalty for not following the ordinance, and prohibiting vehicles
+- Brief Description: City staff will present and update on the project and
+- CC Site Plan Posters - July 1
+- upcoming opportunities for public input, additional amenities residents are requesting, and the timeline for
+- meetings with Boards and Commissions as well as City Council. Council discussion followed
+
+## [hudson#1] 2026-08-04 | Planning Commission  | agenda
+- 1140 Terex Road
+- Subcommittee meeting to review Section 1204.02 - Planned Developments within the Land
+- Development Code. The meeting will occur on the first floor Board Room
+- III. Work Session/Discussion
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#2] 2026-08-10 | City Council Workshop | minutes
+- 1140 Terex Road
+- Others & Staff in Attendance: Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development
+- Director; Mr. Sugar, City Planner; Ms. Fernandez, Community Project Planner; Mr. Thomas, Assistant City
+- Discussion Items3
+- A. 26-0062 Clinton Crossing Development Discussion
+- session to review the Clinton Crossing development and the plan review
+- Clinton Crossing - 3 Refined Site Plans Packet
+- Comprehensive Plan Information
+- Mr. Sugar commented on the Comprehensive Plan as the framework for the land uses at this site and
+- emphasized its alignment in guiding future development . He explained the definitions of a Concept Plan Review
+- and a Planned Development Review, noting that a Planned Development Review may be a better fit for this
+- project and allow for easier tracking by the public . He further discussed the architectural design of the
+- Ms. McCoy noted her involvement as a member of the Comprehensive Plan Steering Committee and cautioned
+- against building apartments at the site, as this type of housing was not preferred by the community . She also
+- apartments, Mr. Sugar indicated that duplexes, quads, and apartments did not receive favorable public
+- feedback. Mr. Hannan commented on the intent to focus on a process discussion initially, but added that
+- Dr. Weinstein clarified that the public was able to select pieces of each plan they preferred and that then would
+- help develop a final plan
+- Ms. Obert asked when a determination would be made if the application would be for a Concept Review Plan or
+- Planned Development. Mr. Sugar responded that the decision would be made when there is a single concept
+- plan and it can be reviewed in a pre-application meeting . Ms. Obert further stated that the subcommittee has
+- met to discuss Planned Development language in the Land Development Code, and requested direction from
+- pattern book. Ms. De’Eramo requested clarification on architectural pattern books and Mr . Sugar noted that it
+- Further discussion followed regarding the Request for Qualifications ( RFQ) and Request for Proposals (RFP)
+- Responding to a question, Mr. Griffith stated that the final plan will be presented to Bricker Graydon Wyatt LLP
+- plans, stating that for residential, the preference was for Plan #1, including single family homes, townhomes,
+- and duplexes and that this was overall preferred use plan . The plan also featured a market hall and community
+- center. Plan #3 was preferred for non-residential uses, which included a boutique hotel and market hall . She
+- also discussed residents' preferred amenities, future hopes for the space, and the importance of recovering the
+
+## [hudson#3] 2026-08-11 | City Council | minutes
+- 27 East Main Street
+- Clerk of Council; Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development Director; Mr
+- Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; Mr. Ferda, HCTV
+- Production Assistant; and Mr. Tabak, Police Chief
+- Approval of the Minutes4
+- Council’s review and approval
+- Public Comments5
+- Mr. Ryan Beam, 2633 Hudson Aurora Road, stated that the proposed residential component for Clinton
+- Mr. Kent Cleveland, 71 Keswick Dr., requested Council to leave the low-speed vehicle legislation as-is
+- Several Councilmembers praised the ribbon-cutting event of the DREAM Playground at Oak Grove Park, as
+- Mr. Sheridan stated that fire renovations and full-time staffing should begin before the end of August,
+- renovations at EMS will begin in September, and an open house for the Hines Hill Road Railroad Bridge project
+- Appointments8
+- A. 26-113 AN ORDINANCE AMENDING CHAPTER 478 OF THE
+- CODIFIED ORDINANCES; AND DECLARING AN
+- Brief Description: The ordinance amends Chapter 478 and addresses
+- concerns raised prior to Ordinance No. 25-119 and new issues that
+- Ordinance No. 25-119
+- Codified Ordinance Chapter 478 Current
+- Proposed Changes to Codified Ordinance 478 side by side (updated
+- Ordinance No. 26-113
+- Mayor Anzevino read the title of Ordinance No. 26-113, which constituted its first reading
+- consider the sale or other transfer of real property and matters that are required to be kept
+- the City Solicitor, the Community Development Director, the City Engineer, the Assistant City
+- Discussion Items15
+- A. 26-0064 Brandywine Creek Watershed Study - Model and Final Draft Report
+- the Brandywine Creek Watershed Study development, findings and
+- Exhibit - Brandywine Crk Watershed Presentation 8-11-26Attachments:
+- the Brandywine Creek Watershed Study. Mr. Rufener discussed the study area, why the study was needed,
+- existing conditions, and a recommended ranking of capital projects . Discussion followed regarding how the
+- ranking list was determined, the impact of what residents can do, storm frequencies, and the budget process
+- This matter was discussed
+- B. 26-115 AN ORDINANCE ENACTING SECTION 11 OF CHAPTER 1419,
+- CONSTRUCTION,” AND AMENDING SECTION 1016.04(p) AND
+- SECTION 1 OF CHAPTER 1419 OF THE CODIFIED ORDINANCES
+- Ordinance No. 26-115
+- Mr. Sheridan explained the reasoning behind the ordinance . Mr. Kosco explained the horizontal directional
+- requirements, vacuum excavating, utility safety implementations, and a field checklist . Discussion followed
+- regarding the time and cost implications to the existing Velocity Broadband implementation schedule, whether
+
+## [hudson#4] 2026-08-12 | Architectural & Historic Board of Review | minutes
+- 27 East Main Street
+- Public CommentIII
+- Chair Caputo opened the meeting to public comments for anyone wanting to address the
+- Consent ApplicationsIV
+- Agenda be approved. The motion carried by the following vote:
+- AHBR 26-1034258 N Main Street (Historic District)
+- 258 N Main Street - AHBR Packet Fence 8.12.2026Attachments:
+- Approved on the Consent Agenda
+- AHBR 26-939 7555 Huntington Road
+- Ms. Coffman introduced the application by displaying and describing the project and
+- Application be approved. The motion carried by the following vote:
+- AHBR 2026-400258 North Main Street (Historic District)
+- 258 N Main Street - AHBR Packet 8.12.2026
+- 258 N Main Street - Previoulsy approved plans
+- Ms. Coffman introduced the application by displaying and describing the project, noting that
+- the AHBR approved the original application on May 13, 2026. She explained that the
+- applicant is now requesting a design change and reviewed the staff comments
+- requirement for additional fenestration. The Board also discussed changing the blank panels
+- Application be approved as amended with an additional window and lap siding in place
+- AHBR 2026-878263 N Main Street (Historic District)
+- 263 N Main Street - AHBR PacketAttachments:
+- Ms. Coffman introduced the application by displaying photos of the deck, noting that the
+- 43 Wellgate Dr - Previously Approved Plans
+- Ms. Coffman introduced the application by displaying the site plan, noting that the plan was
+- originally approved at the June 24, 2026, meeting, that revised plans have since been
+- noted that the house sits a considerable distance from the road
+- AHBR 26-10256306 Stone Road
+- 6306 Stone Road - AHBR Packet 8.12.2026Attachments:
+- Ms. Coffman introduced the application by displaying the site and reviewing the details of the
+- comments, including that the lot will be split and purchased by the neighboring property
+- Historic Board of Review concludes the structure at 6306 Stone Road does not possess
+- for a permit to demolish these structures will not voluntarily consent to their retention
+- The finding was approved by the following vote:
+- Alteration (Shake Siding Application)
+- Application be continued. The motion carried by the following vote:
+- AHBR 26-10322595 Barlow Road
+- Ms. Coffman introduced the application by displaying the site plan, describing the project,
+- The Board, applicants, and staff discussed that the barn doors will typically remain open,
+- which may eliminate the need for additional fenestration. They also discussed the possibility
+- application be approved as amended, with trim to match around the doors and
+
+## [hudson#5] 2026-08-18 | City Council | minutes
+- 27 East Main Street
+- Clerk of Council; Mr. Hannan, Community Development Director; Mr. Knoblauch, Assistant City Manager
+- Financial/Special Projects; Mr. Ferda, HCTV Production Assistant; and Mr. Tabak, Police Chief
+- Approval of the Minutes4
+- Council’s review and approval
+- Honorary Resolutions5
+- A. 26-114 AN HONORARY RESOLUTION DESIGNATING THE CROSSWALK
+- AT NORTH HAYDEN PARKWAY AND VICTORIA PARKWAY AS
+- “CLARK RUMISER CORNER” AS AN HONORARY STREET
+- guard in the City of Hudson, with an honorary street name sign at the
+- intersection of North Hayden Parkway and Victoria Parkway
+- Honorary Resolution No. 26-114Attachments:
+- Public Comments6
+- 11 and those would be addressed. He also noted that he requested a discussion on the process regarding
+- referendums, however, this issue requires a charter amendment and would be revisited at the next Charter
+- Ms. D'Eramo echoed comments about the E-Bike forum, as well as a reminder regarding the Plan and Play Day
+- Mayor Anzevino addressed Mr. Ravida's comments, stating that a license agreement may be a solution for him
+- announced that Fire & EMS are 24/7 as of Monday; the Senior Van service will start September 2, with two
+- events taking place on August 26 and September 9 to learn more; and that the excess carryover discussion will
+- Appointments9
+- There were no appointments made, however, Dr. Bird announced that applications would be accepted for terms
+- Board of Zoning and Building Appeals, and HCTV Advisory Committee
+- Approval of the Consent Agenda
+- Motion No. 26-0067 was approved on the Consent Agenda
+- A. 26-113 AN ORDINANCE AMENDING CHAPTER 478 OF THE
+- CODIFIED ORDINANCES; AND DECLARING AN
+- Brief Description: The ordinance amends Chapter 478 and addresses
+- concerns raised prior to Ordinance No. 25-119 and new issues that
+- Bird Amendment 9-1-2026
+- Sutton Amendment 9-1-2026
+- Sutton Amendment 8-25-2026
+- Ordinance No. 25-119
+- Codified Ordinance Chapter 478 Current
+- Proposed Changes to Codified Ordinance 478 side by side (updated
+- Ordinance No. 26-113
+- Mayor Anzevino read the title of Ordinance No. 26-113, which constituted its second reading
+- B. 26-115 AN ORDINANCE ENACTING SECTION 11 OF CHAPTER 1419,
+- CONSTRUCTION,” AND AMENDING SECTION 1016.04(p) AND
+- SECTION 1 OF CHAPTER 1419 OF THE CODIFIED ORDINANCES
+- Ordinance No. 26-115
+- Mayor Anzevino read the title of Ordinance No. 26-115, which constituted its first reading
+- Mr. Brezovec offered a motion to suspend the rules and pass Ordinance No . 26-115, as he does not anticipate
+- three readings on Ordinance No. 26-115. The motion failed by the following vote:
+- discuss pending court action and matters required to be kept confidential by law. Invited to this
+
+## [hudson#6] 2026-08-20 | Board of Zoning & Building Appeals | minutes
+- Board of Zoning & Building Appeals
+- 27 East Main Street
+- Chair Bronstein called to order the regularly scheduled meeting of the Board of Zoning & Building Appeals at
+- Identification, by Chairman, of City Staff.III
+- Approval of MinutesV
+- BZBA 6.18.26 Minutes of Previous Board of Zoning & Building Appeals Meeting: June 18,
+- approved as submitted. The motion carried by the following vote:
+- BZBA 7.16.26 Minutes of Previous Board of Zoning & Building Appeals Meeting: July 16,
+- August 20, 2026Board of Zoning & Building Appeals Meeting Minutes - Final
+- Public Hearings - Old BusinessVI
+- BZBA 26-38 The subject of this hearing is a request for three variances in order to
+- Hudson Land Development Code
+- 2. A variance of twenty-seven ( 27) feet
+- Development Code
+- 3. A variance of fifty ( 50) feet from the
+- resulting in a setback of zero ( 0) feet
+- The applicant is Matthew Neff of 6830 Chaffee Court, Brecksville, Ohio
+- The applicant requested that the hearing be continued to the September 17, 2026, BZBA meeting
+- Public Hearings - New BusinessVII
+- BZBA 26-906 The subject of this hearing is a request for an appeal, pursuant to Section
+- Historic Board of Review (AHBR) on June 12, 2026, for a request for an
+- 44203. The property owner is Declan Thomas LTD, 88 N Main Street,
+- Ms. Rodack introduced the appeal by identifying the property’s location and explaining that the door in question
+- was installed without a permit, which is required in the Historic District. She noted that the case appeared before
+- Mr. Joe Kernan, attorney for the appellant, asked whether the application would be remanded back to the AHBR
+- hearings must be open to the public except for specific, limited exceptions. He explained that he did not believe
+- any applicable exception justified the Executive Session and reviewed the allowable reasons and requirements
+- on the merits of the case. Mr. Kernan responded that if the Board wished to consider the merits, he would request
+- The Board discussed potential outcomes and agreed that the merits of the case should ultimately be heard. They
+- also requested guidance from the City Solicitor and staff regarding the legality of the Executive Session. Solicitor
+- Chair Bronstein clarified that the appellant was requesting either a remand or a continuance. The Board
+- discussed whether new evidence could be submitted and whether the issues should be separated so that the
+- legality of the Executive Session could be addressed before considering the merits of the case. The Board also
+- discussed potential remedies for an improper Executive Session, and Mr. Kernan noted that payment of legal fees
+
+## [hudson#7] 2026-08-24 | Planning Commission  | minutes
+- 27 East Main Street
+- Mr. Sugar stated that the application previously appeared before the Planning Commission for Concept Site Plan
+- The Subcommittee, applicant, and staff discussed the wrapping on the six-inch columns; the sign and columns,
+- Mr. Workley moved, and Ms. Marzulla seconded, to approve the application with the following
+- conditions: staff approval of the corner boards; a satin or flat fabric finish for the awnings;
+- approval of the columns' size and material; and a subdued color for the front-elevation sign
+- Approval of MinutesV
+- approved as amended. The motion carried by the following vote:
+- Public DiscussionVI
+- Chair Obert opened the meeting for Public Discussion on any item not on the agenda
+- Ms. Melissa Jones, of 2233 Ravenna Street, expressed her objection to Council's consideration of Canterbury
+- Crossing Development to proceed outside the Planning Commission process and the requirements of the Land
+- Development Code
+- Seeing no others coming forward for Public Discussion, Chair Obert closed Public Discussion
+- This matter was discussed
+- of the final plan for Clinton Crossing. Ms. Obert additionally noted that the All-Inclusive Playground has opened
+- and is a successful project in which the Planning Commission played a role
+- Old Business (including continuation of public hearings)VIII
+- New Business (including public hearings)IX
+- A. PC 2026-916 A Major Site Plan and Conditional Use request for construction of a day care
+- Planning Commission Decision - Concept Site Plan
+- Improvement Plans
+- Lighting Plan
+- Stormwater Report
+- Fire Department Review
+- Project Timeline
+- Mr. Sugar introduced the application by Crosslands Companies for a 10,000-square-foot building in District 6 on
+- 2.7 acres. He noted that the project requires both a Conditional Use Review and a Major Site Plan Review. The
+- 13 items identified at the previous Planning Commission meeting were reviewed along with the applicant’s
+- recommends approval and outlined the conditions that may be approved by staff. Staff additionally recommends
+- approval with further conditions, which he summarized
+- applicants stated that comments from earlier reviews have been incorporated into the revisions, that the team will
+- The Commissioners, applicant, and staff discussed the State of Ohio licensing process, fencing, and landscaping
+- Mr. Sugar reviewed the applicable parking and landscaping codes and requirements. The applicant noted that
+- parking has been shifted farther from the road which lowered the parking area and allows more practical
+- Discussion continued regarding a 12-inch HPD pipe that does not appear in any city or county records. The
+
+## [hudson#8] 2026-08-25 | City Council Workshop | minutes
+- 27 East Main Street
+- Community Development Director; Mr. Knoblauch, Assistant City Manager - Financial/Special Projects; Mr
+- Kosco, City Engineer; Mr. Ferda, HCTV Production Assistant; and Mr. Tabak, Police Chief
+- Zoning & Building Appeals meeting that was held on August 20 , 2026
+- Mr. Brezovec provided an update on the Park Board meeting that was held on August 24 , 2026 and read a letter
+- into the record from a resident regarding the Canterbury Crossing Development
+- Discussion Items3
+- Brief Description: This is a discussion with Council about the use of the
+- ordinance stating which, if any, existing unfunded infrastructure project(s)
+- a list for Council to consider
+- Connectivity Project list
+- Unfunded Capital Projects 2026-2030 Five Yr Plan
+- Broadband Fiber-to-the-Home project, and future storm water initiatives . Council’s discussion included
+- income tax revenue following the departure of JoAnn Stores, and the potential inclusion of the Barlow Road
+- additional Fiber-to-the-Home costs, and to reduce the allocation for storm water projects to allow for design
+- work on the Barlow Road Sidewalk Project
+- This matter was discussed
+- B. 26-0068 2026-2030 Walk and Bike Plan Ranking System
+- Brief Description: City Council has requested a discussion regarding the
+- methodology used within the plan to prioritize future sidewalk segments for
+- Walk and Bike Plan 2026-2030 - AdoptedAttachments:
+- Dr. Bird explained that the ranking system for the Walk and Bike Plan was established a couple of years ago
+- considered. Council discussed informing residents that if they would like their sidewalk installed sooner, the
+- City offers an assessment option in which residents cover the project cost . Mr. Sheridan said he will forward
+- Liquor Control Indicating No Request for a Hearing Regarding a New
+- Permit to Sell Alcoholic Beverages for Ohio CVS Stores LLC, CVS
+- Pharmacy 4359, 5783 Darrow Road, Hudson
+- Control concerning the opportunity to request a hearing regarding this permit
+- CVS Pharmacy Liquor Permit NoticeAttachments:
+- This Motion was forwarded for further consideration at the September 1, 2026, Council
+- B. 26-116 A RESOLUTION ACCEPTING THE AMOUNTS AND RATES AS
+- DETERMINED BY THE BUDGET COMMISSION AND
+- AUTHORIZING THE NECESSARY TAX LEVIES AND CERTIFYING
+- Brief Description: Each year the City is required to pass a resolution
+- accepting the property tax amounts and rates as determined by the County
+- Budget Commission
+- Resolution No. 26-116
+- Mr. Knoblauch provided an explanation on this Resolution
+- This Resolution was forwarded for further consideration at the September 1, 2026, Council
+
+## [hudson#9] 2026-08-26 | Architectural & Historic Board of Review | minutes
+- 27 East Main Street
+- Public CommentIII
+- Chair Caputo opened the meeting to public comments for anyone wanting to address the
+- Consent ApplicationsIV
+- Chair Caputo noted Consent Applications have been reviewed by Board members and staff
+- and have been found ready for a Certification of Appropriateness
+- AHBR 2026-943180 Aurora Street (Historic District)
+- 180 Aurora Street - AHBR PacketAttachments:
+- This AHBR agenda item was approved on the Consent Agenda
+- AHBR 26-105689 First Street
+- 89 First Street - AHBR PackageAttachments:
+- Alteration (Shake Siding Application)
+- Ms. Coffman stated the application has withdrawn
+- 1436 Plantation Drive - Previously Approved Plans
+- Ms. Coffman introduced the application by displaying and describing the project while noting
+- it was approved by AHBR on February 11 2026, and the applicant is now seeking revisions
+- request has not been previously approved. The Board had no objections to the roof changes
+- Application be approved as amended to allow vertical siding on the front door area
+- AHBR 26-10677604 Hudson Park Dr
+- 7604 Hudson Park Dr - AHBR PacketAttachments:
+- Ms. Coffman introduced the application by presenting the project overview and reviewing the
+- The Board, staff, and applicant then discussed the potential purpose of that proposed wall,
+- the proposed Azek siding and expressed general approval of the panels
+- be approved. The motion carried by the following vote:
+- Ms. Coffman introduced the application by displaying the site and reviewing the staff
+- made and the path of the water off the house
+- The Board, applicant, and staff discussed the roof plan
+- Application be . The motion carried by the following vote:
+- AHBR 26-945 86 Owen Brown Street
+- 86 Owen Brown Street - AHBR Packet
+- 86 Owen Brown Street - Site Plan Submittal
+- Mr. Sugar opened the discussion by noting that AHBR conducted an informal review on July
+- meetings, that the site plan was publicly available, and that staff comments were under review
+- outlining existing development conditions, a site overview, and the previously reviewed
+- conceptual design. He explained that the project had been reduced from 22 to 18 units,
+- creating more breaks between buildings and fewer street-facing facades. He also noted that
+- the BZBA granted two sets of variances. His presentation covered the landscape plan, the
+- surrounding neighborhoods, and Fairmont’s broader vision for Clinton Corners
+- Renderings of the proposed development, photographs of nearby structures, and a summary of
+- how AHBR’s informal comments were incorporated were included. Mr. Fishman also
+
+## [hudson#10] 2026-08-31 | Planning Commission  | agenda
+- 27 East Main Street
+- To discuss pending litigation pertaining to Planning Commission business
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#11] 2026-09-01 | City Council | minutes
+- 27 East Main Street
+- Production Assistant; and Mr. Tabak, Police Chief
+- Approval of the Minutes4
+- Council’s review and approval
+- training to help adults identify and respond to signs of a mental health challenge . Mayor Anzevino also noted
+- Public Comments6
+- Ms. Jessica Cleveland, 71 Keswick Dr., commented on Ordinance No. 26-113, low-speed vehicles. She stated
+- that she appreciated the amendments to allow crossing short distances in order to connect to another 25 MPH
+- roadway, but her concern is prohibition to travel on 35 MPH roads altogether . She further suggested that
+- Council should consider requiring proper equipment, rather than where motorists should travel and during
+- Ms. Melissa Jones, 2233 Ravenna St., stated concerns about Resolution No. 26-118, the Prestige Builder Group
+- settlement, as a property owner that is adjacent to the project, specifically citing water run-off and its impact to
+- Ms. Debra Petersilge, 58 Prescott Dr., spoke in regards to Resolution No. 26-118, asking why Council has
+- jurisdiction to consider the settlement over Planning Commission, stating that it would allow Prestige to ignore
+- laws in the Land Development Code, and the justification to vote if campaign contributions were received by the
+- Ms. Hayley Arnold, 6378 Canterbury Dr., echoed remarks of previous speakers regarding Resolution No
+- 26-118 to support adherence to the Land Development Code, and urged Council to not be pushed around by
+- priority is that the Land Development Code is applied fairly and procedures are followed . She also thanked
+- Appointments9
+- There were no appointments made, but Dr. Bird announced that Council is accepting applications for Cemetery
+- Board, Environmental Awareness Committee, Planning Commission, Board of Zoning and Building Appeals,
+- Approval of the Consent Agenda
+- Liquor Control Indicating No Request for a Hearing Regarding a New
+- Permit to Sell Alcoholic Beverages for Ohio CVS Stores LLC, CVS
+- Pharmacy 4359, 5783 Darrow Road, Hudson
+- Control concerning the opportunity to request a hearing regarding this permit
+- CVS Pharmacy Liquor Permit NoticeAttachments:
+- Motion No. 26-0071 was approved on the Consent Agenda
+- B. 26-116 A RESOLUTION ACCEPTING THE AMOUNTS AND RATES AS
+- DETERMINED BY THE BUDGET COMMISSION AND
+- AUTHORIZING THE NECESSARY TAX LEVIES AND CERTIFYING
+- Brief Description: Each year the City is required to pass a resolution
+- accepting the property tax amounts and rates as determined by the County
+- Budget Commission
+- Resolution No. 26-116
+- Resolution No. 26-116 was approved on the Consent Agenda
+
+## [hudson#12] 2026-09-01 | Planning Commission  | agenda
+- 27 East Main Street
+- Subcommittee meeting to review Section 1204.02 - Planned Developments within the Land
+- Development Code. The meeting will occur in the Board room on the first floor
+- III. Work Session/Discussion
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#13] 2026-09-08 | City Council Workshop | minutes
+- 27 East Main Street
+- Others & Staff in Attendance: Mr. Sheridan, City Manager; Mrs. Behnke, Economic Development Manager; Mr
+- Griffith, Assistant City Manager; Mr. Hannan, Community Development Director; Mr. Knoblauch, Assistant
+- City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; and Mr. Ferda, HCTV Production
+- the Park Board supports showcasing the Bird Song Project in various parks, and he will continue collaborating
+- with Mayor Anzevino and Door 2 Art Studio to plan for its installation in 2027
+- Mr. Todd Zedak regarding the Canterbury Meadows Development
+- Discussion Items3
+- A. 26-0072 Hudson Innovation Park Update
+- regarding Hudson Innovation Park (996 Hines Hill Road)
+- Mrs. Behnke provided an update on the Hudson Innovation Park which included the relocation of the salt barn,
+- excess soil currently on site, property tax abatement options, improvements to Hines Hill Road between SR 8
+- Council requested a document detailing what a property tax abatement would entail for this property, along
+- with the estimated costs for the recommended improvements to Hines Hill Road
+- This matter was discussed
+- Brief Description: Review of the Clinton Crossing site plan advancement
+- Clinton Crossing concept plan 9.3.26
+- Mr. Hannan provided an update on the proposed Clinton Crossing as well as the next steps . Council discussion
+- operating model for the Market Hall, use of a single or multi-developer, affect of proximity of railroad tracks,
+- Mr. Knoblauch noted HCTV franchise fees continue to decline and income tax revenue through August is above
+- General Fund. He further noted that there will be a separate discussion during budget discussions on this topic
+- This Motion was forwarded for further consideration at the September 15, 2026, Council
+- B. 26-120 A RESOLUTION AUTHORIZING THE CITY MANAGER TO
+- ADVERTISE FOR BIDS, ENTER INTO A CONTRACT, AND
+- APPROVE THE PRE-PURCHASE OF RETAINING WALL BLOCKS
+- PHASE 2 PROJECT; AND DECLARING AN EMERGENCY
+- perimeter due to wave action. In 2024, the westerly 600 feet of the pond had a
+- retaining wall installed near the green of the 17th hole. This project will
+- Resolution No. 26-120
+- Mr. Kosco explained the purpose of the project and noted that this project, along with the storm water
+- management item also listed on the agenda, will be bid at the same time
+- This Resolution was forwarded for further consideration at the September 15, 2026, Council
+- C. 26-121 A RESOLUTION AUTHORIZING THE CITY MANAGER TO
+- ADVERTISE FOR BIDS AND TO ENTER INTO A CONTRACT FOR
+- THE ELLSWORTH MEADOWS GOLF COURSE STORM WATER
+
+## [hudson#14] 2026-09-09 | Architectural & Historic Board of Review | agenda
+- 27 East Main Street
+- III. Public Comment
+- IV. Consent Applications
+- 290 N Main Street (Historic District)
+- a) Staff recommends approval as submitted
+- 290 N Main Street -AHBR PacketAttachments:
+- 134 Aurora Street (Historic District)
+- 134 Aurora Street - AHBR PacketAttachments:
+- 86 Owen Brown Street
+- a) Staff notes this application was continued from the August 26, 2026 AHBR
+- meeting. The site plan will be reviewed by Planning Commission at the
+- primarily requesting the Board’s verification of the revised Owen Brown
+- Street unit, remaining 3 story units, and overall massing
+- appropriate, staff recommends the Board consider a motion to approve the
+- b) Staff notes that the previous the building demolition items were approved
+- as part of the previous application
+- application for a permit to demolish the structure will not voluntarily
+- 5 Baldwin Street (Historic District)
+- a) Appendix 1 (6) of the Secretary of Interior Standards state “deteriorated
+- b) Staff suggests the applicant take this meeting to discuss the proposed
+- project with the Board and verify the scope of work
+- d) Staff notes the applicant is seeking approval for JELD-WEN Siteline series
+- proposed window series is not currently included on the AHBR-approved
+- 5 Baldwin Street - AHBR PacketAttachments:
+- be at a maximum of approximately every 12 feet. Revise left elevation to
+- a) Verify grade line is accurately depicted on submitted elevations
+- proposed stone be reduced to depict a consistent water table around the
+- be at a maximum of approximately 12 feet. Question if additional
+- projections should match the roof material of the building (unless both
+- a) Staff notes the applicant is requesting that Lincoln Windows be considered
+- for inclusion on the AHBR’s list of approved window products for the
+- proposed windows for the Boards consideration
+- Design Review Presentation
+- AHBR discussion on draft Design Standards update
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#15] 2026-09-10 | Planning Commission  | agenda
+- 1140 Terex Road
+- Subcommittee meeting to review Section 1204.02 - Planned Developments within the Land
+- Development Code. The meeting will occur in the Board room on the first floor
+- III. Work Session/Discussion
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#16] 2026-09-14 | Planning Commission  | agenda
+- 27 East Main Street
+- Previous Approved Elevations and Materials
+- V. Approval of Minutes
+- VI. Public Discussion
+- VIII. Discussion Item
+- Planning Commission discussion of the Prestige Settlement Agreement
+- IX. Old Business (including continuation of public hearings)
+- A Major Site Plan review for a 18 unit townhome development
+- Improvement Plans
+- Photometric Plan
+- Landscaping Plan
+- Sequencing, Staging, and Delivery Plan
+- Stormwater Report
+- Public Comment
+- PC Decision - Concept Plan
+- A Major Site Plan request for construction of a day care
+- Civil Site Plans (Updated)
+- Landscaping Plan (Updated)
+- Photometric Plan (Updated)
+- Fire Department Review (Updated)
+- Stormwater Management Report
+- Project Timeline
+- PC Decision - Concept Site Plan Approval
+- X. New Business (including public hearings)
+- A. PC 2026-1129 A Major Site Plan request for Standard Shop Company, an industrial business
+- park. The request was previously approved; however, is still under construction
+- with approvals expiring in October of 2026
+- Survey/Civil Site Plan
+- Elevations/Floor Plan
+- Phasing Plan
+- Other Agency Approvals
+- Planned Development Subcommittee Update/Recommendation to Council
+- Public Hearings by the Commission will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Commission
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#17] 2026-09-15 | City Council | minutes
+- 27 East Main Street
+- Clerk of Council; Mr. Griffith, Assistant City Manager; Mr. Hannan, Community Development Director; Mr
+- Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Ferda, HCTV Production Assistant; and
+- Mr. Tabak, Police Chief
+- Approval of the Minutes4
+- Council’s review and approval
+- A. 26-0075 Special Recognition of The 2026 Mighty Vincent Project
+- Mighty Vincent Project 2026Attachments:
+- Councilmembers and Mayor Anzevino praised The Mighty Vincent Project for its work in the community
+- Public / Legislative Hearing6
+- A. 26-118 A RESOLUTION AUTHORIZING A SETTLEMENT OF THE
+- MEADOWS DEVELOPMENT
+- Settlement Agreement and Release with Prestige Builder Group, LLC, George
+- Prestige-Canterbury Farms, LLC concerning the proposed development of
+- approximately 94.56 acres located on Ravenna Street and Stow Road
+- The Settlement Agreement resolves pending litigation and a multi-million
+- the terms for the now-compliant development of the property as a 32-lot
+- in accordance with the September 12, 2025 Preliminary Plan reviewed by the
+- Exhibit A: Settlement Agreement
+- Canterbury Meadows Public Hearing Comments and Responses 9-18-2026
+- Resolution No. 26-118
+- The public hearing opened at 7:54 p .m
+- Mayor Anzevino described the order of events for the public hearing
+- presented findings of the proposed plan and how it complies with the Land Development Code . Their research
+- indicated that the proposed plan complies with the Land Development Code (LDC) requirements, the LDC's
+- subdivision ordinances, and the Open Space Conservation Subdivision requirements compel better design than
+- what would be allowed with conventional single-family residential development in the Rural Residential Zone
+- Mr. Brezovec asked the consultants what reason a developer would choose a conservation plan instead of use by
+- market demands, and other projects that developers may be involved in within the same community . He later
+- asked if there is anything in the LDC that would suggest that the proposed plan be altered or denied . Ms
+- discussion and to explain the Constitutional claim . Mr. Cicero said that a hardship Constitutional claim was
+- legal counsel. The process was triggered not by Council, but by the application for a hardship takings claim by
+- Dr. Weinstein asked Ms. Sillman what happens if the proposed development is considered a use by right instead
+- Testimonies from property owners within 300 feet
+- Stockman, Frantz Ward LLP, stated that the settlement agreement conflicts with State and local law, creates a
+- pay-to-play precedent, and abandons the rule of law; discussed the Planning Commission's authority over
+
+## [hudson#18] 2026-09-16 | Board of Zoning & Building Appeals | agenda
+- Board of Zoning & Building Appeals
+- 27 East Main Street
+- III. Identification, by Chairman, of City Staff
+- V. Approval of Minutes
+- BZBA 8.20.26Minutes of Previous Board of Zoning & Building Appeals Meeting: August 20,
+- VI. Public Hearings - Old Business
+- September 16, 2026Board of Zoning & Building Appeals CD Meeting Agenda - Final
+- BZBA 26-38 The subject of this hearing is a request for three variances in order to
+- Hudson Land Development Code
+- 2. A variance of twenty-seven ( 27) feet
+- Development Code
+- 3. A variance of fifty ( 50) feet from the
+- resulting in a setback of zero ( 0) feet
+- The applicant is Matthew Neff of 6830 Chaffee Court, Brecksville, Ohio
+- 7/16/26 Board of Zoning & Building
+- 8/20/26 Board of Zoning & Building
+- VII. Public Hearings - New Business
+- The subject of this hearing are the following variance requests relevant to
+- 1. A variance request to allow an in-ground pool, an accessory
+- Development Code prohibits accessory structures from being
+- “Accessory Uses /Structure - Accessory Use Development and
+- Operation Standards” of the City of Hudson Land Development
+- 2. A variance request to permit an in-ground pool in the side yard
+- The applicant is Scott Laing of 31225 Bainbridge Road, Suite G, Solon, Ohio
+- The subject of this hearing is a request for the expansion of a
+- nonconforming structure to permit a garage addition and driveway
+- The applicant is Hallie Bowie of 1867 Brookshire Road, Akron, Ohio 44313
+- The subject of this hearing is a variance request to exceed the maximum
+- allowable parking spaces for office, business or professional uses pursuant
+- to section 1207.12(f), “Off-street Parking and Loading Requirements
+- Parking Space Requirements .” The request is related to the construction
+- The applicant is Leon Sampat of 22082 Lorain Road, Fairview Park, Ohio
+- Public Hearings by the Board will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Board
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#19] 2026-09-22 | City Council Workshop | minutes
+- 27 East Main Street
+- Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; Mr. Ferda, HCTV
+- Production Assistant; and Mr. Tabak, Chief of Police
+- contacted the resident on Stow Road who was affected by the sewer backup resulting from the Summit County
+- sewer line break
+- Mr. Brezovec provided an update on the Park Board meeting that was held on September 21 , 2026, as well as
+- the status of the Fiber to the Home project. He further stated that discussion regarding Summit County moving
+- forward with Maple Grove Park will be brought before Council in the coming weeks
+- kindness rocks. He wished Oran Wagner a happy 100th birthday and noted that the Kiwanis will celebrate their
+- Walk will take place on Saturday, September 26 at Wood Hollow Metro Park, and that local band Clock Tower
+- Challenge Award for August. Additionally, he read a letter into the record from Tom Mayor of 7153 Valley View
+- Road regarding the Prestige Settlement Agreement
+- Dr. Bird thanked city staff for compiling the responses and information following the Public Hearing on the
+- Discussion Items3
+- Brief Description: Staff would like to discuss with Council restricting truck
+- measures. In response to a request to explore options for improving the turn radius at the SR 91 and SR 303
+- This matter was discussed
+- B. 26-0081 W. Barlow Road Railroad Exemption
+- Brief Description: Staff would like to discuss with Council the desire to
+- formally request an exemption for the W. Barlow Road railroad tracks
+- Barlow Road RR ExemptAttachments:
+- Mr. Kosco provided an explanation on the reason for this exemption request and the process to make it exempt
+- Council was in agreement with moving forward with the exemption, with legislation appearing on the next
+- C. 26-132 A RESOLUTION AUTHORIZING THE CITY MANAGER TO
+- BID AND AWARD FOR THE PRINTING SERVICES FOR THE
+- Brief Description: This request is to enable the Communications
+- Department to bid and award a multi-year printing and mailing service
+- Resolution No. 26-132
+- year, and asked Council whether they wished to maintain that frequency or consider increasing it . Council’s
+- discussion included possible renaming of the newsletter, staff capacity if the number of issues were expanded,
+- A. 26-131 A RESOLUTION AUTHORIZING THE CITY MANAGER TO
+- ADVERTISE FOR BIDS AND TO ENTER INTO CONTRACTS FOR
+- Brief Description: This project will include the installation of an asphalt pad
+- Resolution No. 26-131
+- Mr. Kosco provided details regarding this project, and Mr . Sheridan provided information on why this location
+
+## [hudson#20] 2026-09-23 | Architectural & Historic Board of Review | agenda
+- 27 East Main Street
+- III. Public Comment
+- IV. Consent Applications
+- 5 Baldwin Street (Historic District)
+- a) Staff notes this application was continued at the September 9, 2026 AHBR
+- depicting a more consistent window design for the Boards consideration
+- d) Appendix 1 (6) of the Secretary of Interior Standards state “deteriorated
+- e) Staff notes the applicant is seeking approval for JELD-WEN Siteline series
+- proposed window series is not currently included on the AHBR-approved
+- 5 Baldwin Street - AHBR Packet 9.23.2026 meeting
+- 5 Baldwin Street - AHBR Packet
+- consideration
+- be at a maximum of approximately every 12 feet. Question if additional
+- 88 N. Main Street
+- Staff Memo - 88 N Main Street 9.23.2026 meeting
+- 88 N Main Street - AHBR Packet
+- 88 N Main Street - AHBR Findings of Fact
+- 88 N Main Street - BZBA Decision
+- c) Submit a roof plan
+- attached garages shall not face the street except for new development with
+- a front yard depth of 130 feet or more. Staff notes an existing front facing
+- garage would be rebuilt due to storm damage. Staff has determined a
+- Development Code. The garage door width would not be expanded
+- be at a maximum of approximately every 12 feet. Revise elevations to
+- Alteration (Siding Application and Window Replacement)
+- a) Staff notes the existing peaked dormer received administrative approval on
+- b) Upon final inspection, staff observed a deviation from the final approved
+- installed within the peaked dormer in place of the approved green shake
+- siding. The applicant has requested the AHBR consider the proposed
+- c) Staff suggests the applicant take this meeting to discuss the proposed
+- project with the Board and verify the scope of work
+- different material may be used on building projections gable ends,
+- 3 separate material applications within the existing dormers
+- 1330 Barlow Road - Previously Approved Plans
+- existing house has a forward projection; however, the proposal would
+- a) Staff notes this application received BZBA approval at the September 16,
+- elevations. Revise elevations to depict a consistent foundation height/water
+- a) Verify grade line is accurately depicted on submitted elevations
+- projections which extend out from the mass to which they are attached
+- more than five feet will be treated as wings, except for open porches, and
+- primary suite projection extends forward approximately 9 ft from the main
+- mass. Revise proposed projection to meet this requirement
+- on projections should match the roof material of the building (unless both
+- the property located at 86 Owen Brown Street, Hudson, OH 44236
+- 86 Owen Brown Street - Findings of FactAttachments:
+
+## [hudson#21] 2026-09-30 | Board of Zoning & Building Appeals | agenda
+- Board of Zoning & Building Appeals
+- 27 East Main Street
+- III. Identification, by Chairman, of City Staff
+- V. Approval of Minutes
+- VI. Public Hearings - New Business
+- The subject of this hearing is a request for the expansion of a
+- nonconforming structure to permit a side addition pursuant to section
+- The applicant is Kirk Hartung of 4034 Porter Road, Westlake, Ohio 44145
+- The property owner is Melissa Kass 31 Church Street, Hudson, Ohio 44236 for
+- September 30, 2026Board of Zoning & Building Appeals CD Meeting Agenda - Final
+- nonconforming structure to permit a front porch addition pursuant to
+- Public Hearings by the Board will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Board
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#22] 2026-10-06 | City Council | minutes
+- 27 East Main Street
+- Clerk of Council; Mr. Hannan, Community Development Director; Mr. Knoblauch, Assistant City Manager
+- Financial/Special Projects; Mr. Ferda, HCTV Production Assistant; Mr. Powell, Public Works Director; and
+- Mr. Tabak, Police Chief
+- Approval of the Minutes5
+- Council’s review and approval
+- Public Comments7
+- Ms. Caitlin Honniball, 2763 Middleton Road, spoke about leadership, professional courtesy, and the standard of
+- Ms. Kathy Russell spoke on behalf of the Hudson Beautification Initiative and a petition to expand the adopt-a
+- Ms. Lois James, former president of the Hudson Garden Club and current Hudson Beautification Initiative
+- stormwater run off and drainage of the proposed Canterbury Meadows development . He cited several concerns
+- regarding low-lying wetland areas, near-surface water tables, retention ponds with no storage capacity,
+- there has been no site specific hydrologic analysis, study of water run-off issues, financial risk analysis,
+- Mr. Tom Mayor, 7153 Valley View Dr., spoke in regards to the Land Development Code's intent to maximize the
+- Mr. Kent Cleveland, 71 Keswick Dr., commented on the proposed amendments for low speed vehicles, asking
+- about the rationale for lights if they cannot be operated at night, allowing travel for short distances on roads,
+- studies for the Prestige development would be done until after approval of the settlement, moreover, the last
+- geotechnical study that was done was unfavorable to the development . She further stated that the City's
+- posed several concerns regarding the Prestige development, including the purpose of the settlement, treating
+- both sides of Ravenna Street as one development, water drainage concerns, changes to the approved plan, and
+- development, questioning why Council was willing to settle and how, historically, the City has defended its
+- Ms. Nova Buchanan, 6312 Stow Rd., spoke against the Prestige development, citing her the constant running of
+- her sump pump due to the high water table and the precedent it sets for future developers
+- Board of Review to discuss the townhome project
+- Dr. Weinstein thanked residents who provided feedback, was excited to hear about the enthusiasm around the
+- processes regarding County sewer lines
+- to reduce the City's risk of litigation in the future by identifying opportunities for improvement in the City's
+- of Hudson Parks will have a mindful hike at Cascade Park on October 11 and a dog walk on October 17
+- undergoing cancer treatment; and addressed Mrs . Honniball's public comments
+- Mr. Sheridan stated that the Prospect Street Turnpike bridge project would be completed by the end of the
+
+## [hudson#23] 2026-10-12 | Planning Commission  | agenda
+- 27 East Main Street
+- V. Approval of Minutes
+- VI. Public Discussion
+- VIII. Old Business (including continuation of public hearings)
+- A Major Site Plan request for Standard Shop Company, an industrial business
+- park. The request was previously approved; however, is still under construction
+- with approval expiring in October 2026
+- Survey/Civil Site Plan
+- Phasing Plan
+- Stormwater Report
+- Other Agency Approvals
+- IX. New Business (including public hearings)
+- A. CC INTRO City Staff will provide introduction to the Clinton Crossing Concept Site Plan
+- Draft Site Plan 10.7.26
+- Discussion of the Administrative Rules
+- Administrative Rules DiscussionAttachments:
+- Planning Commission Discussion of the Prestige Agreement
+- Reply to Public Hearing Response
+- Memo Response to PCs Request for Separate Legal Counsel
+- Discussion Item - Repeal of Chapter 1210
+- Public Hearings by the Commission will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Commission
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#24] 2026-10-13 | City Council Workshop | minutes
+- 27 East Main Street
+- Others & Staff in Attendance: Mr. Sheridan, City Manager; Mr. Hannan, Community Development Director;
+- Mr. Knoblauch, Assistant City Manager - Financial/Special Projects; Mr. Kosco, City Engineer; Mr. Ferda,
+- HCTV Production Assistant; Mrs. McKinley, Community Project Planner; Mr. Powell, Public Works Director;
+- schools, Police Chief and the Parks
+- honorary street sign on October 9. He also noted that he will be submitting his monthly article to Hudson Life
+- Discussion Items3
+- A. 26-0084 Land Development Code 2026-2027 Admin Amendments
+- LDC amendment memo 10.2.26
+- Appendix D - Design Standards Proposed Amendment
+- This matter was discussed
+- Brief Description: Staff have prepared an update on the project timeline and
+- attend to present project financials and potential public finance tools that
+- would support the project and the greater downtown area
+- Project Studies Overview
+- DT and Clinton Crossing Parking Study
+- Mr. Hannan and Mrs. McKinley provided an update on the project timeline as well as site studies that have been
+- Mr. Upton from Bricker Graydon Wyatt, presented project financials and an explanation on potential public
+- finance tools that included TIF Model, New Community Authorities, Special Improvement District or Business
+- Improvement District, and Downtown Redevelopment District
+- C. 26-0086 Capital Plan Review - 2027-2031 Five-Year Plan
+- Brief Description: Staff will present 2027-2031 Five Year Plan Capital for all
+- 2027 - 2031 Five Year Plan - Original Draft 10.13.26
+- Mr. Knoblauch presented an overview of the five-year capital plan, highlighting upcoming street improvements,
+- storm water initiatives, sidewalk connectivity and trail projects, as well as debt‑service commitments . Mrs
+- Tussey then reviewed the 2027 capital budget, outlining allocations for the following funds: Police, Street Trees,
+- Information Services, Public Properties, Street Maintenance and Repair, Cemetery, Parks, Hudson Cable TV,
+- Fire, EMS, Water, Electric, Golf, Broadband, Vehicle Maintenance, and Streets and Storm Water . The
+- discussion included clarification on several budgeted items, projections for income tax revenues, and an
+- analysis of how adding one or two sidewalk projects would affect fund balances over the five‑year period
+- This Motion was forwarded for further consideration at the October 20, 2026, Council meeting
+- 26-134B. AN ORDINANCE PERMITTING THE INSTALLATION AND
+- INTERSECTION OF E. STREETSBORO STREET (SR 303) AND N
+- HAYDEN PARKWAY PURSUANT TO SECTION 414.03(c)(4) OF THE
+- CODIFIED ORDINANCES; AND DECLARING AN EMERGENCY
+
+## [hudson#25] 2026-10-14 | Architectural & Historic Board of Review | agenda
+- 27 East Main Street
+- III. Public Comment
+- IV. Consent Applications
+- a) Staff recommends approval as submitted
+- 89 First Street
+- 89 First Street - AHBR PacketAttachments:
+- 88 N. Main Street (Historic District)
+- a) Staff notes this application was tabled at the September 23, 2026 AHBR
+- Additionally, staff reached out to these organizations separately and asked
+- requested the full responses be included with the agenda attachments
+- Staff Memo - 88 N Main Street 9.23.2026 meeting
+- 88 N Main Street - AHBR Packet
+- 88 N Main Street - AHBR Findings of Fact
+- 88 N Main Street - BZBA Decision
+- 190 N Main Street (Historic District)
+- b) Suggest the applicant reduce the number of colors incorporated into the
+- 31 Church Street (Historic District)
+- Addition (Covered Parking)
+- a) Staff notes this application received informal review at the August 12,
+- b) Staff notes this application received approval for a side yard setback
+- variance from the Board of Zoning and Building Appeals at the September
+- porch would be removed to accommodate the new proposed parking area
+- 198 Ravenna Street
+- be at a maximum of approximately every 12 feet. Revise left and right side
+- 37 S. Main Street (PNC Bank)
+- notes the proposed building signage is not part of this application
+- on projections should match the roof material of the building (unless both
+- 37 S. Main Street - AHBR PacketAttachments:
+- forward projection; however, the proposal would substantially expand it
+- A. AHBR 8928 179 Elm Street (Historic District) (Informal Review)
+- a) Staff notes that the existing house on the property was approved for
+- 179 Elm Street - Informal AHBR PacketAttachments:
+- B. AHBR 8929 80 N Main Street (Hudson’s Restaurant) (Informal Review)
+- c) Staff recommends the Board consider the guidance provided in the
+- National Parks Service Preservation Brief #11, Rehabilitating Historic
+- d) Staff notes the intent of the proposed project is to widen the existing
+- Street storefronts; however, staff notes the proposed improvements would
+- e) The National Park Service Preservation Brief #11 for historic storefronts
+- identifies recessed entrances as a traditional storefront feature and
+- recommends retaining historically accurate entrance locations
+- of three feet to better meet this requirement
+- f) The National Park Service Preservation Brief #11 for historic storefronts
+- Board consider the extent of alterations proposed to the existing brick
+- part of the proposed improvements. The Board may also wish to consider
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#26] 2026-10-15 | Board of Zoning & Building Appeals | agenda
+- Board of Zoning & Building Appeals
+- 27 East Main Street
+- III. Identification, by Chairman, of City Staff
+- V. Approval of Minutes
+- BZBA 9.16.26Minutes of Previous Board of Zoning & Building Appeals Meeting: September
+- BZBA 9.30.26Minutes of Previous Board of Zoning & Building Appeals Meeting: September
+- VI. Public Hearings - New Business
+- October 15, 2026Board of Zoning & Building Appeals CD Meeting Agenda - Final
+- The subject of this hearing is a variance request of fifty ( 50) feet from the
+- Development/Design Standards - Setbacks” of the City of Hudson Land
+- Development Code in order to construct business shop condominium units
+- District 8 [Industrial/Business Park] within the City of Hudson
+- The subject of this hearing is a request for two variances in order to
+- Development Code
+- 2. A variance of fifty (50) feet from the required fifty (50) foot stream
+- The applicant is George Hess of 12121 Kinsman Road, Newbury, Ohio 44065
+- The subject of this hearing is a request for an appeal, pursuant to Section
+- design for a proposed townhome development located on the corner of
+- Clinton Street and Morse Road. The basis for the denial related to the
+- 44113. The property owner is Hudson Village Townhomes LLC, 200 Park
+- 9.9.26 AHBR presentation
+- 8.26.26 AHBR presentations
+- Public Hearings by the Board will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Board
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#27] 2026-10-19 | Planning Commission  | agenda
+- 27 East Main Street
+- VI. Approval of Minutes
+- VII. Public Discussion
+- IX. Old Business (including continuation of public hearings)
+- A Major Site Plan request for Standard Shop Company, an industrial business
+- park. The request was previously approved; however, is still under construction
+- with approval expiring in October 2026
+- Survey/Civil Site Plan
+- Phasing Plan
+- Stormwater Report
+- Other Agency Approvals
+- X. New Business (including public hearings)
+- A. CC INTRO City Staff will provide introduction to the Clinton Crossing Concept Site Plan
+- Draft Site Plan 10.7.26
+- Presentation
+- Discussion of the Administrative Rules
+- Administrative Rules DiscussionAttachments:
+- Planning Commission Discussion of the Prestige Agreement
+- Reply to Public Hearing Response
+- Memo Response to PCs Request for Separate Legal Counsel
+- Discussion Item - Repeal of Chapter 1210
+- Public Hearings by the Commission will be undertaken for each case in the following order:
+- 9. Discussion/Action by the Commission
+- testimony during a Public Hearing:
+- witness may be asked to redirect from commentary back to the presentation of
+- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+
+## [hudson#28] 2026-10-20 | City Council | agenda
+- 1140 Terex Road
+- LOCATION CHANGE: The meeting will be held at City Hall, 1140 Terex Road, Hudson, OH
+- 4. Approval of the Minutes
+- Council’s review and approval
+- 6. Public Comments
+- 9. Appointments
+- B. 26-134 AN ORDINANCE PERMITTING THE INSTALLATION AND
+- INTERSECTION OF E. STREETSBORO STREET (SR 303) AND N
+- HAYDEN PARKWAY PURSUANT TO SECTION 414.03(c)(4) OF THE
+- CODIFIED ORDINANCES; AND DECLARING AN EMERGENCY
+- Brief Description: Per Chapter 414.03(c).4, this Ordinance would allow for
+- intersection of E. Streetsboro Street (SR 303) and N. Hayden Parkway
+- Ordinance No. 26-134Attachments:
+- C. 26-135 A RESOLUTION AUTHORIZING THE CITY MANAGER OR HIS
+- APPLICATION TO THE PUBLIC UTILITIES COMMISSION OF
+- OHIO FOR THE EXEMPTION OF W. BARLOW ROAD RAILROAD
+- representative, to submit an application to the Public Utilities Commission of
+- Ohio (PUCO) to formally request an exemption for the W. Barlow Road
+- railroad tracks
+- Resolution No. 26-135
+- D. 26-136 A RESOLUTION AUTHORIZING THE CITY MANAGER TO
+- ADVERTISE FOR BIDS AND ENTER INTO CONTRACTS FOR THE
+- Brief Description: This Resolution would authorize the advertisement,
+- receipt of bids and award of contracts for the annual road programs that will
+- Basin Repair Program, and Asphalt Resurfacing and Patching Program. Award
+- of these projects will be based upon the approved 2027 capital budget
+- Resolution No. 26-136Attachments:
+- E. 26-137 A RESOLUTION AUTHORIZING A LEASE TERMINATION
+- AGREEMENT WITH THE SUMMIT METRO PARKS AND THE
+- settlement agreement with Summit Metro Parks, terminating a Lease
+- Agreement between the City and the Metro Parks for Maple Grove
+- Resolution No. 26-137Attachments:
+- A. 26-124 AN ORDINANCE PROVIDING FOR THE ISSUANCE AND SALE OF
+- $740,000 OF TAXABLE ECONOMIC DEVELOPMENT NONTAX
+- REVENUE BOND ANTICIPATION NOTES, IN ANTICIPATION OF
+- THE ISSUANCE OF BONDS, FOR THE PURPOSE OF PAYING
+- OWEN BROWN STREET AND MORSE ROAD
+- Brief Description: This ordinance allows for the refinancing of existing
+- used to pay for the former Windstream property at 100 Owen Brown Street,
+- purchased as part of the Downtown Phase II Project
+- Ordinance No. 26-124Attachments:
+- B. 26-125 AN ORDINANCE PROVIDING FOR THE ISSUANCE AND SALE OF
+- $925,000 OF TAXABLE ECONOMIC DEVELOPMENT NONTAX
+- PROPERTY LOCATED AT 94 OWEN BROWN STREET
+- Brief Description: This ordinance allows for the financing of the former
+- Windstream property at 94 Owen Brown Street, purchased as part of the
+- Downtown Phase II Project
+- Ordinance No. 26-125Attachments:
+- C. 26-126 AN ORDINANCE PROVIDING FOR THE ISSUANCE AND SALE OF
+- ISSUANCE OF BONDS, FOR THE PURPOSE OF PAYING COSTS OF

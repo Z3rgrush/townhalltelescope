@@ -1,0 +1,97 @@
+# hotchkiss
+
+## [hotchkiss#0] 2026-08-13 | City Council | minutes
+- 2. Public Comment
+- Mayor Patricia Medina read the rules of Public Comment
+- during their honk-and-wave events and for the Police Department supporting their rights. Elena
+- Mary Hockenbery, of 188 N. 1st Street, told the Board that Ralph Sandmann updated the
+- information sign at the Barnie Faire Park. The kiosk contains a map and museum information for
+- the area. Ralph did not want payment for this project. Mary showed the Board pictures of the
+- Larry Wilkening, of 634 Aspen Lane, said that he wrote a letter to the Board regarding the park
+- going through town monthly, not daily. Larry has concerns about a park going in on Bridge
+- Street and feels that there are enough parks in town already. Larry feels that this property should
+- have a business that will generate revenue for the Town
+- Town Attorney Sarah Ross said that she has been busy working on Ordinances
+- a. Formation of Committee or Task Force to Research Viability of Town Park on Bridge
+- Street from Discussion of July 23, 2026
+- Mayor Patricia Medina told the Board that the committee to research the viability of a park
+- help research the viability and feasibility of such a park
+- Attorney Sarah Ross said that a Resolution was not needed to form this committee. The
+- b. Agenda Application Request – Tanner Wilson
+- Tanner Wilson, of 335 E. Orchard Street, told the Board that he has four children, ages 6, 8, 11,
+- all the different skate parks in the county. Tanner would like the Board to consider building a
+- skate park in the Town of Hotchkiss. Tanner has many volunteers and supporters lined up to help
+- with such a project. Tanner has met with the North Fork Pool, Park and Recreation District and
+- great place for a skate park. She told Tanner that the Town will provide a letter of support for the
+- project when it gets to that point
+- Tanner said that he wondered who would take on the upkeep once the park has been built, but he
+- c. Ordinance 2026-07 Regarding Demonstrations and Special Events in Public Rights-of
+- Mayor Patricia Medina said that Attorney Sarah Ross did a great job on this Ordinance. Daisie
+- Kirk said that she read through the Ordinance twice and does not have any questions
+- Mayor Patricia Medina said that this Ordinance is to keep everyone safe and minimize any
+- Mayor Pro Tem Sven Edstrom said that he tried to read this Ordinance on his phone, but it was
+- rally. Tom feels that this Ordinance will fill a gap that is lacking in the Town Code. Tom
+- supports the Ordinance and feels that Attorney Sarah Ross did a great job on it
+- Mary Hockenbery asked if the Ordinance can supersede state statute
+
+## [hotchkiss#1] 2026-08-27 | City Council | minutes
+- 2. Public Comment
+- Attorney Sarah Ross told the Board that Ordinance 2026-07 has neutral rules about
+- Mayor Patricia Medina thanked Attorney Sarah Ross for this Ordinance
+- Cedaredge and Upper Surface Creek Domestic Water Users regarding the water
+- situation. They are looking at the possibility of an agreement with all three (3) entities
+- like Project Seven. This would be valuable with the ageing infrastructure and there may
+- be funding available for this. Meetings with Tri County Water are also being held to get
+- The Town received a $10,000 Water Smart Grant that will be used for education. Once
+- the contract is in place we will start working with the Water Now Alliance to start to get
+- Kimberly and Engineer Joanne Fagan have been having conversations about the water
+- situation and if we have a fire where our water source is, we would not be able to get
+- water. Discussions are in progress to get funding for a study in that area
+- a. ORDINANCE 2026-07 Regarding demonstrations and Special Events in Public
+- Motion: Roger Christian moved to approve Ordinance 2026-07 an Ordinance of the
+- content-neutral safety, access, and permit requirements; providing for severability,
+- for the Transfer of Town of Hotchkiss Police Department Vehicles in Exchange for
+- discussion about removing the vehicles in question from service. They have low miles
+- Chief Green stated that they were not trustworthy vehicles. The original plan was to sell
+- There were several moments of discussion about the decommissioning of cars and
+- also discussion about what will happen if one of the vehicles goes down, what the back
+- up plan will be. Chief Scott Green said that the Officers would have to share until the
+- More discussion was had about these vehicles being paid for with taxpayers’ money
+- The Board asked what kind of contract would be in place for someone that utilizes the
+- tuition for this trade. Chief Scott Green said that typically a contract was signed saying
+- After several more minutes of discussion, the Board directed Chief Scott Green to go
+- back to TCR (Technical College of the Rockies) and see if the contract can be amended
+- agreement without the increasing tuition fees so the Town will not have to pay the extra
+
+## [hotchkiss#2] 2026-09-24 | City Council | minutes
+- Mayor Medina requested that the agenda be amended to add an action item for a permit waiver
+- 2. Public Comment
+- Attorney Sarah Ross stated that she did not have any comments but asked about the amendment
+- Mayor Medina stated that the amendment was for a waiver of the North Fork Miners High
+- School Homecoming Parade permit
+- meeting the following day to ensure that the Town of Hotchkiss Master Plan is represented. This
+- 7. Public Hearing
+- 2026 Updated Budget Adoption
+- Resolution 2026-09 – Adopting Updated 2026 Budget
+- Grant and why it was included in 2025 but not in 2026
+- Town Clerk Ginger Redden stated that the grant funds were fully expended in 2025; therefore,
+- Motion: Don Dybala moved to approve Resolution 2026-09, a resolution amending the Town of
+- Hotchkiss 2026 Annual Budget; making revised and supplemental appropriations; and providing
+- a. North Fork Miners High School Permit Waiver
+- Town Administrator Kimberly States stated that since the new ordinance was passed, the parade
+- permit process has changed; however, there has not been sufficient time to fully implement the
+- operating procedure and application that can be put into place
+- Motion: Don Dybala moved to approve the parade permit waiver for the North Fork Miners
+- the Town, and the error was not initially identified. Marijuana Enforcement corrected the error
+- and returned the corrected application
+- Motion: Don Dybala moved to approve the amended Marijuana License Renewal for Valley
+- Motion: Roger Christian moved to approve the Special Event Liquor License for the Hotchkiss
+- d. Agenda Application/Donation Request – North Fork Senior Connections
+- organization has a new plan for additional improvements to the building and property. Grant
+- Motion: Don Dybala moved to approve a donation to North Fork Senior Connections in the
+- The Board discussed whether the revisions would affect the Public Works Department and the
+- need for clarification and updates for the Police Department. It was clarified that Public Works
+- has its own section and that these revisions apply only to the Police Department
+- Motion: Daisie Kirk moved to approve the Vehicle Use Policy revisions for the Police
+- f. Ratification of Recension of Fire Ban
+- Mayor Medina stated that the Town’s fire ban was rescinded consistent with the County’s action

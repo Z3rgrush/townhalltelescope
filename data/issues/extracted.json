@@ -1,8 +1,73 @@
 {
+ "adams-county": {
+  "date": "2026-10-26",
+  "hash": "025a78e76011be56",
+  "model": "claude-sonnet-5-5"
+ },
+ "akron": {
+  "date": "2026-10-26",
+  "hash": "5ac97cb12eb78fec",
+  "model": "claude-sonnet-5-5"
+ },
+ "alamosa-county": {
+  "date": "2026-10-26",
+  "hash": "beff40f341fb7668",
+  "model": "claude-sonnet-5-5"
+ },
+ "arapahoe-county": {
+  "date": "2026-10-26",
+  "hash": "a59beae2f4cee491",
+  "model": "claude-sonnet-5-5"
+ },
+ "archuleta-county": {
+  "date": "2026-10-26",
+  "hash": "55f6231e1b88f7e7",
+  "model": "claude-sonnet-5-5"
+ },
+ "arriba": {
+  "date": "2026-10-26",
+  "hash": "abbbf6374a43722b",
+  "model": "claude-sonnet-5-5"
+ },
+ "arvada": {
+  "date": "2026-10-26",
+  "hash": "39c84b9996cf8724",
+  "model": "claude-sonnet-5-5"
+ },
+ "aspen": {
+  "date": "2026-10-26",
+  "hash": "8f6fe561f7c2d179",
+  "model": "claude-sonnet-5-5"
+ },
  "aurora": {
   "date": "2026-10-25",
   "hash": "d5b199bb4bf5b9d1",
   "model": "hand-written"
+ },
+ "basalt": {
+  "date": "2026-10-26",
+  "hash": "cc580337c08299f3",
+  "model": "claude-sonnet-5-5"
+ },
+ "berthoud": {
+  "date": "2026-10-26",
+  "hash": "fce72f547573841d",
+  "model": "claude-sonnet-5-5"
+ },
+ "black-hawk": {
+  "date": "2026-10-26",
+  "hash": "30f58da78305733e",
+  "model": "claude-sonnet-5-5"
+ },
+ "blue-river": {
+  "date": "2026-10-26",
+  "hash": "14b180a12245b2ce",
+  "model": "claude-sonnet-5-5"
+ },
+ "boone": {
+  "date": "2026-10-26",
+  "hash": "ef1cbb68383fc8ce",
+  "model": "claude-sonnet-5-5"
  },
  "boulder": {
   "date": "2026-10-25",
@@ -14,79 +79,654 @@
   "hash": "e92d62d8bd446e64",
   "model": "hand-written"
  },
+ "breckenridge": {
+  "date": "2026-10-26",
+  "hash": "d1c31ab31943897e",
+  "model": "claude-sonnet-5-5"
+ },
+ "brighton": {
+  "date": "2026-10-26",
+  "hash": "283a606a59791485",
+  "model": "claude-sonnet-5-5"
+ },
  "broomfield": {
-  "date": "2026-10-25",
-  "hash": "8e9a011d295cb231",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "8d56b7c4dfc8ef96",
+  "model": "claude-sonnet-5-5"
+ },
+ "buena-vista": {
+  "date": "2026-10-26",
+  "hash": "29e2d637d6992f76",
+  "model": "claude-sonnet-5-5"
+ },
+ "campo": {
+  "date": "2026-10-26",
+  "hash": "037f803316924a78",
+  "model": "claude-sonnet-5-5"
+ },
+ "canon-city": {
+  "date": "2026-10-26",
+  "hash": "a1db91220470da54",
+  "model": "claude-sonnet-5-5"
+ },
+ "castle-pines": {
+  "date": "2026-10-26",
+  "hash": "29a8ce92abed119b",
+  "model": "claude-sonnet-5-5"
+ },
+ "centennial": {
+  "date": "2026-10-26",
+  "hash": "52b9baa9acd93349",
+  "model": "claude-sonnet-5-5"
+ },
+ "chaffee-county": {
+  "date": "2026-10-26",
+  "hash": "d2ca9974053b98af",
+  "model": "claude-sonnet-5-5"
+ },
+ "cherry-hills-village": {
+  "date": "2026-10-26",
+  "hash": "4e954672f9635642",
+  "model": "claude-sonnet-5-5"
+ },
+ "clear-creek-county": {
+  "date": "2026-10-26",
+  "hash": "7c044f59c2bee4b6",
+  "model": "claude-sonnet-5-5"
+ },
+ "colorado-springs": {
+  "date": "2026-10-26",
+  "hash": "b2b29e751c19593d",
+  "model": "claude-sonnet-5-5"
+ },
+ "columbine-valley": {
+  "date": "2026-10-26",
+  "hash": "6dc9260a01947fab",
+  "model": "claude-sonnet-5-5"
  },
  "commerce-city": {
-  "date": "2026-10-25",
-  "hash": "20fcb7d3c21064b5",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "287fbee3dd5ec5ea",
+  "model": "claude-sonnet-5-5"
+ },
+ "craig": {
+  "date": "2026-10-26",
+  "hash": "2b67d4c5583309fc",
+  "model": "claude-sonnet-5-5"
+ },
+ "crawford": {
+  "date": "2026-10-26",
+  "hash": "3c53ed307b56f798",
+  "model": "claude-sonnet-5-5"
+ },
+ "crested-butte": {
+  "date": "2026-10-26",
+  "hash": "6a13477887684260",
+  "model": "claude-sonnet-5-5"
+ },
+ "dacono": {
+  "date": "2026-10-26",
+  "hash": "e7566fea77b2ae30",
+  "model": "claude-sonnet-5-5"
+ },
+ "de-beque": {
+  "date": "2026-10-26",
+  "hash": "a490a3892039d7c8",
+  "model": "claude-sonnet-5-5"
+ },
+ "del-norte": {
+  "date": "2026-10-26",
+  "hash": "3297ee388afd3e04",
+  "model": "claude-sonnet-5-5"
+ },
+ "delta": {
+  "date": "2026-10-26",
+  "hash": "e4b6b2bd03158aaf",
+  "model": "claude-sonnet-5-5"
  },
  "denver": {
-  "date": "2026-10-25",
-  "hash": "5ff4df7304369709",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "e2a976118ee26c5d",
+  "model": "claude-sonnet-5-5"
+ },
+ "dolores": {
+  "date": "2026-10-26",
+  "hash": "e27c8d320d8790a2",
+  "model": "claude-sonnet-5-5"
+ },
+ "douglas-county": {
+  "date": "2026-10-26",
+  "hash": "264141308b72f582",
+  "model": "claude-sonnet-5-5"
+ },
+ "dove-creek": {
+  "date": "2026-10-26",
+  "hash": "bda1dfb95911a65c",
+  "model": "claude-sonnet-5-5"
+ },
+ "eagle": {
+  "date": "2026-10-26",
+  "hash": "2d6ae41764b9d78e",
+  "model": "claude-sonnet-5-5"
+ },
+ "edgewater": {
+  "date": "2026-10-26",
+  "hash": "ccdaec4c064b3822",
+  "model": "claude-sonnet-5-5"
+ },
+ "elizabeth": {
+  "date": "2026-10-26",
+  "hash": "b9a8ee691e7de9c8",
+  "model": "claude-sonnet-5-5"
  },
  "erie": {
-  "date": "2026-10-25",
-  "hash": "e5a566f088668864",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "8a560d82cc6c27e1",
+  "model": "claude-sonnet-5-5"
+ },
+ "fairplay": {
+  "date": "2026-10-26",
+  "hash": "337a83c9803b0d9d",
+  "model": "claude-sonnet-5-5"
+ },
+ "federal-heights": {
+  "date": "2026-10-26",
+  "hash": "21e87532b9d77699",
+  "model": "claude-sonnet-5-5"
  },
  "firestone": {
   "date": "2026-10-25",
   "hash": "1160db55bc1eda66",
   "model": "hand-written"
  },
+ "fort-collins": {
+  "date": "2026-10-26",
+  "hash": "5d60de5faa6a69e9",
+  "model": "claude-sonnet-5-5"
+ },
+ "fort-lupton": {
+  "date": "2026-10-26",
+  "hash": "b61812982b1a3b86",
+  "model": "claude-sonnet-5-5"
+ },
+ "fort-morgan": {
+  "date": "2026-10-26",
+  "hash": "e6f1a25e884b1956",
+  "model": "claude-sonnet-5-5"
+ },
+ "foxfield": {
+  "date": "2026-10-26",
+  "hash": "91d7412b80cd3c5d",
+  "model": "claude-sonnet-5-5"
+ },
+ "fraser": {
+  "date": "2026-10-26",
+  "hash": "07e606d8b926f8da",
+  "model": "claude-sonnet-5-5"
+ },
  "frederick": {
   "date": "2026-10-25",
   "hash": "6cf6220fe7143fa5",
   "model": "hand-written"
  },
+ "fremont-county": {
+  "date": "2026-10-26",
+  "hash": "aac94689daa91198",
+  "model": "claude-sonnet-5-5"
+ },
+ "frisco": {
+  "date": "2026-10-26",
+  "hash": "4ab624f50c1d9d7b",
+  "model": "claude-sonnet-5-5"
+ },
+ "gilpin-county": {
+  "date": "2026-10-26",
+  "hash": "b02565695b381879",
+  "model": "claude-sonnet-5-5"
+ },
  "glendale": {
-  "date": "2026-10-25",
-  "hash": "6d56f48a6e11ae61",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "3d58a57ac1451022",
+  "model": "claude-sonnet-5-5"
+ },
+ "glenwood-springs": {
+  "date": "2026-10-26",
+  "hash": "32ae7a52aa0d8ab8",
+  "model": "claude-sonnet-5-5"
+ },
+ "golden": {
+  "date": "2026-10-26",
+  "hash": "99897191d27c017c",
+  "model": "claude-sonnet-5-5"
+ },
+ "grand-county": {
+  "date": "2026-10-26",
+  "hash": "548b5bc57cfc7bb7",
+  "model": "claude-sonnet-5-5"
+ },
+ "grand-junction": {
+  "date": "2026-10-26",
+  "hash": "312b83dd640b6154",
+  "model": "claude-sonnet-5-5"
+ },
+ "grand-lake": {
+  "date": "2026-10-26",
+  "hash": "1926b9f3974ec9c1",
+  "model": "claude-sonnet-5-5"
+ },
+ "greeley": {
+  "date": "2026-10-26",
+  "hash": "c5afebcd3cce6da8",
+  "model": "claude-sonnet-5-5"
+ },
+ "green-mountain-falls": {
+  "date": "2026-10-26",
+  "hash": "9aa218ae5cf36964",
+  "model": "claude-sonnet-5-5"
+ },
+ "greenwood-village": {
+  "date": "2026-10-26",
+  "hash": "8570ac03f8fcc475",
+  "model": "claude-sonnet-5-5"
+ },
+ "gunnison-county": {
+  "date": "2026-10-26",
+  "hash": "9d6ec1aa572ef2e1",
+  "model": "claude-sonnet-5-5"
+ },
+ "gypsum": {
+  "date": "2026-10-26",
+  "hash": "1e38dae458a8ada7",
+  "model": "claude-sonnet-5-5"
+ },
+ "hayden": {
+  "date": "2026-10-26",
+  "hash": "d2eaa55f60dd2cb8",
+  "model": "claude-sonnet-5-5"
+ },
+ "hotchkiss": {
+  "date": "2026-10-26",
+  "hash": "abcf4785374eb1f9",
+  "model": "claude-sonnet-5-5"
+ },
+ "hudson": {
+  "date": "2026-10-26",
+  "hash": "6041fc9897d63212",
+  "model": "claude-sonnet-5-5"
+ },
+ "hugo": {
+  "date": "2026-10-26",
+  "hash": "2cb587c91e259ee7",
+  "model": "claude-sonnet-5-5"
+ },
+ "idaho-springs": {
+  "date": "2026-10-26",
+  "hash": "7515a615822456ea",
+  "model": "claude-sonnet-5-5"
+ },
+ "johnstown": {
+  "date": "2026-10-26",
+  "hash": "9b58867a5fd2a9df",
+  "model": "claude-sonnet-5-5"
+ },
+ "kersey": {
+  "date": "2026-10-26",
+  "hash": "9f89f213153dc738",
+  "model": "claude-sonnet-5-5"
+ },
+ "kiowa": {
+  "date": "2026-10-26",
+  "hash": "cf54b5a9e60e2bb7",
+  "model": "claude-sonnet-5-5"
+ },
+ "kit-carson-county": {
+  "date": "2026-10-26",
+  "hash": "45aa333801f16c96",
+  "model": "claude-sonnet-5-5"
+ },
+ "la-junta": {
+  "date": "2026-10-26",
+  "hash": "8a260c0527f9bd8e",
+  "model": "claude-sonnet-5-5"
  },
  "lafayette": {
   "date": "2026-10-25",
   "hash": "a884c21bd6e590a7",
   "model": "hand-written"
  },
+ "lake-city": {
+  "date": "2026-10-26",
+  "hash": "1fd5dcee24ec1ba5",
+  "model": "claude-sonnet-5-5"
+ },
+ "lake-county": {
+  "date": "2026-10-26",
+  "hash": "0b44926dcd052779",
+  "model": "claude-sonnet-5-5"
+ },
+ "lakewood": {
+  "date": "2026-10-26",
+  "hash": "0fd78d991ea60d04",
+  "model": "claude-sonnet-5-5"
+ },
+ "limon": {
+  "date": "2026-10-26",
+  "hash": "782294d186f670dc",
+  "model": "claude-sonnet-5-5"
+ },
  "longmont": {
-  "date": "2026-10-25",
-  "hash": "4527774accc7c36c",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "ba86b098afb71f47",
+  "model": "claude-sonnet-5-5"
  },
  "louisville": {
-  "date": "2026-10-25",
-  "hash": "52aceb5cc6b68939",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "eff2a02cdcf0ed5d",
+  "model": "claude-sonnet-5-5"
  },
  "lyons": {
-  "date": "2026-10-25",
-  "hash": "34f596ca4ee3a150",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "342bed4120929a73",
+  "model": "claude-sonnet-5-5"
+ },
+ "manzanola": {
+  "date": "2026-10-26",
+  "hash": "fc29ee02a6eccf1d",
+  "model": "claude-sonnet-5-5"
  },
  "mead": {
-  "date": "2026-10-25",
-  "hash": "dfa178af7057f4ca",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "d457dd21eb3f358a",
+  "model": "claude-sonnet-5-5"
+ },
+ "meeker": {
+  "date": "2026-10-26",
+  "hash": "94b6eec588401414",
+  "model": "claude-sonnet-5-5"
+ },
+ "mesa-county": {
+  "date": "2026-10-26",
+  "hash": "c89e0b57b9eb2d14",
+  "model": "claude-sonnet-5-5"
+ },
+ "milliken": {
+  "date": "2026-10-26",
+  "hash": "8124f2a625ced635",
+  "model": "claude-sonnet-5-5"
+ },
+ "minturn": {
+  "date": "2026-10-26",
+  "hash": "b1ec649427b97a6b",
+  "model": "claude-sonnet-5-5"
+ },
+ "montezuma-county": {
+  "date": "2026-10-26",
+  "hash": "9cc7051fee689931",
+  "model": "claude-sonnet-5-5"
+ },
+ "montrose": {
+  "date": "2026-10-26",
+  "hash": "2a8977dd75b4d597",
+  "model": "claude-sonnet-5-5"
+ },
+ "montrose-county": {
+  "date": "2026-10-26",
+  "hash": "a48e78b9faa14d8d",
+  "model": "claude-sonnet-5-5"
+ },
+ "monument": {
+  "date": "2026-10-26",
+  "hash": "c5f1da27a9e05713",
+  "model": "claude-sonnet-5-5"
+ },
+ "morgan-county": {
+  "date": "2026-10-26",
+  "hash": "4721a63bcc7df4d0",
+  "model": "claude-sonnet-5-5"
+ },
+ "morrison": {
+  "date": "2026-10-26",
+  "hash": "cfcc9490456284a2",
+  "model": "claude-sonnet-5-5"
+ },
+ "mountain-view": {
+  "date": "2026-10-26",
+  "hash": "9f7706369053696d",
+  "model": "claude-sonnet-5-5"
  },
  "nederland": {
   "date": "2026-10-25",
   "hash": "a39d90450050f9a1",
   "model": "hand-written"
  },
+ "new-castle": {
+  "date": "2026-10-26",
+  "hash": "01493276bfc59754",
+  "model": "claude-sonnet-5-5"
+ },
+ "norwood": {
+  "date": "2026-10-26",
+  "hash": "26943b708fe178ac",
+  "model": "claude-sonnet-5-5"
+ },
+ "nunn": {
+  "date": "2026-10-26",
+  "hash": "f113227b7cccf184",
+  "model": "claude-sonnet-5-5"
+ },
+ "oak-creek": {
+  "date": "2026-10-26",
+  "hash": "dcfefbf600b5d636",
+  "model": "claude-sonnet-5-5"
+ },
+ "ophir": {
+  "date": "2026-10-26",
+  "hash": "8dc9a20a05a2a141",
+  "model": "claude-sonnet-5-5"
+ },
+ "ordway": {
+  "date": "2026-10-26",
+  "hash": "c958378eef588c03",
+  "model": "claude-sonnet-5-5"
+ },
+ "ouray-county": {
+  "date": "2026-10-26",
+  "hash": "7b8f09bfb87c4cc2",
+  "model": "claude-sonnet-5-5"
+ },
+ "pagosa-springs": {
+  "date": "2026-10-26",
+  "hash": "7068b324ed611215",
+  "model": "claude-sonnet-5-5"
+ },
+ "palisade": {
+  "date": "2026-10-26",
+  "hash": "2b2052d449e5bc15",
+  "model": "claude-sonnet-5-5"
+ },
+ "palmer-lake": {
+  "date": "2026-10-26",
+  "hash": "20379cf06e7861db",
+  "model": "claude-sonnet-5-5"
+ },
+ "paonia": {
+  "date": "2026-10-26",
+  "hash": "f369a9e0d06cdb4e",
+  "model": "claude-sonnet-5-5"
+ },
+ "parachute": {
+  "date": "2026-10-26",
+  "hash": "c9d251ae52431da6",
+  "model": "claude-sonnet-5-5"
+ },
+ "park-county": {
+  "date": "2026-10-26",
+  "hash": "626afeee6aaa5991",
+  "model": "claude-sonnet-5-5"
+ },
+ "parker": {
+  "date": "2026-10-26",
+  "hash": "71baca174608dc40",
+  "model": "claude-sonnet-5-5"
+ },
+ "phillips-county": {
+  "date": "2026-10-26",
+  "hash": "f19dc2c3e1083985",
+  "model": "claude-sonnet-5-5"
+ },
+ "platteville": {
+  "date": "2026-10-26",
+  "hash": "83c4e5d04b600456",
+  "model": "claude-sonnet-5-5"
+ },
+ "pueblo": {
+  "date": "2026-10-26",
+  "hash": "f89cf5d9c21234b6",
+  "model": "claude-sonnet-5-5"
+ },
+ "pueblo-county": {
+  "date": "2026-10-26",
+  "hash": "095a8c4a42c13fac",
+  "model": "claude-sonnet-5-5"
+ },
+ "rangely": {
+  "date": "2026-10-26",
+  "hash": "494e77df56209a6c",
+  "model": "claude-sonnet-5-5"
+ },
+ "rico": {
+  "date": "2026-10-26",
+  "hash": "244dcd7d0cc9f1fe",
+  "model": "claude-sonnet-5-5"
+ },
+ "ridgway": {
+  "date": "2026-10-26",
+  "hash": "92759db66f352bc6",
+  "model": "claude-sonnet-5-5"
+ },
+ "rifle": {
+  "date": "2026-10-26",
+  "hash": "a26da679d3104762",
+  "model": "claude-sonnet-5-5"
+ },
+ "routt-county": {
+  "date": "2026-10-26",
+  "hash": "b3b0ec05f6efff54",
+  "model": "claude-sonnet-5-5"
+ },
+ "salida": {
+  "date": "2026-10-26",
+  "hash": "3d75b87606ec2673",
+  "model": "claude-sonnet-5-5"
+ },
+ "san-miguel-county": {
+  "date": "2026-10-26",
+  "hash": "0805e6aed6a550ac",
+  "model": "claude-sonnet-5-5"
+ },
+ "severance": {
+  "date": "2026-10-26",
+  "hash": "6be3001d286e8930",
+  "model": "claude-sonnet-5-5"
+ },
+ "sheridan": {
+  "date": "2026-10-26",
+  "hash": "45721a440ceb03c2",
+  "model": "claude-sonnet-5-5"
+ },
+ "silt": {
+  "date": "2026-10-26",
+  "hash": "a0e24be30df4eb54",
+  "model": "claude-sonnet-5-5"
+ },
+ "silver-cliff": {
+  "date": "2026-10-26",
+  "hash": "bd6ad55e63f325db",
+  "model": "claude-sonnet-5-5"
+ },
+ "silver-plume": {
+  "date": "2026-10-26",
+  "hash": "01621911c32ed162",
+  "model": "claude-sonnet-5-5"
+ },
+ "snowmass-village": {
+  "date": "2026-10-26",
+  "hash": "391ed775cc30010e",
+  "model": "claude-sonnet-5-5"
+ },
+ "starkville": {
+  "date": "2026-10-26",
+  "hash": "070e6e884512f912",
+  "model": "claude-sonnet-5-5"
+ },
+ "sterling": {
+  "date": "2026-10-26",
+  "hash": "6b5f85cd375d1007",
+  "model": "claude-sonnet-5-5"
+ },
  "superior": {
-  "date": "2026-10-25",
-  "hash": "5000d1008ab9f40f",
-  "model": "hand-written"
+  "date": "2026-10-26",
+  "hash": "6b607992a57af7c8",
+  "model": "claude-sonnet-5-5"
+ },
+ "teller-county": {
+  "date": "2026-10-26",
+  "hash": "414fb716bc7359ed",
+  "model": "claude-sonnet-5-5"
  },
  "thornton": {
   "date": "2026-10-25",
   "hash": "ff98d4989f5f5db6",
   "model": "hand-written"
+ },
+ "timnath": {
+  "date": "2026-10-26",
+  "hash": "b6363969d5b53f44",
+  "model": "claude-sonnet-5-5"
+ },
+ "washington-county": {
+  "date": "2026-10-26",
+  "hash": "57856f7da91ac6d3",
+  "model": "claude-sonnet-5-5"
+ },
+ "wellington": {
+  "date": "2026-10-26",
+  "hash": "472e1e93b4034094",
+  "model": "claude-sonnet-5-5"
+ },
+ "westminster": {
+  "date": "2026-10-26",
+  "hash": "baf8bc2935147c06",
+  "model": "claude-sonnet-5-5"
+ },
+ "williamsburg": {
+  "date": "2026-10-26",
+  "hash": "d6555e613667287a",
+  "model": "claude-sonnet-5-5"
+ },
+ "windsor": {
+  "date": "2026-10-26",
+  "hash": "e261a03a378cbe24",
+  "model": "claude-sonnet-5-5"
+ },
+ "winter-park": {
+  "date": "2026-10-26",
+  "hash": "feb40fad7df99a39",
+  "model": "claude-sonnet-5-5"
+ },
+ "woodland-park": {
+  "date": "2026-10-26",
+  "hash": "f19b50fd1256ad06",
+  "model": "claude-sonnet-5-5"
+ },
+ "yuma": {
+  "date": "2026-10-26",
+  "hash": "b6ce31436ee987e6",
+  "model": "claude-sonnet-5-5"
+ },
+ "yuma-county": {
+  "date": "2026-10-26",
+  "hash": "c8a672d834dbe283",
+  "model": "claude-sonnet-5-5"
  }
 }

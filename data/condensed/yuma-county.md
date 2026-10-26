@@ -1,0 +1,66 @@
+# yuma-county
+
+## [yuma-county#0] 2026-07-30 | City Council | minutes
+- discussed various meetings attended throughout the prior month
+- Events Permit for Vernon Volunteer Fire Department
+- Commissioner Gates moved to ratify Commissioner Weaver's signature on the State Application for
+- a Special Events Permit for the Vernon Volunteer Fire Department. Commissioner Leerar seconded
+- Commissioner Gates moved to approve the County Special Events Permit for the Vernon Volunteer
+- Fire Department. Commissioner Leerar seconded the motion which passed unanimously
+- Road and Bridge
+- Road & Bridge Supervisor David Lee and Blade Supervisor Justin Lorimer joined the meeting at 8:30 a.m
+- Road Report Lee and Lorimer discussed blade area coverage with the Commissioners. Because the
+- department is short-staffed, each blade operator covers a larger area, which means roads may take
+- longer to be bladed. The group discussed improving coverage by keeping more spare blades available
+- for problem areas and adding more blade operator positions to the 2027 budget. Crews are also
+- continuing to repair problem areas caused by rainstorms in the southern part of the county. The
+- County Road 39 project is underway. Simon started at County Road G and progressed to County Road
+- paved roads. The cost of this equipment rental is $2,800.00. The road and bridge department will
+- stripe the road once work is completed
+- form, which was approved by the Colorado Division of Mining and Reclamation, and sent it to the
+- Commission Gates moved to approve the Parts Clerk Salary Authorization at $19.50/ hour
+- Commission Gates moved to approve the Maintenance Position Salary Authorization at $19.50/
+- Commission Gates moved to approve the Blade Operator Salary Authorization at $21.00/ hour
+- Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- Commission Gates moved to approve the Blade Operator Salary Authorization at $20.04/ hour
+- Commission Gates moved to approve the Truck Supervisor Salary Authorization at $25.84/
+- Budget/Efficiencies The group reviewed the efficiency report for blade operators
+- Permit Lee provided an update on an Underground and Utility Permit for Viaero where the location
+- had to be amended to the South side of County Road 38. Lee also stated that the South Spur Solar
+- Project will begin in early 2027 where he will work with the company to ensure that the county roads
+- are repaired back to their original quality after the project is completed
+- the Board of Social Services separately. The Board of County Commissioners reconvened at 10:30 a.m
+- Homeland Security Narrative Report signed as well as his amended Request for Reimbursement
+
+## [yuma-county#1] 2026-08-13 | City Council | minutes
+- payable and discussed various meetings attended throughout the prior month
+- Road and Bridge
+- Road & Bridge Supervisor David Lee joined the meeting at 8:30 a.m. to provide department updates
+- Road Report - Crews are applying topcoat to roads throughout the county, pulling ditches, and
+- rebuilding County Road 52 between County Roads J and K. Lee found exposed fiber along County Road
+- 18 and requested a utility locate so crews can safely cover it and prevent damage. Crews are also
+- removing sand that blew onto County Road 29 following the wildfires
+- Road and Bridge Department is still looking for another blade operator and maintenance employees
+- County Road 39 Project - Paving is complete from County Road G to County Road M. Crews will begin
+- grinding from Highway 59 to County Road G and inspect the subgrade before paving is completed
+- Lee presented a bid for repairs on County Road M
+- Commissioner Leerar moved to approve the Estimate from Simon Construction for removal and
+- replacement of asphalt on County Road M in the amount of $410,050.00. Commissioner Gates
+- for discussion and action:
+- Commissioner Gates moved to approve the minutes from the July 30, 2026 regular meeting of the
+- Minutes prepared by Brandi Ritchey are a summary of discussions, not a verbatim account
+- Commissioner Gates moved to approve the Yuma County accounts payable check sequence 86126
+- Resolutions/Ordinances/Signatures/Ratifications:
+- Commissioner Leerar moved to approve Resolution 08-13-2026B A Resolution Supporting
+- Eastern Transportation Planning Region and the 911 Authority Board. The group discussed the Colorado
+- Urban & Community Foresty Grant Program that is due September 21, 2026. Ritchey noted that only one
+- bid was received for the surplus Tahoe-s. One of the Wray Volunteer Fire Department members reached
+- training that will be held at the end of August. The group also discussed a request to sign a resolution for
+- Initiative #175 that would re-direct revenue for Colorado roads in FYH2027-FY2040
+- Volunteer Fire Department for region wide Extrication Training. Commissioner Leerar seconded
+- He discussed current fire safety concerns, recent and upcoming weather conditions, and public health
+- drought monitor. Jake will begin working with ARCGIS to create a fire map. Jake is waiting for FEMA
+- approval on the HMP Plan
+- updates from her office. Hammond reported that the county has collected 95% of its tax revenue. Of the
+- county's 348 tax liens, 140 are currently eligible for deed applications. An additional 59 mineral liens will
+- become eligible for deed applications this year and must be researched back to the original land patents
