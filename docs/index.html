@@ -87,10 +87,16 @@ a { color: var(--accent); }
 .tabs button { padding: 8px 14px; background: none; color: var(--muted) !important; font-weight: 600; font-size: 14px; border-bottom: 2px solid transparent; margin-bottom: -1px; }
 .tabs button[aria-selected="true"] { color: var(--ink) !important; border-bottom-color: var(--ink); }
 select { width: 100%; padding: 9px 12px; margin-bottom: 14px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: inherit; }
-.cloud { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4px 14px; padding: 18px 8px; margin-bottom: 16px; border: 1px solid var(--line); min-height: 120px; }
-.cloud button { padding: 0; background: none; font-weight: 600; line-height: 1.15; }
-.cloud button[aria-pressed="true"] { text-decoration: underline; text-underline-offset: 4px; }
-.cloud button:hover { text-decoration: underline; }
+.stand { list-style: none; margin: 0 0 16px; padding: 0; }
+.stand li + li { margin-top: 8px; }
+.stand button { display: block; width: 100%; text-align: left; padding: 12px 14px; background: var(--panel); color: var(--ink) !important; border: 1px solid var(--line); font-weight: 400; }
+.stand button[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 3px 0 0 var(--ink); }
+.stand b { display: block; font-size: 17px; margin-bottom: 2px; }
+.stand .rank { color: var(--accent); font-weight: 600; font-size: 13px; }
+.stand .rank.top { color: var(--hl-ink); }
+.bars { display: grid; grid-template-columns: 92px 1fr 40px; gap: 3px 8px; align-items: center; margin-top: 8px; font-size: 12.5px; color: var(--muted); }
+.bars i { display: block; height: 8px; background: var(--accent); }
+.bars i.state { background: var(--line); }
 .unit { display: inline-flex; margin: 0 0 14px; border: 1px solid var(--line); }
 .unit button { padding: 6px 14px; background: var(--panel); color: var(--muted); font-weight: 600; font-size: 14px; }
 .unit button[aria-pressed="true"] { background: var(--ink); color: var(--panel) !important; }
@@ -107,7 +113,7 @@ select { width: 100%; padding: 9px 12px; margin-bottom: 14px; border: 1px solid 
   <aside>
     <h1>Town Hall Telescope</h1>
     <p class="lede">What Colorado's city and town councils and county commissions have been talking about. Records cover most of the state's larger cities, towns and counties so far, and more are being added. Tap the map, or type a zip code or county.</p>
-    <div class="tabs" role="tablist"><button type="button" role="tab" id="tab-map" aria-selected="true" aria-controls="pane-map">Map</button><button type="button" role="tab" id="tab-topics" aria-selected="false" aria-controls="pane-topics">Topic clouds</button></div>
+    <div class="tabs" role="tablist"><button type="button" role="tab" id="tab-map" aria-selected="true" aria-controls="pane-map">Map</button><button type="button" role="tab" id="tab-topics" aria-selected="false" aria-controls="pane-topics">County standouts</button></div>
     <div id="pane-map" role="tabpanel" aria-labelledby="tab-map">
     <form id="find"><input id="zip" placeholder="Zip or county, e.g. 80302 or Boulder" aria-label="Zip code or county name"><button>Show</button></form>
     <div class="unit" id="unit" role="group" aria-label="Show the map by"><button type="button" data-unit="zip" aria-pressed="true">Zip codes</button><button type="button" data-unit="county" aria-pressed="false">Counties</button></div>
@@ -115,9 +121,9 @@ select { width: 100%; padding: 9px 12px; margin-bottom: 14px; border: 1px solid 
     <div id="detail"></div>
     </div>
     <div id="pane-topics" role="tabpanel" aria-labelledby="tab-topics" hidden>
-      <p class="lede">The topics a county's local governments have discussed most in the last three months. Bigger words came up at more meetings. Pick a word to see those issues.</p>
+      <p class="lede">The topics a county's local governments spend more of their meetings on than any other county's, over the last three months. Pick a topic to see those issues.</p>
       <select id="county-pick" aria-label="County"></select>
-      <div class="cloud" id="cloud"></div>
+      <ul class="stand" id="cloud"></ul>
       <div id="topic-issues"></div>
     </div>
     <p class="note" id="about"></p>
@@ -309,37 +315,41 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
     show(k, true);
   });
 
-  // Topic clouds: one county at a time, its topics sized by how often they came up.
+  // County standouts: the topics a county gives more of its discussion to than other counties do.
   const tabs = {map: document.getElementById("tab-map"), topics: document.getElementById("tab-topics")};
   const pick = document.getElementById("county-pick");
   const counties = Object.keys(countyData.counties).sort();
   pick.innerHTML = counties.map(c => `<option value="${esc(c)}">${esc(c)} County</option>`).join("");
+  const pct = x => x > 0 && x < 0.01 ? "<1%" : Math.round(x * 100) + "%";
+  const nth = n => n + (n % 10 === 1 && n !== 11 ? "st" : n % 10 === 2 && n !== 12 ? "nd" : n % 10 === 3 && n !== 13 ? "rd" : "th");
   let cloudTopic = null;
   const drawCloud = () => {
-    const c = pick.value, topics = countyData.counties[c]?.topics || {};
+    const c = pick.value, list = countyData.counties[c]?.standouts || [];
     // Outline the county on the map (drawn by county while this tab is open).
     if (unit === "county" && layers[c]) { selected = c; layer.setStyle(style); layers[c].bringToFront(); }
-    const entries = Object.entries(topics).slice(0, 20);  // already sorted, biggest first
-    const box = document.getElementById("cloud");
-    if (!entries.length) {
-      box.innerHTML = `<p class="empty">No topics yet: none of ${esc(c)} County's local governments have records collected.</p>`;
-      document.getElementById("topic-issues").innerHTML = "";
+    const box = document.getElementById("cloud"), out = document.getElementById("topic-issues");
+    if (!list.length) {
+      box.innerHTML = `<li><p class="empty">Nothing to compare yet: none of ${esc(c)} County's local governments have records collected.</p></li>`;
+      out.innerHTML = "";
       return;
     }
-    const max = Math.max(...entries.map(([, v]) => v.weight)), min = Math.min(...entries.map(([, v]) => v.weight));
-    // Biggest words in the middle, the rest alternating to either side.
-    const order = [];
-    entries.forEach((e, i) => i % 2 ? order.push(e) : order.unshift(e));
-    box.innerHTML = order.map(([t, v]) => {
-      const r = max > min ? Math.sqrt((v.weight - min) / (max - min)) : 1;
-      const shade = r > 0.66 ? "--z4" : r > 0.33 ? "--z3" : "--z2";
-      return `<button type="button" data-t="${esc(t)}" aria-pressed="${t === cloudTopic}" style="font-size:${Math.round(13 + r * 27)}px;color:${css(shade)}">${esc(t)}</button>`;
-    }).join("");
-    box.querySelectorAll("button").forEach(b => b.addEventListener("click", () => { cloudTopic = b.dataset.t; drawCloud(); }));
-    if (!topics[cloudTopic]) cloudTopic = null;
-    document.getElementById("topic-issues").innerHTML = cloudTopic
-      ? `<div class="zip-head"><h2>${esc(cloudTopic)}</h2></div>` + topics[cloudTopic].issues.map(card).join("")
-      : `<p class="empty">The ${entries.length} topics that came up most in ${esc(c)} County.</p>`;
+    const leads = list[0].rank === 1;
+    const top = Math.max(...list.map(x => Math.max(x.share, x.state)));
+    box.innerHTML = list.map(x => `<li><button type="button" data-t="${esc(x.topic)}" aria-pressed="${x.topic === cloudTopic}">
+        <b>${esc(x.topic)}</b>
+        <span class="rank${x.rank === 1 ? " top" : ""}">${x.rank === 1 ? "More than any other county" : `${nth(x.rank)} of ${x.of} counties`}</span>
+        <span class="bars"><span>${esc(c)} County</span><i style="width:${x.share / top * 100}%"></i><span>${pct(x.share)}</span>
+          <span>Statewide</span><i class="state" style="width:${x.state / top * 100}%"></i><span>${pct(x.state)}</span></span>
+      </button></li>`).join("");
+    box.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+      cloudTopic = cloudTopic === b.dataset.t ? null : b.dataset.t; drawCloud(); }));
+    const chosen = list.find(x => x.topic === cloudTopic);
+    if (!chosen) cloudTopic = null;
+    out.innerHTML = chosen
+      ? `<div class="zip-head"><h2>${esc(chosen.topic)} in ${esc(c)} County</h2></div>` + chosen.issues.map(card).join("")
+      : `<p class="empty">${leads ? `${esc(c)} County leads the state on ${list.filter(x => x.rank === 1).length === 1 ? "this topic" : "these topics"}.`
+          : `${esc(c)} County doesn't lead any topic, so these are where it ranks highest.`}
+          Percentages are each topic's share of the county's local discussion, weighted by how many meetings it came up in. Counties with few records are pulled toward the statewide average.</p>`;
     history.replaceState(null, "", "#topics/" + slug(c) + (cloudTopic ? "/" + slug(cloudTopic) : ""));
   };
   pick.addEventListener("change", () => { cloudTopic = null; drawCloud(); });
@@ -369,7 +379,7 @@ Promise.all(["data/zips.geojson", "data/zips.json", "data/counties.geojson", "da
     const county = counties.find(n => slug(n) === c);
     if (county) pick.value = county;
     setTab("topics");
-    const topic = Object.keys(countyData.counties[pick.value]?.topics || {}).find(n => slug(n) === t);
+    const topic = (countyData.counties[pick.value]?.standouts || []).map(x => x.topic).find(n => slug(n) === t);
     if (topic) { cloudTopic = topic; drawCloud(); }
   }
 })

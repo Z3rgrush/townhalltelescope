@@ -375,7 +375,47 @@
       "aurora/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Data centers",
+     "rank": 2,
+     "of": 53,
+     "share": 0.036,
+     "state": 0.01,
+     "issues": [
+      "commerce-city/0",
+      "aurora/0",
+      "brighton/0",
+      "thornton/0",
+      "westminster/0"
+     ]
+    },
+    {
+     "topic": "Homelessness",
+     "rank": 3,
+     "of": 53,
+     "share": 0.025,
+     "state": 0.007,
+     "issues": [
+      "adams-county/5",
+      "westminster/5",
+      "aurora/3"
+     ]
+    },
+    {
+     "topic": "Oil, gas & mining",
+     "rank": 3,
+     "of": 53,
+     "share": 0.017,
+     "state": 0.005,
+     "issues": [
+      "commerce-city/5",
+      "adams-county/3",
+      "aurora/8"
+     ]
+    }
+   ]
   },
   "Alamosa": {
    "governments": [
@@ -453,7 +493,40 @@
       "alamosa-county/4"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Health & human services",
+     "rank": 3,
+     "of": 53,
+     "share": 0.222,
+     "state": 0.017,
+     "issues": [
+      "alamosa-county/0",
+      "alamosa-county/4"
+     ]
+    },
+    {
+     "topic": "Energy",
+     "rank": 4,
+     "of": 53,
+     "share": 0.111,
+     "state": 0.011,
+     "issues": [
+      "alamosa-county/3"
+     ]
+    },
+    {
+     "topic": "Utilities",
+     "rank": 13,
+     "of": 53,
+     "share": 0.111,
+     "state": 0.044,
+     "issues": [
+      "alamosa-county/2"
+     ]
+    }
+   ]
   },
   "Arapahoe": {
    "governments": [
@@ -871,7 +944,43 @@
       "arapahoe-county/10"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Data centers",
+     "rank": 5,
+     "of": 53,
+     "share": 0.022,
+     "state": 0.01,
+     "issues": [
+      "aurora/0",
+      "arapahoe-county/0",
+      "littleton/0"
+     ]
+    },
+    {
+     "topic": "Libraries & culture",
+     "rank": 6,
+     "of": 53,
+     "share": 0.021,
+     "state": 0.011,
+     "issues": [
+      "cherry-hills-village/5",
+      "cherry-hills-village/6",
+      "greenwood-village/7"
+     ]
+    },
+    {
+     "topic": "Oil, gas & mining",
+     "rank": 6,
+     "of": 53,
+     "share": 0.007,
+     "state": 0.005,
+     "issues": [
+      "aurora/8"
+     ]
+    }
+   ]
   },
   "Archuleta": {
    "governments": [
@@ -1019,7 +1128,48 @@
       "pagosa-springs/9"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Cannabis & liquor",
+     "rank": 4,
+     "of": 53,
+     "share": 0.011,
+     "state": 0.003,
+     "issues": [
+      "archuleta-county/7"
+     ]
+    },
+    {
+     "topic": "Housing",
+     "rank": 4,
+     "of": 53,
+     "share": 0.142,
+     "state": 0.067,
+     "issues": [
+      "pagosa-springs/3",
+      "archuleta-county/1",
+      "pagosa-springs/5",
+      "archuleta-county/0"
+     ]
+    },
+    {
+     "topic": "Zoning & development",
+     "rank": 4,
+     "of": 53,
+     "share": 0.21,
+     "state": 0.126,
+     "issues": [
+      "pagosa-springs/7",
+      "pagosa-springs/4",
+      "pagosa-springs/5",
+      "archuleta-county/0",
+      "archuleta-county/3",
+      "pagosa-springs/0",
+      "archuleta-county/5"
+     ]
+    }
+   ]
   },
   "Baca": {
    "governments": [
@@ -1095,7 +1245,21 @@
       "campo/4"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Transit",
+     "rank": 1,
+     "of": 53,
+     "share": 0.273,
+     "state": 0.008,
+     "issues": [
+      "campo/0",
+      "campo/1",
+      "campo/4"
+     ]
+    }
+   ]
   },
   "Bent": {
    "governments": [
@@ -1112,7 +1276,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Boulder": {
    "governments": [
@@ -1600,7 +1765,53 @@
       "superior/10"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Parks & open space",
+     "rank": 4,
+     "of": 53,
+     "share": 0.068,
+     "state": 0.04,
+     "issues": [
+      "superior/0",
+      "louisville/6",
+      "louisville/2",
+      "lafayette/4",
+      "superior/4",
+      "erie/3",
+      "longmont/2",
+      "boulder-county/15",
+      "erie/12",
+      "lyons/8",
+      "superior/6",
+      "lafayette/7"
+     ]
+    },
+    {
+     "topic": "Cannabis & liquor",
+     "rank": 6,
+     "of": 53,
+     "share": 0.005,
+     "state": 0.003,
+     "issues": [
+      "boulder/12",
+      "longmont/13"
+     ]
+    },
+    {
+     "topic": "Annexation",
+     "rank": 9,
+     "of": 53,
+     "share": 0.02,
+     "state": 0.013,
+     "issues": [
+      "lyons/0",
+      "longmont/4",
+      "boulder/6"
+     ]
+    }
+   ]
   },
   "Broomfield": {
    "governments": [
@@ -1730,7 +1941,47 @@
       "broomfield/12"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Elections",
+     "rank": 2,
+     "of": 53,
+     "share": 0.067,
+     "state": 0.015,
+     "issues": [
+      "broomfield/4"
+     ]
+    },
+    {
+     "topic": "Zoning & development",
+     "rank": 2,
+     "of": 53,
+     "share": 0.233,
+     "state": 0.126,
+     "issues": [
+      "broomfield/2",
+      "broomfield/0",
+      "broomfield/5",
+      "broomfield/8",
+      "broomfield/3",
+      "broomfield/6",
+      "broomfield/7",
+      "broomfield/11"
+     ]
+    },
+    {
+     "topic": "Transit",
+     "rank": 3,
+     "of": 53,
+     "share": 0.05,
+     "state": 0.008,
+     "issues": [
+      "broomfield/10",
+      "broomfield/3"
+     ]
+    }
+   ]
   },
   "Chaffee": {
    "governments": [
@@ -2025,7 +2276,27 @@
       "salida/5"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Environment & climate",
+     "rank": 1,
+     "of": 53,
+     "share": 0.114,
+     "state": 0.039,
+     "issues": [
+      "chaffee-county/4",
+      "buena-vista/4",
+      "buena-vista/15",
+      "chaffee-county/10",
+      "salida/4",
+      "chaffee-county/13",
+      "buena-vista/11",
+      "chaffee-county/9",
+      "salida/9"
+     ]
+    }
+   ]
   },
   "Cheyenne": {
    "governments": [
@@ -2062,7 +2333,29 @@
       "cheyenne-county/0"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Tourism & events",
+     "rank": 8,
+     "of": 53,
+     "share": 0.5,
+     "state": 0.019,
+     "issues": [
+      "cheyenne-county/0"
+     ]
+    },
+    {
+     "topic": "Government operations",
+     "rank": 14,
+     "of": 53,
+     "share": 0.5,
+     "state": 0.079,
+     "issues": [
+      "cheyenne-county/0"
+     ]
+    }
+   ]
   },
   "Clear Creek": {
    "governments": [
@@ -2291,7 +2584,42 @@
       "clear-creek-county/10"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Libraries & culture",
+     "rank": 2,
+     "of": 53,
+     "share": 0.028,
+     "state": 0.011,
+     "issues": [
+      "idaho-springs/1"
+     ]
+    },
+    {
+     "topic": "Historic preservation",
+     "rank": 3,
+     "of": 53,
+     "share": 0.042,
+     "state": 0.012,
+     "issues": [
+      "idaho-springs/1",
+      "clear-creek-county/4"
+     ]
+    },
+    {
+     "topic": "Fees & rates",
+     "rank": 5,
+     "of": 53,
+     "share": 0.081,
+     "state": 0.044,
+     "issues": [
+      "idaho-springs/3",
+      "silver-plume/1",
+      "idaho-springs/2"
+     ]
+    }
+   ]
   },
   "Conejos": {
    "governments": [
@@ -2328,7 +2656,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Costilla": {
    "governments": [
@@ -2350,7 +2679,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Crowley": {
    "governments": [
@@ -2475,7 +2805,20 @@
       "ordway/8"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Annexation",
+     "rank": 1,
+     "of": 53,
+     "share": 0.107,
+     "state": 0.013,
+     "issues": [
+      "ordway/0",
+      "ordway/1"
+     ]
+    }
+   ]
   },
   "Custer": {
    "governments": [
@@ -2631,7 +2974,45 @@
       "westcliffe/6"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Land & property",
+     "rank": 4,
+     "of": 53,
+     "share": 0.119,
+     "state": 0.045,
+     "issues": [
+      "silver-cliff/1",
+      "silver-cliff/5",
+      "silver-cliff/4",
+      "westcliffe/5"
+     ]
+    },
+    {
+     "topic": "Recreation & trails",
+     "rank": 5,
+     "of": 53,
+     "share": 0.069,
+     "state": 0.026,
+     "issues": [
+      "silver-cliff/3",
+      "westcliffe/7"
+     ]
+    },
+    {
+     "topic": "Housing",
+     "rank": 5,
+     "of": 53,
+     "share": 0.154,
+     "state": 0.067,
+     "issues": [
+      "westcliffe/1",
+      "silver-cliff/0",
+      "silver-cliff/1"
+     ]
+    }
+   ]
   },
   "Delta": {
    "governments": [
@@ -2885,7 +3266,19 @@
       "hotchkiss/3"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Short-term rentals",
+     "rank": 1,
+     "of": 53,
+     "share": 0.042,
+     "state": 0.006,
+     "issues": [
+      "paonia/0"
+     ]
+    }
+   ]
   },
   "Denver": {
    "governments": [
@@ -3038,7 +3431,30 @@
       "denver/14"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Homelessness",
+     "rank": 1,
+     "of": 53,
+     "share": 0.122,
+     "state": 0.007,
+     "issues": [
+      "denver/6",
+      "denver/7"
+     ]
+    },
+    {
+     "topic": "Airports",
+     "rank": 1,
+     "of": 53,
+     "share": 0.067,
+     "state": 0.008,
+     "issues": [
+      "denver/9"
+     ]
+    }
+   ]
   },
   "Dolores": {
    "governments": [
@@ -3124,7 +3540,45 @@
       "rico/0"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Government operations",
+     "rank": 2,
+     "of": 53,
+     "share": 0.381,
+     "state": 0.079,
+     "issues": [
+      "dove-creek/0",
+      "dove-creek/2",
+      "dove-creek/4",
+      "dove-creek/6"
+     ]
+    },
+    {
+     "topic": "Utilities",
+     "rank": 3,
+     "of": 53,
+     "share": 0.19,
+     "state": 0.044,
+     "issues": [
+      "dove-creek/1",
+      "dove-creek/5",
+      "dove-creek/6"
+     ]
+    },
+    {
+     "topic": "Water",
+     "rank": 5,
+     "of": 53,
+     "share": 0.143,
+     "state": 0.051,
+     "issues": [
+      "dove-creek/1",
+      "dove-creek/5"
+     ]
+    }
+   ]
   },
   "Douglas": {
    "governments": [
@@ -3428,7 +3882,25 @@
       "parker/14"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Parks & open space",
+     "rank": 1,
+     "of": 53,
+     "share": 0.087,
+     "state": 0.04,
+     "issues": [
+      "douglas-county/10",
+      "parker/7",
+      "castle-pines/5",
+      "parker/4",
+      "castle-pines/4",
+      "lone-tree/7",
+      "lone-tree/8"
+     ]
+    }
+   ]
   },
   "Eagle": {
    "governments": [
@@ -3736,7 +4208,35 @@
       "gypsum/11"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Immigration",
+     "rank": 1,
+     "of": 53,
+     "share": 0.004,
+     "state": 0.0,
+     "issues": [
+      "basalt/9"
+     ]
+    },
+    {
+     "topic": "Recreation & trails",
+     "rank": 1,
+     "of": 53,
+     "share": 0.079,
+     "state": 0.026,
+     "issues": [
+      "eagle/0",
+      "eagle/2",
+      "minturn/1",
+      "basalt/10",
+      "eagle/8",
+      "gypsum/4",
+      "gypsum/9"
+     ]
+    }
+   ]
   },
   "El Paso": {
    "governments": [
@@ -4045,7 +4545,52 @@
       "green-mountain-falls/2"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Annexation",
+     "rank": 2,
+     "of": 53,
+     "share": 0.038,
+     "state": 0.013,
+     "issues": [
+      "colorado-springs/1",
+      "palmer-lake/1",
+      "green-mountain-falls/7",
+      "palmer-lake/5"
+     ]
+    },
+    {
+     "topic": "Parks & open space",
+     "rank": 3,
+     "of": 53,
+     "share": 0.075,
+     "state": 0.04,
+     "issues": [
+      "palmer-lake/9",
+      "palmer-lake/8",
+      "palmer-lake/10",
+      "palmer-lake/3",
+      "colorado-springs/6",
+      "palmer-lake/11",
+      "green-mountain-falls/6",
+      "palmer-lake/12"
+     ]
+    },
+    {
+     "topic": "Lawsuits & legal",
+     "rank": 6,
+     "of": 53,
+     "share": 0.029,
+     "state": 0.012,
+     "issues": [
+      "monument/9",
+      "palmer-lake/6",
+      "palmer-lake/1",
+      "palmer-lake/5"
+     ]
+    }
+   ]
   },
   "Elbert": {
    "governments": [
@@ -4170,7 +4715,42 @@
       "kiowa/3"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Water",
+     "rank": 4,
+     "of": 53,
+     "share": 0.133,
+     "state": 0.051,
+     "issues": [
+      "elizabeth/2",
+      "elizabeth/3",
+      "kiowa/1",
+      "kiowa/4"
+     ]
+    },
+    {
+     "topic": "Downtown & business",
+     "rank": 7,
+     "of": 53,
+     "share": 0.067,
+     "state": 0.026,
+     "issues": [
+      "elizabeth/7"
+     ]
+    },
+    {
+     "topic": "Annexation",
+     "rank": 8,
+     "of": 53,
+     "share": 0.033,
+     "state": 0.013,
+     "issues": [
+      "elizabeth/5"
+     ]
+    }
+   ]
   },
   "Fremont": {
    "governments": [
@@ -4421,7 +5001,41 @@
       "canon-city/12"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Guns",
+     "rank": 2,
+     "of": 53,
+     "share": 0.014,
+     "state": 0.001,
+     "issues": [
+      "fremont-county/9",
+      "fremont-county/10"
+     ]
+    },
+    {
+     "topic": "Lawsuits & legal",
+     "rank": 2,
+     "of": 53,
+     "share": 0.05,
+     "state": 0.012,
+     "issues": [
+      "canon-city/1"
+     ]
+    },
+    {
+     "topic": "Tourism & events",
+     "rank": 3,
+     "of": 53,
+     "share": 0.079,
+     "state": 0.019,
+     "issues": [
+      "canon-city/1",
+      "canon-city/13"
+     ]
+    }
+   ]
   },
   "Garfield": {
    "governments": [
@@ -4746,7 +5360,47 @@
       "new-castle/8"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Transit",
+     "rank": 2,
+     "of": 53,
+     "share": 0.049,
+     "state": 0.008,
+     "issues": [
+      "glenwood-springs/10",
+      "garfield-county/12",
+      "glenwood-springs/11",
+      "parachute/8",
+      "garfield-county/10"
+     ]
+    },
+    {
+     "topic": "Short-term rentals",
+     "rank": 4,
+     "of": 53,
+     "share": 0.03,
+     "state": 0.006,
+     "issues": [
+      "glenwood-springs/1",
+      "glenwood-springs/2"
+     ]
+    },
+    {
+     "topic": "Health & human services",
+     "rank": 4,
+     "of": 53,
+     "share": 0.044,
+     "state": 0.017,
+     "issues": [
+      "garfield-county/5",
+      "garfield-county/12",
+      "garfield-county/9",
+      "rifle/6"
+     ]
+    }
+   ]
   },
   "Gilpin": {
    "governments": [
@@ -4915,7 +5569,42 @@
       "black-hawk/8"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Fire & emergencies",
+     "rank": 2,
+     "of": 53,
+     "share": 0.125,
+     "state": 0.023,
+     "issues": [
+      "gilpin-county/6",
+      "gilpin-county/0",
+      "black-hawk/5"
+     ]
+    },
+    {
+     "topic": "Elections",
+     "rank": 3,
+     "of": 53,
+     "share": 0.057,
+     "state": 0.015,
+     "issues": [
+      "gilpin-county/5",
+      "black-hawk/8"
+     ]
+    },
+    {
+     "topic": "Environment & climate",
+     "rank": 4,
+     "of": 53,
+     "share": 0.091,
+     "state": 0.039,
+     "issues": [
+      "gilpin-county/6"
+     ]
+    }
+   ]
   },
   "Grand": {
    "governments": [
@@ -5179,7 +5868,37 @@
       "winter-park/0"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Libraries & culture",
+     "rank": 1,
+     "of": 53,
+     "share": 0.03,
+     "state": 0.011,
+     "issues": [
+      "fraser/11",
+      "fraser/12"
+     ]
+    },
+    {
+     "topic": "Downtown & business",
+     "rank": 1,
+     "of": 53,
+     "share": 0.071,
+     "state": 0.026,
+     "issues": [
+      "fraser/11",
+      "winter-park/2",
+      "granby/8",
+      "granby/9",
+      "winter-park/0",
+      "winter-park/1",
+      "winter-park/5",
+      "winter-park/8"
+     ]
+    }
+   ]
   },
   "Gunnison": {
    "governments": [
@@ -5348,7 +6067,26 @@
       "crested-butte/4"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Budget & taxes",
+     "rank": 1,
+     "of": 53,
+     "share": 0.231,
+     "state": 0.113,
+     "issues": [
+      "gunnison-county/3",
+      "gunnison-county/9",
+      "gunnison-county/2",
+      "crested-butte/1",
+      "gunnison-county/1",
+      "gunnison-county/5",
+      "crested-butte/4",
+      "crested-butte/5"
+     ]
+    }
+   ]
   },
   "Hinsdale": {
    "governments": [
@@ -5473,7 +6211,45 @@
       "lake-city/4"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Fire & emergencies",
+     "rank": 3,
+     "of": 53,
+     "share": 0.12,
+     "state": 0.023,
+     "issues": [
+      "lake-city/0",
+      "lake-city/1",
+      "lake-city/10"
+     ]
+    },
+    {
+     "topic": "Environment & climate",
+     "rank": 3,
+     "of": 53,
+     "share": 0.096,
+     "state": 0.039,
+     "issues": [
+      "lake-city/1",
+      "lake-city/9",
+      "lake-city/10"
+     ]
+    },
+    {
+     "topic": "Government operations",
+     "rank": 3,
+     "of": 53,
+     "share": 0.172,
+     "state": 0.079,
+     "issues": [
+      "lake-city/2",
+      "lake-city/0",
+      "lake-city/11"
+     ]
+    }
+   ]
   },
   "Huerfano": {
    "governments": [
@@ -5654,7 +6430,21 @@
       "huerfano-county/9"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Cannabis & liquor",
+     "rank": 1,
+     "of": 53,
+     "share": 0.076,
+     "state": 0.003,
+     "issues": [
+      "huerfano-county/8",
+      "huerfano-county/0",
+      "huerfano-county/13"
+     ]
+    }
+   ]
   },
   "Jackson": {
    "governments": [
@@ -5671,7 +6461,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Jefferson": {
    "governments": [
@@ -6099,7 +6890,54 @@
       "jefferson-county/13"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Ethics & transparency",
+     "rank": 4,
+     "of": 53,
+     "share": 0.027,
+     "state": 0.006,
+     "issues": [
+      "golden/0",
+      "arvada/9",
+      "golden/4",
+      "lakewood/1"
+     ]
+    },
+    {
+     "topic": "Economic development",
+     "rank": 5,
+     "of": 53,
+     "share": 0.056,
+     "state": 0.025,
+     "issues": [
+      "golden/8",
+      "golden/1",
+      "golden/11",
+      "golden/13",
+      "westminster/2",
+      "westminster/8",
+      "morrison/5",
+      "jefferson-county/12",
+      "mountain-view/6"
+     ]
+    },
+    {
+     "topic": "Health & human services",
+     "rank": 5,
+     "of": 53,
+     "share": 0.037,
+     "state": 0.017,
+     "issues": [
+      "golden/3",
+      "jefferson-county/7",
+      "westminster/5",
+      "jefferson-county/0",
+      "golden/12"
+     ]
+    }
+   ]
   },
   "Kiowa": {
    "governments": [
@@ -6126,7 +6964,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Kit Carson": {
    "governments": [
@@ -6255,7 +7094,20 @@
       "burlington/2"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Energy",
+     "rank": 1,
+     "of": 53,
+     "share": 0.167,
+     "state": 0.011,
+     "issues": [
+      "kit-carson-county/1",
+      "kit-carson-county/0"
+     ]
+    }
+   ]
   },
   "La Plata": {
    "governments": [
@@ -6282,7 +7134,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Lake": {
    "governments": [
@@ -6429,7 +7282,21 @@
       "lake-county/12"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Fire & emergencies",
+     "rank": 1,
+     "of": 53,
+     "share": 0.147,
+     "state": 0.023,
+     "issues": [
+      "lake-county/0",
+      "lake-county/3",
+      "lake-county/6"
+     ]
+    }
+   ]
   },
   "Larimer": {
    "governments": [
@@ -6789,7 +7656,62 @@
       "windsor/10"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Fees & rates",
+     "rank": 3,
+     "of": 53,
+     "share": 0.088,
+     "state": 0.044,
+     "issues": [
+      "wellington/1",
+      "fort-collins/0",
+      "johnstown/12",
+      "berthoud/9",
+      "fort-collins/4",
+      "fort-collins/10",
+      "windsor/3",
+      "berthoud/8",
+      "wellington/4",
+      "fort-collins/1",
+      "johnstown/7"
+     ]
+    },
+    {
+     "topic": "Data centers",
+     "rank": 4,
+     "of": 53,
+     "share": 0.023,
+     "state": 0.01,
+     "issues": [
+      "berthoud/0",
+      "windsor/0",
+      "johnstown/0"
+     ]
+    },
+    {
+     "topic": "Water",
+     "rank": 6,
+     "of": 53,
+     "share": 0.087,
+     "state": 0.051,
+     "issues": [
+      "berthoud/4",
+      "johnstown/12",
+      "berthoud/11",
+      "windsor/0",
+      "wellington/10",
+      "johnstown/2",
+      "windsor/3",
+      "timnath/8",
+      "windsor/1",
+      "fort-collins/1",
+      "fort-collins/2",
+      "timnath/4"
+     ]
+    }
+   ]
   },
   "Las Animas": {
    "governments": [
@@ -6985,7 +7907,19 @@
       "starkville/14"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Guns",
+     "rank": 1,
+     "of": 53,
+     "share": 0.02,
+     "state": 0.001,
+     "issues": [
+      "starkville/14"
+     ]
+    }
+   ]
   },
   "Lincoln": {
    "governments": [
@@ -7153,7 +8087,56 @@
       "limon/0"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Water",
+     "rank": 1,
+     "of": 53,
+     "share": 0.213,
+     "state": 0.051,
+     "issues": [
+      "hugo/0",
+      "hugo/2",
+      "arriba/1",
+      "arriba/2",
+      "arriba/4",
+      "hugo/3",
+      "hugo/1",
+      "limon/1"
+     ]
+    },
+    {
+     "topic": "Utilities",
+     "rank": 1,
+     "of": 53,
+     "share": 0.18,
+     "state": 0.044,
+     "issues": [
+      "hugo/2",
+      "arriba/1",
+      "arriba/2",
+      "arriba/3",
+      "arriba/0",
+      "hugo/3",
+      "hugo/1",
+      "limon/1"
+     ]
+    },
+    {
+     "topic": "Fees & rates",
+     "rank": 1,
+     "of": 53,
+     "share": 0.119,
+     "state": 0.044,
+     "issues": [
+      "hugo/0",
+      "arriba/1",
+      "arriba/3",
+      "hugo/1"
+     ]
+    }
+   ]
   },
   "Logan": {
    "governments": [
@@ -7306,7 +8289,36 @@
       "sterling/6"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Health & human services",
+     "rank": 1,
+     "of": 53,
+     "share": 0.117,
+     "state": 0.017,
+     "issues": [
+      "sterling/1",
+      "sterling/10"
+     ]
+    },
+    {
+     "topic": "Zoning & development",
+     "rank": 1,
+     "of": 53,
+     "share": 0.281,
+     "state": 0.126,
+     "issues": [
+      "sterling/1",
+      "sterling/2",
+      "sterling/9",
+      "sterling/8",
+      "sterling/11",
+      "sterling/7",
+      "sterling/10"
+     ]
+    }
+   ]
   },
   "Mesa": {
    "governments": [
@@ -7592,7 +8604,50 @@
       "fruita/13"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Policing & public safety",
+     "rank": 6,
+     "of": 53,
+     "share": 0.046,
+     "state": 0.026,
+     "issues": [
+      "grand-junction/0",
+      "fruita/5",
+      "fruita/8",
+      "fruita/7"
+     ]
+    },
+    {
+     "topic": "Annexation",
+     "rank": 7,
+     "of": 53,
+     "share": 0.025,
+     "state": 0.013,
+     "issues": [
+      "fruita/0",
+      "grand-junction/13",
+      "fruita/2"
+     ]
+    },
+    {
+     "topic": "Roads & traffic",
+     "rank": 8,
+     "of": 53,
+     "share": 0.078,
+     "state": 0.045,
+     "issues": [
+      "grand-junction/3",
+      "mesa-county/1",
+      "fruita/5",
+      "grand-junction/13",
+      "grand-junction/14",
+      "fruita/6",
+      "fruita/7"
+     ]
+    }
+   ]
   },
   "Mineral": {
    "governments": [
@@ -7609,7 +8664,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Moffat": {
    "governments": [
@@ -7703,7 +8759,31 @@
       "craig/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Schools & youth",
+     "rank": 1,
+     "of": 53,
+     "share": 0.095,
+     "state": 0.009,
+     "issues": [
+      "craig/5"
+     ]
+    },
+    {
+     "topic": "Economic development",
+     "rank": 1,
+     "of": 53,
+     "share": 0.19,
+     "state": 0.025,
+     "issues": [
+      "craig/5",
+      "craig/0",
+      "craig/1"
+     ]
+    }
+   ]
   },
   "Montezuma": {
    "governments": [
@@ -7901,7 +8981,42 @@
       "dolores/10"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Recreation & trails",
+     "rank": 2,
+     "of": 53,
+     "share": 0.07,
+     "state": 0.026,
+     "issues": [
+      "dolores/2",
+      "dolores/8"
+     ]
+    },
+    {
+     "topic": "Parks & open space",
+     "rank": 2,
+     "of": 53,
+     "share": 0.088,
+     "state": 0.04,
+     "issues": [
+      "dolores/2",
+      "dolores/8",
+      "cortez/11"
+     ]
+    },
+    {
+     "topic": "Broadband",
+     "rank": 3,
+     "of": 53,
+     "share": 0.019,
+     "state": 0.002,
+     "issues": [
+      "dolores/7"
+     ]
+    }
+   ]
   },
   "Montrose": {
    "governments": [
@@ -8103,7 +9218,20 @@
       "montrose/11"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Elections",
+     "rank": 1,
+     "of": 53,
+     "share": 0.075,
+     "state": 0.015,
+     "issues": [
+      "montrose/0",
+      "montrose/2"
+     ]
+    }
+   ]
   },
   "Morgan": {
    "governments": [
@@ -8311,7 +9439,42 @@
       "fort-morgan/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Historic preservation",
+     "rank": 2,
+     "of": 53,
+     "share": 0.048,
+     "state": 0.012,
+     "issues": [
+      "fort-morgan/4"
+     ]
+    },
+    {
+     "topic": "Downtown & business",
+     "rank": 2,
+     "of": 53,
+     "share": 0.071,
+     "state": 0.026,
+     "issues": [
+      "fort-morgan/4",
+      "fort-morgan/5"
+     ]
+    },
+    {
+     "topic": "Fees & rates",
+     "rank": 2,
+     "of": 53,
+     "share": 0.113,
+     "state": 0.044,
+     "issues": [
+      "fort-morgan/2",
+      "fort-morgan/1",
+      "morgan-county/4"
+     ]
+    }
+   ]
   },
   "Otero": {
    "governments": [
@@ -8516,7 +9679,51 @@
       "manzanola/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Utilities",
+     "rank": 2,
+     "of": 53,
+     "share": 0.14,
+     "state": 0.044,
+     "issues": [
+      "la-junta/12",
+      "manzanola/1",
+      "manzanola/3",
+      "la-junta/1",
+      "manzanola/4",
+      "la-junta/11"
+     ]
+    },
+    {
+     "topic": "Water",
+     "rank": 3,
+     "of": 53,
+     "share": 0.15,
+     "state": 0.051,
+     "issues": [
+      "la-junta/12",
+      "manzanola/1",
+      "manzanola/3",
+      "la-junta/1",
+      "manzanola/4",
+      "la-junta/11",
+      "la-junta/3"
+     ]
+    },
+    {
+     "topic": "Economic development",
+     "rank": 4,
+     "of": 53,
+     "share": 0.067,
+     "state": 0.025,
+     "issues": [
+      "la-junta/4",
+      "la-junta/2"
+     ]
+    }
+   ]
   },
   "Ouray": {
    "governments": [
@@ -8687,7 +9894,21 @@
       "ridgway/11"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Tourism & events",
+     "rank": 1,
+     "of": 53,
+     "share": 0.118,
+     "state": 0.019,
+     "issues": [
+      "ouray-county/0",
+      "ridgway/7",
+      "ridgway/11"
+     ]
+    }
+   ]
   },
   "Park": {
    "governments": [
@@ -8907,7 +10128,42 @@
       "park-county/14"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Tourism & events",
+     "rank": 2,
+     "of": 53,
+     "share": 0.077,
+     "state": 0.019,
+     "issues": [
+      "park-county/2",
+      "park-county/13",
+      "fairplay/9",
+      "fairplay/12"
+     ]
+    },
+    {
+     "topic": "Guns",
+     "rank": 3,
+     "of": 53,
+     "share": 0.005,
+     "state": 0.001,
+     "issues": [
+      "park-county/14"
+     ]
+    },
+    {
+     "topic": "Lawsuits & legal",
+     "rank": 4,
+     "of": 53,
+     "share": 0.041,
+     "state": 0.012,
+     "issues": [
+      "fairplay/0"
+     ]
+    }
+   ]
   },
   "Phillips": {
    "governments": [
@@ -9069,7 +10325,42 @@
       "phillips-county/4"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Broadband",
+     "rank": 2,
+     "of": 53,
+     "share": 0.049,
+     "state": 0.002,
+     "issues": [
+      "phillips-county/5"
+     ]
+    },
+    {
+     "topic": "Roads & traffic",
+     "rank": 4,
+     "of": 53,
+     "share": 0.148,
+     "state": 0.045,
+     "issues": [
+      "phillips-county/5",
+      "phillips-county/6",
+      "phillips-county/7"
+     ]
+    },
+    {
+     "topic": "Policing & public safety",
+     "rank": 4,
+     "of": 53,
+     "share": 0.074,
+     "state": 0.026,
+     "issues": [
+      "phillips-county/9",
+      "phillips-county/10"
+     ]
+    }
+   ]
   },
   "Pitkin": {
    "governments": [
@@ -9326,7 +10617,29 @@
       "snowmass-village/11"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Housing",
+     "rank": 1,
+     "of": 53,
+     "share": 0.16,
+     "state": 0.067,
+     "issues": [
+      "snowmass-village/0",
+      "snowmass-village/1",
+      "basalt/3",
+      "aspen/2",
+      "snowmass-village/2",
+      "basalt/1",
+      "aspen/3",
+      "snowmass-village/7",
+      "snowmass-village/8",
+      "snowmass-village/4",
+      "basalt/2"
+     ]
+    }
+   ]
   },
   "Prowers": {
    "governments": [
@@ -9363,7 +10676,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Pueblo": {
    "governments": [
@@ -9569,7 +10883,20 @@
       "pueblo/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Lawsuits & legal",
+     "rank": 1,
+     "of": 53,
+     "share": 0.064,
+     "state": 0.012,
+     "issues": [
+      "pueblo/8",
+      "pueblo/4"
+     ]
+    }
+   ]
   },
   "Rio Blanco": {
    "governments": [
@@ -9714,7 +11041,19 @@
       "meeker/4"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Data centers",
+     "rank": 1,
+     "of": 53,
+     "share": 0.075,
+     "state": 0.01,
+     "issues": [
+      "rangely/0"
+     ]
+    }
+   ]
   },
   "Rio Grande": {
    "governments": [
@@ -9832,7 +11171,30 @@
       "del-norte/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Ethics & transparency",
+     "rank": 1,
+     "of": 53,
+     "share": 0.071,
+     "state": 0.006,
+     "issues": [
+      "del-norte/1"
+     ]
+    },
+    {
+     "topic": "Policing & public safety",
+     "rank": 1,
+     "of": 53,
+     "share": 0.143,
+     "state": 0.026,
+     "issues": [
+      "del-norte/1",
+      "del-norte/4"
+     ]
+    }
+   ]
   },
   "Routt": {
    "governments": [
@@ -10102,7 +11464,30 @@
       "oak-creek/3"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Agriculture & wildlife",
+     "rank": 1,
+     "of": 53,
+     "share": 0.041,
+     "state": 0.005,
+     "issues": [
+      "routt-county/2",
+      "hayden/6"
+     ]
+    },
+    {
+     "topic": "Oil, gas & mining",
+     "rank": 1,
+     "of": 53,
+     "share": 0.034,
+     "state": 0.005,
+     "issues": [
+      "routt-county/0"
+     ]
+    }
+   ]
   },
   "Saguache": {
    "governments": [
@@ -10139,7 +11524,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "San Juan": {
    "governments": [
@@ -10156,7 +11542,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "San Miguel": {
    "governments": [
@@ -10406,7 +11793,43 @@
       "telluride/5"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Oil, gas & mining",
+     "rank": 2,
+     "of": 53,
+     "share": 0.031,
+     "state": 0.005,
+     "issues": [
+      "san-miguel-county/0",
+      "san-miguel-county/11"
+     ]
+    },
+    {
+     "topic": "Ethics & transparency",
+     "rank": 2,
+     "of": 53,
+     "share": 0.032,
+     "state": 0.006,
+     "issues": [
+      "norwood/0",
+      "telluride/6"
+     ]
+    },
+    {
+     "topic": "Agriculture & wildlife",
+     "rank": 3,
+     "of": 53,
+     "share": 0.035,
+     "state": 0.005,
+     "issues": [
+      "san-miguel-county/7",
+      "san-miguel-county/8",
+      "san-miguel-county/10"
+     ]
+    }
+   ]
   },
   "Sedgwick": {
    "governments": [
@@ -10433,7 +11856,8 @@
    ],
    "issues": [],
    "tagged": {},
-   "topics": {}
+   "topics": {},
+   "standouts": []
   },
   "Summit": {
    "governments": [
@@ -10723,7 +12147,45 @@
       "frisco/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Short-term rentals",
+     "rank": 2,
+     "of": 53,
+     "share": 0.039,
+     "state": 0.006,
+     "issues": [
+      "blue-river/0",
+      "frisco/0"
+     ]
+    },
+    {
+     "topic": "Schools & youth",
+     "rank": 2,
+     "of": 53,
+     "share": 0.047,
+     "state": 0.009,
+     "issues": [
+      "summit-county/9",
+      "breckenridge/11",
+      "breckenridge/15",
+      "frisco/10",
+      "frisco/4",
+      "blue-river/8"
+     ]
+    },
+    {
+     "topic": "Oil, gas & mining",
+     "rank": 5,
+     "of": 53,
+     "share": 0.009,
+     "state": 0.005,
+     "issues": [
+      "summit-county/3"
+     ]
+    }
+   ]
   },
   "Teller": {
    "governments": [
@@ -10906,7 +12368,35 @@
       "teller-county/10"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Historic preservation",
+     "rank": 1,
+     "of": 53,
+     "share": 0.085,
+     "state": 0.012,
+     "issues": [
+      "woodland-park/0",
+      "woodland-park/7",
+      "woodland-park/6"
+     ]
+    },
+    {
+     "topic": "Land & property",
+     "rank": 1,
+     "of": 53,
+     "share": 0.137,
+     "state": 0.045,
+     "issues": [
+      "teller-county/0",
+      "woodland-park/0",
+      "teller-county/1",
+      "teller-county/9",
+      "teller-county/8"
+     ]
+    }
+   ]
   },
   "Washington": {
    "governments": [
@@ -11081,7 +12571,29 @@
       "akron/3"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Government operations",
+     "rank": 1,
+     "of": 53,
+     "share": 0.283,
+     "state": 0.079,
+     "issues": [
+      "washington-county/2",
+      "washington-county/3",
+      "washington-county/6",
+      "washington-county/4",
+      "washington-county/8",
+      "washington-county/10",
+      "washington-county/5",
+      "akron/1",
+      "akron/7",
+      "akron/8",
+      "akron/3"
+     ]
+    }
+   ]
   },
   "Weld": {
    "governments": [
@@ -11661,7 +13173,51 @@
       "windsor/9"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Libraries & culture",
+     "rank": 3,
+     "of": 53,
+     "share": 0.024,
+     "state": 0.011,
+     "issues": [
+      "greeley/4",
+      "greeley/5",
+      "greeley/10",
+      "frederick/5",
+      "mead/10"
+     ]
+    },
+    {
+     "topic": "Oil, gas & mining",
+     "rank": 4,
+     "of": 53,
+     "share": 0.017,
+     "state": 0.005,
+     "issues": [
+      "weld-county/5",
+      "weld-county/4",
+      "erie/2",
+      "fort-lupton/1",
+      "erie/0",
+      "severance/2",
+      "milliken/9"
+     ]
+    },
+    {
+     "topic": "Broadband",
+     "rank": 5,
+     "of": 53,
+     "share": 0.006,
+     "state": 0.002,
+     "issues": [
+      "hudson/3",
+      "hudson/6",
+      "windsor/10"
+     ]
+    }
+   ]
   },
   "Yuma": {
    "governments": [
@@ -11760,7 +13316,34 @@
       "yuma-county/7"
      ]
     }
-   }
+   },
+   "standouts": [
+    {
+     "topic": "Broadband",
+     "rank": 1,
+     "of": 53,
+     "share": 0.077,
+     "state": 0.002,
+     "issues": [
+      "yuma-county/6"
+     ]
+    },
+    {
+     "topic": "Roads & traffic",
+     "rank": 1,
+     "of": 53,
+     "share": 0.385,
+     "state": 0.045,
+     "issues": [
+      "yuma-county/0",
+      "yuma-county/2",
+      "yuma-county/5",
+      "yuma-county/6",
+      "yuma-county/1",
+      "yuma-county/3"
+     ]
+    }
+   ]
   }
  },
  "zips": {

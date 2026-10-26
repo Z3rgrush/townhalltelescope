@@ -219,7 +219,44 @@ def build_counties(pieces, issues):
             "topics": {t: {"weight": round(w, 1), "issues": ids[:TOP_COUNTY]}
                        for t, (w, ids) in sorted(topics.items(), key=lambda kv: -kv[1][0])},
         }
+    standouts(out)
     return {"counties": out, "zips": zc}
+
+
+SMOOTH = 30  # weight a county's topic shares are pulled toward the state's, so tiny records can't top a topic
+
+
+def standouts(counties):
+    """For each county, the topics it gives more of its discussion to than any other county does.
+
+    A topic's share is its weight over all the county's topic weight, smoothed toward the statewide
+    share. Counties that lead no topic get their three highest-ranked ones instead."""
+    have = {c: v["topics"] for c, v in counties.items() if v["topics"]}
+    totals = {c: sum(t["weight"] for t in ts.values()) for c, ts in have.items()}
+    state = defaultdict(float)
+    for ts in have.values():
+        for t, v in ts.items():
+            state[t] += v["weight"]
+    grand = sum(state.values()) or 1
+    state = {t: w / grand for t, w in state.items()}
+    share = {c: {t: (ts.get(t, {}).get("weight", 0) + SMOOTH * state[t]) / (totals[c] + SMOOTH) for t in state}
+             for c, ts in have.items()}
+    rank = {}
+    for t in state:
+        order = sorted(have, key=lambda c: -share[c][t])
+        for i, c in enumerate(order):
+            rank[c, t] = i + 1
+    for c, v in counties.items():
+        if c not in have:
+            v["standouts"] = []
+            continue
+        mine = [t for t in have[c] if have[c][t]["weight"] > 0]
+        lead = [t for t in mine if rank[c, t] == 1]
+        pick = lead or sorted(mine, key=lambda t: (rank[c, t], -share[c][t]))[:3]
+        pick.sort(key=lambda t: (rank[c, t], -share[c][t] / state[t]))
+        v["standouts"] = [{"topic": t, "rank": rank[c, t], "of": len(have),
+                           "share": round(have[c][t]["weight"] / totals[c], 3), "state": round(state[t], 3),
+                           "issues": have[c][t]["issues"]} for t in pick]
 
 
 def main():
