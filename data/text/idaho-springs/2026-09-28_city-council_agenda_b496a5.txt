@@ -1,0 +1,2258 @@
+City Council Regular Meeting Agenda 
+Monday, September 28, 2026 
+City Hall - 1711 Miner Street, Idaho Springs, CO 80452 
+ 
+Tel: (303) 567-4421 Fax: (303) 567-4955 
+ 
+Video from Meetings are viewable on the City’s Website. 
+You must join the Zoom Meeting (https://us02web.zoom.us/j/84204473555) 
+to participate in a meeting remotely.  
+1. Work Session Agenda and Packet (5:30 P.M.) 
+ a. Noise Ordinance 
+ b. Proposition 123 Affordable Housing Commitment Cycle 2027-2029 
+ c. Affordable Housing Incentives/Considerations 
+ d. Architectural Design Updates 
+ e. Parking Requirements Study Results 
+2. Call to Order (7:00 PM) 
+3. Roll Call 
+4. Pledge of Allegiance 
+5. Agenda Approval 
+ a. Motion to approve the agenda of September 28th, 2026 
+6. Conflict of Interest 
+7. Approval of Minutes 
+ a. Motion to approve the minutes of Tuesday September 15th, 2026 
+8. Approval of Bills 
+ a. Motion to approve the bills September 16th through September 30th, 2026 
+9. Public Comment 
+10. Unscheduled Public Comment 
+11. Finance Officer 
+ a. August 2026 Financial Statements 
+12. Resolutions 
+ a. Resolution #28, Series 2026 a resolution approving an amended grant of 
+Page 1 of 131
+easement and assignment of lease between the City of Idaho Springs and 
+Global Signal Acquisitions IV, LLC concerning wireless telecommunication 
+facilities on certain city-owned property (2000 Colorado Blvd) 
+ b. Resolution #29, Series 2026 a Resolution accepting Lot 3 of the Block 
+57/Former Golddigger Field Subdivision as a City Park and naming the same 
+Golddigger Park. 
+13. Ordinance First Reading 
+14. City Attorney 
+15. City Administrator 
+ a. Staff report submitted with one request for action.  Motion to approve a task 
+order in the amount of $96,815 from HDR Engineering for Right of Way 
+Acquisition Service for the Mobility Hub Program (account #59-70-5108). 
+16. Administration Department 
+ a. Assistant City Administrator – No staff report submitted 
+ b. Community Development Planner - Staff report submitted with one request for 
+action. Motion to direct staff to submit the city's Proposition 123 Commitment 
+for the 2027-2029 cycle. 
+ c. Deputy City Clerk – No staff report submitted 
+17. Police Department 
+ a. Staff Report-No Request for Action 
+18. Public Works Department 
+ a. Staff report - No request for action 
+19. City Clerk/Treasurer 
+20. Mayor/Council 
+21. Adjourn 
+  
+In-person and remote meeting public attendance and participation instructions: 
+Participation 
+• To provide scheduled public comment, either in person or remotely, please fill out 
+and return the Public Comment Form on the City's website. All requests must be 
+submitted to the City Clerk (cityclerk@idahospringsco.com) by 6 p.m. (Six) the 
+Wednesday before the scheduled meeting. 
+• To provide unscheduled public comment, please join the Zoom Meeting, identify 
+Page 2 of 131
+yourself with your full first and last name, and use the “Raise Hand” feature to 
+indicate your desire to speak. 
+General Guidelines 
+• Each public comment, whether scheduled or unscheduled, is limited to three (3) 
+minutes. 
+• Council typically does not provide feedback during public comment sessions.  
+• If you would like to provide materials for Council to review along with your 
+Comment, please sign up for Scheduled Public Comment and provide those 
+materials to the City Clerk by the Wednesday Deadline. 
+  
+Page 3 of 131
+ 
+TO:   Idaho Springs City Council 
+FROM:   Dylan Graves, Community Development Planner 
+SUBJECT:  Idaho Springs Noise Ordinance Requirements 
+MEETING DATE:  September 28, 2026 – Work Session 
+Background: 
+The City of Idaho Springs’ Municipal Code (ISMC) regulates noise in Chapter 17 – Miscellaneous Provisions and 
+Offenses. 
+ 
+The ISMC does not specify a maximum decibel level for noise. Currently, the Idaho Springs Police Department must 
+make a judgement call on what types, volumes, and intensities of noise are unreasonable and address complaints based 
+on that subjective standard. Additionally, a citation for Disorderly Conduct is a criminal citation, and the current code 
+does not provide the city with any civil remedies related to excessive noise. 
+ 
+Chief Buseck and the Police Department (PD) would like to have additional tools at the department’s disposal to better 
+address noise complaints when they come up. They want the ability to give someone a ticket or citation when they go 
+out to a property and someone refuses to comply with the noise requirements, rather than having to go through a 
+nuisance abatement process. The PD would like to be able to apply specific decibel (dB) requirements so that there is 
+an objective standard that the department can enforce. Chief believes that the department has the budget for a 
+professional grade dB reader to be able to clearly identify the noise level coming from a property. Using this objective 
+standard, an officer can quickly determine whether a complaint is valid.  
+ 
+The goals of an update would be: 
+1. Establish objective noise standards consistent with applicable provisions of Colorado law; 
+2. Establish reasonable standards for activities that commonly generate noise, including construction, amplified 
+sound, mechanical equipment, and temporary events; 
+3. Provide clear and predictable standards for residents, businesses, property owners, event organizers, and City 
+personnel; 
+4. Prevent unreasonable noise disturbances while avoiding unnecessary restrictions on lawful activities; and 
+5. Provide reasonable enforcement mechanisms for noise that cannot practicably be evaluated solely by 
+measurement of sound pressure levels. 
+ 
+How the Noise Ordinance can be Improved: 
+Staff believe that we could add four specific items to the Idaho Springs noise ordinance to improve PD enforcement 
+abilities for noise and clarify standards for everyone: 
+1. Objective dBA standards — the Colorado baseline.  
+2. Time-of-day standards — particularly for nighttime activities.  
+3. Prohibited activities and operational standards — construction, amplified sound, vehicles, etc.  
+4. General nuisance provision — for genuinely unreasonable noise that can't easily be captured by a meter. 
+ 
+Staff believe that we can largely adopt the state’s noise regulations, but with some added details specific to Idaho 
+Springs.  
+ 
+State Maximum Permission Noise Levels from CRS Section 25-12-103: 
+The state of Colorado has addressed noise in the Colorado Revised Statutes (CRS).  
+ 
+Every activity to which this article is applicable shall be conducted in a manner so that any noise produced is not 
+objectionable due to intermittence, beat frequency, or shrillness. The dB(A) described above would be measured from 
+the property line and at least 25 feet from the source of the noise.  
+ 
+ 
+ 
+Page 4 of 131
+2 
+ 
+ Daytime Hours (7am – 7pm) Nighttime Hours (7pm – 7am) 
+Residential 55 dB 50 dB 
+Commercial 60 dB 55 dB 
+Industrial 80 dB 75 dB 
+Parks and Recreation 55 dB 50 dB 
+ 
+In the hours between 7:00 a.m. and the next 7:00 p.m. (daytime hours), the noise levels permitted may be increased by 
+ten db(A) for a period of not to exceed fifteen minutes in any one-hour period.  
+ 
+Periodic, impulsive, or shrill noises shall be considered a public nuisance when such noises are at a sound level of five 
+db(A) less than those listed in subsection (1) of this section. 
+ 
+These could be things like repeated engine revving, repeated impact or banging, certain alarms, etc.  
+ 
+For the purposes of this article, measurements with sound level meters shall be made when the wind velocity at the 
+time and place of such measurement is not more than five miles per hour. In all sound level measurements, 
+consideration shall be given to the effect of the ambient noise level created by the encompassing noise of the 
+environment from all sources at the time and place of such sound level measurement. 
+ 
+Chief Buseck has some concern about the wind speed requirement, since there is nearly always some level of wind in 
+Idaho Springs. This would need some additional thought and might require a local standard that is different than the 
+State standard. 
+ 
+The State statute provides the following exceptions: 
+ 
+This article is not applicable to the use of property by this state, any political subdivision of this state, or any other 
+entity not organized for profit, including, but not limited to, nonprofit corporations, or any of their lessees, licensees, 
+or permittees, for the purpose of promoting, producing, or holding cultural, entertainment, athletic, or patriotic events, 
+including, but not limited to, concerts, music festivals, and fireworks displays. This subsection (11) shall not be 
+construed to preempt or limit the authority of any political subdivision having jurisdiction to regulate noise abatement. 
+Also exempt are aircrafts, railroads, speed and endurance racing events during specific hours as approved; 
+snowmaking; and other noise from utility commissions, such as electric transmission facilities.  
+ 
+This all seems reasonable. Staff from the administrative department and PD would be comfortable also adopting these 
+exceptions if the City chose to adopt local noise requirements that mirror the State’s.  
+ 
+OTHER THINGS TO CONSIDER: 
+ 
+Construction Hours: 
+The ISMC largely does not regulate construction noise, impacts, or hours, which has led to complaints in the past. The 
+city’s Standards and Specifications for Design and Construction document states that right-of-way (ROW) permits 
+authorize work between the hours of seven o’clock (7:00) am and seven o’clock (7:00) pm, Monday through Thursday, 
+and between the hours of seven o’clock (7:00) am and five o’clock (5:00) pm on Fridays, unless the Applicant obtains 
+written permission from the City Administrator to do the work earlier or later than the stated hours or on a weekend. 
+However, for non-ROW permits, there are no standards.  
+ 
+Staff believe it would be reasonable to establish construction hours as part of a noise ordinance update.  
+ 
+Looking at other communities around the state, there are some common standards.  
+• 7:00 a.m. and 7:00 p.m., Monday through Friday 
+Page 5 of 131
+3 
+ 
+• 8:00 a.m. and 5:00 p.m. on Saturdays.  
+• Construction activities are generally prohibited on Sundays and legal holidays unless authorized by the City 
+Administrator or Building Official for emergencies or when required to protect public health, safety, or 
+property.  
+ 
+The city would need to define construction activity, which could include heavy equipment use, demolition, concrete 
+work, saws, compressors, generators, etc.  
+ 
+Vehicle Noise: 
+Vehicles in motion would be difficult to enforce under a noise ordinance because they are in motion and are not 
+generating continuous noise levels above the required dBa at any given property for more than a brief period. Vehicles 
+being run at a property for an extended period would be regulated by this ordinance, but vehicles in motion may need 
+more or different consideration, which staff will need to consider in greater detail.  
+ 
+Amplified Sound: 
+Amplified sound. No person shall operate or permit the operation of an amplified sound system in such a manner that 
+sound exceeds the applicable maximum permissible noise level at the receiving property, or otherwise creates a plainly 
+audible and unreasonable disturbance to surrounding properties. 
+ 
+Normal Residential Activities: 
+Establishing a definition for “normal residential activities” seems beneficial to avoid situations where residents 
+engaged in routine activities around their property are out of compliance with the noise ordinance. For example, lawn 
+mowers, leaf blowers, and other power tools can exceed 55 dBa during normal operations, yet are routine and should 
+not be prohibited simply because they are over a set noise limit. An exception for normal residential activities during 
+daytime hours could be considered under the state’s noise ordinance.  
+ 
+Ordinary activities aren't violations just because they're audible unless they violate the ordinance in some other way: 
+• children playing  
+• lawn mowing  
+• snow removal  
+• normal conversation  
+• occasional parties  
+• residential maintenance  
+• normal vehicle operation  
+ 
+Nuisances: 
+The same nuisances would still apply as per Chapter 16 of the ISMC. Things like parties, loud music during “quiet 
+hours”, etc., could be regulated in that way if they are creating a true public nuisance.  
+ 
+Unreasonable noise prohibited. No person shall make, continue, or permit the making of noise that, because of its 
+volume, duration, frequency, intermittence, character, or time of occurrence, unreasonably disturbs the peace, comfort, 
+or repose of a reasonable person of ordinary sensitivity in the vicinity. 
+ 
+Noise Permits: 
+We may want to consider a 'noise permit' process for planned events that might exceed the permitted noise levels for 
+an approved period. This could be a noise permit that allowed higher noise (perhaps only until 10 pm). This could 
+allow for special events, small concerts, or other potential events to exceed the city’s noise ordinance for a certain 
+period so that the Police Department would not need to respond to every complaint. A noise permit could be 
+established as part of the City’s existing special event permitting process without any major additional changes needed 
+to the ISMC. If the City wanted to allow events on private property to be allowed to exceed the noise ordinance, 
+creating a special permitting process would be necessary.  
+Page 6 of 131
+ 
+TO:   Idaho Springs City Council 
+FROM:   Dylan Graves, Community Development Planner 
+SUBJECT:  Proposition 123 – Commitment Cycle 2027-2029 
+MEETING DATE:  September 28, 2026, City Council Work Session 
+ 
+BACKGROUND: 
+ 
+The City of Idaho Springs is compliant with state Proposition 123 requirements and met its commitment for the first cycle of the 
+program, that ran from 2024 to 2026. During this first cycle, the city’s commitment was 22 units.  
+ 
+It is now time to make a new commitment for the next cycle, which is from 2027 to 2029. The city needs to submit its commitment 
+by November 1, 2026, if we wish to remain a Proposition 123 committed community. 
+ 
+Benefits of committing to the program include having access to technical assistance for housing development, access to Proposition 
+123 specific funding (grants, loans, etc.), and the ability to collaborate with other committed communities. The city received several 
+grants during the 2024 to 2026 cycle to help support projects, including funding to get the senior housing project at 839 CO 103 off 
+the ground. Being a Proposition 123 community also allowed the Fieldhouse Apartments to secure state funding to help offset 
+development costs and restrict the development to a 90% AMI limit.  
+ 
+2027-2029 COMMITMENT REQUIREMENTS: 
+ 
+The state has updated how they calculate a community’s commitment for the 2027-2029 period. 
+ 
+The calculation is as follows: 
+• Average number of annual residential new construction building permits (or equivalent) over the past three years 
+• Multiply by 10%, 15%, or 20% (based on county job growth rate in relation to state job growth rate)  
+• Multiply by 3 (or number of years of commitment) 
+• Equals three-year unit growth commitment 
+ 
+I have done the math on the city’s potential commitment based on that formula. The city issued permits for an average of 43 units 
+per year from 2023 to 2025. Most of those units were the Fieldhouse Apartments, but the city also issued permits for eight townhomes 
+(Habitat homes on Virginia Street), and two new manufactured homes on single-family lots during this period. This means that the 
+number of total dwelling units in the city has increased by 129 since the start of 2023.  
+ 
+The city would use the 10% multiplier for county job growth rate, per DOLA.  
+ 
+As such, the calculation is as follows: 42 * 0.10 * 3 = 13 
+ 
+The city’s new commitment for the 2027-2029 Proposition 123 commitment cycle would thus be 13 new affordable dwelling units. 
+This is slightly lower than the commitment from the 2024-2026 cycle. City staff believe that this number can be reasonably met by 
+2029. 
+ 
+REQUEST FOR DIRECTION: 
+ 
+Does City Council want City Staff to submit a commitment for the 2027-2029 Proposition 123 commitment cycle? 
+Page 7 of 131
+ 
+TO:   City Council 
+FROM:   Dylan Graves, Community Development Planner 
+SUBJECT:  Potential Contributions or Incentives for Affordable Housing 
+MEETING DATE:  September 15, 2026 
+ 
+BACKGROUND 
+Because the city has been approached by affordable housing developers on several occasions to request incentives to help with 
+funding gaps, I was asked to put together a memo that discusses a potential incentive program that the city could offer to developers. 
+These requests have in the past requested both financial and non-financial incentives. Idaho Springs has previously considered 
+incentives on a case-by-case basis. The goal of this memo is to lay out potential options to formalize the type and scale of potential 
+incentives that the city would be willing to offer for affordable housing projects so that all projects are treated equally. This would 
+create clarity for developers interested in doing business in the city, even if the ultimate direction is to NOT provide incentives for 
+affordable housing.  
+ 
+This report seeks to set out a few items for consideration: 
+1. Does City Council want to offer incentives to help support affordable housing developments? 
+2. What type of incentives City Council is willing to offer for affordable housing projects 
+3. What is the maximum financial considerations that can be offered for a project? 
+4. At what affordability levels will incentives be offered? 
+ 
+AREA MEDIAN INCOME (AMI) CONSIDERATIONS 
+For a long time, the City Council has discussed the idea that the Area Median Income (AMI) that is identified by the Department of 
+Housing and Urban Development (HUD) and the Colorado Housing Finance Authority (CHFA) does not accurately capture Idaho 
+Springs’ true housing needs.  
+ 
+The Denver Metropolitan Statistical Area (MSA) Median Family Income is currently identified by HUD as $144,000 for a 4-person 
+household making 100% AMI. This is the baseline that HUD and CHFA use when determining who can afford different units and 
+at what rates rents can be set. For the Idaho Springs census tract, the “true” AMI for a 4-person household making 100% AMI is 
+$105,417. This is ~27% lower than the rate assigned by HUD. This means that the census tract that includes the city is clearly 
+misrepresented by the state’s standards. As such, Idaho Springs’ market rate housing and “true” median income is probably 60-70% 
+AMI based on the HUD/CHFA charts.  
+ 
+According to HUD charts, a one-bedroom unit designated as 100% AMI can be rented for up to $2,700. This is considered 
+“affordable” for someone making 100% of the AMI. However, when looking at Idaho Springs’ true median income, the rate that 
+would be affordable for someone making the city’s true AMI is only $1,845, a difference of $855 per month.  
+ 
+The state defines affordable housing as rental housing offered at 60% of AMI and for sale housing offered at 100% of AMI. For 
+Idaho Springs, true affordability for rental housing would be in the ~30% AMI range and for sale housing would be at the ~75% 
+AMI range.  
+ 
+ 
+ 
+Page 8 of 131
+2 
+ 
+With that in mind, the city does not “need” any housing at anything higher than ~ 50% of AMI. This is true when you look at the 
+DRCOG Regional Housing Needs Assessment, which has the majority of the city’s needs in the 0-50% range. As such, staff 
+recommend that if incentives are considered, they would be capped so that the city does not provide incentives for housing that the 
+city does not actually need.  
+ 
+For for-sale housing, a program that starts offering incentives at ~80% AMI might be reasonable, since the cheapest housing on the 
+market in Idaho Springs city limits today are on the market at that level or higher. There are very few for-sale properties on the 
+market now, so adding more units in the 80% AMI range or lower that can be purchased by local residents could be valuable.  
+ 
+HOW TO SET UP AN INCENTIVE PROGRAM 
+For any potential incentive program, the developer would need to show that there is a demonstrable financial gap. If there is not a 
+gap in the financing, and the project could be built without city incentives, then there is no reason to provide incentive funding. 
+Similarly, if there is a $200,000 funding gap, but they are eligible for $400,000 in incentives, the city would only provide a maximum 
+incentive of $200,000. We would want to set this up so that the city is the funder of last resort – if our contributions are not required, 
+they would not be provided.  
+ 
+Staff would also recommend that the city establishes different “tiers” of standards depending on the affordability of the project to 
+provide more incentives to projects that provide more affordability.  
+ 
+For example, when looking at other communities that offer financial incentives, they might break down the incentives per unit as 
+follows: 
+ 
+For rental units at 50% AMI: offset of $5,000 per unit 
+For rental units at 40% AMI: offset of $10,000 per unit 
+For rental units at 30% AMI: offset of $20,000 per unit 
+For rental units at 20% AMI or less: offset of $25,000 per unit 
+ 
+For for-sale units at 80% AMI: offset of $5,000 per unit 
+For for-sale units at 70% AMI: offset of $10,000 per unit 
+For for-sale units at 60% AMI: offset of $20,000 per unit 
+For for-sale units at 50% AMI or less: offset of $25,000 per unit 
+ 
+Staff would also recommend that the city determine the maximum financial amount that would be offered per project regardless of 
+the total number of units. This could be a percentage cap of the value of the project (e.g. up to 20% of total project budget) or a set 
+amount (e.g. $1 million).  
+ 
+POTENTIAL FINANCIAL INCENTIVES 
+Financial incentives may include the following. If City Council wants to set up affordable housing incentives, it would be beneficial 
+to determine which incentives are appropriate to offer developers.  
+ 
+1. Direct financial assistance 
+ 
+This is the most direct incentive for affordable housing and would involve the city providing direct financial assistance (cash 
+payments) to help fund the project. There are cities that have set up affordable housing funds to help fund projects. Longmont, Fort 
+Collins, Boulder, and Durango are four Colorado examples of communities that have provided direct funding to housing projects. 
+Similarly, cities like Breckenridge or Aspen act as developers on projects and thus are the major funding source for housing projects. 
+ 
+Potential value: depends on the project 
+ 
+2. Land donation and land banking 
+ 
+A land donation program would work by having the city donate land to an affordable housing developer, either fee simple or with a 
+long-term lease, to offset the cost of land acquisition associated with the project. This donation could be a sale of the property to a 
+developer or could be a long-term lease. Some cities, including Durango, Breckenridge, Frisco, Vail, Glenwood Springs, and 
+Boulder, have land banking programs where they acquire land and hold it for housing development. Donating existing city land 
+would be relatively inexpensive, though there is limited city-owned land currently available for that use. The state Department of 
+Page 9 of 131
+3 
+ 
+Local Affairs (DOLA) and Division of Housing (DOH) have set up a land banking program that could help fund property 
+acquisitions. 
+ 
+Potential value: depends on the project – low for projects on existing city-owned land, high if the city needed to acquire property 
+ 
+3. Waiver of building permit fees  
+4. Waiver of plan review fees 
+ 
+These two incentives could result in a direct cost to the city, since 80% of building permit fees are paid to SAFEbuilt. Staff would 
+not recommend the waiver of any fees that would be directly owed to SAFEbuilt for plan review or building permit fees. 
+ 
+That said, a portion of the building permit and plan review fees are paid to the city (approximately 20%). For these fees, the waiver 
+or reduction would be less impactful and would cost only city staff time associated with review. 
+ 
+Potential value: For a project valued at $20,000,000, permit fees would be $82,519.63, plus a plan review fee of 65% of the building 
+permit fee, leading to total fees of approximately $136,157.39. Of that amount, the city’s portion from the permit and plan review 
+fees would be approximately $27,231.48.  
+ 
+5. Waiver or reduction of water tap fees 
+6. Waiver or reduction of sewer tap fees 
+ 
+These water and sewer tap fees are plant investment fees paid for the maintenance and construction of water and sewer facilities in 
+Idaho Springs. Currently, the city’s water and sewer plants are in good working order, but plant investment fees are used when 
+maintenance is required. 
+ 
+Potential value: Depending on the number of taps needed and the size of taps needed, waived fees could be substantial. 
+ 
+7. Waiver or reduction of impact fees 
+ 
+The city charges $5,000 / unit of multifamily housing for impact fees, which are levied for the purpose of mitigating the impact that 
+the development projects have upon the City's ability to provide specified public facilities. These fees go towards growth-related 
+improvements, facilities and equipment in the general functional area of parks, fire, police, municipal facilities, recreation, 
+transportation, and storm water management. In the past, the city has been willing to apply the impact fees to public improvements 
+associated with the project in question. For example, the Fieldhouse Apartments project was able to apply their impact fees to the 
+widening of Miner Street, addition of sidewalks, and a new water line that provided clear public infrastructure investment.  
+ 
+Potential value: $5,000 / unit 
+ 
+8. Waiver or reduction of third-party fees (Engineering, Attorney, etc.) 
+ 
+Most land use projects require review by the city’s engineers and the city’s attorneys. Since the city contracts engineering and legal 
+services, any reduction in these review fees would be a real cost to the city because these review fees will still need to be paid by 
+someone for services rendered. 
+ 
+Potential value: Costs depend on the number of review hours needed. Average costs per hour for these services are between 
+approximately $188/hour and $240/hour.  
+ 
+9. Waiver or reduction of planning / entitlement fees 
+ 
+This would not cost the city any “real” funds, as this would simply be a waiver of application fees and staff fees associated with the 
+development review process. This would be a cost in the sense of waiving fees associated with staff time but would not cost the city 
+anything beyond staff salaries. These fees normally amount to a maximum of a few thousand dollars per project.  
+ 
+Potential value: Planning review fees are $75/hour, Administrative staff fees are $50/hour, City Administrator fees are $100/hour 
+ 
+10. Deferral of fees 
+Page 10 of 131
+4 
+ 
+ 
+Instead of paying fees early on during the project before revenues exist to pay out of pocket costs/fees, the city could defer payment 
+of fees until financing is available to pay for said expenses. Deferral could be an option to help support the project if the city is 
+unwilling to waive or reduce fees. 
+ 
+11. City Excise or Sales Tax Waivers 
+ 
+During construction, materials and equipment may be subject to city excise or sales taxes. The city could waive these taxes for 
+affordable housing projects. This incentive would require a rebate. The city would collect the relevant tax and then rebate it back to 
+the developer. There would be no “real” cost to the city but the city would forego potential tax revenues.  
+ 
+NON-FINANCIAL INCENTIVES 
+There are non-financial incentives or bonuses that could be offered to developers looking to construct affordable housing in the city. 
+These reduce costs of development and/or increase the total number of units that could be built on a given property.  
+ 
+12. Parking Reduction / Parking Fee-in-Lieu 
+ 
+Reducing parking requirements for affordable housing projects can help developers by reducing construction costs and allowing 
+them to build more housing units, thus increasing long-term revenues. The downside to a parking reduction is that it will increase 
+the parking burden on existing streets or city-owned parking lots. Parking fee-in-lieu is only $2,500 / space for residential uses. 
+Something the city could offer developers is the ability to waive fee-in-lieu fees if they are eligible for a parking fee-in-lieu. 
+ 
+13. Density Bonuses 
+14. Height Increases 
+15. Open Space Reductions 
+16. Lot-Width Reductions 
+17. Setback Reductions 
+ 
+These programs allow additional housing to be built at a higher density on a given property. Adding an extra story to a building can 
+significantly increase revenues for the developer without substantially increasing costs. Reducing open space requirements allows a 
+developer to build more units on a lot. Lot-width reductions and setback reductions allow more space to be used for parking, building 
+footprints, and other beneficial uses. Any or all of these potential land use incentives would increase a developer’s ability to maximize 
+buildout of their property. 
+ 
+These incentives come with a list of tradeoffs that would need to be considered. While they do not cost the city money, there could 
+be impacts felt by adjacent property owners. Allowing increased height would create taller buildings that could impact views and 
+change the community character by adding mass to existing neighborhoods. Open space reductions result in greater amounts of space 
+filled with impervious surfaces. Lot-width and setback reductions would allow for buildings to be built more closely to adjacent 
+properties.  
+ 
+REQUEST FOR DIRECTION: 
+ 
+1. Is City Council interested in pursuing affordable housing incentives further? 
+ 
+2. How much is City Council willing to incentivize? 
+ 
+3. Which incentives would City Council be willing to offer for affordable housing? 
+ 
+4. What affordability levels would City Council want to see in exchange for an incentive? 
+ 
+Page 11 of 131
+ 
+TO:   Idaho Springs City Council 
+CC:    City Administrator Andrew Marsh 
+FROM:   Dylan Graves, Community Development Planner 
+SUBJECT:  Updates to Sections 21-205 and 21-220, Building Height 
+MEETING DATE:  September 15, 2026 
+ 
+BACKGROUND 
+There has been significant talk about the need to consider architectural design updates throughout the city to better regulate how new 
+developments or significant redevelopments look architecturally.  
+ 
+The city regulates architectural design in several places, including: 
+• Section 21-205: Design setting 
+• Section 21-220: Multifamily and commercial architecture 
+• Building height and other development standards from Sec. 21-63 
+• Historic District: Design Guidelines for Historic Structures 
+• Chapter 26: East End Overlay District (EEOD) 
+• Other areas that impact overall building design (setbacks, parking requirements, landscaping requirements, etc.) 
+ 
+I spoke with Planning Commission about these topics in August and there was interest in working on some or all of them. Key 
+questions that came up were: 
+ 
+1. Do we want to strengthen and/or update the design setting requirements in Section 21-205 for the area around the historic 
+district and gateway areas? 
+2. Do we want to update architectural standards citywide for new multifamily and commercial developments? 
+3. Do we want to consider architectural standards for single-family and duplex construction?  
+4. Do we want to consider changes to the city’s building height standards? 
+5. Do we want to consider changes to the East End Overlay District? 
+ 
+The goal of this work session item is to get high-level feedback on each of the above questions to determine how staff should 
+proceed researching architectural design.  
+ 
+Section 21-205: Design Setting 
+For a bit of background, back in late 2025, I discussed with the Historic Preservation Review Commission (HPRC) ways to 
+strengthen the two-block buffer zone discussed in Section 21-205(A)(2) of the Idaho Springs Municipal Code (ISMC), which 
+requires the following: 
+ 
+New developments within a two-block radius of the outside boundary of the Historic District should build upon and support the 
+architectural features of the District itself. Use of Historic District building materials, architectural styles and designs based upon 
+historic City sites are strongly encouraged. 
+ 
+There are 102 total properties in the two-block buffer zone of the Historic District, and bordered by the following streets/roads: 
+• 12th Avenue to the West 
+• Virginia Street to the North 
+• 19th Avenue/Soda Creek Road to the East 
+• I-70 to the South 
+ 
+Section 21-205(A)(4) states that New projects within the immediate vicinity (three hundred [300] feet of the edge of Colorado 
+Department of Transportation right-of-way at the interchange) of Community Gateways shall develop elements of signage, 
+landscaping and site design to create and support a sense of entry to the City. Design work at gateways to the City should reflect 
+the historic mining heritage of the community. 
+Page 12 of 131
+2 
+ 
+ 
+Request for Direction: Does City Council want to see these sections strengthened and/or clarified to further protect the city’s 
+historic district buffer and gateway areas? 
+ 
+Section 21-220: Commercial and Multifamily Architecture 
+Section 21-220 of the ISMC concerns multifamily and commercial development, setting architectural standards for new 
+developments. This section applies to every multifamily or commercial development citywide, not just in the gateway areas of the 
+city or in the “buffer zone”. Since there are strong examples of historic-style buildings city-wide and the city does have a number 
+of existing, mature residential neighborhoods, ensuring that architecture is compatible across the city may be a positive goal, 
+especially since we have heard that there is appetite for redevelopment on the east and west end of the city.  
+ 
+Existing requirements are relatively broad, so perhaps we could focus on incorporating more specific language that speaks to the 
+type of buildings we want to see around the city. Do we want all buildings to have elements of Victorian-era architecture, or are 
+we okay with different designs outside of the downtown area (e.g. mountain modern design), as long as they look nice? There are a 
+lot of directions the city could go in updating this section.  
+ 
+Request for Direction: Is City Council interested in looking into revisions to Section 21-220, which applies to any multifamily or 
+commercial development citywide? 
+ 
+Single Family and Duplex Residential Design Requirements: 
+If the city is worried about changes to the character of the community, the city could consider creating basic requirements for 
+single-family architectural design. Currently, there are no such standards. Someone could demolish their existing 120+ year old 
+home and build a modern home that does not have any historic architectural design features. The city has historically been hesitant 
+to regulate new single-family developments, but if interest in the city continues to grow, we could see people interested in 
+redeveloping existing single-family lots around the city. 
+ 
+Request for Direction: Does City Council want to consider architectural design requirements for single-family and duplex 
+developments in addition to multifamily and commercial developments?  
+ 
+Building Height: 
+Currently, the city allows a 35-foot maximum height limit in every commercial and residential zone district, with the exception of 
+the East End Overlay District (EEOD), which allows even taller heights in some areas. The industrial zone districts also vary in 
+height requirements.  
+ 
+One of the concerns city staff have heard from the community is that a new 3-story building would be out of scale with existing 
+properties around the city. Many of the existing single-family homes in Idaho Springs are shorter than 35’ and most are at 
+maximum 2-stories tall. There is concern that if someone’s neighbor builds a 35’ tall building, its mass and scale would detract 
+from the city’s current character.  
+ 
+If City Council is interested in pursuing this further, there are a few ways that height could be addressed. The simplest way to 
+address this concern would be to simply reduce the height maximum allowances in certain or all zoning districts, perhaps to 25-30 
+feet. A second way would be to apply a standard that compares the height of a proposed building to adjacent buildings within a 
+certain area. For example, the city could say that no new building can be more than 10% taller than the average height of principal 
+buildings within 100’ of the subject property. This would mean that if the average height of those adjacent buildings is 25 feet, the 
+new building being built could not exceed 27.5 feet. This ensures that new buildings are suitable from a massing standpoint to not 
+stand out compared to its neighbors. The maximum height could remain at 35 feet where appropriate, but would limit height to a 
+lower maximum in areas where existing buildings are shorter.  
+Page 13 of 131
+3 
+ 
+Another important height-related consideration is how height is calculated. For a non-flat roof, the 35’ height limit is taken from 
+the average height between the highest ridge and the eave height. This functionally allows for buildings that have a ridge height 
+taller than 35’.  
+ 
+Request for Direction: Does City Council want to consider changing the city’s height standards? 
+ 
+East End Overlay District 
+A final item for discussion is the city’s East End Overlay District (EEOD), which sets different standards for setbacks, building 
+height, design standards, and other standards as compared to the city’s traditional zoning districts. The EEOD allows for buildings 
+that are built closer to the street and, in some cases, taller heights, as seen below: 
+ 
+No property owner or developer has yet taken advantage of the EEOD standards, but in the future, if someone submitted an 
+application on the far east end of the city for a 57’ tall building, it would meet the EEOD standards. Similarly, a 46’ tall building 
+could be permitted in the vicinity of City Hall. The goal of the EEOD is to encourage redevelopment of the eastern side of the city, 
+and the way it does that is by creating flexible standards that would allow for more density and thus more profits. However, since 
+there are concerns about building height and community character, staff thought it was worth bringing up whether any changes to 
+the overlay district might be warranted.  
+ 
+Request for Direction: Does City Council want to consider changes to the EEOD? 
+ 
+Residential Historic Districts and Local Designation of Historic Properties 
+Another important consideration is whether historic designation of historic properties could address local concerns about place-
+making and design. There are enough buildings with high historical integrity to create new districts or expand the existing historic 
+district. However, political will is needed, as there is a misconception that if your property is designated as a historic resource, you 
+are severely limited in what you can do. However, if the city really wants to maintain historic character and preserve the defining 
+characteristics of the city, preserving the existing buildings is critical. This will require public buy-in, since property cannot be 
+designated without property owner consent.  
+ 
+Page 14 of 131
+ 
+TO:   Idaho Springs City Council  
+CC:    City Administrator Andrew Marsh 
+FROM:   Dylan Graves, Community Development Planner 
+SUBJECT:  Internal Parking Study Results 
+MEETING DATE:  September 28, 2026 
+ 
+BACKGROUND 
+I was asked to conduct a study that looked at the city’s current parking requirements from Section 21-127 of the Idaho Springs 
+Municipal Code (ISMC) to see how the city’s current standards compare to those elsewhere in Colorado. 
+ 
+To complete this study, I reviewed the off-street parking requirements for 34 jurisdictions across the state. A table showing these 
+parking requirements is included as an attachment. While I did include Colorado Springs and Unincorporated Larimer County in 
+this study (their data was readily available), the rest of the communities are west of the Front Range and have an average 
+population of under 10,000 residents. The common theme for the communities chosen is that they experience large numbers of 
+visitors annually and are known for outdoor recreation and/or are located on a major highway corridor (I-70, U.S. 285, etc.).  
+ 
+RESIDENTIAL DEVELOPMENT 
+The average off-street parking spaces required for residential developments are as follows: 
+ 
+ Idaho Springs Average (32 jurisdictions) 
+Single-Family Detached 2 parking spaces / unit 2 parking spaces / unit 
+Single-Family Attached and/or 
+Duplex 
+ 1.25 per efficiency unit 
+1.5 per one-bedroom unit 
+1.5 per two-bedroom unit 800 SF or less 
+1.75 per two-bedroom unit over 800 SF 
+1.75 per three-bedroom unit 900 SF or 
+less 
+2.5 per three-bedroom unit over 900 SF 
+1.93 / unit 
+Multifamily, Studio 1.25 / unit 1.32 / unit 
+Multifamily, 1-bedroom 1.5 / unit 1.41 / unit 
+Multifamily, 2-bedroom 1.5 per two-bedroom unit 800 SF or less 
+1.75 per two-bedroom unit over 800 SF 
+ 
+1.77 / unit 
+Multifamily, 3+-bedroom 1.75 per three-bedroom unit 900 SF or 
+less 
+2.5 per three-bedroom unit over 900 SF 
+2 / unit 
+ 
+I also looked at the current number of off-street parking spaces provided at multifamily developments in Idaho Springs to get an 
+average number of spaces provided per unit for these types of developments. These are the actual calculations of parking that we 
+see on the ground at these developments: 
+• Riverbend Apartments: 1.08 spaces / unit 
+• Bighorn Apartments: ~1.8 spaces / unit 
+• Aspen Leaf Apartments: ~1.1 spaces / unit 
+• Fieldhouse Apartments: 1.5 spaces / unit 
+• Gold Rush Apartments: 1.75 spaces / unit 
+• Riverside Drive Townhomes: 2 spaces / unit 
+ 
+Interesting features of other jurisdictions: 
+ 
+Page 15 of 131
+2 
+ 
+• A few places require additional guest parking on top of their base parking requirements. For example, Basalt requires a 
+developer to build an additional 0.25 spaces / unit for projects with 6+ total units. Black Hawk requires 1 guest space / 5 
+multifamily units. Eagle requires 1 space / 6 multifamily units. Glenwood Springs requires 1.5 spaces / unit regardless of 
+bedroom count but then requires an additional space / 5 units.  
+• Several communities have a separate parking standard for dormitory style housing, requiring between 0.5 spaces and 2 
+spaces per bed for dormitories. 
+• A growing number of jurisdictions are reducing parking requirements for senior housing projects and affordable housing 
+projects, with data showing that these types of developments generate lower parking demands than market-rate housing 
+projects.  
+• Some places have parking maximums, with the idea being that cities do not want too much pavement.  
+ 
+Staff Analysis: 
+ 
+1. Single-Family Detached, Single-Family Attached, Townhome, and Duplex Development 
+ 
+No changes are suggested for single-family detached development. Idaho Springs’ current standards perfectly match the standards 
+found across the 32 jurisdictions reviewed.  
+ 
+For single-family attached, townhome, or duplex development, most other communities simply establish a standard for these units, 
+rather than determining the parking requirement based on bedroom count. If the city wanted to make a change, setting these to a 
+requirement of 2 spaces / unit (regardless of bedroom count) could be reasonable. 
+ 
+2. Multifamily, studio 
+ 
+Idaho Springs requires 1.25 spaces / studio apartment currently. The average across 32 surveyed jurisdictions for studios is 1.32 
+spaces per unit, with a range of 1 / unit to 1.5 / unit being the most common range. This shows that Idaho Springs is regulating 
+studio apartments similarly to other communities around Colorado.  
+ 
+3. Multifamily, 1-bedroom 
+ 
+Idaho Springs requires 1.5 spaces per 1-bedroom unit. The average required across the surveyed jurisdictions is 1.41 spaces per 1-
+bedroom unit. Idaho Springs is already well-aligned with the average found across the state. The average is higher than for studio 
+apartments, with the idea being that a 1-bedroom unit is more likely to be shared by two residents, while a studio is more 
+appropriate for a single occupant. Only 3 of the 32 jurisdictions require 2 or more parking spaces per unit for 1-bedroom units.  
+ 
+4. Multifamily, 2-bedroom 
+ 
+Idaho Springs requires between 1.5 and 1.75 spaces per unit for a 2-bedroom unit. The surveyed average is 1.77 spaces per 2-
+bedroom unit. Idaho Springs is thus very slightly below the standard found elsewhere in the state. The most commonly required 
+spaces per unit across the surveyed jurisdictions is 2 spaces / 2-bedroom unit. 1.5 spaces / 2-bedroom unit is the second most 
+commonly seen requirement. Almost no other jurisdictions have different parking space standards depending on square footage, so 
+it may make sense to establish one standard for all 2-bedroom units, regardless of size. Something between 1.5 / unit and 2 / unit 
+might be reasonable based on what we see elsewhere across the state.  
+ 
+5. Multifamily, 3+ bedrooms 
+ 
+Page 16 of 131
+3 
+ 
+Idaho Springs requires between 1.75 and 2.5 spaces per unit for a 3+ bedroom unit. The average across surveyed jurisdictions is 2 
+spaces per unit. Staff believe that establishing a set standard regardless of unit size makes sense. Since Idaho Springs already 
+requires 2.5 spaces / unit for larger 3+ bedroom units, establishing a set 2.5 space / unit standard may make sense. 
+ 
+6. Senior Housing 
+ 
+As we had previously discussed, some communities have different standards for senior housing developments. For jurisdictions 
+who have separate standards for senior housing, the average number of spaces required per unit varied from 0.5-1.0 spaces / unit.  
+ 
+The Planning Commission thought that it was wise to consider adding guest parking standards for multifamily units to 
+account for guests and visitors. The Planning Commission also thought it would be wise to set a single standard for single-
+family attached and/or duplex, multifamily 2-bedroom, and multifamily 3+ bedroom units, rather than tying the number of 
+parking spaces to square footage.  
+ 
+Based on the above, this might be reasonable for Idaho Springs for new residential developments: 
+ 
+Idaho Springs 
+Single-Family Detached 2 / unit 
+Single-Family Attached and/or Duplex  2 / unit 
+Multifamily, Studio 1.25 / unit 
+Multifamily, 1-bedroom 1.5 / unit 
+Multifamily, 2-bedroom 1.75 or 2 / unit 
+Multifamily, 3+-bedroom 2 or 2.5 / unit 
+Multifamily, Guest Parking 1 space / 5 units 
+Senior Housing 1.0 / unit 
+ 
+COMMERCIAL DEVELOPMENT 
+ 
+The city’s off-street parking requirements for commercial uses are more complicated than residential uses, as commercial uses 
+tend to require different standards depending on the type of use. For example, a theatre use requires 1 off-street parking space / 4 
+seats in the theatre, while other uses are based on internal square footage (offices are 1 space / 400 square feet of floor area).  
+ 
+After reviewing the city’s standards against the 32 jurisdictions surveyed, the city’s commercial parking standards are similar to 
+the averages found elsewhere. In general, most communities regulate retail, office, and lodging uses similarly. However, there are 
+a few items that city staff would like to discuss.  
+ 
+1. Rafting Headquarters and other guiding/outfitting headquarters 
+ 
+Larimer County is the only other jurisdiction besides Idaho Springs that I could find in Colorado that specifically calls out parking 
+for rafting headquarters. Larimer County requires 1 parking space / 200 square feet of floor area, while Idaho Springs requires 1 
+space / 400 square feet of floor area.  
+ 
+A rafting headquarters concentrates a significant amount of use into a small area, including employee and visitor parking, storage 
+of rafts, vehicles, and trailers, and safety training / education prior to heading off onto the river, taking the square footage of the 
+headquarters building is an incomplete picture for parking demand. There are very few ways that this is addressed in other 
+communities in Colorado that I could find, but I have considered what might be reasonable.  
+ 
+Rather than just say 1 space / 400 square feet, the city could update the standard to 1 / space per 400 square feet, PLUS 1 space / 
+employee or guide. Or the city could regulate it based on guests by saying 1 space / 400 square feet, PLUS 1 space / 3 customers.  
+Page 17 of 131
+4 
+ 
+ 
+This would provide a base parking requirement for this use and then require additional parking based on the intensity of the use. A 
+small rafting outfitter with only a few boats a day is going to generate far less traffic than a large outfitter with 20+ boats per day, 
+yet both might operate out of a similarly sized headquarters building. 
+ 
+This is something that could apply to other guiding or outfitting services. Rafting is currently the primary guided activity in Idaho 
+Springs, though we have one ziplining operation and, in the future, could see more outdoor recreation-related service uses, like 
+ATVs, mountain biking, fly fishing, etc. As such, it seems wise to address this standard currently while making other changes. 
+ 
+The Planning Commission liked the idea of changing “River rafting offices and operations” to “Guiding offices and 
+operations” to cover additional industries that are guiding / outfitter focused. They also liked the idea of setting a new 
+standard based on the number of employees and guests that are anticipated at the site. Something like 1 space / employee 
+PLUS 1 space / 3-4 guests at peak times. More research would be needed to determine how to best set this up and then 
+monitor it in practice.   
+ 
+2. Theaters, Event Center / Music Venue, and Indoor Recreation venues 
+ 
+The city currently requires 1 space / 4 theatre seats. This is relatively common across the state. However, this calculation does not 
+work as well if the theatre does not have seats. Eagle's land-use code says that when a parking standard is based on seating, “if 
+fixed seats are not provided, then parking shall be determined at a rate of one space per four occupants.” Changing the wording in 
+the ISMC from 1 space / 4 seats to “1 parking space / 4 occupants based on the maximum occupant load established by the adopted 
+building code” would solve this problem and reduce complexity.  
+ 
+It has been previously noted that theaters have an unusual parking profile, which may need additional consideration. A 7:00 PM 
+show might create very high demand for 2–3 hours, but the parking demand is much lower during the day. The question for 
+theatres and event venues is how City Council would like to consider uses that solely take place outside of the city’s “busier” 
+times? 
+ 
+The Planning Commission thought that a change from 1 / 4 seats to 1 / 4 occupants would clarify the requirement. There 
+was not a clear recommendation about how to consider parking demand outside the city’s managed parking hours.  
+ 
+3. Daycare 
+ 
+The city does not have parking standards for daycare use. Daycare is a strong priority for the city and county over the next few 
+years and if someone wished to establish a daycare, we would not have a clear parking requirement for this use. Daycare uses tend 
+to have high peak parking demands during drop off and pick up but otherwise have relatively low parking needs throughout the 
+day.  
+ 
+Different jurisdictions use different standards. For those who establish it on a square footage basis, the average is about 1 space / 
+300 square feet. The other way is to create a per child or per employee standard. Rifle and Nederland require 1 space / 10 children, 
+and Grand Lake and Silverthorne require 1 space / 8 children. Carbondale, Alamosa, and Durango require 1 space / employee.  
+ 
+Establishing a standard for this use may be beneficial in anticipation of more daycare and early childhood education options in 
+Idaho Springs.  
+ 
+The Planning Commission agreed that a standard for daycares would be beneficial. It was suggested that 1 space / 8 
+children would be a good standard.  
+ 
+4. Fitness Centers 
+Page 18 of 131
+5 
+ 
+ 
+This is one of the only commercial parking standards where the city is generally more aggressive than other jurisdictions. The 
+average across the other jurisdictions is approximately 1 space / 200-300 square feet of floor area. Changing this standard would 
+reduce the parking demand for a 10,000 square foot gym from 67 parking spaces to 35-50 spaces. Speaking with the Clear Creek 
+Metropolitan Recreation District, their maximum daily number of users is about 300 from when the facility opens at 6:30am until 
+it closes at 8pm. This is an average of approximately 22 users per hour, though the before work and after work peaks are much 
+higher. Those peak periods before and after work are the primary times when 1 space / 150 square feet might be appropriate. 
+However, during the majority of the day, that many parking spaces would be unnecessary.  
+ 
+The Planning Commission thought that this should be researched in greater detail. While 1 space / 150 square feet does 
+seem higher than necessary, the Commission asked me to do some more research on the actual demand of the current rec 
+center and on parking needs for other types of fitness facilities. 
+ 
+5. Other 
+ 
+We didn’t see anything else that is substantially different from what is seen elsewhere around the state. That said, does the City 
+Council have any additional thoughts on parking regulations that might benefit from a change or might need to be added to the 
+ISMC? 
+ 
+REQUESTS FOR DIRECTION: 
+ 
+• Should staff proceed with further research into the city’s parking standards? 
+• Should staff begin working on a potential code amendment to amend the city’s parking standards? 
+ 
+ 
+ 
+ 
+Page 19 of 131
+Idaho Springs Average Gunnison Breckenridge Glendale Colorado Springs Gypsum Frisco Vail Buena Vista
+single-family 2 2 2 2 4 2
+2 for up to 2,000 sf; 1 add'l 
+space per 1000 sf 2
+duplex/townhome
+Depends on # 
+of bedrooms 1.93 1 2 single-family single-family single-family 1.5
+mobile home 2 2 1 single-family single-family single-family single-family
+ADU N/A 0-1 0 1 1 1
+multifamily, studio 1.25 1.322058824 1.75 1 1.5 1 2 1 1.5 1.5
+multifamily, 1-bed 1.5 1.411764706 1.75 1.5 1.5 1 2 1 2 1.5
+multifamily, 2-bed 1.5 - 1.75 1.773529412 1.75 1.5 2 1.5 3 2 2 1.5
+multifamily, 3-bed 1.75 - 2.5 2 1.75 1.5 2.5 2 3 3 2 1.5
+multifamily, 4+-bed 1.75 - 2.5
+Affordable Units
+1/ bedroom, 
+up to 2 spaces
+Senior Housing
+Notes
+Existing Multifamily in Idaho Springs
+Riverbend Apartm47 units 51  spaces 1.08 spaces/unit
+Bighorn Apartme41 Units ~72 spaces ~1.8 spaces / unit
+Aspen Leaf Apart24 units ~25 spaces ~1 space / unit
+Fieldhouse Apar 119 units 177 spaces 1.5 spaces / unit
+Gold Rush Apts (  8 units 14 spaces 1.75 spaces / unit
+Page 20 of 131
+Aspen Alamosa Avon Basalt Black Hawk Canon City Crested Butte Carbondale Larimer County
+single-family 2 2 2 2 2 Depends on bedr 2
+duplex/townhome 2 2 2 2 4 Depends on bedr 2
+mobile home 2 2 2 2 Depends on bedr 2
+ADU 1 1 / 1-bed, 2 / 2+ 2
+multifamily, studio 1 1.25 1 1.5 1.5 1.5 1.5 1.25 1
+multifamily, 1-bed 1 1.25 1.5 1.5 1.5 1.5 1.5 1.5 1
+multifamily, 2-bed 2 1.75 2 2 2 1.5 1.5 1.5 2
+multifamily, 3-bed 2 2.5 2 2.5 2 1.5 2.5 1.5 - 1.75 2
+multifamily, 4+-bed 3 2 1.5 3.5 1.75 - 2.5 2
+Affordable Units Reduction for 80% AMI or less
+1/studio or 1-bed, 
+2/2+ bed
+Senior Housing 0.5 / studio or 1-bed, 1 / 2-bed 0.5
+Notes
+Requires guest parking 
+in addition to the 
+residential parking
+Add 0.25 spaces per unit for 
+multifamily with 6+ units (for 
+guests)
+1 guest space / 5 
+units
+They have the 
+same standards 
+as Idaho Springs
+3-5 units = 2 spaces; 6-
+10 = 3 spaces; 11-15 = 4 
+spaces, etc.
+Page 21 of 131
+Durango Dillon Eagle Estes Park Fairplay Fruita Georgetown Glenwood Grand Lake
+single-family 2 2 2 (3 for 3+ rooms) 2 2 3 2 1 2
+duplex/townhome 2 2 2 (3 for 3+ rooms) 2 2 1.75 2 1.5 2
+mobile home 2 2 2 (3 for 3+ rooms) 2 2 3 2 1 2
+ADU 1 for studio or 1-bed, 2 for 2+ 1 1 1
+multifamily, studio 1.7 1.5 1 1.5 1.5 1 1.5 1.5 1
+multifamily, 1-bed 2 1.5 1.5 1.5 1.5 1 1.5 1.5 1
+multifamily, 2-bed 2.3 2 2 2.25 1.75 1.5 1.5 1.5 1.5
+multifamily, 3-bed 2.5 2.5 2.5 2.25 2 2 1.5 1.5 2
+multifamily, 4+-bed 2.5 2.5 2.25 2 2 1.5 1.5 2.5
+Affordable Units
+0.5 spaces per studio or 1-bedroom unit
+0.75 spaces per 2-bedroom unit
+1.25 spaces per 3-bedroom or larger unit
+1.5 per dwelling unit, 
+plus 1 guest space per 
+each 5 dwelling units
+Senior Housing 0.75
+Notes Dorms - 1 / 2 beds
+Dorms - 2 / room; 
+Multifamily also 
+requires an 
+additional guest 
+space per 6 units
+Add guest 
+parking req of 
+1 space / 5 
+units
+Page 22 of 131
+Leadville Manitou Springs Montrose Nederland Rifle Ridgway Silverthorne Summit County Average
+single-family 0 2 2 2 2 2 2 2 2
+duplex/townhome 1 2 1.5 2 2 2 2 2 1.93
+mobile home 0 2 2 2 2 2 2 2
+ADU 1 1 1 2
+multifamily, studio 1 1.5 1.5 1 1.5 1 1 1.5 1.322058824
+multifamily, 1-bed 1 1.5 1.5 1 1.5 1 1.5 1.5 1.411764706
+multifamily, 2-bed 1 2 1.5 1 2 1 2 2 1.773529412
+multifamily, 3-bed 1 2 1.5 1 2 1 2.5 2 2
+multifamily, 4+-bed 2 1.5 1 2 1 3 2
+Affordable Units
+Senior Housing
+Notes
+1 space per bedroom, 
+with an extra space per 
+every 4 units for other 
+purposes (e.g. guests)
+Page 23 of 131
+Commercial
+Idaho Springs Gunnison Breckenridge Gypsum Frisco Buena Vista
+Gyms 1 / 150 1 / 1000 sf 1 / 200 sf 1 / 500 sf
+Lodging 1 / room + 2 1 / room 1 / room 1 / room 1 / room
+Auto Services 1 / 3 bays 2 per bay 1 / 100 sf of office, plus 3/bay 4 per bay 4 per bay
+Retail 1 / 300 1 / 1000 sf 1 / 400 sf 1 / 350 sf 1 / 350 sf 1 / 500 sf
+Food and Beverage (Restaurants) 1 / 250 1 / 600 sf 1 / 125 sf
+1 / employee, min of 4, plus 1 / 4 seats or 100 
+square feet of eating area, whichever is 
+greater. 1 / 250 sf 1 / 250 sf
+Grocery Store 1 / 300 1 / 250 sf 1 / 350 sf 1 / 350 sf 1 / 500 sf
+Theatre 1 / 4 seats 1 / 600 sf 1 / 4 seats 1 / 100 sf seating area 1 / 4 seats 1 / 500 sf
+Church 1 / 3 seats 1 / 6 seats 1 / 100 sf 1 / 4 seats 1 / 6 seats
+Office 1 / 400 1 / 300 sf 1 / 250 sf 1 / 350 sf
+Rafting 1 / 400
+Day care N/A 1 / employee 1 / 250 sf
+Community Center / Library 1 / 400 + 1 / 2 employees 1 / 300 sf 1 / 500 sf
+Indoor recreation 1 / 4 seats special review 1 / 500 sf
+Educational 1.5 / classroom + 1 / 5 seats in auditorium 2 / classroom 1 / 250 sf 3 / classroom
+Medical Offices 1 / 400 1 / 300 sf 1 / 250 sf
+B&B 2 spaces + 1 / bedroom 1/room + 1/employee 1 / room plus 1 for manager
+*Note that not all communities 
+identify the same commercial 
+uses. The uses above are those 
+that are common across many 
+communities.
+Page 24 of 131
+Commercial
+Aspen Alamosa Avon Basalt Black Hawk Canon City Crested Butte Carbondale
+Gyms 3 / 1000 sf 1 / 125 sf 1 / 300 sf 1 / 500 sf 1 / 200 sf
+Lodging 0.7 / room 1.1 / room 1 / room 1 / room + 2 1.12 / room 1 / room + 1 / staff 1 / room + 2 for management 1 / room
+Auto Services 3 / 1000 sf 1 / 100 sf 4 / bay
+Retail 3 / 1000 sf 1 / 250 sf 1 / 300 sf 1 / 250 sf 1 / 300 sf 1 / 500 sf 1 / 200 sf
+Food and Beverage (Restaurants) 3 / 1000 sf 11 / 1000 sf 1 / 60 sf 1 / 300 sf 1 / 75 sf 1/ 100 sf
+1 / 500 sf for first 1,000 sf, then 1 
+/ 250 for each additional 1000 sf 1 / 150 sf
+Grocery Store 3 / 1000 sf 4 / 1000 sf 1 / 250 sf 1 / 500 sf 1 / 300 sf
+Theatre 3 / 1000 sf 1 / 2 seats TBD 1 / 3 seats 1 / 4 seats 1 / 4 seats
+Church Special Review 4 / 1000 sf 1 / 4 seats 1 / 4 seats 1 / 8 seats 1 / 6 seats
+Office 3 / 1000 sf 1 / 250 sf 1 / 250 sf 1 / 300 sf 1 / 500 sf 1 / 300 sf
+Rafting 3 / 1000 sf
+Day care 3 / 1000 sf 1 / employee 2 / 1000 sf 2 / staff member 1 / 500 sf 1 / employee
+Community Center / Library Special Review 4 / 1000 sf 1 / 400 sf 1 / 400 sf
+Indoor recreation 3 / 1000 sf 1 / 200 sf
+Educational Special Review 1 / 10 students 4 / 1000 sf 1 / classroom + 1 / employee 1 / instructor + 0.5 / 3 / classroom + 1 / staff 1.5 / classroom
+Medical Offices 3 / 1000 sf 1 / 150 sf 4 / 1000 sf 1 / 200 sf 1 / 135 sf 1 / 300 sf 1 / 200 sf
+B&B 0.7 / room 1 / room plus 1 for manager 1 / room 1 / room 1 / room + 1 / staff 1 / room + 2 for management 2 + 1 / room
+*Note that not all communities 
+identify the same commercial 
+uses. The uses above are those 
+that are common across many 
+communities.
+Page 25 of 131
+Commercial
+Larimer County Durango Dillon Estes Park Eagle Fairplay Fruita Georgetown
+Gyms 1 / 200 sf 1 / 150 sf 1 / 400 sf 1 / 400 sf 1 / 200 sf 3 / 1000 sf 1 / 300 sf
+Lodging 1 / 3 rooms 1.1 / room 1.1 / room 1 / room + 1 / 3 employees 1.167 / room 1 / room 0.75 / room 1 / room
+Auto Services 1 / 450 sf 1 / 300 sf 1 / bay + 1 / employee 2 / bay + 1 / employee 3 / bay 4 / bay 1 / 300 sf
+Retail 1 / 200 sf 1 / 250 sf 1 / 400 sf 1 / 200 sf 1 / 400 sf 1 / 400 sf 1 / 500 sf 1 / 300 sf
+Food and Beverage (Restaurants) 1 / 100 sf 1 / 75 sf of dining room 1 / 120 sf 1 / 100 sf 1 / 200 sf 1 / 150 sf 1 / 300 sf
+Grocery Store 1 / 200 sf 1 / 250 sf 1 / 400 sf 1 / 250 sf 2.5 / 1000 sf 1 / 300 sf
+Theatre 1 / 4 seats 1 / 3 seats or 1 / 60 sf (if no seats) 1 / 4 seats 1 / 3 seats 1 / 6 seats 1 / 300 sf
+Church 1 / 3 seats 1 / 250 sf 1 / 400 sf 1/ 50 sf of seating 1 / 300 sf 1 / 3 seats 1 / 100 sf 1 / 300 sf
+Office 1 / 250 sf 1 / 300 sf 1 / 200 sf 1 / 400 sf 1 / 400 sf 2.5 / 1000 sf 1 / 300 sf
+Rafting 1 / 200 sf 1 / 300 sf
+Day care 1 / 450 sf 1 / employee 1 / employee + 1 / 10 children 1 / 6 people 1 / 6 students + 1 / teacher 2 / 1000 sf 1 / 300 sf
+Community Center / Library 3.5 / 1000 sf 1 / 400 sf 1 1 / 300 sf
+Indoor recreation 1 / 200 sf 1 / 150 sf 1 / 400 sf 1 / 300 sf
+Educational 2 / classroom 2 / classroom 2 / classroom 2 / classroom 2 / classroom 1 / employee + 1.5 / classroom 5 / classroom 1 / 300 sf
+Medical Offices 1 / 200 sf 1 / 300 sf 1 / 400 sf 1 / 400 sf 1 / 300 sf
+B&B 1 / bedroom 1 space + 1 / room 1 / room + 2 for residents 2 + 1 / room 1 / room + 2 for owner 0.75 / room 1 / room
+*Note that not all communities 
+identify the same commercial 
+uses. The uses above are those 
+that are common across many 
+communities.
+Page 26 of 131
+Commercial
+Glenwood Grand Lake Leadville Manitou Springs Montrose Nederland Rifle Ridgway
+Gyms 1 / 400 sf
+Lodging 1 / room 1 / room + 2 1 / room 1 / room 1 / room 1 / room 0.75 / room - 1 / room 1 / room
+Auto Services 1 per 500 square feet, plus 3 per repair bay 1 / 375 sf 1 / 300 sf
+Retail 1 / 300 sf 1 / 350 sf 1 / 400 sf 1 / 400 sf 1 / 250 sf 1 / 300 sf 1 / 500 sf
+Food and Beverage (Restaurants) 1 / 200 sf 1 / 250 sf 1 / 4 seats 1.25 / 100 sf 1 / 100 sf 1 / 4 seats 1 / 100 sf 1 / 200 sf
+Grocery Store 1 / 300 sf 1 / 250 sf 1 / 1000 sf 1 / 300 sf 1 / 300 sf
+Theatre 1 / 6 seats 1 / 100 sf 1 / 4 seats 1 / 3 seats
+Church 1 / 250 sf 1 / 6 seats 1 / 100 sf 1 / 6 seats 1 / 4 seats 1 / 8 seats
+Office 1 / 350 sf 1 / 600 sf 1 / 400 sf 1 / 250 sf 1 / 300 sf 1 / 300 sf 1 / 600 sf
+Rafting
+Day care 1 / 250 sf 1 / 8 students 1 / 375 sf 1/ 10 students
+1 space per teacher + 1 space per 
+administrative employee + 1 space per 
+10 children.
+Community Center / Library 1 / 400 sf 1 / 400 sf x
+Indoor recreation 1 / 400 sf
+Educational 1.5 / classroom 1 / 400 sf 1 / classroom 1 / 4 students 1 / employee 2 / classroom
+Medical Offices 1 / 250 sf 1 / 600 sf 3 / examining room 1 / 250 sf 1 / 750 sf
+B&B 1 / room + 1 / owner 1 / room + 2 1 / room + 1 1 / room 1 / room + 2 1 / room 1 / room
+*Note that not all communities 
+identify the same commercial 
+uses. The uses above are those 
+that are common across many 
+communities.
+All of these also 
+require 1 additional 
+space per 2 
+employees
+First 5,000 sf of any nonresidential use is 
+exempt from off-street parking requirements 
+in CBD
+Page 27 of 131
+Commercial
+Silverthorne Summit County
+Gyms 1 / 100 sf
+Lodging 1.2 / room 1 / room
+Auto Services 3 / bay
+4.0 spaces/bay plus 
+1.0 space/employee
+Retail 1 / 400 sf 1 / 250 sf
+Food and Beverage (Restaurants) 1 / 100 sf 8 / 1000 sf
+Grocery Store 1 / 400 sf 1 / 250 sf
+Theatre 1 / 6 seats 1 / 4 seats
+Church 1 / 6 seats 1 / 4 seats
+Office 1 / 330 sf 3 / 1000 sf
+Rafting
+Day care 1 / 8 children + 1 / employee
+Community Center / Library
+Indoor recreation 1 / 100 sf 6 / 1000 sf
+Educational 2 / classroom 1.75 / classroom
+Medical Offices 4.5 / 1000 sf
+B&B 2.0 spaces for residents + 6.6 spaces/1,000 sq. ft. of sleeping area
+*Note that not all communities 
+identify the same commercial 
+uses. The uses above are those 
+that are common across many 
+communities.
+Page 28 of 131
+ 
+ 
+ 
+ 
+IDAHO SPRINGS CITY COUNCIL 
+REGULAR MEETING 
+September 15, 2026 
+ 
+The City Council of the City of Idaho Springs held a work session, regular meeting and executive session on 
+Tuesday September 15th, 2026, in the city council chambers.  Mayor Chuck Harmon called the regular meeting 
+to order at 7:09 p.m. 
+ 
+Answering the roll were: Mayor Chuck Harmon, Councilmember Lisa Manifold, Councilmember Sharon 
+Bassist, Councilmember Briana Reagon and Councilmember Janine Mariani. Councilmember Kate Collier and 
+Mayor Pro Tem Jeremy Jones were absent.  Staff present were City Administrator Andrew Marsh, Assistant 
+City Administrator Guy Patterson, Public Works Director Edward Sigward, Community Development Planner 
+Dylan Graves, Deputy City Clerk Wonder Martell, Associate City Attorney Nick Klien and Chief of Police 
+Nathan Buseck.   
+ 
+The Pledge of Allegiance was recited by all present. 
+ 
+AGENDA APPROVAL 
+Councilmember Manifold moved to approve the agenda of September 15th, 2026, Councilmember Bassist 
+seconded.  Second followed by an all in favor voice vote.   
+ 
+CONFLICT OF INTEREST 
+ 
+APPROVAL OF MINUTES  
+Councilmember Mariani moved to approve the minutes of August 24th, 2026, Councilmember Reagon 
+seconded. Second followed an all in favor voice vote. 
+ 
+APPROVAL OF BILLS 
+Councilmember Manifold moved to approve the bills to September 15th, 2026.  Councilmember Mariani 
+seconded, second followed by discussion.  Councilmember Mariani asked about the payment to Teens, Inc for 
+$22,000.00 and what that payment was for.   Mayor Chuck Harmon advised council that he had reached out to 
+staff about that bill earlier in the day and it was for the building of trails in the Virginia Canyon Mountain Park.  
+Community Development Planner Dylan Graves added that Teens, Inc. is a nonprofit that finds employment for 
+teens.  Discussion followed by an all in favor roll call vote.  
+ 
+PUBLIC COMMENT – SCHEDULED  
+UNSCHEDULED PUBLIC COMMENT 
+ 
+RESOLUTIONS  
+Councilmember Bassist moved to approve Resolution #18, Series 2026, A Resolution approving an agreement 
+with the State of Colorado concerning Phase 1 of the Idaho Springs Mobility Hub Project (in the vicinity of Exit 
+240).  Councilmember Manifold seconded.  Second followed by an all in favor roll call vote.   
+ 
+Councilmember Mariani moved to approve Resolution #24, Series 2026 A Resolution approving a grant of 
+easement and assignment of lease between the City of Idaho Springs and Global Signal Acquisitions IV, LLC 
+concerning wireless telecommunication facilities on certain City-owned property (2000 Colorado Blvd).  
+Councilmember Bassist seconded, second followed by an all in favor roll call vote.   
+ 
+Page 29 of 131
+ 
+ 
+PUBLIC HEARING: Resolution #25, Series 2026 A Resolution approving the Lots 1-12, Block 75 Minor 
+Subdivision Plat. 
+ 
+Mayor Harmon opened the Public Hearing at 7:15pm 
+ 
+STAFF:  Community Development Planner Dylan Graves went over his staff report with council.   This is a 
+request to divide this into 4 lots.  There are 3 uses right now and 1 vacant section.  Vacant lot used to be a 
+storage building, but a few years ago in a big snowstorm the building collapsed.  This subdivision will get each 
+of the two mobile homes onto their own lots, the Dentist office on its own and create a 4th lot to be able to sell.  
+Planning Commission recommended approval on September 2nd, 2026. Staff recommends approval.  
+Councilmember Manifold mentioned that This is zoned commercial and any future use on the 4th lot that sits on 
+Center Alley would need to be verified as that alley is very constricted.  Mr. Graves agreed and mentioned that 
+any development of the site would require an FDP (Final Development Plan) to ensure that access is suitable, 
+which is a limiting factor of the lot.   
+ 
+APPLICANT:  Dr. Keys was not in attendance for this hearing.   
+ 
+PUBLIC COMMENT:  There was no in person or virtual public comment for this hearing. 
+ 
+Mayor Harmon closed the hearing at 7:20pm. 
+ 
+DELIBERATION:  There was no deliberation after the hearing closed 
+ 
+MOTION:  Councilmember Manifold moved to approve Resolution #25, Series 2026 A resolution approving 
+the Lots 1-12, Block 75 Minor Subdivision Plat.  Councilmember Mariani seconded, second followed by an all 
+in favor roll call vote.   
+ 
+Councilmember Manifold moved to approve Resolution #26, Series 2026 a Resolution setting a Public Hearing 
+on the designation of property known as 121 15th Avenue (Roberts Brothers Garage) as a Local Historic 
+Preservation Site.  Councilmember Reagon seconded, second followed by an all in favor roll call vote.   
+ 
+Councilmember Mariani moved to approve Resolution #27, Series 2026 a Resolution granting certain fee 
+waivers and contributions requested by the Clear Creek Center for Arts and Education and Four Bairs, Inc. 
+related to the potential re-development of 121 15th Avenue (Roberts Brothers Garage).  Councilmember Mariani 
+seconded.  Second followed by an all in favor roll call vote.   
+ 
+ORDINANCNE FIRST READING 
+Councilmember Manifold moved to approve Ordinance #20, Series 2026 an Ordinance designating property 
+known as 121 15th Avenue (Roberts Brothers Garage) as a Local Historic Preservation Site (First Reading Only: 
+Public Hearing and final action on this matter on October 12th, 2026.  Councilmember Reagon seconded.  
+Second followed by an all in favor roll call vote.   
+ 
+Councilmember Manifold moved to approve Ordinance #21, Series 2026 an Ordinance amending section 21-
+105 of the Idaho Springs Municipal Code to create alternate positions on the Business and Community 
+Promotions Board.  Councilmember Mariani seconded.  Second followed by an all in favor roll call vote.   
+ 
+ORDINANCNE SECOND READING 
+PUBLIC HEARING: Ordinance #16, Series 2026 an Ordinance amending section 21-105 of the Idaho Springs 
+Municipal Code to authorize the issuance of conditional use permits as personal to the applicant and as limited 
+or unlimited in duration. 
+Page 30 of 131
+ 
+ 
+Mayor Harmon opened the Public Hearing at 7:27 pm. 
+ 
+STAFF: Community Development Planner Dylan Graves went over his staff report with council.  Mr. Graves 
+reminded council that they have seen this before at a work session.  Conditional Use Permits now can be 
+forever.  This could allow temporary use.  They could follow a lease, for example or a seasonal business or be 
+attached to the owner and not forever on the property.  Planning Commission is in support of this.  Mayor 
+Harmon stated he cannot se a downside of this.  This allows more control.  Councilmember Manifold thanked 
+staff for all their work on this.  
+ 
+APPLICANT: The City is the Applicant. 
+ 
+PUBLIC COMMENT: There was no in person or virtual comment for this hearing. 
+ 
+Mayor Harmon closed the public hearing at 7:30pm. 
+ 
+MOTION: Councilmember Mariani moved to approve Ordinance #16, Series 2026 an Ordinance amending 
+section 21-105 of the Idaho Springs Municipal Code to authorize the issuance of conditional use permits as 
+personal to the applicant and as limited or unlimited in duration. Councilmember Bassist seconded, second 
+followed by an all in favor roll call vote. 
+ 
+PUBLIC HEARING: Ordinance 17, Series 2026 an Ordinance amending chapter 21 of the Idaho Springs 
+Municipal Code to regulate group homes and related residential uses for persons with disabilities in 
+conformance with Colorado Law and the Federal Fair Housing Act.   
+ 
+Mayor Harmon opened the public hearing at 7:32pm. 
+ 
+STAFF: Community Development Planner Dylan Graves went over his staff report with council. Mr. Graves 
+advised council that they have also seen this at a previous work session.  This is a minor change updating the 
+code to clarify what was already allowed.  Group homes are a use by right in all residential areas. This clarifies 
+the definition of Group Homes.  Planning Commission recommends this.  There were some questions, on 
+control.  Group Homes would still have to go through the licensing procedure with the state and a development 
+process if they were built new.   
+ 
+APPLICANT: City is the applicant 
+ 
+PUBLIC COMMENTS: There were no virtual or in person comments for this hearing. 
+ 
+Mayor Harmon closed the public hearing at 7:34pm. 
+ 
+MOTION: Councilmember Bassist moved to approve Ordinance #17, Series 2026 an Ordinance amending 
+chapter 21 of the Idaho Springs Municipal Code to regulate group homes and related residential uses for 
+persons with disabilities in conformance with Colorado Law and the Federal Fair Housing Act.  Councilmember 
+Manifold seconded.  Second followed by an all in favor roll call vote.   
+ 
+CITY ATTORNEY 
+ 
+CITY ADMINISTRATOR 
+Staff report submitted with no requests for action. 
+ 
+ 
+Page 31 of 131
+ 
+ 
+ADMINISTRATIVE DEPARTMENT 
+Assistant City Administrator – No staff report submitted.   
+ 
+Community Development Planner- No staff report submitted.   
+ 
+Deputy City Clerk – Staff report submitted with no requests for action. 
+   
+POLICE DEPARTMENT 
+Staff report submitted with no requests for action. Chief Buseck advised council that PD will be moving into the 
+new facility on Friday the 18th.   
+ 
+PUBLIC WORKS DEPARTMENT 
+Staff report submitted with no requests for action.  Mr. Sigward advised council that the Montante Tank is 
+working and there are no leaks.  
+ 
+CITY CLERK/TREASURER  
+COMMITTEE REPORTS 
+ 
+MAYOR/COUNCIL 
+Mayor Harmon mentioned that Mike Anderson has resigned from the Clear Creek Fire Authority Board and he 
+is willing to stay on until we can get someone else appointed.  Councilmember Manifold asked if this was just a 
+seat for Idaho Springs, Mayor Harmon advised that it is.  There are 2 alternate positions open in addition to the 
+Clear Creek Fire Authority Board position.  Deputy City Clerk Wonder Martell was instructed to place those 3 
+open positions in the paper and on the Website.   
+ 
+EXECUTIVE SESSION 
+Mayor Harmon moved to go into executive session at 7:41 pm under Executive session under C.R.S. 24-6-
+402(4)(a), (b) and (e) to discuss the possible conveyance of City-owned property and to receive legal advice, 
+determine negotiation positions and instruct negotiators concerning the same. Councilmember Manifold 
+seconded, second followed by an all in favor voice vote.   
+ 
+ADJOURN 
+Mayor Harmon moved to adjourn the executive session at 8:23 pm and the regular meeting at 8:23 pm.  
+ 
+ 
+ 
+ 
+ 
+               
+ Mayor Chuck Harmon     City Clerk Jennie Kim 
+Page 32 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     1
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+AlphaGraphics (1013)
+28732
+28732 Invoice 09/21/ 2026 10/09/2026 1,793.31 Open 09/26 10-30-5108
+Total 28732: 1,793.31
+Total AlphaGraphics (1013): 1,793.31
+Alsco - Denver Linen (13)
+LDEN3343326
+LDEN3343326 Invoice 09/ 08/2026 10/08/2026 105.27 Open 09/26 10-30-5108
+Total LDEN3343326: 105.27
+Total Alsco - Denver Linen (13): 105.27
+BEARCOM (1596)
+6087792
+6087792 Invoice 09/09/ 2026 10/30/2026 582.50 Open 06/26 10-30-5330
+Total 6087792: 582.50
+Total BEARCOM (1596): 582.50
+Browns Hill Engineering & Cont (1416)
+33149
+33149 Invoice 09/02/ 2026 10/02/2026 340.00 Open 09/26 51-00-5335
+Total 33149: 340.00
+33213
+33213 Invoice 09/09/ 2026 10/09/2026 110.00 Open 08/26 51-72-7320
+Total 33213: 110.00
+IS-2026-09-WTP
+IS-2026-09-WTP Invoice 09/14/2026 09/15/ 2026 3,109.00 Open 09/26 51-00-5000
+Total IS-2026-09-WTP: 3,109.00
+IS-2026-10 WTP
+IS-2026-10 WTP Invoice 09/14/2026 10/01/ 2026 3,109.00 Open 10/26 51-00-5000
+Total IS-2026-10 WTP: 3,109.00
+Total Browns Hill Engineering & Cont (1416): 6,668.00
+CCMRD (43)
+2128
+2128 Invoice 09/08/ 2026 09/22/2026 132.00 Open 08/26 10-20-5215
+2128 Invoice 09/08/ 2026 09/22/2026 126.00 Open 08/26 10-30-5215
+Total 2128: 258.00
+Total CCMRD (43): 258.00
+CenturyLink (569)
+8.25.2026
+8.25.2026 Invoice 08/ 25/2026 09/25/2026 244.90 Open 08/26 51-00-5303
+Total 8.25.2026: 244.90
+Page 33 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     2
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+Total CenturyLink (569): 244.90
+CIRSA (1511)
+INV1005057
+INV1005057 Invoice 10/ 01/2026 11/15/2026 20,157.88 Open 09/26 10-10-5301
+INV1005057 Invoice 10/ 01/2026 11/15/2026 19,907.85 Open 09/26 10-20-5301
+INV1005057 Invoice 10/ 01/2026 11/15/2026 107,634.71 Open 09/26 10-30-5301
+INV1005057 Invoice 10/ 01/2026 11/15/2026 30,241.07 Open 09/26 51-00-5301
+INV1005057 Invoice 10/ 01/2026 11/15/2026 30,241.07 Open 09/26 52-00-5301
+Total INV1005057: 208,182.58
+WINV1001492
+WINV1001492 Invoice 10/ 01/2026 11/15/2026 6,712.34 Open 09/26 10-10-5300
+WINV1001492 Invoice 10/ 01/2026 11/15/2026 335.62 Open 09/26 10-20-5300
+WINV1001492 Invoice 10/ 01/2026 11/15/2026 6,376.73 Open 09/26 10-30-5300
+WINV1001492 Invoice 10/ 01/2026 11/15/2026 671.23 Open 09/26 10-60-5300
+WINV1001492 Invoice 10/ 01/2026 11/15/2026 1,342.47 Open 09/26 51-00-5300
+WINV1001492 Invoice 10/ 01/2026 11/15/2026 1,342.47 Open 09/26 52-00-5300
+Total WINV1001492: 16,780.86
+Total CIRSA (1511): 224,963.44
+City of Idaho Springs (289)
+9.10.2026
+9.10.2026 Invoice Building Permit Pergola VCMP 09/ 10/2026 10/09/2026 240.77 Open 09/26 21-00-6024
+Total 9.10.2026: 240.77
+Total City of Idaho Springs (289): 240.77
+Clear Creek Radio (778)
+9.1.26
+9.1.26 Invoice 09/ 01/2026 10/01/2026 3,500.00 Open 09/26 10-21-5033
+Total 9.1.26: 3,500.00
+Total Clear Creek Radio (778): 3,500.00
+Colorado Analytical Lab (945)
+260831094
+260831094 Invoice 09/01/ 2026 10/01/2026 22.00 Open 08/26 51-00-5201
+Total 260831094: 22.00
+260909214
+260909214 Invoice 09/10/ 2026 10/09/2026 110.00 Open 09/26 51-00-5104
+Total 260909214: 110.00
+260909009
+260909009 Invoice 09/15/ 2026 09/30/2026 70.20 Open 09/26 52-00-5201
+Total 260909009: 70.20
+260909010
+260909010 Invoice 09/15/ 2026 09/30/2026 15.30 Open 09/26 51-00-5201
+Total 260909010: 15.30
+Total Colorado Analytical Lab (945): 217.50
+Page 34 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     3
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+Colorado Community Media (1981)
+IVIT1DBU-0027
+IVIT1DBU-0027 Invoic e 09/16/2026 10/16/2026 98.50 Open 09/26 10-20-5312
+Total IVIT1DBU-0027: 98.50
+IVIT1DBU-0028
+IVIT1DBU-0028 Invoic e 09/16/2026 10/16/2026 73.42 Open 09/26 10-20-5312
+Total IVIT1DBU-0028: 73.42
+IVIT1DBU-0029
+IVIT1DBU-0029 Invoic e 09/16/2026 10/16/2026 29.42 Open 09/26 10-20-5312
+Total IVIT1DBU-0029: 29.42
+IVIT1DBU-0030
+IVIT1DBU-0030 Invoic e 09/16/2026 10/16/2026 29.86 Open 09/26 10-20-5312
+Total IVIT1DBU-0030: 29.86
+IVIT1DBU-0033
+IVIT1DBU-0033 Invoic e 09/16/2026 10/16/2026 76.18 Open 09/26 10-20-5312
+Total IVIT1DBU-0033: 76.18
+NZEDAULR-0007
+NZEDAULR-0007 Invoic e 09/22/2026 10/22/2026 33.38 Open 09/26 10-20-5312
+Total NZEDAULR-0007: 33.38
+IVIT1DBU-0034
+IVIT1DBU-0034 Invoic e 09/23/2026 10/23/2026 33.82 Open 09/26 10-20-5312
+Total IVIT1DBU-0034: 33.82
+NZEDAULR-0008
+NZEDAULR-0008 Invoic e 09/23/2026 10/22/2026 33.82 Open 09/26 10-20-5312
+Total NZEDAULR-0008: 33.82
+Total Colorado Community Media (1981): 408.40
+Comcast (1486)
+9.11.26
+9.11.26 Invoice 09/ 11/2026 10/10/2026 243.28 Open 09/26 10-30-5335
+Total 9.11.26: 243.28
+Total Comcast (1486): 243.28
+Creative Trajectory (2281)
+10180718
+10180718 Invoice 09/09/ 2026 10/09/2026 2,000.00 Open 09/26 10-21-5109
+Total 10180718: 2,000.00
+Total Creative Trajectory (2281): 2,000.00
+Dietzler Construction Corp. (2154)
+2025.070
+2025.070 Invoice 09/21/ 2026 10/16/2026 208,551.35 Open 08/26 51-73-7313
+Page 35 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     4
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+Total 2025.070: 208,551.35
+Total Dietzler Construction Corp. (2154): 208,551.35
+Ferguson Waterworks (2210)
+1705306
+1705306 Invoice 09/03/ 2026 10/02/2026 340.00 Open 09/26 51-15-7006
+Total 1705306: 340.00
+Total Ferguson Waterworks (2210): 340.00
+Flock Safety (2179)
+INV-104283
+INV-104283 Invoice 09/ 10/2026 10/10/2026 1,000.00 Open 09/26 10-30-5108
+Total INV-104283: 1,000.00
+Total Flock Safety (2179): 1,000.00
+Galls (527)
+036046933
+036046933 Invoice 08/21/ 2026 09/21/2026 19.90 Open 08/26 10-30-6030
+Total 036046933: 19.90
+036046932
+036046932 Invoice 09/21/ 2026 09/21/2026 405.54 Open 08/26 10-30-6030
+Total 036046932: 405.54
+Total Galls (527): 425.44
+Goodyear Auto Service Center (131)
+49491
+49491 Invoice 09/11/ 2026 10/09/2026 756.96 Open 08/26 10-30-6192
+Total 49491: 756.96
+Total Goodyear Auto Service Center (131): 756.96
+Hach Company (138)
+15156834
+15156834 Invoice 09/02/ 2026 10/02/2026 394.34 Open 09/26 52-00-6207
+Total 15156834: 394.34
+15158983
+15158983 Invoice 09/04/ 2026 10/02/2026 343.90 Open 09/26 52-00-5208
+Total 15158983: 343.90
+Total Hach Company (138): 738.24
+Heritage Landscape Supply Group (2305)
+0028870494-001
+0028870494-001 Invoice 08/ 07/2026 09/06/2026 464.86 Open 08/26 10-60-6045
+Total 0028870494-001: 464.86
+Total Heritage Landscape Supply Group (2305): 464.86
+Page 36 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     5
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+HRS Water Consultants (851)
+31714
+31714 Invoice 09/11/ 2026 10/09/2026 2,646.00 Open 08/26 52-00-5104
+Total 31714: 2,646.00
+Total HRS Water Consultants (851): 2,646.00
+JVA Incorporated (1110)
+251909.ENV
+251909.ENV Invoice 08/31/ 2026 09/30/2026 3,485.30 Open 08/26 51-72-7320
+Total 251909.ENV: 3,485.30
+32096
+32096 Invoice 08/31/ 2026 09/30/2026 270.00 Open 08/26 52-00-5103
+Total 32096: 270.00
+32149
+32149 Invoice 08/31/ 2026 09/30/2026 418.00 Open 08/26 52-00-5103
+32149 Invoice 08/31/ 2026 09/30/2026 418.00 Open 08/26 51-00-5103
+Total 32149: 836.00
+Total JVA Incorporated (1110): 4,591.30
+KDVR (2262)
+5360484-1
+5360484-1 Invoice 08/31/ 2026 09/30/2026 6,000.00 Open 08/26 10-21-5109
+Total 5360484-1: 6,000.00
+Total KDVR (2262): 6,000.00
+Language Line Services (2102)
+12023695
+12023695 Invoice 08/31/ 2026 09/30/2026 65.60 Open 08/26 10-40-5320
+Total 12023695: 65.60
+Total Language Line Services (2102): 65.60
+Lewis, Danielle (2306)
+8.15.2026
+8.15.2026 Invoice 08/ 15/2026 09/15/2026 53.65 Open 08/26 10-30-5212
+8.15.2026 Invoice 08/ 15/2026 09/15/2026 90.27 Open 08/26 10-30-5350
+Total 8.15.2026: 143.92
+Total Lewis, Danielle (2306): 143.92
+Logan D Houser (2290)
+09142026
+09142026 Invoice 09/14/ 2026 10/09/2026 1,010.00 Open 09/26 10-21-5032
+Total 09142026: 1,010.00
+Total Logan D Houser (2290): 1,010.00
+Mad Graphics 303 LLC (2307)
+001518
+001518 Invoice 09/07/ 2026 09/30/2026 3,825.00 Open 09/26 10-21-5039
+Page 37 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     6
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+Total 001518: 3,825.00
+Total Mad Graphics 303 LLC (2307): 3,825.00
+McDonald Farms (1588)
+0204358-IN
+0204358-IN Invoice WasteWater Hauled to Landfill 09/08/2026 09/23/2026 1,330.00 Open 09/26 52-00-5250
+Total 0204358-IN: 1,330.00
+Total McDonald Farms (1588): 1,330.00
+Napa Auto Parts (198)
+146323
+146323 Invoice 09/10/ 2026 10/09/2026 303.94 Open 09/26 10-10-6150
+Total 146323: 303.94
+146793
+146793 Invoice 09/19/ 2026 10/19/2026 18.99 Open 09/26 10-30-6193
+Total 146793: 18.99
+Total Napa Auto Parts (198): 322.93
+ORC Water Professionals (2280)
+274122
+274122 Invoice 09/30/ 2026 10/30/2026 7,000.00 Open 09/26 51-00-5000
+274122 Invoice 09/30/ 2026 10/30/2026 7,000.00 Open 09/26 52-00-5000
+Total 274122: 14,000.00
+Total ORC Water Professionals (2280): 14,000.00
+Phillip Bassist (2304)
+9.22.26
+9.22.26 Invoice 09/ 22/2026 10/23/2026 1,600.00 Open 09/26 10-21-5032
+Total 9.22.26: 1,600.00
+Total Phillip Bassist (2304): 1,600.00
+Ross Brier (2172)
+8.24.26
+8.24.26 Invoice 08/ 24/2026 09/25/2026 975.00 Open 08/26 10-21-5109
+Total 8.24.26: 975.00
+Total Ross Brier (2172): 975.00
+Salt Lake Wholesale Sports (1931)
+110961
+110961 Invoice misc. 06/ 29/2026 07/29/2026 834.00 Open 06/26 10-30-6045
+Total 110961: 834.00
+Total Salt Lake Wholesale Sports (1931): 834.00
+State of Colorado (1161)
+WU271184841
+WU271184841 Invoice 09/ 24/2026 10/23/2026 684.00 Open 09/26 51-00-5302
+Page 38 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     7
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Invoice Type Description Invoice Date D ue Date Total Cost Terms Period GL Account
+Total WU271184841: 684.00
+Total State of Colorado (1161): 684.00
+T Mobile (2040)
+995996113-31
+995996113-31 Invoice 08/ 31/2026 09/30/2026 372.34 Open 08/26 10-10-5335
+Total 995996113-31: 372.34
+Total T Mobile (2040): 372.34
+The Key People (2202)
+42225
+42225 Invoice 09/01/ 2026 10/01/2026 231.30 Open 09/26 10-20-5108
+Total 42225: 231.30
+42226
+42226 Invoice 09/01/ 2026 10/01/2026 128.50 Open 09/26 10-30-5108
+Total 42226: 128.50
+Total The Key People (2202): 359.80
+Thrive 4 Corp. (2173)
+8215
+8215 Invoice 09/01/ 2026 10/01/2026 1,000.00 Open 09/26 10-21-5109
+Total 8215: 1,000.00
+Total Thrive 4 Corp. (2173): 1,000.00
+USA Blue Book (376)
+INV01151012
+INV01151012 Invoice 09/ 02/2026 10/02/2026 753.75 Open 09/26 51-00-6004
+Total INV01151012: 753.75
+Total USA Blue Book (376): 753.75
+Grand Totals: 494,015.86
+Report GL Period Summary
+GL Period Amount
+10/26 3,109.00
+06/26 1,416.50
+09/26 263,862.69
+08/26 225,627.67
+Grand Totals: 494,015.86
+Vendor number hash: 0
+Vendor number hash - split: 0
+Total number of invoices: 0
+Total number of transactions: 0
+Page 39 of 131
+City of Idaho Springs Invoice Register - by Vendor - Council Page:     8
+Input Dates: 9/16/2026 - 9/30/2026 Sep 24, 2026  11:27AM
+Page 40 of 131
+CITY OF IDAHO SPRINGS
+COMBINED CASH INVESTMENT
+AUGUST 31, 2026
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:18AM       PAGE: 1
+COMBINED CASH ACCOUNTS
+01-00-1110 OPERATING CHECKING -0056 97,542.30
+01-00-1111 MONEY MARKET -3504 48,817.70
+01-00-1112 XPRESS DEPOSIT ACCOUNT 52,300.96
+01-00-1113 PETTY CASH CHECKING ACCOUNT 765.89
+01-00-1115 EVERGREEN NAT'L-- PR CKG -2114 41,971.79
+01-00-1117 COLOTRUST--GENERAL -8001 273,705.68
+01-00-1118 COLOTRUST--RAMP FUND -8002 29,046.99
+01-00-1119 CSAFE--GENERAL -97-01 25,016.64
+01-00-1176 CASH CLEARING - COURT (            697.07)
+01-00-1178 CASH CLEARING - ACCTS REC. (            870.44)
+TOTAL COMBINED CASH 567,600.44
+01-00-1000 COMBINED CASH FUND (     567,600.44)
+TOTAL UNALLOCATED CASH .00
+CASH ALLOCATION RECONCILIATION
+10 ALLOCATION TO GENERAL FUND (     708,170.78)
+15 ALLOCATION TO HANSEN'S CEMETERY TRUST FUND 10,559.37
+20 ALLOCATION TO RAMP FUND (COLORADO BLVD) 712,298.83
+21 ALLOCATION TO IMPROVEMENT FUND (  2,165,706.01)
+22 ALLOCATION TO CONSERVATION TRUST FD LOTTERY 145,176.03
+23 ALLOCATION TO 1% STREET SALES TAX 1,656,553.35
+51 ALLOCATION TO WATER FUND (       30,378.02)
+52 ALLOCATION TO WASTEWATER FUND (       75,852.14)
+59 ALLOCATION TO PARKING ENTERPRISE FUND 1,023,119.81
+TOTAL ALLOCATIONS TO OTHER FUNDS 567,600.44
+ALLOCATION FROM COMBINED CASH FUND - 01-00-1000 (     567,600.44)
+ZERO PROOF IF ALLOCATIONS BALANCE .00
+Page 41 of 131
+CITY OF IDAHO SPRINGS
+BALANCE SHEET
+AUGUST 31, 2026
+GENERAL FUND
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:18AM       PAGE: 2
+ASSETS
+10-00-1000 CASH - COMBINED FUND (     708,170.78)
+10-00-1120 CASH W/COUNTY TREASURER 93,935.15
+10-00-1150 A/R--BILLED ACCOUNTS (         5,785.53)
+10-00-1165 OTHER RECEIVABLES 313,634.65
+10-00-1167 PROPERTY TAXES RECEIVABLE 277,991.00
+10-00-1170 A/R--COURT (         3,831.00)
+10-00-1171 LEASE RECEIVABLE 453,861.19
+10-00-1580 SUSPENSE .86
+TOTAL ASSETS 421,635.54
+LIABILITIES AND EQUITY
+LIABILITIES
+10-00-2015 ACCRUED PAYROLL PAYABLE 20,457.63
+10-00-2020 ACCOUNTS PAYABLE 208,815.07
+10-00-2120 DEFERRED PROPERTY TAXES 277,991.00
+10-00-2141 DEF'D INFLOW OF RES--2017VERI 126,387.68
+10-00-2142 DEF'D INFLOW OF RES--2012VERI 327,473.51
+10-00-2221 MEDICARE PAYABLE 40.76
+10-00-2222 FEDERAL WITHHOLDINGS PAYABLE 129.91
+10-00-2223 STATE WITHHOLDINGS PAYABLE 2,982.00
+10-00-2230 HEALTH INSURANCE PAYABLE 33,693.90
+10-00-2231 DENTAL INSURANCE PAYABLE 1,425.40
+10-00-2232 AFLAC INSURANCE (            108.15)
+10-00-2234 FPPA CONTRIBUTIONS PAYABLE 4,111.60
+10-00-2235 DEFERRED COMP PAYABLE (         2,168.28)
+10-00-2236 UNEMPLOYMENT PAYABLE 707.95
+10-00-2237 MISC PAYROLL PAYABLE 104.28
+10-00-2238 LIFE INSURANCE PAYABLE 199.92
+10-00-2239 VISION - PAYABLE 109.00
+10-00-2401 DEVELOPER LIABILITIES (            716.25)
+TOTAL LIABILITIES 1,001,636.93
+FUND EQUITY
+10-00-2600 FUND BALANCE 266,806.45
+UNAPPROPRIATED FUND BALANCE:
+REVENUE OVER EXPENDITURES - YTD (     846,807.84)
+BALANCE - CURRENT DATE (     846,807.84)
+TOTAL FUND EQUITY (     580,001.39)
+TOTAL LIABILITIES AND EQUITY 421,635.54
+Page 42 of 131
+CITY OF IDAHO SPRINGS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:18AM       PAGE: 3
+PROPERTY, SALES & USE TAXES
+10-00-3110 PROPERTY TAXES 218,857.61 203,912.16 8,109.46 265,097.90 282,237 93.9
+10-00-3111 INTEREST -DELINQUENT PROP TAX .00 167.22 162.87 567.10 0 .0
+10-00-3120 SPECIFIC OWNERSHIP TAX 13,777.26 16,892.05 3,003.38 17,837.11 25,000 71.4
+10-00-3130 SALES TAX (1/2) 1,170,513.66 1,210,897.20 198,335.60 1,206,076.74 2,433,600 49.6
+10-00-3135 BUILDING USE TAX (2/3) 141,551.07 11,518.95 1,648.63 11,805.24 25,000 47.2
+10-00-3136 MOTOR VEHICLE USE TAX 50,034.55 46,804.05 9,712.79 56,285.52 80,000 70.4
+10-00-3182 FRANCHISE-PUBLIC SERVICE 64,785.02 73,222.37 9,217.31 73,494.56 106,000 69.3
+10-00-3183 FRANCHISE-CABLE--COMCAST 17,719.46 17,000.52 .00 14,318.16 23,000 62.3
+10-00-3184 FRANCHISE-QWEST/CENTURYLINK 119.50 81.00 .00 64.25 200 32.1
+TOTAL PROPERTY, SALES & USE TAXES 1,677,358.13 1,580,495.52 230,190.04 1,645,546.58 2,975,037 55.3
+LICENSES & PERMITS
+10-00-3211 LIQUOR LICENSE 3,928.75 4,576.25 200.00 5,266.25 7,000 75.2
+10-00-3216 BUSINESS LICENSE FEE 2,464.59 2,680.00 .00 7,535.00 36,000 20.9
+10-00-3218 SHOPPING BAG FEES 9,021.05 5,454.00 .00 4,641.88 5,000 92.8
+10-00-3221 BUILDING PERMITS 127,402.01 41,135.35 1,883.80 22,633.41 100,000 22.6
+10-00-3222 CONTRACTOR'S LICENSE 6,600.00 7,400.00 500.00 6,400.00 11,000 58.2
+10-00-3225 FINGERPRINTS .00 .00 15.00 45.00 0 .0
+10-00-3227 REPORTS/COPIES/FAX 1,678.00 1,409.50 120.00 1,115.50 2,500 44.6
+10-00-3229 OTHER LICENSES/PERMITS 28,793.86 25,718.00 530.00 15,262.00 70,000 21.8
+10-00-3240 PLAN REVIEW/COMMISSION FEES 33,025.50 17,750.19 100.00 4,151.23 50,000 8.3
+TOTAL LICENSES & PERMITS 212,913.76 106,123.29 3,348.80 67,050.27 281,500 23.8
+OTHER TAXES
+10-00-3301 MOTOR VEHICLE REG. FEES 3,765.17 4,437.80 778.69 4,693.01 7,000 67.0
+10-00-3304 MARIJUANA SPECIAL SALES TAX 38,936.97 29,303.55 1,069.15 7,818.44 50,000 15.6
+10-00-3305 STATE SHARED CIGARETTE TAX 2,504.10 2,500.22 337.07 2,472.06 4,800 51.5
+10-00-3306 COUNTY ROAD & BRIDGE TAX 316,920.86 318,683.17 .00 341,658.29 425,000 80.4
+10-00-3307 SEVERENCE TAX 71,204.91 16,255.82 34,719.28 34,719.28 70,000 49.6
+10-00-3309 HIGHWAY USERS TAX 42,774.05 41,694.00 .00 41,500.82 65,000 63.9
+10-00-3380 DOLA GRANT EIAF 9689-B & B 15,030.03 23,264.58 .00 20,000.00 75,000 26.7
+10-00-3382 TOURISM MANAGEMENT GRANT .00 20,000.00 .00 .00 40,000 .0
+TOTAL OTHER TAXES 491,136.09 456,139.14 36,904.19 452,861.90 736,800 61.5
+FINES
+10-00-3550 FINES 193,090.80 306,340.10 33,085.50 278,495.08 460,000 60.5
+TOTAL FINES 193,090.80 306,340.10 33,085.50 278,495.08 460,000 60.5
+Page 43 of 131
+CITY OF IDAHO SPRINGS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:18AM       PAGE: 4
+MISCELLANEOUS
+10-00-3601 INTEREST EARNED 40,230.37 11,979.17 (         1,640.76) (       11,355.88) 15,000 (  75.7)
+10-00-3602 ARGO MINE/DEVELOPER ACCOUNT .00 500.00 400.00 400.00 0 .0
+10-00-3604 DONATIONS 2,391.00 .00 .00 .00 2,500 .0
+10-00-3610 CEMETERY FEES 450.00 2,800.00 150.00 1,800.00 5,000 36.0
+10-00-3620 LEASES/RENT 53,382.33 45,299.56 10.00 60,462.98 68,000 88.9
+10-00-3680 REIMBURSEMENT/REFUNDS 33,257.51 59,598.56 .00 7,700.27 70,000 11.0
+10-00-3690 MISCELLANEOUS REVENUE 2,821.62 24,088.40 3,035.00 132,894.06 30,000 443.0
+TOTAL MISCELLANEOUS 132,532.83 144,265.69 1,954.24 191,901.43 190,500 100.7
+TOTAL FUND REVENUE 2,707,031.61 2,593,363.74 305,482.77 2,635,855.26 4,643,837 56.8
+Page 44 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 5
+STREETS EXPENDITURES
+10-10-4102 SALARIES 17,095.20 27,873.52 5,309.60 45,131.60 69,020 65.4
+10-10-4103 HOURLY 77,208.68 88,449.91 20,520.86 149,149.15 99,136 150.5
+10-10-4104 OVERTIME 7,250.07 6,664.01 1,057.62 10,901.59 10,000 109.0
+10-10-4201 FICA 6,026.48 7,310.89 1,579.91 12,145.69 10,426 116.5
+10-10-4202 MEDICARE 1,409.28 1,709.84 369.50 2,840.64 2,438 116.5
+10-10-4203 HEALTH INS. 16,240.78 18,672.69 5,300.36 35,115.88 33,754 104.0
+10-10-4204 LIFE INS. 131.60 117.32 36.33 225.19 198 113.7
+10-10-4205 DEFERRED COMP 5,497.06 6,521.98 1,146.60 9,147.21 10,269 89.1
+10-10-4206 UNEMPLOYMENT INS. 199.83 246.00 53.78 410.41 388 105.8
+10-10-4207 DISABILITY INSURANCE 991.79 1,018.05 259.50 1,567.82 1,629 96.2
+10-10-4209 DENTAL INSURANCE 632.00 632.69 171.20 1,159.60 1,176 98.6
+10-10-5103 ENGINEERING .00 726.60 .00 .00 1,000 .0
+10-10-5106 IT SERVICES .00 .00 .00 1,407.63 0 .0
+10-10-5108 OTHER PROFESSIONAL SERVICES 16,024.42 29,307.03 2,798.81 33,309.48 40,000 83.3
+10-10-5202 DISPOSAL-TRASH 3,307.68 2,751.60 204.88 3,306.06 4,500 73.5
+10-10-5207 MAINT./REPAIRS-SERVICES 8,346.66 5,602.42 .00 .00 7,500 .0
+10-10-5208 MAINT./REPAIRS-BUILDING 1,184.37 1,854.84 .00 .00 2,500 .0
+10-10-5212 TRAINING 75.00 .00 .00 .00 500 .0
+10-10-5213 MEDICAL .00 466.00 .00 985.50 200 492.8
+10-10-5215 EMPLOYEE INCENTIVE 25.00 5.00 .00 .00 1,000 .0
+10-10-5300 CIRSA W/C INSURANCE 10,604.96 22,078.84 .00 21,551.06 29,144 74.0
+10-10-5301 CIRSA P/C INSURANCE 23,297.05 74,004.55 .00 47,082.22 59,724 78.8
+10-10-5303 TELEPHONE 1,152.50 1,458.28 141.92 1,143.04 2,000 57.2
+10-10-5304 DUES & PUBLICATIONS 421.99 238.99 .00 .00 400 .0
+10-10-5305 TRAVEL & MEALS 115.79 .00 .00 .00 100 .0
+10-10-5306 EQUIPMENT RENTAL .00 .00 .00 .00 500 .0
+10-10-5310 POSTAGE .00 255.19 .00 106.47 100 106.5
+10-10-5313 ADVERTISING .00 260.00 .00 400.00 100 400.0
+10-10-5314 INSURANCE CLAIMS 2,000.00 5,927.37 .00 .00 2,000 .0
+10-10-5325 PRINTING .00 69.43 .00 141.88 100 141.9
+10-10-5330 COMMUNICATION EQUIPMENT .00 761.88 .00 .00 100 .0
+10-10-5335 CELL/INTERNET SERVICE 2,633.20 4,197.07 .00 3,732.02 5,500 67.9
+10-10-6001 ELECTRICITY & GAS 42,387.63 44,259.31 .00 58,130.11 67,000 86.8
+10-10-6007 MATERIALS/SUPPLIES/EQUIP 2,516.80 3,637.62 714.59 1,490.54 5,500 27.1
+10-10-6010 MATERIALS/SUPPLIES/OFFICE 307.85 1,023.70 .00 1,135.62 2,000 56.8
+10-10-6012 GAS/OIL-EQUIPMENT 2,159.85 3,185.05 .00 1,562.74 4,500 34.7
+10-10-6020 TOOLS 631.25 1,051.87 .00 11.99 1,500 .8
+10-10-6022 SAFETY ITEMS 119.50 .00 198.54 347.41 500 69.5
+10-10-6040 OCCUPATIONAL EQUIP/SAFETY 195.26 145.20 .00 .00 500 .0
+10-10-6050 WATER/SEWER 1,998.85 3,391.74 .00 2,329.64 5,300 44.0
+10-10-6085 STREET LAMPS 11,320.63 20,896.31 .00 5,995.55 20,000 30.0
+10-10-6091 SIGNS 19,629.10 9,128.81 .00 343.96 10,000 3.4
+10-10-6093 PAINT .00 .00 .00 .00 1,000 .0
+10-10-6095 SAND/GRAVEL .00 .00 .00 .00 1,000 .0
+10-10-6096 ASPHALT/CURB & GUTTER--R&M .00 .00 1,200.00 2,400.00 0 .0
+10-10-6097 DOWNTOWN PAVERS .00 .00 .00 .00 150 .0
+10-10-6098 TREE TRIMMING .00 .00 .00 .00 5,000 .0
+10-10-6099 SALTED SAND 4,765.99 .00 .00 .00 15,000 .0
+10-10-6150 FLEET MAINT 6,562.33 1,896.54 7.99 3,462.10 8,000 43.3
+10-10-6191 FLEET FUEL 9,767.96 8,147.23 .00 8,136.55 12,000 67.8
+10-10-6192 FLEET TIRES 471.91 7,148.09 .00 .00 3,000 .0
+10-10-6193 FLEET SUPPLIES 830.35 1,273.52 .00 28.74 3,000 1.0
+Page 45 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 6
+10-10-7010 OFFICE EQUIPMENT/COMPUTER .00 1,885.04 .00 .00 1,000 .0
+10-10-7011 COMPUTER SOFTWARE 79.96 .00 .00 678.00 0 .0
+TOTAL STREETS EXPENDITURES 305,616.61 416,252.02 41,071.99 467,013.09 561,352 83.2
+Page 46 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 7
+ADMINISTRATION EXPENDITURES
+10-20-4101 MAYOR/COUNCIL 17,760.00 17,760.00 .00 16,200.00 52,560 30.8
+10-20-4102 SALARY 230,682.34 142,958.09 17,204.96 146,242.16 260,512 56.1
+10-20-4103 HOURLY 104,142.94 82,589.04 9,623.89 65,607.26 75,089 87.4
+10-20-4104 OVERTIME 2,919.64 244.28 .00 72.24 500 14.5
+10-20-4201 FICA 21,334.78 14,428.67 1,589.63 13,553.44 20,807 65.1
+10-20-4202 MEDICARE 4,989.76 3,374.51 371.77 3,169.82 4,866 65.1
+10-20-4203 HEALTH INS. 57,025.60 48,205.90 4,524.92 36,241.60 82,470 44.0
+10-20-4204 LIFE INS. 304.85 234.08 25.55 204.40 354 57.7
+10-20-4205 DEFERRED COMP 22,675.03 10,863.76 1,326.55 11,350.32 16,136 70.3
+10-20-4206 UNEMPLOYMENT 661.13 437.03 53.66 401.81 656 61.3
+10-20-4207 DISABILITY INSURANCE 2,636.17 1,785.38 201.58 1,607.42 2,645 60.8
+10-20-4209 DENTAL INSURANCE 2,062.00 1,195.68 137.10 1,096.80 1,882 58.3
+10-20-5050 COUNTY TREASURER'S FEES 4,104.11 4,056.49 509.45 7,258.69 5,500 132.0
+10-20-5101 LEGAL 102,772.94 98,842.46 13,021.98 115,010.60 140,000 82.2
+10-20-5102 AUDIT 4,250.00 6,306.56 .00 14,600.00 6,500 224.6
+10-20-5103 ENGI'RING SVCES--DEVEL REVIEW 1,546.12 316.80 .00 507.60 1,000 50.8
+10-20-5104 FINANCIAL SERVICES 17,115.64 8,523.44 .00 11,097.52 12,000 92.5
+10-20-5105 PLANNING SERVICES 7,947.00 332.31 .00 2,000.00 10,000 20.0
+10-20-5106 IT SERVICES 13,393.36 13,867.40 2,798.81 12,576.07 20,000 62.9
+10-20-5107 SURVEYING 30,138.75 .00 .00 .00 5,000 .0
+10-20-5108 OTHER CONTRACTUAL SERVICES 46,199.54 77,017.67 1,036.95 105,010.05 100,000 105.0
+10-20-5207 REPAIR/MAINT.-SERVICES .00 .00 .00 985.33 1,000 98.5
+10-20-5208 REPAIR/MAINTENANCE-BUILDING 894.85 1,850.47 .00 509.84 2,000 25.5
+10-20-5210 MEETING EXPENSE 821.36 1,098.18 .00 424.20 1,500 28.3
+10-20-5212 EDUCATION & TRAINING 6,862.42 9,220.20 .00 1,031.00 8,000 12.9
+10-20-5215 EMPLOYEE INCENTIVE 720.00 954.25 .00 498.00 1,900 26.2
+10-20-5220 ELECTION .00 .00 .00 .00 1,000 .0
+10-20-5225 BOARDS & COMMISSIONS .00 1,012.18 .00 .00 1,500 .0
+10-20-5300 CIRSA W/C INSURANCE 530.24 1,103.95 .00 1,077.57 1,457 74.0
+10-20-5301 CIRSA P/C INSURANCE 22,797.05 70,812.81 .00 46,332.23 59,724 77.6
+10-20-5303 TELEPHONE 1,152.50 1,175.61 141.92 1,143.05 1,800 63.5
+10-20-5304 DUES & MEMBERSHIPS 6,184.78 7,515.07 .00 5,835.59 9,500 61.4
+10-20-5305 TRAVEL & MEALS 6,881.69 4,886.95 .00 2,101.76 8,000 26.3
+10-20-5309 CONTRACT OFFICE EQUIP. 3,630.30 3,475.22 260.23 2,572.03 5,500 46.8
+10-20-5310 POSTAGE, SHIPPING, BOX RENT 942.84 1,005.08 300.10 1,198.81 2,000 59.9
+10-20-5312 LEGAL PUBLICATIONS 6,188.69 4,215.36 1,772.27 5,467.83 2,000 273.4
+10-20-5313 ADVERTISING 706.12 1,572.86 .00 380.00 1,500 25.3
+10-20-5314 INSURANCE CLAIMS .00 .00 .00 .00 1,000 .0
+10-20-5316 RECORDING DOCUMENTS 1,324.00 843.35 43.00 473.00 1,200 39.4
+10-20-5322 CODIFICATION 3,118.00 3,851.40 .00 .00 4,000 .0
+10-20-5325 PRINTING .00 101.59 .00 952.52 1,000 95.3
+10-20-5335 CELL/INTERNET SERVICE 4,201.18 5,119.78 475.56 4,047.96 7,500 54.0
+10-20-6001 ELECTRICITY & GAS 3,491.16 3,324.09 .00 3,434.82 5,000 68.7
+10-20-6010 MATERIALS/SUPPLIES/OFFICE 2,474.98 1,749.09 .00 1,141.10 3,000 38.0
+10-20-6020 FLAGS .00 .00 .00 .00 500 .0
+10-20-6050 WATER/SEWER 1,303.82 2,824.70 .00 2,830.24 5,500 51.5
+10-20-6060 REFUNDS 1,000.00 .00 .00 .00 1,000 .0
+10-20-6500 MISCELLANEOUS EXPENSE 1,000.00 .00 .00 .00 2,000 .0
+10-20-7010 OFFICE EQUIPMENT/COMPUTERS 2,931.75 2,232.03 .00 1,597.98 3,000 53.3
+10-20-7011 COMPUTER SOFTWARE 1,871.75 2,146.87 .00 2,977.00 1,000 297.7
+10-20-7020 PUBLIC ENGAGEMENT 9,121.50 .00 .00 .00 0 .0
+10-20-8010 MISC. CASH OVER/SHORT 1.16- 6.25 .00 1.23 0 .0
+Page 47 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 8
+TOTAL ADMINISTRATION EXPENDITURES 784,811.52 665,436.89 55,419.88 650,820.89 962,558 67.6
+COMMUNITY PROMOTION
+10-21-5030 HSIS/ VISITOR CENTER 30,000.00 30,000.00 .00 30,000.00 60,000 50.0
+10-21-5032 EVENTS 4,550.00 9,180.87 116.74 31,171.36 68,000 45.8
+10-21-5033 K-GOAT ANNUAL FEE .00 .00 .00 3,500.00 3,500 100.0
+10-21-5036 MAYOR & COMMISSIONER AWARDS 2,000.00 2,000.00 .00 2,000.00 2,000 100.0
+10-21-5038 MISC. ORGANIZATION REQUEST 12,050.00 6,989.38 .00 11,122.79 10,000 111.2
+10-21-5039 BEAUTIFICATION .00 1,040.45 .00 12,473.96 9,500 131.3
+10-21-5040 HOLIDAY DECORATING .00 .00 .00 .00 21,609 .0
+10-21-5041 HISTORIC SITES & FACILITIES .00 865.00 .00 .00 5,000 .0
+10-21-5042 TIVOLI LIGHTING .00 700.00 500.00 500.00 0 .0
+10-21-5050 4TH OF JULY 46,809.00 56,385.13 .00 1,857.88 0 .0
+10-21-5055 CONTRIBUTION TO OTHERS .00 .00 .00 10,000.00 10,000 100.0
+10-21-5108 OTHER CONTRACTUAL SERVICES .00 77,839.51 1,533.33 18,919.95 21,000 90.1
+10-21-5109 WEBSITE & MARKETING .00 .00 2,000.00 28,307.38 70,000 40.4
+10-21-5430 VISITOR CTR BLDG MAINTENANCE 4,530.60 17,576.38 230.00 5,979.35 10,000 59.8
+10-21-7600 CONTINGENCY .00 .00 150.00 435.00 1,000 43.5
+TOTAL COMMUNITY PROMOTION 99,939.60 202,576.72 4,530.07 156,267.67 291,609 53.6
+BUILDING INSPECTOR
+10-22-5000 OPERATIONS CONTRACTUAL 137,789.42 49,829.79 1,427.04 13,494.92 75,000 18.0
+10-22-5108 OTHER PROFESSIONAL SERVICES .00 .00 .00 .00 1,000 .0
+TOTAL BUILDING INSPECTOR 137,789.42 49,829.79 1,427.04 13,494.92 76,000 17.8
+Page 48 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 9
+POLICE EXPENDITURES
+10-30-4102 SALARIES 86,990.40 101,904.80 12,240.00 104,040.00 111,389 93.4
+10-30-4103 HOURLY WAGES--SWORN 377,161.31 387,530.33 51,032.49 479,739.75 586,346 81.8
+10-30-4104 OVERTIME--REGULAR 14,852.51 9,760.87 2,328.22 17,288.92 15,000 115.3
+10-30-4105 HOLIDAY 9,818.80 8,906.24 .00 15,424.80 15,000 102.8
+10-30-4106 OVERTIME--HOLIDAY WORKED-SWORN 15,992.60 12,627.36 .00 15,597.70 21,000 74.3
+10-30-4108 BONUS PAY .00 1,000.00 .00 1,000.00 1,000 100.0
+10-30-4109 HOURLY WAGES--CIVILIAN 113,090.57 109,892.51 13,632.51 110,721.05 138,427 80.0
+10-30-4110 OVERTIME--HOLIDAY WKD-CIVILIAN 914.43 1,166.57 .00 2,268.71 2,000 113.4
+10-30-4201 FICA 7,134.23 6,865.87 803.38 7,077.31 8,582 82.5
+10-30-4202 MEDICARE 8,637.73 8,797.84 1,104.26 10,440.41 12,124 86.1
+10-30-4203 HEALTH INS. 84,937.00 93,257.60 11,131.20 93,945.60 157,081 59.8
+10-30-4204 LIFE INS. 639.80 611.52 65.52 566.16 912 62.1
+10-30-4205 DEFERRED COMP 5,979.49 6,174.55 743.48 6,324.42 9,200 68.7
+10-30-4206 UNEMPLOYMENT 1,234.81 1,265.53 158.45 1,492.03 1,900 78.5
+10-30-4207 DISABILITY INSURANCE 5,098.62 5,145.74 658.74 5,364.45 8,300 64.6
+10-30-4209 DENTAL INSURANCE 4,896.00 5,280.00 580.80 5,107.20 8,261 61.8
+10-30-4210 PENSION FPPA 54,362.28 59,133.89 7,428.30 73,817.17 92,582 79.7
+10-30-5101 LEGAL .00 1,424.50 .00 1,012.50 5,000 20.3
+10-30-5105 OTHER CONTRACT SERVICES 206,597.29 147,266.55 500.00 151,430.90 198,851 76.2
+10-30-5106 IT SERVICES .00 .00 .00 1,407.63 0 .0
+10-30-5108 OTHER PROFESSIONAL SERVICES 70,589.96 66,045.11 6,441.30 71,861.65 90,000 79.9
+10-30-5109 POLYGRAPH/PSY EXAM 1,300.00 1,301.40 .00 .00 2,000 .0
+10-30-5207 REPAIR/MAINT-SERVICES .00 .00 .00 .00 1,000 .0
+10-30-5208 REPAIRS/MAINTENANCE/BLDG. 810.63 366.19 .00 128.92 2,000 6.5
+10-30-5212 TRAINING 13,107.51 9,561.22 .00 10,261.99 18,000 57.0
+10-30-5213 MEDICAL/BLOOD DRAW .00 .00 .00 .00 1,000 .0
+10-30-5215 EMPLOYEE INCENTIVE 370.00 728.95 .00 724.60 2,000 36.2
+10-30-5300 CIRSA W/C INSURANCE 10,074.72 20,975.22 .00 20,473.59 27,687 74.0
+10-30-5301 CIRSA P/C INSURANCE 115,721.40 252,019.69 .00 319,824.95 410,631 77.9
+10-30-5303 TELEPHONE 1,152.50 1,149.46 141.92 1,143.05 1,800 63.5
+10-30-5304 DUES & PUBLICATIONS 5,221.42 1,045.00 .00 885.00 2,000 44.3
+10-30-5305 TRAVEL & MEALS 224.85 .00 .00 12.00 1,000 1.2
+10-30-5309 CONTRACT OFFICE EQUIP. 807.35 721.46 36.31 343.62 1,500 22.9
+10-30-5310 POSTAGE, SHIPPING, BOX RENT 178.92 395.63 .00 403.27 500 80.7
+10-30-5313 ADVERTISING .00 .00 520.00 520.00 0 .0
+10-30-5314 INSURANCE CLAIMS 2,000.00 .00 1,241.50 9,747.08 5,000 194.9
+10-30-5325 PRINTING 2,912.48 4,318.20 .00 2,567.14 3,200 80.2
+10-30-5326 TOWING 232.00 1,433.60 .00 .00 1,000 .0
+10-30-5330 COMMUNICATIONS EQUIPMENT 553.34 1,932.72 .00 .00 1,000 .0
+10-30-5335 CELL/INTERNET SERVICE 5,934.82 8,289.26 921.10 9,180.52 10,000 91.8
+10-30-5350 PUBLIC EDUCATION/RELATIONS 1,956.96 3,869.73 .00 2,212.70 4,000 55.3
+10-30-6001 ELECTRICITY & GAS 2,681.72 6,627.04 .00 4,559.59 5,000 91.2
+10-30-6010 MATERIALS/SUPPLIES/OFFICE 2,774.79 1,192.93 70.97 1,548.70 2,500 62.0
+10-30-6015 MATERIALS/SUPPLIES-INVESTIG. 2,251.77 1,227.50 .00 994.42 1,700 58.5
+10-30-6022 SAFETY ITEMS .00 .00 .00 .00 1,000 .0
+10-30-6030 UNIFORMS 10,013.85 5,972.80 4,387.02 11,031.82 15,000 73.6
+10-30-6040 OCCUPATIONAL EQUIP/SAFETY 7,022.58 4,854.00 .00 1,780.92 9,000 19.8
+10-30-6045 AMMUNITION 1,417.70 4,064.00 2,520.00 2,520.00 4,000 63.0
+10-30-6050 WATER/SEWER 2,451.38 2,480.60 .00 2,459.19 3,700 66.5
+10-30-6100 FLEET MAINTENANCE 42,983.27 19,221.16 2,564.41 39,370.50 30,000 131.2
+10-30-6191 FLEET FUEL 22,648.62 24,151.83 967.89 27,537.42 33,000 83.5
+10-30-6192 FLEET TIRES 2,294.73 806.32 2,122.14 3,959.77 3,000 132.0
+Page 49 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 10
+10-30-6193 FLEET SUPPLIES 1,965.10 668.63 18.70 493.66 2,000 24.7
+10-30-7010 COMPUTERS / OFFICE EQUIPMENT 1,925.00 .00 .00 .00 3,000 .0
+10-30-7011 COMPUTER SOFTWARE 25,031.98 30,137.78 .00 56,337.58 30,000 187.8
+TOTAL POLICE EXPENDITURES 1,356,949.22 1,443,569.70 124,360.61 1,706,950.36 2,121,173 80.5
+COURT EXPENDITURES
+10-40-4103 HOURLY 19,857.48 13,449.10 7,541.15 24,329.10 16,347 148.8
+10-40-4104 OVERTIME 1,089.93 129.31 .00 138.00 200 69.0
+10-40-4201 FICA 1,256.39 811.31 463.25 1,482.53 1,207 122.8
+10-40-4202 MEDICARE 293.80 189.71 108.34 346.76 285 121.7
+10-40-4203 HEALTH INS. 2,534.40 1,841.15 261.12 2,088.98 3,135 66.6
+10-40-4204 LIFE INS. 28.00 17.92 2.24 17.92 42 42.7
+10-40-4205 DEFERRED COMP 595.71 403.52 33.21 395.46 606 65.3
+10-40-4206 UNEMPLOYMENT 41.87 27.20 15.08 48.93 41 119.3
+10-40-4207 WORKMANS COMP 184.07 124.19 16.01 127.40 186 68.5
+10-40-4209 DENTAL INSURANCE 99.20 65.52 8.70 69.60 104 66.9
+10-40-5101 LEGAL FEES 112.50 .00 .00 .00 200 .0
+10-40-5110 JUDGE RETAINER 12,800.00 12,800.00 1,600.00 12,800.00 19,200 66.7
+10-40-5115 PROSECUTER 12,459.31 12,489.44 3,063.37 17,006.96 18,734 90.8
+10-40-5209 JURY/WITNESS FEES .00 .00 .00 .00 100 .0
+10-40-5212 TRAINING .00 .00 .00 50.00 100 50.0
+10-40-5304 DUES & PUBLICATIONS .00 .00 .00 .00 50 .0
+10-40-5310 POSTAGE .00 .00 .00 .00 50 .0
+10-40-5320 INTERPRETORS 28.70 104.96 .00 108.24 100 108.2
+10-40-5325 PRINTING .00 .00 .00 295.36 25 1181.4
+10-40-6010 MATERIALS/SUPPLIES-MISC. 365.87 .00 .00 240.87 200 120.4
+10-40-6030 CLOTHING/ROBE .00 .00 .00 .00 30 .0
+10-40-6035 RESTITUTION .00 .00 .00 757.07 100 757.1
+TOTAL COURT EXPENDITURES 51,747.23 42,453.33 13,112.47 60,303.18 61,042 98.8
+FIRE DEPARTMENT
+10-50-5050 CONTRIBUTION TO CCCESD 224,906.25 232,155.00 99,068.75 297,206.25 396,275 75.0
+TOTAL FIRE DEPARTMENT 224,906.25 232,155.00 99,068.75 297,206.25 396,275 75.0
+Page 50 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 11
+PARKS EXPENDITURES
+10-60-4103 HOURLY 59,132.11 56,257.33 3,520.00 29,604.52 74,030 40.0
+10-60-4104 OVERTIME 7,690.61 8,204.93 .00 3,204.96 11,511 27.8
+10-60-4105 HOLIDAY 997.92 685.12 .00 .00 913 .0
+10-60-4201 FICA 4,123.33 3,946.96 218.24 1,995.14 4,590 43.5
+10-60-4202 MEDICARE 964.36 923.09 51.04 466.62 1,073 43.5
+10-60-4203 HEALTH INS. 5,068.80 5,753.60 .00 2,448.00 9,795 25.0
+10-60-4204 LIFE INS. 103.60 75.60 .00 12.60 107 11.8
+10-60-4205 DEFERRED COMP 1,803.95 1,708.24 .00 487.53 2,882 16.9
+10-60-4206 UNEMPLOYMENT 135.68 130.33 7.04 65.64 189 34.7
+10-60-4207 DISABILITY INSURANCE 580.08 517.69 .00 133.45 743 18.0
+10-60-5108 OTHER PROFESSIONAL SERVICES 6,382.98 22,790.47 .00 12,438.17 40,000 31.1
+10-60-5202 DISPOSAL .00 3,071.22 .00 7,120.99 5,000 142.4
+10-60-5207 REPAIR/MAINT-SERVICES .00 7,796.73 345.88 4,378.80 10,000 43.8
+10-60-5208 MAINT./REPAIRS-BUILDING 977.01 2,034.08 .00 827.66 2,000 41.4
+10-60-5209 VANDALISM MAINTENANCE 401.25 214.62 .00 259.68 500 51.9
+10-60-5210 GREENWAY MAINTENANCE .00 .00 .00 .00 1,000 .0
+10-60-5211 TRAIL MAINTENANCE-VCMP .00 5,725.26 .00 .00 10,000 .0
+10-60-5212 TRAINING .00 .00 .00 .00 100 .0
+10-60-5213 MEDICAL .00 .00 .00 .00 100 .0
+10-60-5215 EMPLOYEE INCENTIVE .00 .00 .00 .00 250 .0
+10-60-5300 CIRSA W/C INSURANCE 1,060.50 2,207.89 .00 2,155.10 2,915 73.9
+10-60-5301 CIRSA P/C INSURANCE .00 .00 .00 44,792.73 59,724 75.0
+10-60-5305 TRAVEL & MEALS .00 204.82 .00 .00 100 .0
+10-60-5306 EQUIPMENT RENTAL .00 .00 .00 .00 500 .0
+10-60-5335 CELL/INTERNET SERVICE 272.23 691.61 .00 81.48 1,000 8.2
+10-60-6001 ELECTRICITY & GAS 4,668.23 4,862.60 .00 3,561.89 7,500 47.5
+10-60-6010 MATERIALS/SUPPLIES-MISC. 9,017.74 6,604.71 .00 5,928.79 9,000 65.9
+10-60-6012 GAS, OIL-EQUIPMENT 37.64 156.11 .00 .00 500 .0
+10-60-6020 TOOLS 375.92 900.96 .00 38.30 1,000 3.8
+10-60-6022 SAFETY ITEMS 457.28 159.89 .00 134.99 300 45.0
+10-60-6040 OCCUPATIONAL EQUIP/SAFETY 189.85 452.28 .00 .00 300 .0
+10-60-6045 SPRINKLER PARTS 632.75 1,279.66 .00 178.53 1,800 9.9
+10-60-6050 WATER/SEWER 4,643.71 7,718.93 .00 5,273.21 16,000 33.0
+10-60-6085 LAMP POSTS .00 .00 .00 .00 250 .0
+10-60-6091 SIGNS .00 .00 .00 .00 250 .0
+10-60-6093 PAINT .00 .00 .00 .00 150 .0
+10-60-6095 SAND / GRAVEL .00 .00 .00 .00 300 .0
+10-60-6098 TREE REPLACEMENT & TRIMMING 6,325.00 6,800.00 .00 .00 9,000 .0
+10-60-6099 SALTED SAND .00 .00 .00 .00 1,600 .0
+10-60-6150 FLEET MAINT 2,970.03 2.90 .00 159.70 2,000 8.0
+10-60-6191 FLEET FUEL 2,496.81 2,787.13 .00 3,145.75 3,500 89.9
+10-60-6192 FLEET TIRES .00 .00 .00 .00 1,000 .0
+10-60-6193 FLEET SUPPLIES .00 639.42 .00 .00 1,000 .0
+10-60-6200 PARKS MAINT. & PARTS 5,219.68 5,506.27 .00 1,457.90 8,000 18.2
+10-60-6204 WEED CONTROL .00 .00 .00 .00 500 .0
+10-60-6206 CHEMICALS/FERTILITZER .00 .00 .00 212.67 500 42.5
+10-60-6207 CHEM/PESTICIDES/HERBICIDES .00 .00 .00 .00 150 .0
+10-60-7007 EQUIPMENT PURCHASE .00 .00 .00 .00 1,000 .0
+TOTAL PARKS EXPENDITURES 126,729.05 160,810.45 4,142.20 130,564.80 304,622 42.9
+Page 51 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+GENERAL FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 12
+CEMETERY EXPENDITURES
+10-70-7100 CEMETERY MAINTENANCE .00 10,047.98 .00 41.94 5,000 .8
+TOTAL CEMETERY EXPENDITURES .00 10,047.98 .00 41.94 5,000 .8
+TOTAL FUND EXPENDITURES 3,088,488.90 3,223,131.88 343,133.01 3,482,663.10 4,779,631 72.9
+NET REVENUE OVER EXPENDITURES 381,457.29- 629,768.14- (       37,650.24) (     846,807.84) 135,794- (623.6)
+Page 52 of 131
+CITY OF IDAHO SPRINGS
+BALANCE SHEET
+AUGUST 31, 2026
+HANSEN'S CEMETERY TRUST FUND
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 13
+ASSETS
+15-00-1000 CASH - COMBINED FUND 10,559.37
+TOTAL ASSETS 10,559.37
+LIABILITIES AND EQUITY
+FUND EQUITY
+15-00-2600 FUND BALANCE 10,360.52
+UNAPPROPRIATED FUND BALANCE:
+REVENUE OVER EXPENDITURES - YTD 198.85
+BALANCE - CURRENT DATE 198.85
+TOTAL FUND EQUITY 10,559.37
+TOTAL LIABILITIES AND EQUITY 10,559.37
+Page 53 of 131
+CITY OF IDAHO SPRINGS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+HANSEN'S CEMETERY TRUST FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 14
+MISCELLANEOUS
+15-00-3601 INTEREST EARNED 259.25 217.02 26.30 198.85 300 66.3
+TOTAL MISCELLANEOUS 259.25 217.02 26.30 198.85 300 66.3
+TOTAL FUND REVENUE 259.25 217.02 26.30 198.85 300 66.3
+NET REVENUE OVER EXPENDITURES 259.25 217.02 26.30 198.85 300 66.3
+Page 54 of 131
+CITY OF IDAHO SPRINGS
+BALANCE SHEET
+AUGUST 31, 2026
+RAMP FUND (COLORADO BLVD)
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 15
+ASSETS
+20-00-1000 CASH - COMBINED FUND 712,298.83
+TOTAL ASSETS 712,298.83
+LIABILITIES AND EQUITY
+LIABILITIES
+20-00-2015 ACCRUED PAYROLL PAYABLE 15.56
+20-00-2020 ACCOUNTS PAYABLE (            169.20)
+TOTAL LIABILITIES (            153.64)
+FUND EQUITY
+20-00-2600 FUND BALANCE 699,036.84
+UNAPPROPRIATED FUND BALANCE:
+REVENUE OVER EXPENDITURES - YTD 13,415.63
+BALANCE - CURRENT DATE 13,415.63
+TOTAL FUND EQUITY 712,452.47
+TOTAL LIABILITIES AND EQUITY 712,298.83
+Page 55 of 131
+CITY OF IDAHO SPRINGS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+RAMP FUND (COLORADO BLVD)
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 16
+MISCELLANEOUS
+20-00-3601 INTEREST EARNED 25,371.57 21,346.34 1,868.33 14,748.71 25,000 59.0
+TOTAL MISCELLANEOUS 25,371.57 21,346.34 1,868.33 14,748.71 25,000 59.0
+TOTAL FUND REVENUE 25,371.57 21,346.34 1,868.33 14,748.71 25,000 59.0
+Page 56 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+RAMP FUND (COLORADO BLVD)
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 17
+20-00-4103 ADMINISTRATIVE HOURLY .00 840.56 327.58 1,082.14 1,262 85.8
+20-00-4104 OVERTIME .00 8.08 .00 .00 8 .0
+20-00-4201 FICA .00 50.68 20.04 64.88 77 84.3
+20-00-4202 MEDICARE .00 11.90 4.69 15.22 18 84.6
+20-00-4203 HEALTH INS. .00 115.08 16.32 130.56 173 75.5
+20-00-4204 LIFE INS. .00 1.12 .14 1.12 2 56.0
+20-00-4205 RETIREMENT .00 25.24 2.08 24.73 38 65.1
+20-00-4206 UNEMPLOYMENT .00 1.71 .65 2.15 2 107.5
+20-00-4207 DISABILITY INSURANCE .00 7.77 1.00 7.96 0 .0
+20-00-4209 DENTAL INSURANCE .00 4.08 .54 4.32 0 .0
+20-00-6016 ASPHALT, CURB & GUTTER 7,675.00 .00 .00 .00 200,000 .0
+TOTAL DEPARTMENT 00 7,675.00 1,066.22 373.04 1,333.08 201,580 .7
+TOTAL FUND EXPENDITURES 7,675.00 1,066.22 373.04 1,333.08 201,580 .7
+NET REVENUE OVER EXPENDITURES 17,696.57 20,280.12 1,495.29 13,415.63 176,580- 7.6
+Page 57 of 131
+CITY OF IDAHO SPRINGS
+BALANCE SHEET
+AUGUST 31, 2026
+IMPROVEMENT FUND
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 18
+ASSETS
+21-00-1000 CASH - COMBINED FUND (  2,165,706.01)
+21-00-1120 CASH W/COUNTY TREASURER 3,998.29
+21-00-1165 OTHER RECEIVABLES 19,440.55
+TOTAL ASSETS (  2,142,267.17)
+LIABILITIES AND EQUITY
+LIABILITIES
+21-00-2015 ACCRUED PAYROLL PAYABLE 510.63
+21-00-2020 ACCOUNTS PAYABLE 369,260.38
+21-00-2021 RETAINAGE PAYABLE 37,952.36
+TOTAL LIABILITIES 407,723.37
+FUND EQUITY
+21-00-2600 FUND BALANCE (     885,881.58)
+UNAPPROPRIATED FUND BALANCE:
+REVENUE OVER EXPENDITURES - YTD (  1,664,108.96)
+BALANCE - CURRENT DATE (  1,664,108.96)
+TOTAL FUND EQUITY (  2,549,990.54)
+TOTAL LIABILITIES AND EQUITY (  2,142,267.17)
+Page 58 of 131
+CITY OF IDAHO SPRINGS
+REVENUES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+IMPROVEMENT FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 19
+TAXES
+21-00-3130 SALES TAX (1/4) 585,256.84 605,448.61 99,167.80 603,038.37 1,216,800 49.6
+21-00-3135 BUILDING USE TAX (1/3) 259,169.33 6,507.68 824.32 6,237.62 15,000 41.6
+21-00-3136 MOTOR VEHICLE USE TAX 25,017.26 23,402.03 4,856.40 28,142.76 40,000 70.4
+TOTAL TAXES 869,443.43 635,358.32 104,848.52 637,418.75 1,271,800 50.1
+MISCELLANEOUS
+21-00-3601 INTEREST EARNED 10,868.66 100.26 (         5,394.68) (       31,636.40) 8,000 (395.5)
+21-00-3604 DONATIONS 200,000.00 .00 .00 .00 0 .0
+21-00-3695 SALE OF EQUIPMENT/INS. PROCEED .00 27,100.00 .00 .00 250,000 .0
+TOTAL MISCELLANEOUS 210,868.66 27,200.26 (         5,394.68) (       31,636.40) 258,000 (  12.3)
+STATE GRANTS
+21-00-3760 FOUNDATION GRANTS 125,000.00 .00 .00 .00 0 .0
+21-00-3769 AFFODABLE HSG GRANT--IHOP--FED .00 .00 .00 21,702.96 0 .0
+21-00-3770 LWCF GRANT--SHELLY QUINN--FED .00 132,604.65 .00 .00 0 .0
+21-00-3771 GOCO GRANT .00 .00 .00 122,531.85 0 .0
+21-00-3773 DOLA GRANT-EIAF 9908PD RENOVAT 463,707.20 .00 .00 .00 0 .0
+21-00-3774 DOLA GRANT-EIAF 9908 POLICE .00 .00 68,000.00 506,773.50 800,000 63.4
+TOTAL STATE GRANTS 588,707.20 132,604.65 68,000.00 651,008.31 800,000 81.4
+INTERFUND TRANSFERS
+21-00-3922 TRANSFER FROM CTF .00 .00 .00 .00 120,000 .0
+TOTAL INTERFUND TRANSFERS .00 .00 .00 .00 120,000 .0
+TOTAL FUND REVENUE 1,669,019.29 795,163.23 167,453.84 1,256,790.66 2,449,800 51.3
+Page 59 of 131
+CITY OF IDAHO SPRINGS
+EXPENDITURES WITH COMPARISON TO BUDGET
+FOR THE 8 MONTHS ENDING AUGUST 31, 2026
+IMPROVEMENT FUND
+YTD ACTUAL 2024- YTD ACTUAL 2025- PERIOD ACTU YTD ACTUAL BUDGET PCNT
+FOR ADMINISTRATION USE ONLY 67 % OF THE FISCAL YEAR HAS ELAPSED  09/22/2026     07:19AM       PAGE: 20
+IMPROVEMENT FUND EXPENDITURES
+21-00-4102 ADMINISTRATIVE SALARY .00 26,589.24 3,261.92 27,726.32 31,825 87.1
+21-00-4103 ADMINISTRATIVE HOURLY .00 840.56 327.58 1,082.14 1,262 85.8
+21-00-4104 OVERTIME .00 8.08 .00 .00 8 .0
+21-00-4201 FICA .00 1,665.09 215.00 1,725.68 2,498 69.1
+21-00-4202 MEDICARE .00 389.59 50.29 403.67 500 80.7
+21-00-4203 HEALTH INS. .00 3,577.48 465.76 3,731.36 5,366 69.5
+21-00-4204 LIFE INS. .00 15.68 1.96 15.68 20 78.4
+21-00-4205 RETIREMENT .00 1,532.74 193.92 1,655.37 1,234 134.2
+21-00-4206 UNEMPLOYMENT .00 55.64 7.17 57.57 70 82.2
+21-00-4207 DISABILITY INSURANCE .00 212.20 26.78 213.90 0 .0
+21-00-4209 DENTAL INSURANCE .00 146.16 14.46 115.68 0 .0
+21-00-5102 AUDIT .00 .00 .00 .00 408 .0
+21-00-5103 ENGINEERING--AFFORDABLE HSG 40,625.10 608.00 .00 .00 0 .0
+21-00-6013 CITY HALL FURNISHING/EQUIPMENT 219.90 .00 .00 .00 0 .0
+21-00-6016 DRAINAGE, PAVE/CURB/GUTTER CIP 23,005.00 .00 .00 .00 0 .0
+21-00-6017 OTHER STREET PROJECTS .00 4,332.90 .00 .00 0 .0
+21-00-6023 PARK IMPROVEMENTS-CRC .00 569.70 .00 .00 0 .0
+21-00-6024 VCMP TRAILS CONSTRUCTION 404,150.67 501,756.12 90,425.20 323,489.59 0 .0
+21-00-6025 PW VEHICLE PURCHASE 43,464.00 .00 .00 .00 0 .0
+21-00-6026 PD EQUIPMENT 17,236.14 127,379.40 451.00 127,631.07 108,000 118.2
+21-00-6028 STREETSCAPE/MALL IMPROVEMENTS 35,832.28 6,865.20 .00 .00 0 .0
+21-00-6032 SHELLY QUINN PARK 23,036.06 1,388,319.17 .00 .00 0 .0
+21-00-7041 MUSEUM BUILDING IMPROVEMENT 26,489.00 .00 .00 .00 0 .0
+21-00-7042 LIBRARY BUILDING IMPROVEMENT 20.77 575.00 .00 .00 0 .0
+21-00-7043 LAND ACQUISITION 375,000.00 761,000.00 .00 .00 0 .0
+21-00-7044 PW FACILITY PROJECT 1,593,551.86 6,814.00 .00 .00 0 .0
+21-00-7045 POLICE STATION IMPROVEMENTS 108,792.47 702,988.41 26,886.74 2,393,821.28 2,500,000 95.8
+21-00-7046 DOWNTOWN PARKING IMPROVEMENTS 2,829.43 .00 .00 .00 0 .0
+TOTAL IMPROVEMENT FUND EXPENDITURE 2,694,252.68 3,536,240.36 122,327.78 2,881,669.31 2,651,191 108.7
+HSF PROJECTS
+21-61-7040 CITY HALL IMPROVEMENTS 396,958.51 .00 .00 .00 0 .0
+21-61-7042 SITES & FACILITIES IMPROVEMENT 191,120.18 84,296.51 .00 39,230.31 0 .0
+TOTAL HSF PROJECTS 588,078.69 84,296.51 .00 39,230.31 0 .0
+TOTAL FUND EXPENDITURES 3,282,331.37 3,620,536.87 122,327.78 2,920,899.62 2,651,191 110.2
+NET REVENUE OVER EXPENDITURES 1,613,312.08- 2,825,373.64- 45,126.06 (  1,664,108.96) 201,391- (826.3)
+Page 60 of 131

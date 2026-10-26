@@ -1,0 +1,519 @@
+  
+PACKET MODIFICATIONS 
+August 4, 2026 
+ 
+ 
+Addition of the following documents handed out, not included in the original 
+packet:  
+ 7/29/2026 DCI Article on Paonia’s Short-Term Rentals 
+ Draft Common Ground Ordinance 
+
+
+
+
+ORDINANCE NO. 20_-
+AN ORDINANCE OF THE TOWN OF PAONIA, COLORADO, AMENDING THE PAONIA 
+MUNICIPAL CODE TO ADD A NEW ARTICLE CONCERNING THE REGISTRATION AND 
+REGULATION OF SHORT-TERM RENTALS
+WHEREAS, the Town of Paonia Board of Trustees recognizes that short-term rentals 
+contribute to the local economy by supporting tourism, agritourism, local businesses, and 
+community events; and
+WHEREAS, on April 1,2025, approximately 70% of Paonia voters approved the repeal of 
+Ordinance 2024-05, signaling a clear community preference for a simpler, more 
+proportional approach to short-term rental regulation; and
+WHEREAS, the Board of Trustees has determined that a registration-based framework, 
+adapted for Paonia's scale and character, best serves the public interest; and
+WHEREAS, the Board finds that the primary purposes of this Ordinance are safety, 
+nuisance prevention, accountability, tax compliance, and administrative feasibility, rather 
+than housing engineering or density management; and
+WHEREAS, short-term rentals currently represent a small percentage of Paonia's 
+approximately 943 housing units, well below the saturation levels observed in resort 
+communities; and
+WHEREAS, the Board of Trustees is authorized to adopt this Ordinance pursuant to the 
+police powers granted to statutory municipalities under C.R.S. § 31-15-103, the authority 
+to regulate for the protection of public health, safety, and welfare under C.R.S. §§ 31 -15- 
+401 and 31 -15-601, the land use and zoning authority granted under C.R.S. § 31 -23-301 et 
+seq., and all other applicable provisions of Colorado law;
+NOW, THEREFORE, BE IT ORDAINED BYTHE BOARD OF TRUSTEES OFTHETOWN OF 
+PAONIA, COLORADO:
+SECTION 1. DEFINITIONS
+For the purposes of this Article, the following terms shall have the meanings set forth 
+below:
+A. "Short-Term Rental" (STR) means the rental of a dwelling unit, or any portion thereof, for 
+a period of fewer than thirty (30) consecutive days, in exchange for compensation. This 
+Page 5 of 39
+
+term includes the rental of an entire dwelling unit or individual rooms within a dwelling 
+unit. This term does not include hotels, motels, and lodging facilities (including room 
+houses and bed-and-breakfasts) licensed under other provisions of the Paonia Municipal 
+Code, nor does it include the renting of rooms on a monthly or longer basis as permitted 
+under §16-11-20 (Home Occupations) and §16-11-30 (Renting of Rooms).
+B. "Dwelling Unit" means a single-family home, an accessory dwelling unit, a detached 
+accessory building with sleeping accommodations, or any other residential structure 
+lawfully permitted for habitation under the Paonia Municipal Code.
+C. "Operator" means the property owner, or a person or entity authorized by the property 
+owner, who manages and operates a short-term rental.
+D. "Local Contact Person" means a person located within thirty (30) miles of the short-term 
+rental property who is available twenty-four (24) hours per day to respond to complaints, 
+emergencies, or inquiries related to the operation of the short-term rental.
+E. "Registration" means the approval granted by the Town of Paonia authorizing the 
+operation of a short-term rental in accordance with the requirements of this Article.
+SECTION 2. REGISTRATION REQUIRED
+A. No person shall operate, advertise, or offer a short-term rental within the Town of Paonia 
+without first obtaining and maintaining a valid Short-Term Rental Registration from the 
+Town.
+B. A Registration is valid for a period of three (3) years from the date of issuance and must 
+be renewed for each subsequent three-year period.
+C. A Registration is non-transferable. If ownership of the property changes, the new owner 
+must apply for a new Registration prior to operating a short-term rental.
+D. Existing short-term rental operators shall have until January 1,2027 to submit a 
+Registration application.
+SECTION 3. APPLICATION AND FEES
+A. Applications for a Short-Term Rental Registration shall be submitted to the Town 
+Administrator or designee on forms prescribed by the Town. The application shall include:
+1. Property address.
+Page 6 of 39
+
+2. Applicant name and relation to the property (owner, authorized manager, etc.).
+3. Mailing address, telephone number(s), and email address of the applicant.
+4. Name, address, and 24-hour telephone number of the Local Contact Person (if the 
+operator does not reside on the property).
+5. Name and contact information of the property owner, if different from the applicant.
+6. Number of bedrooms to be rented and advertised maximum occupancy.
+7. Whether the rental will be located in a single-family home, accessory dwelling unit, 
+or detached accessory building.
+8. Whether the rental will be managed on-site by owner, on-site by manager, off-site 
+by owner, or off-site by manager.
+9. Anticipated availability (year-round, seasonal, or occasional).
+10. Proof of property ownership or written authorization from the property owner.
+11. Self-certification affidavit affirming compliance with the safety and operating 
+standards set forth in Section 5.
+B. The Registration fee shall be set by resolution of the Board of Trustees and shall be 
+limited to the reasonable costs of administering this Article. The initial fee shall not exceed 
+$75.00 for a three-year registration period for operators renting individual rooms and $100 
+for operators renting entire dwelling units.
+C. The Town Administrator shall approve or deny an application within thirty (30) days of 
+receipt of a complete application. If denied, the applicant shall receive written notice 
+statingthe reasons for denial.
+SECTION 4. TAX COMPLIANCE
+A. All short-term rental operators shall collect and remit all applicable taxes required by 
+the Paonia Municipal Code or Colorado law.
+B. Operators using third-party booking platforms that collect and remit taxes on behalf of 
+the operator shall maintain documentation of such arrangements and provide it to the 
+Town upon request.
+SECTION 5. SAFETY AND OPERATING STANDARDS
+Page 7 of 39
+
+By signature of the Registration application, the owner or operator affirms compliance with 
+the following standards, which shall be maintained at all times the short-term rental is in 
+operation:
+A. Life Safety
+1. All sleeping rooms have operable emergency escape windows that meet the 
+applicable building code.
+2. Each bedroom to be rented has a functioning smoke detector, with a smoke 
+detector also in an adjacent hallway.
+3. Each bedroom is located on a floor equipped with a functioning carbon monoxide 
+alarm if the dwelling unit has a carbon monoxide source (gas appliance, fireplace, 
+attached garage, or similar).
+4. An operable fire extinguisher has been placed in proximity to the kitchen.
+5. Ingress and egress paths of travel to exit doors from each bedroom are large enough 
+for two average-sized adults to pass and are kept clear and unobstructed.
+B. Occupancy and Wastewater
+6. Maximum occupancy shall not exceed two (2) persons per bedroom plus two (2) 
+additional persons, unless a different limit is established by the applicable building 
+code or wastewater system capacity.
+7. Properties served by an onsite wastewater treatment system (OWTS) shall have a 
+system adequate for the proposed occupancy. Ifthere is any question as to the 
+adequacy of the system, the Town may require an administrative review of the 
+OWTS prior to approval.
+8. Properties served by the Town's municipal sewer system shall comply with all 
+applicable sewer use regulations.
+C. Property and Neighborhood Standards
+9. Guest vehicles should be parked in a safe and lawful manner consistent with 
+existing Town parking regulations. When available, off-street parking on the property 
+may be used. However, on-street parking in front of or near the property shall be 
+permitted where it is otherwise allowed under Town parking regulations.
+10. Trash and recycling facilities shall be sufficient to address guest impacts and shall 
+be properly maintained.
+Page 8 of 39
+
+11 .The house number shall be clearly visible from the street.
+12. If a sign is used to advertise the short-term rental, the sign shall not exceed ten (10) 
+square feet and shall comply with any applicable sign regulations in the Paonia 
+Municipal Code.
+13. Outdoor amplified sound shall cease by 10:00 p.m. Sunday through Thursday and 
+by 11:00 p.m. Friday and Saturday, consistent with the Town's existing noise and 
+nuisance provisions.
+D. Guest Information and Contact
+14. Guests shall be provided with the 24-hour contact telephone number of the Local 
+Contact Person (or owner/operator, if residing on-site).
+15. Emergency contact information, including the Paonia Police Department non­
+emergency number and 911, shall be posted in a visible location inside the rental 
+unit.
+16. The approved Short-Term Rental Registration shall be posted in a location visible to 
+visiting guests.
+E. Insurance
+17. The property shall have an insurance policy adequate for short-term rental 
+operations. The operator shall maintain such coverage for the duration of the 
+Registration. Operators using 3rd party booking platforms like Airbnb and VRBO have 
+up to $1 million in liability coverage.
+SECTION 6. LISTING AND ADVERTISING REQUIREMENTS
+A. All advertisements and online listings for a short-term rental within the Town of Paonia 
+shall include the Town-issued Registration number.
+B. No person shall advertise or list a short-term rental that does not hold a current, valid 
+Registration.
+SECTION 7. NEIGHBOR NOTIFICATION
+A. Upon approval of a Registration, the Town shall provide written notice to all property 
+owners within 300 feet of the short-term rental. The notification shall include:
+Page 9 of 39
+
+1. The address of the short-term rental.
+2. The name of the operator or Local Contact Person.
+3. The 24-hour contact telephone number.
+B. Upon request, the operator shall provide neighbors with the name and 24-hour contact 
+telephone number of the Local Contact Person.
+SECTION 8. ENFORCEMENT AND COMPLAINTS
+A. Complaint-Based Enforcement
+Enforcement of this Article shall be primarily complaint-based. The Town shall maintain a 
+record of all written complaints received concerning a registered short-term rental.
+B. Complaint Process
+1. Any person may file a written complaint with the Town Administrator regarding a 
+violation of this Article.
+2. The Town Administrator or designee shall notify the operator and the Local Contact 
+Person of the complaint within five (5) business days.
+3. The operator shall have fifteen (15) calendar days from notification to respond in 
+writing and, if applicable, to remedy the violation.
+C. Escalating Penalties
+1. First documented violation: Written warning.
+2. Second documented violation within a twelve-month period: Fine of $150.00.
+3. Third documented violation within a twelve-month period: Fine of $300.00 and 
+suspension of Registration for up to ninety (90) days.
+4. Fourth or subsequent documented violation within a twelve-month period, or failure 
+to remedy a prior violation: Revocation of Registration.
+D. Revocation
+1. If a Registration is revoked, a new Registration shall not be issued for the same 
+property for a period of at least one (1) year from the date of revocation.
+2. The operator shall cease all short-term rental activity immediately upon revocation.
+Page 10 of 39
+
+E. Operating Without Registration
+Any person who operates a short-term rental without a valid Registration shall be subject 
+to a fine of $300.00 per occurrence. Each day of operation without a Registration shall 
+constitute a separate occurrence.
+SECTION 9. APPEALS
+A. Any applicant or operator aggrieved by a determination, interpretation, or decision of the 
+Town Administrator under this Article may appeal such action to the Board of Trustees.
+B. The appeal shall be in writing, shall state the basis for the appeal, and shall be filed with 
+the Town Clerk within thirty (30) days of the action being appealed.
+C. Appeals shall be limited to determining whether the Town Administrator has misread, 
+misinterpreted, or misapplied a provision of this Article — not for relief from a standard or 
+requirement itself.
+D. The Board of Trustees shall hear the appeal at a regular or special meeting no later than 
+forty-five (45) days after the written appeal is received.
+E. The decision of the Board of Trustees shall be final.
+SECTION 10. TWELVE-MONTH REVIEW AND SATURATION THRESHOLD
+A. Annual Review
+No later than twelve (12) months after the effective date of this Ordinance, and annually 
+thereafter, the Town Administrator shall present to the Board of Trustees a written report 
+evaluating the following:
+1. The total number of registered short-term rentals and their share of total housing 
+units, as determined by the most recent U.S. Census Bureau data or American 
+Community Survey estimate available to the Town.
+2. The total number and nature of complaints received.
+3. The administrative burden and cost of administering this Article.
+4. Any documented changes in housing availability or rental market conditions that 
+are directly attributable to short-term rental activity.
+Page 11 of 39
+
+5. Any recommendations for amendments to this Article, supported by documented 
+local data.
+B. Saturation Review Threshold
+1. If, at the time of any annual review, the total number of registered short-term rentals 
+equals or exceeds eight percent (8%) of total housing units within the Town, the 
+Town Administrator shall note this finding in the report and the Board of Trustees 
+shall, within ninety (90) days of receiving the report, initiate a public process to 
+evaluate whether additional measures are warranted. Such measures may include, 
+but are not limited to, a temporary pause on new Registrations, a numerical cap, or 
+other proportional responses.
+2. The saturation review threshold established in this subsection is a trigger for 
+deliberation, not a self-executing cap. No Registration that has been issued prior to 
+the threshold being reached shall be suspended, revoked, or rendered invalid solely 
+by reason of the threshold being met. Existing Registrations shall remain valid 
+through the remainder of their three-year term and shall be eligible for renewal 
+unless revoked for cause under Section 8 of this Article.
+3. Any Registration application that is complete and pending at the time the threshold 
+finding is reported shall be processed and decided under the standards in effect at 
+the time of submission.
+4. If the Board of Trustees determines, after public hearing, that no additional 
+measures are warranted despite the threshold being reached, the Board shall state 
+its reasons in writing and the Town shall continue to accept and process new 
+Registration applications.
+5. The Board of Trustees may, by resolution, adjust the saturation review threshold 
+established in this subsection if supported by documented local data and adopted 
+following a public hearing.
+C. Public Hearing
+The Board of Trustees shall hold a public hearingto receive community input on each 
+annual report prepared underthis Section.
+D. Standard for Amendment
+Amendments to this Article shall be made only if justified by documented local data and 
+consistent with the proportional, safety-focused intent of this Ordinance.
+Page 12 of 39
+
+SECTION 11. SCOPE AND LIMITATIONS
+A. This Article does not establish any cap or numerical limit on the number of short-term 
+rental Registrations.
+B. This Article does not impose minimum spacing or density buffer requirements between 
+short-term rentals.
+C. This Article does not require a special use review or conditional use permit for the 
+operation of a short-term rental, provided the operator complies with all requirements 
+herein.
+D. Nothing in this Article shall be construed to prohibit the renting of rooms on a monthly or 
+longer basis as permitted under §16-11-20 and §16-11-30 of the Paonia Municipal Code.
+SECTION 12. SEVERABILITY
+If any section, subsection, sentence, clause, phrase, or portion of this Ordinance is for any 
+reason held invalid or unconstitutional by any court of competent jurisdiction, such portion 
+shall be deemed a separate, distinct, and independent provision, and such holding shall 
+not affect the validity of the remaining portions of this Ordinance.
+SECTION 13. EFFECTIVE DATE
+This Ordinance shall take effect thirty (30) days after passage and publication as required 
+by law.
+SECTION 14. REPEALER
+All ordinances or parts of ordinances in conflict herewith are hereby repealed to the extent 
+of such conflict.
+INTRODUCED, READ, AND REFERRED before the Board of Trustees for the Town of Paonia, 
+Colorado, on the day of , 20.
+HEARD AND Fl NALLY ADOPTED by the Board of Trustees for the Town of Paonia, Colorado, 
+on the _ day of , 20.
+Page 13 of 39
+
+TOWN OF PAONIA, COLORADO
+By: Mayor
+ATTEST:
+Town Clerk
+Published: [Date] in [Publication] in effect: [Date]
+Page 14 of 39
+
+Town of Paonia 
+214 Grand Avenue 
+Tuesday, August 4, 2026 5:00 PM 
+Ad Hoc STR Committee Agenda  
+Public Participation: Please raise your hand and wait to be recognized by the Facilitator, 
+come to the podium and state your name and whether you live in town or out of town. The time 
+limit is 3 minutes, one time per item, there are instructions at the podium for the timer light. 
+Please direct all comments to the Facilitator. No responses will be made by staff or the 
+Committee during the meeting. Please be respectful and help to maintain decorum by not 
+engaging in derogatory and/or demeaning statements or public displays. 
+A) Call to Order
+B) Approval of Agenda
+C) Action Items
+Public comments must be related to the agenda item, 3-minute time limit.
+1) Brief review of the previous meeting's executive summary and public comment.
+2) Review the results of the July 28th Board of Trustees meeting as relates to expansion 
+of scope and extension of the facilitator contract.
+3) Filling of the two open committee seats.
+a. Review applications received and engage potential new members.
+b. Select new members
+4) Discussion of priorities for moving forward and new business.
+5) Additional Public Comment (time permitting).
+6) Discuss agenda items and preparation materials needed for the next meeting. Specific 
+survey questions?
+    D) Adjournment
+Page 1 of 11
+July 21, 2026 
+Short-Term Rental Ad Hoc Committee 
+Executive Summary 
+Meeting Overview 
+The STR Ad Hoc Committee met to review prior meeting work, discuss the process for filling 
+two open committee seats, consider whether to request an expansion of its assigned scope, 
+receive public input, and identify materials and agenda items for the next meeting. Much of the 
+discussion focused on whether the Committee should be permitted to consider STR elements 
+beyond the seven topics originally assigned by the Board of Trustees. 
+Agenda Approval 
+The Committee approved the agenda as presented. 
+Review of Previous Meeting Summary 
+The Committee reviewed the executive summary from its previous meeting. Facilitator Scott 
+Brown requested that his edited version of future summaries be included in meeting packets 
+rather than the unedited version.  Staff asked that the revised summary be submitted directly for 
+inclusion in the packet. 
+The Committee briefly discussed the pending extension of the facilitator’s contract and 
+confirmed that the matter was to be considered by the Board of Trustees on July 28th.  A 
+requested update regarding available facilitator funding had also been provided.  No public 
+comment was received on this item. 
+Background and Recruitment for Open Committee Seats 
+The Committee reviewed the vacancy created by Julie Bennett’s resignation and the Board of 
+Trustees’ subsequent approval to add two community representatives. Staff reported that the 
+vacancies were advertised through the Town website, Facebook page, text notification system, 
+and the Town’s customary committee-recruitment process. Previous applicants were also 
+contacted. 
+Applications or expressions of interest were received from Deborah Spiegel and Kathlyn 
+“Lynnie” O’Brien. The Committee discussed the need for a fair and consistent selection process 
+and expressed a strong desire to fill the two seats at the next meeting. Current applicants and 
+any others interested were encouraged to attend the next meeting. 
+Discussion of Committee Scope 
+The Committee discussed concerns that its existing scope, consisting of seven assigned topics, 
+may be too limited to attract broader participation and develop comprehensive 
+recommendations. Members acknowledged the Board of Trustees’ authority to determine final 
+ordinance language. 
+Representatives of Common Ground explained that the group had previously prepared a sample 
+ordinance intended as a streamlined starting point. Several committee members stated that while 
+Page 2 of 11
+formally submitted, they had not previously seen the draft ordinance. The Committee discussed 
+whether the Common Ground proposal could be used as a starting point, while clarifying that 
+the Committee had not adopted the proposal. 
+Discussion also addressed the distinction between recommending ordinance elements and 
+formal adoption, which must be sensitive to statutory, building-code, permitting, health, safety, 
+and administrative requirements. References were made to Montrose’s STR ordinance and a 
+distinction was made between Montrose as a home-rule municipality and Paonia as a statutory 
+municipality — the later having less flexibility and required to follow applicable state 
+requirements. The Town’s lack of a general business-licensing program was also noted.  
+Members requested clearer identification of any legal requirements or “sideboards” that would 
+limit the Committee’s recommendations. 
+Motion by Sam Staley, second by Calla Rose Ostrander: 
+The STR Committee requests permission to expand the STR Committee’s scope to include 
+elements that were not in the original scope of work. 
+(Scope of work here refers to the seven items listed in the “Proposed Objectives” included in 
+the April 7, 2026 STR Committee Meeting Packet.) 
+Result: Motion carried unanimously. 
+Facilitator Contract Scope 
+Following the scope discussion, the Committee considered whether the facilitator’s contract 
+should also be amended if the Board approves an expanded scope.  Members agreed that the 
+contract should reflect any newly authorized work. 
+Motion by Calla Rose Ostrander, second by Sam Staley: 
+If expansion of the STR Committee’s scope is adopted, the Committee recommends the Board 
+amend Scott Brown’s contract to reflect the revised scope of work. 
+Result: Motion approved. 
+Potential Committee Members 
+Lynnie O’Brien spoke regarding her interest in serving.  She stated that STRs can benefit local 
+businesses and provide income to residents, while also raising concerns regarding neighborhood 
+character, noise, animals, and the effects of transient occupancy. She stated that she had not 
+operated or personally rented an STR but had experience living near STR properties. 
+The Committee identified potential questions to ask each applicant, including whether the 
+applicant owns or operates an STR, has lived near or otherwise experienced STR operations, 
+and has personally stayed in an STR. No appointments were made.  The Committee agreed to 
+continue consideration of the applicants at its August 4, 2026 meeting. 
+Page 3 of 11
+Public Comment / Public Participation 
+Public comments addressed the accuracy of prior STR and housing data, the importance of 
+relying on factual information, the economic and tourism benefits of STRs, and the personal 
+circumstances of residents who use their homes as STRs.  Comments also addressed property 
+rights, neighborhood impacts, noise, animals, and concerns regarding burdensome renovation or 
+accessibility requirements. 
+Members of the public questioned the Town’s authority to regulate STRs, applicable state 
+requirements, and how occasional rentals would be treated.  A Common Ground representative 
+provided written materials concerning an STR operator’s personal experience and visitor 
+comments describing patronage of Paonia businesses. 
+Materials Requested for Next Meeting 
+For the next STR Committee meeting, the Committee requested or identified the following 
+materials and discussion items: 
+• Applications and background information for the two open committee seats; 
+• Orientation materials for newly appointed members; 
+• The facilitator’s working “living document” summarizing prior committee discussions; 
+• The Common Ground draft ordinance for possible use as a discussion starting point; 
+• Clarification of statutory and legal parameters governing STR regulation; 
+• Information regarding applicable zoning, home-occupation, permitting, building-code, 
+health, and safety requirements. 
+Next Steps / Action Items 
+1. Town staff will forward the Committee’s request to expand its scope to the Board of 
+Trustees for consideration. 
+2. If the expanded scope is approved, the Board will consider amending the facilitator’s 
+contract to reflect the revised scope. 
+3. The Committee will consider filling the two open seats at its August 4, 2026 meeting. 
+4. Applicants will be asked consistent questions regarding their ownership, use, and 
+experience with STRs. 
+5. Staff and the facilitator will assemble requested legal, permitting, zoning, and background 
+materials for the next meeting. 
+6. The Committee will review prior work and determine whether the Common Ground draft 
+ordinance should serve as a discussion starting point. 
+Adjournment 
+With no further business, the meeting was adjourned at approximately 6:24 p.m. 
+Next Meeting: August 4, 2026 
+Submitted July 28, 2026 by Scott Brown, facilitator 
+Document based on an AI-generated meeting summary
+Page 4 of 11
+July 28, 2026 Regular Board Meeting STR Items
+-------------------------------------------
+Topic Agenda: 
+3) Consideration of a Request to Expand the Scope of the Ad Hoc
+Short-Term Rental Committees Recommendation Work.
+Board Discussion: 
+The Board discussed removing the committee’s original limitation 
+to seven specified topics, noting that the narrow scope 
+restricted meaningful discussion, consideration of public 
+recommendations, and recruitment for the committee’s vacant 
+seats.  Expanding the scope would allow the committee to evaluate
+additional issues, consider proposed ordinance language developed
+by community members, and submit broader recommendations.  The 
+Board clarified that the committee would remain advisory and that
+final authority to draft and adopt any ordinance would remain 
+with the Board of Trustees.  The facilitator’s contract term was 
+addressed separately under the next agenda item.
+Motion: 
+Trustee Ostrander makes a motion to remove the limitations on the
+STR committee for recommendations on short-term vacation rentals.
+ Seconded by Trustee Foster. 
+Outcome: 
+The motion carries unanimously. 
+-------------------------------------------
+Topic Agenda: 
+4) Extension of Facilitators Contract and Potential Revised Scope
+Board Discussion: 
+The Board discussed amending the facilitator’s contract to remove
+the existing scope limitations, consistent with its action under 
+the preceding agenda item, and extending the contract through the
+end of 2026.  Staff reminded the Board that the committee had 
+requested a facilitator to assist its work after losing its 
+DRAFT
+Page 5 of 11
+original facilitator. 
+Motion:
+Trustee Foster makes a motion to remove the limitations of the 
+scope of the facilitator's contract and extend it to be the end 
+of the year.  Seconded by Trustee Ostrander. 
+Outcome: 
+The motion carries unanimously. 
+-------------------------------------------
+Page 6 of 11
+Page 7 of 11
+Page 8 of 11
+Page 9 of 11
+At the same time, the Board has expressed a desire to complete a new ordinance by the
+end of the year.
+Before accepting a position on the committee, I would appreciate some clarification about
+the direction the Board would like the committee to take.
+To date, Common Ground has invested many months researching, gathering community
+input, and developing a complete draft policy proposal. That proposal was specifically
+requested by the committee members and generated thoughtful discussion during our
+meetings. More importantly, it represents a compromise developed through collaboration
+among people with differing viewpoints and was intended to serve as a starting point for
+further discussion and refinement.
+I would appreciate understanding whether the Board envisions the committee using the
+Common Ground proposal as a working document that can be edited and refined, or
+whether the committee is expected to take a different approach.
+Understanding that would help me determine whether I can contribute most effectively as
+a committee member and ensure that everyone's volunteer time is being used in the most
+productive way.
+Thank you again for the invitation and for all the work you've put into this process. I look
+forward to hearing your thoughts.
+Sincerely,
+Deborah Spiegel
+On Thu, Jul 9, 2026 at 2:38 PM Scott Brown / Active Peace <Scott@4activepeace.com>
+wrote:
+Greetings,
+As you may know, a community member seat on the STR Committee was vacated last
+month and the Committee decided to take the opportunity to request two new
+community members. The Trustees approved that recommendation and tasked the
+Committee with filling the seats. This email is going out to the few people who originally
+expressed interest in being on the Committee but were not selected. On behalf of the
+entire Committee I hope you will consider putting your hat in the ring once again. The
+additional seats will bring the total to 3 community members, two trustees, and the
+interim administrator.
+If you are interested please let me know via this email thread and plan to attend the
+next meeting on July 21 at 5:00. The Committee meets 1st and 3rd Tuesdays from 5:00
+to 6:30.
+The Town will also be announcing the vacancies and soliciting additional applications.
+That will happen via the Textgov app, the FB page, and the Town website. Please feel
+free to give me a call if you have any questions.
+Thank you,
+Page 10 of 11
+Scott Brown, STR Committee facilitator
+Page 11 of 11

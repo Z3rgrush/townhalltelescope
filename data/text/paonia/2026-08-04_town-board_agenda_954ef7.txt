@@ -1,0 +1,1425 @@
+  
+PACKET MODIFICATIONS 
+August 4, 2026 
+ 
+ 
+Addition of the following document handed out, not included in the original 
+packet:  
+ Health Effects from RF Exposure Letter from Badger Meter 
+
+ 
+July 27, 2026 
+Gary Sund  
+Town Administrator 
+gregs@townofpaonia.com 
+Phone: (970) 527-4101 
+214 Grand Avenue 
+PO Box 460 
+Paonia, CO  81428 
+ 
+ 
+RE: Health Effect from RF Exposure 
+Dear Mr. Sund, 
+The ORION® Cellular endpoint device meets all applicable legal requirements of Part 15, Part 22, Part 
+24, and Part 27 of the Federal Communications Commission (FCC). In addition, radio frequency signals 
+broadcast from the endpoint devices are well below the levels m ost people come in contact with on a 
+typical day in their home. Devices such as television sets, wireless phones, and cell phones all utilize 
+radio frequency technology that provides much greater contact to radio frequency signals.   
+The ORION Cellular endpoint operates like a cell phone and under normal operation awakens up to four 
+times per day to transmit reading data. The endpoint also transmits a very short message at very low 
+power approximately five times each minute. Under typical operation, the endpoint transmits reading data 
+for seconds per day meaning that the endpoint transmits as little energy as a brief cell phone call. 
+Additionally, the exposure to radio frequency signals decreases with the square of the distance to the 
+device. This means the farther away anyone is from the radio frequency device, the less the (RF) contact. 
+For example, the energy measured two feet away from the endpoint is 1/4 of the energy measured at a 
+distance of one foot. Since the ORION endpoint is typically located in th e basement, on the outside of 
+the house or in a pit below grade, the extended distance and material between the endpoint and the 
+individual further reduces contact with radio frequency signals.   
+Further information regarding the ORION endpoint and its approval for use in water meter reading 
+applications can be found on the FCC website.   
+Sincerely, 
+BADGER METER, INC. 
+ 
+Matthew Menzel 
+Director, Global Product Management 
+
+ 
+Town of Paonia 
+214 Grand Avenue 
+Tuesday, August 4, 2026 6:30 PM  
+Board of Trustees Agenda  
+https://us02web.zoom.us/j/82440131072 
+Meeting ID: 824 4013 1072  
+  
+ 
+ 
+   
+A) Work Session 
+ 1) Beacon Meters FAQ 
+ 2) Departmental Vehicle Purchases 
+ 3) SB24 - 174 Housing Addendum 
+ 4) Discussion of waiving sewer tap fees for septic tank users 
+ 
+ 
+Page 1 of 40
+ 
+                                                
+ 
+                            
+ 
+ 
+                            
+ 
+                        
+Housing Needs Assessment and  
+Housing Action Plan:  
+SB24-174 Compliance Addendum 
+Town of Paonia 
+June 2026 
+Page 2 of 40
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page i 
+TABLE OF CONTENTS  
+INTRODUCTION .................................................................................................. 1 
+Background and Purpose .................................................................................................... 2 
+Methodology ...................................................................................................................... 2 
+Secondary Data .................................................................................................................................................. 2 
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE ............................... 4 
+A. Demographic Trends ....................................................................................................... 5 
+B. Accessible and Visitable Unit Needs ................................................................................ 6 
+C. Supportive Units ............................................................................................................. 7 
+D. Market Limitations ......................................................................................................... 9 
+E. Displacement Risk ......................................................................................................... 10 
+Analyze Data..................................................................................................................................................... 10 
+Engage Your Community .................................................................................................................................. 12 
+Identify the Location of Manufactured Home Parks ........................................................................................ 13 
+Identify Disadvantaged Areas .......................................................................................................................... 13 
+Increased Zoning Capacity Related to House Bill 24-1313 ............................................................................... 13 
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE ........................................ 14 
+A. Displacement Mitigation ............................................................................................... 15 
+B. Zoning and Density Assessment .................................................................................... 19 
+Potential Publicly Owned Development Sites .................................................................................................. 19 
+Parcel-Level Assessment .................................................................................................................................. 21 
+APPENDICES ...................................................................................................... 25 
+Appendix A ....................................................................................................................... 26 
+Page 3 of 40
+INTRODUCTION 
+TABLE OF CONTENTS 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 1 
+                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                     
+Page 4 of 40
+INTRODUCTION 
+BACKGROUND AND PURPOSE 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 2 
+BACKGROUND AND PURPOSE 
+A public hearing to consider acceptance of the Town of Paonia Housing Needs Assessment and Housing 
+Action Plan (HNA and HAP) was held during the regular Town Board Meeting on Tuesday, November 14, 
+2023. The Board of Trustees approved its acceptance and required it to be included in the Paonia Master 
+Plan, which was being developed. The agenda, board packet, and meeting minutes are included in 
+Appendix A.  
+Colorado Senate Bill 24-174 (SB24-174) was signed into law just over six months later on May 30, 2024. 
+In December 2024, the state released the Housing Needs Assessment Guide for Colorado Communities, 
+which provides guidance on complying with the new statutory requirements.  
+The Town of Paonia (Town) submitted the housing needs assessment to the Colorado Department of 
+Local Affairs (DOLA) for a SB24-174 compliance review. DOLA provided the Town with a review 
+memorandum dated April 16, 2025, stating “Conditional Approval” and noting that most, but not all, 
+required statutory outputs were included. The Town later resubmitted once the state completed its 
+Housing Action Plan Guide for Colorado Communities. Although the Town of Paonia is not required to 
+have an SB24-174-compliant housing action plan, DOLA provided the Town with another review 
+memorandum dated January 9, 2026, which included a review of the housing action plan. 
+The purpose of this SB24-174 Compliance Addendum to the 2023 HNA and HAP is to provide the 
+additional information requested by DOLA for the Town of Paonia’s 2023 HNA and HAP to achieve 
+“Substantial Conformity” and “Acceptance” of its HNA and HAP in accordance with SB24-174. 
+METHODOLOGY 
+Although this addendum was prepared in the Spring and Summer of 2026. While more recent public 
+data is available, this addendum primarily relies on data from when the HNA and HAP were originally 
+prepared. The purpose of this is to ensure consistency and direct alignment between the original 
+assessment and this supplemental addendum to the extent practicable.  
+SECONDARY DATA 
+Numerous sources of published information were referenced or used in the preparation of this SB24-
+174 Addendum, including but not limited to the following: 
+• Colorado Senate Bill 24-174 (SB24-174) 
+• Town of Paonia Housing Needs Assessment and Housing Action Plan (2023) 
+• State Demography Office, Colorado Department of Local Affairs 
+• U.S. Census Bureau, 2020 Census 
+• American Community Survey (ACS) 5-year estimates  
+• HISTA 3.1 Summary Report. Ribbon Demographics, LLC 
+• Delta County School District 50(J) Homeless Student Count Data, 2023-2024. Homeless 
+Education Data. Colorado Department of Education 
+• Colorado Department of Local Affairs, Registered Mobile Home Parks 
+Page 5 of 40
+INTRODUCTION 
+METHODOLOGY 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 3 
+• “A Snapshot of Homelessness in the Colorado Balance of State Continuum of Care. 2023 
+Homeless Point-in-Time Study Sheltered and Unsheltered Count.” Colorado Coalition for the 
+Homeless.  
+• Colorado Balance of State 2025 Point-in-Time County. Regional Breakdown, Delta County. 
+Colorado Balance of State Continuum of Care. https://doh.colorado.gov/point-in-time-and-
+housing-inventory-count 
+• Vader, Lucas. “Delta holds work session on homelessness; questions, concerns are raised 
+regarding upcoming homeless shelter and The Hangout.“ Delta County Independent. May 16, 
+2025.  
+• Delta County Assessor data, Mapping (GIS), June 2026  
+• Town of Paonia Municipal Code 
+ 
+ 
+ 
+Page 6 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+METHODOLOGY 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 4 
+                          
+ 
+ 
+ 
+ 
+ 
+PRE-EXISTING 
+HOUSING NEEDS 
+ASSESSMENT 
+COMPLIANCE 
+ 
+ 
+                                    
+Page 7 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+A. DEMOGRAPHIC TRENDS 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 5 
+A. DEMOGRAPHIC TRENDS 
+The 2023 Housing Needs Assessment (2023 HNA) features a “Demographics” section starting on page 
+14. Notably, population and household projections from the Colorado State Demography Office (SDO) 
+were omitted because the SDO does not provide this data at geographic scales smaller than the county 
+level. Consequently, population and household projections for the Town of Paonia or the Paonia CCD 
+were unavailable at the time of the original assessment and remain unavailable today. Such data is only 
+produced for Delta County as a whole. Despite the lack of municipal-level SDO forecasts, forecasts for 
+Delta County are included herein to satisfy the requirements of SB24-174. 
+When the 2023 HNA was prepared, SDO’s projections indicated that Delta County would add 667 
+additional households, or an average annual growth rate of 1.0%, between 2023 and 2028. The most 
+recent SDO data suggests that by 2028, the county will have grown slightly faster (1.1%/yr. on average).  
+Delta County Total Household Projections 
+Year Available for 2023 HNA Available for SB24-174 Addendum [1] 
+2023 13,240 13,278 
+2024 13,342 13,322 
+2025 13,465 13,605 
+2026 13,620 13,881 
+2027 13,763 13,931 
+2028 13,907 14,003 
+Change 2023-2028 667 725 
+CAGR 2023-2028 1.0% 1.1% 
+[1] Vintage 2024 data 
+SOURCE: COLORADO DEMOGRAPHY OFFICE, URBAN RURAL CONTINUUM 
+Historical Delta County population projections prepared by SDO were not available for this addendum. 
+SDO Vintage 2024 projections indicate that the county will grow by about 1,600 people between 2023 
+and 2028, at an average annual growth rate of 1%.  
+Delta County Total Population Projections 
+Year Population 
+2023 31,783 
+2024 32,295 
+2025 32,776 
+2026 33,259 
+2027 33,297 
+2028 projection 33,371 
+Change 2023-2028 1,588 
+CAGR 2023-2028 1.0% 
+SOURCE: COLORADO DEMOGRAPHY OFFICE, URBAN RURAL CONTINUUM 
+Page 8 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+B. ACCESSIBLE AND VISITABLE UNIT NEEDS 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 6 
+B. ACCESSIBLE AND VISITABLE UNIT NEEDS 
+SB24-174 requires HNAs to identify the need for accessible and visitable units, which were not included 
+in the 2023 HNA. 
+ 
+Data on existing visitable and accessible units does not exist unless governments specifically track this 
+information. The Town of Paonia does not have or track this data, although it is advisable to begin doing 
+so now to comply with future assessment requirements.  
+An alternative method for estimating this metric is to identify the share of households occupied by a 
+person(s) with a disability multiplied by the number of housing units needed. This method was used to 
+estimate the number of accessible and visitable units needed through 2028 in the Town of Paonia.  
+About 22% of households in Paonia have one or more people with a disability, unchanged since the 2023 
+HNA was prepared. About 14% of the Town’s population has a disability. The 2023 HNA indicated that 
+105 new housing units are needed through 2028 but clearly stated that not all of these units need to be 
+constructed in Town for various reasons. Despite this caveat, the total housing need is multiplied by the 
+share of households with at least one person with a disability (22%), resulting in an estimate of 23 
+accessible and visitable units needed in Town through 2028.    
+Estimated Accessible and Visitable Housing Needs through 2028  
+Metric Value 
+Town of Paonia, Total Units Needed 105 
+Share of households with one or more persons with a disability 22% 
+Maximum Estimated Accessible and Visitable Units Needed 23 
+SOURCE: U.S. CENSUS BUREAU, 2017-2021 AMERICAN COMMUNITY SURVEY 5-YEAR ESTIMATES, URBAN RURAL CONTINUUM  
+ 
+SB24-174’s definition of accessible and visitable units: 
+"ACCESSIBLE HOUSING" OR "ACCESSIBLE UNIT" MEANS HOUSING THAT SATISFIES THE 
+REQUIREMENTS OF THE FEDERAL "FAIR HOUSING ACT", 42 U.S.C. SEC. 3601 ET SEQ., AS AMENDED, 
+AND INCORPORATES UNIVERSAL DESIGN. 
+"VISITABLE HOUSING" OR "VISITABLE UNIT" MEANS A DWELLING UNIT THAT A PERSON WITH A 
+DISABILITY CAN ENTER, MOVE AROUND THE PRIMARY ENTRANCE FLOOR OF, AND USE THE 
+BATHROOM IN. 
+Page 9 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+C. SUPPORTIVE UNITS 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 7 
+C. SUPPORTIVE UNITS 
+Supportive units combine housing and services to help people live more stable and productive lives.  
+ 
+The shortage of supportive units can be roughly estimated from data on people and families 
+experiencing homelessness, although the state acknowledges that this data is not available in sufficient 
+detail for many jurisdictions. The 2023 HNA noted that “The truly unhoused population appears to be 
+very small, but not nonexistent.”  
+Enumerating the homeless population in most jurisdictions, including Paonia, is fraught with challenges. 
+Since the 2023 HNA process did not include a resident survey, which could have provided useful 
+information on this topic, there is little supporting data available.   
+Without direct, evidence-based information, one often-used source of data on the number of people 
+experiencing homelessness is the Point-in-Time Count by the Colorado Balance of State Continuum of 
+Care. This is part of a nationwide effort required by the U.S. Department of Housing and Urban 
+Development but is not reported at geographies smaller than the county level.  
+The 2025 count took place on January 28th, 2025. On that night, fewer than 10 unsheltered people were 
+identified in Delta County. This count is often low for many reasons. The undercount is notable since the 
+City of Delta alone has an average of 60 homeless individuals at any given time (Delta County 
+Independent, May 16, 2025). The 2023 point-in-time count indicated that Delta County had no 
+unsheltered people, almost certainly an undercount. 
+Another source of information is the Colorado Department of Education McKinney-Vento counts. The 
+most recent homeless student count data (2023-2024) indicates that 124 students in the Delta County 
+School District were homeless. Of these, 7 were unsheltered. This data covers the school district but is 
+unavailable for schools in the Town of Paonia.    
+Delta County School District 50(J) Homeless Student Count Data, 2023-2024 
+District Name Delta County 50(J) 
+PK-12 Total Homeless Count 124 
+Primary Nighttime Residence: Shelter, Transitional Housing 10 
+Primary Nighttime Residence: Double-up due to Economic 
+hardship 103 
+Primary Nighttime Residence: Unsheltered 7 
+Primary Nighttime Residence: Hotels/Motels 4 
+Number of Unaccompanied Homeless Youth  
+(Of the total PK-12 Homeless Count) 10 
+SOURCE: HOMELESS EDUCATION DATA, COLORADO DEPARTMENT OF EDUCATION 
+SB24-174’s definition of supportive housing or supportive unit: 
+"SUPPORTIVE HOUSING" OR "SUPPORTIVE UNIT" MEANS A COMBINATION OF HOUSING AND 
+SERVICES INTENDED AS A COST-EFFECTIVE WAY TO HELP PEOPLE LIVE MORE STABLE, PRODUCTIVE 
+LIVES, AND TYPICALLY COMBINES AFFORDABLE HOUSING WITH INTENSIVE COORDINATED SERVICES 
+TO HELP PEOPLE MAINTAIN STABLE HOUSING AND RECEIVE APPROPRIATE HEALTH CARE. 
+ 
+Page 10 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+C. SUPPORTIVE UNITS 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 8 
+There are two primary reasons why the Town of Paonia’s need for supportive units is small. First, the 
+county’s largest community is the City of Delta, and evidence suggests it has the county's largest 
+unhoused population. The city has a Crisis Prevention Unit for this reason. Second, households in the 
+Town of Paonia only represented about 5% of Delta County’s households at the time of the 2023 HNA. 
+Based on this and information gathered during the assessment process, fewer than five supportive 
+housing units are estimated to be needed in Paonia. Due to the very small size and limited capacity of 
+Town staff, addressing this need may be more effective at the county level in partnership with other 
+local governments and non-profit organizations.  
+Estimated Current Supportive Housing Needs 
+ Supportive Units 
+Total Estimated Units Needed ≤5 
+Note: Data limitations make this number unknown, but the need is small. 
+SOURCE: COLORADO DEPARTMENT OF EDUCATION, 2025 PIT COUNT, URBAN RURAL CONTINUUM 
+ 
+Page 11 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+D. MARKET LIMITATIONS 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 9 
+D. MARKET LIMITATIONS 
+SB24-174 recommends that market limitations to housing 
+development be assessed in an HNA, including both 
+challenges and opportunities. This can include a review of 
+local zoning and subdivision regulations, planning processes, 
+infrastructure limitations, development costs, and 
+construction labor and material supply challenges. The 2023 
+HNA covered all these topics.  
+Market factors impacting local housing development are 
+discussed in the 2023 HNA, starting on page 50. This includes the cost of building exceeding the 
+purchasing power of many households earning local wages (the capital gap), as well as labor constraints.  
+The capital gap was calculated and detailed in the 2023 HNA for a 1,500-square-foot, three-bedroom 
+home and a hypothetical 22-unit multifamily rental project. The capital gap section of the assessment 
+concluded by noting that “... under current market conditions, it is extremely difficult to build housing at 
+price points that are affordable to many local households. This information can provide a basis for future 
+grant requests.” 
+A very detailed review of the Town’s land use regulations was conducted as part of the 2023 HNA and 
+HAP (see page 76). The consultant team reviewed the Town’s municipal code and interviewed code 
+users to determine how the land use and regulatory environment may be creating barriers to housing 
+production.  
+The importance of aligning community infrastructure investments with housing production was noted 
+throughout the 2023 HAP & HNA. The water tap moratorium was identified as a critical issue because it 
+essentially fixed the housing supply with few exceptions. This issue received the second-most votes from 
+open house participants. The tool of strategically aligning community infrastructure investments to 
+support affordable housing also received many votes from open house participants and was included in 
+the action plan’s 3–5-year time frame (see page 71).  
+ 
+ 
+ 
+The capital gap is the difference 
+between the cost to build and the 
+amount of money local households 
+can afford to pay. Plugging this 
+financial shortfall is a major challenge 
+to building affordable housing for 
+local households. 
+Page 12 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+E. DISPLACEMENT RISK 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 10 
+E. DISPLACEMENT RISK  
+The 2023 HNA did not have a stand-alone section about residents’ risk of displacement. This 
+requirement came about with the passage of SB24-174. The December 2024 guidance for assessing 
+displacement risk notes that “The root causes of displacement are both the pressures that push people 
+or communities out and the conditions that make it hard for them to stay.” 
+ 
+SB24-174 describes the following five displacement risk assessment elements to be included in a 
+housing needs assessment, each covered in more detail below.   
+1. Analyze data 
+2. Engage your community 
+3. Identify the location of manufactured home parks 
+4. Identify disadvantaged areas through the Climate and Economic Justice Screening Tool (CEJST) 
+5. Identify areas with increased zoning capacity related to House Bill 24-1313 
+ANALYZE DATA 
+Eleven indicators of displacement risk in the Town of Paonia are identified in the table below.  
+Town of Paonia Displacement Risk Indicators 
+Displacement Measure Percent 
+Estimate 
+(rounded to 
+nearest 5) 
+Households making at or below 30%, 50%, and 80% AMI [1] 17% | 28% | 42% 115 | 190 | 280 
+Renter-occupied households [1] 22% 150 
+Housing cost-burdened occupied housing units with annual 
+incomes less than $75,000 (30%+ of income spent on 
+housing costs) [2] 
+42% 70 
+Persons (age 25+) with no high school diploma estimate [3] <1% 10 
+Persons (age 5+) who speak English “less than well” [3] 0% 0 
+SB24-174’s definition of displacement: 
+THE INVOLUNTARY RELOCATION OF RESIDENTS, PARTICULARLY LOW-INCOME RESIDENTS, OR 
+LOCALLY OWNED COMMUNITY SERVING BUSINESSES AND INSTITUTIONS DUE TO: 
+• INCREASED REAL ESTATE PRICES OR RENTS, PROPERTY REHABILITATION, REDEVELOPMENT, 
+DEMOLITION, OR OTHER ECONOMIC FACTORS; 
+• PHYSICAL CONDITIONS RESULTING FROM NEGLECT AND UNDERINVESTMENT THAT RENDER 
+A RESIDENCE UNINHABITABLE; OR 
+• PHYSICAL DISPLACEMENT WHEREIN EXISTING HOUSING UNITS AND COMMERCIAL SPACES 
+ARE LOST DUE TO PROPERTY REHABILITATION, REDEVELOPMENT, OR DEMOLITION; OR 
+INDIRECT DISPLACEMENT RESULTING FROM CHANGES IN NEIGHBORHOOD POPULATION, IF, WHEN 
+LOW-INCOME HOUSEHOLDS MOVE OUT OF HOUSING UNITS, THOSE SAME HOUSING UNITS DO NOT 
+REMAIN AFFORDABLE TO OTHER LOW-INCOME HOUSEHOLDS IN THE   NEIGHBORHOOD, OR 
+DEMOGRAPHIC CHANGES THAT REFLECT THE RELOCATION OF EXISTING RESIDENTS FOLLOWING 
+WIDESPREAD RELOCATION OF THEIR COMMUNITY AND COMMUNITY SERVING ENTITIES. 
+ 
+Page 13 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+E. DISPLACEMENT RISK 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 11 
+Displacement Measure Percent 
+Estimate 
+(rounded to 
+nearest 5) 
+Single-parent household with children under 18, estimate [2] 8% 55 
+Housing stock built prior to 1970 [2] 54% 410 
+Race and Ethnicity (households headed by people who 
+identify as other than non-Hispanic white) [2] 
+4% 25 
+Overcrowded (more people than rooms, excluding kitchens 
+and bathrooms) [3] 
+<1% ≤5 
+Civilian noninstitutionalized population with a disability 
+estimate [4] 
+14% 205 
+Older population (65+) [5] 28% 415 
+[1] Ribbon Demographics, LLC, HISTA (2023 estimates) 
+[2] 2017-2021 ACS 5-year estimate (%); Ribbon Demographics, LLC, HISTA (2023 Estimates); Urban Rural Continuum 
+[3] 2017-2021 ACS 5-year Estimate 
+[4] 2017-2021 ACS 5-year estimate; 2023 HNA 
+[5] U.S. Census Bureau, 2020 Census; 2023 HNA 
+SOURCE:  U.S. CENSUS BUREAU, 2020 CENSUS AND AMERICAN COMMUNITY SURVEY 2017-2021 5-YEAR ESTIMATES; RIBBON 
+DEMOGRAPHICS, LLC; 2023 HNA; URBAN RURAL CONTINUUM 
+These data demonstrate that several displacement risks are present in the Town of Paonia, particularly 
+regarding economic vulnerability and the stability of specialized populations. 
+ 
+Economic Vulnerability and Unaffordability 
+• Low-income households: Almost one-third (28%) of Paonia households earn at or below 50% of 
+the Area Median Income (AMI), and 17% earn 30% AMI or less. 
+• Housing cost burden: Roughly two of every five renter households earning less than $75,000 in 
+Paonia are cost-burdened (paying >30% of income on housing). 
+• Renter status: While Census data suggests a higher number, local estimates indicate only 22% of 
+households are renters. 
+• Fast-increasing housing prices: Home prices more than doubled between 2016 and 2022, 
+increasing by 16% per year on average—a rate 3.6 times faster than local wage growth. 
+Physical Displacement and Redevelopment 
+• Older housing stock: The risk is high. 55% of Paonia’s homes were built more than 50 years ago 
+(pre-1970), and 34% were built before 1940, making much of the inventory potentially 
+unsuitable for residents with disabilities or requiring significant maintenance. 
+• Manufactured home parks: The North Fork Trailer & RV Park is a key naturally occurring 
+affordable housing resource located adjacent to the Town, making its preservation important 
+for vulnerable residents. 
+  
+Page 14 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+E. DISPLACEMENT RISK 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 12 
+Household Stability and Specialized Needs 
+• Older populations (65+): Paonia is rapidly aging; the median age rose from 41 in 2000 to 49 in 
+2020. About 28% of the population is 65 or older, and 42% of those living alone are seniors, 
+many of whom are on fixed incomes. 
+• Single-parent households: Approximately 8% of households are headed by single parents with 
+children, a group that is vulnerable to income loss or rent spikes. 
+• Populations with a disability: More than one in ten residents (14%) has a disability. Many homes 
+are potentially unsuitable for residents with disabilities due to their age, limiting accessible 
+housing options for these residents. 
+• Regulated housing shortage: There is only one income-restricted property in Town (Creek Vista 
+Senior Living Apartments), which had a 14-person waitlist as of June 2023. 
+Indirect Displacement 
+• Neighborhood population changes: High housing costs have created obstacles for local 
+businesses attempting to recruit and retain employees. This shift represents a notable risk of 
+indirect displacement, as the local workforce is increasingly priced out of the market by higher-
+income residents who earn income outside the local economy and retirees.  
+• Outcompeted by cash buyers: Locals are at a severe disadvantage, as roughly three out of every 
+five homes sold in Town in 2022 were purchased with cash, often by buyers from higher-priced 
+markets. 
+• Short-term rentals (STRs): Community members identified STRs as a primary issue reducing 
+housing choice for residents. 
+ENGAGE YOUR COMMUNITY 
+Preparation of the Paonia HNA and HAP included numerous public and stakeholder engagement efforts. 
+Interviews, discussions with the Housing Task Force, and an employer survey covered numerous topics, 
+including work location and commutes, business stability, and housing conditions. Targeted outreach 
+was conducted to reach additional segments of the community.  
+Paonia’s engagement process included: 
+• Housing Task Force: A 12-member informal committee representing the Town Board, local 
+businesses, seniors, local non-profits, property owners, and more met four times to provide 
+input and direction and review drafts.  
+• Employer Questionnaire: A month-long online survey gathered data from 50 local employers 
+representing roughly 500 jobs (at least 45% of the local workforce) to forecast housing demand 
+and understand recruitment challenges. 
+• Community Open House: Held on July 13, 2023, where 37 community members used dot-voting 
+to identify pressing issues and tools/actions to address them.  
+• Stakeholder Interviews: Consultants interviewed 18 individuals, including realtors, property 
+managers, builders, and social service providers, to gather market insights and perspectives on 
+local needs. 
+• Targeted Outreach: In line with equity best practices, the team reached another 36 community 
+members, including those from marginalized or vulnerable groups—seniors, unhoused persons, 
+Page 15 of 40
+PRE-EXISTING HOUSING NEEDS ASSESSMENT COMPLIANCE 
+E. DISPLACEMENT RISK 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 13 
+mothers, church members, and members of the LGBTQ+ community—by attending other 
+regularly scheduled meetings and events. 
+• Board of Trustees Meetings (all open to the public) 
+» July 25, 2023: A Board meeting where optional project add-ons (including specific code 
+update drafts and a development strategy) were approved. 
+» August 22, 2023: A regular Board of Trustees meeting where the consultants presented the 
+draft Housing Needs Assessment for review and feedback. 
+» September 11, 2023: A dedicated work session with the Board of Trustees to review and 
+receive public comment on the draft Housing Action Plan. 
+» November 14, 2023: Public hearing held to consider acceptance of the Housing Needs 
+Assessment and Housing Action Plan, which the Board of Trustees voted unanimously to 
+accept.    
+IDENTIFY THE LOCATION OF MANUFACTURED HOME PARKS 
+There is just one mobile home park near Paonia that is registered with the State of Colorado’s 
+Department of Local Affairs—the North Fork Trailer & RV Park. There are no registered parks within the 
+municipal boundary. Details are included in the 2023 assessment (see page 44).   
+IDENTIFY DISADVANTAGED AREAS 
+SB24-174 directs local governments to identify areas that qualify as disadvantaged using the Climate and 
+Economic Justice Screening Tool (CEJST). The official version of this tool is no longer available pursuant 
+to an Executive Order issued on January 20, 2025. 
+INCREASED ZONING CAPACITY RELATED TO HOUSE BILL 24-1313 
+The Town of Paonia is not subject to the requirements of this statute because it is not within a 
+metropolitan planning organization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+E. DISPLACEMENT RISK 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 14 
+                          
+ 
+ 
+ 
+ 
+ 
+PRE-EXISTING 
+HOUSING 
+ACTION PLAN 
+COMPLIANCE 
+ 
+ 
+ 
+                                    
+Page 17 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+A. DISPLACEMENT MITIGATION 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 15 
+A. DISPLACEMENT MITIGATION 
+Residents of the Town of Paonia are at elevated risk of indirect and economic displacement due to 
+rapidly rising housing costs. 
+• Vulnerable Communities: The most at-risk populations are low-income renters and seniors on 
+fixed incomes. Approximately 33%-40% of renters are cost-burdened. Furthermore, 28% of the 
+population is 65 or older, many of whom live in older homes (54% of the housing stock built 
+before 1970) that may require expensive maintenance they cannot afford. Physical 
+displacement due to the cost of maintenance, property taxes, insurance, etc., is a risk. 
+• Specific Risk Areas: A critical geographic area of concern is the North Fork Trailer & RV Park, 
+even though it is not within the municipal boundary. The park is home to low-income 
+households, senior households, and people with disabilities, among others. Residents of 
+manufactured home parks are uniquely vulnerable to displacement, primarily because of the 
+split-tenure model (they own their homes but rent the land beneath them), leaving them at risk 
+if park owners sell the land, raise lot rents, or impose unaffordable fees. Unlike renters and 
+owners of other home types, mobile homeowners often must bear the high cost of finding a 
+new location and relocating their homes, which can be prohibitive. Residents who rent their 
+homes from the park owner face some of the same risks of cost increases and displacement 
+through standard eviction. All but one of the mobile homes in the park was owner-occupied at 
+the time of the HNA.  
+• Market Drivers: The influx of wealthier newcomers, retirees, and remote workers has decoupled 
+home prices from local wages, with three out of every five homes in 2022 sold to cash buyers. 
+Workers earning local wages are being priced out.  
+Plan to Mitigate Displacement 
+Paonia’s housing action plan helps mitigate displacement risk by generally aiming to increase the supply 
+and diversity of Housing for the Community, including housing priced below market prices. Expanding 
+the supply of affordable housing gives low-income residents more options if they are displaced, 
+mitigating the harm of losing their home. Adding supply can also free up other housing in the market 
+and reduce competition for the limited number of lower-cost units, helping to stabilize rents.   
+SB24-174 requires the Town’s Housing Action Plan to include at least two standard affordability 
+strategies, one long-term affordability strategy, and one displacement mitigation strategy. The state 
+review of the HAP noted that the identification of at least one suitable displacement mitigation strategy, 
+as described in the displacement risk mitigation strategies directory in section 24-32-3706 (4), was 
+missing from the 2023 HAP.    
+The following table focuses exclusively on the Displacement Mitigation Strategies identified in Section 3 
+(page 61) of the Colorado Affordability and Displacement Mitigation Strategies Directory and their 
+corresponding location(s) within the 2023 HNA and HAP. The directory notes that “These strategies may 
+have overlapping benefits with affordability strategies, but more specifically work to stabilize 
+households, prevent negative consequences of development, or repair past harms.” 
+Page 18 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+A. DISPLACEMENT MITIGATION 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 16 
+Town of Paonia Displacement Mitigation Strategies 
+Displacement 
+Mitigation Strategy 
+(from DOLA Directory) 
+Location in Paonia 2023 HNA and HAP  
+3A. Fund rental and 
+mortgage assistance 
+Section B: Actions to Start Now—Use, Promote, and Build on Existing 
+Resources—noted keeping the existing public housing resources 
+document updated and widely available to the public (developed as part 
+of the 2023 HNA and HAP). The Town did not commit to funding rental 
+and mortgage assistance, but by promoting existing resources, such as 
+USDA Rural Development payment assistance and the Community 
+Resources & Housing Development Corporation’s down payment 
+assistance, it indirectly supports such services. 
+3B. Support legal 
+representation to 
+prevent eviction and 
+foreclosure 
+Section B: Actions to Start Now—Use, Promote, and Build on Existing 
+Resources—noted keeping the existing public housing resources 
+document updated and widely available to the public (developed as part 
+of the 2023 HNA and HAP). The Town did not commit to direct legal 
+support, but by promoting existing resources, such as the Community 
+Resources & Housing Development counseling and education services for 
+those in foreclosure, it indirectly supports those services. 
+3C. Establish a housing 
+counseling and 
+navigation program 
+Section B: Actions to Start Now—Use, Promote, and Build on Existing 
+Resources—noted keeping the existing public housing resources 
+document updated and widely available to the public (developed as part 
+of the 2023 HNA and HAP). The Town did not commit to establishing a 
+program for this purpose, but by promoting existing resources and calling 
+for a "One Stop Shop" resource hub (Section D-Future Actions), it 
+indirectly supports such services. 
+3D. Create a property tax 
+and down payment 
+assistance program 
+Section B: Actions to Start Now—Use, Promote, and Build on Existing 
+Resources—noted keeping the existing public housing resources 
+document updated and widely available to the public (developed as part 
+of the 2023 HNA and HAP). The Town did not commit to establishing a 
+program for this purpose, but by promoting existing resources, including 
+Community Resources & Housing Development's down payment 
+assistance, it indirectly supports such services.   
+3E. Offer technical 
+assistance and financial 
+support for community 
+land trusts 
+Section B: Allow for Accessory Dwelling Units—references the Fertile 
+Edge Community Land Trust as a potential partner. Section C: Actions to 
+Start Next—Acquire Land/Bank Land—notes that implementation could 
+include partnering with the same land trust.  
+3F. Preserve existing 
+affordable housing 
+Section D: Future Actions—Obtain Right of First Refusal on Housing—to 
+preserve naturally occurring affordable housing.  
+3L. Other: Regulate short-
+term rentals (STRs) 
+Section B: Actions to Start Now—Regulating STRs—was identified as the 
+top priority to prevent residents from losing long-term housing. 
+3L. Other: Allow for 
+accessory dwelling units 
+(ADUs) 
+Section B: Actions to Start Now—Allowing ADUs— to provide low-
+maintenance, affordable rental options that help resident owners age in 
+place and/or build equity. 
+3L. Other: Sweat Equity 
+Programs 
+Section B: Actions to Start Now—Establishing partnerships for sweat 
+equity program—(e.g., Habitat for Humanity) that allow low-income 
+residents to build home equity. 
+Page 19 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+A. DISPLACEMENT MITIGATION 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 17 
+ 
+The Colorado Affordability and Displacement Mitigation Strategies Directory links to additional 
+resources, such as the Innovative Affordable Housing Strategies (an inventory for HB21-1271). Many of 
+the qualifying strategies help increase affordable housing supply and mitigate the risk of displacement. 
+The qualifying strategies included in the 2023 HNA and HAP, along with their locations in the document, 
+are summarized in the following table.  
+Innovative Affordable Housing Strategies included in the 2023 HNA and HAP 
+Housing Strategy Location in Paonia 2023 HNA and HAP  
+Use of vacant publicly-owned 
+property for affordable housing 
+development 
+Section B: Actions to Start Now—Explore Public-Private 
+Partnerships to Build Housing for the Community—includes a 
+discussion of ways to implement this by leveraging surplus Town 
+property. The plan also included a list of public sites that could 
+be considered for the development of housing, including the 
+property size, zoning, and notes and considerations.  
+Subsidize/reduce local 
+government fees 
+Section B: Actions to Start Now—Explore Public-Private 
+Partnerships to Build Housing for the Community—includes 
+consideration for waiving fees. Section D recommends allowing 
+fee reimbursement or waivers, as well as fee deferrals, for 
+builders/developers of affordable housing.  
+Expedited development review for 
+affordable housing up to 120% 
+AMI 
+Section C: Actions to Start Next—Update Land Use Regulations 
+to Remove Barriers and Add Flexibility—includes a note about 
+implementation by referencing the first draft of an expedited 
+review policy submitted by the consultant as part of this project.  
+Density bonus program for 
+housing needs 
+Section D: Future Actions— calls for the creation of a density 
+bonus for affordable housing projects meeting defined criteria.  
+Dedicated funding source to 
+subsidize affordable housing 
+infrastructure costs and fees 
+Section D: Future Actions— calls for the creation of a dedicated 
+funding stream. Section C: Actions to Start Next—Align 
+Community Infrastructure Investments—calls for filling gaps in 
+infrastructure to opportunity sites with planned infrastructure 
+improvements. 
+Middle multifamily (duplex, 
+triplex, other) use by right in single 
+family residential zoning districts 
+Section C: Actions to Start Next—Update Land Use Regulations 
+to Remove Barriers and Add Flexibility—references the land use 
+regulations review in Section E. Section E includes recommended 
+edits, such as allowing additional residential uses in more 
+residential zones (e.g., allow duplexes in R-1, multifamily by right 
+in R-2, and multifamily 6+ units by right in R-3). 
+ADU use by right in single family 
+zoning districts 
+Section B:  Actions to Start Now—Allow for Accessory Dwelling 
+Units. A first draft of code edits to allow one ADU to all detached 
+single-family units was submitted by the consultant as part of 
+the project. 
+Page 20 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+A. DISPLACEMENT MITIGATION 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 18 
+Housing Strategy Location in Paonia 2023 HNA and HAP  
+Allow small square footage 
+residential unit sizes 
+Section C: Actions to Start Next—Update Land Use Regulations 
+to Remove Barriers and Add Flexibility—references the land use 
+regulations review in Section E. Section E includes recommended 
+code edits that would facilitate smaller square footage 
+residential units by allowing for smaller lot sizes, streamlining 
+setbacks, reducing landscaped open space requirements, and 
+allowing off-site built residential units.  
+Lessened minimum parking 
+requirements for new affordable 
+housing 
+Section C: Actions to Start Next—Update Land Use Regulations 
+to Remove Barriers and Add Flexibility—discusses examples for 
+revised parking regulations, including reduced parking 
+requirements for multifamily development and/or residential 
+uses downtown, and reestablishing a fee-in-lieu program. 
+Section E includes a recommendation to reduce parking 
+minimums and to allow for shared and off-site parking.  
+Land 
+donation/acquisition/banking 
+program 
+Section C: Actions to Start Next—Acquire Land/Bank Land. The 
+plan discusses numerous approaches the Town could take to 
+implement this, including creating and maintaining a partnership 
+with the local Fertile Edge Community Land Trust.  
+Other novel, innovative, creative 
+approaches - Housing Authorities 
+The Delta Housing Authority is a well-established resource in the 
+county with a strong track record of building and managing 
+affordable housing, and of administering and providing other 
+resources (such as Housing Choice Vouchers) and expertise. The 
+plan notes that the authority could even serve as a special 
+limited partner on a future affordable housing development 
+project.   
+SOURCE: DOLA INNOVATIVE AFFORDABLE HOUSING STRATEGIES, ACCESSED APRIL 2026; 2023 HNA AND HAP; URBAN RURAL CONTINUUM 
+ 
+ 
+Page 21 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 19 
+B. ZONING AND DENSITY ASSESSMENT 
+SB24-174 requires “An assessment of the effect of existing zoning and density permitted in the local 
+government’s jurisdiction on the development of the number and types of dwelling units identified in 
+the applicable housing needs assessment.” It also requires an analysis of opportunities to develop 
+higher-density and regulated affordable housing within a reasonable distance of major transit stops.  
+The remainder of this section is devoted to meeting the first requirement. The second, an analysis of 
+opportunities for high-density and regulated affordable housing near major transit stops, was not 
+conducted because there are no major transit stops in the Town of Paonia or nearby.  
+The HNA identified the need for 105 additional housing units through 2028 but specifically noted that 
+not all of them need to be constructed in the Town of Paonia. The 2023 Housing Action Plan set a new 
+production goal of 25 to 35 units at or below 120% of the area median income (AMI) once the water tap 
+moratorium is lifted. It specified that new units for homeownership and rent are needed to address the 
+community’s housing needs. Specifically, it sets the following goals: 
+• 5 to 10 homes for sale (generally affordable to households earning from 80% AMI up to 120% 
+AMI) 
+• 20 to 25 homes for rent (generally affordable to households earning up to 80% AMI) 
+POTENTIAL PUBLICLY OWNED DEVELOPMENT SITES  
+The following table and map of public sites in Paonia that could be considered for developing 
+community housing were included in the 2023 HNA and HAP. It is included again in this SB24-174 
+Addendum because 25 to 35 units can readily be accommodated on these sites based on their acreage, 
+without consideration of zoning compatibility, the owners’ willingness or desire to change the property's 
+use, or many other potential constraints. A sample development strategy was also included in the 2023 
+HNA and HAP, which outlined possible roles the Town of Paonia could play in developing Housing for the 
+Community (see page 81), and steps for leveraging Town-owned land/property to meet its housing goals 
+without having to act as the developer (see pages 82-86).  
+  
+Page 22 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 20 
+Potential Publicly Owned Development Sites 
+Site Location Owner 
+Property 
+Size 
+Building 
+Size Zone 
+Notes and 
+Considerations 
+Old Sewer 
+Lagoon Site/ 
+Twin Lakes 
+S of Samuel 
+Wade Rd., 
+near river 
+Town 3.5 ac NA I-1 Vacant site. Completed 
+Targeted Brownfields 
+Assessment. [1]  
+Public Works 
+Warehouse 
+and Property 
+401, 403, 
+and 405 2nd 
+St. 
+Town 0.52 ac (in 
+2 parcels) 
+4,000 sf, 
+2,000 sf, 
+4,500 sf  
+C-2 Occupied by Town and 
+EMS. 2021 Capital 
+Improvements Plan states 
+buildings are generally in 
+good shape.  
+Riverside 
+Estates Lots 
+12-15 
+W side of 
+4th St., 
+north of 
+library 
+Town 0.56 ac 
+(all 4 lots) 
+NA R-1 Appears to be part of the 
+library’s landscaped area.  
+Public 
+Parking Lot  
+Main Ave. 
+behind 
+Town Hall 
+Town 0.8 ac NA C-1 Currently used for public 
+and Town Hall parking.   
+Public 
+Parking Lot 
+236 Main 
+Ave. 
+Town 0.153 ac NA C-1 Currently used as public 
+parking.  
+Old Paonia 
+Middle 
+School/Vo-
+tech building 
+218 4th St. DCSD 5.6 ac 
+(2.53 ac 
+was for 
+sale) 
+33,860 sf P Vacant building. Town has 
+considered purchasing in 
+the past. [1]  
+School Bus 
+Barn 
+135 Main 
+Ave. 
+DCSD 0.23 ac 7,000 sf R-2 Currently used as the bus 
+barn.  
+South vacant 
+portion of K-
+8 Lot  
+846 Grand 
+Ave. 
+DCSD ~10 ac NA P DCSD may have plans for 
+the vacant area, and it 
+may be in the floodplain. 
+USFS 403 Rio 
+Grande 
+Ave. 
+USA 3.28 ac NA DR The USFS may have plans 
+for the property’s vacant 
+area.  
+USFS 117, 119, 
+121 Clark 
+Ave. 
+USA 0.24 ac 710 – 
+800 sf 
+R-1 3 small single-family 
+homes currently on-site.  
+[1] Numerous members of the community identified these sites as top locations for new Housing for the Community during this 
+project. 
+USFS – United States Forest Service; DCSD – Delta County Joint School District 50J; PW – public works; EMS – emergency 
+medical services; ac – acres; sf – square feet.  
+SOURCE: DELTA COUNTY ASSESSOR, TOWN OF PAONIA ZONING MAP, CONSULTANT TEAM 
+Page 23 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 21 
+Map of Potential Development Sites 
+ 
+SOURCE: DELTA COUNTY GIS, CONSULTANT TEAM 
+PARCEL-LEVEL ASSESSMENT 
+A basic analysis of the Town’s zoning and density was conducted to comply with SB24-174. A more 
+robust analysis will yield different results.  
+• The analysis relies on June 2026 Delta County Assessor data and the zone district for each 
+parcel, as shown on the official 2018 zoning map. Two parcels within the town boundary were 
+found to be missing and were manually added. No other changes were made.  
+• This information is the best available, although the Town is currently updating its official zoning 
+map and corresponding geographic information system (GIS) zoning layer.  
+• This analysis is based on the roughly 431 zoned acres within the town’s larger area, estimated at 
+about 525 acres. This discrepancy is primarily due to the exclusion of public roads.  
+Residential zone districts (R-1, R-2, R-3, and PUDs) account for 82% of the Town’s parcels and 66% of the 
+land area. Almost 40% of the land is zoned R-1, which allows only single-family dwellings, and very little 
+is zoned R-3, the only district that allows more than single-family dwellings and duplexes by right. 
+ 
+Page 24 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 22 
+Town of Paonia Zone District Summary 
+Zone District Number of Parcels Land Area (acres) Land Area Distribution 
+Estate Residential (E-1) 0 0.0 0.0% 
+Low-Density Residential (R-1) 566 161.5 37.5% 
+Low-Density Residential Planned Unit 
+Development (R-1 PUD) 16 3.8 0.9% 
+Medium-Density Residential (R-2) 89 90.9 21.1% 
+Medium-Density Residential Planned Unit 
+Development (R-2 PUD) 4 13.2 3.1% 
+Higher-Density Residential (R-3) 76 13.7 3.2% 
+Mobile Home Park Subdivision (MH) 0 0.0 0.0% 
+Core Commercial District (C-1) 93 13.0 3.0% 
+Community Commercial District (C-2) 23 7.7 1.8% 
+Community Commercial District Planned Unit 
+Development (C-2 PUD) 1 0.5 0.1% 
+Developing Resource (DR) 7 20.8 4.8% 
+Light Industrial (I-1) 20 34.7 8.0% 
+Public (P) 10 71.3 16.5% 
+Total 905 430.9 100.0% 
+SOURCE: DELTA COUNTY ASSESSOR, TOWN OF PAONIA 2018 ZONING MAP, URBAN RURAL CONTINUUM 
+While the distribution of the town’s land by zone district is helpful, understanding what can be built by 
+right in each zone is important for identifying how the zoning code creates barriers to constructing new 
+Housing for the Community.  
+A barrier to additional housing production and home types is that the R-1 zone permits single-family 
+homes by right only. Furthermore, while duplexes are allowed by right in the R-2 zone, many existing 
+lots fall short of the 8,000-square-foot minimum, effectively limiting them to single-family homes.  
+Key Zone District Details, Town of Paonia 
+Zone districts that allow 
+residential uses  
+Residential uses permitted 
+by right 
+Min. lot area (square feet, 
+unless noted) 
+E-1 (no land zoned E-1) Single-family dwellings 3 acres for 1 DU 
+R-1  Single-family dwellings 6,000 for 1 DU 
+R-2 Single-family dwellings, Two-
+family dwellings 
+6,000 for 1 DU 
+8,000 for 2 DUs 
+R-3 Single-family dwellings, Two-
+family dwellings, Multiple-
+family dwellings, apartment/ 
+townhouses not exceeding 6 
+units per lot 
+6,000 for 1 DU 
+6,000 for 2 DUs 
+8,000 for 3 DUs 
+10,000 for 4 DUs 
+12,500 for 5 DUs 
+15,000 for 6 DUs 
+Page 25 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 23 
+Zone districts that allow 
+residential uses  
+Residential uses permitted 
+by right 
+Min. lot area (square feet, 
+unless noted) 
+MH 
+(no land zoned MH) 
+Single-family dwellings,  
+Mobile home subdivisions, 
+Mobile home (single unit)  
+5,000 for 1 DU 
+C-1 Dwelling units secondary to the 
+business use 
+Same as R-3 
+C-2 Dwelling units secondary to the 
+business use 
+Same as R-3 
+SOURCE: TOWN OF PAONIA 2018 ZONING MAP AND MUNICIPAL CODE; WILMORE & COMPANY PROFESSIONAL LAND SURVEYING; URBAN 
+RURAL CONTINUUM 
+Since most Paonia parcels have been developed, an analysis was conducted to identify parcels likely to 
+be vacant and buildable. This analysis was only conducted for the primary residential zone districts. 
+Although some residential development could occur in the town’s commercial zones, this is not 
+accounted for in the table below.  
+• Parcels were identified as vacant if their improved actual value was less than $10,000.  
+• Parcels were identified as buildable if the lot size met the minimum square feet required to 
+build at least one dwelling unit (DU).  
+If a parcel was found to be vacant and buildable, the number of potential dwelling units that could be 
+built was estimated based on the maximum number that could fit on each parcel, determined solely by 
+lot size. 
+This baseline analysis provides a high-level overview of potential housing buildout in primary residential 
+zones. Because a site-by-site review is outside the scope of this Addendum, these figures represent the 
+theoretical scale of what is possible and should not be treated as absolute.  
+Many critical factors dictate whether a specific parcel can actually be developed. For instance, this 
+analysis did not evaluate parcel ownership or environmental constraints such as slope gradients and 
+floodplains, nor did it review parcel configuration, infrastructure and utility capacity constraints, or the 
+ability to comply with all local, state, and federal building requirements. It also did not consider whether 
+or how subdivision may occur, or the potential for uses permitted by special review.  
+The conclusion of this analysis is that there is theoretical capacity for approximately 106 new residential 
+units within the town’s residential zone districts. This exceeds the housing production goal set in the 
+Town’s HAP and would address the entire housing need identified in the HNA for the Paonia area, not 
+just the Town. As discussed above, while this analysis likely overstates what can be built given the stated 
+assumptions, it also does not account for redevelopment potential. 
+  
+Page 26 of 40
+PRE-EXISTING HOUSING ACTION PLAN COMPLIANCE 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 24 
+Potential Dwelling Unit Buildout of Vacant Parcels by Zone 
+Zone District Number of Vacant Buildable Parcels Vacant Buildable Acres Potential Buildout (Dwelling Units) 
+R-1 45 23.0 45 
+R-2 & R-2 PUD 21  43.3 38 
+R-3 10 1.7 23 
+Total 76 68.0 106 
+Note: R-2 row excludes four parcels with a land value of zero ($0), all homeowner association land; PUD zoning assumed to be 
+the same as the underlying zone district. 
+SOURCE: TOWN OF PAONIA 2018 ZONING MAP AND MUNICIPAL CODE; WILMORE & COMPANY PROFESSIONAL LAND SURVEYING; URBAN 
+RURAL CONTINUUM 
+The original 2023 HNA and HAP did not conduct the analysis above but did include a review of the 
+Town’s municipal code and interviews with code users to ascertain whether the land-use and regulatory 
+environment may be creating barriers to housing production. 
+The review of the Town’s land use regulations at that time resulted in many consultant-recommended 
+edits to better facilitate the creation of Housing for the Community in Paonia. Some, but not all, key 
+recommendations applicable to the development of the number and types of dwelling units identified in 
+the HNA are again listed below. These recommendations remain relevant considering the SB24-174 
+zoning assessment above.  
+• Update zoning map: Most properties are zoned R-1. Consider changing some to R-2 to allow for 
+gentle density. Properties zoned R-3 are mostly small lots where multifamily housing would be 
+very difficult to develop. This indirectly prohibits multifamily—thus affordable—housing. Once 
+an updated comprehensive plan is adopted, consider rezoning properties to meet the 
+community’s vision. 
+• Allow more residential uses in more residential zones: For example, allow duplexes in R-1, 
+allow multifamily by right in R-2, and allow multifamily 6+ units by right in R-3. Currently, any 
+residential development of more than 6 units is not allowed by right anywhere in Town. Also 
+consider defining additional residential use types, such as cohousing, and allowing them by right 
+in many districts. 
+• Add flexibility: Allow for smaller lot sizes in all districts for all uses. Consider using one front 
+setback requirement per zone, rather than having different setbacks based on the street 
+frontage classification. Consider reducing setbacks for all residential districts. Reduce minimum 
+lot widths. Remove minimum lot coverage. If regulations are not necessary to preserve 
+community character, increased flexibility can improve affordability. Let the building code 
+regulate building spacing and other safety concerns. 
+• Expand by right residential uses in C-1 and C-2: Allow dwellings as part of a business use and 
+multiple family dwellings, especially if part of a mixed-use development. Residential uses on 
+upper floors should be encouraged. 
+As noted in the 2023 HNA and HAP, changes to the municipal code must follow the Town’s established 
+process. This process gives the community the opportunity to decide which housing recommendations 
+align with the comprehensive plan, support community housing development, and help prevent 
+displacement. 
+Page 27 of 40
+APPENDICES 
+B. ZONING AND DENSITY ASSESSMENT 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 25 
+                          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDICES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                    
+Page 28 of 40
+APPENDICES 
+APPENDIX A 
+ 
+ Town of Paonia – HNA & HAP SB24-174 Compliance Addendum 
+ Page 26 
+APPENDIX A 
+The Town Board unanimously approved acceptance of the HNA and HAP following a public hearing on 
+November 14, 2023. The agenda, agenda packet, and meeting minutes from this regular meeting are 
+included for reference. 
+Page 29 of 40
+TOWN OF PAONIA 
+REGULAR TOWN BOARD MEETING AGENDA 
+TUESDAY, NOVEMBER 14, 2023 6:30 PM 
+Public Participation: Must raise hand and be recognized by the Mayor, come to the podium and state your 
+name and the street on which you live. Time limit is 3 minutes, one time per item. Direct all comments to the 
+Mayor. No responses will be made by staff or Board during the meeting. No derogatory or demeaning 
+statements or public displays. Please be respectful. 
+Roll Call 
+Approval of Agenda 
+Announcements 
+Public Comment 
+Any topic not included on the agenda, 3-minute time limit. 
+Consent Agenda 
+1. October 24, 2023 Regular Meeting Minutes
+2. Liquor License Renewal - 2023 -118 Blue Sage Center for the Arts Inc
+Staff Reports 
+Actions & Presentations 
+Public comments must be related to the agenda item, 3-minute time limit. 
+1. Presentation about Safe Routes to Parks Grant - Hannah Stevens with Western Slope Conservation
+Center
+Public Hearing
+Public Hearing to Consider acceptance of the Housing Needs Assessment
+Consideration of Approval of Signing a Memorandum of Understanding between the Bureau of Land
+Management and the Town of Paonia as a Participating Agency for the UFO RMPA/EIS.
+Consideration of Approval to Apply for DOLA Planning Capacity Grant
+Consideration of Approval for Change Orders from K&D Construction
+Consideration of Termination of the Contract with Shumscoda Associates
+Mayor & Trustee Reports 
+Trustee Stelter - Report from One Delta County Annual Meeting 
+Adjournment 
+Page 30 of 40
+AS ADOPTED BY: 
+TOWN OF PAONIA, COLORADO 
+RESOLUTION NO. 2017-10 – Amended May 22, 2018 
+I. RULES OF PROCEDURE
+Section 1.  Schedule of Meetings.  Regular Board of Trustees meetings shall be held on the second and fourth Tuesdays of each 
+month, except on legal holidays, or as re-scheduled or amended and posted on the agenda prior to the scheduled meeting.  
+Section 2.  Officiating Officer.  The meetings of the Board of Trustees shall be conducted by the Mayor or, in the Mayor’s 
+absence, the Mayor Pro-Tem.  The Town Clerk or a designee of the Board shall record the minutes of the meetings.  
+Section 3.  Time of Meetings.  Regular meetings of the Board of Trustees shall begin at 6:30 p.m. or as scheduled and posted on 
+the agenda. Board Members shall be called to order by the Mayor.  The meetings shall open with the presiding officer leading 
+the Board in the Pledge of Allegiance.  The Town Clerk shall th en proceed to call the roll, note the absences and announce 
+whether a quorum is present.  Regular Meetings are scheduled for three hours, and shall be adjourned at 9:30 p.m., unless a 
+majority of the Board votes in the affirmative to extend the meeting, by  a specific amount of time.  
+Section 4. Schedule of Business.  If a quorum is present, the Board of Trustees shall proceed with the business before it, which 
+shall be conducted in the following manner.  Note that all provided times are estimated:  
+(a) Roll Call - (5 minutes)
+(b) Approval of Agenda - (5 minutes)
+(c) Announcements (5 minutes)
+(d) Recognition of Visitors and Guests (10 minutes)
+(e) Consent Agenda including Approval of Prior Meeting Minutes (10 minutes)
+(f) Mayor’s Report (10 minutes)
+(g) Staff Reports: (15 minutes)
+(1) Town Administrator’s Report
+(2) Public Works Reports
+(3) Police Report
+(4) Treasurer Report
+(h) Unfinished Business (45 minutes)
+(i) New Business (45 minutes)
+(j) Disbursements (15 minutes)
+(k) Committee Reports (15 minutes)
+(l) Adjournment
+* This schedule of business is subject to change and amendment.
+Section 5. Priority and Order of Business. Questions relative to the priority of business and order shall be decided by the Mayor 
+without debate, subject in all cases to an appeal to the Board of Trustees.  
+Section 6.  Conduct of Board Members.   Town Board Members shall treat other Board Members and the public in a civil and 
+polite manner and shall comply with the Standards of Conduct for Elected Officials of the Town.  Board Members shall address 
+Town Staff and the Mayor by his/her title, other Board Members by the title of Trustee or the appropriate honorific (i.e.: Mr ., 
+Mrs. or Ms.), and members of the public by the appropriate honorific.  Subject to the Mayor’s discretion, Board Members shall 
+be limited to speaking two times when debating an item on the agenda.  Making a motion, asking a question or making a 
+suggestion are not counted as speaking in a debate.  
+Section 7. Presentations to the Board.  Items on the agenda presented by individuals, businesses or other organizations shall be 
+given up to 5 minutes to make a presentation.  On certain issues, presenters may be given more time, as determined by the 
+Mayor and Town Staff.  After the presentation, Trustees shall be given the opportunity to ask questions.  
+Section 8. Public Comment.  After discussion of an agenda item by the Board of Trustees has concluded, the Mayor shall open 
+the floor for comment from memb ers of the public, who shall be allowed the opportunity to comment or ask questions on the 
+agenda item.  Each member of the public wishing to address the Town Board shall be recognized by the presiding officer before 
+speaking.  Members of the public shall speak from the podium, stating their name, the address of their residence and any group 
+they are representing prior to making comment or asking a question.  Comments shall be directed to the Mayor or presiding 
+officer, not to an individual Trustee or Town employee.  Comments or questions should be confined to the agenda item or issue(s) 
+under discussion.  The speaker should offer factual information and refrain from obscene language and personal attacks.  
+Page 31 of 40
+Section 9.  Unacceptable Behavior. Disruptive behavior shall result in expulsion from the meeting. 
+Section 10.  Posting of Rules of Procedure for Paonia Board of Trustees Meetings. These rules of procedure shall be provided in 
+the Town Hall meeting room for each Board of Trustees meeting so that all atte ndees know how the meeting will be conducted. 
+II. CONSENT AGENDA
+Section 1. Use of Consent Agenda. The Mayor, working with Town Staff, shall place items on the Consent Agenda. By using a 
+Consent Agenda, the Board has consented to the consideration of certain items as a group under one motion. Should a Consent 
+Agenda be used at a meeting, an appropriate amount of discussion time will be allowed to review any item upon request.  
+Section 2. General Guidelines. Items for consent are those which usually do not require discussion or explanation prior to action 
+by the Board, are non-controversial and/or similar in content, or are those items which have already been discussed or explained 
+and do not require further discussion or explanation. Such agenda items may include ministerial tasks such as, but not limite d 
+to, approval of previous meeting minutes, approval of staff reports, addressing routine correspondence, approval of liquor 
+licenses renewals and approval or extension of other Town licenses. Minor changes in the minutes such as non-material Scribner 
+errors may be made without removing the minutes from the Consent Agenda.  Should any Trustee feel there is a material error 
+in the minutes, they should request the minutes be removed from the Consent Agenda for Board discussion.  
+Section 3. Removal of Item from Consent Agenda. O ne or more items may be removed from the Consent Agenda by a timely 
+request of any Trustee. A request is timely if made prior to the vote on the Consent Agenda. The request does not require a 
+second or a vote by the Board. An item removed from the Consent Agenda will then be discussed and acted on separately either 
+immediately following the consideration of the Consent Agenda or placed later on the agenda, at the discretion of the Board.  
+III. EXECUTIVE SESSION
+Section 1.  An executive session may only be called at a regular or special Board meeting where official action may be taken by 
+the Board, not at a work session of the Board.  To convene an executive session, the Board shall announce to the public in th e 
+open meeting the topic to be discussed in th e executive session, including specific citation to the statute authorizing the Board 
+to meet in an executive session and identifying the particular matter to be discussed “in as much detail as possible without 
+compromising the purpose for which the execut ive session is authorized.” In the event the Board plans to discuss more than 
+one of the authorized topics in the executive session, each should be announced, cited and described. Following the 
+announcement of the intent to convene an executive session, a motion must then be made and seconded.  In order to go into 
+executive session, there must be the affirmative vote of two thirds (2/3) of Members of the Board.  
+Section 2.  During executive session, minutes or notes of the deliberations should not be taken. Since meeting minutes are subject 
+to inspection under the Colorado Open Records Act, the keeping of minutes would defeat the private nature of executive 
+session. In addition, the deliberations carried out during executive session should not be discussed o utside of that session or 
+with individuals not participating in the session.  The contexts of an executive session are to remain confidential unless a 
+majority of the Trustees vote to disclose the contents of the executive session.  
+Section 3.  Once the de liberations have taken place in executive session, the Board should reconvene in regular session to take 
+any formal action decided upon during the executive session.   If you have questions regarding the wording of the motion or 
+whether any other informatio n should be disclosed on the record, it is essential for you to consult with the Town Attorney on 
+these matters. 
+IV. SUBJECT TO AMENDMENT
+Section 1. Deviations.  The Board may deviate from the procedures set forth in this Resolution, if, in its sole dis cretion, such 
+deviation is necessary under the circumstances. 
+Section 2.  Amendment.   The Board may amend these Rules of Procedures Policy from time to time.  
+Page 32 of 40
+TOWN OF PAONIA 
+REGULAR TOWN BOARD MEETING AGENDA 
+TUESDAY, NOVEMBER 14, 2023 6:30 PM 
+Public Participation: Must raise hand and be recognized by the Mayor, come to the podium and state your 
+name and the street on which you live. Time limit is 3 minutes, one time per item. Direct all comments to the 
+Mayor. No responses will be made by staff or Board during the meeting. No derogatory or demeaning 
+statements or public displays. Please be respectful. 
+Roll Call 
+Approval of Agenda 
+Announcements 
+Public Comment 
+Any topic not included on the agenda, 3-minute time limit. 
+Consent Agenda 
+1. October 24, 2023 Regular Meeting Minutes
+2. Liquor License Renewal - 2023 -118 Blue Sage Center for the Arts Inc
+Staff Reports 
+Actions & Presentations 
+Public comments must be related to the agenda item, 3-minute time limit. 
+1. Presentation about Safe Routes to Parks Grant - Hannah Stevens with Western Slope Conservation
+Center
+Public Hearing
+Public Hearing to Consider acceptance of the Housing Needs Assessment
+Consideration of Approval of Signing a Memorandum of Understanding between the Bureau of Land
+Management and the Town of Paonia as a Participating Agency for the UFO RMPA/EIS.
+Consideration of Approval to Apply for DOLA Planning Capacity Grant
+Consideration of Approval for Change Orders from K&D Construction
+Consideration of Termination of the Contract with Shumscoda Associates
+Mayor & Trustee Reports 
+Trustee Stelter - Report from One Delta County Annual Meeting 
+Adjournment 
+1
+Page 33 of 40
+TOWN OF PAONIA
+BOARD OF TRUSTEES MEETING
+STAFF REPORT
+'E/dD͗
+^hD/ddz͗
+d͗
+<'ZKhE͗
+h'd͗
+ZKDDEd/KE͗
+dd,DEd͗
+Agenda Item #2 - Public Hearing to Consider Acceptance of
+Housing Needs Assessment
+Stefen Wynn, Town Administrator
+11/12/2023
+The Planning Commission has recommended Approval of the
+Housing Needs Assessment. The first step to address affordable
+housing shortages in Paonia is to complete the Housing Needs
+Assessment. The process began at the end of April, 2023 and
+included numerous stakeholder meetings and public outreach
+sessions. The Paonia Planning Commission held a public hearing
+on the Housing Needs Assessment on November 1, 2023 and
+unanimously recommended acceptance of the HNA to the Paonia
+Board of Trustees. This HNA will become an element within the
+DRAFT of the Paonia Master Plan. This document will assist the
+Board, the Commission and staff in addressing the affordable
+housing crisis in Paonia. The action at this meeting is to accept the
+HNA and action plan and officially recommend that it become an
+element for inclusion within the DRAFT of the Paonia Master Plan.
+Original Contract: $70,150; Contract Amendment to include Add-ons: $78,910.
+Reimbursable Expenses to DOLA: $59,850; Amount requested from DOLA to
+date: $32,348.25; Reimbursable Balance Remaining: $27,501.75
+Staff Recommends Approval of accepting the Housing Needs Assessment
+and requiring its inclusion in the DRAFT of the Paonia Master Plan.
+RECOMMENDED MOTION: I move to approve the acceptance of the
+Housing Needs Assessment and Action Plan and require its inclusion in the
+Draft of the Paonia Master Plan.
+Attachment 1: 2023.11.14 Paonia HNA-HAP_ForBoard
+Attachment 2: 20231012 BoT Public Hearing Notice
+Attachment 3: Proof BoT PH
+17
+Page 34 of 40
+TOWN OF PAONIA, COLORADO 
+NOTICE OF PUBLIC HEARING 
+NOTICE is hereby given that the Town of Paonia  Board of Trustees will hold a Public 
+Hearing at 6:30 pm. on Tuesday, November 14, 2023, at the Paonia Town Hall, 214 Grand Avenue, 
+Paonia, CO  81428.   
+The purpose of the Public H earing will be to consider acceptance of the Housing Needs 
+Assessment final draft from Urban Rural Continuum. 
+Any person may appear at the Public Hearing and be heard regarding the matters under 
+consideration.  For further information concerning the Public Hearing, please contact the Town Clerk 
+at 970-527-4101 during regular business hours. 
+Dated the 12 day of October, 2023. 
+TOWN OF PAONIA, COLORADO 
+Samira M Vetter 
+     Town Clerk 
+188
+Page 35 of 40
+Housing Needs Assessment BoT PH - Page 1 of 1
+FILER
+Samira Vetter 
+samirav@townofpaonia.com 
+(970) 527-4101
+FILING FOR
+Delta County Independent
+Columns Wide: 1 Ad Class: Legals
+INTERIM AD DRAFT
+This is the proof of your ad scheduled to run in  Delta County Independent  on the dates  indicated
+below. If changes are needed, please  contact us prior to deadline at  (970) 249-3444 .
+Notice ID: pQh2qpSGCuRT7uIXzcL4 | Proof Updated: Oct. 12, 2023 at 02:22pm MDT
+Notice Name: Housing Needs Assessment BoT PH
+This is not an invoice. Below is an estimated price, and it is
+subject to change. You will receive an invoice with the final
+price upon invoice creation by the publisher.
+10/25/2023: Custom 17.03
+11/01/2023: Custom 14.87
+11/08/2023: Custom 14.15
+Subtotal $46.05
+Tax $0.00
+Total $46.05
+189
+Page 36 of 40
+Page 37 of 40
+Page 38 of 40
+Page 39 of 40
+Page 40 of 40
