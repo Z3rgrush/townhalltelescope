@@ -156,6 +156,46 @@ def _agendasuite_rows(source, page, final, bodies, start, end, seen):
         yield Doc(source, body, d, f"{body} - {cells[1]}", href, "agenda")
 
 
+def weblink(src, start, end, log):
+    """Meeting pages that link their agenda and minutes in a Laserfiche WebLink repository (Weld County).
+
+    WebLink's viewer is a script, but it reads each page's text from the repository's public document
+    service, so we ask that service for the text the same way."""
+    follow = re.compile(src["follow"])
+    meetings = {}
+    for page_url in src["pages"]:
+        page, final = soup(page_url)
+        for a in page.find_all("a", href=True):
+            href = urljoin(final, a["href"])
+            d = find_date(a.get("title", ""), a.get_text(" ", strip=True), href)
+            if follow.search(href) and _in_window(d, start, end):
+                meetings.setdefault(href, d)
+    log(f"  {len(meetings)} meeting pages in window")
+    seen = set()
+    for murl, d in meetings.items():
+        page, final = soup(murl)
+        for a in page.find_all("a", href=True):
+            m = re.search(r"(https?://[^/]+/WebLink)/DocView\.aspx\?id=(\d+).*?repo=(\w+)", urljoin(final, a["href"]))
+            if not m or m.group(2) in seen:
+                continue
+            seen.add(m.group(2))
+            service, doc_id, repo = m.group(1) + "/DocumentService.aspx", int(m.group(2)), m.group(3)
+            info = session.post(f"{service}/GetBasicDocumentInfo", json={"repoName": repo, "entryId": doc_id}, timeout=60)
+            if not info.ok:
+                continue
+            pages = []
+            for n in range(1, min(info.json()["data"].get("pageCount") or 0, 40) + 1):
+                r = session.post(f"{service}/GetTextHtmlForPage", timeout=60, json={
+                    "repoName": repo, "documentId": doc_id, "pageNum": n, "showAnn": False, "searchUuid": ""})
+                if r.ok:
+                    pages.append(r.json()["data"].get("text") or "")
+            text = re.sub(r"[ \t]+", " ", "\n".join(pages)).strip()
+            if text:
+                title = a.get_text(" ", strip=True) or "Agenda"
+                yield Doc(src["id"], src.get("body", "Board of County Commissioners"), d, f"{d:%B %-d, %Y} - {title}",
+                          f"{m.group(1)}/DocView.aspx?id={doc_id}&dbid=0&repo={repo}", kind_of(title), {"text": text})
+
+
 def civicclerk(src, start, end, log):
     """CivicClerk portals expose a public OData API (Unified Government, Bonner Springs)."""
     api = f"https://{src['tenant']}.api.civicclerk.com/v1"
@@ -518,5 +558,5 @@ def onbase(src, start, end, log):
     log(f"  {n} documents in window from {len(pages)} page(s)")
 
 
-ADAPTERS = {f.__name__: f for f in (civicweb, destiny, agendasuite, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
+ADAPTERS = {f.__name__: f for f in (civicweb, destiny, agendasuite, weblink, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
                                     cablecast, wp_events, granicus, onbase)}

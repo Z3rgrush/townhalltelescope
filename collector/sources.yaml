@@ -1068,3 +1068,16 @@
   adapter: cablecast
   base: https://reflect-vod-eaglecounty.cablecast.tv
   titles: Board of County Commissioners|Planning Commission
+- id: weld-county
+  name: Weld County
+  county: Weld
+  # Each commissioners' meeting page links its agenda in the county's Laserfiche WebLink records.
+  adapter: weblink
+  pages:
+    - https://www.weld.gov/Government/Departments/Commissioners/Commissioner-Public-Meetings
+  follow: Commissioner-Public-Meetings/[A-Z][a-z]+-\d+-\d{4}
+- id: littleton
+  name: Littleton
+  county: Arapahoe
+  adapter: legistar
+  client: littletongov
