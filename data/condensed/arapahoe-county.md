@@ -636,13 +636,16 @@
 - d. Continuation Funding Approval
 - b. Presentations from funded projects: Arapahoe County Sheriff's Office, Rise Above,
 
-## [arapahoe-county#33] 2026-10-12 | Board of County Commissioners Study Session | agenda
+## [arapahoe-county#33] 2026-10-12 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:00 PM The Arapahoe Forward Forum and Process Improvement Recognition Ceremony
 - East Hearing Room
+- strategy and instruct negotiators and receive legal advice regarding the following:
+- 2. Crown Castle case update and settlement discussion;
+- 3. Boom Supersonic follow-up discussion; and
 
-## [arapahoe-county#34] 2026-10-13 | Board of County Commissioners Business Meeting | agenda
+## [arapahoe-county#34] 2026-10-13 | Board of County Commissioners Business Meeting | minutes
 - East Hearing Room
 - The public is welcome to attend Business Meetings held in the East Hearing Room at the
 - Arapahoe County Administration Building, 5334 South Prince Street, Littleton, CO 80120
@@ -650,42 +653,76 @@
 - The Board of County Commissioners typically holds Public Hearings at 9:30 a.m. the second and fourth
 - under regular business are considered individually
 - 4. PUBLIC COMMENT PERIOD
+- The public comment period was opened
+- The public comment period was closed
 - discussion, and may be voted on as an entire group with a single motion. (The motion is “to
 - approve the items on the consent agenda.”) A Commissioner may request an item from the
 - consent agenda be removed for separate discussion. This enables the item to be considered
 - and voted upon separately
-- 6.b. Approval of Abatement Referee Recommendations 26-486
+- Approval of the Consent Agenda
+- 6.b. Approval of Abatement Referee Recommendations
 - Hearing Recommendation
-- 6.c. Approval of a resolution authorizing legal representation and indemnification
-- 6.d. Approval of a resolution authorizing legal representation and indemnification
-- 6.e. Approval of Litigation Settlement Agreement 26-493
-- 6.f. Approval of a resolution authorizing settlement of Deborah Chapman
-- 6.g. Approval of Stipulated Abatement Reduction 26-495
-- 6.h. Resolution to approve Arapahoe County board and committee appointments
-- and reappointments
+- 6.c. Approval of a resolution authorizing legal representation and indemnification in
+- 6.d. Approval of a resolution authorizing legal representation and indemnification in
+- 6.e. Approval of Litigation Settlement Agreement
+- 6.f. Approval of a resolution authorizing settlement of Deborah Chapman litigation
+- 6.g. Approval of Stipulated Abatement Reduction
+- 6.h. Resolution to approve Arapahoe County board and committee appointments and
+- reappointments
 - Arapahoe-Douglas Local Area Plan 2024-2027
-- 6.j. Approval of BAA Stipulations 26-501
-- 6.k. Approval of an Arbitration Stipulation 26-504
-- 6.l. Approval of Stipulated Abatement Reduction 26-505
+- 6.j. Approval of BAA Stipulations
+- 6.k. Approval of an Arbitration Stipulation
+- 6.l. Approval of Stipulated Abatement Reduction
 - Items on the general business agenda will include an opportunity for public comment
-- 7.a. Submission of 2027 Recommended Budget 26-512
+- 7.a. Submission of 2027 Recommended Budget
 - Presentation
 - 2027 Recommended Budget
-- 7.b. VAC26-004 - Sky Ranch Filing 7 Easement Vacation 26-502
-- VAC26-004 Staff Presentation
+- consider this matter
+- A PowerPoint presentation was presented, a copy of which has been retained for the record
+- Staff read the preamble establishing the budget is balanced and conforms with Colorado law
+- 2027 Budget quick facts and figures were listed
+- The 2027 Budget Revenue was presented. A chart was displayed showing Total Actual
+- Revenue Trend and Estimate of Property Tax Revenue - Post 1A were reviewed
+- The 2027 Budget Expenditures was presented. Charts were displayed and reviewed reflecting
+- Staff presented the 2027 budget and how it is structurally balanced. The revenue and
+- commitments to capital improvements have been thoughtfully considered for the future
+- The Budget Package Requests for General Fund was presented. Staff reviewed the 2027
+- requested budget, the 2027 recommended budget, and the variance between the two
 
-## [arapahoe-county#35] 2026-10-13 | Board of County Commissioners Study Session | agenda
+## [arapahoe-county#35] 2026-10-13 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
-- 1:30 PM *Proposition 123 Affordable Housing Commitment 2027-2029 Cycle 26-513
-- Presenter: Lizze Loomis, Division Manager, Community Development and Housing
-- 1:45 PM *Retirement Plan Investment Update 26-503
-- Ben Colussy, Retirement Plan Administrator, Human Resources
+- 1:30 PM *Proposition 123 Affordable Housing Commitment 2027-2029 Cycle
+- The purpose of this study session was county staff requested Board approval to authorize the submission
+- of Arapahoe County’s 2027-2029 Proposition 123 Affordable Housing Commitment to the Colorado
+- A background of the request was presented
+- average annual permits × 15% (median job growth) × 3 years = 231 affordable housing units
+- Commissioner asked for clarification on the permits being for new construction only and what would
+- qualify as affordable housing units
+- 5-0 in favor of request. Commissioner Campbell and Commissioner Warren-Gully appeared virtually
+- 1:45 PM *Retirement Plan Investment Update
 - Presentation
-- 2:30 PM *Aurora South-Metro Small Business Development Center Annual Update 26-180
-- Development Center
-- 3:00 PM * East Colorado Small Business Development Center Annual Update 26-411
-- 3:30 PM *Enterprise Network Firewall Replacement Funding and Fixed Asset Numbers 26-519
+- specifically on the Plan’s investments. CAPTRUST will present a concise overview of current market
+- conditions and the performance of the County’s Defined Benefit (DB) Plan
+- A PowerPoint presentation was presented, a copy of which has been retained for the record
+- An overview of the retirement plan was shared including the investment objectives and asset allocation
+- A pie graph was displayed indicating the target asset allocation for bonds, private equity, public equity,
+- value-add real estate, core real estate, and private debt. The plan’s investments are well diversified to
+- regarding the strategy and approach that is taken during a volatile environment
+- Alternatives were displayed and discussed
+- A graph showing the historical plan investment returns from the 1980’s to present was displayed
+- Commissioner asked regarding private equity and investment strategies. Commissioner inquired on the
+- Presentation concluded without vote. Commissioner Campbell and Commissioner Warren-Gully
+- 2:30 PM *Aurora South-Metro Small Business Development Center Annual Update
+- development partner, Aurora South-Metro Small Business Development Center
+- Staff discussed the impact entrepreneurs have on Arapahoe County
+- The resources provided by the Colorado wide SBDC program were presented. Staff discussed Colorado
+- New and engaging programs were presented and include LivePlan, Small Business Scorecard, and
+- Presentation concluded without a vote. Commissioner Campbell and Commissioner Warren-Gully
+- 3:00 PM * East Colorado Small Business Development Center Annual Update
+- development partner, East Colorado Small Business Development Center
+- Staff discussed the team of experts and their range of knowledge. Kudos received were listed
+- 3:30 PM *Enterprise Network Firewall Replacement Funding and Fixed Asset Numbers
 
 ## [arapahoe-county#36] 2026-10-19 | Board of County Commissioners Study Session | agenda
 - West Hearing Room

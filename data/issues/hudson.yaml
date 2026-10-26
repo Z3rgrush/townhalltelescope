@@ -1,5 +1,5 @@
-- title: Prestige Builder Group settlement for Canterbury Meadows development
-  summary: Council held a public hearing on Resolution 26-118, which would settle litigation and a multi-million dollar claim by approving a 32-lot conservation development on about 94.56 acres at Ravenna Street and Stow Road. Neighbors raised concerns about water runoff, the high water table, and Council overriding the Planning Commission and Land Development Code. The Planning Commission has also asked for separate legal counsel on the agreement.
+- title: Prestige Builder Group settlement over Canterbury Meadows (Ravenna St & Stow Rd)
+  summary: Council held a public hearing on Resolution 26-118, settling litigation and a multi-million-dollar takings claim with Prestige Builder Group for a 32-lot conservation development on about 94.56 acres. Neighbors say it bypasses the Planning Commission and the Land Development Code and worry about water runoff and a high water table. The Planning Commission has discussed the agreement and asked for separate legal counsel.
   where: Ravenna Street and Stow Road
   refs:
   - 7
@@ -13,28 +13,29 @@
   - 22
   - 23
   - 27
-  public_comment: true
   topics:
   - Lawsuits & legal
   - Zoning & development
-  - Environment & climate
-- title: Clinton Crossing downtown site plan
-  summary: The city is refining concept plans for the Clinton Crossing site, which would have single-family homes, townhomes, duplexes, a market hall, community center and possibly a boutique hotel. Council and staff discussed apartments, whether to use a Concept or Planned Development review, a single or multiple developers, parking studies and public finance tools like a TIF. A resident objected to the residential component.
-  where: Clinton Crossing, downtown Hudson
+  - Housing
+  public_comment: true
+- title: Clinton Crossing downtown site plan and financing
+  summary: Council and staff are reviewing three refined site plans for Clinton Crossing, with residents preferring single-family homes, townhomes and duplexes plus a market hall, community center and boutique hotel. Staff are weighing a Planned Development review and public finance tools such as TIF and special districts. A resident objected to the residential component.
+  where: Clinton Street and Morse Road area, downtown
   refs:
   - 2
   - 3
+  - 7
   - 13
   - 23
   - 24
   - 27
-  public_comment: true
   topics:
-  - Downtown & business
   - Zoning & development
+  - Downtown & business
   - Housing
+  public_comment: true
 - title: Low-speed vehicle (golf cart) rules, Ordinance 26-113
-  summary: Council is amending Chapter 478 on low-speed vehicles, with licensing, insurance, speed limits and bans on state routes and some 35 MPH roads. Residents asked Council to allow travel on 35 MPH roads and to focus on required equipment instead. The ordinance has had at least two readings with amendments.
+  summary: Council is amending Chapter 478 on low-speed vehicles, with requirements for licensing, insurance, speed limits and a ban on state routes and 35 mph roads. Residents asked that short crossings be allowed and questioned equipment rules. The ordinance had second reading Aug 18 with amendments pending.
   where: Citywide
   refs:
   - 0
@@ -42,107 +43,101 @@
   - 5
   - 11
   - 22
-  public_comment: true
   topics:
   - Roads & traffic
-  - Government operations
-- title: Townhome development at 86 Owen Brown Street / Clinton Street and Morse Road
-  summary: Fairmont's townhome project, reduced from 22 to 18 units, has been through informal and formal historic board reviews, variances and a Planning Commission site plan review. An appeal of a denial of the design is set before the Board of Zoning and Building Appeals in October.
-  where: 86 Owen Brown Street, corner of Clinton Street and Morse Road
-  refs:
-  - 9
-  - 14
-  - 16
-  - 20
-  - 26
-  topics:
-  - Housing
-  - Historic preservation
-  - Zoning & development
+  - Policing & public safety
+  public_comment: true
 - title: Capital plan, unfunded projects and 2027 budget
-  summary: Council discussed how to spend excess carryover on unfunded projects such as Fiber-to-the-Home broadband, stormwater work and the Barlow Road sidewalk, after income tax losses from the departure of a major employer. Staff presented the 2027-2031 Five-Year Capital Plan, with street, stormwater, sidewalk and trail projects and debt service. The 2026-2030 Walk and Bike Plan ranking of sidewalks was also reviewed.
+  summary: Council reviewed the 2027-2031 five-year capital plan and discussed how to use excess carryover funds on unfunded projects such as Fiber-to-the-Home, stormwater and the Barlow Road sidewalk. Income tax revenue and the loss of a store were part of the discussion. Council also accepted county-determined property tax rates.
   where: Citywide
   refs:
   - 8
+  - 11
   - 13
   - 24
   topics:
   - Budget & taxes
   - Broadband
-  - Roads & traffic
+  - Utilities
 - title: Hudson Innovation Park at 996 Hines Hill Road
-  summary: Staff updated Council on salt barn relocation, excess soil on site, property tax abatement options and improvements to Hines Hill Road. Council asked for documents on what an abatement would involve and the estimated road improvement costs.
+  summary: Staff updated Council on the park, including moving the salt barn, excess soil, property tax abatement options and Hines Hill Road improvements. Council asked for details on abatement and road costs.
   where: 996 Hines Hill Road
   refs:
   - 13
   topics:
   - Economic development
   - Roads & traffic
-  - Budget & taxes
-- title: Downtown Phase II property financing on Owen Brown Street
-  summary: Council is considering notes of $740,000 and $925,000 to refinance and finance purchases of former Windstream properties at 100 and 94 Owen Brown Street, bought for the Downtown Phase II project.
-  where: 94 and 100 Owen Brown Street
-  refs:
-  - 28
-  topics:
-  - Budget & taxes
-  - Downtown & business
-  - Land & property
-- title: Brandywine Creek Watershed Study and stormwater projects
-  summary: Consultants presented the final draft Brandywine Creek Watershed Study with a ranked list of capital projects. Separately, Ellsworth Meadows golf course stormwater and retaining wall projects are heading out to bid.
+- title: Brandywine Creek watershed study and stormwater projects
+  summary: Council heard the final draft Brandywine Creek Watershed Study with a ranked list of capital projects. Stormwater work also includes the Ellsworth Meadows golf course project, bid alongside pond retaining wall work.
   where: Brandywine Creek watershed; Ellsworth Meadows Golf Course
   refs:
   - 3
+  - 8
   - 13
   topics:
   - Water
   - Environment & climate
-  - Recreation & trails
-- title: Horizontal directional drilling rules for utility construction, Ordinance 26-115
-  summary: A proposed ordinance would add requirements for directional drilling, vacuum excavating and utility safety. Council discussed the time and cost effects on the Velocity Broadband fiber schedule, and a motion to pass it on first reading failed.
+  - Utilities
+- title: Utility construction rules and Velocity Broadband rollout
+  summary: Ordinance 26-115 would add construction requirements such as directional drilling and vacuum excavation to protect utilities. Council discussed time and cost effects on the Velocity Broadband schedule; a motion to pass it on one reading failed.
   where: Citywide
   refs:
   - 3
   - 5
   topics:
-  - Utilities
   - Broadband
-  - Government operations
-- title: Maple Grove Park lease termination with Summit Metro Parks and county sewer issues
-  summary: Council is considering ending its lease with Summit Metro Parks for Maple Grove Park through a settlement agreement. Separately, officials followed up with a Stow Road resident affected by a sewer backup from a Summit County sewer line break.
-  where: Maple Grove Park; Stow Road
+  - Utilities
+  - Roads & traffic
+- title: Maple Grove Park lease termination with Summit Metro Parks
+  summary: Council is considering a settlement ending the city's lease with Summit Metro Parks for Maple Grove Park.
+  where: Maple Grove Park
   refs:
   - 19
-  - 22
   - 28
   topics:
   - Parks & open space
-  - Utilities
   - Land & property
-- title: W. Barlow Road railroad crossing exemption
-  summary: Council agreed to ask the Public Utilities Commission of Ohio for an exemption for the W. Barlow Road railroad tracks, and a resolution authorizing the application is on the October 20 agenda.
-  where: W. Barlow Road railroad tracks
-  refs:
-  - 19
-  - 28
-  topics:
-  - Roads & traffic
-  - Transit
-- title: Traffic signal at SR 303 and N. Hayden Parkway
-  summary: An emergency ordinance would permit installation of a traffic control device at the intersection of E. Streetsboro Street (SR 303) and N. Hayden Parkway. Staff also discussed truck restrictions and turn radius improvements at SR 91 and SR 303.
-  where: E. Streetsboro Street (SR 303) and N. Hayden Parkway
+- title: West Barlow Road railroad crossing exemption and traffic measures
+  summary: Council agreed to ask the Public Utilities Commission of Ohio to exempt the W. Barlow Road tracks. Staff also discussed truck restrictions and a turn radius fix at SR 91 and SR 303, and a signal ordinance at SR 303 and N. Hayden Parkway.
+  where: W. Barlow Road; SR 303 and N. Hayden Parkway
   refs:
   - 19
   - 24
   - 28
   topics:
   - Roads & traffic
-- title: Fire and EMS full-time staffing and station renovations
-  summary: Fire and EMS moved to 24/7 staffing in late August, with fire station renovations starting before the end of August and EMS renovations in September.
+  - Transit
+- title: Downtown Windstream property financing on Owen Brown Street
+  summary: Council is considering notes of $740,000 and $925,000 to refinance and finance former Windstream properties bought for Downtown Phase II.
+  where: 94 and 100 Owen Brown Street
+  refs:
+  - 28
+  topics:
+  - Budget & taxes
+  - Land & property
+  - Downtown & business
+- title: 'Historic district reviews: 88 N Main door, Owen Brown townhomes, Standard Shop'
+  summary: Boards are handling a door installed without a permit at 88 N Main, with a dispute over an executive session. A townhome project at Clinton and Morse is under appeal after denial, and the Standard Shop Company approval expires October 2026.
+  where: 88 N Main Street; 86 Owen Brown Street; Terex Road
+  refs:
+  - 6
+  - 9
+  - 14
+  - 16
+  - 20
+  - 23
+  - 25
+  - 26
+  topics:
+  - Historic preservation
+  - Zoning & development
+- title: Fire/EMS staffing and emergency communications
+  summary: Fire and EMS went to 24/7 staffing, with renovations under way. Staff presented the crisis communication plan and discussed relocating the fireworks display.
   where: Citywide
   refs:
+  - 0
   - 3
   - 5
   topics:
   - Fire & emergencies
-  - Government operations
+  - Policing & public safety

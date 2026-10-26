@@ -1,0 +1,466 @@
+# fruita
+
+## [fruita#0] 2026-07-28 | 2026 City Council Meetings | minutes
+- City Clerk Deb Woods, Chief of Police Dave Krouse, Communications and Engagement Manager
+- 1. UPDATE FROM FRUITA POLICE DEPARTMENT (6:30 – 7:40 P.M.)
+- Police Chief Dave Krouse presented a handout of the Fruita Police Department’s Organizational Chart
+- Junction Regional Communications Center and the 2026 -2030 Fruita Police Department Strategic
+- Mayor Breman asked Chief Krouse if he could determine when the Police Department might need to
+- will be held during the 2027 Budget discussions due to the Public Safety sales tax increase that will go
+- Krouse stated that the i nformation included in the Fruita Police Department Strategic Plan has been
+- taken from feedback from department staff members, the latest Community Survey and City Council
+- Areas that the Fruita Police Department wants to focus on over the next five years include keeping up
+- There was some brief discussion about residents’ perception of speeding vehicles on 18 Road near the
+- that the Fruita Police Department has no other crash data for that road except the one car that drove
+- Subdivision that there’s no data to support the need for traffic calming measures on 18 Road and in
+- governmental influence that’s going to affect human behavior and that there are no roads anywhere on
+- 2. DISCUSSION OF THE CITY OF FRUITA AMENITY -BASED METROPOLITAN
+- to confirm that the development makes sense. He further explained that the Policy Statement guides
+- Kelley explained that the Model Service Plan sets forth the application process such as concept and
+- out that City Council cannot deny an application if their decision could be considered arbitrary and
+- Kelley stated that Metro Districts are their own governmental entity; requests are quasi-legislative and
+- operate as another government within the City of Fruita. They allow a developer to apply for tax exempt
+- bonds and approval of the development comes later
+- Service Plan and Metro District Policy do not align, flow or correlate with each other. Council directed
+- Mayor Breman requested that the words “commercial, industrial (not residential)” be added to Section
+- There was also some discussion concerning administrative approval in the Metro District process, so
+- Plan for a requirement that the City Council needs to approve Metro District applications and the
+- development plans that follow
+- lot of different proposals and feedback. He said once adopted, it would be in the best interest of the
+- City to post Fruita’s Model Service Plan and Metro District Policy on its website to encourage
+- There was discussion concerning whether the next step should be putting Metro Districts on a Regular
+
+## [fruita#1] 2026-08-03 | Parks and Recreation Commission | agenda
+- PARKS AND RECREATION REGULAR MEETING August 3, 2026 P a g e | 1
+- PARKS AND RECREATION
+- 2. AGENDA - ADOPT/AMEND
+- A. Approve July 2026 minutes
+- 3. PUBLIC COMMENTS AND PARTICIPATION
+- This section is set aside for the Parks and Recreation Commission to LISTEN to comments by the
+- public regarding items that do not otherwise appear on this agenda. Generally, the Parks and
+- Recreation Advisory Board will not discuss the issue and will not take an official action under this
+- 5. PARKS AND RECREATION REPORT
+- Community feedback from Farmers Market
+- Meet and Greet new Parks & Recreation Director
+- 6. PRESENTATION ON E-BIKES
+- Classification, rules for use on trails and in parks (Officer Ed Pacheco)
+
+## [fruita#2] 2026-08-03 | Historic Preservation Board | agenda
+- 2. Approve the Agenda for the August 3, 2026, meeting
+- 3. Approve the Minutes from the July 6, 2026, meeting
+
+## [fruita#3] 2026-08-04 | 2026 City Council Meetings | minutes
+- 3. AGENDA - ADOPT/AMEND
+- City Clerk Deb Woods noted that there was an amendment to the agenda to add a Presentation from the
+- “Proclamations and Presentations.”
+- Mayor Breman noted that he wanted to pull Item D. from the Consent Agenda (First Reading of Ordinance
+- 2026-14 – Amending certain Sections of Title 17 of the Fruita Municipal Code regarding Natural
+- COUNCILOR PURSER MOVED TO APPROVE THE AGENDA AS AMENDED
+- 4. PROCLAMATIONS AND PRESENTATIONS
+- A. PRESENTATION – FRUITA LIVABILITY COMMISSION BIKE SAFETY FESTIVAL
+- had already been appropriated by City Council in the 2026 Budget under Boards and Commissions
+- B. PRESENTATION – SHENNA HAYDEN, MUSEUMS OF WESTERN COLORADO
+- The MWC will embark on a multi-phased thirteen-year Revitalization Plan and is looking to expand their
+- about the project over the years ahead
+- Mayor Breman asked if the MWC has outlined a capital campaign on the project yet. Hayden responded
+- Mayor Breman asked when construction might start if everything else for the project goes according to
+- plan and Hayden estimated that it would likely start very late in 2028 or early 2029
+- and the development that is going to be proposed and the lack of transparency in our workshop
+- development plan for at least 40 homes. We all agree that housing is needed. But my primary
+- concern is the water that's going to be going to this property. This property will draw from the
+- Before we move forward, residents deserve clear answers. Where will the irrigation water come
+- get less? Or are we expecting current shareholders to absorb the impact of this new development?
+- Or alternatively, if the plan is to irrigate landscaping with municipal drinking water, that deserves
+- public discussion as well
+- The Encanto system already lost water for over 24 hours at the end of June, and there's already
+- before approvals are granted, not after construction begins
+- accountable. During a recent workshop meeting, the Chief of Police made broad generalizations
+- accurate record for elected officials and staff alike and the public. So, my requests are twofold :
+- Provide a clear, long-term irrigation plan for the new development, addressing how Encanto strain
+- might be mitigated. Or what the plan is to make it better. Implement a policy to record workshop
+- Water is one of Fruita's most precious resources, and transparency is the foundation of good
+- A. MINUTES – A REQUEST TO APPROVE THE MINUTES OF THE JULY 21, 2026
+- B. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
+- APPOINTMENT OF ASYLAN VALKO TO THE ARTS AND CULTURE BOARD TO
+- C. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
+
+## [fruita#4] 2026-08-05 | Arts and Culture Board | agenda
+- 2) Public Comment
+
+## [fruita#5] 2026-08-11 | Planning Commission | agenda
+- The following item(s) will be presented at this public hearing of the Fruita Planning Commission for their
+- consideration. Depending on the application type, the Planning Commission will formulate a recommendation
+- information may call (970) 858-0786. The hearing impaired may call Relay Colorado at 1-800-659-2656 or
+- Land use public hearings are similar to a court proceeding. Proper procedures will ensure a fair hearing for all
+- hearing for everyone, the following rules will be followed:
+- 1. There will generally be a 15-minute presentation (maximum) by the applicant
+- The purpose of a land use hearing is to have the facts of a case presented in a manner that will assist the
+- decision-makers in making a fair, legal, and complete decision. The hearing is a fact-finding forum by unbiased
+- inappropriate behavior, detract from the hearing and will not be permitted
+- C. AMENDENTS TO THE AGENDA
+- D. APPROVAL OF THE AGENDA
+- APPROVAL OF MINUTES:
+- H. PUBLIC HEARING ITEMS
+- 1. Application # 2026-07
+- Application Name 1925 J Road Serial Annexation
+- Application Type Annexation
+- Location 1925 J Road
+- County zoning)
+- Description This is a request to annex approximately 36.14 acres into the
+- 2. Application # 2026-09
+- Application Name 1925 J Road Rezone
+- Application Type Rezone
+- Requested Zone Community Residential (CR)
+- Description This is a request to rezone approximately 36.14 acres from
+- 3. Application # 2026-13
+- Application Name Raptor Crossing Major PUD Amendment
+- Application Type Major PUD Amendment
+- Description This is a request to amend the Raptor Crossing PUD Guide
+- Community Development Updates
+- 1. THE HEARING IS OPENED BY THE CHAIR OF THE PLANNING COMMISSION
+- 3. THE PETITIONER SUMMARIZES THE PROJECT
+- The petitioner or his/her representative is asked to present the proposal. Presentations should be brief
+- and to the point but covering all of the main aspects of the project
+- 4. PUBLIC COMMENTS
+- 6. THE HEARING IS CLOSED TO PUBLIC COMMENTS AND THE ITEM IS DISCUSSED
+- The Chair closes the public hearing to public comments. No further comments from the public are
+- for a discussion on the motion. The motion may be amended and if it is amended, the Commission votes
+- on whether to accept the amendment. After discussion and consideration of any amendments, the
+- made and voted on using the same procedure. In addition to recommending an item be approved,
+- approved with conditions or denied, the Commission may also table an item or continue an item to a
+- The Planning Commission’s decision is forwarded to the Fruita City Council. Once a project is
+- approved by the City Council it must be revised to reflect all the conditions placed on it by the City
+
+## [fruita#6] 2026-08-11 | Planning Commission | agenda
+- FROM:Planning & Development Department
+- AGENDA TEXT:Planning Commission Water Supply and Strategic Growth Community Engagement Discussion
+- The State of Colorado has mandated that by December 31, 2026, municipalities with a Comprehensive Plan must adopt a Water Supply Element and Strategic Growth Element as part of that plan. The purpose of this cover sheet is to get feedback and discuss with the Planning Commission a community engageme
+
+## [fruita#7] 2026-08-12 | Arts and Culture Board | minutes
+- 2. Public Comment
+- a. There was no public comment
+- locations and a new pedestal on South Mesa Street; the pedestal in the Dinosaur
+- Journey parking lot next to the Bark Park; and in front of the FARM (concrete
+- community identity; durability; safety; public accessibility; and accurate
+- representation
+- h. In response to member questions, Ms. Amann clarified that accurate
+- representation should reflect whether the artist provided clear and sufficient
+- i. Ms. Amann read each artist's description from their application while members
+- Voyager is built on, and climbing and safety considerations for pieces accessible
+- to children. Questions the applications did not answer will be followed up with
+- Members also discussed that the community identity and site fit categories are
+- the selected sculptures in person, confirm accurate representation, and
+- notified of the selections. The board will decide whether to announce selections
+
+## [fruita#8] 2026-08-18 | 2026 City Council Meetings | minutes
+- 3. AGENDA - ADOPT/AMEND
+- COUNCILOR PARRISH MOVED TO APPROVE THE AGENDA AS
+- 4. PROCLAMATIONS AND PRESENTATIONS
+- There were no Proclamations or Presentations on the agenda
+- Hearing no comments from the public, Mayor Breman closed public participation and referred the Consent
+- A. MINUTES – A REQUEST TO APPROVE THE MINUTES OF THE JULY 28, 2026 CITY
+- B. MINUTES – A REQUEST TO APPROVE THE MINUTES OF THE AUGUST 4, 2026
+- C. LIQUOR LICENSE RENEWAL – A REQUEST TO APPROVE THE RENEWAL OF A
+- RETAIL WAREHOUSE STORAGE PERMIT AND TASTINGS PERMIT FOR MID
+- D. RESOLUTION 2026-25 – APPROVING A LEASE FOR THE OLD FRUITA MUSEUM
+- LEASE AGREEMENT
+- E. FINANCIAL REPORTS - A REQUEST TO APPROVE THE JUNE 2026 FINANCIAL
+- F. ORDINANCE 2026-15 – FIRST READING – AN INTRODUCTION OF AN ORDINANCE
+- AMENDING SECTION 2.10.030 OF THE FRUITA MUNICIPAL CODE REGARDING
+- FOR PUBLICATION OF PUBLIC HEARING ON SEPTEMBER 15, 2026
+- G. ORDINANCE 2026-16 – FIRST READING – AN INTRODUCTION OF AN ORDINANCE
+- AMENDING SECTION 2.28.100 OF THE FRUITA MUNICIPAL CODE REGARDING
+- MUNICIPAL JUDGES' POWERS FOR PUBLICATION OF PUBLIC HEARING ON
+- H. ORDINANCE 2026-17 - FIRST READING - AN INTRODUCTION OF AN ORDINANCE
+- GRANTING A MAJOR AMENDMENT TO THE RAPTOR CROSSING PLANNED
+- UNIT DEVELOPMENT (PUD) GUIDE TO ALLOW CERTAIN RESIDENTIAL AND
+- USES FOR PUBLICATION OF PUBLIC HEARING ON SEPTEMBER 15, 2026
+- (RAPTOR CROSSING MAJOR PUD AMENDMENT)
+- COUNCILOR PROCHNOW MOVED TO APPROVE THE CONSENT AGENDA
+- 6. PUBLIC HEARINGS AND ACTION ITEMS
+- Public hearings are held to obtain input from the public on various items. Public hearings are either
+- LEGISLATIVE – Legislative public hearings are held when the City Council is considering an item
+- that establishes legislation such as an ordinance amending or establishing laws of the city
+- QUASI-JUDICIAL – Quasi-judicial public hearings are held when the City Council is acting in a
+- decision made on the basis of information presented and laws in effect. Quasi -judicial hearings are
+- commonly held for land use hearings and liquor license hearings. The City Council must limit its
+- consideration to matters which are placed into evidence and are part of the public recor d. Quasi
+- judicial hearings are held in the following manner:
+- 1. Staff presentation - Staff will present the comments and reports received from review agencies and offer a recommendation
+- 2. Applicant Presentation - The petitioner is asked to present the proposal. Presentations should be
+- brief and to the point and cover all of the main points of the project
+- 3. Public Comment - (limit of 3 minutes per person) Speakers must step up to the microphone and state their name and address. Speakers
+
+## [fruita#9] 2026-08-20 | Livability Commission | agenda
+- II. Public Comment
+- III. Review and Approve Minutes
+- a. Discussion of Bike Safety Event
+
+## [fruita#10] 2026-08-25 | 2026 City Council Meetings | minutes
+- 1. BEE CITY PRESENTATION (6:30 – 7:00 P.M.)
+- species, including improved water conservation, soil and air quality, crop yields and reduced lawn
+- County’s first Bee City. The Parks Department could serve as the committee and is already meeting
+- Becoming a Bee City would require a $200 annual fee and City Council adoption of a resolution
+- Management Analyst Kaydee Lucero suggested that the Livability Commission or Parks and
+- Recreation Commission take responsibility for the Bee City USA application and $200 fee and offered
+- 2. WATER SUPPLY AND STRATEGIC GROWTH COMMUNITY ENGAGEMENT
+- STRATEGY (7:00 – 8:18 P.M.)
+- City Planner Joey Morris presented the agenda item with the purpose of collecting feedback from City
+- Strategic Growth and potential draft Water Survey
+- Morris explained that there is a state mandate that municipalities adopt a Water Supply Element and
+- Strategic Growth Element as part of their Master (Comprehensive) Plan to estimate current and
+- projected future water supplies and develop a Water Conservation Policy through a land use analysis
+- feels that because it affects Fruita’s Comprehensive Plan – Fruita in Motion – it is important to engage
+- Planning Commission which were illustrated on a handout that he provided to Council members
+- Morris asked the City Council for feedback from the Council . Mayor Breman asked for clarification
+- in the Strategic Growth and Water Draft Survey Plan and referred to Question #1 under “Strategic
+- municipalities to come up with policies to discourage sprawl and identify “Job Centers” that could be
+- appropriate for infill development. The four Job Centers that Morris identified are as follows:
+- In the Kokopelli Business Park
+- Councilor Prochnow reiterated his question concerning whether staff has some sort of guided
+- an exhibit that illustrates GIS coordinates
+- Mayor Breman asked whether the State of Colorado is providing any funding for the Water Supply and
+- Strategic Growth Element . Morris explained that on August 4, 2026 the City Council approve d a
+- Resolution on the Consent Agenda allowing the City to seek a grant and staff hopes to hire a consultant
+- to assist with the preparation and review of the Water Supply and Strategic Growth Comprehensive
+- Plan Elements. Mayor Breman pointed out that it is still an unfunded mandate from the state
+- Morris stated that as long as the City submits a draft of a Water Supply Element and Strategic Growth
+- Element by December 31, 2026, the state will consider the City of Fruita “Compliance in Progress”
+- The Council discussed the questions in the survey and what implementation will look like after the
+
+## [fruita#11] 2026-08-27 | Fruita Tourism Advisory Council | minutes
+- 2. Public Comment
+- Ms. Shepardson opened the meeting for public comment. After seeing none, this agenda item
+- 3. Approval of Minutes
+- Staff will send them to the Council with the Barnhart presentation, and they will be presented for
+- approval at the next regular meeting
+- Boulder on Fruita as a family-friendly Colorado destination, which will incorporate
+- b. All paid media was paused for 10 days in July due to the wildfire and has since
+- to appear among the top markets for reasons not yet identified. Google Search
+- users earlier in trip planning, so it receives approximately 70% of the budget. General
+- d. On Meta July ads included mountain biking, water, Dino Dig, the town video, and the
+- impressions resulted in fewer impressions, but click-through rates held. The mountain
+- video achieved a click-through rate above 4% at a higher cost. The rodeo ad was removed
+- with these ads unless the Council requests otherwise
+- Adventures, and Fall Adventures. Leftover budget from creative shifts was used for
+- website improvements, including meta descriptions, content structure, and broken link
+- and organic social content. A new static ad using one of his images is pending approval
+- from Ms. Amann and Mr. Pierce and, if approved, will begin running in September
+- with an overall delivery rate of 98.4%; since resends began in June, the initial send
+- reached 8.1% and the resend an additional 2.2%, and click-through rates have been
+- 2. Upcoming priorities include approval of the new static ad, confirmation of fall ads, and
+- j. Ms. Shepardson asked that the presentation be shared with the Council, Ms. Frederking
+- interested in covering the co-op tower project and will share the upcoming celebration
+- with Barnhart's earned media team. Ms. Shepardson suggested the project would also be
+- September 25 in Mulberry Plaza. Mr. Pierce added that the City purchased a refurbished
+- b. The new artwork on the Aspen Street restroom has been installed. It is printed on a
+- c. Staff applied for a tourism marketing grant for next year to fund an earned media
+- e. Staff will begin scheduling presentations from mini-grant recipients at upcoming
+
+## [fruita#12] 2026-09-01 | 2026 City Council Meetings | minutes
+- Special Projects Coordinator Steve Martinez
+- Planning and Development Director Henry Hemphill
+- 3. AGENDA - ADOPT/AMEND
+- COUNCILOR PURSER MOVED TO APPROVE THE AGENDA AS
+- 4. PROCLAMATIONS AND PRESENTATIONS
+- A. PRESENTATION – ANNUAL UPDATE FROM THE ARTS AND CULTURE BOARD
+- Bechtel said Coco Vino proceeds fund arts and culture grants in partnership with local businesses, students
+- and teachers to support projects, lessons and supplies for Fruita youth. The Board awarded Fruita
+- Bechtel said the Arts and Culture Board’s Calls for Artists support projects including Co-Op silo banners,
+- nearby business owners and public comments. On August 17, 2026, board members visited each artist’s
+- Hearing no comments from the public, Mayor Breman closed public participation and referred the Consent
+- A. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
+- APPOINTMENT OF JESSICA RUF FULE TO THE PLANNING COMMISSION AS A
+- B. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
+- APPOINTMENT OF KATIE LAMOUREUX TO THE PLANNING COMMISSION AS A
+- C. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
+- APPOINTMENT OF AMANDA QUIGLEY TO THE PLANNING COMMISSION AS A
+- COUNCILOR MILLER MOVED TO APPROVE THE CONSENT AGENDA AS
+- Mayor Breman thanked Planning and Development Director Henry Hemphill for working with the City
+- appointments
+- 6. ACKNOWLEDGEMENT OF RECENTLY APPOINT BOARDS AND COMMISSIONS
+- appointments to the Planning Commission and thanked them for stepping up and being willing to serve
+- 7. PUBLIC HEARINGS AND ACTION ITEMS
+- Public hearings are held to obtain input from the public on various items. Public hearings are either
+- LEGISLATIVE – Legislative public hearings are held when the City Council is considering an item
+- that establishes legislation such as an ordinance amending or establishing laws of the city
+- QUASI-JUDICIAL – Quasi-judicial public hearings are held when the City Council is acting in a
+- decision made on the basis of information presented and laws in effect. Quasi-judicial hearings are
+- commonly held for land use hearings and liquor license hearings. The City Council must limit its
+- consideration to matters which are placed into evidence and are part of the public record. Quasi
+- judicial hearings are held in the following manner:
+- 1. Staff presentation - Staff will present the comments and reports received from review agencies and offer a recommendation
+- 2. Applicant Presentation - The petitioner is asked to present the proposal. Presentations should be
+- brief and to the point and cover all of the main points of the project
+
+## [fruita#13] 2026-09-15 | 2026 City Council Meetings | minutes
+- Planning and Development Director Henry Hemphill
+- 3. AGENDA - ADOPT/AMEND
+- accepted by Denise Rodriguez, Project Coordinator in the Mesa County Behavioral Health Division
+- COUNCILOR MILLER MOVED TO APPROVE THE AGENDA AS AMENDED
+- 4. PROCLAMATIONS AND PRESENTATIONS
+- RODRIGUEZ, BEHAVIORAL HEALTH DIVISION PROJECT COORDINATOR AT
+- The Proclamation was read by Councilor Purser and accepted by Denise Rodriguez, Project Coordinator
+- Jeffrey Louden, resident of Fruita, stated that the National Park Service has a person dedicated to suicide
+- attended a Council meeting several years ago and it didn’t feel like Council’s listening was enough. He
+- Councilor Purser and Louden discussed Town Halls hosted by the Fruita City Council and Louden
+- requested that they be held on a regular basis to provide some way for the public to have more and adequate
+- access to two-way conversations instead of having Council only listen to public comment
+- Hearing no further comments from the public, Mayor Breman closed public participation and before
+- said he understands how certain things got skewed last year because of the hailstorm, but now there is a
+- A. MINUTES – A REQUEST TO APPROVE THE MINUTES OF THE AUGUST 18, 2026
+- B. MINUTES – A REQUEST TO APPROVE THE MINUTES OF THE AUGUST 25, 2026
+- C. BOARDS AND COMMISSIONS REAPPOINTMENT – A REQUEST TO APPROVE
+- THE REAPPOINTMENT OF BRADLEY REIST TO THE POLICE COMMISSION FOR
+- D. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
+- APPOINTMENT OF JOSHUA FRITZ TO THE PARKS AND RECREATION
+- E. FINANCIAL REPORTS – A REQUEST TO APPROVE THE JULY 2026 FINANCIAL
+- F. RESOLUTION 2026 -27 – ADOPTING THE MESA COUNTY 2026 MULTI
+- JURISDICTIONAL HAZARD MITIGATION PLAN
+- COUNCILOR PURSER MOVED TO APPROVE THE CONSENT AGENDA AS
+- 6. ACKNOWLEDGEMENT OF RECENTLY APPOINT BOARDS AND COMMISSIONS
+- 7. PUBLIC HEARINGS AND ACTION ITEMS
+- Public hearings are held to obtain input from the public on various items. Public hearings are either
+- LEGISLATIVE – Legislative public hearings are held when the City Council is considering an item
+- that establishes legislation such as an ordinance amending or establishing laws of the city
+- QUASI-JUDICIAL – Quasi-judicial public hearings are held when the City Council is acting in a
+- decision made on the basis of information presented and laws in effect. Quasi-judicial hearings are
+- commonly held for land use hearings and liquor license hearings. The City Council must limit its
+- consideration to matters which are placed into evidence and are part of the public record. Quasi
+- judicial hearings are held in the following manner:
+
+## [fruita#14] 2026-09-22 | 2026 City Council Meetings | minutes
+- A. EXECUTIVE SESSION – DISCUSSION AND POSSIBLE ACTION TO CONSIDER A
+- After the final interview, Council and Mayor proceeded to discuss which candidate would be the best
+- appointee to the position of Municipal Court Judge. Each Council member provided input on who they
+- The recommendation at the end of the discussion was for the City Manager to negotiate a contract for
+
+## [fruita#15] 2026-09-29 | 2026 City Council Meetings | minutes
+- Yamashita, Public Works Director, Special Projects Coordinator Steve Martinez and Special Counsel
+- 1. PRESENTATION – ACCESS CONTROL PLAN (ACP) AMENDMENT FOR THE
+- FUTURE CDOT WIDENING PROJECT BY MATT CASEY, DESIGN ENGINEER
+- responsibilities. The US 6 West/SH 139 Access Control Plan (ACP) project begins at the western end
+- of 18 Road (South Pine Street) and goes along Highway 6 all the way to 22 Road. The project will
+- warrants an ACP Amendment for accesses into private property/businesses along Highway 6
+- Other slides in CDOT’s PowerPoint presentation included information about the following:
+- Project Intersection Concept: Right-In, Right-Out (RIRO) movement with dedicated U-turns
+- Specific revisions to the ACP (last amended June 2010)
+- ✓ Strategically locate accesses
+- ACP Strategies
+- ✓ Accesses of corner properties from side streets
+- ✓ Local roads parallel to I-70
+- Illustrations of amendments for alternate accesses by type and property location
+- ✓ September 2026: Presentations to local agencies
+- ✓ January 2027: Updated Intergovernmental Agreement
+- 2. PRESENTATION AND OVERVIEW OF 2027 CITY MANAGER’S RECOMMENDED
+- BUDGET (7:25 – 8:40 P.M.)
+- City Manager Shannon Vassen reviewed the schedule for upcoming Budget presentations at Regular
+- their work in creating the Draft 2027 Budget
+- No big surprises in the 2027 Annual Budget
+- All budget items are included in all of the City’s Master Plans
+- Capital Projects in 2027 are fewer and smaller than last year and include:
+- Biggest project = $2 million for construction of J Road from Wildcat Avenue to Skiff
+- Road to connect Highway 6 & 50 to J Road (Fremont Street) (staff is trying to secure
+- grant funding to help fund this project) (Almost all Capital dollars going to this project
+- Pedestrian improvements/Sidewalk Replacement Program: $100,000
+- Security improvements such as security cameras
+- $50,000 for LSW Park irrigation system updates and the purchase of water rights
+- $50,000 Idea Factory projects – poles and lights in alley
+- $45,000 in electrical upgrades at Civic Center Memorial Park
+- Capital Equipment in the 2027 Budget includes:
+- $350,000 for Camera Van replacements in the Sewer Fund
+- $320,000 for four Police Trucks (completely outfitted)
+- $50,000 to purchase variable message boards (signs)
+- $31,500 for Parks ATV vehicle replacement in Public Works
+- Parks and are PD fully staffed except for one seasonal position in Parks
+- to get its employees to market rate and while most have been updated to market rate, a few positions
+- remain that will require increases such those for Wastewater Reclamation Facility (WWRF) Operators
+
+## [fruita#16] 2026-09-30 | Arts and Culture Board | agenda
+- 2) Public Comment
+- 3) Approval of Minutes
+- 5) Grant Application Review - Fruita Historic Preservation Board
+
+## [fruita#17] 2026-10-01 | Fruita Tourism Advisory Council | agenda
+- 2) Public Comment
+- 3) Approval of Minutes
+- 4) Presentation from Girls On
+
+## [fruita#18] 2026-10-05 | Parks and Recreation Commission | minutes
+- Fruita Parks and Recreation Commission Meeting
+- Steven Sparks
+- Steve Moralez (Parks Liaison)
+- Hannah Bihr (Parks Liaison)
+- Approval Of July Minutes:
+- Corrections: Spelling to Steve Moralez, Under First and Fourth Bullet: Steve Sparks should be Steve Moralez
+- Public Comment:
+- No comments or discussion at this time
+- Parks and Recreation Department Update: Steve Moralez, Hannah Bihr and Michael Hughes
+- Note on Prospector Park in Comstock Subdivision: Plumbing is being repaired and identified, workers are
+- Snooks Bottom: Trees were being watered every 3 days, have since moved to every week now that they’re
+- Community Feedback: Farmers Market
+- Community Center: Several community members requested more lap-lanes or extended hours
+- Status of Grass in Fruita Parks: Civic Center Park grass is wearing thin due to high use. Discussion to potentially
+- ask the Chamber to move Farmer’s Market to Reed Park or alternate between Civic Center and Reed Park
+- Discussion about potentially closing down part of Aspen to keep the Farmer’s Market closer to the businesses
+- down-town. Salt Wash Soccer Field is turning in to dirt/dust per community member feedback. Fruita will
+- attempt to get water back to those fields but that has been an effort to reduce water use during drought
+- o On Road: All required to have a license, registration, and are not allowed on pedestrian areas
+- o Off Road: Not allowed on roads or pedestrian areas. Designed to be off-road use only
+- The Police Department is trying to help with education to parents and children on classifications and appropriate
+- E-Scooters: Little regulation on same. Ideal to use the bike lane on the road rather than the sidewalk if they’re
+- Action Items/Topics for Future PARC Meetings To Consider:
+- LAUNCH Project: Possible future concerns with homeless camps in area
+
+## [fruita#19] 2026-10-13 | Planning Commission | agenda
+- The following item (s) will be presented at this public hearing of the Fruita Planning Commission for their
+- consideration. Depending on the application type, the Planning Commission will formulate a recommendation
+- information may call (970) 858- 0786. The hearing impaired may call Relay Colorado at 1- 800-659-2656 or
+- Land use public hearings are similar to a court proceeding. Proper procedures will ensure a fair hearing for
+- hearing for everyone, the following rules will be followed:
+- 1. There will generally be a 15-minute presentation (maximum) by the applicant
+- The purpose of a land use hearing is to have the facts of a case presented in a manner that will assist the
+- decision-makers in making a fair, legal, and complete decision. The hearing is a fact-finding forum by unbiased
+- inappropriate behavior, detract from the hearing and will not be permitted
+- C. AMENDENTS TO THE AGENDA
+- D. APPROVAL OF THE AGENDA
+- APPROVAL OF MINUTES:
+- H. PUBLIC HEARING ITEMS
+- 1. Application # 2026-18
+- Application Name Fruita Co-op Annexation
+- Application Type Annexation
+- (AFT – County zoning)
+- Description This is a request to annex approximately 40.16 acres into the
+- 2. Application # 2026-19
+- Application Name Fruita Co-op Rezone
+- Application Type Rezone
+- Requested Zone Industrial (I)
+- Description This is a request to rezone approximately 40.16 acres from
+- Community Development Updates
+- 1. THE HEARING IS OPENED BY THE CHAIR OF THE PLANNING COMMISSION
+- 3. THE PETITIONER SUMMARIZES THE PROJECT
+- The petitioner or his/her representative is asked to present the proposal. Presentations should be brief
+- and to the point but covering all of the main aspects of the project
+- 4. PUBLIC COMMENTS
+- 6. THE HEARING IS CLOSED TO PUBLIC COMMENTS AND THE ITEM IS DISCUSSED
+- The Chair closes the public hearing to public comments. No further comments from the public are
+- for a discussion on the motion. The motion may be amended and if it is amended, the Commission votes
+- on whether to accept the amendment. After discussion and consideration of any amendments, the
+- made and voted on using the same procedure. In addition to recommending an item be approved,
+- approved with conditions or denied, the Commission may also table an item or continue an item to a
+- The Planning Commission’s decision is forwarded to the Fruita City Council. Once a project is
+- approved by the City Council it must be revised to reflect all the conditions placed on it by the City
+- Council before documents are recorded and/or building permits are issued. If the project fails to meet
+- the Fruita Land Use Code time limits for final documents, the project approval of the project lapses and
+
+## [fruita#20] 2026-10-15 | Livability Commission | agenda
+- II. Public Comment
+- III. Review and Approve Minutes
+- a. Discussion on Trail Cleanup
+
+## [fruita#22] 2026-10-22 | Fruita Tourism Advisory Council | agenda
+- 2) Public Comment
+- 3) Approval of Minutes
+- 4) Presentations from:
+- 5) Mini-Grant Application
+- 6) 2027 Budget Overview

@@ -94,7 +94,12 @@
 - Middle Park Market Café, LLC dba Middle Park Meat Company and Jon Schein
 - 9:15 a.m. BUDGET HEARINGS
 
-## [grand-county#6] 2026-10-20 | County Commissioners | agenda
+## [grand-county#6] 2026-10-12 | Middle Park Fair and Rodeo | agenda
+- Approve August 14th meeting minutes
+- Public Comments - limited to 3 minutes
+- 2027 Rodeo Contractor RFP approval
+
+## [grand-county#7] 2026-10-20 | County Commissioners | agenda
 -  Approval of Board Minutes
 - o Approval of Weekly Payments
 - o Fifth Asset, Inc. dba DebtBook Contract Renewal

@@ -568,3 +568,15 @@
 - II. Attached Principal buildings — zero (0) feet on the attached side(s) and ten
 - (10) feet to adjacent buildings on the detached side
 - Public Notice was sent to all property owners within 500 feet of the subject property and the
+
+## [san-miguel-county#33] 2026-10-26 | San Miguel Basin Fair Board | agenda
+- 2. Approve Agenda
+- 3. Approve Minutes
+- 4. Guest Presentations: SMC County Manager - Mike Bordogna, Fair Board Nonprofit
+- b. 2027 Budget
+- c. Grants - Westmeath, Lone Cone Legacy Trust
+- 8. Parks + Open Space Manager Report
+- b. Purchases for Next Year: Panels/Gates
+- a. New Board Member Application - Ashley Tomlinson
+- Hearings, and Special Meetings are recorded, and ACTION MAY BE TAKEN ON ANY
+- San Miguel Commissioners may hold an Executive Session to discuss noticed agenda items

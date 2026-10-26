@@ -1,12 +1,5 @@
-- title: Rezoning of 3600 S. Federal Blvd
-  summary: City Council held a public hearing on Aug. 10 on Ordinance 11-2026, an application to rezone the property at 3600 S. Federal Blvd. Speakers had two minutes each and had to attend in person.
-  where: 3600 S. Federal Blvd
-  refs:
-  - 1
-  topics:
-  - Zoning & development
 - title: Public safety sales and use tax increase (Ordinance 13-2026)
-  summary: Council took up Ordinance 13-2026 on first reading Aug. 10 and second reading Aug. 24. It would raise the city sales and use tax for public safety purposes and is described as a referral, meaning it appears headed to voters.
+  summary: Council took up Ordinance 13-2026 on first reading Aug. 10 and second reading Aug. 24. It would refer a city sales and use tax increase for public safety purposes. The agendas do not state the rate or the outcome.
   where: Citywide
   refs:
   - 1
@@ -14,9 +7,8 @@
   topics:
   - Budget & taxes
   - Policing & public safety
-  - Elections
 - title: 2026 amended budget and 2027 budget
-  summary: Council reviewed the 2027 proposed revenues, capital and other fund budgets, and general fund in work sessions from August to September. It held a public hearing Sept. 28 on Ordinances 14-2026 and 15-2026 amending the 2026 budget and adopting 2027, with second reading Oct. 12. The Redevelopment Agency considered matching 2026 and 2027 budgets, Resolutions 4-2026 and 5-2026.
+  summary: Council reviewed the 2027 proposed budget in work sessions from August to September, covering revenues, capital, open space, stormwater, volunteer fire and the general fund. A public hearing on the 2026 amended and 2027 budgets (Ordinances 14 and 15-2026) was held Sept. 28, with second reading Oct. 12. The Redevelopment Agency took up matching budget resolutions.
   where: Citywide
   refs:
   - 2
@@ -27,78 +19,65 @@
   - 16
   topics:
   - Budget & taxes
-- title: Radcliff subdivision plats at 2200 W. Radcliff Ave
-  summary: The Planning Commission scheduled preliminary and final plat applications for 2200 W. Radcliff Ave. for Sept. 2. Council then held a public hearing Sept. 28 on Resolutions 24-2026 and 25-2026 approving the Radcliff Subdivision preliminary and final plats.
-  where: 2200 W. Radcliff Ave
+  - Government operations
+- title: Rezoning of 3600 S. Federal Blvd
+  summary: Council held a public hearing Aug. 10 on Ordinance 11-2026, an application to rezone property at 3600 S. Federal Blvd. Speakers had to attend in person and were limited to two minutes each. The agenda does not state the outcome.
+  where: 3600 S. Federal Blvd
+  refs:
+  - 1
+  topics:
+  - Zoning & development
+  public_comment: true
+- title: Radcliff and Hampden plats
+  summary: The Planning Commission held hearings Sept. 2 on preliminary and final plats for 2200 W. Radcliff Ave and 2500 W. Hampden. Council then held a public hearing Sept. 28 on the Radcliff Subdivision preliminary and final plats (Resolutions 24 and 25-2026).
+  where: 2200 W. Radcliff Ave and 2500 W. Hampden Ave
   refs:
   - 8
   - 11
   topics:
   - Zoning & development
-  - Land & property
-- title: Plat applications at 2500 W. Hampden Ave
-  summary: The Planning Commission scheduled public hearings Sept. 2 on preliminary and final plat applications for property at 2500 W. Hampden (Resolutions 8-2026 and 9-2026).
-  where: 2500 W. Hampden Ave
+  - Housing
+- title: Housing plans, ADU law compliance and Housing Authority
+  summary: Planning staff updated the commission on compliance with state ADU law HB24-1152, with code amendments to return later in the year. The commission was scheduled to discuss the Sheridan Housing Implementation Plan (SHIP) and an Equal Space ordinance in October. Council work sessions on Oct. 12 and Oct. 26 covered the Sheridan Housing Authority.
+  where: Citywide
   refs:
-  - 8
+  - 4
+  - 17
+  - 18
+  - 20
   topics:
+  - Housing
   - Zoning & development
-  - Land & property
 - title: KIMCO Sheridan reimbursement agreement amendments
-  summary: The Redevelopment Agency considered Resolutions 2-2026 and 3-2026 approving amendments to the KIMCO Sheridan reimbursement agreements for the Series 2011A-1 and 2011A-2 bonds.
+  summary: The Redevelopment Agency considered amendments to the KIMCO Sheridan reimbursement agreements for the Series 2011A-1 and 2011A-2 bonds (Resolutions 2 and 3-2026).
+  where: KIMCO Sheridan redevelopment area
   refs:
   - 0
   topics:
   - Economic development
   - Budget & taxes
 - title: Wastewater pretreatment regulations
-  summary: Council considered Ordinance 12-2026 on second reading Aug. 10, regulating pretreatment of wastewater.
+  summary: Council considered Ordinance 12-2026 on second reading Aug. 10, setting pretreatment regulation of wastewater.
   where: Citywide
   refs:
   - 1
   topics:
   - Utilities
   - Water
-  - Environment & climate
-- title: State ADU law compliance (HB24-1152)
-  summary: Planning staff updated the Planning Commission on a small text amendment to the accessory dwelling unit code and on progress meeting HB24-1152. Staff will return later in the year with code amendments and possible rezoning in affected areas.
-  where: Citywide
-  refs:
-  - 4
-  topics:
-  - Housing
-  - Zoning & development
-- title: Flying Saucer RV Park subdivision and planning grants
-  summary: Planning staff briefed the Commission on the Flying Saucer RV Park subdivision application. They also covered the EPA Brownfields Grant award, the renewed South Metro Enterprise Zone and South Santa Fe planning projects.
+- title: Flying Saucer RV Park subdivision and brownfields grant
+  summary: Planning staff reported on the Flying Saucer RV Park subdivision application, a federal EPA Brownfields Grant award, the renewed South Metro Enterprise Zone and South Santa Fe planning projects.
   where: South Santa Fe corridor
   refs:
   - 4
   topics:
+  - Economic development
   - Zoning & development
   - Environment & climate
-  - Economic development
-- title: 'Housing: Sheridan Housing Implementation Plan and Housing Authority'
-  summary: The Planning Commission was set to hear a presentation from Matrix Design Group on the Sheridan Housing Implementation Plan (SHIP) and discuss an Equal Space ordinance. Council also planned a work session on the Sheridan Housing Authority.
+- title: Crisis services contract with AllHealth Network
+  summary: Council considered Resolution 28-2026 on Oct. 26, approving an agreement for crisis services with AllHealth Network.
   where: Citywide
   refs:
-  - 17
-  - 18
+  - 19
   topics:
-  - Housing
-  - Government operations
-- title: Police department locker room restoration contract
-  summary: Council considered a contract with Earth Saving Solutions Restoration, Inc. for work on Sheridan Police Department lockers.
-  where: Sheridan Police Department
-  refs:
-  - 11
-  topics:
+  - Health & human services
   - Policing & public safety
-  - Government operations
-- title: Ordinance 16-2026 amending Chapter 14, Article VI of city code
-  summary: Council introduced Ordinance 16-2026 on Sept. 28 amending Chapter 14, Article VI of the municipal code, with second reading on Oct. 12. The agenda text does not say what the change is.
-  where: Citywide
-  refs:
-  - 11
-  - 16
-  topics:
-  - Government operations

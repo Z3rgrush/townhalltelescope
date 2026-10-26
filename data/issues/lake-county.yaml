@@ -1,114 +1,135 @@
-- title: Lake County E911 Authority restructuring, PUC rate application and 2027 budget
-  summary: The E911 Authority is discussing a restructuring of Lake County 911 dispatch operations, a hiring and professional standards resolution, and a draft proposal on Public Utilities Commission complications. On Oct. 2 it was to consider Resolution 26-01 (PUC application seeking an emergency telephone charge increase) and Resolution 26-02 (2027 budget). The commissioners also looked at options for an offsite E911 dispatch office.
-  where: Lake County 911 dispatch
+- title: 'Lake County E911 Authority: dispatch restructuring, 2027 budget and PUC surcharge application'
+  summary: The E911 Authority spent August to October on reorganizing dispatch, a revised 2027 budget, and an application to the Colorado PUC for an increase in the emergency telephone charge (Resolution 26-01), citing the dispatch facility, NG911 GIS and radio recording needs. Resolution 26-02 would adopt the 2027 budget. The board also took up hiring standards and a CentralSquare software agreement that replaces the current Motorola/Flex contract.
+  where: Countywide
   refs:
   - 2
   - 12
-  - 13
-  - 24
+  - 15
+  - 16
+  - 17
+  - 29
   topics:
-  - Fire & emergencies
   - Fees & rates
-  - Budget & taxes
-- title: Leadville-Lake County Fire Rescue IGA with the City of Leadville
-  summary: The Fire Management Board reviewed a draft intergovernmental agreement under which the City of Leadville runs the fire department for the city and unincorporated county. It covers two stations (816 Harrison Ave and 141 County Road 10), annual cost-sharing and fallback funding. Commissioners were to consider the IGA on Oct. 20 alongside a discussion of shared services with the City.
-  where: 816 Harrison Avenue and 141 County Road 10, Leadville
-  refs:
-  - 4
-  - 30
-  - 31
-  topics:
   - Fire & emergencies
-  - Government operations
   - Budget & taxes
-- title: Lake County 2027 budget and capital requests
-  summary: Commissioners held work sessions on budget priorities, elected officials' preliminary 2027 budget presentations, department budgets, and capital requests including a Certificate of Participation. The proposed 2027 Preliminary Budget was slated for presentation to the Board on Oct. 13.
-  where: Countywide
+  public_comment: true
+- title: Moratorium work session and Land Development Code rules for rural lodging and outdoor recreation
+  summary: The Planning Commission reviewed draft rules for campgrounds, event sites and rural lodging that would replace the moratorium imposed by Resolution 2026-06, extended to October because of the Willow fire. Draft rules cover site selection, water, septic, parking, emergency plans and conditional use permits. Commissioners considered Resolution 2026-35 to amend the code on Oct 20.
+  where: Unincorporated Lake County
   refs:
   - 3
-  - 17
-  - 21
-  - 22
-  - 23
-  - 27
-  topics:
-  - Budget & taxes
-  - Government operations
-- title: 'Affordable housing: Proposition 123 IGA amendment and Housing Authority work'
-  summary: The Board was to consider a first amendment to the Proposition 123 IGA with Lake County covering affordable housing commitments, including a 9 percent increase in affordable housing inventory and expedited review. The Leadville/Lake County Regional Housing Authority gave a semi-annual report on its 2026-2028 strategic plan, project pipeline and 2027 budget.
-  where: Leadville and Lake County
-  refs:
-  - 6
-  - 15
-  - 19
-  - 25
-  - 34
-  topics:
-  - Housing
-  - Government operations
-- title: Land Development Code amendments for rural lodging and outdoor recreation
-  summary: Commissioners were to consider Resolution 2026-35 amending the Land Development Code on rural lodging and outdoor recreational uses, tied to a restriction imposed by Resolution 2026-06.
-  where: Unincorporated Lake County
-  refs:
-  - 31
+  - 11
+  - 37
   topics:
   - Zoning & development
-  - Tourism & events
   - Recreation & trails
-- title: Aurora water deliveries and storage IGA
-  summary: Commissioners were to consider an amended and restated IGA between the City of Aurora and Lake County on water deliveries and storage, presented by the Water + Natural Resources Director.
-  where: Countywide
+  - Tourism & events
+- title: CMC student and workforce housing project near Leadville
+  summary: The Planning Commission held a public hearing on Colorado Mountain College's housing proposal on its existing campus, with 48 parking spaces and wildfire-resilience compliance. Staff said it is not subject to zoning review under state statute. Commissioners expressed support and a motion to approve was made.
+  where: Colorado Mountain College campus, Leadville
   refs:
-  - 31
+  - 28
   topics:
-  - Water
-  - Government operations
-- title: Animal shelter staffing, budget and IGA changes
-  summary: The Animal Shelter Advisory Board discussed staffing, hours and budget, a possible partnership with Ark Valley, the 2027 budget, and modifications to the shelter's IGA. The shelter budget was also in the commissioners' 2027 work session.
-  where: Lake County Animal Shelter
+  - Housing
+  - Schools & youth
+  - Zoning & development
+  public_comment: true
+- title: Leadville-Lake County fire rescue IGA and fire funding
+  summary: The Fire Management Board reviewed a draft intergovernmental agreement between Leadville and Lake County on fire protection, covering two stations (816 Harrison Ave and 141 County Road 10), cost sharing and fallback funding, plus preliminary fire budget figures. The commissioners were set to consider the IGA on Oct 20 along with shared services with the City.
+  where: Leadville and unincorporated Lake County
   refs:
-  - 7
-  - 20
-  - 23
-  - 33
+  - 5
+  - 36
+  - 37
   topics:
-  - Agriculture & wildlife
+  - Fire & emergencies
   - Budget & taxes
   - Government operations
-- title: Willow Fire debrief and wildfire matters
-  summary: Commissioners held a debrief on lessons learned from the Willow Fire. They also ratified an amendment to a COSWAP wildfire grant and rescinded fire restrictions in unincorporated areas by Resolution 2026-36.
+- title: Lake County 2027 budget and capital certificate of participation
+  summary: Commissioners held many work sessions on the 2027 preliminary budget, including elected officials' presentations, department budgets, capital requests and a Certificate of Participation. The preliminary budget was to be acknowledged Oct 13.
+  where: Countywide
+  refs:
+  - 4
+  - 21
+  - 25
+  - 26
+  - 27
+  - 33
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: 'Affordable housing: Proposition 123 commitments and Regional Housing Authority'
+  summary: The Housing Authority gave its semi-annual report on its 2026-2028 strategic plan, housing pipeline and 2027 budget. Commissioners also considered a first amendment to the Prop 123 IGA covering the county's affordable housing commitments, including a 9 percent increase in affordable inventory and expedited review.
+  where: Leadville / Lake County
+  refs:
+  - 7
+  - 19
+  - 23
+  - 30
+  - 40
+  topics:
+  - Housing
+  - Zoning & development
+- title: Willow Fire debrief and fire restrictions
+  summary: Commissioners scheduled a Willow Fire debrief and lessons-learned session, and ratified rescinding all fire restrictions in unincorporated areas. The fire also delayed the moratorium timeline.
   where: Unincorporated Lake County
   refs:
-  - 8
-  - 16
-  - 31
+  - 3
+  - 9
+  - 37
   topics:
   - Fire & emergencies
   - Environment & climate
-- title: Planning Commission vacancies and school safety MOU
-  summary: The Planning Commission has three vacancies after early resignations, and an interview committee recommended three new members for three-year terms. Commissioners also considered an MOU with the school district's PASS team on school climate and safety, tied to grant requirements.
-  where: Lake County
-  refs:
-  - 16
-  topics:
-  - Schools & youth
-  - Government operations
-  - Policing & public safety
-- title: Onsite wastewater rules and public health priorities
-  summary: The Board of Health discussed the Public Health Improvement Plan, proposed amendments to onsite wastewater treatment system rules, the local tobacco ordinance, and expanded cottage food law.
+- title: Aurora water deliveries and storage IGA
+  summary: Commissioners were to consider an amended and restated IGA with the City of Aurora on water deliveries and storage, led by the Water + Natural Resources Director.
   where: Countywide
   refs:
-  - 11
-  - 29
+  - 37
   topics:
-  - Health & human services
-  - Utilities
   - Water
-- title: State highway safety and Gateway Mobility Plan
-  summary: Commissioners discussed transportation and safety issues on state highways and the Lake County Gateway Mobility Plan.
-  where: State highways in Lake County
+  - Land & property
+- title: Highway safety and Gateway Mobility Plan
+  summary: A work session covered transportation and safety issues on state highways and the Lake County Gateway Mobility Plan.
+  where: State highways through Lake County
   refs:
-  - 10
+  - 13
   topics:
   - Roads & traffic
   - Transit
+- title: Animal shelter staffing, budget and IGA changes
+  summary: The Animal Shelter Advisory Board discussed staffing, hours, budget, the 2027 budget, a possible Ark Valley partnership and changes to the shelter IGA.
+  where: Lake County Animal Shelter
+  refs:
+  - 8
+  - 24
+  - 39
+  topics:
+  - Government operations
+  - Budget & taxes
+- title: Onsite wastewater rules and public health items
+  summary: The Board of Health took up the Public Health Improvement Plan, proposed amendments to onsite wastewater treatment system (OWTS) rules, the cottage food law and the local tobacco ordinance.
+  where: Countywide
+  refs:
+  - 14
+  - 35
+  topics:
+  - Health & human services
+  - Environment & climate
+  - Water
+- title: Courthouse public-space rules and Planning Commission vacancies
+  summary: Commissioners considered Resolution 2026-34 adopting courthouse rules on use of county property, noting that approvals at staff level create legal risk. They also considered appointing three new Planning Commission members after early resignations.
+  where: Lake County Courthouse
+  refs:
+  - 20
+  - 37
+  topics:
+  - Government operations
+  - Lawsuits & legal
+- title: Safety in Schools (PASS) MOU with Lake County School District
+  summary: Commissioners considered an MOU with the school district's PASS team to review school climate data and meet grant requirements. It is a budgeted request.
+  where: Lake County School District
+  refs:
+  - 20
+  topics:
+  - Schools & youth
+  - Policing & public safety

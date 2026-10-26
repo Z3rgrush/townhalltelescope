@@ -1,25 +1,17 @@
-- title: Comprehensive Plan Update with HRGreen
-  summary: Consultant HRGreen presented the purpose, timeline and status of the county's Comprehensive Plan update to the Planning Commission. Commissioners asked about having only one public outreach meeting and about state deadlines for water supply and growth elements; the plan can be adopted in pieces. Resident David Laufer urged that the plan focus on growth rather than preservation, citing low incomes compared with housing costs.
+- title: Archuleta County Comprehensive Plan update
+  summary: Consultant HRGreen is updating the county Comprehensive Plan, including the Strategic Growth and Water Supply chapters. At the Oct. 22 Planning Commission meeting, members asked about outreach (only one public meeting planned before the draft) and state deadlines, and a resident urged the plan to focus on growth and housing costs.
   where: Countywide
   refs:
-  - 9
+  - 12
   - 13
-  public_comment: true
+  - 14
   topics:
   - Zoning & development
+  - Water
   - Housing
-  - Water
-- title: Onsite wastewater (OWTS) regulations and setback reductions
-  summary: The Board of Health continued discussing onsite wastewater treatment system regulations, including property line setback reductions of less than 10 feet. The item followed a Water Quality Manager presentation on August 27.
-  where: Countywide
-  refs:
-  - 2
-  topics:
-  - Water
-  - Health & human services
-  - Utilities
+  public_comment: true
 - title: Housing Action Plan
-  summary: The Multijurisdictional Housing Coordinator, Jeff Sams, was scheduled to present the Housing Action Plan to the county and town in joint sessions in late August and late September. Habitat for Humanity's Infill in Trails project also received a letter of support for an Enterprise Zone contribution application.
+  summary: The multijurisdictional housing coordinator, Jeff Sams, is scheduled to brief on the Housing Action Plan at the Aug. 24 and Sept. 28 meetings. Habitat for Humanity's Infill in Trails project also received a county letter of support for an Enterprise Zone contribution.
   where: Countywide
   refs:
   - 1
@@ -27,24 +19,35 @@
   - 8
   topics:
   - Housing
-  - Government operations
-- title: Draft 2027 budget and budget-to-actual review
-  summary: Officials scheduled a discussion of the draft 2027 budget and a budget-to-actual update from staff. Details of amounts were not given in the documents.
+- title: Septic (OWTS) regulation changes and property line setbacks
+  summary: The Board of Health continued discussing on-site wastewater treatment system rules, including reducing property line setbacks of less than 10 feet. A Water Quality Manager presentation was held Aug. 27.
+  where: Countywide
+  refs:
+  - 2
+  topics:
+  - Water
+  - Environment & climate
+  - Health & human services
+- title: 'Planning Commission land use cases: rezonings, B&B and agritourism campground'
+  summary: The Planning Commission is handling the Cloman Blvd administrative rezoning, the Brock rezone at 760 River Forrest Drive, a bed and breakfast conditional use permit at 78 W Golf Place, and the Cerulean Skies agritourism campground request, which had been tabled in July.
+  where: Cloman Blvd; 760 River Forrest Drive; 78 W Golf Place
+  refs:
+  - 12
+  - 14
+  topics:
+  - Zoning & development
+  - Land & property
+  - Tourism & events
+- title: 2027 draft budget and budget-to-actual review
+  summary: Officials scheduled discussion of the draft 2027 budget on Sept. 28 and a budget-to-actual update at the Oct. 26 work session.
   where: Countywide
   refs:
   - 4
-  - 9
-  topics:
-  - Budget & taxes
-- title: Cloman Blvd administrative rezoning (PLN-REZ-26-050)
-  summary: The Planning Commission heard a staff report from Development Director Eva Kruse on an administrative rezoning of property on Cloman Blvd. The outcome is not shown in the documents.
-  where: Cloman Blvd
-  refs:
   - 13
   topics:
-  - Zoning & development
+  - Budget & taxes
 - title: Lot consolidations and un-consolidation resolutions
-  summary: Commissioners were to consider resolutions consolidating lots in Pagosa in the Pines Unit 2 (Lots 51 and 52) and Lake Pagosa Park, and reversing a consolidation of Lot 26X in Continental Estates 2 into Lots 25X and another lot.
+  summary: Commissioners were asked to approve resolutions to consolidate lots in Pagosa in the Pines Unit 2 and Lake Pagosa Park, and to reverse a consolidation of Lot 26X in Continental Estates 2.
   where: Pagosa in the Pines, Lake Pagosa Park, Continental Estates 2
   refs:
   - 8
@@ -52,34 +55,15 @@
   - Land & property
   - Zoning & development
 - title: Medical director contract amendment with Axis Health
-  summary: The board was asked to ratify the director's signature on an amendment to the Medical Director contract with Axis Health Services, which was requested because the director is named specifically in the contract.
+  summary: The board was asked to ratify the director's signature on an amendment to the medical director contract with Axis Health Services.
   refs:
   - 2
   topics:
   - Health & human services
   - Government operations
-- title: Upper San Juan Watershed Enhancement Partnership briefing and CDAP ranking
-  summary: Commissioners were scheduled for a briefing on the Upper San Juan Watershed Enhancement Partnership and a presentation on ranking and finalizing CDAP projects. A Lodgers Group presentation was also on the work session agenda.
-  where: Countywide
-  refs:
-  - 3
-  - 9
-  topics:
-  - Water
-  - Environment & climate
-  - Tourism & events
-- title: Archuleta County Fair and rodeo planning
-  summary: The fair board planned entertainment, sponsorships (LPEA STEM program, Ally House Diamond sponsorship), crowd control training, beer garden applications and an RFP for rodeo contractors. Special contractual services were about $57.1k against a $58.5k budget.
-  where: Archuleta County Fairgrounds
-  refs:
-  - 12
-  topics:
-  - Tourism & events
-  - Agriculture & wildlife
-  - Budget & taxes
 - title: Marijuana business license application
-  summary: A marijuana business application, including a corporate structure change and premises modifications, was in the county's packet. The applicant's details and the decision are not clear from the documents.
-  where: 398 Lewis Street
+  summary: A marijuana business license application, with operating and license fees, was on the Oct. 6 agenda.
+  where: Archuleta County
   refs:
   - 5
   topics:

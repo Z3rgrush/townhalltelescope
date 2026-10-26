@@ -289,3 +289,57 @@
 - “Town”) adopted its current comprehensive plan on May 27, 2009. It has not been updated since
 - its adoption. The current comprehensive plan can be found here:
 - I. What is a comprehensive plan?
+
+## [new-castle#28] 2026-10-26 | Historic Preservation Commission  | agenda
+- 450 W Main Street
+- Items for Consideration
+- A. Discussion of Videography Project
+- B. Consider Purchasing a Gift Card for Joseph Gamble for the
+- Videoagraphy Project
+- C. Consider Survey Grant Updates
+- D. Approval of CLG Audit
+
+## [new-castle#29] 2026-10-26 | Historic Preservation Commission  | agenda
+- 450 W Main Street
+- Items for Consideration
+- A. Discussion of Videography Project
+- B. Consider Purchasing a Gift Card for Joseph Gamble for the
+- Videoagraphy Project
+- C. Consider Survey Grant Updates
+- D. Approval of CLG Audit
+- Colorado Certified Local Government
+- meets the Secretary of the Interior’s Professional Qualifications Standards. Please include any consultants contracted to
+- perform designation, design, or tax credit reviews on a regular basis
+- An accurately completed annual report is a CLG requirement
+- Preservation Ordinance (including Amendments)
+- Preservation Plan
+- 2) Provide a list of all current Commission/Board Members. Check any Commission/Board Members newly appointed in
+- Federal Fiscal Year 2026 and attach their resumes and/or applications. Also, check all Commission/Board Members
+- 6) List the SHPO-approved educational/training sessions attended by Commission/Board Members in Federal Fiscal Year
+- Project Review
+- 14) How many design review applications were considered by the Commission/Board for designated resources in Federal
+- 15) How many design review applications were considered by the Commission/Board for non-designated resources in
+- 16) If reviewed separately, how many demolition reviews were conducted by the Commission/Board or Staff in Federal
+- If yes, list name of project or property and the Federal Agency initiating the review
+- ervation Incentives
+- 18) Does your County/Municipality have any local incentives programs for preservation or for the benefit of historic
+- Tax incentive program
+- vernment-funded grant program
+- Zoning variances/Use Allowances
+- Acquisition of historic properties through purchase or donation
+- Preservation Awards
+- 22) Describe any planned/projected Commission/Board activities for Federal Fiscal Year 2027
+- include all documents as separate attachments
+- Resumes or applications for commission/board members appointed in FY26 (if applicable)
+- Current preservation ordinance and amendments (if adopted during FY26)
+- Current Preservation Plan or preservation chapter in Comprehensive Plan (if adopted during FY26)
+- Current Survey Plan (if adopted during FY26)
+- 450 W. Main Street
+- A. Discussion of Historical Preservation Commission at Founder's Day
+- B. Consider Wording on Highland Cemetery's Historical Designation Plaque
+- C. Consider Location of Highland Cemetery's Plaque
+- D. Consider Approval of October 20, 2025, Minutes
+- A. Consider Completing Grant Applications for Historical Survey
+- B. Discuss Highland Cemetery Designation Celebration
+- C. Approval of February 23, 2026, Minutes
+- D. Update of Videography Project

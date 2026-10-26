@@ -1,29 +1,16 @@
 - title: Data center moratorium (Ordinance 1037)
-  summary: Town Council passed a 6-month moratorium on accepting or processing permit and land development applications that include a data center. The Land Use Development Code has no data center use classification, so staff will monitor development nationally and in Colorado. The moratorium would need renewal every 6 months, up to two years.
+  summary: Council passed a 6-month moratorium on accepting or processing permit and land development applications that include a data center, because the Land Use Development Code has no data center use classification. It must be extended every 6 months to reach the two years Council asked for, giving staff time to watch development statewide and codify rules. First reading was Aug 4 and second reading Aug 18.
   where: Townwide
   refs:
   - 4
   - 9
-  tags:
-  - data-center
   topics:
   - Data centers
   - Zoning & development
-- title: Sanitation district sewer repairs and new wastewater treatment plant
-  summary: The McCabe Creek sewer replacement on Florida Street is complete, and crews moved to Rosita Street manhole replacements. The district approved surge tank and pump purchases and applied for a $900,000 grant for the 1st Street lift station. It is also seeking an Owner's Advisor for the new wastewater treatment facility, with proposals due October 19 and an award slated for Nov. 3.
-  where: McCabe Creek, Florida Street, Rosita Street, 1st Street lift station
-  refs:
-  - 3
-  - 10
-  - 16
-  - 21
-  - 33
-  - 34
-  topics:
-  - Utilities
-  - Water
+  tags:
+  - data-center
 - title: 2027 budget, fee schedule and capital plan
-  summary: Council adopted the 2027 budget with expenditures of $24,536,628 across seven funds, plus a fee schedule and a 5-year capital plan. The capital plan includes the community center roof, vehicles and park improvements. The property tax mill levy of 1.561 would generate $173,145. The sanitation district budget was presented separately.
+  summary: Council and the Sanitation GID reviewed the FY27 budget in September and Council adopted Resolution 2026-21 on Oct 6 with a public hearing. It sets expenditures of $24,536,628 and expenses of $30,594,569 across seven funds, a 1.561 mill levy raising $173,145, fee schedule changes, and a 5-year capital plan including the community center roof, vehicles and park improvements. The GID budget and fee schedule (Resolution 2026-02) were also up for adoption.
   where: Townwide
   refs:
   - 21
@@ -31,13 +18,27 @@
   - 29
   - 33
   - 35
-  public_comment: true
   topics:
   - Budget & taxes
   - Fees & rates
-- title: Project 64 workforce housing and housing plans
-  summary: Staff prepared talking points for Project 64 (formerly Project 102), where the Town won a grant-backed bid to buy and renovate the property and will use COPs financing. Grants could lower the rents needed to cover the payments. A Housing Action Plan was also on a joint Town/County agenda, and Council took up a Proposition 123 affordable housing credits agreement.
-  where: Townwide
+  public_comment: true
+- title: Sewer system repairs, McCabe Creek project and new wastewater treatment plant
+  summary: The Sanitation GID finished the McCabe Creek sewer replacement (Florida Street) and moved crews to Rosita Street manhole and line replacement. The district bought surge tanks and pumps, applied for a $900,000 grant for the 1st Street lift station, and is seeking an owner's advisor for the new Wastewater Treatment Facility, with an award expected Nov. 3, 2026. It follows the voter-approved sewer sales tax.
+  where: McCabe Creek, Florida Street, Rosita Street, 1st Street lift station
+  refs:
+  - 3
+  - 9
+  - 10
+  - 16
+  - 33
+  - 34
+  topics:
+  - Utilities
+  - Water
+  - Budget & taxes
+- title: Project 64 workforce housing and housing planning
+  summary: Staff prepared talking points for Project 64 (formerly Project 102), where the Town won a bid to buy and renovate the property using grants and certificates of participation (COPs). Grants could lower the rents needed to cover the COP payment. The Town and County are also holding joint sessions on a Housing Action Plan, and Council considered an IGA on Proposition 123 shared affordable housing credits.
+  where: Project 64 property
   refs:
   - 4
   - 14
@@ -45,9 +46,9 @@
   - 38
   topics:
   - Housing
-  - Budget & taxes
+  - Government operations
 - title: Ponderosa Mountain subdivision and planned development
-  summary: The Planning Commission reviewed the Ponderosa major subdivision sketch plan and planned development agreement. Ordinance 1042, the planned development agreement and zoning map amendment, had a first reading on Council's October 6 agenda and was continued to October 20.
+  summary: Planning Commission reviewed the Ponderosa major subdivision sketch plan and planned development agreement, and Council took up Ordinance 1042 (planned development agreement and zoning map amendment) on first reading Oct 6, continued to Oct 20.
   where: Ponderosa Mountain
   refs:
   - 20
@@ -55,9 +56,8 @@
   - 38
   topics:
   - Zoning & development
-  - Land & property
-- title: Talisman Drive area rezoning to Multi-unit Town Center (Ordinance 1040)
-  summary: Council rezoned properties including Cornerstone Lofts Lot 6CX and Talisman Pointe units on Talisman, Eaton and Village Drives to Multi-unit Town Center. The Planning Commission recommended approval on August 25, and Council passed the second reading September 15.
+- title: Talisman Drive area rezoning (Ordinance 1040)
+  summary: Council passed Ordinance 1040 on first and second reading, rezoning Cornerstone Lofts and Talisman Pointe properties on Talisman, Eaton and Village Drives to Multi-unit Town Center. Planning Commission recommended approval Aug 25.
   where: Talisman Drive, Eaton Drive, Village Drive
   refs:
   - 15
@@ -66,8 +66,8 @@
   topics:
   - Zoning & development
   - Housing
-- title: G&I Sanitation trash collection franchise (Ordinance 1039)
-  summary: Council approved a five-year franchise for G&I Sanitation Services to run refuse collection in town, with performance standards and a possible future franchise fee. A public hearing on the company's proposed rates was also held. The second reading passed October 6.
+- title: G&I Sanitation trash franchise (Ordinance 1039)
+  summary: Council gave first reading Sept 15 and second reading Oct 6 to a five-year franchise for G&I Sanitation Services to run refuse collection in town, with performance standards and a possible future franchise fee. A public hearing on the company's proposed rates was also held.
   where: Townwide
   refs:
   - 22
@@ -76,7 +76,7 @@
   - Utilities
   - Fees & rates
 - title: Dark sky Lighting Management Plan
-  summary: The Dark Sky Steering Committee is drafting a Lighting Management Plan that is stricter than the current land use code. It would limit light post height and brightness at property lines and require lights out by 11 p.m., with no lighting on trails. Work sessions were scheduled in October, and a Lights Out Pagosa event was planned for August 12.
+  summary: The Dark Sky Steering Committee held a work session and review of a Lighting Management Plan that would exceed current Land Use Development Code lighting standards, with rules on light height, shielding, curfews and no flashing lights. Related events include reduced downtown lights for the Perseid meteor shower watch night and an astronomy shed proposal.
   where: Townwide
   refs:
   - 2
@@ -88,61 +88,26 @@
   topics:
   - Environment & climate
   - Zoning & development
-- title: San Juan Alley traffic calming and truck parking complaints
-  summary: Staff said a speed dip on San Juan Alley between South 8th and 10th Streets was not recommended based on residential feedback, and a town-wide traffic calming policy is being drafted. Resident Eddie Archuleta repeatedly told Council about truckers parking in the library lot, heavy alley traffic and unenforced jake brake rules.
+- title: Traffic, truck parking and calming on San Juan Alley
+  summary: Resident Eddie Archuleta repeatedly told Council that truckers park overnight in the library lot, the jake brake ordinance is not enforced, and San Juan Alley sees heavy speeding traffic. Staff recommended against a speed dip on San Juan Alley between 8th and 10th Streets based on neighbor feedback and are drafting a traffic calming policy.
   where: San Juan Alley, library parking lot
   refs:
   - 4
   - 35
-  - 39
-  public_comment: true
   topics:
   - Roads & traffic
-  - Policing & public safety
-- title: San Juan River Park naming and town land
-  summary: Council named the town-owned park at 1040 E US 160, the former Bob's LP/Basin Coop property, the San Juan River Park. Staff also presented a list of town-owned properties after interest in the Town's property at 873.
+  public_comment: true
+- title: Naming of San Juan River Park at 1040 E US 160
+  summary: Council voted to name the former Bob's LP/Basin Coop property, bought in May 2025, San Juan River Park instead of the Parks Board's recommended Gateway River Park. Staff may add other names later.
   where: 1040 E US 160
   refs:
   - 9
-  - 17
-  public_comment: true
   topics:
   - Parks & open space
-  - Land & property
-- title: Main Street, highway reconstruction and downtown planning
-  summary: With highway reconstruction nearing completion, Main Street is planning to update its Transformation Strategies, with possible DOLA funding, and to expand its board from 10 to 11 members. It also continues the Business Assistance Grant Fund closeout and a possible downtown coordinated hours pilot.
-  where: Downtown Pagosa Springs
-  refs:
-  - 6
-  - 7
-  - 13
-  - 26
-  topics:
-  - Downtown & business
-  - Roads & traffic
-  - Economic development
 - title: Town Manager contract extension
-  summary: After an executive session on the evaluation and employment agreement of Town Manager David Harris, Council moved to extend his contract. Council Member Martinez and Mayor Pierce will help draft the extension.
+  summary: After an executive session on the Town Manager's evaluation, Council moved to extend David Harris's contract, with Council Member Martinez and Mayor Pierce to craft the extension.
   where: Town Hall
   refs:
   - 17
   topics:
   - Government operations
-- title: 'Parks projects: bike park, master plan and astronomy shed'
-  summary: Yamaguchi South Bike Park construction continues, and the Parks and Recreation Master Plan survey is open. The advisory board will discuss an astronomy shed proposal, and a Forest Legacy Program application is being pursued.
-  where: Yamaguchi Park
-  refs:
-  - 18
-  - 19
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: Courthouse and parking lot redevelopment at San Juan Street
-  summary: The Planning Commission was set to review a sketch major design review for courthouse and parking lot enhancements at 449, 473 and 497 San Juan Street, by 449 San Juan Street LLC. A Healing Waters redevelopment also appeared on a September agenda.
-  where: 449, 473 and 497 San Juan Street
-  refs:
-  - 20
-  - 37
-  topics:
-  - Zoning & development
-  - Downtown & business

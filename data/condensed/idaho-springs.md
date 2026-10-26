@@ -993,3 +993,90 @@
 - parks/open spaces. The tax would be paid by the recreation provider and would not be based on
 - X. Presentations: None
 - a. Katie Yard made a motion to approve the 2027 budget recommendations to City Council. Cris
+
+## [idaho-springs#32] 2026-10-26 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- and parking requests
+- b. Recreation Provider Occupation Tax Requests from Rafting Businesses
+- c. Two-Way Traffic on Downtown Miner Street
+- 5. Agenda Approval
+- a. Motion to approve the agenda of October 26th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of October 12th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to October 31st, 2026
+- 9. Appointments to Boards and Commissions
+- 10. Public Comment
+- 11. Unscheduled Public Comment
+- a. Public Hearing: Application for New Hotel & Restaurant Liquor License 1637
+- Miner Street The Hungry Yak
+- b. Public Hearing: Modification of Premises and addition to the CODA
+- (Communal Outdoor Dining Area) The Hungry Yak 1637 Miner Street
+- 14. Resolutions
+- a. Resolution #31, Series 2026 A resolution approving the 2026 City of Idaho
+- Springs Comprehensive Plan
+- b. Resolution #32, Series 2026 A resolution approving a short-term lease of a
+- c. Resolution #33, Series 2026, A Resolution Amending The Name And Scope
+- Of The Idaho Springs Parking, Transportation And Mobility Enterprise And
+- d. Resolution #34, Series 2026 A Resolution approving a new Idaho Springs
+- 15. Ordinance First Reading
+- 16. Ordinance Second Reading
+- a. Staff report submitted with one request for action:
+- Motion to approve two-way vehicle traffic on downtown Miner Street
+- b. Community Development Planner - Staff report submitted with no requests for
+- 20. Police Department
+- a. Mayor Pro Tem Appointment
+- b. DRCOG Subregional Forum Appointment for the Transporation Improvement
+- c. Clear Creek Fire Authority board member appointment
+- e. Certificate of Appreciation Clear Creek County Senior Wellness Event
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+
+## [idaho-springs#33] 2026-10-26 | City Council | agenda
+- City Hall - 1711 Miner Street, Idaho Springs, CO 80452
+- and parking requests
+- b. Recreation Provider Occupation Tax Requests from Rafting Businesses
+- c. Two-Way Traffic on Downtown Miner Street
+- 5. Agenda Approval
+- a. Motion to approve the agenda of October 26th, 2026
+- 7. Approval of Minutes
+- a. Motion to approve the minutes of October 12th, 2026
+- 8. Approval of Bills
+- a. Motion to approve the bills to October 31st, 2026
+- 9. Appointments to Boards and Commissions
+- 10. Public Comment
+- 11. Unscheduled Public Comment
+- a. Public Hearing: Application for New Hotel & Restaurant Liquor License 1637
+- Miner Street The Hungry Yak
+- b. Public Hearing: Modification of Premises and addition to the CODA
+- (Communal Outdoor Dining Area) The Hungry Yak 1637 Miner Street
+- 14. Resolutions
+- a. Resolution #31, Series 2026 A resolution approving the 2026 City of Idaho
+- Springs Comprehensive Plan
+- b. Resolution #32, Series 2026 A resolution approving a short-term lease of a
+- c. Resolution #33, Series 2026, A Resolution Amending The Name And Scope
+- Of The Idaho Springs Parking, Transportation And Mobility Enterprise And
+- d. Resolution #34, Series 2026 A Resolution approving a new Idaho Springs
+- 15. Ordinance First Reading
+- 16. Ordinance Second Reading
+- a. Staff report submitted with one request for action:
+- Motion to approve two-way vehicle traffic on downtown Miner Street
+- b. Community Development Planner - Staff report submitted with no requests for
+- 20. Police Department
+- a. Mayor Pro Tem Appointment
+- b. DRCOG Subregional Forum Appointment for the Transporation Improvement
+- c. Clear Creek Fire Authority board member appointment
+- e. Certificate of Appreciation Clear Creek County Senior Wellness Event
+- To provide scheduled public comment, either in person or remotely, please fill out
+- and return the Public Comment Form on the City's website. All requests must be
+- Each public comment, whether scheduled or unscheduled, is limited to three (3)
+- Council typically does not provide feedback during public comment sessions
+- Comment, please sign up for Scheduled Public Comment and provide those
+- Re: Request for Consideration of Parking Arrangement Associated with Roberts Brothers Garage
+- investment in the future of our community. Combined with the grant funding CCCAE has already secured,
+- this project presents an opportunity to leverage private philanthropy, public investment, and community
+- Previous discussions with Four Bairs Inc. explored the possibility of exchanging or relocating onsite parking
+- municipal parking structure that might eventually occupy adjacent City-owned property. Since those

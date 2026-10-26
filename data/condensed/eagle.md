@@ -957,3 +957,47 @@
 - Carrie Buhlman, Police Chief
 - Jessica Johnsen, Community Development Director (Virtual)
 - MOTION: Council Member Scott Schreiner motioned to approve the agenda. The motion was seconded
+
+## [eagle#43] 2026-10-26 | Liquor License Authority | agenda
+- Hearing Officer, Erik Johnson
+- 200 Broadway, Eagle, CO
+- 1. Approval of Minutes- September 16.2026
+- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
+
+## [eagle#44] 2026-10-26 | Liquor License Authority | agenda
+- Hearing Officer, Erik Johnson
+- 200 Broadway, Eagle, CO
+- 1. Approval of Minutes- September 16.2026
+- I hereby certify that the above Notice of Meeting was posted by me in the designated location at least 24 hours prior to said
+- (303)2os-2300 Colorado Liquor Retail License Application
+- M~ dress ~Number and Streetbi=:
+- Section A Nonrefundable application fees*
+- Jit Application Fee for New License ................ ......................... ................... .............. ................................ $1, 100.00
+- D Application Fee for New License with Concurrent Review ................. ......... .......................... ............. ..... $1,200.00
+- D Application Fee for Transfer ...................... ....................................... .................................................... $1, 100.00
+- Section B Liquor License Fees*
+- Section B Liquor License Fees* (Continued)
+- Application Documents Checklist and Worksheet
+- of the applicant exactly. All documents must be typed or legibly printed. Upon final State approval
+- the license will be mailed to the local licensing authority. Application fees are nonrefundable
+- D Applicant/Licensee identified
+- D State sales tax license number listed or applied for at time of application
+- D License type or other transaction identified
+- D All sections of the application need to be completed
+- D Master file applicants must include the Application for Master File form DR 8415 and applicable fees to this
+- Retail License Application
+- D Separate diagram for each floor (if multiple levels)
+- D Kitchen - identified if Hotel and Restaurant
+- If you answered yes to a, b or c above, explain in detail on a separate sheet
+- 3. Has a liquor license application (same license class), that was located within 500
+- feet of the proposed premises, been denied within the preceding two years?............. 0 Yes • No
+- 4. Are the premises to be licensed within 500 feet, of any public or private school
+- Waiver by local ordinance? 0 Yes O No
+- 1500 feet of another retail liquor license for off-premises sales in a jurisdiction
+- LLDS/RLS premises for which the application is being made and ends at the
+- 3000 feet of another retail liquor license for off-premises sales in a jurisdiction
+- Company; or officers, stockholders or directors if a corporation)? If yes, identify
+- 8. Does the applicant, as listed on line 2 of this application , have legal
+- 9. Who, besides the owners listed in this application (including persons, firms, partnerships,
+- separate sheet if necessary
+- Attach copies of all notes and security instruments and any written agreement or details

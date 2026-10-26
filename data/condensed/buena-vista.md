@@ -184,14 +184,46 @@
 - development review
 - Colorado Preservation Inc on the Road as industry and local planning experts
 
-## [buena-vista#6] 2026-08-18 | Airport Advisory Board | agenda
-- This Agenda may be Amended
+## [buena-vista#6] 2026-08-18 | Airport Advisory Board | minutes
 - III. Public Comment
-- V. Approval of Minutes – July 21, 2026
+- No public comment was offered
+- V. Approval of Minutes - July 21, 2026
+- Ted requested a revision to Item VIII.A of the July minutes to clarify that, once Airport
+- staff completes the final Safety Plan draft (anticipated in September), the AAB wishes to
+- “acknowledge the final draft and implementation of a working safety plan."
+- requested revision will be carried forward for formal consideration
+- HVAC system (Phase 2) installation is complete; one unit has been identified for
+- An interim Request for Reimbursement (RFR) was submitted to the FAA for 90
+- 95% of N Apron expansion project. Staff is awaiting final contractor invoices to
+- close out the North Apron project
+- Chandra presented resolutions to the Board of Trustees related to the split of the
+- approved both ground lease resolutions
+- Prairie dog activity on airfield was discussed as a current aviation safety hazard
+- No additional open hazards were discussed
+- The next step is to meet with Bixby Electric, the low bidder, and Dibble
+- Engineering to review the bid delta and project scope
+- Potential cost reductions were discussed, including removal of landscaping and
+- other scope items that may not be necessary to complete the AWOS project
 - C. Design Review Committee and Development Committee Update
-- D. Plan to prepare for Aspen closure 2027
+- D. Plan to Prepare for Aspen Closure 2027
+- additional consideration in planning for the 2027 ASE closure
 - E. 2027 Budget
+- August 11 Board of Trustees annual budget work session
+- Andrew requested informal community economic-impact information from testing
+- teams for his reference during upcoming budget discussions. Chandra will
 - A. Discussion with Dibble
+- Dibble representatives Thibault, Jared, and Travis joined the AAB for discussion
+- Discussion included the potential effect of increased airport traffic during the
+- The group also discussed evaluating and updating the Airport Master Drainage
+- Plan in 2027 as well as further conversation about “strengthening” (and not just
+- replacing) pavement ahead of the 2029 / 2030 runway & taxiway rehab projects
+- 1. Thibault requested operations analytics of annual Airplane Design Group
+- (ADG) from previous & current years to build justification of
+- additional or increased use of the runway and taxiway which could also
+- With no quorum and no formal action possible, the meeting discussion concluded at
+- The following are staff/discussion follow-ups; no formal Board action was taken due to the lack
+- Finalize the working Safety Plan for AAB consideration Chandra / Nick Sept 15 2026 – AAB Mtg
+- Carry Ted's requested July minutes revision forward for
 
 ## [buena-vista#7] 2026-08-19 | Planning and Zoning Commission - Packets | agenda
 - This Agenda may be Amended
@@ -388,14 +420,27 @@
 - better understand current and future housing needs and will inform required Housing Action
 - Bueno also discussed housing market and affordability trends, including home prices and rents
 
-## [buena-vista#17] 2026-09-15 | Airport Advisory Board | agenda
-- This Agenda may be Amended
+## [buena-vista#17] 2026-09-15 | Airport Advisory Board | minutes
 - III. Public Comment
-- V. Approval of Minutes – Ju ly 21 and August 18, 2026
-- C. Design Review Committee an d Development Committee Update
-- D. Plan to prepare for Aspen closure 2027
+- Carlin Walsh joined to continue to introduce himself and reiterate his support for the
+- Agenda presented but not approved due to lack of quorum
+- V. Approval of Minutes – July 21 and August 18, 2026
+- Minutes presented but not approved due to lack of quorum
+- Fuel tank inspection by the state identified compromised outer coating (paint)
+- Safety plan to be ready for final review in October
+- Annexation survey work is underway
+- AWOS bids were received, they were higher than expected. Dibble went back to
+- the state and requested additional funding and asked the contractors to reduce
+- pricing. The net result is a bid that is within the available funding. Agreement for
+- the contractor is moving forward
+- a. No further discussion
+- reach out informally. If other board members are available they should consider
 - E. 2027 Budget
-- A. Priority for development planning
+- A. Priority for future development
+- a. The attendees briefly discussed the two primary future development
+- opportunities and agreed to continue to consider the options and develop a plan
+- Board comments on draft safety plan Board Members ASAP
+- Board brainstorming on ASE closure Board Members ASAP
 
 ## [buena-vista#18] 2026-09-16 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
 - AMENDED AGENDA

@@ -1,20 +1,19 @@
-- title: 'Natural Resources land use code overhaul: forestry, oil and gas, deep geothermal'
-  summary: The Planning Commission took up draft Land Use Code amendments for forestry practices (including streamlined review of wildfire mitigation logging), oil and gas operations and deep geothermal operations, with recommendations on Oct 8. The County Commissioners were scheduled to hold public hearings on Resolutions 2026-40 through 2026-43 on Oct 21. Sheep Mountain Alliance commented on the forestry rules.
+- title: 'Natural resources Land Use Code rewrite: forestry, oil & gas, deep geothermal'
+  summary: The Planning Commission reviewed new Land Use Code sections on forestry practices (including logging thresholds and streamlining wildfire mitigation), oil and gas operations, and deep geothermal. The Commissioners scheduled public hearings on Resolutions 2026-40 through 2026-43 for Oct 21 to add Article 6 Natural Resources sections and related amendments. Sheep Mountain Alliance commented on the forestry item.
   where: Countywide
   refs:
   - 11
   - 12
-  - 25
   - 26
   - 29
   - 30
-  public_comment: true
   topics:
-  - Oil, gas & mining
   - Zoning & development
-  - Energy
+  - Oil, gas & mining
+  - Environment & climate
+  public_comment: true
 - title: Housing Code Update and affordable housing land use amendments
-  summary: The county is rewriting parts of its Land Use Code to make affordable and workforce housing easier to build, funded by a Proposition 123 grant. Stakeholder roundtables discussed density bonuses tied to deed-restricted housing, ADUs and streamlined review, and the Planning Commission also reviewed an Affordable Housing Qualified Developer amendment. The commissioners were asked to approve a grant amendment letter after the county's expedited adoption.
+  summary: The county is using a Proposition 123 capacity grant to remove barriers to workforce and affordable housing in unincorporated areas, with stakeholder roundtables on community housing zones, density bonuses tied to deed restrictions, and ADUs. The Planning Commission also reviewed a Qualified Developer amendment for affordable housing, and commissioners were asked to amend the Local Planning Capacity grant after adopting an expedited review.
   where: Unincorporated San Miguel County
   refs:
   - 3
@@ -26,9 +25,18 @@
   topics:
   - Housing
   - Zoning & development
+- title: Employee Housing Impact Mitigation Fee
+  summary: Commissioners discussed the county's Employee Housing Impact Mitigation Fee, which applies to new construction and additions in the unincorporated Telluride R-1 school district area. The fee was adopted in 2022 and amended in 2023, and funds housing purchases and community housing projects such as Sunnyside. Materials compare it with the Town of Telluride's gap fee.
+  where: Unincorporated county in Telluride R-1 school district
+  refs:
+  - 19
+  - 20
+  topics:
+  - Fees & rates
+  - Housing
 - title: 'Mountain Village affordable housing project: fee waiver and setback variance'
-  summary: The Town of Mountain Village is developing affordable housing on a 56.34-acre parcel in the Community Housing zone. It asked the county to waive land use application fees and for a variance cutting the setback from County Road 63L from 20 feet to 7 feet to keep housing away from the riparian corridor and wetlands. Staff recommended a five-year approval.
-  where: 'Parcel #456536200023, County Road 63L (Ilium property)'
+  summary: The Commissioners held a public hearing on waiving county land use fees for the Town of Mountain Village's affordable housing project. The Board of Adjustment considered a variance cutting the setback from County Road 63L from 20 feet to 7 feet on a 56.34-acre parcel to keep housing away from the riparian corridor and wetlands. Staff recommended a five-year approval.
+  where: 'Parcel #456536200023, County Road 63L (Ilium)'
   refs:
   - 23
   - 24
@@ -36,73 +44,64 @@
   - 32
   topics:
   - Housing
-  - Fees & rates
   - Zoning & development
-- title: Employee Housing Impact Mitigation Fee
-  summary: The commissioners discussed the county's Employee Housing Impact Mitigation Fee on new construction and additions in the Telluride R-1 school district area. Background materials compare the county's graduated rates with Telluride's gap fee of $902 per square foot and the county's use of payments to buy housing and support projects like Sunnyside.
-  where: Unincorporated county in the Telluride R-1 school district
-  refs:
-  - 19
-  - 20
-  topics:
-  - Fees & rates
-  - Housing
+  - Land & property
 - title: Natural medicine and nonconforming lots code amendments
-  summary: The Planning Commission reviewed a new Section 5-31 setting where and how natural medicine businesses may operate, including distance from daycares. It also reviewed amendments allowing certain uses on nonconforming lots, on which an attorney and Alpine representatives spoke.
+  summary: The Planning Commission reviewed a new Section 5-31 setting where and how natural medicine businesses may operate, including distance from daycares. It also took up amendments allowing uses on nonconforming lots, with attorney and consultant comment.
   where: Countywide
   refs:
+  - 2
   - 3
-  public_comment: true
   topics:
   - Zoning & development
   - Health & human services
-- title: Low water flow at Bridal Veil Falls and nesting black swifts
-  summary: Citizens raised concern that water diversion dropped flow to about 1 CFS versus a needed 6.5 CFS, affecting nesting black swifts. The Open Space Commission noted no management prescriptions exist, pointed to the Forest Service and US Fish & Wildlife as leads, and considered it resolved for now as the birds migrate.
+  public_comment: true
+- title: 2027 county budget and community support funding
+  summary: Commissioners reviewed the 2027 preliminary budget and took up 2027 Community Support Funding, including a $12,000 request from West End Family Link and the Telluride Historical Museum. The Open Space Commission also worked toward a Nov. 9 budget deadline. Commissioners also discussed a proposed state bill allowing voter-approved county excise taxes.
+  where: Countywide
+  refs:
+  - 17
+  - 18
+  - 19
+  - 23
+  - 27
+  - 29
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Lawson Hill Connector Trail construction
+  summary: Commissioners considered an agreement with Lawson Hill Property Owners Association and CDOT concurrence to award the Lawson Hill Connector Trail Project (#26003), then ratified the construction agreement.
+  where: Lawson Hill
+  refs:
+  - 23
+  - 29
+  topics:
+  - Recreation & trails
+  - Roads & traffic
+- title: Bridal Veil Falls water flow and black swifts
+  summary: Residents raised concerns that the town's diversion dropped Bridal Veil Falls flow to about 1 CFS versus a required 6.5 CFS, threatening nesting black swifts. No formal minimums exist; the Forest Service and US Fish & Wildlife were named as leads, and the issue was considered resolved for now as birds migrate.
   where: Bridal Veil Falls
   refs:
   - 5
   - 18
-  public_comment: true
   topics:
   - Water
   - Agriculture & wildlife
   - Environment & climate
-- title: Open Space Commission work plan, new manager and park projects
-  summary: The commission is hiring a new Parks and Open Space Manager and must pick 3 to 5 priority projects and cut the work plan ahead of the Nov. 9 budget deadline. Galloping Goose Park targets completion by Oct 29, and the commission wants fire mitigation and a management plan for a site seen as inaccessible.
-  where: Galloping Goose Park, Mill Creek Park and other county open space
+  public_comment: true
+- title: 'Open Space Commission: Galloping Goose Park, new manager and property plans'
+  summary: Galloping Goose Park is targeted for completion by an Oct 29 deadline, with a governor's visit for a sculpture unveiling. The commission is hiring a new Parks and Open Space Manager, and wants a short management plan, fire mitigation for dead trees, and a survey for a county property seen as inaccessible. Gunnison sage grouse work stays on the work plan.
+  where: Galloping Goose Park, Down Valley and county open space
   refs:
   - 5
   - 17
   - 18
   topics:
   - Parks & open space
-  - Budget & taxes
-- title: Lawson Hill Connector Trail
-  summary: The commissioners considered an agreement with the Lawson Hill Property Owners Association and CDOT concurrence to award the Lawson Hill Connector Trail Project (#26003). The agreement was later listed for ratification.
-  where: Lawson Hill
-  refs:
-  - 23
-  - 24
-  - 29
-  - 30
-  topics:
   - Recreation & trails
-  - Roads & traffic
-- title: 2027 county budget and community support funding
-  summary: The commissioners reviewed the 2027 preliminary budget on Oct 7 and considered 2027 Community Support Funding, including a $12,000 request from West End Family Link and the Telluride Historical Museum. The 2027 gondola cost-sharing agreement supplement was also up for approval.
-  where: Countywide
-  refs:
-  - 19
-  - 20
-  - 23
-  - 24
-  - 29
-  - 30
-  topics:
-  - Budget & taxes
-  - Transit
-- title: Telluride Pines water system grant
-  summary: The commissioners considered co-sponsoring a Colorado block grant application for Telluride Pines HOA to restore safe and reliable water.
+  - Agriculture & wildlife
+- title: Telluride Pines water system CDBG application
+  summary: Commissioners considered co-sponsoring a Colorado Community Development Block Grant application for Telluride Pines HOA to restore safe and reliable water.
   where: Telluride Pines
   refs:
   - 29
@@ -111,11 +110,19 @@
   - Water
   - Utilities
 - title: Noxious weed grant and enforcement
-  summary: A $5,800 state Noxious Weed Fund grant was received and the weed group needs guidelines on how to allocate it. A tamarisk removal along about 3 miles of Dry Creek Basin was completed, and enforcement considerations were on the agenda.
+  summary: A $5,800 Colorado Department of Agriculture Noxious Weed Fund grant is available, and staff will draft allocation options. The group also discussed landowner response and enforcement, and a completed tamarisk removal in Dry Creek Basin.
   where: Countywide
   refs:
   - 7
   - 8
   topics:
   - Agriculture & wildlife
+  - Environment & climate
+- title: Regional discussion of Southern Ute gas pipeline spill
+  summary: Five southwest counties planned an informal discussion with the Southern Ute Indian Council about a gas enterprise pipeline spill.
+  where: Southwest Colorado
+  refs:
+  - 16
+  topics:
+  - Oil, gas & mining
   - Environment & climate

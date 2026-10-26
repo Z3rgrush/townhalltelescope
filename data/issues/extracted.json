@@ -16,12 +16,12 @@
  },
  "arapahoe-county": {
   "date": "2026-10-26",
-  "hash": "a59beae2f4cee491",
+  "hash": "ba0b19fd2cc9b48a",
   "model": "claude-sonnet-5-5"
  },
  "archuleta-county": {
   "date": "2026-10-26",
-  "hash": "55f6231e1b88f7e7",
+  "hash": "3ff940f897ddbd5f",
   "model": "claude-sonnet-5-5"
  },
  "arriba": {
@@ -36,7 +36,7 @@
  },
  "aspen": {
   "date": "2026-10-26",
-  "hash": "8f6fe561f7c2d179",
+  "hash": "ccf26c6b18482bf6",
   "model": "claude-sonnet-5-5"
  },
  "aurora": {
@@ -46,7 +46,7 @@
  },
  "basalt": {
   "date": "2026-10-26",
-  "hash": "cc580337c08299f3",
+  "hash": "77d1b43a883cd9cd",
   "model": "claude-sonnet-5-5"
  },
  "berthoud": {
@@ -96,7 +96,12 @@
  },
  "buena-vista": {
   "date": "2026-10-26",
-  "hash": "29e2d637d6992f76",
+  "hash": "da89173add625be0",
+  "model": "claude-sonnet-5-5"
+ },
+ "burlington": {
+  "date": "2026-10-26",
+  "hash": "c3233c568dd08e4f",
   "model": "claude-sonnet-5-5"
  },
  "campo": {
@@ -111,7 +116,7 @@
  },
  "castle-pines": {
   "date": "2026-10-26",
-  "hash": "29a8ce92abed119b",
+  "hash": "d7297ad5d59937ae",
   "model": "claude-sonnet-5-5"
  },
  "centennial": {
@@ -126,7 +131,12 @@
  },
  "cherry-hills-village": {
   "date": "2026-10-26",
-  "hash": "4e954672f9635642",
+  "hash": "80fb72ab37df60ab",
+  "model": "claude-sonnet-5-5"
+ },
+ "cheyenne-county": {
+  "date": "2026-10-26",
+  "hash": "ea4a1159c1eeadfc",
   "model": "claude-sonnet-5-5"
  },
  "clear-creek-county": {
@@ -171,7 +181,7 @@
  },
  "dacono": {
   "date": "2026-10-26",
-  "hash": "e7566fea77b2ae30",
+  "hash": "e94f84c7461a1443",
   "model": "claude-sonnet-5-5"
  },
  "de-beque": {
@@ -211,12 +221,22 @@
  },
  "eagle": {
   "date": "2026-10-26",
-  "hash": "2d6ae41764b9d78e",
+  "hash": "114449d4558140da",
+  "model": "claude-sonnet-5-5"
+ },
+ "eagle-county": {
+  "date": "2026-10-26",
+  "hash": "f003e6074129e032",
   "model": "claude-sonnet-5-5"
  },
  "edgewater": {
   "date": "2026-10-26",
   "hash": "ccdaec4c064b3822",
+  "model": "claude-sonnet-5-5"
+ },
+ "el-paso-county": {
+  "date": "2026-10-26",
+  "hash": "0b48f27d83fb6f59",
   "model": "claude-sonnet-5-5"
  },
  "elizabeth": {
@@ -256,7 +276,7 @@
  },
  "fort-morgan": {
   "date": "2026-10-26",
-  "hash": "e6f1a25e884b1956",
+  "hash": "0f3641408dd20923",
   "model": "claude-sonnet-5-5"
  },
  "foxfield": {
@@ -284,6 +304,11 @@
   "hash": "4ab624f50c1d9d7b",
   "model": "claude-sonnet-5-5"
  },
+ "fruita": {
+  "date": "2026-10-26",
+  "hash": "e9f63751459d13f6",
+  "model": "claude-sonnet-5-5"
+ },
  "garfield-county": {
   "date": "2026-10-26",
   "hash": "411054c5e293c539",
@@ -291,7 +316,7 @@
  },
  "gilpin-county": {
   "date": "2026-10-26",
-  "hash": "b02565695b381879",
+  "hash": "e8bd1ae39f79597d",
   "model": "claude-sonnet-5-5"
  },
  "glendale": {
@@ -306,7 +331,7 @@
  },
  "golden": {
   "date": "2026-10-26",
-  "hash": "99897191d27c017c",
+  "hash": "1de15cbb3490aa08",
   "model": "claude-sonnet-5-5"
  },
  "granby": {
@@ -316,7 +341,7 @@
  },
  "grand-county": {
   "date": "2026-10-26",
-  "hash": "548b5bc57cfc7bb7",
+  "hash": "637900a7752a5904",
   "model": "claude-sonnet-5-5"
  },
  "grand-junction": {
@@ -366,7 +391,7 @@
  },
  "hudson": {
   "date": "2026-10-26",
-  "hash": "6041fc9897d63212",
+  "hash": "3685df4e8bdd4bae",
   "model": "claude-sonnet-5-5"
  },
  "huerfano-county": {
@@ -381,7 +406,7 @@
  },
  "idaho-springs": {
   "date": "2026-10-26",
-  "hash": "7515a615822456ea",
+  "hash": "c4112c2425e36629",
   "model": "claude-sonnet-5-5"
  },
  "jefferson-county": {
@@ -396,7 +421,7 @@
  },
  "kersey": {
   "date": "2026-10-26",
-  "hash": "9f89f213153dc738",
+  "hash": "8005aff00141c424",
   "model": "claude-sonnet-5-5"
  },
  "kiowa": {
@@ -426,7 +451,7 @@
  },
  "lake-county": {
   "date": "2026-10-26",
-  "hash": "0b44926dcd052779",
+  "hash": "85bb7315bfd7aebc",
   "model": "claude-sonnet-5-5"
  },
  "lakewood": {
@@ -437,6 +462,16 @@
  "limon": {
   "date": "2026-10-26",
   "hash": "782294d186f670dc",
+  "model": "claude-sonnet-5-5"
+ },
+ "littleton": {
+  "date": "2026-10-26",
+  "hash": "caaae9959b390098",
+  "model": "claude-sonnet-5-5"
+ },
+ "lone-tree": {
+  "date": "2026-10-26",
+  "hash": "c791f42cf7994df2",
   "model": "claude-sonnet-5-5"
  },
  "longmont": {
@@ -511,7 +546,7 @@
  },
  "morrison": {
   "date": "2026-10-26",
-  "hash": "cfcc9490456284a2",
+  "hash": "2c70711b9610a5af",
   "model": "claude-sonnet-5-5"
  },
  "mountain-view": {
@@ -526,7 +561,7 @@
  },
  "new-castle": {
   "date": "2026-10-26",
-  "hash": "01493276bfc59754",
+  "hash": "aaad799a47c3f575",
   "model": "claude-sonnet-5-5"
  },
  "norwood": {
@@ -561,7 +596,7 @@
  },
  "pagosa-springs": {
   "date": "2026-10-26",
-  "hash": "7068b324ed611215",
+  "hash": "b389de94dc96732b",
   "model": "claude-sonnet-5-5"
  },
  "palisade": {
@@ -576,7 +611,7 @@
  },
  "paonia": {
   "date": "2026-10-26",
-  "hash": "f369a9e0d06cdb4e",
+  "hash": "4c1890a5dfda29b7",
   "model": "claude-sonnet-5-5"
  },
  "parachute": {
@@ -641,12 +676,12 @@
  },
  "salida": {
   "date": "2026-10-26",
-  "hash": "3d75b87606ec2673",
+  "hash": "7b103f208c16a13e",
   "model": "claude-sonnet-5-5"
  },
  "san-miguel-county": {
   "date": "2026-10-26",
-  "hash": "0805e6aed6a550ac",
+  "hash": "12b9b09fadd0e2ab",
   "model": "claude-sonnet-5-5"
  },
  "severance": {
@@ -656,12 +691,12 @@
  },
  "sheridan": {
   "date": "2026-10-26",
-  "hash": "45721a440ceb03c2",
+  "hash": "f28601daabfb7f07",
   "model": "claude-sonnet-5-5"
  },
  "silt": {
   "date": "2026-10-26",
-  "hash": "a0e24be30df4eb54",
+  "hash": "2650004a73bb0582",
   "model": "claude-sonnet-5-5"
  },
  "silver-cliff": {
@@ -687,6 +722,11 @@
  "sterling": {
   "date": "2026-10-26",
   "hash": "6b5f85cd375d1007",
+  "model": "claude-sonnet-5-5"
+ },
+ "summit-county": {
+  "date": "2026-10-26",
+  "hash": "967cfcc551b24d16",
   "model": "claude-sonnet-5-5"
  },
  "superior": {
@@ -719,9 +759,19 @@
   "hash": "57856f7da91ac6d3",
   "model": "claude-sonnet-5-5"
  },
+ "weld-county": {
+  "date": "2026-10-26",
+  "hash": "a3cece539c4bc2d3",
+  "model": "claude-sonnet-5-5"
+ },
  "wellington": {
   "date": "2026-10-26",
   "hash": "472e1e93b4034094",
+  "model": "claude-sonnet-5-5"
+ },
+ "westcliffe": {
+  "date": "2026-10-26",
+  "hash": "9b2ae229fd2a83cd",
   "model": "claude-sonnet-5-5"
  },
  "westminster": {

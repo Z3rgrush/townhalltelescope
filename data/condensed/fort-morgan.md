@@ -37,7 +37,18 @@
 - 5. Public Comment / Audience Participation
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street,
 
-## [fort-morgan#2] 2026-08-18 | City Council Agendas & Minutes | minutes
+## [fort-morgan#2] 2026-08-13 | Historic Preservation Board Agendas | agenda
+- 4:00 p.m. at Historic City Hall/110 Main Street
+- Approval of Minutes – July 9, 2026 (enclosure)
+- Local Landmark status for former Fort Morgan Times Building approved at City Council meeting
+- Approval of board seats for Patti Kuretich, MaKyle Mares, Barb Keenan & Korinne Williamson
+- Public Comment/Audience Participation
+- Announcements – Advisory Council on Historic Preservation federal agency considering draft rule that would make significant changes to Section 106 of the National Historic Preservation Act – potential impact for CLGs
+- Sandy Engle, Economic Development SpecialistLoren Boyett, Councilmember
+- 110 Main Street • P O Box 100 (Mailing Address)
+- right66166900____________________________________________________________________________________________Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street, Fort Morgan, Colorado, at (970) 542-3962 or by fax at (970) 5
+
+## [fort-morgan#3] 2026-08-18 | City Council Agendas & Minutes | minutes
 - Councilmember James Parks
 - The meeting was also attended by City Manager Brent Nation, Police Chief Loren Sharp,
 - Underwood, Utility Director Doug Linton , Economic Development Specialist Sandy Schneider
@@ -68,7 +79,7 @@
 - Development Specialist Sandy Schneider-Engle, Sarah Whitney, Kelly Whitney and Rebecca
 - an executive session for the purposes stated on the agenda and discussed economic
 
-## [fort-morgan#3] 2026-08-24 | Planning Commission Agendas | agenda
+## [fort-morgan#4] 2026-08-24 | Planning Commission Agendas | agenda
 - 4:30 p.m. at City Hall – 110 Main Street
 - 2. Approve Minutes from April 13, 2026 (Enclosure)
 - 3. Public Meeting on Case 26-010 SU – 305-307 Main Street. Special Use Permit to allow a new
@@ -77,7 +88,7 @@
 - a. Development Updates
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street, Fort Morgan,
 
-## [fort-morgan#4] 2026-08-25 | Main Street Advisory Board | agenda
+## [fort-morgan#5] 2026-08-25 | Main Street Advisory Board | agenda
 - FM MAIN STREET
 - MAIN STREET LAUNCH
 - positive happenings, or news you feel this group
@@ -85,7 +96,7 @@
 - Street, Fort Morgan, Colorado, at (970) 542-3962 or by fax at (970) 542-3968. We would appreciate it if you would contact us
 - APPROVAL OF PREVIOUS MEETING
 
-## [fort-morgan#5] 2026-09-01 | City Council Agendas & Minutes | minutes
+## [fort-morgan#6] 2026-09-01 | City Council Agendas & Minutes | minutes
 - Councilmember James Parks
 - The meeting was also attended by City Manager Brent Nation, Police Chief Loren Sharp, City
 - Community Services Matt Underwood, Economic Development Specialist Sandy Schneider
@@ -121,18 +132,18 @@
 - Services, focusing on highlights and new additions to the budgets and answering council
 - Chief Loren Sharp told the Council that the Police Department is looking for a records technician
 
-## [fort-morgan#6] 2026-09-09 | Airport Advisory  Board Agendas | agenda
+## [fort-morgan#7] 2026-09-09 | Airport Advisory  Board Agendas | agenda
 - 2. Approval of Minutes – August 12, 2026 (Enclosure)
 - 3. Continued Discussion of Naming the Aircraft Parking Apron Expansion in Honor of Kyle
 - b. Project Updates
 - 5. Public Comment / Audience Participation
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street,
 
-## [fort-morgan#7] 2026-09-14 | Senior Center Advisory Board Agenda | agenda
+## [fort-morgan#8] 2026-09-14 | Senior Center Advisory Board Agenda | agenda
 - 3. Approval of July 2026 Meeting Minutes
 - i. City Projects Updates
 
-## [fort-morgan#8] 2026-09-15 | City Council Agendas & Minutes | minutes
+## [fort-morgan#9] 2026-09-15 | City Council Agendas & Minutes | minutes
 - Councilmember James Parks
 - The meeting was also attended by City Manager Brent Nation, Deputy Police Chief Steve Brown,
 - Underwood, Utility Director Doug Linton , Economic Development Specialist Sandy Schneider
@@ -164,14 +175,14 @@
 - sales tax report is presented in the packet, and the numbers are where the city was anticipating
 - BIDS, MEETINGS AND ANNOUNCEMENTS
 
-## [fort-morgan#9] 2026-09-21 | Library Advisory Board Agendas | agenda
+## [fort-morgan#10] 2026-09-21 | Library Advisory Board Agendas | agenda
 - b. City Council Liaison: James Parks - Council member
 - 3. Approval of meeting minutes of July 20th, 2026
 - b. City Council Update – James Parks
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill
 - Curtis, City Clerk, 110 Main Street, Fort Morgan, Colorado, at (970) 542-3962 or by fax at (970)
 
-## [fort-morgan#10] 2026-09-22 | Main Street Advisory Board | agenda
+## [fort-morgan#11] 2026-09-22 | Main Street Advisory Board | agenda
 - FM MAIN STREET
 - MAIN STREET OPEN HOUSE
 - positive happenings, or news you feel this group
@@ -181,7 +192,7 @@
 - Street, Fort Morgan, Colorado, at (970) 542-3962 or by fax at (970) 542-3968. We would appreciate it if you would contact us
 - APPROVAL OF PREVIOUS MEETING
 
-## [fort-morgan#11] 2026-10-06 | City Council Agendas & Minutes | minutes
+## [fort-morgan#12] 2026-10-06 | City Council Agendas & Minutes | minutes
 - Councilmember James Parks
 - The meeting was also attended by City Manager Brent Nation, Deputy Police Chief Steve Brown,
 - Development Specialist Sandy Schneider-Engle, City Attorney Nina Williams and City Clerk Jill
@@ -214,7 +225,7 @@
 - FIRST READING OF ORDINANCE AUTHORIZING CERTIFICATES OF PARTICIPATION
 - City Manager Brent Nation explained that this ordinance is necessary to obtain the funding to pay
 
-## [fort-morgan#12] 2026-10-08 | Historic Preservation Board Agendas | agenda
+## [fort-morgan#13] 2026-10-08 | Historic Preservation Board Agendas | agenda
 - 4:00 p.m. at Historic City Hall/110 Main Street
 - 2. Approval of Minutes – August 13, 2026 (enclosure)
 - 4. Public Comment/Audience Participation
@@ -225,7 +236,7 @@
 - _______________Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill
 - Curtis, City Clerk, 110 Main Street, Fort Morgan, Colorado, at (970) 542-3962 or by fax at (970) 542-3968. We would
 
-## [fort-morgan#13] 2026-10-14 | Airport Advisory  Board Agendas | agenda
+## [fort-morgan#14] 2026-10-14 | Airport Advisory  Board Agendas | agenda
 - 2. Approval of Minutes – September 9, 2026 (Enclosure)
 - 3. Continued Discussion of Naming the Aircraft Parking Apron Expansion in Honor of Kyle
 - 4. Obstruction Light Project Update
@@ -233,11 +244,11 @@
 - 6. Public Comment / Audience Participation
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street,
 
-## [fort-morgan#14] 2026-10-15 | Golf Course Advisory Board Agendas | agenda
+## [fort-morgan#15] 2026-10-15 | Golf Course Advisory Board Agendas | agenda
 - 3. Approval Minutes
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street, Fort Morgan, Colorado, at
 
-## [fort-morgan#15] 2026-10-20 | City Council Agendas & Minutes | agenda
+## [fort-morgan#16] 2026-10-20 | City Council Agendas & Minutes | agenda
 - 110 MAIN STREET
 - (Public comments are limited to three minutes per speaker. Speakers must sign in on the sheet
 - this meeting in response to public comments.)

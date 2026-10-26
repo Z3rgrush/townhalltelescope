@@ -1,70 +1,107 @@
-- title: Citizen-initiated charter amendment requiring voter approval of annexations
-  summary: A citizen-initiated amendment to the Home Rule Charter would require voter approval for certain large annexations. Council set the ballot title and placed it on the ballot (Resolution 26-50 and 26-51), and on Aug. 25 considered Resolution 26-53 expressing the city's opposition to the measure. The Chamber of Commerce also spoke against the measure.
+- title: Annexation Policy and charter amendment requiring voter approval for annexations
+  summary: Council adopted an Annexation Policy (Resolution 26-49) on Aug. 25 after continuing it from Aug. 11, with a minor wording addition. It also passed Resolution 26-53 opposing a citizen-initiated charter amendment on the ballot that would require voter approval for certain large annexations. The Chamber of Commerce spoke against the ballot measure, and a resident asked for a timeline of public meetings in the annexation process.
   where: Citywide
   refs:
-  - 1
-  - 3
-  public_comment: true
+  - 2
+  - 4
   topics:
   - Annexation
   - Elections
-- title: City Annexation Policy (Resolution 26-49)
-  summary: Council took up a new Annexation Policy on Aug. 11, continued it, then moved to approve it on Aug. 25 with a minor three-word addition. A speaker asked for a timeline of public meetings in the annexation process.
-  where: Citywide
-  refs:
-  - 1
-  - 3
-  public_comment: true
-  topics:
-  - Annexation
-  - Government operations
-- title: Site Improvement Plan zoning amendment (Ordinance 26-06)
-  summary: Council amended Section 27 (Site Improvement Plan) of the zoning ordinance, with first reading Aug. 11 and a public hearing and second reading Aug. 25. A speaker asked that comprehensive plan elements be left out of the process and for a more holistic review and an amendment, while another said it provides a clear and predictable process. A motion to adopt was made.
-  where: Citywide
-  refs:
-  - 1
-  - 3
-  public_comment: true
-  topics:
-  - Zoning & development
-- title: Coffee shop location on Castle Pines Parkway
-  summary: A resident said at public comment on July 28 that she does not support the coffee shop's location on Castle Pines Parkway and wants the roadway opened.
-  where: Castle Pines Parkway
-  refs:
-  - 0
-  public_comment: true
-  topics:
-  - Roads & traffic
-  - Downtown & business
-- title: Replats of Castle Pines North and Romar West filings
-  summary: On July 28 council approved a series of replat resolutions (26-42 to 26-47), including Romar West 3rd Amendment, Castle Pines North Filings 27, 17A, 30 and 16, as part of a single motion.
-  where: Castle Pines North
-  refs:
-  - 0
-  topics:
   - Land & property
-  - Zoning & development
-- title: 'Parks projects: Coyote Ridge Park renovation and Soaring Hawk Park Phase 1'
-  summary: The Parks and Recreation Advisory Board received updates on the Coyote Ridge Park renovation and Soaring Hawk Park Phase 1, and discussed trail signage and markers. On Aug. 25 council also awarded a construction contract for a parks project (Project No. 2026-PR-003, Resolution 26-52).
-  where: Coyote Ridge Park and Soaring Hawk Park
+  public_comment: true
+- title: Site Improvement Plan zoning amendment (Ordinance 26-06)
+  summary: Council amended Section 27 (Site Improvement Plan) of the zoning ordinance, with first reading Aug. 11 and a public hearing and second reading Aug. 25. A speaker said comprehensive plan elements should be left in and asked for a holistic review and an amendment, while another supported the ordinance as clear and predictable.
+  where: Citywide
   refs:
   - 2
+  - 4
+  topics:
+  - Zoning & development
+  public_comment: true
+- title: Happy Canyon Road/I-25 interchange funding and engineering
+  summary: 'Council took up several agreements for the Happy Canyon interchange project: an amendment to the CDOT design-phase funding IGA, an IGA with Douglas County, a first amendment to the Alfred Benesch engineering agreement, a Benesch construction-management agreement for Phase 1, and a Stanton constructability and cost-estimating amendment.'
+  where: Happy Canyon Road/I-25 interchange
+  refs:
+  - 6
+  - 7
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+- title: 2027 city budget and strategic projects
+  summary: Council discussed 2027-2029 strategic projects in August, and the City Manager presented the proposed 2027 budget on Oct. 20. It includes a Road Solutions Plan, Spring Tributary stormwater work at Lagae Road, an open-air pavilion, a second parks foreman, a Trails Master Plan update, and lodging and admissions tax research. Projections assume 104 new home permits, a 36% drop in construction use tax in 2027, and a 28% decrease in some development revenue from 2026.
+  where: Citywide
+  refs:
+  - 1
+  - 9
+  topics:
+  - Budget & taxes
+  - Roads & traffic
+  - Economic development
+- title: Transfer of recreation properties between the City and Castle Pines North Metro District
+  summary: Ordinances 26-08 and 26-09 convey recreation properties from the metro district to the city and certain tracts of land to Castle Pines North Metropolitan District under an existing intergovernmental agreement. They had first reading Sept. 22 and public hearings on second reading Oct. 13.
+  where: Castle Pines North
+  refs:
+  - 6
+  - 7
+  topics:
+  - Land & property
+  - Parks & open space
+- title: Soaring Hawk Park phasing and park and trail projects
+  summary: The Parks and Recreation Advisory Board discussed Soaring Hawk Park Phase 1 and its phasing from August through October, plus a Coyote Ridge Park renovation update. Staff also proposed trail signage across 35 trail segments, including kiosks, directional signs and mile markers, with three options weighing budget and look and feel.
+  where: Soaring Hawk Park, Coyote Ridge Park and city trails
+  refs:
   - 3
+  - 5
+  - 8
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Economic Development Strategic Plan
-  summary: The Economic Development Strategic Plan came before council on Aug. 25, with the Chamber of Commerce speaking in favor of its approval.
+- title: Canyonside Preliminary Plan amendment
+  summary: Council held a public hearing on Resolution 26-62 approving the Canyonside Preliminary Plan No. 1, 2nd Amendment (case PFP-2026-001), with staff and applicant presentations.
+  where: Canyonside
+  refs:
+  - 7
+  topics:
+  - Zoning & development
+  - Housing
+- title: Expedited review for affordable housing (Proposition 123)
+  summary: Council considered Resolution 26-63 adopting an expedited review process for qualified affordable housing developments as part of the city's Proposition 123 commitment.
   where: Citywide
   refs:
-  - 3
+  - 7
+  topics:
+  - Housing
+  - Zoning & development
+- title: Campaign finance ordinance (Ordinance 26-07)
+  summary: Council reviewed Ordinance 26-07 amending Article 1 of Chapter 2 of the municipal code on campaign finance, with a study session overview and first reading on Sept. 22.
+  where: Citywide
+  refs:
+  - 6
+  topics:
+  - Elections
+  - Ethics & transparency
+- title: Council redistricting (Ordinance 26-10)
+  summary: Council considered an ordinance amending the boundaries of the city's three districts.
+  where: Citywide
+  refs:
+  - 7
+  topics:
+  - Elections
+  - Government operations
+- title: Coffee shop location and Castle Pines Parkway
+  summary: A resident said she opposes the location of a coffee shop on Castle Pines Parkway and wants the roadway opened.
+  where: Castle Pines Parkway
+  refs:
+  - 0
+  topics:
+  - Zoning & development
+  - Roads & traffic
   public_comment: true
-  topics:
-  - Economic development
-- title: 2025 audited financial statements
-  summary: Finance Director Mike Farina presented the city's 2025 audited financial statements to council on Aug. 11.
+- title: Snow removal contract with Designscapes
+  summary: Council considered Resolution 26-55 approving a professional services agreement with Designscapes for 2026-2027 snow removal, with an updated bid schedule.
   where: Citywide
   refs:
-  - 1
+  - 6
   topics:
-  - Budget & taxes
+  - Roads & traffic
+  - Utilities

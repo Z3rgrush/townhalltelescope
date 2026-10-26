@@ -1032,3 +1032,8 @@
 ## [paonia#36] 2026-10-21 | Town Board | agenda
 - Town Board Budget Work Session Agenda
 - A) Budget Work Session
+
+## [paonia#37] 2026-10-26 | Special Board Meeting | agenda
+- II. Approval of the Agenda
+- Executive Session, under C.R.S. Section 24-6-402(4)(b), for a conference with the Water
+- regarding the Town’s water rights

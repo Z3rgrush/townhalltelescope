@@ -160,30 +160,17 @@
 - Park, Into One (1) Lot, Owned By The Charles and Cynthia Jackson Living Trust
 
 ## [archuleta-county#9] 2026-10-20 | City Council | agenda
-- The Agenda as shown includes topics to be discussed by the Board of County Commissioners and
-- consideration of the Board. The topics shown are subject to change without notice. Be advised that
-- the Board may also discuss any topic relevant to conducting County business. No decisions are
-- made at Work Sessions. All documents and items discussed are Work Product
-- 1. Presentation for CDAP Ranking and Finalization – Laura Lewis Marchino
-- 2. Lodgers Group Presentation – Jesse Hensle
-- 5. Comprehensive Plan Update – Eva Kruse
-- 7. Budget to Actual Update – Chad Eaton
-- located at 398 Lewis Street
-- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
-- continue in person regardless of the County’s broadcast capability
-
-## [archuleta-county#10] 2026-10-20 | City Council | agenda
 - NEW APPLICATION/TRANSFER OF OWNERSHIP/RENEWAL/
 - ertify that the above establishment, which is in possession of a liquor license,
 - 85 Harman Park Drive / P.O. Box 638
 
-## [archuleta-county#11] 2026-10-20 | City Council | agenda
+## [archuleta-county#10] 2026-10-20 | City Council | agenda
 - SHERIFF’S SPECIAL EVENTS PERMIT
 - Hearing Date:
 - o certify that the above establishment, which has applied for a special event liquor
 - 85 Harman Park Dr. / P.O. Box 638
 
-## [archuleta-county#12] 2026-10-21 | City Council | minutes
+## [archuleta-county#11] 2026-10-21 | City Council | minutes
 - Motions and decisions (approved)
 - McMeens, approved by voice vote
 - Plan: one for front entrance and one for rodeos/office to reduce back-and-forth
@@ -214,7 +201,7 @@
 - Monitor special contractual services estimates vs. budget (about $58.5k budget; about $57.1k
 - Review Beer Garden instructions/applications and send edits
 
-## [archuleta-county#13] 2026-10-22 | City Council | minutes
+## [archuleta-county#12] 2026-10-22 | City Council | minutes
 - Archuleta County Development Services Department
 - Commissioners Meeting Room, 398 Lewis Street, Pagosa Springs, Colorado. Chair Nobles called the meeting to order at 6:00
 - Cathleen Giovannini, County Attorney; Longinos Gonzalez, Jr.; Eva Kruse , Director of Development; Mark Olguin, Land Use
@@ -242,3 +229,42 @@
 - Chair Nobles closed the floor for Public Comment
 - B. PLN-REZ-26-050 Cloman Blvd – Administrative Rezoning
 - Development Director Eva Kruse presented the staff report for this project
+
+## [archuleta-county#13] 2026-10-26 | City Council | agenda
+- The Agenda as shown includes topics to be discussed by the Board of County Commissioners and
+- consideration of the Board. The topics shown are subject to change without notice. Be advised that
+- the Board may also discuss any topic relevant to conducting County business. No decisions are
+- made at Work Sessions. All documents and items discussed are Work Product
+- 1. Presentation for CDAP Ranking and Finalization – Laura Lewis Marchino
+- 2. Lodgers Group Presentation – Jesse Hensle
+- 5. Comprehensive Plan Update – Eva Kruse
+- 7. Budget to Actual Update – Chad Eaton
+- located at 398 Lewis Street
+- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
+- continue in person regardless of the County’s broadcast capability
+
+## [archuleta-county#14] 2026-10-26 | City Council | agenda
+- Archuleta County Development Services Department
+- County Commissioners Meeting Room, 398 Lewis Street
+- Approval and/or Adjustments to Agenda
+- Public Comments
+- Consideration and Designation of the Chair and Vice-Chair of Archuleta County Planning
+- PLN-CUP-26-061, 78 W Golf Place, Conditional Use Permit – Bed & Breakfast
+- The applicant has applied for Approval of PLN-CUP-26-061, a Conditional Use Permit (CUP), to operate a
+- PLN-REZ-26-071, Brock Rezone
+- The applicant has requested that the property located at 760 River Forrest Drive be rezoned from
+- located at 398 Lewis Street
+- or online broadcasting. Remote attendance is at the risk of the attendee as public meetings will
+- continue in person regardless of the County’s broadcast capability
+- PLN-BCUP-26-039, Cerulean Skies, Board Conditional Use Permit
+- Monica and Kevin O’Brien, owners of Cerulean Skies Ranch, request approval of a Board Conditional Use
+- Permit to allow a small-scale agritourism campground at their full-time residence and ranch located at
+- HRGreen Comprehensive Plan Update
+- Comprehensive Plan Update: Water Supply and Strategic Growth Element Progress Report
+- Archuleta CP Ch 3 Strategic Growth ONLY 2026 10 05 JCF
+- Archuleta CP Ch 6 Water Supply ONLY 2026 10 05 JCF
+
+## [archuleta-county#15] 2026-10-26 | City Council | agenda
+- Public comment and agenda comment item sign-up sheets are available at the meeting
+- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
+- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast

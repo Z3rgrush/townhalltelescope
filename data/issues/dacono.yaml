@@ -1,112 +1,116 @@
-- title: Emergency moratorium on data centers (Ordinance 1023)
-  summary: On Aug. 24, 2026 City Council considered Ordinance 1023, an emergency ordinance imposing a temporary moratorium on building permits, special use permits, business licenses and land use applications for any business that includes a data center. The documents do not state the outcome.
+- title: Emergency data center moratorium (Ordinance 1023)
+  summary: On Aug. 24 the City Council considered Ordinance 1023, an emergency ordinance imposing a temporary moratorium on building permits, special use permits, business licenses and land use applications for any business that includes a data center.
   where: Citywide
   refs:
   - 3
-  tags:
-  - data-center
   topics:
   - Data centers
   - Zoning & development
-- title: Police Advisory Board complaint and process overhaul (Ordinance 1024)
-  summary: The Police Advisory Board reviewed an investigation into a complaint filed July 28, 2026 and discussed a proposed ordinance to revise its process and police policy. Council took up Ordinance 1024, rewriting Municipal Code Section 2-75 on the board, on first reading Aug. 24, with a public hearing set for Sept. 14.
+  tags:
+  - data-center
+- title: Police Advisory Board complaint investigation and process rewrite (Ordinance 1024)
+  summary: The Police Advisory Board took up a complaint filed July 28, 2026 and reviewed an investigation, while a proposed ordinance would repeal and reenact Municipal Code Section 2-75 on the board's process. Council had first reading Aug. 24 and a public hearing set for Sept. 14.
   where: Citywide
   refs:
   - 0
   - 3
   - 6
-  - 7
-  - 13
+  - 8
+  - 14
   topics:
   - Policing & public safety
   - Government operations
-- title: Strata Dacono Subdivision Filing No. 3 plat and development plan
-  summary: Planning and Zoning recommended on Aug. 25 a preliminary plat and preliminary development plan for Strata Dacono Subdivision Filing No. 3 (PC Resolution 26-09). Council held a public hearing on Resolution 26-51 to approve it on Sept. 14.
-  where: Strata Dacono Subdivision
-  refs:
-  - 4
-  - 7
-  topics:
-  - Zoning & development
-  - Housing
-- title: Northern Lot CNS annexation and zoning
-  summary: Council considered Resolution 26-53 finding substantial compliance for the Northern Lot CNS annexation petition and setting a public hearing. Planning and Zoning then scheduled a hearing on initial zoning of the property (PC Resolution 26-10) for Oct. 13.
+- title: Northern Lot CNS Annexation
+  summary: The city is moving a petition to annex the Northern Lot CNS property. Council found substantial compliance Sept. 14, Planning Commission reviewed initial zoning Oct. 13, and council considered eligibility and first reading of annexation and zoning ordinances 1026 and 1027 on Oct. 26.
   where: Northern Lot CNS property
   refs:
-  - 7
-  - 15
+  - 8
+  - 16
+  - 18
   topics:
   - Annexation
   - Zoning & development
-- title: 2027 budget
-  summary: Council discussed the 2027 budget on Oct. 7 and on Oct. 12 acknowledged receipt of the draft 2027 budget and set its public hearing. The Urban Renewal Authority also set its own 2027 budget hearing date.
+- title: Water supply master plan, efficiency plan and water purchases
+  summary: Council saw a Water Supply Master Plan and Water Efficiency Plan presentation, held a closed session on water supply and a possible land purchase, adopted the 2026 Water Efficiency Plan via Resolution 26-58, and considered a water dedication agreement for Strata Filing 2. Council also toured United Water and Sanitation District.
   where: Citywide
   refs:
-  - 11
+  - 3
+  - 15
+  - 17
+  - 18
+  topics:
+  - Water
+  - Utilities
+- title: 2027 budget
+  summary: Council discussed the 2027 budget Oct. 7, received the draft 2027 budget Oct. 12 and set a public hearing. The Urban Renewal Authority also set its own 2027 budget hearing date.
+  where: Citywide
+  refs:
+  - 10
   - 12
-  - 14
+  - 13
+  - 15
   topics:
   - Budget & taxes
 - title: City Center Park design and urban renewal funding
-  summary: The Urban Renewal Authority heard a City Center Park presentation from Wenk Associates and considered an amendment to Wenk's design services agreement. It also took up a third amendment to the reimbursement agreement with the City for capital projects, which Council also considered Oct. 12. An earlier URAD item on Sept. 2 concerned a construction and reimbursement agreement.
-  where: City Center, Dacono
+  summary: The Urban Renewal Authority heard a City Center Park presentation, amended its design services agreement with Wenk Associates, and approved a third amendment to the reimbursement agreement with the city for capital projects. Council approved the matching Resolution 26-55.
+  where: City Center
   refs:
-  - 5
-  - 12
-  - 14
+  - 13
+  - 15
   topics:
   - Parks & open space
-  - Economic development
+  - Downtown & business
   - Budget & taxes
-- title: Water Supply Master Plan and Water Efficiency Plan
-  summary: Council received a Water Supply Master Plan and Water Efficiency Plan presentation on Aug. 24 and considered adopting the 2026 Water Efficiency Plan (Resolution 26-58) on Oct. 12. A closed session also covered the city's water supply and a potential land purchase.
-  where: Citywide
+- title: Sales tax credit for property at Colorado Boulevard
+  summary: Ordinance 1025 would provide a sales tax credit for taxable transactions at a property on Colorado Boulevard. First reading was considered Sept. 28 and again Oct. 26 with an agreement attached.
+  where: Colorado Boulevard
   refs:
-  - 3
-  - 14
+  - 11
+  - 18
   topics:
-  - Water
-  - Land & property
-- title: 'QuikTrip #4224 development agreements'
-  summary: 'Council considered Resolution 26-50 approving a subdivision improvement agreement and master development agreement for the QuikTrip #4224 development.'
-  where: 'QuikTrip #4224 site'
+  - Budget & taxes
+  - Economic development
+- title: Strata Dacono Subdivision Filing No. 3
+  summary: The Planning Commission recommended and council considered a preliminary plat and development plan for Strata Dacono Filing No. 3 (Resolution 26-51).
+  where: Strata Dacono
   refs:
-  - 7
+  - 4
+  - 8
   topics:
   - Zoning & development
-  - Economic development
-- title: Repeated extensions for subdivision conditions (Ridge Lands, Sendero)
-  summary: 'Council repeatedly weighed extending deadlines for meeting approval conditions: a fourth extension for Ridge Lands Filing No. 1, an extension for Sendero Filing Nos. 1A and others, and a third extension for Ridge Lands Filing 2.'
+  - Housing
+- title: 'QuikTrip #4224 development agreements'
+  summary: 'Council considered a subdivision improvement agreement and master development agreement for the QuikTrip #4224 development. Council also took up a right-of-way deed and construction easement for roadway improvements at Colorado Boulevard and 6th Street.'
+  where: Colorado Boulevard and 6th Street
+  refs:
+  - 8
+  - 11
+  topics:
+  - Zoning & development
+  - Roads & traffic
+- title: Silver Peaks Warehouse site plan
+  summary: The Planning Commission held a public hearing on a site plan and industrial use application for the Silver Peaks Warehouse.
+  refs:
+  - 16
+  topics:
+  - Zoning & development
+- title: Impact fees and PUD ordinance discussions
+  summary: Council held staff discussions on impact fees on Oct. 26 and a planned unit development (PUD) ordinance on Sept. 28. A Sept. 26 retreat covered budget, capital planning, land use and economic development.
+  where: Citywide
+  refs:
+  - 10
+  - 11
+  - 18
+  topics:
+  - Fees & rates
+  - Zoning & development
+- title: Extensions for Ridge Lands and Sendero subdivision conditions
+  summary: Council granted or considered repeated extensions of deadlines for conditions of approval for Ridge Lands Filings 1 and 2 and Sendero Filings 1A and following.
   where: Ridge Lands and Sendero subdivisions
   refs:
   - 3
-  - 7
-  - 10
-  - 14
-  topics:
-  - Zoning & development
-- title: Sales tax credit ordinance (Ordinance 1025) and Colorado Blvd. and 6th Street improvements
-  summary: Council took up Ordinance 1025 on first reading, creating a sales tax credit for taxable transactions on a property at a Colorado Boulevard location. It also considered accepting right-of-way and a temporary construction easement at Colorado Boulevard and 6th Street for city roadway improvements.
-  where: Colorado Boulevard and 6th Street
-  refs:
-  - 10
-  topics:
-  - Budget & taxes
-  - Roads & traffic
-  - Economic development
-- title: Silver Peaks Warehouse site plan
-  summary: Planning and Zoning scheduled a public hearing on a site plan and industrial use application for the Silver Peaks Warehouse on Oct. 13.
-  refs:
+  - 8
+  - 11
   - 15
   topics:
-  - Zoning & development
-  - Economic development
-- title: Sharpe Towne Center and Dacono Village easements
-  summary: Council considered a construction and reimbursement agreement for Sharpe Towne Center and a temporary construction and water line easement with Dacono Village, LLC.
-  where: Sharpe Towne Center / Dacono Village
-  refs:
-  - 3
-  topics:
-  - Land & property
-  - Water
   - Zoning & development

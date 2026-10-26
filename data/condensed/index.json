@@ -690,25 +690,25 @@
  "arapahoe-county#33": {
   "date": "2026-10-12",
   "body": "Board of County Commissioners Study Session",
-  "kind": "agenda",
-  "title": "Board of County Commissioners Study Session agenda",
-  "url": "https://arapahoe.legistar1.com/arapahoe/meetings/2026/10/3037_A_Board_of_County_Commissioners_Study_Session_26-10-12_Agenda_%28Study_Session%29.pdf",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Study Session minutes",
+  "url": "https://arapahoe.legistar1.com/arapahoe/meetings/2026/10/3037_M_Board_of_County_Commissioners_Study_Session_26-10-12_Meeting_Minute_Summaries_%28Study_Session%29.pdf",
   "public_url": "https://arapahoe.legistar.com/MeetingDetail.aspx?LEGID=3037&GID=826&G=9CD90149-B010-432C-9FC8-7BF802574B0E"
  },
  "arapahoe-county#34": {
   "date": "2026-10-13",
   "body": "Board of County Commissioners Business Meeting",
-  "kind": "agenda",
-  "title": "Board of County Commissioners Business Meeting agenda",
-  "url": "https://arapahoe.legistar1.com/arapahoe/meetings/2026/10/3038_A_Board_of_County_Commissioners_Business_Meeting_26-10-13_Agenda_%28Business_Meeting%29.pdf",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Business Meeting minutes",
+  "url": "https://arapahoe.legistar1.com/arapahoe/meetings/2026/10/3038_M_Board_of_County_Commissioners_Business_Meeting_26-10-13_Meeting_Minute_Summaries_%28Business_Meeting%29.pdf",
   "public_url": "https://arapahoe.legistar.com/MeetingDetail.aspx?LEGID=3038&GID=826&G=9CD90149-B010-432C-9FC8-7BF802574B0E"
  },
  "arapahoe-county#35": {
   "date": "2026-10-13",
   "body": "Board of County Commissioners Study Session",
-  "kind": "agenda",
-  "title": "Board of County Commissioners Study Session agenda",
-  "url": "https://arapahoe.legistar1.com/arapahoe/meetings/2026/10/3039_A_Board_of_County_Commissioners_Study_Session_26-10-13_Agenda_%28Study_Session%29.pdf",
+  "kind": "minutes",
+  "title": "Board of County Commissioners Study Session minutes",
+  "url": "https://arapahoe.legistar1.com/arapahoe/meetings/2026/10/3039_M_Board_of_County_Commissioners_Study_Session_26-10-13_Meeting_Minute_Summaries_%28Study_Session%29.pdf",
   "public_url": "https://arapahoe.legistar.com/MeetingDetail.aspx?LEGID=3039&GID=826&G=9CD90149-B010-432C-9FC8-7BF802574B0E"
  },
  "arapahoe-county#36": {
@@ -827,19 +827,11 @@
   "date": "2026-10-20",
   "body": "City Council",
   "kind": "agenda",
-  "title": "Board of County Commissioner Work Sessions - Download Agenda",
-  "url": "https://www.archuletacounty.gov/wp-content/uploads/Agenda-21.pdf",
-  "public_url": null
- },
- "archuleta-county#10": {
-  "date": "2026-10-20",
-  "body": "City Council",
-  "kind": "agenda",
   "title": "Online Agenda - BoCC Packet \u2013 Aspen Springs Bar and Grill",
   "url": "https://www.archuletacounty.gov/wp-content/uploads/BoCC-Packet-Aspen-Springs-Bar-and-Grill.pdf",
   "public_url": null
  },
- "archuleta-county#11": {
+ "archuleta-county#10": {
   "date": "2026-10-20",
   "body": "City Council",
   "kind": "agenda",
@@ -847,7 +839,7 @@
   "url": "https://www.archuletacounty.gov/wp-content/uploads/BoCC-Packet-Our-Savior-Lutheran-School.pdf",
   "public_url": null
  },
- "archuleta-county#12": {
+ "archuleta-county#11": {
   "date": "2026-10-21",
   "body": "City Council",
   "kind": "minutes",
@@ -855,12 +847,36 @@
   "url": "https://www.archuletacounty.gov/wp-content/uploads/February-Meeting-Minutes.docx-UA.pdf",
   "public_url": null
  },
- "archuleta-county#13": {
+ "archuleta-county#12": {
   "date": "2026-10-22",
   "body": "City Council",
   "kind": "minutes",
   "title": "Planning Commission - Minutes",
   "url": "https://www.archuletacounty.gov/wp-content/uploads/Meeting-Minutes-26.08.13-UA.pdf",
+  "public_url": null
+ },
+ "archuleta-county#13": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Board of County Commissioner Work Sessions - Download Agenda",
+  "url": "https://www.archuletacounty.gov/wp-content/uploads/Agenda-21.pdf",
+  "public_url": null
+ },
+ "archuleta-county#14": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "October - Download Agenda",
+  "url": "https://www.archuletacounty.gov/wp-content/uploads/Agenda-26.pdf",
+  "public_url": null
+ },
+ "archuleta-county#15": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Joint Work Session of the Board of County Commissioners and Pagosa Springs Town Council - https://www.archuletacounty.gov/wp-content/uploads/Joint-Town-County-Work-Session_Agenda_Preview.pdf Download ",
+  "url": "https://www.archuletacounty.gov/wp-content/uploads/Joint-Town-County-Work-Session_Agenda_Preview.pdf",
   "public_url": null
  },
  "arriba#0": {
@@ -1439,6 +1455,22 @@
   "url": "https://s3.amazonaws.com/granicus_production_attachments/cityofaspen/542f59f15d1dcd66521f26b4019e85d40.pdf",
   "public_url": null
  },
+ "aspen#32": {
+  "date": "2026-10-26",
+  "body": "INFORMATION UPDATE",
+  "kind": "agenda",
+  "title": "INFORMATION UPDATE 2026-10-26",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/cityofaspen/a3ada8870347a26cc4c53a5460bb85410.pdf",
+  "public_url": null
+ },
+ "aspen#33": {
+  "date": "2026-10-26",
+  "body": "CITY COUNCIL WORK SESSION",
+  "kind": "agenda",
+  "title": "CITY COUNCIL WORK SESSION 2026-10-26",
+  "url": "https://s3.amazonaws.com/granicus_production_attachments/cityofaspen/d3277e5202211020071281b832c464980.pdf",
+  "public_url": null
+ },
  "aurora#0": {
   "date": "2026-08-10",
   "body": "City Council",
@@ -1568,6 +1600,14 @@
   "public_url": null
  },
  "basalt#7": {
+  "date": "2026-08-20",
+  "body": "Town Council",
+  "kind": "agenda",
+  "title": "Aug 20, 2026 \u2014\u2009Posted Aug 18, 2026 9:42 AM WORKSESSION - Basalt Council - 08/20/2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_08202026-1911",
+  "public_url": null
+ },
+ "basalt#8": {
   "date": "2026-08-25",
   "body": "Town Council",
   "kind": "minutes",
@@ -1575,7 +1615,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Minutes/_08252026-1912",
   "public_url": null
  },
- "basalt#8": {
+ "basalt#9": {
   "date": "2026-08-27",
   "body": "BACH",
   "kind": "agenda",
@@ -1583,7 +1623,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_08272026-1913",
   "public_url": null
  },
- "basalt#9": {
+ "basalt#10": {
   "date": "2026-09-01",
   "body": "P & Z",
   "kind": "agenda",
@@ -1591,7 +1631,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09012026-1917",
   "public_url": null
  },
- "basalt#10": {
+ "basalt#11": {
   "date": "2026-09-03",
   "body": "BPAC",
   "kind": "agenda",
@@ -1599,7 +1639,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09032026-1914",
   "public_url": null
  },
- "basalt#11": {
+ "basalt#12": {
   "date": "2026-09-08",
   "body": "Town Council",
   "kind": "minutes",
@@ -1607,7 +1647,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Minutes/_09082026-1922",
   "public_url": null
  },
- "basalt#12": {
+ "basalt#13": {
   "date": "2026-09-09",
   "body": "POST",
   "kind": "agenda",
@@ -1615,7 +1655,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09092026-1918",
   "public_url": null
  },
- "basalt#13": {
+ "basalt#14": {
   "date": "2026-09-10",
   "body": "BACH",
   "kind": "agenda",
@@ -1623,7 +1663,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09102026-1919",
   "public_url": null
  },
- "basalt#14": {
+ "basalt#15": {
   "date": "2026-09-14",
   "body": "Green Team",
   "kind": "agenda",
@@ -1631,7 +1671,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09142026-1925",
   "public_url": null
  },
- "basalt#15": {
+ "basalt#16": {
   "date": "2026-09-15",
   "body": "P & Z",
   "kind": "agenda",
@@ -1639,7 +1679,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09152026-1926",
   "public_url": null
  },
- "basalt#16": {
+ "basalt#17": {
   "date": "2026-09-16",
   "body": "Finance Committee",
   "kind": "agenda",
@@ -1647,7 +1687,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09162026-1924",
   "public_url": null
  },
- "basalt#17": {
+ "basalt#18": {
   "date": "2026-09-17",
   "body": "Town Council",
   "kind": "agenda",
@@ -1655,7 +1695,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09172026-1923",
   "public_url": null
  },
- "basalt#18": {
+ "basalt#19": {
   "date": "2026-09-22",
   "body": "Town Council",
   "kind": "agenda",
@@ -1663,7 +1703,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09222026-1927",
   "public_url": null
  },
- "basalt#19": {
+ "basalt#20": {
   "date": "2026-09-23",
   "body": "POST",
   "kind": "agenda",
@@ -1671,7 +1711,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09232026-1929",
   "public_url": null
  },
- "basalt#20": {
+ "basalt#21": {
   "date": "2026-09-24",
   "body": "BACH",
   "kind": "agenda",
@@ -1679,7 +1719,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_09242026-1928",
   "public_url": null
  },
- "basalt#22": {
+ "basalt#23": {
   "date": "2026-10-06",
   "body": "P & Z",
   "kind": "agenda",
@@ -1687,7 +1727,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_10062026-1932",
   "public_url": null
  },
- "basalt#23": {
+ "basalt#24": {
   "date": "2026-10-08",
   "body": "BACH",
   "kind": "agenda",
@@ -1695,7 +1735,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_10082026-1931",
   "public_url": null
  },
- "basalt#24": {
+ "basalt#25": {
   "date": "2026-10-12",
   "body": "Green Team",
   "kind": "agenda",
@@ -1703,7 +1743,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_10122026-1933",
   "public_url": null
  },
- "basalt#25": {
+ "basalt#26": {
   "date": "2026-10-14",
   "body": "POST",
   "kind": "agenda",
@@ -1711,7 +1751,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_10142026-1934",
   "public_url": null
  },
- "basalt#27": {
+ "basalt#28": {
   "date": "2026-10-20",
   "body": "P & Z",
   "kind": "agenda",
@@ -1719,7 +1759,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_10202026-1940",
   "public_url": null
  },
- "basalt#28": {
+ "basalt#29": {
   "date": "2026-10-22",
   "body": "BACH",
   "kind": "agenda",
@@ -1727,7 +1767,7 @@
   "url": "https://www.basalt.net/AgendaCenter/ViewFile/Agenda/_10222026-1938",
   "public_url": null
  },
- "basalt#29": {
+ "basalt#30": {
   "date": "2026-10-22",
   "body": "Town Council",
   "kind": "agenda",
@@ -3314,9 +3354,9 @@
  "buena-vista#6": {
   "date": "2026-08-18",
   "body": "Airport Advisory Board",
-  "kind": "agenda",
+  "kind": "minutes",
   "title": "Aug 18, 2026 \u2014\u2009Posted Aug 18, 2026 8:51 AM Airport Agenda 08-18-2026 (PDF) Download\u00a0\u25bc Agenda",
-  "url": "http://www.buenavistaco.gov/AgendaCenter/ViewFile/Agenda/_08182026-2189",
+  "url": "http://www.buenavistaco.gov/AgendaCenter/ViewFile/Minutes/_08182026-2189",
   "public_url": null
  },
  "buena-vista#7": {
@@ -3402,9 +3442,9 @@
  "buena-vista#17": {
   "date": "2026-09-15",
   "body": "Airport Advisory Board",
-  "kind": "agenda",
+  "kind": "minutes",
   "title": "Sep 15, 2026 \u2014\u2009Posted Sep 11, 2026 10:20 AM Airport Agenda 09-15-2026 (PDF) Download\u00a0\u25bc Agenda",
-  "url": "http://www.buenavistaco.gov/AgendaCenter/ViewFile/Agenda/_09152026-2200",
+  "url": "http://www.buenavistaco.gov/AgendaCenter/ViewFile/Minutes/_09152026-2200",
   "public_url": null
  },
  "buena-vista#18": {
@@ -3533,6 +3573,22 @@
   "kind": "agenda",
   "title": "Oct 21, 2026 \u2014\u2009Posted Oct 16, 2026 5:53 PM Planning and Zoning Commission Packet 10-21-2026(PDF) Download\u00a0\u25bc Agenda",
   "url": "http://www.buenavistaco.gov/AgendaCenter/ViewFile/Agenda/_10212026-2220",
+  "public_url": null
+ },
+ "burlington#0": {
+  "date": "2026-10-03",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Oct 3, 2026 \u2014\u2009Posted Oct 1, 2026 5:44 p.m. Special meeting Download\u00a0\u25bc Agenda",
+  "url": "http://www.burlingtoncolo.com/AgendaCenter/ViewFile/Agenda/_10032026-404",
+  "public_url": null
+ },
+ "burlington#1": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 23, 2026 3:25 p.m. 10/26/26 agenda Download\u00a0\u25bc Agenda",
+  "url": "http://www.burlingtoncolo.com/AgendaCenter/ViewFile/Agenda/_10262026-406",
   "public_url": null
  },
  "campo#0": {
@@ -4056,6 +4112,14 @@
   "public_url": null
  },
  "castle-pines#1": {
+  "date": "2026-08-04",
+  "body": "City Council Study Session",
+  "kind": "agenda",
+  "title": "City Council Study Session 2026-08-04",
+  "url": "https://castlepines.granicus.com/DocumentViewer.php?file=castlepines_a5ce814e2475345bd0a8d50f6a81f72a.pdf&view=1",
+  "public_url": null
+ },
+ "castle-pines#2": {
   "date": "2026-08-11",
   "body": "City Council Meeting",
   "kind": "minutes",
@@ -4063,7 +4127,7 @@
   "url": "https://castlepines.granicus.com/MinutesViewer.php?view_id=2&clip_id=1102&doc_id=6183a958-a6f1-11f1-a028-005056a89546",
   "public_url": null
  },
- "castle-pines#2": {
+ "castle-pines#3": {
   "date": "2026-08-20",
   "body": "Parks and Recreation Advisory Board Meeting",
   "kind": "minutes",
@@ -4071,12 +4135,52 @@
   "url": "https://castlepines.granicus.com/MinutesViewer.php?view_id=2&clip_id=1104&doc_id=8a009088-c367-11f1-89ef-005056a84798",
   "public_url": null
  },
- "castle-pines#3": {
+ "castle-pines#4": {
   "date": "2026-08-25",
   "body": "City Council Study Session and Regular Meeting",
   "kind": "minutes",
   "title": "City Council Study Session and Regular Meeting 2026-08-25",
   "url": "https://castlepines.granicus.com/MinutesViewer.php?view_id=2&clip_id=1106&doc_id=2f3b8185-c0e6-11f1-89ef-005056a84798",
+  "public_url": null
+ },
+ "castle-pines#5": {
+  "date": "2026-09-17",
+  "body": "Parks and Recreation Advisory Board Meeting",
+  "kind": "agenda",
+  "title": "Parks and Recreation Advisory Board Meeting 2026-09-17",
+  "url": "https://castlepines.granicus.com/DocumentViewer.php?file=castlepines_efaf7b29d4c5188c0f8886178fcf3513.pdf&view=1",
+  "public_url": null
+ },
+ "castle-pines#6": {
+  "date": "2026-09-22",
+  "body": "City Council Study Session and Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Study Session and Regular Meeting 2026-09-22",
+  "url": "https://castlepines.granicus.com/DocumentViewer.php?file=castlepines_5821b914cdd114a2d808284fcfb04eb8.pdf&view=1",
+  "public_url": null
+ },
+ "castle-pines#7": {
+  "date": "2026-10-13",
+  "body": "City Council Study Session and Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Study Session and Regular Meeting 2026-10-13",
+  "url": "https://castlepines.granicus.com/DocumentViewer.php?file=castlepines_d34afcbbee8437819c3d80efd428279c.pdf&view=1",
+  "public_url": null
+ },
+ "castle-pines#8": {
+  "date": "2026-10-15",
+  "body": "Parks and Recreation Advisory Board Meeting",
+  "kind": "agenda",
+  "title": "Parks and Recreation Advisory Board Meeting 2026-10-15",
+  "url": "https://castlepines.granicus.com/DocumentViewer.php?file=castlepines_51f5aed612bc4df684bdf04be7236804.pdf&view=1",
+  "public_url": null
+ },
+ "castle-pines#9": {
+  "date": "2026-10-20",
+  "body": "City Council Study Session",
+  "kind": "agenda",
+  "title": "City Council Study Session 2026-10-20",
+  "url": "https://castlepines.granicus.com/DocumentViewer.php?file=castlepines_3a8895e725923a5bb85c463b89873634.pdf&view=1",
   "public_url": null
  },
  "centennial#0": {
@@ -4765,6 +4869,22 @@
   "kind": "agenda",
   "title": "Oct 20, 2026 \u2014\u2009Amended Oct 16, 2026 12:54 PM City Council Regular Meeting Agenda and Packet (PDF) Download\u00a0\u25bc Agenda Previous Versions",
   "url": "https://www.cherryhillsvillage.com/AgendaCenter/ViewFile/Agenda/_10202026-1359",
+  "public_url": null
+ },
+ "cherry-hills-village#14": {
+  "date": "2026-10-26",
+  "body": "Cherry Hills Village Art Commission",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 16, 2026 2:06 PM Cherry Hills Village Art Commission Meeting Cancellation Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.cherryhillsvillage.com/AgendaCenter/ViewFile/Agenda/_10262026-1360",
+  "public_url": null
+ },
+ "cheyenne-county#0": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "October 26, 2026 Meeting Agenda for Tumbleweed Fair Board",
+  "url": "https://www.co.cheyenne.co.us/assets/pdfs/10.26.26_Fair_Bd_Agenda.pdf",
   "public_url": null
  },
  "clear-creek-county#0": {
@@ -6136,6 +6256,14 @@
   "public_url": null
  },
  "dacono#7": {
+  "date": "2026-09-12",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Sep 12, 2026 \u2014\u2009Posted Sep 2, 2026 8:56 AM September 12, 2026 Employee Appreciation Event Download\u00a0\u25bc Agenda",
+  "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_09122026-548",
+  "public_url": null
+ },
+ "dacono#8": {
   "date": "2026-09-14",
   "body": "City Council",
   "kind": "agenda",
@@ -6143,7 +6271,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_09142026-552",
   "public_url": null
  },
- "dacono#8": {
+ "dacono#9": {
   "date": "2026-09-24",
   "body": "City Council",
   "kind": "agenda",
@@ -6151,7 +6279,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_09242026-549",
   "public_url": null
  },
- "dacono#9": {
+ "dacono#10": {
   "date": "2026-09-26",
   "body": "City Council",
   "kind": "agenda",
@@ -6159,7 +6287,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_09262026-551",
   "public_url": null
  },
- "dacono#10": {
+ "dacono#11": {
   "date": "2026-09-28",
   "body": "City Council",
   "kind": "agenda",
@@ -6167,7 +6295,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_09282026-553",
   "public_url": null
  },
- "dacono#11": {
+ "dacono#12": {
   "date": "2026-10-07",
   "body": "City Council",
   "kind": "agenda",
@@ -6175,7 +6303,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10072026-554",
   "public_url": null
  },
- "dacono#12": {
+ "dacono#13": {
   "date": "2026-10-07",
   "body": "Urban Renewal Authority of Dacono",
   "kind": "agenda",
@@ -6183,7 +6311,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10072026-558",
   "public_url": null
  },
- "dacono#13": {
+ "dacono#14": {
   "date": "2026-10-08",
   "body": "Police Advisory Board",
   "kind": "agenda",
@@ -6191,7 +6319,7 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10082026-557",
   "public_url": null
  },
- "dacono#14": {
+ "dacono#15": {
   "date": "2026-10-12",
   "body": "City Council",
   "kind": "agenda",
@@ -6199,12 +6327,28 @@
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10122026-559",
   "public_url": null
  },
- "dacono#15": {
+ "dacono#16": {
   "date": "2026-10-13",
   "body": "Planning and Zoning Commission",
   "kind": "agenda",
   "title": "Oct 13, 2026 \u2014\u2009Posted Oct 9, 2026 11:21 AM October 13, 2026 Planning Commission Agenda Download\u00a0\u25bc HTML PDF Packet",
   "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10132026-560",
+  "public_url": null
+ },
+ "dacono#17": {
+  "date": "2026-10-15",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Oct 15, 2026 \u2014\u2009Posted Oct 13, 2026 2:02 PM October 15, 2026 United Water and Sanitation District Tour Download\u00a0\u25bc Agenda",
+  "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10152026-561",
+  "public_url": null
+ },
+ "dacono#18": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 22, 2026 3:13 PM October 26, 2027 City Council Meeting Agenda Download\u00a0\u25bc HTML PDF Packet",
+  "url": "https://www.daconoco.gov/AgendaCenter/ViewFile/Agenda/_10262026-562",
   "public_url": null
  },
  "de-beque#0": {
@@ -8071,6 +8215,30 @@
   "url": "https://eagleco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5174,plainText=false)",
   "public_url": "https://eagleco.portal.civicclerk.com/event/2379/files"
  },
+ "eagle#43": {
+  "date": "2026-10-26",
+  "body": "Liquor License Authority",
+  "kind": "agenda",
+  "title": "October 26, 2026 Liquor License Authority - 10.26.2026 LLA AGENDA",
+  "url": "https://eagleco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5181,plainText=false)",
+  "public_url": "https://eagleco.portal.civicclerk.com/event/2525/files"
+ },
+ "eagle#44": {
+  "date": "2026-10-26",
+  "body": "Liquor License Authority",
+  "kind": "agenda",
+  "title": "October 26, 2026 Liquor License Authority - 10.26.2026 LLA AGENDA PACKET",
+  "url": "https://eagleco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5182,plainText=false)",
+  "public_url": "https://eagleco.portal.civicclerk.com/event/2525/files"
+ },
+ "eagle-county#10": {
+  "date": "2026-10-21",
+  "body": "Eagle County Planning Commission Land Use Regulations Recommendation Hearing-October 21, 2026",
+  "kind": "agenda",
+  "title": "Eagle County Planning Commission Land Use Regulations Recommendation Hearing-October 21, 2026",
+  "url": "https://reflect-vod-eaglecounty.cablecast.tv/cablecastapi/v1/vods/3322/chapters",
+  "public_url": null
+ },
  "edgewater#0": {
   "date": "2026-08-12",
   "body": "Planning and Zoning",
@@ -8102,6 +8270,62 @@
   "title": "Board of Adjustment and Appeals - 09.16.2026 Board of Adjustment and Appeals Agenda",
   "url": "https://edgewaterco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=126,plainText=false)",
   "public_url": "https://edgewaterco.portal.civicclerk.com/event/293/files"
+ },
+ "el-paso-county#0": {
+  "date": "2026-09-24",
+  "body": "Board of County Commissioners (Land Use)",
+  "kind": "agenda",
+  "title": "Board of County Commissioners (Land Use) - BOCLU - 16/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2709",
+  "public_url": null
+ },
+ "el-paso-county#1": {
+  "date": "2026-09-29",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - BOC - 35/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2664",
+  "public_url": null
+ },
+ "el-paso-county#3": {
+  "date": "2026-10-01",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - PC - 14/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2941",
+  "public_url": null
+ },
+ "el-paso-county#4": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - BOC - 37/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2666",
+  "public_url": null
+ },
+ "el-paso-county#5": {
+  "date": "2026-10-15",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission - PC - 15/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2996",
+  "public_url": null
+ },
+ "el-paso-county#6": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners - BOC - 38/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2667",
+  "public_url": null
+ },
+ "el-paso-county#8": {
+  "date": "2026-10-22",
+  "body": "Board of County Commissioners (Land Use)",
+  "kind": "agenda",
+  "title": "Board of County Commissioners (Land Use) - BOCLU - 18/2026",
+  "url": "https://www.agendasuite.org/iip/elpaso/meeting/details/2711",
+  "public_url": null
  },
  "elizabeth#0": {
   "date": "2026-07-28",
@@ -9264,6 +9488,14 @@
   "public_url": null
  },
  "fort-morgan#2": {
+  "date": "2026-08-13",
+  "body": "Historic Preservation Board Agendas",
+  "kind": "agenda",
+  "title": "Aug 13, 2026 \u2014\u2009Amended Aug 12, 2026 8:13 AM Historic Preservation Advisory Board Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_08132026-480",
+  "public_url": null
+ },
+ "fort-morgan#3": {
   "date": "2026-08-18",
   "body": "City Council Agendas & Minutes",
   "kind": "minutes",
@@ -9271,7 +9503,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Minutes/_08182026-481",
   "public_url": null
  },
- "fort-morgan#3": {
+ "fort-morgan#4": {
   "date": "2026-08-24",
   "body": "Planning Commission Agendas",
   "kind": "agenda",
@@ -9279,7 +9511,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_08242026-483",
   "public_url": null
  },
- "fort-morgan#4": {
+ "fort-morgan#5": {
   "date": "2026-08-25",
   "body": "Main Street Advisory Board",
   "kind": "agenda",
@@ -9287,7 +9519,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_08252026-482",
   "public_url": null
  },
- "fort-morgan#5": {
+ "fort-morgan#6": {
   "date": "2026-09-01",
   "body": "City Council Agendas & Minutes",
   "kind": "minutes",
@@ -9295,7 +9527,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Minutes/_09012026-484",
   "public_url": null
  },
- "fort-morgan#6": {
+ "fort-morgan#7": {
   "date": "2026-09-09",
   "body": "Airport Advisory  Board Agendas",
   "kind": "agenda",
@@ -9303,7 +9535,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_09092026-485",
   "public_url": null
  },
- "fort-morgan#7": {
+ "fort-morgan#8": {
   "date": "2026-09-14",
   "body": "Senior Center Advisory Board Agenda",
   "kind": "agenda",
@@ -9311,7 +9543,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_09142026-487",
   "public_url": null
  },
- "fort-morgan#8": {
+ "fort-morgan#9": {
   "date": "2026-09-15",
   "body": "City Council Agendas & Minutes",
   "kind": "minutes",
@@ -9319,7 +9551,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Minutes/_09152026-488",
   "public_url": null
  },
- "fort-morgan#9": {
+ "fort-morgan#10": {
   "date": "2026-09-21",
   "body": "Library Advisory Board Agendas",
   "kind": "agenda",
@@ -9327,7 +9559,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_09212026-489",
   "public_url": null
  },
- "fort-morgan#10": {
+ "fort-morgan#11": {
   "date": "2026-09-22",
   "body": "Main Street Advisory Board",
   "kind": "agenda",
@@ -9335,7 +9567,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_09222026-490",
   "public_url": null
  },
- "fort-morgan#11": {
+ "fort-morgan#12": {
   "date": "2026-10-06",
   "body": "City Council Agendas & Minutes",
   "kind": "minutes",
@@ -9343,7 +9575,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Minutes/_10062026-493",
   "public_url": null
  },
- "fort-morgan#12": {
+ "fort-morgan#13": {
   "date": "2026-10-08",
   "body": "Historic Preservation Board Agendas",
   "kind": "agenda",
@@ -9351,7 +9583,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_10082026-491",
   "public_url": null
  },
- "fort-morgan#13": {
+ "fort-morgan#14": {
   "date": "2026-10-14",
   "body": "Airport Advisory  Board Agendas",
   "kind": "agenda",
@@ -9359,7 +9591,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_10142026-492",
   "public_url": null
  },
- "fort-morgan#14": {
+ "fort-morgan#15": {
   "date": "2026-10-15",
   "body": "Golf Course Advisory Board Agendas",
   "kind": "agenda",
@@ -9367,7 +9599,7 @@
   "url": "https://www.cityoffortmorgan.com/AgendaCenter/ViewFile/Agenda/_10152026-494",
   "public_url": null
  },
- "fort-morgan#15": {
+ "fort-morgan#16": {
   "date": "2026-10-20",
   "body": "City Council Agendas & Minutes",
   "kind": "agenda",
@@ -10119,6 +10351,182 @@
   "url": "https://friscoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=305,plainText=false)",
   "public_url": "https://friscoco.portal.civicclerk.com/event/621/files"
  },
+ "fruita#0": {
+  "date": "2026-07-28",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Jul 28, 2026 \u2014\u2009Posted Jul 22, 2026 9:25 AM City Council Workshop Meeting - July 28, 2026 Download\u00a0\u25bc HTML PDF Packet",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_07282026-1071",
+  "public_url": null
+ },
+ "fruita#1": {
+  "date": "2026-08-03",
+  "body": "Parks and Recreation Commission",
+  "kind": "agenda",
+  "title": "Aug 3, 2026 \u2014\u2009Posted Aug 3, 2026 8:08 AM August 2026 Parks and Recreation Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_08032026-1074",
+  "public_url": null
+ },
+ "fruita#2": {
+  "date": "2026-08-03",
+  "body": "Historic Preservation Board",
+  "kind": "agenda",
+  "title": "Aug 3, 2026 \u2014\u2009Posted Oct 2, 2026 9:14 AM Historic Preservation Board Meeting August 3, 2026. Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_08032026-1095",
+  "public_url": null
+ },
+ "fruita#3": {
+  "date": "2026-08-04",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Aug 4, 2026 \u2014\u2009Posted Jul 30, 2026 11:42 AM City Council Regular Meeting - August 4, 2026 Download\u00a0\u25bc HTML PDF Packet Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_08042026-1073",
+  "public_url": null
+ },
+ "fruita#4": {
+  "date": "2026-08-05",
+  "body": "Arts and Culture Board",
+  "kind": "agenda",
+  "title": "Aug 5, 2026 \u2014\u2009Posted Aug 3, 2026 10:03 PM Arts and Culture Board Special Meeting - August 5, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_08052026-1075",
+  "public_url": null
+ },
+ "fruita#5": {
+  "date": "2026-08-11",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Aug 11, 2026 \u2014\u2009Amended Aug 6, 2026 2:43 PM August 11, 2026 Planning Commission Meeting agenda. Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_08112026-1076",
+  "public_url": null
+ },
+ "fruita#6": {
+  "date": "2026-08-11",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Aug 11, 2026 \u2014\u2009Posted Aug 6, 2026 2:43 PM August 11, 2026 Planning Commission Workshop coversheet. Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_08112026-1077",
+  "public_url": null
+ },
+ "fruita#7": {
+  "date": "2026-08-12",
+  "body": "Arts and Culture Board",
+  "kind": "minutes",
+  "title": "Aug 12, 2026 \u2014\u2009Posted Aug 10, 2026 2:22 PM Arts and Culture Board Meeting - August 12, 2026 (PDF) Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_08122026-1078",
+  "public_url": null
+ },
+ "fruita#8": {
+  "date": "2026-08-18",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Aug 18, 2026 \u2014\u2009Posted Aug 13, 2026 12:25 PM City Council Meeting - August 18, 2026 Download\u00a0\u25bc HTML PDF Packet Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_08182026-1079",
+  "public_url": null
+ },
+ "fruita#9": {
+  "date": "2026-08-20",
+  "body": "Livability Commission",
+  "kind": "agenda",
+  "title": "Aug 20, 2026 \u2014\u2009Posted Aug 18, 2026 7:57 PM Livability Commission Meeting - August 20, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_08202026-1096",
+  "public_url": null
+ },
+ "fruita#10": {
+  "date": "2026-08-25",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Aug 25, 2026 \u2014\u2009Posted Aug 21, 2026 7:56 AM City Council Workshop Meeting - August 25, 2026 Download\u00a0\u25bc HTML PDF Packet",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_08252026-1097",
+  "public_url": null
+ },
+ "fruita#11": {
+  "date": "2026-08-27",
+  "body": "Fruita Tourism Advisory Council",
+  "kind": "minutes",
+  "title": "Aug 27, 2026 \u2014\u2009Posted Aug 27, 2026 10:24 AM FTAC Meeting Agenda 8.27.26 Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_08272026-1098",
+  "public_url": null
+ },
+ "fruita#12": {
+  "date": "2026-09-01",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Sep 1, 2026 \u2014\u2009Posted Aug 28, 2026 8:35 AM Fruita City Council Meeting - September 1, 2026 Download\u00a0\u25bc HTML PDF Packet Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_09012026-1099",
+  "public_url": null
+ },
+ "fruita#13": {
+  "date": "2026-09-15",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Sep 15, 2026 \u2014\u2009Posted Sep 11, 2026 11:27 AM Fruita City Council Regular Meeting - September 15, 2026 Download\u00a0\u25bc HTML PDF Packet Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_09152026-1101",
+  "public_url": null
+ },
+ "fruita#14": {
+  "date": "2026-09-22",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Sep 22, 2026 \u2014\u2009Posted Sep 18, 2026 8:54 AM City Council Special Meeting - September 22, 2026 Download\u00a0\u25bc HTML PDF Packet",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_09222026-1102",
+  "public_url": null
+ },
+ "fruita#15": {
+  "date": "2026-09-29",
+  "body": "2026 City Council Meetings",
+  "kind": "minutes",
+  "title": "Sep 29, 2026 \u2014\u2009Posted Sep 25, 2026 10:17 AM City Council Workshop Meeting - September 29, 2026 Download\u00a0\u25bc HTML PDF Packet",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_09292026-1103",
+  "public_url": null
+ },
+ "fruita#16": {
+  "date": "2026-09-30",
+  "body": "Arts and Culture Board",
+  "kind": "agenda",
+  "title": "Sep 30, 2026 \u2014\u2009Posted Sep 28, 2026 10:54 AM Arts and Culture Board Meeting - September 30, 2026 Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_09302026-1104",
+  "public_url": null
+ },
+ "fruita#17": {
+  "date": "2026-10-01",
+  "body": "Fruita Tourism Advisory Council",
+  "kind": "agenda",
+  "title": "Oct 1, 2026 \u2014\u2009Posted Sep 30, 2026 2:17 PM Fruita Tourism Advisory Council Meeting 10.1.26 Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_10012026-1106",
+  "public_url": null
+ },
+ "fruita#18": {
+  "date": "2026-10-05",
+  "body": "Parks and Recreation Commission",
+  "kind": "minutes",
+  "title": "Oct 5, 2026 \u2014\u2009Posted Sep 30, 2026 12:27 PM 2026 Parks and Recreation Commission Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Minutes/_10052026-1105",
+  "public_url": null
+ },
+ "fruita#19": {
+  "date": "2026-10-13",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Oct 13, 2026 \u2014\u2009Posted Oct 8, 2026 10:54 AM October 13, 2026 Planning Commission Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_10132026-1107",
+  "public_url": null
+ },
+ "fruita#20": {
+  "date": "2026-10-15",
+  "body": "Livability Commission",
+  "kind": "agenda",
+  "title": "Oct 15, 2026 \u2014\u2009Posted Oct 13, 2026 12:57 PM Livability Commission Meeting - October 15, 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_10152026-1108",
+  "public_url": null
+ },
+ "fruita#22": {
+  "date": "2026-10-22",
+  "body": "Fruita Tourism Advisory Council",
+  "kind": "agenda",
+  "title": "Oct 22, 2026 \u2014\u2009Posted Oct 22, 2026 7:55 AM Fruita Tourism Advisory Council Meeting 10.22.26 Download\u00a0\u25bc Agenda",
+  "url": "https://www.fruita.org/AgendaCenter/ViewFile/Agenda/_10222026-1111",
+  "public_url": null
+ },
  "garfield-county#0": {
   "date": "2026-08-03",
   "body": "Board of County Commissioners",
@@ -10327,6 +10735,22 @@
   "url": "https://gilpinpublicdata.s3.us-west-1.amazonaws.com/BoCC/2026+Meeting+Agendas/10-20-2026+BoCC+Work+Session+Agenda+RR+(1).pdf",
   "public_url": null
  },
+ "gilpin-county#10": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "10-26-2026 agenda,",
+  "url": "https://gilpinpublicdata.s3.us-west-1.amazonaws.com/BoCC/2026+Meeting+Agendas/10-27-2026+BoCC+Meeting+Agenda.pdf",
+  "public_url": null
+ },
+ "gilpin-county#11": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "meeting packet",
+  "url": "https://gilpinpublicdata.s3.us-west-1.amazonaws.com/BoCC/2026+Meeting+Agendas/Binder1.pdf",
+  "public_url": null
+ },
  "glendale#0": {
   "date": "2026-08-10",
   "body": "Glendale Entertainment Advisory Board",
@@ -10496,6 +10920,14 @@
   "public_url": null
  },
  "golden#2": {
+  "date": "2026-08-03",
+  "body": "Arts and Culture Commission Meeting",
+  "kind": "minutes",
+  "title": "Arts and Culture Commission Meeting 2026-08-03",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6546",
+  "public_url": null
+ },
+ "golden#3": {
   "date": "2026-08-04",
   "body": "City Council Special Meeting",
   "kind": "minutes",
@@ -10503,7 +10935,15 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6547",
   "public_url": null
  },
- "golden#4": {
+ "golden#5": {
+  "date": "2026-08-05",
+  "body": "ACC Strategic Planning Subcommittee - No Recording",
+  "kind": "minutes",
+  "title": "ACC Strategic Planning Subcommittee - No Recording 2026-08-05",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6556",
+  "public_url": null
+ },
+ "golden#6": {
   "date": "2026-08-10",
   "body": "GURA",
   "kind": "agenda",
@@ -10511,7 +10951,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_70d0809aad7bd32242d3222da12eb3e7.pdf&view=1",
   "public_url": null
  },
- "golden#5": {
+ "golden#7": {
   "date": "2026-08-11",
   "body": "City Council Regular Business Meeting 6:30pm",
   "kind": "minutes",
@@ -10519,7 +10959,7 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6555",
   "public_url": null
  },
- "golden#6": {
+ "golden#8": {
   "date": "2026-08-12",
   "body": "HPB Regular Meeting",
   "kind": "minutes",
@@ -10527,7 +10967,7 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6557",
   "public_url": null
  },
- "golden#7": {
+ "golden#9": {
   "date": "2026-08-13",
   "body": "Local Licensing Authority",
   "kind": "agenda",
@@ -10535,7 +10975,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_acd20f76690f04ae1f6a5ebe80d40852.pdf&view=1",
   "public_url": null
  },
- "golden#8": {
+ "golden#10": {
   "date": "2026-08-13",
   "body": "EDComm",
   "kind": "agenda",
@@ -10543,7 +10983,15 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_bc211126e19a2b162d663404a30d441f.pdf&view=1",
   "public_url": null
  },
- "golden#9": {
+ "golden#11": {
+  "date": "2026-08-13",
+  "body": "ACC Art in Public Places Subcommittee Meeting - No Recording",
+  "kind": "minutes",
+  "title": "ACC Art in Public Places Subcommittee Meeting - No Recording 2026-08-13",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6568",
+  "public_url": null
+ },
+ "golden#12": {
   "date": "2026-08-17",
   "body": "DDA",
   "kind": "agenda",
@@ -10551,7 +10999,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_7f432630e9c3a13a3ffa71705b1ebddd.pdf&view=1",
   "public_url": null
  },
- "golden#10": {
+ "golden#13": {
   "date": "2026-08-19",
   "body": "Citizens' Budget Advisory Committee",
   "kind": "minutes",
@@ -10559,7 +11007,7 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6565",
   "public_url": null
  },
- "golden#11": {
+ "golden#14": {
   "date": "2026-08-19",
   "body": "Planning Commission Meeting",
   "kind": "minutes",
@@ -10567,7 +11015,7 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6567",
   "public_url": null
  },
- "golden#12": {
+ "golden#15": {
   "date": "2026-08-20",
   "body": "Parks and Recreation Advisory Board Meeting",
   "kind": "agenda",
@@ -10575,7 +11023,23 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_72ac0184544f942244d5d6c57eab0e78.pdf&view=1",
   "public_url": null
  },
- "golden#13": {
+ "golden#16": {
+  "date": "2026-08-20",
+  "body": "ACC Strategic Planning Subcommittee - No Recording",
+  "kind": "minutes",
+  "title": "ACC Strategic Planning Subcommittee - No Recording 2026-08-20",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6582",
+  "public_url": null
+ },
+ "golden#17": {
+  "date": "2026-08-20",
+  "body": "ACC Lion's Park Art Selection Panel Meeting - No Recording",
+  "kind": "minutes",
+  "title": "ACC Lion's Park Art Selection Panel Meeting - No Recording 2026-08-20",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6583",
+  "public_url": null
+ },
+ "golden#18": {
   "date": "2026-08-24",
   "body": "GURA",
   "kind": "agenda",
@@ -10583,7 +11047,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_6b0c36c36ae04e0fc312231046dd9480.pdf&view=1",
   "public_url": null
  },
- "golden#14": {
+ "golden#19": {
   "date": "2026-08-25",
   "body": "City Council Regular Business Meeting",
   "kind": "agenda",
@@ -10591,7 +11055,15 @@
   "url": "https://goldenco.granicus.com/GeneratedAgendaViewer.php?view_id=2&clip_id=6578",
   "public_url": null
  },
- "golden#15": {
+ "golden#20": {
+  "date": "2026-08-25",
+  "body": "Community Marketing Board",
+  "kind": "minutes",
+  "title": "Community Marketing Board 2026-08-25",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6577",
+  "public_url": null
+ },
+ "golden#21": {
   "date": "2026-08-26",
   "body": "Special Events Review Committee",
   "kind": "agenda",
@@ -10599,7 +11071,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_797c39633aa2eaff556ef956fb12cd2e.pdf&view=1",
   "public_url": null
  },
- "golden#16": {
+ "golden#22": {
   "date": "2026-08-26",
   "body": "Community Sustainability Advisory Board",
   "kind": "minutes",
@@ -10607,7 +11079,15 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6585",
   "public_url": null
  },
- "golden#17": {
+ "golden#23": {
+  "date": "2026-08-26",
+  "body": "REDI Task Force",
+  "kind": "minutes",
+  "title": "REDI Task Force 2026-08-26",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6605",
+  "public_url": null
+ },
+ "golden#24": {
   "date": "2026-08-27",
   "body": "Mobility and Transportation Advisory Board",
   "kind": "minutes",
@@ -10615,7 +11095,15 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6592",
   "public_url": null
  },
- "golden#18": {
+ "golden#25": {
+  "date": "2026-08-31",
+  "body": "Arts and Culture Commission Meeting",
+  "kind": "minutes",
+  "title": "Arts and Culture Commission Meeting 2026-08-31",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6598",
+  "public_url": null
+ },
+ "golden#26": {
   "date": "2026-09-01",
   "body": "Community Marketing Board Special Meeting",
   "kind": "agenda",
@@ -10623,7 +11111,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_120711fa00e8e8f8de619767fdff3ca7.pdf&view=1",
   "public_url": null
  },
- "golden#19": {
+ "golden#27": {
   "date": "2026-09-08",
   "body": "City Council Study Session 5pm-Regular Business Meeting 6:30pm",
   "kind": "agenda",
@@ -10631,7 +11119,7 @@
   "url": "https://goldenco.granicus.com/GeneratedAgendaViewer.php?view_id=2&clip_id=6604",
   "public_url": null
  },
- "golden#20": {
+ "golden#28": {
   "date": "2026-09-09",
   "body": "HPB Regular Meeting",
   "kind": "agenda",
@@ -10639,7 +11127,15 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_fd457c4473222a1f9d43741cd3816cc9.pdf&view=1",
   "public_url": null
  },
- "golden#21": {
+ "golden#29": {
+  "date": "2026-09-09",
+  "body": "Lion's Park Art Selection Panel Meeting - No Recording",
+  "kind": "minutes",
+  "title": "Lion's Park Art Selection Panel Meeting - No Recording 2026-09-09",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6609",
+  "public_url": null
+ },
+ "golden#30": {
   "date": "2026-09-10",
   "body": "EDComm",
   "kind": "agenda",
@@ -10647,7 +11143,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_ce0e4e7352459776d3913805a6076d9e.pdf&view=1",
   "public_url": null
  },
- "golden#22": {
+ "golden#31": {
   "date": "2026-09-14",
   "body": "GURA",
   "kind": "agenda",
@@ -10655,7 +11151,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_5052000a2c317eedb6400479d82f99c4.pdf&view=1",
   "public_url": null
  },
- "golden#23": {
+ "golden#32": {
   "date": "2026-09-15",
   "body": "City Council Special Meeting",
   "kind": "agenda",
@@ -10663,7 +11159,7 @@
   "url": "https://goldenco.granicus.com/GeneratedAgendaViewer.php?view_id=2&clip_id=6617",
   "public_url": null
  },
- "golden#24": {
+ "golden#33": {
   "date": "2026-09-16",
   "body": "Planning Commission Meeting",
   "kind": "agenda",
@@ -10671,7 +11167,7 @@
   "url": "https://goldenco.granicus.com/GeneratedAgendaViewer.php?view_id=2&clip_id=6621",
   "public_url": null
  },
- "golden#25": {
+ "golden#34": {
   "date": "2026-09-16",
   "body": "Citizens' Budget Advisory Committee",
   "kind": "minutes",
@@ -10679,7 +11175,7 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6618",
   "public_url": null
  },
- "golden#26": {
+ "golden#35": {
   "date": "2026-09-21",
   "body": "DDA",
   "kind": "agenda",
@@ -10687,7 +11183,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_11da8c387d1c773ffcb7a6d420701e90.pdf&view=1",
   "public_url": null
  },
- "golden#27": {
+ "golden#36": {
   "date": "2026-09-22",
   "body": "City Council Regular Business Meeting",
   "kind": "agenda",
@@ -10695,7 +11191,15 @@
   "url": "https://goldenco.granicus.com/GeneratedAgendaViewer.php?view_id=2&clip_id=6629",
   "public_url": null
  },
- "golden#28": {
+ "golden#37": {
+  "date": "2026-09-22",
+  "body": "Community Marketing Board",
+  "kind": "minutes",
+  "title": "Community Marketing Board 2026-09-22",
+  "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6627",
+  "public_url": null
+ },
+ "golden#38": {
   "date": "2026-09-23",
   "body": "Special Events Review Committee",
   "kind": "agenda",
@@ -10703,7 +11207,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_cc14e244177051a9b11b9111d2f0bca8.pdf&view=1",
   "public_url": null
  },
- "golden#29": {
+ "golden#39": {
   "date": "2026-09-23",
   "body": "Community Sustainability Advisory Board",
   "kind": "minutes",
@@ -10711,7 +11215,7 @@
   "url": "https://goldenco.granicus.com/MinutesViewer.php?view_id=2&clip_id=6638",
   "public_url": null
  },
- "golden#30": {
+ "golden#40": {
   "date": "2026-09-24",
   "body": "Mobility and Transportation Advisory Board",
   "kind": "agenda",
@@ -10719,7 +11223,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_a5aa454aaa0a643652b47e3f96ad35e8.pdf&view=1",
   "public_url": null
  },
- "golden#31": {
+ "golden#41": {
   "date": "2026-10-05",
   "body": "Arts and Culture Commission Meeting",
   "kind": "agenda",
@@ -10727,7 +11231,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_01e94c5f12259d5706331baacd845ecf.pdf&view=1",
   "public_url": null
  },
- "golden#33": {
+ "golden#43": {
   "date": "2026-10-08",
   "body": "EDComm",
   "kind": "agenda",
@@ -10735,7 +11239,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_3efd010005d55b5cbc54fa2a7863b30c.pdf&view=1",
   "public_url": null
  },
- "golden#34": {
+ "golden#44": {
   "date": "2026-10-13",
   "body": "City Council Study Session 5pm-Regular Business Meeting 7:00pm",
   "kind": "agenda",
@@ -10743,7 +11247,7 @@
   "url": "https://goldenco.granicus.com/GeneratedAgendaViewer.php?view_id=2&clip_id=6653",
   "public_url": null
  },
- "golden#35": {
+ "golden#45": {
   "date": "2026-10-15",
   "body": "Parks and Recreation Advisory Board",
   "kind": "agenda",
@@ -10751,7 +11255,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_a4e8118a76ce0d10220689226c339a95.pdf&view=1",
   "public_url": null
  },
- "golden#36": {
+ "golden#46": {
   "date": "2026-10-19",
   "body": "GURA",
   "kind": "agenda",
@@ -10759,7 +11263,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_0dd77e11fe1de0c999a5cce008424758.pdf&view=1",
   "public_url": null
  },
- "golden#37": {
+ "golden#47": {
   "date": "2026-10-19",
   "body": "DDA",
   "kind": "agenda",
@@ -10767,7 +11271,7 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_8060e6dff104d398a5593c87c07cd970.pdf&view=1",
   "public_url": null
  },
- "golden#38": {
+ "golden#48": {
   "date": "2026-10-21",
   "body": "Citizens' Budget Advisory Committee",
   "kind": "agenda",
@@ -10775,7 +11279,15 @@
   "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_73ec358056278aff09c7a1ff294d347e.pdf&view=1",
   "public_url": null
  },
- "golden#39": {
+ "golden#49": {
+  "date": "2026-10-22",
+  "body": "Arts and Culture Commission Grant Subcommittee Meeting - No Recording",
+  "kind": "agenda",
+  "title": "Arts and Culture Commission Grant Subcommittee Meeting - No Recording 2026-10-22",
+  "url": "https://goldenco.granicus.com/DocumentViewer.php?file=goldenco_13ee92ea5ed14fa721e739720f7b4c20.docx&view=1",
+  "public_url": null
+ },
+ "golden#50": {
   "date": "2026-10-22",
   "body": "Mobility and Transportation Advisory Board",
   "kind": "agenda",
@@ -10896,6 +11408,14 @@
   "public_url": null
  },
  "grand-county#6": {
+  "date": "2026-10-12",
+  "body": "Middle Park Fair and Rodeo",
+  "kind": "agenda",
+  "title": "Oct 12, 2026 \u2014\u2009Posted Oct 2, 2026 4:24 PM October 12th 2026 Download\u00a0\u25bc Agenda",
+  "url": "https://www.co.grand.co.us/AgendaCenter/ViewFile/Agenda/_10122026-2866",
+  "public_url": null
+ },
+ "grand-county#7": {
   "date": "2026-10-20",
   "body": "County Commissioners",
   "kind": "agenda",
@@ -13282,9 +13802,9 @@
  "hudson#16": {
   "date": "2026-09-14",
   "body": "Planning Commission ",
-  "kind": "agenda",
-  "title": "Planning Commission  agenda",
-  "url": "https://hudson.legistar1.com/hudson/meetings/2026/9/2720_A_Planning_Commission__26-09-14_CD_Meeting_Agenda.pdf",
+  "kind": "minutes",
+  "title": "Planning Commission  minutes",
+  "url": "https://hudson.legistar1.com/hudson/meetings/2026/9/2720_M_Planning_Commission__26-09-14_Meeting_Minutes.pdf",
   "public_url": "https://hudson.legistar.com/MeetingDetail.aspx?LEGID=2720&GID=224&G=187A73E6-DDF8-4C4A-8F97-069523074F7A"
  },
  "hudson#17": {
@@ -14055,6 +14575,22 @@
   "url": "https://idahospringsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2788,plainText=false)",
   "public_url": "https://idahospringsco.portal.civicclerk.com/event/477/files"
  },
+ "idaho-springs#32": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - 10-26-2026 WS & Regular meeting Agenda",
+  "url": "https://idahospringsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2792,plainText=false)",
+  "public_url": "https://idahospringsco.portal.civicclerk.com/event/443/files"
+ },
+ "idaho-springs#33": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council Meeting - 10-26-2026 WS & Regular meeting Packet",
+  "url": "https://idahospringsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2794,plainText=false)",
+  "public_url": "https://idahospringsco.portal.civicclerk.com/event/443/files"
+ },
  "jefferson-county#0": {
   "date": "2026-07-28",
   "body": "Board of County Commissioners Hearing",
@@ -14432,6 +14968,14 @@
   "public_url": null
  },
  "kersey#2": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "August 11, 2026 Regular Meeting Minutes.docx",
+  "url": "https://www.kerseygov.com/08.11.2026 Regular Meeting Minutes.docx?t=202610121038340",
+  "public_url": null
+ },
+ "kersey#3": {
   "date": "2026-08-25",
   "body": "City Council",
   "kind": "agenda",
@@ -14439,7 +14983,7 @@
   "url": "https://www.kerseygov.com/08.25.2026 Work Session Agenda and Packet.pdf?t=202608211214270",
   "public_url": null
  },
- "kersey#3": {
+ "kersey#4": {
   "date": "2026-09-08",
   "body": "City Council",
   "kind": "minutes",
@@ -14447,7 +14991,7 @@
   "url": "https://www.kerseygov.com/09.08.2026 Regluar Meeting Minutes.pdf?t=202610221018390",
   "public_url": null
  },
- "kersey#4": {
+ "kersey#5": {
   "date": "2026-09-22",
   "body": "City Council",
   "kind": "agenda",
@@ -14455,7 +14999,7 @@
   "url": "https://www.kerseygov.com/September 22, 2026 Work Session Agenda and Packet.pdf?t=202609221902470",
   "public_url": null
  },
- "kersey#5": {
+ "kersey#6": {
   "date": "2026-10-13",
   "body": "City Council",
   "kind": "agenda",
@@ -14856,6 +15400,14 @@
   "public_url": null
  },
  "lake-county#3": {
+  "date": "2026-08-10",
+  "body": "Planning Commission",
+  "kind": "minutes",
+  "title": "Aug 10, 2026 \u2014\u2009Amended Aug 6, 2026 2:08 PM Planning Commission Work Session Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Minutes/_08102026-860",
+  "public_url": null
+ },
+ "lake-county#4": {
   "date": "2026-08-11",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14863,7 +15415,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08112026-861",
   "public_url": null
  },
- "lake-county#4": {
+ "lake-county#5": {
   "date": "2026-08-14",
   "body": "Fire Management Board",
   "kind": "agenda",
@@ -14871,7 +15423,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08142026-863",
   "public_url": null
  },
- "lake-county#5": {
+ "lake-county#6": {
   "date": "2026-08-18",
   "body": "Lake County Conservation District",
   "kind": "agenda",
@@ -14879,7 +15431,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08182026-867",
   "public_url": null
  },
- "lake-county#6": {
+ "lake-county#7": {
   "date": "2026-08-19",
   "body": "Leadville / Lake County Regional Housing Authority",
   "kind": "agenda",
@@ -14887,7 +15439,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08192026-865",
   "public_url": null
  },
- "lake-county#7": {
+ "lake-county#8": {
   "date": "2026-08-19",
   "body": "Animal Shelter Advisory Board",
   "kind": "agenda",
@@ -14895,7 +15447,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08192026-866",
   "public_url": null
  },
- "lake-county#8": {
+ "lake-county#9": {
   "date": "2026-08-20",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14903,7 +15455,23 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08202026-898",
   "public_url": null
  },
- "lake-county#10": {
+ "lake-county#11": {
+  "date": "2026-08-24",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Aug 24, 2026 \u2014\u2009Posted Aug 21, 2026 3:36 PM Planning Commission Public Hearing and Work Session Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08242026-871",
+  "public_url": null
+ },
+ "lake-county#12": {
+  "date": "2026-08-24",
+  "body": "E911 Authority",
+  "kind": "agenda",
+  "title": "Aug 24, 2026 \u2014\u2009Posted Aug 22, 2026 2:23 PM The Lake County E911 Authority Board will hold a special meeting. Download\u00a0\u25bc Agenda",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08242026-872",
+  "public_url": null
+ },
+ "lake-county#13": {
   "date": "2026-08-25",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14911,7 +15479,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08252026-870",
   "public_url": null
  },
- "lake-county#11": {
+ "lake-county#14": {
   "date": "2026-08-26",
   "body": "Board of Health",
   "kind": "agenda",
@@ -14919,7 +15487,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_08262026-873",
   "public_url": null
  },
- "lake-county#12": {
+ "lake-county#15": {
   "date": "2026-09-04",
   "body": "E911 Authority",
   "kind": "agenda",
@@ -14927,7 +15495,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09042026-875",
   "public_url": null
  },
- "lake-county#13": {
+ "lake-county#16": {
   "date": "2026-09-08",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14935,7 +15503,15 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09082026-876",
   "public_url": null
  },
- "lake-county#15": {
+ "lake-county#17": {
+  "date": "2026-09-09",
+  "body": "E911 Authority",
+  "kind": "agenda",
+  "title": "Sep 9, 2026 \u2014\u2009Posted Sep 9, 2026 7:45 AM Lake County E911 Authority Board Special Meeting Download\u00a0\u25bc Agenda",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09092026-878",
+  "public_url": null
+ },
+ "lake-county#19": {
   "date": "2026-09-14",
   "body": "Leadville / Lake County Regional Housing Authority",
   "kind": "agenda",
@@ -14943,7 +15519,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09142026-877",
   "public_url": null
  },
- "lake-county#16": {
+ "lake-county#20": {
   "date": "2026-09-15",
   "body": "Board of County Commissioners Regular and Special Meetings",
   "kind": "agenda",
@@ -14951,7 +15527,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09152026-879",
   "public_url": null
  },
- "lake-county#17": {
+ "lake-county#21": {
   "date": "2026-09-15",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14959,7 +15535,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09152026-880",
   "public_url": null
  },
- "lake-county#18": {
+ "lake-county#22": {
   "date": "2026-09-15",
   "body": "Lake County Conservation District",
   "kind": "agenda",
@@ -14967,7 +15543,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09152026-883",
   "public_url": null
  },
- "lake-county#19": {
+ "lake-county#23": {
   "date": "2026-09-16",
   "body": "Leadville / Lake County Regional Housing Authority",
   "kind": "agenda",
@@ -14975,7 +15551,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09162026-881",
   "public_url": null
  },
- "lake-county#20": {
+ "lake-county#24": {
   "date": "2026-09-16",
   "body": "Animal Shelter Advisory Board",
   "kind": "agenda",
@@ -14983,7 +15559,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09162026-882",
   "public_url": null
  },
- "lake-county#21": {
+ "lake-county#25": {
   "date": "2026-09-21",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14991,7 +15567,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09212026-884",
   "public_url": null
  },
- "lake-county#22": {
+ "lake-county#26": {
   "date": "2026-09-22",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -14999,7 +15575,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09222026-885",
   "public_url": null
  },
- "lake-county#23": {
+ "lake-county#27": {
   "date": "2026-09-22",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -15007,7 +15583,15 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_09222026-886",
   "public_url": null
  },
- "lake-county#24": {
+ "lake-county#28": {
+  "date": "2026-09-28",
+  "body": "Planning Commission",
+  "kind": "minutes",
+  "title": "Sep 28, 2026 \u2014\u2009Posted Sep 23, 2026 11:25 AM Planning Commission Public Hearing Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Minutes/_09282026-887",
+  "public_url": null
+ },
+ "lake-county#29": {
   "date": "2026-10-02",
   "body": "E911 Authority",
   "kind": "agenda",
@@ -15015,7 +15599,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10022026-888",
   "public_url": null
  },
- "lake-county#25": {
+ "lake-county#30": {
   "date": "2026-10-06",
   "body": "Board of County Commissioners Regular and Special Meetings",
   "kind": "agenda",
@@ -15023,7 +15607,15 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10062026-889",
   "public_url": null
  },
- "lake-county#27": {
+ "lake-county#32": {
+  "date": "2026-10-12",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Oct 12, 2026 \u2014\u2009Posted Oct 9, 2026 4:45 PM Planning Commission Public Hearing Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10122026-897",
+  "public_url": null
+ },
+ "lake-county#33": {
   "date": "2026-10-13",
   "body": "Board of County Commissioners Regular and Special Meetings",
   "kind": "agenda",
@@ -15031,7 +15623,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10132026-893",
   "public_url": null
  },
- "lake-county#28": {
+ "lake-county#34": {
   "date": "2026-10-13",
   "body": "Board of County Commissioners Work Sessions",
   "kind": "agenda",
@@ -15039,7 +15631,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10132026-894",
   "public_url": null
  },
- "lake-county#29": {
+ "lake-county#35": {
   "date": "2026-10-14",
   "body": "Board of Health",
   "kind": "agenda",
@@ -15047,7 +15639,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10142026-895",
   "public_url": null
  },
- "lake-county#30": {
+ "lake-county#36": {
   "date": "2026-10-15",
   "body": "Fire Management Board",
   "kind": "agenda",
@@ -15055,7 +15647,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10152026-896",
   "public_url": null
  },
- "lake-county#31": {
+ "lake-county#37": {
   "date": "2026-10-20",
   "body": "Board of County Commissioners Regular and Special Meetings",
   "kind": "agenda",
@@ -15063,7 +15655,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-900",
   "public_url": null
  },
- "lake-county#32": {
+ "lake-county#38": {
   "date": "2026-10-20",
   "body": "Lake County Conservation District",
   "kind": "agenda",
@@ -15071,7 +15663,7 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-901",
   "public_url": null
  },
- "lake-county#33": {
+ "lake-county#39": {
   "date": "2026-10-21",
   "body": "Animal Shelter Advisory Board",
   "kind": "agenda",
@@ -15079,12 +15671,20 @@
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10212026-899",
   "public_url": null
  },
- "lake-county#34": {
+ "lake-county#40": {
   "date": "2026-10-21",
   "body": "Leadville / Lake County Regional Housing Authority",
   "kind": "agenda",
   "title": "Oct 21, 2026 \u2014\u2009Posted Oct 19, 2026 12:54 PM 2026.10.20 LLCRHA Board of Directors Regular Meeting Download\u00a0\u25bc Agenda",
   "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10212026-902",
+  "public_url": null
+ },
+ "lake-county#41": {
+  "date": "2026-10-26",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 23, 2026 3:30 PM Planning Commission Public Hearing Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.lakecountyco.gov/AgendaCenter/ViewFile/Agenda/_10262026-905",
   "public_url": null
  },
  "lakewood#0": {
@@ -15221,6 +15821,246 @@
   "kind": "agenda",
   "title": "08_06_2026 town_board_agenda_regular",
   "url": "https://www.townoflimon.com/images/pdf/agenda/2026/08_06_2026 town_board_agenda_regular.pdf",
+  "public_url": null
+ },
+ "littleton#0": {
+  "date": "2026-07-28",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/7/2973_A_City_Council_26-07-28_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2973&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#1": {
+  "date": "2026-08-10",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/8/2975_A_Planning_Commission_26-08-10_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2975&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#2": {
+  "date": "2026-08-11",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/8/2976_A_City_Council_26-08-11_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2976&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#3": {
+  "date": "2026-08-17",
+  "body": "Historical Preservation Commission",
+  "kind": "agenda",
+  "title": "Historical Preservation Commission agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/8/2977_A_Historical_Preservation_Commission_26-08-17_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2977&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#4": {
+  "date": "2026-08-18",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/8/2978_A_City_Council_26-08-18_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2978&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#5": {
+  "date": "2026-08-25",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/8/2981_A_City_Council_26-08-25_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2981&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#6": {
+  "date": "2026-09-01",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/9/2985_A_City_Council_26-09-01_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2985&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#7": {
+  "date": "2026-09-08",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/9/2986_A_City_Council_26-09-08_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2986&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#8": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/9/2989_A_City_Council_26-09-15_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2989&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#9": {
+  "date": "2026-09-16",
+  "body": "Appeals & Adjustment Commission",
+  "kind": "agenda",
+  "title": "Appeals & Adjustment Commission agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/9/2990_A_Appeals___Adjustment_Commission_26-09-16_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2990&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#10": {
+  "date": "2026-09-22",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/9/2992_A_City_Council_26-09-22_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2992&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#11": {
+  "date": "2026-09-28",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/9/2993_A_Planning_Commission_26-09-28_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2993&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#12": {
+  "date": "2026-10-06",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/10/2999_A_City_Council_26-10-06_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=2999&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#13": {
+  "date": "2026-10-13",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/10/3001_A_City_Council_26-10-13_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=3001&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#14": {
+  "date": "2026-10-14",
+  "body": "Licensing Commission",
+  "kind": "agenda",
+  "title": "Licensing Commission agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/10/3013_A_Licensing_Commission_26-10-14_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=3013&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "littleton#15": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "City Council agenda",
+  "url": "https://legistar2.granicus.com/littletongov/meetings/2026/10/3002_A_City_Council_26-10-20_Meeting_Agenda.pdf",
+  "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=3002&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "lone-tree#1": {
+  "date": "2026-08-20",
+  "body": "City Council Strategy Session",
+  "kind": "agenda",
+  "title": "City Council Strategy Session - Aug 20 2026 - City Council Strategy Session - Aug 20 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/33608/City%20Council%20Strategy%20Session%20-%20Aug%2020%202026.docx?handle=FE35BAC78DC447B6A155C1EE6FA46855",
+  "public_url": null
+ },
+ "lone-tree#2": {
+  "date": "2026-09-09",
+  "body": "Arts Commission ",
+  "kind": "agenda",
+  "title": "Arts Commission  - Sep 09 2026 - Arts Commission - Sep 09 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/34743/Arts%20Commission%20-%20Sep%2009%202026.docx?handle=5D24C7F3E473423EB911604923B4799F",
+  "public_url": null
+ },
+ "lone-tree#3": {
+  "date": "2026-09-14",
+  "body": "Recreation Advisory Committee ",
+  "kind": "agenda",
+  "title": "Recreation Advisory Committee  - Sep 14 2026 - Recreation Advisory Committee - Sep 14 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35226/Recreation%20Advisory%20Committee%20-%20Sep%2014%202026.docx?handle=F43F92ABD45F41E59872077D37F63DF3",
+  "public_url": null
+ },
+ "lone-tree#4": {
+  "date": "2026-09-15",
+  "body": "City Council Study Session",
+  "kind": "agenda",
+  "title": "City Council Study Session - Sep 15 2026 - City Council Study Session - Sep 15 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35089/City%20Council%20Study%20Session%20-%20Sep%2015%202026.docx?handle=8F33E94A61814333A4F3A56DE60288F3",
+  "public_url": null
+ },
+ "lone-tree#6": {
+  "date": "2026-09-24",
+  "body": "Youth Commission",
+  "kind": "agenda",
+  "title": "Youth Commission - Sep 24 2026 - Youth Commission - Sep 24 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35252/Youth%20Commission%20-%20Sep%2024%202026.docx?handle=11054DDE3A134C14AF75E5BB0D2D3BB3",
+  "public_url": null
+ },
+ "lone-tree#7": {
+  "date": "2026-10-05",
+  "body": "City Council Strategy Session",
+  "kind": "agenda",
+  "title": "City Council Strategy Session - Oct 05 2026 - City Council Strategy Session - Oct 05 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35371/City%20Council%20Strategy%20Session%20-%20Oct%2005%202026.docx?handle=073A3C071C4C472393D0AF35E09B9E48",
+  "public_url": null
+ },
+ "lone-tree#8": {
+  "date": "2026-10-05",
+  "body": "Recreation Advisory Committee ",
+  "kind": "agenda",
+  "title": "Recreation Advisory Committee  - Oct 05 2026 - Recreation Advisory Committee - Oct 05 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35406/Recreation%20Advisory%20Committee%20-%20Oct%2005%202026.docx?handle=5E324BE4CD094FE9B9FE06D28978AA57",
+  "public_url": null
+ },
+ "lone-tree#9": {
+  "date": "2026-10-06",
+  "body": "City Council Study Session",
+  "kind": "agenda",
+  "title": "City Council Study Session - Oct 06 2026 - City Council Study Session - Oct 06 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35989/City%20Council%20Study%20Session%20-%20Oct%2006%202026.docx?handle=A35EA3BB84B64473BDD5379279F7F6A2",
+  "public_url": null
+ },
+ "lone-tree#10": {
+  "date": "2026-10-06",
+  "body": "City Council Regular Meeting Agenda ",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting Agenda  - Oct 06 2026 - City Council Regular Meeting Agenda - Oct 06 20.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/35993/City%20Council%20Regular%20Meeting%20Agenda%20-%20Oct%2006%2020.docx?handle=FA49024419E1430E9C4FC7F9E7470C15",
+  "public_url": null
+ },
+ "lone-tree#11": {
+  "date": "2026-10-08",
+  "body": "Youth Commission",
+  "kind": "agenda",
+  "title": "Youth Commission - Oct 08 2026 - Youth Commission - Oct 08 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/36431/Youth%20Commission%20-%20Oct%2008%202026.docx?handle=22679D4FB0E9414EACF317B668E8CFA3",
+  "public_url": null
+ },
+ "lone-tree#12": {
+  "date": "2026-10-12",
+  "body": "Living and Aging Well Commission ",
+  "kind": "agenda",
+  "title": "Living and Aging Well Commission  - Oct 12 2026 - Living and Aging Well Commission - Oct 12 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/36530/Living%20and%20Aging%20Well%20Commission%20-%20Oct%2012%202026.docx?handle=5E90CA1CF6CD4A43A9CF56A7E6BEBA7E",
+  "public_url": null
+ },
+ "lone-tree#13": {
+  "date": "2026-10-13",
+  "body": "Planning Commission Regular Meeting",
+  "kind": "agenda",
+  "title": "Planning Commission Regular Meeting - Oct 13 2026 - Planning Commission Regular Meeting - Oct 13 20.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/36270/Planning%20Commission%20Regular%20Meeting%20-%20Oct%2013%2020.docx?handle=ED5E21375DA743568ECCE5BDC3E8E349",
+  "public_url": null
+ },
+ "lone-tree#14": {
+  "date": "2026-10-14",
+  "body": "Arts Commission ",
+  "kind": "agenda",
+  "title": "Arts Commission  - Oct 14 2026 - Arts Commission - Oct 14 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/36641/Arts%20Commission%20-%20Oct%2014%202026.docx?handle=A981F156B77645F69648FDF8A7847CB3",
+  "public_url": null
+ },
+ "lone-tree#17": {
+  "date": "2026-10-26",
+  "body": "City Council Strategy Session",
+  "kind": "agenda",
+  "title": "City Council Strategy Session - Oct 26 2026 - City Council Strategy Session - Oct 26 2026.docx",
+  "url": "https://cityoflonetree.community.diligentoneplatform.com/document/36808/City%20Council%20Strategy%20Session%20-%20Oct%2026%202026.docx?handle=3727210869F143D788F2A4399A0DFD31",
   "public_url": null
  },
  "longmont#0": {
@@ -18656,6 +19496,14 @@
   "public_url": null
  },
  "morrison#7": {
+  "date": "2026-08-18",
+  "body": "Public Notices",
+  "kind": "agenda",
+  "title": "Aug 18, 2026 \u2014\u2009Amended Aug 14, 2026 4:10 PM Ord. 566 - AN ORDINANCE AMENDING TITLE 10 OF THE MORRISON MUNICIPAL CODE REGARDING GARDEN SHEDS, HOTELS AND MOTELS, ",
+  "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_08182026-1150",
+  "public_url": null
+ },
+ "morrison#8": {
   "date": "2026-09-01",
   "body": "Hogback Newsletter",
   "kind": "agenda",
@@ -18663,7 +19511,23 @@
   "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_09012026-1153",
   "public_url": null
  },
- "morrison#8": {
+ "morrison#9": {
+  "date": "2026-09-04",
+  "body": "Public Notices",
+  "kind": "agenda",
+  "title": "Sep 4, 2026 \u2014\u2009Amended Sep 10, 2026 3:12 PM AMENDED Public Notice: Written Comment Period for Ballot Issues - AMENDED DUE DATE: SEPTEMBER 16, 2026 Download\u00a0\u25bc Age",
+  "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_09042026-1154",
+  "public_url": null
+ },
+ "morrison#10": {
+  "date": "2026-09-15",
+  "body": "Public Notices",
+  "kind": "agenda",
+  "title": "Sep 15, 2026 \u2014\u2009Posted Sep 10, 2026 11:01 PM Ord. 562 - AN ORDINANCE AMENDING SECTIONS 3-6-2 AND 3-6-4 OF THE MORRISON MUNICIPAL CODE REGARDING A LODGING TAX EXE",
+  "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_09152026-1155",
+  "public_url": null
+ },
+ "morrison#11": {
   "date": "2026-09-15",
   "body": "Town Board Agendas and Minutes",
   "kind": "minutes",
@@ -18671,7 +19535,15 @@
   "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Minutes/_09152026-1156",
   "public_url": null
  },
- "morrison#9": {
+ "morrison#12": {
+  "date": "2026-10-06",
+  "body": "Public Notices",
+  "kind": "agenda",
+  "title": "Oct 6, 2026 \u2014\u2009Posted Sep 30, 2026 11:01 AM Ord. 567 - AN ORDINANCE AMENDING TITLE 5 OF THE MORRISON MUNICIPAL CODE REGARDING THE ABATEMENT OF A NUISANCE Downloa",
+  "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_10062026-1160",
+  "public_url": null
+ },
+ "morrison#13": {
   "date": "2026-10-06",
   "body": "Town Board Agendas and Minutes",
   "kind": "minutes",
@@ -18679,7 +19551,7 @@
   "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Minutes/_10062026-1163",
   "public_url": null
  },
- "morrison#10": {
+ "morrison#14": {
   "date": "2026-10-07",
   "body": "Town Board Agendas and Minutes",
   "kind": "agenda",
@@ -18687,7 +19559,7 @@
   "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_10072026-1162",
   "public_url": null
  },
- "morrison#11": {
+ "morrison#15": {
   "date": "2026-10-15",
   "body": "Public Notices",
   "kind": "agenda",
@@ -18695,7 +19567,15 @@
   "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_10152026-1158",
   "public_url": null
  },
- "morrison#12": {
+ "morrison#16": {
+  "date": "2026-10-20",
+  "body": "Public Notices",
+  "kind": "agenda",
+  "title": "Oct 20, 2026 \u2014\u2009Posted Oct 15, 2026 9:50 PM Ord. 568 - AN ORDINANCE REPEALING CHAPTER 6 OF TITLE 1 OF THE MORRISON MUNICIPAL CODE RELATED TO TOWN EMPLOYEE PLANS ",
+  "url": "https://www.morrisonco.us/AgendaCenter/ViewFile/Agenda/_10202026-1165",
+  "public_url": null
+ },
+ "morrison#17": {
   "date": "2026-10-20",
   "body": "Town Board Agendas and Minutes",
   "kind": "agenda",
@@ -19343,6 +20223,22 @@
   "url": "https://newcastleco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5630,plainText=false)",
   "public_url": "https://newcastleco.portal.civicclerk.com/event/767/files"
  },
+ "new-castle#28": {
+  "date": "2026-10-26",
+  "body": "Historic Preservation Commission ",
+  "kind": "agenda",
+  "title": "Historic Preservation Commission Special Meeting October 26, 2026 - HPC Special Meeting Oct. 26, 2026 revised",
+  "url": "https://newcastleco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5634,plainText=false)",
+  "public_url": "https://newcastleco.portal.civicclerk.com/event/2687/files"
+ },
+ "new-castle#29": {
+  "date": "2026-10-26",
+  "body": "Historic Preservation Commission ",
+  "kind": "agenda",
+  "title": "Historic Preservation Commission Special Meeting October 26, 2026 - HPC October 26, 2026 Special Meeting",
+  "url": "https://newcastleco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5639,plainText=false)",
+  "public_url": "https://newcastleco.portal.civicclerk.com/event/2687/files"
+ },
  "norwood#0": {
   "date": "2026-07-29",
   "body": "City Council",
@@ -19919,6 +20815,14 @@
   "url": "https://pagosaspringsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6626,plainText=false)",
   "public_url": "https://pagosaspringsco.portal.civicclerk.com/event/1419/files"
  },
+ "pagosa-springs#40": {
+  "date": "2026-10-26",
+  "body": "Joint Town/County Work Session",
+  "kind": "agenda",
+  "title": "Joint Town County Work Session - 10.26.26 Joint Town County Work Session UPDATED",
+  "url": "https://pagosaspringsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6632,plainText=false)",
+  "public_url": "https://pagosaspringsco.portal.civicclerk.com/event/1442/files"
+ },
  "palisade#0": {
   "date": "2026-10-13",
   "body": "City Council",
@@ -20462,6 +21366,14 @@
   "title": "Town Board Budget Work Session - 10/21/2026 Budget Work Session",
   "url": "https://paoniaco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2629,plainText=false)",
   "public_url": "https://paoniaco.portal.civicclerk.com/event/1639/files"
+ },
+ "paonia#37": {
+  "date": "2026-10-26",
+  "body": "Special Board Meeting",
+  "kind": "agenda",
+  "title": "10/26/2026 Board Special Meeting - 10/26/2026 Special Meeting Agenda",
+  "url": "https://paoniaco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2631,plainText=false)",
+  "public_url": "https://paoniaco.portal.civicclerk.com/event/1671/files"
  },
  "parachute#0": {
   "date": "2026-08-20",
@@ -23023,6 +23935,22 @@
   "url": "https://salidaco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1441,plainText=false)",
   "public_url": "https://salidaco.portal.civicclerk.com/event/657/files"
  },
+ "salida#16": {
+  "date": "2026-10-26",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Work Session - Planning Commission Work Session 10.26.2026 Agenda",
+  "url": "https://salidaco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1444,plainText=false)",
+  "public_url": "https://salidaco.portal.civicclerk.com/event/698/files"
+ },
+ "salida#17": {
+  "date": "2026-10-26",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Work Session - Planning Commission Work Session 10.26.2026 Packet",
+  "url": "https://salidaco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1445,plainText=false)",
+  "public_url": "https://salidaco.portal.civicclerk.com/event/698/files"
+ },
  "san-miguel-county#2": {
   "date": "2026-08-13",
   "body": "Planning Commission",
@@ -23222,6 +24150,14 @@
   "title": "Board of Adjustment Meeting - Agenda Packet",
   "url": "https://sanmiguelcoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2047,plainText=false)",
   "public_url": "https://sanmiguelcoco.portal.civicclerk.com/event/1072/files"
+ },
+ "san-miguel-county#33": {
+  "date": "2026-10-26",
+  "body": "San Miguel Basin Fair Board",
+  "kind": "agenda",
+  "title": "San Miguel Basin Fair Board Meeting 10/26 - 20261026 SMBFB Agenda",
+  "url": "https://sanmiguelcoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2058,plainText=false)",
+  "public_url": "https://sanmiguelcoco.portal.civicclerk.com/event/1092/files"
  },
  "severance#0": {
   "date": "2026-08-03",
@@ -23503,6 +24439,30 @@
   "url": "https://ci.sheridan.co.us/AgendaCenter/ViewFile/Agenda/_10212026-137",
   "public_url": null
  },
+ "sheridan#19": {
+  "date": "2026-10-26",
+  "body": "City Council Agendas",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 22, 2026 3:48 PM Regular City Council Meeting Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://ci.sheridan.co.us/AgendaCenter/ViewFile/Agenda/_10262026-138",
+  "public_url": null
+ },
+ "sheridan#20": {
+  "date": "2026-10-26",
+  "body": "City Council Work Session Agendas",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 22, 2026 3:49 PM City Council Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://ci.sheridan.co.us/AgendaCenter/ViewFile/Agenda/_10262026-139",
+  "public_url": null
+ },
+ "sheridan#21": {
+  "date": "2026-10-26",
+  "body": "Sheridan Redevelopment Agency Agendas",
+  "kind": "agenda",
+  "title": "Oct 26, 2026 \u2014\u2009Posted Oct 22, 2026 3:51 PM Sheridan Redevelopment Agency Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://ci.sheridan.co.us/AgendaCenter/ViewFile/Agenda/_10262026-140",
+  "public_url": null
+ },
  "silt#0": {
   "date": "2026-08-10",
   "body": "City Council",
@@ -23549,6 +24509,14 @@
   "kind": "agenda",
   "title": "October 13, 2026",
   "url": "https://www.townofsilt.org//townofsilt.org/i/u/2017580/f/bot_agendas/2026 BOT Agendas/agn_10-13-26_bot.pdf",
+  "public_url": null
+ },
+ "silt#6": {
+  "date": "2026-10-26",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "October 26, 2026",
+  "url": "https://www.townofsilt.org//townofsilt.org/i/u/2017580/f/bot_agendas/2026 BOT Agendas/agn_10-26-26_bot_2_.pdf",
   "public_url": null
  },
  "silver-cliff#0": {
@@ -24293,6 +25261,38 @@
   "kind": "minutes",
   "title": "Agenda",
   "url": "http://www.sterlingcolo.com/City Council/Agenda, Packet, Minutes/2026/10-13-2026 Special Meeting Agenda.pdf?t=202610091525150",
+  "public_url": null
+ },
+ "summit-county#0": {
+  "date": "2026-09-29",
+  "body": "Special Meeting",
+  "kind": "agenda",
+  "title": "Special Meeting - Sep 29 2026 - Special Meeting - Sep 29 2026.docx",
+  "url": "https://summitcountyco.community.diligentoneplatform.com/document/15006/Special%20Meeting%20-%20Sep%2029%202026.docx?handle=A13BD807288D4F95B4AC568BF21BD85D",
+  "public_url": null
+ },
+ "summit-county#1": {
+  "date": "2026-10-13",
+  "body": "Work Session",
+  "kind": "agenda",
+  "title": "Work Session - Oct 13 2026 - Work Session - Oct 13 2026.docx",
+  "url": "https://summitcountyco.community.diligentoneplatform.com/document/15537/Work%20Session%20-%20Oct%2013%202026.docx?handle=53CB2B29650244C392FD7317D9F8C0E8",
+  "public_url": null
+ },
+ "summit-county#2": {
+  "date": "2026-10-13",
+  "body": "Regular Meeting",
+  "kind": "agenda",
+  "title": "Regular Meeting - Oct 13 2026 - Regular Meeting - Oct 13 2026.docx",
+  "url": "https://summitcountyco.community.diligentoneplatform.com/document/15589/Regular%20Meeting%20-%20Oct%2013%202026.docx?handle=0A28F30B3C5741369B77FE49A974B5B2",
+  "public_url": null
+ },
+ "summit-county#3": {
+  "date": "2026-10-20",
+  "body": "Special Work Session",
+  "kind": "agenda",
+  "title": "Special Work Session - Oct 20 2026 - Special Work Session - Oct 20 2026.docx",
+  "url": "https://summitcountyco.community.diligentoneplatform.com/document/15891/Special%20Work%20Session%20-%20Oct%2020%202026.docx?handle=16C0D5F21D104A478C4036F3E707A8B3",
   "public_url": null
  },
  "superior#0": {
@@ -25527,6 +26527,198 @@
   "url": "https://washingtoncounty.colorado.gov/sites/g/files/lrnvjt1191/files/Agenda-102026.pdf",
   "public_url": null
  },
+ "weld-county#0": {
+  "date": "2026-07-29",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "July 29, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160030&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#1": {
+  "date": "2026-08-03",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 3, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160071&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#2": {
+  "date": "2026-08-05",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 5, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160104&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#3": {
+  "date": "2026-08-10",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 10, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160181&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#4": {
+  "date": "2026-08-12",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 12, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160320&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#5": {
+  "date": "2026-08-17",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 17, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160374&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#6": {
+  "date": "2026-08-19",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 19, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160409&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#7": {
+  "date": "2026-08-24",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 24, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160445&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#8": {
+  "date": "2026-08-26",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 26, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160488&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#9": {
+  "date": "2026-08-31",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 31, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160560&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#10": {
+  "date": "2026-09-02",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 2, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160618&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#11": {
+  "date": "2026-09-09",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 9, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160721&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#12": {
+  "date": "2026-09-14",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 14, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160819&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#13": {
+  "date": "2026-09-16",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 16, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=160869&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#14": {
+  "date": "2026-09-21",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 21, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161030&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#15": {
+  "date": "2026-09-23",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 23, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161070&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#16": {
+  "date": "2026-09-28",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 28, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161300&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#17": {
+  "date": "2026-09-30",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 30, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161365&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#18": {
+  "date": "2026-10-05",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "October 5, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161440&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#19": {
+  "date": "2026-10-12",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "October 12, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161583&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#20": {
+  "date": "2026-10-14",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "October 14, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161687&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#21": {
+  "date": "2026-10-19",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "October 19, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161800&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#22": {
+  "date": "2026-10-21",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "October 21, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161848&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
+ "weld-county#23": {
+  "date": "2026-10-26",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "October 26, 2026 - Agenda",
+  "url": "https://minutes.weld.gov/WebLink/DocView.aspx?id=161897&dbid=0&repo=CTBIMAGES",
+  "public_url": null
+ },
  "wellington#0": {
   "date": "2026-07-28",
   "body": "Board of Trustees",
@@ -25742,6 +26934,30 @@
   "title": "Board of Trustees Work Session - 2026-10-20 Packet",
   "url": "https://wellingtonco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2925,plainText=false)",
   "public_url": "https://wellingtonco.portal.civicclerk.com/event/1077/files"
+ },
+ "westcliffe#0": {
+  "date": "2026-08-18",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "BOT Aug 18 2026 Minute",
+  "url": "https://townofwestcliffe.colorado.gov/sites/g/files/lrnvjt781/files/documents/BOT-Aug-18-2026-Regular-Meeting.docx",
+  "public_url": null
+ },
+ "westcliffe#1": {
+  "date": "2026-09-15",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "BOT Sept 15 2026 Minutes",
+  "url": "https://townofwestcliffe.colorado.gov/sites/g/files/lrnvjt781/files/documents/BOT-Sept-15-2026-Regular-Meeting.docx",
+  "public_url": null
+ },
+ "westcliffe#2": {
+  "date": "2026-10-20",
+  "body": "City Council",
+  "kind": "agenda",
+  "title": "BOT Oct 20 2026 Regular Meeting",
+  "url": "https://townofwestcliffe.colorado.gov/sites/g/files/lrnvjt781/files/documents/BOT-Oct-20-2026-Reg-Mtg-Agenda.docx",
+  "public_url": null
  },
  "westminster#0": {
   "date": "2026-08-03",

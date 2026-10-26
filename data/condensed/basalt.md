@@ -172,7 +172,10 @@
 - CONSTRUCTION, EQUIPPING, REMODELING AND IMPROVEMENT OF CERTAIN
 - PURCHASE AGREEMENT, AND OTHER DOCUMENTS RELATED TO THE
 
-## [basalt#7] 2026-08-25 | Town Council | minutes
+## [basalt#7] 2026-08-20 | Town Council | agenda
+- 2. Council Prioritization Discussion
+
+## [basalt#8] 2026-08-25 | Town Council | minutes
 - These minutes were generated with the assistance of Al
 - APPROVE THE CONSENT AGENDA ITEMS AS PRESENTED WITH THE NOTED
 - inadequate illumination provided by the catenary street lights recently installed on Midland
@@ -205,11 +208,11 @@
 - contingency plan was also presented in the event the ballot initiative does not pass. For
 - Parcel 9, a stack of approximately $5 million has been identified, though the estimated cost
 
-## [basalt#8] 2026-08-27 | BACH | agenda
+## [basalt#9] 2026-08-27 | BACH | agenda
 - The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
 - Basalt Affordable Community Housing (BACH)
 
-## [basalt#9] 2026-09-01 | P & Z | agenda
+## [basalt#10] 2026-09-01 | P & Z | agenda
 - See separate instructions on how to access the meeting
 - Planning and Zoning Commission Meeting
 - 6:03 2A Approve Minutes
@@ -246,7 +249,7 @@
 - Key discussion items identified by staff included: consistency with the Master Plan; the level and unit
 - mix of affordable housing mitigation; compliance with minimum livability requirements; private
 
-## [basalt#10] 2026-09-03 | BPAC | agenda
+## [basalt#11] 2026-09-03 | BPAC | agenda
 - 5:02 2. Approval of Minutes of July 2, 2026
 - 5:05 3. Budget Overview . Doug Pattiso n, Finance Director, will present an
 - overview of the BPAC’s budget and funding sources
@@ -284,7 +287,7 @@
 - connected with Dance Aspen who didn’t know that they had an award pending
 - Nadolny said that this is the first year where so many awardees had completed their
 
-## [basalt#11] 2026-09-08 | Town Council | minutes
+## [basalt#12] 2026-09-08 | Town Council | minutes
 - These minutes were generated with the assistance of Al
 - 2C. Continue to September 22, 2026: Public Hearing on Resolution No. 34, Series of 2026;
 - 20. Continue to September 22, 2026: Public Hearing and Second Reading Ordinance No
@@ -318,14 +321,14 @@
 - update on Glenwood's South Bridge project. City Engineer Gordon provided background on
 - the project, which has been in development since approximately 2003. A significant redesign
 
-## [basalt#12] 2026-09-09 | POST | agenda
+## [basalt#13] 2026-09-09 | POST | agenda
 - Parks, Open Space and Trails Committee (POST)
 
-## [basalt#13] 2026-09-10 | BACH | agenda
+## [basalt#14] 2026-09-10 | BACH | agenda
 - The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
 - Basalt Affordable Community Housing (BACH)
 
-## [basalt#14] 2026-09-14 | Green Team | agenda
+## [basalt#15] 2026-09-14 | Green Team | agenda
 - 3:31 1. Approve Meeting Minutes of August 10, 2026
 - 3:33 2. Budget Overview – Doug Pattison, Finance Director, will present an
 - safety group and discuss potential baseline rules for the region. Attached
@@ -359,10 +362,10 @@
 - actively working on energy projects and analysis. T he Town is looking into an electrification project for
 - Town Hall. The Roaring Fork Apartments and River Park Center have both engaged with CORE for energy
 
-## [basalt#15] 2026-09-15 | P & Z | agenda
+## [basalt#16] 2026-09-15 | P & Z | agenda
 - Planning and Zoning Commission Meeting
 
-## [basalt#16] 2026-09-16 | Finance Committee | agenda
+## [basalt#17] 2026-09-16 | Finance Committee | agenda
 - Approve minutes of August 19, 2026
 - recommended for approval by Simon Dogbe and Eric Theile seconded the motion. The
 - minutes were unanimously approved. There were no FAB meetings in June or July
@@ -375,10 +378,10 @@
 - for $2,380,000. The units closed during the first week in August. The COP’s, if approved,
 - the COP will be approved by Council and issued in mid to late September
 
-## [basalt#17] 2026-09-17 | Town Council | agenda
+## [basalt#18] 2026-09-17 | Town Council | agenda
 - 2. Budget Worksession
 
-## [basalt#18] 2026-09-22 | Town Council | agenda
+## [basalt#19] 2026-09-22 | Town Council | agenda
 - MEETING AND PUBLIC COMMENT ACCESS INSTRUCTIONS
 - 5:00 S ITE VISIT : 218 E Valley Road - Meet at Movieland Parking Lot (James Lindt)
 - 2B. Resolution No. 39, Series of 2026. Resolution Approving First Amendment to
@@ -416,11 +419,11 @@
 - nicotine pouches, and argued that Basalt's current cigarette tax of two dollars per pack is
 - below the four-dollar rate in Pitkin County, Eagle County, and neighboring municipalities
 
-## [basalt#19] 2026-09-23 | POST | agenda
+## [basalt#20] 2026-09-23 | POST | agenda
 - Parks, Open Space and Trails Committee (POST)
 - 4:35 3. 2026 POST Project Review
 
-## [basalt#20] 2026-09-24 | BACH | agenda
+## [basalt#21] 2026-09-24 | BACH | agenda
 - The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
 - Basalt Affordable Community Housing (BACH)
 - Housing in Block 9, Willits Town Center (300 Robinson Street)
@@ -436,7 +439,7 @@
 - the requalification provisions are not specifically addressed in the approvals for
 - A) Ordinance No. 10, Series of 2019
 
-## [basalt#22] 2026-10-06 | P & Z | agenda
+## [basalt#23] 2026-10-06 | P & Z | agenda
 - See separate instructions on how to access the meeting
 - Planning and Zoning Commission Meeting
 - 6:03 2A Approve Minutes
@@ -474,11 +477,11 @@
 - Grant Du part, on behalf of Bowtie Partners and WalshDupart, presented updates
 - traffic and pedestrian circulation, architecture and design, and master plan
 
-## [basalt#23] 2026-10-08 | BACH | agenda
+## [basalt#24] 2026-10-08 | BACH | agenda
 - The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
 - Basalt Affordable Community Housing (BACH)
 
-## [basalt#24] 2026-10-12 | Green Team | agenda
+## [basalt#25] 2026-10-12 | Green Team | agenda
 - 3:31 1. Approve Meeting Minutes of September 14, 2026
 - 3:33 2. Lawn Equipment Discussion – Staff will lead a discussion and present a
 - lawn equipment for the Green Team’s consideration. This item will go before
@@ -511,7 +514,7 @@
 - To grow the program beyond Town-owned properties, Staff suggests considering effective dates
 - In contemplating how best to implement any future policy, Staff has provided a few options for
 
-## [basalt#25] 2026-10-14 | POST | agenda
+## [basalt#26] 2026-10-14 | POST | agenda
 - Parks, Open Space and Trails Committee (POST)
 - 4:05 2. Review and approval of minutes from August 12, 2026, and
 - 4:15 3. Presentation by Roaring Fork Mountain Bike Association (RFMBA)
@@ -547,7 +550,7 @@
 - Christoff asked if the group would be willing to hear presentations from Roaring Fork Outdoor
 - in preparation for Midvalley Trails funding considerations
 
-## [basalt#27] 2026-10-20 | P & Z | agenda
+## [basalt#28] 2026-10-20 | P & Z | agenda
 - See separate instructions on how to access the meeting
 - Planning and Zoning Commission Meeting
 - 6:03 2A Approve Minutes
@@ -584,9 +587,9 @@
 - Jessica Garrow of Design Workshop presented the draft code amendments, with Reilly Thimons
 - nearing final milestones and entering adoption hearings with Planning and Zoning and then Town
 
-## [basalt#28] 2026-10-22 | BACH | agenda
+## [basalt#29] 2026-10-22 | BACH | agenda
 - The Basalt Affordable Community Housing (BACH) Meeting will be held by Teleconference
 - Basalt Affordable Community Housing (BACH)
 
-## [basalt#29] 2026-10-22 | Town Council | agenda
+## [basalt#30] 2026-10-22 | Town Council | agenda
 - 5:00 PM WORK SESSION: STR Regulatory Fees Discussion

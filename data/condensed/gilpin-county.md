@@ -126,3 +126,52 @@
 -  Community Wildfire Protection Plan
 -  Annual Operating Plan
 - 3. CORA - Update on process/ fee – Kimberly Kaufman, Paralegal
+
+## [gilpin-county#10] 2026-10-26 | City Council | agenda
+- ublic hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
+- c. Approval of Minutes for October 13, 2026, Board of County Commissioner’s Meeting
+- d. DOLA EAIF Grant NO. 9953 Extension Letter- Jamie Boyle, Director of Community
+- 4. RESOLUTION 26-099 – Resolution Removing the Temporary Stage 1 Fire Restrictions that were
+- Previously Ordered to No Fire Restrictions in Gilpin County – Undersheriff Demo and Sheriff
+- ESOLUTION 26-100 - A Resolution Approving Participation in a Memorandum of Understanding
+- SOLUTION 26-101 - Authorizing The Submission of an Application to the Special Highway
+- unds if Awarded- Jeri Brewer, Manager of Strategic Projects, County Manager's Office
+- ESOLUTION 26-102 - Authorizing Local Planning Capacity Grant 24-011 Amendment Request
+- and Execution Jamie Boyle, Director of Community Development
+
+## [gilpin-county#11] 2026-10-26 | City Council | agenda
+- Public hearings will begin at the noticed time or later. All other agenda times are estimates and may be heard earlier or later
+- c. Approval of Minutes for October 13, 2026, Board of County Commissioner’s Meeting
+- d. DOLA EAIF Grant NO. 9953 Extension Letter- Jamie Boyle, Director of Community
+- 4. RESOLUTION 26-099 – Resolution Removing the Temporary Stage 1 Fire Restrictions that were
+- Previously Ordered to No Fire Restrictions in Gilpin County – Undersheriff Demo and Sheriff
+- 5. RESOLUTION 26-100 - A Resolution Approving Participation in a Memorandum of Understanding
+- 6. RESOLUTION 26-101 - Authorizing The Submission of an Application to the Special Highway
+- Funds if Awarded- Jeri Brewer, Manager of Strategic Projects, County Manager's Office
+- 7. RESOLUTION 26-102 - Authorizing Local Planning Capacity Grant 24-011 Amendment Request
+- and Execution Jamie Boyle, Director of Community Development
+- Requested by: Mary Lorenz, Gilpin County Treasurer, Treasurer
+- Public Hearing Required?
+- Background/Request Description:
+- Requested Action:
+- Grant-Related?
+- 1570 Grant Street, Suite 2020
+- Re: Request to Extend EIAF Grant No. 9953 – Gilpin County Rollinsville Plan and
+- Gilpin County respectfully requests a nine -month extension of EIAF Grant No. 9953, from
+- Project Final Report deadline and reporting schedule. The request does not change the
+- approved scope or grant amount
+- The project has experienced several setbacks, beginning with a near- complete loss of
+- Community Development staff in May and June 2025. The current Director assumed the
+- ongoing grant projects
+- for the Area Specific Plan and had no plans to do so. The County redirected the work to
+- More substantial concerns emerged regarding the consultant's interpretation of the project
+- scope. Although the grant contemplated both an Infrastructure Feasibility Study and an
+- Area Specific Plan, the consultant treated them as a single document focused a lmost
+- components expressly included in the grant agreement, such as regulatory barriers and
+- historic preservation goals. Staff repeatedly identified these omissions and direc ted
+- revisions, but significant feedback was not incorporated
+- The technical work also contained questionable assumptions, particularly regarding water
+- generic water-use estimates for the local brewery and distillery with actual data provided
+- Rollinsville's infrastructure options. Its roadway, parking, pedestrian safety, and civic
+- improvement findings provide useful direction for future planning. The water and
+- wastewater analyses identif y potential solutions, although certain calculations require

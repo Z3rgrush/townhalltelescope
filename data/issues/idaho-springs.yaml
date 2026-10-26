@@ -1,65 +1,74 @@
-- title: Carlson Elementary / 1300 Colorado Blvd 50-unit affordable housing denial
-  summary: 'The Planning Commission held a hearing on a Final Development Plan for a 50-unit affordable apartment project at the old Carlson Elementary site. Residents wrote in against it, citing parking and historic building code concerns. Council then considered Resolution #15 denying the plan at 1300 Colorado Boulevard.'
-  where: 1300 Colorado Boulevard (old Carlson Elementary)
+- title: Carlson Elementary / 1300 Colorado Blvd 50-unit affordable housing plan denied
+  summary: 'The Planning Commission held a public hearing on a Final Development Plan (FDP26-001) for a 50-unit affordable multifamily development at the old Carlson Elementary site. Residents wrote in and spoke about parking, building size and historic design standards. Council''s Aug. 10 agenda included Resolution #15 formally denying the plan.'
+  where: 1300 Colorado Boulevard (Old Carlson Elementary)
   refs:
   - 1
   - 2
   - 3
-  public_comment: true
+  - 15
   topics:
   - Housing
   - Zoning & development
-  - Historic preservation
-- title: 'Roberts Brothers Garage: arts center fee waivers and contributions'
-  summary: 'The Clear Creek Center for Arts & Education won a $1.538 million state grant needing a 1:1 match and has about $700,000 on hand. It asked the city for up to $729,307 in in-kind contributions and fee waivers. Council took up Resolution #27 on fee waivers for redevelopment of 121 15th Avenue, along with a historic designation ordinance and a parking fee-in-lieu request.'
+  public_comment: true
+- title: 'Roberts Brothers Garage: Clear Creek Center for Arts & Education fee waivers and contributions'
+  summary: 'The arts center has a $1.538 million state grant that needs a 1:1 match and has about $700,000 in hand. It asked the city for in-kind contributions and fee waivers worth up to $729,307. Council took up Resolution #27 granting fee waivers for the 121 15th Avenue redevelopment. Parking arrangements and a parking fee-in-lieu request also came up, and Ordinance #20 would designate the property as historic.'
   where: 121 15th Avenue (Roberts Brothers Garage)
   refs:
   - 8
-  - 9
   - 12
   - 13
   - 16
-  - 17
   - 24
-  - 25
   - 28
-  - 29
+  - 32
+  - 33
   topics:
-  - Fees & rates
+  - Economic development
   - Libraries & culture
   - Historic preservation
-- title: 'Parking: private paid parking moratorium, library parking and parking study'
-  summary: 'Council considered Ordinance #18, a temporary moratorium on permits for private paid parking facilities. A resident asked for free library parking to be restored, and a parking study with results was reviewed by the Planning Commission and Council. Residents also raised parking concerns about new development.'
-  where: Citywide
-  refs:
-  - 1
-  - 8
-  - 9
-  - 10
-  - 11
-  - 16
-  - 17
-  - 22
-  - 23
-  public_comment: true
-  topics:
-  - Roads & traffic
-  - Zoning & development
-  - Downtown & business
-- title: Recreational occupation tax ballot measure
-  summary: 'Ordinance #19 refers to voters a new occupational tax on outdoor recreation providers, with revenue dedicated to the impacts of those activities. The business promotions board was told it could charge up to $5 per customer, paid by the provider, to fund streets, parking, public safety, water and parks.'
+- title: Recreational occupation tax on outdoor recreation providers
+  summary: 'Council considered Ordinance #19 referring a ballot measure to voters for a new occupation tax on outdoor recreation outfitters, with revenue dedicated to impacts such as streets, parking, public safety and water. The tax could be up to $5 per customer and would be paid by the provider. Rafting businesses brought requests about the tax to Council in October.'
   where: Citywide
   refs:
   - 8
   - 9
-  - 30
   - 31
+  - 32
+  - 33
   topics:
   - Budget & taxes
   - Tourism & events
-  - Elections
+  - Fees & rates
+  public_comment: true
+- title: 'Downtown parking: paid parking moratorium, parking study and library parking'
+  summary: 'Council considered Ordinance #18, a temporary moratorium on permits for private paid parking facilities. Planning staff presented preliminary parking study results, and Council had a parking requirements study on its Sept. 28 agenda. Residents asked for free parking to be returned at the Library and for Disabled Veteran plates to get free managed parking. In October the parking enterprise''s name and scope were being amended.'
+  where: Downtown Idaho Springs
+  refs:
+  - 1
+  - 5
+  - 8
+  - 9
+  - 10
+  - 16
+  - 22
+  - 32
+  topics:
+  - Roads & traffic
+  - Downtown & business
+  - Fees & rates
+  public_comment: true
+- title: Two-way traffic on downtown Miner Street
+  summary: Council was asked on Oct. 26 to approve two-way vehicle traffic on downtown Miner Street. The Miner Street Market was scheduled to run through Halloween, with the street reopening to traffic Nov. 5.
+  where: Miner Street downtown
+  refs:
+  - 31
+  - 32
+  - 33
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: 2027 city budget
-  summary: The proposed 2027 budget was described as extremely difficult, with the General Fund tight, community promotion costs shifted to the Parking Fund and some employee benefits paused. City property tax revenue is expected to fall from $282,237 to $267,546 at the same 6.310 mill levy. The promotions board proposed a $211,109 baseline budget.
+  summary: The proposed 2027 budget was described as extremely difficult to prepare. It moves community promotion costs to the Parking Fund and pauses some employee benefits, and General Fund revenue is projected to be only about $100,000 above 2024. The city's property tax share falls from $282,237 to $267,546 at the same 6.310 mill rate. The promotions board recommended a $211,109 baseline budget.
   where: Citywide
   refs:
   - 18
@@ -72,98 +81,80 @@
   - 31
   topics:
   - Budget & taxes
-  - Government operations
-- title: Affordable and senior housing efforts
-  summary: 'Council applied to the state Division of Housing for predevelopment funding for the Idaho Springs Affordable Senior Housing Project. It also discussed housing incentives, the Proposition 123 commitment for 2027-2029, and the Clear Creek Regional Housing Authority. A group homes and Fair Housing Act code amendment (Ordinance #17) also advanced.'
+- title: Affordable and senior housing incentives, Prop 123 and Fair Housing code changes
+  summary: 'Council worked on affordable housing incentives, an Affordable Senior Housing Project, and a DOLA predevelopment funding application. It also covered its Proposition 123 commitment for 2027-2029. Ordinance #17 amends the city code on housing for people with disabilities to conform with state and federal Fair Housing law, and a group homes code amendment was also discussed.'
   where: Citywide
   refs:
   - 0
   - 2
-  - 3
   - 8
-  - 9
   - 10
-  - 11
   - 16
-  - 17
   - 20
   - 22
-  - 23
   topics:
   - Housing
   - Zoning & development
   - Government operations
+- title: 2026 Comprehensive Plan adoption
+  summary: The Planning Commission reviewed the draft and held a hearing on a resolution recommending the 2026 Comprehensive Plan. Council took it up again in a September discussion and approved it by resolution on Oct. 26.
+  where: Citywide
+  refs:
+  - 0
+  - 12
+  - 24
+  - 32
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Noise ordinance with decibel limits
-  summary: Staff proposed adding measurable decibel limits to the noise ordinance, since it currently sets none, so police can enforce an objective standard. Proposals include zone limits such as 55 dB daytime in parks and readings taken at the property line.
+  summary: The city code sets no maximum decibel level, so police have no objective standard to enforce. Staff proposed adding decibel limits by zone, measured at the property line, with a professional dB reader. Council discussed this in August and September.
   where: Citywide
   refs:
   - 2
-  - 3
   - 22
   - 23
   topics:
   - Policing & public safety
   - Government operations
-- title: Comprehensive Plan and design and development standards
-  summary: 'The Planning Commission and Council worked on the 2026 Comprehensive Plan, with a resolution recommending its adoption on the October 7 agenda. Residents urged stronger design, buffer and parking standards for new development, and a nonconforming buildings amendment (Ordinance #22) was introduced.'
-  where: Citywide
+- title: Golddigger Park and Fieldhouse development park conveyance
+  summary: 'Council considered accepting a new park conveyed by the Fieldhouse development, and Resolution #29 accepts Lot 3 of the former Golddigger Field subdivision as a city park named Golddigger Park. A related minor subdivision of Lots 1-12 to create a fourth lot was heard by the Planning Commission and Council. A neighbor also raised concerns about apartments at the Field House.'
+  where: Block 57, former Golddigger Field
   refs:
-  - 0
   - 1
   - 10
-  - 11
-  - 12
-  - 13
-  - 24
-  - 25
-  - 28
-  - 29
-  public_comment: true
-  topics:
-  - Zoning & development
-  - Government operations
-- title: Water use and city landscaping
-  summary: A resident said that during water restrictions the city should follow the same rules, criticizing the waterfall, sprinklers and runoff on city property. She urged native plant landscaping.
-  where: Citywide
-  refs:
-  - 11
-  public_comment: true
-  topics:
-  - Water
-  - Environment & climate
-- title: Fieldhouse development park and Golddigger Park
-  summary: Council considered a new park conveyed by the Fieldhouse development and accepted Lot 3 of the former Golddigger Field subdivision as a city park named Golddigger Park. A minor subdivision of lots in Block 57 was also reviewed.
-  where: Former Golddigger Field, Block 57
-  refs:
-  - 10
-  - 11
   - 16
-  - 17
   - 22
-  - 23
   - 25
   topics:
   - Parks & open space
   - Land & property
-  - Zoning & development
-- title: I-70 Floyd Hill project and Exit 240 agreements
-  summary: Council received an I-70 Floyd Hill project update and considered a resolution approving an agreement tied to the project near Exit 240, plus a RAISE planning grant for downtown improvements.
+  - Housing
+  public_comment: true
+- title: Water use and city landscaping during restrictions
+  summary: A resident told the Planning Commission the city should follow the residential water restrictions, citing the waterfall running, sprinklers on city property and water running down the street. She urged native plant landscaping.
+  where: Citywide
+  refs:
+  - 11
+  topics:
+  - Water
+  - Environment & climate
+  public_comment: true
+- title: I-70 Floyd Hill project and Exit 240 agreement
+  summary: 'Council received an I-70 Floyd Hill project update. It also considered Resolution #18 approving an agreement for a project near Exit 240, tied to a downtown RAISE planning grant.'
   where: I-70 near Exit 240
   refs:
   - 8
-  - 9
   - 16
   - 17
   topics:
   - Roads & traffic
-  - Downtown & business
-- title: Disabled veteran plates and free managed parking
-  summary: A Libertarian Party representative asked the promotions board to recommend that vehicles with Disabled Veteran plates get free parking in the managed parking program, as handicap placards do now.
-  where: Downtown Idaho Springs
+  - Transit
+- title: Stop signs and traffic complaints
+  summary: A resident asked for stop signs at 16th Avenue and Colorado Blvd, citing increased traffic.
+  where: 16th Avenue and Colorado Boulevard
   refs:
-  - 5
-  public_comment: true
+  - 1
   topics:
   - Roads & traffic
-  - Downtown & business
-  - Health & human services
+  public_comment: true

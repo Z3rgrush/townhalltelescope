@@ -448,3 +448,18 @@
 - 12) Chairperson identified the issues to be discussed among commissioners
 - 13) Discussion between commissioners*
 - *Make sure the discussion and motion includes what criteria are met or not met
+
+## [aspen#32] 2026-10-26 | INFORMATION UPDATE | agenda
+- Forthcoming Amendments to Short-term Rental (STR) Program Guidelines
+- Continued Stage Three Water Restrictions
+- Information-Only Report - Forthcoming Amendments to Short-term Rental (STR)
+- Attachment B - Resolution #137 Series of 2024.pdf
+- Attachment C - Ordinance #08, Series of 2025_Final.pdf
+
+## [aspen#33] 2026-10-26 | CITY COUNCIL WORK SESSION | agenda
+- Conversation with the Ruedi Water and Power Authority (RWAPA) Executive
+- Budget Work Session Day Four: Open Items and Budget Wrap Up
+- ACRA: 2027 Budget
+- CORE: 2027 Budget
+- 2026-10 Presentation to Aspen City Council.docx
+- 2027 Budget Work Session 4 - Wrap up.pdf

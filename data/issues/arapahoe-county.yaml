@@ -1,18 +1,29 @@
-- title: County data center policy review and tour
-  summary: Commissioners got a data center overview on Sept. 22 ahead of a Sept. 25 tour, covering water and cooling use, infrastructure, incentives and the 57 data centers in Colorado. A follow-up study session on possible Land Development Code updates and air quality permitting is set for Oct. 19, and commissioners want data center land use and environmental concerns added to the county's legislative priorities.
+- title: Data center policy, tour and possible Land Development Code rules
+  summary: Commissioners got a data center overview on Sept. 22 ahead of a Sept. 25 tour of facilities, covering water and cooling, incentives, and the 57 data centers in Colorado. A follow-up on environmental and regulatory issues and possible Land Development Code updates was scheduled for Oct. 19, and commissioners want legislative priorities on data center land use and environmental concerns.
   where: Countywide
   refs:
   - 27
   - 29
   - 36
-  tags:
-  - data-center
   topics:
   - Data centers
   - Zoning & development
   - Environment & climate
-- title: Water Supply Element of the Comprehensive Plan
-  summary: Staff are adding a state-mandated water supply chapter to the 2018 Comprehensive Plan, based on the 2024 Water Supply Study and SB 24-174. It covers projected 2050 demand, groundwater protection and conservation. It went to the Planning Commission in September and a public hearing is scheduled Oct. 20.
+  tags:
+  - data-center
+- title: 2027 county budget and 2026 Q2 budget review
+  summary: Staff reviewed the 2026 second-quarter budget and supplemental requests in August, with a public hearing set for Sept. 8. The 2027 Recommended Budget was submitted Oct. 13 as structurally balanced and was presented again to the Executive Budget Committee on Oct. 20. The Board of Health also took up its FY2027 budget.
+  where: Countywide
+  refs:
+  - 8
+  - 13
+  - 34
+  - 37
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Water Supply Element of the County Comprehensive Plan
+  summary: Staff proposed a new Chapter V water supply element for the 2018 Comprehensive Plan, required by state law and based on the 2024 Water Supply Study. It covers growth scenarios to 2050, groundwater protection and conservation. It went to the Board in a study session and to the Planning Commission for hearing on Oct. 20.
   where: Countywide
   refs:
   - 22
@@ -21,3 +32,98 @@
   topics:
   - Water
   - Zoning & development
+- title: Rezoning proposals and land development code changes
+  summary: The Planning Commission held a study session on proposed county rezoning for areas including the Federal Enclave, Dry Creek, 4 Square Mile and Belleview, with survey results and public comments attached. It also took up a group homes Land Development Code amendment and a public land dedication amendment.
+  where: Federal Enclave, Dry Creek, 4 Square Mile, Belleview
+  refs:
+  - 5
+  - 12
+  - 31
+  topics:
+  - Zoning & development
+  - Housing
+  - Land & property
+  public_comment: true
+- title: 'Affordable housing: Prop 123 commitment and private activity bonds'
+  summary: The Board approved 5-0 submitting the county's 2027-2029 Proposition 123 commitment, which sets a target of 231 affordable units. It also reassigned $3 million of 2026 private activity bond authority after a prioritized project's financing changed, and applied to a Design Charrettes program for redevelopment of county-owned 4857 S. Broadway, Englewood.
+  where: Countywide; 4857 S. Broadway, Englewood
+  refs:
+  - 1
+  - 9
+  - 35
+  topics:
+  - Housing
+  - Land & property
+- title: Gun Club Road widening and transmission line relocation
+  summary: Commissioners reviewed a relocation agreement for the CORE transmission line for the C19-007 Gun Club Road widening between the E-470 ramps and East Belleview Avenue. Right-of-way would grow from about 89 to 141 feet, with the county paying design and construction costs. The item continued in executive session.
+  where: South Gun Club Road between E-470 ramps and East Belleview Avenue
+  refs:
+  - 28
+  topics:
+  - Roads & traffic
+  - Utilities
+- title: Pipeline use-by-special-review approval
+  summary: The Board heard a joint water pipeline project, with a map of the route, referral comments from Colorado Parks and Wildlife and CDOT questions. No public comment was received at the Planning Commission.
+  where: Eastern Arapahoe County
+  refs:
+  - 9
+  topics:
+  - Water
+  - Land & property
+- title: Airpark/Monaghan interchange agreement and impact fee
+  summary: Commissioners went into executive session to get legal advice on a proposed intergovernmental agreement for the Airpark/Monaghan Interchange Project and a proposed interchange impact fee. Boom Supersonic requests were also followed up in closed sessions.
+  where: Airpark/Monaghan interchange
+  refs:
+  - 20
+  - 30
+  - 33
+  topics:
+  - Roads & traffic
+  - Fees & rates
+  - Economic development
+- title: Onsite wastewater cease-and-desist hearing at 23900 E. Ohio Ave.
+  summary: The Board of Health held a cease-and-desist hearing over a septic system at 23900 E. Ohio Ave.; the homeowner did not attend. Board members discussed options to gain compliance, and an update was scheduled for September.
+  where: 23900 E. Ohio Ave.
+  refs:
+  - 13
+  - 23
+  topics:
+  - Health & human services
+  - Environment & climate
+- title: Swimming pool and aquatic venue regulation
+  summary: The Board of Health considered a resolution to establish the existing state code as the local standard for pools and start a stakeholder process for local aquatic rules, possibly based on the CDC Model Aquatic Health Code. It does not itself adopt new fees or licensing.
+  where: Countywide
+  refs:
+  - 39
+  topics:
+  - Health & human services
+  - Fees & rates
+  public_comment: true
+- title: Short-term rental licensing fees
+  summary: The consent agenda amended the zoning fee schedule to include short-term rental licensing.
+  where: Unincorporated Arapahoe County
+  refs:
+  - 0
+  topics:
+  - Short-term rentals
+  - Fees & rates
+- title: Human services payment error rate costs and legislative priorities
+  summary: Staff warned that the state plans to cover 60% of a reduction in allocation tied to the Payment Error Rate, leaving counties to cover the rest, and discussed how county human services could lower errors. Commissioners also reviewed state and federal legislative priorities and 2026 ballot measures.
+  where: Countywide
+  refs:
+  - 14
+  - 21
+  - 29
+  - 30
+  topics:
+  - Health & human services
+  - Budget & taxes
+- title: 2027 Open Space grants and High Line Canal leases
+  summary: Staff recommended keeping the 2027 Open Space grant allocation at $5.5 million while raising the maximum standard award from $600,000 to $750,000. The Board also reviewed extending High Line Canal recreation leases with local government partners.
+  where: Countywide; High Line Canal
+  refs:
+  - 28
+  - 29
+  topics:
+  - Parks & open space
+  - Recreation & trails

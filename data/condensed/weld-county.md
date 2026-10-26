@@ -1,0 +1,968 @@
+# weld-county
+
+## [weld-county#0] 2026-07-29 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from July 15, 2026
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1. 2026-1919: Consider Contract ID #11006 Memorandum of Understanding for
+- 2. 2026-1920: Consider Contract ID #11007 Purchase Order to Accept Small
+- Dollar Grant Award Funds for High Visibility Impaired Driving Enforcement, and
+- 3. 2026-1921: Consider Contract ID #11010 Order Form and Master Service
+- Agreement for Purchase, Installation, and Maintenance of Flock License Plate
+- Reader Cameras and Safety Platform, Pursuant to Cooperative Source, and
+- 4. 2026-1922: Consider Declaration of Certain Equipment as Surplus Property,
+- 5. 2026-1923: Consider Contract ID #10930 Memorandum of Understanding for
+- 6. 2026-1924: Consider Contract ID #10951 Core Services Program Plans I and
+- 7. 2026-1925: Consider Contract ID #10954 Amendment #4 to Facility Usage
+- License Agreement and Rental Guidelines for Friendly Fork Senior Nutrition
+- 8. 2026-1926: Consider Contract ID #10996 Consent to Assignment and
+- Assumption of Professional Service Agreement for Various Core and Non-Core
+- Child Welfare Services (Bid #B2500040) from Brad's House Longmont to
+- 9. 2026-1927: Consider Contract ID #11004 Amendment #2 to Commercial Real
+- Estate Lease Agreement for Child Welfare Family Support Visitation Center
+- (FSVC) Office Space (810 9th Street, Suites 150 and 200, Greeley) and
+- 10. 2026-1928: Consider Contract ID #11005 Agreement Concerning Use of Weld
+- 11. 2026-1929: Consider Contract ID #10999 Commitment Letter for Engineering
+- and Legal Fees for New Construction of Bridge 54/19A Over Irrigation Canal
+- for County Road 54 Corridor Project, and Authorize Chair to Sign —
+- New Business — Ordinances:
+- 1. 2026-1930: Second Reading of Code Ordinance #2026-11, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 2 Administration of the
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-1931: Contract ID #11001 Amendment #1 to Memorandum of
+- 2. 2025-1353: Contract ID #10997 Change Order #1 to Agreement for
+- (Bid #B2500063) —Adiona Transportation Solutions, LLC
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-1895: Approve Contract ID #10993 Amendment #4 to Task Order
+- Contract for Public Health Emergency Preparedness and Response Program
+- 2. 2026-1896: Approve Contract ID #10994 Acceptance of Statement of Work for
+
+## [weld-county#1] 2026-08-03 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- 1. 2026-1767: Reversal of Rejection to Approve Bid #B2600067, Document
+- 2. 2026-1954: Approve Bid #B2600071, Roof Replacement for Weld County
+- 1. 2026-0458: Consider Contract ID #11038 Change Order #3 to Agreement for
+- (Bid #B2600011), and Authorize Chair to Sign —Ancon II Constructors, Inc
+- 2. 2026-1955: Consider Amended Bylaws for Building Trades Advisory
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-0458: Contract ID #11039 Change Order #3 to Agreement for
+- (Bid #B2600011) —Ancon II Constructors, Inc
+- 2. 2025-2845: Renewal of Petition for Annexation of County Road 35
+- (aka North 35th Avenue) between "F" Street and "O" Street — City of Greeley
+- 3. 2017-0451: Contract ID #11011 Agreement Renewal #7 to ALEX License
+- Agreement for Benefits Counselor and Financial Wellness Software —
+- 4. 2026-1956: Contract ID #11012 Memorandum of Understanding for
+- Wiggins Rural Fire Protection District
+- 5. 2026-1957: Contract ID #11013 Memorandum of Understanding for
+- Adams County Fire Protection District
+- 6. 2026-1958: Contract ID #11014 Memorandum of Understanding for
+- Longmont Fire Department
+- 7. 2026-1959: Contract ID #11015 Public Safety Communications Services
+- Agreement —Ault Fire Protection District
+- 8. 2026-1960: Contract ID #11016 Public Safety Communications Services
+- Agreement —American Medical Response
+- 9. 2026-1961: Contract ID #11017 Public Safety Communications Services
+- Agreement — City of Dacono
+- 10. 2026-1962: Contract ID #11018 Public Safety Communications Services
+- Agreement — Eaton Fire Protection District
+- 11. 2026-1963: Contract ID #11019 Public Safety Communications Services
+- Agreement — Evans Fire Protection District
+- 12. 2026-1964: Contract ID #11020 Public Safety Communications Services
+- Agreement — City of Fort Lupton
+- 13. 2026-1965: Contract ID #11002 Road Maintenance Improvements Agreement
+- for Oil and Gas Location Assessment (1041 WOGLA) Permit,
+- 14. 2026-1966: Contract ID #11003 Road Maintenance Improvements Agreement
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-1919: Approve Contract ID #11006 Memorandum of Understanding for
+- 2. 2026-1920: Approve Contract ID #11007 Purchase Order to Accept Small
+- Dollar Grant Award Funds for High Visibility Impaired Driving Enforcement
+- 3. 2026-1921: Approve Contract ID #11010 Order Form and Master Service
+
+## [weld-county#2] 2026-08-05 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from July 22, 2026
+- BURNCO Colorado, LLC, do Joel Bolduc, Water Activity Enterprise of the
+- Groundwater Management Subdistrict of the Central Colorado Water
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1. 2026-1989: Approve Bid #B2600053, Food and Beverage Vending Machine
+- 1. 2026-1990: Consider Extension of Temporary Closure of County Road 49
+- Between County Roads 70 and 72
+- 2. 2026-1991: Consider Temporary Closure of County Road 80 Between County
+- Road 13 and State Highway 257
+- 3. 2026-1992: Consider Amended Bylaws for Extension Advisory Council
+- New Business — Ordinances:
+- 1. 2026-1993: Final Reading of Ordinance #262-A, In the Matter of a
+- 1. 2026-1994: Consider Request to Extend Time to Record Map for Use by
+- Special Review Permit, USR25-0021 — Robert Anderson, c/o Windy Bluff
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-1995: Appointment of Chief Deputy District Attorney — Lacy Wells
+- 2. 2026-1996: Contract ID #11021 Public Safety Communications Services
+- Agreement — Frederick-Firestone Fire District
+- 3. 2026-1997: Contract ID #11022 Public Safety Communications Services
+- Agreement — Frederick Police Department
+- 4. 2026-1998: Contract ID #11023 Public Safety Communications Services
+- Agreement — Front Range Fire Rescue Fire Protection District
+- 5. 2026-1999: Contract ID #11024 Public Safety Communications Services
+- Agreement — Hudson Fire Protection District
+- 6. 2026-2000: Contract ID #11025 Public Safety Communications Services
+- Agreement — Hudson Police Department
+- 7. 2026-2001: Contract ID #11026 Public Safety Communications Services
+- Agreement — Kersey Police Department
+- 8. 2026-2002: Contract ID #11027 Public Safety Communications Services
+- Agreement — LaSalle Fire Protection District
+- 9. 2026-2003: Contract ID #11028 Public Safety Communications Services
+- Agreement — LaSalle Police Department
+- 10. 2026-2004: Contract ID #11029 Public Safety Communications Services
+- Agreement — Town of Lochbuie
+- 11. 2026-2005: Contract ID #11030 Public Safety Communications Services
+- Agreement — Town of Milliken
+- 12. 2026-2006: Contract ID #11031 Public Safety Communications Services
+- Agreement — Mountain View Fire Rescue
+- 13. 2026-2007: Contract ID #11032 Public Safety Communications Services
+- Agreement — Pawnee Fire Protection District
+- 14. 2026-2008: Contract ID #11033 Public Safety Communications Services
+
+## [weld-county#3] 2026-08-10 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- Award — Department of Public Health and Environment, Community Health
+- Assessment Incentive Program
+- Award — Department of Public Health and Environment, Childhood Lead
+- Award — Department of Information Technology, Transforming, Modernizing,
+- Award — Department of Planning Services, One Bite at the Apple: Creating a
+- Award — Department of Public Information and Communications, Connecting
+- Directly with County Residents: How One Addition to the Property Tax Notice
+- Award — Pops the Triceratops Fossil Restoration
+- 1. 2026-2040: Approve Bid #B2600026, Dell Maintenance and Support —
+- 1. 2026-2041: Consider Contract ID #10907 High Pressure Gas Applicant Funded
+- Agreement for High Plains Boulevard (aka County Road 9.5) Project, Between
+- County Roads 32 and 34, and Authorize Chair to Sign — Public Service
+- 2. 2026-2042: Consider Contract ID #11061 Agreement for Removal of Gas / Oil
+- Pipelines for State Highway 392 and County Road 37 Intersection Project, and
+- 3. 2026-2043: Consider Extension of Temporary Closure of County Road 7
+- Between State Highway 7 and County Road 6
+- 4. 2026-2044: Consider Temporary Closure of County Road 42 Between
+- County Roads 15 and 17
+- 5. 2026-2045: Consider Temporary Closure of County Road 39 Between
+- County Roads 94 and 96
+- 6. 2026-2046: Consider Temporary Emergency Closure of County Road 35
+- Between County Road 66 (aka AA Street) and State Highway 392
+- 7. 2026-2047: Consider Agreement for Loan of Plaster Cast for "Dinomania"
+- New Business — Ordinances:
+- 1. 2026-2048: Second Reading of Code Ordinance #2026-04, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 2 Administration,
+- Chapter 21 Areas and Activities of State Interest, and Chapter 23 Zoning of the
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: August 10, 2026
+- 1. 2026-2049: Hearing to allow public input concerning Community Development
+- Block Grant (CDBG) 2026-2030 Consolidated Plan and 2026 Annual Action
+- Plan for utilization of program funds for infrastructure improvements, public
+- facilities, public services, housing rehabilitation, and general grant
+- Applicant: Weld County, 1150 O Street, Greeley, Colorado 80631
+- 1. 2026-2051: Contract ID #11051 Individual Provider Contract for Purchase of
+- 2. 2026-2052: Contract ID #11053 Individual Provider Contract for Purchase of
+
+## [weld-county#4] 2026-08-12 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1. 2026-2089: Consider Amended Bylaws for Workforce Development Board and
+- 2. 2026-2090: Consider Appointments to Building Trades Advisory Committee
+- 3. 2026-2091: Consider Appointment to Community Corrections Board
+- 4. 2026-2092: Consider Reassignment to Extension Advisory Council
+- 5. 2026-2093: Consider Appointment to Regional Communications Advisory
+- 6. 2026-2094: Consider Reappointment to Weld County Fair Board
+- New Business — Ordinances:
+- 1. 2026-2095: Final Reading of Code Ordinance #2026-11 , In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 2 Administration of the
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 2. 2026-2097: Contract ID #11063 Intergovernmental Agreement for Conduct of
+- Community Development Block Grant (CDBG) Program in Weld County —
+- 3. 2026-2098: Contract ID #11065 Intergovernmental Agreement for Conduct of
+- 4. 2026-2099: Contract ID #11067 Intergovernmental Agreement for Conduct of
+- 5. 2026-2100: Contract ID #11068 Intergovernmental Agreement for Conduct of
+- 6. 2026-2101: Contract ID #11069 Intergovernmental Agreement for Conduct of
+- 7. 2026-2102: Contract ID #11071 Intergovernmental Agreement for Conduct of
+- Town of Firestone
+- 8. 2026-2103: Contract ID #11072 Intergovernmental Agreement for Conduct of
+- 9. 2026-2104: Contract ID #11073 Intergovernmental Agreement for Conduct of
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2041: Approve Contract ID #10907 High Pressure Gas Applicant Funded
+- Agreement for High Plains Boulevard (aka County Road 9.5) Project, Between
+- County Roads 32 and 34 — Public Service Company of Colorado,
+- 2. 2026-2042: Approve Contract ID #11061 Agreement for Removal of Gas / Oil
+- Pipelines for State Highway 392 and County Road 37 Intersection Project —
+- 3. 2026-2043: Approve Extension of Temporary Closure of County Road 7
+- Between State Highway 7 and County Road 6
+- 4. 2026-2044: Approve Temporary Closure of County Road 42 Between
+- County Roads 15 and 17
+- 5. 2026-2045: Approve Temporary Closure of County Road 39 Between
+- County Roads 94 and 96
+- 6. 2026-2046: Approve Temporary Emergency Closure of County Road 35
+- Between County Road 66 (aka AA Street) and State Highway 392
+- 7. 2026-2047: Approve Agreement for Loan of Plaster Cast for "Dinomania"
+- 8. 2026-2049: Approve Community Development Block Grant (CDBG) Five-Year
+
+## [weld-county#5] 2026-08-17 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- 1 . 2026-2116: Approve Bid #B2600073, Chip Seal Aggregate Supply —
+- 1 . 2026-2117: Consider Contract ID #11080 Amendment #1 to Participation
+- Agreement for Online Posts of Surety Bonds for Compliance of House Bill,
+- 2. 2026-2118: Consider Contract ID #11076 Amendment #3 to Master Agreement
+- 3. 2026-2119: Consider Declaration of Certain Equipment as Surplus Property,
+- 4. 2026-2120: Consider Contract ID #11059 Amendment #1 to Lease Agreement
+- for Chase Building (822 7th Street, Suite 550, Greeley) and Authorize Chair to
+- Sign — Upstate Colorado Economic Development Action Partnership, Inc
+- 5. 2026-2121: Consider Mini-Grant Application for 2026-2027 Preventative Block
+- Grant (PBG) Program Funds for Community Health Improvement Plan (CHIP)
+- 6. 2026-2122: Consider Temporary Closure of County Road 27 (aka 83rd Avenue)
+- Between County Road 64 (aka O Street) and West 4th Street
+- 7. 2026-2123: Consider Temporary Closure of County Road 66 Between County
+- Road 37 and U.S. Highway 85
+- 8. 2026-2124: Consider Itemized List of Legal Holidays During Calendar
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2126: Contract ID #11077 Individual Provider Contract for Purchase of
+- 2. 2026-2127: Contract ID #11078 Individual Provider Contract for Purchase of
+- 3. 2026-2127: Contract ID #11079 Individual Provider Contract for Purchase of
+- 4. 2023-2393: Contract ID #11062 Extension/Renewal #3 to Service Agreement
+- for South County Buildings Flooring Maintenance (Informal Bid #B2300150) —
+- 5. 2026-1767: Contract ID #11074 Service Agreement for Document Destruction
+- Services (Bid #2600067) - Shred Monster, LLC
+- 6. 2023-2547: Contract ID #11075 Extension/Renewal #3 to Service Agreement
+- for South County Buildings Custodial Services (Informal Bid #B2300148) —
+- 7. 2026-0127: Contract ID #11081 Change Order #1 to Service Agreement for
+- Trash Service (Bid #B2500153) — Waste Management of Colorado, Inc
+- 8. 2023-1451: Contract ID #11082 Change Order #4 to Agreement for
+- Construction Services for Chase Building (822 7th Street, Greeley) Renovation
+- Project (Bid #B2300107) — TCC Corporation
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2089: Approve Amended Bylaws for Workforce Development Board
+- 2. 2026-2090: Approve Appointments to Building Trades Advisory Committee
+- 3. 2026-2091: Approve Appointment to Community Corrections Board
+
+## [weld-county#6] 2026-08-19 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- 1. 2026-2143: Consider Contract ID #11009 Memorandum of Understanding for
+- 2. 2026-2144: Consider Conduct of Oral Auction for Large Tract Oil and Gas
+- No Bid Received
+- 3. 2026-2145: Consider Conduct of Oral Auction for Large Tract Oil and Gas
+- 4. 2026-2146: Consider Reappointment to Weld County Regional Opioid Council
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: August 19, 2026
+- 1. 2026-2062: Use by Special Review Permit, USR26-0017, for a Kennel
+- Located north of and adjacent to unmaintained County Road 92;
+- approximately 0.37 miles east of County Road 33
+- 2. 2026-2072: First Major Amended Use by Special Review Permit,
+- 3. Water Activity Enterprise of the Groundwater Management
+- Subdistrict of the Central Colorado Water Conservancy
+- 3209 West 28th Street, Greeley, Colorado 80634
+- Located north of and adjacent to County Road 58, northeast of and
+- adjacent to Weld County Parkway, and west of and adjacent to
+- County Road 49 section line
+- and Lot B of Corrected Second Amended Recorded Exemption,
+- 1. 2023-1571: Contract ID #11064 Amendment #3 (Schedule A) to Accurint Trax
+- 2. 2022-3208: Contract ID #11070 Universal Amendment #1 to Master Services
+- Agreement for Enterprise Resource Planning (ERP) Software for
+- Implementation and Integration Services (Bid #B2200041) — Workday, Inc
+- 3. 2026-2147: Contract ID #11083 Intergovernmental Agreement for Conduct of
+- Community Development Block Grant (CDBG) Program in Weld County —
+- 4. 2026-2148: Contract ID #11086 Intergovernmental Agreement for Conduct of
+- 5. 2024-2123: Contract ID #11089 Extension/Renewal #2 to Service Agreement
+- for Window Cleaning Services at Various Locations (Informal Bid #B2400110) —
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2117: Approve Contract ID #11080 Amendment #1 to Participation
+- Agreement for Online Posts of Surety Bonds for Compliance of House Bill,
+- 2. 2026-2118: Approve Contract ID #11076 Amendment #3 to Master Agreement
+- 3. 2026-2119: Approve Declaration of Certain Equipment as Surplus Property and
+- 4. 2026-2120: Approve Contract ID #11059 Amendment #1 to Lease Agreement
+- for Chase Building (822 7th Street, Suite 550, Greeley) — Upstate Colorado
+- Economic Development Action Partnership, Inc
+- 5. 2026-2121: Approve Mini-Grant Application for 2026-2027 Preventative Block
+
+## [weld-county#7] 2026-08-24 | Board of County Commissioners | agenda
+- Housing Authority Board
+- 1. 2026-2160: Consider Voluntary Transfer of Housing Choice Voucher Program
+- to Housing Authority of City of Greeley, Pursuant to PIH Notice 2018-12, and
+- Certification of Hearings: Hearing Certificates from August 10, 2026
+- 1. 2026-2050: Community Development Block Grant (CDBG) 2026-2030
+- Consolidated Plan and 2026 Annual Action Plan for Utilization of Program
+- Funds for Infrastructure Improvements, Public Facilities, Public Services,
+- Housing Rehabilitation, and General Grant Administration
+- Amendments to Agenda:
+- 1. 2026-2161: Approve Bid #62600066, 2027 Ad Valorem Tax Audit —
+- 2. 2026-2162: Approve Bid #62600078, Furnace and Air Conditioner
+- 1. 2026-2163: Consider Contract ID #11091 Task Order Contract Modification #1
+- 2. 2026-2164: Consider Contract ID #11097 Application for 2027 Weld County
+- Regional Opioid Council Grant Funds to Prevent Misuse of Opioids and
+- 3. 2026-2165: Consider Intergovernmental Agreement for Transfer of Property
+- New Business — Ordinances:
+- 1. 2026-2166: Final Reading of Code Ordinance #2026-04, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 2 Administration,
+- Chapter 21 Areas and Activities of State Interest, and Chapter 23 Zoning of the
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2167: Contract ID #11090 Intergovernmental Agreement for Conduct of
+- Community Development Block Grant (CDBG) Program in Weld County —
+- 2. 2026-2168: Contract ID #11092 Intergovernmental Agreement for Conduct of
+- 3. 2026-2169: Contract ID #11096 Intergovernmental Agreement for Conduct of
+- 4. 2026-2170: Contract ID #11084 Road Maintenance Agreement According to
+- Assessment (1041 WOGLA) Permit, 1041 WOGLA26-0016 — Noble Energy,
+- 5. 2026-2171: Contract ID #11085 Road Maintenance Agreement According to
+- Assessment (1041 WOGLA) Permit, 1041 WOGLA26-0017 — Noble Energy,
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2143: Approve Contract ID #11009 Memorandum of Understanding for
+- 2. 2026-2145: Approve Large Tract Oil and Gas Lease (40.685 acres - NE1/4
+- 3. 2026-2146: Approve Reappointment to Weld County Regional Opioid Council
+- 4. 2026-2062: Approve USR26-0017 — Natalie Marvin
+- 5. 2026-2072: Approve 1MJUSR26-05-1435 — Tricycle Lane Texas, LLC,
+- c/o Scott Burns, BURNCO Colorado, LLC, c/o Joel Bolduc, and Water Activity
+
+## [weld-county#8] 2026-08-26 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- 1. 2026-2180: Consider Declaration of Certain Equipment as Surplus Property,
+- 2. 2026-2181: Consider Contract ID #10512 Amendment #1 to Professional
+- Provider Agreement for Administration of Child Health Plan Plus (CHP+)
+- Services and Qualified Health Plan (QHP) Products, and Authorize Chair to
+- 3. 2026-2182: Consider Temporary Closure of County Road 86 Between County
+- Roads 13 and 15
+- 4. 2026-2183: Consider Temporary Closure of County Road 6 Between County
+- Road 7 and East Interstate 25 (1-25) Frontage Road
+- 5. 2026-2184: Consider Colorado Federal Lands Access Program (FLAP) Grant
+- Application for Advancing Safety and Experience on Pawnee Grasslands
+- 6. 2026-2185: Consider Petition for Annexation for Portions of County Roads 18
+- 1. 2026-2186: Consider Acceptance of Filing of Service Plan, Referral to Weld
+- Hearing Date for Consideration — Rule Farm Metropolitan District Nos. 1-3
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2054: Contract ID #11094 Amendment #1 to Individual Provider Contract
+- for Purchase of Foster Care Services in a Foster Care Home —
+- 2. 2026-2187: Contract ID #11099 Individual Provider Contract for Purchase of
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2160: Approve Voluntary Transfer of Housing Choice Voucher Program
+- to Housing Authority of City of Greeley, Pursuant to PIH Notice 2018-12
+- 2. 2026-2163: Approve Contract ID #11091 Task Order Contract Modification #1
+- 3. 2026-2164: Approve Contract ID #11097 Application for 2027 Weld County
+- Regional Opioid Council Grant Funds to Prevent Misuse of Opioids
+- 4. 2026-2165: Approve Intergovernmental Agreement for Transfer of Property
+- 3. 2026-2174: Greeley Housing Authority, Agenda for August 26, 2026
+- Temporary Assistance for Needy Families (TANF) Block Grant Funding
+- Option Letter #2 to Task Order Contract Modification for Local Public Health
+- Natural Gas Liquids Royalty Calculation Under Holman Settlement Agreement
+- and Ace-Davis Settlement Agreement
+- 8. 2026-2154: Department of Local Affairs, Division of Property Taxation, Notice
+- Keenesburg, Plan de Salud Del Valle, Inc., Sunrise Community Health,
+- Al Frente de Lucha, Greeley Senior Housing Corp., Summitview Community
+- 9. 2026-2153: Department of Local Affairs, Division of Property Taxation, Notice
+- Pollution Control Division, and PDC Energy, Inc., Permit 26WE0047
+
+## [weld-county#9] 2026-08-31 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1. 2026-2206: Approve Bid #B2600081, Jail 1 West Replacements of Shower
+- 1. 2026-2207: Consider Petition for Abatement or Refund of Taxes for Account
+- 2. 2026-2208: Consider Contract ID #11105 Amendment #2 to Contract for State
+- Opioid Response (SOR) Grant Program for Jail Based Behavioral Services
+- 3. 2026-2209: Consider Temporary Closure of County Road 90 Between County
+- Roads 43 and 51
+- 4. 2026-2210: Consider Temporary Closure of County Road 45 Between County
+- Roads 2 and 8
+- 5. 2026-2211: Consider Temporary Emergency Closure of County Road 54.5
+- Between County Roads 45 and 45.5
+- 6. 2026-2212: Consider Airport Improvement Program (AIP) Grant Agreement for
+- Northeast Development Funding Reallocation to Construct Taxiway Bravo
+- Extension (B and B1) and Rehabilitation of Runway 10/28 Taxiway Alpha, and
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2213: Contract ID #11052 Individual Provider Contract for Purchase of
+- 2. 2026-2214: Contract ID #11098 Individual Provider Contract for Purchase of
+- 3. 2026-2215: Contract ID #11100 Individual Provider Contract for Purchase of
+- 4. 2026-2216: Contract ID #11111 Individual Provider Contract for Purchase of
+- 5. 2026-2217: Contract ID #11112 Individual Provider Contract for Purchase of
+- 6. 2024-1713: Contract ID #11102 Amendment #3 to Master Services Agreement
+- 7. 2026-2218: Contract ID #11107 Intergovernmental Agreement for Conduct of
+- Community Development Block Grant (CDBG) Program in Weld County —
+- 8. 2025-3256: Contract ID #11110 Amendment #1 to Subrecipient Agreement for
+- Community Development Block Grant Funds (CDBG) for Park and Restroom
+- Facilities Project #25-6 — Town of Platteville
+- 9. 2026-2116: Contract ID #11119 Service Agreement for Chip Seal Aggregate
+- Supply (Bid #B2600073) — Black Rock Material and Supply, LLC
+- 10. 2026-2219: Contract ID #11121 Public Safety Communications Services
+- Agreement — Town of Ault Police Department
+- 11. 2026-2220: Contract ID #11122 Public Safety Communications Services
+- Agreement — Briggsdale Fire Protection District
+- 12. 2026-2221: Contract ID #11123 Public Safety Communications Services
+- Agreement — Fort Lupton Fire Protection District
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2180:Approve Declaration of Certain Equipment as Surplus Property and
+
+## [weld-county#10] 2026-09-02 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from August 19, 2026
+- BURNCO Colorado, LLC, do Joel Bolduc, and Water Activity Enterprise of the
+- Groundwater Management Subdistrict of the Central Colorado Water
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 2. 2026-2231: Workforce Development Month — September 2026
+- 1. 2026-2248: Approve Bid B2600077, Construction Manager / General
+- Contractor (CM / GC) for Weld County Justice Center— Facilities Department
+- 1. 2026-2233: Consider 2026 Report of Valuation for Assessment of All Taxable
+- 2. 2026-2234: Consider Four (4) Agreements for Professional Services for 2026
+- 3. 2026-2235: Consider Contract ID #11109 Professional Service Agreement for
+- 4. 2026-0458: Consider Contract ID #11114 Change Order #4 to Agreement for
+- (Bid #B2600011) and Authorize Chair to Sign —Ancon II Constructors, Inc
+- 5. 2026-2236: Consider Contract ID #11103 Tax Incentive Agreement Pursuant to
+- 6. 2026-2237: Consider Contract ID #11104 Tax Incentive Agreement Pursuant to
+- 7. 2026-2238: Consider Declaring Intent of Weld County, Colorado, to Issue
+- Private Activity Bonds In Connection With Financing Residential Facilities for
+- Activity Bond Ceiling Allocation Act, and Authorize Chair to Sign
+- 8. 2026-2239: Consider Renewal Application for Fermented Malt Beverage and
+- 9. 2026-2240: Consider Amendment #1 to Intergovernmental Agreement for Tax
+- Increment Revenue Sharing Concerning Colliers Hill Urban Renewal Plan and
+- 1. 2026-2241: Consider Contract ID #11093 Improvements and Road
+- Maintenance Agreement According to Policy Regarding Collateral for
+- Improvements, Authorize Chair to Sign, and Accept Project Collateral for Major
+- Amended Use by Special Review Permit, 1MJUSR21-76-298 —
+- 2. 2026-2242: Consider Contract ID #11095 Partial Release of Collateral and
+- Acceptance of Warranty Collateral for Planned Unit Development Final Plan,
+- 3. 2026-2243: Consider Certification to Weld County Treasurer for County
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: September 2, 2026
+- 1. 2026-2130: Planned Unit Development Final Plan Minor Amendment,
+- north of County Road 74
+- 2. 2026-2188: Show Cause Hearing, PCSC26-0007, to determine whether or not
+- the permittee is in compliance with certain Development Standards contained
+- in Use by Special Review Permit, USR12-0029, for a Mineral Resource
+
+## [weld-county#11] 2026-09-09 | Board of County Commissioners | agenda
+- Amendments to Agenda: Remove the following items listed under 'New Business —
+- 11. 2026-2281: Consider Contract ID #11124 Weld County Public Safety
+- Communications Dispatch Services Agreement and Authorize Chair to Sign —
+- 12. 2026-2282: Consider Contract ID #11125 Weld County Public Safety
+- 13. 2026-2283: Consider Contract ID #11126 Weld County Public Safety
+- 14. 2026-2284: Consider Contract ID #11127 Weld County Public Safety
+- 15. 2026-2285: Consider Contract ID #11128 Weld County Public Safety
+- Consent Agenda: Public comment is allowed for the following items listed under
+- 1. Partial Vacation, VAC26-0008, of Two-Lot Recorded Exemption,
+- 2. Partial Vacation, VAC26-0009, of Two-Lot Recorded Exemption,
+- 3. Partial Vacation, VAC26-0020, of Recorded Exemption, RE-291, for Removal
+- 1. 2026-2270: Approve Bid #B2600070, Southeast Service Center Building
+- 1. 2026-2271: Consider Amendment #4 to Voting System Acquisition Agreement
+- for Purchase of Equipment and Designation as Single Source Vendor, and
+- 2. 2026-2272: Consider Contract ID #11129 Master Services Agreement for
+- 3. 2026-2273: Consider Contract ID #11130 Operation Memorandum of
+- 4. 2026-2274: Consider Contract ID #11131 Professional Service Agreement for
+- 5. 2026-2275: Consider Contract ID #11132 Notice of Funing Allocation (NFA)
+- Work Plan for Workforce Enterprise Fund (WEF) and Authorize Chair,
+- Department of Human Services, and Workforce Development Board to Sign
+- 6. 2026-2276: Consider Contract ID #11133 Notice of Funding Allocation (NFA)
+- Work Plan for Workforce Innovation and Opportunity Act (WIOA) Dislocated
+- 7. 2026-2277: Consider Contract ID #11142 Professional Service Agreement for
+- 8. 2026-2278: Consider Contract ID#11143 Grant Closeout Check List for Various
+- 9. 2026-2279: Consider Contract ID #11145 Cooperation and Coordination
+- Agreement for Case Management Agency (CMA) Dual Eligibility Special Needs
+- Plan (D-SNP) Medicare / Medicaid Benefits and Authorize Chair to Sign —
+- 10. 2026-2280: Consider Contract ID #11148 Memorandum of Understanding to
+- Implement Plan for Strengthening Foster and Kinship Programs and Authorize
+- 11. 2026-2286: Consider Contract ID #11153 Amendment #2 to Task Order
+- Contract for High-Impact Human Immunodeficiency Virus (HIV) Prevention
+- 12. 2026-2287: Consider Contract ID #11155 Affiliation Agreement for Clinical
+- 13. 2026-2288: Consider Contract ID #11156 Amendment #4 to Task Order
+- Contract for Immunization Core Services Program and Authorize Chair to Sign
+- 14. 2026-2289: Consider Temporary Permit for Fermented Malt Beverage and
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+
+## [weld-county#12] 2026-09-14 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1. 2026-2313: Recognition of Service, Greeley-Weld County Housing Authority —
+- 2. 2026-2314: Recognition of Service, Weld County Community Development
+- Block Grant Advisory Committee (CDBGAC) — Linda Hunt
+- 1. 2026-2315: Approve Bid #B2600100, Underwriting Services for Weld County—
+- 1. 2026-2316: Consider Memorandum of Intergovernmental Agreement for
+- 2. 2026-2317: Consider Sales Quote for Purchase of Three (3) Class 8 Tractor
+- 3. 2026-2318: Consider Sales Quote for Purchase of Two (2) Class 8 Tractor
+- 4. 2026-2319: Consider Contract ID #11124 Weld County Public Safety
+- Communications Dispatch Services Agreement and Authorize Chair and
+- 5. 2026-2320: Consider Contract ID #11125 Weld County Public Safety
+- 6. 2026-2321: Consider Contract ID #11126 Weld County Public Safety
+- 7. 2026-2322: Consider Contract ID #11127 Weld County Public Safety
+- 8. 2026-2323: Consider Contract ID #11128 Weld County Public Safety
+- 9. 2026-2324: Consider Quit Claim Deed for Latham Solar Farm Annexations and
+- 10. 2026-2325: Consider Appointments to Design Review Committee for
+- 11. 2026-2326: Consider Appointment to Human Services Advisory Commission
+- 12. 2026-2327: Consider Appointment to Noxious Weed Management Advisory
+- 13. 2026-2328: Consider Appointment to Regional Communications Advisory
+- 14. 2026-2329: Consider Appointment to Juvenile Community Review Board
+- 15. 2026-2330: Consider Appointments to Weld County Community Development
+- Block Grant Advisory Committee (CDBGAC)
+- 16. 2026-2331: Consider Appointments to Weld County Fair Board
+- 1 . 2026-2332: Consider Decommissioning Plan, Accept Project Collateral for Use
+- by Special Review Permit, USR26-0002, and Authorize Chair to Sign —
+- Dixie Water, LLC
+- 2. 2026-2333: Consider Certification to Weld County Treasurer for County
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2334: Recognition of Service, Greeley-Weld County Housing Authority —
+- 2. 2026-2335: Recognition of Service, Weld County Community Development
+- Block Grant Advisory Committee (CDBGAC) — Nicholas Wharton
+- 3. 2026-2336: Contract ID #11149 Individual Provider Contract for Purchase of
+- 4. 2026-2337: Contract ID #11159 Individual Provider Contract for Purchase of
+- 5. 2026-2338: Eighteen (18) Facility Usage Agreements for November 3, 2026,
+- Fort Lupton Campus,Ault-Pierce Fire Department, Brighton Recreation Center,
+
+## [weld-county#13] 2026-09-16 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from September 2, 2026
+- Amendments to Agenda:
+- item under 'New Business — General' as item #1: Contract ID #11147
+- Amendment #1 to Intergovernmental Agreement for 2026-2027 County
+- Incentives Program and Authorize Chair to Sign
+- 1. 2026-2353: Consider Contract ID #11147 Amendment #1 to Intergovernmental
+- Agreement for 2026-2027 County Incentives Program and Authorize Chair and
+- 2. 2026-2354: Consider Sales Quote for Purchase of Tractor Truck Cab Chassis,
+- 3. 2026-2355: Consider Contract ID #11185 Tax Incentive Agreement Pursuant to
+- 4. 2026-2356: Consider Extension of Oil and Gas Lease Covering Certain
+- 5. 2026-2357: Consider Extension of Oil and Gas Lease Covering Certain
+- 6. 2026-2358: Consider Extension of Oil and Gas Lease Covering Certain
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2316: Approve Memorandum of Intergovernmental Agreement for
+- Conduct of Coordinated Elections — Town of Firestone
+- 2. 2026-2317: Approve Sales Quote for Purchase of Three (3) Class 8 Tractor
+- 3. 2026-2318:Approve Sales Quote for Purchase of Two (2) Class 8 Tractor Truck
+- 4. 2026-2319: Approve Contract ID #11124 Weld County Public Safety
+- Communications Dispatch Services Agreement — Town of Eaton
+- 5. 2026-2320: Approve Contract ID #11125 Weld County Public Safety
+- Communications Dispatch Services Agreement — City of Greeley
+- 6. 2026-2321: Approve Contract ID #11126 Weld County Public Safety
+- Communications Dispatch Services Agreement — Town of Johnstown
+- 7. 2026-2322: Approve Contract ID #11127 Weld County Public Safety
+- Communications Dispatch Services Agreement — Town of Mead
+- 8. 2026-2323: Approve Contract ID #11128 Weld County Public Safety
+- Communications Dispatch Services Agreement — Town of Windsor
+- 9. 2026-2324: Approve Quit Claim Deed for Latham Solar Farm Annexations —
+- 10. 2026-2325: Approve Appointments to Design Review Committee for
+- 11 . 2026-2326: Approve Appointment to Human Services Advisory Commission
+- 12. 2026-2327: Approve Appointment to Noxious Weed Management Advisory
+- 13. 2026-2328:Approve Appointment to Regional Communications Advisory Board
+- 14. 2026-2329: Approve Appointment to Juvenile Community Review Board
+- 15. 2026-2330: Approve Appointments to Weld County Community Development
+
+## [weld-county#14] 2026-09-21 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1. 2026-2375: Approve Bid #B2600086, Fire Alarm Panel Upgrade for Chase
+- Building (822 7th Street, Greeley) — Facilities Department
+- 2. 2026-2376: Approve Bid #B2600090, Renovations for Jail Pods R, M, N,
+- 1. 2026-2377: Consider Contract ID #11167 Modification #3 to Participating
+- Agreement for Noxious Weed Treatment and Authorize Chair to Sign
+- 2. 2026-2378: Consider Intergovernmental Agreement Regarding Interim
+- Stormwater Management Responsibility for Justice Center Project and
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: September 21 , 2026
+- 1. 2026-2345: A Limited Event Permit, LEP26-0007, for a Kersey Autumn Jubilee
+- Applicant: M&M Excavation Co., 25490 County Road 58, Greeley,
+- Located adjacent to County Road 58; approximately 0.26 mile east
+- of County Road 51 and approximately 0.49 mile west of
+- County Road 53
+- 2. 2026-2265: Application for a Special Event Permit for the sale of malt, vinous,
+- Street, Brush, Colorado 80723
+- Located adjacent to County Road 58; approximately 0.26 miles east
+- of County Road 51 and approximately 0.49 miles west of
+- 1. 2025-2825: Contract ID #11173 Extension/Renewal #1 to Service Agreement
+- (Informal Bid #B2500112) — Front Range Outdoor Solutions, LLC
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2353: Approve Contract ID #11147 Amendment #1 to Intergovernmental
+- Agreement for 2026-2027 County Incentives Program
+- 2. 2026-2354: Approve Sales Quote for Purchase of Tractor Truck Cab Chassis,
+- 3. 2026-2355: Approve Contract ID #11185 Tax Incentive Agreement Pursuant to
+- 4. 2026-2356: Approve Extension of Oil and Gas Lease Covering Certain
+- 5. 2026-2357: Approve Extension of Oil and Gas Lease Covering Certain
+- 6. 2026-2358: Approve Extension of Oil and Gas Lease Covering Certain
+- September 10, 2026, Intent to Sell and Opportunity to Purchase B and B Mobile
+- Home and RV Park
+- Taxation, Final Determinations dated August 31, 2026, Archdiocese of Denver
+- Mountain Region, Letter dated September 1 , 2026, Colorado Parks and Wildlife
+
+## [weld-county#15] 2026-09-23 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from September 9, 2026
+- Amendments to Agenda:
+- 1. 2026-2397: Approve Bid #B2600084, North Jail Lighting and Lighting Control
+- 2. 2026-2398: Approve Bid #B2600085, Special Inspection and Materials Testing
+- 3. 2026-2399: Approve Bid #B2600087, Inmate Commissary and Accounting
+- 4. 2026-2400: Approve Bid #B2600091 , Inmate Food Services — Sheriffs Office
+- 5. 2026-2401: Approve Bid #B2600096, Auction Services for County-Owned
+- 1 . 2026-2402: Consider Contract ID #11138 Supply Agreement for Purchase of
+- 2. 2026-2403: Consider Application and Plan for 2027-2029 Community Services
+- Block Grant (CSBG) Program, and Authorize Chair to Sign
+- 3. 2026-2404: Consider Contract ID #11177 Notification of Funding Allocation
+- (NFA) Work Plan for Workforce Innovation and Opportunity Act (WIOA) Adult,
+- Authorize Chair, Department of Human Services, and Workforce Development
+- 4. 2026-2405: Consider Contract ID #11189 Memorandum of Understanding for
+- Service Delivery Agreements Pursuant to Workforce Innovation and
+- Development Board to Sign
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: September 23, 2026
+- 1. 2026-2359: State Interest Facility Permit, SIF26-0002, fora 1041 Major Facility
+- south to County Road 122; approximately one (1) mile west of
+- Interstate 25 (1-25), extending east to County Road 59 section line
+- 2. 2026-2408: Service Plan, MET26-0001 , for Proposed Rule Farm Metropolitan
+- Icenogle Seaver Pogue, P.C., 4725 S. Monaco Street, Suite 360,
+- Located north of and adjacent to County Road 2; east of and
+- adjacent to County Road 21
+- 1. 2026-2406: Contract ID #11161 Individual Provider Contract for Purchase of
+- 2. 2026-2407: Contract ID #11162 Agreement for Foster Care Respite Services —
+- 3. 2025-2742: Contract ID #11176 Extension/Renewal #1 to Service Agreement
+- for Snow Removal at Southeast Service Center (Informal Bid #B2500116) —
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2377: Approve Contract ID #11167 Modification #3 to Participating
+- Agreement for Noxious Weed Treatment
+- 2. 2026-2378: Approve Intergovernmental Agreement Regarding Interim
+- Stormwater Management Responsibility for Justice Center Project — City of
+- 3. 2026-2345: Approve LEP26-0007 — M&M Excavation Co., c/o Kersey Area
+- 4. 2026-2265: Approve Special Event Permit — Marian Council #4627 Charities
+
+## [weld-county#16] 2026-09-28 | Board of County Commissioners | agenda
+- Housing Authority Board
+- Read Ordinances by Audio:
+- 1. Code Ordinance #2026-12
+- 2. Code Ordinance #2026-13
+- Amendments to Agenda:
+- 1. 2026-2440: Consider Quote for Single-Source Purchase of Haworth Unigroup
+- Project, Pursuant to Cooperative Source — Haworth, dba Merchants and
+- 2. 2026-2441: Consider Rescheduled Temporary Closure of County Road 86
+- Between County Roads 13 and 15
+- 3. 2026-2442: Consider Takeout and Delivery Permit for Brew Pub (County)
+- 4. 2026-2443: Consider Appointment to Workforce Development Board
+- New Business — Ordinances:
+- 1. 2026-2444: First Reading of Code Ordinance #2026-12, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 14 Health and Animals
+- of the Weld County Code (Cistern Usage Permit Criteria)
+- 2. 2026-2447: First Reading of Code Ordinance #2026-13, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 8 Public Works of the
+- Weld County Code (Appendix 8-P Right-of-Way Use Permit)
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: September 23, 2026
+- 1 . 2026-2382: Service Plan, MET26-0001, for Rule Farm Metropolitan District
+- Icenogle Seaver Pogue, P.C., 4725 S. Monaco Street, Suite 360,
+- Located north of and adjacent to County Road 2; east of and
+- adjacent to County Road 21
+- 1. 2026-2450: Contract ID #11166 Individual Provider Contract for Purchase of
+- 2. 2026-2451: Contract ID #11168 Individual Provider Contract for Purchase of
+- 3. 2026-2452: Contract ID #11175 Individual Provider Contract for Purchase of
+- 4. 2026-2453: Contract ID #11179 Individual Provider Contract for Purchase of
+- 5. 2026-2454: Contract ID #11180 Individual Provider Contract for Purchase of
+- 6. 2026-2455: Contract ID #11181 Individual Provider Contract for Purchase of
+- 7. 2026-2456: Contract ID #11182 Individual Provider Contract for Purchase of
+- 8. 2026-2457: Contract ID #11183 Individual Provider Contract for Purchase of
+- 9. 2026-2458: Contract ID #11190 Individual Provider Contract for Purchase of
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2402: Approve Contract ID #11138 Supply Agreement for Purchase of
+- 2. 2026-2403: Approve Application and Plan for 2027-2029 Community Services
+- Block Grant (CSBG) Program
+- 3. 2026-2404: Approve Contract ID #11177 Notification of Funding Allocation
+- (NFA) Work Plan for Workforce Innovation and Opportunity Act (WIOA) Adult,
+
+## [weld-county#17] 2026-09-30 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- 1 . 2026-2489: Approve Bid #B2600082, Department of Fleet Services Cabling
+- Project — Department of Information Technology
+- 1 . 2026-2490: Consider Contract ID #11194 Master Data Sharing Agreement for
+- 2. 2026-2491: Consider Intergovernmental Agreement for Occupancy of Trophy
+- Block North (County Parcel F) as Temporary Parking Lot and Authorize Chair
+- 3. 2026-2492: Consider Dissolution of Weld County Department of Oil and Gas
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: September 30, 2026
+- 1 . 2026-2427: First Major Amended Use by Special Review Permit,
+- and borrow materials) and processing of minerals to expand the total permit
+- Located south of and adjacent to County Road 22.5; approximately
+- 1 .5 miles west of County Road 31 ; approximately 0.74 miles east of
+- County Road 25; and approximately 0.89 miles north of
+- County Road 18
+- 2. 2026-2410: Use by Special Review Permit, USR26-0020, for a Kennel
+- 18250 County Road 19, Johnstown, Colorado 80534
+- Located east of and adjacent to County Road 19; approximately
+- 1 ,000 feet north of County Road 38
+- 2. 2026-2494: Recognitions of Service, Workforce Development Board —
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1 . 2026-2440: Approve Quote for Single-Source Purchase of Haworth Unigroup
+- Project, Pursuant to Cooperative Source — Haworth, dba Merchants and
+- 2. 2026-2441: Approve Rescheduled Temporary Closure of County Road 86
+- Between County Roads 13 and 15
+- 3. 2026-2442:Approve Takeout and Delivery Permit for Brew Pub (County) Liquor
+- 4. 2026-2443: Approve Appointment to Workforce Development Board
+- 5. 2026-2382: Approve Service Plan, MET26-0001 — Rule Farm Metropolitan
+- USR26-0002, Dixie Water, LLC
+- Water Activity Enterprise of the Groundwater Management Subdistrict of the
+- Central Colorado Water Conservancy District
+- 5. 2026-2469: Mountain View Fire Protection District, Oath of Office for Board of
+- Pollution Control Division, and Williams Front Range, LLC, Permit
+- Permit 25WE0100 Documents
+
+## [weld-county#18] 2026-10-05 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from September 21, 2026
+- 2. 2026-2266: Special Event Permit — Marian Council #4627 Charities Fund
+- Amendments to Agenda: Insert the following item under 'New Business - General' as
+- Rescheduling of 10:00 a.m. Hearing(s) Scheduled for October 7, 2026
+- Presentations and Proclamations:
+- 1. 2026-2512: Approve Bid #B2600088, Hopper Feeder with Integrated Transfer
+- 2. 2026-2513: Approve Bid #B2600089, Radial Stack Conveyor — Department of
+- 3. 2026-2514: Approve Bid #B2600094, County-Wide Grease Trap and Sand Oil
+- 4. 2026-2515: Approve Bid #B2600102, Jail 1 West Makeup Air Units Rebuild —
+- 5. 2026-2516: Approve Bid #B2600105, Training Center Backup Generator
+- 1. 2026-2518: Consider Contract ID #11205 Amendment #1 to Task Order
+- Contract Modification #1 for Maternal and Child Health Program and Authorize
+- 2. 2026-2519: Consider Grant Application for Bridge 76.5/21A Replacement
+- Project and Authorize Department of Public Works to Submit —
+- 3. 2026-2520: Consider Temporary Closure of County Road 88 Between County
+- Roads 31 and 33
+- 4. 2026-2521: Consider Temporary Closure of County Road 122 Between County
+- Roads 83 and 87
+- 5. 2026-2522: Consider Temporary Emergency Closure of County Road 53
+- Between State Highway 392 and County Road 70
+- 6. 2026-2523: Consider Resolution to Support Passage of Amendment 83 for
+- 7. 2026-2517: Consider Cancellation of Board of County Commissioners
+- 9:00 a.m., Meeting and Rescheduling of 10:00 a.m. Hearing(s) Scheduled for
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2524: Contract ID #11150 Individual Provider Contract for Purchase of
+- 2. 2026-2525: Contract ID #11169 Agreement for Foster Care Respite Services —
+- 3. 2026-2526: Contract ID #11171 Professional Service Agreement for Various
+- Core and Non-Core Child Welfare Services (Bid #B2600050) — Polaris Partners
+- 4. 2026-2527: Contract ID #11206 Professional Service Agreement for Various
+- Core and Non-Core Child Welfare Services (Bid #B2600050) - Stacey Sevier
+- 5. 2026-2270: Contract ID #1174 Agreement for Construction Services for
+- Southeast Service Center Building Renovation (Bid #B2600070) —
+- 6. 2026-2528: Contract ID #11193 Service Agreement for Fire Alarm Panel
+- Monitoring and Support (Informal Bid #B2600093) — Ottem Electronics
+- 7. 2025-2743: Contract ID #11195 Extension/Renewal #1 to Service Agreement
+
+## [weld-county#19] 2026-10-12 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from September 23, and 28, 2026
+- Amendments to Agenda:
+- 1. 2026-2576: Approve Bid #B2600103, Pest Control Services — Facilities
+- 2. 2026-2577: Approve Bid #B2600079, Bridge 19/46.5A Replacement
+- 3. 2026-2578: Approve Bid #B2600083, Electronic Monitoring Equipment and
+- 4. 2026-2579: Approve Bid #B2600108, Viavi CX300 Communications Service
+- 1. 2026-2580: Consider Quote for Purchase of Heavy Equipment for Two (2)
+- 2. 2026-2581: Consider Establishing Fiscal Agent for State-Wide Election
+- Intergovernmental Grant Award Pass-Through Funds, and Authorize Clerk and
+- 3. 2026-2582: Consider Temporary Closure of County Road 34 Between County
+- Roads 3 and 5
+- 4. 2026-2583: Consider Contract ID #11204 Agreement and Contingency List for
+- Replacement Project, and Authorize Chair to Sign — Public Service Company
+- New Business — Ordinances:
+- 1. 2026-2585: Second Reading of Code Ordinance #2026-12, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 14 Health and Animals
+- of the Weld County Code (Cistern Usage Permit Criteria)
+- 2. 2026-2586: Second Reading of Code Ordinance #2026-13, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 8 Public Works of the
+- Weld County Code (Appendix 8-P Right-of-Way Use Permit)
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: October 7, 2026
+- 1. 2026-2495: Show Cause Hearing, PCSC23-0011, Concerning Second and
+- Third Amended Use by Special Review Permits, 2MUSR19-95-1075,
+- facility (water skiing lake and primitive campsite for water skiing members) in
+- Applicant: R M Hiner Construction Co, Inc., 11 Austin Road, Lamar,
+- 2200 O Street, Greeley, Colorado 80631
+- Located south of and adjacent to County Road 64; east of and
+- 1. 2026-2587: Contract ID #11212 Individual Provider Contract for Purchase of
+- 2. 2026-2588: Contract ID #11213 Individual Provider Contract for Purchase of
+- 3. 2026-2589: Contract ID #11222 Individual Provider Contract for Purchase of
+- 4. 2026-2590: Contract ID #11223 Individual Provider Contract for Purchase of
+- 5. 2026-2591: Contract ID #11224 Individual Provider Contract for Purchase of
+- 6. 2026-2592: Contract ID #11226 Individual Provider Contract for Purchase of
+- 7. 2026-2593: Contract ID #11227 Individual Provider Contract for Purchase of
+- 8. 2026-0592: Contract ID #11214 Amendment #1 to Individual Provider Contract
+
+## [weld-county#20] 2026-10-14 | Board of County Commissioners | agenda
+- Certification of Hearings: Hearing Certificates from September 23, and 30, 2026
+- Amendments to Agenda:
+- 1. 2026-2607: Approve Bid #B2600076, Retirement Plan Tracking Software —
+- 2. 2026-2608: Approve Bid #B2600104, Tree Disposal Services — Department of
+- 1. 2026-2609: Consider Quote for Purchase of Door Hardware for Maintenance,
+- 2. 2026-2610: Consider Contract ID #11236 Memorandum of Understanding for
+- Edward Byrne Memorial Justice Assistance Grant (JAG) Program and
+- 3. 2026-2611: Consider Contract ID #11134 Intergovernmental Agreement for
+- Home WaterAudit Services for Eligible Residents and Authorize Chair to Sign —
+- 4. 2026-2612: Consider Contract ID #11184 2026-2027 Colorado Respite
+- Coalition (CRC) Grant Contract to Support Area Agency on Aging (AAA) and
+- 5. 2026-2613: Consider Contract ID #11192 Amendment #1 to Professional
+- Services Agreement for Credentials for Wraparound Services Billing and
+- 6. 2026-2614: Consider Contract ID #11233 Notice of Funding Allocation (NFA)
+- Work Plan for American Rescue Plan Act (ARPA) Career Navigation and
+- Coaching Staff Grant Program, and Authorize Chair, Department of Human
+- Services, and Workforce Development Board to Sign
+- 7. 2026-2615: Consider Contract ID #11234 Notice of Funding Allocation (NFA)
+- Work Plan for Jobs for Veterans State Grant (JVSG) Disabled Veterans'
+- Department of Human Services, and Workforce Development Board to Sign
+- 8. 2026-2616: Consider Contract ID #11235 Notice of Funding Allocation (NFA)
+- Work Plan for Wagner-Peyser Foreign Labor Certification (FLC) Grant Program
+- Development Board to Sign
+- 9. 2026-2617: Consider Contract ID #11217 Professional Service Agreement for
+- Third-Party Plan Review and Inspection Services for Weld County Justice
+- Center Parking Garage, and Authorize Chair to Sign — Shums Coda
+- 10. 2026-2618: Consider Contract ID #11229 Consent to Assignment and
+- Assumption of Service Agreement for Intrusion Alarm System Monitoring and
+- Services (Informal Bid) from Security Alarm Systems, Inc., dba Dictoguard
+- 1. 2026-2619: Consider Boundaries of a Proposed Area of Weld County to be
+- Submitted to the Colorado Office of Economic Development for Designation as
+- 2. 2026-2620: Consider Certification to Weld County Treasurer for County
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2621: Appointment of Deputy District Attorney — Reina Britt
+
+## [weld-county#21] 2026-10-19 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- Presentations and Proclamations:
+- Annette Odel as Recipient of Lilian Wald Award; and Ofelia Mares De Orozco
+- as Recipient of Lifetime Distinguished Public Health Service Award
+- 1. 2026-2634: Consider Contract ID #11256 Intergovernmental Agreement for
+- Authorize Chair to Sign — Town of Kersey Police Department
+- 2. 2026-2635: Consider Quote for Purchase of Law Enforcement Uniforms,
+- 3. 2026-2636: Consider Contract ID #11259 Agreement for Weld County Justice
+- Center Block 66 Construction Manager / General Contractor (CM/GC —
+- Bid #B2600077) and Authorize Chair to Sign — J.E. Dunn Construction Group,
+- 4. 2026-2637: Consider Contract ID#11239 Acceptance of Purchase Order Terms
+- and Conditions for 2026-2027 Preventative Block Grant (PBG) Funds for
+- Community Health Improvement Plan (CHIP) and Authorize Department of
+- 5. 2026-2638: Consider Temporary Closure of County Road 70 Between County
+- Roads 59 and 61
+- 6. 2026-2639: Consider Contract ID #11238 Memorandum of Agreement to
+- Purchase Property Interest for Acquisition of Temporary Construction
+- Easement at Intersection of County Roads 74 and 31 for Roundabout Project,
+- 7. 2026-2640: Consider Quit Claim Deed to Grant a Certain Portion of Poudre
+- River Trail Resulting from West Lowell Annexation, and Authorize Chair to
+- 8. 2026-2641: Consider Cancellation of Board of County Commissioners
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 2. 2026-2643: Contract ID #11243 Individual Provider Contract for Purchase of
+- 3. 2026-2644: Contract ID #11253 Individual Provider Contract for Purchase of
+- 4. 2026-2645: Contract ID #11257 Individual Provider Contract for Purchase of
+- 5. 2026-2646: Contract ID #11258 Individual Provider Contract for Purchase of
+- 6. 2026-2647: Contract ID #11244 Service Agreement for Patching and Painting
+- on First Floor of Centennial Center Plaza East (Informal Bid) — Craftsman
+- 7. 2026-2397: Contract ID #11245 Service Agreement for Lighting and Lighting
+- Control Replacements at North Jail (Bid #B2600084)—WCC Construction, LLC
+- 8. 2026-2648: Contract ID #11248 LexisNexis Data and Services Agreement for
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2609: Approve Quote for Purchase of Door Hardware for Maintenance,
+- 2. 2026-2610: Approve Contract ID #11236 Memorandum of Understanding for
+- Edward Byrne Memorial Justice Assistance Grant (JAG) Program — City of
+
+## [weld-county#22] 2026-10-21 | Board of County Commissioners | agenda
+- Amendments to Agenda:
+- 1. 2026-2653: Approve Bid #B2600107, InfoBlox IPAM Maintenance and
+- 1. 2026-2654: Consider Contract ID#11188 Amendment#1 to Contract for Annual
+- 2. 2026-2655: Consider Contract ID #11219 Professional Service Agreement for
+- 3.. 2026-2656: Consider Contract ID #11241 Professional Service Agreement for
+- Low-Income Energy Assistance (LEAP) Outreach Incentive Program and
+- 4. 2026-2657: Consider Contract ID #11251 Memorandum of Understanding for
+- One-Stop Service Delivery for Jobs for Veterans State Grant (JVSG) Program
+- and Authorize Chair and Workforce Development Board to Sign
+- 5. 2026-2658: Consider Contract ID #11266 Revised Memorandum of
+- Rehabilitation (DVR) Program, Authorize Chair and Workforce Development
+- Board to Sign, and Rescind Resolution#2026-2405, dated September 23, 2026
+- 6. 2026-2659: Consider Contract ID #11260 Amendment #1 to Lease Agreement
+- for Office Space (822 7th Street, Suite 760, Greeley) and Authorize Chair to
+- 7. 2026-2660: Consider Contract ID #11232 Agreement for Installation of Street
+- Lights for County Roads 31 and 74 Intersection Roundabout Project, and
+- 8. 2026-2661: Consider Contract ID #11249 Intergovernmental Agreement for
+- 9. 2026-2662: Consider Contract ID#11250 Intergovernmental Contract for Traffic
+- Signal Installation at State Highway 52 and County Road 37 Intersection and
+- 10. 2026-2663: Consider Establishing Neighborhood to be Served and Set Hearing
+- Date Concerning Application for Fermented Malt Beverage and Wine
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- Public Hearings: October 21, 2026
+- 1. 2026-2539: Rural Land Division Final Plan, RLDF26-0001, for the creation of
+- Located north of and adjacent to County Road 20; west of and
+- adjacent to County Road 19
+- 2. 2026-2549: Use by Special Review Permit, USR26-0007, for a Solar Energy
+- Applicant: Patricia Conlon, 2781 AA Street, Greeley,
+- Colorado 80631, c/o Chickadee Solar, LLC, 1724 Gilpin Street,
+- Located east of and adjacent to County Road 35; north of and
+- adjacent to AA Street
+- 3. 2026-2559: Use by Special Review Permit, USR26-0015, for a Solar Energy
+- 1724 Gilpin Street, Denver, Colorado 80218
+- Located south of and adjacent to County Road 46; approximately
+- 0.25 miles east of County Road 31
+- 4. 2026-2569: Probable Cause Hearing, PCSC21-0008, to consider setting a
+- Show Cause Hearing to determine whether or not the permittee is in
+
+## [weld-county#23] 2026-10-26 | Board of County Commissioners | agenda
+- Housing Authority Board
+- Read Ordinances by Audio:
+- 1. Code Ordinance #2026-19
+- Certification of Hearings: Hearing Certificates from October 12, 2026
+- Amendments to Agenda:
+- 1. 2026-2682: Consider Appointment of Chanell Ponce as Deputy Clerk to the
+- 2. 2026-2683: Consider Quote for Purchase of Replacement Snow and Ice Plow
+- 3. 2026-2684: Consider Temporary Closure of County Road 53 Between County
+- Roads 60.5 and 62.5
+- New Business — Ordinances
+- 1. 2026-2685: Final Reading of Code Ordinance #2026-12, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 14 Health and Animals
+- of the Weld County Code (Cistern Usage Permit Criteria)
+- 2. 2026-2686: Final Reading of Code Ordinance #2026-13, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 8 Public Works of the
+- Weld County Code (Appendix 8-P Right-of-Way Use Permit)
+- 3. 2026-2687: First Reading of Code Ordinance #2026-19, In the Matter of
+- Repealing and Reenacting, with Amendments, Chapter 12 Licenses and
+- Permits, and Chapter 5 Revenue and Finance (Liquor Code Updates, Dance
+- Licenses, and Fees)
+- Public Comment: Each individual speaker is allowed a three (3)-minute period of time in
+- considered at a future public hearing, such as a land use hearing. In that event, the
+- speaker will be asked to give their testimony at the appropriate public hearing, either in
+- 1. 2026-2690: Appointment of Deputy District Attorney — Kayla Jones
+- 2. 2026-2576: Contract ID #11264 Service Agreement for Pest Control Services
+- (Bid #B2600103) - W.B. Sprague Company, Inc., dba Enviropest by Sprague
+- 3. 2026-2691: Contract ID #11265 Service Agreement for Plumbing System
+- Repairs at Community Corrections (Informal Bid) — Fisher Mechanical
+- Contractors, Inc
+- 4. 2026-2692: Contract ID #11269 Service Agreement for Purchase and
+- (Cooperative Sourcewell Contract No. 061323-TFU) — Tarkett USA, Inc
+- Resolutions and Ordinances: Please see each document for signature and/or
+- 1. 2026-2654: Approve Contract ID #11188 Amendment#1 to Contract for Annual
+- 2. 2026-2655: Approve Contract ID #11219 Professional Service Agreement for
+- 3. 2026-2656: Approve Contract ID #11241 Professional Service Agreement for
+- Low-Income Energy Assistance (LEAP) Outreach Incentive Program —
+- 4. 2026-2657: Approve Contract ID #11251 Memorandum of Understanding for
+- One-Stop Service Delivery for Jobs for Veterans State Grant (JVSG) Program
+- 5. 2026-2658: Approve Contract ID #11266 Revised Memorandum of
+- Rehabilitation (DVR) Program, and Rescind Resolution #2026-2405, dated
+- 6. 2026-2659: Approve Contract ID #11260 Amendment #1 to Lease Agreement

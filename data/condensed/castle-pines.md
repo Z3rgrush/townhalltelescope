@@ -29,7 +29,38 @@
 - MINUTES SUBMITTED: APPROVED:
 - Agreement completed
 
-## [castle-pines#1] 2026-08-11 | City Council Meeting | minutes
+## [castle-pines#1] 2026-08-04 | City Council Study Session | agenda
+- 2027 Budget Policy and Strategic Projects Discussion
+- 2026-07-30 City Council Strategic Projects 2027 to 2029.pdf
+- 2027 CITY COUNCIL STRATEGIC
+- 2027 PROJECTS
+- UNIFIED LAND DEVELOPMENT CODE
+- DRIVE (COMMERCIAL STREET ACQUISITION)
+- EAST SIDE COMMERCIAL/MIXED-USE (PA2) PLATTING
+- PARKWAY TRIBUTARY
+- TRAILS MASTER PLAN UPDATE
+- HAPPY CANYON TRIBUTARY STORM
+- WATER RESTORATION
+- MUNICIPAL USE WATERWISE POLICY
+- PROPERTY DEVELOPMENT PLAN
+- IMPROVEMENTS (URA)
+- LODGING/ADMISSIONS TAX
+- EXISTING PARKS UPGRADES/ADA
+- CONNECTIONS/IMPROVEMENTS
+- PARKWAY TO SHOREHAM
+- AND CASTLE PINES PARKWAY
+- PRESERVE PARK – PUBLIC
+- 2028 PROJECTS
+- DEVELOPMENT CONTINUED
+- SOARING HAWK PARK CAPITAL
+- CASTLE PINES PARKWAY – VILLAGE
+- CASTLE PINES PARKWAY TO SHOREHAM
+- PRESERVE PARK FINAL DESIGN &
+- 2029 PROJECTS
+- SPRING TRIBUTARY STORMWATER
+- I-25/CASTLE PINES PARKWAY
+
+## [castle-pines#2] 2026-08-11 | City Council Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -57,7 +88,7 @@
 - MINUTES SUBMITTED: APPROVED:
 - Agreement completed
 
-## [castle-pines#2] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
+## [castle-pines#3] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
 - Parks and Recreation Advisory Board
 - REGULAR MEETING OF THE PARKS AND RECREATION
 - The meeting of the Parks and Recreation Advisory Board of the City of
@@ -80,7 +111,7 @@
 - "2026-08-20 Parks and Recreation Advisory Board Minutes" Hist
 - Agreement completed
 
-## [castle-pines#3] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#4] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -123,3 +154,215 @@
 - Colorado Expressing Opposition to a Ballot Measure, Which Would Amend
 - the City Charter to Require Voter Approval for Certain Annexations in Excess
 - Motion: Council Member Eubanks moved to approve Resolution 26-53, A
+
+## [castle-pines#5] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
+- PUBLIC COMMENT
+- PRESENTATION OF MINUTES
+- Minutes from the August 20, 2026 Parks and Recreation Advisory Board Meeting
+- 2026-08-20 Parks and Recreation Advisory Board Minutes DRAFT.docx
+- Soaring Hawk Park Phasing
+- Parks, Recreation, and Open Space Director's Update
+- PARKS AND RECREATION ADVISORY BOARD MEETING
+- VIEWING THE PUBLIC MEETING: THE SEPTEMBER 17, 2026 PARKS
+- Parks and Recreation Advisory Board
+- REGULAR MEETING OF THE PARKS AND RECREATION
+- The meeting of the Parks and Recreation Advisory Board of the City of
+- Also present: Marcus Graves, Parks, Recreation, and Open
+-  PUBLIC COMMENT
+-  No public comment was presented
+-  PRESENTATION OF MINUTES
+-  Minutes from the June 18, 2026 Parks and Recreation Advisory
+- Board Meeting were approved as presented
+-  Coyote Ridge Park Renovation Update
+-  Marcus Graves, Parks, Recreation and Open Spaces Director,
+-  Trail Signage and Markers Discussion
+-  Marcus Graves, Parks, Recreation, and Open Space Director
+- Tiffany Ball
+-  Soaring Hawk Park Phase 1
+- MINUTES SUBMITTED: APPROVED:
+- Katie Goins, Deputy City Clerk Tiffany Ball, Chair
+- PARKS AND RECREATION ADVISORY BOARD COMMUNICATION FORM
+- TO: Parks and Recreation Advisory Board Members
+- FROM: Marcus Graves, Parks, Recreation, and Open Space Director
+- Policy Question: Does the Parks and Recreation Advisory Board (PRAB) support staff’s
+- Background: The City of Castle Pines (the “City”) has identified 35 trail segments throughout
+- wayfinding, beginning with a trail naming initiative. To date, City Council has approved official
+- was tasked with evaluating trail signage styles, identifying key signage locations, and
+- signage: Trailhead Kiosk/Shelter (area map and orientation signage at park and neighborhood
+- street crossings), and Trail Mile Markers (periodic wayfinding markers placed along trail
+- PRAB’s August discussion focused on the trailhead kiosk and directional sign designs. This
+- report returns to PRAB to resolve the remaining open question from that discussion: how
+- maps are included as Exhibits 1–3. Trail crossing signage (signage at street and roadway
+- crossings) is being evaluated separately and will be brought to PRAB at a future meeting
+- considerations differently depending on trail context, sign design, and budget; there is no single
+- trail system closest to how it looks and feels today
+- signage budget further and allows more of it to go toward higher-quality, more intentional
+- Options 1 or 2, Option 3 keeps the trail system closer to its current look and feel rather
+- improvement in location identification over the trail network’s current signage, even
+
+## [castle-pines#6] 2026-09-22 | City Council Study Session and Regular Meeting | agenda
+- c. Ordinance 26-07 Overview
+- 2026-09-22 Ordinance 26-07 Campaign Finance Study Session.pd f
+- 4. Approval of Agenda
+- 5. Public Comment
+- 6. Special Presentation
+- 7. Presentation of Minutes
+- 8a. Ordinance 26-07, An Ordinance of the City Council of the City of Castle Pines,
+- Colorado, Amending Article 1 of Chapter 2 of the Castle Pines Municipal Code
+- Ordinance 26-07, Campaign Finance.docx
+- City Council Staff Report Ordinance 26-07.pdf
+- 8b. Ordinance 26-08, An Ordinance of the City Council of the City of Castle Pines,
+- Colorado, Approving the Conveyance of Certain Recreation Properties from the
+- Intergovernmental Agreement Between the City of Castle Pines and the Castle Pines
+- City Council Staff Report Ordinance 26-08.pdf
+- Ordinance 26-08, Transfer of CPNMD Properties to City.docx
+- 8c. Ordinance 26-09, An Ordinance of the City Council of the City of Castle Pines,
+- Colorado, Approving The Conveyance of Certain Tracts of Land to the Castle Pines
+- North Metropolitan District Pursuant to the Intergovernmental Agreement Between
+- City Council Staff Report Ordinance 26-09.pdf
+- Ordinance 26-09, Authorizing Conveyance of Tracts to CPNMD.docx
+- 8d. Resolution 26-55, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving a Professional Services Agreement Between the City of Castle
+- City Council Staff Report Resolution 26-55.pdf
+- Resolution 26-55, Approving Designscapes Snow Removal Agreement.docx
+- 2026-2027 Updated Bid Schedule (1).pdf
+- 8e. Resolution 26-56, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving a First Amendment to the Professional Services Agreement
+- City Council Staff Report Resolution 26-56.pdf
+- Resolution 26-56, Approving First Amendment Alfred Benesch PSA.docx
+- 2026 First Amendment Benesch Engineering.docx
+- 9b. Resolution 26-57, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving First Amendment to the Intergovernmental Agreement Between
+- City Council Staff Report Resolution 26-57.pdf
+- Resolution 26-57, Approving Amendment to CDOT Happy Canyon Funding IGA.docx
+- CDOT Design Phase Funding Amendment - Complete Draft AM1 Castle Pines (25535)
+- 9c. Resolution 26-58, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving an Intergovernmental Agreement Between the City of Castle
+- Canyon Road/I-25 Interchange Project
+- City Council Staff Report Resolution 26-58.pdf
+- Resolution 26-58, Approving Douglas County IGA Happy Canyon Interchange.docx
+- 9d. Resolution 26-59, A Resolution of the City Council of the City of Castle Pines,
+- City Council Staff Report Resolution 26-59.pdf
+
+## [castle-pines#7] 2026-10-13 | City Council Study Session and Regular Meeting | agenda
+- Approval of Agenda
+- Public Comment
+- Presentation of Minutes
+- Ordinance 26-10, An Ordinance of the City Council of the City of Castle Pines,
+- Colorado, Amending the Boundaries of the Three Districts of the City in Accordance
+- City Council Staff Report Ordinance 26-10.pdf
+- A - 2026-10-13 Ordinance No 26-10 Castle Pines Redistricting_2026.docx
+- 2026-10-13 - Ordinance No.pdf
+- Resolution 26-60, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving a Professional Services Agreement Between the City of Castle
+- City Council Staff Report Resolution 26-60.pdf
+- Resolution 26-60, PSA with Alfred Benesch for Happy Canyon CM - Phase 1 (1).docx
+- Happy Canyon - Package 1 - CM Agreement with Benesch (1).pdf
+- Resolution 26-61, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving the First Amendment to Agreement for Professional Services
+- Interchange Project
+- City Council Staff Report Resolution 26-61.pdf
+- Resolution 26-61, Approving First Amendment Stanton Constructability_final.docx
+- 2026 First Amendment - Stanton Constructability Services - Cost Estimating - fin (1).docx
+- PUBLIC HEARING: Ordinance 26-08, An Ordinance of the City Council of the City of
+- Castle Pines, Colorado, Approving the Conveyance of Certain Recreation Properties
+- to the Intergovernmental Agreement Between the City of Castle Pines and the Castle
+- City Council Staff Report Ordinance 26-08.pdf
+- Ordinance 26-08, Transfer of CPNMD Properties to City on Second Reading.docx
+- PUBLIC HEARING: Ordinance 26-09, An Ordinance of the City Council of the City of
+- Castle Pines, Colorado, Approving The Conveyance of Certain Tracts of Land to the
+- Agreement Between the City of Castle Pines and the Castle Pines North Metropolitan
+- City Council Staff Report Ordinance 26-09.pdf
+- Ordinance 26-09, Authorizing Conveyance of Tracts to CPNMD on Second Reading.docx
+- PUBLIC HEARING: Resolution 26-62, A Resolution of the City Council of the City of
+- Castle Pines, Colorado, Approving the Canyonside Preliminary Plan No. 1, 2nd
+- Amendment, City Caste No. PFP-2026-001
+- Staff Report Resolution 26-62.pdf
+- Attachment A - Preliminary Plan (3).pdf
+- Resolution 26-62, Approving Canyonside Preliminary Plan No.docx
+- Staff Presentation - CC Pres Canyonside Prelim Plan No.pdf
+- Applicant Presentation - CC PFP-2026-001.pdf
+- Resolution 26-63, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Adopting an Expedited Review Process for Qualified Affordable Housing
+- Development as Part of a Commitment to Proposition 123, as Adopted by Colorado
+- Staff Report Resolution 26-63.pdf
+
+## [castle-pines#8] 2026-10-15 | Parks and Recreation Advisory Board Meeting | agenda
+- PUBLIC COMMENT
+- PRESENTATION OF MINUTES
+- Minutes from the September 17, 2026 Parks and Recreation Advisory Board Meeting
+- 2026-09-17 Parks and Recreation Advisory Board Minutes - DRAFT.pdf
+- Continued Soaring Hawk Park Phasing
+- Parks, Recreation, and Open Space Director's Update
+- PARKS AND RECREATION ADVISORY BOARD MEETING
+- VIEWING THE PUBLIC MEETING: THE OCTOBER 15, 2026 PARKS
+- Parks and Recreation Advisory Board
+- REGULAR MEETING OF THE PARKS AND RECREATION
+- The meeting of the Parks and Recreation Advisory Board of the City of
+- Also present: Marcus Graves, Parks, Recreation, and Open
+- No public comment was presented
+- Minutes from the August 20, 2026 Parks and Recreation Advisory
+- Board Meeting were approved as presented
+- Marcus Graves, Parks, Recreation and Open Spaces Director,
+- Tiffany Ball
+- Soaring Hawk Park Phasing
+- Marcus Graves, Parks, Recreation, and Open Space Director
+- MINUTES SUBMITTED: APPROVED:
+- Katie Goins, Deputy City Clerk Tiffany Ball, Chair
+
+## [castle-pines#9] 2026-10-20 | City Council Study Session | agenda
+- City Manager's Proposed 2027 Annual Budget Presentation
+- 2026-10-20 Study Session - City Manager Proposed 2027 Annual Budget.pdf
+- 2027 ANNUAL BUDGET
+- Budget Highlights
+- Discussion/Questions
+- Presentation to Council
+- Adopt Budget and Mill Levies
+- 2027 Budget Alignment
+- 2026-2027 Strategic Plan
+-  Vibrant and Healthy Economic Development
+- Council Strategic Projects Timeline
+-  Presented at the August Budget Retreat
+- STRATEGIC PLAN ALIGNMENT
+- Road Solutions Plan
+- Spring Tributary at Lagae Road
+- Open air pavilion and parking lot north of Community
+- Second Parks Foreman position
+- Trails Master Plan update
+- VIBRANT AND HEALTHY ECONOMIC DEVELOPMENT
+- Economic Development Strategic Plan implementation
+- Community Benefit Zone platting
+- East side commercial/mixed use platting in PA-2
+- Lodging tax and admissions tax research and analysis
+- BUDGET FINANCIAL OVERVIEW
+-  Revenue projections are based on conservative forecasting,
+- development activity
+-  Community Development Estimates – Homebuilders
+- 104 new home building permits
+-  Property Tax – City assessed valuation from DC Assessor
+-  Sales Tax – Growth plus Inflation
+-  Construction Use Tax – Community Development estimates
+- Taxes are the City’s
+- Typically, taxes are
+- construction project
+- Budget % change
+- Property Tax 6,505,668 6,662,000 0% 6,662,000 3% 6,834,000
+- Specific Ownership Tax 500,987 515,000 -6% 485,000 10% 532,000
+- Sales Tax 6,421,502 7,323,000 2% 7,453,000 5% 7,849,000
+- Construction Use Tax 2,235,199 2,083,000 26% 2,628,000 -36% 1,681,000
+- Motor Vehicle Use Tax 2,587,017 2,726,000 -10% 2,440,000 5% 2,569,000
+- Revised Specific Ownership Tax projection down 6%; projecting 2027
+- revenue at 3% increase over 2026 budget
+- Revised Sales Tax projection up 2% and then a 5% increase for 2027 based
+- Revised Construction Use Tax projection up 26% and then a 36% decrease
+- Revised Motor Vehicle Use Tax down 10% and then a 5% increase for 2027
+- The 2026 budget estimates for HUTF, Conservation Trust, and other
+- Revised the R&B Property Tax County Shareback projection down 19% and then a
+- 3% increase for 2027 based on the City’s property tax estimate
+- Revised the Roads Sales and Use Tax County Shareback down 7% and then a 7%
+- decrease for 2027 based on the estimates for the City’s sales and use tax
+- Highway Users Tax Fund 479,562 508,000 0% 508,000 5% 532,000
+- Road and Bridge Prop Tax Shareback 729,686 890,000 -19% 725,000 3% 746,000
+- Roads County Sales/Use Tax Sharebacks 567,629 578,000 2% 587,000 -7% 547,000
+- Overall, a 28% decrease from 2026 year-end projections led by decreases in
+- Building Permit and Planning and Zoning revenue estimates

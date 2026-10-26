@@ -340,3 +340,62 @@
 - 2. Approve a letter to CDOT regarding intersection improvements at US-50 and SH-291
 - Mayor Critelli – Emails for discussion
 - Treasurer Report - Comparison of the 2026 and 2027 Budgets - emails
+
+## [salida#16] 2026-10-26 | Planning Commission | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- Community Development Office at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530
+- 448 E. 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 2. Comprehensive Plan Amendments: Water Supply Element & Strategic Growth Element
+- Presentations
+
+## [salida#17] 2026-10-26 | Planning Commission | agenda
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting the
+- Community Development Office at 448 E. 1st Street, Ste. 112, Salida, CO 81201, Ph.719-530
+- 448 E. 1st Street, Room 190 Salida, Colorado 81201
+- Discussion Items
+- 2. Comprehensive Plan Amendments: Water Supply Element & Strategic Growth Element
+- Presentations
+- De-mystifying Latin terminology
+- Legislative: Broad application, announcing policy, making law
+- Amending municipal code, resolutions and proclamations
+- Examples: Short term rental ordinance; nuisance, building, zoning and land use codes
+- Quasi-judicial: Narrow application, does not make policy, applies policy
+- Examples: Specific land use approvals, historic preservation decisions, licensing hearings,
+- (14th Amendment of the United States Constitution)
+- To ensure opportunity for fair hearing before unbiased decision makers and that each
+- Eg) a neighbor comes up to you at Sweetie’s to express their concern with a certain development
+- land use approval. You posted on Facebook that you will neverapprove any application
+- with affordable housing. Y ou have made clear that all your votes will be “anti” developer
+- presented at the hearing affected?
+- Versus: personal opinions, subjective feelings or individual preferences
+- Public hearing creates and completes a “record”
+- Consider “thinking out loud” – so your reasoning is included in the record
+- convened to discuss public business - in
+- where discussion of publicbusiness is not central
+- policy-making functions, discussing or
+- undertaking arule, regulation, ordinance,
+- “If officials use e-mail to discuss (the merits
+- limited matters discussed in private
+- OML specifies permitted basis (advice from attorneys;
+- Purpose: deliberate, not make final decisions
+- Public Hearing Outline
+- 1. Open Public Hearing
+- 3. Applicant presentation
+- 4. Public Comment
+- 8. Close public hearing
+- That Commission members and public attendees leave the public hearing feeling it was fair and
+- Announce the rules, order of hearing, and applicant’s rights at the beginning, then stick to them
+- Make sure that all attendees at the public hearing know they have the right to speak
+- Don’t discuss other applications that are in process
+- To make a full presentation
+- To respond after public comment closes
+- approval/denial to City Council
+- reasons for Approval or Denial
+- the record and made during the hearing
+- Vote on the application/request
+- application. If request is for rezoning to
+- (applicant has the right that application
+- moves on and is considered)
+- has the right that their application
+- Amendments: must be germane to

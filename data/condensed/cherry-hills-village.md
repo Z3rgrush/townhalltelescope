@@ -316,3 +316,6 @@
 - finalized as 2027 assessed valuation and property tax collections are certified
 - The 2027 property tax reduction will have a direct impact on the General Fund budget, reducing
 - projected General Fund property tax revenue by approximately $4 million. Based on the Village’s
+
+## [cherry-hills-village#14] 2026-10-26 | Cherry Hills Village Art Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City

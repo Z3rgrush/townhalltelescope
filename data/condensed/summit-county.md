@@ -1,0 +1,100 @@
+# summit-county
+
+## [summit-county#0] 2026-09-29 | Special Meeting | agenda
+- APPROVAL OF AGENDA
+- Approval of Resolution Adopting Amendments to Resolution 2026-25, Concerning the Appointments to Various Board, Committees, and Commissions
+- Appointment B. Amendment to Appointment Resolution.pdf
+- A Resolution in Support of Amendment 87
+- A Resolution in Support of Proposition 137
+- A Resolution in Support of Proposition NN
+- A Resolution in Support of Referred Measure 4A
+- A Resolution Opposing Amendment 81
+- A Resolution Opposing Amendment 82
+- A Resolution Opposing Amendment 85
+- A Resolution Opposing Proposition 136
+- Approval of 9/11/26 Special Meeting Minutes
+- Approval to Exercise Option Agreement to Purchase the Pirate, Canadian, and Manerva Mill Sites (Snake River Basin)
+- Attachment B. Option Agreement_Manerva.Canadian.Pirate_FullyExecuted.pdf
+- Approval of Head Start Continuation Application
+- BOCC Staff Report - Head Start Continuation Grant 2027 - Accessible.pdf
+- Attachment A - 2027 Budget Justification.pdf
+- Attachment B - 2027 EHA Subrecipient Agreement - Accessible.pdf
+- 2025 Property Tax Notice.pdf
+- Stipulation Agreement 1102662.pdf
+- Abatement 26AR-067; Schedule Number 6519552; Tract A Highlands Riverfront Sub Future Development
+- 2025 Tax 6519552.pdf
+- Abatement 26AR-125; Schedule Number 6519569; Tract T Highlands Riverfront Sub Future Development
+- 2025 Tax Notice 6519569.pdf
+- 6519569 abatement request 2025.pdf
+- Abatement 26AR-126; Schedule Number 6519570; Tract U Highlands Riverfront Sub Future Development
+- 2025 Tax Notice 6519570.pdf
+- 6519570 abatement request 2025.pdf
+- PUBLIC HEARING
+- Appeal of Lower Blue Planning Commission Decision on PLN26-009 and PLN26-010: Class 4 Conditional Use Permit and Class 4 Site Plan for a New Verizon Wireless Telecommunication Facility at 6631 Heeney Road
+- Attachment C - Project Narrative.pdf
+- Attachment F - Draft Resolutions.pdf
+- Attachment G - Public Comments Received as of 9-23-26.pdf
+- Presentation - Appeal PLN26-009 & PLN26-010.pdf
+
+## [summit-county#1] 2026-10-13 | Work Session | agenda
+- 1st AMENDED WORK SESSION AGENDA
+- 9:00 a.m. CO River District Annual Presentation
+- Town of Keystone IGA for Proposition 123 Housing Credits - Soda Creek
+- 9:55 a.m. Assessor Budget Discussion
+- BOCC Staff Report - Assessor Budget.pdf
+- Next Year Budget Report - Assessor.pdf
+- 10:25 a.m. 2027 Draft Budget Presentation
+- SCG 2027 Draft Budget -UA.pdf
+
+## [summit-county#2] 2026-10-13 | Regular Meeting | agenda
+- APPROVAL OF AGENDA
+- Approval of 9/15/26 Special Meeting Minutes
+- Approval of 9/23/26 Special Meeting Minutes
+- Approval of 9/29/26 Special Meeting Minutes
+- Planning Commission Appointments: Snake River Appointee to the CWPC and Lower Blue Correction of Alternate Member
+- Approval to Exercise Option Agreement for Summit Gulch Claims (Upper Blue Basin)
+- Option Agreement_Summit Gulch Claims_FullyExecuted.pdf
+- CR 506 Consideration of Full Maintenance 2026 Final.docx
+- 2026 CR506 resolution_final.docx
+- Authorization for the Chair to Approve the Community Services Block Grant (CSBG) 3-Year Community Needs Assessment
+- Community Services Block Grant Staff Report.pdf
+- 2027-2029 CSBG Checklist for Application-word-fillable - remediated.pdf
+- Community Action Plan 2027-2029-Updated 8.24.26.pdf
+- Strategic Plan 2026-2030.pdf
+- Approval of Secure Transportation Licenses
+- Approval of IGA with Town of Keystone for Proposition 123 Housing Credits – Soda Creek Project
+- IGA Soda Creek Project Allocation of Units Clean.pdf
+- Liquor License Renewal for Keystone Food & Beverage dba Mountain House Lodge; Hotel & Restaurant; Ashley Jeitz; 1202 Summit County Road 8, Keystone, CO (Clerk)
+- PUBLIC HEARING
+- 2027 Draft Budget Presentation
+- SCG 2027 Draft Budget -UA.pdf
+- Consideration of a Proposed Resolution Requiring Background Checks for Massage Facility Personnel
+- Appeal of Lower Blue Planning Commission Decision on PLN26-004: Quikrete CUP Class 4 Conditional Use Permit for Milling and Concrete and Asphalt Batch Plant Operations at 28755 State Hwy 9, Portions of Sections 15 & 22, T4S R78W, 6th P.M., a 151-acre Portion of a 605-acre Parcel, Zoned A-1
+- Attachment C - Project Narrative & Referral Response Letters.pdf
+- Attachment E - Exhibit to DRMS Permit.pdf
+- Attachment F - Stormwater Management Plan.pdf
+- Attachment G - Supplemental Materials - Proposed Class 2 Landscape Plan.pdf
+- Attachment H - BOCC Draft Resolution.pdf
+- Attachment I - Public Comments FINAL 2.pdf
+- Appeal PLN26-004 Presentation_10-8-UA.pdf
+
+## [summit-county#3] 2026-10-20 | Special Work Session | agenda
+- 9:00 a.m. SCRAP Fee Analysis
+- SCRAP Fee Analysis
+- Staff Report SCRAP Fee Analysis.pdf
+- Attach A - SCRAP Rate Study.pdf
+- Attach C - Rate Study Supplement.pdf
+- Attach D - SCRAP Fee Analysis Presentation 10.20.26.pdf
+- 9:30 a.m. Capital Projects, Road & Bridge and Lodging Tax Budget Discussion
+- Capital Projects Budget Discussion
+- Capital Funds Budget Staff Report 10.20.26.pdf
+- Capital Budget Summary 2027.pdf
+- Capital Fund - 2027 Budget.pdf
+- Road and Bridge Budget Discussion
+- R & B Capital Projects Presentation 10.20.26.pdf
+- 2027 5 Year R&B Capital Road & Bridge Plan.pdf
+- Road & Bridge Fund - 2027 Budget.pdf
+- Lodging Tax Budget Discussion
+- Lodging Tax Budget Staff Report.pdf
+- Lodging Tax Fund - 2027 Budget.pdf
+- 11:30 a.m. Discussion of District Attorney Budget Amendment (Executive Session Recommended in part)

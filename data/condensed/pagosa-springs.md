@@ -694,3 +694,8 @@
 - Mayor Pierce moved to approve the committee assignments as presented and discussed,
 - 2. 2027 Budget Public Hearing
 - Mayor Pierce opened this item for public comment
+
+## [pagosa-springs#40] 2026-10-26 | Joint Town/County Work Session | agenda
+- Public comment and agenda comment item sign-up sheets are available at the meeting
+- Copies of proposed Ordinances and Resolutions are available to the public from the Town Clerk
+- Remote participation is at the risk of attendees. The meeting will continue in person regardless of the broadcast

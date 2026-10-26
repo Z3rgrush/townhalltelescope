@@ -69,7 +69,10 @@
 - review the results of an investigation into a complaint filed with the Police Advisory Board on
 - IV. Police Advisory Board Determination and Recommendation regarding the Investigation of
 
-## [dacono#7] 2026-09-14 | City Council | agenda
+## [dacono#7] 2026-09-12 | City Council | agenda
+- 16011 Grant St, Thornton, CO 80023
+
+## [dacono#8] 2026-09-14 | City Council | agenda
 - Presentations And Proclamations
 - Public Comments On Issues Not Scheduled On Agenda
 - Approval Of August 24, 2026, Regular Meeting Minutes
@@ -88,17 +91,17 @@
 - Annexation To The City Of Dacono, And Setting A Public Hearing Thereon
 - GB-D RES 26-53 CNS NORTHERN LOT ANNEX RES SUB COMP.PDF
 
-## [dacono#8] 2026-09-24 | City Council | agenda
+## [dacono#9] 2026-09-24 | City Council | agenda
 - 4951 Carbide St., Frederick, CO 80504
 
-## [dacono#9] 2026-09-26 | City Council | agenda
+## [dacono#10] 2026-09-26 | City Council | agenda
 - 2700 Vista Parkway, Erie, CO 80516
 - strategic direction for the City, and align the roles and operations of the Council with City staff
 - Discussion topics:
 -  Budget & Capital Improvement Planning
 -  Land Use & Economic Development
 
-## [dacono#10] 2026-09-28 | City Council | agenda
+## [dacono#11] 2026-09-28 | City Council | agenda
 - Presentations And Proclamations
 - Public Comments On Issues Not Scheduled On Agenda
 - Approval Of September 14, 2026, Regular Meeting Minutes
@@ -115,11 +118,11 @@
 - PUD Ordinance Discussion
 - Presenter: Marc Kurbansade, Deputy City Manager/Community Development
 
-## [dacono#11] 2026-10-07 | City Council | agenda
+## [dacono#12] 2026-10-07 | City Council | agenda
 - Meeting location: Annex Building, 512 Cherry Ave - Building C, Dacono, CO 80514
 - 2027 Budget Discussion
 
-## [dacono#12] 2026-10-07 | Urban Renewal Authority of Dacono | agenda
+## [dacono#13] 2026-10-07 | Urban Renewal Authority of Dacono | agenda
 - Meeting Location: Annex Building - 512 Cherry Ave., Building C, Dacono, CO 80514
 - II. *Approval of September 2, 2026, Urban Renewal Authority of Dacono Meeting Minutes
 - A. City Center Park Presentation
@@ -132,14 +135,14 @@
 - Dacono for Capital Improvement Projects
 - D. Setting the 2027 Budget Public Hearing Date
 
-## [dacono#13] 2026-10-08 | Police Advisory Board | agenda
+## [dacono#14] 2026-10-08 | Police Advisory Board | agenda
 - Police Advisory Board Meeting
 - Meeting location: Annex Building, 512 Cherry Ave., Building C, Dacono, CO 80514
 - II. Approval of Minutes of August 6, 2026, Meeting
 - review the results of an investigation into a complaint filed with the Police Advisory Board on
 - IV. Police Advisory Board Determination and Recommendation regarding the Investigation of
 
-## [dacono#14] 2026-10-12 | City Council | agenda
+## [dacono#15] 2026-10-12 | City Council | agenda
 - Presentations And Proclamations
 - Public Comments On Issues Not Scheduled On Agenda
 - Approval Of September 28, 2026, Regular Meeting Minutes
@@ -154,7 +157,7 @@
 - Consideration Of Resolution 26 -58, Adopting The 2026 Water Efficiency Plan
 - GB-C RES 26-58 WATER EFFICIENCY PLAN.PDF
 
-## [dacono#15] 2026-10-13 | Planning and Zoning Commission | agenda
+## [dacono#16] 2026-10-13 | Planning and Zoning Commission | agenda
 - Meeting Location: Annex Building, 512 Cherry Avenue, Building C, Dacono, CO,
 - APPROVAL OF MINUTES
 - Approval Of Minutes For The August 25, 2026 Meeting
@@ -165,3 +168,36 @@
 - Public Hearing And Consideration Of A Site Plan And Industrial Use Application For
 - Silver Peaks Warehouse
 - PC PH SILVER PEAKS WAREHOUSE SP AND IND USE.PDF
+
+## [dacono#17] 2026-10-15 | City Council | agenda
+- United Water and Sanitation District Tour
+
+## [dacono#18] 2026-10-26 | City Council | agenda
+- Presentations And Proclamations
+- Santa Cops Check Presentation
+- Dacono Police Department Analytics Presentation
+- Appointment Of Volunteer Chaplain For The Dacono Police Department
+- Carbon Valley Holiday Festival Presentation
+- Public Comments On Issues Not Scheduled On Agenda
+- Approval Of October 12, 2026, Regular Meeting Minutes
+- Approving Resolution 26 -59, Approving An Agreement With The Honorable David J
+- CA-B RES 26 -59 MUNICIPAL JUDGE AGREEMENT.PDF
+- Approving Resolution 26 -60, Approving A Memorandum Of Understanding For An
+- Approving Resolution 26 -61, Approving A Water Dedication Agreement For Strata
+- CA-D RES 26-61 STRATA FILING 2 ADDITIONAL WATER PURCHASE FOR
+- Public Hearing And Consideration Of Resolution 26 -62, Concerning A Petition Of
+- Annexation Of Property To The City Of Dacono, Colorado, Northern Lot CNS Annexation
+- And Finding The Area Proposed To Be Annexed Eligible For Annexation; Consideration
+- Of Ordinance 1026, Approving An Annexation Known As Northern Lot CNS Annexation
+- To The City Of Dacono, Colorado, On First Reading; And Consideration Of Ordinance
+- 1027, Zoning Property Annexed To The City Of Dacono And Known As The Northern Lot
+- CNS Annexation, On First Reading And Setting A Public Hearing Pursuant To Charter § 3
+- GB-A RES 26 -62 CNS NORTHERN LOT ANNEX ELIGIBLE.PDF
+- Consideration Of Ordinance 1025, Amending The Dacono Municipal Code To Provide A
+- Sales Tax Credit For Taxable Transactions Occurring Within The Property Located In
+- Boulevard, On First Reading And Setting A Public Hearing Pursuant To Charter § 3 -9 For
+- GB-B ORD 1025 SALES TAX CREDIT AGMT.PDF
+- Impact Fee Discussion
+- Presenter: Marc Kurbansade, Deputy City Manager/Community Development
+- Therapy Dog Discussion
+- Presenter: Jad Lanigan, Police Chief

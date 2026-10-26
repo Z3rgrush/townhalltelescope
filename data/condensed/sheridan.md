@@ -215,3 +215,34 @@
 - Equal Space Ordinance Discussion – Mel Englund,
 - Sheridan Housing Implementation Plan (SHIP) Presentation &
 - Discussion – Matrix Design Group
+
+## [sheridan#19] 2026-10-26 | City Council Agendas | agenda
+- 5. Agenda Approval
+- d. Police Chief
+- e. Community Development (via written report only) Permit Report - September
+- meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
+- a. Approval of Disbursements
+- 10. Public Hearing (none)
+- 11. Items for Individual Consideration
+- a. Ordinances on Second Reading (none)
+- (Comments from the Public will be invited prior to consideration)
+- b. Ordinances on First Reading (none)
+- c. Resolutions
+- i. Resolution 28-2026
+- A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF SHERIDAN,
+- COLORADO, APPROVING AN AGREEMENT FOR CRISIS
+- ALLHEALTH NETWORK Res. 28-2026 - AllHealth Network Contract.pdf
+- 14. Public Comment - shall not exceed twenty (20) minutes
+
+## [sheridan#20] 2026-10-26 | City Council Work Session Agendas | agenda
+- meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
+- 2. Items to Be Discussed
+- a. Sheridan Housing Authority
+
+## [sheridan#21] 2026-10-26 | Sheridan Redevelopment Agency Agendas | agenda
+- meetings, please notify the City of Sheridan at 303-438-3306, 72 hours in advance
+- SHERIDAN REDEVELOPMENT AGENCY
+- 3. Approval of Minutes
+- a. Approval of the Financial Reports
+- 5. Approval of Disbursements
+- 6. Resolutions (none)

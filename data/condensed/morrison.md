@@ -179,7 +179,25 @@
 - Morrison Town Hall, 110 Stone Street, Morrison, Colorado
 - Morrison Post office, 150 Spring Street, Town of Morrison Website
 
-## [morrison#7] 2026-09-01 | Hogback Newsletter | agenda
+## [morrison#7] 2026-08-18 | Public Notices | agenda
+- ORDINANCE NO. 566
+- AN ORDINANCE AMENDING TITLE 10 OF THE MORRISON MUNICIPAL CODE REGARDING GARDEN SHEDS, HOTELS AND MOTELS, FLOODPLAIN GRADE MEASUREMENT, AND THE DEFINITION OF SUBSTANTIAL IMPROVEMENT
+- WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
+- WHEREAS, the Board has authority pursuant to the Home Rule Charter and C.R.S. § 31-16-101, et seq. to adopt and enforce all ordinances; and
+- WHEREAS, the Board desires to amend Title 10 of the Morrison Municipal Code to permit garden sheds as an accessory use, add motels as a permitted use in the HD district, clarify floodplain grade measurement, and amend the definition of substantial improvement
+- Section 1.Title 10 of the Morrison Municipal Code is hereby amended by replacing the term "Barns, Sheds, and Outbuildings" with "Barns and Outbuildings" in every instance
+- Section 2.Title 10 of the Morrison Municipal Code is hereby amended by replacing the term "Hotel" with "Hotel or Motel" in every instance except for the definitions in Section 10-F-3
+- Section 3.Table C-1 in Title 10 of the Morrison Municipal Code is hereby amended by the addition of a new "Garden Shed" use to appear alphabetically under the Accessory Uses row and as an Accessory use in the RR, RE, R1, and R2 zoning districts
+- Section 4.Section 10-C-3(D)(8) of the Morrison Municipal Code is hereby amended to read as follows:
+- (3)Hotels shall provide parking for guests in a parking garage located within the primary structure
+- Section 5.Section 10-D-4(A)(3)(c) of the Morrison Municipal Code is hereby amended to read as follows:
+- 10-D-4:SENSITIVE LANDS, STORMWATER, AND DRAINAGE:
+- c.All structures shall have the lowest floor (including basement), electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities (including ductwork), elevated to one foot two feet above the base flood elevation or, in areas of shallow flooding, at least two
+- Section 6.Section 10-F-3 of the Morrison Municipal Code is hereby amended by the addition of the following definition to appear in alphabetical order:
+- GARDEN SHED: An accessory structure no larger than 120 square feet with a maximum height of 10 feet used primarily for the storage of household or landscape materials. Garden sheds shall not be used for human habitation or as a place of employment
+- Section 7.The definitions of Motel and Substantial Improvement in Section 10-F-3 of the Morrison Municipal Code are hereby amended as follows:
+
+## [morrison#8] 2026-09-01 | Hogback Newsletter | agenda
 - feedback, ask questions, and voice concerns
 - Due to drought conditions all Morrison water service users are hereby noticed of
 - MANDATORY watering restrictions, effective APRIL 2, 2026. Restrictions shall remain in
@@ -200,7 +218,26 @@
 - Triceratops Gulch Project:
 - us in the field, and we were grateful that she could see more of what the Morrison Natural History
 
-## [morrison#8] 2026-09-15 | Town Board Agendas and Minutes | minutes
+## [morrison#9] 2026-09-04 | Public Notices | agenda
+- BALLOT ISSUE: SHALL THE TOWN OF MORRISON'S TAXES BE INCREASED BY $125,000 IN THE FIRST FULL FISCAL YEAR, COMMENCING JANUARY 1, 2027, AND BY WHATEVER AMOUNTS RAISED ANNUALLY THEREAFTER, BY ELIMINATING AN EXISTING EXEMPTION FROM THE TOWN’S LODGING TAX AND THEREBY EXPANDING THE TAX TO APPLY TO ALL LODG
+- BALLOT ISSUE: SHALL THE TOWN OF MORRISON’S TAXES BE INCREASED BY $500,000 IN THE FIRST FULL FISCAL YEAR, COMMENCING JANUARY 1, 2027, AND BY WHATEVER AMOUNTS ARE RAISED ANNUALLY THEREAFTER, BY INCREASING THE RATE OF THE TOWN’S EXISTING LODGING TAX FROM 6% TO 8%, WITH THE REVENUES THEREFROM TO BE SPEN
+
+## [morrison#10] 2026-09-15 | Public Notices | agenda
+- ORDINANCE NO. 562
+- AN ORDINANCE AMENDING SECTIONS 3-6-2 AND 3-6-4 OF THE MORRISON MUNICIPAL CODE REGARDING A LODGING TAX EXEMPTION
+- WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
+- WHEREAS, the Board has authority pursuant to the Home Rule Charter and C.R.S. § 31-16-101, et seq. to adopt and enforce all ordinances;
+- WHEREAS, at the regular municipal election held on April 3, 2012, the Board of Trustees submitted a ballot issue to the registered electors of the Town regarding the creation of a lodging tax in the Town exempting lodging facilities of less than eight guest rooms;
+- WHEREAS, the voters approved the ballot issue thereby imposing a 6% tax on lodging and exempting lodging facilities of less than eight guest rooms, commencing on January 1, 2013, with the revenues to be spent on any lawful purpose;
+- WHEREAS, on September 17, 2013, the Board passed an ordinance exempting lodging facilities of less than 11 units from the lodging tax;
+- WHEREAS, aligning the guest room exemption with the adopted ballot language conforms with Colorado Supreme Court decision in MetroPCS California, LLC v. City of Lakewood, 576 P.3d 139 (Colo. 2025) and the Colorado's Taxpayer Bill of Rights, Colo. Const. art. X, § 20 ("TABOR") because voter approval 
+- WHEREAS, the Town desires to amend the Morrison Municipal Code to make the lodging tax exemption consistent with the voter approved ballot measure and to simplify the collection and administration of the lodging tax
+- Section 1.Section 3-6-2 of the Morrison Municipal Code is hereby amended as follows:
+- Section 2.Section 3-6-4(D) of the Morrison Municipal Code is hereby amended to read as follows:
+- Section 3.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
+- Section 4.Effective Date. This Ordinance shall take effect on October 1, 2026
+
+## [morrison#11] 2026-09-15 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - Trustee Bernhardt moved to add public comment to 4a. All present voted aye. The motion
 - 3. Amendments to the Agenda. N/A
@@ -217,7 +254,20 @@
 - A motion was made by Trustee Way to approve the Consent Agenda for September 15,
 - 10. Future Considerations. Minute Mark 25:15
 
-## [morrison#9] 2026-10-06 | Town Board Agendas and Minutes | minutes
+## [morrison#12] 2026-10-06 | Public Notices | agenda
+- ORDINANCE NO. 567
+- AN ORDINANCE AMENDING TITLE 5 OF THE MORRISON MUNICIPAL CODE REGARDING THE ABATEMENT OF A NUISANCE
+- WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
+- WHEREAS, the Board has authority pursuant to the Home Rule Charter and C.R.S. § 31-16-101, et seq. to adopt and enforce all ordinances; and
+- WHEREAS, the Board desires to amend Title 5 of the Morrison Municipal Code to expedite the procedures for the Town to abate a nuisance on public property
+- Section 1.Section 5-1-3(A) of the Morrison Municipal Code is amended to read as follows:
+- Section 2.Section 5-1-5 of the Morrison Municipal Code is amended to read as follows:
+- A.Notice to Abate: The town administrator manager, upon receipt of a verified complaint that a nuisance exists on public or private property in the town, may in the exercise of his/her their discretion, notify the owner, lessee, tenant, or occupant (hereinafter, "responsible party") in writing, requ
+- D.Abatement Without Notice or Court Order on Public Property: Any nuisance located or found in or upon any street, avenue, alley, public sidewalk, highway, public right of way, public grounds, park, recreation facility, or public property in the Town may be abated without notice. The Town may abate 
+- Section 3.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
+- Section 4.Effective Date. This Ordinance shall take effect fifteen (15) days after adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter
+
+## [morrison#13] 2026-10-06 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - positions relative to matters that may be subject to negotiations, develop a strategy for
 - 4. Amendments to the Agenda. N/A
@@ -236,16 +286,24 @@
 - session; any member of this body or any elected official; the appointment of any person to
 - the discussion of matters personal to particular employees with the Town Attorney, Town
 
-## [morrison#10] 2026-10-07 | Town Board Agendas and Minutes | agenda
+## [morrison#14] 2026-10-07 | Town Board Agendas and Minutes | agenda
 - AMENDED NOTICE OF SPECIAL BOARD OF TRUSTEES MEETING
 - 110 Stone Street
 - The meeting has been requested by the Town Manager pursuant to Charter Section 3.2. Actual
 - 4. Public Comment
 
-## [morrison#11] 2026-10-15 | Public Notices | agenda
+## [morrison#15] 2026-10-15 | Public Notices | agenda
 - Street, Morrison, Colorado 80465. Two or more Board members may be
 
-## [morrison#12] 2026-10-20 | Town Board Agendas and Minutes | agenda
+## [morrison#16] 2026-10-20 | Public Notices | agenda
+- ORDINANCE NO. 568
+- AN ORDINANCE REPEALING CHAPTER 6 OF TITLE 1 OF THE MORRISON MUNICIPAL CODE RELATED TO TOWN EMPLOYEE PLANS AND ADMINISTRATION
+- WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
+- WHEREAS, the Board has authority pursuant to the Home Rule Charter and C.R.S. § 31-16-101, et seq. to adopt and enforce all ordinances; and
+- Section 2.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
+- Section 3.Effective Date. This Ordinance shall take effect fifteen (15) days after adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter
+
+## [morrison#17] 2026-10-20 | Town Board Agendas and Minutes | agenda
 - 110 STONE STREET
 - 5:30 PM EXECUTIVE SESSION: to consider personnel matters, pursuant to C.R.S. § 24-6
 - 402(4)(f) concerning the Town Manager employment agreement and not involving: any specific

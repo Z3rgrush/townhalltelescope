@@ -493,44 +493,38 @@
 - III. Work Session/Discussion
 - an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
 
-## [hudson#16] 2026-09-14 | Planning Commission  | agenda
+## [hudson#16] 2026-09-14 | Planning Commission  | minutes
 - 27 East Main Street
 - Previous Approved Elevations and Materials
-- V. Approval of Minutes
-- VI. Public Discussion
-- VIII. Discussion Item
-- Planning Commission discussion of the Prestige Settlement Agreement
-- IX. Old Business (including continuation of public hearings)
-- A Major Site Plan review for a 18 unit townhome development
-- Improvement Plans
-- Photometric Plan
-- Landscaping Plan
-- Sequencing, Staging, and Delivery Plan
-- Stormwater Report
-- Public Comment
-- PC Decision - Concept Plan
-- A Major Site Plan request for construction of a day care
-- Civil Site Plans (Updated)
-- Landscaping Plan (Updated)
-- Photometric Plan (Updated)
-- Fire Department Review (Updated)
-- Stormwater Management Report
-- Project Timeline
-- PC Decision - Concept Site Plan Approval
-- X. New Business (including public hearings)
-- A. PC 2026-1129 A Major Site Plan request for Standard Shop Company, an industrial business
-- park. The request was previously approved; however, is still under construction
-- with approvals expiring in October of 2026
-- Survey/Civil Site Plan
-- Elevations/Floor Plan
-- Phasing Plan
-- Other Agency Approvals
-- Planned Development Subcommittee Update/Recommendation to Council
-- Public Hearings by the Commission will be undertaken for each case in the following order:
-- 9. Discussion/Action by the Commission
-- testimony during a Public Hearing:
-- witness may be asked to redirect from commentary back to the presentation of
-- an outstanding community that values quality of life, a well-balanced tax base, historic preservation, with a
+- Mr. Sugar introduced the application by reviewing the staff report. He noted that the Standard Shop Company
+- project, approved in 2020, is approaching the expiration of its allowable build time. He also summarized the
+- revisions to the building that had been discussed with the applicant
+- window facing Terex Road could be trimmed in a more appropriate manner
+- color, and that the windows on the Terex Road side could be moved inward by approximately five or six feet to
+- commence immediately under the existing permit. The Subcommittee expressed frustration with the lengthy
+- financing for completion. Mr. Sugar acknowledged that a bond is in place. Mr. Wolf noted that Hudson is
+- requesting a setback variance. He described the improvements he and another investor have made to the property
+- since becoming involved in April. The Subcommittee noted that the plans depicting the previously approved
+- A discussion followed regarding which drawings were officially approved for the existing building. The
+- Subcommittee recommended continuing the application pending proof of financing and clarification on the final
+- information is provided, a bond is secured, materials are confirmed, the north elevation windows are
+- adjusted to address the fenestration concern, and landscaping improvements are updated. The motion was
+- approved by the following vote:
+- Approval of MinutesV
+- Because of a lack of members who were present at the August PC meeting, the approval of the August minutes
+- Public DiscussionVI
+- Chair Norman opened the meeting for Public Comment
+- Ms. Melissa Jones, 2233 Ravenna Street, thanked the Planning Commission for placing the settlement agreement
+- related to potential approval of the Stow and Ravenna Street development. He stated that this appears to be a
+- refers to the development as “Now Compliant,” even though the Planning Commission has not made such a
+- Seeing no further public comment, Chair Norman closed the Public Comments portion of the meeting
+- her discussion with Councilwoman Weinstein about collaborating with the Environmental Awareness Committee
+- Norman noted that Appendix A provides broad authority to the Planning Commission for questioning applicants
+- This matter was discussed
+- Discussion ItemVIII
+- A. DISC PRESTIGEPlanning Commission discussion of the Prestige Settlement Agreement
+- Chair Norman noted that several Commissioners agreed it was important to hold this discussion early in the
+- meeting. She reviewed the language of the Settlement Agreement and the Planning Commission’s response
 
 ## [hudson#17] 2026-09-15 | City Council | minutes
 - 27 East Main Street

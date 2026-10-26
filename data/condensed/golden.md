@@ -80,7 +80,21 @@
 - Carly Lorentz, Deputy City Manager gave a Creek update and presentation
 - requested better signs with clear instructions. She stated that there is so many behavior issues
 
-## [golden#2] 2026-08-04 | City Council Special Meeting | minutes
+## [golden#2] 2026-08-03 | Arts and Culture Commission Meeting | minutes
+- Opening:The meeting was called to order at 6:00 pm by Rick Souders in Council Chambers at 911 10th Street, Golden CO 8040
+- Approval of Agenda and Minutes:
+- The Commission approved the meeting agenda as presented. Kristie Brice raised concerns about the strategic planning discussion in the minutes, noting that it did not fully capture the confusion expressed by some commissioners during the discussion. Kristie did not propose specific edits. Laura Tanne
+- Call for Public Comment
+- No one was present for public comment and staff noted that they received one public comment about the about the ACC agenda being posted incorrectly to which Staff responded and resolved
+- Steve Glueck, Assistant to the City Manager, provided an overview of the Heart of Golden project, with a focus on the East Zone and Municipal Building. He reviewed the project's history and current planning efforts and asked the Commission to begin considering opportunities for public art throughout
+- Steve discussed potential changes and amenities in the East Zone, including improvements to Tucker Gulch, connections between parks, ecological restoration, pedestrian improvements, and potential recreational amenities. A feasibility study is underway, with additional planning and community engageme
+- Steve also reviewed the area between the Municipal Building and Farmers High Line Canal. The landscape architect provided potential public art locations, and the Commission discussed whether to concentrate artwork in the more active areas or distribute artwork throughout the East Zone, including the
+- The group discussed several potential public art opportunities, including an artist-designed fence, shade structures, a themed art walk, and a possible outdoor performance space. Steve emphasized the importance of developing focused artist calls that align with the specific opportunities and availab
+- Steve reviewed anticipated project timelines and funding. The area east of Archer Street is in final design, while planning for the area from Ford Street to Archer Street is beginning this year and construction is anticipated in 2028/2029. The group discussed the importance of planning for future pu
+- Steve noted that he is running the planning side of the project this year, but that the Parks and Recreation Department is responsible for site decisions and recommendations
+- Nathan noted that the ACC approved to increase the Lion’s Park Artwork budget through their funds and encouraged the Commission to begin considering how to allocate future funding for the Heart of Golden project
+
+## [golden#3] 2026-08-04 | City Council Special Meeting | minutes
 - session in the Council Chambers, 911 10th Street, Golden, Colorado at the hour of 6:30 p.m
 - Michele Wagner, Police Chief
 - Approval of Agenda
@@ -111,7 +125,18 @@
 - Councilor Knecht as the appointees to the new subcommittee
 - Approved by City Council
 
-## [golden#4] 2026-08-10 | GURA | agenda
+## [golden#5] 2026-08-05 | ACC Strategic Planning Subcommittee - No Recording | minutes
+- STRATEGIC PLANNING SUBCOMMITTEE
+- Nathan Richie began the meeting by providing some background on his involvement with the strategic planning process for the ACC and the GHM
+- Commissioners confirmed that the goals in the ACC’s original strategic plan are still present in the combined strategic plan, except for the grants program information
+- They then discussed whether the grants program should be its own goal or strategy, or incorporated into the action items. The group agreed to review the plan before deciding how to incorporate the grants program
+- Rick suggested aligning the commission’s name with a theoretical Arts, Culture and Museums City department to reduce confusion around the ACC’s relationship. Nathan agreed that citing PRAB does not have a board-specific plan, but a department plan that includes their board. Given that staff carries 
+- The group discussed the structure of the Thriving Communities Department and a theoretical Arts, Culture and Museums department under that. Staff agreed to add an action item to the strategic plan to request a name change
+- The group then reviewed the proposed combined strategic plan paragraph by paragraph to evaluate consistency, language, consolidate repetitive items, and highlight important goals and strategies. Commissions and staff suggested edits, and staff recorded requested edits
+- The group discussed where to include the grant program in the plan. The commissioners agreed to add an additional strategy to Goal 2, explicitly calling out the program and its action items
+- The group reviewed the plan through Goal 3. The group agreed to meet again and finish reviewing the document. Staff will add proposed edits in the meantime and send them to the commissioners before the next meeting
+
+## [golden#6] 2026-08-10 | GURA | agenda
 - 911 10th Street, Golden CO 80401
 - III. Approval of the Agenda – August 10, 2026
 - IV. Approval of Minutes – Business Meeting of July 13, 2026
@@ -151,7 +176,7 @@
 - Commission, and ultimately to City Council for a vote on plan area formation
 - model the proposed development's costs, revenues, expenses, and return on
 
-## [golden#5] 2026-08-11 | City Council Regular Business Meeting 6:30pm | minutes
+## [golden#7] 2026-08-11 | City Council Regular Business Meeting 6:30pm | minutes
 - session in the Council Chambers, 911 10th Street, Golden, Colorado at the hour of 6:30 p.m
 - Michele Wagner, Chief of Police
 - Approval of Agenda
@@ -186,7 +211,7 @@
 - public comments on this subject. They have taken the step to start the outside investigation
 - hospital. It was a very emotional event. He reiterated that we need to give support to our PD
 
-## [golden#6] 2026-08-12 | HPB Regular Meeting | minutes
+## [golden#8] 2026-08-12 | HPB Regular Meeting | minutes
 - The Historic Preservation Board met in a regular session at 911 10th Street at the hour of 6: 30
 - 2. APPROVAL OF AGENDA
 - 3. APPROVAL OF THE MINUTES FOR JULY 8, 2026
@@ -213,7 +238,7 @@
 - B. HPB 26-03 Certificate of Appropriateness (COA) for Demolition. Update on 1735
 - discussed during the application review
 
-## [golden#7] 2026-08-13 | Local Licensing Authority | agenda
+## [golden#9] 2026-08-13 | Local Licensing Authority | agenda
 - City Hall Council Chambers – 911 10th Street
 - 2. Approval of Minutes of June 16, 2026
 - 3. Hearing – Change of Controlling Beneficial Owner Application - Nebrina Golden LLC d/b/a Social
@@ -221,7 +246,7 @@
 - 4. Hearing – Renewal Application – AU Liquors LLC d/b/a Golden Liquor, 601 13th Street, Golden, CO
 - (Hearing Officer)
 
-## [golden#8] 2026-08-13 | EDComm | agenda
+## [golden#10] 2026-08-13 | EDComm | agenda
 - Economic Development Commission
 - 2. Approval of Agenda
 - 3. Approval of the July 9, 2026, Meeting Notes
@@ -267,7 +292,19 @@
 - APPROVAL OF AGENDA
 - Hartman asked for a motion to approve the July 9th, 2026, meeting agenda. Atkins MOVED
 
-## [golden#9] 2026-08-17 | DDA | agenda
+## [golden#11] 2026-08-13 | ACC Art in Public Places Subcommittee Meeting - No Recording | minutes
+- Steve Glueck then presented information on potential artwork for the Heart of Golden and Municipal Building. He reviewed the 1% budget for the Municipal Building and discussed potential artwork locations within the East Zone, including Tucker Gulch and the Farmers Highline Canal. He also provided an
+- Nathan suggested that if the Heart of Golden is considered as one large project, the Central Zone should also be included in the discussion, particularly given the desire to establish an arts and culture “zone.”
+- The group discussed several potential ideas, including a concentrated sculpture park in the Central Zone, concrete pads near the Farmers Highline Canal for rotating artwork, and a vertical sculpture within the detention pond
+- The group also discussed what a potential public art loan program could entail, including transportation and installation costs, loan agreements and paperwork, and artwork footprint requirements. Members agreed to research how other cities structure and manage public art loan programs
+- Steve agreed to harden three sites within the two areas identified by the landscape architect. These sites could accommodate rotating or permanent artwork, or could instead be used for tables and chairs if the ACC chooses not to place artwork there. The group also agreed to explore one potential per
+- Steve then reviewed the Municipal Building artwork budget and shared that the City is interested in commissioning a mural for the parking garage at 10th Street and Vasquez Street. He requested that the call for artists be drafted in September or October 2026, with installation beginning in April 202
+- He also shared that planning has begun for artwork in the public-facing areas of the Municipal Building. Steve has been in conversations with a consultant who purchases large bodies of artwork for hospitals and hotels. Rick Souders suggested that the ACC, Steve, and the consultant work together to i
+- The group agreed that any remaining 1% CIP funds from the Heart of Golden project should remain within the corridor for future use
+- Staff agreed to earmark $38,000 for the mural project and reserve the remaining funds for either purchasing interior artwork or pooling the funds toward a larger project within the corridor
+- Steve shared that a coffee shop has approached the DDA about funding a mural on its building and asked whether the ACC would be interested in participating. The group agreed that when City funds are used to support artwork on private property, the ACC should have some level of involvement in the pro
+
+## [golden#12] 2026-08-17 | DDA | agenda
 - GOLDEN DOWNTOWN DEVELOPMENT AUTHORITY
 - 911 Tenth Street, Golden, CO 80401
 - 3. Approval of August 17, 2026, Agenda
@@ -310,7 +347,7 @@
 - 817 14th Street
 - Update from streets on downtown work: Subcontractor Fivestar has completed brick
 
-## [golden#10] 2026-08-19 | Citizens' Budget Advisory Committee | minutes
+## [golden#13] 2026-08-19 | Citizens' Budget Advisory Committee | minutes
 - CITIZENS BUDGET ADVISORY COMMITTEE (CBAC)
 - 911 10TH STREET, GOLDEN, CO 80401
 - The Citizens Budget Advisory Committee met in a regular meeting that was called to order
@@ -319,7 +356,7 @@
 - Approval of July 15th, 2026, Regular Meeting Minutes
 - The minutes from June 17th, 2026, meeting were amended to reflect Saoirse attendance
 
-## [golden#11] 2026-08-19 | Planning Commission Meeting | minutes
+## [golden#14] 2026-08-19 | Planning Commission Meeting | minutes
 - The Planning Commission met in regular session at 911 10th Street at 5:30 p.m
 - 3. APPROVAL OF THE AGENDA
 - 4. APPROVAL OF THE MINUTES OF JULY 15, 2026
@@ -353,7 +390,7 @@
 - Natalie Palmer, lives next store to the property, reiterated that the alley is very small and she had
 - removal, trash, available parking, and lights from the new homes. Palmer also asked if the four
 
-## [golden#12] 2026-08-20 | Parks and Recreation Advisory Board Meeting | agenda
+## [golden#15] 2026-08-20 | Parks and Recreation Advisory Board Meeting | agenda
 - PARKS & RECREATION ADVISORY BOARD
 - 911 10TH STREET, GOLDEN, CO 80401
 - C. Approval of the Agenda
@@ -392,7 +429,17 @@
 - possible. We will plan on attending the next Parks and Recreation Advisory Board meeting
 - have created together with the City of Golden, and we are hoping that the Parks &
 
-## [golden#13] 2026-08-24 | GURA | agenda
+## [golden#16] 2026-08-20 | ACC Strategic Planning Subcommittee - No Recording | minutes
+- STRATEGIC PLANNING SUBCOMMITTEE
+- Staff incorporated the subcommittee’s suggested edits to the strategic plan
+- The group resumed reviewing the strategic plan paragraph by paragraph to suggest edits
+- The group agreed to present the updated strategic plan to the full ACC at the August 31st meeting
+
+## [golden#17] 2026-08-20 | ACC Lion's Park Art Selection Panel Meeting - No Recording | minutes
+- LION’S PARK PROJECT ARTWORK JURY
+- The group reviewed the applications that received an average score above 3.5 during the first round of jurying on callforentry.org
+
+## [golden#18] 2026-08-24 | GURA | agenda
 - Public Works Building 1445 10th Street, Golden CO 80401
 - III. Approval of the Agenda – August 24, 2026
 - 1) New Junction Plan Area – Review Plan Area Reports
@@ -428,7 +475,7 @@
 - (under the 10% significance threshold) for every taxing entity, and the report explicitly
 - only the School Finance Act levy (not Bond or MLO) with the School District
 
-## [golden#14] 2026-08-25 | City Council Regular Business Meeting | agenda
+## [golden#19] 2026-08-25 | City Council Regular Business Meeting | agenda
 - City Hall Council Chambers911 10th Street
 - Approval of Agenda
 - Public Comments received by 3pm 08-25-2026
@@ -448,7 +495,22 @@
 - Note: All items listed under Consent Matters are considered to be routine and will be enacted by one motion and vote. There will be no separate discussion of these items unless a council member so requests
 - Consideration of a motion to adopt - Resolution No. 3348 - A Resolution of the City Council of the City of Golden, Colorado, approving a Memorandum of Understanding between the City of Golden and Circular Action Alliance - Theresa Worsham, Sustainability Manager
 
-## [golden#15] 2026-08-26 | Special Events Review Committee | agenda
+## [golden#20] 2026-08-25 | Community Marketing Board | minutes
+- The Board discussed the need for a Community Marketing Board representative to serve on the Community Special Events Review Committee (CERC). The committee meets monthly and provides recommendations regarding new special events as well as improvements to recurring events. Board representation will p
+- Melissa Lutz volunteered to serve as the Board’s representative. The Board expressed appreciation for her willingness to serve and discussed coordinating her attendance at the next CERC meeting
+- 3. Strategic Plan Review
+- The Board reviewed the final draft of the 2027 strategic plan. Discussion centered on the definition of a “visitor” and the role of the Community Marketing Fund in serving businesses throughout Golden
+- Staff explained that the Community Marketing Fund is funded through sales tax generated by businesses throughout the community, creating a broader mandate than a traditional lodging-tax-funded destination marketing organization. Board members discussed whether the organization should view residents,
+- The Board agreed that the strategic plan should reflect a balance between tourism, community marketing, resident engagement, and the visitor experience. Members discussed four primary strategic themes, including off-season visitation, changing the value and perception of tourism, strengthening the G
+- The Board also discussed concerns regarding the visitor-volume figure included in the strategic plan. Members agreed that the figure (17 million) should be reviewed and potentially revised or removed if the methodology cannot be adequately supported
+- 4. 2027–2028 Budget Planning
+- Staff presented the proposed 2027–2028 budget and reviewed changes from the previous year. A significant discussion focused on the allocation between media buying, creative services, media reporting, account management, SEO, and other marketing functions
+- Staff explained that the proposed structure consolidates several functions under the new creative/media agency relationship and is intended to provide more strategic targeting, management, reporting, and flexibility. The Board discussed whether the apparent reduction in direct media-buying dollars a
+- The Board requested greater detail and transparency within several budget categories, including media buying, co-ops and partnerships, memberships, account management, strategic plan implementation, and group sales. Staff agreed to provide a more itemized budget and narrative explanation
+- DVA Contract
+- Staff discussed the proposed DVA contract and the upcoming City Council consideration of the media-buying and creative/media-reporting components. Staff discussed concerns that the term “destination stewardship” could be misunderstood as an effort to reduce visitation
+
+## [golden#21] 2026-08-26 | Special Events Review Committee | agenda
 - 1. Public Comment (10 minutes)
 - Movies & Music In the Park – August 7
 - 4. New Event Application - Golden Skull Marathon (5 Minutes)
@@ -485,7 +547,7 @@
 - Is the organization  nancially capable of hosting the event requested?:
 - Please provide a budget or  nancial overview of the event, including expected sources of
 
-## [golden#16] 2026-08-26 | Community Sustainability Advisory Board | minutes
+## [golden#22] 2026-08-26 | Community Sustainability Advisory Board | minutes
 - The Community Sustainability Advisory Board met in regular session at 911 10th Street, Golden,
 - Approval of Agenda
 - Motion to Approve Agenda: Claybourne Clarke
@@ -517,7 +579,21 @@
 - additional grant opportunities related to large building decarbonization, trees, and bear-resistant carts
 - C. Universal recycling ordinance
 
-## [golden#17] 2026-08-27 | Mobility and Transportation Advisory Board | minutes
+## [golden#23] 2026-08-26 | REDI Task Force | minutes
+- Sarah Vaine: Discussed early REDI involvement, explaining grassroots community outreach and neighborhood meetings. City-wide trainings. Membership shifted overtime from small, limited group. These are open meetings to all. Currently refreshing the REDI Action Plan
+- Michele added reviewed city policies to provide feedback to enhance inclusion. Virginia added REDI also looked at different ways to enhance a diversity of cultural events
+- Small groups for discussion
+- Back to large group – General discussion about the incident at the City and how to move forward:
+- Wants to make sure that staff feels comfortable sharing without info revealed to broader leadership/organization
+- Community members are concerned about racial profiling and, as staff, it can feel stressful to be vulnerable about our workplace when these things come up
+- Statement to staff was, “what is said here stays here, what is learned here leaves here”, recognizing the organization has internal procedures/protocols. We have work to do among our community and the residents of Golden who are feeling hurt/unwelcome
+- Maybe the word “process” instead of healing is more accurate. We do not want to lose the face that some community members are actually in danger
+- Staff report feeling shame and personal responsibility. Doesn’t want this to be scapegoated as “just” the fire department
+- All agreed how grateful we are for the City’s firefighters
+- Other organizations sometimes have separate groups for people to engage in learning, such as the “Golden Anti-racism Collective.” The REDI group could be an interface for folks who need space while they learn, educate, practice and experience doing this work
+- Hoping to send out the consultant’s feedback on our recent REDI Action Plan audit prior to next meeting so we can discuss at September’s meeting
+
+## [golden#24] 2026-08-27 | Mobility and Transportation Advisory Board | minutes
 - Approval of Agenda
 - Motion to approve Agenda B. Pamintier and C. Brown seconded and unanimously
 - Approval of Minutes of 7/23/2026
@@ -534,7 +610,25 @@
 - Staff provided updates on various projects throughout the City
 - 9/24/2026 to be held at 911 10th Street
 
-## [golden#18] 2026-09-01 | Community Marketing Board Special Meeting | agenda
+## [golden#25] 2026-08-31 | Arts and Culture Commission Meeting | minutes
+- Opening:The meeting was called to order at 6:00 pm by Rick Souders in Council Chambers at 911 10th Street, Golden CO 8040
+- Approval of Agenda and Minutes
+- The Commission approved the meeting agenda as presented. Alyssa Williams noted that they received an email from Laura Tanner with edits to the minutes and agenda. The Commission approved the previous meeting’s minutes with the following amendments:
+- Minutes: Cindy Jaye was listed as both present and absent, and the final sentence of the “Update on Integrated Department Strategic Plan” section contained a typo
+- Staff Notes: The date of the Strategic Planning Committee meeting was incorrect
+- Call for Public Comment
+- No one was present for public comment. Staff acknowledged receiving a written comment by email from Brian Quarnstrom and included it in the meeting packet. Karen Oxman submitted a written public comment regarding artwork near the Golden Pond in person during the meeting
+- Nathan Richie provided an update on the ACC’s plans to develop a location charrette beginning in late fall. The process will help the ACC identify and prioritize potential locations for future public artwork
+- Cindy Jaye responded to Brian Quarnstrom’s public comment regarding artwork on the water tower. She noted that the project may have previously been brought before the City but stalled due to questions surrounding funding mechanisms. Kristie Brice agreed to review past PAC meeting minutes to confirm 
+- Golden Welcome Center Presentation, Lora Knowlton
+- Lora Knowlton gave a brief presentation on the Golden Welcome Center, including its background, current offerings, and proximity to City functions
+- Stories Worth Telling Presentation, Gabe Rovick
+- Arts and Culture grantee Gabe Rovick presented information about his organization, Stories Worth Telling, including its history, location, events, films planned for the festival, and future goals. Staff noted that Gabe also owns Studio F4D, which produces the City’s public artwork videos. Commission
+- Strategic Plan Update
+- Nathan led a discussion about the strategic plan, beginning with a brief overview of the planning process and the need to incorporate the Museum into the plan. He invited individual feedback, followed by an open discussion among the Commissioners. Kristie Brice noted that the planning process is par
+- Staff clarified that the strategic plan does not require City Council approval, unlike the annual work plan. Rick Souders reiterated that the plan is intended to serve as a starting point and will evolve as the ACC continues to develop
+
+## [golden#26] 2026-09-01 | Community Marketing Board Special Meeting | agenda
 - 2027 Expense 2026 Budget 2027 Expenses
 - Vendor Fee $715,000 TBD
 - Special Projects (code TBD)
@@ -544,7 +638,7 @@
 - Group Sales Contractor $30,000.00 $37,500
 - Strategic Planning Implementation $18,000
 
-## [golden#19] 2026-09-08 | City Council Study Session 5pm-Regular Business Meeting 6:30pm | agenda
+## [golden#27] 2026-09-08 | City Council Study Session 5pm-Regular Business Meeting 6:30pm | agenda
 - City Hall Council Chambers - 911 10th Street
 - 5:00 p.m.- 5:30 p.m. Ore Cart IGA Renewal and Budget
 - Staff will seek Council feedback on the current IGA with CSM regarding the Ore Cart service in advance of the upcoming IGA discussions with CSM
@@ -567,7 +661,7 @@
 - Reso 3352 CV Bus Park Filing 2
 - Copies of ordinances are available to council and those persons in the audience. Ordinances will be published according to law. Public hearings are held in the Council Chambers of City Hall, 911 10th Street, Golden, Colorado, at a meeting beginning at 6:30 p.m
 
-## [golden#20] 2026-09-09 | HPB Regular Meeting | agenda
+## [golden#28] 2026-09-09 | HPB Regular Meeting | agenda
 - The Historic Preservation Board met in a regular session at 911 10th Street at the hour of 6: 30
 - 2. APPROVAL OF AGENDA
 - 3. APPROVAL OF THE MINUTES FOR JULY 8, 2026
@@ -607,7 +701,10 @@
 - as a certificate of appropriateness for demolition of a historic site. With
 - respect to certificates of appropriateness for the demolition of historic sites,
 
-## [golden#21] 2026-09-10 | EDComm | agenda
+## [golden#29] 2026-09-09 | Lion's Park Art Selection Panel Meeting - No Recording | minutes
+- LION’S PARK PROJECT ARTWORK JURY
+
+## [golden#30] 2026-09-10 | EDComm | agenda
 - Economic Development Commission
 - 2. Approval of Agenda
 - 3. Approval of the August 13, 2026, Meeting Notes
@@ -649,7 +746,7 @@
 - a. DDA Update – Progress and ongoing work on several downtown beautification
 - b. GURA Update – Nazarene Plan Area developer has secured key grant financing,
 
-## [golden#22] 2026-09-14 | GURA | agenda
+## [golden#31] 2026-09-14 | GURA | agenda
 - 911 10th Street, Golden CO 80401
 - IV. Approval of the Agenda – September 14, 2026
 - V. Approval of Minutes
@@ -688,7 +785,7 @@
 - and revenue-sharing agreements described in the report, conditioned on the developer's
 - improvements
 
-## [golden#23] 2026-09-15 | City Council Special Meeting | agenda
+## [golden#32] 2026-09-15 | City Council Special Meeting | agenda
 - City Hall Council Chambers - 911 10th Street
 - Approval of Agenda
 - Public Comment received by 3pm 09-15-2026
@@ -699,14 +796,14 @@
 - Copies of ordinances are available to council and those persons in the audience. Ordinances will be published according to law. Public hearings are held in the Council Chambers of City Hall, 911 10th Street, Golden, Colorado, at a meeting beginning at 6:30 p.m
 - The City Clerk's Office maintains a taped recording of all regular and special council meetings for a period of six months after approval of the minutes. In the event that someone wishes a transcript of a portion of a meeting, a copy of the tapes may be purchased. Because of circumstances beyond our
 
-## [golden#24] 2026-09-16 | Planning Commission Meeting | agenda
+## [golden#33] 2026-09-16 | Planning Commission Meeting | agenda
 - Approval of the Agenda
 - Approval of the Minutes from August 19, 2026
 - Public Comment – not associated with Regular Business
 - PC26-32 The Junction GURA Plan Area Boundary memo and attachments
 - Public Comment - Eggers
 
-## [golden#25] 2026-09-16 | Citizens' Budget Advisory Committee | minutes
+## [golden#34] 2026-09-16 | Citizens' Budget Advisory Committee | minutes
 - CITIZENS BUDGET ADVISORY COMMITTEE (CBAC)
 - 911 10TH STREET, GOLDEN, CO 80401
 - The Citizens Budget Advisory Committee met in a regular meeting that was called to order
@@ -716,7 +813,7 @@
 - and feeding the hungry
 - marijuana fund for food insecurity and housing insecurity
 
-## [golden#26] 2026-09-21 | DDA | agenda
+## [golden#35] 2026-09-21 | DDA | agenda
 - OLDEN DOWNTOWN DEVELOPMENT AUTHORITY
 - 911 Tenth Street, Golden, CO 80401
 - 3. Approval of September 21, 2026, Agenda
@@ -758,7 +855,7 @@
 - this fall will be at or under $10,000. As part of the City contract, the DDA board simply needs
 - of the 2027 program and whether it is in the City contract, or separately will be determined
 
-## [golden#27] 2026-09-22 | City Council Regular Business Meeting | agenda
+## [golden#36] 2026-09-22 | City Council Regular Business Meeting | agenda
 - City Hall Council Chambers - 911 10th Street
 - Approval of Agenda
 - Motion to enter into Executive Session pursuant to C.R.S. Section 24-6-402(4)(b) and Golden Municipal Code section 1.03.050(2) for a conference with Special Counsel to receive legal advice on specific legal issues regarding the nature and scope of the investigation to be conducted by the third-party
@@ -774,7 +871,22 @@
 - Presentation of the 2025 Annual Comprehensive Financial Report - Joseph Allaire, Finance Director
 - Revenue Trends and Outlook Presentation - Joseph Allaire, Finance Director
 
-## [golden#28] 2026-09-23 | Special Events Review Committee | agenda
+## [golden#37] 2026-09-22 | Community Marketing Board | minutes
+- Public Comment
+- Lora Knowlton (Visitor Center): Discussed aligning Visitor Center resources with Visit Golden’s strategic plan (e.g., resident engagement, business connections, visitor stewardship, Spanish digital communication). Noted an upcoming meeting with Derek Schimmel to discuss contracted partnerships. Anno
+- 3. Approval of Minutes
+- August Minutes: Reviewed and approved with an amendment to correct attendance records (noting Lisa’s attendance and updating Erin’s and Nola’s attendance status)
+- Presentation: Representatives from KOSI 101 and Heather Schneider (Golden Hotel) presented a holiday promotional partnership
+- Total sponsorship: $17,000 split ($7,500 from Visit Golden’s media budget and $7,500 from the Downtown Development Authority [DDA], which was approved by DDA, and $2,000 from Golden Hotel)
+- Feedback & Observations:
+- Small business bandwidth makes monthly event planning difficult without funding/grants
+- Consider moving future late-night shopping events to Fridays or Thursdays
+- Parking & Shuttle Plan:
+- Due to capacity constraints at Splash/HHS, primary satellite parking will shift to the Martin Marietta lot (~600 spaces off Colfax & Heritage Rd) and nearby industrial areas (400–600 spaces)
+- Fleet plan: 4–6 buses for longer routes and 7 shuttles for closer loops
+- Vendor/drop-off footprints will remain at Parfet Park and the rented Foss lot
+
+## [golden#38] 2026-09-23 | Special Events Review Committee | agenda
 - 1. Public Comment (10 minutes)
 - Trick or Treat Street – October 30
 - 4. Grant Applications (20 Minutes)
@@ -813,7 +925,7 @@
 - Financial Information :GolBudget for Grant Application.pdf
 - If the event generates pro ts, how will the pro ts be invested or used? :We are a small
 
-## [golden#29] 2026-09-23 | Community Sustainability Advisory Board | minutes
+## [golden#39] 2026-09-23 | Community Sustainability Advisory Board | minutes
 - The Community Sustainability Advisory Board met in regular session at 911 10th Street, Golden,
 - Approval of Agenda
 - Todd wishes to include brief discussion of both commercial energy benchmarking and construction and
@@ -848,7 +960,7 @@
 - Program recycling reimbursement funds, before considering a more comprehensive ordinance structure
 - continuing to explore a hauler licensing approach as a practical first step and discussed the importance
 
-## [golden#30] 2026-09-24 | Mobility and Transportation Advisory Board | agenda
+## [golden#40] 2026-09-24 | Mobility and Transportation Advisory Board | agenda
 - 911 10th Street
 - 2) Approval of Agenda
 - 3) Approval of Minutes for 8/27/2026
@@ -878,7 +990,7 @@
 - Staff provided updates on various projects throughout the City
 - 9/24/2026 to be held at 911 10th Street
 
-## [golden#31] 2026-10-05 | Arts and Culture Commission Meeting | agenda
+## [golden#41] 2026-10-05 | Arts and Culture Commission Meeting | agenda
 - 6:05 pm Call for Public Comment
 - 6:10 pm Mission and Vision Statement Discussion
 - 6:25 pm Lions Park Public Artwork Jury Recommendation
@@ -914,7 +1026,7 @@
 - Nathan asked Commissioners to begin identifying the metrics they would like the ACC to track
 - Rick Souders suggested reconvening the Strategic Plan Subcommittee one final time to develop
 
-## [golden#33] 2026-10-08 | EDComm | agenda
+## [golden#43] 2026-10-08 | EDComm | agenda
 - Economic Development Commission
 - 2. Approval of Agenda
 - 3. Approval of the September 10, 2026, Meeting Notes
@@ -956,7 +1068,7 @@
 - Community Sponsorship budget increased to $12,000/yr
 - Grant Budget remains steady at $40,000/yr
 
-## [golden#34] 2026-10-13 | City Council Study Session 5pm-Regular Business Meeting 7:00pm | agenda
+## [golden#44] 2026-10-13 | City Council Study Session 5pm-Regular Business Meeting 7:00pm | agenda
 - City Hall Council Chambers - 911 10th Street
 - 10-13-2026 CC Packet Amended
 - 10-13-2026 CC Agenda Amended
@@ -985,7 +1097,7 @@
 - 3362 HPB & CSAB vacancy appointments
 - Consideration of a motion to adopt - Resolution No. 3363 – A Resolution of the City Council of the City of Golden, Colorado, authorizing an Intergovernmental Agreement between the City of Golden and Arvada Fire Protection District for Battalion Chief Services – Sean Jones, Acting Fire Chief
 
-## [golden#35] 2026-10-15 | Parks and Recreation Advisory Board | agenda
+## [golden#45] 2026-10-15 | Parks and Recreation Advisory Board | agenda
 - PARKS & RECREATION ADVISORY BOARD
 - 911 10TH STREET, GOLDEN, CO 80401
 - C. Approval of the Agenda
@@ -1022,7 +1134,7 @@
 - for her work on the GOCO grant
 - Kermit – Has been visiting the creek and watching the installation of the new mural on the water
 
-## [golden#36] 2026-10-19 | GURA | agenda
+## [golden#46] 2026-10-19 | GURA | agenda
 - 911 10th Street, Golden CO 80401
 - IV. Approval of the Agenda – October 19, 2026
 - V. Approval of Minutes
@@ -1064,7 +1176,7 @@
 - market range and well above any rate achieved in Golden or the West Denver
 - about the underlying assumptions of their development program or the financial reality of
 
-## [golden#37] 2026-10-19 | DDA | agenda
+## [golden#47] 2026-10-19 | DDA | agenda
 - GOLDEN DOWNTOWN DEVELOPMENT AUTHORITY
 - 911 Tenth Street, Golden, CO 80401
 - 3. Approval of October 19, 2026, Agenda
@@ -1105,7 +1217,7 @@
 - Board discussion is invited
 - B. 807 13th Street Grant Application for Emergency Repairs – Gardner Building Operations
 
-## [golden#38] 2026-10-21 | Citizens' Budget Advisory Committee | agenda
+## [golden#48] 2026-10-21 | Citizens' Budget Advisory Committee | agenda
 - CITIZENS BUDGET ADVISORY COMMITTEE (CBAC)
 - 911 10TH STREET, GOLDEN, CO 80401
 - C. Approval of the Agenda
@@ -1146,7 +1258,11 @@
 - 31310 Use Tax Audits 456,926 71,172 - 325,000 - - - 0.00% -100.00% 0.00%
 - 31320 Sales Tax Refunds (21,914) 1,520 (25,000) (5,000) (25,000) (25,000) -80.00% 0.00% 400.00% 0.00%
 
-## [golden#39] 2026-10-22 | Mobility and Transportation Advisory Board | agenda
+## [golden#49] 2026-10-22 | Arts and Culture Commission Grant Subcommittee Meeting - No Recording | agenda
+- GRANT SUBCOMMITTEE MEETING
+- Review Grant Applications
+
+## [golden#50] 2026-10-22 | Mobility and Transportation Advisory Board | agenda
 - 911 10th Street
 - 2) Approval of Agenda
 - 3) Approval of Minutes for 9/24/2026

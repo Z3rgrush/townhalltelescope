@@ -1,42 +1,54 @@
 - title: Temporary moratorium on data center applications
-  summary: Council held the second reading and public hearing on Ordinance 2026-19, which would temporarily stop the city from accepting, processing or approving applications for data centers. No one spoke at the hearing.
+  summary: Council held the second reading and public hearing on Ordinance 2026-19, a temporary moratorium on submitting, accepting, processing and approving data center applications in Salida. No one spoke at the hearing.
   where: Citywide
   refs:
   - 1
-  tags:
-  - data-center
   topics:
   - Data centers
   - Zoning & development
-- title: Short-term rental residency and active use rules
-  summary: Ordinance 2026-22 changes the residency and annual active use requirements for short-term rental licenses. Paula Givan and Nancy Wallace spoke on the active use requirement at the Sept. 1 hearing. Council approved the residency amendment and removed the active use amendment.
+  tags:
+  - data-center
+- title: Short-term rental residency and active-use rules (Ordinance 2026-22)
+  summary: Council amended the short-term rental license rules on residency and annual active use. On Sept. 1, after comments from Paula Givan and Nancy Wallace on the active-use requirement, Council moved to approve the residency amendment and remove the active-use amendment.
   where: Citywide
   refs:
   - 1
   - 8
-  public_comment: true
   topics:
   - Short-term rentals
-- title: 1st & D Space-to-Create affordable workforce housing with Trellis
-  summary: Council approved a memorandum of understanding with Trellis Housing Partners, LLC for an affordable workforce rental project at 233 E. First Street and 102 D Street. Council Member Martin moved the item off the consent agenda for separate discussion, and final terms were left to a later version of the agreement.
+  - Housing
+  public_comment: true
+- title: 1st & D Space-to-Create workforce housing MOU with Trellis Housing Partners
+  summary: Council considered a memorandum of understanding with Trellis Housing Partners, LLC for an affordable workforce rental housing project at 233 E. First Street and 102 D Street. The item was pulled from the consent agenda for separate discussion and a motion was made to approve it.
   where: 233 E. First Street and 102 D Street
   refs:
   - 9
   topics:
   - Housing
   - Land & property
-- title: 2021 Energy Conservation Code amendments
-  summary: Ordinance 2026-23 amends the city's adoption of the 2021 International Energy Conservation Code. It passed first reading Aug. 18, and five residents spoke at the Sept. 15 second reading hearing.
+- title: Housing needs and affordable housing agreements
+  summary: Council previewed results of a Housing Needs Assessment on Aug. 17 and approved a Chaffee Housing Trust fee transfer for 8 deed-restricted units in the Two Rivers development. In October it had a regional Proposition 123 affordable housing MOU with Buena Vista, Poncha Springs, Chaffee County and the Chaffee Housing Authority on its agenda.
+  where: Two Rivers development; regional
+  refs:
+  - 2
+  - 3
+  - 13
+  topics:
+  - Housing
+  - Government operations
+- title: 2021 Energy Conservation Code amendments (Ordinance 2026-23)
+  summary: Council amended the city's adoption of the 2021 International Energy Conservation Code. It was approved on first reading Aug. 18, and the Sept. 15 public hearing drew comments from Madelyne Felsch, Felicia Houston, Craig Nielson, Alex Buck and Ken Fogle.
   where: Citywide
   refs:
   - 3
   - 9
-  public_comment: true
   topics:
   - Energy
+  - Zoning & development
   - Environment & climate
+  public_comment: true
 - title: Mountain Mail building renovation at 121-129 E. 2nd Street
-  summary: The Historic Preservation Commission is reviewing a Major Certificate of Approval from Shavano Holding Co. LLC for the old Mountain Mail building. Plans include a rooftop patio, two upper-floor residences, ground-floor retail, new egress windows and demolition of a deteriorated rear structure.
+  summary: The Historic Preservation Commission was to hear a Major Certificate of Approval application from Shavano Holding Co. LLC to renovate the old Mountain Mail building. Plans include a rooftop patio, two upper-floor residences, ground-floor retail, new egress windows and demolition of a deteriorated rear structure. The building is listed as non-contributing in the historic district.
   where: 121, 125 and 129 E. 2nd Street
   refs:
   - 4
@@ -44,19 +56,9 @@
   topics:
   - Historic preservation
   - Downtown & business
-  - Housing
-- title: 2027 budget and community budget survey
-  summary: Council discussed a community budget survey and held preliminary 2027 budget discussions on Oct. 6 and 19. The Treasurer's report compares the 2026 and 2027 budgets.
-  where: Citywide
-  refs:
-  - 6
-  - 12
-  - 14
-  - 15
-  topics:
-  - Budget & taxes
-- title: Land Use Code amendments and cottage housing rules
-  summary: Council approved Ordinance 2026-21 amending the Land Use Code after a public hearing with no comments. The Planning Commission is now discussing leftover issues, including separate rules for Cottage Housing and Co-Housing.
+  - Zoning & development
+- title: Land Use Code amendments and follow-up work
+  summary: Council gave second reading to Chapter 16 Land Use Code amendments on Aug. 18, with no public comments. The Planning Commission then took up leftover issues, including separating cottage housing from co-housing and the standards for cottage housing, which now requires each unit on its own lot.
   where: Citywide
   refs:
   - 3
@@ -65,56 +67,57 @@
   topics:
   - Zoning & development
   - Housing
-- title: Housing needs assessment and regional housing agreements
-  summary: Council reviewed preliminary results of a Housing Needs Assessment. It also approved a Chaffee Housing Trust fee transfer for 8 deed-restricted units in Two Rivers, and an Oct. 6 agenda item covers a regional Proposition 123 affordable housing agreement with Buena Vista, Poncha Springs, Chaffee County and the Chaffee Housing Authority.
-  where: Two Rivers development; Countywide
+- title: 2027 budget and community budget survey
+  summary: Council discussed a community budget survey on Aug. 31, then held preliminary 2027 budget discussions on Oct. 6 and continued them Oct. 19. A treasurer's comparison of the 2026 and 2027 budgets was also on the agenda.
+  where: Citywide
   refs:
-  - 2
-  - 3
-  - 13
+  - 6
+  - 7
+  - 12
+  - 14
+  - 15
   topics:
-  - Housing
-  - Fees & rates
-- title: 610 Walnut Street dangerous building
-  summary: Council discussed in executive session potential contracts related to a Chaffee County Building Safety notice to vacate and notice of demolition of a dangerous building at 610 Walnut Street.
-  where: 610 Walnut Street
-  refs:
-  - 8
-  - 9
-  topics:
-  - Land & property
-  - Fire & emergencies
-  - Government operations
-- title: 5-H LLC R-2 zoning question on November ballot
-  summary: Council considered Resolution 2026-29 expressing support for the 5-H LLC R-2 zoning question on the Nov. 3, 2026 ballot.
+  - Budget & taxes
+- title: Comprehensive Plan update and water supply and growth elements
+  summary: Council considered supporting a Local Planning Capacity grant application for the 2027 Comprehensive Plan update. The Planning Commission was to discuss amendments to the Water Supply Element and Strategic Growth Element.
+  where: Citywide
   refs:
   - 13
+  - 16
+  - 17
   topics:
-  - Elections
   - Zoning & development
-- title: Regional sustainability work and waste policy
-  summary: Staff updated Council on sustainability work funded by an Energy Efficiency and Conservation Block Grant, including energy code training, an EV readiness plan and a greenhouse gas inventory. Upcoming proposals may cover recycling space in new multifamily buildings and waste hauler licensing.
-  where: Citywide and Chaffee County
+  - Water
+  - Government operations
+- title: Regional sustainability project and waste policy
+  summary: Staff updated Council on how EECBG grant funding supports a regional sustainability contractor, including energy code training, an EV readiness plan and a greenhouse gas inventory. Upcoming Council items may include recycling space requirements for multifamily housing and waste hauler licensing.
+  where: Salida and Chaffee County
   refs:
   - 7
   topics:
   - Environment & climate
   - Energy
   - Utilities
-- title: US-50 and SH-291 intersection letter to CDOT
-  summary: Council's Oct. 19 agenda includes approving a letter to CDOT about intersection improvements at US-50 and SH-291.
+- title: 610 Walnut Street dangerous building
+  summary: Council went into executive session about potential contracts related to the county Building Safety Department's Notice to Vacate and Notice of Demolition of a dangerous building at 610 Walnut Street.
+  where: 610 Walnut Street
+  refs:
+  - 8
+  - 9
+  topics:
+  - Land & property
+  - Zoning & development
+- title: Support for 5-H LLC R-2 zoning question on Nov. 3 ballot
+  summary: Council considered Resolution 2026-29 expressing support for the 5-H LLC R-2 zoning question on the Nov. 3, 2026 ballot.
+  refs:
+  - 13
+  topics:
+  - Elections
+  - Zoning & development
+- title: US-50 and SH-291 intersection improvements
+  summary: Council considered sending a letter to CDOT about intersection improvements at US-50 and SH-291.
   where: US-50 and SH-291
   refs:
   - 15
   topics:
   - Roads & traffic
-- title: Capital projects and golf course operating agreement
-  summary: The Oct. 6 consent agenda includes awarding the Mesa Tank Project, final settlements for the CR105 Bridge river restoration and the 2026 utility replacement, and an operating agreement with Greater Salida Recreation Corporation for the golf course. Council also approved a contract with Mid America Pool Renovation, Inc.
-  where: Salida; Mesa Tank; CR105 bridge area
-  refs:
-  - 1
-  - 13
-  topics:
-  - Water
-  - Recreation & trails
-  - Government operations
