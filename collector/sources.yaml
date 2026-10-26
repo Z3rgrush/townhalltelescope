@@ -331,8 +331,8 @@
 - id: fruita
   name: Fruita
   county: Mesa
-  adapter: civicclerk
-  tenant: fruitaco
+  adapter: agendacenter
+  base: https://www.fruita.org
 - id: archuleta-county
   name: Archuleta County
   county: Archuleta

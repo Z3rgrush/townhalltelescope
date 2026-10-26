@@ -23,9 +23,15 @@ jobs:
           import re, sys, requests
           UA = {"User-Agent": "Mozilla/5.0 (compatible; townhalltelescope/0.1; +https://github.com/Z3rgrush/townhalltelescope)"}
           for i, url in enumerate(sys.argv[1:]):
-              name = f"/tmp/out/{i:02d}-" + re.sub(r"[^A-Za-z0-9]+", "-", url.split("//", 1)[-1])[:80]
+              name = f"/tmp/out/{i:02d}-" + re.sub(r"[^A-Za-z0-9]+", "-", url.split("//", 1)[-1].split("|")[0])[:80]
               try:
-                  r = requests.get(url, headers=UA, timeout=45)
+                  # "post:URL|JSON" posts the JSON body instead of a GET.
+                  if url.startswith("post:"):
+                      url, body = url.removeprefix("post:").split("|", 1)
+                      r = requests.post(url, timeout=45, data=body,
+                                        headers={**UA, "Content-Type": "application/json"})
+                  else:
+                      r = requests.get(url, headers=UA, timeout=45)
                   open(name + ".html", "wb").write(r.content)
                   print(r.status_code, len(r.content), url)
               except Exception as e:
