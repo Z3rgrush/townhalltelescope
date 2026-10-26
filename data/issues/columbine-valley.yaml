@@ -6,6 +6,8 @@
   - 1
   - 2
   - 3
+  topics:
+  - Budget & taxes
 - title: Annexation of 8 Hunter Run
   summary: 'The Trustees unanimously approved Resolution #14 on the annexation of 8 Hunter Run in August. Trustee Bill #11 on the annexation then went to a public hearing on the October 20 agenda.'
   where: 8 Hunter Run
@@ -13,6 +15,8 @@
   - 0
   - 2
   - 3
+  topics:
+  - Annexation
 - title: Housing Needs Assessment
   summary: The town is running a community survey for its Housing Needs Assessment, and staff expects responses to exceed the 20% target. A first draft of the assessment was scheduled for presentation on October 20, with a related public hearing to be set.
   where: Townwide
@@ -21,6 +25,8 @@
   - 1
   - 2
   - 3
+  topics:
+  - Housing
 - title: Platte Canyon sidewalk dropped after design change
   summary: In August the Trustees directed staff to proceed after a required design change to the Platte Canyon sidewalk. In September staff said the sidewalk would not proceed because the design had changed too much.
   where: Platte Canyon
@@ -28,11 +34,16 @@
   - 0
   - 1
   - 3
+  topics:
+  - Roads & traffic
+  - Recreation & trails
 - title: Jake Brake ordinance
   summary: 'The Trustees unanimously approved Trustee Bill #8 on second reading in August. It is an ordinance on engine compression (Jake) brakes.'
   where: Townwide
   refs:
   - 0
+  topics:
+  - Roads & traffic
 - title: Land use and zoning updates and permit fees
   summary: 'Trustee Bill #10 on land use and zoning updates had a public hearing to be set for November. Trustee Bill #9 on permit fees was also on the October 20 agenda. The Trustees also approved a town-wide fee schedule, Resolution #13, in August.'
   where: Townwide
@@ -40,9 +51,15 @@
   - 0
   - 2
   - 3
+  topics:
+  - Zoning & development
+  - Fees & rates
 - title: Planning and Zoning vacancies and salary survey
   summary: The mayor said the town has vacancies on the Planning and Zoning Commission and is seeking applicants. A town salary survey is also underway.
   where: Townwide
   refs:
   - 1
   - 3
+  topics:
+  - Government operations
+  - Zoning & development

@@ -4,6 +4,10 @@
   refs:
   - 10
   - 11
+  topics:
+  - Zoning & development
+  - Utilities
+  - Budget & taxes
 - title: 2027 Capital Improvement Program and budget
   summary: Town Council reviewed the final draft of the 2027 Capital Improvement Program, a 10-year plan in which only 2027 projects get funded in the 2027 budget. New or increased items include a 2036 Police Department addition, more money for the water acquisition program, and a restroom added to the Town Park improvements. A 2027 Town Projects and Budget town hall is set for Oct. 13.
   where: Townwide
@@ -11,6 +15,10 @@
   - 10
   - 11
   - 16
+  topics:
+  - Budget & taxes
+  - Water
+  - Parks & open space
 - title: Land Use Code amendments before the Planning Commission
   summary: 'The Planning Commission took up several code changes: letting Town Council adopt time-sensitive Land Use Code amendments without a prior Commission recommendation, corrected setbacks in the Town Core and Development Node zones, oil and gas setbacks aligned with Weld County rules, and procedures for suspending land use applications at an applicant''s request. It also considered electric service infrastructure rules for new development and an early grading permit ordinance. Several items drew a ''no action'' vote, while the application suspension and electric service resolutions were approved.'
   where: Townwide
@@ -19,6 +27,10 @@
   - 9
   - 17
   - 18
+  topics:
+  - Zoning & development
+  - Oil, gas & mining
+  - Utilities
 - title: Comprehensive Plan update and public engagement
   summary: The Comprehensive Plan Advisory Committee reviewed the current 2020 plan and discussed an engagement plan and schedule for the update. The goal is to build trust and gather resident input on land use, transportation, parks and growth.
   where: Townwide
@@ -26,23 +38,36 @@
   - 2
   - 3
   - 6
+  topics:
+  - Zoning & development
+  - Roads & traffic
+  - Parks & open space
 - title: Interim town attorney appointment
   summary: Town Council considered Resolution 2026-29R appointing an interim town attorney and amending the engagement agreement. The outcome is not stated in the documents.
   where: Town Hall
   refs:
   - 10
   - 11
+  topics:
+  - Lawsuits & legal
+  - Government operations
 - title: Mobile food vendor licensing
   summary: The Citizen Advisory Board heard a discussion from the Town Attorney on licensing mobile food vendors, along with a clerk overview of town permits such as special events and chickens.
   where: Townwide
   refs:
   - 3
+  topics:
+  - Downtown & business
+  - Government operations
 - title: Severance High School After Prom community grant
   summary: The SHS After Prom requested a $2,000 Severance community grant for its 2027 program, after receiving $1,000 in February 2026. The Citizen Advisory Board would review it and Town Council would vote on funding if it is approved. A Severance Chamber grant application was also on the agenda.
   where: Severance High School, 1200 Hidden Valley Parkway
   refs:
   - 14
   - 15
+  topics:
+  - Schools & youth
+  - Budget & taxes
 - title: Youth Council logo, appointments and service projects
   summary: The Youth Council is choosing a logo, giving feedback on possible code changes, and taking applications for 2026/2027 members from Aug. 7 to 28. It will also pick service projects and consider an event at the 2027 Severance Days.
   where: Town Hall
@@ -51,3 +76,7 @@
   - 1
   - 12
   - 13
+  topics:
+  - Schools & youth
+  - Tourism & events
+  - Government operations

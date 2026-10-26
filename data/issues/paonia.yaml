@@ -14,6 +14,10 @@
   - 32
   - 33
   public_comment: true
+  topics:
+  - Short-term rentals
+  - Fees & rates
+  - Housing
 - title: Stage 2 water restrictions and water supply
   summary: After unusually high water use drained the treated-water storage tank, the Board adopted Stage 2 restrictions through Resolution 19-26 on Aug 18. The adopted version allows hand or drip watering of gardens. Staff said the stored supply would last only about eight days without conservation. Residents spoke about watering methods, fire hazards from dried lawns and penalties. Resolution 22-26 to rescind the restrictions was on the Oct 13 agenda.
   where: Townwide
@@ -23,6 +27,9 @@
   - 30
   - 31
   public_comment: true
+  topics:
+  - Water
+  - Utilities
 - title: Berg Foundation rezoning of 218 4th Street
   summary: The Carl E. Berg Foundation applied to rezone 218 4th Street from Public District to C-2 so it could reuse an underused building. Staff and the Planning Commission recommended approval, and a resident spoke in support at the July 28 hearing. The Foundation was scheduled to give a presentation to the Board on Sept 15.
   where: 218 4th Street
@@ -31,6 +38,9 @@
   - 23
   - 24
   public_comment: true
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Estate zoning density changes
   summary: Staff found an inconsistency in Estate Zoning Table 16-2 and recommended considering 1.5 to two acres per dwelling to support the Comprehensive Plan's housing-density goals. The Planning Commission and Town Board have been considering the tables. The Board sent the matter to a work session and then a revised ordinance. It was again on the Sept 1 agenda.
   where: Townwide
@@ -41,6 +51,9 @@
   - 12
   - 13
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
 - title: David Warren rezoning application
   summary: The Planning Commission held a hearing on a rezoning application from David Warren on Aug 3. The Town Board's hearing on it was continued from Aug 25 to the Sept 8 meeting.
   refs:
@@ -48,6 +61,8 @@
   - 2
   - 16
   - 17
+  topics:
+  - Zoning & development
 - title: Sewer tap fee waiver for septic users
   summary: The Board discussed waiving sewer tap fees for septic tank users and considered an ordinance (02-26) waiving fees, later framed as an emergency sewer tap fee waiver. The Sept 15 agenda carried it again. The aim is to encourage properties to connect to the sewer system.
   where: Townwide
@@ -58,12 +73,17 @@
   - 17
   - 20
   - 21
+  topics:
+  - Utilities
+  - Fees & rates
 - title: Town Administrator search
   summary: The Town, led by an interim administrator, reviewed proposals from executive search firms (RFP 26-03) and later considered approving a search firm profile for the Town Administrator position.
   where: Town Hall
   refs:
   - 7
   - 25
+  topics:
+  - Government operations
 - title: 2027 budget and employee benefits
   summary: Staff are developing the 2027 budget, which was presented to the Board on Oct 13 and taken up in a budget work session on Oct 21. Employee insurance benefits and the budget were also on the Sept 15 agenda.
   where: Townwide
@@ -74,6 +94,9 @@
   - 30
   - 31
   - 36
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: 'Water infrastructure projects: Western Loop, raw water monitoring, Lee''s Trailer Court'
   summary: Staff reported progress on the Western Loop water project, including easement and route adjustments, and on water improvements at Lee's Trailer Court. The Board approved Amendment 2 to the RESPEC agreement for construction engineering on the Raw Water Monitoring Project, which includes installing meters.
   where: Western Loop; Lee's Trailer Court
@@ -82,6 +105,9 @@
   - 10
   - 11
   public_comment: true
+  topics:
+  - Water
+  - Utilities
 - title: Town Hall roof replacement and solar panel removal
   summary: The Board considered a Town Hall roof replacement bid and a quote from Empower to remove the solar panels from Town Hall. A presentation on upgrading the panels was on the Sept 1 agenda.
   where: Town Hall
@@ -90,11 +116,16 @@
   - 13
   - 16
   - 17
+  topics:
+  - Government operations
+  - Energy
 - title: West Fourth Street overlay with Delta County
   summary: Public Works proposed an intergovernmental agreement with Delta County for a two-inch asphalt overlay on West Fourth Street. The County's project limit is about $25,000, so the whole street may not be covered. No public comments were received, and a trustee moved to enter the IGA.
   where: West Fourth Street
   refs:
   - 11
+  topics:
+  - Roads & traffic
 - title: Code rewrite and new ordinances
   summary: The Town is recodifying its code with Sustainable Futures LLC, and the Board considered renewing the contract on Oct 13. Proposed ordinances include a single nuisance ordinance, combined juvenile loitering and curfew rules, solid waste rules, repeal of the sidewalk-for-business-use ordinance, animal code changes and tobacco sales. The Board also reviewed ordinances from rejected citizen initiative petitions.
   where: Townwide
@@ -107,6 +138,9 @@
   - 24
   - 30
   - 31
+  topics:
+  - Government operations
+  - Elections
 - title: Street lights and dark skies
   summary: The Board planned discussions on removing street lights and, on Oct 20, on dark skies and trail lights.
   where: Townwide
@@ -115,15 +149,23 @@
   - 24
   - 34
   - 35
+  topics:
+  - Utilities
+  - Environment & climate
 - title: Safe Streets for All safety plan
   summary: Consor Engineering was scheduled to present on data collection for the Comprehensive Safety Action Plan under the Safe Streets for All program.
   where: Townwide
   refs:
   - 16
   - 17
+  topics:
+  - Roads & traffic
+  - Policing & public safety
 - title: Housing needs assessment and SB24-174 addendum
   summary: The Board took up an SB24-174 housing addendum to the Town's 2023 Housing Needs Assessment and Housing Action Plan. The state housing department (DOLA) had given conditional approval and requested more information.
   where: Townwide
   refs:
   - 4
   - 5
+  topics:
+  - Housing

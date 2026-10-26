@@ -4,6 +4,9 @@
   refs:
   - 26
   - 27
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Garfield County School of Innovation charter school proposal
   summary: Garfield County School of Innovation presented to Council its plan to open a charter school in New Castle in 2027, following a formal application to the Garfield County Re-2 School Board. The plan would start right after the renovation of Rosie's, and the application is awaiting review and a decision.
   where: New Castle (former Rosie's building)
@@ -11,6 +14,8 @@
   - 26
   - 27
   public_comment: true
+  topics:
+  - Schools & youth
 - title: Garfield County RE2 ballot issue and library ballot committee
   summary: Council heard presentations from the Garfield County RE2 Ballot Issue Committee and the Maintain Our County Libraries Committee on Oct. 6. On Oct. 20 it was set to consider a letter of support for the RE2 ballot measure.
   where: Countywide
@@ -19,6 +24,10 @@
   - 26
   - 27
   public_comment: true
+  topics:
+  - Schools & youth
+  - Libraries & culture
+  - Elections
 - title: 2027 budget and trash/recycling fees
   summary: Council discussed the budget in October, and Mountain Waste is gathering data on landfill fees that will drive 2027 trash and recycling rates. Council also planned a work session on 2027 initiatives.
   where: Townwide
@@ -27,6 +36,10 @@
   - 19
   - 24
   - 25
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  - Utilities
 - title: Community Market recycling, compost and plastic bag fee fund
   summary: The Climate and Environment Commission is planning compostable cups and recycling at the Community Market, a plastic reduction pledge, and cleanup events. About $12,000 remains in the plastic bag fee fund, which may pay for recycling and Dump Day costs.
   where: Burning Mountain Park / Community Market
@@ -37,6 +50,10 @@
   - 14
   - 21
   - 22
+  topics:
+  - Environment & climate
+  - Fees & rates
+  - Tourism & events
 - title: Fall cleanup and Trash Pick Up Day, Oct. 10
   summary: Council planned logistics for the fall clean-up and the Oct. 10, 2026 Trash Pick Up Day, with follow-up discussion at the Climate and Environment Commission.
   where: Townwide
@@ -46,17 +63,26 @@
   - 13
   - 14
   - 21
+  topics:
+  - Environment & climate
+  - Utilities
 - title: Residential development and planning update
   summary: The Town Planner's report says about 40 of 80 R2 apartment units are permitted. The Coal Seam hotel/restaurant was approved April 7, and the New Castle Center (Walters Center) amended PUD is expected to be submitted in fall 2026, with TC Midwest planning infrastructure work this fall and winter.
   where: Lakota, R2 and New Castle Center (Walters Center)
   refs:
   - 8
+  topics:
+  - Housing
+  - Zoning & development
 - title: Senior housing residents' concerns raised at Council
   summary: A speaker on behalf of residents of Canyon Senior Housing raised concerns and asked about town ordinances that might address them. The Administrator said Council can take it up at an upcoming work session.
   where: Canyon Senior Housing
   refs:
   - 12
   public_comment: true
+  topics:
+  - Housing
+  - Health & human services
 - title: Police Department training and needs
   summary: Chief Curry reported on increased officer training funded largely through Colorado POST grants and regional training. Police and building/planning reports feed Council's annual retreat on resources and priorities.
   where: New Castle Police Department
@@ -65,20 +91,32 @@
   - 7
   - 8
   - 18
+  topics:
+  - Policing & public safety
 - title: Historic Preservation Commission grants, survey and cemetery plaque
   summary: The commission is looking at State Historical Fund/CLG grants for a survey of historic Coryell Town, a GIS database of historic properties, a videography project, and a CLG audit. It approved a new designation plaque for the cemetery, established in 1888.
   where: Town cemetery / Coryell Town
   refs:
   - 15
   - 16
+  topics:
+  - Historic preservation
 - title: EV charging station guidelines
   summary: Council was set to consider guidelines for electric vehicle charging stations on Oct. 20.
   where: Townwide
   refs:
   - 26
   - 27
+  topics:
+  - Energy
+  - Zoning & development
+  - Roads & traffic
 - title: Glenwood Hot Springs Protection Act discussion
   summary: Council had a discussion item on the Glenwood Hot Springs Protection Act on Sept. 15.
   where: Glenwood Springs area
   refs:
   - 11
+  topics:
+  - Water
+  - Environment & climate
+  - Tourism & events

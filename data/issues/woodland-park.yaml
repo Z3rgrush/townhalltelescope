@@ -6,11 +6,18 @@
   - 4
   - 7
   public_comment: true
+  topics:
+  - Historic preservation
+  - Land & property
+  - Zoning & development
 - title: Eagle Fire Lodge rezone and conditional use permit for multi-dwelling housing
   summary: The Planning Commission is set to hear a request by Cedarwood Development for Woodland Capital to rezone 777 East US Highway 24 from Planned Unit Development to Multi Dwelling Urban Residential, with a conditional use permit for multi-dwelling use. A City Council hearing would follow.
   where: 777 East US Highway 24
   refs:
   - 11
+  topics:
+  - Zoning & development
+  - Housing
 - title: New 'Public Safety Facilities' use in the Unified Development Code (Ordinance 1536)
   summary: The city is amending the Unified Development Code to add Public Safety Facilities as a defined use allowed through the Special Use Permit process. The Planning Commission discussed it, and Council was to consider Ordinance No. 1536 on initial posting on October 15, 2026.
   where: Citywide
@@ -19,6 +26,9 @@
   - 11
   - 12
   - 13
+  topics:
+  - Zoning & development
+  - Policing & public safety
 - title: 2027 budget and DDA spending plans
   summary: The Downtown Development Authority discussed its 2027 budget, including cutting the flower budget line from $250,000 to about $50,000, a downtown walkability study, and the Baggage building in Bergstrom Park. The 2026 micro-grant program has approved about 40 applications, up from 30 in 2025, with $197,516.87 in total grants. The City Council also had a 2027 budget presentation scheduled for October 15.
   where: Downtown Woodland Park
@@ -26,23 +36,36 @@
   - 9
   - 12
   - 13
+  topics:
+  - Budget & taxes
+  - Downtown & business
+  - Parks & open space
 - title: DDA micro-grants for downtown businesses
   summary: The DDA reviewed final reports and approved reimbursements for 2026 micro-grant recipients including High Folks ($4,731), Mountain View Studio ($5,000), Woodland Capital ($4,785) and Aspen Leaf Enterprises ($5,000). Board members also discussed a TIF reimbursement for Taylor Mountain Enterprises.
   where: Downtown Woodland Park
   refs:
   - 9
+  topics:
+  - Downtown & business
+  - Economic development
 - title: Main Street programs and AARP/DOLA grants
   summary: Main Street is applying for a $2,500 AARP livability grant (deadline Aug 28), with Antler Alley as a proposed project, and may use DOLA matching mini-grants. It is also planning a Shop & Dine Passport starting Sept 1 and Oktoberfest participation, and will ask to present to City Council on November 5.
   where: Downtown Woodland Park (Antler Alley)
   refs:
   - 0
   - 5
+  topics:
+  - Downtown & business
+  - Tourism & events
+  - Economic development
 - title: 116 W. Lake Avenue historic landmark request
   summary: The Historical Preservation Committee held a public hearing September 1 on designating 116 W. Lake Avenue as a Local Historic Landmark, requested by Steve Plutt with owner Murray WP Cabin, LLC. City Council's hearing is set for October 1, 2026.
   where: 116 W. Lake Avenue
   refs:
   - 6
   - 7
+  topics:
+  - Historic preservation
 - title: 'Historic preservation projects: Junction House, Templeton Cemetery, Bergstrom Park'
   summary: The Historical Preservation Committee is tracking the Junction House/Roberts House grant (with Brownfields grant funds possible for planning), the Templeton Cemetery restoration plan, the preservation plan and Bergstrom Park Reimagined. A council member said the park design is already agreed upon; the committee asked whether it will be involved once a contractor is chosen.
   where: Junction House, Templeton Cemetery, Bergstrom Park
@@ -51,9 +74,16 @@
   - 6
   - 7
   - 10
+  topics:
+  - Historic preservation
+  - Parks & open space
 - title: School district funding and Boy Scouts Reservoir presentations
   summary: The October 15 Council agenda included a Woodland Park School District presentation on funding and how property taxes factor in, and a Boy Scouts Reservoir presentation by the Utilities Director.
   where: Citywide
   refs:
   - 12
   - 13
+  topics:
+  - Schools & youth
+  - Budget & taxes
+  - Water

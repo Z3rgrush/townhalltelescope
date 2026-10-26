@@ -8,12 +8,18 @@
   - 6
   - 11
   - 12
+  topics:
+  - Budget & taxes
 - title: 2027 electric, water, wastewater and sanitation rates
   summary: The Board of Utilities agenda for Oct. 13 lists resolutions changing 2027 prices for electric, water, wastewater and sanitation, plus a recommendation on the 2027 utility fund budgets. Mayor Ayala noted in August that people say La Junta has the highest utility rates in Colorado.
   where: Citywide
   refs:
   - 1
   - 10
+  topics:
+  - Fees & rates
+  - Utilities
+  - Water
 - title: Economic Development Board ordinance
   summary: Council passed an ordinance creating a city Economic Development Board on first reading Sept. 21 and on second reading Oct. 19. It is meant to restart economic development as an arm of the city, like tourism, with its budget under the city, instead of a nonprofit with IRS problems. The City Clerk will call for letters of interest for board vacancies.
   where: Citywide
@@ -21,12 +27,19 @@
   - 7
   - 9
   - 12
+  topics:
+  - Economic development
+  - Government operations
 - title: Pueblo sewage spill and Arkansas River safety
   summary: Water Director Tom Seaba reported on a major raw sewage spill in Pueblo that reached the Arkansas River. Residents were told not to use untreated river water for food preparation or bathing, while local drinking water is safe and the treatment plant is working properly. Reservoir releases were increased to help flush the river.
   where: Arkansas River
   refs:
   - 5
   - 6
+  topics:
+  - Water
+  - Environment & climate
+  - Health & human services
 - title: Urban Renewal Authority Spark Grants and Chestnut Apartments project
   summary: The URA tabled a Spark Grant request from Sangre de Cristo Community Care for its storefront at 207 Colorado Ave. because the work was done before approval. The Chestnut Apartments project is about 52 days past its 180-day contract term, with fire suppression, HVAC, plumbing and doors outstanding. The URA is also reviewing blight and life-safety applications from Arkansas Valley CASA and La Junta Associated Charities.
   where: 207 Colorado Ave. and Chestnut Apartments
@@ -35,46 +48,73 @@
   - 8
   - 13
   public_comment: true
+  topics:
+  - Downtown & business
+  - Housing
+  - Economic development
 - title: Temporary event ordinance for side-by-sides and low-speed vehicles
   summary: Council passed on first reading (Sept. 8) and second reading (Sept. 21) a temporary event ordinance allowing side-by-sides and other approved low-speed vehicles during events. It grew out of Main Street and Urban Renewal discussions and committee needs for events like Tarantula Fest and Early Settlers Day.
   where: Downtown event areas
   refs:
   - 6
   - 7
+  topics:
+  - Tourism & events
+  - Roads & traffic
 - title: Ethics and conflict of interest rules for officials
   summary: Council discussed adopting a conflict of interest disclosure form and a broader ethics process covering elected officials and employees. Council also re-adopted Resolution R-13-2026 on Sept. 21 to allow Council Member Rikhof's recusal.
   where: Citywide
   refs:
   - 0
   - 7
+  topics:
+  - Ethics & transparency
+  - Government operations
 - title: Lodging tax collection from short-term rental hosts
   summary: Council took up the second reading of an ordinance amending Ordinance 1688 so lodging taxes are remitted on behalf of hosts in the city. Council said it had been discussed extensively.
   where: Citywide
   refs:
   - 0
+  topics:
+  - Short-term rentals
+  - Budget & taxes
+  - Tourism & events
 - title: Derelict property cleanup under the Copper Grant
   summary: Council approved a resolution on city-owned junk properties tied to a larger grant called the Copper Grant, with discussion of abatement costs and using EPA grants for asbestos. Council asked about plans for the four properties.
   where: Properties across from City Hall
   refs:
   - 4
+  topics:
+  - Land & property
+  - Environment & climate
 - title: Consolidation Agreement third amendment and emergency grant
   summary: The Oct. 19 agenda has council considering a third amendment to the Consolidation Agreement. Council also reported a grant of up to about $30 million from an emergency program.
   where: Citywide
   refs:
   - 11
   - 12
+  topics:
+  - Government operations
+  - Budget & taxes
 - title: Naming the field at Potter Park for Jim Sullivan
   summary: Residents asked to name the field Jim Sullivan Field at Potter Park, without renaming the park, under the city's naming procedure.
   where: Potter Park
   refs:
   - 7
   public_comment: true
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Flooding and drainage at Lewis Avenue and 2nd Street
   summary: A Ward 1 resident said that after recent rainstorms the area has only two drains, causing flooded roads and water in basements of homes and businesses.
   where: Lewis Avenue and 2nd Street
   refs:
   - 7
   public_comment: true
+  topics:
+  - Utilities
+  - Roads & traffic
+  - Water
 - title: Smell at Industrial Park and golf course, wastewater plant work
   summary: Water Director Tom Seaba addressed odors near the Industrial Park and golf course. The utility has a new dewatering press, lagoon discussions and a system extension on 24th Street between Carson and Belleview.
   where: Industrial Park and 24th Street
@@ -82,3 +122,7 @@
   - 1
   - 2
   - 5
+  topics:
+  - Utilities
+  - Water
+  - Environment & climate

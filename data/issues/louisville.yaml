@@ -5,6 +5,9 @@
   - 2
   - 3
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
 - title: Inclusionary Housing Ordinance update (Ordinance 1936)
   summary: Council moved an amendment to Title 17 on inclusionary housing from first reading (July 28) to second reading and public hearing on Aug 18, with a further public hearing on Sept 15. Strong Towns Louisville urged zoning reform first, by-right incentives and exemptions for small 10-12 unit projects, while another resident worried new market-rate units could raise prices.
   where: Citywide
@@ -19,6 +22,9 @@
   - 46
   - 47
   public_comment: true
+  topics:
+  - Housing
+  - Zoning & development
 - title: Centennial Valley General Development Plan amendment, helipad and Redtail Ridge hospital
   summary: Council considered a PUD with a helicopter pad for an Advent/Avista hospital and the Centennial Valley GDP amendment for residential development and parks (Ordinance 1935). A resident questioned the GDP's treatment of LEED requirements and solar obligations, and another commenter said the parks and open space are inadequate for a development that would grow the city's housing by about 12%. The Open Space board unanimously approved a resolution supporting a trail.
   where: Centennial Valley / Redtail Ridge
@@ -31,6 +37,10 @@
   - 43
   - 74
   public_comment: true
+  topics:
+  - Zoning & development
+  - Parks & open space
+  - Health & human services
 - title: 2027-2028 budget, capital plan and deficit
   summary: Staff reported an operating deficit, a General Fund gap and a Capital Fund gap. The City Manager's initial budget came Sept 1 and final budget public hearing Oct 20, with adoption expected at a later meeting, likely in early November. Council cut some items, such as the Community Event Sponsorship Program, and pulled the $780,000 northeast water loop from the budget.
   where: Citywide
@@ -48,6 +58,8 @@
   - 76
   - 79
   - 81
+  topics:
+  - Budget & taxes
 - title: Golf and recreation fee increases for 2027
   summary: Advisory boards modeled golf green-fee increases because fees alone cannot cover projected deficits. The Recreation Advisory Board approved golf recommendations for Council and backed 3% and 7% increases to rec and senior center admission fees for residents and non-residents.
   where: Coal Creek Golf Course and Recreation/Senior Center
@@ -60,6 +72,9 @@
   - 81
   - 88
   - 89
+  topics:
+  - Fees & rates
+  - Recreation & trails
 - title: Sustainability funding, bag tax and joint Council-LSAB meeting
   summary: The Sustainability Advisory Board presented to Council on Aug 11 with ideas such as a dedicated sustainability tax, extending the bag tax, a climate impact fee on development and franchise renegotiation, plus water conservation data. Residents wrote in about urban heat, bag tax transparency, and electrification grants. Later LSAB approved electrification rebate reallocation and a resident urged emissions-focused budgeting.
   where: Citywide
@@ -72,6 +87,10 @@
   - 51
   - 57
   public_comment: true
+  topics:
+  - Environment & climate
+  - Budget & taxes
+  - Energy
 - title: PROS plan and Trails System Plan, open space concerns
   summary: The draft Parks, Recreation and Open Space guidebook and Trails Plan went to the Open Space board and Council, with a resident group arguing it conflicts with the City Charter on open space, urging removal of Trail 18 and reconsidered land classifications. Residents also raised prairie dogs and bocce court upkeep, and the city purchased 101 Cherry St. and is buying the Gateway Open Space property.
   where: Citywide open space and trails
@@ -86,6 +105,9 @@
   - 68
   - 74
   public_comment: true
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Comprehensive Plan and Development Code update
   summary: Planning Commission reviewed the draft Comprehensive Plan including growth projections and place types. Residents raised concerns on population growth, traffic, water, evacuation routes and wildfire risk. Council accepted DOLA grant funds and approved an agreement for the Development Code update.
   where: Citywide
@@ -95,6 +117,9 @@
   - 69
   - 70
   public_comment: true
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Fire Smart Louisville and wildfire mitigation funding
   summary: Staff proposed funding Fire Smart Louisville, a volunteer neighborhood wildfire-risk program with Boulder Watershed Collective, including a $10,000 NFPA grant and Wildfire Partners rebates. Council later put a $100,000 agreement with the Boulder Watershed Collective for wildfire work on its Oct 20 consent agenda.
   where: Citywide
@@ -103,6 +128,9 @@
   - 4
   - 5
   - 79
+  topics:
+  - Fire & emergencies
+  - Environment & climate
 - title: Business assistance agreements and Revitalization Commission grants
   summary: Council considered a $208,400 incentive for Arsenal Health and an enhanced $281,114 agreement with Infleqtion Quantum, plus an amendment for Louisville Cyclery. The Revitalization Commission weighed reallocating $344,400 of unspent property improvement funds, Grain Yard facade and property grants, and a TIF agreement for the Grain Elevator at 540 County Road. Concerns were noted about Front Street construction effects.
   where: Downtown / Front Street / 540 County Road
@@ -116,6 +144,9 @@
   - 84
   - 85
   public_comment: true
+  topics:
+  - Economic development
+  - Downtown & business
 - title: Property purchases at Empire Road and Pine Street
   summary: Council considered a contract to buy 1501 Empire Road and the east part of 1303 Empire Road, zoned Industrial, with a subdivision not changing zoning. It also took up an ordinance extending the lease and purchase contract for 1155 Pine Street, and met in executive session on property acquisition.
   where: 1501 Empire Road, 1303 Empire Road, 1155 Pine Street
@@ -124,6 +155,8 @@
   - 34
   - 45
   - 62
+  topics:
+  - Land & property
 - title: Centennial Drive affordable senior housing and affordable housing policies
   summary: Council reviewed a concept plan for affordable senior housing on Centennial Drive. It also considered expedited review for affordable housing projects, a state affordable housing commitment, and the Trestle Strategy housing framework, and private activity bond/multifamily housing bond actions.
   where: Centennial Drive
@@ -133,6 +166,9 @@
   - 45
   - 62
   - 79
+  topics:
+  - Housing
+  - Zoning & development
 - title: Historic landmark designations and preservation grants
   summary: Council and commission handled landmark designations and grants including the Caranci House at 1101 Main, James House at 700 Pine, Giorzelli House, Mudrock House at 613 Grant (up to $15,000), and a request to landmark the Methodist Church at 741 Jefferson. A Historic Preservation Tax measure was placed on the 2026 election.
   where: 1101 Main St, 700 Pine St, 613 Grant Ave, 741 Jefferson Ave
@@ -146,6 +182,8 @@
   - 77
   - 78
   - 79
+  topics:
+  - Historic preservation
 - title: Honeysuckle Lane lot consolidation (Centennial 8 Replat B)
   summary: Council considered a replat combining lots at 1006 Honeysuckle Lane. Staff said zoning would still allow one single-family home plus an ADU, and noted a similar 2023 consolidation in the Enclave subdivision.
   where: 1006 Honeysuckle Lane
@@ -153,6 +191,9 @@
   - 4
   - 32
   - 34
+  topics:
+  - Zoning & development
+  - Land & property
 - title: 'Utility policy and rate changes: sewer backups and refuse fees'
   summary: Council considered a policy for reimbursing cleanup after sewer backups or meter failures, prompted by a November 2025 backup affecting a business, and new refuse, recycling and compost fees. A revised 2027 utility rate presentation was postponed to a future meeting.
   where: Citywide
@@ -160,3 +201,6 @@
   - 32
   - 34
   - 52
+  topics:
+  - Utilities
+  - Fees & rates

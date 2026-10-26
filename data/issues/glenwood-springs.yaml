@@ -6,6 +6,10 @@
   - 3
   - 13
   public_comment: true
+  topics:
+  - Zoning & development
+  - Lawsuits & legal
+  - Housing
 - title: Short-term rental renewal rules (Ordinance 2026-22)
   summary: The city is amending its code so short-term and accessory tourist rental permit holders must actually rent and remit lodging tax to renew. Planning and Zoning reviewed data on STR activity and permit counts, and Council took up the ordinance in September, with an amendment to a minimum of 20 nights and $150 in sales tax over two years. It returned on the Oct 1 consent agenda.
   where: Citywide
@@ -16,6 +20,9 @@
   - 8
   - 9
   public_comment: true
+  topics:
+  - Short-term rentals
+  - Fees & rates
 - title: Appeal of short-term rental permit denial at 319 Park Drive
   summary: The owner of 319 Park Drive appealed the denial of her STR permit renewal, which was denied because the unit had not been rented or paid lodging taxes. She argued the ordinance requires only that taxes be paid, and the city says renting is required. The appeal was on the Council agenda Aug 6 and was heard again by Planning and Zoning.
   where: 319 Park Drive
@@ -23,12 +30,19 @@
   - 2
   - 5
   public_comment: true
+  topics:
+  - Short-term rentals
+  - Fees & rates
 - title: Fire department funding and November 2026 property tax ballot question
   summary: Council discussed fire department funding and a property tax increase for the November 2026 ballot. On Aug 20 it considered a resolution certifying the ballot issue, title and content, and the Mayor commented on a resolution supporting the fire tax.
   where: Citywide
   refs:
   - 2
   - 3
+  topics:
+  - Fire & emergencies
+  - Budget & taxes
+  - Elections
 - title: Parking on Bennett Avenue and the 1600 Bennett fee-in-lieu request
   summary: Many residents spoke at multiple Council meetings about parking and tree stumps on Bennett Avenue. Council's Oct 1 agenda included a parking fee-in-lieu request for 1600 Bennett.
   where: Bennett Avenue
@@ -37,6 +51,9 @@
   - 6
   - 9
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: Canyon Vista affordable housing preliminary plat at 51993 Highway 6 & 24
   summary: Cohen-Esrey Development Group seeks a preliminary plat combining three parcels totaling 3.93 acres for Canyon Vista, an 80-unit deeply affordable multifamily project Council approved in April 2025. Staff recommends approval; Planning and Zoning reviews it Oct 6 and Council takes up the plat and a right-of-way encroachment license Oct 15.
   where: 51993 Highway 6 & 24
@@ -44,29 +61,46 @@
   - 10
   - 11
   - 12
+  topics:
+  - Housing
+  - Zoning & development
 - title: Funding request for 130 Midland affordable homeownership project
   summary: Council considered a funding request for the 130 Midland affordable homeownership project on Oct 1 and continued it to Oct 15. Housing policy was also on the Oct 15 work session agenda.
   where: 130 Midland Avenue
   refs:
   - 9
   - 12
+  topics:
+  - Housing
+  - Budget & taxes
 - title: 506 Maple Street fire sprinkler appeal
   summary: Owners of the Splendor Mountain Spa guest cottage, a 400-square-foot unit at 506 Maple Street, appealed the requirement to install fire sprinklers in an R-1 occupancy. They say the cost of replacing the water service line is prohibitive and offered extinguishers; a member of the public raised concerns about compliance.
   where: 506 Maple Street
   refs:
   - 0
   public_comment: true
+  topics:
+  - Fire & emergencies
+  - Water
+  - Zoning & development
 - title: 2027 budget and 2026 appropriation amendments
   summary: Council was scheduled to receive the 2027 budget presentation, the Tourism Promotion Fund budget and a public budget hearing in October. It also considered Ordinance 2026-21 amending the 2026 appropriation for carryovers and reallocations.
   where: Citywide
   refs:
   - 9
   - 12
+  topics:
+  - Budget & taxes
+  - Tourism & events
 - title: Mountain Waste and Recycling pay-as-you-throw contract
   summary: Council planned a work session and a vote on the Mountain Waste and Recycling pay-as-you-throw contract on Oct 15.
   where: Citywide
   refs:
   - 12
+  topics:
+  - Utilities
+  - Fees & rates
+  - Environment & climate
 - title: Ride Glenwood on-demand pricing and transportation planning
   summary: Council scheduled a decision on Ride Glenwood on-demand pricing, a comprehensive transportation discussion, and joint work sessions with the Transportation Commission. It also discussed an intergovernmental agreement with Roaring Fork Transportation Authority and, in September, truck weight limits and haul routes.
   where: Citywide
@@ -75,14 +109,24 @@
   - 6
   - 9
   - 12
+  topics:
+  - Transit
+  - Roads & traffic
 - title: Electric vehicle charging code amendment (Ordinance 2026-18)
   summary: Council took up an ordinance amending the municipal code on regulation and permitting of EV charging projects, following Planning and Zoning findings. It appeared on the Sept 3 consent agenda.
   where: Citywide
   refs:
   - 3
   - 6
+  topics:
+  - Energy
+  - Zoning & development
+  - Transit
 - title: Community center climbing wall contract
   summary: Council considered awarding RFP 2026-18P for a climbing wall at the community center, presented by the interim Parks and Recreation Director.
   where: Community Center
   refs:
   - 2
+  topics:
+  - Recreation & trails
+  - Parks & open space

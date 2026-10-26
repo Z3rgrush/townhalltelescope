@@ -10,17 +10,27 @@
   - 6
   - 7
   - 8
+  topics:
+  - Utilities
+  - Lawsuits & legal
+  - Zoning & development
 - title: Land swap with Park County (Ordinance No. 5)
   summary: On first reading, Ordinance No. 5 would authorize the Town to convey Park County Parcel No. 32670 to Park County in exchange for property from the county. The Board and the county commissioners also held a joint session on Sept. 15.
   where: Park County Parcel No. 32670
   refs:
   - 4
   - 6
+  topics:
+  - Land & property
+  - Government operations
 - title: Park County use of Fairplay water for contaminated wells
   summary: The Board scheduled a discussion of Park County's use of Town of Fairplay water for wells that are contaminated. The agenda excerpt does not state the cause or any decision.
   where: Fairplay water system
   refs:
   - 5
+  topics:
+  - Water
+  - Health & human services
 - title: 2027 budget and amended 2026 budget
   summary: The Board reviewed the 2027 budget timeline, the initial proposed 2027 Police Department budget, preliminary staffing and salary proposals, and special events and visitor center budgets. The proposed amended FY2026 and FY2027 budgets were submitted on Oct. 19 with a hearing and adoption schedule.
   where: Townwide
@@ -30,6 +40,9 @@
   - 5
   - 6
   - 8
+  topics:
+  - Budget & taxes
+  - Policing & public safety
 - title: Wastewater lagoon liner project and sewer plant repairs
   summary: Bills show ongoing engineering, dewatering, crane and liner repair work on the wastewater lagoons. A new pump and motor for the treatment plant and sewer line jetting were also paid for. A Wastewater ORC report was on the Aug. 17 agenda.
   where: Fairplay wastewater treatment plant and lagoons
@@ -38,12 +51,19 @@
   - 2
   - 5
   - 6
+  topics:
+  - Utilities
+  - Water
 - title: Water conservation, source water protection and water rights planning
   summary: The Board discussed water conservation plans on Aug. 17. On Oct. 19 it heard a Colorado Rural Water Association presentation on the Source Water Protection Plan and held a work session on Town water rights, resources and the utilities capital improvement plan.
   where: Townwide
   refs:
   - 2
   - 8
+  topics:
+  - Water
+  - Environment & climate
+  - Utilities
 - title: Funding requests from the Park County Senior Coalition and Rocky Mountain Rural Health
   summary: The Park County Senior Coalition asked the Town for funding for meals, transportation and other services for seniors across the county. The Board reviewed this request and one from Rocky Mountain Rural Health together with final-quarter 2026 recurring funding requests.
   where: Park County
@@ -51,18 +71,27 @@
   - 2
   - 3
   public_comment: true
+  topics:
+  - Health & human services
+  - Budget & taxes
 - title: The Bluffs development update
   summary: Steve Crozier of FP Land, LLC was scheduled to update the Board on The Bluffs Development on Aug. 17. The documents give no details of the update.
   where: The Bluffs, Fairplay
   refs:
   - 2
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
 - title: Police Department personnel matter and station assessment
   summary: The Board planned executive sessions for legal advice and personnel matters involving Chief of Police Jeff Worley and an officer who is the subject of an investigation. A structural assessment of the police station was also underway, with a first pay application of $16,955.29.
   where: Fairplay Police Department
   refs:
   - 5
   - 6
+  topics:
+  - Policing & public safety
+  - Government operations
 - title: Mardi Gras fundraiser, Burro Days and community event funding
   summary: The Board set up an application for nonprofits to be the Mardi Gras fundraiser beneficiary, and applicants presented on Oct. 19. It also considered a Burro Days funding request from South Park School District RE-2, a Halloween Spooktacular request, and a $1,000 donation to a South Park High School football car show fundraiser.
   where: Fairplay
@@ -71,6 +100,10 @@
   - 5
   - 8
   public_comment: true
+  topics:
+  - Tourism & events
+  - Budget & taxes
+  - Schools & youth
 - title: Property improvement incentive (PIIP) agreements and downtown design review
   summary: The Board considered PIIP agreements for 711 Front Street (Andrew Schofield) and for window replacements at 305 4th Street and 402 Hathaway Street (Greg Johnson). It also held architectural review hearings on a Central Colorado Water Conservancy District mural at 548 Front Street and exterior work at 711 Front Street.
   where: Front Street, 4th Street and Hathaway Street
@@ -78,14 +111,24 @@
   - 1
   - 3
   - 8
+  topics:
+  - Downtown & business
+  - Historic preservation
+  - Economic development
 - title: Unified Development Code and Comprehensive Plan update
   summary: The Board considered adding members to the steering committee for the Unified Development Code and Comprehensive Plan update project.
   where: Townwide
   refs:
   - 1
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Town fee schedule amendment and fireworks show
   summary: The Board took up Resolution No. 33 to amend the Town's schedule of fees on first reading. It also discussed whether to hold a 2026 fireworks show.
   where: Townwide
   refs:
   - 2
   - 8
+  topics:
+  - Fees & rates
+  - Tourism & events

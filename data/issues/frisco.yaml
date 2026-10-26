@@ -3,6 +3,9 @@
   where: Townwide
   refs:
   - 16
+  topics:
+  - Short-term rentals
+  - Housing
 - title: Fast-track affordable housing review and Unified Development Code amendments
   summary: The Planning Commission held hearings on Unified Development Code changes, including a fast-tracked review process for affordable housing to meet Proposition 123 state requirements and changes to allowed uses, accessory uses and parking. Council took up Ordinances 26-17 and 26-18 on first reading Sept. 8, with second reading on the Sept. 22 agenda.
   where: Townwide
@@ -13,6 +16,9 @@
   - 9
   - 11
   - 12
+  topics:
+  - Housing
+  - Zoning & development
 - title: 2027 budget and mid-year financial outlook
   summary: Council reviewed 2026 finances in a mid-year work session. A difficult winter with low snow, reduced visitation and lower sales tax means 2027 budget planning will need care. The 2027 budget was discussed Sept. 8, and Ordinances 26-22 (appropriations) and 26-23 (mill levy) came up for first reading Oct. 13.
   where: Townwide
@@ -23,12 +29,17 @@
   - 9
   - 15
   - 16
+  topics:
+  - Budget & taxes
 - title: Summit County Strong Future mill levy reauthorization
   summary: Council considered Resolution 26-19 supporting the county's referred ballot question to reauthorize the existing Strong Future mill levy in perpetuity. It is not a new or increased tax, and the current levy sunsets in 2028.
   where: Countywide
   refs:
   - 11
   - 12
+  topics:
+  - Budget & taxes
+  - Elections
 - title: Summit School District mill levy override (Measure 4A)
   summary: Council heard from the Summit County Education Association and the school district and considered Resolution 26-26 supporting Summit School District RE-1 Ballot Measure 4A, a mill levy override for teacher and staff pay.
   where: Summit School District
@@ -36,29 +47,46 @@
   - 15
   - 16
   public_comment: true
+  topics:
+  - Schools & youth
+  - Budget & taxes
+  - Elections
 - title: 207 Granite Street eight-townhome development
   summary: The Planning Commission reviewed a sketch plan for eight townhomes at 207 Granite Street. Issues included access from 2nd Avenue, a dumpster access waiver, tandem parking, stepbacks, a possible Granite Street sidewalk, and fit with the historic park across the street. Commissioners noted the zoning allows the use by right.
   where: 207 Granite Street
   refs:
   - 10
   - 14
+  topics:
+  - Zoning & development
+  - Housing
 - title: Sixth Degree Town Homes at 121 E Main Street
   summary: The Planning Commission conducted a final review of a mixed-use project with six residential and two commercial units. Commissioners raised parking lifts without a covenant, an unlocated water line in an easement, and compliance with the new lighting rules.
   where: 121 E Main Street
   refs:
   - 5
+  topics:
+  - Zoning & development
+  - Housing
+  - Downtown & business
 - title: Telecommunication facility at 101 W Main Street
   summary: The Planning Commission scheduled a special use permit hearing for a new freestanding telecommunication facility at 101 W Main Street. The applicant is BMF Development LLC.
   where: 101 W Main Street
   refs:
   - 13
   - 14
+  topics:
+  - Zoning & development
+  - Broadband
 - title: Lagoon Drive water main replacement
   summary: Council considered Resolution 26-18 authorizing a contract with Western States Reclamation, LLC to replace a water main on Lagoon Drive.
   where: Lagoon Drive
   refs:
   - 0
   - 1
+  topics:
+  - Water
+  - Utilities
 - title: Thermal energy network test bore at Town Hall
   summary: Council considered Resolution 26-23 approving a revocable license and right of entry for a utility thermal energy network test bore on the Town Hall property, tied to the town's geothermal partnership with Xcel.
   where: Town Hall, 1 Main Street
@@ -66,6 +94,9 @@
   - 2
   - 3
   - 7
+  topics:
+  - Energy
+  - Utilities
 - title: Childcare tuition assistance and grant program
   summary: 'Council received an update on childcare tuition assistance: 430 applications were submitted, no rate increase is planned for the 26/27 program year, and providers'' tuition increases of 3-5% a year could price out families. Future applications involving DEI initiatives will not be approved. Council also has 2027 grant committee recommendations on its Sept. 22 agenda.'
   where: Townwide
@@ -73,15 +104,25 @@
   - 1
   - 11
   - 12
+  topics:
+  - Schools & youth
+  - Health & human services
 - title: Downtown winter parking
   summary: Council scheduled an update on downtown winter parking for its Sept. 22 meeting.
   where: Downtown Frisco
   refs:
   - 11
   - 12
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: Council strategic planning retreat
   summary: Council held a retreat on Aug. 25 at the Summit Fire & EMS building to review the strategic plan and set priorities. Topics included infrastructure, water rates, housing (90-100 new income-restricted units since 2023), Dark Skies certification, and the Arts and Culture Plan.
   where: Summit Fire & EMS Building, 0035 County Shops Road
   refs:
   - 6
   - 7
+  topics:
+  - Government operations
+  - Housing
+  - Water

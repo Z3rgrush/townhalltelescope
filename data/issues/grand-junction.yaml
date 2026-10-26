@@ -7,6 +7,10 @@
   - 61
   - 79
   - 80
+  topics:
+  - Budget & taxes
+  - Government operations
+  - Policing & public safety
 - title: Temporary moratorium on large data centers
   summary: Council discussed a temporary moratorium on large data centers because the code does not address them and they could use large amounts of power and water. No applications are pending. The ordinance was introduced Oct. 7 with a hearing set for Oct. 21. The moratorium would last until data center code amendments are adopted or 365 days pass, whichever is first.
   where: Citywide
@@ -17,6 +21,10 @@
   - 76
   tags:
   - data-center
+  topics:
+  - Data centers
+  - Zoning & development
+  - Energy
 - title: Significant Tree Ordinance repealed
   summary: At the request of the Housing Affordability Code Task Force, Council took up removing the significant tree protections (§21.07.040) from the Development Code, and the Forestry Board reported Council voted to remove them. The Forestry Board expressed disappointment, said public support for the ordinance was strong, and noted a consultant may propose an alternative, possibly incentive-based, in the Code review.
   where: Citywide
@@ -28,6 +36,10 @@
   - 33
   - 57
   public_comment: true
+  topics:
+  - Environment & climate
+  - Zoning & development
+  - Housing
 - title: Galley Meadows rezone at 2590 Galley Lane and 675 26 Road
   summary: Monument Homes Development and Cuesta Verde asked to rezone about 13.04 acres to RL-4 for future housing. Neighbors raised concerns about traffic, lighting, construction traffic and density, and asked that the entrance be on 26 Road rather than Galley Lane. The Planning Commission recommended approval, and Council passed Ordinance 5341 on Sept. 16 after the first hearing was delayed by a notice error.
   where: 2590 Galley Lane and 675 26 Road
@@ -37,11 +49,19 @@
   - 33
   - 47
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
+  - Roads & traffic
 - title: Juniper Grove affordable homeownership at the Salt Flats
   summary: Grand Junction Homes would buy about 3.3 acres of the city-owned Salt Flats property at 450 28 Road to build 48 for-sale homes for households under 100% AMI, with no HOA. The city would also cover $593,340 in water and sewer fees. Council continued the sale hearing to Sept. 16; completion is anticipated by Winter 2027.
   where: 450 28 Road (Salt Flats)
   refs:
   - 15
+  topics:
+  - Housing
+  - Land & property
+  - Fees & rates
 - title: Housing Action Plan and Housing Affordability Code Task Force
   summary: Council reviewed a revised Housing Action Plan that drops a proposed Housing Advisory Board and moves exploring new housing revenue to later years. It will return for a public hearing and adoption. Meanwhile the Code Task Force is working with consultant KLJ to simplify the development code and the TEDS manual, with a focus on housing costs, and plans to finish by early 2027.
   where: Citywide
@@ -55,11 +75,19 @@
   - 52
   - 60
   - 73
+  topics:
+  - Housing
+  - Zoning & development
+  - Government operations
 - title: Unhoused services funding requests
   summary: Council heard providers' year-two funding requests under the unhoused services RFP. Hilltop asked for $300,000 after receiving $250,000, and Homeward Bound asked for $225,000. No funding decisions were made; requests go through the budget process.
   where: Citywide
   refs:
   - 1
+  topics:
+  - Homelessness
+  - Budget & taxes
+  - Health & human services
 - title: Water Supply Element and turf conversion vs. tree health
   summary: Staff presented a Comprehensive Plan Water Supply Element required by state SB 24-174, saying current supplies are sufficient for projected needs. It will go to the Planning Commission after consultation with water providers. The Forestry Board discussed how turf conversion can harm mature trees.
   where: Citywide
@@ -67,12 +95,20 @@
   - 6
   - 39
   - 45
+  topics:
+  - Water
+  - Environment & climate
+  - Zoning & development
 - title: Materials Recovery Facility financing
   summary: Council approved Ordinance 5338 on final passage, authorizing an additional $9,312,127 in Certificates of Participation to finish acquiring and improving the city's Materials Recovery Facility.
   where: Materials Recovery Facility
   refs:
   - 4
   - 20
+  topics:
+  - Utilities
+  - Budget & taxes
+  - Environment & climate
 - title: Lincoln Park Barn and Certified Local Government
   summary: The Historic Preservation Board discussed the city's pursuit of Certified Local Government status and its effect on design review in historic districts. Members of the public asked the board to nominate the Lincoln Park Barn, and the board asked staff to schedule a special meeting on it.
   where: Lincoln Park Barn
@@ -82,6 +118,8 @@
   - 62
   - 63
   public_comment: true
+  topics:
+  - Historic preservation
 - title: Matchett Park Bike Park future
   summary: A survey showed strong support for keeping the Matchett Park bike park, with 56% strongly supporting. Given budget limits and the Lunch Loop project, the Parks and Recreation Advisory Board moved to hold off on further development.
   where: Matchett Park
@@ -91,12 +129,20 @@
   - 35
   - 59
   public_comment: true
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Budget & taxes
 - title: Regional fire and EMS funding and rural fire district
   summary: Staff cited the cost of providing rural fire and EMS service as a major budget pressure. The city plans to give the Rural Fire District the required two-year notice to renegotiate. The city manager is pursuing a regional fire district as a long-term solution.
   where: Citywide and rural fire district
   refs:
   - 29
   - 61
+  topics:
+  - Fire & emergencies
+  - Budget & taxes
+  - Government operations
 - title: 2324 Highway 6 & 50 rezone
   summary: RAMS 1 Ho LLC asked to rezone 2.88 acres from light industrial to general commercial for retail and office development. The Planning Commission recommended approval and Council set a hearing for Oct. 21.
   where: 2324 Highway 6 & 50
@@ -106,6 +152,9 @@
   - 66
   - 68
   - 75
+  topics:
+  - Zoning & development
+  - Economic development
 - title: Redlands 360 development expansion and annexations
   summary: Council held a hearing on amending the Redlands 360 plan to add about 29 acres, for about 629 acres total. Later, annexation of right-of-way along Easter Hill, South Broadway, 23 Road and Highway 340 was introduced.
   where: Redlands, Highway 340 and Broadway
@@ -113,9 +162,16 @@
   - 4
   - 75
   - 76
+  topics:
+  - Annexation
+  - Zoning & development
+  - Roads & traffic
 - title: I-70B corridor and US 6 CDOT projects
   summary: The Historic Preservation Board prepared comments to CDOT on I-70B improvements affecting the former Union Carbide building and possible buried streetcar tracks. Council also heard an update on the US 6 Access Control Plan.
   where: I-70B corridor and US 6
   refs:
   - 28
   - 47
+  topics:
+  - Roads & traffic
+  - Historic preservation

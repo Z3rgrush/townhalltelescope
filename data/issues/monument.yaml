@@ -8,6 +8,10 @@
   - 17
   - 18
   public_comment: true
+  topics:
+  - Zoning & development
+  - Downtown & business
+  - Historic preservation
 - title: Use tax ballot measure and 2027 budget
   summary: The Citizens Service Levels Advisory Committee reviewed the preliminary 2027 budget and a use tax ballot initiative. Increasing the motor vehicle use tax to 3.5 would raise about $500K more, and construction use tax could add about $2.2M. Council was asked to refer ballot measures, and on Oct. 19 considered a resolution supporting the construction use tax increase (Ordinance 19-2026). Council also reviewed the draft 2027 budget and capital plan.
   where: Townwide
@@ -18,6 +22,9 @@
   - 15
   - 19
   - 20
+  topics:
+  - Budget & taxes
+  - Fees & rates
 - title: Native Sun Construction PUD amendment at 15010 Woodcarver Road
   summary: The Planning Commission recommended approval of a major amendment that relocates the shop building, adds a deceleration lane on Wood Carver Road, and preserves 21 trees while planting 66. Council scheduled Ordinance 24-2026 for a hearing on Sept. 8.
   where: 15010 Woodcarver Road
@@ -27,6 +34,9 @@
   - 6
   - 7
   - 10
+  topics:
+  - Zoning & development
+  - Roads & traffic
 - title: 7 Brew Drive Thru Coffee final PUD
   summary: The Planning Commission reviewed the final PUD plan for a 7 Brew drive-thru coffee shop. Council took up Ordinance 23-2026 approving it on Sept. 8.
   where: 15822 Jackson Creek Parkway
@@ -36,33 +46,53 @@
   - 6
   - 7
   - 10
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: Karl Malone Powersports final PUD
   summary: The Planning Commission recommended approval of the final PUD for a 30,000-square-foot RV sales and service facility. Discussion covered screening and security of outdoor storage, parking, and underground stormwater detention.
   where: Monument
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Economic development
 - title: Conexus Lot 1 Filing 2 and Tract E land transfer
   summary: The Planning Commission reviewed the final PUD for Conexus Lot 1 Filing 2, which includes 312 apartment units. Council later considered Ordinance 26-2026, a real property transfer, and Resolution 74-2026, a temporary construction easement in Tract E. No public comments were received at the hearing.
   where: Conexus development
   refs:
   - 2
   - 20
+  topics:
+  - Housing
+  - Zoning & development
+  - Land & property
 - title: Falcon Commerce Center Phase 2 PUD amendment
   summary: Council reconsidered Ordinance 15-2026, a preliminary PUD major amendment for the south 43 acres of Falcon Commerce Center, continued from Aug. 3. Staff gave a timeline of events.
   where: Falcon Commerce Center
   refs:
   - 7
+  topics:
+  - Zoning & development
+  - Economic development
 - title: 309 Woodworth Street use classification appeal
   summary: An appeal of the Planning Director's use classification determination for 309 Woodworth Street came to a public hearing.
   where: 309 Woodworth Street
   refs:
   - 1
   - 2
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Traffic, growth and Jackson Creek Parkway
   summary: The advisory committee discussed traffic impact fees, which may fund Jackson Creek Parkway, and expected pressure from a Target, new apartments, and a possible Costco. Members also raised traffic on Old Denver Highway.
   where: Jackson Creek Parkway
   refs:
   - 4
+  topics:
+  - Roads & traffic
+  - Fees & rates
+  - Zoning & development
 - title: Water quality, water attorney and tap approvals
   summary: Council heard a presentation on water testing and sampling and appointed Nazarenus Stack & Wombacher as water attorney. It also considered a new tap for two properties, and a councilmember asked for a water workshop.
   where: Townwide
@@ -70,6 +100,9 @@
   - 6
   - 11
   - 20
+  topics:
+  - Water
+  - Lawsuits & legal
 - title: Small Business Development Center funding request
   summary: The committee weighed a funding proposal from the Small Business Development Center Network. Members questioned its impact and the $250 consulting fee.
   where: Townwide
@@ -77,6 +110,9 @@
   - 3
   - 4
   - 15
+  topics:
+  - Economic development
+  - Budget & taxes
 - title: Motorized devices ordinance and parking permit repeal
   summary: Council considered Ordinance 25-2026 regulating prohibited motorized devices. It also took up Ordinance 20-2026, repealing a municipal code subsection that waives parking permit requirements.
   where: Townwide
@@ -85,6 +121,9 @@
   - 7
   - 19
   - 20
+  topics:
+  - Government operations
+  - Roads & traffic
 - title: Police fees, handguns and staffing
   summary: Council approved revised police department service fees effective Oct. 1 and considered buying Shadow Systems handguns for officers. The 2027 budget adds 4 police positions funded by impact fees.
   where: Townwide
@@ -92,3 +131,7 @@
   - 4
   - 7
   - 11
+  topics:
+  - Policing & public safety
+  - Fees & rates
+  - Budget & taxes

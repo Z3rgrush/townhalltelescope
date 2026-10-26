@@ -5,6 +5,8 @@
   - 0
   - 4
   - 5
+  topics:
+  - Budget & taxes
 - title: 2026 Comprehensive Plan Addendum
   summary: Council set an August 18 work session at 5:30 p.m. to go over the Comprehensive Plan addendum. The plan returned on the September 1 and September 22 agendas, and a future review date was to be set on October 6.
   where: Townwide
@@ -13,44 +15,68 @@
   - 2
   - 3
   - 4
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Wildfire Resiliency Code adoption
   summary: Trustee Bell moved to approve changes replacing the local WUI (wildland-urban interface) code references with the Colorado Wildfire Resiliency Code.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Fire & emergencies
+  - Zoning & development
 - title: Ordinance 2026-06 AVIS amendments
   summary: Council voted to add a new Article 4 to Chapter 8 of Ordinance 2026-06 (AVIS amendments); all were in favor.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Government operations
 - title: FMAC and NDME grant application
   summary: FMAC Chair Paul Yingling spoke to Council about the NDME grant application at the August 18 meeting. The FMAC budget was also part of the budget discussion.
   refs:
   - 0
   - 1
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: CRA Plan review
   summary: A review of the CRA plan was on the September 1 agenda for Council discussion.
   where: Townwide
   refs:
   - 2
+  topics:
+  - Economic development
+  - Zoning & development
 - title: Lake Street bathrooms
   summary: The Lake Street bathrooms were an agenda item on September 1.
   where: Lake Street
   refs:
   - 2
+  topics:
+  - Parks & open space
+  - Utilities
 - title: Updating the 1997 Annexation Plan
   summary: Council planned to discuss updating the town's 1997 Annexation Plan at its October 6 meeting.
   where: Townwide
   refs:
   - 4
+  topics:
+  - Annexation
 - title: Emma Woods Certificate
   summary: The Emma Woods Certificate was tabled until the next meeting on August 4 and was back on the September 1 agenda.
   refs:
   - 0
   - 2
+  topics:
+  - Government operations
 - title: Marshal's office patrol vehicle grant
   summary: Town Manager Caleb Patterson reported he was applying for a grant on behalf of the Marshal's office to replace a patrol vehicle.
   where: Green Mountain Falls
   refs:
   - 0
+  topics:
+  - Policing & public safety
+  - Budget & taxes

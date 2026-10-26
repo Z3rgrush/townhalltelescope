@@ -5,18 +5,28 @@
   - 4
   - 12
   - 13
+  topics:
+  - Budget & taxes
+  - Policing & public safety
+  - Elections
 - title: Automated license plate readers and proposed AVIS
   summary: Police briefed council on the 17 fixed Flock Safety license plate cameras in use, which were first funded by a federal JAG grant and are now paid from the police budget. Council was to consider whether more safeguards are needed and how the proposed Automated Vehicle Identification System relates to the existing cameras.
   where: Citywide
   refs:
   - 8
   - 9
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
 - title: Neighborhood traffic-calming and speed hump policy changes
   summary: Public Works proposed changes to the traffic-calming policy, including shortening speed hump spacing from 700 feet to about 400 feet, raising the volume threshold on local streets, and moving to an allocated budget instead of a fixed 25 humps a year. Staff are also planning speed cushions and crossings on Mississippi east of Pierce and on Harlan near Deane Elementary and Ray Ross Park, working with West Metro Fire District.
   where: Mississippi Ave. east of Pierce; Harlan St. near Deane Elementary
   refs:
   - 0
   - 1
+  topics:
+  - Roads & traffic
+  - Policing & public safety
 - title: Purchase of 1081 Vance Street for open space and park
   summary: Council considered an ordinance (O-2026-32) authorizing the city to buy 1081 Vance Street for municipal open space and park purposes. It was heard on first reading Sept. 28 and on second reading with public comment Oct. 12.
   where: 1081 Vance Street
@@ -25,12 +35,17 @@
   - 11
   - 12
   - 13
+  topics:
+  - Parks & open space
+  - Land & property
 - title: Rezonings at 2555 S. Kipling St. and 7201 W. Mansfield
   summary: Council took up first reading of two rezoning ordinances, O-2026-33 for land at 2555 S. Kipling St. and O-2026-34 for land at 7201 W. Mansfield.
   where: 2555 S. Kipling St. and 7201 W. Mansfield
   refs:
   - 14
   - 15
+  topics:
+  - Zoning & development
 - title: Waste hauler licensing rewrite (Chapter 5.29)
   summary: Ordinance O-2026-30 would repeal and replace the city's hauler licensing chapter, adding definitions, an application review process, enforcement with hearings, and moving license fees into rules and regulations. Staff say it helps track recycling and compost tonnage toward the city's Zero Waste goal. It was on first reading Aug. 10 and second reading Aug. 24.
   where: Citywide
@@ -38,6 +53,10 @@
   - 2
   - 3
   - 4
+  topics:
+  - Utilities
+  - Environment & climate
+  - Fees & rates
 - title: 2025 Colorado Wildfire Resiliency Code adoption
   summary: Council considered an ordinance adopting the 2025 Colorado Wildfire Resiliency Code with local amendments, on first reading Aug. 24 and second reading with public comment Sept. 28.
   where: Citywide
@@ -45,6 +64,9 @@
   - 4
   - 10
   - 11
+  topics:
+  - Fire & emergencies
+  - Zoning & development
 - title: Revised 2026 and proposed 2027 city and LRA budgets
   summary: Council held a Sept. 14 study session on the revised 2026 and proposed 2027 city budget. The Lakewood Reinvestment Authority also received its proposed 2027 budget, with approval sought Oct. 19. Council also approved 2027 budgets for the Alameda Corridor and West Colfax business improvement districts, and a $225,000 amendment to the 2026 budget was moved forward in August.
   where: Citywide
@@ -55,12 +77,19 @@
   - 6
   - 7
   - 10
+  topics:
+  - Budget & taxes
+  - Downtown & business
 - title: Neighborhood Participation Program project funding
   summary: Staff asked council to approve recommended projects for the 2026 Neighborhood Participation Program, which funds small neighborhood-proposed projects such as playgrounds, public art and community gardens. 176 projects have been funded since the program began in 1992.
   where: Citywide
   refs:
   - 14
   - 15
+  topics:
+  - Parks & open space
+  - Libraries & culture
+  - Government operations
 - title: Permanent police committee and city manager contract
   summary: Council amended its resolution on an ad-hoc committee working toward a permanent police committee and appointed a member to it on Sept. 28. A city manager contract was also on the Aug. 24 agenda.
   where: Citywide
@@ -68,3 +97,6 @@
   - 4
   - 10
   - 11
+  topics:
+  - Policing & public safety
+  - Government operations

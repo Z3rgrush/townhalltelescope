@@ -6,46 +6,73 @@
   - 1
   - 3
   - 4
+  topics:
+  - Housing
+  - Zoning & development
+  - Water
 - title: Settlement with Town Manager and acting manager appointment
   summary: Council reaffirmed Braden Piel as Acting Town Manager on Aug. 3. On Aug. 18 it was to discuss in executive session and possibly act on a settlement with the Town Manager. The agendas do not state the terms or the outcome.
   where: Town Hall
   refs:
   - 0
   - 2
+  topics:
+  - Government operations
+  - Lawsuits & legal
 - title: Sewer and water system improvement loan hearings
   summary: Council scheduled public hearings on Sept. 14 for the Water Pollution Control Revolving Fund (sanitary sewer collection system replacement) and the Drinking Water Revolving Fund (water system improvements). Dannah Koeniger of GMS presented both.
   where: Townwide
   refs:
   - 4
+  topics:
+  - Water
+  - Utilities
+  - Budget & taxes
 - title: Veregy West energy performance contract
   summary: Council considered approving an energy performance contract with Veregy West LLC on Aug. 3. The agenda gives no cost or scope details.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Energy
+  - Government operations
 - title: Title 14 Planning and Zoning rewrite (Ordinance 614)
   summary: Ordinance 614, adopting a new Title 14 on planning and zoning, had its first reading on Sept. 14.
   where: Townwide
   refs:
   - 4
+  topics:
+  - Zoning & development
 - title: Scott hangar lease at the airport (Ordinance 613)
   summary: Ordinance 613 approving a hangar lease to Scott had first reading on Aug. 3 and second reading on Sept. 14.
   where: Akron airport
   refs:
   - 0
   - 4
+  topics:
+  - Airports
+  - Land & property
 - title: 2027 budget review
   summary: Council scheduled its 2027 budget review for Oct. 12.
   where: Townwide
   refs:
   - 5
+  topics:
+  - Budget & taxes
 - title: Vacant trustee seat and coordinated election
   summary: Council was to appoint a successor to fill Ms. Benson's trustee seat on Aug. 18. On Aug. 3 it considered a coordinated election agreement with Washington County (Resolution 26.08).
   where: Townwide
   refs:
   - 0
   - 2
+  topics:
+  - Elections
+  - Government operations
 - title: Lindsie Grass special animal permit
   summary: Council considered a special animal permit for Lindsie Grass on Aug. 3 and again on Sept. 14.
   refs:
   - 0
   - 4
+  topics:
+  - Agriculture & wildlife
+  - Government operations

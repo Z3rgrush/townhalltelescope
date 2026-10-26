@@ -9,6 +9,10 @@
   tags:
   - data-center
   public_comment: true
+  topics:
+  - Energy
+  - Data centers
+  - Water
 - title: Stage 3 water shortage and river supply
   summary: Low river flow put the Town into Stage 3 water restrictions. The Rangely water conservancy district released 10 cfs from Kenney Reservoir, and the Town manager noted senior upriver water rights. Restrictions later eased back toward stage 1, and council discussed the water ordinance and bulk water customers under Emergency Ordinance 707.
   where: Townwide
@@ -17,11 +21,17 @@
   - 3
   - 4
   - 6
+  topics:
+  - Water
+  - Utilities
 - title: White River Regional Water Supply Project storage agreement
   summary: Council considered Resolution 2026-07 declaring a state of municipal water urgency and a finding of municipal water supply need. It would authorize negotiation, but not execution, of a conditional storage agreement for the White River Regional Water Supply Project.
   where: Townwide
   refs:
   - 7
+  topics:
+  - Water
+  - Utilities
 - title: Water and wastewater plant repairs
   summary: Staff reported the wastewater plant pond and lagoon liners need replacement, and the water plant has structural issues, with corrosion and a separate structural inspection of rafters and columns. The middle zone water tank re-coating project was proposed for delay, and grants are being sought for the costs.
   where: Water plant and wastewater plant
@@ -29,6 +39,9 @@
   - 2
   - 3
   - 6
+  topics:
+  - Utilities
+  - Water
 - title: 2027 budget and capital projects
   summary: Council held budget and capital project work sessions starting in September and approved the draft 2027 budget as presented in October. A Main Street beautification project was among items under consideration, along with a revision to the Housing Assistance Fund budget.
   where: Townwide
@@ -37,6 +50,9 @@
   - 4
   - 6
   - 7
+  topics:
+  - Budget & taxes
+  - Housing
 - title: Town Manager contract and outside employment concerns
   summary: The Town Manager's contract was on the July agenda. In September a resident raised concerns about the manager, and council members discussed his employment outside of the Town.
   where: Town Hall
@@ -44,6 +60,9 @@
   - 0
   - 6
   public_comment: true
+  topics:
+  - Government operations
+  - Ethics & transparency
 - title: Bell Street parking and crosswalk safety
   summary: Public works repaired sidewalk on west Bell Street, and a No Parking area by the park will extend 50 feet. A resident thanked the Town for the crosswalk but raised sign placement, and a council member worried about the parking ban during events.
   where: Bell Street near the park
@@ -51,6 +70,9 @@
   - 3
   - 4
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Parks & open space
 - title: Police department staffing and leadership
   summary: The Town reported two open police positions in August, and an interim police chief, Joseph McGuire, was sworn in in October. Council also amended the fee schedule for certified VIN inspections under Police Services.
   where: Rangely Police Department
@@ -58,8 +80,15 @@
   - 1
   - 2
   - 7
+  topics:
+  - Policing & public safety
+  - Fees & rates
+  - Government operations
 - title: Grant management contract with Community Centric Development
   summary: Council considered engaging the Community Centric Development team at $75 per hour for grant management services.
   where: Townwide
   refs:
   - 1
+  topics:
+  - Government operations
+  - Budget & taxes

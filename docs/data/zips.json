@@ -4422,6 +4422,12 @@
      "park-county/9"
     ],
     "site": false
+   },
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
    }
   }
  },
@@ -10821,6 +10827,12 @@
      "salida/0"
     ],
     "site": false
+   },
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
    }
   }
  },
@@ -10868,6 +10880,12 @@
    "chaffee-county/8"
   ],
   "tagged": {
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
+   },
    "data-center": {
     "ids": [
      "buena-vista/1"
@@ -11104,7 +11122,14 @@
    "chaffee-county/0",
    "chaffee-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
+   }
+  }
  },
  "81228": {
   "governments": [
@@ -11124,7 +11149,14 @@
    "chaffee-county/0",
    "chaffee-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
+   }
+  }
  },
  "81230": {
   "governments": [
@@ -11239,7 +11271,14 @@
    "chaffee-county/0",
    "chaffee-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
+   }
+  }
  },
  "81237": {
   "governments": [
@@ -11349,7 +11388,14 @@
    "chaffee-county/0",
    "chaffee-county/2"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "chaffee-county/11"
+    ],
+    "site": false
+   }
+  }
  },
  "81243": {
   "governments": [
@@ -13248,7 +13294,14 @@
    "minturn/9",
    "minturn/5"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "minturn/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81646": {
   "governments": [
@@ -13356,7 +13409,14 @@
    "minturn/9",
    "minturn/5"
   ],
-  "tagged": {}
+  "tagged": {
+   "guns": {
+    "ids": [
+     "minturn/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81650": {
   "governments": [

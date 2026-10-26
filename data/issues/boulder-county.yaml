@@ -5,6 +5,10 @@
   - 36
   tags:
   - data-center
+  topics:
+  - Data centers
+  - Zoning & development
+  - Land & property
 - title: 2027 Boulder County budget
   summary: The county presented the 2027 recommended budget in departmental sessions in October, held a Superior town hall on it Aug. 18, and took public testimony at an Oct. 22 hearing. Budget adoption is set for Dec. 8. Work sessions also covered general fund reduction recommendations and an efficiencies project.
   where: Countywide
@@ -19,6 +23,8 @@
   - 37
   - 38
   public_comment: true
+  topics:
+  - Budget & taxes
 - title: Boulder Valley Comprehensive Plan major update
   summary: The Planning Commission and then the commissioners conditionally approved the ten-year major update to the Boulder Valley Comprehensive Plan, including Rural Lands text amendments. A resolution formally approving it followed Oct. 13.
   where: Boulder Valley
@@ -27,30 +33,49 @@
   - 12
   - 31
   public_comment: true
+  topics:
+  - Zoning & development
+  - Land & property
+  - Environment & climate
 - title: Ballot measure to expand the Board of Commissioners from 3 to 5
   summary: The commissioners adopted Resolution 2026-056 setting ballot titles for an initiative petition to increase the board from 3 to 5 members on the Nov. 3, 2026 ballot. The clerk found the petition sufficient. In October the board also considered county positions on 2026 ballot measures.
   where: Countywide
   refs:
   - 14
   - 31
+  topics:
+  - Elections
+  - Government operations
 - title: Eldorado Springs wastewater plant debt ballot question
   summary: Sitting as the Eldorado Springs Public Improvement District board, the commissioners referred a multi-year debt authorization to the Nov. 3, 2026 ballot. It would pay for wastewater treatment plant improvements required by the state health department.
   where: Eldorado Springs
   refs:
   - 14
   - 29
+  topics:
+  - Utilities
+  - Elections
+  - Budget & taxes
 - title: Riverside Cabins Lodge special review revocation
   summary: Staff recommended revoking the special review approval (SU-23-0013) for violating conditions. The commissioners declined to revoke and continued the hearing to Jan. 7, 2027, so the applicants can finish the work and meet conditions. Lyons Fire Protection District staff took part.
   where: Near Lyons
   refs:
   - 13
   public_comment: true
+  topics:
+  - Zoning & development
+  - Tourism & events
+  - Fire & emergencies
 - title: Longmont 1st & Main urban renewal tax increment agreement
   summary: The county considered a tax increment financing agreement with the Longmont Urban Renewal Authority for redevelopment of the 1st & Main corridor. The project includes a regional transit center, environmental cleanup and public infrastructure.
   where: 1st & Main, Longmont
   refs:
   - 11
   - 27
+  topics:
+  - Economic development
+  - Transit
+  - Downtown & business
 - title: Housing Authority annual plan and homelessness funding
   summary: The commissioners held hearings on and approved the Boulder County Housing Authority 2027 Annual Plan and Moving to Work supplement, then approved submission. They also pursued state homelessness grants of $300,000 and $571,306 for youth housing, reallocated funds to Family Bridge Housing, and awarded $1,084,000 for Willoughby Corner Phases II and III in Lafayette.
   where: Countywide; 928 Canterbury Drive, Lafayette
@@ -63,16 +88,26 @@
   - 22
   - 23
   - 27
+  topics:
+  - Housing
+  - Homelessness
+  - Budget & taxes
 - title: Apahapa LLC boundary line adjustment appeal, Flagstaff Road
   summary: The commissioners heard an appeal of a director's determination on a boundary line adjustment between parcels at 6808 and 7022 Flagstaff Road, which also denied recognition of 6808 Flagstaff as a parcel. They tabled the hearing to Dec. 3 and took no comment because of time.
   where: 6808 and 7022 Flagstaff Road
   refs:
   - 33
+  topics:
+  - Land & property
+  - Zoning & development
 - title: Osterholm-DiGiulian ADU denial
   summary: After an executive session with county attorneys, the commissioners denied the application for a family care accessory dwelling unit and a 165-square-foot addition. A resolution of denial followed Sept. 15. No one commented at the hearing.
   refs:
   - 13
   - 20
+  topics:
+  - Housing
+  - Zoning & development
 - title: Mental and behavioral health tax school funding
   summary: The county approved $800,000 contracts each with Boulder Valley and St. Vrain Valley school districts from the 1B Mental and Behavioral Health Tax, including Wellness Centers at six BVSD high schools. A tax advisory committee and bylaws were also discussed.
   where: Boulder Valley and St. Vrain Valley school districts
@@ -80,12 +115,20 @@
   - 1
   - 27
   - 31
+  topics:
+  - Schools & youth
+  - Health & human services
+  - Budget & taxes
 - title: Xcel easements for 120th Street shoulder reconstruction
   summary: Xcel proposed acquiring three permanent easements over about 1.38 acres of the Liley, Roberts (Simi) and Thompson (Tommy) open space properties for the 120th Street shoulder reconstruction. The commissioners held a hearing, and a funding agreement for 120th Street multimodal improvements was also approved.
   where: 120th Street
   refs:
   - 0
   - 6
+  topics:
+  - Roads & traffic
+  - Utilities
+  - Parks & open space
 - title: Wildfire mitigation grants and fire restrictions
   summary: 'The county approved strategic fuels mitigation funding: $191,350 for Superior''s grazing program and $990,262.88 for The Watershed Center''s Conifer Hill work. It also added $30K for wildfire awareness advertising and lifted Stage 1 fire restrictions in the mountain area on Oct. 15.'
   where: Superior; Conifer Hill; mountain area
@@ -93,17 +136,27 @@
   - 6
   - 14
   - 35
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Budget & taxes
 - title: Eldora Resort cell tower
   summary: The commissioners conditionally approved a 100-foot macro-cell tower, proposed with Verizon Wireless, on a 46-acre forestry-zoned parcel at Eldora Resort. A resolution followed on Oct. 13.
   where: Eldora Resort
   refs:
   - 29
   - 31
+  topics:
+  - Zoning & development
+  - Broadband
+  - Tourism & events
 - title: Erie Parkway road renaming
   summary: The commissioners conditionally approved the Town of Erie's request to rename a section of Isabelle Road between US 287 and N. 109th Street as Erie Parkway.
   where: Isabelle Road, US 287 to N. 109th Street
   refs:
   - 4
+  topics:
+  - Roads & traffic
 - title: Tucker Complex interim management and Zero Waste Plan
   summary: A work session covered an interim management proposal for the Tucker Complex open space and a Zero Waste Plan update on fees and composting. Grading code amendments were also approved.
   where: Tucker Complex
@@ -111,3 +164,7 @@
   - 4
   - 9
   - 20
+  topics:
+  - Parks & open space
+  - Environment & climate
+  - Fees & rates

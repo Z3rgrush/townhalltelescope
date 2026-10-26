@@ -6,6 +6,10 @@
   - 13
   - 14
   - 15
+  topics:
+  - Oil, gas & mining
+  - Land & property
+  - Budget & taxes
 - title: 2027 Town budget and revenue slowdown
   summary: Staff say sales tax growth is below 2% and use tax and building permits are down over 40%, so the 2027 budget limits new staff to health-and-safety needs. Council held study sessions Aug. 18 and Oct. 6, with public hearings Oct. 27 and Nov. 10. Advisory boards were asked to cut budgets, such as Tree Board to $4,750 and Sustainability to $9,928.
   where: Townwide
@@ -18,6 +22,9 @@
   - 19
   - 34
   - 35
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: Oil and gas regulations update (Title 10, Chapter 12)
   summary: Planning Commission reviewed proposed revisions to oil and gas rules, including doubling inspection fees, per-well fees, legacy wells, noise, air quality, notification periods and bonding. One resident spoke on the updates.
   where: Townwide
@@ -25,6 +32,10 @@
   - 16
   - 24
   public_comment: true
+  topics:
+  - Oil, gas & mining
+  - Fees & rates
+  - Environment & climate
 - title: Page property rezoning and open space protection
   summary: The Open Space and Trails board recommended rezoning Page property land west of the Cottonwood Extension Irrigation Ditch as Reserved Open Space. Council discussion of the property is set for Nov. 10. A rezoning at 1025 Weld County Road 1 1/2 was also on the board's agenda, and a joint session with Planning Commission on Oct. 21 covered how to protect open space, which needs voter approval to sell or rezone.
   where: Page property, near CR 1.5 and Reliance Park
@@ -33,6 +44,10 @@
   - 4
   - 20
   - 44
+  topics:
+  - Parks & open space
+  - Zoning & development
+  - Land & property
 - title: New Town Manager appointed
   summary: After receiving 60 applications in August and holding interviews, Council considered a resolution appointing Kelli Johnson as Town Manager starting Jan. 4, 2027, with an employment agreement.
   where: Townwide
@@ -41,6 +56,8 @@
   - 33
   - 41
   - 42
+  topics:
+  - Government operations
 - title: Colliers Hill urban renewal tax increment agreements
   summary: Town Council and the Urban Renewal Authority took up agreements on sharing tax increment revenue in the Colliers Hill plan area. An amendment with Weld County, approved by the County Sept. 2, removes the requirement that revenue between $10M and $14M go to Weld County Road 5 and adds parks and recreation facilities as eligible uses.
   where: Colliers Hill Urban Renewal Plan Area
@@ -51,6 +68,10 @@
   - 13
   - 27
   - 28
+  topics:
+  - Economic development
+  - Budget & taxes
+  - Parks & open space
 - title: Downtown Briggs Street improvements and Old Town bridge design
   summary: The Urban Renewal Authority approved paying the Town for downtown infrastructure construction and a $30K design contract amendment with Felsburg Holt & Ullevig, adding to a prior $271K reimbursement. The URA also considered a disposition and development agreement for 150 Briggs. Council considered right-of-way encroachment licenses for businesses at 500, 502 and 545 Briggs Street.
   where: Briggs Street, downtown Erie
@@ -60,6 +81,10 @@
   - 27
   - 28
   - 29
+  topics:
+  - Downtown & business
+  - Roads & traffic
+  - Economic development
 - title: Vista Ridge golf course PD amendment and Vista Reserve plat
   summary: Planning Commission held a hearing on Vista Ridge PD Amendment No. 9 for the golf course. Council considered Vista Ridge PD amendment and Vista Reserve preliminary plat Sept. 8 and a hearing on the amendment Oct. 13.
   where: Vista Ridge
@@ -67,6 +92,9 @@
   - 7
   - 18
   - 38
+  topics:
+  - Zoning & development
+  - Recreation & trails
 - title: Short-term rental regulations
   summary: Planning Commission considered a new UDC chapter on short-term rentals, and Council scheduled a public hearing on the ordinance Oct. 13.
   where: Townwide
@@ -74,6 +102,9 @@
   - 36
   - 37
   - 38
+  topics:
+  - Short-term rentals
+  - Zoning & development
 - title: Airport hangars, through-the-fence fees and noise
   summary: The airport board discussed residential through-the-fence fees, commercial fees, a charter change to allow land leases longer than 20 years on the ballot, and a hangar presentation to Council Oct. 13. A resident asked for more regulation of early-morning touch-and-go flights.
   where: Erie Municipal Airport
@@ -83,6 +114,9 @@
   - 38
   - 40
   public_comment: true
+  topics:
+  - Airports
+  - Fees & rates
 - title: Proposition 123 affordable housing and comprehensive plan amendment
   summary: Erie is requesting that its Prop 123 affordable housing unit requirement be reduced to 30 units. Planning Commission and Council also considered amending the 2024 Elevate Erie Comprehensive Plan and planned a Unified Development Code update with a DOLA grant application.
   where: Townwide
@@ -91,11 +125,18 @@
   - 18
   - 29
   - 37
+  topics:
+  - Housing
+  - Zoning & development
 - title: Erie Lake Dam seepage project and County Line Road stream restoration
   summary: Council considered contract amendments for the Erie Lake Dam seepage project and authorized negotiations to acquire property and easements for the County Line Road and Coal Creek stream restoration.
   where: Erie Lake; County Line Road and Coal Creek
   refs:
   - 18
+  topics:
+  - Water
+  - Environment & climate
+  - Land & property
 - title: Community center, recreation campus and Linear Park projects
   summary: Council considered design amendments for the Erie Community Center renovation and expansion, a recreation campus feasibility study, and a construction contract for Linear Park mainline work. Bids for irrigation at Linear Park were received.
   where: Erie Community Center; Linear Park
@@ -105,9 +146,15 @@
   - 13
   - 29
   - 30
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Montessori Children's World special use at 480 Cheesman Street
   summary: Planning Commission scheduled a public hearing on a special review use for the Montessori Children's World, along with a Coal Creek property rezoning.
   where: 480 Cheesman Street
   refs:
   - 36
   - 37
+  topics:
+  - Schools & youth
+  - Zoning & development

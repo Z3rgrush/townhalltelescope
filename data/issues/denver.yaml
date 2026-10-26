@@ -5,6 +5,9 @@
   - 29
   tags:
   - data-center
+  topics:
+  - Data centers
+  - Zoning & development
 - title: Mayor's Proposed 2027 Budget and sales tax changes
   summary: Council set a public hearing on the Mayor's Proposed 2027 Budget for Oct 26, 2026, and the budget is open for public inspection beforehand. Committees also reviewed the Finance budget book, a proposal to change sales tax initiatives, and budget working group updates.
   where: Citywide
@@ -14,17 +17,24 @@
   - 41
   - 90
   - 108
+  topics:
+  - Budget & taxes
 - title: Council Rules of Procedure amendment (Resolution 26-1096)
   summary: A resolution amending City Council's Rules of Procedure was postponed in committee on July 28 and again on Aug 11, 2026.
   where: Citywide
   refs:
   - 0
   - 21
+  topics:
+  - Government operations
 - title: Entertainment license and fee ordinance (Council Bill 26-0921)
   summary: Council amended and passed on final consideration a bill updating entertainment license rules and application and license fees across several chapters of the city code. One amendment concerns requests from law enforcement or city officials.
   where: Citywide
   refs:
   - 8
+  topics:
+  - Fees & rates
+  - Downtown & business
 - title: Minority, women and small business contracting ordinance rewrite
   summary: Council Bill 26-1216 revises the city's minority-, women-owned and small business contracting rules (Chapter 28). It was filed in committee Aug 25 and placed on final consideration Sept 21, 2026.
   where: Citywide
@@ -32,6 +42,9 @@
   - 41
   - 63
   - 72
+  topics:
+  - Economic development
+  - Government operations
 - title: Contract amendments rejected by Council (video, consulting, tech and public health contracts)
   summary: 'Council failed to adopt several contract amendments on the floor: Sunny Side Up Solutions videos ($600,000, Aug 10), Jefferson County Public Health food security ($241,000, Aug 17), and Citibot ($3.9 million) and Slalom ($5 million) on Oct 13, 2026. A smaller Sunny Side Up add of $250,000 was adopted Oct 5.'
   where: Citywide
@@ -41,6 +54,9 @@
   - 76
   - 89
   - 100
+  topics:
+  - Government operations
+  - Budget & taxes
 - title: Homelessness shelters and rapid resolution funding
   summary: 'Council approved a series of contracts for rapid resolution and rapid rehousing services, including the Salvation Army, Housing Connector ($1.77 million) and Volunteers of America ($852,000). It also advanced shelter work: a funding amendment for the Sand & Sage/Westerner Motel emergency shelter and a pallet shelter license at 3815 N Steele Street.'
   where: Citywide
@@ -53,6 +69,9 @@
   - 97
   - 101
   - 118
+  topics:
+  - Homelessness
+  - Housing
 - title: Housing Stability one-year strategic plan continuation for 2027
   summary: An ordinance and resolution let the Department of Housing Stability submit a one-year continuation plan for 2027. Its next long-range plan comes to Council in September 2027, taking effect January 2028.
   where: Citywide
@@ -60,11 +79,17 @@
   - 49
   - 63
   - 72
+  topics:
+  - Housing
+  - Homelessness
 - title: Denver Health sales tax spending
   summary: Council advanced a contract amendment with Denver Health to implement the .34% sales tax passed in November 2024, including services at 777 Bannock Street, and heard a spending update.
   where: 777 Bannock Street
   refs:
   - 34
+  topics:
+  - Health & human services
+  - Budget & taxes
 - title: DIA airline lease agreements and airport construction contracts
   summary: Council approved a block of use and lease agreements with Air Canada, Air France, Alaska, Lufthansa, WestJet and others at Denver International Airport. It also approved large airport contracts, including $135 million for North Terminal project management support and a $44.9 million pond rehabilitation.
   where: Denver International Airport
@@ -75,6 +100,8 @@
   - 82
   - 89
   - 100
+  topics:
+  - Airports
 - title: Downtown Development Authority boundary changes and funding agreements
   summary: Council approved ordinances amending the boundaries of the Denver Downtown Development Authority and advanced DDDA project funding agreements for the Midland Condominiums, the University Building and 101 West Colfax.
   where: Downtown Denver
@@ -83,11 +110,18 @@
   - 65
   - 91
   - 110
+  topics:
+  - Downtown & business
+  - Economic development
 - title: Broadway Station stadium site and pedestrian bridge
   summary: Council committee advanced an amendment to the 2025 stadium site agreement with the Broadway Station Metropolitan District and a state grant for the Broadway Station Pedestrian Bridge. The bridge would connect the RTD station with the NWSL soccer stadium and Santa Fe Yards.
   where: Broadway Station
   refs:
   - 25
+  topics:
+  - Zoning & development
+  - Transit
+  - Recreation & trails
 - title: 'Flood control and drainage projects: Sanderson Gulch and Globeville Levee'
   summary: Council approved agreements with the Urban Drainage and Flood Control District for Sanderson Gulch (new total $22.2 million) and the Globeville Levee (31st Street to East 50th Avenue), plus a federal grant for Sanderson Gulch.
   where: Sanderson Gulch and Globeville
@@ -95,6 +129,9 @@
   - 6
   - 43
   - 52
+  topics:
+  - Water
+  - Utilities
 - title: Civic Center Park and Parks Department capital work
   summary: Council added $1.63 million to the Studio Gang contract for Civic Center Park (Next 100, Phase 1) and approved an $8.1 million addition for the new Parks facility at Cuernavaca Park. It also approved a $3 million Five Points plaza design contract and on-call parks contracts of up to $20 million each.
   where: Civic Center Park, Cuernavaca Park
@@ -103,11 +140,17 @@
   - 61
   - 72
   - 93
+  topics:
+  - Parks & open space
+  - Government operations
 - title: District 6 police station replacement
   summary: Committee advanced contracts with Roth Sheppard Architects and Fransen-Pittman Construction for a new District 6 police facility and garage at 1566 N Washington Street.
   where: 1566 N Washington Street
   refs:
   - 71
+  topics:
+  - Policing & public safety
+  - Government operations
 - title: Rezonings and landmark designation
   summary: Council committees advanced rezonings including 3418 W. 14th Avenue and 1371 N Julian Street, and 3343-3351 North Mariposa Street. They also advanced a landmark designation for 740 N. Washington Street. A public hearing was held on a rezoning at 76 North Hazel Court and 80-90 North Yates Street.
   where: West Colfax, North Mariposa Street, 740 N. Washington St
@@ -115,3 +158,6 @@
   - 29
   - 85
   - 100
+  topics:
+  - Zoning & development
+  - Historic preservation

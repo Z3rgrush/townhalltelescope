@@ -3,55 +3,88 @@
   where: Townwide
   refs:
   - 3
+  topics:
+  - Economic development
+  - Budget & taxes
+  - Downtown & business
 - title: Downtown Aerial Transit System (ATS) portal design
   summary: The Urban Renewal Authority's August 18 agenda included a presentation on the design of the downtown portal for the Aerial Transit System (gondola).
   where: Downtown Winter Park
   refs:
   - 3
+  topics:
+  - Transit
+  - Downtown & business
 - title: Downtown Design Guidelines 75% draft
   summary: The Planning Commission was scheduled to review the 75% draft of the Winter Park Downtown Design Guidelines on September 22, along with its 2026 priorities list.
   where: Downtown Winter Park
   refs:
   - 0
   - 11
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: 2027 Transit Operating Budget
   summary: The Transit Advisory Committee took up the 2027 transit operating budget at its September 14 meeting, with a further packet on October 5.
   where: Townwide
   refs:
   - 9
   - 12
+  topics:
+  - Transit
+  - Budget & taxes
 - title: Rendezvous at Winter Park Filing No. 2C final plat
   summary: The Planning Commission held a public hearing on the final plat for Rendezvous at Winter Park Filing No. 2C (PLN26-024) on August 11.
   where: Rendezvous at Winter Park
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Arrow at Winter Park master sign program
   summary: The Planning Commission was to review a master sign program (PLN26-088) for Arrow at Winter Park, Lot C-1 on US Highway 40.
   where: 78746 US Highway 40, Lot C-1
   refs:
   - 11
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: Setback variance at 23 Maple Road
   summary: The Board of Adjustment was to hold a hearing on a setback variance request (PLN26-076) at 23 Maple Road, with draft resolutions for both approval and denial prepared.
   where: 23 Maple Road
   refs:
   - 7
+  topics:
+  - Zoning & development
+  - Housing
 - title: 'Site plan reviews: Ski Idlewild, Trademark Drive, Bear Trail, Lupine Lane'
   summary: The Planning Commission reviewed minor site plans for 40 Ski Idlewild Road (PLN26-046), 100 Trademark Drive including a retaining wall (PLN26-055), 373 Bear Trail (PLN26-064) and 405 Lupine Lane (PLN26-070).
   where: 40 Ski Idlewild Rd; 100 Trademark Dr; 373 Bear Trail; 405 Lupine Ln
   refs:
   - 2
   - 8
+  topics:
+  - Zoning & development
 - title: Rooted Food Trailer special use permit
   summary: The Planning Commission considered a special use permit (PLN26-048) for the Rooted Food Trailer on July 28.
   refs:
   - 0
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: ROAM Neighborhood Park
   summary: The Planning Commission discussed the ROAM Neighborhood Park and upcoming projects on August 25.
   where: ROAM neighborhood
   refs:
   - 5
+  topics:
+  - Parks & open space
+  - Zoning & development
 - title: Turkey Trot special event permit
   summary: Town Council was to hold a public hearing on a special event permit for the Turkey Trot on October 20.
   where: Winter Park
   refs:
   - 14
+  topics:
+  - Tourism & events
+  - Recreation & trails

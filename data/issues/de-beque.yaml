@@ -3,22 +3,37 @@
   where: Townwide
   refs:
   - 0
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
 - title: Preliminary 2027 town budget
   summary: Town staff are scheduled to present the preliminary 2027 budget for the Town of De Beque at the September 22 meeting.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Budget & taxes
 - title: HomewardBound of the Grand Valley funding request
   summary: Marvin Duarte is scheduled to give an operational update for HomewardBound of the Grand Valley and make a funding request to the council.
   refs:
   - 0
+  topics:
+  - Homelessness
+  - Health & human services
+  - Budget & taxes
 - title: Ordinances 576 and 577 amending the municipal code
   summary: The council is scheduled to consider Ordinance 576, which amends Title 9 of the De Beque municipal code, and Ordinance 577, which amends the municipal code further. The agenda excerpt does not give details of the changes.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Government operations
 - title: Animal Assistance Foundation grant application (Resolution 2026-31)
   summary: The council is to act on a resolution approving the town's application for a grant from the Animal Assistance Foundation.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Agriculture & wildlife
+  - Budget & taxes

@@ -7,6 +7,9 @@
   - 30
   - 31
   public_comment: true
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
 - title: Comprehensive Plan underutilized parcels and workforce housing density
   summary: The Planning Commission is reviewing maps of underutilized parcels, including Park Avenue corridor sites, the Breckenridge Elementary parcel and the North Gold Rush lot, as potential housing sites under state comp plan rules. Staff recommended workforce housing densities such as 30 units per acre on the Park Avenue corridor, and commissioners raised concerns about views from Carter Park and historic district limits. Council also toured Riverwalk Center for the plan.
   where: Park Avenue corridor, Carter Park, Breckenridge Elementary parcel, North Gold Rush lot
@@ -19,6 +22,9 @@
   - 22
   - 24
   - 38
+  topics:
+  - Zoning & development
+  - Housing
 - title: 'Workforce housing: Housing Helps, Stables Village, Runway Neighborhood and Trails at Berlin Placer'
   summary: Council reviewed workforce housing progress including the sale of Stables Village units, a possible phase two of the Runway Neighborhood, and the 2027 Workforce Housing Fund. Residents praised the Housing Helps program and urged continued funding, and Council went into executive session on water service and bond money for the Trails at Berlin Placer development.
   where: Townwide; Trails at Berlin Placer
@@ -30,6 +36,9 @@
   - 27
   - 31
   public_comment: true
+  topics:
+  - Housing
+  - Water
 - title: Proposed special district and Village/Vail Resorts tax structure
   summary: Council held a legal executive session on the process for a special district request in light of a proposed district being discussed in the community. A resident at the Aug. 11 meeting called the proposal a land grab by the Village and Vail Resorts with an unfair tax structure.
   where: Townwide
@@ -37,6 +46,9 @@
   - 3
   - 6
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: Wildfire mitigation and exterior fire suppression permit moratorium
   summary: Council considered Resolution No. 14 imposing a temporary moratorium on permits for exterior fire suppression systems.
   where: Townwide
@@ -45,6 +57,9 @@
   - 1
   - 2
   - 3
+  topics:
+  - Fire & emergencies
+  - Zoning & development
 - title: Water restrictions, Gary Roberts plant and French Gulch treatment
   summary: Council received water restrictions updates and planned a site tour and update on the Gary Roberts Water Treatment Plant. Staff also reported on optimizing the Wellington-Oro/French Gulch treatment plant for cadmium and zinc ahead of a 2029 Water Quality Control Commission hearing.
   where: Gary Roberts Water Treatment Plant; French Gulch
@@ -53,6 +68,9 @@
   - 17
   - 24
   - 34
+  topics:
+  - Water
+  - Environment & climate
 - title: Quandary Trailhead, Little Daisy and Tiger Road trail projects
   summary: The Open Space commission worked on a trails prioritization matrix including a Tiger Road rec path and heard from riders seeking downhill trails near Little Mountain. It also covered Quandary trailhead design, with the Town pledging $400,000 to a grant match, and Little Daisy Open Space trail naming.
   where: Quandary Peak trailhead; Little Daisy Open Space; Tiger Road
@@ -61,12 +79,19 @@
   - 23
   - 34
   public_comment: true
+  topics:
+  - Recreation & trails
+  - Parks & open space
 - title: Aspen Alley seasonal shuttle and parking management
   summary: A free shuttle funded by a transit grant, along with police patrols and citations, was used to manage parking at Aspen Alley. Staff reported strong compliance and expect continued grant funding.
   where: Aspen Alley
   refs:
   - 23
   - 34
+  topics:
+  - Transit
+  - Roads & traffic
+  - Tourism & events
 - title: Delivery zone permits and traffic code changes
   summary: Council took up Council Bill 9 updating the delivery zone program, clarifying eligibility and time limits, updating fees, setting enforcement penalties and confirming the Police Chief's authority to designate permits.
   where: Townwide
@@ -75,6 +100,9 @@
   - 15
   - 17
   - 27
+  topics:
+  - Roads & traffic
+  - Fees & rates
 - title: Mamba Trust retaining wall variance at 219 Glen Eagle Loop
   summary: The Planning Commission heard a variance request to let part of an unpermitted retaining wall remain outside the platted disturbance envelope; staff said about 75 feet would otherwise need removal. The owner's architect presented in support.
   where: 219 Glen Eagle Loop
@@ -82,12 +110,18 @@
   - 10
   - 13
   public_comment: true
+  topics:
+  - Zoning & development
+  - Land & property
 - title: City Market fuel center at 430 N. Park Avenue
   summary: 'The Planning Commission scheduled preliminary hearings on a proposed City Market #430 fuel center (PL-2026-0171).'
   where: 430 N. Park Avenue
   refs:
   - 10
   - 37
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: Little Red Schoolhouse expansion
   summary: The Planning Commission held a work session and then a town project hearing on the proposed Little Red Schoolhouse expansion.
   where: 600 Reiling Rd
@@ -95,6 +129,9 @@
   - 21
   - 22
   - 28
+  topics:
+  - Schools & youth
+  - Zoning & development
 - title: 2027 budget, capital plan and certificates of participation refunding
   summary: Council held a work session on cash flow and capital improvements, and a Oct. 13 budget retreat. It approved refunding the Series 2016 certificates of participation, with $4.6 million outstanding, if savings justify costs.
   where: Townwide
@@ -106,6 +143,8 @@
   - 31
   - 33
   - 34
+  topics:
+  - Budget & taxes
 - title: Permit parking shortages for workers and residents
   summary: A resident said permit holders often cannot find parking, and suggested gated permit lots, towing enforcement and expanding permitted parking into the South Gondola lots or the parking structure.
   where: Downtown Breckenridge
@@ -113,6 +152,9 @@
   - 11
   - 16
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: Arts and Culture Master Plan and arts funding requests
   summary: A consultant's community engagement report drawing 650+ participants went to Council, and residents asked for skate park, Arts District and TEDx Breckenridge funding in the plan.
   where: Townwide
@@ -121,6 +163,9 @@
   - 24
   - 25
   public_comment: true
+  topics:
+  - Libraries & culture
+  - Budget & taxes
 - title: Strong Future ballot measure and Summit School District mill levy
   summary: Council considered resolutions supporting the Strong Future ballot measure and Measure 4A, the school district mill levy override, and held an executive session on negotiations with the school district.
   where: Countywide
@@ -129,3 +174,7 @@
   - 26
   - 30
   - 33
+  topics:
+  - Schools & youth
+  - Budget & taxes
+  - Elections

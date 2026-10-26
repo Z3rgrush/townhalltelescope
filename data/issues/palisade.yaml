@@ -3,23 +3,37 @@
   where: Townwide
   refs:
   - 1
+  topics:
+  - Budget & taxes
 - title: 2027 special event calendar and blackout dates (Resolution 2026-17)
   summary: The Board of Trustees was to consider Resolution 2026-17, approving the 2027 special event calendar and blackout dates.
   where: Townwide
   refs:
   - 1
+  topics:
+  - Tourism & events
 - title: Watershed wildfire mitigation presentation from Colorado State Forest Service
   summary: The Colorado State Forest Service was scheduled to present on watershed wildfire mitigation and coordination with the town.
   where: Townwide
   refs:
   - 1
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Water
 - title: Tourism Advisory Commission interviews and appointment
   summary: The board was to interview candidates and appoint a commissioner to the Tourism Advisory Commission by roll call vote.
   where: Palisade Civic Center, 341 W 7th Street
   refs:
   - 1
+  topics:
+  - Tourism & events
+  - Government operations
 - title: Fall Town Cleanup Day and Trick-or-Treat Street events
   summary: Fall Town Cleanup Day is Saturday, October 17 from 8 am to noon at the Riverbend Park parking lot, or until dumpsters are full. Trick-or-Treat Street and Touch a Truck is Friday, October 30.
   where: Riverbend Park
   refs:
   - 1
+  topics:
+  - Tourism & events
+  - Environment & climate

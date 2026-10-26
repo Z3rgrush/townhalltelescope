@@ -4,27 +4,46 @@
   refs:
   - 1
   - 2
+  topics:
+  - Water
+  - Utilities
 - title: 'Affordable housing: needs assessment, expedited review and Proposition 123 commitment'
   summary: On Oct. 20 the Board is scheduled to consider a Housing Needs Assessment (public hearing, Resolution 2026-20), expedited review policies for affordable housing projects (Resolution 2026-21), and a Proposition 123 commitment for 2027-2029 (Resolution 2026-22).
   where: Townwide
   refs:
   - 3
+  topics:
+  - Housing
+  - Zoning & development
 - title: 2027 draft budget presentation
   summary: The Oct. 6 agenda includes a 2027 draft budget presentation, with Parks, Trees and Trails and Economic Development shown as budget areas. No figures appear in the documents.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Budget & taxes
+  - Parks & open space
+  - Economic development
 - title: Gray water ordinance 2026-858
   summary: Ordinance 2026-858 on gray water is listed on the Oct. 6 consent agenda. The documents give no details of its provisions.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Water
+  - Utilities
 - title: Main Street Program Advisory Committee
   summary: Resolution 2026-17, concerning a Main Street Program Advisory Committee, is on the Oct. 6 consent agenda.
   where: Main Street, Platteville
   refs:
   - 0
+  topics:
+  - Downtown & business
+  - Government operations
 - title: Slip line bid tab
   summary: A bid tabulation for slip lining work, which typically means pipe rehabilitation, is on the Oct. 6 consent agenda. The documents give no location or amount.
   refs:
   - 0
+  topics:
+  - Utilities
+  - Water

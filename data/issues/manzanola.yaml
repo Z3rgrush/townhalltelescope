@@ -5,6 +5,10 @@
   - 0
   - 1
   - 2
+  topics:
+  - Land & property
+  - Environment & climate
+  - Zoning & development
 - title: 'Water plant storage study and Well #2 testing'
   summary: 'Engineer Tom McClernan of GMS presented a water plant storage study in August. In September and October he is slated to report on Well #2 water flow and chemical tests under a preliminary engineering report.'
   where: 'Manzanola water plant and Well #2'
@@ -12,6 +16,9 @@
   - 0
   - 1
   - 2
+  topics:
+  - Water
+  - Utilities
 - title: MMOF-CDOT grant contract for $474,041
   summary: The council is considering a $474,041 Multimodal Options Fund contract with CDOT, budgeted for Colorado's 2029 budget year. It appeared on all three agendas.
   where: Townwide
@@ -19,6 +26,10 @@
   - 0
   - 1
   - 2
+  topics:
+  - Roads & traffic
+  - Transit
+  - Budget & taxes
 - title: Conduit vault placement at water plant with SECWCD
   summary: Hunter Willits of the Southeastern Colorado Water Conservancy District is discussing where to place a conduit vault at the water plant, tied to Valley water. The item recurred on all three agendas.
   where: Manzanola water plant
@@ -26,23 +37,38 @@
   - 0
   - 1
   - 2
+  topics:
+  - Water
+  - Utilities
 - title: Diamond Maps water system mapping software
   summary: Colorado Rural Water proposed a $15 per month map and computer system showing valves, meters and fire hydrants. The water superintendent could update it, as Eureka Water does.
   where: Townwide water system
   refs:
   - 1
   - 2
+  topics:
+  - Water
+  - Utilities
+  - Government operations
 - title: Repair of 2nd Street with Otero County
   summary: The council discussed Otero County repairing 2nd Street in August. No outcome is stated.
   where: 2nd Street
   refs:
   - 0
+  topics:
+  - Roads & traffic
 - title: Ordinance 2026-05 on emergent weed and tree removal
   summary: The council took up Ordinance 2026-05, which addresses emergent weed and tree removal. No details or outcome are given.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Environment & climate
+  - Land & property
 - title: Sale or scrapping of 2012 Dodge police car and jetter truck
   summary: The council is deciding whether to sell the old 2012 Dodge police car and the jetter truck or scrap them for metal.
   refs:
   - 2
+  topics:
+  - Government operations
+  - Policing & public safety

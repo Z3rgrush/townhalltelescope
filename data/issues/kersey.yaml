@@ -3,28 +3,45 @@
   where: Townwide
   refs:
   - 5
+  topics:
+  - Budget & taxes
+  - Elections
 - title: 6 P's Annexation at 24822 Highway 34
   summary: The Planning Commission held a public hearing on annexing a 49.5-acre property northeast of the Kuner/Five Rivers feedlot, with I-Industrial zoning and a Comprehensive Plan map change from Agriculture/Tourism to employment-oriented industrial use. Neighbors who want to buy the property raised concerns about industrial use, traffic and operations, and the possible annexation of CR 56 was discussed.
   where: 24822 Highway 34, northeast of Kuner/Five Rivers feedlot
   refs:
   - 1
   public_comment: true
+  topics:
+  - Annexation
+  - Zoning & development
+  - Roads & traffic
 - title: Water Blueprint Plan and long-term water supply
   summary: The Board began the first of three working sessions with Brendle Group on a $50,000 Water Blueprint, funded by a DOLA grant, Northern Water and the Town. It responds to buy-and-dry pressure and Northern Water's native-supply requirement for new development, which may make Colorado-Big Thompson water alone insufficient for growth. A November work session was also rescheduled to Nov. 17 with the water blueprint on the agenda.
   where: Townwide
   refs:
   - 3
   - 4
+  topics:
+  - Water
+  - Zoning & development
 - title: Clark Street Storm Sewer Project contract
   summary: The Board awarded the construction contract to Mountain Constructors, Inc., the second-lowest of 13 bidders, after staff found concerns with the lowest bidder. The price is held for 180 days while the Town awaits FEMA funding, and the bid came in well below the engineer's estimate.
   where: Clark Street
   refs:
   - 3
+  topics:
+  - Utilities
+  - Government operations
 - title: Renaming duplicate street names in Berryman Farms
   summary: Staff asked the Board to authorize renaming streets east of 1st Street in Berryman Farms because names duplicate or resemble streets elsewhere in town, which could slow police, fire and EMS response. Residents would need to update addresses, so staff would coordinate with them and agencies before bringing formal action back.
   where: Berryman Farms subdivision, east of 1st Street
   refs:
   - 2
+  topics:
+  - Roads & traffic
+  - Fire & emergencies
+  - Housing
 - title: 2027 budget and 2025 audit
   summary: The Board was to hear the 2025 audit results from the Town's independent auditor and began 2027 budget introduction and review in September, with a preliminary budget presentation on Oct. 13.
   where: Townwide
@@ -32,19 +49,29 @@
   - 0
   - 4
   - 5
+  topics:
+  - Budget & taxes
 - title: Adoption of the 2024 International Fire Code
   summary: After a public hearing with no comments, the Board considered Ordinance 2026-0010 adopting the 2024 International Fire Code. The Deputy Fire Marshal said it streamlines the Town's fire code requirements and aligns them with earlier adopted codes.
   where: Townwide
   refs:
   - 3
+  topics:
+  - Fire & emergencies
+  - Government operations
 - title: Community Center staffing review
   summary: After an exit interview with a departing employee raised several concerns, staff brought a work session discussion on evaluating Community Center staffing.
   where: Kersey Community Center
   refs:
   - 0
+  topics:
+  - Government operations
+  - Recreation & trails
 - title: Kersey holiday changes from community feedback
   summary: Staff asked the Board for feedback on changes to the Kersey Holiday event, citing high-priority community input from the RTAP workshop.
   where: Townwide
   refs:
   - 2
   public_comment: true
+  topics:
+  - Tourism & events

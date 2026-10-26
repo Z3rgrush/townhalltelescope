@@ -9,6 +9,10 @@
   - 23
   - 27
   public_comment: true
+  topics:
+  - Government operations
+  - Ethics & transparency
+  - Fire & emergencies
 - title: The Junction urban renewal plan and tax increment financing
   summary: GURA is considering a new urban renewal area for The Junction, a 51.28-acre light industrial business park west of Highway 93. Consultant reports found blight factors. The project has about $59 million in public improvements, and the developer asks for 100% of tax increment financing, saying the project is not feasible without it. Staff supports TIF and revenue-sharing agreements with conditions. The plan is heading to the Planning Commission and City Council.
   where: West side of State Highway 93, near North Table Mountain Park West Trailhead
@@ -19,6 +23,10 @@
   - 22
   - 24
   - 36
+  topics:
+  - Economic development
+  - Zoning & development
+  - Budget & taxes
 - title: 'Clayworks development: natural gas amenity request, parking and mobility'
   summary: Clayworks developers asked to amend their Official Development Plan to allow limited natural gas for pool and spa heating, fireplaces and communal grills, despite earlier all-electric commitments. A Sustainable Golden member urged the project to keep its original sustainability commitments. The amendment is under staff review and will go to Planning Commission and Council. The mobility board is also following the project's transportation demand management plan and parking.
   where: Clayworks development
@@ -29,17 +37,28 @@
   - 30
   - 39
   public_comment: true
+  topics:
+  - Zoning & development
+  - Energy
+  - Housing
 - title: Creek management on Clear Creek
   summary: Residents raised frustration over behavior, parking and charcoal grills along the creek, and said it feels unprotected. Deputy City Manager Carly Lorentz gave a creek update to Council. Residents asked for better signs and enforcement.
   where: Clear Creek through Golden
   refs:
   - 1
   public_comment: true
+  topics:
+  - Recreation & trails
+  - Policing & public safety
+  - Environment & climate
 - title: Flock license plate camera contract
   summary: Police Chief Michelle Wagner is to brief Council on how Flock technology is used by the police. Councilors Knecht and Kurzinski are proposing to reconsider the city's Flock contract, which would come to a vote if three or more councilors support it.
   where: Citywide
   refs:
   - 34
+  topics:
+  - Policing & public safety
+  - Government operations
 - title: 2027-2028 city budget and revenue outlook
   summary: Council and the Citizens' Budget Advisory Committee are reviewing the proposed 2027-2028 biennial budget under revenue constraints. Sales tax is projected to grow about 1% a year and property tax to fall about 3%. The CBAC recommended more marijuana tax money for rent assistance and food programs. Staff also presented the 2025 financial report and a revenue outlook.
   where: Citywide
@@ -49,6 +68,9 @@
   - 27
   - 34
   - 38
+  topics:
+  - Budget & taxes
+  - Cannabis & liquor
 - title: Community Marketing program and Visit Golden strategy
   summary: The Community Marketing Board is working on a 2026-2029 strategy centered on residents first. It includes off-peak visitors, a re-introduced DVA Advertising contract (Resolution 3345), and a 2027 budget with a $715,000 vendor fee line. The program is funded by the sales tax vendor fee credit that businesses would otherwise keep.
   where: Citywide
@@ -57,6 +79,10 @@
   - 14
   - 18
   - 37
+  topics:
+  - Tourism & events
+  - Economic development
+  - Budget & taxes
 - title: Special events impacts and grants
   summary: A resident asked the committee to review how events affect the west end of 10th Street, citing parking pressure from the farmers market, tubers and park users. The committee is also reviewing grant requests, a new Golden Skull Marathon application, and a shuttle funding request of up to $5,000 for an event with reduced parking at Tony Grampsa's Park.
   where: West 10th Street and Tony Grampsa Park
@@ -64,18 +90,27 @@
   - 15
   - 28
   public_comment: true
+  topics:
+  - Tourism & events
+  - Roads & traffic
 - title: 'Historic preservation: demolition and new building reviews'
   summary: The Historic Preservation Board approved a new cottage and garage at 2024 Ford Street. It is also reviewing demolition requests for 612 10th Street (Schall Residence), where the developer says keeping it would cost parking, units and the pool, and for 403 18th Street.
   where: 612 10th Street, 2024 Ford Street, 403 18th Street
   refs:
   - 6
   - 20
+  topics:
+  - Historic preservation
+  - Zoning & development
 - title: 2122 Jackson Street site plans and alley spur call-up
   summary: Council called up the Director's approval of form zone site plans at 2122 Jackson Street for Planning Commission review, focusing on the alley spur. Neighbors said the alley is narrow and raised concerns about trash, parking, lights and green space. Staff said the site has more parking than required.
   where: 2122 Jackson Street
   refs:
   - 11
   public_comment: true
+  topics:
+  - Zoning & development
+  - Roads & traffic
 - title: Lions Park playground redesign and GOCO grant
   summary: Council considered supporting a Great Outdoors Colorado grant for the Lions Park nature play and outdoor project. Designers presented the playground redesign, and the Arts and Culture Commission's jury narrowed 29 public art entries to 3 finalists.
   where: Lions Park
@@ -84,12 +119,19 @@
   - 14
   - 31
   - 35
+  topics:
+  - Parks & open space
+  - Libraries & culture
+  - Recreation & trails
 - title: Roundabout art landscaping watering at Heritage Road and Kimball Avenue
   summary: Neighbors who installed a sculpture and landscaping in the roundabout can no longer keep up the hand watering after the lead volunteer died. They asked Parks and Recreation to add it to the summer watering rotation or extend the sprinklers.
   where: Heritage Road and Kimball Avenue roundabout
   refs:
   - 12
   public_comment: true
+  topics:
+  - Parks & open space
+  - Water
 - title: 'Downtown DDA projects: streetscape, trees and emergency repairs'
   summary: The DDA is advancing an 11th Street sidewalk and streetscape project, legacy shade trees, and planting 14 street trees on Arapahoe Street for under $10,000. It is also considering a two-year holiday light contract extension with SavaTree and a grant for emergency repairs at 807 13th Street. Prosper affordable housing is under construction at 817 14th Street.
   where: Downtown Golden, Arapahoe Street, 807 13th Street
@@ -97,13 +139,24 @@
   - 9
   - 26
   - 37
+  topics:
+  - Downtown & business
+  - Housing
+  - Parks & open space
 - title: Overhead power line undergrounding and Ore Cart shuttle
   summary: Council held a study session on an overhead power line undergrounding policy and on renewing the Ore Cart shuttle agreement with the Colorado School of Mines.
   where: Citywide
   refs:
   - 19
+  topics:
+  - Utilities
+  - Transit
 - title: Regional homeless navigation and Jefferson County agreements
   summary: Council was asked to approve an agreement with Jefferson County on the Navigation Center and an MOU on regional homeless navigation. It also considered agreements on election sites, fueling stations and other regional matters.
   where: Countywide
   refs:
   - 27
+  topics:
+  - Homelessness
+  - Government operations
+  - Elections

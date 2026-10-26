@@ -3,23 +3,35 @@
   where: Townwide
   refs:
   - 2
+  topics:
+  - Budget & taxes
 - title: Circle Park water rights discussion and final water report
   summary: The October 6 agenda has a discussion of Circle Park water rights and a final water report from Micheal Erion. The documents give no details on outcomes.
   where: Circle Park
   refs:
   - 2
+  topics:
+  - Water
+  - Parks & open space
 - title: Oversized sign variance at 43904 Highway 13
   summary: A public hearing was set on David Bradfield's request for a variance to put up a sign larger than the maximum allowed at 43904 Highway 13 in the Curtis Creek Industrial Park area.
   where: 43904 Highway 13
   refs:
   - 1
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: Eight-foot fence variance at 172 Water Street
   summary: A public hearing was set on Jessica and Matt Franks' request to build an eight-foot-tall fence at 172 Water Street. The agenda does not state the result.
   where: 172 Water Street
   refs:
   - 1
+  topics:
+  - Zoning & development
 - title: Pioneers Medical Center presentation
   summary: Pioneers Medical Center was scheduled to give a presentation to Council at the October 6 meeting. The agenda gives no topic details.
   where: Pioneers Medical Center
   refs:
   - 2
+  topics:
+  - Health & human services

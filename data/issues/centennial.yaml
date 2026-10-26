@@ -6,6 +6,9 @@
   - 10
   - 12
   - 14
+  topics:
+  - Annexation
+  - Zoning & development
 - title: Rezoning north of East Fremont Avenue and east of Potomac Street to light industry
   summary: Ordinance 2026-O-14 would rezone property north of E. Fremont Ave. and east of Potomac St. from PUD to Employment Center – Light Industry 50 (EC-LI-50). It went to Planning Commission Aug. 26, first reading Sept. 1, and a public hearing Sept. 15 (Case RZONE-26-00001).
   where: North of E. Fremont Ave. and east of Potomac St.
@@ -13,6 +16,9 @@
   - 5
   - 6
   - 12
+  topics:
+  - Zoning & development
+  - Economic development
 - title: 2027/2028 biennial budget
   summary: The Budget Committee and Council held work sessions on revenues and fund balance, a Sept. 11 review of the proposed 2027/2028 budget, and workshops on the City Manager's proposed budget Oct. 12 and 13.
   where: Citywide
@@ -21,17 +27,25 @@
   - 11
   - 16
   - 17
+  topics:
+  - Budget & taxes
 - title: Sales and use tax rate increase and election
   summary: On Aug. 11 Council considered an intergovernmental agreement with an election official and a resolution on authorization to increase the sales and use tax rate (Resolutions 2026-R-25 and 2026-R-26). The documents don't state the outcome.
   where: Citywide
   refs:
   - 1
+  topics:
+  - Budget & taxes
+  - Elections
 - title: Opting out of the state graywater program
   summary: Ordinance 2026-O-15 would opt Centennial out of the state graywater program and prohibit graywater treatment works and graywater use. First reading was Sept. 1 with a hearing on Sept. 15.
   where: Citywide
   refs:
   - 6
   - 12
+  topics:
+  - Water
+  - Environment & climate
 - title: Land Development Code amendments and industrial/business park regulation
   summary: Council study session on Oct. 6 and Planning Commission on Oct. 14 discussed proposed Land Development Code amendments and legislative zoning opportunities. A Sept. 15 special meeting was held for legal advice on regulating industrial and business park uses.
   where: Citywide
@@ -39,21 +53,35 @@
   - 13
   - 15
   - 18
+  topics:
+  - Zoning & development
+  - Lawsuits & legal
 - title: General Improvement District fee and cost analysis
   summary: The Budget Committee reviewed a fee and cost analysis for General Improvement Districts on Aug. 6. The documents give no details.
   refs:
   - 0
+  topics:
+  - Fees & rates
+  - Budget & taxes
 - title: Westray Business Improvement District 2027 operating plan and budget
   summary: Council considered Resolution 2026-R-32 approving the Westray Business Improvement District's 2027 operating plan and budget on Oct. 20.
   where: Westray Business Improvement District
   refs:
   - 20
+  topics:
+  - Budget & taxes
+  - Downtown & business
 - title: Livable Streets residential collectors next phase
   summary: Council had a discussion item on the next phase of the Livable Streets program for residential collector streets on Oct. 20.
   where: Citywide
   refs:
   - 20
+  topics:
+  - Roads & traffic
 - title: Cisco's All In One Auto Repair conditional use
   summary: Planning Commission considered a resolution approving a conditional use for Cisco's All In One Auto Repair on Sept. 9.
   refs:
   - 10
+  topics:
+  - Zoning & development
+  - Downtown & business

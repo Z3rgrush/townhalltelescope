@@ -1,58 +1,120 @@
 - title: Data center moratorium
   summary: Council held two discussions in late August and early September on whether to adopt a moratorium on data centers, with a staff presentation on data center impacts.
   where: Citywide
-  refs: [10, 12]
-  tags: [data-center]
+  refs:
+  - 10
+  - 12
+  tags:
+  - data-center
+  topics:
+  - Data centers
+  - Zoning & development
 - title: 2027 budget recommendation
   summary: Council worked through the city manager's recommended 2027 budget over several planning sessions and meetings this fall.
   where: Citywide
-  refs: [12, 19, 24]
+  refs:
+  - 12
+  - 19
+  - 24
+  topics:
+  - Budget & taxes
 - title: 2027 utility rates
   summary: Council reviewed proposed water, sewer and other utility rate changes for 2027.
   where: Citywide
-  refs: [7]
+  refs:
+  - 7
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
 - title: Creekside Gardens annexation at 140th and Washington
   summary: Council considered annexing and zoning the Creekside Gardens property near 140th Avenue and Washington Street.
   where: 140th Ave and Washington St
-  refs: [11, 15]
+  refs:
+  - 11
+  - 15
+  topics:
+  - Annexation
+  - Zoning & development
 - title: Welby Station rezoning at 88th and Welby
   summary: Council took up zoning for the Welby Station development near 88th Avenue and Welby Road.
   where: 88th Ave and Welby Rd
-  refs: [18, 29]
+  refs:
+  - 18
+  - 29
+  topics:
+  - Zoning & development
 - title: Bellflower annexation at 140th and Holly
   summary: Council considered the Bellflower annexation and zoning near 140th Avenue and Holly Street.
   where: 140th Ave and Holly St
-  refs: [32]
+  refs:
+  - 32
+  topics:
+  - Annexation
+  - Zoning & development
 - title: Parks and arts master plans
   summary: Council reviewed updates to the parks master plan and the arts and culture master plan.
   where: Citywide
-  refs: [2, 14, 23]
+  refs:
+  - 2
+  - 14
+  - 23
+  topics:
+  - Parks & open space
+  - Libraries & culture
 - title: Station area plans for York at 144th and North Thornton
   summary: Council looked at station area plans around future transit stops at York Street and 144th Avenue and at North Thornton near State Highway 7.
   where: York St and 144th Ave, CO 7
-  refs: [26]
+  refs:
+  - 26
+  topics:
+  - Transit
+  - Zoning & development
 - title: Thornton Parkway multimodal path
   summary: Council took up a multimodal path project along Thornton Parkway.
   where: Thornton Parkway
-  refs: [5]
+  refs:
+  - 5
+  topics:
+  - Recreation & trails
+  - Roads & traffic
 - title: Municipal fine and fee schedule
   summary: Council reviewed a new municipal fine and fee schedule, including results of a fee survey and staff recommendations.
   where: Citywide
-  refs: [0]
+  refs:
+  - 0
+  topics:
+  - Fees & rates
 - title: City code changes after a Supreme Court ruling
   summary: Council considered amending city code to bring it in line with a recent U.S. Supreme Court ruling.
   where: Citywide
-  refs: [3, 4]
+  refs:
+  - 3
+  - 4
+  topics:
+  - Lawsuits & legal
+  - Government operations
 - title: Liquor license hearings at First Street Plaza
   summary: Council held liquor license hearings, including one at First Street Plaza where neighbors filed opposition.
   where: First Street Plaza
-  refs: [8]
+  refs:
+  - 8
   public_comment: true
+  topics:
+  - Cannabis & liquor
 - title: Water revenue bonds
   summary: Council considered issuing water revenue bonds to fund water system projects.
   where: Citywide
-  refs: [4]
+  refs:
+  - 4
+  topics:
+  - Water
+  - Budget & taxes
 - title: Residential housing design standards
   summary: Council reviewed changes to design standards for new residential housing.
   where: Citywide
-  refs: [31]
+  refs:
+  - 31
+  topics:
+  - Housing
+  - Zoning & development

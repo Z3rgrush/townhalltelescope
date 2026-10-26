@@ -8,6 +8,10 @@
   - 18
   - 19
   public_comment: true
+  topics:
+  - Short-term rentals
+  - Fees & rates
+  - Land & property
 - title: Quantum Tech compliance agreement for 10180 West property
   summary: The Planning Commission revoked a 1995 conditional use permit for a construction storage yard on May 12, 2026, and the Board of Adjustment took up the matter on July 9. Under a compliance agreement, Quantum Tech has 90 days to remove the non-permitted operations while keeping office use, and any future permit would need a new application. The commissioners were to approve it on Sept 2 and ratify it on Sept 10.
   where: 10180 West (Quantum Tech, LLC property)
@@ -15,12 +19,19 @@
   - 12
   - 13
   - 15
+  topics:
+  - Zoning & development
+  - Land & property
 - title: NETCO impact fees for fire districts and housing costs
   summary: The county received an impact fee study from NETCO and is seeking public comment on the proposed fees. A commissioner argued the fees would raise housing costs while acknowledging the fire districts need funding.
   where: Northeast Teller County
   refs:
   - 4
   public_comment: true
+  topics:
+  - Fees & rates
+  - Fire & emergencies
+  - Housing
 - title: 2026 budget amendments and 2027 proposed budget
   summary: Commissioners held budget work sessions in August and September and a capital plan and budget session on Sept 22. A 2027 proposed budget presentation was set for Oct 8. Resolutions amending the 2026 General, Jail, Road and Bridge, and Social Services budgets were on the Oct 22 agenda.
   where: Countywide
@@ -31,12 +42,18 @@
   - 19
   - 23
   - 28
+  topics:
+  - Budget & taxes
 - title: Changes to Teller County building code and contractor licensing
   summary: A work session on Aug 25 covered proposed changes to the county building code. These include contractor license categories and annual fees, such as $50 for some licenses and $150 for OWTS cleaner and NAWT contractors. Rules for septic (OWTS) contractors are included.
   where: Countywide
   refs:
   - 9
   - 10
+  topics:
+  - Zoning & development
+  - Fees & rates
+  - Government operations
 - title: Stage II to Stage I fire ban
   summary: With the fire season and dry conditions, the commissioners considered a resolution on Sept 2 to move from a Stage II to a Stage I fire ban. They were to ratify it on Sept 10.
   where: Unincorporated Teller County
@@ -45,23 +62,36 @@
   - 13
   - 15
   - 19
+  topics:
+  - Fire & emergencies
+  - Environment & climate
 - title: Jail underground repair contract increase
   summary: A change order for Mid-Colorado Construction raises the not-to-exceed amount for jail underground repair investigation from $40,000 to $100,000 and extends the contract to June 30, 2027.
   where: Teller County Jail
   refs:
   - 23
   - 24
+  topics:
+  - Policing & public safety
+  - Government operations
 - title: Road funding and Victor water pipe leak
   summary: Commissioners discussed state Initiative 175 and House Bill 260, which would require highway funds to go to roads, and the effect of state budget cuts. They also reported on the Victor water pipe leak that left the city without water, which has been fixed while Victor seeks grants.
   where: Victor and Countywide
   refs:
   - 4
+  topics:
+  - Roads & traffic
+  - Water
+  - Budget & taxes
 - title: Pinestone Ranch project with Palmer Land Trust
   summary: Palmer Land Trust was scheduled to discuss the Pinestone Ranch project with the commissioners in an Oct 13 work session.
   where: Pinestone Ranch
   refs:
   - 25
   - 26
+  topics:
+  - Land & property
+  - Parks & open space
 - title: Lot line adjustments in Ranch Resorts and Highland Meadows
   summary: Staff recommended approval of two amended final plats. One adjusts the lot line between Lots 21 and 22 of Ranch Resorts of Colorado Subdivision No. 2 and creates a utility easement for power. The other adjusts the line between Lots 3 and 4 of Highland Meadows Filing 1, on Floresta Drive and Floresta Place, to resolve encroachments.
   where: Ranch Resorts of Colorado No. 2; Highland Meadows 1 (Floresta Drive and Place)
@@ -70,8 +100,15 @@
   - 2
   - 5
   - 6
+  topics:
+  - Land & property
+  - Zoning & development
 - title: Rosemont Reservoir variance and public health programs
   summary: A board meeting included a discussion of a variance for Rosemont Reservoir. Public health staff reported on a rise in suicides among men aged 45-65, the rural health grant, an emergency oxygen program, and reflective address signs for emergency response. The board also discussed the new Tamale Act and childcare facilities needing special use permits.
   where: Rosemont Reservoir; Countywide
   refs:
   - 22
+  topics:
+  - Health & human services
+  - Water
+  - Schools & youth

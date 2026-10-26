@@ -10,6 +10,10 @@
   tags:
   - data-center
   public_comment: true
+  topics:
+  - Data centers
+  - Zoning & development
+  - Environment & climate
 - title: Reunion Filing 39 final plat (Oakwood Homes)
   summary: Oakwood Homes asked for approval of a final plat creating 84 lots and six tracts in the Reunion PUD near Chambers Road and Heartland Drive. The Planning Commission heard it September 1, and a Council resolution approving the plat was set for a public hearing October 19. Written public comment and an applicant response are in the packet.
   where: Reunion PUD, Chambers Road and Heartland Drive
@@ -17,12 +21,19 @@
   - 40
   - 83
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
+  - Land & property
 - title: Shamrock Foods rezoning at 5199 Ivy Street
   summary: Shamrock Foods requested rezoning from I-2 to I-3 heavy industrial, plus a conditional use permit involving food oil, at 5199 Ivy Street. The Planning Commission heard it August 4 and Council had the rezoning ordinance on first reading October 5, with second reading set for November 16.
   where: 5199 Ivy Street, East 52nd Avenue and Ivy Street
   refs:
   - 7
   - 70
+  topics:
+  - Zoning & development
+  - Economic development
 - title: 'Annexations: Moreno Salas, Third Creek East, South Platte Crossing Phase 2, and enclaves'
   summary: 'Council considered several annexations: Moreno Salas at East 81st and Quebec, a property near Tower Road, Third Creek East, and South Platte Crossing Phase 2. A September 28 session also covered annexing surrounded enclaves.'
   where: East 81st Avenue and Quebec Street; Tower Road; other sites
@@ -31,6 +42,9 @@
   - 58
   - 65
   - 83
+  topics:
+  - Annexation
+  - Land & property
 - title: 2027 budget, mill levies and improvement districts
   summary: Council and the Urban Renewal Authority held preliminary 2027 budget sessions, and the E-470 and Northern Infrastructure improvement districts reviewed mill levy options. Public hearings to adopt the 2027 budgets and set the tax levy were scheduled for October 19.
   where: Citywide
@@ -47,6 +61,9 @@
   - 85
   - 86
   - 87
+  topics:
+  - Budget & taxes
+  - Utilities
 - title: Oil and gas development north of the city
   summary: A community open house on the Cord oil and gas development plan was held, and Chevron hosted a meeting on proposed oil and gas development north of the city. Council also set a study session request with Suncor.
   where: North of Commerce City
@@ -54,6 +71,9 @@
   - 2
   - 24
   - 70
+  topics:
+  - Oil, gas & mining
+  - Environment & climate
 - title: Land Development Code rezoning and amendments
   summary: The city is revising its 2025 Land Development Code, including a legislative rezoning project with proposed zoning maps, Ordinance 2795 and Tier 2 amendments. Public comment was included in packets and a joint study session was set for October 6.
   where: Citywide
@@ -67,12 +87,18 @@
   - 72
   - 83
   public_comment: true
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Hogan Property PUD amendment
   summary: Council took up an ordinance on second reading amending the Hogan Property PUD to consolidate development standards and expand the boundary at 15955 E 101st Way, covering 16.82 acres. Written public comment was submitted.
   where: 15955 E 101st Way
   refs:
   - 58
   public_comment: true
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Chambers Road widening and road impact fees
   summary: Council considered moving road impact fee funds to Phase I road widening projects, awarded a contract for work at Chambers Road and Heartland Drive, and set a project update for October 12.
   where: Chambers Road and Heartland Drive
@@ -81,6 +107,9 @@
   - 23
   - 77
   - 83
+  topics:
+  - Roads & traffic
+  - Fees & rates
 - title: Housing Action Plan and Commerce City Housing Authority
   summary: Council reviewed Commerce City Housing Authority projects and affordable housing developed, and a consultant presented a Housing Action Plan to Council and Planning Commission.
   where: Citywide
@@ -88,17 +117,26 @@
   - 77
   - 97
   - 98
+  topics:
+  - Housing
 - title: Crown Enterprises development plan at 10251 Newark Street
   summary: A development plan amendment for the Crown Enterprises property was continued to a later date set by staff.
   where: 10251 Newark Street
   refs:
   - 23
+  topics:
+  - Zoning & development
+  - Economic development
 - title: Municipal court, noise and code enforcement ordinances
   summary: Court staff presented draft ordinances on jury trials and compliance and enforcement, and Council discussed options for the municipal noise ordinance. Ordinances 2806 and 2807 were on the October 19 agenda.
   where: Citywide
   refs:
   - 65
   - 83
+  topics:
+  - Government operations
+  - Lawsuits & legal
+  - Policing & public safety
 - title: Public art and Police substation art
   summary: The Arts & Culture Commission discussed art for the new police substation, 96th Avenue public art, Second Creek Farm Park and the golf course.
   where: 96th Avenue; Second Creek Farm Park; police substation
@@ -107,9 +145,16 @@
   - 61
   - 91
   public_comment: true
+  topics:
+  - Libraries & culture
+  - Policing & public safety
+  - Parks & open space
 - title: Police mobile command unit purchase
   summary: Council considered a budget ordinance (2796) to buy a mobile command unit from the SACFD for the Police Department.
   where: Citywide
   refs:
   - 38
   - 58
+  topics:
+  - Policing & public safety
+  - Budget & taxes

@@ -5,6 +5,9 @@
   - 1
   - 3
   public_comment: true
+  topics:
+  - Annexation
+  - Elections
 - title: City Annexation Policy (Resolution 26-49)
   summary: Council took up a new Annexation Policy on Aug. 11, continued it, then moved to approve it on Aug. 25 with a minor three-word addition. A speaker asked for a timeline of public meetings in the annexation process.
   where: Citywide
@@ -12,6 +15,9 @@
   - 1
   - 3
   public_comment: true
+  topics:
+  - Annexation
+  - Government operations
 - title: Site Improvement Plan zoning amendment (Ordinance 26-06)
   summary: Council amended Section 27 (Site Improvement Plan) of the zoning ordinance, with first reading Aug. 11 and a public hearing and second reading Aug. 25. A speaker asked that comprehensive plan elements be left out of the process and for a more holistic review and an amendment, while another said it provides a clear and predictable process. A motion to adopt was made.
   where: Citywide
@@ -19,31 +25,46 @@
   - 1
   - 3
   public_comment: true
+  topics:
+  - Zoning & development
 - title: Coffee shop location on Castle Pines Parkway
   summary: A resident said at public comment on July 28 that she does not support the coffee shop's location on Castle Pines Parkway and wants the roadway opened.
   where: Castle Pines Parkway
   refs:
   - 0
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: Replats of Castle Pines North and Romar West filings
   summary: On July 28 council approved a series of replat resolutions (26-42 to 26-47), including Romar West 3rd Amendment, Castle Pines North Filings 27, 17A, 30 and 16, as part of a single motion.
   where: Castle Pines North
   refs:
   - 0
+  topics:
+  - Land & property
+  - Zoning & development
 - title: 'Parks projects: Coyote Ridge Park renovation and Soaring Hawk Park Phase 1'
   summary: The Parks and Recreation Advisory Board received updates on the Coyote Ridge Park renovation and Soaring Hawk Park Phase 1, and discussed trail signage and markers. On Aug. 25 council also awarded a construction contract for a parks project (Project No. 2026-PR-003, Resolution 26-52).
   where: Coyote Ridge Park and Soaring Hawk Park
   refs:
   - 2
   - 3
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Economic Development Strategic Plan
   summary: The Economic Development Strategic Plan came before council on Aug. 25, with the Chamber of Commerce speaking in favor of its approval.
   where: Citywide
   refs:
   - 3
   public_comment: true
+  topics:
+  - Economic development
 - title: 2025 audited financial statements
   summary: Finance Director Mike Farina presented the city's 2025 audited financial statements to council on Aug. 11.
   where: Citywide
   refs:
   - 1
+  topics:
+  - Budget & taxes

@@ -4,6 +4,9 @@
   refs:
   - 0
   public_comment: true
+  topics:
+  - Utilities
+  - Roads & traffic
 - title: RV park water and sewer rates
   summary: A resident asked the Board in August to charge Big Ben's RV park more for water and sewer, and in September asked for a review of water and sewer rates for RVs. Ben's RV Park also offered to donate $2,500 to the Town.
   where: Big Ben's RV Park
@@ -11,27 +14,46 @@
   - 0
   - 1
   public_comment: true
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
 - title: Wastewater permit regulations and sewer main cleaning
   summary: GMS Inc. told the Board in September that CDPHE has let the Town revert to its old permit compliance while GMS works on reports for the new regulations. The Town's permit expires in 2027. The Town also had sewer mains from Oak Street to Pine Street cleaned, as it usually spends about $5,000 a year on this.
   where: Townwide
   refs:
   - 0
   - 1
+  topics:
+  - Utilities
+  - Water
+  - Environment & climate
 - title: McCue RV permit at 214 Main Street
   summary: An RV permit application was moved from 120 Lincoln Ave to 214 Main Street, and the Board discussed what to charge for the RV sewer connection. In September it was explained that under the RV Ordinance no tap fee is required, so only the permit fee and backhoe use are charged, and the permit was moved for approval.
   where: 214 Main Street
   refs:
   - 0
   - 1
+  topics:
+  - Fees & rates
+  - Utilities
+  - Land & property
 - title: Park sprinkler system
   summary: The Clerk suggested using the RV park's $2,500 donation and Conservation Trust Funds for a simple sprinkler system at the town park. In September the Board discussed having town staff install it and renting a trencher.
   where: Town park
   refs:
   - 0
   - 1
+  topics:
+  - Parks & open space
+  - Water
+  - Budget & taxes
 - title: Speeding and traffic safety on College Ave and Lincoln Ave
   summary: The Board discussed putting speed bumps on College Ave and Lincoln Ave to address speeding. A trustee also noted a missing stop sign at Grant and Lincoln.
   where: College Ave, Lincoln Ave and Grant St
   refs:
   - 1
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Policing & public safety

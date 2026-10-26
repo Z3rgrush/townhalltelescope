@@ -14,6 +14,10 @@
   - 39
   - 45
   public_comment: true
+  topics:
+  - Annexation
+  - Zoning & development
+  - Tourism & events
 - title: 2nd & 3rd Avenue stormwater project, bond vote and Safe Routes to School
   summary: The $3.8M 2nd and 3rd Avenue stormwater and sidewalk project lost its FEMA BRIC grant. The town plans a 20-year loan of about $268K/year, offset by $259K/year from the voter-approved half-percent sales tax, and bond lawyers say a ballot vote is needed. The Board of Trustees went ahead with the Safe Routes to School sidewalk grant, but stormwater funding is not secured.
   where: 2nd & 3rd Avenues
@@ -29,6 +33,10 @@
   - 49
   - 50
   public_comment: true
+  topics:
+  - Utilities
+  - Budget & taxes
+  - Roads & traffic
 - title: Time-of-use electric rates and a proposed electric rate increase
   summary: Lyons is moving to time-of-use electric tiers. Business owners on the Economic Vitality Commission said they were not consulted, citing evening businesses like Main Stage. Southwest Power Pool raised transmission rates 50%, and the utility board's analysis projects a 9% shortfall that rates would need to cover in 2027. A meter-collar policy for solar customers and the nameplate billing issue are also under discussion. TOU rate changes are anticipated in March.
   where: Townwide
@@ -40,6 +48,10 @@
   - 32
   - 40
   - 52
+  topics:
+  - Energy
+  - Fees & rates
+  - Utilities
 - title: Wildfire mitigation, roof permits and fire code
   summary: Trustees discussed wildfire mitigation strategies, a mid-roof inspection and roof permit fee (Resolution 2026-45), and a town hall on fire risk in September. The town now operates under the state fire code, requiring fire-resistant roofing, and about 8 permits were issued after a hailstorm. A wildfire mitigation ordinance is being drafted by the town planner.
   where: Townwide
@@ -51,6 +63,10 @@
   - 35
   - 36
   public_comment: true
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Fees & rates
 - title: 2027 budget, supplemental 2026 items and resident survey
   summary: Staff and boards are preparing the 2027 budget. Trustees held budget workshops on Sept. 8 with a public input survey and a 5-year capital plan, and boards submitted requests, with a final budget expected in late October. Priorities cited include wastewater, stormwater and sidewalks.
   where: Townwide
@@ -63,6 +79,9 @@
   - 39
   - 52
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: Wastewater treatment facility upgrade
   summary: The town has a separate $5.8M wastewater plant need with about $2.5M saved and a $1.7M federal grant pending a January decision. Trustees saw a 60% design update on Sept. 21, and the utility board reviewed proposed process changes awaiting CDPHE approval.
   where: Wastewater treatment facility
@@ -71,6 +90,10 @@
   - 34
   - 35
   - 40
+  topics:
+  - Utilities
+  - Water
+  - Budget & taxes
 - title: Strategic growth and water supply element of the comprehensive plan (SB24-174)
   summary: The town is drafting a state-required strategic growth and water supply addendum to the comp plan. Staff say the water supply has ample margin, and the regional housing needs figure recommends preparing for 87 more housing units, which is not mandatory. Several boards reviewed it before Trustee review.
   where: Townwide
@@ -82,6 +105,10 @@
   - 36
   - 49
   - 50
+  topics:
+  - Water
+  - Housing
+  - Zoning & development
 - title: Sundance Film Festival housing ordinance and task force
   summary: Trustees adopted Ordinance 1222 on June 29 creating a Special Event Lodging License (SELL) for festival housing, requiring $1M liability insurance. The task force shifted toward private events and curated experiences, discussed transitioning under a nonprofit such as the Chamber, and was told to find $5,000 for beautification.
   where: Townwide
@@ -90,6 +117,10 @@
   - 15
   - 23
   - 42
+  topics:
+  - Tourism & events
+  - Short-term rentals
+  - Housing
 - title: Special event and park use fee waivers
   summary: The Parks and Recreation Commission recommended eligibility rules for special event fee waivers, and trustees took up the policy Aug. 17. The Economic Vitality and Historic Preservation commissions weighed in on local versus non-local entities.
   where: Town parks
@@ -97,6 +128,10 @@
   - 8
   - 11
   - 20
+  topics:
+  - Fees & rates
+  - Parks & open space
+  - Tourism & events
 - title: 402 Main Street water rights cash-in-lieu and Roots to Revival redevelopment
   summary: Roots to Revival asked to dedicate 1.4 Lake McIntosh shares plus cash in lieu for water at 402 Main Street, estimated at about $16.8K for the shares. Trustees ratified it by Resolution 2026-62 on the Oct. 19 agenda. The Urban Renewal Authority also tracks its redevelopment agreement.
   where: 402 Main Street
@@ -107,12 +142,20 @@
   - 40
   - 50
   - 52
+  topics:
+  - Water
+  - Downtown & business
+  - Zoning & development
 - title: Moss Rock hotel at 343-347 Main Street
   summary: The Urban Renewal Authority reviewed updates and a third amendment to the redevelopment agreement with Moss Rock for the Main Street hotel.
   where: 343-347 Main Street
   refs:
   - 33
   - 48
+  topics:
+  - Economic development
+  - Downtown & business
+  - Tourism & events
 - title: LED streetlight upgrade contract
   summary: Bids came in at $154K, far above estimates, largely due to CDOT traffic control on Main Street. Excluding Main Street lights the bid drops to $77.5K, in line with budget. Trustees considered awarding the contract to N-Line Electric (Resolution 2026-53). Dark Skies certification was also discussed.
   where: Townwide, Main Street
@@ -122,6 +165,10 @@
   - 32
   - 35
   - 40
+  topics:
+  - Utilities
+  - Roads & traffic
+  - Energy
 - title: Flagstone box culvert repairs
   summary: Staff presented the flagstone culvert investigation and planned repairs, supported by an approximately $482,000 DOLA grant, near 4th and 5th Streets, and asked the Historic Preservation Commission for feedback. Trustees consider an engineering contract amendment.
   where: 4th and 5th Streets
@@ -129,12 +176,19 @@
   - 20
   - 36
   - 39
+  topics:
+  - Utilities
+  - Historic preservation
+  - Roads & traffic
 - title: Automated license plate readers
   summary: Trustees discussed an automated license plate reader program, with a Flock Safety agreement among the materials.
   where: Townwide
   refs:
   - 25
   - 35
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
 - title: Vacant to Vibrant downtown incentive program
   summary: The Economic Vitality Commission is designing rebates for businesses filling vacant downtown spaces, floating up to 75% for projects under $5,000. Nothing is approved.
   where: Downtown Lyons
@@ -142,3 +196,6 @@
   - 8
   - 27
   - 47
+  topics:
+  - Downtown & business
+  - Economic development

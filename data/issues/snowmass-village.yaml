@@ -15,6 +15,10 @@
   - 39
   - 45
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
+  - Tourism & events
 - title: Housing mitigation rate and nexus study update
   summary: After raising the employee housing mitigation rate from 60% to 100% (Ordinance 1, 2026), Council is reviewing updated employee generation rates and a fee-in-lieu based on a 750 sf unit, 1.75 employees per unit and $945/SF. Council asked for more information on residential operations and maintenance rates and added residential remodels as a mitigating activity.
   where: Townwide
@@ -25,6 +29,9 @@
   - 24
   - 33
   - 45
+  topics:
+  - Housing
+  - Fees & rates
 - title: Draw Site workforce housing project
   summary: Council is reviewing next steps for the Draw Site workforce housing project as owner. The 2027 budget includes about $76.1 million for its construction.
   where: Draw Site
@@ -35,6 +42,9 @@
   - 43
   - 44
   - 45
+  topics:
+  - Housing
+  - Budget & taxes
 - title: 2027 Town budget
   summary: Staff describe the 2027 budget as exceptionally tight after a low-snow 2026 ski season, with capital funds depleted by completed projects. Total capital spending is about $108 million. Council budget meetings run Oct 5, 12 and 19, with adoption by resolution expected Nov 4. The Financial Advisory Board and Tourism commented.
   where: Townwide
@@ -47,12 +57,17 @@
   - 43
   - 44
   - 45
+  topics:
+  - Budget & taxes
 - title: Daly Lane employee housing sketch plan
   summary: The Snowmass Village Community Foundation, represented by TPEH, LLC, submitted a sketch plan for workforce housing on the Daly Lane site, reviewed at a joint Council and Planning Commission meeting Aug 17. Feedback from the March 2 pre-sketch meeting included increasing on-site parking.
   where: Daly Lane (parcel 273302420001)
   refs:
   - 11
   - 12
+  topics:
+  - Housing
+  - Zoning & development
 - title: Snowmass Mall transit center project
   summary: A new transit center at the Snowmass Mall with RFTA improvements is estimated at $42M to $60M depending on scope and parking. The Part-Time Resident Advisory Board agreed improvements are needed but worried about scale, funding and timing given the Ritz redevelopment, and suggested modest upgrades as an alternative.
   where: Snowmass Mall
@@ -60,6 +75,9 @@
   - 31
   - 32
   - 37
+  topics:
+  - Transit
+  - Budget & taxes
 - title: Wildfire mitigation program and fire authority agreement
   summary: The town has launched a wildfire mitigation contractor bidding process and a $1,000 homeowner rebate program administered by the RFV Wildfire Collaborative. Council considered a Memorandum of Understanding with Roaring Fork Fire Rescue Authority, and a personal property fire mitigation discussion was held Aug 3.
   where: Townwide
@@ -73,6 +91,9 @@
   - 24
   - 30
   - 33
+  topics:
+  - Fire & emergencies
+  - Environment & climate
 - title: Cavern Springs mobile home park funding
   summary: Council took up Ordinance 15 appropriating funds for the Cavern Springs Mobile Home Park, plus Resolution 23 on an IGA, housing covenants and a grant agreement. First reading was Sept 22 and second reading Oct 5.
   where: Cavern Springs Mobile Home Park
@@ -80,11 +101,17 @@
   - 30
   - 33
   - 38
+  topics:
+  - Housing
+  - Budget & taxes
 - title: SHOP final plan and PUD amendment
   summary: Council heard the SHOP Final Plan and PUD Amendment, Ordinance 14, on first reading Sept 8 and second reading Oct 5.
   refs:
   - 21
   - 38
+  topics:
+  - Zoning & development
+  - Housing
 - title: Highway 82 congestion fee and Glenwood South Bridge
   summary: Council saw a regional plan to cut Highway 82 traffic that combines incentives with a congestion fee estimated at $10–20 million a year. Glenwood Springs also asked for regional support for its roughly $77.5M South Bridge project, which has a ~$5M shortfall.
   where: Highway 82 corridor
@@ -92,6 +119,10 @@
   - 2
   - 3
   - 8
+  topics:
+  - Roads & traffic
+  - Fees & rates
+  - Transit
 - title: Noxious weed and pesticide spraying
   summary: Council discussed pesticide application Sept 8. The Environmental Advisory Board raised the lack of signage about trail spraying, and staff were asked for a more detailed noxious weed plan.
   where: Townwide trails
@@ -99,12 +130,18 @@
   - 19
   - 21
   - 22
+  topics:
+  - Environment & climate
+  - Recreation & trails
 - title: Show cause hearings over unpaid sales taxes
   summary: The Liquor Authority scheduled show cause hearings Aug 19 for licensees, including Il Poggio, accused of being delinquent on town sales tax. Licenses could be suspended or revoked.
   where: Snowmass Village
   refs:
   - 14
   - 15
+  topics:
+  - Cannabis & liquor
+  - Budget & taxes
 - title: Playground renovation at Town Park
   summary: The Parks board reviewed the playground renovation capital project, asking the vendor to show it can be themed with local motifs like the Mt Daly stripe and hot air balloons.
   where: Town Park
@@ -112,3 +149,6 @@
   - 9
   - 22
   - 40
+  topics:
+  - Parks & open space
+  - Schools & youth

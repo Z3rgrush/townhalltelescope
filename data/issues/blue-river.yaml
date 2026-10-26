@@ -13,6 +13,9 @@
   - 14
   - 15
   public_comment: true
+  topics:
+  - Short-term rentals
+  - Zoning & development
 - title: Transition Zone District lot size and setback rules (Ordinance 2026-06 and 2026-07)
   summary: The Board held a hearing on Ordinance 2026-06, which sets minimum lot size, lot width and setbacks in the Transition Zone District. Ordinance 2026-07 would put a Development Code in effect Oct. 1, 2026, on the condition that 2026-06 is in effect. Discussion covered consistency with R-1 standards and wetland and topography limits.
   where: Transition Zone District, Townwide
@@ -21,6 +24,9 @@
   - 3
   - 7
   public_comment: true
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Proposed 2027 budget and town finances
   summary: The Board was scheduled to hear a presentation and discuss the proposed 2027 budget on Oct. 20. Financial reports show a 10.459 mill levy after a temporary credit, and 2026 general property tax is projected at about $930,583.
   where: Townwide
@@ -28,50 +34,78 @@
   - 3
   - 14
   - 15
+  topics:
+  - Budget & taxes
 - title: Porch, deck and roof project at 6871 Highway 9 and wildfire code review
   summary: The Planning Commission found the application incomplete in August because it lacked wildfire-code measurements, a current survey and parking and second-access information on Highway 9. In September it found the revised materials adequate and approved the application. The Town Attorney advised on how far the Highway 9 Access Control Plan applies to minor projects.
   where: 6871 Highway 9
   refs:
   - 0
   - 6
+  topics:
+  - Zoning & development
+  - Fire & emergencies
+  - Roads & traffic
 - title: '1253 Indiana Creek Road residence: height, garages and carriage house'
   summary: The Commission held a pre-application session on a proposed home. Topics were the 35-foot height limit, whether recessed garage entrances count as basement entries, the 25% garage area limit, two separate living areas and a carriage house. The applicant was asked for revised exhibits showing existing and proposed grades.
   where: 1253 Indiana Creek Road
   refs:
   - 6
   - 11
+  topics:
+  - Zoning & development
+  - Housing
 - title: Sewer and septic concerns along Blue River Road
   summary: Residents raised aging septic systems and environmental concerns on Blue River Road. They asked the Town to explore grants, financing and partnerships for future sewer infrastructure.
   where: Blue River Road
   refs:
   - 7
   public_comment: true
+  topics:
+  - Utilities
+  - Environment & climate
+  - Water
 - title: Goose Pasture Tarn boat dock rules repealed
   summary: The Board considered Resolution 2026-10, repealing Resolution 13-05, which set rules and permits for private boat docks at Goose Pasture Tarn. The Town Attorney gave background and the Board moved to adopt it.
   where: Goose Pasture Tarn
   refs:
   - 2
   - 7
+  topics:
+  - Recreation & trails
+  - Government operations
 - title: Speeding and traffic calming on Indiana Creek Road
   summary: Residents raised speeding on Indiana Creek Road and asked for traffic-calming measures.
   where: Indiana Creek Road
   refs:
   - 7
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Policing & public safety
 - title: Summit School District mill levy override presentation (Measure 4A)
   summary: District representatives presented Ballot Measure 4A, a local mill levy override raising up to $5.9 million a year, and the statewide Proposition NN. About 76% of the 4A money would go to staff pay, and the district cited turnover and cost of living.
   where: Summit School District
   refs:
   - 15
+  topics:
+  - Schools & youth
+  - Budget & taxes
 - title: Summit County Hazard Mitigation Plan 2026 adoption
   summary: The Board was to consider Resolution 2026-13 adopting the Summit County Hazard Mitigation Plan 2026.
   where: Countywide
   refs:
   - 14
   - 15
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Government operations
 - title: Board policy on agenda item placement
   summary: Trustees discussed a draft bylaw policy setting a clear process for bringing items before the Board and supported moving it forward for formal consideration.
   where: Town Hall
   refs:
   - 2
   - 7
+  topics:
+  - Government operations

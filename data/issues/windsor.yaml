@@ -9,6 +9,10 @@
   tags:
   - data-center
   public_comment: true
+  topics:
+  - Data centers
+  - Zoning & development
+  - Water
 - title: Crossroads/Colorado Blvd roundabout construction phasing
   summary: Contractor AB Underground asked to fully close Crossroads Boulevard east of Colorado Boulevard during Phase 2, saying two-way traffic is too constrained to build safely. The change could speed the project and allow NISP water casing installation in one operation, but it requires a detour. The Town Board reviewed it September 21.
   where: Crossroads Blvd and Colorado Blvd
@@ -16,6 +20,9 @@
   - 0
   - 33
   - 34
+  topics:
+  - Roads & traffic
+  - Water
 - title: 2027 budget, staffing and revenue decline
   summary: Staff are preparing the 2027 budget with falling property tax and oil and gas revenue. Several positions, including Deputy Police Chief, Deputy Town Attorney and Transportation Planner/Engineer, are not recommended. Work sessions covered revenue estimates, staffing, capital projects and operations, with the general fund getting 67% of sales tax and capital 33%.
   where: Townwide
@@ -28,6 +35,9 @@
   - 33
   - 42
   - 43
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: 2027 water, sewer and stormwater rate increases
   summary: A Stantec rate study proposes a 20% sewer rate increase in 2027 and steep water increases through 2028. Drivers are the new wastewater treatment plant (about $154M Windsor share) and NISP water project debt. The Water and Sewer Board and Town Board reviewed it in October.
   where: Townwide
@@ -37,11 +47,18 @@
   - 51
   - 59
   - 60
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
 - title: Glade Inlet Canal Diversion grant (NISP)
   summary: The NISP Enterprise is applying for a $3,000,000 Bureau of Reclamation grant for the Glade Inlet Canal Diversion Improvements. Windsor holds about 15% of the project, so a grant would save the Town an estimated $450,000.
   where: Glade Inlet Canal
   refs:
   - 14
+  topics:
+  - Water
+  - Budget & taxes
 - title: Hollister Lake Metropolitan District service plan
   summary: The Town Board discussed and scheduled an ordinance to approve the service plan for Hollister Lake Metropolitan District and an intergovernmental agreement for October 26.
   where: Hollister Lake
@@ -49,6 +66,9 @@
   - 52
   - 61
   - 62
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Windsor Lake Road / Weld County Road 70 extension right-of-way
   summary: The Town is acquiring right-of-way and easements for the Windsor Lake Road extension connecting Hollister Lake Road to SH 257, including properties in Windsor Estates. The Board also planned an executive session on negotiations about the road.
   where: Windsor Lake Road / Hollister Lake Road to SH 257
@@ -56,6 +76,9 @@
   - 37
   - 46
   - 47
+  topics:
+  - Roads & traffic
+  - Land & property
 - title: Proposition 123 affordable housing opt-in
   summary: The Town Board discussed and scheduled a resolution expressing intent to commit to Proposition 123 for affordable housing on October 26.
   where: Townwide
@@ -63,24 +86,35 @@
   - 44
   - 61
   - 62
+  topics:
+  - Housing
 - title: Sign code update
   summary: Consultants presented a draft overhaul of Windsor's sign code to implement the 2024 Comprehensive Plan. A public hearing draft is expected in September, Planning Commission in October or November, and adoption in early December.
   where: Townwide
   refs:
   - 10
   - 11
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Keeping of large animals in Estate Residential zones
   summary: Staff proposed amending the code so large domestic animals are allowed on ER lots at one acre per animal. The review followed inquiries and a recent conditional use permit hearing for goats or a horse on a 1.47-acre lot.
   where: Estate Residential neighborhoods
   refs:
   - 44
   - 45
+  topics:
+  - Zoning & development
+  - Agriculture & wildlife
 - title: Timberline Church stealth silo wireless tower
   summary: Planning Commission scheduled hearings on a 50-foot stealth silo wireless tower and conditional use permit at Timberline Church.
   where: 22918 County Road 17
   refs:
   - 56
   - 57
+  topics:
+  - Zoning & development
+  - Broadband
 - title: GWIP annexation and Walmart Supercenter concerns
   summary: A resident-expressed frustration about lights affected her quality of life, and the Mayor referenced the public hearing on annexing the GWIP property, saying the Board listens to public comment. Earlier notes said the Board approved Walmart Supercenter site plans, which was not well received.
   where: Great Western Industrial Park; Main Street/Hwy 392
@@ -88,6 +122,9 @@
   - 0
   - 14
   public_comment: true
+  topics:
+  - Annexation
+  - Zoning & development
 - title: American Legion funding request for ADA improvements
   summary: American Legion Post 109 asked the Town for financial help with ADA access to its building, which sits about five feet above grade.
   where: 624 Ash Street
@@ -95,9 +132,16 @@
   - 28
   - 29
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Health & human services
 - title: Recreation center tax survey and future ballot
   summary: A Magellan survey found 48% support for a 0.8% tax for another rec center, and the Town will wait a year or two before returning to voters. The fire department plans a property tax request in November.
   where: Townwide
   refs:
   - 0
   - 16
+  topics:
+  - Budget & taxes
+  - Elections
+  - Recreation & trails

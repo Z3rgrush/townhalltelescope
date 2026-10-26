@@ -3,16 +3,25 @@
   where: Citywide
   refs:
   - 3
+  topics:
+  - Utilities
+  - Energy
+  - Elections
 - title: 2026 city budget and tax levy ordinances
   summary: Council is slated to introduce Ordinance No. 6 adopting the city budget and appropriating money, and Ordinance No. 8 levying taxes for 2026. Introduction is set for Oct. 6.
   where: Citywide
   refs:
   - 3
+  topics:
+  - Budget & taxes
 - title: Four Mile Project legal advice
   summary: Council planned an executive session on Oct. 6 to receive legal advice about the Four Mile Project. The documents give no further detail.
   where: Four Mile Project
   refs:
   - 3
+  topics:
+  - Lawsuits & legal
+  - Zoning & development
 - title: 'Entertainment Advisory Board events: car show, Music on the Plaza, Get To Know Glendale'
   summary: The advisory board's teams are working on a car show, Music on the Plaza and a Get To Know Glendale effort. They prepared presentations to City Council on 9/1 and are reviewing the budget and proposed activities in October.
   where: 950 S Birch Street
@@ -21,13 +30,21 @@
   - 1
   - 2
   - 4
+  topics:
+  - Tourism & events
+  - Downtown & business
 - title: Infinity Park discussion
   summary: Infinity Park is a discussion item at the Oct. 6 City Council meeting, presented by Kieran Nelson. The agenda does not say what is being discussed.
   where: Infinity Park
   refs:
   - 3
+  topics:
+  - Recreation & trails
+  - Parks & open space
 - title: Ordinance corrections to Ordinance No. 1 references
   summary: Council is to introduce Ordinance No. 5, which amends and corrects reference numbers from Ordinance No. 1 of 2026.
   where: Citywide
   refs:
   - 3
+  topics:
+  - Government operations

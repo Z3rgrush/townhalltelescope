@@ -4,6 +4,10 @@
   refs:
   - 15
   - 16
+  topics:
+  - Roads & traffic
+  - Downtown & business
+  - Utilities
 - title: FY2027 town budget
   summary: The Board held a Budget Workday on Oct. 2 and a public Budget Boo-nanza, with the draft 2027 budget presented Oct. 13 for public comment. Plans include capital projects across funds, a proposed delay in a sewer rate adjustment and a $2,000,000 General Fund loan to the Sewer Fund. Adoption is expected Nov. 10.
   where: Townwide
@@ -17,6 +21,9 @@
   - 24
   - 25
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Fees & rates
 - title: Flock license plate cameras and Sheriff contract
   summary: The Larimer County Sheriff's Office presented on Flock automated license plate reader cameras at locations including Highway 1/CR 9, I-25 Frontage Road/Jefferson and 6th Street/Cleveland. The Town budgeted $17,000 after a grant to offset costs was not awarded, and the Sheriff contract was on the Oct. 2 budget agenda.
   where: Highway 1/CR 9, I-25 Frontage Rd/Jefferson Ave, 6th St/Cleveland Ave, CR 7/CR 64
@@ -25,6 +32,9 @@
   - 7
   - 18
   - 19
+  topics:
+  - Policing & public safety
+  - Budget & taxes
 - title: Metropolitan district model service plan and review policy
   summary: The Board is developing a model service plan and review criteria for metro district proposals, including what public benefit justifies special district financing and possible mill levy limits (a 60 mill combined total was discussed). Work sessions were held Sept. 22 and Oct. 20.
   where: Townwide
@@ -32,12 +42,19 @@
   - 17
   - 26
   - 27
+  topics:
+  - Zoning & development
+  - Budget & taxes
+  - Government operations
 - title: Economic development incentive policy
   summary: The Board gave direction on a draft incentive framework focused on commercial development and adopted Resolution 36-2026 on Aug. 25. Tap fee incentives would need significant justification and performance metrics, and a Downtown Development Authority was requested for inclusion.
   where: Townwide
   refs:
   - 3
   - 8
+  topics:
+  - Economic development
+  - Fees & rates
 - title: Housing affordability, Prop 123 and housing studies
   summary: The town is pursuing a Proposition 123 affordable housing commitment, a Colorado Energy Office Local IMPACT Accelerator grant, and a Housing Needs Assessment update leading to a Housing Action Plan expected in 2027. The NoCo Foundation also briefed the Board on regional housing needs.
   where: Townwide
@@ -50,18 +67,27 @@
   - 21
   - 22
   - 23
+  topics:
+  - Housing
 - title: Public safety sales and use tax ballot question
   summary: The Board considered Resolution 30-2026 supporting referral of a public safety sales and use tax question to the Nov. 3, 2026 ballot.
   where: Townwide
   refs:
   - 0
   - 1
+  topics:
+  - Budget & taxes
+  - Policing & public safety
+  - Elections
 - title: Sage Meadows Tract D replat and Kerbel Well parcel rezoning
   summary: The Board held hearings on plat approvals for Sage Meadows Tract D Replat and Tract D2, which includes an adjacent Colorado State University parcel for the Kerbel Well and a rezone from R-2 Residential Low Density.
   where: Sage Meadows subdivision
   refs:
   - 0
   - 1
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Parks master plan, community center and park improvements
   summary: The PROST board is implementing the new Master Plan and a community center feasibility study, toured east side parks (Sunrise, Park Meadows, Wellville), and discussed signage and ADA accessible playground ideas at Sunrise Park. A Girl Scout Gold Award project proposes accessible playground improvements.
   where: Sunrise Park, Park Meadows, Wellville Park, Harvest Park
@@ -72,6 +98,9 @@
   - 12
   - 24
   - 25
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Building, fire code and floodplain code updates
   summary: The Board adopted Ordinance 11-2026 updating building and fire codes to align with the Wellington Fire Protection District's 2024 fire code, including solar-ready requirements. Floodplain amendments to the Land Use Code (Ordinance 13-2026) were recommended by the Planning Commission to align with FEMA's model ordinance.
   where: Townwide
@@ -83,6 +112,9 @@
   - 20
   - 21
   - 22
+  topics:
+  - Zoning & development
+  - Fire & emergencies
 - title: Water supply concerns and Box Elder Stormwater Authority
   summary: A resident repeatedly raised water concerns, asking the Board to look at options beyond reliance on Lake 3 and recommending action on the Box Elder Stormwater Authority.
   where: Townwide
@@ -90,8 +122,14 @@
   - 3
   - 8
   public_comment: true
+  topics:
+  - Water
 - title: Xcel Energy public safety power shutoffs
   summary: Xcel briefed the Board on wildfire risk mapping and power shutoffs, noting undergrounding work and that water and wastewater plants are critical facilities.
   where: Townwide
   refs:
   - 8
+  topics:
+  - Energy
+  - Fire & emergencies
+  - Utilities

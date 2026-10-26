@@ -12,6 +12,10 @@
   - 20
   tags:
   - data-center
+  topics:
+  - Data centers
+  - Zoning & development
+  - Utilities
 - title: Warehouse definitions and other Municipal Code text amendments
   summary: Staff proposed splitting the 'warehouse' definition into Local and Regional types (20,000 sq ft threshold) allowed in light industrial and industrial zones, after inquiries about where large warehouses can locate. The package also covers ADU size, height, lot line and variance application requirements and site plan rules. The ADU ordinance was set for a City Council public hearing October 21.
   where: Citywide
@@ -22,12 +26,19 @@
   - 12
   - 21
   - 22
+  topics:
+  - Zoning & development
+  - Housing
 - title: Rifle Business Incubator Center branch and 2027 budget
   summary: The City asked the Grand Junction Business Incubator Center to price creating and running a Rifle branch focused on downtown startups. The current budget has $100k for it, and the finalized proposal raises the request to $137k, with a USDA grant request mentioned. It was to feed into the Council budget workshop on October 21, 2026.
   where: Downtown Rifle
   refs:
   - 21
   - 22
+  topics:
+  - Economic development
+  - Downtown & business
+  - Budget & taxes
 - title: 2026 Water System Improvements Project bid
   summary: City Council was asked on October 21 to award the bid for the Rifle 2026 Water System Improvements Project to Martinez Western Constructors Inc. A Water Rights Report was also on the October 14 Council agenda.
   where: Citywide
@@ -36,6 +47,9 @@
   - 20
   - 21
   - 22
+  topics:
+  - Water
+  - Utilities
 - title: Proposition 123 affordable housing commitment and housing needs study
   summary: Council was asked to consider the city's Proposition 123 commitment of affordable and attainable housing units. The Planning Commission also considered an amended 2025 Rooted in Rifle Housing Needs document.
   where: Citywide
@@ -44,6 +58,8 @@
   - 12
   - 21
   - 22
+  topics:
+  - Housing
 - title: GRIT downtown grants, façade improvements and wayfinding
   summary: The GRIT board funded four grant applications totaling $22,200 and considered façade improvement grants for 126 W. 4th Street and ProMex at 233 Railroad Ave. It also discussed downtown wayfinding consultant selection, a proposed Third Street shade structure (about $20,000-$30,000 for roughly 400 sq ft), the 2027 GRIT budget, and a lodging-tax-funded participatory budgeting pilot.
   where: Downtown Rifle
@@ -54,6 +70,10 @@
   - 9
   - 17
   - 18
+  topics:
+  - Downtown & business
+  - Economic development
+  - Tourism & events
 - title: Rifle Community Foundation restructuring and grant awards
   summary: After the board president's resignation, the Foundation recommended becoming a board under the City instead of a separate 501(c)(3), focused on grant decisions. It reviewed about a dozen grant requests, including $30,000 from Discovery Cafe and $6,250 from Health Solutions West.
   where: Citywide
@@ -62,6 +82,9 @@
   - 16
   - 21
   - 22
+  topics:
+  - Government operations
+  - Health & human services
 - title: Parks and Recreation plans, budget and park projects
   summary: The Parks board took up the 2027-2028 Strategic Plan, the 2027 budget request, a Metro Pool weather closure policy, and letters of support for grants for the Centennial Park riparian restoration and a CPW outdoor equity program. A skate park comment was on the October agenda, and a bike rack for Rifle Mountain Park was on the list.
   where: Rifle parks, Centennial Park, Rifle Mountain Park
@@ -72,6 +95,10 @@
   - 13
   - 14
   public_comment: true
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Budget & taxes
 - title: Recognition plaque request at Rifle Mountain Park
   summary: Jim Bell asked to place a recognition plaque by an apple tree between the ice caves. Staff supplied the city's Parks and Facilities Naming Policy, under which the advisory board reviews and City Council gives final approval.
   where: Rifle Mountain Park
@@ -80,6 +107,9 @@
   - 13
   - 14
   public_comment: true
+  topics:
+  - Parks & open space
+  - Government operations
 - title: Planning hearings on specific properties
   summary: The Planning Commission scheduled hearings on a conditional use permit at 214 W 16th St, a CUP at 799 Buckhorn, a variance at 758 Railroad Ave, and a minor subdivision at 1317 E 17th St.
   where: 214 W 16th St; 799 Buckhorn; 758 Railroad Ave; 1317 E 17th St
@@ -88,3 +118,6 @@
   - 1
   - 6
   - 7
+  topics:
+  - Zoning & development
+  - Land & property

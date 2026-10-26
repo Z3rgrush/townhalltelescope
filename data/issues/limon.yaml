@@ -3,8 +3,13 @@
   where: Limon Municipal Airport
   refs:
   - 0
+  topics:
+  - Airports
 - title: Water and sewer projects report
   summary: The City Council agenda for August 6, 2026 includes a report on water and sewer projects. The agenda does not name specific projects, costs or schedules.
   where: Citywide
   refs:
   - 0
+  topics:
+  - Water
+  - Utilities

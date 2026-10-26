@@ -7,6 +7,9 @@
   - 10
   - 21
   public_comment: true
+  topics:
+  - Short-term rentals
+  - Zoning & development
 - title: Data center moratorium discussion
   summary: The Planning and Zoning Commission scheduled a general discussion of a data center moratorium for its Oct. 21 meeting. The documents give no detail on the proposal or any decision.
   where: Townwide
@@ -15,6 +18,9 @@
   - 33
   tags:
   - data-center
+  topics:
+  - Data centers
+  - Zoning & development
 - title: R-2 OT zoning change for two-family and small multifamily housing
   summary: Developers from The Crossing and a resident asked the Planning and Zoning Commission to amend the R-2 OT zone to allow small multifamily and attached townhome/duplex projects, citing demand for lower price points and rents. The Commission discussed party wall standards, 3-foot side setbacks, articulation, and whether to require a special use permit for larger lots. Staff were to bring formal code amendments back, with consideration set for Nov. 4, and the Historic Preservation Commission was asked for feedback on over/under duplexes.
   where: R-2 OT zone district, including The Crossing
@@ -26,6 +32,9 @@
   - 32
   - 33
   public_comment: true
+  topics:
+  - Housing
+  - Zoning & development
 - title: 2027 Town budget and fee schedule
   summary: The Town Treasurer presented the preliminary 2027 budget in July and August, followed by department head and advisory board budget work sessions and public hearings on Sept. 8, Sept. 22 and Oct. 13. A draft 2027 fee schedule was also under review, and advisory boards such as Beautification ($12,700 request) put in their requests.
   where: Townwide
@@ -39,6 +48,9 @@
   - 21
   - 29
   - 30
+  topics:
+  - Budget & taxes
+  - Fees & rates
 - title: Boys & Girls Club new facility at 710 Cedar Street
   summary: The Planning and Zoning Commission held a public hearing on the major site plan for a new Boys & Girls Club facility on a 0.729-acre town-owned lot at 710 Cedar Street. A neighbor wrote in support and asked about on-street parking. The Board of Trustees also considered a second amendment to the ground lease and assignment of the lease to Great Futures BV, Inc.
   where: 710 Cedar Street
@@ -49,27 +61,44 @@
   - 23
   - 33
   public_comment: true
+  topics:
+  - Schools & youth
+  - Land & property
+  - Zoning & development
 - title: Rustic Haven cohousing site plan
   summary: The Planning and Zoning Commission held a public hearing on the Rustic Haven major site plan, a cohousing community on 2.2 acres that keeps 9 existing cabin structures (11 units). Staff recommended a water audit to confirm infrastructure can support the plan. Residents spoke in support, and a neighbor raised fence and livestock concerns.
   where: Rustic Haven property (2.2 acres)
   refs:
   - 1
   public_comment: true
+  topics:
+  - Housing
+  - Zoning & development
+  - Water
 - title: South Main PUD development agreement amendment
   summary: The Board of Trustees considered Resolution 2026-55 approving a first amendment to the amended and restated development agreement for the South Main PUD. The documents do not state the outcome.
   where: South Main PUD
   refs:
   - 0
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Cottonwood Lake Dam and Spillway project
   summary: The Board reviewed bids and considered authorizing funds for the Cottonwood Lake Dam and Spillway Project through a contract with the Upper Arkansas Water Conservancy District.
   where: Cottonwood Lake
   refs:
   - 0
+  topics:
+  - Water
+  - Parks & open space
 - title: CDOT Park-n-Ride on U.S. Highway 24
   summary: The Board considered Resolution 2026-56, an intergovernmental agreement with the State of Colorado for construction of a park-n-ride on U.S. Highway 24.
   where: U.S. Highway 24
   refs:
   - 0
+  topics:
+  - Transit
+  - Roads & traffic
 - title: Water rate study and water efficiency planning
   summary: The Water Advisory Board and Trustees have been reviewing the utility rate study by Swiftwater Solutions, including a 10-year financial plan, along with a Water Conservation Plan. The Urban Land Institute held water-efficiency sessions on local development and landscaping practices, with community roundtables.
   where: Townwide
@@ -79,6 +108,10 @@
   - 21
   - 30
   - 31
+  topics:
+  - Water
+  - Fees & rates
+  - Environment & climate
 - title: Transportation Master Plan
   summary: Staff and consultant KLJ introduced the Transportation Master Plan, a 10-20 year roadmap. Top community priorities are safe crossings of major roads and the railroad, paved multimodal trails, and a parking strategy.
   where: Townwide, including US 24 and railroad crossings
@@ -86,6 +119,10 @@
   - 1
   - 7
   - 10
+  topics:
+  - Roads & traffic
+  - Recreation & trails
+  - Transit
 - title: Housing Needs Assessment and Proposition 123 commitments
   summary: Buena Vista is part of a regional Housing Needs Assessment with Chaffee County and Salida due by end of 2026. The Board also considered a Proposition 123 regional MOU with credit transfers and the town's 2027-2029 affordable housing commitment.
   where: Chaffee County region
@@ -93,6 +130,9 @@
   - 10
   - 16
   - 21
+  topics:
+  - Housing
+  - Government operations
 - title: Sangre de Cristo Electric tree work permit
   summary: SDCEA applied for a right-of-way tree work permit for removals and pruning along its primary power lines in the southwest part of town, based on a tree inventory by Noble Resources Group. It was presented to the Trustees on Sept. 8, and the Tree Advisory Board was tracking the permit.
   where: Southwest Buena Vista
@@ -101,6 +141,9 @@
   - 14
   - 16
   - 24
+  topics:
+  - Utilities
+  - Environment & climate
 - title: Wildfire resiliency code amendments and fire district ballot issue 6A
   summary: The Board held a hearing on Ordinance 2026-15 adding local amendments to the 2025 Colorado Wildfire Resiliency Code. It later considered a resolution supporting Ballot Issue 6A to include all town property in the Chaffee County Fire Protection District.
   where: Townwide
@@ -108,13 +151,23 @@
   - 5
   - 29
   - 30
+  topics:
+  - Fire & emergencies
+  - Elections
+  - Environment & climate
 - title: Law enforcement intergovernmental agreements
   summary: The Board considered resolutions for a regional tactical response team with the Sheriff's Office and law enforcement mutual aid, and one terminating the town's participation in another collective agreement.
   where: Countywide
   refs:
   - 16
+  topics:
+  - Policing & public safety
+  - Government operations
 - title: Pearl building stabilization and historic roof at St. Rose of Lima
   summary: The Town is shoring up the historic Pearl building, with the expectation of stepping away by year end. The Historic Preservation Commission also approved a roof replacement at the former St. Rose of Lima church, home to Shining Mountains Montessori, with recommendations for a closer shingle match and a State Historical Fund grant.
   where: 343 (St. Rose of Lima) and the Pearl building
   refs:
   - 2
+  topics:
+  - Historic preservation
+  - Land & property

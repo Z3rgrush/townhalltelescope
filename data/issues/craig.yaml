@@ -3,17 +3,26 @@
   where: 'TBD West 1st Street (Parcel #085501200008)'
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Economic development
 - title: Local Marketing District dissolution fund grants
   summary: Council approved the Economic Development Advisory Committee's recommendations for grants from the Local Marketing District dissolution fund. Awards included $15,000 for the Moffat County Balloon Festival, $4,000 for the Bear River Young Life car show, $15,000 for Powder Mountain Ventures/Powderbound Adventure, and $3,500 for another request. The Downtown Business Association Rock Fest also had a request approved.
   where: Citywide
   refs:
   - 3
+  topics:
+  - Economic development
+  - Tourism & events
 - title: Moratorium extension on certain business applications
   summary: Council was scheduled to consider Resolution No. 33 (2026), which would extend and reimpose a moratorium on submitting, accepting, processing and approving applications for the establishment of a certain type of business. The agenda text does not say which type of business.
   where: Citywide
   refs:
   - 4
   - 5
+  topics:
+  - Zoning & development
+  - Government operations
 - title: Mike Thompson hobby shop site plan at 791 Industrial Ave.
   summary: The Planning and Zoning Commission was asked to recommend a site plan for a personal hobby shop at 791 Industrial Ave. in Green Tree Business Park. The site plan then went to a Council public hearing on October 13.
   where: 791 Industrial Ave., Green Tree Business Park, Lot 6, Block 1
@@ -22,11 +31,17 @@
   - 2
   - 4
   - 5
+  topics:
+  - Zoning & development
 - title: Tunatua RV Resort deferred amenities agreement
   summary: The Planning and Zoning Commission was to consider a recommendation to Council on a Deferred Recreational Amenities and Certificate of Occupancy Agreement for the Tunatua RV Resort.
   where: 4175 W US-40
   refs:
   - 6
+  topics:
+  - Zoning & development
+  - Recreation & trails
+  - Tourism & events
 - title: Business Plan Competition and school bond measure presentations
   summary: On October 13 Council was to hear from the City Manager and the Economic Development Advisory Committee chair on the Business Plan Competition. Cuyler Meade of 4A for Moffat County Kids was also to present a school bond measure.
   where: Citywide
@@ -34,15 +49,25 @@
   - 3
   - 4
   - 5
+  topics:
+  - Schools & youth
+  - Economic development
+  - Budget & taxes
 - title: Timberg vacant land plan at Pine Street and East 12th Street
   summary: Bruce Timberg was to present a tentative plan to the Planning and Zoning Commission for vacant land he owns east of Pine Street and East 12th Street.
   where: East of Pine Street and East 12th Street
   refs:
   - 1
   - 2
+  topics:
+  - Land & property
+  - Zoning & development
 - title: Carbon Free Futures Development Advisory Board representative
   summary: Council was to consider Resolution No. 32 (2026) designating Rich Thompson as the city's representative to the Carbon Free Futures Development Advisory Board.
   where: Citywide
   refs:
   - 4
   - 5
+  topics:
+  - Energy
+  - Government operations

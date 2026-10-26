@@ -6,12 +6,19 @@
   - 11
   - 19
   public_comment: true
+  topics:
+  - Parks & open space
+  - Tourism & events
+  - Zoning & development
 - title: 'Charter amendment ordinances (Ordinance #17) on changing city elections'
   summary: Council moved two alternative Home Rule Charter amendment ordinances forward on first reading so the public could speak on both options. At the Aug. 25 public hearing, staff said a runoff has significant issues outlined in a memo, and a councilor was uncomfortable moving it forward without more outreach.
   where: Citywide
   refs:
   - 5
   - 11
+  topics:
+  - Elections
+  - Government operations
 - title: Entrance to Aspen (CO 82) reevaluation and historic mitigation
   summary: The city is working on a refined preferred alternative for the CO 82 Entrance to Aspen. Council received an amended information update, and the Historic Preservation Commission scheduled a mitigation discussion and requested CDOT historic resources survey information.
   where: CO 82 entrance to Aspen
@@ -20,6 +27,10 @@
   - 19
   - 28
   - 29
+  topics:
+  - Roads & traffic
+  - Historic preservation
+  - Transit
 - title: Affordable housing fee-in-lieu 5-year update and Q2 requests
   summary: Council approved a Q2 batch of fee-in-lieu requests for several properties, including 1335 Riverside Drive and 807 McSkimming Road. The five-year study was then reviewed by Council on Sept. 14 and by Planning & Zoning on Oct. 7 for a recommendation. Council also discussed affordable housing credit certificates.
   where: Citywide
@@ -28,12 +39,19 @@
   - 4
   - 16
   - 27
+  topics:
+  - Housing
+  - Fees & rates
 - title: 'Local fee deferral program for qualified locals (Ordinance #11)'
   summary: 'Planning & Zoning held hearings on Aug. 19 and Sept. 2 on a recommendation for Ordinance #11, which would create a fee deferral program for qualified locals.'
   where: Citywide
   refs:
   - 8
   - 13
+  topics:
+  - Fees & rates
+  - Housing
+  - Zoning & development
 - title: 121-123 East Hyman Avenue special review
   summary: Planning & Zoning heard this special review at three hearings (Aug. 5, Sept. 2, Oct. 21). A public comment from the Good Thunder Condos was submitted in October.
   where: 121-123 East Hyman Avenue
@@ -42,6 +60,9 @@
   - 13
   - 31
   public_comment: true
+  topics:
+  - Zoning & development
+  - Historic preservation
 - title: 2027 city budget work sessions
   summary: Council held three budget work sessions in October covering fund overviews, the capital budget, and supplemental requests and fees. A Community Development fee update and the APCHA 2027 budget request were also discussed.
   where: Citywide
@@ -50,11 +71,18 @@
   - 25
   - 26
   - 30
+  topics:
+  - Budget & taxes
+  - Fees & rates
 - title: Water treatment plant improvements and bond question
   summary: Council considered an amendment to the early work package scope and price for the Water Treatment Facility Improvements Project and a Holy Cross Electric contract for easements and conduit. It also considered a resolution supporting a water treatment plant bond question on the ballot.
   where: Water treatment facility
   refs:
   - 23
+  topics:
+  - Water
+  - Utilities
+  - Budget & taxes
 - title: Drought, wildfire and Ruedi water supply
   summary: Staff reported on a regional drought response using Ruedi Reservoir supplies, and a joint Council/County session covered fire fuel mitigation and purchase of Twin Lakes water right shares. A resident warned of low flows and nearby fires.
   where: Countywide
@@ -64,27 +92,45 @@
   - 17
   - 25
   public_comment: true
+  topics:
+  - Water
+  - Fire & emergencies
+  - Environment & climate
 - title: E-bike and e-moto rules and Rio Grande Trail safety
   summary: A resident asked Council to pursue valley-wide e-bike and e-moto rules, including licensing and a minimum age of 16. The mayor said other towns face the same problems and locals no longer feel comfortable on the Rio Grande Trail.
   where: Rio Grande Trail
   refs:
   - 11
   public_comment: true
+  topics:
+  - Recreation & trails
+  - Policing & public safety
+  - Transit
 - title: Armory Hall redevelopment
   summary: Council approved a builders risk change order for the Armory Hall project with Shaw Construction and received an interior update at an Oct. 19 work session.
   where: Armory Hall
   refs:
   - 18
   - 30
+  topics:
+  - Historic preservation
+  - Government operations
 - title: Main Street inlet and pedestrian improvements and Cemetery Lane
   summary: Council considered supplemental funding and an expanded culvert-lining scope for the Main Street inlet and pedestrian project. The Cemetery Lane pedestrian project began Aug. 10 and caused commute delays.
   where: Main Street and Cemetery Lane
   refs:
   - 5
   - 18
+  topics:
+  - Roads & traffic
+  - Utilities
 - title: Golf clubhouse area master plan
   summary: Council reviewed the concept design for the golf clubhouse and campus master plan in September, with a follow-up report on Sept. 28.
   where: Aspen golf course clubhouse
   refs:
   - 16
   - 22
+  topics:
+  - Recreation & trails
+  - Parks & open space
+  - Zoning & development

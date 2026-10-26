@@ -6,6 +6,10 @@
   - 29
   - 34
   - 39
+  topics:
+  - Economic development
+  - Zoning & development
+  - Land & property
 - title: Development Standards Overhaul
   summary: Staff briefed the commissioners in August and September on a comprehensive rewrite of the county's Development Standards and Regulations. The Planning Commission was scheduled to hear a text amendment plus zoning map amendments to align the map with the new standards on Oct 22.
   where: Unincorporated Adams County
@@ -13,6 +17,8 @@
   - 5
   - 25
   - 39
+  topics:
+  - Zoning & development
 - title: 2027 county budget
   summary: Commissioners heard 2027 budget presentations from nearly every department and office in late August and early September, including Public Works, Human Services, the Sheriff, Public Health and the Air & Space Port. The County Manager's 2027 Proposed Budget was on the Oct 13 hearing agenda, and budget development continued Oct 14.
   where: Countywide
@@ -22,18 +28,27 @@
   - 17
   - 35
   - 36
+  topics:
+  - Budget & taxes
 - title: Buffers between new development and oil and gas facilities
   summary: The commissioners and Planning Commission were briefed on setbacks between new development and existing oil and gas facilities in August.
   where: Unincorporated Adams County
   refs:
   - 3
   - 8
+  topics:
+  - Oil, gas & mining
+  - Zoning & development
 - title: Battery storage, substation and solar energy facility permits
   summary: The Planning Commission was set to hear conditional use permit requests for a battery energy storage facility and utility substation near 12500 Cavanaugh Road. It was also to hear a request at 6301 Manilla Road for a major energy facility, a utility transmission line and a large-scale solar facility.
   where: 12500 Cavanaugh Road and 6301 Manilla Road
   refs:
   - 21
   - 28
+  topics:
+  - Energy
+  - Utilities
+  - Zoning & development
 - title: Affordable housing, Balanced Housing Plan and homelessness response
   summary: The county is working on a Balanced Housing Plan, rebated building permit fees for affordable housing, and a $95,000 Brothers Redevelopment neighborhood stability agreement. It also funded Village Exchange Center's homelessness response and assigned its 2026 private activity bond cap to Maiker Housing Partners. Bonds for the Overlook at Thornton apartments were also up for refinancing.
   where: Countywide
@@ -43,17 +58,28 @@
   - 18
   - 32
   - 34
+  topics:
+  - Housing
+  - Homelessness
+  - Fees & rates
 - title: Zoning penalties and graduated fines
   summary: On Aug 25 the commissioners considered a penalty payment process and a graduated fine schedule for civil infraction violations of zoning and land use rules. The documents do not state the outcome.
   where: Unincorporated Adams County
   refs:
   - 14
+  topics:
+  - Zoning & development
+  - Fees & rates
 - title: Traffic impact fees and development fees
   summary: The commissioners held study sessions in August on updating the traffic impact fee and wrapping up development fees.
   where: Unincorporated Adams County
   refs:
   - 3
   - 11
+  topics:
+  - Fees & rates
+  - Roads & traffic
+  - Zoning & development
 - title: Adams County Water Master Plan
   summary: The Planning Commission was to consider a Comprehensive Plan amendment adding the Water Master Plan and a statutory water supply element on Oct 8. Staff also discussed a Strategic Growth Element for the Comprehensive Plan.
   where: Countywide
@@ -61,12 +87,18 @@
   - 28
   - 31
   - 34
+  topics:
+  - Water
+  - Zoning & development
 - title: Park Central subdivision at 6030 Washington Street
   summary: The Planning Commission reviewed the Park Central preliminary plat to create four lots at 6030 Washington Street. The commissioners approved it as a land use case on Oct 13.
   where: 6030 Washington Street
   refs:
   - 28
   - 35
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Colorado Air and Space Port projects and strategy
   summary: The commissioners approved a $385,385 taxilane rehabilitation contract and several hangar and other leases at the airport. A CASP strategy update was also scheduled.
   where: Colorado Air and Space Port
@@ -75,6 +107,8 @@
   - 16
   - 26
   - 37
+  topics:
+  - Airports
 - title: US 85 and 120th Avenue interchange and other transportation projects
   summary: The county approved a cost-sharing agreement with Commerce City for design of the US 85 and 120th Avenue interchange. It also approved an agreement for N Line design project development and received CDOT updates.
   where: US 85 and 120th Avenue
@@ -82,3 +116,6 @@
   - 0
   - 1
   - 26
+  topics:
+  - Roads & traffic
+  - Transit

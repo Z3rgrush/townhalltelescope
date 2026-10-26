@@ -7,6 +7,10 @@
   - 4
   - 5
   public_comment: true
+  topics:
+  - Annexation
+  - Zoning & development
+  - Utilities
 - title: Downtown and interstate parking
   summary: Residents told the Board that new businesses should not be allowed in downtown Morrison without adequate parking. The Board took up overnight parking as a discussion item in September and interstate parking in October, and sought community direction on the parking issues.
   where: Downtown Morrison
@@ -15,18 +19,28 @@
   - 8
   - 9
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: Green Tree Metro District extraterritorial sewer service
   summary: The Board approved a term sheet for extraterritorial sewer service with Green Tree Metro District after executive sessions on negotiation strategy. A Green Tree Metro District sewer service agreement was then on the October 20 agenda.
   where: Green Tree Metro District
   refs:
   - 2
   - 12
+  topics:
+  - Utilities
+  - Annexation
 - title: 2027 budget, health insurance and lodging tax
   summary: The draft 2027 budget has a 15.85% health insurance renewal increase, a 3.6% COLA and 2% longevity pay. Lodging tax is expected to become the second-highest tax source, passing property tax, once the new hotel opens, and the hotel uses the town's sales tax incentive program (ESTIP). The first of two budget hearings is set for November 4, and a museum budget memo and a possible new full-time position were also on the agenda.
   where: Townwide
   refs:
   - 9
   - 12
+  topics:
+  - Budget & taxes
+  - Tourism & events
+  - Government operations
 - title: Water conservation rules and rewrite of the water and sewer code
   summary: 'Mandatory drought watering restrictions took effect April 2, 2026: outdoor watering at most two days a week and none between 10 AM and 6 PM. The Board adopted Ordinance 565, which repeals and replaces Title 8 of the municipal code on water and sewer, including backflow rules. Executive sessions also covered water infrastructure and a raw water diversion.'
   where: Townwide
@@ -36,12 +50,19 @@
   - 2
   - 7
   - 8
+  topics:
+  - Water
+  - Utilities
+  - Environment & climate
 - title: East Planning Area agreements
   summary: The Board held executive sessions on negotiations over development of the East Planning Area. In October it approved a pre-development agreement related to the area.
   where: East Planning Area
   refs:
   - 3
   - 9
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Town Manager transition
   summary: The Board approved an interim Town Manager employment agreement effective August 14, 2026, and held executive sessions on the outgoing manager's exit interview and the hiring process. A Town Manager employment agreement was on the October 20 agenda.
   where: Morrison Town Hall
@@ -50,19 +71,29 @@
   - 9
   - 12
   public_comment: true
+  topics:
+  - Government operations
 - title: Lodging tax exemption effective date (Ordinance 562)
   summary: The Board moved the effective date of Ordinance 562, which amended the lodging tax exemption sections of the municipal code, to October 1, 2026.
   where: Townwide
   refs:
   - 8
+  topics:
+  - Budget & taxes
+  - Tourism & events
 - title: Ballot questions (Ordinance 564) ratification
   summary: A special meeting on August 11 included ratifying Ordinance 564 on ballot questions.
   where: Townwide
   refs:
   - 3
+  topics:
+  - Elections
 - title: Nuisance abatement ordinance and Board rules changes
   summary: The Board adopted Ordinance 567 amending Title 5 of the municipal code on nuisance abatement. Amended Board rules of procedure and Ordinance 568, repealing Chapter 6 of Title 1, were on the October 20 agenda.
   where: Townwide
   refs:
   - 9
   - 12
+  topics:
+  - Government operations
+  - Lawsuits & legal

@@ -4,15 +4,25 @@
   refs:
   - 0
   - 1
+  topics:
+  - Housing
+  - Transit
+  - Zoning & development
 - title: Right-of-Way Funding Sales Tax Ballot Measure
   summary: A proposed sales tax ballot measure to fund the city's rights-of-way is on the Board of Adjustment and Appeals agenda for September 16, 2026. The documents give no details on the amount or the outcome.
   where: Citywide
   refs:
   - 2
   - 3
+  topics:
+  - Budget & taxes
+  - Roads & traffic
 - title: Comprehensive Zoning Code Update
   summary: The city's ongoing zoning code update is being coordinated with the transit-oriented communities housing study. It is also on the September 16, 2026 Board of Adjustment and Appeals agenda as a project item.
   where: Citywide
   refs:
   - 1
   - 3
+  topics:
+  - Zoning & development
+  - Housing

@@ -3,28 +3,45 @@
   where: Capital Area MPO region
   refs:
   - 1
+  topics:
+  - Roads & traffic
+  - Transit
+  - Budget & taxes
 - title: 'Amendment #4 to the 2026-2035 Transportation Improvement Program'
   summary: 'A public hearing is scheduled on Amendment #4 to the FY 2026-2035 Transportation Improvement Program. The Executive Board is asked to approve it.'
   where: Capital Area MPO region
   refs:
   - 1
+  topics:
+  - Roads & traffic
+  - Transit
 - title: Regional Impact project Local Input Points
   summary: The Executive Board will hold a public hearing on Local Input Points for Regional Impact projects. It is asked to approve the recommended Regional Impact LIP and accept donated points for their respective projects.
   where: Capital Area MPO region
   refs:
   - 1
+  topics:
+  - Roads & traffic
+  - Budget & taxes
 - title: Expanding NCDOT resurfacing projects to add intersection improvements
   summary: CAMPO's technical committee discussed using NCDOT's ongoing resurfacing, maintenance and safety work to add mobility and safety improvements. Staff raised using LAPP applications to expand FY 2028 resurfacing scopes, including intersection improvements. NCDOT said it is possible for FY 2028-2029 but gave no exact date, and that FY 2027 is too late.
   where: Johnston County and the CAMPO region
   refs:
   - 0
+  topics:
+  - Roads & traffic
 - title: Triangle Transportation Choices (TDM) plan update funding agreement
   summary: The Executive Board is asked to approve an interlocal funding agreement for the Triangle Transportation Choices (TDM) Plan update. It would also authorize the Executive Director to sign it.
   where: Triangle region
   refs:
   - 1
+  topics:
+  - Transit
+  - Budget & taxes
 - title: Johnston County road projects and NCDOT updates
   summary: NCDOT gave updates on Johnston County projects, including widening Swift Creek Road to three lanes, NC 36/Veterans Parkway improvements and bridge replacements. It also covered the Angier Bypass, scheduled for April 2028 but subject to change, and resurfacing contracts planned for FY 2027.
   where: Johnston County
   refs:
   - 0
+  topics:
+  - Roads & traffic

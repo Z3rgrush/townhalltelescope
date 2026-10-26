@@ -4,40 +4,65 @@
   refs:
   - 0
   - 2
+  topics:
+  - Housing
+  - Government operations
 - title: Affordable housing site plan and interior lot line request
   summary: The Planning Commission reviewed an affordable housing proposal with five buildings of 1- to 3-bedroom units and 22 parking stalls. It also took up an interior lot line request. An October agenda item covers vacating lot lines at Silver Cliff Park.
   where: Near Dewalt, French and Second Streets
   refs:
   - 1
   - 3
+  topics:
+  - Housing
+  - Zoning & development
+  - Land & property
 - title: 2027 budget presentation and workshop
   summary: The proposed 2027 budget was presented to the Board on October 6 with no discussion or decisions. The Board was to set budget workshop dates. The Altitude Fitness funding request was deferred to the budget workshop.
   where: Townwide
   refs:
   - 2
+  topics:
+  - Budget & taxes
 - title: Altitude Fitness funds request
   summary: Altitude Fitness asked the town for funds. It appeared on the September agenda and was pushed to the budget workshop in October.
   refs:
   - 0
   - 2
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Recreation & trails
 - title: Rezoning request for employee and customer parking
   summary: A property owner wants to buy land for additional employee and customer parking. It would need rezoning from R3 to B1 commercial. The Planning Commission discussed it at 612 E. Main Street.
   where: 612 E. Main Street
   refs:
   - 1
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Cemetery regulations update (Ord. 05-2026)
   summary: The Board held a first reading of Ordinance 05-2026, which amends the 2021 cemetery regulations (Ord. 04-2021).
   where: Town cemetery
   refs:
   - 0
   - 2
+  topics:
+  - Government operations
+  - Land & property
 - title: Round Mountain Water and Sewer update
   summary: The Planning Commission received an update on Round Mountain Water and Sewer.
   refs:
   - 1
+  topics:
+  - Water
+  - Utilities
 - title: Museum and pavilion re-staining and Humane Society agreement
   summary: The Board considered a quote to re-stain the museum and pavilion. It also considered an agreement with Fremont County Humane.
   where: Silver Cliff museum and pavilion
   refs:
   - 2
+  topics:
+  - Historic preservation
+  - Government operations
+  - Agriculture & wildlife

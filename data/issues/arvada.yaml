@@ -7,6 +7,10 @@
   - 29
   tags:
   - data-center
+  topics:
+  - Data centers
+  - Zoning & development
+  - Water
 - title: City Water Treatment Plant annexation and rezoning at 6809 SH 93
   summary: The city is annexing two parcels (17.885 and 9.016 acres, 25.257 total) at 6809 SH 93 for a new water treatment plant, rezoning from Jefferson County PD to city Open Space, with major modifications and a height exception. Planning Commission heard it Aug 5 with public comment emailed in; Council set hearings for Oct 6.
   where: 6809 State Highway 93
@@ -19,6 +23,10 @@
   - 38
   - 39
   public_comment: true
+  topics:
+  - Annexation
+  - Water
+  - Zoning & development
 - title: 2027 water, wastewater and stormwater rates
   summary: Council held workshops on draft 2027 utility rate scenarios to close infrastructure funding gaps. Rate ordinances CB26-032 and CB26-033 were set for hearing Oct 20. A proposed drought water surcharge (CB26-018) was pulled and may return in spring 2027.
   where: Citywide
@@ -30,6 +38,10 @@
   - 18
   - 38
   - 44
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
 - title: 2027-2028 city budget and mill levy
   summary: The City Manager proposed a 2027-2028 budget with 2027 appropriations of $412,447,446 and a pay plan; 32 new positions were requested. Budget, mill levy and pay plan resolutions were scheduled for hearing Oct 20.
   where: Citywide
@@ -37,6 +49,8 @@
   - 35
   - 38
   - 44
+  topics:
+  - Budget & taxes
 - title: Hibernia Gold Strike Apartments, 240 units
   summary: A conditional use permit is requested for a five-story, 240-unit apartment building with a small coffee shop on 3.47 acres at 4800 W 60th Ave. About 20 residents attended the neighborhood meeting. Council first reading was Oct 20 with a hearing set for Nov 17.
   where: 4800 W 60th Ave.
@@ -45,12 +59,19 @@
   - 33
   - 44
   public_comment: true
+  topics:
+  - Housing
+  - Zoning & development
 - title: Paid parking in Olde Town
   summary: Council study session on a decade of parking demand pressure in Olde Town and options for paid, metered parking under the Strategic Reinvestment Plan. Staff reviewed studies from 2010, 2016 and 2025 and stakeholder feedback.
   where: Olde Town Arvada
   refs:
   - 30
   - 31
+  topics:
+  - Downtown & business
+  - Roads & traffic
+  - Fees & rates
 - title: Proposition 123 housing commitments and zoning changes
   summary: Planning Commission considered zoning text amendments tied to Prop 123, an ordinance revising the residential land use table was introduced, and Council took up a commitment to Prop 123 obligations for 2027-2029. The Housing Advisory Committee also worked on housing strategy.
   where: Citywide
@@ -60,18 +81,27 @@
   - 29
   - 37
   - 44
+  topics:
+  - Housing
+  - Zoning & development
 - title: Comprehensive Plan update
   summary: Phase 1 of the Comprehensive Plan update with consultant Metta Urban Design is complete, with Phase 2 starting and adoption targeted for Q3 2027. Presentations covered housing attainability and growth patterns.
   where: Citywide
   refs:
   - 17
   - 18
+  topics:
+  - Zoning & development
+  - Housing
 - title: Residency rules for registered sex offenders
   summary: Council held a workshop on a possible ordinance restricting where registered sex offenders may live. Legal asked for direction on who it would cover and distance limits, recommending no further than 1,000 feet.
   where: Citywide
   refs:
   - 25
   - 26
+  topics:
+  - Policing & public safety
+  - Housing
 - title: City Attorney leadership change and ethics matters
   summary: Council discussed next steps on pending ethics investigations and held personnel sessions. It approved amendments to employment agreements for the City Attorney, Municipal Judge and City Manager, and an interim City Attorney contract with Nora Steenson.
   where: Citywide
@@ -81,29 +111,45 @@
   - 22
   - 38
   - 44
+  topics:
+  - Ethics & transparency
+  - Government operations
 - title: Gold Strike Park redevelopment contract
   summary: Council considered a construction agreement with Arrow-J Landscape and Design for redeveloping Gold Strike Park, not to exceed $9,596,751.06.
   where: Gold Strike Park
   refs:
   - 29
+  topics:
+  - Parks & open space
+  - Budget & taxes
 - title: Scenic Heights West Metropolitan District service plan
   summary: Council held a public hearing on a resolution approving the proposed service plan for the Scenic Heights West Metropolitan District.
   where: Scenic Heights West
   refs:
   - 22
   - 23
+  topics:
+  - Zoning & development
+  - Utilities
 - title: Parks, Trails and Open Space Master Plan update
   summary: Staff presented a plan to update the 2016 Parks Master Plan, including a gap analysis, timeline and public engagement approach, and asked Council to authorize the update.
   where: Citywide
   refs:
   - 6
   - 7
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Wildfire early detection system and Navigation Center funding
   summary: Council considered an agreement with the Arvada Urban Renewal Authority for up to $300,000 to create a wildfire early detection system, and an intergovernmental agreement on operating funding for the Navigation Center.
   where: Citywide
   refs:
   - 22
   - 38
+  topics:
+  - Fire & emergencies
+  - Homelessness
+  - Budget & taxes
 - title: Olde Town Social liquor show cause hearing
   summary: The Liquor Licensing Authority considered a show cause order against Olde Town Social at 5610 Yukon Street over a June 25, 2026 incident. A proposed settlement included a liquor education class and a fine.
   where: 5610 Yukon Street
@@ -111,3 +157,5 @@
   - 16
   - 40
   - 41
+  topics:
+  - Cannabis & liquor

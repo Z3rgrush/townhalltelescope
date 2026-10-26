@@ -1,40 +1,91 @@
 - title: Roads and Routes transportation sales tax ballot measure
   summary: Trustees put a 1% transportation sales tax and related debt question on the November ballot to fund the Roads and Routes program, and discussed it at several meetings.
   where: Townwide
-  refs: [12, 15, 24, 36]
+  refs:
+  - 12
+  - 15
+  - 24
+  - 36
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+  - Elections
 - title: Land use code amendments and retail marijuana ban
   summary: The planning commission and trustees worked through land use code amendments, including a ban on retail marijuana businesses.
   where: Townwide
-  refs: [33, 34, 46]
+  refs:
+  - 33
+  - 34
+  - 46
+  topics:
+  - Cannabis & liquor
+  - Zoning & development
 - title: Water resources and the Firestone water case
   summary: Trustees discussed water supply issues, including opposing Firestone's water court case and treating a reservoir for phosphorus.
   where: Town reservoirs
-  refs: [12, 47]
+  refs:
+  - 12
+  - 47
+  topics:
+  - Water
+  - Lawsuits & legal
+  - Environment & climate
 - title: Public Works and Parks campus
   summary: Trustees discussed plans for a new combined Public Works and Parks campus.
   where: Townwide
-  refs: [12]
+  refs:
+  - 12
+  topics:
+  - Government operations
+  - Parks & open space
 - title: Historic preservation plan
   summary: The town took up a historic preservation plan for its older buildings and downtown.
   where: Historic downtown
-  refs: [40, 41]
+  refs:
+  - 40
+  - 41
+  topics:
+  - Historic preservation
+  - Downtown & business
 - title: Public art murals and carvings
   summary: The arts commission reviewed new murals and carvings for public spaces.
   where: Townwide
-  refs: [7, 20]
+  refs:
+  - 7
+  - 20
+  topics:
+  - Libraries & culture
 - title: Youth commission work on mental health and bullying
   summary: The youth commission focused on student mental health and bullying prevention.
   where: Townwide
-  refs: [2, 3, 38]
+  refs:
+  - 2
+  - 3
+  - 38
+  topics:
+  - Schools & youth
+  - Health & human services
 - title: Parks, open space and trails design standards
   summary: The town reviewed new design standards for parks, open space and trails.
   where: Townwide
-  refs: [14]
+  refs:
+  - 14
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Zoning & development
 - title: Wheatlands plat expiration and KO Industrial land
   summary: Trustees dealt with the expiration of the Wheatlands plat and a land conveyance for the KO Industrial site.
   where: Wheatlands, KO Industrial
-  refs: [15]
+  refs:
+  - 15
+  topics:
+  - Land & property
+  - Zoning & development
 - title: 2027 budget
   summary: The 2027 town budget was introduced to trustees.
   where: Townwide
-  refs: [11]
+  refs:
+  - 11
+  topics:
+  - Budget & taxes

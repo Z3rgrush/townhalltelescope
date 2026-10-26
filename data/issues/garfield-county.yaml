@@ -3,28 +3,43 @@
   where: 50235 Highway 6/24, Glenwood Springs
   refs:
   - 4
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Lake Springs Ranch PUD amendment and subdivision plan
   summary: The Planning Commission was to hear a substantial PUD amendment, a preliminary plan for the Lake Springs Ranch subdivision, and rezoning of properties removed from the PUD on Oct. 14. The site is about 3.5 miles southeast of Glenwood Springs off County Road 114.
   where: 4001 County Road 114, Glenwood Springs
   refs:
   - 13
+  topics:
+  - Zoning & development
+  - Housing
 - title: McClure River Ranch PUD amendment and 12-lot preliminary plan
   summary: Commissioners were asked to sign resolutions approving a substantial amendment to the 98-acre McClure River Ranch PUD and a preliminary plan dividing 48.96 acres into 12 lots and 2 tracts. The applicant is Aspen Polo Partners, LLP.
   where: 16411 Old Hwy 82, east of Carbondale
   refs:
   - 5
+  topics:
+  - Zoning & development
+  - Housing
 - title: Xcel Hopkins to Basalt transmission line rebuild
   summary: The Planning Commission was to conduct a location and extent review of Xcel Energy's Hopkins to Basalt Transmission Line 9256 rebuild, starting at the Hopkins Substation east of Carbondale. Xcel also gave a presentation to commissioners on Oct. 12.
   where: Hopkins Substation, Red Canyon Road and Fisher Cemetery Road, east of Carbondale
   refs:
   - 9
   - 12
+  topics:
+  - Energy
+  - Utilities
 - title: Hogback View Estates subdivision
   summary: Commissioners were asked to sign the resolution for the preliminary plan of the Hogback View Estates major subdivision east of New Castle. A separate Hogback discussion was held at the Aug. 4 work session.
   where: 24 County Road 138, east of New Castle
   refs:
   - 1
   - 8
+  topics:
+  - Zoning & development
+  - Housing
 - title: 'Affordable housing: USDA programs, Housing Authority and Cavern Springs mobile home park'
   summary: Commissioners heard from the USDA Rural Development state director and the Garfield County Housing Authority, which requested $90,000 in 2027 funding. They were also asked for a letter of support for the Cavern Springs Mobile Home Park's limited partnership request.
   where: Countywide
@@ -33,12 +48,18 @@
   - 7
   - 8
   public_comment: true
+  topics:
+  - Housing
+  - Health & human services
 - title: Slaughterhouse Gulch mudslide landfill fee waiver
   summary: A resident asked commissioners to waive landfill tipping fees because of the Slaughterhouse Gulch mudslide.
   where: Slaughterhouse Gulch
   refs:
   - 3
   public_comment: true
+  topics:
+  - Fees & rates
+  - Environment & climate
 - title: 2027 county budget hearings and workforce analysis
   summary: 'Commissioners held budget hearings starting Oct. 6 and department presentations on 2027 proposed budgets on Oct. 12, plus Budget Supplement #4. They also reviewed an MGT workforce analysis and presentations from the Early Childhood District and Forest Improvement District.'
   where: Countywide
@@ -46,27 +67,45 @@
   - 11
   - 12
   - 15
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: Library District tax extension on November ballot
   summary: The Garfield County Public Library District asked commissioners to place a question on the Nov. 3, 2026 ballot to extend part of its property tax levy.
   where: Countywide
   refs:
   - 3
+  topics:
+  - Libraries & culture
+  - Budget & taxes
+  - Elections
 - title: Sheriff's Office and jail budget and programs
   summary: The Sheriff asked for a $267,000 supplement for jail overtime and presented on new jail standards. The office also sought grants for opioid treatment medications for inmates ($39,903) and bulletproof vests ($12,100).
   where: Garfield County Jail
   refs:
   - 2
   - 14
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+  - Health & human services
 - title: 'Parachute funding: 1st Street/US 6 reconstruction and transit'
   summary: The Town of Parachute asked for $600,000 toward the 1st Street/US 6 reconstruction project and disbursement of $200,000 for the Parachute Area Transit System, plus a 2027 funding request.
   where: Parachute
   refs:
   - 10
+  topics:
+  - Roads & traffic
+  - Transit
+  - Budget & taxes
 - title: Madison AI assistant purchase
   summary: The county IT department sought a $43,200 supplemental appropriation and a Carahsoft contract for a 12-month Madison AI subscription covering countywide and Community Development assistants.
   where: Countywide
   refs:
   - 10
+  topics:
+  - Government operations
+  - Budget & taxes
 - title: Senior meals and transit programs (Traveler, RFTA IGA)
   summary: Commissioners discussed the Traveler program and reviewed a draft RFTA/Traveler IGA and a seven-party senior programs MOU. They also considered a sole-source contract with the City of Rifle for congregate meals in western Garfield County.
   where: Countywide
@@ -74,6 +113,9 @@
   - 1
   - 3
   - 14
+  topics:
+  - Health & human services
+  - Transit
 - title: Rifle Garfield County Airport improvements
   summary: The county ratified FAA grant agreements for airport improvements and approved paving of Lot A7. It also ratified an emergency roof repair and awarded a concrete improvements contract.
   where: Rifle Garfield County Airport
@@ -82,3 +124,5 @@
   - 2
   - 8
   - 12
+  topics:
+  - Airports

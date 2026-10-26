@@ -3,11 +3,17 @@
   where: Citywide
   refs:
   - 35
+  topics:
+  - Zoning & development
+  - Housing
 - title: Rowhouse Gatekeeper Project at 924-940 San Rafael Avenue
   summary: The Environmental Planning Commission is set to hear a proposal to rezone 924-940 San Rafael Avenue from General Industrial to R3-2 and build a 36-unit rowhouse development using state density bonus law, replacing two industrial buildings. It includes a General Plan amendment, two heritage tree removals on the 1.80-acre site, and a vesting tentative map.
   where: 924-940 San Rafael Avenue
   refs:
   - 47
+  topics:
+  - Housing
+  - Zoning & development
 - title: Historic Preservation Ordinance and Historic Register update
   summary: The Environmental Planning Commission held a public hearing on August 19 on amendments to the zoning code and zoning map for designating and preserving historic resources. The City Council is scheduled to adopt the ordinances on second reading on October 13. Public comments were attached to the staff report.
   where: Citywide
@@ -15,61 +21,99 @@
   - 7
   - 40
   public_comment: true
+  topics:
+  - Historic preservation
+  - Zoning & development
 - title: Rengstorff Avenue Complete Streets Study and Active Transportation Plan
   summary: The Bicycle/Pedestrian Advisory Committee and the Council Transportation Committee reviewed three draft concept alternatives and corridor priorities for the Rengstorff Avenue Complete Streets Study (Project 25-39). Both bodies were also asked to review the final Mountain View Active Transportation Plan and recommend it to City Council for adoption.
   where: Rengstorff Avenue
   refs:
   - 6
   - 13
+  topics:
+  - Roads & traffic
+  - Transit
+  - Recreation & trails
 - title: 96 West El Camino Real affordable housing funding and bonds
   summary: The City Council consent calendar included accepting $388,515 in state Permanent Local Housing Allocation funds, with allocations to the 96 West El Camino Real affordable housing project and a homeownership assistance pilot. It also included a resolution approving tax-exempt multifamily bond financing through the California Municipal Finance Authority for the project.
   where: 96 West El Camino Real
   refs:
   - 17
+  topics:
+  - Housing
+  - Budget & taxes
 - title: Shoreline athletic fields renovation and Google environmental reimbursement
   summary: The Council, acting as the Shoreline Regional Park Community board, considered an $880,000 not-to-exceed agreement with Tetra Tech for Shoreline athletic field renovations. It also considered agreements with Google for reimbursement of past environmental work and ongoing monitoring, with $4,968,700 appropriated to the Shoreline fund.
   where: Shoreline Athletic Fields
   refs:
   - 27
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Environment & climate
 - title: LinkedIn development agreement amendment
   summary: On October 13 the City Council is to introduce an ordinance approving a first amendment to the development agreement with LinkedIn for its sites at 700-810 East Middlefield Road and 1100-1200 Maude Avenue.
   where: 700-810 East Middlefield Road and 1100-1200 Maude Avenue
   refs:
   - 40
+  topics:
+  - Zoning & development
+  - Economic development
 - title: Heritage tree removal appeals and ordinance update
   summary: The Urban Forestry Board denied the appeal at 961 Eichler Drive, but approved removal of one heritage tree at 777 San Carrizo Way against staff's recommendation. A further appeal at 1473 Tyler Park Way is set for October 14, along with a heritage tree ordinance update process. A commissioner asked that Community Services and Community Development staff coordinate on how the ordinance is applied.
   where: 961 Eichler Drive, 777 San Carrizo Way, 1473 Tyler Park Way
   refs:
   - 20
   - 41
+  topics:
+  - Environment & climate
+  - Government operations
 - title: Heritage tree removals at mobile home park
   summary: The Zoning Administrator is to consider a development review permit and a heritage tree removal permit to remove 26 heritage trees in an existing residential mobile home park on a 17.34-acre site near the creek trail and Highway 237. Valley Water correspondence is included in the materials.
   where: Mobile home park near Highway 237 (17.34-acre site)
   refs:
   - 19
+  topics:
+  - Environment & climate
+  - Housing
 - title: Rent stabilization appeal hearings
   summary: The Rental Housing Committee heard a landlord's appeal of a hearing officer's June 4 decision on Petition C25260029 and is to hear a tenant's appeal of an August 14 decision on Petition C25260032. The October agenda also covers Rent Stabilization Ordinance items and survey feedback from petition parties.
   where: Citywide
   refs:
   - 12
   - 49
+  topics:
+  - Housing
 - title: Ambulance billing and user fees
   summary: The City Council was asked to adopt revised ambulance billing and user fees for the Fire Department, to be reflected in the Master Fee Schedule.
   where: Citywide
   refs:
   - 40
+  topics:
+  - Fees & rates
+  - Fire & emergencies
 - title: Pathways to Housing homeless response report
   summary: The City Council is to accept the first annual progress report on the 2026 Pathways to Housing Homeless Response Strategy Implementation and Expenditure Plan.
   where: Citywide
   refs:
   - 40
+  topics:
+  - Homelessness
+  - Housing
 - title: All-electric construction zoning incentives
   summary: The Environmental Planning Commission is to consider a zoning amendment allowing exceptions to development standards in R1 and R2 districts for single-family and duplex homes that voluntarily build all-electric.
   where: R1 and R2 zoning districts citywide
   refs:
   - 35
+  topics:
+  - Energy
+  - Zoning & development
+  - Housing
 - title: Downtown issues and Castro Street
   summary: The Downtown Committee is to receive a downtown development update, a Castro Street update and the annual Business Improvement Area renewal overview. Its list of possible future topics includes vacant storefronts, parking, restrooms, and a busking ordinance.
   where: Downtown Mountain View, Castro Street
   refs:
   - 15
+  topics:
+  - Downtown & business
+  - Zoning & development

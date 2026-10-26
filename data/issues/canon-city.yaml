@@ -6,6 +6,10 @@
   - 14
   - 15
   - 25
+  topics:
+  - Recreation & trails
+  - Budget & taxes
+  - Elections
 - title: Royal Gorge Lease Agreement termination and Royal Gorge Mountain Park
   summary: Council held closed-session discussions on negotiation strategy about terminating the Royal Gorge Lease Agreement with Royal Gorge Company of Colorado. Council also took up a grant application for Royal Gorge Mountain Park (Resolution 13, removed from the Oct. 5 agenda), and a trails committee discussed the South Rim Trail.
   where: Royal Gorge Mountain Park
@@ -17,6 +21,10 @@
   - 52
   - 56
   - 64
+  topics:
+  - Parks & open space
+  - Lawsuits & legal
+  - Tourism & events
 - title: Water supply, drought response, rates and bulk water policy
   summary: Council and the Water Committee discussed water quality, water bills and availability during the drought, including which tier of the shortage response plan to adopt. The committee also reviewed a bulk water kiosk policy and a proposed 7% water rate increase, and a special July 9 meeting dealt with water restrictions.
   where: Citywide
@@ -28,6 +36,10 @@
   - 25
   - 40
   public_comment: true
+  topics:
+  - Water
+  - Fees & rates
+  - Environment & climate
 - title: 2027 city budget and budget workshops
   summary: Staff planned the 2027 budget through committee workshops covering police, parks improvement, stormwater and raw water, and discussed using 2026 underspending for critical needs. A public hearing on the 2027 budget was held Oct. 21, showing taxes of about $18.5 million and funds for streets, water, stormwater, the 3rd Street Connector and the pool tax.
   where: Citywide
@@ -39,17 +51,26 @@
   - 53
   - 55
   - 59
+  topics:
+  - Budget & taxes
 - title: 2A streets program and pavement plans
   summary: Staff reported 40 road projects completed under the voter-approved 1% 2A sales tax, which now runs through 2036. Contracts were awarded for N 9th Street segments ($2.14M and $4.83M), and 2027 projects include S 12th, College Ave and Harding Ave. Staff also recommended continuing magnesium chloride on gravel roads and updating the Pavement Management Plan in 2028. Council also took up an ordinance amending 2A tax code sections.
   where: Citywide
   refs:
   - 9
   - 56
+  topics:
+  - Roads & traffic
+  - Budget & taxes
 - title: Public plaza and parking design options with bids near $940K–$971K
   summary: 'Council weighed two design options for a public parking and plaza site: the bid design, with low bids of $939,559.78 (Gordon Construction) and $971,290.03 (IS West), or a cheaper concept without stage and restrooms that needs $57–94K more design work and likely stormwater features. Funds are 100% city dollars budgeted in 2026 and proposed for 2027.'
   where: Downtown parking and plaza site
   refs:
   - 26
+  topics:
+  - Downtown & business
+  - Parks & open space
+  - Budget & taxes
 - title: City attorney resignation and search
   summary: Council discussed next steps after the city attorney's resignation, and committees were formed to study the city attorney relationship and to search for a replacement.
   where: Citywide
@@ -62,11 +83,16 @@
   - 57
   - 58
   - 61
+  topics:
+  - Government operations
 - title: Police impound lot fence variances at 161 Justice Center Road
   summary: The Board of Adjustment heard a request for four variances from fence standards to allow a 6-foot galvanized chain link security fence around the expanded police impound lot on a 3.99-acre site. Staff had received no public comment as of Sept. 30.
   where: 161 Justice Center Road
   refs:
   - 46
+  topics:
+  - Policing & public safety
+  - Zoning & development
 - title: Police compensation, retention and equipment
   summary: The finance committee took up compensation and retention for Cañon City Police, and council approved a police vehicle lease addendum with U.S. Bancorp (Ordinance 11) and bought handguns and ammunition.
   where: Cañon City Police Department
@@ -74,28 +100,45 @@
   - 4
   - 28
   - 43
+  topics:
+  - Policing & public safety
+  - Budget & taxes
 - title: Ditch and culvert maintenance ordinance
   summary: Council considered code language defining culverts, ditches and obstructions and making property owners responsible for maintaining private culverts and stormwater-only ditches and keeping them free of obstruction.
   where: Citywide
   refs:
   - 49
+  topics:
+  - Utilities
+  - Land & property
+  - Government operations
 - title: Downtown urban renewal grants
   summary: The Urban Renewal Authority reviewed a Building Systems Grant for 320 Main Street, pre-budget discussion of URA grants, and a special project grant application for 111 N. Cottonwood.
   where: Downtown / 320 Main Street, 111 N. Cottonwood
   refs:
   - 27
   - 48
+  topics:
+  - Downtown & business
+  - Economic development
 - title: Sales tax on food for home consumption (Sally's Bakery)
   summary: The Economic Development Committee heard a presentation from Ken Rief on whether city sales tax should apply to food for home consumption, prompted by Sally's Bakery.
   where: Citywide
   refs:
   - 42
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Downtown & business
 - title: Public restroom design recommendations
   summary: The Public Safety and Quality of Life Committee reviewed recommendations for public restrooms, including local metal-frame construction, preventing gutter clogging with trash and needles, and police opening/closing.
   where: Citywide
   refs:
   - 47
+  topics:
+  - Parks & open space
+  - Policing & public safety
+  - Homelessness
 - title: Saving Places 'On the Road' conference bid and 2027 historic preservation budget
   summary: The Historic Preservation Commission formed a committee and worked on an application to host Colorado Preservation Inc.'s Saving Places 'On the Road' conference for 2028. It also approved a $5,400 2027 budget, planned an archaeology workshop, and wrote a letter on proposed Section 106 changes.
   where: Citywide
@@ -104,3 +147,7 @@
   - 30
   - 37
   - 60
+  topics:
+  - Historic preservation
+  - Tourism & events
+  - Budget & taxes

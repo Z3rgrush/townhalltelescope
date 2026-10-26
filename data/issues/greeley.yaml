@@ -11,6 +11,10 @@
   tags:
   - data-center
   public_comment: true
+  topics:
+  - Data centers
+  - Annexation
+  - Water
 - title: 'Ballot Question 2F: sales tax increase for West Greeley and Civic Campus'
   summary: Council moved to put a 0.60% sales and use tax increase (2027 through 2067) to fund capital projects on the November 3, 2026 ballot, and later passed a resolution supporting Question 2F. It was discussed in executive session for legal advice. The tax is tied to the West Greeley and Civic Campus projects. Many residents spoke against combining the tax with contested projects, while some supported a dedicated sales tax.
   where: Citywide
@@ -26,6 +30,9 @@
   - 84
   - 105
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Elections
 - title: Civic Campus financing and development
   summary: Council considered certificates of participation to finance the Civic Campus with its amenities and public improvements. The Planning Commission reviewed preliminary subdivisions for the Judicial Center and the 4-lot Civic Campus downtown. Redevelopment begins with a temporary juror parking lot while the new City Hall is built. The Judicial Center alley vacation was also on council agendas.
   where: Downtown Greeley, near 10th Avenue, 11th Avenue, 9th Street and 10th Street
@@ -41,6 +48,10 @@
   - 80
   - 92
   public_comment: true
+  topics:
+  - Government operations
+  - Budget & taxes
+  - Zoning & development
 - title: West Greeley / Catalyst (Cascadia) project
   summary: Residents criticized the Catalyst/Cascadia project debt, called for a public vote, and questioned the timing of financial decisions. The West Greeley Citizen Oversight Committee was to discuss whether Greeley should keep pursuing the project without a known financial partner. The first West Greeley debt payment appears in the 2027 capital plan, and a Metropolitan District service plan for West Greeley Commons was on a council agenda.
   where: West Greeley
@@ -53,6 +64,10 @@
   - 34
   - 36
   public_comment: true
+  topics:
+  - Economic development
+  - Budget & taxes
+  - Zoning & development
 - title: 2027 budget cuts and the September 11 budget retreat
   summary: The City Manager's recommended 2027 budget came out September 4 and Council held a budget retreat September 11. It follows tiered department cuts and 67.75 FTE lost through voluntary separations. First reading of the budget was set for October 20. Culture, Parks and Recreation identified $2.9 million in reductions, leaving an $800,000 gap. Residents and advisory boards objected to cuts affecting museums and parks.
   where: Citywide
@@ -70,6 +85,10 @@
   - 99
   - 105
   public_comment: true
+  topics:
+  - Budget & taxes
+  - Libraries & culture
+  - Parks & open space
 - title: Greeley History Museum cuts and staffing
   summary: Proposed museum budget cuts would leave services staffed minimally, with the research assistant role at risk and possible closure to the public or appointment-only access. The Museum Advisory Board and the Historic Preservation Commission wrote to Council, and a former employee cited open-records requests. The recommended budget later added $150,000 for CPRD for museum funding.
   where: Greeley History Museum, 714 8th Street
@@ -80,6 +99,10 @@
   - 67
   - 97
   public_comment: true
+  topics:
+  - Libraries & culture
+  - Historic preservation
+  - Budget & taxes
 - title: Flock Safety license plate readers and police drones
   summary: Residents repeatedly urged Council to end the Flock Safety contract, citing the lack of a public vote, costs, Fourth Amendment concerns and misuse. Councilmember DeBoutez requested a presentation. A September 8 work session covered Greeley's 17 Flock cameras, 30-day data retention and the drone first-responder program.
   where: Citywide
@@ -89,6 +112,9 @@
   - 44
   - 45
   public_comment: true
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
 - title: Great Western Industrial Park annexations and Windsor's reconsideration motion
   summary: Residents raised concerns about the Great Western Industrial Park annexation's effects on services and possible data center use. Council went into executive session September 22 over annexations 1-15 and a Motion for Reconsideration from the Town of Windsor.
   where: Great Western Industrial Park
@@ -99,12 +125,20 @@
   tags:
   - data-center
   public_comment: true
+  topics:
+  - Annexation
+  - Data centers
+  - Lawsuits & legal
 - title: Arroyos del Sol annexation and zoning
   summary: The Planning Commission heard the roughly 999.72-acre annexation northwest of Highway 257 Spur, west of Weld County Road 19 and south of the Cache la Poudre River, and recommended approval to Council. Zoning was set to the conservation district, with much of the land under a conservation easement and a master plan focused on public recreation.
   where: Northwest of State Highway 257 Spur, south of the Cache la Poudre River
   refs:
   - 4
   - 43
+  topics:
+  - Annexation
+  - Zoning & development
+  - Parks & open space
 - title: Artificial turf and front-yard landscaping rules
   summary: Council considered letting residents install artificial turf in single-family front yards by permit with licensed installers. Members split on stormwater, heat and water conservation. Staff were to refine the draft, and a resident spoke on the issue. Staff also discussed landscaping code compliance, with 66 cases opened through June.
   where: Citywide
@@ -112,6 +146,10 @@
   - 2
   - 4
   public_comment: true
+  topics:
+  - Zoning & development
+  - Water
+  - Environment & climate
 - title: MERGE highway project and 2027 capital plan
   summary: The roughly $204 million 2027 Capital Improvement Plan includes MERGE, backed by over $50 million in federal grants, state funds and anticipated TIFIA financing, but a substantial local share is still needed. The project proposes underpasses at 35th and 47th Avenues, roundabouts and property impacts, and the Art Commission is weighing up to $400,000 for public art. The plan also includes a temporary 25% cut in annual facility maintenance funding.
   where: US 34 corridor, 35th and 47th Avenues
@@ -122,6 +160,10 @@
   - 57
   - 74
   - 102
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+  - Libraries & culture
 - title: Downtown stormwater and 2027 water, sewer and stormwater rates
   summary: The Stormwater Board recommended an 8% rate increase for 2027 (options were 6%, 8% and 10%), prioritizing the Downtown Revitalization and 12th Street Outfall to reduce flooding. The Water and Sewer budget proposes a 4.5% water and 3.0% sewer rate increase, with the F Street Operations Facility delayed.
   where: Downtown Greeley, 12th Street outfall
@@ -130,6 +172,10 @@
   - 6
   - 23
   - 85
+  topics:
+  - Fees & rates
+  - Utilities
+  - Water
 - title: Greeley Urban Renewal Authority and tax increment financing
   summary: Council and GURA held a joint session on urban renewal law, tax increment financing and bonding, including possible links between the Greeley Mall TIF area and 17th Street and new HB 1348 requirements. GURA also scheduled a mobility hub presentation, Western Sugar multimodal connectivity project and TIF balance update.
   where: Greeley Mall and 17th Street area
@@ -138,12 +184,19 @@
   - 10
   - 47
   - 96
+  topics:
+  - Economic development
+  - Budget & taxes
+  - Downtown & business
 - title: Club Carwash at Two Rivers Marketplace
   summary: 'Two Rivers Marketplace LLC #4 asked the Planning Commission for a Use by Special Review to allow a car wash in the C-H zone at 8503 11th Street. The hearing was July 28, 2026.'
   where: 8503 11th Street
   refs:
   - 0
   - 1
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: 'Water supply: Upper Laramie groundwater application and Halligan 401 lawsuit'
   summary: The Water and Sewer Board approved filing a Water Court application with the State Land Board for nontributary Upper Laramie groundwater in Weld County, about 1.1 million acre-feet. Council also authorized legal action over the Halligan Water Supply Project Clean Water Act Section 401 certification. Parks are cutting watering at 13 sites after the Greeley-Loveland ditch shut off early.
   where: Weld County
@@ -152,6 +205,9 @@
   - 62
   - 78
   - 80
+  topics:
+  - Water
+  - Lawsuits & legal
 - title: 'Housing: federal funding cycle, Prop 123 and needs assessment'
   summary: The Housing for All Advisory Board reviewed the first CDBG and HOME funding cycle, with Council making no changes to the 2026 Annual Action Plan. Staff warned that unspent HUD funds hurt the city's entitlement award. Council was asked to approve a Housing Needs Assessment contract and a Proposition 123 affordable housing commitment.
   where: Citywide
@@ -160,3 +216,6 @@
   - 58
   - 60
   - 88
+  topics:
+  - Housing
+  - Budget & taxes

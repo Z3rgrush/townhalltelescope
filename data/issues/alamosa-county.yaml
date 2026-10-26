@@ -3,22 +3,36 @@
   where: 240 Price Ave, Alamosa
   refs:
   - 9
+  topics:
+  - Zoning & development
+  - Health & human services
 - title: 2027 Preliminary Budget
   summary: The Board of County Commissioners was scheduled to hear a presentation of the 2027 preliminary budget on October 14.
   where: Countywide
   refs:
   - 9
+  topics:
+  - Budget & taxes
 - title: Onsite Wastewater Treatment System (OWTS) regulation update
   summary: The commissioners were scheduled to consider an update to Alamosa County's regulations for onsite wastewater treatment systems (septic systems) on October 14.
   where: Countywide
   refs:
   - 9
+  topics:
+  - Utilities
+  - Environment & climate
 - title: Local Impact Accelerator Grant Agreement and Department of Energy transmission grant
   summary: The October 14 agenda includes a Local Impact Accelerator grant agreement and a Department of Energy transmission grant item. The documents give no amounts or details.
   where: Countywide
   refs:
   - 9
+  topics:
+  - Energy
+  - Government operations
 - title: Letters of support for Crossroads Turning Points and the SLV Housing Coalition
   summary: The commissioners were set to consider letters of support for Crossroads Turning Points and the San Luis Valley Housing Coalition on October 14.
   refs:
   - 9
+  topics:
+  - Housing
+  - Health & human services

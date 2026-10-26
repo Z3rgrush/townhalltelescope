@@ -6,11 +6,18 @@
   - 1
   - 3
   public_comment: true
+  topics:
+  - Water
+  - Fees & rates
 - title: Water and sewer rate and fee changes for 2027
   summary: The October 13 agenda includes Resolution 2026-13 amending water, wastewater and refuse rates beginning January 1, 2027, and Resolution 2026-14 adopting a fee schedule effective that date.
   where: Townwide
   refs:
   - 3
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
 - title: Well pump replacements and GMS water and sewer projects
   summary: Council approved the Water Technology Group submittal for well pump replacements in September. It also continues to approve monthly GMS draws for sanitary sewer and water projects, including a CDBG item in August, with an all-projects update on the October agenda.
   where: Hugo water and sewer system
@@ -18,24 +25,38 @@
   - 0
   - 1
   - 3
+  topics:
+  - Water
+  - Utilities
 - title: Backflow prevention program
   summary: Colorado Rural Water Association reviewed the state backflow program, which has been in effect since 2016. They found many businesses were not inventoried. A resident raised concern about the cost and difficulty of installing a device at the RV Park.
   where: Townwide, including the RV Park
   refs:
   - 0
   public_comment: true
+  topics:
+  - Water
+  - Utilities
+  - Government operations
 - title: Hugo Main Street designation
   summary: Council passed a resolution supporting Hugo becoming an official Colorado Main Street Community. A steering committee is working on bylaws, board roles and strategic priorities. A Main Street Live project has geotech and survey work in progress.
   where: Downtown Hugo
   refs:
   - 1
   - 3
+  topics:
+  - Downtown & business
+  - Economic development
 - title: Abandoned and dilapidated building ordinance update
   summary: The town is applying for a DOLA Division of Housing Local Planning Capacity Grant to hire a consultant to update its abandoned and deteriorated property ordinance. Staff will work with Willdan on other ordinance updates, and Willdan was approved for code enforcement services.
   where: Townwide
   refs:
   - 1
   - 3
+  topics:
+  - Land & property
+  - Housing
+  - Government operations
 - title: 2027 budget workshop and strategic plan
   summary: Council holds a 2027 budget review and workshop on October 19. The draft strategic plan will be reviewed there.
   where: Townwide
@@ -43,19 +64,31 @@
   - 1
   - 3
   - 4
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: Hugo Housing Authority compliance and new housing
   summary: The Housing Authority chair reported hiring staff to train a new business manager to bring it into compliance. It must be fully compliant before asking the town for a grant partnership. Economic development is also waiting on contractor numbers for possible new housing, with new DOLA Housing funding for demolition.
   where: Hugo
   refs:
   - 0
   - 1
+  topics:
+  - Housing
+  - Economic development
 - title: Town Hall shop insulation
   summary: Council will review an RFP and presentation for insulating the Town Hall shop on October 13 and may give direction.
   where: Town Hall shop
   refs:
   - 3
+  topics:
+  - Government operations
+  - Energy
 - title: 2025 town audit
   summary: The 2025 audit is to be presented at the October 13 meeting, with a vote to accept or deny it.
   where: Townwide
   refs:
   - 3
+  topics:
+  - Budget & taxes
+  - Ethics & transparency

@@ -4,6 +4,9 @@
   refs:
   - 6
   - 12
+  topics:
+  - Zoning & development
+  - Housing
 - title: 2027 Town budget
   summary: The Board of Trustees held a budget workshop on Sept. 26, reviewed the 2027 draft budget at its Oct. 13 meeting, and held another 2027 budget workshop on Oct. 17.
   where: Townwide
@@ -11,39 +14,59 @@
   - 8
   - 12
   - 13
+  topics:
+  - Budget & taxes
 - title: Extending water restrictions
   summary: The Board of Trustees was to discuss and possibly act on extending the town's water restrictions at its Oct. 13 meeting, presented by Travis Scurlock.
   where: Townwide
   refs:
   - 12
+  topics:
+  - Water
 - title: Pine Ridge wastewater service agreement
   summary: The Board of Trustees was to consider Resolution 26R21, an intergovernmental agreement for wastewater service between the Town and the Pine Ridge Metropolitan District.
   where: Pine Ridge wastewater treatment
   refs:
   - 0
+  topics:
+  - Utilities
+  - Water
 - title: Accessory building size and permit rules
   summary: The Planning Commission held a public hearing on Ordinances 26-11 and 26-12, which amend the town code on accessory building size and permit requirements.
   where: Townwide
   refs:
   - 1
+  topics:
+  - Zoning & development
+  - Land & property
 - title: E86 Annexation Agreement
   summary: The Board of Trustees was to consider Resolution 26R29 on the E86 Annexation Agreement at its Oct. 13 meeting.
   where: E86
   refs:
   - 12
+  topics:
+  - Annexation
 - title: Building permit calculations
   summary: The Board of Trustees had a discussion on how building permit fees are calculated, led by Alexandra Cramer.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Fees & rates
+  - Zoning & development
 - title: Friday Night Markets recap and Main Street events
   summary: The Board of Trustees was to hear a 2026 recap of the Friday Night Markets from Tony Briggs of Elizabeth Brewing Company. The Main Street Board planned to discuss recent Main Street events and a communication plan.
   where: Main Street, Elizabeth
   refs:
   - 5
   - 12
+  topics:
+  - Tourism & events
+  - Downtown & business
 - title: Town Administrator recruitment
   summary: The Board of Trustees planned a closed session on recruiting a Town Administrator and discussing candidates.
   where: Town Hall
   refs:
   - 0
+  topics:
+  - Government operations

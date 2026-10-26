@@ -4,44 +4,72 @@
   refs:
   - 4
   - 5
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: Devil's Thumb Ranch High Lonesome Lodge subdivision
   summary: The Planning Commission unanimously recommended approval, with 14 conditions, of an outright exemption to split a 44.33-acre parcel into an 8.82-acre lot with the existing lodge and a 32.60-acre lot for a possible future single-family home. No public notice was required for this type of application.
   where: Devil's Thumb Ranch High Lonesome Lodge, unincorporated Grand County (Forestry and Open zone)
   refs:
   - 1
+  topics:
+  - Land & property
+  - Zoning & development
 - title: Good to Go portable toilet storage special use permit
   summary: The Planning Commission considered a special use permit to store up to 200 clean, empty portable toilets on land in the Forestry and Open zone, on the former Bergquist Outright Exemption property. Staff recommended conditional approval.
   where: Forestry and Open zone, outside the Growth Boundary (Bergquist Outright Exemption property)
   refs:
   - 1
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Subdivision, PUD and Master Plan amendments
   summary: The Planning Commission's September 9 agenda includes amendments to the county's Subdivision Regulations and Planned Unit Development Regulations, plus a Master Plan update. These would affect development rules across unincorporated Grand County.
   where: Unincorporated Grand County
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Government operations
 - title: St. Joseph's Foundation Retreat camping special use permit
   summary: The County Commissioners scheduled a public hearing on October 20 for a special use permit allowing camping at the St. Joseph's Foundation Retreat.
   where: St. Joseph's Foundation Retreat
   refs:
   - 6
+  topics:
+  - Recreation & trails
+  - Zoning & development
 - title: County departmental fee changes
   summary: A public hearing was set for October 20 on changes to Grand County's departmental fees.
   where: Countywide
   refs:
   - 6
+  topics:
+  - Fees & rates
+  - Government operations
 - title: Model Traffic Code amendment (Ordinance 23)
   summary: The Commissioners scheduled the second reading and a public hearing on Ordinance 23, amending the county's Model Traffic Code, on October 20.
   where: Countywide
   refs:
   - 6
+  topics:
+  - Roads & traffic
+  - Government operations
 - title: Drought preparedness agreement and fire restrictions
   summary: The Commissioners' agendas include a Water Resources drought preparedness memorandum of understanding and a Sheriff's Office item on fire conditions and restrictions. A Road and Bridge/Natural Resources fire permits contract is also on the agenda.
   where: Countywide
   refs:
   - 5
   - 6
+  topics:
+  - Water
+  - Fire & emergencies
+  - Environment & climate
 - title: Replat in Winter Park Ranch Second Filing
   summary: The Planning Commission's September 9 agenda includes a replat of Lot 27, Block 1, in Winter Park Ranch Second Filing.
   where: Winter Park Ranch Second Filing
   refs:
   - 2
+  topics:
+  - Land & property
+  - Zoning & development

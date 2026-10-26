@@ -4,17 +4,28 @@
   refs:
   - 18
   - 20
+  topics:
+  - Homelessness
+  - Budget & taxes
+  - Health & human services
 - title: Red Rocks Amphitheatre transportation hub
   summary: The Planning Commission was scheduled on Oct. 14 to consider a site approval for a transportation hub with 397 parking spaces and road improvements to serve Red Rocks Amphitheatre.
   where: 17355 Jurassic Road and 17900 Trading Post Road, Golden
   refs:
   - 22
+  topics:
+  - Transit
+  - Roads & traffic
+  - Tourism & events
 - title: 143-unit planned development rezoning
   summary: A request to rezone land from Agricultural-Two and Commercial-One to Planned Development for up to 143 dwelling units went to the Planning Commission on Aug. 12. On Sept. 1, after staff and applicant presentations and public testimony, commissioners approved it by majority vote (not unanimous).
   refs:
   - 6
   - 11
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
 - title: Proposition 123 affordable housing agreements and Belveron bond allocation
   summary: The county approved a 2026 private activity bond award, carryforward and assignment involving Denver and Arvada tied to the Belveron project and a Prop 123 agreement. A Prop 123 unit-sharing agreement was approved Sept. 15, and a supplemental funding request for the expedited review incentive bonus was slated for Oct. 20.
   where: Countywide
@@ -24,18 +35,28 @@
   - 10
   - 14
   - 24
+  topics:
+  - Housing
+  - Budget & taxes
 - title: Preliminary and final plat pulled for public discussion
   summary: The plat case 24-114721PFP went to the Planning Commission Sept. 9. On Sept. 29 it was moved to the regular hearing agenda at the public's request, and after public testimony the Board unanimously approved it.
   refs:
   - 12
   - 19
   public_comment: true
+  topics:
+  - Zoning & development
+  - Land & property
 - title: New special district service plan approved
   summary: Service plan case 25-124167SV was continued from July 28 to allow proper notification. On Aug. 18, after public testimony, the Board unanimously approved it.
   refs:
   - 0
   - 8
   public_comment: true
+  topics:
+  - Government operations
+  - Zoning & development
+  - Budget & taxes
 - title: Appointment of new County Manager
   summary: On Aug. 11 the Board approved the appointment of a county manager and an employment agreement. Laura Aldrete appears as County Manager in later meetings. A second amendment to the County Attorney's contract was approved Oct. 13.
   where: Countywide
@@ -44,6 +65,8 @@
   - 18
   - 19
   - 20
+  topics:
+  - Government operations
 - title: Head Start expansion and federal rule changes
   summary: The county approved Head Start policy updates and a continuation grant application, and commissioners praised the Lakewood Head Start expansion. A public comment on proposed federal changes to Head Start performance standards was on the Sept. 22 agenda.
   where: Lakewood and Arvada
@@ -53,6 +76,9 @@
   - 14
   - 15
   - 19
+  topics:
+  - Schools & youth
+  - Health & human services
 - title: Rocky Mountain Metropolitan Airport leases and Taxiway D reconstruction
   summary: Commissioners approved a Winston Air hangar ground lease, new airport lease agreement policy, and Premier Hangar Group ground leases. They also approved a contract with Amrize West Central for the Taxiway D Phase II reconstruction.
   where: Rocky Mountain Metropolitan Airport
@@ -62,6 +88,9 @@
   - 10
   - 11
   - 14
+  topics:
+  - Airports
+  - Land & property
 - title: Parks and Open Space projects and easements
   summary: The Board approved a West 32nd Ave and Kipling St bus stop agreement with trails funding, Meyer Ranch Park forestry contract, Pleasant View Community Park utility easements, and Van Bibber Park canal agreements. Briefings also covered North Table Mountain Park improvements and the Hildebrand Ranch diversion structure replacement.
   where: Jefferson County parks
@@ -72,17 +101,31 @@
   - 11
   - 18
   - 19
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Land & property
 - title: Denver Water purchase and sale agreement
   summary: The county briefed and then approved a purchase and sale agreement with Denver Water through Facilities Management on Oct. 13.
   refs:
   - 18
   - 20
+  topics:
+  - Water
+  - Land & property
 - title: Positions on 2026 ballot measures
   summary: At a Sept. 23 special meeting, commissioners took positions on statewide and regional measures. They supported Amendment 87 (graduated income tax) and Front Range Passenger Rail Measure 7A by majority vote, and opposed Amendment 84 (mail ballot voter ID).
   where: Countywide
   refs:
   - 17
+  topics:
+  - Elections
+  - Budget & taxes
+  - Transit
 - title: Junction Urban Renewal Plan TIF revenue-sharing negotiations
   summary: Commissioners planned a closed session on Oct. 20 for legal advice and negotiation guidance on tax increment revenue sharing for the Junction Urban Renewal Plan.
   refs:
   - 24
+  topics:
+  - Economic development
+  - Budget & taxes

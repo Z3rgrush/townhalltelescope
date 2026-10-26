@@ -9,6 +9,10 @@
   - 35
   - 50
   - 67
+  topics:
+  - Economic development
+  - Transit
+  - Budget & taxes
 - title: 'November 2026 ballot: public safety tax increase'
   summary: Council considered ballot language for increases in sales and use tax and property tax (up to 4.06, 3.25 and 2.44 mills in the optional ordinances) to fund police, dispatch, fire and emergency services. Council also drafted a resolution urging a yes vote and called the special election.
   where: Citywide
@@ -16,6 +20,10 @@
   - 4
   - 17
   - 19
+  topics:
+  - Budget & taxes
+  - Policing & public safety
+  - Elections
 - title: 'Charter amendments on the November ballot: open space sales and ranked choice voting'
   summary: Council referred charter amendments to the November 3 ballot requiring voter approval to sell or convey open space, plus ranked choice voting and changes on how mayor and councilmembers are elected. A resolution urging a yes vote on the open space question was also on the agenda.
   where: Citywide
@@ -24,6 +32,10 @@
   - 4
   - 17
   - 19
+  topics:
+  - Elections
+  - Parks & open space
+  - Land & property
 - title: 2027 proposed budget and capital improvement program
   summary: Council received the 2027 proposed budget and 2027-2031 capital improvement program, held two public hearings, and set tax levies for the 2027 fiscal year. Final council direction was scheduled for October 6.
   where: Citywide
@@ -34,6 +46,8 @@
   - 44
   - 50
   - 67
+  topics:
+  - Budget & taxes
 - title: Dry Creek, 8513 St. Vrain Road and other annexations
   summary: Council moved annexations forward, including Dry Creek along Airport Road and Clover Basin Drive (zoned Residential Mixed Neighborhood) and 8513 St. Vrain Road east of Airport Road. It also took up Longmont Gateway Northwest at Highway 287 and Park Ridge Avenue. A neighborhood meeting covered a proposed annexation of the church property at 8979 Nelson Road.
   where: Airport Road, Clover Basin Drive, St. Vrain Road, Highway 287 and Park Ridge Avenue
@@ -44,6 +58,9 @@
   - 38
   - 50
   - 67
+  topics:
+  - Annexation
+  - Zoning & development
 - title: Airport future and noise monitoring
   summary: Council held an Airport Vision Session on governance, trust-building with the community and facilities, and heard options for an Airport Monitoring System. Council members said the airport's future is under discussion.
   where: Longmont airport
@@ -51,6 +68,9 @@
   - 13
   - 42
   - 44
+  topics:
+  - Airports
+  - Government operations
 - title: Composting subsidy and sanitation rate structure
   summary: Council discussed a possible subsidy for composting services and aligning waste rates with policy goals. The Sustainability Advisory Board was asked for feedback on the sanitation rate structure.
   where: Citywide
@@ -59,6 +79,10 @@
   - 5
   - 13
   - 29
+  topics:
+  - Utilities
+  - Fees & rates
+  - Environment & climate
 - title: Water exchange with St. Vrain and Left Hand Water Conservancy District, and drought
   summary: The Water Board considered a one-year exchange of 148.8 acre-feet of Colorado-Big Thompson water so the district could cover its depletions. The district's supply could run out by 2028 if drought continues, and the exchange would let the city keep more storage in Ralph Price Reservoir. The board also reviewed Ralph Price Reservoir water rights and Dry Creek Fire impacts near Button Rock.
   where: Ralph Price Reservoir / Button Rock
@@ -66,6 +90,9 @@
   - 10
   - 37
   - 66
+  topics:
+  - Water
+  - Environment & climate
 - title: Affordable housing fee-in-lieu, tax review and Longmont Housing Authority actions
   summary: Council took up the 2027 inclusionary housing fee-in-lieu adjustment and an expedited review process for affordable housing. The Housing Authority took up revenue bonds, private activity bond allocation, the Briarwood Apartments, its 2027 budget, and voucher plans. The countywide Affordable-Attainable Housing Tax was under a two-year review.
   where: Citywide
@@ -79,6 +106,10 @@
   - 35
   - 58
   - 59
+  topics:
+  - Housing
+  - Fees & rates
+  - Budget & taxes
 - title: Extraterritorial water service for Hygiene Fire Protection District
   summary: Council considered ordinances directing staff to process requests for a larger tap and an additional extraterritorial water service for the Hygiene Fire Protection District's fire house and fire suppression system. The Water Board was to make a recommendation.
   where: Hygiene Fire Protection District fire house
@@ -86,6 +117,9 @@
   - 20
   - 38
   - 66
+  topics:
+  - Water
+  - Fire & emergencies
 - title: Human services funding hearings and tier system
   summary: The Housing and Human Services Advisory Board set a two-tier scoring system (3.25 per question for funding consideration). It then held agency hearings through September and October on funding requests.
   where: Citywide
@@ -99,25 +133,40 @@
   - 53
   - 63
   - 73
+  topics:
+  - Health & human services
+  - Budget & taxes
 - title: Contractor's shops in MU-E zoning (citizen-initiated code change)
   summary: A citizen-initiated request would allow Contractor's Shops as a permitted use in the MU-E zone. Staff recommended approval with conditions, and the Planning and Zoning Commission could continue the hearing to November 18.
   where: MU-E zone district
   refs:
   - 69
+  topics:
+  - Zoning & development
+  - Economic development
 - title: Platte River Power Authority energy mix
   summary: Platte River Power Authority briefed council and the Sustainability Advisory Board on its noncarbon goals. 100% noncarbon by 2030 is not possible, in part because a federal emergency order kept Craig Unit 1 running. Its resource plan is expected in January 2028.
   where: Citywide
   refs:
   - 0
   - 13
+  topics:
+  - Energy
+  - Environment & climate
 - title: Show cause hearing for liquor license at 333 Main Street
   summary: The Local Licensing Authority scheduled a show cause hearing on a license over alleged disturbances, noise and open container violations. The first date was continued.
   where: 333 Main Street
   refs:
   - 15
   - 48
+  topics:
+  - Cannabis & liquor
+  - Downtown & business
 - title: Avis car rental at 206 S. Main Street
   summary: Avis proposed renting cars from the rear of the structure and storing vehicles in the back lot, which needs conditional use approval and City Council review because of the adjacent greenway.
   where: 206 S. Main Street
   refs:
   - 18
+  topics:
+  - Zoning & development
+  - Downtown & business

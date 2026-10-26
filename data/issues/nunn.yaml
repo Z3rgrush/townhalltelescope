@@ -5,6 +5,10 @@
   - 0
   - 1
   - 2
+  topics:
+  - Housing
+  - Zoning & development
+  - Land & property
 - title: Master Water Plan grant and water committee work
   summary: Council evaluated a bid recommendation for the engineer on the Master Water Plan grant. In October it planned to discuss water committee updates, an excess water usage ordinance and water tap considerations, and to vote on a tap approval with water share and tap fee. It also planned to vote on Kendra Minch as water committee chair.
   where: Townwide
@@ -12,6 +16,10 @@
   - 0
   - 3
   - 4
+  topics:
+  - Water
+  - Fees & rates
+  - Government operations
 - title: Wildfire Resiliency Code and hazard mitigation ordinance
   summary: Weld County approved the hazard mitigation plan, and the Town needs to adopt an ordinance for it. Council planned to adopt the Wildfire Resiliency Code, reviewed it on Sept. 17 and had an update on the wildfire ordinance in October.
   where: Townwide
@@ -20,32 +28,51 @@
   - 1
   - 2
   - 4
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  - Government operations
 - title: CDBG Senior Center grant and project manager
   summary: Council selected a project manager for the CDBG Senior Center grant in August. A vote to approve a project manager for a second CDBG grant was on the Oct. 15 agenda.
   where: Senior Center
   refs:
   - 0
   - 4
+  topics:
+  - Health & human services
+  - Government operations
 - title: 2027 budget draft
   summary: Council planned to review the initial 2027 budget draft and planning on Oct. 8. Weld County roads assistance and costs were to be discussed in the same session.
   where: Townwide
   refs:
   - 3
+  topics:
+  - Budget & taxes
+  - Roads & traffic
 - title: Blue Spruce Development on 4th Street
   summary: The Town is working on a development agreement with Blue Spruce Development, which needs to provide water shares.
   where: 4th Street
   refs:
   - 0
+  topics:
+  - Zoning & development
+  - Water
 - title: Concept plan for 20 acres of former Antelope Run
   summary: Council planned a preliminary concept plan review for Robert Kearny's 20 acres on the former Antelope Run property. An RV ordinance for the Town was also up for review.
   where: Former Antelope Run property
   refs:
   - 3
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Police vehicle leases and Byrne JAG grant
   summary: Council discussed leases for police vehicles and planned to vote on approving them. It also planned to approve an application for the Edward Byrne JAG grant.
   where: Townwide
   refs:
   - 2
+  topics:
+  - Policing & public safety
+  - Budget & taxes
 - title: Master drainage and safety plans, trees and Hediger Farms replat
   summary: The Master Drainage Plan and Comprehensive Safety Plan were to be posted online for 30 days for public review. Council adopted Resolution 2026-07 for the Hediger Farms minor replat. The Town received a $1,250 tree grant, with a matching $1,250 from the Town, for the cemetery and Veterans Park.
   where: Townwide; cemetery and Veterans Park
@@ -53,3 +80,7 @@
   - 0
   - 1
   - 2
+  topics:
+  - Utilities
+  - Zoning & development
+  - Parks & open space

@@ -6,38 +6,67 @@
   - 2
   - 3
   - 5
+  topics:
+  - Zoning & development
+  - Housing
+  - Tourism & events
 - title: Fire flow and water supply definitions for subdivisions and PUDs
   summary: Staff proposed a broader definition of 'water supply' for PUDs and subdivisions, with minimum fire flow as a narrower requirement. Tri-County Water has said its existing hydrants may not meet minimum fire flow pressure and flow recommendations.
   where: Countywide (Tri-County Water service area)
   refs:
   - 0
+  topics:
+  - Water
+  - Fire & emergencies
+  - Zoning & development
 - title: Water-wise landscaping and artificial turf rules in Zoning Section 3.11
   summary: Draft Section 3.11 adds state-driven 'water-wise' landscaping requirements for new development, including a broad invasive plant species definition and limits on artificial turf with an exception for athletic fields of play. Staff say the field-of-play wording needs further clarification.
   where: Countywide
   refs:
   - 5
+  topics:
+  - Water
+  - Zoning & development
+  - Environment & climate
 - title: Yurt limits and Colona zone changes in the zoning draft
   summary: Staff suggested the Planning Commission and county commissioners consider limiting yurts to one per parcel in the Alpine zone or all zones, to prevent multiple yurts claiming building code exemptions. The draft also adds a 'Commercial Storefront' special use to the Colona Zone.
   where: Alpine zone and Colona zone
   refs:
   - 5
+  topics:
+  - Zoning & development
+  - Housing
 - title: Curry subdivision at 1615 County Road 1
   summary: The Planning Commission holds a public hearing on Kilpin and Sandra Curry's combined preliminary and final development plan to subdivide the parcel into 2 lots. The commission is to make a recommendation to the county commissioners.
   where: 1615 County Road 1
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Pastor subdivision exemption at 6549 County Road 24
   summary: The Planning Commission hears Clifford Pastor's request for an exemption to divide a parcel into 2 lots and will make a recommendation to the county commissioners.
   where: 6549 County Road 24
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Joint planning agreement with the City and zoning map updates
   summary: Staff say 2022 changes to the Joint Planning IGA on annexation authority raised legal and planning concerns that Section 3 may need amending quickly. Staff also proposed keeping overlay district designations off the official zoning map because amending it is a lengthy hearing process.
   where: Countywide
   refs:
   - 5
+  topics:
+  - Annexation
+  - Zoning & development
+  - Government operations
 - title: Tribal consultation for renewable energy projects
   summary: Code changes respond to state law on Tribal consultation for renewable energy projects. Staff have contacted the Tribes and will shape the proposed language depending on their replies.
   where: Countywide
   refs:
   - 5
+  topics:
+  - Energy
+  - Environment & climate
+  - Government operations

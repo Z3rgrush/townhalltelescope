@@ -8,6 +8,10 @@
   - 25
   - 33
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Schools & youth
+  - Policing & public safety
 - title: Grace Chapel place of worship at 8500 E. Orchard Road
   summary: Grace Chapel asked for a Special Use Permit and Site Development Plan to repurpose an existing building and parking lot at 8500 E. Orchard Road as a place of worship, with 250 parking spaces and new LED lighting. Planning and Zoning recommended approval, and Council held the quasi-judicial hearing Aug. 17; staff found the approval criteria met.
   where: 8500 E. Orchard Road
@@ -16,12 +20,18 @@
   - 3
   - 5
   - 15
+  topics:
+  - Zoning & development
+  - Land & property
 - title: Recreation use with pickleball courts and new plat
   summary: Council held a quasi-judicial hearing on a site plan amendment, special use permit and final plat for a recreation use in the Mixed Commercial district. The plan removes a parking lot, adds open space and builds four pickleball courts. Public comments asked for a noise study.
   where: Mixed Commercial zoning district
   refs:
   - 1
   public_comment: true
+  topics:
+  - Zoning & development
+  - Recreation & trails
 - title: 2027 budget and mill levy
   summary: Council held first-reading public hearings on Ordinance 12-26 adopting the 2027 budget and Ordinance 13-26 setting the mill levies. A budget workshop was held Sept. 28.
   where: Citywide
@@ -29,6 +39,8 @@
   - 22
   - 32
   - 33
+  topics:
+  - Budget & taxes
 - title: EV charging station rules
   summary: Staff briefed Council on adding Land Development Code standards for commercial EV chargers, including screening of equipment, since the code is silent on them. This follows state law (HB 24-1173) requiring permitting standards, and the charger installation at 7600 E. Orchard Road. Staff is not recommending changes to approval processes, and an ordinance would come back later if Council directs.
   where: Citywide
@@ -36,18 +48,28 @@
   - 16
   - 30
   - 31
+  topics:
+  - Energy
+  - Zoning & development
 - title: EV chargers at 7600 E. Orchard Road
   summary: The Planning and Zoning Commission considered a fourth amendment to the site plan to approve four EV chargers where two were previously approved. A county recording error had led the city to issue a building permit based on the wrong plan.
   where: 7600 E. Orchard Road
   refs:
   - 16
   - 17
+  topics:
+  - Energy
+  - Zoning & development
 - title: High Line Canal irrigation phase two
   summary: Council considered a license agreement with Arapahoe County to install the second phase of well-water irrigation along the High Line Canal, running from Long Rd to Steele to Garden Ln. Work would continue through winter. Council also discussed Curtis Park, which stays on Denver Water because it would need a large booster pump.
   where: High Line Canal
   refs:
   - 23
   - 33
+  topics:
+  - Water
+  - Parks & open space
+  - Recreation & trails
 - title: Carson Park public art sculptures
   summary: The Arts and Humanities Council and staff asked Council to approve fabrication and installation of three sculptures by Kevin Shaffer in Carson Park, tied to the park improvements and the city's 75th anniversary. A public input meeting was held Aug. 26 in the park.
   where: Carson Park
@@ -57,11 +79,17 @@
   - 28
   - 29
   public_comment: true
+  topics:
+  - Libraries & culture
+  - Parks & open space
 - title: Side yard setback variance for garage addition, Monaco Heights
   summary: A homeowner in the Monaco Heights PUD requested a variance to build a garage addition about 15 feet from the side line instead of the required 20 feet. Staff found the request does not meet the criteria and noted a compliant garage is possible.
   where: Monaco Heights PUD
   refs:
   - 9
+  topics:
+  - Zoning & development
+  - Housing
 - title: Side yard variance for home addition (PZ-26-00028 area)
   summary: The Board of Adjustments and Appeals heard a variance for a 1959 home's north side yard setback, with 17% of the side yard and 1,303 sq ft encroached, and continued one case to Oct. 22. At that meeting an adjacent neighbor spoke against a variance, saying setbacks exist for a reason.
   where: West End Planning Area
@@ -69,15 +97,23 @@
   - 21
   - 37
   public_comment: true
+  topics:
+  - Zoning & development
+  - Housing
 - title: Brinkerhoff Landmark Restaurant site plan at 5390 Greenwood Plaza
   summary: Council scheduled a public hearing on the site development plan for the Brinkerhoff Landmark Restaurant, with a related development improvement agreement.
   where: 5390 Greenwood Plaza
   refs:
   - 14
   - 15
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: City use of artificial intelligence
   summary: Council discussed a careful approach to using AI in city operations, focused on protecting sensitive information before any broader adoption.
   where: Citywide
   refs:
   - 12
   - 13
+  topics:
+  - Government operations

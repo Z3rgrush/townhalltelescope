@@ -7,6 +7,9 @@
   - 13
   - 14
   - 16
+  topics:
+  - Water
+  - Utilities
 - title: Minturn shooting range grant and USFS special use permit
   summary: Minturn was awarded a $225,000 grant from Colorado Parks and Wildlife to improve the shooting range and address long-standing issues. The town is seeking possible in-kind help from Eagle County, such as road grading, and council is discussing a USFS special use permit application, with a status update on Oct. 21.
   where: Town shooting range
@@ -16,6 +19,11 @@
   - 13
   - 14
   - 16
+  topics:
+  - Recreation & trails
+  - Land & property
+  tags:
+  - guns
 - title: 2027 budget, staffing and compensation
   summary: Staff and council began 2027 budget talks in August, set a budget schedule in September, and on Oct. 7 had the 2027 budget acceptance and a discussion of staffing, compensation and benefits. Sales tax was about $10K down year to date as of August. Traffic-calming items such as speed bumps are being weighed for the FY 2027 budget.
   where: Townwide
@@ -25,6 +33,9 @@
   - 9
   - 13
   - 14
+  topics:
+  - Budget & taxes
+  - Government operations
 - title: 2026 Historic Preservation Plan
   summary: The Historic Preservation Commission reviewed and amended the final 2026 plan in September, discussing a possible historic district and budget funds for preservation. Council was set to vote on adopting it via Resolution 45 on Oct. 7. The plan is described as an educational guide, not a regulation. The commission also chose Ken Halliday as chair and Dan Brown as vice chair.
   where: Townwide
@@ -35,42 +46,60 @@
   - 7
   - 13
   - 14
+  topics:
+  - Historic preservation
 - title: Main Street parking study and speed camera study
   summary: A planning intern presented parking study findings in August. Commissioners suggested a winter study and later-evening counts, plus marking parking spaces on Main St. Staff will proceed with a Main Street speed camera study and options for neighborhood traffic calming.
   where: Main Street
   refs:
   - 0
   - 9
+  topics:
+  - Roads & traffic
+  - Downtown & business
 - title: Neighborhood traffic calming in Boulder and Pine Street area
   summary: After resident requests, staff is evaluating funding for more speed bumps or speed tables in the Boulder and Pine Street area as part of the FY 2027 budget.
   where: Boulder and Pine Streets
   refs:
   - 9
   public_comment: true
+  topics:
+  - Roads & traffic
+  - Budget & taxes
 - title: Land use code update including Bolts Lake zoning
   summary: Planning Commission discussed draft code definitions and rules, including whether decks count as pervious surfaces, parking area drainage, bulk plane illustrations, and Bolts Lake zone district uses tied to a settlement agreement.
   where: Townwide, Bolts Lake
   refs:
   - 4
   - 5
+  topics:
+  - Zoning & development
 - title: Mobile and modular business pilot program and drainage improvement
   summary: Council considered Resolution 47 for a Mobile & Modular Business Pilot Program and Resolution 46 authorizing a drainage improvement on Oct. 7. Details are not in the documents.
   where: Townwide
   refs:
   - 13
   - 14
+  topics:
+  - Economic development
+  - Utilities
 - title: DDA Investment and Incentive Policy
   summary: The Downtown Development Authority board considered Resolution 02 adopting an investment and incentive policy. It includes a small project matching grant program, large redevelopment and catalyst projects, and strategic property acquisition.
   where: Downtown Minturn
   refs:
   - 10
   - 11
+  topics:
+  - Downtown & business
+  - Economic development
 - title: 161 Main St variance extension
   summary: Council considered Resolution 42 extending a variance for 161 Main St. Councilmember Spence N. recused himself as the applicant.
   where: 161 Main St
   refs:
   - 3
   - 9
+  topics:
+  - Zoning & development
 - title: Sheriff service agreement, housing authority and regional coordination
   summary: Council discussed a joint meeting with Eagle County on regional topics including the Regional Housing Authority and e-bike rules, and an Eagle County Sheriff's Office service agreement was on the Oct. 21 agenda.
   where: Countywide
@@ -79,9 +108,15 @@
   - 8
   - 14
   - 16
+  topics:
+  - Policing & public safety
+  - Housing
+  - Government operations
 - title: Trash can violation letter dispute at 537 Pine St
   summary: Resident Mark Sifers asked to have a letter about a trash can violation at 537 Pine St retracted from his record. He said he had not heard back and wants resolution.
   where: 537 Pine St
   refs:
   - 0
   public_comment: true
+  topics:
+  - Government operations

@@ -4,6 +4,9 @@
   refs:
   - 26
   - 32
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: 2026 revised and 2027 operating and capital budgets
   summary: Council reviewed the economic and fiscal update, draft budgets and long range financial plan, held department budget presentations in September, and scheduled an Oct. 13 public hearing on the 2027 budgets. The Library Advisory Board was told the 2027 library budget is flat, with concern that it could erode over the longer term.
   where: Citywide
@@ -14,6 +17,8 @@
   - 25
   - 27
   - 32
+  topics:
+  - Budget & taxes
 - title: 'Affordable housing: Prop 123 opt-in, expedited review and inclusionary housing'
   summary: Council discussed opting in to the next Proposition 123 cycle with DOLA and creating an expedited review process for affordable housing, then took up the Cycle 2 opt-in resolution on Sept. 22. Staff also updated Council on the housing needs assessment and the status of an inclusionary housing ordinance, and the Housing Alliance gave its annual update.
   where: Citywide
@@ -22,11 +27,18 @@
   - 18
   - 21
   - 26
+  topics:
+  - Housing
+  - Zoning & development
 - title: Transit-oriented communities density rules (HB24-1313) and development review
   summary: At an Aug. 3 study session Council reviewed the development review process and sought direction on complying with state transit-oriented communities law. That law requires increased density and administrative review for qualifying properties near transit.
   where: Properties near transit
   refs:
   - 2
+  topics:
+  - Zoning & development
+  - Transit
+  - Housing
 - title: 'November 2026 ballot: lodging tax and Xcel franchise'
   summary: Council referred a lodging tax question to the Nov. 3, 2026 ballot and later considered resolutions supporting Ballot Item 1A (lodging tax) and 1B (Broomfield-Xcel franchise agreement). Council also approved election IGAs for the November general election and considered a district attorney term-limits ballot question.
   where: Citywide
@@ -35,52 +47,83 @@
   - 11
   - 26
   - 32
+  topics:
+  - Elections
+  - Budget & taxes
+  - Utilities
 - title: Protecting outdoor recreation facilities in site plan amendments
   summary: Ordinance 2305 would require a public hearing for site development plan amendments that reduce or eliminate outdoor recreation facilities. It had first reading Aug. 25 and second reading Sept. 22.
   where: Citywide
   refs:
   - 11
   - 26
+  topics:
+  - Recreation & trails
+  - Zoning & development
 - title: Northlands PUD amendment for hospital building height and parking
   summary: Council considered a Northlands PUD amendment to change building height and parking requirements for hospital and medical office uses (Resolution 2026-95).
   where: Northlands
   refs:
   - 0
+  topics:
+  - Zoning & development
+  - Health & human services
 - title: Fiscal impact review criteria for rezonings and PUDs
   summary: Ordinance 2306 adds fiscal impact review criteria for rezonings, PUD plans and amendments, and use by special review. It had second reading and a public hearing on July 28.
   where: Citywide
   refs:
   - 0
+  topics:
+  - Zoning & development
+  - Budget & taxes
 - title: Electric vehicle charging rules and fees
   summary: Council set a fee structure for EV charging stations on city property and held second reading of an ordinance making EV charging a primary permitted use in non-residential districts.
   where: Citywide
   refs:
   - 6
   - 18
+  topics:
+  - Energy
+  - Fees & rates
+  - Zoning & development
 - title: Electronic bike enforcement ordinance
   summary: Council heard first reading of Ordinance 2311 on electronic bike enforcement on Aug. 25.
   where: Citywide
   refs:
   - 11
+  topics:
+  - Roads & traffic
+  - Policing & public safety
 - title: Rail district station narrative for Front Range Passenger Rail
   summary: Council considered resolutions on a rail district station narrative for joint service and Front Range Passenger Rail. Councilmember Ward also asked for a study session on regional transportation authorities.
   where: Broomfield rail corridor
   refs:
   - 6
   - 26
+  topics:
+  - Transit
 - title: Palisade Park Chipotle plat and site plan
   summary: Council and the Broomfield Urban Renewal Authority held public hearings on the final plat and site development plan for a Chipotle at Palisade Park.
   where: Palisade Park
   refs:
   - 18
+  topics:
+  - Zoning & development
+  - Downtown & business
 - title: Nordstrom Silo landmark nomination
   summary: Council considered a landmark nomination for the Nordstrom Silo (Resolution 2026-111) on Sept. 22.
   where: Nordstrom Silo
   refs:
   - 26
+  topics:
+  - Historic preservation
 - title: Enterprise utility ordinance
   summary: Ordinance 2308, establishing an enterprise utility, had first reading on Oct. 13, and Council also considered the Mile High Water license.
   where: Citywide
   refs:
   - 18
   - 32
+  topics:
+  - Utilities
+  - Water
+  - Fees & rates
