@@ -321,7 +321,7 @@
   name: Lone Tree
   county: Douglas
   adapter: civicweb
-  base: https://cityoflonetree.civicweb.net
+  base: https://cityoflonetree.community.diligentoneplatform.com
 - id: sterling
   name: Sterling
   county: Logan
@@ -1055,3 +1055,16 @@
   county: Grand
   adapter: destiny
   base: https://public.destinyhosted.com/47262/agenda/
+- id: el-paso-county
+  name: El Paso County
+  county: El Paso
+  adapter: agendasuite
+  base: https://www.agendasuite.org/iip/elpaso
+  bodies: Board of County Commissioners|Planning Commission
+- id: eagle-county
+  name: Eagle County
+  county: Eagle
+  # Meeting videos on the county's Cablecast channel; their chapters are the agenda items.
+  adapter: cablecast
+  base: https://reflect-vod-eaglecounty.cablecast.tv
+  titles: Board of County Commissioners|Planning Commission

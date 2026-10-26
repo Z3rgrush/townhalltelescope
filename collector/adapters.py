@@ -125,6 +125,37 @@ def destiny(src, start, end, log):
     log(f"  {n} agendas in window")
 
 
+def agendasuite(src, start, end, log):
+    """AgendaSuite (El Paso County): the meeting list's past 90 days, each meeting's details page holding its agenda."""
+    base = src["base"].rstrip("/")
+    bodies = re.compile(src.get("bodies", "."), re.I)
+    seen, n = set(), 0
+    for i in range(0, 8):
+        # The list pages past meetings, newest first; stop once a page adds nothing in the window.
+        page, final = soup(f"{base}/meeting/list" + (f"/{i}" if i else ""))
+        before = n
+        for doc in _agendasuite_rows(src["id"], page, final, bodies, start, end, seen):
+            n += 1
+            yield doc
+        if i and n == before:
+            break
+    log(f"  {n} meetings in window")
+
+
+def _agendasuite_rows(source, page, final, bodies, start, end, seen):
+    for tr in page.find_all("tr"):
+        cells = [c.get_text(" ", strip=True) for c in tr.find_all("td")]
+        link = tr.find("a", href=re.compile(r"/meeting/details/\d+"))
+        if len(cells) < 5 or not link:
+            continue
+        d, body = find_date(cells[2]), cells[4]
+        href = urljoin(final, link["href"])
+        if href in seen or not bodies.search(body) or not _in_window(d, start, end):
+            continue
+        seen.add(href)
+        yield Doc(source, body, d, f"{body} - {cells[1]}", href, "agenda")
+
+
 def civicclerk(src, start, end, log):
     """CivicClerk portals expose a public OData API (Unified Government, Bonner Springs)."""
     api = f"https://{src['tenant']}.api.civicclerk.com/v1"
@@ -487,5 +518,5 @@ def onbase(src, start, end, log):
     log(f"  {n} documents in window from {len(pages)} page(s)")
 
 
-ADAPTERS = {f.__name__: f for f in (civicweb, destiny, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
+ADAPTERS = {f.__name__: f for f in (civicweb, destiny, agendasuite, civicclerk, agendacenter, linkscan, legistar, primegov, escribe,
                                     cablecast, wp_events, granicus, onbase)}
