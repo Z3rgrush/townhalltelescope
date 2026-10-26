@@ -1,0 +1,30 @@
+name: trial
+# Runs the collector for a few sources side by side without committing, to test new adapters.
+on:
+  workflow_dispatch:
+    inputs:
+      only: {description: "Comma-separated source ids", required: true}
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      ids: ${{ steps.ids.outputs.ids }}
+    steps:
+      - id: ids
+        env:
+          ONLY: ${{ github.event.inputs.only }}
+        run: echo "ids=$(python3 -c "import json,os;print(json.dumps(os.environ['ONLY'].split(',')))")" >> "$GITHUB_OUTPUT"
+  trial:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        id: ${{ fromJson(needs.plan.outputs.ids) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: timeout 25m python -u -m collector.collect --region co --only "${{ matrix.id }}"
