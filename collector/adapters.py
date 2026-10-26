@@ -182,7 +182,7 @@ def _weblink_listing(weblink_base, repo, folder_id):
         "repoName": repo, "folderId": folder_id, "getNewListing": True, "start": 0, "end": 40,
         "sortColumn": "Name", "sortAscending": False})
     r.raise_for_status()
-    return r.json()["data"].get("results") or []
+    return [e for e in r.json()["data"].get("results") or [] if e]  # unloaded rows come back as null
 
 
 def weblink(src, start, end, log):
