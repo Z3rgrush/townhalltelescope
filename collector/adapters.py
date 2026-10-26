@@ -201,11 +201,12 @@ def weblink(src, start, end, log):
         base, repo = f["weblink"].rstrip("/"), f["repo"]
         entries = _weblink_listing(base, repo, f["id"])
         # Year folders ("2026") narrow the walk to the window; other subfolders are left out.
-        years = [e for e in entries if e["type"] == 0 and re.fullmatch(r"\d{4}", e["name"].strip())
+        # Type 0 is a folder and 1 a record series (Estes Park); both hold other entries.
+        years = [e for e in entries if e["type"] in (0, 1) and re.fullmatch(r"\d{4}", e["name"].strip())
                  and start.year <= int(e["name"]) <= end.year]
-        docs = [e for e in entries if e["type"] != 0]
+        docs = [e for e in entries if e["type"] not in (0, 1)]
         for y in years:
-            docs += [e for e in _weblink_listing(base, repo, y["entryId"]) if e["type"] != 0]
+            docs += [e for e in _weblink_listing(base, repo, y["entryId"]) if e["type"] not in (0, 1)]
         n = 0
         for e in docs:
             d = find_date(e["name"])
@@ -334,7 +335,7 @@ def linkscan(src, start, end, log):
                 continue
             seen.add(href)
             if DOCLIKE.search(href):
-                yield Doc(src["id"], "City Council", d, text or href, href, kind_of(text + " " + href))
+                yield Doc(src["id"], src.get("body", "City Council"), d, text or href, href, kind_of(text + " " + href))
             elif urlparse(href).netloc == host:
                 # A meeting detail page: take the documents linked from it.
                 try:
@@ -350,7 +351,7 @@ def linkscan(src, start, end, log):
                         # Detail pages often list other meetings' files too, so trust a date in the file itself.
                         d2 = find_date(t2, h2) or d
                         if _in_window(d2, start, end):
-                            yield Doc(src["id"], "City Council", d2, f"{text} - {t2}", h2, kind_of(t2 + " " + h2))
+                            yield Doc(src["id"], src.get("body", "City Council"), d2, f"{text} - {t2}", h2, kind_of(t2 + " " + h2))
 
 
 def legistar(src, start, end, log):

@@ -1165,6 +1165,7 @@
   name: Moffat County
   county: Moffat
   adapter: linkscan
+  body: Board of County Commissioners
   # Minutes and agenda packets are linked by date only ("September 8, 2026" -> 090826.pdf).
   follow: "/files/[^/]+\\.pdf$"
   pages:
@@ -1186,3 +1187,10 @@
   folders:
   - {weblink: "https://lfpublic.avon.org/WebLink", repo: TownofAvon, id: 69873, kind: minutes}
   - {weblink: "https://lfpublic.avon.org/WebLink", repo: TownofAvon, id: 67538, kind: agenda}
+- id: estes-park
+  name: Estes Park
+  county: Larimer
+  adapter: weblink
+  folders:
+  - {weblink: "https://dms.estes.org/WebLink", repo: TownofEstesPark, id: 25, kind: minutes, body: Town Board}
+  - {weblink: "https://dms.estes.org/WebLink", repo: TownofEstesPark, id: 24, kind: minutes, body: Town Board Study Session}
