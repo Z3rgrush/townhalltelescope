@@ -17,7 +17,7 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.TOWNHALL_SECRET }}
           EXTRACT_MODEL: ${{ vars.EXTRACT_MODEL }}
           ONLY: ${{ github.event.inputs.only }}
           ALL: ${{ github.event.inputs.all }}

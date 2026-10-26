@@ -24,14 +24,14 @@ jobs:
           ONLY: ${{ github.event.inputs.only }}
           NO_TEXT: ${{ github.event.inputs.no_text }}
         run: python -m collector.collect --region co --days "$DAYS" --only "$ONLY" $([ "$NO_TEXT" = "true" ] && echo --no-text)
-      # Issue extraction needs the ANTHROPIC_API_KEY repository secret. Without it the new
+      # Issue extraction needs the TOWNHALL_SECRET repository secret (an Anthropic API key). Without it the new
       # meetings are still collected, and the map keeps its current issues.
       - name: Extract issues and rebuild the map
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.TOWNHALL_SECRET }}
           EXTRACT_MODEL: ${{ vars.EXTRACT_MODEL }}
         run: |
-          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "No ANTHROPIC_API_KEY secret; skipping extraction"; exit 0; fi
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "No TOWNHALL_SECRET secret; skipping extraction"; exit 0; fi
           python scripts/condense.py
           python scripts/extract_issues.py
           python scripts/build_map.py
