@@ -1,0 +1,130 @@
+# moffat-county
+
+## [moffat-county#0] 2026-07-28 | Board of County Commissioners | agenda
+- Villard made a motion to approve the agenda as presented. Bohrer seconded the motion. Motion carried 3-0
+- Resolutions:
+- Contracts dc Reports:
+- Emergency Preparedness Conrract Amendment #4
+- g) CO Youth Continuum - l4tlludicial District Sub-Grantee Agreement
+- Villard made a motion to approve the consent agenda items AJ. Broom seconded the motion. Motion carried
+- Please note that the Board may discuss any topic relevant to County business, whether or not the topic has been specifically noted on
+- Public Comment/General Discussion:
+- siruation is looked into. Bennett also asked about the chip seal project on CR 7 andobserved thar the amounr
+- of gravel seems to be excessive this year. In addition, Bennett made some comments about data centers
+- No General Discussion
+- Planning e* Zoning - Candace Miller
+- Data Center policy & regulation discussion
+- Miller notified the Board that the Planning Deparrment and the Planning & Zoning Commission will srarr a
+- formal review process, beginning at their August 5th meeting, of the Counry's existing zoning resolution and
+- potential regulations as they relate to data centers, and asked for the Board s suppofi and guidance as they
+- Water use and cooling systems;
+- Elecrrical demand, infrastrucfurre, and potential impacts on existing ratepayers;
+- Emergency response, wildfire risk, and public saferfi
+- Economic benefits, employment, taxation, and communiry benefit agreements;
+- Appropriate zoning districts, permitting requirements, and operational standards
+- The purpose of this review is not to approve or reject a pafticular project. It is to ensure that Moffat Counry is
+- Miller reiterated that the Planning 6e Zoning Commission meetings are held on the first Wednesday of each
+- Public Hearing:
+- Resolution 2026-83:July Budget Supplemental (see attached)
+- Villard read the Public Hearing protocol and declared the Public Hearing open
+- Nielson presented theJuly Budget Supplemental and highlighted any transactions that were over $10,000. The
+- suppiemental provides a chance for various departments to amend their budget amounts due to a change in
+- revenues, grants or unanticipated needs
+- Budget supplemental requests by category:
+- *Emergency Reserve is 10% ofthe current year's general fund budget
+- Commissioner Bohrer gave a brief overview of the Supplemental Budget process
+- Supplemental Budget
+- There was no public comment either for or against
+- Back in regular session, Bohrer moved to approve theJuly Budget Suppiemental (Resolution2O26-83). Broom
+- Moffat Economic Development Authority -Jeff Comstock
+- Resolution 2026-87: Resolution Approving the Amended and Restated Invesrment Policy of the
+
+## [moffat-county#1] 2026-08-25 | Board of County Commissioners | agenda
+- Villard made a motion to approve the agenda as presented. Bohrer seconded the motion. Ir4otion carried 3-0
+- Resolutions:
+- Contracts ec Reports:
+- 0 Department of Human Services - Core Services Program - Mental Health Treatment contract wlGtay
+- Villard made a motion to approve the consent agenda items A-F. Broom seconded the motion. Motion carried
+- please nore that the Board may discuss any topic relevanr to County business, whether or not the topic has been specifically noted on
+- Public Comment:
+- George Miner, a Moffat Counry Road 6s Bridge Department employee, asked the BCC to examine
+- General Discussion:
+- Commissioner Bohrer apologized that there would not be any discussion/action regarding adatacenter
+- moratorium at this meeting. The moratorium will be first presented at the Planning & Zoning Commission
+- and discussion on1y, and no decisions are made
+- Intergovernmental Agreement - Term Limit Ballot Question (Resolution 2026-100)
+- Salazar presented Resolution 2026-100,a Referendum on Term Limits, which would allow the voters of
+- He also presented the Intergovernmental Agreement with the Clerks Office to get this on the November bal1ot
+- Broom moved to approve Resolution 2026-100. Bohrer seconded the motion. Motion carried 3-0
+- Broom moved to approve the Intergovernmental Agreement with the Clerk's Office. Bohrer seconded the
+- Resolution 2026-96:welba peak Mineral Lease (see attached)
+- Bohrer moved to approve Resolution 2026-96:Welba Peak Mineral Lease. Broom seconded the motion
+- Presentation:
+- Approved by:
+- Approved on: 2)
+
+## [moffat-county#2] 2026-09-08 | Board of County Commissioners | agenda
+- Viliardmade a motion to approve the agenda as presented. Bohrer seconded the motion. Motion carried 3-0
+- Resolutions:
+- b) 2026-10I: Voided Warrants Resolution flor the month of September
+- Contracts [c Reports:
+- j) Deparrment of Human Services 2026-27 Core Services Program contract with Colorado Deparrment of
+- k) MCTA grant application to CO Tourism Office
+- Decarbonizarion Showcase Grant
+- Villard made a motion to approve the consent agenda items A-N{. Broom seconded the motion. Bohrer asked for
+- Please note rhat rhe Board may discuss any topic relevant to County business, whether or not the topic has been specifically noted on
+- George Miner, a Moffat Counry Road [s Bridge Department empioyee, came up before the BCC to ask for
+- follow up on his previous request that they examine inconsistencies in the "snow bank" pa),rnent policy
+- Brian Dunn, President & CEO of Pure-Green Colorado, spoke to the BCC about the Trapper Reborn project,
+- businesses/indusrries for the location and requested that the BCC not pass a moratorium that might impact
+- Scott Blecke, CEO of Yampa Valley Elecrric, gave a general statement regarding data centers and energy use
+- He requested that WEA be at the table and part of the conversation when it gets to thar point
+- Roberta Hawks, gave kudos to the Planning 6c Zoning Commission for taking on the rule making process of
+- data center regulations in Moffar County. She wondered if they were allowing themselves enough time to
+- formulate the rules and regulations without enacting at least a short moratorium? She requested transparency
+- organizations does, supports the economic development possibilities of the Trapper Reborn project, and
+- Matt Cooper, feels a moratorium is not the way to go and we need to bring businesses and jobs into the area to
+- help retain our population and tax base. Get the boundaries set in advance, but setting a moratorium is not in
+- General Discussion:
+- Request reinstatement of the Employee Health Insurance Board (see attached)
+- Appoint Employee Health Insurance Board members
+- Bower appeared before the BCC to request reinstatement of the Employee Health Insurance Advisory Board
+- and formally appoint five new board members that were elected by employees
+- recommendations that may help improve the adminisrration of the plan and sustain employer and employee
+- Bohrer moved to appoint Amy Wilson, Brad McDermott, Denise Baptist, Heather Brumblow, and Brian
+- Office of Development Services - Neil Binder
+- Discuss Loudy-Simpson Park Master Plan (see artached)
+- Binder presented a proposal from Logan Simpson for a Loudy-simpson Park Master PIan, that would assist the
+
+## [moffat-county#3] 2026-09-22 | Board of County Commissioners | agenda
+- Villard made a motion to approve the agenda as presented. Bohrer seconded the motion. ]r,,lotion carried 3-0
+- Resolutions:
+- Contracts 6u Reports:
+- l) Office of Development Services/Logan Simpson - Loudy-simpson Park Master Plan Development
+- g) Application for Authorization to Operate an Ambulance Service (updated)
+- h) Moffat County Wheelpark grant application
+- i) Request for New ApprovedJurisfictional Determination - Wolf Creek Reservoir Project
+- Villard made a motion to approve the consent agenda items A-I. Broom seconded the motion. Motion carried 3
+- Please note that the Board may discuss any topic relevant to County business, whether or not the topic has been specifically noted on
+- Public Comment:
+- General Discussion:
+- next night, October 6, for a fact-based, "expert" panel discussion. This is not about a specific project; it has to
+- do with regulations that the Counry needs to have in place before anyone does come to us with a project
+- Resolution2026-lll: Resolution Adopting Moffat Counry Contract Monitoring Policy
+- Salazar presented Resolution 2026-IIl Resolution Adopting Moffat Counry Contract Monitoring Policy. This
+- policy establishes a clear, consistent standard for the monitoring and adminisrradon of contracts, grants,
+- subawards, intergovernmental agreements and other funding arrangements entered into by the Counry. Proper
+- monitoring ensures that contracts, vendors, consultants, and subrecipients meet their obligations, that public
+- with federal and state requirements, and accurate financial reporting and audit readiness
+- Broom moved to approve Resolution 2026-lll'. Resolution Adopting N,loffat County Contract Monitoring
+- 2) Office of Development Services - Neil Binder Nc Craig Skatepark Alliance -Jo, Miller
+- Presentgrant applications to:
+- Binder explained that these rwo grant applications would be for "capital stack" to go towards construction of
+- the skatepark. Each grant is for $25,000. Miller gave a brief overview of the grant writing process for this
+- project. He also described how the $oup is going to apply for a GOCO grant inJanuary and have been
+- pursuing a specific skatepark designer. Once the design is in place, that can help materialtze more fundraising
+- Bohrer moved to approve grant applications for the LauraJane Musser Fund and the El Pomar Foundation
+- (Item #3 was pulled from the agenda due to the contract being incomplete)
+- Presentation:
+- The Board will consider a motion to convene an executive session, pursuant to the Colorado Open Meetings
+- To discuss personnel matters under s 24-6-402(4)(0, C.R.S., and to discuss documents classified as

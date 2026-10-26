@@ -1639,6 +1639,46 @@
   "url": "https://www.auroragov.org/common/pages/GetFile.ashx?key=fb1GAcRD",
   "public_url": null
  },
+ "avon#0": {
+  "date": "2026-07-28",
+  "body": "Town Council",
+  "kind": "minutes",
+  "title": "TC Minutes 07-28-2026",
+  "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon",
+  "public_url": null
+ },
+ "avon#1": {
+  "date": "2026-08-11",
+  "body": "Town Council",
+  "kind": "minutes",
+  "title": "TC Minutes 08-11-2026",
+  "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412746&dbid=0&repo=TownofAvon",
+  "public_url": null
+ },
+ "avon#2": {
+  "date": "2026-08-25",
+  "body": "Town Council",
+  "kind": "minutes",
+  "title": "TC Minutes 08-25-2026",
+  "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413310&dbid=0&repo=TownofAvon",
+  "public_url": null
+ },
+ "avon#3": {
+  "date": "2026-09-08",
+  "body": "Town Council",
+  "kind": "minutes",
+  "title": "TC Minutes 09-08-2026",
+  "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413688&dbid=0&repo=TownofAvon",
+  "public_url": null
+ },
+ "avon#4": {
+  "date": "2026-09-22",
+  "body": "Town Council",
+  "kind": "minutes",
+  "title": "TC Minutes 09-22-2026",
+  "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413792&dbid=0&repo=TownofAvon",
+  "public_url": null
+ },
  "basalt#1": {
   "date": "2026-08-10",
   "body": "Green Team",
@@ -7279,6 +7319,174 @@
   "url": "https://www.cityofdelta.net/AgendaCenter/ViewFile/Agenda/_10202026-144",
   "public_url": null
  },
+ "delta-county#0": {
+  "date": "2026-07-28",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners July 28, 2026 Special Meeting - Board of County Commissioners July 28, 2026 Special Meeting",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2033,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1790/files"
+ },
+ "delta-county#1": {
+  "date": "2026-07-29",
+  "body": "Planning Commission",
+  "kind": "minutes",
+  "title": "Planning Commission Special Meeting - July 8, 2026 PC Minutes",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2031,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1796/files"
+ },
+ "delta-county#2": {
+  "date": "2026-08-04",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners August 4, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2038,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1637/files"
+ },
+ "delta-county#3": {
+  "date": "2026-08-12",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Regular Meeting - Planning Commission Meeting Agenda",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2043,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1747/files"
+ },
+ "delta-county#4": {
+  "date": "2026-08-12",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Regular Meeting - Planning Commission Meeting Agenda Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2044,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1747/files"
+ },
+ "delta-county#5": {
+  "date": "2026-08-18",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners August 18, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2047,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1698/files"
+ },
+ "delta-county#6": {
+  "date": "2026-08-18",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Public Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2048,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1698/files"
+ },
+ "delta-county#7": {
+  "date": "2026-08-24",
+  "body": "Board of Health",
+  "kind": "agenda",
+  "title": "Special BOH meeting for OWTS Variance - BOH Special Meeting - OWTS",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2051,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1799/files"
+ },
+ "delta-county#8": {
+  "date": "2026-08-24",
+  "body": "Board of Health",
+  "kind": "agenda",
+  "title": "Board of Health  Work Session - Board Of Health Work Session",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2053,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1807/files"
+ },
+ "delta-county#9": {
+  "date": "2026-09-01",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners September 1, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2057,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1687/files"
+ },
+ "delta-county#10": {
+  "date": "2026-09-01",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Public Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2058,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1687/files"
+ },
+ "delta-county#11": {
+  "date": "2026-09-15",
+  "body": "Board of Health",
+  "kind": "agenda",
+  "title": "Board of Health Regular Meeting - Board of Health Meeting Agenda",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2061,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1845/files"
+ },
+ "delta-county#12": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioners September 15, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2066,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+ },
+ "delta-county#13": {
+  "date": "2026-09-15",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Public Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2067,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+ },
+ "delta-county#14": {
+  "date": "2026-10-06",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners' Regularly Scheduled Monthly Meeting - Board of County Commissioners October 6, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2069,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1688/files"
+ },
+ "delta-county#15": {
+  "date": "2026-10-06",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners' Regularly Scheduled Monthly Meeting - Public Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2072,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1688/files"
+ },
+ "delta-county#16": {
+  "date": "2026-10-13",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Special Meeting - Board of County Commissioners Special Meeting October 13, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2074,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1890/files"
+ },
+ "delta-county#17": {
+  "date": "2026-10-14",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Regular Meeting - Planning Commission Meeting Agenda",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2081,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1749/files"
+ },
+ "delta-county#18": {
+  "date": "2026-10-14",
+  "body": "Planning Commission",
+  "kind": "agenda",
+  "title": "Planning Commission Regular Meeting - Planning Commission  Agenda Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2082,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1749/files"
+ },
+ "delta-county#19": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Board of County Commissioner October 20, 2026",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2090,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1605/files"
+ },
+ "delta-county#20": {
+  "date": "2026-10-20",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "Board of County Commissioners Meeting - Public Packet",
+  "url": "https://deltacoco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2091,plainText=false)",
+  "public_url": "https://deltacoco.portal.civicclerk.com/event/1605/files"
+ },
  "denver#0": {
   "date": "2026-07-28",
   "body": "Finance and Business",
@@ -8695,6 +8903,86 @@
   "url": "https://townofdovecreek.colorado.gov/sites/g/files/lrnvjt3086/files/documents/Agenda2026.10.15.pdf",
   "public_url": null
  },
+ "durango#0": {
+  "date": "2026-10-12",
+  "body": "URA Study Session",
+  "kind": "agenda",
+  "title": "URA Study Session Agenda 2026-10-12",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/URA_Study_Session_8339_Agenda_10_12_2026_2_00_00_PM?documentType=1&meetingId=8339",
+  "public_url": null
+ },
+ "durango#1": {
+  "date": "2026-10-13",
+  "body": "BID Board Meeting",
+  "kind": "agenda",
+  "title": "BID Board Meeting Agenda 2026-10-13",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/BID_Board_Meeting_8131_Agenda_10_13_2026_8_30_00_AM?documentType=1&meetingId=8131",
+  "public_url": null
+ },
+ "durango#2": {
+  "date": "2026-10-13",
+  "body": "City Council Joint Study Session with County Commissioners",
+  "kind": "agenda",
+  "title": "City Council Joint Study Session with County Commissioners Agenda 2026-10-13",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Joint_Study_Session_with_County_Commissioners_8336_Agenda_10_13_2026_2_30_00_PM?documentType=1&meetingId=8336",
+  "public_url": null
+ },
+ "durango#3": {
+  "date": "2026-10-14",
+  "body": "City Council Special Meeting - Budget Retreat",
+  "kind": "agenda",
+  "title": "City Council Special Meeting - Budget Retreat Agenda 2026-10-14",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Special_Meeting_-_Budget_Retreat_8338_Agenda_10_14_2026_9_00_00_AM?documentType=1&meetingId=8338",
+  "public_url": null
+ },
+ "durango#4": {
+  "date": "2026-10-15",
+  "body": "Durango - La Plata County Airport Commission",
+  "kind": "agenda",
+  "title": "Durango - La Plata County Airport Commission Agenda 2026-10-15",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Durango_-_La_Plata_County_Airport_Commission_8340_Agenda_10_15_2026_3_00_00_PM?documentType=1&meetingId=8340",
+  "public_url": null
+ },
+ "durango#5": {
+  "date": "2026-10-15",
+  "body": "Financial Advisory Board Study Session",
+  "kind": "agenda",
+  "title": "Financial Advisory Board Study Session Agenda 2026-10-15",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Financial_Advisory_Board_Study_Session_8325_Agenda_10_15_2026_4_00_00_PM?documentType=1&meetingId=8325",
+  "public_url": null
+ },
+ "durango#7": {
+  "date": "2026-10-20",
+  "body": "City Council Regular Meeting",
+  "kind": "agenda",
+  "title": "City Council Regular Meeting Agenda 2026-10-20",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219",
+  "public_url": null
+ },
+ "durango#8": {
+  "date": "2026-10-22",
+  "body": "Community Development Commission Study Session",
+  "kind": "agenda",
+  "title": "Community Development Commission Study Session Agenda 2026-10-22",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Community_Development_Commission_Study_Session_8173_Agenda_10_22_2026_4_00_00_PM?documentType=1&meetingId=8173",
+  "public_url": null
+ },
+ "durango#9": {
+  "date": "2026-10-26",
+  "body": "Board of Adjustment (BOA) Meeting",
+  "kind": "agenda",
+  "title": "Board of Adjustment (BOA) Meeting Agenda 2026-10-26",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Board_of_Adjustment_(BOA)_Meeting_8352_Agenda_10_26_2026_5_00_00_PM?documentType=1&meetingId=8352",
+  "public_url": null
+ },
+ "durango#10": {
+  "date": "2026-10-26",
+  "body": "Hybrid Community Development Commission Meeting",
+  "kind": "agenda",
+  "title": "Hybrid Community Development Commission Meeting Agenda 2026-10-26",
+  "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Hybrid_Community_Development_Commission_Meeting_8180_Agenda_10_26_2026_5_15_00_PM?documentType=1&meetingId=8180",
+  "public_url": null
+ },
  "eagle#0": {
   "date": "2026-07-28",
   "body": "Town Council ",
@@ -9806,6 +10094,86 @@
   "title": "Historic Preservation Advisory Board Meeting - In Person - HPAB 10-26-2026",
   "url": "https://erieco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2171,plainText=false)",
   "public_url": "https://erieco.portal.civicclerk.com/event/1236/files"
+ },
+ "estes-park#0": {
+  "date": "2026-07-28",
+  "body": "Town Board",
+  "kind": "minutes",
+  "title": "MINUTES Town Board 2026-07-28",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381443&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#1": {
+  "date": "2026-07-28",
+  "body": "Town Board Study Session",
+  "kind": "minutes",
+  "title": "MINUTES Town Board Study Session 2026-07-28",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381447&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#2": {
+  "date": "2026-08-11",
+  "body": "Town Board Study Session",
+  "kind": "minutes",
+  "title": "MINUTES Town Board Study Session 2026-08-11",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381937&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#3": {
+  "date": "2026-08-11",
+  "body": "Town Board",
+  "kind": "minutes",
+  "title": "MINUTES Town Board 2026-08-11",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382242&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#4": {
+  "date": "2026-08-25",
+  "body": "Town Board Study Session",
+  "kind": "minutes",
+  "title": "MINUTES Town Board Study Session 2026-08-25",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382272&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#5": {
+  "date": "2026-08-25",
+  "body": "Town Board",
+  "kind": "minutes",
+  "title": "MINUTES Town Board 2026-08-25",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382281&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#6": {
+  "date": "2026-09-08",
+  "body": "Town Board Study Session",
+  "kind": "minutes",
+  "title": "MINUTES Town Board Study Session 2026-09-08",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382675&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#7": {
+  "date": "2026-09-08",
+  "body": "Town Board",
+  "kind": "minutes",
+  "title": "MINUTES Town Board 2026-09-08",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382678&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#8": {
+  "date": "2026-09-22",
+  "body": "Town Board Study Session",
+  "kind": "minutes",
+  "title": "MINUTES Town Board Study Session 2026-09-22",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=383225&dbid=0&repo=TownofEstesPark",
+  "public_url": null
+ },
+ "estes-park#9": {
+  "date": "2026-09-22",
+  "body": "Town Board",
+  "kind": "minutes",
+  "title": "MINUTES Town Board 2026-09-22",
+  "url": "https://dms.estes.org/WebLink/DocView.aspx?id=383233&dbid=0&repo=TownofEstesPark",
+  "public_url": null
  },
  "fairplay#0": {
   "date": "2026-07-29",
@@ -17383,6 +17751,62 @@
   "url": "https://lakewoodco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=796,plainText=false)",
   "public_url": "https://lakewoodco.portal.civicclerk.com/event/336/files"
  },
+ "lamar#0": {
+  "date": "2026-08-10",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Aug 10 2026 City Council Meeting 7:00 PM -\u00a0Council Meeting Read more \u00bb - City Council Minutes The City Council met in a regular session at 7:00 p.m. in the Council Room with Mayor Crespin presiding. R",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-3240089",
+  "public_url": null
+ },
+ "lamar#1": {
+  "date": "2026-08-24",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Aug 24 2026 City Council Meeting 5:30 PM - Work Session Read more \u00bb - City Council Minutes The City Council met in a regular session at 7:00 p.m. in the Council Room with Mayor Crespin presiding. Read",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-7ae1384e-e878-4538-a497-7de3d32434eb",
+  "public_url": null
+ },
+ "lamar#2": {
+  "date": "2026-09-14",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Sep 14 2026 City Council Meeting 6:15 PM -\u00a0Work Session Read more \u00bb - City Council Minutes The City Council met in a regular session at 7:14 p.m. in the Council Room with Mayor Crespin presiding. Read",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043",
+  "public_url": null
+ },
+ "lamar#3": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Oct 12 2026 City Council Meeting Read more \u00bb - City\u00a0 Council Minutes 09-28-26 The City Council met in a regular session at 7:00 p.m. in the Council Room with Mayor Crespin presiding. Read more \u00bb",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-09-28-26",
+  "public_url": null
+ },
+ "lamar#4": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Sep 28 2026 City Council Meeting Read more \u00bb - City Council Minutes 9/14 The City Council met in a regular session at 7:00 p.m. in the Council Room with Mayor Crespin presiding. Read more \u00bb",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-9-14",
+  "public_url": null
+ },
+ "lamar#5": {
+  "date": "2026-09-28",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Sep 28 2026 City Council Meeting Read more \u00bb - City Council Minutes 9/16 The City Council met in a regular session at 7:00 p.m. in the Council Room with Mayor Crespin presiding. Read more \u00bb",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-9-16",
+  "public_url": null
+ },
+ "lamar#6": {
+  "date": "2026-10-12",
+  "body": "City Council",
+  "kind": "minutes",
+  "title": "Oct 26 2026 City Council Meeting Read more \u00bb - City Council Minutes 10-12-26",
+  "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-10-12-26",
+  "public_url": null
+ },
  "limon#0": {
   "date": "2025-11-06",
   "body": "City Council",
@@ -17606,6 +18030,142 @@
   "title": "City Council agenda",
   "url": "https://legistar2.granicus.com/littletongov/meetings/2026/10/3002_A_City_Council_26-10-20_Meeting_Agenda.pdf",
   "public_url": "https://littletongov.legistar.com/MeetingDetail.aspx?LEGID=3002&GID=410&G=573B8EA4-7869-4354-95D6-475CCE140A62"
+ },
+ "logan-county#0": {
+  "date": "2026-07-28",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Jul 28, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_07282026-168",
+  "public_url": null
+ },
+ "logan-county#1": {
+  "date": "2026-08-04",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Aug 4, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08042026-170",
+  "public_url": null
+ },
+ "logan-county#2": {
+  "date": "2026-08-11",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Aug 11, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08112026-171",
+  "public_url": null
+ },
+ "logan-county#3": {
+  "date": "2026-08-12",
+  "body": "Human Services Board",
+  "kind": "minutes",
+  "title": "Aug 12, 2026 Human Services Board Regular Meeting Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08122026-172",
+  "public_url": null
+ },
+ "logan-county#4": {
+  "date": "2026-08-18",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Aug 18, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08182026-175",
+  "public_url": null
+ },
+ "logan-county#5": {
+  "date": "2026-08-25",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Aug 25, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08252026-176",
+  "public_url": null
+ },
+ "logan-county#6": {
+  "date": "2026-09-01",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Sep 1, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09012026-178",
+  "public_url": null
+ },
+ "logan-county#7": {
+  "date": "2026-09-08",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Sep 8, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09082026-179",
+  "public_url": null
+ },
+ "logan-county#8": {
+  "date": "2026-09-10",
+  "body": "Logan County Fair Board",
+  "kind": "agenda",
+  "title": "Sep 10, 2026 Logan County Fair Board Regular meeting Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_09102026-180",
+  "public_url": null
+ },
+ "logan-county#9": {
+  "date": "2026-09-15",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Sep 15, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09152026-183",
+  "public_url": null
+ },
+ "logan-county#10": {
+  "date": "2026-09-22",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Sep 22, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09222026-184",
+  "public_url": null
+ },
+ "logan-county#11": {
+  "date": "2026-09-29",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Sep 29, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09292026-186",
+  "public_url": null
+ },
+ "logan-county#12": {
+  "date": "2026-10-06",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Oct 6, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_10062026-189",
+  "public_url": null
+ },
+ "logan-county#13": {
+  "date": "2026-10-08",
+  "body": "Logan County Fair Board",
+  "kind": "agenda",
+  "title": "Oct 8, 2026 Logan County Fair Board Regular Meeting Agenda Download\u00a0\u25bc Agenda Previous Versions",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10082026-187",
+  "public_url": null
+ },
+ "logan-county#14": {
+  "date": "2026-10-13",
+  "body": "Logan County Commissioners",
+  "kind": "minutes",
+  "title": "Oct 13, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_10132026-190",
+  "public_url": null
+ },
+ "logan-county#15": {
+  "date": "2026-10-20",
+  "body": "Logan County Commissioners",
+  "kind": "agenda",
+  "title": "Oct 20, 2026 Logan County Commissioners Business Meeting Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-192",
+  "public_url": null
+ },
+ "logan-county#16": {
+  "date": "2026-10-20",
+  "body": "Logan County Commissioners",
+  "kind": "agenda",
+  "title": "Oct 20, 2026 Logan County Commissioners Work Session Agenda Download\u00a0\u25bc Agenda",
+  "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-193",
+  "public_url": null
  },
  "lone-tree#1": {
   "date": "2026-08-20",
@@ -20446,6 +21006,38 @@
   "title": "Town Council Meeting - 10-21-2026 Town Council Meeting Agenda - REVISED V2",
   "url": "https://minturnco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8648,plainText=false)",
   "public_url": "https://minturnco.portal.civicclerk.com/event/261/files"
+ },
+ "moffat-county#0": {
+  "date": "2026-07-28",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "July 28, 2026",
+  "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/072826.pdf",
+  "public_url": null
+ },
+ "moffat-county#1": {
+  "date": "2026-08-25",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "August 25, 2026",
+  "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/082526.pdf",
+  "public_url": null
+ },
+ "moffat-county#2": {
+  "date": "2026-09-08",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 8, 2026",
+  "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/090826.pdf",
+  "public_url": null
+ },
+ "moffat-county#3": {
+  "date": "2026-09-22",
+  "body": "Board of County Commissioners",
+  "kind": "agenda",
+  "title": "September 22, 2026",
+  "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/092226.pdf",
+  "public_url": null
  },
  "montezuma-county#0": {
   "date": "2026-10-13",

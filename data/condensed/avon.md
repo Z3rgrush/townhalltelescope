@@ -1,0 +1,155 @@
+# avon
+
+## [avon#0] 2026-07-28 | Town Council | minutes
+- Development Director Matt Pielsticker, Senior Planner Jena Skinner, Housing Planner Patti Liermann, Rec
+- Director Michael Labagh, Engineering Director Eva Wilson, IT Administrator Carlos Molina, and Police Chief
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the agenda. At the request of Councilor Stanley, Consent
+- Agenda Item 5.10, Notice of Award for Heat Recovery System Expansion Design to Lot B (The Summit),
+- approve the agenda as amended. Councilor Brooks seconded the motion. The motion passed
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for providing
+- relevant experience to the discussion and encouraged participants to maintain respectful and courteous
+- public discourse during Council's discussion of the Flock camera system
+- Jack McBride, an Avon resident, addressed Council in person. Mr, McBride discussed his experience as a
+- term rental licenses, He also expressed concern regarding the approval of additional residential
+- developments with unrestricted short-term rental eligibility
+- support for the program's deed restriction requirement as a means of preserving housing opportunities for
+- properties and requested a written response
+- Town's efforts to clear a clogged culvert and requested continued monitoring and maintenance of culverts
+- No additional public comment was received at that time, either in person or virtually
+- 5.1. ACTION: Approval of June 23, 2026 Regular Council Meeting Minutes (Town Clerk Miguel Jauregui
+- 5.2. RESOLUTION 26-07: Adopting a Fast Track Priority Scheduling Policy for Community Housing
+- Projects (Town Manager Eric Heil)
+- 5.3. RESOLUTION 26-08: Approving Intergovernmental Agreement between the Town of Avon,
+- Colorado and the Avon Urban Renewal Authority, concerning the Remittance of Tax Increment
+- 5.4. RESOLUTION 26-09: Approving Intergovernmental Agreement Between the Town of Avon,
+- Colorado and the Avon Downtown Development Authority, Concerning the Remittance of Tax
+- 5.5. RESOLUTION 26-10: Approving an Amendment of Section 12.01 of the Eagle Valley Transportation
+- Authority Intergovernmental Agreement (Town Manager Eric Heil)
+- 5.6. Appointing Avon's Designated Election Official and Authorizing the Execution of the
+- Intergovernmental Agreement (IGA) related to the 2026 Coordinated Mail -Ballot Election (Town
+- 5.7. Notice of Award for the West Beaver Creek Blvd Bridge Rehab Project Construction (Project
+- 5.8. Notice of Award for Rec Center Aquatic Renovation Design Work (Director of Engineering Eva
+- 5.9. Notice of Award for Lettuce Patch Early Learning Center Bus Stop (Senior Engineer Keith Ferrell)
+
+## [avon#1] 2026-08-11 | Town Council | minutes
+- Financial Analyst Chase Simmons, Public Works Director Mike Jackson, Community Development Director
+- Matt Pielsticker, Senior Planner Jena Skinner, Housing Planner Patti Liermann, Building Official Derek
+- Place, Recreation Director Michael Labagh, IT Administrator Andrew Bare, and Police Chief Greg Daly
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the agenda and noted her desire for a brief discussion
+- regarding the written reports. No amendments to the agenda were proposed. Councilor Brooks moved to
+- approve the agenda as presented. Councilor Stanley seconded the motion. The motion passed
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for providing
+- parking program at Hoffman Properties, which he indicated was discontinued because of actions taken by
+- about the program. Mr. McMahon referenced reports that the Los Angeles Police Department had allowed
+- its contract with Flock Safety to expire and stated that concerns regarding the use of the cameras would
+- cameras. Mr. Slater discussed his professional technology background and described research he had
+- conducted related to the Flock camera system, including review of public records, contracts, presentations,
+- Kathleen Walsh, an Avon resident, addressed Council virtually regarding a recent community housing
+- for additional opportunities for neighborhood participation and input regarding community housing
+- No additional public comment was received at that time, either in person or virtually
+- stated that Council would continue evaluating information and anticipated further discussion of the matter
+- later in the year. He also invited Mr. Slater to contact him directly to discuss the information he wished to
+- share. Regarding community housing outreach, Mr. Heil explained that the referenced meeting was
+- additional opportunities for public comment would be available during future Town Council public hearings
+- encouraged interested residents to meet with him to obtain a nomination packet and discuss the process,
+- noting that appointments could be scheduled by email or in person, subject to availability
+- 5.1. ACTION: Approval of July 28, 2026 Regular Council Meeting Minutes (Town Clerk Miguel Jauregui
+- Councilor Stanley moved to approve the Consent Agenda, as presented. Councilor Thuon seconded the
+- 6.1. PRESENTATION: Salvation Army Programs & Services Update (Service Extension Director Monica
+- The presentation highlighted the Center's food pantry, social services, community garden and
+- volunteer opportunities available within the community. As this was a presentation to Council, no
+
+## [avon#2] 2026-08-25 | Town Council | minutes
+- Development Director Matt Pielsticker, Senior Planner Jena Skinner, Recreation Director Michael Labagh,
+- IT Administrator Carlos Molina, and Deputy Police Chief Coby Cosper
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the agenda. No amendments to the agenda were proposed
+- Councilor Stanley moved to approve the agenda as presented. Councilor Hyatt seconded the motion. The
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for providing
+- DeSimone noted that 1,544 individuals had signed a letter requesting that the Town end its participation in
+- requests have been made to the Towns of Vail and Gypsum
+- Council in person regarding her professional and personal background. She discussed her service on the
+- Nicholas Shirley, an Avon resident, addressed Council regarding past pedestrian safety improvements and
+- responsiveness to prior requests for crosswalk flags and pedestrian crossing improvements, noting that
+- the Town implemented those requested changes quickly. Mr. Shirley stated that he became aware of the
+- Council to terminate the Town's contract with Flock. He further encouraged the Town to direct resources
+- the Flock camera program. He stated that there is broad community dissatisfaction with the program and
+- inadequate this year due to low water conditions and encouraged the Town to improve river access,
+- a skate park had been approved but not funded and expressing concern that skateboarding receives less
+- water -based recreational activities, and encouraged Council to consider the privacy implications of
+- public could access the Town's contract with Flock and requested information regarding the agreement's
+- expiration date. She further stated that taxpayer funds should be directed toward environmental, workforce,
+- No additional public comment was received at that time, either in person or virtually
+- At the request of Mayor Underwood, Town Manager Eric Heil responded to public comments regarding the
+- Town's participation in the Flock camera program. He stated that the Town has not renewed its agreement
+- with Flock and is currently reviewing the matter, including contract terms and data security considerations
+- on the Town's website outlining the Town's response to concerns related to Flock cameras, license plate
+- meeting. Mr. Heil acknowledged requests for a more immediate response but stated that additional time is
+- needed for staff review and analysis. He noted that he had met with residents earlier in the day to discuss
+- technical issues and emphasized that all public feedback is being considered. Mr. Heil stated that
+
+## [avon#3] 2026-09-08 | Town Council | minutes
+- Superintendent Kacy Carmichael; IT Administrator Andrew Bare; and Deputy Police Chief Coby Cosper
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the Agenda. No amendments were proposed. Councilor
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for providing
+- Daniel Rolfe, an Avon resident, addressed Council regarding potential improvements to the Bob the Bridge
+- area and encouraged consideration of a standing river wave feature as a recreational amenity for users of
+- Bob Aubry, an Eagle Vail resident, addressed Council in person regarding the potential redevelopment of
+- the Avon Whitewater Park. Mr. Aubry expressed support for improvements to the Bob the Bridge area,
+- comments regarding improvements to the Bob the Bridge area and the Avon Whitewater Park. Mr. Quam
+- Tim McMahon, an Avon resident, addressed Council in person regarding the Avon Whitewater Park and
+- expressed support for potential improvements to the Park and Bob the Bridge area. Mr. McMahon also
+- commented on the public comment process, expressing concern about the length of time before public
+- Comment and Meeting Updates at the conclusion of meetings. He further expressed disagreement with
+- comments made by Mayor Underwood regarding public comment on Flock cameras, describing those
+- and other automated license plate reader (ALPR) systems, questioned the replacement of a vandalized
+- camera, and encouraged Council to consider community feedback regarding the program, including a
+- petition that he stated had received more than 1,800 signatures. He concluded by requesting increased
+- attention to restocking dog waste bag dispensers, particularly at Wildridge dog parks
+- management and code enforcement concerns at the Piedmont Apartments, Ms. Zoll characterized trash
+- plate reader (ALPR) cameras. Ms. Bahr stated that she opposed the program, expressed concerns
+- DeSimone discussed her prior involvement with a group of homeowners seeking resolution to concerns
+- expressed concern that public feedback had not resulted in substantive action. Ms. DeSimone urged
+- requested more transparency, accountability, and speedy responsiveness to community feedback, and
+- No additional public comment was received, either in person or virtually. Following public comment, Mayor
+- Underwood asked Deputy Chief Coby Cosper to address wildlife -related concerns at Piedmont Apartments
+- Deputy Chief Cosper reported that the Avon Police Department had received 27 calls regarding trash
+- 5.1. ACTION: Approval of August 25, 2026 Regular Council Meeting Minutes (Town Clerk Miguel
+
+## [avon#4] 2026-09-22 | Town Council | minutes
+- Development Director Matt Pielstocker; Chief Cultural Officer Danita Dempsey; Recreation Director
+- Michael Labagh; IT Administrator Carlos Molina; and Police Chief Greg Daly
+- 2. APPROVAL OF AGENDA
+- Mayor Underwood opened consideration of the Agenda and noted the following amendments: Consent
+- Agenda Item 5.6 was revised to change all references to Resolution No. 26-13 to Resolution No. 26-14
+- that it pertained to the third budget amendment rather than the second. Councilor Thuon moved to approve
+- the Agenda as amended. Councilor Stanley seconded the motion, which passed unanimously by a vote of
+- 4. PUBLIC COMMENT
+- Mayor Underwood explained the public comment process, including the available methods for submitting
+- Road crosswalks near the intersection with Highway 6. He initially stated that his father had been struck by
+- incident in which a motorist nearly struck his father while he was using the south crosswalk on Avon Road,
+- beacons at the Avon Road intersections near Highway 6, noting that similar beacons were installed along
+- Highway 6 near Avon Road. He stated that he had discussed the matter with a Town engineer to better
+- understand why beacons had not been installed at those crosswalks. He requested the installation of
+- flashing pedestrian beacons on both sides of Avon Road near Highway 6, and encouraged the Town to
+- unincorporated Eagle County
+- plate reader (ALPR) program. He read into the record a list of communities that he stated had ended
+- contracts with Flock Safety, as well as other communities that had discontinued ALPR programs. He noted
+- could be affected by future development of Lot B (The Summit). She asked whether the trees are located
+- plate reader (ALPR) program. She expressed opposition to the use of Flock cameras and requested
+- answers to questions before Council's October 6, 2026 discussion of the program, including questions
+- regarding the status of the Town's contract, installation of an additional camera, and the authority under
+- 1,900 signatures, expressed concerns regarding Council's responsiveness to public feedback, and urged
+- Ian Grask, an Avon resident, addressed Council virtually regarding the Town's automated license plate
+- project and asked whether service could potentially be extended to Avon
+- Sara Bahr, an Avon resident, addressed Council in person regarding the Town's automated license plate
+- No additional public comment was received, either in person or virtually
+- Following Public Comment, Mayor Underwood asked Town Manager Eric Heil to respond to questions
+- to be removed as part of future redevelopment activities and associated site excavation. He noted that,

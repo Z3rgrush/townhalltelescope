@@ -14,6 +14,7 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 | Arvada | civicclerk | 27 | 49 | 46 | 3 |  | 2026-10-26 |
 | Aspen | granicus | 34 | 34 | 33 | 1 |  | 2026-10-26 |
 | Aurora | linkscan | 6 | 10 | 10 | 0 |  | 2026-10-26 |
+| Avon | weblink | 5 | 5 | 5 | 0 |  | 2026-10-26 |
 | Basalt | agendacenter | 34 | 34 | 31 | 3 |  | 2026-10-26 |
 | Berthoud | civicclerk | 27 | 37 | 35 | 2 |  | 2026-10-26 |
 | Black Hawk | agendacenter | 26 | 26 | 20 | 6 |  | 2026-10-26 |
@@ -48,10 +49,12 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 | De Beque | linkscan | 15 | 16 | 1 | 15 |  | 2026-10-26 |
 | Del Norte | linkscan | 6 | 8 | 8 | 0 |  | 2026-10-26 |
 | Delta | agendacenter | 13 | 20 | 20 | 0 |  | 2026-10-26 |
+| Delta County | civicclerk | 13 | 23 | 21 | 2 |  | 2026-10-26 |
 | Denver | legistar | 119 | 119 | 116 | 3 |  | 2026-10-26 |
 | Dolores | linkscan | 24 | 25 | 17 | 8 |  | 2026-10-26 |
 | Douglas County | legistar | 40 | 40 | 40 | 0 |  | 2026-10-26 |
 | Dove Creek | linkscan | 9 | 9 | 9 | 0 |  | 2026-10-26 |
+| Durango | onbase | 11 | 11 | 11 | 0 |  | 2026-10-26 |
 | Eagle | civicclerk | 29 | 45 | 45 | 0 |  | 2026-10-26 |
 | Eagle County | cablecast | 11 | 11 | 11 | 0 |  | 2026-10-26 |
 | Eaton | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-26 |
@@ -60,6 +63,7 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 | Elizabeth | civicclerk | 21 | 21 | 15 | 6 |  | 2026-10-26 |
 | Empire | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Erie | civicclerk | 34 | 50 | 46 | 4 |  | 2026-10-26 |
+| Estes Park | weblink | 10 | 10 | 10 | 0 |  | 2026-10-26 |
 | Evans | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Fairplay | civicclerk | 9 | 9 | 9 | 0 |  | 2026-10-26 |
 | Federal Heights | linkscan | 1 | 1 | 1 | 0 |  | 2026-10-26 |
@@ -114,9 +118,11 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 | Lake City | linkscan | 9 | 9 | 9 | 0 |  | 2026-10-26 |
 | Lake County | agendacenter | 44 | 45 | 42 | 3 |  | 2026-10-26 |
 | Lakewood | civicclerk | 9 | 17 | 16 | 1 |  | 2026-10-26 |
+| Lamar | linkscan | 5 | 7 | 7 | 0 |  | 2026-10-26 |
 | Limon | linkscan | 14 | 14 | 11 | 3 |  | 2026-10-26 |
 | Littleton | legistar | 16 | 16 | 16 | 0 |  | 2026-10-26 |
 | Lochbuie | civicclerk | 0 | 0 | 0 | 0 |  | 2026-10-26 |
+| Logan County | agendacenter | 19 | 26 | 17 | 9 |  | 2026-10-26 |
 | Lone Tree | civicweb | 18 | 18 | 18 | 0 |  | 2026-10-26 |
 | Longmont | primegov | 82 | 82 | 74 | 8 |  | 2026-10-26 |
 | Louisville | civicclerk | 43 | 95 | 90 | 5 |  | 2026-10-26 |
@@ -127,6 +133,7 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 | Mesa County | onbase | 24 | 24 | 24 | 0 |  | 2026-10-26 |
 | Milliken | civicclerk | 21 | 45 | 45 | 0 |  | 2026-10-26 |
 | Minturn | civicclerk | 13 | 22 | 17 | 5 |  | 2026-10-26 |
+| Moffat County | linkscan | 5 | 5 | 4 | 1 |  | 2026-10-26 |
 | Montezuma | linkscan | 0 | 0 | 0 | 0 |  | 2026-10-26 |
 | Montezuma County | linkscan | 1 | 3 | 1 | 2 |  | 2026-10-26 |
 | Montrose | civicclerk | 21 | 30 | 30 | 0 |  | 2026-10-26 |
@@ -248,6 +255,12 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 ### Aurora
 ```
   https://www.auroratv.org/series/city-council-meetings: 33 dated links in window
+```
+
+### Avon
+```
+  folder 69873: 17 documents, 5 in window with text
+  folder 67538: 20 documents, 0 in window with text
 ```
 
 ### Basalt
@@ -424,6 +437,11 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
   https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 20 files in window
 ```
 
+### Delta County
+```
+  33 events in window
+```
+
 ### Denver
 ```
   141 events in window
@@ -442,6 +460,12 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 ### Dove Creek
 ```
   https://townofdovecreek.colorado.gov/meeting-agendas: 9 dated links in window
+```
+
+### Durango
+```
+  search: 0 links, 0 meeting pages
+  11 documents in window from 2 page(s)
 ```
 
 ### Eagle
@@ -482,6 +506,12 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 ### Erie
 ```
   39 events in window
+```
+
+### Estes Park
+```
+  folder 25: 18 documents, 5 in window with text
+  folder 24: 20 documents, 5 in window with text
 ```
 
 ### Evans
@@ -757,6 +787,12 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
   17 events in window
 ```
 
+### Lamar
+```
+  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026: 8 dated links in window
+  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025: 0 dated links in window
+```
+
 ### Limon
 ```
   https://www.townoflimon.com/index.php/government/trustee-meetings/agenda: 28 dated links in window
@@ -770,6 +806,11 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 ### Lochbuie
 ```
   0 events in window
+```
+
+### Logan County
+```
+  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 47 files in window
 ```
 
 ### Lone Tree
@@ -821,6 +862,12 @@ Window: 2026-07-28 to 2026-10-26, a year for sources marked with days: 365 (each
 ### Minturn
 ```
   16 events in window
+```
+
+### Moffat County
+```
+  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 0 dated links in window
+  https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes: 5 dated links in window
 ```
 
 ### Montezuma

@@ -44,6 +44,11 @@
   "hash": "d5b199bb4bf5b9d1",
   "model": "hand-written"
  },
+ "avon": {
+  "date": "2026-10-26",
+  "hash": "47f25c970c8a4955",
+  "model": "claude-sonnet-5-5"
+ },
  "basalt": {
   "date": "2026-10-26",
   "hash": "77d1b43a883cd9cd",
@@ -204,6 +209,11 @@
   "hash": "e4b6b2bd03158aaf",
   "model": "claude-sonnet-5-5"
  },
+ "delta-county": {
+  "date": "2026-10-26",
+  "hash": "b1f6985511fafc39",
+  "model": "claude-sonnet-5-5"
+ },
  "denver": {
   "date": "2026-10-26",
   "hash": "e2a976118ee26c5d",
@@ -222,6 +232,11 @@
  "dove-creek": {
   "date": "2026-10-26",
   "hash": "bda1dfb95911a65c",
+  "model": "claude-sonnet-5-5"
+ },
+ "durango": {
+  "date": "2026-10-26",
+  "hash": "dd57daadc62ce89b",
   "model": "claude-sonnet-5-5"
  },
  "eagle": {
@@ -252,6 +267,11 @@
  "erie": {
   "date": "2026-10-26",
   "hash": "8a560d82cc6c27e1",
+  "model": "claude-sonnet-5-5"
+ },
+ "estes-park": {
+  "date": "2026-10-26",
+  "hash": "d59b8d753ce78ba4",
   "model": "claude-sonnet-5-5"
  },
  "fairplay": {
@@ -479,6 +499,11 @@
   "hash": "0fd78d991ea60d04",
   "model": "claude-sonnet-5-5"
  },
+ "lamar": {
+  "date": "2026-10-26",
+  "hash": "cf99c0fd015f720e",
+  "model": "claude-sonnet-5-5"
+ },
  "limon": {
   "date": "2026-10-26",
   "hash": "5e2b0f72541c0fd8",
@@ -487,6 +512,11 @@
  "littleton": {
   "date": "2026-10-26",
   "hash": "caaae9959b390098",
+  "model": "claude-sonnet-5-5"
+ },
+ "logan-county": {
+  "date": "2026-10-26",
+  "hash": "9cd731cfe91ad57b",
   "model": "claude-sonnet-5-5"
  },
  "lone-tree": {
@@ -537,6 +567,11 @@
  "minturn": {
   "date": "2026-10-26",
   "hash": "b1ec649427b97a6b",
+  "model": "claude-sonnet-5-5"
+ },
+ "moffat-county": {
+  "date": "2026-10-26",
+  "hash": "3c0920df54e7484c",
   "model": "claude-sonnet-5-5"
  },
  "montezuma-county": {

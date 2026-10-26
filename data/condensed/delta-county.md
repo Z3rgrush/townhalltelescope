@@ -1,0 +1,454 @@
+# delta-county
+
+## [delta-county#0] 2026-07-28 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS
+- APPROVAL OF AGENDA
+- Discussion and advice regarding Ginter Grove Public Improvement District
+- CERTIFICATION OF POSTING
+
+## [delta-county#1] 2026-07-29 | Planning Commission | minutes
+- 560 Dodge Street
+- Delta County Community Development Director, Oran Stainbrook
+- Delta County Community Project Manager, Shawn Gardner
+- Delta County Community Development Planner I, Brittany Haining
+- a. Approve the Meeting Minutes for the meeting held on April 15, 2026, as presented
+- i. Commissioner Enholm made a motion to Approve the meeting minutes as presented from the April
+- Mr. Gardner discussed items in the Land Use Code for revisions
+- F. COMMISSIONER COMMENTS, REQUESTS AND REFERRALS
+
+## [delta-county#2] 2026-08-04 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the Minutes for the July 21, 2026 BoCC Regular Meeting
+- 2. Board's consideration of the Minutes for the July 28, 2026 BoCC Special Meeting
+- 3. Board's consideration of an Application for a Permanent Colorado Liquor Sales Room for Shade
+- 4. Board's consideration of an update on Sauvage Spectrum LLC application for a Temporary Sales
+- Canyon Road, Delta. The dates that are different from the previous license are August 29, 2026 has
+- tax appeals for 2026
+- Lannie E. Yeager - R017304 - 37598 Fruitland Mesa Road, Crawford
+- 2. Board of Equalization consideration of Stipulation for Meadow Brook Boulevard LLC - R008369
+- 2. Road and Bridge Reports
+- 1. Board's consideration of Airport Ground Lease North Fork Valley Airport Hangar 151 Leslie
+- Accept dedication of Road Right-of-Way to Delta County for Fire Mountain Road (2.03 +/- acres),
+- as a public road, and approve an Exemption Plat
+- CERTIFICATION OF POSTING
+
+## [delta-county#3] 2026-08-12 | Planning Commission | agenda
+- Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
+- 1. Approve the meeting minutes for the meeting held on July 8, 2026
+- D. PUBLIC HEARING ITEMS
+- Public Hearing Items are noticed and open for public comments
+- 1. PLN26-022/Peter Edwards (Clear Water Enterprises LLC)
+- Consider a Rezone
+- F. COMMISSIONER COMMENTS, REQUESTS, AND REFERRALS
+- This is time set aside for the Commission to comment, request, or refer a matter that is not on the agenda for
+- future consideration
+- CERTIFICATION OF POSTING
+
+## [delta-county#4] 2026-08-12 | Planning Commission | agenda
+- Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
+- 1. Approve the meeting minutes for the meeting held on July 8, 2026
+- D. PUBLIC HEARING ITEMS
+- Public Hearing Items are noticed and open for public comments
+- 1. PLN26-022/Peter Edwards (Clear Water Enterprises LLC)
+- Consider a Rezone
+- F. COMMISSIONER COMMENTS, REQUESTS, AND REFERRALS
+- This is time set aside for the Commission to comment, request, or refer a matter that is not on the agenda for
+- future consideration
+- CERTIFICATION OF POSTING
+- presentation
+- acre-feet/year
+- un-infiltrated
+- demonstrated
+- Re: Legal Opinion Regarding Adequacy of Water Rights and Augmentation Plan
+- for Clear Water Enterprises Rezone
+- As you know, I specialize in Colorado water law, including the adjudication,
+- administration, and development of water rights for residential and commercial projects. I am
+- writing to provide my legal and professional opinion that your water rights are sufficient to
+- supply the Clear Water Enterprises Rezone and support your application with the Delta
+- County Planning and Community Development Commission (“Commission”). I have
+- reached this opinion after a thorough review of the relevant water court decrees and filings
+- with the Division of Water Resources (“DWR”), a phone call with Water Division 4
+- Engineer, Bob Hurford, a review of your proposed rezone and associated application, and my
+- conversations with you. I am also confident that your court-approved augmentation plan and
+- valid contract with the Bureau for Reclamation allow for releases from Blue Mesa Reservoir
+- The Clear Water Enterprises Rezone involves approximately 378.5 acres that will
+- eventually be subdivided. You have requested that the Commission rezone this property for
+- residential purposes. The minimum estimated water use associated with this rezone includes
+- per lot (37.8 acre-feet (AF) per year) and the opportunity to expand further. The Golden
+- Eagle Water Company will provide residential water taps to each homeowner, using water
+- supplied by the Shea Pump and Pipeline (“Subject Water Rights”). There is an existing state
+- of-the-art water treatment plant that currently diverts water from the Gunnison River, serves
+- Finally, DWR has issued official correspondence recommending approval of your rezone
+- Re: Clear Water Enterprises Rezone Water Rights
+- II. Legal Status of the Subject Water Rights
+- The Subject Water Rights were originally decreed by the Division 4 Water Court in
+- Case No. 02CW39. The Subject Water Rights are decreed for 1.66 cubic feet per second
+
+## [delta-county#5] 2026-08-18 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the August 4, 2026 BoCC Regular meeting
+- 2. Board of Equalization consideration of Senior Exemption Applications
+- 1. Board's consideration of a Resolution Relinquishing and Reverting Its 2026 Private Activity Bond
+- 2. Board's consideration of the Settlement and Release Agreement between Delta County and Benson
+- 3. County Treasurer Lisa Tafoya - Board's consideration of a Resolution Canceling Uncolled Property
+- 2. Road and Bridge Reports
+- 2. Board's consideration and Chairman's signature on the Core Services Program request for State
+- Approval of the plan
+- CERTIFICATION OF POSTING
+
+## [delta-county#6] 2026-08-18 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the August 4, 2026 BoCC Regular meeting
+- 2. Board of Equalization consideration of Senior Exemption Applications
+- 1. Board's consideration of a Resolution Relinquishing and Reverting Its 2026 Private Activity Bond
+- 2. Board's consideration of the Settlement and Release Agreement between Delta County and Benson
+- 3. County Treasurer Lisa Tafoya - Board's consideration of a Resolution Canceling Uncolled Property
+- 2. Road and Bridge Reports
+- 2. Board's consideration and Chairman's signature on the Core Services Program request for State
+- Approval of the plan
+- CERTIFICATION OF POSTING
+- months from the above date. All documents incorporated in these minutes by reference are also available 10
+- o Colorado River District on behalf of the Fire Mountain Canal for emergency landslide 19
+- grant application for the Sheriff’s office, generator at the North Fork Annex, North Fork 22
+- Annex Physical and Election Security Hardening Project, Delta County Campus Alertus 23
+- Alert Beacons and Panic Button Expansion, and Delta County IT access control project. 24
+-  Robbie added that both of these requests came after the agenda was posted. 25
+- Chairman Lane approved the agenda as amended. 26
+- the Board as well as Robbie for what they do. He appreciates Road and Bridge and what they have done 37
+- on Ward Creek, they do a good job with that county road. It is difficult to keep some of these roads going, 38
+- Charles Cherek, 5509 2000 Road, Delta; 47
+- it got dwindled around and now they are stuck at 50’ to 200’ for a special use, which he does not 53
+- on tax appeals for 2026: 5
+- Hearing Officer for 2026 Debbie Griffith was present. 6
+- Lannie E. Yeager, R017304 – 37958 Fruitland Mesa Road, Crawford: 8
+- Yeager requested for his property. She said that he requested $404,341.00 and had that value been 14
+- that the comparables seem to have irrigation water, the subject property does not. Debbie explained that 21
+- irrigation water but they are ag and valued as ag and therefore their land values were substantially, 10% 29
+- $55,000.00 but when they got their tax bill it had been taken out so it made it look like a higher increase 43
+- at 37958 at Fruitland Mesa Road and retain the actual value at $449,341.00. Commissioner Fuller 47
+- Board of Equalization consideration of Stipulation for Meadow Brook Boulevard LLC – R008369: 52
+
+## [delta-county#7] 2026-08-24 | Board of Health | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- Variance Request – OWTS Variance for 11958
+- CERTIFICATION OF POSTING
+
+## [delta-county#8] 2026-08-24 | Board of Health | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- Discuss Public Health Policy: Portable Chemical Toilets*
+- CERTIFICATION OF POSTING
+
+## [delta-county#9] 2026-09-01 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the August 18, 2026 BoCC Regular Meeting
+- 2. Board's consideration of a Liquor License Renewal for a Vintner's Restaurant for Aquila Cellars
+- LLC dba Aquila Cellars located at 13475 2600 Road, Eckert, CO
+- 3. Board's consideration of a Liquor License Renewal for a Hotel and Restaurant for SFR Operations
+- 2. Board's consideration of the appointment of Amanda Crager to replace Diane Underwood on the
+- 3. Board's consideration and discussion regarding placement of a School Bus Ahead sign on G Road
+- west of the railroad tracks
+- 4. Board's consideration and ratification of the Chairman's signature on the Certificate of Cost
+- Allocation Plan and Indirect Cost Rate
+- 5. Board's consideration and designation of a Delta County Commissioner to the Colorado Counties,
+- 2. Road & Bridge Report
+- 9:00 AM BOARD'S RECOGNITION OF ROAD AND BRIDGE DISTRICT #2 FOREMAN DAN SICKLES
+- 1. Land Use Code Update Public Hearing
+- PRESENTATION
+- CERTIFICATION OF POSTING
+
+## [delta-county#10] 2026-09-01 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the August 18, 2026 BoCC Regular Meeting
+- 2. Board's consideration of a Liquor License Renewal for a Vintner's Restaurant for Aquila Cellars
+- LLC dba Aquila Cellars located at 13475 2600 Road, Eckert, CO
+- 3. Board's consideration of a Liquor License Renewal for a Hotel and Restaurant for SFR Operations
+- 2. Board's consideration of the appointment of Amanda Crager to replace Diane Underwood on the
+- 3. Board's consideration and discussion regarding placement of a School Bus Ahead sign on G Road
+- west of the railroad tracks
+- 4. Board's consideration and ratification of the Chairman's signature on the Certificate of Cost
+- Allocation Plan and Indirect Cost Rate
+- 5. Board's consideration and designation of a Delta County Commissioner to the Colorado Counties,
+- 2. Road & Bridge Report
+- 9:00 AM BOARD'S RECOGNITION OF ROAD AND BRIDGE DISTRICT #2 FOREMAN DAN SICKLES
+- 1. Land Use Code Update Public Hearing
+- PRESENTATION
+- CERTIFICATION OF POSTING
+- months from the above date. All documents incorporated in these minutes by reference are also available 10
+- Chairman Lane approved the agenda as presented. 19
+- Tanner Wilson, 335 E Orchard Street, Hotchkiss: 22
+- Tanner said the reason he is here is because he has four kids and he hauls them to the skate park all the 23
+- time. He stated that he believes Hotchkiss would benefit from having a skate park in town. He has been 24
+- gotten a lot of great feedback from everyone he has talked to. Tanner has spoke with four or five different 27
+- park and a lot of times he has to tell them no because they have to load up and drive to a different town. 32
+- in the desert and also for the younger crowd, which he thinks a lot of skate park people would be, leaves 37
+- parents in the same boat, loading up the kids and driving out there. If it were at the fairgrounds, he feels 38
+- is willing to put in time to do fund raisers. It is his understanding of the Master Plan is the fairgrounds is 42
+- down and could generate revenue for the county. He does not know for sure how that works, but if they 51
+- are doing a big project like a skate park that it wouldn’t be so big of a thing to add a little bit extra to make 52
+- he thought he would get his feet wet and see what it is all about and maybe they could get some direction 68
+- three hours the wind goes in a different direction. He did it in feet instead of measuring the wind on the 5
+
+## [delta-county#11] 2026-09-15 | Board of Health | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- Review of the July/Aug Payment Approval Report*
+- CERTIFICATION OF POSTING
+
+## [delta-county#12] 2026-09-15 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the September 1, 2026 BoCC Regular Meeting
+- 2. Board's consideration of a Permanent Sale Room License for Mosaic Wines LLC dba Mosaic Wine
+- located at 9729 3000 Road, Hotchkiss, CO
+- Outreach Coordinator Lyndall Young - Board's consideration of a Proclamation for International
+- 2. Board's consideration and discussion of the comment letter specific to 2001 Roadless Rule
+- 3. Finance Director Leone Anderson - Board's consideration of a Resolution to Update Mileage Rates
+- and Per Diem rates starting January 1, 2027
+- 4. Ratify Warrants
+- 2. Road and Bridge Reports
+- Accept dedication of Road Right-of-Way to Delta County for Barrow Mesa Road, totaling in
+- 2. PUBLIC HEARING FOR PLN26-022/PETER EDWARDS (CLEAR WATER
+- PLN26-022/Peter Edwards (Clear Water Enterprises LLC)
+- Consider a Rezone from the A-35 to the RES-1 zoning district
+- 3. Board's consideration and possible action: Formation of a Concentrated Animal Feeding Operation
+- (CAFO) Land Use Regulations Working Group to evaluate, review, and draft proposed amendments
+- 11:00 AM PLANNING - CONTINUED FROM SEPTEMBER 1, 2026 PUBLIC HEARING ON THE LAND USE CODE
+- 1. Board's consideration of Resolution Adopting Land Use Code Amendments for Natural Medicine
+- Businesses and Repealing Moratorium Resolutions No. 2025-R-011 and No. 2025-R-38
+- 2. Board's consideration of Resolution Adopting Land Use Code Amendments for Battery Energy
+- Storage Systems (BESS) and Repealing Moratorium Resolutions No. 2025-R-43 and No. 2026-R
+- CERTIFICATION OF POSTING
+
+## [delta-county#13] 2026-09-15 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the September 1, 2026 BoCC Regular Meeting
+- 2. Board's consideration of a Permanent Sale Room License for Mosaic Wines LLC dba Mosaic Wine
+- located at 9729 3000 Road, Hotchkiss, CO
+- Outreach Coordinator Lyndall Young - Board's consideration of a Proclamation for International
+- 2. Board's consideration and discussion of the comment letter specific to 2001 Roadless Rule
+- 3. Finance Director Leone Anderson - Board's consideration of a Resolution to Update Mileage Rates
+- and Per Diem rates starting January 1, 2027
+- 4. Ratify Warrants
+- 2. Road and Bridge Reports
+- Accept dedication of Road Right-of-Way to Delta County for Barrow Mesa Road, totaling in
+- 2. PUBLIC HEARING FOR PLN26-022/PETER EDWARDS (CLEAR WATER
+- PLN26-022/Peter Edwards (Clear Water Enterprises LLC)
+- Consider a Rezone from the A-35 to the RES-1 zoning district
+- 3. Board's consideration and possible action: Formation of a Concentrated Animal Feeding Operation
+- (CAFO) Land Use Regulations Working Group to evaluate, review, and draft proposed amendments
+- 11:00 AM PLANNING - CONTINUED FROM SEPTEMBER 1, 2026 PUBLIC HEARING ON THE LAND USE CODE
+- 1. Board's consideration of Resolution Adopting Land Use Code Amendments for Natural Medicine
+- Businesses and Repealing Moratorium Resolutions No. 2025-R-011 and No. 2025-R-38
+- 2. Board's consideration of Resolution Adopting Land Use Code Amendments for Battery Energy
+- Storage Systems (BESS) and Repealing Moratorium Resolutions No. 2025-R-43 and No. 2026-R
+- CERTIFICATION OF POSTING
+- months from the above date. All documents incorporated in these minutes by reference are also available 10
+- Chairman Lane approved the agenda as presented. 19
+- Board’s consideration of the minutes for the August 18, 2026 BoCC Regular Meeting accepted as 25
+- Board’s consideration of a Liquor License for a Vintner’s Restaurant for Aquila Cellars LLC dba 28
+- Aquila Cellars located at 13475 2600 Road, Eckert, CO: 29
+- Teri explained that she has received all necessary documentation, fees and the Sheriff was contacted 30
+- be approved. 32
+- Commissioner Fuller made a motion that the Board approve the Vintner’s Restaurant license for Aquila 34
+- Cellars LLC dba Aquila Cellars located at 13475 2600 Road, Eckert, CO. Commissioner Koontz 35
+- Board’s consideration of a Liquor License Renewal for a Hotel and a Restaurant for SFR 40
+- Teri stated that she has received all necessary documentation, fees and the Sheriff was contacted and 43
+
+## [delta-county#14] 2026-10-06 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the Minutes for the September 15, 2026 BoCC Regular Meeting
+- 1. County Assessor Jolene George - Presentation of the 2026 Delta County Property Assessment Study
+- 2. Finance Director Leone Anderson - Board's consideration of a Resolution to Update
+- Mileage Rates and Per Diem rates starting January 1, 2027
+- 3. Board's consideration of a Resolution and Quit Claim Deed for Road Right of Way for Pioneer
+- 4. Board's consideration and discussion regarding United States Forest Service - Delta County
+- Schedule a Road Agreement
+- 2. Road & Bridge
+- 1. Board's consideration of Assigment of Lease Blake Field Airport Hangar #310. Geigly and Good to
+- Accept dedication of Road Right-of-Way to Delta County for H Road (0.17+/- acres) as a public
+- Accept dedication of Road Right-of-Way to Delta County for Surface Creek Road and NE Shady
+- Oak Avenue (0.69+/- acres) as public roads
+- 3. PLN26-036 Ventimiglia - Accept a Replat of the West Elk Subdivision
+- (Antonsson/Antonsson/Shiles/Sunberg Boundary Line Adjustment), modifying a Plat Note
+- 4. Board's consideration of a Resolution submitting proposed Land Use Code amendments to the Delta
+- CERTIFICATION OF POSTING
+
+## [delta-county#15] 2026-10-06 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the Minutes for the September 15, 2026 BoCC Regular Meeting
+- 1. County Assessor Jolene George - Presentation of the 2026 Delta County Property Assessment Study
+- 2. Finance Director Leone Anderson - Board's consideration of a Resolution to Update
+- Mileage Rates and Per Diem rates starting January 1, 2027
+- 3. Board's consideration of a Resolution and Quit Claim Deed for Road Right of Way for Pioneer
+- 4. Board's consideration and discussion regarding United States Forest Service - Delta County
+- Schedule a Road Agreement
+- 2. Road & Bridge
+- 1. Board's consideration of Assigment of Lease Blake Field Airport Hangar #310. Geigly and Good to
+- Accept dedication of Road Right-of-Way to Delta County for H Road (0.17+/- acres) as a public
+- Accept dedication of Road Right-of-Way to Delta County for Surface Creek Road and NE Shady
+- Oak Avenue (0.69+/- acres) as public roads
+- 3. PLN26-036 Ventimiglia - Accept a Replat of the West Elk Subdivision
+- (Antonsson/Antonsson/Shiles/Sunberg Boundary Line Adjustment), modifying a Plat Note
+- 4. Board's consideration of a Resolution submitting proposed Land Use Code amendments to the Delta
+- CERTIFICATION OF POSTING
+- months from the above date. All documents incorporated in these minutes by reference are also available 10
+- 9/11 hearing their personal stories. Like so many life changing events those things have been seared 26
+- a momentous deliberate challenge not just to America but the world at large. The target of the terrorists 56
+- fire fighters went to sleep in preparation for their morning shift, 71 law enforcement officers, 441 rescue 64
+- one second of your life for granted.” – Unknown 68
+- Chairman Lane approved the agenda as approved. 8
+- Chuck Cherek, 5509 2000 Road, Delta: 11
+- with his rubber-tired excavator and cleared a path; the water was starting to dump over 2000 Road. 13
+- He doesn’t mind cleaning it, but he can’t hold much more water down there. 16
+- comments on that. It was brought to his attention that they are not going to use water. When he provided 21
+- Everett with a bunch of information while he was working on this, one of the big fires that was in Surprise 22
+- Arizona burnt everything down and good pictures shows the plume and how it separated like a clover leaf 23
+- and they chose not to use water and drug a couple of the containers away. What happened is all those 24
+
+## [delta-county#16] 2026-10-13 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS
+- APPROVAL OF AGENDA
+- 1. Proposed 2027 Delta County Budget Presentation
+- CERTIFICATION OF POSTING
+
+## [delta-county#17] 2026-10-14 | Planning Commission | agenda
+- Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
+- 1. Approve the Meeting Minutes for the July 8, 2026, meeting as presented
+- 2. Approve the Meeting Minutes for the July 29, 2026, meeting as presented
+- 3. Approve the Meeting Minutes for the August 12, 2026, meeting as presented
+- D. PUBLIC HEARING ITEMS
+- Public Hearing Items are noticed and open for public comments
+- Consider rezoning a 2.03+/- acre parcel from Agricultural 35-acres (A-35) to Agricultural 5-acres (A-5)
+- 2. Consideration and Recommendation on Proposed Land Use Code (LUC) Text
+- Amendments Submitted by the Board of County Commissioners (BoCC)
+- F. COMMISSIONER COMMENTS, REQUESTS, AND REFERRALS
+- This is time set aside for the Commission to comment, request, or refer a matter that is not on the agenda for
+- future consideration
+- CERTIFICATION OF POSTING
+
+## [delta-county#18] 2026-10-14 | Planning Commission | agenda
+- Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
+- 1. Approve the Meeting Minutes for the July 8, 2026, meeting as presented
+- 2. Approve the Meeting Minutes for the July 29, 2026, meeting as presented
+- 3. Approve the Meeting Minutes for the August 12, 2026, meeting as presented
+- D. PUBLIC HEARING ITEMS
+- Public Hearing Items are noticed and open for public comments
+- Consider rezoning a 2.03+/- acre parcel from Agricultural 35-acres (A-35) to Agricultural 5-acres (A-5)
+- 2. Consideration and Recommendation on Proposed Land Use Code (LUC) Text
+- Amendments Submitted by the Board of County Commissioners (BoCC)
+- F. COMMISSIONER COMMENTS, REQUESTS, AND REFERRALS
+- This is time set aside for the Commission to comment, request, or refer a matter that is not on the agenda for
+- future consideration
+- CERTIFICATION OF POSTING
+- 560 Dodge Street
+- Delta County Community Development Director, Oran Stainbrook
+- Delta County Community Project Manager, Shawn Gardner
+- Delta County Community Development Planner I, Brittany Haining
+- a. Approve the Meeting Minutes for the meeting held on April 15, 2026, as presented
+- i. Commissioner Enholm made a motion to Approve the meeting minutes as presented from the April
+- Mr. Gardner discussed items in the Land Use Code for revisions
+- F. COMMISSIONER COMMENTS, REQUESTS AND REFERRALS
+- Roubideau Meeting Room
+- 320 W. 5th Street, Delta
+- Kate Darlington called the meeting to order at 5:31 p.m. in the Roubideau Meeting Room
+- a. Approve the Meeting Minutes for the meeting held on July 8, 2026, as presented
+- i. The minutes from the July 8, 2026 meeting were present but were not addressed or approved by the
+- Commission during this session, Chair Darlington proceeded directly to the Public Hearing Item
+- D. PUBLIC HEARING ITEM
+- a. Public Hearing to consider and formulate recommendations to the Board of County Commissioners regarding
+- proposed text amendments to the Land Use Code (LUC), including:
+- ii. Natural Medicines Business zoning and facility standards
+- iii. General Code Amendments and cleanup, addressing setbacks, road/utility standards, site plan
+- Mr. Gardner, opened the Public Hearing with explaining the process of the Land Use Code amendments, the how the
+- Mr. Gardner mentioned topics that were mentioned in public comments, those topics were: temporary special events,
+- intensive agricultural setback reductions, and site plan review
+- prior to the meeting regarding temporary special events, intensive agricultural setbacks, site plan reviews and a late
+- comment regarding suggested technical verbiage modification of the BESS amendment. Mr. Gardner shared an
+
+## [delta-county#19] 2026-10-20 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the October 6, 2026, BoCC Regular Meeting
+- 2. Board's consideration of the minutes for the October 13, 2026 Special BoCC meeting
+- 1. Board's consideration of PLN26-013 Driveway Spacing Variance Request
+- 2. Board's consideration of the Fire Mountain Speed Analysis and Resolution for Speed Limit Change
+- for Fire Mountain
+- 3. Board's consideration of a Resolution in Support of Amendment 83, the Constitutional Right to
+- 2. Road & Bridge Reports
+- 9:00 AM SERVICE AWARD RECOGNITION
+- 1. Board's recognition of the following for Service Award:
+- 2. Board's consideration of a Temporary Assistance for Needy Families (TANF) contract
+- 3. Board's consideration and approval of a Mini Grant
+- CERTIFICATION OF POSTING
+
+## [delta-county#20] 2026-10-20 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building - 560 Dodge Street
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- APPROVAL OF AGENDA
+- 1. Board's consideration of the minutes for the October 6, 2026, BoCC Regular Meeting
+- 2. Board's consideration of the minutes for the October 13, 2026 Special BoCC meeting
+- 1. Board's consideration of PLN26-013 Driveway Spacing Variance Request
+- 2. Board's consideration of the Fire Mountain Speed Analysis and Resolution for Speed Limit Change
+- for Fire Mountain
+- 3. Board's consideration of a Resolution in Support of Amendment 83, the Constitutional Right to
+- 2. Road & Bridge Reports
+- 9:00 AM SERVICE AWARD RECOGNITION
+- 1. Board's recognition of the following for Service Award:
+- 2. Board's consideration of a Temporary Assistance for Needy Families (TANF) contract
+- 3. Board's consideration and approval of a Mini Grant
+- CERTIFICATION OF POSTING
+- months from the above date. All documents incorporated in these minutes by reference are also available 10
+- Chairman Lane approved the agenda as presented. 19
+- dysprosium oxide by the end of 2027. Those oxides feed magnets for motors, robotics, energy systems, 37
+- Clocks – Status, Not An Award 41
+- Not a County permit
+- Eastern. Full application 1 March 2027. Up to
+- minerals agreement
+- does not prime. Generation above that slice is not extra City retail into the MEAN contract. 46
+- conversation. A utility PART filing is not a land-use application. A November lab – concept paper is not a 50
+- County resolution. I will this page with the Clerk. 51
+- As we celebrate National 4-H Week, we want you to know how much your support means to all of us. 14
+- Board’s consideration of the minutes for the September 15, 2026 BoCC Regular Meeting accepted 24
+- County Assessor Jolene George – Presentation of the 2026 Delta County Property Assessment 28
+- 1982 as part of the Gallagher Amendment. This is a means of achieving statewide equity and uniformity 32
+- areas. One is the procedural review which identifies if they are following state law and constitution on 36
+- Jolene stated that this report goes through and identifies all the different measures and what the results 44
+- measures that they use. Those will identify if you are valuing properties uniformly based on value. Lower 52
+- Board’s consideration of a Resolution to Update Mileage Rates and Per Diem rates starting 12
+- Leone explained that the old rates had not increased since 2008 and we all know that prices for meals 14
+- has increased and the old rates were barely covering meals when traveling. Based on economic mileage 15

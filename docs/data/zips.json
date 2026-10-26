@@ -5714,7 +5714,7 @@
    {
     "name": "Estes Park",
     "share": 0.607,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Larimer County",
@@ -5722,7 +5722,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "estes-park/3",
+   "estes-park/4",
+   "estes-park/0",
+   "estes-park/7",
+   "estes-park/9",
+   "estes-park/1",
+   "estes-park/2",
+   "estes-park/6"
+  ],
   "tagged": {}
  },
  "80520": {
@@ -7209,11 +7218,27 @@
    {
     "name": "Logan County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
+   "logan-county/3",
+   "logan-county/6",
+   "logan-county/9",
+   "logan-county/4",
+   "logan-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80723": {
   "governments": [
@@ -7257,7 +7282,7 @@
    {
     "name": "Logan County",
     "share": 0.672,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Crook",
@@ -7265,8 +7290,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
+   "logan-county/3",
+   "logan-county/6",
+   "logan-county/9",
+   "logan-county/4",
+   "logan-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80727": {
   "governments": [
@@ -7305,7 +7346,7 @@
    {
     "name": "Logan County",
     "share": 0.522,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Fleming",
@@ -7313,8 +7354,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
+   "logan-county/3",
+   "logan-county/6",
+   "logan-county/9",
+   "logan-county/4",
+   "logan-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80729": {
   "governments": [
@@ -7356,7 +7413,7 @@
    {
     "name": "Logan County",
     "share": 0.092,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Yuma County",
@@ -7371,18 +7428,19 @@
   ],
   "issues": [
    "phillips-county/1",
+   "logan-county/7",
    "yuma-county/1",
    "yuma-county/2",
    "yuma-county/4",
    "yuma-county/3",
-   "phillips-county/2",
-   "phillips-county/5",
-   "phillips-county/6"
+   "logan-county/0",
+   "logan-county/1"
   ],
   "tagged": {
    "data-center": {
     "ids": [
      "phillips-county/0",
+     "logan-county/5",
      "yuma-county/0"
     ],
     "site": false
@@ -7516,7 +7574,7 @@
    {
     "name": "Logan County",
     "share": 0.603,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Iliff",
@@ -7524,8 +7582,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
+   "logan-county/3",
+   "logan-county/6",
+   "logan-county/9",
+   "logan-county/4",
+   "logan-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80737": {
   "governments": [
@@ -7568,7 +7642,7 @@
    {
     "name": "Logan County",
     "share": 0.564,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Merino",
@@ -7587,18 +7661,19 @@
    }
   ],
   "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
    "washington-county/1",
    "washington-county/2",
    "washington-county/3",
    "washington-county/6",
-   "washington-county/4",
-   "washington-county/8",
-   "washington-county/9",
-   "washington-county/10"
+   "washington-county/4"
   ],
   "tagged": {
    "data-center": {
     "ids": [
+     "logan-county/5",
      "morgan-county/0"
     ],
     "site": false
@@ -7688,11 +7763,27 @@
    {
     "name": "Logan County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
+   "logan-county/3",
+   "logan-county/6",
+   "logan-county/9",
+   "logan-county/4",
+   "logan-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80746": {
   "governments": [
@@ -7731,7 +7822,7 @@
    {
     "name": "Logan County",
     "share": 0.564,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Peetz",
@@ -7739,8 +7830,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "logan-county/7",
+   "logan-county/0",
+   "logan-county/1",
+   "logan-county/3",
+   "logan-county/6",
+   "logan-county/9",
+   "logan-county/4",
+   "logan-county/2"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80749": {
   "governments": [
@@ -7795,20 +7902,27 @@
    {
     "name": "Logan County",
     "share": 0.224,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "sterling/1",
    "sterling/2",
    "sterling/3",
+   "logan-county/7",
    "sterling/0",
    "sterling/9",
-   "sterling/4",
-   "sterling/5",
-   "sterling/8"
+   "logan-county/0",
+   "logan-county/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "logan-county/5"
+    ],
+    "site": false
+   }
+  }
  },
  "80754": {
   "governments": [
@@ -10424,7 +10538,7 @@
    {
     "name": "Lamar",
     "share": 0.841,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Prowers County",
@@ -10432,8 +10546,24 @@
     "has_records": false
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "lamar/2",
+   "lamar/5",
+   "lamar/7",
+   "lamar/4",
+   "lamar/0",
+   "lamar/1",
+   "lamar/3",
+   "lamar/6"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "lamar/0"
+    ],
+    "site": false
+   }
+  }
  },
  "81054": {
   "governments": [
@@ -12319,7 +12449,7 @@
    {
     "name": "Durango",
     "share": 0.593,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "La Plata County",
@@ -12327,7 +12457,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "durango/0",
+   "durango/5",
+   "durango/4",
+   "durango/10",
+   "durango/3",
+   "durango/1",
+   "durango/2",
+   "durango/6"
+  ],
   "tagged": {}
  },
  "81303": {
@@ -12340,10 +12479,19 @@
    {
     "name": "Durango",
     "share": 0.105,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "durango/0",
+   "durango/5",
+   "durango/4",
+   "durango/10",
+   "durango/3",
+   "durango/1",
+   "durango/2",
+   "durango/6"
+  ],
   "tagged": {}
  },
  "81320": {
@@ -12645,10 +12793,19 @@
    {
     "name": "Delta County",
     "share": 0.062,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "delta-county/1",
+   "delta-county/3",
+   "delta-county/2",
+   "delta-county/0",
+   "delta-county/6",
+   "delta-county/5",
+   "delta-county/4",
+   "delta-county/7"
+  ],
   "tagged": {}
  },
  "81411": {
@@ -12676,7 +12833,7 @@
    {
     "name": "Delta County",
     "share": 0.568,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Cedaredge",
@@ -12684,7 +12841,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "delta-county/1",
+   "delta-county/3",
+   "delta-county/2",
+   "delta-county/0",
+   "delta-county/6",
+   "delta-county/5",
+   "delta-county/4",
+   "delta-county/7"
+  ],
   "tagged": {}
  },
  "81415": {
@@ -12692,7 +12858,7 @@
    {
     "name": "Delta County",
     "share": 0.601,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Crawford",
@@ -12706,14 +12872,14 @@
    }
   ],
   "issues": [
+   "delta-county/1",
    "crawford/0",
+   "delta-county/3",
    "crawford/2",
    "crawford/8",
+   "delta-county/2",
    "montrose-county/8",
-   "crawford/3",
-   "montrose-county/3",
-   "montrose-county/7",
-   "montrose-county/9"
+   "crawford/3"
   ],
   "tagged": {}
  },
@@ -12727,7 +12893,7 @@
    {
     "name": "Delta County",
     "share": 0.33,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Montrose County",
@@ -12737,13 +12903,13 @@
   ],
   "issues": [
    "delta/3",
+   "delta-county/1",
+   "delta-county/3",
    "delta/4",
    "delta/7",
    "delta/9",
-   "delta/1",
-   "delta/2",
-   "montrose-county/8",
-   "montrose-county/3"
+   "delta-county/2",
+   "delta/1"
   ],
   "tagged": {
    "data-center": {
@@ -12764,10 +12930,19 @@
    {
     "name": "Delta County",
     "share": 0.105,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
+  "issues": [
+   "delta-county/1",
+   "delta-county/3",
+   "delta-county/2",
+   "delta-county/0",
+   "delta-county/6",
+   "delta-county/5",
+   "delta-county/4",
+   "delta-county/7"
+  ],
   "tagged": {}
  },
  "81419": {
@@ -12775,7 +12950,7 @@
    {
     "name": "Delta County",
     "share": 0.762,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Hotchkiss",
@@ -12785,13 +12960,13 @@
   ],
   "issues": [
    "hotchkiss/1",
+   "delta-county/1",
+   "delta-county/3",
    "hotchkiss/7",
+   "delta-county/2",
    "hotchkiss/0",
    "hotchkiss/2",
-   "hotchkiss/3",
-   "hotchkiss/5",
-   "hotchkiss/6",
-   "hotchkiss/10"
+   "hotchkiss/3"
   ],
   "tagged": {}
  },
@@ -12955,7 +13130,7 @@
    {
     "name": "Delta County",
     "share": 0.602,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Paonia",
@@ -12965,13 +13140,13 @@
   ],
   "issues": [
    "paonia/0",
+   "delta-county/1",
+   "delta-county/3",
    "paonia/2",
    "paonia/7",
    "paonia/9",
    "paonia/11",
-   "paonia/1",
-   "paonia/5",
-   "paonia/8"
+   "paonia/1"
   ],
   "tagged": {}
  },
@@ -13098,18 +13273,18 @@
    {
     "name": "Delta County",
     "share": 0.102,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
    "gunnison-county/3",
+   "delta-county/1",
    "gunnison-county/9",
+   "delta-county/3",
    "gunnison-county/0",
    "gunnison-county/2",
-   "gunnison-county/1",
-   "gunnison-county/4",
-   "gunnison-county/5",
-   "gunnison-county/6"
+   "delta-county/2",
+   "delta-county/0"
   ],
   "tagged": {}
  },
@@ -13565,11 +13740,28 @@
    {
     "name": "Moffat County",
     "share": 0.306,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "moffat-county/0",
+   "moffat-county/6",
+   "moffat-county/3",
+   "moffat-county/1",
+   "moffat-county/2",
+   "moffat-county/4",
+   "moffat-county/5",
+   "moffat-county/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81611": {
   "governments": [
@@ -13637,7 +13829,7 @@
    {
     "name": "Avon",
     "share": 0.605,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Eagle County",
@@ -13645,7 +13837,16 @@
     "has_records": false
    }
   ],
-  "issues": [],
+  "issues": [
+   "avon/0",
+   "avon/1",
+   "avon/2",
+   "avon/6",
+   "avon/3",
+   "avon/4",
+   "avon/5",
+   "avon/9"
+  ],
   "tagged": {}
  },
  "81621": {
@@ -13759,20 +13960,28 @@
    {
     "name": "Moffat County",
     "share": 0.278,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
+   "moffat-county/0",
+   "moffat-county/6",
    "craig/3",
    "craig/5",
+   "moffat-county/3",
+   "moffat-county/1",
    "craig/0",
-   "craig/1",
-   "craig/2",
-   "craig/4",
-   "craig/6",
-   "craig/7"
+   "craig/1"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81630": {
   "governments": [
@@ -13852,11 +14061,28 @@
    {
     "name": "Moffat County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "moffat-county/0",
+   "moffat-county/6",
+   "moffat-county/3",
+   "moffat-county/1",
+   "moffat-county/2",
+   "moffat-county/4",
+   "moffat-county/5",
+   "moffat-county/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81635": {
   "governments": [
@@ -13925,7 +14151,7 @@
    {
     "name": "Moffat County",
     "share": 0.801,
-    "has_records": false
+    "has_records": true
    },
    {
     "name": "Routt County",
@@ -13934,16 +14160,24 @@
    }
   ],
   "issues": [
+   "moffat-county/0",
    "routt-county/1",
+   "moffat-county/6",
    "routt-county/0",
    "routt-county/2",
    "routt-county/12",
    "routt-county/4",
-   "routt-county/3",
-   "routt-county/5",
-   "routt-county/7"
+   "moffat-county/3"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81639": {
   "governments": [
@@ -13982,11 +14216,28 @@
    {
     "name": "Moffat County",
     "share": 1.0,
-    "has_records": false
+    "has_records": true
    }
   ],
-  "issues": [],
-  "tagged": {}
+  "issues": [
+   "moffat-county/0",
+   "moffat-county/6",
+   "moffat-county/3",
+   "moffat-county/1",
+   "moffat-county/2",
+   "moffat-county/4",
+   "moffat-county/5",
+   "moffat-county/7"
+  ],
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81641": {
   "governments": [
@@ -14003,18 +14254,28 @@
    {
     "name": "Moffat County",
     "share": 0.006,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
+   "moffat-county/0",
    "meeker/3",
+   "moffat-county/6",
    "meeker/0",
    "meeker/1",
    "meeker/2",
    "meeker/4",
    "meeker/5"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81642": {
   "governments": [
@@ -14267,7 +14528,7 @@
    {
     "name": "Moffat County",
     "share": 0.165,
-    "has_records": false
+    "has_records": true
    }
   ],
   "issues": [
@@ -14275,12 +14536,20 @@
    "routt-county/0",
    "routt-county/2",
    "routt-county/12",
+   "moffat-county/0",
    "routt-county/4",
-   "routt-county/3",
-   "routt-county/5",
-   "routt-county/7"
+   "moffat-county/6",
+   "routt-county/3"
   ],
-  "tagged": {}
+  "tagged": {
+   "data-center": {
+    "ids": [
+     "moffat-county/0",
+     "moffat-county/1"
+    ],
+    "site": false
+   }
+  }
  },
  "81654": {
   "governments": [

@@ -3087,6 +3087,275 @@
   ],
   "government": "Aurora"
  },
+ "avon/0": {
+  "id": "avon/0",
+  "title": "Flock license plate reader cameras and petition to end the contract",
+  "summary": "Residents repeatedly urged Council to end the Town's contract with Flock Safety's automated license plate reader cameras, citing privacy concerns and a petition that grew from 1,544 to over 1,900 signatures. Town Manager Eric Heil said the agreement has not been renewed and is under review, including contract terms and data security. Council discussion is scheduled for October 6, 2026.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Policing & public safety",
+   "Ethics & transparency",
+   "Lawsuits & legal"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413792&dbid=0&repo=TownofAvon"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413688&dbid=0&repo=TownofAvon"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413310&dbid=0&repo=TownofAvon"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412746&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/1": {
+  "id": "avon/1",
+  "title": "Avon Whitewater Park and Bob the Bridge area improvements",
+  "summary": "Residents asked Council to improve the Bob the Bridge area and the Avon Whitewater Park, including adding a standing river wave. Other speakers raised low-water conditions limiting river access and an approved but unfunded skate park.",
+  "where": "Avon Whitewater Park / Bob the Bridge",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Recreation & trails",
+   "Parks & open space"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413688&dbid=0&repo=TownofAvon"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413310&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/2": {
+  "id": "avon/2",
+  "title": "Community housing: fast track scheduling policy and deed restrictions",
+  "summary": "Council considered Resolution 26-07 adopting a fast track priority scheduling policy for community housing projects. A resident supported the deed restriction requirement, and another asked for more neighborhood input on a recent community housing project. The Town Manager said public hearings would offer further comment opportunities.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Housing",
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412746&dbid=0&repo=TownofAvon"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/3": {
+  "id": "avon/3",
+  "title": "Short-term rental licenses and unrestricted rental eligibility in new developments",
+  "summary": "A resident raised concerns about short-term rental licenses and the approval of additional residential developments with unrestricted short-term rental eligibility.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Short-term rentals",
+   "Housing"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/4": {
+  "id": "avon/4",
+  "title": "Pedestrian crossing safety on Avon Road near Highway 6",
+  "summary": "A resident asked for flashing pedestrian beacons on both sides of Avon Road near Highway 6 after his father was struck and nearly hit at the crosswalks. He noted beacons exist along Highway 6 near Avon Road.",
+  "where": "Avon Road at Highway 6",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Policing & public safety"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413792&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/5": {
+  "id": "avon/5",
+  "title": "Piedmont Apartments trash, wildlife and code enforcement",
+  "summary": "Residents raised trash management and code enforcement problems at the Piedmont Apartments. Deputy Chief Cosper reported police had received 27 calls about trash and wildlife.",
+  "where": "Piedmont Apartments",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Environment & climate",
+   "Agriculture & wildlife",
+   "Housing"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413688&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/6": {
+  "id": "avon/6",
+  "title": "Lot B (The Summit) redevelopment and tree removal",
+  "summary": "A resident asked about trees that could be affected by future redevelopment of Lot B (The Summit), and staff said some would be removed during redevelopment and excavation. Council also handled a notice of award for heat recovery system expansion design tied to Lot B.",
+  "where": "Lot B (The Summit)",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Zoning & development",
+   "Environment & climate"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=413792&dbid=0&repo=TownofAvon"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/7": {
+  "id": "avon/7",
+  "title": "Tax increment agreements with Urban Renewal and Downtown Development Authorities",
+  "summary": "Council approved intergovernmental agreements (Resolutions 26-08 and 26-09) on remitting tax increment with the Avon Urban Renewal Authority and the Avon Downtown Development Authority.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes",
+   "Downtown & business"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/8": {
+  "id": "avon/8",
+  "title": "Capital project awards: West Beaver Creek bridge, Rec Center aquatics, bus stop",
+  "summary": "Council issued notices of award for West Beaver Creek Blvd Bridge rehab construction, Rec Center aquatic renovation design, and a Lettuce Patch Early Learning Center bus stop.",
+  "where": "West Beaver Creek Blvd; Rec Center; Lettuce Patch Early Learning Center",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Recreation & trails",
+   "Transit"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
+ "avon/9": {
+  "id": "avon/9",
+  "title": "Clogged culvert and culvert maintenance",
+  "summary": "A resident thanked the Town for clearing a clogged culvert and asked for continued monitoring and maintenance of culverts.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Utilities",
+   "Water"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Town Council",
+    "kind": "minutes",
+    "url": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=412089&dbid=0&repo=TownofAvon"
+   }
+  ],
+  "government": "Avon"
+ },
  "basalt/0": {
   "id": "basalt/0",
   "title": "Shared Public Works and Police facility and 0.5% sales tax on November ballot",
@@ -14521,6 +14790,286 @@
   ],
   "government": "Del Norte"
  },
+ "delta-county/0": {
+  "id": "delta-county/0",
+  "title": "Clear Water Enterprises rezone (PLN26-022), 378.5 acres from A-35 to RES-1",
+  "summary": "Peter Edwards' Clear Water Enterprises LLC asked to rezone about 378.5 acres from A-35 to RES-1 for residential use, with future subdivision. The Planning Commission heard it Aug 12 and the commissioners held a public hearing Sept 15. A water attorney's letter says the water rights and augmentation plan are adequate, citing Golden Eagle Water Company taps and Gunnison River diversions.",
+  "where": "Delta County, Gunnison River area",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Zoning & development",
+   "Housing",
+   "Water"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+   },
+   {
+    "date": "2026-08-12",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1747/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/1": {
+  "id": "delta-county/1",
+  "title": "Land Use Code update: battery storage, natural medicine businesses and general amendments",
+  "summary": "The county held public hearings on Land Use Code amendments, including rules for Battery Energy Storage Systems (BESS) and natural medicine businesses, plus setbacks, site plan review, temporary special events and intensive agricultural setbacks. The commissioners considered resolutions adopting the BESS and natural medicine rules and repealing the related moratoriums. In October they submitted further amendments to the Planning Commission for a recommendation.",
+  "where": "Countywide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Zoning & development",
+   "Energy",
+   "Cannabis & liquor"
+  ],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-14",
+    "body": "Planning Commission",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1749/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1688/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1687/files"
+   },
+   {
+    "date": "2026-07-29",
+    "body": "Planning Commission",
+    "kind": "minutes",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1796/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/2": {
+  "id": "delta-county/2",
+  "title": "2027 county budget",
+  "summary": "The proposed 2027 Delta County budget was presented at a special meeting on Oct 13. The Assessor also presented the 2026 Property Assessment Study on Oct 6.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1605/files"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1890/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1688/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/3": {
+  "id": "delta-county/3",
+  "title": "Fire Mountain speed limit and road right-of-way dedications",
+  "summary": "The commissioners considered a speed analysis and resolution to change the speed limit on Fire Mountain. They also accepted right-of-way dedications for Fire Mountain Road (2.03 acres), Barrow Mesa Road, H Road, and Surface Creek Road and NE Shady Oak Avenue. A School Bus Ahead sign on G Road west of the railroad tracks was discussed.",
+  "where": "Fire Mountain Road, G Road, Surface Creek Road",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic"
+  ],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1605/files"
+   },
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1688/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1687/files"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1637/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/4": {
+  "id": "delta-county/4",
+  "title": "CAFO land use regulations working group",
+  "summary": "The commissioners considered forming a working group to evaluate, review and draft amendments to the county's regulations for Concentrated Animal Feeding Operations.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Agriculture & wildlife",
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/5": {
+  "id": "delta-county/5",
+  "title": "Hotchkiss skate park request at the fairgrounds",
+  "summary": "Hotchkiss resident Tanner Wilson asked the commissioners to support a skate park, suggesting the county fairgrounds as a site. He offered to help with fundraisers and noted the fairgrounds master plan.",
+  "where": "Delta County Fairgrounds, Hotchkiss",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Recreation & trails",
+   "Parks & open space"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1687/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/6": {
+  "id": "delta-county/6",
+  "title": "2001 Roadless Rule comment letter and Forest Service road agreement",
+  "summary": "The commissioners discussed a county comment letter on the 2001 Roadless Rule and a road agreement between the U.S. Forest Service and Delta County.",
+  "where": "Countywide, national forest lands",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Land & property",
+   "Environment & climate",
+   "Roads & traffic"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1688/files"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1604/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/7": {
+  "id": "delta-county/7",
+  "title": "Portable chemical toilets policy and septic variance",
+  "summary": "The Board of Health scheduled discussion of a public health policy on portable chemical toilets and an on-site wastewater system variance request.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Health & human services",
+   "Utilities"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-24",
+    "body": "Board of Health",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1799/files"
+   }
+  ],
+  "government": "Delta County"
+ },
+ "delta-county/8": {
+  "id": "delta-county/8",
+  "title": "Ginter Grove Public Improvement District",
+  "summary": "The commissioners held a special-meeting discussion and advice on the Ginter Grove Public Improvement District.",
+  "where": "Ginter Grove",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Land & property",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://deltacoco.portal.civicclerk.com/event/1790/files"
+   }
+  ],
+  "government": "Delta County"
+ },
  "delta/0": {
   "id": "delta/0",
   "title": "Data centers discussion",
@@ -16619,6 +17168,287 @@
   ],
   "government": "Dove Creek"
  },
+ "durango/0": {
+  "id": "durango/0",
+  "title": "City Manager's proposed 2027 budget",
+  "summary": "Council held a budget retreat on Oct. 14 to review the City Manager's proposed 2027 budget. On Oct. 20 a public hearing on the proposal was requested, and a joint session with La Plata County covered the 2027 joint sales tax budget.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219"
+   },
+   {
+    "date": "2026-10-14",
+    "body": "City Council Special Meeting - Budget Retreat",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Special_Meeting_-_Budget_Retreat_8338_Agenda_10_14_2026_9_00_00_AM?documentType=1&meetingId=8338"
+   },
+   {
+    "date": "2026-10-13",
+    "body": "City Council Joint Study Session with County Commissioners",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Joint_Study_Session_with_County_Commissioners_8336_Agenda_10_13_2026_2_30_00_PM?documentType=1&meetingId=8336"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/1": {
+  "id": "durango/1",
+  "title": "Land use code changes for the 2025 Housing Needs Assessment",
+  "summary": "An ordinance amending the Land Use and Development Code in response to the 2025 Housing Needs Assessment and 2026 state law was introduced at the Oct. 20 Council meeting. The Community Development Commission also gave a quarterly report on innovative housing and economic development.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Housing",
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/2": {
+  "id": "durango/2",
+  "title": "Moving the city into the Durango Fire Protection District on the April 2027 ballot",
+  "summary": "A resolution would direct the City Manager to start the steps to include the City of Durango in the Durango Fire Protection District on the April 2027 election ballot. It was on the Oct. 20 Council agenda.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Fire & emergencies",
+   "Elections",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/3": {
+  "id": "durango/3",
+  "title": "South Durango Urban Renewal Plan Area",
+  "summary": "The Durango Urban Renewal Authority study session covered tax increment financing, plan adoption and public finance agreements. It also covered the status, decision points and timeline for the South Durango plan area.",
+  "where": "South Durango",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Economic development",
+   "Zoning & development",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "URA Study Session",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/URA_Study_Session_8339_Agenda_10_12_2026_2_00_00_PM?documentType=1&meetingId=8339"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/4": {
+  "id": "durango/4",
+  "title": "New City Hall and Police Station site plan",
+  "summary": "The Community Development Commission reviewed early design guidance for the City Hall/Police Station major site plan (PR-26-52) at its Oct. 22 study session and Oct. 26 meeting.",
+  "where": "Durango",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Government operations",
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-26",
+    "body": "Hybrid Community Development Commission Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Hybrid_Community_Development_Commission_Meeting_8180_Agenda_10_26_2026_5_15_00_PM?documentType=1&meetingId=8180"
+   },
+   {
+    "date": "2026-10-22",
+    "body": "Community Development Commission Study Session",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Community_Development_Commission_Study_Session_8173_Agenda_10_22_2026_4_00_00_PM?documentType=1&meetingId=8173"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/5": {
+  "id": "durango/5",
+  "title": "Noise rules in the Land Use and Development Code",
+  "summary": "Proposed text amendments on noise (PR-26-68) were reviewed at a study session on Oct. 22. They went to a public hearing before the Community Development Commission on Oct. 26.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-26",
+    "body": "Hybrid Community Development Commission Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Hybrid_Community_Development_Commission_Meeting_8180_Agenda_10_26_2026_5_15_00_PM?documentType=1&meetingId=8180"
+   },
+   {
+    "date": "2026-10-22",
+    "body": "Community Development Commission Study Session",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Community_Development_Commission_Study_Session_8173_Agenda_10_22_2026_4_00_00_PM?documentType=1&meetingId=8173"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/6": {
+  "id": "durango/6",
+  "title": "Old Hire firefighter and police pension cost-of-living adjustment",
+  "summary": "A resolution would direct the City Manager to start an annual cost-of-living adjustment, equal to the prior year's national inflation rate, for Old Hire firefighter and police pensions.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes",
+   "Policing & public safety"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/7": {
+  "id": "durango/7",
+  "title": "Neighborhood parking permit options",
+  "summary": "Council considered a resolution giving staff direction on neighborhood parking permit options on Oct. 20.",
+  "where": "Durango neighborhoods",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/8": {
+  "id": "durango/8",
+  "title": "Organic waste management feasibility analysis",
+  "summary": "A resolution would direct the City Manager to study ordinance and policy options for managing organic waste. It was submitted by the Sustainability office.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Environment & climate",
+   "Utilities"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "City Council Regular Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_Meeting_8219_Agenda_10_20_2026_5_30_00_PM?documentType=1&meetingId=8219"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/9": {
+  "id": "durango/9",
+  "title": "Airport terminal development and parking expansion",
+  "summary": "The Airport Commission received updates on the terminal development project and on the Phase III parking expansion and rental car quick turnaround area design.",
+  "where": "Durango-La Plata County Airport, 1000 Airport Road",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Airports"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-15",
+    "body": "Durango - La Plata County Airport Commission",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Durango_-_La_Plata_County_Airport_Commission_8340_Agenda_10_15_2026_3_00_00_PM?documentType=1&meetingId=8340"
+   }
+  ],
+  "government": "Durango"
+ },
+ "durango/10": {
+  "id": "durango/10",
+  "title": "Camino Crossing underpass and drone delivery discussion",
+  "summary": "The Community Development Commission heard a presentation on the Camino Crossing underpass. It also discussed drone deliveries, a topic proposed by the Chair.",
+  "where": "Camino Crossing, Durango",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Recreation & trails"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-26",
+    "body": "Hybrid Community Development Commission Meeting",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Hybrid_Community_Development_Commission_Meeting_8180_Agenda_10_26_2026_5_15_00_PM?documentType=1&meetingId=8180"
+   },
+   {
+    "date": "2026-10-22",
+    "body": "Community Development Commission Study Session",
+    "kind": "agenda",
+    "url": "https://durangogov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/Community_Development_Commission_Study_Session_8173_Agenda_10_22_2026_4_00_00_PM?documentType=1&meetingId=8173"
+   }
+  ],
+  "government": "Durango"
+ },
  "eagle/0": {
   "id": "eagle/0",
   "title": "Proposed pickleball courts at Town Park",
@@ -18309,6 +19139,293 @@
    }
   ],
   "government": "Erie"
+ },
+ "estes-park/0": {
+  "id": "estes-park/0",
+  "title": "Development Code update: 50% draft, new zoning districts and housing density bonuses",
+  "summary": "Headwaters Planning presented the 50% draft of the Development Code update, which adds Mixed-Use and Open Space districts, more housing types in multi-family and mixed-use zones, and density and height bonuses for workforce housing. Staff noted a split between affordable-housing advocates and residents wanting to keep current densities. The Board also discussed lower parking minimums (EPHA said 1.2 to 1.4 cars per unit would suffice) and, on Sept 8, new rezoning review criteria in Section 3.3.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Zoning & development",
+   "Housing"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382675&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382678&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381447&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/1": {
+  "id": "estes-park/1",
+  "title": "Fall River Village II PUD and subdivision plats",
+  "summary": "Resolutions 87-26, 88-26 and 89-26 on the Fall River Village II PUD and plats were continued from July 28. The hearing was re-opened Aug 11, with staff noting code and state statute deadlines that would deem the application approved if no action was taken.",
+  "where": "Fall River Village II",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Zoning & development",
+   "Housing"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382242&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/2": {
+  "id": "estes-park/2",
+  "title": "Annexation of Fawn Valley and Highway 7 enclaves",
+  "summary": "Staff reviewed costs and benefits of annexing two enclaves. Estimates were $50,000 for a consultant to prepare maps and legal descriptions, about $12,750 a year in sales tax and $1,900 in property tax, and $2,400 a year for 25 years for road work on Chalet Ridge Court. Highway 7 area surveys drew four responses opposed and one in favor, and staff will research who owns an unannexed gap parcel.",
+  "where": "Fawn Valley and Highway 7 area",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Annexation",
+   "Budget & taxes",
+   "Roads & traffic"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=383225&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/3": {
+  "id": "estes-park/3",
+  "title": "Housing needs, Housing Action Plan and Housing Authority",
+  "summary": "Residents urged the Board to address workforce housing, including a list of people in immediate need. The Housing Authority is struggling with recruitment, drew 14 applicants for three board seats, and is working on its funding plan and 2027 budget. A Housing Assessment Addendum and Housing Action Plan came before the Board Sept 22.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Housing",
+   "Homelessness"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=383233&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382281&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381443&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/4": {
+  "id": "estes-park/4",
+  "title": "Water: Windy Gap units, administrative penalties and Colorado-Big Thompson subcontract",
+  "summary": "The Board declined to buy Windy Gap water units from Platte River Power Authority, since the Town doesn't need them and would have had to buy two units for nearly $10 million. Staff proposed administrative fines to enforce repair of surface water lines, and set dates for water rate hearings. The Board also pulled for discussion the C-BT subcontract extension with YMCA of the Rockies and the effort to include Town water customers in the Northern Water district.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Water",
+   "Fees & rates"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=383233&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382675&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382678&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-08-11",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382242&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/5": {
+  "id": "estes-park/5",
+  "title": "Dark Sky certification and draft lighting ordinance",
+  "summary": "Visit Estes Park pitched International DarkSky Community certification as a tourism draw. Board members raised concerns about a draft lighting ordinance requiring residential properties to switch to compliant fixtures within ten years. Members asked for examples from other certified communities.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Environment & climate",
+   "Tourism & events",
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381937&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/6": {
+  "id": "estes-park/6",
+  "title": "Parks and Open Space Master Plan",
+  "summary": "Staff presented the final draft plan covering 11 parks, two natural areas and two town parcels; 76% of households are within a 15-minute walk of a park. Board members asked for an urban forestry program, more dog parks and wildlife conflict reduction, and staff said implementation depends on funding. The draft was available for public comment.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Parks & open space",
+   "Agriculture & wildlife"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382272&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/7": {
+  "id": "estes-park/7",
+  "title": "Fire district funding and Town budget",
+  "summary": "A resident raised Estes Valley Fire Protection District funding, and the Town Administrator clarified the Board had not discussed cutting current funding. The Board also heard Larimer County budget shortfalls and prepared for a joint study session with the county commissioners.",
+  "where": "Townwide",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Fire & emergencies",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382281&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=381443&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/8": {
+  "id": "estes-park/8",
+  "title": "Events Center storage building contract and impact grant",
+  "summary": "The Board approved a $424,350 contract with Kinley Built to design and build a storage building at the Events Center Complex. It also accepted a $100,000 state energy and mineral impact grant toward a design project.",
+  "where": "Events Center Complex",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Recreation & trails",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Town Board",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382242&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
+ },
+ "estes-park/9": {
+  "id": "estes-park/9",
+  "title": "Micromobility devices and feather flag sign rules",
+  "summary": "Police proposed four changes to Municipal Code Chapter 9 to clarify rules for micromobility devices such as e-bikes and scooters. The Board also weighed whether to make temporary feather flags permanent, with a one-per-lot limit, 12-foot height cap and setbacks, and was split on requiring a fee and permit.",
+  "where": "Townwide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Policing & public safety",
+   "Downtown & business",
+   "Zoning & development"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=383225&dbid=0&repo=TownofEstesPark"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Town Board Study Session",
+    "kind": "minutes",
+    "url": "https://dms.estes.org/WebLink/DocView.aspx?id=382272&dbid=0&repo=TownofEstesPark"
+   }
+  ],
+  "government": "Estes Park"
  },
  "fairplay/0": {
   "id": "fairplay/0",
@@ -34508,6 +35625,317 @@
   ],
   "government": "Lakewood"
  },
+ "lamar/0": {
+  "id": "lamar/0",
+  "title": "Data center moratorium and community standards",
+  "summary": "Council discussed data centers in September, including draft Community Benefit & Responsible Data Center Development Standards and interest from parties considering the Lamar area. On Oct. 12 residents voiced concerns, and council debated a proposed 24-month moratorium to give time to write regulations. The mayor said no nondisclosure agreements have been signed and no deals are in the works.",
+  "where": "Citywide",
+  "public_comment": true,
+  "tags": [
+   "data-center"
+  ],
+  "topics": [
+   "Data centers",
+   "Zoning & development",
+   "Utilities"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-10-12-26"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/1": {
+  "id": "lamar/1",
+  "title": "Possible SECPA purchase of Lamar Utility",
+  "summary": "Council agreed to investigate an offer from SECPA to buy the Lamar Utility. A Utility Board member questioned the decision, and the mayor clarified that council is only investigating and lacks authority to sell a utility. Appointment to the Lamar Utility Board seat is on hold until outside counsel finishes a document and internal review.",
+  "where": "Lamar Utility",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Utilities",
+   "Energy",
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-3240089"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/2": {
+  "id": "lamar/2",
+  "title": "Main Caf\u00e9 Brownfield cleanup",
+  "summary": "The city sought bids for EPA Brownfield grant cleanup of the Main Caf\u00e9 site, holding a mandatory pre-bid walk-through in August. On Sept. 28 council awarded Bid 46-002 to Rockies Environmental for $483,299. A new assessment grant is also being set up.",
+  "where": "Main Caf\u00e9 site",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Environment & climate",
+   "Land & property",
+   "Economic development"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-09-28-26"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-7ae1384e-e878-4538-a497-7de3d32434eb"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-3240089"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/3": {
+  "id": "lamar/3",
+  "title": "Street repaving budget and 2026 paving list",
+  "summary": "Annual asphalt paving was delayed by milling machine availability. Public Works said materials alone are estimated at $380,362 against a $400,000 budget, and urged a larger budget given rising asphalt costs. PMC will pay for materials to repave its parking lot, with the city providing in-kind work. The Willow Valley water line project is nearing completion, after which streets will be repaired.",
+  "where": "Citywide, including Grant St. from Main to 6th and Willow Valley",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Budget & taxes",
+   "Water"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-9-14"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-7ae1384e-e878-4538-a497-7de3d32434eb"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/4": {
+  "id": "lamar/4",
+  "title": "2027 budget preparation and revenue outlook",
+  "summary": "The treasurer began budget work, with director meetings starting the week of Aug. 17 and a council work session on revenue projections on Aug. 24. Sales tax is up 5% year to date, and insurance renewals came in lower than feared. A federal funding application through Senator Bennett's office is still pending.",
+  "where": "Citywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-9-14"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-7ae1384e-e878-4538-a497-7de3d32434eb"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/5": {
+  "id": "lamar/5",
+  "title": "Tyler software rollout",
+  "summary": "The city is moving finance and other functions to Tyler software, with sales tax, accounts receivable, court, parks and recreation, cemetery and utility billing modules still being finished. Project accounting went live Aug. 10.",
+  "where": "City Hall",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-10-12",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-10-12-26"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-7ae1384e-e878-4538-a497-7de3d32434eb"
+   },
+   {
+    "date": "2026-08-10",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-3240089"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/6": {
+  "id": "lamar/6",
+  "title": "Subdivision regulations amendment (Ordinance 1287) and Valco annexation",
+  "summary": "Council approved on second reading Ordinance No. 1287 amending Chapter 22 Subdivisions of the municipal code. Planning and Zoning discussed an upcoming annexation of the Valco property.",
+  "where": "Valco property",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Zoning & development",
+   "Annexation"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-09-28-26"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/7": {
+  "id": "lamar/7",
+  "title": "Parks and recreation fields and facilities",
+  "summary": "Residents and councilmembers raised concerns about the youth soccer field's grass and divots and the community building's worn carpet. Escondido Field was topsoiled, reseeded and treated for weeds and fungus. The city will look for grants for ADA-accessible playground equipment.",
+  "where": "Escondido Field, youth soccer field, community building",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Parks & open space",
+   "Recreation & trails"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-9-14"
+   },
+   {
+    "date": "2026-09-14",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-ffb7a640-b065-44c9-85d9-3c85be733043"
+   },
+   {
+    "date": "2026-08-24",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-7ae1384e-e878-4538-a497-7de3d32434eb"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/8": {
+  "id": "lamar/8",
+  "title": "Colorado State Patrol Taser donation",
+  "summary": "Council accepted Taser X26P units and equipment donated by the Colorado State Patrol, worth about $50,000.",
+  "where": "Lamar Police Department",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Policing & public safety"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-09-28-26"
+   }
+  ],
+  "government": "Lamar"
+ },
+ "lamar/9": {
+  "id": "lamar/9",
+  "title": "Ward I council vacancy filled",
+  "summary": "Robert 'Bob' Seay was the only applicant for the Ward I vacancy. After an open-session interview and executive session, council appointed him to serve until November 2027.",
+  "where": "Ward I",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Government operations",
+   "Elections"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-28",
+    "body": "City Council",
+    "kind": "minutes",
+    "url": "https://cityoflamar.specialdistrict.org/city-council-minutes-9-14"
+   }
+  ],
+  "government": "Lamar"
+ },
  "limon/0": {
   "id": "limon/0",
   "title": "2026 budget and property tax levy",
@@ -35105,6 +36533,356 @@
    }
   ],
   "government": "Littleton"
+ },
+ "logan-county/0": {
+  "id": "logan-county/0",
+  "title": "Rural Health Transformation grant and ambulance funding for Logan County Ambulance",
+  "summary": "Sterling Fire and county EMS leaders discussed applying for the Rural Health Transfer/Transformation grant (deadline Aug. 3) to fund whole blood, a community paramedic program and interfacility transports. They also looked at replacing ambulances (a $337,000 quote) using a CDPHE grant with a 10% match waiver. By Sept. 29 they reported the group was approved for something under the grant.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Fire & emergencies",
+   "Health & human services",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09292026-186"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09082026-179"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_07282026-168"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/1": {
+  "id": "logan-county/1",
+  "title": "CR 26 bridge closure and county bridge grants",
+  "summary": "The Board weighed applying for a bridge planning and engineering grant for the CR 26 bridge, but decided not to pursue it and not to close the bridge for a multi-year project. They planned a public meeting, and a public hearing on a bridge closure near CR 26 and CR 29 was set on the Oct. 20 agenda.",
+  "where": "County Road 26 near County Road 29",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Logan County Commissioners",
+    "kind": "agenda",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-192"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09222026-184"
+   },
+   {
+    "date": "2026-09-01",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09012026-178"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/2": {
+  "id": "logan-county/2",
+  "title": "Sterling sales tax increase for road repair",
+  "summary": "A City of Sterling representative briefed commissioners on a ballot question raising the city sales tax from 3% to 4% for five years, dedicated to road maintenance. A similar measure failed last year. The county attorney will draft a resolution, since the Board can encourage but not spend public money on the vote.",
+  "where": "City of Sterling",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes",
+   "Roads & traffic",
+   "Elections"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-29",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09292026-186"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/3": {
+  "id": "logan-county/3",
+  "title": "Summit Carbon Solutions pipeline and carbon sequestration resolution",
+  "summary": "Summit Carbon Solutions told the Board it is in early stages, with surveys starting and construction not expected until mid- to late-period, and hopes to use voluntary landowner agreements. The county has just adopted new pipeline fees and setbacks, and a revised carbon sequestration resolution 2026-32 came up Oct. 6.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Energy",
+   "Land & property",
+   "Environment & climate"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-06",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_10062026-189"
+   },
+   {
+    "date": "2026-08-04",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08042026-170"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/4": {
+  "id": "logan-county/4",
+  "title": "Fire suppression water tank at CR 70 and CR 11",
+  "summary": "Centennial Soil Conservation District won a $30,000 state resiliency grant to bury a 10,000-gallon fire water tank in the northwest corner of the county, where tender hauls are long. The Board agreed to maintain the road, including snow removal, and help as possible.",
+  "where": "County Road 70 and County Road 11",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Fire & emergencies",
+   "Water",
+   "Roads & traffic"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-11",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08112026-171"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/5": {
+  "id": "logan-county/5",
+  "title": "DOLA grants and county/Sterling comprehensive plan update",
+  "summary": "DOLA's regional manager said state grant money is tight but CDBG and REDI funds remain, and a possible $50,000 housing planning award for a joint Sterling and county comprehensive plan would require a county match. The county plan dates to 2013 or earlier and predates data centers and battery storage.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [
+   "data-center"
+  ],
+  "topics": [
+   "Zoning & development",
+   "Government operations",
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-18",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08182026-175"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/6": {
+  "id": "logan-county/6",
+  "title": "Battery storage facility and wind project road use",
+  "summary": "Commissioners toured a battery energy storage facility and noted its setbacks and fire suppression, and it has operated three years without incident. Niyol Wind sought a road use agreement to replace blades on two turbines, including temporarily removing signs at CR 67 and CR 24.",
+  "where": "Countywide; County Roads 67 and 24",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Energy",
+   "Roads & traffic"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09152026-183"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08252026-176"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/7": {
+  "id": "logan-county/7",
+  "title": "Fairgrounds master plan, electrical upgrades and Fair Board decisions",
+  "summary": "The fairgrounds manager sought direction on capital spending for the master plan for the 2027 budget. Pending items include a Public Service Co. easement for new transformers, a bid for relocating electrical service, and Fair Board debates on ticket prices, contracts and sponsorship.",
+  "where": "Logan County Fairgrounds, Sterling",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Tourism & events",
+   "Budget & taxes",
+   "Utilities"
+  ],
+  "site_zip": null,
+  "meetings": 5,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Logan County Commissioners",
+    "kind": "agenda",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-192"
+   },
+   {
+    "date": "2026-10-08",
+    "body": "Logan County Fair Board",
+    "kind": "agenda",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10082026-187"
+   },
+   {
+    "date": "2026-09-15",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09152026-183"
+   },
+   {
+    "date": "2026-09-10",
+    "body": "Logan County Fair Board",
+    "kind": "agenda",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_09102026-180"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_08252026-176"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/8": {
+  "id": "logan-county/8",
+  "title": "Permit Gateway for oversize/overweight transport permits",
+  "summary": "Road and Bridge staff proposed Permit Gateway, a free-to-county online system with carrier-paid fees, to automate oversize and overweight permits and route trucks around restricted bridges. The Board indicated support for moving forward.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-01",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09012026-178"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/9": {
+  "id": "logan-county/9",
+  "title": "Fiber internet expansion: Viaero and Vistabeam",
+  "summary": "Viaero is installing fiber along Highway 14 to its Sterling store and discussed serving city buildings. The Oct. 20 agenda includes a right-of-way permit for Vistabeam fiber under CR 31.5.",
+  "where": "Highway 14, Sterling; County Road 31.5",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Broadband",
+   "Utilities"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-10-20",
+    "body": "Logan County Commissioners",
+    "kind": "agenda",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Agenda/_10202026-192"
+   },
+   {
+    "date": "2026-09-22",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09222026-184"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/10": {
+  "id": "logan-county/10",
+  "title": "Railroad crossing closure near Peetz at Highway 138",
+  "summary": "The Board planned to meet the railroad about closing a crossing at Highway 138 near Peetz; the railroad is also considering closing two crossings in Nebraska.",
+  "where": "Highway 138 near Peetz",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Transit"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-10-13",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_10132026-190"
+   }
+  ],
+  "government": "Logan County"
+ },
+ "logan-county/11": {
+  "id": "logan-county/11",
+  "title": "County employee health insurance rates",
+  "summary": "The County Health Pool rates fell after the county dropped a band, and dental moved to Ameritas with rates unchanged. Employees asked for separate tiers and a bigger family discount, and a stipend for older employees was discussed.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes",
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-15",
+    "body": "Logan County Commissioners",
+    "kind": "minutes",
+    "url": "https://www.logancountyco.gov/AgendaCenter/ViewFile/Minutes/_09152026-183"
+   }
+  ],
+  "government": "Logan County"
  },
  "lone-tree/0": {
   "id": "lone-tree/0",
@@ -39279,6 +41057,276 @@
    }
   ],
   "government": "Minturn"
+ },
+ "moffat-county/0": {
+  "id": "moffat-county/0",
+  "title": "Data center regulations and possible moratorium",
+  "summary": "The Planning & Zoning Commission began a formal review of the county zoning resolution and data center rules at its August 5 meeting, covering water and cooling, electric demand and ratepayer impacts, wildfire and emergency risk, and taxation. A moratorium was proposed but not acted on August 25; on September 8 speakers split on whether a short moratorium is needed, and an October 6 expert panel was announced.",
+  "where": "Countywide",
+  "public_comment": true,
+  "tags": [
+   "data-center"
+  ],
+  "topics": [
+   "Data centers",
+   "Zoning & development",
+   "Energy"
+  ],
+  "site_zip": null,
+  "meetings": 4,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/092226.pdf"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/090826.pdf"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/082526.pdf"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/072826.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/1": {
+  "id": "moffat-county/1",
+  "title": "Trapper Reborn project and moratorium concerns",
+  "summary": "Pure-Green Colorado's CEO and other speakers urged commissioners not to pass a data center moratorium that could affect the Trapper Reborn project, citing jobs and tax base. Yampa Valley Electric asked to be part of the energy discussion.",
+  "where": "Trapper Reborn site, Moffat County",
+  "public_comment": true,
+  "tags": [
+   "data-center"
+  ],
+  "topics": [
+   "Economic development",
+   "Data centers",
+   "Energy"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/090826.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/2": {
+  "id": "moffat-county/2",
+  "title": "Term limits referendum on November ballot",
+  "summary": "Commissioners approved Resolution 2026-100 referring a term limits question to voters and an intergovernmental agreement with the Clerk's Office to place it on the November ballot. Both passed 3-0.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Elections",
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/082526.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/3": {
+  "id": "moffat-county/3",
+  "title": "Loudy-Simpson Park Master Plan",
+  "summary": "Development Services proposed hiring Logan Simpson to produce a master plan for Loudy-Simpson Park. The contract was on the September 22 consent agenda.",
+  "where": "Loudy-Simpson Park",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Parks & open space",
+   "Recreation & trails"
+  ],
+  "site_zip": null,
+  "meetings": 2,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/092226.pdf"
+   },
+   {
+    "date": "2026-09-08",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/090826.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/4": {
+  "id": "moffat-county/4",
+  "title": "Craig skatepark grant applications",
+  "summary": "Commissioners approved grant applications of $25,000 each to the Laura Jane Musser Fund and El Pomar Foundation toward building a skatepark. The Craig Skatepark Alliance also plans a GOCO application in January.",
+  "where": "Craig",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Recreation & trails",
+   "Parks & open space"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/092226.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/5": {
+  "id": "moffat-county/5",
+  "title": "July budget supplemental (Resolution 2026-83)",
+  "summary": "After a public hearing with no public comment, commissioners approved the July supplemental budget, which lets departments amend budgets for changed revenues, grants or unexpected needs.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Budget & taxes"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/072826.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/6": {
+  "id": "moffat-county/6",
+  "title": "Road department concerns: snow bank pay policy and chip seal",
+  "summary": "A county Road & Bridge employee asked commissioners to examine inconsistencies in the snow bank payment policy and followed up on September 8. A resident also questioned excess gravel on the CR 7 chip seal project.",
+  "where": "County Road 7 and county roads",
+  "public_comment": true,
+  "tags": [],
+  "topics": [
+   "Roads & traffic",
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 3,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/090826.pdf"
+   },
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/082526.pdf"
+   },
+   {
+    "date": "2026-07-28",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/072826.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/7": {
+  "id": "moffat-county/7",
+  "title": "Employee Health Insurance Advisory Board reinstated",
+  "summary": "Commissioners were asked to reinstate the Employee Health Insurance Advisory Board and appointed five employee-elected members to recommend plan improvements.",
+  "where": "Countywide",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Government operations"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-08",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/090826.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/8": {
+  "id": "moffat-county/8",
+  "title": "Wolf Creek Reservoir jurisdictional determination",
+  "summary": "A request for a new approved jurisdictional determination for the Wolf Creek Reservoir Project was on the September 22 consent agenda.",
+  "where": "Wolf Creek Reservoir",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Water",
+   "Land & property"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-09-22",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/092226.pdf"
+   }
+  ],
+  "government": "Moffat County"
+ },
+ "moffat-county/9": {
+  "id": "moffat-county/9",
+  "title": "Welba Peak mineral lease",
+  "summary": "Commissioners approved Resolution 2026-96 for the Welba Peak mineral lease.",
+  "where": "Welba Peak",
+  "public_comment": false,
+  "tags": [],
+  "topics": [
+   "Oil, gas & mining",
+   "Land & property"
+  ],
+  "site_zip": null,
+  "meetings": 1,
+  "sources": [
+   {
+    "date": "2026-08-25",
+    "body": "Board of County Commissioners",
+    "kind": "agenda",
+    "url": "https://moffatcounty.colorado.gov/sites/g/files/lrnvjt1901/files/082526.pdf"
+   }
+  ],
+  "government": "Moffat County"
  },
  "montrose-county/0": {
   "id": "montrose-county/0",

@@ -1,0 +1,357 @@
+# estes-park
+
+## [estes-park#0] 2026-07-28 | Town Board | minutes
+- Town ofEstes Park, Larimer County, Colorado, July 28, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
+- Estes Park on the 28th day of July, 2026
+- Mayor Hall recognized Estes Park School students who won a drawing and writing
+- contest held by the Estes Park School Environmental Resilience Team in partnership with
+- the Estes Valley Watershed Coalition to celebrate the beauty of Estes Park's natural
+- Mayor Hall proclaimed August 8, 2026, as Estes Park Recycles Day
+- Agenda Approval
+- It was moved and seconded (Eshelman/Hazelton) to approve the Agenda, and it
+- Public Comments
+- Fire Protection District (EVFPD) funding issues and Town Administrator Machalekfor his
+- clarification that the Board had not discussed removing or decreasing existing EVFPD
+- funding. He then urged the Town to demonstrate budget engineering to the public while
+- encourage constituents to vote to increase funding for the project
+- Matt Tschohl/Town Resident requested a meeting with the Town regarding a property he
+- purchased at 450 Hillside Lane, a single-family home that he stated had been occupied
+- as a duplex since 1980, and advocated the property be granted duplex conversion
+- John Guffey/Town Resident expressed disapproval of visible trash receptacles, reported
+- the EVFPD swearing-in ceremony of Fire Chief, Kevin Nunn; attended the EVFPD
+- swearing-in ceremony; provided accolades to Interim Fire Chief Jones for his hard work
+- and commitment to the district, and expressed enthusiasm regarding his appointment;
+- reported fourteen (14) applications were received for three (3) openings on the Estes Park
+- Housing Authority (EPHA) Board of Commissioners, the EPHA was struggling with
+- employee recruitment and may consider hiring relatives of current employees at their next
+- commended the Estes Park Police Department's Police Auxiliary for their dedication and
+- support, including National Night Out; attended Visit Estes Park's (VEP) Board of
+- Directors meeting heard a presentation from Larimer County Commissioner Shadduck
+- McNalley on Larimer County budget-shortfalls and the Board discussed trends in lodging
+- occupancy rates, sales and lodging tax revenue, and encouraged the public to apply for
+- Statistical Analysis Project was forwarded to the Board
+- Town Administrator Machalek recognized the Streets and Parks crews for their work to
+- and Communications for their work in conjunction with the Platte River Power Authority
+- presentation to the Town Board at the meeting directly following the certification of the
+- second Town Board Meeting following the certification of the election, on May 12,
+
+## [estes-park#1] 2026-07-28 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado July 28, 2026
+- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+- of Estes Park on the 28th day of July, 2026
+- Development Code Update 50% Draft Review
+- Headwaters Planning presented an overview of the 50% draft of the Development Code
+- update. The updated Development Code would incorporate modem best practices and
+- development standards, increase efficiency in the development review process, and
+- align development with the Estes Forward Comprehensive Plan. Public outreach
+- public dialogues, and two public deliberations. Feedback received to date included
+- providing clear and consistent criteria for when a development plan is required, to
+- differentiate requirements for low-impact or small-scale projects and larger projects, and
+- to streamline review procedures. Modifications to zoning standards of 10% to 24%
+- would be considered by the Planning Commission and modifications 25% or greater
+- would be considered by the Town Board. Potential updates were considered for the
+- Final Plat, Minor Subdivisions, PUD Final Plan, Special Review Uses, and Location and
+- Extent Review procedures. Three new zoning districts were introduced: a Mixed-Use
+- (MU) district for medium to high-density development to blend residential, commercial,
+- government buildings, parks, and schools; and an Open Space and Natural Areas (OS)
+- district for open space and recreation land. Additional housing typologies were
+- permitted in Residential Multi-Family (RM) and Mixed-Use (MU) zone districts. The
+- a Wildlife Conservation Plan for most new developments. The Tree Protection and
+- Landscaping section aligned with the Colorado Wildfire Resiliency Code, as adopted by
+- the Town and Estes Valley Fire Protection District (EVFPD) in 2026. Design Guidelines
+- would apply to new developments and allow for flexibility while regulating parking for
+- commercial and multi-family developments, building height, and outdoor lighting. The
+- sign code from the Municipal Code would be integrated into the Development Code,
+- with standards added for additional types of signs. The updated Development Code was
+- Krohngold stated it would be considered based on the Board's direction and Supino
+- noted a strong split in the community between affordable housing advocates desiring
+- maintain the current neighborhood densities; suggested expanding permitted
+- special use permits, Krohngold explained conditional use permits allow for slight
+- deviations from the zoning use that do not impact surrounding properties and would be
+
+## [estes-park#2] 2026-08-11 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado August 11, 2026
+- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+- of Estes Park on the 11th day of August, 2026
+- Visit Estes Park Dark Sky Ordinance
+- Visit Estes Park Senior Destination Stewardship Manager Dana Paiement and CEO
+- Community Certification through the International DarkSky program. DarkSky
+- Paiement described how the Dark Sky certification aligned with visitor interest, with 65%
+- of national park visitors since the 1980s valuing dark skies as part of their trip and dark
+- numerous Dark Sky certified communities and parks in Colorado and thirty (30)
+- additional locations were pursuing certification. The Colorado Tourism Office organized
+- a mentor program to support locations seeking Dark Sky certification, which Paiement
+- in other communities including the Town of Breckenridge which permitted residents to
+- homeowners to replace outdoor light fixtures. Dark Sky certification standards included
+- paths and streets rather than casting a broad glow. CEO Leonard noted the Dark Sky
+- Community Certification allowed communities flexibility in establishing programs to meet
+- Requested examples of ordinances setting standards for lighting from Dark Sky certified
+- benefits for people and wildlife, and the potential tourism opportunities; discussed the
+- timeline to achieve certification, it was stated most communities achieved certification
+- certification and Visit Estes Park had been working with DarkSky in an official capacity
+- for two (2) years; discussed existing lighting ordinances in the Town and Larimer
+- Mountain National Park (RMNP) had not begun the certification process to become a
+- Dark Sky certified park; expressed support of RMNP pursuing Dark Sky Park
+- certification; expressed concern with the requirement in the draft Lighting Ordinance for
+- Town; expressed concern with the requirement in the draft Lighting Ordinance for all
+- residential properties to comply with Dark Sky approved lighting fixtures within ten (10)
+- existing lighting regulations in the Development Code; discussed the impact of light from
+- communities would not impact Dark Sky certification for the Town; expressed
+- clear of skies as more remote communities and parks; asked about the size of the
+- population of current and pending Dark Sky certified communities in Colorado, it was
+- stated the Town was larger than the majority of certified and pending municipalities
+- however there were some counties seeking certification; discussed the requirements of
+- the Dark Sky Community Certification, it was noted the certification committee would
+
+## [estes-park#3] 2026-08-11 | Town Board | minutes
+- Town ofEstes Park, Larimer County, Colorado, August 11, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
+- Estes Park on the 11th day of August, 2026
+- Agenda Approval
+- It was moved and seconded (Eshelman/lgel) to approve the Agenda, and it passed
+- Public Comments
+- the time limitation during Town Board meeting public comment. He stated voting was not
+- Board comments were heard and have been summarized: Discussion at the Economic
+- Development and Workforce Council (EDWC) meeting comprised of future year plans,
+- business retention, attraction, workforce development, education, sustainability,
+- Estes Park would hold their regular August meeting; Sister Cities would meet September
+- exchange which has grown to include a film festival in 2027; the Police Department held
+- commemoration. Estes Park Police Department Honor Guard presented the colors and
+- included Sergeants Monty Alien and Kirk Jellesma, Master Police Officer Jerry Twigg,
+- 1. Expenditure Approval Lists - Bills
+- 3. Resolution 55-26 Contract with Kinley Built for the Design and Construction of a New
+- Storage Building at the Events Center Complex, $424,350 - Budgeted
+- 4. Resolution 92-26 State of Colorado Department of Local Affairs Energy Mineral
+- Impact Assistance Fund Grant in the amount of $100,000 Toward the Design of a
+- 5. Resolution 93-26 Decline to Exercise the Right of First Refusal to Purchase Windy
+- Gap Water Units from the Platte River Power Authority
+- It was moved and seconded (Eshelman/Mieras) to approved the Consent Agenda
+- Consent Item #5 - Resolution 93-26 Decline to Exercise the Right of First Refusal
+- to Purchase Windy Gap Water Units from the Platte River Power Authority. At the
+- request of Trustee Eshelman staff provided history on Windy Gap Water Units and why
+- does not need the water units and would be required to purchase two units totaling nearly
+- $10 million. It was moved and seconded (Brown/Mieras) to approve Consent Agenda
+- 1. Resolutions 87-26, 88-26, and 89-26 Regarding Fall River Village II PUD and
+- Subdivision Plats. Mayor Hall re-opened the public hearing for Resolution 87-26 as
+- required by Colorado State Statute and hear public comment on the item. At the July
+- 28, 2026 meeting Resolutions 87-26, 88-26 and 89-26 were continued to the next
+- to attend the meeting, and therefore, staff requested the items be continued to the
+- to continue the items, the Estes Park Development Code and State Statutes require
+- action within 30 days of the application or the item would be deemed approved. Staff
+- stated the code allows PUD applications to be brought forward as a single application
+
+## [estes-park#4] 2026-08-25 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado August 25, 2026
+- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+- of Estes Park on the 25th day of August, 2026
+- Parks and Open Space Master Plan
+- to present the final draft of the Parks and Open Space Master Plan. The plan included
+- eleven (11) parks, two (2) natural areas, and two (2) town-owned parcels. Stanley Park
+- and the Estes Golf Course were not included in the plan. Findings included most parks
+- and civic spaces were concentrated downtown and along river corridors and 76% of
+- households were within a fifteen (15) minute walk of a park or open space
+- Approximately 890 people provided feedback on the plan through sun/eys and
+- discussions. These included two (2) discussions with middle school students, two (2)
+- discussions with high school students, and a survey sent through the Estes Park School
+- District to parents after the Board requested more feedback from young people and
+- friends. Hejtmanek reviewed the goals of the plan under the five (5) themes of The
+- Downtown Experience, Co-existence of Visitors and Wildlife, Parks Engaging Everyone,
+- Natural Areas and Open Spaces, and Maintenance and Operations. The plan identified
+- and prioritized strategies to achieve goals under the themes. Board comments and
+- downtown public realm as an interconnected and visually cohesive linear park
+- experience rather than a series of separate spaces; expressed support for utilizing
+- existing park spaces to their greatest extent and re-envisioning how they may best be
+- used; commented on the lack of dog parks; discussed impact of park expansions on
+- Colorado Parks and Wildlife to reduce conflicts between visitors and wildlife; requested
+- inclusion of an urban forestry plan or program in the Parks and Open Space Master
+- Plan; complimented the readability of the current draft; questioned the prioritization of
+- strategies and how staff plan to implement the strategies, Supen/isor Berg stated
+- implementation would be based on available funding; requested ongoing
+- communication to the public as elements of the plan were implemented; expressed
+- consistent parks experience for visitors and residents; discussed the importance of
+- the draft plan was available on the website for public comment
+- 9 of the Estes Park Municipal Code. Police Micromobility devices (MDs) were defined
+- are not considered MDs. Four (4) recommended changes to the Municipal Code were
+- require licenses to operate, Greear stated some MDs require a license to operate but
+- not all; discussed the need to clarify the existing regulations in the Municipal Code in
+
+## [estes-park#5] 2026-08-25 | Town Board | minutes
+- Town of Estes Park, Larimer County, Colorado, August 25, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town
+- of Estes Park on the 25th day of August, 2026
+- Agenda Approval
+- It was moved and seconded (Eshelman/Brown) to approve the Agenda with the
+- addition of Report and Discussion Item #3 Downtown Plan and Funding Mechanisms,
+- Public Comments
+- corresponded with previous growth projections, reported he had spoken with several
+- members of the workforce who enjoyed commuting from the Front Range, and requested
+- a list be generated of people in immediate need of housing. He provided the Board a
+- market for 115 days. Kaszynski proposed housing feedback forms be placed in Bond
+- Park to gain more insight into the issue
+- attend Trustee Talks; noted Trustee Talks give constituents the opportunity to discuss
+- matters without the regular time constraints of public comment; reported the Estes Park
+- Housing Authority (EPHA) had been working on the Annual 6E Funding Plan draft and
+- would continue collecting data on seasonal housing; noted the EPHA housed 32 seasonal
+- Association of Ski Towns (CAST) meeting to discuss the use of AI in municipal operations
+- and the decarbonization and electrification of public facilities; reported applications were
+- being accepted for a Town appointed board member on the Visit Estes Park (VEP) Board
+- budget in preparation for a Joint Study Session with the Board of County Commissioners;
+- request; acknowledged VEP approved renewal of a five (5) year partnership with Frozen
+- University to develop a zero waste festival; reported the Estes Arts District identified
+- investigation; noted the Arts District would be modifying their budget to account for the
+- loss; attended the annual naturalization ceremony at Rocky Mountain National Park in
+- commended Parking and Transit Manager Klein for his tireless work to improve parking
+- and transit operations to bring Estes Park a step closer towards “mass transit”
+- Town Administrator Machalek recognized the Water Division for successful completion of
+- the State Sanitary Survey, a comprehensive inpection of water treatment facilities, and
+- Permit for Lot 4, Stanley Historic District, and reported staff was working with the State to
+- 1. Expenditure Approval List - Bills
+- 3. Estes Park Planning Commission Meeting Minutes dated July 21, 2026
+- 4. Resolution 95-26 Intergovernmental Agreement with the Estes Park School District
+- It was moved and seconded (Hazelton/Igel) to approve the Consent Agenda, and it
+- Report and Discussion Items (Outside Entities):
+
+## [estes-park#6] 2026-09-08 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado September 8, 2026
+- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+- of Estes Park on the 8th day of September, 2026
+- Director Bergsten and Water Superintendent Fredricks presented information about
+- The administrative penalty process would include identifying the violation and providing
+- system; requested additional information on the existing fine under Chapter 1.20
+- Water Division service area extends beyond town boundaries; supportive of
+- outlined in the 2026 Town of Estes Park Strategic Plan; expressed support for ensuring
+- administrative fine policy would be established by ordinance, Attorney Kramer
+- confirmed it would be established through an ordinance delegating authority to the
+- Water Division to set administrative fines; and stated support for the proposed policy as
+- a method of conserving water by enforcing the repair of surface lines
+- Housing Definitions and Density Bonuses in the Development Code
+- Director Careccia presented an overview of the proposed housing definitions, base
+- densities, density and height bonuses for qualifying projects, review processes, parking,
+- and new residential use in the 50% draft Development Code. The housing definitions
+- were from Policy 227 Workforce and Attainable Housing Guidelines. Board comments
+- and questions have been summarized: requested clarification on if density increases
+- and reductions of lot size minimums would be permitted for non-workforce housing
+- developments, Director Careccia confirmed the reduction of lot size minimums and
+- some of the density increases were not limited to workforce housing developments;
+- asked if residents had provided feedback, Director Careccia stated lot sizes and density
+- were a focus of one (1) feedback session hosted by Community Conversations about
+- the 50% draft Development Code and the report of those discussions was not yet
+- within the specified zone districts; expressed concern about permitting a less than two
+- (2) cars per unit parking minimum for new developments, Estes Park Housing Authority
+- (EPHA) Director Moulton stated a parking minimum of 1.2 to 1.4 cars per unit would be
+- sufficient for all existing EPHA properties; supportive of parking minimums of less than
+- retirement qualifications for deed restricted housing, Director Moulton stated those
+- seeking to retire-in-place in deed restricted housing must demonstrate they have
+- attainable housing rentals as costing no more than 30% of a renter's income and
+- defining attainable housing homeownership as costing no more than 40% of a
+
+## [estes-park#7] 2026-09-08 | Town Board | minutes
+- Town ofEstes Park, Larimer County, Colorado, September 8, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
+- Estes Park on the 8th day of September, 2026
+- Agenda Approval
+- It was moved and seconded (Eshelman/Igel) to approve the Agenda, and it passed
+- Public Comments
+- (2) additional stories to the Visitor Center Parking Garage during his tenure as Town
+- David Thomas/Town resident and president of the Estes Park Sister Cities Association
+- encouraged the public, the Town Board, and Town staff to attend Estes Park Sister Cities
+- dances local to Estes Park's sister city, Monteverde, Costa Rica, would be provided
+- Board comments were heard and have been summarized: Commended Visit Estes Park
+- informative panelists and speakers, and that the inaugural annual tourism awards had
+- Award, Poppy's Pizza and Grill and Mama Rose's Restaurant, winners of the Tourism
+- Dream Team Award, and the Estes Park Police Auxiliary, winner of the Visitor Champion
+- Volunteer Award; reported ten (10) applications had been received for the VEP Board of
+- vacant seats on the Estes Park Housing Authority (EPHA) Board of Commissioners would
+- Carbondale, CO; reported notes from the CAST meeting would be forthcoming;
+- encouraged constituents to attend the Estes Park Sister Cities Association's annual
+- meeting; attended Estes Park High School Teacher Angela Barberi's Leadership and
+- Organizational Development Class to assist with repairs and cleanup of the High School's
+- Board would be engaging in a Strategic Plan; encouraged the public to attend the Longs
+- 1. Expenditure Approval List - Bills
+- 3. Resolution 94-26 Water Lease Agreement with Trout Haven
+- 4. Resolution 96-26 Setting Water Rates Public Hearing Dates
+- It was moved and seconded (Eshelman/Mieras) to approve the Consent Agenda, and
+- Report and Discussion:
+- 1. Proposed Amendments to Estes Park Development Code Section 3.3 - Code
+- Amendments Per the request of the Town Board at the Joint Study Session with
+- the Estes Park Planning Commission (EPPC) on August 7, 2025, Director Careccia
+- reviewed proposed amendments to Estes Park Development Code (EPDC) Section
+- 3.3 regarding review criteria for rezonings. The draft proposed two (2) new review
+- Criteria 1 was drafted to ensure consistency with the Future Land Use (FLU) Plan
+- of the Estes Forward Comprehensive Plan and replace the "change in conditions"
+- criteria per the Town Board's request. It would further allow rezonings to correct a
+- technical error in the text of the Official Zoning Map of the Development Code
+- Proposed Review Criteria 2 had been drafted to ensure developmental consistency
+
+## [estes-park#8] 2026-09-22 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado September 22, 2026
+- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+- of Estes Park on the 22nd day of September, 2026
+- Annexation of Enclaves Follow Up
+- information on potential costs/benefits in the annexation of two (2) enclaves: Fawn
+- Municipal Annexation Act of 1965 allows a municipality to annex an enclave with or
+- Town annexation policy indicates enclaves should be evaluated on a case-by-case
+- separated from the adjoining properties on either side of the river that was never
+- annexed and has no apparent ownership. He stated a possible explanation could be
+- annexation of the Fawn Valley properties, the gap would first need to be annexed. Staff
+- stated the Highway 7 area was eligible for annexation as an enclave. Per the Board's
+- Highway 7 enclave. Staff received four (4) responses in opposition to annexation and
+- one (1) in favor. Financial impacts of annexation were reviewed including: a one-time
+- cost to hire a consultant to create an annexation map and legal description estimated at
+- $50,000; an annual increase of $12,750 in Town sales tax and $1,900 in property tax;
+- cost of $2,400 annually for 25 years for road maintenance to bring Chalet Ridge Court
+- roadway up to Town standards, and reviewed residential water rates which varied by
+- usage. Advantages and disadvantages remained consistent as identified by staff in
+- March 2026. Staff requested Board direction regarding the annexation of the enclaves
+- provide and update after further research; concerns were heard related to the tax
+- identifying the owner(s) of the gap in the parcels; highway maintenance responsibility;
+- were any anticipated development projects in the area which may require annexation;
+- while not annexed into the Town, therefore they are not paying the taxes. Staff would
+- contact Larimer County Assessor to identify the owner(s) within the gap identified in the
+- Through adoption of Ordinance 15-25, the Board approved temporarily allowing feather
+- ordinance were reviewed including: the feather flag would not require a sign permit or
+- fee; were temporary in nature; were not permitted in any residential zoning district or
+- downtown; limited to only one (1) flag per lot not to exceed 12 feet in height; the flags
+- would be considered a freestanding sign included in max signage calculations, and
+- required a setback of at least 12 feet from any street, alley or sidewalk. Director
+- or incorporate feather flags within a permanent code revision. Board discussion ensued
+- visually appealing versus one; mixed Board support for no fee versus fee and permit
+
+## [estes-park#9] 2026-09-22 | Town Board | minutes
+- Town ofEstes Park, Larimer County, Colorado, September 22, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
+- Estes Park on the 22nd day of September, 2026
+- Agenda Approval
+- Town Administrator Machalek requested Action Item 2: Ordinance 13-26 Third
+- Amendment to 2016 Verizon Wireless Land Lease Agreement be removed from the
+- agenda as the associated contract was not ready for consideration. It was moved and
+- seconded (Eshelman/Brown) to approve the Agenda with the removal of Action Item
+- 2: Ordinance 13-26, and it passed unanimously
+- Public Comments
+- Board comments were heard and have been summarized: thanked the Water Division for
+- hosting the Water Shop Open House; Visit Estes Park (VEP) would present the
+- organization's draft operating plan to the Town Board and Larimer County Board of
+- for the Board to consider in October; the Estes Chamber of Commerce Next Generation
+- Towns (CAST); Trustees Igel and Lancaster interviewed applicants for the Estes Park
+- Housing Authority (EPHA) Board of Commissioners and prepared recommendations for
+- the Board's consideration; EPHA reviewed a draft of the 2027 budget and would be
+- their strategic plan in Spring 2027; welcomed Lee Currie to the EVRJP Board of Directors;
+- project to install traffic cameras on Highway 36; invited the public to join the Estes Park
+- Town Administrator Machalek thanked the Water Division and Public Information Officer
+- Miller for organizing the Water Shop Open House
+- 1. Expenditure Approval Lists - Bills
+- 3. Estes Park Planning Commission Minutes dated August 18, 2026 (acknowledgment
+- 4. Resolution 97-26 Extension No. 2 of the Colorado-Big Thompson Subcontract
+- among the Town of Estes Park, the YMCA of the Rockies, and the Northern
+- Colorado Water Conservancy District
+- 6. Estes Park Housing Assessment Addendum and Housing Action Plan - Item
+- It was moved and seconded (Hazelton/Mieras) to approve the Consent Agenda with
+- the removal of Consent Item #4: Resolution 97-26, and it passed unanimously
+- Consent Item #4 - Resolution 97-26 Extension No. 2 of the Colorado-Big Thompson
+- Subcontract among the Town of Estes Park, the YMCA of the Rockies, and the
+- Northern Colorado Water Conservancy District. Trustee Eshelman requested
+- information on the current status of incorporating Town of Estes Park Water Division
+- customers into the Northern Colorado Water Conservancy District (NCWC) and
+- of being incorporated and the Town would petition the District Court to include properties
+- desire to complete the incorporation of NCWC customers and discussed the timeline

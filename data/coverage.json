@@ -129,6 +129,20 @@
   ],
   "run": "2026-10-26"
  },
+ "avon": {
+  "name": "Avon",
+  "adapter": "weblink",
+  "meetings": 5,
+  "documents": 5,
+  "ok": 5,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  folder 69873: 17 documents, 5 in window with text",
+   "  folder 67538: 20 documents, 0 in window with text"
+  ],
+  "run": "2026-10-26"
+ },
  "basalt": {
   "name": "Basalt",
   "adapter": "agendacenter",
@@ -575,6 +589,19 @@
   ],
   "run": "2026-10-26"
  },
+ "delta-county": {
+  "name": "Delta County",
+  "adapter": "civicclerk",
+  "meetings": 13,
+  "documents": 23,
+  "ok": 21,
+  "failed": 2,
+  "error": "",
+  "log": [
+   "  33 events in window"
+  ],
+  "run": "2026-10-26"
+ },
  "denver": {
   "name": "Denver",
   "adapter": "legistar",
@@ -624,6 +651,20 @@
   "error": "",
   "log": [
    "  https://townofdovecreek.colorado.gov/meeting-agendas: 9 dated links in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "durango": {
+  "name": "Durango",
+  "adapter": "onbase",
+  "meetings": 11,
+  "documents": 11,
+  "ok": 11,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  search: 0 links, 0 meeting pages",
+   "  11 documents in window from 2 page(s)"
   ],
   "run": "2026-10-26"
  },
@@ -728,6 +769,20 @@
   "error": "",
   "log": [
    "  39 events in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "estes-park": {
+  "name": "Estes Park",
+  "adapter": "weblink",
+  "meetings": 10,
+  "documents": 10,
+  "ok": 10,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  folder 25: 18 documents, 5 in window with text",
+   "  folder 24: 20 documents, 5 in window with text"
   ],
   "run": "2026-10-26"
  },
@@ -1434,6 +1489,20 @@
   ],
   "run": "2026-10-26"
  },
+ "lamar": {
+  "name": "Lamar",
+  "adapter": "linkscan",
+  "meetings": 5,
+  "documents": 7,
+  "ok": 7,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026: 8 dated links in window",
+   "  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025: 0 dated links in window"
+  ],
+  "run": "2026-10-26"
+ },
  "limon": {
   "name": "Limon",
   "adapter": "linkscan",
@@ -1470,6 +1539,19 @@
   "error": "",
   "log": [
    "  0 events in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "logan-county": {
+  "name": "Logan County",
+  "adapter": "agendacenter",
+  "meetings": 19,
+  "documents": 26,
+  "ok": 17,
+  "failed": 9,
+  "error": "",
+  "log": [
+   "  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 47 files in window"
   ],
   "run": "2026-10-26"
  },
@@ -1601,6 +1683,20 @@
   "error": "",
   "log": [
    "  16 events in window"
+  ],
+  "run": "2026-10-26"
+ },
+ "moffat-county": {
+  "name": "Moffat County",
+  "adapter": "linkscan",
+  "meetings": 5,
+  "documents": 5,
+  "ok": 4,
+  "failed": 1,
+  "error": "",
+  "log": [
+   "  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 0 dated links in window",
+   "  https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes: 5 dated links in window"
   ],
   "run": "2026-10-26"
  },
