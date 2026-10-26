@@ -45,6 +45,8 @@ def civicweb(src, start, end, log):
     seen = set()
 
     def emit(body_name, title, url, d):
+        if base.startswith("https:") and url.startswith("http:"):
+            url = "https:" + url[5:]  # some portals link files over plain http, which times out
         m = re.search(r"/document/(\d+)", url)
         key = m.group(1) if m else url
         if key in seen:

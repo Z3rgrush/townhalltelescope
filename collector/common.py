@@ -1,7 +1,9 @@
 """HTTP, date parsing and text extraction shared by the adapters."""
+import html
 import io
 import re
 import time
+import zipfile
 from dataclasses import dataclass, field
 from datetime import date, datetime
 
@@ -116,6 +118,13 @@ def extract_text(url):
         if len(text.strip()) < 200:
             return text, "scanned pdf (no text layer)"
         return text, "ok"
+    if data[:2] == b"PK" and b"word/document.xml" in data[:4000] or "wordprocessingml" in ctype:
+        try:
+            xml = zipfile.ZipFile(io.BytesIO(data)).read("word/document.xml").decode("utf-8", "ignore")
+        except Exception as e:
+            return "", f"docx error: {e}"
+        xml = re.sub(r"</w:p>", "\n", xml)
+        return html.unescape(re.sub(r"<[^>]+>", "", xml)), "ok"
     if "html" in ctype or data.lstrip()[:1] == b"<":
         s = BeautifulSoup(data, "html.parser")
         for t in s(["script", "style", "nav", "header", "footer"]):
