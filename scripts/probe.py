@@ -21,7 +21,9 @@ for url in urls:
         r = requests.get(url, headers=UA, timeout=30)
     except Exception as e:
         print("ERROR", e); continue
-    print("status", r.status_code, "type", r.headers.get("content-type"), "len", len(r.text))
+    print("status", r.status_code, "type", r.headers.get("content-type"), "len", len(r.text), "final", r.url)
+    print("server", {k: v for k, v in r.headers.items() if k.lower() in (
+        "server", "via", "x-cache", "cf-ray", "x-akamai-transformed", "x-iinfo", "x-cdn", "x-powered-by", "set-cookie")})
     if text:
         body = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", r.text)
         body = re.sub(r"(?s)<[^>]+>", "\n", body)
