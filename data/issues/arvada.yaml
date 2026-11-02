@@ -1,161 +1,164 @@
 - title: Data center moratorium
-  summary: Council discussed on Aug 11 a temporary moratorium on new data center applications, citing water, energy and land-use concerns and moratoriums adopted by neighboring jurisdictions. On Sept 15 an ordinance (CB26-029) authorizing a moratorium on primary-use data center applications was introduced, with a public hearing set for Oct 6.
-  where: Citywide
-  refs:
-  - 8
-  - 9
-  - 29
-  tags:
-  - data-center
-  topics:
-  - Data centers
-  - Zoning & development
-  - Water
-- title: City Water Treatment Plant annexation and rezoning at 6809 SH 93
-  summary: The city is annexing two parcels (17.885 and 9.016 acres, 25.257 total) at 6809 SH 93 for a new water treatment plant, rezoning from Jefferson County PD to city Open Space, with major modifications and a height exception. Planning Commission heard it Aug 5 with public comment emailed in; Council set hearings for Oct 6.
-  where: 6809 State Highway 93
-  refs:
-  - 3
-  - 4
-  - 12
-  - 15
-  - 29
-  - 38
-  - 39
-  public_comment: true
-  topics:
-  - Annexation
-  - Water
-  - Zoning & development
-- title: 2027 water, wastewater and stormwater rates
-  summary: Council held workshops on draft 2027 utility rate scenarios to close infrastructure funding gaps. Rate ordinances CB26-032 and CB26-033 were set for hearing Oct 20. A proposed drought water surcharge (CB26-018) was pulled and may return in spring 2027.
-  where: Citywide
-  refs:
-  - 0
-  - 1
-  - 12
-  - 17
-  - 18
-  - 38
-  - 44
-  topics:
-  - Fees & rates
-  - Water
-  - Utilities
-- title: 2027-2028 city budget and mill levy
-  summary: The City Manager proposed a 2027-2028 budget with 2027 appropriations of $412,447,446 and a pay plan; 32 new positions were requested. Budget, mill levy and pay plan resolutions were scheduled for hearing Oct 20.
-  where: Citywide
-  refs:
-  - 35
-  - 38
-  - 44
-  topics:
-  - Budget & taxes
-- title: Hibernia Gold Strike Apartments, 240 units
-  summary: A conditional use permit is requested for a five-story, 240-unit apartment building with a small coffee shop on 3.47 acres at 4800 W 60th Ave. About 20 residents attended the neighborhood meeting. Council first reading was Oct 20 with a hearing set for Nov 17.
-  where: 4800 W 60th Ave.
-  refs:
-  - 32
-  - 33
-  - 44
-  public_comment: true
-  topics:
-  - Housing
-  - Zoning & development
-- title: Paid parking in Olde Town
-  summary: Council study session on a decade of parking demand pressure in Olde Town and options for paid, metered parking under the Strategic Reinvestment Plan. Staff reviewed studies from 2010, 2016 and 2025 and stakeholder feedback.
-  where: Olde Town Arvada
-  refs:
-  - 30
-  - 31
-  topics:
-  - Downtown & business
-  - Roads & traffic
-  - Fees & rates
-- title: Proposition 123 housing commitments and zoning changes
-  summary: Planning Commission considered zoning text amendments tied to Prop 123, an ordinance revising the residential land use table was introduced, and Council took up a commitment to Prop 123 obligations for 2027-2029. The Housing Advisory Committee also worked on housing strategy.
-  where: Citywide
-  refs:
-  - 14
-  - 15
-  - 29
-  - 37
-  - 44
-  topics:
-  - Housing
-  - Zoning & development
-- title: Comprehensive Plan update
-  summary: Phase 1 of the Comprehensive Plan update with consultant Metta Urban Design is complete, with Phase 2 starting and adoption targeted for Q3 2027. Presentations covered housing attainability and growth patterns.
-  where: Citywide
-  refs:
-  - 17
-  - 18
-  topics:
-  - Zoning & development
-  - Housing
-- title: Residency rules for registered sex offenders
-  summary: Council held a workshop on a possible ordinance restricting where registered sex offenders may live. Legal asked for direction on who it would cover and distance limits, recommending no further than 1,000 feet.
-  where: Citywide
-  refs:
-  - 25
-  - 26
-  topics:
-  - Policing & public safety
-  - Housing
-- title: City Attorney leadership change and ethics matters
-  summary: Council discussed next steps on pending ethics investigations and held personnel sessions. It approved amendments to employment agreements for the City Attorney, Municipal Judge and City Manager, and an interim City Attorney contract with Nora Steenson.
-  where: Citywide
-  refs:
-  - 0
-  - 1
-  - 22
-  - 38
-  - 44
-  topics:
-  - Ethics & transparency
-  - Government operations
-- title: Gold Strike Park redevelopment contract
-  summary: Council considered a construction agreement with Arrow-J Landscape and Design for redeveloping Gold Strike Park, not to exceed $9,596,751.06.
-  where: Gold Strike Park
-  refs:
-  - 29
-  topics:
-  - Parks & open space
-  - Budget & taxes
-- title: Scenic Heights West Metropolitan District service plan
-  summary: Council held a public hearing on a resolution approving the proposed service plan for the Scenic Heights West Metropolitan District.
-  where: Scenic Heights West
-  refs:
-  - 22
-  - 23
-  topics:
-  - Zoning & development
-  - Utilities
-- title: Parks, Trails and Open Space Master Plan update
-  summary: Staff presented a plan to update the 2016 Parks Master Plan, including a gap analysis, timeline and public engagement approach, and asked Council to authorize the update.
+  summary: Council discussed a temporary moratorium on data center applications at an Aug 11 study session, citing water, energy and land-use questions and moratoriums in neighboring jurisdictions. On Sept 15 it saw first reading of CB26-029, a moratorium on primary-use data center applications, with a public hearing set for Oct 6, 2026.
   where: Citywide
   refs:
   - 6
   - 7
+  - 27
+  topics:
+  - Data centers
+  - Zoning & development
+  - Utilities
+  tags:
+  - data-center
+- title: City water treatment plant annexation at 6809 SH 93
+  summary: The city is annexing and rezoning a 25.257-acre site at 6809 SH 93 (two parcels, 17.885 and 9.016 acres) from Jefferson County PD to Arvada Open Space for a new water treatment plant. It also needs a comprehensive plan amendment and exceptions on fencing, roofline and windows. Planning Commission heard it Aug 5, Council accepted petitions Aug 18, and the Council hearing was set for Oct 6, 2026.
+  where: 6809 SH 93
+  refs:
+  - 1
+  - 2
+  - 10
+  - 11
+  - 13
+  - 27
+  - 36
+  - 37
+  topics:
+  - Annexation
+  - Water
+  - Zoning & development
+  public_comment: true
+- title: 2027-2028 budget, mill levy and pay plan
+  summary: The City Manager presented a proposed two-year budget, with a 2027 appropriation of $412,447,446 and 32 requested new positions. Council set first reading for Oct 6 and a Oct 20 hearing on the 2027 budget, capital budget, pay plan and 2026 mill levy certification.
+  where: Citywide
+  refs:
+  - 32
+  - 33
+  - 36
+  - 37
+  - 42
+  - 43
+  topics:
+  - Budget & taxes
+- title: 2027 water, wastewater and stormwater rates and drought surcharges
+  summary: Council reviewed 2027 water, wastewater and stormwater rates, with ordinances on rate changes set for hearing Oct 20. Staff pulled the drought surcharge ordinance CB26-018 and plans to bring surcharges back in spring 2027, after a March 24, 2026 drought declaration and water use restrictions.
+  where: Citywide
+  refs:
+  - 10
+  - 11
+  - 15
+  - 16
+  - 21
+  - 36
+  - 42
+  - 43
+  topics:
+  - Fees & rates
+  - Water
+  - Utilities
+- title: Hibernia Gold Strike Apartments, 4800 W 60th Ave
+  summary: A conditional use permit for 240 apartments in a five-story building on 3.47 acres, with a roughly 1,000 sq ft coffee shop near the RTD station. Planning Commission reviewed it Sept 16, and Council first reading was set for Oct 20 with a hearing Nov 17. About 20 residents attended the 2025 neighborhood meeting.
+  where: 4800 W 60th Ave.
+  refs:
+  - 30
+  - 31
+  - 42
+  - 43
+  topics:
+  - Housing
+  - Zoning & development
+  public_comment: true
+- title: Proposition 123 zoning changes and affordable housing
+  summary: Planning Commission considered Land Development Code text amendments related to Proposition 123, and Council's Sept 15 agenda included an ordinance repealing and reenacting the residential land use table. Council also took up a resolution committing to Prop 123 obligations for 2027-2029, plus private activity bond assignment for Maiker Housing Partners.
+  where: Citywide
+  refs:
+  - 10
+  - 12
+  - 13
+  - 27
+  - 35
+  - 42
+  - 43
+  topics:
+  - Housing
+  - Zoning & development
+- title: Paid parking in Olde Town
+  summary: Council held a study session on parking demand in Olde Town, where studies from 2010, 2016 and 2025 show demand outpacing supply. Staff reviewed paid parking options under the Olde Town Strategic Reinvestment Plan and stakeholder feedback.
+  where: Olde Town
+  refs:
+  - 28
+  - 29
+  topics:
+  - Roads & traffic
+  - Downtown & business
+- title: Wildfire early detection system
+  summary: Council approved an IGA with the Urban Renewal Authority for up to $300,000 for cameras and chemical sensors to detect wildfires in the Urban Renewal Area. Staff gave an Oct 27 update after data ownership concerns were raised in public comment.
+  where: Urban Renewal Area
+  refs:
+  - 20
+  - 21
+  - 44
+  - 45
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+  public_comment: true
+- title: Restricting residency of registered sex offenders
+  summary: Council asked Legal to draft an ordinance regulating where registered sex offenders may live. At a Sept 8 study session, attorneys summarized the law and asked Council for direction, recommending distances no further than 1,000 feet.
+  where: Citywide
+  refs:
+  - 23
+  - 24
+  topics:
+  - Policing & public safety
+  - Lawsuits & legal
+- title: Comprehensive Plan update
+  summary: The city finished Phase 1 of the Comprehensive Plan update with consultant Metta Urban Design and is starting Phase 2, with adoption targeted for Q3 2027. Presentations covered how growth eras and zoning affect housing attainability.
+  where: Citywide
+  refs:
+  - 16
+  topics:
+  - Zoning & development
+  - Housing
+- title: Parks, Trails and Open Space Master Plan update and Gold Strike Park
+  summary: Council reviewed the process to update the 2016 Parks Master Plan, including public engagement. Council also considered a contract up to $9,596,751.06 with Arrow-J Landscape and Design for redeveloping Gold Strike Park.
+  where: Citywide; Gold Strike Park
+  refs:
+  - 4
+  - 5
+  - 8
+  - 25
+  - 27
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Wildfire early detection system and Navigation Center funding
-  summary: Council considered an agreement with the Arvada Urban Renewal Authority for up to $300,000 to create a wildfire early detection system, and an intergovernmental agreement on operating funding for the Navigation Center.
+- title: Homelessness response and Navigation Center funding
+  summary: Council recognized faith leaders in the homeless response program, and took up an IGA on operational funding for the Navigation Center. A Homelessness Action Plan was on the Oct 27 agenda.
   where: Citywide
   refs:
-  - 22
-  - 38
+  - 10
+  - 36
+  - 44
+  - 45
   topics:
-  - Fire & emergencies
   - Homelessness
-  - Budget & taxes
-- title: Olde Town Social liquor show cause hearing
-  summary: The Liquor Licensing Authority considered a show cause order against Olde Town Social at 5610 Yukon Street over a June 25, 2026 incident. A proposed settlement included a liquor education class and a fine.
-  where: 5610 Yukon Street
+  - Health & human services
+- title: Scenic Heights West Metropolitan District service plan
+  summary: Council held a Sept 1 public hearing on a resolution approving the proposed service plan for the Scenic Heights West Metropolitan District.
+  where: Scenic Heights West
   refs:
-  - 16
-  - 40
-  - 41
+  - 20
+  - 21
   topics:
-  - Cannabis & liquor
+  - Land & property
+  - Budget & taxes
+- title: City Attorney turnover and leadership contracts
+  summary: Council amended employment agreements for the City Attorney, Presiding Judge and City Manager, then later approved an employment agreement for Nora Steenson as Interim City Attorney after personnel executive sessions.
+  refs:
+  - 20
+  - 21
+  - 36
+  - 42
+  - 43
+  topics:
+  - Government operations

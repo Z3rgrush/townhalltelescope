@@ -1,5 +1,5 @@
-- title: Shared Public Works and Police facility and 0.5% sales tax on November ballot
-  summary: The Town plans a roughly $25 million shared Public Works and Police facility on the town-owned lot at the end of East Valley Road by Highway 82, recently annexed. Voters will be asked in November for a 0.5% sales tax with a 20-year sunset; the Town has also applied for a USDA loan and is considering selling the current police condo and the Annex site to offset costs.
+- title: Public Works/Police facility and 0.5% sales tax ballot measure
+  summary: The Town plans a shared Public Works and Police facility on the town-owned lot at the end of East Valley Road by Highway 82, estimated at $25-26 million. Voters will see a 0.5% sales tax with a 20-year sunset on the November ballot (Ballot Issue 3A), and the Town has applied for a USDA loan. Staff say the police department is cramped, with one bathroom and no secure parking, and Council considered a resolution supporting the measure.
   where: East Valley Road at Highway 82
   refs:
   - 4
@@ -7,12 +7,13 @@
   - 11
   - 15
   - 26
+  - 31
   topics:
   - Budget & taxes
   - Policing & public safety
   - Government operations
-- title: 218 E. Valley Road (Movieland site) Residence Inn hotel
-  summary: Planning and Zoning has heard repeated hearings on a 93-key Residence Inn by Marriott with three deed-restricted affordable units at the former Movieland site, including PUD, site plan and annexation agreement amendments. Draft conditions restrict the use to the approved hotel, and the matter went to Town Council with a site visit on Sept. 22.
+- title: 218 E. Valley Road (former Movieland) Residence Inn hotel
+  summary: Planning and Zoning has held repeated hearings on a revised 93-key Residence Inn by Marriott with three deed-restricted affordable units on the former Movieland site, including PUD, site plan and annexation agreement amendments. Staff added conditions limiting the use to the approved hotel, and Council scheduled a site visit.
   where: 218 E. Valley Road
   refs:
   - 10
@@ -22,18 +23,17 @@
   - Zoning & development
   - Economic development
   - Housing
-  public_comment: true
 - title: Jadwin/Black Mountain development and annexation
-  summary: Council continued the second reading of an ordinance approving 64 dwelling units and 12 short-term rental cabins, with annexation and initial zoning of the property at 431 Emma Road.
+  summary: Council continued the second reading of the ordinance approving 64 dwelling units, 12 short-term rental cabins and annexation with initial zoning for the property at 431 Emma Road.
   where: 431 Emma Road
   refs:
   - 2
   topics:
   - Annexation
-  - Housing
   - Zoning & development
-- title: 'Town-owned affordable housing: BCC units, Certificates of Participation and Parcel 9'
-  summary: The Town closed on six deed-restricted units in the BCC project on Aug. 5 (contracted at $2.38 million) and is setting rents for them. Ordinance 21 would finance the purchase through Certificates of Participation. The Finance Committee is also reviewing the pro-forma for the Parcel 9 (Pitchview, rugby field) project.
+  - Housing
+- title: 'Town-owned affordable housing: BCC units, COP financing and Parcel 9'
+  summary: The Town closed on six deed-restricted units in the BCC project on August 5, 2026, for $2.38 million. Council considered Ordinance 21 to finance them with Certificates of Participation, and BACH is setting rents. The Finance Committee also reviewed the pro-forma for the Parcel 9 housing project, with a funding stack of about $5 million identified.
   where: Basalt Center Circle; Sopris Parcel 9
   refs:
   - 4
@@ -44,9 +44,28 @@
   topics:
   - Housing
   - Budget & taxes
-  - Land & property
+- title: Short-term rental rules and fees
+  summary: A resident living on East Sopris Drive said the 2025 STR ordinance's 60-day cap and fees unfairly hit full-time residents who rent a spare room, and asked that on-site hosted primary residents be exempt. Council scheduled a work session on STR regulatory fees for October 22.
+  where: Townwide
+  refs:
+  - 12
+  - 30
+  topics:
+  - Short-term rentals
+  - Fees & rates
+  public_comment: true
+- title: Tobacco tax ballot request
+  summary: Speakers urged Council to refer a tobacco tax increase to the ballot, noting Basalt's $2 per pack cigarette tax is below the $4 rate in Pitkin and Eagle counties and neighboring towns.
+  where: Townwide
+  refs:
+  - 12
+  - 19
+  topics:
+  - Budget & taxes
+  - Health & human services
+  public_comment: true
 - title: 2027 budget and town finances
-  summary: Council held a budget work session Sept. 17 and received the proposed 2027 budget Sept. 22. Mid-year results show revenue tracking well, but cash generated in the first half of 2026 was about $450,000 versus $2.2 million a year earlier, and a state grant for Two Rivers Road was deferred to 2027.
+  summary: Staff reported sales tax is tracking above budget, with year-to-date sales tax through May at $4.22 million. Cash generated in the first six months was about $450,000, versus $2.2 million a year earlier, and lower tap fees hit the Water Fund. A Two Rivers Road CDOT grant was deferred to 2027. Council held a budget work session on September 17 and the proposed 2027 budget was presented on September 22.
   where: Townwide
   refs:
   - 6
@@ -57,64 +76,27 @@
   - 19
   topics:
   - Budget & taxes
-- title: Short-term rental rules and fees
-  summary: A resident asked Council to exempt on-site hosted primary residents who rent a spare room from the commercial fees and 60-day cap in Ordinance 3 of 2025. Council scheduled a work session on STR regulatory fees for Oct. 22.
-  where: Townwide
-  refs:
-  - 12
-  - 30
-  topics:
-  - Short-term rentals
-  - Fees & rates
-  public_comment: true
-- title: Tobacco tax increase request
-  summary: Residents urged Council to refer a tobacco tax increase to the ballot, noting Basalt's $2 per pack cigarette tax is below the $4 rate in Pitkin and Eagle counties and neighboring towns.
-  where: Townwide
-  refs:
-  - 12
-  topics:
-  - Budget & taxes
-  - Health & human services
-  public_comment: true
 - title: Zoning, annexation and subdivision code rewrite
-  summary: Planning and Zoning is reviewing a reorganized Chapters 15, 16 and 17 (annexation, zoning, subdivision) prepared with Design Workshop. The hearing was continued to Oct. 20 for a recommendation, then goes to Town Council.
+  summary: With consultant Design Workshop, the Town is reorganizing its Annexation, Zoning and Subdivision codes (Chapters 15, 16 and 17) to make them more user-friendly, with some substantive changes. Planning and Zoning continued the hearing to October 20.
   where: Townwide
   refs:
   - 23
   - 28
   topics:
   - Zoning & development
-  - Annexation
-- title: Midland Avenue streetlights and snow removal
-  summary: Residents complained that the new catenary streetlights on Midland provide inadequate light, and staff say they are at maximum output and being worked on with the contractor. Public Works also presented options for snow removal on the new streetscape, including contracted service.
-  where: Midland Avenue
+  - Government operations
+- title: Midland Avenue streetlights and Southside traffic concerns
+  summary: Residents complained that the new catenary streetlights on Midland are not bright enough. Staff said the lights are at maximum output and they are working with the contractor. Residents also raised the single egress from Southside, a stop sign at Alexander and Fiou Lane, and a roundabout on Willits Lane for access to Crown Mountain Park.
+  where: Midland Avenue; Southside; Willits Lane
   refs:
-  - 2
   - 8
+  - 12
   topics:
   - Roads & traffic
   - Utilities
   public_comment: true
-- title: Police coordination with ICE
-  summary: A speaker at the Aug. 11 Council meeting raised barring local police from coordinating with ICE absent a judicial warrant tied to a criminal case.
-  where: Townwide
-  refs:
-  - 2
-  topics:
-  - Immigration
-  - Policing & public safety
-  public_comment: true
-- title: Cliff's Hillside Park design and trail wayfinding funding
-  summary: The Parks committee reviewed the 90% design of Cliff's Hillside Park. It also discussed a wayfinding sign funding request to Mid-Valley Trails/RFTA, which missed the 2027 budget cycle, and plans to hear from Roaring Fork Outdoor Volunteers and RFMBA.
-  where: Cliff's Hillside Park
-  refs:
-  - 3
-  - 26
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: 'Green Team: building benchmarking, grants and leaf blower rules'
-  summary: The Green Team heard that a regional IMPACT Accelerator Grant award topped $4 million, and discussed building benchmarking with CORE and its funding sources. Staff asked for ideas to extend the 2025 ban on combustion leaf blowers on town property to a wider area.
+- title: 'Green Team: building benchmarking, CORE and lawn equipment'
+  summary: The Green Team reviewed building energy benchmarking, regional IMPACT Accelerator grant funding of over $4 million, and CORE energy projects such as heat pumps. It also discussed extending the 2025 ban on combustion leaf blowers beyond town property.
   where: Townwide
   refs:
   - 1
@@ -123,3 +105,20 @@
   topics:
   - Environment & climate
   - Energy
+- title: Cliff's Hillside Park design and trail wayfinding funding
+  summary: The Parks, Open Space and Trails committee reviewed the 90% design for Cliff's Hillside Park, including play elements and furnishings. It also discussed a Mid-Valley Trails/RFTA funding request for wayfinding signs, which missed the 2027 budgeting cycle.
+  where: Cliff's Hillside Park
+  refs:
+  - 3
+  - 26
+  topics:
+  - Parks & open space
+  - Recreation & trails
+- title: Winter snow removal on Midland Avenue streetscape
+  summary: Public Works presented three options for snow removal on the new streetscape, including continued use of a contracted service, as the main challenge is clearing before parking spaces fill and plowing begins.
+  where: Midland Avenue
+  refs:
+  - 2
+  topics:
+  - Roads & traffic
+  - Government operations

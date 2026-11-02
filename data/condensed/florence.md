@@ -1,0 +1,38 @@
+# florence
+
+## [florence#0] 2026-11-02 | City Council | agenda
+- City Council Chambers, 600 W. 3rd Street, Florence, CO 81226
+- 3) PRESENTATIONS
+- 4) PUBLIC COMMENTS
+- public comment and discussion (three minutes)
+- a) Consider approving the minutes as written for the Regular City Council Meeting on October 19,
+- b) Consider approving City expenditures prepared on October 21, 2026, in the amount of
+- c) Consider selecting an applicant(s) for the upcoming Historic Preservation Commission vacancy
+- d) Consider approving the Temporary Use Permit for the Florence Chamber of Commerce’s Holly
+- and instructing negotiators regarding water rights, municipal utility service and billing, PUD compliance,
+- Dan Findlay, Water Consultant Tom Piltingsrud, Planning Director Ashley Fox, and Chief of Police
+- 3) PUBLIC HEARING
+- a) Consider holding a public hearing to receive public input regarding the proposed FY 2027 budget
+- Mayor Wolfe opened the public hearing for input
+- Mayor Wolfe closed the public hearing
+- Mary Anne Komar- 4346 County Road 15
+- Manages the SUMO Golf Course and elaborated on the business and importance of the facility to
+- the community. Sought to convince the City Council to revert the water rates of the golf course to
+- Michael Drake- 5015 County Road 19
+- Expressed concern over the vacant buildings on Main Street, and the potential loss of SUMO Golf
+- b) Consider approving City expenditures prepared on October 7, 2026, in the amount of
+- c) Consider approving the Special Events Permit for the Royal Gorge Chamber Alliance
+- d) Ratification and Adjustment of Police Department Vehicle Purchase Amount
+- Councilor Stone motioned to approve the Consent Agenda. Councilor Gardner seconded. With
+- a) Consider passing Ordinance No. 11 – 2026, on First Reading by Title only, an Ordinance
+- authorizing the termination of a 1964 Trust Agreement and conveyance of real property located at
+- 100 East Front Street
+- City Manager Lori Cobler elaborated on the history of the Florence Pioneer Museum and
+- Councilor Stone moved to approve Ordinance No. 11– 2026 on First Reading by title only, an
+- ordinance authorizing the termination of a 1964 trust agreement and the conveyance of real
+- property located at 100 East Front Street
+- b) Consider approving Resolution No. 12 – 2026, a Resolution establishing a Volunteer Firefighter
+- City Manager Cobler elaborated on the reason for the amended Personnel Policy. Florence has
+- recently employed multiple Florence Fire Protection District volunteers, and Staff sought to
+- ensure their rights and responsibilities as firefighters were still respected while working for the
+- Councilor MacKinnon shared history on the Florence Fire Protection District and the importance

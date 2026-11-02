@@ -1,78 +1,94 @@
-- title: 2026 Zoning Code adoption and the RV park fight
-  summary: The Board worked through a full Zoning Code rewrite from November 2025 through February 2026, with public hearings in January. Residents argued over an RV park provision and Planned Development "mixed uses" wording, and the board agreed to remove the RV Park section and strike the "mixed uses" wording. Some trustees and residents said the code was not ready to pass.
+- title: 2026 Zoning Code rewrite, RV parks and Planned Development
+  summary: The Board went through the zoning code update page by page in November, held a public hearing in January, and took up adoption of the 2026 Zoning Code in February. Residents debated an RV park use and the Planned Development wording, and the Board agreed to strike the RV Park section and the "mixed uses" language. In April the Zoning Board was set to review more code wording on May 4.
   where: Townwide
   refs:
-  - 2
-  - 3
+  - 0
+  - 1
+  - 4
+  - 5
   - 6
-  - 7
-  - 8
   topics:
   - Zoning & development
   - Land & property
   public_comment: true
 - title: Western Slope Towers radio tower lease with Gunnison Met Rec
-  summary: The Board reviewed a lease for marketing tower services on the town's radio tower site. Western Slope wanted 18 months at no charge, and the mayor thought the payment was too low. Concerns included the 2,500 square foot site size and a site cleanup clause. By February the board discussed final terms and heard no public comments.
-  where: Town radio tower site
+  summary: The Board has been negotiating a lease for the town's tower site, where Western Slope wants 18 months at no charge. The mayor thought the proposed amount was too low, and the lease lists 2,500 square feet at the site. Residents commented, and the Board wanted a clause requiring site cleanup if no tenant remains. The agreement was discussed again in February, and the contract came up again in April.
+  where: Tower site, Pitkin
   refs:
+  - 4
+  - 5
   - 6
-  - 7
-  - 8
   topics:
-  - Land & property
   - Utilities
+  - Land & property
   - Broadband
   public_comment: true
 - title: 2025 budget amendment, 2026 budget and mill levy
-  summary: The Board amended the 2025 street maintenance budget, which had been $15,000 but had already spent $20,261.40, and the amendment was later raised further. After public hearings it adopted the 2026 budget and the property tax levy by resolution on Dec. 11. Stipends for the Environmental Health Agent, the Streets/Ditches Commissioner and Zoning Board members were also discussed.
+  summary: The Board held a public hearing on the 2025 budget amendment (street maintenance raised by $7,000) and the 2026 budget, then waited on county mill levy figures. On Dec. 11 it adopted Resolution 7 (amended 2025 and 2026 budgets) and Resolution 8 (levying 2026 property taxes). April financials showed a large increase in sales tax.
   where: Townwide
   refs:
   - 0
-  - 2
+  - 1
   - 3
-  - 5
-  - 8
+  - 6
   topics:
   - Budget & taxes
-  - Roads & traffic
   public_comment: true
-- title: Wildfire Resiliency Code adoption
-  summary: The state requires the town to adopt a Wildfire Resiliency Code by April 1, 2026, with enforcement starting July 1, 2026. The Board planned public hearings for early 2026, and a wildfire mitigation seminar was noted in April.
+- title: Pay for town officials and board members
+  summary: Trustees discussed paying the Environmental Health Agent about $550 for classes, the Streets/Ditches Commissioner $300 a month, and Zoning Board members $50 per meeting (about $3,000 a year for a full board). Resolution 6 on coverage with CIRSA was also passed, and Ramon Reed was paid for his time as Trustee.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 4
+  topics:
+  - Government operations
+  - Budget & taxes
+  public_comment: true
+- title: Onsite wastewater (OWTS) regulations update
+  summary: After a public hearing on Nov. 19, the Board adopted Ordinance 1 of 2025 updating on-site wastewater treatment system regulations, as required by state Regulation 43. Josh Ackerman was appointed the town's Environmental Health Agent.
   where: Townwide
   refs:
   - 1
-  - 3
-  - 8
+  - 2
+  topics:
+  - Utilities
+  - Environment & climate
+  - Health & human services
+  public_comment: true
+- title: Wildfire resiliency, energy and building codes
+  summary: The town held a work session on a Wildfire Resiliency Code in October and planned public hearings on the Zoning, Wildfire, Energy and Building codes starting in January 2026. A wildfire mitigation seminar was noted in April.
+  where: Townwide
+  refs:
+  - 1
+  - 6
   topics:
   - Fire & emergencies
   - Environment & climate
   - Zoning & development
-- title: On-site wastewater (OWTS) regulations update
-  summary: After a public hearing on Nov. 19, 2025, the Board adopted Ordinance 1 of 2025 updating on-site wastewater treatment system regulations as required by state rules. The town also appointed Joshua Ackerman as its Environmental Health Agent.
-  where: Townwide
+- title: Fire/irrigation ditch cleaning and pond maintenance agreement with CPW
+  summary: The Board took bids to clean and dig about 600 feet of fire and irrigation ditches. It also considered a 5-year operations and maintenance agreement with Colorado Parks and Wildlife for a pond. The mayor heard concerns that the pond could be drained into the ditch.
+  where: Pitkin ditches and pond
   refs:
-  - 3
-  - 4
+  - 6
   topics:
   - Water
-  - Environment & climate
-  - Health & human services
-  public_comment: true
-- title: Pond operations agreement with Colorado Parks and Wildlife and ditch work
-  summary: The Board considered a 5-year operations and maintenance agreement involving a pond that CPW would keep stocking. The mayor relayed concerns that the pond could be drained into the ditch. The Board also weighed an RFP for cleaning about 600 feet of fire and irrigation ditches.
-  where: Town pond and ditches
-  refs:
-  - 8
-  topics:
-  - Recreation & trails
   - Agriculture & wildlife
-  - Water
+  - Recreation & trails
   public_comment: true
-- title: Open Board seats and Zoning Board vacancy
-  summary: The Board declared two Board member positions open in April 2026, and a Zoning Board seat expiring at the end of April was posted. It also reappointed the Town Clerk/Treasurer and Town Attorney.
+- title: Two open Board seats and Zoning Board vacancy
+  summary: Resolution 4 of 2026 declared two Board member positions open, and the Board posted an open Zoning Board seat since the mayor's term there expires at the end of April. Cory Nasso was named Mayor Pro Tem and the Town Clerk and Attorney were reappointed.
   where: Townwide
   refs:
-  - 8
+  - 6
   topics:
   - Elections
   - Government operations
+- title: Fence permit at 428 State Street
+  summary: The Board reviewed a previously denied fence permit request for 428 State Street and approved it in April.
+  where: 428 State Street
+  refs:
+  - 6
+  topics:
+  - Land & property
+  - Zoning & development

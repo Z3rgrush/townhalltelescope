@@ -1,38 +1,6 @@
 # mesa-county
 
-## [mesa-county#0] 2026-07-28 | Board of Commissioners Administrative Hearing | agenda
-- ADMINISTRATIVE PUBLIC HEARING
-- 544 Rood Avenue, Public Hearing Room
-- complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
-- Rules of decorum shall be strictly observed during the Hearing, and may be viewed on the Mesa County website
-- Public Comment:
-- The Public Comment portion of the agenda provides the public an opportunity to speak to the Board of
-- be allowed during Public Comment
-- The Rules of Decorum will be strictly enforced. Outbursts and interruptions from any person in the hearing room,
-- Chair, who are speaking into the microphone at the lectern and only after they have identified themselves on the
-- BOCC Administrative Public Hearing
-- generally perceived as non-controversial and can be approved by a single motion. The public is invited to ask clarifying
-- Needing Individual Consideration if deemed necessary
-- 1. Consider approving the Administrative Public Hearing draft minutes from July 21, 2026
-- 2. Consider allowing the Mesa County Right of Way Agent to Sign a Declaration of Restrictive Covenants for
-- 3. Consider approving the cancellation of previous years' uncollectable property taxes, interest and
-- miscellaneous fees. (Arna Hoffman, Treasurer & Public Trustee)
-- 4. Consider approving the Public Trustee Report for the 2nd quarter of 2026. (Arna Hoffman, Treasurer)
-- 5. Consider approving the 2026 Six month Bi-annual report for the Special Districts, from January 1, 2026
-- 6. Consider approving Memorandum of Understanding Enforcement of Wildfire Resiliency Code with Grand
-- Junction Rural Fire Protection District (Darrell Bay, Chief Building Official)
-- 7. Consider approving Memorandum of Understanding Enforcement of Wildfire Resiliency Code Lands End
-- and Central Orchard Mesa Fire Protection District (Darrell Bay, Chief Building Official)
-- 8. Consider approving support for 2 (two) proposals being submitted to Colorado Counties, Incorporated's
-- Item(s) Needing Individual Consideration:
-- Please limit public comment to a maximum of three (3) minutes per speaker (unless otherwise restricted by the
-- 1. Consider approving a new Special Event Permit for Next GEN Producers, on August 15, 2026 at the Mesa
-- 2. Consider approving an award of flat-fee litigation engagement to Brophy Clauss, LLC, and a Request for
-- CERTIFICATION OF POSTING
-- 07/28/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a courtesy
-- There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
-
-## [mesa-county#1] 2026-08-04 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#0] 2026-08-04 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -60,7 +28,7 @@
 - 08/04/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a courtesy
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
 
-## [mesa-county#2] 2026-08-11 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#1] 2026-08-11 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -86,7 +54,7 @@
 - 08/11/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a courtesy
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
 
-## [mesa-county#3] 2026-08-11 | Board of Public Health Meeting | agenda
+## [mesa-county#2] 2026-08-11 | Board of Public Health Meeting | agenda
 - 1) MCPH Strategic Performance Evaluation_June 2026
 - 3. Clinic Presentation
 - UpRISE Student Projects:
@@ -98,7 +66,7 @@
 - CERTIFICATION OF POSTING
 - health/. For an agenda item that is ADA compliant, please refer to the published meeting packet for this hearing. For
 
-## [mesa-county#4] 2026-08-18 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#3] 2026-08-18 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -129,7 +97,7 @@
 - 08/18/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a courtesy
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
 
-## [mesa-county#5] 2026-08-18 | Board of Commissioners Land Use Hearing | agenda
+## [mesa-county#4] 2026-08-18 | Board of Commissioners Land Use Hearing | agenda
 - LAND USE HEARING
 - 544 Rood Avenue, Public Hearing Room
 - the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -150,12 +118,12 @@
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. If you would like to be added to
 - For an agenda document that is ADA compliant, please refer to the published meeting packet for this hearing. For
 
-## [mesa-county#6] 2026-08-21 | Board of Public Health Special Meeting | agenda
+## [mesa-county#5] 2026-08-21 | Board of Public Health Special Meeting | agenda
 - Consideration and possible action regarding engagement of legal counsel:
 - CERTIFICATION OF POSTING
 - health/. For an agenda item that is ADA compliant, please refer to the published meeting packet for this hearing. For
 
-## [mesa-county#7] 2026-08-25 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#6] 2026-08-25 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -187,11 +155,11 @@
 - amount of $13,265,445.00 for the Runway Replacement Program – Transition and Taxiway Conversion
 - Grand Junction Regional Airport Authority and the Co-Sponsorship Agreement between Mesa County
 
-## [mesa-county#8] 2026-08-26 | Board of Public Health Work Session | agenda
+## [mesa-county#7] 2026-08-26 | Board of Public Health Work Session | agenda
 - 2025 Year in Review, Current State and Financial Status and 2027 Budget:
 - CERTIFICATION OF POSTING
 
-## [mesa-county#9] 2026-09-01 | Board of Commissioners Administrative Hearing - Cancelled | agenda
+## [mesa-county#8] 2026-09-01 | Board of Commissioners Administrative Hearing - Cancelled | agenda
 - Board of Commissioners Administrative Hearing
 - 544 Rood Avenue, Public Hearing Room
 - there are no items pending for the consideration of the Board of County Commissioners
@@ -199,7 +167,7 @@
 - THEREFORE, according to Resolution No. BOCC 2023-3 and the provisions of C.R.S.§ 30-10-303
 - CERTIFICATION OF POSTING
 
-## [mesa-county#10] 2026-09-08 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#9] 2026-09-08 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
 - Rules of decorum shall be strictly observed during the Hearing, and may be viewed on the Mesa County website
@@ -224,7 +192,7 @@
 - 09/08/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a courtesy
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
 
-## [mesa-county#11] 2026-09-08 | Board of Public Health Meeting | agenda
+## [mesa-county#10] 2026-09-08 | Board of Public Health Meeting | agenda
 - Consider Approving Budget Amendments/Supplements:
 - 2027 Budget:
 - 1. 2027 Budget, including the corresponding actual figures for 2025, the estimated figures projected
@@ -233,11 +201,11 @@
 - CERTIFICATION OF POSTING
 - health/. For an agenda item that is ADA compliant, please refer to the published meeting packet for this hearing. For
 
-## [mesa-county#12] 2026-09-09 | Board of Public Health Special Meeting | agenda
+## [mesa-county#11] 2026-09-09 | Board of Public Health Special Meeting | agenda
 - CERTIFICATION OF POSTING
 - health/. For an agenda item that is ADA compliant, please refer to the published meeting packet for this hearing. For
 
-## [mesa-county#13] 2026-09-15 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#12] 2026-09-15 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
 - Rules of decorum shall be strictly observed during the Hearing, and may be viewed on the Mesa County website
@@ -265,7 +233,7 @@
 - 09/15/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a courtesy
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
 
-## [mesa-county#14] 2026-09-15 | Board of Commissioners Land Use Hearing | agenda
+## [mesa-county#13] 2026-09-15 | Board of Commissioners Land Use Hearing | agenda
 - LAND USE HEARING
 - 544 Rood Avenue, Public Hearing Room
 - the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -306,7 +274,7 @@
 - of Commissioners’ Land Use Hearing. The official notice was posted to the Mesa County website with a courtesy copy placed
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. If you would like to be added to
 
-## [mesa-county#15] 2026-09-22 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#14] 2026-09-22 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -331,10 +299,10 @@
 - the 09/22/2026 Administrative Public Hearing. The official notice was posted to the Mesa County website with a
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. To be added to the Agenda
 
-## [mesa-county#16] 2026-09-22 | Board of Commissioners Executive Session | agenda
+## [mesa-county#15] 2026-09-22 | Board of Commissioners Executive Session | agenda
 - CERTIFICATION OF POSTING
 
-## [mesa-county#17] 2026-09-29 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#16] 2026-09-29 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -367,11 +335,11 @@
 - 2. Consider reappointing Derek Bernal, Mike Krizman, Troy Waters, and Juliann Adams to the Mesa County
 - Development Director)
 
-## [mesa-county#18] 2026-09-29 | Board of Public Health Special Meeting | agenda
+## [mesa-county#17] 2026-09-29 | Board of Public Health Special Meeting | agenda
 - CERTIFICATION OF POSTING
 - If you would like to be added to the Agenda distribution list, please visit our website and click on the Email Notification link
 
-## [mesa-county#19] 2026-10-06 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#18] 2026-10-06 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -405,14 +373,14 @@
 - 1. Briefing on Mesa County Lower Valley PID FY2027 Proposed Budget (Diane Dziewatkoski, Budget Mgr)
 - Convene as the Mesa County Whitewater Public Improvement District
 
-## [mesa-county#20] 2026-10-13 | Board of Commissioners Administrative Hearing - Cancelled | agenda
+## [mesa-county#19] 2026-10-13 | Board of Commissioners Administrative Hearing - Cancelled | agenda
 - Board of Commissioners Administrative Hearing
 - there are no items pending for the consideration of the Board of County Commissioners
 - for the Board of Commissioners Administrative Hearing on October 13, 2026
 - THEREFORE, according to Resolution No. BOCC 2023-3 and the provisions of C.R.S.§ 30-10-303
 - CERTIFICATION OF POSTING
 
-## [mesa-county#21] 2026-10-13 | Board of Public Health Meeting | agenda
+## [mesa-county#20] 2026-10-13 | Board of Public Health Meeting | agenda
 - 1) MCPH 2026 Strategic Performance Evaluation_August 2026
 - 1) Q3 BOPH Revenue Contract Summary
 - discussing personnel matters regarding the hiring of counsel to represent the Mesa County Board of
@@ -422,7 +390,7 @@
 - CERTIFICATION OF POSTING
 - If you would like to be added to the Agenda distribution list, please visit our website and click on the Email Notification link
 
-## [mesa-county#22] 2026-10-20 | Board of Commissioners Administrative Hearing | agenda
+## [mesa-county#21] 2026-10-20 | Board of Commissioners Administrative Hearing | agenda
 - ADMINISTRATIVE PUBLIC HEARING
 - 544 Rood Avenue, Public Hearing Room
 - complete the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -454,7 +422,7 @@
 - 6. Consider reappointing Kelly Wilkinson and Taylor Jones to the Mesa County Emergency Management
 - 7. Consider Approving an Agreement between Mesa County and Short Elliot Hendrickson, Inc. in the
 
-## [mesa-county#23] 2026-10-20 | Board of Commissioners Land Use Hearing | agenda
+## [mesa-county#22] 2026-10-20 | Board of Commissioners Land Use Hearing | agenda
 - LAND USE HEARING
 - 544 Rood Avenue, Public Hearing Room
 - the "Public Hearing Participation Sign Up" form no later than 12:00 pm the day prior to the meeting
@@ -481,3 +449,13 @@
 - Commissioners’ Land Use Hearing. The official notice was posted to the Mesa County website with a courtesy copy placed on
 - There is limited free public parking on the southeast corner of 6th Street and White Avenue. If you would like to be added to
 - For an agenda document that is ADA compliant, please refer to the published meeting packet for this hearing. For
+
+## [mesa-county#23] 2026-10-27 | Board of Commissioners' Executive Session | agenda
+- CERTIFICATION OF POSTING
+
+## [mesa-county#24] 2026-10-27 | Board of Commissioners Administrative Hearing - Cancelled | agenda
+- Board of Commissioners Administrative Hearing - 10/27/2026
+- there are no items pending for the consideration of the Board of County Commissioners
+- for the Board of Commissioners Administrative Hearing on October 27, 2026
+- THEREFORE, according to Resolution No. BOCC 2023-3 and the provisions of C.R.S.§ 30-10-303
+- CERTIFICATION OF POSTING

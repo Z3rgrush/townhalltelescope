@@ -544,3 +544,49 @@
 - of the regional deed-restricted housing inventory
 - its ﬁrst 1% administrative fee under the deed restriction covenant, totaling $3,950. The
 - transaction provided an opportunity to implement the administrative fee provision as
+
+## [ridgway#17] 2026-10-31 | City Council | agenda
+- Budget Retreat Agenda
+- public may attend in person at the Decker Community Room, located at 675 Clinton Street,
+- BUDGET TOPICS
+- a. Council direction for budget revisions
+- b. Council direction for Capital Improvement Projects
+- c. Council requests for additional information, analysis or options
+- d. Council direction for 2027 Strategic Plan
+- 2. Overview of budget adoption process (9:10 a.m.)
+- c. Budget Approach
+- 3. Additional budget topics for discussion and review (9:20 a.m.)
+- 4. Presentation of Draft 2027 Fiscal Year Budget (9:35 a.m.)
+- c. Revenue Projections
+- 5. Presentation of 2027 pay movement recommendations (10:45 a.m.)
+- 6. Review and direction on Home Trust of Ouray County 2027 funding request (10:55 a.m.)
+- 7. Review and direction on EcoAction Partners 2027 funding request (11:15 a.m.)
+- Town Council Budget Retreat Agenda
+- 9. Discussion and direction regarding Wastewater Treatment Plant siting options to inform
+- the Project Needs Assessment (11:30 a.m.)
+- 11. Discussion and direction regarding Wastewater Treatment Plant treatment options to
+- inform the Project Needs Assessment (12:45 p.m.)
+- 12. Review and direction on Capital Improvements Plan (1:30 p.m.)
+- 13. Discussion regarding Council priorities/2027 Strategic Plan (2:50 p.m.)
+- Budget Retreat
+- 2. Overview of Budget Adoption Process
+- 3. Add Specific Budget Topics Council Members Would Like to Discuss
+- 4. Presentation of Draft 2027 Fiscal Year Budget
+- 5. Presentation of 2027 Pay Movement Recommendations
+- 6. Home Trust of Ouray County 2027 Funding Request
+- 7. EcoAction Partners 2027 Funding Request
+- 12. CIP Discussion
+- 13. Strategic Plan
+- 2. Council requests for additional information, analysis, or options
+- 3. Council direction for Capital Improvement Projects
+- 4. Council direction for 2027 Strategic Plan
+- BUDGET ADOPTION PROCESS
+- (A) The Town Council shall cause the preparation of a proposed annual budget by the first regular Council meeting in October of each year for
+- (B) The budget shall contain at a minimum the following information:
+- (b) the adopted budget for the current fiscal year,
+- (d) the budget year
+- (2) Prior to the adoption of the budget, a public hearing shall be held, notice of which shall be posted and published once in a
+- newspaper of general circulation within the Town at least 15 days prior to the hearing
+- (3) Prior to adoption of the budget, the Council may amend the proposed budget as appropriate
+- (4) The budgeted expenditures shall be balanced by budgeted revenues, which may include fund balances and reserves
+- (5) The Council shall adopt the budget by the minimum vote of 4 members of Council by resolution prior to December 15

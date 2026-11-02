@@ -1,53 +1,6 @@
 # durango
 
-## [durango#0] 2026-10-12 | URA Study Session | agenda
-- The Durango Urban Renewal Authority is an independent governmental entity, separate from the City
-- of Durango. The Authority operates under its own statutory authority and governing board, although it
-- does contract with the City for staff services
-- 4.1. Colorado Urban Renewal Law, Tax Increment Financing, Plan Adoption, Public Finance
-- Agreements, and Board Governance
-- 5. South Durango Urban Renewal Plan Area: Status, Decision Points, and Timeline
-- 7. Board Questions and Discussion
-- Renewal Plan, C.R.S. 24-6-402(4)(b) and (e)
-- Written Public Comment
-- Live Public Comment
-- Links and instructions for joining to offer live public comment are available on the meeting webpage
-
-## [durango#1] 2026-10-13 | BID Board Meeting | agenda
-- BUSINESS IMPROVEMENT DISTRICT
-- Durango Business Improvement District Board of Directors Meeting
-- 3. Guests/Public Comment
-- 6. Approval of Minutes
-- 6.1. Approval of September 8, 2026 Meeting Minutes
-- 6.2. Approval of September 14, 2026 Special Meeting Minutes
-- 7.2.1. Approval of August 2026 Financial Statements
-- 7.4. Visitor Information and Beautification Report
-
-## [durango#2] 2026-10-13 | City Council Joint Study Session with County Commissioners | agenda
-- DURANGO CITY COUNCIL AND LA PLATA COUNTY COMMISSIONERS
-- LA PLATA COUNTY ADMINISTRATION BUILDING
-- 1. Discussion Items
-- 1.2. 2027 Joint Sales Tax Budget Presentation and
-- NOTE: NO PUBLIC COMMENT IS TAKEN AT STUDY SESSIONS
-
-## [durango#3] 2026-10-14 | City Council Special Meeting - Budget Retreat | agenda
-- SANTA RITA WATER RECLAMATION FACILITY CONFERENCE ROOM
-- 2.1. Review of the City Manager's Proposed 2027 Budget
-
-## [durango#4] 2026-10-15 | Durango - La Plata County Airport Commission | agenda
-- DURANGO - LA PLATA COUNTY AIRPORT COMMISSION
-- AIRPORT CONFERENCE ROOM, 1000 AIRPORT ROAD
-- 3.1. Approval of Minutes of September 17, 2026
-- 5.1. Terminal Development Project Update
-- 5.3. Parking Expansion Phase III & Rental Car QTA Design Update
-- 6.4. Airport Capital Project Report
-- 6.6. Vehicle Parking Activity Report
-
-## [durango#5] 2026-10-15 | Financial Advisory Board Study Session | agenda
-- Public comment to the Financial Advisory Board can be directed to:
-- 2.1. Parks & Recreation Site Tours: 1st stop:Durango Mesa Park 415-5pm - Meeting at Ewing
-
-## [durango#7] 2026-10-20 | City Council Regular Meeting | agenda
+## [durango#0] 2026-10-20 | City Council Regular Meeting | agenda
 - CHIEF OF POLICE
 - Gloria Platt
 - PARKS AND RECREATION
@@ -90,7 +43,7 @@
 - 11.4. A Resolution Directing the City Manager to Initiate the Steps for Inclusion of the Area of the City of
 - Durango into the Durango Fire Protection District on the April 2027 Election - OS - Submitted by Bob
 
-## [durango#8] 2026-10-22 | Community Development Commission Study Session | agenda
+## [durango#1] 2026-10-22 | Community Development Commission Study Session | agenda
 - COMMUNITY DEVELOPMENT COMMISSION STUDY SESSION
 - COMMUNITY DEVELOPMENT DEPT AT AXIS HEALTH, 150 MERCURY VILLAGE DRIVE
 - The Community Development Commission study session meeting will be held on the Thursday prior to
@@ -102,7 +55,7 @@
 - 5.4. Discussion of drone deliveries as proposed by Chair Fredrickson
 - Community Development
 
-## [durango#9] 2026-10-26 | Board of Adjustment (BOA) Meeting | agenda
+## [durango#2] 2026-10-26 | Board of Adjustment (BOA) Meeting | agenda
 - LAND USE AND DEVELOPMENT CODE BOARD OF ADJUSTMENT
 - Avenue and virtually. Public participation during the meeting will be accessible through this platform. If
 - discuss City business
@@ -110,7 +63,7 @@
 - 3.1. Approval of the August 31, 2026 Board of Adjustment Meeting Minutes
 - Land Use and Development Code BOA Meeting
 
-## [durango#10] 2026-10-26 | Hybrid Community Development Commission Meeting | agenda
+## [durango#3] 2026-10-26 | Hybrid Community Development Commission Meeting | agenda
 - COMMUNITY DEVELOPMENT COMMISSION
 - The Community Development Commission will be held in person at Council Chambers, 949 East 2nd
 - Avenue or virtually. Public participation during the meeting will be accessible through this platform. The
@@ -126,3 +79,23 @@
 - 9.3. Discussion of drone deliveries as proposed by Chair Fredrickson
 - Community Development
 - Community Development Commission Meeting
+
+## [durango#4] 2026-10-28 | Historic Preservation Board Hybrid Meeting | agenda
+- COMMUNITY DEVELOPMENT DEPT AT AXIS HEALTH, 150 MERCURY VILLAGE DRIVE
+- Preservation Board meetings will be accessible to the public using an online meeting platform. Public
+- participation during the meeting will be handled through this platform, the public will be able to view
+- 4.1. Section 106 Permitting Reform - Laurel Glidden , Vice Chair HPB and Victorai Giannola,
+- 5. Public Comment
+- 6. Approval of Minutes
+- 6.1. Approval of the September 23 2026, Historic Preservation Board Meeting Minutes - Adela
+- 8. Tax Credit Review
+- 9. Project Review
+- 10. Reports and Discussion Items
+- 10.1. Ordinance amending the Durango LUDC, Chapter 3, Lots, Buildings, and Structures, Article
+- Community Development
+
+## [durango#5] 2026-10-29 | Financial Advisory Board Study Session | agenda
+- Public comment to the Financial Advisory Board can be directed to:
+- 2.1. Public Works Site Tours - 1st stop:College Mesa Water Treatment Plant; Meet at Goeglein
+- Gulch Rd/CR 239 at 4:15pm 2nd stop:8th Street/8th Ave. Improvement Project; Meet at
+- 5pm 3rd stop:Santa Rita Water Reclamation Facility; Meet at 5:25pm

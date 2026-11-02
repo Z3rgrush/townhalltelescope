@@ -1,135 +1,133 @@
-- title: Temporary pause on data center applications (5 MW or more)
-  summary: On the Oct. 20 agenda, Council considered an ordinance (AM 2026-158) temporarily suspending submission, acceptance, processing and approval of applications to establish or expand data center facilities with a demand of 5 megawatts or more. The documents do not state the outcome.
+- title: Temporary moratorium on data center applications (5 MW or more)
+  summary: On Oct. 20 the City Council took up an ordinance (AM 2026-158) imposing a temporary suspension on submitting, accepting, processing and approving applications to establish or expand data center facilities with a demand of 5 megawatts or more. The documents do not state the final vote.
   where: Citywide
   refs:
+  - 13
   - 14
-  - 15
-  tags:
-  - data-center
   topics:
   - Data centers
   - Zoning & development
-- title: Western Midstream Parsnip Pipeline special use permit
-  summary: Western Midstream is seeking a special use permit for two buried gas gathering pipelines through I-2 industrial, mining and agricultural parcels in the city. At the Planning Commission hearing, neighbors including Joseph and Sue Hubert and Leeroy Sack of County Road 10 asked about pipe size and whether their land would be accessed. The permit went to City Council for a public hearing.
-  where: Pipeline route through I-2 parcels near County Road 10 and S. Denver Ave.
-  refs:
-  - 0
-  - 19
-  public_comment: true
-  topics:
-  - Oil, gas & mining
-  - Land & property
-  - Utilities
-- title: Water and sewer plant investment (tap) fee changes
-  summary: Council approved a revised Water and Sewer Infrastructure Investment Fee Schedule effective December 1, 2026. Staff surveyed regional tap fees, noted METRO Water Recovery is raising its fee to $6,290, and cited ongoing upgrades to the water and wastewater treatment plants and distribution system. Further 2027 fee changes were on the Sept. 8 agenda.
+  - Energy
+  tags:
+  - data-center
+- title: Housing Action Plan, Strategic Growth Element and Comprehensive Plan update
+  summary: The Planning Commission and City Council reviewed the draft Housing Action Plan, the draft Strategic Growth Element and proposed Future Land Use Categories in October. The council also amended the Ayres Associates contract to add a water supply element to the Comprehensive Plan update, and approved a DOLA planning capacity grant application.
   where: Citywide
   refs:
+  - 2
+  - 3
   - 6
-  - 7
+  - 17
+  - 18
+  - 19
+  - 20
+  topics:
+  - Housing
+  - Zoning & development
+  - Land & property
+- title: Proposition 123 affordable housing commitment
+  summary: The council directed the Planning Department to file the local government affordable housing commitment for 2027-2029 so the city can take part in Proposition 123 state funding programs.
+  where: Citywide
+  refs:
+  - 9
+  - 13
+  - 14
+  topics:
+  - Housing
+  - Government operations
+- title: Water and sewer plant investment (tap) fee changes
+  summary: Council approved a resolution revising the water and sewer infrastructure investment fee schedule effective Dec. 1, 2026, after staff surveyed regional tap fees. METRO Water Recovery is raising its tap fee to $6,290, up $220 per single-family home, and the city has several water and wastewater plant upgrades underway.
+  where: Citywide
+  refs:
+  - 5
+  - 6
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: Street reconstruction design contracts funded by CR 12 UPRR funds
-  summary: Council awarded design work for 5th Street and Broadway Avenue to JVA (up to $143,095), for Homestead Drive and Columbine Avenue to IMEG, and the 3rd and 5th Street project to HKS. A JVA amendment of up to $16,585 followed in October. The work is paid from CR 12 UPRR project funds.
-  where: 5th St & Broadway Ave; Homestead Dr & Columbine Ave; 3rd & 5th St
-  refs:
-  - 3
-  - 4
-  - 5
-  - 10
-  - 14
-  - 15
-  topics:
-  - Roads & traffic
 - title: Water tower project contracts and easement
-  summary: Council took up a construction management contract amendment with Burns & McDonnell, a change order with HPM and an easement from Murray Farms, all for the water tower project.
-  where: Water tower site
+  summary: Council considered a Burns & McDonnell construction management contract amendment, a change order with HPM and the Murray Farms easement for the water tower project. Council also approved the 2027 Colorado-Big Thompson assessment of up to $191,000.70.
+  where: Fort Lupton water tower site
   refs:
-  - 10
+  - 6
+  - 9
+  - 13
   - 14
-  - 15
   topics:
   - Water
   - Utilities
-- title: Comprehensive Plan update, housing action plan and land use categories
-  summary: The city is updating its Comprehensive Plan with Ayres Associates, whose contract was amended to add a water supply element. The Planning Commission reviewed the draft Housing Action Plan, strategic growth plan and proposed land use categories. Council also backed a DOLA Local Planning Capacity grant application, and the Design Workshop contract is for the Parks and Trails plan.
-  where: Citywide
+  - Land & property
+- title: Street reconstruction design contracts funded by CR 12 UPRR money
+  summary: 'The city hired engineers for added street projects: JVA for 5th Street and Broadway Avenue (up to $143,095, later amended by $16,585), IMEG for Homestead Drive and Columbine Avenue, and HKS for 3rd and 5th Streets. The 9th and Northrup/9th Street extension and dust control on County Road 21 ($28,282.80) also came up.'
+  where: 5th St & Broadway Ave; Homestead Dr & Columbine Ave; 3rd & 5th Streets
   refs:
   - 0
+  - 2
   - 3
-  - 4
-  - 7
   - 9
-  - 12
-  - 18
-  - 19
-  topics:
-  - Zoning & development
-  - Housing
-  - Water
-- title: 2027 budget and property tax limit exclusion
-  summary: Council received the 2027 requested budget on Sept. 29 and held a budget retreat Oct. 17 on the preliminary budget. Council also considered an application for exclusion from the 5.5% assessed valuation limit, and the Urban Renewal Authority reviewed its own 2027 draft budget.
-  where: Citywide
-  refs:
-  - 7
-  - 9
-  - 11
-  - 12
   - 13
+  - 14
   topics:
+  - Roads & traffic
   - Budget & taxes
 - title: Ewing Annexation Agreement amendment
-  summary: Council took up a first amendment to the Ewing Annexation Agreement, originally approved April 16, 2024, with ordinance readings on Sept. 1 and Sept. 29.
+  summary: Council took up the first amendment to the Ewing Annexation Agreement, which was originally approved April 16, 2024. It was adopted by ordinance on first reading Sept. 1 and came back for second reading Sept. 29.
   where: Ewing annexation area
   refs:
+  - 2
   - 3
-  - 4
-  - 9
+  - 8
   topics:
   - Annexation
-- title: 'New metropolitan district service plans: Lancaster Crossing and 277'
-  summary: Council was scheduled on Sept. 29 to consider a resubmitted service plan for Lancaster Crossing Metropolitan District Nos. 1-5 and a service plan for the 277 Metropolitan District.
-  where: Lancaster Crossing and 277 districts
+  - Zoning & development
+- title: New metropolitan district service plans
+  summary: On Sept. 29 council reviewed the resubmitted Lancaster Crossing Metropolitan District Nos. 1-5 service plan and the 277 Metropolitan District service plan.
+  where: Lancaster Crossing; 277 Metropolitan District
   refs:
-  - 9
+  - 8
   topics:
   - Zoning & development
   - Budget & taxes
-- title: Urban Renewal Authority grants and projects
-  summary: The Fort Lupton Urban Renewal Authority discussed El Rey Del Taco's request for a six-month grant extension and a resolution to fund 50% of an $86,820 survey and engineering project. It also tracks TIF reimbursements for Vincent's and the Rec Center.
-  where: 85 and 7 corridor, Vincent's area
+- title: Western Midstream buried gas gathering pipeline permit
+  summary: The Planning Commission heard a Western Midstream request for a special use permit for a buried gas gathering pipeline through I-2 industrial and agricultural parcels. Nearby residents asked about pipe size, property access and effects on their land.
+  where: South Denver Ave and County Road 10 area
   refs:
-  - 2
-  - 12
+  - 18
   topics:
-  - Economic development
-  - Downtown & business
-  - Budget & taxes
-- title: Koshio Park renovation
-  summary: Council handled change orders for Koshio Park, including temporary irrigation and Change Order No. 2, as the park is renovated. The Urban Renewal Authority noted the groundbreaking.
-  where: Koshio Park
-  refs:
-  - 3
-  - 6
-  - 12
-  topics:
-  - Parks & open space
-- title: Proposition 123 affordable housing commitment
-  summary: Council directed the Planning Department to file the local affordable housing commitment for 2027-2029 so the city can take part in Proposition 123 funding programs.
+  - Oil, gas & mining
+  - Zoning & development
+  - Land & property
+  public_comment: true
+- title: 2027 budget and urban renewal finances
+  summary: Council received the 2027 requested budget Sept. 29 and a preliminary budget at an Oct. 17 retreat, and considered an application to exclude revenue from the 5.5% assessed valuation limit. The Urban Renewal Authority reviewed its 2027 draft budget, TIF reimbursements, and a grant extension request from El Rey Del Taco.
   where: Citywide
   refs:
+  - 8
   - 10
-  - 14
-  - 15
+  - 11
+  - 12
   topics:
-  - Housing
+  - Budget & taxes
+  - Economic development
+- title: Koshio Park renovation and Parks and Trails planning
+  summary: Council handled Koshio Park change orders for temporary irrigation and a second change order, plus a park update and gazebo discussion. It also heard the Design Workshop Parks and Trails Vision Plan update.
+  where: Koshio Park
+  refs:
+  - 2
+  - 5
+  - 8
+  - 11
+  - 19
+  - 20
+  topics:
+  - Parks & open space
+  - Recreation & trails
 - title: Police K-9 program
-  summary: Council considered approving a Police K-9 program supported by donations.
+  summary: Council considered and approved a police K-9 program supported by donations, bringing it up Oct. 13 and on the Oct. 20 consent agenda.
   where: Police Department
   refs:
-  - 10
+  - 9
+  - 13
   - 14
-  - 15
   topics:
   - Policing & public safety

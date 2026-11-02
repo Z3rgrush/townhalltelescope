@@ -1,9 +1,6 @@
 # frederick
 
-## [frederick#0] 2026-07-30 | Frederick Arts Committee | agenda
-- 401 Locust Street
-
-## [frederick#1] 2026-08-04 | Board of Trustees | agenda
+## [frederick#0] 2026-08-04 | Board of Trustees | agenda
 - 401 Locust Street
 - 151 Grant Ave., Firestone 80520
 - 206 5th Street
@@ -17,7 +14,7 @@
 - and Crist Park, 105 5th Street
 - Fifth Street, Downtown Frederick
 
-## [frederick#2] 2026-08-08 | Youth Commission | agenda
+## [frederick#1] 2026-08-08 | Youth Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -27,7 +24,7 @@
 - E. Mental Health & Bullying Discussion - how to help
 - I. Notify Sponsors of postponement
 
-## [frederick#3] 2026-08-08 | Youth Commission | agenda
+## [frederick#2] 2026-08-08 | Youth Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -53,7 +50,7 @@
 - discussion occurred
 - Yoga & Talent Show Sign-up: No discussion occurred
 
-## [frederick#4] 2026-08-11 | Historic Preservation Committee | agenda
+## [frederick#3] 2026-08-11 | Historic Preservation Committee | agenda
 - Town Hall, 401 Locust Street
 - Approval of Agenda
 - Special Presentations
@@ -66,7 +63,7 @@
 - Discussion Items
 - E. Grant opportunities and ideas
 
-## [frederick#5] 2026-08-11 | Historic Preservation Committee | agenda
+## [frederick#4] 2026-08-11 | Historic Preservation Committee | agenda
 - Town Hall, 401 Locust Street
 - Approval of Agenda
 - Special Presentations
@@ -89,7 +86,7 @@
 - Miners’ Museum and requested clarification regarding regular cleaning and the
 - work session after the regular meeting to discuss talking points for the Downtown
 
-## [frederick#6] 2026-08-11 | Frederick Arts Committee | agenda
+## [frederick#5] 2026-08-11 | Frederick Arts Committee | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -101,7 +98,7 @@
 - Discussion Items
 - D. Discussion of Engineering Building Mural
 
-## [frederick#7] 2026-08-11 | Frederick Arts Committee | agenda
+## [frederick#6] 2026-08-11 | Frederick Arts Committee | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -128,7 +125,7 @@
 - o #18, Centennial Park, Remove Bears
 - Happy Birthday, Carved by Justin Grant, 2026
 
-## [frederick#8] 2026-08-12 | Parks, Recreation, Open Space & Trails Commission (PROST) | agenda
+## [frederick#7] 2026-08-12 | Parks, Recreation, Open Space & Trails Commission (PROST) | agenda
 - 5830 Bella Rosa Parkway
 - Approval of Agenda
 - Public Comment
@@ -139,13 +136,13 @@
 - E. Golf Course Management Plan
 - G. Parks and Open Space Director's Report - August 2026
 
-## [frederick#9] 2026-08-12 | Frederick Arts Committee | agenda
+## [frederick#8] 2026-08-12 | Frederick Arts Committee | agenda
 - Arts Committee Music In the Park
 
-## [frederick#10] 2026-08-19 | Board of Trustees | agenda
+## [frederick#9] 2026-08-19 | Board of Trustees | agenda
 - 401 Locust Street
 
-## [frederick#11] 2026-08-19 | Board of Trustees | agenda
+## [frederick#10] 2026-08-19 | Board of Trustees | agenda
 - 401 Locust Street
 - A. Finance Quarterly Update and Budget Introduction
 - Approval of Agenda
@@ -160,7 +157,7 @@
 - F. Resolution 26-R-41 which enters into an agreement with Weld County for a
 - Discussion Agenda
 
-## [frederick#12] 2026-08-19 | Board of Trustees | agenda
+## [frederick#11] 2026-08-19 | Board of Trustees | agenda
 - 401 Locust Street
 - A. Finance Quarterly Update and Budget Introduction
 - Approval of Agenda
@@ -202,7 +199,7 @@
 - approved, all of these would be a great benefit for the Frederick community
 -  These will require additional strategizing and discussions to address
 
-## [frederick#13] 2026-08-20 | Planning Commission | agenda
+## [frederick#12] 2026-08-20 | Planning Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -213,7 +210,7 @@
 - A. Approval of Minutes
 - Discussion Items
 
-## [frederick#14] 2026-08-20 | Planning Commission | agenda
+## [frederick#13] 2026-08-20 | Planning Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -232,7 +229,7 @@
 - Planning and Development Coordinator Sara Barnard presented to the Planning
 - ATTEST: Approved by the Planning Commission:
 
-## [frederick#15] 2026-09-02 | Board of Trustees | agenda
+## [frederick#14] 2026-09-02 | Board of Trustees | agenda
 - 401 Locust Street
 - B. Roads and Routes Taskforce Update
 - Approval of Agenda
@@ -255,10 +252,10 @@
 - Issuance of Debt for Transportation Projects
 - Discussion Agenda
 
-## [frederick#16] 2026-09-02 | Board of Trustees | agenda
+## [frederick#15] 2026-09-02 | Board of Trustees | agenda
 - 401 Locust Street
 
-## [frederick#17] 2026-09-02 | Board of Trustees | agenda
+## [frederick#16] 2026-09-02 | Board of Trustees | agenda
 - 401 Locust Street
 - B. Roads and Routes Taskforce Update
 - Approval of Agenda
@@ -304,11 +301,11 @@
 - If the request is for funds exceeding $500.00 please explain why your organization has requested funding beyond the $500.00 grant
 - Please including the following attachments for inclusion in your application
 
-## [frederick#18] 2026-09-08 | General | agenda
+## [frederick#17] 2026-09-08 | General | agenda
 - 401 Locust Street
 - held on Tuesday, October 13, 2026, at 2:30 PM at Town Hall (401 Locust Street). If you have
 
-## [frederick#19] 2026-09-08 | Frederick Arts Committee | agenda
+## [frederick#18] 2026-09-08 | Frederick Arts Committee | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -319,7 +316,7 @@
 - A. Approval of Minutes
 - Discussion Items
 
-## [frederick#20] 2026-09-08 | Frederick Arts Committee | agenda
+## [frederick#19] 2026-09-08 | Frederick Arts Committee | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -339,7 +336,7 @@
 - Other Business: Discussion of planning for next year
 - Approved by the Arts Committee:
 
-## [frederick#21] 2026-09-12 | Youth Commission | minutes
+## [frederick#20] 2026-09-12 | Youth Commission | minutes
 - Approval of Agenda:
 - Public Comment:
 - Approval of May 9, 2026 minutes: This item was moved to the October 10, 2026,
@@ -350,10 +347,10 @@
 - Mental Health & Bullying Discussion - how to help:
 - Notify Sponsors of postponement:
 
-## [frederick#22] 2026-09-16 | Board of Trustees | agenda
+## [frederick#21] 2026-09-16 | Board of Trustees | agenda
 - 401 Locust Street
 
-## [frederick#23] 2026-09-16 | Board of Trustees | agenda
+## [frederick#22] 2026-09-16 | Board of Trustees | agenda
 - 401 Locust Street
 - A. Budget WS
 - Approval of Agenda
@@ -368,7 +365,7 @@
 - Budget Amendment
 - Discussion Agenda
 
-## [frederick#24] 2026-09-16 | Board of Trustees | agenda
+## [frederick#23] 2026-09-16 | Board of Trustees | agenda
 - 401 Locust Street
 - A. Budget WS
 - Approval of Agenda
@@ -414,7 +411,7 @@
 - request funding from the appropriate authorities
 - Requesting records, including executed contracts, purchase orders,
 
-## [frederick#25] 2026-09-17 | Planning Commission | agenda
+## [frederick#24] 2026-09-17 | Planning Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -425,7 +422,7 @@
 - A. Approval of Minutes
 - Discussion Items
 
-## [frederick#26] 2026-09-17 | Planning Commission | agenda
+## [frederick#25] 2026-09-17 | Planning Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -442,6 +439,21 @@
 - Discussion Items:
 - ATTEST: Approved by the Planning Commission:
 
+## [frederick#26] 2026-09-18 | Board of Trustees | agenda
+- 401 Locust Street
+- 151 Grant Ave., Firestone 80520
+- 206 5th Street
+- April 21, 2026, at 6:30 PM Roads Taskforce Meeting
+- Crist Park, 105 5 th Street
+- Series, Crist Park, 105 5th Street
+- Centennial Park, 630 Eighth Street
+- Savannah Park, 6201 ½ Ralston
+- July 21, 2026, 5:30 – 7:00 PM CO Main Street Meeting
+- Town Hall, 401 Locust Street,
+- September 19, 2026, 8:00 AM – 9:00 PM Centennial Park, 630 Eighth Street
+- and Crist Park, 105 5th Street
+- Fifth Street, Downtown Frederick
+
 ## [frederick#27] 2026-09-18 | Board of Trustees | agenda
 - 401 Locust Street
 - 151 Grant Ave., Firestone 80520
@@ -453,27 +465,12 @@
 - Savannah Park, 6201 ½ Ralston
 - July 21, 2026, 5:30 – 7:00 PM CO Main Street Meeting
 - Town Hall, 401 Locust Street,
-- September 19, 2026, 8:00 AM – 9:00 PM Centennial Park, 630 Eighth Street
-- and Crist Park, 105 5th Street
-- Fifth Street, Downtown Frederick
-
-## [frederick#28] 2026-09-18 | Board of Trustees | agenda
-- 401 Locust Street
-- 151 Grant Ave., Firestone 80520
-- 206 5th Street
-- April 21, 2026, at 6:30 PM Roads Taskforce Meeting
-- Crist Park, 105 5 th Street
-- Series, Crist Park, 105 5th Street
-- Centennial Park, 630 Eighth Street
-- Savannah Park, 6201 ½ Ralston
-- July 21, 2026, 5:30 – 7:00 PM CO Main Street Meeting
-- Town Hall, 401 Locust Street,
 - Church, 5860 Majestic Street
 - September 19, 2026, 8:00 AM – 9:00 PM Centennial Park, 630 Eighth Street
 - and Crist Park, 105 5th Street
 - Fifth Street, Downtown Frederick
 
-## [frederick#29] 2026-09-19 | Board of Trustees | agenda
+## [frederick#28] 2026-09-19 | Board of Trustees | agenda
 - 401 Locust Street
 - 151 Grant Ave., Firestone 80520
 - 206 5th Street
@@ -488,7 +485,7 @@
 - and Crist Park, 105 5th Street
 - Fifth Street, Downtown Frederick
 
-## [frederick#30] 2026-09-22 | Frederick Arts Committee | agenda
+## [frederick#29] 2026-09-22 | Frederick Arts Committee | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -498,7 +495,7 @@
 - Consent Agenda and considered at the end of the Consent Agenda
 - Discussion Items
 
-## [frederick#31] 2026-09-24 | Board of Trustees | agenda
+## [frederick#30] 2026-09-24 | Board of Trustees | agenda
 - 401 Locust Street
 - 151 Grant Ave., Firestone 80520
 - 206 5th Street
@@ -515,7 +512,7 @@
 - 4951 Carbide St
 - Fifth Street, Downtown Frederick
 
-## [frederick#32] 2026-10-01 | Board of Trustees | agenda
+## [frederick#31] 2026-10-01 | Board of Trustees | agenda
 - 401 Locust Street
 - 151 Grant Ave., Firestone 80520
 - 206 5th Street
@@ -532,7 +529,7 @@
 - 4951 Carbide St
 - Fifth Street, Downtown Frederick
 
-## [frederick#33] 2026-10-01 | Planning Commission | agenda
+## [frederick#32] 2026-10-01 | Planning Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -549,7 +546,7 @@
 - 7 Annexation, 9 Oil and Gas Drilling and Production, and 13 Definitions
 - Discussion Items
 
-## [frederick#34] 2026-10-01 | Planning Commission | agenda
+## [frederick#33] 2026-10-01 | Planning Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -596,10 +593,10 @@
 - Clarifying language in the Authority section, specifically, when permits are required
 - Article 6 - Approval Process, Vesting of Property Rights, and Enforcement
 
-## [frederick#35] 2026-10-07 | Board of Trustees | agenda
+## [frederick#34] 2026-10-07 | Board of Trustees | agenda
 - 401 Locust Street
 
-## [frederick#36] 2026-10-07 | Board of Trustees | agenda
+## [frederick#35] 2026-10-07 | Board of Trustees | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Special Presentations
@@ -615,7 +612,7 @@
 - G. Boards, Committees, and Commissions Appointments
 - Discussion Agenda
 
-## [frederick#37] 2026-10-07 | Board of Trustees | agenda
+## [frederick#36] 2026-10-07 | Board of Trustees | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Special Presentations
@@ -662,7 +659,7 @@
 - public safety, parks and recreation, golf operations, fleet and facility maintenance,
 - technology services, and water system costs
 
-## [frederick#38] 2026-10-10 | Youth Commission | agenda
+## [frederick#37] 2026-10-10 | Youth Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -675,7 +672,7 @@
 - H. Mental Health & Bullying Discussion - how to help
 - L. Notify Sponsors of postponement
 
-## [frederick#39] 2026-10-10 | Youth Commission | agenda
+## [frederick#38] 2026-10-10 | Youth Commission | agenda
 - 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -724,7 +721,7 @@
 - Note: You should consult with the Town Attorney when discussing legal issues to
 - Discuss any possible alternatives or other options that were considered or that may be
 
-## [frederick#40] 2026-10-13 | Historic Preservation Committee | agenda
+## [frederick#39] 2026-10-13 | Historic Preservation Committee | agenda
 - Town Hall, 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -735,7 +732,7 @@
 - I. Donations - Plan and Process to Log Donations
 - J. Other Discussion Topics
 
-## [frederick#41] 2026-10-13 | Historic Preservation Committee | agenda
+## [frederick#40] 2026-10-13 | Historic Preservation Committee | agenda
 - Town Hall, 401 Locust Street
 - Approval of Agenda
 - Public Comment
@@ -776,7 +773,7 @@
 - o Identify and protect historical resources that represent Frederick’s evolution from a mining town to
 - o Establish strategies for encouraging voluntary designation and preservation
 
-## [frederick#42] 2026-10-14 | Parks, Recreation, Open Space & Trails Commission (PROST) | minutes
+## [frederick#41] 2026-10-14 | Parks, Recreation, Open Space & Trails Commission (PROST) | minutes
 - Approval of Agenda: The Agenda was approved as-is
 - Public Comment: There were no members of the community present
 - Discussion Items:
@@ -785,7 +782,7 @@
 - Parks and Open Space Department. He also previewed the next meeting's Agenda,
 - which will be a larger discussion on the future role of PROST and how we'll start
 
-## [frederick#43] 2026-10-17 | Board of Trustees | agenda
+## [frederick#42] 2026-10-17 | Board of Trustees | agenda
 - 401 Locust Street
 - 151 Grant Ave., Firestone 80520
 - 206 5th Street
@@ -802,13 +799,13 @@
 - 4951 Carbide St
 - Fifth Street, Downtown Frederick
 
-## [frederick#44] 2026-10-17 | General | agenda
+## [frederick#43] 2026-10-17 | General | agenda
 - 311 Fifth Street,
 
-## [frederick#45] 2026-10-21 | Board of Trustees | agenda
+## [frederick#44] 2026-10-21 | Board of Trustees | agenda
 - 401 Locust Street
 
-## [frederick#46] 2026-10-21 | Board of Trustees | agenda
+## [frederick#45] 2026-10-21 | Board of Trustees | agenda
 - 401 Locust Street
 - B. Fee Schedule
 - Approval of Agenda
@@ -832,7 +829,7 @@
 - elected official; the appointment of any person to fill an office of this body or of
 - an elected official; or personnel policies that do not require the discussion of
 
-## [frederick#47] 2026-10-21 | Board of Trustees | agenda
+## [frederick#46] 2026-10-21 | Board of Trustees | agenda
 - 401 Locust Street
 - B. Fee Schedule
 - Approval of Agenda
@@ -879,3 +876,42 @@
 - Contractor/owner name, permit #, address, & permit
 - Arthur Duvall I am requesting all records regarding my basement
 - permitting this past year. I am having troubles with
+
+## [frederick#47] 2026-10-27 | Frederick Arts Committee | agenda
+- 401 Locust Street
+- Approval of Agenda
+- Public Comment
+- Consent Agenda items are considered to be routine and will be enacted by one motion
+- and vote. There will be no separate discussion of Consent Agenda Items unless a Arts
+- Committee member so requests, in which case the item may be removed from the
+- Consent Agenda and considered at the end of the Consent Agenda
+- A. Approval of Minutes
+- Discussion Items
+
+## [frederick#48] 2026-10-27 | Frederick Arts Committee | agenda
+- 401 Locust Street
+- Approval of Agenda
+- Public Comment
+- Consent Agenda items are considered to be routine and will be enacted by one motion
+- and vote. There will be no separate discussion of Consent Agenda Items unless a Arts
+- Committee member so requests, in which case the item may be removed from the
+- Consent Agenda and considered at the end of the Consent Agenda
+- A. Approval of Minutes
+- Discussion Items
+- Approval of Agenda: No changes to the Agenda
+- Public Comment: No public comment
+- Lewis to approve the consent agenda as presented
+- Approval of Minutes:
+- Discussion Items:
+- Concert Dates for Next Year : The Arts Committee discussed having their summer
+- Upcoming Meetings : The Arts Committee discussed moving their October meeting
+- Lewis to approve the RFP with the following changes: addition of name/ business
+- name, The budget for the project is 19,000.00 to include all costs, and Submissions are
+- Member Lewis to approve placing the wood carving on the concrete pad in Crist Park
+- Other Business: The Arts Committee discussed hiring a balloon artist for the
+- Approved by the Arts Committee:
+- Also present were Economic Development Manager Liesha Talley and Deputy Town
+- Frights on Fifth Arts Committee Involvement: Economic Development Manager Leisha
+- Other Business: The Arts Committee discussed keeping the RFP at $19,000 and to
+- either coordinate with Economic Development to supplement the difference for balloon
+- artists, or use Maintenance budget for the Arts Committee

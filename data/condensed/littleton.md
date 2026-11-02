@@ -1,13 +1,9 @@
 # littleton
 
-## [littleton#0] 2026-07-28 | City Council | agenda
-- 1. Presentation_ACBAttachments:
-- 3. Presentation_Arts and Culture EIS
-
-## [littleton#1] 2026-08-10 | Planning Commission | agenda
+## [littleton#0] 2026-08-10 | Planning Commission | agenda
 - 1. Presentation - Transition StandardsAttachments:
 
-## [littleton#2] 2026-08-11 | City Council | agenda
+## [littleton#1] 2026-08-11 | City Council | agenda
 - Geneva Village Site Redevelopment Process Options Discussiona) ID# 26-150
 - 2. Presentation_Geneva Village Advisory Services
 - Utility Rate Study Results Discussion - Part 2b) ID# 26-155
@@ -17,7 +13,7 @@
 - 3. Presentation_FCS Group to City of Englewood_Nov 2022
 - 4. Presentation_SPR Governance Analysis_Hazen
 
-## [littleton#3] 2026-08-17 | Historical Preservation Commission | agenda
+## [littleton#2] 2026-08-17 | Historical Preservation Commission | agenda
 - 3. Approval of Agenda
 - 4. Minutes to be Approved
 - Certification of the April 20, 2026 Transitional & Regular Meeting Minutesa) ID# 26-093
@@ -40,7 +36,7 @@
 - 8. Presentation_HPC Res #04-2026
 - I. Community Development Staff
 
-## [littleton#4] 2026-08-18 | City Council | agenda
+## [littleton#3] 2026-08-18 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations - None
 - 6. Public Comment
@@ -84,13 +80,13 @@
 - Speakers wishing to address council as part of a public hearing will be limited to three (3) minutes and will be
 - called upon when the mayor opens the public comment portion of the hearing
 
-## [littleton#5] 2026-08-25 | City Council | agenda
+## [littleton#4] 2026-08-25 | City Council | agenda
 - 1. Presentation_BSC Basis of Design Program OptionsAttachments:
 - E-Bike and E-Motor Safety Ordinance Discussionb) ID# 26-159
 - 1. E-Bike Ordinance_DRAFT
 - 2. Presentation_E-Bikes
 
-## [littleton#6] 2026-09-01 | City Council | agenda
+## [littleton#5] 2026-09-01 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations
 - Funding grant recipient)
@@ -135,7 +131,7 @@
 - called upon when the mayor opens the public comment portion of the hearing
 - Ordinance 17-2026: An ordinance on second reading amending the city
 
-## [littleton#7] 2026-09-08 | City Council | agenda
+## [littleton#6] 2026-09-08 | City Council | agenda
 - 2. Presentation_TMB
 - Safer Streets Updateb) ID# 26-172
 - 1. Presentation_Safer Streets UpdateAttachments:
@@ -143,7 +139,7 @@
 - 1. Economic Partnership Incentive Policy - Proposed Update_Draft
 - 2. Presentation_Economic Development Strategies
 
-## [littleton#8] 2026-09-15 | City Council | agenda
+## [littleton#7] 2026-09-15 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations
 - a) South Metro Fire Rescue (John Curtis, Fire Chief; and Phil McCart, Board Director – Dist. 4)
@@ -188,7 +184,7 @@
 - Resolution 63-2026: Approving an Economic Partnership Incentive
 - Agreement between the City of Littleton, RIG Mineral LLC and Scheels All
 
-## [littleton#9] 2026-09-16 | Appeals & Adjustment Commission | agenda
+## [littleton#8] 2026-09-16 | Appeals & Adjustment Commission | agenda
 - 3. Approval of Agenda
 - 4. Minutes to be Approved
 - Certification of the April 15, 2026 transitional & regular meeting minutes of
@@ -228,27 +224,27 @@
 - I. Community Development Director
 - II. Community Development Staff
 
-## [littleton#10] 2026-09-22 | City Council | agenda
+## [littleton#9] 2026-09-22 | City Council | agenda
 - Main Street Investment Strategiesa) ID# 26-183
 - 1. Presentation_Main Street Investment StrategyAttachments:
 - 3. Presentation_2026 Littleton Residential Survey
 - 1. Presentation_ Communications UpdateAttachments:
 
-## [littleton#11] 2026-09-28 | Planning Commission | agenda
+## [littleton#10] 2026-09-28 | Planning Commission | agenda
 - Discussion for potential topics for Planning Commission joint study
 - 1. Presentation - Joint Study Session TopicsAttachments:
 - Unified Land Use Code (ULUC) Update Preview Discussionb) ID# 26-186
 - 9.28 Study Session_Planning Commission PresentationAttachments:
 
-## [littleton#12] 2026-10-06 | City Council | agenda
+## [littleton#11] 2026-10-06 | City Council | agenda
 - Charter for purpose of discussing performance evaluations for the city manager and city attorney
 
-## [littleton#13] 2026-10-13 | City Council | agenda
+## [littleton#12] 2026-10-13 | City Council | agenda
 - 2. Presentation_HPC Joint Study Session
 - Planning Commission Joint Study Session - Discussion on priorities and
 - 1. Presentation_PC Joint Study SessionAttachments:
 
-## [littleton#14] 2026-10-14 | Licensing Commission | agenda
+## [littleton#13] 2026-10-14 | Licensing Commission | agenda
 - 3. Approval of the Agenda
 - 4. Minutes to be Approved
 - Certification of the April 8, 2026 transitional & regular meeting minutesa) ID# 26-079
@@ -266,7 +262,7 @@
 - b) LC Resolution
 - 1. LC Resolution 02-2026
 
-## [littleton#15] 2026-10-20 | City Council | agenda
+## [littleton#14] 2026-10-20 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Scheduled Appearances and Presentations - None
 - 6. Public Comment
@@ -315,3 +311,7 @@
 - Motion to approve minutes for the September 29, 2026, special meeting of
 - Motion to approve minutes for the October 6, 2026, special meeting of
 - Motion to approve minutes for the October 6, 2026, regular meeting of
+
+## [littleton#15] 2026-10-27 | City Council | agenda
+- Geneva Village Redevelopment Advisory Team Recommendationa) ID# 26-219
+- 1. Presentation_GV RedevlopmentAttachments:

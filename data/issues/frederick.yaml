@@ -1,91 +1,133 @@
-- title: Roads and Routes transportation sales tax ballot measure
-  summary: Trustees put a 1% transportation sales tax and related debt question on the November ballot to fund the Roads and Routes program, and discussed it at several meetings.
+- title: Roads & Routes 1% transportation sales tax and debt ballot measures
+  summary: The Board scheduled ballot language for a sales and use tax for transportation infrastructure (Ordinance 1422) and authorization to issue debt for transportation projects (Ordinance 1423). A Roads and Routes Taskforce update was on the Sept. 2 agenda, staff ran a communications campaign with video and FAQs, and Resolution 26-R-46 in support of the road tax was on the Oct. 7 agenda.
   where: Townwide
   refs:
-  - 12
-  - 15
-  - 24
+  - 11
+  - 14
+  - 16
+  - 23
+  - 35
   - 36
   topics:
   - Roads & traffic
   - Budget & taxes
   - Elections
-- title: Land use code amendments and retail marijuana ban
-  summary: The planning commission and trustees worked through land use code amendments, including a ban on retail marijuana businesses.
+- title: Land Use Code bi-annual amendments (Ordinance 1425), including marijuana retail ban
+  summary: The Planning Commission recommended amendments to Articles 2, 3, 4, 5, 6, 7, 9 and 13 of the Land Use Code. The package creates a marijuana retail sales use and prohibits it in all zoning districts, changes the permitted animals list, and clarifies parking and loading language. The Board of Trustees scheduled a public hearing on Ordinance 1425 for Oct. 21.
   where: Townwide
   refs:
+  - 32
   - 33
-  - 34
+  - 45
   - 46
   topics:
-  - Cannabis & liquor
   - Zoning & development
-- title: Water resources and the Firestone water case
-  summary: Trustees discussed water supply issues, including opposing Firestone's water court case and treating a reservoir for phosphorus.
-  where: Town reservoirs
-  refs:
-  - 12
-  - 47
-  topics:
-  - Water
-  - Lawsuits & legal
-  - Environment & climate
-- title: Public Works and Parks campus
-  summary: Trustees discussed plans for a new combined Public Works and Parks campus.
+  - Cannabis & liquor
+  - Agriculture & wildlife
+- title: Town water rights, leases and reservoir treatment
+  summary: Water Resources staff made a water lease agreement with the Wyndham Hill Metropolitan District, filed a Statement of Opposition in water court case 2026CW3081, and submitted the annual water audit. The Town also received a discharge permit (effective Sept. 1, 2026) to treat a reservoir with phosphorus inactivation to curb algae blooms. Payments included $198,000 in Central Weld County Water District tap fees and $25,314 for Lower Boulder change-of-use work.
   where: Townwide
   refs:
-  - 12
+  - 11
+  - 36
+  - 46
   topics:
-  - Government operations
-  - Parks & open space
-- title: Historic preservation plan
-  summary: The town took up a historic preservation plan for its older buildings and downtown.
-  where: Historic downtown
-  refs:
-  - 40
-  - 41
-  topics:
-  - Historic preservation
-  - Downtown & business
-- title: Public art murals and carvings
-  summary: The arts commission reviewed new murals and carvings for public spaces.
+  - Water
+  - Environment & climate
+  - Lawsuits & legal
+- title: Parks water, urban forestry and golf course management plans and design standards
+  summary: The PROST Commission reviewed final updates on the Parks Water Management Plan, Urban Forestry Management Plan and Golf Course Management Plan, which are headed for adoption this fall. The Planning Commission also held a work session on Parks, Open Space and Trails Design Standards.
   where: Townwide
   refs:
   - 7
-  - 20
+  - 11
+  - 13
+  - 41
   topics:
-  - Libraries & culture
-- title: Youth commission work on mental health and bullying
-  summary: The youth commission focused on student mental health and bullying prevention.
+  - Parks & open space
+  - Water
+  - Recreation & trails
+- title: Public Works & Parks Campus construction
+  summary: Phase 1 (Building A and site improvements) of the new Public Works & Parks Campus is near completion. Phase 2, including the Fleet Shop and Warehouse, is underway with concrete footings starting.
+  where: Public Works & Parks Campus
+  refs:
+  - 11
+  - 36
+  topics:
+  - Government operations
+  - Budget & taxes
+- title: Budget amendment, fee schedule and finance updates
+  summary: The Board held a quarterly finance update and budget introduction (Aug. 19), a budget work session and Ordinance 1424 for a budget amendment (Sept. 16 and Oct. 7), and a fee schedule review on Oct. 21.
   where: Townwide
   refs:
-  - 2
+  - 10
+  - 11
+  - 22
+  - 23
+  - 36
+  - 45
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Engineering Building mural and public art
+  summary: The Arts Committee is pursuing a mural on the Engineering Building and approved an RFP with a $19,000 budget covering all costs. It also approved new wood carvings in Centennial Park and Crist Park, and discussed hiring a balloon artist for Frights on Fifth.
+  where: Engineering Building; Centennial Park, 630 Eighth Street; Crist Park, 105 5th Street
+  refs:
+  - 5
+  - 6
+  - 19
+  - 48
+  topics:
+  - Libraries & culture
+  - Downtown & business
+- title: Historic Preservation Plan, Miners' Museum and Certified Local Government status
+  summary: The Historic Preservation Committee worked on plan goals, museum open dates and cleaning, Music in the Park museum hours, and plaques for founding families. Staff plan to pursue State Historic Fund grants and are waiting on History Colorado about the Town's Certified Local Government application. A resident, Mike Sindelar, spoke to the Committee.
+  where: Miners' Museum, Frederick
+  refs:
   - 3
+  - 4
+  - 39
+  - 40
+  topics:
+  - Historic preservation
+  - Libraries & culture
+  public_comment: true
+- title: Wheatlands plat extension and Del Camino South property conveyance to KO Industrial
+  summary: The Board considered Resolution 26-R-43 extending the Wheatlands Preliminary Plat expiration date. It also considered Ordinance 1421 conveying Tract B of Del Camino South Replat of Outlot A to KO Industrial, LLC and vacating drainage, utility and access easements.
+  where: Wheatlands; Del Camino South Replat of Outlot A
+  refs:
+  - 14
+  - 16
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Fire district maintenance facility agreement and Weld County agreement
+  summary: The Board considered Resolution 26-R-40, a notice of termination of the Maintenance Facility intergovernmental agreement with the fire district (FFFD), and Resolution 26-R-41, an agreement with Weld County.
+  where: Townwide
+  refs:
+  - 10
+  - 11
+  topics:
+  - Fire & emergencies
+  - Government operations
+- title: Youth Commission funding, Youth Day and mental health discussion
+  summary: The Youth Commission's grant funding failed, so it must seek sponsors and plans presentations to Erie, Firestone and Dacono boards. Youth Day planning was postponed over budget limits, and the mental health and bullying discussion and minutes were repeatedly pushed back to October.
+  where: 401 Locust Street
+  refs:
+  - 1
+  - 2
+  - 20
+  - 37
   - 38
   topics:
   - Schools & youth
   - Health & human services
-- title: Parks, open space and trails design standards
-  summary: The town reviewed new design standards for parks, open space and trails.
+- title: Community grant request for rent and utility assistance
+  summary: A nonprofit applied for a Town of Frederick Community Grant to support its rent and utility assistance program, citing support from other local governments and businesses. The application noted that requests above $500 require an explanation.
   where: Townwide
   refs:
-  - 14
+  - 16
   topics:
-  - Parks & open space
-  - Recreation & trails
-  - Zoning & development
-- title: Wheatlands plat expiration and KO Industrial land
-  summary: Trustees dealt with the expiration of the Wheatlands plat and a land conveyance for the KO Industrial site.
-  where: Wheatlands, KO Industrial
-  refs:
-  - 15
-  topics:
-  - Land & property
-  - Zoning & development
-- title: 2027 budget
-  summary: The 2027 town budget was introduced to trustees.
-  where: Townwide
-  refs:
-  - 11
-  topics:
-  - Budget & taxes
+  - Health & human services
+  - Homelessness
+  public_comment: true

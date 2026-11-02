@@ -519,87 +519,53 @@
 - 4. Discussion Items
 - d. ACES 2027 Workplan
 
-## [superior#26] 2026-10-12 | Town Council | agenda
+## [superior#26] 2026-10-12 | Town Council | minutes
 - c. Approval of Agenda
+- Motion: Council Member Cracraft moved to approve the agenda as written,
 - e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
-- Persons making public comment are asked to state your name and the city
-- 2. Presentations
-- 3. Project Updates
+- Persons making public comment are asked to state your name and the city you
+- Public Comment given by:
+- Presentations
+- Presentation given by Alexis Bullen, Sustainability Manager and
+- Project Updates
 - a. Pirate Park Project Update
+- Update given by Jordan Hayes, Project Manager
 - b. Rock Creek Parkway, Community Center, North and South Pools —
 - Construction Project Updates
+- Motion: Council Member Cracraft moved to approve the consent agenda,
 - a. Approval of Council Meeting Minutes
 - d. Consideration of a Resolution Adopting Waterwise Landscape Transformation
 - Roadmap and Non-Functional Turfgrass Reduction Prioritization Tool
 - e. Consideration of a Resolution Approving the Northern Water Southern Water
 - Supply Project Allotment Amendment
-- 5. Public Hearing
+- Public Hearing
+- Presentation of the 2027 Budget given by Jeff Stone, Finance Director
 - a. Public Hearing - Consideration of Resolution of the Town Council of the Town
 - of Superior, Adopting the Town's 2027 Budget and Approving the Town's 2027
 - Appropriations, Adopting a Fee Schedule and Levying Property Taxes for 2027
+- Motion: Mayor Lacis moved to approve a resolution adopting the Town's 2027
 - i. Fee Schedule Resolution
+- Motion: Mayor Lacis moved to approve a resolution adopting the 2027 fee
 - ii. Property Tax Resolution
+- Motion: Mayor Lacis moved to approve a resolution levying property taxes for
 - b. Public Hearing — Consideration of Resolution of the Board of Directors of the
 - Superior/McCaslin Interchange Metropolitan District Approving
 - Superior/McCaslin Interchange Metropolitan District (SMID) 2027 Budget and
 - Levying Property Taxes
+- Motion: President Lacis moved to approve a resolution adopting a budget,
+- levying property taxes and appropriating sums of money for 2027 , seconded
 - c. Public Hearing - Consideration of Resolution of the Board of Commissioners of
 - the Superior Urban Renewal Authority Approving the Superior Urban Renewal
 - Authority (SURA) 2027 Budget
+- Motion: Chair Lacis moved to approve a Resolution adopting a budget and
 - d. Public Hearing - Consideration of Resolution of the Board of Directors of the
 - Superior Metropolitan District No. 1 Approving the Superior Metropolitan
 - District No. 1 (SMD#1) 2027 Budget and Amending Appendix A of the District's
+- Motion: President Lacis moved to approve a resolution adopting the budget
 - a. Executive Session for the purposes of discussion of a personnel matter not
 - involving any specific employees who have requested discussion of the matter
-- appointment of any person to fill an office of this body or of an elected official,
-- or personnel policies that do not require the discussion of matters personal to
-- subject to negotiations, develop a strategy for negotiations, and/or instruct
-- Public comments regarding general Town Council agenda items that are not a public hearing
 
-## [superior#27] 2026-10-12 | Town Council | agenda
-- c. Approval of Agenda
-- e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
-- Persons making public comment are asked to state your name and the city
-- 2. Presentations
-- 3. Project Updates
-- a. Pirate Park Project Update
-- b. Rock Creek Parkway, Community Center, North and South Pools —
-- Construction Project Updates
-- a. Approval of Council Meeting Minutes
-- d. Consideration of a Resolution Adopting Waterwise Landscape Transformation
-- Roadmap and Non-Functional Turfgrass Reduction Prioritization Tool
-- e. Consideration of a Resolution Approving the Northern Water Southern Water
-- Supply Project Allotment Amendment
-- 5. Public Hearing
-- a. Public Hearing - Consideration of Resolution of the Town Council of the Town
-- of Superior, Adopting the Town's 2027 Budget and Approving the Town's 2027
-- Appropriations, Adopting a Fee Schedule and Levying Property Taxes for 2027
-- i. Fee Schedule Resolution
-- ii. Property Tax Resolution
-- b. Public Hearing — Consideration of Resolution of the Board of Directors of the
-- Superior/McCaslin Interchange Metropolitan District Approving
-- Superior/McCaslin Interchange Metropolitan District (SMID) 2027 Budget and
-- Levying Property Taxes
-- c. Public Hearing - Consideration of Resolution of the Board of Commissioners of
-- the Superior Urban Renewal Authority Approving the Superior Urban Renewal
-- Authority (SURA) 2027 Budget
-- d. Public Hearing - Consideration of Resolution of the Board of Directors of the
-- Superior Metropolitan District No. 1 Approving the Superior Metropolitan
-- District No. 1 (SMD#1) 2027 Budget and Amending Appendix A of the District's
-- a. Executive Session for the purposes of discussion of a personnel matter not
-- involving any specific employees who have requested discussion of the matter
-- appointment of any person to fill an office of this body or of an elected official,
-- or personnel policies that do not require the discussion of matters personal to
-- subject to negotiations, develop a strategy for negotiations, and/or instruct
-- Public comments regarding general Town Council agenda items that are not a public hearing
-- Presented For: Presentation
-- Operations Manager, plan to attend the meeting this evening to discuss and answer questions
-- operates, contamination of both recycling and organics streams, vehicles blocking containers,
-- combustion engine garbage trucks have an uptime of around 80%, so a significant improvement
-- have a single-hauler contract but are looking at them in the context of a future request for
-- company, which are fully integrated front-loading EV collection vehicles. Republic is projecting
-
-## [superior#28] 2026-10-14 | Open Space Advisory Committee (OSAC) | agenda
+## [superior#27] 2026-10-14 | Open Space Advisory Committee (OSAC) | agenda
 - b. Agenda Approval
 - c. Public Comment (limit 5 minutes/person)
 - 3. OSAC Discussion Items
@@ -613,7 +579,7 @@
 - Q2: Have there been complaints about debris in recycled water clogging up irrigation heads?
 - Q3: When will the irrigation recycled water be turned off?
 
-## [superior#29] 2026-10-16 | Superior Historical Commission (SHC) | agenda
+## [superior#28] 2026-10-16 | Superior Historical Commission (SHC) | agenda
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - ii. Marshall Fire Remembrance subcommittee
@@ -622,7 +588,7 @@
 - i. Q4 2026 Budget report
 - ii. Grasso grant status
 
-## [superior#30] 2026-10-21 | Parks and Recreation Advisory Committee (PARC) | agenda
+## [superior#29] 2026-10-21 | Parks and Recreation Advisory Committee (PARC) | agenda
 - Parks and Recreation Advisory Committee (PARC)
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
@@ -634,7 +600,7 @@
 - g. PARC discretionary budget update, end of year PARC swag order?
 - Projects: Pirate Park, North Pool, South Pool, SCC; Volunteer Open House
 
-## [superior#31] 2026-10-22 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | agenda
+## [superior#30] 2026-10-22 | Cultural Arts and Public Spaces Advisory Committee (CAPS) | agenda
 - b. Approval of Agenda
 - c. Public Comment (limit 5 minutes/person)
 - a. Q4 2026 budget report
@@ -645,11 +611,21 @@
 - a. 2027 Work Plan
 - b. CAPS Resolution
 
-## [superior#32] 2026-10-26 | Town Council | agenda
+## [superior#31] 2026-10-26 | Town Council | minutes
 - c. Approval of Agenda
+- Mayor Lacis asked for motion to approve the agenda. Council Member asked
+- Volunteer and Commission Reception, Marshall Fire 5 Year Resiliance Event
 - e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
 - Persons making public comment are asked to state your name and the city you
+- Mayor Lacis opened public comment at 6:32 p.m
+- of Superior. Spoke in favor of Vargas contract for landscape and the services
+- 2. Dalton Valet spoke in favor of the Marshal Fire Remembrance proposal on
+- tonight's agenda, recommended approving Vargas maintenance contract, and
+- He spoke in favor of passing the Vargas contract
+- Mayor Lacis closed Public Comment at 6:42 p.m
 - a. Advisory Committee Interviews for Parks and Recreation Advisory Committee
+- that 3.f be discussed first and 3.c. be discussed second. Mayor Lacis asked for a
+- motion for the amended Consent Agenda
 - a. Approval of Council Meeting Minutes
 - c. Consideration of a Resolution of the Town Council of the Town of Superior
 - Approving an Agreement with Colorado Gives Foundation
@@ -661,6 +637,8 @@
 - f. Consideration of a Resolution of the Town Council of the Town of Superior
 - Approving an Agreement with Make Philanthropy Work to be the Fundraising
 - Campaign Advisor for the Marshall Fire Remembrance Project
+- Mayor Lacis opened the discussion of Consent Agenda item 3.f. at 7:04 p.m
+- Council members asked questions of Leslie Clark, Director of Parks and
 - g. Consideration of a Resolution of the Town Council of the Town of Superior
 - Approving a Fourteenth Amendment to the Employment Agreement with
 - h. Consideration of a Resolution of the Town Council of the Town of Superior
@@ -672,57 +650,5 @@
 - Approving SYLC Appointments
 - a. Consideration of a Resolution of the Town Council of the Town of Superior
 - Approving Appointments to the Parks and Recreation Advisory Committee
+- appointed to PARC
 - b. A Resolution of the Town Council of the Town of Superior Approving CAPS Art
-- Purchase Recommendations
-- Approving a Landscape Agreement with Vargas Property Services
-- 5. Public Hearings for the following Budget Amendments for the Town Council of the
-- a. Consideration of Resolution of the Town Council of the Town of Superior
-- Approving a Supplemental Budget and Appropriations for 2026
-- b. Consideration of Resolution of the Board of Commissioners of the Superior
-- Urban Renewal Authority Approving a Supplemental Budget and
-- c. Consideration of Resolution of the Board of Directors of the Superior
-- Metropolitan District No. 1 Approving a Supplemental Budget and
-- developing strategy for negotiations; and instructing negotiators, regarding the
-- extension of a tolling agreement between the Town and the Rock Creek HOA
-- Public comments regarding general Town Council agenda items that are not a public hearing
-
-## [superior#33] 2026-10-26 | Town Council | agenda
-- c. Approval of Agenda
-- e. Public comment on Consent Agenda, Presentations, and Non-Agenda Items
-- Persons making public comment are asked to state your name and the city you
-- a. Advisory Committee Interviews for Parks and Recreation Advisory Committee
-- a. Approval of Council Meeting Minutes
-- c. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving an Agreement with Colorado Gives Foundation
-- d. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving Colorado Park and Wildlife (CPW) Trail Grant Submission
-- e. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving an Intergovernmental Agreement with Boulder County for
-- Housing Development to Implement Proposition 123
-- f. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving an Agreement with Make Philanthropy Work to be the Fundraising
-- Campaign Advisor for the Marshall Fire Remembrance Project
-- g. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving a Fourteenth Amendment to the Employment Agreement with
-- h. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving a Legal Services Agreement with Hoffmann, Parker, Wilson &
-- i. A Resolution of the Board of Directors of the Superior Metropolitan District No
-- 1 approving a Change Order with Direct Discharge Consulting, LLC, for the
-- 2027 Water and Wastewater Treatment Plant Operations
-- j. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving SYLC Appointments
-- a. Consideration of a Resolution of the Town Council of the Town of Superior
-- Approving Appointments to the Parks and Recreation Advisory Committee
-- b. A Resolution of the Town Council of the Town of Superior Approving CAPS Art
-- Purchase Recommendations
-- Approving a Landscape Agreement with Vargas Property Services
-- 5. Public Hearings for the following Budget Amendments for the Town Council of the
-- a. Consideration of Resolution of the Town Council of the Town of Superior
-- Approving a Supplemental Budget and Appropriations for 2026
-- b. Consideration of Resolution of the Board of Commissioners of the Superior
-- Urban Renewal Authority Approving a Supplemental Budget and
-- c. Consideration of Resolution of the Board of Directors of the Superior
-- Metropolitan District No. 1 Approving a Supplemental Budget and
-- developing strategy for negotiations; and instructing negotiators, regarding the
-- extension of a tolling agreement between the Town and the Rock Creek HOA
-- Public comments regarding general Town Council agenda items that are not a public hearing

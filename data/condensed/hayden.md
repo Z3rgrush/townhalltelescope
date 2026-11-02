@@ -1,42 +1,6 @@
 # hayden
 
-## [hayden#0] 2026-07-30 | Hayden Planning Commission | agenda
-- assistance in order to attend any of the Town’s public meetings or events, please notify the Town of
-- 3. PUBLIC COMMENTS
-- a. Spruce Summit Master Plan Amendment-The Town of Hayden has submitted an application
-- (Application) for a Master Plan Amendment under Hayden’s Development Code (HDC). The
-- application requests to change the future land use designation for a 73-acre parcel located at the NW
-- approved, the applicant will be pursue a rezone of the property from Commercial to I -2 Industrial
-- b. Spruce Summit Rezone - The Town of Hayden has submitted an application (Application) for a rezone
-- under Hayden’s Development Code (HDC). The application requests a rezone for a 73 -acre parcel
-- Commercial to a new zone of I-2 Industrial District. If approved, the applicant plans to develop the
-- property for the use of battery and energy storage systems (through a future major site plan
-- application)
-- AGENDA ITEM TITLE: Spruce Summit Master Plan Amendment
-- PRESENTED BY: Ty Johnson, Contract Planner
-- ATTACHMENTS: Application Submittal; Town Engineer Comments
-- The Town of Hayden has submitted an application (Application) for a Master Plan Amendment under
-- Hayden’s Development Code (HDC). The application requests to change the future land use designation
-- Industrial/Business/Light Industrial (IBLI). If approved, the applicant will be pursue a rezone of the
-- The Future Land Use Plan guides the type, location, and intensity of future development within the Town
-- and its potential growth areas. It will be used by Town leadership to help guide future annexation and zoning
-- requests, inform updates to the land use code, track the Town’s capacity and absorption of future
-- development, inform infrastructure and facility planning and provide growth that is supportive of
-- COMPLIANCE WITH THE TOWN OF HAYDEN DEVELOPMENT CODE
-- checklist to highlight the regulations directly applicable to this application and how it meets the standards
-- for approval. Interested parties are encouraged to review the HDC to determine if there are other
-- regulations that may be applicable to the review of this Application
-- Chapter 10.16 – Development Review Procedures
-- 10.16.020(3) Step 3: Application Processing
-- X 10.16.020(3)(a) Determination of Completeness. A development
-- application shall be reviewed for completeness by
-- The development application was deemed complete
-- X 10.16.020(3)(b) Referral to Other Agencies. Development
-- applications may be referred to other agencies for
-- Hayden Police Department, Hayden Building
-- Department, CDOT , West Routt Fire Protection
-
-## [hayden#1] 2026-08-06 | Northwest Colorado General Improvement District | agenda
+## [hayden#0] 2026-08-06 | Northwest Colorado General Improvement District | agenda
 - GID’s public meetings or events, please notify the GID at (970) 276-3741
 - NORTHWEST COLORADO GENERAL IMPROVEMENT
 - 2. PUBLIC COMMENTS
@@ -50,7 +14,7 @@
 - the motion passed unanimously to bring this Resolution back to the next meeting as amended to reflect
 - APPROVED THIS xxh DAY OF xx, 2026
 
-## [hayden#2] 2026-08-06 | Hayden Municipal Housing Authority | agenda
+## [hayden#1] 2026-08-06 | Hayden Municipal Housing Authority | agenda
 - HAYDEN MUNICIPAL HOUSING AUTHORITY MEETING
 - 1. PUBLIC COMMENTS
 - Consent agenda items are considered to be routine and will be considered for adoption by one motion. There will be
@@ -65,7 +29,7 @@
 - should be out soon. Rent increases are expected to start August 1st at $900. There are grants pending that could
 - APPROVED THIS 23rd DAY OF JULY, 2026
 
-## [hayden#3] 2026-08-19 | Hayden Parks & Recreation Board | minutes
+## [hayden#2] 2026-08-19 | Hayden Parks & Recreation Board | minutes
 - HAYDEN PARKS AND RECREATION MEETING
 - 3. READING AND APPROVAL OF THE MINUTES - Matt approved the minutes. Connor
 - creating an outdoor pickleball court. He would like to consider splitting the court to make
@@ -80,7 +44,7 @@
 - 1. Discussed to add a clause that if a member moves during their term but
 - b. 3rd Street Park – Update
 
-## [hayden#4] 2026-09-16 | Hayden Parks & Recreation Board | minutes
+## [hayden#3] 2026-09-16 | Hayden Parks & Recreation Board | minutes
 - assistance in order to attend any of the Town’s public meetings or events, please notify the Town of Hayden at
 - HAYDEN PARKS AND RECREATION MEETING
 - 3. READING AND APPROVAL OF THE MINUTES - Erica motions for approval of the minutes. Dan
@@ -96,7 +60,7 @@
 - Raised a lot of discussion. HPR would like check further into the possible change for
 - b. 3rd Street Park – Update
 
-## [hayden#5] 2026-10-15 | Hayden Municipal Housing Authority | agenda
+## [hayden#4] 2026-10-15 | Hayden Municipal Housing Authority | agenda
 - HAYDEN MUNICIPAL HOUSING AUTHORITY MEETING
 - 1. PUBLIC COMMENTS
 - 2. PRESENTATIONS – 2027-2029 DRAFT BUDGET
@@ -129,7 +93,7 @@
 - The citizen committee for the data center moratorium study will be announced shortly. Council asked that Staff
 - to draft letters to State and Federal Representatives on bills concerning data centers and related legislation, to
 
-## [hayden#6] 2026-10-15 | Northwest Colorado General Improvement District | agenda
+## [hayden#5] 2026-10-15 | Northwest Colorado General Improvement District | agenda
 - GID’s public meetings or events, please notify the GID at (970) 276-3741
 - NORTHWEST COLORADO GENERAL IMPROVEMENT
 - 2. PUBLIC COMMENTS
@@ -144,7 +108,7 @@
 - told them that the NWGID is closing on another lot at the business park that will be for a hotel
 - APPROVED THIS 15th DAY OF OCTOBER, 2026
 
-## [hayden#7] 2026-10-15 | Hayden Town Council | agenda
+## [hayden#6] 2026-10-15 | Hayden Town Council | agenda
 - A. PUBLIC COMMENTS
 - during public comments must sign in using the sheet available by the Town Clerk. There is a three -minute time limit per
 - B. PROCLAMATIONS/PRESENTATIONS
@@ -179,8 +143,20 @@
 - 10-31-4004 Franchise Tax 121,933 131,796 75,421 121,933 123,153 124,384 125,628
 - 10-31-4006 Building Material Use Tax 95,228 100,000 398,281 398,281 100,000 101,000 102,010
 
-## [hayden#8] 2026-10-21 | Hayden Parks & Recreation Board | agenda
+## [hayden#7] 2026-10-21 | Hayden Parks & Recreation Board | minutes
 - assistance in order to attend any of the Town’s public meetings or events, please notify the Town of Hayden at
 - HAYDEN PARKS AND RECREATION MEETING
-- 3. READING AND APPROVAL OF THE MINUTES
-- b. 3rd Street Park
+- 3. READING AND APPROVAL OF THE MINUTES Connor made a motion to approve. Jessica
+- c. Working on budget. Takes effect Jan 2027
+- through not only Parks & Rec but also ways the Town could generate revenue
+- 6. Economic Development/Tourism
+- a. Visitor spending, lodging and sales taxes where applicable
+- 8. Planning & Zoning
+- a. Application and permit fees
+- 10. Grants and sponsorships
+- 2. Our board would like to amend our by laws for members who move out of the
+- 2. Food truck to be available. Charge $30 for the food truck to park and serve
+- a. Considering the wings truck, or hotdog truck
+- c. Received a grant for funding this - $5000
+- 1. Connor makes a motion to cancel the December 16th Parks and Rec
+- b. 3rd Street Park – Update

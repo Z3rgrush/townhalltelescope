@@ -367,27 +367,38 @@
 - Need to post Master Drainage Plan and Comprehensive Safety Plan online for 30 days
 - PUBLIC COMMENTS
 
-## [nunn#17] 2026-09-17 | City Council | agenda
+## [nunn#17] 2026-09-17 | City Council | minutes
 - Public Hearing
-- Discussion and possible action of the following agenda items
-- Review of Clayton Homes variance request for 1467 4th Street related to a proposed lot line adjustment
-- 1. Review Wildfire Resiliency Code
-- 2. Discussion of vehicle leases for police vehicles
-- True Spruce Tree Farm (Tree Spade), Stan McGrew (tree purchase, 1300.00)
-- Painting Bid
-- IT bid for risk assessment and Security audit
+- Review of Clayton Homes variance request for 1467 4 th Street related to a proposed
+- The Public Hearing for the Town of Nunn for September 17th, 2026 was called to order at 6:05 pm and presided over
+- While placing new home at 1467 4th Street, it was determined that the house at 1457 4th Street was placed too close
+- Agreement between attorneys to complete a lot line adjustment will give 13’ of property of 1467 4 th Street to
+- property owners of 1457 4th Street. As a result, their property lines/fence line will meet code compliance for the
+- Town of Nunn. However, a variance for 1467 4 th Street will be required for that property to meet code compliance,
+- due to the fence installed at 1457 4th Street
+- Email copies on file regarding the agreement between the property owners
+- 1. Wildfire resiliency code
+- Fire board, Fire district must review, specifically pages 25, 29-30
+- 2. Police vehicle lease
+- purchase this year, whether by lease or pay in full
+- need to increase fuel budget for 2027
+- True Spruce tree farm (spade), Stan McCrew (tree purchase)
+- Painting bid
+- IT bid for risk assessment/security audit
 - APPROVAL OF AGENDA
-- READING AND APPROVAL OF MINUTES OF PREVIOUS MEETING (Regular Meeting 08/20/26)
-- APPROVAL TO PAY BILLS/TREASURER’S STATEMENT
+- APPROVAL OF MINUTES FOR PREVIOUS WORK SESSION/MEETINGS
+- APPROVAL TO PAY BILLS
+- APPROVAL FOR STATEMENT OF FINANCIAL POSITION
 - POLICE REPORT
+- Busy with grants and roads
+- Need to have important discussion with Weld County regarding CR 31
+- PUBLIC COMMENTS ON ITEMS NOT ON THE AGENDA
 - PLANNING AND DEVELOPMENT
 - FINANCE/BUDGET/PERSONNEL
-- Vote for Tree Bids, Vote for Concrete Bid, Vote on Paint Bid, Vote on IT Bid
-- PUBLIC SAFETY (Police, Code Enforcement, Emergency Management)
-- Approve Vehicle leases for police vehicles
+- $1,300.00 for the tree purchase
+- PUBLIC SAFETY (Police, Code enforcement, Emergency Management)
 - PUBLIC WORKS (Facilities, Parks, Cemetery, Water, Technology)
-- GRANTS-Updates
-- Review and approve application for Edward Byrne Jag Grant
+- Grant application for Edward Byrne Jag grant with a 20% match of up to $5,000.00
 - PUBLIC COMMENTS
 
 ## [nunn#18] 2026-10-08 | City Council | agenda

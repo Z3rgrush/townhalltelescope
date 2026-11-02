@@ -1,63 +1,6 @@
 # rifle
 
-## [rifle#0] 2026-07-28 | Planning and Zoning Commission | agenda
-- PLANNING & ZONING COMMISSION
-- 202 Railroad Avenue, Rifle, CO 81650
-- a. Discussion regarding Bulk Resource Consumer
-- Discussion and Review
-- 4.a. Consider Meeting Minutes of Planning Commission regular meeting of May 26, 2026
-- 6. Presentation
-- 7. Public Hearing
-- 7.a. Discussion and possible action regarding CUP - 214 W 16th St
-- 7.b. Discussion and possible action regarding Amendment to the Rifle Municipal Code for
-- allow 48 hours for your requests to be met
-- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
-
-## [rifle#1] 2026-07-28 | Planning and Zoning Commission | agenda
-- PLANNING & ZONING COMMISSION
-- 202 Railroad Avenue, Rifle, CO 81650
-- a. Discussion regarding Bulk Resource Consumer
-- Discussion and Review
-- 4.a. Consider Meeting Minutes of Planning Commission regular meeting of May 26, 2026
-- 6. Presentation
-- 7. Public Hearing
-- 7.a. Discussion and possible action regarding CUP - 214 W 16th St
-- 7.b. Discussion and possible action regarding Amendment to the Rifle Municipal Code for
-- allow 48 hours for your requests to be met
-- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
-- Discussion regarding Bulk Resource Consumer
-- Zach Higgins, Community Development Director
-- Notification Requirements:
-- COMMUNITY DEVELOPMENT DEPARTMENT
-- FROM: Zach Higgins, Community Development Director
-- SUBJECT: Bulk Resource Consumer discussion
-- Staff has begun receiving inquiries regarding Data Centers in Rifle. Staff is bringing
-- forward a discussion regarding the land use impacts and possible definition of a “Bulk
-- Data Centers consumer large quantities of electric and water resources and can produce
-- Staff researched and found the following information regarding Data Centers
-- Hyper Data Center
-- 1-5 million gallons of water daily
-- Enterprise Data Center
-- 100-500,000 gallons of water daily
-- Data Center Waste
-- Data center waste is categorized and regulated in Colorado through strict state
-- Large volumes require specific accumulation, tracking, and disposal permitting
--  Generator Air Emissions: Hyperscale data centers require numerous diesel
-- The Colorado Senate has reviewed SB26-102 Large Load Data Centers, currently
-- The bill creates certain requirements for large-load data centers, which are defined in
--  A new data center that has a peak load of more than 30 megawatts or multiple
-- new data centers with a collective peak load of more than 60 megawatts; or
--  An existing data center that adds a peak load of more than 30 megawatts or
-- multiple existing data centers that add a collective peak load of more than 60
-- make a determination on whether 100% hourly matching by large-load data centers is
-- determination of the highest percentage of hourly matching by large-load data centers
-- Beginning January 1, 2031, an operator of a large-load data center (operator) must
-- generate, purchase, or otherwise acquire a quantity of electricity generated from
-- renewable resources necessary to meet 100% of the operator's large-load data center's
-- contract, or program entered into with a utility, one or more power purchase agreements
-- An operator must enter into contracts of at least 15 years with a utility to pay for certain
-
-## [rifle#2] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#0] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -69,7 +12,7 @@
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 - Rifle Parks & Recreation Advisory Board
 
-## [rifle#3] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#1] 2026-08-10 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -111,7 +54,7 @@
 - Through July 31, 2026, our channels have already generated approximately 1.6 million Facebook
 - With five months still remaining in the year, Rifle Parks and Recreation is on pace to surpass last
 
-## [rifle#4] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#2] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Approval of July 14, 2026, Meeting Minutes
@@ -129,7 +72,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#5] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#3] 2026-08-11 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Approval of July 14, 2026, Meeting Minutes
@@ -172,7 +115,7 @@
 - applications totaling $22,200.00
 - Karah Brubaker, Economic Opportunity Specialist II / Main Street Manager Update
 
-## [rifle#6] 2026-08-25 | Planning and Zoning Commission | agenda
+## [rifle#4] 2026-08-25 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -189,7 +132,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#7] 2026-08-25 | Planning and Zoning Commission | agenda
+## [rifle#5] 2026-08-25 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -232,7 +175,7 @@
 - a CUP-based data center standard
 - Requires proof of water, electricity-provider “will serve”
 
-## [rifle#8] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#6] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
@@ -246,7 +189,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#9] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#7] 2026-09-08 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled August 11th, 2026 GRIT Board
@@ -285,7 +228,7 @@
 - Discussion and possible action regarding proposed 2027 GRIT budget
 - Staff presented the proposed 2027 GRIT budget for Board review and feedback. Discussion focused on
 
-## [rifle#10] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#8] 2026-09-14 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - 3. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -298,7 +241,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#11] 2026-09-29 | Planning and Zoning Commission | agenda
+## [rifle#9] 2026-09-29 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -315,7 +258,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#12] 2026-09-29 | Planning and Zoning Commission | agenda
+## [rifle#10] 2026-09-29 | Planning and Zoning Commission | agenda
 - PLANNING & ZONING COMMISSION
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
@@ -358,7 +301,7 @@
 - Physical Warehouse Sizes (Square Footage)
 - Line Dissolution plat. The current code requirements state that if a lot is split, Sec 16-1
 
-## [rifle#13] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#11] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
@@ -374,7 +317,7 @@
 - Rifle Parks & Recreation Advisory Board
 - special assistance, call Parks & Recreation Director Austin Rickstrew at 970-665-6578 or email our ADA Team at
 
-## [rifle#14] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
+## [rifle#12] 2026-10-12 | Parks & Recreation Advisory Board (PRAB) | agenda
 - Rifle Parks & Recreation
 - 202 Railroad Avenue, Rifle, CO 81650
 - a. Discussion Regarding Recognition Plaque Request — Rifle Mountain Park
@@ -413,7 +356,7 @@
 - 4. City Council Approval: The City Council will make the final decision and approve
 - the name via resolution
 
-## [rifle#15] 2026-10-12 | Rifle Community Foundation | agenda
+## [rifle#13] 2026-10-12 | Rifle Community Foundation | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
 - 4.a. Discuss Board Meeting Dates for 2027
@@ -437,7 +380,7 @@
 - 4.d. Consider Recommendation to Rifle City Council to Restructure the Rifle Community
 - allow 48 hours for your requests to be met
 
-## [rifle#16] 2026-10-12 | Rifle Community Foundation | agenda
+## [rifle#14] 2026-10-12 | Rifle Community Foundation | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - 3.a. Consider Minutes of the September 3, 2026 Rifle Community Foundation Regular
 - 4.a. Discuss Board Meeting Dates for 2027
@@ -473,7 +416,7 @@
 - foundation transitions under City administration, future appointments will go before City Council for
 - Finance Director Scott Rust requested authorization to communicate directly with the foundation’s
 
-## [rifle#17] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#15] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
@@ -489,7 +432,7 @@
 - allow 48 hours for your requests to be met
 - auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
 
-## [rifle#18] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
+## [rifle#16] 2026-10-13 | Greater Rifle Improvement Team (GRIT) Advisory Board | agenda
 - GREATER RIFLE IMPROVEMENT
 - 202 Railroad Avenue, Rifle, CO 81650
 - 4.a. Consider Meeting Minutes of the regularly scheduled September 8th, 2026 GRIT Board
@@ -524,14 +467,14 @@
 - Staff provided updates on the proposed Third Street shade structure/pergola. Preliminary estimates for
 - approximately 400 square feet of shade range from roughly $20,000 for a canvas-style structure to $30,000
 
-## [rifle#19] 2026-10-14 | City Council | agenda
+## [rifle#17] 2026-10-14 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
 - b. Water Rights Report
 - allow 48 hours for your requests to be met
 
-## [rifle#20] 2026-10-14 | City Council | agenda
+## [rifle#18] 2026-10-14 | City Council | agenda
 - 202 Railroad Avenue, Rifle, CO 81650
 - Discussion and Review
 - a. Bulk Resource Consumer Conditional Use Permit Requirements Discussion
@@ -577,7 +520,7 @@
 - be helpful because future high-resource uses may not call themselves data centers but may create similar
 - “Bulk Resource Consumer” means a commercial, industrial, or institutional use that, based on projected or
 
-## [rifle#21] 2026-10-21 | City Council | agenda
+## [rifle#19] 2026-10-21 | City Council | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - Discussion and Review
 - 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -592,7 +535,7 @@
 - 8.b. Consider Proposition 123 Commitment of Affordable and Attainable Housing Units for
 - allow 48 hours for your requests to be met
 
-## [rifle#22] 2026-10-21 | City Council | agenda
+## [rifle#20] 2026-10-21 | City Council | agenda
 - 202 Railroad Avenue Rifle, CO 81650
 - Discussion and Review
 - 4. Public Comment *(Maximum time permitted for Public Comment is 3 minutes per person)
@@ -630,3 +573,65 @@
 - The branch has a Rifle-specific public identity, intake path, published hours, outreach plan, and
 - Intake, readiness assessment, market validation, business-model development, planning, cash-flow
 - projections, pricing, licensing navigation, marketing, sales, websites, bookkeeping systems,
+
+## [rifle#21] 2026-10-27 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion regarding the Draft 2026 Comprehensive Plan
+- b. Discussion regarding November and December Meeting Dates
+- c. Discussion regarding code amendments - Site Plan
+- 4.a. Discussion and possible action regarding September 2026 Planning Commission Minutes
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding PLN 2026-023 Rezone from Tourist
+- 7.b. Discussion and possible action regarding amendment to the Rifle Municipal Code Chapter
+- 7.c. Discussion and possible action regarding amendment to the Rifle Municipal Code Chapter
+- 16 for multiple text amendments
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+
+## [rifle#22] 2026-10-27 | Planning and Zoning Commission | agenda
+- PLANNING & ZONING COMMISSION
+- 202 Railroad Avenue, Rifle, CO 81650
+- Discussion and Review
+- a. Discussion regarding the Draft 2026 Comprehensive Plan
+- b. Discussion regarding November and December Meeting Dates
+- c. Discussion regarding code amendments - Site Plan
+- 4.a. Discussion and possible action regarding September 2026 Planning Commission Minutes
+- 6. Presentation
+- 7. Public Hearing
+- 7.a. Discussion and possible action regarding PLN 2026-023 Rezone from Tourist
+- 7.b. Discussion and possible action regarding amendment to the Rifle Municipal Code Chapter
+- 7.c. Discussion and possible action regarding amendment to the Rifle Municipal Code Chapter
+- 16 for multiple text amendments
+- allow 48 hours for your requests to be met
+- auxiliares y servicios. Para solicitar asistencia especial, llame a Community Development al 970-665-6490 o envíe un correo
+- Discussion regarding the Draft 2026 Comprehensive Plan
+- Zach Higgins, Community Development Director
+- Provide Staff with feedback
+- Comprehensive Plan guides development over the next 5-10 years
+- The last Comprehensive Plan was adopted in 2019
+- Notification Requirements:
+- 1. Memo_for_Draft Plan for PC Review_10_22_2026
+- 2. Draft Plan for PC Review_10_22_2026_reduced size
+- of Draft Plan
+- This memo accompanies the partial draft of the updated comprehensive plan. It describes which
+- used to prepare the update so far. It also identifies the topics where Planning Commission
+- Commission can weigh in on the overall direction of the plan while there is still time to make key
+- 6. Economic Development
+- 7. Parks, Recreation, and Community Character
+- Strategic growth element. The state now requires comprehensive plans to include a
+- strategic growth element. The full analysis and discussion for this element is still being
+- will be provided in a separate appendix
+- Water supply element. The state also requires a water supply element, which is not yet
+- identify gaps and opportunities. Additional language from that audit will be added to the
+- plan so it clearly points to the code changes needed. This will give the code update that
+- follows the plan a clear foundation and policy support
+- expected in the final plan is still being prepared
+- Plan Writing Process
+- The update began with an audit of the existing comprehensive plan, completed together with
+- City staff. The goal of the audit was to understand which parts of the 2019 plan are outdated,
+- redlined the existing plan, marking up the document with comments and edits that provided
+- context on how the plan has been used and where it has fallen short
+- recommendations and key analyses from those plans, so the comprehensive plan reflects work

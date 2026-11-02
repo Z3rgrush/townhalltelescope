@@ -1,98 +1,107 @@
-- title: 'Development Code update: 50% draft, new zoning districts and housing density bonuses'
-  summary: Headwaters Planning presented the 50% draft of the Development Code update, which adds Mixed-Use and Open Space districts, more housing types in multi-family and mixed-use zones, and density and height bonuses for workforce housing. Staff noted a split between affordable-housing advocates and residents wanting to keep current densities. The Board also discussed lower parking minimums (EPHA said 1.2 to 1.4 cars per unit would suffice) and, on Sept 8, new rezoning review criteria in Section 3.3.
+- title: Housing definitions, density bonuses and parking in the draft Development Code
+  summary: The Town Board reviewed the 50% draft Development Code's housing definitions, base densities, density and height bonuses, and lower parking minimums for qualifying projects. The Estes Park Housing Authority said 1.2 to 1.4 spaces per unit would work for its properties, while some board members worried about going below two cars per unit. Related housing needs were also raised in public comment and the Housing Assessment and Action Plan.
   where: Townwide
   refs:
-  - 1
-  - 6
+  - 3
+  - 4
   - 7
   topics:
-  - Zoning & development
   - Housing
+  - Zoning & development
   public_comment: true
 - title: Fall River Village II PUD and subdivision plats
-  summary: Resolutions 87-26, 88-26 and 89-26 on the Fall River Village II PUD and plats were continued from July 28. The hearing was re-opened Aug 11, with staff noting code and state statute deadlines that would deem the application approved if no action was taken.
+  summary: Resolutions 87-26, 88-26 and 89-26 on the Fall River Village II PUD and subdivision plats were continued from July 28, and the public hearing was re-opened on August 11. Staff noted the Development Code and state statute require action within 30 days or the application is deemed approved.
   where: Fall River Village II
   refs:
-  - 3
+  - 1
   topics:
   - Zoning & development
   - Housing
   public_comment: true
 - title: Annexation of Fawn Valley and Highway 7 enclaves
-  summary: Staff reviewed costs and benefits of annexing two enclaves. Estimates were $50,000 for a consultant to prepare maps and legal descriptions, about $12,750 a year in sales tax and $1,900 in property tax, and $2,400 a year for 25 years for road work on Chalet Ridge Court. Highway 7 area surveys drew four responses opposed and one in favor, and staff will research who owns an unannexed gap parcel.
-  where: Fawn Valley and Highway 7 area
+  summary: Staff reported costs and benefits of annexing two enclaves, including a $50,000 consultant cost for the map and legal description, about $12,750 a year in added sales tax and $1,900 in property tax. Neighbors surveyed on Highway 7 responded four against and one in favor. Staff will research who owns an unannexed gap parcel that would first need to be annexed.
+  where: Fawn Valley and Highway 7 enclaves, including Chalet Ridge Court
   refs:
-  - 8
+  - 6
   topics:
   - Annexation
   - Budget & taxes
+  public_comment: true
+- title: Parking license plate recognition policy
+  summary: Staff presented a draft policy for license plate recognition at Town-owned paid parking, with data kept one day unless tied to a citation. Prohibited uses include enforcing federal immigration law and monitoring First Amendment activity. The Board asked for the policy to come back for consideration and discussed limiting private LPR use.
+  where: Town-owned paid parking areas
+  refs:
+  - 8
+  topics:
+  - Transit
   - Roads & traffic
-  public_comment: true
-- title: Housing needs, Housing Action Plan and Housing Authority
-  summary: Residents urged the Board to address workforce housing, including a list of people in immediate need. The Housing Authority is struggling with recruitment, drew 14 applicants for three board seats, and is working on its funding plan and 2027 budget. A Housing Assessment Addendum and Housing Action Plan came before the Board Sept 22.
-  where: Townwide
-  refs:
-  - 0
-  - 5
-  - 9
-  topics:
-  - Housing
-  - Homelessness
-  public_comment: true
-- title: 'Water: Windy Gap units, administrative penalties and Colorado-Big Thompson subcontract'
-  summary: The Board declined to buy Windy Gap water units from Platte River Power Authority, since the Town doesn't need them and would have had to buy two units for nearly $10 million. Staff proposed administrative fines to enforce repair of surface water lines, and set dates for water rate hearings. The Board also pulled for discussion the C-BT subcontract extension with YMCA of the Rockies and the effort to include Town water customers in the Northern Water district.
-  where: Townwide
-  refs:
-  - 3
-  - 6
-  - 7
-  - 9
-  topics:
-  - Water
-  - Fees & rates
-- title: Dark Sky certification and draft lighting ordinance
-  summary: Visit Estes Park pitched International DarkSky Community certification as a tourism draw. Board members raised concerns about a draft lighting ordinance requiring residential properties to switch to compliant fixtures within ten years. Members asked for examples from other certified communities.
+  - Ethics & transparency
+- title: Parks and Open Space Master Plan
+  summary: The final draft plan covers 11 parks, 2 natural areas and 2 town parcels, and found 76% of households are within a 15-minute walk of a park. About 890 people gave feedback, including students. Board members asked for an urban forestry element and more dog parks, and staff said implementation depends on funding.
   where: Townwide
   refs:
   - 2
   topics:
-  - Environment & climate
-  - Tourism & events
-  - Zoning & development
-- title: Parks and Open Space Master Plan
-  summary: Staff presented the final draft plan covering 11 parks, two natural areas and two town parcels; 76% of households are within a 15-minute walk of a park. Board members asked for an urban forestry program, more dog parks and wildlife conflict reduction, and staff said implementation depends on funding. The draft was available for public comment.
-  where: Citywide
-  refs:
-  - 4
-  topics:
   - Parks & open space
-  - Agriculture & wildlife
+  - Recreation & trails
   public_comment: true
-- title: Fire district funding and Town budget
-  summary: A resident raised Estes Valley Fire Protection District funding, and the Town Administrator clarified the Board had not discussed cutting current funding. The Board also heard Larimer County budget shortfalls and prepared for a joint study session with the county commissioners.
+- title: Dark Sky lighting ordinance and certification
+  summary: Visit Estes Park presented on pursuing International DarkSky Community Certification and a draft Lighting Ordinance. Board members questioned requiring residential properties to comply with Dark Sky fixtures within ten years and how Rocky Mountain National Park's status affects certification.
   where: Townwide
   refs:
   - 0
+  topics:
+  - Tourism & events
+  - Environment & climate
+- title: Water administrative penalties, Windy Gap units and Colorado-Big Thompson subcontract
+  summary: Water staff proposed administrative fines to enforce repair of leaking surface lines. The Board declined its right of first refusal to buy Windy Gap water units from Platte River Power Authority, which would have cost nearly $10 million for two units. A Colorado-Big Thompson subcontract extension with the YMCA of the Rockies and Northern Water was pulled for discussion of incorporating Town water customers into the district.
+  where: Townwide and water service area
+  refs:
+  - 1
+  - 4
+  - 5
+  - 7
+  topics:
+  - Water
+  - Fees & rates
+- title: Rezoning review criteria amendments
+  summary: Staff proposed amending Development Code Section 3.3 so rezonings must be consistent with the Future Land Use Plan of the Estes Forward Comprehensive Plan, replacing the 'change in conditions' criterion, along with a second new criterion.
+  where: Townwide
+  refs:
   - 5
   topics:
-  - Fire & emergencies
-  - Budget & taxes
+  - Zoning & development
+- title: Feather flag temporary sign rules
+  summary: The Board reviewed Ordinance 15-25, which temporarily allowed feather flags without permit or fee, limited to one per lot up to 12 feet tall, and not in residential zones or downtown. Members were split on whether to charge a fee and require a permit or make the rules permanent.
+  where: Commercial areas
+  refs:
+  - 6
+  topics:
+  - Downtown & business
+  - Zoning & development
+- title: Youth tobacco and vaping policy request
+  summary: A speaker urged the Town to consider policies on tobacco and vape products to protect youth, citing Larimer County's survey results and concerns about Estes Park schools.
+  where: Townwide
+  refs:
+  - 9
+  topics:
+  - Schools & youth
+  - Health & human services
   public_comment: true
-- title: Events Center storage building contract and impact grant
-  summary: The Board approved a $424,350 contract with Kinley Built to design and build a storage building at the Events Center Complex. It also accepted a $100,000 state energy and mineral impact grant toward a design project.
+- title: Utility purchasing policy non-compliance
+  summary: An audit found Power and Communications and Water divisions accepted competitive quotes for inventory purchases instead of following the $30,000 bid process. Staff said this will be addressed in the ongoing revision of purchasing policies.
+  where: Townwide
+  refs:
+  - 9
+  topics:
+  - Ethics & transparency
+  - Utilities
+  - Government operations
+- title: Events Center storage building contract
+  summary: The Board approved a $424,350 contract with Kinley Built to design and build a new storage building at the Events Center Complex, and accepted a $100,000 state DOLA grant toward design of a project.
   where: Events Center Complex
   refs:
-  - 3
+  - 1
   topics:
   - Recreation & trails
   - Budget & taxes
-- title: Micromobility devices and feather flag sign rules
-  summary: Police proposed four changes to Municipal Code Chapter 9 to clarify rules for micromobility devices such as e-bikes and scooters. The Board also weighed whether to make temporary feather flags permanent, with a one-per-lot limit, 12-foot height cap and setbacks, and was split on requiring a fee and permit.
-  where: Townwide
-  refs:
-  - 4
-  - 8
-  topics:
-  - Policing & public safety
-  - Downtown & business
-  - Zoning & development

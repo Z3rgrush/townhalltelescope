@@ -1,31 +1,6 @@
 # woodland-park
 
-## [woodland-park#0] 2026-08-03 | Main Street | minutes
-- City of Woodland Park Main Street Board Meeting - Minutes
-- awarded while supplies last. Money comes from the $30,000 City budget
-- line item for Main Street
-- d. Passport program activates Sept 1 and is available only for Main Street
-- 4. Next Steps Regarding Main Street
-- b. Upcoming Fall projects:
-- Small Woodland Park” bags with grant money. (American Express no
-- 8/3/2026 Main Street Board Meeting Minutes
-- d. Jeff is collecting content from businesses to give to Anita for Main Street
-- e. Anita suggested considering another Shop & Dine Passport starting in
-- a. Gail Langley sent an email to Anita about an upcoming Main Street/AARP
-- $2500 grant opportunity for livability improvements for ages 50+; the
-- grant pool is $16,000
-- b. Grant deadline is Aug 28. Anita and Kimberly will submit the grant
-- c. Antler Alley would be a good project for the grant money
-- e. Discussion about potential for artwork on the buildings. Anita spoke with
-- g. DDA may consider offering some funding for Main Street projects
-- h. The alley improvement process will be to apply for the AARP grant; if that
-- i. Marzelle suggested large pots at the entrance with solar lights/water
-- businesses), 4 large decorative pots to hold solar powered water features
-- in presentation
-- a. We have a requirement as a Main Street org to present to City Council
-- b. Anita will request that Main Street is added to the November 5 City
-
-## [woodland-park#1] 2026-08-04 | Historical Preservation Committee | agenda
+## [woodland-park#0] 2026-08-04 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – July 7, 2026
 - 3. Public Hearings – None
 - 4. Committee Business – Active Projects
@@ -36,7 +11,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#2] 2026-08-04 | Historical Preservation Committee | agenda
+## [woodland-park#1] 2026-08-04 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – July 7, 2026
 - 3. Public Hearings – None
 - 4. Committee Business – Active Projects
@@ -75,7 +50,7 @@
 - Move to recommend City Council approve and ordinance designating 209 E. Midland
 - Steffa’s Subdivision of Addition No. 1 to the Town of Manitou Park, now known as
 
-## [woodland-park#3] 2026-08-11 | Board of Review | agenda
+## [woodland-park#2] 2026-08-11 | Board of Review | agenda
 - CITY OF WOODLAND PARK, BUILDING DEPARTMENT
 - 220 W. SOUTH AVENUE, WOODLAND PARK, CO
 - woodlandpark.org) - click on the specific date of this meeting, then “More Details” for the
@@ -83,7 +58,7 @@
 - VI. VARIANCE OR APPEALS HEARINGS - None
 - IX. OPEN DISCUSSION
 
-## [woodland-park#4] 2026-08-11 | Board of Review | agenda
+## [woodland-park#3] 2026-08-11 | Board of Review | agenda
 - CITY OF WOODLAND PARK, BUILDING DEPARTMENT
 - 220 W. SOUTH AVENUE, WOODLAND PARK, CO
 - woodlandpark.org) - click on the specific date of this meeting, then “More Details” for the
@@ -117,7 +92,7 @@
 - identified are repairable. He solicited questions from the Board
 - and use of the building. Mr. Langley replied that before they can justify the expense and continue
 
-## [woodland-park#5] 2026-08-31 | Main Street | minutes
+## [woodland-park#4] 2026-08-31 | Main Street | minutes
 - City of Woodland Park Main Street Board Meeting - Minutes
 - Parade: Tim asked the parade committee to find out how Main Street
 - Oktoberfest group sent out a sign-up link. Main Street board and volunteers
@@ -137,7 +112,7 @@
 - 7. Work plan discussion
 - Tim stated that we have discussed everything on the work plan
 
-## [woodland-park#6] 2026-09-01 | Historical Preservation Committee | agenda
+## [woodland-park#5] 2026-09-01 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – August 4, 2026
 - 3. Public Hearings – Local Historic Landmark Designation for 116 W. Lake Avenue
 - (26-0182): Consider a request to designate 116 W. Lake Avenue a Local Historic
@@ -154,7 +129,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#7] 2026-09-01 | Historical Preservation Committee | agenda
+## [woodland-park#6] 2026-09-01 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – August 4, 2026
 - 3. Public Hearings – Local Historic Landmark Designation for 116 W. Lake Avenue
 - (26-0182): Consider a request to designate 116 W. Lake Avenue a Local Historic
@@ -195,13 +170,13 @@
 - Chair Glauth watched the Board of Review (BOR) meeting which considered a case
 - some discussion of what was appealed. The City attorneys also reviewed the case. BOR
 
-## [woodland-park#8] 2026-09-24 | Planning Commission | agenda
+## [woodland-park#7] 2026-09-24 | Planning Commission | agenda
 - WOODLAND PARK PLANNING COMMISSION
 - A. Discusssion to consider amending Section 4.03, Section
 - 6.06.120, and Section 7.03 of the Unified Development Code to
 - Use Permit process, and to define “Public Safety Facilities” under
 
-## [woodland-park#9] 2026-10-06 | Downtown Development Agency | agenda
+## [woodland-park#8] 2026-10-06 | Downtown Development Agency | agenda
 - City of Woodland Park
 - Downtown Development Authority
 - 220 W. South Ave., Woodland Park, CO 80863
@@ -245,7 +220,7 @@
 - City Council may dissolve the DDA. He also discussed affordable housing
 - within the district? Sales Tax was discussed brieﬂy and the Rail line which
 
-## [woodland-park#10] 2026-10-06 | Historical Preservation Committee | agenda
+## [woodland-park#9] 2026-10-06 | Historical Preservation Committee | agenda
 - 2. Approval of Minutes – September 1, 2026
 - 3. Public Hearings – None
 - 4. Committee Business – Projects
@@ -258,7 +233,7 @@
 - 7. Public Comment on Items Not on the Agenda
 - FOR MORE INFORMATION, PLEASE CONTACT THE WOODLAND PARK PLANNING
 
-## [woodland-park#11] 2026-10-08 | Planning Commission | agenda
+## [woodland-park#10] 2026-10-08 | Planning Commission | agenda
 - WOODLAND PARK PLANNING COMMISSION
 - 3. APPROVE MINUTES: July 9, 2026
 - 4. PUBLIC HEARINGS
@@ -276,7 +251,7 @@
 - Allowed Uses, to label said use as applicable under the Special Use
 - Permit process, and to define “Public Safety Facilities” under Words and
 
-## [woodland-park#12] 2026-10-15 | City Council | agenda
+## [woodland-park#11] 2026-10-15 | City Council | agenda
 - City of Woodland Park
 - City of Woodland Park City Council - October 15, 2026
 - 3. CEREMONIES, PRESENTATIONS AND APPOINTMENTS
@@ -304,7 +279,7 @@
 - Ex-parte communication (communication outside the official hearing) between elected officials
 - and citizens is not permitted on Quasi-Judicial
 
-## [woodland-park#13] 2026-10-15 | City Council | agenda
+## [woodland-park#12] 2026-10-15 | City Council | agenda
 - City of Woodland Park
 - City of Woodland Park City Council - October 15, 2026
 - 3. CEREMONIES, PRESENTATIONS AND APPOINTMENTS

@@ -585,3 +585,23 @@
 - d. Public Hearing: 2027 Budget
 - i. Resolution No. 71-R-2026 — A Resolution of the Town of Mead, Colorado,
 - Summarizing Expenditures and Revenues for Each Fund and Adopting a Budget
+
+## [mead#23] 2026-10-29 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- (1) Option 1: motion to reconsider Ordinance 1121
+- (2) Option 2: conditional use permit application (CUP)
+- 6. Public Comment:
+- set for public hearing
+
+## [mead#24] 2026-10-29 | Board of Trustees | agenda
+- 441 3rd Street, Mead
+- Board of Trustees on March 13, 2023 by Resolution No. 21-R-2023, remote participation will be
+- 3. Review and Approve Agenda
+- 4. Public Comment:
+- (1) Option 1: motion to reconsider Ordinance 1121
+- (2) Option 2: conditional use permit application (CUP)
+- 6. Public Comment:
+- set for public hearing

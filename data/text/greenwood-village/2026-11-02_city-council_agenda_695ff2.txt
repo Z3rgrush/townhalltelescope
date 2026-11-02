@@ -1,0 +1,387 @@
+ 
+City of Greenwood Village 
+ 
+Agenda – Final 
+City Council 
+6060 South Quebec Street 
+Greenwood Village, CO 
+80111 
+Please turn off all cellular phones and/or audible pagers. 
+All Council meetings are digitally recorded, and Council members may participate by remote electronic means. 
+Click on the Agenda Packet tab for an Accessible View.   
+Council Chambers is ADA-accessible – Hearing-impaired apparatus available. 
+Handheld amplified receivers and headsets are available upon request.   
+For accessibility information and requests, call 303-804-4113 or email 
+TheVillage@GreenwoodVillage.com at least one business day prior to the meeting. 
+ 
+Monday, November 2, 2026 6:00 PM 
+ 
+Community Room 
+ 
+ 
+City of Greenwood Village Page 1 October 28, 2026 
+ 
+ 
+ 
+  
+Study Session - 6:00 PM 
+  A. Discussion Regarding Drone Delivery Regulations (Derek Holcomb, Community Development 
+Director) (2026-334) 
+  B. Compensation Review Cycle Recommendation (Jason Kotz - Human Resources & Risk 
+Manager) (2026-304) 
+ 
+Page 1 
+ 
+   
+ 
+Staff Report 
+ 
+Date:  November 2, 2026 
+To: City Council 
+Through:  John Jackson, City Manager 
+ Shawn Cordsen, Deputy City Manager 
+From:  Derek Holcomb, Community Development Director 
+ Sarah Geiger, City Attorney 
+Subject:  Discussion Regarding Drone Delivery Regulations  
+ 
+Summary: 
+ 
+Drone delivery of merchandise is an emerging service that is expanding into residential 
+communities, which soon could soon include Greenwood Village. Municipalities across 
+Colorado are beginning to anticipate how commercial drone landings could aﬀect 
+neighborhoods. At the same time, cities face regulatory limits: the Federal Aviation 
+Administration (FAA) controls all airspace and delivery routing, leaving municipalities 
+the ability to regulate only ground operations, land use, and privacy. Municipalities are 
+empowered through their police powers to regulate aspects of unmanned aircraft 
+systems (UAS” or drones) operations aﬀecting the health, safety, welfare, and property 
+rights of residents, but the contours of this authority remain ambiguous . Considering 
+this, it is timely for Greenwood Village to evaluate how best to manage drone delivery 
+activity in a way that maintains community character while aligning with federal 
+regulations. 
+ 
+Background: 
+ 
+The Federal Aviation Act of 1958, as amended by the Noise Control Act of 1972, 49 
+U.S.C. §§ 1301 et. eq. codiﬁed exclusive federal sovereignty over airspace in the United 
+States.  The term "model aircraft" falls "within the statutory and regulatory deﬁnitions 
+of an aircraft" and were consequently made "subject to FAA oversight and enforcement” 
+in the Modernization and Reform Act of 2012 (the "Act"), 49 U.S.C. § 40102(a)(6).  
+Local governments are preempted, therefore, from regulating aviation safety or airspace 
+eﬃciency. The Airline Deregulation Act, 49 U.S.C. § 41713(b)(1), preempts any law or 
+regulation governing the “price, route, or service of an air carrier,” speciﬁcally 
+commercial air carriers. Recreational drones and hobbyist aircraft are governed by 
+separate regulations.1 Two separate sets of regulations currently govern commercial 
+drone delivery, 14 C.F.R. § 135 (“Part 135”) and 14 C.F.R. § 107 (“Part 107”).2  Part 135 
+is the only regulation currently authorizing commercial operators to operate drones 
+ 
+1 49 U.S.C. 44809. 
+2 Notably Part 107 requires all drones to ﬂy below an altitude of 400 feet to avoid sharing airspace with  
+   other aircraft.  
+Page 2 
+2 
+ 
+ﬂying beyond the visual line of sight (“BVLOS”).  Part 107 governs UAS speciﬁcally but 
+constrains drone deliveries to within the visual line of sight of its operator.   
+ 
+Interest in regulating drone deliveries on a local level is increasing as large retailers and 
+delivery companies expand programs capable of transporting packages directly to 
+homes. Congress passed the FAA Reauthorization Act in 20243 directing the FAA to 
+promulgate rules governing commercial drones. The FAA has yet to promulgate rules 
+that precisely ﬁt commercial drone delivery, though it published proposed rules last year 
+that have yet to be adopted.4 Commercial drone operators, like Wing (subsidiary of 
+Alphabet/Google) and Prime Air (Amazon) obtained certiﬁcates to operate under Part 
+135. Unlike some states, Colorado does not preempt municipalities from regulating 
+drones, leaving federal preemption the primary concern for local governments 
+attempting to regulate the eﬀects of commercial drone activity. As a result, several 
+jurisdictions, including Aurora, Boulder, Northglenn, and Lakewood, have already taken 
+steps to restrict drone activity on parks, open space, and other city-owned land, 
+illustrating how drone operations can intersect with residential areas, public spaces, and 
+sensitive community uses.  
+ 
+Discussion: 
+ 
+As Greenwood Village considers how drone delivery might ﬁt within the community, it is 
+important to understand the interplay between federal and municipal authority. The 
+FAA governs all commercial drone delivery operations, sets ﬂight rules, and controls 
+airspace regulation, including routing, altitude, and authorization processes such as Low 
+Altitude Authorization and Notiﬁcation Capability (LAANC). It is a commonly held 
+understanding that municipalities cannot regulate how or where a drone ﬂies once 
+airborne.  
+ 
+Despite these limits, cities retain full authority over the ground environment, including 
+landings, takeoﬀs, staging locations, and the use of parks or open spaces. Ground-based 
+controls present opportunities to create buﬀers around schools, parks, and other 
+sensitive areas where drone landings would not be appropriate. Colorado’s privacy and 
+trespass statutes reinforce this reasoning, suggesting that careful regulation of local 
+landing practices may help prevent conﬂicts between businesses (operators) and 
+residents.  
+ 
+In addition, examples from other municipalities demonstrate how cities have 
+approached similar issues using their land-use authority.5 
+ 
+ 
+3 Pub. L. 118-63, 138 State. 1025 (2024). 
+4 “Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations,” 90 Fed. Reg. 38212  
+   (proposed August 7, 2025). 
+5 For the purposes of this staﬀ report, the jurisdictions below are those that have passed regulations or  
+   those considering regulations relating to commercial drone operations, as opposed to recreational drone  
+   use which is not at issue here.  
+Page 3 
+3 
+ 
+Jurisdiction Status Key Provisions / Restrictions 
+Castle Rock Adopted moratorium • Six-month moratorium on commercial drone-delivery hub applications, which expires January 21, 2027. 
+Denver / 
+Denver 
+Metro Region 
+Research phase 
+• Preparing for Walmart/Wing delivery operations.  
+• FAA controls airspace; Denver exploring local 
+ground-operation authority. 
+• Permits required to take oﬀ or land on public 
+property 
+• Drones are prohibited in City Park and Denver 
+Mountain Parks  
+ Lafayette Moratorium 
+• 18-month moratorium on AAM (Advanced Air 
+Mobility) vehicles, which would include drones 
+passed by emergency ordinance on 10/6/26 
+Lakewood General drone restrictions 
+• Requires permits for drone use on park land.  
+• A permit is not required for ﬂying drones in the 
+City of Lakewood outside of arts, parks and 
+recreation areas. 
+• Commercial drone activity may require a 
+photo/video permit for any location within the 
+city. 
+Longmont Pre-applications received 
+• Two Walmart-related pre-applications for 
+drone-delivery hubs.  
+ 
+• Early regulatory consideration underway. 
+Northglenn Passed ordinance on 10/26/26 
+• Requires special use permit for drone delivery 
+hub as an accessory or primary use in non-
+residential zones. 
+• Permit application must include: hours of 
+operation, maximum ﬂight altitude of the UAS, 
+anticipated noise levels associated with ground 
+operations, maximum number of UAS base, 
+launched from, or returned to the site, an 
+incident and emergency response plan, site plan 
+showing the drone staging areas, statement of 
+understanding that it is unlawful to intentionally 
+use a drone to surveil someone in a private place, 
+and a list of applicable federal authorizations 
+Page 4 
+4 
+ 
+Jurisdiction Status Key Provisions / Restrictions 
+• Contains screening and fencing requirements; 
+proximity restrictions; parking and security 
+requirements, and noise restrictions. 
+• It is unlawful to surveil someone with a drone 
+who is in a private place.  
+• FAA controls ﬂight; city regulates ground 
+operations. 
+Parker 9-month moratorium  
+• Emergency ordinance passed 90-day moratorium 
+on any drone dispatch and delivery facilities, 
+which was subsequently aﬃrmed and extended 
+to a 9-month moratorium.  
+Thornton Pre-application received 
+• Early inquiry for drone-delivery hub; local 
+framework expected. 
+• Planning staﬀ recommended ground-side 
+infrastructure for delivery drones (pads, staging, 
+drop boxes) via special-use permits, zoning limits 
+to industrial/regional commercial areas, setbacks 
+(300 ft from residences, 500 ft from institutional 
+uses) and restricted hours 
+ 
+Areas municipalities may regulate: 
+ 
+• Zoning for drone hub facilities 
+• Hours of operation for drone hub facilities 
+• Pad, structure, fencing, parking, lighting, and security of staging area 
+• Trespass on property 
+• Transfer or delivery of controlled substances 
+• Taking photographs or video of certain facilities 
+ 
+Areas regulated by the federal government: 
+ 
+• Flight altitudes or paths 
+• Designation of routes for UAS 
+• Regulating UAS markings 
+• Establishing a licensing scheme for UAS 
+• Requiring safety training or education for operators 
+• Mandating any requirement relating to the manufacturing of UAS 
+• Regulating noise at its source 
+ 
+ 
+ 
+Page 5 
+5 
+ 
+Grey areas: 
+ 
+• To what extent can a municipality enforce its own noise ordinances to control 
+drone noise 
+• Flight paths over critical infrastructure 
+ 
+Next Steps: 
+ 
+Moving forward, Greenwood Village may beneﬁt from a focused review of drone delivery 
+implications on land use, neighborhood compatibility, and public property operations. 
+Coordinating with FAA representatives and commercial delivery providers would allow 
+the city to understand anticipated delivery corridors, technical constraints, and likely 
+landing practices. Based on this information, Greenwood Village could evaluate the need 
+for local rules governing takeoﬀ and landing locations on city property, establish 
+expectations for quiet-hour delivery limits, and identify sensitive areas (such as 
+neighborhoods, parks and schools) where landings should be regulated or prohibited.   
+ 
+As federal regulations continue to evolve, Greenwood Village may wish to maintain 
+ongoing communication with the FAA to ensure local policies remain aligned with 
+national standards while protecting the community’s character and quality of life. The 
+City may also wish to enact a temporary moratorium on building permits for 
+commercial drone delivery hubs while it evaluates potential regulations in accordance 
+with the information contained in this report.  
+ 
+Attachments: 
+ 
+n/a 
+ 
+ 
+ 
+Page 6 
+ 
+Staff Report 
+ 
+ 
+6060 South Quebec Street 
+Greenwood Village, CO 
+80111 
+ 
+File # 2026-304 Agenda Date: 11/2/2026 
+  
+Compensation Review Cycle Recommendation (Jason Kotz - Human Resources & Risk 
+Manager) 
+   
+To:   Honorable Mayor and City Council 
+Through:   Sarah Geiger, City Attorney 
+Shawn Cordsen, Deputy City Manager 
+John Jackson, City Manager 
+From:   Jason Kotz, Human Resources / Risk Manager  
+  
+Executive Summary: 
+  
+In August 2022, City Council approved the City’s current compensation philosophy, which "unbanded" 
+positions by comparing each role individually to the market based on job descriptions and responsibilities, 
+establishing pay ranges according to survey data rather than a fixed percentile, and using third-party regional 
+compensation survey data rather than a predefined agency list. The current philosophy also ensures employee 
+salaries remain proportionate within adjusted ranges, maintains performance-based merit adjustments, and 
+includes an annual review of the compensation plan. 
+  
+Recommendation: 
+  
+To balance the need for market alignment with greater stability and predictability in salary planning, the 
+Compensation Committee, comprising Mayor Lantz, Councilmember Hilton, and staff, determined that the 
+organization should implement a compensation review cycle in which comprehensive salary assessments are 
+conducted every three years, with inflation-indexed salary adjustments and reviews of employer-provided 
+benefits in the intervening years. Unless Council expresses concern or prefers to consider an alternative 
+structure, this change will be implemented moving forward. 
+  
+Attachments: 
+  
+1. Proposed Compensation Policy 
+  
+Discussion 
+  
+The City currently conducts comprehensive salary assessments on an annual basis. While these reviews 
+provide detailed information, they can also create volatility at the position level due to variations in survey 
+participation, sometimes resulting in abrupt increases or stagnation that pose challenges for both employees 
+and budget planning. Because personnel costs represent the City’s largest expenditure, a consistent and 
+sustainable approach to salaries is critical. 
+ 
+Combining periodic salary assessments with interim adjustments based on widely recognized indices, such as 
+the Consumer Price Index for Urban Wage Earners (CPI-W), helps smooth year-to-year fluctuations, align pay 
+with broader economic trends, and provide a more stable and predictable structure. CPI-W, published by the 
+U.S. Bureau of Labor Statistics, measures inflation as it affects households of wage earners and clerical 
+workers and is widely used to guide cost-of-living adjustments. Using the CPI-W to adjust salaries in years 
+when a comprehensive salary analysis is not conducted ensures that wages keep pace with inflation, while 
+allowing flexibility to conduct ad-hoc salary reviews for positions experiencing recruitment or retention 
+challenges. 
+ 
+Reducing the frequency of full assessments also enables staff to take a more holistic view of total 
+compensation, including health benefits, wellness programs, retirement contributions, and other incentives, 
+supporting employee well-being while maintaining organizational competitiveness. Other municipalities, 
+Page 7 
+ 
+Staff Report 
+ 
+ 
+6060 South Quebec Street 
+Greenwood Village, CO 
+80111 
+ 
+including the City of Lone Tree, have successfully implemented similar models, demonstrating that CPI-based 
+interim adjustments can maintain market alignment without unnecessary disruption. 
+ 
+ 
+ 
+ 
+Page 8 
+1 
+ 
+City of Greenwood Village 
+Proposed Compensation Policy 
+Purpose 
+The purpose of this document is to articulate the City of Greenwood Village’s compensation 
+philosophy and provide guiding principles for establishing, maintaining, and administering 
+employee compensation in a manner that supports the City’s ability to recruit, retain, and reward 
+a highly qualified workforce. 
+Market-Based Pay 
+• Market adjustments will be determined through a comprehensive salary analysis 
+conducted every three years and through changes in the Consumer Price Index for 
+Urban Wage Earners and Clerical Workers (CPI-W) in intervening years, subject to the 
+overall compensation funding approved by City Council.  
+• The City retains flexibility to conduct targeted evaluations of specific positions as 
+needed, particularly in response to recruitment or retention challenges. 
+• The urban corridor from Fort Collins to Pueblo will serve as the comparative salary 
+market, with greater comparative weight given to agencies within the metropolitan area, 
+particularly those in and around the C-470 corridor.  
+• When necessary, the City may expand its analysis to include comparable jurisdictions 
+across Colorado to ensure sufficient and reliable market data. 
+• Each job will be evaluated and compared to relevant positions in the market, using 
+duties and responsibilities as the basis for comparison. 
+• Pay ranges will be established using comprehensive, survey-driven data provided by 
+independent third-party sources. 
+• Salary survey data will be adjusted using third-party industry and market analysis to 
+reflect projected compensation levels for the upcoming year (i.e., “aging”). 
+• When pay ranges are updated to reflect the market, employees exhibiting performance 
+that meets or exceeds expectations will remain at the same percentile within the 
+adjusted range. 
+• Employees exhibiting performance that does not meet expectations will remain at their 
+current salary or be placed at the minimum of the adjusted range, whichever is greater. 
+• If the salary analysis suggests a reduction in the individual range, the range will be 
+frozen, and employees’ salaries will remain unchanged. 
+  
+Page 9 
+2 
+ 
+Pay-for-Performance Merit Pay 
+• The City will reward employees based on their performance, using formal evaluation 
+procedures and documented appraisal instruments. 
+• Merit increases will be determined based on employee performance, prevailing market 
+trends, and applicable budgetary and economic conditions, and subject to the overall 
+compensation funding approved by City Council. 
+ 
+Employer-Provided Benefits 
+• In years when a comprehensive salary analysis is not conducted, the City will evaluate 
+the competitiveness and value of employer-provided benefits against regional 
+benchmarks to ensure they remain competitive within the defined market. 
+• The City will assess benefit utilization and employee feedback to guide cost-effective 
+enhancements, eliminate underutilized offerings, and ensure offerings remain 
+competitive, valued, and fiscally responsible. 
+ 
+Page 10 

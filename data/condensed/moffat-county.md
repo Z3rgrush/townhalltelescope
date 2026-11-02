@@ -1,45 +1,6 @@
 # moffat-county
 
-## [moffat-county#0] 2026-07-28 | Board of County Commissioners | agenda
-- Villard made a motion to approve the agenda as presented. Bohrer seconded the motion. Motion carried 3-0
-- Resolutions:
-- Contracts dc Reports:
-- Emergency Preparedness Conrract Amendment #4
-- g) CO Youth Continuum - l4tlludicial District Sub-Grantee Agreement
-- Villard made a motion to approve the consent agenda items AJ. Broom seconded the motion. Motion carried
-- Please note that the Board may discuss any topic relevant to County business, whether or not the topic has been specifically noted on
-- Public Comment/General Discussion:
-- siruation is looked into. Bennett also asked about the chip seal project on CR 7 andobserved thar the amounr
-- of gravel seems to be excessive this year. In addition, Bennett made some comments about data centers
-- No General Discussion
-- Planning e* Zoning - Candace Miller
-- Data Center policy & regulation discussion
-- Miller notified the Board that the Planning Deparrment and the Planning & Zoning Commission will srarr a
-- formal review process, beginning at their August 5th meeting, of the Counry's existing zoning resolution and
-- potential regulations as they relate to data centers, and asked for the Board s suppofi and guidance as they
-- Water use and cooling systems;
-- Elecrrical demand, infrastrucfurre, and potential impacts on existing ratepayers;
-- Emergency response, wildfire risk, and public saferfi
-- Economic benefits, employment, taxation, and communiry benefit agreements;
-- Appropriate zoning districts, permitting requirements, and operational standards
-- The purpose of this review is not to approve or reject a pafticular project. It is to ensure that Moffat Counry is
-- Miller reiterated that the Planning 6e Zoning Commission meetings are held on the first Wednesday of each
-- Public Hearing:
-- Resolution 2026-83:July Budget Supplemental (see attached)
-- Villard read the Public Hearing protocol and declared the Public Hearing open
-- Nielson presented theJuly Budget Supplemental and highlighted any transactions that were over $10,000. The
-- suppiemental provides a chance for various departments to amend their budget amounts due to a change in
-- revenues, grants or unanticipated needs
-- Budget supplemental requests by category:
-- *Emergency Reserve is 10% ofthe current year's general fund budget
-- Commissioner Bohrer gave a brief overview of the Supplemental Budget process
-- Supplemental Budget
-- There was no public comment either for or against
-- Back in regular session, Bohrer moved to approve theJuly Budget Suppiemental (Resolution2O26-83). Broom
-- Moffat Economic Development Authority -Jeff Comstock
-- Resolution 2026-87: Resolution Approving the Amended and Restated Invesrment Policy of the
-
-## [moffat-county#1] 2026-08-25 | Board of County Commissioners | agenda
+## [moffat-county#0] 2026-08-25 | Board of County Commissioners | agenda
 - Villard made a motion to approve the agenda as presented. Bohrer seconded the motion. Ir4otion carried 3-0
 - Resolutions:
 - Contracts ec Reports:
@@ -63,7 +24,7 @@
 - Approved by:
 - Approved on: 2)
 
-## [moffat-county#2] 2026-09-08 | Board of County Commissioners | agenda
+## [moffat-county#1] 2026-09-08 | Board of County Commissioners | agenda
 - Viliardmade a motion to approve the agenda as presented. Bohrer seconded the motion. Motion carried 3-0
 - Resolutions:
 - b) 2026-10I: Voided Warrants Resolution flor the month of September
@@ -96,7 +57,7 @@
 - Discuss Loudy-Simpson Park Master Plan (see artached)
 - Binder presented a proposal from Logan Simpson for a Loudy-simpson Park Master PIan, that would assist the
 
-## [moffat-county#3] 2026-09-22 | Board of County Commissioners | agenda
+## [moffat-county#2] 2026-09-22 | Board of County Commissioners | agenda
 - Villard made a motion to approve the agenda as presented. Bohrer seconded the motion. ]r,,lotion carried 3-0
 - Resolutions:
 - Contracts 6u Reports:
@@ -128,3 +89,67 @@
 - Presentation:
 - The Board will consider a motion to convene an executive session, pursuant to the Colorado Open Meetings
 - To discuss personnel matters under s 24-6-402(4)(0, C.R.S., and to discuss documents classified as
+
+## [moffat-county#3] 2026-10-08 | Board of County Commissioners | agenda
+- Road {r Bridge Department - Dan Miller es Natural Resources Department -Jeff Comstock
+- Resolution 2026-120'. Temporary Road Closure: CR 156 (sec attachcd)
+- Milier presented Resolution 2026-120. A resolution of the Board of County Commissioners of Moffat County,
+- Colorado, Authorizing the Temporary Closure of County Road 156 (Echo Park Road) due to Flash Flooding
+- Comstock explained that due to weather related erosion, the Echo Park Road in the Dinosaur National
+- Monument, is very damaged and is not safe for public travel until repairs can happen. Miller stated that the Park
+- Service has archaeological concerns for that area that need to be investigated prior to road work beginning
+- Broom moved to approve Resolution 2026-120'. A resolution of the Board of County Commissioners of Moffat
+- County, Colorado, Authorizing the Temporary Closure of County Road 156 (Echo Park Road) due to Flash
+- Approved by:
+- Approved on: O u,,b.-- e1:, 2a) ?
+
+## [moffat-county#4] 2026-10-13 | Board of County Commissioners | agenda
+- Bohrer made a motion to approve the agenda as presented. Broom seconded the motion. Motion carried 3-0
+- Resolutions:
+- b) 2026-tl2: Voided Warrants Resolution for the month of October
+- e) 2026-116: Amend Resolution 2026-39 - Authorizing Sale of Real Properry to the Browns Park Alumni
+- Contracts dc Reports:
+- Review contract amendment #1
+- j) Services Agreement w/Grindline Skateparks
+- k) Conrract Amendment #l - Charchalis Construction - Vermillion Shop
+- Bohrer made a motion to approve the consent agenda items A-K. Broom seconded rhe motion. Motion carried
+- Please noEe that the Board may discuss any topic relevanE Eo County business, whether or not the topic has been specifically noted on
+- Public Comment/General Discussion:
+- No Public Comment
+- Bohrer commented that he feels that the pubiic comment/panel discussion meetings last week on Data Center
+- reguiations were well attended and there was good discussion regarding the topic
+- Board appointments: (see attached)
+- Broom moved to appoint Kristen Lucero to the l4thJudicial District Community Corrections Board. Villard
+- Broom made a motion to reappoint Dario Georgiou, Shelly Pinnt, and appoint Lexi Weber, Kristine Dunckley,
+- Office of Development Services - Neil Binder
+- Binder presented a sole source services agreement contract with SGM for Engineering Services to conduct a
+- of the contract is $11,600.00
+- Broom moved to approve the contract with SGIvI for Engineering Services for $11,600.00. Viilard seconded the
+- Revisit possibie adoption of Data Center Moratorium (Resolution 2026-103) recommendarion from
+- the Planning & Zoning Commission (October 8,2026)
+- Bohrer commented that after the public meetings lasr week, he feels that the Counry does not need a
+- regulations in place and therefore cannot approve any applications that would come before us
+- Bohrer called for a motion to adopt the Data Center Moratorium (Resolution 2026-103) recommendation frorn
+- the Planning & Zoning Commission. There was no response. The motion died
+- Resolution2026'118: Designating Mountain West Insurance as the Agent of Record for the Moffat
+- She requested approval by the BCC to designate Mountain West Insurance, a local company, to be the Agent of
+- experience, which would allow us to have more hands-on, on-site services. If approved, this would go into
+- Broom moved to approve Resolution 2026-lL8: Designating Mountain West Insurance as the Agent of Record
+- 8:45 am - Public Hearing(s):
+- Present proposed 2026 County Budget for adoption (see attached)
+- Bohrer read the Public Hearing protocol
+- Nielson presented and explained the namative for the proposed 2027 County Budget. By state statute, the
+
+## [moffat-county#5] 2026-10-27 | Board of County Commissioners | agenda
+- Resolutions:
+- c) 2026-122: Transfer of Intergovernment Funds – Payroll Admin Fee Correction (pg 12)
+- Contracts & Reports:
+- j) Road & Bridge Department /Storage Tank Technology – Fuel Tank Removal Testing & Consultation
+- for Great Divide/Vermillion Shop project (pgs 20-28)
+- k) Road & Bridge Department/Stripe-A-Lot – Retainage Release (pg 29)
+- Please note that the Board may discuss any topic relevant to County business, whether or not the topic has been specifically noted on
+- Public Comment/ General Discussion
+- 1) Board Appointments: (pg 38)
+- 2) Present agreement Regarding Provision of Medical Director Services to Moffat County Department of
+- Presentation:
+- ** Agenda is Subject to Change until 24 hours before scheduled Hearings**

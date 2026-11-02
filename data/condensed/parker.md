@@ -1,56 +1,11 @@
 # parker
 
-## [parker#0] 2026-08-03 | Town Council | minutes
-- TOWN OF PARKER COUNCIL
-- Interim Town Attorney Lindsay Jordan advised that there were three topics for discussion in the
-- discussion related to Section 13.03.040(y)(2) of the Parker Municipal Code regarding waivers. The
-- The motion was approved unanimously
-- The following items were discussedduring the Work Session:
-- PUBLIC COMMENTS
-- A. APPROVAL OF MINUTES- July 20, 2026
-- B. ORDINANCE NO. 3. 375. 1 - First Reading
-- A Bill For an Ordinance Affirming thePassageof Emergency Ordinance No. 3.375, Seriesof
-- 2026, a Bill for an Emergency Ordinance to Impose a Temporary Suspensionfor Nine (9)
-- Months in Duration on theAcceptance and Processing of Any Application for Any Land Use
-- Approval or Building Permit for theDevelopment or Construction of Drone Dispatch and
-- Delivery Facilities or Related Use Within the Corporate Limits of the Town of Parker
-- C. RESOLUTION NO: 26- 052
-- A Resolution Accepting theDrainage EasementAgreement by and between VRSliceroo LLC
-- and the Town of Parker for a Portion of Lot 10B, Douglas 234, Filing No. 6, Amendment 2
-- D. RESOLUTION NO. 26- 053
-- A Resolution Accepting a Drainage Easementfrom PRD at Parker, LLC for a Portion of Lot
-- IA, Dransfeldt Place Minor Development Plat Amendment No. 1
-- E. RESOLUTION NO. 26- 054
-- A Resolution Accepting a Drainage Easementfrom O'Reilly Auto Enterprises, LLC for
-- F. RESOLUTION NO. 26- 055
-- A Resolution Accepting a Drainage Easementfrom Town and Country Village Homeowners
-- G. RESOLUTION NO. 26- 056
-- A Resolution Accepting Drainage Easementsfrom CD-Parker, LLC for Portions of Lot 4,
-- Mainstreet& Pine Marketplace Fourth Amendment
-- H. RESOLUTION NO. 26- 057
-- A Resolution Accepting an AccessEasementfrom CD-Parker, LLC for a Portion of Lot 4,
-- I RESOLUTION NO. 26- 058
-- A Resolution Accepting a Drainage Easementfrom Douglas CountyLibraries for a Portion of
-- Lot 1, Mainstreet& Pine Marketplace Fourth Amendment
-- J. CONTRACTS OVER $ 500, 000
-- 1. Pine Drive ( Parker Square Drive to Rodeo Circle) Reconstruction ( CIP26- 014) Contract
-- Amount: 177,546 addition to original contract amount of$ 779,540for a
-- Contractor: TALL Contracting& Consulting Co
-- Brandi Wilks moved and Todd Hendreks seconded to approve Consent Agenda Items 4A through 4J
-- PUBLIC HEARINGS
-- RESOLUTION NO. 26- 059
-- A Resolution Consenting to the Exclusion of Property Located Within Cottonwood Highlands
-- Metropolitan District No. 1 From the Cottonwood Metropolitan District and Approving the
-- Intergovernmental Agreement and Plan Regarding Continuation of Services and Disposition of
-- Mayor Rivero opened the Public Hearing at 7: 10 p.m
-- taxation and facilitate enhanced provision of public services and facilities Cottonwood Highlands # 1
-
-## [parker#1] 2026-08-10 | Town Council | agenda
+## [parker#0] 2026-08-10 | Town Council | agenda
 - 1. Small Business Development Center Update - Ashvina Patel/Feazell - 30 minutes
 - 3. Land Development Ordinance Regarding Sign Enforcement and Temporary Signs - Matthews - 30 minutes
 - 4. Long-Range Plan - Fiandaca/Bever - 1.5 hours
 
-## [parker#2] 2026-08-10 | Town Council | agenda
+## [parker#1] 2026-08-10 | Town Council | agenda
 - 1. Small Business Development Center Update - Ashvina Patel/Feazell - 30 minutes
 - 3. Land Development Ordinance Regarding Sign Enforcement and Temporary Signs - Matthews - 30 minutes
 - 4. Long-Range Plan - Fiandaca/Bever - 1.5 hours
@@ -92,7 +47,7 @@
 - and how to build a strong business plan. It gives new business owners the clarity
 - Our new “Fired-up: I Want to Buy a Business” workshop supports individuals
 
-## [parker#3] 2026-08-17 | Town Council | minutes
+## [parker#2] 2026-08-17 | Town Council | minutes
 - TOWN OF PARKER COUNCIL
 - Interim Town Attorney Lindsay Jordanadvisedthat there was one item for discussionin the Executive
 - Session to consider personnel matters, pursuant to C. R. S. § 24- 6- 402( 4)( f). The topic was the Town
@@ -126,7 +81,7 @@
 - Public Comments: None
 - Brandi Wilks moved and Erik Frandsen seconded to approve Ordinance No. 3. 375. 1 on second reading
 
-## [parker#4] 2026-08-20 | Special Licensing Authority | minutes
+## [parker#3] 2026-08-20 | Special Licensing Authority | minutes
 - PhilipLaBella, BrianWieneke, TimPerkins, TiffanyHowell, andRDKuhns. ChairKelli Nardewas
 - PUBLIC COMMENTS
 - APPROVAL OF MINUTES - July 16, 2026
@@ -149,12 +104,12 @@
 - Brian Wieneke moved and Tim Perkins seconded to approve the application for a new Hotel and
 - Restaurant liquor license for GQue BBQ Parker LLC, d/b/a GQue BBQ, 18424 Cottonwood Drive
 
-## [parker#5] 2026-08-24 | Town Council | agenda
+## [parker#4] 2026-08-24 | Town Council | agenda
 - 1. Axon Countywide Drone as First Responder (DFR) and License Plate Reader (LPR)
 - 3. Merchant Patrol Ordinance Update - Schuster/Jordan - 30 minutes
 - 4. Publications & Legal Notices Ordinance Update - Jordan - 15 minutes
 
-## [parker#6] 2026-08-24 | Town Council | agenda
+## [parker#5] 2026-08-24 | Town Council | agenda
 - 1. Axon Countywide Drone as First Responder (DFR) and License Plate Reader (LPR)
 - 3. Merchant Patrol Ordinance Update - Schuster/Jordan - 30 minutes
 - 4. Publications & Legal Notices Ordinance Update - Jordan - 15 minutes
@@ -198,14 +153,14 @@
 - and was last amended in 2004. The current ordinance contains several outdated, unnecessary,
 - Since the ordinance was last updated, many of the criminal offenses that currently disqualify
 
-## [parker#7] 2026-08-27 | Planning Commission | minutes
+## [parker#6] 2026-08-27 | Planning Commission | minutes
 - APPROVAL OF MINUTES
 - A. A. ORDINANCE NO. 3.372.8 - A Bill For an Ordinance to Amend Subsection
 - 13.09.060(b) of the Parker Municipal Code Concerning Enforcement and
 - Applicant: Town of Parker
 - Department: Community Development, Bryce Matthews and Jen Malley
 
-## [parker#8] 2026-08-27 | Cultural and Scientific Commission | agenda
+## [parker#7] 2026-08-27 | Cultural and Scientific Commission | agenda
 - Parker Science Committee
 - Parker Cultural and Scientific Commission
 - IV. Discuss Parker Science Night
@@ -215,7 +170,7 @@
 - V. Parker Science Committee Member Cap
 - c. Discuss capping at 8 members through attrition
 
-## [parker#9] 2026-09-08 | Town Council | minutes
+## [parker#8] 2026-09-08 | Town Council | minutes
 - TOWN OF PARKER COUNCIL
 - PUBLIC COMMENTS
 - A. APPROVAL OF MINUTES- August 17, 2026
@@ -248,18 +203,18 @@
 - Town of Parker. It is basedon authoritygrantedunderColoradolaw asrecentlyamendedby HouseBill
 - Erik Frandsenmoved and Anne Barrington secondedto approveOrdinance No. 5.84 on secondreading
 
-## [parker#10] 2026-09-10 | Planning Commission | minutes
+## [parker#9] 2026-09-10 | Planning Commission | minutes
 - APPROVAL OF MINUTES
 - PUBLIC HEARINGS
 - A. TOWN OF PARKER 2050 COMPREHENSIVE PLAN ADOPTION
 - Applicant: Town of Parker
 - Department: Community Development - Heather Bennett, Mary Munekata
 
-## [parker#11] 2026-09-14 | Town Council | agenda
+## [parker#10] 2026-09-14 | Town Council | agenda
 - 1. Honoring Parker's Tribal History Discussion - Steve LaPointe/Glassburn - 1 hour
 - 2. Community Partner-Parker History - Jan Truskolaski - 30 minutes
 
-## [parker#12] 2026-09-14 | Town Council | agenda
+## [parker#11] 2026-09-14 | Town Council | agenda
 - 1. Honoring Parker's Tribal History Discussion - Steve LaPointe/Glassburn - 1 hour
 - 2. Community Partner-Parker History - Jan Truskolaski - 30 minutes
 - SUBJECT: Honoring Parker's Tribal History Discussion
@@ -294,7 +249,7 @@
 - and any associated supplemental budget requests
 - Staff is seeking Council feedback on the proposed Interpretive Plan and consensus to proceed
 
-## [parker#13] 2026-09-15 | Cultural and Scientific Commission | agenda
+## [parker#12] 2026-09-15 | Cultural and Scientific Commission | agenda
 - Cultural and Scientific Commission
 - III. Approval of Minutes from July 21, 2026
 - a. Parker Arts Lecture Series
@@ -305,12 +260,12 @@
 - XI. PCSC Presentation to Town Council (Carrie Glassburn, 10 minutes)
 - November 10th – PCSC presentation to Town Council
 
-## [parker#14] 2026-09-17 | Cultural and Scientific Commission | agenda
+## [parker#13] 2026-09-17 | Cultural and Scientific Commission | agenda
 - Parker Cultural and Scientiﬁc Commission
 - Parker Arts Lectures Committee Agenda
 - 4. Process of identifying, researching, vetting, and managing lecturers
 
-## [parker#15] 2026-09-21 | Parker Youth Commission | agenda
+## [parker#14] 2026-09-21 | Parker Youth Commission | agenda
 - Parker Youth Commission Special Meeting Agenda
 - Parker Town Hall
 - 20120 Mainstreet, Parker CO 80138
@@ -318,7 +273,7 @@
 - b. Town of Parker Government
 - c. Identify which role you are interested in
 
-## [parker#16] 2026-09-21 | Town Council | minutes
+## [parker#15] 2026-09-21 | Town Council | minutes
 - TOWN OF PARKER COUNCIL
 - Interim Town Attorney Lindsay Jordan advised that there was one topic for discussion in the Executive
 - SPECIAL PRESENTATIONS- Recognition of Service to Parker Youth Commission Member
@@ -358,18 +313,18 @@
 - Approval of this resolution authorized an amended and restated Intergovernmental Agreement for
 - school resource officer services during the 2026- 2027 school year between the Town of Parker and
 
-## [parker#17] 2026-09-24 | Cultural and Scientific Commission | agenda
+## [parker#16] 2026-09-24 | Cultural and Scientific Commission | agenda
 - Parker Science Committee
 - Parker Cultural and Scientific Commission
 - IV. Discuss Parker Science Night
 - b. Discuss and assign committee member roles regarding vendor solicitation,
 - vendor follow-up, Parker Science Night tasks, school outreach, etc
 
-## [parker#18] 2026-09-28 | Town Council | agenda
+## [parker#17] 2026-09-28 | Town Council | agenda
 - 1. Downtown Parker and Chambers Commercial Center Business Improvement
 - Districts (BID) 2027 Operating Plans and Budget Presentations - Tony
 
-## [parker#19] 2026-09-28 | Town Council | agenda
+## [parker#18] 2026-09-28 | Town Council | agenda
 - 1. Downtown Parker and Chambers Commercial Center Business Improvement
 - Districts (BID) 2027 Operating Plans and Budget Presentations - Tony
 - Chris Bever, Budget Manager
@@ -406,7 +361,7 @@
 - Staff has identified two options for Council consideration:
 - Option 2 – Amend the LDO to allow wildlife exclusion fencing for plant nurseries
 
-## [parker#20] 2026-09-29 | Parks, Recreation & Open Space Advisory Commission | agenda
+## [parker#19] 2026-09-29 | Parks, Recreation & Open Space Advisory Commission | agenda
 - Parks, Recreation and Open Space (PROS)
 -  Toby Levy, Secretary
 -  Brett Collins, Park Project Manager
@@ -429,7 +384,7 @@
 - Skate with Santa December 12, 9 a.m. TBD Ice Trail at Discovery Park
 - SRP Walking Tour TBD Brett Collins Salisbury park
 
-## [parker#21] 2026-10-02 | Town Council | agenda
+## [parker#20] 2026-10-02 | Town Council | agenda
 - Town Council Budget Workshop
 - 8-8:30 a.m. Coffee & settling in
 - 8:35 a.m. Proposed 2027 Town budget overview
@@ -440,7 +395,7 @@
 - 2:15 p.m. Parker / Lone Tree IGAs
 - 2:45 p.m. Council Travel Budget
 
-## [parker#22] 2026-10-05 | Town Council | minutes
+## [parker#21] 2026-10-05 | Town Council | minutes
 - TOWN OF PARKER COUNCIL
 - Interim Town Attorney Lindsay Jordan advised that there were three topics for discussion in the
 - mattersrelatedto Dial v. Brukbacher. The third topic wasto considerpersonnelmatters,pursuantto
@@ -469,14 +424,14 @@
 - Hilltop RoadIntersectionImprovements(CIP23-027) in the amountof$ 1,339,679.75
 - Laura Hefta moved and Anne Barrington seconded to approve the staff recommendation as a part of the
 
-## [parker#23] 2026-10-06 | Town Council | agenda
+## [parker#22] 2026-10-06 | Town Council | agenda
 - TOWN OF PARKER
 - THIS SPECIAL MEETING WAS REQUESTED BY TOWN COUNCIL, AS PROVIDED IN THE HOME
 - Parker Town Council
 - “To consider personnel matters, pursuant to C.R.S. § 24 -6-402(4)(f).”
 - 1. Town Manager Evaluation Discussion
 
-## [parker#24] 2026-10-08 | Planning Commission | minutes
+## [parker#23] 2026-10-08 | Planning Commission | minutes
 - APPROVAL OF MINUTES
 - PUBLIC HEARINGS
 - A. SALISBURY NORTH MDP F1 AMD2 L1 PHASE 2 PARK IMPROVEMENTS
@@ -484,7 +439,7 @@
 - Motsenbocker Road and Todd Drive
 - Department: Community Development, Elizabeth Steward
 
-## [parker#25] 2026-10-13 | Art in Public Places Committee | agenda
+## [parker#24] 2026-10-13 | Art in Public Places Committee | agenda
 - 2) Approval of Minutes from August’s PAC Meeting
 - 4) Update on Current PAC Projects
 - PACE Parking Garage Mural and Website
@@ -498,7 +453,7 @@
 - Budget and Reserve Account
 - Jan/Feb Town Council Presentation
 
-## [parker#26] 2026-10-15 | Special Licensing Authority | agenda
+## [parker#25] 2026-10-15 | Special Licensing Authority | agenda
 - PARKER SPECIAL LICENSING AUTHORITY
 - Public comment for items that are not on the agenda may be made in person or electronically at
 - The Town Clerk can be reached at 303-805-3198. Public comments submitted electronically through the
@@ -510,7 +465,7 @@
 - Discussion Regarding Proposed Ordinance For Security Guard Licensing
 - Discussion Regarding Proposed Ordinance for the Issuance of a Manufacturer Sales Permit
 
-## [parker#27] 2026-10-19 | Parker Youth Commission | agenda
+## [parker#26] 2026-10-19 | Parker Youth Commission | agenda
 - Parker Youth Commission Meeting Agenda
 - Parker Town Hall - 20120 Mainstreet, Parker CO 80138 (Antelope Creek Conference Room)
 - 3. Approval of Minutes
@@ -519,10 +474,10 @@
 - a. Finish Onboarding (Town of Parker Government) and Questions
 - d. Initiatives (Updates to TC Sign-Ups, Pop-up Events, Youth Awards, Wildlife Hotline
 
-## [parker#28] 2026-10-19 | Town Council | agenda
+## [parker#27] 2026-10-19 | Town Council | agenda
 - 2. LDO Requirements for Wildlife Fencing Continued Discussion - Beaupre/Matthews - 15 minutes
 
-## [parker#29] 2026-10-19 | Town Council | agenda
+## [parker#28] 2026-10-19 | Town Council | agenda
 - 2. LDO Requirements for Wildlife Fencing Continued Discussion - Beaupre/Matthews - 15 minutes
 - Chris Bever, Budget Manager
 - third quarter report for fiscal year 2026, providing budget and financial information from July 1,
@@ -542,7 +497,7 @@
 - Changes in fencing materials every 50 feet along arterial and collector roads (typically
 - wildlife exclusion fencing or whether alternative standards should be considered
 
-## [parker#30] 2026-10-19 | Town Council | agenda
+## [parker#29] 2026-10-19 | Town Council | agenda
 - TOWN OF PARKER COUNCIL AGENDA
 - Councilmembers eliminating lengthy discussions to gain a basic understanding. Timely action and short discussion on agenda it ems
 - Ordinances listed for first reading are being approved to introduce them. Public comment will be held upon second reading
@@ -580,23 +535,23 @@
 - B. RESOLUTION NO. 26-065
 - A Resolution Approving the 2027 Operating Plan and Budget for the Downtown Parker
 
-## [parker#31] 2026-10-22 | Planning Commission | minutes
+## [parker#30] 2026-10-22 | Planning Commission | minutes
 - APPROVAL OF MINUTES
 - A. ADOPTION OF THE 2026 THREE-MILE AREA PLAN
 - Applicant: Town of Parker - Three - Mile Radius
 - Department: Town of Parker
 
-## [parker#32] 2026-10-22 | Cultural and Scientific Commission | agenda
+## [parker#31] 2026-10-22 | Cultural and Scientific Commission | agenda
 - Parker Cultural and Scientiﬁc Commission
 - Parker Arts Lectures Committee Agenda
 - Public Art in Parker
 - Colorado Water Concerns
 
-## [parker#33] 2026-10-26 | Town Council | agenda
+## [parker#32] 2026-10-26 | Town Council | agenda
 - 2. Parker Senior Center Update - Senior Center Staff/Colton - 45 minutes
 - 3. 2027 Budget Discussion - Fiandaca/Bever - 45 minutes
 
-## [parker#34] 2026-10-26 | Town Council | agenda
+## [parker#33] 2026-10-26 | Town Council | agenda
 - 2. Parker Senior Center Update - Senior Center Staff/Colton - 45 minutes
 - 3. 2027 Budget Discussion - Fiandaca/Bever - 45 minutes
 - FROM: Mary Colton, Parks and Recreation Director
@@ -633,3 +588,71 @@
 - changes made to the budget since the October 2, 2026 Town Council budget workshop
 - presentation. Following the presentation, the Town's 2027 Proposed Budget was published on October
 - prior to the public hearing on November 2, 2026. This study session topic provides the opportunity to
+
+## [parker#34] 2026-11-02 | Town Council | agenda
+- TOWN OF PARKER COUNCIL AGENDA
+- Councilmembers eliminating lengthy discussions to gain a basic understanding. Timely action and short discussion on agenda it ems
+- Ordinances listed for first reading are being approved to introduce them. Public comment will be held upon second reading
+- Public comment for items that are not on the agenda may be made in person or electronically at
+- Public comments submitted electronically through the website that are received by 5:00 p.m. on the day of the regular or special
+- Town Council meeting will be provided to the Town Council and will be included with the approved minutes of the Town Council
+- 2. PUBLIC COMMENTS (No action will be taken on these items.) Public Comment is an opportunity for Town
+- with preference to Town residents—but if public comment extends beyond the allotted 30 minutes, Town Council will continue the comment
+- public comment are not on the agenda and other potentially interested parties would not, therefore, be aware of the discussion of these
+- matters, the Town Council will not engage in dialogue regarding any items raised during public comment
+- Consent Agenda Items are considered to be routine and will be enacted by one motion and vote. There will be no separate discussion of
+- Consent Agenda Items unless Council votes to remove an item for individual discussion. Ordinances on the Consent Agenda are for
+- introduction only and will not be removed for discussion
+- A. APPROVAL OF MINUTES - October 19, 2026
+- B. ORDINANCE NO. 1.678 - First Reading
+- A Bill for an Ordinance to Levy General Property Taxes for the Year 2026 to Help Defray the Costs
+- of Government for the Town of Parker, Colorado, for the 2027 Budget Year
+- C. ORDINANCE NO. 1.667.2 - First Reading
+- A Bill for an Ordinance to Adopt the 2026 Revised Budget for the Town of Parker and to Make
+- D. ORDINANCE NO. 1.680 - First Reading
+- A Bill for an Ordinance Establishing the Special Fund for the Town of Parker Risk Management
+- E. ORDINANCE NO. 1.681 - First Reading
+- A Bill for an Ordinance Establishing the Special Fund for the Town of Parker My Mainstreet
+- General Improvement District
+- F. ORDINANCE NO. 8.22.2 - First Reading
+- A Bill for An Ordinance to Amend Sections 4.08.070, 4.08.100, and 4.08.130 of the Parker Municipal
+- Code Stormwater Management Program
+- G. ORDINANCE NO. 1.682 - First Reading
+- A Bill for an Ordinance Conveying Certain Real Property By Quit Claim Deed to University of
+- H. RESOLUTION NO. 26-069
+- A Resolution Approving the First Amendment to the Intergovernmental Agreement Among the Town
+- of Parker, Douglas County, and the Parker Area Historical Society, d/b/a Parker History, for the
+
+## [parker#35] 2026-11-02 | Town Council | agenda
+- TOWN OF PARKER COUNCIL AGENDA
+- Councilmembers eliminating lengthy discussions to gain a basic understanding. Timely action and short discussion on agenda it ems
+- Ordinances listed for first reading are being approved to introduce them. Public comment will be held upon second reading
+- Public comment for items that are not on the agenda may be made in person or electronically at
+- Public comments submitted electronically through the website that are received by 5:00 p.m. on the day of the regular or special
+- Town Council meeting will be provided to the Town Council and will be included with the approved minutes of the Town Council
+- 2. PUBLIC COMMENTS (No action will be taken on these items.) Public Comment is an opportunity for Town
+- with preference to Town residents—but if public comment extends beyond the allotted 30 minutes, Town Council will continue the comment
+- public comment are not on the agenda and other potentially interested parties would not, therefore, be aware of the discussion of these
+- matters, the Town Council will not engage in dialogue regarding any items raised during public comment
+- Consent Agenda Items are considered to be routine and will be enacted by one motion and vote. There will be no separate discussion of
+- Consent Agenda Items unless Council votes to remove an item for individual discussion. Ordinances on the Consent Agenda are for
+- introduction only and will not be removed for discussion
+- A. APPROVAL OF MINUTES - October 19, 2026
+- B. ORDINANCE NO. 1.678 - First Reading
+- A Bill for an Ordinance to Levy General Property Taxes for the Year 2026 to Help Defray the Costs
+- of Government for the Town of Parker, Colorado, for the 2027 Budget Year
+- C. ORDINANCE NO. 1.667.2 - First Reading
+- A Bill for an Ordinance to Adopt the 2026 Revised Budget for the Town of Parker and to Make
+- D. ORDINANCE NO. 1.680 - First Reading
+- A Bill for an Ordinance Establishing the Special Fund for the Town of Parker Risk Management
+- E. ORDINANCE NO. 1.681 - First Reading
+- A Bill for an Ordinance Establishing the Special Fund for the Town of Parker My Mainstreet
+- General Improvement District
+- F. ORDINANCE NO. 8.22.2 - First Reading
+- A Bill for An Ordinance to Amend Sections 4.08.070, 4.08.100, and 4.08.130 of the Parker Municipal
+- Code Stormwater Management Program
+- G. ORDINANCE NO. 1.682 - First Reading
+- A Bill for an Ordinance Conveying Certain Real Property By Quit Claim Deed to University of
+- H. RESOLUTION NO. 26-069
+- A Resolution Approving the First Amendment to the Intergovernmental Agreement Among the Town
+- of Parker, Douglas County, and the Parker Area Historical Society, d/b/a Parker History, for the

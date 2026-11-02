@@ -1,65 +1,82 @@
-- title: Rezoning 242 and 252 E 5th Street for A-frame homes
-  summary: The planning commission recommended rezoning two steep commercial lots on East 5th Street to medium density residential for two A-frame homes, after a neighbor worried about losing commercial zoning flexibility and another resident spoke in support.
-  where: 242 & 252 E 5th St
+- title: Rezoning 242 & 252 E 5th St from General Commercial to Medium Density Residential
+  summary: LandShark Investments LLC asked to rezone two vacant lots on E. 5th Street so it can build two roughly 2,100 sq ft A-frame single-family homes, arguing the slope and site make commercial use impractical. After a public hearing on Oct. 21, the Planning Commission found the application met the code criteria and moved to recommend approval of Ordinance 895. A neighbor raised concern about losing GC flexibility in the area, and another resident spoke in support.
+  where: 242 and 252 E 5th Street
   refs:
   - 4
-  - 9
-  public_comment: true
+  - 8
   topics:
   - Zoning & development
   - Housing
-- title: Outdoor dining and sales rules
-  summary: The town moved to allow outdoor sales, eating and drinking in its zoning use table, with safety standards near roadways.
-  where: Downtown Nederland
-  refs:
-  - 1
-  - 4
-  - 9
+  - Land & property
   public_comment: true
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Temporary use permits
-  summary: The planning commission and trustees worked on Ordinance 893 for staff-approved temporary use permits of up to 90 days that staff can revoke over safety problems.
+- title: Temporary use permits (Ordinance 893)
+  summary: The Planning Commission reviewed a draft ordinance creating staff-reviewed temporary use permits, generally limited to 90 days and revocable if a use creates health or safety problems. A processing fee would be set by resolution, and staff could require neighbor notification when a use might significantly affect neighbors. A resident submitted public comment.
   where: Townwide
   refs:
   - 1
-  - 6
-  public_comment: true
   topics:
   - Zoning & development
+  - Fees & rates
+  - Economic development
+  public_comment: true
+- title: Allowing outdoor sales, eating and drinking (Ordinance 894)
+  summary: The Planning Commission considered amending the use group table to allow outdoor sales, eating and drinking and other outdoor commercial activities, with safety standards near roadways. A commissioner moved to recommend approval of Ordinance 894, and a resident spoke in support at the Oct. 21 meeting.
+  where: Townwide
+  refs:
+  - 1
+  - 4
+  - 8
+  topics:
+  - Downtown & business
+  - Zoning & development
+  public_comment: true
+- title: Moving Board of Zoning Adjustment duties to the Planning Commission (Ordinance 896)
+  summary: Ordinance 896 would dissolve the separate Board of Zoning Adjustment and give its variance functions to the Planning Commission. Commissioners cited the low number of variance applications and the difficulty of keeping a separate volunteer board filled.
+  where: Townwide
+  refs:
+  - 4
+  - 8
+  topics:
   - Government operations
+  - Zoning & development
 - title: Flex zoning for housing and redevelopment
-  summary: The planning commission began discussing flex zoning to allow more housing types and mixed uses, including in the Wolf Tongue industrial area and near East Street Garage.
-  where: Wolf Tongue area, East Street
+  summary: The Planning Commission began discussing 'flex zoning,' a concept in the Comprehensive Plan and Downtown Subarea Plan, to allow more housing types, mixed uses and affordable-housing incentives. The industrial Wolf Tongue area and General Commercial properties near East Street Garage and Mountain Auto were discussed as possible candidates, with limited infrastructure noted as a challenge.
+  where: Wolf Tongue industrial area; East Street Garage and Mountain Auto area
   refs:
   - 1
   topics:
   - Zoning & development
   - Housing
-- title: Parks, open space and trails master plan
-  summary: The parks board finished revisions to the parks, recreation, open space and trails plan for trustees to review, and kept planning a replacement for the Chipeta Park playground.
+- title: ADU code amendments (Ordinance 892)
+  summary: The Planning Commission moved to recommend approval of draft Ordinance 892, which amends section 16-33 of the municipal code on accessory dwelling units.
+  where: Townwide
+  refs:
+  - 1
+  topics:
+  - Housing
+  - Zoning & development
+- title: Chipeta Park playground replacement and PROST update
+  summary: The parks advisory board continued discussing a vision, grant opportunities and priorities for replacing the Chipeta Park playground. It also worked toward final revisions of the PROST (parks, recreation, open space and trails) update and reviewed strategic goals for the Board of Trustees.
   where: Chipeta Park
   refs:
   - 0
-  - 6
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Merging the zoning adjustment board into the planning commission
-  summary: The town moved an ordinance to dissolve its Board of Zoning Adjustment and hand its variance work to the planning commission, citing few applications and trouble filling the volunteer board.
+- title: Town property purchase for recreational activities (executive session)
+  summary: The Board of Trustees scheduled executive sessions on Oct. 20 and Oct. 29 to discuss the Town's purchase of property and operations for recreational activities. No details or decisions appear in the documents.
   where: Townwide
   refs:
-  - 4
-  - 9
+  - 7
+  - 10
+  topics:
+  - Land & property
+  - Recreation & trails
+- title: Planning Commission strategic goals 2026-2027
+  summary: The Planning Commission discussed its strategic planning goals for 2026-2027 as part of the Town's planning priorities.
+  where: Townwide
+  refs:
+  - 1
   topics:
   - Government operations
   - Zoning & development
-- title: Safer Main Streets crosswalk and sidewalk project
-  summary: Trustees approved an engineering agreement for crosswalk and sidewalk improvements under the Safer Main Streets program, and backed the fire district's wildfire mitigation grant.
-  where: Main Street
-  refs:
-  - 6
-  topics:
-  - Roads & traffic
-  - Fire & emergencies

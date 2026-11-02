@@ -94,12 +94,30 @@
 - Middle Park Market Café, LLC dba Middle Park Meat Company and Jon Schein
 - 9:15 a.m. BUDGET HEARINGS
 
-## [grand-county#6] 2026-10-12 | Middle Park Fair and Rodeo | agenda
-- Approve August 14th meeting minutes
-- Public Comments - limited to 3 minutes
-- 2027 Rodeo Contractor RFP approval
+## [grand-county#6] 2026-10-12 | Middle Park Fair and Rodeo | minutes
+- representation
+- application,
 
-## [grand-county#7] 2026-10-20 | County Commissioners | agenda
+## [grand-county#7] 2026-10-17 | Historical Preservation Board | minutes
+- Tuesday, September 1, 20266:30 p.m.Grand County Road and Bridge Offices467 Topaz Ave., Granby, Colorado
+- Vacant: Winter Park representative
+- Board members introduced themselves and briefly described their backgrounds, community representation, and experience related to historic preservation
+- The officers will serve one-year terms and may serve successive terms pursuant to the Board’s governing resolution
+- Board Organization and Governing Resolution
+- The Board reviewed the recently amended resolution governing the Grand County Historic Preservation Board and discussed its designation procedures, review responsibilities, meeting requirements, and relationship with the Board of County Commissioners
+- Members discussed future consideration of staggered Board terms, coordination with Grand County staff and Planning and Zoning, procedures concerning historic designation and the alteration, relocation, or demolition of designated historic properties, administrative support, and consultation with the
+- The Board also discussed its potential advisory role when historic resources may be affected by federal projects, including participation in Section 106 review
+- Certified Local Government Status
+- The Board identified restoration of Grand County’s Certified Local Government (CLG) status as an immediate priority
+- Chair Johnson agreed to contact History Colorado to confirm the current CLG reinstatement requirements, application process, and next steps before substantial application work is undertaken
+- The Board discussed longer-term priorities, including historic resource inventories, local landmark and historic district designations, public education, grant opportunities, and development of a countywide historic preservation plan
+- Members also discussed supporting History Colorado’s upcoming presentation concerning historic preservation and preservation tax credits, scheduled for September 16, 2026
+- The Board discussed the availability of contracted staff support under its governing resolution. Further consideration was deferred until the Board’s priorities and staffing needs are more fully developed
+- Public Comment
+- A member of the public asked what types of properties and resources may qualify for historic designation, including whether historic sites and roads may be eligible
+- The Board discussed the designation criteria contained in its governing resolution and noted that eligible historic resources are not limited to buildings and may include landmarks, sites, districts, and cultural landscapes associated with Grand County’s history, provided the applicable designation 
+
+## [grand-county#8] 2026-10-20 | County Commissioners | agenda
 -  Approval of Board Minutes
 - o Approval of Weekly Payments
 - o Fifth Asset, Inc. dba DebtBook Contract Renewal
@@ -114,3 +132,27 @@
 - 10:15 a.m. Public Hearing - St. Joseph's Foundation Retreat Camping Special Use Permit
 - 10:30 a.m. Public Hearing - Grand County Departmental Fee Changes
 - 11:00 a.m. Public Hearing - Model Traffic Code Amendment, Ordinance 23, Second Reading
+
+## [grand-county#9] 2026-10-27 | County Commissioners | agenda
+-  Approval of Board Minutes
+-  Finance, Approval of Weekly Payments
+-  General Public Comments
+- o Commissioners and Staff typically do not respond during public comments
+-  Departmental Contracts and Updates
+- o Water Resources, Rozaklis and Associates Water Rights Accounting Contract
+- o Road and Bridge / Airports
+-  High West Heating & Cooling, LLC Contract
+-  Colorado Prevention Center Agreement
+-  Tiga Advertising, Inc. Agreement
+- o Executive Session Pursuant to C.R.S. § 24-6-402(4)(a) The purchase,
+- o Resolution Amendments
+- 10:15 a.m. Open Lands, Rivers and Trails Fall Grant Cycle
+- 11:00 a.m. Public Hearing - Grand County Subdivision Regulations Amendments
+- 12:30 p.m. Public Hearing - Colorado Skijoring / dba Grand Lake Skijoring Temporary Use
+- Permit (continued from 10/13/2026)
+
+## [grand-county#10] 2026-10-27 | Board of Appeals | agenda
+- Appeal 1) Stillwater Storage – 9405 U.S. HWY 34 – Building Permits No. GC-B-2026-0231 & GC-B
+- Appeal 2) Storage At The Fort/Uplift – 10393 U.S. Highway 34, Building D – Building Permit GC-B
+- concerning the application and interpretation of Grand County’s adopted building code
+- regarding the Storage at the Fort/Uplift Self Storage project at 10393 U.S. Highway 34

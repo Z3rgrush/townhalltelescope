@@ -1,117 +1,123 @@
-- title: License plate readers and security cameras
-  summary: A resident asked for an independent investigation of the Town's license plate reader cameras and potential legal claims. Council heard a staff presentation on the camera technology on Sept. 8 and held a dedicated public comment period on cameras and license plate readers on Sept. 22, including discussion of the contract with the Sheriff's Office.
+- title: Automated license plate reader cameras and security cameras
+  summary: Residents, including Eric Medina, pressed the Council on license plate reader cameras, asking for an independent investigation and raising possible legal claims. Staff presented on the Town's camera technology, the Council held a dedicated public comment period on ALPRs on Sept. 22, and a records request on the cameras came up in October. The contract with the Sheriff's Office was also discussed.
   where: Townwide
   refs:
+  - 3
   - 4
-  - 5
-  public_comment: true
+  - 6
   topics:
   - Policing & public safety
   - Ethics & transparency
   - Lawsuits & legal
-- title: Tower Center PUD amendment and Filing No. 2 final plat
-  summary: Council amended the Tower Center PUD Guide (Ordinance 10) after a second-reading hearing on Aug. 11. It tabled, then on Aug. 25 approved, Resolution 22 for the Filing No. 2 final plat and subdivision improvement agreements. On Sept. 8 it approved Resolution 25 assigning the improvement agreement.
+  public_comment: true
+- title: Tower Center PUD amendment, Filing No. 2 plat and improvement agreements
+  summary: Council approved Ordinance 10 amending the Tower Center PUD Guide after a public hearing on Aug. 11. Resolution 22 on the Filing No. 2 final plat and subdivision improvement agreements was tabled, then approved Aug. 25. Resolution 25 on assignment and assumption of the improvement agreement was approved Sept. 8.
   where: Tower Center
   refs:
   - 0
   - 1
-  - 2
-  - 4
+  - 3
   topics:
   - Zoning & development
   - Land & property
-- title: Lodging tax ballot measure
-  summary: Council approved Resolution 23 calling a special coordinated election on a town lodging tax that would replace the existing county tax rather than add a new one. Discussion covered a resident's letter about the ballot measure and the ballot language.
-  where: Townwide
-  refs:
-  - 2
   public_comment: true
-  topics:
-  - Tourism & events
-  - Budget & taxes
-  - Elections
-- title: State collection of sales tax (Ordinance 11)
-  summary: Council passed Ordinance 11, rewriting Chapter 3.02 so the Town's sales tax rules comply with state statutes and allow the state to collect the tax. It was approved on first reading Aug. 11 and on second reading Aug. 25.
+- title: Lodging tax ballot question
+  summary: Council approved Resolution 23 calling a special coordinated election on a Town lodging tax. Staff said it would replace the existing county tax rather than add a new one. A resident letter asked about the ballot measure and the ballot language was discussed.
   where: Townwide
   refs:
   - 1
-  - 2
+  topics:
+  - Elections
+  - Budget & taxes
+  - Tourism & events
+  public_comment: true
+- title: State collection of sales tax (Ordinance 11)
+  summary: Council passed Ordinance 11 on first reading Aug. 11 and on second reading Aug. 25. It repeals and re-enacts the sales tax chapter to comply with state statutes and allow state collection of sales tax.
+  where: Townwide
+  refs:
+  - 0
+  - 1
   topics:
   - Budget & taxes
   - Government operations
-- title: Clubhouse restoration project
-  summary: Council approved Change Order 2 ($241,269.06) with A.J. Construction on Aug. 11, and Change Order 3 on Sept. 8. Staff said the project is complete apart from a final punch list.
+- title: 2027 budget and financial advisor
+  summary: Staff are drafting the 2027 budget, and a resident asked that issues be considered in the upcoming budget talks. Council approved a Municipal Financial Advisor contract with UMB Financial Services for up to $50,000 and accepted the 2025 audit presentation.
+  where: Townwide
+  refs:
+  - 3
+  - 4
+  topics:
+  - Budget & taxes
+  - Government operations
+  public_comment: true
+- title: Siena Lake settlement with JPJG
+  summary: A Denver resident, Rex Roberts, asked Council to consider a proposed settlement between the Town and JPJG related to the Siena Lake project.
+  where: Siena Lake
+  refs:
+  - 6
+  topics:
+  - Lawsuits & legal
+  - Land & property
+  public_comment: true
+- title: Changes to public comment policy
+  summary: After the attorney reviewed the history and legal context, Council decided on Sept. 22 to move to a general public comment period at the start of each meeting. Mayor Green explained the changes Oct. 13, citing liability considerations.
+  where: Town Council meetings
+  refs:
+  - 4
+  - 6
+  topics:
+  - Government operations
+  - Ethics & transparency
+  public_comment: true
+- title: Clubhouse restoration change orders
+  summary: Council approved Change Order 2 ($241,269.06) and Change Order 3 with A.J. Construction for the clubhouse renovation. By Sept. 8 the project was complete except for a final punch list.
   where: Gypsum clubhouse
   refs:
-  - 1
-  - 4
+  - 0
+  - 3
   topics:
-  - Historic preservation
   - Recreation & trails
   - Government operations
-- title: 2027 budget and municipal financial advisor
-  summary: Staff are developing the draft 2027 budget. Council approved a municipal financial advisor contract with UMB Financial Services for up to $50,000 and accepted the 2025 audit presentation.
-  where: Townwide
+- title: 'Water system: Cooley Mesa pump station generator and Mosher plant'
+  summary: Council awarded the Cooley Mesa Pump Station backup generator contract to Pinnacle Electric for $131,183.68. A lightning strike at the Mosher water plant was reported, and water use was reported down 20 percent from last year.
+  where: Cooley Mesa Road; Mosher water plant
   refs:
+  - 0
   - 4
-  - 5
-  public_comment: true
+  - 6
   topics:
-  - Budget & taxes
-  - Government operations
+  - Water
+  - Utilities
 - title: I-70 Eagle Airport Interchange grant application
   summary: Council authorized an application to the FHWA PROTECT grant program for planning and design of the I-70 Eagle Airport Interchange project.
   where: I-70 Eagle Airport Interchange
   refs:
-  - 5
+  - 4
   topics:
   - Roads & traffic
-  - Airports
-- title: Public comment policy change
-  summary: After a legal review from the Town Attorney, Council decided to move to a general public comment period at the start of each meeting.
-  where: Town Council meetings
+- title: Fire restrictions and wildfire planning
+  summary: Council confirmed moving from Stage 2 to Stage 1 fire restrictions on Sept. 8, and approved another administrative order Oct. 13. Wildland fire officials are scheduled to give a fall update and 2027 plan.
+  where: Townwide
   refs:
-  - 5
-  public_comment: true
-  topics:
-  - Government operations
-  - Ethics & transparency
-- title: Road and public works contracts
-  summary: Council approved Change Order 2 ($14,570.63) for the 2025/2026 chipseal and slurry seal street renovations, and change orders for the Gypsum Recycling Center totaling $28,598.27, of which Gypsum pays $12,111.63 and Eagle County the rest. A bid selection for a Cooley Mesa Road pump station generator is on the Oct. 13 agenda.
-  where: Townwide; Cooley Mesa Road pump station
-  refs:
-  - 2
-  - 4
+  - 3
+  - 6
   - 7
   topics:
-  - Roads & traffic
+  - Fire & emergencies
+- title: Amazon facility public improvements dedication
+  summary: Council is scheduled to consider Resolution 30 accepting dedication of public improvements for the Amazon facility.
+  where: Amazon facility
+  refs:
+  - 7
+  topics:
+  - Zoning & development
   - Utilities
-  - Environment & climate
-- title: Sweetwater Lake NEPA project and Abrams Creek crossing
-  summary: Council received an Aug. 11 item on the Sweetwater Lake NEPA project covering safety, wildlife and history. On Aug. 25 it heard an update on the Abrams Creek crossing project and water quality.
-  where: Sweetwater Lake; Abrams Creek
+- title: Street chipseal and recycling center change orders
+  summary: Council approved Change Order 2 with A-1 Chipseal ($14,570.63) for the 2025/26 street renovations. It also approved change orders 1-3 for the Recycling Center ($28,598.27, shared with Eagle County).
+  where: Townwide; Gypsum Recycling Center
   refs:
   - 1
-  - 2
+  - 3
   topics:
-  - Recreation & trails
-  - Water
+  - Roads & traffic
   - Environment & climate
-- title: Water and wastewater returned payment rules
-  summary: Council held a public hearing and approved Ordinance 8, amending the municipal code on returned payments for water and wastewater service so the Town can require certified funds. An ordinance amending other water code sections (Ordinance 9) was also heard.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Water
-  - Fees & rates
-  - Utilities
-- title: Bear-resistant trash and wildlife
-  summary: Council heard statistics on bears from Colorado Parks and Wildlife and discussed the availability and cost of bear-resistant cans.
-  where: Townwide
-  refs:
-  - 4
-  topics:
-  - Agriculture & wildlife
-  - Environment & climate
-  - Utilities

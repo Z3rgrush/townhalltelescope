@@ -1,36 +1,6 @@
 # la-junta
 
-## [la-junta#0] 2026-08-03 | City Council | minutes
-- still has not received her records request
-- MOTION TO APPROVE THE AUGUST 3, 2026, CONSENT AGENDA: Velasquez
-- DISCUSSION: There was no discussion
-- A. Second Reading/AN ORDINANCE AMENDING ORDINANCE NO. 1688
-- REMIT LODGING TAXES ON BEHALF OF HOSTS WITHIN THE CITY OF LA
-- MOTION TO PASS THE ORDINANCE ON SECOND READING: Rikhof
-- DISCUSSION: There has been plenty of discussion on this topic. It's been looked at
-- City Attorney Buchner: A resolution was passed that adopted a conflict of interest
-- disclosure form that was discussed at the last regular meeting that encapsulates the two
-- Colorado Constitution. There's a host of conflicts, from gifts to family to contract interest,
-- etc., but it would be more productive of a conversation if we discussed the specific
-- points of issues that Council Member Rikhof wanted to discuss and other council
-- members wanted to discuss. The broader issue is, if and when the board adopts the
-- discussion regarding informal process, ethics board, elected officials, employees and
-- The last day to purchase Rockies tickets is August 14th
-- Police Department: 1,800 calls for service for the month of July, 82 arrests, 146
-- The PD is hosting a P.O.S.T. approved handgun red dot site instructor school
-- Fire Department: 199 calls total. 146 were for EMS. There were 10 accidents and
-- complete their wild land fire course
-- Water Department: Will be redistributing the lead and copper surveys, either
-- Airport: Project has been pushed back a little due to circumstances outside our
-- Budget Workshop: Will be this Wednesday night from 4:30 p.m. to 6:00 p.m. at
-- with supervisors for the budget process starting the week of the 17th
-- Budget Work session this Wednesday at 4:30 p.m
-- Ward 3 listening event on August 10th at 6:00 p.m. at the Brick & Tile Park
-- to the police department and criminal assertions, which is way outside any
-- Budget Meet & Greet. All the department heads will be in attendance
-- pickleball courts at City Park. We had a group out there last night and noticed
-
-## [la-junta#1] 2026-08-11 | Board of Utilities  | minutes
+## [la-junta#0] 2026-08-11 | Board of Utilities  | minutes
 - Tom Seaba, Director of Water Utilities
 - Regular Meeting of July 14, 2026. Hearing none, the Chairman asked for a motion to
 - approve the minutes as published
@@ -64,7 +34,7 @@
 - Upgraded a 208 transformer bank at 317 W. 3rd Street
 - Mayor Ayala: People are saying that La Junta has the highest utility rates in Colorado,
 
-## [la-junta#2] 2026-08-17 | City Council | minutes
+## [la-junta#1] 2026-08-17 | City Council | minutes
 - Mascarenas (Industrial Park), Kasey Miehlke (La Junta), Gary Reed (Rocky
 - EMPLOYEE SERVICE AWARDS
 - 1977 - During high school worked in Fire Department
@@ -89,7 +59,7 @@
 - Budget Meet & Greet was at the Senior Center. Need to figure out a different way
 - There was a great turnout at Police in the Park. Lots of kids and community
 
-## [la-junta#3] 2026-08-27 | Urban Renewal Authority | minutes
+## [la-junta#2] 2026-08-27 | Urban Renewal Authority | minutes
 - MOTION TO APPROVE JULY 23, 2026 MINUTES: Fleischacker
 - MOTION TO APPROVE JULY FINANCIAL STATEMENTS AS PRESENTED: Madrid
 - Ben Mason – I believe that they have acquired their Certificate of Occupancy, which
@@ -128,7 +98,7 @@
 - however, we can only discuss what is on the agenda and nothing more
 - have not reached out to them yet to plan a specific date, so the second date we all
 
-## [la-junta#4] 2026-08-31 | City Council | minutes
+## [la-junta#3] 2026-08-31 | City Council | minutes
 - A. A Resolution of the City Council of La Junta, Colorado, Authorizing the
 - MOTION TO APPROVE A RESOLUTION OF THE CITY COUNCIL OF LA JUNTA,
 - DISCUSSION: Michael Hart – This is essentially a junk property that the city has and
@@ -149,7 +119,7 @@
 - DISCUSSION OF MATTER PERSONAL TO PARTICULAR EMPLOYEES: Copley
 - DISCUSSION: There was no discussion
 
-## [la-junta#5] 2026-09-08 | Board of Utilities  | minutes
+## [la-junta#4] 2026-09-08 | Board of Utilities  | minutes
 - (Director of Water Utilities), Chris Arguello (Electric Superintendent), Martin
 - OATH OF OFFICE TO NEWLY APPOINTED COMMISSIONER (City Clerk)
 - The City Clerk administered the oath of office to the newly appointed commissioner,
@@ -185,7 +155,7 @@
 - We are down four employees, which affects the streets operation
 - We will be briefly talking about the budget tonight at the city council meeting
 
-## [la-junta#6] 2026-09-08 | City Council | minutes
+## [la-junta#5] 2026-09-08 | City Council | minutes
 - (Director of Water Utilities), Pam Denahy (Director of Tourism), Dawn Block
 - There were communication issues with her department and the electric and water
 - departments. She reiterated that the reads are correct and all the meters are working
@@ -222,7 +192,7 @@
 - different aspects of the ordinance and concerns to keep in mind.)
 - MOTION TO PASS THE ORDINANCE ON FIRST READING: Rikhof
 
-## [la-junta#7] 2026-09-21 | City Council | minutes
+## [la-junta#6] 2026-09-21 | City Council | minutes
 - (Tourism/Economic Development Director), Brad Davidson (Fire Chief),
 - Dawn Block (Personnel Director), Joshua Mosher (Fire), Christina Tozzie (La
 - EMPLOYEE SERVICE AWARDS
@@ -261,21 +231,72 @@
 - representation on the board
 - MOTION TO PASS THE ORDINANCE ON FIRST READING: Ochoa
 
-## [la-junta#8] 2026-09-24 | Urban Renewal Authority | agenda
+## [la-junta#7] 2026-09-24 | Urban Renewal Authority | minutes
+- Erika Lively, La Junta: Wondering currently about the TIF (Tax Increment Fund) district,
+- if it is going to expand; and would also like to know what the TIF district encompasses
+- MOTION TO APPROVE AUGUST 27, 2026 MINUTES: Johnson
+- MOTION TO APPROVE AUGUST FINANCIAL STATEMENTS AS PRESENTED:
 - B. 2027 Budget
+- Marty Fleischacker: Everything that is highlighted in the 2027 budget is to remain the
+- budget in terms of adding more opportunities for funding for next year. I would rather
+- Zach Miner: My reason for tabling this and discussing it at a work session rather than
+- MOTION TO TABLE AND SET A WORK SESSION TO DISCUSS THE 2027 URA
+- BUDGET: Miner
 - A. Chestnut Apartments (Rikhof)
+- Plaza Block Building to discuss their experiences with the Chestnut Apartments, as well
 - A. Blight, Life Safety & Accessibility Application — Arkansas Valley CASA (Action)
+- Ben Mason: There is a Blight & Safety application for Arkansas Valley CASA to repair
+- their roof. They are a nonprofit. It does give us some flexibility with the grant amount. I'll
+- open that up for discussion or questions. I do know that Cynthia Sollenbarger is here
+- Cynthia Sollenbarger: We would be grateful for anything awarded; the roof is in pretty
+- Zach Miner: We've seen that time and time again in projects. Something that may be
+- Regarding nonprofits, our application allows a case-by-case basis. What would freeing
+- up money help you guys do? If we were able to grant more for this, how would that
+- Cynthia Sollenbarger: Our first project that we would like to do is install a kitchen, which
+- bit of dignity. That is the long-term plan
+- personally, one of the things I appreciate is vying for local contractors and vendors
+- discuss and weigh in on the quotes
+- projects we fund for this year
+- MOTION TO APPROVE THE GRANT APPLICATION FROM ARKANSAS VALLEY
+- supposed to start their project either today or tomorrow, weather permitting. Mickey
+- Bethel from Mattresses By Appointment came by yesterday, and also brought his
+- paperwork and invoices that are paid for the Spark grant; so that will be paid out by next
+- application is ready, but that is where we are at with him
+- The Sangre De Cristo Spark grant that was on last month's agenda. I reached out to
+- receiving the Spark grant, they will not be awarded the grant that they had applied for
+- board approves their application prior to starting work
+- grant and the Spark grant. He has a request which I believe I may know the answers to,
+- but that is dependent on the board. On the Spark grant for the sign, he was awarded
+- where the grant amount for the Spark grants is in the amounts up to $5,000, I do not
 
-## [la-junta#9] 2026-10-05 | City Council | agenda
-- Envision a safe, flourishing downtown that provides a strong commercial tax base
-- Ensure its electorate is well informed of on-going successes and future plans
-- Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
+## [la-junta#8] 2026-10-05 | City Council | minutes
+- Development), Kasey Miehlke (La Junta), Elaine Wittman (La Junta),
+- EMPLOYEE SERVICE AWARDS
 - B. Application for a Special Events Permit by American Legion Auxiliary Unit 9, Elaine
+- MOTION TO APPROVE THE OCTOBER 5, 2026 CONSENT AGENDA: Rikhof
+- DISCUSSION: There was no discussion
 - A. Second Reading/AN ORDINANCE OF THE CITY OF LA JUNTA ESTABLISHING
 - AN ECONOMIC DEVELOPMENT BOARD (City Attorney) (Action)
+- MOTION TO PASS THE ORDINANCE ON SECOND READING: Rikhof
+- DISCUSSION: The City Clerk will call for Letters of Interest for board vacancies in the
 - A. First Reading/AN ORDINANCE MAKING SUPPLEMENTAL APPROPRIATIONS
+- MOTION TO PASS THE ORDINANCE ON FIRST READING: Rikhof
+- DISCUSSION: The miscellaneous grant is this year's portion of the Third Street grant
+- Planning Commission (Council Member Ochoa): Had a work session discussing
+- to conditional from not permitted. The next planning commission meeting has been
+- public hearing
+- Utilities Board (Mayor Ayala): Also had a work session on the 2027 budget
+- Police Department: For the month of September, 1,710 calls, 34 warrant arrests,
+- Fire Department: A total of 177 calls, 117 EMS calls, 16 motor vehicle collisions,
+- two structure fires, two mutual aids, two search and rescues and then 38 other
+- This is Fire Prevention Week. They will see over 700 kids. Schools included will
+- The City has received a grant up to about $30 million. It's from the Emergency
+- The airport runway is complete. They'll be doing chip sealing on the taxiway
+- Street Department: Ongoing street repairs on 9th Street between San Juan and
+- Parks: Still waiting on scheduling for a plumber to get the toilets installed
+- The Art Project, celebrating its fifth anniversary
 
-## [la-junta#10] 2026-10-13 | Board of Utilities  | agenda
+## [la-junta#9] 2026-10-13 | Board of Utilities  | agenda
 - B. Water & Wastewater Treatment (Tom Seaba)
 - A. A Resolution Changing the Pricing of Electric for customers of the City of La Junta
 - for the Year 2027; Providing for an Effective Date of the New Rates; Providing for
@@ -288,7 +309,7 @@
 - E. A Resolution Recommending to City Council the Adoption of the 2027 Proposed
 - Budget for the Electric Fund, Water Fund, Wastewater Fund and Sanitation Fund
 
-## [la-junta#11] 2026-10-19 | City Council | agenda
+## [la-junta#10] 2026-10-19 | City Council | agenda
 - Envision a safe, flourishing downtown that provides a strong commercial tax base
 - Ensure its electorate is well informed of on-going successes and future plans
 - Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
@@ -301,7 +322,7 @@
 - 3. First Reading/THE ANNUAL APPROPRIATION ORDINANCE:
 - B. Third Amendment to the Consolidation Agreement (Ron Hogan) (Possible Action)
 
-## [la-junta#12] 2026-10-19 | City Council | agenda
+## [la-junta#11] 2026-10-19 | City Council | agenda
 - Envision a safe, flourishing downtown that provides a strong commercial tax base
 - Ensure its electorate is well informed of on-going successes and future plans
 - Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
@@ -344,8 +365,27 @@
 - LICENSES & PERMITS 59,500 28,269 31,231 47.51%
 - EXPENSES BUDGET ACTUAL BALANCE %
 
-## [la-junta#13] 2026-10-22 | Urban Renewal Authority | agenda
+## [la-junta#12] 2026-10-22 | Urban Renewal Authority | agenda
 - FUNDING APPLICATION
 - A. Blight, Life Safety & Accessibility Application — La Junta Associated Charities
 - A. Chestnut Apartments (Rikhof)
 - A. Approve the 2027 Budget (Action)
+
+## [la-junta#13] 2026-11-02 | City Council | agenda
+- Envision a safe, flourishing downtown that provides a strong commercial tax base
+- Ensure its electorate is well informed of on-going successes and future plans
+- Promote redevelopment of existing businesses and neighborhoods and increase quality of life for all its
+- B. Application for Renewal of a Retail Liquor Store Liquor License by Punjabi 4 Corp,
+- C. Application for Renewal of a Tavern Liquor License by Ross V. Leyba, d/b/a B.J.'s
+- Sports Bar, 10 E. 2nd Street
+- A. Second Reading/AN ORDINANCE FIXING THE MILL LEVY FOR ASSESSMENT
+- B. Second Reading/THE ANNUAL APPROPRIATIONS ORDINANCE:
+- A. First Reading/AN ORDINANCE MAKING SUPPLEMENTAL APPROPRIATIONS
+- B. First Reading/AN ORDINANCE MAKING SUPPLEMENTAL APPROPRIATIONS
+- TO THE WATER FUND FOR THE CALENDAR YEAR 2026 (City Attorney) (Action)
+- C. First Reading/AN ORDINANCE AUTHORIZING A LOAN FROM THE COLORADO
+- WATER RESOURCES AND POWER DEVELOPMENT AUTHORITY TO THE
+- CITY OF LA JUNTA, COLORADO, ACTING BY AND THROUGH ITS WATER
+- CERTAIN WATER DISTRIBUTION SYSTEM IMPROVEMENTS; AUTHORIZING
+- THE FORM AND EXECUTION OF THE LOAN AGREEMENT AND A
+- GOVERNMENTAL AGENCY BOND TO EVIDENCE SUCH LOAN; DELEGATING

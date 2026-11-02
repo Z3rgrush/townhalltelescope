@@ -286,3 +286,15 @@
 - Interim Police Chief
 - viduals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main Street, Fort Morgan,
 - scheduled event so arrangements can be made to locate the requested auxiliary aid(s)
+
+## [fort-morgan#17] 2026-10-27 | Main Street Advisory Board | agenda
+- FM MAIN STREET
+- MAIN STREET OPEN HOUSE RECAP
+- CO MAIN STREET SUMMIT RECAP
+- positive happenings, or news you feel this group
+- from speaker presentation
+- Colorado Main Street Summit in La Junta
+- Trick-or-Treat Street
+- Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Jill Curtis, City Clerk, 110 Main
+- Street, Fort Morgan, Colorado, at (970) 542-3962 or by fax at (970) 542-3968. We would appreciate it if you would contact us
+- APPROVAL OF PREVIOUS MEETING

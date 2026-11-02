@@ -1,114 +1,115 @@
-- title: Lodger's Tax 4% increase on the November ballot
-  summary: Council took up Ordinance No. 1375 to set ballot language asking voters to approve a four percent increase in the city's Lodger's Tax at the November 3, 2026 general election. It was on the July 28 agenda and had a public hearing on August 11. Resolution No. 13 also set up the county-run 2026 election.
-  where: Citywide
-  refs:
-  - 1
-  - 4
-  topics:
-  - Budget & taxes
-  - Elections
-  - Tourism & events
-- title: Water System Master Plan and Comprehensive Plan water supply update
-  summary: Council saw a draft Water System Master Plan in July, toured the water treatment plant in August, and considered adopting Resolution No. 16 approving the 2026 Water System Master Plan on September 22. In October it considered awarding the Comprehensive Plan update on Strategic Growth and Water Supply to SE Group.
-  where: Citywide
-  refs:
-  - 0
-  - 3
-  - 11
-  - 13
-  topics:
-  - Water
-  - Zoning & development
-- title: Park Village on 7th affordable housing and 7th Street property
-  summary: Council got an update on the 7th Street property in August. On October 13 it considered authorizing the Mayor to sign CHFA's notification form for Park Village on 7th, a proposed affordable rental development on city-owned land at the former high school site.
+- title: Park Village on 7th affordable rental development
+  summary: Council was asked on Oct. 13 to authorize the Mayor to sign CHFA's notification form for Park Village on 7th, a proposed affordable rental development on city-owned land at the former high school property. A 7th Street property update was also presented at an Aug. 25 work session.
   where: 7th Street, former high school property
   refs:
-  - 5
-  - 13
+  - 3
+  - 11
   topics:
   - Housing
   - Land & property
-- title: Airport Advisory Committee and fixed base operator lease
-  summary: Council amended the code on Airport Advisory Committee member qualifications and officer terms, then appointed members, including a youth member after an interview in August. On August 11 it also had a notice of termination of the Fixed Base Operator lease and operations agreement on its agenda.
-  where: Cortez airport
+- title: Lodger's Tax increase on the November 2026 ballot
+  summary: Council held a public hearing on Ordinance No. 1375 to set ballot language asking voters to approve a 4% increase in the city's Lodger's Tax at the Nov. 3, 2026 general election.
+  where: Citywide
+  refs:
+  - 2
+  topics:
+  - Budget & taxes
+  - Tourism & events
+  - Elections
+- title: Comprehensive Plan update and Water System Master Plan
+  summary: Council considered adopting the 2026 Water System Master Plan (Resolution 16) and awarding the Comprehensive Plan update covering Strategic Growth and Water Supply elements to SE Group. Council also toured the Cortez Water Treatment Plant in August.
+  where: Citywide
   refs:
   - 1
+  - 9
+  - 11
+  topics:
+  - Water
+  - Zoning & development
+  - Government operations
+- title: Cortez Municipal Airport contracts and FBO lease termination
+  summary: Council took up a notice of termination of the Fixed Base Operator lease, an asbestos abatement project bid, extension of the TSA terminal lease through June 30, 2031, and a five-year engineering services contract starting Dec. 1, 2026. A youth seat on the Airport Advisory Committee was also filled.
+  where: Cortez Municipal Airport
+  refs:
+  - 2
+  - 3
   - 4
-  - 5
-  - 6
+  - 12
   topics:
   - Airports
   - Government operations
 - title: 'Historic designations: Garland Home and 209 West Main'
-  summary: Council moved to place the Garland Home at 120 East North Street on the City Register of Historic Resources, with second reading on September 22. It also took up the building at 209 West Main Street, with first reading September 22 and second reading October 13. Council also accepted a 2026 Certified Local Government grant and a $50,000 supplemental state grant amendment for historic preservation.
+  summary: Council moved through readings of ordinances adding the Garland Home at 120 East North Street (Ord. 1376) and the building at 209 West Main Street (Ord. 1377) to the City Register of Historic Resources. Council also accepted a CLG grant award and a $50,000 supplemental state grant amendment.
   where: 120 East North Street; 209 West Main Street
   refs:
-  - 4
+  - 2
+  - 7
   - 9
   - 11
-  - 13
   topics:
   - Historic preservation
-- title: Montezuma-Sligo Drainage Improvement Project Phase 2
-  summary: Council considered awarding Phase 2 of the 2026 drainage project to D&L Construction and authorizing the City Manager to sign a contract.
-  where: Montezuma-Sligo area
-  refs:
-  - 6
-  topics:
-  - Utilities
-  - Roads & traffic
 - title: Land Use Code changes (Ordinance 1374)
-  summary: Staff brought an ordinance changing various sections of the Cortez Land Use Code, with first reading on August 25 and second reading on September 8.
+  summary: Staff presented an ordinance revising various sections of the Cortez Land Use Code, with first reading on Aug. 25 and second reading on Sept. 8.
   where: Citywide
   refs:
-  - 6
+  - 4
+  - 7
+  topics:
+  - Zoning & development
+- title: Site plan and permits at 127 N. Market St and 1411 Montelores Ave
+  summary: Planning commission reviewed a major site plan for 127 N. Market St, which went to Council as Resolution 15 on Aug. 25. A conditional use permit and minor deviation for a carport encroaching into setbacks was heard by planning on Sept. 1 and Council on Sept. 22.
+  where: 127 N. Market St; 1411 Montelores Ave
+  refs:
+  - 0
+  - 4
+  - 5
   - 9
   topics:
   - Zoning & development
 - title: Mobile food vendor licensing rules
-  summary: Council discussed in August a draft ordinance (No. 1371) revising the annual licensing process for mobile food vendors, then considered the ordinance on October 13.
+  summary: Council discussed and then took up Ordinance 1371 revising the annual licensing process for mobile food vendors in Cortez, appearing on agendas Oct. 13 and Oct. 27.
   where: Citywide
   refs:
-  - 5
-  - 13
+  - 3
+  - 11
+  - 12
   topics:
   - Downtown & business
   - Fees & rates
-- title: 127 N. Market Street site plan
-  summary: The Planning and Zoning Commission reviewed a major site plan for 127 N. Market St. Council then considered Resolution No. 15 approving the site plan on August 25.
-  where: 127 N. Market Street
-  refs:
-  - 2
-  - 6
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Carport setback permit at 1411 Montelores Avenue
-  summary: The Planning and Zoning Commission heard a conditional use permit and minor deviation request. Council then held a public hearing on September 22 for a carport on a single-family lot that would encroach into the front and side setbacks.
-  where: 1411 Montelores Avenue
-  refs:
-  - 7
-  - 11
-  topics:
-  - Zoning & development
-  - Housing
-- title: City spending authority limits and City Attorney pay
-  summary: Council considered Resolution No. 14 to supersede a 2001 resolution and amend spending authority limits. On August 11 it also had an amendment increasing the City Attorney's compensation. A work session executive session addressed the Municipal Judge's contract.
-  where: Citywide
+- title: Parks and Recreation Master Plan and ash tree beetle
+  summary: Council picked a representative for the Parks and Recreation Master Plan committee and held a community engagement update and listening session on Oct. 27. Parks staff also briefed Council on the green ash beetle's impact on park ash trees.
+  where: Citywide parks
   refs:
   - 4
-  - 5
-  - 10
-  - 11
+  - 8
+  - 13
+  topics:
+  - Parks & open space
+  - Recreation & trails
+  - Environment & climate
+- title: Montezuma-Sligo drainage improvement project
+  summary: Council considered awarding Phase 2 of the 2026 Montezuma-Sligo Drainage Improvement Project to D&L Construction.
+  where: Montezuma-Sligo area
+  refs:
+  - 4
+  topics:
+  - Utilities
+  - Roads & traffic
+- title: City Attorney and Municipal Judge contracts, spending limits
+  summary: Council considered an amendment increasing the City Attorney's compensation and held executive sessions on the Municipal Judge's contract. Council also considered Resolution 14 updating spending authority limits.
+  where: Citywide
+  refs:
+  - 2
+  - 3
+  - 8
+  - 9
   topics:
   - Government operations
   - Budget & taxes
-- title: 'Parks: Master Plan committee and ash tree beetle'
-  summary: Council was to choose a representative for the Parks and Recreation Master Plan Project Committee. Parks staff also briefed council on how the emerald ash borer affects ash trees in city parks.
-  where: City parks
+- title: Fiber Express Line negotiations
+  summary: Council went into executive session on Sept. 22 for negotiations about the Fiber Express Line.
+  where: Citywide
   refs:
-  - 6
-  - 10
+  - 8
   topics:
-  - Parks & open space
-  - Environment & climate
+  - Broadband

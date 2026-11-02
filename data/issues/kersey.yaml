@@ -1,69 +1,55 @@
-- title: 6 P's annexation, industrial zoning and land-use map change at 24822 Highway 34
-  summary: The Planning and Zoning Commission held a public hearing on a request to annex a 49.5-acre property northeast of the Kuner/Five Rivers feedlot. It would be zoned I-Industrial, and the Comprehensive Plan map changed from Agriculture/Tourism to an employment-oriented designation for an oil/gas and agricultural support business. Neighbors who want to buy the property said industrial use is inappropriate and raised traffic concerns, and the Town may also annex adjacent County Road 56.
+- title: 6 P's annexation, industrial zoning and land-use map change on Highway 34
+  summary: The Planning and Zoning Commission held a public hearing on annexing a 49.5-acre property at 24822 Highway 34, zoning it I-Industrial, and changing the Comprehensive Plan map from Agriculture/Tourism to an employment-oriented industrial designation. Neighbors who want to buy the property object to industrial use, and others raised traffic concerns. Annexing County Road 56 next to the site is also in play.
   where: 24822 Highway 34, northeast of Kuner/Five Rivers feedlot
   refs:
-  - 1
+  - 0
   topics:
   - Annexation
   - Zoning & development
   - Land & property
   public_comment: true
-- title: 'Ballot Issue 2B: ten-year extension of the 17.205-mill property tax levy and 2027 budget'
-  summary: The Board is considering a ballot issue to extend the Town's existing 17.205-mill property tax levy for ten years (2028-2037) without raising the rate. An ordinance referring a related ballot question about fixing the rate at 12.000 mills and a resolution of Board support were on the October 13 agenda, alongside the preliminary 2027 budget presentation and a September work session on the budget.
+- title: Kersey Water Blueprint Plan
+  summary: The Board began the first of three working sessions with Brendle Group on long-term water supply, growth and funding. Northern Water now requires a native water supply at the tap for new development, and buy-and-dry transfers are accelerating, so Kersey's Colorado-Big Thompson water may not be enough. The $50,000 plan is paid for by a $37,500 DOLA grant, $10,000 from Northern Water and a $2,500 Town match.
   where: Townwide
   refs:
+  - 3
+  - 4
+  topics:
+  - Water
+  - Zoning & development
+- title: Property tax ballot issues and 2027 budget
+  summary: The Board reviewed a preliminary 2027 budget and took up ballot measures on property tax. One ordinance would refer a measure fixing the rate at 12.000 mills. Ballot Issue 2B would extend the existing 17.205-mill levy for ten years (2028-2037) without raising the rate, and a resolution states the Board's support.
+  where: Townwide
+  refs:
+  - 4
   - 5
-  - 6
   topics:
   - Budget & taxes
   - Elections
-- title: Kersey Water Blueprint Plan
-  summary: The Town started a $50,000 Water Blueprint planning effort with the Brendle Group to protect long-term water supply amid regional buy-and-dry pressure. Northern Water now requires native supply for new development, so Kersey's Colorado-Big Thompson water alone may not support growth. The project is funded by a $37,500 DOLA grant, $10,000 from Northern Water and a $2,500 Town match; the first of three working sessions was September 22.
-  where: Townwide
-  refs:
-  - 4
-  - 5
-  topics:
-  - Water
-  - Land & property
-- title: Clark Street Storm Sewer Project contract
-  summary: The Board awarded the construction contract for the Clark Street Storm Sewer Project to Mountain Constructors, Inc. after 13 bids; staff passed over the lowest bidder over reference and bid-item concerns. The bid came in well below the engineer's estimate, and the price is held for 180 days while the Town awaits FEMA funding.
+- title: Clark Street storm sewer project contract
+  summary: The Board awarded the Clark Street Storm Sewer contract to Mountain Constructors, Inc. after receiving 13 bids. Staff recommended the second-lowest bidder because of concerns about the lowest bidder. The bid came in well below the engineer's estimate, and the price is held for 180 days while the Town waits on FEMA funding. Other project costs will be incurred separately.
   where: Clark Street
   refs:
-  - 4
+  - 3
   topics:
   - Utilities
   - Roads & traffic
+  - Budget & taxes
 - title: Adoption of the 2024 International Fire Code
-  summary: The Board took up an ordinance adopting the 2024 International Fire Code, first read August 11 and set for a public hearing and second reading September 8. The Platte Valley Fire District currently uses the 2018 code, and adoption would align it with the Town's 2024 building codes and address newer issues like energy storage systems. No public comment was made at the hearing.
+  summary: The Board introduced Ordinance 2026-0010 on August 11 and held the public hearing and second reading on September 8. It adopts the 2024 International Fire Code to match the Town's other 2024 codes. Platte Valley Fire District currently uses the 2018 code, and the new code addresses energy storage systems among other items. No public comment was given at the hearing.
   where: Townwide
   refs:
-  - 2
-  - 4
+  - 1
+  - 3
   topics:
   - Fire & emergencies
   - Zoning & development
 - title: Renaming duplicate streets in Berryman Farms
-  summary: Staff asked the Board to authorize renaming streets east of 1st Street in the Berryman Farms subdivision because their names duplicate or resemble streets elsewhere, which could confuse emergency responders. Residents and property owners would need to update addresses, and staff would coordinate with Weld County and dispatch.
+  summary: Staff asked the Board to authorize renaming streets in Berryman Farms east of 1st Street because their names duplicate or resemble other Kersey streets. The concern is confusion for police, fire and EMS dispatch. Residents would need to update addresses, and staff would coordinate with residents, Weld County and emergency agencies.
   where: Berryman Farms subdivision, east of 1st Street
   refs:
-  - 3
+  - 2
   topics:
-  - Policing & public safety
   - Roads & traffic
-- title: Community Center staffing and 2025 audit
-  summary: At a July 28 work session the Council was to hear the 2025 audit results and discuss community center staffing, prompted by feedback from a departing employee's exit interview.
-  where: Kersey Community Center
-  refs:
-  - 0
-  topics:
-  - Government operations
-  - Budget & taxes
-- title: Kersey holiday event changes
-  summary: Staff sought Board feedback on changes to the Kersey holiday event, following community input at the RTAP workshop that showed it as a high priority.
-  where: Townwide
-  refs:
-  - 3
-  topics:
-  - Tourism & events
-  public_comment: true
+  - Fire & emergencies
+  - Policing & public safety

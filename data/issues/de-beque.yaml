@@ -1,5 +1,24 @@
-- title: Water, wastewater, irrigation and trash fee schedule (Resolution 2026-30)
-  summary: The council is set to discuss and act on a resolution adopting a fee schedule for water, wastewater, irrigation and trash services in town. The agenda does not state the amounts or the outcome.
+- title: Temporary moratorium on data center development
+  summary: On the October 27, 2026 agenda, the Council is set to discuss and give direction on a temporary moratorium on data center development within the town. The documents give no details on the outcome.
+  where: Townwide
+  refs:
+  - 1
+  topics:
+  - Data centers
+  - Zoning & development
+  tags:
+  - data-center
+- title: Pivot Energy solar farm proposed in unincorporated Mesa County
+  summary: The Council is continuing to discuss a Pivot Energy solar farm proposed in unincorporated Mesa County that borders the town. It is on the October 27 agenda for further discussion and direction to staff.
+  where: Unincorporated Mesa County bordering De Beque
+  refs:
+  - 1
+  topics:
+  - Energy
+  - Land & property
+  - Zoning & development
+- title: Water, wastewater, irrigation and trash fee schedule
+  summary: Resolution 2026-30 would adopt a fee schedule for water, wastewater, irrigation and trash services. It was scheduled for discussion and action on September 22, 2026.
   where: Townwide
   refs:
   - 0
@@ -7,33 +26,56 @@
   - Fees & rates
   - Water
   - Utilities
-- title: Preliminary 2027 town budget
-  summary: Town staff are scheduled to present the preliminary 2027 budget for the Town of De Beque at the September 22 meeting.
+- title: 2027 preliminary budget
+  summary: Staff presented the preliminary 2027 town budget on September 22. An updated preliminary budget was submitted on the October 27 agenda.
   where: Townwide
   refs:
   - 0
+  - 1
   topics:
   - Budget & taxes
-- title: HomewardBound of the Grand Valley funding request
-  summary: Marvin Duarte is scheduled to give an operational update for HomewardBound of the Grand Valley and make a funding request to the council.
+- title: CDBG grant application for housing abatement and demolition program
+  summary: The Board held a public hearing on an application to the state Department of Local Affairs, Division of Housing, for a Community Development Block Grant for a housing abatement and demolition program. Resolution 2026-32 would authorize staff to apply.
+  where: Townwide
+  refs:
+  - 1
+  topics:
+  - Housing
+  - Land & property
+  public_comment: true
+- title: Automated license plate readers
+  summary: The Council is scheduled to discuss automated license plate readers on October 27. The documents give no details on what is proposed.
+  where: Townwide
+  refs:
+  - 1
+  topics:
+  - Policing & public safety
+- title: Homeward Bound of the Grand Valley funding request
+  summary: Marvin Duarte of Homeward Bound of the Grand Valley gave an operational update and made a funding request to the Council on September 22.
   refs:
   - 0
   topics:
   - Homelessness
   - Health & human services
-  - Budget & taxes
-- title: Ordinances 576 and 577 amending the municipal code
-  summary: The council is scheduled to consider Ordinance 576, which amends Title 9 of the De Beque municipal code, and Ordinance 577, which amends the municipal code further. The agenda excerpt does not give details of the changes.
-  where: Townwide
+- title: Sanitary sewer agreement and dedication
+  summary: Resolution 2026-34 would authorize the dedication and acceptance of a sanitary sewer agreement between the town and another party. Resolution 2026-33 would direct staff to enter a contract. Both were on the October 27 agenda.
   refs:
-  - 0
+  - 1
   topics:
-  - Government operations
-- title: Animal Assistance Foundation grant application (Resolution 2026-31)
-  summary: The council is to act on a resolution approving the town's application for a grant from the Animal Assistance Foundation.
+  - Utilities
+  - Land & property
+- title: Animal Assistance Foundation grant and Title 9 code change
+  summary: Resolution 2026-31 approves the town's application for a grant from the Animal Assistance Foundation. Ordinance 576 amends Title 9 of the municipal code.
   where: Townwide
   refs:
   - 0
   topics:
   - Agriculture & wildlife
-  - Budget & taxes
+  - Government operations
+- title: Change to council meeting time
+  summary: The Council continued discussion and direction on a new meeting time at both the September and October meetings.
+  refs:
+  - 0
+  - 1
+  topics:
+  - Government operations

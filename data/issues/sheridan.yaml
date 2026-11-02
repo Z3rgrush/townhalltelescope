@@ -1,83 +1,86 @@
-- title: Public safety sales and use tax increase (Ordinance 13-2026)
-  summary: Council took up Ordinance 13-2026 on first reading Aug. 10 and second reading Aug. 24. It would refer a city sales and use tax increase for public safety purposes. The agendas do not state the rate or the outcome.
+- title: 2027 budget and 2026 budget amendment
+  summary: Council reviewed the 2027 proposed budget in work sessions (revenues, capital, open spaces, stormwater, general fund) and held a Sept. 28 public hearing where no one spoke. Ordinances 14-2026 (2026 amended budget) and 15-2026 (2027 budget) were up for second reading Oct. 12. The Redevelopment Agency also held hearings on its amended 2026 and 2027 budgets (Resolutions 4 and 5-2026).
   where: Citywide
   refs:
-  - 1
-  - 5
-  topics:
-  - Budget & taxes
-  - Policing & public safety
-- title: 2026 amended budget and 2027 budget
-  summary: Council reviewed the 2027 proposed budget in work sessions from August to September, covering revenues, capital, open space, stormwater, volunteer fire and the general fund. A public hearing on the 2026 amended and 2027 budgets (Ordinances 14 and 15-2026) was held Sept. 28, with second reading Oct. 12. The Redevelopment Agency took up matching budget resolutions.
-  where: Citywide
-  refs:
-  - 2
-  - 6
-  - 9
+  - 0
+  - 4
+  - 8
   - 11
   - 12
   - 16
   topics:
   - Budget & taxes
-  - Government operations
-- title: Rezoning of 3600 S. Federal Blvd
-  summary: Council held a public hearing Aug. 10 on Ordinance 11-2026, an application to rezone property at 3600 S. Federal Blvd. Speakers had to attend in person and were limited to two minutes each. The agenda does not state the outcome.
-  where: 3600 S. Federal Blvd
+- title: 0.50% sales and use tax increase referred to voters
+  summary: Ordinance 13-2026 on second reading Aug. 24 would refer a 0.50 percentage point increase in the city sales and use tax to city voters for a public purpose.
+  where: Citywide
+  refs:
+  - 5
+  topics:
+  - Budget & taxes
+  - Elections
+- title: Bear Creek Trailhead rezoning at 3600 S. Federal Blvd.
+  summary: Council held a public hearing Aug. 10 on rezoning 3600 S. Federal Blvd. to Parks and Recreation District to allow a public trailhead and park. The city acquired the property in 2024 in partnership with the Mile High Flood District. Planning Commission unanimously recommended approval, and no members of the public came forward to testify.
+  where: 3600 S. Federal Blvd.
   refs:
   - 1
   topics:
+  - Parks & open space
+  - Recreation & trails
   - Zoning & development
-  public_comment: true
-- title: Radcliff and Hampden plats
-  summary: The Planning Commission held hearings Sept. 2 on preliminary and final plats for 2200 W. Radcliff Ave and 2500 W. Hampden. Council then held a public hearing Sept. 28 on the Radcliff Subdivision preliminary and final plats (Resolutions 24 and 25-2026).
-  where: 2200 W. Radcliff Ave and 2500 W. Hampden Ave
+- title: Subdivision plats at 2200 W. Radcliff Ave. and 2500 W. Hampden Ave.
+  summary: 'Planning Commission held hearings Sept. 2 on preliminary and final plats for both properties. Council heard the 2200 W. Radcliff case Sept. 28: four industrial parcels never legally subdivided, platting is needed before permits, no development is proposed, and the applicant would dedicate 19 more feet of right-of-way.'
+  where: 2200 W. Radcliff Ave. and 2500 W. Hampden Ave.
   refs:
-  - 8
+  - 7
   - 11
   topics:
   - Zoning & development
-  - Housing
-- title: Housing plans, ADU law compliance and Housing Authority
-  summary: Planning staff updated the commission on compliance with state ADU law HB24-1152, with code amendments to return later in the year. The commission was scheduled to discuss the Sheridan Housing Implementation Plan (SHIP) and an Equal Space ordinance in October. Council work sessions on Oct. 12 and Oct. 26 covered the Sheridan Housing Authority.
+  - Land & property
+- title: 'Housing: Sheridan Housing Implementation Plan, Housing Authority and state ADU law'
+  summary: Planning staff updated on compliance with state ADU law HB24-1152, with code amendments to return later in the year. A consultant, Matrix Design Group, will present final Sheridan Housing Implementation Plan (SHIP) recommendations in October. Council work sessions in October took up the Sheridan Housing Authority.
   where: Citywide
   refs:
-  - 4
+  - 3
+  - 7
+  - 15
   - 17
-  - 18
-  - 20
+  - 19
   topics:
   - Housing
   - Zoning & development
-- title: KIMCO Sheridan reimbursement agreement amendments
-  summary: The Redevelopment Agency considered amendments to the KIMCO Sheridan reimbursement agreements for the Series 2011A-1 and 2011A-2 bonds (Resolutions 2 and 3-2026).
-  where: KIMCO Sheridan redevelopment area
-  refs:
-  - 0
-  topics:
-  - Economic development
-  - Budget & taxes
-- title: Wastewater pretreatment regulations
-  summary: Council considered Ordinance 12-2026 on second reading Aug. 10, setting pretreatment regulation of wastewater.
+- title: Trash and recycling equal space ordinance
+  summary: Sustainability Coordinator Mel Englund is expected to introduce a potential equal space ordinance for trash and recycling, with a Planning Commission discussion scheduled Oct. 21.
   where: Citywide
   refs:
-  - 1
+  - 7
+  - 17
   topics:
+  - Environment & climate
+  - Zoning & development
+- title: Crisis services contract with AllHealth Network
+  summary: Council's Oct. 26 agenda includes Resolution 28-2026 approving an agreement with AllHealth Network for crisis services.
+  where: Citywide
+  refs:
+  - 18
+  topics:
+  - Health & human services
+  - Policing & public safety
+- title: Roads, Comcast franchise and regional items
+  summary: Residents raised road concerns, and a council member noted the city's limited authority over them. The city manager reported the Comcast cable franchise agreement expired in 2024. A council member said DRCOG wants to advance congestion measures and E-470 expansion.
+  where: Citywide
+  refs:
+  - 5
+  topics:
+  - Roads & traffic
+  - Broadband
   - Utilities
-  - Water
+  public_comment: true
 - title: Flying Saucer RV Park subdivision and brownfields grant
   summary: Planning staff reported on the Flying Saucer RV Park subdivision application, a federal EPA Brownfields Grant award, the renewed South Metro Enterprise Zone and South Santa Fe planning projects.
   where: South Santa Fe corridor
   refs:
-  - 4
+  - 3
   topics:
   - Economic development
   - Zoning & development
   - Environment & climate
-- title: Crisis services contract with AllHealth Network
-  summary: Council considered Resolution 28-2026 on Oct. 26, approving an agreement for crisis services with AllHealth Network.
-  where: Citywide
-  refs:
-  - 19
-  topics:
-  - Health & human services
-  - Policing & public safety

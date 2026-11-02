@@ -1,97 +1,67 @@
-- title: Flock license plate reader cameras and petition to end the contract
-  summary: Residents repeatedly urged Council to end the Town's contract with Flock Safety's automated license plate reader cameras, citing privacy concerns and a petition that grew from 1,544 to over 1,900 signatures. Town Manager Eric Heil said the agreement has not been renewed and is under review, including contract terms and data security. Council discussion is scheduled for October 6, 2026.
+- title: Flock license plate reader cameras
+  summary: Residents repeatedly urged Council to end the Town's Flock Safety automated license plate reader program, citing privacy concerns and petitions with 1,544 to over 1,900 signatures. Town Manager Eric Heil said the Town has not renewed its Flock agreement and is reviewing contract terms and data security. Council is scheduled to discuss the program on October 6, 2026.
   where: Townwide
   refs:
+  - 0
   - 1
   - 2
   - 3
-  - 4
   topics:
   - Policing & public safety
   - Ethics & transparency
-  - Lawsuits & legal
   public_comment: true
-- title: Avon Whitewater Park and Bob the Bridge area improvements
-  summary: Residents asked Council to improve the Bob the Bridge area and the Avon Whitewater Park, including adding a standing river wave. Other speakers raised low-water conditions limiting river access and an approved but unfunded skate park.
+- title: Avon Whitewater Park and Bob the Bridge improvements
+  summary: Residents asked Council to consider improving the Bob the Bridge area and redeveloping the Avon Whitewater Park, including a standing river wave. Speakers also asked for better river access amid low water this year and for skate park funding.
   where: Avon Whitewater Park / Bob the Bridge
   refs:
+  - 1
   - 2
-  - 3
   topics:
   - Recreation & trails
   - Parks & open space
   public_comment: true
-- title: 'Community housing: fast track scheduling policy and deed restrictions'
-  summary: Council considered Resolution 26-07 adopting a fast track priority scheduling policy for community housing projects. A resident supported the deed restriction requirement, and another asked for more neighborhood input on a recent community housing project. The Town Manager said public hearings would offer further comment opportunities.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  topics:
-  - Housing
-  - Zoning & development
-  public_comment: true
-- title: Short-term rental licenses and unrestricted rental eligibility in new developments
-  summary: A resident raised concerns about short-term rental licenses and the approval of additional residential developments with unrestricted short-term rental eligibility.
-  where: Townwide
-  refs:
-  - 0
-  topics:
-  - Short-term rentals
-  - Housing
-  public_comment: true
-- title: Pedestrian crossing safety on Avon Road near Highway 6
-  summary: A resident asked for flashing pedestrian beacons on both sides of Avon Road near Highway 6 after his father was struck and nearly hit at the crosswalks. He noted beacons exist along Highway 6 near Avon Road.
-  where: Avon Road at Highway 6
-  refs:
-  - 4
-  topics:
-  - Roads & traffic
-  - Policing & public safety
-  public_comment: true
-- title: Piedmont Apartments trash, wildlife and code enforcement
-  summary: Residents raised trash management and code enforcement problems at the Piedmont Apartments. Deputy Chief Cosper reported police had received 27 calls about trash and wildlife.
+- title: Piedmont Apartments trash and wildlife concerns
+  summary: Residents raised property management and code enforcement concerns at the Piedmont Apartments, including trash drawing wildlife. Deputy Chief Cosper reported that police had received 27 calls about the trash.
   where: Piedmont Apartments
   refs:
-  - 3
+  - 2
   topics:
   - Environment & climate
   - Agriculture & wildlife
   - Housing
   public_comment: true
-- title: Lot B (The Summit) redevelopment and tree removal
-  summary: A resident asked about trees that could be affected by future redevelopment of Lot B (The Summit), and staff said some would be removed during redevelopment and excavation. Council also handled a notice of award for heat recovery system expansion design tied to Lot B.
-  where: Lot B (The Summit)
+- title: Community housing outreach
+  summary: A resident asked for more opportunities for neighborhood participation and input on a recent community housing project. Town Manager Heil said the referenced meeting was not the final step and that further public comment would be available at future Town Council public hearings.
+  where: Avon
   refs:
   - 0
-  - 4
   topics:
+  - Housing
   - Zoning & development
-  - Environment & climate
   public_comment: true
-- title: Tax increment agreements with Urban Renewal and Downtown Development Authorities
-  summary: Council approved intergovernmental agreements (Resolutions 26-08 and 26-09) on remitting tax increment with the Avon Urban Renewal Authority and the Avon Downtown Development Authority.
-  where: Townwide
+- title: Pedestrian crosswalk safety at Avon Road and Highway 6
+  summary: A resident asked for flashing pedestrian beacons on both sides of Avon Road near Highway 6, after a near-miss involving his father in the crosswalk. He noted beacons exist on Highway 6 near Avon Road. Earlier, another resident said the Town had quickly made requested crosswalk improvements.
+  where: Avon Road at Highway 6
   refs:
-  - 0
-  topics:
-  - Budget & taxes
-  - Downtown & business
-- title: 'Capital project awards: West Beaver Creek bridge, Rec Center aquatics, bus stop'
-  summary: Council issued notices of award for West Beaver Creek Blvd Bridge rehab construction, Rec Center aquatic renovation design, and a Lettuce Patch Early Learning Center bus stop.
-  where: West Beaver Creek Blvd; Rec Center; Lettuce Patch Early Learning Center
-  refs:
-  - 0
+  - 1
+  - 3
   topics:
   - Roads & traffic
-  - Recreation & trails
-  - Transit
-- title: Clogged culvert and culvert maintenance
-  summary: A resident thanked the Town for clearing a clogged culvert and asked for continued monitoring and maintenance of culverts.
+  - Policing & public safety
+  public_comment: true
+- title: Lot B (The Summit) redevelopment and tree removal
+  summary: A resident asked about trees that could be removed during future redevelopment and site excavation of Lot B (The Summit). Town Manager Heil responded that trees would likely be removed as part of that work.
+  where: Lot B (The Summit)
+  refs:
+  - 3
+  topics:
+  - Zoning & development
+  - Downtown & business
+  public_comment: true
+- title: Third 2026 budget amendment
+  summary: Council's consent agenda on September 22 included a resolution for the Town's third budget amendment of 2026, renumbered as Resolution No. 26-14.
   where: Townwide
   refs:
-  - 0
+  - 3
   topics:
-  - Utilities
-  - Water
-  public_comment: true
+  - Budget & taxes

@@ -1,6 +1,6 @@
 # montezuma-county
 
-## [montezuma-county#0] 2026-10-13 | City Council | agenda
+## [montezuma-county#0] 2026-10-20 | City Council | agenda
 - Resolution No. 1-2014
 - A Resolution Designating the Location of Posted Agenda(s)
 - 1 09 West Main Street, Cortez

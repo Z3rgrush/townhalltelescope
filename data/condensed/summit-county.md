@@ -98,3 +98,25 @@
 - Lodging Tax Budget Staff Report.pdf
 - Lodging Tax Fund - 2027 Budget.pdf
 - 11:30 a.m. Discussion of District Attorney Budget Amendment (Executive Session Recommended in part)
+
+## [summit-county#4] 2026-10-27 | Regular Meeting | agenda
+- APPROVAL OF AGENDA
+- Approval of 10/16/26 Regular Meeting Minutes
+- Approval of Head Start Supplemental Grant Application
+- BOCC Staff Report - Head Start Supplemental Grant.pdf
+- Approval to Apply Letter.pdf
+- Head Start Supplemental Grant Application October 2026.pdf
+- PUBLIC HEARING
+- Public Comment on the Proposed 2027 Budget
+
+## [summit-county#5] 2026-10-27 | Work Session | agenda
+- 9:00 a.m. Coroner Budget Discussion
+- Staff Report Coroner Budget Discussion 10.27.26.pdf
+- Coroner - Next Year Budget Report.pdf
+- Coroner Capital Request Form.pdf
+- CDOT Oct 2026 Summit County Update Presentation
+- Rate Study Q&A 10.8.2026.docx
+- OTHER AGENCY RATE FACTORS.pdf
+- 10:50 a.m. BOSS Budget Discussion
+- Human Services Budget Summary
+- HS Budget Summary Memo 10272026 - remediated.pdf

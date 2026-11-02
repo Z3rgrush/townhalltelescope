@@ -1,180 +1,126 @@
 # commerce-city
 
-## [commerce-city#0] 2026-07-28 | Workforce Advisory Committee | agenda
-- 6. Discussion of Regular Meeting Schedule
-- Pres 26-598 General Board and Commission Program Presentation
-- PresentationAttachments:
-- Pres 26-599 Resolution 2026-048
-- Resolution 2026-048Attachments:
-
-## [commerce-city#2] 2026-07-28 | City Council Notice of Potential Quorum | agenda
-- Cord Oil & Gas Development Plan Community Open House
-- discussed. For questions, please contact the Office of the City Clerk by phone at
-
-## [commerce-city#3] 2026-07-29 | Diversity, Equity, and Inclusion Commission | agenda
-- 3. Approval of Minutes
-- 4. Public Comment
-
-## [commerce-city#4] 2026-07-29 | City Council Notice of Potential Quorum | agenda
-- Klein Water Treatment Facility - 7400 Quebec
-- Grand Opening Klein Ion Exchange Project
-- Klein Water Treatment Facility - 7400 Quebec St., Commerce City, CO 80022
-- discussed. For questions, please contact the Office of the City Clerk by phone at
-
-## [commerce-city#5] 2026-08-03 | City Council | minutes
+## [commerce-city#0] 2026-08-04 | Planning Commission | minutes
 - Approval of Agenda3
-- Guardiola, to approve the Agenda, as amended. VOTE:
-- Public Comment4
-- Public Comment - Individuals may address the City Council on items that
-- Hearings, during Public Comment. Items of a personal nature should not
-- be discussed; personnel-related matters shall be directed through the
-- engage in discussions or debate with any speaker. The Council may
-- on, "Virtual Meeting and Public Comment Instructions," for instructions on
-- Guardiola, to adopt the Consent Agenda, as amended. VOTE:
-- SPONSORSHIP REQUEST
-- A RESOLUTION APPOINTING MEMBERS TO DESIGNATED BOARDS
-- Attachment 1 - Resolution 2026-020
-- A RESOLUTION AUTHORIZING THE ASSIGNMENT TO THE
-- COLORADO HOUSING AND FINANCE AUTHORITY OF A PRIVATE
-- ACTIVITY BOND ALLOCATION OF COMMERCE CITY PURSUANT TO
-- THE COLORADO PRIVATE ACTIVITY BOND CEILING ALLOCATION
-- Attachment 1 - Resolution 2026-072
-- Dukes, that Resolution 2026-072 be adopted. VOTE:
-- A RESOLUTION AUTHORIZING A PURCHASE AGREEMENT WITH
-- MECHANICAL STREET SWEEPER
-- Attachment 1 - Resolution 2026-090
-- Dukes, that Resolution 2026-090 be adopted. VOTE:
-- A RESOLUTION AUTHORIZING THE AWARD OF A CONSTRUCTION
-- CONTRACT AGREEMENT WITH BLINK MARKETING LLC FOR THE
-- Attachment 1 - Resolution 2026-109
-- A RESOLUTION AUTHORIZING A SECOND AMENDMENT TO A
-- MASTER SERVICES AGREEMENT WITH BRACONIER PLUMBING &
-- Attachment 1 - Resolution 2026-117
-- AN ORDINANCE AUTHORIZING THE CITY MANAGER TO NEGOTIATE
-- AND APPROVE A LEASE AGREEMENT WITH KONICA MINOLTA
-- Attachment 1 - Ordinance 2785
-- AN ORDINANCE AMENDING CHAPTER 1, ARTICLE III, SEC. 1-3006,
-- Attachment 1 - Ordinance 2787
-- AN ORDINANCE AMENDING THE 2026 BUDGET OF THE CITY OF
-- OF ROAD IMPACT FEE FUNDS FROM THE IMPACT FEE FUND TO
-- ROAD WIDENING PHASE I PROJECTS AND THE AUTHORIZATION
-- Attachment 1 - Ordinance 2789
-- AN ORDINANCE AMENDING ARTICLE IV OF CHAPTER 2 OF THE
-- Attachment 1 - Ordinance 2797
-- Public Hearings6
-- A RESOLUTION DETERMINING THE ELIGIBILITY FOR ANNEXATION
-- OF EAST 81ST AND QUEBEC STREET IN CASE AN26-0001
-- KNOWN AS THE MORENO SALAS ANNEXATION
-- Attachment 1 - Resolution 2026-070
-- Attachment 3 - Annexation Map
-- Attachment 6 - Petition for Annexation
-- Attachment 7 - Staff Presentation
-- Guardiola, that Resolution 2026-070 be adopted. VOTE:
-- AN ORDINANCE ANNEXING THE PROPERTY GENERALLY
-- AND TOWER ROAD TO THE CITY OF COMMERCE CITY,
-- Attachment 1 - Annexation Ordinance AN26-0003
-- Attachment 3 - Annexation Report
-- Attachment 4 - Annexation Map
-- Attachment 7 - Presentation
-- Dukes, that Ordinance AN26-0003 be adopted on second & final reading. VOTE:
-- AN ORDINANCE AMENDING THE ZONING ORDINANCE AND
-- ZONING MAP OF THE CITY OF COMMERCE CITY, COLORADO BY
-
-## [commerce-city#7] 2026-08-04 | Planning Commission | agenda
-- 3. Approval of Agenda
-- 4. Approval of Minutes
-- 5. Public Hearings - 6:15 PM
+- approved. VOTE:
+- Approval of Minutes4
+- VanHeusen, that the July 7th, 2026, Meeting Minutes be approved. VOTE:
+- Public Hearings5
 - Pres 26-551 ZON26-0004: SHAMROCK FOODS IS REQUESTING A ZONING MAP
 - AMENDMENT FROM I-2 (MEDIUM-INTENSITY INDUSTRIAL DISTRICT)
-- PROPERTY AT 5199 IVY STREET
+- SUBJECT PROPERTY AT 5199 IVY STREET
+- The applicant clarified the tanks will be fully fire-code compliant not fireproof
+- Commissioners asked staff whether Sand Creek Regional Greenway was notified
+- The Greenway is not on the city’s referral list for industrial zoning cases
+- The Greenway is approximately 1,100 feet north of the site, outside the 500-foot
+- Approximately 30 new employees will be added with this project
+- VanHeusen, that the Planning Commission enter a finding that the requested
+- I-3 (Heavy- Intensity Industrial Zoning District) Zoning for the property located at
+- southwest corner of East 52 Avenue and Ivy Street contained in case
+- ZON26-0004 meets the criteria of the Land Development Code and based upon
+- such finding, recommend approval to City Council of the I-3 (Heavy- Intensity
+- Industrial Zoning District) Zoning. VOTE:
 - FOODS IS REQUESTING A CONDITIONAL USE PERMIT TO ALLOW
 - OF FOOD OIL FOR THE SUBJECT PROPERTY AT 5199 IVY STREET
 - (MEDIUM-INTENSITY INDUSTRIAL DISTRICT) BUT IS REQUESTING A
 - ZONING MAP AMENDMENT TO I-3 (HEAVY-INTENSITY INDUSTRIAL
 - Conditional Use Permit Report
-- will be an opportunity to testify live during the meeting or in advance via email or regular
-- Tuesday, August 4th. Please contact the Community Development Department to
-- request paper copies of materials
-- 6. Update to Land Development Code - 7:00 PM
-- Pres 26-605 ORD 2795: AN ORDINANCE AMENDING THE LAND DEVELOPMENT
+- Nelson, that the Planning Commission enter a finding that the requested
+- Conditional Use Permit at 5199 Ivy Street contained in case CUP26-001 meets
+- the criteria of the Land Development Code and based upon such finding,
+- recommend approval to the City Council of the Conditional Use Permit. VOTE:
+- There will be an opportunity to testify live during the meeting or in advance via
+- Development Department to request paper copies of materials
+- Update to Land Development Code6
+- Pres 26-605 AN ORDINANCE AMENDING THE LAND DEVELOPMENT CODE TO
+- Ordinance 2795 was moved to the September 1st meeting
 - COMMUNITY DEVELOPMENT REPORT
+- City Council approved the 88th and Tower annexation and zoning
+- The Housing Action Plan outreach has launched, including public surveys and
+- Ordinance 2795 will be moved to the September 1st Planning Commission
 
-## [commerce-city#8] 2026-08-04 | Veterans Commission | agenda
+## [commerce-city#1] 2026-08-04 | Veterans Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each
 - Go over Veterans Commission Annual Presentation
 - Discuss Small Challenge Coin Remodel
 
-## [commerce-city#9] 2026-08-04 | City Council Policy and Governance Committee  | agenda
+## [commerce-city#2] 2026-08-04 | City Council Policy and Governance Committee  | agenda
 - 2. Discussion about potential #CP-5 revisions regarding expenditures for
 - 3. Discussion about potential #CP-16 revisions regarding the order of business
 
-## [commerce-city#11] 2026-08-07 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#4] 2026-08-07 | City Council Notice of Potential Quorum | agenda
 - Economic Development Tour
 - Metro Denver Tours Hosted by Commerce City Department of Economic Development
 - Tour of Parker, CO
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#12] 2026-08-10 | City Council | agenda
+## [commerce-city#5] 2026-08-10 | City Council | agenda
 - 4. Presentations
 - Attachment 1 - Q2 2026 Financial Report Presentation
 - Pres 26-146 2027 PRELIMINARY BUDGET SESSION
 - Attachment 1 - Presentation
 
-## [commerce-city#13] 2026-08-10 | Urban Renewal Authority | agenda
-- 2. Approval of Minutes
-- 3. Resolutions
-- A RESOLUTION OF THE URBAN RENEWAL AUTHORITY OF THE CITY
-- OF COMMERCE CITY AUTHORIZING AND APPROVING AN AMENDED
-- AND RESTATED INTERGOVERNMENTAL AGREEMENT BETWEEN
-- Attachment 1 - Resolution URA 2026-010
-- Attachment 2 - Intergovernmental Agreement
-- OF COMMERCE CITY AUTHORIZING AND APPROVING AMENDED
-- Attachment 1 - Resolution URA 2026-011
-- 4. Presentations
+## [commerce-city#6] 2026-08-10 | Urban Renewal Authority | minutes
+- Approval of Minutes2
+- Charles Dukes, that this URA Minutes be approved. VOTE:
+- Resolutions3
+- A RESOLUTION OF THE URBAN RENEWAL AUTHORITY OF THE
+- CITY OF COMMERCE CITY AUTHORIZING AND APPROVING AN
+- AMENDED AND RESTATED INTERGOVERNMENTAL AGREEMENT
+- Stefanie Trujillo, that this URA Resolution be approved. VOTE:
+- CITY OF COMMERCE CITY AUTHORIZING AND APPROVING
+- AMENDED AND RESTATED BYLAWS
+- Rocky Teter, that this URA Resolution be approved. VOTE:
+- Presentations4
 - Pres 26-152 URBAN RENEWAL AUTHORITY 2027 PRELIMINARY BUDGET
-- Attachment 1 - 2027 URA Budget Presentation
+- Chris Johnson, Budget Manager, provided the staff presentation
 
-## [commerce-city#14] 2026-08-10 | E-470 Commercial Area General Improvement District | agenda
+## [commerce-city#7] 2026-08-10 | E-470 Commercial Area General Improvement District | minutes
 - E-470 Commercial Area General Improvement District
-- 2. Approval of Minutes
-- 3. Presentations
+- Approval of Minutes2
+- Member Jose Guardiola, that this ECAGID Minutes be approved. VOTE:
+- Presentations3
 - (ECAGID) 2027 PRELIMINARY BUDGET
-- Attachment 1 - Presentation
+- Theresa Wilson, Treasurer, provided the presentation
+- Improvement District
 
-## [commerce-city#15] 2026-08-10 | E-470 Residential Area General Improvement District | agenda
+## [commerce-city#8] 2026-08-10 | E-470 Residential Area General Improvement District | minutes
 - E-470 Residential Area General Improvement District
 - Or immediately following the E-470 Commercial Area General Improvement District
-- 2. Approval of Minutes
-- 3. Presentations
+- Approval of Minutes2
+- Presentations3
 - (ERAGID) 2027 PRELIMINARY BUDGET
-- Attachment 1 - Presentation
+- Theresa Wilson, ERAGID Treasurer, provided the presentation
+- Improvement District
 
-## [commerce-city#16] 2026-08-10 | Northern Infrastructure General Improvement District | agenda
+## [commerce-city#9] 2026-08-10 | Northern Infrastructure General Improvement District | minutes
 - Northern Infrastructure General Improvement District
 - Or immediately following the E-470 Residential Area General Improvement District
-- 2. Approval of Minutes
-- 3. Presentations
+- Approval of Minutes2
+- Susan Noble, that this NIGID Minutes be approved. VOTE:
+- Presentations3
 - IMPROVEMENT DISTRICT (NIGID) 2027 PRELIMINARY BUDGET
-- Attachment 1 - Presentation
+- Theresa Wilson, Treasurer, provided the presentation
+- Improvement District
 
-## [commerce-city#17] 2026-08-11 | Zoning Board of Adjustment | agenda
+## [commerce-city#10] 2026-08-11 | Zoning Board of Adjustment | agenda
 - Zoning Board of Adjustment
 - 4. Approval of Minutes:
 - 5. Public Hearings:
 
-## [commerce-city#18] 2026-08-11 | Liquor License Authority | agenda
+## [commerce-city#11] 2026-08-11 | Liquor License Authority | agenda
 - 2. Approval of Minutes
 - 3. Renewal Hearing
 - 6. 26-137 Hearing on the Liquor license renewal for Taqueria San Julian, located at
 
-## [commerce-city#20] 2026-08-12 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#13] 2026-08-12 | City Council Notice of Potential Quorum | agenda
 - Eagle Pointe Recreation Center - 6060 Parkway
 - Eagle Pointe Recreation Center - 6060 Parkway Dr, Commerce City, CO 80022
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#21] 2026-08-13 | Senior Commission | minutes
+## [commerce-city#14] 2026-08-13 | Senior Commission | minutes
 - Approval of Minutes2
 - Commissioner Ledesma made a motion to approve the minutes of the July
 - Public Comment3
@@ -183,11 +129,11 @@
 - Commission holiday project for the senior homes speciifcally . VOTE: 8 - Aye, 0
 - and will start discussing planning details in September
 
-## [commerce-city#22] 2026-08-15 | Youth Commission | agenda
+## [commerce-city#15] 2026-08-15 | Youth Commission | agenda
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 
-## [commerce-city#23] 2026-08-17 | City Council | minutes
+## [commerce-city#16] 2026-08-17 | City Council | minutes
 - Approval of Agenda3
 - Public Comment4
 - Public Comment - Individuals may address the City Council on items that
@@ -246,7 +192,7 @@
 - There will be an opportunity to testify live during the meeting or in advance via
 - Public Comment Instructions” for instructions on how to register or submit
 
-## [commerce-city#24] 2026-08-18 | Parks, Recreation, and Golf Commission | minutes
+## [commerce-city#17] 2026-08-18 | Parks, Recreation, and Golf Commission | minutes
 - Parks, Recreation, and Golf Commission
 - Chairperson Martinelli welcomed the two new PRGC appointees and invited all
 - Public Comment3
@@ -274,13 +220,13 @@
 - on data centers and will hold an upcoming study session to learn more. Public
 - feedback is encouraged. He also shared that his next community meetup will take
 
-## [commerce-city#25] 2026-08-18 | City Council Policy and Governance Committee  | agenda
+## [commerce-city#18] 2026-08-18 | City Council Policy and Governance Committee  | agenda
 - 2. Discussion about potential #CP-16 revisions regarding the order of business
 
-## [commerce-city#26] 2026-08-18 | Derby Review Board | agenda
+## [commerce-city#19] 2026-08-18 | Derby Review Board | agenda
 - 4. Approval of Minutes:
 
-## [commerce-city#27] 2026-08-18 | Arts & Culture Commission | minutes
+## [commerce-city#20] 2026-08-18 | Arts & Culture Commission | minutes
 - Approval of Minutes2
 - Commissioner Riggs-Gonzales made a motion to approve the minutes of the
 - Public Comment3
@@ -296,13 +242,13 @@
 - Commission discussed their involvement and sponsorship in the upcoming Hispanic
 - a. Arts & Culture Commission Ordinance
 
-## [commerce-city#29] 2026-08-21 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#22] 2026-08-21 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at
 
-## [commerce-city#30] 2026-08-22 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#23] 2026-08-22 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#31] 2026-08-24 | City Council | minutes
+## [commerce-city#24] 2026-08-24 | City Council | minutes
 - Presentations2
 - RIVERDALE ANIMAL SHELTER FEES AND SERVICE OVERVIEW
 - Attachment 1 - Presentation
@@ -314,7 +260,7 @@
 - Attachment 5 - Public Comment
 - BOARDS AND COMMISSIONS DISCUSSION
 
-## [commerce-city#32] 2026-08-24 | Planning Commission | agenda
+## [commerce-city#25] 2026-08-24 | Planning Commission | agenda
 - DEVELOPMENT CODE LEGISLATIVE REZONING PROJECT
 - Attachment 1 - Staff Presentation
 - Attachment 2 - 2009 Current Zoning Map (Phase 2)
@@ -322,24 +268,24 @@
 - Attachment 4 - 2025 Proposed Zoning Map, August Phase 1 and 2 Draft
 - Attachment 5 - Public Comment
 
-## [commerce-city#34] 2026-08-25 | City Council Evaluation Committee | agenda
+## [commerce-city#27] 2026-08-25 | City Council Evaluation Committee | agenda
 - 2. Discuss process for evaluating the City Manager
 - 3. Review and discuss proposed 2027 metrics
 
-## [commerce-city#35] 2026-08-25 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#28] 2026-08-25 | City Council Notice of Potential Quorum | agenda
 - , 6495 Monaco Street,
 - business be discussed. For questions, please contact the Office of the
 
-## [commerce-city#36] 2026-08-26 | Diversity, Equity, and Inclusion Commission | agenda
+## [commerce-city#29] 2026-08-26 | Diversity, Equity, and Inclusion Commission | agenda
 - Conference Room) - 6060 E Parkway Dr,
 - 3. Approval of Minutes
 - 4. Public Comment
 
-## [commerce-city#37] 2026-08-26 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#30] 2026-08-26 | City Council Notice of Potential Quorum | agenda
 - C3 Promise Receiving Metro Vision Award
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#38] 2026-08-27 | Citizens Public Safety Advisory Board | minutes
+## [commerce-city#31] 2026-08-27 | Citizens Public Safety Advisory Board | minutes
 - Approval of Minutes2
 - Public Comment3
 - The board also discussed upcoming community outreach opportunities, new SWAG
@@ -350,7 +296,7 @@
 - purchase a mobile command unit from the SACFD
 - The group discussed promotional and outreach items for future community events
 
-## [commerce-city#39] 2026-08-27 | Environmental Policy and Innovation Commission | agenda
+## [commerce-city#32] 2026-08-27 | Environmental Policy and Innovation Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
@@ -361,7 +307,7 @@
 - EPIC_BC Applications
 - 7. Budget Update and Requests
 
-## [commerce-city#40] 2026-09-01 | Planning Commission | agenda
+## [commerce-city#33] 2026-09-01 | Planning Commission | agenda
 - 3. Approval of Agenda
 - 4. Approval of Minutes
 - 5. Public Hearings - 6:15 PM
@@ -384,7 +330,7 @@
 - Attachment 3_Staff Presentation
 - COMMUNITY DEVELOPMENT REPORT
 
-## [commerce-city#41] 2026-09-01 | Veterans Commission | agenda
+## [commerce-city#34] 2026-09-01 | Veterans Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each
@@ -395,7 +341,7 @@
 - Discussion on New VFW Fundraiser event day
 - Discussion on Toy Drive
 
-## [commerce-city#42] 2026-09-02 | Youth Commission | agenda
+## [commerce-city#35] 2026-09-02 | Youth Commission | agenda
 - 6060 E Parkway Dr. Commerce City, CO 80022
 - 2. Approval of Minutes
 - 3. Public Comment
@@ -409,18 +355,18 @@
 - BC Applications_ Youth Commission- Specific Questions
 - a. Town Hall Discussion
 
-## [commerce-city#43] 2026-09-03 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#36] 2026-09-03 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at
 
-## [commerce-city#44] 2026-09-08 | Zoning Board of Adjustment | agenda
+## [commerce-city#37] 2026-09-08 | Zoning Board of Adjustment | agenda
 - Zoning Board of Adjustment
 - Pres 26-695 Variance Approval Criteria Revisions in 2025 Land Development Code
 
-## [commerce-city#45] 2026-09-08 | Police Pension Board | agenda
+## [commerce-city#38] 2026-09-08 | Police Pension Board | agenda
 - Police Pension Board
 - 2. Approval of Minutes
 
-## [commerce-city#46] 2026-09-10 | Senior Commission | minutes
+## [commerce-city#39] 2026-09-10 | Senior Commission | minutes
 - Approval of Minutes2
 - Commissioner Brooks made a motion to approve the minutes of the August
 - Public Comment3
@@ -432,58 +378,63 @@
 - eliminating their mid-year and/or EOY celebration to allow for more budget going
 - The commission discussed the registration process and made note that some
 
-## [commerce-city#47] 2026-09-14 | City Council | agenda
+## [commerce-city#40] 2026-09-14 | City Council | agenda
 - 4. Presentations
 - Pres 26-148 2027 BUDGET WORKSHOP
 - Attachment 1 - Presentation
 - Attachment 3 - 2027 Budget Preliminary Session #1 Materials from 5/11/26 Study Session
 - Pres 26-538 RECREATION AND GOLF PRESENTATION FOR FEES AND
 
-## [commerce-city#48] 2026-09-14 | Urban Renewal Authority | agenda
-- PURPOSE OF DEVELOPING A NEGOTIATION STRATEGY FOR A
-- REVENUE AGREEMENT WITH THE ADAMS 14 SCHOOL DISTRICT
+## [commerce-city#41] 2026-09-14 | Urban Renewal Authority | minutes
+- THE PURPOSE OF DEVELOPING A NEGOTIATION STRATEGY FOR
+- A REVENUE AGREEMENT WITH THE ADAMS 14 SCHOOL DISTRICT
 
-## [commerce-city#49] 2026-09-15 | Parks, Recreation, and Golf Commission | agenda
+## [commerce-city#42] 2026-09-15 | Parks, Recreation, and Golf Commission | minutes
 - Parks, Recreation, and Golf Commission
-- 3. Public Comment
-- There will be the opportunity for public comments at the meeting during Public Comment. The public can submit
-- 4. Approval of Minutes
-- PresentationAttachments:
-- Application & Interview Questions Feedback - Kathy LeVeque
-- 7. Consideration of New Topics and Potential Future Agenda Items
-- 8. Community Engagement Updates and General Discussion Items
+- Public Comment3
+- Approval of Minutes4
+- A motion was made by Commissioner Grandinetti that the Minutes be approved,
 - September 15, 2026Parks, Recreation, and Golf
+- PresentationAttachments:
+- Heat and Cold Relief Operations, sharing key considerations used to determine
+- Application & Interview Questions Feedback - Kathy LeVeque
+- Consideration of New Topics and Potential Future Agenda Items7
+- Community Engagement Updates and General Discussion Items8
+- and fire mitigation was well received as an alternative and cost effective option that
+- Council Member Dukes indicated that the City’s 2027 budget approval process is
+- presented proposed 2027 fees and charges updates on September 14, and that he
+- initiated a request to create a 9/11 remembrance/memorial site in the city
 
-## [commerce-city#50] 2026-09-15 | Workforce Advisory Committee | agenda
+## [commerce-city#43] 2026-09-15 | Workforce Advisory Committee | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 
-## [commerce-city#51] 2026-09-15 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#44] 2026-09-15 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#52] 2026-09-15 | Arts & Culture Commission | agenda
+## [commerce-city#45] 2026-09-15 | Arts & Culture Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - a. Grants & Finance
 
-## [commerce-city#53] 2026-09-15 | Derby Review Board | agenda
+## [commerce-city#46] 2026-09-15 | Derby Review Board | agenda
 - 4. Approval of Minutes:
 
-## [commerce-city#54] 2026-09-16 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#47] 2026-09-16 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at
 
-## [commerce-city#55] 2026-09-16 | Youth Commission | agenda
+## [commerce-city#48] 2026-09-16 | Youth Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 - Youth Commission PresentationAttachments:
 - Selecting Retreat Date and Townhall Planning Discussion
 
-## [commerce-city#56] 2026-09-19 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#49] 2026-09-19 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#58] 2026-09-21 | City Council | minutes
+## [commerce-city#51] 2026-09-21 | City Council | minutes
 - Approval of Agenda3
 - Public Comment4
 - Public Comment - Individuals may address the City Council on items that
@@ -542,19 +493,19 @@
 - Attachment 1 - Resolution 2026-135
 - A RESOLUTION AUTHORIZING AWARD OF A CONTRACT FOR
 
-## [commerce-city#59] 2026-09-22 | City Council Policy and Governance Committee  | agenda
+## [commerce-city#52] 2026-09-22 | City Council Policy and Governance Committee  | agenda
 - 2. Discussion about potential #CP-16 revisions regarding the order of business
 
-## [commerce-city#60] 2026-09-22 | Quality Community Foundation | agenda
+## [commerce-city#53] 2026-09-22 | Quality Community Foundation | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - 5. Presentation: City Clerk's Office
 - QCF Discussion Presentation - 9-21-26Attachments:
 
-## [commerce-city#61] 2026-09-22 | Arts & Culture Commission | agenda
+## [commerce-city#54] 2026-09-22 | Arts & Culture Commission | agenda
 - 1. Discussion: 96th Ave Public Art
 
-## [commerce-city#62] 2026-09-24 | Environmental Policy and Innovation Commission | agenda
+## [commerce-city#55] 2026-09-24 | Environmental Policy and Innovation Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
@@ -562,19 +513,19 @@
 - Data Centers Research Discussion
 - Budget Update and Requests
 
-## [commerce-city#63] 2026-09-24 | Citizens Public Safety Advisory Board | agenda
+## [commerce-city#56] 2026-09-24 | Citizens Public Safety Advisory Board | agenda
 - Police Department Conference Room 2413
 - 2. Approval of Minutes
 - 3. Public Comment
 - Budget Update
 - Coffee with a Cop (10/07) locations TBD
 
-## [commerce-city#64] 2026-09-25 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#57] 2026-09-25 | City Council Notice of Potential Quorum | agenda
 - Road Commerce City, CO 80022
 - Prairie Gateway Open Space, 6350 Gateway Road Commerce City, CO 80022
 - discussed. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#65] 2026-09-28 | City Council | agenda
+## [commerce-city#58] 2026-09-28 | City Council | agenda
 - 4. Presentations
 - Pres 26-701 A PRESENTATION FROM COURT STAFF REGARDING CODE
 - Attachment 1 - Draft Ordinance 2807 - Jury Trial
@@ -585,46 +536,47 @@
 - Pres 26-663 DISCUSSION REGARDING OPTIONS AND RECOMMENDATIONS
 - REGARDING MUNICIPAL NOISE ORDINANCE
 
-## [commerce-city#66] 2026-09-28 | Northern Infrastructure General Improvement District | agenda
+## [commerce-city#59] 2026-09-28 | Northern Infrastructure General Improvement District | minutes
 - Northern Infrastructure General Improvement District
-- 2. Presentations
+- Presentations2
 - 2027 NIGID BUDGET - MILL LEVY OPTIONS AND DIRECTION
-- Attachment 1 - Presentation
-- Attachment 2 - 2027 Preliminary Budget Materials from 08.10.26 Study Session
+- Finance Director Theresa Wilson gave the presentation
 
-## [commerce-city#67] 2026-09-30 | Diversity, Equity, and Inclusion Commission | agenda
+## [commerce-city#60] 2026-09-30 | Diversity, Equity, and Inclusion Commission | agenda
 - 3. Approval of Minutes
 - 4. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 
-## [commerce-city#68] 2026-10-02 | City Council Evaluation Committee | agenda
+## [commerce-city#61] 2026-10-02 | City Council Evaluation Committee | agenda
 - 2. Discuss process for evaluating the City Manager
 
-## [commerce-city#69] 2026-10-03 | Youth Commission | agenda
+## [commerce-city#62] 2026-10-03 | Youth Commission | agenda
 - Pres 26-743 Youth Commission Annual Retreat Presentation
 - Youth Commission Annual Retreat PresentationAttachments:
 - A. Review of Last Year Goals/Presentations
 - B. Identify the Commission's Top 3-5 Priorities
 - A. Identifying: Goal → Action → Partners → Timeline → Measure of Success
 
-## [commerce-city#70] 2026-10-05 | City Council | agenda
-- 3. Approval of Agenda
-- 4. Public Comment
-- 26-098 Public Comment - Individuals may address the City Council on items that
+## [commerce-city#63] 2026-10-05 | City Council | minutes
+- Approval of Agenda3
+- Public Comment4
+- Public Comment - Individuals may address the City Council on items that
 - Hearings, during Public Comment. Items of a personal nature should not
 - be discussed; personnel-related matters shall be directed through the
 - engage in discussions or debate with any speaker. The Council may
-- "Virtual Meeting and Public Comment Instructions," for instructions on how
-- DISCUSSING PERSONNEL MATTERS, SPECIFICALLY TO DISCUSS
-- NCB 26-058 REQUEST FOR STUDY SESSION WITH SUNCOR TO DISCUSS
+- on, "Virtual Meeting and Public Comment Instructions," for instructions on
+- REQUEST FOR STUDY SESSION WITH SUNCOR TO DISCUSS
 - STUDY SESSION TO DISCUSS MODIFYING THE DIRECTORY OF
 - FEES AND CHARGES IN FALL 2026
+- Noble, to approve the Consent Agenda, as amended. VOTE:
 - A RESOLUTION AUTHORIZING AWARD OF A CONTRACT FOR THE
 - CONSTRUCTION OF PIONEER PARK RENOVATIONS PROJECT TO
 - Attachment 1 - Resolution 2026-102
+- that this Resolution be adopted. VOTE:
 - A RESOLUTION AUTHORIZING THE FIRST AMENDMENT TO THE
 - MASTER SERVICES AND PURCHASING AGREEMENT WITH AXON
 - Attachment 1 - Resolution 2026-125
+- Dukes, that this Resolution be adopted. VOTE:
 - A RESOLUTION EXPRESSING SUPPORT FOR THE NATIONAL
 - LEAGUE OF CITIES ACCELERATOR WORK PLAN
 - Attachment 1 - Resolution 2026-130
@@ -634,45 +586,48 @@
 - Attachment 1 - Resolution 2026-133
 - A RESOLUTION ACCEPTING A PRELIMINARY QUOTATION FROM
 - Attachment 1 - Resolution 2026-144
-- Ord 2794 AN ORDINANCE AMENDING THE 2026 BUDGET OF THE CITY OF
+- AN ORDINANCE AMENDING THE 2026 BUDGET OF THE CITY OF
 - Attachment 1 - Ordinance 2794
-- Ord 2801 AN ORDINANCE AMENDING ARTICLE III OF CHAPTER 2 OF THE
+- AN ORDINANCE AMENDING ARTICLE III OF CHAPTER 2 OF THE
 - Attachment 1 - Ordinance 2801
-- Ord 2805 AN ORDINANCE AMENDING THE 2026 BUDGET OF THE CITY OF
 - Attachment 1 - Ordinance 2805
-- Ord 2810 AN ORDINANCE AMENDING THE 2026 BUDGET OF THE CITY OF
 - Attachment 1 - Ordinance 2810
-- 9. Ordinances on 1st Reading
-- Ord 2798 AN ORDINANCE AMENDING DIVISION 3 IN ARTICLE III OF CHAPTER 9
-- OF THE COMMERCE CITY REVISED MUNICIPAL CODE TO AMEND
+- Teter, that this Ordinance be introduced by Council as seated and approved on
+- Ordinances on 1st Reading9
+- AN ORDINANCE AMENDING DIVISION 3 IN ARTICLE III OF CHAPTER
+- AMEND THE RESTRICTIONS ON OUTDOOR VENDORS
 - Attachment 1 - Ordinance 2798
-- Ord 2786 AN ORDINANCE AMENDING CHAPTER 5 OF THE COMMERCE CITY
+- Guardiola, that this Ordinance be introduced by Council as seated and
+- approved on first reading. VOTE:
+- AN ORDINANCE AMENDING CHAPTER 5 OF THE COMMERCE CITY
 - Attachment 1 - Ordinance 2786
 - Attachment 2 - Presentation
-- ZON26-0004 AN ORDINANCE AMENDING THE ZONING ORDINANCE AND ZONING
-- MAP OF THE CITY OF COMMERCE CITY, COLORADO BY REZONING
-- CORNER OF EAST 52 AVENUE AND IVY STREET FROM MEDIUM
-- INTENSITY INDUSTRIAL ZONING DISTRICT (I-2) TO HIGH INTENSITY
-- INDUSTRIAL ZONING DISTRICT (I-3) AS DEFINED BY THE 2025 LAND
-- DEVELOPMENT CODE
+- Kim, that this Ordinance be introduced by Council as seated and approved on
+- AN ORDINANCE AMENDING THE ZONING ORDINANCE AND
+- ZONING MAP OF THE CITY OF COMMERCE CITY, COLORADO BY
+- REZONING THE PROPERTIES GENERALLY LOCATED AT THE
+- SOUTHWEST CORNER OF EAST 52 AVENUE AND IVY STREET
+- FROM MEDIUM INTENSITY INDUSTRIAL ZONING DISTRICT (I-2) TO
+- HIGH INTENSITY INDUSTRIAL ZONING DISTRICT (I-3) AS DEFINED
+- BY THE 2025 LAND DEVELOPMENT CODE
 - Attachment 1 - Ordinance ZON26-0004
 - Attachment 6 - Staff Presentation
-- Second Reading and Public Hearing of this Zoning Ordinance is scheduled for November 16, 2026
+- Young, that this Ordinance be introduced by Council as seated and approved
 
-## [commerce-city#71] 2026-10-06 | Planning Commission | agenda
+## [commerce-city#64] 2026-10-06 | Planning Commission | agenda
 - Pres 26-726 JOINT STUDY SESSION FOR TIER 2 AMENDMENTS TO THE 2025
 - LAND DEVELOPMENT CODE WHICH INCLUDES CHANGES TO LAND
 - USES, PROCEDURES, AND APPROVAL CRITERIA
 - Attachment 2: Staff Presentation
 
-## [commerce-city#72] 2026-10-06 | City Council | agenda
+## [commerce-city#65] 2026-10-06 | City Council | agenda
 - 2. Presentations
 - Pres 26-744 JOINT STUDY SESSION FOR TIER 2 AMENDMENTS TO THE 2025
 - LAND DEVELOPMENT CODE WHICH INCLUDES CHANGES TO LAND
 - USES, PROCEDURES, AND APPROVAL CRITERIA
 - Attachment 2: Staff Presentation
 
-## [commerce-city#73] 2026-10-06 | Veterans Commission | agenda
+## [commerce-city#66] 2026-10-06 | Veterans Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each
@@ -681,7 +636,7 @@
 - Veterans Commission to provide their input for the Interview and Application Questions
 - Veterans Commission Branded Tent Discussion
 
-## [commerce-city#74] 2026-10-07 | Youth Commission | agenda
+## [commerce-city#67] 2026-10-07 | Youth Commission | agenda
 - 2. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 - B. Youth Commission Bylaws Discussion
@@ -692,16 +647,16 @@
 - BC Applications_ Youth Commission- Specific Questions
 - C. Youth Commission 2026-2027 Work Plan
 
-## [commerce-city#75] 2026-10-08 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#68] 2026-10-08 | City Council Notice of Potential Quorum | agenda
 - discussed. For questions, please contact the Office of the City Clerk by phone at
 
-## [commerce-city#76] 2026-10-08 | Senior Commission | agenda
+## [commerce-city#69] 2026-10-08 | Senior Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 - C. 2027 Budget
 
-## [commerce-city#77] 2026-10-12 | City Council | agenda
+## [commerce-city#70] 2026-10-12 | City Council | agenda
 - 4. Presentations
 - Pres 26-474 COMMERCE CITY HOUSING AUTHORITY DISCUSSION
 - Attachment 1 - Presentation
@@ -710,18 +665,18 @@
 - Attachment 1 - Tower Landfill Presentation
 - Pres 26-613 CHAMBERS ROAD WIDENING PROJECT UPDATE
 
-## [commerce-city#78] 2026-10-12 | Urban Renewal Authority | agenda
+## [commerce-city#71] 2026-10-12 | Urban Renewal Authority | agenda
 - 2. Presentations
 
-## [commerce-city#80] 2026-10-14 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#73] 2026-10-14 | City Council Notice of Potential Quorum | agenda
 - Monaco Park - 5790 Monaco St., Commerce
 - Monaco Park - 5790 Monaco St., Commerce City, CO 80022
 - considered. For questions, please contact the Office of the City Clerk by phone
 
-## [commerce-city#81] 2026-10-15 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#74] 2026-10-15 | City Council Notice of Potential Quorum | agenda
 - considered. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#83] 2026-10-19 | City Council | agenda
+## [commerce-city#76] 2026-10-19 | City Council | agenda
 - 3. Approval of Agenda
 - 4. Public Comment
 - 26-099 Public Comment - Individuals may address the City Council on items that
@@ -779,7 +734,7 @@
 - A RESOLUTION ADOPTING THE BUDGET FOR THE CITY OF
 - PROVIDING FOR 2026 COMMERCE CITY TAX LEVY
 
-## [commerce-city#84] 2026-10-19 | E-470 Commercial Area General Improvement District | agenda
+## [commerce-city#77] 2026-10-19 | E-470 Commercial Area General Improvement District | agenda
 - E-470 Commercial Area General Improvement District
 - 2. Approval of Minutes
 - 3. Public Hearings
@@ -790,7 +745,7 @@
 - Attachment 2 - 2027 Budget Presentation
 - Attachment 3 - 2027 Budget Book Pages
 
-## [commerce-city#85] 2026-10-19 | E-470 Residential Area General Improvement District | agenda
+## [commerce-city#78] 2026-10-19 | E-470 Residential Area General Improvement District | agenda
 - E-470 Residential Area General Improvement District
 - 2. Approval of Minutes
 - 3. Public Hearings
@@ -801,7 +756,7 @@
 - Attachment 2 - 2027 Budget Presentation
 - Attachment 3 - ERAGID 2027 Budget Book Pages
 
-## [commerce-city#86] 2026-10-19 | Northern Infrastructure General Improvement District | agenda
+## [commerce-city#79] 2026-10-19 | Northern Infrastructure General Improvement District | agenda
 - Northern Infrastructure General Improvement District
 - 2. Approval of Minutes
 - 3. Public Hearings
@@ -812,18 +767,18 @@
 - Attachment 2 - 2027 Budget Presentation
 - Attachment 3 - 2027 Budget Book Pages
 
-## [commerce-city#87] 2026-10-19 | Urban Renewal Authority | agenda
+## [commerce-city#80] 2026-10-19 | Urban Renewal Authority | agenda
 - 2. Public Hearings
 - A RESOLUTION ADOPTING THE 2027 BUDGET FOR THE URBAN
 - Attachment 1 - Resolution URA 2026-012
 - Attachment 2 - 2027 URA Budget Presentation
 - Attachment 3 - 2027 Budget Book Pages
 
-## [commerce-city#88] 2026-10-19 | City Council Notice of Potential Quorum | agenda
+## [commerce-city#81] 2026-10-19 | City Council Notice of Potential Quorum | agenda
 - Groundbreaking Event I-270 Corridor Improvements Project
 - considered. For questions, please contact the Office of the City Clerk by phone at (303)
 
-## [commerce-city#89] 2026-10-20 | Parks, Recreation, and Golf Commission | agenda
+## [commerce-city#82] 2026-10-20 | Parks, Recreation, and Golf Commission | agenda
 - Parks, Recreation, and Golf Commission
 - 3. Public Comment
 - 4. Approval of Minutes
@@ -832,7 +787,7 @@
 - 9. Community Engagement Updates and General Discussion Items
 - October 20, 2026Parks, Recreation, and Golf
 
-## [commerce-city#90] 2026-10-20 | Workforce Advisory Committee | agenda
+## [commerce-city#83] 2026-10-20 | Workforce Advisory Committee | agenda
 - 2. Approval of Minutes
 - 4. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
@@ -841,7 +796,7 @@
 - Presentation on Community Well Being Programs
 - Centro de Trabajados Presentation
 
-## [commerce-city#91] 2026-10-20 | Arts & Culture Commission | agenda
+## [commerce-city#84] 2026-10-20 | Arts & Culture Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
@@ -857,30 +812,131 @@
 - Second Creek Final Artwork PresentationAttachments:
 - Golf Course Final Artwork PresentationAttachments:
 
-## [commerce-city#92] 2026-10-20 | Derby Review Board | agenda
+## [commerce-city#85] 2026-10-20 | Derby Review Board | agenda
 - 4. Approval of Minutes:
 
-## [commerce-city#93] 2026-10-22 | Environmental Policy and Innovation Commission | agenda
+## [commerce-city#86] 2026-10-22 | Environmental Policy and Innovation Commission | agenda
 - 2. Approval of Minutes
 - 3. Public Comment
 - hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
 - Data Center Recommendation
 - Budget Update and Requests
 
-## [commerce-city#94] 2026-10-22 | Citizens Public Safety Advisory Board | agenda
+## [commerce-city#87] 2026-10-22 | Citizens Public Safety Advisory Board | agenda
 - Police Department Conference Room 2413
 - 2. Approval of Minutes
 - 3. Public Comment
 - Boards & Commissions Interview Questions and Application
 
-## [commerce-city#97] 2026-10-26 | City Council | agenda
+## [commerce-city#90] 2026-10-26 | City Council | agenda
 - 2. Presentations
 - HOUSING ACTION PLAN
 - Attachment 1 - Consultant Presentation
 - Pres 26-570 CHARTER AMENDMENTS - ADMINISTRATIVE & DEPARTMENTAL
 - Attachment 1 - Presentation
 
-## [commerce-city#98] 2026-10-26 | Planning Commission | agenda
+## [commerce-city#91] 2026-10-26 | Planning Commission | agenda
 - 2. Presentations
 - HOUSING ACTION PLAN
 - Attachment 1 - Consultant PresentationAttachments:
+
+## [commerce-city#92] 2026-10-27 | Quality Community Foundation | agenda
+- 2. Approval of Minutes
+- 3. Public Comment
+- hearing. Individual speakers are limited to three minutes each
+
+## [commerce-city#93] 2026-10-28 | Diversity, Equity, and Inclusion Commission | agenda
+- 2. Public Comment
+- hearing. Individual speakers are limited to three minutes each. The sign up sheet is in the back of the room
+- Mobility and Transportation Discussion
+- Harm Reduction and Needle Exchange Discussion
+
+## [commerce-city#94] 2026-10-29 | City Council Notice of Potential Quorum | agenda
+- considered. For questions, please contact the Office of the City Clerk by phone at (303)
+
+## [commerce-city#95] 2026-10-30 | City Council Notice of Potential Quorum | agenda
+- Pioneer Park - 5950 Holly St, Commerce City,
+- Pioneer Park - 5950 Holly St, Commerce City, CO 80022
+- discussed. For questions, please contact the Office of the City Clerk by phone at (303)
+
+## [commerce-city#96] 2026-11-02 | City Council | agenda
+- 3. Approval of Agenda
+- 4. Public Comment
+- 26-173 Public Comment - Individuals may address the City Council on items that
+- Hearings, during Public Comment. Items of a personal nature should not
+- be discussed; personnel-related matters shall be directed through the
+- engage in discussions or debate with any speaker. The Council may
+- "Virtual Meeting and Public Comment Instructions," for instructions on how
+- A RESOLUTION AUTHORIZING THE SECOND AMENDMENT TO THE
+- AGREEMENT FOR SERVICES WITH FOOD BANK OF THE ROCKIES
+- Attachment 1 - Resolution 2026-141
+- A RESOLUTION ESTABLISHING A NON-PROFIT ENGAGEMENT
+- Attachment 1 - Resolution 2026-142
+- A RESOLUTION AUTHORIZING CHANGE ORDER 2 TO A
+- CONSTRUCTION CONTRACT WITH GOLD STAR CONCRETE, INC
+- FOR PROJECT 2024-02-PW, CONSTRUCTION OF THE
+- 2024-2025-2026 CONCRETE FLATWORK PROJECT
+- Attachment 1 - Resolution 2026-149
+- Attachment 2 - Project Change Request Form
+- Attachment 3 - Project Change Request - Signature Page
+- Attachment 4 - Second Amendment Quantity Reconcilation
+- Ord 2786 AN ORDINANCE AMENDING CHAPTER 5 OF THE COMMERCE CITY
+- Attachment 1 - Ordinance 2786
+- Attachment 2 - Presentation
+- 10/5/26 City Council introduced by council as seated and approved
+- Ord 2801 AN ORDINANCE AMENDING ARTICLE III OF CHAPTER 2 OF THE
+- Attachment 1 - Ordinance 2801
+- Ord 2805 AN ORDINANCE AMENDING THE 2026 BUDGET OF THE CITY OF
+- Attachment 1 - Ordinance 2805
+- 8. Public Hearings - 7:20 PM
+- A RESOLUTION ADOPTING THE BUDGET FOR THE CITY OF
+- PROVIDING FOR 2026 COMMERCE CITY TAX LEVY
+- Attachment 1 - Resolution 2026-030
+- Attachment 2 - 2027 City Budget Presentation
+- Attachment 3 - 2027 Budget Book Pages
+- Attachment 4 - 2027 Budget Book Pages - Spanish
+- will be an opportunity to testify live during the meeting or in advance via email or regular
+- mail. Visit c3gov.com/council and click on “Virtual Meeting and Public Comment
+- 2nd. Please contact the City Clerk to request paper copies of materials
+- C.R.S. SEC. 24-6-402(4)(F)(I) FOR THE DISCUSSION OF PERSONNEL
+
+## [commerce-city#97] 2026-11-02 | E-470 Commercial Area General Improvement District | agenda
+- E-470 Commercial Area General Improvement District
+- 2. Approval of Minutes
+- 3. Public Hearings
+- A RESOLUTION ADOPTING THE 2027 BUDGET AND CERTIFICATION
+- OF THE MILL LEVY FOR THE E-470 COMMERCIAL AREA GENERAL
+- IMPROVEMENT DISTRICT
+- Attachment 1 - Resolution ECAGID 2026-001
+- Attachment 2 - 2027 Budget Presentation
+- Attachment 3 - 2027 Budget Book Pages
+
+## [commerce-city#98] 2026-11-02 | E-470 Residential Area General Improvement District | agenda
+- E-470 Residential Area General Improvement District
+- 2. Approval of Minutes
+- 3. Public Hearings
+- A RESOLUTION ADOPTING THE 2027 BUDGET AND CERTIFICATION
+- OF THE MILL LEVY FOR THE E-470 RESIDENTIAL AREA GENERAL
+- IMPROVEMENT DISTRICT
+- Attachment 1 - Resolution ERAGID 2026-001
+- Attachment 2 - 2027 Budget Presentation
+- Attachment 3 - ERAGID 2027 Budget Book Pages
+
+## [commerce-city#99] 2026-11-02 | Northern Infrastructure General Improvement District | agenda
+- Northern Infrastructure General Improvement District
+- 2. Approval of Minutes
+- 3. Public Hearings
+- A RESOLUTION ADOPTING THE 2027 BUDGET AND CERTIFICATION
+- OF THE MILL LEVY FOR THE NORTHERN INFRASTRUCTURE
+- GENERAL IMPROVEMENT DISTRICT
+- Attachment 1 - Resolution NIGID 2026-001
+- Attachment 2 - 2027 Budget Presentation
+- Attachment 3 - 2027 Budget Book Pages
+
+## [commerce-city#100] 2026-11-02 | Urban Renewal Authority | agenda
+- 2. Approval of Minutes
+- 3. Public Hearings
+- A RESOLUTION ADOPTING THE 2027 BUDGET FOR THE URBAN
+- Attachment 1 - Resolution URA 2026-012
+- Attachment 2 - 2027 URA Budget Presentation
+- Attachment 3 - 2027 Budget Book Pages

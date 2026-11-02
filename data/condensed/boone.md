@@ -173,11 +173,12 @@
 - Review SCBD Ordinances for Boone copies to all council for review and discuss at next meeting
 - MAINTENANCE REPORT Pea Gravel & Road Base Ordered to begin road work
 
-## [boone#12] 2026-10-14 | City Council | agenda
-- Angie Parks, Mayor Pro Temp Charlotte Buchanan, Trustee Kelly Levar, Town Clerk
-- APPROVAL OF OUTSTANDING BILLS
-- Finalize Water/Sewer Billing Procedure Ordinance
-- Review & Finalize SCBD Ordinances for Boone
-- Review and Finalize Amended IGA SCBD
-- Discuss Sewer Tap for Kevin Garcia
-- Angie - Proposed Resolution Establishing Regulations for Sewage Disposal
+## [boone#12] 2026-10-14 | City Council | minutes
+- Angie Parks, Mayor Pro Temp X Charlotte Buchanan, Trustee X Kelly Levar, Town Clerk X
+- APPROVAL OF OUTSTANDING BILLS. CB Mtn to Accept; JB 2nd; All in Favor
+- Finalize Water/Sewer Billing Procedure Ordinance Voted to Approve; signed; posting for 30 days before effective
+- Review & Finalize SCBD Ordinances for Boone Completed & Posted (missed 1 Ordinance will address at
+- Review and Finalize Amended IGA SCBD Tabled until 11-18-26 for SCBD to add Rockvail
+- Discuss Sewer Tap for Kevin Garcia - Resident to responsible for issues up to Tap
+- SM Mtn to Approve; SB 2nd; All in favor
+- Angie - Proposed Resolution Establishing Regulations for Sewage Disposal May not need - council to review

@@ -1,11 +1,6 @@
 # del-norte
 
-## [del-norte#0] 2026-07-29 | City Council | agenda
-- 5:30 p.m. – Cherry Street Housing Project Discussion
-- Town work session is for information sharing and discussion only. No decisions will be made. The work session is
-- open to the public, but not open for public comment, and will not be recorded
-
-## [del-norte#1] 2026-08-12 | City Council | agenda
+## [del-norte#0] 2026-08-12 | City Council | agenda
 - Town Council Chambers – 140 Spruce Street
 - B. AMENDMENT TO AGENDA
 - 2. Review and Approval of Financial Accounts /Reports
@@ -27,7 +22,7 @@
 - A. Discussion- Resolutions- Bob’s Rule of Order
 - 2. Neighborhood Watch Meeting- August 19, 2026, RG Annex 6pm
 
-## [del-norte#2] 2026-09-09 | City Council | agenda
+## [del-norte#1] 2026-09-09 | City Council | agenda
 - PUBLIC HEARING
 - Town Council Chambers – 140 Spruce Street
 - Hearing Officer: Eugene Farish, Attorney at Law
@@ -37,7 +32,7 @@
 - Action: Following the Public Hearing- Regular Board Meeting- Ordinance No. 789
 - amending Table 16-4A, Use Chart, for the Town of Del Norte
 
-## [del-norte#3] 2026-09-09 | City Council | agenda
+## [del-norte#2] 2026-09-09 | City Council | agenda
 - Town Council Chambers – 140 Spruce Street
 - A. AMENDMENT TO AGENDA
 - 2. Review and Approval of Financial Accounts /Reports
@@ -57,14 +52,14 @@
 - A. Discussion on temporary moratorium on Flock Safety cameras
 - 3. Neighborhood Watch Meeting- September 16, 2026, RG Annex 6pm
 
-## [del-norte#4] 2026-09-22 | City Council | agenda
+## [del-norte#3] 2026-09-22 | City Council | agenda
 - Discussion on the availability of Town Board members for October 14, 2026, Public Hearing
 
-## [del-norte#5] 2026-10-06 | City Council | agenda
+## [del-norte#4] 2026-10-06 | City Council | agenda
 - 6:00 p.m. – Resolution 9-2026- Amending Virtual Meeting Procedures Policy
 - Vote and Appoint- Public Art Commission and Town Planning Commission
 
-## [del-norte#6] 2026-10-14 | City Council | agenda
+## [del-norte#5] 2026-10-14 | City Council | agenda
 - Rio Grande Hospital Wellness Center – 0310 County Road 14
 - A. AMENDMENT TO AGENDA
 - 2. Review and Approval of Financial Accounts /Reports
@@ -87,7 +82,7 @@
 - Annex Building
 - 3. Town Board Stakeholder Meeting- RG Comprehensive Plan – November 4, 2026, 5:00 p.m. -Town
 
-## [del-norte#7] 2026-10-14 | City Council | agenda
+## [del-norte#6] 2026-10-14 | City Council | agenda
 - PUBLIC HEARING
 - Rio Grande Hospital Wellness Center- 310 County Road 14, Del Norte, Co 81132
 - Hearing Officer: Eugene Farish, Attorney at Law

@@ -1,0 +1,2230 @@
+ 
+Town of Paonia 
+214 Grand Avenue 
+Monday, November 2, 2026 6:00 PM 
+Planning Commission Agenda 
+https://us02web.zoom.us/j/89272261122 
+Meeting ID: 8927 226 1122 
+ 
+ 
+ 
+ 
+  
+I. Roll Call 
+II. Approval of Agenda 
+III. Approval of Minutes 
+ 1) October 5, 2026 Planning Commission Minutes 
+IV. Actions & Presentations 
+Public comments must be related to the agenda item, 3-minute time limit. 
+ 1) Discussion of Accessory Dwelling Unit (ADU) Additions to Chapter 16 for 
+Recommendation to Code Rewrite 
+ 2) Discussion of Water Moratorium Planning - Tap Availability Processes 
+ 3) Discussion on Requirements for Sidewalks in New Subdivisions Based on Lot Size 
+V. Adjournment 
+ 
+ 
+Page 1 of 73
+ 
+Page 2 of 73
+ 
+ 
+ 
+Town of Paonia; 
+214 Grand Avenue 
+Monday, October 5, 2026 6:00 PM  
+Planning Commission Minutes 
+ 
+  
+ 
+ 
+A) Roll Call 
+ 
+The Chair called the meeting to order at 6:00 PM. 
+ 
+PRESENT:  
+Chair Bachran 
+Vice-Chair Doherty 
+Commissioner Hunter 
+Commissioner Knoll  
+Commissioner Fischer 
+Commissioner Everett 
+Commissioner Sund 
+ 
+  
+B) Approval of Agenda 
+ 
+Vice Chair Doherty motions to approve the agenda, seconded by Commissioner Everett 
+ 
+The motion carries unanimously.  
+D) Approval of Minutes 
+ 
+Commissioner Everett motions to approve the minutes with the adjournment time corrected, 
+seconded by Commissioner Hunt. 
+ 
+The motion carries unanimously.  
+  
+E) Actions & Presentations 
+Public comments must be related to the agenda item, 3-minute time limit. 
+ 
+None  
+F) Adjournment 
+ 
+The meeting is adjourned at 6:02 pm  
+  
+   
+______________________  ______________________ 
+Samira M. Vetter, Town Clerk  Mary Bachran, Chair 
+ 
+Page 3 of 73
+ 
+TOWN OF PAONIA 
+PLANNING COMMISSION & COMMUNITY DEVELOPMENT 
+ST AFF REPORT 
+ 
+ 
+Staff Report on Adding Accessory Dwelling Units (ADUs) to Paonia’s 
+Municipal Code 
+ 
+This report and discussion request is being presented to the Planning Commission 
+because the 2025 Comprehensive plan lists ADUs as a key part of creating housing 
+affordability and a code rewrite is currently in progress and about to address the chapters 
+related to ADUs.  
+The meeting’s goal is to provide information for the code rewrite of Sections 16-18. 
+This report identiﬁes key points to consider when deciding on ADU legislation, provides 
+questions for discussion, staff recommendations, and background information about each 
+point from: 
+• The current Paonia Municipal Code 
+• The 2025 Paonia Comprehensive Plan 
+• A draft Paonia ordinance created in 2021 that did not get adopted, with additional 
+commentary from current staff 
+• CRS §29-35-401 to 405 (2025) provides key points on ensuring ADUs are legal, 
+geared towards housing locals, and affordable. While the legislation is designed to 
+outline requirements for a grant process that is no longer open, its information is 
+well considered and helpful in shaping the use of ADUs. 
+• The 2018 International Residential Code and the 2018 International Building Code, 
+both of which have been adopted by Paonia. 
+• Other relevant codes that provide frameworks or information appropriate to the key 
+points. 
+The packet contains: 
+• This report 
+• Large sections pulled from the above sources that are directly related to ADUs 
+(recommended if you want more information than provided by the bullet points in 
+the report) 
+• The complete text of many of these sources. (not necessary to reference unless you 
+would like the broader context of each source) 
+• The Staff Memo to the STR Committee (referenced later in this document) 
+Page 4 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 2 of 20 
+Staff Report Topics 
+Location – Where are ADUs permitted? ..................................................................................... 3 
+Utilities – How should water, sewer, trash be handled – including physical infrastructure, 
+accounts, and billing ................................................................................................................ 3 
+Parking – How should the additional vehicles be managed ......................................................... 4 
+Occupation – Owners, local workforce, vacations ..................................................................... 5 
+Size – How large or small should the ADUs be ............................................................................ 5 
+Design – limitations and opportunities ...................................................................................... 6 
+Fees – Additions and/or subtractions ........................................................................................ 7 
+Number – how many ADUs per lot? ........................................................................................... 7 
+Sale of and ADU separate from the primary dwelling .................................................................. 8 
+Lots – Setbacks and open space ............................................................................................... 8 
+Hurdles – Section 16-11-20 Home Occupations ........................................................................ 9 
+Relevant Documentation Excerpts  
+ARTICLE 11. - ACCESSORY BUILDINGS, STRUCTURES AND USES ............................................ 12 
+PMC §13-1-70. - Individual meters. ......................................................................................... 16 
+PM §13-1-131 - Moratorium ..................................................................................................... 16 
+Sec. 13-5-330. - Independent connections. [Sewer] ................................................................. 17 
+Table 16-5 Off-Street Parking Space Requirements .................................................................. 17 
+CANNOT Dos ......................................................................................................................... 18 
+SHOULD DOs ......................................................................................................................... 18 
+CAN DOs ............................................................................................................................... 19 
+ 
+ 
+Page 5 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 3 of 20 
+Location – Where are ADUs permitted? 
+• The Comprehensive Plan mentions all residential zones except Urban Farm as 
+places for ADUs 
+ 
+• PMC Table 16-3 currently allows residences in limited ways that resemble ADUs in 
+C-1, C-2, and I-1 Districts. 
+Use  C-1 District  C-2 District  I-1 District  
+Dwelling units as a part of a business use  S  S  S  
+Dwelling units secondary to the business use  P  P  S  
+S = By Special Review    P = By Right 
+• Existing top ﬂoor, basement, and rear residences exist throughout C-1, and would 
+likely be considered ADUs with the new code. Do we want to “grandfather” these 
+units and forbid new ones, or allow ADUs in those zones if they ﬁt other zoning 
+requirements? 
+Staff recommendation is to allow ADUs in all Residential Zones, with existing 
+nonconforming status (grandfathering) for ADUs existing in Commercial and Industrial 
+Zones. 
+Utilities – How should water, sewer, trash be handled – including physical 
+infrastructure, accounts, and billing 
+• No new sewer or water taps are required by PMC §13-1-70, but metering currently 
+is.** (a) “Properties sharing a common line feeding through one property to another, 
+or utilizing a single meter for two (2) or more units or serviced by only one water line 
+shall be required to install separate meters so that service to each user is 
+independent from every other. ” 
+(b) “Each household unit shall be serviced by a separate water meter. Multiple 
+household units in a single building owned by a single entity built prior to the 
+enactment of this Article may be served by a single water meter under the condition 
+that all units are included in one bill which is the responsibility of the property 
+owner.” 
+• **The code does conﬂicts with water moratorium language PM §13-1-131: (f) “It is 
+presumed that each tap sold by the Town prior to the effective date of Ordinance 
+No. 2020-01 was purchased for the connection of one (1) household unit or one (1) 
+commercial unit to the Town's municipal water supply system.” 
+• Sewer taps are less ﬂexible, needing a separate tap for each building according to 
+PMC §13-5-330: “Each house, dwelling, building, store, premises, and other 
+structures connected to or with the wastewater collection/sanitary sewer collection 
+Page 6 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 4 of 20 
+system shall be separate and independent from that of any other house, dwelling, 
+building, store, premises or any other structure, and each shall have an independent 
+connection with the wastewater collection/sanitary sewer collection system, 
+except in the cases of apartments, congregate residential living facilities, 
+mobile home parks, and RV parks which the Town may allow a single connection 
+for such facility in single ownership and which is sized and assessed based on the 
+number of units to be served.” 
+• Laterals on the lot may be large enough to connect the ADU without a separate tap. 
+Cursory research indicates this is the most common practice, however laterals may 
+need to be upgraded by the property owner. (I was unable to confer with Public 
+Works about this before the packet was produced, but will try to come to the 
+meeting with additional information.) 
+• No ADUs should be allowed on parcels that still have septic tanks – All ADUs should 
+be connected to Town water and sewer. 
+• Do we want to consider removing the “ban” on gray water or reclaimed water 
+systems in our current adoption of the 2018 IRC? It may set off some of the 
+additional water use allowing these systems. 
+• Current billing practice is to charge a number of base rates equal to the number of 
+businesses + residences on one account. (e.g. a duplex with one owner and one 
+Town bill would have 2 water base rates + usage and 2 sewer base rates). Should 
+billing follow this practice? 
+Staff recommends maintaining a single water and sewer tap for the lot if one ADU is being 
+added – multiple water taps can weaken the pressure in the system, and the code clearly 
+allows this practice for water. Staff recommends adding a single ADU per lot to the 
+exceptions outlined in PMC §13-5-330 for sewer taps with a provision made to assess the 
+lateral’s ability to handle an additional residence. Staff also recommends allowing gray 
+water systems in buildings. 
+Parking – How should the additional vehicles be managed 
+• PMC Table 16-5 requires 1.5 spaces for “efficiency or one bedroom” residences, but 
+only with “the construction, addition or change of use [of a building], which requires 
+a special review” (§16-6-10). 
+ 
+• CRS §29-35-403 disallows jurisdictions from requiring “the construction of a new 
+off-street parking space in connection with the construction or conversion of an 
+accessory dwelling unit” except if there is existing parking that could be designated 
+for the ADU, the ADU sits in a zoning area that requires one or more parking spaces 
+for the primary dwelling unit, or the ADU is located on a block where on-street 
+Page 7 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 5 of 20 
+parking is prohibited. (Our residential zoning does not require parking spots for any 
+zone.) 
+ 
+Staff recommends exempting a single ADU per lot from the parking requirements outlined 
+in PMC §16-6 Off Street Parking. 
+Occupation – Owners, local workforce, vacations 
+• The Paonia ADU draft code requires that “One of the dwelling units on the property 
+must be, and remain, owner occupied,” which is pretty unenforceable (and may not 
+be legal). However, 
+ 
+• CRS §29-35-403 offers that you cannot “Require an accessory dwelling unit, or any 
+other dwelling on the same lot as an accessory dwelling unit, to be owner-occupied; 
+except that a subject jurisdiction may require a property owner to demonstrate 
+that the property owner resides on the parcel when an application is submitted: 
+I. To construct or convert an accessory dwelling unit. This exception does not 
+apply for an accessory dwelling unit that is being constructed simultaneously 
+with a new primary dwelling unit. 
+II. For a license or permit for a short-term rental on the parcel through a local 
+law or program. ” 
+ 
+• In tandem with this report, we are providing the STR committee a memo explaining 
+the ADU consideration process underway so they can consider how to match the 
+goals of allowing ADUs to increase affordable housing. The two pieces of legislation 
+(or code rewrite and legislation) should remain separate but headed towards the 
+same goal. So, no STR legislation here, but perhaps we can provide suggestions to 
+the STR committee. 
+ 
+• Should new ADUs - not built in tandem with a new primary residence - demonstrate 
+owner occupation at the time of application? 
+ 
+• Is there a way to encourage renting ADUs long term for the local workforce? 
+Size – How large or small should the ADUs be 
+• I can ﬁnd no piece of PMC that provides minimum requirements for dwelling size.  
+ 
+• The draft ADU code lists 800 ft2 as a maximum with no minimum. 
+ 
+• CRS §29-35-402 requires ADUs to be allowed if they are between 500 and 750 ft2. It 
+allows for other sizes, such as smaller than the primary residence. 
+ 
+Page 8 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 6 of 20 
+• The 2018 IRC (our adopted code) provides minimum room sizes either literally (all 
+rooms for living must be at least 70 ft2 and 7’ by 7’, except the kitchen) or practically, 
+by specifying the required space around toilets, sinks, etc. The room dimensions 
+can be a barrier to tiny houses, which can range between 60 and 400 ft2. 
+ 
+• If we want to address smaller dwellings, Colorado’s 8 CCR 1302-14 adapts rules for 
+Tiny Houses (which have a solid foundation) and Tiny Homes (which are on a 
+chassis) from the 2024 IBC and 2024 IRC designed to provide “building codes for 
+factory-built residential structures and tiny homes [and] factory-built nonresidential 
+structures; [. . .]in those areas of the state where no standards exist.” 
+ 
+Among other things, it updates the Appendix BB of the 2024 IRC which covers Tiny 
+Houses to speciﬁc standards for Colorado.  
+ 
+• **WARNING** adopting any new building code (like Appendix BB of the 2024 IRC 
+and 8 CCR 1302-14) means we are required to adopt the Colorado Model Low 
+Energy and Carbon Code (MLECC). This can prove difficult for new buildings 
+because it contains requirements such as having electric panels and runs installed 
+for solar panels, electric heat, and all electric appliances whether or not the home 
+will be using gas for fuel or solar. 
+ 
+• What should the sizes for ADUs be? Should we tackle tiny houses and other building 
+types, such as yurts, in the same code? Should we limit them to 1 story? 
+Staff recommends providing a maximum dwelling size (750 ft2) and either a minimum 
+dwelling size or beginning a discussion of updating to the 2024 ICC code cycle. This may 
+need to be a separate discussion and meeting, or the Committee can speciﬁcally address 
+Appendix BB to allow for tiny houses, as they are growing in popularity and the office 
+receives questions about them semi-regularly. 
+Design – limitations and opportunities 
+• Should we exclude some structures from being allowed as ADUs, such as mobile 
+homes (already not allowed outside of MH zoning, of which we have none), motor 
+homes, multi-purpose trailers, RVs, and Tiny Homes (on a chassis, not a 
+foundation)? Keeping ADUs as more “house-like” structures can also be 
+accomplished through building code requirements if it is desirable. 
+ 
+• CRS §29-35-404 suggests helping with affordability by “Providing pre-approved 
+plans for the construction of accessory dwelling units.” Would an RFQ for providing  
+“cookie-cutter” ADU engineering plans for residents be worthwhile? Would this be 
+needed as an addition to the code itself, or through another process? 
+ 
+Page 9 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 7 of 20 
+• CRS §29-35-404 speciﬁes that the “rules” are equally applied to attached and 
+detached ADUs. Should the code treat attached and detached equally, or should 
+there be separate rules? 
+ 
+• As Paonia’s code does not directly address many building aesthetics or historic 
+preservation, it is unlikely obstacles to ADUs that may impact other jurisdictions will 
+be issues here. However, the new code may address building facades in the C-1 
+district, trying to keep the “feel” of downtown Paonia. 
+ 
+Fees – Additions and/or subtractions 
+• CRS §29-35-404 suggests “waiving, reducing, or providing ﬁnancial assistance for 
+accessory dwelling unit-related fees that are incurred by low- and moderate-income 
+households.” Should an income-based building permit fee reduction be mentioned 
+in the code with amounts speciﬁed in a separate resolution for ADUs?  
+ 
+• Leslie Klusmire, who is rewriting our code, suggested adding an impact fee to 
+building permits to account for the increased use of Town services, roadways, etc. 
+This may be another venue for providing a ﬁnancial assistance if adopted. 
+Number – how many ADUs per lot? 
+• The draft ADU ordinance mentions that only “one ADU per single-family dwelling is 
+permitted. ” As it also restricts ADUs to R-1 zoning, this limits new ADUs to one per 
+lot, as R-1 is limited to 1 residence. 
+ 
+• Paonia’s current zoning allows up to 2 residences by right in the R-2 district and up 
+to 6 by special review; 6 residences by right in the R-3 district and potentially 
+unlimited numbers (as long as the lot is big enough) by special review; and 4 
+residences by right in the E-1 district and up to 8 by special review.  
+ 
+• Should more than one ADU be allowed per lot (such as 1 per single-family dwelling), 
+or should they be limited to one per lot (such as an apartment complex in an R-3 
+zone with 1 ADU)? 
+Staff recommends limiting ADUs to 1 per lot. This would allow for an additional residence 
+beyond what each zone normally allows, creating inﬁll while maintaining distinction 
+between the zones, limiting the number of ADUs, and not losing the existing character of 
+Paonia. It also avoids the potential complication of not allowing an ADU if the lot does not 
+contain single-family residences – for example a building manager’s house on the grounds 
+with an apartment complex. 
+ 
+ 
+Page 10 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 8 of 20 
+Sale of and ADU separate from the primary dwelling 
+•  CRS §29-35-404 encourages “Enabling a pathway for the separate sale of an 
+accessory dwelling unit.” 
+ 
+• Currently, to sell an ADU owners must either replat their lots, including providing 
+separate sewer and water taps to the second dwelling, or turn the property into 
+condos with an overarching association controlling the land itself. Both processes 
+involve meetings with the Town Administrator, lengthy applications, and fees. They 
+also may involve a public hearing with the Planning Commission and Town Board. 
+See PMC Chapter 17 Article 5 for speciﬁcs. 
+ 
+• Is providing a way for ADUs to be sold more easily separately from the primary 
+dwelling(s) desirable? If so, should the condominium application requirements be 
+struck from the code and individuals be allowed to create joint property ownership 
+on a single lot with a written notice to Delta County and meeting Colorado’s legal 
+requirements in CRS 38-33 (as Delta County does for mobile homes)?  
+ 
+• Are there other ways of simplifying the process? 
+Lots – Setbacks and open space 
+• Should the setbacks be adjusted for ADUs (or for all structures) to make inﬁll 
+easier? Currently PMC requires a minimum setback of 6’ on sides and 10’ on rear 
+lots. Setbacks allow for privacy, but also ensure ﬁres do not spread easily between 
+buildings. Any structure within 10’ of another structure requires a 1 hour ﬁre wall on 
+both structures to ensure safety. The current setbacks overshoot this by minimally 1’ 
+on each side and at least 5’ on the rear. (5’ setbacks on all structures ensures 10’ 
+between structures).  
+ 
+• Many of Paonia’s residences already have accessory structures well within the 
+setbacks. Converting one of these to an ADU could be done as long as the non-
+compliance is not made worse (as in it doesn’t encroach further into the setbacks). 
+Having 5’ setbacks on the sides and back would preserve the ﬁre protection and 
+allow more room for ADUs. 
+ 
+• Should the minimum landscaped open space be adjusted to allow for more lot 
+coverage by buildings? 
+PMC Table 16-2 
+Yard 
+Requirements2  
+R-1 
+District  
+R-2 
+District  
+R-3 
+District  
+E-1 
+District  
+MH District  
+All yard areas 
+adjacent to an 
+50 ft.  35 ft.  35 ft.  75 ft.  50 ft.  
+Page 11 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 9 of 20 
+arterial street 
+major and minor  
+Front yard setback  
+ Collector  
+ (major and 
+minor)  
+25 ft.  25 ft.  25 ft.  50 ft.  25 ft.  
+ Local  20 ft.  20 ft.  20 ft.  35 ft.  20 ft.  
+Side yard  6 ft.  6 ft.  10 ft.3  20 ft.  6 ft.  
+Rear yard  10 ft.  10 ft.  20 ft.  20 ft.  15 ft.  
+Minimum lot 
+width  
+50 ft.  50 ft.  50 ft.  200 ft.  50 ft.  
+Minimum 
+landscaped open 
+space (% of lot 
+area)  
+-  20%  20%  30%  -  
+Minimum lot 
+coverage  
+30%  30%  30%  20%  50%  
+Maximum 
+building height  
+25 ft.  25 ft.  35 ft.  30 ft.  25 ft.  
+ 
+ 
+Hurdles – Section 16-11-20 Home Occupations 
+• Currently, all ADUs are limited by this section by permitting and hearings. Should 
+this section be deleted as certiﬁcates of occupancy are issued at the end of building 
+processes? This also allows ADU occupations to transfer between owners. Are there 
+parts worth keeping and placing elsewhere in the code? 
+ 
+• Page 12 of this report provides the section. 
+ 
+Relevant sources excerpts follow. 
+ 
+Page 12 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 10 of 20 
+Source Excerpts 
+References from the 2025 Comprehensive Plan & Code 
+ 
+Housing and Neighborhoods Element 
+ 
+The 2023 Housing Action Plan identi�ied allowing accessory dwelling units 
+(ADUs) as a top priority for the Paonia community.1 Contextual and 
+integrated architectural and site design can help to bring together different 
+uses and housing types to promote diversity and variety to build great 
+neighborhoods (58). 
+ 
+1 Colorado House Bill 24-1152 was passed and goes into effect on June 30, 
+2025, which eases restrictions and burdens on most Colorado residents to 
+build an accessory dwelling unit, CRS §29-35-104 (58). 
+ 
+Relevant Policies 
+ 
+POLICY HOUSING 3: Encourage approaches such as reducing minimum lots 
+sizes and encouraging accessory dwelling units that may be restricted as 
+long-term rentals with affordable leases (60). 
+ 
+POLICY HOUSING 12: Support the development of a range of housing options, 
+as may be appropriate in different parts of the community, including, but not 
+limited to small homes, accessory dwelling units, townhomes, live/work 
+units, and limited small-scale apartments or condominiums (61). 
+ 
+Areas Marked as ADU “friendly” in the 2025 Comprehensive Plan  
+ 
+Mixed Neighborhood – Combination of R-3 and R-2 
+ 
+This category is part of the oldest residential areas within the historic town 
+grid; this area is predominantly de�ined by historical architecture styles. 
+Residential density is slightly higher than other residential areas due to the 
+proximity to the Downtown Commercial Core and Mixed-Use areas. 
+Maintaining the historic character and general scale while allowing for 
+increased density is the focus in this area. 
+• Primary Uses: Residential including single-family, duplex, and triplex 
+dwellings 
+• Supporting Uses: Home businesses, accessory dwelling units (ADUs), 
+institutional 
+ 
+Town Original Neighborhood – Mostly R-1 
+ 
+Page 13 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 11 of 20 
+This category encompasses the central residential neighborhood in the 
+historic town grid and is characterized by tree-lined streets and alleys. This 
+area has older architecture (from turn of the century to the 1940s); this, 
+along with its walkability and small neighborhood feel, is highly valued by the 
+community. Development and redevelopment in this area should respect the 
+scale and character of existing development. 
+• Primary Uses: Single-family dwellings 
+• Supporting Uses: Home businesses, ADUs, institutional 
+ 
+Traditional Neighborhood – R-1 
+ 
+This category includes more recent residential development (post-1950), 
+with mostly single-family homes not always on the Town’s historic grid. It 
+represents a transition from the historic core area toward the lower-density 
+residential areas that border agricultural land and open space. Residential 
+density in this area could increase gradually over time with the addition of 
+ADUs or duplex dwellings. 
+• Primary Uses: Single-family dwellings 
+• Supporting Uses: Duplex dwellings, home businesses, ADUs, 
+institutional 
+ 
+Conservation Neighborhoods – R-2 
+ 
+This category comprises low-density areas along the edge of Town, dedicated 
+to preserving open space and other natural resources. These areas act as a 
+transition between the Town and the surrounding rural land. These areas 
+offer a pedestrian and visual connection to the Town core and the 
+recreational areas outside the Town limits. Conservation measures such as 
+clustered residential uses are encouraged here to protect natural resources 
+and to mitigate the impacts of natural hazards, like �lood and �ire. Where 
+existing agricultural uses exist, they are encouraged to continue as desired by 
+the property owner. 
+• Primary Uses: Single-family dwellings 
+• Supporting Uses: ADUs, parks and trails, natural resource 
+preservation, institutional 
+ 
+Page 14 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 12 of 20 
+Current Paonia Municipal Code that impacts ADUs 
+ 
+ARTICLE 11. - ACCESSORY BUILDINGS, STRUCTURES AND USES 
+ 
+Sec. 16-11-10. - Generally. 
+ 
+Accessory buildings, structures and uses may include, but are not limited to, the following:  
+ 
+(1) Home occupations.   
+(2) Renting of rooms.  
+(3) Horses and household pets.  
+(4) Fences, hedges and walls.  
+(5) Private greenhouses.  
+(6) Private swimming pools.  
+(7) Storage and merchandise in commercial districts.  
+(8) Fallout shelters.  
+(9) Detached garages.  
+(10) Tennis courts.  
+(11) Storage sheds for residential areas.  
+ 
+(Ord. No. 83-116, Art. XVIII, 1983; Ord. No. 2000-02, Art. XVIII, 2000; Ord. No. 2014-04, § 1, 
+1-13-2015)  
+ 
+PMC §16-11-20. –Home occupations. 
+ 
+A home occupation shall be permitted as an accessory use, provided that a home 
+occupation permit is granted by the Town and the criteria for home occupations are met. 
+ 
+(1) Permit required. A person desiring to establish a home occupation within the Town 
+shall apply as follows: 
+ 
+(a) An application shall for home occupation shall be made to the Town Administrator, 
+or its designee, in the form provided by the Town and accompanied by the 
+appropriate fee as set by Resolution of the Board of Trustees. 
+ 
+(b) Upon the receipt of a completed application for a home occupation permit, the Town 
+Administrator, or its designee, shall notify the applicant within ten (10) days that 
+such application is complete. 
+ 
+(c) Thereafter the Town Administrator, or its designee, shall notify the applicant and set 
+a date of public hearing before the Town Board of Trustees that will allow time for 
+publication and noti�ication of adjoining property holders. 
+ 
+Page 15 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 13 of 20 
+(d) Upon the setting of a public hearing before the Board of Trustees the Town Clerk 
+shall notify the property owners within two hundred (200) feet of the applicant's 
+property by regular mail at the applicant's expense. The noti�ication will include the 
+nature of the application, a copy of this Article and the time and place of a public 
+hearing. 
+ 
+(2) Revoke the permit. A home occupation permit may be revoked by the Town 
+Administrator if at any time the home occupation fails to meet the criteria listed below. 
+ 
+(3) Nontransferability. Home occupation permits are issued to an individual for a speci�ic 
+property and use. Permits are not transferable should the property be sold or rented to 
+other persons. 
+ 
+(4) Criteria for home occupations. A home occupation shall be allowed as a permitted 
+accessory use, provided that the following conditions are met: 
+ 
+(a) The use must be conducted entirely within a dwelling or accessory structure and 
+carried on by the occupants of the dwelling and no more than one (1) non-occupant 
+employee. 
+ 
+(b) The use must be clearly incidental and secondary to the use of the dwelling for 
+dwelling purposes and must not change the residential character thereof. 
+ 
+(c) The total area used for such purposes may not exceed twenty-�ive percent (25%) of 
+the �irst-�loor area of the user's dwelling unit. 
+ 
+(d) There shall be no change in the outside appearance of the building or premises or 
+other visible evidence of the conduct of such home occupation, including advertising 
+signs or displays or advertising that solicits or directs persons to the address. A wall-
+mounted identi�ication sign of not more than two (2) square feet shall be permitted. 
+ 
+(e) There shall not be conducted on the premises the business of selling inventory, 
+supplies or products, provided that incidental retail sales may be made in 
+connection with other permitted home occupation. 
+ 
+(f) There must be no exterior storage on the premises of material or equipment used as 
+a part of the home occupation. 
+ 
+(g) No equipment or process shall be used in such home occupation, which creates any 
+glare, fumes, odors or other objectionable conditions detectable to the normal 
+senses off the lot if the occupation is conducted in a single-family dwelling or outside 
+the dwelling unit if conducted in other than a single-family dwelling. 
+ 
+(h) No traf�ic shall be generated by such home occupation in greater volumes than 
+would normally be expected in a residential neighborhood, and any need for parking 
+Page 16 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 14 of 20 
+generated by the conduct of the home occupation shall be met with additional off-
+street parking spaces that are not located in a required yard adjacent to a street. 
+ 
+(i) Under no circumstances shall any of the following be considered a home occupation: 
+Antique shop, barber shop, a beauty parlor (with more than one [1] chair), clinic, 
+mortuary, nursing home, restaurant, veterinarian's clinic or dance studio. 
+ 
+ (Ord. No. 83-116, Art. XVIII, 1983; Ord. No. 2000-02, Art. XVIII, 2000; Ord. No. 2014-04, § 1, 
+1-13-2015; Ord. No. 2019-06, § 2, 8-13-2019)  
+ 
+Sec. 16-11-30. - Renting of rooms. 
+ 
+(a) Single-unit dwellings. The renting of rooms to one (1) or two (2) persons, not 
+members of the family residing in the same single-unit dwelling, may be permitted 
+as an accessory use, provided that the following conditions are met:  
+(1) The total number of unrelated persons, including roomers in any one (1) 
+dwelling unit, must not exceed three (3).  
+(2) Quarters used by the roomers must not be more than twenty-�ive percent 
+(25%) of the total �loor area of the dwelling unit.  
+(3) The dwelling unit must have only one (1) electric meter.  
+(4) Where the renting of rooms is to two (2) roomers, at least one (1) 
+additional off-street parking space must be provided per room.  
+(b) Multi-unit dwellings. The renting of rooms to one (1) or two (2) persons, not 
+members of the family residing in the same multi-unit dwelling, may be permitted as 
+an accessory use, provided that the total number of unrelated persons, including 
+roomers, in any dwelling unit must not exceed three (3). Where the renting of rooms 
+is to two (2) roomers, at least one (1) additional off-street parking space must be 
+provided per room.  
+(c) In addition to normal residential off-street parking requirements, one (1) additional 
+off-street parking space shall be provided on site for each lodging room. Ingress and 
+egress shall meet requirements of the IBC and ADA. Separate bath and sanitary 
+facilities from those of the host must be provided for each two (2) guest rooms.  
+(d) In residential districts, landscaping and screening shall be provided to maintain the 
+residential character of the building and preserve the right of neighboring residents 
+to enjoy a peaceful occupancy of their homes.  
+(Ord. No. 83-116, Art. XVIII, 1983; Ord. No. 2000-02, Art. XVIII, 2000; Ord. No. 2014-04, § 1, 
+1-13-2015)  
+ 
+Page 17 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 15 of 20 
+Sec. 16-11-40. - Reserved. 
+ 
+Editor's note— Ord. No. 2017-11, § 2, adopted October 10, 2017, repealed § 16-11-40, 
+which pertained to fences, hedges and walls. See Code Comparative Table for complete 
+derivation. Subsequently, § 3 of such ordinance added § 18-9-10.  
+ 
+Sec. 16-11-50. - Reserved. 
+ 
+Editor's note— Ord. No. 2017-11, § 2, adopted October 10, 2017, repealed § 16-11-50, 
+which pertained to swimming pools, hot tubs, and Jacuzzis. See Code Comparative Table for 
+complete derivation. Subsequently, § 3 of such ordinance added § 18-9-20.  
+ 
+Sec. 16-11-60. - Requirements for accessory buildings and uses. 
+(a) All detached accessory buildings shall be located in the rear one-half (½) of the lot.  
+(b) On an interior lot, the minimum setback from the rear lot line shall be ten (10) feet 
+and from the side yard line shall be six (6) feet if there is no alley or �ive (5) feet from 
+an existing alley easement line.  
+(c) On double-frontage lots, the minimum setback from the rear property line shall be 
+the same as the front yard setback for principal uses within that district.  
+(d) On corner lots, the accessory building shall not be located closer to the street-side 
+property than the required six (6) feet for the principal use.  
+(e) Accessory buildings shall not exceed �ifteen (15) feet in height.  
+(f) The �loor area of accessory uses shall be included in the determination of the 
+maximum lot coverage.  
+(Ord. No. 83-116, Art. XVIII, 1983; Ord. No. 2000-02, Art. XVIII, 2000; Ord. No. 2014-04, § 1, 
+1-13-2015)  
+ 
+ 
+Page 18 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 16 of 20 
+PMC §13-1-70. - Individual meters. 
+ 
+(a) Separate meters shall be required for each residence or commercial building. 
+Properties sharing a common line feeding through one property to another, or 
+utilizing a single meter for two (2) or more units or serviced by only one water line 
+shall be required to install separate meters so that service to each user is 
+independent from every other.  
+ 
+(b)  Each household unit shall be serviced by a separate water meter. Multiple 
+household units in a single building owned by a single entity built prior to the 
+enactment of this Article may be served by a single water meter under the condition 
+that all units are included in one bill which is the responsibility of the property 
+owner. New construction of multiple household units in a single building will 
+require separate water meters. If an additional household unit is constructed on an 
+existing lot that has a water tap, the new structure must be provided with an 
+additional water meter. If a lot containing more than a single structure is subdivided 
+to provide separate lots for each structure, each lot without water meters must 
+provide separate water lines and separate water meters as a condition of 
+subdivision. If a lot containing a single household unit is subdivided, each household 
+unit erected upon the new subdivided area must have a separate water line and 
+water meter. Each separate commercial building using water must have a separate 
+water line and water meter.  
+ 
+(c) Regardless of previous service record, length of service or history of the water line 
+involved, it is hereby established that service shall be commenced only where each 
+user is served by a separate water meter and separate service line unless exempt as 
+outlined in this section.  
+ 
+PM §13-1-131 - Moratorium  
+ 
+(f) This moratorium does not prohibit the connection of lawfully served units to the Town's 
+municipal water supply system. It is presumed that each tap sold by the Town prior to the 
+effective date of Ordinance No. 2020-01 was purchased for the connection of one (1) 
+household unit or one (1) commercial unit to the Town's municipal water supply system. 
+The applicant for connection of any household or commercial unit to the Town's municipal 
+water distribution system shall have the burden of overcoming such presumption by 
+submission of written testimony and documents to the Town Administrator. Decisions of 
+the Town Administrator shall be made in writing and furnished to the applicant, and may 
+be appealed by the applicant to the Board of Trustees by submission of a written appeal to 
+the Town Clerk within ten (10) business days of the Town Administrator's written decision. 
+Any applicant that fails to submit a written appeal to the Town Clerk within ten (10) 
+business days of the Town Administrator's decision shall be deemed to have forfeited any 
+right to appeal the Town Administrator's decision. All duly-made appeals shall be heard by 
+the Board of Trustees in a duly-noticed hearing, during which hearing the property owner 
+Page 19 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 17 of 20 
+and Town staff will each be given the opportunity to present pertinent evidence and 
+testimony.  
+ 
+Sec. 13-5-330. - Independent connections. [Sewer] 
+Each house, dwelling, building, store, premises, and other structures connected to or with 
+the wastewater collection/sanitary sewer collection system shall be separate and 
+independent from that of any other house, dwelling, building, store, premises or any other 
+structure, and each shall have an independent connection with the wastewater 
+collection/sanitary sewer collection system, except in the cases of apartments, congregate 
+residential living facilities, mobile home parks, and RV parks which the Town may allow a 
+single connection for such facility in single ownership and which is sized and assessed 
+based on the number of units to be served. Increases in the number of units served will 
+result in a need to upgrade the size of service and compensate the Town for the related 
+increase in fees. A single building may, however, apply for separate taps for separate units 
+located within the same building. 
+(Ord. No. 2005-07, § 4, 2005; Ord. No. 2014-04, § 1, 1-13-2015; Ord. No. 2015-03, § IV, 12-
+8-2015) 
+ 
+Table 16-5 Off-Street Parking Space Requirements  
+ 
+Use  Parking Requirements  
+Residential units:  
+Ef�iciency or one-bedroom  1.5 spaces per unit  
+Two-bedroom  2.0 spaces per unit  
+Three-bedroom  2.5 spaces per unit  
+Four or more bedrooms  3.0 spaces per unit  
+Additional requirements for multiple-family residential and 
+mobile home parks with 6 or more units (guest parking)  0.25 space for each unit  
+Multiple-family housing for the elderly or the handicapped  1.0 space per unit  
+  
+(Ord. No. 83-116, Art. XIII, 1983; Ord. No. 2000-02, Art. XIII, 2000; Ord. No. 2003-08, 2003; 
+Ord. No. 2014-04, § 1, 1-13-2015)  
+ 
+ 
+Page 20 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 18 of 20 
+References from Colorado’s Accessory Dwelling Units (expired grant 
+program with a great focus on making ADUs for affordable housing) 
+ 
+§ 29-35-401 (2025) – covers reasons ADU can help with affordability 
+§ 29-35-402 (2025) – covers de�initions  
+§ 29-35-403 (2025) – Most important section – covers adjustments to regulations that 
+help ensure ADUs are for local workforce, makes them easier to build, and gears them 
+toward lower-income residents 
+§ 29-35-404 (2025) – Grant requirements – includes strategies that are helpful 
+§ 29-35-405 (2025) – Application procedure use of grants – only included for 
+completeness 
+ 
+CANNOT Dos 
+ 
+(a) Require the construction of a new off-street parking space in connection with the 
+construction or conversion of an accessory dwelling unit, except as described in 
+subsections (3)(a) and (3)(b) of this section; 
+ 
+(b) Require an accessory dwelling unit, or any other dwelling on the same lot as an 
+accessory dwelling unit, to be owner occupied; except that a subject jurisdiction may 
+require a property owner to demonstrate that the property owner resides on the parcel 
+when an application is submitted: 
+ 
+(I) To construct or convert an accessory dwelling unit. This exception does not apply 
+for an accessory dwelling unit that is being constructed simultaneously with a new 
+primary dwelling unit. 
+ 
+(II) For a license or permit for a short-term rental on the parcel through a local law 
+or program. 
+ 
+(c) Apply a restrictive design or dimension standard to an accessory dwelling unit. 
+ 
+SHOULD DOs 
+(A) Waiving, reducing, or providing �inancial assistance for accessory dwelling unit-related 
+fees that are incurred by low- and moderate-income households; 
+(B) Enacting local laws or programs that incentivize the affordability of certain accessory 
+dwelling units including accessory dwelling units used primarily to house the local 
+workforce; 
+(C) Providing pre-approved plans for the construction of accessory dwelling units; 
+Page 21 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 19 of 20 
+(D) Implementing a program to provide education and technical assistance to homeowners 
+to construct or convert an accessory dwelling unit; 
+(E) Implementing a program to regulate the use of accessory dwelling units for short-term 
+rentals; 
+(F) Enacting local laws that incentivize the construction and conversion of accessible and 
+visitable accessory dwelling units; 
+(G) Assisting property owners with ensuring that pre-existing accessory dwelling units 
+comply with local laws; 
+(H) Enabling a pathway for the separate sale of an accessory dwelling unit; 
+(I) Enacting local laws that encourage the construction of accessory dwelling units that are 
+factory-built residential structures, as de�ined in section 24-32-3302 (10); or 
+CAN DOs 
+(3)(a) Requiring the designation of an off-street parking space in connection with an 
+accessory dwelling unit, so long as there is an existing driveway, garage, tandem parking 
+space, or other off-street parking space available for such a designation at the time of the 
+construction or conversion of the accessory dwelling unit; 
+(b) Requiring, in connection with the construction or conversion of an accessory dwelling 
+unit, one new parking space on a parcel that: 
+(I) Does not have an existing off-street parking space, including a driveway, garage, 
+or tandem parking space, that could be used for an accessory dwelling unit; 
+(II) Is in a zoning district that, as of January 1, 2024, requires one or more parking 
+spaces for the primary dwelling unit; and 
+(III) Is located on a block where on-street parking is prohibited for any reason 
+including ensuring access for emergency services; 
+(c) Allowing the construction or conversion of an accessory dwelling unit that is smaller 
+than �ive hundred square feet or greater than eight hundred square feet, or restricting the 
+size of an accessory dwelling unit so that it is no larger than the size of the principal 
+dwelling unit on the same lot as the accessory dwelling unit; 
+(d) Allowing the construction or conversion of multiple accessory dwelling units on the 
+same lot; 
+(e) Applying a design or dimension standard to an accessory dwelling unit that is not a 
+restrictive design or dimension standard; 
+(f) Adopting or enforcing a generally applicable requirement for: 
+Page 22 of 73
+STAFF REPORT ON ACCESSORY DWELLING UNITS  Page 20 of 20 
+(I) The payment of an impact fee or other similar development charge, pursuant to 
+section 29-20-104.5; or 
+(II) The mitigation of impacts in conformance with the requirements of part 2 of 
+article 20 of this title 29; 
+(g) Enacting or applying a local law concerning the short-term rental of an accessory 
+dwelling unit or any other dwelling on the same lot as an accessory dwelling unit; 
+(h) Applying the design standards and procedures of a historic district to a lot on which an 
+accessory dwelling unit is allowed in that historic district, including a standard or 
+procedure related to demolition; 
+(i) Applying and enforcing a locally adopted life safety code, including but not limited to, a 
+building, �ire, utility, or stormwater code; 
+(j) Allowing the construction of, or issuing a permit for the construction of, a single unit 
+detached dwelling in an area zoned for single-unit detached dwellings; 
+(k) Encouraging the construction of accessory dwelling units that are, through the 
+application of local laws or programs including through deed restrictions, made affordable 
+to households under certain income limits or used primarily to house the local workforce 
+pursuant to a local, regional, or state affordable housing program; 
+(l) De�ining accessory dwelling unit in local law as including or excluding other dwelling 
+unit types such as a “motor home” , as de�ined in section 42-1-102 (57), a “multipurpose 
+trailer” , as de�ined in section 42-1-102 (60.3), and a “recreational vehicle”, as de�ined in 
+section 24-32-902 (9); or 
+(m) Requiring a statement by a water or wastewater service provider regarding its capacity 
+to service the property as a condition of permitting an accessory dwelling unit. 
+ 
+Page 23 of 73
+Chapter 16 - ZONING 
+ARTICLE 3. DISTRICT REGULATIONS 
+ 
+ 
+ 
+Paonia, Colorado, Municipal Code    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 1 of 11 
+ARTICLE 3. DISTRICT REGULATIONS 
+Sec. 16-3-10. Schedules of uses and requirements. 
+To facilitate public understanding of this Chapter and for convenient reference and use, the following 
+schedules are provided for all districts. These schedules are a part of this Chapter and may be amended as with any 
+other part of this Chapter.  
+(1) Schedule of Uses. The schedule of uses indicates, by district, those uses that are:  
+P - Permitted by right  
+S - Permitted by special review  
+X - Prohibited  
+Any use that is not specifically permitted shall be deemed to be excluded. If a question arises as to whether a 
+specific use does not fall within the expressed use categories, any person may apply to the Planning 
+Commission for a determination as to whether a specific use is permitted.  
+(2) Schedule of Requirements. The schedule of requirements includes minimum lot areas, setback, density 
+and open space requirements for each residential and commercial zone. Additional requirements are 
+listed for uses permitted by special review.  
+(Ord. No. 83-116, Art. X, 1983; Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Sec. 16-3-20. Schedule of uses, residential districts. 
+Table 16-1 
+Schedule of Uses - Residential Districts 
+ 
+Use  R-1 
+District  
+R-2 
+District  
+R-3 
+District  
+E-1 
+District  
+MH District  
+Single-family dwellings  P  P  P  P  P  
+Two-family dwellings  X  P  P  S  X  
+Multiple-family 
+dwellings, 
+apartments/townhouses 
+not exceeding 6 units 
+per lot  
+X  S  P  X  X  
+Multiple-family 
+dwellings, 
+apartments/townhouses 
+in excess of 6 units per 
+lot  
+X  X  S  X  X  
+Mobile home parks  X  X  X  X  S 1  
+Paonia Municipal Code
+Page 24 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:38 [EST] 
+(Supp. No. 6) 
+ 
+Page 2 of 11 
+Mobile home 
+subdivisions  
+X  X  X  X  P  
+Parks and recreation 
+areas  
+P  P  P  P  P  
+Private schools  S  S  S  S  X  
+Public or governmental 
+uses  
+S  S  S  S  X  
+Group homes for the 
+developmentally 
+disabled  
+S  S  S  S  S  
+Churches  S  S  S  S  S  
+Nursing homes/assisted 
+living apartments  
+X  S  S  X  X  
+Rooming houses/bed 
+and breakfasts  
+X  S  S  S  X  
+Professional offices 2  X  S  S  X  S  
+Neighborhood 
+convenience centers 3  
+S  S  S  S  S  
+Antenna structures 
+(towers)  
+S  S  S  S  S  
+Horses, barns and 
+pastures  
+X  X  X  P  X  
+Mobile homes (single 
+unit)  
+X  X  X  X  P  
+Neighborhood 
+commercial uses 4  
+X  X  X  X  P  
+ 
+P = Permit by right  
+S = Permit by special review  
+X = Prohibited use  
+1 See Article 8 of this Chapter.  
+2 Professional offices as home occupations are permitted in all districts, subject to provisions in Section 16-11-20 of this Chapter.  
+3 Neighborhood commercial uses may include small food stores, specialty shops, gift, antique shops or similar type uses. 
+Maximum floor area shall be 2,000 square feet total.  
+4 Neighborhood convenience center shall have a maximum total floor area of 10,000 square feet and no single business with a 
+greater total floor area than 2,000 square feet.  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Page 25 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 3 of 11 
+Sec. 16-3-30. Schedule of requirements, residential districts. 
+Table 16-2 
+Schedule of Requirements1- Residential Districts 
+ 
+ R-1 District  R-2 District  R-3 District  E-1 District  MH District  
+Minimum  
+Lot Area  
+Requiremen
+ts  
+Dwellin
+g  
+units  
+Min. 
+lot  
+area  
+(sq. 
+ft.)  
+Dwellin
+g  
+units  
+Min. 
+lot  
+area  
+(sq. 
+ft.)  
+Dwellin
+g  
+units 
+per  
+story  
+Min. 
+lot  
+area  
+(sq. 
+ft.)  
+Dwellin
+g  
+units  
+Min
+. lot  
+are
+a  
+(sq. 
+ft.)  
+Dwellin
+g  
+units  
+Min. 
+lot  
+area  
+(sq. 
+ft.)  
+Residential 
+uses 
+permitted 
+by right  
+1  6,00
+0  
+1  6,000  1  6,000  1  3 
+acre
+s  
+1  5,00
+0  
+   2  8,000  2  6,000  2  3 
+acre
+s 
+N/A  N/A  
+     3  8,000  3 6 
+acre
+s 
+  
+     4  10,00
+0  
+4 6 
+acre
+s 
+  
+     5  12,50
+0  
+    
+     6  15,00
+0  
+    
+Residential 
+uses 
+permitted 
+by special 
+review  
+  3  12,00
+0  
+Over 6 
+units  
+15,00
+0 sq. 
+ft.  
+Over 4 
+units 
+6 
+acre
+s 
+  
+   4  16,00
+0  
+ +   +   
+   5  20,00
+0  
+ 2,500 
+sq. ft.  
+ 3 
+acre
+s for 
+eac
+h 
+  
+   6  24,00
+0  
+ for 
+each 
+unit 
+over 
+6  
+ two 
+unit
+s 
+over 
+4 
+  
+Page 26 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 4 of 11 
+ 
+Yard 
+Requirements2  
+R-1 
+District  
+R-2 
+District  
+R-3 
+District  
+E-1 
+District  
+MH District  
+All yard areas 
+adjacent to an 
+arterial street 
+major and minor  
+50 ft.  35 ft.  35 ft.  75 ft.  50 ft.  
+Front yard setback  
+ Collector  
+ (major and 
+minor)  
+25 ft.  25 ft.  25 ft.  50 ft.  25 ft.  
+ Local  20 ft.  20 ft.  20 ft.  35 ft.  20 ft.  
+Side yard  6 ft.  6 ft.  10 ft.3  20 ft.  6 ft.  
+Rear yard  10 ft.  10 ft.  20 ft.  20 ft.  15 ft.  
+Minimum lot width  50 ft.  50 ft.  50 ft.  200 ft.  50 ft.  
+Minimum 
+landscaped open 
+space (% of lot 
+area)  
+-  20%  20%  30%  -  
+Minimum lot 
+coverage  
+30%  30%  30%  20%  50%  
+Maximum building 
+height  
+25 ft.  25 ft.  35 ft.  30 ft.  25 ft.  
+ 
+1 See also the following provisions: 16-3-40 to 16-3-60 pertaining to average lot areas, side yard setback variation and front yard 
+variation.  
+2 See supplementary requirements in Section 16-10-60.  
+3 When a building is 3 stories, a 15-foot setback is required.  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Sec. 16-3-40. Average lot area. 
+(a) When a group of ten (10) or more single-family dwellings are proposed for development as a unit, the 
+minimum lot area may be varied in order to achieve flexibility and creativity in design. However, in no case 
+shall:  
+(1) The lot area be less than four thousand five hundred (4,500) square feet;  
+(2) The average lot size for the unit be less than six thousand (6,000) square feet; and  
+(3) More than twenty percent (20%) of the lots be less than six thousand (6,000) square feet.  
+(b) When such development procedures are followed, the Town-approved subdivision plat must be on record in 
+the County Clerk and Recorder's office.  
+Page 27 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 5 of 11 
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Sec. 16-3-50. Side yard setback variation. 
+When a group or cluster of three (3) or more single-family dwellings are proposed for development as a unit, 
+the side yard requirement may be reduced subject to the approval of the Town Administrator. However, the 
+minimum spacing between two (2) structures shall not be less than twelve (12) feet. In the case of zero-lot-line 
+developments, permitted by this provision, a minimum of a three-foot-wide maintenance easement shall be 
+provided on the property adjacent to the wall that is placed along the side lot l ine.  
+ 
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Sec. 16-3-60. Front yard variation. 
+In areas established and predominantly built out prior to the effective date of the initial ordinance codified 
+herein, the front yard setback shall be equal to the average setbacks for the other buildings on the same block or a 
+maximum of that required by the new regulation as herein provided.  
+ 
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Sec. 16-3-70. Schedule of uses, commercial and industrial districts. 
+Table 16-3 
+Schedule of Uses - Commercial and Industrial Districts 
+ 
+Page 28 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 6 of 11 
+Use  C-1 District  C-2 District  I-1 District  I-2 District  
+Auto sales and service 
+repair  
+X  S  S  P  
+Automobile wrecking 
+yards  
+X  X  X  S  
+ Scrap processing when 
+yard is enclosed by 6-
+foot screening of wall. 
+(No junk allowed 
+outside of screening)  
+    
+Banking, savings and loan  P  P  X  X  
+Bulk large storage of 
+flammable liquid gas 
+facilities  
+X  X  X  S  
+ 500 gallons and under  S  S  S  S  
+Campgrounds, 
+recreational vehicle parks  
+X  S  X  S  
+Child care  P  P  S  X  
+Churches  S  S  X  X  
+Commercial recreational 
+including pool halls, 
+bowling alleys, skating 
+rinks and golf courses  
+S  S  S  X  
+Dental or medical clinics  P  P  S  X  
+Drive-up windows for 
+banks, businesses and 
+restaurants  
+S  S  S  X  
+Dwelling units as a part of 
+a business use  
+S  S  S  X  
+Dwelling units secondary 
+to the business use  
+P  P  S  X  
+Fabricating/manufacturing 
+industry  
+S  S  S  P  
+Fast food and drive-thru 
+restaurants  
+S  S  S  X  
+Fertilizer storage or 
+manufacturing of  
+X  X  X  S  
+Formula businesses  X  S  S  S  
+Fruit/packing  X  X  P  P  
+Fruit/produce processing  X  X  S  P  
+Page 29 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 7 of 11 
+Gas stations  X  S  S  S  
+Grain warehouses  X  X  X  P  
+Group homes for the 
+developmentally disabled  
+S  S  X  X  
+Livestock areas or barns  X  X  X  S  
+Lumber yards  X  S  S  P  
+Manufacture and storage 
+of explosives  
+X  X  X  X  
+Manufacturing  X  X  S  P  
+Membership clubs  S  S  S  S  
+Mining of natural resource 
+material  
+X  X  X  S  
+Mobile home 
+sales/service  
+X  S  S  P  
+Motels, hotels and lodging 
+facilities (including room 
+houses and bed and 
+breakfasts)  
+S  P  X  X  
+Multiple-family dwellings  S  S  X  X  
+Nursing homes  S  P  P  P  
+Parking lots  P  P  P  P  
+Parks and recreation areas  P  P  P  P  
+Personal services shops, 
+including barber, beauty 
+shops, shoe repair, self-
+service laundries, travel 
+agencies, etc.  
+P  P  S  X  
+Professional and business 
+offices when part of 
+permitted light industry  
+P  P  S  X  
+Public and governmental 
+facilities  
+P  P  S  X  
+Public or private schools  S  S  S  X  
+Ready-mix concrete and 
+asphalt plants  
+X  X  X  P  
+Restaurants  P  P  S  X  
+Retail businesses  P  P  S  S  
+Service and keeping of 
+heavy industrial 
+equipment  
+X  X  X  P  
+Page 30 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 8 of 11 
+Small animal clinic  X  S  P  X  
+Storage sheds (rental 
+spaces)  
+S  S  S  S  
+Utilities2  X  X  S  P  
+Utility substations 8  X  S  S  S  
+Warehouses  S  S  P  P  
+Wholesale businesses 
+(factory outlets)  
+S  S  S  S  
+ 
+P = Permitted by right  
+S = Permitted by special review  
+X = Prohibited  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015; Ord. No. 2016-06, exh. A. 8-23-2016; Ord. No. 
+2019-10, § 2, 8-13-2019) 
+Sec. 16-3-80. Schedule of requirements, commercial and industrial districts. 
+Table 16-4 
+Schedule of Requirements - Commercial and Industrial Districts 
+ 
+Requirements  C-1 District  C-2 District  I-1 District  I-2 District  
+Minimum Lot Area  
+Nonresidential  2,500 sq. ft.  8,000 sq. ft.  8,000 sq. ft.  10,000 sq. 
+ft.  
+Residential  6,000 sq. ft.1  6,000 sq. ft.2    
+Combined 
+residential/commercial  
+2,500 sq. ft.  8,000 sq. ft.    
+Minimum Lot Width  25 ft.  50 ft.  50 ft.  100 ft.  
+Maximum Building 
+Height  
+35 ft.  35 ft.  25 ft. 2  35 ft.  
+Yard requirements  
+All yard areas adjacent 
+to an arterial street  
+0 ft.  50 ft.  50 ft.  75 ft.  
+Front yard setback  
+  arterial  0 ft.  50 ft.  50 ft.  75 ft.  
+  collector  0 ft.  25 ft.  35 ft.  50 ft.  
+  local  0 ft.  25 ft.  25 ft.  50 ft.  
+Side yard setback  0 ft.  10 ft.  10 ft.  20 ft.  
+Rear yard setback  20 ft.  20 ft.  20 ft.  30 ft.  
+Page 31 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 9 of 11 
+Minimum landscaped 
+open space  
+-  10%  10%  10%  
+ 
+1 For residential development in the C-1 and C-2 acres, the minimum lot sizes shall be the same as the requirements of the R-3 
+District.  
+2 Unless the building is set back at least 150 feet from adjacent lot of lots in the R-1 or R-2 Districts, and if it is determined that 
+the building will not block the view of adjoining R-1 or R-2 developed properties.  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+ 
+Sec. 16-3-90. Developing Resource District. 
+(a) Permitted uses. Uses permitted by right in the Developing Resource District include those existing uses of the 
+land at the time of annexation, including:  
+(1) Single-family residence.  
+(2) Raising of crops, grain.  
+(3) Ranching.  
+(4) Other agricultural uses.  
+(b) Rezoning required. No uses other than those existing at the time of annexation shall be permitted on 
+property zoned DR unless the property is rezoned to a zoning district that permits the proposed use.  
+(c) Uses permitted by special review. New dwelling units shall be permitted by special review.  
+(d) Park dedication requirements and water rights. The properties that are annexed and zoned DR, Developing 
+Resource, shall not be subject to requirements for park dedications or cash payment in lieu of dedicating 
+park land or for water rights fees or requirements, except as to secured uses by right or pe rmitted uses by 
+special review, until the property is rezoned, wherein full satisfaction of the requirements of this Chapter 
+shall then be due.  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Sec. 16-3-100. Public District. 
+(a) Permitted uses. Uses permitted by right in the Public District include the following:  
+(1) Park recreational areas dedicated to the Town.  
+(2) Public educational facilities existing at the time of adoption of the initial ordinance codified herein.  
+(3) Public building and facilities existing at the time of the adoption of the initial ordinance codified herein.  
+(b) Uses permitted by special review. 
+(1) New public educational facilities.  
+(2) New public buildings and facilities.  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Page 32 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 10 of 11 
+Sec. 16-3-110. Estate Residential District. 
+On those properties where livestock and poultry are allowed, the following performance standards shall be 
+observed.  
+(1) All manure shall be removed periodically or incorporated into the soil on a regular basis such that the 
+manure does not draw flies or other insects or cause obnoxious odors.  
+(2) Adequate overflow drainage on drinking facilities shall be provided to prevent the saturation of soil on 
+adjacent property.  
+(3) Spillage and leftovers from livestock feedings must be removed or so disposed of as to prevent fly, bird 
+or rodent propagation or creation of odors.  
+(4) Any shed, shelter, pen or enclosure for livestock shall not be closer than one hundred (100) feet to any 
+off-property residence or place of business and shall be set back twenty (20) feet from the side lot line 
+and fifty (50) feet from the front lot line.  
+(5) All sheds or other shelter for livestock shall be kept reasonably free of rodents and insects and shall be 
+kept in good repair.  
+(6) Adequate drainage facilities or improvements shall be constructed to protect any adjacent rivers, 
+streams or other bodies of water from pollution.  
+(7) In subdivided areas, all livestock shall be kept within a fenced area.  
+(8) Adherence to the Colorado Confined Animal Feeding Regulations, promulgated by the Colorado 
+Department of Public Health and Environment, Water Quality Control Commission shall be observed.  
+(9) The maximum number of allowable livestock per lot does not apply to young animals below the 
+weaning age or six (6) months of age, whichever is less.  
+(10) The number of livestock permitted shall be two (2) horses, one (1) cow, one (1) llama, three (3) sheep, 
+or three (3) goats per three (3) acres. There shall be twenty-four (24) poultry total allowed.  
+(Ord. No. 2000-02, Art. X, 2000; Ord. No. 2014-04, § 1, 1-13-2015) 
+Secs. 16-3-120, 16-3-130. Reserved. 
+Sec. 16-3-140. Formula business. 
+(1) Intent. The purpose of these formula business requirements is to maintain and protect Paonia's historic 
+downtown core as the civic, social and business hub of the community, ensure the vitality and diversity of 
+the Town's commercial districts and enhance the quality of life of residents and visitors.  
+(2) Applicability. These regulations shall apply to formula businesses as defined in Section 16 -3-100 of the Code.  
+(3) Related definitions. For purposes of this Section, the following definitions apply:  
+(a) Color scheme means the selection of colors used throughout the business, such as on the walls, 
+furnishings, permanent fixtures or on the building façade.  
+(b) Décor means the interior design and furnishings that may include style of furnishings, shelving, display 
+shelving/racks, wall coverings or other permanent fixtures.  
+(c) Façade means the principal exterior face or front of a building, including awnings, overhangs, and 
+porte-cocheres that are oriented towards a street, alley or open space.  
+Page 33 of 73
+ 
+ 
+ 
+    Created: 2026-01-26 09:06:39 [EST] 
+(Supp. No. 6) 
+ 
+Page 11 of 11 
+(d) Servicemark means a word, phrase, symbol or design or a combination of words, phrases, symbols or 
+designs that identifies and distinguishes the source of a service of one party from those of others.  
+(e) Signage means a sign as detailed Section 18-6-10.  
+(f) Standardized array of merchandize means fifty percent (50%) or more of the in-stock merchandise is 
+from a single manufacturer or distributor bearing uniform markings.  
+(g) Standardized array of services means a substantially similar set of services or food and beverage menus 
+that are priced, prepared and performed in a consistent manner.  
+(h) Trademark means a word, phrase, symbol or design, or a combination of words, phrases, symbols or 
+designs legally registered or established by use that distinguishes the source of the product of one 
+party from those of others.  
+(i) Uniform apparel means standardized items of clothing, including but not limited to standardized 
+aprons, pants, shirts, vests, smocks or dresses, and hat and pins (other than name tags) with 
+standardized colors and fabrics.  
+(4) Exemptions. The following formula businesses are exempt from these formula business requirements:  
+(a) Formula businesses in operation prior to the effective date of these regulations.  
+(b) Construction work on a pre-existing, approved or exempt formula business that is required to comply 
+with fire and/or life safety standards.  
+(c) Disability access improvements to a pre-existing, approved or exempt formula business.  
+(5) Formula Business Location Requirements. Formula retail businesses may be permitted as a Special Review in 
+the C-2, I-1 or I-2 zone district.  
+Formula businesses that are legally in existence as of the effective date of this Ordinance may remain in their 
+current location as a non-conforming use. The same or substantially similar type of use may be transferrable upon 
+sale or transfer of the commercial space or ownership of the business and/or building.  
+Formula businesses that are legally in existence as of the effective date of this Ordinance may be renovated and/or 
+expanded up to fifteen percent (15%) of the existing gross floor area or a maximum of one thousand five hundred 
+(1,500) square feet, whichever is less.  
+(6) Compliance with the Code. Formula business shall comply with all applicable standards of the underlying 
+zone district and the applicable regulations of the Town Code.  
+(7) Formula Business Additional Criteria. No conditional use permit for a formula business shall be approved 
+unless the following criteria are met:  
+(a) The formula business complements existing businesses and promotes quality, diversity and variety to 
+assure a balanced mix of commercial uses and range of local, regional and national goods and services 
+for residents and visitors.  
+(b) The formula business has submitted plans, drawings, renderings, visual simulations or other examples 
+that illustrate how it will be consistent with the historic nature of the Town of Paonia.  
+(c) The formula business does not include any drive-through facilities.  
+(Ord. No. 2019-10, § 3, 8-13-2019) 
+ 
+Page 34 of 73
+2025 Colorado Revised Statutes
+Title 29 - Government - Local (§§
+29-1-101 - 29-35-405)
+Immigration Status - Cooperation with
+Federal Officials (Arts. 29 - 35)
+Article 35 - State Land Use Criteria for
+Strategic Growth (Pts. 1 - 4)
+Part 4 - Accessory Dwelling Units (§§
+29-35-401 - 29-35-405)
+§ 29-35-401. Legislative declaration
+Universal Citation:
+CO Rev Stat § 29-35-401 (2025)
+Next
+(1)
+(a) The general assembly hereby finds, determines, and declares that:
+(I) Accessory dwelling units offer a way to provide compact, relatively
+affordable housing in established neighborhoods with minimal impacts to
+infrastructure and to supply new housing opportunities without added
+dispersed low-density housing;
+Go to Previous Versions of this Section
+Colorado Revised Statutes Section 29-35-401 (2025) - Legislative decla... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+1 of 6 10/28/2026, 9:47 AM
+Page 35 of 73
+(II) Accessory dwelling units generate rental income to help homeowners cover
+mortgage payments or other costs, which can be important for a variety of
+residents, such as older homeowners on fixed incomes and low- and moderate-
+income homeowners;
+(III) Accessory dwelling units provide families with options for
+intergenerational living arrangements that enable child or elder care and aging
+in place, and a 2021 survey by the AARP found that approximately seventy-five
+percent of people fifty years of age or older want to stay in their homes or
+communities for as long as they can. According to a 2018 study by the Center
+for American Progress, fifty-one percent of Coloradans live in a child care
+desert-a community where there are no child care providers or so few options
+that there are more than three times as many children as there are licensed
+child care slots. These child care deserts are situated within rural, suburban,
+and urban communities and are a major reason for working parents to leave the
+workforce.
+(IV) Accessory dwelling units are often occupied at low to no rent by family
+members, and if they are rented privately, their rents are relatively affordable
+because of their small size;
+(V) As Colorado’s population ages and typical household size continues to
+decrease, accessory dwelling units offer more compact housing options that
+align with the state’s changing demographics, and Coloradans over sixty-five
+years of age are the fastest-growing age cohort in Colorado according to the
+state demography office;
+(VI) Accessory dwelling units enable seniors to downsize, move into accessible
+units, or live with family or a caregiver while remaining in their communities. A
+2018 AARP survey found that sixty-seven percent of adults would consider
+living in an accessory dwelling unit to be close to someone but still have a
+separate space. Most seniors do not live in homes that are accessible, even
+though disability is prevalent among the senior population and increases with
+age. Less than four percent of existing housing units in the United States are
+estimated to be livable for people with moderate mobility difficulties, according
+to “Housing for an Aging Population” in the journal Housing Policy Debate.
+(VII) Relative to dispersed, low-density development, compact infill
+development, including accessory dwelling unit development, reduces water
+Colorado Revised Statutes Section 29-35-401 (2025) - Legislative decla... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+2 of 6 10/28/2026, 9:47 AM
+Page 36 of 73
+use, greenhouse gas emissions, infrastructure costs, and household energy and
+transportation costs;
+(VIII) Accessory dwelling units use significantly less energy for heating and
+cooling than single-unit detached dwellings because of their smaller size, which
+reduces household energy costs and greenhouse gas emissions. Accessory
+dwelling units can reduce lifetime carbon dioxide emissions by forty percent
+compared to medium-sized single-family homes, according to a report from the
+Oregon department of environmental quality. Reducing emissions from the
+housing sector is critical for meeting the state’s greenhouse gas emissions
+targets established in section 25-7-102. According to “The Carbon Footprint of
+Household Energy Use in the United States” in the Proceedings of the National
+Academy of Sciences, reducing floor space per capita is a critical strategy to
+reaching mid-century climate goals.
+(IX) Compact infill development reduces water demand and infrastructure costs
+by using less piping, which reduces water loss; includes less landscaped space
+per unit; and makes better use of existing infrastructure.
+(X) Accessory dwelling units reduce government capital and maintenance costs
+for infrastructure since accessory dwelling units are built in existing
+neighborhoods and have a relatively small impact on existing infrastructure.
+National studies such as “Relationships between Density and per Capita
+Municipal Spending in the United States”, published in Urban Science, have
+found that lower density communities have higher government capital and
+maintenance costs for water, sewer, and transportation infrastructure and lower
+property and sales tax revenue. These increased costs are often borne by both
+state and local governments.
+(XI) A number of local land use laws prohibit homeowners from building an
+accessory dwelling unit, or apply regulations to accessory dwelling units that
+significantly limit their construction;
+(XII) A number of municipalities have removed barriers to accessory dwelling
+unit construction such as parking requirements, owner occupancy
+requirements, and restrictive size and design limitations, which has resulted in
+accessory dwelling unit permits increasing to ten to twenty percent of total new
+housing permits and an overall increase in the total housing supply. Since
+California implemented various reforms to encourage accessory dwelling unit
+Colorado Revised Statutes Section 29-35-401 (2025) - Legislative decla... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+3 of 6 10/28/2026, 9:47 AM
+Page 37 of 73
+construction, including requiring cities to allow accessory dwelling units as a
+use by right, preventing the imposition of parking requirements, and preventing
+owner occupancy requirements, accessory dwelling unit construction has
+increased significantly in California. Following reforms to California’s accessory
+dwelling unit law in 2016, accessory dwelling unit development has increased
+rapidly from around one thousand accessory dwelling units permitted in 2016
+to over twenty-four thousand in 2022, or about twenty percent of new housing
+permits statewide, according to data from the California Department of
+Housing and Community Development and analysis by the Bipartisan Policy
+Center.
+(XIII) Housing supply impacts housing affordability, and housing prices are
+typically higher when housing supply is restricted by local land use regulations
+in a metropolitan region, according to the National Bureau of Economic
+Research in working papers such as “Regulation and Housing Supply”, “The
+Impact of Zoning on Housing Affordability”, and “The Impact of Local
+Residential Land Use Restrictions on Land Values Across and Within Single
+Family Housing Markets”;
+(XIV) Increasing housing supply moderates price increases and improves
+housing affordability across all incomes, according to studies such as “The
+Economic Implications of Housing Supply” in the Journal of Economic
+Perspectives and “Supply Skepticism: Housing Supply and Affordability” in the
+journal Housing Policy Debate;
+(XV) Academic research such as “The Impact of Building Restrictions on
+Housing Affordability” in the Federal Reserve Bank of New York Economic
+Policy Review has identified zoning and other land use controls as a primary
+driver of rising housing costs in the most expensive housing markets;
+(XVI) Accessory dwelling units offer affordable and attainable options to live in
+high-opportunity neighborhoods, which can help improve equity outcomes
+regionally and statewide. An analysis of accessory dwelling unit permitting in
+California found that accessory dwelling units are typically permitted on parcels
+with relatively good access to jobs compared to surrounding areas, according to
+“Where Will Accessory Dwelling Units Sprout Up When a State Lets Them
+Grow? Evidence From California” in Cityscape: A Journal of Policy
+Development and Research.
+Colorado Revised Statutes Section 29-35-401 (2025) - Legislative decla... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+4 of 6 10/28/2026, 9:47 AM
+Page 38 of 73
+(XVII) Local government regulation of accessory dwelling units varies
+significantly within regions and statewide in Colorado in terms of where they
+are allowed, the dimensional and design restrictions applied, and other
+requirements. This inconsistency inhibits the development of a robust market
+of accessory dwelling unit developers, modular accessory dwelling unit designs,
+and associated cost reductions. Colorado is similar to most states in this regard,
+and, according to “Zoning By a Thousand Cuts” in the Pepperdine Law Review,
+which analyzed accessory dwelling unit regulations across Connecticut, “The
+high degree of regulatory variation thwarts the development of prototype
+designs or prefabricated [accessory dwelling units] that could satisfy different
+rules across jurisdictions”.
+(XVIII) More permissive regulation by local governments of accessory dwelling
+units provides a reasonable chance for homeowners to construct or convert an
+accessory dwelling unit and thereby increase housing supply, stabilize housing
+costs, and contribute to affordable and equitable home ownership to adequately
+meet the housing needs of a growing Colorado population.
+(b) Therefore, the general assembly declares that increasing the housing supply
+through the construction or conversion of accessory dwelling units is a matter of
+mixed statewide and local concern.
+History
+Source: L. 2024: Entire article added,(HB 24-1152), ch. 167, p. 816, § 1, effective May 13.
+Annotations
+Research References & Practice Aids
+Hierarchy Notes:
+C.R.S. Title 29, Art. 35
+C.R.S. Title 29, Art. 35, Pt. 4
+Next
+Colorado Revised Statutes Section 29-35-401 (2025) - Legislative decla... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+5 of 6 10/28/2026, 9:47 AM
+Page 39 of 73
+Disclaimer: These codes may not be the most recent version. Colorado may have more current or
+accurate information. We make no warranties or guarantees about the accuracy, completeness, or
+adequacy of the information contained on this site or the information linked to on the state site. Please
+check official sources.
+Colorado Revised Statutes Section 29-35-401 (2025) - Legislative decla... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+6 of 6 10/28/2026, 9:47 AM
+Page 40 of 73
+2025 Colorado Revised Statutes
+Title 29 - Government - Local (§§
+29-1-101 - 29-35-405)
+Immigration Status - Cooperation with
+Federal Officials (Arts. 29 - 35)
+Article 35 - State Land Use Criteria for
+Strategic Growth (Pts. 1 - 4)
+Part 4 - Accessory Dwelling Units (§§
+29-35-401 - 29-35-405)
+§ 29-35-402. Definitions
+Universal Citation:
+CO Rev Stat § 29-35-402 (2025)
+Previous Next
+As used in this part 4, unless the context otherwise requires:
+(1) “Accessible unit” means a housing unit that:
+(a) Satisfies the requirements of the federal “Fair Housing Act”, 42 U. S. C. sec.
+3601 et seq., as amended;
+(b) Incorporates universal design; or
+Go to Previous Versions of this Section
+Colorado Revised Statutes Section 29-35-402 (2025) - Definitions :: 20... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+1 of 6 10/28/2026, 9:47 AM
+Page 41 of 73
+(c) Is either a type A dwelling unit, as defined in section 9-5-101 (10), or a type B
+dwelling unit, as defined in section 9-5-101 (12).
+(2) “Accessory dwelling unit” means an internal, attached, or detached dwelling unit
+that:
+(a) Provides complete independent living facilities for one or more individuals;
+(b) Is located on the same lot as a proposed or existing primary residence; and
+(c) Includes facilities for living, sleeping, eating, cooking, and sanitation.
+(3) “Accessory dwelling unit supportive jurisdiction” means a local government that
+the department has certified pursuant to section 29-35-404 as an accessory dwelling
+unit supportive jurisdiction.
+(4) “Accessory use” means a structure or the use of a structure on the same lot with,
+and of a nature customarily incidental and subordinate to, the principal structure or
+use of the structure.
+(5)
+(a) “Administrative approval process” means a process in which:
+(I) A development proposal for a specified project is approved, approved
+with conditions, or denied by local government administrative staff based
+solely on its compliance with objective standards set forth in local laws;
+and
+(II) Does not require, and cannot be elevated to require, a public hearing,
+a recommendation, or a decision by an elected or appointed public body
+or a hearing officer.
+(b) Notwithstanding subsection (5)(a) of this section, an administrative
+approval process may require an appointed historic preservation commission to
+make a decision, or to make a recommendation to local government
+administrative staff, regarding a development application involving a property
+that the local government has designated as a historic property, provided that:
+(I) The state historic preservation office within history Colorado has
+designated the local government as a certified local government; and
+Colorado Revised Statutes Section 29-35-402 (2025) - Definitions :: 20... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+2 of 6 10/28/2026, 9:47 AM
+Page 42 of 73
+(II) The appointed historic preservation commission’s decision or
+recommendation is based on standards either set forth in local law or
+established by the secretary of the interior of the United States.
+(6) “County” means a county, including a home rule county but excluding a city and
+county.
+(7) “Department” means the department of local affairs.
+(8) “Dwelling unit” means a single unit providing complete independent living
+facilities for one or more individuals, including permanent facilities for cooking,
+eating, living, sanitation, and sleeping.
+(9) “Exempt parcel” means a parcel that is:
+(a) Not served by a domestic water and sewage treatment system, as defined in
+section 24-65.1-104 (5), or is served by a well with a permit that cannot supply
+an additional dwelling unit;
+(b) A historic property that is not within a historic district; or
+(c) In a floodway or in a one hundred year floodplain, as identified by the
+federal emergency management agency.
+(10) “Historic district” means a district established by local law that meets the
+definition of “district” set forth in 36 CFR 60.3 (d).
+(11) “Historic property” means a property listed:
+(a) On the national register of historic places;
+(b) On the Colorado state register of historic properties; or
+(c) As a contributing structure or historic landmark by a certified local
+government, as defined in section 39-22-514.5 (2)(b).
+(12) “Local government” means a municipality, county, or tribal nation with
+jurisdiction in Colorado.
+(13) “Local law” means any code, law, ordinance, policy, regulation, or rule enacted
+by a local government that governs the development and use of land, including land
+use codes, zoning codes, and subdivision codes.
+Colorado Revised Statutes Section 29-35-402 (2025) - Definitions :: 20... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+3 of 6 10/28/2026, 9:47 AM
+Page 43 of 73
+(14) “Low- and moderate-income household” means a household that is considered
+low-, moderate-, or medium-income, as determined by the federal department of
+housing and urban development.
+(15) “Metropolitan planning organization” means a metropolitan planning
+organization under the “Federal Transit Act of 1998”, 49 U. S. C. sec. 5301 et seq., as
+amended.
+(16) “Municipality” means a home rule or statutory city or town, territorial charter
+city or town, or city and county.
+(17) “Objective standard” means a standard that:
+(a) Is a defined benchmark or criterion that allows for determinations of
+compliance to be consistently decided regardless of the decision maker; and
+(b) Does not require a subjective determination concerning a development
+proposal, including but not limited to whether the application for the
+development proposal is:
+(I) Consistent with master plans, or other development plans;
+(II) Compatible with the land use or development of the area surrounding
+the area described in the application; or
+(III) Consistent with public welfare, community character, or
+neighborhood character.
+(18) “Restrictive design or dimension standard” means a standard in a local law that:
+(a) Requires an architectural style, building material, or landscaping that is
+more restrictive for an accessory dwelling unit than for a single-unit detached
+dwelling in the same zoning district;
+(b) Does not allow for accessory dwelling unit sizes between five hundred and
+seven hundred fifty square feet;
+(c) Requires side setbacks for an accessory dwelling unit that are larger than the
+side setbacks required for a primary dwelling unit in the same zoning district;
+(d) Requires a rear setback for an accessory dwelling unit that is larger than the
+greater of:
+Colorado Revised Statutes Section 29-35-402 (2025) - Definitions :: 20... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+4 of 6 10/28/2026, 9:47 AM
+Page 44 of 73
+(I) The rear setback required for other accessory building types in the
+same zoning district; or
+(II) Five feet;
+(e) Is a more restrictive minimum lot size standard for an accessory dwelling
+unit than for a single-unit detached dwelling in the same zoning district; or
+(f) Applies more restrictive aesthetic design or dimensional standards to
+accessory dwelling units that are factory-built residential structures, as defined
+in section 24-32-3302 (10), than other accessory dwelling units.
+(19)
+(a) “Short-term rental” means the rental of a lodging unit for less than thirty
+days. As used in this subsection (19), “lodging unit” means any property or
+portion of a property that is available for lodging; except that the term excludes
+a hotel or motel unit.
+(b) Notwithstanding subsection (19)(a) of this section, a local government may
+apply its own definition of “short-term rental” for purposes of this part 4.
+(20) “Single-unit detached dwelling” means a detached building with a single
+dwelling unit on a single lot.
+(21) “Subject jurisdiction” means either:
+(a) A municipality that both has a population of one thousand or more, as
+reported by the state demography office, and is within a metropolitan planning
+organization; or
+(b) The portion of a county that is both within a census designated place with a
+population of forty thousand or more, as reported in the most recent decennial
+census, and within a metropolitan planning organization.
+(22) “Tandem parking space” means a parking space that is located either in front of
+or behind one or more other parking spaces that share the same point of access.
+(23) “Universal design” means any dwelling unit designed and constructed to be safe
+and accessible for any individual regardless of age or abilities.
+(24) “Visitable unit” means a dwelling unit that a person with a disability can enter,
+Colorado Revised Statutes Section 29-35-402 (2025) - Definitions :: 20... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+5 of 6 10/28/2026, 9:47 AM
+Page 45 of 73
+move around the primary entrance floor of, and use the bathroom in.
+History
+Source: L. 2024: Entire article added,(HB 24-1152), ch. 167, p. 819, § 1, effective May 13.
+Annotations
+Research References & Practice Aids
+Hierarchy Notes:
+C.R.S. Title 29, Art. 35
+C.R.S. Title 29, Art. 35, Pt. 4
+Previous Next
+Disclaimer: These codes may not be the most recent version. Colorado may have more current or
+accurate information. We make no warranties or guarantees about the accuracy, completeness, or
+adequacy of the information contained on this site or the information linked to on the state site. Please
+check official sources.
+Colorado Revised Statutes Section 29-35-402 (2025) - Definitions :: 20... https://law.justia.com/codes/colorado/title-29/immigra tion-status-cooper...
+6 of 6 10/28/2026, 9:47 AM
+Page 46 of 73
+2025 Colorado Revised Statutes
+Title 29 - Government - Local (§§
+29-1-101 - 29-35-405)
+Immigration Status - Cooperation with
+Federal Officials (Arts. 29 - 35)
+Article 35 - State Land Use Criteria for
+Strategic Growth (Pts. 1 - 4)
+Part 4 - Accessory Dwelling Units (§§
+29-35-401 - 29-35-405)
+§ 29-35-403. Accessory dwelling unit
+requirements for a subject jurisdiction
+Universal Citation:
+CO Rev Stat § 29-35-403 (2025)
+Previous Next
+(1) On or after June 30, 2025, a subject jurisdiction shall allow, subject to an administrative
+approval process, one accessory dwelling unit as an accessory use to a single-unit detached
+dwelling in any part of the subject jurisdiction where the jurisdiction allows single-unit
+detached dwellings.
+(2) On or after June 30, 2025, a subject jurisdiction shall not:
+Go to Previous Versions of this Section
+Colorado Revised Statutes Section 29-35-403 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+1 of 4 10/28/2026, 9:48 AM
+Page 47 of 73
+(a) Require the construction of a new off-street parking space in connection with the
+construction or conversion of an accessory dwelling unit, except as described in
+subsections (3)(a) and (3)(b) of this section;
+(b) Require an accessory dwelling unit, or any other dwelling on the same lot as an
+accessory dwelling unit, to be owner-occupied; except that a subject jurisdiction may
+require a property owner to demonstrate that the property owner resides on the
+parcel when an application is submitted:
+(I) To construct or convert an accessory dwelling unit. This exception does not
+apply for an accessory dwelling unit that is being constructed simultaneously
+with a new primary dwelling unit.
+(II) For a license or permit for a short-term rental on the parcel through a local
+law or program.
+(c) Apply a restrictive design or dimension standard to an accessory dwelling unit.
+(3) Nothing in this section prevents a subject jurisdiction or other local government from:
+(a) Requiring the designation of an off-street parking space in connection with an
+accessory dwelling unit, so long as there is an existing driveway, garage, tandem
+parking space, or other off-street parking space available for such a designation at the
+time of the construction or conversion of the accessory dwelling unit;
+(b) Requiring, in connection with the construction or conversion of an accessory
+dwelling unit, one new parking space on a parcel that:
+(I) Does not have an existing off-street parking space, including a driveway,
+garage, or tandem parking space, that could be used for an accessory dwelling
+unit;
+(II) Is in a zoning district that, as of January 1, 2024, requires one or more
+parking spaces for the primary dwelling unit; and
+(III) Is located on a block where on-street parking is prohibited for any reason
+including ensuring access for emergency services;
+(c) Allowing the construction or conversion of an accessory dwelling unit that is
+smaller than five hundred square feet or greater than eight hundred square feet, or
+restricting the size of an accessory dwelling unit so that it is no larger than the size of
+Colorado Revised Statutes Section 29-35-403 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+2 of 4 10/28/2026, 9:48 AM
+Page 48 of 73
+the principal dwelling unit on the same lot as the accessory dwelling unit;
+(d) Allowing the construction or conversion of multiple accessory dwelling units on
+the same lot;
+(e) Applying a design or dimension standard to an accessory dwelling unit that is not
+a restrictive design or dimension standard;
+(f) Adopting or enforcing a generally applicable requirement for:
+(I) The payment of an impact fee or other similar development charge, pursuant
+to section 29-20-104.5; or
+(II) The mitigation of impacts in conformance with the requirements of part 2
+of article 20 of this title 29;
+(g) Enacting or applying a local law concerning the short-term rental of an accessory
+dwelling unit or any other dwelling on the same lot as an accessory dwelling unit;
+(h) Applying the design standards and procedures of a historic district to a lot on
+which an accessory dwelling unit is allowed in that historic district, including a
+standard or procedure related to demolition;
+(i) Applying and enforcing a locally adopted life safety code, including but not limited
+to, a building, fire, utility, or stormwater code;
+(j) Allowing the construction of, or issuing a permit for the construction of, a single-
+unit detached dwelling in an area zoned for single-unit detached dwellings;
+(k) Encouraging the construction of accessory dwelling units that are, through the
+application of local laws or programs including through deed restrictions, made
+affordable to households under certain income limits or used primarily to house the
+local workforce pursuant to a local, regional, or state affordable housing program;
+(l) Defining accessory dwelling unit in local law as including or excluding other
+dwelling unit types such as a “motor home”, as defined in section 42-1-102 (57), a
+“multipurpose trailer”, as defined in section 42-1-102 (60.3), and a “recreational
+vehicle”, as defined in section 24-32-902 (9); or
+(m) Requiring a statement by a water or wastewater service provider regarding its
+capacity to service the property as a condition of permitting an accessory dwelling
+Colorado Revised Statutes Section 29-35-403 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+3 of 4 10/28/2026, 9:48 AM
+Page 49 of 73
+unit.
+(4) This section only applies to a parcel in a subject jurisdiction that is not an exempt
+parcel.
+History
+Source: L. 2024: Entire article added,(HB 24-1152), ch. 167, p. 823, § 1, effective May 13.
+Annotations
+Research References & Practice Aids
+Hierarchy Notes:
+C.R.S. Title 29, Art. 35
+C.R.S. Title 29, Art. 35, Pt. 4
+Previous Next
+Disclaimer: These codes may not be the most recent version. Colorado may have more current or
+accurate information. We make no warranties or guarantees about the accuracy, completeness, or
+adequacy of the information contained on this site or the information linked to on the state site. Please
+check official sources.
+Colorado Revised Statutes Section 29-35-403 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+4 of 4 10/28/2026, 9:48 AM
+Page 50 of 73
+2025 Colorado Revised Statutes
+Title 29 - Government - Local (§§
+29-1-101 - 29-35-405)
+Immigration Status - Cooperation with
+Federal Officials (Arts. 29 - 35)
+Article 35 - State Land Use Criteria for
+Strategic Growth (Pts. 1 - 4)
+Part 4 - Accessory Dwelling Units (§§
+29-35-401 - 29-35-405)
+§ 29-35-404. Accessory dwelling unit
+supportive jurisdiction report -
+certification of a jurisdiction as an
+accessory dwelling unit supportive
+jurisdiction
+Universal Citation:
+CO Rev Stat § 29-35-404 (2025)
+Previous Next
+(1)
+Go to Previous Versions of this Section
+Colorado Revised Statutes Section 29-35-404 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+1 of 4 10/28/2026, 9:48 AM
+Page 51 of 73
+(a) In order to be certified as an accessory dwelling unit supportive jurisdiction by the
+department, a local government must submit to the department, in a form and
+manner determined by the department, a report demonstrating evidence of the local
+government:
+(I) Complying with section 29-35-403 as a subject jurisdiction or, if the local
+government is not a subject jurisdiction, as if the local government were a
+subject jurisdiction for purposes of section 29-35-403; and
+(II) Implementing one or more of the following strategies:
+(A) Waiving, reducing, or providing financial assistance for accessory
+dwelling unit-related fees that are incurred by low- and moderate-income
+households;
+(B) Enacting local laws or programs that incentivize the affordability of
+certain accessory dwelling units including accessory dwelling units used
+primarily to house the local workforce;
+(C) Providing pre-approved plans for the construction of accessory
+dwelling units;
+(D) Implementing a program to provide education and technical
+assistance to homeowners to construct or convert an accessory dwelling
+unit;
+(E) Implementing a program to regulate the use of accessory dwelling
+units for short-term rentals;
+(F) Enacting local laws that incentivize the construction and conversion of
+accessible and visitable accessory dwelling units;
+(G) Assisting property owners with ensuring that pre-existing accessory
+dwelling units comply with local laws;
+(H) Enabling a pathway for the separate sale of an accessory dwelling
+unit;
+(I) Enacting local laws that encourage the construction of accessory
+dwelling units that are factory-built residential structures, as defined in
+section 24-32-3302 (10); or
+Colorado Revised Statutes Section 29-35-404 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+2 of 4 10/28/2026, 9:48 AM
+Page 52 of 73
+(J) Any other strategy that is approved by the department and that
+encourages the construction, conversion, or use of accessory dwelling
+units.
+(b)
+(I) On or before June 30, 2025, a subject jurisdiction shall submit the report
+described in subsection (1)(a) of this section.
+(II) Notwithstanding subsection (1)(b)(I) of this section, the department may
+allow a subject jurisdiction to submit the report described in subsection (1)(a) of
+this section no more than six months after the deadline described in subsection
+(1)(b)(I) of this section if the subject jurisdiction demonstrates, in a form and
+manner determined by the department, that the subject jurisdiction has:
+(A) Initiated a process to update its local laws as necessary to comply with
+the requirements of the report described in subsection (1)(a) of this
+section;
+(B) A plan and timeline to update its local laws as necessary to comply
+with the requirements of the report described in subsection (1)(a) of this
+section; and
+(C) Provided an explanation for not being able to meet the deadline
+described in subsection (1)(b)(I) of this section.
+(c) If a local government that is not a subject jurisdiction submits a report pursuant
+to subsection (1)(a) of this section, that local government shall, as part of the report,
+submit evidence of complying with the requirements for a subject jurisdiction
+described in section 29-35-403.
+(2)
+(a) Within ninety days of receiving a local government’s report submitted pursuant to
+subsection (1)(a) of this section, the department shall review the report, either
+approve or reject the report, and provide feedback to the local government on the
+report.
+(b) If the department approves a local government’s report submitted pursuant to
+subsection (1)(a) of this section, the department shall issue to that local government a
+certificate indicating that the local government qualifies as an accessory dwelling unit
+Colorado Revised Statutes Section 29-35-404 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+3 of 4 10/28/2026, 9:48 AM
+Page 53 of 73
+supportive jurisdiction. The department may revoke such a certificate if a local
+government does not satisfy the requirements of subsection (1)(a) of this section.
+(c) If the department rejects a local government’s report submitted pursuant to
+subsection (1)(a) of this section, the department may grant the local government an
+additional one hundred twenty days to correct any deficiencies identified in the
+report and resubmit an amended report. Within ninety days of receiving an amended
+report, the department shall review the amended report, either approve or reject the
+amended report, and provide feedback on the amended report.
+(3) The department, in consultation with the department of transportation, the Colorado
+energy office, and the Colorado office of economic development, may develop policies and
+procedures as necessary to implement this section.
+History
+Source: L. 2024: Entire article added,(HB 24-1152), ch. 167, p. 825, § 1, effective May 13.
+Annotations
+Research References & Practice Aids
+Hierarchy Notes:
+C.R.S. Title 29, Art. 35
+C.R.S. Title 29, Art. 35, Pt. 4
+Previous Next
+Disclaimer: These codes may not be the most recent version. Colorado may have more current or
+accurate information. We make no warranties or guarantees about the accuracy, completeness, or
+adequacy of the information contained on this site or the information linked to on the state site. Please
+check official sources.
+Colorado Revised Statutes Section 29-35-404 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+4 of 4 10/28/2026, 9:48 AM
+Page 54 of 73
+2025 Colorado Revised Statutes
+Title 29 - Government - Local (§§
+29-1-101 - 29-35-405)
+Immigration Status - Cooperation with
+Federal Officials (Arts. 29 - 35)
+Article 35 - State Land Use Criteria for
+Strategic Growth (Pts. 1 - 4)
+Part 4 - Accessory Dwelling Units (§§
+29-35-401 - 29-35-405)
+§ 29-35-405. Accessory dwelling unit
+fee reduction and encouragement
+grant program - created - application -
+criteria - awards - fund - reporting
+requirements - rules - definitions -
+repeal
+Universal Citation:
+CO Rev Stat § 29-35-405 (2025)
+Previous
+Go to Previous Versions of this Section
+Colorado Revised Statutes Section 29-35-405 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+1 of 6 10/28/2026, 9:49 AM
+Page 55 of 73
+(1) The accessory dwelling unit fee reduction and encouragement grant program is created
+in the department to provide grants to accessory dwelling unit supportive jurisdictions for
+activities that promote the construction of accessory dwelling units, including but not
+limited to, offsetting costs incurred in connection with developing pre-approved accessory
+dwelling unit plans, providing technical assistance to persons converting or constructing
+accessory dwelling units, or waiving, reducing, or providing financial assistance for
+accessory dwelling unit associated fees and other required costs.
+(2) Grant recipients may use the money received through the grant program to offset both
+eligible costs and the cost of waiving, reducing, or providing financial assistance for
+reasonable and necessary accessory dwelling unit fees and other required costs for:
+(a) Low- and moderate-income households;
+(b) Affordable accessory dwelling units;
+(c) Accessible or visitable accessory dwelling units;
+(d) Accessory dwelling units used as long-term rentals for members of the local
+workforce; or
+(e) Accessory dwelling units used to support other demonstrated housing needs in the
+community.
+(3) The department shall administer the grant program and, subject to available
+appropriations, provide technical assistance, develop a toolkit to support local
+governments in encouraging accessory dwelling unit construction, receive grant
+applications and award grants as provided in this section.
+(4) To receive a grant, an accessory dwelling unit supportive jurisdiction must submit an
+application to the department in accordance with the policies and procedures developed by
+the department pursuant to subsection (9) of this section. At a minimum, the application
+must include the following:
+(a) A copy of the certificate issued by the department pursuant to section 29-35-404
+certifying that the local government is an accessory dwelling unit supportive
+jurisdiction;
+(b) The number of accessory dwelling units that the local government has permitted
+and when the local government permitted those accessory dwelling units;
+Colorado Revised Statutes Section 29-35-405 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+2 of 6 10/28/2026, 9:49 AM
+Page 56 of 73
+(c) The type and costs of fees and other eligible costs that the local government is
+proposing to use a grant award to pay for;
+(d) The number of accessory dwelling units that the local government expects to
+support with a grant award and the period for which the local government intends to
+support those accessory dwelling units; and
+(e) Information about the types of households and accessory dwelling units that the
+local government intends to support with a grant award, such as whether the local
+government intends to support low- and moderate-income households, affordable
+accessory dwelling units, accessible or visitable accessory dwelling units, accessory
+dwelling units for housing the local workforce, or accessory dwelling units supporting
+other demonstrated housing needs in the community.
+(5) The department shall review the applications received pursuant to subsection (4) of this
+section. In awarding grants, the department shall give priority to local governments that:
+(a) Impose accessory dwelling unit fees and costs that are reasonable and necessary;
+(b) Have demonstrated a significant commitment to further construction and
+conversion of accessory dwelling units through the adoption of strategies described in
+section 29-35-404 (1)(a)(II); and
+(c) Provide offsets for, or waive a greater number of accessory dwelling unit fees for:
+(I) Low- and moderate-income households; or
+(II) Accessory dwelling units that are rented to low- and moderate-income
+households.
+(6) In awarding a grant, the department shall award a local government an amount equal
+to no more than fifteen thousand dollars per accessory dwelling unit permitted by the local
+government, to be reimbursed based on the number of permitted accessory dwelling units.
+(7)
+(a) The accessory dwelling unit fee reduction and encouragement grant program fund
+is created in the state treasury. The fund consists of any money that the general
+assembly may transfer or appropriate to the fund and gifts, grants, or donations
+credited to the fund.
+Colorado Revised Statutes Section 29-35-405 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+3 of 6 10/28/2026, 9:49 AM
+Page 57 of 73
+(b) Subject to annual appropriation by the general assembly, the department may
+expend money from the fund for the purpose of implementing and administering the
+grant program.
+(c) On or before June 30, 2024, the state treasurer shall transfer five million dollars
+from the general fund to the fund.
+(d)
+(I) For state fiscal years commencing on or before July 1, 2024, the state
+treasurer shall credit all interest and income derived from the deposit and
+investment of money in the fund to the fund.
+(II) For state fiscal years commencing on or after July 1, 2025, in accordance
+with section 24-36-114 (1), the state treasurer shall credit all interest and
+income derived from the deposit and investment of money in the fund to the
+general fund.
+(III)
+(A) On June 30, 2025, the state treasurer shall transfer forty-nine
+thousand seven hundred forty-one dollars from the fund to the general
+fund.
+(B) This subsection (7)(d)(III) is repealed, effective July 1, 2026.
+(8) In accordance with the policies and procedures developed by the department pursuant
+to subsection (9) of this section, each local government that receives a grant through the
+grant program shall submit a report to the department. At a minimum, the report must
+include the following information:
+(a) The number of accessory dwelling units with accessory dwelling unit fees or costs
+that local governments waived, reduced, or provided financial assistance for in the
+past year;
+(b) The total amount of eligible costs that local governments incurred and were
+reimbursed for through the grant program in the past year in connection with the
+grant program;
+(c) The number of the accessory dwelling units described in subsection (8)(a) of this
+section that were built in the past year that were built by low- and moderate-income
+Colorado Revised Statutes Section 29-35-405 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+4 of 6 10/28/2026, 9:49 AM
+Page 58 of 73
+households, that are affordable accessory dwelling units, and that are visitable or
+accessible accessory dwelling units;
+(d) The number of accessory dwelling units that are factory-built residential
+structures, as defined in section 24-32-3302 (10); and
+(e) The number of accessory dwelling unit permits awarded, denied, or in progress in
+the local government’s jurisdiction.
+(9) The department shall implement the grant program in accordance with this section.
+The department shall develop, in consultation with the department of transportation, the
+Colorado energy office, and the Colorado office of economic development, policies and
+procedures both as required in this section and as may be necessary to implement the grant
+program.
+(10) As used in this section, unless the context otherwise requires:
+(a) “Accessory dwelling unit fee” means a reasonable and necessary fee collected or
+required by a local government in connection with the construction or conversion of
+an accessory dwelling unit. Such a fee may include impact fees.
+(b)
+(I) “Eligible costs” means costs incurred by a local government and determined
+by the department to be incurred in connection with developing pre-approved
+accessory dwelling unit plans, providing technical assistance to persons
+converting or constructing accessory dwelling units, or other reasonable and
+necessary fees levied by or costs borne by the local government for the
+construction or conversion of an accessory dwelling unit.
+(II) Notwithstanding subsection (10)(b)(I) of this section, in order for costs
+incurred by a local government in connection with developing pre-approved
+accessory dwelling unit plans to qualify as eligible costs, at least one such pre-
+approved accessory dwelling unit plan must be for an accessible or visitable
+accessory dwelling unit.
+(c) “Fund” means the accessory dwelling unit fee reduction and encouragement grant
+program fund created in subsection (7) of this section.
+(d) “Grant program” means the accessory dwelling unit fee reduction and
+encouragement grant program created in this section.
+Colorado Revised Statutes Section 29-35-405 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+5 of 6 10/28/2026, 9:49 AM
+Page 59 of 73
+(11) This section is repealed, effective December 31, 2030.
+History
+Source: L. 2024: Entire article added,(HB 24-1152), ch. 167, p. 827, § 1, effective May 13. L.
+2025:(7)(a) amended and (7)(d) added,(SB 25-317), ch. 385, p. 2162, § 44, effective June 3.
+Annotations
+Research References & Practice Aids
+Hierarchy Notes:
+C.R.S. Title 29, Art. 35
+C.R.S. Title 29, Art. 35, Pt. 4
+State Notes
+Research References & Practice Aids
+Cross references:
+For the legislative declaration in SB 25-317, see section 1 of chapter 385, Session Laws of
+Colorado 2025.
+Previous
+Disclaimer: These codes may not be the most recent version. Colorado may have more current or
+accurate information. We make no warranties or guarantees about the accuracy, completeness, or
+adequacy of the information contained on this site or the information linked to on the state site. Please
+check official sources.
+Colorado Revised Statutes Section 29-35-405 (2025) - Accessory dwell... https://law.justia.com/codes/colorado/title-29/immigrati on-status-cooper...
+6 of 6 10/28/2026, 9:49 AM
+Page 60 of 73

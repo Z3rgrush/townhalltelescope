@@ -116,73 +116,116 @@
 - vi. City Business Plan Competition
 - City Manager KC Hume presented for discussion and approval the Craig Business
 
-## [craig#4] 2026-10-13 | City Council | agenda
-- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
-- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
-- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
-- request that it be managed separately for discussion and consideration. Matters removed from the Consent
-- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+## [craig#4] 2026-10-13 | City Council | minutes
+- Attorney Garry Rhoden, Finance Director Mindy Elliott, City Clerk Katie Carmody, Police
 - A. Approval of Minutes from September 22, 2026, regular council meeting
 - B. Approval of Bills through October 8, 2026, in the amount of $1,061,561.21
+- Councilman Looper moved with a second by Councilman Herod to approve the
+- consent agenda as presented, which included the approval of the minutes from the
+- regular council meeting on September 22, 2026, the approval of the bills through
 - A. Approval of the agenda for October 13, 2026, regular council meeting
+- Councilman Duran moved with a second by Councilwoman Linsacum to amend the
+- agenda to move Item #8C, the announcement of the Business Plan Competition
+- Winners for 2026, to the Presentation Section directly after the administration of the
+- Councilman Duran moved with a second by Councilman Tucker to approve the agenda
+- as amended. Ayes: 7. Nays: 0. Motion carried
+- the Site Plan from Mike Thompson at 791 Industrial Avenue, Green Tree Business
+- Park, Lot 6, Block 1
 - 6. Presentations
 - A. Police Chief Mike Cochran to administer the Oath of Office to Axeel Mendoza
-- C. Cuyler Meade, Coordinator for 4A for Moffat County Kids, to present the School Bond Measure
+- Police Chief Mike Cochran presented the Oath of Office to Police Officer Axeel
+- C. City Manager KC Hume and EDAC Chair Chris Jones to present the Business Plan
+- Business Plan Competition Winners for 2026. The third place winner, receiving
+- receiving $12,000.00, was Water Treatment Consulting / Nathan Browning. The first
+- Bond Measure
+- County School Bond Measure, 4A
+- City Manager KC Hume updated the group on the Economic Development Manager
+- position, current and future meetings, and projects
 - B. Police Chief Mike Cochran to present Police Report for September 2026
-- C. City Manager KC Hume and EDAC Chair Chris Jones to present the Business Plan Competition
+- Police Chief Mike Cochran presented the Police Report for September 2026
 - 9. Limited Public Comment
-- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
-- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
-- comment will be requested to stop their public comment by the presiding officer. If you have documents
-- For participation in public comment virtually, please email the City Clerk at the following email address:
+- There was no limited public comment
 - 10. Public Hearing
-- A. Building Official Marlin Eckhoff to present for discussion and approval the Site Plan from Mike
-- Park, Lot 6, Block 1
-- B. City Manager KC Hume to present for discussion and approval Resolution No. 32 (2026) ~ A
-- Resolution of the City Council of the City of Craig, Colorado Designating Rich Thompson as the
-- City's Representative to the Carbon Free Futures Development Advisory Board
-- C. City Attorney Heather Cannon to present for discussion and approval Resolution No. 33 (2026) ~ A
-- Resolution of the City of Craig extending and reimposing the moratorium on the submission,
-- acceptance, processing, and approval of applications for the establishment of business that
-- 13. Closing Discussion and Informational Items
+- There was no Public Hearing scheduled
+- A. Building Official Marlin Eckhoff to present for discussion and approval the Site Plan
+- Green Tree Business Park, Lot 6, Block 1
+- Building Official Marlin Eckhoff presented for discussion and approval of a Site Plan
+- Green Tree Business Park, Lot 6, Block 1. Mike Thompson, the applicant, provided
+- additional clarification. After further discussion, Councilman Tucker moved with a
+- second by Councilman Herod to approve the Site Plan from Mike Thompson to
+- B. City Manager KC Hume to present for discussion and approval Resolution No. 32
+- (2026) ~ A Resolution of the City Council of the City of Craig, Colorado Designating
+- Rich Thompson as the City's Representative to the Carbon Free Futures Development
 
-## [craig#5] 2026-10-13 | City Council | agenda
-- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
-- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
-- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
-- request that it be managed separately for discussion and consideration. Matters removed from the Consent
-- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
-- A. Approval of Minutes from September 22, 2026, regular council meeting
-- B. Approval of Bills through October 8, 2026, in the amount of $1,061,561.21
-- A. Approval of the agenda for October 13, 2026, regular council meeting
-- 6. Presentations
-- A. Police Chief Mike Cochran to administer the Oath of Office to Axeel Mendoza
-- C. Cuyler Meade, Coordinator for 4A for Moffat County Kids, to present the School Bond Measure
-- B. Police Chief Mike Cochran to present Police Report for September 2026
-- C. City Manager KC Hume and EDAC Chair Chris Jones to present the Business Plan Competition
-- 9. Limited Public Comment
-- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
-- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
-- comment will be requested to stop their public comment by the presiding officer. If you have documents
-- For participation in public comment virtually, please email the City Clerk at the following email address:
-- 10. Public Hearing
-- A. Building Official Marlin Eckhoff to present for discussion and approval the Site Plan from Mike
-- Park, Lot 6, Block 1
-- B. City Manager KC Hume to present for discussion and approval Resolution No. 32 (2026) ~ A
-- Resolution of the City Council of the City of Craig, Colorado Designating Rich Thompson as the
-- City's Representative to the Carbon Free Futures Development Advisory Board
-- C. City Attorney Heather Cannon to present for discussion and approval Resolution No. 33 (2026) ~ A
-- Resolution of the City of Craig extending and reimposing the moratorium on the submission,
-- acceptance, processing, and approval of applications for the establishment of business that
-- 13. Closing Discussion and Informational Items
-- A. Approval of minutes from September 8, 2026, regular council meeting
-- B. Approval of bills through September 17, 2026, in the amount of $799,365.94
-- C. Approval of Payroll and Benefits for September 11, 2026, in the amount of
-- Councilman Duran moved with a second by Councilwoman Gottschall to approve the
-
-## [craig#6] 2026-10-19 | Planning and Zoning Commission | agenda
+## [craig#5] 2026-10-19 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission Meeting
 - 3. Approval of Minutes
 - A. Approval of Minutes from September 21, 2026
 - A. Consider a recommendation to City Council for a Deferred Recreational Amenities and Certificate
 - of Occupancy Agreement for the Tunatua RV Resort at 4175 W US-40, Craig, Colorado 81625
+
+## [craig#6] 2026-10-27 | City Council | agenda
+- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
+- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
+- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
+- request that it be managed separately for discussion and consideration. Matters removed from the Consent
+- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+- A. Approval of Minutes from October 13, 2026, regular council meeting
+- B. Approval of Bills through October 22, 2026, in the amount of $603,488.92
+- A. Approval of the agenda for October 27, 2026, regular council meeting
+- 6. Presentations
+- 9. Limited Public Comment
+- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
+- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
+- comment will be requested to stop their public comment by the presiding officer. If you have documents
+- For participation in public comment virtually, please email the City Clerk at the following email address:
+- 10. Public Hearing
+- A. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
+- Reading) Ordinance No. 1186 (2026) ~ An Ordinance adopting the 2027 Budget and setting
+- appropriations for the revenues and expenditures, and making and fixing the amount of property tax
+- B. City Manager KC Hume to present for discussion and approval Resolution No. 34 (2026) ~ A
+- Resolution Approving Subrecipient Agreements for HUD and DOLA Grant Funding related to the
+- Meadows Apartments project
+- C. Public Works Director Danny Paul to present for discussion and approval Award of Proposal for the
+- Craig Master Plan Update to the SE Group in the amount of $195,000.00
+- D. Parks & Recreation Director Ryan Dennison to present for discussion and approval recommendation
+- to select Butler Snow LLP for Bond Counsel Services for the Craig Sports Complex
+- E. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
+- Reading) Ordinance No. 1187 (2026) ~ an Ordinance amending sections 13.48.010 and 13.16.010 of
+- the Craig Municipal Code to increase the Water and Wastewater rates to provide sufficient revenues
+- to maintain the balance of Water and Wastewater Enterprise Funds
+- F. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
+- Reading) Ordinance No. 1188 (2026) ~ an Ordinance amending section 8.04.250 of the Craig
+
+## [craig#7] 2026-10-27 | City Council | agenda
+- Note: The Consent Agenda consists of proposed actions on business matters which are considered routine
+- and for which approval is based on previously approved City policy or practice. The Consent Agenda will
+- be approved by a single motion to “Approve the Consent Agenda” and Council Members will vote
+- request that it be managed separately for discussion and consideration. Matters removed from the Consent
+- Agenda will be placed on the agenda as an item of “Other Business” for discussion and consideration
+- A. Approval of Minutes from October 13, 2026, regular council meeting
+- B. Approval of Bills through October 22, 2026, in the amount of $603,488.92
+- A. Approval of the agenda for October 27, 2026, regular council meeting
+- 6. Presentations
+- 9. Limited Public Comment
+- within the jurisdiction of the city. Speakers must provide their full name, spelling, if requested, and have
+- signed up on the Public Comment Sign-up Form. Each speaker is allocated no more than 3.0 minutes to
+- comment will be requested to stop their public comment by the presiding officer. If you have documents
+- For participation in public comment virtually, please email the City Clerk at the following email address:
+- 10. Public Hearing
+- A. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
+- Reading) Ordinance No. 1186 (2026) ~ An Ordinance adopting the 2027 Budget and setting
+- appropriations for the revenues and expenditures, and making and fixing the amount of property tax
+- B. City Manager KC Hume to present for discussion and approval Resolution No. 34 (2026) ~ A
+- Resolution Approving Subrecipient Agreements for HUD and DOLA Grant Funding related to the
+- Meadows Apartments project
+- C. Public Works Director Danny Paul to present for discussion and approval Award of Proposal for the
+- Craig Master Plan Update to the SE Group in the amount of $195,000.00
+- D. Parks & Recreation Director Ryan Dennison to present for discussion and approval recommendation
+- to select Butler Snow LLP for Bond Counsel Services for the Craig Sports Complex
+- E. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
+- Reading) Ordinance No. 1187 (2026) ~ an Ordinance amending sections 13.48.010 and 13.16.010 of
+- the Craig Municipal Code to increase the Water and Wastewater rates to provide sufficient revenues
+- to maintain the balance of Water and Wastewater Enterprise Funds
+- F. Finance Director Mindy Elliott to present for discussion and approval (Introduction and First
+- Reading) Ordinance No. 1188 (2026) ~ an Ordinance amending section 8.04.250 of the Craig

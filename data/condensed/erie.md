@@ -420,39 +420,40 @@
 - i. Already discussed
 - a. None to discuss
 
-## [erie#18] 2026-09-08 | Town Council | agenda
+## [erie#18] 2026-09-08 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
-- B. 2026-178 A Resolution of the Town Council of the Town of Erie Approving an Agreement
-- C. 2026-179 A Resolution of the Town Council of the Town of Erie Approving an Agreement
-- D. 2026-180 A Resolution of the Town Council of the Town of Erie Approving an Agreement
-- for Professional Services with JVA, Incorporated for On-Call General Engineering
-- E. 2026-181 A Resolution of the Town Council of the Town of Erie Approving an Agreement
-- F. 2026-182 A Resolution of the Town Council of the Town of Erie Approving a Second
-- Amendment to the Construction Contract with Geo-Solutions for the Erie Lake Dam
-- Seepage Project
-- G. 2026-183 A Resolution of the Town Council of the Town of Erie Approving the Third
-- Amendment to Agreement for Services with Coatings, Inc., for Crack Sealant Services
-- H. 2026-177 A Resolution of the Town Council of the Town of Erie Approving the 5th
-- Amendment to the Design Contract with HDR, Inc for the Erie Lake Dam Seepage Project
-- I. 2026-184 A Resolution of the Town Council of the Town of Erie Approving an Amendment
-- to the Revocable License with Fair Winds Incorporated
-- J. 2026-185 A Resolution of the Town Council of the Town of Erie Approving a Revocable
-- License Agreement with Coal Creek Little League for Storage Sheds at Reliance Park and
-- Clayton Park
-- K. 2026-186 A Resolution of the Town Council of the Town of Erie Authorizing the Town to
-- Pursue Negotiations and Efforts to Purchase, Acquire or Secure, and if Necessary and
+- Mayor Pro Tem Brandon Bell made a motion to approve the Agenda. Council Member John
+- Council Member Brian O'Connor made a motion to Approve. Council Member Dan Hoback
+- B. A Resolution of the Town Council of the Town of Erie Approving an Agreement for
+- C. A Resolution of the Town Council of the Town of Erie Approving an Agreement for
+- D. A Resolution of the Town Council of the Town of Erie Approving an Agreement for
+- Professional Services with JVA, Incorporated for On-Call General Engineering Consulting
+- E. A Resolution of the Town Council of the Town of Erie Approving an Agreement for
+- F. A Resolution of the Town Council of the Town of Erie Approving a Second Amendment to
+- the Construction Contract with Geo-Solutions for the Erie Lake Dam Seepage Project
+- G. A Resolution of the Town Council of the Town of Erie Approving the Third Amendment to
+- Agreement for Services with Coatings, Inc., for Crack Sealant Services
+- H. A Resolution of the Town Council of the Town of Erie Approving the 5th Amendment to
+- the Design Contract with HDR, Inc for the Erie Lake Dam Seepage Project
+- I. A Resolution of the Town Council of the Town of Erie Approving an Amendment to the
+- Revocable License with Fair Winds Incorporated
+- J. A Resolution of the Town Council of the Town of Erie Approving a Revocable License
+- Agreement with Coal Creek Little League for Storage Sheds at Reliance Park and Clayton
+- K. A Resolution of the Town Council of the Town of Erie Authorizing the Town to Pursue
+- Negotiations and Efforts to Purchase, Acquire or Secure, and if Necessary and
 - Unencumbered Fee Interest and a Temporary Construction Easement on Certain Real
 - Property to Complete the County Line Road and Coal Creek Stream Restoration Project
 - V. Public Comment on Non-Agenda and Consent Items Only
-- This agenda item provides the public an opportunity to discuss items that are not on the
-- A. 2026-188 1) An Ordinance of the Town Council of the Town of Erie Approving the Vista
-- Ridge PD Amendment No. 8 with a Condition; 2) A Resolution of the Town Council of the
-- Town of Erie Approving the Vista Reserve Preliminary Plat with a Condition
-- B. 2026-187 A Resolution of the Town Council of the Town of Erie to Amend the 2024
-- Elevate Erie Comprehensive Plan
-- C. Discussion/Direction - Fireworks Rules and Regulations and 2027 Events
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+- Mayor Moore read the Public Comment rules and opened Public Comment at 6:35 p.m
+- 3. Bradley Beck spoke about the Town digging up trees to provide for new water meters in Erie
+- 4. Chad Schroeder spoke about the Town digging up trees to provide for new water meters in
+- 5. Brian Plymell spoke about the Town digging up trees to provide for new water meters in Erie
+- 6. Deb Gonzales spoke in opposition to any changes to the Comp Plan
+- 7. Patrick Gonzales spoke in opposition to any changes to the Comp Plan
+- 8. Auston Ganzales spoke in opposition to any changes to the Comp Plan
+- 9. Christine Welker spoke about the Town digging up trees to provide for new water meters in
+- with water shortage, traffic on Alpine and Primrose is horrific, doesn't want to pay to update the
 
 ## [erie#19] 2026-09-09 | Tree Advisory Board | minutes
 - 645 Holbrook Street
@@ -635,77 +636,43 @@
 - Colliers Hill Urban Renewal Plan)
 - This First Amendment to Intergovernmental Agreement for Tax Increment
 
-## [erie#29] 2026-09-22 | Town Council | agenda
+## [erie#29] 2026-09-22 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
-- C. 2026-127 A Resolution of the Town Council of the Town of Erie Approving an Agreement
-- for Sale and Purchase of CBT Units and an associated Escrow Agreement with Family
-- Trust of Jack E. Chesnut and Janet A. Chesnut for the Purchase of One Hundred Fifty
-- D. 2026-189 A Resolution of the Town Council of the Town of Erie in Support of a Grant
-- Application for Funding from Colorado Parks & Wildlife for Construction of Phase 2A of
-- the Sunset Area Plan Trail Connection and Committing Matching funds for the Grant
-- E. 2026-190 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment to Agreement for Professional Services with DHM Design Corporation for
-- F. 2026-191 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment to Professional Services with Wenk Associates, Inc. for Landscape
-- G. 2026-192 A Resolution of the Town Council of the Town of Erie Approving an
-- Intergovernmental Agreement for Home Water Audit Services with the Board of County
-- H. 2026-193 A Resolution of the Town Council of the Town of Erie in Support of a Grant
-- Application for Funding from the Colorado Department of Local Affairs for the Update to
-- Erie's Unified Development Code and Committing Matching Funds for the Grant
-- I. 2026-194 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment for On-Call Professional Services with Stream Design LLC, d.b.a. Stream
-- J. 2026-195 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment for On-Call Professional Services with Kimley-Horn and Associates, Inc
-- K. 2026-196 A Resolution of the Town Council of the Town of Erie Approving Three
-- Conditional Temporary Water Meter Standards for Water Line Transitions Resulting from
-- the Discontinuation of Automatic Fire Sprinkler Requirements in Residential Construction
-- L. 2026-197 A Resolution of the Town Council of the Town of Erie Approving a Cooperative
-- Agreement Construction Contract with JOC Construction, LLC, for Linear Park Mainline
-- M. 2026-198 A Resolution of the Town Council of the Town of Erie Approving a Revocable
-- License Agreement with The Old Mine Brewing Company for Encroachment in the Right
-- of-Way at 500 Briggs Street
-- N. 2026-199 A Resolution of the Town Council of the Town of Erie Approving a Revocable
-- License Agreement with Sweets Ltd. for Encroachment in the Right-of-Way at 502 Briggs
-- O. 2026-200 A Resolution of the Town Council of the Town of Erie Approving the Westerly
-- Commercial Site Plan Agreement
+- General Business to before Public Comment
+- Council Member John Mortellaro made a motion to approve the Amended Agenda. Council
+- Council Member John Mortellaro made a motion to approve the Consent Agenda. Council
+- C. A Resolution of the Town Council of the Town of Erie Approving an Agreement for Sale
+- and Purchase of CBT Units and an associated Escrow Agreement with Family Trust of
+- Jack E. Chesnut and Janet A. Chesnut for the Purchase of One Hundred Fifty (150)
+- D. A Resolution of the Town Council of the Town of Erie in Support of a Grant Application for
+- Funding from Colorado Parks & Wildlife for Construction of Phase 2A of the Sunset Area
+- Plan Trail Connection and Committing Matching funds for the Grant
+- E. A Resolution of the Town Council of the Town of Erie Approving the First Amendment to
+- Agreement for Professional Services with DHM Design Corporation for Landscape
+- F. A Resolution of the Town Council of the Town of Erie Approving the First Amendment to
+- G. A Resolution of the Town Council of the Town of Erie Approving an Intergovernmental
+- Agreement for Home Water Audit Services with the Board of County Commissioners of
+- H. A Resolution of the Town Council of the Town of Erie in Support of a Grant Application for
+- Development Code and Committing Matching Funds for the Grant
+- I. A Resolution of the Town Council of the Town of Erie Approving the First Amendment for
+- J. A Resolution of the Town Council of the Town of Erie Approving the First Amendment for
+- K. A Resolution of the Town Council of the Town of Erie Approving Three Conditional
+- Temporary Water Meter Standards for Water Line Transitions Resulting from the
+- Discontinuation of Automatic Fire Sprinkler Requirements in Residential Construction
+- L. A Resolution of the Town Council of the Town of Erie Approving a Cooperative Agreement
+- Construction Contract with JOC Construction, LLC, for Linear Park Mainline S&S Irrigation
+- M. A Resolution of the Town Council of the Town of Erie Approving a Revocable License
+- Agreement with The Old Mine Brewing Company for Encroachment in the Right-of-Way at
+- 500 Briggs Street
+- N. A Resolution of the Town Council of the Town of Erie Approving a Revocable License
+- Agreement with Sweets Ltd. for Encroachment in the Right-of-Way at 502 Briggs Street
+- O. A Resolution of the Town Council of the Town of Erie Approving the Westerly Commercial
+- Site Plan Agreement
+- V. Public Comment on Non-Agenda and Consent Items Only
+- Mayor Moore read the Public Comment rules and opened Public Comment at 7:14 p.m
 
-## [erie#30] 2026-09-22 | Town Council | agenda
-- 645 Holbrook Street
-- III. Approval of the Agenda
-- C. 2026-127 A Resolution of the Town Council of the Town of Erie Approving an Agreement
-- for Sale and Purchase of CBT Units and an associated Escrow Agreement with Family
-- Trust of Jack E. Chesnut and Janet A. Chesnut for the Purchase of One Hundred Fifty
-- D. 2026-189 A Resolution of the Town Council of the Town of Erie in Support of a Grant
-- Application for Funding from Colorado Parks & Wildlife for Construction of Phase 2A of
-- the Sunset Area Plan Trail Connection and Committing Matching funds for the Grant
-- E. 2026-190 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment to Agreement for Professional Services with DHM Design Corporation for
-- F. 2026-191 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment to Professional Services with Wenk Associates, Inc. for Landscape
-- G. 2026-192 A Resolution of the Town Council of the Town of Erie Approving an
-- Intergovernmental Agreement for Home Water Audit Services with the Board of County
-- H. 2026-193 A Resolution of the Town Council of the Town of Erie in Support of a Grant
-- Application for Funding from the Colorado Department of Local Affairs for the Update to
-- Erie's Unified Development Code and Committing Matching Funds for the Grant
-- I. 2026-194 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment for On-Call Professional Services with Stream Design LLC, d.b.a. Stream
-- J. 2026-195 A Resolution of the Town Council of the Town of Erie Approving the First
-- Amendment for On-Call Professional Services with Kimley-Horn and Associates, Inc
-- K. 2026-196 A Resolution of the Town Council of the Town of Erie Approving Three
-- Conditional Temporary Water Meter Standards for Water Line Transitions Resulting from
-- the Discontinuation of Automatic Fire Sprinkler Requirements in Residential Construction
-- L. 2026-197 A Resolution of the Town Council of the Town of Erie Approving a Cooperative
-- Agreement Construction Contract with JOC Construction, LLC, for Linear Park Mainline
-- M. 2026-198 A Resolution of the Town Council of the Town of Erie Approving a Revocable
-- License Agreement with The Old Mine Brewing Company for Encroachment in the Right
-- of-Way at 500 Briggs Street
-- N. 2026-199 A Resolution of the Town Council of the Town of Erie Approving a Revocable
-- License Agreement with Sweets Ltd. for Encroachment in the Right-of-Way at 502 Briggs
-- O. 2026-200 A Resolution of the Town Council of the Town of Erie Approving the Westerly
-- Commercial Site Plan Agreement
-
-## [erie#31] 2026-09-28 | Historic Preservation Advisory Board | agenda
+## [erie#30] 2026-09-28 | Historic Preservation Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -717,94 +684,32 @@
 - h. Railroad History Grant
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#32] 2026-09-29 | General | agenda
+## [erie#31] 2026-09-29 | General | minutes
 - 645 Holbrook Street
-- Tuesday, September 29, 2026 5:00 PM 645 Holbrook Street
 - III. Approval of the Agenda
+- Brian O'Connor made a motion to approve the agenda. John Mortellaro seconded the motion
 - IV. Public Comment
-- This agenda item provides the public the opportunity to discuss items that are not on the
-- agenda or items that are not public hearings. The Town Council is not prepared to decide on
+- With no one signed up to speak Mayor Moore opened and closed Public Comment at 5:03 PM
 - A. EXECUTIVE SESSION to discuss personnel matters and interview feedback related to
 - relative to a potential employment agreement negotiation, including developing strategy
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+- Approved ________________________
 
-## [erie#33] 2026-09-29 | General | agenda
+## [erie#32] 2026-10-06 | Town Council | minutes
 - 645 Holbrook Street
-- Tuesday, September 29, 2026 5:00 PM 645 Holbrook Street
-- III. Approval of the Agenda
-- IV. Public Comment
-- This agenda item provides the public the opportunity to discuss items that are not on the
-- agenda or items that are not public hearings. The Town Council is not prepared to decide on
-- A. EXECUTIVE SESSION to discuss personnel matters and interview feedback related to
-- relative to a potential employment agreement negotiation, including developing strategy
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
-- Town Manager currently in the role. The Town opened applications for Town Manager for the
-- month of August and collected 60 applications from candidates in Colorado and nationwide. An initial
-- questions, and candidate materials. The position brochure continues to be our roadmap and
-
-## [erie#34] 2026-10-06 | Town Council | agenda
-- 645 Holbrook Street
-- Tuesday, October 6, 2026 6:00 PM 645 Holbrook Street
 - III. Approval of the Agenda
 - IV. Public Comment on Non-Agenda and Consent Items Only
-- This agenda item provides the public an opportunity to discuss items that are not on the
+- Mayor Moore read the Public Comment rules and opened Public Comment at 6:01 PM
+- 6. Ryan Fargo spoke in favor of Compass Park & safe sidewalks
+- 7. Ryder Fargo spoke in favor of Compass Park & safe sidewalks
+- 8. Tristen Fargo spoke in favor of Compass Park & safe sidewalks
+- Mayor Moore closed Public Comment at 6:28 p.m
+- Mayor Moore opened the item up for Public Comment at 6:29 p.m
 - B. 2027 Budget Study Session
-- C. Review 2027 Draft Work Plan Items
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+- Sara Sands, Director of Finance, and Cassie Bethune, Budget & Fiscal Manager,
+- Department Directors joined the meeting to present their specific budget numbers for
+- Approved ________________________
 
-## [erie#35] 2026-10-06 | Town Council | agenda
-- 645 Holbrook Street
-- Tuesday, October 6, 2026 6:00 PM 645 Holbrook Street
-- III. Approval of the Agenda
-- IV. Public Comment on Non-Agenda and Consent Items Only
-- This agenda item provides the public an opportunity to discuss items that are not on the
-- B. 2027 Budget Study Session
-- C. Review 2027 Draft Work Plan Items
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
-- Continue with the project and evaluate once traffic calming has been installed
-- Staff will present an update on the current status of the project and answer questions
-- 2027 Budget Study Session
-- Cassie Bethune, Budget & Fiscal Manager
-- The Town Council is responsible for approving the budget for the Town per the Town
-- This presentation is for informational purposes and gathering feedback from the Council
-- to use in creating the Recommended 2027 Budget
-- The Town's adopted budget provides funding for all Town of Erie programs, services,
-- capital projects, and initiatives in 2027
-- The attached memo outlines the details of the proposed 2027 Budget, including:
-- 2027 Revenue Projections
-- Departmental Budgets and Position Changes
-- Attachments and Presentation information of the Capital Improvement Plan
-- The Town Charter requires the Town Manager to submit a proposed budget to the
-- Town Council annually and be responsible for the administration of the budget after its
-- adoption. Through this agenda item, staff submits the proposed 2027 Budget to the
-- Council and requests Public Hearings on the proposed budget on Oct. 27 (1st hearing)
-- and Nov. 10 (2nd hearing and adoption of final budget)
-- 1. Presentation
-- 2. 2027 Proposed Budget Memo
-- 3. 5-Year Capital Plan 2027-2031
-- 4. 2027 CIP Projects
-- 2027 Budget Presentation
--  2027 Budget Process
--  Revenue Projections
--  Department Presentations
-- 2027 Budget Process
-- Budget opened for departments May 1 for Operating, Personnel, and
-- Capital budgets
-- Budget closed June 12 and EBT began reviewing departmental budgets
-- balance the budget for 2027 and through 2031
-- Personnel and Compensation considerations were weighed by EBT
-- Recommended budget finalized in October for release on Oct. 15, per
-- 2027 Budget Process cont
-- Use budget targets to establish budget goals and strategy
-- Establishes linkage between the budget and adopted community and
-- Achieves a structurally balanced budget through effective projection of
-- Key Budget Deadlines:
-- Oct. 15 – Recommended Budget Released for Public Review
-- Oct. 27 – Public Hearing and 1st Reading
-- Nov. 10 – 2nd Reading and Budget Adoption
-- Dec. 8 – Final 2026 Supplemental and Mill Levy Certification
-
-## [erie#36] 2026-10-07 | Planning Commission | agenda
+## [erie#33] 2026-10-07 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -823,7 +728,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#37] 2026-10-07 | Planning Commission | agenda
+## [erie#34] 2026-10-07 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -864,42 +769,43 @@
 - additional discussion about modifying it was needed at this time
 - Planning Commissions to make recommendations on Comprehensive Plan amendments,
 
-## [erie#38] 2026-10-13 | Town Council | agenda
+## [erie#35] 2026-10-13 | Town Council | minutes
 - 645 Holbrook Street
 - III. Approval of the Agenda
+- Mayor Pro Tem Brandon Bell made a motion to approve the Agenda. Council Member Brian
+- Council Member Brian O'Connor made a motion to approve the Consent Agenda. Mayor Pro
 - A. Approval of the August 25, 2026 Town Council Meeting Minutes
 - B. Approval of the September 1, 2026 Town Council Special Meeting and Study Session
 - C. Approval of the September 15, 2026 Town Council Special Meeting Minutes
-- D. 2026-210 A Resolution of the Town Council of the Town of Erie Approving a License
-- Agreement for Crossing of Fiber Optic Cable Line with Erie Coal Creek Ditch Reservoir
-- E. 2026-205 A Resolution of the Town Council of the Town of Erie Approving a Second
-- Amendment to the Subrecipient Agreement for Community Development Block Grant
-- F. 2026-211 A Resolution of the Town Council of the Town of Erie Approving a Task Order
-- with Freese and Nichols, Inc for Development Engineering Staff Augmentation
-- G. 2026-212 A Resolution of the Town Council of the Town of Erie Approving Two
-- Agreements with the State of Colorado Department of Transportation for Grant Funding
-- H. 2026-206 A Resolution of the Town Council of the Town of Erie Approving a Fourth
-- Amendment Agreement for General Services with E&M Concrete, LLC for Concrete
-- I. 2026-207 A Resolution of the Town Council of the Town of Erie Approving a Development
+- D. A Resolution of the Town Council of the Town of Erie Approving a License Agreement for
+- E. A Resolution of the Town Council of the Town of Erie Approving a Second Amendment to
+- the Subrecipient Agreement for Community Development Block Grant Funds with Weld
+- F. A Resolution of the Town Council of the Town of Erie Approving a Task Order with Freese
+- and Nichols, Inc for Development Engineering Staff Augmentation
+- G. A Resolution of the Town Council of the Town of Erie Approving Two Agreements with the
+- State of Colorado Department of Transportation for Grant Funding for the Operation of the
+- H. A Resolution of the Town Council of the Town of Erie Approving a Fourth Amendment
+- Agreement for General Services with E&M Concrete, LLC for Concrete Maintenance
+- I. A Resolution of the Town Council of the Town of Erie Approving a Development
 - Agreement and Accepting Dedications as shown on the Final Plat for the Summerfield
-- J. 2026-208 A Resolution of the Town Council of the Town of Erie Approving the 2027
-- Operating Plan and 2027 Budget for the Erie Sports Business Improvement District
-- K. 2026-209 A Resolution of the Town Council of the Town of Erie Approving the 2027
-- Operating Plan and 2027 Budget for the Four Corners Business Improvement District
-- L. 33-2026 An Ordinance of the Town Council of the Town of Erie Assigning the Property
-- Annexation to Council District 1
-- M. 2026-204 A Resolution of the Town Council of the Town of Erie Approving an
-- Intergovernmental Agreement for Extended Producer Responsibilty Education and
+- J. A Resolution of the Town Council of the Town of Erie Approving the 2027 Operating Plan
+- and 2027 Budget for the Erie Sports Business Improvement District
+- K. A Resolution of the Town Council of the Town of Erie Approving the 2027 Operating Plan
+- and 2027 Budget for the Four Corners Business Improvement District
+- L. An Ordinance of the Town Council of the Town of Erie Assigning the Property Added to
+- the Municipal Boundaries of the Town of Erie Pursuant to the Erie West Annexation to
+- M. A Resolution of the Town Council of the Town of Erie Approving an Intergovernmental
+- Agreement for Extended Producer Responsibilty Education and Outreach Services with
 - VI. Public Comment on Non-Agenda and Consent Items Only
-- This agenda item provides the public an opportunity to discuss items that are not on the
-- A. 34-2026 PUBLIC HEARING: An Ordinance of the Town Council of the Town of Erie
-- Approving the Vista Ridge Planned Development Amendment No. 9
-- B. 35-2026 PUBLIC HEARING: An Ordinance Amending Title 10 of the UDC, Adding
-- Chapter 16 Short-Term Rentals, and Amending Chapter 3 Use Regulations and Chapter
-- C. Erie Municipal Airport Hangar Development Update
-- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+- Mayor Moore read the Public Comment Ruies and opened Public Comment at 6:42 p.m
+- With no additional speakers, Mayor Moore closed Public Comment at 6:52 p.m
+- A. PUBLIC HEARING: An Ordinance of the Town Council of the Town of Erie Approving the
+- Vista Ridge Planned Development Amendment No. 9
+- Mayor Moore opened the Public Hearing at 6:52 PM
+- Heidi Majerik, President - Gauge Land Development, and Matt Shock, General Manager
+- of the Golf Course, presented their presentation at 7:01 PM
 
-## [erie#39] 2026-10-14 | Tree Advisory Board | agenda
+## [erie#36] 2026-10-14 | Tree Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -907,7 +813,7 @@
 - 5. Public Comment
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#40] 2026-10-15 | Airport Economic Development Advisory Board | agenda
+## [erie#37] 2026-10-15 | Airport Economic Development Advisory Board | agenda
 - Airport Economic Development
 - 645 Holbrook Street
 - III. Approval of the Agenda
@@ -916,7 +822,7 @@
 - D. Discussion to Modernize Municipal Code § 2-7-2 (Airport Fund)
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#41] 2026-10-20 | Town Council | agenda
+## [erie#38] 2026-10-20 | Town Council | agenda
 - 645 Holbrook Street
 - Tuesday, October 20, 2026 6:30 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -928,7 +834,7 @@
 - D. Discussion/Direction - Revisions to Economic Incentives Policy
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#42] 2026-10-20 | Town Council | agenda
+## [erie#39] 2026-10-20 | Town Council | agenda
 - 645 Holbrook Street
 - Tuesday, October 20, 2026 6:30 PM 645 Holbrook Street
 - III. Approval of the Agenda
@@ -970,7 +876,7 @@
 - Council, performed on Johnson's time off with prior written approval of the Town Council
 - d. Johnson is permitted to exercise a flexible work schedule. However,
 
-## [erie#43] 2026-10-21 | Planning Commission | agenda
+## [erie#40] 2026-10-21 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -981,7 +887,7 @@
 - Commission discussion items, not listed on the agenda
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
 
-## [erie#44] 2026-10-21 | Planning Commission | agenda
+## [erie#41] 2026-10-21 | Planning Commission | agenda
 - 645 Holbrook Street
 - Sign Up for Public Comment
 - III. Approval of the Agenda
@@ -1030,7 +936,7 @@
 - Each zoning district allows for different uses, design standards,
 - Open Space Properties – Current Zoning
 
-## [erie#45] 2026-10-26 | Historic Preservation Advisory Board | agenda
+## [erie#42] 2026-10-26 | Historic Preservation Advisory Board | agenda
 - 645 Holbrook Street
 - 3. Approval of the Agenda
 - 4. Approval of Minutes
@@ -1039,4 +945,32 @@
 - b. Budget Report
 - i. Contract with ERO being completed by Town Staff
 - g. Railroad History Grant
+- Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting
+
+## [erie#43] 2026-10-27 | Town Council | agenda
+- 645 Holbrook Street
+- III. Approval of the Agenda
+- A. Approval of the September 8, 2026 Town Council Meeting Minutes
+- B. Approval of the September 22, 2026 Town Council Meeting Minutes
+- C. Approval of the September 29, 2026 Town Council Meeting Minutes
+- D. Approval of the October 6, 2026 Town Council Special Meeting Minutes
+- E. Approval of the October 13, 2026 Town Council Meeting Minutes
+- G. 2026-216 A Resolution of the Town Council of the Town of Erie Approving a Second
+- Amendment to RockSol Consulting Contract for the Downtown Alleyway Improvements
+- H. 2026-215 A Resolution of the Town Council of the Town of Erie Approving a Third
+- Amendment to Construction Contract with RCD Construction, Inc. for the Vista Ridge
+- I. 2026-217 A Resolution of the Town Council of the Town of Erie Approving the Fourth
+- Amendment to Construction Contract with A&M Renovations, LLC, for the Schofield Farm
+- J. 2026-213 A Resolution of the Town Council of the Town of Erie Authorizing the Town
+- Manager to File an Application on behalf of Town Council to Subdivide Town-Owned
+- K. 2026-218 A Resolution of the Town Council of the Town of Erie Approving a Fourth
+- Amendment to Agreement for General Services with Gonzo Tennis, Inc., for Tennis
+- L. 2026-219 A Resolution of the Town Council of the Town of Erie Establishing a Fee for
+- Short-Term Rental Permit Applications
+- V. Public Comment on Non-Agenda and Consent Items Only
+- This agenda item provides the public an opportunity to discuss items that are not on the
+- A. First Reading of the Town of Erie 2027 Proposed Budget
+- B. Review 2027 Draft Work Plan Items
+- D. Discussion/Direction - Property & Liability Insurance Changes for 2027
+- 402(4)(b) and (e) related to the Global Settlement Intergovernmental Agreement
 - Office or call 303-926-2710. Please submit requests at least 48 hours prior to the meeting

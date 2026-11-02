@@ -1,128 +1,136 @@
-- title: Data center land use and water service to neighboring jurisdictions
-  summary: After adopting Resolution No. 20 on July 27, 2026 supporting an interpretation that data centers are a prohibited use in Westminster, Council asked for a study session on the October 19 agenda. It covers data centers proposed just outside city limits, concerns about water use and extraterritorial utility service, and new data center language for the Unified Development Code.
-  where: Citywide and neighboring jurisdictions
+- title: Data center zoning and neighboring-jurisdiction data centers
+  summary: After Resolution No. 20 (July 27, 2026) backed an interpretation that data centers are a prohibited use in Westminster, Council held an Oct. 19 study session on writing stronger data center language into the Unified Development Code. Council also discussed concerns about water use and utility service for data centers proposed just outside city limits.
+  where: Citywide and nearby neighboring jurisdictions
   refs:
-  - 15
-  tags:
-  - data-center
+  - 14
   topics:
   - Data centers
-  - Water
   - Zoning & development
-- title: 2027-2028 water, sewer and stormwater rates
-  summary: Council reviewed rate recommendations built on the WATER Task Force report, with a follow-up on single-family residential water rates. A public hearing on 2027-2028 stormwater fee changes was set for September 14. Ordinances implementing water, sewer and reclaimed water rates (Bill 40) and stormwater fees (Bill 43) moved through readings from September to October.
+  - Water
+  tags:
+  - data-center
+- title: Automated license plate readers (Flock cameras) discontinued
+  summary: Police presented on automated license plate readers at an Oct. 5 study session. On Oct. 26 Council took up Resolution No. 46 on discontinuing the technology, and residents spoke against Flock cameras citing data retention, cybersecurity and privacy.
+  where: Citywide
+  refs:
+  - 9
+  - 15
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
+  public_comment: true
+- title: 2027 city budget
+  summary: Council reviewed the proposed 2027 budget, held a public hearing Sept. 14 and took second reading of the budget on Oct. 26. The charter requires adoption by Oct. 26. Related hearings covered the Westminster Economic Development Authority budget and the General Improvement District budgets and mill levies.
+  where: Citywide
+  refs:
+  - 2
+  - 5
+  - 6
+  - 11
+  - 12
+  - 15
+  topics:
+  - Budget & taxes
+- title: Affordable housing definition, density bonus and down payment assistance
+  summary: Council moved ordinances amending the 2040 Comprehensive Plan to add an affordable housing density bonus, a revised definition and parking provisions (Councillor's Bills 39 and 36). Staff also presented a proposed Down Payment Assistance Program offering up to 20 percent of the purchase price, with an RFP that closed Sept. 3. Other items included Housing LIFT agreements, right-of-first-refusal agreements for multifamily housing, and Proposition 123 expedited review policies.
+  where: Citywide
+  refs:
+  - 2
+  - 4
+  - 5
+  - 8
+  - 15
+  topics:
+  - Housing
+  - Zoning & development
+- title: Water, sewer and stormwater rates and fees
+  summary: Council considered 2027 and 2028 single-family water rates, water, sewer and reclaimed water rates and fees (Councillor's Bill 40), and stormwater fee changes (Bills 43). It also revisited the non-residential roadway improvement fee.
   where: Citywide
   refs:
   - 0
-  - 2
-  - 6
-  - 9
-  - 11
+  - 1
+  - 5
+  - 8
+  - 10
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: Proposed 2027 budget
-  summary: The proposed 2027 budget was presented August 24, had a public hearing September 14, and was reviewed by Council September 21. Council must adopt it by October 26, 2026. Related 2027 budgets for the Westminster Economic Development Authority (about $14.4 million in expenditures) and the city's general improvement districts had hearings October 12.
-  where: Citywide
-  refs:
-  - 3
-  - 6
-  - 7
-  - 12
-  - 13
-  topics:
-  - Budget & taxes
-  - Economic development
-- title: Affordable housing definition, density bonus and down payment assistance
-  summary: Council took up bills to amend the 2040 Comprehensive Plan with a density bonus and a new affordable housing definition, plus a parking change, passing second reading September 28. Staff also presented a proposed Down Payment Assistance program offering up to 20 percent of the purchase price, with a contractor being selected after the RFP closed September 3. Housing LIFT agreements with Maiker Housing Partners and Foothills Regional Housing were also updated.
-  where: Citywide
-  refs:
-  - 3
-  - 5
-  - 6
-  - 9
-  topics:
-  - Housing
-  - Zoning & development
 - title: Event center moratorium and new ordinance
-  summary: Council enacted a six-month moratorium on new event centers in multi-tenant commercial developments or within 300 feet of residential areas, citing impacts on public safety, water and sewer, parking, and neighboring businesses. Staff returned October 5 with a revised version of Councillor's Bill No. 19 after talking with operators.
-  where: Citywide
+  summary: Council enacted a six-month moratorium on new event centers in multi-tenant commercial developments or within 300 feet of residential areas, citing impacts on public safety, water and sewer, parking and traffic. Staff presented revised recommendations for Councillor's Bill No. 19 on Oct. 5 after meeting with operators.
+  where: Citywide, commercial areas near residential
   refs:
-  - 10
+  - 9
   topics:
   - Zoning & development
   - Downtown & business
-- title: Regional homelessness agreements and Navigation Center
-  summary: Council considered intergovernmental agreements with Jefferson County and the cities of Arvada, Edgewater, Golden, Lakewood and Wheat Ridge on homelessness, including a Navigation Center in Lakewood. A resident urged Council to consider a navigation center closer to Westminster. Staff also gave a homelessness prevention and response update.
+- title: Jefferson County homelessness and navigation center agreements
+  summary: Council authorized intergovernmental agreements with Jefferson County and several cities on homelessness and a navigation center in Lakewood, and received a homelessness prevention and response update. A resident urged consideration of a navigation center closer to Westminster.
   where: Navigation Center in Lakewood
   refs:
-  - 5
-  - 9
-  - 11
-  public_comment: true
+  - 4
+  - 8
+  - 10
   topics:
   - Homelessness
   - Health & human services
-- title: Kaiser North redevelopment
-  summary: Council held a public hearing and first reading on a Comprehensive Plan amendment and a preliminary development plan amendment for the Kaiser North redevelopment (Councillor's Bill No. 42).
-  where: Kaiser North
+  public_comment: true
+- title: Kaiser North redevelopment and Mountain Range High School appeal
+  summary: Council held a public hearing on the Kaiser North Comprehensive Plan amendment and Preliminary Development Plan amendment. It also heard an appeal of the denial of an Official Development Plan for the Mountain Range High School Nutrition Center.
+  where: Kaiser North; Mountain Range High School
   refs:
-  - 9
+  - 0
+  - 8
   topics:
   - Zoning & development
+- title: Economic development agreements and Holly Park sale
+  summary: Council approved economic development agreements with Mi Pueblo Market and Digantara U.S. and a scratch kitchen and food warehouse at 12450 Delaware Street. The Economic Development Authority considered selling Holly Park property to Pumpkin Ridge Holdings, LLC.
+  where: 12450 Delaware Street; Holly Park
+  refs:
+  - 0
+  - 2
+  - 11
+  topics:
+  - Economic development
   - Land & property
-- title: Business tax administration modernization
-  summary: Staff proposed requiring online filing and payment of business tax returns starting January 1, 2027, letting the Finance Director set filing methods and allowing electronic notices. About 94 percent of the 77,424 returns filed in 2025 were already online. Resident taxpayers are not affected, and the ordinance moved through readings in September.
+- title: Business tax modernization and online filing
+  summary: Staff proposed requiring online filing and payment of business tax returns starting Jan. 1, 2027, with exceptions for taxpayers without internet. About 94 percent of 77,424 returns in 2025 were filed online. An ordinance moved through readings in September.
   where: Citywide
   refs:
-  - 2
-  - 6
-  - 9
+  - 1
+  - 5
+  - 8
   topics:
   - Budget & taxes
   - Government operations
-- title: 'Economic development deals: Mi Pueblo, Digantara, Scratch Kitchen'
-  summary: Council approved an economic development agreement with Mi Pueblo Market for adaptive reuse and one with Digantara U.S. over its location in the city. Council also considered an intergovernmental agreement supporting a Scratch Kitchen and food warehouse at 12450 Delaware Street. An executive session covered incentives for a restaurant prospect.
-  where: 12450 Delaware Street
-  refs:
-  - 1
-  - 2
-  - 3
-  topics:
-  - Economic development
-  - Downtown & business
-- title: Mountain Range High School Nutrition Center appeal
-  summary: Council held a public hearing on an appeal of the denial of an Official Development Plan for the Mountain Range High School Nutrition Center.
-  where: Mountain Range High School
-  refs:
-  - 1
-  topics:
-  - Schools & youth
-  - Zoning & development
-- title: Rental housing costs and conditions
-  summary: A Westminster renter told Council about rising rents and mold and other housing conditions. Council also moved forward on a property maintenance code update (Bill 38).
+- title: Childcare market study and property tax rebate
+  summary: A market study found a need for licensed childcare spaces for 3,695 children. Council considered a Child Care Provider Property Tax Rebate Program (Councillor's Bill 51).
   where: Citywide
   refs:
-  - 6
-  - 9
-  - 11
-  public_comment: true
+  - 15
+  - 16
   topics:
-  - Housing
-- title: Waste hauler licensing, Skip the Stuff and recycling proposals
-  summary: 'Staff presented three possible code changes: hauler licensing amendments, a Skip the Stuff ordinance, and a construction and deconstruction ordinance. They build on a CU Boulder student study and Colorado''s packaging recycling program.'
+  - Schools & youth
+  - Economic development
+- title: Rental housing conditions and rising rents
+  summary: A Westminster renter spoke about rising rents and mold in rental housing, and urged healthy housing standards. Council also took up adoption of a residential property maintenance code.
   where: Citywide
   refs:
   - 8
-  topics:
-  - Environment & climate
-  - Utilities
-- title: Automated license plate readers and fire sprinkler rules
-  summary: The October 5 study session included a Police Department presentation on automated license plate readers and a discussion of residential fire sprinkler requirements.
-  where: Citywide
-  refs:
   - 10
   topics:
-  - Policing & public safety
-  - Fire & emergencies
+  - Housing
+  - Health & human services
+  public_comment: true
+- title: Trails master plan and park projects
+  summary: Council authorized a Trails Master Plan contract with Logan Simpson, work on the Eaton Greenline project, England Park Corridor engineering, pool replastering and Foxshire Park playground replacement. Dog park volunteers also announced an event at Westminster Hills Dog Park.
+  where: Eaton Greenline, England Park, Foxshire Park, Westminster Hills Dog Park
+  refs:
+  - 0
+  - 5
+  - 8
+  - 10
+  topics:
+  - Recreation & trails
+  - Parks & open space
+  public_comment: true

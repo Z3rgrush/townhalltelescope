@@ -1,11 +1,11 @@
-- title: Data center regulations and possible moratorium
-  summary: The Planning & Zoning Commission began a formal review of the county zoning resolution and data center rules at its August 5 meeting, covering water and cooling, electric demand and ratepayer impacts, wildfire and emergency risk, and taxation. A moratorium was proposed but not acted on August 25; on September 8 speakers split on whether a short moratorium is needed, and an October 6 expert panel was announced.
+- title: Data center moratorium and regulations
+  summary: Residents, Pure-Green Colorado (Trapper Reborn project) and Yampa Valley Electric spoke on a proposed data center moratorium (Resolution 2026-103) on Sept 8, mostly opposing it. The Planning & Zoning Commission took up rulemaking and public panel meetings were held in early October. On Oct 13 Commissioner Bohrer called for a motion to adopt the moratorium and got no response, so it died.
   where: Countywide
   refs:
   - 0
   - 1
   - 2
-  - 3
+  - 4
   topics:
   - Data centers
   - Zoning & development
@@ -13,81 +13,78 @@
   tags:
   - data-center
   public_comment: true
-- title: Trapper Reborn project and moratorium concerns
-  summary: Pure-Green Colorado's CEO and other speakers urged commissioners not to pass a data center moratorium that could affect the Trapper Reborn project, citing jobs and tax base. Yampa Valley Electric asked to be part of the energy discussion.
-  where: Trapper Reborn site, Moffat County
-  refs:
-  - 2
-  topics:
-  - Economic development
-  - Data centers
-  - Energy
-  tags:
-  - data-center
-  public_comment: true
-- title: Term limits referendum on November ballot
-  summary: Commissioners approved Resolution 2026-100 referring a term limits question to voters and an intergovernmental agreement with the Clerk's Office to place it on the November ballot. Both passed 3-0.
+- title: 2027 County Budget public hearing
+  summary: A public hearing was held Oct 13 to present and adopt the proposed 2027 Moffat County budget, as required by state statute. The documents excerpted do not state the final vote.
   where: Countywide
   refs:
-  - 1
+  - 4
+  topics:
+  - Budget & taxes
+- title: Term limits referendum on November ballot
+  summary: Commissioners approved Resolution 2026-100 referring a term limits question to voters, plus an intergovernmental agreement with the Clerk's Office to place it on the November ballot. Both passed 3-0.
+  where: Countywide
+  refs:
+  - 0
   topics:
   - Elections
   - Government operations
-- title: Loudy-Simpson Park Master Plan
-  summary: Development Services proposed hiring Logan Simpson to produce a master plan for Loudy-Simpson Park. The contract was on the September 22 consent agenda.
-  where: Loudy-Simpson Park
-  refs:
-  - 2
-  - 3
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: Craig skatepark grant applications
-  summary: Commissioners approved grant applications of $25,000 each to the Laura Jane Musser Fund and El Pomar Foundation toward building a skatepark. The Craig Skatepark Alliance also plans a GOCO application in January.
+- title: Craig skatepark funding and design
+  summary: The Craig Skatepark Alliance and county staff won approval to apply for $25,000 grants each from the Laura Jane Musser Fund and El Pomar Foundation toward construction. The group plans a GOCO application in January, and a services agreement with Grindline Skateparks was on the Oct 13 consent agenda.
   where: Craig
   refs:
-  - 3
+  - 2
+  - 4
   topics:
   - Recreation & trails
   - Parks & open space
-- title: July budget supplemental (Resolution 2026-83)
-  summary: After a public hearing with no public comment, commissioners approved the July supplemental budget, which lets departments amend budgets for changed revenues, grants or unexpected needs.
+- title: Loudy-Simpson Park Master Plan
+  summary: Staff presented a Logan Simpson proposal for a master plan for Loudy-Simpson Park, and the contract was on the Sept 22 consent agenda.
+  where: Loudy-Simpson Park
+  refs:
+  - 1
+  - 2
+  topics:
+  - Parks & open space
+  - Recreation & trails
+- title: Echo Park Road (CR 156) closure after flash flooding
+  summary: Commissioners approved Resolution 2026-120 temporarily closing County Road 156 in Dinosaur National Monument because of flood erosion. The Park Service has archaeological concerns to investigate before road repairs can begin.
+  where: County Road 156 (Echo Park Road), Dinosaur National Monument
+  refs:
+  - 3
+  topics:
+  - Roads & traffic
+  - Environment & climate
+- title: Road & Bridge snow bank payment policy
+  summary: A Road & Bridge employee, George Miner, asked commissioners to examine inconsistencies in the snow bank payment policy and followed up on Sept 8 about his earlier request.
   where: Countywide
   refs:
   - 0
-  topics:
-  - Budget & taxes
-- title: 'Road department concerns: snow bank pay policy and chip seal'
-  summary: A county Road & Bridge employee asked commissioners to examine inconsistencies in the snow bank payment policy and followed up on September 8. A resident also questioned excess gravel on the CR 7 chip seal project.
-  where: County Road 7 and county roads
-  refs:
-  - 0
   - 1
-  - 2
   topics:
   - Roads & traffic
   - Government operations
   public_comment: true
-- title: Employee Health Insurance Advisory Board reinstated
-  summary: Commissioners were asked to reinstate the Employee Health Insurance Advisory Board and appointed five employee-elected members to recommend plan improvements.
-  where: Countywide
+- title: Vermillion/Great Divide shop project
+  summary: The county approved a contract amendment with Charchalis Construction for the Vermillion Shop and later took up fuel tank removal testing and consultation for the Great Divide/Vermillion Shop project.
+  where: Vermillion Shop
   refs:
-  - 2
+  - 4
+  - 5
   topics:
   - Government operations
-- title: Wolf Creek Reservoir jurisdictional determination
-  summary: A request for a new approved jurisdictional determination for the Wolf Creek Reservoir Project was on the September 22 consent agenda.
-  where: Wolf Creek Reservoir
-  refs:
-  - 3
-  topics:
-  - Water
   - Land & property
-- title: Welba Peak mineral lease
-  summary: Commissioners approved Resolution 2026-96 for the Welba Peak mineral lease.
-  where: Welba Peak
+- title: Employee Health Insurance Advisory Board reinstated
+  summary: Commissioners were asked to reinstate the Employee Health Insurance Advisory Board and appoint five employee-elected members to recommend improvements to the plan. Bohrer moved to appoint the five members.
+  where: Countywide
   refs:
   - 1
   topics:
-  - Oil, gas & mining
-  - Land & property
+  - Government operations
+- title: Wolf Creek Reservoir jurisdictional determination
+  summary: A request for a new approved jurisdictional determination for the Wolf Creek Reservoir Project was on the consent agenda on Sept 22.
+  where: Wolf Creek Reservoir
+  refs:
+  - 2
+  topics:
+  - Water
+  - Environment & climate

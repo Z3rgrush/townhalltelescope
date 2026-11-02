@@ -1,34 +1,11 @@
 # johnstown
 
-## [johnstown#0] 2026-08-03 | Town Council | agenda
-- Agenda Approval
-- Special Presentations
-- Public Comment
-- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
-- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
-- same position on a given item, they are requested to select a spokesperson to state that
-- The Consent Agenda includes routine items that are approved together through a single motion
-- and vote. Any member of the Council or staff may request to remove an item from the Consent
-- Agenda and move it to the Regular Agenda for separate discussion
-- 4. Ordinance 2026-294: Approving the Rezoning of Real Property known as Whitehall
-- 6. Ordinance 2026-295: An Ordinance Establishing a Temporary Moratorium on Data
-- 8. Discussion: June 22, 2026 Motion Regarding the Town and YMCA
-- Public Hearing
-- 9. Riverbend Estates P.U.D. Filing No. 1 Final Plat and Final Development Plan
-- Resolution 2026-36: Riverbend Estates P.U.D. Filing No. 1 Final Plat
-- Ordinance 2026-296: Riverbend Estates P.U.D. Filing No. 1 Final Development Plan
-- Subdivision Development and Improvement Agreement
-- Water and Sewer Service Agreement
-- 11. An executive session to discuss matters subject to negotiations and to instruct
-- negotiators pursuant to C.R.S. Section 24-6-402(4)(e) regarding YMCA Contract
-- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
-
-## [johnstown#1] 2026-08-10 | Town Council | agenda
+## [johnstown#0] 2026-08-10 | Town Council | agenda
 - 1. Stormwater Master Plan Rate Study Presentation
 - 2. Discussion: Northern Integrated Supply Project (NISP)
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#2] 2026-08-10 | Town Council | agenda
+## [johnstown#1] 2026-08-10 | Town Council | agenda
 - 1. Stormwater Master Plan Rate Study Presentation
 - 2. Discussion: Northern Integrated Supply Project (NISP)
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
@@ -70,7 +47,7 @@
 - Contractual Services (cleaning, repairs, camera
 - Improvement Projects (CIP)
 
-## [johnstown#3] 2026-08-12 | Planning and Zoning Commission | agenda
+## [johnstown#2] 2026-08-12 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - Agenda Approval
 - Approval of Minutes
@@ -85,7 +62,7 @@
 - Presentation Plan of Development Services
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#4] 2026-08-12 | Planning and Zoning Commission | agenda
+## [johnstown#3] 2026-08-12 | Planning and Zoning Commission | agenda
 - Planning and Zoning Commission
 - Agenda Approval
 - Approval of Minutes
@@ -129,7 +106,7 @@
 - Podtburg Subdivision Filing No. 1. The approved Final Plat created Tract C, where the proposed
 - Wireless Communications Facility is located, while the approved FDP serves as the governing
 
-## [johnstown#5] 2026-08-17 | Town Council | minutes
+## [johnstown#4] 2026-08-17 | Town Council | minutes
 - AGENDA APPROVAL
 - PUBLIC COMMENT
 - Karla Humphrey. 611 Charlotte Street. asked about plans for future AI centers and what happens
@@ -163,11 +140,11 @@
 - Propert ' and to discuss the matters subject to negotiations and to instruct negotiators pursuant to C. R. S
 - Approved by Town Council:
 
-## [johnstown#6] 2026-08-24 | Town Council | agenda
+## [johnstown#5] 2026-08-24 | Town Council | agenda
 - Hoffmann Parker Wilson & Carberry - 5:00 - 6:15 pm
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#7] 2026-08-24 | Town Council | agenda
+## [johnstown#6] 2026-08-24 | Town Council | agenda
 - Hoffmann Parker Wilson & Carberry - 5:00 - 6:15 pm
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 - Attachments: 1. Hoffmann Parker Wilson & Carberry
@@ -200,7 +177,7 @@
 - transactions, contracts and land use agreements. What is new to one client may be commonplace
 - Hilary would be the point of contact , and all three named attorneys would collaborate to deliver
 
-## [johnstown#8] 2026-09-09 | Town Council | agenda
+## [johnstown#7] 2026-09-09 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -225,11 +202,11 @@
 - 15. An executive session to discuss matters subject to negotiations and to instruct
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#9] 2026-09-28 | Town Council | agenda
+## [johnstown#8] 2026-09-28 | Town Council | agenda
 - 1. Preliminary FY 2027 Budget Work Session
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#10] 2026-09-28 | Town Council | agenda
+## [johnstown#9] 2026-09-28 | Town Council | agenda
 - 1. Preliminary FY 2027 Budget Work Session
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 - SUBJECT: FY 2027 – Proposed Preliminary Budget
@@ -263,7 +240,7 @@
 - Water Revenue Bonds
 - In 2024, the Town issued Water Revenue Bonds to fund capital projects related to the water
 
-## [johnstown#11] 2026-10-05 | Town Council | agenda
+## [johnstown#10] 2026-10-05 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -281,7 +258,7 @@
 - 10. An Executive Session to Discuss the Sale of Real Property Pursuant to C.R.S. Section
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#12] 2026-10-05 | Town Council | agenda
+## [johnstown#11] 2026-10-05 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -317,14 +294,14 @@
 - Parties enter into a Settlement & Release Agreement and YMCA of Northern Colorado reimburse the
 - Appointing Ian McCargar as Administrative Hearing Officer for Election Related Matters
 
-## [johnstown#13] 2026-10-08 | General | agenda
+## [johnstown#12] 2026-10-08 | General | agenda
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#14] 2026-10-16 | Public Meeting Notice | agenda
+## [johnstown#13] 2026-10-16 | Public Meeting Notice | agenda
 - Where: N 6th Street Johnstown, CO 80534
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#15] 2026-10-19 | Town Council | agenda
+## [johnstown#14] 2026-10-19 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -351,7 +328,7 @@
 - C.R.S. Section 24-6-402(4)(b) regarding public safety and police department matter(s)
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#16] 2026-10-19 | Town Council | agenda
+## [johnstown#15] 2026-10-19 | Town Council | agenda
 - Agenda Approval
 - Special Presentations
 - Public Comment
@@ -388,15 +365,15 @@
 - Quality Liquid Fees, Inc
 - Economic Development Director Sarah Crosthwaite presented
 
-## [johnstown#17] 2026-10-21 | Public Meeting Notice | agenda
+## [johnstown#16] 2026-10-21 | Public Meeting Notice | agenda
 - Where: 4781 Thompson Parkway Johnstown, CO 80534
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#18] 2026-10-26 | Town Council | agenda
+## [johnstown#17] 2026-10-26 | Town Council | agenda
 - 1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 
-## [johnstown#19] 2026-10-26 | Town Council | agenda
+## [johnstown#18] 2026-10-26 | Town Council | agenda
 - 1. Johnstown Housing Needs Assessment and Comprehensive Plan Elements
 - at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
 - Subject: Johnstown Housing Needs Assessment and Comprehensive Plan
@@ -432,3 +409,68 @@
 - Housing Planning Grant from the Colorado Department of Local Affairs (DOLA)
 - 5. Housing Inventory .......................................................................... 24
 - 6. Housing Market Trends ................................................................. 33
+
+## [johnstown#19] 2026-10-30 | Public Meeting Notice | agenda
+- What: Texas Roadhouse Groundbreaking
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#20] 2026-11-02 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 5. Resolution 2026-46: A Resolution Appointing a Director to the Board of Directors of the
+- 6. Resolution No. 2026-47 Approving the Purchase of 15 CBT Project Units
+- 8. Professional Services Agreement with Connell Resources, Inc. for the Raw Water
+- Transmission Project
+- 9. Construction Contract Award to Krische Construction, Inc. for the West Parish Alley
+- 10. Twenty-Second Interim Agreement with the Northern Integrated Supply Project Water
+- Activity Enterprise, for Participation in the Northern Integrated Supply Project
+- Public Hearing
+- 11. Ordinance 2026-300: An Ordinance to amend the Johnstown Land Use and
+- Development Code Section 17-10-2
+- 12. 2027 Proposed Budget
+- 13. A Resolution Approving the Service Plan for Diamond Ridge Metropolitan District Nos. 1
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+
+## [johnstown#21] 2026-11-02 | Town Council | agenda
+- Agenda Approval
+- Special Presentations
+- Public Comment
+- Members of the audience are invited to speak at the meeting. Public Comment is reserved for
+- citizen comments on items not contained on the Public Hearing portion of the agenda. Citizen
+- same position on a given item, they are requested to select a spokesperson to state that
+- The Consent Agenda includes routine items that are approved together through a single motion
+- and vote. Any member of the Council or staff may request to remove an item from the Consent
+- Agenda and move it to the Regular Agenda for separate discussion
+- 5. Resolution 2026-46: A Resolution Appointing a Director to the Board of Directors of the
+- 6. Resolution No. 2026-47 Approving the Purchase of 15 CBT Project Units
+- 8. Professional Services Agreement with Connell Resources, Inc. for the Raw Water
+- Transmission Project
+- 9. Construction Contract Award to Krische Construction, Inc. for the West Parish Alley
+- 10. Twenty-Second Interim Agreement with the Northern Integrated Supply Project Water
+- Activity Enterprise, for Participation in the Northern Integrated Supply Project
+- Public Hearing
+- 11. Ordinance 2026-300: An Ordinance to amend the Johnstown Land Use and
+- Development Code Section 17-10-2
+- 12. 2027 Proposed Budget
+- 13. A Resolution Approving the Service Plan for Diamond Ridge Metropolitan District Nos. 1
+- at 970-587-4664 no later than 48 hours before the meeting in order to request such assistance
+- WHEREAS, the Town of Johnstown celebrates our local small businesses and the
+- Jim Hatfield, 345 Hickory Lane requested trees for Clearview Park for the 2027 Budget
+- Town Clerk Meghan Martinez indicated that there were several public comments submitted for the Public
+- Consideration of a Water and Sewer Service Agreement for U.S. Engineering
+- Consideration of the First Amendment to the Johnstown Commercial Center Subdivision
+- Development and Improvement Agreement
+- Purchase and Sale Agreement Between Gillam Development Corporation and The Town of
+- Ordinance 2026-299: An Ordinance of the Town of Johnstown, Colorado, Permanently Reducing the
+- Town’s Property Tax Mill Levy by a Total of 8.000 Mills, In Four Annual Steps of 2.000 Mills; Fixing
+- and Levying by this Ordinance the Maximum Mill Levy for Each Year of the Phase-In and Each Year
+- Thereafter; Directing Automatic Certification of the Scheduled Levy Without Further Council Action;
+- and Not to Library Mills; Providing that any Increase Above the Reduced Levy Requires New Voter
+- Approval and that Prior Voter Approvals Shall Not Be Used for that Purpose; Amending Section 4-3 of

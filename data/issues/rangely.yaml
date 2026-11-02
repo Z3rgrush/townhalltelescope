@@ -1,94 +1,96 @@
 - title: Geothermal energy campus and proposed data center
-  summary: Council repeatedly took up the Energy Campus Development & Municipal Participation Study, stage 2 of Rangely's geothermal development. Residents such as Tanner Nielsen and Camille raised concerns about a data center tied to it, including water use, noise, jobs, transparency and NDAs, and one suggested a moratorium. A council member said he spoke with someone at a data center about noise.
+  summary: Council repeatedly took up the Energy Campus Development & Municipal Participation Study (stage 2 of Rangely geothermal development). Residents including Tanner Nielsen and Camille raised concerns about a possible data center, water use, noise, NDAs and transparency, and Nielsen suggested a moratorium and a solar partnership with CNCC. A proposal was raised to bar officials from signing NDAs for economic development.
   where: Townwide
   refs:
+  - 0
   - 2
   - 4
-  - 6
-  - 7
+  - 5
+  topics:
+  - Data centers
+  - Energy
+  - Ethics & transparency
   tags:
   - data-center
   public_comment: true
-  topics:
-  - Energy
-  - Data centers
-  - Water
-- title: Stage 3 water shortage and river supply
-  summary: Low river flow put the Town into Stage 3 water restrictions. The Rangely water conservancy district released 10 cfs from Kenney Reservoir, and the Town manager noted senior upriver water rights. Restrictions later eased back toward stage 1, and council discussed the water ordinance and bulk water customers under Emergency Ordinance 707.
+- title: Water shortage, Stage 3 restrictions and White River water supply
+  summary: The Town went into Stage 3 water restrictions as river flow dropped, with the water conservancy district releasing 10 cfs from Kenney Reservoir; it later returned to Stage 1. Council took up Resolution 2026-07 declaring a municipal water urgency and authorizing negotiation, but not signing, of a conditional storage agreement for the White River Regional Water Supply Project. Council also dealt with bulk water customers under Emergency Ordinance 707.
   where: Townwide
   refs:
+  - 0
+  - 1
   - 2
-  - 3
   - 4
-  - 6
+  - 5
   topics:
   - Water
   - Utilities
-- title: White River Regional Water Supply Project storage agreement
-  summary: Council considered Resolution 2026-07 declaring a state of municipal water urgency and a finding of municipal water supply need. It would authorize negotiation, but not execution, of a conditional storage agreement for the White River Regional Water Supply Project.
-  where: Townwide
-  refs:
-  - 7
-  topics:
-  - Water
-  - Utilities
+  - Environment & climate
 - title: Water and wastewater plant repairs
-  summary: Staff reported the wastewater plant pond and lagoon liners need replacement, and the water plant has structural issues, with corrosion and a separate structural inspection of rafters and columns. The middle zone water tank re-coating project was proposed for delay, and grants are being sought for the costs.
-  where: Water plant and wastewater plant
+  summary: Staff reported the wastewater pond liner needs replacement, with other lagoon liners also needing work and grants being sought. The water plant has structural problems including corrosion, and the middle zone water tank re-coating project was proposed for delay. Repairs to chlorine pumps and the water softener were also reported.
+  where: Water and wastewater plants
   refs:
-  - 2
-  - 3
+  - 0
+  - 1
+  - 4
   - 6
   topics:
   - Utilities
   - Water
+  - Budget & taxes
 - title: 2027 budget and capital projects
-  summary: Council held budget and capital project work sessions starting in September and approved the draft 2027 budget as presented in October. A Main Street beautification project was among items under consideration, along with a revision to the Housing Assistance Fund budget.
+  summary: Council held budget and capital project work sessions, including a possible Main Street beautification project. On Oct 13 it considered approving the draft 2027 budget as presented, and revised the Housing Assistance Fund budget.
   where: Townwide
   refs:
-  - 3
+  - 1
+  - 2
   - 4
-  - 6
-  - 7
+  - 5
   topics:
   - Budget & taxes
   - Housing
-- title: Town Manager contract and outside employment concerns
-  summary: The Town Manager's contract was on the July agenda. In September a resident raised concerns about the manager, and council members discussed his employment outside of the Town.
-  where: Town Hall
+  - Downtown & business
+- title: Town Manager's outside employment and oversight
+  summary: A resident, Jack Richens, raised concerns about the Town Manager, and council discussed Jonah's employment outside the Town in a conversation reported at the Sept 22 meeting. The documents do not state an outcome.
   refs:
-  - 0
-  - 6
-  public_comment: true
+  - 4
   topics:
   - Government operations
   - Ethics & transparency
-- title: Bell Street parking and crosswalk safety
-  summary: Public works repaired sidewalk on west Bell Street, and a No Parking area by the park will extend 50 feet. A resident thanked the Town for the crosswalk but raised sign placement, and a council member worried about the parking ban during events.
-  where: Bell Street near the park
-  refs:
-  - 3
-  - 4
   public_comment: true
-  topics:
-  - Roads & traffic
-  - Parks & open space
-- title: Police department staffing and leadership
-  summary: The Town reported two open police positions in August, and an interim police chief, Joseph McGuire, was sworn in in October. Council also amended the fee schedule for certified VIN inspections under Police Services.
-  where: Rangely Police Department
+- title: Independent hearing officers for employee grievances
+  summary: A virtual special meeting on Oct 29 considered Resolution 2026-08, creating two to three independent hearing officers to hear grievances over discipline and terminations by the Town Manager, and amending personnel rules. The Town Council would no longer sit as the hearing body.
+  where: Townwide
   refs:
-  - 1
-  - 2
   - 7
+  topics:
+  - Government operations
+- title: Police leadership and services
+  summary: Interim Chief of Police Joseph McGuire was sworn in, with two police openings reported earlier. Council also amended the 2026 fee schedule for certified VIN inspections, and an SRO change was noted.
+  where: Police Department
+  refs:
+  - 0
+  - 2
+  - 5
+  - 6
   topics:
   - Policing & public safety
   - Fees & rates
-  - Government operations
-- title: Grant management contract with Community Centric Development
-  summary: Council considered engaging the Community Centric Development team at $75 per hour for grant management services.
-  where: Townwide
+- title: Bell Street crosswalk and no-parking changes
+  summary: Residents and council discussed the Bell Street crosswalk sign and a no-parking area extended 50 ft at the park. Council member Tim Webber worried about the effect on parking during events.
+  where: Bell Street near the park
   refs:
   - 1
+  - 2
   topics:
-  - Government operations
-  - Budget & taxes
+  - Roads & traffic
+  public_comment: true
+- title: Asbestos abatement on Birch Street
+  summary: An asbestos project on Birch is starting, and additional asbestos was found. The grant is expected to cover it.
+  where: Birch Street
+  refs:
+  - 4
+  - 6
+  topics:
+  - Environment & climate
+  - Land & property

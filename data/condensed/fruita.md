@@ -1,55 +1,6 @@
 # fruita
 
-## [fruita#0] 2026-07-28 | 2026 City Council Meetings | minutes
-- City Clerk Deb Woods, Chief of Police Dave Krouse, Communications and Engagement Manager
-- 1. UPDATE FROM FRUITA POLICE DEPARTMENT (6:30 – 7:40 P.M.)
-- Police Chief Dave Krouse presented a handout of the Fruita Police Department’s Organizational Chart
-- Junction Regional Communications Center and the 2026 -2030 Fruita Police Department Strategic
-- Mayor Breman asked Chief Krouse if he could determine when the Police Department might need to
-- will be held during the 2027 Budget discussions due to the Public Safety sales tax increase that will go
-- Krouse stated that the i nformation included in the Fruita Police Department Strategic Plan has been
-- taken from feedback from department staff members, the latest Community Survey and City Council
-- Areas that the Fruita Police Department wants to focus on over the next five years include keeping up
-- There was some brief discussion about residents’ perception of speeding vehicles on 18 Road near the
-- that the Fruita Police Department has no other crash data for that road except the one car that drove
-- Subdivision that there’s no data to support the need for traffic calming measures on 18 Road and in
-- governmental influence that’s going to affect human behavior and that there are no roads anywhere on
-- 2. DISCUSSION OF THE CITY OF FRUITA AMENITY -BASED METROPOLITAN
-- to confirm that the development makes sense. He further explained that the Policy Statement guides
-- Kelley explained that the Model Service Plan sets forth the application process such as concept and
-- out that City Council cannot deny an application if their decision could be considered arbitrary and
-- Kelley stated that Metro Districts are their own governmental entity; requests are quasi-legislative and
-- operate as another government within the City of Fruita. They allow a developer to apply for tax exempt
-- bonds and approval of the development comes later
-- Service Plan and Metro District Policy do not align, flow or correlate with each other. Council directed
-- Mayor Breman requested that the words “commercial, industrial (not residential)” be added to Section
-- There was also some discussion concerning administrative approval in the Metro District process, so
-- Plan for a requirement that the City Council needs to approve Metro District applications and the
-- development plans that follow
-- lot of different proposals and feedback. He said once adopted, it would be in the best interest of the
-- City to post Fruita’s Model Service Plan and Metro District Policy on its website to encourage
-- There was discussion concerning whether the next step should be putting Metro Districts on a Regular
-
-## [fruita#1] 2026-08-03 | Parks and Recreation Commission | agenda
-- PARKS AND RECREATION REGULAR MEETING August 3, 2026 P a g e | 1
-- PARKS AND RECREATION
-- 2. AGENDA - ADOPT/AMEND
-- A. Approve July 2026 minutes
-- 3. PUBLIC COMMENTS AND PARTICIPATION
-- This section is set aside for the Parks and Recreation Commission to LISTEN to comments by the
-- public regarding items that do not otherwise appear on this agenda. Generally, the Parks and
-- Recreation Advisory Board will not discuss the issue and will not take an official action under this
-- 5. PARKS AND RECREATION REPORT
-- Community feedback from Farmers Market
-- Meet and Greet new Parks & Recreation Director
-- 6. PRESENTATION ON E-BIKES
-- Classification, rules for use on trails and in parks (Officer Ed Pacheco)
-
-## [fruita#2] 2026-08-03 | Historic Preservation Board | agenda
-- 2. Approve the Agenda for the August 3, 2026, meeting
-- 3. Approve the Minutes from the July 6, 2026, meeting
-
-## [fruita#3] 2026-08-04 | 2026 City Council Meetings | minutes
+## [fruita#0] 2026-08-04 | 2026 City Council Meetings | minutes
 - 3. AGENDA - ADOPT/AMEND
 - City Clerk Deb Woods noted that there was an amendment to the agenda to add a Presentation from the
 - “Proclamations and Presentations.”
@@ -84,10 +35,10 @@
 - APPOINTMENT OF ASYLAN VALKO TO THE ARTS AND CULTURE BOARD TO
 - C. BOARDS AND COMMISSIONS APPOINTMENT – A REQUEST TO APPROVE THE
 
-## [fruita#4] 2026-08-05 | Arts and Culture Board | agenda
+## [fruita#1] 2026-08-05 | Arts and Culture Board | agenda
 - 2) Public Comment
 
-## [fruita#5] 2026-08-11 | Planning Commission | agenda
+## [fruita#2] 2026-08-11 | Planning Commission | agenda
 - The following item(s) will be presented at this public hearing of the Fruita Planning Commission for their
 - consideration. Depending on the application type, the Planning Commission will formulate a recommendation
 - information may call (970) 858-0786. The hearing impaired may call Relay Colorado at 1-800-659-2656 or
@@ -131,12 +82,12 @@
 - The Planning Commission’s decision is forwarded to the Fruita City Council. Once a project is
 - approved by the City Council it must be revised to reflect all the conditions placed on it by the City
 
-## [fruita#6] 2026-08-11 | Planning Commission | agenda
+## [fruita#3] 2026-08-11 | Planning Commission | agenda
 - FROM:Planning & Development Department
 - AGENDA TEXT:Planning Commission Water Supply and Strategic Growth Community Engagement Discussion
 - The State of Colorado has mandated that by December 31, 2026, municipalities with a Comprehensive Plan must adopt a Water Supply Element and Strategic Growth Element as part of that plan. The purpose of this cover sheet is to get feedback and discuss with the Planning Commission a community engageme
 
-## [fruita#7] 2026-08-12 | Arts and Culture Board | minutes
+## [fruita#4] 2026-08-12 | Arts and Culture Board | minutes
 - 2. Public Comment
 - a. There was no public comment
 - locations and a new pedestal on South Mesa Street; the pedestal in the Dinosaur
@@ -152,7 +103,7 @@
 - the selected sculptures in person, confirm accurate representation, and
 - notified of the selections. The board will decide whether to announce selections
 
-## [fruita#8] 2026-08-18 | 2026 City Council Meetings | minutes
+## [fruita#5] 2026-08-18 | 2026 City Council Meetings | minutes
 - 3. AGENDA - ADOPT/AMEND
 - COUNCILOR PARRISH MOVED TO APPROVE THE AGENDA AS
 - 4. PROCLAMATIONS AND PRESENTATIONS
@@ -191,12 +142,12 @@
 - brief and to the point and cover all of the main points of the project
 - 3. Public Comment - (limit of 3 minutes per person) Speakers must step up to the microphone and state their name and address. Speakers
 
-## [fruita#9] 2026-08-20 | Livability Commission | agenda
+## [fruita#6] 2026-08-20 | Livability Commission | agenda
 - II. Public Comment
 - III. Review and Approve Minutes
 - a. Discussion of Bike Safety Event
 
-## [fruita#10] 2026-08-25 | 2026 City Council Meetings | minutes
+## [fruita#7] 2026-08-25 | 2026 City Council Meetings | minutes
 - 1. BEE CITY PRESENTATION (6:30 – 7:00 P.M.)
 - species, including improved water conservation, soil and air quality, crop yields and reduced lawn
 - County’s first Bee City. The Parks Department could serve as the committee and is already meeting
@@ -228,7 +179,7 @@
 - Element by December 31, 2026, the state will consider the City of Fruita “Compliance in Progress”
 - The Council discussed the questions in the survey and what implementation will look like after the
 
-## [fruita#11] 2026-08-27 | Fruita Tourism Advisory Council | minutes
+## [fruita#8] 2026-08-27 | Fruita Tourism Advisory Council | minutes
 - 2. Public Comment
 - Ms. Shepardson opened the meeting for public comment. After seeing none, this agenda item
 - 3. Approval of Minutes
@@ -257,7 +208,7 @@
 - c. Staff applied for a tourism marketing grant for next year to fund an earned media
 - e. Staff will begin scheduling presentations from mini-grant recipients at upcoming
 
-## [fruita#12] 2026-09-01 | 2026 City Council Meetings | minutes
+## [fruita#9] 2026-09-01 | 2026 City Council Meetings | minutes
 - Special Projects Coordinator Steve Martinez
 - Planning and Development Director Henry Hemphill
 - 3. AGENDA - ADOPT/AMEND
@@ -293,7 +244,7 @@
 - 2. Applicant Presentation - The petitioner is asked to present the proposal. Presentations should be
 - brief and to the point and cover all of the main points of the project
 
-## [fruita#13] 2026-09-15 | 2026 City Council Meetings | minutes
+## [fruita#10] 2026-09-15 | 2026 City Council Meetings | minutes
 - Planning and Development Director Henry Hemphill
 - 3. AGENDA - ADOPT/AMEND
 - accepted by Denise Rodriguez, Project Coordinator in the Mesa County Behavioral Health Division
@@ -329,13 +280,13 @@
 - consideration to matters which are placed into evidence and are part of the public record. Quasi
 - judicial hearings are held in the following manner:
 
-## [fruita#14] 2026-09-22 | 2026 City Council Meetings | minutes
+## [fruita#11] 2026-09-22 | 2026 City Council Meetings | minutes
 - A. EXECUTIVE SESSION – DISCUSSION AND POSSIBLE ACTION TO CONSIDER A
 - After the final interview, Council and Mayor proceeded to discuss which candidate would be the best
 - appointee to the position of Municipal Court Judge. Each Council member provided input on who they
 - The recommendation at the end of the discussion was for the City Manager to negotiate a contract for
 
-## [fruita#15] 2026-09-29 | 2026 City Council Meetings | minutes
+## [fruita#12] 2026-09-29 | 2026 City Council Meetings | minutes
 - Yamashita, Public Works Director, Special Projects Coordinator Steve Martinez and Special Counsel
 - 1. PRESENTATION – ACCESS CONTROL PLAN (ACP) AMENDMENT FOR THE
 - FUTURE CDOT WIDENING PROJECT BY MATT CASEY, DESIGN ENGINEER
@@ -376,17 +327,17 @@
 - to get its employees to market rate and while most have been updated to market rate, a few positions
 - remain that will require increases such those for Wastewater Reclamation Facility (WWRF) Operators
 
-## [fruita#16] 2026-09-30 | Arts and Culture Board | agenda
+## [fruita#13] 2026-09-30 | Arts and Culture Board | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 5) Grant Application Review - Fruita Historic Preservation Board
 
-## [fruita#17] 2026-10-01 | Fruita Tourism Advisory Council | agenda
+## [fruita#14] 2026-10-01 | Fruita Tourism Advisory Council | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 4) Presentation from Girls On
 
-## [fruita#18] 2026-10-05 | Parks and Recreation Commission | minutes
+## [fruita#15] 2026-10-05 | Parks and Recreation Commission | minutes
 - Fruita Parks and Recreation Commission Meeting
 - Steven Sparks
 - Steve Moralez (Parks Liaison)
@@ -412,7 +363,7 @@
 - Action Items/Topics for Future PARC Meetings To Consider:
 - LAUNCH Project: Possible future concerns with homeless camps in area
 
-## [fruita#19] 2026-10-13 | Planning Commission | agenda
+## [fruita#16] 2026-10-13 | Planning Commission | agenda
 - The following item (s) will be presented at this public hearing of the Fruita Planning Commission for their
 - consideration. Depending on the application type, the Planning Commission will formulate a recommendation
 - information may call (970) 858- 0786. The hearing impaired may call Relay Colorado at 1- 800-659-2656 or
@@ -453,14 +404,25 @@
 - Council before documents are recorded and/or building permits are issued. If the project fails to meet
 - the Fruita Land Use Code time limits for final documents, the project approval of the project lapses and
 
-## [fruita#20] 2026-10-15 | Livability Commission | agenda
+## [fruita#17] 2026-10-15 | Livability Commission | agenda
 - II. Public Comment
 - III. Review and Approve Minutes
 - a. Discussion on Trail Cleanup
 
-## [fruita#22] 2026-10-22 | Fruita Tourism Advisory Council | agenda
+## [fruita#19] 2026-10-22 | Fruita Tourism Advisory Council | agenda
 - 2) Public Comment
 - 3) Approval of Minutes
 - 4) Presentations from:
 - 5) Mini-Grant Application
 - 6) 2027 Budget Overview
+
+## [fruita#21] 2026-11-02 | Parks and Recreation Commission | agenda
+- PARKS AND RECREATION REGULAR MEETING November 2, 2026 P a g e | 1
+- PARKS AND RECREATION
+- 2. AGENDA - ADOPT/AMEND
+- A. Approve October 2026 minutes
+- 3. PUBLIC COMMENTS AND PARTICIPATION
+- This section is set aside for the Parks and Recreation Commission to LISTEN to comments by the
+- public regarding items that do not otherwise appear on this agenda. Generally, the Parks and
+- Recreation Advisory Board will not discuss the issue and will not take an official action under this
+- 5. PARKS AND RECREATION REPORT / UPDATE

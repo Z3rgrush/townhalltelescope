@@ -1,43 +1,6 @@
 # morrison
 
-## [morrison#0] 2026-08-01 | Hogback Newsletter | agenda
-- feedback, ask questions, and voice concerns
-- Due to drought conditions all Morrison water service users are hereby noticed of
-- MANDATORY watering restrictions, effective APRIL 2, 2026. Restrictions shall remain in
-- To ensure a reliable water supply and promote responsible water use, the following outdoor
-- watering restrictions shall apply to ALL water customers. This includes residents, out of town
-- Outdoor Watering Restrictions & Conservation Guidelines
-- Watering Schedule Requirements & Water Use Regulations
-- Outdoor watering is limited to no more than two (2) days per week
-- NO watering is allowed between 10:00 AM and 6:00 PM
-- Waste Prohibited: It is unlawful for any user to waste water including to permit
-- water to run down hard surfaces or leak in any manner
-- Efficient Water Use & System Maintenance Requirements
-- Use shut-off nozzles on hoses when not actively watering
-- Limit watering on windy days to prevent drift and evaporation
-- Consider drought-tolerant or native landscaping options
-- These restrictions are in place to protect the Morrison’s water supply and ensure
-- NOTICE: MANADATORY WATER RESTRICTIONS
-- 100 Jefferson County Parkway, Room 2530, Golden, Colorado, 80419
-- The warm temperatures and winds of spring and summer in the foothills create perfect conditions for wild fires. As
-- Hogback fires in recent years have demonstrated, fire emergencies can and do escalate in an instant. We want all
-- The first step in being prepared is to create a Family Emergency Action Plan that is known and available to every
-- member of your household. This plan should include an out-of-state contact, phone numbers for all household
-- key to staying safe. Make sure you have signed up with Lookout Alert, the emergency notification system in
-- Jefferson County. Through this system, subscribers are notified of natural or man-made disasters, evacuation or
-- winds are expected to combine to produce an increased risk of fire danger
-- your car facing the street to make it easier to leave rapidly if necessary. If you have large animals, it might be time
-- able to take your animals. If you feel that you are in an unsafe situation, now is the time to leave
-- your normal route might not be accessible or safe. As you leave, post visible notification so that emergency crews
-- WILDFIRE INFORMATION
-- Fire Information Hotline: 303-271-8200
-- Fire Restrictions
-- STAGE 2 FIRE BAN
-- A Stage 2 Fire Ban is in effect for all areas of unincorporated Jefferson County and will
-- The ban prohibits all fires and campfires, including those in grates, fire pits and
-- developed fire rings. It also prohibits charcoal grills, open burning, fireworks, sky lanterns
-
-## [morrison#1] 2026-08-04 | Public Notices | agenda
+## [morrison#0] 2026-08-04 | Public Notices | agenda
 - ORDINANCE NO. ____
 - AN ORDINANCE REPEALING AND REENACTING TITLE 8 OF THE MORRISON
 - MUNICIPAL CODE REGARDING WATER AND SEWER REGULATIONS
@@ -74,7 +37,7 @@
 - flow from any pipe, plumbing fixture, or a user's water system into a public water system's
 - distribution system or any other part of the Town water system through backflow
 
-## [morrison#2] 2026-08-04 | Town Board Agendas and Minutes | minutes
+## [morrison#1] 2026-08-04 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - of receiving legal advice on specific legal questions regarding the Town’s water infrastructure
 - strategy for negotiations, and/or instruct negotiators concerning a potential agreement for
@@ -107,7 +70,7 @@
 - appointment of any person to fill an office of this body or of an elected official; or personnel
 - policies that do not require the discussion of matters personal to particular employees, with
 
-## [morrison#3] 2026-08-11 | Town Board Agendas and Minutes | agenda
+## [morrison#2] 2026-08-11 | Town Board Agendas and Minutes | agenda
 - AMENDED NOTICE OF SPECIAL BOARD OF TRUSTEES MEETING
 - 110 Stone Street
 - The meeting has been requested by the Town Manager pursuant to Charter Section 3.2. Actual
@@ -146,7 +109,7 @@
 - WHEREAS, the Parties acknowledge that Developer has submitted annexation and initial
 - zoning applications to the Town and that Developer intends to withdraw such application upon the
 
-## [morrison#4] 2026-08-18 | Public Notices | agenda
+## [morrison#3] 2026-08-18 | Public Notices | agenda
 - NOTICE OF A PUBLIC HEARING CONCERNING THE PROPOSED ANNEXATION
 - OF APPROXIMATELY 59.36 ACRES OF LAND LOCATED IN UNINCORPORATED
 - Town of Morrison will hold a public hearing on Tuesday, August 18, 2026, at 6:00 P.M. to determine
@@ -158,7 +121,7 @@
 - interested persons will be given an opportunity to be heard at the Public Hearing. The Public Hearing
 - will be held at the Morrison Town Hall, 110 Stone Street, Morrison, CO 80465, at the above date and
 
-## [morrison#5] 2026-08-18 | Public Notices | agenda
+## [morrison#4] 2026-08-18 | Public Notices | agenda
 - NOTICE OF A PUBLIC HEARING
 - of the Town of Morrison will hold a public hearing on Tuesday, August 18, 2026, at 6:00 P.M. at Morrison
 - Town Hall, 110 Stone Street, Morrison, Colorado 80465 to consider an application for initial zoning to the
@@ -169,7 +132,7 @@
 - A copy of the application is available for inspection at th e Town Clerk's office at 110 Stone St., Morrison, CO
 - attend the public hearing and provide public comment
 
-## [morrison#6] 2026-08-18 | Public Notices | agenda
+## [morrison#5] 2026-08-18 | Public Notices | agenda
 - Notice of Public Hearing
 - aka ProMo, filed an application on June 9, 2026 to the Licensing
 - Officials of the Town of Morrison to grant a Special Event Permit to
@@ -179,7 +142,7 @@
 - Morrison Town Hall, 110 Stone Street, Morrison, Colorado
 - Morrison Post office, 150 Spring Street, Town of Morrison Website
 
-## [morrison#7] 2026-08-18 | Public Notices | agenda
+## [morrison#6] 2026-08-18 | Public Notices | agenda
 - ORDINANCE NO. 566
 - AN ORDINANCE AMENDING TITLE 10 OF THE MORRISON MUNICIPAL CODE REGARDING GARDEN SHEDS, HOTELS AND MOTELS, FLOODPLAIN GRADE MEASUREMENT, AND THE DEFINITION OF SUBSTANTIAL IMPROVEMENT
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -197,7 +160,7 @@
 - GARDEN SHED: An accessory structure no larger than 120 square feet with a maximum height of 10 feet used primarily for the storage of household or landscape materials. Garden sheds shall not be used for human habitation or as a place of employment
 - Section 7.The definitions of Motel and Substantial Improvement in Section 10-F-3 of the Morrison Municipal Code are hereby amended as follows:
 
-## [morrison#8] 2026-09-01 | Hogback Newsletter | agenda
+## [morrison#7] 2026-09-01 | Hogback Newsletter | agenda
 - feedback, ask questions, and voice concerns
 - Due to drought conditions all Morrison water service users are hereby noticed of
 - MANDATORY watering restrictions, effective APRIL 2, 2026. Restrictions shall remain in
@@ -218,11 +181,11 @@
 - Triceratops Gulch Project:
 - us in the field, and we were grateful that she could see more of what the Morrison Natural History
 
-## [morrison#9] 2026-09-04 | Public Notices | agenda
+## [morrison#8] 2026-09-04 | Public Notices | agenda
 - BALLOT ISSUE: SHALL THE TOWN OF MORRISON'S TAXES BE INCREASED BY $125,000 IN THE FIRST FULL FISCAL YEAR, COMMENCING JANUARY 1, 2027, AND BY WHATEVER AMOUNTS RAISED ANNUALLY THEREAFTER, BY ELIMINATING AN EXISTING EXEMPTION FROM THE TOWN’S LODGING TAX AND THEREBY EXPANDING THE TAX TO APPLY TO ALL LODG
 - BALLOT ISSUE: SHALL THE TOWN OF MORRISON’S TAXES BE INCREASED BY $500,000 IN THE FIRST FULL FISCAL YEAR, COMMENCING JANUARY 1, 2027, AND BY WHATEVER AMOUNTS ARE RAISED ANNUALLY THEREAFTER, BY INCREASING THE RATE OF THE TOWN’S EXISTING LODGING TAX FROM 6% TO 8%, WITH THE REVENUES THEREFROM TO BE SPEN
 
-## [morrison#10] 2026-09-15 | Public Notices | agenda
+## [morrison#9] 2026-09-15 | Public Notices | agenda
 - ORDINANCE NO. 562
 - AN ORDINANCE AMENDING SECTIONS 3-6-2 AND 3-6-4 OF THE MORRISON MUNICIPAL CODE REGARDING A LODGING TAX EXEMPTION
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -237,7 +200,7 @@
 - Section 3.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
 - Section 4.Effective Date. This Ordinance shall take effect on October 1, 2026
 
-## [morrison#11] 2026-09-15 | Town Board Agendas and Minutes | minutes
+## [morrison#10] 2026-09-15 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - Trustee Bernhardt moved to add public comment to 4a. All present voted aye. The motion
 - 3. Amendments to the Agenda. N/A
@@ -254,7 +217,7 @@
 - A motion was made by Trustee Way to approve the Consent Agenda for September 15,
 - 10. Future Considerations. Minute Mark 25:15
 
-## [morrison#12] 2026-10-06 | Public Notices | agenda
+## [morrison#11] 2026-10-06 | Public Notices | agenda
 - ORDINANCE NO. 567
 - AN ORDINANCE AMENDING TITLE 5 OF THE MORRISON MUNICIPAL CODE REGARDING THE ABATEMENT OF A NUISANCE
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -267,7 +230,7 @@
 - Section 3.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
 - Section 4.Effective Date. This Ordinance shall take effect fifteen (15) days after adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter
 
-## [morrison#13] 2026-10-06 | Town Board Agendas and Minutes | minutes
+## [morrison#12] 2026-10-06 | Town Board Agendas and Minutes | minutes
 - MORRISON TOWN HALL, 110 STONE STREET
 - positions relative to matters that may be subject to negotiations, develop a strategy for
 - 4. Amendments to the Agenda. N/A
@@ -286,16 +249,16 @@
 - session; any member of this body or any elected official; the appointment of any person to
 - the discussion of matters personal to particular employees with the Town Attorney, Town
 
-## [morrison#14] 2026-10-07 | Town Board Agendas and Minutes | agenda
+## [morrison#13] 2026-10-07 | Town Board Agendas and Minutes | agenda
 - AMENDED NOTICE OF SPECIAL BOARD OF TRUSTEES MEETING
 - 110 Stone Street
 - The meeting has been requested by the Town Manager pursuant to Charter Section 3.2. Actual
 - 4. Public Comment
 
-## [morrison#15] 2026-10-15 | Public Notices | agenda
+## [morrison#14] 2026-10-15 | Public Notices | agenda
 - Street, Morrison, Colorado 80465. Two or more Board members may be
 
-## [morrison#16] 2026-10-20 | Public Notices | agenda
+## [morrison#15] 2026-10-20 | Public Notices | agenda
 - ORDINANCE NO. 568
 - AN ORDINANCE REPEALING CHAPTER 6 OF TITLE 1 OF THE MORRISON MUNICIPAL CODE RELATED TO TOWN EMPLOYEE PLANS AND ADMINISTRATION
 - WHEREAS, the Town of Morrison is a Colorado home rule municipality operating under a Home Rule Charter approved by the electorate pursuant to Article XX of the Colorado Constitution and governed by its elected Board of Trustees;
@@ -303,7 +266,7 @@
 - Section 2.Severability. If any article, section, paragraph, sentence, clause or phrase of this Ordinance, or the standards adopted herein is held to be unconstitutional or invalid for any reason, such decision will not affect the validity or constitutionality of the remaining portions of this Ordina
 - Section 3.Effective Date. This Ordinance shall take effect fifteen (15) days after adoption and publication in accordance with Section 3.9 and 3.14 of the Home Rule Charter
 
-## [morrison#17] 2026-10-20 | Town Board Agendas and Minutes | agenda
+## [morrison#16] 2026-10-20 | Town Board Agendas and Minutes | agenda
 - 110 STONE STREET
 - 5:30 PM EXECUTIVE SESSION: to consider personnel matters, pursuant to C.R.S. § 24-6
 - 402(4)(f) concerning the Town Manager employment agreement and not involving: any specific
@@ -341,3 +304,53 @@
 - developer. I was unsure of the best way to reflect that in the budget because it must be shown
 - as both revenue and an expenditure. I elected to put it as a separate line item and note that it is
 - revenue was coded to a different line item than in the approved budget. Red cells may also
+
+## [morrison#18] 2026-11-01 | Hogback Newsletter | agenda
+- Stacy Feehery
+- THE TOWN OF MORRISON'S TAXES BE INCREASED BY $125,000 IN THE
+- EXEMPTION FROM THE TOWN’S LODGING TAX AND THEREBY EXPANDING THE
+- TAX TO APPLY TO ALL LODGING FACILITIES REGARDLESS OF THE NUMBER OF
+- SUCH TAX AND ANY EARNINGS THEREON BE COLLECTED, RETAINED AND SPENT
+- AS A VOTER-APPROVED REVENUE CHANGE NOTWITHSTANDING ANY REVENUE
+- THE TOWN OF MORRISON’S TAXES BE INCREASED BY $500,000 IN THE
+- AMOUNTS ARE RAISED ANNUALLY THEREAFTER, BY INCREASING THE RATE OF
+- THE TOWN’S EXISTING LODGING TAX FROM 6% TO 8%, WITH THE REVENUES
+- ALL REVENUES DERIVED FROM SUCH TAX AND ANY EARNINGS THEREON BE
+- COLLECTED, RETAINED, AND SPENT AS A VOTER-APPROVED REVENUE CHANGE
+- AMENDED TO READ AS FOLLOWS:
+- vote and request a ballot to be mailed is October 26, 2026. Voted ballots may be returned to a
+- 100 Jefferson County Parkway 7706 W Bowles
+- Edgewater Civic Center
+- Buchanan Park Rec Center
+- Clement Park
+- Westminster City Park
+- Anderson Park - North of the pool
+- Prospect Park
+- Mines Park Community Center #2
+- Ray Ross Park
+- West Metro Fire
+- feedback, ask questions, and voice concerns
+- Keep a supply of food, water, and essential
+- Prepare a winter emergency kit for your vehicle(blankets, water, snacks, shovel, jumper cables, etc.)
+- Know that roads may be icy, and conditions can change
+- The Town prioritizes main roads and emergency routes
+- Do not push or shovel snow into the roadway
+- Bring in bird feeders when bears are active (spring-fall).• Clean outdoor grills after each use
+- Remove food sources such as pet food, livestock feed,
+- Do not approach, feed, or attempt to photograph
+- Never feed wildlife. It is illegal and can be dangerous
+- Colorado Parks & Wildlife
+- Due to drought conditions all Morrison water service users are hereby noticed of
+- MANDATORY watering restrictions, effective APRIL 2, 2026. Restrictions shall remain in
+- To ensure a reliable water supply and promote responsible water use, the following outdoor
+- watering restrictions shall apply to ALL water customers. This includes residents, out of town
+- Outdoor Watering Restrictions & Conservation Guidelines
+- Watering Schedule Requirements & Water Use Regulations
+- Outdoor watering is limited to no more than two (2) days per week
+- NO watering is allowed between 10:00 AM and 6:00 PM
+- Waste Prohibited: It is unlawful for any user to waste water including to permit
+- water to run down hard surfaces or leak in any manner
+- Efficient Water Use & System Maintenance Requirements
+- Use shut-off nozzles on hoses when not actively watering
+- Limit watering on windy days to prevent drift and evaporation
+- Consider drought-tolerant or native landscaping options

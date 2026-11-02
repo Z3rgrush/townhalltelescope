@@ -1,10 +1,6 @@
 # lake-city
 
-## [lake-city#0] 2026-07-29 | City Council | agenda
-- 230 N. Bluff Street Armory Multi-Purpose Room
-- A. Discuss July 24th, 2026, Flash Floods & Debris/Mud Flows in Lake City
-
-## [lake-city#1] 2026-08-05 | City Council | minutes
+## [lake-city#0] 2026-08-05 | City Council | minutes
 - 1. Discuss DOLA ADU Grant Application, Reduced Match Request, &
 - Incentive Funding
 - 2. Discuss IGA With Hinsdale County Clerk for Coordinated Election
@@ -38,12 +34,12 @@
 - 2. Discussion and Possible Action to Approve Ridgway Valley Enterprises
 - Renovation Project in the Amount of $23,331.11. Motion to approve made
 
-## [lake-city#2] 2026-08-12 | City Council | minutes
+## [lake-city#1] 2026-08-12 | City Council | minutes
 - 1. Discussion and Possible Action to Approve Resolution 2026-10 A Resolution
 - Ratifying Declaration of Local Disaster or Emergency Issued on August 7, 2026,
 - by Town Manager Alexander Mulhall Due to the Elk Fire and Declaring its
 
-## [lake-city#3] 2026-08-19 | City Council | minutes
+## [lake-city#2] 2026-08-19 | City Council | minutes
 - 1. Discuss Current Situation of the Elk Fire
 - 2. Discuss Emergency Facilities & Land Use Agreement with USDA Forest
 - Service for Potable Water and Grey Water Disposal
@@ -74,7 +70,7 @@
 - Use Agreement with USDA Forest Service for Potable Water and Grey
 - Water Disposal at the rate of $0.03 per gallon. Motion to approve made by
 
-## [lake-city#4] 2026-09-01 | City Council | agenda
+## [lake-city#3] 2026-09-01 | City Council | agenda
 - 230 N. Bluff Street Armory Multi-Purpose Room
 - A. Review Professional Service Agreement with Collegiate Peaks Law & Mediation LLC for
 - the Phase 1 Housing Plan Implementation Project
@@ -92,7 +88,7 @@
 - Estes Park and the Town of Windsor for Lending Backup Generators to the Town of Lake
 - D. Discussion and Possible Action to Direct Staff to Draft a Request for Proposals for
 
-## [lake-city#5] 2026-09-02 | City Council | minutes
+## [lake-city#4] 2026-09-02 | City Council | minutes
 - 1. Review Professional Service Agreement with Collegiate Peaks Law &
 - Mediation LLC for the Phase 1 Housing Plan Implementation Project
 - 2. Review Resolution 2026- 11 Permitting Dogs in Town Park for the Chamber
@@ -116,7 +112,7 @@
 - Generators to the Town of Lake City. Motion to approve made by Trustee
 - 4. Discussion and Possible Action to Direct Staff to Draft a Request for
 
-## [lake-city#6] 2026-09-16 | City Council | minutes
+## [lake-city#5] 2026-09-16 | City Council | minutes
 - 1. Discuss International Dark Sky Community Designation Application
 - 2. Discuss Summit Cycle Solutions Colorado Ride 2027 Request to use
 - Memorial Park for Tent Camping from August 11th through August 13 th
@@ -134,7 +130,7 @@
 - August 11th through August 13th and to Direct Staff to Draft a Resolution
 - Approving the Same. Motion to approve made by Trustee Whinnery and
 
-## [lake-city#7] 2026-10-07 | City Council | minutes
+## [lake-city#6] 2026-10-07 | City Council | minutes
 - 1. Discuss Status of Consultant Selection for Phase 1 Housing Plan
 - Implementation Project
 - 2. Review Resolution 2026- 12 Permitting Tent Camping in Memorial Park for
@@ -149,7 +145,7 @@
 - Tent Camping in Memorial Park for the Colorado Ride 2027 Event from
 - August 11th Through August 13th, 2027.Motion to approve made by
 
-## [lake-city#8] 2026-10-21 | City Council | agenda
+## [lake-city#7] 2026-10-21 | City Council | agenda
 - 230 N. Bluff Street, Lake City, CO Armory Multi-Purpose Meeting Room
 - A. Discuss Resolution 2026-13 Terminating the Local Disaster Emergency Due to Elk Fire
 - Located on the Border of Lake City in Unincorporated Hinsdale County, CO

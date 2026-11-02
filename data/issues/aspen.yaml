@@ -1,131 +1,134 @@
-- title: Conner Park performance stage and amplified music
-  summary: Neighbors and nearby churches told Council they worry amplified music at the Conner Park performance deck will disturb the quiet park and the Armory Hall redevelopment, and asked Council to reconsider its approval. Council scheduled a Conner Park stage discussion for a September 22 work session.
-  where: Conner Park
-  refs:
-  - 5
-  - 11
-  - 19
-  topics:
-  - Parks & open space
-  - Tourism & events
-  - Government operations
-  public_comment: true
-- title: 'Charter amendment ordinances (Ordinance #17) and election options'
-  summary: Council moved two proposed ordinances amending the Home Rule Charter to second reading on August 11 so the public could speak on both options. At the August 25 hearing, staff said a runoff has significant issues outlined in a memo, and a council member was uncomfortable moving forward without more outreach.
-  where: Citywide
-  refs:
-  - 5
-  - 11
-  topics:
-  - Elections
-  - Government operations
-- title: Affordable housing fee-in-lieu and housing credits
-  summary: Council considered Q2 fee-in-lieu requests for several properties, including 1335 Riverside Drive and 807 McSkimming Road. A five-year fee-in-lieu study update went to Council on September 14 and to Planning & Zoning on October 7. Council also discussed the Affordable Housing Credits program and previewed the APCHA 2027 budget request.
-  where: Citywide
-  refs:
-  - 0
-  - 4
-  - 16
-  - 27
-  topics:
-  - Housing
-  - Fees & rates
-- title: 'Local fee deferral program for qualified locals (Ordinance #11)'
-  summary: 'Planning & Zoning reviewed a recommendation on Ordinance #11, a program deferring city fees for qualified locals. The hearing was held August 19 and continued September 2.'
-  where: Citywide
-  refs:
-  - 8
-  - 13
-  topics:
-  - Fees & rates
-  - Housing
-- title: 121-123 East Hyman Avenue special review
-  summary: Planning & Zoning held three hearings (August 5, September 2, October 21) on a special review for the 121 and 123 East Hyman Avenue project, with a reduced application and public comment from Good Thunder Condos residents.
-  where: 121-123 East Hyman Avenue
-  refs:
-  - 3
-  - 13
-  - 31
-  topics:
-  - Zoning & development
-  - Downtown & business
-  public_comment: true
-- title: Entrance to Aspen / CO 82 reevaluation
-  summary: The city is reevaluating the CO 82 entrance with a refined preferred alternative. Historic Preservation Commission discussed mitigation of effects on historic resources, and an info update was amended at Council's request.
+- title: Entrance to Aspen (CO 82) reevaluation and historic mitigation
+  summary: Council and the Historic Preservation Commission are reviewing the refined preferred alternative for the CO 82 Entrance to Aspen project, including a historic mitigation discussion and a CDOT historic resources survey. An amended information update was prepared at Council's request.
   where: CO 82 entrance to Aspen
   refs:
-  - 10
+  - 0
+  - 9
+  - 18
   - 19
-  - 28
-  - 29
   topics:
   - Roads & traffic
   - Historic preservation
-- title: Drought, Stage Three water restrictions and water supply
-  summary: With low flows and wildfires nearby, the city reported on a regional drought response using Ruedi Reservoir water and continued Stage Three water restrictions. Council also discussed buying Twin Lakes water right shares and met with the Ruedi Water and Power Authority.
+  - Transit
+- title: Drought, Stage Three water restrictions and Ruedi Reservoir supplies
+  summary: With low flows and regional fires, the city is working on a drought response partnership using Ruedi Reservoir water, continuing Stage Three water restrictions, and reviewing water use at special events such as a snow polo request. Council is also weighing the purchase of Twin Lakes water right shares and talking with the Ruedi Water and Power Authority.
   where: Citywide
   refs:
-  - 11
-  - 14
-  - 17
-  - 25
-  - 32
-  - 33
+  - 1
+  - 4
+  - 7
+  - 15
+  - 22
+  - 23
+  - 24
   topics:
   - Water
   - Environment & climate
+  - Tourism & events
   public_comment: true
-- title: Water treatment facility improvements and bond question
-  summary: Council considered an early work package amendment and a Holy Cross Electric contract and easements for the water treatment facility improvements, and a resolution supporting a water treatment plan bond question on the ballot.
-  where: Water treatment facility
-  refs:
-  - 23
-  topics:
-  - Water
-  - Utilities
-  - Elections
 - title: 2027 city budget work sessions
-  summary: Council held four budget work sessions in October covering fund overviews, capital, supplemental requests and fees, and wrap-up, along with ACRA and CORE budget presentations. A Community Development fee update and consultant report were also discussed.
+  summary: Council held four budget work sessions covering fund overviews, the capital budget, supplemental requests and fees, and open items. The sessions included presentations on ACRA and CORE budgets, and a community development fee update with a consultant report.
   where: Citywide
   refs:
-  - 25
-  - 26
-  - 30
-  - 33
+  - 15
+  - 16
+  - 20
+  - 23
   topics:
   - Budget & taxes
   - Fees & rates
-- title: E-bikes and e-motos on trails
-  summary: A resident asked Council to align valley-wide rules on e-bikes and e-motos, with licensing and a minimum age of 16. The mayor said locals no longer feel comfortable on the Rio Grande Trail and that the issue is being taken seriously.
+- title: Affordable housing fee-in-lieu update and locals fee deferral program
+  summary: 'Council reviewed the five-year affordable housing fee-in-lieu study (Phases I and II), and Planning & Zoning is making a recommendation on it. P&Z also considered Ordinance #11, a fee deferral program for qualified locals, and the West Mountain Regional Housing Coalition gave an update.'
+  where: Citywide
+  refs:
+  - 3
+  - 6
+  - 9
+  - 17
+  topics:
+  - Housing
+  - Fees & rates
+  - Zoning & development
+- title: Marolt housing redevelopment with Aspen Music Festival and School
+  summary: Council discussed redevelopment concepts for Marolt housing in collaboration with the Aspen Music Festival and School, based on a redevelopment study.
+  where: Marolt housing
+  refs:
+  - 24
+  topics:
+  - Housing
+  - Land & property
+- title: Conner Park stage and amplified sound
+  summary: Residents raised concern at public comment that amplified sound from a proposed stage in Conner Park would harm the Armory Hall redevelopment, with a church of about 500 weekly participants nearby. Council scheduled a Conner Park stage discussion.
+  where: Conner Park
+  refs:
+  - 1
+  - 9
+  topics:
+  - Parks & open space
+  - Tourism & events
+  public_comment: true
+- title: E-bike and e-moto rules and Rio Grande Trail safety
+  summary: A resident asked Council to align e-bike and e-moto rules along the valley, with licensing, permitting and a minimum age of 16. The mayor said other towns face the same issues and locals no longer feel comfortable walking on the Rio Grande Trail.
   where: Rio Grande Trail
   refs:
-  - 11
+  - 1
   topics:
   - Recreation & trails
   - Policing & public safety
   public_comment: true
-- title: Armory Hall redevelopment
-  summary: 'Council approved Change Order #4 for builders risk on the Armory Hall project with Shaw Construction and received an interior update on the project.'
-  where: Armory Hall
+- title: 121-123 East Hyman Avenue special review (Good Thunder Condos)
+  summary: Planning & Zoning held repeated hearings on a special review for 121 and 123 East Hyman Avenue, with a reduced application and public comment submitted. A third hearing was scheduled in October. Also on the October agenda was a residential design standards review for 1005 Waters Avenue.
+  where: 121-123 East Hyman Avenue
   refs:
-  - 18
-  - 30
+  - 3
+  - 21
   topics:
-  - Historic preservation
+  - Zoning & development
+  - Housing
+  public_comment: true
+- title: Water treatment plant improvements and bond ballot question
+  summary: Council considered an early work package amendment for the Water Treatment Facility Improvements Project and Holy Cross Electric easements and conduit contracts. It also considered resolutions supporting a water treatment plant bond question and ballot issue 1A.
+  where: Water treatment facility
+  refs:
+  - 13
+  topics:
+  - Water
+  - Utilities
+  - Elections
+- title: Armory Hall redevelopment and Main Street inlet project change orders
+  summary: 'Council took up change order #4 for builders risk on the Armory Hall project with Shaw Construction and an interior update. It also considered supplemental funding and an expanded culvert-lining scope for the Main Street Inlet and Pedestrian Improvements Project.'
+  where: Armory Hall; Main Street
+  refs:
+  - 8
+  - 20
+  topics:
+  - Roads & traffic
   - Government operations
 - title: Short-term rental program guideline amendments
-  summary: Staff reported forthcoming amendments to the short-term rental program guidelines.
+  summary: Staff reported forthcoming amendments to the short-term rental program guidelines, referencing a 2024 resolution and 2025 ordinance.
   where: Citywide
   refs:
-  - 32
-  topics:
-  - Short-term rentals
-- title: Golf clubhouse area master plan
-  summary: Council reviewed a concept design for the golf clubhouse and campus master plan and received a follow-up report.
-  where: Aspen golf course clubhouse
-  refs:
-  - 16
   - 22
   topics:
+  - Short-term rentals
+- title: Golf clubhouse area master plan and West End mobility
+  summary: Council reviewed a concept design for the golf clubhouse and campus master plan with a follow-up report. Staff also gave a status update on West End mobility improvements and a signage plan.
+  where: Aspen golf course; West End
+  refs:
+  - 6
+  - 12
+  topics:
   - Recreation & trails
+  - Roads & traffic
+- title: Fire fuel mitigation and Parks and Open Space strategic plan
+  summary: Council and county commissioners got a fire fuel mitigation update amid regional wildfires, and Council reviewed the Parks and Open Space Strategic Plan and forestry programs.
+  where: Countywide
+  refs:
+  - 1
+  - 4
+  - 9
+  - 11
+  topics:
+  - Fire & emergencies
   - Parks & open space
+  - Environment & climate

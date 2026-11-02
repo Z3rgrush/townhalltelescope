@@ -1,24 +1,6 @@
 # delta-county
 
-## [delta-county#0] 2026-07-28 | Board of County Commissioners | agenda
-- 560 Dodge Street - Delta, CO 81416
-- Delta County Administration Building - 560 Dodge Street
-- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS
-- APPROVAL OF AGENDA
-- Discussion and advice regarding Ginter Grove Public Improvement District
-- CERTIFICATION OF POSTING
-
-## [delta-county#1] 2026-07-29 | Planning Commission | minutes
-- 560 Dodge Street
-- Delta County Community Development Director, Oran Stainbrook
-- Delta County Community Project Manager, Shawn Gardner
-- Delta County Community Development Planner I, Brittany Haining
-- a. Approve the Meeting Minutes for the meeting held on April 15, 2026, as presented
-- i. Commissioner Enholm made a motion to Approve the meeting minutes as presented from the April
-- Mr. Gardner discussed items in the Land Use Code for revisions
-- F. COMMISSIONER COMMENTS, REQUESTS AND REFERRALS
-
-## [delta-county#2] 2026-08-04 | Board of County Commissioners | agenda
+## [delta-county#0] 2026-08-04 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -37,7 +19,7 @@
 - as a public road, and approve an Exemption Plat
 - CERTIFICATION OF POSTING
 
-## [delta-county#3] 2026-08-12 | Planning Commission | agenda
+## [delta-county#1] 2026-08-12 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the meeting minutes for the meeting held on July 8, 2026
 - D. PUBLIC HEARING ITEMS
@@ -49,7 +31,7 @@
 - future consideration
 - CERTIFICATION OF POSTING
 
-## [delta-county#4] 2026-08-12 | Planning Commission | agenda
+## [delta-county#2] 2026-08-12 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the meeting minutes for the meeting held on July 8, 2026
 - D. PUBLIC HEARING ITEMS
@@ -89,7 +71,7 @@
 - The Subject Water Rights were originally decreed by the Division 4 Water Court in
 - Case No. 02CW39. The Subject Water Rights are decreed for 1.66 cubic feet per second
 
-## [delta-county#5] 2026-08-18 | Board of County Commissioners | agenda
+## [delta-county#3] 2026-08-18 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -104,7 +86,7 @@
 - Approval of the plan
 - CERTIFICATION OF POSTING
 
-## [delta-county#6] 2026-08-18 | Board of County Commissioners | agenda
+## [delta-county#4] 2026-08-18 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -139,19 +121,19 @@
 - at 37958 at Fruitland Mesa Road and retain the actual value at $449,341.00. Commissioner Fuller 47
 - Board of Equalization consideration of Stipulation for Meadow Brook Boulevard LLC – R008369: 52
 
-## [delta-county#7] 2026-08-24 | Board of Health | agenda
+## [delta-county#5] 2026-08-24 | Board of Health | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - Variance Request – OWTS Variance for 11958
 - CERTIFICATION OF POSTING
 
-## [delta-county#8] 2026-08-24 | Board of Health | agenda
+## [delta-county#6] 2026-08-24 | Board of Health | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - Discuss Public Health Policy: Portable Chemical Toilets*
 - CERTIFICATION OF POSTING
 
-## [delta-county#9] 2026-09-01 | Board of County Commissioners | agenda
+## [delta-county#7] 2026-09-01 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -172,7 +154,7 @@
 - PRESENTATION
 - CERTIFICATION OF POSTING
 
-## [delta-county#10] 2026-09-01 | Board of County Commissioners | agenda
+## [delta-county#8] 2026-09-01 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -207,13 +189,13 @@
 - he thought he would get his feet wet and see what it is all about and maybe they could get some direction 68
 - three hours the wind goes in a different direction. He did it in feet instead of measuring the wind on the 5
 
-## [delta-county#11] 2026-09-15 | Board of Health | agenda
+## [delta-county#9] 2026-09-15 | Board of Health | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - Review of the July/Aug Payment Approval Report*
 - CERTIFICATION OF POSTING
 
-## [delta-county#12] 2026-09-15 | Board of County Commissioners | agenda
+## [delta-county#10] 2026-09-15 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -240,7 +222,7 @@
 - Storage Systems (BESS) and Repealing Moratorium Resolutions No. 2025-R-43 and No. 2026-R
 - CERTIFICATION OF POSTING
 
-## [delta-county#13] 2026-09-15 | Board of County Commissioners | agenda
+## [delta-county#11] 2026-09-15 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -278,7 +260,7 @@
 - Board’s consideration of a Liquor License Renewal for a Hotel and a Restaurant for SFR 40
 - Teri stated that she has received all necessary documentation, fees and the Sheriff was contacted and 43
 
-## [delta-county#14] 2026-10-06 | Board of County Commissioners | agenda
+## [delta-county#12] 2026-10-06 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -300,7 +282,7 @@
 - 4. Board's consideration of a Resolution submitting proposed Land Use Code amendments to the Delta
 - CERTIFICATION OF POSTING
 
-## [delta-county#15] 2026-10-06 | Board of County Commissioners | agenda
+## [delta-county#13] 2026-10-06 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -335,7 +317,7 @@
 - Arizona burnt everything down and good pictures shows the plume and how it separated like a clover leaf 23
 - and they chose not to use water and drug a couple of the containers away. What happened is all those 24
 
-## [delta-county#16] 2026-10-13 | Board of County Commissioners | agenda
+## [delta-county#14] 2026-10-13 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS
@@ -343,7 +325,7 @@
 - 1. Proposed 2027 Delta County Budget Presentation
 - CERTIFICATION OF POSTING
 
-## [delta-county#17] 2026-10-14 | Planning Commission | agenda
+## [delta-county#15] 2026-10-14 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the Meeting Minutes for the July 8, 2026, meeting as presented
 - 2. Approve the Meeting Minutes for the July 29, 2026, meeting as presented
@@ -358,7 +340,7 @@
 - future consideration
 - CERTIFICATION OF POSTING
 
-## [delta-county#18] 2026-10-14 | Planning Commission | agenda
+## [delta-county#16] 2026-10-14 | Planning Commission | agenda
 - Consider any changes to the order of the agenda or addition of any matter needing attention that arose after
 - 1. Approve the Meeting Minutes for the July 8, 2026, meeting as presented
 - 2. Approve the Meeting Minutes for the July 29, 2026, meeting as presented
@@ -397,7 +379,7 @@
 - prior to the meeting regarding temporary special events, intensive agricultural setbacks, site plan reviews and a late
 - comment regarding suggested technical verbiage modification of the BESS amendment. Mr. Gardner shared an
 
-## [delta-county#19] 2026-10-20 | Board of County Commissioners | agenda
+## [delta-county#17] 2026-10-20 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -415,7 +397,7 @@
 - 3. Board's consideration and approval of a Mini Grant
 - CERTIFICATION OF POSTING
 
-## [delta-county#20] 2026-10-20 | Board of County Commissioners | agenda
+## [delta-county#18] 2026-10-20 | Board of County Commissioners | agenda
 - 560 Dodge Street - Delta, CO 81416
 - Delta County Administration Building - 560 Dodge Street
 - CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
@@ -452,3 +434,12 @@
 - Board’s consideration of a Resolution to Update Mileage Rates and Per Diem rates starting 12
 - Leone explained that the old rates had not increased since 2008 and we all know that prices for meals 14
 - has increased and the old rates were barely covering meals when traveling. Based on economic mileage 15
+
+## [delta-county#19] 2026-10-27 | Board of County Commissioners | agenda
+- 560 Dodge Street - Delta, CO 81416
+- Delta County Administration Building — 560 Dodge Street, Delta
+- CONSIDERATION OF ADDITIONS, REMOVAL, OR CHANGE IN ANY ITEMS ON THIS AGENDA
+- Discussion Topic
+- 2. county-held tax liens
+- 3. Liquor License Fees Update
+- 8:30 am to 12:30 pm, at the Administration Building, 560 Dodge Street, Delta. The Commissioners also hold regular

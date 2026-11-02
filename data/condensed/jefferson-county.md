@@ -1,49 +1,6 @@
 # jefferson-county
 
-## [jefferson-county#0] 2026-07-28 | Board of County Commissioners Hearing | minutes
-- Board of County Commissioners Hearing - July 28, 2026
-- The board unanimously approved to excuse Commissioner Zenzinger's absence from today's hearing
-- Public Comment
-- Approval of Minutes Dated July 21, 2026
-- The Board unanimously approved the minutes dated July 21, 2026
-- The Board unanimously approved the following Resolutions:
-- Resolution CC26-195
-- Expenditure Approval Listings dated July 23, 2026
-- Resolution CC26-196
-- Abatement Refund of Property Taxes
-- Resolution CC26-197
-- Resolution CC26-198
-- County Cultural Council Grant Recommendations for 2026
-- Resolution CC26-199
-- 2026 Budget - July Supplementary Budget and Appropriation
-- Resolution CC26-200
-- Approval of the Fire Code Adopted by the West Metro Fire Protection District
-- Following a presentation by Brita Van Horne, Building and Safety Division Director, the Board unanimously approved Resolution CC26-200
-- Resolution CC26-201
-- Approval of the Fire Code Adopted by the South Metro Fire Rescue Fire Protection District
-- Resolution CC26-202
-- Approval of the Fire Code Adopted by the North Metro Fire Rescue District
-- Resolution CC26-203
-- Approval of the Fire Code Adopted by the Arvada Fire Protection District
-- Public Hearing
-- Hearing Consent Agenda
-- The Board unanimously approved the following Resolution:
-- Resolution CC26-204
-- Case Number: 25-124167SV Service Plan
-- Purpose: To consider a Special District Service Plan
-- Today’s Action: To continue the case to August 18, 2026 to allow for proper notification
-- Hearing Regular Agenda - No Agenda Items
-- Commissioner Dahlkemper began by highlighting hers and Commissioner Zenzinger’s participation in the Jeffco Housing Advocacy Steering Committee. The group includes county commissioners, a state legislator, area mayors, housing experts, and developers that specialize in affordable housing. The commit
-- Commissioner Kerr spoke about the Westernaires group and their Western Heritage event. He noted that the event had many attendees which included hundreds of children from the metro area and other elected county officials. The Commissioner highlighted that the Westernaires have their own museum. He t
-
-## [jefferson-county#1] 2026-07-28 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
-- Parks & Open Space
-- West 32nd Avenue & Kipling Street Bus Stop – Intergovernmental Agreement & 2026 Trails Partnership Program Funding
-- W 32nd Ave_Kipling St Bus Stop Construction presentation to BCC.pdf
-- Pleasant View Metropolitan District - Pleasant View Community Park Public Service Company Easements JCOS26-02
-- Pleasant View Metropolitan District_Pleasant View Community Park Public Service Easement JCOS26-02.pdf
-
-## [jefferson-county#2] 2026-08-04 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#0] 2026-08-04 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - August 04, 2026
 - Public Comment
 - Approval of Minutes Dated July 28, 2026
@@ -64,7 +21,7 @@
 - : Commissioner Kerr stated that this weekend is the Wheatridge Carnation Festival, He encouraged the public to attend. Commissioner Kerr stated that there are 6 boards that still have openings and they extended the application process until today. Commissioner Kerr reminded people that with school s
 - Acting County Manager Kate Newman wanted to express the importance of having an evacuation plan for family members and a contingency plan
 
-## [jefferson-county#3] 2026-08-04 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#1] 2026-08-04 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Jefferson County Sheriff’s Office (JCSO) Grants – Budget Supplemental Requests for July 2026
 - 2026 July JCSO Grants Budget Briefing Paper - FINAL.pdf
 - Federal Grant Contract Extension
@@ -72,7 +29,7 @@
 - 2026 Private Activity Bond Award, Carryforward, and Assignment
 - Real Estate Development - Legal Advice Under 24-6-402 (4)(b)
 
-## [jefferson-county#4] 2026-08-11 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#2] 2026-08-11 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - August 11, 2026
 - Public Comment
 - Approval of Minutes Dated August 4, 2026
@@ -107,7 +64,7 @@
 - Commissioner Zenzinger recognized Sheriff Marinelli for the Commissioner’s jail tour. She noted the two K9s in the Sheriff’s Office can also be utilized for searching for missing people. Commissioner Zenzinger participated in several meetings concerning the Jeffco Housing Blueprint. She noted that t
 - Commissioner Kerr participated in the Wheat Ridge Carnation Festival Parade and shared a major highlight of the parade was seeing former mayor Bud Starker at the beginning of the route. Commissioner Kerr thanked Sheriff Marinelli and her team for taking the Commissioners on their annual jail tour. C
 
-## [jefferson-county#5] 2026-08-11 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#3] 2026-08-11 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - FRICO Canal Crossing Agreement, purchase and sale of real property interest under C.R.S. § 24-6-402(4)(a) and advice to negotiators, under C.R.S. § 24-6-402(4)(e)
 - SAM certifications, legal advice under C.R.S. § 24-6-402(4)(b)
 - Development & Transportation
@@ -117,13 +74,13 @@
 - Clean Version_JCHS Strategic Plan - June 2026 Update.pdf
 - Facilities Master Plan
 
-## [jefferson-county#6] 2026-08-12 | Planning Commission | agenda
+## [jefferson-county#4] 2026-08-12 | Planning Commission | agenda
 - Discussion of Hybrid Meeting Procedures
 - Approval of Minutes
 - 25-122535RZ_PC Hearing Packet.pdf
 - Purpose: To rezone from Agricultural-Two (A-2) and Commercial-One (C-1) to Planned Development (PD) to allow a maximum of 143 dwelling units
 
-## [jefferson-county#7] 2026-08-18 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#5] 2026-08-18 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Stadium_District_Board_Presentation.pdf
 - Parks & Open Space
 - Meyer Ranch Park Forestry Contract
@@ -137,7 +94,7 @@
 - Project Emerald - Legal Advice under C.R.S. § 24-6-402(4)(b)
 - Real Estate Development - Legal Advice Under C.R.S. § 24-6-402 (4)(b)
 
-## [jefferson-county#8] 2026-08-18 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#6] 2026-08-18 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - August 18, 2026
 - Public Comment
 - Approval of Minutes Dated August 11, 2026
@@ -183,11 +140,11 @@
 - Commissioner Dahlkemper welcomed the Pine Beetle Task Force to Jefferson County. The Task Force is being hosted by Jefferson County in the building today and will hear how Jefferson County has been working to mitigate the damage caused by the pine beetle with presentations by Jefferson County Parks 
 - Commissioner Zenzinger congratulated the Gateway Partnership for Early Childhood Education for their successful kickoff. Commissioner Zenzinger shared the ECC partnership is a triad partnership shared with Clear Creek and Gilpin Counties and hopes to continue to strengthen this multi-county partners
 
-## [jefferson-county#9] 2026-08-24 | Board of County Commissioners Special Meeting | agenda
+## [jefferson-county#7] 2026-08-24 | Board of County Commissioners Special Meeting | agenda
 - Request for Motion to Move into Executive Session
 - Budget Practices – legal advice under C.R.S. § 24-6-402(4)(b)
 
-## [jefferson-county#10] 2026-09-01 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#8] 2026-09-01 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Statewide Internet Portal Authority Micro-Grant Award, GIS JMAP Redesign
 - jMap - Micro-Grant Award - Briefing Paper.pdf
 - Various Boards and Commissions Appointments
@@ -203,7 +160,7 @@
 - Driving on County Business Policy Amendments
 - Gateway to the Rockies Opioid Council (GROC) FTE Request
 
-## [jefferson-county#11] 2026-09-01 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#9] 2026-09-01 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - September 01, 2026
 - The Board of County Commissioners declared September 2026 as Workforce Development Month in Jefferson County. Kat Douglas, Housing, Economic, & Employment Services Director, spoke on the workforce development in Jefferson County
 - Public Comment
@@ -240,13 +197,13 @@
 - Commissioner Zenzinger wanted to extend gratitude to Kami Welch and the JeffCo EDC team for organizing a good Pure Community Leadership Exchange (PCLE) this year in Tucson, Arizona. Commissioners got to learn quite a bit from the local business leaders there in Tucson and how they are addressing the
 - Commissioner Kerr attended Donna Walker, the executive director of the Jefferson County Public Libraries, retirement party and shared it was great to see everyone in attendance. Commissioner Kerr attended the Jeffco Parks and Open Space Volunteer Appreciation Event as well and noted it was great to 
 
-## [jefferson-county#12] 2026-09-09 | Planning Commission | agenda
+## [jefferson-county#10] 2026-09-09 | Planning Commission | agenda
 - Discussion of Hybrid Meeting Procedures
 - Approval of Minutes
 - 24-114721PFP_PC Hearing Packet.pdf
 - Preliminary and Final Plat
 
-## [jefferson-county#13] 2026-09-15 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#11] 2026-09-15 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Treasurers Unaudited Budget as of 7-31-2026 (PDF).pdf
 - Various Boards and Commissions Family Support Council Appointments
 - 2026 Board Appointment Recommendation Form FSC Membership.pdf
@@ -255,7 +212,7 @@
 - 15-Year Affordable Housing Strategic Plan Annual Implementation Update
 - 15 Year HSP Annual Updates Presentation - September 15, 2026 -Final.pdf
 
-## [jefferson-county#14] 2026-09-15 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#12] 2026-09-15 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - September 15, 2026
 - Sheriff Reggie Marinelli and David Clark, a representative from Congresswoman Brittany Pettersen, spoke on the one year anniversary of the Evergreen High School Shooting and how our community has come together since this tragic event. The Commissioners recognized the Evergreen Community as well as t
 - Public Comment
@@ -300,7 +257,7 @@
 - Hearing Regular Agenda - No Agenda Items
 - Commissioner Dahlkemper stated that she was excited about the expansion of the Head Start program in Lakewood, while the program is under scrutiny across the country, Jefferson County Commissioners are fully committed to supporting the Head Start program. Commissioner Dahlkemper thanked West Metro F
 
-## [jefferson-county#15] 2026-09-22 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#13] 2026-09-22 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Development & Transportation
 - BCC Briefing Presentation 9-22-2026.pdf
 - Martin Plate,
@@ -308,7 +265,7 @@
 - 2026 BCC Public Comment on Head Start NPRM.pdf
 - Attachment B - 2026 Grant Activity Summary.pdf
 
-## [jefferson-county#16] 2026-09-22 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#14] 2026-09-22 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - September 22, 2026
 - Public Comment
 - Approval of Minutes Dated September 15, 2026
@@ -332,7 +289,7 @@
 - Commissioner Kerr thanked JCPL and their retired Executive Director Donna Walker for their amazing work. Commissioner Kerr mentioned the expansion of the Lakewood HeadStart program and the Peace Pole Dedication by the Wheat Ridge Rotary Club. Commissioner Kerr noted some recent fundraising events su
 - County Manager Aldrete was interviewed by Denver7 news about Jefferson County where she reiterated the County’s focus on affordability, economic development, fiduciary responsibility with the taxpayer dollars and challenges that the county is facing with federal and state cuts to the Human Service P
 
-## [jefferson-county#17] 2026-09-23 | Board of County Commissioners Special Meeting | minutes
+## [jefferson-county#15] 2026-09-23 | Board of County Commissioners Special Meeting | minutes
 - Resolution CC26-251 Support Positions on Certain 2026 Ballot Measures
 - Following staff presentation, the Board approved unanimously Resolution CC26-251
 - Resolution CC26-252 Oppose Positions on Certain 2026 Ballot Measures
@@ -343,7 +300,7 @@
 - Resolution CC26-255 Support Position on Front Range Passenger Rail District Sales & Use Tax Measure 7A
 - Following staff presentation, The Board approved my majority vote Resolution CC26-255
 
-## [jefferson-county#18] 2026-09-29 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#16] 2026-09-29 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Purchase and Sale Agreement with Denver Water
 - Lakewood Navigation Center Operating Costs Intergovernmental Agreement
 - Various Boards and Commissions Appointments
@@ -364,7 +321,7 @@
 - Hildebrand Ranch Park – Sezell Diversion Structure Replacement
 - Hildebrand Ranch Park-Sezell Diversion Structure Replacement - Briefing Paper.pdf
 
-## [jefferson-county#19] 2026-09-29 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#17] 2026-09-29 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - September 29, 2026
 - The Board unanimously approved to excuse Commissioner Zenzinger's absence from today's hearing
 - Public Comment
@@ -406,7 +363,7 @@
 - Commissioner Kerr shared he met with our Jefferson County Legislators last week to discuss priorities of the county as well as goals moving forward. Commissioner Kerr attended the Head Start Roundtable with Congresswoman Pettersen at the Arvada Head Start site along with parents, teachers, and admin
 - County Manager Laura E. Aldrete shared that she enjoyed the opportunity to meet and recognize the Jeffco staff at the Employee Appreciation Event last week. Additionally, County Manager Aldrete had a tour of the Rocky Mountain Metropolitan Airport this week which was led by Erick Dahl and plans to m
 
-## [jefferson-county#20] 2026-10-13 | Board of County Commissioners Hearing | minutes
+## [jefferson-county#18] 2026-10-13 | Board of County Commissioners Hearing | minutes
 - Board of County Commissioners Hearing - October 13, 2026
 - Public Comment
 - Approval of Minutes Dated September 29, 2026
@@ -441,13 +398,13 @@
 - Commissioner Kerr recently attended the annual Colorado Opioid Abatement Council Conference. This council was originally created by Attorney General Phil Weiser and has accomplished many great things. Commissioner Kerr also noted some of these positive outcomes were recognized on Last Week Tonight w
 - County Manager Laura Aldrete thanked Kerry Wrenick and her team for their presentation today and wished to note that this navigation work includes training with partners. County Manager Aldrete attended a tour of the North Metro Fire Facility near RMMA and thanked the Fire Chief for this tour. Count
 
-## [jefferson-county#21] 2026-10-13 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#19] 2026-10-13 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - 2026 Special Resolution Extract Data.pdf
 - American Rescue Plan Fund Budget Revision
 - ARPA Budget Revision Briefing_10.13.2026 final.pdf
 - Approval of Lease at 500 Golden Ridge Road
 
-## [jefferson-county#22] 2026-10-14 | Planning Commission | agenda
+## [jefferson-county#20] 2026-10-14 | Planning Commission | agenda
 - Discussion of Hybrid Meeting Procedures
 - Approval of Minutes
 - 26-105014RZ_PC Hearing Packet.pdf
@@ -463,7 +420,7 @@
 - 17355 Jurassic Road and 17900 Trading Post Rd, Golden
 - Purpose: To develop a transportation hub with 397 parking spaces, make roadway improvements, and other associated grading/site improvements to serve Red Rocks Amphitheatre
 
-## [jefferson-county#23] 2026-10-20 | Board of County Commissioners Hearing | agenda
+## [jefferson-county#21] 2026-10-20 | Board of County Commissioners Hearing | agenda
 - Board of County Commissioners Hearing - October 20, 2026
 - Public Comment
 - Please see public comment instructions above
@@ -484,7 +441,77 @@
 - Hearing Consent Agenda - No Agenda Items
 - Hearing Regular Agenda - No Agenda Items
 
-## [jefferson-county#24] 2026-10-20 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+## [jefferson-county#22] 2026-10-20 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
 - Proposition 123 Expedited Review Incentive Bonus – Supplemental Funding Request
 - eScribe Expedited Review Incentive Briefing Paper Final Version.pdf
 - Junction Urban Renewal Plan TIF Revenue Sharing Negotiations – Legal Advice under C.R.S. § 24-6-402(4)(b) and Advice to Negotiators under C.R.S. § 24-6-402(4)(e)(I)
+
+## [jefferson-county#23] 2026-10-27 | Board of County Commissioners Hearing | agenda
+- Board of County Commissioners Hearing - October 27, 2026
+- Public Comment
+- Please see public comment instructions above
+- CONSENT AGENDA PROCEDURES - Items on the Business Meeting Consent Agenda generally are decided by The Board without further discussion at the meeting. However, any Board member may remove an item from the Business Meeting Consent Agenda for a presentation by staff and questions from the Board. The B
+- Approval of Minutes Dated October 20, 2026
+- Other Contracts and Resolutions for which Notice was not possible may be considered
+- Resolution CC26-280
+- 10-27-26 Expenditure Approval Memorandum.pdf
+- Expenditure Approval Listing
+- Resolution CC26-281
+- Expenditure Preapproval 11-3-2026.pdf
+- Expenditure Preapproval Listing dated October 29, 2026
+- Resolution CC26-282
+- Expenditure Preapproval 11-10-2026(1).pdf
+- Expenditure Preapproval Listing dated November 5, 2026
+- Resolution CC26-283
+- Abatement Refund of Property Taxes
+- Resolution CC26-284
+- Purchase Order - 80th Ave. Church Ditch Culvert Replacement - American West Construction, LLC – NTE $1,038,725.00 – Transportation & Engineering Division
+- Resolution CC26-285
+- eScribe Hearing Agenda Memo Conifer 2024 Fire Code Final.pdf
+- Conifer Fire Resolution 2024 IFC.pdf
+- Approval of the Fire Code Adopted by the Conifer Fire Protection District - Development and Transportation
+- Resolution CC26-286
+- eScribe Hearing Agenda Memo Elk Creek 2024 Fire Code Final.pdf
+- Elk Creek Fire Resolution 2024 IFC (1).pdf
+- Approval of the Fire Code Adopted by the Elk Creek Fire Protection District - Development and Transportation
+- Resolution CC26-287
+- City of Lakewood Bear Creek Greenbelt PS Co Subordination Agreement_Agenda Memo.pdf
+- City of Lakewood Bear Creek Greenbelt Public Service Company Subordination of Reverter Interest - City of Lakewood Bear Creek Greenbelt - Parks and Open Space
+- Resolution CC26-288
+- eScribe Hearing Agenda Memo - North Table Mountain.pdf
+- Purchase Order – North Table Mountain Park Improvements – American West Construction LLC (NTE $3,224,336.00) – Parks and Open Space
+- 2027 Proposed Budget
+- 2027 Proposed Budget Presentation - 10-27-2026.pdf
+- 2027 Proposed Budget Book.pdf
+- 2027 Proposed Budget Presentation
+- Resolution CC26-289
+- Resolution CC26-290
+- 2026 Special Resolution Extract Data.pdf
+- Public Hearing
+- There are two parts to the Public Hearing Agenda: The Hearing Consent Agenda and the Regular Hearing Agenda
+- Items are listed on the Hearing Consent Agenda because no testimony is expected. In the event a Commissioner or any member of the public wishes to testify regarding an item on the Consent Agenda, the item will be removed and considered with the Regular Hearing Agenda
+
+## [jefferson-county#24] 2026-10-27 | Board of County Commissioners Staff Briefings and Work Sessions | agenda
+- Hazard Mitigation Plan Adoption
+- 10.27.26 Hazard Mitigation Plan Briefing Paper - Final.pdf
+- 2026 Jefferson County Hazard Mitigation Plan - DRAFT OCT 2026 Ok for Public.pdf
+- 2026 Jefferson County HMP - Local Government Annexes - DRAFT OCT 2026 Ok for Public.pdf
+- Attachment D - GAIA Report Presentation.pdf
+- Development & Transportation
+- Acceptance of Roads for Ownership and Maintenance
+- 2026-acceptance-of-roads-briefing-paper.pdf
+- 2026 Colorado Department of Transportation Mileage Certification Report
+- 2026-cdot-mileage-certification-briefing-paper.pdf
+- Junction Urban Renewal Plan TIF Revenue Sharing Negotiations
+- GURA The Junction Presentation_10_27.pdf
+- Intergovernmental Agreement between Jefferson County and the District Attorney for the First Judicial District for Shared Services of Human Resources, Applicable Fiscal Policies and Procedures, and the Provision and Optional Use of Shared Technology Services - Legal Advice under C.R.S. § 24-6-402(4)
+
+## [jefferson-county#25] 2026-10-28 | Planning Commission | agenda
+- Discussion of Hybrid Meeting Procedures
+- Approval of Minutes
+- 24-131519PFP_PC Hearing Packet.pdf
+- Preliminary and Final Plat
+- 26-108455RZ_PC Hearing Packet.pdf
+- Hammerly Official Development Plan
+- 10446 Ammons Street, Westminster
+- Purpose: To rezone from Agricultural-Two (A-2) to Planned Development (PD) to allow an expanded Home Occupation for Craft Work

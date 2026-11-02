@@ -1,78 +1,13 @@
 # sterling
 
-## [sterling#0] 2026-07-28 | City Council | minutes
-- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
-- made to locate the requested auxiliary aid(s)
-- Regular City Council Agenda AMENDED 7/27/2026
-- Council Chambers, 421 N. 4th Street
-- The Council intends to consider, accept reports, accept testimony where applicable, and take action
-- A. Consideration of Regular City Council Minutes of July 14, 2026
-- B. Application for the Renewal of a Retail Marijuana License – Sugarloaf Dispensary located
-- at 336 E Chestnut Street
-- C. Application for the Renewal of a Hotel & Restaurant Liquor License – Hootenannies located
-- at 324 W Main Street
-- 7. Unscheduled Public Comment
-- A. First Reading of Ordinance No. 8, Series of 2026, an Ordinance amending the Sterling City
-- Code, Appendix A – Zoning, Chapter VII – Special Regulations, Section 709 – Veterinary
-- Clinics and Hospitals, and Appendix A – Zoning, Chapter IV – Use Regulations, Section
-- 402 – Schedule of permitted uses, to allow veterinary clinics as a Conditional Use within
-- Discussion and possible action regarding Resolution No. 7-5-26, Series of 2026, a
-- Resolution before the City of Sterling, Logan County, Colorado accepting a bid from Hard
-- Rock Civil, LLC for the 2026 Waterline Replacement Project #26-001
-- B. Discussion and possible action regarding Resolution No. 7-5-26, Series of 2026, a
-- Resolution before the City of Sterling, Logan County, Colorado approving an
-- Intergovernmental Agreement between the City of Sterling and Logan County concerning a
-- execute the Agreement
-- C. Discussion and possible action regarding Resolution 7-6-26, Series of 2026, a Resolution
-- sanitary sewer interceptor main failure and extending the Declaration beyond seven (7)
-- A Work Session will follow the regularly scheduled meeting to discuss the following topics:
-
-## [sterling#1] 2026-07-28 | City Council | minutes
-- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
-- made to locate the requested auxiliary aid(s)
-- Regular City Council Agenda AMENDED 7/27/2026
-- Council Chambers, 421 N. 4th Street
-- The Council intends to consider, accept reports, accept testimony where applicable, and take action
-- A. Consideration of Regular City Council Minutes of July 14, 2026
-- B. Application for the Renewal of a Retail Marijuana License – Sugarloaf Dispensary located
-- at 336 E Chestnut Street
-- C. Application for the Renewal of a Hotel & Restaurant Liquor License – Hootenannies located
-- at 324 W Main Street
-- 7. Unscheduled Public Comment
-- A. First Reading of Ordinance No. 8, Series of 2026, an Ordinance amending the Sterling City
-- Code, Appendix A – Zoning, Chapter VII – Special Regulations, Section 709 – Veterinary
-- Clinics and Hospitals, and Appendix A – Zoning, Chapter IV – Use Regulations, Section
-- 402 – Schedule of permitted uses, to allow veterinary clinics as a Conditional Use within
-- Discussion and possible action regarding Resolution No. 7-5-26, Series of 2026, a
-- Resolution before the City of Sterling, Logan County, Colorado accepting a bid from Hard
-- Rock Civil, LLC for the 2026 Waterline Replacement Project #26-001
-- B. Discussion and possible action regarding Resolution No. 7-5-26, Series of 2026, a
-- Resolution before the City of Sterling, Logan County, Colorado approving an
-- Intergovernmental Agreement between the City of Sterling and Logan County concerning a
-- execute the Agreement
-- C. Discussion and possible action regarding Resolution 7-6-26, Series of 2026, a Resolution
-- sanitary sewer interceptor main failure and extending the Declaration beyond seven (7)
-- A Work Session will follow the regularly scheduled meeting to discuss the following topics:
-- City Hall Service Center Fire Police Recreation Center Library Museum
-- A. Consideration of the Regular City Council Minutes of June 23, 2026
-- B. Application for the renewal of an Entertainment Facility Liquor License – Riverview Golf
-- Club located at 300 N Riverview Road
-- C. Application for the renewal of a Fermented Malt Beverage and Wine Liquor License
-- Walmart located at 1510 W Main Street
-- Jesse Mull – Resident – Requesting exception to turn his garage into his main home. Staff notified
-- him that this request will be placed before the Planning Commission in September
-- Kimberly Ertle Clark – County Resident – is requesting Council that the bus stops within the City
-- 8. Presentations
-- Jon George with BBA Water Consultants provided a presentation to Council regarding their
-
-## [sterling#2] 2026-08-05 | City Council | minutes
+## [sterling#0] 2026-08-05 | City Council | minutes
 - 2. Approval of Planning Commission minutes from meeting held June 3, 2026
 - a. Review a Map Amendment for J-Tab Rentals, LLC to change the zoning on the property
 - located at 917 Hamilton Street from High density Residential (R3) to Community
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Public Works Executive Assistant
 - locate the requested auxiliary aid(s)
 
-## [sterling#3] 2026-08-05 | City Council | minutes
+## [sterling#1] 2026-08-05 | City Council | minutes
 - Approval of Minutes
 - Chair Nelson requested approval of the April 1 and May 6, 2026 meeting minutes. No
 - Vote: 7 yes, minutes approved
@@ -110,7 +45,7 @@
 - The Commissioners agreed to table the discussion to give the Dispensary owners time
 - Vice Chair Bedford moved to table the discussion until the next meeting The motion
 
-## [sterling#4] 2026-08-11 | City Council | minutes
+## [sterling#2] 2026-08-11 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda – Amended 8/10/26
@@ -124,7 +59,7 @@
 - LLC for the 2026 Waterline Replacement Project #26-001
 - A. Executive Session to consider personnel matters, pursuant to C.R.S. 24-6-402(4)(f),
 
-## [sterling#5] 2026-08-11 | City Council | minutes
+## [sterling#3] 2026-08-11 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda – Amended 8/10/26
@@ -161,7 +96,7 @@
 - the Mayor to execute the Agreement
 - C. Discussion and possible action regarding Resolution 7-6-26, Series of 2026, a Resolution
 
-## [sterling#6] 2026-08-25 | City Council | minutes
+## [sterling#4] 2026-08-25 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -181,7 +116,7 @@
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 - 1. Court Fines and fees
 
-## [sterling#7] 2026-08-25 | City Council | minutes
+## [sterling#5] 2026-08-25 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -217,7 +152,7 @@
 - Reminder that September 3rd is the CML District Meeting. Let Staff know if you plan on
 - Mayor Pro Tem Knowles requested an update regarding the downtown sidewalks. Due to
 
-## [sterling#8] 2026-09-02 | City Council | minutes
+## [sterling#6] 2026-09-02 | City Council | minutes
 - 2. Approval of Planning Commission minutes from meeting held August 5, 2026
 - Review a variance request from Jesse Mull to convert a garage to a home on the property
 - located at 728 McKinley Street
@@ -225,7 +160,7 @@
 - Individuals with disabilities needing auxiliary aid(s) may request assistance by contacting Public Works Executive Assistant
 - locate the requested auxiliary aid(s)
 
-## [sterling#9] 2026-09-08 | City Council | minutes
+## [sterling#7] 2026-09-08 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -239,7 +174,7 @@
 - certain city-owned real property located in Lot 4, Block 8, Platte Addition, third filing, Logan
 - A Work Session will follow the regularly scheduled meeting to discuss the following topics:
 
-## [sterling#10] 2026-09-08 | City Council | minutes
+## [sterling#8] 2026-09-08 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -273,12 +208,12 @@
 - Zoning, Chapter VII – Special Regulations, Section 709 – Veterinary Clinics and Hospitals,
 - and Appendix A – Zoning, Chapter IV – Use Regulations, Section 402 – Schedule of permitted
 
-## [sterling#11] 2026-09-14 | City Council | agenda
+## [sterling#9] 2026-09-14 | City Council | agenda
 - 2. APPROVAL OF MINUTES FROM MAY 2026
 - A. Sterling Rural Fire District
 - B. Public Comment
 
-## [sterling#12] 2026-09-22 | City Council | minutes
+## [sterling#10] 2026-09-22 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda Amended 9/21/2026
@@ -304,7 +239,7 @@
 - before the City of Sterling, Logan County, Colorado, approving the recommendation of the
 - Citizen’s Advisory Board to expend up to $10,000 from the Hotel Tax Fund to update and
 
-## [sterling#13] 2026-09-22 | City Council | minutes
+## [sterling#11] 2026-09-22 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Regular City Council Agenda Amended 9/21/2026
@@ -341,7 +276,7 @@
 - and reappoint Deanie VanBerg to the open positions on the Housing Authority of the City of
 - B. Discussion and possible action regarding Resolution 9-1-26, a Resolution approving a
 
-## [sterling#14] 2026-10-13 | City Council | minutes
+## [sterling#12] 2026-10-13 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
@@ -378,8 +313,72 @@
 - There was no public comment
 - Mayor Fuller closed the Public Hearing and reopened the Regular Meeting at 6:25 PM
 
-## [sterling#15] 2026-10-13 | City Council | minutes
+## [sterling#13] 2026-10-13 | City Council | minutes
 - Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
 - made to locate the requested auxiliary aid(s)
 - Council Chambers, 421 N. 4th Street
 - A. Executive Session to consider specialized details of security arrangements in the Council
+
+## [sterling#14] 2026-10-27 | City Council | minutes
+- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
+- made to locate the requested auxiliary aid(s)
+- Council Chambers, 421 N. 4th Street
+- 10/27/2026 at 5:30 PM – Amended 10/26/2026
+- The Council intends to consider, accept reports, accept testimony where applicable, and take action
+- A. Consideration of Special City Council Minutes of October 13, 2026
+- B. Consideration of Regular City Council Minutes of October 13, 2026
+- 7. Unscheduled Public Comment
+- 9. Presentation
+- A. Colorado Small Business Development Center – Jaydon Rice
+- A. Public Hearing – Proposed 2027 Budget
+- B. Mayor’s recommendation for the Parks, Library, and Recreation Board appointments
+- C. Review of new Fermented Malt Beverage and Wine Retailer License application for
+- Charmony Market located at 103 Logan Street; Determination of Needs and Desires; and
+- Setting of a Public Hearing Date
+- D. Discussion and possible action regarding Resolution 10-1-2026, Series of 2026, a
+- Resolution before the City of Sterling, Logan County, Colorado, approving a change order
+- to the agreement with Concrete Specialties and Utilities Construction Inc. for the 2025
+- Waterline Replacement Project #25-006
+- E. Discussion and possible action regarding Resolution 10-2-26, Series of 2026, a Resolution
+- before the City of Sterling, Logan County, Colorado, approving the recommendation of the
+- Citizen’s Advisory Board to expend up to $45,000 from the Hotel Tax Fund for the purchase
+- of holiday lighted garland wraps and a protective storage container for West Main Street
+- A Work Session will follow the regularly scheduled meeting to discuss the following topics:
+
+## [sterling#15] 2026-10-27 | City Council | minutes
+- Individuals needing auxiliary aid(s) may request assistance by contacting Harmony Malakowski at 970-522-9700 or at
+- made to locate the requested auxiliary aid(s)
+- Council Chambers, 421 N. 4th Street
+- 10/27/2026 at 5:30 PM – Amended 10/26/2026
+- The Council intends to consider, accept reports, accept testimony where applicable, and take action
+- A. Consideration of Special City Council Minutes of October 13, 2026
+- B. Consideration of Regular City Council Minutes of October 13, 2026
+- 7. Unscheduled Public Comment
+- 9. Presentation
+- A. Colorado Small Business Development Center – Jaydon Rice
+- A. Public Hearing – Proposed 2027 Budget
+- B. Mayor’s recommendation for the Parks, Library, and Recreation Board appointments
+- C. Review of new Fermented Malt Beverage and Wine Retailer License application for
+- Charmony Market located at 103 Logan Street; Determination of Needs and Desires; and
+- Setting of a Public Hearing Date
+- D. Discussion and possible action regarding Resolution 10-1-2026, Series of 2026, a
+- Resolution before the City of Sterling, Logan County, Colorado, approving a change order
+- to the agreement with Concrete Specialties and Utilities Construction Inc. for the 2025
+- Waterline Replacement Project #25-006
+- E. Discussion and possible action regarding Resolution 10-2-26, Series of 2026, a Resolution
+- before the City of Sterling, Logan County, Colorado, approving the recommendation of the
+- Citizen’s Advisory Board to expend up to $45,000 from the Hotel Tax Fund for the purchase
+- of holiday lighted garland wraps and a protective storage container for West Main Street
+- A Work Session will follow the regularly scheduled meeting to discuss the following topics:
+- City Hall Service Center Fire Police Recreation Center Library Museum
+- A. Executive Session to consider specialized details of security details of security arrangements
+- session to consider specialized details of security details of security arrangements, pursuant to
+- City Manager Sheldon requested that item 8C be removed from the agenda
+- Mayor Fuller requested that item 8A be removed from the agenda
+- A. Consideration of the Regular City Council Minutes of September 22, 2026
+- B. Application for a Renewal of a Retail Liquor Store Liquor License – Elm Street Liquor
+- located at 201 Elm Street
+- C. Application for a Renewal of a Retail Liquor Store Liquor License – Cowboy Down Liquor
+- located at 202-204 Main Street
+- Rudy Owen – Resident – Lives near Pioneer Park and is unhappy with traffic traveling too fast
+- down the road. The speeding makes it difficult to cross the street and enjoy the park. She also

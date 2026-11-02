@@ -1,109 +1,110 @@
-- title: Data center moratorium and new data center rules
-  summary: Council adopted a moratorium on development applications that include a data center, directed staff to write data center regulations, and worked through development standards and a zoning use table change for data centers, ending in a public hearing in October.
+- title: Data center moratorium and zoning standards
+  summary: Council took up a data center moratorium resolution (R2026-111) that would pause acceptance or processing of development applications with a data center as the primary use, with a waiver of reconsideration requested as time-sensitive. Council also held standards discussions and a public hearing on ordinance 2026-51, a Unified Development Ordinance text amendment to the permitted use table for data centers. An earlier agenda paired this with an evaporative cooling ordinance from Aurora Water.
   where: Citywide
   refs:
-  - 1
+  - 0
   - 2
-  - 4
+  - 7
+  - 8
   - 9
-  tags:
-  - data-center
-  public_comment: true
   topics:
   - Data centers
   - Zoning & development
-- title: Water rules on evaporative cooling, turf and water features
-  summary: Council passed Aurora Water ordinances on evaporative cooling and limits on new turf and ornamental water features, and set 2027 water rates and fees.
-  where: Citywide
-  refs:
-  - 2
-  - 6
-  - 8
-  topics:
   - Water
-  - Fees & rates
-  - Environment & climate
-- title: 2027 budget deliberations
-  summary: Council spent a day going department by department through the 2027 budget, service fees, pay tables and improvement district budgets.
+  tags:
+  - data-center
+- title: 2027 city budget deliberations, fees and rates
+  summary: Council held a full-day budget session on Oct. 3 covering department budgets, the capital projects fund, proposed 2027 service fees, a 2026-2027 pay table, and 2027 budgets for several general improvement districts. On Oct. 12 it considered 2027 proposed rates and fees and a new fund to self-fund United Healthcare employee coverage.
   where: Citywide
   refs:
-  - 7
-  - 8
+  - 5
+  - 6
   topics:
   - Budget & taxes
   - Fees & rates
-- title: Homeless services funding and the Regional Navigation Campus
-  summary: Council funded outdoor renovations at the Aurora Regional Navigation Campus and reviewed a slate of homeless services grant recommendations for emergency shelter, rapid rehousing and rental help.
-  where: Aurora Regional Navigation Campus
+  - Government operations
+- title: Homeless services funding awards
+  summary: Council considered a series of Homeless Services Notice of Funding Opportunity applications, with recommendations including Advance Pathways and Aurora Housing Authority grants (Emergency Solutions Grant, HOME tenant-based rental assistance, marijuana funds). The items moved from the Oct. 12 study agenda to the Oct. 26 consent calendar.
+  where: Citywide
   refs:
-  - 0
-  - 8
+  - 6
+  - 9
   topics:
   - Homelessness
+  - Housing
   - Health & human services
-- title: Nine Mile Station redevelopment
-  summary: The Aurora Urban Renewal Authority amended the Point Crossing agreement and approved a redevelopment agreement for the Tempo at Nine Mile Station apartments.
-  where: Nine Mile Station
+- title: 'Affordable housing: Mercy Housing ground lease and bond allocation'
+  summary: Council considered a ground lease with Mercy Housing Mountain Plains for an affordable housing project (R2026-107), with an outside speaker listed. Council also considered assigning the city's 2026 private activity bond allocation to the Aurora Housing Authority.
+  where: Aurora
   refs:
+  - 0
   - 4
   topics:
-  - Zoning & development
   - Housing
-  - Economic development
-- title: Affordable housing ground lease with Mercy Housing
-  summary: Council approved a ground lease with Mercy Housing for an affordable housing project and assigned the city's private activity bonds to the Aurora Housing Authority.
-  where: Citywide
+  - Land & property
+  public_comment: true
+- title: Nine Mile Station and urban renewal redevelopment agreements
+  summary: The Aurora Urban Renewal Authority board considered amendments and agreements for The Point Crossing and Tempo at Nine Mile Station apartments in the Plaza 3 area, plus a restated finance agreement for Plaza 1. An IGA between the city and the Authority followed to council on Oct. 26.
+  where: Nine Mile Station, Plaza 1 and Plaza 3 urban renewal areas
   refs:
   - 2
-  - 6
-  topics:
-  - Housing
-  - Land & property
-- title: Socioeconomic sales and services impact permit
-  summary: Council introduced an ordinance requiring an impact permit for certain sales and services businesses.
-  where: Citywide
-  refs:
-  - 0
-  - 3
+  - 9
   topics:
   - Economic development
-  - Downtown & business
-  - Government operations
-- title: Support for Proposition 308
-  summary: Council took up a resolution supporting state ballot Proposition 308.
-  where: Statewide ballot
-  refs:
-  - 0
-  - 3
-  topics:
-  - Elections
-  - Government operations
-- title: Oil and gas lease and advisory board
-  summary: Council considered an oil and gas lease and filled seats on the Oil and Gas Advisory Committee.
+  - Zoning & development
+  - Housing
+- title: Water restrictions on turf and ornamental water features
+  summary: Council finalized ordinances on new turf and ornamental water features, including one prohibiting certain permits, as part of Aurora Water conservation efforts. An evaporative cooling ordinance was also on an earlier agenda.
   where: Citywide
   refs:
   - 0
-  - 3
   - 4
   topics:
-  - Oil, gas & mining
-  - Land & property
-- title: Police and fire union contracts
-  summary: Council approved 2027-2028 collective bargaining agreements with the firefighters' and police unions.
-  where: Citywide
+  - Water
+  - Environment & climate
+- title: 'Water agreements: Lake County IGA and Westerly Creek storm sewer'
+  summary: Council considered an amended and restated IGA with Lake County on water deliveries and storage, with a waiver of reconsideration requested to assist Lake County. It also took up an IGA for the Akron storm sewer and outfall to Westerly Creek for flood control improvements.
+  where: Lake County; Westerly Creek
   refs:
-  - 3
+  - 6
+  - 9
   topics:
-  - Government operations
-  - Policing & public safety
-  - Fire & emergencies
-- title: Regis Jesuit High comprehensive plan change
-  summary: Council held a public hearing on changing the comprehensive plan map for land near Regis Jesuit High north of East Arapahoe Road.
-  where: E Arapahoe Rd & S Olathe St
+  - Water
+  - Utilities
+- title: Regis Jesuit High comprehensive plan amendment
+  summary: Council held a public hearing on ordinance 2026-44 to amend the 2018 Comprehensive Plan placetype map for the Regis Jesuit High site, north of East Arapahoe Road and west of S. Olathe Street.
+  where: North of E. Arapahoe Road, west of S. Olathe St.
   refs:
-  - 3
-  public_comment: true
+  - 1
   topics:
   - Zoning & development
   - Land & property
-  - Schools & youth
+- title: Fire and police labor contracts and public safety grants
+  summary: 'Council considered 2027-2028 collective bargaining agreements with IAFF Local and Fraternal Order of Police Lodge #49. It also considered police grant applications, including a state peace officer mental health program and a Department of Justice cybercrimes grant, plus mutual aid agreements with fire districts.'
+  where: Citywide
+  refs:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 7
+  topics:
+  - Policing & public safety
+  - Fire & emergencies
+  - Government operations
+- title: Industrial zoning and food truck rules
+  summary: Council considered a Unified Development Ordinance amendment for industrial zone districts and a text amendment to food truck standards and definitions.
+  where: Citywide
+  refs:
+  - 0
+  - 6
+  topics:
+  - Zoning & development
+  - Downtown & business
+- title: Bethel Lutheran Church historic designation
+  summary: Council held a public hearing on ordinance 2026-52 designating Bethel Lutheran Church as a historic landmark.
+  where: Bethel Lutheran Church
+  refs:
+  - 7
+  topics:
+  - Historic preservation

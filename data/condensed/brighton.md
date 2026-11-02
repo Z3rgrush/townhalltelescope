@@ -1,19 +1,6 @@
 # brighton
 
-## [brighton#0] 2026-07-28 | City Council | agenda
-- Act. Any request for an interpreter must be made by 9:00 a.m. on
-- Monthly Contract Listing - June 2026ID-224-266:00
-- Executed Contract Listing - June 2026Attachments:
-- City of Brighton, Colorado 2025 YE Audit Presentation
-- Temporary Sign Regulations Land Use Code AmendmentID-226-266:30
-- Draft Code Amendment Redlines
-- Draft PowerPoint Presentation
-- North 40th Avenue Construction ProjectID-221-267:15
-- North 40th Ave Construction_Presentation 2026 Council Study Session.pptxAttachments:
-- Avenue Roadway Construction
-- Presentation 40th Avenue - IGA with 27J.pptxAttachments:
-
-## [brighton#1] 2026-08-04 | City Council | agenda
+## [brighton#0] 2026-08-04 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the July 7, 2026 City Council MinutesID-229-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
@@ -39,7 +26,7 @@
 - EXECUTED by 27J IGA Concerning North 40th Avenue Construction Regional Detention Pond Construction Easements and Maintenance Agreement Dated 5 27 26.pdf
 - Presentation 40th Avenue - IGA with 27J.pptx
 
-## [brighton#2] 2026-08-11 | City Council | agenda
+## [brighton#1] 2026-08-11 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Land Use Scenarios for City-Owned Property on Bridge StreetID-240-266:30
 - Staff PowerPoint PresentationAttachments:
@@ -51,7 +38,7 @@
 - Land Use and Development Code Article 10 AmendmentsID-241-268:15
 - LUDC Article 10 Amendments- SS Presentation_Final
 
-## [brighton#3] 2026-08-18 | City Council | agenda
+## [brighton#2] 2026-08-18 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the July 21, 2026 City Council MinutesID-234-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
@@ -76,7 +63,7 @@
 - 8. ORDINANCES FOR FINAL CONSIDERATION
 - 9. RESOLUTIONS
 
-## [brighton#4] 2026-08-18 | South Brighton General Improvement District | agenda
+## [brighton#3] 2026-08-18 | South Brighton General Improvement District | agenda
 - South Brighton General Improvement District
 - Any request for an interpreter must be made by 9:00 a.m. on the
 - 2. APPROVAL OF REGULAR AGENDA
@@ -86,7 +73,7 @@
 - A RESOLUTION OF THE SOUTH BRIGHTON GENERAL
 - IMPROVEMENT DISTRICT TO CERTIFY THE BALLOT CONTENT FOR
 
-## [brighton#5] 2026-08-25 | City Council | agenda
+## [brighton#4] 2026-08-25 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Study Session - Amended
 - Proposed 2027 and 2028 BudgetsID-248-26
@@ -96,7 +83,7 @@
 - Q2 2026 Financial Update Presentation
 - Q2 2026 Financial Update Presentation - Corrected
 
-## [brighton#6] 2026-09-01 | City Council | agenda
+## [brighton#5] 2026-09-01 | City Council | agenda
 - Civil Rights Act. Any request for an interpreter must be made
 - Approval of the August 4, 2026 City Council MinutesID-251-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF
@@ -122,7 +109,7 @@
 - PRIVATE ACTIVITY BOND ALLOCATION OF THE CITY PURSUANT
 - TO THE COLORADO PRIVATE ACTIVITY BOND CEILING
 
-## [brighton#7] 2026-09-08 | City Council | agenda
+## [brighton#6] 2026-09-08 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Executed Contract Listing - July 2026ID-257-266:00
 - Executed Contract Listing - July 2026Attachments:
@@ -142,7 +129,7 @@
 - Policy BC Appointments 2nd Revision 2026 Clean
 - Board and Commission Policy Amendments Presentation
 
-## [brighton#8] 2026-09-15 | City Council | agenda
+## [brighton#7] 2026-09-15 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the August 18, 2026 City Council MinutesID-260-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,
@@ -187,7 +174,7 @@
 - Policy BC Appointments 2nd Revision 2026 v2 clean
 - Policy BC Appointments 2nd Revision 2026 v2
 
-## [brighton#9] 2026-10-06 | City Council | agenda
+## [brighton#8] 2026-10-06 | City Council | agenda
 - Civil Rights Act. Any request for an interpreter must be made
 - Approval of the September 1, 2026 City Council MinutesID-272-26A
 - AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF
@@ -228,7 +215,7 @@
 - 9. RESOLUTIONS
 - RESO 26 - Assigning 179D Tax DeductionAttachments:
 
-## [brighton#10] 2026-10-13 | City Council | agenda
+## [brighton#9] 2026-10-13 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - 2027 Employee Benefit PresentationID-291-266:00
 - COB 2027 Employee Benefit PresentationAttachments:
@@ -237,7 +224,7 @@
 - Cherry Meadows Pond Maintenance - SS Presentation_Final.pptxAttachments:
 - Lupton Meadows ESDC - SS Presentation_FinalAttachments:
 
-## [brighton#11] 2026-10-20 | City Council | agenda
+## [brighton#10] 2026-10-20 | City Council | agenda
 - Act. Any request for an interpreter must be made by 9:00 a.m. on
 - Approval of the September 15, 2026 City Council MinutesID-286-26A
 - A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF BRIGHTON,

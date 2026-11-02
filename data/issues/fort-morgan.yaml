@@ -1,5 +1,16 @@
+- title: Electric rate increase (Ordinance No. 1338)
+  summary: Utilities Director Doug Linton presented a rate study and an ordinance raising electric rates. Notices went out July 31 and the first reading was approved Aug. 18. After a Sept. 1 public hearing where resident Cynthia Ruppel opposed the increase, council approved the second reading. The city said it buys power and passes the cost on to customers.
+  where: Citywide
+  refs:
+  - 3
+  - 6
+  topics:
+  - Fees & rates
+  - Utilities
+  - Energy
+  public_comment: true
 - title: Police chief departure and interim chief appointment
-  summary: At the Oct. 6 meeting, many residents criticized the council over the former police chief's departure and urged a quick hire of a new chief. The Oct. 20 agenda includes appointing Steve Brown as Interim Police Chief and a personnel executive session with a check-in with the interim chief.
+  summary: At the Oct. 6 meeting, many residents criticized how the former police chief left and the council's handling of it. Some praised the police department and urged hiring a new chief. The Oct. 20 agenda includes appointing Steve Brown as Interim Police Chief and an executive session personnel check-in with him.
   where: Citywide
   refs:
   - 12
@@ -8,19 +19,8 @@
   - Policing & public safety
   - Government operations
   public_comment: true
-- title: Electric rate increase (Ordinance No. 1338)
-  summary: Following a rate study presented in May, council passed first reading on Aug. 18 and held a Sept. 1 public hearing. Resident Cynthia Ruppel opposed the increase. Council approved second reading, with the city saying it passes on its power purchase costs.
-  where: Citywide
-  refs:
-  - 3
-  - 6
-  topics:
-  - Utilities
-  - Fees & rates
-  - Energy
-  public_comment: true
-- title: 2027 budget process
-  summary: Council has been reviewing 2027 department expense budgets over several meetings. The city manager said the direction would be adjusted after Cargill and the Teamsters agreed on a labor contract. The police department asked for a records technician. The Oct. 20 agenda covers the capital improvement, conservation trust and perpetual care funds and the fee schedule.
+- title: 2027 city budget and labor contract adjustments
+  summary: Council has been reviewing 2027 department budgets since August. After Cargill and the Teamsters agreed on a labor contract, the city changed its budget timeline to give departments time to adjust. Police are seeking a records technician, and the Oct. 20 agenda covers the capital improvement, conservation trust and perpetual care funds plus the schedule of fees.
   where: Citywide
   refs:
   - 0
@@ -31,18 +31,19 @@
   topics:
   - Budget & taxes
   - Fees & rates
-- title: Aquatic facility and certificates of participation financing
-  summary: Council heard that the aquatic facility design, budget and timeline are unchanged and excavation is set to begin this fall. An ordinance authorizing certificates of participation to fund it had first reading on Oct. 6. Ordinance 1339 had its second reading and public hearing on the Oct. 20 agenda.
-  where: Fort Morgan
+  public_comment: true
+- title: Aquatic facility design and certificates of participation financing
+  summary: Council received an update on the aquatic facility design, with budget and timeline unchanged and excavation set to begin this fall. An ordinance authorizing certificates of participation to fund it had its first reading Oct. 6. The second reading and public hearing on Ordinance 1339 are set for Oct. 20.
+  where: Fort Morgan aquatic facility
   refs:
   - 12
   - 16
   topics:
   - Recreation & trails
   - Budget & taxes
-- title: Main Street historic landmark designations
-  summary: Council approved local historic landmark status for 325, 327 and 329 Main Street, the 33rd local landmark. The buildings are being remodeled with the Main Street Advisory Board. The Historic Preservation Board is tracking federal Section 106 changes and a state tax credit rule change.
-  where: 325-329 Main Street
+- title: Historic landmark designations on Main Street
+  summary: Council approved local historic landmark designations for 325, 327 and 329 Main Street, the 329 building being the 33rd local landmark. The former Fort Morgan Times building was among those designated. The Historic Preservation Board also filled seats and is tracking changes to federal Section 106 rules and the state residential tax credit program.
+  where: 325, 327 and 329 Main Street
   refs:
   - 0
   - 2
@@ -51,26 +52,26 @@
   topics:
   - Historic preservation
   - Downtown & business
-- title: Special use permit for upstairs apartment at 305-307 Main St.
-  summary: Council approved a special use permit for a new residential living space above a tattoo shop. Downtown zoning requires council approval, and the state health department requires a separate outdoor entrance. No public comments were received.
-  where: 305-307 Main Street
-  refs:
-  - 4
-  - 9
-  topics:
-  - Zoning & development
-  - Downtown & business
-  - Housing
-- title: Pointe Village Commercial Park lot sale for grocery store
-  summary: Council authorized selling three lots totaling 1.5 acres in Pointe Village Commercial Park to K&M LLC. It also approved a development agreement for a grocery store.
+- title: Sale of Pointe Village Commercial Park lots for grocery store
+  summary: Council approved selling three lots totaling 1.5 acres in Pointe Village Commercial Park subdivision to K&M LLC and approved the development agreement. The lots are intended for a grocery store.
   where: Pointe Village Commercial Park
   refs:
   - 6
   topics:
   - Land & property
   - Economic development
-- title: 'Water agreements: irrigation lease and Southern Water Supply Project'
-  summary: The Oct. 20 agenda includes resolutions extending the riverside irrigation and quality water lease and amending the allotment contract in the Southern Water Supply Project Pipeline. It also covers amending and extending a development agreement with NCHD.
+- title: Special use permit for upstairs apartment at 305-307 Main Street
+  summary: Council approved a special use permit for a new residential living space above a tattoo shop in the downtown overlay district. State health rules require a separate outdoor entrance. No public comments were received.
+  where: 305-307 Main Street
+  refs:
+  - 4
+  - 9
+  topics:
+  - Zoning & development
+  - Housing
+  - Downtown & business
+- title: Water leases, pipeline contract and NCHD agreement
+  summary: The Oct. 20 agenda includes resolutions to extend the riverside irrigation and quality water lease, amend the Southern Water Supply Project pipeline allotment contract, and amend and extend the development agreement with NCHD.
   where: Citywide
   refs:
   - 16
@@ -78,7 +79,7 @@
   - Water
   - Land & property
 - title: Airport apron expansion naming and obstruction light project
-  summary: The Airport Advisory Board has repeatedly discussed naming the aircraft parking apron expansion in honor of an individual. It also has an obstruction light project update.
+  summary: The Airport Advisory Board repeatedly discussed naming the aircraft parking apron expansion in honor of a person named Kyle. It also has an obstruction light project update.
   where: Fort Morgan airport
   refs:
   - 1
@@ -87,8 +88,7 @@
   topics:
   - Airports
 - title: Economic incentive negotiations in executive session
-  summary: Council went into executive session in August to discuss economic incentives and negotiation strategy, with the economic development specialist and outside parties present. No outcome is stated in the documents.
-  where: Citywide
+  summary: Council twice met in executive session with the economic development specialist and outside parties to discuss economic incentives. No details or decisions were stated.
   refs:
   - 0
   - 3

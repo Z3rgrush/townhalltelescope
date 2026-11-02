@@ -201,3 +201,15 @@
 - Presenter: Marc Kurbansade, Deputy City Manager/Community Development
 - Therapy Dog Discussion
 - Presenter: Jad Lanigan, Police Chief
+
+## [dacono#19] 2026-10-27 | Planning and Zoning Commission | agenda
+- Meeting Location: Annex Building, 512 Cherry Avenue, Building C, Dacono, CO,
+- APPROVAL OF MINUTES
+- Approval Of Minutes For The October 13, 2026 Meeting
+- Consideration Of PC Resolution No. 26-11, A Resolution Recommending Denial Of A
+- Site Plan And Industrial Use For Silver Peaks Warehouse
+- Public Hearing And Consideration Of Resolution 26-12, A Resolution Recommending
+- Approval Of An Ordinance Amending The Dacono Municipal Code To Amend The
+- Procedural Requirements For PUD And Subdivision Applications To Allow For
+- Administrative Approvals Of Final Documents That Conform With Approved Preliminary
+- PC RESO 26-12 PUD PROCESS AMENDMENTS.PDF

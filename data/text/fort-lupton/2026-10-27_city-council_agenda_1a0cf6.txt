@@ -1,0 +1,2346 @@
+ 
+ 
+CITY OF FORT LUPTON 
+CITY COUNCIL/ENTERPRISE BOARDS 
+TOWN HALL MEETING AGENDA 
+Tuesday, October 27, 2026 
+6:00 PM 
+130 South McKinley Avenue 
+Chris Ceretto, Mayor 
+Valerie Blackston, Ward 1 
+Bruce Davis, Ward 2 
+Michael Sanchez, Ward 3 
+David Crespin, Ward 1 
+Claud Hanes, Ward 2 
+Bruce Fitzgerald, Ward 3 
+ 
+ 
+ 
+You may join in person or join remotely by clicking on: 
+https://meet.goto.com/695781005  
+Call to Order  
+General Discussion – The Town Hall meeting is for the Public to have open discussion with Council regarding any 
+topic. This list is not all-inclusive. The following topics are items to be presented to Council by staff and may or may not be 
+followed by discussion. No transcripts or summary are taken during Town Hall meetings.  
+a. Ratifying the Appointment of Lynette Hanzlicek for Region 2 and Dr. Carmody Lee for 
+Region 4 to the High Plains Library District 
+b. Requesting Waiver of $25 renewal fee for 2027 Business License 
+c. Porta Potty Agreement Discussion 
+d. Koshio Park Update 
+e. Koshio Park Gazebo Discussion 
+f. Xcel Temporary Access Agreement 
+g. Draft Housing Action Plan and Strategic Growth Element Discussion 
+h. Draft Comprehensive Plan Future Land Use Categories Discussion 
+Adjourn  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 117
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CITY OF FORT LUPTON  
+STRATEGIC GROWTH 
+ELEMENT 
+December 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ADOPTED BY THE CITY OF FORT LUPTON PLANNING COMMISSION MONTH DAY , 2026  
+RESOLUTION NO. 2026-XX-XX 
+APPROVED BY CITY COUNCIL MONTH DAY, 2026 
+Prepared by  
+  
+Page 2 of 117
+ 
+2                          Fort Lupton Strategic Growth Element 2026 
+ 
+Table of Contents 
+CHAPTER 1: INTRODUCTION .............................................................................................................................. 3 
+CHAPTER 2: LOCAL CONDITIONS AND STRATEGIC GROWTH FRAMEWORK  .......................................................... 5 
+CHAPTER 3: STRATEGIC GROWTH POLICIES AND TOOLS  ................................................................................... 18 
+CHAPTER 4: INFILL AND REDEVELOPMENT ANALYSIS ........................................................................................ 20 
+CHAPTER 5: GREENFIELD DEVELOPMENT ANALYSIS ......................................................................................... 37 
+CHAPTER 6: STRATEGIC GROWTH RECOMMENDATIONS AND IMPLEMENTATION ............................................... 55 
+APPENDIX A: DATA SOURCES, METHODS, ASSUMPTIONS, AND LIMITATIONS  ..................................................... 59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 117
+ 
+3                          Fort Lupton Strategic Growth Element 2026 
+ 
+CHAPTER 1: INTRODUCTION 
+1.1 Purpose 
+The Strategic Growth Element (SGE) is a required component of municipal comprehensive planning under Colorado 
+Senate Bill 24-174 (SB24-174). It establishes a framework for directing growth toward locations that can make 
+effective use of existing infrastructure and services, support housing and economic needs, and consider long -term 
+fiscal and environmental impacts.  
+By promoting targeted growth patterns, the Strategic Growth Element helps communities identify opportunities to 
+accommodate future housing, business, and public investment in locations that maximize existing infrastructure, 
+services, and community assets. This approach supports efficient land use while preserving the qualities that make 
+each community unique.  
+The Strategic Growth Element addresses three required components: 
+1. Strategic Growth Policies and Tools 
+2. Infill and Redevelopment 
+3. Greenfield Development 
+1.2 Strategic Growth in Fort Lupton 
+Fort Lupton is experiencing continued residential, commercial, and industrial 
+growth driven by its location within the Front Range and regional transportation 
+network. Unlike many communities planning for anticipated growth, Fort 
+Lupton is already experiencing active development, with residential 
+construction, employment growth, and new development projects occurring 
+throughout the community. 
+Strategic growth in Fort Lupton means balancing reinvestment in existing 
+neighborhoods and commercial areas with carefully planned expansion that 
+aligns with housing needs, infrastructure and water capacity, public -service 
+delivery, and long-term fiscal sustainability. The Strategic Growth Element 
+provides a framework for evaluating growth opportunities and supporting 
+decisions that benefit both current and future residents.  
+Growth decisions should consider housing and employment needs, infrastructure and water capacity, 
+transportation and public services, long-term fiscal responsibilities, agricultural and environmental resources, and 
+community priorities. By directing development to appropriate locations and encouraging reinvestment in existing 
+areas, Fort Lupton can accommodate growth while advancing its long -term community, economic, and fiscal goals. 
+1.3 Coordinated Approach 
+The Strategic Growth Element was developed alongside the Comprehensive Plan update, Water Supply Element, 
+and Housing Action Plan as part of an integrated planning framework to guide Fort Lupton’s future growth and 
+development.  
+The SGE uses these companion efforts to connect growth decisions to the Future Land Use Map, identified housing 
+needs, water availability and system capacity, infrastructure planning, and long -term service responsibilities. 
+Together, these plans help align land use, housing, public investment, and infra structure decisions to support 
+coordinated growth. Detailed relationships to these plans and projects are summarized in Section 2.3.  
+What Is Strategic Growth? 
+Strategic Growth does not determine 
+where development occurs. It helps 
+decisionmakers understand how 
+future housing and development 
+opportunities relate to infrastructure, 
+public services, housing needs, fiscal 
+responsibilities, and community 
+priorities. 
+Page 4 of 117
+ 
+4                          Fort Lupton Strategic Growth Element 2026 
+ 
+The maps and priority areas identified in the SGE provide policy direction only. They do not change zoning, establish 
+development rights, indicate property availability, approve annexation, or commit the City to infrastructure 
+extensions. Individual proposals remain subject to applicable development review and site- specific infrastructure, 
+access, environmental, market, and fiscal considerations. 
+The SGE will be reviewed by the Planning Commission and adopted by the City Council alongside the Water Supply 
+Element and Housing Action Plan. This coordinated review process helps ensure consistency between the Strategic 
+Growth Element and the broader vision, goals, and policies of the Comprehensive Plan. 
+ 
+Page 5 of 117
+ 
+5                          Fort Lupton Strategic Growth Element 2026 
+ 
+CHAPTER 2: LOCAL CONDITIONS AND STRATEGIC 
+GROWTH FRAMEWORK 
+2.1 Community Overview 
+Fort Lupton is a growing Front Range community located in southern Weld County at the intersection of U.S. 
+Highway 85 (US 85) and State Highway 52 (Highway 52). The city serves as an important residential, employment, 
+commercial, and transportation center within northern Colorado , benefiting from regional access to the Denver 
+metropolitan area, Greeley, Boulder County communities, and eastern Weld County while maintaining a distinct 
+identity rooted in agriculture, industry, and small-town character.  
+The City's development pattern has 
+historically been influenced by agricultural 
+activity, transportation infrastructure, and 
+regional commerce. Downtown Fort 
+Lupton developed around Denver Avenue 
+and the Union Pacific Railroad corridor, 
+while more recent growth has expanded 
+outward into new residential 
+neighborhoods, commercial centers, 
+employment districts, schools, parks, and 
+community facilities. Continued growth 
+throughout the Front Range has increased 
+development interest in Fort Lupton, 
+creating opportunities to expand housing, 
+employment, and community amenities 
+while maintaining the qualities that define 
+the community. 
+2.2 Growth Framework and 
+Development Patterns 
+Growth Boundary and Regional 
+Relationships  
+As part of the ongoing Comprehensive 
+Plan update, Fort Lupton has established a 
+Growth Boundary that serves as the 
+primary planning geography for evaluating 
+future growth opportunities. It reflects the 
+community's evolving vision for long-term 
+growth and development.  
+The Growth Boundary is intended for 
+planning purposes only. It does not 
+establish development rights, indicate 
+property availability, prioritize annexation, 
+or commit the City to extending 
+infrastructure or municipal services. 
+Instead, it identifies the broader area 
+Page 6 of 117
+ 
+6                          Fort Lupton Strategic Growth Element 2026 
+ 
+within which Fort Lupton may evaluate future housing, employment, redevelopment, infrastructure, environmental, 
+and growth opportunities over time. 
+The boundary is informed by a variety of factors, including existing development patterns, transportation corridors, 
+utility service considerations, agricultural land uses, environmental constraints, and long -term growth objectives. It 
+also reflects Weld County's approach of directing urban-scale development toward municipalities that can 
+efficiently provide infrastructure, public services, and coordinated long -range planning. 
+Regional relationships are another important consideration. Fort Lupton has entered into intergovernmental 
+agreements with neighboring communities, including Platteville, Brighton, and Firestone, to establish mutually 
+understood planning areas, municipal boundaries, annexation expectations, and service responsibilities. These 
+agreements help coordinate future growth, reduce potential jurisdictional conflicts, and provide greater certainty 
+for long-term infrastructure planning, economic development, and serv ice delivery. 
+By recognizing these local and regional considerations, the Growth Boundary provides a realistic framework for 
+evaluating future growth opportunities while supporting consistency with the Comprehensive Plan update and other 
+related planning efforts. 
+Land Use Pattern 
+The Future Land Use Map establishes Fort Lupton’s intended long-term land-use pattern. Land within the planning 
+area is categorized by land use designation, providing a framework for understanding the community's development 
+pattern and informing future planning and development decisions. This pattern supports flexibility for long-term 
+needs while recognizing physical constraints, agricultural resources, and utility service considerations .  
+Several distinct land use areas characterize Fort Lupton: 
+• Downtown Fort Lupton and the Denver Avenue corridor function as the community's historic , civic, 
+commercial, and mixed-use center.  
+• Commercial uses are concentrated along major corridors, including Highway 52 and portions of US  85. 
+• Industrial and larger employment-related uses are located along US 85, Northland industrial park, and 
+South Rollie industrial district. 
+• Residential neighborhoods surround the historic core and are supported by schools, parks, public facilities, 
+and community services. 
+• Agricultural and rural residential areas remain prominent throughout portions of the broader planning area 
+and continue to contribute to the community's identity and economy.  
+Together, these land use patterns reflect Fort Lupton's role as a residential, commercial, employment, and 
+agricultural community while providing context for the analyses presented throughout this Strategic Growth 
+Element. 
+Page 7 of 117
+ 
+7                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+ 
+Page 8 of 117
+ 
+8                          Fort Lupton Strategic Growth Element 2026 
+ 
+Development Pipeline 
+Fort Lupton is experiencing residential, commercial, and industrial development activity. City staff identified 
+approximately 3,200 housing units in various stages of planning, review, approval, or construction, reflecting 
+continued market interest and sustained residential growth throughout the community.  
+Development activity is occurring in multiple areas of the city, including areas east of County Road 29  (CR 29), north 
+and south of Highway 52, and within several recently approved or developing neighborhoods. These projects will 
+influence future housing supply, infrastructure planning, transportation investments, school enrollment, and 
+community service needs. 
+Recent development patterns generally align with the residential growth areas  and priority growth areas identified in 
+Chapters 4 and 5. Much of this activity has occurred adjacent to existing neighborhoods and utility infrastructure, 
+supporting coordinated and efficient growth patterns while expanding housing and employment opportunities.  
+Current development trends and staff discussions suggest future growth will occur through a combination of infill 
+and redevelopment within established areas, continued expansion of eastern growth areas, and longer- term 
+opportunities associated with strategic corridors and future infrastructure investments  to the west and south.  
+2.3 Growth Drivers and Development Considerations 
+Future growth in Fort Lupton will be influenced by a range of interconnected factors, including housing needs, 
+employment opportunities, public facilities, infrastructure capacity, transportation access, water resources, and 
+environmental conditions. Understanding these factors helps identify opportunities and constraints associated 
+with future growth and provides important context for the redevelopment, infill, and greenfield analyses presented 
+later in this Strategic Growth Element. 
+Housing  
+Fort Lupton continues to experience population growth while facing increasing housing affordability challenges. The 
+city added 20% additional housing units between 2018 and 2023 and grew to more than 9,200 residents. Despite 
+this growth, housing demand continues to outpace the availability of diverse housing options across many income 
+levels.  
+The Housing Needs Assessment identified several trends and priorities that influence future growth decisions, 
+including:  
+• Increasing housing costs and affordability challenges, as 
+home values increased 163% over the past decade.  
+• Strong demand for workforce, multifamily, senior and 
+attainable ownership housing. 
+• A housing stock that remains heavily concentrated in 
+single-family detached homes.  
+• Limited housing diversity compared to neighboring 
+communities. 
+• The need to preserve and rehabilitate older housing stock. 
+• Continued household growth through at least 2050. 
+• Opportunities for infill development, redevelopment, and 
+coordinate housing and infrastructure development. 
+The Housing Needs Assessment provides an important 
+foundation for evaluating both redevelopment and infill 
+opportunities in Chapter 4 and longer-term greenfield growth 
+opportunities in Chapter 5. 
+Housing Snapshot 
+Population: 9,200 residents 
+Median Household Income: $64,850 
+Median Home Value: $372,400 
+Owner Occupied Housing: 64% 
+Renter Occupied Housing: 36%  
+Homes Built Before 1980: 50% 
+Single-Family Detached Housing: 77%  
+Residents Age 65 and Older: 14% 
+Source: American Community Survey 2023 
+Page 9 of 117
+ 
+9                          Fort Lupton Strategic Growth Element 2026 
+ 
+Employment  
+Fort Lupton functions as both a residential community and an important regional employment center. Its  strategic 
+location supports a diverse economy that includes industrial, commercial, healthcare, educational, public -sector, 
+logistics, energy, and transportation-related uses.  
+The community is part of a broader regional labor market, with residents commuting throughout Weld County and 
+the Denver metropolitan area while many employees commute into Fort Lupton for work. These commuting 
+patterns highlight the importance of balancing housing growth, job creation, transportation investments, and 
+economic development. 
+Future employment growth is expected within existing industrial districts, commercial corridors, mixed -use areas, 
+and other designated employment centers identified through the City's long -range planning efforts, helping support 
+both economic development and future housing growth.  
+Community Services and Public Facilities  
+Fort Lupton benefits from a variety of educational, civic, recreational, public safety, cultural, and healthcare 
+facilities that support quality of life and future growth. Key facilities include:   
+• Fort Lupton Recreation Center. 
+• Aims Community College. 
+• Fort Lupton public and school libraries. 
+• Local elementary, middle, and high schools.  
+• City Hall and municipal facilities. 
+• Police and Fire Department facilities.  
+• Community parks, trails, and recreational amenities .  
+• Fort Lupton Museum and Historical Park. 
+• Intermountain Health Clinic, Salud Family Health Center, and other medical facilities . 
+As Fort Lupton grows, maintaining access to these facilities and services and assessing when additional facilities 
+are needed will remain an important planning consideration. 
+Transportation and Mobility 
+Fort Lupton's transportation network supports regional connectivity and local residential, commercial, industrial, 
+and agricultural activity. Key transportation assets that influence growth include:  
+• US 85 regional freight and commuter corridor. 
+• Highway 52 east-west regional connector. 
+• Denver Avenue local commercial and civic corridor. 
+• South Rollie industrial and commercial corridor. 
+• Union Pacific Railroad freight corridor. 
+• Existing park-and-ride facilities. 
+• Local arterial and collector roadway network.  
+• Existing and planned sidewalk, trail, and multimodal infrastructure.  
+Planned improvements, including the US 85 and 14th Street grade separation, County Road 8 (CR 8) improvements, 
+and investments along major corridors such as US 85, Highway 52, and County Road 19 (CR 19), will continue to 
+influence future development patterns mobility, development patterns and economic development opportunities,  
+Page 10 of 117
+ 
+10                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 11 of 117
+ 
+11                          Fort Lupton Strategic Growth Element 2026 
+ 
+Infrastructure, Utilities, and Water Capacity 
+Infrastructure capacity is a key factor influencing future growth in Fort Lupton. Municipal water, wastewater, 
+stormwater, and utility systems support existing neighborhoods, employment centers, and commercial areas, while 
+planned improvements and utility investments will help shape future development patterns .  
+Key infrastructure considerations include:  
+• Municipal water treatment 
+and distribution systems. 
+• Wastewater treatment and 
+collection systems. 
+• Stormwater infrastructure 
+and drainage facilities.  
+• New water tower 
+construction and associated 
+improvements. 
+• Utility extensions associated 
+with active development 
+projects. 
+• Long-term expansion of water 
+and wastewater service 
+areas. 
+Stakeholder outreach identified 
+infrastructure capacity, utility 
+serviceability, and water availability as 
+important considerations for future 
+growth. Development is generally 
+most feasible utilities can be 
+extended efficiently, and long-term 
+service obligations remain 
+manageable. 
+Planned investments, including the 
+new water tower to the east, water line 
+extension from Highway 52 to CR 14.5, 
+CR 8 infrastructure improvements, 
+and rail-crossing infrastructure 
+projects, are expected to influence 
+future development patterns. Service 
+delivery becomes more complex west 
+of the South Platte River, where 
+multiple water and wastewater 
+providers serve portions of the 
+planning area, including Todd Creek, 
+St. Vrain, and Central Weld service 
+areas. 
+Water availability, infrastructure capacity, serviceability will continue to influence redevelopment and greenfield 
+growth opportunities. A more detailed evaluation of water resources, water conservation, system capacity, and 
+infrastructure planning is provided in the Water Supply Element . 
+ 
+Page 12 of 117
+ 
+12                          Fort Lupton Strategic Growth Element 2026 
+ 
+Natural Resources and Environmental Considerations 
+Fort Lupton's natural resources, environmental features, and open spaces play an important role in shaping future 
+growth opportunities, development patterns, and community character. Agricultural lands, the South Platte River 
+corridor, mineral resource areas, parks, and environmental constraints all influence land use decisions, 
+infrastructure planning, and long-term growth strategies throughout the planning area.  
+Agricultural Resources  
+Agriculture remains a defining component of Fort Lupton's identity, 
+economy, and landscape. Working lands continue to support local 
+economic activity, preserve rural character, and provide an 
+important transition between urban and rural development patterns. 
+Important agricultural considerations include:  
+• Active irrigated agricultural production areas. 
+• Dryland farming operations. 
+• Agricultural-support businesses and services. 
+• Rural residential properties and homesteads. 
+• Irrigation ditches and agricultural water delivery systems .  
+• Long-term preservation of productive agricultural land . 
+• Managing transitions between urban and rural development 
+patterns.  
+The Land Use Map reflects the importance of these resources 
+through extensive Agricultural and Rural Residential designations 
+surrounding the community. 
+South Platte River and Water Resources  
+The South Platte River is Fort Lupton's most significant natural feature and an important environmental, 
+recreational, and open-space resource. The river corridor influences development patterns throughout the planning 
+area while providing habitat, recreation opportunities, irrigation infrastructure, and community amenities . 
+Important features associated with the South Platte River corridor include:  
+• Floodplain and floodway areas. 
+• Riparian habitat and wildlife resources.  
+• Wetlands and drainage corridors. 
+• Open space opportunities. 
+• Recreation and trail connections.  
+• Active and former mineral extraction areas.  
+• Irrigation and water delivery infrastructure. 
+Previous planning efforts identified the South Platte River as both an environmental resource and a long -term 
+community asset. Future growth decisions should continue to balance development, recreation, environmental 
+stewardship, and long-term river corridor protection. 
+Mineral Resources and Post-Mining Areas  
+Active and former mineral extraction areas, particularly along the South Platte River corridor, influence future land 
+use and redevelopment opportunities within the planning area. Over time, these areas may present opportunities 
+for reclamation, open space, recreation, environmental preservation, and other community -serving uses. 
+Key considerations include:  
+• Active aggregate and mineral extraction operations. 
+Growth and Resource Preservation 
+Strategic growth is intended to balance 
+future housing, employment, commercial, 
+and infrastructure needs with the long-term 
+preservation of agricultural lands, natural 
+resources, environmental features, parks, 
+open spaces, and community character. 
+Future development decisions should 
+consider both the opportunities and long-
+term impacts associated with growth 
+throughout the planning area. 
+Page 13 of 117
+ 
+13                          Fort Lupton Strategic Growth Element 2026 
+ 
+• Existing mining-related land uses. 
+• Transportation impacts associated with extraction activities.  
+• Floodplain and environmental conditions. 
+• Potential long-term reclamation opportunities.  
+• Future open space and recreational uses. 
+• Long-term redevelopment opportunities. 
+The Comprehensive Plan recognizes that some resource areas may transition to open space, recreation, 
+environmental preservation, or other community-serving uses following reclamation activities. 
+Environmental Constraints  
+Several environmental conditions may influence future development in the Three-Mile area. While these conditions 
+do not necessarily preclude development, they may affect site design, infrastructure costs, permitting 
+requirements, and overall development feasibility.  
+Important environmental considerations include: 
+• FEMA floodplain and floodway areas.  
+• Wetlands and Riparian resources. 
+• Irrigation ditches and drainage corridors.  
+• Soil limitations. 
+• Oil and gas infrastructure.  
+• Existing mineral extraction operations. 
+• Wildlife habitat areas. 
+• Water quality considerations.  
+• Environmental permitting and mitigation requirements. 
+Many of these conditions are concentrated near the South Platte River corridor and associated resource areas, 
+although localized constraints occur throughout the planning  area. These factors are incorporated into the 
+suitability analyses presented in later chapters. 
+ 
+ 
+ 
+Page 14 of 117
+ 
+14                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 15 of 117
+ 
+15                          Fort Lupton Strategic Growth Element 2026 
+ 
+Parks, Open Space, and Community Resources  
+Parks, trails, open spaces, and recreational facilities contribute to quality of life, community connectivity, and 
+environmental stewardship. These resources support existing residents while helping accommodate future growth. 
+Key community resources include:  
+• Pearson Park. 
+• Community Center Park and Recreation Center.  
+• Railroad Park. 
+• Koshio Park. 
+• Existing and planned trail systems.  
+• Open space corridors. 
+• South Platte River recreation opportunities.  
+• Regional trail and connectivity opportunities.  
+Future development should continue to support access to parks, trails, recreation facilities, and open-space 
+resources while strengthening connections between existing and future neighborhoods. 
+2.4 Key Terms 
+The Strategic Growth Element uses several terms to describe different land conditions and development 
+opportunities. The following definitions reflect Fort Lupton’s local context and provide a consistent framework for 
+the analyses in Chapters 4 and 5. 
+Term Definition 
+Vacant 
+A property with no primary developed use or substantial permanent 
+improvement based on available assessor and parcel information. This 
+classification does not necessarily mean the property is unused or 
+available for development. 
+Partially Vacant 
+A developed property containing a mixture of active development and 
+potentially developable residual land. These areas may support future 
+expansion, redevelopment, or infill opportunities. 
+Underutilized 
+A developed or partially vacant property that may have reinvestment or 
+redevelopment potential based on its use, intensity, condition, location, 
+or surrounding development pattern. The term does not imply that a 
+property is blighted or required to redevelop. 
+Infill Development 
+Development on vacant or underutilized land within established areas 
+where infrastructure and public services are generally available, although 
+site improvements may still be required. 
+Redevelopment 
+Reinvestment in an existing developed property through reuse, 
+rehabilitation, adaptive reuse, expansion, replacement, reconstruction, or 
+a change in use. 
+Greenfield Area 
+A generalized area containing vacant, agricultural, undeveloped, or 
+minimally developed land at the edge of or outside established 
+development that may support future strategic growth. These areas do not 
+represent parcel-specific development sites or approvals. 
+Page 16 of 117
+ 
+16                          Fort Lupton Strategic Growth Element 2026 
+ 
+Term Definition 
+Priority Growth Area 
+A generalized location identified through the Comprehensive Plan process 
+as having potential to support future housing, employment, commercial, 
+industrial, agricultural-support, civic, recreational, or other community 
+needs consistent with the Future Land Use Map.  
+Future Land Use 
+The community’s intended long-term land-use direction. Future Land Use 
+categories guide development but do not change zoning or approve 
+development. 
+Employment Center 
+A location with a concentration of employment-generating land uses, 
+including businesses, commercial activity, industrial operations, civic 
+destinations, healthcare facilities, and institutional uses. 
+Transportation and Mobility 
+Center / Mobility Corridor 
+Community destinations that provide transportation access, support 
+mobility and connectivity, and serve as focal points for civic, commercial, 
+service, or community activities. 
+General Feasibility 
+A broad assessment of whether development may be supported based on 
+infrastructure, access, public services, environmental conditions, Future 
+Land Use direction, and other available information. It does not replace 
+project-specific review. 
+Serviceability 
+The degree to which utilities, transportation facilities, public services, 
+infrastructure, and planned improvements support future development 
+opportunities. 
+Strategic Growth 
+Growth that considers land use, housing, employment, infrastructure, 
+public services, fiscal impacts, agricultural resources, and community 
+priorities. 
+ 
+2.5 Related Planning Efforts 
+Local Efforts  
+The Strategic Growth Element is informed by and intended to be used with Fort Lupton’s other plans, policies, and 
+programs. The table below summarizes how those efforts inform land use, housing, water, infrastructure, and 
+development decisions addressed by the SGE. Additional policies and tools are discussed in Section 3.1. 
+Plan or Policy Relationship to Strategic Growth 
+2027 Comprehensive 
+Plan and Future Land Use 
+Map (In Progress) 
+Establishes Fort Lupton’s evolving long-term vision for future growth, land use, 
+housing, transportation, economic development, annexation, infrastructure, 
+community character, and implementation priorities. The Strategic Growth 
+Element was prepared concurrently with the update and is intended to support 
+long-term growth-related decision-making. 
+2025 Three-Mile Area 
+Plan 
+Establishes the planning geography, annexation framework, infrastructure 
+considerations, agricultural preservation priorities, and long-term growth policies 
+for lands surrounding the community.  
+Page 17 of 117
+ 
+17                          Fort Lupton Strategic Growth Element 2026 
+ 
+2026 Housing Needs 
+Assessment 
+Documents housing conditions and needs, including housing availability, 
+affordability, housing-stock preservation, workforce housing, senior and accessible 
+housing, rentals, ownership opportunities, and housing diversity. Its findings inform 
+the residential and mixed-use opportunities evaluated in Chapters 4 and 5. 
+2018 Transportation Plan Guides roadway improvements, multimodal transportation investments, regional 
+connectivity, freight mobility, complete streets initiatives, and transportation 
+infrastructure needed to accommodate future growth.  
+2027 Parks and Trails 
+Master Plan (In Progress) 
+Establishes priorities for park development, recreational facilities, open space 
+preservation, trail connectivity, and community accessibility.  
+2026 Water Supply 
+Element 
+Documents water resources and their relationship to existing and future 
+development. The Water Supply Element should be used with the SGE when 
+considering development intensity, water demand, conservation, system capacity, 
+and growth-related infrastructure needs. 
+Detailed descriptions of applicable policies and tools are provided in Chapter 3. Infrastructure and water findings 
+are incorporated into the feasibility analyses in Chapters 4 and 5.  
+Statewide Efforts  
+Colorado Senate Bill 24-174 requires local governments to consider several statewide planning resources when 
+evaluating future growth opportunities. These resources provide guidance regarding housing, land use, 
+environmental stewardship, water resources, and long-term growth planning while recognizing that local decisions 
+should be based on community-specific conditions and priorities. 
+Plan or Study Relationship to Strategic Growth 
+Colorado Statewide 
+Strategic Growth 
+Report 
+Provides statewide context regarding growth patterns, housing trends, infrastructure 
+considerations, and strategic growth principles. The report helps inform consideration of 
+future growth opportunities while recognizing that local implementation should reflect 
+Fort Lupton's unique circumstances, priorities, and development patterns.  
+Vital Landscapes 
+and Resources 
+(VLAR) Report 
+Identifies opportunities to integrate agricultural resources, natural systems, conservation 
+priorities, and cultural landscapes into future growth planning. The report informs 
+consideration of agricultural preservation, environmental stewardship, and long -term 
+resource management.  
+Colorado Water 
+Plan 
+Supports coordination between future growth, long-term water supplies, conservation 
+efforts, infrastructure planning, and resource management. Water planning 
+considerations help inform future growth decisions while recognizing the importance of 
+sustainable water use and infrastructure investment.  
+ 
+ 
+ 
+  
+Page 18 of 117
+ 
+18                          Fort Lupton Strategic Growth Element 2026 
+ 
+CHAPTER 3: STRATEGIC GROWTH POLICIES AND TOOLS 
+Fort Lupton guides growth through its Comprehensive Plan, Future Land Use Map, development regulations, 
+infrastructure planning, housing strategies, and capital investments. This chapter summarizes existing and 
+potential policies and tools that guide future growth and development. 
+3.1 Existing Policies and Tools 
+Fort Lupton’s existing policies and tools provide the foundation for coordinated growth. They establish land -use 
+direction, regulate development, guide infrastructure investment, address housing needs, and provide a framework 
+for reviewing development within and beyond the municipal boundary.  
+Existing Tool Purpose and Strategic Growth Role 
+Comprehensive Plan / 
+Future Land Use 
+Serves as the Fort Lupton's policy framework for managing growth and guiding 
+decisions related to land use, housing, transportation, infrastructure, economic 
+development, and public investments. The concurrent Comprehensive Plan update 
+and SGE development provides an opportunity to further align future growth 
+decisions with current community priorities and development trends.  
+Annexation / Three-Mile 
+Plan 
+The Comprehensive Plan includes a three-mile planning area, which guides 
+annexation, future land use, subdivision activity, and coordinated growth in areas 
+surrounding Fort Lupton. Annexation procedures are further established through 
+the Municipal Code and Colorado Annexation Law. 
+Zoning and Development 
+Code 
+Regulates development intensity, permitted uses, housing types, subdivision 
+design, site-development standards, and development-review procedures.  
+Intergovernmental 
+Agreements 
+Intergovernmental agreements with neighboring communities (Firestone, Brighton, 
+and Platteville) establish frameworks for coordinated land-use planning, 
+infrastructure extension, growth management, and areas of mutual interest. 
+Housing Tools The Housing Needs Assessment local housing needs, affordability challenges, 
+workforce housing demand, senior housing needs, housing diversity opportunities, 
+and long-term housing priorities.  
+Capital Improvement 
+and Utility Planning 
+Ongoing utility expansion projects, water-system investments, transportation 
+projects, and infrastructure improvements help support future growth while 
+maintaining reliable services. Fort Lupton manages capital investments through its 
+annual budgeting process. 
+Fort Lupton Urban 
+Renewal Authority  
+Supports redevelopment, reinvestment, downtown revitalization, property 
+improvement initiatives, and strategic economic development efforts.  
+Economic Incentive 
+Policy (2023) 
+Provides a framework for supporting economic development, business recruitment, 
+employment growth, infrastructure investments, redevelopment activity, and 
+community-serving development through incentives and partnerships. 
+Restaurant and 
+Entertainment Activation 
+Program (2025) 
+Encourages restaurant, entertainment, brewery, café, and destination -oriented 
+business investment within portions of downtown Fort Lupton to support 
+revitalization, tourism, and economic development objectives.  
+Weld County Personal 
+Property Tax Refund 
+Incentive Program 
+Provides a regional economic development tool that may support qualifying 
+business expansion, capital investment, equipment purchases, and job creation 
+within Fort Lupton and Weld County. 
+Page 19 of 117
+ 
+19                          Fort Lupton Strategic Growth Element 2026 
+ 
+3.2 Potential Policies and Tools 
+The policies and tools described in this section are potential strategies for consideration and do not establish 
+adopted requirements or commitments. Any future implementation would be subject to appropriate staff, public, 
+legal, and City Council review and approval, as applicable, prior to formal adoption or establishment. 
+Potential Tool Purpose and Potential Application 
+Land Use and 
+Consistency Review 
+Use the Land Use and Growth Map when evaluating development proposals, 
+annexation requests, infrastructure investments, redevelopment opportunities, and 
+future planning initiatives to maintain consistency between community goals and 
+growth decisions. 
+Growth and Capital 
+Planning Coordination 
+Use infill priority areas, greenfield growth locations, utility system information, and 
+feasibility findings to inform updates to capital projects, roadway improvements, 
+utility planning, and annual budgeting. 
+Utility Capacity and 
+Phasing Strategy 
+Develop a framework for sequencing water, sewer, and electrical upgrades based on 
+anticipated growth areas, existing system constraints, infrastructure capacity, and 
+long-term maintenance needs. Use the framework to guide the timing and 
+prioritization of improvements and inform the evaluation of development proposals. 
+Housing Diversity 
+Strategies 
+Explore approaches that support a broader range of housing types, housing price 
+points, workforce housing opportunities, senior housing options, accessory dwelling 
+units, and missing-middle housing where appropriate.  
+Infill and 
+Redevelopment 
+Support Programs 
+Evaluate opportunities to encourage adaptive reuse, redevelopment, rehabilitation, 
+and reinvestment within existing developed areas and downtown districts. 
+Development 
+Incentives and 
+Partnerships 
+Expand coordination between existing incentive programs, redevelopment initiatives, 
+housing efforts, infrastructure investments, and economic development 
+partnerships. 
+Transportation 
+Corridor Planning 
+Evaluate future growth opportunities associated with Highway 52, US 85, CR 8, CR 
+19, and CR 24 to support coordinated land use, infrastructure, and transportation 
+planning.  
+Agricultural and 
+Resource Preservation 
+Considerations 
+Evaluate policies that balance future growth opportunities with agricultural 
+resources, visual corridors, mineral resource areas, open-space assets, and 
+community character.  
+Growth Monitoring and 
+Five-Year Update 
+Process 
+Regularly update parcel, housing, infrastructure, environmental, fiscal, and growth -
+area data to maintain a current basis for evaluating development opportunities and 
+infrastructure needs. Conduct a formal review of the Strategic Growth Element at 
+least every five years to reflect changes in community conditions, development 
+patterns, infrastructure capacity, and growth priorities. 
+ 
+Fort Lupton’s existing plans, regulations, and infrastructure programs provide a foundation for strategic growth. 
+Implementation will require continued coordination, current data, staff capacity, funding, and collaboration among 
+property owners, developers, service providers, and public agencies. The potential tools above can be refined and 
+prioritized as specific needs emerge. 
+Page 20 of 117
+ 
+20                          Fort Lupton Strategic Growth Element 2026 
+ 
+CHAPTER 4: INFILL AND REDEVELOPMENT ANALYSIS 
+This chapter identifies infill and redevelopment opportunities and evaluates their general suitability  for future 
+housing and other compatible uses. The analysis combines assessor -classified vacant and underutilized properties 
+with an area-based evaluation of proximity to employment and community destinations, infrastructure, 
+transportation, public services, environmental conditions, zoning, and Future Land Use. Site- specific availability, 
+capacity, ownership, financing, design, and market conditions must be evaluated as projects are proposed. 
+4.1 Analysis Approach 
+The infill and redevelopment analysis uses a district- and corridor-based approach rather than focusing solely on 
+individual properties. The approach recognizes that infill and redevelopment potential is influenced not only by 
+property characteristics, but also by proximity to jobs, services, infrastructure, transportation facilities, and 
+community assets. The resulting opportunity areas identify locations where reinvestment, redevelopment, housing, 
+and mixed-use development may be supported by surrounding land uses, infrastructure, and amenities.  
+Vacant and Underutilized Property Identification 
+Vacant and underutilized properties were identified using assessor data, quantitative screening methods, 
+mapping analysis, staff work sessions and local review. Vacant properties were initially identified using county 
+assessor property descriptions and classifications, then refined based on development activity, site-specific 
+conditions, and local knowledge.  
+Underutilized properties were screened using building-to-land value ratio methods consistent with state guidance 
+to identify properties where existing improvements may not reflect the property's development potential. 
+Agricultural properties were excluded because they are evaluated differently than developed properties . Staff 
+further refined the results based on redevelopment potential, market conditions, and community priorities.  
+The resulting inventory includes vacant, partially vacant, and underutilized properties, as well as staff-identified 
+property opportunities. Inclusion in the inventory does not indicate readiness for development or the likelihood of 
+redevelopment. Rather, it identifies locations that may warrant further consideration based on redevelopment 
+potential, strategic location, infrastructure conditions, market factors, or other site- specific characteristics. 
+Data Sources and Participants 
+The analysis incorporates multiple data sources and planning considerations, including: 
+• 2026 Weld County parcel and assessor records. 
+• Current municipal limits and three-mile planning area. 
+• Vacant and underutilized property information. 
+• Current zoning and Future Land Use Map. 
+• Employment and Service Center analysis.  
+• Mobility Corridor analysis. 
+• Highway 52 Employment and Transportation Corridor analysis . 
+• Transportation and infrastructure mapping. 
+• Environmental data, including FEMA flood mapping. 
+• Development suitability mapping.  
+• Demographic, housing, employment, and market data in the Comprehensive Plan and Housing Needs 
+Assessment. 
+• Findings from the Housing Needs Assessment. 
+• Staff workshops and local planning discussions. 
+Appendix A provides technical documentation and a complete data-source log, assumptions.  
+Page 21 of 117
+ 
+21                          Fort Lupton Strategic Growth Element 2026 
+ 
+Priority Areas and Proximity Analysis 
+The priority framework uses locally appropriate employment centers , community anchors, and transportation 
+corridors. Since Fort Lupton does not currently have formal transportation centers  or transit service, major 
+transportation corridors were used as potential mobility centers based on daily activity, the populations they serve, 
+and their locations in the community.  
+Five-, 10-, and 15-minute walking areas were calculated using the pedestrian street network to indicate relative 
+proximity to employment, healthcare, education, civic facilities, businesses, and community services. They are 
+intended as planning indicators and do not confirm the presence of continuous sidewalks, accessible crossings, or 
+complete pedestrian routes.  
+The assessor-classified vacant properties within Fort Lupton provide the primary basis for the opportunity analysis 
+in this chapter. Properties outside the developed sections within the municipal limits are evaluated separately 
+through the greenfield development analysis in Chapter 5.  
+4.2 Vacant, Partially Vacant, and Underutilized Properties 
+The inventory identified vacant, partially vacant, and underutilized properties throughout established 
+neighborhoods, downtown, industrial districts, commercial corridors, and other developed portions of the 
+community. While individual properties vary in size, ownership, development status, and redevelopment p otential, 
+several broader opportunity areas emerged through the analysis.  
+These areas represent locations where future infill, redevelopment, and reinvestment may be supported by existing 
+infrastructure, transportation access, and community services. Inclusion in the inventory does not indicate property 
+availability, development readiness, redevelopment intent, or suitability for a specific use. 
+Summary of Priority Areas  
+Identified properties are distributed throughout Fort Lupton and span a range of land-use classifications, including 
+residential, commercial, downtown, and industrial. As a result, the potential role of each property will vary 
+depending on its zoning, Future Land Use designation, infrastructure availability, and surrounding development 
+context.  
+Several areas emerged through staff discussions, development activity reviews, mapping analysis , and planning 
+workshops:  
+• Downtown, including Denver Avenue and Main Street. 
+• Highway 52 commercial and mixed-use corridor. 
+• South Rollie and South Denver Industrial Area. 
+• Factory Circle Industrial Area. 
+• US 85 transportation and employment corridor. 
+Together, these opportunity areas provide a framework for evaluating where future development activity may occur 
+if market conditions, ownership objectives, infrastructure capacity, and site -specific considerations align. 
+ 
+Page 22 of 117
+ 
+22                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 23 of 117
+ 
+23                          Fort Lupton Strategic Growth Element 2026 
+ 
+4.3 Priority Infill and Redevelopment Areas 
+Employment and Service Priority Areas 
+Areas near established employment centers and community destinations can support housing opportunities, 
+redevelopment, economic development, and more efficient use of existing infrastructure while strengthening 
+connections between residents and daily destinations. The Housing Needs Assessment identified continued 
+demand for housing near jobs, services, schools, and community amenities. The following areas were identified as 
+locations where these relationships may support future development and reinvestment opportunities  for a variety of 
+uses.  
+Downtown Denver Avenue and Main Street Corridor 
+The downtown corridor between 1st and 9th Street is the historic center of Fort Lupton and includes a concentration 
+of businesses, retail services, restaurants, civic facilities, employment uses, and surrounding residential 
+neighborhoods. Several vacant and underutilized properties are located throughout the corridor, creating 
+opportunities for reinvestment, redevelopment, and infill that can strengthen downtown activity, support local 
+businesses, attract new investment, and reinforce the corridor’s role as the community’s civic and commercial 
+center. The Future Land Use Map identifies this downtown area for Mixed-Use, General Commercial, Public/Semi-
+Public, and surrounding residential uses. These designations sup port a variety of housing, commercial, 
+employment, and civic uses, and redevelopment opportunities consistent with community objectives. 
+Highway 52  
+Highway 52 is an important employment and commercial corridor. Existing businesses, schools, public facilities, 
+and established neighborhoods create one of the community's most active development environments. Major 
+employment and activity centers along the corridor include Fort Lupton school facilities, Weld County School 
+District facilities, Aims Community College, commercial businesses, and other community -serving destinations. 
+These uses generate significant daily activity and support the corridor's role as both an employment center and a 
+community destination. Several vacant and underutilized properties occur within and adjacent to the corridor, 
+particularly between US 85 and the railroad corridor. These sites may provide opportunities for commercial 
+reinvestment, mixed-use development, adaptive reuse, employment-generating uses, housing, and redevelopment 
+that support economic activity and strengthen one of Fort Lupton's primary commercial corridors.  
+South Rollie and South Denver Industrial Area 
+The South Rollie area functions as an established employment and industrial district that supports manufacturing, 
+industrial, service-commercial, warehouse, and business-oriented uses. Existing infrastructure, transportation 
+access, and proximity to other employment areas create opportunities for business expansion, reinvestment, and 
+continued job growth. As Fort Lupton continues to grow, the area is expected to remain an important location for 
+business development, industrial activity, and long-term economic investment. 
+Factory Circle 
+Factory Circle and some other surrounding properties were identified as underutilized. This area functions as an 
+established industrial and employment hub containing a mix of manufacturing, industrial, and warehouse uses. The 
+area's proximity to US 85 and existing infrastructure and employment base create opportunities for property 
+reinvestment and continued economic development. The Future Land Use Map designates the area for Light 
+Industrial and Commercial uses, creating opportunities for business expansi on, office and flex-space development, 
+light manufacturing, warehousing, service-commercial uses, and other employment-generating activities that 
+support Fort Lupton's economic development objectives. 
+Page 24 of 117
+ 
+24                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 25 of 117
+ 
+25                          Fort Lupton Strategic Growth Element 2026 
+ 
+Transportation Corridor Priority Areas 
+US 85 Corridor 
+The US 85 corridor is a major regional transportation, employment, and economic development corridor. The 
+corridor is characterized by a mix of industrial, manufacturing, warehouse, distribution, service- commercial, 
+agricultural-support, and energy-related uses that contribute significantly to the community' s employment base 
+and regional economy. Its location along a major north- south transportation route provides excellent visibility, 
+freight access, and connectivity to regional markets, making it an attra ctive location for business investment and 
+expansion. The corridor contains opportunities for reinvestment, redevelopment, and continued employment -
+generating development that can support job creation, strengthen the local tax base, and reinforce Fort Lupt on's 
+role as a regional employment and industrial center.  
+Highway 52 Corridor 
+The Highway 52 corridor serves as one of Fort Lupton's most important transportation, employment, and 
+commercial corridors. Extending from US 85 on the west to areas east of College Avenue, it serves as a major  east-
+west connection and gateway into the community, linking residential neighborhoods, schools, businesses, public 
+facilities, employment centers, and regional transportation routes.  
+The corridor contains a mix of commercial, mixed-use, public and institutional, employment-generating, 
+residential, and community-serving uses. Existing businesses, schools, public facilities, and residential 
+neighborhoods create an active development environment. Several vacant and underutilized properties, 
+particularly between US 85 and the railroad corridor, provide opportunities for reinvestment, redevelopment, 
+commercial infill, mixed-use development, housing, and adaptive reuse. 
+Rollie Avenue and Denver Avenue Corridor  
+The Rollie Avenue and Denver Avenue corridors serve as important north- south connections within Fort Lupton, 
+linking established neighborhoods with schools, parks, community facilities, employment areas, and commercial 
+destinations. These corridors provide critical access between the community's historic core, developing southern 
+neighborhoods, employment centers, and emerging growth areas. 
+Stakeholder outreach and planning discussions consistently identified north- south connectivity as a priority as Fort 
+Lupton continues to grow. In particular, the planned extension of South Rollie Avenue is expected to improve 
+access between existing development, employment areas, and future growth locations while supporting more 
+efficient movement throughout the community. South Denver Avenue also serves an important role in connecting 
+residential areas with industrial, employment, and commercial uses locat ed south of Highway 52. As development 
+continues, investments in roadway connections, pedestrian and bicycle facilities, and related transportation 
+infrastructure may improve mobility, enhance access to community destinations, and support coordinated growth 
+patterns throughout the southern portion of the community.  
+Page 26 of 117
+ 
+26                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 27 of 117
+ 
+27                          Fort Lupton Strategic Growth Element 2026 
+ 
+4.4 General Feasibility of Priority Areas 
+This section evaluates the general feasibility of infill and redevelopment opportunities within Fort Lupton's identified 
+opportunity areas. The review considers infrastructure and utility capacity, transportation access and mobility, 
+public facilities and services, environmental conditions, development suitability, zoning, and Future Land Use . 
+The findings identify broad opportunities and constraints that may influence future reinvestment, redevelopment, 
+and infill activity. They do not indicate property availability or development readiness and do not replace site-
+specific infrastructure, engineering, environmental, market, financial, or development review analyses. 
+Infrastructure and Utility Service 
+The Infrastructure and Utility Service 
+Map indicates that many vacant and 
+underutilized properties are located 
+within developed portions of the 
+community where water, wastewater, 
+and other utility infrastructure are 
+already available. This is particularly 
+evident within the Downtown Denver 
+Avenue and Main Street corridor, 
+portions of the Highway 52 corridor, 
+and several established 
+neighborhoods. Access to existing 
+infrastructure can improve the 
+feasibility of infill, redevelopment, and 
+mixed-use development compared to 
+areas requiring significant utility 
+extensions or new service areas. 
+Staff discussions consistently 
+identified utility availability, 
+infrastructure timing, and extension 
+costs as important factors influencing 
+future development decisions. While 
+proximity to infrastructure may 
+increase development potential, utility 
+capacity, serviceability, system 
+improvements, and cost-sharing 
+arrangements must still be evaluated 
+on a project-specific basis. Planned 
+investments, including the new water 
+tower and related utility 
+improvements, are expected to 
+support future development and 
+enhance long-term system reliability. 
+ 
+ 
+Page 28 of 117
+ 
+28                          Fort Lupton Strategic Growth Element 2026 
+ 
+Transportation and Mobility 
+Fort Lupton's transportation 
+network plays an important role 
+in development feasibility by 
+providing access to residential 
+neighborhoods, employment 
+areas, schools, parks, 
+community facilities, and 
+commercial destinations. 
+Highway 52 and US 85 serve as 
+major regional corridors, while 
+Main Street, Rollie Avenue, 
+Denver Avenue, and other local 
+streets provide community-wide 
+connectivity and access to 
+existing development areas. 
+The Employment and Service 
+Center and Transportation 
+Corridor analyses indicate that 
+many vacant and underutilized 
+properties are located within 
+walking distance of jobs, 
+services, businesses, schools, 
+parks, and community 
+destinations. Access to these 
+transportation networks and 
+community amenities can 
+improve the feasibility of infill, 
+redevelopment, mixed-use, and 
+commercial development by 
+reducing the need for new 
+infrastructure investments and 
+improving connectivity for 
+residents, employees, and 
+businesses. 
+Important transportation 
+considerations include:  
+• Existing roadway access. 
+• Sidewalk connectivity. 
+• Pedestrian crossings. 
+• Trail access. 
+• School and park access.  
+• Future corridor improvements.  
+• Highway access management requirements. 
+While access to transportation infrastructure can enhance development potential, site- specific conditions, 
+roadway improvements, access requirements, and transportation capacity must still be evaluated as part of future 
+development review processes. 
+ 
+Page 29 of 117
+ 
+29                          Fort Lupton Strategic Growth Element 2026 
+ 
+Environmental Constraints and Development Suitability 
+Environmental conditions vary throughout Fort Lupton and represent one of several  factors that influence 
+development feasibility. The Environmental Constraints Map identifies features such as floodplains , wetlands, 
+steeper slopes, and soils with building limitations that may affect future redevelopment and infill opportunities.  
+The Development Suitability Map incorporates these factors to identify areas with relatively fewer development 
+constraints and areas where additional analysis may be required. Many vacant and underutilized properties are 
+located within areas generally suitable for development, particularly within established portions of the community .  
+Environmental constraints do not necessarily preclude development but may influence site design, utility 
+extensions, stormwater management, construction methods, access design, development costs, and 
+environmental permitting requirements 
+ 
+Page 30 of 117
+ 
+30                          Fort Lupton Strategic Growth Element 2026 
+ 
+Compatibility with Future Land Use 
+The Future Land Use Map provides the 
+primary framework for evaluating how 
+identified opportunity areas relate to 
+existing development patterns and future 
+community objectives. Vacant and 
+underutilized properties occur within a 
+variety of land-use designations, including 
+Mixed Use, General Commercial, Light 
+Industrial & Office, Multifamily, Single-
+Family Residential, Public/Semi-Public, 
+and Industrial areas.  
+Several opportunity areas identified 
+through the Employment and Service 
+Center, Mobility Corridor, and Highway 52 
+Employment and Transportation Corridor 
+analyses already align with land-use 
+classifications that support reinvestment, 
+redevelopment, mixed-use activity, 
+housing opportunities, and economic 
+development. Future development should 
+generally remain consistent with 
+surrounding development patterns and the 
+long-term direction established through 
+the Future Land Use Map.  
+Several identified opportunity sites occur 
+within areas where existing land-use 
+designations already support additional 
+residential, mixed-use, commercial, 
+employment, or redevelopment activity. 
+Other sites may require future review 
+through the development process to 
+evaluate compatibility with surrounding 
+land uses, infrastructure availability, 
+transportation access, and community 
+objectives. Outreach efforts also identified 
+areas where redevelopment potential, 
+strategic location, partial vacancy, or other 
+local considerations may influence future 
+development opportunities. 
+Potential uses may include:  
+• Residential infill. 
+• Mixed-use development.  
+• Multifamily housing.  
+• Commercial reinvestment.  
+• Employment-generating uses.  
+• Adaptive reuse projects. 
+• Community-serving facilities. 
+Page 31 of 117
+ 
+31                          Fort Lupton Strategic Growth Element 2026 
+ 
+4.5 Infill and Redevelopment Cost and Serviceability Considerations 
+Development feasibility varies among Fort Lupton’s vacant, underutilized, and redevelopment priority properties . 
+Financing constraints, utility capacity, infrastructure timing, market conditions, parcel configuration, property 
+ownership, site conditions, and development-review requirements can affect whether, when, and how a property 
+develops. These factors also influence the level and timing of private and public investment that may be needed to 
+support infill, redevelopment, adaptive reuse, and mixed-use development. 
+The cost classifications used in this scenario evaluation represent planning -level orders of magnitude for 
+development-enabling infrastructure and site improvements, rather than project-specific cost estimates or total 
+development costs. For comparative purposes, lower-cost improvements are generally anticipated to total less 
+than $500,000; moderate-cost improvements may range from approximately $500,000 to $2 million; higher- cost 
+improvements may range from approximately $2 million to $5 million; and major transformational infrastructure 
+investments may exceed $5 million. All ranges are expressed in 2026 dollars and should be adjusted over time to 
+account for construction-cost escalation. 
+These ranges provide a consistent basis for comparing the relative scale of potential improvements among the 
+scenarios. They should be refined through site-specific engineering, utility -capacity analysis, environmental review, 
+construction-cost estimating, market and financial analysis, and the development-review process. 
+Cost classification Planning-level improvement cost* General interpretation 
+Lower Less than $500,000 
+Connections and localized improvements that do 
+not require substantial reconstruction or 
+extension of major public systems 
+Moderate $500,000 to $2 million 
+Multiple localized improvements, limited capacity 
+upgrades, drainage work, frontage improvements, 
+or a small off-site extension 
+Higher $2 million to $5 million 
+Major utility upgrades, significant roadway or 
+intersection work, substantial drainage facilities, 
+or coordinated improvements involving several 
+systems 
+Major / 
+Transformational More than $5 million 
+New trunk infrastructure, major roadway 
+reconstruction, regional drainage, bridge or 
+interchange work, or improvements serving a large 
+development area 
+*Cost ranges are planning-level estimates expressed in 2026 dollars. Actual costs will vary based on inflation, construction-market conditions, 
+engineering requirements, infrastructure capacity, site conditions, project design, and permitting considerations. 
+ 
+The total cost associated with a development scenario should not be interpreted as the anticipated cost to the City. 
+Developers are generally expected to fund property acquisition, site preparation, building construction or 
+rehabilitation, on-site infrastructure, utility connections, internal circulation, on-site drainage, required frontage 
+improvements, and measures necessary to mitigate a project’s direct impacts. The specific allocation of costs 
+will depend on applicable City requirements, the nature and location of the proposed development, the 
+extent of the project’s impacts, and the broader public benefits provided by an improvement.  
+Public funding participation may be considered when an improvement:  
+• Addresses an existing infrastructure deficiency not created solely by the proposed development . 
+• Provides capacity beyond the needs of an individual project. 
+• Serves multiple properties or a larger development area . 
+• Advances an adopted capital, utility, transportation, drainage, housing, or redevelopment objective . 
+• Produces a broader community or corridor-wide benefit. 
+• Would otherwise impose a disproportionate cost relative to the development’s anticipated impact . 
+Page 32 of 117
+ 
+32                          Fort Lupton Strategic Growth Element 2026 
+ 
+Infrastructure responsibility should be determined through project -specific development review and, where 
+appropriate, a development or reimbursement agreement. Potential approaches may include developer- funded 
+construction, proportional cost sharing, reimbursement for system oversizing, impact-fee credits, special-district 
+financing, grant funding, or phased public capital investment. Agreements should clearly identify construction 
+responsibilities, timing, funding sources, reimbursement provisions, owners hip, operations and maintenance, and 
+long-term rehabilitation or replacement obligations. 
+Infill and redevelopment can make efficient use of existing streets, utilities, public facilities, and community 
+services. However, proximity to infrastructure does not necessarily demonstrate that sufficient capacity is available 
+or that a connection can be provided without additional investment. Individual projects may still require utility -
+capacity upgrades, drainage improvements, access modifications, pedestrian facilities, environmental mitigation, 
+building rehabilitation, or other improvements. 
+The following scenarios illustrate how location, existing infrastructure, transportation access, site conditions, and 
+surrounding development patterns may influence relative costs and serviceability. The scenarios are intended as 
+comparative planning tools rather than project-specific engineering, fiscal, or financial-feasibility analyses. Actual 
+costs and funding responsibilities will depend on the proposed use, development intensity, infrastructure capacity, 
+site design, applicable development requirements, and allocation of responsibilities among property owners, 
+developers, utility providers, and the City. 
+Scenario 1: Downtown Denver and Main Street Employment and Service Center 
+The Denver Avenue and Main Street Employment and Service Center contains vacant, underutilized, and 
+redevelopment opportunity sites within walking distance of businesses, employment, civic facilities, community 
+services, and established neighborhoods. The area includes Mix ed Use and General Commercial designations that 
+may support commercial reinvestment, mixed-use development, adaptive reuse, housing, and other community-
+serving uses. 
+Development within this area generally benefits from proximity to existing streets, water and wastewater 
+infrastructure, businesses, public facilities, and community services. Because much of the core infrastructure is 
+already present, development may require less geographic expansion of utilities and public services than 
+development in outlying or previously undeveloped locations. 
+Existing infrastructure does not eliminate development costs. Denver Avenue and Main Street projects may face 
+expenses associated with: 
+• Existing building rehabilitation and modernization. 
+• Utility connection or capacity upgrades. 
+• Building-code and fire-safety improvements. 
+• Accessibility improvements. 
+• Environmental assessment or remediation. 
+• Parcel configuration and site assembly. 
+• Parking and access requirements. 
+• Drainage and stormwater management. 
+• Demolition or site preparation. 
+• Streetscape and pedestrian improvements. 
+• Market and financial feasibility. 
+Adaptive reuse projects may involve greater building-related costs because existing structures must be modified to 
+meet contemporary building, accessibility, energy, and life- safety requirements. At the same time, reuse can 
+preserve existing buildings, strengthen community character, and take advantage of infrastructure and public 
+investments already serving the area. 
+The relative public infrastructure investment needed to support Denver Avenue and Main Street redevelopment is 
+generally expected to be lower than for greenfield development requiring major utility or roadway extensions. 
+Page 33 of 117
+ 
+33                          Fort Lupton Strategic Growth Element 2026 
+ 
+Nevertheless, targeted public improvements, redevelopment assistance, utility coordination, or public -private 
+partnerships may be needed to overcome site-specific barriers and make certain projects financially feasible.  
+Relative serviceability: Generally higher 
+Relative public infrastructure investment: Generally lower to moderate 
+Primary development costs: Building rehabilitation, utility upgrades, accessibility, parking, 
+drainage, site assembly, and streetscape improvements 
+Potential outcomes: Commercial reinvestment, mixed-use development, adaptive 
+reuse, housing near employment and services, and continued 
+strengthening of Fort Lupton’s primary activity center  
+Scenario 2: Rollie Avenue Mobility Corridor 
+The northern portion of the Rollie Avenue Mobility Corridor connects established neighborhoods with schools, 
+parks, community facilities, employment areas, and other local destinations. Vacant, underutilized, and 
+opportunity sites within the corridor’s walking areas may support infi ll housing, neighborhood-scale 
+redevelopment, public improvements, and community -serving uses. 
+These sites benefit from established streets, nearby utility infrastructure, neighborhood connectivity, and access to 
+existing public services. These conditions may allow development to proceed through incremental improvements 
+rather than major infrastructure expansion. Infill housing and neighborhood -scale redevelopment may also make 
+more efficient use of existing facilities while expanding housing choices near schools, parks, and community 
+destinations. 
+Development costs and serviceability considerations may include:  
+• Water and wastewater connections or localized upgrades. 
+• Site preparation and grading. 
+• Stormwater and drainage improvements. 
+• Sidewalk construction or repair. 
+• Pedestrian crossings and accessibility improvements. 
+• Roadway improvements and intersection modifications . 
+• Bicycle and trail connections. 
+• Traffic-calming measures. 
+• Emergency access. 
+• Compatibility with surrounding neighborhoods. 
+• Property assembly or irregular parcel configurations. 
+Even with the proximity to infrastructure, the area may still require upgrades to address capacity, drainage, fire flow, 
+access, or development standards. The cost of these improvements will vary by site and should be evaluated during 
+project-specific development review. 
+Future public investment along Rollie Avenue may provide benefits beyond an individual property. Improvements to 
+sidewalks, crossings, bicycle facilities, intersections, and street connections could enhance access among 
+neighborhoods, schools, parks, employment areas, and community facilities. Coordinating private development 
+with planned mobility improvements could reduce duplicative construction and strengthen the corridor’s broader 
+transportation role. 
+Relative serviceability: Generally moderate to higher 
+Relative public infrastructure investment: Generally low to moderate 
+Primary development costs: Site preparation, localized utility upgrades, drainage, pedestrian 
+facilities, roadway access, and neighborhood connectivity  
+Page 34 of 117
+ 
+34                          Fort Lupton Strategic Growth Element 2026 
+ 
+Potential outcomes: Infill housing, neighborhood-scale redevelopment, expanded 
+housing choices, safer multimodal connections, and improved 
+access to community destinations 
+Scenario 3: Highway 52 Employment and Transportation Corridor 
+The Highway 52 corridor is a major east-west transportation, employment, and commercial corridor extending 
+between US 85 and areas east of College Avenue. The corridor contains vacant, underutilized, and opportunity sites 
+within Commercial, Mixed Use, Public/Semi-Public, employment, and residential settings. It also provides access 
+to businesses, major employers, educational institutions, established neighborhoods, and community services. 
+Many opportunity sites within the established portions of the corridor are located near existing water, wastewater, 
+roadway, and utility infrastructure. This proximity may reduce the need for major system extensions. However, 
+development along a regional transportation corridor may involve access, traffic, utility, drainage, and site- design 
+requirements that differ from projects on local streets.  
+Potential development costs and serviceability considerations include: 
+• Utility connections and capacity-related upgrades. 
+• Highway or arterial access requirements. 
+• Traffic-impact analysis. 
+• Intersection and turn-lane improvements. 
+• Access consolidation or shared-access improvements. 
+• Parking and internal circulation. 
+• Stormwater and drainage facilities. 
+• Sidewalks, crossings, and pedestrian connections. 
+• Buffering and transitions between differing land uses. 
+• Site preparation or redevelopment of existing structures. 
+• Coordination with applicable transportation agencies. 
+• Market feasibility and project financing. 
+The corridor’s regional role may create opportunities for commercial reinvestment, employment -generating uses, 
+mixed-use development, community-serving facilities, and housing near jobs and services. Development feasibility 
+will vary along the corridor based on parcel size, existing use, access, proximity to intersections, infrastructure 
+capacity, and compatibility with adjacent development. 
+Transportation and pedestrian improvements may also provide corridor- wide benefits. Safer crossings, coordinated 
+access, improved sidewalks, and stronger connections between businesses, educational institutions, 
+neighborhoods, and community facilities could enhance development potential while improving mobility. These 
+improvements may require coordination among the City, property owners, developers, utility providers, and 
+transportation agencies. 
+Relative serviceability: Generally moderate to higher within established portions of the 
+corridor 
+Relative public infrastructure investment: Generally moderate, with the potential for higher costs where 
+major transportation improvements are required 
+Primary development costs: Access and intersection improvements, utility upgrades, 
+drainage, parking, internal circulation, pedestrian connections, 
+and agency coordination 
+Potential outcomes: Commercial reinvestment, mixed-use development, 
+employment growth, adaptive reuse, community-serving 
+development, and housing near employment and services 
+Page 35 of 117
+ 
+35                          Fort Lupton Strategic Growth Element 2026 
+ 
+Comparative Findings 
+The three scenarios demonstrate that development costs and serviceability are influenced by more than the 
+distance to an existing utility line. Existing system capacity, site access, parcel configuration, building conditions, 
+development intensity, drainage requirements, and compatibility with surrounding uses all affect project feasibility.  
+Several comparative findings emerge: 
+• Downtown, including Denver Avenue and Main Street, generally offer the greatest opportunity to reuse existing 
+buildings, streets, utilities, and public facilities, although rehabilitation and adaptive reuse costs may be 
+substantial. 
+• The Northern Rollie Avenue Mobility Corridor may support incremental housing and neighborhood -scale 
+redevelopment, with investments focused primarily on localized infrastructure, drainage, access, and 
+pedestrian connectivity. 
+• The Highway 52 corridor benefits from regional visibility, transportation access, utilities, employment, and 
+commercial activity but may require more substantial access, traffic, drainage, and corridor- related 
+improvements. 
+• Projects located within established areas may require less geographic expansion of infrastructure and public 
+services than development on previously undeveloped land. 
+• Existing infrastructure proximity does not guarantee available capacity, an approved connection, or lower total 
+project costs. 
+• Public investments that serve multiple properties or address corridor- wide needs may provide broader benefits 
+than improvements designed for a single project. 
+• Development agreements and project approvals should clearly identify responsibility for construction, utility 
+upgrades, off-site improvements, maintenance, and eventual replacement.  
+• Infill and redevelopment projects may require financial or regulatory assistance when rehabilitation, 
+infrastructure, environmental, or site constraints create a gap between project costs and market value. 
+Cost Framework 
+Future evaluations of vacant, underutilized, and redevelopment sites should consider both project -specific 
+development costs and the broader public investments needed to support development. Depending on the location 
+and proposed use, relevant cost categories may include:  
+• Property acquisition and site assembly. 
+• Demolition and site preparation. 
+• Building rehabilitation and adaptive reuse. 
+• Water and wastewater connections or upgrades. 
+• Roadway, access, and intersection improvements. 
+• Drainage and stormwater facilities. 
+• Sidewalks, trails, crossings, and accessibility improvements. 
+• Parking and internal circulation. 
+• Environmental assessment and remediation. 
+• Engineering, permitting, testing, and contingencies. 
+• Ongoing infrastructure operations and maintenance. 
+• Long-term rehabilitation and replacement responsibilities. 
+The City should adapt these considerations as a comparative screening framework rather than as a substitute for 
+site-specific engineering, market analysis, fiscal review, environmental assessment, or development review. More 
+detailed analysis should occur as individual development proposals emerge, and reliable information becomes 
+available regarding infrastructure capacity, project design, costs, funding sources, and responsible parties.  
+Page 36 of 117
+ 
+36                          Fort Lupton Strategic Growth Element 2026 
+ 
+4.6 Housing Opportunities and Public Benefits 
+The Housing Needs Assessment identified continued demand for additional housing choices in Fort Lupton, 
+including workforce housing, senior housing, multifamily housing, attainable ownership opportunities, and other 
+housing types that expand affordability and housing diversity. 
+The priority areas identified in this chapter may help address a portion of these needs by supporting housing, mixed -
+use development, adaptive reuse, and redevelopment within established areas of the community. Many of these 
+locations already benefit from access to infrastructure, transportation networks, employment opportunities, 
+schools, parks, community services, and commercial destinations, making them well suited to accommodate 
+future residential and mixed-use development. Appropriate sites within and near the Denver Avenue and Main 
+Street Employment and Service Center, Rollie Avenue Mobility Corridor, and Highway 52 Corridor may be 
+particularly supportive of future housing opportunities. Future development remains subject to infrastructure 
+capacity, land-use compatibility, ownership considerations, development review, and site-specific conditions. 
+Housing Opportunities  
+Potential housing opportunities supported by the identified priority  areas include:  
+• Single-family infill development. 
+• Attached housing and townhomes.  
+• Multifamily housing. 
+• Mixed-use residential development.  
+• Adaptive reuse and redevelopment projects.  
+• Workforce housing opportunities. 
+• Senior and accessible housing. 
+• Housing options for smaller households and first-time homebuyers. 
+These housing types may be delivered through a variety of approaches, including development of vacant properties, 
+redevelopment of underutilized sites, adaptive reuse of existing structures, expansion of partially developed 
+properties, and mixed-use investment within established activity centers. 
+Public Benefits of Infill and Redevelopment  
+Many opportunity sites are located within developed portions of the community where infrastructure, utilities, 
+transportation facilities, schools, parks, and public services already exist. As a result, infill and redevelopment can 
+leverage prior public investments while supporting housing, economic development, and community revitalization 
+objectives. 
+Potential community benefits include:  
+• Expanded housing choices. 
+• Improved access to jobs and services.  
+• Support for local businesses. 
+• Downtown and corridor reinvestment.  
+• More efficient use of existing infrastructure.  
+• Enhanced connectivity between neighborhoods and destinations .  
+• Reduced pressure for outward expansion. 
+• Continued support for long-term economic development objectives. 
+  
+Page 37 of 117
+ 
+37                          Fort Lupton Strategic Growth Element 2026 
+ 
+CHAPTER 5: GREENFIELD DEVELOPMENT ANALYSIS 
+This chapter identifies generalized greenfield opportunity areas at or beyond Fort Lupton’s established development 
+edge. These areas represent locations that may accommodate future housing, employment, commercial, 
+industrial, civic, and community-serving development over the long term. 
+Unlike the infill and redevelopment opportunities discussed in Chapter 4, many of these areas are undeveloped and 
+may require utility extensions, transportation improvements, additional infrastructure investments, or annexation 
+before development can occur. The analysis considers land use, infrastructure, transportation, environmental 
+conditions, housing needs, economic development objectives, and community priorities to identify opportunities 
+and constraints associated with future growth. 
+5.1 Analysis Approach and Greenfield Criteria 
+The Strategic Growth Element uses a planning-
+area approach to evaluate greenfield 
+opportunities. Rather than focusing on individual 
+parcels, the analysis identifies larger opportunity 
+areas using the Future Land Use Map, vacant and 
+undeveloped land inventories, infrastructure and 
+utility information, transportation networks, 
+environmental data, staff input, and community 
+planning objectives. 
+The analysis evaluates how available land, 
+infrastructure, transportation access, 
+environmental conditions, and development 
+suitability may influence long-term growth 
+opportunities. The resulting priority growth areas 
+provide a framework for evaluating future 
+housing, employment, commercial, industrial, 
+civic, and open-space opportunities over time. 
+Data Sources and Participants 
+The analysis incorporates multiple data sources 
+and planning considerations, including: 
+• 2026 Weld County parcel and assessor 
+records. 
+• Current municipal limits and three-mile 
+planning area. 
+• Growth Boundary. 
+• Greenfield opportunity area mapping.  
+• Future Land Use Map. 
+• Infrastructure and utility mapping.  
+• Transportation network mapping. 
+• Environmental Constraints analysis.  
+• Development Suitability analysis. 
+• Findings from Housing Needs Assessment.  
+• Staff workshop discussions and local 
+planning input. 
+Page 38 of 117
+ 
+38                          Fort Lupton Strategic Growth Element 2026 
+ 
+5.2 Strategic Growth Areas 
+Fort Lupton contains several greenfield opportunity areas that may accommodate  future residential, employment, 
+commercial, industrial, civic, recreational, and mixed -use development. These areas vary in their relationship to 
+existing infrastructure, transportation access, environmental constraints, and development readiness. As a result, 
+future growth is likely to be concentrated within a limited number of strategic locations rather than occur uniformly 
+throughout the planning area. Staff outreach, development trends, infrastructure planning, and long-range growth 
+discussions consistently identified the opportunity areas described below as locations with the greatest potential to 
+support future growth over time. 
+ 
+Page 39 of 117
+ 
+39                          Fort Lupton Strategic Growth Element 2026 
+ 
+Eastern Growth Area 
+The eastern portion of Fort Lupton represents one of the community's most significant greenfield opportunity areas. 
+Staff consistently identified the area as an important location for future development because of ongoing 
+residential growth, planned utility investments, and proximity to existing neighborhoods. Several portions of the 
+eastern planning area already experience development pressure and are positioned to benefit from ongoing 
+infrastructure improvements, including the future water tower and assoc iated utility investments. 
+The Future Land Use Map identifies opportunities for residential, mixed-use, commercial, and employment-
+generating development. Current development activity, planned infrastructure improvements, and access to 
+municipal services position the eastern planning area as one of the  most development-ready greenfield 
+opportunities. Continued growth to the east also brings Fort Lupton closer to the Interstate 76 (I-76) corridor, 
+improving regional connectivity and expanding access to major employment, freight, and economic development 
+corridors throughout the Front Range. 
+The Aristocrat Ranchettes are a new development just outside current city limits to the northeast that may warrant 
+consideration in future planning discussions. Because development is already present, future considerations may 
+focus on service delivery, infrastructure coordination, annexation discussions, and long -term integration with 
+surrounding growth areas rather than traditional greenfield development.  
+Platte Valley Airpark Area 
+The Platte Valley Airpark area northeast of the community was consistently identified as a long -term employment 
+and economic development opportunity. Its location, transportation access, ongoing cleanup efforts, and 
+separation from established residential neighborhoods make it well suited for aviation- related businesses, 
+industrial and logistics operations, business park development, advanced manufacturing, warehousing, 
+commercial services, and other employment-generating uses. As one of Fort Lupton's largest long-term 
+employment opportunity areas, the Airpark has the potential to attract private investment, diversify the local 
+economy, expand job opportunities, and strengthen the City's regional economic competitiveness and tax base. 
+Northern Growth Area 
+Undeveloped and minimally developed lands north of the existing community represent another significant 
+greenfield opportunity area. Staff identified portions of the northern planning area as suitable for employment -
+generating, industrial, business park, and commercial development because of their access to US  85, visibility from 
+major transportation corridors, and proximity to existing infrastructure.  
+The Northland Industrial Park, located east of US 85, represents one of the community's most development -ready 
+employment areas due to recent infrastructure investments, transportation access, and proximity to the rail spur. 
+These advantages position the area to support industrial expansion, business par k development, warehousing, 
+distribution, and other employment-generating uses. 
+Future development throughout the northern planning area will depend on infrastructure capacity, transportation 
+improvements, environmental considerations, market demand, and coordination with adjacent land uses. 
+Strategic Growth Corridors  
+CR 19 and CR 8 were consistently identified through staff discussions and planning efforts as important long -term 
+growth corridors. Together, these corridors provide a framework for future transportation, infrastructure, and utility 
+investments that may influence development patterns within western and northern portions of the planning area. 
+While neither corridor is intended to establish development priorities, both represent areas where future investment 
+and growth should continue to be evaluated through long -range planning efforts. 
+County Road 19 
+CR 19 serves as an important north-south corridor west of the existing community and provides access to several 
+undeveloped areas identified for future consideration. Over the long term, the corridor may support a mix of 
+Page 40 of 117
+ 
+40                          Fort Lupton Strategic Growth Element 2026 
+ 
+residential, employment, commercial, industrial, and mixed -use development as infrastructure and utility 
+investments occur. The corridor's location and connectivity position it as a potential organizing framework for future 
+growth west of Fort Lupton. 
+County Road 8 
+CR 8 functions as both a transportation corridor and a critical east -west connection between several identified 
+opportunity areas. Future expansion of CR 8, including roadway improvements, utility extensions, and long -term 
+planning for a potential interchange at US 85 and CR 8, is expected to influence future growth and development 
+opportunities in the area. These improvements may support employment growth, industrial development, 
+residential expansion, and other community-serving uses. Because the corridor influences multiple growth areas, it 
+is expected to play an important role in shaping long-term development patterns. 
+5.3 Infrastructure, Transportation, and Serviceability 
+Greenfield opportunity areas vary considerably in their existing infrastructure availability, transportation access, 
+utility serviceability, and development readiness. While some areas are located adjacent to existing development 
+and municipal services, others may require significant public and private investment before development can 
+occur.  
+As a result, development feasibility should be evaluated based on a combination of infrastructure capacity, utility 
+serviceability, transportation access, environmental conditions, land use considerations, and long -term fiscal 
+impacts rather than location alone. 
+Infrastructure and Utility Services 
+Infrastructure availability is one of the most important factors influencing greenfield development in Fort Lupton. 
+Staff consistently identified utility serviceability, infrastructure timing, and extension costs as key considerations 
+when evaluating long-term growth opportunities.  
+The eastern growth areas demonstrate the strongest relationship to planned infrastructure investments. Ongoing 
+utility improvements, including the new water tower and associated system upgrades, are expected to support 
+future development and improve service availability in portions of the eastern planning area.  
+Other opportunity areas may require additional utility extensions  and infrastructure investments before 
+development becomes feasible. Service considerations are particularly important west of the South Platte River, 
+where provider relationships and infrastructure limitations may affect long -term growth potential.  
+Staff also identified future coordination with Hudson and eastern utility providers as an important consideration. 
+These relationships may influence utility service strategies, infrastructure investment priorities, and the feasibility 
+of development feasibility in portions of the planning area. 
+Page 41 of 117
+ 
+41                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 42 of 117
+ 
+42                          Fort Lupton Strategic Growth Element 2026 
+ 
+Transportation Access and Connectivity 
+Transportation access is another key factor influencing long -term development potential.US 85, Highway 52, CR 8, 
+and CR 19 provide the primary framework for regional mobility, freight movement, employment access, and future 
+growth. Several identified opportunity areas are located adjacent to these corridors, creating opportunities for 
+future residential, commercial, industrial, and employment -generating development. Planned improvements along 
+CR 8 and CR 19 may play an important role in shaping future growth patterns and supporting access to developing 
+portions of the planning area. 
+Key transportation considerations include:  
+• Access to US 85 and Highway 52.  
+• County Road improvements and 
+capacity.  
+• Freight movement and industrial 
+access. 
+• Future roadway extensions. 
+• Railroad crossings and 
+connectivity.  
+• Emergency service access. 
+• Connections between future 
+development areas and 
+established neighborhoods.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page 43 of 117
+ 
+43                          Fort Lupton Strategic Growth Element 2026 
+ 
+General Serviceability Considerations  
+The identified greenfield opportunity areas vary in their level of development readiness and generally fall into three 
+categories: 
+1. Areas Generally Positioned for Future Growth: Areas adjacent to existing development, planned utilities, 
+and ongoing infrastructure improvements. The eastern growth area represents  the strongest example of 
+this condition. 
+2. Improvement-Dependent Areas: Areas that may support future development but will likely require utility 
+extensions, infrastructure investments, transportation improvements, or service coordination before 
+substantial growth occurs. Portions of the CR 8 and CR 19 corridors generally fall into this category. 
+3. Long-Term Opportunity Areas: Areas appropriate for future planning consideration but currently facing 
+greater uncertainty related to infrastructure expansion, transportation access, environmental constraints, 
+agricultural land uses, serviceability, or market demand. Development in these areas will likely occur over 
+longer time horizons. 
+Additional discussion of infrastructure requirements, serviceability considerations, and growth scenarios is 
+provided in Section 5.5. 
+5.4 Environmental, Agricultural, and Development Suitability  
+Environmental conditions, agricultural resources, and development suitability are important factors when 
+evaluating future greenfield growth areas. These considerations do not determine whether development should 
+occur but help identify opportunities, constraints, and areas where additional analysis may be needed.  
+Environmental Conditions and Development Constraints 
+Environmental conditions vary across the planning area and may influence future development feasibility, 
+infrastructure requirements, project costs, and site design. The Environmental Constraints Map identifies factors 
+that may require additional evaluation during future development review, including: 
+• Wetlands and associated buffers.  
+• Floodplain and flood-risk areas.  
+• Steeper slopes.  
+• Soils with building limitations.  
+• Drainage corridors.  
+• Water resources.  
+• Environmental permitting requirements. 
+Environmental constraints are not evenly distributed throughout the planning area. Portions of the eastern growth 
+area generally contain fewer mapped constraints, while lands near the South Platte River corridor and associated 
+drainage features may require additional environmental review and mitigation. 
+Future development should continue to account for these conditions through site- specific engineering, 
+environmental review, drainage studies, and project design.  
+ 
+ 
+ 
+Page 44 of 117
+ 
+44                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 45 of 117
+ 
+45                          Fort Lupton Strategic Growth Element 2026 
+ 
+Agricultural Resources and Growth Patterns  
+Agriculture remains an important component of Fort Lupton's economy, community character, and landscape. 
+Much of the planning area remains in agricultural production or rural residential use, particularly outside the 
+established urbanized area. 
+Several identified greenfield opportunity areas contain or are adjacent to active agricultural lands. As growth 
+occurs, development decisions should consider the long-term role of agriculture, the preservation of productive 
+farmland, and compatibility between land uses. 
+Key considerations include:  
+• Conversion of productive farmland. 
+• Compatibility between agricultural and urban uses.  
+• Irrigation infrastructure and water delivery systems.  
+• Rural access and transportation needs. 
+• Long-term preservation of agricultural operations.  
+• Transition areas between developed and undeveloped land .  
+Development Suitability  
+The Development Suitability Map provides a broad assessment of environmental conditions to help identify areas 
+with relatively fewer development constraints and areas where additional analysis may be warranted.  
+The analysis generally supports observations identified through staff workshops and planning discussions. Portions 
+of the eastern planning area demonstrate fewer environmental constraints and greater long -term development 
+potential, while other areas may face limitations related to floodplains, drainage features, soils, agricultural 
+resources, or other environmental factors. 
+The Development Suitability Map should be used as:  
+• A general planning evaluation tool. 
+• A comparative evaluation framework.  
+• A screening tool for future opportunity areas. 
+• One component of broader development and infrastructure evaluation.  
+Development suitability should be considered alongside infrastructure capacity, transportation access, utility 
+serviceability, market conditions, ownership considerations, and future land use planning. 
+ 
+ 
+ 
+Development Suitability vs Development Serviceability  
+Development suitability evaluates environmental conditions and physical site characteristics that may 
+influence development, such as floodplains, wetlands, soils, slopes, and other natural constraints. 
+Development serviceability evaluates the availability and capacity of infrastructure, utilities, transportation 
+access, and public services needed to support development. 
+Both factors influence development feasibility and should be considered together when evaluating future 
+greenfield opportunities. For example, areas with few environmental constraints may still require significant 
+infrastructure investments, while areas with existing infrastructure may still be affected by environmental 
+limitations. 
+Page 46 of 117
+ 
+46                          Fort Lupton Strategic Growth Element 2026 
+ 
+ 
+Page 47 of 117
+ 
+47                          Fort Lupton Strategic Growth Element 2026 
+ 
+5.5 Growth Readiness, Fiscal Impacts, and Serviceability Scenarios 
+The cost classifications used in this analysis are planning-level estimates intended to compare the relative 
+infrastructure and service requirements of different growth areas. They do not represent project -specific 
+engineering, design, or construction costs. Actual costs, funding responsibilities, and service obligations will vary 
+based on development type, infrastructure needs, utility capacity, site conditions, and the allocation of 
+responsibilities among developers, property owners, the City, utility pro viders, and other agencies. 
+Developers are generally expected to fund on-site infrastructure and improvements necessary to serve 
+development, while public participation may be appropriate when improvements increase system capacity, 
+address existing deficiencies, support adopted infrastructure plans, or provide broader community benefits. 
+Fiscal Thresholds and Growth Implications 
+Growth does not increase municipal costs in a 
+perfectly linear manner. Many services can 
+accommodate moderate increases in 
+population and development within existing 
+facilities, staffing levels, and infrastructure 
+capacity. Over time, however, communities 
+reach tipping points where additional growth 
+requires new personnel, equipment, facilities, 
+utility capacity, or capital improvements. 
+These thresholds may result in significant 
+increases in both operating and capital 
+expenditures. 
+In Fort Lupton, future growth is likely to 
+generate increased demand for police, fire, 
+public works, parks, utility, and administrative services. Growth may also require investments in transportation 
+infrastructure, water and wastewater facilities, drainage improvements, and community amenities.  Actual 
+thresholds will vary based on development location, service standards, facility utilization, staffing practices, and 
+infrastructure capacity. 
+The discussion and ranges in this section are intended to illustrate how growth can affect municipal service delivery 
+and should not be interpreted as formal staffing standards or fiscal projections. Understanding potential service 
+thresholds can help Fort Lupton anticipate future operational need s and evaluate the long-term fiscal implications 
+of growth alternatives. 
+Development Infrastructure Costs 
+Infrastructure costs vary significantly depending on development location, existing system capacity, and the extent 
+of required improvements. Water, wastewater, roadways, drainage facilities, and utility extensions often represent 
+the largest infrastructure investments associated with new development.  
+The estimates below provide planning-level benchmarks intended to illustrate relative infrastructure costs 
+associated with different development patterns. Depending on the project, these costs may include water 
+distribution, sanitary sewer collection, streets, curb and gutter, drainage facilities, utility extensions, engineering, 
+testing, permitting, and construction contingencies. They do not necessarily in clude major off-site or community-
+wide improvements, such as new wells, water storage facilities, was tewater treatment plant expansions, arterial 
+roadway improvements, or other system upgrades that may be required as development reaches certain 
+thresholds.  
+ 
+ 
+Notes on Methodology: The fiscal thresholds presented in this 
+section are illustrative planning-level benchmarks intended to 
+demonstrate how municipal service demands may increase as 
+residential growth occurs. The thresholds do not represent adopted 
+service standards, staffing formulas, or fiscal policies of the City of 
+Fort Lupton or the Fort Lupton Fire Protection District. Rather, they are 
+based on common municipal service delivery practices, discussions 
+with local governments, and observations from comparable 
+communities where growth has resulted in incremental staffing, 
+equipment, facility, and infrastructure needs. Actual service 
+thresholds will vary based on existing capacity, staffing models, 
+operational efficiencies, service expectations, development patterns, 
+intergovernmental agreements, and community priorities. 
+Page 48 of 117
+ 
+48                          Fort Lupton Strategic Growth Element 2026 
+ 
+Development Type Typical Infrastructure Cost 
+Infill lot with existing infrastructure $5,000-$20,000/unit 
+Small infill subdivision $10,000-$35,000/unit 
+Edge-of-town expansion $40,000-$70,000/unit 
+Greenfield development requiring major extensions $70,000-$120,000+/unit 
+ 
+Lifecycle Funding Needs 
+The cost of infrastructure is not limited to the initial construction of a road, water line, park, or public facility. Every 
+public asset must be operated, maintained, repaired, and eventually replaced. A lifecycle funding approach 
+recognizes these costs and considers the resources needed over the life of the asset to ensure infrastructure 
+remains functional and does not deteriorate over time.  
+Lifecycle funding requirements vary considerably by infrastructure type. Water and wastewater collection systems 
+often have useful lives of 50 years or more and may require annual funding in the range of 2% to 4% of replacement 
+value when operations, maintenance, rehabilitation, and eventual replacement are considered.  Roadway systems 
+generally require more frequent preservation and rehabilitation activities and may require annual funding levels of 
+4% to 8% of replacement value. Public facilities, parks, and treatment systems may require even higher annual 
+investment due to shorter equipment replacement cycles and ongoing operational requirements. Consequently, 
+communities should evaluate lifecycle costs by asset type rather than applying a single funding factor across all 
+infrastructure systems. 
+The table below presents planning-level lifecycle funding benchmarks expressed as a percentage of an asset's total 
+replacement value. These benchmarks are intended to illustrate the potential scale of long -term infrastructure 
+obligations associated with new development. 
+ 
+Asset Type Typical Lifecycle Funding Need 
+Water distribution mains 2% to 4% 
+Sewer collection systems 2% to 4% 
+Streets and pavement systems 4% to 8% 
+Stormwater systems 2% to 4% 
+Parks 5% to 7% 
+Buildings and facilities 4% to 8% 
+ 
+For example, if a community's water distribution system has a replacement value of $10 million, a lifecycle funding 
+target of 2% to 4% annually would equate to approximately $200,000 to $400,000 per year for ongoing operations, 
+maintenance, rehabilitation, and future replacement.  
+Similarly, a roadway network valued at $20 million with a funding target of 4% to 8% annually would require 
+approximately $800,000 to $1.6 million per year to preserve pavement conditions, complete major repairs, and 
+prepare for future reconstruction. 
+Annual Service Costs 
+Annual service costs represent an additional cost for serving new development and should be considered alongside 
+infrastructure and facility costs.  Unlike infrastructure construction costs, which may be borne in whole or in part by 
+developers, these costs reflect the day-to-day municipal services that support residents, businesses, and 
+neighborhoods. Typical service categories include police protection, fire and emergency medical response, street 
+maintenance and snow removal, parks and recreation, administration, and solid waste collection.  
+The estimates presented below are planning-level benchmarks intended to illustrate the potential annual cost of 
+serving additional housing units. They are not estimates of Fort Lupton’s current or projected cost of service. Actual 
+costs will vary based on community size, existing service capacity, service levels, staffing models, and whether 
+growth can be accommodated within existing facilities and operations or triggers the need for additional personnel, 
+Page 49 of 117
+ 
+49                          Fort Lupton Strategic Growth Element 2026 
+ 
+equipment, or public facilities.  
+ 
+Service Annual Cost per housing unit 
+Police $250 
+Fire/EMS $350 
+Streets/Snow $250 
+Parks & Recreation $150 
+Administration $150 
+Solid Waste $200 
+Total Service Cost $1,350/unit/year 
+ 
+The examples below are illustrative planning thresholds intended to demonstrate how growth may affect service 
+delivery over time. They are not formal service standards, staffing ratios, or adopted City policies.  
+ 
+Growth Range Example Municipal Service Consideration 
+150-300 additional 
+dwelling units Evaluation of additional police staffing, vehicles, or equipment  
+300-500 additional 
+dwelling units Evaluation of public works, utility, and maintenance staffing needs  
+500-750 additional 
+dwelling units 
+Coordination with the Fort Lupton Fire Protection District regarding service 
+capacity, staffing, equipment, and apparatus needs 
+750-1,250 additional 
+dwelling units 
+Increased fleet replacement, infrastructure maintenance, and operational 
+demands 
+1,250-2,000 additional 
+dwelling units Potential facility expansion, service yard improvements, and departmental growth  
+2,000+ additional dwelling 
+units 
+Evaluation of major capital investments, including transportation, parks, utilities, 
+and public safety facilities 
+ 
+Understanding these potential thresholds can help the City anticipate future investments and evaluate the long -
+term fiscal implications of growth. 
+Based on approximately 3,207 households identified in the Housing Needs Assessment and an estimated 17 to 18 
+sworn police officers, Fort Lupton currently serves approximately 178 to 189 households per sworn police officer. 
+While police staffing decisions are influenced by workload, calls for service, crime trends, response expectations, 
+and operational considerations, this relationship provides a useful planning -level reference point.  
+It should also be recognized that police service demands are not necessarily limited to households located within 
+the city limits. Traffic enforcement, commercial areas, schools, community facilities, visitors, commuters, and 
+activity occurring in the broader Fort Lupton area can all contribute to service demands beyond those reflected by 
+household counts alone. For purposes of this Strategic Growth Element, the addition of 150 to 300 new dwelling 
+units may represent a reasonable threshold at which the City  should evaluate potential impacts on police staffing, 
+vehicles, equipment, and operational resources. 
+It should also be recognized that fire protection and emergency response services are provided by the Fort Lupton 
+Fire Protection District, an independent special district and separate taxing entity from the City of Fort Lupton. As 
+growth occurs, the District may experience additional demands for staffing, apparatus, equipment, training, 
+facilities, and emergency response capacity. While many growth- related municipal costs are borne by the City, fire 
+protection needs and associated capital investments may occur through the Fire Protection District's budgeting, 
+capital planning, and service delivery framework. Coordination between the City and the Fire Protection District will 
+therefore remain important when evaluating future development patterns, annexations, infrastructure expansions, 
+and long-term growth scenarios. 
+Page 50 of 117
+ 
+50                          Fort Lupton Strategic Growth Element 2026 
+ 
+Parks and Recreation 
+Parks, trails, recreational facilities, and community gathering spaces contribute to quality of life, community 
+identity, and overall livability. As residential growth occurs, demand for these amenities may increase through 
+greater use of existing facilities, expanded programming, additional maintenance needs, or the development of new 
+parkland or recreational facilities. 
+Modest growth may be accommodated within existing park and recreation systems. Over time, however, increased 
+use may require additional maintenance resources, equipment, facility improvements, or new amenities. 
+Evaluating these needs should account for both initial capital costs and the ongoing costs of operating, 
+maintaining, rehabilitating, and eventually replacing park and recreation assets.  
+The following benchmarks illustrate potential annual service and lifecycle funding needs associated with parks and 
+recreation systems. They are intended as planning -level reference points rather than estimates of Fort Lupton’s 
+current or future funding requirements. 
+Cost Category Typical Annual Cost 
+Parks & Recreation Service Cost $150 per dwelling unit 
+Routine Maintenance & Operations 1% - 2% of asset value 
+Rehabilitation Reserve 1% - 2% of asset value 
+Replacement Reserve 3% - 4% of asset value 
+Total Lifecycle Funding Need 5% - 7% of asset value 
+For example, a park or recreational asset with an estimated replacement value of $500,000 may require 
+approximately $25,000 to $35,000 annually to adequately fund routine maintenance, periodic improvements, and 
+the eventual replacement of major assets such as playground equipment, trails, irrigation systems, shade 
+structures, landscaping, and park furnishings. Dedicated lifecycle funding helps maintain parks and recreation 
+facilities and reduce deferred maintenance over time. 
+ 
+Applying the Framework to Fort Lupton 
+A future fiscal and service cost analysis for Fort Lupton should consider initial capital costs, infrastructure 
+extensions and connections, broader system upgrades, annual operations and maintenance, repair and 
+rehabilitation, eventual replacement, staffing and equipment needs, responsible parties, and available funding 
+sources. Where reliable local information is available, costs can be evaluated using project -specific estimates, 
+costs per unit or user, costs per linear foot, asset replacement values, or other appropriate measures.  
+Because many of the benchmarks presented in this section are planning -level estimates, they should not be used 
+as substitutes for project-specific analysis. Future development proposals should be evaluated based on current 
+infrastructure capacity, service standards, site conditions, development intensity, and the City’s ability to fund 
+long-term operations and asset replacement. Quantitative estimates should document their sources, assumptions, 
+methodology, uncertainty, and limitations. 
+Greenfield Development Cost and Serviceability Scenarios 
+Greenfield development costs and long-term service obligations vary depending on proximity to existing 
+infrastructure, available system capacity, utility -extension requirements, transportation improvements, 
+environmental conditions, and coordination among service providers. The following scenarios compare three 
+Notes on fiscal benchmarks: Lifecycle funding benchmarks were developed using planning-level asset management 
+principles, useful life assumptions, maintenance requirements, and replacement reserve considerations commonly used in 
+municipal infrastructure planning. 
+Sources: American Water Works Association (AWWA) Asset Management Resources and Policy Statements; American 
+Public Works Association (APWA) Asset Management Policy Primer and Roadmap; Water Research Foundation (WRF) Asset 
+Management Program. 
+Page 51 of 117
+ 
+51                          Fort Lupton Strategic Growth Element 2026 
+ 
+representative growth areas to illustrate relative development readiness, infrastructure needs, and serviceability 
+considerations. They are intended to support planning discussions and should not be interpreted as project -
+specific cost estimates. 
+Scenario 1: Eastern Growth Area and Water Tower Service Area 
+The eastern growth area is generally the best positioned of the three scenarios for continued near-  and medium-
+term development. This area is adjacent to existing neighborhoods, active residential development, and planned 
+utility investments, including the new water tower and associated system improvements. These conditions create 
+opportunities to coordinate future development with infrastructure that is already planned or under construction. 
+Future development would still require extensions of water distribution, sanitary sewer, stormwater, and local 
+roadway systems into individual development areas. Depending on project needs and scale, additional 
+improvements may include utility looping, lift or pumping facilities, drainage infrastructure, roadway connections, 
+intersections, sidewalks, trails, and emergency-access improvements. Available utility capacity and the ability of 
+planned improvements to accommodate specific development proposals wou ld need to be confirmed through 
+project-level engineering. 
+Because development pressure, utility investment, and existing neighborhoods are already converging in this area, 
+infrastructure improvements may be phased among multiple projects and coordinated with planned City 
+investments. This creates greater potential to distribute major infrastructure costs across several developments 
+rather than constructing isolated extensions for a single project. Concentrated and contiguous development would 
+also limit unnecessary expansion of the service network and support more efficient long-term operations and 
+maintenance. 
+Relative serviceability: High 
+Relative infrastructure investment: Moderate 
+Likely development timing: Near- to medium-term, subject to capacity confirmation and completion of planned improvements 
+Cost considerations: 
+Local water and sewer extensions, system connections and looping, 
+stormwater facilities, internal and connecting streets, pedestrian 
+improvements, and potential capacity-related upgrades 
+Long-term service considerations: Maintenance of expanded utility networks, streets, drainage facilities, parks, and public-safety service coverage 
+Scenario 2: County Road 8 Strategic Growth Corridor 
+The CR 8 corridor is an important east-west transportation and infrastructure connection. It  can support residential, 
+employment, commercial, industrial, and other community -serving development, but its serviceability will depend 
+on the timing and extent of roadway improvements, utility extensions, development phasing, and connections to 
+existing municipal systems. 
+Development located nearer to existing neighborhoods and utility networks may be able to connect through 
+incremental extensions. More distant sites could require longer water and wastewater lines, additional system 
+improvements, expanded stormwater facilities, roadway reconstruction or widening, intersection improvements, 
+and coordinated utility crossings. The corridor’s ability to serve multiple growth areas creates an opportunity for 
+shared infrastructure, but these benefits would depend on coordinated phasing and participation by multiple 
+property owners or developers. 
+CR 8 should therefore be treated as an improvement-dependent growth area. Premature or isolated development 
+could result in fragmented infrastructure, temporary facilities, or extensions that do not efficiently support 
+subsequent growth. A coordinated corridor approach could instead establish alignments, sizing, cost -sharing 
+expectations, and phasing strategies that support multiple development areas and reduce the risk of duplicative 
+investment. 
+Page 52 of 117
+ 
+52                          Fort Lupton Strategic Growth Element 2026 
+ 
+Relative serviceability: Moderate 
+Relative infrastructure investment: Moderate to High 
+Likely development timing: Medium- to long-term, tied to roadway, utility, and development coordination 
+Cost considerations: 
+Trunk utility extensions, roadway and intersection improvements, 
+stormwater and drainage facilities, utility crossings, emergency access, 
+and potential off-site system upgrades 
+Long-term service considerations: 
+Maintenance of an expanded east-west corridor, additional utility 
+assets, drainage systems, transportation facilities, and broader public -
+service coverage 
+Scenario 3: County Road 19 Strategic Growth Corridor 
+The CR 19 corridor is a longer-term north-south growth opportunity west of the established community. The corridor 
+may eventually support housing, employment, commercial, industrial, or mixed -use development, particularly near 
+CR 8. However, serviceability is complex because of distance from portions of the City’s established infrastructure, 
+the South Platte River, existing land-use patterns, and the involvement of multiple utility and service providers west 
+of the river. 
+Future development may require major water and wastewater extensions, system interconnections, river or railroad 
+crossings, roadway improvements, drainage infrastructure, and coordination among Fort Lupton and other service 
+providers. The cost and feasibility of these improvements would depend heavily on the scale and intensity of 
+development. A large, coordinated development could potentially support major shared infrastructure, while 
+smaller or dispersed projects may be unable to absorb the cost of the required extensions and improvements. 
+Development along CR 19 could also expand the geographic area requiring roadway maintenance, snow removal, 
+emergency response, utility operations, and other municipal or district services. These recurring responsibilities 
+should be considered alongside the initial construction cost. Until service arrangements, infrastructure alignments, 
+system capacity, and financing responsibilities are better defined, the corridor is most appropriately viewed as a 
+long-term opportunity area rather than an immediately serv iceable growth location. 
+Relative serviceability: Low / Uncertain 
+Relative infrastructure investment: High 
+Likely development timing: Long-term, dependent on major infrastructure and intergovernmental coordination 
+Cost considerations: 
+Major water and wastewater extensions, potential crossings, roadway 
+upgrades, drainage facilities, service-provider coordination, and 
+system-capacity improvements 
+Long-term service considerations: 
+Geographic expansion of municipal or district services, maintenance of 
+major off-site infrastructure, emergency-response coverage, and long-
+term roadway and utility replacement obligations 
+Future evaluation of each growth area should identify responsibility for initial infrastructure construction, system 
+upgrades, public facilities, ongoing operations, maintenance, and eventual replacement. Responsibilities may be 
+distributed among developers, property owners, the City, utility providers, special districts, and other public 
+agencies depending on location and service arrangements. 
+Scenario 4: Airpark Employment and Innovation Area 
+The Airpark area presents a distinct growth opportunity that differs from the City's residential expansion areas. 
+Unlike other scenarios that are primarily focused on housing growth, this area is centered on employment -
+generating uses, aviation-related businesses, industrial development, logistics, flex space, and other economic 
+Page 53 of 117
+ 
+53                          Fort Lupton Strategic Growth Element 2026 
+ 
+development opportunities associated with the Platte Valley Airpark. The area's long -term growth potential is 
+closely tied to transportation access, available utility capacity, market demand, airport operations, and the timing 
+of supporting infrastructure investments. 
+Future development within the Airpark area would likely require extensions and upgrades to water distribution, 
+sanitary sewer, stormwater, roadway, and utility infrastructure depending on the location, scale, and intensity of 
+development. Improvements may include utility trunk line extensions, drainage facilities, internal circulation roads, 
+roadway access improvements, acceleration and deceleration lanes, telecommunications infrastructure, and other 
+site-specific improvements necessary to support employment and industrial uses.  
+Because development within the Airpark area may occur in larger increments than typical residential projects, 
+infrastructure investments may be more substantial and may need to be coordinated with airport operations, City 
+capital improvements, utility planning efforts, and regional transportation investments. At the same time, 
+successful development has the potential to expand the City's employment base, diversify economic activity, and 
+increase commercial and industrial tax revenues. 
+The Airpark area may also create opportunities to attract aviation -related employers, advanced manufacturing, 
+warehousing, logistics, business services, and other commercial activities that benefit from access to airport 
+facilities and major transportation corridors. However, development feasibility will depend o n infrastructure 
+availability, market conditions, regulatory requirements, and the ability to provide services efficiently over the long 
+term. 
+Relative serviceability: Moderate 
+Relative infrastructure investment: Moderate to High 
+Likely development timing: Medium- to long-term, subject to infrastructure availability, market demand, airport-related opportunities, and utility capacity confirmation 
+Cost considerations: 
+Water and sewer extensions, trunk infrastructure improvements, 
+roadway and access improvements, stormwater facilities, utility 
+coordination, telecommunications infrastructure, and potential airport -
+related improvements 
+Long-term service considerations: 
+Maintenance of expanded utility networks, transportation 
+infrastructure, drainage facilities, public-safety service coverage, and 
+ongoing coordination with airport operations and future economic 
+development activities. 
+Public Benefits of Coordinated Greenfield Growth  
+When coordinated with infrastructure planning, land use goals, and community priorities, greenfield development 
+can support several long-term community objectives. Some greenfield opportunity areas may help accommodate 
+longer-term housing needs identified in the Housing Needs Assessment, particularly where infrastructure 
+investments, transportation access, and serviceability support future residential development.  
+Several identified greenfield opportunity areas occur adjacent to planned infrastructure investments, growth 
+corridors, and future development areas. Coordinating future growth with these investments may improve service 
+efficiency, support housing and economic development objectives, and reduce the need for fragmented 
+infrastructure expansion throughout the planning area.  
+Potential benefits include:  
+• Expanded housing and employment opportunities. 
+• Commercial and industrial investment. 
+• Diversification of the tax base. 
+• More coordinated and efficient infrastructure investment. 
+Page 54 of 117
+ 
+54                          Fort Lupton Strategic Growth Element 2026 
+ 
+• Improved transportation connectivity. 
+• Additional community services and amenities. 
+• Long-term economic development. 
+Future growth should be evaluated using a balanced approach that considers development opportunities alongside 
+infrastructure needs, public-service responsibilities, environmental resources, agricultural lands, and long -term 
+fiscal sustainability. This approach helps ensure that growth contributes positively to the community while 
+supporting Fort Lupton's long-term planning objectives. 
+ 
+ 
+ 
+ 
+ 
+  
+Page 55 of 117
+ 
+55                          Fort Lupton Strategic Growth Element 2026 
+ 
+CHAPTER 6: STRATEGIC GROWTH RECOMMENDATIONS 
+AND IMPLEMENTATION 
+This chapter translates the findings of the Strategic Growth Element into recommendations for future land use, 
+housing, infrastructure, and community investment decisions. The recommendations are organized around 
+coordinated growth planning, infill and redevelopment opportunities, and long -term greenfield growth 
+considerations (Chapters 3, 4, and 5).  
+The potential policies and tools identified in Section 3.2 provide options the City may consider to help implement 
+these recommendations. The appropriate tool or combination of tools will depend on the specific issue, available 
+resources, staff capacity, development conditions, and future City review and approval. Implementation should 
+continue to consider Future Land Use direction, infrastructure and water availability, development feasibility, 
+community priorities, and long-term fiscal responsibilities. 
+6.1 Strategic Growth Policy and Tool Recommendations 
+Recommendation 1: Coordinate Growth with Infrastructure, Utilities, and Water Resources 
+Future growth decisions should be coordinated with water, wastewater, transportation, drainage, utility planning, 
+and capital investments. Areas with existing infrastructure or planned service improvements should generally 
+receive priority consideration for future development. 
+Potential implementation tools include:  
+• Future Land Use Map consistency review. 
+• Utility extension and serviceability review. 
+• Capital improvement planning coordination. 
+• Water Supply Element implementation.  
+Recommendation 2: Use the Growth Boundary to Guide Long-Term Planning  
+Continue using the Growth Boundary as the primary framework for evaluating future housing, employment, 
+infrastructure, transportation, environmental, and economic development opportunities. The boundary should 
+serve as a planning tool for evaluating growth alternatives and coordinating long -term investment decisions, not as 
+an indicator of development approval, annexation priority, or infrastructure commitment. 
+Recommendation 3: Monitor Growth Trends and Update the Strategic Growth Element 
+Future updates should incorporate current data regarding development activity, infrastructure investments, 
+housing conditions, environmental resources, redevelopment opportunities, and greenfield growth areas. Periodic 
+monitoring and updates will help ensure the Strategic Growth Element remains aligned with community conditions, 
+infrastructure capacity, and long-term planning objectives. 
+6.2 Infill and Redevelopment Recommendations 
+Recommendation 4: Prioritize Infill, Redevelopment, and Reinvestment  
+Direct future investment toward established areas that already benefit from infrastructure, transportation access, 
+community facilities, and public services. This approach can maximize existing infrastructure investments, support 
+economic activity, and reduce pressure for outward expansion. 
+Priority areas include:  
+• Downtown, Denver Avenue, and Main Street.  
+Page 56 of 117
+ 
+56                          Fort Lupton Strategic Growth Element 2026 
+ 
+• Highway 52 Corridor.  
+• Rollie Avenue and Denver Avenue Corridor.  
+• US 85 Corridor. 
+• Factory Circle. 
+• Vacant, underutilized, and redevelopment opportunity sites.  
+Recommendation 5: Expand Housing Opportunities and Diversity  
+Support housing choices that respond to needs identified in the Housing Needs Assessment, including: 
+• Single-family infill development. 
+• Townhomes and attached housing.  
+• Multifamily housing. 
+• Mixed-use residential development. 
+• Workforce housing. 
+• Senior and accessible housing.  
+• Attainable ownership opportunities. 
+Housing decisions should remain consistent with infrastructure capacity, community character, surrounding land 
+uses, and future land use objectives. 
+Recommendation 6: Support Downtown Revitalization and Employment Centers  
+Continue supporting reinvestment, redevelopment, and economic development within Downtown Fort Lupton, 
+Highway 52, US 85, and other identified employment and activity centers. 
+Future planning efforts should encourage: 
+• Small business development. 
+• Commercial reinvestment. 
+• Adaptive reuse. 
+• Employment growth.  
+• Housing near jobs and services. 
+• Expansion of community serving uses. 
+6.3 Greenfield Development Recommendations 
+Recommendation 7: Focus Greenfield Growth in Areas with Existing or Planned Infrastructure  
+Not all greenfield areas have the same level of development readiness. Future growth should be directed toward 
+locations where infrastructure, utilities, transportation facilities, and public services can be provided efficiently.  
+Consideration should be given to: 
+• Eastern Growth Areas. 
+• Northland Industrial Park. 
+• Airport Opportunity Area. 
+Recommendation 8: Continue Planning for Strategic Growth Corridors and Employment Areas 
+CR 8, CR 19, the Airpark area, Northland Industrial Park, and other strategic employment areas should remain 
+important components of Fort Lupton's long-term planning framework. 
+Future planning efforts should continue evaluating:  
+• Transportation improvements. 
+• Utility extensions. 
+Page 57 of 117
+ 
+57                          Fort Lupton Strategic Growth Element 2026 
+ 
+• Employment-generating development.  
+• Industrial and commercial opportunities. 
+• Economic development investments. 
+• Long-term service responsibilities. 
+Recommendation 9: Use a Consistent Evaluation Framework for Growth Opportunities 
+Future redevelopment, infill, annexation, infrastructure, and greenfield growth decisions should be evaluated using 
+a consistent framework that considers infrastructure availability, utility serviceability, transportation access, 
+environmental conditions, housing needs, fiscal impacts, and long -term service responsibilities. 
+The analyses in this Strategic Growth Element demonstrate that growth areas vary significantly in their level of 
+infrastructure readiness and serviceability. While redevelopment and infill opportunities generally benefit from 
+existing infrastructure and community assets, many greenfield areas may require additional utility extensions, 
+transportation improvements, and public investment before development becomes feasible. 
+When evaluating future development proposals, annexation requests, infrastructure investments, and capital -
+improvement priorities, the City should consider: 
+• Existing and planned utility infrastructure. 
+• Transportation access and mobility. 
+• Relative infrastructure extension costs. 
+• Long-term operations and maintenance obligations. 
+• Public safety and service delivery impacts. 
+• Housing and economic-development objectives. 
+• Agricultural, environmental, and resource considerations. 
+• Opportunities to leverage planned public investments. 
+Applying a consistent evaluation framework will help Fort Lupton prioritize investments, compare growth 
+alternatives, and direct development toward locations where infrastructure and services can be provided most 
+efficiently. 
+6.4 Implementation and Monitoring Framework 
+The recommendations presented in this chapter are intended to guide future decision-making rather than establish 
+immediate regulatory requirements or capital commitments. Implementation will occur over time through future 
+planning efforts, development review, infrastructure and utility investments, redevelopment initiatives, 
+partnerships, and updates to related plans and programs. 
+The following table identifies potential implementation priorities, lead departments , and planning horizons 
+associated with each recommendation. 
+Recommendation Planning 
+Horizon 
+Potential Lead 
+Coordinate Growth with Infrastructure, Utilities, 
+and Water Resources 
+Ongoing Planning, Public Works, Utilities 
+Use the Growth Boundary to Guide Long-Term 
+Planning 
+Ongoing Planning Department 
+Monitor Growth Trends and Maintain Current 
+Planning Information 
+Ongoing Planning, GIS 
+Prioritize Infill, Redevelopment, and 
+Reinvestment 
+Near-Term and 
+Ongoing 
+Planning, FLURA, Economic 
+Development 
+Page 58 of 117
+ 
+58                          Fort Lupton Strategic Growth Element 2026 
+ 
+Expand Housing Opportunities and Diversity Ongoing Planning, Housing Partners, Developers 
+Support Downtown Revitalization and 
+Employment Centers 
+Near-Term and 
+Ongoing 
+Planning, FLURA, Economic 
+Development, Property Owners 
+Focus Greenfield Growth in Areas with Existing or 
+Planned Infrastructure 
+Ongoing Planning, Public Works, Utilities 
+Continue Planning for Strategic Growth Corridors 
+and Employment Areas 
+Long-Term Planning, Public Works, Utilities, 
+Economic Development 
+Use a Consistent Evaluation Framework for 
+Growth Opportunities 
+Ongoing Planning, Public Works, Economic 
+Development 
+ 
+Monitoring and Future Updates 
+Colorado Senate Bill 24-174 requires Strategic Growth Elements to be periodically reviewed and updated as 
+community conditions evolve. Future updates should consider: 
+• Housing needs and development activity. 
+• Infrastructure and utility investments. 
+• Annexations and growth area planning. 
+• Transportation improvements. 
+• Agricultural and environmental resources. 
+• Infill, redevelopment, and greenfield opportunities. 
+• Development feasibility and serviceability assumptions. 
+Monitoring these factors will help ensure that future growth decisions remain aligned with community priorities, 
+infrastructure capacity, housing needs, and long-term planning objectives. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 59 of 117
+ 
+59                          Fort Lupton Strategic Growth Element 2026 
+ 
+APPENDIX A: DATA SOURCES, METHODS, 
+ASSUMPTIONS, AND LIMITATIONS  
+A.1 Purpose 
+This appendix documents the primary data sources, assumptions, methods, and limitations used to prepare Fort 
+Lupton’s Strategic Growth Element. It is intended to support transparency, compliance review, and future updates . 
+Detailed findings are presented in Chapters 4 and 5. 
+The SGE and supporting data should be reviewed at least every five years as development conditions, community 
+priorities, infrastructure information, and available datasets change. 
+A.1 Data Sources 
+Data source Use in the Strategic Growth Element Version or 
+date used 
+Weld County Assessor data Parcel descriptions, property classifications, land values, 
+improvement values, and initial vacant and underutilized property 
+screening 
+2026 
+City of Fort Lupton GIS data Municipal boundaries, Growth Boundary, utilities, transportation 
+facilities, development areas, parks, public facilities, and locally 
+maintained mapping 
+2026 
+FEMA floodplain data Floodplain and floodway identification used in the Environmental 
+Constraints analysis 
+2026 
+U.S. Fish and Wildlife 
+Service wetlands data 
+Wetland identification used in the Environmental Constraints 
+analysis 
+2026 
+Future Land Use Map and 
+Growth Boundary 
+Future land use patterns and identified growth boundary  2026  
+2026 Housing Needs 
+Assessment 
+Housing needs, affordability conditions, housing type gaps, 
+workforce housing demand, senior housing needs, and attainable 
+ownership considerations 
+2026 
+2025 Three-Mile Area Plan Planning geography, annexation considerations, infrastructure 
+context, agricultural resources, and long-term growth direction 
+2025 
+Comprehensive Plan  Growth Boundary, land-use framework, growth assumptions, 
+transportation direction, and community priorities 
+2026 
+2018 Transportation Plan Existing and planned transportation improvements, corridor 
+functions, freight mobility, multimodal access, and roadway 
+planning 
+2018 
+Parks and Trails Master 
+Plan 
+Parks, recreation facilities, open space, and trail connections  2026 
+Page 60 of 117

@@ -528,3 +528,27 @@
 - Pete L'Orange, Community Planning and Permitting Department
 - No one gave comment during the public hearing portion of this docket
 - to conditionally approve Docket HP-26-0005 in accordance with staff recommendations, commitments of record by applicant, and with additional conditions as discussed and contained within the official record
+
+## [boulder-county#39] 2026-10-27 | Board of County Commissioners - Regular Meeting | minutes
+- The meeting was called to order at approximately 9:32 a.m. by Chair Claire Levy
+- Item No. 4.a was noted for the record by Chair Claire Levy
+- Commissioners' Office - Resignation from Nederland EcoPass Public Improvement District Advisory Committee
+- NEPPIDAC_appointment_102226(1).pdf
+- Resignation from Matthew Kennedy who served as the Town of Nederland representative on the Nederland EcoPass Public Improvement District Advisory Committee as submitted to the Town of Nederland Board of Trustees
+- The Board of County Commissioners sat as the Boulder County Board of Equalization to consider Item No. 5 and then reconvened as the Board of County Commissioners
+- settlements, and administrative denials be approved
+- Action Requested:
+- to approve the Commissioners' Consent Agenda as a whole
+- Commissioners' Office - Resolution 2026-071 - In Support of HR 10115 to Expand and Improve the Radiation Exposure Compensation Act
+- RECA_Resolution_10_20_2026.pdf
+- County Attorney's Office - Requesting Ratification of Participation in Amicus Brief in Viramontes v. Cook County, Case No. 25-238, 25-566 (U.S. Supreme Court)
+- Boulder County is requesting ratification of its participation along with other jurisdictions in an amicus brief in Viramontes v. Cook County, pending before the U.S. Supreme Court. The amicus brief supports Cook County, Illinois’s ban on certain semiautomatic firearms, including AR-15-style rifles.
+- Office of Sustainability and Climate Resilience - Applications for State Electric Vehicle Charging Grants
+- BOCC_Memo_Applications_State_EV_Charging_Grants.pdf
+- OSCAR seeks Board approval for three grant applications to the state through the Charge Ahead Colorado program and the Direct Current Fast Charging Plazas program: $203,000 for Level 2 EV charging at seven multifamily properties; $112,000 for Level 2 EV charging at four public municipal properties; 
+- Office of Sustainability and Climate Resilience - Boulder County Request to RMI for AC to Heat Pump Support
+- Boulder_County_request_to_RMI_for_AC_to_Heat_Pump_support.pdf
+- RMI is offering pro-bono support for Boulder County’s work exploring switching from air conditioners to heat pumps when equipment is being replaced. RMI has requested a formal letter from the county requesting their support
+- Parks and Open Space - Buckner Water
+- 10_27_26BOCC_Business_Mtg_Memo_Buckner_Water_Acquisition.pdf
+- This proposal is to acquire fee title to one share of The James Ditch Company from Clinton Buckner for $120,000.00. This acquisition will improve irrigation capacity on the county's agricultural open space properties and ensure the water remains in agricultural use

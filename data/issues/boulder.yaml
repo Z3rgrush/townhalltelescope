@@ -1,147 +1,118 @@
-- title: November ballot measures
-  summary: Council put several questions on the November 3 ballot, including general obligation bonds for recreation and safety projects, a vacancy excise tax on homes occupied 183 days a year or less, a charter right for firefighters to bargain collectively, and a wildfire resilience measure for open space.
+- title: November 2026 city ballot measures (bonds, vacancy tax, firefighter bargaining, downtown authority)
+  summary: Council gave second reading to ordinances sending several questions to the November 3, 2026 ballot. They cover general obligation bonds for recreation and safety infrastructure, a Vacancy Excise Tax on homes occupied 183 days or less, a charter amendment for firefighter collective bargaining, and formation of a Boulder Downtown Development Authority with tax increment financing. Council later set the order of the ballot measures and discussed supporting a county ballot measure.
   where: Citywide
-  refs:
-  - 0
-  - 1
-  - 6
-  public_comment: true
-  topics:
-  - Elections
-  - Budget & taxes
-  - Fire & emergencies
-- title: Boulder Downtown Development Authority
-  summary: Council moved to ask downtown voters whether to form a Downtown Development Authority that could use tax increment financing for downtown projects.
-  where: Downtown Boulder
-  refs:
-  - 1
-  public_comment: true
-  topics:
-  - Downtown & business
-  - Economic development
-  - Elections
-- title: Wildfire resilience and home hardening
-  summary: Council worked on a wildfire home hardening hub and a review of every city wildfire program as a council priority project, alongside the open space wildfire ballot measure.
-  where: Citywide, wildland-urban edge
   refs:
   - 0
   - 5
-  - 11
-  - 14
-  topics:
-  - Fire & emergencies
-  - Environment & climate
-- title: Local minimum wage increase
-  summary: Council held the second reading of an ordinance setting Boulder's local minimum wage.
-  where: Citywide
-  refs:
-  - 0
-  public_comment: true
-  topics:
-  - Economic development
-  - Government operations
-- title: 2027 budget
-  summary: Council held a study session on the 2027 recommended budget and then adopted budgets and mill levies for the downtown, University Hill and Boulder Junction improvement districts.
-  where: Citywide, Downtown, University Hill, Boulder Junction
-  refs:
   - 8
-  - 11
-  - 13
   topics:
+  - Elections
   - Budget & taxes
   - Downtown & business
-- title: Eminent domain for the 30th Street projects
-  summary: Council introduced ordinances allowing the city to buy or condemn land for the North 30th Street project and the South 30th Street multimodal improvements.
-  where: 30th Street
+- title: Annexation of 1275 Cherryvale Rd. and 5995 McSorley Ln.
+  summary: A petition would annex about 5.43 acres at these two properties with initial RR-2 residential-rural zoning. The item was removed from the August 20 agenda and came back October 1 for first reading, with a public hearing set for November 12, 2026.
+  where: 1275 Cherryvale Rd. and 5995 McSorley Ln.
   refs:
-  - 1
-  topics:
-  - Land & property
-  - Roads & traffic
-- title: Annexation of Cherryvale Road and McSorley Lane properties
-  summary: Council took up a petition to annex about 5.4 acres at 1275 Cherryvale Rd. and 5995 McSorley Ln. with rural residential zoning, setting a public hearing for November 12.
-  where: 1275 Cherryvale Rd, 5995 McSorley Ln
-  refs:
-  - 4
-  - 11
+  - 3
+  - 10
   topics:
   - Annexation
   - Zoning & development
-- title: Affordable housing bonds for Boulder Housing Partners and Harvest34
-  summary: Council assigned $7.3 million in private activity bonds to Boulder Housing Partners for permanently affordable rentals and cleared housing revenue bonds for the Harvest34 project.
-  where: Harvest34
+- title: 'North 30th and South 30th Street projects: eminent domain property acquisition'
+  summary: Council considered ordinances 8771 and 8772 authorizing acquisition of property interests for the North 30th Street Project and the South 30th Street Multimodal Improvements Project, by negotiation or by eminent domain if needed.
+  where: North 30th Street and South 30th Street
   refs:
-  - 4
+  - 0
+  topics:
+  - Roads & traffic
+  - Land & property
+  - Transit
+- title: Affordable housing financing for Harvest34 and Boulder Housing Partners
+  summary: Council considered assigning $7,333,256 of 2026 private activity bonds to Boulder Housing Partners for permanently affordable rental housing. It also considered approving a public approval certificate for BHP to issue multifamily housing revenue bonds for the Harvest34 project.
+  where: Harvest34 project
+  refs:
+  - 3
   topics:
   - Housing
   - Budget & taxes
-- title: Arapahoe Avenue rezoning and Naropa campus redevelopment
-  summary: Council introduced a rezoning of 3.7 acres at 2106 and 2130 Arapahoe Avenue to high-density residential, vacated part of Marine Street, and reviewed a site plan to redevelop the Naropa campus.
-  where: 2106-2130 Arapahoe Ave, Naropa campus
+- title: 2027 city budget and special district budgets
+  summary: Council held a study session on the 2027 Recommended Budget on September 10. On October 15 it took up 2027 budgets, mill levies and appropriations for the Central Area GID, University Hill GID, Boulder Junction Access GID (TDM) and the Municipal Property Authority.
+  where: Citywide
   refs:
-  - 11
+  - 7
+  - 10
+  - 12
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: Frasier and Naropa campus redevelopment proposals
+  summary: Council considered a Site Review Amendment to redevelop the Frasier campus into a joint campus, including a new 55-foot, four-story independent living building with 96 apartments and underground parking. A Site Review application to redevelop the Naropa campus was also on the October 1 agenda.
+  where: Frasier campus and Naropa campus
+  refs:
+  - 5
+  - 10
   topics:
   - Zoning & development
   - Housing
-- title: Boulder Valley Comprehensive Plan update
-  summary: Council introduced the ordinance adopting the 2025 major ten-year update to the Boulder Valley Comprehensive Plan.
+- title: Rezoning and right-of-way vacations at 2106 and 2130 Arapahoe Ave. and Marine Street
+  summary: First reading of Ordinance 8774 would rezone about 3.72 acres at 2106 and 2130 Arapahoe Ave. and adjacent land to RH-5. Ordinance 8775 would vacate part of the Marine Street right-of-way next to 2130 Arapahoe. A related land exchange with Canal Avenue Park, LLC for about 1.0 acre of city land was also on the agenda.
+  where: 2106 and 2130 Arapahoe Ave. and Marine Street
+  refs:
+  - 10
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Boulder Valley Comprehensive Plan 10-year update
+  summary: Council took up first reading of Ordinance 8784 adopting the 2025 major 10-year update to the Boulder Valley Comprehensive Plan.
   where: Citywide
   refs:
-  - 11
+  - 10
   topics:
   - Zoning & development
   - Government operations
-- title: Power reliability and resilience forum
-  summary: Council held a community forum on power reliability and resilience, a council priority project, and reviewed a concept plan to expand Xcel Energy's service center at 2655 N. 63rd Street.
-  where: 2655 N 63rd St
+- title: Wildfire resilience and home hardening program
+  summary: Council held study sessions on August 27 and October 22 about a wildfire home hardening implementation hub and an assessment of current and planned city wildfire programs. It is a council priority project.
+  where: Citywide
   refs:
-  - 6
-  - 12
-  public_comment: true
+  - 4
+  - 10
+  - 13
+  topics:
+  - Fire & emergencies
+  - Environment & climate
+- title: Power reliability and resilience forum
+  summary: The city held a Community and Council Forum on October 8 on the council priority project for power reliability and resilience. A concept plan to expand the Xcel Energy service facility at 2655 N. 63rd Street was also reviewed.
+  where: Citywide; 2655 N. 63rd Street
+  refs:
+  - 5
+  - 11
   topics:
   - Energy
   - Utilities
-- title: Civic Area East Bookend redevelopment
-  summary: Council discussed a request for proposals for a development partner on the east end of the Civic Area.
+- title: Civic Area East Bookend development partnership RFP
+  summary: Council discussed a request for proposals for a development partnership on the Civic Area East Bookend in an August 13 study session. The summary was accepted September 17.
   where: Civic Area
   refs:
-  - 2
-  - 9
+  - 1
+  - 8
   topics:
   - Downtown & business
-  - Zoning & development
-- title: Marijuana and liquor licensing changes
-  summary: Council updated the medical and recreational marijuana code and created expanded permits and a tax for spirits manufacturers.
+  - Land & property
+- title: Pedal cab licensing and alcohol permit changes
+  summary: Ordinance 8757 creates pedal cab agency and driver licenses with fees. Ordinance 8773 allows expanded alcohol beverage permits for spirituous liquor manufacturers and adds a related tax and fee.
   where: Citywide
   refs:
-  - 4
-  - 6
-  - 9
+  - 3
+  - 5
   topics:
+  - Fees & rates
   - Cannabis & liquor
-  - Fees & rates
-- title: Pedicab licenses
-  summary: Council created licenses and fees for pedicab companies and drivers.
+  - Downtown & business
+- title: Restaurant and small business task force
+  summary: Council discussed whether to form a restaurant and small business task force.
   where: Citywide
   refs:
-  - 4
-  - 6
+  - 5
   topics:
-  - Transit
-  - Fees & rates
-- title: Frasier senior campus expansion
-  summary: Council reviewed a site review amendment for Frasier to build a 55-foot, four-story, 96-unit independent living building with underground parking.
-  where: Frasier campus
-  refs:
-  - 6
-  topics:
-  - Housing
-  - Zoning & development
-- title: Landmark designations at 1004 Lincoln Place and 844-850 12th Street
-  summary: Council designated two properties as individual landmarks.
-  where: 1004 Lincoln Pl, 844-850 12th St
-  refs:
-  - 4
-  - 9
-  topics:
-  - Historic preservation
+  - Economic development
+  - Downtown & business

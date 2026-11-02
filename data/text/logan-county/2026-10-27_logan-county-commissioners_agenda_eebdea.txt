@@ -1,0 +1,2401 @@
+315 MAI N ST REET , SUIT E 2 • ST ERL ING , CO 8075 1 • 970-522-088 8 • WWW . L OGANCOUNT YCO . GO V 
+ 
+  
+AGENDA 
+            Logan County Board of Commissioners 
+Logan County Courthouse, 315 Main Street, Sterling, Colorado 
+SPECIAL MEETING 
+Tuesday, October 27, 2026 - 9:00 a.m. 
+ 
+Call to Order 
+Invocation 
+Pledge of Allegiance Revisions to Agenda Consent Agenda 
+ 
+Approve the minutes from the October 20, 2026, regular meeting. 
+ 
+Unfinished Business 
+New Business 
+ 
+Consideration of the approval of an agreement between Logan County and the State of Colorado 
+Department of Health Care Policy and Financing for Rural Health Transformation Program (RHTP) 
+to receive grant funds from the federal award issued by the Centers for Medicare & Medicaid 
+Services in the amount of $2,105,514.  
+ 
+Other Business 
+Miscellaneous Business/Announcements 
+ 
+The next regular meeting will be scheduled for Tuesday, November 3, 2026, at 9:30 a.m. at the 
+Logan County Courthouse. 
+ 
+Executive Session as Needed 
+Adjournment 
+
+
+
+   
+ 
+Grant Agreement# G27-211330  Cover Page 1 of 4 Version: 11/2024 
+ 
+  State of Colorado Grant Agreement 
+Cover Page
+State Agency 
+Department of Health Care Policy and 
+Financing (HCPF, State) 
+Grantee 
+County of Logan  
+Grantee UEI 
+UJT5V7UYNJ24  
+Agreement Maximum Amount 
+Initial Term 
+Budget Period One from Effective Date to 
+09/30/2027:   $2,105,514.00 
+Extension Terms 
+Budget Period Two:  $0.00 
+Budget Period Three: $0.00 
+Budget Period Four:  $0.00 
+Budget Period Five:  $0.00 
+Total for All Budget Periods:  $2,105,514.00 
+ 
+Agreement Number 
+G27-211330 
+Agreement Performance Beginning Date 
+Effective Date   
+Initial Agreement Expiration Date 
+September 30, 2027 
+Fund Expenditure End Date 
+September 30, 2027 
+Agreement Authority 
+Authority to enter into this Agreement exists 
+in C.R.S. §25.5-1-101 et seq. and Section 
+71401 of Public Law 119-21
+Agreement Purpose 
+Department provides federal Rural Health Transformation Program (“RHTP”) Grant Funds to 
+Grantee from the federal award issued by the Centers for Medicare & Medicaid Services (“CMS”) 
+under Federal Award Opportunity Number CMS-RHT-26-001 and authorized by Section 71401 of 
+Public Law 119-21. Grantee shall use the Grant Funds to strengthen Colorado’s rural health care 
+delivery system by improving health care access, quality, and outcomes in rural and frontier 
+communities through the Work described in Exhibit A. 
+Exhibits and Order of Precedence 
+The following Exhibits and attachments are included with this Agreement: 
+1. Exhibit A, Statement of Work. 
+2. Exhibit B, Sample Option Letter. 
+3. Exhibit C, Budget. 
+4. Exhibit D, Federal Provisions.  
+5. Exhibit E, PII Certification. 
+6. Exhibit F, HIPAA BAA. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+   
+ 
+Grant Agreement# G27-211330  Cover Page 2 of 4 Version: 11/2024 
+ 
+  
+ 
+In the event of a conflict of inconsistency between this Agreement and any Exhibit or attachment, 
+such conflict or inconsistency shall be resolved by reference to the documents in the following 
+order of priority: 
+1. Exhibit F, HIPAA BAA. 
+2. Exhibit D, Federal Provisions. 
+3. Colorado Special Provisions in §17 of the main body of this Agreement. 
+4. The provisions of the other sections of the main body of this Agreement. 
+5. Exhibit A, Statement of Work. 
+6. Exhibit E, PII Certification. 
+7. Exhibit B, Sample Option Letter. 
+8. Exhibit C, Budget. 
+Principal Representatives
+For the State: 
+RHTP Contracts and Grants Manager  
+Department of Health Care Policy and 
+Financing 
+303 17th Avenue  
+Suite 1100  
+Denver, CO 80203  
+Hcpf_rhtp@state.co.us
+For Grantee: 
+Lonnie L. Knudsen, EMS 
+Commander/Battalion Chief Sterling Fire 
+Department  
+County of Logan  
+315 Main St STE 3   
+Sterling, CO 80751-4034 
+lknudsen@sterlingcolo.com   
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement# G27-211330  Cover Page 3 of 4 Version: 11/2024 
+ 
+Signature Page 
+THE PARTIES HERETO HAVE EXECUTED THIS AGREEMENT 
+Each person signing this Agreement represents and warrants that the signer is duly authorized to 
+execute this Agreement and to bind the Party authorizing such signature. 
+ 
+Grantee 
+County of Logan 
+Name: _______________________ 
+Title: _______________________ 
+ 
+____________________________________ 
+Date: ______________________ 
+ 
+2nd Grantee Signature If Needed 
+__________________________________ 
+Date: ________________________ 
+ 
+ 
+STATE OF COLORADO 
+Jared S. Polis, Governor 
+Department of Health Care Policy and 
+Financing 
+Name: _______________________ 
+Title: _______________________ 
+ 
+____________________________________ 
+Date: _______________________ 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+Lonnie L. Knudsen
+ 
+Grant Agreement# G27-211330  Cover Page 4 of 4 Version: 11/2024 
+ 
+In accordance with §24-30-202, C.R.S., this Agreement is not valid until signed and dated below by 
+the State Controller or an authorized delegate. 
+ 
+ 
+ 
+ 
+STATE CONTROLLER 
+Robert Jaros, CPA, MBA, JD 
+Department of Health Care Policy and Financing 
+Gini Powers, Controller 
+Name: _______________________ 
+Title: _______________________ 
+___________________________________________ 
+Effective Date:______________ 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 1 of 39 Version: 11/2024 
+ 
+1. Parties 
+This Agreement is entered into by and between Grantee named on the Cover Page for 
+this Agreement (the “Grantee”), and the STATE OF COLORADO acting by and through 
+the State agency named on the Cover Page for this Agreement (the “State”). Grantee 
+and the State agree to the terms and conditions in this Agreement. 
+2. Term and Effective Date 
+A. Effective Date 
+This Agreement shall not be valid or enforceable until the Effective Date, and the 
+Grant Funds shall be expended by the Fund Expenditure End Date shown on the 
+Signature and Cover Page for this Agreement. The State shall not be bound by 
+any provision of this Agreement before the Effective Date and shall have no 
+obligation to pay Grantee for any Work performed or expense incurred before the 
+Effective Date unless this Agreement expressly authorizes pre-award costs and 
+the Federal Award permits payment of those costs. 
+B. Initial Term 
+The Parties’ respective performances under this Agreement shall commence on 
+the Agreement Performance Beginning Date shown on the Cover Page for this 
+Agreement and shall terminate on the Initial Agreement Expiration Date shown 
+on the Cover Page for this Agreement (the “Initial Term”) unless sooner 
+terminated or further extended in accordance with the terms of this Agreement. 
+C. Extension Terms - State’s Option  
+The State, at its discretion, shall have the option to extend the performance 
+under this Agreement beyond the Initial Term for a period, or for successive 
+periods, of one year or less at the same rates and under the same terms specified 
+in this Agreement (each such period an “Extension Term”). In order to exercise 
+this option, the State shall provide written notice to Grantee in a form 
+substantially equivalent to Sample Option Letter attached to this Agreement.  
+D. End of Term Extension 
+If this Agreement approaches the end of its Initial Term, or any Extension Term 
+then in place, the State, at its discretion, upon written notice to Grantee as 
+provided in §14, may unilaterally extend such Initial Term or Extension Term for 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 2 of 39 Version: 11/2024 
+ 
+a period not to exceed two months (an “End of Term Extension”), regardless of 
+whether additional Extension Terms are available or not. The provisions of this 
+Agreement in effect when such notice is given shall remain in effect during the 
+End of Term Extension. The End of Term Extension shall automatically terminate 
+upon execution of a replacement Agreement or modification extending the total 
+term of this Agreement. 
+E. Early Termination in the Public Interest 
+The State is entering into this Agreement to serve the public interest of the State 
+of Colorado as determined by its Governor, General Assembly, or Courts. If this 
+Agreement ceases to further the public interest of the State, the State, in its 
+discretion, may terminate this Agreement in whole or in part. A determination 
+that this Agreement should be terminated in the public interest shall not be 
+equivalent to a State right to terminate for convenience. This subsection shall 
+not apply to a termination of this Agreement by the State for breach by Grantee, 
+which shall be governed by 12.A.i.  
+i. Method and Content 
+The State shall notify Grantee of such termination in accordance with §14. 
+The notice shall specify the effective date of the termination and whether it 
+affects all or a portion of this Agreement, and shall include, to the extent 
+practicable, the public interest justification for the termination.  
+ii. Obligations and Rights 
+Upon receipt of a termination notice for termination in the public interest, 
+Grantee shall be subject to the rights and obligations set forth in §12.A.i.a. 
+iii. Payments 
+Upon termination in the public interest, the State shall reimburse Grantee 
+for allowable costs incurred for Work performed through the effective date 
+of termination that have not previously been reimbursed, subject to the 
+Budget, Agreement Maximum Amount, and payment provisions of this 
+Agreement. 
+Grantee shall reconcile all Advance Payments received through the effective 
+date of termination in accordance with the Advance Payment reconciliation 
+requirements of this Agreement. Grantee shall return any unexpended, 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 3 of 39 Version: 11/2024 
+ 
+unsupported, excess, or unallowable portion of an Advance Payment in 
+accordance with this Agreement. 
+The State shall have no obligation to reimburse Grantee for costs incurred 
+after the effective date of termination unless the State provides prior 
+written authorization for Grantee to incur the costs for purposes of 
+terminating activities, protecting property, completing required close-out 
+activities, or performing other Work directed by the State. 
+F. Grantee’s Termination Under Federal Requirements 
+Grantee may request termination of this Grant by sending notice to the State, or 
+to the Federal Awarding Agency with a copy to the State, which includes the 
+reasons for the termination and the effective date of the termination.  Upon 
+termination, Grantee shall reconcile all Advance Payments and return any 
+unexpended, unsupported, excess, or unallowable amounts in accordance with 
+the Advance Payment reconciliation requirements of this Agreement. 
+3. Definitions 
+The following terms shall be construed and interpreted as follows: 
+A.  “Agreement” means this agreement, including all attached Exhibits, all 
+documents incorporated by reference, all referenced statutes, rules and cited 
+authorities, and any future modifications thereto. 
+B. “Award” means an award by a Recipient to a Subrecipient funded in whole or in 
+part by a Federal Award. The terms and conditions of the Federal Award flow 
+down to the Award unless the terms and conditions of the Federal Award 
+specifically indicate otherwise. 
+C. “Breach of Agreement” means the failure of a Party to perform any of its 
+obligations in accordance with this Agreement, in whole or in part or in a timely 
+or satisfactory manner. The institution of proceedings under any bankruptcy, 
+insolvency, reorganization or similar law, by or against Grantee, or the 
+appointment of a receiver or similar officer for Grantee or any of its property, 
+which is not vacated or fully stayed within 30 days after the institution of such 
+proceeding, shall also constitute a breach. If Grantee is debarred or suspended 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 4 of 39 Version: 11/2024 
+ 
+under §24-109-105, C.R.S. at any time during the term of this Agreement, then 
+such debarment or suspension shall constitute a breach.  
+D. “Budget” means the budget for the Work described in Exhibit C. 
+E. “Business Day” means any day in which the State is open and conducting 
+business, but shall not include Saturday, Sunday or any day on which the State 
+observes one of the holidays listed in §24-11-101(1), C.R.S. 
+F. “CJI” means criminal justice information collected by criminal justice agencies 
+needed for the performance of their authorized functions, including, without 
+limitation, all information defined as criminal justice information by the U.S. 
+Department of Justice, Federal Bureau of Investigation, Criminal Justice 
+Information Services Security Policy, as amended and all Criminal Justice Records 
+as defined under §24-72-302, C.R.S.  
+G. “CORA” means the Colorado Open Records Act, §§24-72-200.1, et seq., C.R.S. 
+H. “Cost Sharing” means a portion of project costs not paid under this Subaward. 
+This includes match which refers to required levels of cost share that must be 
+provided (2 CFR 200.306).  
+I. “Effective Date” means the date on which this Agreement is approved and 
+signed by the Colorado State Controller or designee, as shown on the Signature 
+for this Agreement. 
+J. “End of Term Extension” means the time period defined in §2.D. 
+K. “Exhibits” means the exhibits and attachments included with this Agreement as 
+shown on the Cover Page for this Agreement. 
+L. “Extension Term” means the time period defined in §2.C. 
+M. “Federal Award” means an award of Federal financial assistance or a cost-
+reimbursement contract, under the Federal Acquisition Regulations or by a 
+formula or block grant, by a Federal Awarding Agency to the Recipient. “Federal 
+Award” also means an agreement setting forth the terms and conditions of the 
+Federal Award. The term does not include payments to a contractor or payments 
+to an individual that is a beneficiary of a Federal program. 
+N. “Federal Awarding Agency” means a Federal agency providing a Federal Award 
+to a Recipient. The Centers for Medicare & Medicaid Services (CMS) is the Federal 
+Awarding Agency for the Federal Award which is the subject of this Agreement. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 5 of 39 Version: 11/2024 
+ 
+O. “Goods” means any movable material acquired, produced, or delivered by 
+Grantee as set forth in this Agreement and shall include any movable material 
+acquired, produced, or delivered by Grantee in connection with the Services. 
+P. “Grant Funds” means the funds that have been appropriated, designated, 
+encumbered, or otherwise made available for payment by the State under this 
+Agreement. 
+Q. “Incident” means any accidental or deliberate event that results in or 
+constitutes an imminent threat of the unauthorized access, loss, disclosure, 
+modification, disruption, or destruction of any communications or information 
+resources of the State, which are included as part of the Work, as described in 
+§§24-37.5-401, et seq. C.R.S. Incidents include, without limitation, (i) successful 
+attempts to gain unauthorized access to a State system or State Records 
+regardless of where such information is located; (ii) unwanted disruption or 
+denial of service; (iii) the unauthorized use of a State system for the processing 
+or storage of data; or (iv) changes to State system hardware, firmware, or 
+software characteristics without the State’s knowledge, instruction, or consent. 
+R. “Initial Term” means the time period defined in §2.B. 
+S. “Party” means the State or Grantee, and “Parties” means both the State and 
+Grantee. 
+T. “PCI” means payment card information including any data related to credit card 
+holders’ names, credit card numbers, or other credit card information as may be 
+protected by state or federal law. 
+U. “PII” means personally identifiable information including, without limitation, any 
+information maintained by the State about an individual that can be used to 
+distinguish or trace an individual’s identity, such as name, social security 
+number, date and place of birth, mother’s maiden name, or biometric records; 
+and any other information that is linked or linkable to an individual, such as 
+medical, educational, financial, and employment information. PII includes, but is 
+not limited to, all information defined as personally identifiable information in 
+§§24-72-501 and 24-73-101, C.R.S. “PII” shall also mean “personal identifying 
+information” as set forth at § 24-74-102, et. seq., C.R.S.   
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 6 of 39 Version: 11/2024 
+ 
+V. “PHI” means any protected health information, including, without limitation any 
+information whether oral or recorded in any form or medium: (i) that relates to 
+the past, present, or future physical or mental condition of an individual; the 
+provision of health care to an individual; or the past, present, or future payment 
+for the provision of health care to an individual; and (ii) that identifies the 
+individual or with respect to which there is a reasonable basis to believe the 
+information can be used to identify the individual. PHI includes, but is not 
+limited to, any information defined as Individually Identifiable Health 
+Information by the federal Health Insurance Portability and Accountability Act. 
+W. “Recipient” means the State agency shown on the Signature and Cover Page of 
+this Agreement, for the purposes of this Federal Award.  
+X. “Services” means the services to be performed by Grantee as set forth in this 
+Agreement, and shall include any services to be rendered by Grantee in 
+connection with the Goods. 
+Y. “State Confidential Information” means any and all State Records not subject to 
+disclosure under CORA. State Confidential Information shall include, but is not 
+limited to, PII, PHI, PCI, Tax Information, CJI, and State personnel records not 
+subject to disclosure under CORA. State Confidential Information shall not 
+include information or data concerning individuals that is not deemed 
+confidential but nevertheless belongs to the State, which has been 
+communicated, furnished, or disclosed by the State to Grantee which (i) is 
+subject to disclosure pursuant to CORA; (ii) is already known to Grantee without 
+restrictions at the time of its disclosure to Grantee; (iii) is or subsequently 
+becomes publicly available without breach of any obligation owed by Grantee to 
+the State; (iv) is disclosed to Grantee, without confidentiality obligations, by a 
+third party who has the right to disclose such information; or (v) was 
+independently developed without reliance on any State Confidential Information. 
+Z. “State Fiscal Rules” means the fiscal rules promulgated by the Colorado State 
+Controller pursuant to §24-30-202(13)(a), C.R.S. 
+AA. “State Fiscal Year” means a 12 month period beginning on July 1 of each 
+calendar year and ending on June 30 of the following calendar year. If a single 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 7 of 39 Version: 11/2024 
+ 
+calendar year follows the term, then it means the State Fiscal Year ending in 
+that calendar year. 
+BB. “State Records” means any and all State data, information, and records, 
+regardless of physical form, including, but not limited to, information subject to 
+disclosure under CORA. 
+CC. “Subcontractor” means third-parties, if any, engaged by Grantee to aid in 
+performance of the Work. “Subcontractor” also includes sub-grantees of grant 
+funds. 
+DD. “Subrecipient” means an entity that receives a sub-award from a pass-through 
+entity to carry out part of a Federal award. The term subrecipient does not 
+include a beneficiary or participant. A Subrecipient may also be a recipient of 
+other Federal Awards directly from a Federal Awarding Agency. For the purposes 
+of this Agreement, Grantee is a Subrecipient. 
+EE. “Tax Information” means federal and State of Colorado tax information 
+including, without limitation, federal and State tax returns, return information, 
+and such other tax-related information as may be protected by federal and State 
+law and regulation. Tax Information includes, but is not limited to all information 
+defined as federal tax information in Internal Revenue Service Publication 1075. 
+FF. “Uniform Guidance” means the Office of Management and Budget Uniform 
+Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards. The terms and conditions of the Uniform Guidance flow down to 
+the Awards to Subrecipients unless the Uniform Guidance or the terms and 
+conditions of the Federal award specifically indicate otherwise. 
+GG. “Work” means the Goods delivered and Services performed pursuant to this 
+Agreement. 
+HH. “Work Product” means the tangible and intangible results of the Work, whether 
+finished or unfinished, including drafts. Work Product includes, but is not limited 
+to, documents, text, software (including source code), research, reports, 
+proposals, specifications, plans, notes, studies, data, images, photographs, 
+negatives, pictures, drawings, designs, models, surveys, maps, materials, ideas, 
+concepts, know-how, information, and any other results of the Work. “Work 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 8 of 39 Version: 11/2024 
+ 
+Product” does not include any material that was developed prior to the Effective 
+Date that is used, without modification, in the performance of the Work. 
+II. “Budget Period” means each period established by CMS under the Federal Award 
+for which Grant Funds are available for Grantee’s performance of the Work, as 
+identified on the Cover Page. 
+Any other term used in this Agreement that is defined in an Exhibit shall be construed 
+and interpreted as defined in that Exhibit. 
+4. Statement of Work 
+Grantee shall complete the Work as described in this Agreement and in accordance 
+with the provisions of Exhibit A. The State shall have no liability to compensate 
+Grantee for the delivery of any goods or the performance of any services that are not 
+specifically set forth in this Agreement. 
+5. Payments to Grantee 
+A. Maximum Amount 
+Payments to Grantee are limited to the unpaid, obligated balance of the Grant 
+Funds. The State shall not pay Grantee any amount under this Agreement that 
+exceeds the Agreement Maximum Amount for each Budget Period shown on the 
+Cover Page of this Agreement.   
+B. Payment Procedures 
+i. Payment Requests and Payment 
+a. The State shall pay Grantee in accordance with the Budget and 
+applicable payment provisions of this Agreement.   
+b. Grantee shall submit each request for payment to the State in a form 
+and manner approved by the State.  
+c. The State shall pay each properly submitted request for reimbursement 
+within 45 days following the State’s acceptance of the request, 
+provided that the amount requested represents allowable costs 
+incurred by Grantee in accordance with this Agreement. Advance 
+Payment requests shall be reviewed and paid in accordance with the 
+Advance Payment provisions of this Agreement. If the State determines 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 9 of 39 Version: 11/2024 
+ 
+that a payment request is inaccurate or incomplete, Grantee shall 
+make all changes necessary to correct the payment request. 
+d. The State’s approval or payment of a request for payment shall not 
+constitute acceptance of any Work or Deliverable or a determination 
+that an expenditure is allowable under this Agreement. 
+ii. Interest 
+Amounts not paid by the State within 45 days of the State’s acceptance of 
+the request for reimbursement shall bear interest on the unpaid balance 
+beginning on the 45th day at the rate of 1% per month, as required by §24-
+30-202(24)(a), C.R.S., until paid in full; provided, however, that interest 
+shall not accrue on unpaid amounts that the State disputes in writing. 
+Grantee shall invoice the State separately for accrued interest on 
+delinquent amounts, and the invoice shall reference the delinquent 
+payment, the number of days interest to be paid and the interest rate.  
+iii. Payment Disputes 
+If Grantee disputes any calculation, determination or amount of any 
+payment, Grantee shall notify the State in writing of its dispute within 30 
+days following the earlier to occur of Grantee’s receipt of the payment or 
+notification of the determination or calculation of the payment by the 
+State. The State will review the information presented by Grantee and may 
+make changes to its determination based on this review. The calculation, 
+determination or payment amount that results from the State’s review shall 
+not be subject to additional dispute under this subsection. No payment 
+subject to a dispute under this subsection shall be due until after the State 
+has concluded its review, and the State shall not pay any interest on any 
+amount during the period it is subject to dispute under this subsection. 
+iv. Available Funds-Contingency-Termination 
+The State is prohibited by law from making commitments beyond the term 
+of the current Budget Period. Payment to Grantee beyond the current 
+Budget Period is contingent on the appropriation and continuing availability 
+of Grant Funds in any subsequent year (as provided in the Colorado Special 
+Provisions). If federal funds or funds from any other non-State funds 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 10 of 39 Version: 11/2024 
+ 
+constitute all or some of the Grant Funds, the State’s obligation to pay 
+Grantee shall be contingent upon such non-State funding continuing to be 
+made available for payment. Payments to be made pursuant to this 
+Agreement shall be made only from Grant Funds, and the State’s liability for 
+such payments shall be limited to the amount remaining of such Grant 
+Funds. If State, federal or other funds are not appropriated, or otherwise 
+become unavailable to fund this Agreement, the State may, upon written 
+notice, terminate this Agreement, in whole or in part, without incurring 
+further liability. The State shall remain obligated to reimburse Grantee for 
+allowable costs incurred for Work performed through the effective date of 
+termination that have not previously been reimbursed, subject to the 
+Budget, Agreement Maximum Amount, and payment provisions of this 
+Agreement. Grantee shall reconcile all Advance Payments in accordance 
+with the Advance Payment reconciliation requirements of this Agreement. 
+v. Federal Recovery 
+The close-out of a Federal Award does not affect the right of the Federal 
+Awarding Agency or the State to disallow costs and recover funds on the 
+basis of a later audit or other review. Any cost disallowance recovery is to 
+be made within the Record Retention Period, as defined below. 
+C. Reimbursement of Grantee Costs 
+Except for an Advance Payment approved by the State in accordance with the 
+Advance Payment provisions of this Agreement, the State shall reimburse 
+Grantee for allowable costs incurred in performance of the Work, subject to the 
+Agreement Maximum Amount and the Budget. The State shall reimburse Grantee 
+only for costs that: 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 11 of 39 Version: 11/2024 
+ 
+i. Grantee has incurred for the Work during the applicable period of 
+performance. 
+ii. Are allowable, allocable, and reasonable under this Agreement and 
+applicable federal requirements. 
+iii. Are included in the Budget or otherwise approved by the State in 
+accordance with this Agreement. 
+iv. Equal Grantee’s actual net cost after deducting any credits, discounts, 
+rebates, refunds, or other items of value that reduce the cost incurred. 
+v. Grantee supports with documentation sufficient for the State to verify the 
+expenditure and Grantee’s compliance with this Agreement. 
+The State shall not reimburse costs incurred before the Effective Date unless this 
+Agreement expressly authorizes pre-award costs and the Federal Award permits 
+reimbursement of those costs. The State shall not reimburse costs incurred after 
+the applicable period of performance or Fund Expenditure End Date. 
+D. Advance Payments 
+i. State Approval 
+The State may, in the State’s discretion and subject to applicable State 
+Fiscal Rules, State Controller approval or waiver, federal requirements, and 
+availability of Grant Funds, approve an Advance Payment to Grantee for 
+allowable costs under this Agreement. Grantee shall not be entitled to an 
+Advance Payment solely because the State has approved Advance Payments 
+for another grantee or another expenditure. 
+ii. Advance Payment Request 
+Grantee shall submit each request for an Advance Payment in a form and 
+manner approved by the State. Each request shall include documentation 
+sufficient for the State to evaluate: 
+a. The specific expenditure for which Grantee requests the Advance 
+Payment.  
+b. The amount of the requested Advance Payment and the method 
+Grantee used to calculate the amount.  
+c. The date Grantee expects to incur the expenditure and the date 
+payment is due.  
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 12 of 39 Version: 11/2024 
+ 
+d. The date by which Grantee expects to expend the Advance 
+Payment.  
+e. Grantee’s actual and immediate cash need.  
+f. The cash-flow constraint that prevents Grantee from reasonably 
+incurring the expenditure before receiving reimbursement.  
+g. Why the requested amount represents the minimum amount 
+necessary to meet Grantee’s actual and immediate cash need.  
+h. The financial controls Grantee will use to ensure that Grantee uses 
+the Advance Payment only for approved Work.  
+i. The documentation and accounting processes Grantee will use to 
+track, report, and reconcile the Advance Payment.  
+j. Any additional information requested by the State to evaluate 
+financial, operational, or compliance risks associated with the 
+Advance Payment. 
+iii. Approval Criteria 
+The State may approve, deny, or approve an amount less than the amount 
+requested by Grantee. The State may approve an Advance Payment only for 
+an actual and immediate cash need associated with allowable Work under 
+this Agreement. The State may limit an Advance Payment to the minimum 
+amount necessary to satisfy the approved cash need and may establish a 
+payment schedule based on the timing of the applicable expenditure. 
+iv. Use of Advance Payments 
+Grantee shall: 
+a. Use each Advance Payment only for the expenditure and Work 
+approved by the State.  
+b. Maintain accounting records sufficient to separately identify and 
+track each Advance Payment and the expenditures made from each 
+Advance Payment.  
+c. Maintain documentation sufficient to establish the allowability and 
+amount of each expenditure made from an Advance Payment.  
+d. Make all records supporting an Advance Payment available to the 
+State in accordance with the record inspection and monitoring 
+requirements of this Agreement.  
+e. Comply with all additional conditions included in the State’s written 
+approval of the Advance Payment that are consistent with this 
+Agreement and applicable State and federal requirements. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 13 of 39 Version: 11/2024 
+ 
+E. Reconciliation of Advance Payments 
+i. Reconciliation 
+Grantee shall reconcile each Advance Payment in a form and manner 
+approved by the State and shall submit documentation sufficient to 
+demonstrate the actual allowable expenditures paid with the Advance 
+Payment. Grantee shall complete reconciliation by the deadline established 
+in the State’s written approval of the Advance Payment or, if the State does 
+not establish a deadline, no later than 30 Calendar Days after Grantee 
+expends the Advance Payment. 
+ii. Unexpended and Unallowable Amounts 
+Grantee shall return to the State any portion of an Advance Payment that: 
+a. Grantee does not expend for the approved purpose.  
+b. Exceeds Grantee’s actual allowable costs.  
+c. The State or Federal Awarding Agency determines is unallowable.  
+d. Grantee cannot support with documentation sufficient to establish 
+the allowability of the expenditure. 
+Grantee shall return such amounts within 30 Calendar Days after the State 
+provides written notice of the amount due. 
+iii. Subsequent Payments 
+The State may reduce, withhold, or offset a subsequent payment under this 
+Agreement by the amount of any Advance Payment that Grantee has not 
+timely reconciled or returned as required by this Agreement. The State may 
+suspend approval of additional Advance Payments until Grantee completes 
+all outstanding reconciliation requirements. 
+iv. Monitoring 
+The State may review Grantee’s use of Advance Payments as part of the 
+State’s financial and programmatic monitoring under this Agreement. State 
+approval of an Advance Payment shall not constitute acceptance of the 
+underlying expenditure or a determination that the expenditure is allowable 
+under the Federal Award. 
+F. Repayment of Grant Funds 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 14 of 39 Version: 11/2024 
+ 
+i. Grantee shall use all Grant Funds in accordance with this Grant Agreement 
+and all applicable federal laws, regulations, requirements, terms, and 
+conditions governing the federal funds used to fund this Grant. 
+ii. Grantee acknowledges that the federal government may review, audit, 
+disallow, recoup, or otherwise recover Grant Funds that the federal 
+government determines were expended in violation of applicable federal 
+requirements or were otherwise not allowable under the federal award. 
+iii. Grantee shall repay Grant Funds if the federal government or Department 
+determines that the Grant Funds: 
+a. Were used for a purpose not authorized by this Grant Agreement or 
+applicable federal requirements. 
+b. Were paid for costs that are determined to be unallowable. 
+c. Were paid based on inaccurate, incomplete, or unsupported 
+information submitted by Grantee. 
+d. Were not adequately supported by records required under this Grant 
+Agreement or applicable federal requirements. 
+e. Were paid in excess of the amount to which Grantee was entitled. 
+f. Are otherwise subject to repayment, recoupment, disallowance, or 
+recovery under applicable federal requirements. 
+iv. Grantee shall repay the Department the amount identified in a written 
+repayment notice issued by Department within 30 Calendar Days following 
+Grantee’s receipt of the repayment notice unless Department specifies a 
+different repayment period in the notice based on an applicable federal 
+requirement. 
+v. Grantee’s obligation to repay Grant Funds under this section shall apply 
+regardless of whether the federal government seeks recovery directly from 
+Department or requires Department to repay the applicable federal funds. 
+vi. Grantee’s repayment obligations under this section shall survive the 
+expiration or termination of this Grant Agreement and shall continue for the 
+period during which the federal government or Department may audit, 
+disallow, recoup, or otherwise recover the applicable Grant Funds. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 15 of 39 Version: 11/2024 
+ 
+vii. Department may use any remedy available under this Grant Agreement or 
+applicable law to recover amounts owed by Grantee under this section. 
+G. Close-Out 
+Grantee shall close out this Award within 45 days after the Fund Expenditure End 
+Date shown on the Signature and Cover Page for this Agreement. To complete 
+close-out, Grantee shall submit to the State all Deliverables and documentation 
+required under this Agreement, Grantee’s final reimbursement request, if 
+applicable, and all outstanding Advance Payment reconciliations. The State will 
+withhold 5% of allowable costs from reimbursement payments until Grantee has 
+submitted all final documentation required under this Agreement and the State 
+has accepted the final documentation as substantially complete. The 5% 
+withholding shall not apply to Advance Payments. If the Federal Awarding Agency 
+has not closed this Federal Award within one year and 90 days after the Fund 
+Expenditure End Date shown on the Signature and Cover Page for this Agreement 
+due to Grantee’s failure to submit required documentation, then Grantee may be 
+prohibited from applying for new Federal Awards through the State until such 
+documentation is submitted and accepted. 
+6. Reporting - Notification 
+A. Litigation Reporting 
+If Grantee is served with a pleading or other document in connection with an 
+action before a court or other administrative decision making body, and such 
+pleading or document relates to this Agreement or may affect Grantee’s ability 
+to perform its obligations under this Agreement, Grantee shall, within ten days 
+after being served, notify the State of such action and deliver copies of such 
+pleading or document to the State’s Principal Representative identified on the 
+Cover Page for this Agreement.  
+B. Performance and Final Status 
+Grantee shall submit all financial, performance and other reports to the State no 
+later than 45 Calendar Days after the end of the Initial Term if no Extension 
+Terms are exercised, or the final Extension Term exercised by the State, 
+containing an evaluation and review of Grantee’s performance and the final 
+status of Grantee’s obligations hereunder. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 16 of 39 Version: 11/2024 
+ 
+C. Violations Reporting 
+Grantee shall disclose, in a timely manner, in writing to the State and the 
+Federal Awarding Agency, all violations of federal or State criminal law involving 
+fraud, bribery, or gratuity violations potentially affecting the Federal Award. The 
+State or the Federal Awarding Agency may impose any penalties for 
+noncompliance allowed under 2 CFR Part 180 and 31 U.S.C. 3321, which may 
+include, without limitation, suspension or debarment. 
+7. Grantee Records 
+A. Maintenance 
+Grantee shall make, keep, maintain, and allow inspection and monitoring by the 
+State of a complete file of all records, documents, communications, notes and 
+other written materials, electronic media files, and communications, pertaining 
+in any manner to the Work or the delivery of Services (including, but not limited 
+to the operation of programs) or Goods hereunder. Grantee shall maintain such 
+records for a period (the “Record Retention Period”) of three years following the 
+date of submission to the State of the final expenditure report, or if this Award is 
+renewed quarterly or annually, from the date of the submission of each quarterly 
+or annual report, respectively. If any litigation, claim, or audit related to this 
+Award starts before expiration of the Record Retention Period, the Record 
+Retention Period shall extend until all litigation, claims, or audit findings have 
+been resolved and final action taken by the State or Federal Awarding Agency. 
+The Federal Awarding Agency, a cognizant agency for audit, oversight or indirect 
+costs, and the State, may notify Grantee in writing that the Record Retention 
+Period shall be extended. For records for real property and equipment, the 
+Record Retention Period shall extend three years following final disposition of 
+such property.  
+B. Inspection 
+Grantee shall permit the State, the federal government, and any other duly 
+authorized agent of a governmental agency to audit, inspect, examine, excerpt, 
+copy and transcribe Grantee Records during the Record Retention Period. 
+Grantee shall make Grantee Records available during normal business hours at 
+Grantee’s office or place of business, or at other mutually agreed upon times or 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 17 of 39 Version: 11/2024 
+ 
+locations, upon no fewer than two Business Days’ notice from the State, unless 
+the State determines that a shorter period of notice, or no notice, is necessary to 
+protect the interests of the State.  
+C. Monitoring 
+The State will monitor Grantee’s performance of its obligations under this 
+Agreement using procedures as determined by the State. The federal government 
+and any other duly authorized agent of a governmental agency, in its discretion, 
+may monitor Grantee’s performance of its obligations under this Agreement using 
+procedures as determined by that governmental entity. Grantee shall allow the 
+State to perform all monitoring required by the Uniform Guidance, based on the 
+State’s risk analysis of Grantee and this Agreement. The State shall have the 
+right, in its sole discretion, to change its monitoring procedures and 
+requirements at any time during the term of this Agreement.  The State shall 
+monitor Grantee’s performance in a manner that does not unduly interfere with 
+Grantee’s performance of the Work. 
+D. Final Audit Report 
+Grantee shall promptly submit to the State a copy of any final audit report of an 
+audit performed on Grantee’s records that relates to or affects this Agreement or 
+the Work, whether the audit is conducted by Grantee or a third party.  
+Additionally, if Grantee is required to perform a single audit under 2 CFR 
+200.501, et seq., then Grantee shall submit a copy of the results of that audit to 
+the State within the same timelines as the submission to the federal government. 
+8. Confidential Information – State Records 
+A. Confidentiality 
+Grantee shall keep confidential, and cause all Subcontractors to keep 
+confidential, all State Records, unless those State Records are publicly available. 
+Grantee shall not, without prior written approval of the State, use, publish, 
+copy, disclose to any third party, or permit the use by any third party of any 
+State Records, except as otherwise stated in this Agreement, permitted by law or 
+approved in writing by the State. Grantee shall provide for the security of all 
+State Confidential Information in accordance with all policies promulgated by the 
+Colorado Office of Information Security and all applicable laws, rules, policies, 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 18 of 39 Version: 11/2024 
+ 
+publications, and guidelines. If Grantee or any of its Subcontractors will or may 
+receive the following types of data, Grantee or its Subcontractors shall provide 
+for the security of such data according to the following: (i) the most recently 
+promulgated IRS Publication 1075 for all Tax Information and in accordance with 
+the Safeguarding Requirements for Federal Tax Information attached to this 
+Agreement as an Exhibit, if applicable; (ii) the most recently updated PCI Data 
+Security Standard from the PCI Security Standards Council for all PCI; (iii) the 
+most recently issued version of the U.S. Department of Justice, Federal Bureau of 
+Investigation, Criminal Justice Information Services Security Policy for all CJI; 
+and (iv) the federal Health Insurance Portability and Accountability Act for all PHI 
+and the HIPAA Business Associate Agreement attached to this Agreement, if 
+applicable. Grantee shall immediately forward any request or demand for State 
+Records to the State’s Principal Representative. 
+B. Other Entity Access and Nondisclosure Agreements 
+Grantee may provide State Records to its agents, employees, assigns and 
+Subcontractors as necessary to perform the Work, but shall restrict access to 
+State Confidential Information to those agents, employees, assigns and 
+Subcontractors who require access to perform their obligations under this 
+Agreement. Grantee shall ensure all such agents, employees, assigns, and 
+Subcontractors sign agreements containing nondisclosure provisions at least as 
+protective as those in this Agreement, and that the nondisclosure provisions are 
+in force at all times the agent, employee, assign or Subcontractor has access to 
+any State Confidential Information. Grantee shall provide copies of those signed 
+nondisclosure provisions to the State upon execution of the nondisclosure 
+provisions. 
+C. Use, Security, and Retention 
+Grantee shall use, hold and maintain State Confidential Information in 
+compliance with any and all applicable laws and regulations in facilities located 
+within the United States, and shall maintain a secure environment that ensures 
+confidentiality of all State Confidential Information wherever located. Grantee 
+shall provide the State with access, subject to Grantee’s reasonable security 
+requirements, for purposes of inspecting and monitoring access and use of State 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 19 of 39 Version: 11/2024 
+ 
+Confidential Information and evaluating security control effectiveness. Upon the 
+expiration or termination of this Agreement, Grantee shall return State Records 
+provided to Grantee or destroy such State Records and certify to the State that it 
+has done so, as directed by the State. If Grantee is prevented by law or 
+regulation from returning or destroying State Confidential Information, Grantee 
+warrants it will guarantee the confidentiality of, and cease to use, such State 
+Confidential Information. 
+D. Incident Notice and Remediation 
+If Grantee becomes aware of any Incident, it shall notify the State immediately 
+and cooperate with the State regarding recovery, remediation, and the necessity 
+to involve law enforcement, as determined by the State. Unless Grantee can 
+establish that none of Grantee or any of its agents, employees, assigns or 
+Subcontractors are the cause or source of the Incident, Grantee shall be 
+responsible for the cost of notifying each person who may have been impacted by 
+the Incident. After an Incident, Grantee shall take steps to reduce the risk of 
+incurring a similar type of Incident in the future as directed by the State, which 
+may include, but is not limited to, developing and implementing a remediation 
+plan that is approved by the State at no additional cost to the State. The State 
+may adjust or direct modifications to this plan, in its sole discretion and Grantee 
+shall make all modifications as directed by the State. If Grantee cannot produce 
+its analysis and plan within the allotted time, the State, in its sole discretion, 
+may perform such analysis and produce a remediation plan, and Grantee shall 
+reimburse the State for the reasonable costs thereof. 
+E. Safeguarding PII 
+If Grantee or any of its Subcontractors will or may receive PII under this 
+Agreement, Grantee shall provide for the security of such PII, in a manner and 
+form acceptable to the State, including, without limitation, State non-disclosure 
+requirements, use of appropriate technology, security practices, computer access 
+security, data access security, data storage encryption, data transmission 
+encryption, security inspections, and audits. Grantee shall be a “Third-Party 
+Service Provider” as defined in §24-73-103(1)(i), C.R.S. and shall maintain 
+security procedures and practices consistent with §§24-73-101 et seq., C.R.S.  In 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 20 of 39 Version: 11/2024 
+ 
+addition, as set forth in § 24-74-102, et. seq., C.R.S., Grantee, including, but not 
+limited to, Grantee’s employees, agents and Subcontractors, agrees not to share 
+any PII with any third parties for the purpose of investigating for, participating 
+in, cooperating with, or assisting with Federal immigration enforcement. If 
+Grantee is given direct access to any State databases containing PII, Grantee 
+shall execute, on behalf of itself and its employees, the certification attached 
+hereto as Exhibit E on an annual basis Grantee’s duty and obligation to certify as 
+set forth in Exhibit E shall continue as long as Grantee has direct access to any 
+State databases containing PII. If Grantee uses any Subcontractors to perform 
+services requiring direct access to State databases containing PII, Grantee shall 
+require such Subcontractors to execute and deliver the certification to the State 
+on an annual basis, so long as the Subcontractor has access to State databases 
+containing PII. 
+9. Conflict of Interest 
+A. Actual Conflicts of Interest 
+Grantee shall not engage in any business or activities, or maintain any 
+relationships that conflict in any way with the full performance of the obligations 
+of Grantee under this Agreement. Such a conflict of interest would arise when a 
+Grantee or Subcontractor’s employee, officer or agent were to offer or provide 
+any tangible personal benefit to an employee of the State, or any member of his 
+or her immediate family or his or her partner, related to the award of, entry into 
+or management or oversight of this Agreement.  
+B. Apparent Conflicts of Interest 
+Grantee acknowledges that, with respect to this Agreement, even the 
+appearance of a conflict of interest shall be harmful to the State’s interests. 
+Absent the State’s prior written approval, Grantee shall refrain from any 
+practices, activities or relationships that reasonably appear to be in conflict with 
+the full performance of Grantee’s obligations under this Agreement.  
+C. Disclosure to the State 
+If a conflict or the appearance of a conflict arises, or if Grantee is uncertain 
+whether a conflict or the appearance of a conflict has arisen, Grantee shall 
+submit to the State a disclosure statement setting forth the relevant details for 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 21 of 39 Version: 11/2024 
+ 
+the State’s consideration. Failure to promptly submit a disclosure statement or to 
+follow the State’s direction in regard to the actual or apparent conflict 
+constitutes a breach of this Agreement. 
+D. Grantee acknowledges that all State employees are subject to the ethical 
+principles described in §24-18-105, C.R.S.  Grantee further acknowledges that 
+State employees may be subject to the requirements of §24-18-105, C.R.S. with 
+regard to this Agreement.   
+10. Insurance 
+Grantee shall obtain and maintain, and ensure that each Subcontractor shall obtain 
+and maintain, insurance as specified in this section at all times during the term of this 
+Agreement. All insurance policies required by this Agreement that are not provided 
+through self-insurance shall be issued by insurance companies as approved by the 
+State. 
+A. Workers’ Compensation 
+Workers’ compensation insurance as required by state statute, and employers’ 
+liability insurance covering all Grantee or Subcontractor employees acting within 
+the course and scope of their employment. 
+B. General Liability 
+Commercial general liability insurance covering premises operations, fire 
+damage, independent contractors, products and completed operations, blanket 
+contractual liability, personal injury, and advertising liability with minimum 
+limits as follows:  
+ii. $1,000,000 each occurrence;  
+iii. $1,000,000 general aggregate;  
+iv. $1,000,000 products and completed operations aggregate; and  
+v. $50,000 any one fire. 
+C. Automobile Liability 
+Automobile liability insurance covering any auto (including owned, hired and non-
+owned autos) with a minimum limit of $1,000,000 each accident combined single 
+limit. 
+D. Cyber/Network Security and Privacy Liability  
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 22 of 39 Version: 11/2024 
+ 
+Liability insurance covering civil, regulatory, and statutory damages, contractual 
+damages, data breach management exposure, and any loss of income or extra 
+expense as a result of actual or alleged breach, violation, or infringement of 
+right to privacy, consumer data protection law, confidentiality or other legal 
+protection for personal information, as well as State Confidential Information 
+with minimum limits as follows:  
+i. $1,000,000 each occurrence; and 
+ii. $2,000,000 general aggregate. 
+E. Professional Liability Insurance 
+Professional liability insurance covering any damages caused by an error, 
+omission or any negligent act with minimum limits as follows:  
+i. $1,000,000 each occurrence; and  
+ii. $1,000,000 general aggregate. 
+F. Crime Insurance 
+Crime insurance including employee dishonesty coverage with minimum limits as 
+follows:  
+i. $1,000,000 each occurrence; and  
+ii. $1,000,000 general aggregate. 
+G. Additional Insured 
+The State shall be named as additional insured on all commercial general liability 
+policies (leases and construction contracts require additional insured coverage 
+for completed operations) required of Grantee and Subcontractors. 
+H. Primacy of Coverage 
+Coverage required of Grantee and each Subcontractor shall be primary and 
+noncontributory over any insurance or self-insurance program carried by Grantee 
+or the State. 
+I. Cancellation 
+All commercial insurance policies shall include provisions preventing cancellation 
+or non-renewal, except for cancellation based on non-payment of premiums, 
+without at least 30 days prior notice to Grantee and Grantee shall forward such 
+notice to the State in accordance with §14 within seven days of Grantee’s receipt 
+of such notice. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 23 of 39 Version: 11/2024 
+ 
+J. Subrogation Waiver 
+All commercial insurance policies secured or maintained by Grantee or its 
+Subcontractors in relation to this Agreement shall include clauses stating that 
+each carrier shall waive all rights of recovery under subrogation or otherwise 
+against Grantee or the State, its agencies, institutions, organizations, officers, 
+agents, employees, and volunteers. 
+K. Public Entities 
+If Grantee is a “public entity” within the meaning of the Colorado Governmental 
+Immunity Act, §§24-10-101, et seq., C.R.S. (the “GIA”), Grantee shall maintain, 
+in lieu of the liability insurance requirements stated above, at all times during 
+the term of this Agreement such liability insurance, by commercial policy or self-
+insurance, as is necessary to meet its liabilities under the GIA. If a Subcontractor 
+is a public entity within the meaning of the GIA, Grantee shall ensure that the 
+Subcontractor maintain at all times during the terms of this Agreement, in lieu of 
+the liability insurance requirements stated above, such liability insurance, by 
+commercial policy or self-insurance, as is necessary to meet the Subcontractor’s 
+obligations under the GIA. 
+L. Certificates 
+For each commercial insurance plan provided by Grantee under this Agreement, 
+Grantee shall provide to the State certificates evidencing Grantee’s insurance 
+coverage required in this Agreement within seven Business Days following the 
+Effective Date. Grantee shall provide to the State certificates evidencing 
+Subcontractor insurance coverage required under this Agreement within seven 
+Business Days following the Effective Date, except that, if Grantee’s subcontract 
+is not in effect as of the Effective Date, Grantee shall provide to the State 
+certificates showing Subcontractor insurance coverage required under this 
+Agreement within seven Business Days following Grantee’s execution of the 
+subcontract. No later than 15 days before the expiration date of Grantee’s or any 
+Subcontractor’s coverage, Grantee shall deliver to the State certificates of 
+insurance evidencing renewals of coverage. At any other time during the term of 
+this Agreement, upon request by the State, Grantee shall, within seven Business 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 24 of 39 Version: 11/2024 
+ 
+Days following the request by the State, supply to the State evidence satisfactory 
+to the State of compliance with the provisions of this section. 
+11. Breach of Agreement 
+In the event of a Breach of Agreement, the aggrieved Party shall give written notice of 
+Breach of Agreement to the other Party. If the notified Party does not cure the 
+breach, at its sole expense, within 30 days after the delivery of written notice, the 
+Party may exercise any of the remedies as described in §12 for that Party. 
+Notwithstanding any provision of this Agreement to the contrary, the State, in its 
+discretion, need not provide notice or a cure period and may immediately terminate 
+this Agreement in whole or in part or institute any other remedy in this Agreement in 
+order to protect the public interest of the State; or if Grantee is debarred or 
+suspended under §24-109-105, C.R.S., the State, in its discretion, need not provide 
+notice or cure period and may terminate this Agreement in whole or in part or 
+institute any other remedy in this Agreement as of the date that the debarment or 
+suspension takes effect. 
+12. Remedies  
+A. State’s Remedies 
+If Grantee is in breach under any provision of this Agreement and fails to cure 
+such breach, the State, following the notice and cure period set forth in §11, 
+shall have all of the remedies listed in this section in addition to all other 
+remedies set forth in this Agreement or at law. The State may exercise any or all 
+of the remedies available to it, in its discretion, concurrently or consecutively. 
+i. Termination for Breach 
+In the event of Grantee’s uncured breach, the State may terminate this 
+entire Agreement or any part of this Agreement.  Additionally, if Grantee 
+fails to comply with any terms of the Federal Award, then the State may, in 
+its discretion or at the direction of a Federal Awarding Agency, terminate 
+this entire Agreement or any part of this Agreement. Grantee shall continue 
+performance of this Agreement to the extent not terminated, if any. 
+a. Obligations and Rights 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 25 of 39 Version: 11/2024 
+ 
+To the extent specified in any termination notice, Grantee shall not 
+incur further obligations or render further performance past the 
+effective date of such notice, and shall terminate outstanding orders 
+and subcontracts with third parties. However, Grantee shall complete 
+and deliver to the State all Work not cancelled by the termination 
+notice, and may incur obligations as necessary to do so within this 
+Agreement’s terms. At the request of the State, Grantee shall assign to 
+the State all of Grantee’s rights, title, and interest in and to such 
+terminated orders or subcontracts. Upon termination, Grantee shall 
+take timely, reasonable and necessary action to protect and preserve 
+property in the possession of Grantee but in which the State has an 
+interest. At the State’s request, Grantee shall return materials owned 
+by the State in Grantee’s possession at the time of any termination. 
+Grantee shall deliver all completed Work Product and all Work Product 
+that was in the process of completion to the State at the State’s 
+request.  
+b. Payments 
+Upon termination for breach, the State shall reimburse Grantee only 
+for allowable costs incurred for Work performed through the effective 
+date of termination that have not previously been reimbursed, subject 
+to the Budget, Agreement Maximum Amount, and payment provisions 
+of this Agreement. 
+Grantee shall reconcile all Advance Payments received through the 
+effective date of termination in accordance with the Advance Payment 
+reconciliation requirements of this Agreement. Grantee shall return 
+any unexpended, unsupported, excess, or unallowable portion of an 
+Advance Payment in accordance with this Agreement. 
+The State may exercise any withholding, offset, recovery, or other 
+remedy available under this Agreement. If the State subsequently 
+determines that Grantee was not in breach or that Grantee’s action or 
+inaction was excusable, the termination shall be treated as a 
+termination in the public interest. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 26 of 39 Version: 11/2024 
+ 
+c. Damages and Withholding 
+Notwithstanding any other remedial action by the State, Grantee shall 
+remain liable to the State for any damages sustained by the State in 
+connection with any breach by Grantee, and the State may withhold 
+payment to Grantee for the purpose of mitigating the State’s damages 
+until such time as the exact amount of damages due to the State from 
+Grantee is determined. The State may withhold any amount that may 
+be due Grantee as the State deems necessary to protect the State 
+against loss including, without limitation, loss as a result of outstanding 
+liens and excess costs incurred by the State in procuring from third 
+parties replacement Work as cover. 
+ii. Remedies Not Involving Termination 
+The State, in its discretion, may exercise one or more of the following 
+additional remedies: 
+a. Suspend Performance 
+Suspend Grantee’s performance with respect to all or any portion of 
+the Work pending corrective action as specified by the State without 
+entitling Grantee to an adjustment in price or cost or an adjustment in 
+the performance schedule. Grantee shall promptly cease performing 
+Work and incurring costs in accordance with the State’s directive, and 
+the State shall not be liable for costs incurred by Grantee after the 
+suspension of performance. 
+b. Withhold Payment 
+Withhold payment to Grantee until Grantee corrects its Work. 
+c. Deny Payment 
+Deny payment for costs associated with Work that Grantee failed to 
+perform, cannot perform due to Grantee’s actions or inactions, or that 
+do not otherwise qualify for reimbursement under this Agreement, 
+provided that any denial of payment shall be limited to the costs 
+associated with the affected Work. 
+d. Removal 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 27 of 39 Version: 11/2024 
+ 
+Demand immediate removal of any of Grantee’s employees, agents, or 
+Subcontractors from the Work whom the State deems incompetent, 
+careless, insubordinate, unsuitable, or otherwise unacceptable or 
+whose continued relation to this Agreement is deemed by the State to 
+be contrary to the public interest or the State’s best interest. 
+e. Intellectual Property 
+If any Work infringes, or if the State in its sole discretion determines 
+that any Work is likely to infringe, a patent, copyright, trademark, 
+trade secret or other intellectual property right, Grantee shall, as 
+approved by the State (i) secure that right to use such Work for the 
+State and Grantee; (ii) replace the Work with noninfringing Work or 
+modify the Work so that it becomes noninfringing; or, (iii) remove any 
+infringing Work and refund the amount paid for such Work to the State. 
+f. Collection of Unallowable Costs (2CFR 200.410) 
+Payments made for costs determined to be unallowable by either the 
+awarding Federal agency, cognizant agency for indirect costs, or pass-
+through entity must be refunded with interest to the Federal 
+Government. Unless directed by Federal statute or regulation, 
+repayments must be made in accordance with the instructions provided 
+by the Federal agency or pass-through entity that made the allowability 
+determination. See §§ 200.300 through 200.309, and §200.346. 
+B. Grantee’s Remedies 
+If the State is in breach of any provision of this Agreement and does not cure 
+such breach, Grantee, following the notice and cure period in §11 and the 
+dispute resolution process in §13 shall have all remedies available at law and 
+equity.  
+13. Dispute Resolution 
+A. Initial Resolution 
+Except as herein specifically provided otherwise, disputes concerning the 
+performance of this Agreement which cannot be resolved by the designated 
+Agreement representatives shall be referred in writing to a senior departmental 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 28 of 39 Version: 11/2024 
+ 
+management staff member designated by the State and a senior manager 
+designated by Grantee for resolution. 
+B. Resolution of Controversies 
+If the initial resolution described in §13.A fails to resolve the dispute within ten 
+Business Days, Grantee shall submit any alleged breach of this Agreement by the 
+State to the Procurement Official of the State Agency named on the Cover Page 
+of this Agreement as described in §24-101-301(30), C.R.S. for resolution following 
+the same resolution of controversies process as described in §§24-106-109, and 
+24-109-101.1 through 24-109-505, C.R.S. (the “Resolution Statutes”), except that 
+if Grantee wishes to challenge any decision rendered by the Procurement 
+Official, Grantee’s challenge shall be an appeal to the executive director of the 
+Department of Personnel and Administration, or their delegate, in the same 
+manner as described in the Resolution Statutes before Grantee pursues any 
+further action. Except as otherwise stated in this Section, all requirements of the 
+Resolution Statutes shall apply including, without limitation, time limitations 
+regardless of whether the Colorado Procurement Code applies to this Agreement.  
+14. Notices and Representatives 
+Each individual identified as a Principal Representative on the Cover Page for this 
+Agreement shall be the principal representative of the designating Party. All notices 
+required or permitted to be given under this Agreement shall be in writing, and shall 
+be delivered (A) by hand with receipt required, (B) by certified or registered mail to 
+such Party’s principal representative at the address set forth below or (C) as an email 
+with read receipt requested to the principal representative at the email address, if 
+any, set forth on the Cover Page for this Agreement. If a Party delivers a notice to 
+another through email and the email is undeliverable, then, unless the Party has been 
+provided with an alternate email contact, the Party delivering the notice shall deliver 
+the notice by hand with receipt required or by certified or registered mail to such 
+Party’s principal representative at the address set forth on the Cover Page for this 
+Agreement. Either Party may change its principal representative or principal 
+representative contact information, or may designate specific other individuals to 
+receive certain types of notices in addition to or in lieu of a principal representative, 
+by notice submitted in accordance with this section without a formal amendment to 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 29 of 39 Version: 11/2024 
+ 
+this Agreement. Unless otherwise provided in this Agreement, notices shall be 
+effective upon delivery of the written notice. 
+15. Rights in Work Product and Other Information 
+A. Work Product 
+i. Copyrights 
+To the extent that the Work Product (or any portion of the Work Product) 
+would not be considered works made for hire under applicable law, Grantee 
+hereby assigns to the State, the entire right, title, and interest in and to 
+copyrights in all Work Product and all works based upon, derived from, or 
+incorporating the Work Product; all copyright applications, registrations, 
+extensions, or renewals relating to all Work Product and all works based 
+upon, derived from, or incorporating the Work Product; and all moral rights 
+or similar rights with respect to the Work Product throughout the world. To 
+the extent that Grantee cannot make any of the assignments required by 
+this section, Grantee hereby grants to the State a perpetual, irrevocable, 
+royalty-free license to use, modify, copy, publish, display, perform, 
+transfer, distribute, sell, and create derivative works of the Work Product 
+and all works based upon, derived from, or incorporating the Work Product 
+by all means and methods and in any format now known or invented in the 
+future. The State may assign and license its rights under this license. 
+ii. Patents 
+In addition, Grantee grants to the State (and to recipients of Work Product 
+distributed by or on behalf of the State) a perpetual, worldwide, no-charge, 
+royalty-free, irrevocable patent license to make, have made, use, 
+distribute, sell, offer for sale, import, transfer, and otherwise utilize, 
+operate, modify and propagate the contents of the Work Product. Such 
+license applies only to those patent claims licensable by Grantee that are 
+necessarily infringed by the Work Product alone, or by the combination of 
+the Work Product with anything else used by the State.  
+iii. Assignments and Assistance 
+Whether or not Grantee is under contract with the State at the time, 
+Grantee shall execute applications, assignments, and other documents, and 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 30 of 39 Version: 11/2024 
+ 
+shall render all other reasonable assistance requested by the State, to 
+enable the State to secure patents, copyrights, licenses and other 
+intellectual property rights related to the Work Product. The Parties intend 
+the Work Product to be works made for hire. Grantee assigns to the State 
+and its successors and assigns, the entire right, title, and interest in and to 
+all causes of action, either in law or in equity, for past, present, or future 
+infringement of intellectual property rights related to the Work Product and 
+all works based on, derived from, or incorporating the Work Product. 
+B. Exclusive Property of the State 
+Except to the extent specifically provided elsewhere in this Agreement, any pre-
+existing State Records, State software, research, reports, studies, photographs, 
+negatives or other documents, drawings, models, materials, data and information 
+shall be the exclusive property of the State (collectively, “State Materials”). 
+Grantee shall not use, willingly allow, cause or permit Work Product or State 
+Materials to be used for any purpose other than the performance of Grantee’s 
+obligations in this Agreement without the prior written consent of the State.  
+Upon termination of this Agreement for any reason, Grantee shall provide all 
+Work Product and State Materials to the State in a form and manner as directed 
+by the State. 
+C. Exclusive Property of Grantee 
+Grantee retains the exclusive rights, title, and ownership to any and all pre-
+existing materials owned or licensed to Grantee including, but not limited to, all 
+pre-existing software, licensed products, associated source code, machine code, 
+text images, audio and/or video, and third-party materials, delivered by Grantee 
+under this Agreement, whether incorporated in a Deliverable or necessary to use 
+a Deliverable (collectively, “Grantee Property”). Grantee Property shall be 
+licensed to the State as set forth in this Agreement or a State approved license 
+agreement: (i) entered into as exhibits to this Agreement, (ii) obtained by the 
+State from the applicable third-party vendor, or (iii) in the case of open source 
+software, the license terms set forth in the applicable open source license 
+agreement. 
+16. General Provisions 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 31 of 39 Version: 11/2024 
+ 
+A. Assignment 
+Grantee’s rights and obligations under this Agreement are personal and may not 
+be transferred or assigned without the prior, written consent of the State. Any 
+attempt at assignment or transfer without such consent shall be void. Any 
+assignment or transfer of Grantee’s rights and obligations approved by the State 
+shall be subject to the provisions of this Agreement. 
+B. Subcontracts 
+Grantee shall not enter into any subgrant or subcontract in connection with its 
+obligations under this Agreement without the prior, written approval of the 
+State. Grantee shall submit to the State a copy of each such subgrant or 
+subcontract upon request by the State. All subgrants and subcontracts entered 
+into by Grantee in connection with this Agreement shall comply with all 
+applicable federal and state laws and regulations, shall provide that they are 
+governed by the laws of the State of Colorado, and shall be subject to all 
+provisions of this Agreement. If the entity with whom Grantee enters into a 
+subcontract or subgrant would also be considered a Subrecipient, then the 
+subcontract or subgrant entered into by Grantee shall also contain provisions 
+permitting both Grantee and the State to perform all monitoring of that 
+Subcontractor in accordance with the Uniform Guidance.  
+C. Binding Effect 
+All provisions of this Agreement, including the rights, obligations, benefits, and 
+burdens, shall extend to and be binding upon the Parties and their respective 
+permitted successors and assigns. 
+D. Authority 
+Each Party represents and warrants to the other that the execution and delivery 
+of this Agreement and the performance of such Party’s obligations have been 
+duly authorized. 
+E. Captions and References 
+The captions and headings in this Agreement are for convenience of reference 
+only, and shall not be used to interpret, define, or limit its provisions. All 
+references in this Agreement to sections (whether spelled out or using the § 
+symbol), subsections, exhibits or other attachments, are references to sections, 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 32 of 39 Version: 11/2024 
+ 
+subsections, exhibits or other attachments contained herein or incorporated as a 
+part hereof, unless otherwise noted. 
+F. Counterparts 
+This Agreement may be executed in multiple, identical, original counterparts, 
+each of which shall be deemed to be an original, but all of which, taken 
+together, shall constitute one and the same agreement. 
+G. Entire Understanding 
+This Agreement represents the complete integration of all understandings 
+between the Parties related to the Work, and all prior representations and 
+understandings related to the Work, oral or written, are merged into this 
+Agreement. Prior or contemporaneous additions, deletions, or other changes to 
+this Agreement shall not have any force or effect whatsoever, unless embodied 
+herein. 
+H. Digital Signatures 
+If any signatory signs this agreement using a digital signature in accordance with 
+the Colorado State Controller Contract, Grant and Purchase Order Policies 
+regarding the use of digital signatures issued under the State Fiscal Rules, then 
+any agreement or consent to use digital signatures within the electronic system 
+through which that signatory signed shall be incorporated into this Agreement by 
+reference.  
+I. Modification 
+Except as otherwise provided in this Agreement, any modification to this 
+Agreement shall only be effective if agreed to in a formal amendment to this 
+Agreement, properly executed and approved in accordance with applicable 
+Colorado State law and State Fiscal Rules. Modifications permitted under this 
+Agreement, other than Agreement amendments, shall conform to the policies 
+issued by the Colorado State Controller.  
+J. Statutes, Regulations, Fiscal Rules, and Other Authority  
+Any reference in this Agreement to a statute, regulation, State Fiscal Rule, fiscal 
+policy or other authority shall be interpreted to refer to such authority then 
+current, as may have been changed or amended since the Effective Date of this 
+Agreement.  
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 33 of 39 Version: 11/2024 
+ 
+K. External Terms and Conditions 
+Notwithstanding anything to the contrary herein, the State shall not be subject 
+to any provision included in any terms, conditions, or agreements appearing on 
+Grantee’s or a Subcontractor’s website or any provision incorporated into any 
+click-through or online agreements related to the Work unless that provision is 
+specifically referenced in this Agreement. 
+L. Severability 
+The invalidity or unenforceability of any provision of this Agreement shall not 
+affect the validity or enforceability of any other provision of this Agreement, 
+which shall remain in full force and effect, provided that the Parties can 
+continue to perform their obligations under this Agreement in accordance with 
+the intent of this Agreement.  
+M. Survival of Certain Agreement Terms 
+Any provision of this Agreement that imposes an obligation on a Party after 
+termination or expiration of this Agreement shall survive the termination or 
+expiration of this Agreement and shall be enforceable by the other Party. 
+N. Taxes 
+The State is exempt from federal excise taxes under I.R.C. Chapter 32 (26 U.S.C., 
+Subtitle D, Ch. 32) (Federal Excise Tax Exemption Certificate of Registry No. 84-
+730123K) and from State and local government sales and use taxes under §§39-
+26-704(1), et seq., C.R.S. (Colorado Sales Tax Exemption Identification Number 
+98-02565). The State shall not be liable for the payment of any excise, sales, or 
+use taxes, regardless of whether any political subdivision of the state imposes 
+such taxes on Grantee. Grantee shall be solely responsible for any exemptions 
+from the collection of excise, sales or use taxes that Grantee may wish to have in 
+place in connection with this Agreement.  
+O. Third Party Beneficiaries 
+This Agreement does not and is not intended to confer any rights or remedies 
+upon any person or entity other than the Parties and their permitted successors 
+and assigns. Enforcement of this Agreement and all rights and obligations under 
+this Agreement are reserved solely to the Parties and their permitted successors 
+and assigns. Any services or benefits that a third party receives as a result of this 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 34 of 39 Version: 11/2024 
+ 
+Agreement are incidental to this Agreement and do not create any rights or 
+remedies for the third party. 
+P. Waiver 
+A Party’s failure or delay in exercising any right, power, or privilege under this 
+Agreement, whether explicit or by lack of enforcement, shall not operate as a 
+waiver, nor shall any single or partial exercise of any right, power, or privilege 
+preclude any other or further exercise of such right, power, or privilege. 
+Q. CORA Disclosure 
+To the extent not prohibited by federal law, this Agreement and the performance 
+measures and standards required under §24-106-107, C.R.S., if any, are subject 
+to public release through the CORA. 
+R. Standard and Manner of Performance 
+Grantee shall perform its obligations under this Agreement in accordance with 
+the highest standards of care, skill and diligence in Grantee’s industry, trade, or 
+profession.  
+S. Licenses, Permits, and Other Authorizations 
+Grantee shall secure, prior to the Effective Date, and maintain at all times during 
+the term of this Agreement, at its sole expense, all licenses, certifications, 
+permits, and other authorizations required to perform its obligations under this 
+Agreement, and shall ensure that all employees, agents and Subcontractors 
+secure and maintain at all times during the term of their employment, agency or 
+Subcontractor, all license, certifications, permits and other authorizations 
+required to perform their obligations in relation to this Agreement.  
+T. Indemnification 
+i. General Indemnification 
+Grantee shall indemnify, save, and hold harmless the State, its employees, 
+agents and assignees (the “Indemnified Parties”), against any and all costs, 
+expenses, claims, damages, liabilities, court awards and other amounts 
+(including attorneys’ fees and related costs) incurred by any of the 
+Indemnified Parties in relation to any act or omission by Grantee, or its 
+employees, agents, Subcontractors, or assignees in connection with this 
+Agreement. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 35 of 39 Version: 11/2024 
+ 
+ii. Confidential Information Indemnification 
+Disclosure or use of State Confidential Information by Grantee in violation of 
+§8 may be cause for legal action by third parties against Grantee, the State, 
+or their respective agents. Grantee shall indemnify, save, and hold harmless 
+the Indemnified Parties, against any and all claims, damages, liabilities, 
+losses, costs, expenses (including attorneys’ fees and costs) incurred by the 
+State in relation to any act or omission by Grantee, or its employees, 
+agents, assigns, or Subcontractors in violation of §8. 
+iii. Intellectual Property Indemnification 
+Grantee shall indemnify, save, and hold harmless the Indemnified Parties, 
+against any and all costs, expenses, claims, damages, liabilities, and other 
+amounts (including attorneys’ fees and costs) incurred by the Indemnified 
+Parties in relation to any claim that any Work infringes a patent, copyright, 
+trademark, trade secret, or any other intellectual property right.  
+iv. Accessibility Indemnification 
+Grantee shall indemnify, save, hold harmless, and assume liability on behalf 
+of the State, its officers, employees, agents and assignees (collectively the 
+“Indemnified Parties”), for any and all costs, expenses, claims, damages, 
+liabilities, court awards, attorney fees and related costs, and other amounts 
+incurred by any of the Indemnified Parties in relation to Grantee’s 
+noncompliance with §§24-85-101, et seq., C.R.S., or the  Accessibility 
+Standards for Individuals with a Disability as established by the Office of 
+Information Technology pursuant to Section §24-85-103, C.R.S. State 
+employees are considered third parties for the purposes of this section. 
+v. Compliance with State and Federal Law, Regulations, and Executive Orders 
+Grantee shall comply with all State and Federal law, regulations, executive 
+orders, State and Federal Awarding Agency policies, procedures, directives, 
+and reporting requirements at all times during the term of this Grant. 
+U. Accessibility 
+i. Grantee shall comply with the Accessibility Standards for Individuals with a 
+Disability, as adopted by the Office of Information Technology pursuant to 
+§24-85-103 C.R.S. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 36 of 39 Version: 11/2024 
+ 
+ii. The State may require a qualified third party selected by the State to 
+determine and test Grantee’s compliance with the Accessibility Standards 
+for Individuals with a Disability adopted by the Office of Information 
+Technology pursuant to §24-85-103, C.R.S. The State may ask the Grantee to 
+review the selection of the third party. Grantee shall be responsible for all 
+costs associated with the third-party vendor’s assessment. If Grantee is not 
+in compliance as determined by the third-party vendor, at the State’s 
+request and at the State’s direction, Grantee shall promptly take all 
+necessary actions to come into compliance using a State-approved vendor, 
+at no additional cost to the State. 
+17. Colorado Special Provisions (Colorado Fiscal Rule 3-3) 
+These Special Provisions apply to all agreements except where noted in italics. 
+A. Statutory Approvals. §24-30-202(1), C.R.S. 
+This Agreement shall not be valid until it has been approved by the Colorado 
+State Controller or designee.  If this Agreement is for a Major Information 
+Technology Project, as defined in §24-37.5-102(2.6), C.R.S., then this Agreement 
+shall not be valid until it has been approved by the State’s Chief Information 
+Officer or designee. 
+B. Fund Availability. §24-30-202(5.5), C.R.S. 
+Financial obligations of the State payable after the current Budget Period are 
+contingent upon funds for that purpose being appropriated, budgeted, and 
+otherwise made available. 
+C. Governmental Immunity. 
+Liability for claims for injuries to persons or property arising from the negligence 
+of the State, its departments, boards, commissions committees, bureaus, offices, 
+employees and officials shall be controlled and limited by the provisions of the 
+Colorado Governmental Immunity Act, §24-10-101, et seq., C.R.S.; the Federal 
+Tort Claims Act, 28 U.S.C. Pt. VI, Ch. 171 and 28 U.S.C. 1346(b), and the State’s 
+risk management statutes, §§24-30-1501, et seq. C.R.S.  No term or condition of 
+this Agreement shall be construed or interpreted as a waiver, express or implied, 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 37 of 39 Version: 11/2024 
+ 
+of any of the immunities, rights, benefits, protections, or other provisions, 
+contained in these statutes. 
+D. Independent Contractor. 
+Grantee shall perform its duties hereunder as an independent contractor and not 
+as an employee. Neither Grantee nor any agent or employee of Grantee shall be 
+deemed to be an agent or employee of the State. Grantee shall not have 
+authorization, express or implied, to bind the State to any agreement, liability or 
+understanding, except as expressly set forth herein.  Grantee and its employees 
+and agents are not entitled to unemployment insurance or workers compensation 
+benefits through the State and the State shall not pay for or otherwise provide 
+such coverage for Grantee or any of its agents or employees. Grantee shall pay 
+when due all applicable employment taxes and income taxes and local head 
+taxes incurred pursuant to this Agreement. Grantee shall (i) provide and keep in 
+force workers’ compensation and unemployment compensation insurance in the 
+amounts required by law, (ii) provide proof thereof when requested by the State, 
+and (iii) be solely responsible for its acts and those of its employees and agents. 
+E. Compliance with Law. 
+Grantee shall comply with all applicable federal and State laws, rules, and 
+regulations in effect or hereafter established, including, without limitation, laws 
+applicable to discrimination and unfair employment practices. 
+F. Choice of Law, Jurisdiction, and Venue. 
+Colorado law, and rules and regulations issued pursuant thereto, shall be applied 
+in the interpretation, execution, and enforcement of this Agreement. Any 
+provision included or incorporated herein by reference which conflicts with said 
+laws, rules, and regulations shall be null and void. All suits or actions related to 
+this Agreement shall be filed and proceedings held in the State of Colorado and 
+exclusive venue shall be in the City and County of Denver. 
+G. Prohibited Terms. 
+Any term included in this Agreement that requires the State to indemnify or hold 
+Grantee harmless; requires the State to agree to binding arbitration; limits 
+Grantee’s liability for damages resulting from death, bodily injury, or damage to 
+tangible property; or that conflicts with this provision in any way shall be void ab 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 38 of 39 Version: 11/2024 
+ 
+initio.  Nothing in this Agreement shall be construed as a waiver of any provision 
+of §24-106-109, C.R.S.   
+H. Software Piracy Provisions.  
+State or other public funds payable under this Agreement shall not be used for 
+the acquisition, operation, or maintenance of computer software in violation of 
+federal copyright laws or applicable licensing restrictions. Grantee hereby 
+certifies and warrants that, during the term of this Agreement and any 
+extensions, Grantee has and shall maintain in place appropriate systems and 
+controls to prevent such improper use of public funds. If the State determines 
+that Grantee is in violation of this provision, the State may exercise any remedy 
+available at law or in equity or under this Agreement, including, without 
+limitation, immediate termination of this Agreement and any remedy consistent 
+with federal copyright laws or applicable licensing restrictions. 
+I. Employee Financial Interest/Conflict of Interest §§24-18-201 and 24-50-507, 
+C.R.S. 
+The signatories aver that to their knowledge, no employee of the State has any 
+personal or beneficial interest whatsoever in the service or property described in 
+this Agreement. Grantee has no interest and shall not acquire any interest, direct 
+or indirect, that would conflict in any manner or degree with the performance of 
+Grantee’s services and Grantee shall not employ any person having such known 
+interests. 
+J. Vendor Offset and Erroneous Payments §§24-30-202(1) and 24-30-202.4, C.R.S.  
+[Not applicable to intergovernmental agreements] Subject to §24-30-202.4(3.5), 
+C.R.S., the State Controller may withhold payment under the State’s vendor 
+offset intercept system for debts owed to State agencies for: (i) unpaid child 
+support debts or child support arrearages; (ii) unpaid balances of tax, accrued 
+interest, or other charges specified in §§39-21-101, et seq., C.R.S.; (iii) unpaid 
+loans due to the Student Loan Division of the Department of Higher Education; 
+(iv) amounts required to be paid to the Unemployment Compensation Fund; and 
+(v) other unpaid debts owing to the State as a result of final agency 
+determination or judicial action.  The State may also recover, at the State’s 
+discretion, payments made to Grantee in error for any reason, including, but not 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+Grant Agreement #: G27-211330 Page 39 of 39 Version: 11/2024 
+ 
+limited to, overpayments or improper payments, and unexpended or excess funds 
+received by Grantee by deduction from subsequent payments under this 
+Agreement, deduction from any payment due under any other contracts, grants 
+or agreements between the State and Grantee, or by any other appropriate 
+method for collecting debts owed to the State. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 1 of 11 Grant Agreement #: G27-211330 
+Exhibit A, Statement of Work 
+ 
+1. PROJECT OVERVIEW  
+1.1. Department will implement the Rural Health Transformation Program 
+(“RHTP”) through nine Programs designed to strengthen Colorado’s rural health 
+care delivery system by improving health care access, quality, and outcomes in 
+rural and frontier communities. Department will provide Grant Funds to Grantee to 
+perform the Work for one or more of the RHTP Programs. 
+1.2. Department will award Grant Funds under this Agreement for one or more of 
+the following RHTP Programs, as identified and funded in Exhibit C, Budget: 
+1.2.1. 1.5 Whole Person Health and Support for Alternative Care Models Program. 
+1.2.2. 3.1 Advisory Board & Outreach for Hospitals Program. 
+1.2.3. 4.2 EMS Transport Coordination & Coverage Program. 
+1.2.4. 5.2 Mini-Grants to Hospitals Program 
+1.2.5. 6.1 Strengthen and Expand the Rural Health Workforce Program. 
+1.2.6. 9.3 Establish Incentive Payments Program. 
+1.2.7. 10.1 Support for Telehealth Participation Program. 
+1.2.8. 10.3 Expand Mobile Public Health Program Clinics in Rural Regions 
+1.2.9. 10.4 Implement Policies/Practices that Support Chronic Disease Risk Factors 
+Program. 
+2. TERM OF PROJECT  
+2.1. Grantee may begin Work on or after the Effective Date of the Grant 
+Agreement. Grantee shall complete all Work no later than September 30, 2027.  
+3. GENERAL REQUIREMENTS  
+3.1. Grantee shall perform all Work in accordance with all applicable federal and 
+State statutes, regulations, rules, and requirements, and the requirements 
+described in this Statement of Work and the Grant Agreement. 
+3.2. Grantee shall notify the Department of any issue that may affect Grantee’s 
+timely or satisfactory performance of the Work. Grantee shall respond to the 
+Department requests for information regarding the Work and shall implement the 
+Department direction related to Grantee’s compliance with the requirements of 
+this Agreement. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 2 of 11 Grant Agreement #: G27-211330 
+3.3. Grantee shall coordinate and prioritize all Work to ensure that all Deliverables 
+and deadlines are met. 
+3.4. Grantee shall employ an internal quality control process to ensure that all 
+Deliverables are complete, accurate, easy to understand, and of high quality. 
+Grantee shall provide Deliverables that, at a minimum, are responsive to the 
+specific requirements, organized into a logical order, contain no spelling or 
+grammatical errors, are formatted uniformly, and contain accurate information and 
+correct calculations. Grantee shall retain all Work papers generated for reference 
+through the duration of the project and project acceptance. Grantee shall 
+participate in the review and revision process until the Department provides written 
+acceptance of the applicable Deliverable. 
+3.5. Grantee shall provide copies of any supporting documentation to the 
+Department upon request of the Department and without charge.   
+3.6. Department Inquiries 
+3.6.1. “Urgent Inquiry” means an inquiry identified by Department as urgent 
+because the inquiry relates to one or more of the following: 
+3.6.1.1. An actual or potential interruption of services. 
+3.6.1.2. An actual or potential impact to Member health, safety, or access to 
+services. 
+3.6.1.3. A deadline imposed by a federal or State agency, court, auditor, or 
+other governmental entity. 
+3.6.1.4. An issue that may materially affect Grantee’s performance of the Grant 
+Agreement. 
+3.6.1.5. Another time-sensitive matter for which Department identifies a 
+response deadline. 
+3.6.2. Grantee shall acknowledge an Urgent Inquiry within one Business Day 
+following receipt and shall provide a substantive response within two Business 
+Days following receipt. 
+3.6.3. Grantee shall provide a substantive response to all other Department 
+telephone calls, voicemails, and electronic mail inquiries within five Business 
+Days following receipt. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 3 of 11 Grant Agreement #: G27-211330 
+3.6.4. If Grantee cannot provide a complete response within the applicable 
+timeframe, Grantee shall provide the available information, identify any 
+outstanding information or action, and identify the date by which Grantee shall 
+provide the complete response. 
+3.7. Grantee shall enable all Grantee staff to exchange documents and electronic 
+files with the Department staff in formats compatible with the Department’s 
+systems.  The Department currently uses Microsoft Office 2013 and/or Microsoft 
+Office 365 for PC. 
+4. PROJECT REQUIREMENTS  
+4.1. Kickoff Meeting 
+4.1.1. Grantee shall participate in a Kickoff Meeting with the Department following 
+the Effective Date of this Agreement. 
+4.1.2. The purpose of the Kickoff Meeting is to review project requirements, 
+Deliverables, timelines, reporting expectations, and Department-provided 
+templates. 
+4.1.3. Grantee shall ensure attendance by key project staff, including individuals 
+responsible for project management, financial oversight, and reporting. 
+4.1.4. The Department may provide guidance, clarifications, and required next steps 
+during the Kickoff Meeting, which shall inform development of the Project Work 
+Plan. 
+4.1.4.1. DELIVERABLE: Kickoff Meeting Participation 
+4.1.4.2. DUE: Within 30 Calendar Days after Effective Date, or as otherwise 
+determined by the Department 
+4.2. Project Work Plan 
+4.2.1. Grantee shall create a Project Work Plan using a template provided by the 
+Department. 
+4.2.2. The Project Work Plan shall include, at a minimum: 
+4.2.2.1. Project objectives. 
+4.2.2.2. Staffing Plan. 
+4.2.2.3. Timeline and relevant milestones. 
+4.2.2.4. Expected outcomes. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 4 of 11 Grant Agreement #: G27-211330 
+4.2.3. The Project Work Plan, Budget, and funded activities shall be consistent with 
+the portion of the Work approved and funded by Department based on Grantee’s 
+application.   
+4.2.4. Grantee shall perform the Work in accordance with the Department-approved 
+Project Work Plan. 
+4.2.5. The Department may request revisions or adjustments to the Project Work 
+Plan by electronic mail before providing written approval. 
+4.2.6. Grantee may submit an Advance Payment request form for approval by 
+Department. Department shall not reimburse an Advance Payment request until 
+Department approves the applicable form. 
+4.2.6.1. DELIVERABLE: Project Work Plan 
+4.2.6.2. DUE: No later than 30 Calendar Days after the Effective Date, unless 
+Department approves a different due date in writing 
+4.3. Quarterly Status Reports 
+4.3.1. Grantee shall submit a Quarterly Status Report to the Department for each 
+quarter during the period of performance using a form and manner specified by 
+the Department. 
+4.3.2. Each Quarterly Status Report shall describe Grantee’s progress toward 
+completion of the Work and Grantee’s actual and projected use of Grant Funds in 
+relation to the most recently approved Project Work Plan and Budget. 
+4.3.3. Each Quarterly Status Report shall include, at a minimum: 
+4.3.3.1. The status of each applicable project objective, activity, milestone, 
+and Deliverable identified in the most recently approved Project Work Plan. 
+4.3.3.2. Work completed during the applicable quarter. 
+4.3.3.3. Work planned for the next quarter. 
+4.3.3.4. The status of renovations, construction, or other facility changes, if 
+applicable. 
+4.3.3.5. The status of equipment purchases, including Capital Equipment, if 
+applicable. 
+4.3.3.6. Staffing updates, including vacancies or staffing changes that affect 
+Grantee’s ability to complete the Work. 
+4.3.3.7. Actual expenditures through the end of the applicable quarter. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 5 of 11 Grant Agreement #: G27-211330 
+4.3.3.8. Actual expenditures by Budget category compared to the amounts 
+identified in Exhibit C. 
+4.3.3.9. The amount of each Advance Payment received during the applicable 
+quarter, if applicable. 
+4.3.3.10. The cumulative amount of Advance Payments received, expended, and 
+remaining unexpended as of the end of the applicable quarter, if applicable. 
+4.3.3.11. Projected expenditures by Budget category through the Fund 
+Expenditure End Date. 
+4.3.3.12. Identification of any issue, delay, barrier, or other circumstance that 
+has affected or may affect Grantee’s ability to complete the Work in 
+accordance with the Project Work Plan, or expend Grant Funds for approved 
+purposes by the Fund Expenditure End Date. 
+4.3.3.13. Corrective actions Grantee has taken or proposes to take to address 
+each identified issue, delay, barrier, or other circumstance. 
+4.3.3.14. The amount of Grant Funds, if any, that Grantee projects will remain 
+unexpended as of the Fund Expenditure End Date. 
+4.3.3.15. Any proposed change to the Project Work Plan or Budget necessary to 
+support timely completion of the Work. 
+4.3.3.16. Any additional information requested by the Department to evaluate 
+Grantee’s performance, expenditures, projected expenditures, or compliance 
+with this Agreement. 
+4.3.4. Grantee shall ensure that financial information reported in each Quarterly 
+Status Report reconciles to Grantee’s accounting records, reimbursement 
+requests, Advance Payment reconciliations, and other expenditure information 
+submitted under this Agreement. 
+4.3.5. The Department may request supporting documentation, clarification, or 
+revisions to a Quarterly Status Report. Grantee shall provide the requested 
+documentation, clarification, or revisions within five Business Days following the 
+Department’s request unless the Department specifies a different deadline in the 
+request. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 6 of 11 Grant Agreement #: G27-211330 
+4.3.6. The Department may use the Quarterly Status Report to evaluate Grantee’s 
+progress toward completion of the Work, use of Grant Funds, projected 
+expenditures, compliance with the Project Work Plan and Budget, and need for 
+corrective action or adjustment of Grant Funds in accordance with this 
+Agreement. 
+4.3.7. Grantee shall participate in a quarterly meeting with the Department, if 
+requested by the Department, to review the Quarterly Status Report, project 
+performance, expenditures, projected expenditures, identified risks, and 
+corrective actions. 
+4.3.7.1. DELIVERABLE: Quarterly Status Report 
+4.3.7.2. DUE: By the 15th Calendar Day of the month following the end of each 
+quarter 
+4.4. Capital Equipment 
+4.4.1. For purposes of this Agreement, “Capital Equipment” means equipment with a 
+purchase price of $10,000.00 or more per item and a useful life of more than one 
+year. 
+4.4.2. Capital Equipment costs shall count toward the total amount of Grant Funds 
+awarded to Grantee and shall not be included in the calculation of indirect costs. 
+4.4.3. Grantee shall not use Grant Funds allocated for indirect costs to purchase 
+Capital Equipment. 
+4.4.4. Grantee shall obtain written approval from the Department before incurring a 
+cost that will increase the value or useful life of an existing asset. The cost shall 
+not be allowable under this Agreement unless the Department provides written 
+approval before Grantee incurs the cost. 
+4.4.5. Grantee shall maintain records for each item of Capital Equipment purchased 
+or acquired with Grant Funds that include, at a minimum: 
+4.4.5.1. Equipment description. 
+4.4.5.2. Serial number or other unique identifying number, if applicable. 
+4.4.5.3. Grant funding source. 
+4.4.5.4. Acquisition date. 
+4.4.5.5. Acquisition cost. 
+4.4.5.6. Current location. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 7 of 11 Grant Agreement #: G27-211330 
+4.4.5.7. Intended and actual use. 
+4.4.5.8. Current condition. 
+4.4.6. Grantee shall conduct a physical inventory of all Capital Equipment at least 
+once every two years and shall reconcile the physical inventory to Grantee’s 
+Capital Equipment records. 
+4.4.7. Grantee shall document and resolve any discrepancies identified through the 
+physical inventory and reconciliation process. 
+4.4.8. Grantee shall comply with all applicable federal requirements governing the 
+use, management, control, replacement, transfer, sale, or other disposition of 
+equipment acquired with Grant Funds, including applicable requirements in 2 
+CFR Part 200. 
+4.4.9. Grantee shall obtain any approval required by applicable federal requirements 
+and this Agreement before selling, transferring, donating, abandoning, or 
+otherwise disposing of Capital Equipment. 
+4.4.10. Grantee shall report the sale, transfer, donation, abandonment, or 
+other disposition of Capital Equipment to the Department in the manner and 
+within the timeframe specified by the Department or applicable federal 
+requirements. 
+4.4.11. Grantee shall include Capital Equipment expenditures in the 
+expenditure information reported to the Department and shall identify each 
+Capital Equipment purchase separately in the applicable request for payment, 
+expenditure report, or other documentation required by the Department. 
+4.5. Close Out Report 
+4.5.1. Grantee shall submit a Close Out Report to the Department for review and 
+approval at the conclusion of the project period. 
+4.5.2. The Close Out Report shall include, at a minimum: 
+4.5.2.1. Summary of project activities and accomplishments.  
+4.5.2.2. Final status of project objectives and outcomes achieved.  
+4.5.2.3. Summary of expenditures and use of Grant Funds.  
+4.5.2.4. Description of any barriers encountered and lessons learned.  
+4.5.2.5. Sustainability plan or next steps, if applicable.  
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 8 of 11 Grant Agreement #: G27-211330 
+4.5.3. The Department may request revisions or additional information prior to 
+approval of the Close Out Report. 
+4.5.4. Grantee shall obtain the Department’s written approval of the Close Out 
+Report as part of the close-out requirements of this Agreement. 
+4.5.4.1. DELIVERABLE: Close Out Report 
+4.5.4.2. DUE: 45 Calendar Days after Fund Expenditure End Date 
+ 
+5. DELIVERABLES, TIMELINE AND COMPENSATION  
+5.1. Work Plan, Budget, and Deliverables 
+5.1.1. Grantee shall perform the Work in accordance with this Agreement, the most 
+recently approved Project Work Plan, and the Budget in Exhibit C. 
+5.1.2. Grantee shall complete each Deliverable by the applicable due date stated in 
+this Exhibit A or the most recently approved Project Work Plan. 
+5.1.3. Grantee shall not change the scope, activities, milestones, timeline, Project 
+Work Plan, Budget, or allocation of Grant Funds without prior written approval 
+from the Department. Any change shall comply with §5.2 and the modification 
+requirements of this Agreement, as applicable. 
+5.1.4. The Department approval of a change to the Project Work Plan shall not 
+increase the Agreement Maximum Amount or authorize Grantee to incur costs 
+that are not allowable under this Agreement. 
+5.2. Reallocation of Grant Funds 
+5.2.1. Grantee may request the Department’s approval to reallocate Grant Funds among 
+Deliverables identified in the most recently approved Project Work Plan and 
+Budget. 
+5.2.2. Grantee shall submit each reallocation request to the Department in writing 
+before Grantee incurs costs based on the proposed reallocation. 
+5.2.3. Grantee’s reallocation request shall identify: 
+5.2.3.1. The amount of Grant Funds to be reallocated. 
+5.2.3.2. The Deliverable from which Grantee proposes to reallocate Grant Funds. 
+5.2.3.3. The Deliverable to which Grantee proposes to reallocate Grant Funds. 
+5.2.3.4. The reason for the proposed reallocation. 
+5.2.3.5. Any resulting changes to the Project Work Plan or Budget. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 9 of 11 Grant Agreement #: G27-211330 
+5.2.4. The Department may approve a reallocation without a formal amendment to this 
+Agreement if: 
+5.2.4.1. The cumulative amount reallocated from a Deliverable does not exceed 10% 
+of the amount of Grant Funds allocated to that Deliverable in the most 
+recently approved Project Work Plan and Budget. 
+5.2.4.2. The reallocation does not increase the Agreement Maximum Amount or the 
+amount available for the applicable Budget Period. 
+5.2.4.3. The reallocation does not change the scope of the Work or the requirements, 
+performance measures, or due dates applicable to a Deliverable. 
+5.2.4.4. The reallocation complies with all applicable State and federal requirements. 
+5.2.5. Grantee shall not implement a proposed reallocation until the Department 
+approves the reallocation in writing. 
+5.2.6. A reallocation approved in accordance with this section shall not require a formal 
+amendment to this Agreement. Any proposed reallocation that does not satisfy 
+the requirements of this section shall be subject to the modification requirements 
+of this Agreement. 
+5.3. Payment Method 
+5.3.1. The Department will provide Grant Funds through cost reimbursement, 
+Advance Payment, or a combination of cost reimbursement and Advance 
+Payment, in accordance with the payment provisions of this Agreement. 
+5.3.2. Grantee shall submit requests for cost reimbursement in accordance with the 
+cost reimbursement requirements of this Agreement. 
+5.3.3. Grantee shall submit requests for Advance Payments and reconcile Advance 
+Payments in accordance with the Advance Payment and reconciliation 
+requirements of this Agreement. 
+5.3.4. Exhibit C shall identify the applicable payment method for each Budget 
+category or other applicable portion of the Budget when the Department 
+authorizes different payment methods for different portions of the Work. 
+5.3.5. Identification of a payment method in Exhibit C shall not constitute approval 
+of an Advance Payment, acceptance of an expenditure, or a determination that a 
+cost is allowable under this Agreement. 
+ 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 10 of 11 Grant Agreement #: G27-211330 
+ 
+ 
+5.4. Timely Expenditure and Reduction of Grant Funds 
+5.4.1. Grantee shall monitor actual and projected expenditures throughout the 
+period of performance to identify Grant Funds that Grantee is unlikely to expend 
+for approved Work by the Fund Expenditure End Date. 
+5.4.2. Grantee shall notify the Department in writing within five Business Days after 
+Grantee determines that Grantee is unlikely to expend all available Grant Funds 
+for approved Work by the Fund Expenditure End Date. 
+5.4.3. Grantee’s notification shall include: 
+5.4.3.1. The amount of Grant Funds expended as of the date of the notification. 
+5.4.3.2. The amount of Grant Funds Grantee projects will remain unexpended 
+as of the Fund Expenditure End Date. 
+5.4.3.3. The reason for the projected underspending. 
+5.4.3.4. The effect of the projected underspending on completion of the Work. 
+5.4.3.5. The actions Grantee proposes to take to address the projected 
+underspending. 
+5.4.3.6. A revised expenditure projection through the Fund Expenditure End 
+Date. 
+5.4.4. The Department may determine, based on a Quarterly Status Report, Grantee 
+notification, or other monitoring conducted under this Agreement, that a portion 
+of the Grant Funds is not reasonably necessary for Grantee to complete the 
+remaining approved Work by the Fund Expenditure End Date. 
+5.4.5. Before reducing Grant Funds that the Department determines are not 
+reasonably necessary for Grantee to complete the remaining approved Work by 
+the Fund Expenditure End Date, the Department shall provide Grantee written 
+notice identifying the proposed reduction and the basis for the Department’s 
+determination. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+ 
+Exhibit A: Statement of Work Page 11 of 11 Grant Agreement #: G27-211330 
+5.4.6. Grantee may submit documentation demonstrating Grantee’s ability to 
+expend the identified Grant Funds for approved Work and complete the 
+applicable Work by the Fund Expenditure End Date. Grantee shall submit the 
+documentation within five Business Days following Grantee’s receipt of the 
+Department’s notice unless the Department specifies a different period in the 
+notice. 
+5.4.7. The Department may consider documentation timely submitted by Grantee 
+when determining the final reduction amount. 
+5.4.8. The Department may reduce Grant Funds determined not reasonably 
+necessary to complete the remaining approved Work, subject to the modification 
+requirements of this Agreement and applicable State and federal requirements. 
+5.4.9. A reduction of Grant Funds shall not affect Grantee’s obligation to return or 
+repay any Advance Payment, unallowable cost, unsupported expenditure, 
+overpayment, erroneous payment, or other amount recoverable under this 
+Agreement. 
+5.5. Duplicate and Erroneous Payments 
+5.5.1. Grantee shall notify the Department in writing within five Business Days after 
+Grantee identifies a duplicate payment, overpayment, or other erroneous 
+payment of Grant Funds. 
+5.5.2. Grantee shall not expend Grant Funds that Grantee knows constitute a 
+duplicate payment, overpayment, or other erroneous payment. 
+5.5.3. Grantee shall return or repay any duplicate payment, overpayment, or other 
+erroneous payment in accordance with the payment, repayment, and erroneous 
+payment provisions of this Agreement. 
+5.5.4. Repayment or recovery of a duplicate payment, overpayment, or other 
+erroneous payment shall not increase the Agreement Maximum Amount or 
+otherwise authorize Grantee to incur additional costs under this Agreement. 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+ 
+303
+ 
+E.
+ 
+17th
+ 
+Ave.
+ 
+Suite
+ 
+1100
+ 
+Denver,
+ 
+CO 
+ 
+ 80203
+ 
+ 
+Rural
+ 
+Health
+ 
+Transformation
+ 
+Program
+ 
+(RHTP)
+ 
+Budget
+ 
+Year
+ 
+One
+ 
+Work
+ 
+Plan
+ 
+Year
+ 
+One:
+ 
+October
+ 
+1,
+ 
+2026
+ 
+(or
+ 
+contract
+ 
+execution
+ 
+date)
+ 
+-
+ 
+September
+ 
+30,
+ 
+2027
+ 
+RHTP
+ 
+Lead
+ 
+Applicant
+ 
+Organization:
+ 
+County
+ 
+of
+ 
+Logan
+ 
+–
+ 
+Sterling
+ 
+Fire
+ 
+Department
+ 
+dba
+ 
+Logan
+ 
+County
+ 
+Ambulance
+ 
+Service
+ 
+Primary
+ 
+Point
+ 
+of
+ 
+Contact:
+ 
+Lonnie
+ 
+L.
+ 
+Knudsen
+ 
+Primary
+ 
+Contact’s
+ 
+email:
+ 
+lknudsen@sterlingcolo.com
+ 
+Has
+ 
+your
+ 
+agency
+ 
+received
+ 
+a
+ 
+federal
+ 
+grant
+ 
+previously?
+ 
+Present
+ 
+grants
+ 
+only.
+ 
+Please
+ 
+include
+ 
+what
+ 
+grants.
+ 
+☐
+Yes
+ 
+☒
+No
+ 
+ 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993
+Key
+ 
+Points
+ 
+of
+ 
+Contact
+ 
+List
+ 
+the
+ 
+key
+ 
+points
+ 
+of
+ 
+contact
+ 
+for
+ 
+your
+ 
+project
+ 
+and
+ 
+their
+ 
+contact
+ 
+information.
+ 
+Please
+ 
+include:
+ 
+project
+ 
+lead,
+ 
+data
+ 
+contact,
+ 
+quarterly
+ 
+reports,
+ 
+etc.
+ 
+ 
+Key
+ 
+Points
+ 
+of
+ 
+Contact
+ 
+Project
+ 
+Lead
+ 
+Lonnie
+ 
+Knudsen
+ 
+EMS
+ 
+Commander
+ 
+/
+ 
+Battalion
+ 
+Chief
+ 
+Sterling
+ 
+Fire
+ 
+Department
+ 
+/
+ 
+Logan
+ 
+County
+ 
+Ambulance
+ 
+Service
+ 
+Email:
+ 
+lknudsen@sterlingcolo.com
+ 
+Phone:
+ 
+970-965-7239
+ 
+Primary
+ 
+Responsibilities:
+ 
+Overall
+ 
+project
+ 
+leadership
+ 
+and
+ 
+implementation
+ 
+of
+ 
+the
+ 
+RHTP
+ 
+Year
+ 
+One
+ 
+Work
+ 
+Plan;
+ 
+coordination
+ 
+of
+ 
+grant-funded
+ 
+activities;
+ 
+monitoring
+ 
+of
+ 
+project
+ 
+milestones
+ 
+and
+ 
+deliverables;
+ 
+coordination
+ 
+with
+ 
+healthcare,
+ 
+governmental,
+ 
+educational,
+ 
+and
+ 
+community
+ 
+partners;
+ 
+identification
+ 
+and
+ 
+resolution
+ 
+of
+ 
+implementation
+ 
+barriers;
+ 
+and
+ 
+communication
+ 
+with
+ 
+RHTP
+ 
+program
+ 
+representatives.
+ 
+ 
+Data
+ 
+Contact
+ 
+Lonnie
+ 
+Knudsen
+ 
+EMS
+ 
+Commander
+ 
+/
+ 
+Battalion
+ 
+Chief
+ 
+Sterling
+ 
+Fire
+ 
+Department
+ 
+/
+ 
+Logan
+ 
+County
+ 
+Ambulance
+ 
+Service
+ 
+Email:
+ 
+lknudsen@sterlingcolo.com
+ 
+Phone:
+ 
+970-965-7239
+ 
+Primary
+ 
+Responsibilities:
+ 
+Coordination
+ 
+of
+ 
+project
+ 
+performance
+ 
+data;
+ 
+establishment
+ 
+of
+ 
+Year
+ 
+One
+ 
+baseline
+ 
+measures;
+ 
+collection
+ 
+and
+ 
+review
+ 
+of
+ 
+operational,
+ 
+clinical,
+ 
+workforce,
+ 
+telehealth,
+ 
+Community
+ 
+Paramedicine,
+ 
+transport,
+ 
+and
+ 
+other
+ 
+applicable
+ 
+project
+ 
+data;
+ 
+coordination
+ 
+with
+ 
+organizational
+ 
+and
+ 
+healthcare
+ 
+partners
+ 
+regarding
+ 
+available
+ 
+data;
+ 
+and
+ 
+preparation
+ 
+of
+ 
+performance
+ 
+information
+ 
+needed
+ 
+for
+ 
+grant
+ 
+evaluation
+ 
+and
+ 
+reporting.
+ 
+ 
+Docusign Envelope ID: F1737250-92AB-8652-83E7-B70FA7DC5993

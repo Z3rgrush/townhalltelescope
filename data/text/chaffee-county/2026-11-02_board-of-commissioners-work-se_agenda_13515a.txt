@@ -1,0 +1,2609 @@
+1 
+ 
+Chaffee County Board of Commissioners 
+ 
+P.O. Box 699 / 104 Crestone Ave. 
+Salida, CO 81201 
+719.539.2218/www.chaffeecounty.org 
+ 
+AGENDA 
+10:00 AM 
+November 2, 2026 
+ 
+BOARD OF COUNTY COMMISSIONERS Commissioner's Meeting Room 
+104 Crestone Avenue 
+Salida, Colorado 
+ 
+ 
+Meetings are in person and available via zoom at https://us02web.zoom.us/j/109079543 or by dialing 719 359 4580 
+Meeting ID: 109 079 543 
+PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below. 
+ 
+A. Board of Commissioners Work Session 
+    
+  1. Review final 2026 Chaffee County Housing Needs Assessment - Helmke; Community Planning Natural 
+Resources Department; Root Policy Research 
+      
+  2. Emergency Medical Services Quarterly Update - Brian Behn 
+      
+  3. Veterans Services Update - Ashley Ottmer 
+      
+  4. Update from the Office of Emergency Management - William Plackner 
+      
+  5. Discuss amendment to County Personally Identifiable Information (PII) policy - Helmke; Sullivan 
+      
+  6. Discuss letter to Public Utilities Commission re: Xcel Energy and Black Hills Energy addressing Wildfire 
+Mitigation and Public Safety Power Shutoff Rule Making Information - Helmke 
+      
+  7. Discuss Destination Management Council recommendation for FY27 tourism marketing budget allocation 
+for website and AI enhancements project - Helmke 
+      
+  8. Pending Legislative Position Discussion - Commissioner Lucrezi 
+      
+  9. 1:15 p.m. - Land Management Agencies Stakeholder Meeting 
+      
+  10. 2:15 p.m. - Congressional Leadership Update 
+      
+ 
+**The official posting site for the Chaffee County Board of Commissioners meeting agendas is www.chaffeecounty.org 
+ 
+Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day 
+oversight of County property and/or supervision of employees. Such meetings are held in accordance with C.R.S. § 24-6-402(2)(f) and, therefore, 
+prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal 
+action taken. Accordingly, no official minutes of day-to-day business meetings may be kept. 
+ 
+Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II).  No decisions, policy, positions, resolutions, rules, regulations or formal 
+actions are adopted at the Work Session.  Accordingly, no official minutes of Work Sessions may be kept. 
+ 
+Page 1 of 244
+2 
+It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need 
+assistance in participating in this meeting or event due to a disability as defined under the ADA, please call the County's ADA Coordinator at 719-
+539-2218 or e-mail chaffeeadmin@chaffeecounty.org at least three (3) business days prior to the scheduled meeting or event to request an 
+accommodation. 
+Page 2 of 244
+Root Policy Research 
+789 N. Sherman St, Suite 360 
+Denver, CO 80203 
+www.rootpolicy.com 
+ 
+Chaffee County  
+Regional Housing Needs 
+Assessment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARED FOR DRAFT REPORT 
+Chaffee County October 23, 2026 
+Buena Vista 
+Poncha Springs 
+Salida 
+Page 3 of 244
+Table of Contents 
+ROOT POLICY RESEARCH  i 
+Introduction 
+What is a Housing Needs Assessment? ............................. i 
+HNA Structure .......................................................................ii 
+Methodological Notes ......................................................... iii 
+Why Work to Address Housing Need? ...............................v 
+ 
+I. Demographic Trends 
+Population .......................................................................... I-1 
+Households......................................................................... I-6 
+Household Income & Poverty ........................................ I-10 
+ 
+II. Economic Trends 
+Jobs & Industries ............................................................... II-1 
+Commute Patterns ......................................................... II-10 
+ 
+III. Housing Inventory 
+Housing Supply ................................................................ III-1  
+Housing Type and Occupancy ....................................... III-3 
+Specialty Submarkets ...................................................... III-7 
+ 
+IV. Housing Market Trends 
+Rental Market ................................................................... IV-1  
+For-Sale Market ................................................................ IV-6 
+Market Affordability ......................................................IV-16 
+ 
+V. Housing Problems & Displacement Risk 
+Cost Burden ....................................................................... V-1 
+Overcrowding .................................................................... V-3 
+Homelessness & Instability ............................................. V-4 
+Accessible & Visitable Units ............................................ V-6 
+Displacement Risk ............................................................ V-7 
+ 
+VI. Community Engagement Summary 
+Engagement Opportunities............................................ VI-1 
+Community Meetings...................................................... VI-2 
+Stakeholder Consultation ............................................. VI-11 
+Resident Focus Groups ................................................. VI-26 
+Employer Survey ............................................................ VI-29 
+ 
+VII. Resident Survey Analysis 
+Primary Findings ............................................................. VII-1 
+Methodology ................................................................... VII-3 
+Survey Demographics .................................................... VII-5 
+Current Housing Situation ............................................ VII-7 
+Neighborhood and Community ................................. VII-12 
+Housing Stability and Displacement .......................... VII-14 
+Future Housing Choice ................................................ VII-21 
+Housing Solutions and Policy Input ........................... VII-25 
+ 
+VIII. Housing Needs 
+Affordability Gaps .......................................................... VIII-1 
+Housing Production Needs .......................................... VIII-3 
+ 
+IX. Barriers, Opportunities, & Recommendations 
+Development Challenges ............................................... IX-1 
+Housing Resources and Affordable Units .................... IX-4 
+Recommendations .......................................................... IX-8 
+ 
+Page 4 of 244
+INTRODUCTION 
+ROOT POLICY RESEARCH I NTRODUCTION, PAGE i 
+Chaffee County, Buena Vista, Poncha Springs, and Salida 
+partnered to conduct this Regional Housing Needs Assessment 
+(HNA) to determine the region’s greatest housing needs and 
+better understand challenges faced by residents in finding and 
+keeping stable housing.  
+The HNA will be followed by jurisdictional Housing Action Plans (HAP) 
+that identify strategies related to housing affordability, stability, and 
+future growth. The HNA and future HAPs will help the County and 
+participating jurisdictions better serve their communities. Completing 
+these plans also provides access to funding preferences offered by the 
+State. 
+Special thanks to:  
+ Chaffee County, Buena Vista, Poncha Springs, and Salida staff, who 
+guided the HNA project, provided background documents and local 
+data, promoted community input opportunities, and offered 
+thoughtful comments, suggestions, and revisions on drafts.  
+ The residents who shared their experiences and perspectives by 
+participating in community meetings, focus groups, and surveys, as 
+well as the business leaders, service providers, developers, and 
+other stakeholders who made time for interviews, focus groups, 
+and surveys—and shared resident engagement opportunities 
+through their networks. 
+ 
+1 https://drive.google.com/file/d/1Q9-tcf1Yey6GGzvbwMROtrNYLjVG9-QY/view  
+WHAT IS A HOUSING NEEDS 
+ASSESSMENT? 
+EXCERPT FROM COLORADO STATE GUIDANCE ON HNAS1 
+A Housing Needs Assessment (HNA) identifies the type and amount of 
+housing needed in a community or region to ensure current and future 
+resident and employee households at all income levels have access to 
+quality housing that they can afford. As a result, an HNA does more than 
+estimate the number of housing units needed to accommodate projected 
+population or job growth. An HNA evaluates demographic trends, economic 
+characteristics, housing unit inventory, housing market conditions, 
+development opportunities and constraints, and existing housing 
+programs and services, combined with input from stakeholders and 
+residents, to identify where the market is providing suitable housing and 
+where it is not. The HNA uses this information to estimate how much 
+additional housing is needed to address current housing shortfalls and 
+keep up with future growth. The objective is to estimate the housing needed 
+to ensure quality housing is available and affordable for resident and 
+employee households at all income levels and at different life stages to 
+sustain community and economic health and vibrancy. 
+It is important to understand that an HNA is an informational tool. While 
+the state of Colorado requires each local government to complete an HNA, 
+the state does not require jurisdictions to build a certain number of housing 
+units or produce a certain type of affordable housing. Rather, completed 
+HNAs are to be used for state agency planning, select grant programs, and 
+regions and local governments to develop housing action plans tailored to 
+the unique constraints, resources, and capacity of a community or region.  
+Page 5 of 244
+INTRODUCTION 
+ROOT POLICY RESEARCH I NTRODUCTION, PAGE ii 
+By identifying the current housing challenges and future housing needs in 
+a community, an HNA serves many purposes, such as: 
+ Informing Housing Policy and Programs:  An HNA guides local 
+governments, housing service organizations, and other partners in 
+crafting policies, programs, and partnerships to address housing 
+shortages and affordability challenges. 
+ Planning for Change:  HNAs help communities plan for evolving 
+demographic and economic conditions by estimating how many 
+housing units will be needed as households, housing markets, and 
+employment levels change. 
+ Accessing Funding: HNAs can be used to inform applications for state 
+or federal housing grants and financing. This includes Colorado's State 
+Affordable Housing Fund (or Proposition 123). 
+ Increasing Affordability and Housing Stability:  By identifying the 
+housing needs of households at different income levels, local 
+governments can create programs to improve the availability of 
+housing that is secure and affordable for residents. 
+ Sustaining Community and Economic Vibrancy:  HNAs identify the 
+housing needs of resident and employee households at all life stages, 
+helping jurisdictions develop housing strategies that support local 
+businesses, economic development, and a generally diverse and 
+thriving community.  
+ Educating and Building Support:  HNAs can be used to educate 
+community members and leaders on housing problems, telling the 
+data-driven "housing story" and providing robust information for 
+decision-making, which is necessary to build program support within 
+communities and address housing needs. 
+HNA STRUCTURE 
+The HNA is organized by the following sections, following the general 
+structure recommended by state guidance on HNA components:  
+I. Demographic Trends evaluates demographic changes, which 
+drive housing demand.  
+II. Economic Trends analyzes jobs, wages, and commuting to 
+show whether housing meets workforce needs. 
+III. Housing Inventory evaluates existing housing stock by type. 
+IV. Housing Market Trends assesses how market factors like 
+rents, home prices, and supply impact housing affordability. 
+V. Housing Problems and Displacement Risk provides data on 
+cost burden, overcrowding, homelessness, and housing 
+instability, including displacement risk indicators. 
+VI. Community Engagement Summary shares input from 
+residents and stakeholders on housing challenges and solutions. 
+VII. Community Survey Analysis provides a detailed analysis of 
+the 2026 Chaffee County Resident Housing Survey. 
+VIII. Current and Projected Housing Needs ties together data 
+from previous sections to estimate current and future housing 
+needs across all income levels. 
+IX. Barriers, Opportunities, and Recommendations discusses 
+development challenges, identifies available resources to 
+support housing programs, and offers recommended 
+strategies to address needs and improve affordability. 
+ 
+ 
+Page 6 of 244
+INTRODUCTION 
+ROOT POLICY RESEARCH I NTRODUCTION, PAGE iii 
+METHODOLOGICAL NOTES
+Geographic areas.  The following jurisdictions are part of a 
+regional partnership to conduct the HNA: Chaffee County; the Town of 
+Buena Vista; the Town of Poncha Springs; and the City of Salida. The 
+report includes data for each participating jurisdiction. Where possible, 
+the report separately presents data for the remainder of the county, 
+identified as unincorporated Chaffee County.  
+Data sources.  The data used for the needs assessment come 
+from a variety of sources. In all cases, the data represent the latest, 
+most readily available data to describe the housing market at the time 
+the report was drafted. Key data sources include: 
+ American Community Survey (ACS) estimates from the United 
+States Census Bureau; 
+ Colorado State Demography Office (SDO);  
+ Chaffee County Assessor;   
+ Various market sources including Zillow Research and CoStar 
+Group;  
+ United States Bureau of Labor Statistics (BLS);  
+ Longitudinal Employer-Household Dynamics (LEHD);  
+ Other local data sources on homelessness and affordable housing 
+inventory.  
+It is important to note that data contain a margin of error—meaning 
+the actual estimates could be larger or smaller than the estimate. 
+Margin of error risk is greater in small geographies. Given this, the data 
+in this report should be interpreted as suggesting a likely number or 
+magnitude of change rather than a definitive number or percentage, 
+especially in smaller jurisdictions.  
+Defining and measuring affordability. The most 
+common definition of housing affordability is linked to industry 
+standards. The federal government considers housing affordable 
+when the housing payment—rent or mortgage payments plus taxes 
+and utilities—consumes 30% or less of a household’s gross income. 
+Households paying more than 30% are “cost burdened.” Households 
+experiencing cost burden have less money to spend on other 
+essentials like healthcare, education, groceries, and transportation—
+adversely affecting their household well-being, limiting their economic 
+growth potential, and constraining local spending.  
+ 
+Page 7 of 244
+INTRODUCTION 
+ROOT POLICY RESEARCH I NTRODUCTION, PAGE iv 
+Income and AMI.  The HNA analysis uses both household 
+income ranges and “Area Median Income (AMI).” AMI is a measure of 
+income based on the median, or middle income family. Housing 
+programs base eligibility on income limits expressed as percentages of 
+AMI. HUD publishes current-year income limits based on an internal 
+calculation that estimates AMIs by household size and region. The 
+income limits and AMIs that apply to Chaffee County and its 
+jurisdictions (for 2026) are shown to the right.  
+ 
+ 
+Source: HUD Income Limits, CHFA, and Root Policy Research.  
+ 
+ 
+1 2 3 4 5
+30% AMI $23,340 $26,670 $30,000 $33,330 $36,000
+50% AMI $38,900 $44,450 $50,000 $55,550 $60,000
+80% AMI $62,240 $71,120 $80,000 $88,880 $96,000
+100% AMI $77,800 $88,900 $100,000 $111,100 $120,000
+120% AMI $93,360 $106,680 $120,000 $133,320 $144,000
+150% AMI $116,700 $133,350 $150,000 $166,650 $180,000
+Persons in Household
+Page 8 of 244
+INTRODUCTION 
+ROOT POLICY RESEARCH I NTRODUCTION, PAGE v 
+WHY WORK TO ADDRESS HOUSING NEEDS? 
+A balanced housing stock accommodates a full “life cycle community”—where there are affordable housing options for residents of all 
+stages of life from young adults to centenarians—which in turn supports the local economy and contributes to Chaffee County’s culture 
+and community. 
+ Research shows that a constrained housing market negatively 
+impacts economic growth while stable and affordable housing is 
+central to the health of individuals, families, and communities. 
+ Households living in stable housing are more likely to spend their 
+incomes in the local economy through direct spending on goods 
+and services. 
+ Housing investments that allow workers to live near their place of 
+employment can reduce the impacts of traffic and commuting, and 
+attract new businesses by increasing recruitment of talent, 
+productivity, and retention of talent.  
+ Affordable housing (both naturally occurring affordable housing 
+and income restricted Affordable housing) is key to providing high 
+quality public services as many essential workers (e.g., first 
+responders, medical professionals, and teachers) often leave 
+communities that do not have an adequate supply of housing in 
+their price range. 
+ Affordable housing, particularly income-restricted and/or publicly 
+assisted housing, also plays a key role in preventing and resolving 
+homelessness. 
+ Generational wealth from affordable homeownership is a major 
+contributor to positive outcomes for children and youth. As 
+housing and equity are passed down, young adults have the option 
+to remain in their community and have families of their own. 
+ Housing investments and stable housing environments bolster 
+local revenue, increase job readiness, help renters transition to 
+homeownership, lower public costs of eviction and foreclosure, 
+and increase the economic and educational opportunities for 
+children. 
+ 
+ 
+Page 9 of 244
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION I. DEMOGRAPHIC TRENDS 
+The Demographic Trends section sets the foundation for understanding population and household characteristics, household 
+income, and changes over time. These factors directly influence the demand for housing and the types and prices of housing 
+needed in Chaffee County, Buena Vista, Poncha Springs, and Salida.  
+ 
+Page 10 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 1 
+POPULATION 
+Chaffee County is home to about 20,800 residents. Figure I-1 shows the 
+Chaffee County population by community along with changes in 
+population between 2019 and 2024. Roughly half (51%) of residents 
+live in Buena Vista (15%), Poncha Springs (7%), and Salida (29%). The 
+county overall has added 1,412 residents since 2019, a population 
+increase of 7%. Growth is concentrated in incorporated areas, which 
+grew by 13% compared to just 2% in unincorporated areas. Poncha 
+Springs experienced the fastest rate of growth, adding 548 residents—
+a 64% increase since 2019. Salida, the county's largest municipality and 
+home to 29% of the county's population, grew by 7% (400 residents). 
+Buena Vista added 249 residents, a 9% increase. Unincorporated areas 
+account for a declining share of the county's population, dropping from 
+52% in 2010 to 49% in 2024. 
+ 
+Figure I-1. 
+Population Trends 
+by Community, 
+2010-2024 
+ 
+Source: 
+2010 Decennial Census, 
+Colorado State Demography 
+Office, and Root Policy Research. 
+ 
+ 
+Population Change 2019-24 
+Charted (#)
+Jurisdiction
+Chaffee County 17,809 19,390 20,802 100% 100% 100% 1,412 7%
+Incorporated Areas 8,590 9,404 10,601 48% 48% 51% 1,197 13%
+Buena Vista 2,617 2,824 3,073 15% 15% 15% 249 9%
+Poncha Springs 737 861 1,409 4% 4% 7% 548 64%
+Salida 5,236 5,719 6,119 29% 29% 29% 400 7%
+Unincorporated Areas 9,219 9,986 10,201 52% 52% 49% 215 2%
+Pct. 
+Population % of County
+Pop. Change 
+2019-2024
+2010 2019 2024 2010 2019 2024 Num. 
+0 500 1,000 1,500
+Page 11 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 2 
+Forecasted growth.  Population forecasts 
+from the State Demographer indicate continued 
+steady growth for Chaffee County through 2050. 
+The county's population is projected to reach nearly 
+22,000 by 2050, representing an increase of roughly 
+6% from current levels—making Chaffee the most 
+populous among its surrounding counties. Chaffee 
+County's growth trajectory has outpaced most of its 
+peers since 2015. This sustained growth 
+underscores the importance of planning for 
+continued housing demand in the decades ahead. 
+Figure I-2 below shows population trends and 
+forecasts through 2050; Lake, Park, Saguache, 
+Gunnison, and Pitkin counties are included for 
+comparison. 
+Figure I-3 illustrates the total population of the 
+county and the factors contributing to its growth. In 
+Chaffee County, growth is entirely driven by net 
+migration, which is the difference between 
+individuals moving into and out of the county. Since 
+1990, net migration has been positive in every 
+period, although the levels have varied. It reached 
+its highest points in the early 1990s and again in 
+2022, when the county saw some of its most 
+significant migration gains. Forecasts indicate that 
+net migration will remain positive through 2040. 
+Natural increase—the difference between births 
+and deaths—has followed a downward trend, 
+reflecting the aging of Chaffee County's population. 
+Natural decrease is projected to deepen through 
+2040. 
+Figure I-2. 
+Population Growth and Forecasts, Chaffee and Surrounding Counties, 
+1985-2050 
+ 
+Note: Additional details on forecast methodology available at https://demography.dola.colorado.gov/population. 
+Source: Colorado State Demography Office and Root Policy Research. 
+Figure I-3. 
+Population and Components of Change, Chaffee County, 1990-2040 
+ 
+Note: Natural increase is defined as births minus deaths, and net migration as in-migration minus out-migration. 
+Source: Colorado State Demography Office and Root Policy Research. 
+Page 12 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 3 
+Migration trends. Figure I-4 shows trends from Chaffee 
+County migration data based on year-to-year address changes 
+reported on individual income tax returns filed with the IRS. Inflows 
+represent the number of new households who filed a return in the 
+county and filed a return in a different county the previous year and 
+outflows are the number of households who filed a return in a county 
+other than Chaffee and had filed a return in Chaffee the previous year. 
+The data also provide the total adjusted gross income which allows the 
+estimation of the average adjusted gross income 1 for inflow and 
+outflow returns each year.  
+Households moving into Chaffee County consistently earn more than 
+those leaving. In 2015–2016, in-movers had an average adjusted gross 
+income of $58,326 compared to $46,184 for out-movers—a gap of 
+about $12,000. By 2021–2022, that gap had widened, with in-movers 
+earning an average of $120,160 compared to $66,840 for those 
+leaving—a difference of about $53,000. While the gap narrowed in 
+2022–2023 (to roughly $29,000), in-movers still earned significantly 
+more on average ($95,091) than out-movers ($66,350). 
+In 2022-2023 the outflow of returns with an average income below 
+$70,000 tended to leave Chaffee County for El Paso, Fremont, Jefferson, 
+Adams and Pueblo counties. The outflow of returns with the lowest 
+average adjusted gross incomes—below $50,000—went to Jefferson 
+County. The inflow of returns with the highest average adjusted gross 
+income—above $100,000—came from Jefferson, Denver, and El Paso 
+counties.
+ 
+Figure I-4. 
+Chaffee County IRS Migration Trends 
+ 
+Note: 
+IRS Statistics of Income (SOI) program, and Root Policy Research. 
+ 
+Source: 
+Data do not represent the full U.S. population because many individuals are not required to file an 
+individual income tax return. The County-to-County outflow migration files represent the migration flows 
+from the origin state and county, in year one, to the destination state and county, in year two. Tax returns 
+with an Individual Taxpayer Identification Number (ITIN) issued by the IRS are included. 
+ 
+ 
+1 Adjusted Gross Income (AGI) is defined as gross income minus adjustments to income. 
+Gross income includes your wages, dividends, capital gains, business income, retirement 
+distributions as well as other income. Adjustments to income include such items as 
+educator expenses, student loan interest, alimony payments or contributions to a 
+retirement account.  
+Tax Filing Years
+2015-2016 527 $46,184 776 $58,326
+2016-2017 716 $51,841 1,130 $64,855
+2017-2018 648 $50,716 892 $71,364
+2018-2019 662 $57,879 843 $85,820
+2019-2020 738 $60,938 1,060 $97,783
+2020-2021 813 $62,230 1,121 $86,332
+2021-2022 900 $66,840 1,103 $120,160
+2022-2023 818 $66,350 1,049 $95,091
+Outflow Inflow
+Number of 
+Returns
+Average Adjusted 
+Gross Income
+Number of 
+Returns
+Average Adjusted 
+Gross Income
+Page 13 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 4 
+The age profile of people moving into Chaffee County differs 
+significantly from the county's current population, as shown in 
+Figure I-5. In-migrants skew younger, with over half (55%) of new 
+residents between 18 and 34 years old, compared to just 13% of 
+the county's current population in that age range. 
+By contrast, residents aged 65 to 74 make up 18% of the current 
+population but only 5% of in-migrants, and those 75 and over 
+account for 10% of residents but just 1% of newcomers. School-
+age children (5 to 17) are also markedly absent from the in-
+migrant population (1% versus 11%). 
+Age. As shown in Figure I-6, the population aged 65 and older 
+has grown substantially, rising from 16% of the county's 
+population in 1990 to 26% today. State Demographer projections 
+show this trend continuing, with residents 65 and older expected 
+to comprise 38% of the county's population by 2050. 
+This growth in the senior population has been offset by declines 
+in younger age groups. Children under 18 represented 23% of the 
+population in 1990 but have fallen to 14% and are projected to 
+decline further to 11% by 2050. The 25-to-44 age group—which 
+represents a core segment of the workforce and is typically 
+associated with household formation and first-time 
+homebuying—has shrunk from 31% in 1990 to 27% today and is 
+forecast to drop to just 19% by 2050. 
+As shown by the median ages in Figure I-7 below, Buena Vista is 
+the youngest community at a median age of 36, Salida's median 
+age is 44, while Poncha Springs has a median age of 46. Notably, 
+the countywide median age of 49 is higher than any of the 
+individual incorporated communities shown, indicating that 
+unincorporated areas of Chaffee County skew considerably older. 
+Figure I-5. 
+Age Distribution of 
+Residents Moving into 
+Chaffee County from 
+Outside, 2024 
+ 
+Note: 
+Population 1 year and over in the United States. 
+ 
+Source: 
+ACS 5-year estimates and Root Policy Research. 
+ 
+Figure I-6. 
+Population by Age. Chaffee County, 1990-2050 
+ 
+Source: Colorado State Demography Office and Root Policy Research.
+Age Cohort
+1 to 4 years 3% 3%
+5 to 17 years 11% 1%
+18 to 24 years 2% 28%
+25 to 34 years 11% 27%
+35 to 44 years 15% 12%
+45 to 54 years 13% 11%
+55 to 64 years 15% 11%
+65 to 74 years 18% 5%
+75 years and over 10% 1%
+Current 
+Distribution
+In-migrant 
+Distribution
+Page 14 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 5 
+Figure I-7. 
+Median Age by 
+Community, 
+2024 
+ 
+Source: 
+ACS 5-year estimates and 
+Root Policy Research. 
+Figure I-8 shows how the age profile of Chaffee County's 
+communities has shifted since 2010. Several trends stand out: 
+ Compared to Colorado, Chaffee County has a notably older 
+population. The county's share of residents 65 and older 
+(26%) is well above the state average (16%), while its share 
+of children under 18 (14%) lags the state (21%).  
+ Within the county, communities show distinct age profiles. 
+Buena Vista is the youngest community and the most family-
+oriented, with 24% of residents under 18 and 33% in the 25-
+to-44 working-age range—both the highest shares among 
+Chaffee communities.  
+ Poncha Springs has experienced a notable demographic 
+shift. The share of children under 18 fell from 21% in 2010 
+to just 7% in 2024, while the 25-to-44 age group surged to 
+40%—suggesting an influx of younger working-age adults 
+without children. 
+ Unincorporated Chaffee County has the oldest profile, with 
+35% of residents aged 65 or older—more than double the 
+statewide rate. The share of residents under 18 has declined 
+to just 10%, and the 45-to-64 cohort has shrunk from 38% to 29%. 
+ Salida's age distribution more closely mirrors the county overall, with 
+moderate increases in the 65-and-older population (from 17% to 23%) 
+and a slight decline in children under 18 (from 20% to 17%). 
+Figure I-8. 
+Age Distribution by Community, 2010, 2019, 2024 
+Source: ACS 5-year estimates and Root Policy Research.  
+Page 15 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 6 
+Race/ethnicity. Overall, Chaffee County residents 
+predominantly identify as non-Hispanic White (84%). Ten percent 
+identify as Hispanic, 4% as two or more races, and 1% each as Asian, 
+Black or African American, or another race. 
+ Buena Vista has the highest proportion of non-Hispanic White 
+residents at 93% and the lowest Hispanic population at 4%. 
+ Poncha Springs and Salida more closely mirror the county, with 
+non-Hispanic White populations of 82% each and Hispanic 
+populations of 11% and 10%, respectively. Salida has the highest 
+proportion of residents identifying as two or more races (7%).  
+ Unincorporated Chaffee County reflects a composition similar to 
+the county overall, with 83% non-Hispanic White and 11% Hispanic. 
+Figure I-9.  
+Racial/Ethnic Distribution by Community, 2024 
+ 
+Note: All race categories reflect non-Hispanic identification. 
+Source: ACS 5-year estimates and Root Policy Research. 
+HOUSEHOLDS 
+As of 2024, Chaffee County's roughly 20,800 residents live in an 
+estimated 9,500 to 10,000 households. A household consists of one or 
+more people who occupy a housing unit as their usual place of 
+residence. The county has added approximately 2,000 to 2,500 
+households since 2010, reflecting steady growth since 2015. As shown 
+in Figure I-10, State Demographer projections indicate continued 
+household growth through 2050, though the pace of growth is 
+expected to slow notably after 2030. Total households are projected to 
+reach approximately 10,800 by 2050 — an increase of roughly 1,100 
+from current levels. 
+Figure I-10.  
+Total Households and Projections, 2010-2050 
+Source: Colorado State Demography Office and Root Policy Research. 
+Chaffee 
+County
+Buena 
+Vista
+Poncha 
+Springs Salida
+Unincorp. 
+Chaffee
+Total Population 100% 100% 100% 100% 100%
+Non-Hispanic White 84% 93% 82% 82% 83%
+Hispanic 10% 4% 11% 10% 11%
+Two or more races 4% 1% 5% 7% 2%
+Asian 1% 0% 1% 1% 1%
+Black/African American 1% 0% 0% 0% 2%
+Other race 1% 1% 0% 0% 1%
+Page 16 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 7 
+Figure I-11 shows household counts by community along with changes 
+in households between 2019 and 2024. Chaffee County had 9,639 
+households in 2024, an increase of 1,307 households (16%) since 2019.  
+Growth in incorporated areas (20%) exceeded that of unincorporated 
+areas (11%). Among incorporated communities, Poncha Springs 
+experienced the fastest household growth, nearly doubling from 400 
+households in 2019 to 695 in 2024— a 74% increase. Salida, the largest 
+municipality by household count, added 405 households (15% growth) 
+and accounts for one-third of all county households. Buena Vista 
+added 180 households, a 14% increase.  
+Unincorporated areas remain home to a substantial share of the 
+county's households (45%), but that share has declined from 47% in 
+both 2010 and 2019.  
+Figure I-11. 
+Household Trends 
+by Community, 
+2010-2024 
+ 
+Source: 
+Colorado State Demography 
+Office and Root Policy Research. 
+ 
+Household type. Figure I-12 below shows household types by 
+community for 2019 and 2024.  Married couples without children are 
+the dominant household type in Chaffee County at 41%, a share that 
+has held steady since 2019. Persons living alone represent the second 
+largest group at 27%. Households with children — both married-parent 
+and single-parent families — collectively account for just 18% of county 
+households, and single-parent households declined from 6% to 4%. 
+Household composition varies across communities. Unincorporated 
+areas and Poncha Springs are heavily dominated by married couples 
+without children (52% and 53%, respectively). Salida has the highest 
+share of persons living alone (34%), while Buena Vista saw notable 
+shifts—living alone households decreased from 27% to 21% and 
+married couples with children declined from 20% to 14%.
+ 
+HH. Change 2019-24
+Charted (#)
+Jurisdiction
+Chaffee County 7,595 8,332 9,639 100% 100% 100% 1,307 16%
+Incorporated Areas 4,030 4,409 5,289 53% 53% 55% 880 20%
+Buena Vista 1,194 1,270 1,450 16% 15% 15% 180 14%
+Poncha Springs 320 400 695 4% 5% 7% 295 74%
+Salida 2,516 2,739 3,144 33% 33% 33% 405 15%
+Unincorporated Areas 3,565 3,923 4,350 47% 47% 45% 427 11%
+Pct. 
+Households % of County
+HH. Change 
+2019-2024
+2010 2019 2024 2010 2019 2024 Num. 
+0 500 1,000 1,500
+Page 17 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 8 
+Figure I-12. 
+Household Type 
+by Community, 
+2019 and 2024 
+ 
+Source: 
+ACS 5-year estimates and Root 
+Policy Research. 
+ 
+Page 18 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 9 
+Tenure. Chaffee County's homeownership rate 
+is 74%, slightly down from 77% in 2010 but still well 
+above state and national averages. The most 
+striking shift is in Buena Vista, where the 
+homeownership rate dropped from 72% in 2010 to 
+just 46% in 2024 — making it the only community in 
+the county where renters now outnumber owners. 
+However, the margin of error is high, and the 
+ownership rate could be as high as 56% in 2024.  
+ In contrast, Poncha Springs moved in the opposite 
+direction, rising from 74% to 93%. Salida's 
+homeownership rate declined modestly from 67% 
+to 63%, the lowest among communities after Buena 
+Vista. Unincorporated areas remain heavily owner-
+occupied at 88%, up slightly from 85%. 
+Figure I-14 shows homeownership rates by income 
+in Chaffee County. The overall rate declined from 
+77% to 74% between 2019 and 2024, with the most 
+significant drops among middle-income 
+households. Those earning $50,000 to $75,000 saw 
+ownership rates fall from 89% to 73%, while those 
+earning $75,000 to $100,000 dropped from 93% to 
+77%. Households earning less than $50,000 
+consistently had the lowest rates, decreasing from 
+68% to 64%. 
+Figure I-13. 
+Homeownership Rate by Community, 2010 and 2024 
+ 
+Source: ACS 5-year estimates and Root Policy Research. 
+Figure I-14. 
+Homeownership 
+Rate by Household 
+Income, Chaffee 
+County, 2010-2024 
+ 
+Source: 
+ACS 5-year estimates and Root 
+Policy Research. 
+Page 19 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 10 
+HOUSEHOLD INCOME & POVERTY 
+Household income. The median income in Chaffee County in 
+2024 was $84,132. Buena Vista and Salida have lower medians at 
+$78,323 and $70,045, respectively. Poncha Springs has the highest 
+median income among other Chaffee communities, at $97,139. Figure 
+I-15 shows median income by tenure for Chaffee County and 
+communities.
+Figure I-15. 
+Median Income by Tenure, by 
+Community, 2024 
+ 
+Source: 
+ACS 5-year estimates and Root Policy Research. 
+Median household incomes in Chaffee County have grown 
+significantly, accelerating in the 2019–2024 period. The countywide 
+median rose from $42,941 in 2010 to $84,132 in 2024 — a 51% increase 
+in just the last five years, compared to 30% growth in the prior decade. 
+Despite these gains, Chaffee County's median income remains below 
+the statewide median of $95,470. 
+Poncha Springs saw the strongest growth, with incomes surging 155% 
+since 2019 to $97,139—now the highest in the county. Buena Vista 
+(78%) also outpaced the state's 32% growth rate. Salida's growth (49%) 
+was more modest, and its median of $70,045 remains the lowest 
+among communities. 
+Renter incomes grew faster than owner incomes in most communities 
+between 2019 and 2024—up 84% countywide for renters compared to 
+43% for owners. Salida renters have the lowest median income at 
+$49,688. Figure I-16 below shows income trends by tenure and 
+community.
+ 
+Page 20 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 11 
+Figure I-16. 
+Trends in Median Income by 
+Tenure, by Community, 2010-2024 
+ 
+Source: 
+ACS 5-year estimates and Root Policy Research 
+ 
+Figure I-17 below shows that individuals moving into Chaffee County 
+earn significantly more than those moving out. In 2024, in-movers from 
+another Colorado county had a median individual income of $56,486, 
+and those arriving from a different state earned $51,354. By 
+contrast, individuals who left Chaffee County earned far less—$24,205 
+for those moving within Colorado and $25,667 for those leaving the 
+state. 
+ 
+All Households
+Chaffee County $42,941 $55,771 $84,132 30% 51%
+Buena Vista $38,429 $44,104 $78,323 15% 78%
+Poncha Springs $39,737 $38,021 $97,139 -4% 155%
+Salida $36,387 $46,875 $70,045 29% 49%
+Colorado $56,456 $72,331 $95,470 28% 32%
+Owners
+Chaffee County $49,254 $65,519 $93,960 33% 43%
+Buena Vista $39,688 $57,500 $82,585 45% 44%
+Poncha Springs $41,406 $54,091 $97,452 31% 80%
+Salida $47,344 $60,723 $86,677 28% 43%
+Colorado $72,151 $90,194 $117,732 25% 31%
+Renters
+Chaffee County $28,483 $33,994 $62,500 19% 84%
+Buena Vista $34,097 $37,443 $64,178 10% 71%
+Poncha Springs $39,183 $16,528 $79,432 -58% 381%
+Salida $27,097 $33,096 $49,688 22% 50%
+Colorado $32,321 $47,251 $63,537 46% 34%
+Income % Growth
+2010 2019 2024 2010-2019 2019-2024
+Page 21 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 12 
+Residents who stayed in the same house earned a 
+median of $50,026, while those who moved within 
+the county earned $42,141. The gap between in-
+mover and out-mover incomes reinforces the 
+migration trends discussed earlier and suggests that 
+higher housing costs may be displacing lower-
+income residents while attracting wealthier 
+newcomers. 
+As shown in Figure I-18, 35% of Chaffee County 
+households have no wage or salary income, well 
+above the statewide rate of 21%. This reflects the 
+county's large retiree population, with many 
+households relying on retirement savings, Social 
+Security, or investment income. 
+The share of households without wage income 
+varies by community. Unincorporated areas have 
+the highest proportion at 44%, consistent with the 
+area's older demographic profile. Salida follows at 
+30%. Buena Vista and Poncha Springs both match 
+the state average, with 79% of households earning 
+wage or salary income—reflecting their younger 
+workforce populations. 
+Figure I-17. 
+Median Individual Income by Geographical Mobility, Chaffee County, 
+2021-2024 
+Note: Data are for individuals 15 years and over with income. 
+Source: ACS 5-year estimates and Root Policy Research. 
+Figure I-18. 
+Percent of 
+Households with 
+Wage or Salary 
+Income by 
+Community, 2024 
+ 
+Source: 
+ACS 5-year estimates and Root Policy 
+Research. 
+ 
+Page 22 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 13 
+Figure I-19 shows income sources by community. Social Security 
+income is the most common non-wage source, received by roughly 
+34% of county households—compared to about 26% statewide—and 
+is highest in unincorporated areas (approximately 44%). Retirement 
+income and interest, dividends, or rental income follow similar 
+patterns, with unincorporated areas well above state and county 
+averages. 
+Self-employment income is also more prevalent in Chaffee County 
+(16%) than statewide (13%). As a share of wage/salary income, this is 
+true particularly in unincorporated areas and Salida, where close to 
+30% of wage-earning households also have self-employment income, 
+compared to 17% statewide. Rates of public assistance or Food 
+Stamps/SNAP are relatively low countywide, but are highest in Buena 
+Vista.
+Figure I-19. 
+Percent of Households with 
+Different Income Sources by 
+Community, 2024 
+ 
+Source: 
+ACS 5-year estimates and Root Policy Research. 
+ 
+Over half (53%) of Chaffee County's aggregate 
+income comes from dividends, interest, rent, 
+and transfer receipts—exceeding Colorado's 
+37% share. Income from dividends, interest, 
+and rent accounts for 33% of the county's total 
+income, up from 29% in 2010. Transfer receipts 
+represent an additional 20%, down slightly from 
+24% in 2010. By comparison, Colorado derives 
+just 23% of aggregate income from dividends, 
+interest, and rent, and 14% from transfer 
+receipts. 
+Figure I-20. 
+Share of Aggregate Income from 
+Dividends, Interest, Rent, and 
+Transfer Receipts, Chaffee County 
+and Colorado, 2010, 2019, and 2024 
+ 
+Note: 
+Transfer receipts include government social benefits—such as 
+Social Security, Medicare, Medicaid, unemployment insurance, 
+SNAP, SSI, veterans' benefits, and education assistance—as well 
+as net current transfer receipts from business. 
+Source:  
+Bureau of Economic Analysis and Root Policy Research. 
+Page 23 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 14 
+Per capita personal income in Chaffee County reached $71,431 in 2024, 
+up 36% since 2019—matching the state's growth rate but remaining 
+below Colorado's $83,055. The gap is driven primarily by lower net 
+earnings: wages and salary account for just 47% of per capita income 
+in Chaffee County compared to 63% statewide, reflecting the county's 
+tourism-oriented economy and the lower wages typical of hospitality 
+and service industries. 
+As a result, non-wage sources make up a larger share of overall 
+income. Dividends, interest, and rent represent the fastest-growing 
+income source in the county, rising 42% since 2019 to $23,840 per 
+capita and now accounting for one-third of all personal income. 
+Retirement and transfer receipts make up an additional 19% and 20%, 
+respectively. 
+Figure I-21. 
+Per Capita Personal 
+Income by Income 
+Source, Chaffee 
+County and 
+Colorado, 2010, 2019, 
+and 2024 
+ 
+Note: 
+Type of income divided by midyear 
+population estimates yields a per 
+capita measure for that type of 
+income. 
+ 
+Source: 
+Bureau of Economic Analysis and 
+Root Policy Research. 
+ 
+Figure I-21. 
+Per Capita Personal 
+Income by Income 
+Source, Chaffee 
+County and 
+Colorado, 2010, 2019, 
+and 2024 
+ 
+Note: 
+Type of income divided by midyear 
+population estimates yields a per 
+capita measure for that type of 
+income. 
+ 
+Source: 
+Bureau of Economic Analysis and 
+Root Policy Research. 
+ 
+Chaffee County
+  Per capita personal income $31,098 $52,403 $71,431 100% 100% 100% $19,028 36%
+  Per capita net earnings $14,724 $25,088 $33,378 47% 48% 47% $8,290 33%
+  Per capita personal current transfer receipts $7,493 $10,579 $14,213 24% 20% 20% $3,634 34%
+    Per capita income maintenance benefits $459 $425 $463 1% 1% 1% $38 9%
+    Per capita unemployment insurance compensation $346 $52 $107 1% 0% 0% $55 106%
+    Per capita retirement and other $6,688 $10,102 $13,643 22% 19% 19% $3,541 35%
+  Per capita dividends, interest, and rent $8,881 $16,737 $23,840 29% 32% 33% $7,103 42%
+Colorado
+  Per capita personal income $40,827 $61,278 $83,055 100% 100% 100% $21,777 36%
+  Per capita net earnings $26,948 $39,626 $52,615 66% 65% 63% $12,989 33%
+  Per capita personal current transfer receipts $5,864 $7,979 $11,329 14% 13% 14% $3,350 42%
+    Per capita income maintenance benefits $536 $511 $618 1% 1% 1% $107 21%
+    Per capita unemployment insurance compensation $440 $65 $130 1% 0% 0% $65 100%
+    Per capita retirement and other $4,887 $7,403 $10,580 12% 12% 13% $3,177 43%
+  Per capita dividends, interest, and rent $8,016 $13,673 $19,112 20% 22% 23% $5,439 40%
+Pct. 
+Per Capita Income % of Total Income
+Change 
+2019-2024
+2010 2019 2024 2010 2019 2024 Num. 
+Page 24 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 15 
+HUD Area Median Income.  The data 
+presented in the previous figures reflect ACS data on 
+household income, as reported by households 
+responding to the Census Bureau’s annual survey. 
+Housing programs, however, rely on income limits 
+published by the U.S. Department of Housing and Urban 
+Development (HUD) that are represented as 
+percentages of the Area Median Income (commonly 
+abbreviated as “HUD AMI” or simply “AMI”). 
+HUD publishes current-year income limits based on an 
+internal calculation that estimates AMIs by household 
+size and region. All communities within Chaffee County 
+use the same AMIs for program eligibility. Figure I-22 
+shows the income limits and AMIs that apply to Chaffee 
+County and its jurisdictions in 2026. 
+Figure I-23 shows the distribution of Chaffee County's 
+9,863 households by HUD AMI levels. These estimates 
+are Census estimates and differ from the Demographer 
+estimates used in Figure I-11. About 21% of all 
+households (2,020) earn less than 50% AMI, with an 
+additional 15% earning between 50% and 80% AMI. Over 
+one-third (36%) of households earn above 150% AMI. 
+Renter households are more concentrated at lower 
+income levels than owners. Nearly half (48%) of renters 
+earn below 80% AMI, compared to 31% of owners. 
+Fifteen percent of renters earn less than 30% AMI. In 
+unincorporated areas, the income distribution skews 
+slightly higher, with 38% of households earning above 
+150% AMI. Renter households in unincorporated areas 
+are fewer (609) but show a concentration at 30–50% AMI 
+(20%) and above 150% AMI (30%). 
+Figure I-22. 
+2026 HUD AMI 
+for Chaffee 
+County and its 
+Communities 
+ 
+Source: 
+HUD AMI, CHFA, and Root 
+Policy Research. 
+ 
+Figure I-23. 
+Chaffee 
+County 
+Households by 
+HUD AMI 
+Levels, 2024 
+ 
+Note: 
+Root Policy Research 
+estimate based on 2024 
+ACS data and 2024 income 
+limits. 
+ 
+Source: 
+HUD AMI, CHFA, ACS 5-year 
+estimates, and Root Policy 
+Research. 
+1 2 3 4 5
+30% AMI $23,340 $26,670 $30,000 $33,330 $36,000
+50% AMI $38,900 $44,450 $50,000 $55,550 $60,000
+80% AMI $62,240 $71,120 $80,000 $88,880 $96,000
+100% AMI $77,800 $88,900 $100,000 $111,100 $120,000
+120% AMI $93,360 $106,680 $120,000 $133,320 $144,000
+150% AMI $116,700 $133,350 $150,000 $166,650 $180,000
+Persons in Household
+Household Income
+Chaffee County 2,552 7,311 9,863 100% 100% 100%
+Less than 30% AMI 378 689 1,066 15% 9% 11%
+30% to 50% AMI 299 655 954 12% 9% 10%
+50% to 80% AMI 547 959 1,506 21% 13% 15%
+80% to 100% AMI 260 708 968 10% 10% 10%
+100% to 120% AMI 192 659 851 8% 9% 9%
+120% to 150% AMI 154 778 931 6% 11% 9%
+150% AMI + 723 2,863 3,586 28% 39% 36%
+Unincorporated 609 4,267 4,876 100% 100% 100%
+Less than 30% AMI 47 436 483 8% 10% 10%
+30% to 50% AMI 119 388 507 20% 9% 10%
+50% to 80% AMI 81 550 631 13% 13% 13%
+80% to 100% AMI 18 364 382 3% 9% 8%
+100% to 120% AMI 93 421 514 15% 10% 11%
+120% to 150% AMI 68 454 522 11% 11% 11%
+150% AMI + 183 1,655 1,838 30% 39% 38%
+Number of Households Percent of  HH
+Renter Owners Total Renter Owners Total
+Page 25 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 16 
+Figure I-24 estimates households by AMI level in Buena 
+Vista. About 19% of all households (310) earn less than 
+50% AMI, with an additional 17% earning between 50% 
+and 80% AMI. Over one-third (38%) of households earn 
+above 150% AMI. 
+Among renter households, 42% have incomes below 
+80% of AMI, compared to 30% among owner 
+households. Eleven percent of renters and 16% of 
+owners have incomes below 30% AMI. 
+Figure I-25 shows households by AMI level in Poncha 
+Springs. The community has just 559 households. About 
+34% of households fall below 100% AMI, while 44% earn 
+above 150% AMI. Given the very small number of renter 
+households, renter percentages by AMI should be 
+interpreted with caution, as they carry large margins of 
+error. 
+Figure I-26 shows households by AMI level in Salida. Over 
+half (54%) of Salida's 2,811 households fall below 100% 
+AMI — the highest share of any community — and one 
+in four earn less than 50% AMI. Among renters, 70% earn 
+below 100% AMI. 
+About 25% of all households (709) earn less than 50% 
+AMI, with an additional 18% earning between 50% and 
+80% AMI. Around one-third (31%) of households earn 
+above 150% AMI. 
+Among renter households, 59% have incomes below 
+80% of AMI, compared to 35% among owner 
+households. Almost one-fourth (23%) of renters have 
+incomes below 30% AMI. 
+Figure I-24. 
+Buena Vista 
+Households by 
+HUD AMI 
+Levels, 2024 
+ 
+Source: HUD AMI, CHFA, 
+ACS 5-year estimates, and 
+Root Policy Research. 
+ 
+ 
+Figure I-25. 
+Poncha 
+Springs 
+Households by 
+HUD AMI 
+Levels, 2024 
+ 
+Source: HUD AMI, CHFA, 
+ACS 5-year estimates, and 
+Root Policy Research. 
+ 
+Figure I-26. 
+Salida 
+Households by 
+HUD AMI 
+Levels, 2024 
+ 
+Source: HUD AMI, CHFA, 
+ACS 5-year estimates, and 
+Root Policy Research. 
+ 
+Household Income
+Buena Vista 874 743 1,617 100% 100% 100%
+Less than 30% AMI 95 119 214 11% 16% 13%
+30% to 50% AMI 65 32 96 7% 4% 6%
+50% to 80% AMI 206 69 274 24% 9% 17%
+80% to 100% AMI 117 70 186 13% 9% 12%
+100% to 120% AMI 24 77 101 3% 10% 6%
+120% to 150% AMI 15 109 124 2% 15% 8%
+150% AMI + 353 268 621 40% 36% 38%
+Renter Owners Total
+Number of Households Percent of  HH
+Renter Owners Total
+Household Income
+Poncha Springs 39 520 559 100% 100% 100%
+Less than 30% AMI 0 3 3 0% 1% 1%
+30% to 50% AMI 0 9 9 0% 2% 2%
+50% to 80% AMI 5 82 87 12% 16% 16%
+80% to 100% AMI 7 87 94 17% 17% 17%
+100% to 120% AMI 9 49 58 23% 9% 10%
+120% to 150% AMI 8 55 64 21% 11% 11%
+150% AMI + 10 234 245 27% 45% 44%
+Renter Owners TotalRenter Owners Total
+Number of Households Percent of  HH
+Household Income
+Salida 1,030 1,781 2,811 100% 100% 100%
+Less than 30% AMI 236 131 367 23% 7% 13%
+30% to 50% AMI 115 227 342 11% 13% 12%
+50% to 80% AMI 256 258 514 25% 15% 18%
+80% to 100% AMI 118 187 305 11% 11% 11%
+100% to 120% AMI 66 113 179 6% 6% 6%
+120% to 150% AMI 63 159 221 6% 9% 8%
+150% AMI + 177 705 882 17% 40% 31%
+Renter Owners TotalRenter Owners Total
+Number of Households Percent of  HH
+Page 26 of 244
+SECTION I. DEMOGRAPHIC TRENDS 
+ROOT POLICY RESEARCH S ECTION I, PAGE 17 
+Poverty. Poverty rates have generally declined across Chaffee County, 
+dropping from 12% in 2010 to 8% in 2024. Salida has the highest poverty 
+rate at 11%, down modestly from 13% in 2010. Unincorporated areas saw a 
+steady decline to 8%. Buena Vista's rate dropped sharply to 2% in 2019 
+before rising to 8% in 2024, likely reflecting small-sample variability. Data for 
+Poncha Springs are omitted due to large margins of error. 
+Figure I-27. 
+Poverty Rate by Community, 2010, 2019, and 2024 
+ 
+Note: Individual poverty rate, data for Poncha Springs are omitted due to large margins of error. 
+Source: ACS 5-year estimates and Root Policy Research. 
+As shown in Figure I-28, poverty rates in Chaffee County vary significantly by 
+demographic group. Residents with a disability face a rate (16.5%) more 
+than double the rate of those without a disability (6.9%). By household type, 
+single-parent households (23.4%) and nonfamily households (20.7%) 
+experience poverty at rates well above the countywide average of 8.3%. 
+Hispanic residents (14.4%) and residents of other races (12.1%) face poverty 
+at roughly twice the rate of non-Hispanic White residents (7.5%). Poverty 
+rates are relatively uniform across age groups. 
+Figure I-28. 
+Poverty Rates by Demographic Group, Chaffee 
+County, 2024 
+ 
+Source: ACS 5-year estimates and Root Policy Research. 
+Page 27 of 244
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION II. ECONOMIC TRENDS 
+The Economic Trends section provides context related to jobs, wages, employment rates, and commuting patterns to show 
+whether housing is meeting the needs of the workforce. 
+ 
+Page 28 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 1 
+JOBS & INDUSTRIES  
+According to data from the Colorado State Demography Office, local 
+government is the largest industry in Chaffee County, providing about 
+1,950 jobs, followed by accommodation and food services (1,669), 
+retail trade (1,592), construction (1,178), and professional services 
+(958). The strong presence of tourism-related sectors reflects the 
+county's outdoor recreation economy. Average wages vary 
+significantly; high-paying industries like utilities ($129,895) and 
+management ($105,357) are smaller, while larger industries like arts, 
+entertainment, and accommodation average the lowest wages, with 
+arts, entertainment and recreation at $28,070 and accommodation 
+and food services at $32,760. 
+ 
+Figure II-1. 
+Employment and Wages, Chaffee 
+County, 2024 
+ 
+Source: 
+Total employment from DOLA State Demography Office (SDO); 
+average annual wage from BLS QCEW. 
+Page 29 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 2 
+SDO does not provide job counts by jurisdiction. Job estimates 
+from the Longitudinal Employer-Household Dynamics (LEHD) 
+indicate that just under half of Chaffee County's jobs (47%) are 
+located in Salida and about one-fifth (22%) are in Buena Vista. 
+Poncha Springs accounts for a small share (3%). Figure II-2 
+shows the industry distribution of jobs in each community 
+based on LEHD data. Countywide, the largest industries are 
+accommodation and food services (16%), retail trade (14%), and 
+health care and social assistance (13%). The mix varies by 
+community: accommodation and food services is the largest 
+employer in Buena Vista (25%), health care and social assistance 
+leads in Salida (25%), and retail trade makes up the largest share 
+in Poncha Springs (31%)—though Poncha Springs' small job 
+base (290 jobs) makes its distribution more volatile. 
+Figure II-3. 
+Employment, Chaffee County, Jan 2010- March 2026 
+Note: Data represent the number of employed persons, not jobs. LAUS employment figures  
+are based on a residence concept — they count people living in the area who are 
+employed, regardless of where they work. 
+Source: Bureau of Labor Statistics Local Area Unemployment Statistics and Root Policy Research. 
+Figure II-2. 
+Industry Distribution, by Community, 2023 
+ 
+Note: Totals and industry rankings differ from the SDO data in Figure II-1 because LEHD counts covered 
+employment by work location and excludes self-employment, and classifies public education under 
+"Educational Services" rather than government. 
+Source: LEHD data on “All Jobs” based on work location, and Root Policy Research.  
+Figure II-3 shows monthly employment in Chaffee County. While employment 
+follows a pronounced seasonal pattern, peaking in the summer months and 
+falling in winter, the seasonality of the labor force has decreased since the 
+pandemic, as there has been a greater demand for labor during the off-peak 
+seasons. 
+Total 8,710 1,932 290 4,098
+Accommodation and Food Services 16.2% 24.7% 6.9% 15.1%
+Retail Trade 14.1% 17.4% 31.4% 12.9%
+Health Care and Social Assistance 13.1% 3.7% 1.4% 24.9%
+Public Administration 9.6% 14.9% 3.4% 13.2%
+Construction 9.3% 3.8% 5.2% 5.9%
+Educational Services 8.6% 11.0% 0.3% 10.3%
+Arts, Entertainment, and Recreation 6.6% 0.9% 1.7% 0.5%
+Prof., Scientific, and Technical Services 4.5% 3.0% 7.2% 5.0%
+Manufacturing 3.4% 7.9% 17.6% 1.6%
+Finance and Insurance 2.8% 4.7% 0.0% 1.8%
+Other Services 2.5% 1.6% 5.2% 2.9%
+Real Estate and Rental and Leasing 2.1% 1.4% 16.6% 1.6%
+Wholesale Trade 1.8% 1.3% 2.4% 0.5%
+Admin. & Support / Waste Mgmt. 1.8% 0.7% 0.7% 1.7%
+Information 0.9% 0.8% 0.0% 0.5%
+Utilities 0.8% 0.0% 0.0% 0.4%
+Transportation and Warehousing 0.6% 0.6% 0.0% 0.8%
+Mining, Quarrying, & Oil & Gas 0.5% 0.0% 0.0% 0.0%
+Mgmt. of Companies and Enterprises 0.5% 1.2% 0.0% 0.3%
+Agr., Forestry, Fishing & Hunting 0.3% 0.4% 0.0% 0.1%
+Chaffee County Buena Vista Poncha Springs Salida
+Page 30 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 3 
+Figure II-4 shows the distribution of employed residents by class of 
+worker—the type of organization that employs them—for each 
+community and for Colorado overall. Just over half of Chaffee County's 
+employed residents (51%) work for private companies, a smaller share 
+than statewide (66%). The county has higher rates of self-employment 
+and nonprofit employment: 20% of the county's workers are self-
+employed (compared to 11% statewide), and 13% work for private 
+nonprofits (compared to 8% statewide). Self-employment is highest in 
+unincorporated areas (25%), consistent with the prevalence of sole 
+proprietors, trades, and agricultural work in rural parts of the county; 
+this elevated rate also helps explain why the LEHD job counts in Figure 
+II-2 fall below the SDO totals in Figure II-1, since LEHD captures only 
+covered wage-and-salary employment. Across communities, Buena 
+Vista has the highest share of private-company workers (58%) and the 
+lowest self-employment rate (10%). 
+ 
+Figure II-4. 
+Employment Type by 
+Community, 2024 
+ 
+Note: 
+Civilian employed population 16 years and over. Class of 
+worker categorizes people by the type of ownership of their 
+employing organization. For employed people, the data 
+refer to the person's job during the previous week; for 
+those who worked two or more jobs, it refers to the job 
+where they worked the greatest number of hours.  
+ 
+Source: 
+ACS 5-year estimates and Root Policy Research.  
+ 
+ 
+Figure II-4. 
+Employment Type by 
+Community, 2024 
+ 
+Note: 
+Civilian employed population 16 years and over. Class of 
+worker categorizes people by the type of ownership of their 
+employing organization. For employed people, the data 
+refer to the person's job during the previous week; for 
+those who worked two or more jobs, it refers to the job 
+where they worked the greatest number of hours.  
+ 
+Source: 
+ACS 5-year estimates and Root Policy Research.  
+ 
+ 
+Page 31 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 4 
+Figure II-5 tracks proprietors' 
+income—earnings from sole 
+proprietorships and partnerships—
+as a share of total earnings from 
+2000 to 2024. Throughout most of 
+the period, proprietors' income 
+accounted for a larger share of 
+earnings in Chaffee County than in 
+Colorado as a whole. The county's 
+share rose from 13% in 2000 to a 
+peak of roughly 20% around 2019–
+2020 before decreasing to 17% in 
+2024, while the statewide share 
+rose more modestly from 12% to 
+15% over the same period. 
+Figure II-6 shows that both salaries 
+and non-farm proprietors’ income 
+grew substantially between 2000 
+and 2024, but wages and salaries 
+remain by far the largest source, 
+rising from about $150 million in 
+2000 to roughly $530 million in 
+2024. Nonfarm proprietors' income 
+grew at a faster rate, from about 
+$35 million to close to $130 million 
+over the same period. 
+Figure II-5. 
+Proprietors' Income as a Share 
+of Total Earnings, Chaffee 
+County and Colorado, 2000-
+2024 
+ 
+Source: 
+Bureau of Economic Analysis and Root Policy Research. 
+ 
+ 
+Figure II-6. 
+Total Wages and Salaries V. 
+Total Proprietor's Income, 
+Chaffee County, 2000-2024 
+ 
+Note: 
+Includes nonfarm proprietors' income. 
+ 
+Source: 
+Bureau of Economic Analysis and Root Policy Research. 
+ 
+Page 32 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 5 
+Figure II-7 compares private nonfarm employee compensation and the 
+distribution of nonfarm proprietors' income across industries, 
+highlighting that the two income sources are concentrated in different 
+parts of the economy. Employee compensation is concentrated in 
+retail trade (17%), accommodation and food services (16%), 
+construction (14%), and professional, scientific, and technical services 
+(11%), which together account for nearly 60% of all private nonfarm 
+compensation. Proprietors' income, by contrast, is led by real estate 
+and rental and leasing (20%), professional, scientific, and technical 
+services (15%), construction (14%), and other services (12%). The 
+contrast is sharpest in real estate, which generates just 2% of employee 
+compensation but the single largest share of proprietors' income 
+(20%), and in accommodation and food services, a major source of 
+wage compensation (16%) but a minor share of proprietors' income 
+(2%). 
+ 
+Figure II-7. 
+Distribution of Total 
+Private Nonfarm 
+Employee Compensation 
+and Proprietors' Income, 
+Chaffee County, 2024 
+ 
+Note: 
+Includes nonfarm proprietors' income. 
+ 
+Source: 
+Bureau of Economic Analysis and Root Policy 
+Research. 
+Page 33 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 6 
+Job and wage trends.  Figure II-8 
+below compares growth in jobs, households, 
+and housing units in Chaffee County between 
+2010 and 2024. Over this period, jobs grew far 
+faster than either households or the housing 
+supply: the number of jobs increased 51% (from 
+8,471 to 12,777), while households grew 27% 
+(from 7,595 to 9,639) and housing units grew 
+24% (from 10,030 to 12,464). Job growth 
+outpacing both household and housing growth 
+is a common indicator of housing pressure, 
+suggesting that local supply has not kept pace 
+with economic expansion. It is also worth 
+noting that housing units exceed households by 
+a substantial margin, reflecting the county's 
+large share of seasonal, recreational, and 
+otherwise vacant homes rather than an 
+available surplus. 
+Figure II-8. 
+Growth Comparison: 
+Jobs, Households, 
+and Housing Units, 
+Chaffee County, 
+2010-2024 
+ 
+Source: 
+DOLA State Demography Office (SDO) 
+and Root Policy Research. 
+ 
+Figure II-9 below shows job and wage trends by industry for 2010, 2019, 
+and 2024. Total employment grew 16% between 2019 and 2024 (from 
+about 11,000 to 12,777 jobs), while average annual wages rose 37% 
+(from $39,823 to $54,487). The service-providing sector grew slightly 
+faster than the goods-producing sector in jobs (16% versus 14%) and 
+substantially faster in wages (40% versus 22%). The largest numerical 
+job gains over the period occurred in administrative and waste services  
+(+419), public administration (+405), and professional and business 
+services (+337); the largest percentage gains were in management of 
+companies and enterprises (+675%, though from a very small base), 
+administrative and waste services (+129%), and professional and 
+business services (+47%). A handful of industries lost jobs, most 
+notably mining (-41%), health services (-17%), and transportation and 
+warehousing (-16%).
+ 
+Page 34 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 7 
+Figure II-9. 
+Job and Wage Trends by Industry, Chaffee County, 2010, 2019, and 2024 
+Source: DOLA State Demography Office (SDO) and Root Policy Research. 
+ 
+Job Sector 2019 2019
+Total Jobs 8,471 11,002 12,777 1,775 16% $28,696 $39,823 $54,487 $14,664 37%
+Goods Producing 1,107 1,461 1,660 199 14% $35,165 $51,721 $62,881 $11,159 22%
+Agriculture 95 101 113 12 12% $14,226 $20,851 $35,669 $14,818 71%
+Mining 13 37 22 -15 -41% $41,976 $75,982 $95,188 $19,207 25%
+Construction 805 1,071 1,176 105 10% $39,146 $57,299 $69,010 $11,711 20%
+Manufacturing 194 252 349 97 38% $28,430 $36,827 $49,001 $12,173 33%
+Service Providing 7,362 9,541 11,113 1,572 16% $27,723 $38,001 $53,230 $15,229 40%
+Utilities 49 54 62 8 15% $68,672 $93,525 $129,895 $36,370 39%
+Wholesale trade 179 294 285 -9 -3% $37,497 $40,635 $58,223 $17,588 43%
+Retail Trade 1,198 1,392 1,586 194 14% $24,037 $30,528 $38,708 $8,181 27%
+Transportation and warehousing 100 147 124 -23 -16% $27,464 $37,389 $41,166 $3,777 10%
+Information 85 117 118 1 1% $31,478 $47,541 $64,123 $16,583 35%
+Finance activities 277 247 263 16 6% $42,898 $62,506 $65,410 $2,904 5%
+Real estate 397 530 648 118 22% $29,895 $39,748 $45,703 $5,955 15%
+Professional and business services 494 716 1,053 337 47% $31,533 $62,035 $96,948 $34,913 56%
+Management of companies/enterprise 1 4 31 27 675% $124,460 $66,511 $105,357 $38,846 58%
+Administrative and waste services 169 326 745 419 129% $26,304 $32,579 $58,885 $26,305 81%
+Education 88 176 244 68 39% $20,516 $19,853 $34,771 $14,918 75%
+Health services 555 638 527 -111 -17% $31,998 $38,565 $51,683 $13,118 34%
+Arts and entertainment 548 794 814 20 3% $14,199 $23,307 $28,070 $4,763 20%
+Accommodation and food services 1,112 1,606 1,666 60 4% $14,327 $22,486 $32,760 $10,274 46%
+Other services, except public admin. 407 439 481 42 10% $20,210 $34,781 $47,132 $12,351 36%
+Public administration (federal, state, local) 1,704 2,061 2,466 405 20% $37,811 $49,597 $65,279 $15,682 32%
+$ Change % Change
+Total Employment
+Employment 
+Growth 2019-2024 Average Annual Wages
+Wage Growth 
+2019-2024
+2010 2024 # Change % Change 2010 2024
+Page 35 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 8 
+Occupations and wages. 
+Figure II-10 lists Chaffee County's most 
+common occupations (those with at 
+least 90 estimated jobs) along with 
+their median annual wages and the 
+Area Median Income (AMI) band each 
+wage represents for a one-person 
+household. Most of the county's 
+largest occupations are concentrated 
+in lower-wage service work: fast food 
+and counter workers (420 jobs), 
+cashiers (380), retail salespersons 
+(290), waiters and waitresses (230), 
+and restaurant cooks (150) top the list, 
+with median wages between roughly 
+$34,000 and $46,000—generally 
+equivalent to 30% to 80% AMI for a 
+single-person household.  
+Higher-paying occupations employ 
+fewer workers; registered nurses 
+($98,247), general and operations 
+managers ($103,280), and sales 
+representatives of services ($78,390), 
+for example, fall at 100% AMI or above, 
+but each accounts for a small share of 
+total employment. Because most of 
+the county's highest-employment 
+occupations pay wages in the 30% to 
+80% AMI range, a large share of the 
+local workforce earns too little to 
+afford market-rate housing on a single 
+income. 
+Figure II-10. 
+Median Annual 
+Wage of Top 
+Occupations, 
+Chaffee County, 
+2025 
+ 
+Note: 
+OEWS wages are straight-
+time gross pay, exclusive of 
+premium pay; base rate, 
+cost-of-living allowances, 
+guaranteed pay, hazardous-
+duty pay, incentive pay 
+including commissions and 
+production bonuses, and 
+tips are included, while 
+overtime pay, severance 
+pay, shift differentials, 
+nonproduction bonuses, 
+employer cost for benefits, 
+and tuition reimbursements 
+are excluded. OEWS reports 
+a straight-time rate and 
+annualizes it to a full-time-
+equivalent (hourly × 2,080). 
+List includes occupations 
+with estimated employment 
+over 90 jobs. 
+ 
+Source: 
+Occupational Employment 
+and Wage Statistics (OEWS) 
+by the Colorado Department 
+of Labor and Employment 
+(CDLE), HUD AMI, CHFA, and 
+Root Policy Research. 
+ 
+Fast food and counter workers 420 $34,084 30%-50%
+Cashiers 380 $36,129 50%-60%
+Retail salespersons 290 $38,342 50%-60%
+Registered nurses 240 $98,247 120%-140%
+Waiters and waitresses 230 $46,382 60%-80%
+Cooks, restaurant 150 $38,827 50%-60%
+First-line supervisors of retail sales workers 150 $56,474 60%-80%
+General and operations managers 140 $103,280 140%-150%
+Office clerks, general 140 $54,901 60%-80%
+Stockers and order fillers 140 $45,629 60%-80%
+First-line supervisors of food preparation and 
+serving workers 130 $48,832 60%-80%
+Business operations specialists, all other 100 $73,510 100%-120%
+Bartenders 100 $35,814 30%-50%
+Maids and housekeeping cleaners 100 $36,800 50%-60%
+Secretaries and administrative assistants, except 
+legal, medical, and executive 100 $49,022 60%-80%
+Carpenters 100 $66,118 80%-100%
+Construction laborers 100 $50,696 60%-80%
+Elementary school teachers, except special 
+education 90 $50,192 60%-80%
+Janitors and cleaners, except maids and 
+housekeeping cleaners 90 $45,537 60%-80%
+Amusement and recreation attendants 90 $33,600 30%-50%
+Sales representatives of services, except advertising, 
+insurance, financial services, and travel 90 $78,390 100%-120%
+First-line supervisors of office and administrative 
+support workers 90 $66,761 80%-100%
+Bookkeeping, accounting, and auditing clerks 90 $47,490 60%-80%
+Maintenance and repair workers, general 90 $45,266 60%-80%
+Employment
+Median Annual 
+Wage
+AMI 
+(1-person)
+Page 36 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 9 
+Workers per household.  
+Figure II-11 shows the distribution of 
+workers per household by household 
+size. In Chaffee County, smaller 
+households predominate—one- and two-
+person households together account for 
+76% of all households—and a large share 
+of these have no workers: 54% of one-
+person households and 41% of two-
+person households report no workers, 
+well above the statewide shares of 42% 
+and 25%, respectively. This reflects the 
+county's older, more retirement-oriented 
+population and is most pronounced in 
+unincorporated areas, where 58% of one-
+person and 50% of two-person 
+households have no workers. Larger 
+households, by contrast, are 
+overwhelmingly multi-earner: 78% of 
+four-or-more-person households have 
+two or more workers. 
+Job projections.  Forecasts from 
+DOLA SDO indicate continued job growth 
+in the county, with an expected total 
+employment of 13,119 by 2036 (6% 
+increase from 2026). Over the next 10 
+years, households are expected to 
+increase faster than jobs. 
+Figure II-11. 
+Distribution of 
+Workers per 
+Household by 
+Size, by 
+Community, 2024 
+ 
+Source: 
+ACS 5-year estimates and Root 
+Policy Research. 
+ 
+Figure II-12. 
+Job and Household 
+Forecasts, Chaffee 
+County, 2026-2050 
+ 
+Note: 
+Job estimates and job forecasts vary 
+due to slight variations in 
+methodologies. 
+ 
+Source: 
+DOLA State Demography Office 
+(SDO) and Root Policy Research. 
+1-person household 2,659 343 147 950 1,219 679,604
+No workers 54% 47% 41% 53% 58% 42%
+1 worker 46% 53% 59% 47% 42% 58%
+ 2-person household: 4,804 559 351 1,144 2,750 855,536
+No workers 41% 38% 14% 28% 50% 25%
+1 worker 19% 0% 13% 21% 23% 30%
+2 workers 40% 62% 74% 51% 27% 46%
+3-person household: 1,024 279 16 371 358 350,359
+No workers 2% 0% 0% 0% 7% 7%
+1 worker 60% 67% 44% 58% 57% 30%
+2 workers 33% 27% 0% 37% 36% 46%
+3 workers 4% 6% 56% 5% 0% 17%
+4-or-more-person 
+household: 1,376 436 45 346 549 488,719
+No workers 1% 0% 0% 1% 3% 3%
+1 worker 21% 6% 9% 19% 34% 27%
+2 workers 38% 47% 24% 31% 36% 47%
+3 or more workers 40% 47% 67% 49% 27% 23%
+Chaffee 
+County
+Buena 
+Vista
+Poncha 
+Springs ColoradoSalida Unincorp.
+Page 37 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 10 
+COMMUTE PATTERNS 
+Figure II-13 illustrates the commuting patterns for Chaffee 
+County and its communities based on LEHD primary job data. 
+In 2023, 37% of the jobs in Chaffee County were filled by 
+workers living outside the county, an increase from 28% in 
+2010. This means that 63% of the jobs were held by county 
+residents. Out-commuting is even more prevalent, with 42% 
+of the county’s working residents commuting to jobs outside 
+Chaffee County, up from 40% in 2010.  
+At the community level, commuting rates are significantly 
+higher, as workers often cross municipal boundaries. In 2023, 
+in-commuters filled 81% of the jobs in Buena Vista, 66% in 
+Salida, and 95% in Poncha Springs. Additionally, 70% of 
+Buena Vista residents and 55% of Salida residents worked 
+outside their town of residence.  
+It is important to note that these LEHD figures reflect job and residence locations 
+and do not account for remote work, so the commuting numbers represent an 
+upper boundary. 
+Figure II-13. 
+Commuting Patterns, 
+by Community, 2010, 
+2019, and 2023 
+Note: Primary jobs. LEHD data shows 
+the location of the job and place of 
+residence of workers, but does not 
+account for remote work patterns. 
+ 
+Source: US Census Bureau Longitudinal 
+Employer-Household Dynamics (LEHD) 
+and Root Policy Research. 
+ 
+Figures II-14 through II-17 compare the number of primary jobs 
+located in each area (by industry) with the number of employed 
+residents working in that industry, to assess which industries 
+draw in commuters and which send residents elsewhere to 
+work. Where jobs exceed resident workers, an area imports 
+labor in that sector; where resident workers exceed jobs, 
+residents commute out of the area or work remotely. 
+At the county level (Figure II-14), employed residents (primary 
+workers) outnumber local primary jobs across the largest 
+industries—including accommodation and food services, retail 
+trade, and health care and social assistance—indicating that 
+Chaffee County is a modest net exporter of labor. In other 
+words, somewhat more residents work in these sectors than 
+there are local jobs to fill them, so a share of the county's workforce 
+commutes to jobs outside the county or works remotely. 
+The community-level figures reveal sharper imbalances. Salida (Figure II-15) 
+is the county's dominant employment center, most strikingly in health care 
+and social assistance, where local jobs far outnumber resident workers in the 
+sector—reflecting the city's role as the regional medical hub—along with 
+public administration, retail trade, and education. Buena Vista (Figure II-16) 
+similarly draws in workers for accommodation and food services, retail trade, 
+and public administration, while its residents commute out for health care, 
+arts and entertainment, and professional services. Poncha Springs (Figure II-
+17), with a very small employment base, concentrates its limited jobs in retail 
+trade, manufacturing, and real estate and imports nearly all of its workers, 
+while most of its resident workers are employed elsewhere.
+Percent of jobs filled by workers who live outside the area
+Chaffee County 28% 34% 37%
+Buena Vista 77% 79% 81%
+Poncha Springs 97% 92% 95%
+Salida 58% 60% 66%
+Percent of workers who work outside the area
+Chaffee County 40% 39% 42%
+Buena Vista 67% 69% 70%
+Poncha Springs 99% 95% 97%
+Salida 54% 53% 55%
+2010 2019 2023
+Page 38 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 11 
+Figure II-14. Figure II-15. 
+Primary Jobs v. Primary Workers, Chaffee County, 2023 Primary Jobs v. Primary Workers, Salida, 2023 
+  
+Note: Primary jobs. LEHD data shows the location of the job and place of residence of workers but does not account for remote work patterns. 
+Source: US Census Bureau Longitudinal Employer-Household Dynamics (LEHD) and Root Policy Research. 
+Page 39 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 12 
+Figure II-16. Figure II-17. 
+Primary Jobs v. Primary Workers, Buena Vista, 2023 Primary Jobs v. Primary Workers, Poncha Springs, 2023 
+  
+Note: Primary jobs. LEHD data shows the location of the job and place of residence of workers but does not account for remote work patterns. 
+Source: US Census Bureau Longitudinal Employer-Household Dynamics (LEHD) and Root Policy Research. 
+Page 40 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 13 
+Figure II-18 combines the commuting flows from the preceding figures 
+with worker wage levels, distinguishing residents who live and work in 
+the same area, residents who commute out to external jobs, and 
+outside workers who commute in to fill local jobs.  
+Residents who commute out of Chaffee County or work remotely tend 
+to earn more than those who live and work locally. Among the county's 
+3,614 out-commuting residents, 65% earn more than $3,333 per 
+month, compared to 52% of the 5,054 residents who both live and work 
+in the county—and the live-and-work group carries the largest share of 
+low-wage workers (21% earning $1,250 per month or less, versus 13% 
+of out-commuters).  
+The same pattern holds in Buena Vista, where 63% of out-commuting 
+residents earn more than $3,333 per month compared to 43% of those 
+who live and work in town. In Salida—the county's largest job center, 
+drawing nearly 2,500 in-commuters—wage distributions are more 
+even across the three groups, with roughly 57% to 60% of workers in 
+each earning more than $3,333 per month.
+ 
+Figure II-18. 
+Wage Distribution and 
+Commuting, by Community, 2023 
+ 
+Note: 
+Primary jobs. LEHD data shows the location of the job and 
+place of residence of workers, but does not account for 
+remote work patterns.   
+ 
+Source: 
+US Census Bureau Longitudinal Employer-Household 
+Dynamics (LEHD) and Root Policy Research. 
+Chaffee County 5,054 100% 3,614 100% 2,923 100%
+$1,250 per month or less 1,070 21% 469 13% 511 17%
+$1,251 to $3,333 per month 1,368 27% 802 22% 741 25%
+More than $3,333 per month 2,616 52% 2,343 65% 1,671 57%
+Buena Vista 339 100% 786 100% 1,450 100%
+$1,250 per month or less 87 26% 116 15% 281 19%
+$1,251 to $3,333 per month 107 32% 177 23% 368 25%
+More than $3,333 per month 145 43% 493 63% 801 55%
+Poncha Springs 13 100% 431 100% 260 100%
+$1,250 per month or less 2 15% 61 14% 45 17%
+$1,251 to $3,333 per month 2 15% 118 27% 86 33%
+More than $3,333 per month 9 69% 252 58% 129 50%
+Salida 1,294 100% 1,564 100% 2,472 100%
+$1,250 per month or less 248 19% 289 18% 364 15%
+$1,251 to $3,333 per month 314 24% 373 24% 629 25%
+More than $3,333 per month 732 57% 902 58% 1,479 60%
+External Jobs filled
+by ResidentsLive and Work
+Internal Jobs Filled by 
+Outside Workers
+Number Percent Number Percent PercentNumber
+Page 41 of 244
+SECTION II. ECONOMIC TRENDS 
+ROOT POLICY RESEARCH S ECTION II, PAGE 14 
+Commuting origins/destinations. At the county level, 
+most in-commuters are coming from Fremont County and El Paso 
+County, followed by Jefferson County. Out commuting flows to Denver 
+County, followed by El Paso County, and Arapahoe County. 
+Within Chaffee County, Salida functions as the hub for commuting 
+between communities, both sending and receiving the largest 
+numbers of workers. Buena Vista's in-commuters come primarily from 
+Salida, Colorado Springs, and nearby unincorporated communities 
+such as Johnson Village and Nathrop, while its out-commuting 
+residents most often work in Salida, Denver, and Colorado Springs. 
+Poncha Springs—with very small commuter counts—exchanges most 
+of its workers with adjacent Salida, which is both the leading origin of 
+its in-commuters and the leading destination of its out-commuters. In 
+Salida, the largest shares of in-commuters travel from Poncha Springs, 
+and Buena Vista, while its out-commuting residents most often work in 
+Denver, Colorado Springs, Poncha Springs, and Buena Vista. 
+Across all three communities, out-of-county commuting is oriented 
+toward the Front Range—particularly Denver and Colorado Springs, 
+with smaller flows to Aurora, Lakewood, and Pueblo. 
+Work from home.  The COVID-19 pandemic increased the 
+share of workers working from home across the county, as shown in 
+Figure II-19.  After holding steady at 13% to 14% before the pandemic, 
+the share of Chaffee County's employed residents working from home 
+nearly doubled to 25% by 2024. Increases were largest in Salida (from 
+15% in 2019 to 28% in 2024) and Poncha Springs (3% to 27%), with 
+more moderate gains in Buena Vista (9% to 16%). 
+Figure II-19. 
+Share of Employed Population Working from Home, by 
+Community, 2010, 2019, and 2024 
+Note: Includes workers age 16 and older.  
+Source: ACS 5-year estimates and Root Policy Research. 
+ 
+Page 42 of 244
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION III. HOUSING INVENTORY 
+The section discusses characteristics of the county’s current housing supply, including diversity of housing types, the age of 
+housing stock, and housing production trends. It also provides an overview of unique submarkets including manufactured 
+housing, short-term rental market; and designated affordable housing inventory.
+ 
+Page 43 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 1 
+HOUSING SUPPLY  
+Chaffee County has close to 12,500 housing units, up 15% between 
+2019 and 2024. Long-term trends in the county (2010-2024) show 
+economic growth outpacing housing production, but more recent 
+trends (2019-2024) indicate housing production is more on pace with 
+job growth (16%).   
+Figure III-1 illustrates the changes in housing units since 2010, with a 
+particular emphasis on developments since 2019. As of 2024, 
+incorporated areas represent 51% of the county's housing units, an 
+increase from 46% in 2010. Buena Vista and Salida both experienced a 
+15% increase in units since 2019, and their share of the county's 
+housing units has remained stable. In contrast, Poncha Springs saw a 
+74% increase since 2019, outpacing both Buena Vista and Salida 
+growth rates, and surpassing Buena Vista in the number of units 
+added, 339 new units compared to Buena Vista's 233 units. 
+ 
+Figure III-1. 
+Housing Units by 
+Community, 2010 to 
+2024 
+ 
+Source: 
+Colorado State Demographer and 
+Root Policy Research. 
+ 
+ 
+Unit Change 2019-24 
+Charted (#)
+Jurisdiction
+Chaffee County 10,030 10,806 12,464 100% 100% 100% 1,658 15%
+Incorporated Areas 4,644 5,271 6,341 46% 49% 51% 1,070 20%
+Buena Vista 1,381 1,552 1,785 14% 14% 14% 233 15%
+Poncha Springs 362 457 796 4% 4% 6% 339 74%
+Salida 2,901 3,262 3,760 29% 30% 30% 498 15%
+Unincorporated Areas 5,386 5,535 6,123 54% 51% 49% 588 11%
+Pct. 
+Housing Units % of County
+Unit Change 
+2019-2024
+2010 2019 2024 2010 2019 2024 Num. 
+0 600 1,200 1,800
+Page 44 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 2 
+Housing production.  Residential development permitting 
+activity in Chaffee County is summarized in Figure III-2. Data reflect 
+Census SOCDS data, which differ from local sources, but offer 
+consistent comparability over a long period. From 2021 to 2024, permit 
+activity in the county averaged 300 permits per year, with single-family 
+homes accounting for about 98% of the units permitted. Permitting 
+was robust from the mid-1990s to the early 2000s, then sharply 
+declined during the Great Recession before gradually recovering 
+throughout the 2010s. In 2021, permit activity surged to a record high 
+of approximately 350 permits and has remained elevated since then. 
+However, future activity may slow down, as permit numbers dropped 
+in 2022. This slowdown is primarily attributed to higher interest rates, 
+which are constraining development financing. 
+Local permit data.  Local permit records from Buena Vista, 
+Salida, and unincorporated Chaffee County show higher permitting 
+activity. From 2023 through 2025, these jurisdictions permitted an 
+average of about 340 units per year, compared with about 250 in the 
+Census data. In 2024, local jurisdictions permitted about 430 units, 
+nearly 40% of them multifamily, driven by Buena Vista (85 units) and 
+Salida (81 units). In 2025, local permitting fell to about 230 units, which 
+is consistent with the slowdown seen in the Census data. No data were 
+available for Poncha Springs, so the local totals understate countywide 
+activity.  
+Figure III-2. 
+Building permits by Units 
+in Structure, Chaffee 
+County, 1980-2024 
+ 
+Source: 
+U.S. Census Building Permits Survey and Root 
+Policy Research. 
+ 
+ 
+ 
+Page 45 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 3 
+HOUSING TYPE AND OCCUPANCY 
+This section summarizes the characteristics of Chaffee County’s 
+housing stock, including housing type, age, and condition. It 
+additionally provides an overview of the residents occupying housing 
+in Chaffee County by household characteristics. 
+Unit type.  Households’ housing needs and preferences change 
+over time with fluctuations in household composition, income, 
+employment, and age. A variety of housing types is ideal, regardless of 
+the geographic area, to accommodate changing needs. Diversity in 
+housing types is easier to achieve in faster growing, urban areas where 
+density, volume building, and financial resources can be leveraged.  
+Single family detached homes are by far the most common unit type 
+in Chaffee County, accounting for 81% of all units in 2024—up from 
+74% in 2010 and well above the statewide share of 61% (Figure III-3). 
+Multifamily housing (structures with five or more units) remains scarce, 
+making up just 4% of the county's stock compared to 23% statewide, 
+with the largest shares in Buena Vista (11%) and Salida (8%). Attached 
+and "plex" housing—townhomes, duplexes, and similar small 
+structures—is a small but growing segment, most notably in Poncha 
+Springs, where it rose from 15% of units in 2010 to 32% in 2024, 
+although the margins of error are large and the estimates should be 
+interpreted with caution. The share of mobile and manufactured 
+homes fell sharply over the period, from 16% of the county's stock in 
+2010 to 5% in 2024—a notable trend given that manufactured homes 
+are an important source of naturally occurring affordable housing. 
+ 
+Figure III-3. 
+Units in Structure, 2010 and 2024 
+ 
+Source: ACS 5-year estimates and Root Policy Research.
+Page 46 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 4 
+Renters and owners tend to occupy 
+different structure types with owners much 
+more likely to live in single family detached 
+units and renters more likely to live in 
+attached housing products (Figure III-4). 
+Renters occupy a more varied mix: 
+countywide, 60% of renters live in single-
+family detached homes, 15% in attached 
+structures, 15% in multifamily buildings, 
+and 10% in mobile homes. Salida has the 
+most diverse rental stock (42% single-
+family detached, 27% attached, 23% 
+multifamily, and 7% mobile homes), 
+reflecting its more urban character, while 
+in unincorporated areas, renters are split 
+between single-family detached homes 
+(72%) and mobile homes (28%). 
+Figure III-4. 
+Units in Structure by Tenure, by Community, 2024 
+ 
+Source: ACS 5-year estimates and Root Policy Research.
+ 
+Page 47 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 5 
+Age of housing stock.  Chaffee County's 
+housing stock is comparatively young: the largest 
+share was built between 1990 and 2009 (about 
+30%), and roughly 23% has been built since 2010—
+above the statewide rate of 16% (Figure III-5). 
+Construction patterns vary considerably across 
+communities, however: 
+ Salida stands out for its much older stock, 
+with nearly 40% of its units built before 
+1950—by far the highest pre-1950 share in 
+the county—reflecting its historic townsite.  
+ Poncha Springs has the newest stock, with 
+about 40% of its units built since 2010.  
+ Buena Vista and unincorporated areas have 
+housing concentrated in the 1970-to-2009 
+period, with very little built before 1950 in 
+unincorporated areas (about 3%).  
+The county's older homes—particularly Salida's 
+substantial pre-1950 stock—are increasingly likely 
+to need condition improvements, and units built 
+before 1978 carry a higher likelihood of lead-based 
+paint, which can pose health risks. 
+Figure III-5. 
+Housing Units by Year Built, by Community 
+Source: ACS 5-year estimates and Root Policy Research. 
+Page 48 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 6 
+Housing condition. Units in poor condition are typically 
+naturally affordable—and are oftentimes the only choice for low 
+income households in very tight markets. Preserving and improving 
+these units can be a critical part of housing strategies. 
+Data on the number of units in poor condition and needed 
+improvements are difficult to obtain. ACS data estimate occupied 
+housing units lacking complete kitchen facilities and units lacking 
+plumbing facilities and can as such be used to identify units that are at-
+risk of demolition and loss. According to ACS data, 0.8% of occupied 
+housing units in Chaffee County lack complete kitchen facilities, while 
+0.1% of occupied units lack plumbing facilities. A single unit may be 
+counted in each of these estimates if it lacks both plumbing and a 
+complete kitchen. 
+Vacancy. According to ACS data, 14% 
+of Chaffee County's housing units were 
+vacant in 2024 (about 1,619 units), with the 
+rate highest in unincorporated areas (19%) 
+and lowest in Buena Vista (4%). This 
+headline vacancy rate substantially 
+overstates the housing available to local 
+residents, however, because the 
+overwhelming majority of vacant units are 
+held for seasonal, recreational, or 
+occasional use—87% countywide, and as 
+high as 93% in Salida—reflecting the 
+county's large second-home and short-
+term rental presence. Very little of the 
+vacant stock is actually on the market: just 
+4% of vacant units countywide are listed for 
+rent, and essentially none are for sale. 
+The State Demographer’s Office estimates a higher share of vacant units, with countywide vacancy 
+at 23%, 19% in Buena Vista, 13% in Poncha Springs, 16% in Salida, and 29% in unincorporated parts 
+of the county, but does not provide the distribution of vacancy reasons. 
+Figure III-6.  
+Vacant Units and Distribution of Reasons for Vacancy by Community, 2024 
+Note:  Vacant units are housing units that are unoccupied at the time of the American Community Survey (ACS) interview, including units 
+available for rent or sale, seasonal or occasional-use units, and other vacant units. Units temporarily occupied by people whose usual 
+residence is elsewhere are also classified as vacant. 
+Source: ACS 5-year estimates and Root Policy Research.
+ 
+Chaffee County 14% 1,619 87% 4% 0% 0% 0% 9%
+Buena Vista 4% 59 80% 0% 0% 0% 0% 20%
+Poncha Springs 11% 67 75% 0% 0% 0% 0% 25%
+Salida 10% 320 93% 0% 0% 0% 0% 7%
+Unincorporated 19% 1,173 86% 6% 0% 0% 0% 9%
+For sale
+Sold, not 
+occupied Other
+Distribution of Vacant Units by StatusVacant Units
+% of Total 
+Units
+# Vacant 
+Units 
+Seasonal/ 
+recreational For Rent
+Rented, not 
+occupied
+Page 49 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 7 
+SPECIALTY SUBMARKETS
+This section provides a deeper dive on unique housing types within 
+Chaffee County: manufactured/mobile homes; short-term rentals; and 
+publicly assisted (income-restricted) housing.  
+Manufactured housing market.  Manufactured homes 
+(mobile homes)1 are a form of naturally occurring affordable housing 
+that allow lower income residents to become homeowners. Although 
+this creates more housing opportunity for these households, 
+manufactured homes that are located in “mobile home parks” or 
+manufactured housing communities can also be an environment of 
+uncertainty. In such cases, mobile home owners do not own the land 
+underneath their home and pay a rent—around $635 per month2—for 
+the lot. This subjects tenants to the volatility of the housing market that 
+could make monthly payments unaffordable and is complicated by 
+limitations on mobility—moving manufactured homes is often cost-
+prohibitive.  
+Increasing home and land values in Colorado also gives mobile home 
+park owners a large incentive to sell, putting additional pressure on 
+tenants who would need to relocate their homes. Many homeowners 
+become displaced because they either cannot find somewhere to 
+move their mobile home, or their home is too old to be relocated. 
+Mobile home owners have increasingly limited options. 
+ 
+1 Throughout this report the terms “mobile home” and manufactured home” are used 
+interchangeably. Technically “mobile home” refers to homes built before 1976 and 
+“manufactured housing” applies for units built after 1976. However, the terms are 
+commonly used interchangeably, and we have followed that practice here. 
+In response to concerns about rapidly increasing lot rents, mobile 
+home owners across the country are becoming interested in 
+purchasing their mobile home parks as co-ops and/or in partnership 
+with non-profits. Of the 19 registered mobile home parks in Chaffee 
+County, two: River Village, a 67-lot park in Buena Vista, and Mountain 
+Valley Mobile Home Park, an 18-lot park in Poncha Springs, are the only 
+non-profit owned communities, and are not yet converted Resident 
+Owned Communities. The Mountain Valley park is almost all owner-
+occupied, and River Village is about 50% owner-occupied—the Chaffee 
+Housing Authority currently leases the remaining units for Chaffee 
+Housing Trust, and the housing trust is adding 5 new manufactured 
+homes to the park this year.  
+Mobile home supply and cost. Assessor data identified 725 
+manufactured homes in Chaffee County, and the DOLA mobile home 
+park registry estimates 531 lots located in mobile home parks. 
+According to assessor records, 371 (51%) are older than 1977. The 
+average value of mobile homes in Chaffee County is $51,016, and the 
+median value is $37,830.
+2 Lot rent data are scarce. This estimate is based on lot rent info disclosed on public 
+websites. Based on listings from parks containing 77% of lots in the county, the average lot 
+rent is $635 (the maximum is $900 and the minimum is $325). 
+Page 50 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 8 
+Figure III-8. Mobile Home Parks, Chaffee County, 2025 
+ 
+Note: All registered mobile home parks in Chaffee County are visible in the figure. 
+Source: Colorado DOLA Department of Housing Mobile Home Registry. 
+Page 51 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 9 
+Population profile.  Compared to other 
+households in the county, mobile/manufactured 
+home households are substantially more likely to 
+identify as Hispanic (18% of manufactured home 
+households compared to 7% of households overall 
+and just 6% of stick-built single family home 
+households).  
+Manufactured home residents are predominantly 
+within the working-age population, with 74% aged 
+between 35 and 64, compared to around half of all 
+households. Additionally, only 11% of manufactured 
+home occupants are aged 65 or older. Furthermore, 
+a significant portion of these residents live alone, as 
+single-person households account for 50% of 
+manufactured home occupants, compared to 27% 
+of all households. 
+Figure III-9. 
+Characteristics of 
+Manuf. Home 
+Occupants, 2024 
+ 
+Source: 
+ACS 5-year estimates and Root 
+Policy Research. 
+Short-term rental market.  This section provides a high-
+level overview of short-term rentals, typically defined as residential 
+units rented for less than 30 days at a time. Short-term rentals, or STRs, 
+play a unique role within housing markets because they can provide 
+economic benefits (to homeowners through rental revenue and local 
+governments through sales tax/tourism revenue) but may disrupt the 
+long-term rental market if they account for a substantial portion of the 
+total housing stock (this is most common in tourist-driven economies 
+such as mountain resort communities in Colorado).  
+Figure III-10 on the next page shows active short-term rental listings 
+and their monthly revenue in Chaffee County from mid-2023 through 
+May 2026. The number of active listings fluctuates seasonally between 
+roughly 700 and 900, peaking in July and August and easing in winter. 
+In 2025, the peak was 908 units, up from 858 in 2023. Monthly revenue 
+per listing peaks near $6,000 to $6,800 during the summer months and 
+falls to about $2,000 to $2,500 in winter and shoulder seasons—a 
+pattern consistent with the county's summer outdoor recreation 
+economy. 
+Tenure
+Owners 74% 81% 50%
+Renters 26% 19% 50%
+Age of Householder
+15 to 34 17% 16% 15%
+35 to 64 49% 47% 74%
+65 and over 34% 37% 11%
+Race/Ethnicity
+Non-Hispanic White 88% 88% 74%
+Hispanic 7% 6% 18%
+Other racial minority 6% 5% 8%
+Household Type
+Family household 62% 65% 50%
+Non-family household 38% 35% 50%
+Household Size
+1-person household 27% 23% 50%
+2- or 3-person household 59% 63% 48%
+4-or-more person household 14% 15% 2%
+All 
+Households
+Single Family 
+Homes
+Manufactured 
+Homes
+Page 52 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 10 
+Figure III-10. 
+Active STR Listings and Revenue, Chaffee County 
+ 
+Note: Monthly revenue is the average revenue per listing. 
+Source: AirDNA and Root Policy Research. 
+Figure III-11 summarizes the county's STR market by area, dividing the county 
+into two AirDNA submarkets that together cover essentially all of Chaffee 
+County: a Buena Vista market area spanning the northern half of the county 
+(including Buena Vista, Johnson Village, Nathrop, Granite, and the 
+surrounding unincorporated areas around the Collegiate Peaks) and a Salida 
+market area covering the southern half (including Salida, Poncha Springs, 
+Maysville, the US 50/Monarch corridor, and Mears Junction).  
+There are 779 active STRs in Chaffee County as of May 2026—almost all of 
+them whole-home rentals (98%)—accounting for an estimated 6.0% (during 
+the low season) to 7.9% (during the high season) of total housing units. The 
+share is higher in the Buena Vista area (6.4% to 9.9%) and somewhat lower in 
+the Salida area (5.4% to 6.4%). These levels are notable: STR market impacts 
+are generally negligible below 5% of the housing stock, warrant closer 
+monitoring at 5% or more, and grow more pronounced as the share 
+approaches 10%. The availability data underscore that most of these units are 
+dedicated rather than occasional: 46% of county STRs are available 271 to 365 
+nights per year (53% in the Salida area), while only 16% are available 90 nights 
+or fewer—meaning a large share operate as full-time short-term rentals or 
+are converted to mid-term rentals, offering 6–7-month leases.  
+Figure III-11. 
+Active Short Term Rentals by Market Area, Chaffee County, 2026 
+ 
+Note: AirDNA defines an “active” listing as one that has advertised on AirBNB and/or VRBO in the past 12 months (listings are de-duplicated across platforms). 
+Source: AirDNA and Root Policy Research. 
+STR Market Area
+Chaffee County 779 98% 6.0% to 7.9%
+Buena Vista 418 98% 6.4% to 9.9%
+Salida 361 97% 5.4% to 6.4%
+Annual Availability
+All
+Active STRs
+Whole Home
+STRs
+STRs as a % of Total 
+Housing Units
+16%
+17%
+15%
+22%
+25%
+18%
+17%
+19%
+14%
+46%
+40%
+53%
+1-90
+nights
+91-180
+nights
+181-270
+nights
+271-365
+nights
+Page 53 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 11 
+Affordable (publicly assisted) inventory.  As the 
+rental market has become more competitive, low income renters 
+find it increasingly challenging to find affordable market rate units. 
+Limited naturally occurring affordable housing contributes to the 
+need for publicly assisted rental housing—housing that receives 
+some type of public subsidy in exchange for occupant income 
+restrictions.  
+The National Housing Preservation Database (NHPD) tracks 
+federally assisted, designated affordable rental housing units. 
+According to NHPD data and as shown in Figure III-12, there were 
+259 designated affordable rental housing units in Chaffee County 
+in 2025—accounting for about 3% of the total occupied housing 
+stock and 10% of the rental stock.  
+Low Income Housing Tax Credits (LIHTC) fund 81% of designated 
+affordable rental units in the county (including LIHTC alone and 
+LIHTC paired with a HUD or USDA subsidy).  
+There are also about 46 Housing Choice Vouchers (HCVs) in use in 
+Chaffee County, with which income-qualified recipients (earning 
+50% AMI or less) can find market-rate units that meet their needs. 
+It should be noted that vouchers and units are not necessarily 
+additive as vouchers can be used in subsidized units, creating 
+overlapping subsidies to support extremely low income families.  
+Cumulatively, 12% of federally assisted, designated affordable 
+units (30 affordable units) in the county will see their affordability 
+subsidies expire in the next 10 years. When subsidies expire, the 
+owners of those properties are able to remove income and rent 
+restrictions, making those buildings at risk of becoming market-
+rate (depending on ownership structure and preservation 
+opportunities). 
+Figure III-12. 
+Federally Assisted Affordable Rental Units by Funding 
+Source, by Community, 2025 
+ 
+Source: National Housing Preservation Database and Root Policy Research. 
+In addition to the federally assisted units, local jurisdictions and partners 
+have created a stock of deed restricted and affordable housing, 
+summarized in Figure III-13. These 158 units—122 rental and 36 
+ownership—are concentrated in Salida and Buena Vista and serve a 
+broader range of incomes, with restrictions spanning 30% to 140% AMI. 
+Most are recent additions: The Midland in Buena Vista, completed in 2024, 
+added 60 restricted rental units (and an on-site childcare center), and 
+Jane's Place in Salida contributes both deeply affordable family units and 
+Molly House, a four-unit bridge housing property serving households 
+transitioning out of homelessness. Others reflect preservation, most 
+notably the 505 Apartments, where affordability covenants were placed on 
+existing units. Several properties are leased below their maximum 
+allowable AMI—the 505 Apartments units are currently leased at 80% AMI 
+despite a covenant permitting up to 140%—so the effective affordability of 
+this inventory is somewhat deeper than the covenants alone suggest.  
+Affordable developments 6 1 2 3
+Total Affordable Units 259 88 43 128
+HUD program only 50 0 0 50
+LIHTC only 121 48 43 30
+LIHTC & HUD 40 40 0 0
+LIHTC & USDA 48 0 0 48
+Housing Choice Vouchers 46 2 7 31
+Chaffee 
+County
+Buena 
+Vista
+Poncha 
+Springs Salida
+Page 54 of 244
+SECTION III. HOUSING INVENTORY 
+ROOT POLICY RESEARCH S ECTION III, PAGE 12 
+Figure III-13. Deed Restricted/Locally Affordable Units 
+ 
+Source: County jurisdictions and Root Policy Research. 
+ 
+ 
+Project
+Rental 122
+The Midland / Carbonate St Buena Vista Deed-restricted (CHA) 80% (studio) 30
+The Midland / Carbonate St Buena Vista Deed-restricted 120% (1BR) 24
+The Midland / Carbonate St Buena Vista Deed-restricted 120% (2BR) 6
+Jane’s Place Apartments Salida Deed-restricted + gap financing (CHA, TAGH) ≤30% (5BR) 12
+Jane’s Place Apartments Salida Deed-restricted (CHA) ~70% (studio) 2
+Jane’s Place Apartments Salida Deed-restricted (CHA) 80–100% (1BR) 8 deed restricted ≤100 & 2 unlimited, used as 80 and 100 8
+Jane’s Place Apartments Salida Deed-restricted (CHA) 80–120% (2BR) 2 unlimited but used as 100% and below 2
+Molly House at Jane’s Place Salida Bridge housing (CHA) ≤100% 4
+505 Apartments Salida Deed-restricted preservation (CHA, AHRL) ≤80% 9
+505 Apartments Salida Other affordable (CHA) ≤80% 2
+505 Apartments Salida Other affordable (CHA) ≤140% 8
+3rd & M St Salida Deed-restricted (CHT) 80–100% 2
+Blue Jay Apartments Salida Deed-restricted ≤80% 9
+The Magpie Apartments Salida Deed-restricted ≤80% 4
+Ownership 36
+River Ridge Salida Deed-restricted (CHT) 60–80% 8
+3rd & M St Salida Deed-restricted (CHT) 60–80% 4
+Holman Court (711 & 713) Salida Deed-restricted 100–140% 2
+Old Brick Condo (318 E 1st #D) Salida Deed-restricted 120–140% 1
+Forest Creek Cabins Uninc. Deed-restricted (CHT) ≤80% 5
+Forest Creek Cabins Uninc. Deed-restricted (CHT) ≤100% 2
+The Crossing Buena Vista Deed-restricted (CHT) ≤80% 14
+Jurisdiction Funding Type AMI & Bedrooms Units
+Page 55 of 244
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION IV. HOUSING MARKET TRENDS 
+This section assesses how market factors like rents, home prices, and inventory impact housing affordability. It begins with an 
+overview of rental market dynamics, followed by an analysis of home sales and home values. The section concludes with a 
+discussion of market affordability—evaluating the rent/price trends in the context of AMI levels, wages, and incomes. 
+Page 56 of 244
+SECTION IV. MARKET TRENDS 
+ROOT POLICY RESEARCH S ECTION IV, PAGE 1 
+RENTAL MARKET 
+Figure IV-1, shows changes in median rent by community from 2019-
+2024 using ACS data, which reflect all rental units regardless of type—
+single family homes and multifamily apartments.  
+Between 2019 and 2024, median rent in Chaffee County increased 73% 
+(from $931 to $1,611) as existing rental units shifted into higher price 
+points. In Buena Vista, median rent increased from $627 to $2,020, and 
+in Poncha Springs from $828 to $1,783.  
+Figure IV-2 uses the same data to show differences in rent by unit size. 
+Countywide in 2024, median rent ranged from $1,100 for a one-
+bedroom to $1,655 for a two-bedroom and $1,706 for a three-
+bedroom, with four-bedroom units renting for substantially more 
+($3,501).  
+Increases since 2019 have been steepest among smaller units: 
+countywide, one-bedroom rents rose 79% and two-bedroom rents 
+75%, compared to 47% for three-bedroom units.  
+Figure IV-1. Median Rent, 2019 and 2024 
+ 
+Source: ACS 5-year estimates and Root Policy Research. 
+Figure IV-2. Median Rent by Bedrooms, 2024 
+ 
+Note: Blanks in the figure reflect suppressed estimates rather than an absence of those units 
+Source: ACS 5-year estimates and Root Policy Research. 
+ 
+ 
+% Change
+39%
+73%
+222%
+115%
+33%
+$1,761
+$1,611
+$2,020
+$1,783
+$1,292
+$1,271
+$931
+$627
+$828
+$970
+Colorado
+Chaffee County
+Buena Vista
+Poncha Springs
+Salida
+2024 2019
+Chaffee 
+County
+Buena 
+Vista
+Poncha 
+Springs Salida
+Studio - - - -
+1 bedroom $1,100 $1,057 - $1,097
+2 bedrooms $1,655 - - $1,595
+3 bedrooms $1,706 $1,848 $1,917 $1,778
+4 bedrooms $3,501 - - -
+Page 57 of 244
+SECTION IV. MARKET TRENDS 
+ROOT POLICY RESEARCH S ECTION IV, PAGE 2 
+Rent increases are resulting in a significant loss of naturally 
+affordable rental stock. Figure IV-3 shows changes in the 
+distribution of rents affordable by AMI since 2019. The distribution 
+includes income-restricted units and reflects the reduced rents of 
+housing choice voucher holders. 
+According to ACS estimates, in Chaffee County overall, the deepest-
+affordability segments of the rental stock have contracted sharply. 
+The number of units affordable to households earning 50% AMI or 
+less fell from 674 in 2019 to 200 in 2024—from 35% of all rentals 
+down to just 8%—with the steepest loss in the 30-50% AMI range, 
+which dropped from 504 units to 115.  
+Growth has been concentrated at the upper end of the market: 
+units renting at 140% AMI or above increased from 69 units (4% of 
+the stock) to 475 (18%), and units affordable between 100% and 
+140% AMI roughly doubled. The middle of the distribution grew as 
+well—the 60-80% AMI range remains the largest single segment at 
+715 units (27%)—but the overall shift means the county added 
+rental supply primarily at price points out of reach for its lowest-
+income renters while losing much of the naturally affordable stock 
+those households had relied on. 
+Figure IV-3. Rental Affordability Distribution, Chaffee County, 
+2019 - 2024 
+Note:  AMIs are based on a 2-person household.  
+Source: ACS 5-year estimates and Root Policy Research. 
+Page 58 of 244
+SECTION IV. MARKET TRENDS 
+ROOT POLICY RESEARCH S ECTION IV, PAGE 3 
+The preceding rental data is based on ACS estimates and includes all 
+rental units, regardless of unit type (single family and multifamily 
+rentals). While ACS data are ideal for an overview of the full rental 
+market, CoStar data, which focuses exclusively on multifamily 
+apartments, provide more recent data.  
+CoStar market data is based on an inventory of 354 units. The vacancy 
+rate as of the second quarter of 2026 is 4%; the number of buildings 
+with data for effective rent is too low to produce a meaningful estimate.  
+ Zillow produces a smoothed measure of the typical observed market 
+rent rate across a given region. This measure is a repeat-rent index that 
+is weighted to the rental housing stock to ensure representativeness 
+across the entire market, not just those homes currently listed for rent. 
+The index is computed as the mean of listed rents within the 35th to 
+65th percentile range for all homes and apartments in a given region, 
+weighted to reflect the rental housing stock. 
+Figure IV-4 shows that the Zillow Observed Rent Index (ZORI) for 
+Chaffee County rose from $2,303 in March 2024 to $2,430 in June 2026, 
+an increase of about 6% over roughly two years. The index shows a 
+pronounced seasonal pattern, peaking in the summer months—
+reaching a high of about $2,465 in July 2025—and easing in late fall and 
+winter.  
+The ZORI estimate is significantly higher than both the ACS median rent 
+($1,611) and the CoStar effective rent for multifamily apartments 
+($1,286), reflecting differences in what each source measures. ZORI 
+captures asking rents on units currently listed, weighted to the full 
+rental stock, including single-family homes, while ACS reports rents 
+paid by all current tenants (including long-tenured households and 
+those in income-restricted units), and CoStar covers only professionally 
+managed multifamily properties. Taken together, the three sources 
+suggest that newly listed units—particularly single-family rentals—
+command substantially higher rents than the units occupied by 
+existing tenants. 
+Figure IV-4. 
+Zillow Observed Rent Index (ZORI), Chaffee County 
+ 
+Note: Data prior to March 2024 not available. 
+Source: Zillow Research. 
+Page 59 of 244
+SECTION IV. MARKET TRENDS 
+ROOT POLICY RESEARCH S ECTION IV, PAGE 4 
+Rental listings.  This section presents a compilation of active 
+rental listings across Chaffee County from January through August 
+2026, drawn from online listing platforms, real estate agency postings, 
+local classifieds, and community rental groups. Figures IV-5 and IV-6 
+present these data for apartment and whole-home rentals, 
+respectively, showing both advertised rents and the bedroom mix of 
+available units. The listings are compiled from publicly available 
+sources and do not capture off-market or word-of-mouth rentals. 
+Figure IV-5 shows advertised rents and the bedroom mix for apartment 
+listings. The number of tracked apartment listings ranged between 45 
+in January and 61 in April, and one-bedroom units generally made up 
+the largest share. Advertised apartment rents generally ranged from 
+roughly $1,000 to $1,500 for studios, $1,400 to $1,800 for one-
+bedrooms, and from about $1,550 to $2,100 for two-bedrooms, while 
+the three-bedroom listings commanded $2,400 to $3,300.  
+Figure IV-5. 
+Apartment Listings, Chaffee County, Jan-August 2026 
+ 
+Note: Percentages reflect each bedroom category's share of active listings for that month; "Total" is 
+the total number of listings tracked. Average and median rents are based on listings 
+identified through the sources below and may not reflect the full rental market, as off-market 
+and word-of-mouth rentals are not captured. 
+Source: Compiled from publicly available rental listings across Chaffee County, including online listing 
+platforms, real estate agency postings, local classifieds, and community rental groups. 
+Studio 1 bed 2 bed 3 bed Total
+Jan-26 11% 62% 18% 9% 45
+Feb-26 2% 39% 32% 28% 57
+Mar-26 13% 33% 30% 24% 46
+Apr-26 10% 36% 25% 30% 61
+May-26 13% 26% 36% 26% 47
+Jun-26 9% 39% 31% 20% 54
+Jul-26 5% 31% 36% 27% 55
+Aug-26 6% 49% 27% 18% 51
+$0
+$500
+$1,000
+$1,500
+$2,000
+$2,500
+$3,000
+$3,500
+Jan-26 Feb-26 Mar-26 Apr-26 May-26 Jun-26 Jul-26 Aug-26
+Studio 1 bed 2 bed 3 bed
+Page 60 of 244

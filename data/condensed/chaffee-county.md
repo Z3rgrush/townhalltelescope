@@ -1,83 +1,11 @@
 # chaffee-county
 
-## [chaffee-county#0] 2026-07-28 | County Board | minutes
-- Chaffee County Common Ground Citizen Advisory Committee Meeting
-- Chaffee County: Miles Cottom, Gabe Hobson
-- remained for clarification with the Chaffee County Finance Department
-- 13:19 – The committee approves the consent agenda unanimously
-- Multi-Year Grant Disbursement Consideration
-- 13:20 – The committee considers recommending the disbursement of year 3 of 4 of the
-- National Forest Foundation’s Sawatch Range Restoration Project. NFF has
-- they have planned expenditures to make progress on the project
-- Multi-Year Grant Presentations – Central Colorado Conservancy Hands for Lands
-- 13:30 – Suzanne C discusses the Hands for Lands Program which organizes volunteer
-- maintenance, partner with other organizations on restoration projects, and provide
-- public education. This program is in year 3 of 3 of their grant
-- Chaffee County Councils
-- trainings and grants. Stakeholders are working on collaborating on a grant to fund
-- stakeholders to identify what trainings are a common need and work together to
-- The Forest Health Council has met to discuss the update to the CWPP . The
-- areas of delineation. There is discussion of shifting the deadline for the update to
-- managing wildfires
-- 13:53 – The CAC currently has 5 members and 2 vacancies. After two rounds of requests
-- issue another request since they are moving into grant reviews soon and as long as
-- Grant Process Updates
-- 13:56 – Anna H gives an update on competitive grant process, which is accepting
-- applications. CCCF has done extensive outreach and has been getting a lot of
-- producers on August 10th. The budget template has been updated to simplify it
-- Public Comment
-- 14:00 – No public comment
-
-## [chaffee-county#1] 2026-07-28 | County Board | minutes
-- applications
-- Improvements
-
-## [chaffee-county#2] 2026-07-30 | Board of County Commissioners | agenda
-- Chaffee County Board of Commissioners
-- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
-- 1. Colorado Division of Veterans Affairs Discussion/Presentation
-- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
-- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
-- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
-- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
-
-## [chaffee-county#3] 2026-08-03 | Board of Commissioners Work Session - 1st Monday | agenda
-- Chaffee County Board of Commissioners
-- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
-- Discuss 2027 Conservation Trust Fund budget to support continued work
-- Request for County to apply for GOCO/CYCA grant (Due Aug 17.)
-- Request for a Letter Of Support for the Colorado Parks & Wildlife non-motorized grant in the near
-- 3. Pending Legislative Position Discussion - Commissioner Lucrezi
-- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
-- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
-- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
-- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
-
-## [chaffee-county#4] 2026-08-03 | Board of Commissioners Work Session - 1st Monday | agenda
-- Chaffee County Board of Commissioners
-- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
-- Discuss 2027 Conservation Trust Fund budget to support continued work
-- Request for County to apply for GOCO/CYCA grant (Due Aug 17.)
-- Request for a Letter Of Support for the Colorado Parks & Wildlife non-motorized grant in the near
-- 3. Pending Legislative Position Discussion - Commissioner Lucrezi
-- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
-- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
-- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
-- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
-- Salida Mountain Trails Projects Update and Upcoming Grants
-- projects funded by Chaffee County and discuss upcoming grants which they intend to apply for
-- II. BACKGROUND & CONTEXT: He will discuss the following:
-- Request for a Letter Of Support (LOS) for the CPW non-motorized grant in the near future
-- III. FISCAL CONSIDERATIONS: No expenditures are needed at this time
-- IV. STAFF RECOMMENDATION: Staff recommends supporting a County GOCO/CYCA application
-- and prospective LOS for SMT’s CPW non-motorized trail grant
-
-## [chaffee-county#5] 2026-08-04 | Planning Commission | agenda
+## [chaffee-county#0] 2026-08-04 | Planning Commission | agenda
 - Chaffee County Planning Commission
 - B. Minutes for Approval
 - 1. Training/Work Session — Planned Developments
 
-## [chaffee-county#6] 2026-08-04 | Planning Commission | agenda
+## [chaffee-county#1] 2026-08-04 | Planning Commission | agenda
 - Chaffee County Planning Commission
 - B. Minutes for Approval
 - 1. Training/Work Session — Planned Developments
@@ -117,7 +45,7 @@
 - Although PUDs allow local governments wide freedom in negotiating development
 - applicable to development approvals. For example, 2008 legislation mandating that local
 
-## [chaffee-county#7] 2026-08-04 | Board of County Commissioners | minutes
+## [chaffee-county#2] 2026-08-04 | Board of County Commissioners | minutes
 - Chaffee County Commissioners Meeting
 - government agencies, and others from the public may attend, including participating in the public hearing portion of the
 - The regular meeting of the Board of Commissioners was held on August 4, 2026, at the Chaffee County
@@ -154,7 +82,7 @@
 - Commissioner Armstrong moved to approve the Hearing Consent Agenda item #2. Commissioner
 - E. Contracts/Grant Consideration
 
-## [chaffee-county#8] 2026-08-10 | Board of Commissioners Work Session - 2nd Monday | agenda
+## [chaffee-county#3] 2026-08-10 | Board of Commissioners Work Session - 2nd Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - Landfill Waste Audit presentation - Resource Recycling Systems
@@ -166,7 +94,7 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#9] 2026-08-10 | Board of Commissioners Work Session - 2nd Monday | agenda
+## [chaffee-county#4] 2026-08-10 | Board of Commissioners Work Session - 2nd Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - Landfill Waste Audit presentation - Resource Recycling Systems
@@ -199,7 +127,7 @@
 - outreach fatigue and making engagement more difficult. Additionally, the grant required very specific
 - messaging around safe firearm storage that did not always align with the perspectives and realities of local
 
-## [chaffee-county#10] 2026-08-10 | Board of County Commissioners | minutes
+## [chaffee-county#5] 2026-08-10 | Board of County Commissioners | minutes
 - Chaffee County Commissioners Meeting
 - government agencies, and others from the public may attend, including participating in the public hearing portion of the
 - The special meeting of the Board of Commissioners was held on August 10, 2026, at the Chaffee
@@ -227,12 +155,12 @@
 - Commissioner Wood stated that we would assist to our ability the people that rely on that water in
 - getting water
 
-## [chaffee-county#11] 2026-08-18 | Planning Commission | agenda
+## [chaffee-county#6] 2026-08-18 | Planning Commission | agenda
 - Chaffee County Planning Commission
 - B. Minutes for Approval
 - 2. 15099 County Road 350 Wetland Setback Reduction
 
-## [chaffee-county#12] 2026-08-18 | Planning Commission | agenda
+## [chaffee-county#7] 2026-08-18 | Planning Commission | agenda
 - Chaffee County Planning Commission
 - B. Minutes for Approval
 - 2. 15099 County Road 350 Wetland Setback Reduction
@@ -271,7 +199,7 @@
 - states the rezone would be a burden on the immediate area
 - Commissioner Lunsford talked about the Comp Plan supporting tourism. Stated no one else
 
-## [chaffee-county#13] 2026-08-18 | Board of County Commissioners | minutes
+## [chaffee-county#8] 2026-08-18 | Board of County Commissioners | minutes
 - Chaffee County Commissioners Meeting
 - government agencies, and others from the public may attend, including participating in the public hearing portion of the
 - The regular meeting of the Board of Commissioners was held on August 18, 2026, at the Chaffee
@@ -307,7 +235,7 @@
 - 1. Hearing to Consider the Liquor License Renewal for High Peaks Liquor Inc, DBA High Peaks
 - 2. Hearing to Consider the Liquor License Renewal for JV Food Shop LLC, DBA JV Food Shop
 
-## [chaffee-county#14] 2026-08-24 | Board of County Commissioners | agenda
+## [chaffee-county#9] 2026-08-24 | Board of County Commissioners | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - A. Budget Hearings
@@ -316,7 +244,7 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#15] 2026-08-25 | Board of County Commissioners | agenda
+## [chaffee-county#10] 2026-08-25 | Board of County Commissioners | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - A. Budget Hearings
@@ -325,10 +253,10 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#16] 2026-08-25 | County Board | minutes
+## [chaffee-county#11] 2026-08-25 | County Board | minutes
 - CTO-requested
 
-## [chaffee-county#17] 2026-08-25 | County Board | minutes
+## [chaffee-county#12] 2026-08-25 | County Board | minutes
 - Chaffee County Common Ground Citizen Advisory Committee Meeting
 - Chaffee County: Miles Cottom, Gabe Hobson
 - 13:04 – The committee votes unanimously to approved to consent agenda
@@ -358,7 +286,7 @@
 - applicants working in forest health. Colorado Firecamp is not applying for a
 - Common Ground Grant in 2026
 
-## [chaffee-county#18] 2026-08-26 | County Board | minutes
+## [chaffee-county#13] 2026-08-26 | County Board | minutes
 - 9255 County Road 140
 - 2. Minutes for Approval
 - Clifton Brown moved to approve the July 22nd, 2026 Meeting Minutes. Jim
@@ -379,7 +307,7 @@
 - updates; other projects – Airport traffic has picked up over the last month, but
 - it was discussed at length again
 
-## [chaffee-county#19] 2026-08-31 | Board of Commissioners Work Session - 1st Monday | agenda
+## [chaffee-county#14] 2026-08-31 | Board of Commissioners Work Session - 1st Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 2. Chaffee County Assessor Update - Janie Williams
@@ -391,7 +319,7 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#20] 2026-08-31 | Board of Commissioners Work Session - 1st Monday | agenda
+## [chaffee-county#15] 2026-08-31 | Board of Commissioners Work Session - 1st Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 2. Chaffee County Assessor Update - Janie Williams
@@ -420,7 +348,7 @@
 - amendment for consideration by the BOCC
 - approved by the County Administrator. The BOCC may review the Procedures but does not
 
-## [chaffee-county#21] 2026-09-01 | Board of County Commissioners | minutes
+## [chaffee-county#16] 2026-09-01 | Board of County Commissioners | minutes
 - Chaffee County Commissioners Meeting
 - government agencies, and others from the public may attend, including participating in the public hearing portion of the
 - The regular meeting of the Board of Commissioners was held on September 1, 2026, at the Chaffee
@@ -457,7 +385,7 @@
 - systems' energy improvements - Helmke
 - Administrator Helmke addressed the Board to consider a Grant Agreement and IGA with the
 
-## [chaffee-county#23] 2026-09-14 | Board of Commissioners Work Session - 2nd Monday | agenda
+## [chaffee-county#18] 2026-09-14 | Board of Commissioners Work Session - 2nd Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 1. Discussion with Colorado Electric Transmission Authority - Maury Galbraight, Executive Director
@@ -468,7 +396,7 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#24] 2026-09-14 | Board of Commissioners Work Session - 2nd Monday | agenda
+## [chaffee-county#19] 2026-09-14 | Board of Commissioners Work Session - 2nd Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 1. Discussion with Colorado Electric Transmission Authority - Maury Galbraight, Executive Director
@@ -501,7 +429,7 @@
 - in the state. This grant is in collaboration with Salida Health Center and includes a data collection component to
 - substance abuse, and developmental neuroscience, this essential guide provides evidence-based strategies and
 
-## [chaffee-county#25] 2026-09-15 | Board of County Commissioners | minutes
+## [chaffee-county#20] 2026-09-15 | Board of County Commissioners | minutes
 - Chaffee County Commissioners Meeting
 - and government agencies, and others from the public may attend, including participating in the public hearing
 - The regular meeting of the Board of Commissioners was held on September 15, 2026, at the Chaffee
@@ -539,119 +467,17 @@
 - Administrator Helmke addressed the Board to consider an Agreement between Chaffee County
 - Commissioner Armstrong moved to approve the Intergovernmental Agreement for a Regional
 
-## [chaffee-county#26] 2026-09-17 | County Board | agenda
+## [chaffee-county#21] 2026-09-17 | County Board | agenda
 - Chaffee County Rec Council
 - Chaffee County Fairgrounds 10165 Co Rd 120, Salida, CO 81201
 
-## [chaffee-county#27] 2026-09-22 | County Board | agenda
-- Presentation
+## [chaffee-county#22] 2026-09-22 | County Board | minutes
+- wildfire-related
+- discussions,
+- consideration
+- Development:
 
-## [chaffee-county#28] 2026-09-22 | County Board | agenda
-- CTO-requested
-- Chaffee County, Colorado | DMC
-- Chaffee County, CO
-- 2026 Marketing Plan with associated
-- Discussion Items
-- Chaffee memo in
-- Strategic Plan
-- Presentation and Work
-- 2027 Tourism Budget
-- Contract once Budget is approved
-- 5 Year Strategic plan
-- Season high engagement rate
-- August Open Rate
-- Chaffee County, Colorado
-- Search Interaction Rate: 13.56% (-17.57%)
-- hiking chaffee county 229 1715 13.35%
-- we’ll be redistributing the budget to give more
-- ● Open Rate: 56.4%
-- ● Click Rate: 1.4%
-- ○ 490.7K total organic views across both platforms
-- Simple Annual Marketing Plan
-- Fire Restriction Banner:
-- 2027 Chaffee Tourism Budget
-- ACE Presentation
-- request process
-- ○ Discussion Items
-- promotional strategy is working
-- Fire Search Data
-- Search Interaction Rates 16.45% (+.49%)
-- Concerts chaffee county 252 1424 17.70%
-- ● Separate display into its own campaign to give
-- ● Open Rate: 52.1%
-- ● Click Rate: 1.2%
-- Webcam Strategy
-- 2 Year Strategic Plan
-- New Campaign Development
-- ◦ Lodging $600 (+tax and fees)
-- Midland Railroad Trail (+52)
-- Fire Prevention Page
-- Met with Thomas for Webcams Contract
-- Simple Annual Marketing Plan (Paid and Organic)
-- Blueprint Program Feedback
-- DMC Discussion Items
-- Concerts chaffee county 163 820 19.88%
-- campaign due to the fires in Leadville
-- Added Fire Restrictions to the top of
-- CTO Destination Blueprint Application | Salida
-- Fire Prevention and Emergency Updates Page is
-- Handicapped Parking on F St. Communication
-- In development with Salida
-- FY27 Colorado Marketing Grant
-
-## [chaffee-county#29] 2026-09-22 | County Board | agenda
-- What: Chaffee County’s Common Ground Program Citizens Advisory Committee Meeting
-- In-person – Chaffee County Public Safety Complex, 200 Steele Drive, Buena Vista, Colorado
-- Grant Portal and Folder Links Below for CAC Members
-- Minutes Approval: August 25th, 2026
-- Grant Tracker – September Updated
-- Approval of Agenda
-- Vote to Approve
-- 1:10 Presentations
-- NRCS and EQIP Grants – Joni Pacheco
-- Presentations and
-- Chaffee County Councils Next Steps – Gabe Hobson
-- 2:30 Grant Review Updates – Betsy Dittenber Info and
-- 2:50 Public Comment
-
-## [chaffee-county#30] 2026-09-22 | County Board | agenda
-- Chaffee County Common Ground Citizen Advisory Committee Meeting
-- Chaffee County: Miles Cottom, Gabe Hobson
-- 13:04 – The committee votes unanimously to approved to consent agenda
-- Grant Updates and Report Review
-- 13:05 – Anna Hendricks leads a discussion on grant reports. All grant reports are up to date
-- She gives an explanation for the roles of the Chaffee County Community Foundation
-- being addressed by the grant recipient and how to anticipate roadblocks to
-- achieving project goals. Additional discussion on the process will be held at the
-- upcoming grant review training meeting. Gabe H encourages CAC members to focus
-- 13:13 – Joe S requests to see weed monitoring results for the Granite East project. Dani C
-- asks for pictures to be required for future application rounds. Joe S adds that maps
-- would also be helpful. Anna H explains that the current grant application process
-- has been approved and there will be the opportunity to add these requirements in
-- the next commentative grant cycle
-- Chaffee County Councils
-- meeting was skipped but grant coordination meetings have been held to assist with
-- collaboration efforts to get funding for trail crews in the county. Chaffee Treats will
-- 13:18 – There are no significant updates on the CWPP update. More discussion on the
-- 13:20 – Dani C asks for clarification on the Williams and Hamm Ditch grant extension
-- Gabe H explains that they have unused funds which could not be used to low water
-- and they were granted an extension into 2027
-- Grant Process Updates
-- Ground. Anna H notes that the grant application period has not ended but they
-- expect a very competitive grant cycle
-- Public Comment
-- 13:27 – Kent Maxwell suggests moving the application period to spring would be helpful for
-- applicants working in forest health. Colorado Firecamp is not applying for a
-- Common Ground Grant in 2026
-- 3/12/19 Sales Tax 72,873.84 18,218.46 18,218.46 18,218.46 18,218.46 3,643.69 3,643.69 32,793.23 32,793.23
-- 4/11/19 Sales Tax 68,655.37 17,163.84 35,382.30 17,163.84 35,382.30 3,432.77 7,076.46 30,894.92 63,688.15
-- 5/10/19 Sales Tax 82,145.90 20,536.48 55,918.78 20,536.48 55,918.78 4,107.30 11,183.76 36,965.64 100,653.79
-- 6/12/19 Sales Tax 73,134.57 18,283.64 74,202.42 18,283.64 74,202.42 3,656.73 14,840.49 32,910.56 122,793.93
-- 7/16/19 Sales Tax 90,996.81 22,749.20 96,951.62 22,749.20 96,951.62 4,549.84 19,390.33 40,948.57 159,503.50
-- 8/12/19 Sales Tax 29,367.80 126,319.42 29,367.80 126,319.42 5,873.56 25,263.89 52,862.05 211,539.94
-- 9/11/19 Sales Tax 31,803.83 158,123.25 31,803.83 158,123.25 6,360.77 31,624.66 57,246.89 267,518.84
-
-## [chaffee-county#31] 2026-09-23 | County Board | agenda
+## [chaffee-county#23] 2026-09-23 | County Board | agenda
 - 9255 County Road 140
 - 2. Approve August 26th, 2026 Meeting Min
 - 3. Public Comments
@@ -660,7 +486,7 @@
 - d. 2027 Budget
 - months; updates; other projects
 
-## [chaffee-county#32] 2026-09-23 | County Board | agenda
+## [chaffee-county#24] 2026-09-23 | County Board | agenda
 - 9255 County Road 140
 - 2. Minutes for Approval
 - Clifton Brown moved to approve the July 22nd, 2026 Meeting Minutes. Jim
@@ -681,10 +507,10 @@
 - updates; other projects – Airport traffic has picked up over the last month, but
 - it was discussed at length again
 
-## [chaffee-county#33] 2026-09-24 | County Board | agenda
+## [chaffee-county#25] 2026-09-24 | County Board | agenda
 - Minutes Approval for 07/23/2026
 
-## [chaffee-county#34] 2026-09-24 | County Board | agenda
+## [chaffee-county#26] 2026-09-24 | County Board | agenda
 - Minutes Approval for: May 23rd, 2026
 - Motion approved Aaron Jonke Russ Johnson
 - Financial Report – Since last meeting contract is done. Re-established our relationship with
@@ -698,14 +524,14 @@
 - Motion to approve: All approve
 - Close motion approval Russ Johnson 2nd Brad Golden
 
-## [chaffee-county#35] 2026-09-24 | County Board | agenda
+## [chaffee-county#27] 2026-09-24 | County Board | agenda
 - CHAFFEE COUNTY EMERGENCY SERVICES COUNCIL
 - Minutes Approval for July 23rd, 2026
 - o ESF 4 – Firefighter
 - o ESF 4a – Wildfire
 - o ESF 6 – Mass Care/Housing/Human Services
 
-## [chaffee-county#36] 2026-09-24 | County Board | agenda
+## [chaffee-county#28] 2026-09-24 | County Board | agenda
 - CHAFFEE COUNTY EMERGENCY SERVICES COUNCIL
 - William Plackner motion minutes approved Aaron Jonke and Josh Hadley
 - Emily Anderson Chaffee County Public Health
@@ -739,17 +565,17 @@
 - on a grant. Our agency has aligned with RETAC response ring for whole blood; we’ll eventually
 - chair is Gabe Muething. Elected new vice chair Jeremiah Grantham. Every year we have sums
 
-## [chaffee-county#37] 2026-09-24 | County Board | agenda
+## [chaffee-county#29] 2026-09-24 | County Board | agenda
 - Chaffee Treats
 - Meeting held at Chaffee County Fairgrounds: 10165 Co Rd 120, Salida, CO 81201
 - Follow signs for Chaffee Treats in South Building
 - 1. Project Planning
 
-## [chaffee-county#39] 2026-10-06 | Planning Commission | agenda
+## [chaffee-county#31] 2026-10-06 | Planning Commission | agenda
 - Chaffee County Planning Commission
 - B. Work Session: Affordable Housing Discussion
 
-## [chaffee-county#40] 2026-10-06 | Board of County Commissioners | minutes
+## [chaffee-county#32] 2026-10-06 | Board of County Commissioners | minutes
 - Chaffee County Commissioners Meeting
 - government agencies, and others from the public may attend, including participating in the public hearing portion of the
 - The regular meeting of the Board of Commissioners was held on October 6, 2026, at the Chaffee County
@@ -786,7 +612,7 @@
 - 2026 Fair Overview and to consider the Fair Committee's Fiscal Year 2027 Budget Request:
 - Discussion ensued during which Hutchinson, Lewis, and Schultz responded to Commissioners' and
 
-## [chaffee-county#41] 2026-10-12 | Board of Commissioners Work Session - 1st Monday | agenda
+## [chaffee-county#33] 2026-10-12 | Board of Commissioners Work Session - 1st Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 2. Working Lands Resilience Coordinator update - Upper Arkansas Conservation District Presentation
@@ -796,7 +622,7 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#42] 2026-10-12 | Board of Commissioners Work Session - 1st Monday | agenda
+## [chaffee-county#34] 2026-10-12 | Board of Commissioners Work Session - 1st Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 2. Working Lands Resilience Coordinator update - Upper Arkansas Conservation District Presentation
@@ -806,19 +632,19 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#43] 2026-10-13 | County Board | agenda
+## [chaffee-county#35] 2026-10-13 | County Board | agenda
 - What: Chaffee County’s Common Ground Program Citizens Advisory Committee Meeting
 - Agenda – Grant Review Meeting #1
 - Grant Portal and Folder Links Below for CAC Members
 - 2:30 2026 Competitive Grant Cycle Application Review Discussion
 
-## [chaffee-county#44] 2026-10-15 | County Board | agenda
+## [chaffee-county#36] 2026-10-15 | County Board | agenda
 - Chaffee County Rec Council
 - Chaffee County Fairgrounds 10165 Co Rd 120, Salida, CO 81201
 - c. Possible Roles for project development
 - 4. Upcoming Meetings and Regular Schedule Discussion
 
-## [chaffee-county#45] 2026-10-19 | Board of Commissioners Work Session - 2nd Monday | agenda
+## [chaffee-county#37] 2026-10-19 | Board of Commissioners Work Session - 2nd Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 1. 10:00am - Presentation of the 2025 Annual Audit - DMC Auditing & Consulting
@@ -830,7 +656,7 @@
 - Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
 - It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
 
-## [chaffee-county#46] 2026-10-19 | Board of Commissioners Work Session - 2nd Monday | agenda
+## [chaffee-county#38] 2026-10-19 | Board of Commissioners Work Session - 2nd Monday | agenda
 - Chaffee County Board of Commissioners
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
 - 1. 10:00am - Presentation of the 2025 Annual Audit - DMC Auditing & Consulting
@@ -864,19 +690,19 @@
 - support that I needed to breastfeed both of my children through and beyond their first year of life. Knowing that Emily
 - compassionate, knowledgeable, and confident lactation consultant as part of my village. I feel SO lucky to live in a place
 
-## [chaffee-county#47] 2026-10-20 | County Board | agenda
+## [chaffee-county#39] 2026-10-20 | County Board | agenda
 - What: Chaffee County’s Common Ground Program Citizens Advisory Committee Meeting
 - Agenda – Grant Review Meeting #2
 - Grant Portal and Folder Links Below for CAC Members
 - 2:30 2026 Competitive Grant Cycle Application Review Discussion
 
-## [chaffee-county#48] 2026-10-20 | Planning Commission | agenda
+## [chaffee-county#40] 2026-10-20 | Planning Commission | agenda
 - Chaffee County Planning Commission
 
-## [chaffee-county#49] 2026-10-20 | Planning Commission | agenda
+## [chaffee-county#41] 2026-10-20 | Planning Commission | agenda
 - Chaffee County Planning Commission
 
-## [chaffee-county#50] 2026-10-20 | Board of County Commissioners | agenda
+## [chaffee-county#42] 2026-10-20 | Board of County Commissioners | agenda
 - Chaffee County Board of Commissioners
 - Chaffee County Public Safety Complex
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
@@ -910,7 +736,7 @@
 - Brief Summary of the Proposal: To rezone several parcels in the historic townsite of Garfield from the
 - 2. Public Hearing - Post Event Review for the August concert at The Meadows - Community Planning and
 
-## [chaffee-county#51] 2026-10-20 | Board of County Commissioners | agenda
+## [chaffee-county#43] 2026-10-20 | Board of County Commissioners | agenda
 - Chaffee County Board of Commissioners
 - Chaffee County Public Safety Complex
 - PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
@@ -943,3 +769,219 @@
 - Existing and Proposed Zoning: Residential Rural (RR) to Mixed Use Rural (MUR)
 - Brief Summary of the Proposal: To rezone several parcels in the historic townsite of Garfield from the
 - 2. Public Hearing - Post Event Review for the August concert at The Meadows - Community Planning and
+
+## [chaffee-county#44] 2026-10-27 | County Board | agenda
+- Presentation
+
+## [chaffee-county#45] 2026-10-27 | County Board | agenda
+- wildfire-related
+- discussions,
+- consideration
+- Development:
+- Chaffee County, Colorado | DMC
+- Chaffee County, CO
+- 2026 Marketing Plan with associated
+- 1 New Salida Chamber Presentation
+- 2 Presentation from Salida Chamber
+- c. CTO Grant Status
+- i. Grant Process review
+- d. Chaffee memo response to CTO “Perceived Conflict of Interest”
+- e. Re-Open Website Discussion (Jillian)
+- f. Confirm 2027 Budget Approval
+- Chaffee County, Colorado
+- Fire Banner has been removed and page updated
+- Created Tourism Marketing Request Form
+- Contract once Budget is approved
+- 5 Year Strategic plan
+- Strategic Presentation and Planning
+- ACE Presentation
+- Discussion Items
+- Strategic Presentation and
+- destination visibility across both platforms
+- ○ Posts + Reels generated 159 saves and 289 shares, showing continued planning
+- Search Interaction Rate: 13.52 (-.03%)
+- plan to spend less of the overall budget
+- ● Open Rate: 53.7%
+- ● Click Rate: 1.1%
+- Jessica Downing presentation
+- Chaffee memo in response to CTO “Perceived Conflict of Interest”
+- Schedule 5 year Strategic Plan Presentation and Work Session
+- 2027 Tourism Budget
+- Lodging Tax - January to July YoY
+- Attached are the official numbers for lodging tax revenue January - July 31st, 2026. Here is
+- Chaffee County (not in a city) Up 18%
+- requests by 31% through the use of MindTrip alone
+- Budget Discussion
+- DMC Budget Feedback (compiled by Jillian)
+- Audrey’s Feedback on 2026 vs 2027 line by line Budget
+- DiQ Rev 2 2026 vs 2027 line by line Budget
+- Official Chaffee County Budget Worksheet
+- Season high engagement rate
+- August Open Rate
+- Search Interaction Rate: 13.56% (-17.57%)
+- hiking chaffee county 229 1715 13.35%
+- we’ll be redistributing the budget to give more
+- ● Open Rate: 56.4%
+- ● Click Rate: 1.4%
+- ○ 490.7K total organic views across both platforms
+- Simple Annual Marketing Plan
+- Fire Restriction Banner:
+- 2027 Chaffee Tourism Budget
+- request process
+- ○ Discussion Items
+- promotional strategy is working
+
+## [chaffee-county#46] 2026-10-28 | County Board | agenda
+- Chaffee County Building Safety Department
+- B. Minutes for Approval
+- 1. Consider Approval of the Minutes from the September 25, 2018 Meeting
+- 2. Consider Approval of the Minutes from the October 18, 2023 Meeting
+- 1. Consider requests from Joe Cooper for appeals on decisions from the Chaffee County
+- Building Official regarding the issuance of permit extensions for the following permit
+- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with
+
+## [chaffee-county#47] 2026-10-28 | County Board | agenda
+- 9255 County Road 140
+- 2. Approve September 23, 2026 Meeting Min
+- 3. Public Comments
+- a. Cascade Financial Lease Square footage amendment
+- a. Land Lease Discussion
+- b. 2026 Projects
+- c. 2027 Budget
+- months; updates; other projects
+
+## [chaffee-county#48] 2026-10-28 | County Board | agenda
+- 9255 County Road 140
+- 2. Minutes for Approval
+- Clifton Brown moved to approve the August 26, 2026 Meeting Minutes. Steve
+- Bush seconded the motion. All approved
+- 3. Public Comments
+- comments during the public comment portion of the meeting
+- LLC. Steve Bush moved to approve the change. Phil Phillips seconded
+- the motion. All approved
+- a. Land Lease Discussion – Zech is meeting with County Attorney Kathleen
+- b. 2026 Projects – The taxiway project has been done for quite some time,
+- but finalizing all the paperwork for that project is still in process and
+- The terminal roof has been leaking during rainstorms. United Roofing
+- temporary closure of the old fuel farm and then collect bids for its removal
+- drainage plan and Zech is hopeful that the project will be underway next
+- c. Airport CIP Meeting – The Capital Improvement Plan (CIP) meeting took
+- place on Monday, August 21st. The same projects have been on the
+- d. 2027 Budget – The 2027 budget is still in process with the City and
+- County. The federally funded project for the year will be the rehab of
+- Taxiway A from A1 to A2, which is an area with extensive cracking. The
+- master drainage plan, the removal of the old fuel farm, and augmenting a
+- well in the new development area are all requests in the 2027 budget
+- A lengthy discussion ensued regarding the new development area. Ray
+- Plumb and Barry Cole commented during the discussion
+- updates; other projects – Fuel sales over the last month were good and
+
+## [chaffee-county#49] 2026-10-28 | County Board | agenda
+- CHAFFEE COUNTY BOARD OF REVIEW
+- f Present: Dan Swallow - Director of Development Services, Pat Green - Deputy Building Official,
+- Doug Bess – Chief of South Arkansas Fire District
+- s were requesting that the Board of Review provide a limited exception with respect to
+- requirements for emergency escape and rescue. He went on to explain the history of the project in
+- Doug Bess, gave an explanation of how the fire code works
+- purchased for the bedrooms. Also discussion about the inspections and the fact that the Kahn’s had
+- many opportunities to make the changes needed as a result of the disapproved inspections. That the
+- Lon asked the board for a motion, no motion was offered and more discussion followed
+- The board further discussed the code and is it their position to determine if the mitigating factors are
+- that the windows were purchased without knowing the end results and the house is designed around
+- Additional discussion between Board members, staff members and the Kahn’s about the window styles,
+- Abe Hachman motioned to deny the request for variance due to other solutions being available
+- Exhibit A to Ordinance 2023-??
+- Amendments to the 2021 International Building Code
+- 4051 West Flossmoor Road, Country Club Hills, Illinois, 60478-5795. The following amendments are
+- [Amend this subsection to read as follows:]
+- These regulations shall be known as the Building Code of Chaffee County, Colorado, hereinafter referred
+- [Delete:] “International Private Sewage Disposal Code” and replace with “Chaffee County On-Site
+- Wastewater Treatment System Regulations.”
+- [Add to section:] “Chaffee County Building Safety Department”
+- [A] 105.1.1 Annual Permit
+- [A] 105.2 Work exempt from permits
+- uses, provided the roof area does not exceed 120 square feet. Such structures shall not be used as
+- performed on such structures shall require permitting and inspection.”
+- 5. “Other than cisterns for fire and domestic water supply tanks…”
+- [Add:] “Plans shall also include location of utilities, private well and wastewater sites, ditches, rivers,
+- lakes, drainages, slopes greater than 30%, accesses and road grades at access to Rights-of-way.”
+- All references to the Board of Appeals shall be amended to read the Board of Review, as appointed by
+- [F] 502.1 Address identification
+- [Delete this subsection in its entirety and amend to read as follows:]
+- All buildings, new and existing (when required) shall be provided with an approved permanent address
+- identification. The address identification shall be legible and placed in a position that is visible from the
+
+## [chaffee-county#50] 2026-10-28 | County Board | agenda
+- Chaffee County Forest Health Council
+- Meeting held at Chaffee County Fairgrounds: 10165 Co Rd 120, Salida, CO 81201
+- b. Discuss Refining PODs
+
+## [chaffee-county#51] 2026-11-02 | Board of Commissioners Work Session - 1st Monday | agenda
+- Chaffee County Board of Commissioners
+- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
+- 1. Review final 2026 Chaffee County Housing Needs Assessment - Helmke; Community Planning Natural
+- 5. Discuss amendment to County Personally Identifiable Information (PII) policy - Helmke; Sullivan
+- 6. Discuss letter to Public Utilities Commission re: Xcel Energy and Black Hills Energy addressing Wildfire
+- 7. Discuss Destination Management Council recommendation for FY27 tourism marketing budget allocation
+- for website and AI enhancements project - Helmke
+- 8. Pending Legislative Position Discussion - Commissioner Lucrezi
+- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
+- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
+- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
+- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
+
+## [chaffee-county#52] 2026-11-02 | Board of Commissioners Work Session - 1st Monday | agenda
+- Chaffee County Board of Commissioners
+- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
+- 1. Review final 2026 Chaffee County Housing Needs Assessment - Helmke; Community Planning Natural
+- 5. Discuss amendment to County Personally Identifiable Information (PII) policy - Helmke; Sullivan
+- 6. Discuss letter to Public Utilities Commission re: Xcel Energy and Black Hills Energy addressing Wildfire
+- 7. Discuss Destination Management Council recommendation for FY27 tourism marketing budget allocation
+- for website and AI enhancements project - Helmke
+- 8. Pending Legislative Position Discussion - Commissioner Lucrezi
+- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
+- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
+- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
+- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
+- Chaffee County
+- Regional Housing Needs
+- Chaffee County October 23, 2026
+- What is a Housing Needs Assessment? ............................. i
+- Why Work to Address Housing Need? ...............................v
+- III. Housing Inventory
+- Housing Supply ................................................................ III-1
+- Housing Type and Occupancy ....................................... III-3
+- IV. Housing Market Trends
+- V. Housing Problems & Displacement Risk
+- Current Housing Situation ............................................ VII-7
+- Housing Stability and Displacement .......................... VII-14
+- Future Housing Choice ................................................ VII-21
+- Housing Solutions and Policy Input ........................... VII-25
+- VIII. Housing Needs
+- Housing Production Needs .......................................... VIII-3
+- Development Challenges ............................................... IX-1
+- Housing Resources and Affordable Units .................... IX-4
+- Chaffee County, Buena Vista, Poncha Springs, and Salida
+- partnered to conduct this Regional Housing Needs Assessment
+- (HNA) to determine the region’s greatest housing needs and
+- keeping stable housing
+- The HNA will be followed by jurisdictional Housing Action Plans (HAP)
+- that identify strategies related to housing affordability, stability, and
+
+## [chaffee-county#53] 2026-11-02 | Board of County Commissioners | agenda
+- Chaffee County Board of Commissioners
+- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
+- 2. Approve Agenda
+- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
+- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
+- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
+- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need
+
+## [chaffee-county#54] 2026-11-02 | Board of County Commissioners | agenda
+- Chaffee County Board of Commissioners
+- PLEASE NOTE: The Agenda times are approximate; items may be discussed before or after the times listed below
+- 2. Approve Agenda
+- Day-To-Day Oversight and Supervision: From time to time throughout the year, two or more Commissioners may meet to discuss day-to-day
+- prior notice may not be posted. No policies, positions, resolutions, rules or regulations are adopted at day-to-day business meetings, nor is any formal
+- Work Sessions are held in accordance with C.R.S.§ 24-6-402(2)(d)(II). No decisions, policy, positions, resolutions, rules, regulations or formal
+- It is the policy of Chaffee County that all County sponsored public meetings and events are accessible to people with disabilities. If you need

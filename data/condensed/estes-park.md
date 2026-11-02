@@ -1,76 +1,6 @@
 # estes-park
 
-## [estes-park#0] 2026-07-28 | Town Board | minutes
-- Town ofEstes Park, Larimer County, Colorado, July 28, 2026
-- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
-- Estes Park on the 28th day of July, 2026
-- Mayor Hall recognized Estes Park School students who won a drawing and writing
-- contest held by the Estes Park School Environmental Resilience Team in partnership with
-- the Estes Valley Watershed Coalition to celebrate the beauty of Estes Park's natural
-- Mayor Hall proclaimed August 8, 2026, as Estes Park Recycles Day
-- Agenda Approval
-- It was moved and seconded (Eshelman/Hazelton) to approve the Agenda, and it
-- Public Comments
-- Fire Protection District (EVFPD) funding issues and Town Administrator Machalekfor his
-- clarification that the Board had not discussed removing or decreasing existing EVFPD
-- funding. He then urged the Town to demonstrate budget engineering to the public while
-- encourage constituents to vote to increase funding for the project
-- Matt Tschohl/Town Resident requested a meeting with the Town regarding a property he
-- purchased at 450 Hillside Lane, a single-family home that he stated had been occupied
-- as a duplex since 1980, and advocated the property be granted duplex conversion
-- John Guffey/Town Resident expressed disapproval of visible trash receptacles, reported
-- the EVFPD swearing-in ceremony of Fire Chief, Kevin Nunn; attended the EVFPD
-- swearing-in ceremony; provided accolades to Interim Fire Chief Jones for his hard work
-- and commitment to the district, and expressed enthusiasm regarding his appointment;
-- reported fourteen (14) applications were received for three (3) openings on the Estes Park
-- Housing Authority (EPHA) Board of Commissioners, the EPHA was struggling with
-- employee recruitment and may consider hiring relatives of current employees at their next
-- commended the Estes Park Police Department's Police Auxiliary for their dedication and
-- support, including National Night Out; attended Visit Estes Park's (VEP) Board of
-- Directors meeting heard a presentation from Larimer County Commissioner Shadduck
-- McNalley on Larimer County budget-shortfalls and the Board discussed trends in lodging
-- occupancy rates, sales and lodging tax revenue, and encouraged the public to apply for
-- Statistical Analysis Project was forwarded to the Board
-- Town Administrator Machalek recognized the Streets and Parks crews for their work to
-- and Communications for their work in conjunction with the Platte River Power Authority
-- presentation to the Town Board at the meeting directly following the certification of the
-- second Town Board Meeting following the certification of the election, on May 12,
-
-## [estes-park#1] 2026-07-28 | Town Board Study Session | minutes
-- Town ofEstes Park, Larimer County, Colorado July 28, 2026
-- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
-- of Estes Park on the 28th day of July, 2026
-- Development Code Update 50% Draft Review
-- Headwaters Planning presented an overview of the 50% draft of the Development Code
-- update. The updated Development Code would incorporate modem best practices and
-- development standards, increase efficiency in the development review process, and
-- align development with the Estes Forward Comprehensive Plan. Public outreach
-- public dialogues, and two public deliberations. Feedback received to date included
-- providing clear and consistent criteria for when a development plan is required, to
-- differentiate requirements for low-impact or small-scale projects and larger projects, and
-- to streamline review procedures. Modifications to zoning standards of 10% to 24%
-- would be considered by the Planning Commission and modifications 25% or greater
-- would be considered by the Town Board. Potential updates were considered for the
-- Final Plat, Minor Subdivisions, PUD Final Plan, Special Review Uses, and Location and
-- Extent Review procedures. Three new zoning districts were introduced: a Mixed-Use
-- (MU) district for medium to high-density development to blend residential, commercial,
-- government buildings, parks, and schools; and an Open Space and Natural Areas (OS)
-- district for open space and recreation land. Additional housing typologies were
-- permitted in Residential Multi-Family (RM) and Mixed-Use (MU) zone districts. The
-- a Wildlife Conservation Plan for most new developments. The Tree Protection and
-- Landscaping section aligned with the Colorado Wildfire Resiliency Code, as adopted by
-- the Town and Estes Valley Fire Protection District (EVFPD) in 2026. Design Guidelines
-- would apply to new developments and allow for flexibility while regulating parking for
-- commercial and multi-family developments, building height, and outdoor lighting. The
-- sign code from the Municipal Code would be integrated into the Development Code,
-- with standards added for additional types of signs. The updated Development Code was
-- Krohngold stated it would be considered based on the Board's direction and Supino
-- noted a strong split in the community between affordable housing advocates desiring
-- maintain the current neighborhood densities; suggested expanding permitted
-- special use permits, Krohngold explained conditional use permits allow for slight
-- deviations from the zoning use that do not impact surrounding properties and would be
-
-## [estes-park#2] 2026-08-11 | Town Board Study Session | minutes
+## [estes-park#0] 2026-08-11 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado August 11, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 11th day of August, 2026
@@ -104,7 +34,7 @@
 - however there were some counties seeking certification; discussed the requirements of
 - the Dark Sky Community Certification, it was noted the certification committee would
 
-## [estes-park#3] 2026-08-11 | Town Board | minutes
+## [estes-park#1] 2026-08-11 | Town Board | minutes
 - Town ofEstes Park, Larimer County, Colorado, August 11, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
 - Estes Park on the 11th day of August, 2026
@@ -141,7 +71,7 @@
 - action within 30 days of the application or the item would be deemed approved. Staff
 - stated the code allows PUD applications to be brought forward as a single application
 
-## [estes-park#4] 2026-08-25 | Town Board Study Session | minutes
+## [estes-park#2] 2026-08-25 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado August 25, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 25th day of August, 2026
@@ -176,7 +106,7 @@
 - require licenses to operate, Greear stated some MDs require a license to operate but
 - not all; discussed the need to clarify the existing regulations in the Municipal Code in
 
-## [estes-park#5] 2026-08-25 | Town Board | minutes
+## [estes-park#3] 2026-08-25 | Town Board | minutes
 - Town of Estes Park, Larimer County, Colorado, August 25, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town
 - of Estes Park on the 25th day of August, 2026
@@ -212,7 +142,7 @@
 - It was moved and seconded (Hazelton/Igel) to approve the Consent Agenda, and it
 - Report and Discussion Items (Outside Entities):
 
-## [estes-park#6] 2026-09-08 | Town Board Study Session | minutes
+## [estes-park#4] 2026-09-08 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado September 8, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 8th day of September, 2026
@@ -246,7 +176,7 @@
 - attainable housing rentals as costing no more than 30% of a renter's income and
 - defining attainable housing homeownership as costing no more than 40% of a
 
-## [estes-park#7] 2026-09-08 | Town Board | minutes
+## [estes-park#5] 2026-09-08 | Town Board | minutes
 - Town ofEstes Park, Larimer County, Colorado, September 8, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
 - Estes Park on the 8th day of September, 2026
@@ -284,7 +214,7 @@
 - technical error in the text of the Official Zoning Map of the Development Code
 - Proposed Review Criteria 2 had been drafted to ensure developmental consistency
 
-## [estes-park#8] 2026-09-22 | Town Board Study Session | minutes
+## [estes-park#6] 2026-09-22 | Town Board Study Session | minutes
 - Town ofEstes Park, Larimer County, Colorado September 22, 2026
 - Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
 - of Estes Park on the 22nd day of September, 2026
@@ -318,7 +248,7 @@
 - or incorporate feather flags within a permanent code revision. Board discussion ensued
 - visually appealing versus one; mixed Board support for no fee versus fee and permit
 
-## [estes-park#9] 2026-09-22 | Town Board | minutes
+## [estes-park#7] 2026-09-22 | Town Board | minutes
 - Town ofEstes Park, Larimer County, Colorado, September 22, 2026
 - Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
 - Estes Park on the 22nd day of September, 2026
@@ -355,3 +285,72 @@
 - customers into the Northern Colorado Water Conservancy District (NCWC) and
 - of being incorporated and the Town would petition the District Court to include properties
 - desire to complete the incorporation of NCWC customers and discussed the timeline
+
+## [estes-park#8] 2026-10-13 | Town Board Study Session | minutes
+- Town ofEstes Park, Larimer County, Colorado October 13, 2026
+- Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+- of Estes Park on the 13th day of October, 2026
+- Parking License Plate Recognition Policy
+- Director Greear and Manager Klein presented a draft policy for the use of Parking
+- License Plate Recognition (LPR) technology by the Town and Town contractors. Since
+- Town LPRs collect a context photograph, a photograph of the license plate, the GPS
+- plate text. Data would be retained for one (1) day unless connected to a citation, in
+- occupancy data not connected to individual license plate information would be retained
+- permanently. Permitted uses of LPR data would include to verify paid parking; verify
+- virtual permits; digital chalking; identify scofflaws; support parking citations with
+- photographs of plates, environmental context, and GPS coordinates; and use
+- anonymized occupancy data to help plan the parking program. Prohibited uses included
+- monitoring First Amendment activity, enforcing federal immigration law, selling or
+- surveillance, or supporting investigations unrelated to parking. Limited exceptions would
+- as certified by the Chief of Police, the Parking and Transit Manager would provide the
+- requested information to the Chief of Police. Access to LPR data would be limited to
+- trained Parking and Transit staff and vendors. The data would be protected by unique
+- LPR system, Klein confirmed it was possible to set an alert for a license plate and to
+- Klein confirmed it was used to monitor all Town-owned, paid parking areas; requested
+- clarification of the parking violation citation process, Klein explained LPR flagged
+- potential violations and then the violation was verified in-person by a Car Park
+- Klein estimated between 1,500 and 1,800 total parking citations were issued annually
+- (3) scofflaw or repeat offenders were identified annually; Klein confirmed The Car Park
+- was not paid based on the number of citations issued; inquired who were the parking
+- and parking data vendors, Klein stated The Car Park was the Town approved contractor
+- for parking management and the data vendors were Genetec and Mistall, Attorney
+- Kramer explained Genetec's system operated in such a way that Genetec did not have
+- access to the data and Mistall would hold the plate numbers for a day; discussed
+- considering an ordinance to limit private use of LPR systems within Town limits, Klein
+- vendors; and requested the draft policy be brought back for consideration by the Board
+- Winter Event Strategy Proposal
+
+## [estes-park#9] 2026-10-13 | Town Board | minutes
+- Town ofEstes Park, Larimer County, Colorado, October 13, 2026
+- Park, Larimer County, Colorado. Meeting held in the Town Hall in said Town of
+- Estes Park on the 13th day of October, 2026
+- Agenda Approval
+- It was moved and seconded (Hall/Eshelman) to approve the Agenda, and it passed
+- Public Comments
+- alternative plan he identified as more cost effective. His comments have been
+- summarized: Concerns related to the cost of the project; population data used to justify
+- and urged the Board to consider cost effective and operationally beneficial options
+- identified tobacco use in kids as an impediment to learning, an obstacle for teaching and
+- a huge cost to the community. She encouraged the Town to consider supporting policies
+- unincorporated Larimer County to study and consider policy changes. In the last survey
+- 12 to 14, which was consistent with what they are seeing in Estes Park schools. Some
+- other communities in considering policies against these products to help protect the youth
+- public comment and Larimer County's concerns related to youth tobacco use; the Board
+- would host the first Friday Art Groove as a Dia de Los Muertos theme; Estes Park has
+- Municipal League hosted a District Meeting and discussed e-bikes, micro-mobility
+- of e-bike accidents involving youth; the public were encouraged to tour the Platte River
+- with regard to 3.4.5 specifically purchasing practices contracty to purchasing policies. He
+- stated the non-compliance was related to inventory purchases for the Power and
+- Communications and Water Divisions. There has been a longstanding practice to procure
+- minor update to raise the purchase order threshold occurred. To summarize, he stated
+- the Divisions were not adhering to the $30,000 bid process outlined in the policy and were
+- instead accepting competitive quotes. He stated inventory purchases are commonly
+- treated separately than other puchases which communities make, however, as this was
+- not addressed explicitly in the policies, the default would be the bid process. This would
+- be discussed when the Town revises the purchasing policies which was underway. In
+- public bid sources where a public bid process has taken place to satisfy the requirements
+- The First People's Festival, in partnership with Visit Estes Park and the Chamber of
+- Municipal Clerk designation, the highest certification awarded by the International Intitute
+- 1. Expenditure Approval Lists - Bills
+- 3. Purchase of Five S&C IntelliRupter PulseClosers, $333,222.25, Budgeted
+- 4. Extension Request for Colorado Department of Local Affairs (DOLA) Grant EIAF

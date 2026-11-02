@@ -1,113 +1,98 @@
-- title: 'Hillcamp development: roadway plat and water booster pump station'
-  summary: 'The Planning Commission is holding public hearings on Oct. 13 for infrastructure serving the Hillcamp development: the Hillcamp Trail Filing No. 1 final plat and a water booster pump station (use by special review and site improvement plan). The remaining Hillcamp applications are still under review and will get hearings later.'
-  where: Hillcamp, Lone Tree
+- title: Brick wall construction management contract with Alfred Benesch
+  summary: Council reviewed an update and communications plan for the city's brick wall project. It also took up a professional services agreement with Alfred Benesch & Company for construction management. The documents do not state the outcome.
+  where: Citywide
   refs:
-  - 13
-  topics:
-  - Zoning & development
-  - Water
-  - Land & property
-  public_comment: true
-- title: 'Brick Wall project: construction management contract'
-  summary: Council is considering a professional services agreement with Alfred Benesch & Company for construction management of the Brick Wall project. Council also had a Brick Wall update and communications plan on the study session agenda.
-  where: Lone Tree
-  refs:
-  - 9
-  - 10
+  - 7
+  - 8
   topics:
   - Roads & traffic
   - Government operations
+- title: City Administration building renovation contractor
+  summary: Council considered awarding a general contracting services contract for the City Admin renovation project at the October 6 study session and regular meeting.
+  where: Lone Tree Civic Center, 8527 Lone Tree Parkway
+  refs:
+  - 7
+  - 8
+  topics:
+  - Government operations
+  - Budget & taxes
 - title: Douglas County School District mill levy override and Ballot Issue 5A
-  summary: Council discussed the school district's mill levy override and was set to vote on Resolution 26-46 supporting a yes vote on the district's 2026 Ballot Issue 5A.
+  summary: Council heard a presentation on the Douglas County School District mill levy override. It also considered Resolution 26-46 supporting a yes vote on the district's 2026 Ballot Issue 5A.
   where: Citywide
   refs:
-  - 9
-  - 10
+  - 7
+  - 8
   topics:
   - Schools & youth
   - Elections
   - Budget & taxes
-- title: Off-highway and low-speed electric vehicle rules
-  summary: Council holds a public hearing and second reading of Ordinance 26-08, amending municipal code Chapter 8 to regulate off-highway vehicles and low-speed electric vehicles.
+- title: Off-highway and low-speed electric vehicle rules (Ordinance 26-08)
+  summary: Council held a public hearing on second reading of Ordinance 26-08. It would amend Chapter 8 of the municipal code to regulate off-highway vehicles and low-speed electric vehicles.
   where: Citywide
   refs:
-  - 10
+  - 8
   topics:
   - Roads & traffic
   - Policing & public safety
-- title: City Admin building renovation contract
-  summary: Council is considering awarding a general contracting services contract for the City Admin renovation project.
-  where: Lone Tree Civic Center area
-  refs:
-  - 9
-  - 10
-  topics:
-  - Government operations
-  - Budget & taxes
 - title: Proposition 123 implementation
-  summary: Council is considering Resolution 26-43 on how the city will implement Proposition 123, the state affordable housing program.
+  summary: Council considered Resolution 26-43 on how the city will implement Proposition 123, the state affordable housing program.
   where: Citywide
   refs:
-  - 9
-  - 10
+  - 7
+  - 8
   topics:
   - Housing
-- title: Happy Canyon Trail connection land deed
-  summary: Council is considering Resolution 26-45 accepting a special warranty deed from Schweiger Ranch Foundation for the Happy Canyon Trail Connection project.
+- title: Happy Canyon Trail connection deed from Schweiger Ranch Foundation
+  summary: Council considered Resolution 26-45 to accept a special warranty deed from Schweiger Ranch Foundation for the Happy Canyon Trail connection project.
   where: Happy Canyon Trail
   refs:
-  - 9
-  - 10
+  - 7
+  - 8
   topics:
   - Recreation & trails
   - Land & property
-- title: High Note Park costs and capital projects
-  summary: Council reviewed the High Note Park guaranteed maximum price and wrap-up of new facilities, plus a public works capital project update. A five-year capital projects plan is also on the Oct. 5 strategy session agenda.
-  where: High Note, Lone Tree
-  refs:
-  - 4
-  - 7
-  topics:
-  - Parks & open space
-  - Budget & taxes
-- title: Parks, Open Space and Trails Master Plan and Entertainment District Park
-  summary: The Recreation Advisory Committee is working on the Parks, Open Space, and Trails Master Plan, and discussed the Entertainment District Park and the South Suburban strategic plan.
-  where: Citywide
-  refs:
-  - 3
-  - 8
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: Staffing, compensation and police department planning
-  summary: The Oct. 5 strategy session covered compensation, a five-year staffing plan, the police department and community development.
-  where: Citywide
-  refs:
-  - 7
-  topics:
-  - Government operations
-  - Policing & public safety
-  - Budget & taxes
-- title: Unified Development Code overview
-  summary: Council will hold a preliminary discussion of the city's Unified Development Code at an Oct. 26 strategy session.
-  where: Citywide
-  refs:
-  - 17
-  topics:
-  - Zoning & development
 - title: Snow removal agreement with Douglas County
-  summary: Council is considering Resolution 26-42, an intergovernmental agreement with Douglas County for 2026-2027 snow removal on certain city streets.
+  summary: Council considered Resolution 26-42, an intergovernmental agreement with Douglas County for 2026-2027 snow removal on certain city streets.
   where: Certain city streets
   refs:
-  - 9
-  - 10
+  - 7
+  - 8
   topics:
   - Roads & traffic
   - Government operations
-- title: Civic Center security deposit fee
-  summary: Resolution 26-41 would amend the fee schedule to add a Civic Center security deposit.
-  where: Lone Tree Civic Center
+- title: Southwest Village plan and parks master plan amendments; Fidelity office site plan
+  summary: The Planning Commission scheduled public hearings on the Southwest Village Preliminary Plan Amendment and Parks Master Plan Amendment. It also scheduled a hearing on the Fidelity Office Building site improvement plan.
+  where: Southwest Village; Fidelity Office Building site
   refs:
-  - 4
+  - 15
   topics:
-  - Fees & rates
+  - Zoning & development
+  - Parks & open space
+- title: Unified Development Code overview
+  summary: Council held a strategy session on October 26 for an overview and preliminary discussion of a Unified Development Code.
+  where: Citywide
+  refs:
+  - 14
+  topics:
+  - Zoning & development
+- title: Parks master plan, Entertainment District Park and High Note Park
+  summary: The Recreation Advisory Committee discussed the Parks, Open Space, and Trails Master Plan, the South Suburban strategic plan, Entertainment District Park and a High Note Park update.
+  where: Entertainment District; High Note Park
+  refs:
+  - 3
+  - 6
+  - 10
+  - 16
+  topics:
+  - Parks & open space
+  - Recreation & trails
+- title: Council strategy sessions on staffing, police, capital projects and community development
+  summary: Council's October 5 strategy session covered compensation and a 5-year staffing plan, the Police Department, the 5-year capital projects plan and community development. An earlier session continued discussion of topics from an August 19 retreat.
+  where: Citywide
+  refs:
+  - 1
+  - 5
+  topics:
+  - Budget & taxes
+  - Policing & public safety
+  - Government operations

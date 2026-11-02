@@ -282,7 +282,12 @@
 - Parks, Trails and Recreation Commission Agenda
 - The Thursday, October 8, 2026 meeting of the Parks, Trails and Recreation Commission has
 
-## [cherry-hills-village#13] 2026-10-20 | City Council | agenda
+## [cherry-hills-village#13] 2026-10-13 | Planning & Zoning Commission | agenda
+- If you will need special assistance in order to attend any of the City’s public meetings, please notify the City
+- Planning and Zoning Commission Agenda
+- The October 13, 2026, regularly scheduled meeting of the Planning and Zoning
+
+## [cherry-hills-village#14] 2026-10-20 | City Council | agenda
 - f you will need special assistance in order to attend any of the City’s public meetings, please notify the City
 - City Council Agenda AMENDED
 - udy Session: 2027 Proposed Budget
@@ -317,5 +322,5 @@
 - The 2027 property tax reduction will have a direct impact on the General Fund budget, reducing
 - projected General Fund property tax revenue by approximately $4 million. Based on the Village’s
 
-## [cherry-hills-village#14] 2026-10-26 | Cherry Hills Village Art Commission | agenda
+## [cherry-hills-village#15] 2026-10-26 | Cherry Hills Village Art Commission | agenda
 - If you will need special assistance in order to attend any of the City’s public meetings, please notify the City

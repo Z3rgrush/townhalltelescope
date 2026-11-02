@@ -1,6 +1,6 @@
-- title: Elevation Volleyball Annexation and initial zoning
-  summary: 'Council took up annexation of the Elevation Volleyball property: first reading of the annexation and initial zoning ordinances (2026-O-11 and 2026-O-12) on Sept. 15, then a Planning Commission review of zoning from Arapahoe County mixed use, and public hearings with findings of fact set for Oct. 6. An annexation petition resolution (2026-R-23) was also on the Aug. 18 agenda.'
-  where: Elevation Volleyball Annexation
+- title: Elevation Volleyball annexation and initial zoning
+  summary: Council considered a petition to annex the Elevation Volleyball property from Arapahoe County, with initial zoning (Ordinances 2026-O-11 and O-12). Planning and Zoning reviewed the zoning on Sept 9, first reading was Sept 15, and annexation hearings were set for Oct 6.
+  where: Elevation Volleyball annexation
   refs:
   - 3
   - 10
@@ -9,36 +9,42 @@
   topics:
   - Annexation
   - Zoning & development
-- title: Rezoning north of East Fremont Avenue and east of Potomac Street to light industry
-  summary: Ordinance 2026-O-14 would rezone property north of E. Fremont Ave. and east of Potomac St. from PUD to Employment Center – Light Industry 50 (EC-LI-50). It went to Planning Commission Aug. 26, first reading Sept. 1, and a public hearing Sept. 15 (Case RZONE-26-00001).
-  where: North of E. Fremont Ave. and east of Potomac St.
+- title: Rezoning of business park and industrial land (Fremont/Potomac, Nichols/Akron, Chester)
+  summary: Ordinance 2026-O-14 would rezone land north of East Fremont Avenue and east of Potomac Street from PUD to Employment Center – Light Industry 50. Further rezonings south of East Nichols and east of South Akron, and west of South Chester, from Business Park to Employment Center were on first reading Nov 2. Council also held a legal-advice session on regulating industrial and business parks and discussed legislative zoning opportunities.
+  where: East Fremont Ave/Potomac St; East Nichols Ave/South Akron St; South Chester St
   refs:
   - 5
   - 6
   - 12
+  - 13
+  - 18
+  - 22
   topics:
   - Zoning & development
   - Economic development
 - title: 2027/2028 biennial budget
-  summary: The Budget Committee and Council held work sessions on revenues and fund balance, a Sept. 11 review of the proposed 2027/2028 budget, and workshops on the City Manager's proposed budget Oct. 12 and 13.
+  summary: The Budget Committee and Council held work sessions and budget workshops on revenues, fund balance and the City Manager's proposed 2027/2028 budget. Committee also reviewed a fee and cost analysis for general improvement districts.
   where: Citywide
   refs:
+  - 0
   - 9
   - 11
   - 16
   - 17
   topics:
   - Budget & taxes
+  - Fees & rates
 - title: Sales and use tax rate increase and election
-  summary: On Aug. 11 Council considered an intergovernmental agreement with an election official and a resolution on authorization to increase the sales and use tax rate (Resolutions 2026-R-25 and 2026-R-26). The documents don't state the outcome.
+  summary: Resolutions in August covered an intergovernmental agreement for election administration and authorization to increase the sales and use tax rate. Ordinance 2026-O-21 amending Chapter 4 on a tax rate increase was set for hearing Nov 17.
   where: Citywide
   refs:
   - 1
+  - 22
   topics:
   - Budget & taxes
   - Elections
 - title: Opting out of the state graywater program
-  summary: Ordinance 2026-O-15 would opt Centennial out of the state graywater program and prohibit graywater treatment works and graywater use. First reading was Sept. 1 with a hearing on Sept. 15.
+  summary: Ordinance 2026-O-15 would opt Centennial out of the state graywater program and prohibit graywater treatment works and use. It had first reading Sept 1 and a public hearing Sept 15.
   where: Citywide
   refs:
   - 6
@@ -46,42 +52,43 @@
   topics:
   - Water
   - Environment & climate
-- title: Land Development Code amendments and industrial/business park regulation
-  summary: Council study session on Oct. 6 and Planning Commission on Oct. 14 discussed proposed Land Development Code amendments and legislative zoning opportunities. A Sept. 15 special meeting was held for legal advice on regulating industrial and business park uses.
+- title: Land Development Code amendments
+  summary: Planning and Zoning and Council study sessions discussed proposed amendments to the Land Development Code in October.
   where: Citywide
   refs:
-  - 13
   - 15
   - 18
   topics:
   - Zoning & development
-  - Lawsuits & legal
-- title: General Improvement District fee and cost analysis
-  summary: The Budget Committee reviewed a fee and cost analysis for General Improvement Districts on Aug. 6. The documents give no details.
-  refs:
-  - 0
-  topics:
-  - Fees & rates
-  - Budget & taxes
-- title: Westray Business Improvement District 2027 operating plan and budget
-  summary: Council considered Resolution 2026-R-32 approving the Westray Business Improvement District's 2027 operating plan and budget on Oct. 20.
-  where: Westray Business Improvement District
-  refs:
-  - 20
-  topics:
-  - Budget & taxes
-  - Downtown & business
+  - Government operations
 - title: Livable Streets residential collectors next phase
-  summary: Council had a discussion item on the next phase of the Livable Streets program for residential collector streets on Oct. 20.
-  where: Citywide
+  summary: Council discussed the next phase of the Livable Streets program for residential collector streets on Oct 20.
+  where: Residential collector streets
   refs:
   - 20
   topics:
   - Roads & traffic
-- title: Cisco's All In One Auto Repair conditional use
-  summary: Planning Commission considered a resolution approving a conditional use for Cisco's All In One Auto Repair on Sept. 9.
+- title: Changes to Investment and Budget Committees
+  summary: Ordinance 2026-O-17 would amend the rules for the city's Investment and Budget Committees, including member appointment dates, with a hearing set for Nov 17.
+  where: Citywide
   refs:
-  - 10
+  - 19
+  - 22
   topics:
-  - Zoning & development
+  - Government operations
+- title: Grant funding agreement and housing bond allocation
+  summary: Council considered amending the 2026 budget to accept grant funding, and assigning private activity bond ceiling to the Colorado Housing and Finance Authority.
+  where: Citywide
+  refs:
+  - 3
+  topics:
+  - Housing
+  - Budget & taxes
+- title: Westray Business Improvement District 2027 plan and budget
+  summary: Council considered Resolution 2026-R-32 approving the Westray Business Improvement District's 2027 operating plan and budget.
+  where: Westray BID
+  refs:
+  - 20
+  topics:
   - Downtown & business
+  - Budget & taxes

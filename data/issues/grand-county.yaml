@@ -1,5 +1,5 @@
-- title: 2027 Grand County budget hearings
-  summary: Commissioners scheduled budget hearings October 5-9, 2026, covering every department, including Road and Bridge, airports, the Housing Authority, Economic Development, and a 5-year budget projection, followed by deliberations.
+- title: 2027 county budget hearings
+  summary: Commissioners scheduled budget hearings for October 5-9, 2026, going department by department, including Road and Bridge, airports, Housing Authority, Community Development and Economic Development. The sessions include a 5-year budget projection and deliberations.
   where: Countywide
   refs:
   - 4
@@ -7,69 +7,78 @@
   topics:
   - Budget & taxes
   - Government operations
-- title: Devil's Thumb Ranch High Lonesome Lodge lot split
-  summary: 'The Planning Commission unanimously recommended approval of an outright exemption splitting a 44.33-acre parcel into two lots: an 8.82-acre lot for the existing lodge and a 32.60-acre lot for a possible future single-family home. Staff set 14 conditions, and no public notice was required.'
-  where: Devil's Thumb Ranch, High Lonesome Lodge, unincorporated Grand County
-  refs:
-  - 1
-  topics:
-  - Land & property
-  - Zoning & development
-- title: Good to Go portable toilet storage special use permit
-  summary: The Planning Commission reviewed a request for a special use permit to store up to 200 clean, empty portable toilets on land in the Forestry and Open zone outside the growth boundary. Staff recommended conditional approval.
-  where: Former Bergquist Outright Exemption property, unincorporated Grand County
-  refs:
-  - 1
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Subdivision, PUD regulations and Master Plan updates
-  summary: The September 9 Planning Commission agenda included amendments to the county's subdivision and planned unit development regulations and a Master Plan update, along with a replat in Winter Park Ranch Second Filing.
+- title: Subdivision and PUD regulation amendments and Master Plan update
+  summary: The Planning Commission's September 9 agenda included amendments to the county subdivision regulations and Planned Unit Development regulations, plus a Master Plan update. Commissioners set a public hearing on the subdivision regulation amendments for October 27.
   where: Unincorporated Grand County
   refs:
   - 2
+  - 9
   topics:
   - Zoning & development
   - Land & property
-- title: County departmental fee changes
-  summary: Commissioners set a public hearing on October 20 on changes to Grand County departmental fees.
+- title: Devil's Thumb Ranch High Lonesome Lodge lot split
+  summary: The Planning Commission unanimously recommended approval, with 14 conditions, of an outright exemption splitting a 44.33-acre parcel into an 8.82-acre lot with the existing lodge and a 32.60-acre lot for a possible single-family home. No public notice was required for this type of application.
+  where: Devil's Thumb Ranch, Forestry and Open zone
+  refs:
+  - 1
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Good to Go portable toilet storage permit
+  summary: The Planning Commission reviewed a Special Use Permit request to store up to 200 clean, empty portable toilets on land in the Forestry and Open zone. Staff recommended conditional approval.
+  where: Former Bergquist Outright Exemption property, Forestry and Open zone
+  refs:
+  - 1
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Building code appeals for two U.S. Highway 34 storage projects
+  summary: The Board of Appeals was set to hear two appeals over how the county's adopted building code applies to Stillwater Storage and to the Storage at the Fort/Uplift Self Storage project.
+  where: 9405 and 10393 U.S. Highway 34
+  refs:
+  - 10
+  topics:
+  - Zoning & development
+  - Government operations
+- title: Departmental fee changes and Model Traffic Code amendment
+  summary: Commissioners scheduled October 20 public hearings on changes to county departmental fees and on the second reading of Ordinance 23, amending the Model Traffic Code.
   where: Countywide
   refs:
-  - 7
+  - 8
   topics:
   - Fees & rates
-- title: St. Joseph's Foundation Retreat camping special use permit
-  summary: A public hearing was scheduled October 20 on a special use permit for camping at the St. Joseph's Foundation Retreat.
+  - Roads & traffic
+- title: St. Joseph's Foundation Retreat camping permit
+  summary: Commissioners scheduled an October 20 public hearing on a Special Use Permit for camping at the St. Joseph's Foundation Retreat.
   where: St. Joseph's Foundation Retreat
   refs:
-  - 7
+  - 8
   topics:
   - Zoning & development
   - Recreation & trails
-- title: Model Traffic Code amendment (Ordinance 23)
-  summary: Commissioners were to hold the second reading of an ordinance amending the county's Model Traffic Code on October 20.
+- title: Restoring Certified Local Government status for historic preservation
+  summary: The Historic Preservation Board named restoring the county's Certified Local Government status an immediate priority, and the chair will contact History Colorado about requirements. The board also discussed historic inventories, landmark designations and a countywide preservation plan. A member of the public asked what properties qualify for designation.
   where: Countywide
   refs:
   - 7
   topics:
-  - Roads & traffic
-  - Policing & public safety
-- title: Drought preparedness and fire restrictions
-  summary: Commissioners were to consider a Drought Preparedness Memorandum of Understanding through Water Resources and a Sheriff's Office action on fire conditions and restrictions. A FirePermits contract with Road and Bridge/Natural Resources was also on the agenda.
+  - Historic preservation
+  - Government operations
+  public_comment: true
+- title: 'Water: drought preparedness MOU and water rights accounting'
+  summary: Commissioners were to consider a Drought Preparedness Memorandum of Understanding on October 20 and a water rights accounting contract with Rozaklis and Associates on October 27.
   where: Countywide
   refs:
-  - 5
-  - 7
+  - 8
+  - 9
   topics:
   - Water
-  - Fire & emergencies
   - Environment & climate
-- title: 2027 Middle Park Fair and Rodeo contractor RFP
-  summary: The Fair and Rodeo board was to approve a request for proposals for the 2027 rodeo contractor. The fair also appeared in the county budget hearings.
-  where: Middle Park Fairgrounds
+- title: Grand Lake Skijoring temporary use permit
+  summary: A hearing on a temporary use permit for Colorado Skijoring, doing business as Grand Lake Skijoring, was continued from October 13 to October 27.
+  where: Grand Lake
   refs:
-  - 3
-  - 6
+  - 9
   topics:
   - Tourism & events
-  - Budget & taxes
+  - Recreation & trails

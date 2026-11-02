@@ -1,5 +1,5 @@
 - title: Beaver Creek Diversion Restoration and infiltration gallery
-  summary: The Town amended its RESPEC engineering contract to $657,312 to redesign the infiltration gallery after the original contractor left it out of scope. In June 2026 Council awarded the gallery work to Meridian Contracting for up to $641,386. The project is funded by NRCS grants and a CWCB loan of up to $8.08 million, with total cost near $4 million.
+  summary: The Town amended its RESPEC engineering contract to $657,312 in January 2026 to redesign the infiltration gallery. The project is funded by NRCS grants and a CWCB loan of up to $8,080,000, with total cost near $4 million. In June 2026 Council awarded the gallery work to Meridian Contracting for no more than $641,386.
   where: Beaver Creek diversion
   refs:
   - 4
@@ -9,13 +9,25 @@
   - Water
   - Utilities
   - Budget & taxes
-- title: Housing Action Plan, Proposition 123 and workforce housing
-  summary: The Town drafted a Housing Action Plan with five goal areas under state law (SB 24-174), reviewed it with the Planning Commission in August 2026, and scheduled a resolution to adopt it in October. The Home Trust of Ouray County runs regional housing services, and the Town is considering joining Prop 123 for 2027 and exercising a right of first refusal on 683 Frederick St. Council also backed a down payment assistance MOU with the Telluride Foundation and noted the Town's earlier shift of the lodge to workforce housing.
+- title: Wastewater Treatment Plant renovation and siting
+  summary: Council reviewed the needs assessment for renovating the wastewater treatment plant in May 2026. Siting and treatment options were slated for discussion at the September agenda and the October 31 budget retreat. A resident asked that the new plant be built to last 50 to 60 years.
+  where: Ridgway wastewater treatment plant
+  refs:
+  - 9
+  - 10
+  - 14
+  - 17
+  topics:
+  - Utilities
+  - Water
+  - Budget & taxes
+  public_comment: true
+- title: Housing Action Plan and regional affordable housing services
+  summary: The Town is preparing a Housing Action Plan required under state law (SB 24-174) with five goal areas, including ADUs, land banking and workforce housing. A resolution adopting it was on the October 14 agenda, along with Proposition 123 participation and the Home Trust of Ouray County's housing services work. The Home Trust also gave the Council a right-of-first-refusal decision on a home at 683 Frederick St.
   where: Townwide
   refs:
-  - 1
   - 3
-  - 5
+  - 6
   - 8
   - 12
   - 13
@@ -25,124 +37,88 @@
   - Housing
   - Zoning & development
   - Government operations
-- title: 2026 budget and 2027 budget process
-  summary: Council reviewed the draft 2026 budget amid a 22.64% drop in sales tax receipts from 2024, with 2.4% pay movements, and adopted the budget and property tax levies in December 2025. A draft 2027 budget and a schedule for preparing it came up in fall 2026, along with community grant awards of about $98,205 recommended from $117,385 requested.
+- title: 2026 and 2027 budgets, sales tax decline and capital plans
+  summary: The 2026 budget was adopted in December 2025 after workshops. Staff noted sales tax receipts were down 22.64% from 2024, with 2.4% pay movements proposed. The draft 2027 budget was presented in October with a budget retreat on October 31 covering pay, capital projects and funding requests from the Home Trust and EcoAction Partners.
   where: Townwide
   refs:
   - 0
   - 1
   - 2
-  - 14
   - 15
+  - 17
   topics:
   - Budget & taxes
-  - Fees & rates
-  public_comment: true
-- title: Wastewater treatment plant renovation and siting
-  summary: Town engineer presented a needs assessment for renovating the wastewater treatment plant in May 2026, and a resident urged building the new plant for a 50-60 year life. In September 2026 Council was to discuss and give direction on plant siting options.
-  where: Wastewater treatment plant
-  refs:
-  - 9
-  - 10
-  - 14
-  topics:
-  - Utilities
-  - Water
   - Government operations
   public_comment: true
-- title: Water supply, conservation and drought restrictions
-  summary: Residents asked how planning accounts for water as the town grows. Staff pointed to a draft Water Supply Element of the Master Plan amendment. Council also took up lifting Stage 2 mandatory water restrictions and a resolution modifying the Water Conservation and Management Plan.
+- title: Lodge converted to workforce housing and tourism strategy
+  summary: The Town's move of a lodge to workforce housing cut lodging tax revenue by about $40,000 and reduced sales tax. The Council received a tourism strategy report and a destination marketing plan, and signed a visitor and business engagement agreement.
   where: Townwide
   refs:
-  - 13
-  - 14
-  - 15
-  topics:
-  - Water
-  - Environment & climate
-  - Zoning & development
-  public_comment: true
-- title: Tourism strategy and lodging revenue loss
-  summary: A Destination Development Mentor Program report said the lodge's conversion to workforce housing reduced lodging tax revenue by about $40,000 and cut sales tax revenue. Council heard a draft destination marketing plan and approved an agreement for visitor and business engagement services.
-  where: Townwide
-  refs:
+  - 2
   - 5
   - 10
   - 12
   topics:
   - Tourism & events
   - Economic development
-  - Budget & taxes
-- title: Wildfire code, fire restrictions and Gold Mountain Fire
-  summary: Council introduced an ordinance adopting the 2025 Colorado Wildfire Resiliency Code and other building codes. In summer 2026 it managed Stage 1 and 2 fire restrictions, and a resident thanked the Town for support during the Gold Mountain Fire. The Mayor signed a letter supporting the Governor's disaster declaration request.
+  - Housing
+- title: Water supply planning and drought restrictions
+  summary: Council reviewed the Draft Water Supply Element of the Master Plan amendment. It considered rescinding Stage 2 mandatory water restrictions and fire restrictions, and a modified Water Conservation and Management Plan. A resident asked how growth is being planned against water supply.
   where: Townwide
   refs:
-  - 8
-  - 12
+  - 13
   - 14
   - 15
   topics:
+  - Water
+  - Environment & climate
   - Fire & emergencies
-  - Environment & climate
-  - Zoning & development
-  public_comment: true
-- title: Vehicle idling ordinance
-  summary: Council considered an ordinance to limit vehicle idling in Chapter 15 of the municipal code in December 2025. In July 2026 a resident asked Council to reconsider addressing the proposed idling ordinance.
-  where: Townwide
-  refs:
-  - 2
-  - 12
-  topics:
-  - Environment & climate
-  - Government operations
   public_comment: true
 - title: Lawsuit over land use code
-  summary: In March 2026 Council discussed filing a complaint for declaratory and injunctive relief, citing the importance of defending the land use code and not setting a precedent.
+  summary: In March 2026 Council considered filing a Complaint for Declaratory and Injunctive Relief, discussing the importance of defending the land use code and not setting a precedent.
   where: Townwide
   refs:
   - 7
   topics:
   - Lawsuits & legal
   - Zoning & development
-- title: Street closures for events and Clinton Street business concerns
-  summary: Council approved closures of Clinton Street for a film shoot, Pride event and other events with no-parking stipulations. A business owner said he got insufficient notice of a Clinton Street closure and asked for business input before closures are approved.
+- title: Wildfire Resiliency Code and building code update
+  summary: Council introduced Ordinance 03-2026 adopting the 2025 Colorado Wildfire Resiliency Code and other codes by reference, with 25 of 26 staff amendments forwarded by the Planning Commission.
+  where: Townwide
+  refs:
+  - 8
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+- title: Vehicle idling ordinance
+  summary: An ordinance to limit vehicle idling was presented for adoption in December 2025. In July 2026 a resident asked Council to reconsider addressing the proposed idling ordinance.
+  where: Townwide
+  refs:
+  - 2
+  - 12
+  topics:
+  - Environment & climate
+  public_comment: true
+- title: Street closures for events and Council meeting procedures
+  summary: Council weighed closures of Clinton Street and other streets for events, and a business owner complained of insufficient notice. Council also discussed adopting rules of procedure and decorum, including time limits on comment.
   where: Clinton Street
   refs:
   - 9
   - 10
+  - 11
   - 13
   topics:
   - Roads & traffic
   - Tourism & events
-  - Downtown & business
+  - Government operations
   public_comment: true
-- title: Athletic Park bike park and recreation fee
-  summary: The Athletic Park Coalition asked for Town funds to pursue architectural and engineering design for a bike park. Council also considered a letter of support for a proposed recreation fee.
-  where: Ridgway Athletic Park
-  refs:
-  - 14
-  topics:
-  - Recreation & trails
-  - Parks & open space
-  - Fees & rates
-  public_comment: true
-- title: Development applications on Liddell Drive and business parks
-  summary: Council scheduled hearings on the Riverbend Townhomes site plan on Liddell Drive, an amended plat for Riverview Business Park, and an amended plat for Northridge Subdivision Lot 2A. It also awarded pre-approved accessory dwelling unit design plans.
-  where: Liddell Drive, Riverview Business Park, Northridge Subdivision
+- title: Athletic Park Bike Park and development applications
+  summary: The Athletic Park Coalition asked for Town funds for design of a bike park. Council also had a site plan for Riverbend Townhomes on Liddell Drive and plat applications.
+  where: Ridgway Athletic Park; Liddell Drive
   refs:
   - 6
   - 14
   - 15
   topics:
+  - Recreation & trails
   - Zoning & development
-  - Housing
-- title: Council rules of procedure and public comment decorum
-  summary: Council discussed formal procedural rules, time limits for presentations and public comment, and keeping comments on topic. A resident urged calm, respectful meetings.
-  where: Town Council
-  refs:
-  - 5
-  - 11
-  topics:
-  - Government operations
-  - Ethics & transparency
-  public_comment: true

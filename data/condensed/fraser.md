@@ -1,59 +1,6 @@
 # fraser
 
-## [fraser#0] 2026-07-29 | Board of Adjustment | agenda
-- Approval Of Agenda
-- Public Comment
-- Public Hearing
-- The Off-Street Parking Requirements Of The Fraser Municipal Code
-- 00 Hearing Memo.pdf
-- 01 Variance Application.pdf
-- Resolution 2026-07-0101 Approving An Interim Order In The Matter Petition Of Fraser
-- Valley Arts For A Variance From The Off-Street Parking Requirements Of The Fraser
-- BOA RESOLUTION 2026-07-01 APPROVING AN INTERIM ORDER.PDF
-
-## [fraser#1] 2026-07-29 | Planning Commission | minutes
-- 2. Approval of Agenda:
-- approve the agenda. Motion carried: 7-0
-- Commissioner Soles moved, and Commissioner Bowles seconded the motion to approve
-- 4. Public Comment:
-- 5. Public Hearing And Possible Action:
-- a. Grand Park Overlook Filling 2 Final Plat and Final Planned Development Plan
-- the public hearing regarding Grand Park Overlook Filling 2 Final Plat and Final Planned
-- Development Plan at p.m. Motion carried 7-0
-- The project encompasses 135.1 acres of residential, lodging, commercial, and open space
-- uses within the Planned Development District. Key figures include 104 single-family
-- attached units, 70 multi-family units, 500 lodging units, and 65,000 square feet of
-- includes a building height adjustment of up to 65 feet, representing a 30% increase
-- permitted under the FPDP code without requiring a PD amendment, which had been
-- previously approved by the Planning Commission in February 2026. Open space totals
-- golf course in Area 23W on town wells, which could result in costly future water treatment
-- needs. The lack of dedicated public parks or trails and the clarity and completeness of the
-- Leland Creek Trail connection were criticized. It was suggested to request the owed 5
-- acres of public land outlined in the annexation agreement before further parcel platting
-- the recreational amenities in 23W are private, and the full plan is scheduled to return to
-- Park was highlighted, and there was agreement for Town Planner Seward and the
-- The final condition of approval is the soon-to-be-finalized West Mountain Water Master
-- No public comment was received
-- Development Plan. Motion carried 7-0
-- ai. PC Resolution 2026-07-01 Recommending Approval of Final Plat and FPDP
-- approve PC Resolution 2026-07-01 Recommending Approval of Final Plat and FPDP
-- 6. Discussion
-- a. Discuss Strategy for Chapter 18 and 19 Code Amendments
-
-## [fraser#2] 2026-07-30 | Public Arts Committee | minutes
-- 2. Approval of Agenda:
-- 4. Discussion
-- The group discussed updated canvas placement for the festival. It was noted that only two canvases would be
-- Friday morning, and would notify the relevant parties about parking restrictions accordingly
-- placed across the street, and five canvases would remain at the 120Z location
-- submitted a request for utility locates and communicated the situation to Rich, noting that approval to use that
-- group emails or texts and requested to be added
-- that procedural and permitting requirements had caused delays. While there remained a chance the sign could
-- the event would not be available this year, as they were needed for other town priorities including fire
-- response and a road closure
-- The group briefly discussed pedestrian and traffic safety in the festival area. It was noted that the speed limit
-
-## [fraser#3] 2026-08-05 | Board of Trustees and Fraser Housing Authority | agenda
+## [fraser#0] 2026-08-05 | Board of Trustees and Fraser Housing Authority | agenda
 - Participate in the meeting through our virtual platform
 - Workshop - Fraser River Corridor Master Plan- Next
 - Approval Of Agenda
@@ -84,7 +31,7 @@
 - guidance to ensure on time, on budget, and on
 - Enable: Advocacy, resource development,
 
-## [fraser#4] 2026-08-13 | Joint Facilities Oversite Committee | agenda
+## [fraser#1] 2026-08-13 | Joint Facilities Oversite Committee | agenda
 - Approval Of Agenda
 - Capital Improvement Projects & Plant Expansion Update - Tetra Tech
 - New Discharge Permit Appeal Update - Gabe Racz
@@ -97,7 +44,7 @@
 - of Fraser and the Winter Park Ranch Water and Sanitation District sit as the Joint
 - The JFOC Committee reserves the right to take action on any discussion item
 
-## [fraser#5] 2026-08-13 | Public Arts Committee | minutes
+## [fraser#2] 2026-08-13 | Public Arts Committee | minutes
 - 2. Approval of Agenda:
 - Callie moved, and Robin seconded the motion to approve the Agenda. Motion carried:
 - Anistasia moved, and Cynthia seconded the motion to approve the Agenda. Motion
@@ -128,12 +75,12 @@
 - Unsold and Past-Year Murals The committee discussed options for the one mural that did not sell
 - Fire and Ice — Tabled for discussion at the next meeting. The committee expressed a
 
-## [fraser#6] 2026-08-19 | Board of Trustees and Fraser Housing Authority | agenda
+## [fraser#3] 2026-08-19 | Board of Trustees and Fraser Housing Authority | agenda
 - hearing impairment are available upon request
 - guidance to ensure on time, on budget, and on
 - Enable: Advocacy, resource development,
 
-## [fraser#7] 2026-08-26 | Planning Commission | minutes
+## [fraser#4] 2026-08-26 | Planning Commission | minutes
 - 2. Approval of Agenda:
 - Commissioner Bowles moved, and Commissioner Smith seconded the motion to approve
 - 3. Public Comment:
@@ -173,7 +120,7 @@
 - for waivers to be granted uniformly by staff, minimizing repetitive fee handling
 - adopt drought/fire-resilient standards, with non-functional turf prohibited for new
 
-## [fraser#8] 2026-09-02 | Board of Trustees and Fraser Housing Authority | minutes
+## [fraser#5] 2026-09-02 | Board of Trustees and Fraser Housing Authority | minutes
 - Planner, Jack Seward; Interim Police Chief, Donnie Ransom
 - 2. Approval of Agenda:
 - Trustee Smith moved, and Trustee White seconded the motion to approve the agenda
@@ -194,10 +141,10 @@
 - therein by Town Attorney, and (2) to discuss the upcoming mediation in the conservation
 - policy and tenant eligibility preferences under the Fair Housing Act and Colorado law
 
-## [fraser#9] 2026-09-08 | Downtown Development Authority Board | agenda
+## [fraser#6] 2026-09-08 | Downtown Development Authority Board | agenda
 - Downtown Development Authority Board
 
-## [fraser#10] 2026-09-10 | Public Arts Committee | minutes
+## [fraser#7] 2026-09-10 | Public Arts Committee | minutes
 - 2. Approval of Agenda:
 - Cyndy moved, and Kerry seconded the motion to approve the Agenda. Motion carried:
 - 4. Discussion
@@ -223,7 +170,7 @@
 - throughout the event area. Jeff will incorporate this into the SOP
 - Similar to the Mural Festival, Jeff requested an SOP with tasks and timelines for Fire & Ice to help his crew
 
-## [fraser#11] 2026-09-16 | Board of Trustees and Fraser Housing Authority | minutes
+## [fraser#8] 2026-09-16 | Board of Trustees and Fraser Housing Authority | minutes
 - McVeigh; Public Works Director, Paul Johnson; Interim Police Chief,
 - 2. Approval of Agenda:
 - Trustee Soles moved, and Trustee Gregory seconded the motion to approve the
@@ -257,7 +204,7 @@
 - session Reassessment of Water Tap Fees on Properties with Expanded or Changed
 - Water Usage. Motion carried: 7-0
 
-## [fraser#12] 2026-09-23 | Planning Commission | agenda
+## [fraser#9] 2026-09-23 | Planning Commission | agenda
 - Participate in the meeting through our virtual platform
 - Public Comment
 - 1 Application Narritive.pdf
@@ -270,7 +217,7 @@
 - Chapter 18 And 19 Code Amendments_Presentation.pdf
 - hearing impairment are available upon request
 
-## [fraser#13] 2026-09-29 | Downtown Development Authority Board | agenda
+## [fraser#10] 2026-09-29 | Downtown Development Authority Board | agenda
 - Downtown Development Authority
 - Participate in the meeting through our virtual platform
 - Approval Of Agenda
@@ -279,7 +226,7 @@
 - DDA Budget 9.25.26 .Pdf
 - Workplan Fraser DDA 2024-2026.Pdf
 
-## [fraser#14] 2026-10-07 | Board of Trustees and Fraser Housing Authority | agenda
+## [fraser#11] 2026-10-07 | Board of Trustees and Fraser Housing Authority | agenda
 - Board of Trustees and Fraser Housing Authority
 - Participate in the meeting through our virtual platform
 - Workshop - 2027 Budget And Priorities
@@ -314,7 +261,7 @@
 - guidance to ensure on time, on budget, and on
 - Enable: Advocacy, resource development,
 
-## [fraser#15] 2026-10-08 | Public Arts Committee | minutes
+## [fraser#12] 2026-10-08 | Public Arts Committee | minutes
 - 2. Approval of Agenda:
 - Cynthia moved, and Steve seconded the motion to approve the Agenda. Motion
 - Cynthia moved, and Steveseconded the motion to approve the Agenda. Motion
@@ -343,7 +290,7 @@
 - The committee discussed a hybrid model in which selected wall murals would be offered on an
 - well as the wall ride at the bike park, both of which were noted positively by committee
 
-## [fraser#16] 2026-10-21 | Board of Trustees and Fraser Housing Authority | agenda
+## [fraser#13] 2026-10-21 | Board of Trustees and Fraser Housing Authority | agenda
 - Board of Trustees and Fraser Housing Authority
 - Participate in the meeting through our virtual platform
 - Workshop - 2027 Budget
@@ -367,3 +314,21 @@
 - hearing impairment are available upon request
 - guidance to ensure on time, on budget, and on
 - Enable: Advocacy, resource development,
+
+## [fraser#14] 2026-10-28 | Planning Commission | agenda
+- Participate in the meeting through our virtual platform
+- Approval Of The Agenda
+- Public Hearing And Action
+- Meyer Lot No. 1 Preliminary Plat
+- 1 Preliminary Plat.pdf
+- 3 Planning Commison Presentation.pdf
+- 4 Public Comment.pdf
+- Resolution 2026-10-01
+- PC Resolution 2026-10-01 Approving a Preliminary Plat.pdf
+- Ordinance No. 340 Amending Chapters 18 And 19 Of The Fraser
+- Ordinance No. 340 Presentation.pdf
+- Ordinance 340 Overview.pdf
+- Ordinance 340_Planning Commission Draft.pdf
+- Resolution 2026-10-02
+- PC Resolution 2026-10-02 Recommending Adoption of ORD 340.pdf
+- hearing impairment are available upon request

@@ -321,3 +321,54 @@
 ## [centennial#21] 2026-10-20 | Special Meeting | agenda
 - 13133 E. Arapahoe Road
 - who is the subject of the personnel matter discussion
+
+## [centennial#22] 2026-11-02 | Special Meeting | agenda
+- 13133 E. Arapahoe Road
+- 4 Public Comment
+- The Public Comment section offers an opportunity for any citizen to express opinions or ask questions
+- not a part of a scheduled public hearing. Citizens will have three minutes for comments if they are
+- Written materials for presentation to Council may be submitted to the City Clerk as the speaker
+- approaches the podium. The City’s computer presentation equipment is not available for general public
+- use, although applicants are permitted to display relevant illustrations and material useful in informing the
+- Council and public of a project. The public may, however, use the document camera for visual
+- presentation of materials, if desired
+- 5 Scheduled Presentations (None)
+- 6 Consideration of Communications, Proclamations and Appointments (None)
+- 7 Consideration of Ordinances on First Reading
+- a ORDINANCE NO. 2026 O-17, AN ORDINANCE OF THE CITY
+- COUNCIL OF THE CITY OF CENTENNIAL, COLORADO AMENDING
+- INVESTMENT AND BUDGET COMMITTEES, REMOVING THE
+- SETTING MEMBER APPOINTMENT DATES AND OTHER ACTIONS
+- (Eddy/Lovelace) (This item is proposed for Public Hearing on November 17,
+- 2026, therefore no public comment will be accepted at tonight’s meeting.)
+- b ORDINANCE NO. 2026-O-18, AN ORDINANCE OF THE CITY
+- REZONING CERTAIN PROPERTY LOCATED SOUTH OF EAST
+- NICHOLS AVENUE AND EAST OF SOUTH AKRON STREET FROM
+- BUSINESSS PARK 75 (BP75) TO EMPLOYMENT CENTER – MIXED
+- DISTRICT UNDER THE LAND DEVELOPMENT CODE, AND
+- AMENDING THE OFFICIAL ZONING MAP (CASE NO. RZONE-26
+- 00002) (McKinniss) (This item is proposed for Public Hearing on November
+- 17, 2026, therefore no public comment will be accepted at tonight’s meeting.)
+- c ORDINANCE NO. 2026-O-19, AN ORDINANCE OF THE CITY
+- REZONING CERTAIN PROPERTY LOCATED WEST OF SOUTH
+- CHESTER STREET FROM BUSINESS PARK 100 (BP100) TO
+- DEVELOPMENT CODE, AND AMENDING THE OFFICIAL ZONING
+- for Public Hearing on November 17, 2026, therefore no public comment will
+- d ORDINANCE NO. 2026-O-21, AN ORDINANCE OF THE CITY
+- AMENDING PROVISIONS OF ARTICLE 1 OF CHAPTER 4 OF THE
+- TAX RATE INCREASE (Price/Cadiz) (This item is proposed for Public
+- Hearing on November 17, 2026, therefore no public comment will be
+- 8 Consideration of Resolutions
+- a RESOLUTION NO. 2026-R-30, A RESOLUTION OF THE CITY
+- APPROVING A FIRST AMENDMENT (2026) TO THE EMPLOYMENT
+- AGREEMENT WITH MATTHEW T. STURGEON (2024 AMENDED
+- 9 Consideration of Other Items
+- DISCUSSION AGENDA
+- 10 Consideration of Land Use Cases (None)
+- 11 Consideration of Ordinance (None)
+- 12 Consideration of Resolutions (None)
+- 13 Consideration of Other Items
+- a. Legislative Zoning Opportunities – Business Park (BP) to Employment
+
+## [centennial#23] 2026-11-02 | Study Session | agenda
+- 13133 E. Arapahoe Road

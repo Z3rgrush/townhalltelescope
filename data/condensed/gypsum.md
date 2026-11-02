@@ -1,27 +1,6 @@
 # gypsum
 
-## [gypsum#0] 2026-07-28 | Town Council | minutes
-- Council Member Tom Edwards moved to approve the consent agenda
-- After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
-- ORDINANCES AND RESOLUTIONS
-- Ordinance No. 08 (Series 2026) - An Ordinance of the Town of Gypsum, Colorado Amending
-- Section 13.05.010 of the Municipal Code Concerning Returned Payments for Water and
-- Wastewater Service
-- eading***Public Hearing**
-- or Hoffman explained how the use of certified funds would streamline processes and reduce
-- o Tem Huffman opened to public comment
-- o Tem Huffman closed to public comment
-- ember Jay Oyler moved to approve Ordinance No. 08 (Series 2026)
-- No. 09 (Series 2026) - An Ordinance Amending and Replacing Section 13.01.070(1),
-- and Repealing Sections 13.01.310 (3) and (4) and Amending Section 13.01.310 to Clarify Section
-- **Second Reading***Public Hearing**
-- or Hoffman outlined the updated phases and described how the ordinance would help
-- ember Tom Edwards moved to Ordinance No. 09 (Series 2026)
-- No. 10 (Series 2026) An Ordinance Amending the Tower Center PUD Guide for the
-- Tower Center Planned Unit Development First Amendment
-- No. 10 (Series 2026) First Amendment to Tower Center PUD Guide - First Reading.pdf
-
-## [gypsum#1] 2026-08-11 | Town Council | minutes
+## [gypsum#0] 2026-08-11 | Town Council | minutes
 - Council Member Marisa Sato moved to approve the consent agenda
 - After consideration, the motion passed by the following vote: AYES: Tom Edwards, Scott Green,
 - Bighorn Road Special Event Permit
@@ -54,7 +33,7 @@
 - Manager Rietmann reported that water consumption had decreased by 20 percent compared to last
 - fter consideration, the motion passed by the following vote: AYES: Tom Edwards, Scott Green,
 
-## [gypsum#2] 2026-08-25 | Town Council | minutes
+## [gypsum#1] 2026-08-25 | Town Council | minutes
 - Council Member Marisa Sato moved to approve the consent agenda
 - After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
 - Gypsum resident Eric Medina asked Council to consider different policies concerning golf carts and
@@ -92,11 +71,11 @@
 - Council Member Tom Edwards moved to approve Change Order 2 to the contract with A-1 Chipseal
 - Company in the amount of $ 14,570.63 for the 2025/2026 Street Renovations Chipseal and Slurry
 
-## [gypsum#3] 2026-09-02 | Design Review Board | agenda
+## [gypsum#2] 2026-09-02 | Design Review Board | agenda
 - Minutes approval from May 6, 2026
 - Persons with disabilities needing auxiliary aids may request assistance by contacting Cholpon Lord, Planning Secretary, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-1737 during business hours. We would appreciate you contacting us at least 72
 
-## [gypsum#4] 2026-09-08 | Town Council | minutes
+## [gypsum#3] 2026-09-08 | Town Council | minutes
 - il Member Marisa Sato moved to approve the consent agenda
 - ter consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
 - psum Chamber of Commerce - Gyptober Fall Fest Special Event Permit
@@ -133,7 +112,7 @@
 - sistant Manager Hancock informed Council that the project is complete besides a final punch list
 - il Member Tom Edwards moved to approve Change Order Number 3 of the contract with A.J
 
-## [gypsum#5] 2026-09-22 | Town Council | minutes
+## [gypsum#4] 2026-09-22 | Town Council | minutes
 - Mayor Pro Tem Chris Huffman moved to approve the consent agenda
 - After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
 - ayor Pro Tem Chris Huffman moved to approve the Hotel & Restaurant Liquor License for Taco
@@ -161,7 +140,7 @@
 - anager Rietmann informed the council about the lightning strike at the Mosher water plant and
 - staff’s work in developing the draft 2027 budget
 
-## [gypsum#6] 2026-10-07 | Planning and Zoning Commission | agenda
+## [gypsum#5] 2026-10-07 | Planning and Zoning Commission | agenda
 - APPROVAL OF MINUTES
 - Approval of minutes from July 15, 2026
 - RESOLUTIONS AND ORDINANCES
@@ -170,13 +149,41 @@
 - PZ Resolution No.08 (Series 2025) A Resolution of the Town of Gypsum Planning and Zoning Commission Approving a Zoning Variance for Setback Requirements for 374 Jules Way, Gypsum, Colorado.pdf
 - Persons with disabilities needing auxiliary aids may request assistance by contacting Cholpon Lord, Planning Secretary, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-7514 during business hours. We would appreciate you contacting us at least 72
 
-## [gypsum#7] 2026-10-13 | Town Council | agenda
+## [gypsum#6] 2026-10-13 | Town Council | minutes
+- Mayor Pro Tem Chris Huffman moved to approve the consent agenda
+- After consideration, the motion passed by the following vote: AYES: Kathleen Brendza, Tom
+- PUBLIC COMMENT
+- Mayor Green explained the changes to public comment
+- liability considerations
+- Rex Roberts of Denver requested that the council consider a proposed settlement between the
+- Town and JPJG related to the Siena Lake project
+- records request regarding automated license plate reader cameras
+- ORDINANCES AND RESOLUTIONS
+- Resolution No. 27 (Series 2026) A Resolution Confirming Town Manager Administrative Order
+- fire restrictions
+- Resolution No. 27 (2026).pdf
+- Council Member Tom Edwards moved to approve Resolution No. 27 (Series 2026)
+- *Public Comment Period*
+- Further discussion followed regarding the upcoming repairs that will be needed
+- Ian Grask, Bravo!Vail Development and Grants Manager, and Aileen Rohwer, Senior Director of
+- Tessa Kirchner, Vice President, gave a presentation and asked council to consider a resolution
+- Discussion ensued, and council members expressed their appreciation for local schools and
+- The council chose not to pass a resolution and to leave the matter to the voters
+- Presentation of Bids and Selection of Contractor for the Cooley Mesa Road Pump Station
+- Generator Project
+- Engineer Rivera explained the need for a backup generator to support a critical water pump
+- Council Member Tom Edwards moved to award the contract for the Cooley Mesa Pump Station
+- Generator project to Pinnacle Electric in the amount of $131,183.68
+- Manager Rietmann thanked staff for the quick cleaning of a concrete spill on Cooley Mesa Road on
+
+## [gypsum#7] 2026-10-27 | Town Council | agenda
 - PUBLIC COMMENT
 - ORDINANCES AND RESOLUTIONS
-- Resolution No. 27 (Series 2026) A Resolution Confirming Town Manager Administrative Order 2026-5
-- Resolution No. 27 (2026).pdf
-- *Public Comment Period*
-- Ian Grask, Development & Grants Manager, Bravo!Vail
-- Presentation of Bids and Selection of Contractor for the Cooley Mesa Road Pump Station Generator Project
-- Q3 Issued Building Permits
+- Resolution 30 (Series 2026)
+- A Resolution Accepting the Dedication of Public Improvements for the Amazon Facility
+- Resolution No 30 (Series 2026).pdf
+- Lana Bryce, Community Development Director
+- Eagle Valley Wildland Fall 2026 Update and 2027 Plan
+- Hugh Fairfield-Smith, Division Chief of Wildland Fire Operations
+- Community Development Report
 - Persons with disabilities needing auxiliary aids may request assistance by contacting Polly Keene, Town Clerk, at the Gypsum Town Hall, 50 Lundgren Blvd. PO Box 130, Gypsum, Colorado 81637, or by calling (970) 524-1737 during business hours. We would appreciate you contacting us at least 72 hours in

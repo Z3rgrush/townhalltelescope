@@ -1,47 +1,6 @@
 # lakewood
 
-## [lakewood#0] 2026-08-03 | City Council | agenda
-- advance as possible so we can accommodate your request
-- How to Connect to Provide Public Comment: Online participants may post written
-- comments of any length to LakewoodSpeaks.org, an online forum for public comments
-- ITEM 3 – PRESENTATIONS
-- 3B NEIGHBORHOOD PARKING PILOT PROJECT
-
-## [lakewood#1] 2026-08-03 | City Council | agenda
-- advance as possible so we can accommodate your request
-- How to Connect to Provide Public Comment: Online participants may post written
-- comments of any length to LakewoodSpeaks.org, an online forum for public comments
-- ITEM 3 – PRESENTATIONS
-- 3B NEIGHBORHOOD PARKING PILOT PROJECT
-- BUDGETARY IMPACTS: None
-- be considered by the Lakewood City Council
-- SUMMARY STATEMENT: Public Works staff will discuss recommended modifications to the current
-- traffic-calming policy and updates since the last presentation to City Council on this topic in
-- The City of Lakewood has been working to make our streets safer and more comfortable for everyone
-- to managing vehicle speeds in neighborhoods and on minor collector roads. Since 1994, Lakewood
-- policy to prioritize streets where the average speed exceeds the posted speed limit, following national
-- guidance from the Institute of Transportation Engineers (ITE). After the City modified local streets to
-- research has advanced, so have potential strategies. Based on recent studies and collaboration with
-- on local streets to focus resources on minor collectors
-- Additional speed cushion locations were identified and letters to adjacent residents were mailed
-- Staff are working with West Metro Fire District (WMFD) on speed cushions, vertical islands to create
-- a narrow roadway feel and enhanced pedestrian crossings on Mississippi east of Pierce. This dialog
-- highest-used roadways
-- support the pedestrian and bike route portion of the plan
-- Staff are also finalizing a plan for speed cushions on Harlan by Deane Elementary and Ray Ross
-- Park. The City will be mailing residents in this area after discussions with WMFD
-- BUDGETARY IMPACTS: There is no specific budget impact as a result of this discussion. If we
-- move forward with both speed humps on local streets and traffic-calming measures on collector
-- roadways, we will need to increase the budget to fund both programs adequately
-- prioritize funding to the streets that need it more. Most local street speed limits are 20 mph, so
-- Decrease speed hump spacing to allow 400 feet, or slightly less, between humps. The spacing
-- distance is currently set at 700 feet and is limited to only one speed hump per block
-- Increase the maximum threshold for vehicular volumes on local streets from 3,000 vehicles per
-- Change to an allocated budget instead of a set number of speed humps (25) to allow for
-- Revise funding contributions either to a scaled rate based on census track demographics or to
-- others. The allocated budget would limit how many speed humps could be installed in a year
-
-## [lakewood#2] 2026-08-10 | City Council | agenda
+## [lakewood#0] 2026-08-10 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -67,7 +26,7 @@
 - ITEM A. – GENERAL PUBLIC COMMENT
 - 9B CITY COUNCIL REQUEST
 
-## [lakewood#3] 2026-08-10 | City Council | agenda
+## [lakewood#1] 2026-08-10 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -113,7 +72,7 @@
 - WHEREAS, waste haulers within the City of Lakewood (the “City”) generate
 - significant traffic on City roads and State highways through their hauling activities,
 
-## [lakewood#4] 2026-08-24 | City Council | agenda
+## [lakewood#2] 2026-08-24 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -136,13 +95,13 @@
 - ITEM B. – O-2026-30 – AN ORDINANCE TO REPEAL AND REPLACE CHAPTER
 - 8A CITY COUNCIL REQUEST
 
-## [lakewood#5] 2026-09-14 | City Council Study Session | agenda
+## [lakewood#3] 2026-09-14 | City Council Study Session | agenda
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
 - comments of any length to LakewoodSpeaks.org, an online forum for public comments
 - ITEM 3 – PRESENTATION OF THE REVISED 2026 AND PROPOSED 2027 CITY
 
-## [lakewood#6] 2026-09-14 | General | agenda
+## [lakewood#4] 2026-09-14 | General | agenda
 - How to Connect to Provide Public Comment:
 - Press *9 to Request to Speak, you will be prompted when to speak
 - as far in advance as possible so we can accommodate your request
@@ -150,7 +109,7 @@
 - ITEM 4 – PRESENTATION OF THE LAKEWOOD REINVESTMENT AUTHORITY
 - (LRA) REVISED 2026 AND PROPOSED 2027 BUDGET
 
-## [lakewood#7] 2026-09-14 | General | agenda
+## [lakewood#5] 2026-09-14 | General | agenda
 - How to Connect to Provide Public Comment:
 - Press *9 to Request to Speak, you will be prompted when to speak
 - as far in advance as possible so we can accommodate your request
@@ -169,13 +128,13 @@
 - NEXT STEPS: Staff will present the proposed 2027 LRA budget and 2026 revised LRA budget and
 - seek approval at the October 19, 2026 LRA meeting
 
-## [lakewood#8] 2026-09-21 | City Council | agenda
+## [lakewood#6] 2026-09-21 | City Council | agenda
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
 - comments of any length to LakewoodSpeaks.org, an online forum for public comments
 - ITEM 3 – Presentation Regarding Automated License Plate Readers
 
-## [lakewood#9] 2026-09-21 | City Council | agenda
+## [lakewood#7] 2026-09-21 | City Council | agenda
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
 - comments of any length to LakewoodSpeaks.org, an online forum for public comments
@@ -206,7 +165,7 @@
 - approved non-sworn employees of Lakewood whose assignments require use of the system. Each
 - Lakewood affirmatively selects the agencies permitted to search for information generated by its
 
-## [lakewood#10] 2026-09-28 | City Council | agenda
+## [lakewood#8] 2026-09-28 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -245,7 +204,7 @@
 - CORRESPONDING 2025 COLORADO WILDFIRE RESILIENCY
 - ITEM A. – PUBLIC COMMENT
 
-## [lakewood#11] 2026-09-28 | City Council | agenda
+## [lakewood#9] 2026-09-28 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -295,7 +254,7 @@
 - Bruce and Stormy McDonald
 - BUDGETARY IMPACTS: This is no significant budget impact associated with the recognition of
 
-## [lakewood#12] 2026-10-12 | City Council | agenda
+## [lakewood#10] 2026-10-12 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -312,7 +271,7 @@
 - MUNICIPAL OPEN SPACE AND PARK PURPOSES, INCLUDING
 - ITEM 7A. – PUBLIC COMMENT
 
-## [lakewood#13] 2026-10-12 | City Council | agenda
+## [lakewood#11] 2026-10-12 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -351,7 +310,7 @@
 - The City Council has identified public and traffic safety as a community priority, including investments
 - in crime prevention, homelessness response, and other strategies supporting safer streets for
 
-## [lakewood#14] 2026-10-26 | City Council | agenda
+## [lakewood#12] 2026-10-26 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written
@@ -372,7 +331,7 @@
 - ITEM 9 – PUBLIC COMMENT
 - 10A CITY COUNCIL REQUESTS
 
-## [lakewood#15] 2026-10-26 | City Council | agenda
+## [lakewood#13] 2026-10-26 | City Council | agenda
 - 480 S. ALLISON PARKWAY
 - advance as possible so we can accommodate your request
 - How to Connect to Provide Public Comment: Online participants may post written

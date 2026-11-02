@@ -1,93 +1,93 @@
-- title: City Manager's proposed 2027 budget
-  summary: Council held a budget retreat on Oct. 14 to review the City Manager's proposed 2027 budget. On Oct. 20 a public hearing on the proposal was requested, and a joint session with La Plata County covered the 2027 joint sales tax budget.
+- title: Fire protection district inclusion on April 2027 ballot
+  summary: Council is considering a resolution directing the City Manager to start the steps to include the City of Durango in the Durango Fire Protection District on the April 2027 election ballot.
   where: Citywide
   refs:
-  - 2
-  - 3
-  - 7
-  topics:
-  - Budget & taxes
-- title: Land use code changes for the 2025 Housing Needs Assessment
-  summary: An ordinance amending the Land Use and Development Code in response to the 2025 Housing Needs Assessment and 2026 state law was introduced at the Oct. 20 Council meeting. The Community Development Commission also gave a quarterly report on innovative housing and economic development.
-  where: Citywide
-  refs:
-  - 7
-  topics:
-  - Housing
-  - Zoning & development
-- title: Moving the city into the Durango Fire Protection District on the April 2027 ballot
-  summary: A resolution would direct the City Manager to start the steps to include the City of Durango in the Durango Fire Protection District on the April 2027 election ballot. It was on the Oct. 20 Council agenda.
-  where: Citywide
-  refs:
-  - 7
+  - 0
   topics:
   - Fire & emergencies
   - Elections
   - Budget & taxes
-- title: South Durango Urban Renewal Plan Area
-  summary: The Durango Urban Renewal Authority study session covered tax increment financing, plan adoption and public finance agreements. It also covered the status, decision points and timeline for the South Durango plan area.
-  where: South Durango
+- title: Land Use Code changes responding to 2025 Housing Needs Assessment
+  summary: Council is introducing an ordinance amending the Land Use and Development Code in response to the 2025 Housing Needs Assessment and 2026 state requirements. The Community Development Commission also gave a quarterly report on housing and economic development.
+  where: Citywide
   refs:
   - 0
   topics:
-  - Economic development
+  - Housing
   - Zoning & development
+- title: 2027 proposed budget and lodgers' tax changes
+  summary: Council is requesting a public hearing on the City Manager's 2027 proposed budget. It is also giving final reading to an ordinance amending the lodgers' tax in the city code. The Financial Advisory Board is touring public works sites, including water plants and a street project.
+  where: Citywide
+  refs:
+  - 0
+  - 5
+  topics:
   - Budget & taxes
-  public_comment: true
-- title: New City Hall and Police Station site plan
-  summary: The Community Development Commission reviewed early design guidance for the City Hall/Police Station major site plan (PR-26-52) at its Oct. 22 study session and Oct. 26 meeting.
-  where: Durango
-  refs:
-  - 8
-  - 10
-  topics:
-  - Government operations
-  - Zoning & development
+  - Tourism & events
+  - Fees & rates
 - title: Noise rules in the Land Use and Development Code
-  summary: Proposed text amendments on noise (PR-26-68) were reviewed at a study session on Oct. 22. They went to a public hearing before the Community Development Commission on Oct. 26.
+  summary: The Community Development Commission is holding a public hearing on text amendments to the Land Use and Development Code regarding noise (PR-26-68), after a study session on October 22.
   where: Citywide
   refs:
-  - 8
-  - 10
+  - 1
+  - 3
   topics:
   - Zoning & development
-  public_comment: true
-- title: Old Hire firefighter and police pension cost-of-living adjustment
-  summary: A resolution would direct the City Manager to start an annual cost-of-living adjustment, equal to the prior year's national inflation rate, for Old Hire firefighter and police pensions.
+- title: City Hall/Police Station site plan early design guidance
+  summary: The Community Development Commission is reviewing early design guidance for the major site plan for a new City Hall and Police Station (PR-26-52).
+  where: City Hall/Police Station site
+  refs:
+  - 1
+  - 3
+  topics:
+  - Zoning & development
+  - Government operations
+- title: Neighborhood parking permit options
+  summary: Council is considering a resolution giving staff direction on neighborhood parking permit options.
   where: Citywide
   refs:
-  - 7
+  - 0
+  topics:
+  - Roads & traffic
+- title: Old Hire firefighter and police pension cost-of-living adjustment
+  summary: A resolution would direct the City Manager to start an annual cost-of-living adjustment equal to the prior year's national inflation rate for the Old Hire Firefighter and Police pension.
+  where: Citywide
+  refs:
+  - 0
   topics:
   - Budget & taxes
   - Policing & public safety
-- title: Neighborhood parking permit options
-  summary: Council considered a resolution giving staff direction on neighborhood parking permit options on Oct. 20.
-  where: Durango neighborhoods
-  refs:
-  - 7
-  topics:
-  - Roads & traffic
 - title: Organic waste management feasibility analysis
-  summary: A resolution would direct the City Manager to study ordinance and policy options for managing organic waste. It was submitted by the Sustainability office.
+  summary: Council is considering a resolution directing the City Manager to analyze the feasibility of organic waste management ordinance and policy options, submitted by Sustainability.
   where: Citywide
   refs:
-  - 7
+  - 0
   topics:
   - Environment & climate
   - Utilities
-- title: Airport terminal development and parking expansion
-  summary: The Airport Commission received updates on the terminal development project and on the Phase III parking expansion and rental car quick turnaround area design.
-  where: Durango-La Plata County Airport, 1000 Airport Road
+- title: Camino Crossing underpass presentation
+  summary: The Community Development Commission is hearing a presentation on the Camino Crossing underpass from Lily Oswald.
+  where: Camino Crossing
   refs:
-  - 4
-  topics:
-  - Airports
-- title: Camino Crossing underpass and drone delivery discussion
-  summary: The Community Development Commission heard a presentation on the Camino Crossing underpass. It also discussed drone deliveries, a topic proposed by the Chair.
-  where: Camino Crossing, Durango
-  refs:
-  - 8
-  - 10
+  - 1
+  - 3
   topics:
   - Roads & traffic
   - Recreation & trails
+- title: Section 106 permitting reform and historic preservation code changes
+  summary: The Historic Preservation Board is discussing Section 106 permitting reform and an ordinance amending the Land Use Code chapter on lots, buildings and structures.
+  where: Citywide
+  refs:
+  - 4
+  topics:
+  - Historic preservation
+  - Zoning & development
+- title: Drone delivery discussion
+  summary: The Community Development Commission chair proposed a discussion of drone deliveries.
+  where: Citywide
+  refs:
+  - 1
+  - 3
+  topics:
+  - Government operations
+  - Economic development

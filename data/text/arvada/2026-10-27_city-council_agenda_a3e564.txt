@@ -1,0 +1,1562 @@
+ 
+ 
+ 
+City of Arvada 
+City Council Agenda 
+OCTOBER 27, 2026 
+ 
+ 
+Councilmembers: 
+Lauren Simpson, Mayor 
+Randy Moorman, Mayor Pro-Tem 
+Shawna Ambrose, District 2 
+Sharon Davis, At large 
+Bob Fifer, District 4 
+Michael P. Griffith, At large 
+Rebecka Lovisone, District 3 
+Staff Members Usually Present: 
+Don Wick, City Manager 
+Linda Haley, Deputy City Manager 
+Allison Scheck, Deputy City Manager 
+Rachel Morris, City Attorney 
+Jacqueline Rhoades, Director of Infrastructure 
+Jessica Garner, Director of Community & Econ. Dev. 
+Bryan Archer, Chief Financial Officer 
+Gabriella Bommer, Director of Human Resources 
+Ryan Stevenson, Director of Vibrant Community & Neighborhoods 
+Rachael Kuroiwa, Director of Communications & Engagement 
+Ed Brady, Chief of Police 
+Kristen Rush, City Clerk 
+Info: 720-898-7550 
+ 
+THIRD FLOOR CONFERENCE ROOM 
+EXECUTIVE SESSION 
+5:00 P.M. 
+ 
+Legal Advice, Pursuant to CRS 24-6-402(4)(b) Relating to strategy discussion and update on City of 
+Greenwood Village et al v. State of Colorado et al 
+ 
+WORKSHOPS 
+CITY COUNCIL CHAMBERS 
+6:00 P.M. 
+ 
+    
+1. Call to Order/Roll Call of Councilmembers 
+    
+2. Workshops 
+  A. Wildfire Early Detection System Update 
+  B. Homelessness Action Plan 
+  C. Staff Updates 
+    
+3. Adjournment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT TO CITY COUNCIL 
+WORKSHOP 
+AGENDA ITEM 
+2.A. 
+    
+ 
+TO:  THE HONORABLE CITY COUNCIL    DATE:  October 27, 2026 
+       
+SUBJECT:  Wildfire Early Detection System Update 
+   
+Report in Brief 
+  
+Significant wildfires have increased in prevalence, severity, and damage caused over the past 2 decades. The recently 
+completed Arvada Community Wildfire Protection Plan (CWPP) identified more than 25 significant fires in the Arvada area of 
+interest alone in the past 15 years, with several within or in the vicinity of the Northwest Arvada Urban Renewal Area. This 
+increased risk has led to a significant improvement in technology associated with the detection of fire activity and prevention of 
+fire spread. The focus of these technologies is to provide early warning of potential wildfires before they would typically be 
+identified and reported through traditional means (i.e. someone observing smoke or flames and calling 911), allowing for more 
+rapid response and containment and thus minimizing the impact on people and property. The proposed project is to create a 
+Wildfire Early Detection System that deploys a combination of cameras and chemical sensors to protect the Urban Renewal 
+Area, which was identified as a risk area in the CWPP process. The combination of these two technologies provides an 
+optimized level of protection for the area. Council approved the funding agreement between the City and the Arvada Urban 
+Renewal Authority (AURA) during the September 1, 2026, Business Meeting, but directed staff to further review privacy and 
+data ownership concerns raised during the public comment portion of that meeting. Staff has completed a number of activities, 
+including vendor review, additional vendor due diligence, and public involvement activity to ensure that concerns have been 
+addressed.  
+  
+Background 
+  
+Significant wildfires have increased in prevalence, severity, and damage caused over the past 2 decades. The recently 
+completed Arvada Community Wildfire Protection Plan (CWPP) identified more than 25 significant fires in the Arvada area of 
+interest alone in the past 15 years, with several within or in the vicinity of the Northwest Arvada Urban Renewal Area. In 2026, 
+the City has experienced multiple vegetation fires in this area or immediately adjacent to it. While these fires were fortunately 
+contained before damaging any homes, it highlights the growing risk. This increased risk has led to a significant improvement 
+in technology associated with the detection of fire activity and prevention of fire spread. The focus of these technologies is to 
+provide early warning of potential wildfires before they would typically be identified and reported through traditional means 
+(i.e. someone observing smoke or flames and calling 911), allowing for more rapid response and containment and thus 
+minimizing the impact on people and property. Current practice points to the combination of cameras that visually detect 
+wildfire indicators coupled with chemical sensors that can detect the presence of chemicals present in wildfire over long 
+distances as being effective for early detection. The effectiveness of these tools is further enhanced using Artificial Intelligence. 
+These tools are currently in use in other parts of Colorado and across the US in high-risk wildfire areas. The proposed project 
+deploys a combination of cameras and chemical sensors to protect the Urban Renewal Area, which was identified as a risk area 
+in the CWPP process which Council has previously approved. Working with the Arvada Fire Protection District and leveraging 
+information gathered and analyzed by 3rdparty experts through the Community Wildfire Protection process, we worked with 
+technology vendors to design an early warning system that would provide effective long-range detection of wildfire activity 
+that could impact the area. Cameras would be placed to the east and the south of the area and would be focused on the risk areas 
+to the west and north. These would be coupled with a line of sensors in the northern part of the area that are optimized for 
+protecting the area. It is important to provide detection capabilities in the areas adjacent to the Urban Renewal Area in order to 
+best protect the area itself and provide adequate response times to prevent fire spread and subsequent damage to the area. The 
+combination of these two technologies provides an optimized level of protection for the area. In addition, the installation of the 
+cameras links us in to a broader network of cameras in the area owned by Xcel and other government entities.  
+SUBJECT: Wildfire Early Detection System Update 
+ 
+PAGE: 2 
+ITEM:  2.A. 
+ 
+ 
+ 
+ 
+ 
+In the May 12, 2026, City Council Workshop entitled Wildfire Mitigation & Response Strategies, Arvada Emergency 
+Management and the Arvada Fire Protection District presented a multi-faceted strategy for preventing, detecting, and 
+responding to the threat of wildfire in the City, and this IGA helps us significantly advance the detection and response 
+components of that strategy in an area known to be at risk. Targeted deployment time would be before the end of this calendar 
+year. The City’s Emergency Management Office would be responsible for the ongoing monitoring and usage of the system in 
+cooperation with the Arvada Fire Protection District and as a contingency, the Arvada Real Time Information Center (ARTIC) 
+managed by Arvada Police, which Council has previously been briefed on. These partners all play a role in ensuring protection 
+for the area from wildfire.  The system will provide significantly enhanced detection and response capabilities to address one of 
+the most potentially devastating threats that the City faces, and reduce the risk to life and property in an area that has been 
+identified as being at risk by outside experts in the Community Wildfire Protection Plan process. After examining results from 
+pilot programs and implementations in Colorado, technical analysis by 3rd parties, reviews by government agencies, and 
+performance of existing installations, staff has not found an alternative that is likely to be more effective for the particular threat 
+and geography of the area.  
+ 
+During the September 1, 2026 Business Meeting, Council directed staff to further review privacy and data ownership concerns 
+raised during the public comment portion of that meeting. Staff has completed a number of activities, including vendor review, 
+additional vendor due diligence, and public involvement activity to ensure that concerns have been addressed. Through these 
+activities, staff believes that the concerns regarding privacy and data ownership are adequately addressed and that there is 
+support for these efforts from the neighborhoods most impacted by the threat of wildfire. Specifically, the City has a number of 
+contractual terms in place that address data and privacy, and has secured further written assurances from the vendors that 
+address the concerns expressed. The City has confirmed that the chemical sensors only detect specific chemical signatures, and 
+do not contain any cameras, microphones, or other surveillance devices that would enable functions beyond this chemical 
+detection. The City has also confirmed that the particular views and capabilities of the wildfire detection cameras minimize 
+potential privacy concerns, but that standard practice in the contract with the vendor is for all spaces and structures where there 
+is a reasonable expectation of privacy are pixelated before they are uploaded from the cameras, creating an additional 
+safeguard. As part of the implementation process, the City would work with the vendor for all available views of the cameras to 
+determine what should be pixelated. We have also confirmed in writing that there are no facial-recognition, license-plate-
+recognition, biometric-identification, or similar identification or tracking capabilities in the cameras. For both technologies, the 
+City controls who has access to the information and all access is tracked and logged, with the City having full access to those 
+logs.   
+ 
+Staff will present additional feedback and information gathered through the public involvement and due diligence process.  
+  
+Strategic Alignment 
+  
+This item advances City Council's strategic result of fostering an accessible and inclusive community that preserves and 
+improves quality of life and ensures a safe and thriving place for all community members by providing early warning of 
+dangerous fire conditions and fire starts and improves the City's ability to respond effectively to these fires. 
+  
+Next Steps 
+  
+The Emergency Management team will integrate Council feedback into the approach for advancing this project.   
+    
+  Prepared by: 
+  Brian Wilkerson, Emergency Manager 
+    
+  Reviewed by: 
+  Gail Walker, Legal Specialist-Contracts 10/05/2026 Toni Riebschlager, Law Office Administrator 10/05/2026 
+    
+SUBJECT: Wildfire Early Detection System Update 
+ 
+PAGE: 3 
+ITEM:  2.A. 
+ 
+ 
+ 
+ 
+Approved by:    
+  
+Zachary Woolweaver, Assistant City Attorney I 10/06/2026 
+Rachel Morris, City Attorney 10/08/2026 
+Allison Scheck, Deputy City Manager 10/13/2026 
+Linda Haley, Deputy City Manager 10/14/2026 
+Don Wick, City Manager 10/14/2026 
+  
+Enclosure, exhibits & attachments required to support the report 
+ 
+West Arvada Wildfire 
+Early Detection System
+City Council Workshop
+October 27, 2026
+
+COMMUNITY NEED
+● The recently completed Community Wildfire Protection 
+Plan (CWPP) identified significant wildfire risks in West 
+Arvada, reinforcing risk assessments from the county, 
+state, and national level.
+● Enhancing prevention, mitigation, and response 
+capabilities is critical to avoiding damage and long -term 
+impacts to the community and the area.
+● The City proposes a Wildfire Early Detection System to 
+protect the area through early warning and enhanced 
+response.
+● With federal disaster assistance becoming more limited, 
+proactive wildfire mitigation is essential to reduce risk, 
+protect lives and property, and strengthen community 
+resilience.
+● Community Engagement has included direct discussions 
+with neighborhood leaders in potentially impacted areas 
+and an open community meeting held on October 8, as 
+well as responses to inquiries that have come to the City.
+2
+
+THE IMPACT – Less that 7 miles from Candelas
+3
+
+PROPOSED SYSTEM
+• Combination of cameras and chemical sensors to protect the area – both send 
+alerts with potential fire starts
+• Complimentary technologies that allow for longer-range detection, less false 
+alarms, and more warning time
+• Key component of a comprehensive Wildfire Preparation strategy
+• More likely to be able to reduce fire spread and damage to the community 
+than traditional 911 reporting
+• Already in use in neighboring areas such as Gilpin County, Douglas County, 
+and in Aspen, and in wildfire-prone areas around the U.S.
+• Xcel has made a significant investment into the camera systems, and they are 
+integrated into Jeffcom 911
+• How these would be used:
+• Arvada Emergency Management: Reviewing alerts and coordinating 
+emergency response, including evacuation
+• Arvada Fire: Reviewing alerts and leading fire response and community 
+protection efforts leveraging real-time information
+• Arvada Police: Backup monitoring via the ARTIC and directing PD 
+resources for traffic control and evacuation
+• Other partners such as Jeffcom911 could be given access to assist with 
+detection and response as needed  
+4
+
+5
+
+Mission and Scope
+• Both technologies are for early wildfire detection ONLY
+• The more strategically placed cameras assist in verification of real 
+incidents.
+• Strategically placed cameras help with triangulation of the specific 
+location of the fire. 
+• Cheaper and more reliable than humans filling this role in the approaches 
+such as watch towers. This does the work of at least 12 personnel. 
+• Analysis from the City and Arvada Fire of existing cameras has already 
+shown multiple instances of fire detection before other detection methods
+• There are examples of where fire would not have been located before 
+significant spread, if not from the cameras
+• Cameras do not utilize any facial-recognition, license-plate-
+recognition, biometric-identification, or similar identification or 
+tracking capabilities. AI models are trained only to recognize fire and 
+smoke. 
+• Wildfire Sensors collect environmental measurements used for wildfire 
+detection and environmental monitoring - includes gas, particulate matter, 
+temperature, humidity, and atmospheric-pressure measurements
+• Wildfire Sensors do not contain cameras, microphones, or any other 
+equipment capable of recording images, video, conversations, or 
+other audio - there are no inactive cameras or microphones 
+contained within these devices
+6
+
+Privacy and Data 
+Protections
+7
+• Pano AI staff manually reviews all camera viewsheds and implements pixelation anywhere a 
+reasonable expectation of privacy exists (i.e. private residences and other buildings) prior to 
+cameras being set live.
+• The camera pixelation would be reviewed with the City of Arvadaand the City would have the 
+opportunity to adjust pixelation. All pixelation happens at the camera base station prior to 
+imagery being uploaded to the cloud. No unpixelated imagery is transmitted or retained after the 
+pixelation is implemented.
+• City staff would review ongoing to ensure any new developments would be appropriately 
+pixelated. 
+• Both cameras and sensors have access determined by Arvada Emergency Management and 
+accessible audit logs to monitor all access - no data is uploaded to the cameras or sensors by 
+the City. 
+Maximum Camera Zoom (30x)
+THANK YOU AND 
+QUESTIONS
+Brian Wilkerson
+Arvada Emergency Management
+720-898-7906
+bwilkerson@arvada.org
+Steven Parker
+Arvada Fire Protection District
+303-403-0477
+steven.parker@arvadafireco.gov
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT TO CITY COUNCIL 
+WORKSHOP 
+AGENDA ITEM 
+2.B. 
+    
+ 
+TO:  THE HONORABLE CITY COUNCIL    DATE:  October 27, 2026 
+       
+SUBJECT:  Homelessness Action Plan 
+   
+Report in Brief 
+  
+This workshop will provide City Council with an overview of the proposed Homelessness Action Plan which will guide the 
+City's work in responding to homelessness through 2030. The Plan outlines strategies and actions to satisfy five goals: 
+1. Reduce imminent risk of homelessness 
+2. Respond to short-term homelessness 
+3. Respond to long-term chronic homelessness 
+4. Mitigate impacts on businesses, residents and visitors 
+5. Increase communication and transparency 
+  
+Background 
+  
+The existence of homelessness is clear throughout Arvada, Jefferson County and the Denver metro region. Homelessness is a 
+complex social challenge facing many communities across the nation with no clear, simple or single answer. In the 2026 Point 
+In Time (PIT) count, 289 people were found to be living unhoused in Arvada, with 60% reporting they were experiencing 
+homelessness for the first time in their lives. Furthermore, when asked what they believed to be the most pressing need among a 
+variety of options, 63% of respondents to the 2025 Community Survey cited addressing homelessness as the top concern. 
+ 
+Staff from multiple teams across multiple City departments work on issues related to homelessness every day, and many 
+collaborate with external agencies and partners to deliver results. Interdepartmental and cross-functional work of this level 
+requires a plan or strategy that ensures alignment across the organization.  
+ 
+Work on the proposed Homelessness Action Plan began in 2024 when City Council identified homelessness as one of five 
+strategic results in the 2024-2030 Strategic Plan. Due to a variety of factors, the climate and discussion around homelessness as 
+a social challenge was tense in Arvada at that time, and alignment on a direction for a homelessness strategic plan was difficult 
+to achieve. For the past year, City staff have focused on internal alignment and process improvement that resulted in the early 
+completion of the City's Wildly Important Goal to support 65 people experiencing homelessness who frequent Olde Town into 
+housed exits by December 31, 2026. Building on that momentum, the City reengaged the services of expert Scott Shields of 
+Soul Mining, LLC, to assist with the completion of the Homelessness Action Plan. 
+  
+Strategic Alignment 
+  
+The Homelessness Action Plan is called for in Goal #1 of City Council's Strategic Result on Homelessness. The Plan provides a 
+path forward for collaborating with community and regional partners, advancing available services, coordinating resources for 
+those at high risk and safeguarding public safety, security and the health of our community. 
+  
+Next Steps 
+  
+Staff is requesting feedback on the draft Homelessness Action Plan so that a final Plan may be brought forward for adoption by 
+City Council.  
+    
+SUBJECT: Homelessness Action Plan 
+ 
+PAGE: 2 
+ITEM:  2.B. 
+ 
+ 
+ 
+ 
+  Prepared by: 
+  Allison Scheck, Deputy City Manager 
+    
+  Reviewed by: 
+   
+    
+Approved by:    
+  
+Kylie Justus, Assistant City Attorney 10/08/2026 
+Rachel Morris, City Attorney 10/08/2026 
+Allison Scheck, Deputy City Manager 10/08/2026 
+Don Wick, City Manager 10/08/2026 
+  
+Enclosure, exhibits & attachments required to support the report 
+ 
+ 
+  
+CITY OF ARVADA 
+HOMELESSNESS ACTION PLAN 2026 
+ 
+  
+ 
+  
+TABLE OF CONTENTS 
+ 
+ 
+EXECUTIVE SUMMARY ..................................................................................................3 
+GOALS AT-A-GLANCE ....................................................................................................4 
+THE PROBLEM & CURRENT EFFORTS ........................................................................5 
+CLARIFICATION OF ROLES .........................................................................................10 
+GOALS, STRATEGIES AND ACTIONS .........................................................................11 
+CONNECTION BETWEEN RESIDENT SENTIMENT AND ACTION PLAN ..................17 
+NEXT STEPS .................................................................................................................20 
+SOURCES CONSULTED ...............................................................................................21 
+ACKNOWLEDGEMENTS ...............................................................................................22 
+ 
+ 
+ 
+ 
+ 
+3  
+EXECUTIVE SUMMARY 
+ 
+The City of Arvada’s Homelessness Action Plan builds upon best and promising practices and 
+incorporates approaches applicable to Arvada, aligned with other metro Denver communities 
+actively implementing similar efforts to address homelessness. 
+ 
+Homelessness Action Plan Purpose 
+The City of Arvada’s Homelessness Action Plan helps to: 
+￿ Clarify and align staff’s work with City Council’s Strategic Plan; 
+￿ Create an implementable design to respond to homelessness with actions that make 
+evident changes for people experiencing homelessness, and the community; 
+￿ Establish and cultivate strong working relationships inter-departmentally within the City, 
+with community-based organizations, the business community, the faith community, and 
+other local governments to improve the collective response to, and reduce the instances 
+of, homelessness. 
+ 
+Action Plan Development 
+The process of developing this Plan included research of national and local practices and 
+evidence-based approaches to address homelessness, as well as the review of strategies or 
+action plans from multiple communities across the country, including the Denver metro area. 
+Additionally, semi-structured interviews were conducted with a diverse group of stakeholders, 
+including people with lived expertise with homelessness, government, community-based not-
+for-profit organizations, and members of the business community. From these stakeholder 
+interviews and meetings, a collection of themes and innovative ideas were identified for 
+incorporation into the strategy. Information from past community surveys and the 2025 
+Community Conversations on Homelessness was also used to develop the Homelessness 
+Action Plan. 
+ 
+To ensure accountability and measure the true impact of this Action Plan, all goals and strategies 
+outlined below are underpinned by a commitment to best-practice data collection, continuous 
+outcome tracking, and rigorous evaluation. Furthermore, the successful execution of these 
+strategies relies on deep integration and active participation with the Metro Denver Homeless 
+Initiative’s (MDHI) OneHome Coordinated Entry System, ensuring that resources are allocated 
+efficiently, equitably, and in alignment with regional efforts. 
+ 
+In addition to the recommendations of high-level goals and strategies, a detailed action plan has 
+been developed to assist with implementation, included below.  
+ 
+  
+ 
+4  
+GOALS AT-A-GLANCE 
+ 
+GOAL 1: Reduce 
+Imminent Risk of 
+Homelessness 
+Strategy 1.1: Provide immediate response to prevent 
+households/individuals from entering or reentering homelessness 
+Strategy 2.1: Reduce homelessness by moving households or 
+individuals who are experiencing literal homelessness, for less than  
+one year, into housed exits 
+GOAL 2: Respond to 
+Short-Term Homelessness 
+Strategy 2.2: Increase resources with community partner 
+organizations to provide holistic services that increase success of 
+the Transitional Housing program 
+Strategy 3.1: Reduce chronic homelessness by moving households 
+and individuals experiencing homelessness into positive permanent 
+exits 
+Strategy 3.2: Increase options for people experiencing chronic 
+homelessness who require extended services for obtaining and 
+retaining housing 
+Goal 3: Respond to Long-
+Term Chronic 
+Homelessness 
+Strategy 3.3: Assist Mission Arvada in its relocation efforts 
+Strategy 4.1: Reduce impacts of homelessness on Arvada business 
+community, residents, and visitors  
+Strategy 4.2: Develop abandoned property and encampment 
+mitigation plans 
+Strategy 4.3: Increase and develop Arvada Faith community 
+participation   
+Goal 4: Mitigate Impacts 
+on Businesses, Residents 
+and Visitors 
+Strategy 4.4: Determine the evolution of the Police Department’s 
+response to and interaction with unhoused Arvadans 
+Strategy 5.1: Increase public understanding of homelessness in 
+Arvada and confidence in the City’s response by providing timely, 
+accessible and contextual information about needs, services, 
+investments, partnerships and outcomes 
+Strategy 5.2: Provide consistent, accurate and human-centered 
+information explaining homelessness, the City’s role and the 
+community’s progress 
+GOAL 5: Increase 
+Communication and 
+Transparency  
+Strategy 5.3: Establish ongoing feedback loops to understand 
+community experience with the City’s homelessness response and 
+demonstrate how feedback informs implementation  
+ 
+  
+ 
+5  
+THE PROBLEM & CURRENT EFFORTS 
+The Need 
+The existence of homelessness is clear throughout Arvada, Jefferson County and the Denver 
+metro region. Local efforts are being made to increase the quality of information collected and 
+reported in Arvada and throughout the Jefferson County region, while acknowledging the 
+inherent challenges associated with homelessness data collection. Data that can be attributed 
+to the City of Arvada comes from two primary sources: the Homeless Management Information 
+System (HMIS), which is administered by the Metro Denver Homeless Initiative (MDHI), and the 
+annual Point in Time (PIT) count. Both sources are considered to under-report homelessness 
+but are detailed here to provide a scale of the challenge in Arvada and Jefferson County. 
+ 
+Individuals Experiencing Homelessness in Arvada 
+2022 – 201 (data not available for people experiencing homelessness for the first time) 
+2023 – 238, of which 106 (44.5%) were experiencing homelessness for the first time  
+2024 – 293, of which 192 (65.5%) were experiencing homelessness for the first time  
+2025 – 294, of which 170 (57.8%) were experiencing homelessness for the first time  
+2026 – 289, of which 174 (60.2%) were experiencing homelessness for the first time 
+ 
+ 
+Individuals Experiencing Homelessness in Jefferson County 
+2022 –     493 
+2023 –     854 
+2024 –     925 
+2025 – 1,174 
+2026 – 1,231 
+ 
+The Causes 
+Data from the Jefferson County 2024 PIT report show the top self-reported factors contributing 
+to the experiences of homelessness among the 785 people who reported. A person or household 
+may indicate multiple factors that led to their experiences of homelessness: 
+ 
+1. Unable to Pay Rent/Mortgage (26%) 
+2. Relationship Problems or Family Breakup (24%) 
+3. Asked to Leave or Evicted (24%) 
+4. Lost Job /Couldn’t Find Work (23%) 
+5. Abuse /Violence at Home (18%) 
+6. Alcohol/Substance Use (17%) 
+7. Disabling Conditions (14%) 
+8. Mental Health Condition (13%) 
+9. Unable to Pay Utilities (12%) 
+10. Bad Credit (11%) 
+ 
+6  
+ 
+It is critical to note that in the 2023 Metro Denver Point in Time report and the MDHI 2023 State 
+of Homelessness Report, 91% and 94% of respondents indicated they did not choose to 
+experience homelessness. Additionally, the MDHI 2023 State of Homelessness Report noted 
+respondents who chose to share information about their previous address indicates 88% were 
+last housed in Colorado, countering the notion that significant numbers of people are moving to 
+Colorado and becoming homeless. (Note: the 2024 and 2025 State of Homelessness Reports 
+and Point in Time counts do not provide comparable updated information). 
+ 
+According to the 2024 Arvada Housing Strategic Plan, developed by Root Policy: “Rental units 
+in the city have increasingly shifted to higher price points over the last decade, resulting in a 
+sharp decline in units affordable to low- and middle-income households. Limited supply and low 
+vacancy rates contribute to an extremely tight market.” The Plan also indicates that currently 
+over half of the households renting in Arvada are cost-burdened, meaning they are spending 
+more than 30% of their gross income on housing. Additionally, Root Policy states the city has a 
+rental affordability gap of 2,790 units for households earning less than 50% of the area median 
+income (AMI). 
+ 
+When designing programs and solutions to address homelessness, this information needs to be 
+considered, and the voices of people with lived expertise must be incorporated so that solutions 
+are developed to authentically meet the needs of those who need our help. 
+ 
+Efforts Underway within the City of Arvada 
+Over the past several years, multiple programs provided directly by the City of Arvada, or by 
+other governmental entities with operations in the City, have been implemented with the goal 
+of addressing and mitigating the issue of homelessness. In February 2024, the Arvada City 
+Council held its Strategic Planning retreat and identified homelessness as a top priority, and 
+this was renewed in October 2025 when the City stated that supporting 65 individuals 
+experiencing homelessness who frequent Olde Town into housed outcomes is one of its three 
+Wildly Important Goals (WIGs) in 2026. This concern has been echoed by the community, 
+specifically noted in community surveys in 2023, 2024 and 2025, when residents stated 
+homelessness was one of the top issues facing Arvada. The 2023 survey also revealed that 
+more than half of the residents support increasing partnerships with non-profits and expanding 
+programs to address homelessness. Additionally, the City’s 2025 Community Conversations 
+on Homelessness further reinforce this focus. Finally, when asked what they believed to be the 
+most pressing need among a variety of options, 63% of respondents to the 2025 Community 
+Survey cited addressing homelessness as the top concern. 
+The Community Conversations on Homelessness surfaced several themes that applied across 
+differences:  
+●        “Both/and” over “either/or.” Most participants favored a combined strategy that 
+balances assistance (housing, services, prevention) with accountability (expectations, 
+targeted enforcement). There was repeated emphasis that no single approach will solve 
+homelessness and that the City of Arvada should pursue a multi-faceted strategy. 
+ 
+7  
+●        Different populations, different needs. Participants repeatedly distinguished 
+families/children and situationally unhoused from a smaller subset with acute behavioral 
+health needs. Ideally, solutions should reflect segmentation with the recognition that more 
+complex cases may require resources that are not feasibly available at the municipal 
+level. 
+ 
+●        Public order matters—so does due process. Residents want clean, safe parks 
+and business districts while resisting blanket criminalization of homelessness; outreach-
+led responses earn more support than enforcement-only strategies. 
+ 
+●        Trust, transparency, and communication gaps. Participants cite communication 
+and engagement gaps, unclear roles, and a desire for data and storytelling, especially 
+about “unseen” family homelessness. They ask for clearer information on costs, results, 
+and shelter-siting logic. 
+ 
+●        Regional coordination and prevention are necessary but slower. There is broad 
+support for prevention via rent/utility help, behavioral health access, increased affordable 
+housing, and county/state partnerships. Participants acknowledge that prevention efforts 
+are less visible and rental assistance funds have tightened in the post-pandemic era. 
+ 
+On May 20, 2024, the Arvada City Council adopted the 2024-2030 Strategic Plan, which 
+includes a dedicated focus on homelessness. The plan states that the City will "Collaborate 
+and coordinate with nonprofits, local organizations, and regional governments to advance 
+services to individuals experiencing homelessness or at risk of experiencing homelessness." 
+The first strategic goal under this result specifies that the City will "Develop a Homelessness 
+Strategic Plan that will set a path forward for street outreach, 24/7 emergency shelter, 
+partnership agreements for the provision of services, and transitional housing opportunities. 
+The Strategic Plan will consider the feasibility of and opportunities for a navigation center." In 
+late 2024 and early 2025, the City of Arvada pivoted away from the pursuit of a navigation 
+center due to community sentiment. 
+ 
+Also on May 20, 2024, the Arvada City Council adopted the Housing Strategic Plan, developed 
+by Root Policy with direction from City staff and the Housing Advisory Committee. 
+ 
+This Homelessness Action Plan directly supports the achievement of the City Council's 
+strategic goal and result, and ensures key strategies and actions are aligned with the Housing 
+Strategic Plan. 
+ 
+In September of 2018 the Arvada Police Department established the Community Outreach 
+Resource Enforcement (CORE) unit for the purpose of developing a lasting community alliance 
+by providing options, support and outreach for families and individuals experiencing 
+homelessness. Specific job duties related to this unit include: 
+ 
+￿ Development of a multi-pronged partnership to increase collaboration of service providers to 
+assist people experiencing homelessness in becoming self-sufficient; 
+ 
+8  
+￿ Foster ongoing personal contact between the CORE officers and individuals and families 
+experiencing homelessness to increase trust and make referrals to service providers; 
+￿ Work closely with local organizations to facilitate public and private resources, mental health 
+services, treatment programs, housing, employment and medical services. 
+ 
+In 2019 the City of Arvada created One Small Step (OSS), a specialized problem-solving court 
+for defendants experiencing homelessness. The primary goal of OSS is to work with defendants 
+who committed low-level offenses (e.g. littering, trespassing, theft) to avoid more traditional 
+court-related consequences like fines and possible incarceration, by connecting them with 
+existing community resources, such as access to food, obtaining vital documents, mental health 
+and substance abuse treatment, and job search and housing assistance. 
+ 
+In 2023 the Arvada Housing Authority received a three-year, $1.9M grant from the Colorado 
+Department of Local Affairs, Division of Housing. This grant provided funding for transitional and 
+bridge housing, outreach services and supplies through September 30, 2026. The contract was 
+administered by the Housing Manager in coordination with the Homelessness Program Manager 
+and their teams. The Transitional Housing Program, located at Suburban Studios at 6455 
+Sheridan Boulevard, was successful in supporting permanent exits into housing and is 
+contemplated for continuation in this plan. 
+ 
+Also in 2023, the Arvada Fire Community Support Team began providing co-responder services 
+to people experiencing behavioral health crises, substance use disorder, and/or homelessness. 
+This program consists of a licensed mental health clinician and paramedic allowing Arvada Fire 
+to respond more effectively to immediate needs, while also providing additional wraparound 
+support and care to an individual after a medical emergency. Due to current capacity constraints, 
+the team is not able to offer proactive outreach, and usually only serves people who are 
+unhoused when that situation co-exists with behavioral health or substance use needs.  
+ 
+In October 2025, the City of Arvada named homelessness as one of its three Wildly Important 
+Goals (WIGs) for 2026. Specifically, the goal was to support 65 individuals experiencing 
+homelessness who frequent Olde Town into housed exits by December 31, 2026. The City met 
+its goal on August 31, 2026. 
+ 
+The City hired the Homelessness Program Manager in November of 2025 to convene the 
+implementation of the city's homeless strategy, provide support and coordination among all city 
+departments, support cold weather operations and expand regional municipal and provider 
+collaborations. The Program Manager leads three additional City team members: two 
+Homelessness Resolution Case Managers who support, coach and guide people experiencing 
+homelessness toward economic and housing stability; and the variable hour Homelessness 
+Outreach Navigator, who helps connect people experiencing homelessness in Arvada with 
+services and support. 
+ 
+The Jefferson County Public Library, also not part of the City of Arvada, has a Community 
+Resource Coordinator who regularly brings organizations to the Arvada Public Library to provide 
+services onsite to people experiencing homelessness, including public benefits acquisition and 
+troubleshooting, food distribution, RTD passes and seasonal supplies. 
+ 
+9  
+ 
+There are also several community-based organizations operating programs and/or providing 
+services directly to people experiencing homelessness in the City of Arvada. Some of these 
+organizations are Beyond Home, Community Table, Family Tree, Grace Church, Jefferson 
+Center for Mental Health, Mission Arvada and SafeSide Recovery, to name a few. 
+ 
+The base budget for the City’s homelessness program is approximately $1.8 million in General 
+Fund expenditures in the 2027 and 2028 biannual budget. This is inclusive of three full time 
+employees, one variable employee, program costs (transportation, vital documents, supplies 
+etc), a small scale (approximately 15 room) transitional housing program, regional severe 
+weather shelter participation and Arvada’s contribution to the Lakewood Navigation Center 
+operations. City staff continues to seek grant funding to either grow programming or offset the 
+use of City funds. While the costs for three full time employees are included in the 10-year model, 
+program costs are not budgeted beyond 2028. In addition to the homelessness program budget, 
+there are financial impacts to the Police Department (CORE officers in particular), Municipal 
+Court (One Small Step staffing), Housing Division (eviction prevention and housing services), 
+and Parks Division (encampment cleanup), along with other support functions. 
+ 
+Challenges in Delivering Services 
+Difficulties in delivering services for the City’s residents and addressing the challenge of 
+homelessness are not unique. Some of the prominent challenges include: 
+￿ People experiencing homelessness often have frequent contact with the criminal justice 
+system, including ticketing and jailing for low-level offenses; 
+￿ Currently there is no emergency shelter in the City of Arvada, or in northern Jefferson County, 
+for people experiencing homelessness; 
+￿ Services for people experiencing homelessness are often siloed without strong overarching 
+alignment principles and operating partnerships, despite efforts driven by coordinated entry, 
+the local Continuum of Care (CoC), and the Jefferson County regional homelessness 
+partnership; 
+￿ A substantive lack of affordable and permanent supportive housing inventory; 
+￿ Community opposition to programs serving people experiencing homelessness, including 
+housing efforts, in areas close in proximity to their neighborhoods and homes. 
+ 
+  
+ 
+10  
+Clarification of Roles 
+Several teams are referenced throughout this document, specifically in the Goals, Strategies 
+and Actions that follow. Teams include: 
+ 
+￿ City of Arvada: The City of Arvada serves as a convenor to bring providers and services 
+together. Additionally, specific City teams have specific responsibilities in this plan including 
+Homelessness (navigation services, grants, overall coordination); Housing (eviction 
+prevention, affordable housing development, access to housing, grants); Municipal Court 
+(One Small Step Community Court); Finance (grants); Police Department, specifically the 
+Community Outreach, Resources and Enforcement team (PD/CORE - law enforcement, 
+community response); Arvada Economic Development Association (AEDA - assistance with 
+business toolkits and response); Parks (parks maintenance including abandoned property 
+management); Streets (public right-of-way maintenance including abandoned property 
+management); Legal (legal review of policies related to abandoned property); 
+Communications (information dissemination, feedback loops and transparency); Data 
+(assistance with public facing dashboards.)  
+ 
+￿ Jefferson County: Provide regional leadership to create a county-wide response to 
+homelessness and connections to other metro-wide efforts; provide funding for capital and 
+operations. 
+ 
+￿ Jefferson County Sheriff's Office (JCSO): Regional/county law enforcement; relates to 
+high utilizers of the justice system in this plan 
+ 
+￿ Community Partner Organizations: Organizations, usually but not always non-profits, who 
+have expertise in and provide services to people experiencing homelessness; collect data 
+and report on impact and outcomes. 
+ 
+￿ Faith community: Provide a variety of support services through volunteers depending upon 
+individual church approaches, ranging from donation of food and other supplies, 
+companionship, life skills training and other volunteer-driven activities. 
+ 
+  
+ 
+11  
+GOALS, STRATEGIES AND ACTIONS 
+The Homelessness Action Plan consists of five goals with associated strategies and actions. 
+This work was centered around stakeholder interviews, guiding principles, alignment with the 
+Arvada City Council Strategic Plan, and efforts and strategies of other metro region cities and 
+counties. It incorporates best and promising practices implemented in communities across the 
+country. 
+ 
+The implementation of this plan will be led by the City’s Homelessness Program Manager, with 
+collaboration from all City departments, community provider partners, and other governmental 
+agencies. 
+ 
+Note: 
+On June 3, 2026, Colorado House Bill 26-1202 was signed into law. This bill requires the Colorado Department of 
+Local Affairs to present a proposal for the development of a statewide strategy on homelessness prevention and 
+resolution in January of 2027. The proposal, among other requirements, must include recommendations for 
+collaboration between state and local partners to facilitate homelessness response. It also allows the creation of a 
+new entity when local governments enter into an intergovernmental agreement to establish a multijurisdictional 
+homelessness response authority. This authority must be used by the contracting local governments to prevent 
+and reduce homelessness within the boundaries of those municipalities. There is not yet sufficient information to 
+incorporate this statewide strategy into the Action Plan, however the City of Arvada should monitor future 
+developments with the implementation of this legislation, and consider how it may affect the goals, strategies and 
+actions that follow.  
+ 
+12  
+Goal 1: Reduce Imminent Risk of Homelessness 
+ 
+Strategy Actions Responsible 
+Party 
+Completion 
+Timeframe 
+1.1.1: Develop and initiate a rapid 
+reunification and diversion tool kit 
+to prevent first time homelessness 
+or a return to homelessness  
+ 
+City of Arvada 
+Homelessness and 
+Housing teams, 
+Community Partner 
+Organizations 
+ 
+Q1 2027 
+ 
+1.1.2: Implement landlord/tenant 
+mediation referral program to 
+prevent first time homeless or 
+return to homelessness 
+City of Arvada 
+Homelessness and 
+Housing teams, 
+Community Partner 
+Organizations 
+Q3 2027 
+Strategy 1.1:  
+Provide immediate 
+response to prevent 
+households/individuals 
+from entering or 
+reentering homelessness 
+ 
+1.1.3: Enhance rental assistance 
+interventions to prevent 
+homelessness before it occurs 
+City of Arvada, 
+Arvada 
+Homelessness 
+Housing teams, 
+Community Partner 
+Organizations  
+Q2 2028 
+ 
+  
+ 
+13  
+Goal 2: Respond to Short-Term Homelessness 
+Strategy Actions Responsible 
+Party 
+Completion 
+Timeframe 
+2.1.1: Promote services at the One 
+Small Step (OSS) municipal court 
+resource program for residents who 
+are experiencing homelessness but 
+who have not been sentenced to 
+OSS 
+City of Arvada 
+Homelessness 
+team, City of 
+ArvadaMunicipal 
+Court, Community 
+Partner 
+Organizations 
+Q1 2027 
+2.1.2: Expand partnerships with 
+street outreach providers to provide 
+documents, resources, and shelter 
+referrals to prevent short-term 
+homelessness from becoming 
+chronic 
+City of Arvada 
+Homelessness 
+team, Community 
+Partner 
+Organizations  
+Q4 2027 
+Strategy 2.1:  
+ 
+Reduce homelessness 
+by moving households 
+or individuals who are 
+experiencing short-term 
+homelessness, for less 
+than one year, into 
+permanent exits  
+2.1.3: Grow available funding for 
+Arvada Housing and community 
+partners to provide deposit 
+assistance and arrears payments to 
+prevent or resolve short-term 
+homelessness  
+City of Arvada, 
+Arvada Housing, 
+Community Partner 
+Organizations 
+On-going Effort 
+Strategy 2.2: 
+ 
+Increase resources with 
+community partner 
+organizations to provide 
+holistic services that 
+2.2.1: Provide on-site case 
+management, peer support 
+services, and access to treatment 
+programs at Transitional Housing 
+program for Arvada clients  
+City of Arvada 
+Homelessness 
+team, Community 
+Partner 
+Organizations  
+Q3 2027 
+ 
+14  
+increase success of the 
+Transitional Housing 
+program 
+ 
+2.2.2: Seek funding to sustain the 
+Transitional Housing program to 
+assist individuals and households 
+with short term transitional housing 
+needs for stabilization under 180 
+days  
+ 
+City of Arvada 
+Homelessness and 
+Finance teams, 
+Community Partner 
+Organizations 
+On-going Effort 
+  
+ 
+15  
+Goal 3: Respond to Long Term Chronic Homelessness  
+ 
+Strategy  Actions Responsible 
+Party 
+Completion 
+Timeframe 
+3.1.1: Implement a By Name List to 
+coordinate with community partners 
+across the county to holistically 
+resolve chronic homelessness by 
+individual client  
+City of Arvada 
+Homelessness 
+team, Jefferson 
+County and local 
+municipalities, 
+Community Partner 
+Organizations  
+Ongoing effort Strategy 3.1:  
+Reduce chronic 
+homelessness by 
+moving households and 
+individuals experiencing 
+homelessness into 
+permanent exits 
+3.1.2: Develop a process and 
+system to effectively manage and 
+serve high utilizers of the City’s 
+justice system to reduce repeated 
+services and financial impact 
+ 
+City of Arvada, 
+Arvada 
+Homelessness 
+team, PD, Arvada 
+Municipal Court, 
+Jefferson County, 
+JCSO, Community 
+Partner 
+Organizations 
+Ongoing effort 
+3.2.1:  Assist in the development of 
+programming with community 
+partners to provide long-term 
+housing retention services utilizing 
+peers with lived experience, 
+intensive case management, and 
+wraparound service support   
+City of Arvada 
+Homelessness and, 
+Housing teams, 
+Community Partner 
+Organizations  
+Q4 2028 Strategy: 3.2 
+ 
+Increase options for 
+people experiencing 
+chronic homelessness 
+who require extended 
+services for obtaining 
+and retaining housing  
+3.2.3: Position and encourage the 
+development of additional 
+Permanent Supportive Housing in 
+Arvada 
+City of Arvada, 
+Arvada Housing 
+team, Community 
+Partner 
+Organizations 
+Ongoing effort 
+ 
+16  
+Strategy 3.3 
+ 
+Assist Mission Arvada in 
+its relocation efforts  
+3.3.1: Support Mission Arvada in its 
+efforts to relocate by exploring 
+partnership opportunities, 
+emergency shelter potential and 
+outreach efforts 
+City of Arvada Ongoing effort 
+ 
+Goal 4: Mitigate Impacts on Businesses, Residents and Visitors    
+ 
+Strategy Actions Responsible 
+Party 
+Completion 
+Timeframe 
+4.1.1: Implement training and 
+resources for businesses in Arvada 
+to mitigate impact of homelessness  
+and reduces law enforcement calls 
+for service 
+ 
+City of Arvada, 
+Arvada PD, CORE 
+Q3 2027 Strategy 4.1:  
+ 
+Reduce impacts of 
+homelessness on 
+Arvada business 
+community, residents 
+and visitors  
+ 4.1.2: Develop and distribute a 
+toolkit for the business community 
+to address impacts of 
+homelessness, provide de-
+escalation training and utilize 
+ambassador program in Olde Town 
+City of Arvada, 
+AEDA, Arvada PD, 
+Community Partner 
+Organizations 
+Q3 2027 
+Strategy 4.2 
+ 
+Implement abandoned 
+property and 
+encampment mitigation 
+plans  
+4.2.1: Conduct regular staff training 
+and evaluation of the City’s 
+abandoned property policies and 
+operating procedures 
+City of Arvada 
+Homelessness 
+team, PD, Parks, 
+Streets and Legal 
+teams 
+On-going effort 
+ 
+17  
+Strategy 4.3 
+ 
+Increase and develop 
+Arvada Faith community 
+participation   
+4.3.1: Organize and empower 
+Arvada’s faith community to provide 
+services during severe weather 
+such as meals, transportation and 
+shelter 
+City of Arvada 
+Homelessness and  
+Communications 
+teams, Faith and 
+Community Partner 
+Organizations   
+Q4 2027 
+ 4.3.2: Empower and support 
+Arvada’s faith community to 
+organize projects around social 
+connection, job skills training, and 
+general opportunities to interact with 
+unhoused Arvadans 
+City of Arvada 
+Homelessness and 
+Communications 
+teams, Faith and 
+Community Partner 
+Organizations  
+Q4 2027 
+4.4.1: Continue to evolve CORE’s 
+mission, focusing on interactions 
+and outreach work while supporting 
+businesses and the community 
+City of Arvada, 
+Arvada PD/CORE Q4 2027 
+Strategy 4.4: 
+ 
+Determine the evolution 
+of the Police 
+Department’s response 
+to and interaction with 
+people experiencing 
+homelessness 
+4.4.2: Develop consistent and 
+collaborative outreach with CORE 
+and Homelessness team 
+City of Arvada 
+Homelessness 
+team, Arvada 
+PD/CORE 
+Q1 2028 
+ 
+Goal 5: Increase Communication and Transparency 
+ 
+Strategy Actions Responsible 
+Party 
+Completion 
+Timeframe 
+5.1.1: Develop community facing 
+dashboard with reliable data to 
+provide transparency of 
+homelessness services provided by 
+the City and community partner 
+organizations  
+City of Arvada 
+Homelessness  
+and Data teams 
+Q4 2027 Strategy 5.1: 
+ 
+Increase public 
+understanding of 
+homelessness in Arvada 
+and confidence in the 
+City’s response by 
+providing timely, 
+accessible and 
+contextual information 
+5.1.2 Publish an annual 
+homelessness progress report 
+summarizing accomplishments, 
+challenges, emerging trends, 
+City of Arvada  
+Communications  
+team 
+Q1 2028 
+ 
+18  
+about needs, services, 
+investments, 
+partnerships and 
+outcomes 
+ 
+resource gaps and priorities for the 
+coming year  
+ 
+ 
+ 
+ 
+ 
+Connections between Resident Sentiment and Action Plan 
+The Community Conversations on Homelessness were designed to help the City move 
+beyond binary positions and understand the values, concerns and trade-offs community 
+members wanted reflected in Arvada's response to homelessness. Participants considered 
+three broad approaches: expanding housing and sheltering services; strengthening 
+enforcement and public-order measures; and strengthening community partnerships with 
+an emphasis on prevention. The conversations did not seek a vote for one approach. 
+Instead, they explored where residents found value, where they had concerns, and what 
+combinations of approaches could be broadly acceptable. 
+The 2026 Homelessness Action Plan reflects that deliberative direction in important ways. Rather 
+than relying on one intervention, it combines prevention, short- and long-term housing responses, 
+public-safety and quality-of-life strategies, community partnerships, and communication and 
+transparency. 
+Community Conversation finding  Action Plan connection 
+A balanced response requires multiple approaches 
+rather than a single solution. Participants examined 
+housing/services, public order/enforcement, and 
+prevention/community partnership separately, but the 
+deliberations ultimately increased appreciation for the 
+complexity of homelessness and the need for a variety 
+of approaches. 
+The Action Plan deliberately spans five areas: preventing 
+homelessness; responding to short-term homelessness; 
+responding to chronic homelessness; mitigating impacts 
+on residents, businesses and visitors; and 
+communication/transparency. 
+ 
+19  
+Prevent homelessness before people enter or re-enter 
+the system. Prevention and community partnership 
+were one of the three principal approaches examined 
+during the conversations that received wide support. 
+Goal 1 includes diversion/reunification, landlord-tenant 
+mediation and enhanced rental assistance. Goal 2 adds 
+deposit and arrears assistance for people experiencing 
+short-term homelessness. 
+Housing and services are necessary components of an 
+effective response. Expanding housing and sheltering 
+services was a distinct approach considered in the 
+forums. While residents were mixed on the level of 
+support needed, most were supportive of services to 
+assist community members into more stable 
+circumstances. 
+The plan includes transitional housing with case 
+management, peer support and treatment access; 
+individualized coordination through a By Name List; 
+housing-retention services; and development of additional 
+permanent supportive housing. 
+Public safety and accountability matter, but residents 
+expressed concern about overly punitive responses to 
+homelessness itself. Participants with differing 
+perspectives showed common discomfort with 
+approaches such as criminalizing homelessness and 
+routine camp sweeps, even while some participants 
+supported greater interaction between public-safety 
+personnel and people experiencing homelessness. 
+Goal 4 evolves CORE toward outreach and interaction 
+with unhoused Arvadans, coordinates CORE with 
+navigators and peers, and establishes an 
+encampment/property mitigation process that includes 
+notification to unhoused residents. The plan also develops 
+a system for high utilizers of the justice system. 
+Residents and businesses experience real quality-of-
+life impacts that should not be dismissed in the name of 
+compassion. The engagement emerged from concerns 
+involving safety, businesses, neighborhoods and 
+quality of life alongside recognition of the need for 
+humane responses. While residents acknowledge the 
+need for services, no one supports ignoring 
+neighborhood impacts.  
+Goal 4 explicitly focuses on mitigating impacts on 
+businesses, residents and visitors through business 
+training, de-escalation resources, an ambassador 
+program, business partnerships, encampment mitigation 
+and coordinated CORE outreach. 
+Community institutions should have meaningful roles in 
+the response. One of the clearest areas of cross-
+perspective support was providing greater structure 
+and support so nonprofit organizations and faith 
+communities could participate more strategically and 
+effectively. 
+Strategy 4.3 specifically organizes and empowers 
+Arvada's faith community to support severe-weather 
+response and projects involving social connection, job 
+skills and interaction with unhoused Arvadans. Community 
+partner organizations are also embedded throughout 
+Goals 1–4. 
+ 
+20  
+The City's role can include convening and 
+strengthening a broader community response rather 
+than acting as the primary service provider. The 
+Community Conversations helped identify support for 
+the municipality acting as a convener and supporter of 
+existing community efforts. 
+Many actions are explicitly shared among City navigators, 
+the Housing Authority, County partners, nonprofits, faith 
+organizations, Police/CORE and other municipalities. 
+Responses should recognize the individual 
+circumstances and complexity of people experiencing 
+homelessness. Deliberation increased participant 
+appreciation for the complexity of homelessness and 
+the need for different responses rather than a universal 
+solution. 
+The plan differentiates imminent risk, literal/short-term 
+homelessness and chronic homelessness, with different 
+interventions for each population. It also uses peer 
+support, individualized By Name List coordination, 
+intensive case management and wraparound services. 
+Compassion should be paired with practical pathways 
+to stability and accountability. The conversations 
+surfaced tensions rather than requiring residents to 
+choose exclusively between compassion and 
+community order. 
+Services paired with accountability are embedded in One 
+Small Step expectations, transitional housing, treatment 
+access, peer support, justice-system high-utilizer 
+coordination and CORE/navigator outreach. All these 
+programs provide alternatives that combine assistance 
+with structured intervention. 
+Trust requires transparency about what the City is 
+doing, what is working and what remains difficult. 
+Closing the feedback loop was intentionally built into 
+the Community Conversations; participants were 
+promised a report showing that their input had been 
+received and used. 
+Goal 5 calls for a public-facing homelessness dashboard, 
+an annual progress report, a consistent messaging 
+framework and a community/partner communication 
+toolkit. 
+The community should continue to have a meaningful 
+role as implementation evolves. The deliberative 
+process treated residents as contributors to 
+understanding the problem rather than simply 
+respondents to a City proposal. 
+Community organizations and partners appear throughout 
+the Action Plan, but an ongoing mechanism for resident, 
+business and lived-experience input is not explicitly 
+identified. 
+People directly experiencing homelessness should 
+inform solutions. The process sought to consider likely 
+effects on people experiencing homelessness, but later 
+evaluation also acknowledged challenges with 
+representative participation. 
+Peers and people with lived experience appear in several 
+implementation roles, particularly outreach and long-term 
+housing retention. 
+ 
+21  
+Specific facility or provider decisions require the same 
+balance of service need, neighborhood impacts and 
+transparent process. 
+Strategy 3.3 supports Mission Arvada's relocation through 
+partnerships, possible emergency shelter and outreach. 
+ 
+22  
+NEXT STEPS 
+The continually shifting landscape requires the time horizon of this Homelessness 
+Action Plan to be relatively short-term, with steps to be taken into 2030. The intention of 
+this Action Plan is to create traction and momentum to help generate meaningful and 
+lasting solutions, and it is considered to be a dynamic and living document. The City 
+team should regularly update this Action Plan to maintain relevance with ever-changing 
+conditions, modify or eliminate approaches that have proven to be less effective or 
+impactful, and add solutions that may not have been contemplated in this version. 
+ 
+Implementing an enduring, multi-agency strategy requires diligence and evolving 
+design, yet failing to adapt creates compounding costs for the community. The 
+execution of this Action Plan underscores the City of Arvada’s commitment to regional 
+collaboration, data-driven accountability, and the creation of sustainable housing 
+pathways that strengthen the makeup of the entire city. 
+  
+ 
+23  
+SOURCES CONSULTED 
+￿ 2023 Metro Denver Point in Time Count 
+￿ 2024 Metro Denver Point in Time Count 
+￿ 2025 Metro Denver Point in Time Count 
+￿ 2026 Metro Denver Point in Time Count 
+￿ City of Arvada internal GIS mapping program 
+￿ City of Arvada Housing Strategic Plan 
+￿ City of Arvada City Council Strategic Plan, 2024-2030 
+￿ City of Aurora Regional Navigation Center Campus 
+￿ City of Boulder Homelessness Strategy 
+￿ City and County of Denver, 2023 Department of Housing Stability Action Plan 
+￿ City and County of Denver, 2024 Department of Housing Stability Action Plan 
+￿ City of Richmond Strategic Plan to End Homelessness 2020-2030 
+￿ City of Westminster Continuum of Compassion 
+￿ Colorado State Homelessness Playbook 
+￿ Colorado Department of Local Affairs, Strategy & Funding Approach for 
+Proposition 123’s Program Serving Persons Experiencing Homelessness 
+￿ FY 2026 Continuum of Care Competition and Youth Homelessness 
+Demonstration Program Grants NOFO 
+￿ Healthcare System and Homeless Response System Data Sharing Toolkit 
+￿ Health Conditions Among Unsheltered Adults in the U.S. 
+￿ Homeward Adams, Homelessness Reduction Strategic Framework, Version 
+2023 
+￿ Investing in Ending Single Adult Homelessness: Analyzing the  Shift Toward 24/7 
+Shelter Models 
+￿ Jefferson County Homelessness Action Plan 2021-2023 
+￿ Jefferson County, 2019 Comprehensive Homeless Count 
+￿ Metro Denver Homeless Initiative (MDHI) State of Homelessness 2023 
+￿ Preventing Homelessness: Evidence - Based Methods to Screen Adults and 
+Families at Risk of Homelessness in Los Angeles 
+￿ Regional Alignment on Homelessness, Recommendations for the North Metro 
+Area 
+ 
+24  
+￿ San Antonio, Together to End Homelessness: Strategic Plan Summary and Call 
+to Action 
+￿ Toward a New Understanding: The California Statewide Study of People 
+Experiencing Homelessness 
+￿ Tri Cities Homeless Action Plan 
+￿ United States Interagency Council on Homelessness, ALL IN: The Federal 
+Strategic Plan to Prevent and End Homelessness 
+￿ United States Interagency Council on Homelessness. 19 Strategies for 
+Communities to Address Encampments Humanely and Effectively 
+￿ Weld’s Way Home 2.0, Strategic Plan to Prevent and End Homelessness in Weld 
+County   
+ 
+25  
+ACKNOWLEDGEMENTS 
+The team would like to express sincere gratitude to Scott Shields of Soul Mining, LLC. 
+Scott originally consulted on the 2024 plan. He reengaged with the City in 2026 to 
+update data and assist the Homelessness Leadership Team with finalizing the goals 
+and strategies in this Action Plan. Scott’s expertise and passion for the work of solving 
+homelessness is incomparable. 
+In addition to Scott, thank you to the following individuals who provided assistance and 
+perspectives over the past three years: 
+ 
+Paolo Diaz, Adams County (2024), Family Tree Chief Executive Officer (2026) 
+ 
+Deanna Harrington, Arvada Fire Protection District 
+ 
+Jamie Rife, City and County of Denver Department of Housing and Stability (2024), 
+Housing Connector (2026) 
+ 
+Cuica Montoya, Colorado Village Collaborative 
+ 
+Community members with lived expertise 
+Amy, Angela, David, Jason, Jeffrey, John, Luke 
+ 
+Rocky Baldassare, Community Table 
+ 
+Paola Vilaxa, Jefferson County Public Library 
+ 
+City of Arvada City Council 
+Mayor Lauren Simpson, Mayor Pro Tem Randy Moorman, Michael P. Griffith, Sharon 
+Davis, Shawna Ambrose, Rebecka Lovisone, Bob Fifer and former members Lisa Ferret 
+and John Marriott 
+ 
+City of Arvada 
+Don Wick, Linda Haley, Carrie Espinosa, Elizabeth Blythe, Jack Hardwick, Rachael 
+Kuroiwa, Sargent McDonald, Allison Scheck, Lynette Badasarian, Hudson Janz, Alex 
+Williams, Rochelle Brogan, Judge Katie Kurtz, Chief Ed Brady, Todd Reeves, Clint 
+Burhorn, Kylie Justus, Ryan Stevenson, 
+ 
+City of Westminster 
+Mark Freitag, Barbara Opie, Alex Reaves, Tomás Herrera-Mischler, Kate Skarbek 
+ 
+Family Tree 
+Ariana Badran, Susana Garcia Acuña, Cassie Ratliff 
+ 
+Jefferson County 
+Mary Berg, Kat Douglas, Kerry Wrenick 
+HOMELESSNESS
+ACTION PLAN
+A practical action plan that builds on 2026 progress, reflects community 
+input, and balances compassion with boundaries through 2030
+City Council Workshop, October 27, 2026
+1. Homelessness in Arvada
+2. How we got here
+3. What the community has told us
+4. The City’s investment in homelessness
+5. Our progress
+6. The proposed Homelessness Action Plan 
+Agenda
+Homelessness in Arvada
+289
+people identified as experiencing 
+homelessness in Arvada in 2026
+60%
+were experiencing homelessness 
+for the first time
+1,231
+people identified in Jefferson 
+County in 2026
+2,790
+rental unit affordability gap for 
+households below 50% AMI
+● Regional homelessness declined, but first-time instances are growing
+● Youth and family homelessness increased
+● Reinforces need for regional partnerships
+● Housing affordability remains a core pressure
+How We Got Here
+2024
+Council identifies 
+homelessness 
+as a top priority
+Late 2024
+Draft 
+Homelessness 
+Strategic Plan is 
+presented to 
+Council
+2025
+Rebuilding; 
+Community 
+Conversations
+2026
+WIG and Plan 
+updates
+Oct. 27
+Council 
+considers 
+adoption of the 
+refreshed Action 
+Plan.
+What The Community Has Told Us
+Both And, 
+NOT
+Either Or
+Different 
+Needs/
+Different 
+Responses
+Public 
+Order/Due 
+Process
+Trust & 
+Transparency
+
+Arvada’s Investment in Homelessness
+Approximately $3M investment 2027 and 2028 budget
+● $1.8M Homelessness Program
+● $875,000 Police Department
+● $175,000 Municipal Court
+● $100,000 Cleanups
+
+2026: Our Progress
+● Built and retained great team
+● Aligned Work around a WIG
+● Expanded hands-on case 
+management
+● Built stronger partnerships
+● Created momentum
+2026 WIG
+77 people housed (as of October 22)
+Goal What We’ll Do
+Prevent Homelessness Stabilize those at imminent risk
+Respond to Short-Term 
+Homelessness
+Support newly homeless into housed exits
+Respond to Chronic 
+Homelessness
+Leverage partnerships to create pathways
+Mitigate Impacts on the 
+Community
+Reduce impacts on businesses, residents and 
+visitors
+Build Trust Improve communication, transparency and 
+feedback
+The Proposed Plan: 2026-2030
+1
+2
+3
+4
+5
+The Plan Reflects Community Input
+WHAT WE HEARD WHAT THE PLAN DOES
+PREVENT Diversion, mediation and rental assistance
+STABILIZE Transitional housing, case management, peer support and housing retention
+PROTECT Business toolkit, de-escalation, encampment protocols and coordinated CORE outreach
+PARTNER Shared implementation with County, providers, faith community and regional partners
+SHOW US Public dashboard, annual progress report, feedback loops
+Adoption Creates Accountability and Alignment
+● A living implementation 
+framework through 2030
+● Measurable actions, owners 
+and reporting
+● Council adoption sets the 
+direction
+● Staff responsible for 
+implementation, measurement, 
+partnership and course 
+correction
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT TO CITY COUNCIL 
+AGENDA ITEM 
+2.C. 
+    
+ 
+TO:  THE HONORABLE CITY COUNCIL    DATE:  October 27, 2026 
+       
+SUBJECT:  Staff Updates 
+   
+Report in Brief 
+  
+The purpose of this workshop is for staff to provide City Council with brief updates on projects and issues that do not require a 
+full workshop.   
+     
+  Prepared by: 
+  Chris Koch, CCO Admin 
+    
+  Reviewed by: 
+   
+    
+Approved by:    
+   
+  
+Enclosure, exhibits & attachments required to support the report 
+ 

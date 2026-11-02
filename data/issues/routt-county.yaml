@@ -1,124 +1,145 @@
-- title: Yampa Valley Gravel Pit special use permit expansion (PL20260026)
-  summary: The Planning Commission took up a request to expand the permit boundary of the Yampa Valley Gravel Pit, on the north side of County Road 65. The commissioners considered it on Sept. 29 with a written public comment in the packet, and the Oct. 13 agenda has the chair signing the special use permit.
+- title: Yampa Valley Gravel Pit special use permit (PL20260026)
+  summary: The county is reviewing a special use permit to expand the permit boundary of the Old gravel pit on the north side of County Road 65. It went to the Planning Commission on Sept 17, and the commissioners considered it Sept 29 and then took up the permit for the Chair's signature Oct 13. A written public comment from Drew Kolbe is in the Sept 29 packet.
   where: North side of County Road 65
   refs:
-  - 14
-  - 19
-  - 21
-  - 27
-  public_comment: true
+  - 11
+  - 16
+  - 18
+  - 24
   topics:
-  - Oil, gas & mining
   - Zoning & development
   - Land & property
-- title: Routt County 2027 budget
-  summary: Commissioners heard 2027 budget presentations from Public Works, Facilities Management and the District Attorney. They then reviewed the proposed 2027 budget, county dues and outside funding requests, and the 2027 health and dental insurance plan. The Tri-County District Attorney personnel budget and the health insurance pool budget also came up.
+  public_comment: true
+- title: 2027 county budget and health insurance costs
+  summary: Commissioners heard 2027 budget presentations from Public Works, Facilities Management and the District Attorney, reviewed the proposed budget on Sept 21-22, and looked at county dues and outside funding requests. They also reviewed the 2027 health and dental insurance plan and the insurance pool budget, and the Tri-County District Attorney personnel budget.
   where: Countywide
   refs:
-  - 8
+  - 5
+  - 10
+  - 12
   - 13
-  - 15
-  - 16
-  - 21
+  - 18
+  - 24
   - 27
   topics:
   - Budget & taxes
   - Government operations
-- title: Nottingham Ranch conservation easement and other PDR projects
-  summary: The Purchase of Development Rights board reviewed several projects (222, 224, 225), partly in executive session. Commissioners considered the board's recommendation to put $3,000,000 toward the conservation easement on Nottingham Ranch (Project 222). Projects 224 and 225 went to the commissioners for review on Oct. 20. The board also discussed with county planning how conservation easements affect development under the Unified Development Code.
-  where: Nottingham Ranch
+- title: Nottingham Ranch conservation easement and Purchase of Development Rights projects
+  summary: The PDR Board recommended $3,000,000 toward a conservation easement on Nottingham Ranch (PDR Project 222), which commissioners considered on Sept 8 after an executive session. Projects 224 and 225 were also under Tier I and II review in October. The PDR Board also met with Planning about how conservation easements affect development and subdivision design under the county's development code.
+  where: Routt County (Nottingham Ranch)
   refs:
-  - 6
-  - 8
-  - 10
-  - 25
-  - 29
+  - 3
+  - 5
+  - 7
+  - 22
+  - 26
   topics:
   - Land & property
   - Agriculture & wildlife
-  - Budget & taxes
+  - Zoning & development
+- title: Small modular reactor proposal and electrical needs
+  summary: The Planning Commission discussed the electrical needs of a small modular reactor (SMR) proposal after the project application was re-submitted. The documents give little further detail.
+  refs:
+  - 4
+  topics:
+  - Energy
+  - Zoning & development
 - title: Milner wastewater matter
-  summary: Commissioners planned executive sessions on the Milner wastewater notice, on Sept. 8 and Sept. 22. The agendas give no outcome.
+  summary: Commissioners went into executive session on Sept 8 and Sept 22 over the Milner wastewater notice. The documents do not state the outcome.
   where: Milner
   refs:
-  - 10
-  - 16
+  - 7
+  - 13
   topics:
   - Utilities
   - Lawsuits & legal
-- title: Yampa Valley Airport west terminal expansion grant
-  summary: 'Commissioners were asked to sign Amendment #3 to the FAA grant for the west terminal expansion at Yampa Valley Regional Airport. The airport commission also continues regular capital and budget updates.'
-  where: Yampa Valley Regional Airport
-  refs:
-  - 4
-  - 10
-  - 24
-  topics:
-  - Airports
 - title: Stage 1 fire restrictions
-  summary: The county proposed returning to Stage 1 fire restrictions under Ordinance 2026-001 in early September. Commissioners then moved to rescind them on Sept. 29.
+  summary: The county returned to Stage 1 fire restrictions under Ordinance 2026-001 in September. Commissioners then moved to rescind them on Sept 29.
   where: Countywide
   refs:
-  - 10
-  - 19
+  - 7
+  - 16
   topics:
   - Fire & emergencies
-- title: 'Housing financing: private activity bond volume cap with YVHA and CHFA'
-  summary: Commissioners handled delegation agreements, tax certificates and an inducement resolution (2026-062) tied to Routt County and Yampa Valley Housing Authority's private activity bond volume cap with CHFA.
+  - Environment & climate
+- title: Yampa Valley Airport west terminal expansion grant
+  summary: 'Commissioners considered Amendment #3 to the FAA Airport Improvement Program grant for the west terminal expansion at Yampa Valley Regional Airport. The Airport Commission also continues to receive capital, infrastructure and budget updates.'
+  where: Yampa Valley Regional Airport
+  refs:
+  - 1
+  - 7
+  - 21
+  topics:
+  - Airports
+  - Roads & traffic
+- title: 'Affordable housing bonds: YVHA and CHFA private activity bond delegation'
+  summary: Commissioners handled the Routt County and Yampa Valley Housing Authority delegation agreement with CHFA and an inducement resolution (2026-062) involving private activity bond volume cap for housing.
+  where: Countywide
+  refs:
+  - 5
+  topics:
+  - Housing
+  - Budget & taxes
+- title: Regional water quality plan and instream flow proposals
+  summary: Commissioners ratified comments on the draft NWCCOG Regional Water Quality Management Plan ("208 Plan"). The state Colorado Water Conservation Board was also scheduled to present proposed instream flow water rights on Lost Dog Creek and Butcher Creek on Oct 19.
+  where: Lost Dog Creek and Butcher Creek
+  refs:
+  - 10
+  - 25
+  topics:
+  - Water
+  - Environment & climate
+- title: County Annex HVAC problems
+  summary: On Oct 27 commissioners discussed HVAC problems recently found in the Annex building and a replacement proposal, seeking direction from facilities staff.
+  where: Routt County Annex building
+  refs:
+  - 29
+  topics:
+  - Government operations
+  - Budget & taxes
+- title: 'Sheriff''s office and detention center: body scanner, remodel and officer training fund'
+  summary: Commissioners considered a contract for a body scanner purchase and detention center remodel (RFP 899) and a Peace Officer Training and Support Fund resolution. Two Sheriff's Office training agreements with CMC were also on the Sept 22 agenda.
+  where: Routt County Detention Center
+  refs:
+  - 13
+  - 18
+  - 29
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+- title: Lodging tax tourism marketing funding panel
+  summary: The Advertising and Marketing Local Tourism Panel is setting up how lodging tax money will be awarded, including funding cycle, applicant eligibility, evaluation criteria and scoring.
+  where: Countywide
+  refs:
+  - 14
+  - 30
+  topics:
+  - Tourism & events
+  - Fees & rates
+- title: Heritage grants and Certified Local Government designation
+  summary: The Museum and Heritage Advisory Board considered fall grants, including $48,500 for a South Routt historic survey, $10,711.55 for Hayden Heritage Center and $3,646 for Oak Creek and Phippsburg. The Historic Preservation Board is finalizing a resolution to become a Certified Local Government and reviewing a permit at 54200 CR 62.
+  where: 54200 CR 62 and South Routt
+  refs:
+  - 13
+  - 19
+  - 27
+  topics:
+  - Historic preservation
+  - Libraries & culture
+- title: North Routt recreation strategic plan and trail grants
+  summary: Commissioners approved a consultant for the North Routt County recreation strategic plan (RFP 891) and ratified a letter of support for a Colorado Parks and Wildlife non-motorized trails grant by Routt County Riders.
+  where: North Routt County
+  refs:
+  - 13
+  - 16
+  topics:
+  - Recreation & trails
+  - Parks & open space
+- title: 'Public health work session: school vaccination rates and tobacco ordinance'
+  summary: A Sept 14 work session covered school vaccination data, an update on a tobacco coalition ordinance, and a SAMHSA grant.
   where: Countywide
   refs:
   - 8
   topics:
-  - Housing
-  - Budget & taxes
-- title: Proposed instream flow water rights on Lost Dog Creek and Butcher Creek
-  summary: The Colorado Water Conservation Board is scheduled to present proposed instream flow water rights on Lost Dog Creek and a second creek to commissioners at an Oct. 19 work session. Commissioners also planned to comment on the draft regional water quality management plan (the 208 Plan).
-  where: Lost Dog Creek and Butcher Creek
-  refs:
-  - 13
-  - 28
-  topics:
-  - Water
-  - Environment & climate
-- title: Small modular reactor proposal electrical needs
-  summary: The Planning Commission discussed the electrical needs of an SMR (small modular reactor) proposal after the project application was re-submitted. The minutes give few details.
-  refs:
-  - 7
-  topics:
-  - Energy
-  - Zoning & development
-- title: Certified Local Government status and historic review
-  summary: The Historic Preservation Board is finalizing a resolution to make the county a Certified Local Government. It is also doing a historic review of a permit at 54200 CR 62, the Old Charter School site. Separately, the Museum and Heritage board is weighing grants, including $48,500 for a South Routt historic survey.
-  where: 54200 County Road 62
-  refs:
-  - 22
-  - 30
-  topics:
-  - Historic preservation
-  - Libraries & culture
-- title: Sparks residence wastewater variance
-  summary: Commissioners were asked to consider a variance for the wastewater treatment system at the Sparks residence.
-  refs:
-  - 21
-  topics:
-  - Utilities
-  - Zoning & development
-- title: Aspen Ridge Road garage setback adjustment
-  summary: The Board of Adjustment approved a reduced setback adjustment of 2.4 feet for a garage expansion at 31650 Aspen Ridge Road. The original request was 5 ft 9 in. The approval came with conditions, including a plumbing agreement limiting use of the space above.
-  where: 31650 Aspen Ridge Road
-  refs:
-  - 3
-  topics:
-  - Zoning & development
-  - Housing
-- title: Property valuation appeals and tax abatements
-  summary: The Board of Equalization heard property valuation appeals, including Steamboat Villas Condominiums (Sunterra Steamboat Development LLC) and the Prewitt property. An abatement for the Broadwater property was also considered.
-  where: Countywide
-  refs:
-  - 0
-  - 1
-  - 23
-  - 27
-  topics:
-  - Budget & taxes
-  - Land & property
+  - Health & human services
+  - Schools & youth

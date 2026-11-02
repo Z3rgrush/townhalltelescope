@@ -1,112 +1,103 @@
-- title: The Fort / Farm at the Fort annexation, zoning and extraterritorial water-sewer deal
-  summary: The Board considered an extraterritorial water and sewer agreement with Morrison RE Development, LP for The Fort, allowing up to 75 EQRs (50 residential) with $2.5 million in one-time impact fees and a public improvement fee on restaurant sales. Public hearings were noticed for Aug. 18 on annexing about 59.36 acres known as the Farm at the Fort and on initial zoning (Residential Estate and Mixed-Use Neighborhood). A resident asked for an update on the hearing.
+- title: The Fort extraterritorial water and sewer agreement and Farm at the Fort annexation
+  summary: The Board considered an agreement to provide water and sewer service to The Fort and an adjacent parcel for Morrison RE Development, LP. It would allow up to 75 EQRs (50 residential), $2.5 million in impact fees and a public improvement fee on restaurant sales. Separate notices set August 18 public hearings on annexing about 59.36 acres known as the Farm at the Fort and on initial zoning (RE and MX-N). The agreement notes the developer intends to withdraw its annexation and zoning applications.
   where: The Fort / Farm at the Fort, unincorporated Jefferson County near Morrison
   refs:
+  - 1
   - 2
   - 3
   - 4
-  - 5
   topics:
   - Annexation
+  - Utilities
   - Zoning & development
-  - Water
   public_comment: true
 - title: Green Tree Metro District extraterritorial sewer service
-  summary: The Board approved a term sheet for extraterritorial sewer service with the Green Tree Metro District after closed-door negotiation discussions. A sewer service agreement with the district was back on the Oct. 20 agenda.
+  summary: The Board approved a term sheet for extraterritorial sewer service with Green Tree Metro District and held executive sessions on negotiations. A Green Tree Metro District sewer service agreement was on the October 20 agenda.
   where: Green Tree Metro District
   refs:
-  - 2
-  - 17
+  - 1
+  - 16
   topics:
   - Utilities
   - Water
   - Land & property
-- title: Lodging tax changes and ballot questions
-  summary: Ordinance 562 aligns the lodging tax exemption with the 2012 voter-approved ballot language, effective Oct. 1, 2026. Two ballot issues would raise taxes by $125,000 by removing the exemption for small lodging and by $500,000 by raising the lodging tax from 6% to 8%. The Board ratified Ordinance 564 on ballot questions.
-  where: Townwide
+- title: Downtown and overnight parking concerns
+  summary: Residents told the Board that new downtown businesses should not be permitted without adequate parking. The Board discussed overnight parking (discussion only) and interstate parking, and sought community direction on parking issues.
+  where: Downtown Morrison
   refs:
-  - 3
-  - 9
+  - 1
   - 10
-  - 11
-  - 17
-  topics:
-  - Budget & taxes
-  - Elections
-  - Tourism & events
-- title: Downtown and interstate parking concerns
-  summary: Residents told the Board that new businesses should not be allowed without adequate parking in downtown Morrison. The Board discussed overnight parking and interstate parking and sought direction from the community.
-  where: Downtown Morrison, Bear Creek Ave. area
-  refs:
-  - 2
-  - 11
-  - 13
+  - 12
   topics:
   - Roads & traffic
   - Downtown & business
   public_comment: true
-- title: Mandatory watering restrictions and rewrite of the water and sewer code
-  summary: Due to drought, mandatory watering restrictions limit outdoor watering to two days a week and ban watering from 10 a.m. to 6 p.m. The Board adopted Ordinance 565 repealing and reenacting Title 8 on water and sewer regulations, including backflow prevention. The Board also discussed raw water diversion in executive session.
+- title: Lodging tax changes and November ballot questions
+  summary: Ordinance 562 aligns the lodging tax exemption with the 2012 voter-approved ballot language, effective October 1, 2026. Two ballot questions would remove the small-lodging exemption (+$125,000) and raise the rate from 6% to 8% (+$500,000), starting January 1, 2027.
+  where: Townwide
+  refs:
+  - 2
+  - 8
+  - 9
+  - 10
+  - 18
+  topics:
+  - Budget & taxes
+  - Elections
+  - Tourism & events
+- title: 2027 draft budget
+  summary: The draft 2027 budget includes a 15.85% health insurance renewal increase, a 3.6% cost-of-living raise, and a new full-time position under consideration. Lodging tax is expected to become the second-largest tax revenue source, and a hotel uses the sales tax incentive program (ESTIP). The first of two hearings was set for November 4.
+  where: Townwide
+  refs:
+  - 12
+  - 16
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Water and sewer code rewrite and drought watering restrictions
+  summary: Ordinance 565 repealed and replaced Title 8 of the municipal code to clarify water and sewer requirements, including backflow rules. Mandatory outdoor watering restrictions (two days per week, none 10am-6pm) have applied since April 2, 2026 because of drought.
   where: Townwide
   refs:
   - 0
   - 1
-  - 2
-  - 8
-  - 11
+  - 7
+  - 18
   topics:
   - Water
-  - Environment & climate
   - Utilities
-- title: 2027 draft budget and personnel costs
-  summary: The draft 2027 budget shows a 15.85% health insurance increase, a 3.6% cost-of-living raise, and lodging tax expected to become the second-largest tax source, ahead of property tax. A new hotel will add lodging and sales tax, and it uses the town's Enhanced Sales Tax Incentive Program. Budget hearings are set to start Nov. 4, and a new full-time position and a museum budget memo were also on the agenda.
-  where: Townwide
-  refs:
-  - 13
-  - 17
-  topics:
-  - Budget & taxes
-  - Government operations
-  - Economic development
+  - Environment & climate
 - title: Town Manager transition
-  summary: The Board approved an interim town manager employment agreement effective Aug. 14, 2026, held an exit interview session, and took up a Town Manager employment agreement in October. Residents also commented on the Town Manager application process.
-  where: Morrison Town Hall
+  summary: The Board approved an interim Town Manager employment agreement effective August 14, 2026, held executive sessions on the manager's exit interview, and later took up a Town Manager employment agreement and the manager application process.
+  where: Town Hall
   refs:
-  - 2
-  - 13
-  - 17
+  - 1
+  - 12
+  - 16
   topics:
   - Government operations
   public_comment: true
-- title: East Planning Area pre-development agreement
-  summary: The Board met in executive session on negotiations over development of the East Planning Area and on Oct. 6 approved a pre-development agreement related to it.
+- title: East Planning Area agreements
+  summary: The Board held closed negotiations on development of the East Planning Area and on October 6 approved a pre-development agreement tied to it.
   where: East Planning Area
   refs:
-  - 3
-  - 13
+  - 2
+  - 12
   topics:
   - Zoning & development
   - Land & property
-- title: 'Zoning code changes: garden sheds, motels, floodplain'
-  summary: Ordinance 566 allows garden sheds up to 120 sq ft as an accessory use, adds motels as a permitted use in the HD district, clarifies floodplain grade measurement, and amends the definition of substantial improvement.
+- title: 'Zoning code amendments: garden sheds, motels, floodplain'
+  summary: Ordinance 566 permits garden sheds up to 120 sq ft as an accessory use, adds motels in the HD district, requires structures elevated two feet above base flood elevation, and revises the definition of substantial improvement.
   where: Townwide
   refs:
-  - 7
+  - 6
   topics:
   - Zoning & development
-- title: Faster nuisance abatement on public property
-  summary: Ordinance 567 lets the town abate nuisances on public property without notice, and was adopted Oct. 6.
+- title: Nuisance abatement on public property
+  summary: Ordinance 567 allows the Town to abate nuisances on public property without notice. The Board adopted it October 6.
   where: Townwide
   refs:
+  - 11
   - 12
-  - 13
   topics:
   - Government operations
   - Policing & public safety
-- title: Wildfire preparedness and Stage 2 fire ban
-  summary: The town newsletter reminds residents of a Stage 2 Fire Ban in unincorporated Jefferson County and urges emergency plans and Lookout Alert sign-up.
-  where: Morrison and unincorporated Jefferson County
-  refs:
-  - 0
-  topics:
-  - Fire & emergencies

@@ -1,99 +1,98 @@
-- title: Lower Verzuh Ranch subdivision sketch plan (LUC-25-00004)
-  summary: Commissioners deliberated on a Major Impact sketch plan for the Lower Verzuh Ranch Subdivision. They voted not to hold an additional public hearing. On July 28 they sent the application back to the Planning Commission for a more refined basis and conditions. On August 11 the decision was postponed to a later meeting. Commissioners were split, with some concerned about the north valley and the level of public opposition.
-  where: Lower Verzuh Ranch, Gunnison County
+- title: Lower Verzuh Ranch major impact sketch plan (LUC-25-00004)
+  summary: Commissioners deliberated on the Lower Verzuh Ranch Subdivision sketch plan and whether to hold another public hearing. Commissioner Smith opposed a further hearing, while Commissioner Puckett Daniels wanted another hearing or more time; the board voted not to hold an additional hearing, and the decision was postponed to a later meeting.
+  where: Lower Verzuh Ranch, north valley
   refs:
-  - 0
-  - 3
-  public_comment: true
+  - 2
   topics:
   - Zoning & development
+  - Housing
   - Land & property
-- title: 0.50% countywide sales tax for roads and bridges on November ballot
-  summary: On August 18 commissioners approved Resolution 2026-29 referring a 0.50% countywide sales tax for roads, bridges and related transportation infrastructure to the November 3, 2026 election. They also approved an agreement with the Clerk and Recorder to run the ballot question. Commissioners stressed the money would go only to road and bridge work.
+  public_comment: true
+- title: 'November 2026 ballot: 0.50% countywide sales tax for roads and bridges'
+  summary: On August 18 commissioners approved Resolution 2026-29 referring a 0.50% countywide sales tax to the November 3, 2026 ballot to fund roads, bridges and related transportation infrastructure. They also approved an agreement with the Clerk and Recorder for running the ballot question and said the funds would go only to road and bridge. The Road and Bridge budget was set for a work session on October 27.
   where: Countywide
   refs:
-  - 4
+  - 3
+  - 20
   topics:
   - Roads & traffic
   - Budget & taxes
   - Elections
-- title: 2027 county budget draft and December 8 public hearing
-  summary: The first draft of the 2027 budget was presented October 13. Commissioners asked for work sessions on Road & Bridge, Public Health, Human Services, the Housing Authority and Whetstone, and the Capital Improvement Plan. A $10,000 late-night taxi request may be added to contracts for services, and a public hearing was set for December 8 at 5:30 pm.
+- title: 2027 county budget draft and work sessions
+  summary: On October 13 the chief finance officer presented the first draft of the 2027 budget. Commissioners asked for work sessions on Road & Bridge, Public Health, Human Services, the Housing Authority and Whetstone, and the Capital Improvement Plan. A public hearing was set for December 8 at 5:30 pm, and the board agreed to invite applications for a $10,000 late-night taxi request.
   where: Countywide
   refs:
-  - 5
-  - 16
+  - 15
+  - 20
   topics:
   - Budget & taxes
-  - Housing
   - Government operations
+  - Transit
 - title: Whetstone housing and Housing Authority budget amendment
-  summary: The Housing Authority amended its 2026 budget and appropriation (Resolution 2026-005) for Whetstone because of how the bond documents work. Whetstone is also set to include family childcare units, and its business plan is slated for a budget work session.
-  where: Whetstone housing development
+  summary: The Housing Authority amended its 2026 budget and appropriation (Resolution 2026-005) for Whetstone because of how the bond documents work. Whetstone had permanent water onsite, and three units there are allocated to large family childcare. The Housing Authority and Whetstone business plan was also slated for a 2027 budget work session.
+  where: Whetstone, Gunnison County
   refs:
-  - 1
-  - 5
-  - 10
-  - 16
+  - 0
+  - 4
+  - 9
+  - 15
   topics:
   - Housing
   - Budget & taxes
+  - Schools & youth
 - title: Mineral Point property agreements
-  summary: The Housing Authority and commissioners went into executive session on September 15 to get legal advice on proposed Mineral Point Property agreements and to develop negotiation strategy. No outcome is stated in the documents.
-  where: Mineral Point property
+  summary: The Housing Authority and commissioners went into executive session on September 15 to get legal advice on proposed Mineral Point Property agreements and to develop negotiating strategy. No outcome is stated in the documents.
+  where: Mineral Point
   refs:
+  - 9
   - 10
-  - 11
   topics:
   - Land & property
-  - Lawsuits & legal
-- title: Senior property tax exemption appeal (Haack)
-  summary: On September 1 the Board of Equalization heard an appeal from Teresa Haack, whose senior property tax exemption was disputed because voter registration and address records pointed elsewhere. The board voted to deny the appeal.
+  - Housing
+- title: Senior property tax exemption appeal (T. Haack)
+  summary: On September 1 the Board of Equalization heard Teresa Haack's appeal of a denied senior property tax exemption. Staff said voter registration at another address determines primary residence, and the board voted to deny the appeal.
   where: Crested Butte area
   refs:
+  - 5
   - 6
   - 7
-  - 8
   topics:
   - Budget & taxes
-  - Government operations
+  - Land & property
 - title: Solid waste rate study
-  summary: Commissioners approved awarding the Solid Waste Rate Study contract to Raftelis for $87,693 as part of the August 4 consent items.
+  summary: Commissioners approved awarding the Solid Waste Rate Study to Raftelis for $87,693 through Public Works.
   where: Countywide
   refs:
-  - 1
-  - 2
+  - 0
   topics:
   - Fees & rates
   - Utilities
-- title: Cumberland Pass rehabilitation project funding application
-  summary: A resolution on August 4 authorized a program application for the Gunnison County Cumberland Pass Rehabilitation Project, committing to implementation, matching funds and long-term commitments.
+- title: Cumberland Pass rehabilitation project grant application
+  summary: Commissioners considered a resolution on a program application for the Gunnison County Cumberland Pass Rehabilitation Project, committing to implementation, matching funds and long-term commitments.
   where: Cumberland Pass
   refs:
-  - 1
-  - 2
+  - 0
   topics:
   - Roads & traffic
-  - Government operations
-- title: Airport pavement maintenance and airport contracts
-  summary: The county approved a $719,737 construction agreement with Maxwell Asphalt for 2025 airfield pavement maintenance at Gunnison-Crested Butte Regional Airport, plus a food and beverage/retail concession amendment.
+  - Budget & taxes
+- title: Gunnison-Crested Butte Regional Airport pavement and contracts
+  summary: The county approved a $719,737 airfield pavement maintenance construction agreement with Maxwell Asphalt, plus a contract change order, a Jviation amendment, and lease and concession amendments at the airport.
   where: Gunnison-Crested Butte Regional Airport
   refs:
+  - 0
+  - 5
   - 6
   - 7
-  - 8
   topics:
   - Airports
-  - Economic development
-- title: October 6 land use items and Land Use Resolution amendment
-  summary: The October 6 agenda included resolutions on minor impact permits LUC-25-00043 and LUC-24-00036, a tax abatement petition, and an amendment to the Land Use Resolution and its fee schedule. Earlier, a development improvement agreement for LUC-25-00038 (Simco Ventures) and the Alpenview Townhomes plat (LUC-26-00009) were on consent.
-  where: Countywide
+  - Budget & taxes
+- title: Regional health, suicide prevention and early childhood programs
+  summary: Commissioners heard updates on Whole Health Navigation, stigma reduction and the Regional Suicide Prevention effort, as well as early childhood scholarships that served 94 families. Human Services also discussed its fiscal year 2027 budget and reductions to meet federal guidelines.
+  where: Gunnison and Hinsdale counties
   refs:
   - 4
+  - 9
   - 10
-  - 14
-  - 15
   topics:
-  - Zoning & development
-  - Fees & rates
-  - Budget & taxes
+  - Health & human services
+  - Schools & youth

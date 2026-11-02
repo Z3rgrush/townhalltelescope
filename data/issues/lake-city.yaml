@@ -1,123 +1,124 @@
-- title: Elk Fire emergency and local disaster declaration
-  summary: Town Manager Alexander Mulhall declared a local disaster on August 7, 2026 due to the Elk Fire, and Council ratified it by Resolution 2026-10 on August 12. The town approved an emergency agreement with the USDA Forest Service for potable water and grey water disposal at $0.03 per gallon, and thanked Estes Park and Windsor for lending backup generators. Resolution 2026-13 to terminate the emergency was on the October 21 agenda.
-  where: Elk Fire on the Lake City border, unincorporated Hinsdale County
+- title: Phase 1 Hinsdale County/Lake City Comprehensive Housing Plan implementation
+  summary: The town received six proposals to carry out Phase 1 of the housing plan and on Aug 19 accepted a Phase 1 implementation grant agreement and selected Collegiate Peaks Law & Mediation LLC. A professional services agreement was approved Sept 2. By Oct 7 and Oct 21 the consultant selection was back on the agenda, with a notice of award to Western Spaces LLC under discussion and action.
+  where: Townwide
   refs:
+  - 0
   - 2
   - 3
   - 4
-  - 5
-  - 8
-  topics:
-  - Fire & emergencies
-  - Water
-  - Government operations
-- title: July 24 flash floods, debris flows and stormwater
-  summary: Council discussed the July 24, 2026 flash floods and mud and debris flows, then followed up on cleanup and recovery on August 5. A resident raised concerns about loss of containment of stormwater, especially its depth and velocity.
-  where: Lake City
-  refs:
-  - 0
-  - 1
-  - 3
-  public_comment: true
-  topics:
-  - Fire & emergencies
-  - Environment & climate
-  - Utilities
-- title: Phase 1 Hinsdale County/Lake City Comprehensive Housing Plan implementation
-  summary: Six proposals were received for the Phase 1 housing plan work. Council accepted the implementation grant agreement and on August 19 selected Collegiate Peaks Law & Mediation, approving its service agreement September 2. By October the consultant selection was being revisited, and a notice of award to Western Spaces LLC was on the October 21 agenda.
-  where: Townwide
-  refs:
-  - 1
-  - 3
-  - 4
-  - 5
+  - 6
   - 7
-  - 8
   topics:
   - Housing
+  - Land & property
   - Government operations
 - title: DOLA ADU grant and pre-approved accessory dwelling unit designs
-  summary: Council discussed a DOLA accessory dwelling unit grant application, including a reduced match request and incentive funding. The October 21 agenda sought approval of a $107,000 application with a 13% match of $13,910 for pre-approved ADU designs.
+  summary: The council discussed a DOLA grant application, a reduced match request and incentive funding for accessory dwelling units. On Oct 21 it considered a $107,000 application with a 13% match of $13,910 for pre-approved ADU designs. The town also discussed ADU Supportive Jurisdiction certification.
   where: Townwide
   refs:
-  - 1
-  - 3
-  - 8
+  - 0
+  - 2
+  - 7
   topics:
   - Housing
   - Zoning & development
-- title: 2027 budget, water and sewer rates, and health insurance
-  summary: Council reviewed the draft 2027 budget, 2027 water and sewer rates, capital improvement projects and available funds for donations. It also considered appointing Alexander Mulhall as budget officer and choosing between alternate health plans or keeping the current CEBT plan.
+- title: Elk Fire emergency response and disaster declaration
+  summary: Town Manager Alexander Mulhall declared a local disaster on Aug 7 because of the Elk Fire on the town's border in unincorporated Hinsdale County, and council ratified it Aug 12. Council approved an emergency facilities and land use agreement with the USDA Forest Service for potable water and grey water disposal at $0.03 per gallon. Resolution 2026-13 to end the emergency was on the Oct 21 agenda, and the council also thanked Estes Park and Windsor for lending backup generators.
+  where: Lake City and border with unincorporated Hinsdale County
+  refs:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 7
+  topics:
+  - Fire & emergencies
+  - Utilities
+  - Government operations
+- title: Flash flood cleanup and stormwater concerns
+  summary: Council discussed flash flood cleanup and recovery in early August. On Aug 19 a resident raised concerns about loss of containment of stormwater, focusing on the depth and velocity of the water.
   where: Townwide
   refs:
+  - 0
+  - 2
+  topics:
+  - Environment & climate
+  - Roads & traffic
+  - Utilities
+  public_comment: true
+- title: 2027 budget, water and sewer rates, and health insurance
+  summary: Council reviewed the 2027 draft budget, 2027 water and sewer rates, capital projects, and available money for donations. It appointed Town Manager Alexander Mulhall as 2027 budget officer and weighed alternate health insurance plans against keeping the current CEBT plan. It also discussed a request for proposals for the 2026 audit.
+  where: Townwide
+  refs:
+  - 3
+  - 4
+  - 6
   - 7
-  - 8
   topics:
   - Budget & taxes
   - Fees & rates
-  - Utilities
-- title: Armory apartment rent and applicant criteria
-  summary: Council discussed rent and applicant criteria for the apartment at the Armory on October 7 and again on October 21.
-  where: Armory, 230 N. Bluff Street
+  - Government operations
+- title: Zoning amendments for MHR, CBD and GBD districts (Ordinance 2026-11)
+  summary: Council held a public hearing and second reading on Ordinance 2026-11, amending sections of the town code covering performance standards in the MHR, CBD and GBD zoning districts.
+  where: Medium-density residential, Central Business and General Business districts
   refs:
-  - 7
-  - 8
+  - 0
   topics:
-  - Housing
+  - Zoning & development
+  - Downtown & business
+  public_comment: true
+- title: Lease of 8th Street right-of-way (Ordinance 2026-10)
+  summary: Council held a public hearing and second reading on Ordinance 2026-10, which approves a lease of part of the town-owned 8th Street right-of-way.
+  where: 8th Street right-of-way
+  refs:
+  - 0
+  topics:
   - Land & property
+  - Roads & traffic
+  public_comment: true
 - title: Wastewater treatment plant renovation change order
-  summary: 'Council considered Ridgway Valley Concrete Basin Electrical Change Order #3 for the WWTP renovation, in the amount of $23,331.11.'
+  summary: 'Council discussed and approved Ridgway Valley Enterprises electrical change order #3 on the WWTP renovation, for $23,331.11.'
   where: Wastewater treatment plant
   refs:
-  - 1
+  - 0
   topics:
   - Utilities
   - Water
-- title: Ordinances on 8th Street right-of-way lease and zoning standards
-  summary: Council held public hearings on second reading of Ordinance 2026-10, leasing part of the 8th Street right-of-way, and Ordinance 2026-11, amending performance standards in the MHR, CBD and GBD zoning districts.
-  where: 8th Street; MHR, CBD and GBD zoning districts
-  refs:
-  - 1
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Colorado Ride 2027 tent camping in Memorial Park
-  summary: Summit Cycle Solutions asked to use Memorial Park for tent camping August 11-13, 2027, with about 70 participants. Council approved the request and then Resolution 2026-12 on October 7.
-  where: Memorial Park
+- title: Armory apartment rent and applicant criteria
+  summary: Council discussed rent and applicant criteria for the apartment at the Armory in October.
+  where: Armory, 230 N. Bluff Street
   refs:
   - 6
   - 7
-  public_comment: true
   topics:
-  - Tourism & events
-  - Parks & open space
-- title: International Dark Sky Community designation
-  summary: Council discussed Dark Sky Community certification requirements and the designation application.
-  where: Townwide
-  refs:
-  - 4
-  - 5
-  - 6
-  topics:
-  - Environment & climate
-  - Tourism & events
-- title: Wildfire resiliency code and future grant funding
-  summary: Council discussed CML and DOLA responses on adopting the Colorado Wildfire Resiliency Code and how it might affect future grant funding.
-  where: Townwide
-  refs:
-  - 8
-  topics:
-  - Fire & emergencies
-  - Environment & climate
-  - Zoning & development
-- title: Pickleball courts public engagement and 2026 audit RFP
-  summary: Council discussed public engagement on pickleball courts for spring/summer 2027 and directed staff to draft a request for proposals for the 2026 audit.
+  - Housing
+  - Land & property
+- title: Dark Sky Community certification
+  summary: Council discussed the requirements for certification as an International Dark Sky Community and the designation application.
   where: Townwide
   refs:
   - 3
   - 4
   - 5
   topics:
+  - Environment & climate
+  - Tourism & events
+- title: Colorado Ride 2027 tent camping in Memorial Park
+  summary: Summit Cycle Solutions asked to use Memorial Park for tent camping Aug 11-13, 2027, with about 70 participants. Council approved the request and then Resolution 2026-12 permitting it.
+  where: Memorial Park
+  refs:
+  - 5
+  - 6
+  topics:
+  - Tourism & events
+  - Parks & open space
+- title: Wildfire resiliency code and pickleball court engagement
+  summary: Council discussed CML and DOLA responses on adopting the Colorado Wildfire Resiliency Code and what it means for future grants. It also planned public engagement on pickleball courts for spring/summer 2027.
+  where: Townwide
+  refs:
+  - 2
+  - 7
+  topics:
+  - Fire & emergencies
   - Recreation & trails
-  - Budget & taxes
-  - Government operations
+  - Zoning & development

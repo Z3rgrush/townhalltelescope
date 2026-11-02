@@ -220,5 +220,5 @@
 - Budget discussion
 - 11. EXECUTIVE SESSION TO DISCUSS PERSONNEL MATTERS
 
-## [crawford#10] 2026-10-19 | City Council | agenda
+## [crawford#10] 2026-10-26 | City Council | agenda
 - Staff: Grant Knowles, Jeff Blanton

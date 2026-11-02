@@ -1,88 +1,6 @@
 # arapahoe-county
 
-## [arapahoe-county#0] 2026-07-28 | Board of County Commissioners Business Meeting | minutes
-- East Hearing Room
-- The public is welcome to attend Business Meetings held in the East Hearing Room at the Arapahoe
-- County Administration Building, 5334 South Prince Street, Littleton, CO 80120. Business meetings also
-- can be viewed online at arapahoe.legistar.com. Virtual public comment is allowed on general issues or
-- The Board of County Commissioners typically holds Public Hearings at 9:30 a.m. the second and fourth
-- under regular business are considered individually
-- comment, which will conclude at noon. Public comment periods may be adjusted by the Chair as
-- discussion, and may be voted on as an entire group with a single motion. (The motion is “to
-- approve the items on the consent agenda.”) A Commissioner may request an item from the
-- consent agenda be removed for separate discussion. This enables the item to be considered
-- and voted upon separately
-- Approval of the Consent Agenda
-- 4.a. Approval of Stipulated Abatement Reduction
-- 4.b. Approval of Stipulated Abatement Reductions
-- 4.c. Amendment of the Zoning Fee Schedule to include Short-Term Rental Licensing
-- Updated zoning fee schedule
-- 4.d. Approval of Stipulated Abatement Reduction
-- 4.e. Approval of Stipulated Abatement Reduction
-- 4.g. Approval of Litigation Settlement Agreement
-- 2026.07.12 Cadona v. Magee - Final Settlement Agreement
-- 4.h. Approval of BAA Stipulations
-- 4.i. Resolution to approve Arapahoe County board and committee appointments and
-- reappointments
-- Items on the general business agenda will include an opportunity for public comment
-- Scientific and Cultural Facilities District Tier III Awards
-- Presentation
-- consider this matter
-- The funding and the processing of the 2026-2027 awards was reviewed
-- Staff recommended approval of awards
-- The public comment period was opened
-- The public comment period was closed
-- Commissioner discussed the importance of the work and the diversity of culture in the
-- this Resolution be adopted. The motion carried by the following vote:
-- 6. PUBLIC COMMENT PERIOD
-
-## [arapahoe-county#1] 2026-07-28 | Board of County Commissioners Study Session | minutes
-- West Hearing Room
-- study session or administrative meeting as necessary to receive legal advice or discuss other
-- 12:45 AM *2026 Private Activity Bonds (PAB) Re-Adjusted Allocation
-- The purpose of this study session was the Community Development and Housing Stability Service
-- (CDHSS) staff requested direction from the Board of County Commissioners regarding the
-- reassignment of the County’s 2026 Private Activity Bond allocation due to a change in the financing
-- status of a project previously prioritized to receive $3,000,000 of the County’s 2026 PAB allocation and
-- subsequently approved by the Board of County Commissioners on March 31, 2026
-- A background of the request was presented
-- Staff are requesting and recommending reallocating the available $3 million in County PAB authority to
-- Creek to $ 7,005,092. This increase would allow the project to move forward with its financing plan
-- housing development priorities
-- Discussion was held regarding why the project was selected over others
-- 5-0 in favor of request
-- 12:50 PM *Participation Opportunity: Housing Colorado 2026 Design Charrettes Program
-- (CDHSS) staff requested approval from the Board of County Commissioners regarding the electronic
-- submission of a participation application for the 2026 Design Charrettes Program through the University
-- of Colorado Denver College of Architecture and Planning, hosted by Housing Colorado, to support
-- collaborative community planning and exploring redevelopment opportunities for 4857 South
-- Broadway, Englewood CO 80113
-- Staff are requesting approval to electronically submit a participation application for the 2026 Design
-- Charrettes Program to explore the redevelopment potential at the County owned property 4857 S
-- 5-0 in favor of the request
-- 1:00 PM *Intergovernmental Agreement between El Paso County Sheriff’s Office and Arapahoe County
-- Draft Agreement
-- agreement (IGA) with the El Paso County Sheriff’s Office for the purpose of using their Incinerator for
-- drug and firearm destruction. The purpose of this IGA is to have a backup plan in place due to
-- Office requested the Board of County Commissioners to approve the IGA and authorize the Sheriff to
-- Sheriff’s office staff are requesting to enter into an IGA with El Paso County. The IGA would create a
-- backup plan to be in place due to incinerator options becoming more difficult to sustain and find
-- Commissioner confirmed that the fiscal impact will be absorbed by the current budget. Commissioner
-- 1:15 PM *Drop-in: Evidence.com Revised Contract; Need for In-House Programmers
-- The purpose of this study session was for the Board of County Commissioners (BOCC) to consider
-
-## [arapahoe-county#2] 2026-07-28 | 1A Resident Advisory Committee | agenda
-- 3. FIVE-YEAR TRANSPORTATION & ROAD AND BRIDGET DIVISION PLANS: 1A
-- Presentation
-- PresentationAttachments:
-- 4. PUBLIC COMMENT
-
-## [arapahoe-county#3] 2026-08-03 | Board of County Commissioners Study Session | minutes
-- West Hearing Room
-- study session or administrative meeting as necessary to receive legal advice or discuss other
-- section 24-6-402(4)(b)&(e) of the Colorado Revised Statutes to develop strategy and instruct
-
-## [arapahoe-county#4] 2026-08-04 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#0] 2026-08-04 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 2:00 PM *Approve vehicle retention policy for county fleet management operations
@@ -119,14 +37,14 @@
 - A recap for Q1 was presented for the projects completed, in-progress, and future projects
 - Graphs were displayed showing data from the projects by lead and focus area, and projects by status
 
-## [arapahoe-county#5] 2026-08-04 | Planning Commission | agenda
+## [arapahoe-county#1] 2026-08-04 | Planning Commission | agenda
 - 6954 South Lima Street, Centennial, CO 80112
 - 2. APPROVAL OF MINUTES
 - APPROVAL OF THE MINUTES FROM JULY 7, 2026
 - PRESENTATION REGARDING LDC 26-002, GROUP HOMES / LAND
 - DEVELOPMENT CODE (LDC) AMENDMENT
 
-## [arapahoe-county#6] 2026-08-04 | Board of County Commissioners Business Meeting | minutes
+## [arapahoe-county#2] 2026-08-04 | Board of County Commissioners Business Meeting | minutes
 - West Hearing Room
 - The public is welcome to attend this Special Business Meeting held in the West Hearing Room at the
 - Arapahoe County Administration Building, 5334 South Prince Street, Littleton, CO 80120. Meetings
@@ -141,7 +59,7 @@
 - this Resolution be adopted. The motion carried by the following vote:
 - Purpose and Request:
 
-## [arapahoe-county#8] 2026-08-10 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#4] 2026-08-10 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:00 PM *2026 Second Quarter Budget Review and CIP Update
@@ -175,7 +93,7 @@
 - Staff also presented CIP updates. Graphs were displayed for Facilities Continued Projects and New
 - Projects, Technology Continued Projects and New Projects, Safety Continued Projects, Infrastructure
 
-## [arapahoe-county#9] 2026-08-11 | Board of County Commissioners Business Meeting | minutes
+## [arapahoe-county#5] 2026-08-11 | Board of County Commissioners Business Meeting | minutes
 - East Hearing Room
 - The public is welcome to attend Business Meetings held in the East Hearing Room at the Arapahoe
 - County Administration Building, 5334 South Prince Street, Littleton, CO 80120. Business meetings also
@@ -221,7 +139,7 @@
 - Applicant presented further. A PowerPoint presentation was presented, a copy of which has
 - Applicant presented the joint pipeline project and the need of it. A map of the pipeline route
 
-## [arapahoe-county#10] 2026-08-11 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#6] 2026-08-11 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 11:00 AM *County Economic Development Program and Environmental Scan
@@ -255,12 +173,12 @@
 - The purpose of this study session was to for the Board of County Commissioners (BOCC) to consider
 - approving the electronic submission of a grant application to History Colorado’s State Historical Fund
 
-## [arapahoe-county#11] 2026-08-13 | Arapahoe County Regional Opioid Council | agenda
+## [arapahoe-county#7] 2026-08-13 | Arapahoe County Regional Opioid Council | agenda
 - a. Approval of June meeting minutes
 - b. External Funding Requests - University of Colorado, Feral Friends, Arapahoe County
 - b. Presentations from Funded Projects - Cherry Creek School District, Hornbuckle, Tribe
 
-## [arapahoe-county#12] 2026-08-18 | Planning Commission | agenda
+## [arapahoe-county#8] 2026-08-18 | Planning Commission | agenda
 - 6954 South Lima Street, Centennial, CO 80112
 - 2. APPROVAL OF MINUTES
 - STUDY SESSION ON PROPOSED COUNTY REZONING FOR
@@ -271,7 +189,7 @@
 - Attachment 7 4 Square Mile Proposed Rezone Map
 - Attachment 9 Belleview Proposed Rezone
 
-## [arapahoe-county#13] 2026-08-19 | Arapahoe County Board of Health | minutes
+## [arapahoe-county#9] 2026-08-19 | Arapahoe County Board of Health | minutes
 - 2. APPROVAL OF MINUTES*
 - The motion was approved by the following vote:
 - motion was approved by the following vote:
@@ -294,14 +212,14 @@
 - 6.a Community Health Improvement Plan Update
 - This presentation was cut short at the halfway point and will be resumed in the
 
-## [arapahoe-county#14] 2026-08-19 | Fair Planning Committee | agenda
+## [arapahoe-county#10] 2026-08-19 | Fair Planning Committee | agenda
 - APPROVAL OF MINUTES: July 15, 2026
 - Judges: Fees-Contracts-etc
 - Grand and Reserve Grand Champion Awards:
 - Committee Member Application-Tammy Rothe:
 - Nominating Committee Appointment & Budget Committee:
 
-## [arapahoe-county#17] 2026-09-08 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#13] 2026-09-08 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:00 PM *Consideration of Revised Form of Avigation Easement
@@ -315,7 +233,7 @@
 - Discussion was held as to the purpose for the proposed change
 - Revised Statutes to develop strategy and instruct negotiators, and receive legal advice, regarding
 
-## [arapahoe-county#18] 2026-09-08 | Board of County Commissioners Business Meeting | minutes
+## [arapahoe-county#14] 2026-09-08 | Board of County Commissioners Business Meeting | minutes
 - East Hearing Room
 - The public is welcome to attend Business Meetings held in the East Hearing Room at the Arapahoe
 - County Administration Building, 5334 South Prince Street, Littleton, CO 80120. Business meetings also
@@ -356,10 +274,10 @@
 - 6.s. Approval of a 2026 Board of Equalization Qualifying Senior Citizen Property Tax
 - Items on the general business agenda will include an opportunity for public comment
 
-## [arapahoe-county#19] 2026-09-10 | Arapahoe County Regional Opioid Council | agenda
+## [arapahoe-county#15] 2026-09-10 | Arapahoe County Regional Opioid Council | agenda
 - a. Approval of August Minutes
 
-## [arapahoe-county#20] 2026-09-14 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#16] 2026-09-14 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - Presentation
@@ -383,7 +301,7 @@
 - And pursuant to section 24-6-402(4)(b)&(e) of the Colorado Revised Statutes to develop strategy
 - 2. Boom Supersonic request follow-up
 
-## [arapahoe-county#21] 2026-09-15 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#17] 2026-09-15 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:30 PM *MOU approval with Colorado State Patrol for CMV Inspections
@@ -401,7 +319,7 @@
 - permission. Staff mentioned considerations that were being held within the department
 - Presentation concluded without vote. Commissioner Summey absent and excused
 
-## [arapahoe-county#22] 2026-09-15 | Planning Commission | agenda
+## [arapahoe-county#18] 2026-09-15 | Planning Commission | agenda
 - 6954 South Lima Street, Centennial, CO 80112
 - 2. APPROVAL OF MINUTES
 - APPROVAL OF THE MINUTES FROM AUGUST 18, 2026
@@ -409,7 +327,7 @@
 - FOR WATER SUPPLY ELEMENT / LONG RANGE (LR)
 - LR26-002 Comp Plan Amd for Water Supply Element - Staff Report &
 
-## [arapahoe-county#23] 2026-09-16 | Arapahoe County Board of Health | agenda
+## [arapahoe-county#19] 2026-09-16 | Arapahoe County Board of Health | agenda
 - 2. APPROVAL OF MINUTES*
 - 3. PUBLIC COMMENT*
 - 6.a Onsite Wastewater Treatment System update
@@ -419,11 +337,11 @@
 - POD Facilitated Discussion 26-482
 - Discussion_September26
 
-## [arapahoe-county#24] 2026-09-16 | Fair Planning Committee | agenda
+## [arapahoe-county#20] 2026-09-16 | Fair Planning Committee | agenda
 - Grand and Reserve Grand Champion Awards
 - Budget Committee
 
-## [arapahoe-county#25] 2026-09-21 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#21] 2026-09-21 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - Presentation
@@ -457,7 +375,7 @@
 - Revised Statutes to develop strategy and instruct negotiators and receive legal advice regarding
 - an update on the Deborah Chapman case and settlement request; and pursuant to section
 
-## [arapahoe-county#26] 2026-09-22 | Board of County Commissioners Business Meeting | minutes
+## [arapahoe-county#22] 2026-09-22 | Board of County Commissioners Business Meeting | minutes
 - East Hearing Room
 - The public is welcome to attend Business Meetings held in the East Hearing Room at the Arapahoe
 - County Administration Building, 5334 South Prince Street, Littleton, CO 80120. Business meetings also
@@ -486,7 +404,7 @@
 - 7.g. Approval of Stipulated Abatement Reduction
 - Items on the general business agenda will include an opportunity for public comment
 
-## [arapahoe-county#27] 2026-09-22 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#23] 2026-09-22 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - Local Plan - A/D Works!
@@ -520,7 +438,7 @@
 - Commissioner asked about what to expect at the follow-up study session. Discussion was held
 - Presentation concluded without vote. Commissioner Baker absent and excused. Commissioner
 
-## [arapahoe-county#28] 2026-09-28 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#24] 2026-09-28 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:00 PM *2027 Open Space Grant Cycle Funding
@@ -554,7 +472,7 @@
 - Item will be continued in executive session, presentation concluded without vote. Commissioner
 - final implementation and support invoices for the Accela project. This increase will exceed the $ 100K
 
-## [arapahoe-county#29] 2026-09-29 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#25] 2026-09-29 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 11:30 AM * Aurora Economic Development Council Annual Update
@@ -591,7 +509,7 @@
 - Commissioner informed staff of wanting to include a priority for land use based around data centers and
 - environmental concerns. BOCC discussed adding this type of language to the priorities and not simply a
 
-## [arapahoe-county#30] 2026-10-06 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#26] 2026-10-06 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - Presentation
@@ -622,7 +540,7 @@
 - proposed Intergovernmental Agreement Regarding the Airpark /Monaghan Interchange Project
 - and to receive legal advice on the Proposed Interchange Impact Fee
 
-## [arapahoe-county#31] 2026-10-06 | Planning Commission | agenda
+## [arapahoe-county#27] 2026-10-06 | Planning Commission | agenda
 - 6954 South Lima Street, Centennial, CO 80112
 - 2. APPROVAL OF MINUTES
 - APPROVAL OF THE MINUTES FROM SEPTEMBER 15, 2026
@@ -631,12 +549,12 @@
 - WORKS AND DEVELOPMENT (PWD) - MOLLY ORKILD-LARSON,
 - DISCUSSION CONCERNING CASE NO. LDC 26-003, PUBLIC LAND DEDICATION
 
-## [arapahoe-county#32] 2026-10-08 | Arapahoe County Regional Opioid Council | agenda
+## [arapahoe-county#28] 2026-10-08 | Arapahoe County Regional Opioid Council | agenda
 - b. Approval of September minutes
 - d. Continuation Funding Approval
 - b. Presentations from funded projects: Arapahoe County Sheriff's Office, Rise Above,
 
-## [arapahoe-county#33] 2026-10-12 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#29] 2026-10-12 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:00 PM The Arapahoe Forward Forum and Process Improvement Recognition Ceremony
@@ -645,7 +563,7 @@
 - 2. Crown Castle case update and settlement discussion;
 - 3. Boom Supersonic follow-up discussion; and
 
-## [arapahoe-county#34] 2026-10-13 | Board of County Commissioners Business Meeting | minutes
+## [arapahoe-county#30] 2026-10-13 | Board of County Commissioners Business Meeting | minutes
 - East Hearing Room
 - The public is welcome to attend Business Meetings held in the East Hearing Room at the
 - Arapahoe County Administration Building, 5334 South Prince Street, Littleton, CO 80120
@@ -689,7 +607,7 @@
 - The Budget Package Requests for General Fund was presented. Staff reviewed the 2027
 - requested budget, the 2027 recommended budget, and the variance between the two
 
-## [arapahoe-county#35] 2026-10-13 | Board of County Commissioners Study Session | minutes
+## [arapahoe-county#31] 2026-10-13 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - 1:30 PM *Proposition 123 Affordable Housing Commitment 2027-2029 Cycle
@@ -724,27 +642,77 @@
 - Staff discussed the team of experts and their range of knowledge. Kudos received were listed
 - 3:30 PM *Enterprise Network Firewall Replacement Funding and Fixed Asset Numbers
 
-## [arapahoe-county#36] 2026-10-19 | Board of County Commissioners Study Session | agenda
+## [arapahoe-county#32] 2026-10-19 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
-- 1:30 PM *Data Center Environmental & Regulatory Follow-up Discussion for Potential
-- Land Development Code Updates
-- Presenter: Raye Fields, Planner II, Public Works & Development; Zach Blazek, Senior
-- Planner, Public Works & Development
+- 1:30 PM *Data Center Environmental & Regulatory Follow-up Discussion for Potential Land
+- Development Code Updates
 - Data Center Policy Matrix
 - Air Quality Permitting Fact Sheet CDPHE
 - Staff Presentation
+- Commissioners (BOCC) concerning potential updates to the Land Development Code (LDC) related to
+- data center regulations
+- A PowerPoint presentation was presented, a copy of which has been retained for the record
+- Staff presented the background and purpose to the follow-up discussion
+- The current existing county code was presented. The current Land Development Code does not define
+- “data center”
+- Staff reviewed impacts that were previously discussed. Noise concerns were discussed, and staff
+- mentioned mitigation factors. Air quality concerns were previously raised, and data center developments
+- were addressed. The BOCC may consider implementing use-specific standards for data centers. Staff
+- discussed water usage as it relates to data centers and different options for the BOCC
+- Staff reviewed what other cities and counties are doing to regulate data centers. The first option was
+- The next steps for staff were discussed. Staff presented three options for the BOCC for their preferred
+- Commissioner asked regarding the regulatory possibilities for the different levels of data centers
+- Commissioner inquired as to utilizing metrics used by other counties to regulate data centers, and other
+- Discussion was held surrounding the preferred options and areas of focus such as economic impact and
+- zoning. Commissioners advised staff of possible regulations and categorization for the future study
+- session. Clean-up, employment, and CPUC are other considerations
+- 5-0 in favor of option 3 for staff to establish a permitted and /or special use. Commissioner Baker and
+- Staff provided an update and asked about their Capital Improvement Plan
+- The court also received Magistrate Judge FTEs from the state to provide services for mental health and
+- commitment cases. Competency docket will also be increased dues to the increased Magistrate
+- Commissioner commented on the positivity from the presentation
+- Presentation concluded without a vote. Commissioner Baker and Commissioner Campbell appeared
+- arise from an action to revoke approved engineering documents
 
-## [arapahoe-county#37] 2026-10-20 | Board of County Commissioners Study Session | agenda
+## [arapahoe-county#33] 2026-10-20 | Board of County Commissioners Study Session | minutes
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
-- 10:30 AM *Use of Funds for Arapahoe Plaza Project 26-427
+- 10:30 AM *Use of Funds for Arapahoe Plaza Project
+- The purpose of this study session was Arapahoe County Public Health requested a change in the scope
+- A background of the request was presented
+- ACPH are requesting to redirect $ 40,135 of Contingency Funds from the project to accommodate the
+- modifications were discussed and are necessary to comply with state standards and regulations
+- associated with operating a vital office. Discussion was held regarding the departments that would be
+- Commissioner asked regarding the fiscal impact on the project and where the funds would be utilized
+- from. Commissioner also clarified how much was set aside in contingency funds for the project and how
+- 5-0 in favor of the request
+- Commissioner noted the importance of maintaining proper budget process moving forward
 - Presentation
-- 1:00 PM *Executive Budget Committee Presentation of the 2027 Recommended Budget 26-515
-- Presenter: Jessica Savko, Budget Manager, Finance Department
+- A PowerPoint presentation was presented, a copy of which has been retained for the record
+- FY2027 appropriations in regard to where things stand currently were discussed
+- U.S. Senate Activity pre-election was reviewed. Items including the Farm Bill, Ratepayer Protection
+- Act, and Permit Reform were discussed
+- Commissioner clarified that the Hemp Extension portion of the Continuing Resolution is regarding
+- Administration highlights pre-election were discussed. These items included Pocket Rescission, and
+- Presidential Approval Rate
+- Commissioner asked for clarification on the federal funding discussed in the Pocket Rescission
+- and where the conversation stands for those fees
+- measures focusing on taxes, education funding, natural gas policy, voter ID, redistricting, criminal
+- Discussion was held regarding the U .S. Senate Races, and the U .S. House Races and where rankings
+- Proposed changes for 2030 Decennial Census were discussed
+- Commissioner inquired about housing and homelessness funding
+- blue states. Commissioner thanked lobbying staff for the presentation and asked how many Democratic
+- Discussion was held surrounding 2028 Democratic strategy
+- Presentation concluded without vote
+- 1:00 PM *Executive Budget Committee Presentation of the 2027 Recommended Budget
 - 2027 Recommended Budget
+- The purpose of this study session was to present the recommendations of the Executive Budget
+- Committee for the 2027 budget to the full Board of County Commissioners. All of the recommendations
+- presented regarding the budget are the basis for the 2027 Recommended Budget document that was
+- presented to the Board during a public hearing on October 13, 2026
 
-## [arapahoe-county#38] 2026-10-20 | Planning Commission | agenda
+## [arapahoe-county#34] 2026-10-20 | Planning Commission | agenda
 - 5334 S PRINCE ST - EAST HEARING ROOM
 - The public is welcome to attend the Planning Commission meeting in the East Hearing Room,
 - 2. APPROVAL OF MINUTES
@@ -755,7 +723,7 @@
 - LR26-002 Comp Plan Amd for Water Supply Element Staff Report &
 - COMPREHENSIVE PLAN (COMP PLAN) STRATEGIC GROWTH ELEMENT
 
-## [arapahoe-county#39] 2026-10-21 | Arapahoe County Board of Health | minutes
+## [arapahoe-county#35] 2026-10-21 | Arapahoe County Board of Health | minutes
 - 2. APPROVAL OF MINUTES*
 - approved. This motion was carried by the following vote:
 - 3. PUBLIC COMMENT*
@@ -775,8 +743,75 @@
 - 08.07.2026_CP_ COREPresentationAttachments:
 - 8.a Board of Health Officer Roles Discussion
 
-## [arapahoe-county#41] 2026-10-26 | Board of County Commissioners Study Session | agenda
+## [arapahoe-county#37] 2026-10-26 | Board of County Commissioners Study Session | agenda
 - West Hearing Room
 - study session or administrative meeting as necessary to receive legal advice or discuss other
 - REAP Arapco Budget for 2027
 - Presentation
+
+## [arapahoe-county#38] 2026-10-27 | Board of County Commissioners Business Meeting | agenda
+- East Hearing Room
+- The public is welcome to attend Business Meetings held in the East Hearing Room at the Arapahoe
+- County Administration Building, 5334 South Prince Street, Littleton, CO 80120. Business meetings also
+- can be viewed online at arapahoe.legistar.com. Virtual public comment is allowed on general issues or
+- The Board of County Commissioners typically holds Public Hearings at 9:30 a.m. the second and fourth
+- under regular business are considered individually
+- 4. PUBLIC COMMENT PERIOD
+- discussion, and may be voted on as an entire group with a single motion. (The motion is “to
+- approve the items on the consent agenda.”) A Commissioner may request an item from the
+- consent agenda be removed for separate discussion. This enables the item to be considered
+- and voted upon separately
+- 6.a. C19-007 Gun Club Widening -Relocation Agreement between Rippey
+- CORE Relocation Agreement
+- 6.b. Approval of Stipulated Abatement Reduction 26-517
+- 6.c. Approval of Stipulated Abatement Reduction 26-520
+- 6.d. Renew Intergovernmental Agreement with the Cherry Creek Academy for a
+- CCA-ASCO Agreement for SRO - 2027
+- Public Use Easement - Gun Club Road
+- 6.i. Approval of BAA Stipulations 26-542
+- 6.j. Application for a Renewal of the Retail Marijuana Store License re: GM 2280,
+- 6.k. Application for a Trade Name Change and Issuance of the Retail Marijuana
+- 6.l. Approval of Abatement Referee Recommendation 26-545
+- 10-27-2026 Hearing Recommendation
+- 6.m. Resolution to approve Arapahoe County board and committee appointments
+- and reappointments
+- Items on the general business agenda will include an opportunity for public comment
+- 7.a. Fee Waiver Request: Colorado Muslim Society Islamic Center (Case No
+- Presentation
+- AA26-006 Fee Waiver Staff Report
+- Colorado Muslim Society letter for fee waiver
+- Health Department Fee Waiver Letter
+- 7.b. Public Hearing on the 2027 Recommended Budget 26-526
+- 2027 Recommended Budget
+
+## [arapahoe-county#39] 2026-10-27 | Board of County Commissioners Study Session | agenda
+- West Hearing Room
+- study session or administrative meeting as necessary to receive legal advice or discuss other
+- 11:00 AM Unified Forensics Laboratory Grants (Presenter - Kim Morris, UFL Deputy Director)
+- Grant Opportunity: BJA FY 2026 Paul Coverdell Forensic Science Improvement Formula
+- Grants Program
+- Grant evaluation form
+- Grant Opportunity: BJA FY 2026 Paul Coverdell Forensic Science Improvement
+- Competitive Grants Program
+- Grant Opportunity: BJA FY 2026 DNA Capacity Enhancement for Backlog Reduction
+- Formula Grants Program
+- 11:15 AM *Grant Opportunity: Department of Justice Paul Coverdell Forensic Science
+- Improvement Grant Program
+- Grant Evaluation Form - DOJ Paul Coverdell 2026
+- Presentation
+
+## [arapahoe-county#40] 2026-10-27 | 1A Resident Advisory Committee | agenda
+- 2. PRESENTATION OF RECOMMENDED 2027 BUDGET - 2027 Recommended Budget
+- available at arapahoeco.gov/budget
+- 3. DISCUSSION AND FEEDBACK
+- 4. PUBLIC COMMENT
+
+## [arapahoe-county#41] 2026-11-02 | Board of County Commissioners Study Session | agenda
+- West Hearing Room
+- study session or administrative meeting as necessary to receive legal advice or discuss other
+- 1:30 PM *Recommended Next Steps for Energy Performance Contract No. 3 26-568
+- Presentation
+- Willdan Presentation
+- Survey Presentation
+- 2:30 PM *1A Resident Advisory Committee Review and Discussion of the 2027
+- Recommended Budget in Alignment with Ballot Measure 1A

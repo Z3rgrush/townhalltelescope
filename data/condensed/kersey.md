@@ -1,18 +1,6 @@
 # kersey
 
-## [kersey#0] 2026-07-28 | City Council | agenda
-- Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
-- facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
-- current topic. Work sessions do not include an official public comment period
-- Discussion Topic
-- 1. Presentation of the 2025 Audit
-- independent certified public accounting firm. The Town's 2025 audit has been completed by
-- During this meeting, Mr. Chavies will present the results of the audit, discuss the Town's
-- Re: Community Center Staffing Discussion
-- During Jami's informal exit interview and subsequent discussions, several topics were identified
-- expected or simply non-existent. Her feedback has prompted staff to evaluate whether the
-
-## [kersey#1] 2026-08-04 | City Council | agenda
+## [kersey#0] 2026-08-04 | City Council | agenda
 - KERSEY PLANNING AND ZONING COMMISSION
 - 446 1st Street, Kersey, CO
 - a. Approval of June 2, 2026 Regular Meeting Minutes
@@ -48,7 +36,7 @@
 - redesignate to an employment-oriented industrial development along US Highway 34 corridor. This
 - amendment will not pose a detrimental impact on existing or planned Town facilities, services, or
 
-## [kersey#2] 2026-08-11 | City Council | minutes
+## [kersey#1] 2026-08-11 | City Council | minutes
 - The Kersey Board of Trustees met in a regular meeting on Tuesday, August 11, 2026, at Kersey Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:05 p.m. called the meeting to order. Trustees present were Cody Meeker, Gary Lagrimanta, Karen Dusin and Brad Joens
 - Town Staff present: Stacy Brown, Town Manager; Haley Curtis, Town Clerk; Danna Ortiz, Town Planner; and Rick Zier, Town Attorney. In the gallery the following staff were present: Jonathan Lange, Police Chief; and Brandon Unruh, Community Development Director
 - Rick Zier, Town Attorney, requested an addition after Item No. 9, if approved, to consider a motion confirming that the item would take effect immediately rather than after 30 days
@@ -62,7 +50,7 @@
 - Consideration of Resolution 2026-0015 A Resolution Setting a Public Hearing for Consideration of an Ordinance Adopting the 2024 International Fire Code
 - Town Planner, Danna Ortiz, explained that because the ordinance is being adopted by reference, state law requires both a first and second reading. She stated that the resolution formally schedules the required public hearing and second reading for the Board’s September 8, 2026 meeting
 
-## [kersey#3] 2026-08-25 | City Council | agenda
+## [kersey#2] 2026-08-25 | City Council | agenda
 - Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
 - facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
 - current topic. Work sessions do not include an official public comment period
@@ -95,7 +83,7 @@
 - Staff are asking for Town Board feedback regarding changes to the Kersey Holiday
 - feedback referenced above
 
-## [kersey#4] 2026-09-08 | City Council | minutes
+## [kersey#3] 2026-09-08 | City Council | minutes
 - Approved – 10/13/2026
 - Town Hall, 446 1st Street. Mayor Nathan Roth at approximately 6:01 p.m. called the meeting to order
 - Town Manager Stacy Brown stated that there was an addition to the agenda, Item C4, Resolution No
@@ -130,7 +118,7 @@
 - Town Manager, Stacy Brown, explained that the resolution updates the Town’s authorized
 - 4. Addition to the Agenda, Consideration of Resolution 2026-0025 A Resolution Concerning
 
-## [kersey#5] 2026-09-22 | City Council | agenda
+## [kersey#4] 2026-09-22 | City Council | agenda
 - Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
 - facilitate open discussion, exchange of ideas, and thoughtful consideration of these topics. No formal
 - current topic. Work sessions do not include an official public comment period
@@ -172,7 +160,7 @@
 - infrastructure — water-efficient
 - landscaping, raw water for park
 
-## [kersey#6] 2026-10-13 | City Council | agenda
+## [kersey#5] 2026-10-13 | City Council | agenda
 - Location: Kersey Town Hall 446 First Street, Kersey, Colorado 80644
 - i. Approval of minutes of the September 8, 2026 regular meeting
 - ii. Approval of the paid bills

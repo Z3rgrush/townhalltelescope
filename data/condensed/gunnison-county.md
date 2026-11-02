@@ -1,34 +1,6 @@
 # gunnison-county
 
-## [gunnison-county#0] 2026-07-28 | Board of County Commissioners | minutes
-- Approved by BOCC August 4, 2026
-- MAJOR IMPACT SKETCH PLAN; LUC -25-00004; LOWER VERZUH RANCH DELIBERATION :
-- Assistant County Manager for Community and Economic Development April Kroner, Planning Director Hillary
-- Seminick, and applicants Marcus Lock, Bill Lacy, and Dan Dow were present for discussion
-- 1. A Resolution Approving LUC -25-00004, A Land Use Change Permit Application for Sketch Plan
-- Review of a Major Impact Project for Lower Verzuh Ranch Subdivision
-- Public Hearing and asked for direction from CA Hoyt regarding it
-- Commissioner Puckett Daniels then relayed the criteria for opting for an additional Public Hearing
-- Commissioner Houck stated that he does not think an additional Public Hearing would provide any additional
-- information. However, he would like to consider remanding the issue back to the Planning Commission for
-- them to dig a bit deeper into the application information and the Land Use Resolution ’s (LUR) standards
-- and doing so would also preserve the Board the option to have an additional Public Hearing
-- Hearing if the Board goes that direction . Commissioner Smith asked if the missing Planning Commission
-- member would be able to participate in the vote after not being present for the Public Hearing. CA Hoyt
-- Commissioner Puckett Daniels expressed hesitation regarding dragging this application out further. She
-- would not have wanted to take this path if the opportunity for an additional Public Hearing was not there
-- Commissioner Puckett Daniels explained that with an additional Public Hearing, she is not necessarily
-- emergency ten minutes prior to the hearing, he feels if the full Planning Commission participated, there
-- to, at this moment, choose not to have an additional Public Hearing and move to the discussion of what
-- this Board would like to do with the application. Motion carried with Commissioner Houck and Commissioner
-- discussion today, LUC-25-00004, for Lower Verzuh Ranch to get a more refined understanding of the basis
-- of their decision and a more robust discussion of their conditions in the event that they decide to move the
-- application forward for a recommended approval. Motion carried unanimously
-- doing their due diligence on this project. Commissioner Houck reiterated that this does preserve the ability
-- to have an additional Public Hearing if desired
-- Mr. Lock relayed thanked the Board for their attention and careful consideration of this matter
-
-## [gunnison-county#1] 2026-08-04 | Board of County Commissioners | minutes
+## [gunnison-county#0] 2026-08-04 | Board of County Commissioners | minutes
 - Approved by BOCC August 18, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - 1. PULLED FOR FURTHER DISCUSSION: Acknowledgment of Executive Secretary’s Signature;
@@ -60,7 +32,7 @@
 - PROGRAM APPLICATION FOR THE GUNNISON COUNTY CUMBERLAND PASS REHABILITATION
 - PROJECT AND COMMITTING TO PROJECT IMPLEMENTATION, MATCHING FUNDS, AND LONG
 
-## [gunnison-county#2] 2026-08-04 | Gunnison County Housing Authority | minutes
+## [gunnison-county#1] 2026-08-04 | Gunnison County Housing Authority | minutes
 - Approved by BOCC August 18, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - 1. PULLED FOR FURTHER DISCUSSION: Acknowledgment of Executive Secretary’s Signature;
@@ -92,7 +64,7 @@
 - PROGRAM APPLICATION FOR THE GUNNISON COUNTY CUMBERLAND PASS REHABILITATION
 - PROJECT AND COMMITTING TO PROJECT IMPLEMENTATION, MATCHING FUNDS, AND LONG
 
-## [gunnison-county#3] 2026-08-11 | Board of County Commissioners | minutes
+## [gunnison-county#2] 2026-08-11 | Board of County Commissioners | minutes
 - Approved by BOCC August 18, 2026
 - MAJOR IMPACT SKETCH PLAN; LUC -25-00004; LOWER VERZUH RANCH DELIBERATION :
 - Assistant County Manager for Community and Economic Development April Kroner and Planning Director
@@ -112,7 +84,7 @@
 - County Commissioners not hold an additional Public Hearing for the application LUC -25-00004
 - opposition. It was decided to postpone the application decision until the next Board of County
 
-## [gunnison-county#4] 2026-08-18 | Board of County Commissioners | minutes
+## [gunnison-county#3] 2026-08-18 | Board of County Commissioners | minutes
 - Approved by BOCC September 15, 2026
 - the August 4, 2026 Regular Meeting minutes as amended and the August 11, 2026 Special Meeting minutes
 - SCHEDULING: The Upcoming Meetings Schedule was discussed and updated
@@ -144,7 +116,7 @@
 - by Commissioner Smith to approve Resolution, 2026-29, A Resolution Approving the Referral of a
 - 0.50% Countywide Sales Tax for the Purpose of Supporting Roads, Bridges, and Related
 
-## [gunnison-county#5] 2026-08-18 | Gunnison-Hinsdale Board of Human Services | minutes
+## [gunnison-county#4] 2026-08-18 | Gunnison-Hinsdale Board of Human Services | minutes
 - Jaeger were present for discussion
 - Scholarships allowed 94 families to be served through awards. ECCC Jaegar gave updates regarding
 - the Family, Friend, Neighbor Caregiver Support , CPR Certification Training, Nurturing the Young
@@ -154,7 +126,7 @@
 - Levine confirmed he doesn’t feel like there is an additional need. Commissioner Houck lastly asked
 - Minutes Approved October 20, 2026:
 
-## [gunnison-county#6] 2026-09-01 | Board of Equalization | minutes
+## [gunnison-county#5] 2026-09-01 | Board of Equalization | minutes
 - Approved by BOCC September 15, 2026
 - APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK :
 - Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion
@@ -186,7 +158,7 @@
 - Airfield Pavement Maintenance CDAG Project No. 25 -GUC-01; Maxwell Asphalt Inc; $719,737,
 - 6. First Amendment; Gunnison -Crested Butte Regional Airport; Food and Beverage/Retail and
 
-## [gunnison-county#7] 2026-09-01 | Gunnison County Housing Authority | minutes
+## [gunnison-county#6] 2026-09-01 | Gunnison County Housing Authority | minutes
 - Approved by BOCC September 15, 2026
 - APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK :
 - Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion
@@ -218,7 +190,7 @@
 - Airfield Pavement Maintenance CDAG Project No. 25 -GUC-01; Maxwell Asphalt Inc; $719,737,
 - 6. First Amendment; Gunnison -Crested Butte Regional Airport; Food and Beverage/Retail and
 
-## [gunnison-county#8] 2026-09-01 | Board of County Commissioners | minutes
+## [gunnison-county#7] 2026-09-01 | Board of County Commissioners | minutes
 - Approved by BOCC September 15, 2026
 - APPEAL HEARING; SENIOR PROPERTY TAX EXEMPTION; CBOE# SR01; R042452; T. HAACK :
 - Petitioner Teresa Haack and Deputy Assessor Vicki Hildreth were present for discussion
@@ -250,11 +222,11 @@
 - Airfield Pavement Maintenance CDAG Project No. 25 -GUC-01; Maxwell Asphalt Inc; $719,737,
 - 6. First Amendment; Gunnison -Crested Butte Regional Airport; Food and Beverage/Retail and
 
-## [gunnison-county#9] 2026-09-08 | Board of County Commissioners | agenda
+## [gunnison-county#8] 2026-09-08 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#10] 2026-09-15 | Gunnison County Housing Authority | minutes
+## [gunnison-county#9] 2026-09-15 | Gunnison County Housing Authority | minutes
 - Approved by BOCC October 6, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - be present for the budget amendment
@@ -286,7 +258,7 @@
 - 1. Development Improvement Agreement; LUC-25-00038; Simco Ventures LLC
 - 2. Acknowledgment of County Manager’s Signature; Professional Services Agreement; Right Around
 
-## [gunnison-county#11] 2026-09-15 | Board of County Commissioners | minutes
+## [gunnison-county#10] 2026-09-15 | Board of County Commissioners | minutes
 - Approved by BOCC October 6, 2026
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - be present for the budget amendment
@@ -318,7 +290,7 @@
 - 1. Development Improvement Agreement; LUC-25-00038; Simco Ventures LLC
 - 2. Acknowledgment of County Manager’s Signature; Professional Services Agreement; Right Around
 
-## [gunnison-county#12] 2026-09-16 | Gunnison Basin Sage-grouse Strategic Committee | agenda
+## [gunnison-county#11] 2026-09-16 | Gunnison Basin Sage-grouse Strategic Committee | agenda
 - GUNNISON BASIN SAGE-GROUSE STRATEGIC COMMITTEE
 - Approval of May 20, 2026 Meeting Minutes
 - Approval of June 17, 2026 Meeting Minutes
@@ -328,12 +300,12 @@
 - times are approximate. Regular Meetings, Public Hearings, and Special Meetings are recorded and ACTION MAY BE TAKEN ON ANY
 - Topic: Gunnison Basin Sage-Grouse Strategic Committee
 
-## [gunnison-county#13] 2026-09-22 | Board of County Commissioners | agenda
+## [gunnison-county#12] 2026-09-22 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Legislative Priorities Discussion
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#14] 2026-10-06 | Board of County Commissioners | agenda
+## [gunnison-county#13] 2026-10-06 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
@@ -363,7 +335,7 @@
 - A Resolution Approving LUC-24-00036, a Land Use Change Permit Application for a Minor Impact Project for the
 - A Resolution Amending the Gunnison County Land Use Resolution and Amending Resolution No. 25-19 Schedule
 
-## [gunnison-county#15] 2026-10-06 | Gunnison County Housing Authority | agenda
+## [gunnison-county#14] 2026-10-06 | Gunnison County Housing Authority | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - GUNNISON COUNTY HOUSING AUTHORITY MEETING:
 - Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
@@ -393,7 +365,7 @@
 - A Resolution Approving LUC-24-00036, a Land Use Change Permit Application for a Minor Impact Project for the
 - A Resolution Amending the Gunnison County Land Use Resolution and Amending Resolution No. 25-19 Schedule
 
-## [gunnison-county#16] 2026-10-13 | Board of County Commissioners | minutes
+## [gunnison-county#15] 2026-10-13 | Board of County Commissioners | minutes
 - Approved by BOCC October 20, 2026
 - GUNNISON COUNTY 2027 BUDGET DRAFT PROPOSAL #1: Chief Finance Officer Melissa LaMonica,
 - for discussion
@@ -410,7 +382,7 @@
 - SCHEDULE GUNNISON COUNTY BUDGET PUBLIC HEARING:
 - that we set the public hearing that will take place on December 8th at 5:30 in the evening in the Board of
 
-## [gunnison-county#17] 2026-10-20 | Board of County Commissioners | agenda
+## [gunnison-county#16] 2026-10-20 | Board of County Commissioners | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
 - agenda for discussion may be rescheduled later in this meeting, or at a future meeting
@@ -432,7 +404,7 @@
 - (See separate agenda)
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#18] 2026-10-20 | Board of Equalization | agenda
+## [gunnison-county#17] 2026-10-20 | Board of Equalization | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
 - agenda for discussion may be rescheduled later in this meeting, or at a future meeting
@@ -454,7 +426,7 @@
 - (See separate agenda)
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#19] 2026-10-20 | Gunnison County Housing Authority | agenda
+## [gunnison-county#18] 2026-10-20 | Gunnison County Housing Authority | agenda
 - County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
 - Consent Agenda: These items will not be discussed unless requested by a Commissioner or citizen. Items removed from consent
 - agenda for discussion may be rescheduled later in this meeting, or at a future meeting
@@ -476,7 +448,13 @@
 - (See separate agenda)
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website at
 
-## [gunnison-county#20] 2026-10-20 | Gunnison-Hinsdale Board of Human Services | agenda
+## [gunnison-county#19] 2026-10-20 | Gunnison-Hinsdale Board of Human Services | agenda
 - Minutes Approval
 - 1. Contract Amendment #1; 27 IHGA 206356; 7/1/2026 to 6/30/2026; $23,698
 - Please Note: Packet materials for the above discussions will be available on the Gunnison County website
+
+## [gunnison-county#20] 2026-10-27 | Board of County Commissioners | agenda
+- County Manager’s reports may include administrative items not listed. Regular Meetings, Public Hearings, and Special Meetings are video recorded and ACTION MAY BE
+- 2027 Gunnison County Budget Work Session:
+- 1. Road and Bridge
+- Please Note: Packet materials for the above discussions will be available on the Gunnison County website at

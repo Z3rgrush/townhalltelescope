@@ -1,109 +1,89 @@
-- title: 2026 Gold Mountain Fire response and FEMA support
-  summary: The county opened an Emergency Operations Center for the Gold Mountain Fire, and Road and Bridge crews supported the response. The county leased the Wells Basin property to stage fire mitigation crews, and the Chair signed a letter to President Trump asking for FEMA support.
-  where: Countywide
+- title: Gold Mountain Fire response and FEMA support
+  summary: The county activated an Emergency Operations Center for the 2026 Gold Mountain Fire, with Road and Bridge crews supporting the response. The county leased the Wells Basin property to stage fire mitigation crews, and the Chair signed a letter asking the President for FEMA support.
+  where: Montrose County
   refs:
-  - 2
-  - 9
+  - 0
+  - 7
   topics:
   - Fire & emergencies
-  - Land & property
 - title: Wildfire Resiliency Code agreements with fire districts
-  summary: The commissioners approved intergovernmental agreements with the Montrose Fire Protection District and the Norwood Fire Protection District. Under them the districts share administration and enforcement of the county's adopted Wildfire Resiliency Code. The Norwood agreement passed on a 2-1 consent vote.
-  where: Countywide
-  refs:
-  - 2
-  - 9
-  topics:
-  - Fire & emergencies
-  - Zoning & development
-- title: 6400 Road flood response
-  summary: County Road and Bridge responded to a flood on the 6400 Road, which was reported at the August 5 meeting. The documents give no further detail on repairs or costs.
-  where: 6400 Road
-  refs:
-  - 2
-  public_comment: true
-  topics:
-  - Roads & traffic
-  - Fire & emergencies
-- title: Kinikin Road updates
-  summary: Public Works gave recurring Kinikin Road updates at the August work sessions. The condensed agendas do not say what work is planned.
-  where: Kinikin Road
-  refs:
-  - 1
-  - 4
-  - 5
-  topics:
-  - Roads & traffic
-- title: 2027 county budget and 2026 supplemental appropriation
-  summary: The Finance Director presented a first supplemental appropriation to the 2026 budget in August. The proposed 2027 budget was presented at an October 14 special meeting with a public hearing. Community partnership funding was also discussed.
-  where: Countywide
-  refs:
-  - 4
-  - 18
-  topics:
-  - Budget & taxes
-- title: West End Family Link emergency funding
-  summary: At a September 17 special meeting in Nucla, the commissioners heard a presentation and public comment on a funding request from West End Family Link. Commissioner Pond moved to fund the emergency request at $75,000.
-  where: Nucla
-  refs:
-  - 12
-  public_comment: true
-  topics:
-  - Health & human services
-  - Budget & taxes
-- title: 'Housing: grant for needs assessment and private activity bonds'
-  summary: Planning staff were to discuss a grant application for a Housing Needs Assessment tied to SB24-174. The commissioners also assigned $1,573,936 of the county's 2026 Private Activity Bond allocation to the Colorado Housing and Finance Authority, as part of a unanimously passed consent agenda.
-  where: Countywide
-  refs:
-  - 5
-  - 6
-  topics:
-  - Housing
-  - Budget & taxes
-- title: Property tax appeals and write-offs
-  summary: The Board of Equalization heard personal, commercial and residential property tax appeals. It supported denial of the High Oasis LLC appeal and temporarily amended the value of one residential property. It denied a senior property tax exemption appeal. Separately, the county wrote off uncollectable property taxes through Resolution 31-2026.
+  summary: The county considered intergovernmental agreements with the Montrose Fire Protection District and the Norwood Fire Protection District to share administration and enforcement of the county's adopted Wildfire Resiliency Code.
   where: Countywide
   refs:
   - 0
-  - 6
   - 7
   topics:
-  - Budget & taxes
-  - Land & property
-- title: Montrose Regional Airport projects and leases
-  summary: The county amended an on-call geotechnical contract for apron and taxilane reconstruction. It also released retainage on the AWOS installation project, amended a Colorado Parks and Wildlife hangar lease, and acted on baggage delivery permits and hangar leases.
-  where: Montrose Regional Airport, 1560 Airport Road
+  - Fire & emergencies
+  - Zoning & development
+- title: Ordinance banning non-native wildlife and wildlife resolutions
+  summary: A public hearing was set for Oct. 28 on proposed Ordinance 2026-01, which would prohibit the intentional introduction or release of non-native wildlife species in unincorporated Montrose County. The board also considered resolutions opposing a citizen petition to ban lead ammunition for hunting and opposing proposed Colorado Parks and Wildlife changes on prairie dogs.
+  where: Unincorporated Montrose County
   refs:
-  - 2
-  - 6
-  - 11
+  - 19
   - 20
-  topics:
-  - Airports
-  - Land & property
-- title: Road, bridge and paving contracts
-  summary: The county approved a $487,333 contract with Precision Dirt Works for B-24 bridge rail replacement. It also approved $142,313.20 for paving the Public Works parking lot and an agreement with Olathe for asphalt overlay on various streets. On-call structural inspection contracts were approved with SGM, HDR, J-U-B and Engineering Operations.
-  where: Countywide
-  refs:
-  - 6
-  - 11
-  - 20
-  topics:
-  - Roads & traffic
-  - Government operations
-- title: Safe sleep program and Headwaters to Home
-  summary: Work sessions in October took up the Rocky Mountain Health Plans Safe Sleep Incentive Program, with a draft services agreement, and a Headwaters to Home item.
-  where: Countywide
-  refs:
-  - 15
-  topics:
-  - Health & human services
-  - Schools & youth
-- title: Montrose/Ouray county line and Colorado Parks and Wildlife changes
-  summary: An October 26 work session was set to discuss the Montrose/Ouray County line and proposed Colorado Parks and Wildlife changes.
-  where: Montrose/Ouray county line
-  refs:
-  - 21
   topics:
   - Agriculture & wildlife
+  - Environment & climate
+- title: 2027 proposed county budget and 2026 supplemental appropriation
+  summary: The 2027 proposed budget was presented to commissioners at a public hearing on Oct. 14. Finance also brought a first supplemental appropriation to the 2026 budget to a work session, along with a follow-up on community partnership funding.
+  where: Countywide
+  refs:
+  - 2
+  - 16
+  topics:
+  - Budget & taxes
+- title: $75,000 emergency funding for West End Family Link
+  summary: At a special meeting in Nucla, the commissioners heard a presentation and public comment on an emergency funding request from West End Family Link. Commissioner Pond moved to fund the request at $75,000.
+  where: Nucla / West End
+  refs:
+  - 10
+  topics:
+  - Health & human services
+  - Budget & taxes
+  public_comment: true
+- title: Kinikin Road and county road work
+  summary: Public Works gave Kinikin Road updates at two work sessions, and a County Road Education session was scheduled. Road and Bridge also responded to the 6400 Road flood, and the county contracted for B-24 bridge rail replacement ($487,333) and for asphalt overlay work with the Town of Olathe.
+  where: Kinikin Road, 6400 Road, Olathe
+  refs:
+  - 0
+  - 2
+  - 3
+  - 8
+  - 9
+  - 18
+  topics:
+  - Roads & traffic
+- title: Housing needs assessment grant and private activity bonds
+  summary: Planning and Development discussed a grant application for a Housing Needs Assessment related to SB24-174. The county also assigned $1,573,936 of its 2026 private activity bond allocation to the Colorado Housing and Finance Authority.
+  where: Countywide
+  refs:
+  - 3
+  - 4
+  topics:
+  - Housing
+- title: Montrose Regional Airport projects and leases
+  summary: 'The county handled several airport matters: hangar lease changes, geotechnical design work for apron and taxilane reconstruction, an AWOS installation retainage release, a law enforcement reimbursement agreement of $54,750, and baggage delivery permits.'
+  where: Montrose Regional Airport
+  refs:
+  - 0
+  - 4
+  - 9
+  - 18
+  topics:
+  - Airports
+- title: Rural health grants, behavioral health contracts and safe sleep program
+  summary: The county sent support letters for Family Connects Colorado and Basin Clinic's Rural Health Transformation Program applications. It also approved core mental health service agreements with Axis Health Systems and H.O.P.E. Counseling, and discussed a Rocky Mountain Health Plans Safe Sleep Incentive Program.
+  where: Countywide
+  refs:
+  - 0
+  - 13
+  - 14
+  topics:
+  - Health & human services
+- title: Montrose/Ouray county line discussion
+  summary: A work session item on Oct. 26 covered a Montrose/Ouray County line discussion. The documents give no further detail.
+  where: Montrose-Ouray county line
+  refs:
+  - 19
+  topics:
   - Land & property

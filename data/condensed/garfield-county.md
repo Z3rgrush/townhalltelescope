@@ -1,41 +1,12 @@
 # garfield-county
 
-## [garfield-county#0] 2026-08-03 | Board of County Commissioners | agenda
-- PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
-- Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
-- Approve Bills
-- Request to modify payroll warrant list dated 7/17/2026
-- Approve funding for payroll dated 7/31/2026
-- Approval of the minutes for the Board of County Commissioner Meeting on Monday, July 6, 2026
-- Approval of the minutes for the Board of County Commissioner Meeting on Tuesday, July 21, 2026
-- Road and Bridge request for signatures on vehicle titles. - Scott Marsh, Road and Bridge Director and Matt Hutchison, Motor Pool Manager
-- Attachment_Motorpool_Public_Surplus_Auction_Title_Request.pdf
-- Recommendation to renew the contract with Integrated Wall Solutions LLC to provide as needed culvert material. - Procurement Department
-- Attachment_Renew_Integrated_Wall_Solutions.pdf
-- Approval of updated Purchasing Card Policy - Jamaica Watts, Finance Director
-- Attachement_Finance_Purchasing_Card_Policy_Amendment_8.3.2026.pdf
-- Ratification of Letter of Support for Colorado Mountain College Healthcare Workforce Expansion Initiative
-- Ratification of Chairman’s signature on FAA Grant Agreement Nos. 3-08-0048-032-2026 and 3-08-0048-033-2026 for Airport Improvement Program (AIP) at Rifle Garfield County Airport
-- Attachment_FAA_Grant Agreement_32.pdf
-- Attachment_FAA_Grant Agreement_33.pdf
-- Request approval of Right of Way (ROW) permit for fiber optic infrastructure installation in County ROW in Battlement Mesa area. - Jonathan Cook and Shauna Lockwood
-- Request to increase the contract with Specialty Incentives not to exceed $28,999.00 to provide additional promotional items for the Sheriff's Office. - Procurement Department
-- Attachment_Increase_Specialty_Incentives.pdf
-- Supplement request for gasoline in the amount of $110,000 due to increased gasoline prices. - Scott Marsh, Road and Bridge Director
-- Attachment_Request_for_Budget_Supplement_for_Gas.pdf
-- Approval of request for dozer work to redefine County Road 219 roadway. - Dale Stephens, Road and Bridge Assistant Director
-- Attachment_CR_219_Dozer_work_to_redefine_road.pdf
-- Supplement request in the amount of $13,000 for unplanned parking lot repairs at fairgrounds. - Dave Renninger, Facilities Director
-- Attachment_Request_for_Budget_Supplement_for_Fairgrounds_Parking Lot Repairs.pdf
-- Supplement request in the amount of $11,000 for Fairgrounds electricity expense account - Dave Renninger, Facilities Director
-
-## [garfield-county#1] 2026-08-04 | Board of County Commissioners - Work Session | agenda
+## [garfield-county#0] 2026-08-04 | Board of County Commissioners - Work Session | agenda
 - Attachment_Garfield County 2026 CTSI and CAPP Presentation.pdf
 - Hogback Discussion - Rob Hanna, Deputy County Manager
 - Traveler Discussion - Sharon Longhurst-Pritt, Department of Human Services Director
 - Attachment_Traveler_Presentation_8_4_BOCC_Work_Session.pdf
 
-## [garfield-county#2] 2026-08-10 | Board of County Commissioners | agenda
+## [garfield-county#1] 2026-08-10 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - New Jail Standards Presentation - Sheriff Lou Vallario, Commander Kim Vallario and Jim Brassfield
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
@@ -56,7 +27,7 @@
 - Attachment_Ratification_Letters_Alliant.pdf
 - Budget Supplemental request in the amount of $267,000 for increase to the jail Over Time budget - Sheriff Lou Vallario and Commander Cathy Dalla
 
-## [garfield-county#3] 2026-08-17 | Board of County Commissioners - Meeting | agenda
+## [garfield-county#2] 2026-08-17 | Board of County Commissioners - Meeting | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 A.M
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -80,14 +51,14 @@
 - 2. Attachment_2026-Justification_for_unfreezing_CSS_position.pdf
 - Recommendation and approval to award a sole source contract to City of Rifle to provide congregate meal services for western Garfield County – Cim Keesbery and Sharon Longhurst-Pritt
 
-## [garfield-county#4] 2026-08-26 | Planning Commission | agenda
+## [garfield-county#3] 2026-08-26 | Planning Commission | agenda
 - Approval of Minutes for July 22, 2026
 - Public Hearing
 - Public Hearing for a rezoning from Rural to PUD and a Major Subdivision Sketch Plan review for The Michell Creek Community PUD located at 50235 Highway 6/24 Glenwood Springs CO, 81601. Parcel #s 218506200076, 218506200064, 218506200073, & 218506200077. The owner is AMICHAUX Limited Partnership LLLP.
 - Attachment_Mitchell_Creek_Community_PUD_Rezoning_and_Major_Sketch_Plan_Staff_Report_and_Exhibits
 - Attachment_Mitchell_Creek_Community_PUD_Rezoning_and_Major_Sketch_Plan_Application
 
-## [garfield-county#5] 2026-09-08 | Board of County Commissioners | agenda
+## [garfield-county#4] 2026-09-08 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -109,7 +80,7 @@
 - located approximately 4 miles east of the Town of Carbondale on Parcel No. 2391-311-23-010 (File No. SPPA-10-24-9037). The applicant is Aspen Polo Partners, LLP, represented by Jon Fredericks LANDWEST Colorado LLC - Glenn Hartmann, Director
 - Ratification of the Chairman’s signature on a Resolution correcting a scribers error in Resolution 2025-41 at Reception # 1011710 and the Land Use Change permit for The Clough NR 41-3 gas pad located at Parcel
 
-## [garfield-county#6] 2026-09-14 | Board of County Commissioners | agenda
+## [garfield-county#5] 2026-09-14 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 9:05 a.m
 - Public Hearings:
 - Public Hearing to review and consider an application for a Special Event Permit for Journey Home Animal Care Center,
@@ -128,13 +99,13 @@
 - 1. Discussion and brief overview of our USDA Rural Development programs and stakeholder engagement pertaining to Affordable Housing - Sallie Clark, State Director, Colorado State Office, US Department of Agriculture
 - Garfield County Housing Authority Update - Cheryl Strouse
 
-## [garfield-county#7] 2026-09-15 | Board of County Commissioners - Work Session | agenda
+## [garfield-county#6] 2026-09-15 | Board of County Commissioners - Work Session | agenda
 - Discussion and a brief overview of our USDA Rural Development programs and stakeholder engagement pertaining to Affordable Housing - Sallie Clark, State Director, Colorado State Office, U.S. Department of Agriculture
 - Garfield County Housing Authority update – Cheryl Strouse
 - 2. Attachment_HUD Action Plan.pdf
 - Attachment_HCE Presentation to Garfield County 9-10-2026.pdf
 
-## [garfield-county#8] 2026-09-21 | Board of County Commissioners - Meeting | agenda
+## [garfield-county#7] 2026-09-21 | Board of County Commissioners - Meeting | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 A.M
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve bills
@@ -157,7 +128,7 @@
 - Attachment_Request_for_5-year Lease_Renewal_for_L3Harris - Communication Towers.pdf
 - Presentation of Garfield County Housing Authority Annual Report and 2027 funding request of $90,000.00 - Cheryl Strouse
 
-## [garfield-county#9] 2026-09-23 | Planning Commission | agenda
+## [garfield-county#8] 2026-09-23 | Planning Commission | agenda
 - Approval of Minutes for August 26, 2026
 - Public Hearing
 - Glenn Hartmann - Community Development Director
@@ -166,7 +137,7 @@
 - Community Development Staff
 - b. Work session concerning SB24-174 Comprehensive Plan Requirements, O&G Text Amendments, and Future Land Use Map Updates
 
-## [garfield-county#10] 2026-10-05 | Board of County Commissioners | agenda
+## [garfield-county#9] 2026-10-05 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -191,13 +162,13 @@
 - Presentations and Information Items:
 - Annual update for Colorado River District, including an update on Shoshone Water Rights Preservation project. - Andy Mueller, General Manager and Amy Moyer, Chief of Strategy
 
-## [garfield-county#11] 2026-10-06 | Board of County Commissioners - Budget Hearings | agenda
+## [garfield-county#10] 2026-10-06 | Board of County Commissioners - Budget Hearings | agenda
 - Board of County Commissioners - Budget Hearings - October 06, 2026
 - Public Hearing:
 - BOCC, Grants & County Manager
 - Facilities, Remote Communications & Broadba
 
-## [garfield-county#12] 2026-10-12 | Board of County Commissioners | agenda
+## [garfield-county#11] 2026-10-12 | Board of County Commissioners | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 a.m
 - Abatement Hearing
 - Account R540091 - 1190 Birch Street LLC - Abatement #27-101
@@ -228,7 +199,7 @@
 - Chairman of Forest Improvement District Subcommittee
 - 101 W 8th Street, City Hall Council Chambers
 
-## [garfield-county#13] 2026-10-14 | Planning Commission | agenda
+## [garfield-county#12] 2026-10-14 | Planning Commission | agenda
 - Approval of Minutes for August 26, 2026, and September 23, 2026
 - Public Hearing
 - Glenn Hartmann - Community Development Director
@@ -239,7 +210,7 @@
 - Attachment_LakeSpringsRanch_Supplemental_Application_Materials
 - Attachment_LakeSpringsRanch_Supplemental_Application_Materials.pdf
 
-## [garfield-county#14] 2026-10-19 | Board of County Commissioners - Meeting | agenda
+## [garfield-county#13] 2026-10-19 | Board of County Commissioners - Meeting | agenda
 - PUBLIC COMMENTS FROM CITIZENS NOT ON THE AGENDA - 8:05 A.M
 - Items of a routine nature are placed on the Consent Agenda to allow the Board of County Commissioners to spend its time and energy on more important items on a lengthy agenda. Any Commissioner or any member of the public may request that an item be "REMOVED" from the Consent Agenda and considered on
 - Approve Bills
@@ -265,7 +236,7 @@
 - Request of discretionary grant funding of $2,500.00 for Free for All Book Fair - Caitlin Causey and Marilyn Cupples
 - Request of discretionary grant funding of $5,000.00 for Youthentity - Kris Freeman
 
-## [garfield-county#15] 2026-10-20 | Board of County Commissioners - Work Session | agenda
+## [garfield-county#14] 2026-10-20 | Board of County Commissioners - Work Session | agenda
 - Presentation: A Summary of the Workforce Analysis - Kara Skinner, Director at MGT
 - MGT Presentation Work Session 102026.pdf
 - Early Childhood District Presentation - Sam Markovitz, Executive Director

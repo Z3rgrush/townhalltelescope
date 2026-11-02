@@ -1,27 +1,38 @@
-- title: Bower North and Northgate Lakes metropolitan district service plans
-  summary: The Town Council scheduled public hearings on Ordinance 2026-11 (Bower North Metropolitan District consolidated service plan) and Ordinance 2026-12 (Northgate Lakes Metropolitan District consolidated service plan) for Sept. 22. The documents list the hearings but do not state the outcome.
-  where: Bower North and Northgate Lakes districts
+- title: 'Annexation petitions: Berrado Holding, Buffalo Creek and Ridgegate'
+  summary: On Oct. 27 the Town Council took up three resolutions finding annexation petitions in substantial compliance, starting annexation proceedings and setting public hearings under the Municipal Annexation Act for the Berrado Holding, Buffalo Creek and Ridgegate annexations.
+  where: Berrado Holding, Buffalo Creek and Ridgegate annexation properties
   refs:
-  - 10
-  - 11
+  - 17
+  - 18
   topics:
+  - Annexation
+  - Land & property
   - Zoning & development
-  - Utilities
-  - Budget & taxes
-- title: 2027 Capital Improvement Program and budget
-  summary: Town Council reviewed the final draft of the 2027 Capital Improvement Program, a 10-year plan in which only 2027 projects get funded in the 2027 budget. New or increased items include a 2036 Police Department addition, more money for the water acquisition program, and a restroom added to the Town Park improvements. A 2027 Town Projects and Budget town hall is set for Oct. 13.
+- title: 2027 budget, rates and fee schedule
+  summary: Council reviewed the 2027 proposed rates, fee schedule and budget on Oct. 27, after an Oct. 13 town hall on 2027 town projects and budget. An audit services agreement for 2026 was also on the Sept. 22 agenda.
   where: Townwide
   refs:
-  - 10
-  - 11
-  - 16
+  - 8
+  - 9
+  - 14
+  - 17
+  - 18
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: 2027 Capital Improvement Program
+  summary: Council discussed the final draft of the 10-year CIP, of which only 2027 projects will be funded in the 2027 budget. New or increased items include a 2036 Police Department addition, more money for the 2027 water acquisition program, and added funds for Town Park improvements including a restroom.
+  where: Townwide; Town Park
+  refs:
+  - 8
+  - 9
   topics:
   - Budget & taxes
   - Water
   - Parks & open space
-- title: Land Use Code amendments before the Planning Commission
-  summary: 'The Planning Commission took up several code changes: letting Town Council adopt time-sensitive Land Use Code amendments without a prior Commission recommendation, corrected setbacks in the Town Core and Development Node zones, oil and gas setbacks aligned with Weld County rules, and procedures for suspending land use applications at an applicant''s request. It also considered electric service infrastructure rules for new development and an early grading permit ordinance. Several items drew a ''no action'' vote, while the application suspension and electric service resolutions were approved.'
-  where: Townwide
+- title: 'Metropolitan district service plans: Bower North and Northgate Lakes'
+  summary: Council held public hearings on Sept. 22 on ordinances approving consolidated service plans for the Bower North and Northgate Lakes metropolitan districts. On Oct. 27 a resolution confirmed that the Northgate Lakes ordinance (2026-12) took effect.
+  where: Bower North and Northgate Lakes districts
   refs:
   - 8
   - 9
@@ -29,54 +40,79 @@
   - 18
   topics:
   - Zoning & development
-  - Oil, gas & mining
   - Utilities
-- title: Comprehensive Plan update and public engagement
-  summary: The Comprehensive Plan Advisory Committee reviewed the current 2020 plan and discussed an engagement plan and schedule for the update. The goal is to build trust and gather resident input on land use, transportation, parks and growth.
+  - Budget & taxes
+- title: Oil and gas setbacks aligned with Weld County rules
+  summary: The Planning Commission took up a Land Use Code amendment to align Severance's oil and gas setbacks with Weld County regulations. Council then considered Ordinance 2026-14 amending section 16.8.80 on Oct. 27.
   where: Townwide
   refs:
-  - 2
-  - 3
   - 6
+  - 7
+  - 15
+  - 16
+  - 17
+  - 18
+  topics:
+  - Oil, gas & mining
+  - Zoning & development
+- title: 'Land use code changes: setbacks, early grading, application suspensions and electric infrastructure'
+  summary: The Planning Commission handled several code amendments. They cover Town Core and Development Node setbacks, early grading permit rules, procedures for suspending applications at an applicant's request, and electric service infrastructure for new development. Council considered ordinances on early grading and setback tables on Oct. 27.
+  where: Town Core and Development Node zone districts; Townwide
+  refs:
+  - 6
+  - 7
+  - 15
+  - 16
+  - 17
+  - 18
   topics:
   - Zoning & development
-  - Roads & traffic
-  - Parks & open space
-- title: Interim town attorney appointment
-  summary: Town Council considered Resolution 2026-29R appointing an interim town attorney and amending the engagement agreement. The outcome is not stated in the documents.
-  where: Town Hall
-  refs:
-  - 10
-  - 11
-  topics:
-  - Lawsuits & legal
-  - Government operations
-- title: Mobile food vendor licensing
-  summary: The Citizen Advisory Board heard a discussion from the Town Attorney on licensing mobile food vendors, along with a clerk overview of town permits such as special events and chickens.
+  - Utilities
+- title: Council power to adopt time-sensitive code amendments
+  summary: Legal staff proposed letting Town Council adopt time-sensitive Land Use Code text amendments without waiting for a Planning Commission recommendation, while keeping a noticed public hearing. The Planning Commission reviewed Resolution PC 2026-02R in September and October.
   where: Townwide
   refs:
-  - 3
-  topics:
-  - Downtown & business
-  - Government operations
-- title: Severance High School After Prom community grant
-  summary: The SHS After Prom requested a $2,000 Severance community grant for its 2027 program, after receiving $1,000 in February 2026. The Citizen Advisory Board would review it and Town Council would vote on funding if it is approved. A Severance Chamber grant application was also on the agenda.
-  where: Severance High School, 1200 Hidden Valley Parkway
-  refs:
-  - 14
+  - 6
+  - 7
   - 15
+  - 16
   topics:
-  - Schools & youth
-  - Budget & taxes
-- title: Youth Council logo, appointments and service projects
-  summary: The Youth Council is choosing a logo, giving feedback on possible code changes, and taking applications for 2026/2027 members from Aug. 7 to 28. It will also pick service projects and consider an event at the 2027 Severance Days.
-  where: Town Hall
+  - Government operations
+  - Zoning & development
+- title: Comprehensive Plan update and community engagement
+  summary: The Comprehensive Plan Advisory Committee reviewed the current 2020 plan and an engagement plan and schedule meant to build trust and gather resident input on land use, transportation, parks and growth.
+  where: Townwide
   refs:
   - 0
   - 1
+  topics:
+  - Zoning & development
+  - Government operations
+- title: Severance High School After Prom grant
+  summary: The school's After Prom program requested a $2,000 community grant for its 2027 event, after receiving $1,000 in February 2026. The Citizen Advisory Board reviewed it and it went to Council on the Oct. 27 consent calendar.
+  where: Severance High School, 1200 Hidden Valley Parkway
+  refs:
   - 12
   - 13
+  - 17
+  - 18
   topics:
   - Schools & youth
-  - Tourism & events
+  - Budget & taxes
+- title: Interim town attorney appointment
+  summary: Council considered a resolution appointing an interim town attorney and amending the engagement agreement.
+  where: Townwide
+  refs:
+  - 8
+  - 9
+  topics:
   - Government operations
+  - Lawsuits & legal
+- title: Mobile food vendor licensing
+  summary: The Citizen Advisory Board discussed mobile food vendor licensing with the Town Attorney, along with an overview of town licensing and permits.
+  where: Townwide
+  refs:
+  - 1
+  topics:
+  - Downtown & business
+  - Fees & rates

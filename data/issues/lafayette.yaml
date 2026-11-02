@@ -1,168 +1,145 @@
-- title: New Land Use Code and citywide rezoning
-  summary: Council passed the new Land Use Code and zoning map on first reading in August after a public hearing, then adopted it on second reading in September with amendments, after heavy testimony about housing diversity, parking, wildlife corridors and how the code follows the comprehensive plan.
-  where: Citywide
+- title: New Land Use Code and Old Town OTX-3 zoning
+  summary: Council took up Ordinance No. 15, a rewrite of Chapter 26 with a new zoning map. First reading was Aug 18, a joint Council/Planning Commission workshop on Sept 9 covered Old Town Mixed-Use zoning, and second reading was set for Sept 15. Residents objected to OTX-3 along South Public Road south of Emma Street, including its 25,000 sq. ft. building footprint limit and building heights. Council generally agreed to move some changes into the second reading and others into a later ordinance.
+  where: South Public Road south of Emma Street, Old Town
   refs:
   - 0
   - 1
   - 2
   - 3
-  - 4
+  - 8
+  - 9
+  - 10
   - 11
-  - 12
-  public_comment: true
+  - 14
   topics:
   - Zoning & development
   - Housing
-- title: Old Town OTX-3 zoning and building heights on Public Road
-  summary: Residents objected to the new OTX-3 zone allowing larger, taller buildings along Public Road south of Emma Street; a joint council and planning commission workshop agreed to shrink the maximum building footprint from 25,000 to 10,000 square feet and revisit height in a second ordinance.
-  where: Public Road south of Emma St, Old Town
+  - Downtown & business
+  public_comment: true
+- title: Flock license plate readers and the 2027 budget
+  summary: Residents repeatedly objected to the city's Flock Safety license plate cameras and asked Council not to fund the contract. The 2027 budget came in two versions, one with and one without Flock funding (Resolutions 2026-24A/B, Ordinances 18A/B). Council also discussed a formal policy on automatic license plate readers and exempting surveillance contracts from administrative approval.
+  where: Citywide
   refs:
   - 3
-  - 4
-  - 9
-  - 10
-  - 12
-  - 15
-  public_comment: true
-  topics:
-  - Zoning & development
-  - Downtown & business
-- title: Data center and advanced air mobility moratoriums
-  summary: After council asked how the new code regulates data centers, it adopted an 18-month moratorium on land use applications and building permits for data centers in October, alongside an emergency 18-month moratorium on advanced air mobility facilities.
-  where: Citywide
-  refs:
-  - 0
+  - 7
   - 11
+  - 14
   - 15
-  - 16
-  tags:
-  - data-center
-  topics:
-  - Data centers
-  - Zoning & development
-  - Airports
-- title: Flock license plate reader cameras
-  summary: Many residents urged council to end the Flock Safety license plate camera contract, and council weighed two versions of the 2027 budget, one with no Flock funding, and discussed a formal policy for automatic license plate readers.
-  where: Citywide
-  refs:
-  - 4
-  - 8
-  - 12
-  - 15
-  - 16
-  public_comment: true
   topics:
   - Policing & public safety
   - Budget & taxes
   - Ethics & transparency
-- title: Naming the 701 S. Public Road pocket park for Rosebelle Lueras
-  summary: Residents spoke at meeting after meeting asking that the new pocket park at 701 S. Public Road be named for Rosebelle Lueras, and council took up the naming in October.
-  where: 701 S. Public Road
-  refs:
-  - 2
-  - 4
-  - 8
-  - 12
-  - 16
   public_comment: true
-  topics:
-  - Parks & open space
-  - Libraries & culture
-- title: Zoning for churches along Highway 287
-  summary: Church members raised concerns about how the new code zones churches, and council directed that the church parcels at Highway 287 and South Boulder Road be zoned like Immaculate Conception.
-  where: Highway 287 and South Boulder Rd
-  refs:
-  - 2
-  - 12
-  public_comment: true
-  topics:
-  - Zoning & development
-  - Land & property
-- title: Boulder Ranch development off Baseline and Burlington
-  summary: Residents wrote in opposing the proposed high-density Boulder Ranch development on 78 acres near Baseline Road and Burlington, citing traffic, open space and the buffer agreement with Boulder, with over 2,000 petition signatures.
-  where: Baseline Rd and Burlington Ave
-  refs:
-  - 7
-  - 11
-  public_comment: true
-  topics:
-  - Zoning & development
-  - Housing
-  - Roads & traffic
-- title: LaMont Does Park and water park tax extension
-  summary: Council put the extension of an expiring property tax for LaMont Does Park and the Great Outdoors Water Park on the November ballot, with residents speaking for and against.
-  where: LaMont Does Park
-  refs:
-  - 1
-  - 2
-  - 13
-  - 14
-  public_comment: true
-  topics:
-  - Parks & open space
-  - Budget & taxes
-  - Elections
-- title: 2027 budget, fees and pay plan
-  summary: Staff introduced a $128 million 2027 recommended budget, and council held a public hearing, adopted the budget and mill levy, amended fees and adopted the pay plan.
+- title: 2027 budget, mill levy and fee updates
+  summary: Staff presented a 2027 recommended budget with $128 million in revenue and no General Fund balance use. Sales tax is budgeted up 3% to $26.2 million. Council held the budget public hearing on Oct 6 and took up the fee ordinance (Ordinance 19), the 2027 pay plan and human services grants on later dates.
   where: Citywide
   refs:
+  - 4
   - 5
-  - 6
+  - 14
   - 15
-  - 16
+  - 17
   topics:
   - Budget & taxes
   - Fees & rates
-  - Government operations
-- title: Capital bond projects and general obligation bonds
-  summary: Council authorized general obligation bonds for the voter-approved recreation center, service center and civic center projects and toured capital projects including the water treatment plant and West Baseline Road safety improvements.
-  where: Bob L. Burger Recreation Center, Service Center, West Baseline Rd
+  public_comment: true
+- title: Moratoria on data centers and advanced air mobility
+  summary: Council considered potential moratoria on these land uses on Sept 15, then took up an 18-month moratorium on land use applications and building permits for data centers (Ordinance 21, second reading Oct 20). An emergency ordinance imposed a similar 18-month moratorium on advanced air mobility facilities.
+  where: Citywide
   refs:
-  - 7
-  - 8
-  - 11
-  - 13
+  - 10
   - 14
   - 15
   topics:
-  - Budget & taxes
-  - Recreation & trails
-  - Water
-- title: Douglass Elementary School closure concerns
-  summary: Council directed staff to draft a letter asking the Boulder Valley School District to reconsider its process on Douglass Elementary's future after Lafayette families said they had no voice.
-  where: Douglass Elementary
+  - Data centers
+  - Zoning & development
+  tags:
+  - data-center
+- title: Boulder Ranch annexation and development
+  summary: Residents wrote in against the proposed Boulder Ranch, a high-density development of about 78 acres off Burlington between Emma and Baseline Roads. They cited traffic on Baseline Road, open space and an intergovernmental agreement not to annex between cities, and said over 2,000 people signed petitions. On Nov 2 Council considered finding the annexation petition in substantial compliance and setting a hearing on eligibility.
+  where: Southeast of Baseline Road and Nyland Way
   refs:
-  - 12
-  - 15
-  public_comment: true
+  - 6
+  - 10
+  - 17
   topics:
-  - Schools & youth
-- title: Human Rights Board renamed and rescoped
-  summary: Council adopted an ordinance changing the name, scope and duties of the Human Rights Board.
-  where: Citywide
+  - Annexation
+  - Housing
+  - Roads & traffic
+  public_comment: true
+- title: Church zoning in the new Land Use Code
+  summary: Speakers raised concerns about how proposed zoning affects churches. Council amended its August 18 direction so that church parcels at Highway 287 and South Boulder Road be zoned consistently with Immaculate Conception (NC), and staff are to bring back related work.
+  where: Highway 287 and South Boulder Road
+  refs:
+  - 1
+  - 3
+  - 11
+  topics:
+  - Zoning & development
+  public_comment: true
+- title: Naming the 701 S. Public Road pocket park
+  summary: Many residents asked that the new pocket park be named for Rosebelle Lueras. A naming motion was on the Oct 20 agenda.
+  where: 701 S. Public Road
+  refs:
+  - 1
+  - 3
+  - 7
+  - 11
+  - 15
+  topics:
+  - Parks & open space
+  - Libraries & culture
+  public_comment: true
+- title: LaMont Does Park tax extension and capital bond projects
+  summary: Council put a ballot measure on the November ballot to extend an expiring property tax for LaMont Does Park, drawing both opposition and support. A Sept 22 bus tour reviewed capital projects including the water park, water treatment, and Baseline Road safety improvements. The city expects to issue $74 million in voter-approved bonds for the Recreation Center, Service Center and Civic Center, with a first tranche in October 2026, and Council also considered Ordinance 16 for G.O. bonds.
+  where: LaMont Does Park; Citywide
   refs:
   - 0
   - 1
+  - 7
+  - 10
+  - 12
+  - 13
+  topics:
+  - Parks & open space
+  - Budget & taxes
+  - Recreation & trails
+  public_comment: true
+- title: Douglass Elementary School future
+  summary: Residents asked the city to weigh in on BVSD's review of Douglass Elementary's future. Council directed staff to work with Councilor Jensen on a letter asking BVSD to consider whether it had a sufficient record of Lafayette family input.
+  where: Douglass Elementary
+  refs:
+  - 11
+  - 14
+  topics:
+  - Schools & youth
+  public_comment: true
+- title: Inclusionary housing and affordable housing policies
+  summary: Council took up an expedited review policy for affordable housing projects (Resolution 2026-26) and received inclusionary housing and affordable housing impact fee recommendations. It also approved assigning the city's 2026 private activity bond allocation to the Boulder County Housing Authority.
+  where: Citywide
+  refs:
   - 2
   - 3
-  - 4
+  - 15
+  - 17
   topics:
-  - Government operations
-  - Health & human services
-- title: Expedited review for affordable housing
-  summary: Council considered a resolution supporting an expedited review policy for affordable housing projects.
+  - Housing
+  - Fees & rates
+- title: Street racing near Avalon Flatirons and Flatirons Church
+  summary: A resident wrote that street racers fill the church parking lot off South Public Road, with loud engines and speeding, and that police did not respond.
+  where: South Public Road near Flatirons Church
+  refs:
+  - 2
+  topics:
+  - Policing & public safety
+  - Roads & traffic
+  public_comment: true
+- title: Oil and gas regulation workshop
+  summary: Staff briefed Council on local authority over oil and gas under state law, after public comments about low-producing wells. The workshop was informational with no action requested.
   where: Citywide
   refs:
   - 16
   topics:
-  - Housing
-  - Zoning & development
-- title: Street racing on South Public Road
-  summary: An Avalon Flatirons resident complained about street racers gathering in a church parking lot off South Public Road.
-  where: S. Public Road
-  refs:
-  - 3
+  - Oil, gas & mining
+  - Environment & climate
   public_comment: true
-  topics:
-  - Policing & public safety
-  - Roads & traffic

@@ -1,148 +1,151 @@
-- title: Nine-month moratorium on drone dispatch and delivery facilities
-  summary: Council passed an emergency ordinance on July 20, 2026 pausing applications for land use approvals or building permits for commercial drone dispatch and delivery facilities for nine months. Council affirmed it with first reading on Aug 3 and second reading on Aug 17; no public comment was received on second reading.
+- title: Axon drone-as-first-responder and license plate reader program
+  summary: Police are researching Axon's countywide Drone as First Responder and License Plate Reader programs, which would add about $175,000 a year to the Axon contract. Council discussed transparency, accountability and video retention. A resident separately asked the Town to remove Flock cameras around Parker.
   where: Townwide
   refs:
-  - 0
-  - 3
+  - 4
+  - 5
+  - 15
+  topics:
+  - Policing & public safety
+  - Budget & taxes
+  - Ethics & transparency
+  public_comment: true
+- title: Nine-month moratorium on drone dispatch and delivery facilities
+  summary: Council affirmed on second reading an emergency ordinance, first passed July 20, 2026, suspending applications for land use approvals or building permits for commercial drone dispatch and delivery facilities for nine months.
+  where: Townwide
+  refs:
+  - 2
   topics:
   - Zoning & development
-  - Airports
-- title: Axon drone-as-first-responder and license plate reader programs
-  summary: Police are proposing to adopt Axon's countywide Drone as First Responder and License Plate Reader programs, which would raise the Axon contract by about $175,000 a year. Council discussed transparency, accountability and video retention. A resident separately asked the Town to remove Flock cameras around Parker.
+  - Government operations
+- title: 2027 budget, property tax levy and related funds
+  summary: Council held a budget workshop on Oct. 2 and a study session on the 2027 proposed budget, which was published Oct. 13. First reading covered the 2026 property tax levy, the 2026 revised budget, and new special funds for risk management and the My Mainstreet General Improvement District. Budget adoption is set for Nov. 16, after a Nov. 2 public hearing. Staff are also proposing a redesign of property and liability insurance with a reserve.
   where: Townwide
   refs:
   - 5
-  - 6
-  - 16
-  public_comment: true
+  - 20
+  - 28
+  - 32
+  - 33
+  - 34
+  - 35
   topics:
-  - Policing & public safety
-  - Ethics & transparency
-- title: Parker 2050 Comprehensive Plan adoption
-  summary: The Planning Commission held a hearing on the Town's 2050 Comprehensive Plan in September, and Council adopted it by Resolution 26-060 on Sept 21 after a presentation by consultant CushingTerrell. The Planning Commission also took up the 2026 Three-Mile Area Plan in October.
+  - Budget & taxes
+  - Government operations
+- title: Parker 2050 Comprehensive Plan and Three-Mile Area Plan
+  summary: The Planning Commission held a hearing on the 2050 Comprehensive Plan, and Council adopted it by Resolution 26-060 on Sept. 21. The Planning Commission also took up the 2026 Three-Mile Area Plan in October.
   where: Townwide
   refs:
-  - 10
-  - 16
-  - 31
+  - 9
+  - 15
+  - 30
   topics:
   - Zoning & development
   - Land & property
-- title: 2027 Town budget
-  summary: Council held a budget workshop on Oct 2 and the proposed 2027 budget was published Oct 13. Council reviewed it at a study session on Oct 26 ahead of a public hearing on Nov 2 and adoption planned for Nov 16. Related items include a redesign of property and liability risk coverage, new funds, and Parker/Lone Tree agreements.
-  where: Townwide
-  refs:
-  - 6
-  - 21
-  - 33
-  - 34
-  topics:
-  - Budget & taxes
-- title: Speeding, drag racing and teen disturbances in neighborhoods and parks
-  summary: Residents complained of teens speeding and damaging O'Brien Park, drag racing on Victorian Drive and Longs Way, and littering, saying enforcement is lacking. Another resident asked for a traffic study on speeding on Mainstreet between Jordan Road and Twenty Mile Road.
-  where: O'Brien Park, Victorian Drive, Longs Way, Mainstreet
-  refs:
-  - 3
-  - 16
-  public_comment: true
-  topics:
-  - Roads & traffic
-  - Policing & public safety
-  - Parks & open space
-- title: Future of Mainstreet as a pedestrian street
-  summary: Two residents urged Council to turn Mainstreet into a pedestrian-only street for gatherings, citing safety and downtown culture.
-  where: Mainstreet, Downtown Parker
-  refs:
-  - 22
-  public_comment: true
-  topics:
-  - Downtown & business
-  - Roads & traffic
-- title: School resource officer agreement with American Academy
-  summary: Council discussed American Academy's request for a school resource officer and reconsideration of the cost division, then on Sept 21 approved an amended agreement for SRO services for the 2026-2027 school year.
-  where: American Academy
-  refs:
-  - 3
-  - 16
-  topics:
-  - Schools & youth
-  - Policing & public safety
 - title: Salisbury Regional Park Phase 2
-  summary: The new 91-acre park's Phase 2 needs water service, and Council approved a water pipeline easement to Parker Water and Sanitation District. The Planning Commission and Council also considered the Phase 2 site plan amendment near Motsenbocker Road and Todd Drive.
-  where: Salisbury Regional Park, southeast of Motsenbocker Road
+  summary: Phase 2 of the 91-acre Salisbury Regional Park advanced. Council approved a water pipeline easement to Parker Water and Sanitation District, and the Planning Commission and Council took up the site plan amendment southeast of Motsenbocker Road and Todd Drive.
+  where: Salisbury Regional Park, Motsenbocker Road and Todd Drive
   refs:
-  - 3
-  - 9
-  - 24
-  - 30
+  - 2
+  - 8
+  - 23
+  - 29
   topics:
   - Parks & open space
   - Water
-- title: Security guard, massage facility and licensing ordinance rewrites
-  summary: The Town is rewriting its security guard ordinance (Chapter 5.06, last amended in 2004) and merchant patrol rules, and repealed and readopted the massage facility chapter (5.10) under new state law. Council set massage license fees by Resolution 26-070 and also took up a related chapter 5.09 rewrite.
+  - Recreation & trails
+- title: Speeding, drag racing and Mainstreet safety
+  summary: Residents complained about teens speeding and causing damage at O'Brien Park and drag racing on Victorian Drive and Longs Way, and asked for a traffic study on Mainstreet between Jordan Road and Twenty Mile Road. Others proposed making Mainstreet pedestrian-only.
+  where: O'Brien Park, Victorian Drive, Longs Way, Mainstreet
+  refs:
+  - 2
+  - 15
+  - 21
+  topics:
+  - Roads & traffic
+  - Policing & public safety
+  - Downtown & business
+  public_comment: true
+- title: School resource officers for American Academy
+  summary: Council discussed American Academy's request for a school resource officer and then approved an amended and restated intergovernmental agreement for SRO services for the 2026-2027 school year.
+  where: American Academy
+  refs:
+  - 2
+  - 15
+  topics:
+  - Schools & youth
+  - Policing & public safety
+- title: Security guard and massage facility licensing rules
+  summary: The Town is rewriting its security guard ordinance (Chapter 5.06, last amended in 2004) and the merchant patrol rules, including fees and background checks. Chapter 5.10 on massage facilities was repealed and readopted under a new state law, and license fees were set by Resolution 26-070.
   where: Townwide
   refs:
-  - 3
-  - 6
-  - 9
-  - 26
-  - 30
+  - 2
+  - 5
+  - 8
+  - 25
+  - 29
   topics:
   - Government operations
   - Fees & rates
   - Policing & public safety
-- title: Wildlife exclusion fencing for plant nurseries
-  summary: A plant nursery asked to install deer fencing about eight feet tall, which the Land Development Ordinance limits to six feet. Council showed general support and staff returned Oct 19 seeking direction on amending the rules.
-  where: Townwide
-  refs:
-  - 19
-  - 28
-  - 29
-  topics:
-  - Agriculture & wildlife
-  - Zoning & development
-- title: Sign enforcement and code enforcement ordinance changes
-  summary: Council and the Planning Commission considered Land Development Ordinance changes on enforcement, waivers and temporary signs.
+- title: Sign enforcement and Land Development Ordinance changes
+  summary: Council and the Planning Commission considered changes to sign enforcement and temporary sign rules in the Land Development Ordinance, with enforcement amendments moving through readings in August and September.
   where: Townwide
   refs:
   - 0
   - 1
-  - 7
-  - 9
+  - 6
+  - 8
   topics:
   - Zoning & development
   - Government operations
-- title: Twenty Mile Road improvements land acquisition
-  summary: Council introduced an ordinance stating the Town's intent to acquire property interests to construct and improve Twenty Mile Road near E-470 and to notify affected owners.
-  where: Twenty Mile Road
+- title: Wildlife exclusion fencing for plant nurseries
+  summary: A plant nursery asked to install deer fencing, which is typically eight feet high, taller than the six feet the Land Development Ordinance allows. Council showed general support and staff returned Oct. 19 seeking direction on amending the ordinance.
+  where: Townwide
   refs:
-  - 9
+  - 18
+  - 27
+  - 28
+  topics:
+  - Zoning & development
+  - Agriculture & wildlife
+- title: Twenty Mile Road improvements and Parker Road/Hilltop intersection
+  summary: Council introduced an ordinance stating the Town's intent to acquire property interests to build and improve Twenty Mile Road. It also awarded a $1,339,679.75 contract to Denver Dirt Works for the Parker Road and Hilltop Road intersection and added $607,070 to the 2026 resurfacing contract.
+  where: Twenty Mile Road; Parker Road and Hilltop Road
+  refs:
+  - 8
+  - 15
+  - 21
   topics:
   - Roads & traffic
   - Land & property
-- title: Parker Road and Hilltop Road intersection improvements
-  summary: Council awarded a $1,339,679.75 contract to Denver Dirt Works for the intersection improvements. Council also approved added funds for Pine Drive reconstruction and the townwide resurfacing program.
-  where: Parker Road and Hilltop Road
+- title: Parker Heritage Center reimagining and tribal history
+  summary: Council reviewed an Interpretive Plan to reimagine the Parker Heritage Center with Douglas County and Parker History, with $100,000 budgeted for 2026 plus a $7,500 grant. Council also discussed ways to honor the area's tribal history, and an amendment to the partnership agreement came up Nov. 2.
+  where: Parker Heritage Center
   refs:
-  - 0
-  - 16
-  - 22
+  - 10
+  - 11
+  - 34
+  - 35
   topics:
-  - Roads & traffic
-- title: Parker Senior Center feasibility study and facility needs
-  summary: Staff briefed Council on a completed feasibility study and facility needs including drainage, flooring and parking lot repairs. No funding was requested.
+  - Historic preservation
+  - Libraries & culture
+- title: Parker Senior Center feasibility study and improvements
+  summary: Council received an update on the Senior Center's feasibility study and facility needs including drainage, flooring and parking lot repairs. No funding was requested.
   where: Parker Senior Center
   refs:
-  - 34
+  - 32
+  - 33
   topics:
   - Health & human services
   - Recreation & trails
-- title: Parker Heritage Center interpretive plan and tribal history
-  summary: Council reviewed an interpretive plan to reimagine the Heritage Center, with $100,000 budgeted plus a $7,500 grant. It also discussed ways to honor Parker's Tribal history.
-  where: Parker Heritage Center
+- title: Downtown Parker and Chambers business improvement district 2027 budgets
+  summary: The two business improvement districts presented 2027 operating plans and budgets, and resolutions to approve them were scheduled for Oct. 19.
+  where: Downtown Parker; Chambers Commercial Center
   refs:
-  - 11
-  - 12
+  - 17
+  - 18
+  - 29
   topics:
-  - Libraries & culture
-  - Historic preservation
+  - Downtown & business
+  - Budget & taxes

@@ -1,146 +1,137 @@
-- title: City Charter amendments for the November ballot (Ordinances 2727-2730)
-  summary: 'Council worked through four charter amendments: moving municipal elections to November, 8-year lifetime term limits, and council approval over appointing and removing the police chief and the city clerk. Ranked-choice and gendered-language amendments were dropped from the November ballot. Many residents spoke for and against, and Ordinances 2727 and 2728 were heard on second reading Sept. 1.'
+- title: Charter amendments for the November ballot (election date, term limits, council oversight of police chief and city clerk)
+  summary: 'Council took up Ordinances 2727-2730 to put charter changes on the ballot: moving municipal elections to November, an 8-year lifetime term limit for the at-large seat, and council approval rights over appointing and discharging the police chief and the city clerk. Earlier proposed amendments (he/she language, ranked choice) were dropped, and residents spoke both for and against the remaining measures.'
   where: Citywide
   refs:
-  - 2
-  - 3
+  - 0
   - 4
-  - 6
-  - 10
-  - 15
-  public_comment: true
+  - 9
   topics:
   - Elections
   - Government operations
   - Policing & public safety
-- title: City manager separation and interim manager
-  summary: Council went into executive session about a confidential memo and possible independent counsel, then approved a mutual separation agreement with City Manager Bill Bell. On Sept. 15 it ratified that agreement, appointed Ann Morgenthaler interim city manager under an open-ended agreement during recruitment, and named her executive director of the Montrose Urban Renewal Authority.
-  where: City Hall
-  refs:
-  - 11
-  - 17
-  - 18
   public_comment: true
-  topics:
-  - Government operations
-- title: City Council District IV vacancy and Adam Woodden appointment
-  summary: The District IV seat was vacated Sept. 7 and the charter requires an appointment within 30 days. Council agreed to appoint Adam Woodden to District IV, which opens the At-Large seat. Applications for the At-Large seat were set to run Oct. 7-21, with an appointment planned for Nov. 2.
+- title: City manager separation and interim city manager
+  summary: Council went into executive session about a confidential memo and possible independent counsel, then approved a mutual separation agreement with City Manager Bill Bell on Sept 1. On Sept 15 it ratified the agreement, appointed Ann Morgenthaler as interim city manager under an open-ended agreement during recruitment, and named her Montrose Urban Renewal Authority executive director. Council had to ratify the decisions because the original action was not specifically noticed.
   where: Citywide
   refs:
-  - 21
-  - 23
-  - 27
+  - 3
+  - 5
+  - 12
   topics:
   - Government operations
+  - Ethics & transparency
+- title: 'Council vacancies: District IV and At-Large seats'
+  summary: The District IV seat was vacated Sept 7 and the charter requires an appointment within 30 days. Council appointed Adam Woodden to District IV on Oct 6, which opened the At-Large seat; applications ran Oct 7-21, and John Brown, Danielle Godt and Cindee Williams were up for appointment Nov 2.
+  where: City Council
+  refs:
+  - 15
+  - 17
+  - 21
+  - 28
+  - 29
+  topics:
   - Elections
-- title: Locust Road Addition annexation and zoning
-  summary: A 4.2-acre annexation at 1815 Locust Road, plus part of the road right of way, was requested by Gustavo Martinez. The Planning Commission unanimously recommended R-2 low-density zoning, with discussion of pedestrian infrastructure and rebuilding Locust Road. Council set a Sept. 15 hearing and heard Ordinance 2731 on second reading Oct. 6.
+  - Government operations
+- title: Locust Road Addition annexation (1815 Locust Road)
+  summary: A 4.2-acre annexation at 1815 Locust Road, including part of the road right of way, with requested R-2 low-density zoning. Planning Commission recommended approval of the zoning and discussed improving pedestrian infrastructure and eventually rebuilding Locust Road. Council set a Sept 15 hearing and took Ordinance 2731 on second reading Oct 6.
   where: 1815 Locust Road
   refs:
-  - 6
-  - 8
-  - 23
+  - 0
+  - 2
+  - 17
   topics:
   - Annexation
   - Zoning & development
   - Roads & traffic
 - title: Data center moratorium request
-  summary: At the Aug. 18 meeting, Carol Howe urged Council to enact a moratorium on new data centers until regulations are in place.
+  summary: A resident urged council to enact a moratorium on new data centers until regulations are in place.
   where: Citywide
   refs:
-  - 10
+  - 4
+  topics:
+  - Data centers
+  - Zoning & development
   tags:
   - data-center
   public_comment: true
-  topics:
-  - Data centers
 - title: Proposition 123 affordable housing opt-in and Shepherd's Hand shelter funding
-  summary: Council's Oct. 20 agenda includes Resolution 2026-16 committing to increase affordable housing units under Proposition 123. It also includes a $28,597 expenditure request tied to The Shepherd's Hand shelter.
+  summary: Council considered Resolution 2026-16 committing to increase affordable housing units under Proposition 123, and a $28,597 expenditure tied to the housing effort. It also reviewed a funding request for The Shepherd's Hand shelter. The state also requires a housing needs assessment and housing action plan as part of the comprehensive plan update.
   where: Citywide
   refs:
-  - 26
-  - 27
-  - 28
+  - 14
+  - 20
+  - 21
+  - 22
   topics:
   - Housing
   - Homelessness
-  - Budget & taxes
-- title: Comprehensive plan update and growth policy
-  summary: Staff is preparing a five-year technical update of the Envision 2040 plan and land development code, including state-mandated housing needs assessment, housing action plan and water supply planning. The goal is approval by year's end. Residents urged that growth pay its own way and that the plan's standards be followed.
+- title: Comprehensive plan update and growth concerns
+  summary: Staff are doing a five-year update of the Envision 2040 comprehensive plan and land development code, including state-mandated housing, water supply and strategic growth planning, with approval targeted by year's end. Residents urged council to make growth pay its own way and stick to the plan on subdivisions.
   where: Citywide
   refs:
-  - 15
-  - 18
-  - 20
-  public_comment: true
+  - 9
+  - 12
+  - 14
   topics:
   - Zoning & development
   - Housing
-  - Water
-- title: Rotary Park pump house replacement
-  summary: Council considered a $514,011 contract with FCI Constructors of Grand Junction to replace the 1980s irrigation pump house. It is $14,011 over the $500,000 budget, to be covered by savings from other 2026 Public Works capital projects.
-  where: Rotary Park
-  refs:
-  - 12
-  - 13
-  - 18
-  topics:
-  - Parks & open space
-  - Water
-  - Budget & taxes
-- title: Network Operation Center fire suppression system
-  summary: Council authorized $75,000 for a waterless clean-agent fire suppression system at the city's Network Operation Center, including a $69,987 sole-source contract with Pye Barker. The work was not formally bid; staff cited standardizing vendors for fire and security systems.
-  where: City Network Operation Center
-  refs:
-  - 3
-  - 4
-  - 10
-  topics:
-  - Fire & emergencies
-  - Government operations
-  - Budget & taxes
-- title: Student parking on residential streets near the high school
-  summary: Residents asked Council to reinstate permit-only parking on neighborhood streets near the high school and to increase police presence.
-  where: Residential streets near Montrose High School
-  refs:
-  - 23
+  - Land & property
   public_comment: true
-  topics:
-  - Roads & traffic
-  - Schools & youth
-  - Policing & public safety
-- title: Miami Road electronic speed sign
-  summary: Residents asked Council to install an electronic traffic speed sign on Miami Road near Cedar Creek.
-  where: Miami Road near Cedar Creek
-  refs:
-  - 10
-  - 15
-  public_comment: true
-  topics:
-  - Roads & traffic
 - title: 2027 fee schedule revisions
-  summary: Proposed changes effective Jan. 1, 2027 include higher cemetery lot and open/close fees, a larger school land dedication fee, a $75 park shelter electricity fee, and a $50 building reinspection fee after the third violation.
+  summary: Proposed fees effective Jan 1, 2027 include higher cemetery lot and open/close fees, a higher school land dedication fee-in-lieu, a higher memorial bench fee, a $75 park shelter electricity fee, and a $50 building reinspection fee. Resolution 2026-18 to adopt the schedule was set for Nov 2.
   where: Citywide
   refs:
+  - 22
+  - 23
   - 28
-  - 29
   topics:
   - Fees & rates
   - Budget & taxes
-- title: Chipeta Lake 2 annexation and Spruce Point subdivision
-  summary: The Planning Commission was to hear initial "P" Public zoning for the 1.14-acre Chipeta Lake 2 Addition annexation. It was also to hear an amended preliminary plat for Spruce Point Subdivision at the end of Sanctuary, Prospect and Sleep Rock Drives.
-  where: Chipeta Road; Spruce Point near 6400 Road
+- title: Rotary Park pump house replacement
+  summary: Council considered a $514,011 contract with FCI Constructors to replace the 1980s irrigation pump house at Rotary Park, which is at the end of its useful life. This is $14,011 over the $500,000 budget, covered by savings from other 2026 Public Works capital projects.
+  where: Rotary Park
   refs:
-  - 24
-  - 25
+  - 6
+  - 7
+  - 12
   topics:
-  - Annexation
+  - Parks & open space
+  - Water
+- title: Landfill agreement extension with Bruin Waste Management
+  summary: Staff recommended a one-year extension of the landfill agreement with Bruin Waste Management, LLC, scheduled for council action Nov 2.
+  where: Citywide
+  refs:
+  - 22
+  - 28
+  topics:
+  - Utilities
+  - Land & property
+- title: Student parking on residential streets near the high school
+  summary: Residents asked council to reinstate permit-only parking on residential streets near the high school and to increase police presence.
+  where: Near Montrose High School
+  refs:
+  - 17
+  topics:
+  - Roads & traffic
+  - Schools & youth
+  public_comment: true
+- title: Miami Road electronic speed sign
+  summary: Residents asked for an electronic traffic speed indicator sign on Miami Road near Cedar Creek.
+  where: Miami Road near Cedar Creek
+  refs:
+  - 4
+  - 9
+  topics:
+  - Roads & traffic
+  public_comment: true
+- title: Subdivision and zoning hearings at Planning Commission
+  summary: Planning Commission reviewed the Star Court Lot 8 townhomes plat (739-749 E. Star Court), the Chelsi Lane townhomes PD amendment (reducing units from 24 to 23), the Chipeta Lake 2 annexation zoning (1.14 acres, requested Public zoning), and the Spruce Point amended preliminary plat.
+  where: 739-749 E. Star Court; Chelsi Lane; Chipeta Road; Sanctuary Drive
+  refs:
+  - 2
+  - 18
+  - 19
+  topics:
   - Zoning & development
-- title: Star Court townhomes and Chelsi Lane PD amendment
-  summary: The Planning Commission recommended approval of the preliminary plat for townhomes at 739-749 East Star Court. It also heard a Chelsi Lane amendment reducing the 1992 planned development from 24 to 23 units.
-  where: 739-749 East Star Court; Chelsi Lane
-  refs:
-  - 8
-  topics:
   - Housing
-  - Zoning & development
+  - Annexation

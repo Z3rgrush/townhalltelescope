@@ -1,32 +1,6 @@
 # cortez
 
-## [cortez#0] 2026-07-28 | City Council Work Session | agenda
-- Water System Master Plan Draft Presentation
-- 7:10 p.m. - Council General Discussion
-
-## [cortez#1] 2026-07-28 | City Council Regular Meeting | agenda
-- The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
-- Approval of the meeting minutes from July 14, 2026
-- Approval of the Expenditure List for July 28, 2026
-- Approval of a Special Event Permit to allow The Cortez Area Chamber of Commerce to host a Business After Hours event on August 13, 2026 from 4:00-8:00 p.m., at 20 W. Main Street, Cortez
-- Approval of the renewal application for a Medical Marijuana Center/On Site Optional Premises Cultivation License for Durango Organics, LLP, DBA DO Cortez, located at 1013 East Main Street, Cortez
-- Individuals may not comment on items that are on this Council Agenda during the Public Participation time. There is no limit to the number of speakers, although public comments will be held to an overall time limit of 30 minutes. (Speakers have a time limit of three (3) minutes per person, may only 
-- PRESENTATIONS
-- PUBLIC HEARINGS
-- Ordinance No. 1370, Series 2026
-- An ordinance that amends the City Code provision that created the Airport Advisory Committee. The amendments concern Chapter 3, Article II, Sections 3-15 and 3-19 regarding qualifications of Committee members and Committee officer terms
-- Ordinance No. 1372 Series 2026
-- An ordinance on second reading amending the 2026 Budget which was adopted pursuant to Ordinance No. 1351, Series 2025
-- Purchase of a New 1-Ton Dually Truck for the City Street Division
-- Council will consider approving the purchase of a new one-ton pickup truck to replace the Streets Division's aging 2002 one-ton pickup (Unit #992), which has reached the end of its serviceable life and no longer reliably supports daily operations
-- Airport Advisory Committee Appointments
-- Council will consider appointing members to the newly created Airport Advisory Committee
-- Resolution No. 13, Series 2026
-- Council will consider Resolution No. 13, Series 2026, a resolution declaring an election and approving an intergovernmental agreement with the Montezuma County Clerk and Recorder for the conduct and administration of the 2026 General Election to be held on November 3, 2026
-- Ordinance No. 1375, Series 2026
-- Ordinance No. 1375, Series 2026, an ordinance of the City of Cortez setting the ballot title and content for voter authorization for a four percent (4%) increase in the rate of the City's Lodger's Tax, and submitting the ballot question at the general election to be held November 3, 2026
-
-## [cortez#2] 2026-08-04 | Planning and Zoning Commission | agenda
+## [cortez#0] 2026-08-04 | Planning and Zoning Commission | agenda
 - PLANNING AND ZONING COMMISSION MEETING
 - APPROVAL OF MINUTES
 - Minutes from 7/07/2026 Planning & Zoning Commission Meeting
@@ -40,11 +14,11 @@
 - Permits Issued 4/16 through 7/15/2026
 - DISCUSSION ITEMS
 
-## [cortez#3] 2026-08-11 | City Council Work Session | agenda
+## [cortez#1] 2026-08-11 | City Council Work Session | agenda
 - Tour of Cortez Water Treatment Plant, leaving City Hall at 5:45pm
 - 7:10 p.m. - Council General Discussion
 
-## [cortez#4] 2026-08-11 | City Council Regular Meeting | agenda
+## [cortez#2] 2026-08-11 | City Council Regular Meeting | agenda
 - The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
 - Approval of the Expenditure List for August 11, 2026
 - Approval of the meeting minutes from July 28, 2026
@@ -67,7 +41,7 @@
 - Comments specific to agenda items scheduled for this agenda should be reserved and delivered during the public comment portion of that specific agenda item
 - Courtesy, civility, and respect for others is expected. All commenters should only speak from the podium using the microphone, and comments should be addressed directly to the Council and not to staff or other members of the public. Commenters who are called upon by the Mayor, or other presiding off
 
-## [cortez#5] 2026-08-25 | City Council Work Session | agenda
+## [cortez#3] 2026-08-25 | City Council Work Session | agenda
 - Executive Session - Municipal Judge Beth Padilla Contract
 - Airport Advisory Committee - Youth Applicant Interview - Grant Wright
 - 7th Street Property Update presented by Jason Armstrong, Deputy Director of Community and Econcomic Development/City Planner
@@ -75,7 +49,7 @@
 - A draft ordinance approving revisions to Chapter 15, Article XI of the Cortez City Code regarding the annual licensure process for Mobile Food Vendors operating in the City of Cortez
 - 7:15 p.m. - Council General Discussion
 
-## [cortez#6] 2026-08-25 | City Council Regular Meeting | agenda
+## [cortez#4] 2026-08-25 | City Council Regular Meeting | agenda
 - The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
 - Approval of the meeting minutes from August 11, 2026
 - Approval of the Expenditure List for August 25, 2026
@@ -99,7 +73,7 @@
 - Council will consider appointing a youth member to the Airport Advisory Committee
 - DRAFT RESOLUTION/ORDINANCES
 
-## [cortez#7] 2026-09-01 | Planning and Zoning Commission | agenda
+## [cortez#5] 2026-09-01 | Planning and Zoning Commission | agenda
 - PLANNING AND ZONING COMMISSION MEETING
 - APPROVAL OF MINUTES
 - Minutes from 8/04/2026 Planning & Zoning Commission Meeting
@@ -109,10 +83,10 @@
 - Resolution No. 8, Series 2026, a Conditional Use Permit and a Minor Deviation for 1411 Montelores Avenue
 - DISCUSSION ITEMS - none
 
-## [cortez#8] 2026-09-08 | City Council Work Session | agenda
+## [cortez#6] 2026-09-08 | City Council Work Session | agenda
 - 7:15 p.m. - Council General Discussion
 
-## [cortez#9] 2026-09-08 | City Council Regular Meeting | agenda
+## [cortez#7] 2026-09-08 | City Council Regular Meeting | agenda
 - The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
 - Approval of the meeting minutes from August 25, 2026
 - Approval of the Expenditure List for September 8, 2026
@@ -133,12 +107,12 @@
 - During the general Public Participation sections of City Council Meetings, individuals may not comment regarding items on the Council agenda, but may comment on any other topic they wish to address the City Council about, including items discussed in a previous Council Workshop or previous Council M
 - Comments specific to agenda items scheduled for this agenda should be reserved and delivered during the public comment portion of that specific agenda item
 
-## [cortez#10] 2026-09-22 | City Council Work Session | agenda
+## [cortez#8] 2026-09-22 | City Council Work Session | agenda
 - Executive Session - Municipal Judge Beth Padilla Contract and Negotiations Regarding the Fiber Express Line
 - Parks and Recreation Staff will Share an Informational Presentation on the Impacts of the Green Ash Beetle on Parks' Ash Trees
 - 7:15 p.m. - Council General Discussion
 
-## [cortez#11] 2026-09-22 | City Council Regular Meeting | agenda
+## [cortez#9] 2026-09-22 | City Council Regular Meeting | agenda
 - The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
 - Approval of the meeting minutes from September 8, 2026
 - Approval of the Expenditure List for September 22, 2026
@@ -160,11 +134,11 @@
 - Resolution No. 16, Series 2026
 - Council will consider adopting Resolution No. 16, Series 2026, a resolution adopting the City of Cortez 2026 Water System Master Plan
 
-## [cortez#12] 2026-10-13 | City Council Work Session | agenda
+## [cortez#10] 2026-10-13 | City Council Work Session | agenda
 - Tour of Cortez Fire Protection District
 - 7:10 p.m. - Council General Discussion
 
-## [cortez#13] 2026-10-13 | City Council Regular Meeting | agenda
+## [cortez#11] 2026-10-13 | City Council Regular Meeting | agenda
 - The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
 - Approval of the meeting minutes from September 22, 2026
 - Approval of the Expenditure List for October 13, 2026
@@ -186,3 +160,30 @@
 - DRAFT RESOLUTION/ORDINANCES
 - PURSUANT TO RESOLUTION NO. 10, SERIES 2025, PUBLIC COMMENT RULES:
 - During the general Public Participation sections of City Council Meetings, individuals may not comment regarding items on the Council agenda, but may comment on any other topic they wish to address the City Council about, including items discussed in a previous Council Workshop or previous Council M
+
+## [cortez#12] 2026-10-27 | City Council Regular Meeting | agenda
+- The listing under "Consent Agenda" is a group of items to be acted on with a single motion and vote. This agenda is designed to expedite the handling of limited routine matters by City Council. Either the public or a Councilmember may request that an item may be removed from the Consent Agenda at th
+- Approval of the meeting minutes from October 13, 2026
+- Approval of the Expenditure List for October 27, 2026
+- Approval of the Renewal Application for a hotel and restaurant liquor license from New Hong Kong of Cortez, Inc., DBA New Hong Kong Chinese Restaurant, located at 332 West Main Street, Cortez
+- Individuals may not comment on items that are on this Council Agenda during the Public Participation time. There is no limit to the number of speakers, although public comments will be held to an overall time limit of 30 minutes. (Speakers have a time limit of three (3) minutes per person, may only 
+- PRESENTATIONS
+- PUBLIC HEARINGS
+- Ordinance No. 1371, Series 2026
+- An ordinance approving revisions to Chapter 15, Article IX of the Cortez City Code regarding the annual licensure process for mobile food vendors operating in the City of Cortez
+- Bid Results for 2026 Airport Asbestos Abatement Project
+- Council will consider accepting the proposal for the 2026 Airport Asbestos Abatement Project submitted by Summit Lake Park Eagle Restoration Systems LLC, D/B/A Eco Safe Abatement LLC, and authorizing the City Manager to negotiate and sign a contract with the company on behalf of the City
+- City Council consideration of a Lease Amendment to extend the TSA terminal space lease at Cortez Municipal Airport through June 30, 2031, and authorize the City Manager to execute the amendment
+- Airport Engineering Services—Five-Year Contract Award Recommendation
+- City Council consideration of a five-year engineering services agreement for Cortez Municipal Airport, beginning December 1, 2026, and ending November 30, 2031. Staff requests authorization for the City Manager to negotiate the agreement based on the qualifications review and interview results
+- Appointments to Various Boards and Commissions
+- Council will consider making an appointment to the Planning & Zoning Commission and the Library Advisory Board
+- DRAFT RESOLUTION/ORDINANCES
+- PURSUANT TO RESOLUTION NO. 10, SERIES 2025, PUBLIC COMMENT RULES:
+- During the general Public Participation sections of City Council Meetings, individuals may not comment regarding items on the Council agenda, but may comment on any other topic they wish to address the City Council about, including items discussed in a previous Council Workshop or previous Council M
+
+## [cortez#13] 2026-10-27 | City Council Work Session | agenda
+- Board and Committee Interviews for Planning & Zoning and the Library Advisory Board
+- Robert Bright, applicant for the Planning & Zoning Commission
+- Parks and Recreation Master Plan: Community Engagement Update and City Council Listening Session
+- 7:15 p.m. - Council General Discussion

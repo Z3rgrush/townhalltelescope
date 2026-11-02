@@ -1,121 +1,125 @@
-- title: Carhenge Redevelopment Project design review
-  summary: The Historic & Architectural Review Commission has three preliminary large-scale applications for the Carhenge redevelopment (Buildings A-C, D1-D2, E1-E3) on Lots 34 and 34B, Backman Village. They were continued from July and August 2026 without discussion and were on the September 30 agenda.
-  where: Lots 34 and 34B, Backman Village Subdivision (Carhenge)
+- title: Carhenge and Shandoka redevelopment projects
+  summary: The Carhenge Redevelopment Project (Lots 34 and 34B, Backman Village) has three large-scale applications for Buildings A-E before HARC, continued from July and August and back on Sept. 30. The Shandoka Lot Redevelopment (Lot L, Backman Village) has a preliminary PUD before P&Z and a large-scale application before HARC, both continued without discussion, with HARC pushed to Nov. 18. On Oct. 27 Council also considered a resolution on a preliminary subdivision consolidating Lots 34 and 34B.
+  where: Backman Village (Carhenge parking lot and Shandoka)
   refs:
-  - 22
-  topics:
-  - Zoning & development
-  - Historic preservation
-- title: Shandoka Lot Redevelopment PUD and large-scale review
-  summary: The preliminary PUD for redeveloping Lot L (about 4.07 acres) in Backman Village seeks larger dimensional limits in return for public benefits. Planning & Zoning continued it without discussion because of staff capacity, and HARC plans to continue its review to November 18, 2026.
-  where: Lot L, Backman Village (Shandoka)
-  refs:
+  - 14
   - 18
-  - 33
+  - 29
+  - 34
   topics:
   - Zoning & development
   - Housing
-- title: Telluride School District employee housing near the middle-high school
-  summary: Planning & Zoning held a work session on proposed new employee housing at the northwest corner of the Telluride Middle-High School site, under an intergovernmental agreement with the school district. It also continued work on potential Land Use Code amendments.
-  where: Northwest corner of Telluride Middle-High School site
+  - Historic preservation
+- title: Affordable housing waitlist and Housing Authority policies
+  summary: The Housing Authority and its subcommittee are reworking the employee rental housing waitlist rules in sections 105 and 106.1, after a recent suspension of the waitlist. They also adopted a policy on primary residency for children of multiple custodial parents, are considering a partial 2027 rental rate increase, and are amending deed restrictions on town-built units at 215 E. Colorado Ave. Bedroom size standards and exceptions for households in multi-bed units are also under discussion.
+  where: Townwide
   refs:
-  - 18
+  - 4
+  - 6
+  - 8
+  - 12
+  - 15
+  - 24
+  topics:
+  - Housing
+  - Fees & rates
+  - Government operations
+- title: 2027 town budget, fees and rates
+  summary: Council held a budget workshop on Oct. 13 covering enterprise funds, open space, affordable housing and 12 smaller funds requesting $12.11M in revenue and $16.11M in spending. The Open Space set-aside of $4.79M would be drawn down by $4.25M, the Transportation Fund needs a $290,000 larger transfer, and lodgers' tax is budgeted to rebound. A water and sewer rate study and draft 2027 fee schedule were also presented, and adoption is set for Nov. 17. An ordinance to suspend part of the real estate transfer tax for the 2027 budget year had first reading Oct. 27.
+  where: Townwide
+  refs:
+  - 20
+  - 23
+  - 27
+  - 34
+  topics:
+  - Budget & taxes
+  - Fees & rates
+  - Water
+- title: License plate reader (Flock) cameras
+  summary: Town Council discussed automated license plate reader cameras, including Flock, on Oct. 6 with a staff memo. A resident, McKenzie, submitted public comment.
+  where: Townwide
+  refs:
+  - 21
+  topics:
+  - Policing & public safety
+  - Ethics & transparency
+  public_comment: true
+- title: Ethics code and code of conduct for councilmembers
+  summary: After an ethics complaint against a councilmember's conduct at a public meeting, the Ethics Commission weighed adding a code of conduct to the ethics code or adopting a stand-alone one. Council held second reading of an ordinance amending the ethics code general guidelines (section 2-4-30) on Oct. 6.
+  where: Townwide
+  refs:
+  - 3
+  - 21
+  topics:
+  - Ethics & transparency
+  - Government operations
+- title: Telluride school district employee housing
+  summary: P&Z held a work session on proposed employee housing at the northwest corner of the Telluride Middle-High School site, under an intergovernmental agreement with the school district. A separate work session covered potential Land Use Code amendments.
+  where: Telluride Middle-High School site, northwest corner
+  refs:
+  - 14
   topics:
   - Housing
   - Schools & youth
   - Zoning & development
-- title: Housing waitlist policies and Telluride Housing Authority actions
-  summary: The Housing Authority Subcommittee held worksessions on waitlist management and leasing rules (Sections 105 and 106.1) after the waitlist was suspended, and on bedroom size standards. The full Housing Authority took up the waitlist policies on September 22. It also adopted a policy on primary residency for children of multiple custodial parents, set a 20% custodial cutoff and an age limit through 18, and considered amending deed restrictions for town-built units at 215 East Colorado Avenue. The subcommittee also handled owner exception requests.
-  where: 215 East Colorado Avenue and Townwide
+- title: Gondola replacement project funding
+  summary: SMART considered an FY27 amendment to the Gondola Project Development IGA and an update on the gondola replacement. Town Council was asked to approve the Fourth Supplement to the cost-sharing agreement for the 2027 gondola development budget.
+  where: Telluride gondola
   refs:
-  - 9
-  - 11
-  - 15
-  - 28
-  public_comment: true
+  - 25
+  - 34
   topics:
-  - Housing
-- title: 2027 Town budget workshops
-  summary: Town Council held a budget workshop on October 13 covering 12 funds requesting $12.11M in revenue and $16.11M in spending. The Open Space set-aside would be drawn down by $4.25M, the Transportation Fund transfer would grow by $290,000, lodgers' tax is projected to rebound, and a Lodgers Tax position would move to full time. Water and sewer rate and fee schedule drafts were also reviewed, with adoption planned for November 17. The Open Space Commission also planned to discuss the budget with the Town Manager.
-  where: Townwide
-  refs:
-  - 24
-  - 31
-  topics:
+  - Transit
   - Budget & taxes
-  - Fees & rates
-- title: Flock license plate reader cameras
-  summary: Town Council scheduled a discussion on October 6 about Automated License Plate Reader (Flock) cameras. A written public comment from McKenzie was posted with the agenda.
-  where: Townwide
+- title: Two-night concert proposed for Town Park
+  summary: Council discussed a proposed major two-night concert in Town Park on Oct. 27 and reviewed 2026 special events on town property. Combined public comment was included in the packet.
+  where: Town Park
   refs:
-  - 25
-  public_comment: true
+  - 34
   topics:
-  - Policing & public safety
-  - Government operations
-- title: Ethics complaint and Code of Conduct for councilmembers
-  summary: The Ethics Commission considered a complaint against a councilmember and discussed recommending a Code of Conduct, either folded into the Ethics Code or stand-alone, because its finding hinged on the lack of clear behavioral standards. Town Council set a second reading of an ordinance amending the Ethics Code's general guidelines (Section 2-4-30) for October 6.
-  where: Townwide
-  refs:
-  - 5
-  - 25
-  topics:
-  - Ethics & transparency
-- title: Town Park Oval improvements
-  summary: The Parks & Recreation Commission reviewed the Town Park Oval Improvements Project. Members of the public and commissioners discussed goals, design options, facility uses, management and alternative facility options.
-  where: Town Park Oval
-  refs:
-  - 0
-  - 3
-  public_comment: true
-  topics:
-  - Parks & open space
-  - Recreation & trails
-- title: 2027 campground and shower fees
-  summary: Staff proposed 2027 Town Park campground fee increases of $2 to $5 per night (about 8%), projecting $203,304 in revenue, up 5% from the 2026 budget. Shower fees are projected to raise $62,500, up 25% from $50,000. The commission also discussed the 5-year capital improvement fund.
-  where: Town Park Campground
-  refs:
-  - 3
-  topics:
-  - Fees & rates
-  - Parks & open space
   - Tourism & events
-- title: Pergola built without a permit at Swede Finn Hall
-  summary: HARC reviewed a pergola on a rated historic structure at Swede Finn Hall, near West Pacific Avenue and Townsend Street, that was built without permits. Staff found insufficient justification for approval and suggested denial or a temporary-structure permit.
-  where: Swede Finn Hall, West Pacific Avenue and Townsend Street
-  refs:
-  - 2
-  topics:
-  - Historic preservation
-  - Zoning & development
-- title: Fuel-burning landscape equipment ban and Climate Action Plan update
-  summary: The Ecology Commission discussed a draft ordinance banning fuel-burning landscape equipment, a measure called for in the 2022 Climate Action Plan. It is also working on the required 2027 update of the plan and on dark-sky initiatives.
-  where: Townwide
+  - Parks & open space
+  public_comment: true
+- title: Campground and shower fee increases for 2027
+  summary: The Parks & Recreation Commission considered 2027 Town Park campground fee increases of $2-$5 per night (about 8% average), projecting $203,304 in revenue versus $192,866 budgeted for 2026. Shower fees would rise to bring in $62,500, up 25% from $50,000. The commission also discussed the 5-year capital fund and Town Park Oval improvements.
+  where: Town Park campground
   refs:
   - 1
-  - 10
-  - 26
+  topics:
+  - Fees & rates
+  - Parks & open space
+  - Recreation & trails
+  public_comment: true
+- title: Ban on fuel-burning landscape equipment and Climate Action Plan update
+  summary: The Ecology Commission discussed a draft ordinance banning gas-powered landscaping equipment, a step called for in the 2022 Climate Action Plan, and will connect with town staff who use such equipment. It is also working on the 2027 Climate Action Plan update and a regional dark sky initiative.
+  where: Townwide
+  refs:
+  - 7
+  - 22
   topics:
   - Environment & climate
   - Energy
-- title: 2027 CCAASE grant budget
-  summary: The Community Assistance, Arts & Special Events commission agreed not to request a budget increase for 2027 grants because of lower projected town revenue. It sent a letter to Town Council and is reviewing 2027 grant applications.
-  where: Townwide
-  refs:
-  - 8
-  - 27
-  - 36
-  topics:
-  - Libraries & culture
-  - Budget & taxes
-  - Tourism & events
-- title: Telluride Humane Society 5K at Elks Park
-  summary: The Humane Society requested use of Elks Park and the River Trail for a 5K run of up to 100 registrants, followed by a community celebration. The Parks & Recreation Commission considered the request.
-  where: Elks Park and River Trail
+- title: Historic review of pergola, 510 W Columbia and other properties
+  summary: HARC considered a pergola built without a permit on a rated structure near the historic depot at Swede Finn Hall, with staff not supporting approval. Other items include payment-in-lieu of parking and a lot line vacation at 510 W Columbia/129 N Townsend, 208 S Fir, Primrose Lane, 461 Dakota, 448 Tomboy Road, and a Phoenix Market extension. The Stender residence appeal on North Aspen Street was continued.
+  where: 510 W Columbia Ave, 208 S Fir St, Primrose Lane, Dakota Ave
   refs:
   - 0
-  - 3
+  - 9
+  - 10
+  - 29
+  - 34
+  - 35
+  - 36
   topics:
-  - Tourism & events
-  - Parks & open space
-  - Recreation & trails
+  - Historic preservation
+  - Zoning & development
+  public_comment: true
+- title: Telluride Energy Mitigation Program updates
+  summary: Council had first reading of an ordinance amending the Telluride Energy Mitigation Program (TEMP) in municipal code section 15-9-40.
+  where: Townwide
+  refs:
+  - 34
+  topics:
+  - Energy
+  - Environment & climate

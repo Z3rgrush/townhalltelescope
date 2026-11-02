@@ -1,100 +1,81 @@
-- title: Cañon Dolomite Quarry truck traffic permit amendment (CUP 11-001)
-  summary: Amrize asked the county to amend the truck traffic condition (Section K) of the quarry's conditional use permit to use the "Annual Average Daily Traffic" wording from the original CDOT approval. The quarry operates only a day or two a month and wants room for sales surges on those days without adding operating days.
+- title: Cañon Dolomite Quarry truck traffic permit amendment
+  summary: Amrize asked the commissioners to amend Section K of Conditional Use Permit 11-001 for the Cañon Dolomite Quarry so the truck traffic limit uses "Annual Average Daily Traffic" wording, matching the original CDOT approval. The quarry operates only a day or two a month and wants room for sales surges on those days, not more operating days.
   where: Cañon Dolomite Quarry
   refs:
-  - 3
+  - 2
   topics:
   - Oil, gas & mining
   - Roads & traffic
   - Zoning & development
-- title: Outside consultant review fees for RV roof business application
-  summary: Planning & Zoning asked the commissioners to bill an applicant for outside consultant review costs that exceed the application fee. The applicant had requested an outside consultant after voicing a perceived staff bias, and Section 306 of the county resolution lets the board assess the extra fees. The project is a business that maintains and repairs RV roofs.
-  where: Fremont County
-  refs:
-  - 4
-  topics:
-  - Fees & rates
-  - Zoning & development
-  - Economic development
 - title: 152-lot Planned Unit Development at 1337 County Road 3A
-  summary: A public hearing was set for a Planned Unit Development proposing 152 lots at a minimum of 3 acres each near Cañon City. The October 13 agenda lists it, and no decision is shown in the documents.
+  summary: A Planned Unit Development with 152 lots at a minimum lot size was on the October 13 agenda for a hearing. It is at 1337 County Road 3A, Cañon City.
   where: 1337 County Road 3A, Cañon City
-  refs:
-  - 6
-  topics:
-  - Zoning & development
-  - Housing
-  - Land & property
-- title: Zone change from Business to Residential One (R1)
-  summary: A property owner asked to rezone a lot from commercial to residential for personal use, planning to add a full bathroom to the unit. The public hearing was held August 25 after being scheduled July 28.
-  where: Fremont County
-  refs:
-  - 0
-  - 2
-  topics:
-  - Zoning & development
-  - Housing
-  - Land & property
-- title: Aspen Acres Fire and evacuation planning
-  summary: Public Health reported that before firefighters gained control of the north side of the Aspen Acres Fire, the Bruce McCandless Veterans Community Living Center was in a very vulnerable position. Agencies have been planning and practicing for a potential evacuation since the 24 Fire. Fire danger remained extreme and DOT stopped mowing for fear of sparks.
-  where: Aspen Acres / Bruce McCandless Veterans Community Living Center
-  refs:
-  - 1
-  topics:
-  - Fire & emergencies
-  - Health & human services
-  - Policing & public safety
-- title: New liquor license for restaurant, bar and mercantile off Grant Street
-  summary: Commissioners considered a new malt, vinous and spirits-style license for a 134-person restaurant, bar and mercantile. The applicant needs a CDOT highway access permit, since the old permit allowed only 20 trips a day, and CDOT has now completed a traffic analysis. Commissioner Grantham asked about the access complications and moved to approve.
-  where: Grant Street, Fremont County
   refs:
   - 5
   topics:
-  - Cannabis & liquor
-  - Roads & traffic
-  - Economic development
-- title: 'Ballot measure resolutions: Amendment 83, Amendment 87, Proposition NN'
-  summary: The October 13 agenda includes resolutions supporting Amendment 83 and opposing Amendment 87 (graduated income) and Proposition NN. No vote outcome is shown.
+  - Housing
+  - Zoning & development
+- title: Outside consultant review fees billed to an applicant
+  summary: Planning & Zoning asked the commissioners to bill an applicant for review costs beyond the application fee. The excess came from an outside consultant hired after the applicant alleged staff bias. The request relies on Section 306 of the county resolution.
+  where: Countywide
+  refs:
+  - 3
+  topics:
+  - Fees & rates
+  - Zoning & development
+- title: 2027 Fremont County budget
+  summary: A public hearing on the proposed 2027 county budget was scheduled for the October 27 meeting. The agenda also lists a 2027 MotivHealth employee health plan proposal and a bid award for the DHS building roof replacement.
   where: Countywide
   refs:
   - 6
+  topics:
+  - Budget & taxes
+  - Government operations
+- title: Resolutions on state ballot measures (Amendment 83, Amendment 87, Proposition NN)
+  summary: The commissioners were to consider resolutions supporting Amendment 83 and opposing Amendment 87 (graduated income tax) and Proposition NN. Titles are partly cut off in the agenda.
+  where: Countywide
+  refs:
+  - 5
   topics:
   - Elections
   - Budget & taxes
-  - Government operations
-- title: Colorado River shortage and county water concerns
-  summary: Commissioner McFall reported on Colorado Counties Incorporated discussion of Colorado River negotiations. The Lower Basin must reduce its water use by 1.25 million acre-feet after the states failed to reach an agreement.
-  where: Countywide
-  refs:
-  - 2
-  topics:
-  - Water
-  - Environment & climate
-- title: Cotopaxi Fire Station lease renewal
-  summary: The commissioners' October 13 agenda includes renewing the Cotopaxi Fire Station lease with the Deer Mountain Fire Protection District.
-  where: Cotopaxi
-  refs:
-  - 6
-  topics:
-  - Fire & emergencies
-  - Land & property
-  - Government operations
-- title: Commissioners hear summary of state semi-automatic firearm law
-  summary: During the July 28, 2026 meeting, minutes record a discussion of a state law restricting the transfer, sale, or purchase of a long list of semi-automatic firearms. It bans rapid-fire conversion devices and requires buyers to complete a firearm safety training program through Colorado Parks and Wildlife. The excerpt does not show any vote on this item.
-  where: Fremont County
+- title: Aspen Acres Fire and evacuation planning for veterans center
+  summary: Public Health reported on the Aspen Acres Fire, which came close to the Bruce McCandless Veterans Community Living Center before firefighters controlled the north side. Staff have planned and practiced evacuation since the 24 Fire. Fire danger in the county remains extreme, and DOT stopped mowing to avoid sparks.
+  where: Bruce McCandless Veterans Community Living Center
   refs:
   - 0
   topics:
-  - Guns
-  tags:
-  - guns
-- title: Resolution on Amendment 83 (constitutional right) on Oct. 13 agenda
-  summary: The Oct. 13, 2026 agenda lists a resolution supporting Amendment 83, whose title is cut off after "Constitutional Right." The excerpt does not say what the amendment covers, so whether it concerns firearms is unclear.
+  - Fire & emergencies
+  - Health & human services
+- title: Colorado River shortage and water rights
+  summary: Commissioner McFall reported on Colorado Counties Inc. discussions about Colorado River negotiations. The Bureau of Reclamation decided the Lower Basin must cut use by 1.25 million acre-feet because the states could not agree.
+  where: Countywide
+  refs:
+  - 1
+  topics:
+  - Water
+  - Environment & climate
+- title: Rezoning from Business to Residential (R1)
+  summary: A property owner asked for a zone change from commercial to Residential One so they can add a full bathroom to a unit for personal use. A public hearing was held August 25.
   where: Fremont County
   refs:
-  - 6
+  - 1
   topics:
-  - Guns
-  - Elections
-  tags:
-  - guns
+  - Zoning & development
+  - Land & property
+- title: New liquor license for restaurant, bar and mercantile and CDOT highway access
+  summary: The commissioners considered a new malt, vinous and spirits-light license for a restaurant, bar and mercantile in a building with 134-person occupancy. The site's existing CDOT access permit allowed only 20 trips a day, so a traffic study was needed for a new permit using the West gate off Grant Street. The motion to approve was made.
+  where: Grant Street
+  refs:
+  - 4
+  topics:
+  - Cannabis & liquor
+  - Roads & traffic
+- title: RV roof repair business development hearing
+  summary: A hearing was scheduled for a proposed business that maintains and repairs RV roofs inside a building. Details are limited in the documents.
+  where: Fremont County
+  refs:
+  - 3
+  topics:
+  - Zoning & development
+  - Economic development

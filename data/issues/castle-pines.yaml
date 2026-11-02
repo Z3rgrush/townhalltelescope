@@ -1,107 +1,97 @@
-- title: Annexation Policy and charter amendment requiring voter approval for annexations
-  summary: Council adopted an Annexation Policy (Resolution 26-49) on Aug. 25 after continuing it from Aug. 11, with a minor wording addition. It also passed Resolution 26-53 opposing a citizen-initiated charter amendment on the ballot that would require voter approval for certain large annexations. The Chamber of Commerce spoke against the ballot measure, and a resident asked for a timeline of public meetings in the annexation process.
-  where: Citywide
-  refs:
-  - 2
-  - 4
-  topics:
-  - Annexation
-  - Elections
-  - Land & property
-  public_comment: true
-- title: Site Improvement Plan zoning amendment (Ordinance 26-06)
-  summary: Council amended Section 27 (Site Improvement Plan) of the zoning ordinance, with first reading Aug. 11 and a public hearing and second reading Aug. 25. A speaker said comprehensive plan elements should be left in and asked for a holistic review and an amendment, while another supported the ordinance as clear and predictable.
-  where: Citywide
-  refs:
-  - 2
-  - 4
-  topics:
-  - Zoning & development
-  public_comment: true
-- title: Happy Canyon Road/I-25 interchange funding and engineering
-  summary: 'Council took up several agreements for the Happy Canyon interchange project: an amendment to the CDOT design-phase funding IGA, an IGA with Douglas County, a first amendment to the Alfred Benesch engineering agreement, a Benesch construction-management agreement for Phase 1, and a Stanton constructability and cost-estimating amendment.'
-  where: Happy Canyon Road/I-25 interchange
-  refs:
-  - 6
-  - 7
-  topics:
-  - Roads & traffic
-  - Budget & taxes
-- title: 2027 city budget and strategic projects
-  summary: Council discussed 2027-2029 strategic projects in August, and the City Manager presented the proposed 2027 budget on Oct. 20. It includes a Road Solutions Plan, Spring Tributary stormwater work at Lagae Road, an open-air pavilion, a second parks foreman, a Trails Master Plan update, and lodging and admissions tax research. Projections assume 104 new home permits, a 36% drop in construction use tax in 2027, and a 28% decrease in some development revenue from 2026.
+- title: Annexation Policy and charter ballot measure requiring voter approval for annexations
+  summary: Council adopted an Annexation Policy (Resolution 26-49, with a minor three-word addition) after continuing it on Aug. 11. It also passed Resolution 26-53 opposing a citizen-initiated charter amendment that would require voter approval for certain large annexations, and set ballot title for that measure. The Chamber of Commerce spoke on the issue, and a resident asked for a public meeting timeline.
   where: Citywide
   refs:
   - 1
-  - 9
+  - 3
   topics:
-  - Budget & taxes
-  - Roads & traffic
-  - Economic development
-- title: Transfer of recreation properties between the City and Castle Pines North Metro District
-  summary: Ordinances 26-08 and 26-09 convey recreation properties from the metro district to the city and certain tracts of land to Castle Pines North Metropolitan District under an existing intergovernmental agreement. They had first reading Sept. 22 and public hearings on second reading Oct. 13.
-  where: Castle Pines North
+  - Annexation
+  - Elections
+  - Government operations
+  public_comment: true
+- title: Site Improvement Plan zoning amendment (Ordinance 26-06)
+  summary: Council amended Section 27 (Site Improvement Plan) of the zoning ordinance, with first reading Aug. 11 and a public hearing and second reading Aug. 25. Speakers asked for a holistic review and an amendment, while another said it gives a clear and predictable process. Later commenters asked for adjacent-owner notification, a central online page for development information, and HOA inclusion in referrals.
+  where: Citywide
   refs:
-  - 6
-  - 7
+  - 1
+  - 3
+  - 5
   topics:
-  - Land & property
-  - Parks & open space
-- title: Soaring Hawk Park phasing and park and trail projects
-  summary: The Parks and Recreation Advisory Board discussed Soaring Hawk Park Phase 1 and its phasing from August through October, plus a Coyote Ridge Park renovation update. Staff also proposed trail signage across 35 trail segments, including kiosks, directional signs and mile markers, with three options weighing budget and look and feel.
-  where: Soaring Hawk Park, Coyote Ridge Park and city trails
+  - Zoning & development
+  - Government operations
+  public_comment: true
+- title: Happy Canyon Road/I-25 interchange project agreements
+  summary: Council approved a series of intergovernmental agreements with the State and CDOT, professional services amendments, and funding (BTE) and maintenance agreements for the Happy Canyon Road/I-25 interchange. It also considered construction management with Alfred Benesch and constructability services with Stanton.
+  where: Happy Canyon Road at I-25
   refs:
   - 3
   - 5
+  - 6
+  - 9
+  topics:
+  - Roads & traffic
+  - Budget & taxes
+- title: Proposed 2027 budget and strategic projects 2027-2029
+  summary: Council discussed 2027 budget policy and a 2027-2029 strategic project list, then the City Manager presented the proposed 2027 budget on Oct. 20. Projections include 104 new home permits, a 3% property tax increase, a 36% drop in construction use tax after a 26% rise in 2026, and a 28% decrease in development-related permit revenue. Priorities include the Road Solutions Plan, Spring Tributary at Lagae Road, a second Parks foreman, the Trails Master Plan and lodging/admissions tax research.
+  where: Citywide
+  refs:
+  - 0
   - 8
+  topics:
+  - Budget & taxes
+  - Roads & traffic
+  - Parks & open space
+- title: Canyonside plans and South Havana Street vacation
+  summary: Council heard a public hearing on the Canyonside Preliminary Plan No. 1, 2nd Amendment (Resolution 26-62), then took up the Canyonside Filing No. 1, 3rd Amendment replat and an ordinance vacating part of South Havana Street. A Castle Pines North Filing No. 27 replat was also on the Oct. 27 agenda.
+  where: Canyonside / South Havana Street
+  refs:
+  - 6
+  - 9
+  topics:
+  - Zoning & development
+  - Land & property
+- title: Expedited review for affordable housing (Proposition 123)
+  summary: Council considered Resolution 26-63 adopting an expedited review process for qualified affordable housing development as part of the city's Proposition 123 commitment.
+  where: Citywide
+  refs:
+  - 6
+  topics:
+  - Housing
+  - Zoning & development
+- title: Transfer of recreation properties and tracts to Castle Pines North Metropolitan District
+  summary: Ordinances 26-08 and 26-09 approve conveying certain recreation properties and tracts of land under an intergovernmental agreement between the city and the Castle Pines North Metropolitan District. They passed first reading Sept. 22 and went to public hearing on second reading Oct. 13.
+  where: Castle Pines North
+  refs:
+  - 5
+  - 6
+  topics:
+  - Land & property
+  - Parks & open space
+- title: Soaring Hawk Park phasing, Coyote Ridge renovation and trail signage
+  summary: The Parks and Recreation Advisory Board reviewed Soaring Hawk Park Phase 1 and phasing options, a Coyote Ridge Park renovation update, and trail signage for 35 trail segments, including kiosks, directional signs and mile markers. Council also awarded a construction contract (Project 2026-PR-003) on Aug. 25.
+  where: Soaring Hawk Park, Coyote Ridge Park and city trails
+  refs:
+  - 2
+  - 3
+  - 4
+  - 7
   topics:
   - Parks & open space
   - Recreation & trails
-- title: Canyonside Preliminary Plan amendment
-  summary: Council held a public hearing on Resolution 26-62 approving the Canyonside Preliminary Plan No. 1, 2nd Amendment (case PFP-2026-001), with staff and applicant presentations.
-  where: Canyonside
-  refs:
-  - 7
-  topics:
-  - Zoning & development
-  - Housing
-- title: Expedited review for affordable housing (Proposition 123)
-  summary: Council considered Resolution 26-63 adopting an expedited review process for qualified affordable housing developments as part of the city's Proposition 123 commitment.
-  where: Citywide
-  refs:
-  - 7
-  topics:
-  - Housing
-  - Zoning & development
-- title: Campaign finance ordinance (Ordinance 26-07)
-  summary: Council reviewed Ordinance 26-07 amending Article 1 of Chapter 2 of the municipal code on campaign finance, with a study session overview and first reading on Sept. 22.
+- title: City council redistricting (Ordinance 26-10)
+  summary: Council amended the boundaries of the city's three districts, with first reading Oct. 13 and a public hearing on second reading Oct. 27.
   where: Citywide
   refs:
   - 6
-  topics:
-  - Elections
-  - Ethics & transparency
-- title: Council redistricting (Ordinance 26-10)
-  summary: Council considered an ordinance amending the boundaries of the city's three districts.
-  where: Citywide
-  refs:
-  - 7
+  - 9
   topics:
   - Elections
   - Government operations
-- title: Coffee shop location and Castle Pines Parkway
-  summary: A resident said she opposes the location of a coffee shop on Castle Pines Parkway and wants the roadway opened.
-  where: Castle Pines Parkway
+- title: Axon camera discussion and I-25 interchange monument
+  summary: The Oct. 27 study session included a discussion of Axon cameras. The regular agenda included a design and engineering services agreement for a northbound interchange monument at Castle Pines Parkway and I-25.
+  where: Castle Pines Parkway at I-25
   refs:
-  - 0
+  - 9
   topics:
-  - Zoning & development
+  - Policing & public safety
   - Roads & traffic
-  public_comment: true
-- title: Snow removal contract with Designscapes
-  summary: Council considered Resolution 26-55 approving a professional services agreement with Designscapes for 2026-2027 snow removal, with an updated bid schedule.
-  where: Citywide
-  refs:
-  - 6
-  topics:
-  - Roads & traffic
-  - Utilities

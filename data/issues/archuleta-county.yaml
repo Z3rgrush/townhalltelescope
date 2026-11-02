@@ -1,70 +1,66 @@
 - title: Archuleta County Comprehensive Plan update
-  summary: Consultant HRGreen is updating the county Comprehensive Plan, including the Strategic Growth and Water Supply chapters. At the Oct. 22 Planning Commission meeting, members asked about outreach (only one public meeting planned before the draft) and state deadlines, and a resident urged the plan to focus on growth and housing costs.
+  summary: Consultant HRGreen briefed the Planning Commission on the purpose, timeline and status of the County's Comprehensive Plan update. Commissioners asked about having only one public outreach meeting and about meeting state deadlines for water supply and strategic growth elements. Resident David Laufer urged that the plan focus on strategizing for growth rather than preservation, citing low incomes compared to housing costs.
   where: Countywide
-  refs:
-  - 12
-  - 13
-  - 14
-  topics:
-  - Zoning & development
-  - Water
-  - Housing
-  public_comment: true
-- title: Housing Action Plan
-  summary: The multijurisdictional housing coordinator, Jeff Sams, is scheduled to brief on the Housing Action Plan at the Aug. 24 and Sept. 28 meetings. Habitat for Humanity's Infill in Trails project also received a county letter of support for an Enterprise Zone contribution.
-  where: Countywide
-  refs:
-  - 1
-  - 3
-  - 8
-  topics:
-  - Housing
-- title: Septic (OWTS) regulation changes and property line setbacks
-  summary: The Board of Health continued discussing on-site wastewater treatment system rules, including reducing property line setbacks of less than 10 feet. A Water Quality Manager presentation was held Aug. 27.
-  where: Countywide
-  refs:
-  - 2
-  topics:
-  - Water
-  - Environment & climate
-  - Health & human services
-- title: 'Planning Commission land use cases: rezonings, B&B and agritourism campground'
-  summary: The Planning Commission is handling the Cloman Blvd administrative rezoning, the Brock rezone at 760 River Forrest Drive, a bed and breakfast conditional use permit at 78 W Golf Place, and the Cerulean Skies agritourism campground request, which had been tabled in July.
-  where: Cloman Blvd; 760 River Forrest Drive; 78 W Golf Place
-  refs:
-  - 12
-  - 14
-  topics:
-  - Zoning & development
-  - Land & property
-  - Tourism & events
-- title: 2027 draft budget and budget-to-actual review
-  summary: Officials scheduled discussion of the draft 2027 budget on Sept. 28 and a budget-to-actual update at the Oct. 26 work session.
-  where: Countywide
-  refs:
-  - 4
-  - 13
-  topics:
-  - Budget & taxes
-- title: Lot consolidations and un-consolidation resolutions
-  summary: Commissioners were asked to approve resolutions to consolidate lots in Pagosa in the Pines Unit 2 and Lake Pagosa Park, and to reverse a consolidation of Lot 26X in Continental Estates 2.
-  where: Pagosa in the Pines, Lake Pagosa Park, Continental Estates 2
-  refs:
-  - 8
-  topics:
-  - Land & property
-  - Zoning & development
-- title: Medical director contract amendment with Axis Health
-  summary: The board was asked to ratify the director's signature on an amendment to the medical director contract with Axis Health Services.
-  refs:
-  - 2
-  topics:
-  - Health & human services
-  - Government operations
-- title: Marijuana business license application
-  summary: A marijuana business license application, with operating and license fees, was on the Oct. 6 agenda.
-  where: Archuleta County
   refs:
   - 5
   topics:
-  - Cannabis & liquor
+  - Zoning & development
+  - Housing
+  - Government operations
+  public_comment: true
+- title: Cloman Blvd administrative rezoning (PLN-REZ-26-050)
+  summary: The Planning Commission heard a staff report from Development Director Eva Kruse on an administrative rezoning request for Cloman Blvd. The documents provided do not state the outcome.
+  where: Cloman Blvd
+  refs:
+  - 5
+  topics:
+  - Zoning & development
+- title: LPEA transmission line to Trujillo Substation (PLN-26-028)
+  summary: La Plata Electric Association applied for a Board Conditional Use Permit for about 2,700 feet of 115 kV double-circuit transmission line (initially operated at 69 kV) with seven poles up to 75 feet tall. It would serve the approved Trujillo Substation, on Agricultural Ranching parcels at 2140 County Road 500. A public hearing was set for the Oct. 27 commissioners meeting.
+  where: 2140 County Road 500
+  refs:
+  - 7
+  topics:
+  - Utilities
+  - Energy
+  - Zoning & development
+- title: Housing Action Plan and multijurisdictional housing coordination
+  summary: The Multijurisdictional Housing Coordinator, Jeff Sams, was scheduled to brief officials on the Housing Action Plan at the Sept. 28 meeting.
+  where: Countywide
+  refs:
+  - 1
+  topics:
+  - Housing
+- title: Upper San Juan watershed and water presentations
+  summary: Officials scheduled briefings from the Upper San Juan Watershed Enhancement Partnership and, at an Oct. 27 work session, a water presentation from the San Juan Water Conservancy District and the Partnership.
+  where: Countywide
+  refs:
+  - 1
+  - 6
+  topics:
+  - Water
+  - Environment & climate
+- title: 2026 flood discussion and 2027 draft budget
+  summary: The Oct. 28 Town agendas include a 2026 flood discussion, a strategic planning retreat report and a draft 2027 budget discussion. The documents give no details of what was decided.
+  where: Townwide
+  refs:
+  - 8
+  - 10
+  topics:
+  - Budget & taxes
+  - Environment & climate
+- title: Transportation grant awards
+  summary: Andrew Mylroie was scheduled to present transportation grant awards at the Oct. 27 commissioners work session.
+  where: Countywide
+  refs:
+  - 6
+  topics:
+  - Roads & traffic
+- title: County fair and rodeo planning
+  summary: A planning committee approved entertainment bookings and accepted an LPEA STEM program, though LPEA cannot give a cash sponsorship this year because of wildfire mitigation. It also worked on a rodeo contractor RFP, beer garden applications with Rotary, and sponsorships, with about $57.1k of a $58.5k contractual services budget estimated.
+  where: Archuleta County fairgrounds
+  refs:
+  - 4
+  topics:
+  - Tourism & events
+  - Recreation & trails

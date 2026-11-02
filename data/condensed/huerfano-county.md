@@ -1,106 +1,6 @@
 # huerfano-county
 
-## [huerfano-county#0] 2026-07-28 | County Revitalization Authority | agenda
-- Commissioners Meeting Room 401 Main Street, Suite 309, Walsenburg, CO 81089
-- 4. Agenda Approval
-- 5. Approval of Minutes
-- b. Gardner Main Street Update
-- c. Workshop with Taxing Entities
-- d. Plan Adoption Timeline
-- 8. Discussions
-- a. Housing Revolving Loan Fund Programs
-- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
-
-## [huerfano-county#1] 2026-07-28 | County Revitalization Authority | agenda
-- Commissioners Meeting Room 401 Main Street, Suite 309, Walsenburg, CO 81089
-- 4. Agenda Approval
-- 5. Approval of Minutes
-- b. Gardner Main Street Update
-- c. Workshop with Taxing Entities
-- d. Plan Adoption Timeline
-- 8. Discussions
-- a. Housing Revolving Loan Fund Programs
-- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
-- Commissioner's Meeting Room 401 Main Street, Suite 309, Walsenburg, CO 81089
-- Jim Chamberlain moved to approve the agenda. Mitchell Wardell seconded
-- Mitchell Wardell moved to approve the minutes as presented. Jim Chamberlain seconded
-- a. Rio Cucharas Inn Project Agreement to Negotiate
-- Lola Spradley moved to approve the Rio Cucharas Inn Agreement to negotiate. Jim Chamberlain
-- b. Next Steps on the Rio Cucharas Inn Project
-- c. Update on Gardner Project
-- Carl gave an update on the Gardner Project. Bruce Roscoe, the County Engineer, is working on
-- Directed Spending Award through USDA
-- a. Outreach to Taxing Entities
-- Paul Benedetti presented to the Huerfano County Water Conservancy District. The District Board
-- approved joining the authority, had some questions their Counsel will ask Paul. Paul is going to
-- present to the Hospital District on Thursday. We need to engage with the Fire Districts, the Library,
-- Carl and Lola have been discussing ways to fund a shared position with HCED and the CRA. The
-- position would have to be well defined. For Housing Coordination, Stephen Cordova and Total
-- Concept Housing has volunteered that they can perform that role
-
-## [huerfano-county#2] 2026-07-28 | Board of County Commissioners | agenda
-- Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
-- 3. Agenda Approval
-- items. These items are generally perceived as non-controversial and can be approved by a
-- 5. Appointments
-- a. Green Thumb Initiative Letter of Support Request
-- 6. Permits, Licenses, and Public Hearings
-- a. Permit #ROW-26-000189 Highline Fiber Optic
-- The public is welcome to comment on action items when the Chair calls for discussion of
-- an item. Time for discussion will be limited
-- a. Resolution #26-33 Updating Chapter 5 of the Huerfano County Code to Include the
-- b. Ordinance #26-04 Regulating Camping in Huerfano County
-- f. American Legion Post 16 Rental Agreement for the Huerfano County Community
-- 9. Public Comment
-- Each person will have up to three minutes to present public comment. Please address the
-- views and the Board generally does not engage in back-and-forth discussion or respond to
-- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
-
-## [huerfano-county#3] 2026-07-28 | Board of County Commissioners | agenda
-- Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
-- 3. Agenda Approval
-- items. These items are generally perceived as non-controversial and can be approved by a
-- 5. Appointments
-- a. Green Thumb Initiative Letter of Support Request
-- 6. Permits, Licenses, and Public Hearings
-- a. Permit #ROW-26-000189 Highline Fiber Optic
-- The public is welcome to comment on action items when the Chair calls for discussion of
-- an item. Time for discussion will be limited
-- a. Resolution #26-33 Updating Chapter 5 of the Huerfano County Code to Include the
-- b. Ordinance #26-04 Regulating Camping in Huerfano County
-- f. American Legion Post 16 Rental Agreement for the Huerfano County Community
-- 9. Public Comment
-- Each person will have up to three minutes to present public comment. Please address the
-- views and the Board generally does not engage in back-and-forth discussion or respond to
-- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
-- Motion to approve the agenda
-- Motion to approve the consent agenda
-- c. Contract to Buy and Sell Lot 202 Rio Cucharas
-- a. Bulk Water Permit #Bulk-26-000185 for David Howard
-- Motion to approve Bulk Water Permit #Bulk-26-000185 for David Howard with
-- the conditions that a valid camping permit is held and a building permit is
-- Discussion: Ryan Gies, County Citizen asked clarifying questions regarding waste
-- disposal and the camping permit
-- a. Resolution #26-32: Appointing Christy Flattery to the Tourism Board
-- Motion to approve Resolution #26-32, Appointing Christy Flattery to the
-- Motion to approve the July 2026 Vendor Run in the amount of $312,288.04
-- Motion to approve the July 2026 DHS Vendor Run $60,734.18
-- 1. Naomie Schware, county citizen requested a road name change for County Road
-- 2. Ryan Gies, county citizen discussed his concerns with the Spanish peaks airfield
-- marketing presentation from the 07/14/26 meeting
-- on the mora grant to the BOCC
-- Carl Young, County Administrator presented current grants and open positions
-- 401 Main Street, Suite #201 Walsenburg, CO 81089
-- A RESOLUTION UPDATING CHAPTER 5 OF THE HUERFANO COUNTY
-- “Board”) of Huerfano County, Colorado (the “County”) adopted Ordinance 26-03 which
-- amended Chapter 7 of the Huerfano County Code (the “code”) to update the County’s
-- been exercised through resolution or motion duly adopted rather than through an
-- ordinance; and,
-- Chapters of the Code are adopted by either Ordinance or by Resolution and not a
-- Code is hereby amended by adding an article to be numbered VII, which reads as
-- authority and the board of review, which oversee and administrate portions of the county
-
-## [huerfano-county#4] 2026-08-11 | Board of County Commissioners | agenda
+## [huerfano-county#0] 2026-08-11 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -127,7 +27,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#5] 2026-08-11 | Board of County Commissioners | agenda
+## [huerfano-county#1] 2026-08-11 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -170,7 +70,7 @@
 - Motion to approve the Memorandum of Understanding for Family Engagement
 - Motion to approve Requisition #26-00061 for Selso Roybal for the renovation of
 
-## [huerfano-county#6] 2026-08-12 | Huerfano County Tourism Board | agenda
+## [huerfano-county#2] 2026-08-12 | Huerfano County Tourism Board | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 2. Approval of Minutes
 - a. Sales and Lodging Tax Trends
@@ -183,7 +83,7 @@
 - a. 2027 Budget Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#7] 2026-08-12 | Huerfano County Tourism Board | agenda
+## [huerfano-county#3] 2026-08-12 | Huerfano County Tourism Board | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 2. Approval of Minutes
 - a. Sales and Lodging Tax Trends
@@ -229,12 +129,12 @@
 - Total Budget
 - 0.00CONTRACT PAY/NO BENEFITS 0.000.00106-5030-0000-51012 15,000.0015,000.00 15,000.00 100.00 %
 
-## [huerfano-county#8] 2026-08-13 | Planning Commission | agenda
+## [huerfano-county#4] 2026-08-13 | Planning Commission | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 7. Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#9] 2026-08-13 | Planning Commission | agenda
+## [huerfano-county#5] 2026-08-13 | Planning Commission | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 7. Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
@@ -245,7 +145,7 @@
 - Approved with the recommendation to go to the Huerfano County Board of County Commissioners
 - permits for any structures being utilized during events. Lonnie Brown moved to Approve the
 
-## [huerfano-county#10] 2026-08-18 | Board of County Commissioners | agenda
+## [huerfano-county#6] 2026-08-18 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 9:00 AM - Road and Bridge Workshop
 - 3. Agenda Approval
@@ -265,7 +165,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#11] 2026-08-25 | County Revitalization Authority | agenda
+## [huerfano-county#7] 2026-08-25 | County Revitalization Authority | agenda
 - Commissioner's Meeting Room - 401 Main Street, Suite 301, Walsenburg, CO 81089
 - 4. Agenda Approval
 - 5. Approval of Minutes
@@ -275,7 +175,7 @@
 - b. Plan Adoption
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#12] 2026-08-25 | Board of County Commissioners | agenda
+## [huerfano-county#8] 2026-08-25 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -297,7 +197,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#13] 2026-08-25 | Board of County Commissioners | agenda
+## [huerfano-county#9] 2026-08-25 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -341,7 +241,7 @@
 - Motion to approve the KLJ Contract Amendment: Huerfano River Bridge
 - Amendment 5 Additional Closeout Budget adjusting the agreement amount from
 
-## [huerfano-county#14] 2026-08-26 | Raymond Aguirre Community Center Advisory Board | minutes
+## [huerfano-county#10] 2026-08-26 | Raymond Aguirre Community Center Advisory Board | minutes
 - 2. Agenda Approval
 - Mickey made a motion to amend the agenda. Lisa seconded. Will add Safe Streets to
 - 3. Approval of Minutes
@@ -356,7 +256,7 @@
 - highway projects with no luck. Carl also mentions that the model traffic code has
 - funding. Wardell explains the 10-year plan does show shoulder widening and
 
-## [huerfano-county#15] 2026-08-26 | Advisory Boards | agenda
+## [huerfano-county#11] 2026-08-26 | Advisory Boards | agenda
 - Spanish Peaks Airfield County Road 101, Walsenburg, CO 80189
 - 2. Agenda Approval
 - 3. Approval of Minutes
@@ -369,7 +269,7 @@
 - County Road 101
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#16] 2026-08-26 | Advisory Boards | agenda
+## [huerfano-county#12] 2026-08-26 | Advisory Boards | agenda
 - Spanish Peaks Airfield County Road 101, Walsenburg, CO 80189
 - 2. Agenda Approval
 - 3. Approval of Minutes
@@ -404,7 +304,7 @@
 - Street Address 1: _____________________________________________
 - Street Address 2: _____________________________________________
 
-## [huerfano-county#17] 2026-09-01 | Board of County Commissioners | agenda
+## [huerfano-county#13] 2026-09-01 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -427,7 +327,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#18] 2026-09-01 | Board of County Commissioners | agenda
+## [huerfano-county#14] 2026-09-01 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -471,14 +371,14 @@
 - Motion to approve the August 2026 DHS Vendor Run in the amount of
 - d. Moving Huerfano County from Stage 2 Fire Restrictions down to Stage 1 Fire Restrictions
 
-## [huerfano-county#19] 2026-09-03 | Huerfano County Building Authority Board | agenda
+## [huerfano-county#15] 2026-09-03 | Huerfano County Building Authority Board | agenda
 - Commissioners Meeting Room - 401 Main Street, Suite 309, Walsenburg, CO 81089
 - 4. Appointments
 - 7. Discussions
 - a. Pre-Approved House Plans
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#20] 2026-09-03 | Huerfano County Building Authority Board | agenda
+## [huerfano-county#16] 2026-09-03 | Huerfano County Building Authority Board | agenda
 - Commissioners Meeting Room - 401 Main Street, Suite 309, Walsenburg, CO 81089
 - 4. Appointments
 - 7. Discussions
@@ -486,7 +386,7 @@
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 - TINY HOME - FLOOR PLAN OPTIONS
 
-## [huerfano-county#21] 2026-09-09 | Huerfano County Tourism Board | agenda
+## [huerfano-county#17] 2026-09-09 | Huerfano County Tourism Board | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 2. Approval of Minutes
 - a. Sales and Lodging Tax Trends
@@ -500,7 +400,7 @@
 - 401 Main Street, Walsenburg CO 81089
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#22] 2026-09-09 | Huerfano County Tourism Board | agenda
+## [huerfano-county#18] 2026-09-09 | Huerfano County Tourism Board | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 2. Approval of Minutes
 - a. Sales and Lodging Tax Trends
@@ -557,19 +457,19 @@
 - 2027 Marketing Plan and Budget delivered
 - Supplemental plan and budget documents
 
-## [huerfano-county#23] 2026-09-10 | Planning Commission | agenda
+## [huerfano-county#19] 2026-09-10 | Planning Commission | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - a. Public Hearing LU-26-000154 CUP GroAway, LLC
 - 7. Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#24] 2026-09-10 | Planning Commission | agenda
+## [huerfano-county#20] 2026-09-10 | Planning Commission | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - a. Public Hearing LU-26-000154 CUP GroAway, LLC
 - 7. Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#25] 2026-09-15 | Board of County Commissioners | agenda
+## [huerfano-county#21] 2026-09-15 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 9:00 AM - Road and Bridge Workshop
 - 3. Agenda Approval
@@ -589,7 +489,7 @@
 - c. Road and Bridge Superintendent
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#26] 2026-09-15 | Board of County Commissioners | agenda
+## [huerfano-county#22] 2026-09-15 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 9:00 AM - Road and Bridge Workshop
 - 3. Agenda Approval
@@ -634,7 +534,7 @@
 - Motion to approve Ordinance #26-04-Camping Ordinance Second Reading
 - f. Tuition Assistance Request for Billy Laporte Huerfano County Sheriff's Office
 
-## [huerfano-county#27] 2026-09-17 | Huerfano County Building Authority Board | agenda
+## [huerfano-county#23] 2026-09-17 | Huerfano County Building Authority Board | agenda
 - Commissioners Meeting Room - 401 Main Street, Suite 309, Walsenburg, CO 81089
 - 4. Appointments
 - a. Moen Building Permit 20-087
@@ -642,7 +542,7 @@
 - 7. Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#28] 2026-09-17 | Huerfano County Building Authority Board | agenda
+## [huerfano-county#24] 2026-09-17 | Huerfano County Building Authority Board | agenda
 - Commissioners Meeting Room - 401 Main Street, Suite 309, Walsenburg, CO 81089
 - 4. Appointments
 - a. Moen Building Permit 20-087
@@ -671,7 +571,7 @@
 - TINY HOME - FLOOR PLAN
 - 2/2 TRADITIONAL - FLOOR PLAN
 
-## [huerfano-county#29] 2026-09-22 | Board of County Commissioners | agenda
+## [huerfano-county#25] 2026-09-22 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -692,7 +592,7 @@
 - a. 11:30AM - Lunch Workshop with U.S. Economic Development Administration
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#30] 2026-09-22 | Board of County Commissioners | agenda
+## [huerfano-county#26] 2026-09-22 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -737,7 +637,7 @@
 - THE GARDNER PUBLIC IMPROVEMENT DISTRICT
 - A RESOLUTION AUTHORIZING LEASE-PURCHASE FINANCING FOR THE
 
-## [huerfano-county#31] 2026-09-23 | Raymond Aguirre Community Center Advisory Board | minutes
+## [huerfano-county#27] 2026-09-23 | Raymond Aguirre Community Center Advisory Board | minutes
 - 28 County Road 632, Gardner CO 81040
 - 2. Agenda Approval
 - Carl mentioned he would like to amend agenda
@@ -754,7 +654,7 @@
 - agreed that we will have classes sign an updated rental agreement and contract
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#32] 2026-09-29 | Board of County Commissioners | agenda
+## [huerfano-county#28] 2026-09-29 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -776,7 +676,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#33] 2026-09-29 | Board of County Commissioners | agenda
+## [huerfano-county#29] 2026-09-29 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -801,7 +701,7 @@
 - Human Resources Officer Dat Budget Officer D
 - Human Resources Officer Date Budget Officer Date
 
-## [huerfano-county#34] 2026-10-06 | Board of County Commissioners | agenda
+## [huerfano-county#30] 2026-10-06 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -820,7 +720,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#35] 2026-10-06 | Board of County Commissioners | agenda
+## [huerfano-county#31] 2026-10-06 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -863,7 +763,7 @@
 - from the sale of tax credits
 - d. Termination of the Lease Agreement between Huerfano County and the Huerfano
 
-## [huerfano-county#36] 2026-10-08 | Planning Commission | agenda
+## [huerfano-county#32] 2026-10-08 | Planning Commission | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - Materials from the 09 10 2026 Hearing
 - Public Comment Received After Public Hearing
@@ -871,7 +771,7 @@
 - 7. Discussions
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#37] 2026-10-08 | Planning Commission | agenda
+## [huerfano-county#33] 2026-10-08 | Planning Commission | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - Materials from the 09 10 2026 Hearing
 - Public Comment Received After Public Hearing
@@ -894,7 +794,7 @@
 - 1. Approval of any conditional use without any special conditions
 - 2. Conditional Approval with a description of the special conditions for each conditional use
 
-## [huerfano-county#38] 2026-10-13 | Board of County Commissioners | agenda
+## [huerfano-county#34] 2026-10-13 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -912,7 +812,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#39] 2026-10-13 | Board of County Commissioners | agenda
+## [huerfano-county#35] 2026-10-13 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 3. Agenda Approval
 - items. These items are generally perceived as non-controversial and can be approved by a
@@ -958,7 +858,7 @@
 - Motion to approve Resolution #26-45-Adopting a Land Banking, Acquisition and
 - Motion to approve the Change Order #2 for Mckinstry for the Fox Theater in
 
-## [huerfano-county#40] 2026-10-14 | Huerfano County Tourism Board | agenda
+## [huerfano-county#36] 2026-10-14 | Huerfano County Tourism Board | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 2. Approval of Minutes
 - a. September Lodging Tax Report
@@ -972,7 +872,7 @@
 - b. GovCon Discussion and Follow-Up
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#41] 2026-10-14 | Huerfano County Tourism Board | agenda
+## [huerfano-county#37] 2026-10-14 | Huerfano County Tourism Board | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 2. Approval of Minutes
 - a. September Lodging Tax Report
@@ -1016,14 +916,14 @@
 - marketing plan to benefit Huerfano County and Spanish Peaks Country as set forth in Colorado Revised
 - Statutes 30-11-107.5 “Lodging tax for the advertising and marketing of local tourism” and Resolution
 
-## [huerfano-county#42] 2026-10-15 | Board of County Commissioners | agenda
+## [huerfano-county#38] 2026-10-15 | Board of County Commissioners | agenda
 - Huerfano County Community Center 928 Russell Street, Walsenburg, CO 81989
 - 3. Agenda Approval
 - 4. Appointments
 - a. Preliminary Balanced Budget Presentation
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#43] 2026-10-15 | Board of County Commissioners | agenda
+## [huerfano-county#39] 2026-10-15 | Board of County Commissioners | agenda
 - Huerfano County Community Center 928 Russell Street, Walsenburg, CO 81989
 - 3. Agenda Approval
 - 4. Appointments
@@ -1061,7 +961,7 @@
 - employee salaries to market rates in addition to the cost-of-living increase. In these
 - departments I have capped the combined increase at $4,000. This preliminary budget
 
-## [huerfano-county#44] 2026-10-20 | Board of County Commissioners | agenda
+## [huerfano-county#40] 2026-10-20 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 9:00 AM - Road and Bridge Workshop
 - 3. Agenda Approval
@@ -1082,7 +982,7 @@
 - views and the Board generally does not engage in back-and-forth discussion or respond to
 - 719-738-3000 x200. Submit your request as early as possible, and no later than two business
 
-## [huerfano-county#45] 2026-10-20 | Board of County Commissioners | agenda
+## [huerfano-county#41] 2026-10-20 | Board of County Commissioners | agenda
 - Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
 - 9:00 AM - Road and Bridge Workshop
 - 3. Agenda Approval
@@ -1130,14 +1030,14 @@
 - WHEREAS, Bob Kennemer has submitted a letter of interest and has demonstrated their
 - WHEREAS, the Board of County Commissioners desires to appoint Bob Kennemer to
 
-## [huerfano-county#46] 2026-10-22 | Planning Commission | agenda
+## [huerfano-county#42] 2026-10-22 | Planning Commission | agenda
 - 401 Main Street Suite 309, Walsenburg, Colorado 81089
 - 7. Discussions
 - Outbursts and interruptions from any person in the hearing room, including shouting, clapping,
 - speaking into the microphone at the podium after they have identified themselves on the record
 - to our programs, activities, and services. To request an Americans with Disability Act (ADA)
 
-## [huerfano-county#47] 2026-10-22 | Planning Commission | agenda
+## [huerfano-county#43] 2026-10-22 | Planning Commission | agenda
 - 401 Main Street Suite 309, Walsenburg, Colorado 81089
 - 7. Discussions
 - Outbursts and interruptions from any person in the hearing room, including shouting, clapping,
@@ -1166,3 +1066,147 @@
 - application. Each conditional use may be approved, conditionally approved, or denied separately and
 - 1. Approval of any conditional use without any special conditions
 - 2. Conditional Approval with a description of the special conditions for each conditional use
+
+## [huerfano-county#44] 2026-10-27 | Board of County Commissioners | agenda
+- Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
+- 9:00 AM - Workshop with San Luis Valley Development Resources Group
+- 3. Agenda Approval
+- items. These items are generally perceived as non-controversial and can be approved by a
+- 5. Appointments
+- a. Two Peaks Fitness Quarterly Presentation
+- 6. Permits, Licenses, and Public Hearings
+- a. Bulk Water Permit #Bulk-26-000280 for Jessie Maes for parcel #28930
+- b. Conditional Use Permit LU-26-000154-GroAway
+- The public is welcome to comment on action items when the Chair calls for discussion of
+- an item. Time for discussion will be limited
+- g. Greywater Reuse Program Report
+- b. Spanish Peaks Veterans Hospital Donation Request
+- c. Lewis "Beaver" Edmondson Resignation Huerfano County Planning and Zoning
+- 9. Public Comment
+- Each person will have up to three minutes to present public comment. Please address the
+- views and the Board generally does not engage in back-and-forth discussion or respond to
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+
+## [huerfano-county#45] 2026-10-27 | Board of County Commissioners | agenda
+- Commissioners Meeting Room - 401 Main Street Suite 309, Walsenburg, CO 81089
+- 9:00 AM - Workshop with San Luis Valley Development Resources Group
+- 3. Agenda Approval
+- items. These items are generally perceived as non-controversial and can be approved by a
+- 5. Appointments
+- a. Two Peaks Fitness Quarterly Presentation
+- 6. Permits, Licenses, and Public Hearings
+- a. Bulk Water Permit #Bulk-26-000280 for Jessie Maes for parcel #28930
+- b. Conditional Use Permit LU-26-000154-GroAway
+- The public is welcome to comment on action items when the Chair calls for discussion of
+- an item. Time for discussion will be limited
+- g. Greywater Reuse Program Report
+- b. Spanish Peaks Veterans Hospital Donation Request
+- c. Lewis "Beaver" Edmondson Resignation Huerfano County Planning and Zoning
+- 9. Public Comment
+- Each person will have up to three minutes to present public comment. Please address the
+- views and the Board generally does not engage in back-and-forth discussion or respond to
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+- Motion to approve the agenda
+- Motion to approve the consent agenda
+- a. Moving the Needle Award FY25-26
+- Ray Odum, Division of Veterans Affairs presented the Moving The Needle Award to
+- a. Bulk Water Permit #Bulk-26-000277 for Eric Keto for parcel #20461
+- Motion to approve Bulk Water Permit #Bulk-26-000277 for Eric Keto for parcel
+- a. Resolution #26-47 A Resolution Appointing Bob Kennemer to the Tourism Board
+- Motion to approve Resolution #26-47 A Resolution Appointing Bob Kennemer to
+- b. Resolution #26-48-Fox Theatre Walsenburg Guaranty
+- Motion to approve Resolution #26-48-Fox Theatre Walsenburg Guaranty
+- c. Community Wildfire Protection Plan
+- Motion to approve the Community Wildfire Protection Plan for 2026
+- Discussion: The Community Wildfire Protection Plan for 2026 was presented by
+- d. CWDG Subaward Amended Agreement
+- Motion to approve the Community Wildfire Defense Grant Subaward Amended
+- Agreement as presented
+- Discussion: The amendment adjusts the term length of the Community Wildfire
+- Protection Plan grant project and updates the agreement from naming the
+- e. TANF MOU Amendment #1
+- Motion to approve the Temporary Assistance for Needy Families Memorandum
+- Of Understanding Amendment #1 for the Huerfano County Department of
+- Motion to approve October 2026 Prepay Vendor Run in the amount of $2,687.80
+- The Needle Award and the duties of the new Veterans Service Officer Elisha
+- Budget Officer Date
+- 401 Main Street
+- The Planning Commission held a public hearing on Sept. 10, which was continued twice to October 8
+
+## [huerfano-county#46] 2026-10-28 | Raymond Aguirre Community Center Advisory Board | minutes
+- 28 County Road 632, Gardner CO 81040
+- 2. Agenda Approval
+- Carl mentioned he would like to amend agenda
+- Dale Lyons moved to Amend. Myra Trujillo seconded
+- Dale Lyons moved to Approve. Myra Trujillo seconded
+- 3. Approval of Minutes
+- Dale Lyons moved to Amend. Mickey D'Ambrosia seconded
+- Gardner road and bridge
+- water system before replanting. Mickey asks if the county has thought about hiring a part time
+- employee to keep up with watering and cleaning. Lester explains that he has and would like to try to
+- budget for that potion in the future but for now he and Celena have a good system in place
+- contracts that would state they are welcome to have their classes held, as long as they keep
+- true to the contract. She also stated she would like to have back-up options for classes in
+- agreed that we will have classes sign an updated rental agreement and contract
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+
+## [huerfano-county#47] 2026-10-28 | Advisory Boards | agenda
+- Spanish Peaks Airfield County Road 101, Walsenburg, CO 80189
+- 2. Agenda Approval
+- 3. Approval of Minutes
+- d. Airport Budget
+- a. Turnaround Taxiway Project
+- b. Capital Improvement Plan
+- a. Snow Removal Budget
+- 7. Discussions
+- a. Meeting Calendar Discussion
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+
+## [huerfano-county#48] 2026-10-28 | Advisory Boards | agenda
+- Spanish Peaks Airfield County Road 101, Walsenburg, CO 80189
+- 2. Agenda Approval
+- 3. Approval of Minutes
+- d. Airport Budget
+- a. Turnaround Taxiway Project
+- b. Capital Improvement Plan
+- a. Snow Removal Budget
+- 7. Discussions
+- a. Meeting Calendar Discussion
+- 719-738-3000 x200. Submit your request as early as possible, and no later than two business
+- Approve agenda Ken motion, Bill second, all vote yes
+- Approve minutes Ken motion, Bill second, all vote yes
+- how to get the revenues into the budget as currently it is in the red
+- Last year’s budget was to $1.2 mil, came in under the budget
+- Capital improvement plan: presented by Jake Hoban
+- If you have further project ideas bring them to Jake through Carl or Dustin
+- Land Acquisition-> FAA and masterplan advised us to acquire land for restricted use
+- Mainly for how businesses operate/ commercial operations
+- Tax assessments
+- Frustration with most recent tax assessments
+- Mike would like a meeting with Carl and Elisha to discuss how to get
+- away from commercial tax assessment
+- Budget Report
+- Total Budget
+- Budget Adjustments
+- 01/01/20262026 Budget Adjustment 0.00
+- MAINTENANCE CONTRACT 14,000.00 16,974.00 -2,974.00 -21.24 %0.00101-3060-0000-51014 14,000.00
+- SEWER/WATER/TRASH 0.00 204.00 -204.00 0.00 %68.00101-3060-0000-51032 0.00
+- Budget Report For Fiscal: 2026 Period Ending: 10/31/2026
+- CREDIT CARD FEES 200.00 139.28 60.72 30.36 %0.00101-3060-0000-51742 200.00
+- CARES AIRPORT GRANT 0.00 2,820.00 -2,820.00 0.00 %0.00101-3060-0000-51836 0.00
+- U:\$H Drive Data\_Airports\_Airport CIP - Grant\SPANISH PEAKS\FY 2027\0_CAD\FY27 4V1 - CIP Layout.dwg 10/5/2026 11:30:41 AM
+- 2027 - 2036 CIP PROJECTS
+- 2033 TAXIWAY/APRON PAVEMENT MAINTENANCE
+- 2036 AIRPORT MASTER PLAN UPDATE
+- LT EXPAND AIRCRAFT PARKING APRON - PHASE 1
+- LT PAVE ADDITIONAL AUTOMOBILE PARKING AREA
+- LT RELOCATE AIRPORT ACCESS ROAD
+- LT EXPAND AIRCRAFT PARKING APRON & CONSTRUCT CONCRETE
+- LT CONSTRUCT HELICOPTER PARKING PADS
+- LT CONSTRUCT PARALLEL TAXIWAY AND CONNECTORS TO
+- TURNAROUND TAXIWAY
+- Airport Name Spanish Peaks Regional Airport Airport Identifier 4V1
+- Address County Road 101, Walsenberg, CO 81089 Airport Planner
+- Year Project FAA Discretionary FAA State Apportionment FAA Entitlements FAA BIL Colorado Discretionary Local Passenger Facility Charge Total Funding Project Cost Estimate Comments
+- 2032 Rehabilitate Runway 9/27 - Mill, Overlay and Groove Design & Bidding $0.00 $0.00 $350,000.00 $0.00 $19,444.00 $19,444.00 $0.00 $388,888.00 $386,100.00 Transfer program. $90 k of 2030 ENT, 2031 ENT, $110k of 2032 ENT
+- 2033 Taxiway & Apron Pavement Maintenance - Crack Seal & Seal Coat $0.00 $0.00 $0.00 $0.00 $245,000.00 $27,222.00 $1.0 0 $272,222.00 $269,300.00 $245k CDAG

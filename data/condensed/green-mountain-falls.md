@@ -1,12 +1,6 @@
 # green-mountain-falls
 
-## [green-mountain-falls#0] 2025-10-28 | City Council | minutes
-- 5. Public Comment
-- 7) DISCUSSION ITEMS
-- Town Manager Caleb Patterson presented the 2026 Budget to the Board members. A discussion
-- 9) PUBLIC COMMENT
-
-## [green-mountain-falls#1] 2025-11-04 | City Council | agenda
+## [green-mountain-falls#0] 2025-11-04 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
 - 1. COLO Trust Rate Sheet
@@ -15,7 +9,7 @@
 - 7. DISCUSSION ITEMS
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#2] 2025-12-02 | City Council | agenda
+## [green-mountain-falls#1] 2025-12-02 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - A) Discussion on Agenda items A-F
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
@@ -32,11 +26,11 @@
 - B) 2026 Drainage Improvements Packet
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#3] 2025-12-10 | City Council | agenda
+## [green-mountain-falls#2] 2025-12-10 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - A) Resolution 2025-10 2025 Mill Levy Certificate
 
-## [green-mountain-falls#4] 2026-01-06 | City Council | minutes
+## [green-mountain-falls#3] 2026-01-06 | City Council | minutes
 - Mayor Dixon made a motion to have the agenda amended to move 8a under correspondence to
 - contract with Johnstone again which will cost roughly $96,000.00 and it will be the last 2 weeks of
 - May. Will be focusing on the parking ne ar the Blue Moose, re-doing the Lake Street parking which
@@ -58,10 +52,10 @@
 - would be looked at for Maple Street parking survey. The consensus was to go ahead and pursue the
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#5] 2026-01-20 | City Council | agenda
+## [green-mountain-falls#4] 2026-01-20 | City Council | agenda
 - 10615 Green Mountain Falls Road
 
-## [green-mountain-falls#6] 2026-02-03 | City Council | minutes
+## [green-mountain-falls#5] 2026-02-03 | City Council | minutes
 - Mayor Dixon made a motion to have Business Item B & C to be discussed in 7B. Trustee Bell seconded
 - Park restrooms will be done in March. The Ballot box between the Town and El Paso will be getting
 - 5. Public Comment
@@ -87,7 +81,7 @@
 - maximum sentences for non-felony offenses. In particular, the court considered whether home rule
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#7] 2026-02-12 | City Council | agenda
+## [green-mountain-falls#6] 2026-02-12 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
 - A.) Resolution 2026-02 – Repealing Resolution 2026-01
@@ -95,14 +89,14 @@
 - 7. DISCUSSION ITEMS
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#8] 2026-02-17 | City Council | minutes
+## [green-mountain-falls#7] 2026-02-17 | City Council | minutes
 - 5. Public Comment
 - A) Resolution 2026-02 – Repealing Resolution 2026-01. Motion carried with all in favor
 - matters that may be subject to negotiations, develop a strategy for negotiations, and/or
 - ) DISCUSSION ITEMS
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#9] 2026-03-03 | City Council | minutes
+## [green-mountain-falls#8] 2026-03-03 | City Council | minutes
 - Mayor Dixon made an addition to add 6f to Business Items for Appointment of Planning
 - Trustee Ives brought up an issue about the parking near the Trail Heads and if it is possible to get
 - been 50 to ns of road base set out and 4 potholes filled. Town Clerk Woods reported that
@@ -121,7 +115,7 @@
 - Downtown/townwide Sewage, new pool park and playground updates
 - Ann Esch – 6830 Colorado Street. Wanted to Welcome the two new Planning Commissioners
 
-## [green-mountain-falls#10] 2026-03-31 | City Council | minutes
+## [green-mountain-falls#9] 2026-03-31 | City Council | minutes
 - 5. Public Comment
 - Rocco Blasi at 10955 Belvidere Ave. feels that the penalties associated with the Colorado Wildfire
 - a. Introduction of Ordinance 2026- 05 – Mayor Dixon intro duced the new Ordinance
@@ -131,7 +125,7 @@
 - Town Manager to respond to the online request with the a ction memo that was created with
 - ) DISCUSSION ITEMS
 
-## [green-mountain-falls#11] 2026-04-07 | City Council | minutes
+## [green-mountain-falls#10] 2026-04-07 | City Council | minutes
 - Minutes from the 2026-03-03 and 2026-03-31. Motion to approve both set of minutes by Trustee
 - Mayor Dixon repo rted that on April 8th the Wildfire Resiliency code will be published in the paper,
 - which means 15 days after that a Public Hearing can be held which puts that on April 23 rd. Public
@@ -159,20 +153,20 @@
 - announcement for a feasibility study for wastewater
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#12] 2026-04-20 | City Council | agenda
+## [green-mountain-falls#11] 2026-04-20 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
 - A) Executive Session concerning the purchase, acquisition, lease, transfer, or sale of
 - 7. DISCUSSION ITEMS
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#13] 2026-04-23 | City Council | minutes
+## [green-mountain-falls#12] 2026-04-23 | City Council | minutes
 - 5. Public Comment
 - A) Public Hearing regarding Wildfire Resiliency Code – The public hearing started at 6:03pm. A
 - discussion was had. The public hearing ended at 6:53pm
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#14] 2026-05-05 | City Council | minutes
+## [green-mountain-falls#13] 2026-05-05 | City Council | minutes
 - Patterson reported that he has been working on updating the 3 -mile plan that was from 1997 in
 - 5. Public Comment
 - comp plan on May 19th at 6:00pm. Rocco also stated how currently 2 positions are still open for the
@@ -190,7 +184,7 @@
 - 7) DISCUSSION ITEMS
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#15] 2026-06-02 | City Council | minutes
+## [green-mountain-falls#14] 2026-06-02 | City Council | minutes
 - Minutes from the 2026-04-07, 2026 -04-23 and 2026 -05-05. Motion to approve all minutes by
 - Trustee Bell mentioned how Fire Mitigation has had a very busy month. Trustee Bell also brought up
 - how other states and counties are starting to implement an early fire detection system to help catch
@@ -221,7 +215,7 @@
 - Comprehensive Plan and how it is the Board’s job to understand and implement the goals from the
 - Comprehensive Plan
 
-## [green-mountain-falls#16] 2026-07-07 | City Council | agenda
+## [green-mountain-falls#15] 2026-07-07 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - A) Executive Session concerning the purchase, acquisition, lease, transfer, or sale
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
@@ -230,12 +224,12 @@
 - 7. DISCUSSION ITEMS
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#17] 2026-07-17 | City Council | minutes
+## [green-mountain-falls#16] 2026-07-17 | City Council | minutes
 - 5. Public Comment
 - 7) DISCUSSION ITEMS
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#18] 2026-08-04 | City Council | minutes
+## [green-mountain-falls#17] 2026-08-04 | City Council | minutes
 - Minutes from the 2026-06-02, 2026-07-07 and 2026-07-17. Motion to approve all minutes with the
 - Columbine Pour House got their liquor license approved. Town Manager Caleb Patterson reported
 - that he was in the process of applying for a grant on behalf of the Marshal’s office to replace a patrol
@@ -255,13 +249,13 @@
 - session regarding Budgets
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#19] 2026-08-18 | City Council | minutes
+## [green-mountain-falls#18] 2026-08-18 | City Council | minutes
 - 5. Public Comment
 - a) NDME Grant Application- FMAC Chair Paul Yingling spoke about the NDME Grant and what
 - 7) DISCUSSION ITEMS
 - 9) PUBLIC COMMENT
 
-## [green-mountain-falls#20] 2026-09-01 | City Council | agenda
+## [green-mountain-falls#19] 2026-09-01 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
 - A) Emma Woods Certificate
@@ -271,11 +265,11 @@
 - 7. DISCUSSION ITEMS
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#21] 2026-09-22 | City Council | agenda
+## [green-mountain-falls#20] 2026-09-22 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - C) 2026 GMF Comprehensive Plan Addendum
 
-## [green-mountain-falls#22] 2026-10-06 | City Council | agenda
+## [green-mountain-falls#21] 2026-10-06 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - 5. PUBLIC COMMENT: 3 Minutes per speaker
 - A) Resolution 2026-13 October Art Month
@@ -286,6 +280,6 @@
 - H. CORA Request / Meeting Materials
 - 9. PUBLIC COMMENT: 3 Minutes per Speaker
 
-## [green-mountain-falls#23] 2026-10-08 | City Council | agenda
+## [green-mountain-falls#22] 2026-10-08 | City Council | agenda
 - 10615 Green Mountain Falls Road
 - 1. 2027 Draft Budget

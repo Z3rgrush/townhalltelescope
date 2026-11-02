@@ -2,41 +2,41 @@
  "adams-county": {
   "name": "Adams County",
   "adapter": "primegov",
-  "meetings": 40,
-  "documents": 40,
-  "ok": 40,
+  "meetings": 41,
+  "documents": 41,
+  "ok": 41,
   "failed": 0,
   "error": "",
   "log": [
-   "  40 meetings in window"
+   "  41 meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "akron": {
   "name": "Akron",
   "adapter": "agendacenter",
-  "meetings": 7,
-  "documents": 7,
-  "ok": 6,
+  "meetings": 8,
+  "documents": 8,
+  "ok": 7,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 7 files in window"
+   "  https://www.townofakron.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 8 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "alamosa-county": {
   "name": "Alamosa County",
   "adapter": "agendacenter",
-  "meetings": 12,
-  "documents": 12,
-  "ok": 12,
+  "meetings": 13,
+  "documents": 13,
+  "ok": 13,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 16 files in window"
+   "  https://www.alamosacounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 18 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "alma": {
   "name": "Alma",
@@ -49,7 +49,7 @@
   "log": [
    "  http://townofalma.com/meetings/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "arapahoe-county": {
   "name": "Arapahoe County",
@@ -62,20 +62,20 @@
   "log": [
    "  72 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "archuleta-county": {
   "name": "Archuleta County",
   "adapter": "linkscan",
-  "meetings": 10,
-  "documents": 18,
-  "ok": 16,
+  "meetings": 7,
+  "documents": 13,
+  "ok": 11,
   "failed": 2,
   "error": "",
   "log": [
-   "  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 56 dated links in window"
+   "  https://www.archuletacounty.gov/archuleta-county-co-official-website/agenda-minutes-archive/: 45 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "arriba": {
   "name": "Arriba",
@@ -88,33 +88,31 @@
   "log": [
    "  https://townofarriba.colorado.gov/town-board-meeting-minutes: 13 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "arvada": {
   "name": "Arvada",
   "adapter": "civicclerk",
-  "meetings": 27,
-  "documents": 49,
-  "ok": 46,
+  "meetings": 28,
+  "documents": 50,
+  "ok": 47,
   "failed": 3,
   "error": "",
   "log": [
-   "  52 events in window"
+   "  53 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "aspen": {
   "name": "Aspen",
   "adapter": "granicus",
-  "meetings": 34,
-  "documents": 34,
-  "ok": 33,
+  "meetings": 25,
+  "documents": 25,
+  "ok": 24,
   "failed": 1,
-  "error": "",
-  "log": [
-   "  38 documents in window"
-  ],
-  "run": "2026-10-26"
+  "error": "ReadTimeout: HTTPSConnectionPool(host='cityofaspen.granicus.com', port=443): Read timed out. (read timeout=60)",
+  "log": [],
+  "run": "2026-11-02"
  },
  "aurora": {
   "name": "Aurora",
@@ -127,60 +125,60 @@
   "log": [
    "  https://www.auroratv.org/series/city-council-meetings: 33 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "avon": {
   "name": "Avon",
   "adapter": "weblink",
-  "meetings": 5,
-  "documents": 5,
-  "ok": 5,
+  "meetings": 4,
+  "documents": 4,
+  "ok": 4,
   "failed": 0,
   "error": "",
   "log": [
-   "  folder 69873: 17 documents, 5 in window with text",
+   "  folder 69873: 17 documents, 4 in window with text",
    "  folder 67538: 20 documents, 0 in window with text"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "basalt": {
   "name": "Basalt",
   "adapter": "agendacenter",
-  "meetings": 34,
-  "documents": 34,
-  "ok": 31,
-  "failed": 3,
+  "meetings": 35,
+  "documents": 36,
+  "ok": 34,
+  "failed": 2,
   "error": "",
   "log": [
-   "  https://www.basalt.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 37 files in window"
+   "  https://www.basalt.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 39 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "berthoud": {
   "name": "Berthoud",
   "adapter": "civicclerk",
-  "meetings": 27,
-  "documents": 37,
+  "meetings": 28,
+  "documents": 39,
   "ok": 35,
-  "failed": 2,
+  "failed": 4,
   "error": "",
   "log": [
-   "  34 events in window"
+   "  36 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "black-hawk": {
   "name": "Black Hawk",
   "adapter": "agendacenter",
-  "meetings": 26,
-  "documents": 26,
-  "ok": 20,
+  "meetings": 27,
+  "documents": 27,
+  "ok": 21,
   "failed": 6,
   "error": "",
   "log": [
-   "  https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&CIDs=all&startDate=10/26/2025&endDate=10/26/2026&dateRange=&dateSelector=: 44 files in window"
+   "  https://www.cityofblackhawk.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 46 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "blue-river": {
   "name": "Blue River",
@@ -193,7 +191,7 @@
   "log": [
    "  12 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "boone": {
   "name": "Boone",
@@ -204,77 +202,77 @@
   "failed": 1,
   "error": "",
   "log": [
-   "  https://boone.colorado.gov/agendas-and-minutes: 24 dated links in window"
+   "  https://boone.colorado.gov/agendas-and-minutes: 25 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "boulder": {
   "name": "Boulder",
   "adapter": "primegov",
-  "meetings": 15,
-  "documents": 15,
-  "ok": 15,
+  "meetings": 14,
+  "documents": 14,
+  "ok": 14,
   "failed": 0,
   "error": "",
   "log": [
-   "  15 meetings in window"
+   "  14 meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "boulder-county": {
   "name": "Boulder County",
   "adapter": "escribe",
-  "meetings": 39,
-  "documents": 39,
-  "ok": 39,
+  "meetings": 40,
+  "documents": 40,
+  "ok": 40,
   "failed": 0,
   "error": "",
   "log": [
    "  document types: ['Agenda', 'AgendaCover', 'PostMinutes', 'Video']",
-   "  28 meetings returned, 20 kept",
+   "  29 meetings returned, 21 kept",
    "  19 events with descriptions in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "breckenridge": {
   "name": "Breckenridge",
   "adapter": "civicclerk",
   "meetings": 21,
-  "documents": 43,
-  "ok": 40,
+  "documents": 37,
+  "ok": 34,
   "failed": 3,
   "error": "",
   "log": [
    "  29 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "brighton": {
   "name": "Brighton",
   "adapter": "legistar",
-  "meetings": 12,
-  "documents": 12,
-  "ok": 12,
+  "meetings": 11,
+  "documents": 11,
+  "ok": 11,
   "failed": 0,
   "error": "",
   "log": [
-   "  12 events in window"
+   "  11 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "broomfield": {
   "name": "Broomfield",
   "adapter": "agendacenter",
-  "meetings": 40,
-  "documents": 40,
-  "ok": 38,
+  "meetings": 42,
+  "documents": 43,
+  "ok": 41,
   "failed": 2,
   "error": "",
   "log": [
-   "  https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 36 files in window",
-   "  12 meeting videos with chapters in window"
+   "  https://broomfield.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 41 files in window",
+   "  11 meeting videos with chapters in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "brush": {
   "name": "Brush",
@@ -285,22 +283,22 @@
   "failed": 8,
   "error": "",
   "log": [
-   "  http://www.brushcolo.com/your_city/agendas_minutes.php: 12 dated links in window"
+   "  http://www.brushcolo.com/your_city/agendas_minutes.php: 13 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "buena-vista": {
   "name": "Buena Vista",
   "adapter": "agendacenter",
   "meetings": 42,
   "documents": 42,
-  "ok": 34,
-  "failed": 8,
+  "ok": 35,
+  "failed": 7,
   "error": "",
   "log": [
-   "  http://www.buenavistaco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 60 files in window"
+   "  http://www.buenavistaco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 60 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "burlington": {
   "name": "Burlington",
@@ -311,9 +309,9 @@
   "failed": 7,
   "error": "",
   "log": [
-   "  http://www.burlingtoncolo.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 14 files in window"
+   "  http://www.burlingtoncolo.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 14 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "calhan": {
   "name": "Calhan",
@@ -326,7 +324,7 @@
   "log": [
    "  https://www.calhan.co/services/resource_room/meeting_minutes_packets.php: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "campo": {
   "name": "Campo",
@@ -339,20 +337,20 @@
   "log": [
    "  16 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "canon-city": {
   "name": "Ca\u00f1on City",
   "adapter": "agendacenter",
-  "meetings": 64,
-  "documents": 65,
-  "ok": 65,
+  "meetings": 68,
+  "documents": 70,
+  "ok": 70,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 66 files in window"
+   "  https://www.canoncity.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 71 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "castle-pines": {
   "name": "Castle Pines",
@@ -365,99 +363,99 @@
   "log": [
    "  16 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "centennial": {
   "name": "Centennial",
   "adapter": "onbase",
-  "meetings": 22,
-  "documents": 22,
-  "ok": 22,
+  "meetings": 24,
+  "documents": 24,
+  "ok": 24,
   "failed": 0,
   "error": "",
   "log": [
-   "  search: 167 links, 22 meeting pages",
-   "  22 documents in window from 24 page(s)"
+   "  search: 179 links, 24 meeting pages",
+   "  24 documents in window from 26 page(s)"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "center": {
   "name": "Center",
   "adapter": "linkscan",
-  "meetings": 4,
-  "documents": 4,
-  "ok": 1,
-  "failed": 3,
+  "meetings": 2,
+  "documents": 2,
+  "ok": 0,
+  "failed": 2,
   "error": "",
   "log": [
-   "  https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes: 5 dated links in window"
+   "  https://townofcenter.colorado.gov/town-government/agendas-minutes/2025-agendas-minutes: 2 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "chaffee-county": {
   "name": "Chaffee County",
   "adapter": "civicclerk",
-  "meetings": 32,
-  "documents": 52,
-  "ok": 52,
+  "meetings": 33,
+  "documents": 55,
+  "ok": 55,
   "failed": 0,
   "error": "",
   "log": [
-   "  44 events in window"
+   "  47 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "cherry-hills-village": {
   "name": "Cherry Hills Village",
   "adapter": "agendacenter",
-  "meetings": 18,
-  "documents": 18,
-  "ok": 15,
+  "meetings": 19,
+  "documents": 19,
+  "ok": 16,
   "failed": 3,
   "error": "",
   "log": [
-   "  https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 22 files in window"
+   "  https://www.cherryhillsvillage.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 23 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "cheyenne-county": {
   "name": "Cheyenne County",
   "adapter": "linkscan",
-  "meetings": 1,
-  "documents": 1,
-  "ok": 1,
+  "meetings": 0,
+  "documents": 0,
+  "ok": 0,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.co.cheyenne.co.us/: 1 dated links in window"
+   "  https://www.co.cheyenne.co.us/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "clear-creek-county": {
   "name": "Clear Creek County",
   "adapter": "agendacenter",
-  "meetings": 20,
-  "documents": 21,
-  "ok": 20,
+  "meetings": 18,
+  "documents": 19,
+  "ok": 18,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 23 files in window"
+   "  https://www.clearcreekcounty.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 21 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "colorado-springs": {
   "name": "Colorado Springs",
   "adapter": "legistar",
-  "meetings": 28,
-  "documents": 28,
-  "ok": 28,
+  "meetings": 29,
+  "documents": 29,
+  "ok": 29,
   "failed": 0,
   "error": "",
   "log": [
-   "  31 events in window"
+   "  32 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "columbine-valley": {
   "name": "Columbine Valley",
@@ -470,20 +468,20 @@
   "log": [
    "  https://columbinevalley.org/board-trustee-agendas-minutes/: 37 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "commerce-city": {
   "name": "Commerce City",
   "adapter": "legistar",
-  "meetings": 99,
-  "documents": 99,
-  "ok": 98,
-  "failed": 1,
+  "meetings": 101,
+  "documents": 101,
+  "ok": 101,
+  "failed": 0,
   "error": "",
   "log": [
-   "  109 events in window"
+   "  111 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "cortez": {
   "name": "Cortez",
@@ -496,33 +494,33 @@
   "log": [
    "  14 agendas in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "craig": {
   "name": "Craig",
   "adapter": "civicclerk",
-  "meetings": 5,
-  "documents": 8,
-  "ok": 7,
+  "meetings": 6,
+  "documents": 9,
+  "ok": 8,
   "failed": 1,
   "error": "",
   "log": [
-   "  5 events in window"
+   "  6 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "crawford": {
   "name": "Crawford",
   "adapter": "linkscan",
-  "meetings": 12,
-  "documents": 12,
+  "meetings": 11,
+  "documents": 11,
   "ok": 11,
-  "failed": 1,
+  "failed": 0,
   "error": "",
   "log": [
    "  https://townofcrawford.colorado.gov/departments/council-meetings-minutes-and-agendas: 12 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "crested-butte": {
   "name": "Crested Butte",
@@ -535,111 +533,111 @@
   "log": [
    "  https://townofcrestedbutte.colorado.gov/government/town-council: 83 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "dacono": {
   "name": "Dacono",
   "adapter": "agendacenter",
-  "meetings": 20,
-  "documents": 20,
-  "ok": 18,
+  "meetings": 21,
+  "documents": 21,
+  "ok": 19,
   "failed": 2,
   "error": "",
   "log": [
-   "  https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 21 files in window"
+   "  https://www.daconoco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 22 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "de-beque": {
   "name": "De Beque",
   "adapter": "linkscan",
   "meetings": 15,
   "documents": 16,
-  "ok": 1,
-  "failed": 15,
+  "ok": 2,
+  "failed": 14,
   "error": "",
   "log": [
-   "  https://townofdebeque.colorado.gov/trustee-agendas-minutes: 32 dated links in window"
+   "  https://townofdebeque.colorado.gov/trustee-agendas-minutes: 31 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "del-norte": {
   "name": "Del Norte",
   "adapter": "linkscan",
-  "meetings": 6,
-  "documents": 8,
-  "ok": 8,
+  "meetings": 5,
+  "documents": 7,
+  "ok": 7,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.delnortecolorado.com/minutes-agendas/: 8 dated links in window"
+   "  https://www.delnortecolorado.com/minutes-agendas/: 7 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "delta": {
   "name": "Delta",
   "adapter": "agendacenter",
-  "meetings": 13,
+  "meetings": 14,
   "documents": 20,
   "ok": 20,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 20 files in window"
+   "  https://www.cityofdelta.net/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 20 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "delta-county": {
   "name": "Delta County",
   "adapter": "civicclerk",
-  "meetings": 13,
-  "documents": 23,
-  "ok": 21,
+  "meetings": 12,
+  "documents": 22,
+  "ok": 20,
   "failed": 2,
   "error": "",
   "log": [
    "  33 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "denver": {
   "name": "Denver",
   "adapter": "legistar",
-  "meetings": 119,
-  "documents": 119,
+  "meetings": 118,
+  "documents": 118,
   "ok": 116,
-  "failed": 3,
+  "failed": 2,
   "error": "",
   "log": [
-   "  141 events in window"
+   "  139 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "dolores": {
   "name": "Dolores",
   "adapter": "linkscan",
-  "meetings": 24,
-  "documents": 25,
-  "ok": 17,
-  "failed": 8,
+  "meetings": 23,
+  "documents": 23,
+  "ok": 16,
+  "failed": 7,
   "error": "",
   "log": [
-   "  https://townofdolores.colorado.gov/government/town-board-meetings: 52 dated links in window"
+   "  https://townofdolores.colorado.gov/government/town-board-meetings: 50 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "douglas-county": {
   "name": "Douglas County",
   "adapter": "legistar",
-  "meetings": 40,
-  "documents": 40,
-  "ok": 40,
+  "meetings": 41,
+  "documents": 41,
+  "ok": 41,
   "failed": 0,
   "error": "",
   "log": [
-   "  60 events in window"
+   "  61 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "dove-creek": {
   "name": "Dove Creek",
@@ -652,34 +650,34 @@
   "log": [
    "  https://townofdovecreek.colorado.gov/meeting-agendas: 9 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "durango": {
   "name": "Durango",
   "adapter": "onbase",
-  "meetings": 11,
-  "documents": 11,
-  "ok": 11,
+  "meetings": 7,
+  "documents": 7,
+  "ok": 7,
   "failed": 0,
   "error": "",
   "log": [
    "  search: 0 links, 0 meeting pages",
-   "  11 documents in window from 2 page(s)"
+   "  7 documents in window from 2 page(s)"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "eagle": {
   "name": "Eagle",
   "adapter": "civicclerk",
   "meetings": 29,
-  "documents": 45,
-  "ok": 45,
+  "documents": 44,
+  "ok": 44,
   "failed": 0,
   "error": "",
   "log": [
    "  36 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "eagle-county": {
   "name": "Eagle County",
@@ -692,7 +690,7 @@
   "log": [
    "  11 meeting videos with chapters in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "eaton": {
   "name": "Eaton",
@@ -705,7 +703,7 @@
   "log": [
    "  2 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "edgewater": {
   "name": "Edgewater",
@@ -716,9 +714,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  39 events in window"
+   "  40 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "el-paso-county": {
   "name": "El Paso County",
@@ -731,7 +729,7 @@
   "log": [
    "  9 meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "elizabeth": {
   "name": "Elizabeth",
@@ -744,7 +742,7 @@
   "log": [
    "  22 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "empire": {
   "name": "Empire",
@@ -757,20 +755,20 @@
   "log": [
    "  https://townofempire.colorado.gov/board-of-trustees/board-of-trustees-agenda-meeting-packet-for-upcoming-meeting: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "erie": {
   "name": "Erie",
   "adapter": "civicclerk",
   "meetings": 34,
-  "documents": 50,
-  "ok": 46,
-  "failed": 4,
+  "documents": 46,
+  "ok": 44,
+  "failed": 2,
   "error": "",
   "log": [
-   "  39 events in window"
+   "  38 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "estes-park": {
   "name": "Estes Park",
@@ -781,10 +779,10 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  folder 25: 18 documents, 5 in window with text",
-   "  folder 24: 20 documents, 5 in window with text"
+   "  folder 25: 19 documents, 5 in window with text",
+   "  folder 24: 21 documents, 5 in window with text"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "evans": {
   "name": "Evans",
@@ -797,49 +795,23 @@
   "log": [
    "  https://www.evanscolorado.gov/your-government/city-council/agendas-and-minutes/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fairplay": {
   "name": "Fairplay",
   "adapter": "civicclerk",
-  "meetings": 9,
-  "documents": 9,
-  "ok": 9,
+  "meetings": 10,
+  "documents": 10,
+  "ok": 10,
   "failed": 0,
   "error": "",
   "log": [
-   "  9 events in window"
+   "  10 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "federal-heights": {
   "name": "Federal Heights",
-  "adapter": "linkscan",
-  "meetings": 1,
-  "documents": 1,
-  "ok": 1,
-  "failed": 0,
-  "error": "",
-  "log": [
-   "  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 1 dated links in window"
-  ],
-  "run": "2026-10-26"
- },
- "firestone": {
-  "name": "Firestone",
-  "adapter": "civicclerk",
-  "meetings": 15,
-  "documents": 21,
-  "ok": 21,
-  "failed": 0,
-  "error": "",
-  "log": [
-   "  15 events in window"
-  ],
-  "run": "2026-10-26"
- },
- "florence": {
-  "name": "Florence",
   "adapter": "linkscan",
   "meetings": 0,
   "documents": 0,
@@ -847,9 +819,35 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.cityofflorenceco.gov/: 0 dated links in window"
+   "  https://www.fedheights.org/index.asp?SEC=%7BE66D34DF-8290-4807-83DA-3AF56D110C00%7D: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
+ },
+ "firestone": {
+  "name": "Firestone",
+  "adapter": "civicclerk",
+  "meetings": 14,
+  "documents": 20,
+  "ok": 20,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  14 events in window"
+  ],
+  "run": "2026-11-02"
+ },
+ "florence": {
+  "name": "Florence",
+  "adapter": "linkscan",
+  "meetings": 1,
+  "documents": 1,
+  "ok": 1,
+  "failed": 0,
+  "error": "",
+  "log": [
+   "  https://www.cityofflorenceco.gov/: 1 dated links in window"
+  ],
+  "run": "2026-11-02"
  },
  "fort-collins": {
   "name": "Fort Collins",
@@ -862,33 +860,33 @@
   "log": [
    "  19 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fort-lupton": {
   "name": "Fort Lupton",
   "adapter": "civicclerk",
-  "meetings": 18,
-  "documents": 23,
-  "ok": 20,
+  "meetings": 19,
+  "documents": 26,
+  "ok": 23,
   "failed": 3,
   "error": "",
   "log": [
-   "  29 events in window"
+   "  32 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fort-morgan": {
   "name": "Fort Morgan",
   "adapter": "agendacenter",
-  "meetings": 18,
-  "documents": 18,
-  "ok": 17,
+  "meetings": 19,
+  "documents": 19,
+  "ok": 18,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 23 files in window"
+   "  https://www.cityoffortmorgan.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 24 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fountain": {
   "name": "Fountain",
@@ -901,7 +899,7 @@
   "log": [
    "  https://fountain.colorado.gov/government/city-council: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "foxfield": {
   "name": "Foxfield",
@@ -914,33 +912,33 @@
   "log": [
    "  https://townoffoxfield.colorado.gov/node/10166: 18 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fraser": {
   "name": "Fraser",
   "adapter": "agendacenter",
-  "meetings": 17,
-  "documents": 17,
-  "ok": 16,
+  "meetings": 15,
+  "documents": 15,
+  "ok": 14,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 25 files in window"
+   "  https://www.frasercolorado.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 21 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "frederick": {
   "name": "Frederick",
   "adapter": "civicclerk",
   "meetings": 29,
-  "documents": 49,
-  "ok": 45,
-  "failed": 4,
+  "documents": 50,
+  "ok": 47,
+  "failed": 3,
   "error": "",
   "log": [
    "  43 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fremont-county": {
   "name": "Fremont County",
@@ -951,35 +949,35 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 13 dated links in window"
+   "  https://fremontcountyco.gov/commissioners/meeting-agendas-and-minutes: 12 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "frisco": {
   "name": "Frisco",
   "adapter": "civicclerk",
   "meetings": 9,
   "documents": 18,
-  "ok": 17,
-  "failed": 1,
+  "ok": 16,
+  "failed": 2,
   "error": "",
   "log": [
    "  10 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "fruita": {
   "name": "Fruita",
   "adapter": "agendacenter",
-  "meetings": 24,
-  "documents": 25,
-  "ok": 22,
-  "failed": 3,
+  "meetings": 23,
+  "documents": 24,
+  "ok": 20,
+  "failed": 4,
   "error": "",
   "log": [
-   "  https://www.fruita.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 36 files in window"
+   "  https://www.fruita.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 34 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "garden-city": {
   "name": "Garden City",
@@ -992,34 +990,34 @@
   "log": [
    "  27 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "garfield-county": {
   "name": "Garfield County",
   "adapter": "escribe",
-  "meetings": 16,
-  "documents": 16,
-  "ok": 16,
+  "meetings": 15,
+  "documents": 15,
+  "ok": 15,
   "failed": 0,
   "error": "",
   "log": [
    "  document types: ['AdditionalDocuments', 'Agenda', 'AgendaCover', 'PostMinutes', 'Video']",
-   "  19 meetings returned, 18 kept"
+   "  18 meetings returned, 17 kept"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "gilpin-county": {
   "name": "Gilpin County",
   "adapter": "linkscan",
-  "meetings": 10,
-  "documents": 12,
-  "ok": 12,
+  "meetings": 9,
+  "documents": 10,
+  "ok": 10,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 12 dated links in window"
+   "  https://gilpincounty.colorado.gov/public-meetings/board-of-county-commissioners-bocc-meetings: 10 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "glendale": {
   "name": "Glendale",
@@ -1030,74 +1028,74 @@
   "failed": 2,
   "error": "",
   "log": [
-   "  https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 9 files in window"
+   "  https://www.glendale.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 9 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "glenwood-springs": {
   "name": "Glenwood Springs",
   "adapter": "civicclerk",
   "meetings": 11,
-  "documents": 14,
-  "ok": 14,
+  "documents": 13,
+  "ok": 13,
   "failed": 0,
   "error": "",
   "log": [
    "  13 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "golden": {
   "name": "Golden",
   "adapter": "granicus",
-  "meetings": 51,
-  "documents": 51,
-  "ok": 51,
+  "meetings": 52,
+  "documents": 52,
+  "ok": 52,
   "failed": 0,
   "error": "",
   "log": [
-   "  71 documents in window"
+   "  74 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "granby": {
   "name": "Granby",
   "adapter": "destiny",
-  "meetings": 8,
-  "documents": 8,
-  "ok": 8,
+  "meetings": 7,
+  "documents": 7,
+  "ok": 7,
   "failed": 0,
   "error": "",
   "log": [
-   "  8 agendas in window"
+   "  7 agendas in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "grand-county": {
   "name": "Grand County",
   "adapter": "agendacenter",
-  "meetings": 23,
-  "documents": 23,
-  "ok": 8,
-  "failed": 15,
+  "meetings": 25,
+  "documents": 25,
+  "ok": 11,
+  "failed": 14,
   "error": "",
   "log": [
-   "  https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 36 files in window"
+   "  https://www.co.grand.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 39 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "grand-junction": {
   "name": "Grand Junction",
   "adapter": "civicclerk",
-  "meetings": 53,
-  "documents": 81,
-  "ok": 72,
-  "failed": 9,
+  "meetings": 55,
+  "documents": 84,
+  "ok": 73,
+  "failed": 11,
   "error": "",
   "log": [
-   "  60 events in window"
+   "  62 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "grand-lake": {
   "name": "Grand Lake",
@@ -1110,46 +1108,46 @@
   "log": [
    "  17 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "greeley": {
   "name": "Greeley",
   "adapter": "civicclerk",
-  "meetings": 76,
-  "documents": 109,
-  "ok": 109,
+  "meetings": 79,
+  "documents": 113,
+  "ok": 113,
   "failed": 0,
   "error": "",
   "log": [
-   "  86 events in window"
+   "  89 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "green-mountain-falls": {
   "name": "Green Mountain Falls",
   "adapter": "linkscan",
-  "meetings": 24,
-  "documents": 24,
-  "ok": 24,
+  "meetings": 23,
+  "documents": 23,
+  "ok": 23,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes: 38 dated links in window"
+   "  https://greenmountainfalls.colorado.gov/government/board-of-trustees/bot-agendas-and-minutes: 36 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "greenwood-village": {
   "name": "Greenwood Village",
   "adapter": "civicclerk",
   "meetings": 24,
-  "documents": 39,
-  "ok": 38,
+  "documents": 42,
+  "ok": 41,
   "failed": 1,
   "error": "",
   "log": [
-   "  55 events in window"
+   "  56 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "grover": {
   "name": "Grover",
@@ -1158,9 +1156,12 @@
   "documents": 0,
   "ok": 0,
   "failed": 0,
-  "error": "RuntimeError: https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=10/26/2025&endDate=10/26/2026&dateRange=&dateSelector=: HTTPSConnectionPool(host='www.grover.org', port=443): Read timed out. (read timeout=45)",
-  "log": [],
-  "run": "2026-10-26"
+  "error": "",
+  "log": [
+   "  https://www.grover.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 0 files in window",
+   "  https://www.grover.org/AgendaCenter: 0 files in window"
+  ],
+  "run": "2026-11-02"
  },
  "gunnison-county": {
   "name": "Gunnison County",
@@ -1171,9 +1172,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 33 files in window"
+   "  https://www.gunnisoncounty.org/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 32 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "gypsum": {
   "name": "Gypsum",
@@ -1186,7 +1187,7 @@
   "log": [
    "  13 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "haxtun": {
   "name": "Haxtun",
@@ -1199,20 +1200,20 @@
   "log": [
    "  https://townofhaxtun.colorado.gov/town-council: 2 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hayden": {
   "name": "Hayden",
   "adapter": "agendacenter",
-  "meetings": 14,
-  "documents": 14,
-  "ok": 9,
+  "meetings": 13,
+  "documents": 13,
+  "ok": 8,
   "failed": 5,
   "error": "",
   "log": [
-   "  https://co-hayden.civicplus.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 21 files in window"
+   "  https://co-hayden.civicplus.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 21 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hillrose": {
   "name": "Hillrose",
@@ -1225,7 +1226,7 @@
   "log": [
    "  https://www.hillrosecolorado.org/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hinsdale-county": {
   "name": "Hinsdale County",
@@ -1238,7 +1239,7 @@
   "log": [
    "  https://hinsdalecounty.colorado.gov/documents/minutes/2025-minutes: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hooper": {
   "name": "Hooper",
@@ -1251,7 +1252,7 @@
   "log": [
    "  https://townofhooper.colorado.gov/meeting-minutes-agendas: 2 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hotchkiss": {
   "name": "Hotchkiss",
@@ -1264,33 +1265,33 @@
   "log": [
    "  https://townofhotchkiss.colorado.gov/about-the-town/board-of-trustee-minutes: 23 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hudson": {
   "name": "Hudson",
   "adapter": "legistar",
-  "meetings": 29,
-  "documents": 29,
-  "ok": 29,
+  "meetings": 30,
+  "documents": 30,
+  "ok": 30,
   "failed": 0,
   "error": "",
   "log": [
-   "  30 events in window"
+   "  31 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "huerfano-county": {
   "name": "Huerfano County",
   "adapter": "civicclerk",
-  "meetings": 26,
-  "documents": 48,
-  "ok": 48,
+  "meetings": 27,
+  "documents": 49,
+  "ok": 49,
   "failed": 0,
   "error": "",
   "log": [
-   "  32 events in window"
+   "  33 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "hugo": {
   "name": "Hugo",
@@ -1303,7 +1304,7 @@
   "log": [
    "  https://townhugo.com/government/committee-meetings/agenda/: 37 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "idaho-springs": {
   "name": "Idaho Springs",
@@ -1316,7 +1317,7 @@
   "log": [
    "  17 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "ignacio": {
   "name": "Ignacio",
@@ -1329,7 +1330,7 @@
   "log": [
    "  https://townofignacio.colorado.gov/forms/informational-packets-and-handbooks: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "jamestown": {
   "name": "Jamestown",
@@ -1342,34 +1343,34 @@
   "log": [
    "  https://jamestownco.org/board-of-trustees-meeting-agendas/minutes/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "jefferson-county": {
   "name": "Jefferson County",
   "adapter": "escribe",
-  "meetings": 25,
-  "documents": 25,
-  "ok": 25,
+  "meetings": 26,
+  "documents": 26,
+  "ok": 26,
   "failed": 0,
   "error": "",
   "log": [
    "  document types: ['AdditionalDocuments', 'Agenda', 'PostMinutes', 'Video']",
-   "  59 meetings returned, 26 kept"
+   "  62 meetings returned, 27 kept"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "johnstown": {
   "name": "Johnstown",
   "adapter": "civicclerk",
-  "meetings": 14,
-  "documents": 23,
-  "ok": 20,
-  "failed": 3,
+  "meetings": 15,
+  "documents": 24,
+  "ok": 22,
+  "failed": 2,
   "error": "",
   "log": [
-   "  18 events in window"
+   "  20 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "keenesburg": {
   "name": "Keenesburg",
@@ -1382,20 +1383,20 @@
   "log": [
    "  https://www.townofkeenesburg.com/government/agendas_minutes/signed_minutes.php: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "kersey": {
   "name": "Kersey",
   "adapter": "linkscan",
-  "meetings": 7,
-  "documents": 7,
-  "ok": 7,
+  "meetings": 6,
+  "documents": 6,
+  "ok": 6,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.kerseygov.com/government/agendas_minutes/index.php: 10 dated links in window"
+   "  https://www.kerseygov.com/government/agendas_minutes/index.php: 9 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "kiowa": {
   "name": "Kiowa",
@@ -1408,20 +1409,20 @@
   "log": [
    "  51 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "kit-carson-county": {
   "name": "Kit Carson County",
   "adapter": "granicus",
   "meetings": 32,
   "documents": 32,
-  "ok": 4,
-  "failed": 28,
+  "ok": 2,
+  "failed": 30,
   "error": "",
   "log": [
-   "  60 documents in window"
+   "  61 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "la-junta": {
   "name": "La Junta",
@@ -1434,60 +1435,60 @@
   "log": [
    "  13 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lafayette": {
   "name": "Lafayette",
   "adapter": "linkscan",
-  "meetings": 10,
-  "documents": 17,
-  "ok": 17,
+  "meetings": 11,
+  "documents": 18,
+  "ok": 18,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.lafayetteco.gov/Archive.aspx?AMID=37: 9 dated links in window",
-   "  https://www.lafayetteco.gov/Archive.aspx?AMID=38: 8 dated links in window"
+   "  https://www.lafayetteco.gov/Archive.aspx?AMID=37: 11 dated links in window",
+   "  https://www.lafayetteco.gov/Archive.aspx?AMID=38: 7 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lake-city": {
   "name": "Lake City",
   "adapter": "linkscan",
-  "meetings": 9,
-  "documents": 9,
-  "ok": 9,
+  "meetings": 8,
+  "documents": 8,
+  "ok": 8,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.townoflakecityco.gov/board-of-trustees-meetings: 14 dated links in window"
+   "  https://www.townoflakecityco.gov/board-of-trustees-meetings: 13 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lake-county": {
   "name": "Lake County",
   "adapter": "agendacenter",
   "meetings": 44,
-  "documents": 45,
-  "ok": 42,
+  "documents": 46,
+  "ok": 43,
   "failed": 3,
   "error": "",
   "log": [
-   "  https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 52 files in window"
+   "  https://www.lakecountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 54 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lakewood": {
   "name": "Lakewood",
   "adapter": "civicclerk",
-  "meetings": 9,
-  "documents": 17,
-  "ok": 16,
+  "meetings": 8,
+  "documents": 15,
+  "ok": 14,
   "failed": 1,
   "error": "",
   "log": [
    "  17 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lamar": {
   "name": "Lamar",
@@ -1501,7 +1502,7 @@
    "  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2026: 8 dated links in window",
    "  https://cityoflamar.specialdistrict.org/city-council-meetings?year=2025: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "limon": {
   "name": "Limon",
@@ -1514,7 +1515,7 @@
   "log": [
    "  https://www.townoflimon.com/index.php/government/trustee-meetings/agenda: 28 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "littleton": {
   "name": "Littleton",
@@ -1527,7 +1528,7 @@
   "log": [
    "  22 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lochbuie": {
   "name": "Lochbuie",
@@ -1540,46 +1541,46 @@
   "log": [
    "  0 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "logan-county": {
   "name": "Logan County",
   "adapter": "agendacenter",
   "meetings": 19,
-  "documents": 26,
+  "documents": 27,
   "ok": 17,
-  "failed": 9,
+  "failed": 10,
   "error": "",
   "log": [
-   "  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 47 files in window"
+   "  https://www.logancountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 49 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lone-tree": {
   "name": "Lone Tree",
   "adapter": "civicweb",
-  "meetings": 18,
-  "documents": 18,
-  "ok": 18,
+  "meetings": 17,
+  "documents": 17,
+  "ok": 17,
   "failed": 0,
   "error": "",
   "log": [
-   "  18 recent meetings in window"
+   "  17 recent meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "longmont": {
   "name": "Longmont",
   "adapter": "primegov",
-  "meetings": 82,
-  "documents": 82,
-  "ok": 74,
-  "failed": 8,
+  "meetings": 85,
+  "documents": 85,
+  "ok": 76,
+  "failed": 9,
   "error": "",
   "log": [
-   "  84 meetings in window"
+   "  87 meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "louisville": {
   "name": "Louisville",
@@ -1592,20 +1593,20 @@
   "log": [
    "  60 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "lyons": {
   "name": "Lyons",
   "adapter": "agendacenter",
-  "meetings": 48,
-  "documents": 54,
-  "ok": 52,
+  "meetings": 49,
+  "documents": 56,
+  "ok": 54,
   "failed": 2,
   "error": "",
   "log": [
-   "  https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 66 files in window"
+   "  https://townoflyons.com/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 70 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "manzanola": {
   "name": "Manzanola",
@@ -1618,20 +1619,20 @@
   "log": [
    "  https://townofmanzanola.colorado.gov/agendas-meeting-minutes/agendas: 13 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "mead": {
   "name": "Mead",
   "adapter": "civicclerk",
-  "meetings": 17,
-  "documents": 26,
-  "ok": 23,
+  "meetings": 18,
+  "documents": 28,
+  "ok": 25,
   "failed": 3,
   "error": "",
   "log": [
    "  34 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "meeker": {
   "name": "Meeker",
@@ -1642,63 +1643,63 @@
   "failed": 24,
   "error": "",
   "log": [
-   "  https://townofmeeker.org/meeting-information/: 79 dated links in window"
+   "  https://townofmeeker.org/meeting-information/: 78 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "mesa-county": {
   "name": "Mesa County",
   "adapter": "onbase",
-  "meetings": 24,
-  "documents": 24,
-  "ok": 24,
+  "meetings": 25,
+  "documents": 25,
+  "ok": 25,
   "failed": 0,
   "error": "",
   "log": [
-   "  search: 247 links, 40 meeting pages",
-   "  24 documents in window from 42 page(s)"
+   "  search: 245 links, 41 meeting pages",
+   "  25 documents in window from 43 page(s)"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "milliken": {
   "name": "Milliken",
   "adapter": "civicclerk",
-  "meetings": 21,
-  "documents": 45,
-  "ok": 45,
+  "meetings": 22,
+  "documents": 49,
+  "ok": 49,
   "failed": 0,
   "error": "",
   "log": [
-   "  31 events in window"
+   "  33 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "minturn": {
   "name": "Minturn",
   "adapter": "civicclerk",
-  "meetings": 13,
-  "documents": 22,
-  "ok": 17,
+  "meetings": 14,
+  "documents": 21,
+  "ok": 16,
   "failed": 5,
   "error": "",
   "log": [
-   "  16 events in window"
+   "  17 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "moffat-county": {
   "name": "Moffat County",
   "adapter": "linkscan",
-  "meetings": 5,
-  "documents": 5,
-  "ok": 4,
+  "meetings": 7,
+  "documents": 7,
+  "ok": 6,
   "failed": 1,
   "error": "",
   "log": [
-   "  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 0 dated links in window",
-   "  https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes: 5 dated links in window"
+   "  https://moffatcounty.colorado.gov/government/elected-officials/county-commissioners/county-commissioner-meetings: 1 dated links in window",
+   "  https://moffatcounty.colorado.gov/2026-bocc-meeting-minutes: 6 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "montezuma": {
   "name": "Montezuma",
@@ -1711,7 +1712,7 @@
   "log": [
    "  https://www.townofmontezuma.com/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "montezuma-county": {
   "name": "Montezuma County",
@@ -1722,9 +1723,9 @@
   "failed": 2,
   "error": "",
   "log": [
-   "  https://montezumacounty.gov/calendarsminutes/boccminutes/: 72 dated links in window"
+   "  https://montezumacounty.gov/calendarsminutes/boccminutes/: 71 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "montrose": {
   "name": "Montrose",
@@ -1735,9 +1736,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  29 events in window"
+   "  30 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "montrose-county": {
   "name": "Montrose County",
@@ -1748,22 +1749,22 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  30 documents in window"
+   "  29 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "monument": {
   "name": "Monument",
   "adapter": "civicclerk",
-  "meetings": 17,
+  "meetings": 16,
   "documents": 24,
-  "ok": 21,
-  "failed": 3,
+  "ok": 22,
+  "failed": 2,
   "error": "",
   "log": [
-   "  17 events in window"
+   "  16 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "morgan-county": {
   "name": "Morgan County",
@@ -1776,7 +1777,7 @@
   "log": [
    "  https://morgancounty.colorado.gov/elected-officials/commissioners/2026-agendas-and-minutes: 23 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "morrison": {
   "name": "Morrison",
@@ -1787,22 +1788,22 @@
   "failed": 3,
   "error": "",
   "log": [
-   "  https://www.morrisonco.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 27 files in window"
+   "  https://www.morrisonco.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 27 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "mountain-view": {
   "name": "Mountain View",
   "adapter": "legistar",
-  "meetings": 52,
-  "documents": 52,
-  "ok": 52,
+  "meetings": 55,
+  "documents": 55,
+  "ok": 55,
   "failed": 0,
   "error": "",
   "log": [
-   "  57 events in window"
+   "  60 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "nederland": {
   "name": "Nederland",
@@ -1815,20 +1816,20 @@
   "log": [
    "  12 recent meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "new-castle": {
   "name": "New Castle",
   "adapter": "civicclerk",
-  "meetings": 21,
+  "meetings": 22,
   "documents": 30,
-  "ok": 30,
-  "failed": 0,
+  "ok": 29,
+  "failed": 1,
   "error": "",
   "log": [
-   "  25 events in window"
+   "  26 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "northglenn": {
   "name": "Northglenn",
@@ -1841,20 +1842,20 @@
   "log": [
    "  https://webdocs.northglenn.org/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "norwood": {
   "name": "Norwood",
   "adapter": "linkscan",
-  "meetings": 19,
-  "documents": 19,
-  "ok": 19,
+  "meetings": 20,
+  "documents": 20,
+  "ok": 20,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.norwoodtown.com/board-of-trustees-meetings: 19 dated links in window"
+   "  https://www.norwoodtown.com/board-of-trustees-meetings: 20 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "nunn": {
   "name": "Nunn",
@@ -1865,9 +1866,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  https://townofnunn.colorado.gov/government/town-board-meeting-minutes-and-agendas: 33 dated links in window"
+   "  https://townofnunn.colorado.gov/government/town-board-meeting-minutes-and-agendas: 34 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "oak-creek": {
   "name": "Oak Creek",
@@ -1880,7 +1881,7 @@
   "log": [
    "  9 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "olney-springs": {
   "name": "Olney Springs",
@@ -1893,7 +1894,7 @@
   "log": [
    "  https://townofolneysprings.colorado.gov/agendas-town-council: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "ophir": {
   "name": "Ophir",
@@ -1906,7 +1907,7 @@
   "log": [
    "  https://townofophir.colorado.gov/planning-and-zoning: 9 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "ordway": {
   "name": "Ordway",
@@ -1919,7 +1920,7 @@
   "log": [
    "  https://townofordway.colorado.gov/minutes-and-agendas: 12 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "ouray-county": {
   "name": "Ouray County",
@@ -1930,9 +1931,9 @@
   "failed": 2,
   "error": "",
   "log": [
-   "  https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 10 files in window"
+   "  https://ouraycountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 10 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "pagosa-springs": {
   "name": "Pagosa Springs",
@@ -1945,7 +1946,7 @@
   "log": [
    "  36 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "palisade": {
   "name": "Palisade",
@@ -1958,33 +1959,33 @@
   "log": [
    "  https://palisade.colorado.gov/events/board-of-trustees-regular-meeting-10/13/2026: 2 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "palmer-lake": {
   "name": "Palmer Lake",
   "adapter": "civicclerk",
   "meetings": 24,
-  "documents": 37,
-  "ok": 31,
+  "documents": 36,
+  "ok": 30,
   "failed": 6,
   "error": "",
   "log": [
-   "  33 events in window"
+   "  32 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "paonia": {
   "name": "Paonia",
   "adapter": "civicclerk",
-  "meetings": 27,
-  "documents": 44,
+  "meetings": 28,
+  "documents": 45,
   "ok": 39,
-  "failed": 5,
+  "failed": 6,
   "error": "",
   "log": [
-   "  30 events in window"
+   "  31 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "parachute": {
   "name": "Parachute",
@@ -1997,33 +1998,33 @@
   "log": [
    "  24 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "park-county": {
   "name": "Park County",
   "adapter": "agendacenter",
-  "meetings": 48,
-  "documents": 51,
-  "ok": 44,
-  "failed": 7,
+  "meetings": 50,
+  "documents": 53,
+  "ok": 45,
+  "failed": 8,
   "error": "",
   "log": [
-   "  https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 65 files in window"
+   "  https://www.parkcountyco.gov/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 66 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "parker": {
   "name": "Parker",
   "adapter": "civicclerk",
-  "meetings": 30,
+  "meetings": 29,
   "documents": 38,
-  "ok": 35,
-  "failed": 3,
+  "ok": 36,
+  "failed": 2,
   "error": "",
   "log": [
-   "  39 events in window"
+   "  38 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "phillips-county": {
   "name": "Phillips County",
@@ -2036,33 +2037,33 @@
   "log": [
    "  https://phillipscounty.colorado.gov/departments/county-commissioners/agendas/2026-agendas: 9 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "pitkin": {
   "name": "Pitkin",
   "adapter": "linkscan",
-  "meetings": 9,
-  "documents": 9,
-  "ok": 9,
+  "meetings": 7,
+  "documents": 7,
+  "ok": 7,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://townofpitkin.colorado.gov/documents/approved-meeting-minutes: 9 dated links in window"
+   "  https://townofpitkin.colorado.gov/documents/approved-meeting-minutes: 7 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "platteville": {
   "name": "Platteville",
   "adapter": "linkscan",
   "meetings": 5,
-  "documents": 9,
-  "ok": 4,
+  "documents": 6,
+  "ok": 1,
   "failed": 5,
   "error": "",
   "log": [
-   "  https://platteville.colorado.gov/agendas-and-minutes: 15 dated links in window"
+   "  https://platteville.colorado.gov/agendas-and-minutes: 16 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "poncha-springs": {
   "name": "Poncha Springs",
@@ -2075,38 +2076,38 @@
   "log": [
    "  20 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "pueblo": {
   "name": "Pueblo",
   "adapter": "civicclerk",
-  "meetings": 28,
-  "documents": 40,
-  "ok": 37,
+  "meetings": 27,
+  "documents": 38,
+  "ok": 35,
   "failed": 3,
   "error": "",
   "log": [
-   "  29 events in window"
+   "  28 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "pueblo-county": {
   "name": "Pueblo County",
   "adapter": "civicclerk",
-  "meetings": 42,
-  "documents": 104,
-  "ok": 104,
+  "meetings": 43,
+  "documents": 105,
+  "ok": 105,
   "failed": 0,
   "error": "",
   "log": [
    "  77 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "rangely": {
   "name": "Rangely",
   "adapter": "linkscan",
-  "meetings": 6,
+  "meetings": 7,
   "documents": 8,
   "ok": 8,
   "failed": 0,
@@ -2114,7 +2115,7 @@
   "log": [
    "  https://townofrangely.colorado.gov/departments/administrative-services/town-council/meeting-dates-board-packets: 8 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "red-cliff": {
   "name": "Red Cliff",
@@ -2127,7 +2128,7 @@
   "log": [
    "  https://townofredcliff.colorado.gov/government/2023-records/2023-meeting-agendas: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "rico": {
   "name": "Rico",
@@ -2140,20 +2141,20 @@
   "log": [
    "  https://townofrico.colorado.gov/government/board-of-trustees: 6 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "ridgway": {
   "name": "Ridgway",
   "adapter": "linkscan",
-  "meetings": 16,
-  "documents": 17,
-  "ok": 17,
+  "meetings": 17,
+  "documents": 18,
+  "ok": 18,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://townofridgway.colorado.gov/i-want-to/ridgway-town-council: 37 dated links in window"
+   "  https://townofridgway.colorado.gov/i-want-to/ridgway-town-council: 38 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "rifle": {
   "name": "Rifle",
@@ -2166,7 +2167,7 @@
   "log": [
    "  17 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "rio-blanco-county": {
   "name": "Rio Blanco County",
@@ -2179,7 +2180,7 @@
   "log": [
    "  https://www.rbc.us/: 0 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "rockvale": {
   "name": "Rockvale",
@@ -2192,7 +2193,7 @@
   "log": [
    "  https://townofrockvale.colorado.gov/town-government/town-board-meetings-documents: 13 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "routt-county": {
   "name": "Routt County",
@@ -2203,9 +2204,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 35 files in window"
+   "  https://www.co.routt.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 35 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "rye": {
   "name": "Rye",
@@ -2218,85 +2219,85 @@
   "log": [
    "  https://townofrye.colorado.gov/meeting-agendas/2025-meeting-agendas: 3 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "salida": {
   "name": "Salida",
   "adapter": "civicclerk",
   "meetings": 13,
-  "documents": 18,
-  "ok": 18,
+  "documents": 20,
+  "ok": 20,
   "failed": 0,
   "error": "",
   "log": [
-   "  22 events in window"
+   "  23 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "san-juan-county": {
   "name": "San Juan County",
   "adapter": "linkscan",
-  "meetings": 23,
-  "documents": 23,
+  "meetings": 24,
+  "documents": 24,
   "ok": 1,
-  "failed": 22,
+  "failed": 23,
   "error": "",
   "log": [
-   "  https://sanjuancounty.colorado.gov/meetings: 23 dated links in window"
+   "  https://sanjuancounty.colorado.gov/meetings: 24 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "san-miguel-county": {
   "name": "San Miguel County",
   "adapter": "civicclerk",
-  "meetings": 23,
-  "documents": 34,
-  "ok": 33,
-  "failed": 1,
+  "meetings": 24,
+  "documents": 36,
+  "ok": 36,
+  "failed": 0,
   "error": "",
   "log": [
-   "  25 events in window"
+   "  26 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "severance": {
   "name": "Severance",
   "adapter": "civicclerk",
   "meetings": 15,
-  "documents": 22,
-  "ok": 19,
-  "failed": 3,
+  "documents": 23,
+  "ok": 21,
+  "failed": 2,
   "error": "",
   "log": [
    "  15 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "sheridan": {
   "name": "Sheridan",
   "adapter": "agendacenter",
-  "meetings": 22,
-  "documents": 22,
-  "ok": 22,
+  "meetings": 21,
+  "documents": 21,
+  "ok": 21,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=07/28/2026&endDate=10/26/2026&dateRange=&dateSelector=: 23 files in window"
+   "  https://ci.sheridan.co.us/AgendaCenter/Search/?term=&CIDs=all&startDate=08/04/2026&endDate=11/02/2026&dateRange=&dateSelector=: 29 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "silt": {
   "name": "Silt",
   "adapter": "linkscan",
-  "meetings": 7,
-  "documents": 7,
-  "ok": 7,
+  "meetings": 8,
+  "documents": 8,
+  "ok": 8,
   "failed": 0,
   "error": "",
   "log": [
-   "  https://www.townofsilt.org/board_of_trustees_agendas_minutes: 14 dated links in window"
+   "  https://www.townofsilt.org/board_of_trustees_agendas_minutes: 15 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "silver-cliff": {
   "name": "Silver Cliff",
@@ -2307,9 +2308,9 @@
   "failed": 13,
   "error": "",
   "log": [
-   "  https://www.silvercliffco.com/AgendaCenter/Search/?term=&CIDs=all&startDate=10/26/2025&endDate=10/26/2026&dateRange=&dateSelector=: 51 files in window"
+   "  https://www.silvercliffco.com/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 51 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "silver-plume": {
   "name": "Silver Plume",
@@ -2322,20 +2323,20 @@
   "log": [
    "  https://silverplumetown.com/agendas-and-minutes/: 13 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "snowmass-village": {
   "name": "Snowmass Village",
   "adapter": "civicclerk",
-  "meetings": 30,
-  "documents": 50,
-  "ok": 48,
+  "meetings": 29,
+  "documents": 48,
+  "ok": 46,
   "failed": 2,
   "error": "",
   "log": [
    "  36 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "starkville": {
   "name": "Starkville",
@@ -2346,114 +2347,114 @@
   "failed": 1,
   "error": "",
   "log": [
-   "  17 events in window"
+   "  18 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "steamboat-springs": {
   "name": "Steamboat Springs",
   "adapter": "onbase",
-  "meetings": 0,
-  "documents": 0,
-  "ok": 0,
+  "meetings": 20,
+  "documents": 20,
+  "ok": 20,
   "failed": 0,
   "error": "",
   "log": [
    "  search: 0 links, 0 meeting pages",
-   "  0 documents in window from 2 page(s)"
+   "  20 documents in window from 2 page(s)"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "sterling": {
   "name": "Sterling",
   "adapter": "linkscan",
   "meetings": 9,
-  "documents": 21,
+  "documents": 20,
   "ok": 16,
-  "failed": 5,
+  "failed": 4,
   "error": "",
   "log": [
-   "  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 22 dated links in window"
+   "  http://www.sterlingcolo.com/government/council_boards_and_commissions_agendas_and_minutes.php: 21 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "summit-county": {
   "name": "Summit County",
   "adapter": "civicweb",
-  "meetings": 4,
-  "documents": 4,
-  "ok": 4,
+  "meetings": 6,
+  "documents": 6,
+  "ok": 6,
   "failed": 0,
   "error": "",
   "log": [
-   "  4 recent meetings in window"
+   "  6 recent meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "superior": {
   "name": "Superior",
   "adapter": "civicclerk",
   "meetings": 29,
-  "documents": 34,
-  "ok": 34,
+  "documents": 32,
+  "ok": 32,
   "failed": 0,
   "error": "",
   "log": [
    "  54 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "teller-county": {
   "name": "Teller County",
   "adapter": "civicclerk",
   "meetings": 18,
-  "documents": 31,
-  "ok": 30,
+  "documents": 32,
+  "ok": 31,
   "failed": 1,
   "error": "",
   "log": [
    "  19 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "telluride": {
   "name": "Telluride",
   "adapter": "civicweb",
-  "meetings": 40,
-  "documents": 40,
-  "ok": 38,
+  "meetings": 38,
+  "documents": 39,
+  "ok": 37,
   "failed": 2,
   "error": "",
   "log": [
-   "  40 recent meetings in window"
+   "  39 recent meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "thornton": {
   "name": "Thornton",
   "adapter": "primegov",
-  "meetings": 36,
-  "documents": 36,
-  "ok": 35,
+  "meetings": 41,
+  "documents": 41,
+  "ok": 40,
   "failed": 1,
   "error": "",
   "log": [
-   "  39 meetings in window"
+   "  44 meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "timnath": {
   "name": "Timnath",
   "adapter": "civicweb",
-  "meetings": 12,
-  "documents": 12,
-  "ok": 12,
+  "meetings": 14,
+  "documents": 14,
+  "ok": 14,
   "failed": 0,
   "error": "",
   "log": [
-   "  12 recent meetings in window"
+   "  14 recent meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "washington-county": {
   "name": "Washington County",
@@ -2466,33 +2467,33 @@
   "log": [
    "  https://washingtoncounty.colorado.gov/2026-agendas: 12 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "weld-county": {
   "name": "Weld County",
   "adapter": "weblink",
-  "meetings": 24,
-  "documents": 24,
-  "ok": 24,
+  "meetings": 23,
+  "documents": 23,
+  "ok": 23,
   "failed": 0,
   "error": "",
   "log": [
    "  24 meeting pages in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "wellington": {
   "name": "Wellington",
   "adapter": "civicclerk",
   "meetings": 18,
-  "documents": 29,
-  "ok": 27,
+  "documents": 28,
+  "ok": 26,
   "failed": 2,
   "error": "",
   "log": [
    "  21 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "westcliffe": {
   "name": "Westcliffe",
@@ -2505,72 +2506,72 @@
   "log": [
    "  https://townofwestcliffe.colorado.gov/town-board-of-trustees-meetings: 37 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "westminster": {
   "name": "Westminster",
   "adapter": "primegov",
-  "meetings": 16,
-  "documents": 16,
-  "ok": 16,
+  "meetings": 17,
+  "documents": 17,
+  "ok": 17,
   "failed": 0,
   "error": "",
   "log": [
-   "  16 meetings in window"
+   "  17 meetings in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "williamsburg": {
   "name": "Williamsburg",
   "adapter": "linkscan",
-  "meetings": 17,
-  "documents": 17,
-  "ok": 1,
-  "failed": 16,
+  "meetings": 18,
+  "documents": 18,
+  "ok": 0,
+  "failed": 18,
   "error": "",
   "log": [
-   "  https://townofwilliamsburg.colorado.gov/board-agendas: 25 dated links in window"
+   "  https://townofwilliamsburg.colorado.gov/board-agendas: 27 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "windsor": {
   "name": "Windsor",
   "adapter": "civicclerk",
-  "meetings": 41,
-  "documents": 63,
-  "ok": 63,
+  "meetings": 40,
+  "documents": 58,
+  "ok": 58,
   "failed": 0,
   "error": "",
   "log": [
-   "  47 events in window"
+   "  46 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "winter-park": {
   "name": "Winter Park",
   "adapter": "granicus",
-  "meetings": 15,
-  "documents": 15,
-  "ok": 15,
+  "meetings": 14,
+  "documents": 14,
+  "ok": 14,
   "failed": 0,
   "error": "",
   "log": [
-   "  25 documents in window"
+   "  24 documents in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "woodland-park": {
   "name": "Woodland Park",
   "adapter": "civicclerk",
-  "meetings": 17,
-  "documents": 22,
-  "ok": 14,
+  "meetings": 16,
+  "documents": 21,
+  "ok": 13,
   "failed": 8,
   "error": "",
   "log": [
    "  36 events in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "wray": {
   "name": "Wray",
@@ -2581,9 +2582,9 @@
   "failed": 0,
   "error": "",
   "log": [
-   "  http://www.cityofwray.org/AgendaCenter/Search/?term=&CIDs=all&startDate=10/26/2025&endDate=10/26/2026&dateRange=&dateSelector=: 11 files in window"
+   "  http://www.cityofwray.org/AgendaCenter/Search/?term=&CIDs=all&startDate=11/02/2025&endDate=11/02/2026&dateRange=&dateSelector=: 11 files in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "yuma": {
   "name": "Yuma",
@@ -2596,19 +2597,19 @@
   "log": [
    "  https://cityofyuma.colorado.gov/agendas: 17 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  },
  "yuma-county": {
   "name": "Yuma County",
   "adapter": "linkscan",
-  "meetings": 24,
-  "documents": 24,
+  "meetings": 23,
+  "documents": 23,
   "ok": 16,
-  "failed": 8,
+  "failed": 7,
   "error": "",
   "log": [
-   "  https://yumacounty.colorado.gov/board-meetings: 24 dated links in window"
+   "  https://yumacounty.colorado.gov/board-meetings: 23 dated links in window"
   ],
-  "run": "2026-10-26"
+  "run": "2026-11-02"
  }
 }

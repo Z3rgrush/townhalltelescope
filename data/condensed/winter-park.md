@@ -1,17 +1,6 @@
 # winter-park
 
-## [winter-park#0] 2026-07-28 | Planning Commission | agenda
-- Public Comment
-- Special Use Permit - Rooted Food Trailer (PLN26-048)
-- Project_drawings_20260507.pdf
-- Planning Commission Items of Discussion
-- This time is reserved for Commission discussion items that are not listed on the agenda
-- PC Priorities List 2026 Discussion.pdf
-- Public Hearing Process
-- 50 Vasquez Road | P.O BOX 3327
-- Winter Park, Colorado 88482
-
-## [winter-park#2] 2026-08-11 | Planning Commission | agenda
+## [winter-park#1] 2026-08-11 | Planning Commission | agenda
 - Public Comment
 - Minor Site Plan - 373 Bear Trail (PLN26-064)
 - 01 - LOT 6 - PLOT PLAN - UPDATE.pdf
@@ -27,7 +16,7 @@
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#3] 2026-08-18 | Urban Renewal Authority | agenda
+## [winter-park#2] 2026-08-18 | Urban Renewal Authority | agenda
 - Approval of July 21, 2026, Meeting Minutes
 - Resolution 25, A Resolution of the Board of Commissioners of the Winter Park Urban Renewal Authority Approving a Tax Increment Revenue Agreement with the East Grand County Fire Protection District No. 4
 - 03a WPURA_Staff_Report_TIF_EGFPD.pdf
@@ -42,7 +31,7 @@
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#5] 2026-08-25 | Planning Commission | agenda
+## [winter-park#4] 2026-08-25 | Planning Commission | agenda
 - Public Comment
 - ROAM Neighborhood Park
 - Upcoming Projects (BOA, Site Plans)
@@ -52,7 +41,7 @@
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#7] 2026-09-08 | Board of Adjustment | agenda
+## [winter-park#6] 2026-09-08 | Board of Adjustment | agenda
 - Approval of Minutes
 - BOA Setback Variance Request - 23 Maple Road (PLN26-076)
 - Draft Resolution for Approval PLN26-076 Final.pdf
@@ -61,7 +50,7 @@
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#8] 2026-09-08 | Planning Commission | agenda
+## [winter-park#7] 2026-09-08 | Planning Commission | agenda
 - Public Comment
 - Minor Site Plan - 40 Ski Idlewild Road (PLN26-046)
 - 40 Ski Idlewild Road_Narrative_20260430_Redacted.pdf
@@ -82,13 +71,13 @@
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#9] 2026-09-14 | Transit Advisory Committee | agenda
+## [winter-park#8] 2026-09-14 | Transit Advisory Committee | agenda
 - 2027 Transit Operating Budget
 - Topic: Town of Winter Park Transit Advisory Committee
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#11] 2026-09-22 | Planning Commission | agenda
+## [winter-park#10] 2026-09-22 | Planning Commission | agenda
 - Public Comment
 - Master Sign Program - Arrow at Winter Park (PLN26-088)
 - Land Use Review Application Form - Fully Executed - 20260916_Redacted.pdf
@@ -102,13 +91,13 @@
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#12] 2026-10-05 | Transit Advisory Committee | agenda
+## [winter-park#11] 2026-10-05 | Transit Advisory Committee | agenda
 - Winter Park Transit Advisory Committee Packet 10052026
 - Topic: Winter Park Transit Advisory Committee Meeting
 - 50 Vasquez Road | P.O BOX 3327
 - Winter Park, Colorado 88482
 
-## [winter-park#14] 2026-10-20 | Town Council | agenda
+## [winter-park#13] 2026-10-20 | Town Council | agenda
 - Town Hall Meeting (Public Comment)
 - Public Comment is restricted to three minutes per person, and you must state your name and physical address for the record. Please be mindful of not reiterating other people's comments
 - Approval of October 6, 2026, Regular Meeting Minutes

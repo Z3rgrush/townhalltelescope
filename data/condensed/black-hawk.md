@@ -592,3 +592,44 @@
 - 9. PUBLIC HEARINGS:
 - A. Resolution 48-2026, A Resolution Approving the Vacant Land Sale Agreement Between
 - B. Resolution 53-2026, A Resolution to Encourage Diversification of the City's Local
+
+## [black-hawk#22] 2026-10-14 | Mayor and City Council | minutes
+- Staff Present: City Attorney Hoffmann, City Manager Hillis, Police Chief Reyes, Fire
+- Development Director Svoboda, Development Services Coordinator
+- Richards, City Engineer Reed, Water Resource Engineer Dallam, Water
+- COMMENTS: Mayor Spellman said, in keeping with the season of Halloween Street
+- most people he had seen in one day. The parking areas were filled to
+- the County Commissioners want bold restraint on their capacity to levy
+- taxes and how to spend them to be overthrown. There is little promise
+- that they won't raise taxes, but they could. He believes they plan to raise
+- taxes on homeowners whose property taxes just went up, so it would be
+- a double whammy on homeowners to be taxed on that added value. He
+- said all they can think about is raising taxes; they refused the money we
+- taxes on homeowners. He believes the Commissioners would be much
+- against IA and that this is not the time to raise property taxes. He
+- taxes, but he can't imagine it would have any other purpose
+- 6. PUBLIC COMMENT: Deputy City Clerk Martin confirmed no one had signed up to speak
+- 7. APPROVAL OF
+- Bennett to approve the Minutes as presented
+- MOTION PASSED There was no discussion, and the motion PASSED unanimously
+- 8. PUBLIC HEARINGS:
+- A. CB14, An Ordinance Approving the Amended and Restated Intergovernmental Seiavice
+- Agreement Between the City of Black Hawk and the Black Hawk/Central City Sanitation
+- Mayor Spellman read the title and opened the public hearing
+- agreements. Mayor Spellman added that the only difference is that the
+- needed, and, of course, the lease agreement for their space
+- PUBLIC HEARING: Mayor Spellman declared a Public Hearing on CB14, an Ordinance
+- approving the amended and restated Intergovernmental Service
+- Agreement between the City of Black Hawk and the Black Hawk/Central
+- Board either "for" or "against" the Ordinance to come forward
+- Hearing closed
+- to approve CB14, an Ordinance approving the amended and restated
+- Intergovernmental Service Agreement between the City of Black Hawk
+- B. Resolution 57-2026, A Resolution Approving a Professional Services Agreement with
+- Fire Chief Woolley introduced this item as an effort to continue
+- Bennett to approve Resolution 57-2026, a Resolution approving a
+- Professional Services Agreement with Good People Tree Service in an
+- MOTION PASSED After some discussion, the motion PASSED unanimously
+- C. Resolution 58-2026, A Resolution Awarding the Bid and Approving the Contract Between
+- $160,400.00 for Construction of the Bobtail Wall Excavation Project
+- project area. He said the slope just outside the portal needs to be

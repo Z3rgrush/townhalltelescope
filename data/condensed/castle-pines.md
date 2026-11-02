@@ -1,35 +1,6 @@
 # castle-pines
 
-## [castle-pines#0] 2026-07-28 | City Council Study Session and Regular Meeting | minutes
-- APPROVAL OF AGENDA
-- The agenda was approved as presented
-- PUBLIC COMMENT
-- Stated that she does not support the location of the coffee shop on
-- Castle Pines Parkway and would like to see the roadway opened to
-- PRESENTATION OF MINUTES
-- The July14, 2026 City Council Meeting Minutes were approved as presented
-- Council Member Blue raised a Point of Order requesting that the podium be
-- Resolution 26-42, A Resolution of the City Council of the City of Castle
-- Pines, Colorado, Approving the Romar West, 3rd Amendment Replat,
-- Resolution 26-43, A Resolution of the City Council of the City of Castle
-- Pines, Colorado, Approving the Castle Pines North Filing No. 27, 7th
-- Amendment Replat, Case No. SRP-2025-002
-- Resolution 26-44, A Resolution of the City Council of the City of Castle
-- Pines, Colorado, Approving the Castle Pines North Filing No. 27, 8th
-- Amendment Replat, Case No SRP-2025-003
-- Resolution 26-45, A Resolution of the City Council of the City of Castle
-- Pines, Colorado, Approving the Castle Pines North Filing No. 17A, 1st
-- Amendment Replat, Case No. SRP-2025-004
-- Resolution 26-46, A Resolution of the City Council of the City of Castle
-- Pines, Colorado, Approving the Castle Pines North Filing No. 30 Plat,
-- Resolution No. 26-47, A Resolution of the City Council of the City of
-- Castle Pines, Colorado, Approving Castle Pines North Filing No. 16, 1st
-- Amendment Replat, Case No. SRP-2025-006
-- Motion: Council Member Eubanks moved to approve all items as presented on the
-- MINUTES SUBMITTED: APPROVED:
-- Agreement completed
-
-## [castle-pines#1] 2026-08-04 | City Council Study Session | agenda
+## [castle-pines#0] 2026-08-04 | City Council Study Session | agenda
 - 2027 Budget Policy and Strategic Projects Discussion
 - 2026-07-30 City Council Strategic Projects 2027 to 2029.pdf
 - 2027 CITY COUNCIL STRATEGIC
@@ -60,7 +31,7 @@
 - SPRING TRIBUTARY STORMWATER
 - I-25/CASTLE PINES PARKWAY
 
-## [castle-pines#2] 2026-08-11 | City Council Meeting | minutes
+## [castle-pines#1] 2026-08-11 | City Council Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -88,7 +59,7 @@
 - MINUTES SUBMITTED: APPROVED:
 - Agreement completed
 
-## [castle-pines#3] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
+## [castle-pines#2] 2026-08-20 | Parks and Recreation Advisory Board Meeting | minutes
 - Parks and Recreation Advisory Board
 - REGULAR MEETING OF THE PARKS AND RECREATION
 - The meeting of the Parks and Recreation Advisory Board of the City of
@@ -111,7 +82,7 @@
 - "2026-08-20 Parks and Recreation Advisory Board Minutes" Hist
 - Agreement completed
 
-## [castle-pines#4] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
+## [castle-pines#3] 2026-08-25 | City Council Study Session and Regular Meeting | minutes
 - Donna Ferguson, Community Development Director
 - APPROVAL OF AGENDA
 - The agenda was approved as presented
@@ -155,7 +126,7 @@
 - the City Charter to Require Voter Approval for Certain Annexations in Excess
 - Motion: Council Member Eubanks moved to approve Resolution 26-53, A
 
-## [castle-pines#5] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
+## [castle-pines#4] 2026-09-17 | Parks and Recreation Advisory Board Meeting | agenda
 - PUBLIC COMMENT
 - PRESENTATION OF MINUTES
 - Minutes from the August 20, 2026 Parks and Recreation Advisory Board Meeting
@@ -200,51 +171,49 @@
 - Options 1 or 2, Option 3 keeps the trail system closer to its current look and feel rather
 - improvement in location identification over the trail network’s current signage, even
 
-## [castle-pines#6] 2026-09-22 | City Council Study Session and Regular Meeting | agenda
-- c. Ordinance 26-07 Overview
-- 2026-09-22 Ordinance 26-07 Campaign Finance Study Session.pd f
-- 4. Approval of Agenda
-- 5. Public Comment
-- 6. Special Presentation
-- 7. Presentation of Minutes
-- 8a. Ordinance 26-07, An Ordinance of the City Council of the City of Castle Pines,
-- Colorado, Amending Article 1 of Chapter 2 of the Castle Pines Municipal Code
-- Ordinance 26-07, Campaign Finance.docx
-- City Council Staff Report Ordinance 26-07.pdf
-- 8b. Ordinance 26-08, An Ordinance of the City Council of the City of Castle Pines,
+## [castle-pines#5] 2026-09-22 | City Council Study Session and Regular Meeting | minutes
+- APPROVAL OF AGENDA
+- The agenda was approved as presented
+- PUBLIC COMMENT
+- stakeholders in future development and noted she believes three
+- minutes for public comment gives no meaningful opportunity to
+- respond. She requested that an adjacent property owner notification
+- Jeff Fregeau, 6210 Oxford Peak Lane, Castle Rock, requested a
+- centralized online location for development information, additional
+- ask questions, and requests that The Village at Castle Pines HOA be
+- included in the City’s development referral and notification process
+- SPECIAL PRESENTATION
+- PRESENTATION OF MINUTES
+- The August 25, 2026 City Council Meeting Minutes were approved as presented
+- Ordinance 26-07, An Ordinance of the City Council of the City of Castle
+- Pines, Colorado, Amending Article 1 of Chapter 2 of the Castle Pines
+- Ordinance 26-08, An Ordinance of the City Council of the City of Castle Pines,
 - Colorado, Approving the Conveyance of Certain Recreation Properties from the
-- Intergovernmental Agreement Between the City of Castle Pines and the Castle Pines
-- City Council Staff Report Ordinance 26-08.pdf
-- Ordinance 26-08, Transfer of CPNMD Properties to City.docx
-- 8c. Ordinance 26-09, An Ordinance of the City Council of the City of Castle Pines,
-- Colorado, Approving The Conveyance of Certain Tracts of Land to the Castle Pines
-- North Metropolitan District Pursuant to the Intergovernmental Agreement Between
-- City Council Staff Report Ordinance 26-09.pdf
-- Ordinance 26-09, Authorizing Conveyance of Tracts to CPNMD.docx
-- 8d. Resolution 26-55, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Approving a Professional Services Agreement Between the City of Castle
-- City Council Staff Report Resolution 26-55.pdf
-- Resolution 26-55, Approving Designscapes Snow Removal Agreement.docx
-- 2026-2027 Updated Bid Schedule (1).pdf
-- 8e. Resolution 26-56, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Approving a First Amendment to the Professional Services Agreement
-- City Council Staff Report Resolution 26-56.pdf
-- Resolution 26-56, Approving First Amendment Alfred Benesch PSA.docx
-- 2026 First Amendment Benesch Engineering.docx
-- 9b. Resolution 26-57, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Approving First Amendment to the Intergovernmental Agreement Between
-- City Council Staff Report Resolution 26-57.pdf
-- Resolution 26-57, Approving Amendment to CDOT Happy Canyon Funding IGA.docx
-- CDOT Design Phase Funding Amendment - Complete Draft AM1 Castle Pines (25535)
-- 9c. Resolution 26-58, A Resolution of the City Council of the City of Castle Pines,
-- Colorado, Approving an Intergovernmental Agreement Between the City of Castle
-- Canyon Road/I-25 Interchange Project
-- City Council Staff Report Resolution 26-58.pdf
-- Resolution 26-58, Approving Douglas County IGA Happy Canyon Interchange.docx
-- 9d. Resolution 26-59, A Resolution of the City Council of the City of Castle Pines,
-- City Council Staff Report Resolution 26-59.pdf
+- the Intergovernmental Agreement Between the City of Castle Pines and the
+- Ordinance 26-09, An Ordinance of the City Council of the City of Castle
+- Pines, Colorado, Approving the Conveyance of Certain Tracts of Land to
+- Intergovernmental Agreement Between the City of Castle Pines and the
+- Resolution 26-55, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving a Professional Services Agreement Between
+- Resolution 26-56, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving a First Amendment to the Professional
+- Services Agreement Between the City of Castle Pines and Alfred Benesch
+- Motion: Council Member Eubanks moved to approve all items on the Consent
+- Resolution 26-57, A Resolution of the City Council of the City of Castle
+- Pines, Colorado, Approving First Amendment to the Intergovernmental
+- Agreement Between the City of Castle Pines and the State of Colorado, on
+- Motion: Council Member Mulvey moved to approve Resolution 26-57, A
+- Resolution of the City Council of the City of Castle Pines, Colorado, Approving
+- First Amendment to the Intergovernmental Agreement Between the City of Castle
+- Resolution 26-58, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving an Intergovernmental Agreement Between the City of
+- Operations for the Happy Canyon Road/I-25 Interchange Project
+- Motion: Council Member Mulvey moved to approve Resolution 26-58, A
+- Resolution of the City Council of the City of Castle Pines, Colorado, Approving an
+- Intergovernmental Agreement Between the City of Castle Pines and the Board of
+- Construction, Maintenance and Operations for the Happy Canyon Road/I-25
 
-## [castle-pines#7] 2026-10-13 | City Council Study Session and Regular Meeting | agenda
+## [castle-pines#6] 2026-10-13 | City Council Study Session and Regular Meeting | agenda
 - Approval of Agenda
 - Public Comment
 - Presentation of Minutes
@@ -287,7 +256,7 @@
 - Development as Part of a Commitment to Proposition 123, as Adopted by Colorado
 - Staff Report Resolution 26-63.pdf
 
-## [castle-pines#8] 2026-10-15 | Parks and Recreation Advisory Board Meeting | agenda
+## [castle-pines#7] 2026-10-15 | Parks and Recreation Advisory Board Meeting | agenda
 - PUBLIC COMMENT
 - PRESENTATION OF MINUTES
 - Minutes from the September 17, 2026 Parks and Recreation Advisory Board Meeting
@@ -310,7 +279,7 @@
 - MINUTES SUBMITTED: APPROVED:
 - Katie Goins, Deputy City Clerk Tiffany Ball, Chair
 
-## [castle-pines#9] 2026-10-20 | City Council Study Session | agenda
+## [castle-pines#8] 2026-10-20 | City Council Study Session | agenda
 - City Manager's Proposed 2027 Annual Budget Presentation
 - 2026-10-20 Study Session - City Manager Proposed 2027 Annual Budget.pdf
 - 2027 ANNUAL BUDGET
@@ -366,3 +335,50 @@
 - Roads County Sales/Use Tax Sharebacks 567,629 578,000 2% 587,000 -7% 547,000
 - Overall, a 28% decrease from 2026 year-end projections led by decreases in
 - Building Permit and Planning and Zoning revenue estimates
+
+## [castle-pines#9] 2026-10-27 | City Council Study Session and Regular Meeting | agenda
+- Axon Camera Discussion
+- Approval of Agenda
+- Public Comment
+- Presentation of Minutes
+- Ordinance 26-11, An Ordinance of the City Council of the City of Castle Pines,
+- Colorado, Vacating a Portion of South Havana Street within the Final Plat
+- Ordinance 26-11 South Havana Street Vacation (RV-2026-001).docx
+- Exhibit A - ROW Vacation Exhibit.pdf
+- Resolution 26-65, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving the Canyonside Subdivision Filing No. 1, 3rd Amendment, Case
+- City Council Staff Report Canyonside Resolution 26-65.pdf
+- Resolution 26-65, Approving Replat Canyonside Filing No. 1, 3rd Amend SRP-2026
+- Attachment A - Final Plat.pdf
+- Resolution 26-67, A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving an Agreement for Professional Services Between the City of
+- City Council Staff Report Resolution 26-67.pdf
+- Resolution 26-67, PSA with JR Engineering.docx
+- Resolution 26-68, A Resolution of the City Council of the City of Castle Pines,
+- Colorado Approving the Castle Pines North Filing No. 27, 9th Amendment Replat,
+- City Council Staff Report Resolution 26-68.pdf
+- Resolution 26-68 Approving Replat CPN No. 27 9th Amendment.docx
+- Plat_Exhibit_-_Parcel_88.pdf
+- Resolution 26-69, A Resolution of the City Council of the City of Castle Pines,
+- Pines Parkway Northbound Interchange Monument at I-25
+- City Council Staff Report - Resolution 26-29.pdf
+- Resolution 26-69 - Approving a PSA for Design and Engineering Services for the I-25 &
+- PUBLIC HEARING: Ordinance 26-10, An Ordinance of the City Council of the City of
+- Castle Pines, Colorado, Amending the Boundaries of the Three Districts of the City in
+- City Council Staff Report Ordinance 26-10 on Second Reading.pdf
+- A - Ordinance No 26-10 Castle Pines Redistricting_2026 (1).docx
+- 2026-10-13 - Ordinance No (1).pdf
+- Resolution 26-72,
+- A Resolution of the City Council of the City of Castle Pines,
+- Colorado, Approving an Intergovernmental Agreement Between the City of Castle
+- and Funding Obligations Connected to the Interstate 25 and Happy Canyon Road
+- Interchange Project
+- City Council Staff Report - Resolution 26-72.pdf
+- Resolution 26-72 - Approving IGA for BTE Funds for Happy Canyon Interchange.docx
+- Resolution 26-73, A Resolution of the City Council of the City of Castle Pines,
+- 25 and Happy Canyon Road Interchange Project
+- Resolution 26-73 Approving CDOT M&O IGA.docx
+- City Council Staff Report Resolution 26-73.pdf
+- October 2026 City Council Grant Update .pdf
+- employee and for which the employee has consented to the discussion in
+- Donna Ferguson, Community Development Director

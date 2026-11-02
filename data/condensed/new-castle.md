@@ -146,50 +146,14 @@
 - Consider actions we can take to decrease waste at other community events
 - Approval of July 16, 2026 minutes
 
-## [new-castle#15] 2026-09-21 | Historic Preservation Commission  | agenda
-- 450 W Main Street
-- Items for Consideration
-- A. Consider Videography Project
-- B. Consider HPC Applying for Grants for Survey of Historical
-- C. Consider Draft of CLG Audit
-- D. Approval of July 20, 2026, Minutes
-
-## [new-castle#16] 2026-09-21 | Historic Preservation Commission  | agenda
-- 450 W Main Street
-- Items for Consideration
-- A. Consider Videography Project
-- B. Consider HPC Applying for Grants for Survey of Historical
-- C. Consider Draft of CLG Audit
-- D. Approval of July 20, 2026, Minutes
-- SHF/CLG Grants - Associated Consultants
-- Following is a partial list of persons who have worked on State Historical Fund/Certified Local
-- Government grant-funded projects
-- This list is not complete and does not represent a certification, endorsement, recommendation
-- contractor indicated within it
-- Heritage Strategies, LLC ........................................................................................................... 410 725-1272
-- Pine Street Preservation …………………..……………………………………………………………………………….. 210 347-5558
-- Commissioner Richard Parks
-- Resolution TC 2026-1
-- Consider Review of Designation Plaque
-- first burial. The cemetery was established in 1888. Chair Riddile asked how the budget
-- budget and there is money in the budget for a new plaque
-- MOTION: Chair Riddile made a motion to approve a new plaque with the year
-- Consider Future Videography Subjects
-- Discussion for Goals on Next Grant Proposal
-- Grants Portal. There is an open-ended grant to complete a survey of Coryell Town. She said
-- Commissioner Parks said the commission was discussing a GIS database for historic
-- properties that would be accessible. He said there could be grant money available to create
-- Consider Approval of May 18, 2026, Minutes
-- MOTION: Commissioner Parks made a motion to approve the minutes from May
-
-## [new-castle#17] 2026-09-23 | Planning and Zoning Commission | agenda
+## [new-castle#15] 2026-09-23 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 
-## [new-castle#18] 2026-10-06 | Town Council | agenda
+## [new-castle#16] 2026-10-06 | Town Council | agenda
 - 450 W. Main Street
 - a. Police Department Tour and Council Photos
 
-## [new-castle#19] 2026-10-06 | Town Council | agenda
+## [new-castle#17] 2026-10-06 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Presentation – Garfield County RE2 Ballot Issue Committee
@@ -201,39 +165,39 @@
 - G. Approval of Month Bills - $760,381.54
 - Planning & Zoning Commission
 
-## [new-castle#20] 2026-10-14 | Planning and Zoning Commission | agenda
+## [new-castle#18] 2026-10-14 | Planning and Zoning Commission | agenda
 - 450 W Main Street
 - New Castle Planning and Zoning Commissiosn October 14, 2026
 
-## [new-castle#21] 2026-10-15 | Climate and Environment Commission | agenda
+## [new-castle#19] 2026-10-15 | Climate and Environment Commission | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of the Trash Clean-up on October 10, 2026
 - B. Consider the November Dates for 3 Hour Worksession
 - C. 2026 Budget and Bag Fee Update
 
-## [new-castle#22] 2026-10-15 | Climate and Environment Commission | agenda
+## [new-castle#20] 2026-10-15 | Climate and Environment Commission | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of the Trash Clean-up on October 10, 2026
 - B. Consider the November Dates for 3 Hour Worksession
 - C. 2026 Budget and Bag Fee Update
 
-## [new-castle#23] 2026-10-19 | Historic Preservation Commission  | agenda
+## [new-castle#21] 2026-10-19 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 
-## [new-castle#24] 2026-10-20 | General | agenda
+## [new-castle#22] 2026-10-20 | General | agenda
 - 450 W Main Street
 - A. 2026 Budget
 
-## [new-castle#25] 2026-10-20 | General | agenda
+## [new-castle#23] 2026-10-20 | General | agenda
 - 450 W Main Street
 - A. 2026 Budget
 - landfill fees, Mountain Waste is working to gather data that will drive our 2027 trash and recycle fees
 - Mountain Waste would like to take a few minutes to discuss the upcoming changes and will return in
 - 450 W. Main Street
 
-## [new-castle#26] 2026-10-20 | Town Council | agenda
+## [new-castle#24] 2026-10-20 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - B. Presentation – Garfield County School of Innovation
@@ -245,7 +209,7 @@
 - of these items unless a council member or citizen requests it, in
 - Planning & Zoning Commission
 
-## [new-castle#27] 2026-10-20 | Town Council | agenda
+## [new-castle#25] 2026-10-20 | Town Council | agenda
 - 450 W Main Street
 - Items for Consideration
 - B. Presentation – Garfield County School of Innovation
@@ -290,7 +254,7 @@
 - its adoption. The current comprehensive plan can be found here:
 - I. What is a comprehensive plan?
 
-## [new-castle#28] 2026-10-26 | Historic Preservation Commission  | agenda
+## [new-castle#26] 2026-10-26 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Videography Project
@@ -299,7 +263,7 @@
 - C. Consider Survey Grant Updates
 - D. Approval of CLG Audit
 
-## [new-castle#29] 2026-10-26 | Historic Preservation Commission  | agenda
+## [new-castle#27] 2026-10-26 | Historic Preservation Commission  | agenda
 - 450 W Main Street
 - Items for Consideration
 - A. Discussion of Videography Project
@@ -343,3 +307,6 @@
 - B. Discuss Highland Cemetery Designation Celebration
 - C. Approval of February 23, 2026, Minutes
 - D. Update of Videography Project
+
+## [new-castle#28] 2026-10-28 | Planning and Zoning Commission | agenda
+- 450 W Main Street

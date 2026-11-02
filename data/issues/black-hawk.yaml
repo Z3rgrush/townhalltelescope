@@ -1,5 +1,16 @@
-- title: 'Water supply expansion: Four Mile Gulch Well #6 and residents'' water concerns'
-  summary: 'Council approved a contract in May for Four Mile Gulch Well #6 near Dory Hill Road, to be drilled 1,000 feet deep. At the Sept. 9 meeting, residents of unincorporated Black Hawk (including Aspen Springs and Chalet Park) asked the city to pause additional wells and study harm to neighbors'' water. The city is also pursuing an Army Corps of Engineers permit for a reservoir, and approved a reimbursement agreement (CB12) for the permit review costs.'
+- title: Education Enhancement Tax and the proposed Gilpin County sales tax
+  summary: Black Hawk's 1.5% Education Enhancement Tax for the Gilpin school has raised about $16.9 million since 2009 and ends automatically if a countywide sales tax is adopted. Council discussed the County Commissioners' possible November 2026 sales tax and passed Resolution 17-2026 on March 25 reaffirming that the tax would terminate.
+  where: Countywide
+  refs:
+  - 7
+  - 9
+  - 11
+  topics:
+  - Budget & taxes
+  - Schools & youth
+  - Fees & rates
+- title: 'Water supply: Four Mile Gulch Well #6 and Army Corps reservoir permit'
+  summary: 'The city is pursuing an Army Corps of Engineers permit for a reservoir and approved a reimbursement agreement (CB12) covering review costs. Residents of unincorporated Aspen Springs and Chalet Park spoke on Sept. 9 against drilling Well #6 near Dory Hill Road, saying it could harm neighbors'' water, and asked the council to pause additional wells.'
   where: Four Mile Gulch / Dory Hill Road
   refs:
   - 19
@@ -9,67 +20,32 @@
   - Environment & climate
   - Land & property
   public_comment: true
-- title: Education Enhancement Tax and possible Gilpin County sales tax
-  summary: Black Hawk's 1.5% Education Enhancement Tax, which has raised over $10 million for the Gilpin school since 2009, would automatically end if county voters approve a countywide sales tax. The county is considering such a tax for the November 2026 ballot. Council discussed it in February and March and adopted Resolution 17-2026 reaffirming the tax's self-terminating conditions.
-  where: Countywide (Gilpin County)
-  refs:
-  - 7
-  - 9
-  - 11
-  topics:
-  - Budget & taxes
-  - Schools & youth
-  - Elections
-- title: Wildfire Resiliency Code adopted
-  summary: Council adopted the 2025 Wildfire Resiliency Code by reference into the municipal code (CB3) after a March 25 public hearing, passing 5-1. In July the city manager also issued an administrative order imposing fire restrictions.
+- title: Wildfire Resiliency Code adoption and fire restrictions
+  summary: Council adopted the 2025 Wildfire Resiliency Code into the municipal code on March 25 by a 5-1 vote. In July the city manager issued an administrative order imposing fire restrictions. The city also contracted Good People Tree Service for fire mitigation work.
   where: Citywide
   refs:
   - 7
   - 11
   - 17
+  - 22
   topics:
   - Fire & emergencies
   - Zoning & development
   - Environment & climate
-- title: Vacant land sale agreement (Resolution 48-2026) and Central City roadway traffic dispute
-  summary: Resolution 48-2026, a vacant land sale agreement, was repeatedly continued from August into September. Discussion at the Aug. 12 meeting touched on Central City's roadway permitting process and the traffic study behind it.
-  where: Black Hawk / Central City border
+- title: City-owned land purchases and sales, including Resolution 48-2026
+  summary: Council approved a contract to buy land on Gregory Hill in June and accepted a property conveyance in July. A vacant land sale agreement (Resolution 48-2026) was repeatedly continued from August into September, with discussion of Central City's roadway permitting and traffic study.
+  where: Gregory Hill / Gregory Street
   refs:
+  - 16
+  - 18
   - 19
   - 20
   - 21
   topics:
   - Land & property
   - Roads & traffic
-- title: Gregory Hill land purchase and property deals
-  summary: Council approved a contract to buy land on Gregory Hill in June and accepted conveyance of property in July. A boundary line agreement involving Oregory Street was approved in January.
-  where: Gregory Hill / Gregory Street
-  refs:
-  - 1
-  - 16
-  - 18
-  topics:
-  - Land & property
-- title: Highway 119 storm culvert repairs
-  summary: After a hole opened in Highway 119 at Gregory Street from a failed culvert, council approved an agreement with Insituform Technologies (C & L Water Solutions) to reline two storm culverts under the highway.
-  where: Highway 119 at Gregory Street
-  refs:
-  - 17
-  topics:
-  - Roads & traffic
-  - Utilities
-- title: 'City capital projects: Bobtail Mine, Ballard House, Red Dolly electrical, storage sheds'
-  summary: Council approved a $949,307 change order for Bobtail Mine Improvements Phase 2. It also awarded bids for the Red Dolly Casino electrical service relocation, storage sheds, and the Ballard House renovation with Barn Shed addition (Roche Constructors). An ordinance (CB10) changed the approval process for city capital projects.
-  where: Citywide
-  refs:
-  - 15
-  - 16
-  - 19
-  topics:
-  - Government operations
-  - Budget & taxes
-- title: Police chief and city manager transitions
-  summary: Police Chief Moriarty retired after a 31-year career, and Ely Reyes became the new chief in July. Council approved an employment agreement for Lance Hillis as city manager, effective May 2, after personnel discussions about the prior manager.
+- title: 'Leadership turnover: new City Manager and Police Chief'
+  summary: Police Chief Moriarty announced her retirement after 31 years, and the council met in executive session on City Manager matters. Lance Hillis's employment agreement as City Manager took effect May 2 (Resolution 22-2026), and Ely Reyes was introduced as the new Police Chief in July.
   where: Citywide
   refs:
   - 3
@@ -78,35 +54,51 @@
   topics:
   - Government operations
   - Policing & public safety
-- title: Fee schedule update and 2025 audit
-  summary: Council approved an amended fee schedule in June that aligns commercial electrical fees with state fees and changes SAFEbuilt's rate to consultant fees. It also accepted the 2025 audit.
+- title: 'Capital projects: Bobtail Mine, Highway 119 culverts, Red Dolly electrical, Ballard House'
+  summary: Council approved a $949,307 change order for Bobtail Mine Improvements Phase 2 and a $160,400 Bobtail wall excavation contract. It also approved relining two storm culverts under Highway 119 after a failure at Gregory Street, the Red Dolly Casino electrical relocation, storage sheds, and Ballard House renovation with a barn shed addition (Roche Constructors). Also streamlined the capital project approval process (CB10).
+  where: Highway 119, Gregory Street, Bobtail Mine
+  refs:
+  - 15
+  - 16
+  - 17
+  - 19
+  - 22
+  topics:
+  - Roads & traffic
+  - Utilities
+  - Government operations
+- title: Historic preservation and Lace House designation
+  summary: The Historic Preservation Commission is working on the Lace House designation, a phased reconnaissance survey and an intensive survey property list. Council accepted the reconnaissance survey and the Five-Year HPC Work Plan in August to meet Certified Local Government requirements.
   where: Citywide
   refs:
-  - 16
+  - 2
+  - 20
   topics:
-  - Fees & rates
-  - Budget & taxes
+  - Historic preservation
 - title: Rick Thomas Distillery trademark license and water fee waiver
-  summary: Council approved a trademark license agreement with Rick Thomas Distillery and extended a waiver of water fees for one more year for the distillery on Lot 7 of the Black Hawk Park Subdivision.
+  summary: Council approved a trademark license agreement with Rick Thomas Distillery and extended a waiver of water fees for another year for its site on Lot 7 of the Black Hawk Park Subdivision.
   where: Lot 7, Black Hawk Park Subdivision
   refs:
   - 18
   topics:
   - Economic development
   - Fees & rates
-- title: 'Historic preservation: Lace House designation and survey work'
-  summary: The Historic Preservation Commission scheduled the Lace House designation for 2026 and worked on intensive survey properties. Council accepted the reconnaissance survey and a five-year work plan in August to meet Certified Local Government requirements.
-  where: Black Hawk historic district
+  - Water
+- title: Fee schedule update and 2025 audit
+  summary: Council accepted the 2025 audit and amended the fee schedule, aligning commercial electrical fees with state fees and moving SAFEbuilt's hourly rate to consultant fees, plus City Clerk fee changes.
+  where: Citywide
   refs:
-  - 2
-  - 20
+  - 16
   topics:
-  - Historic preservation
-- title: Proposed resolution on natural gas Initiative 177 and energy diversification
-  summary: On Sept. 9 the mayor said he wanted to draft a resolution supporting Initiative 177, on the right to purchase and sell natural gas. Council also took up Resolution 53-2026 encouraging diversification of the city's local economy.
+  - Fees & rates
+  - Budget & taxes
+- title: Sanitation district agreement and ballot measure positions
+  summary: Council approved an amended and restated service agreement with the Black Hawk/Central City Sanitation District. The mayor also spoke against a County Commissioners property-tax measure (Initiative 1A) and proposed a resolution supporting Initiative 177 on natural gas purchases.
   where: Citywide
   refs:
   - 21
+  - 22
   topics:
-  - Energy
-  - Economic development
+  - Utilities
+  - Elections
+  - Budget & taxes

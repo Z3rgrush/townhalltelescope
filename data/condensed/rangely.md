@@ -1,42 +1,6 @@
 # rangely
 
-## [rangely#0] 2026-07-28 | City Council | agenda
-- contract of the Town Manager
-
-## [rangely#1] 2026-07-28 | City Council | agenda
-- Public Input is a vital and important portion of every meeting and will be permitted
-- a. Public input is allowed during the Agenda identified Public Input and Public
-- Hearing portion of the meeting
-- feelings on a variety of issues
-- a. Discussion and Action to approve the Town Council minutes of July 14th, 2026
-- 8. Public Hearings - 7:10pm - The Rangely Liquor Licensing Authority (Rangely Town Council) will consider an
-- application for new liquor license applications filed respectively as below:
-- a. Public Hearing to consider the application filed on March 25, 2026, Mi Lindo Jalisco, LLC, located at 35
-- Park Street, Rangely, Co 81648, for a Hotel and Restaurant Liquor License, to serve Malt, Vinous and
-- invited to attend and participate in the public hearing
-- a. Discussion and action to approve the Liquor License for Mi Lindo Jalisco, LLC
-- b. Discussion and action to approve June 2026 Income Statement
-- c. Discussion and action to amend the 2026 Fee Schedule for Certified VIN Inspections under Police Services
-- d. Discussion and Action to approve the engagement of the Community Centric Development team at a
-- $75/hour hourly rate for grant management services. 2
-- b. PITCH Competition; Application Deadline August 17th
-- b. Planning and Zoning
-- d. Rural Fire Protection District Board meeting is scheduled for July 13th, 2026, at 7:00 pm in Rangely
-- e. WRB Park & Recreation District Board meeting is scheduled for July 13th, 2026, at 6:00 pm
-- k. RBC Water Conservancy District Board Meeting is scheduled for July 29th, 2026, at 6:30 pm
-- a. Discussion and Action to approve the Town Council minutes of June 23rd, 2026 – Motion made by Robby
-- Elam to approve the Town Council minutes of June 23rd, 2026, second by Andy Shaffer. Motion passed
-- 8. Public Hearings - 7:10pm
-- a. Rangely Police Department Presentation - Chief Hamblin – Chief Hamblin introduced Dispatch Supervisor
-- Brittany Mancini to give a presentation for a letter of commendation. Brittany stated that dispatcher
-- a. Discussion and action to accept the 2025 Audit from Colorado ColoCPA Services, PC – Marlo Coates from ColoCPA
-- b. Discussion and action to approve June 2026 Check Register – Motion made by Robby Elam to approve
-- c. Discussion and action to approve a Special Event Permit for Rangely District Hospital Foundation for
-- checked at the door and given wrist bands. Motion made by Shawn Morgan to approve a Special Event
-- Permit for Rangely District Hospital Foundation for Foundation Casio Night on August 8, 2026, at the
-- d. Discussion of Consideration and Possible Action – Authorization for the Town Attorney to Retain
-
-## [rangely#2] 2026-08-11 | City Council | agenda
+## [rangely#0] 2026-08-11 | City Council | agenda
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
 - Hearing portion of the meeting
@@ -70,7 +34,7 @@
 - b. Discussion and action to approve June 2026 Income Statement – Motion made by Tim Webber to
 - c. Discussion and action to amend the 2026 Fee Schedule for Certified VIN Inspections under Police Services
 
-## [rangely#3] 2026-08-25 | City Council | agenda
+## [rangely#1] 2026-08-25 | City Council | agenda
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
 - Hearing portion of the meeting
@@ -102,7 +66,7 @@
 - a. Discussion and action to approve the July 2026 Check Register – Motion made by Jimmy Dillon to
 - approve the July 2026 Check Register, second by Shawn Morgan. Motion passed
 
-## [rangely#4] 2026-09-08 | City Council | agenda
+## [rangely#2] 2026-09-08 | City Council | agenda
 - Budget Work Session
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -135,7 +99,7 @@
 - stated that he was told that noise was dependent on what type of data center it was
 - a. Discussion and action to approve the July 2026 Income Statement – Motion made by Shawn Morgan to
 
-## [rangely#6] 2026-09-22 | City Council | agenda
+## [rangely#4] 2026-09-22 | City Council | agenda
 - Budget Work Session
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -167,7 +131,7 @@
 - release of water and to Betty Kracht, the water commissioner. Michael stated that the water ordinance will be
 - significant corrosion. Michael stated that a separate structural inspector came into to inspect rafters and columns
 
-## [rangely#7] 2026-10-13 | City Council | agenda
+## [rangely#5] 2026-10-13 | City Council | agenda
 - Budget Work Session
 - Public Input is a vital and important portion of every meeting and will be permitted
 - a. Public input is allowed during the Agenda identified Public Input and Public
@@ -200,3 +164,68 @@
 - 10 people oppose data centers. Tanner reported that in terms of geothermal, if you go to the ECMC, any
 - measure to the municipal code barring public officials from entering into NDAs for economic development
 - NDA signed due to the company working on another project. Frank stated that he is strongly opposed to any
+
+## [rangely#6] 2026-10-27 | City Council | agenda
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- a. Discussion and Action to approve the Town Council minutes of October 13th, 2026
+- 8. Public Hearings - 7:10pm
+- a. Discussion and action to approve September 2026 Income Statement
+- b. Discussion and action to approve a Special Event Permit for BPOE 1907 for the Elks Charity Ball November
+- c. Discussion and action to approve the Liquor License Renewal for WRB Park & Rec District Cedar Ridges Golf
+- d. Discussion and action to approve the Liquor License Renewal for Nichols Store
+- b. Rangely District Hospital – Retirement of Hospital Bond; November 2nd, 5-6:30pm
+- a. Planning and Zoning
+- e. Rural Fire Protection District Board meeting is scheduled for October 12th, 2026, at 7:00 pm in Rangely
+- f. WRB Park & Recreation District Board meeting is scheduled for October 12th, 2026, at 6:00 pm
+- l. RBC Water Conservancy District Board Meeting is scheduled for October 28th, 2026, at 6:30 pm
+- Work Session 5:30pm – Capital Projects & Budget
+- a. Discussion and Action to approve the Town Council minutes of September 22nd, 2026 – Motion made by
+- Jimmy Dillon to approve the Town Council minutes of September 22nd, 2026, second by Shawn
+- b. Discussion and Action to approve the Executive Meeting minutes of September 22nd, 2026 – Motion
+- made by Shawn Morgan to approve the Executive Meeting minutes of September 22nd, 2026, second
+- 9. Town Manager Update – Jonah reported to the council on wastewater and water plant, stating that there
+- have been some repairs to the microclor, the chlorine pumps and replacement of the water softener. Jonah
+- works stating that they repaired a water leak behind CNCC and stated that the street sweeper is back in
+- community projects as well as Moon Lake donating equipment and personnel. Jonah updated on the
+- asbestos project on Birch stating that additional asbestos was found but indicated that the grant would cover
+- a. Swearing in Interim Chief of Police Joseph McGuire – Marybel Cox swore in Interim Chief of Police Joseph
+- for the residents and the building. Chloe indicated that she certifies the residents yearly. Chloe stated
+- care of Main Street, keeping it clean and looking nice with flowers, pulling weeds, etc.... Chloe said that
+- she also takes care of the landscaping at the car museum. Chloe stated that she has been trying to water
+- the trees consistently. Chloe indicated that she is currently doing fall clean-up. Chloe discussed about
+
+## [rangely#7] 2026-10-29 | City Council | agenda
+- Virtual Special Meeting – Approval of Resolution 2026-08
+- Public Input is a vital and important portion of every meeting and will be permitted
+- a. Public input is allowed during the Agenda identified Public Input and Public
+- Hearing portion of the meeting
+- feelings on a variety of issues
+- a. Discussion and action to approve Resolution 2026-08, a Resolution of the Town Council of the Town of
+- Rangely, Colorado, establishing independent hearing officers to hear and decide grievances of disciplinary
+- actions and terminations imposed by the Town Manager, appointing the hearing officers, and amending
+- RESOLUTION NO. 2026-08
+- A RESOLUTION OF THE TOWN COUNCIL OF THE TOWN OF RANGELY,
+- COLORADO, ESTABLISHING INDEPENDENT HEARING OFFICERS TO HEAR
+- IMPOSED BY THE TOWN MANAGER, APPOINTING THE HEARING OFFICERS,
+- AND AMENDING THE TOWN OF RANGELY PERSONNEL RULES AND POLICIES
+- the laws of the State of Colorado, and the legislative and corporate authority of the Town is vested
+- WHEREAS, the Town Manager is appointed by the Town Council, serves as the Chief Executive
+- of the Town, appoints all other employees of the Town except as otherwise provided by state law,
+- WHEREAS, the Personnel Rules do not identify the authority that hears a grievance when the
+- equitable resolution of employee issues and concerns, and serves the intere sts of the Town, its
+- personnel matters, and that the Town Council should not itself sit as the hearing body on individual
+- disciplinary actions, but should instead establish the procedure and appoint independent Hearing
+- Resolution and the procedure it establishes shall neither alter the at -will status of any employee
+- nor create any contract of employment, property interest, or expectation of continued employment;
+- WHEREAS, the Personnel Rules provide that they may be amended or revised by action of the
+- Section 1. Establishment of Hearing Officers. There is established the position of Hearing
+- Officer. The Town shall at all times have not fewer than two nor more than three Hearing Officers,
+- appointed by the Town Council, each of whom is individually available to fill the role as the need
+- Hearing Officer, designated for the particular grievance as provided in Exhibit A, shall hear and
+- the manner and subject to the limitations set forth in Exhibit A to this Resolution. Each Hearing
+- administration, human resources, or the resolution of employment disputes, is qualified to conduct
+- an impartial administrative review. The Municipal Judge may be appointed Hearing Officer, and
+- such appointment is separate from, and does not affect the term, compensation, or tenure of, the

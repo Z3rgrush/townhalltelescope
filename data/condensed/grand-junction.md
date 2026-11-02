@@ -1,54 +1,6 @@
 # grand-junction
 
-## [grand-junction#0] 2026-07-28 | Planning Commission | minutes
-- Chair Weckerly stated the Galley Meadows Rezone item on the regular agenda was improperly
-- noticed and would be continued to a future Planning Commission Hearing
-- 1. Approval of Minutes _
-- Commissioner Quintero to approve the Consent Agenda
-- 1. Galley Meadows Rezone RZN-2025-749
-- Consider a request by Monument Homes Development, Inc. and Cuesta Verde LLC, to rezone
-- (Parcel #2945-031-37-001) and 675 26 Road (Parcel #2945-031-00-009). This item has been
-- continued to a future hearing
-
-## [grand-junction#1] 2026-08-03 | City Council | minutes
-- Meeting Convened: 5:30 p.m. The meeting was in-person at the Fire Department Training
-- Manager Kimberly Bullen, Chief Financial Officer Jay Valentine, Community Development
-- Housing Manager Ashley Chambers (virtual), Parks and Recreation Director Ken Sherbenou,
-- 1. Discussion Topics
-- a. Unhoused Services Request for Proposal Update and Funding
-- Staff reviewed the unhoused services Request for Proposal process established
-- and ask questions of providers. No funding decisions were made; year-two requests will
-- be considered during the upcoming budget process
-- o Hilltop received $250,000 in year one and is requesting $300,000 for year two
-- shelter, bridge housing, case management, housing navigation, and outreach
-- discussed its mobile outreach, housing hotline, service coordination, and
-- o Council discussed the importance of ensuring outreach activities ultimately lead
-- toward stabilization and permanent housing. Providers explained that limited
-- individuals with treatment, services, benefits, and housing
-- o The organization received $75,000 in year one and is requesting $75,000 for
-- o Catholic Outreach incorporates budgeting and financial education into its
-- assistance program. Council discussed the growing vulnerability of seniors,
-- people with disabilities, and households living on fixed incomes as housing costs
-- o The organization received $100,000 in year one and is requesting the same
-- amount for year two. Funding supported expansion of transitional housing and
-- family center. The organization also identified an emerging need for shower
-- o Council expressed appreciation for measurable housing outcomes and
-- emphasized permanent housing, stabilization, behavioral health services, and
-- prevention of homelessness as important considerations for future funding
-- permanent housing
-- engagement was approximately 90%, and 225 housing applications were completed
-- Homeward Bound reported 57 housing placements since March and indicated that its
-- housing-placement rate is the highest in the organization's history
-- attributed the lower occupancy partly to moving clients into housing more quickly,
-- Homeward Bound discussed an increasingly difficult grant environment and the
-- The organization requested $225,000 for 2026–27, with a potential future request of
-- approximately $260,000 discussed. Funding decisions will be addressed through the
-- City's budget process
-- Survey, which achieved a 16% response rate
-- Sustainable resource management, particularly water, was identified as a leading
-- concern, along with homelessness, road conditions, and affordable housing
-
-## [grand-junction#2] 2026-08-05 | General | minutes
+## [grand-junction#0] 2026-08-05 | General | minutes
 - The meeting was called to order at 3:28 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - Junction, CO 81506 - Retail Store *Follow Up on the Status of Fire Code
@@ -64,7 +16,7 @@
 - Cenamo asked if anyone was present to speak against the application; there was no
 - The renewal was approved as requested
 
-## [grand-junction#3] 2026-08-05 | General | minutes
+## [grand-junction#1] 2026-08-05 | General | minutes
 - The meeting was called to order at 2:00 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - 6. Knayasi Enterprises, Inc. dba Pablo’s Pizza, 319 Main Street, Grand
@@ -103,7 +55,7 @@
 - 106, there are no grounds to deny the special event permit; it would not be
 - to conduct the event in compliance with applicable laws. The application for the
 
-## [grand-junction#4] 2026-08-05 | City Council | minutes
+## [grand-junction#2] 2026-08-05 | City Council | minutes
 - Principal Manager Thomas Lloyd, Police Chief Matt Smith, Housing Supervisor Ashley
 - Presentations
 - Auditor’s Presentation on the 2025 Audit Report
@@ -151,7 +103,7 @@
 - There were no public comments
 - The public hearing closed at 6:43 p.m
 
-## [grand-junction#5] 2026-08-06 | Forestry | agenda
+## [grand-junction#3] 2026-08-06 | Forestry | agenda
 - Approval of Minutes
 - Approve Minutes for July Board Meeting
 - Public Comments
@@ -160,7 +112,7 @@
 - 2026 Licensed Contractor Day of Service
 - Other Items to Discuss
 
-## [grand-junction#6] 2026-08-06 | Forestry | agenda
+## [grand-junction#4] 2026-08-06 | Forestry | agenda
 - Approval of Minutes
 - Approve Minutes for July Board Meeting
 - Public Comments
@@ -196,7 +148,7 @@
 - Previously, the Board had discussed moving forward if at least 70% of the addresses reached were
 - located within city limits. The marketing group’s nonprofit rate would be approximately $150 per
 
-## [grand-junction#7] 2026-08-06 | PRAB | agenda
+## [grand-junction#5] 2026-08-06 | PRAB | agenda
 - Parks and Recreation Advisory Board Agenda
 - HOSPITALITY SUITE ~ Lincoln Park Tower
 - Approval of Minutes
@@ -205,7 +157,7 @@
 - Matchett Park Bike Park Survey Results
 - Parks and Recreation Advisory Board August 6, 2026
 
-## [grand-junction#8] 2026-08-06 | PRAB | agenda
+## [grand-junction#6] 2026-08-06 | PRAB | agenda
 - Parks and Recreation Advisory Board Agenda
 - HOSPITALITY SUITE ~ Lincoln Park Tower
 - Approval of Minutes
@@ -241,17 +193,17 @@
 - Ken Sherbenou reviewed the history of fire mitigation efforts on Magpie Island. He explained
 - that, through grants administered by the Bureau of Land Management (BLM), the Fire
 
-## [grand-junction#9] 2026-08-06 | Planning Commission | agenda
+## [grand-junction#7] 2026-08-06 | Planning Commission | agenda
 - CITY HALL, 250 N 5TH STREET
 - 1. Update on Zoning and Development Code provisions pertaining to group living
 
-## [grand-junction#10] 2026-08-06 | Planning Commission | agenda
+## [grand-junction#8] 2026-08-06 | Planning Commission | agenda
 - CITY HALL, 250 N 5TH STREET
 - 1. Update on Zoning and Development Code provisions pertaining to group living
 - Department: Community Development
 - Update on Zoning and Development Code provisions pertaining to group living
 
-## [grand-junction#11] 2026-08-06 | General | agenda
+## [grand-junction#9] 2026-08-06 | General | agenda
 - Affordable Housing Code Task Force
 - City Hall -250 North 5th Street, Grand Junction, CO 81501
 - 1. Higher Level Discussion Emilee Powell
@@ -285,7 +237,7 @@
 - Bicycle Parking (Completed)
 - Certified Irrigation Designer (Completed)
 
-## [grand-junction#12] 2026-08-11 | Planning Commission | minutes
+## [grand-junction#10] 2026-08-11 | Planning Commission | minutes
 - Subdivision ROW Vacation has been moved to the hearing on August 25th
 - 1. Approval of Minutes _
 - Commissioner Palmer to approve the Consent Agenda
@@ -318,7 +270,7 @@
 - properties located at 2590 Galley Lane (Parcel #2945-031-37-001) and 675 26 Road (Parcel
 - forward a recommendation of approval to City Council with the findings of fact as listed in the
 
-## [grand-junction#13] 2026-08-12 | Urban Trails Committee | agenda
+## [grand-junction#11] 2026-08-12 | Urban Trails Committee | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - Approval of Minutes
 - 1. Approval of July Minutes
@@ -326,7 +278,7 @@
 - 1. Bicycle Parking
 - Other Business/Public Comment
 
-## [grand-junction#14] 2026-08-12 | Urban Trails Committee | agenda
+## [grand-junction#12] 2026-08-12 | Urban Trails Committee | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - Approval of Minutes
 - 1. Approval of July Minutes
@@ -349,7 +301,7 @@
 - for existing locations that need it. This could be a council level decision but could be good to discuss with UTC and
 - Public Comment
 
-## [grand-junction#15] 2026-08-14 | City Council | minutes
+## [grand-junction#13] 2026-08-14 | City Council | minutes
 - 2.a.i. An Ordinance for a Purchase and Sale Agreement for Approximately
 - Affordable Housing, and Authorizing the City Manager to Sign,
 - Pursuant to Voter Approval (Continued from August 5,
@@ -373,11 +325,11 @@
 - connection fees and sewer plant investment fees approved in the 2026 annual budget
 - through Ordinance 5286
 
-## [grand-junction#17] 2026-08-17 | City Council | agenda
+## [grand-junction#15] 2026-08-17 | City Council | agenda
 - LINCOLN PARK HOSPITALITY SUITE
 - III. Council Values and Norms of Conduct Training & Discussion (6:00)
 
-## [grand-junction#18] 2026-08-19 | General | minutes
+## [grand-junction#16] 2026-08-19 | General | minutes
 - The meeting was called to order at 2:00 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - 1. Taco Corp Worldwide, LLC dba TacoParty, 125 South 5th Street, Grand
@@ -415,14 +367,14 @@
 - Hearing Officer Cenamo found that pursuant to the Colorado State Statue 44-05
 - 106, there are no grounds to deny the special event permit; it would not be
 
-## [grand-junction#19] 2026-08-19 | City Council | minutes
+## [grand-junction#17] 2026-08-19 | City Council | minutes
 - EXECUTIVE SESSION TO DISCUSS MATTERS THAT MAY BE SUBJECT TO
 - NEGOTIATIONS, DEVELOPING STRATEGY FOR NEGOTIATIONS, INSTRUCTING
 - ACQUISITION OF REAL PROPERTY LOCATED AT 273 LAKE ROAD, 257 LAKE
 - ROAD, 305 LAKE ROAD, 334 LAKE ROAD, 2456 BROADWAY, AND 2492 POWER
 - ROAD, GRAND JUNCTION, COLORADO
 
-## [grand-junction#20] 2026-08-19 | City Council | minutes
+## [grand-junction#18] 2026-08-19 | City Council | minutes
 - Utilities Director Ashley Firl, Parks and Recreation Director Ken Sherbenou, City Clerk
 - Public Comments
 - Public comments were heard from Theresa Cambron, David Poling, Leon Stigen, Jesse
@@ -462,7 +414,7 @@
 - and improvement lease agreement, a first amendment to a previously executed lease
 - purchase agreement; and providing for other matters related thereto on final passage
 
-## [grand-junction#23] 2026-08-20 | General | minutes
+## [grand-junction#21] 2026-08-20 | General | minutes
 - Housing Affordability Code Task Force
 - Consultant / Code Simpliﬁcation Project Update
 - Development Code and TEDS Manual. The consultant scope has been reﬁned to focus speciﬁcally
@@ -502,15 +454,15 @@
 - The group discussed expanding the City's existing ﬁscal impact analysis so that policy and code
 - changes consider not only the ﬁnancial effect on the City but also the ﬁnancial impact on the
 
-## [grand-junction#24] 2026-08-25 | Forestry | agenda
+## [grand-junction#22] 2026-08-25 | Forestry | agenda
 - Discussion and Development of Forestry Board Recommendation
 - Grand Junction Development Code
 
-## [grand-junction#25] 2026-08-25 | Forestry | agenda
+## [grand-junction#23] 2026-08-25 | Forestry | agenda
 - Discussion and Development of Forestry Board Recommendation
 - Grand Junction Development Code
 
-## [grand-junction#26] 2026-08-25 | Planning Commission | minutes
+## [grand-junction#24] 2026-08-25 | Planning Commission | minutes
 - Sutton (Senior Planner) and Jacob Kaplan (Planning Technician)
 - 1. Approval of Minutes _
 - Commissioner Moore moved to approve the Consent Agenda
@@ -534,7 +486,7 @@
 - Right-Of-Way Vacation located between 567 South Westgate Drive and 569 South Westgate
 - Drive, I move that the Planning Commission forward a recommendation of approval to City
 
-## [grand-junction#27] 2026-08-26 | Arts & Culture | minutes
+## [grand-junction#25] 2026-08-26 | Arts & Culture | minutes
 - Wednesday, July 22, 2026 – Lincoln Park Hospitality Suite
 - Julie Matthews moved to approve the July 22 regular meeting minutes. Bill Lelbach seconded the
 - could provide an accurate response, which mainly had to do with understanding how the 1% for the Arts
@@ -556,7 +508,7 @@
 - successful, and also provided additional thoughts on improvements
 - done, and that she provided the director a few suggestions on improvements
 
-## [grand-junction#28] 2026-08-28 | Historic Preservation Board | minutes
+## [grand-junction#26] 2026-08-28 | Historic Preservation Board | minutes
 - APPROVAL OF MINUTES
 - reviewed and considered for approval at the September 1, 2026 regular meeting
 - DISCUSSION ITEMS
@@ -579,7 +531,7 @@
 - Western Colorado, will be vacated and may have a potential buyer. He
 - requested that this be discussed at the next regular meeting
 
-## [grand-junction#29] 2026-08-31 | City Council | minutes
+## [grand-junction#27] 2026-08-31 | City Council | minutes
 - Meeting Convened: 5:30 p.m. The meeting was in-person at the Fire Department Training
 - Manager Kimberly Bullen, Chief Financial Officer Jay Valentine, Housing Specialist Paul
 - 1. Discussion Topics
@@ -620,7 +572,7 @@
 - Staff indicated discussions with regional partners have begun and that a more formal
 - Staff plans to provide the Rural Fire District the required two-year notice to renegotiate
 
-## [grand-junction#30] 2026-09-01 | Historic Preservation Board | agenda
+## [grand-junction#28] 2026-09-01 | Historic Preservation Board | agenda
 - 250 NORTH 5TH STREET
 - Approval of Minutes
 - 1. Consider approval of the minutes from the June 2, 2026 regular meeting of the Historic Preservation Board
@@ -631,7 +583,7 @@
 - 2. Discussion concerning the Cross Orchards Historic Site
 - Other Business/Public Comment
 
-## [grand-junction#31] 2026-09-01 | Historic Preservation Board | agenda
+## [grand-junction#29] 2026-09-01 | Historic Preservation Board | agenda
 - 250 NORTH 5TH STREET
 - Approval of Minutes
 - 1. Consider approval of the minutes from the June 2, 2026 regular meeting of the Historic Preservation Board
@@ -671,7 +623,7 @@
 - b. Staff was reminded of the Board’s request for more information on these
 - forward (or not) with the Certified Local Government process and to
 
-## [grand-junction#32] 2026-09-02 | General | minutes
+## [grand-junction#30] 2026-09-02 | General | minutes
 - The meeting was called to order at 2:00 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - 2026 - Fire Code Violations
@@ -709,7 +661,7 @@
 - 81501, "Christmas Carol - 2026", Located at 249 S. 4th Street, Grand
 - special event permit submitted by Elks Lodge Grand Junction #575, “Christmas
 
-## [grand-junction#33] 2026-09-02 | City Council | minutes
+## [grand-junction#31] 2026-09-02 | City Council | minutes
 - Zoning Supervisor Tim Lehrbach, Interim Utilities Director Ashley Firl, City Clerk
 - Presentations
 - RRC Associates representatives Sean Maher and Ethan Adams gave a presentation of
@@ -752,7 +704,7 @@
 - development of the community
 - The public hearing opened at 8:10 p.m
 
-## [grand-junction#34] 2026-09-03 | PRAB | agenda
+## [grand-junction#32] 2026-09-03 | PRAB | agenda
 - Parks and Recreation Advisory Board Agenda
 - HOSPITALITY SUITE ~ Lincoln Park Tower
 - Approval of Minutes
@@ -761,7 +713,7 @@
 - Matchett Bike Park
 - Parks and Recreation Advisory Board September 3, 2026
 
-## [grand-junction#35] 2026-09-03 | PRAB | agenda
+## [grand-junction#33] 2026-09-03 | PRAB | agenda
 - Parks and Recreation Advisory Board Agenda
 - HOSPITALITY SUITE ~ Lincoln Park Tower
 - Approval of Minutes
@@ -799,7 +751,7 @@
 - currently unsanctioned bike park and potentially working with COPMOBA to develop it. The
 - park's master plan
 
-## [grand-junction#38] 2026-09-03 | Forestry | agenda
+## [grand-junction#36] 2026-09-03 | Forestry | agenda
 - Approval of Minutes
 - Approve Minutes from the following Meetings: July, August, August
 - Public Comments
@@ -808,7 +760,7 @@
 - 2026 Licensed Contractor Day of Service
 - Other Items to Discuss
 
-## [grand-junction#39] 2026-09-03 | Forestry | agenda
+## [grand-junction#37] 2026-09-03 | Forestry | agenda
 - Approval of Minutes
 - Approve Minutes from the following Meetings: July, August, August
 - Public Comments
@@ -844,7 +796,7 @@
 - Previously, the Board had discussed moving forward if at least 70% of the addresses reached were
 - located within city limits. The marketing group’s nonprofit rate would be approximately $150 per
 
-## [grand-junction#40] 2026-09-03 | General | minutes
+## [grand-junction#38] 2026-09-03 | General | minutes
 - Housing Affordability Code Task Force
 - The Task Force focused primarily on organizing the body of issues identified through previous
 - recommendations. The discussion shifted from identifying individual code and process problems
@@ -885,7 +837,7 @@
 - underlying rationale and trade-offs to be discussed rather than assumed
 - Examples discussed included sight-distance requirements, sidewalk widths, parking lot islands,
 
-## [grand-junction#42] 2026-09-08 | Planning Commission | agenda
+## [grand-junction#40] 2026-09-08 | Planning Commission | agenda
 - Sutton (Senior Planner) and Jacob Kaplan (Planning Technician)
 - 1. Approval of Minutes _
 - Commissioner Moore moved to approve the Consent Agenda
@@ -909,7 +861,7 @@
 - Right-Of-Way Vacation located between 567 South Westgate Drive and 569 South Westgate
 - Drive, I move that the Planning Commission forward a recommendation of approval to City
 
-## [grand-junction#43] 2026-09-09 | Urban Trails Committee | agenda
+## [grand-junction#41] 2026-09-09 | Urban Trails Committee | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - Approval of Minutes
 - 1. Approval of August Minutes
@@ -917,7 +869,7 @@
 - 2. Bike Parking
 - Other Business/Public Comment
 
-## [grand-junction#44] 2026-09-09 | Urban Trails Committee | agenda
+## [grand-junction#42] 2026-09-09 | Urban Trails Committee | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - Approval of Minutes
 - 1. Approval of August Minutes
@@ -940,7 +892,7 @@
 - the discussion
 - Athena made a motion to extend the meeting as necessary. Beniaiah seconded Unanimous approval
 
-## [grand-junction#45] 2026-09-14 | City Council | minutes
+## [grand-junction#43] 2026-09-14 | City Council | minutes
 - Meeting Convened: 5:30 p.m. The meeting was in-person at the Fire Department Training
 - 1. Discussion Topics
 - a. Water Supply Element – Comprehensive Plan Amendment
@@ -978,7 +930,7 @@
 - The possibility of a broader Colorado-based preference rather than strictly local
 - There was substantial interest in gathering better information before considering a
 
-## [grand-junction#46] 2026-09-16 | General | minutes
+## [grand-junction#44] 2026-09-16 | General | minutes
 - The meeting was called to order at 2:00 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - 1. Main Street Management, LLC dba SoCo Social House, 209 1/2
@@ -1019,7 +971,7 @@
 - Car and Bike Show - 2026” was in order and approved
 - Main Street, Grand Junction, CO 81501 on October 3, 2026, from 12:00
 
-## [grand-junction#47] 2026-09-16 | City Council | minutes
+## [grand-junction#45] 2026-09-16 | City Council | minutes
 - Engineering Manager, Ken Haley, Housing Programs Specialist Paul Stahlke, Senior
 - Planner Kate Kirk, Senior Planner Lily Sutton, Downtown Development Authority
 - Presentations
@@ -1060,7 +1012,7 @@
 - was eliminated; however, the platted right-of-way remained of record. The proposed
 - vacation will allow the owner to fully utilize the adjoining property for material storage
 
-## [grand-junction#48] 2026-09-17 | General | agenda
+## [grand-junction#46] 2026-09-17 | General | agenda
 - Affordable Housing Code Task Force
 - City Hall -250 North 5th Street, Grand Junction, CO 81501
 - Current Focus/Assignments: Items not yet discussed with the Task Force but are on the agenda to
@@ -1078,11 +1030,11 @@
 - Revocable Permit (Completed) Detention Ponds
 - Roaring Fork vs St. Jude Discussion (Completed)
 
-## [grand-junction#49] 2026-09-17 | City Council | agenda
+## [grand-junction#47] 2026-09-17 | City Council | agenda
 - 1. Discussion Topics
 - a. 2027 Recommended Budget for the Persigo Sewer System
 
-## [grand-junction#50] 2026-09-17 | City Council | agenda
+## [grand-junction#48] 2026-09-17 | City Council | agenda
 - 1. Discussion Topics
 - a. 2027 Recommended Budget for the Persigo Sewer System
 - 2027 Recommended Budget for the Persigo Sewer System
@@ -1118,22 +1070,22 @@
 - same time, approximately $4.5 million in unplanned and accelerated infrastructure needs were
 - identified during the year. As a result, the projected 2026 ending fund balance and subsequent
 
-## [grand-junction#51] 2026-09-17 | Planning Commission | agenda
+## [grand-junction#49] 2026-09-17 | Planning Commission | agenda
 - CITY HALL, 250 N 5TH STREET
 - 1. Presentation by Housing Specialist Paul Stahlke on the 2026 Housing Action Plan Update
 
-## [grand-junction#52] 2026-09-17 | Planning Commission | agenda
+## [grand-junction#50] 2026-09-17 | Planning Commission | agenda
 - CITY HALL, 250 N 5TH STREET
 - 1. Presentation by Housing Specialist Paul Stahlke on the 2026 Housing Action Plan Update
 - Presented By: Paul Stahlke, Housing Program Specialist
 - Department: Community Development
 - Presentation by Housing Specialist Paul Stahlke on the 2026 Housing Action Plan
 
-## [grand-junction#53] 2026-09-22 | Planning Commission | agenda
+## [grand-junction#51] 2026-09-22 | Planning Commission | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - 1. Consider a request by RAMS 1 Ho LLC, Property Owner, to rezone 2.88 acres from I-1
 
-## [grand-junction#54] 2026-09-22 | Planning Commission | agenda
+## [grand-junction#52] 2026-09-22 | Planning Commission | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - 1. Consider a request by RAMS 1 Ho LLC, Property Owner, to rezone 2.88 acres from I-1
 - Sutton (Senior Planner) and Jacob Kaplan (Planning Technician)
@@ -1172,7 +1124,7 @@
 - it is important to note that all uses allowed in the CG zone district would be permitted on
 - and other uses along transportation corridors to promote development that is
 
-## [grand-junction#55] 2026-09-23 | Arts & Culture | minutes
+## [grand-junction#53] 2026-09-23 | Arts & Culture | minutes
 - Wednesday, August 26, 2026 – Lincoln Park Hospitality Suite
 - attended in person rather than via Teams. Bill Lelbach also requested that the minutes note his
 - previously submitted document containing recommended changes to the funding application process
@@ -1200,7 +1152,7 @@
 - application process will be substantially revised, the consensus was to retain presentations for the
 - upcoming funding cycle and revisit the requirement next year. Commissioners discussed concerns that
 
-## [grand-junction#56] 2026-10-01 | Forestry | agenda
+## [grand-junction#54] 2026-10-01 | Forestry | agenda
 - Approval of Minutes
 - Approve Minutes for September Meeting
 - Public Comments
@@ -1208,7 +1160,7 @@
 - 2026 Licensed Contractor Day of Service
 - Other Items to Discuss
 
-## [grand-junction#57] 2026-10-01 | Forestry | agenda
+## [grand-junction#55] 2026-10-01 | Forestry | agenda
 - Approval of Minutes
 - Approve Minutes for September Meeting
 - Public Comments
@@ -1242,7 +1194,7 @@
 - significantly lower. Existing canopy cover and changes in canopy over time are also considered when
 - questions about operating the backflow device. The Board discussed the importance of following up
 
-## [grand-junction#58] 2026-10-01 | PRAB | agenda
+## [grand-junction#56] 2026-10-01 | PRAB | agenda
 - Parks and Recreation Advisory Board Agenda
 - HOSPITALITY SUITE ~ Lincoln Park Tower
 - Approval of Minutes
@@ -1252,7 +1204,7 @@
 - Parking Lot Maintenance Plan
 - Parks and Recreation Advisory Board October 1, 2026
 
-## [grand-junction#59] 2026-10-01 | PRAB | agenda
+## [grand-junction#57] 2026-10-01 | PRAB | agenda
 - Parks and Recreation Advisory Board Agenda
 - HOSPITALITY SUITE ~ Lincoln Park Tower
 - Approval of Minutes
@@ -1292,7 +1244,7 @@
 - The board also discussed the community’s interest in more beginner-friendly trails. Faith
 - Cayman Haltiner made a motion to hold off on moving forward with further development and
 
-## [grand-junction#60] 2026-10-01 | General | minutes
+## [grand-junction#58] 2026-10-01 | General | minutes
 - Housing Affordability Code Task Force – Meeting Summary
 - Primary Focus: Consultant kickoff, project scope and schedule, Land Development Code/TEDS
 - assessment, housing-cost priorities, and expectations for recommendations
@@ -1327,7 +1279,7 @@
 - cautioned against allowing the project to become a comprehensive rewrite of every technical
 - The Task Force reiterated that the priority should be TEDS requirements that materially affect
 
-## [grand-junction#61] 2026-10-05 | City Council | minutes
+## [grand-junction#59] 2026-10-05 | City Council | minutes
 - Meeting Convened: 4:00 p.m. The meeting was in-person at the Fire Department Training
 - Director Trent Prall, Parks and Recreation Director Ken Sherbenou, IT Director Scott Hockins,
 - Resources Director Shelley Caskey, Interim Community Development Director Thomas Lloyd,
@@ -1367,7 +1319,7 @@
 - An internally developed Report a Concern platform has replaced an outside subscription
 - Staff discussed additional technology and artificial intelligence initiatives to improve
 
-## [grand-junction#62] 2026-10-06 | Historic Preservation Board | agenda
+## [grand-junction#60] 2026-10-06 | Historic Preservation Board | agenda
 - 250 NORTH 5TH STREET
 - Approval of Minutes
 - 1. Consider approval of the minutes from the September 1, 2026 regular meeting of the Historic Preservation Board
@@ -1377,7 +1329,7 @@
 - 3. Discussion regarding Certified Local Government
 - Other Business/Public Comment
 
-## [grand-junction#63] 2026-10-06 | Historic Preservation Board | agenda
+## [grand-junction#61] 2026-10-06 | Historic Preservation Board | agenda
 - 250 NORTH 5TH STREET
 - Approval of Minutes
 - 1. Consider approval of the minutes from the September 1, 2026 regular meeting of the Historic Preservation Board
@@ -1420,7 +1372,7 @@
 - Routine board training session and presentation by the City Attorney's office
 - Discussion concerning the Lincoln Park Barn
 
-## [grand-junction#64] 2026-10-07 | General | minutes
+## [grand-junction#62] 2026-10-07 | General | minutes
 - The meeting was called to order at 1:50 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - Hearing Officer Cenamo read the renewal into the record. She verified with Mrs
@@ -1429,7 +1381,7 @@
 - application; there was no one
 - The renewal was approved as requested
 
-## [grand-junction#65] 2026-10-07 | General | minutes
+## [grand-junction#63] 2026-10-07 | General | minutes
 - The meeting was called to order at 2:00 p.m. Those present were Hearing Officer
 - II. License Renewal Applications
 - 1. Board Fox Games, LLC dba Board Fox Games, LLC, 623 Main Street,
@@ -1468,7 +1420,7 @@
 - one. Hearing Officer Cenamo entered Exhibits “A” and “B” (attached) into the
 - Hearing Officer Cenamo found the needs of the neighborhood are not being met
 
-## [grand-junction#66] 2026-10-07 | City Council | minutes
+## [grand-junction#64] 2026-10-07 | City Council | minutes
 - Appointments
 - Ratifications to the Mesa County Building Code Board of Appeals
 - Councilmember Kennedy moved and Councilmember Nguyen seconded to ratify David
@@ -1506,7 +1458,7 @@
 - Resolution and Policy have been updated to reflect the 2027 General Assembly Regular
 - Resolution No. 91-26, a resolution adopting the City of Grand Junction 2027 Legislative
 
-## [grand-junction#68] 2026-10-13 | Planning Commission | agenda
+## [grand-junction#66] 2026-10-13 | Planning Commission | agenda
 - Sutton (Senior Planner) and Jacob Kaplan (Planning Technician)
 - 1. Approval of Minutes _
 - Commissioner Palmer moved to approve the Consent Agenda
@@ -1527,7 +1479,7 @@
 - Commissioner Palmer made the following motion, “Madam Chair, on the Rezone request for the
 - Planning Commission forward a recommendation of approval to City Council with the findings of
 
-## [grand-junction#69] 2026-10-14 | Arts & Culture | agenda
+## [grand-junction#67] 2026-10-14 | Arts & Culture | agenda
 - STRATEGIC CULTURAL PLAN SUBCOMMITTEE
 - GJ Parks and Recreation Admin Conference Room, 1340 Gunnison Ave
 - Complete, implement, & periodically revise a community strategic cultural development plan
@@ -1537,13 +1489,13 @@
 - The next Strategic Cultural Plan meeting is scheduled for Thursday,
 - November 12 at 9am in the Parks and Recreation Conference Room,
 
-## [grand-junction#70] 2026-10-14 | Arts & Culture | agenda
+## [grand-junction#68] 2026-10-14 | Arts & Culture | agenda
 - GJ Parks and Recreation Admin Conference Room, 1340 Gunnison Ave
 - Complete, implement, & periodically revise a community strategic cultural development plan
 - Approval of Minutes
 - Identify next meeting date
 
-## [grand-junction#71] 2026-10-14 | Urban Trails Committee | agenda
+## [grand-junction#69] 2026-10-14 | Urban Trails Committee | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - Approval of Minutes
 - 1. Approval of September Minutes
@@ -1551,7 +1503,7 @@
 - 1. 2027 Capital Budget Update
 - Discussion Items
 
-## [grand-junction#72] 2026-10-14 | Urban Trails Committee | agenda
+## [grand-junction#70] 2026-10-14 | Urban Trails Committee | agenda
 - CITY HALL AUDITORIUM, 250 N 5th STREET
 - Approval of Minutes
 - 1. Approval of September Minutes
@@ -1573,7 +1525,7 @@
 - their 3 minutes. Discussion indicated that moving before the action items could be beneficial
 - Public Comment
 
-## [grand-junction#73] 2026-10-15 | General | agenda
+## [grand-junction#71] 2026-10-15 | General | agenda
 - Affordable Housing Code Task Force
 - City Hall -250 North 5th Street, Grand Junction, CO 81501
 - 1. Discussion about how the group intends to handle review, processing, and responding to
@@ -1593,27 +1545,7 @@
 - Revocable Permit (Completed) Detention Ponds (In process)
 - Roaring Fork vs St. Jude Discussion (Completed)
 
-## [grand-junction#74] 2026-10-21 | General | agenda
-- MUNICIPAL HEARING ROOM, CITY HALL
-- 250 NORTH 5TH STREET
-- HEARING OFFICER JILL CENAMO
-- II. License Renewal Applications
-- 1. Inafuku, Inc. dba Suehiro Japanese Restaurant, 541 Main Street, Grand Junction, CO 81501 - Hotel & Restaurant
-- 2. El Balsante, Inc. dba Mi Mexico Family Mexican Restaurant, 624 Rae Lynn Street Unit C, Grand Junction, CO 81505 - Hotel & Restaurant
-- 4. Santos Enterprises, Inc. dba Cafe Sol, 420 Main Street, Grand Junction, CO 81501 - Beer & Wine with Outdoor Dining Lease
-- 5. The Palette dba The Palette, 441 Main Street, Grand Junction, CO 81501 - Beer & Wine
-- 7. P&S, Inc. dba Orchard Mesa Lanes, 295 27 Road, Grand Junction, CO 81503 - Hotel & Restaurant
-- 8. Lucky You Liquor, LLC dba Lucky Me Liquor 3, 2992 Patterson Road, Grand Junction, CO 81504 - Retail Liquor Store with Tasting Permit
-- 9. Canyon View Resort, LLC dba Canyon View RV Resort, 746 23 1/2 Road, Grand Junction, CO 81505 - Fermented Malt Beverage & Wine
-- 11. Las Marias, Inc. dba Las Marias, 118 South 7th Street, Grand Junction, CO 81501 - Hotel & Restaurant with Outdoor Dining Lease
-- 12. Myths & Legends, Inc. dba Quincy Bar & Grill, 609 Main Street, Grand Junction, CO 81501 - Tavern
-- III. License Renewal Applications with Late Filing
-- 1. ZCI Investments, LLC dba Smokin’ Oak Wood-Fired Pizza, 2478 B Highway 6 & 50, Grand Junction, 81505 - Beer & Wine - 15 Days Late
-- IV. Special Event Permit Applications
-- 1. Loyal Order of Moose Grand Junction #270, 567 25 ½ Road, Grand
-- Road, Grand Junction, CO 81505 on November 14, 2026, from 3:00 p.m
-
-## [grand-junction#75] 2026-10-21 | City Council | agenda
+## [grand-junction#72] 2026-10-21 | City Council | agenda
 - 250 NORTH 5TH STREET - AUDITORIUM
 - Proclaiming October 10, 2026, as the 100th Anniversary of Lincoln Park Golf Course in
 - Public Comments
@@ -1653,7 +1585,7 @@
 - a. Authorize Contract Amendment with AE2S for the Persigo Wastewater Treatment Plant Phase 2 Expansion Project
 - may be used to address City Council about items that were discussed at a previous City Council
 
-## [grand-junction#76] 2026-10-21 | City Council | agenda
+## [grand-junction#73] 2026-10-21 | City Council | agenda
 - 250 NORTH 5TH STREET - AUDITORIUM
 - Proclaiming October 10, 2026, as the 100th Anniversary of Lincoln Park Golf Course in
 - Public Comments
@@ -1694,7 +1626,47 @@
 - may be used to address City Council about items that were discussed at a previous City Council
 - Lincoki Park Golf Course opened on October 10, 1926, as a public nine-hole golf course and
 
-## [grand-junction#79] 2026-10-26 | City Council | agenda
+## [grand-junction#74] 2026-10-21 | General | minutes
+- The meeting was called to order at 2:00 p.m. Those present were Hearing Officer
+- II. License Renewal Applications
+- 1. Inafuku, Inc. dba Suehiro Japanese Restaurant, 541 Main Street, Grand
+- Lynn Street Unit C, Grand Junction, CO 81505 - Hotel & Restaurant
+- 4. Santos Enterprises, Inc. dba Cafe Sol, 420 Main Street, Grand Junction,
+- 5. The Palette dba The Palette, 441 Main Street, Grand Junction, CO
+- 7. P&S, Inc. dba Orchard Mesa Lanes, 295 27 Road, Grand Junction, CO
+- 8. Lucky You Liquor, LLC dba Lucky Me Liquor 3, 2992 Patterson Road,
+- Grand Junction, CO 81504 - Retail Liquor Store with Tasting Permit
+- Road, Grand Junction, CO 81505 - Fermented Malt Beverage & Wine
+- 11. Las Marias, Inc. dba Las Marias, 118 South 7th Street, Grand Junction,
+- 12. Myths & Legends, Inc. dba Quincy Bar & Grill, 609 Main Street, Grand
+- Hearing Officer Cenamo read renewals 1 – 3, 5 – 10 & 12 into the record. She
+- verified with Mrs. Koehler that the applications were in order
+- Hearing Officer Cenamo asked if anyone was present to speak against any of the
+- applications; there was no one
+- Renewals 1 – 3, 5-10 & 12 were approved as requested
+- Hearing Officer Cenamo read Renewals 4 and 11 into the record and verified with
+- Mrs. Koehler that both applications were in order. Both establishments had fire
+- After discussion, Santos Enterprises, Inc., dba Café Sol, located at 420 Main
+- Street, Grand Junction, CO 81501, - Beer & Wine License with Outdoor Dining
+- Lease, received conditional approval pending correction of its fire code violations
+- Las Marias, Inc., dba Las Marias, located at 118 South 7th Street, Grand
+- also received conditional approval pending correction of its fire code violations
+- Renewals 4 & 11 were conditionally approved pending a successful fire
+- III. License Renewal Applications with Late Filing
+- 1. ZCI Investments, LLC dba Smokin’ Oak Wood-Fired Pizza, 2478 B
+- Hearing Officer Cenamo read the renewal into the record. She verified with Mrs
+- Koehler the application was in order
+- Hearing Officer Cenamo asked if there was a representative present for Smokin’
+- Oak Wood- Fired Pizza. Owner Robert Marolf was in attendance to answer
+- happening again. Hearing Officer Cenamo asked if anyone was present to speak
+- against the application; there was no one. Hearing Officer Cenamo approved of
+- IV. Special Event Permit Applications
+- 1. Loyal Order of Moose Grand Junction #270, 567 25 ½ Road, Grand
+- Road, Grand Junction, CO 81505 on November 14, 2026, from 3:00 p.m
+- Hearing Officer Cenamo verified with Mrs. Koehler that the application was in
+- order and asked if there was anyone present to speak against the application
+
+## [grand-junction#77] 2026-10-26 | City Council | agenda
 - FIRE DEPARTMENT TRAINING ROOM
 - 1. Discussion Topics
 - Continuation of 2027 City Manager's Proposed Budget
@@ -1706,7 +1678,7 @@
 - promotes conversation regarding items and topics that may be considered at a future City
 - at 5:30 p.m. at City Hall) and provide comments during “Public Comments.”
 
-## [grand-junction#80] 2026-10-26 | City Council | agenda
+## [grand-junction#78] 2026-10-26 | City Council | agenda
 - FIRE DEPARTMENT TRAINING ROOM
 - 1. Discussion Topics
 - Continuation of 2027 City Manager's Proposed Budget
@@ -1743,3 +1715,52 @@
 - Project Descriptions by Fund by Department
 - 201 – Sales Tax Capital Improvement Fund 0.75%
 - analysis. The study helped identify and prioritize a series of projects. This project will
+
+## [grand-junction#80] 2026-10-27 | Planning Commission | agenda
+- Consider a request by Anthony Properties, LLC, for a Comprehensive Plan Amendment
+- 1/2 Road (Parcel #s: 2943-173-00-268 and 2943-173-00-094)
+- Consider a request by Anthony Properties, LLC, to zone 14.88 acres from County RSF
+- R to a City MU-2 (Mixed-Use Light Commercial) for the 2911 D 1/2 Road Annexation
+- located at 2911 D1/2 Road (Parcel #s: 2943-173-00-268 and 2943-173-00-094)
+- Consider a request by Anthony Properties, LLC, for a Circulation Plan Amendment
+
+## [grand-junction#81] 2026-10-28 | Arts & Culture | minutes
+- McCain with the Daily Sentinel was sitting in to hear about the Firefighter Memorial agenda item, and
+- Libbie Early moved to approve the August 26, 2026 minutes, Cynthia Zaitz seconded the motion, and it
+- passed unanimously. Cynthia moved to approve an amendment to the July 22, 2026 minutes to
+- located in Mesa County, in addition to the discussion regarding the location of funded activities. Bill
+- discussions from the July and August GJCAC meetings. Option 1 would allow Colorado organizations to
+- Commission members discussed the value of supporting local organizations while retaining
+- discussion, Cynthia moved to approve moving forward with Option 1, TJ Smith seconded, and it passed
+- The Commission continued the discussion on expanding the program to allow organizations to request
+- project or event that was discussed during the September meeting. It was mentioned that the removal
+- of the previous “Does Not Fund” section from the Criteria and Goals document that was approved
+- Cynthia moved to approve the removal of the previous “Does Not Fund” section from the Criteria and
+- Additional discussion included: maintaining a maximum funding request of $4,500; giving priority to
+- standardizing the annual budget information submitted by applicants to make financial comparisons
+- requirements within the application materials
+- Cynthia moved to approve the revised Funding Program Criteria and Goals document, Libbie seconded,
+- Staff presented proposed revisions to the Funding Program Application to align it with the approved
+- Criteria and Goals and the transition to General Operating Support. Commissioners discussed the need
+- to clearly communicate to applicants that they may request operating support rather than funding for a
+- specific project or event. Members also discussed how project location, audience/attendance,
+- The Commission emphasized that the application and associated outreach should clearly explain the
+- There was a consensus to table approval of the funding application until the October meeting to allow
+- additional revisions and discussion. Commissioners were asked to submit comments or concerns to staff
+- prior to the meeting. Further discussion regarding whether priority should be given to activities
+- Staff provided information regarding a proposed memorial at Las Colonias honoring firefighters who lost
+- their lives in a recent fire. The proposed concept includes a monument with a compass pointing toward
+- the location of the fire. Staff requested feedback regarding the possibility of incorporating a Native
+
+## [grand-junction#82] 2026-10-29 | General | agenda
+- Affordable Housing Code Task Force
+- City Hall -250 North 5th Street, Grand Junction, CO 81501
+- 1. KLJ Update - separately tracking each item that feeds into the recommendations in the
+- Recommendations/Pending Action: Items that have been discussed at the Task Force and those assigned to
+- write up the recommendation on the Recommendation Template Form to submit to Co- Chairs and Kimberly
+- ADA Digital Compliance (Completed) Bicycle Parking (Completed)
+- Inclusionary Zoning-Linkage Fee (Council as information only)
+- Pre-Application Meeting (Completed) CID (Completed)
+- Pre-Application Checklist (Completed) Significant Trees (Completed)
+- Revocable Permit (Completed) Detention Ponds (In process)
+- Roaring Fork vs St. Jude Discussion (Completed)

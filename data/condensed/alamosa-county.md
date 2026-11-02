@@ -60,34 +60,7 @@
 - Presentation
 - presentation,
 
-## [alamosa-county#9] 2026-10-14 | Alamosa County Board of County Commissioners | agenda
-- Persons speaking during Public Comment will be limited to three minutes. Except as otherwise provided by law no
-- action or discussion shall be taken/conducted on any items not appearing on the agenda. Please address the
-- Board as a whole through the Chair. Comments to individual supervisors or staff are not permitted. When
-- may be discussed and acted upon by the Board of Commissioners
-- Approval Of The Agenda
-- Approval Of The General Business Minutes
-- Approval Of The Bills/Obligations
-- Presentation From The Public
-- Ratification Of Cooley And Sons Bid Approval
-- Local Impact Accelerator Grant Agreement
-- LOCAL IMPACT ACCELERATOR GRANT AGREEMENT.PDF
-- Department Of Human Services Workforce Support Agreement
-- WORKFORCE SUPPORT AGREEMENT.PDF
-- Crossroads Turning Points Letter Of Support
-- CROSSROADS LETTER OF SUPPORT.PDF
-- San Luis Valley Housing Coalition Letter Of Support
-- SLV HOUSING COALITION LETTER OF SUPPORT.PDF
-- Public Hearings
-- Major Site Plan - La Puente/PALS 240 Price Ave (541302317025)
-- PALS MAJOR SITE PLAN.PDF
-- Alamosa County Onsite Wastewater Treatment System (OWTS) Regulation Update
-- Appointments
-- 2027 Preliminary Budget Presentation
-- 2027 PRELIMINARY BUDGET.PDF
-- Department Of Energy Transmission Grant
-
-## [alamosa-county#10] 2026-10-14 | Planning Commission | agenda
+## [alamosa-county#9] 2026-10-14 | Planning Commission | agenda
 - III. Approval of Agenda
 - IV. Public Comment
 - V. Public Hearings
@@ -95,5 +68,30 @@
 - a) Approval of Minutes
 - b) Permit update
 
+## [alamosa-county#10] 2026-10-14 | Alamosa County Board of County Commissioners | minutes
+- Ratification
+- presentation
+- Appointments
+- consideration
+- Development,
+- notification
+
 ## [alamosa-county#11] 2026-10-21 | Alamosa County Commissioner Worksessions | agenda
 - Presentation
+
+## [alamosa-county#12] 2026-10-28 | Alamosa County Board of County Commissioners | agenda
+- Persons speaking during Public Comment will be limited to three minutes. Except as otherwise provided by law no
+- action or discussion shall be taken/conducted on any items not appearing on the agenda. Please address the
+- Board as a whole through the Chair. Comments to individual supervisors or staff are not permitted. When
+- may be discussed and acted upon by the Board of Commissioners
+- Approval Of The Agenda
+- Approval Of The General Business Minutes
+- October 14 Public Hearing Minutes Major Site Plan - La Puente/PALS 240 Price Ave
+- 10-14 PUBLIC HEARING MAJOR SITE PLAN - LA PUENTE PALS 240 PRICE AVE.PDF
+- October 14 Public Hearing Minutes Onsite Wastewater Treatment System (OWTS) Regulation
+- 10 - 14 PUBLIC HEARING ONSITE WASTEWATER TREATMENT SYSTEM (OWTS) REGULATION
+- Approval Of The Bills/Obligations
+- Presentation From The Public
+- Proposition 123 Affordable Housing
+- VOCA GRANT.PDF
+- Appointments

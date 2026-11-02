@@ -42,25 +42,28 @@
 - City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
 
-## [mountain-view#6] 2026-08-18 | Bicycle/Pedestrian Advisory Committee | agenda
-- Recommendation: Approve the BPAC meeting minutes from June 24, 2026
+## [mountain-view#6] 2026-08-18 | Bicycle/Pedestrian Advisory Committee | minutes
+- MOTION - M/S - Bonte/Barton - 3/0/1 - Approve June 24th, 2026, BPAC meeting minutes
+- Approved via consent calendar
 - 6.1 Rengstorff Complete Streets Study, Project 25-39
-- Recommendation: Receive an update and provide feedback on corridor priorities and the three draft
-- concept alternatives for the Rengstorff Avenue Complete Streets Study, Project 25-39
-- Rengstorff Complete Streets Study, Project 25-39
-- ATT 3 - Rengstorff Complete Street Outreach Round 1 Summary
+- near the project site
+- Senior Transportation Planner Priyoti Ahmed provided a presentation on Rengstorff Complete Streets Study
+- projections, bike lane gap closures and protections, pedestrian sidewalk accessibility, and design features
+- like road diets and green infrastructure
 - 6.2 Active Transportation Plan-Final
-- Recommendation: Review the Final Mountain View Active Transportation Plan (MVATP) and recommend
-- the plan for adoption to City Council
-- Active Transportation Plan—Final
-- ATT 1 - Active Transportation Plan and Appendices
-- 7. COMMITTEE/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS
-- counter, 500 Castro Street, First Floor and at the meeting
-- Anyone planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance should call the
-- Public Works Department at (650) 903-6306 48-hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with
-- format. Also upon request, in advance, an assistive listening device can be made available for use during the meeting
-- The Committee may take action on any matter noticed herein in any manner deemed appropriate by the Committee. Their consideration of the
-- will be made available for public inspection in the Public Works Department, 500 Castro Street, during normal business hours and at the meeting
+- presentation on the final Active Transportation Plan
+- and complete streets design standards, methods for delivering spot improvements prioritizing specific
+- crosswalk, lighting, and safety standards in the plan
+- MOTION - M/S - Kuszmaul/Barton - 5/0/0 - Recommend the Mountain View Active Transportation Plan
+- Add a statement in implementation section about implementing smaller-scale construction projects to
+- in projects and future planning. Add Los Altos schools to the maps
+- COMMITTEE/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS7
+- Department counter, 500 Castro Street, First Floor and at the meeting
+- Anyone planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance should call
+- the Public Works Department at (650) 903-6306 48-hours in advance of the meeting to arrange for assistance. Upon request, in advance,
+- appropriate alternative format. Also upon request, in advance, an assistive listening device can be made available for use during the
+- The Committee may take action on any matter noticed herein in any manner deemed appropriate by the Committee. Their consideration of
+- this agenda will be made available for public inspection in the Public Works Department, 500 Castro Street, during normal business hours
 
 ## [mountain-view#7] 2026-08-19 | Environmental Planning Commission | agenda
 - La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
@@ -150,33 +153,19 @@
 - parcel maps, and tentative maps, and can provide a recommendation action on subdivision maps that require City Council approval
 - At the hearing, the applicant/agent will be asked to make a brief presentation on the proposal. Comments from the public shall be heard after the
 
-## [mountain-view#12] 2026-08-27 | Rental Housing Committee | agenda
+## [mountain-view#12] 2026-08-27 | Rental Housing Committee | minutes
 - Rental Housing Committee
-- This meeting is being conducted with a virtual component. Anyone wishing to address the Rental Housing Committee virtually may
-- In-person interpretation services are available in Spanish and Chinese upon advance request. Meeting materials may also be
-- translated upon advance request. Requests for interpretation or translation must be submitted no later than 5:00 p.m. two business
-- La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
-- August 27, 2026Rental Housing Committee Agenda
-- These items will be approved by one motion unless any member of the Rental Housing Committee wishes
-- to remove an item for discussion. The reading of the full text of resolutions will be waived unless a
-- Committee Member requests otherwise
-- Recommendation: Approve the Rental Housing Committee meeting minutes. Copies of the minutes for
-- 5. APPEAL HEARINGS
+- No public comments received
+- MOTION - MS - Ma/ Keating - To approve the Consent Calendar
+- APPEAL HEARINGS5
 - 5.1 Appeal of Hearing Officer's Decision Re: Petition No. C25260029
-- Recommendation: To consider the Tentative Appeal Decision and either accept the Tentative Appeal
-- appropriate evidence in the Hearing Record to support the changes
-- ATT 2 - Hearing Officer Decision, dated June 4, 2026
-- ATT 3 - Appellant-Landlord Appeal of Hearing Officer Decision, dated June 23, 2026
-- 7. COMMITTEE/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS
+- PRESENTATION AND ARGUMENTS BY APPELLANT LANDLORD Elaine and John Solis
+- PRESENTATION AND ARGUMENTS BY RESPONDENT TENANT Jean Bell
+- MOTION - MS - Brown/ Ma - To approve the Tentative Appeal Decision in its entirety
+- August 27, 2026Rental Housing Committee Minutes
+- Act (CSFRA) One-Time Utility Adjustment (OTUA) Petition Process and provided feedback
+- COMMITTEE/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS7
 - 7.1 Upcoming Workshops and Housing Help Center Dates
-- The agenda, reports, and any writings or documents provided to a majority of the Rental Housing Committee regarding any item on this agenda are
-- 500 Castro Street, the City Clerk's Office, 500 Castro Street, Third Floor and at the Mountain View Library, 585 Franklin Street, beginning Thursday, prior
-- to Monday Rental Housing Committee meetings. Printed copies of the agenda, reports, and any writings or documents already provided to a majority
-- of the Committee regarding any item on this agenda may be requested at the Rent Stabilization Program during normal business hours
-- The Committee may consider and act on items listed on the agenda in any order and thus those interested in an item listed on the agenda are
-- Committee may take up and act upon the more pressing agenda items. All agenda items not considered at the meeting shall be on the agenda of
-- accessibility to this meeting. (28 CFR 35.160 (b) (1)). If you have a hearing or speech disability, please use the California Relay System at 711, TDD
-- Computer-generated captioning of the Rental Housing Committee meeting is unedited and should neither be relied upon for complete accuracy nor
 
 ## [mountain-view#13] 2026-08-31 | Council Transportation Committee | agenda
 - §54953(b) from Stanford Sierra Camp, 130 Fallen Leaf Road, Fallen Leaf Lake, CA 96151. The teleconference location
@@ -766,3 +755,61 @@
 - Anyone who is planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance may call the
 - City Manager's Office 650-903-6301 48 hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with a
 - or Committee. Their consideration of the matters noticed herein is not limited by the recommendations indicated herein
+
+## [mountain-view#52] 2026-10-27 | City Council | agenda
+- In-person interpretation services are available in Spanish and Chinese upon advance request. Requests must be submitted to the
+- Meeting materials may also be translated upon advance request. Requests must be submitted no later than 5:00 p.m. two business
+- La Ciudad está probando un servicio de traducción basado en inteligencia artificial. Para acceder a los servicios de traducción
+- Appointment (Government Code §54957) - Title: City Attorney
+- 3. PRESENTATIONS
+- These are presentations only. The City Council will not take any action
+- 3.1 Simon Kensky, Elementary School Mayor for a Day Certificate of Recognition
+- 3.2 Yichen Yang, Middle School Mayor for a Day Certificate of Recognition
+- 3.4 Midpeninsula Regional Open Space District Presentation
+- These items will be approved by one motion unless any member of the Council or audience wishes to remove
+- an item for discussion. The reading of the full text of ordinances and resolutions will be waived unless a
+- Councilmember requests otherwise
+- 4.1 LinkedIn Development Agreement Amendment at 700-810 East Middlefield Road and 1100-1200 Maude
+- 1. Adopt an Ordinance of the City of Mountain View Approving a First Amendment to
+- the Development Agreement By and Between the City of Mountain View and LinkedIn
+- 700-810 East Middlefield Road and 1100-1200 Maude Avenue (APNs: 165-38-001 and
+- 2. Upon receipt of the funds, appropriate the $1.6 Million Public Benefit Fee to the
+- Mountain View Affordable Housing Fund (Five votes required)
+- ATT 1 - DA Amendment Ordinance
+- 4.2 Multi-family Housing Tax-Exempt Bond Financing for 334 San Antonio Road
+- Adopt a Resolution of the City Council of the City of Mountain View Approving the
+- Issuance of the California Municipal Finance Authority Exempt Facility Bonds in an
+- Purpose of Financing or Refinancing the Acquisition, Construction, Improvement and
+- Equipping of 334 San Antonio Road and Certain Other Matters Relating Thereto, to be
+- ATT 1 - Resolution
+- ATT 2 - TEFRA Hearing Transcript
+- 4.3 State Route 237 and Middlefield Road Interchange Improvements, Project 19-65 - Design Concept
+- As recommended by the Council Transportation Committee, approve the design
+- concept for the State Route 237 and Middlefield Road Interchange Improvements,
+- Project 19-65
+- ATT 1 - SR 237/Middlefield Rd Interchange Improvements Alternatives
+- 4.4 Public Safety Building, Project 20-49 - Pre-Qualification for Responsible Bidders and Subcontractors
+- Authorize advertising for the determination of responsible bidders and pre-qualification
+- of critical-trade subcontractors for Package 2 of Public Safety Building, Project 20-49
+
+## [mountain-view#53] 2026-10-28 | Administrative Zoning Hearing | agenda
+- Administrative Zoning Hearing
+- The Administrative Zoning Hearing scheduled for Wednesday, October 28, 2026 has been
+- The next Administrative Zoning Hearing will be held on Wednesday, November 18, 2026
+
+## [mountain-view#54] 2026-10-28 | Bicycle/Pedestrian Advisory Committee | agenda
+- phone. When the Chair calls your name to provide public comment, if you are participating via phone, please press *6 to
+- Recommendation: Approve the BPAC meeting minutes from August 18, 2026
+- Recommendation: Receive information on collisions involving pedestrians and cyclists. Police
+- 6.2 Interim Pedestrian Mall Improvements (Castro Street and California Street Intersection ),
+- Project 23-49
+- Recommendation: Receive an update and provide feedback on the concept intersection layout for
+- Interim Pedestrian Mall Improvements (Castro Street/California Street Intersection),
+- Interim Pedestrian Mall Improvements (Castro St. and California St.), Project 23-49
+- 7. COMMITTEE/STAFF ANNOUNCEMENTS, UPDATES, REQUESTS, AND COMMITTEE REPORTS
+- counter, 500 Castro Street, First Floor and at the meeting
+- Anyone planning to attend a meeting who is visually or hearing-impaired or has any disability that needs special assistance should call the
+- Public Works Department at (650) 903-6306 48-hours in advance of the meeting to arrange for assistance. Upon request, in advance, by a person with
+- format. Also upon request, in advance, an assistive listening device can be made available for use during the meeting
+- The Committee may take action on any matter noticed herein in any manner deemed appropriate by the Committee. Their consideration of the
+- will be made available for public inspection in the Public Works Department, 500 Castro Street, during normal business hours and at the meeting

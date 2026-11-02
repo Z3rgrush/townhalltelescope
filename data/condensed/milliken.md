@@ -1,17 +1,13 @@
 # milliken
 
-## [milliken#0] 2026-08-03 | Housing Authority | agenda
-- HOUSING AUTHORITY WORK SESSION
-- 1101 Broad Street, Meeting House, Milliken, CO 80543
-
-## [milliken#1] 2026-08-05 | Planning Commission | agenda
+## [milliken#0] 2026-08-05 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - scheduled meeting date in order to allow the Town to better accommodate your request
 
-## [milliken#2] 2026-08-05 | Planning Commission | agenda
+## [milliken#1] 2026-08-05 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#3] 2026-08-05 | Board of Trustees | agenda
+## [milliken#2] 2026-08-05 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Professional Services Agreement with Ayres Associates, Inc
@@ -53,7 +49,7 @@
 - WHEREAS, the Town desires to contract with the Contractor subject to the terms of this
 - NOW, THEREFORE, for the consideration herein expressed, it is agreed as follows by and
 
-## [milliken#4] 2026-08-05 | Board of Trustees | agenda
+## [milliken#3] 2026-08-05 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Professional Services Agreement with Ayres Associates, Inc
@@ -62,12 +58,12 @@
 - b. Discussion of negotiations related to a possible new town administrator
 - contract, including possible executive session
 
-## [milliken#5] 2026-08-12 | Board of Trustees | agenda
+## [milliken#4] 2026-08-12 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Future Agenda Setting Discussion
 
-## [milliken#6] 2026-08-12 | Board of Trustees | agenda
+## [milliken#5] 2026-08-12 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from July 22, 2026
@@ -86,7 +82,7 @@
 - b. Discussion and Direction Regarding the HWY 257 Noise Complaint
 - a. Police Department Report for July 2026
 
-## [milliken#7] 2026-08-12 | Board of Trustees | agenda
+## [milliken#6] 2026-08-12 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from July 22, 2026
@@ -129,14 +125,14 @@
 - Staff continue to process invoices, vendor applications, parade registrations, licensing items,
 - The training provides valuable professional development and education specific to municipal
 
-## [milliken#8] 2026-08-19 | Planning Commission | agenda
+## [milliken#7] 2026-08-19 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 
-## [milliken#9] 2026-08-19 | Planning Commission | agenda
+## [milliken#8] 2026-08-19 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#10] 2026-08-20 | Housing Authority | agenda
+## [milliken#9] 2026-08-20 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -151,7 +147,7 @@
 - a. Send 2027 budget to Town of Milliken
 - b. Approve 2027 budget in September or October meeting
 
-## [milliken#11] 2026-08-20 | Housing Authority | agenda
+## [milliken#10] 2026-08-20 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -186,17 +182,17 @@
 - those contained in the buyer's purchase order, and to the extent that this is the case, the seller hereby expressly conditions its acceptance of the buyer's offer on the buyer's
 - terms. The buyer and seller agree that any contract hereby entered into has been made and is to be construed according to our State Law
 
-## [milliken#12] 2026-08-21 | Board of Trustees | agenda
+## [milliken#11] 2026-08-21 | Board of Trustees | agenda
 - TOWN BOARD BUDGET RETREAT WORK
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 - a. 2027 Budget Retreat — General Fund Discussion
 
-## [milliken#13] 2026-08-26 | Board of Trustees | agenda
+## [milliken#12] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 
-## [milliken#14] 2026-08-26 | Board of Trustees | agenda
+## [milliken#13] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - Item Category: Discussion Agenda
@@ -241,7 +237,7 @@
 - Trash removal as required by the Rental Agreement; and
 - Renters are responsible for ensuring that the facility is completely vacated by the end of
 
-## [milliken#15] 2026-08-26 | Board of Trustees | agenda
+## [milliken#14] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 5th Special Meeting and August 12th
@@ -250,7 +246,7 @@
 - 12. Discussion Agenda
 - a. Community Development Report
 
-## [milliken#16] 2026-08-26 | Board of Trustees | agenda
+## [milliken#15] 2026-08-26 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 5th Special Meeting and August 12th
@@ -292,20 +288,20 @@
 - Trustee BJ Cummins moved to approve and authorize the mayor to sign the proposed Town
 - Administrator Employment Agreement and to deliver it to Mr. Greg Brinck as an offer of
 
-## [milliken#17] 2026-09-02 | Planning Commission | agenda
+## [milliken#16] 2026-09-02 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#18] 2026-09-02 | Planning Commission | agenda
+## [milliken#17] 2026-09-02 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - scheduled meeting date in order to allow the Town to better accommodate your request
 
-## [milliken#19] 2026-09-09 | Board of Trustees | agenda
+## [milliken#18] 2026-09-09 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - b. Town Administrator Goals Discussion
 - c. Strategic Growth Plan - Continued Discussion
 
-## [milliken#20] 2026-09-09 | General | agenda
+## [milliken#19] 2026-09-09 | General | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 29, 2026
@@ -318,7 +314,7 @@
 - a. Social Media Policy Update Discussion
 - a. Milliken Police Department Report for August 2026
 
-## [milliken#21] 2026-09-09 | General | agenda
+## [milliken#20] 2026-09-09 | General | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from August 29, 2026
@@ -363,29 +359,29 @@
 - a. An Ordinance Amending Section 2-2-90 Of The Milliken Municipal Code
 - Town Attorney Matthew Gould presented for the Board of Trustees’ consideration An
 
-## [milliken#22] 2026-09-11 | Board of Trustees | agenda
+## [milliken#21] 2026-09-11 | Board of Trustees | agenda
 - TOWN BOARD BUDGET RETREAT WORK
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 - a. Preliminary Budget Discussions Continued
+
+## [milliken#22] 2026-09-14 | Housing Authority | agenda
+- HOUSING AUTHORITY WORK SESSION
+- 1101 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Agenda
 
 ## [milliken#23] 2026-09-14 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Agenda
 
-## [milliken#24] 2026-09-14 | Housing Authority | agenda
-- HOUSING AUTHORITY WORK SESSION
-- 1101 Broad Street, Meeting House, Milliken, CO 80543
-- 1. Discussion Agenda
+## [milliken#24] 2026-09-16 | Planning Commission | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
 
 ## [milliken#25] 2026-09-16 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 
-## [milliken#26] 2026-09-16 | Planning Commission | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-
-## [milliken#27] 2026-09-17 | Housing Authority | agenda
+## [milliken#26] 2026-09-17 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -405,7 +401,7 @@
 - b. 2027 MHA Budget updates
 - b. Approve 2027 budget in October meeting
 
-## [milliken#28] 2026-09-17 | Housing Authority | agenda
+## [milliken#27] 2026-09-17 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -451,17 +447,17 @@
 - "I move to approve for one commissioner to attend the National Association of Housing
 - Milliken Housing Authority’s
 
+## [milliken#28] 2026-09-23 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- c. Northern Colorado Water Conservancy District Joint Meeting
+
 ## [milliken#29] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - c. Northern Colorado Water Conservancy District Joint Meeting
 
 ## [milliken#30] 2026-09-23 | Board of Trustees | agenda
-- 1201 Broad Street, Meeting House, Milliken, CO 80543
-- 1. Discussion Topics
-- c. Northern Colorado Water Conservancy District Joint Meeting
-
-## [milliken#31] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 9, 2026
@@ -470,7 +466,7 @@
 - b. Social Media and Communications Discussion
 - a. Community Development Report
 
-## [milliken#32] 2026-09-23 | Board of Trustees | agenda
+## [milliken#31] 2026-09-23 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 9, 2026
@@ -507,6 +503,14 @@
 - transparency regarding water supply sources, and an explanation from the Board regarding why
 - tiered rate structures push residents into higher fee tiers. She emphasized the need for accurate
 
+## [milliken#32] 2026-10-05 | Housing Authority | agenda
+- HOUSING AUTHORITY WORK SESSION
+- 1101 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Agenda
+- a. Q3 Strategic Plan implementation updates
+- Sloane Hawes, Housing Authority Chair
+- b. Prepare for MHA presentation for Town Board of Trustees on November
+
 ## [milliken#33] 2026-10-05 | Housing Authority | agenda
 - HOUSING AUTHORITY WORK SESSION
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
@@ -515,29 +519,21 @@
 - Sloane Hawes, Housing Authority Chair
 - b. Prepare for MHA presentation for Town Board of Trustees on November
 
-## [milliken#34] 2026-10-05 | Housing Authority | agenda
-- HOUSING AUTHORITY WORK SESSION
-- 1101 Broad Street, Meeting House, Milliken, CO 80543
-- 1. Discussion Agenda
-- a. Q3 Strategic Plan implementation updates
-- Sloane Hawes, Housing Authority Chair
-- b. Prepare for MHA presentation for Town Board of Trustees on November
-
-## [milliken#35] 2026-10-07 | Planning Commission | agenda
+## [milliken#34] 2026-10-07 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Development Application Review Continued
 
-## [milliken#36] 2026-10-07 | Planning Commission | agenda
+## [milliken#35] 2026-10-07 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - scheduled meeting date in order to allow the Town to better accommodate your request
 
-## [milliken#37] 2026-10-14 | Board of Trustees | agenda
+## [milliken#36] 2026-10-14 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
 - a. Proposed 2027 Budget Review and Discussions Continued
 
-## [milliken#38] 2026-10-14 | Board of Trustees | agenda
+## [milliken#37] 2026-10-14 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 23, 2026
@@ -547,7 +543,7 @@
 - a. Food Truck Park Discussion
 - b. 1398 Irene - Student Home Construction Partnership Discussion
 
-## [milliken#39] 2026-10-14 | Board of Trustees | agenda
+## [milliken#38] 2026-10-14 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
 - a. Approval of Minutes from September 23, 2026
@@ -584,7 +580,7 @@
 - Town Administrator Greg Brinck provided an update on current Town activities and discussed
 - provided at the second meeting. Department information, including Police and Community
 
-## [milliken#40] 2026-10-15 | Housing Authority | agenda
+## [milliken#39] 2026-10-15 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -599,7 +595,7 @@
 - a. Strategic plan updates
 - Update presentation for Town of Milliken Board of Trustees,
 
-## [milliken#41] 2026-10-15 | Housing Authority | agenda
+## [milliken#40] 2026-10-15 | Housing Authority | agenda
 - HOUSING AUTHORITY AGENDA
 - 1101 Broad Street, Meeting House, Milliken, CO 80543
 - 4. Agenda Approval
@@ -649,6 +645,11 @@
 - Expenses Budget
 - Balance at Jan 1, 2027 (Projected) $ 140,719.88
 
+## [milliken#41] 2026-10-21 | Planning Commission | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- a. Development Application Review Continued
+
 ## [milliken#42] 2026-10-21 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
 - 1. Discussion Topics
@@ -656,8 +657,67 @@
 
 ## [milliken#43] 2026-10-21 | Planning Commission | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
-- 1. Discussion Topics
-- a. Development Application Review Continued
 
-## [milliken#44] 2026-10-21 | Planning Commission | agenda
+## [milliken#44] 2026-10-28 | Board of Trustees | agenda
 - 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- a. Budget Discussion Continued
+
+## [milliken#45] 2026-10-28 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 1. Discussion Topics
+- a. Budget Discussion Continued
+
+## [milliken#46] 2026-10-28 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 4. Agenda Approval
+- a. Approval of Minutes from October 14, 2026
+- a. Milliken Sidewalk and ADA Project, Federal Aid Project N0. Tap M887-007
+- CDOT Construction Project Code NO. 25922
+- Jon Rabas , Streets and Facilities Directors
+- 11. Discussion Agenda
+- a. Communication & Social Media Policy Discussion
+
+## [milliken#47] 2026-10-28 | Board of Trustees | agenda
+- 1201 Broad Street, Meeting House, Milliken, CO 80543
+- 4. Agenda Approval
+- a. Approval of Minutes from October 14, 2026
+- a. Milliken Sidewalk and ADA Project, Federal Aid Project N0. Tap M887-007
+- CDOT Construction Project Code NO. 25922
+- Jon Rabas , Streets and Facilities Directors
+- 11. Discussion Agenda
+- a. Communication & Social Media Policy Discussion
+- Agenda Title: Approval of Minutes from October 14, 2026
+- To review and consider for approval of the meeting minutes from October 28, 2026
+- "I move to approve the Town Board Meeting Minutes from October 14, 2026 as
+- 1201 Broad Street
+- Police Benito Garcia, Community Development Director Kevin Koelbel, Finance Director
+- Steven Krolczyk, Streets and Facilities Director Jon Rabas, Parks and Open Space Director
+- Keith Staggs, Water Wastewater Director Don Stonebrink, and Town Attorney Matt Gould
+- Trustee Amanda Nix moved to approve the Agenda as presented. Mayor Pro Tem Michael
+- water meter replacement project. She asked who manufactured the new meters, the total project
+- by Metron and that the approximately $1.25 million project cost included both the meters and
+- approximately 10 to 20 years old and that the replacement project began in 2024. Staff clarified
+- new system provides more advanced technology. Maintaining two separate meter systems
+- help offset project costs
+- Katie VanDeraa (9102 CR 44) addressed the Board requesting that the proposed paving of
+- County Road 44 be removed from the 2027 budget. She explained that the road is partially
+- paved near Meadow Farms, with dirt road sections remaining on both ends, including where
+- she resides. While acknowledging that dust and muddy road conditions can be inconvenient,
+- the concerns of others who may be impacted by the project
+- County Road 44. She disputed previous statements suggesting that the road poses safety
+- 44 as one of the best-maintained dirt roads in the county and questioned concerns regarding
+- emergency vehicle accessibility. Ms. Farmer encouraged the Board to consider the broader
+- concerns. She also expressed concern regarding the significant cost of the project and suggested
+- parks, and infrastructure
+- a. Approval of Minutes from September 23, 2026
+- Mayor Pro Tem Michael Orcutt moved to approve the meeting minutes from September 23,
+- and welcomed any questions or feedback from the Board. Board members expressed
+- a. Meadow Farms Encroachment Agreement
+- Kevin Koelbel, Community Development Director
+- Kevin Koelbel, Community Development Director, presented an Encroachment Agreement
+- with the Meadow Farms Homeowners Association (HOA) requesting permission to utilize
+
+## [milliken#48] 2026-11-02 | Housing Authority | agenda
+- HOUSING AUTHORITY WORK SESSION
+- 1101 Broad Street, Meeting House, Milliken, CO 80543

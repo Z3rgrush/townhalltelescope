@@ -1,14 +1,6 @@
 # dolores
 
-## [dolores#0] 2025-10-27 | City Council | agenda
-- There are separate links for the Town Board Meetings and Workshops
-- Presentation by Kelli Hargraves, Social Services Director, relating to Senior Lunch Program
-- Presentation by Casey Simpson relating to recycling
-- Discussion on Phase 2 Water project funding needs and water rates
-- Sheriﬀ’s contract for 2026
-- Discuss use of Electionland and IGA with Mancos for 2026 election
-
-## [dolores#1] 2026-01-12 | City Council | minutes
+## [dolores#0] 2026-01-12 | City Council | minutes
 - 4. ACTION/APPROVAL OF THE AGENDA: A motion to approve the agenda was made by
 - 5. IDENTIFICATION OF ACTUAL OR PERCEIVED CONFLICTS OF INTEREST
 - None identified
@@ -47,7 +39,7 @@
 - Dolores Library District. A motion was made by Mayor Holkestad to approve Resolution 688
 - 12.3 Resolution 689: Authorizing a Mail Ballot Election on April 7, 2026. A motion was
 
-## [dolores#2] 2026-01-26 | City Council | minutes
+## [dolores#1] 2026-01-26 | City Council | minutes
 - There are separate links for the Town Board Meetings and Workshops
 - habitat project was completed, the comprehensive plan team is meeting every two weeks, and the staﬀ
 - met to discuss funding regarding the main line water replacement project. She also informed the board
@@ -58,7 +50,7 @@
 - events, both with and without alcohol. The consensus was to continue the conversation, have the parks
 - committee also review and present on parks issues, and possibly hold another workshop to set rules and
 
-## [dolores#3] 2026-03-09 | City Council | minutes
+## [dolores#2] 2026-03-09 | City Council | minutes
 - 4. Approval of Agenda
 - Trustee Youngquist moved to approve the agenda. Trustee Peterson seconded the motion.Motion approved unanimously
 - Trustee Grigg moved to approve the Consent Agenda. Trustee Youngquist seconded the motion.Motion approved unanimously
@@ -85,7 +77,7 @@
 - Motion to approve Resolution 694 – Approved unanimously
 - Motion to approve Resolution 695 – Approved unanimously
 
-## [dolores#4] 2026-04-13 | City Council | minutes
+## [dolores#3] 2026-04-13 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - Motion: Trustee Youngquist moved to approve the agenda as presented
 - Motion: Trustee Curry moved to approve the Consent Agenda
@@ -121,7 +113,7 @@
 - Town Attorney Ethan Sumrall provided a presentation regarding:
 - Social media considerations
 
-## [dolores#5] 2026-04-27 | City Council | minutes
+## [dolores#4] 2026-04-27 | City Council | minutes
 - The Board of Trustees discussed meeting procedures and requested the development of
 - 4. APPROVAL OF AGENDA
 - Vote: Unanimous approval
@@ -143,7 +135,7 @@
 - Grant status and funding updates
 - code to the Board of Trustees and Planning and Zoning Commission members
 
-## [dolores#6] 2026-05-11 | City Council | minutes
+## [dolores#5] 2026-05-11 | City Council | minutes
 - 1.1 CIRSA Presentation
 - presentation regarding risk management for municipal officials
 - The presentation concluded at 6:48 p.m
@@ -187,7 +179,7 @@
 - Development with the findings and conditions noted in the staff report
 - Curry’s proximity to the proposed project site and whether recusal should be considered
 
-## [dolores#7] 2026-05-26 | City Council | minutes
+## [dolores#6] 2026-05-26 | City Council | minutes
 - Town’s recent award of approximately $700,000 in funding from the Colorado Department
 - of Local Affairs (DOLA) for the Phase 2 Water Project. Reeves also provided an update
 - regarding cleanup efforts at 102 North 11th Street
@@ -201,7 +193,7 @@
 - efforts, draft plan development, and certain legal requirements associated with adoption
 - of an updated Comprehensive Plan
 
-## [dolores#8] 2026-06-08 | City Council | minutes
+## [dolores#7] 2026-06-08 | City Council | minutes
 - 4. ACTION: APPROVAL OF THE AGENDA
 - Mayor Holkestad moved to amend the agenda to add Resolution No. 713 under
 - Discussion/Possible Action Items
@@ -230,7 +222,7 @@
 - 12.5 Resolution No. 713 – Authorizing the Use of Steets Fund Reserves for
 - Mayor Pro Tem Curry moved to approve Resolution No. 713. Trustee McCoy
 
-## [dolores#9] 2026-06-22 | City Council | minutes
+## [dolores#8] 2026-06-22 | City Council | minutes
 - Fee Schedule Discussion
 - Town Manager Leigh Reeves presented the proposed fee schedule updates, Ordinance No
 - 591, Series 2026, Resolution No. 715, Series 2026, and Resolution No. 716, Series 2026,
@@ -253,7 +245,7 @@
 - Trustees Curry and Maule requested that staff-board interaction and communication
 - expectations be placed on a future agenda for discussion
 
-## [dolores#10] 2026-07-13 | City Council | minutes
+## [dolores#9] 2026-07-13 | City Council | minutes
 - 4. ACTION: APPROVAL OF THE AGENDA
 - Trustee Peterson moved to approve the agenda
 - (Single motion; items may be removed for separate consideration)
@@ -293,7 +285,7 @@
 - agent in a housing project funded through federal and state grant streams
 - hired tree cutting to be done along the escarpment in town to mitigate fire hazards
 
-## [dolores#11] 2026-07-27 | City Council | minutes
+## [dolores#10] 2026-07-27 | City Council | minutes
 - Fee Schedule Review
 - The Board began by reviewing the proposed 2026 fee schedule. Naomi Reiss arrived after the
 - discussion began
@@ -322,7 +314,7 @@
 - August: Sheriff’s Office contract
 - October: Budget
 
-## [dolores#12] 2026-08-10 | City Council | minutes
+## [dolores#11] 2026-08-10 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - ACTION: Trustee Beckman moved to approve the agenda. Trustee Maule seconded. The
 - ACTION: Trustee Maule moved to approve the consent agenda. Trustee Beckman
@@ -359,7 +351,7 @@
 - traffic study be completed during the zoning process. Rachel Vass stated that changing the
 - zoning could eliminate future business opportunities. Tracy Keuric stated that she did not
 
-## [dolores#13] 2026-08-24 | City Council | minutes
+## [dolores#12] 2026-08-24 | City Council | minutes
 - 3. WORKSHOP DISCUSSION
 - 3.1 2027 BUDGET PLANNING
 - Town Clerk/Treasurer Kelley presented the 2027 budget planning information and reviewed
@@ -378,7 +370,7 @@
 - The following items were added to the Future Agenda Items/Board Parking Lot for future
 - consideration:
 
-## [dolores#14] 2026-09-14 | City Council | minutes
+## [dolores#13] 2026-09-14 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - Mayor Holkestad moved to approve the agenda. Mayor Pro Tem Curry seconded. Motion
 - Mayor Holkestad moved to approve the Consent Agenda. Trustee Maule seconded. Motion
@@ -419,7 +411,7 @@
 - 12.3 Resolution 719 – DWRF Loan Agreement, Phase 2 Water Project
 - Manager Reeves presented Resolution 719 and reviewed the loan summary. Mayor
 
-## [dolores#16] 2026-10-12 | City Council | minutes
+## [dolores#15] 2026-10-12 | City Council | minutes
 - 4. APPROVAL OF THE AGENDA
 - Trustee Josh Maule moved to approve the agenda. Trustee Billy McCoy seconded. Motion
 - Mayor Pro Tem Chris Curry moved to approve the Consent Agenda, including the

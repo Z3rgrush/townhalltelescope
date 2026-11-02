@@ -1,173 +1,152 @@
-- title: Short-term rental cap and Ordinance 2026-14/2026-16
-  summary: The Board held a July 28 work session on a cap on short-term rentals, then took up Ordinance 2026-14 on Aug 11 and Aug 25. A follow-up Ordinance 2026-16 amending the same article of Chapter 6 was on the Sept 22 agenda. A letter from "The Alliance" was part of the July 28 packet.
+- title: R-2 OT zone change to allow duplexes and small multifamily (The Crossing)
+  summary: A developer at The Crossing and a resident asked the Planning & Zoning Commission to amend the R-2 OT zone to allow small multifamily and attached duplexes. The commission discussed party walls, a 3-foot side setback, articulation and possibly requiring a special use permit for larger lots, and planned a formal code amendment for consideration on 11/4/26. The Historic Preservation Commission was also asked for feedback on over/under duplexes.
+  where: R-2 OT zone district, including The Crossing
+  refs:
+  - 6
+  - 7
+  - 12
+  - 27
+  - 31
+  - 32
+  topics:
+  - Housing
+  - Zoning & development
+  public_comment: true
+- title: Short-term rental ordinance (Ordinances 2026-14 and 2026-16)
+  summary: The Board of Trustees discussed and considered amending the short-term rental rules in Chapter 6 of the municipal code over several meetings. Ordinance 2026-14 was on the August agendas and Ordinance 2026-16 followed on September 22.
   where: Townwide
   refs:
-  - 0
-  - 5
-  - 10
-  - 21
+  - 4
+  - 9
+  - 20
   topics:
   - Short-term rentals
   - Housing
-  - Zoning & development
-  public_comment: true
-- title: 'R-2 OT zone: allowing duplexes and small multifamily (The Crossing)'
-  summary: Residents including The Crossing developer Paul Andrews asked the Planning & Zoning Commission to amend R-2 OT zoning to allow small multifamily and attached townhomes for lower-priced housing. On Aug 19 commissioners discussed party walls, 3-foot side setbacks, articulation, and possibly requiring a special use permit for larger lots. Staff were to bring code amendments back, with a formal amendment on the Nov 4 agenda and Historic Preservation Commission feedback on over/under duplexes requested.
-  where: R-2 OT zone, including The Crossing
+- title: 2027 Town budget and fee schedule
+  summary: Department heads and advisory boards presented 2027 budget requests in work sessions, followed by public hearings. The Board was scheduled to adopt the 2027 budget, appropriations and fee schedule on October 27. Requests included $12,700 from Beautification and $3,000 for Historic Preservation.
+  where: Townwide
   refs:
-  - 7
-  - 8
-  - 13
+  - 2
+  - 4
+  - 9
+  - 14
+  - 15
+  - 20
   - 28
-  - 32
   - 33
   topics:
-  - Housing
-  - Zoning & development
-  public_comment: true
+  - Budget & taxes
+  - Fees & rates
 - title: Boys & Girls Club facility at 710 Cedar Street
-  summary: The Planning & Zoning Commission held a public hearing on the major site plan for a new Boys & Girls Club facility on a 0.729-acre town-owned lot. A neighbor wrote in support with a question about Cedar Street parking. The Board of Trustees also considered a second amendment to the ground lease and assignment of the lease to Great Futures BV, Inc.
+  summary: The Planning & Zoning Commission reviewed a major site plan for a new Boys & Girls Club building on a 0.729-acre town-owned lot. The Trustees were also asked to amend the ground lease and consent to assigning it to Great Futures BV, Inc. A neighbor wrote in support and asked about on-street parking.
   where: 710 Cedar Street
   refs:
-  - 13
+  - 12
+  - 20
   - 21
-  - 22
-  - 33
+  - 32
   topics:
   - Zoning & development
   - Schools & youth
   - Land & property
   public_comment: true
-- title: 2027 Town budget and fee schedule
-  summary: Treasurer Phillip Puckett presented the preliminary 2027 budget, followed by department head and advisory board presentations and public hearings on Sept 8, Sept 22 and Oct 13. The Board also reviewed a draft 2027 fee schedule, and a well project was included for consideration.
-  where: Townwide
+- title: Rustic Haven cohousing site plan
+  summary: The Planning & Zoning Commission held a hearing on a major site plan to convert a 2.2-acre cabin lodging property into a cohousing community of 11 units. The applicant must complete a water audit. Supporters spoke in favor, and a neighbor raised fence and livestock concerns.
+  where: Rustic Haven, 2.2-acre property
   refs:
   - 0
-  - 3
-  - 5
-  - 10
-  - 16
-  - 21
-  - 29
-  - 30
-  topics:
-  - Budget & taxes
-  - Fees & rates
-- title: Water rate study and water efficiency planning
-  summary: Swiftwater Solutions is updating the town utility rate study, with technical memos on 10-year financial planning before the Water Advisory Board. The Urban Land Institute presented on water efficiency in local development and landscaping, and the town is working on a water conservation plan.
-  where: Townwide
-  refs:
-  - 9
-  - 20
-  - 21
-  - 30
-  - 31
-  topics:
-  - Water
-  - Fees & rates
-  - Environment & climate
-- title: Housing needs assessment and Proposition 123 commitments
-  summary: Buena Vista is part of a regional Housing Needs Assessment with Chaffee County and Salida, due to the state by end of 2026. The Board was asked to adopt a regional Proposition 123 memorandum of understanding and the town's affordable housing commitment for 2027-2029.
-  where: Countywide
-  refs:
-  - 10
-  - 16
-  - 21
-  topics:
-  - Housing
-  - Government operations
-- title: Data center moratorium discussion
-  summary: The Planning & Zoning Commission scheduled a general discussion of a data center moratorium for its Oct 21 meeting.
-  where: Townwide
-  refs:
-  - 32
-  - 33
-  topics:
-  - Data centers
-  - Zoning & development
-  tags:
-  - data-center
-- title: Transportation Master Plan
-  summary: KLJ Engineering introduced the Transportation Master Plan to the Planning & Zoning Commission and then updated the Board. Public priorities include safe crossings of major roads and the railroad, paved multimodal trails, and a parking strategy.
-  where: Townwide, US 24 and railroad crossings
-  refs:
-  - 1
-  - 7
-  - 10
-  topics:
-  - Roads & traffic
-  - Recreation & trails
-- title: Rustic Haven cohousing site plan
-  summary: The Planning & Zoning Commission heard the major site plan for Rustic Haven, a 2.2-acre property converting existing cabins (11 units) into cohousing with homeownership at a range of price points. Staff required a water audit, and a neighbor raised concerns about fencing and livestock along an access easement.
-  where: Rustic Haven, Buena Vista
-  refs:
-  - 1
   topics:
   - Housing
   - Zoning & development
   - Water
   public_comment: true
-- title: Cottonwood Lake dam and spillway, and Park-n-Ride IGA with CDOT
-  summary: The Board considered bids and funding for the Cottonwood Lake Dam and Spillway project through the Upper Arkansas Water Conservancy District. It also considered an agreement with the state to build a Park-n-Ride on U.S. Highway 24.
-  where: Cottonwood Lake; US Highway 24
-  refs:
-  - 0
-  topics:
-  - Water
-  - Transit
-  - Roads & traffic
-- title: South Main PUD development agreement amendment
-  summary: The Board considered Resolution 2026-55 approving a first amendment to the amended and restated development agreement for the South Main PUD.
-  where: South Main PUD
-  refs:
-  - 0
-  topics:
-  - Zoning & development
-- title: Wildfire resiliency code, fire district inclusion and Ballot Issue 6A
-  summary: The Board held a hearing on local amendments to the 2025 Colorado Wildfire Resiliency Code (Ordinance 2026-15). It later considered a resolution supporting Ballot Issue 6A to include all town property in the Chaffee County Fire Protection District.
+- title: Data center moratorium discussion
+  summary: The Planning & Zoning Commission placed a general discussion of a data center moratorium on its October 21 agenda.
   where: Townwide
   refs:
-  - 5
+  - 31
+  - 32
+  topics:
+  - Data centers
+  - Zoning & development
+  tags:
+  - data-center
+- title: Water rate study and water efficiency planning
+  summary: The Water Advisory Board reviewed technical memos for the utility rate study, including 10-year financial planning. The Trustees heard a rate study update and an Urban Land Institute presentation on water-efficient development and landscaping.
+  where: Townwide
+  refs:
+  - 8
+  - 19
+  - 20
   - 29
   - 30
   topics:
-  - Fire & emergencies
-  - Elections
+  - Water
+  - Fees & rates
   - Environment & climate
-- title: Law enforcement agreements with Chaffee County Sheriff
-  summary: The Board considered agreements for a regional tactical response team and for law enforcement mutual aid with the Sheriff's Office. It also considered ending the town's participation in a prior collective special response agreement. The Sheriff's Co-Response Program also gave an update.
-  where: Countywide
+- title: Housing Needs Assessment and Proposition 123 commitments
+  summary: Buena Vista is part of a regional Housing Needs Assessment with Chaffee County and Salida, due to DOLA by the end of 2026. The Trustees were also asked to approve a regional Proposition 123 affordable housing memorandum and the town's 2027-2029 commitment.
+  where: Chaffee County region
   refs:
-  - 16
-  - 21
+  - 9
+  - 15
+  - 20
   topics:
-  - Policing & public safety
+  - Housing
   - Government operations
-- title: Airport projects and Aspen closure planning
-  summary: The Airport Advisory Board tracked the AWOS weather system bids, which came in higher than expected but ended within funding after the state added money. It also discussed a safety plan, ground lease resolutions, prairie dog hazards, a fuel tank coating problem, and preparing for the 2027 Aspen airport closure.
+- title: Transportation Master Plan update
+  summary: KLJ Engineering introduced the new Transportation Master Plan to the Planning & Zoning Commission and the Trustees. Top priorities include safe crossings of major roads and the railroad, paved multimodal trails and a parking strategy.
+  where: Townwide and 3-mile growth area
+  refs:
+  - 0
+  - 6
+  - 9
+  topics:
+  - Roads & traffic
+  - Recreation & trails
+- title: 'Airport projects: AWOS, safety plan and Aspen closure'
+  summary: The Airport Advisory Board tracked the AWOS weather system bids, which came in high but were later brought within available funding. It also followed the North Apron close-out, the draft safety plan, prairie dog hazards and planning for the 2027 Aspen airport closure. Both meetings lacked a quorum for formal action.
   where: Buena Vista airport
   refs:
-  - 6
-  - 17
-  - 21
+  - 5
+  - 16
+  - 20
   topics:
   - Airports
-  - Land & property
-- title: 'Historic buildings: the Pearl and St. Rose of Lima roof'
-  summary: The Historic Preservation Commission approved a roof replacement at the historic St. Rose of Lima church building with recommendations including a closer shingle match. Staff reported on stabilizing the Pearl building and expect the town to step away by year end.
-  where: 343 St. Rose of Lima building; the Pearl
-  refs:
-  - 2
-  topics:
-  - Historic preservation
-- title: Sangre de Cristo Electric tree permit and town tree work
-  summary: Sangre de Cristo Electric Association's contractor is inventorying trees along its primary lines for pruning and removal, and requested a right-of-way tree work permit presented to the Board on Sept 8. The Tree Advisory Board is also planning its 2026 pruning and removal project.
-  where: Southwest Buena Vista
+- title: Wildfire resiliency code amendments and fire district Ballot Issue 6A
+  summary: The Trustees held a hearing on Ordinance 2026-15, local amendments to the 2025 Colorado Wildfire Resiliency Code. They were also asked to support Ballot Issue 6A to include all town property in the Chaffee County Fire Protection District.
+  where: Townwide
   refs:
   - 4
-  - 14
-  - 16
-  - 24
+  - 28
+  - 29
+  topics:
+  - Fire & emergencies
+  - Elections
+- title: Law enforcement agreements and co-response program
+  summary: The Trustees considered intergovernmental agreements with the Chaffee County Sheriff's Office for a regional tactical response team and law enforcement mutual aid, and ending the town's participation in another special team agreement. They also heard an update on the county co-response program.
+  where: Countywide
+  refs:
+  - 15
+  - 20
+  topics:
+  - Policing & public safety
+  - Health & human services
+- title: Sangre de Cristo Electric tree permit
+  summary: The Tree Advisory Board reviewed a tree inventory along primary power lines with removals and pruning identified. The Trustees were to hear the electric association's right-of-way tree work permit application.
+  where: Southwest quadrant of town
+  refs:
+  - 3
+  - 13
+  - 15
+  - 23
   topics:
   - Utilities
   - Environment & climate
+- title: Historic Pearl stabilization and St. Rose of Lima roof
+  summary: The town is stabilizing the damaged Pearl building, with staff hoping to step away by year-end. The Historic Preservation Commission also approved an asphalt shingle roof replacement at the historic St. Rose of Lima church, with recommendations including a closer cedar match and a State Historical Fund grant.
+  where: The Pearl; 343 St. Rose of Lima
+  refs:
+  - 1
+  topics:
+  - Historic preservation

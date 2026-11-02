@@ -1,21 +1,6 @@
 # boulder
 
-## [boulder#0] 2026-07-30 | City Council Special Meeting | agenda
-- 1777 Broadway
-- A. Consideration of a motion to cancel the October 8, 2026 Study Session and replace it with a
-- B. Introduction and consideration of a motion to order published by title only and adopt by
-- emergency measure Ordinance 8767 adopting Supplement 167, which codifies previously
-- adopted ordinances and other miscellaneous corrections and amendments, as amendments
-- 3. Public Hearings
-- A. Second reading and consideration of a motion to amend and pass Ordinance
-- 8754 amending Chapter 12-6, “Minimum Wage,” B.R.C. 1981, setting a local city of Boulder
-- A. Direction on the Wildfire Resilience on Open Space ballot measure
-- 5. Discussion Items
-- the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
-- Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
-- Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
-
-## [boulder#1] 2026-08-06 | City Council Regular Meeting | agenda
+## [boulder#0] 2026-08-06 | City Council Regular Meeting | agenda
 - 1777 Broadway
 - A. Introduction, first reading and consideration of a motion to order published by title only,
 - Ordinance 8753 vacating and authorizing the City Manager to execute a deed of vacation for
@@ -47,21 +32,21 @@
 - 2026, the question concerning the formation of the Boulder Downtown Development
 - revenue limitations for such authority, allowing the city to pledge tax increment funds on
 
-## [boulder#2] 2026-08-13 | City Council Study Session | agenda
+## [boulder#1] 2026-08-13 | City Council Study Session | agenda
 - 1. Strategic Planning Check-in
 - 2. Civic Area East Bookend Development Partnership RFP
 - the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#3] 2026-08-13 | City Council Special Meeting | agenda
+## [boulder#2] 2026-08-13 | City Council Special Meeting | agenda
 - A. Consideration of a motion to call an Executive Session of City Council as authorized by section 24-6
 - 3. Discussion Items
 - the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#4] 2026-08-20 | City Council Regular Meeting | agenda
+## [boulder#3] 2026-08-20 | City Council Regular Meeting | agenda
 - 1777 Broadway
 - A. Consideration of a motion to adopt Resolution 1382 authorizing the city to execute an
 - assignment of the 2026 City of Boulder Private Activity Bonds in the amount of $7,333,256
@@ -94,7 +79,7 @@
 - Fees,” B.R.C. 1981, adding the related tax and fee; and setting forth related details
 - H. Second reading and consideration of a motion to adopt Ordinance 8753 vacating and
 
-## [boulder#5] 2026-08-27 | City Council Study Session | agenda
+## [boulder#4] 2026-08-27 | City Council Study Session | agenda
 - 2. Enhancing Boulder’s Wildfire Resilience through (1) the Development of a Comprehensive
 - Wildfire Home Hardening Implementation Hub and (2) a Comprehensive Assessment and
 - Analysis of Current or Planned City Wildfire-Related Programs, Projects and Actions
@@ -102,7 +87,7 @@
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#6] 2026-09-03 | City Council Regular Meeting | agenda
+## [boulder#5] 2026-09-03 | City Council Regular Meeting | agenda
 - 1777 Broadway
 - A. Consideration of a motion to approve the June 4, 2026 Special City Council Meeting Minutes
 - B. Consideration of a motion to approve the June 18, 2026 Regular City Council Meeting
@@ -134,20 +119,20 @@
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#7] 2026-09-03 | City Council Special Meeting | agenda
+## [boulder#6] 2026-09-03 | City Council Special Meeting | agenda
 - A. Consideration of a motion to call an Executive Session of the City Council pursuant to §24-6
 - 3. Discussion Items
 - the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#8] 2026-09-10 | City Council Study Session | agenda
+## [boulder#7] 2026-09-10 | City Council Study Session | agenda
 - 1. 2027 Recommended Budget Study Session
 - the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#9] 2026-09-17 | City Council Regular Meeting | agenda
+## [boulder#8] 2026-09-17 | City Council Regular Meeting | agenda
 - 1777 Broadway
 - A. Consideration of a motion to accept the August 13 Study Session Summary regarding the
 - Strategic Planning Check-in
@@ -175,13 +160,13 @@
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#10] 2026-09-24 | City Council Study Session | agenda
+## [boulder#9] 2026-09-24 | City Council Study Session | agenda
 - 2. Sister City Resolution Language and Process Update
 - the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#11] 2026-10-01 | City Council Regular Meeting | agenda
+## [boulder#10] 2026-10-01 | City Council Regular Meeting | agenda
 - 1777 Broadway
 - A. Consideration of a motion to accept the August 27, 2026 Study Session Summary
 - regarding the 2026 Wildfire Resilience Council Priority Project
@@ -214,14 +199,14 @@
 - Comprehensive Plan and setting forth related details
 - A. Consideration of a Site Review application for a proposal to redevelop the Naropa campus
 
-## [boulder#12] 2026-10-08 | Community and Council Forum | agenda
+## [boulder#11] 2026-10-08 | Community and Council Forum | agenda
 - 1777 Broadway
 - 1. Council Priority Project: Power Reliability and Resilience Community and Council Forum
 - the channels. The closed captioning service operates in the same manner as similar services offered by broadcast
 - Individuals with hearing or speech loss may contact us using Relay Colorado at 711 or 1-800-659-3656
 - Clerk's Office at 303-441-4222, 8 a.m. - 5 p.m. Monday through Friday. Please request special packet preparation no
 
-## [boulder#13] 2026-10-15 | City Council Regular Meeting | agenda
+## [boulder#12] 2026-10-15 | City Council Regular Meeting | agenda
 - 1777 Broadway
 - A. Consideration of the following pertaining to the 2027 budget of the City of Boulder Central
 - Area General Improvement District:
@@ -255,7 +240,7 @@
 - 3. Consideration of a motion to adopt Resolution 57 appropriating money to defray the
 - expenses and liabilities of the Boulder Junction Access General Improvement District
 
-## [boulder#14] 2026-10-22 | City Council Study Session | agenda
+## [boulder#13] 2026-10-22 | City Council Study Session | agenda
 - 2. Enhancing Boulder’s Wildfire Resilience through (1) the Development of a Comprehensive
 - Wildfire Home Hardening Implementation Hub and (2) a Comprehensive Assessment and
 - Analysis of Current or Planned City Wildfire-Related Programs, Projects and Actions

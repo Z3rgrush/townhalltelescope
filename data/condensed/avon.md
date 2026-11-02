@@ -1,39 +1,6 @@
 # avon
 
-## [avon#0] 2026-07-28 | Town Council | minutes
-- Development Director Matt Pielsticker, Senior Planner Jena Skinner, Housing Planner Patti Liermann, Rec
-- Director Michael Labagh, Engineering Director Eva Wilson, IT Administrator Carlos Molina, and Police Chief
-- 2. APPROVAL OF AGENDA
-- Mayor Underwood opened consideration of the agenda. At the request of Councilor Stanley, Consent
-- Agenda Item 5.10, Notice of Award for Heat Recovery System Expansion Design to Lot B (The Summit),
-- approve the agenda as amended. Councilor Brooks seconded the motion. The motion passed
-- 4. PUBLIC COMMENT
-- Mayor Underwood explained the public comment process, including the available methods for providing
-- relevant experience to the discussion and encouraged participants to maintain respectful and courteous
-- public discourse during Council's discussion of the Flock camera system
-- Jack McBride, an Avon resident, addressed Council in person. Mr, McBride discussed his experience as a
-- term rental licenses, He also expressed concern regarding the approval of additional residential
-- developments with unrestricted short-term rental eligibility
-- support for the program's deed restriction requirement as a means of preserving housing opportunities for
-- properties and requested a written response
-- Town's efforts to clear a clogged culvert and requested continued monitoring and maintenance of culverts
-- No additional public comment was received at that time, either in person or virtually
-- 5.1. ACTION: Approval of June 23, 2026 Regular Council Meeting Minutes (Town Clerk Miguel Jauregui
-- 5.2. RESOLUTION 26-07: Adopting a Fast Track Priority Scheduling Policy for Community Housing
-- Projects (Town Manager Eric Heil)
-- 5.3. RESOLUTION 26-08: Approving Intergovernmental Agreement between the Town of Avon,
-- Colorado and the Avon Urban Renewal Authority, concerning the Remittance of Tax Increment
-- 5.4. RESOLUTION 26-09: Approving Intergovernmental Agreement Between the Town of Avon,
-- Colorado and the Avon Downtown Development Authority, Concerning the Remittance of Tax
-- 5.5. RESOLUTION 26-10: Approving an Amendment of Section 12.01 of the Eagle Valley Transportation
-- Authority Intergovernmental Agreement (Town Manager Eric Heil)
-- 5.6. Appointing Avon's Designated Election Official and Authorizing the Execution of the
-- Intergovernmental Agreement (IGA) related to the 2026 Coordinated Mail -Ballot Election (Town
-- 5.7. Notice of Award for the West Beaver Creek Blvd Bridge Rehab Project Construction (Project
-- 5.8. Notice of Award for Rec Center Aquatic Renovation Design Work (Director of Engineering Eva
-- 5.9. Notice of Award for Lettuce Patch Early Learning Center Bus Stop (Senior Engineer Keith Ferrell)
-
-## [avon#1] 2026-08-11 | Town Council | minutes
+## [avon#0] 2026-08-11 | Town Council | minutes
 - Financial Analyst Chase Simmons, Public Works Director Mike Jackson, Community Development Director
 - Matt Pielsticker, Senior Planner Jena Skinner, Housing Planner Patti Liermann, Building Official Derek
 - Place, Recreation Director Michael Labagh, IT Administrator Andrew Bare, and Police Chief Greg Daly
@@ -63,7 +30,7 @@
 - The presentation highlighted the Center's food pantry, social services, community garden and
 - volunteer opportunities available within the community. As this was a presentation to Council, no
 
-## [avon#2] 2026-08-25 | Town Council | minutes
+## [avon#1] 2026-08-25 | Town Council | minutes
 - Development Director Matt Pielsticker, Senior Planner Jena Skinner, Recreation Director Michael Labagh,
 - IT Administrator Carlos Molina, and Deputy Police Chief Coby Cosper
 - 2. APPROVAL OF AGENDA
@@ -93,7 +60,7 @@
 - needed for staff review and analysis. He noted that he had met with residents earlier in the day to discuss
 - technical issues and emphasized that all public feedback is being considered. Mr. Heil stated that
 
-## [avon#3] 2026-09-08 | Town Council | minutes
+## [avon#2] 2026-09-08 | Town Council | minutes
 - Superintendent Kacy Carmichael; IT Administrator Andrew Bare; and Deputy Police Chief Coby Cosper
 - 2. APPROVAL OF AGENDA
 - Mayor Underwood opened consideration of the Agenda. No amendments were proposed. Councilor
@@ -123,7 +90,7 @@
 - Deputy Chief Cosper reported that the Avon Police Department had received 27 calls regarding trash
 - 5.1. ACTION: Approval of August 25, 2026 Regular Council Meeting Minutes (Town Clerk Miguel
 
-## [avon#4] 2026-09-22 | Town Council | minutes
+## [avon#3] 2026-09-22 | Town Council | minutes
 - Development Director Matt Pielstocker; Chief Cultural Officer Danita Dempsey; Recreation Director
 - Michael Labagh; IT Administrator Carlos Molina; and Police Chief Greg Daly
 - 2. APPROVAL OF AGENDA

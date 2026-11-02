@@ -1,34 +1,6 @@
 # thornton
 
-## [thornton#0] 2026-07-28 | 7/28/26 Council Update | agenda
-- Municipal Fine and Fee Schedule
-- Fine and Fee Schedule Powerpoint
-- 3 Fine and Fee Schedule
-- 5 Fine and Fee Schedule Survey and Recommendations
-
-## [thornton#1] 2026-07-28 | 7/28/26 Council Meeting | agenda
-- WE PAY RESPECT TO THEIR ANCESTORS, ELDERS, AND PRESENT-DAY COMMUNITY MEMBERS, AND EXTEND OUR GRATITUDE TO THE INDIGENOUS PEOPLES FOR THEIR ONGOING CARE AND STEWARDSHIP OF THE LAND, WATER, AND RESOURCES
-- APPROVAL OF AGENDA
-- APPROVING THE AGENDA APPROVES TIMING FOR CONSIDERING THE CONSENT CALENDAR
-- AT THE TIME COUNCIL CONSIDERS THE CONSENT CALENDAR, ANY COUNCILMEMBER MAY REQUEST THAT AN ITEM BE "PULLED" AND THAT ITEM SHALL BE REMOVED AND ADDED TO THE LIST OF “ACTION ITEMS."
-- PRESENTATIONS
-- A resolution commending Peter Duong for his service on the Thornton Arts, Sciences and Humanities Council, Inc. Board of Directors
-- A resolution conveying the City Council's gratitude and appreciation to Charlton Kent Moorman on his retirement from the City
-- A resolution declaring August 2026 as National Immunization Awareness Month in the City of Thornton, Colorado
-- DURING THIS PORTION OF THE MEETING, ANYONE MAY SPEAK ON ANY SUBJECT WHICH DOES NOT LATER APPEAR ON THE AGENDA AS A PUBLIC HEARING. SPEAKING TIME WILL BE LIMITED TO THREE MINUTES PER INDIVIDUAL/TOPIC WITH A ONE HOUR LIMIT ON THIS SEGMENT OF THE AGENDA. IF YOU WISH TO SPEAK, PLEASE SIGN UP, PRIOR TO T
-- QUASI-JUDICIAL PUBLIC HEARINGS
-- IN ORDER TO SCHEDULE THE TIMING AND LENGTH OF PUBLIC HEARINGS FOR THE CONVENIENCE OF THE COUNCIL, THE GENERAL PUBLIC, AND INTERESTED PARTIES, THE FIRST PUBLIC HEARING WILL BEGIN AT OR BEFORE 7:30 P.M., OR AS SOON THEREAFTER AS POSSIBLE
-- THIS SEGMENT OF THE AGENDA, ALONG WITH THE LEGISLATIVE PUBLIC HEARINGS SEGMENT, WILL LAST NO MORE THAN TWO HOURS, COLLECTIVELY
-- GROUPS OF CITIZENS BROUGHT TOGETHER BY A COMMON INTEREST ARE REQUESTED TO CHOOSE A SPOKESPERSON WHOSE TIME TO COMMENT MAY BE EXTENDED AT THE DISCRETION OF THE MAYOR
-- COUNCIL ACTS IN A QUASI-JUDICIAL ROLE AND MUST BASE ITS DECISIONS SOLELY ON EVIDENCE PRESENTED DURING THE PUBLIC HEARING. AS A RESULT, COUNCILMEMBERS MUST AVOID EX PARTE COMMUNICATIONS WHICH MEANS COUNCILMEMBERS CANNOT DISCUSS THE MERITS OF PENDING APPLICATIONS OR TAKE POSITIONS BEFORE THE HEARING C
-- LEGISLATIVE PUBLIC HEARINGS
-- A public hearing concerning a
-- resolution approving and authorizing submission of the 2026 Annual Action Plan and the associated projects for Community Development Block Grant funding. [Public Hearing]
-- 11A Approving and authorizing submission of the 2026 Annual Action Plan and the associated projects for Community Development Block Grant funding
-- 2026 Annual Action Plan
-- A public hearing concerning the revoking and reassigning the City’s 2024 and 2025 Private Activity Bonds and authorizing the assignment of the City’s 2026 Private Activity Bonds. [Public Hearing]
-
-## [thornton#2] 2026-08-10 | 8/10/26 TASHCO Monthly Meeting | agenda
+## [thornton#0] 2026-08-10 | 8/10/26 TASHCO Monthly Meeting | agenda
 - DEPARTMENT OF PARKS, RECREATION AND COMMUNITY PROGRAMS
 - APPROVAL OF AGENDA*
 - APPROVAL OF MINUTES* - July
@@ -36,13 +8,13 @@
 - Arts & Culture Master Plan Board Review, 9/8/2026 Council Communication and PPT* - Alisa
 - Public Art Update* – Written report (Erica Schmitt has moved to Economic Development)
 
-## [thornton#3] 2026-08-11 | 8/11/26 Council Update | agenda
+## [thornton#1] 2026-08-11 | 8/11/26 Council Update | agenda
 - ​​Discussion
 - an ordinance amending
 - ​​Discussion regarding an ordinance amending Sections 1-8, 38-175, 38-176, and 38-177 of the Thornton City Code to align with State Law pursuant to a ruling by the Colorado Supreme Court​
 - and (g) to discuss personnel matters and consider internal candidate materials that are protected from disclosure by C.R.S. Sec. 24-72-204(3)(a)(XI) in relation to the Interim City Attorney position and to direct staff on who to interview for the position
 
-## [thornton#4] 2026-08-11 | 8/11/26 Council Meeting | agenda
+## [thornton#2] 2026-08-11 | 8/11/26 Council Meeting | agenda
 - WE PAY RESPECT TO THEIR ANCESTORS, ELDERS, AND PRESENT-DAY COMMUNITY MEMBERS, AND EXTEND OUR GRATITUDE TO THE INDIGENOUS PEOPLES FOR THEIR ONGOING CARE AND STEWARDSHIP OF THE LAND, WATER, AND RESOURCES
 - APPROVAL OF AGENDA
 - APPROVING THE AGENDA APPROVES TIMING FOR CONSIDERING THE CONSENT CALENDAR
@@ -63,17 +35,17 @@
 - 13B Amending Section 1-8, 38-175, 38-176, and 38-177 of the City Code
 - An ordinance authorizing the issuance and sale of Water Enterprise Revenue Bonds, Series 2026, payable solely out of the net revenues to be derived from the operation of the City’s Water Enterprise; and providing other details concerning the bonds, including, without limitation, covenants and agreem
 
-## [thornton#5] 2026-08-11 | 8/11/26 Special TDA Meeting | agenda
+## [thornton#3] 2026-08-11 | 8/11/26 Special TDA Meeting | agenda
 - THORNTON DEVELOPMENT AUTHORITY (T.D.A.)
 - APPROVAL OF AGENDA
 - APPROVAL OF MINUTES - May 12, 2026
 - A resolution authorizing conveyance of property from the Thornton Development Authority to the City of Thornton for the construction of the Thornton Parkway Multimodal Path from I-25 to Grant Street
 - 5A Authorizing conveyance of property from the Thornton Development Authority to the City for the construction of the Thornton Parkway Multimodal Path
 
-## [thornton#6] 2026-08-11 | 8/11/26 Special Council Meeting | agenda
+## [thornton#4] 2026-08-11 | 8/11/26 Special Council Meeting | agenda
 - and (g) to discuss personnel matters and consider internal candidate materials that are protected from disclosure by C.R.S. Sec. 24-72-204(3)(a)(XI) in relation to the Interim City Attorney position and to direct staff on who to interview for the position
 
-## [thornton#7] 2026-08-18 | 8/18/26 Planning Session | agenda
+## [thornton#5] 2026-08-18 | 8/18/26 Planning Session | agenda
 - Update on the implementation of the Strategic Plan for the City of Thornton
 - Strategic Plan Report
 - Review Non-Profit Requests from the Romito Foundation, Almost Home, Inc. and Rocky Mountain Partnership Fundraising Events
@@ -87,7 +59,7 @@
 - d. AC-REP Development Council Meeting
 - Council Discussion Items
 
-## [thornton#8] 2026-08-19 | 08/19/26 Local Licensing Authority Meeting | minutes
+## [thornton#6] 2026-08-19 | 08/19/26 Local Licensing Authority Meeting | minutes
 - WOLL TO APPROVE THE AGENDA AS SUBMITTED. MOTION PASSED
 - OTION TO ADMIT LICENSE APPLICATIONS AND THE CITY CLERK'S
 - MEMBER SHAIFER TO ADMIT THE LICENSE APPLICATIONS AND THE CITY
@@ -132,15 +104,15 @@
 - Laura Beckel, 12515 2nd Street, was sworn in by the Licensing Coordinator
 - Scarlett O’Malley, 12494 2 nd Street, was sworn in by the Licensing
 
-## [thornton#9] 2026-08-22 | 8/22/26 Special Council Meeting | agenda
+## [thornton#7] 2026-08-22 | 8/22/26 Special Council Meeting | agenda
 - Executive Session pursuant to C.R.S. 24-6-402(4)(f) and (g) to discuss personnel matters and consider internal candidate materials that are protected from disclosure by C.R.S. Sec. 24-72-204(3)(a)(XI) as part of interviews of internal candidates for the Interim City Attorney position
 - Executive Sessions pursuant to C.R.S. 24-6-402(4)(e) to determine positions, develop strategy for negotiations, and instruct negotiators regarding a potential employment agreement for the Interim City Attorney position
 
-## [thornton#10] 2026-08-25 | 8/25/26 Council Update | agenda
+## [thornton#8] 2026-08-25 | 8/25/26 Council Update | agenda
 - Discussion regarding data center moratorium
 - PowerPoint - Data Centers
 
-## [thornton#11] 2026-08-25 | 8/25/26 Council Meeting | agenda
+## [thornton#9] 2026-08-25 | 8/25/26 Council Meeting | agenda
 - WE PAY RESPECT TO THEIR ANCESTORS, ELDERS, AND PRESENT-DAY COMMUNITY MEMBERS, AND EXTEND OUR GRATITUDE TO THE INDIGENOUS PEOPLES FOR THEIR ONGOING CARE AND STEWARDSHIP OF THE LAND, WATER, AND RESOURCES
 - APPROVAL OF AGENDA
 - APPROVING THE AGENDA APPROVES TIMING FOR CONSIDERING THE CONSENT CALENDAR
@@ -162,7 +134,7 @@
 - Resolution and Exhibit A
 - An ordinance concerning the Annexation of approximately 26 acres of land situated in the southeast quarter of Section 22, Township 1 South, Range 68 West of the sixth Principal Meridian, County of Adams, State of Colorado, generally located on the southwest corner of East 140
 
-## [thornton#12] 2026-09-01 | 9/1/26 Planning Session | agenda
+## [thornton#10] 2026-09-01 | 9/1/26 Planning Session | agenda
 - Summary Review of the Preliminary 2027 Budget Recommendation
 - 2027 Preliminary Budget Recommendation
 - Continued discussion regarding data center moratorium
@@ -171,7 +143,7 @@
 - OTHER DISCUSSION
 - Council Discussion Items
 
-## [thornton#14] 2026-09-08 | 9/8/26 Council Update | agenda
+## [thornton#12] 2026-09-08 | 9/8/26 Council Update | agenda
 - 2026 Parks and Recreation Master Plan
 - Thornton Parks, Recreation & Community Programs Master Plan (Reduced)
 - 2026 Thornton Parks, Recreation & Community Programs Strategic Implementation Plan
@@ -184,7 +156,7 @@
 - PowerPoint - Youth Funding Request
 - An executive session pursuant to C.R.S. 24-6-402(4)(b) and (e) to confer with the City Attorney for purposes of receiving legal advice regarding potential strategies going forward related to the development of the Parterre subdivision and to provide instruction to negotiators regarding the same
 
-## [thornton#15] 2026-09-08 | 9/8/26 Council Meeting | agenda
+## [thornton#13] 2026-09-08 | 9/8/26 Council Meeting | agenda
 - WE PAY RESPECT TO THEIR ANCESTORS, ELDERS, AND PRESENT-DAY COMMUNITY MEMBERS, AND EXTEND OUR GRATITUDE TO THE INDIGENOUS PEOPLES FOR THEIR ONGOING CARE AND STEWARDSHIP OF THE LAND, WATER, AND RESOURCES
 - APPROVAL OF AGENDA
 - APPROVING THE AGENDA APPROVES TIMING FOR CONSIDERING THE CONSENT CALENDAR
@@ -207,17 +179,17 @@
 - An ordinance approving a Zoning Amendment, with an associated Overall Development Plan and Planned Development Standards, for approximately 29 acres of land generally located on the southwest corner of East 140
 - Avenue and Washington Street (Creekside Gardens Annexation). (Second Reading)
 
-## [thornton#16] 2026-09-08 | 9/8/26 Special Meeting | agenda
+## [thornton#14] 2026-09-08 | 9/8/26 Special Meeting | agenda
 - An executive session pursuant to C.R.S. 24-6-402(4)(b) and (e) to confer with the City Attorney for purposes of receiving legal advice regarding potential strategies going forward related to the development of the Parterre subdivision and to provide instruction to negotiators regarding the same
 
-## [thornton#17] 2026-09-09 | BTAC | minutes
+## [thornton#15] 2026-09-09 | BTAC | minutes
 - CITY REPRESENTATION
 - Approval of September 2026 Agenda
 - Approval of June 2026 Minutes
 - STAMP Plan Update
 - Kyle Kearns, Karen Widomski, Oscar Saucedo-Andrade give update on the STAMP plan
 
-## [thornton#18] 2026-09-15 | Planning Commission Meeting | agenda
+## [thornton#16] 2026-09-15 | Planning Commission Meeting | agenda
 - APPROVAL OF AGENDA
 - APPROVAL OF MINUTES
 - PUBLIC HEARINGS
@@ -228,7 +200,7 @@
 - PC RESOLUTION Welby Station
 - STAFF REPORTS/PRESENTATIONS
 
-## [thornton#19] 2026-09-15 | 9/15/26 Planning Session | agenda
+## [thornton#17] 2026-09-15 | 9/15/26 Planning Session | agenda
 - The 2027 Budget Recommendation
 - 2027 Budget Recommendation
 - 2027 Budget Recommendation for Council
@@ -240,10 +212,10 @@
 - Council Discussion Items
 - Executive session pursuant to C.R.S. 24-6-402(4)(f) to discuss confidential personnel matters and C.R.S. 24-6-402(4)(b) to confer with the City Attorney for purposes of receiving legal advice regarding appropriate procedure to investigate and respond to City Council concerns
 
-## [thornton#20] 2026-09-15 | 9/15/26 Special Council Meeting | agenda
+## [thornton#18] 2026-09-15 | 9/15/26 Special Council Meeting | agenda
 - Executive session pursuant to C.R.S. 24-6-402(4)(f) to discuss confidential personnel matters and C.R.S. 24-6-402(4)(b) to confer with the City Attorney for purposes of receiving legal advice regarding appropriate procedure to investigate and respond to City Council concerns
 
-## [thornton#21] 2026-09-16 | 09/16/26 Local Licensing Authority Meeting | minutes
+## [thornton#19] 2026-09-16 | 09/16/26 Local Licensing Authority Meeting | minutes
 - 3. APPROVAL OF THE AGENDA
 - MEMBER WOLL TO APPROVE THE AGENDA AS SUBMITTED. MOTION
 - 4. MOTION TO ADMIT LICENSE APPLICATIONS AND THE CITY CLERK'S
@@ -272,10 +244,10 @@
 - THIS LICENSE APPLICATION BE GRANTED BECAUSE OF PETITIONS
 - COLORADO, GRANT APPROVAL FOR THE ISSUANCE OF THE LICENSE
 
-## [thornton#22] 2026-09-22 | 9/22/26 Council Update | agenda
+## [thornton#20] 2026-09-22 | 9/22/26 Council Update | agenda
 - An executive session pursuant to C.R.S. 24-6-402(4)(e) to determine positions relative to matters that may be subject to negotiations, develop strategy for negotiations, and instruct negotiators related to respondents to the Request for Qualifications for redevelopment of
 
-## [thornton#23] 2026-09-22 | 9/22/26 Council Meeting | agenda
+## [thornton#21] 2026-09-22 | 9/22/26 Council Meeting | agenda
 - PRESENTATIONS
 - A resolution declaring September 15 through October 15, 2026, as Hispanic Heritage Month in the City of Thornton, Colorado
 - The purpose of this resolution is to declare September 15 through October 15, 2026 as Hispanic Heritage Month
@@ -298,7 +270,7 @@
 - Chris Steinke, Interim Parks, Recreation and Community Programs Director
 - The Parks and Recreation Department, along with consultants from THK Associates and HR Green, developed the Thornton Parks and Recreation Master Plan. The Plan establishes a long-term framework to guide decisions regarding Thornton's parks, open spaces, recreation facilities, and programs as the com
 
-## [thornton#24] 2026-09-29 | 9/29/26 Planning Session | agenda
+## [thornton#22] 2026-09-29 | 9/29/26 Planning Session | agenda
 - The 2027 Budget Recommendation
 - 2027 Budget Recommendation
 - 2027 Budget Recommendation for Council (2)
@@ -307,10 +279,10 @@
 - Council Discussion Items
 - An executive session pursuant to C.R.S. 24-6-402(4)(e) to determine positions relative to matters that may be subject to negotiations, develop strategy for negotiations, and instruct negotiators related to respondents to the Request for Qualifications for redevelopment of
 
-## [thornton#25] 2026-09-29 | 9/29/26 Special Council Meeting | agenda
+## [thornton#23] 2026-09-29 | 9/29/26 Special Council Meeting | agenda
 - An executive session pursuant to C.R.S. 24-6-402(4)(e) to determine positions relative to matters that may be subject to negotiations, develop strategy for negotiations, and instruct negotiators related to respondents to the Request for Qualifications for redevelopment of
 
-## [thornton#26] 2026-10-06 | 10/6/26 Planning Session | agenda
+## [thornton#24] 2026-10-06 | 10/6/26 Planning Session | agenda
 - Station Area Master Plans visioning discussion for the York at 144th and North Thornton at Colorado (CO) 7 station areas
 - Strategic Plan: District Branding and Identity
 - Strategic Plan District Branding and Identity
@@ -322,7 +294,7 @@
 - a. AC-REP Development Council Meeting
 - Council Discussion Items
 
-## [thornton#27] 2026-10-06 | Planning Commission Meeting | agenda
+## [thornton#25] 2026-10-06 | Planning Commission Meeting | agenda
 - APPROVAL OF AGENDA
 - APPROVAL OF MINUTES
 - PUBLIC HEARINGS
@@ -331,13 +303,13 @@
 - Exhibit 1 Development Code Housekeeping Amendments
 - STAFF REPORTS/PRESENTATIONS
 
-## [thornton#28] 2026-10-13 | 10/13/26 Council Update | agenda
+## [thornton#26] 2026-10-13 | 10/13/26 Council Update | agenda
 - ​​E-470 Public Highway Authority Presentation​
 - E-470 Public Highway Authority Presentation
 - Discussion of the 2027 Council Meeting Schedule
 - Executive Session pursuant to C.R.S. § 24-6-402(4)(b) to receive legal advice from the City Attorney regarding speakers’ constitutional rights and maintenance of order during public hearings, and pursuant to C.R.S. § 24-6-402(4)(d) to discuss with City staff specialized details of security arrangeme
 
-## [thornton#29] 2026-10-13 | 10/13/26 Council Meeting | agenda
+## [thornton#27] 2026-10-13 | 10/13/26 Council Meeting | agenda
 - WE PAY RESPECT TO THEIR ANCESTORS, ELDERS, AND PRESENT-DAY COMMUNITY MEMBERS, AND EXTEND OUR GRATITUDE TO THE INDIGENOUS PEOPLES FOR THEIR ONGOING CARE AND STEWARDSHIP OF THE LAND, WATER, AND RESOURCES
 - APPROVAL OF AGENDA
 - APPROVING THE AGENDA APPROVES TIMING FOR CONSIDERING THE CONSENT CALENDAR
@@ -365,12 +337,12 @@
 - A resolution designating a plan for the purposes of the Municipal Annexation Act regarding land in Adams and Weld Counties
 - 13C Designating a plan for the purposes of the Municipal Annexation Act regarding land in Adams and Weld Counties
 
-## [thornton#30] 2026-10-14 | BTAC MEETING | agenda
+## [thornton#28] 2026-10-14 | BTAC MEETING | agenda
 - II. Approval of September 2026 Minutes
 - III. Approval of October 2026 Agenda
 - V. TASHCO/BTAC Discussion
 
-## [thornton#31] 2026-10-20 | 10/20/26 Planning Session | agenda
+## [thornton#29] 2026-10-20 | 10/20/26 Planning Session | agenda
 - Residential Housing and Design Standards Discussion
 - PowerPoint - Small-Lot Housing
 - OTHER DISCUSSION
@@ -379,7 +351,7 @@
 - Executive Session pursuant to C.R.S. § 24-6-402(4)(e) to determine positions relative to matters that may be subject to negotiations, develop strategy for negotiations, and instruct negotiators in relation to selection of a vendor for the City Attorney recruitment
 - Executive Session pursuant to C.R.S. § 24-6-402(4)(f) to discuss personnel matters regarding the Municipal Judge, Interim City Attorney, and City Manager performance
 
-## [thornton#32] 2026-10-20 | Planning Commission Meeting | agenda
+## [thornton#30] 2026-10-20 | Planning Commission Meeting | agenda
 - APPROVAL OF AGENDA
 - APPROVAL OF MINUTES
 - PUBLIC HEARINGS
@@ -400,14 +372,99 @@
 - STAFF REPORTS/PRESENTATIONS
 - No public hearings are confirmed for this date, however, staff has several that could be ready
 
-## [thornton#33] 2026-10-20 | 10/20/26 Special Council Meeting | agenda
+## [thornton#31] 2026-10-20 | 10/20/26 Special Council Meeting | agenda
 - Executive Session pursuant to C.R.S. § 24-6-402(4)(e) to determine positions relative to matters that may be subject to negotiations, develop strategy for negotiations, and instruct negotiators in relation to selection of a vendor for the City Attorney recruitment
 - Executive Session pursuant to C.R.S. § 24-6-402(4)(f) to discuss personnel matters regarding the Municipal Judge, Interim City Attorney, and City Manager performance
 
-## [thornton#34] 2026-10-21 | 10/21/26 Local Licensing Authority Meeting | agenda
+## [thornton#32] 2026-10-21 | 10/21/26 Thornton Active Adult Board | minutes
+- APPROVAL OF AGENDA
+- BY BOARDMEMBER CIVINS TO APPROVE THE AGENDA AS SUBMITTED
+- APPROVAL OF MINUTES
+- BY BOARDMEMBER GOLDSTEIN TO APPROVE THE MINUTES OF
+- A. lntroduction of newly appointed Board Members- Bill Nelson
+- transportation projects will possibly be happening. Shared that the advisory
+- group was coming to an end as they completed the project recommendations
+- Presentations
+- Andrade - RTD Station Masterplan Updates and E-Bikes Codes
+- Protected Bike Facilities project
+- spring when more public outreach will be requested
+- 2. Ronica Rooks - Colorado Commission on Aging Multi-Sector Plan
+- C. Discussion ltems
+- 2. Budget Updates 2027
+- Jessie Romito gave updates on the budget timeline, AV system and
+- RecTrac app approval
+- 3. Master Plan Updates
+- Jessie Romito gave an update that the department master plan was
+- approved at Council on 9122126. Leadership team will look at ways to
+- use the master plan in alignment with strategic initiatives
+
+## [thornton#33] 2026-10-21 | 10/21/26 Local Licensing Authority Meeting | agenda
 - 3. APPROVAL OF THE AGENDA
 - 4. MOTION TO ADMIT THE LICENSE APPLICATIONS AND THE CITY CLERK'S
 - A. Approval of Minutes – September 16, 2026 Regular Meeting. (140-BC)
 - A. Consideration of a Change of Corporate Structure and Financial Interest for a Retail
 - Liquors, 13750 Grant Street. (RE-0032 30332)
 - 7. PUBLIC HEARINGS
+
+## [thornton#34] 2026-10-27 | 10/27/26 Council Update | agenda
+- Review of Potential Code Amendments Related to Marijuana Licensing
+- Potential Marijuana Licensing Amendments
+- Draft Marijuana Licensing Code Amendments
+
+## [thornton#35] 2026-10-27 | 10/27/26 Council Meeting | agenda
+- WE PAY RESPECT TO THEIR ANCESTORS, ELDERS, AND PRESENT-DAY COMMUNITY MEMBERS, AND EXTEND OUR GRATITUDE TO THE INDIGENOUS PEOPLES FOR THEIR ONGOING CARE AND STEWARDSHIP OF THE LAND, WATER, AND RESOURCES
+- APPROVAL OF AGENDA
+- APPROVING THE AGENDA APPROVES TIMING FOR CONSIDERING THE CONSENT CALENDAR
+- AT THE TIME COUNCIL CONSIDERS THE CONSENT CALENDAR, ANY COUNCILMEMBER MAY REQUEST THAT AN ITEM BE "PULLED" AND THAT ITEM SHALL BE REMOVED AND ADDED TO THE LIST OF “ACTION ITEMS."
+- PRESENTATIONS
+- A resolution declaring November 2026 as National Veterans and Military Families Month in the City of Thornton, Colorado
+- A resolution declaring November 2026 as National Entrepreneurship Month in the City of Thornton, Colorado
+- DURING THIS PORTION OF THE MEETING, ANYONE MAY SPEAK ON ANY SUBJECT WHICH DOES NOT LATER APPEAR ON THE AGENDA AS A PUBLIC HEARING. SPEAKING TIME WILL BE LIMITED TO THREE MINUTES PER INDIVIDUAL/TOPIC WITH A ONE HOUR LIMIT ON THIS SEGMENT OF THE AGENDA. IF YOU WISH TO SPEAK, PLEASE SIGN UP, PRIOR TO T
+- QUASI-JUDICIAL PUBLIC HEARINGS
+- IN ORDER TO SCHEDULE THE TIMING AND LENGTH OF PUBLIC HEARINGS FOR THE CONVENIENCE OF THE COUNCIL, THE GENERAL PUBLIC, AND INTERESTED PARTIES, THE FIRST PUBLIC HEARING WILL BEGIN AT OR BEFORE 7:30 P.M., OR AS SOON THEREAFTER AS POSSIBLE
+- THIS SEGMENT OF THE AGENDA, ALONG WITH THE LEGISLATIVE PUBLIC HEARINGS SEGMENT, WILL LAST NO MORE THAN TWO HOURS, COLLECTIVELY
+- GROUPS OF CITIZENS BROUGHT TOGETHER BY A COMMON INTEREST ARE REQUESTED TO CHOOSE A SPOKESPERSON WHOSE TIME TO COMMENT MAY BE EXTENDED AT THE DISCRETION OF THE MAYOR
+- LEGISLATIVE PUBLIC HEARINGS
+- A resolution adopting a Pay Plan for Career Service employees of the City, for the calendar year 2027. [Public Hearing]
+- 11A Adopting 2027 Career Service Pay Plan
+- A public hearing concerning the 2027 City of Thornton Budget. [Public Hearing]
+- A resolution adopting a budget for the City of Thornton, Colorado, for the period beginning January 1, 2027, and ending December 31, 2027
+- 11B1 Adopting the 2027 Budget
+- A resolution adopting a Pay Plan for Excluded employees of the City, for the calendar year 2027
+- 11B2 Adopting 2027 Excluded Pay Plan
+- An ordinance making appropriations for the City of Thornton, Colorado, for the fiscal year 2027 for all operating funds and making appropriations for all capital improvement projects for the City of Thornton, Colorado, for the fiscal year beginning January 1, 2027, and ending December 31, 2027, and 
+- 11B3 2027 Budget Appropriations
+- An ordinance providing for the tax levy upon all taxable property in the City for municipal purposes. (First Reading)
+
+## [thornton#36] 2026-10-27 | 10/27/26 Special TASHCO Meeting | agenda
+- APPROVAL OF AGENDA
+- 4 Approval of March 31, 2026 Minutes
+- APPROVAL OF MINUTES - March 31, 2026
+- A resolution adopting a budget for the Thornton Arts, Sciences and Humanities Council, Inc. beginning January 1, 2027, and ending December 31, 2027
+- 5A Adopting the 2027 Budget
+
+## [thornton#37] 2026-10-27 | 10/27/26 Special TDA Meeting | agenda
+- THORNTON DEVELOPMENT AUTHORITY (T.D.A.)
+- APPROVAL OF AGENDA
+- 4 Approval of August 11, 2026 Minutes
+- APPROVAL OF MINUTES - August 11, 2026
+- A resolution adopting a budget for the Thornton Development Authority beginning January 1, 2027, and ending December 31, 2027, and appropriating the funds for expenditure in 2027
+- 5A Adopting the 2027 Budget
+
+## [thornton#38] 2026-10-27 | 10/27/26 Annual GID Meeting | agenda
+- GENERAL IMPROVEMENT DISTRICT BOARD (GID)
+- Immediately following the Thornton Development Authority (TDA) meeting
+- APPROVAL OF AGENDA
+- 5 Approval of September 23, 2025 Minutes
+- APPROVAL OF MINUTES - September 23, 2025
+- A resolution adopting a budget for the City of Thornton 136th Avenue General Improvement District beginning January 1, 2027, and ending December 31, 2027, and appropriating the funds for expenditure in 2027
+- 8A Adopting the 2027 Budget
+- A resolution providing for the tax levy upon all taxable property in the 136th Avenue General Improvement District of the City of Thornton, Colorado, for the purpose of financing interchange construction
+- 8B Providing for the tax levy upon all taxable property in the 136th Avenue General Improvement District of the City of Thornton, Colorado, for the purpose of financing interchange construction
+
+## [thornton#39] 2026-10-27 | 10/27/26 Annual E911 Meeting | agenda
+- General Improvement District (GID) meeting
+- APPROVAL OF AGENDA
+- 5 Approval of September 23, 2025 Minutes
+- APPROVAL OF MINUTES - September 23, 2025
+- 7A Adopting the 2027 Budget

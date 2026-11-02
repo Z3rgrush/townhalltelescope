@@ -1,0 +1,174 @@
+RECORD OF PROCEEDINGS
+Town ofEstes Park, Larimer County, Colorado October 13, 2026
+Minutes of a Study Session meeting of the Town Board of the Town of Estes Park,
+Larimer County, Colorado. Meeting held at Town Hall in the Board Room in said Town
+of Estes Park on the 13th day of October, 2026.
+Board: Mayor Hall, Mayor Pro Tem Hazelton, Trustees Brown,
+Eshelman, Igel, Lancaster, and Mieras
+Attending: Mayor Hall, Trustees Brown, Eshelman, Igel, Lancaster, and
+Mieras
+Also Attending: Town Administrator Machalek, Deputy Town Administrator
+Damweber, Town Attorney Kramer, and Recording Secretary
+Bramwell
+Absent: Mayor Pro Tem Hazelton
+Mayor Hall called the meeting to order at 4:45 p.m.
+Parking License Plate Recognition Policy.
+Director Greear and Manager Klein presented a draft policy for the use of Parking
+License Plate Recognition (LPR) technology by the Town and Town contractors. Since
+2019 the Town followed a guiding principles document for LPR use. The draft policy
+would address the issues of privacy and data retention by establishing the types of data
+collected, the retention period for storing data, and the permissions to access the data.
+Town LPRs collect a context photograph, a photograph of the license plate, the GPS
+coordinates of the vehicle, the date and time of the potential violation, and the license
+plate text. Data would be retained for one (1) day unless connected to a citation, in
+which case it would be retained for a year following the final disposition. The aggregate
+occupancy data not connected to individual license plate information would be retained
+permanently. Permitted uses of LPR data would include to verify paid parking; verify
+virtual permits; digital chalking; identify scofflaws; support parking citations with
+photographs of plates, environmental context, and GPS coordinates; and use
+anonymized occupancy data to help plan the parking program. Prohibited uses included
+monitoring First Amendment activity, enforcing federal immigration law, selling or
+sharing the LPR data, tracking Town employee attendance or activities, general
+surveillance, or supporting investigations unrelated to parking. Limited exceptions would
+be made to support investigations in crisis situations. In the presence of exigent
+circumstances and the existence of probable cause to believe a crime was committed,
+as certified by the Chief of Police, the Parking and Transit Manager would provide the
+requested information to the Chief of Police. Access to LPR data would be limited to
+trained Parking and Transit staff and vendors. The data would be protected by unique
+passwords and encrypted storage and transmission. Access would be tiered to ensure
+employees are only able to access the data necessary for their position. Board
+comments and questions have been summarized: asked about the capabilities of the
+LPR system, Klein confirmed it was possible to set an alert for a license plate and to
+keep data longer than dictated in the draft policy; questioned where LPR was used,
+Klein confirmed it was used to monitor all Town-owned, paid parking areas; requested
+clarification of the parking violation citation process, Klein explained LPR flagged
+potential violations and then the violation was verified in-person by a Car Park
+employee before issuing a citation; asked how many citations were issued annually,
+Klein estimated between 1,500 and 1,800 total parking citations were issued annually
+and about 40% were either warnings or dismissed, he also estimated one (1) to three
+(3) scofflaw or repeat offenders were identified annually; Klein confirmed The Car Park
+was not paid based on the number of citations issued; inquired who were the parking
+and parking data vendors, Klein stated The Car Park was the Town approved contractor
+for parking management and the data vendors were Genetec and Mistall, Attorney
+Kramer explained Genetec's system operated in such a way that Genetec did not have
+access to the data and Mistall would hold the plate numbers for a day; discussed
+considering an ordinance to limit private use of LPR systems within Town limits, Klein
+confirmed the Town policy would only be subject to Town operations, staff, and
+RECORD OF PROCEEDINGS
+Town Board Study Session Minutes dated October 13, 2026 - Page 2
+vendors; and requested the draft policy be brought back for consideration by the Board.
+Winter Event Strategy Proposal.
+Director Hinkle provided an overview of annual events. The Events Division facilitated
+nearly 200 events, both public and private, on Town owned or managed properties
+annually. 90% of events occurred between May and October. There were nine (9) full-
+time, year-round positions: three (3) event coordinators, one (1) administrative
+assistant, and five (5) maintenance staff. There were 13 large, annually recurring winter
+events. Maintaining current procedures and costs to develop new events would allow
+the team to conduct necessary maintenance in the winter to prepare for the summer.
+Additional staff would be required to increase the number of winter events while
+maintaining Town property and continuing to adequately staff the summer programs.
+Board comments and questions have been summarized: questioned the benefit of
+events to the local economy compared to the cost of hosting events, Town
+Administrator Machalek stated approximately $1 million annually has been recovered by
+the Events Division in 2024 and 2025 of an approximate $2.5 to $3 million spent
+annually; recognized the challenge of sufficiently staffing a business to accommodate
+heavy weekend visitation; discussed the benefit of hosting fewer events in the winter to
+allow time for facility maintenance and event planning; questioned the level of interest
+for new winter events, Hinkle stated there continues to be interest; requested
+community feedback on the desirability of additional winter events; discussed
+opportunities to enhance current winter events including providing power for snow
+machines; referred to visitor surveys from Visit Estes Park indicating events were not a
+primary reason people chose to visit Estes Park; and reminded the Board of the 2027
+Provisional Strategic Plan objective to bolster the winter economy.
+Organizational Climate Action Plan.
+Abbey Stapleton, a Larimer County Sustainability Coordinator, introduced the Larimer
+County Climate Smart Future Ready initiative. The Town has been a member of the
+initiative's Executive Board since the program began in 2022. Climate Smart Future
+Ready facilitated the creation of internal and community-level climate action plans
+(CAPs) for municipalities throughout Larimer County. ICLEI - Local Governments for
+Sustainability USA produced a CAP for Town operations for Estes Park, funded through
+the Colorado Energy Office's Energy Efficiency Conservation Block Grant received by
+Larimer County. Melany Arriola, a Program Officer with ICLEI, presented an overview of
+the CAP. The plan focuses strictly on the assets and activities under the Town's direct
+budgetary and administrative control. Steps to create the plan included conducting a
+greenhouse gas (GHG) inventory for 2024 to establish a GHG emissions baseline,
+interviewing key Town staff, and modeling emissions reduction scenarios to identify top
+emissions reduction actions. The 2024 GHG inventory found Town operations resulted
+in the production of 2,841 metric tons of carbon dioxide equivalent (MT C02e)
+emissions in the categories of Buildings and Facilities, Employee Commute, Vehicle
+Fleet, Transit Fleet, and Process and Fugitive Emissions. Buildings and Facilities
+accounted for 80% of emissions. Climate Smart Future Ready estimated Estes Park's
+community-wide emissions totaled 117,056 MT C02e in 2022. Two emissions reduction
+scenarios were modeled, a moderate scenario resulting in an 84% reduction of
+emissions by 2050 and an ambitious scenario resulting in a 90% reduction of emissions
+by 2050. In both scenarios, the reductions in emissions from the electricity grid
+accounted for over 70% of emissions reductions. Roadmaps were created to reduce
+emissions in the categories of Buildings and Facilities, Vehicle Fleet, Transit Fleet, and
+Employee Commute. The roadmaps included recommendations for Town leads and
+partners, priorities, costs, metrics to measure progress, challenges, case studies, and
+funding opportunities. The primary opportunities to reduce emissions were energy
+efficiency and electrification efforts in Buildings and Facilities, fleet and procurement,
+and supporting Platte River Power Authority's (PRPA) clean energy goals. Board
+comments and questions have been summarized: inquired how the recommendations in
+the CAP could be incorporated into the 2027 budget, Town Administrator Machalek
+recommended the Board consider integrating the CAP findings in the strategic planning
+process in 2027 and the budget process for 2028; expressed support for PRPA's efforts
+to reduce emissions; stated desire to conduct a Return on Investment study of all
+energy efficiency retrofits identified in the CAP; questioned the capacity of the existing
+RECORD OF PROCEEDINGS
+Town Board Study Session Minutes dated October 13, 2026 - Page 3
+electrical grid; asked if all Town lights were LEDs, Deputy Town Administrator
+Damweber stated the majority of Town light fixtures had been converted to LEDs; stated
+desire to incentivize energy efficiency for businesses; stated preference to replace
+equipment when it reaches the end of its useful life, rather than adopt the most energy
+efficient version; expressed desire for a local bus and requested additional information
+on clean transit opportunities for staff; thanked Larimer County and ICELI for their
+support creating the CAP; Deputy Town Administrator Damweber shared telematics
+have been enacted in all of the fleet vehicles to provide data on vehicle usage, hybrid
+vehicles were selected to replace vehicles at the end of their useful life when possible,
+two (2) of the three (3) trolleys were electric, and energy efficiency was considered
+when equipment or facilities required upgrading or replacement.
+Overview of Fish Hatchery Project to Date.
+Deputy Town Administrator Damweber provided an overview of the history of the Fish
+Hatchery property, an approximately 75-acre parcel located near the Fall River entrance
+to Rocky Mountain National Park. In 1982 the site was identified as a potential location
+for workforce housing. The Town entered into an Exclusive Negotiation Agreement
+(ENA) with AmericaWest in 2018, with the goal of coming to a mutually agreeable
+Disposition and Redevelopment Agreement (DRA). The ENA expired in 2019 with no
+DRA reached in part because of development constraints revealed during the site
+evaluation process that would limit the density of the development. The Town partnered
+with AmericaWest again in 2021 as a development partner, but an agreement was not
+reached due to supply chain issues and the challenge of keeping proposed rental rates
+affordable. In 2024 the Town partnered with Estes Park Housing Authority (EPHA) to
+develop workforce housing on the site. It was determined an investment of at least $5
+million in new water infrastructure would be required to provide adequate water supply
+to the development. The Town and EPHA continued to investigate opportunities to
+develop workforce housing at Fish Hatchery. Board comments and questions have
+been summarized: questioned the estimated cost for the water infrastructure, staff
+stated a new pump station and water storage tank were necessary to provide adequate
+water and the estimated cost was a minimum of $5 million; Town Administrator
+Machalek explained comparing the cost of water infrastructure projects was challenging
+due to differences in topography and infrastructure needs of different developments;
+asked about the availability of other locations for workforce housing development,
+EPHA Executive Director Moulton stated EPHA was prepared to pivot if developing
+workforce housing at Fish Hatchery was not financially viable; inquired how many
+people were served by the current infrastructure, staff stated approximately six (6)
+homes were served by the existing water infrastructure and any development in the
+area would require water service to fire hydrants which could not be serviced by the
+existing two (2) inch water main; questioned if other properties would benefit from a new
+water tank, staff stated an accommodations business in the area as well as the Fall
+River Visitor Center may benefit from the construction of a new water tank; discussed
+desire for any development to be financially viable; noted as the land borders the river it
+may have value for uses other than housing; questioned the cost of the water
+infrastructure as a percentage of potential workforce housing development, Moulton
+estimated the workforce housing development would cost a total of $70 million; and
+acknowledged the annual operation and maintenance costs required to maintain
+additional water infrastructure.
+Trustee and Administrator Comments and Questions.
+None.
+Future Study Session Agenda Items.
+It was requested and determined a discussion on the Town's Guiding Philosophy for
+Events would be added to items approved/unscheduled.
+There being no further business, Mayor Hall adjourned the meeting at 6:45 p.m.
+f
+.'/^Stephanie Bramwell, R^6ording Secretary

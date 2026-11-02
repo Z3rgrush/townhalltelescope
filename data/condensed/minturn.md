@@ -99,25 +99,44 @@
 - The Kick Off Committee completed a survey for feedback
 - nance. The survey results were reviewed and discussed at
 
-## [minturn#3] 2026-08-19 | Town Council | agenda
+## [minturn#3] 2026-08-19 | Town Council | minutes
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Consent Agenda
 - previously from the council, final land-use file documents after the public hearing has been
 - D. 0221 Miles End Lane - Changes to Approved Plans
 - E. 563 Main Street - New Single Family Residence with Accessory Dwelling Unit
+- Motion by Gusty K., second by Spence N., to approve the August 19, 2026 Consent Agenda as
 - 4. Approval of Regular Agenda
 - Opportunity for amendment or deletions to the agenda
+- Motion by Spence N., second by Kate S., to approve the August 19, 2026 Regular Agenda as
+- Spence N. will need to recuse himself from Item 10A on the agenda (Resolution No. 42),
+- as he is the applicant on that project
 - 6. Public Comment
 - Agenda subject to a public hearing. Please limit your comments to five minutes per person
 - unless arrangements have been made for a presentation with the Town Clerk. Those who
 - are speaking are requested to state their name and address for the record
-- 9. Special Presentations
-- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
-- A. Eagle County Conservation District - Beyond Lawn Presentation
-- Items and/or Public Hearings listed under Business Items may be old or new and may
-- A. Resolution No. 42 - Series 2026, A Variance Extension for 161 Main St
-- 11. Discussion / Direction Items
+- No Public Comment
+- minimum contracts for the flights that come in and out of Eagle
+- portion will go to the Vail Valley Art Guild for their help and involvement. Lynn F. reiterated
+- locations along Main Street
+- Neighborhood traffic calming: In response to requests from residents in the Boulder and Pine
+- Street area, staff is evaluating funding for the acquisition of additional speed bumps and/or
+- speed tables as part of the FY 2027 budget
+- Next steps: Staff will proceed with the Main Street speed camera study and develop potential
+- FY 2027 traffic-calming options for Council consideration
+- Town staff have met with both the Colorado Energy Office and Xcel Energy to discuss the
+- outages, system reliability, and potential improvements
+- At Xcel Energy’s recommendation, the Town submitted formal correspondence requesting that
+- monitoring Xcel Energy’s response regarding potential improvements and timelines
+- 3. ERWSD Main Street Siphon Project - UPDATED
+- Eagle River Water & Sanitation District’s Minturn siphon rehabilitation project is underway and
+- The contractor will begin forming the micropile cap and installing bypass pumping pipe the
+- Sewer bypass pumping is expected to begin by August 14
+- Traffic control remains in place on US 24/Main Street during active construction, with one
+- Beach Park retaining wall to reduce fall risk and discourage climbing while maintaining access
+- Funding for the project will be included for consideration in the FY 2027 budget
+- ACTIVE CAPITAL PROJECTS:
 
 ## [minturn#4] 2026-09-09 | Planning Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
@@ -227,77 +246,45 @@
 - of the Historic Preservation Ordinance. THIRD PUBLIC COMMITTEE MEETING
 - version of the draft ordinance, proposed to be the new
 
-## [minturn#8] 2026-09-16 | Town Council | agenda
+## [minturn#8] 2026-09-16 | Town Council | minutes
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - A. This joint meeting will provide an opportunity to discuss County-wide and Minturn
 - assistance may be beneficial. The meeting is intended for high-level discussion and
+- presentation. The County (based on feedback from local municipalities Mayors and
+- Demographics were discussed (different age groups such as adults use e-bikes for
+- commuting, vs. just youth). It was also discussed that a lot of youth aren’t of driving
+- rules of the road
+- It was also discussed that there is a lot of confusion around the different classes
 - Shooting Range Project
-- Regional Housing Authority
+- The Town of Minturn was recently awarded a $225,000 grant from CPW to make
+- improvements to the shooting range, and to deal with some of the long-standing
+- talk about how the one in Gypsum works, and discuss ideas. Rob G. also met with
+- Regina and discussed potential in-kind support from Eagle County. The Town may
+- be looking for some assistance from the County (Road & Bridge and/or County Public
+- Works) with some moderate grading of the road or some other associated work that
+- would help set the project up for success
+- management would be the ability to close it in a more timely manner when fire
+- The target timeline would be to have the permit in place by Spring 2027
+- Regional Housing Authority (RHA)
+- that the Town’s primary housing concerns are echoed throughout the Valley (and
+- unoccupied homes, high costs to operate a business and the associated issues of
+- finding employees and employee housing. The Town sees the RHA as a way to
+- Jeff S. noted that the RHA is still a moving target. The housing group is still on a fact
+- more capacity for that. Traffic and other impacts also need to be considered
+- Jeff S. feels that housing should also be led by the business community (business
+- generates sales tax in the community. Government is running out of its ability to just
+- ask for taxation. It’s a frustrating conversation across the country. Jeff S. noted that
+- Rob G. noted that the past ballot measures perhaps lacked clarify or a specific plan
+- Jeanne M. touched on the State Land Board housing project example
 - 4. Approval of Consent Agenda
 - previously from the council, final land-use file documents after the public hearing has been
+- Motion by Spence N., second by Kate S., to approve the September 16, 2026 Consent Agenda
 - 5. Approval of Regular Agenda
 - Opportunity for amendment or deletions to the agenda
-- A. New Application for a Spiritous Liquor Manufacturer's Expanded Alcohol Beverage
-- Liquor Permit - Eagle River Distilling LLC, dba Minturn Whisky Co
-- 8. Public Comment
-- Agenda subject to a public hearing. Please limit your comments to five minutes per person
-- unless arrangements have been made for a presentation with the Town Clerk. Those who
-- are speaking are requested to state their name and address for the record
-- B. Budget Schedule
-- 11. Special Presentations
-- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
-- Items and/or Public Hearings listed under Business Items may be old or new and may
-- A. Resolution No. 43 - Series 2026, A Resolution supporting S. 5101 and H.R. 9826, The
-- B. Resolution No. 44 - Series 2026, A Resolution Updating Minturn's Outdoor
-- Emergency Watering Restrictions
-- 13. Discussion / Direction Items
+- Motion by Gusty K., second by Kate S., to approve the September 16, 2026 Regular Agenda as
 
-## [minturn#9] 2026-09-16 | Town Council | agenda
-- moderator will unmute your line and you will have five minutes for public comment
-- Public Comments: If you are unable to attend, public comments regarding any items on the
-- A. This joint meeting will provide an opportunity to discuss County-wide and Minturn
-- assistance may be beneficial. The meeting is intended for high-level discussion and
-- Shooting Range Project
-- Regional Housing Authority
-- 4. Approval of Consent Agenda
-- previously from the council, final land-use file documents after the public hearing has been
-- 5. Approval of Regular Agenda
-- Opportunity for amendment or deletions to the agenda
-- A. New Application for a Spiritous Liquor Manufacturer's Expanded Alcohol Beverage
-- Liquor Permit - Eagle River Distilling LLC, dba Minturn Whisky Co
-- 8. Public Comment
-- Agenda subject to a public hearing. Please limit your comments to five minutes per person
-- unless arrangements have been made for a presentation with the Town Clerk. Those who
-- are speaking are requested to state their name and address for the record
-- B. Budget Schedule
-- 11. Special Presentations
-- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
-- Items and/or Public Hearings listed under Business Items may be old or new and may
-- A. Resolution No. 43 - Series 2026, A Resolution supporting S. 5101 and H.R. 9826, The
-- B. Resolution No. 44 - Series 2026, A Resolution Updating Minturn's Outdoor
-- Emergency Watering Restrictions
-- 13. Discussion / Direction Items
-- 3. Approval of Consent Agenda
-- D. 0221 Miles End Lane - Changes to Approved Plans
-- E. 563 Main Street - New Single Family Residence with Accessory Dwelling Unit
-- Motion by Gusty K., second by Spence N., to approve the August 19, 2026 Consent Agenda as
-- 4. Approval of Regular Agenda
-- Motion by Spence N., second by Kate S., to approve the August 19, 2026 Regular Agenda as
-- Spence N. will need to recuse himself from Item 10A on the agenda (Resolution No. 42),
-- as he is the applicant on that project
-- 6. Public Comment
-- No Public Comment
-- minimum contracts for the flights that come in and out of Eagle
-- portion will go to the Vail Valley Art Guild for their help and involvement. Lynn F. reiterated
-- locations along Main Street
-- Neighborhood traffic calming: In response to requests from residents in the Boulder and Pine
-- Street area, staff is evaluating funding for the acquisition of additional speed bumps and/or
-- speed tables as part of the FY 2027 budget
-- Next steps: Staff will proceed with the Main Street speed camera study and develop potential
-- FY 2027 traffic-calming options for Council consideration
-
-## [minturn#10] 2026-09-30 | Downtown Development Authority Board | agenda
+## [minturn#9] 2026-09-30 | Downtown Development Authority Board | agenda
 - Downtown Development Authority Board Regular Meeting | 10:00 AM
 - and should use the Chat feature to submit any questions or comments that they wish to discuss
 - 2. Approval of Regular Agenda
@@ -306,7 +293,7 @@
 - A. Resolution No. 02 - Series 2026, A Resolution Adopting an Investment and Incentive
 - 5. Discussion / Direction Items
 
-## [minturn#11] 2026-09-30 | Downtown Development Authority Board | agenda
+## [minturn#10] 2026-09-30 | Downtown Development Authority Board | agenda
 - Downtown Development Authority Board Regular Meeting | 10:00 AM
 - and should use the Chat feature to submit any questions or comments that they wish to discuss
 - 2. Approval of Regular Agenda
@@ -341,79 +328,51 @@
 - Strategic Property Acquisition ...............................................................................................................9
 - Project Evaluation Checklist ................................................................................................................11
 
-## [minturn#12] 2026-10-06 | General | agenda
+## [minturn#11] 2026-10-06 | General | agenda
 - Little Beach Park, 801 Cemetery Rd, Minturn
 - 1. Special Presentations
 - A. This event is to celebrate the opening of the new Little Beach Park Playground
 - actions will be discussed, initiated, or decided at this event
 
-## [minturn#13] 2026-10-07 | Town Council | agenda
+## [minturn#12] 2026-10-07 | Town Council | minutes
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Consent Agenda
 - previously from the council, final land-use file documents after the public hearing has been
 - B. Liquor License – Retail Liquor License, Renewal Application for Marcum Terry S, dba
 - C. Liquor License – Retail Liquor License, Renewal Application for Duetschman Family
+- Spence N. noted that the ECSO ad-hoc committee members were appointed at the last
+- meeting, and this was not included in the minutes. The minutes will be amended to include that
+- Motion by Spence N., second by MacKenzie H., to approve the October 7, 2026 Consent
+- Agenda as amended. Motion passed 6-0
 - 4. Approval of Regular Agenda
 - Opportunity for amendment or deletions to the agenda
+- Rob G. asked to pull item 11B regarding the shooting range. Requested that this be continued
+- Motion by Gusty K., second by Spence N., to approve the October 7, 2026 Consent Agenda as
+- amended. Motion passed 6-0
 - 6. Public Comment
 - Agenda subject to a public hearing. Please limit your comments to five minutes per person
 - unless arrangements have been made for a presentation with the Town Clerk. Those who
 - are speaking are requested to state their name and address for the record
-- 9. Special Presentations
-- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
-- A. Aging Well RoadMap (Eagle County)
-- Items and/or Public Hearings listed under Business Items may be old or new and may
-- A. Resolution No. 45 - Series 2026 A Resolution Adopting the 2026 Historic Preservation
-- B. Resolution No. 46 - Series 2026, A Resolution Authorizing a Drainage Improvement
-- C. Resolution No. 47- Series 2026 Mobile & Modular Business Pilot Program
-- D. Ordinance 11 - Series 2026 An Ordinance Amending the Water Moratorium
-- E. 2027 Budget Acceptance
-- 11. Discussion / Direction Items
-- A. 2027 Staffing, Compensation and Employee Benefits – Discussion and Direction
-- B. Discussion Regarding a USFS Special Use Permit Application for the Shooting Range
+- Public Comment Opened
+- Mr. Hovey commented that he felt the new Little Beach Park playground is outstanding, and
+- thanked Town Staff for bringing that project through to completion
+- Regarding the proposed 2027 budget: Mr. Hovey expressed his ongoing concern over speed
+- was a petition dating back to 2023, which was approved placing speed bumps in specific
+- not being replaced recently. Some of this may have been due to infrastructure / street projects,
+- Public Comment Closed
+- playground site work, as well as all the recent work at the Water Treatment Plant
+- requests for other options (from both Mr. Hovey and Mr. Brian Rodine), such as lowering the
+- will continue to follow up on options for speed mitigation. Another option that was considered
+- was radar feedback signs. Staff are working on a capital wish list, which does include items
+- such as more radar feedback signs, and more speed bumps
+- 1. Police Services Contract with Eagle County Sheriff’s Office (ECSO) – UPDATED
+- Clerk-Treasurer for the ECSO contract beginning in 2027
+- Negotiations will address service levels, costs, contract terms, and community concerns
+- regarding automated license plate readers
+- Proposed terms will return to the full Council for consideration and approval
 
-## [minturn#14] 2026-10-07 | Town Council | agenda
-- moderator will unmute your line and you will have five minutes for public comment
-- Public Comments: If you are unable to attend, public comments regarding any items on the
-- 3. Approval of Consent Agenda
-- previously from the council, final land-use file documents after the public hearing has been
-- B. Liquor License – Retail Liquor License, Renewal Application for Marcum Terry S, dba
-- C. Liquor License – Retail Liquor License, Renewal Application for Duetschman Family
-- 4. Approval of Regular Agenda
-- Opportunity for amendment or deletions to the agenda
-- 6. Public Comment
-- Agenda subject to a public hearing. Please limit your comments to five minutes per person
-- unless arrangements have been made for a presentation with the Town Clerk. Those who
-- are speaking are requested to state their name and address for the record
-- 9. Special Presentations
-- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
-- A. Aging Well RoadMap (Eagle County)
-- Items and/or Public Hearings listed under Business Items may be old or new and may
-- A. Resolution No. 45 - Series 2026 A Resolution Adopting the 2026 Historic Preservation
-- B. Resolution No. 46 - Series 2026, A Resolution Authorizing a Drainage Improvement
-- C. Resolution No. 47- Series 2026 Mobile & Modular Business Pilot Program
-- D. Ordinance 11 - Series 2026 An Ordinance Amending the Water Moratorium
-- E. 2027 Budget Acceptance
-- 11. Discussion / Direction Items
-- A. 2027 Staffing, Compensation and Employee Benefits – Discussion and Direction
-- B. Discussion Regarding a USFS Special Use Permit Application for the Shooting Range
-- A. This joint meeting will provide an opportunity to discuss County-wide and Minturn
-- assistance may be beneficial. The meeting is intended for high-level discussion and
-- presentation. The County (based on feedback from local municipalities Mayors and
-- Demographics were discussed (different age groups such as adults use e-bikes for
-- commuting, vs. just youth). It was also discussed that a lot of youth aren’t of driving
-- rules of the road
-- It was also discussed that there is a lot of confusion around the different classes
-- Shooting Range Project
-- The Town of Minturn was recently awarded a $225,000 grant from CPW to make
-- improvements to the shooting range, and to deal with some of the long-standing
-- talk about how the one in Gypsum works, and discuss ideas. Rob G. also met with
-- Regina and discussed potential in-kind support from Eagle County. The Town may
-- be looking for some assistance from the County (Road & Bridge and/or County Public
-- Works) with some moderate grading of the road or some other associated work that
-
-## [minturn#15] 2026-10-14 | Planning Commission | agenda
+## [minturn#13] 2026-10-14 | Planning Commission | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Regular Agenda
@@ -432,7 +391,7 @@
 - Street Single Family Residence
 - 9. Discussion / Direction Items
 
-## [minturn#16] 2026-10-21 | Town Council | agenda
+## [minturn#14] 2026-10-21 | Town Council | agenda
 - moderator will unmute your line and you will have five minutes for public comment
 - Public Comments: If you are unable to attend, public comments regarding any items on the
 - 3. Approval of Consent Agenda
@@ -459,3 +418,18 @@
 - 11. Discussion / Direction Items
 - A. USFS Special Use Permit Application for the Shooting Range - Status Update
 - C. Eagle County Sheriff's Office Service Agreement
+
+## [minturn#15] 2026-10-28 | Planning Commission | agenda
+- moderator will unmute your line and you will have five minutes for public comment
+- Public Comments: If you are unable to attend, public comments regarding any items on the
+- 3. Approval of Regular Agenda
+- Opportunity for amendment or deletions to the agenda
+- 4. Approval of Minutes
+- 6. Public Comment
+- hearing. Please limit your comments to five (5) minutes per person unless arrangements
+- have been made for a presentation with the Town Planner. Those who are speaking are
+- requested to state their name and address for the record
+- 7. Special Presentations
+- Presentations are limited to 5 minutes. Invited presentations are limited to 10 minutes if
+- 8. Design Review and Land Use Public Hearings
+- 9. Discussion / Direction Items

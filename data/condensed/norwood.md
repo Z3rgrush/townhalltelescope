@@ -206,3 +206,9 @@
 - TOWN OF NORWOOD, COLORADO, SETTING A PUBLIC HEARING TO CONSIDER THE
 - PROVIDING NOTICE OF THE GROUNDS FOR REMOVAL, AND ESTABLISHING HEARING
 - any time. The staff reports may include administrative items not listed. Regular meetings, Public Hearings, and Special
+
+## [norwood#19] 2026-10-27 | City Council | agenda
+- NORWOOD TOWN BOARD OF TRUSTEES, NORWOOD WATER
+- PLANNING AND ZONING COMMISION
+- 1. Discussion of Master Plan Update
+- any time. The staff reports may include administrative items not listed. Regular meetings, Public Hearings, and Special

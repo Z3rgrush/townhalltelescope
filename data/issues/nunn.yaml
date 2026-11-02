@@ -1,61 +1,85 @@
-- title: North Weld Water Services Agreement and town water loss
-  summary: The town attorney has been reviewing and amending a water services agreement with North Weld County Water, with several areas still needing clarification as of April. Water loss remains a problem, so the town is looking at more meters and a grant to help find leaks. By October the board was discussing a water committee, an excess water usage ordinance and tap approvals.
+- title: North Weld Water Services Agreement and water system planning
+  summary: The Town attorney has been reviewing and amending a water services agreement with North Weld County Water, with several areas still needing clarification as of April. Water loss remains a problem, the Board is looking at more meters, and it picked a bid for a Master Water Plan in August. In October the Board is to discuss a water committee, an excess water usage ordinance and tap approvals.
   where: Townwide
   refs:
   - 4
   - 6
+  - 7
   - 8
   - 10
+  - 12
+  - 15
   - 18
   - 19
   topics:
   - Water
   - Utilities
   - Fees & rates
-- title: Master Water Plan grant and bid selection
-  summary: The town has been waiting on an agreement for its Master Water Plan grant. A bid opening committee brought a recommendation for the engineer in August, and the board voted on bid selection.
-  where: Townwide
-  refs:
-  - 7
-  - 8
-  - 12
-  - 15
-  topics:
-  - Water
-  - Utilities
-- title: CDBG Senior Center and Community Center grant and Town Hall improvements
-  summary: The town submitted a CDBG grant for the Senior Center and later learned it was approved, with a total of $206,739.34. The money covers asbestos abatement (bids ran from $56,000 to $161,000), a $17,500 engineering contract, interior painting and a trophy case. The board voted on allocation to finish the project and on a project manager.
-  where: Town Hall / Community Center, Nunn
+- title: CDBG grants for Senior Center and Community Center/Town Hall improvements
+  summary: The Town pursued a CDBG grant for the Senior Center, with asbestos abatement bids ranging from $56,000 to $161,000 against $56,000 budgeted in the grant. In June the Board reviewed the $206,739 approved grant total, which includes a $17,500 engineering contract and contractor bids for painting and a trophy case. A project manager for the grant was approved in August, and a second CDBG project manager vote is on the October 15 agenda.
+  where: Nunn Town Hall / Senior Center
   refs:
   - 1
-  - 3
   - 5
+  - 7
+  - 8
   - 9
   - 11
   - 12
   - 15
   - 19
   topics:
-  - Government operations
   - Health & human services
-  - Recreation & trails
-- title: Clayton Homes development and Blue Spruce Development
-  summary: Clayton Homes wants to move forward with 18 homes. The board said it needs to discuss plant investments, tap fees and future large developments. Permits for lots 2 and 3 of the RLD subdivision were processed in August, and a variance request for 1467 4th Street was on the September agenda. Blue Spruce Development on 4th Street has a development agreement under attorney review, and the developer must provide water shares.
-  where: 1467 4th Street and RLD subdivision; 4th Street
+  - Government operations
+  - Budget & taxes
+- title: Clayton Homes development and 1467 4th Street variance
+  summary: Clayton Homes wants to build 18 homes. The Board said it needs to discuss plant investments, tap fees and future large developments. Permits for lots 2 and 3 of the RLD subdivision were processed in August. A September public hearing covered a variance at 1467 4th Street, where a lot line adjustment would give 13 feet to 1457 4th Street, whose home was placed too close to the line.
+  where: 1467 4th Street and RLD subdivision
   refs:
   - 8
   - 10
   - 11
-  - 12
   - 15
   - 16
   - 17
   topics:
   - Housing
   - Zoning & development
-  - Fees & rates
-- title: Safer Streets grant and speed study
-  summary: The town hired an engineering firm for its Safer Streets grant and comprehensive plan. It collected resident input through an interactive map with a gift card giveaway, plus senior, first responder and youth outreach. The draft safety plan is to be posted online for 30 days for public comment.
+  - Land & property
+- title: Sunrise Solar Project permit at CR 29.5
+  summary: The Board reviewed a permit application for a 20-acre solar project at 49600 CR 29.5, with a 10-foot fence with aluminum slats. The Town wants written commitments on dust mitigation, truck routes during construction, an eco plan and contingencies. A 50% plan is expected in mid-August.
+  where: 49600 CR 29.5
+  refs:
+  - 14
+  topics:
+  - Energy
+  - Zoning & development
+- title: Building code and Wildfire Resiliency Code adoption
+  summary: The Town adopted Ordinance 329 adopting the 2024 International Building Code in April. The Board has been reviewing the Colorado Wildfire Resiliency Code and plans to adopt it in September, but the fire district must first review specific pages. An October update is on the agenda.
+  where: Townwide
+  refs:
+  - 6
+  - 8
+  - 10
+  - 15
+  - 17
+  - 19
+  topics:
+  - Fire & emergencies
+  - Zoning & development
+  public_comment: true
+- title: Blue Spruce Development on 4th Street
+  summary: The Town attorney is working on a development agreement with Blue Spruce Development on 4th Street. The developer must provide water shares.
+  where: 4th Street
+  refs:
+  - 12
+  - 15
+  topics:
+  - Zoning & development
+  - Water
+  - Housing
+- title: Safer Streets grant, speed study and Master Drainage Plan
+  summary: The Town hired an engineering firm for the Safer Streets grant and comprehensive safety plan, with outreach to seniors, youth and at Nunn Days. The Safer Streets and Master Drainage plans are to be posted online for 30 days for public comment.
   where: Townwide
   refs:
   - 1
@@ -69,40 +93,17 @@
   - Roads & traffic
   - Policing & public safety
   public_comment: true
-- title: Master Drainage Plan
-  summary: The board reviewed the Master Drainage Plan and gave comments to engineers. A community update was held June 11, and the plan is to be posted for 30 days of public review.
-  where: Townwide
+- title: Weld County roads, CR 31 and 2027 budget
+  summary: The Town plans an important discussion with Weld County about CR 31 and county road assistance and costs. The October 8 agenda includes the initial 2027 budget draft, and the Board noted the fuel budget needs to increase for 2027.
+  where: CR 31 and Townwide
   refs:
-  - 12
-  - 15
-  - 16
-  topics:
-  - Utilities
-  - Environment & climate
-  public_comment: true
-- title: 2024 building code and Wildfire Resiliency Code
-  summary: The board adopted Ordinance 329 adopting the 2024 International Building Code at a public hearing in April, with no public comment. The Colorado Wildfire Resiliency Code was split into a separate ordinance and is slated for adoption, with updates in October.
-  where: Townwide
-  refs:
-  - 6
-  - 8
-  - 10
-  - 15
   - 17
-  - 19
+  - 18
   topics:
-  - Zoning & development
-  - Fire & emergencies
-- title: Sunrise Solar Project at CR 29.5
-  summary: The board reviewed a permit application for a 20-acre solar project at 49600 CR 29.5. It has a 10-foot fence with aluminum slats, and the town wants written plans for dust mitigation, a truck route and contingencies. A 50% plan is expected in mid-August.
-  where: 49600 CR 29.5
-  refs:
-  - 14
-  topics:
-  - Energy
-  - Zoning & development
-- title: Police equipment, vehicles and grants
-  summary: The police department asked for pepper ball guns at $969 each that were not in the budget. Other items included new tasers, a $1,800 Taser battery charger, police car repairs, vehicle leases and a Byrne JAG grant application.
+  - Roads & traffic
+  - Budget & taxes
+- title: 'Police equipment: pepper ball guns, tasers and vehicle lease'
+  summary: The Police Department asked to buy pepper ball guns at $969 each, which were not in the budget. Other items include new tasers, a $1,800 taser battery charger, police car repairs and a vehicle lease or purchase this year.
   where: Nunn Police Department
   refs:
   - 11
@@ -112,25 +113,8 @@
   topics:
   - Policing & public safety
   - Budget & taxes
-- title: 2026 budget, mill levy and 2027 budget draft
-  summary: The town previewed the 2026 budget, set the property tax levy and adopted the budget and appropriation resolutions in December. It began reviewing an initial 2027 budget draft in October.
-  where: Townwide
-  refs:
-  - 0
-  - 1
-  - 2
-  - 3
-  - 18
-  topics:
-  - Budget & taxes
-- title: Chalk Bluffs Energy Project presentation
-  summary: Representatives of the Chalk Bluffs Energy Project presented to the board in January. The documents give no details of the project.
-  refs:
-  - 4
-  topics:
-  - Energy
-- title: Marijuana licensing and manufacturing applications
-  summary: A local applicant seeking a marijuana manufacturing license still had to get state approval before the town licensing authority votes. The authority also reviewed renewals for cultivation and manufacturing facilities in February and May.
+- title: Marijuana facility licenses and manufacturing application
+  summary: The Town's Marijuana Licensing Authority reviewed an applicant for a manufacturing facility, who still needed state approval. It also reviewed renewals for NOCO Farms, SPCY Canna and Ace's Place cultivation and manufacturing licenses.
   where: Nunn
   refs:
   - 1
@@ -138,11 +122,24 @@
   - 11
   topics:
   - Cannabis & liquor
-- title: RV ordinance, preliminary concept plan and county road costs
-  summary: October work session items included a concept plan for 20 acres on the former Antelope Run site, a possible RV ordinance, and the cost of Weld County road assistance.
-  where: Former Antelope Run, Nunn
+- title: 2026 budget, mill levy and fee schedule
+  summary: The Town previewed the 2026 budget, received the final mill levy, and adopted resolutions levying property taxes, adopting the budget and appropriating funds in December. It also adopted the 2026 town fee schedule and municipal court fees in January.
+  where: Townwide
+  refs:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  topics:
+  - Budget & taxes
+  - Fees & rates
+- title: RV ordinance and Antelope Run concept plan
+  summary: The October 8 agenda includes a review of an RV ordinance for the Town and a preliminary concept plan for Robert Kearny's 20 acres, formerly Antelope Run.
+  where: Former Antelope Run parcel
   refs:
   - 18
   topics:
   - Zoning & development
-  - Roads & traffic
+  - Land & property

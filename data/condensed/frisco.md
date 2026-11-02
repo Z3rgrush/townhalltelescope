@@ -1,70 +1,6 @@
 # frisco
 
-## [frisco#0] 2026-07-28 | Town Council | agenda
-- 1 MAIN STREET
-- Agenda Item #2: Mid-Year Financial & Budget Update
-- Agenda Item #3: Waste Reduction Strategies Overview
-- Presentations:
-- Public Comments:
-- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
-- If you plan to comment on an item already slated for a public hearing later on the meeting’s
-- agenda, please wait until that item is announced and public comment is requested at that time
-- Council action is taken on Public Comments at Council meetings. Council takes public
-- Public Comment, and include contact information for follow up communication
-- Consideration and Possible Approval of Warrant List
-- Consideration and Possible Approval of Purchasing Cards
-- Consideration and Possible Approval of Resolution 26-18: A RESOLUTION OF THE TOWN
-- TOWN CLERK TO EXECUTE A CONTRACT WITH WESTERN STATES RECLAMATION, LLC
-- FOR THE PURPOSES OF REPLACING A WATER MAIN ON LAGOON DRIVE
-- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
-
-## [frisco#1] 2026-07-28 | Town Council | agenda
-- 1 MAIN STREET
-- Agenda Item #2: Mid-Year Financial & Budget Update
-- Agenda Item #3: Waste Reduction Strategies Overview
-- Presentations:
-- Public Comments:
-- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
-- If you plan to comment on an item already slated for a public hearing later on the meeting’s
-- agenda, please wait until that item is announced and public comment is requested at that time
-- Council action is taken on Public Comments at Council meetings. Council takes public
-- Public Comment, and include contact information for follow up communication
-- Consideration and Possible Approval of Warrant List
-- Consideration and Possible Approval of Purchasing Cards
-- Consideration and Possible Approval of Resolution 26-18: A RESOLUTION OF THE TOWN
-- TOWN CLERK TO EXECUTE A CONTRACT WITH WESTERN STATES RECLAMATION, LLC
-- FOR THE PURPOSES OF REPLACING A WATER MAIN ON LAGOON DRIVE
-- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
-- 2025 – 2026 Applications
-- 80% of brain development occurs within the first three years of a child’s
-- Re-authorization rates are lower
-- Children. Two separate grants with SCG and
-- resolution passed earlier this month
-- Future applications that promote or take
-- part in DEI initiatives will not be approved
-- rates due in July. Currently $631/ 15
-- to budget constraints
-- PY 26/27 will see no increase in rates
-- APPLICATIONS FOR
-- Applications closed July10th
-- Application assistance updates for this program year:
-- 430 Applications submitted, 94 started, just not submitted, and 6
-- 210 award letters to be sent out 7/17 for those that applied in
-- TUITION RATE INCREASES FOR 2026 -27 PROGRAM YEAR
-- Approved Increases for the 2026 -27 School Year:
-- For awareness: If providers continue to raise rates by 3-5% every year, by the 2027-2028 school year, many families will
-- Assistance Committee to identify needs and possible
-- Continue discussions with County and towns about
-- RE: MID-YEAR FINANCIAL & BUDGET UPDATE
-- The purpose of this work session is to set the stage for the 2027 budget process by
-- reviewing current 2026 financial conditions, discussing the broader economic outlook,
-- Budget. The overall message is one of cautious optimism. Frisco remains financially
-- strong, but 2027 budget development will require careful planning because revenue
-- The 2026 budget year has been impacted by a difficult winter season, including low
-- snow conditions, reduced visitation, and lower sales activity. Through May sales tax
-- and combined Town sales tax and County sales tax distributions were approximately
-
-## [frisco#2] 2026-08-11 | Town Council | agenda
+## [frisco#0] 2026-08-11 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #2: Landscaping and Revegetation Requirements Code Discussion
 - Agenda Item #3: Downtown Colorado Incorporated Economic Development Program
@@ -86,7 +22,7 @@
 - (RE: TOWN HALL PROPERTY, 1 MAIN STREET, FRISCO, COLORADO)
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#3] 2026-08-11 | Town Council | agenda
+## [frisco#1] 2026-08-11 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #2: Landscaping and Revegetation Requirements Code Discussion
 - Agenda Item #3: Downtown Colorado Incorporated Economic Development Program
@@ -124,7 +60,7 @@
 - Todd Altschuler- Frisco resident; Terms- appointed to first term from May 2023
 - reappointed to serve a three-year term from May 2024 through May 2027
 
-## [frisco#4] 2026-08-20 | Planning Commission | agenda
+## [frisco#2] 2026-08-20 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of the July 16, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -138,7 +74,7 @@
 - Housing Developments, concerning a fast-tracked review process for
 - affordable housing to meet Proposition 123 state requirements
 
-## [frisco#5] 2026-08-20 | Planning Commission | agenda
+## [frisco#3] 2026-08-20 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of the July 16, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -174,7 +110,7 @@
 - is in the easement. Ziedin elaborated that they cannot locate the existing water line and it probably is not
 - there are problems accessing the property now. Discussion between the Commission and applicant
 
-## [frisco#6] 2026-08-25 | Town Council | agenda
+## [frisco#4] 2026-08-25 | Town Council | agenda
 - SUMMIT FIRE & EMS BUILDING
 - 0035 COUNTY SHOPS ROAD
 - Public Comments:
@@ -187,7 +123,7 @@
 - consensus on strategic direction for the Town Staff and the Council to act on
 - Town Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#7] 2026-08-25 | Town Council | agenda
+## [frisco#5] 2026-08-25 | Town Council | agenda
 - SUMMIT FIRE & EMS BUILDING
 - 0035 COUNTY SHOPS ROAD
 - Public Comments:
@@ -229,7 +165,7 @@
 - Grant programs supporting youth dental health and local childcare center
 - Infrastructure development and maintenance
 
-## [frisco#8] 2026-09-08 | Town Council | agenda
+## [frisco#6] 2026-09-08 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #2: 2027 Budget Discussion
 - Public Comments:
@@ -267,7 +203,7 @@
 - Investment Policy uses separate safeguards, including FDIC eligibility, Colorado public
 - The presentation reports a weighted average yield of 3.96% for securities and certificates
 
-## [frisco#9] 2026-09-08 | Town Council | agenda
+## [frisco#7] 2026-09-08 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #2: 2027 Budget Discussion
 - Public Comments:
@@ -291,7 +227,7 @@
 - A FAST TRACK AFFORDABLE HOUSING PROCESS
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#10] 2026-09-17 | Planning Commission | agenda
+## [frisco#8] 2026-09-17 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of August 20, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -301,7 +237,7 @@
 - Plan application for a proposed residential development consisting of eight
 - (8) new townhomes. Location: 207 Granite Street / Lots 13-18 Block 8
 
-## [frisco#11] 2026-09-22 | Town Council | agenda
+## [frisco#9] 2026-09-22 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #3: 2027 Grant Award Committee Recommendations
 - Agenda Item #4: Downtown Winter Parking Update
@@ -331,7 +267,7 @@
 - AFFORDABLE HOUSING PROCESS
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#12] 2026-09-22 | Town Council | agenda
+## [frisco#10] 2026-09-22 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #3: 2027 Grant Award Committee Recommendations
 - Agenda Item #4: Downtown Winter Parking Update
@@ -372,7 +308,7 @@
 - Although the current Strong Future mill levy does not sunset until 2028, it was the desire
 - The Strong Future mill levy already exists and is not seeking an increase. The voters are
 
-## [frisco#13] 2026-10-01 | Planning Commission | agenda
+## [frisco#11] 2026-10-01 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of September 17, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -383,7 +319,7 @@
 - telecommunication facility. Location: 101 W Main Street / LOT B-1 West
 - Frisco 70 Sub # 2. Applicant: Ben Feldman, BMF Development LLC, on
 
-## [frisco#14] 2026-10-01 | Planning Commission | agenda
+## [frisco#12] 2026-10-01 | Planning Commission | agenda
 - 1 MAIN STREET
 - Approval of September 17, 2026, Planning Commission meeting minutes
 - Public Comments:
@@ -419,7 +355,7 @@
 - drawn the building with garages off the alley and Granite Street and due to Staff feedback, they
 - redesigned to have the single access . Craig elaborated that the de sign of the development hides the
 
-## [frisco#15] 2026-10-13 | Town Council | agenda
+## [frisco#13] 2026-10-13 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #1: Summit School District Presentation
 - Public Comments:
@@ -442,7 +378,7 @@
 - SUBJECT TO NEGOTIATIONS, TO DEVELOP STRATEGY FOR
 - Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled
 
-## [frisco#16] 2026-10-13 | Town Council | agenda
+## [frisco#14] 2026-10-13 | Town Council | agenda
 - 1 MAIN STREET
 - Agenda Item #1: Summit School District Presentation
 - Public Comments:
@@ -479,3 +415,38 @@
 - regarding the Short-Term Rental (STR) cap and if certain housing units shall be included
 - 1. Does the Council direct Staff to proceed with drafting an Ordinance to modify Town
 - 2. If the Council directs Staff to proceed with drafting an Ordinance, does the Council
+
+## [frisco#15] 2026-10-27 | Town Council | agenda
+- 1 MAIN STREET
+- CONSIDERATION OF THE VACATION OF TOWN RIGHT OF WAYS, AND
+- SECTION 24-6-402(4)( a), TO CONSIDER THE POTENTIAL PURCHASE
+- Agenda Item #1: Public Works Department Update: Water Systems
+- Agenda Item #2: Strategic Plan Briefing
+- Public Comments:
+- Public Comment is reserved for items not slated for a public hearing on the meeting’ s agenda
+- If you plan to comment on an item already slated for a public hearing later on the meeting’s
+- agenda, please wait until that item is announced and public comment is requested at that time
+- Council action is taken on Public Comments at Council meetings. Council takes public
+- Public Comment, and include contact information for follow up communication
+- items. These items are generally perceived as non-controversial and can be approved by a
+- Consideration and Possible Approval of Minutes from October 13, 2026 Meeting
+- Consideration and Possible Approval of Warrant List
+- Consideration and Possible Approval of Purchasing Cards
+- Consideration and Possible Approval of Resolution 26-25: A RESOLUTION APPROVING A
+- COMMUNITY ACCELERATED MOBILITY PROJECT (CAMP) GRANT AGREEMENT FOR
+- Consideration and Possible Approval of Resolution 26-27: A RESOLUTION ADOPTING THE
+- SUMMIT COUNTY HAZARD MITIGATION PLAN 2026
+- Agenda Item #1: Consideration and Possible Approval of Resolution 26-24: A RESOLUTION
+- AND ADOPTING A BUDGET FOR THE TOWN OF FRISCO, COLORADO
+- ENDING DECEMBER 31, 2027, AND APPROVING THE 2027-2031
+- Agenda Item #2: Consideration and Possible Approval on First Reading Ordinance 26-14: AN
+- ORDINANCE AMENDING CHAPTER 110, ARTICLE III OF THE CODE OF
+- ORDINANCES OF THE TOWN OF FRISCO, CONCERNING THE CODE
+- OF ORDINANCES OF THE TOWN OF FRISCO, CONCERNING THE
+- LICENSING OF SHORT-TERM RENTAL PROPERTY, BY AMENDING
+- Agenda Item #1: Consideration and Possible Approval on Second Reading Ordinance 26-22:
+- AN ORDINANCE APPROPRIATING SUMS OF MONEY TO VARIOUS
+- PURPOSES SET FORTH IN THE ADOPTED BUDGET FOR THE TOWN
+- Agenda Item #2: Consideration and Possible Approval on Second Reading Ordinance 26-23:
+- AN ORDINANCE SETTING THE MILL LEVY WITHIN THE TOWN OF
+- Council Agendas can legally be amended up until 24 hours prior to the beginning of the scheduled

@@ -1,120 +1,137 @@
-- title: Data center moratorium
-  summary: Council held two discussions in late August and early September on whether to adopt a moratorium on data centers, with a staff presentation on data center impacts.
+- title: Data center moratorium discussion
+  summary: City Council discussed a possible data center moratorium at the Aug. 25 council update and again at the Sept. 1 planning session, with a data center presentation each time. The documents do not state a decision.
   where: Citywide
   refs:
+  - 8
   - 10
-  - 12
-  tags:
-  - data-center
   topics:
   - Data centers
   - Zoning & development
-- title: 2027 budget recommendation
-  summary: Council worked through the city manager's recommended 2027 budget over several planning sessions and meetings this fall.
+  tags:
+  - data-center
+- title: Creekside Gardens Annexation and zoning
+  summary: Council held a public hearing on Aug. 25 on annexing about 26 acres at the southwest corner of East 140th Avenue and Washington Street into Ward 4. The second reading of the annexation and of the zoning amendment with a development plan followed on Sept. 8.
+  where: Southwest corner of East 140th Avenue and Washington Street
+  refs:
+  - 9
+  - 13
+  topics:
+  - Annexation
+  - Zoning & development
+- title: Bellflower Annexation, zoning and site plan
+  summary: The Planning Commission was scheduled on Oct. 20 to hear the annexation of about 39 acres near East 120th/140th Avenue and Holly Street. The same hearing covered a zoning amendment and a conceptual site plan for a residential development on about 38 acres. Council also designated an annexation plan for land in Adams and Weld Counties on Oct. 13.
+  where: East of Holly Street, north of East 140th Avenue
+  refs:
+  - 27
+  - 30
+  topics:
+  - Annexation
+  - Housing
+  - Zoning & development
+- title: Welby Station zoning amendment
+  summary: A zoning amendment for about 55 acres at the northeast and northwest corners of East 88th Avenue and Welby Road went to the Planning Commission on Sept. 15. It then went to a Council public hearing on Oct. 13.
+  where: East 88th Avenue and Welby Road
+  refs:
+  - 16
+  - 27
+  topics:
+  - Zoning & development
+- title: 2027 city budget, pay plans and tax levy
+  summary: Council reviewed the preliminary 2027 budget in September planning sessions. On Oct. 27 it held public hearings on adopting the 2027 budget, pay plans and appropriations, and a first reading of the property tax levy. Related budgets were also on the agenda for TASHCO, the Thornton Development Authority and the 136th Avenue General Improvement District.
   where: Citywide
   refs:
-  - 12
-  - 19
-  - 24
+  - 10
+  - 17
+  - 22
+  - 35
+  - 36
+  - 37
+  - 38
   topics:
   - Budget & taxes
-- title: 2027 utility rates
-  summary: Council reviewed proposed water, sewer and other utility rate changes for 2027.
+- title: 2027 water, sewer and stormwater rates and water revenue bonds
+  summary: Council reviewed proposed 2027 utility rate and fee adjustments for water, sewer and stormwater, effective Jan. 1, 2027. It also had a first reading of an ordinance authorizing Series 2026 Water Enterprise Revenue Bonds.
   where: Citywide
   refs:
-  - 7
+  - 2
+  - 5
   topics:
   - Fees & rates
   - Water
   - Utilities
-- title: Creekside Gardens annexation at 140th and Washington
-  summary: Council considered annexing and zoning the Creekside Gardens property near 140th Avenue and Washington Street.
-  where: 140th Ave and Washington St
+- title: Interim City Attorney and City Attorney recruitment
+  summary: Council held several executive sessions in August on interviewing internal candidates and negotiating a potential employment agreement for the Interim City Attorney position. In October it met on selecting a vendor for the City Attorney recruitment and on performance of the interim attorney, municipal judge and city manager.
   refs:
-  - 11
-  - 15
-  topics:
-  - Annexation
-  - Zoning & development
-- title: Welby Station rezoning at 88th and Welby
-  summary: Council took up zoning for the Welby Station development near 88th Avenue and Welby Road.
-  where: 88th Ave and Welby Rd
-  refs:
-  - 18
+  - 1
+  - 4
+  - 7
   - 29
+  - 31
   topics:
-  - Zoning & development
-- title: Bellflower annexation at 140th and Holly
-  summary: Council considered the Bellflower annexation and zoning near 140th Avenue and Holly Street.
-  where: 140th Ave and Holly St
-  refs:
-  - 32
-  topics:
-  - Annexation
-  - Zoning & development
-- title: Parks and arts master plans
-  summary: Council reviewed updates to the parks master plan and the arts and culture master plan.
-  where: Citywide
-  refs:
-  - 2
-  - 14
-  - 23
-  topics:
-  - Parks & open space
-  - Libraries & culture
-- title: Station area plans for York at 144th and North Thornton
-  summary: Council looked at station area plans around future transit stops at York Street and 144th Avenue and at North Thornton near State Highway 7.
-  where: York St and 144th Ave, CO 7
-  refs:
-  - 26
-  topics:
-  - Transit
-  - Zoning & development
-- title: Thornton Parkway multimodal path
-  summary: Council took up a multimodal path project along Thornton Parkway.
-  where: Thornton Parkway
-  refs:
-  - 5
-  topics:
-  - Recreation & trails
-  - Roads & traffic
-- title: Municipal fine and fee schedule
-  summary: Council reviewed a new municipal fine and fee schedule, including results of a fee survey and staff recommendations.
+  - Government operations
+- title: Parks and Recreation Master Plan and Arts and Culture Master Plan
+  summary: The Parks, Recreation and Community Programs Master Plan and the Arts and Culture Master Plan 2026-2030 were presented on Sept. 8. Council considered a resolution adopting the Parks and Recreation Master Plan on Sept. 22.
   where: Citywide
   refs:
   - 0
+  - 12
+  - 21
+  - 32
   topics:
-  - Fees & rates
-- title: City code changes after a Supreme Court ruling
-  summary: Council considered amending city code to bring it in line with a recent U.S. Supreme Court ruling.
-  where: Citywide
+  - Parks & open space
+  - Libraries & culture
+  - Recreation & trails
+- title: Parterre subdivision legal strategy
+  summary: Council met in executive session on Sept. 8 for legal advice and negotiator instructions about developing the Parterre subdivision.
+  where: Parterre subdivision
   refs:
-  - 3
-  - 4
+  - 12
+  - 14
   topics:
+  - Zoning & development
   - Lawsuits & legal
-  - Government operations
-- title: Liquor license hearings at First Street Plaza
-  summary: Council held liquor license hearings, including one at First Street Plaza where neighbors filed opposition.
-  where: First Street Plaza
-  refs:
-  - 8
-  public_comment: true
-  topics:
-  - Cannabis & liquor
-- title: Water revenue bonds
-  summary: Council considered issuing water revenue bonds to fund water system projects.
+- title: Small-lot housing and residential design standards
+  summary: Council held a planning session on Oct. 20 on residential housing and design standards, including small-lot housing. The Planning Commission also took up housekeeping amendments to the development code in Chapter 18.
   where: Citywide
   refs:
-  - 4
-  topics:
-  - Water
-  - Budget & taxes
-- title: Residential housing design standards
-  summary: Council reviewed changes to design standards for new residential housing.
-  where: Citywide
-  refs:
-  - 31
+  - 25
+  - 29
   topics:
   - Housing
   - Zoning & development
+- title: Station area plans and Thornton Parkway multimodal path
+  summary: Council discussed visioning for the York at 144th and North Thornton at CO 7 station areas. The Thornton Development Authority took up conveying property to the city for the Thornton Parkway multimodal path from I-25 to Grant Street.
+  where: Thornton Parkway, I-25 to Grant Street; 144th and CO 7 station areas
+  refs:
+  - 3
+  - 24
+  - 32
+  topics:
+  - Transit
+  - Roads & traffic
+  - Recreation & trails
+- title: Marijuana licensing code amendments
+  summary: Council reviewed potential amendments to the city code on marijuana licensing at the Oct. 27 council update.
+  where: Citywide
+  refs:
+  - 34
+  topics:
+  - Cannabis & liquor
+- title: Redevelopment Request for Qualifications negotiations
+  summary: Council met in executive session on Sept. 22 and 29 to set negotiation strategy on responses to the city's Request for Qualifications for a redevelopment project.
+  refs:
+  - 20
+  - 22
+  - 23
+  topics:
+  - Economic development
+  - Land & property
+- title: Old Hire Fire Pension cost-of-living request
+  summary: The Old Hire Fire Pension Board asked that a cost-of-living adjustment be included in the 2027 budget recommendation. Council reviewed the request at the Aug. 18 planning session.
+  where: Citywide
+  refs:
+  - 5
+  topics:
+  - Budget & taxes
+  - Fire & emergencies
+  public_comment: true

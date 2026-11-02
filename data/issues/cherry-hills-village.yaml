@@ -1,12 +1,13 @@
-- title: 2027 budget and temporary 0-mill property tax holiday
-  summary: The draft 2027 budget cuts the Village property tax mill levy to 0 for 2027, about $8.5 million in relief (roughly $4M General Fund and $4.5M Parks Fund), or about $3,800 for the average homeowner. The levy could be restored starting in 2028. Council held a study session on Oct. 20 and a public hearing and first reading of the budget ordinance is scheduled; the draft also adds a Planner I position and a placeholder 10% compensation increase.
+- title: 2027 budget and temporary property tax mill levy cut to zero
+  summary: The draft 2027 budget temporarily cuts the Village property tax mill levy to 0 mills for 2027, with the levy able to return in 2028. This is expected to give about $8.5 million in relief, roughly $3,800 for the average homeowner, including about $4.5M that the General Fund would transfer to the Parks Fund. Council held a study session on October 20 and the budget ordinance public hearing is scheduled. The draft also assumes a 10% compensation placeholder and adds a Planner I position.
   where: Citywide
   refs:
-  - 13
+  - 14
   topics:
   - Budget & taxes
-- title: Ballot Question 2C and home rule authority over zoning
-  summary: Council approved Resolution 29 supporting Ballot Question 2C, a Charter amendment referred to voters on Nov. 3, 2026, affirming the city's home rule authority over zoning and land use. Council asked for stronger language challenging state land use legislation framed as a statewide concern, and approved the resolution subject to an added whereas clause.
+  - Government operations
+- title: 'Ballot Question 2C: home rule charter amendment on zoning and land use'
+  summary: Council passed Resolution 29 supporting Ballot Question 2C, a Charter amendment going to voters on November 3, 2026. It affirms the City's home rule authority over zoning and land use against state land use legislation. Council asked for stronger wording and approved the resolution subject to an added whereas clause.
   where: Citywide
   refs:
   - 8
@@ -15,9 +16,9 @@
   - Zoning & development
   - Elections
   - Housing
-- title: Opposition to Ballot Issue 7A (Front Range Passenger Rail District tax)
-  summary: Council considered Resolution 30 opposing Ballot Issue 7A, a Front Range Passenger Rail District tax increase on the November ballot. Council's objection focused on how the district was structured for taxing purposes, and it noted a planned stop near Santa Fe in unincorporated Jefferson County.
-  where: Santa Fe corridor / rail district
+- title: Council opposes Front Range Passenger Rail District Ballot Issue 7A
+  summary: Council took up Resolution 30 opposing Ballot Issue 7A, a tax increase for Front Range Passenger Rail District voters on the November ballot. Discussion focused on how the district was structured for taxing purposes and on a planned stop near Santa Fe, across from the City in unincorporated Jefferson County.
+  where: Citywide; planned rail stop near Santa Fe
   refs:
   - 8
   - 11
@@ -25,28 +26,17 @@
   - Transit
   - Budget & taxes
   - Elections
-- title: Legislative rezoning, lot frontage and Master Plan sustainability
-  summary: The Planning and Zoning Commission scheduled a study session on legislative rezoning and lot frontage. It also discussed Master Plan sustainability goals such as electric police and public works vehicles, electronic permitting, and roadside drainage concerns on steeper streets such as South Holly Street. Land use discussions were deferred partly because of a lawsuit filed by Northglenn over state legislation.
-  where: Citywide; South Holly Street drainage
+- title: Planning commission study sessions on rezoning, lot frontage, and Master Plan sustainability
+  summary: The Planning and Zoning Commission scheduled a study session on legislative rezoning and lot frontage. It also discussed Master Plan sustainability and resiliency, including electric police and public works vehicles, electronic permitting, and stormwater drainage along roadside ditches and South Holly Street. The land use and zoning Master Plan discussion was deferred partly because of recent legal and legislative developments, including a lawsuit filed by Northglenn.
+  where: Citywide; South Holly Street
   refs:
   - 5
   topics:
   - Zoning & development
   - Environment & climate
-  - Roads & traffic
-- title: Parks, Trails & Recreation 2027 work plan
-  summary: The commission drafted its 2027 work plan, adding a Trail Passport Program, Parks & Trails Visioning with safety improvements, a Recreation Reimbursement Program, park signage, e-bike/e-moto rules and possible bike lane improvements on Colorado, Quincy and Mansfield. A member raised concerns about people being hit in crosswalks at the High Line Canal. Council also has potential expansion of municipal parks on its agenda.
-  where: High Line Canal, Volunteer Park, Colorado/Quincy/Mansfield
-  refs:
-  - 2
-  - 6
-  - 11
-  topics:
-  - Recreation & trails
-  - Parks & open space
-  - Roads & traffic
-- title: Art Commission Day of the Dead exhibit and Oct. 24 family event
-  summary: Council approved an art loan of eight calaveras and bases, not to exceed $10,000. The Art Commission planned a free family event on Oct. 24 from 2 to 4 p.m. with food, crafts, a guitarist and possibly an author or storyteller, within about $4,800 of remaining budget.
+  - Utilities
+- title: Día de los Muertos art exhibit and family event
+  summary: Council approved a loan of eight calavera sculptures and bases for up to $10,000. The Art Commission is planning a free family event on Saturday, October 24, 2-4 p.m., and has worked through food, activities, a guitarist, and a children's author or storyteller. About $4,800 remains in the public art display budget after the loan.
   where: Cherry Hills Village
   refs:
   - 3
@@ -55,9 +45,18 @@
   topics:
   - Libraries & culture
   - Tourism & events
-- title: Art Commission 2027 work plan, sculpture-on-loan and logo color
-  summary: The commission is shaping its 2027 work plan and deciding whether to start a 2027 Sculpture-on-Loan project brief, with about $4,687.50 available and $5,000 anticipated in 2027. It is also discussing a brighter cherry-red logo and a Snow Plow Painting Program with the elementary school.
-  where: Cherry Hills Village
+- title: Parks, Trails & Recreation 2027 work plan, including trail safety and bike lanes
+  summary: The commission is building its 2027 work plan, adding a Trail Passport Program, Parks & Trails Visioning with safety improvements, a Recreation Reimbursement Program, bike lane improvements on Colorado, Quincy and Mansfield, park signage, and e-bike/e-moto rules. Members raised concerns about crosswalks at the High Line Canal.
+  where: High Line Canal; Colorado, Quincy and Mansfield
+  refs:
+  - 6
+  topics:
+  - Recreation & trails
+  - Parks & open space
+  - Roads & traffic
+- title: 2027 Sculpture-on-Loan project, Art Commission work plan and branding
+  summary: The Art Commission is deciding whether to start a project brief for the 2027 Sculpture-on-Loan program, with about $4,687.50 available and $5,000 anticipated in the 2027 work plan. It is also considering a brighter cherry-red logo color, the Snow Plow Painting Program, and a revised meeting schedule.
+  where: Citywide
   refs:
   - 3
   - 7
@@ -65,12 +64,11 @@
   topics:
   - Libraries & culture
   - Budget & taxes
-- title: Wireless infrastructure regulation
-  summary: The City Attorney told Council that the city has limited authority to regulate wireless infrastructure up to fifty feet tall.
+- title: Possible expansion of municipal parks and Fair Housing Act discussion
+  summary: The October 6 Council agenda lists items on the potential expansion of municipal parks within the City and on the operation of the federal Fair Housing Act alongside Village rules. The documents give no detail on outcomes.
   where: Citywide
   refs:
-  - 8
   - 11
   topics:
-  - Utilities
-  - Broadband
+  - Parks & open space
+  - Housing

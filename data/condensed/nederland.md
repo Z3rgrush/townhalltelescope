@@ -111,56 +111,11 @@
 - Infill Development: The parcels are within existing Town boundaries, and the applicant states they
 - are already served by municipal infrastructure. The proposal is characterized as infill development
 
-## [nederland#6] 2026-10-06 | BOARD OF TRUSTEES | agenda
-- 3.1. Approval of October 6, 2026 Warrants
-- 3.2. Approval of September 15, 2026 BOT Special Meeting Minutes
-- 3.3. Approval of September 15, 2026 BOT Meeting Minutes
-- 3.5. Nederland Fire Protection District Wildfire Mitigation Grant Letter of Support
-- 3.6. PROSAB Appointment
-- 3.6 AIM - PROSAB Appointment
-- Public comment may be given for each "Action Item" when called for by the Mayor. Public comment is
-- 4.1. Second Amendment to the Ground Lease between the Town of Nederland and
-- 4.1 AIM - Second Amendment to the Ground Lease
-- 4.1 Resolution 2026-28 - Second Amendment Ground Lease
-- 4.1 Second Amendment to Ground Lease (FINAL)
-- 4.2. Atlas Technical Consultants Agreement for the Safer Main Streets Crosswalk 41 - 61
-- Improvement Project
-- 4.2 AIM - Atlas Technical Consultants Agreement for the Safer Main Streets
-- 4.2 Atlas Technical Consultants Agreement for the Safer Main Streets
-- 4.2 Atlas - Proposal - Nederland Sidewalk Improvement
-- 4.3. Ordinance 893 Amendment to Temporary Use Provisions – Administrative
-- Approval of Similar Temporary Uses
-- 4.3 AIM - Ordinance 893 Amendment to Temporary Use Provisions
-- 4.3 Ordinance 893 Amendment to Temporary Use Provisions
-- 5. DISCUSSION ITEMS
-- Public comment may be given for each "Discussion Item" when called for by the Mayor. Public
-- 5.1. Parks, Recreation, Open Space, and Trails Master Plan Update Review
-- 5.1 AIM -PROST Master Plan Update Review
-- 5.1 Draft Parks, Recreation, Open Space, and Trails Master Plan Update
-- 5.2. BOT Liaison Appointments
-- 5.2 AIM - Board of Trustee Liaison Appointments
-- 5.3. 2026–2028 Strategic Plan – Goal 5 Review
-- 5.3 AIM - 2026–2028 Strategic Plan – Goal 5 Review
-- 6. PUBLIC COMMENT ON NON-AGENDA ITEMS
-- Public comment is limited to 3 minutes per person. Prior to providing comment, the speaker must state
-- assistance with an interpreter or hearing devices, please contact the Town
-- regardless of the heading under which such item appears. Discussion items
-- Trustee members, eliminating lengthy discussions to gain basic
-- understanding. Short discussion on agenda items does not reflect lack of
-- InvoiceNumber Approved Amt Budgeted $Date YTD Balance
-- Council Approval Report
-- (Council Approval Report)
-- 4525604 $2,099.18 $75,000.0008/31/26 $54,574.62Permitting and Plan Reviews 09/30/26 10-15-5121$2,099.18 Permitting and Plan Revi
-- 993225110 $665.92 $9,500.0009/01/26 $4,202.34Street Lights 10/01/26 10-20-5235$665.92 Street Lights
-- 76 General Air Service & Supply, 1105 Zuni Street, Denver, CO, 80204-3338
-- 468 Overhead Door Company of Denver, Inc., 3291 Peoria Street, Aurora, CO, 80010
-- Comm Trainings Grant: Consultant
-
-## [nederland#7] 2026-10-15 | PROSAB - Nederland Parks, Recreation, and Open Space Advisory Board | agenda
+## [nederland#6] 2026-10-15 | PROSAB - Nederland Parks, Recreation, and Open Space Advisory Board | agenda
 - Nederland Parks, Recreation, and Open Space Advisory Board
 - Presentation
 
-## [nederland#8] 2026-10-20 | BOARD OF TRUSTEES | agenda
+## [nederland#7] 2026-10-20 | BOARD OF TRUSTEES | agenda
 - Executive Session pursuant to C.R.S. section 24-6-402(4)(a), (4)(b), and (4)(e)(I) for consideration of
 - and discussion of the Town’s purchase of property and operations for recreational activities and other
 - assistance with an interpreter or hearing devices, please contact the Town
@@ -168,7 +123,7 @@
 - Trustee members, eliminating lengthy discussions to gain basic
 - understanding. Short discussion on agenda items does not reflect lack of
 
-## [nederland#9] 2026-10-21 | PLANNING COMMISSION | agenda
+## [nederland#8] 2026-10-21 | PLANNING COMMISSION | agenda
 - 3. APPROVAL OF MINUTES
 - 4. PUBLIC COMMENT ON NON-AGENDA ITEMS
 - 6.1. Dissolving BZA Ordinance 896
@@ -210,5 +165,13 @@
 - The Commission discussed the low number of variance applications,
 - difficulty maintaining a separate volunteer board, the similarity between
 
-## [nederland#10] 2026-10-22 | SAB - Nederland Sustainability Advisory Board | agenda
+## [nederland#9] 2026-10-22 | SAB - Nederland Sustainability Advisory Board | agenda
 - Presentation
+
+## [nederland#10] 2026-10-29 | BOARD OF TRUSTEES | agenda
+- Executive Session pursuant to C.R.S. section 24-6-402(4)(a), (4)(b), and (4)(e)(I) for consideration of
+- and discussion of the Town’s purchase of property and operations for recreational activities and other
+- assistance with an interpreter or hearing devices, please contact the Town
+- regardless of the heading under which such item appears. Discussion items
+- Trustee members, eliminating lengthy discussions to gain basic
+- understanding. Short discussion on agenda items does not reflect lack of

@@ -1,44 +1,6 @@
 # buena-vista
 
-## [buena-vista#0] 2026-07-28 | Board of Trustees - Packets | agenda
-- This Agenda may be Amended
-- Work Session at 6:00 PM – Short-Term Rentals, Cap Discussion
-- 715 E. Main Street, Buena Vista, Colorado
-- To attend the meeting virtually or to participate in Public Comment and/or Public Hearings,
-- The Board approves the agenda at the start of the meeting, including modifications
-- Approval of matters that are routine in nature that require review and/or approval, i.e. minutes and reports
-- (Professional Service Agreements (PSA) that exceed $25,000.00 require the Consent Agenda to be approved by a
-- 2. Planning & Zoning Commission Minutes – June 26, 2026
-- 3. Beautification Advisory Board Minutes – July 2, 2026
-- E. Adoption of Resolution No. 2026-53, “APPOINTING STEVE ALLENDER AS A VOTING MEMBER AND
-- F. Adoption of Resolution No. 2026-54, “APPROVING AN INTERGOVERNMENTAL AGREEMENT FOR A
-- CLERK AND RECORDER FOR CHAFFEE COUNTY, COLORADO.”
-- VI. (7:20) PUBLIC COMMENT
-- comment. Three minutes for matters not on the agenda or for agenda items not scheduled for Public Hearing
-- raised in the Public Comment segment of Board meetings. Nevertheless, Board members will always retain the
-- VII. PRESENTATIONS
-- A. (7:35) Chaffee Housing Authority Update (p. 90)
-- Chaffee Housing Authority Executive Director Marjo Curgus will provide the Board with an update
-- A. (7:50) South Main Development Agreement Amendment (p. 92)
-- Should the Board of Trustees adopt Resolution No. 2026-55, “APPROVING THE FIRST AMENDMENT TO
-- THE AMENDED AND RESTATED DEVELOPMENT AGREEMENT FOR THE SOUTH MAIN PUD” (est. 20 min)
-- B. (8:10) Cottonwood Lake Dam and Spillway Bid Review (p. 193)
-- The Board will consider moving forward with the Cottonwood Lake Dam and Spillway Project
-- and authorizing funds to facilitate the project through a contract between the Upper Arkansas Water
-- C. (8:25) Colorado Department of Transportation Park-n-Ride Intergovernmental Agreement (p. 249)
-- Should the Board of Trustees adopt Resolution No. 2026-56, “APPROVING AN INTERGOVERNMENTAL
-- AGREEMENT BETWEEN THE TOWN OF BUENA VISTA, COLORADO AND THE STATE OF COLORADO,
-- CONSTRUCTION OF A PARK-N-RIDE ON U.S. HIGHWAY 24” (est. 15 min)
-- D. (8:40) 2027 Budget Presentation (p. 369)
-- Town Treasurer Phillip Puckett will present the 2027 preliminary budget to the Board and set the dates
-- for budget public hearings. (est. 15 min)
-- The Board discusses items with staff and staff can bring up matters not on the agenda
-- X. (9:05) INFORMATION ONLY/LETTER OF SUPPORT REQUESTS
-- “The Alliance” Letter of Support Requests
-- RE: July 28th, 2026 STR Discussion – Work Session
-- component of the STR discussion and draft Ordinance, Section 6-125.(d) Unless exempted by subsection
-
-## [buena-vista#1] 2026-08-05 | Planning and Zoning Commission - Packets | agenda
+## [buena-vista#0] 2026-08-05 | Planning and Zoning Commission - Packets | agenda
 - This Agenda may be Amended
 - PLANNING AND ZONING COMISSION
 - for the public to also attend virtually. To participate in Public Comment and/or Public Hearings you must
@@ -73,7 +35,7 @@
 - livestock (off leash dogs, people feeding her livestock, etc.), which could be along the existing
 - access easement/road (existing fence is barbed wire exclusively to keep her livestock on her
 
-## [buena-vista#2] 2026-08-05 | Historic Preservation Commission | minutes
+## [buena-vista#1] 2026-08-05 | Historic Preservation Commission | minutes
 - APPROVAL OF MINUTES – July 1, 2026 (previously approved electronically)
 - APPROVAL OF AGENDA
 - Melanie made and Suzy seconded a motion to approve the agenda. The motion carried unanimously
@@ -105,7 +67,7 @@
 - applications—particularly affordable housing applications. It has already been enormously helpful. The
 - In terms of budgeting, Marika is proposing a 2026-27 budget of $3,000 for HPC to go towards training
 
-## [buena-vista#3] 2026-08-06 | Beautification Advisory Board | minutes
+## [buena-vista#2] 2026-08-06 | Beautification Advisory Board | minutes
 - Approved Minutes
 - Town of Buena Vista Beautification Advisory Board
 - Approval of Minutes
@@ -130,7 +92,7 @@
 - Projects to Keep Track of:
 - 2026 Budget Season begins in July & is approved end of October
 
-## [buena-vista#4] 2026-08-06 | Tree Advisory Board | minutes
+## [buena-vista#3] 2026-08-06 | Tree Advisory Board | minutes
 - Shawn Williams Public Works Director, Cade Schultz Parks Foreman
 - Agenda. Approved by members
 - Minutes : July 9, 2026 minutes . Motion to approve by Ryan & 2nd by Brad, members
@@ -145,7 +107,7 @@
 - trees along the SDCEA primary electric wiring. Removals & pruning were identified
 - Project will be presented to Town Council for a fall project. One Town permit still needs
 
-## [buena-vista#5] 2026-08-11 | Board of Trustees - Packets | agenda
+## [buena-vista#4] 2026-08-11 | Board of Trustees - Packets | agenda
 - This Agenda may be Amended
 - Work Session at 6:00 PM – Budget Presentation, Department Heads
 - 715 E. Main Street, Buena Vista, Colorado
@@ -184,7 +146,7 @@
 - development review
 - Colorado Preservation Inc on the Road as industry and local planning experts
 
-## [buena-vista#6] 2026-08-18 | Airport Advisory Board | minutes
+## [buena-vista#5] 2026-08-18 | Airport Advisory Board | minutes
 - III. Public Comment
 - No public comment was offered
 - V. Approval of Minutes - July 21, 2026
@@ -225,7 +187,7 @@
 - Finalize the working Safety Plan for AAB consideration Chandra / Nick Sept 15 2026 – AAB Mtg
 - Carry Ted's requested July minutes revision forward for
 
-## [buena-vista#7] 2026-08-19 | Planning and Zoning Commission - Packets | agenda
+## [buena-vista#6] 2026-08-19 | Planning and Zoning Commission - Packets | agenda
 - This Agenda may be Amended
 - LANNING AND ZONING COMISSION
 - for the public to also attend virtually. To participate in Public Comment and/or Public Hearings you must
@@ -260,7 +222,7 @@
 - The discussion generally confirmed the existing conditions analysis, while noting that some
 - data accurately represents current usage, while Ben clarified that the analysis relies primarily on
 
-## [buena-vista#8] 2026-08-19 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | minutes
+## [buena-vista#7] 2026-08-19 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | minutes
 - Planning & Zoning Commission Meeting
 - Commissioner Lane made a motion to move meeting minutes approval to after business item; B
 - Commissioner B. Bennetts motioned to approve the agenda, commissioner _ seconded, motion passed
@@ -284,7 +246,7 @@
 - a. Commission has budget to attend; let Marika know
 - Next Planning & Zoning Commission Meeting: Wednesday, September 2, 2026 at 7:00 pm
 
-## [buena-vista#9] 2026-08-20 | Water Advisory Board | agenda
+## [buena-vista#8] 2026-08-20 | Water Advisory Board | agenda
 - THIS AGENDA MAY BE AMENDED
 - WATER ADVISORY BOARD
 - 713 EAST MAIN STREET, BUENA VISTA, CO 81211
@@ -298,7 +260,7 @@
 - c. Water Conservation Plan – progress on next steps
 - e. Water Department Report – Shawn Williams
 
-## [buena-vista#10] 2026-08-25 | Board of Trustees - Packets | agenda
+## [buena-vista#9] 2026-08-25 | Board of Trustees - Packets | agenda
 - This Agenda may be Amended
 - Work Session at 6:00 PM – Housing Needs Assessment Update
 - 715 E. Main Street, Buena Vista, Colorado
@@ -333,18 +295,18 @@
 - Colorado Department of Local Affairs (DOLA) for compliance review and approval
 - The HNA is intended to provide a shared understanding of the region's housing needs and will help
 
-## [buena-vista#11] 2026-09-01 | Trails Advisory Board | minutes
+## [buena-vista#10] 2026-09-01 | Trails Advisory Board | minutes
 - notification
 - improvements
 - discussions,
 
-## [buena-vista#12] 2026-09-02 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
+## [buena-vista#11] 2026-09-02 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
 - AMENDED AGENDA
 - PLANNING AND ZONING COMISSION
 - The regular meeting of the Buena Vista Planning and Zoning Commission scheduled for
 - This agenda may be amended
 
-## [buena-vista#13] 2026-09-02 | Historic Preservation Commission | minutes
+## [buena-vista#12] 2026-09-02 | Historic Preservation Commission | minutes
 - APPROVAL OF MINUTES – August 5, 2026 (previously approved electronically)
 - APPROVAL OF AGENDA
 - Suzy made and John seconded a motion to approve the agenda. The motion carried unanimously
@@ -358,13 +320,13 @@
 - Nancy attended a Colorado Preservation Inc. and Historicorps’ presentation on “daubing” and
 - public comment when the 30-day window for comment opens
 
-## [buena-vista#14] 2026-09-03 | Tree Advisory Board | agenda
+## [buena-vista#13] 2026-09-03 | Tree Advisory Board | agenda
 - Public Comment
 - Approval of Minutes
 - Annual Plan review
 - 3. Update on SDCEA tree permit
 
-## [buena-vista#15] 2026-09-03 | Beautification Advisory Board | minutes
+## [buena-vista#14] 2026-09-03 | Beautification Advisory Board | minutes
 - Approved Minutes
 - Town of Buena Vista Beautification Advisory Board
 - Approval of Minutes
@@ -380,7 +342,7 @@
 - Joy will present the 2027 budget request to Trustees at 6pm work
 - Projects to Keep Track of:
 
-## [buena-vista#16] 2026-09-08 | Board of Trustees - Packets | agenda
+## [buena-vista#15] 2026-09-08 | Board of Trustees - Packets | agenda
 - This Agenda may be Amended
 - Work Session at 6:00 PM – Advisory Boards and Commission 2027 Budget Presentations
 - Beautification Advisory Board, Recreation & Trails Advisory Boards,
@@ -420,7 +382,7 @@
 - better understand current and future housing needs and will inform required Housing Action
 - Bueno also discussed housing market and affordability trends, including home prices and rents
 
-## [buena-vista#17] 2026-09-15 | Airport Advisory Board | minutes
+## [buena-vista#16] 2026-09-15 | Airport Advisory Board | minutes
 - III. Public Comment
 - Carlin Walsh joined to continue to introduce himself and reiterate his support for the
 - Agenda presented but not approved due to lack of quorum
@@ -442,13 +404,13 @@
 - Board comments on draft safety plan Board Members ASAP
 - Board brainstorming on ASE closure Board Members ASAP
 
-## [buena-vista#18] 2026-09-16 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
+## [buena-vista#17] 2026-09-16 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
 - AMENDED AGENDA
 - PLANNING AND ZONING COMISSION
 - The regular meeting of the Buena Vista Planning and Zoning Commission scheduled for
 - This agenda may be amended
 
-## [buena-vista#19] 2026-09-16 | Recreation Advisory Board | agenda
+## [buena-vista#18] 2026-09-16 | Recreation Advisory Board | agenda
 - Agenda Adoption/Amendment
 - Approval of the July & August Meeting Minutes
 - Public Comment
@@ -456,7 +418,7 @@
 - III. BOT Presentation Report – Mckenzie & Catelin
 - I. Recreation Staff Report Discussion
 
-## [buena-vista#20] 2026-09-17 | Water Advisory Board | agenda
+## [buena-vista#19] 2026-09-17 | Water Advisory Board | agenda
 - THIS AGENDA MAY BE AMENDED
 - WATER ADVISORY BOARD
 - 713 EAST MAIN STREET, BUENA VISTA, CO 81211
@@ -468,7 +430,7 @@
 - b. ULI / Town Water practices event: WAB members attendance
 - e. Water Department Report – Shawn Williams
 
-## [buena-vista#21] 2026-09-22 | Board of Trustees - Packets | agenda
+## [buena-vista#20] 2026-09-22 | Board of Trustees - Packets | agenda
 - This Agenda may be Amended
 - Work Session 5:00PM - 6:00 PM – Urban Land Institute Water Efficiency Presentation
 - 715 E. Main Street, Buena Vista, Colorado
@@ -503,7 +465,7 @@
 - Should the Board of Trustees adopt Resolution No. 2026-66, “APPROVING THE TOWN'S AFFORDABLE
 - HOUSING COMMITMENT PURSUANT TO COLORADO PROPOSITION 123 FOR THE 2027–2029
 
-## [buena-vista#22] 2026-09-23 | Planning and Zoning Commission - Packets | agenda
+## [buena-vista#21] 2026-09-23 | Planning and Zoning Commission - Packets | agenda
 - This Agenda may be Amended
 - PLANNING AND ZONING COMISSION
 - for the public to also attend virtually. To participate in Public Comment and/or Public Hearings you must
@@ -540,37 +502,47 @@
 - The Town of Buena Vista is reviewing a Major Site Plan for a new Boys & Girls Club of Chaffee County facility at 710
 - Cedar Street. The 0.729-acre site is owned by the Town of Buena Vista and is currently vacant. The proposed two
 
-## [buena-vista#23] 2026-09-30 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
+## [buena-vista#22] 2026-09-30 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
 - AMENDED AGENDA
 - PLANNING AND ZONING COMISSION
 - The added meeting of the Buena Vista Planning and Zoning Commission scheduled for
 - This agenda may be amended
 
-## [buena-vista#24] 2026-10-01 | Tree Advisory Board | agenda
+## [buena-vista#23] 2026-10-01 | Tree Advisory Board | agenda
 - Public Comment
 - Approval of Minutes
 - Annual Plan review
 - 2. Tree removal/pruning bid , Sarah’3 Recommenda
 - 3. Update on SDCEA tree permit
 
-## [buena-vista#25] 2026-10-01 | Beautification Advisory Board | agenda
-- Beautification
-- presentation
+## [buena-vista#24] 2026-10-01 | Beautification Advisory Board | minutes
+- Approved Minutes
+- Town of Buena Vista Beautification Advisory Board
+- Approval of Minutes
+- Ratified email approved minutes from the September 3, 2026 meeting
+- 2026 Beautification Funding from Town balance - $1931.30
+- Beautification Fund Raised Funds Available Balance - $6640.14
+- scarecrows in Main Street planters, erect corn stalks and scarecrows in
+- Splash Park as well as giant "Skel Crow"
+- Joy was unable to attend the trustee budget meeting so Paula made
+- our Budget Request, which was well received by the Trustees
+- Discussed thank you cards for Public Works employees, with
+- Projects to Keep Track of:
 
-## [buena-vista#26] 2026-10-07 | Trails Advisory Board | agenda
+## [buena-vista#25] 2026-10-07 | Trails Advisory Board | agenda
 - III. Ratify September 1, 2026 Meeting Minutes
 - IV . Public Comment
 - V. Development Reviews
 - X. Trail Planning and Development (Randy)
 - Grant Updates- CYCA-Common Grounds
 
-## [buena-vista#27] 2026-10-07 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
+## [buena-vista#26] 2026-10-07 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
 - AMENDED AGENDA
 - PLANNING AND ZONING COMISSION
 - The regular meeting of the Buena Vista Planning and Zoning Commission scheduled for
 - This agenda may be amended
 
-## [buena-vista#28] 2026-10-07 | Historic Preservation Commission | minutes
+## [buena-vista#27] 2026-10-07 | Historic Preservation Commission | minutes
 - APPROVAL OF MINUTES – September 2, 2026 (previously approved electronically)
 - APPROVAL OF AGENDA
 - Suzy made and Jo seconded a motion to approve the agenda. The motion carried unanimously
@@ -587,7 +559,7 @@
 - Staff and some commissioners discussed their experience with the Urban Land Institute water planning
 - Suzy shared that the electrical contractors will resume work on the museum in January 2027. The last BV
 
-## [buena-vista#29] 2026-10-13 | Board of Trustees - Agendas & Minutes (Packets below) | agenda
+## [buena-vista#28] 2026-10-13 | Board of Trustees - Agendas & Minutes (Packets below) | agenda
 - This Agenda may be Amended
 - 715 E. Main Street, Buena Vista, Colorado
 - To attend the meeting virtually or to participate in Public Comment and/or Public Hearings,
@@ -619,7 +591,7 @@
 - INCLUSION OF ALL PROPERTY IN THE TOWN INTO THE CHAFFEE COUNTY FIRE PROTECTION DISTRICT ”
 - The Board discusses items with staff and staff can bring up matters not on the agenda
 
-## [buena-vista#30] 2026-10-13 | Board of Trustees - Packets | agenda
+## [buena-vista#29] 2026-10-13 | Board of Trustees - Packets | agenda
 - This Agenda may be Amended
 - 715 E. Main Street, Buena Vista, Colorado
 - To attend the meeting virtually or to participate in Public Comment and/or Public Hearings,
@@ -655,7 +627,7 @@
 - Director Victoria Oestreich explained that ULI’s statewide initiative, supported by a Colorado Water
 - Plan grant, brings together public- and private-sector professionals to develop recommendations for
 
-## [buena-vista#31] 2026-10-15 | Water Advisory Board | agenda
+## [buena-vista#30] 2026-10-15 | Water Advisory Board | agenda
 - THIS AGENDA MAY BE AMENDED
 - WATER ADVISORY BOARD
 - 713 EAST MAIN STREET, BUENA VISTA, CO 81211
@@ -666,7 +638,7 @@
 - a. Water Rate Study: Technical Memorandum #6: 10-Year Financial Planning
 - Discussion Points
 
-## [buena-vista#32] 2026-10-21 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
+## [buena-vista#31] 2026-10-21 | Planning and Zoning Commission - Agendas & Minutes (Packets below) | agenda
 - This Agenda may be Amended
 - PLANNING AND ZONING COMISSION
 - for the public to also attend virtually. To participate in Public Comment and/or Public Hearings you must
@@ -678,7 +650,7 @@
 - a) Formal Code discussion amendment for consideration on 11/4/26
 - 1. Daylight Savings Nov 1 – Commission consider 6:00 pm start time
 
-## [buena-vista#33] 2026-10-21 | Planning and Zoning Commission - Packets | agenda
+## [buena-vista#32] 2026-10-21 | Planning and Zoning Commission - Packets | agenda
 - This Agenda may be Amended
 - LANNING AND ZONING COMISSION
 - for the public to also attend virtually. To participate in Public Comment and/or Public Hearings you must
@@ -714,3 +686,72 @@
 - plant species that are proposed, and provided feedback that one of the types of trees on the
 - plans may not thrive at this elevation. Commissioner T. Bennetts asked if there was a permitted
 - Commissioner T. Bennetts motioned to approve the Boys & Girls Club of Chaffee County Major
+
+## [buena-vista#33] 2026-10-27 | Board of Trustees - Packets | agenda
+- This Agenda may be Amended
+- 715 E. Main Street, Buena Vista, Colorado
+- To attend the meeting virtually or to participate in Public Comment and/or Public Hearings,
+- The Board approves the agenda at the start of the meeting, including modifications
+- An executive session to consider a personnel matter, pursuant to C.R.S. § 24-6-402(4)(f) and not involving: any
+- specific employees who have requested discussion of the matter in open session; any member of this body or
+- any elected official; the appointment of any person to fill an office of this body or of an elected official; or
+- personnel policies that do not require the discussion of matters personal to particular employees. The
+- Approval of matters that are routine in nature that require review and/or approval, i.e. minutes and reports
+- (Professional Service Agreements (PSA) that exceed $25,000.00 require the Consent Agenda to be approved by a
+- 2. Planning & Zoning Commission – 8-19-2026
+- F. Adoption of Resolution No. 2026-72, "APPOINTING WAYNE THEBEAU AS AN ALTERNATE VOTING
+- MEMBER OF THE PLANNING AND ZONING COMMISSION"
+- G. Adoption of Resolution No. 2026-73, "CERTIFYING DELINQUENT WATER ASSESSMENTS TO THE
+- CHAFFEE COUNTY TREASURER"
+- H. Adoption of Resolution No. 2026-74, "APPROVING PAYMENT FOR THE NUISANCE ABATEMENT COSTS
+- INCURRED TO RENDER 316 MAIN STREET SAFE AND TO FILE A WRITTEN LIEN AGAINST THE PROPERTY”
+- IX. PUBLIC COMMENT
+- comment. Three minutes for matters not on the agenda or for agenda items not scheduled for Public Hearing
+- raised in the Public Comment segment of Board meetings. Nevertheless, Board members will always retain the
+- A. (7:30) Public Hearing - 2027 Town of Buena Vista Budget (p. 106)
+- Should the Board of Trustees adopt Resolution No. 2026-75, “ADOPTING THE TOWN OF BUENA VISTA
+- 2027 FEE SCHEDULE” (est. 5 mins)
+- (p. 155) Should the Board of Trustees adopt Resolution No. 2026-76, “SUMMARIZING EXPENDITURES
+- AND REVENUES FOR EACH FUND AND ADOPTING A BUDGET FOR THE TOWN OF BUENA VISTA,
+- (p. 209) Should the Board of Trustees adopt Resolution No. 2026-77, “APPROPRIATING SUMS OF
+- 2027 BUDGET YEAR” (est. 15 mins)
+- B. (8:05) Shelia Stout Memorial Softball Field Staircase Bid (p. 212)
+- Should the Board of Trustees adopt Resolution No. 2026-78, “APPROVING A CONSTRUCTION
+- CONTRACT WITH GREATLAND INC FOR THE SHEILA STOUT MEMORIAL SOFTBALL FIELD STAIRCASE
+- AND HANDRAIL REPLACEMENT PROJECT” (est. 10 mins)
+- The Board discusses items with staff and staff can bring up matters not on the agenda
+- WHEREAS, The first 11 days of November will be identified as “11 DAYS OF
+
+## [buena-vista#34] 2026-10-27 | Board of Trustees - Agendas & Minutes (Packets below) | agenda
+- This Agenda may be Amended
+- 715 E. Main Street, Buena Vista, Colorado
+- To attend the meeting virtually or to participate in Public Comment and/or Public Hearings,
+- The Board approves the agenda at the start of the meeting, including modifications
+- An executive session to consider a personnel matter, pursuant to C.R.S. § 24-6-402(4)(f) and not involving: any
+- specific employees who have requested discussion of the matter in open session; any member of this body or
+- any elected official; the appointment of any person to fill an office of this body or of an elected official; or
+- personnel policies that do not require the discussion of matters personal to particular employees. The
+- Approval of matters that are routine in nature that require review and/or approval, i.e. minutes and reports
+- (Professional Service Agreements (PSA) that exceed $25,000.00 require the Consent Agenda to be approved by a
+- 2. Planning & Zoning Commission – 8-19-2026
+- F. Adoption of Resolution No. 2026-72, "APPOINTING WAYNE THEBEAU AS AN ALTERNATE VOTING
+- MEMBER OF THE PLANNING AND ZONING COMMISSION"
+- G. Adoption of Resolution No. 2026-73, "CERTIFYING DELINQUENT WATER ASSESSMENTS TO THE
+- CHAFFEE COUNTY TREASURER"
+- H. Adoption of Resolution No. 2026-74, "APPROVING PAYMENT FOR THE NUISANCE ABATEMENT COSTS
+- INCURRED TO RENDER 316 MAIN STREET SAFE AND TO FILE A WRITTEN LIEN AGAINST THE PROPERTY”
+- IX. PUBLIC COMMENT
+- comment. Three minutes for matters not on the agenda or for agenda items not scheduled for Public Hearing
+- raised in the Public Comment segment of Board meetings. Nevertheless, Board members will always retain the
+- A. (7:30) Public Hearing - 2027 Town of Buena Vista Budget (p. 106)
+- Should the Board of Trustees adopt Resolution No. 2026-75, “ADOPTING THE TOWN OF BUENA VISTA
+- 2027 FEE SCHEDULE” (est. 5 mins)
+- (p. 155) Should the Board of Trustees adopt Resolution No. 2026-76, “SUMMARIZING EXPENDITURES
+- AND REVENUES FOR EACH FUND AND ADOPTING A BUDGET FOR THE TOWN OF BUENA VISTA,
+- (p. 209) Should the Board of Trustees adopt Resolution No. 2026-77, “APPROPRIATING SUMS OF
+- 2027 BUDGET YEAR” (est. 15 mins)
+- B. (8:05) Shelia Stout Memorial Softball Field Staircase Bid (p. 212)
+- Should the Board of Trustees adopt Resolution No. 2026-78, “APPROVING A CONSTRUCTION
+- CONTRACT WITH GREATLAND INC FOR THE SHEILA STOUT MEMORIAL SOFTBALL FIELD STAIRCASE
+- AND HANDRAIL REPLACEMENT PROJECT” (est. 10 mins)
+- The Board discusses items with staff and staff can bring up matters not on the agenda

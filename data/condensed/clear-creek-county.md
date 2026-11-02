@@ -1,17 +1,6 @@
 # clear-creek-county
 
-## [clear-creek-county#0] 2026-07-29 | Planning Commission Packets | agenda
-- Location: Idaho Springs City Hall, 1711 Miner Street, Idaho Springs, CO 80452
-- Call For Public Comment On Non-Agenda Items
-- questions regarding the application to Clear Creek County’s Boards and Commissions of
-
-## [clear-creek-county#1] 2026-07-29 | Open Space Commission Packets | agenda
-- 1711 Miner Street, Idaho Springs, CO
-- Public Comment
-- specific questions regarding the application to Clear Creek County’s Boards and
-- representative will follow up and provide the requested content in an accessible format
-
-## [clear-creek-county#2] 2026-08-04 | BOCC Packets | minutes
+## [clear-creek-county#0] 2026-08-04 | BOCC Packets | minutes
 - 405 Argentine Street, Georgetown, CO 80444
 - 2. Public Comment - (Members of the audience have three minutes to present a matter of concern to the
 - On August 26th, there is a Wildfire Preparedness Workshop at Dumont Fire Station
@@ -43,12 +32,12 @@
 - to restore a Deputy Clerk position as a permanent full-time equivalent (FTE). The request is to restore
 - 18. Work Session: Digital Accessibility Transition Plan - Megan Hiler-Wilson
 
-## [clear-creek-county#3] 2026-08-11 | BOCC Packets | agenda
+## [clear-creek-county#1] 2026-08-11 | BOCC Packets | agenda
 - II. Lodging Tax
 - V. General discussion of matters of common interest among the Board of County
 - Commissioners and the Mayors and/or other representatives of the incorporated
 
-## [clear-creek-county#4] 2026-08-11 | BOCC Packets | agenda
+## [clear-creek-county#2] 2026-08-11 | BOCC Packets | agenda
 - 2. Public Comment
 - 3. Consideration Of Approval Of Resolution R-26-54, A Resolution Authorizing The Sale
 - Of Real Property And Granting Signature Authority To Execute Real Estate Documents
@@ -57,7 +46,7 @@
 - Subject To Negotiations; Developing Strategy For Negotiations; And Instructing
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#5] 2026-08-12 | Open Space Commission Packets | agenda
+## [clear-creek-county#3] 2026-08-12 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - l Agenda Approval/Changes
 - 1. Approval of July 8, 2026 Meeting Minutes
@@ -73,7 +62,7 @@
 - specific legal questions related to adding a gate to an access road for the Sheep
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#6] 2026-08-18 | BOCC Packets | agenda
+## [clear-creek-county#4] 2026-08-18 | BOCC Packets | agenda
 - 2. Public Comment
 - MOTORCYCLE PICTURES - PUBLIC COMMENT 2026.08.18.PDF
 - Applications to renew a marijuana license shall be approved administratively by
@@ -120,19 +109,19 @@
 - 2. RESOLUTION R-01-83.PDF
 - B. Shared Role Discussion - Veteran’s Services Officer
 
-## [clear-creek-county#8] 2026-08-26 | Board of Adjustment Packets | agenda
+## [clear-creek-county#6] 2026-08-26 | Board of Adjustment Packets | agenda
 - Location : Idaho Springs City Hall, 1711 Miner Street, Idaho
 - Call For Public Comment On Non-Agenda Items
 - questions regarding the application to Clear Creek County’s Boards and Commissions of
 
-## [clear-creek-county#9] 2026-08-26 | Open Space Commission Packets | agenda
+## [clear-creek-county#7] 2026-08-26 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Springs City Hall, 1711 Miner Street, Idaho Springs, CO 80452 (In Person Only – No Virtual
 - Public Comment - (Members Of The Audience Have Three Minutes To Present A Matter Of
 - Of Receiving Legal Advice On Specific Questions Regarding The Application To Clear Creek
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#10] 2026-09-01 | BOCC Packets | agenda
+## [clear-creek-county#8] 2026-09-01 | BOCC Packets | agenda
 - 2. Public Comment
 - OF RESOLUTION R-26-55 - LODGING TAX INCREASE BALLOT
 - 3. Consideration Of Rescission Of July 21, 2026, Approval Of Change Of Ownership
@@ -174,11 +163,11 @@
 - ATTACHMENT 4 - CDOT I-70 FLOYD HILL BOCC PRESENTATION.PDF
 - 13. Work Session: Presentation And Discussion Of CDOT Requirements For Condition 9
 
-## [clear-creek-county#11] 2026-09-08 | BOCC Packets | agenda
+## [clear-creek-county#9] 2026-09-08 | BOCC Packets | agenda
 - VI. General discussion of matters of common interest among the Board of County
 - Commissioners and the Mayors and/or other representatives of the incorporated
 
-## [clear-creek-county#12] 2026-09-09 | BOCC Packets | agenda
+## [clear-creek-county#10] 2026-09-09 | BOCC Packets | agenda
 - 2. Public Comment
 - A. 2027 Budget Requests And Process
 - E. Alvarado Park Project Update
@@ -186,11 +175,11 @@
 - F. Parking On County Roads To Access Open Space And Other Recreational Lands
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#13] 2026-09-09 | Open Space Commission Packets | agenda
+## [clear-creek-county#11] 2026-09-09 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#14] 2026-09-15 | BOCC Packets | agenda
+## [clear-creek-county#12] 2026-09-15 | BOCC Packets | agenda
 - 2. Public Comment
 - A. Consideration Of Approval Of The Warrant Register
 - B. Consideration Of Approval Of Minutes For:
@@ -212,18 +201,18 @@
 - in applying for and participating in a wildfire mitigation grant
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#15] 2026-09-19 | Open Space Commission Packets | agenda
+## [clear-creek-county#13] 2026-09-19 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Fox Lot (the lot at the end of 4th Street behind the Courthouse. Plan to depart at 9:30
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#16] 2026-09-22 | Open Space Commission Packets | agenda
+## [clear-creek-county#14] 2026-09-22 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Courthouse in the Fox Lot accessed via 4th Street
 - water to the Front Range as well as key wildlife habitat and
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#17] 2026-10-06 | BOCC Packets | agenda
+## [clear-creek-county#15] 2026-10-06 | BOCC Packets | agenda
 - 2. Public Comment
 - The following marijuana applications shall be approved administratively by the
 - Chair of the Local Licensing Authority without public hearing or the need for public
@@ -264,12 +253,12 @@
 - Subject To Negotiations; Developing Strategy For Negotiations; And Instructing
 - with your ability to access information, please contact us. Additional ways to provide feedback
 
-## [clear-creek-county#18] 2026-10-13 | BOCC Packets | agenda
+## [clear-creek-county#16] 2026-10-13 | BOCC Packets | agenda
 - II. Clear Creek Economic Development Corp – Lindsey Valdez
 - V. General discussion of matters of common interest among the Board of County Commissioners
 - and the Mayors and/or other representatives of the incorporated municipalities within Clear
 
-## [clear-creek-county#19] 2026-10-14 | Open Space Commission Packets | agenda
+## [clear-creek-county#17] 2026-10-14 | Open Space Commission Packets | agenda
 - 1711 Miner Street, Idaho Springs, CO
 - Agenda Approval/Changes
 - o Approval of August 12, 2026 Meeting Minutes
@@ -287,7 +276,7 @@
 - Glass Memorial Concept For Alvarado Open Space Park
 - representative will follow up and provide the requested content in an accessible format
 
-## [clear-creek-county#20] 2026-10-20 | BOCC Packets | agenda
+## [clear-creek-county#18] 2026-10-20 | BOCC Packets | agenda
 - 2. Public Comment
 - 6. Work Session: 2025 Annual Financial Audit Presentation
 - A. Consideration Of Approval Of The Warrant Register

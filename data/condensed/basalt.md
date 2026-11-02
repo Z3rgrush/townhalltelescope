@@ -593,3 +593,49 @@
 
 ## [basalt#30] 2026-10-22 | Town Council | agenda
 - 5:00 PM WORK SESSION: STR Regulatory Fees Discussion
+
+## [basalt#31] 2026-10-27 | Town Council | agenda
+- MEETING AND PUBLIC COMMENT ACCESS INSTRUCTIONS
+- AMENDED AGENDA TITLES
+- 2A. Resolution No. 44, Series of 2026:
+- Resolution of the Town Council of Basalt, Colorado, Supporting Ballot Issue 3A
+- Increase Sales Tax for Public Services Facilities (Gloria Kaash-Buerger, Jeff Conklin)
+- Suggested Motion: Mayor, I move that the Town Council adopt Resolution No.44,
+- Identify yourself by name and address when making comments
+- 6. PRESENTATIONS
+- 6:15 6A. Parcel 2E Final Presentation (Catherine Christoff)
+- (Council to consider 7A and 7B together)
+- 6:35 7A. Continued Resolution No. 34, Series of 2026:
+- Resolution of the Town Council of The Town of Basalt, Colorado, Approving
+- Amendments to the 2020 Town of Basalt Master Plan to Amend the Future Land Us
+- Suggested Motion: Mayor, I move that the Town Council adopt Resolution No. 34,
+- 7:00 7B. Continued Public Hearing and Second Reading Ordinance No. 18, Series of
+- 2026: Ordinance of the Town Council of the Town of Basalt, Colorado, Granting Special
+- Review, a PUD Amendment, and Associated Development Review Actions to Develop a
+- Mixed Use Development at 555 Basalt Avenue, Basalt, Colorado. (James Lindt)
+- Suggested Motion: Mayor, I move that the Town Council adopt Ordinance No. 18,
+- 7:25 7C. Public Hearing and Second Reading Ordinance No. 24, Series of 2026:
+- Ordinance of the Town Council of the Town of Basalt, Colorado, Amending Section 8-8
+- of the Town Code to Adopt by Reference C.R.S. 42-4-110.5, as amended, Regarding
+- the Use of Automated Vehicle Identification Systems and Amending the Penalty
+- Suggested Motion: Mayor, I move that the Town Council adopt Ordinance No. 24,
+- 7:35 7D. Public Hearing and Second Reading Ordinance No. 25, Series of 2026:
+- Ordinance of the Town Council of the Town of Basalt, Colorado, for Special Review
+- Approval for Setback Adjustments in the R-3 TN Zone District at 135 E. Homestead
+- Suggested Motion: Mayor, I move that the Town Council adopt Ordinance No. 25,
+- 7:45 7E. Resolution No. 42, Series of 2026:
+- Resolution of the Town Council of The Town of Basalt, Colorado, Establishing a
+- Baseline of Affordable Housing for the Purposes of Filing a Commitment with the
+- Suggested Motion: Mayor, I move that the Town Council adopt Resolution No. 42,
+- 7:50 7F. Resolution No. 43, Series of 2026:
+- Resolution of the Town Council of Basalt, Colorado, Approving a Revocable License
+- Agreement for 406 Elk Circle, Basalt, Colorado (Lena Palmores, James Lindt)
+- Suggested Motion: Mayor, I move that the Town Council adopt Resolution No.43,
+- Resolution No. 44
+- B. The Town Council has the power to adopt this Resolution pursuant to Colorado
+
+## [basalt#32] 2026-10-27 | Town Council | agenda
+- RMI – 22830 TWO RIVERS ROAD
+
+## [basalt#33] 2026-10-29 | Town Council | agenda
+- 499 MARKET STREET

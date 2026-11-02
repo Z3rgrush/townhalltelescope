@@ -1,40 +1,6 @@
 # fremont-county
 
-## [fremont-county#0] 2026-07-28 | City Council | minutes
-- Kevin Grantham Commissioner Present
-- Justin Grantham Clerk and Recorder Present
-- APPROVAL OF AGENDA
-- Commissioner McFall moved to approve the agenda as presented. Commissioner Grantham seconded
-- the motion. Upon Vote: Commissione r McFall, aye; Commissioner Grantham, aye; Commissioner Bell,
-- 1. Approval of Minutes / July 8, 2026, Special Meeting and July 14, 2026
-- 2. Approval of Bills for $2,734,632.19
-- 3. Resolution No.17, Series of 2026 Adopting the Amended Fremont County Body Art
-- 4. Schedule Public Hearings:
-- Requesting a Zone Change from Business to Residential One (R1). Representative: John
-- Commissioner Grantham moved to approve the consent agenda. Commissione r McFall seconded the
-- motion. Upon Vote: Commissioner Grantham, aye; Commissioner McFall, aye; Commissioner Bell, aye
-- a. County Clerk’s Monthly Report, Justin Grantham, County Clerk
-- Clerk Grantham presented the County Clerk’s Monthly Report, which is available in full at
-- Commissioner Grantham seconded the motion. Upon Vote: Commissioner McFall, aye; Commissioner
-- Grantham, aye; Commissioner Bell, aye. The motion carried by unanimous consent
-- Commissioner Grantham moved to accept the Public Trustee’s Quarterly Report. Commissioner
-- McFall seconded the motion. Upon Vote: Commissioner Grantham, aye; Commissioner McFall, aye;
-- Commissioner Grantham said August 1st marks the official 150th anniversary of Colorado's formation
-- transfer, sale, or purchase of a specific and long list of semi-automatic firearms. It bans rapid-fire
-- conversion devices and requires people who want to purchase one to take a firearm safety training
-- program completed through Colorado Parks and Wildlife
-- the last six years, she has led an annual policy resolution seeking and pledging financial support from
-- the steering committee and was granted full approval from the NACO board. Commissioner Bell sadly
-- whether actions taken or agreements made had supporting documentation and were followed through
-- operated by the Department of Human Services, specifically Medicaid and child support services. Mr
-- improvement project, as it was one of the largest in 2025. Mr. Logan concluded that his opinion was
-- Commissioner Grantham moved t o accept the 2025 Fremont County financial statements and
-- seconded the motion. Upon Vote: Commissione r Grantham , aye; Commissione r McFall , aye;
-- 2. Appointment of a new member to the Fremont County Fair Board for a term expiring
-- Commissioner McFall moved to appoint McKenna Long to the Fremont County Board with a term
-- ending December 31st of 2029 to complete this term and serve the next full term. Commissioner Grantham
-
-## [fremont-county#1] 2026-08-11 | City Council | minutes
+## [fremont-county#0] 2026-08-11 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin Grantham Clerk and Recorder Absent
 - Dan Victoria Planning & Zoning Director Present
@@ -68,7 +34,7 @@
 - Commissioner Grantham moved to approve the proclamation, proclaiming August 11th of 2026 as
 - Commissioner McFall seconded the motion. Upon Vote: Commissioner Grantham, aye; Commissioner
 
-## [fremont-county#2] 2026-08-25 | City Council | minutes
+## [fremont-county#1] 2026-08-25 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin Grantham Clerk and Recorder Absent
 - Dan Victoria Planning & Zoning Director Present
@@ -102,7 +68,7 @@
 - for personal use, and they plan to add a full bathroom to the unit. Since this will be for personal use only,
 - the owner is requesting that the lot be rezoned from commercial to residential
 
-## [fremont-county#3] 2026-09-08 | City Council | minutes
+## [fremont-county#2] 2026-09-08 | City Council | minutes
 - Kevin Grantham Commissioner Absent
 - Justin Grantham Clerk and Recorder Present
 - Dan Victoria Planning & Zoning Director Present
@@ -137,7 +103,7 @@
 - recent surge in sales at this quarry. The quarry operates only a day or two each month. They are not
 - proposing to operate more days, but to accommodate random surges during those days of operation so
 
-## [fremont-county#4] 2026-09-22 | City Council | minutes
+## [fremont-county#3] 2026-09-22 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin Grantham Clerk and Recorder Absent
 - Dan Victoria Planning & Zoning Director Present
@@ -172,7 +138,7 @@
 - board through a separate resolution, the board may, at its discretion, assess additional fees and amounts
 - deemed appropriate by the board to cover the actual costs of evaluating the application, including, but
 
-## [fremont-county#5] 2026-09-28 | City Council | minutes
+## [fremont-county#4] 2026-09-28 | City Council | minutes
 - Kevin Grantham Commissioner Present
 - Justin D Grantham Clerk and Recorder Present
 - APPROVAL OF AGENDA
@@ -203,7 +169,7 @@
 - access permit or whether this would prevent them from opening completely anyway
 - Commissioner Grantham moved to approve the request for the issuance of a new malt, vinous, and
 
-## [fremont-county#6] 2026-10-13 | City Council | agenda
+## [fremont-county#5] 2026-10-13 | City Council | agenda
 - V) Approval of Agenda
 - 1. Approval of Minutes / September 22, 2026 and September 28, 2026 Special
 - 2. Approval of Bills for $2,630,707.51
@@ -220,3 +186,14 @@
 - 5. Reappointment of Jim Wick to the Fremont County Airport Advisory Board with a
 - 6. Reappointment of Lu Toxvard to the Fremont County Airport Advisory Board with a
 - X) Public Hearings Scheduled for 9:30 a.m.: None
+
+## [fremont-county#6] 2026-10-27 | City Council | agenda
+- V) Approval of Agenda
+- 1. Approval of Bills for $3,680,934.71
+- 2. Ratification of Commissioner McFall’s Signature on 2027 MotivHealth Final Proposal
+- 3. Schedule Public Hearings:
+- Proposed 2027 Fremont County Budget
+- Budget and Finance Officer
+- 2. Bid Award Recommendation for DHS Building Roof Replacement
+- X) Public Hearings Scheduled for 9:30 a.m.:
+- Requesting approval of a Commercial Development Plan by Stanley Yoder, for the
